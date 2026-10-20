@@ -1,0 +1,28 @@
+[FORMAT]
+Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+
+[CHARACTERS — match the attached reference images exactly]
+@Mit = Mit (husband, about 35): anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. He is the tallest of the family. Outfit A: faded earth-brown áo bà ba shirt, black trousers rolled up to the knees, black-and-white checkered khăn rằn scarf knotted around the neck, barefoot, a conical nón lá hat when outdoors. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s, playful.
+BÀ BÁN VÉ SỐ (the elderly lottery-ticket seller): gentle elderly anthropomorphic dog standing upright on two legs, small and slightly stooped, soft grey-white fur, droopy ears, kind wrinkled eyes and a warm smile, a worn conical nón lá, a faded dark-brown áo bà ba with a patched elbow, black trousers, a cloth bag slung over one shoulder, a small fan of pastel lottery tickets with blank, unreadable print in one paw, paw-hands with four fingers. Voice: kind, raspy elderly Southern Vietnamese female voice.
+
+[PRODUCTS — match the attached product reference image]
+One box of colored pencils (hộp bút màu) matching the attached product reference image, label blank and unreadable; it sits on the seller's small wooden tray beside her stool.
+
+[SETTING]
+THE WILDFLOWER CANAL BANK: a grassy canal bank near the family's bamboo hut, purple wild mua flowers (Melastoma) and small yellow wild daisies in tall grass, clusters of purple water hyacinth floating along the canal edge, coconut palms along the water, the small thatched bamboo hut visible farther down the bank.
+Time: late-afternoon golden hour, warm low backlight, glowing tall grass, long soft shadows; a narrow dirt footpath runs along the bank toward the thatched hut in the far distance; beside the path, under a leaning coconut palm, the seller's low wooden stool and a small flat wooden tray holding a few plain pencils, a short stack of notebooks with blank covers and the box of colored pencils.
+
+[SHOT LIST]
+00:00–00:02 | Extreme close-up, backlit, static camera — an old grey-white paw snaps open a fan of pastel lottery tickets right in front of the lens; the tickets glow gold in the low sun, their print soft and unreadable. BÀ BÁN VÉ SỐ calls out (kind, raspy elderly voice, sing-song street-seller call): "Vé số đây, trúng độc đắc giàu to!"
+00:02–00:04 | Medium-wide shot, slow dolly alongside — Mit walks home along the dirt footpath by the canal, nón lá on his head, tired but content, a few coins and two small paper notes with blank print held loosely in his right paw; at the call he slows, both ears perking up, and turns his head toward the seller, who sits on her low stool under the leaning coconut palm with her small wooden tray of school supplies beside her.
+00:04–00:06 | Close-up on Mit, slow push-in — he looks down at the coins in his paw, then up at the fan of tickets; his eyes go soft and dreamy, a slow sly smile spreads, his LEFT folded ear tip twitches. Mit says (warm, slightly raspy voice, dreamy, half to himself): "Trúng độc đắc… là giàu lại liền ha?"
+00:06–00:08 | Daydream of about one and a half seconds, framed by a soft golden glow and a dreamy blur at the edges — the same Mit in his old rich-period look (white silk shirt, beige trousers, gold watch, thick gold chain, round gold-rimmed sunglasses, slicked glossy head fur) laughs and tosses blank paper banknotes into the air in front of a blurred pale-yellow villa; then the daydream pops like a soap bubble and we are back on the canal path: Mit in his faded earth-brown áo bà ba and nón lá, blinking, the coins still in his open paw.
+
+[SOUND]
+Evening birdsong, the canal lapping, rustling tall grass, a soft clink of coins in Mit's paw, a magical harp glissando and a burst of jazzy old-fashioned brass for the daydream, then a comic soap-bubble pop; a gentle plucked đàn tranh melody underneath.
+
+[END FRAME]
+Medium shot on the canal path in golden backlight: Mit standing at center-right in his faded earth-brown áo bà ba and nón lá, blinking out of the daydream, a few coins and small blank notes in his open right paw; BÀ BÁN VÉ SỐ seated on her low wooden stool at screen left under the leaning coconut palm, holding the fan of blank pastel lottery tickets up toward him with a kind smile; her small wooden tray of school supplies beside the stool with the box of colored pencils on it; the thatched hut far down the bank in the background. Hold still for the final 0.5 seconds.
+
+[AVOID]
+Readable letters or numbers on the lottery tickets, banknotes, coins or anywhere, real lottery brand names or logos, product shape or colors different from the reference image, the rich outfit outside the short daydream, mocking or pitiful portrayal of the elderly seller, humans, extra characters, electric lights, modern objects other than the box of colored pencils, distorted paws or extra fingers.

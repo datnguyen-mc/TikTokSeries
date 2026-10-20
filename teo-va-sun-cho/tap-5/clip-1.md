@@ -1,0 +1,27 @@
+[FORMAT]
+Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality stylized CGI, cozy warm family-sitcom look, soft global illumination, shallow depth of field, 24fps, cinematic warm color grade, compositions framed for vertical video with the key action centered. All characters are anthropomorphic Chihuahuas who walk upright on two legs, with expressive faces and paw-hands with four fingers. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+
+[CHARACTERS — match the attached reference images exactly]
+@TeoTeo = TeoTeo: adult male anthropomorphic smooth-coat Chihuahua, short sleek fawn-tan fur with a darker tan mask around the eyes, huge upright bat ears with a small V-shaped nick on the outer edge of his RIGHT ear, big glossy round dark-brown eyes, small black nose, slightly chubby round belly, about a head taller than SunSun. Wears a white ribbed tank top, red-and-navy plaid shorts and blue flip-flops. Voice: slightly husky, warm Southern Vietnamese male voice, early 30s, funny, a little clumsy, sweet.
+@SunSun = SunSun: adult female anthropomorphic long-coat Chihuahua, soft fluffy cream-white fur, long feathered ears, a pink satin bow on top of her head, long curled eyelashes, warm brown eyes, small dark nose, petite and slim, about a head shorter than TeoTeo. Wears a mint-green matching home set (short-sleeve top and long pants) printed with tiny white flowers, and pink house slippers. Voice: clear, quick Southern Vietnamese female voice, late 20s, a bit naggy but always loving.
+BABY: newborn Chihuahua puppy, tiny enough to fit in one of TeoTeo's arms, soft fawn fur with cream patches on the face and chest, oversized floppy ears not yet upright, big shiny dark eyes, swaddled snugly in a soft pastel-yellow blanket, a small pastel-yellow pacifier only when calm. Makes only soft coos, giggles and small cries, never speaks words.
+
+[SETTING]
+BATHROOM: bright, cozy modern Vietnamese apartment bathroom, white subway-tile walls with a mint-green accent stripe, light-grey anti-slip floor tiles, a wide white vanity counter at waist height with a small sink, a handheld shower head on a hose beside the sink, a small pastel-yellow baby bathtub with a soft inner bath support resting securely on the counter, a round wooden wall shelf with rolled white towels, a frosted-glass window on the right letting in soft daylight, a doorway to the hallway on the left. Clean and safe, everything scaled for small dogs.
+Time & light: Sunday morning; soft white daylight through the frosted window, warm ceiling light, bright and cozy.
+Props: on the vanity counter, the small pastel-yellow baby bathtub half-filled with shallow, clear, warm water (no steam); beside it a comically over-prepared line-up: a tall tower of six folded towels, a row of five yellow rubber ducks and a big round sponge; a baby wash bottle matching the attached product reference image (label blank and unreadable) at the front of the counter; a soft pastel-yellow hooded baby towel folded on a small wooden stool beside the counter.
+
+[SHOT LIST]
+00:00–00:02 | Extreme close-up on TeoTeo's wide, determined eyes, then a fast pull-back to a medium shot — TeoTeo stands at the vanity counter behind the baby bathtub like a surgeon before an operation, facing the over-prepared line-up of towels and rubber ducks; he cracks his knuckles and raises both paws, ears standing straight up. TeoTeo says (determined, husky, dramatic): "Để anh lo!"
+00:02–00:05 | Medium two-shot, camera pans left toward the doorway — SunSun walks in holding the swaddled baby in both arms, glances at the tower of towels and the row of ducks, raises one eyebrow and smiles. SunSun says (teasing, amused): "Tắm con chứ đâu đi đánh trận!" TeoTeo puffs out his chest.
+00:05–00:07 | Close-up on the bathtub, slow push-in — TeoTeo dips one fingertip into the water and frowns, unsure; SunSun, the baby held securely in her other arm, reaches over with her free paw and gently taps his elbow. SunSun says (gentle, instructive): "Thử bằng khuỷu tay nè anh."
+00:07–00:08 | Medium two-shot, static — TeoTeo dips his elbow into the water, closes his eyes and concentrates like a serious taste-tester, then opens them and nods proudly. TeoTeo says (proud, husky, satisfied): "Ấm vừa, chuẩn luôn!"
+
+[SOUND]
+Bright bathroom acoustics, a dramatic surgical-drama sting on the hook, knuckle cracks, soft slipper steps, a gentle water plip, the baby's soft coo, light playful comedy music.
+
+[END FRAME]
+Medium two-shot at the vanity counter: SunSun on the left holding the swaddled baby in both arms with an approving smile; TeoTeo on the right with his right elbow dipped in the shallow water of the pastel-yellow baby bathtub, proud grin toward SunSun; the tower of towels, the rubber ducks and the baby wash bottle (label blank) on the counter; the pastel-yellow hooded towel on the stool; soft morning daylight. Hold still for the final 0.5 seconds.
+
+[AVOID]
+Extra characters, humans, outfit changes for TeoTeo or SunSun, the baby in the water yet, deep water, steam or hot water, an adult-size bathtub, any readable text, letters, numbers or logos on the bottle, the ducks or anywhere, distorted paws or extra fingers.

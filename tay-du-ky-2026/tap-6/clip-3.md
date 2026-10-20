@@ -1,0 +1,22 @@
+Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+
+[CHARACTERS — unchanged]
+@NgoKhong = NGỘ KHÔNG: small golden-brown monkey, heart-shaped pinkish-red face, amber eyes, thin golden circlet headband, red bomber jacket over plain yellow t-shirt, tiger-stripe cargo shorts, pen-sized staff behind right ear; fast, sharp, quick-witted, hot-tempered young male voice.
+@DuongTang = SƯ PHỤ: young shaved-head human monk, soft round face, calm kind eyes, saffron-orange robe with deep-red kasaya sash, brown wooden prayer beads; gentle, slow, soothing young male voice.
+@SaTang = SA TĂNG: very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace; very deep, slow, calm male voice.
+@BatGioi = BÁT GIỚI: chubby round pink pig, big belly, floppy ears, small squinting eyes, wide snout, oversized plain black t-shirt under open navy-blue robe, black flip-flops, small nine-tooth rake nearby; chubby, lazy, whiny, comically nasal male voice.
+
+[SHOT LIST]
+00:00–00:02 | From the previous final frame, medium wide shot, quick pan right to the bench — NGỘ KHÔNG springs up, leaps back onto his little golden cloud and slaps it so it puffs up big and fluffy in a burst of golden sparkles; he beckons everyone with a cocky grin. NGỘ KHÔNG says (fast, sharp, quick-witted, hot-tempered young male voice, impatient): "Khỏi chờ! Lão Tôn chở qua liền!"
+00:02–00:04 | Medium shot, static, the cloud hovering low over the stone paving well away from the railing — BÁT GIỚI waddles over and happily hops onto the cloud behind NGỘ KHÔNG, hugging his peanut bag; the cloud sags deep under his weight like a squashed cushion, and NGỘ KHÔNG's eyes bulge and his cheeks puff as he strains to keep it up.
+00:04–00:06 | Medium wide shot, slow push-in — with a long comic deflating hiss, the cloud sinks slowly and harmlessly down onto the stone paving of the promenade and flattens into a soft golden puddle of mist; NGỘ KHÔNG and BÁT GIỚI end up sitting on it, dazed, peanuts sprinkling down around them; BÁT GIỚI gives a sheepish grin. BÁT GIỚI says (chubby, lazy, whiny, comically nasal male voice, sheepish): "Lão Trư... chờ Tết cũng được."
+00:06–00:08 | Close group shot framed as a selfie from the phone's point of view, static — SƯ PHỤ laughs softly, takes the smartphone from his sleeve and holds it out at arm's length toward the camera; SA TĂNG crouches to fit in, NGỘ KHÔNG and BÁT GIỚI squeeze in at the bottom, all four smiling, the gigantic white nipa-frond arch glowing behind them against the orange-pink sunset. SƯ PHỤ says (gentle, slow, soothing young male voice, warm): "Chụp tấm hình... Tết mình qua cầu." All four cheer together (happy, in unison): "Hẹn Tết!"
+
+[SOUND]
+Riverside ambience continues; a magical whoosh and sparkle as the cloud puffs up; a creaky, squishy cushion-squash sound as it sags; a long comic deflating hiss and a soft puff as it touches down; peanuts pattering on the stone; a phone camera shutter click at the end, then a cheerful gong hit. Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-block percussion over a light modern hip-hop beat. Ending on a warm, upbeat button.
+
+[END FRAME]
+Selfie composition, close group shot from the phone's point of view at sunset: SƯ PHỤ at center left with his arm extended toward the camera, warm smile; SA TĂNG crouching behind him at frame left, giving a gentle thumbs-up with his huge hand; BÁT GIỚI at the bottom right, cheeks full of peanuts, grinning; NGỘ KHÔNG popping up at the bottom left flashing a V-sign, a small wisp of golden cloud curling beside him; behind them, the gigantic white nipa-frond arch on its barge glowing against the orange-pink sky, the Thủ Thiêm skyline reflected in the river. Hold still for the final 1 second as a thumbnail.
+
+[AVOID]
+Any characters other than those listed, crowds or other people near the characters, outfit changes, any readable text, letters, numbers, signs or logos, the phone screen or any interface shown, subtitles, distorted paws or hands, skull ornaments, the cloud or anyone going over the river or into the water, anyone getting hurt, the bridge shown finished or with people walking on it, magic in any color other than gold, mocking or disrespectful portrayal of the monk, resemblance to any real actor.

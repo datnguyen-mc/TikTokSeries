@@ -30,3 +30,29 @@
 
 * **Vy:** Tóc đen hạt dẻ ngang lưng uốn sóng lơi nhẹ, rẽ ngôi 5/5; áo len cổ lọ màu be ngà + áo khoác gió lửng màu hồng đất pastel + khăn len thổ cẩm đỏ cam; quần jeans cạp cao xanh nhạt vintage; giày boots da lộn nâu cà phê dây buộc be, tất len trắng kem; túi mây tròn đeo chéo.
 * **Joi:** Tóc nâu sáng gợn sóng + râu quai nón ngắn 3mm; áo thun henley dài tay xám lông chuột + áo khoác dã ngoại canvas xanh rêu quân đội 4 túi hộp nắp vuông; quần kaki túi hộp màu be cát; giày boots da bò sáp cao cổ nâu sẫm đế đen; đồng hồ da nâu, balo 50L xanh rêu.
+
+---
+
+## 4. Nhạc Nền Đề Xuất 🎵
+
+| Lựa chọn | Bài / Phong cách | Ghi chú |
+| :---: | :--- | :--- |
+| **1 (Gợi ý)** | "Hà Giang Ơi" — Quách Beem (bản instrumental/remix) | Đúng địa danh, viral TikTok, giai điệu phiêu du |
+| 2 | Sáo trúc Hmông + Ethnic Trap beat | Âm hưởng vùng cao, hợp flycam Mã Pí Lèng |
+| 3 | "Đi Để Trở Về" — Soobin (acoustic cover) | Ca từ hợp chủ đề hành trình |
+
+---
+
+## 5. Caption TikTok 📝
+
+```
+Ngày 1/365 🏍️ Cực Bắc Lũng Cú — nơi lá cờ Tổ quốc tung bay trên đỉnh trời 🇻🇳
+
+Vy & Joi bắt đầu hành trình 365 ngày xuyên Việt từ cột cờ Lũng Cú, vượt đèo Mã Pí Lèng huyền thoại, ăn phở cuốn Đồng Văn bên bếp lửa hồng ❤️‍🔥
+
+📍 Hà Giang | Lũng Cú | Mã Pí Lèng | Đồng Văn
+🎥 Tập 1 — 365 Ngày Việt Nam
+
+#365ngayvietnam #hagiang #xuyenviet #VyvaJoi #travelcouple
+```
+

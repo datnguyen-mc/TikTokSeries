@@ -50,3 +50,28 @@
 | **Clip 6** | 00:50–01:00 | **Động Ngườm Ngao:** Hang động thạch nhũ triệu năm lung linh ánh vàng, khối Bông sen vàng ngược $\rightarrow$ Vy chỉ tay trầm trồ, Joi ôm eo người yêu. | **THUYẾT MINH (00:00–00:04):** *"Động Ngườm Ngao dài hơn hai nghìn mét - kiệt tác hang động đá vôi triệu năm tuổi với khối thạch nhũ Bông sen vàng ngược kỳ vĩ siêu thực."*<br>**VY (00:04–00:07, chỉ tay ngạc nhiên):** *"Bông sen đá bằng thạch nhũ vàng lấp lánh triệu năm tuổi kỳ diệu chưa kìa anh!"*<br>**JOI (00:07–00:10, ôm eo Vy thán phục):** *"Thiên nhiên tạo hóa quá tài tình, đẹp đến mức không thể tin vào mắt mình!"* | [clip-6.md](clip-6.md) |
 | **Clip 7** | 01:00–01:10 | **Thác Bản Giốc & Sông Quây Sơn:** Bè tre lướt trên làn nước xanh ngọc lục bảo dưới chân thác 3 tầng cuồn cuộn $\rightarrow$ Joi nắm chặt tay Vy. | **THUYẾT MINH (00:00–00:04):** *"Thác Bản Giốc - thác nước tự nhiên xuyên biên giới lớn thứ tư thế giới, ba tầng thác cuồn cuộn đổ bọt trắng xóa giữa non xanh nước biếc sông Quây Sơn."*<br>**VY (00:04–00:07, đứng trên bè tre):** *"Thác Bản Giốc bọt tung trắng xóa hùng vĩ ngợp trời, tự hào Tổ quốc mình quá anh ơi!"*<br>**JOI (00:07–00:10, siết tay Vy si tình):** *"Một kỳ quan vĩ đại nghẹt thở, và khoảnh khắc đứng đây bên em là vô giá!"* | [clip-7.md](clip-7.md) |
 | **Clip 8** | 01:10–01:20 | **Làng đá Khuổi Ky & Hạt dẻ nướng:** Nhà sàn đá cổ người Tày ấm cúng bên bếp than hồng $\rightarrow$ Joi bóc hạt dẻ đút cho Vy, Vy tựa vai Joi chào tạm biệt. | **THUYẾT MINH (00:00–00:04):** *"Đêm về bản làng đá cổ người Tày bên dòng Quây Sơn, quây quần bên bếp than nướng hạt dẻ Trùng Khánh thơm bùi và vịt quay bảy vị đậm đà."*<br>**JOI (00:04–00:07, bóc hạt dẻ cho Vy):** *"Hạt dẻ Trùng Khánh bùi ngọt thơm lừng này em, ăn thử xem có ngon bằng hạt dẻ Châu Âu không nhé!"*<br>**VY (00:07–00:10, tựa vai Joi cười rạng rỡ):** *"Ngày thứ hai ở Cao Bằng trọn vẹn mười điểm! Ngày mai cùng tụi mình sang hồ Ba Bể tỉnh Bắc Kạn nhé!"* | [clip-8.md](clip-8.md) |
+
+---
+
+## 5. Nhạc Nền Đề Xuất 🎵
+
+| Lựa chọn | Bài / Phong cách | Ghi chú |
+| :---: | :--- | :--- |
+| **1 (Gợi ý)** | Đàn Tính Tày + Cinematic Orchestra | Đậm hồn vía Cao Bằng, hợp thác nước & rừng trúc |
+| 2 | "Về Quê" — lofi remix nhẹ nhàng | Yên bình, hoài niệm, hợp suối Lê-nin & Pác Bó |
+| 3 | Cinematic Orchestra + water sound effects | Hùng vĩ, Thác Bản Giốc ba tầng cuồn cuộn |
+
+---
+
+## 6. Caption TikTok 📝
+
+```
+Ngày 2/365 🏍️ Cao Bằng — nơi thác nước xuyên biên giới vang vọng trời xanh 💦🇻🇳
+
+Vy & Joi vượt đèo 14 tầng Khau Cốc Chà, thăm Pác Bó thiêng liêng, ngỡ ngàng trước Thác Bản Giốc hùng vĩ và ấm lòng bên hạt dẻ Trùng Khánh nướng than 🌰🔥
+
+📍 Cao Bằng | Pác Bó | Thác Bản Giốc | Trùng Khánh | Khuổi Ky
+🎥 Tập 2 — 365 Ngày Việt Nam
+
+#365ngayvietnam #caobang #thacbangioc #VyvaJoi #xuyenviet
+```

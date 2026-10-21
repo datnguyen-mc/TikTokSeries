@@ -53,3 +53,28 @@
 | **Clip 6** | 00:50–01:00 | **Chèo Kayak giữa hồ Ba Bể sắc thu:** Hai người mặc áo phao cam chèo kayak đôi trên mặt hồ xanh ngọc bích phẳng lặng → sương mỏng vấn vít núi đá vôi, rừng đổi sắc. | **THUYẾT MINH (00:00–00:04):** *"Chèo kayak giữa lòng hồ Ba Bể mùa thu, mặt nước xanh ngọc bích phẳng lặng như gương phản chiếu núi rừng đổi sắc vàng cam tuyệt đẹp."*<br>**VY (00:04–00:07, ngả lưng tựa vào Joi trên kayak):** *"Giữa hồ yên ắng thế này, chỉ nghe tiếng mái chèo và tiếng chim rừng, bình yên quá anh!"*<br>**JOI (00:07–00:10, chèo nhẹ nhàng ôm vai Vy):** *"Cả thế giới thu nhỏ lại chỉ còn mặt hồ xanh biếc và em bên cạnh, viên mãn lắm rồi!"* | [clip-6.md](clip-6.md) |
 | **Clip 7** | 01:00–01:10 | **Đảo Bà Góa & Ao Tiên hoàng hôn:** Thuyền ghé đảo đá huyền bí → Hai người tay trong tay đứng trước Ao Tiên phẳng lặng mờ sương, hoàng hôn nhuộm vàng mặt nước. | **THUYẾT MINH (00:00–00:04):** *"Đảo Bà Góa huyền bí giữa lòng hồ gắn liền truyền thuyết ngàn đời, và Ao Tiên phẳng lặng mờ sương ảo diệu như bức tranh thủy mặc ngày thu."*<br>**VY (00:04–00:07, tựa vai Joi ngắm hoàng hôn):** *"Hoàng hôn nhuộm vàng mặt Ao Tiên đẹp mê hồn, em muốn thời gian ngừng trôi ở khoảnh khắc này!"*<br>**JOI (00:07–00:10, hôn nhẹ trán Vy):** *"Anh hứa sẽ mang em đến thật nhiều hoàng hôn đẹp hơn nữa trên dọc dài đất nước này!"* | [clip-7.md](clip-7.md) |
 | **Clip 8** | 01:10–01:20 | **Homestay nhà sàn Pác Ngòi & Đêm bên hồ:** Nhà sàn gỗ ấm cúng, bếp lửa hồng → Joi bóc bánh Cooc Mò cho Vy, hai người ngồi bên hiên nhà sàn ngắm trăng trên hồ. | **THUYẾT MINH (00:00–00:04):** *"Đêm về bản Pác Ngòi ven hồ Ba Bể, quây quần bên bếp lửa nhà sàn người Tày, thưởng thức lợn quay mắc mật thơm lừng và bánh Cooc Mò nếp nương dẻo bùi."*<br>**JOI (00:04–00:07, bóc bánh Cooc Mò cho Vy):** *"Bánh Cooc Mò hình sừng bò gói lá chuối, nếp dẻo thơm nhân lạc bùi ngon lạ lùng em ơi!"*<br>**VY (00:07–00:10, tựa vai Joi cười rạng rỡ):** *"Ngày thứ ba ở hồ Ba Bể mười điểm trọn vẹn! Ngày mai cùng tụi mình lên Lạng Sơn khám phá Ải Chi Lăng nhé!"* | [clip-8.md](clip-8.md) |
+
+---
+
+## 5. Nhạc Nền Đề Xuất 🎵
+
+| Lựa chọn | Bài / Phong cách | Ghi chú |
+| :---: | :--- | :--- |
+| **1 (Gợi ý)** | Piano + tiếng nước hồ ambient (lofi cinematic) | Tĩnh lặng, mặt hồ như gương, chữa lành |
+| 2 | "Lạc Trôi" — Sơn Tùng (bản đàn tranh instrumental) | Huyền bí, hợp Động Puông & Ao Tiên mờ sương |
+| 3 | Acoustic guitar + đàn Tính + tiếng chim rừng | Ấm áp hoang sơ, kayak & bản Pác Ngòi |
+
+---
+
+## 6. Caption TikTok 📝
+
+```
+Ngày 3/365 🏍️ Bắc Kạn — viên ngọc xanh hồ Ba Bể giữa đại ngàn 💎🛶
+
+Vy & Joi chui thuyền qua Động Puông huyền bí, đứng trước Thác Đầu Đẳng 3 tầng hùng vĩ, chèo kayak giữa mặt hồ xanh ngọc bích và ngắm hoàng hôn Ao Tiên mờ sương 🌅
+
+📍 Bắc Kạn | Hồ Ba Bể | Động Puông | Thác Đầu Đẳng | Ao Tiên | Pác Ngòi
+🎥 Tập 3 — 365 Ngày Việt Nam
+
+#365ngayvietnam #hobabe #backan #VyvaJoi #xuyenviet
+```

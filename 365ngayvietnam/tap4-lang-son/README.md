@@ -53,3 +53,28 @@
 | **Clip 6** | 00:50–01:00 | **Sông Kỳ Cùng & Đền Kỳ Cùng:** Toàn cảnh sông Kỳ Cùng chảy ngược giữa thành phố → Hai người thắp nhang đền Kỳ Cùng linh thiêng. | **THUYẾT MINH (00:00–00:04):** *"Sông Kỳ Cùng con sông chảy ngược hiếm hoi bậc nhất miền Bắc, bên bờ là đền Kỳ Cùng linh thiêng bậc nhất xứ Lạng ngàn năm hương khói."*<br>**VY (00:04–00:07, chắp tay cầu nguyện):** *"Em cầu cho hành trình xuyên Việt của tụi mình bình an suôn sẻ và luôn bên nhau mãi mãi!"*<br>**JOI (00:07–00:10, nắm tay Vy kính cẩn):** *"Dòng sông chảy ngược cũng như tình yêu của mình, ngược dòng nhưng luôn vững bền em nhé!"* | [clip-6.md](clip-6.md) |
 | **Clip 7** | 01:00–01:10 | **Chợ Đông Kinh biên mậu:** Dạo chợ nhộn nhịp ba tầng → Vy kéo Joi mua quà, Joi xách túi đầy đặc sản. | **THUYẾT MINH (00:00–00:04):** *"Chợ Đông Kinh sầm uất ba tầng ngay trung tâm thành phố Lạng Sơn, trung tâm giao thương biên mậu nhộn nhịp bậc nhất vùng cửa khẩu phía Bắc."*<br>**VY (00:04–00:07, kéo tay Joi vào chợ):** *"Vào chợ Đông Kinh mua quà đặc sản xứ Lạng nào anh, măng ớt mắc mật chua cay này!"*<br>**JOI (00:07–00:10, hai tay xách túi quà):** *"Mua bao nhiêu anh xách hết cho em, miễn em vui là anh vui rồi!"* | [clip-7.md](clip-7.md) |
 | **Clip 8** | 01:10–01:20 | **Đêm Lạng Sơn & Lạp xưởng nướng than:** Phố đêm ấm áp, quầy lạp xưởng nướng thơm lừng → Joi nướng lạp xưởng cho Vy, hai người ngồi bên nhau chào tạm biệt. | **THUYẾT MINH (00:00–00:04):** *"Đêm xứ Lạng se lạnh, phố phường lên đèn ấm áp, thưởng thức lạp xưởng chua ngọt nướng than hồng giòn rụm thơm lừng và rượu Mẫu Sơn men lá ấm nồng."*<br>**JOI (00:04–00:07, nướng lạp xưởng cho Vy):** *"Lạp xưởng nướng than giòn thơm vị chua ngọt lạ miệng quá em ơi, nhâm nhi cùng rượu Mẫu Sơn ấm bụng lắm!"*<br>**VY (00:07–00:10, tựa vai Joi cười rạng rỡ):** *"Ngày thứ tư ở xứ Lạng mười điểm trọn vẹn! Ngày mai cùng tụi mình sang Tuyên Quang khám phá thác nước và núi rừng nhé!"* | [clip-8.md](clip-8.md) |
+
+---
+
+## 5. Nhạc Nền Đề Xuất 🎵
+
+| Lựa chọn | Bài / Phong cách | Ghi chú |
+| :---: | :--- | :--- |
+| **1 (Gợi ý)** | Nhạc Then Tày remix (ethnic beat) | Đậm văn hóa xứ Lạng, catchy, viral TikTok |
+| 2 | Cinematic drums + sáo Mèo → chuyển lofi | Hùng tráng Ải Chi Lăng → nhẹ nhàng ẩm thực |
+| 3 | "Tình Yêu Màu Nắng" — Đoàn Thúy Trang (acoustic) | Ấm áp, dạo phố đêm & mua sắm chợ Đông Kinh |
+
+---
+
+## 6. Caption TikTok 📝
+
+```
+Ngày 4/365 🏍️ Lạng Sơn — xứ Lạng biên ải hào hùng & vịt quay mắc mật ngon quên lối về 🦆🔥
+
+Vy & Joi đứng giữa Ải Chi Lăng cảm nhận hào khí ngàn năm, khám phá Động Tam Thanh & Thành Nhà Mạc, rồi ăn sập xứ Lạng với vịt quay mắc mật + phở chua huyền thoại 🍜😍
+
+📍 Lạng Sơn | Ải Chi Lăng | Động Tam Thanh | Thành Nhà Mạc | Sông Kỳ Cùng | Chợ Đông Kinh
+🎥 Tập 4 — 365 Ngày Việt Nam
+
+#365ngayvietnam #langson #aichilang #VyvaJoi #xuyenviet
+```

@@ -1,0 +1,32 @@
+# 365 Ngày Việt Nam — Tập 1: Hà Giang — Cực Bắc Lũng Cú & Kỳ Quan Mã Pí Lèng 🇻🇳💑
+
+**Ngày 1 / 365 (Từ Cực Bắc đến Cực Nam)** · Video TikTok **80 giây = 8 clip × 10 giây** · Khung dọc 9:16 · Phong cách Điện ảnh Lãng mạn Du lịch & Khám phá Ẩm thực · **Kết hợp Giọng Thuyết Minh Cảnh & Lời Thoại Nhân Vật Trực Tiếp Chuẩn Khẩu Hình 100% Tiếng Việt**
+
+---
+
+## 1. Cấu Trúc Lời Bình & Lời Thoại Mỗi Phân Cảnh (Audio & Dialogue System)
+
+* **Khi máy quay toàn cảnh / cận cảnh đồ ăn (B-roll phong cảnh & ẩm thực):** **GIỌNG THUYẾT MINH THỨ 3** (Giọng đọc truyền cảm, ấm áp, nhịp điệu du lịch văn hóa) thuyết minh giới thiệu tên địa danh, lịch sử, độ cao và sự độc đáo của ẩm thực.
+* **Khi máy quay trung cảnh / cận cảnh hai người (On-camera):** **VY hoặc JOI** trực tiếp lên tiếng giới thiệu, chia sẻ cảm xúc và tương tác tình cảm, **khẩu hình cử động ăn khớp chính xác 100% từng từ tiếng Việt**.
+
+---
+
+## 2. Kịch bản Video chi tiết (8 Clip × 10 Giây = 80 Giây)
+
+| Clip | Thời gian | Cảnh quay & Góc máy | Phân vai Lời bình & Lời thoại Tiếng Việt 100% | File prompt |
+| :---: | :---: | :--- | :--- | :---: |
+| **Clip 1** | 00:00–00:10 | **Cột cờ Quốc gia Lũng Cú:** Cảnh toàn lá cờ đỏ 54m² tung bay trên núi Rồng $\rightarrow$ Cận cảnh hai người, Joi ân cần kéo khoá áo ấm cho Vy. | **THUYẾT MINH (00:00–00:04):** *"Cột cờ Quốc gia Lũng Cú - đỉnh Cực Bắc thiêng liêng của Tổ quốc với lá cờ rộng 54 mét vuông tung bay kiêu hãnh trên đỉnh núi Rồng."*<br>**VY (00:04–00:07, nói rạng rỡ):** *"Hành trình Ba Trăm Sáu Mươi Lăm Ngày Việt Nam của tụi mình chính thức bắt đầu từ đây!"*<br>**JOI (00:07–00:10, âu yếm kéo áo cho Vy):** *"Đứng ở điểm đầu Việt Nam cùng em là điều tuyệt vời nhất!"* | [clip-1.md](clip-1.md) |
+| **Clip 2** | 00:10–00:20 | **Toàn cảnh Cao nguyên đá UNESCO:** Toàn cảnh flycam biển đá tai mèo triệu năm $\rightarrow$ Vy tựa vai Joi, Joi ôm eo người yêu say đắm. | **THUYẾT MINH (00:00–00:04):** *"Từ đỉnh núi Rồng, toàn cảnh Công viên Địa chất Toàn cầu Cao nguyên đá Đồng Văn hiện ra trùng điệp, kỳ vĩ như một bản trường ca triệu năm."*<br>**VY (00:04–00:07, chỉ tay tự hào):** *"Đất nước mình góc nào cũng đẹp đến ngợp thở anh ơi!"*<br>**JOI (00:07–00:10, nhìn Vy mỉm cười):** *"Non sông của em đẹp như tranh, và em cũng vậy!"* | [clip-2.md](clip-2.md) |
+| **Clip 3** | 00:20–00:30 | **Con đường Hạnh Phúc (QL 4C):** Flycam cung đường đèo uốn lượn $\rightarrow$ Joi cài quai mũ bảo hiểm cho Vy, Vy ôm chặt eo chàng lên đường. | **THUYẾT MINH (00:00–00:04):** *"Quốc lộ 4C - Con đường Hạnh Phúc huyền thoại được hàng vạn thanh niên đục đá mở đường suốt sáu năm qua dải cao nguyên đá."*<br>**JOI (00:04–00:07, cài mũ bảo hiểm cho Vy):** *"Đường đèo dốc quanh co lắm, em cứ ôm chặt lấy anh nhé!"*<br>**VY (00:07–00:10, cười ngọt ngào):** *"Có anh vững tay lái là em an tâm đi khắp thế gian rồi!"* | [clip-3.md](clip-3.md) |
+| **Clip 4** | 00:30–00:40 | **Bánh cuốn nóng Phố cổ Đồng Văn:** Cận cảnh đĩa bánh cuốn bốc khói và bát nước súp ninh xương $\rightarrow$ Vy đút bánh cho Joi, Joi thích thú khen ngon. | **THUYẾT MINH (00:00–00:04):** *"Ẩm thực phố cổ Đồng Văn níu chân du khách bằng món bánh cuốn nóng hổi, độc đáo khi chấm cùng nước súp hầm xương ống ngọt thanh thơm mùi hành ngò."*<br>**VY (00:04–00:07, đút cho Joi):** *"Bánh cuốn Hà Giang chấm nước xương ngọt lịm này anh, nếm thử đi anh!"*<br>**JOI (00:07–00:10, mắt sáng lên):** *"Ngon và lạ miệng quá em ơi, ấm sực cả người!"* | [clip-4.md](clip-4.md) |
+| **Clip 5** | 00:40–00:50 | **Thắng dền nóng Phố cổ:** Cận cảnh bát chè nếp ngũ sắc ngập mật mía gừng $\rightarrow$ Vy thưởng thức, Joi dịu dàng chấm khăn lau khóe môi cho Vy. | **THUYẾT MINH (00:00–00:04):** *"Thắng dền - thức quà vặt ấm nồng của người vùng cao, từng viên nếp nương dẻo quánh chan mật mía gừng già cay sực nức và lạc rang thơm bùi."*<br>**VY (00:04–00:07, e ấp cười):** *"Trời lạnh thế này ăn viên thắng dền gừng nóng là ấm lòng nhất trần đời!"*<br>**JOI (00:07–00:10, lau môi cho Vy):** *"Mật mía ấm ngọt thật đấy, nhưng nụ cười của em còn ngọt ngào hơn!"* | [clip-5.md](clip-5.md) |
+| **Clip 6** | 00:50–01:00 | **Vượt Đèo Mã Pí Lèng:** Flycam xe môtô ôm cua vách đá dựng đứng $\rightarrow$ Vy nép lưng Joi, Joi liếc gương chiếu hậu mỉm cười trấn an. | **THUYẾT MINH (00:00–00:04):** *"Đèo Mã Pí Lèng - Vua của những con đèo hiểm trở bậc nhất Việt Nam, vắt ngang sườn núi đá vôi với vực sâu nghìn mét thăm thẳm."*<br>**VY (00:04–00:07, thì thầm sau lưng):** *"Cua tay áo nguy hiểm lắm, anh cẩn thận nhé!"*<br>**JOI (00:07–00:10, nhìn gương trấn an):** *"Đừng sợ vực sâu, có anh ở đây chở che cho em rồi!"* | [clip-6.md](clip-6.md) |
+| **Clip 7** | 01:00–01:10 | **Hẻm Tu Sản & Sông Nho Quế:** Thuyền lướt giữa hai vách đá 800m nước xanh lục bảo $\rightarrow$ Joi nắm chặt tay Vy trên mũi thuyền. | **THUYẾT MINH (00:00–00:04):** *"Hẻm vực Tu Sản sâu nhất Đông Nam Á, nơi dòng sông Nho Quế xanh ngắt màu ngọc bích lững lờ trôi giữa hai vách đá kỳ vĩ chạm trời mây."*<br>**VY (00:04–00:07, chỉ tay xúc động):** *"Nước sông xanh như dải lụa ngọc bích diệu kỳ anh ơi!"*<br>**JOI (00:07–00:10, siết nhẹ tay Vy):** *"Cảnh đẹp như chốn bồng lai, được ngắm cùng em là hạnh phúc nhất đời anh!"* | [clip-7.md](clip-7.md) |
+| **Clip 8** | 01:10–01:20 | **Làng Lô Lô Chải & Chốt tập:** Nhà trình tường đất ấm cúng, bếp than nướng bắp ngô và thịt trâu $\rightarrow$ Joi đưa bắp cho Vy, Vy tựa đầu vào vai Joi chào tạm biệt. | **THUYẾT MINH (00:00–00:04):** *"Đêm về bản Lô Lô Chải bình yên bên những nếp nhà trình tường đất, thưởng thức thịt trâu gác bếp đượm vị mắc khén và bắp nương nướng than hồng."*<br>**JOI (00:04–00:07, đưa bắp nướng cho Vy):** *"Ăn bắp nướng cho ấm người nhé em gái nhỏ của anh!"*<br>**VY (00:07–00:10, tựa vai Joi cười rạng rỡ):** *"Ngày đầu tiên thật bình yên! Ngày mai cùng tụi mình sang Cao Bằng nhé!"* | [clip-8.md](clip-8.md) |
+
+---
+
+## 3. Khóa Chặt Trang Phục, Tóc Tai & Giày Dép (Master Wardrobe Lock)
+
+* **Vy:** Tóc đen hạt dẻ ngang lưng uốn sóng lơi nhẹ, rẽ ngôi 5/5; áo len cổ lọ màu be ngà + áo khoác gió lửng màu hồng đất pastel + khăn len thổ cẩm đỏ cam; quần jeans cạp cao xanh nhạt vintage; giày boots da lộn nâu cà phê dây buộc be, tất len trắng kem; túi mây tròn đeo chéo.
+* **Joi:** Tóc nâu sáng gợn sóng + râu quai nón ngắn 3mm; áo thun henley dài tay xám lông chuột + áo khoác dã ngoại canvas xanh rêu quân đội 4 túi hộp nắp vuông; quần kaki túi hộp màu be cát; giày boots da bò sáp cao cổ nâu sẫm đế đen; đồng hồ da nâu, balo 50L xanh rêu.

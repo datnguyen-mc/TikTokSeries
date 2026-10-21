@@ -1,39 +1,79 @@
-Bắt đầu chính xác từ khung hình đầu tiên được cung cấp (khung cuối của clip trước) và tiếp nối phân cảnh liền mạch 100%. Cùng nhân vật, cùng trang phục, cùng đồ đạc du lịch, cùng ánh sáng và tông màu. Tính liên tục hoàn hảo, không nhảy cóc thời gian, không giật chuyển cảnh ở đầu clip.
-Phong cách không đổi: Phim điện ảnh du lịch lãng mạn cao cấp, khung dọc 9:16, cảnh quay 10 giây, kết hợp giọng thuyết minh phong cảnh ngoài khung hình và lời thoại nhân vật trực tiếp chuẩn khẩu hình 100% tiếng Việt, không phụ đề hay chữ trên màn hình.
+# KỊCH BẢN PHÂN CẢNH ĐẠO DIỄN — TẬP 1 / CLIP 2
+**DỰ ÁN:** SERIES TIKTOK 365 NGÀY VIỆT NAM  
+**PHÂN ĐOẠN:** TẬP 1 — HÀ GIANG: CỰC BẮC HÙNG VĨ & HƯƠNG VỊ ĐÁ NỞ HOA  
+**MÃ PHÂN CẢNH:** HG-C02 (ĐÈO ĐÁ TAM GIÁC MẠCH — ĐỒNG VĂN)  
+**THỜI LƯỢNG:** ĐÚNG 10 GIÂY (SINGLE CONTINUOUS SHOT)  
+**QUY CÁCH HÌNH ẢNH:** KHUNG HÌNH DỌC 9:16 | 24 FPS | CINEMATIC 35MM TRAVEL ROADTRIP  
 
-[KHÓA NHÂN VẬT — KHÓA CHẶT TRANG PHỤC, GIÀY DÉP, TÓC TAI 100%]
-@Vy = Vy (Nàng thơ dịu dàng):
-- Diện mạo & Vóc dáng: Nữ 24 tuổi, 1m64, da trắng hồng mịn màng tự nhiên, mặt trái xoan, mắt to đen láy sâu lắng, nụ cười ngọt ngào e ấp má lúm đồng tiền nhẹ bên má trái.
-- Tóc tai: Tóc đen hạt dẻ tự nhiên dài ngang giữa lưng, uốn sóng lơi nhẹ bồng bềnh, rẽ ngôi giữa 5/5, hai lọn tóc mai uốn nhẹ buông lơi tự nhiên ôm gò má bay khẽ trong gió.
-- Áo: Áo len dệt kim mỏng cổ lọ màu be ngà (ivory cream) bên trong; áo khoác gió lửng màu hồng đất pastel (dusty rose) có khóa kéo kim loại đồng mở nhẹ; khăn len thổ cẩm quả trám màu đỏ rượu phối cam đất quàng cổ.
-- Quần: Quần jeans ống suông cạp cao màu xanh denim vintage nhạt (light wash blue), thắt lưng da bò nâu bản nhỏ 2cm.
-- Giày dép & Tất: Giày boots dã ngoại cổ thấp da lộn màu nâu cà phê (brown suede ankle boots) dây tròn màu be, đế cao su răng cưa nâu đất; tất len gân trắng kem lộ 2cm trên cổ giày.
-- Phụ kiện: Túi mây tròn đan quai da nâu đeo chéo bên hông; máy ảnh phim compact mini màu bạc đeo cổ tay.
+---
 
-@Joi = Joi (Chàng Tây nam tính & Si tình):
-- Diện mạo & Vóc dáng: Nam 26 tuổi Châu Âu, 1m85, vóc dáng thể thao vạm vỡ, vai rộng nở nang, quai hàm góc cạnh, mắt xanh lam khói ấm áp.
-- Râu & Tóc: Râu quai nón tỉa ngắn nam tính 3mm quanh hàm và cằm; mái tóc nâu sáng (dirty-blonde) xoăn sóng lãng tử bồng bềnh.
-- Áo: Áo thun henley dài tay màu xám lông chuột cởi 1 cúc ngực; khoác ngoài áo khoác dã ngoại canvas dày dặn màu xanh rêu quân đội (olive army-green) có 4 túi hộp nắp vuông trước ngực.
-- Quần: Quần kaki dã ngoại dáng suông túi hộp màu be cát (sand beige cargo pants) gấu quần buông trùm nhẹ cổ boots.
-- Giày dép & Tất: Giày boots da bò sáp cao cổ màu nâu sẫm (dark brown waxed leather boots) 8 lỗ xỏ dây sáp nâu đen, đế cao su đúc chống trượt màu đen; tất thể thao xám sậm.
-- Phụ kiện: Đeo balo phượt 50L màu xanh rêu sau lưng; đồng hồ nam dây da bò nâu mặt tròn vintage ở cổ tay trái.
+### [BỘ QUY TẮC ĐẠO DIỄN BẮT BUỘC — DIRECTORIAL LAWS]
+1. **BÁM SÁT TUYỆT ĐỐI GIỮA GIỌNG NÓI VÀ NHÂN VẬT (CHARACTER-VOICE LOCK & REAL-TIME LIP SYNC):**
+   - Camera bắt buộc phải khóa chặt cận cảnh gương mặt người đang nói. Khi @Vy nói, camera khóa chặt gương mặt @Vy lộ rõ sau lớp kính chắn trong suốt của mũ bảo hiểm; khi @Joi nói, camera lia êm khóa chặt gương mặt @Joi. Tuyệt đối không để tiếng người này nhưng máy quay quay người khác hoặc quay phong cảnh.
+   - Khẩu hình khớp 100% từng âm tiết tiếng Việt phát ra theo thời gian thực (real-time phoneme-to-viseme match).
+   - Âm sắc nhân vật đồng bộ 100%: @Vy giọng trong trẻo sảng khoái; @Joi giọng nam trầm ấm hào sảng nói tiếng Việt tự nhiên.
+   - Tuyệt đối cấm: Voiceover ngoài khung hình, desync lệch tiếng, mấp máy môi không tiếng, hoặc có tiếng mà miệng đứng yên.
+2. **VIẾT HOA CHUẨN XÁC TẤT CẢ ĐỊA DANH:** Các danh từ riêng ("Hà Giang", "Đồng Văn", "Phố Cổ Đồng Văn", "Cột Cờ Lũng Cú"...) bắt buộc viết hoa chuẩn ngữ pháp tiếng Việt.
+3. **KHOẢNG ĐỆM KHÔNG THOẠI CUỐI CLIP (00:07.5–00:10):** Thoại dứt điểm hoàn toàn ở giây `00:07.5`. Đúng 2.5 giây cuối tuyệt đối KHÔNG CÓ THOẠI, dành trọn vẹn cho hành động dừng xe, tháo khóa quai mũ bảo hiểm, nhấc mũ cầm tay và bước vào quán.
+4. **LOGIC ĐẠO CỤ VẬT LÝ TUYỆT ĐỐI — KHÔNG TỰ BIẾN MẤT HAY XUẤT HIỆN:**
+   - Đầu clip (00:00): Nối tiếp chính xác từ Clip 1, cả hai đang đội mũ bảo hiểm 3/4 vintage cài quai an toàn trên xe đang chạy.
+   - Cuối clip (00:07.5–00:10): Khi dừng xe, nhân vật phải dùng hai tay bấm chốt nhả khóa quai dưới cằm (tiếng "tách"), nhấc mũ ra khỏi đầu để lộ mái tóc bay nhẹ trong gió, cầm quai mũ trên tay dắt nhau bước vào quán.
+5. **KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG THẺ TÊN NHÂN VẬT.**
 
-[BỐI CẢNH — TRẠM DỪNG CHÂN 2: ĐÀI QUAN SÁT ĐỈNH NÚI RỒNG & CAO NGUYÊN ĐÁ ĐỒNG VĂN]
-ĐÀI QUAN SÁT TẦM NHÌN 360 ĐỘ TRÊN NÚI RỒNG: Điểm ngắm cảnh cao nhất trên đỉnh núi Rồng nhìn bao quát toàn bộ kỳ quan Công viên Địa chất Toàn cầu UNESCO Cao nguyên đá Đồng Văn. Trước mắt là biển núi đá vôi tai mèo nhấp nhô răng cưa xám xịt hàng triệu năm tuổi hùng vĩ đến ngợp thở; dưới chân núi là hai hồ nước trong vắt phẳng lặng tục gọi là "Mắt Rồng" quanh năm không bao giờ cạn; xa xa là những thung lũng ruộng bậc thang Thài Phìn Tủng uốn lượn và những nếp nhà trình tường ẩn hiện trong sương mờ.
+---
 
-[PHÂN CẢNH]
-00:00–00:04 | Cảnh toàn lia máy quét rộng từ trên cao xuống toàn cảnh kỳ quan đá tai mèo trùng điệp và thung lũng mờ ảo trong sương sớm.
-THUYẾT MINH (giọng đọc truyền cảm, sâu lắng): "Từ đỉnh núi Rồng, toàn cảnh Công viên Địa chất Toàn cầu Cao nguyên đá Đồng Văn hiện ra trùng điệp, kỳ vĩ như một bản trường ca triệu năm."
-00:04–00:07 | Cận cảnh góc nghiêng của cả hai bên lan can đá — Vy tựa nhẹ vào vai Joi, đôi mắt bồ câu to tròn mở to xúc động chỉ tay về phía thung lũng; Joi đứng sát phía sau, hai bàn tay rắn rỏi đặt nhẹ lên bờ vai áo khoác hồng đất của Vy. 
-VY nói trực tiếp (chuẩn khẩu hình tiếng Việt, giọng dịu dàng tự hào): "Đất nước mình góc nào cũng đẹp đến ngợp thở anh ơi!"
-00:07–00:10 | Trung cận hai người — Joi đắm say nhìn góc nghiêng dịu hiền của Vy, mỉm cười ấm áp.
-JOI nói trực tiếp (chuẩn khẩu hình tiếng Việt, giọng nam trầm ấm): "Non sông của em đẹp như tranh, và em cũng vậy!"
+### [THIẾT LẬP BỐI CẢNH & ĐẠO CỤ — SCENE SETUP & PROPS CONTINUITY]
+- **ĐỊA ĐIỂM:** Cung đèo đá uốn lượn nối từ Lũng Cú về thị trấn Đồng Văn (tỉnh Hà Giang). Mặt đường nhựa êm uốn lượn men theo triền núi đá vôi xám bạc, hai bên bờ ta-luy là những thảm hoa tam giác mạch hồng tím bung nở rực rỡ dưới nắng ban mai. Phía xa cuối đường mở ra lối vào khu Phố Cổ Đồng Văn với những mái ngói âm dương rêu phong.
+- **TRẠNG THÁI XE & ĐẠO CỤ BAN ĐẦU (00:00):**
+  - Chiếc Scrambler 400cc đang chạy ở tốc độ vừa phải (~35km/h), cờ Tổ quốc sau đuôi xe bay phấp phới.
+  - Cả hai nhân vật ĐANG ĐỘI MŨ BẢO HIỂM 3/4 VINTAGE CÀI QUAI CHẮC CHẮN:
+    - @Vy: Mũ 3/4 màu kem be viền da nâu vintage, kính chắn gió trong suốt gạt mở nhẹ 1/3 để đón gió mát, lộ rõ 100% khuôn mặt và nụ cười rạng rỡ.
+    - @Joi: Mũ 3/4 màu xanh rêu nhám viền da nâu, kính chắn gió trong suốt gạt mở, lộ trọn vẹn góc mặt nam tính và ánh mắt xanh ấm áp.
 
-[ÂM THANH]
-Tiếng gió đại ngàn cao nguyên đá vi vu thổi qua khe núi, tiếng sáo Mông xa xăm réo rắt giữa bản làng, giai điệu guitar du dương ấm áp, tiếng cười khẽ hạnh phúc của hai người.
+---
 
-[KHUNG CUỐI]
-Trung cảnh tại đầu bậc thang đá dẫn xuống núi: Vy bên trái quay lưng nhẹ mỉm cười ngoái nhìn ống kính trong bộ đồ jeans nhạt và áo khoác gió hồng đất, tay nắm chặt lấy tay Joi; Joi bên phải vác balo rêu 50L nhìn Vy đầy cưng chiều, giày boots da nâu sẫm bước trên bậc đá; toàn cảnh cao nguyên đá vôi kỳ vĩ phía sau ngập tràn ánh nắng sáng rực rỡ. Giữ bất động hoàn toàn trong 0.5 giây cuối cùng.
+### [KHÓA NHÂN VẬT — CHARACTER LOCK]
+- **@Vy:** Ngồi sau yên xe, áo khoác gió lửng hồng đất, khăn len thổ cẩm quàng cổ bay nhẹ, hai tay ôm nhẹ eo @Joi, cằm tựa nhẹ vào vai chàng, ánh mắt bừng sáng phấn khích.
+- **@Joi:** Ngồi trước cầm lái, áo dã ngoại canvas rêu quân đội, hai tay nắm chắc ghi-đông ôm cua điêu luyện, gương mặt tập trung vững chãi pha lẫn nụ cười hào sảng.
 
-[LOẠI TRỪ]
-Phụ đề, vấp ngã cầu thang, người lạ lọt vào khung hình, đổi kiểu tóc/màu áo/kiểu quần/giày boots, biến dạng ngón tay khi nắm tay.
+---
+
+### [KỊCH BẢN ĐẠO DIỄN HÀNH ĐỘNG TỪNG GIÂY — 10 GIÂY LIÊN TỤC]
+
+**00:00–00:03.0 | TIẾP NỐI HÀNH ĐỘNG MATCH-CUT TỪ CLIP 1 (EXT. ĐÈO ĐÁ ĐỒNG VĂN - TRACKING SHOT)**
+- **Máy quay:** Tracking Rig Shot gắn chếch phía trước ghi-đông xe môtô, chuyển động lùi êm ái cùng tốc độ xe, bắt trọn nửa thân trên của hai nhân vật đang vi vu trên xe Scrambler trong mũ bảo hiểm 3/4 vintage. Hậu cảnh là triền đèo đá và những thảm hoa tam giác mạch hồng tím uốn lượn trôi lùi về sau.
+- **Hành động:** Xe lướt êm ái qua một khúc cua thoai thoải, gió núi thổi tà khăn thổ cẩm của @Vy bay bồng bềnh, @Vy áp sát người vào lưng @Joi tận hưởng khí trời mát lạnh.
+- **Âm thanh (Foley):** Tiếng động cơ 400cc gầm gừ trầm ấm, tiếng gió rít qua mũ bảo hiểm vù vù, tiếng lá cờ nhỏ phần phật sau xe.
+
+**00:03.0–00:05.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @VY (CLOSE-UP SPEAKER LOCK)**
+- **Máy quay:** Ống kính zoom nhẹ khóa chặt góc cận cảnh gương mặt tươi vui của @Vy lộ rõ sau mũ bảo hiểm 3/4 màu kem be.
+- **Hành động:** @Vy rướn người nhổm lên một chút, ghé sát vào tai @Joi và nhìn thẳng vào ống kính máy quay reo lên phấn khích. Cơ mặt rạng rỡ, hàm răng trắng và khuôn môi mở to cử động ăn khớp từng mili-giây với âm thanh tiếng Việt trong trẻo.
+- **Thoại @Vy (reo vui sảng khoái, khẩu hình khớp 100% âm thanh):**
+  > *"Đường đèo Đồng Văn mùa tam giác mạch đẹp mê hồn luôn anh ơi!"*
+
+**00:05.5–00:07.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @JOI (CLOSE-UP SPEAKER LOCK)**
+- **Máy quay:** Máy quay lia êm ái khóa chặt góc mặt nam tính của @Joi dưới chiếc mũ bảo hiểm 3/4 xanh rêu nhám.
+- **Hành động:** @Joi liếc nhìn @Vy qua gương chiếu hậu tròn vintage, bật cười hào sảng, miệng cử động khớp chính xác từng âm tiết tiếng Việt trầm ấm phát ra từ miệng anh.
+- **Thoại @Joi (cười lớn, giọng trầm ấm vang, khẩu hình khớp 100% âm thanh):**
+  > *"Cảnh sắc Hà Giang uốn lượn hùng vĩ thật sự em à!"*
+
+**00:07.5–00:10.0 | ĐỆM HÀNH ĐỘNG VẬT LÝ — DỪNG XE, THÁO MŨ & BƯỚC VÀO QUÁN (SILENT BUFFER & PROP BLOCKING)**
+- **Âm thanh lời thoại:** TUYỆT ĐỐI IM LẶNG — 100% KHÔNG CÓ THOẠI.
+- **Máy quay:** Giữ góc tracking mở rộng ngang tầm thân xe khi xe dừng lại trước cổng Phố Cổ Đồng Văn.
+- **Hành động vật lý logic của nhân vật:**
+  - Đúng giây `00:07.5`, dứt tiếng nói, @Joi bóp nhẹ phanh trước, xe Scrambler giảm tốc êm ái tấp sát vào hè đường lát đá trước cửa một quán gỗ mộc mạc treo biển lồng đèn cổ. @Joi hạ chân chống nghiêng giữ thăng bằng xe.
+  - Ngay khi xe dừng hẳn: @Vy và @Joi đồng thời đưa hai tay lên dưới cằm, ngón tay ấn vào lẫy khóa quai nón phát ra tiếng nhả chốt cơ học "tách".
+  - Cả hai hai tay nâng mũ bảo hiểm 3/4 nhấc ra khỏi đầu, để lộ mái tóc hơi rối nhẹ bay trong làn gió núi mát rượi.
+  - @Vy luồn quai mũ màu kem vào cổ tay trái, bước chân xuống xe; @Joi cầm quai mũ màu rêu ở tay phải, dắt tay @Vy cùng bước qua bậc cửa gỗ mộc mạc tiến vào quán bánh cuốn nóng hổi.
+- **Âm thanh (Foley & Audio):** Tiếng rà phanh xe êm ái, tiếng "tách" đanh gọn của 2 chốt quai mũ bảo hiểm nhả khóa, tiếng đế boots bước xuống thềm đá, tiếng bước chân vào ngưỡng cửa gỗ kêu "kẽo kẹt" mộc mạc, tiếng động cơ xe lịm dần về chế độ cầm chừng.
+
+---
+
+### [KHUNG HÌNH CUỐI & MATCH-CUT CHUYỂN TIẾP SANG CLIP 3]
+- **Khung hình cuối (00:09.5–00:10):** @Vy và @Joi tay cầm mũ bảo hiểm 3/4 vintage, tay trong tay bước qua bậc cửa gỗ của quán ăn Phố Cổ Đồng Văn, phía trong làn khói nghi ngút bốc lên từ nồi tráng bánh cuốn ấm áp. Giữ cố định 0.5s cuối.
+- **Nối cảnh Clip 3:** Điểm bắt đầu của Clip 3 sẽ tiếp nối chính xác bước chân của hai người từ bậc cửa bước vào bàn gỗ đặt mũ bảo hiểm xuống bàn.
+
+---
+
+### [LOẠI TRỪ — NEGATIVE PROMPT]
+Lái xe không đội mũ bảo hiểm, mũ bảo hiểm tự nhiên biến mất không có động tác tháo quai nón, mũ bảo hiểm che kín mặt (fullface), tiếng nói không khớp khẩu hình môi miệng, lệch hình và tiếng (voiceover/desync), tiếng của @Vy nhưng cam quay @Joi, tiếng của @Joi nhưng cam quay @Vy, camera quay cảnh vật khi có lời thoại, mấp máy môi không có tiếng, có tiếng nhưng môi đứng yên, lời thoại ở 2.5 giây cuối, đọc sai địa danh, không viết hoa địa danh, thông tin nhân vật hiển thị trên màn hình, thẻ tên, profile card, rung giật méo hình mặt, người lạ chạy xe máy khác lọt vào khung hình, phụ đề, chữ viết, watermark.

@@ -1,38 +1,79 @@
-Bắt đầu chính xác từ khung hình đầu tiên được cung cấp (khung cuối của clip trước) và tiếp nối phân cảnh liền mạch 100%. Cùng nhân vật, cùng trang phục, cùng đồ đạc du lịch, cùng ánh sáng và tông màu. Tính liên tục hoàn hảo, không nhảy cóc thời gian, không giật chuyển cảnh ở đầu clip.
-Phong cách không đổi: Phim điện ảnh du lịch lãng mạn cao cấp, khung dọc 9:16, cảnh quay 10 giây, kết hợp giọng thuyết minh ẩm thực ngoài khung hình và lời thoại nhân vật trực tiếp chuẩn khẩu hình 100% tiếng Việt, không phụ đề hay chữ trên màn hình.
+# KỊCH BẢN PHÂN CẢNH ĐẠO DIỄN — TẬP 1 / CLIP 4
+**DỰ ÁN:** SERIES TIKTOK 365 NGÀY VIỆT NAM  
+**PHÂN ĐOẠN:** TẬP 1 — HÀ GIANG: CỰC BẮC HÙNG VĨ & HƯƠNG VỊ ĐÁ NỞ HOA  
+**MÃ PHÂN CẢNH:** HG-C04 (ĐỈNH ĐÈO MÃ PÍ LÈNG — HẺM TU SẢN)  
+**THỜI LƯỢNG:** ĐÚNG 10 GIÂY (SINGLE CONTINUOUS SHOT)  
+**QUY CÁCH HÌNH ẢNH:** KHUNG HÌNH DỌC 9:16 | 24 FPS | CINEMATIC 35MM EPIC LANDSCAPE VLOG  
 
-[KHÓA NHÂN VẬT — KHÓA CHẶT TRANG PHỤC, GIÀY DÉP, TÓC TAI 100%]
-@Vy = Vy (Nàng thơ dịu dàng):
-- Trạng thái: Đã tháo mũ bảo hiểm treo ngoài xe máy; bước vào quán ăn ấm cúng.
-- Tóc tai: Tóc đen hạt dẻ dài ngang lưng buông xõa bồng bềnh uốn sóng lơi nhẹ, rẽ ngôi giữa 5/5, hai lọn tóc mai uốn nhẹ buông lơi ôm gò má ửng hồng.
-- Áo: Mở khóa áo khoác gió lửng màu hồng đất pastel (dusty rose), để lộ áo len dệt kim mỏng cổ lọ màu be ngà (ivory cream) ôm dáng bên trong; khăn len thổ cẩm đỏ rượu cam đất vắt hờ quanh vai.
-- Quần: Quần jeans ống suông cạp cao màu xanh denim vintage nhạt (light wash blue), thắt lưng da bò nâu bản nhỏ 2cm.
-- Giày dép & Tất: Giày boots dã ngoại cổ thấp da lộn màu nâu cà phê (brown suede ankle boots) dây tròn màu be, đế cao su răng cưa nâu đất; tất len gân trắng kem lộ 2cm trên cổ giày.
-- Phụ kiện: Túi mây tròn quai da nâu vẫn đeo chéo bên hông; máy ảnh phim compact bạc đặt trên bàn gỗ cạnh đĩa bánh cuốn.
+---
 
-@Joi = Joi (Chàng Tây nam tính & Si tình):
-- Trạng thái: Đã tháo mũ bảo hiểm và găng tay da cất trên xe máy; cởi áo khoác canvas rêu vắt sau lưng ghế gỗ; ngồi đối diện hoặc bên cạnh Vy.
-- Râu & Tóc: Râu quai nón 3mm nam tính; mái tóc nâu sáng (dirty-blonde) xoăn sóng lãng tử bồng bềnh tự nhiên.
-- Áo: Áo thun henley dài tay chất vải cotton waffle màu xám lông chuột (charcoal grey) cởi 1 cúc cổ, hai tay áo xắn nhẹ lên cổ tay để lộ bắp tay rắn rỏi và đồng hồ da nâu ở tay trái.
-- Quần: Quần kaki dã ngoại dáng suông túi hộp màu be cát (sand beige cargo pants).
-- Giày dép & Tất: Giày boots da bò sáp cao cổ màu nâu sẫm (dark brown waxed leather boots) 8 lỗ xỏ dây sáp nâu đen, đế cao su đúc chống trượt màu đen đặt ngay ngắn dưới gầm bàn.
+### [BỘ QUY TẮC ĐẠO DIỄN BẮT BUỘC — DIRECTORIAL LAWS]
+1. **BÁM SÁT TUYỆT ĐỐI GIỮA GIỌNG NÓI VÀ NHÂN VẬT (CHARACTER-VOICE LOCK & REAL-TIME LIP SYNC):**
+   - Camera bắt buộc phải khóa chặt cận cảnh gương mặt người đang nói. Khi @Vy nói, camera khóa chặt gương mặt @Vy đang thốt lên choáng ngợp; khi @Joi nói, camera lia êm khóa chặt gương mặt @Joi đang gật đầu tự hào. Tuyệt đối không để tiếng người này nhưng cam quay người khác hoặc quay hẻm vực sâu mà không thấy mặt người nói.
+   - Khẩu hình khớp 100% từng âm tiết tiếng Việt phát ra theo thời gian thực (real-time phoneme-to-viseme match).
+   - Âm sắc nhân vật đồng bộ 100%: @Vy giọng trầm trồ xúc động; @Joi giọng nam trầm ấm hào sảng nói tiếng Việt tự nhiên.
+   - Tuyệt đối cấm: Voiceover ngoài khung hình, desync lệch tiếng, mấp máy môi không tiếng, hoặc có tiếng mà miệng đứng yên.
+2. **VIẾT HOA CHUẨN XÁC TẤT CẢ ĐỊA DANH:** Các danh từ riêng ("Đèo Mã Pí Lèng", "Hẻm Tu Sản", "Sông Nho Quế", "Phố Cổ Đồng Văn", "Hà Giang"...) bắt buộc viết hoa chuẩn ngữ pháp tiếng Việt.
+3. **KHOẢNG ĐỆM KHÔNG THOẠI CUỐI CLIP (00:07.5–00:10):** Thoại dứt điểm hoàn toàn ở giây `00:07.5`. Đúng 2.5 giây cuối tuyệt đối KHÔNG CÓ THOẠI, dành trọn vẹn cho hành động tháo mũ bảo hiểm 3/4, móc khóa quai cẩn thận vào hai bên ghi-đông xe Scrambler và dắt tay bước xuống bậc đá bến thuyền.
+4. **LOGIC ĐẠO CỤ VẬT LÝ TUYỆT ĐỐI — KHÔNG TỰ BIẾN MẤT HAY XUẤT HIỆN:**
+   - Đầu clip (00:00): Vừa dừng xe sau khi chạy từ Phố Cổ Đồng Văn lên đèo, cả hai vẫn đang đội mũ bảo hiểm 3/4 vintage, kính chắn đẩy cao lên trán để lộ toàn bộ khuôn mặt khi nói chuyện.
+   - Cuối clip (00:07.5–00:10): Nhân vật dùng tay bấm chốt nhả quai dưới cằm (tiếng "tách"), nhấc mũ ra và móc quai bấm khóa vào hai bên ghi-đông xe môtô Scrambler đậu cạnh lan can đá.
+5. **KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG THẺ TÊN NHÂN VẬT.**
 
-[BỐI CẢNH — TRẠM DỪNG CHÂN 4: QUÁN BÁNH CUỐN BÀ HÀ, PHỐ CỔ ĐỒNG VĂN]
-ĐẶC SẢN ẨM THỰC PHỐ CỔ ĐỒNG VĂN: Quán bánh cuốn cổ kính nằm trong lòng dãy phố cổ Đồng Văn hơn 100 năm tuổi với tường trình đất vàng và mái ngói âm dương rêu phong. Nồi tráng bánh bằng hơi nước bốc khói nghi ngút thơm lừng mùi gạo nương. Trên bàn gỗ mộc mạc bày đĩa bánh cuốn trắng mướt mềm mượt cuộn nhân thịt nạc băm và mộc nhĩ rắc hành phi vàng giòn, bên cạnh là bát nước súp ninh xương ống heo ngọt lịm từ tủy, thả miếng chả lụa thơm ngậy, rắc nhiều hành hoa xanh mướt và rau mùi tươi, ăn cùng đĩa ớt ngâm măng chua cay nồng đặc trưng Hà Giang.
+---
 
-[PHÂN CẢNH]
-00:00–00:04 | Cận cảnh đĩa bánh cuốn trắng mướt bốc khói và bát nước súp xương sóng sánh thơm ngào ngạt hành hoa chả lụa.
-THUYẾT MINH (giọng đọc ẩm thực truyền cảm, ấm áp): "Ẩm thực phố cổ Đồng Văn níu chân du khách bằng món bánh cuốn nóng hổi, độc đáo khi chấm cùng nước súp hầm xương ống ngọt thanh thơm mùi hành ngò."
-00:04–00:07 | Trung cận hai người bên bàn gỗ — Vy gắp miếng bánh cuốn nhúng ngập bát nước súp thơm lừng, khẽ thổi nguội rồi đút đến trước miệng Joi, ánh mắt long lanh dịu dàng.
-VY nói trực tiếp (chuẩn khẩu hình tiếng Việt, giọng ngọt ngào): "Bánh cuốn Hà Giang chấm nước xương ngọt lịm này anh, nếm thử đi anh!"
-00:07–00:10 | Cận cảnh Joi — Joi vui vẻ đón lấy miếng bánh cuốn, nhai chầm chậm, hai mắt xanh lam mở to ngạc nhiên đầy thích thú, gương mặt rạng rỡ sự thỏa mãn.
-JOI nói trực tiếp (chuẩn khẩu hình tiếng Việt, giọng hào hứng tấm tắc): "Ngon và lạ miệng quá em ơi, ấm sực cả người!"
+### [THIẾT LẬP BỐI CẢNH & ĐẠO CỤ — SCENE SETUP & PROPS CONTINUITY]
+- **ĐỊA ĐIỂM:** Điểm dừng chân mỏm đá ngắm cảnh Đèo Mã Pí Lèng (tỉnh Hà Giang) ở độ cao hơn 1.200m. Phía sau lưng hai người là đại vực Hẻm Tu Sản sâu hun hút với dòng Sông Nho Quế xanh màu ngọc bích uốn lượn như sợi chỉ ngọc giữa hai bức tường đá vôi khổng lồ dựng đứng chạm trời mây.
+- **VỊ TRÍ PHƯƠNG TIỆN & ĐẠO CỤ BAN ĐẦU (00:00):**
+  - Chiếc xe môtô Scrambler 400cc vừa dừng bánh, dựng chân chống nghiêng sát lan can đá trắng.
+  - Cả @Vy và @Joi ĐANG ĐỘI MŨ BẢO HIỂM 3/4 VINTAGE:
+    - @Vy: Mũ 3/4 màu kem be viền da nâu, kính chắn trong suốt đẩy cao trên trán lộ 100% gương mặt thanh tú.
+    - @Joi: Mũ 3/4 màu xanh rêu nhám viền da nâu, kính trong suốt đẩy cao lộ góc mặt nam tính phong trần.
 
-[ÂM THANH]
-Tiếng xèo xèo và hơi nước bốc lên từ nồi tráng bánh, tiếng thìa đũa chạm vào bát gốm lách cách vui tai, tiếng cười nói ấm áp trong quán ăn vùng cao, nhạc nền acoustic ấm áp.
+---
 
-[KHUNG CUỐI]
-Trung cảnh hai người ngồi đối diện nhau qua bàn gỗ: Vy trong áo len be ngà mỉm cười dịu dàng nhìn Joi trong áo thun henley xám đang húp ngụm súp xương nóng, đĩa bánh cuốn và bát chả thơm lừng giữa bàn, hai đôi giày boots da nâu đặt ngay ngắn dưới gầm bàn gỗ, ngoài cửa sổ là nắng vàng chiếu rọi dãy nhà cổ Đồng Văn mộc mạc. Giữ bất động hoàn toàn trong 0.5 giây cuối cùng.
+### [KHÓA NHÂN VẬT — CHARACTER LOCK]
+- **@Vy:** Đứng tựa sát lan can đá ngắm cảnh, áo len cổ lọ be ngà, áo khoác gió hồng đất, khăn len thổ cẩm quả trám tung bay trong gió núi lồng lộng, ánh mắt ngỡ ngàng xúc động trước kỳ quan non sông.
+- **@Joi:** Đứng sát cạnh bên @Vy, áo khoác canvas rêu, một tay ôm nhẹ vai @Vy che bớt luồng gió lạnh, một tay chống lên yên xe Scrambler, ánh mắt xanh say đắm ngắm cảnh.
 
-[LOẠI TRỪ]
-Phụ đề, đổi kiểu áo hay kiểu tóc, làm sai kiểu giày boots da lộn/da sáp, đũa bị méo mó, biến dạng thức ăn, người xung quanh nhìn chằm chằm vào máy quay.
+---
+
+### [KỊCH BẢN ĐẠO DIỄN HÀNH ĐỘNG TỪNG GIÂY — 10 GIÂY LIÊN TỤC]
+
+**00:00–00:03.0 | TIẾP NỐI HÀNH ĐỘNG MATCH-CUT TỪ CLIP 3 (EXT. ĐÈO MÃ PÍ LÈNG - MEDIUM SHOT)**
+- **Máy quay:** Medium Shot ngang tầm mắt, lấy trọn @Vy và @Joi đứng sát lan can đá trắng cạnh chiếc xe Scrambler, hậu cảnh mở rộng nhìn trọn vẹn Hẻm Tu Sản và dòng Sông Nho Quế xanh ngọc bích sâu gần 1.000m.
+- **Hành động:** Vừa bước xuống xe sau chặng leo đèo từ Đồng Văn, cả hai đứng sát lan can đá đón cơn gió đèo đại ngàn thổi lồng lộng làm tung bay tà khăn len. @Vy đưa tay ôm nhẹ ngực xúc động, @Joi siết nhẹ vai người yêu sưởi ấm.
+- **Âm thanh (Foley):** Tiếng gió đại ngàn vi vút rít qua khe đá tai mèo, tiếng vải áo khoác gió phần phật trong gió núi.
+
+**00:03.0–00:05.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @VY (CLOSE-UP SPEAKER LOCK)**
+- **Máy quay:** Ống kính zoom nhẹ KHÓA CHẶT cận cảnh gương mặt rạng rỡ của @Vy dưới chiếc mũ bảo hiểm 3/4 màu be ngà (kính chắn đẩy cao).
+- **Hành động:** @Vy ngước nhìn hẻm vực sâu thẳm rồi quay sang nhìn thẳng vào ống kính máy quay với ánh mắt long lanh thán phục. Khẩu hình miệng mở to tròn vành rõ chữ khớp 100% từng âm tiết tiếng Việt trong trẻo phát ra từ miệng cô.
+- **Thoại @Vy (giọng trầm trồ xúc động, khẩu hình khớp 100% âm thanh):**
+  > *"Đứng từ Đèo Mã Pí Lèng nhìn xuống Hẻm Tu Sản hùng vĩ đến nghẹt thở luôn anh ơi!"*
+
+**00:05.5–00:07.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @JOI (CLOSE-UP SPEAKER LOCK)**
+- **Máy quay:** Máy quay lia êm ái khóa chặt góc mặt nam tính của @Joi dưới chiếc mũ bảo hiểm 3/4 xanh rêu nhám.
+- **Hành động:** @Joi mỉm cười gật đầu, vươn tay chỉ xuống dải lụa xanh ngọc bích Sông Nho Quế dưới chân hẻm núi; khuôn miệng cử động tự nhiên ăn khớp chính xác từng âm tiết tiếng Việt hào sảng phát ra từ miệng anh.
+- **Thoại @Joi (giọng trầm ấm hào sảng, khẩu hình khớp 100% âm thanh):**
+  > *"Đệ nhất đèo Hà Giang quả nhiên danh bất hư truyền em à!"*
+
+**00:07.5–00:10.0 | ĐỆM HÀNH ĐỘNG VẬT LÝ — THÁO MŨ MÓC XE & XUỐNG BẾN THUYỀN (SILENT BUFFER & PROP BLOCKING)**
+- **Âm thanh lời thoại:** TUYỆT ĐỐI IM LẶNG — 100% KHÔNG CÓ THOẠI.
+- **Máy quay:** Lùi nhẹ bao quát hai nhân vật và đầu xe Scrambler cùng lối bậc thang đá dẫn xuống hẻm sông.
+- **Hành động vật lý logic của nhân vật:**
+  - Đúng giây `00:07.5`, dứt tiếng nói, @Vy mỉm cười hướng ánh mắt háo hức xuống bến sông.
+  - Cả hai đưa hai tay lên dưới cằm ấn nhả chốt khóa quai nón (tiếng "tách" dứt khoát), nhấc 02 chiếc mũ bảo hiểm 3/4 ra khỏi đầu.
+  - @Vy móc quai mũ màu be vào bên trái ghi-đông xe Scrambler và bấm chốt khóa giữ chặt; @Joi móc quai mũ màu rêu vào bên phải ghi-đông xe và bấm khóa cố định.
+  - Gài mũ xong an toàn, @Joi nắm lấy bàn tay @Vy, cả hai cùng rảo bước về phía con đường bậc thang đá uốn lượn dẫn xuống bến thuyền Sông Nho Quế.
+- **Âm thanh (Foley & Audio):** Tiếng "tách" nhả quai mũ, tiếng khóa chốt bấm kim loại "cạch" vào ghi-đông xe môtô, tiếng đế boots bước rộn ràng trên bậc đá dốc, tiếng gió núi hòa quyện cùng giai điệu sáo Mèo ngân nga sâu lắng.
+
+---
+
+### [KHUNG HÌNH CUỐI & MATCH-CUT CHUYỂN TIẾP SANG CLIP 5]
+- **Khung hình cuối (00:09.5–00:10):** @Vy và @Joi dắt tay nhau bước xuống những bậc đá dẫn về bến thuyền Sông Nho Quế, phía sau trên đỉnh đèo là chiếc xe Scrambler với 02 chiếc mũ bảo hiểm móc chắc chắn trên ghi-đông. Giữ cố định 0.5s cuối.
+- **Nối cảnh Clip 5:** Điểm bắt đầu của Clip 5 sẽ tiếp nối chiếc thuyền gỗ vừa rời bến lướt trên mặt nước xanh ngọc bích Hẻm Tu Sản (hai người mặc áo phao mỏng cam).
+
+---
+
+### [LOẠI TRỪ — NEGATIVE PROMPT]
+Mũ bảo hiểm tự nhiên biến mất mà không có động tác tháo quai và móc vào ghi-đông xe máy, mũ bảo hiểm che kín mặt (fullface) làm mất khẩu hình môi, tiếng nói không khớp khẩu hình môi miệng, lệch hình và tiếng (voiceover/desync), tiếng của @Vy nhưng cam quay @Joi, tiếng của @Joi nhưng cam quay @Vy, camera quay phong cảnh khi có lời thoại mà không quay mặt người nói, mấp máy môi không có tiếng, có tiếng nhưng môi đứng yên, lời thoại ở 2.5 giây cuối, đọc sai địa danh, không viết hoa địa danh, thông tin nhân vật hiển thị trên màn hình, thẻ tên, profile card, du khách lạ lọt vào khung hình, phụ đề, chữ viết, watermark.

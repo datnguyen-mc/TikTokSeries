@@ -1,131 +1,90 @@
 # 365 Ngày Việt Nam — Đề Xuất Nhạc Nền & Caption TikTok 🎵📝
 
-> Hướng dẫn chọn nhạc ghép cho mỗi tập video TikTok 80 giây + caption kèm hashtag tối ưu.
+> Hướng dẫn phối nhạc theo phong cách Travel Vlog chân thực tự nhiên + Caption đăng TikTok tối ưu kèm đúng **5 hashtags** cho mỗi tập.
 
 ---
 
-## 🎧 Nguồn Nhạc Không Bản Quyền Gợi Ý
+## 🎼 Cấu Trúc Nhạc Theo Mạch Cảm Xúc Vlog Tự Nhiên
 
-| Nguồn | Đặc điểm | Link |
+| Đoạn clip | Phong cách nhạc đề xuất | Mood / Cảm xúc |
 | :--- | :--- | :--- |
-| **Thư viện TikTok** | Kho nhạc thương mại miễn phí tích hợp sẵn trong app, trending liên tục | Trong app TikTok |
-| **YouTube Audio Library** | Nhạc không bản quyền chất lượng cao, lọc theo mood | studio.youtube.com |
-| **Epidemic Sound** | Chuyên nghiệp, gói dùng thử 30 ngày, lọc theo Travel/Cinematic | epidemicsound.com |
-| **Artlist** | Nhạc phim chuyên nghiệp, giấy phép thương mại | artlist.io |
-| **AudioBay.vn** | Nhạc Việt Nam không bản quyền | audiobay.vn |
-| **BreakingCopyright** | Kênh YouTube tổng hợp nhạc free | youtube.com/@BreakingCopyright |
+| **Clip 1 (Intro chào kênh & rủ khám phá)** | Upbeat Acoustic Pop / Whistling vui tươi | Năng lượng, hứng khởi, chào đón |
+| **Clip di chuyển / Ngắm cảnh hùng vĩ** | Cinematic Folk + Nhạc cụ dân tộc (Khèn, Sáo, Đàn Tính) | Hùng vĩ, khoáng đạt, tự do |
+| **Clip Vừa Ăn Vừa Review (Ẩm thực)** | Lo-fi Hip Hop / Acoustic Jazz ấm cúng, tinh nghịch | Hấp dẫn thèm thuồng, gần gũi đời thường |
+| **Clip Cuối (Hoàng hôn / Đêm chào tạm biệt)** | Warm Acoustic Guitar / Piano nhẹ nhàng | Lưu luyến, ngọt ngào, hứa hẹn tập kế tiếp |
 
 ---
 
-## 🎼 Phong Cách Nhạc Theo Từng Phân Cảnh
-
-| Phân cảnh | Phong cách nhạc | Từ khóa tìm kiếm |
-| :--- | :--- | :--- |
-| **Hook intro (00:00–00:02)** | Upbeat, catchy, năng lượng cao | `upbeat intro`, `energetic short` |
-| **Flycam cảnh đẹp (00:02–00:05)** | Cinematic Ethnic, sáo trúc + beat hiện đại | `Vietnamese cinematic`, `ethnic trap Vietnam` |
-| **Khám phá / phượt xe máy** | Acoustic guitar ấm áp, indie folk | `acoustic travel`, `road trip guitar` |
-| **Ẩm thực (clip 4-5)** | Lofi chill, vui tươi nhẹ nhàng | `food vlog lofi`, `cooking chill` |
-| **Lãng mạn hoàng hôn (clip 7)** | Piano + đàn bầu/đàn tranh sâu lắng | `romantic sunset piano`, `Vietnamese instrumental` |
-| **Đêm bếp lửa kết thúc (clip 8)** | Acoustic nhẹ nhàng + đàn Tính/hát Then | `campfire acoustic`, `night chill` |
-
----
-
-## 📋 TẬP 1: HÀ GIANG — Cực Bắc Lũng Cú & Đèo Mã Pí Lèng
+## 📋 TẬP 1: HÀ GIANG — Cực Bắc Hùng Vĩ & Bánh Cuốn Trứng Đồng Văn (7 Clips)
 
 ### 🎵 Nhạc đề xuất:
-| Lựa chọn | Bài / Phong cách | Lý do |
-| :---: | :--- | :--- |
-| **1 (Gợi ý)** | **"Hà Giang Ơi" — Quách Beem** (bản instrumental/remix) | Đúng địa danh, giai điệu phiêu du bay bổng, cực viral TikTok |
-| 2 | Sáo trúc Hmông + Ethnic Trap beat | Âm hưởng vùng cao Tây Bắc hùng vĩ, flycam đèo Mã Pí Lèng |
-| 3 | "Đi Để Trở Về" — Soobin (bản acoustic) | Ca từ hợp chủ đề hành trình, nhịp nhẹ nhàng ấm áp |
+- **Lựa chọn 1 (Ưu tiên):** *Hà Giang Ơi* (Acoustic Guitar & Sáo Mèo Instrumental) — Vừa hào hùng vừa ấm áp thân thương.
+- **Lựa chọn 2:** *Đi Theo Bóng Mặt Trời* (Guitar Acoustic) — Tinh thần phượt tự do, phóng khoáng trên cung đèo Thẩm Mã.
 
-### 📝 Caption:
-```
-Ngày 1/365 🏍️ Cực Bắc Lũng Cú — nơi lá cờ Tổ quốc tung bay trên đỉnh trời 🇻🇳
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Ngày đầu tiên trong hành trình 365 Ngày Việt Nam của Vy và Joi tại mảnh đất Cực Bắc Hà Giang! Cùng tụi mình nếm trọn vị bánh cuốn trứng lòng đào béo ngậy và đắm chìm trong vẻ đẹp ngoạn mục của Đèo Mã Pí Lèng nha cả nhà ơi! Ngày mai hẹn gặp lại ở Thác Bản Giốc - Cao Bằng nhé! 🇻🇳🏍️✨
 
-Vy & Joi bắt đầu hành trình 365 ngày xuyên Việt từ cột cờ Lũng Cú, vượt đèo Mã Pí Lèng huyền thoại, ăn phở cuốn Đồng Văn bên bếp lửa hồng ❤️‍🔥
-
-📍 Hà Giang | Lũng Cú | Mã Pí Lèng | Đồng Văn
-🎥 Tập 1 — 365 Ngày Việt Nam
-
-#365ngayvietnam #hagiang #lungcu #mapileng #dongvan #travelcouple #xuyenviet #dulichvietnam #vyvaJoi #couplegoals #tiktoktravel #vietnam
+#365ngayvietnam #HaGiang #MaPiLeng #VyvaJoi #xuyenviet
 ```
 
 ---
 
-## 📋 TẬP 2: CAO BẰNG — Thác Bản Giốc & Pác Bó Thiêng Liêng
+## 📋 TẬP 2: CAO BẰNG — Thác Bản Giốc & Phở Vịt Quay 7 Vị (6 Clips)
 
 ### 🎵 Nhạc đề xuất:
-| Lựa chọn | Bài / Phong cách | Lý do |
-| :---: | :--- | :--- |
-| **1 (Gợi ý)** | **Nhạc sáo trúc + đàn Tính Tày** (cinematic) | Đậm hồn vía Cao Bằng, hợp cảnh thác nước & rừng trúc |
-| 2 | "Về Quê" — lofi remix nhẹ nhàng | Không gian yên bình, hoài niệm, hợp cảnh suối Lê-nin & Pác Bó |
-| 3 | Cinematic Orchestra + water sound effects | Hùng vĩ, phù hợp cảnh Thác Bản Giốc ba tầng cuồn cuộn |
+- **Lựa chọn 1 (Ưu tiên):** Nhạc cụ truyền thống Đàn Tính Tày Cao Bằng phối cùng Modern Beat rộn rã.
+- **Lựa chọn 2:** *Nụ Cười Non Nước* (Bản hòa tấu sáo trúc & dàn dây điện ảnh).
 
-### 📝 Caption:
-```
-Ngày 2/365 🏍️ Cao Bằng — nơi thác nước xuyên biên giới vang vọng trời xanh 💦🇻🇳
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Ngày thứ hai trong hành trình 365 Ngày Việt Nam của Vy và Joi tại Non nước Cao Bằng! Đứng dưới chân Thác Bản Giốc bọt tung trắng xóa mát lạnh và thưởng thức tô phở vịt quay bảy vị da giòn rụm đỉnh chóp! Ngày mai cùng tụi mình ghé thăm Hồ Ba Bể - Bắc Kạn nhé! 🇻🇳🌊🦆
 
-Vy & Joi vượt đèo 14 tầng Khau Cốc Chà, thăm Pác Bó thiêng liêng, ngỡ ngàng trước Thác Bản Giốc hùng vĩ và ấm lòng bên hạt dẻ Trùng Khánh nướng than 🌰🔥
-
-📍 Cao Bằng | Pác Bó | Thác Bản Giốc | Trùng Khánh | Khuổi Ky
-🎥 Tập 2 — 365 Ngày Việt Nam
-
-#365ngayvietnam #caobang #thacbangioc #pacbo #trungkhanh #hatdenướng #travelcouple #xuyenviet #couplegoals #vietnam
+#365ngayvietnam #CaoBang #ThacBanGioc #VyvaJoi #xuyenviet
 ```
 
 ---
 
-## 📋 TẬP 3: BẮC KẠN — Viên Ngọc Xanh Hồ Ba Bể
+## 📋 TẬP 3: BẮC KẠN — Hồ Ba Bể Sương Mờ & Cá Nướng Kẹp Tre (6 Clips)
 
 ### 🎵 Nhạc đề xuất:
-| Lựa chọn | Bài / Phong cách | Lý do |
-| :---: | :--- | :--- |
-| **1 (Gợi ý)** | **Piano + tiếng nước hồ ambient** (lofi cinematic) | Không gian tĩnh lặng, mặt hồ phẳng lặng như gương, chữa lành |
-| 2 | "Lạc Trôi" — Sơn Tùng (bản đàn tranh instrumental) | Âm hưởng huyền bí phù hợp động Puông & Ao Tiên mờ sương |
-| 3 | Acoustic guitar + đàn Tính + tiếng chim rừng | Ấm áp, hoang sơ, hợp cảnh kayak trên hồ & bản Pác Ngòi |
+- **Lựa chọn 1 (Ưu tiên):** Giai điệu Đàn Tính phối hợp điệu hát Then Tày hiện đại, nhẹ nhàng như làn sương Ba Bể.
+- **Lựa chọn 2:** Indie Folk mộc mạc, guitar rải ngón êm đềm khi lướt thuyền kayak giữa hồ.
 
-### 📝 Caption:
-```
-Ngày 3/365 🏍️ Bắc Kạn — viên ngọc xanh hồ Ba Bể giữa đại ngàn 💎🛶
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Ngày thứ ba trong hành trình 365 Ngày Việt Nam của Vy và Joi tại Hồ Ba Bể - Bắc Kạn! Một ngày chèo kayak êm ru giữa mặt hồ phẳng lặng như ngọc bích và mê mẩn với món cá nướng kẹp tre giòn rụm cùng tôm chua cuốn thịt ba chỉ! Ngày mai cùng tụi mình đến với Lạng Sơn nhé! 🇻🇳🛶🐟
 
-Vy & Joi chui thuyền qua Động Puông huyền bí, đứng trước Thác Đầu Đẳng 3 tầng hùng vĩ, chèo kayak giữa mặt hồ xanh ngọc bích và ngắm hoàng hôn Ao Tiên mờ sương 🌅
-
-📍 Bắc Kạn | Hồ Ba Bể | Động Puông | Thác Đầu Đẳng | Ao Tiên | Pác Ngòi
-🎥 Tập 3 — 365 Ngày Việt Nam
-
-#365ngayvietnam #backan #hobabe #dongpuong #thacdaudang #aotien #kayak #pacngoi #travelcouple #xuyenviet #vietnam
+#365ngayvietnam #BacKan #HoBaBe #VyvaJoi #xuyenviet
 ```
 
 ---
 
-## 📋 TẬP 4: LẠNG SƠN — Ải Chi Lăng & Xứ Lạng Biên Ải
+## 📋 TẬP 4: LẠNG SƠN — Xứ Lạng Biên Ải & Vịt Quay Móc Mật (6 Clips)
 
 ### 🎵 Nhạc đề xuất:
-| Lựa chọn | Bài / Phong cách | Lý do |
-| :---: | :--- | :--- |
-| **1 (Gợi ý)** | **"Gái Nhà Lành" nhạc Then Tày remix** (ethnic beat) | Đậm văn hóa xứ Lạng, catchy, viral trên TikTok |
-| 2 | Cinematic drums + sáo Mèo (hùng tráng mở đầu) → chuyển lofi | Hợp mở đầu Ải Chi Lăng hào hùng rồi chuyển nhẹ nhàng ẩm thực |
-| 3 | "Tình Yêu Màu Nắng" — Đoàn Thúy Trang (acoustic cover) | Nhẹ nhàng ấm áp, hợp cảnh dạo phố đêm, mua sắm chợ Đông Kinh |
+- **Lựa chọn 1 (Ưu tiên):** Nhạc Then Lạng Sơn phối hợp âm hưởng Lo-fi Acoustic phố đêm Kỳ Lừa.
+- **Lựa chọn 2:** Giai điệu Pop Ballad Acoustic ấm cúng, ngọt ngào của cặp đôi dạo phố đêm biên ải.
 
-### 📝 Caption:
-```
-Ngày 4/365 🏍️ Lạng Sơn — xứ Lạng biên ải hào hùng & vịt quay mắc mật ngon quên lối về 🦆🔥
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Ngày thứ tư trong hành trình 365 Ngày Việt Nam của Vy và Joi tại Xứ Lạng biên ải! Cùng tụi mình "phá đảo" đĩa vịt quay lá mắc mật da giòn rụm thơm nức mũi và tô phở chua Chợ Đêm Kỳ Lừa ngon nhức nhối! Ngày mai đón xem tụi mình khám phá Tuyên Quang nha cả nhà ơi! 🇻🇳🍗✨
 
-Vy & Joi đứng giữa Ải Chi Lăng cảm nhận hào khí ngàn năm, khám phá Động Tam Thanh & Thành Nhà Mạc, rồi ăn sập xứ Lạng với vịt quay mắc mật + phở chua huyền thoại 🍜😍
-
-📍 Lạng Sơn | Ải Chi Lăng | Động Tam Thanh | Thành Nhà Mạc | Sông Kỳ Cùng | Chợ Đông Kinh
-🎥 Tập 4 — 365 Ngày Việt Nam
-
-#365ngayvietnam #langson #aichilang #vitquaymacmat #phochua #dongkinhmarket #travelcouple #xuyenviet #xulang #vietnam
+#365ngayvietnam #LangSon #VitQuayLangSon #VyvaJoi #xuyenviet
 ```
 
 ---
 
-## 💡 Mẹo Ghép Nhạc Hiệu Quả Trên CapCut
+## 📋 TẬP 5: TUYÊN QUANG — Hạ Long Giữa Đại Ngàn & Bánh Gai Chiêm Hóa (7 Clips)
 
-1. **Dùng tính năng "Beat Sync"** trong CapCut để tự động căn nhịp nhạc với các cắt cảnh.
-2. **Giảm volume nhạc khi có lời thoại:** Nhạc nền -12dB đến -18dB khi Vy/Joi/Thuyết minh nói; tăng lên -6dB khi chỉ có hình ảnh.
-3. **Fade in/out:** Luôn fade in nhạc 0.5 giây đầu clip 1 và fade out 1 giây cuối clip 8.
-4. **Lớp âm thanh môi trường:** Giữ lại tiếng gió, nước, chim, bếp lửa ở mức -12dB làm nền dưới nhạc để tăng cảm giác chân thực.
-5. **TikTok trending sound:** Nếu có bài nhạc đang viral trên TikTok phù hợp chủ đề → ưu tiên dùng để tăng khả năng lên xu hướng.
+### 🎵 Nhạc đề xuất:
+- **Lựa chọn 1 (Ưu tiên):** Âm hưởng sáo trúc Tuyên Quang kết hợp tiết tấu Indie Acoustic rộn rã khi đi thuyền lòng hồ Na Hang.
+- **Lựa chọn 2:** Giai điệu Pop Ballad mộc mạc vui tươi bên suối Thác Khuổi Nhi.
+
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Ngày thứ năm trong hành trình 365 Ngày Việt Nam của Vy và Joi tại Tuyên Quang — "Hạ Long giữa đại ngàn"! Trải nghiệm massage chân bằng cá suối tự nhiên tại Thác Khuổi Nhi cười xỉu và mê mẩn đĩa cá lăng nướng than cùng bánh gai Chiêm Hóa dẻo quánh! Ngày mai cùng tụi mình đến với thủ phủ chè Thái Nguyên nha cả nhà ơi! 🇻🇳🛶🐟
+
+#365ngayvietnam #TuyenQuang #NaHang #VyvaJoi #xuyenviet
+```
+

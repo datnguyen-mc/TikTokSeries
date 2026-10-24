@@ -260,7 +260,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 ### Chặng 1: Đông Bắc Bộ (Tập 1–5)
 - **Tập 1 (Hà Giang):** Cột Cờ Lũng Cú, Đồng Văn, Phố Cổ Đồng Văn, Đèo Mã Pí Lèng, Hẻm Tu Sản, Sông Nho Quế, Làng Pả Vi, Mèo Vạc, Hà Giang
 - **Tập 2 (Cao Bằng):** Thác Bản Giốc, Sông Quây Sơn, Trùng Khánh, Pác Bó, Suối Lê Nin, Đèo Mã Phục, Cao Bằng
-- **Tập 3 (Bắc Kạn):** Hồ Ba Bể, Sông Năng, Hang Động Puông, Bản Pác Ngòi, Đảo Bà Góa, Bắc Kạn
+- **Tập 3 (Bắc Kạn):** Hồ Ba Bể, Vườn Quốc Gia Ba Bể, Đỉnh Đồn Đèn, Chợ Rã, Bản Pác Ngòi, Bến Pác Ngòi, Đảo Bà Góa (Pò Giả Mải), Đảo An Mạ, Đền An Mạ, Ao Tiên, Bản Cám, Sông Năng, Động Puông, Lũng Nham, Bắc Kạn
 - **Tập 4 (Lạng Sơn):** Ải Chi Lăng, Động Tam Thanh, Nàng Tô Thị, Chợ Đêm Kỳ Lừa, Cột Cờ Phai Vệ, Lạng Sơn
 - **Tập 5 (Tuyên Quang):** Na Hang, Cọc Vài Phạ, Thác Khuổi Nhi, Bản Nà Tông, Cây Đa Tân Trào, Chiêm Hóa, Tuyên Quang
 
@@ -287,7 +287,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 |:---:|---|:---:|:---:|---|
 | **1** | Hà Giang | 7 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 lăn bánh rời Mèo Vạc trong hoàng hôn → hướng Cao Bằng |
 | **2** | Cao Bằng | 6 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 (kính xuống) lăn bánh rời Đèo Mã Phục hoàng hôn → hướng Bắc Kạn |
-| **3** | Bắc Kạn | 6 | 📋 OUTLINE | — |
+| **3** | Bắc Kạn | 7 | ✅ HOÀN THÀNH | Đêm trăng rằm ở nhà sàn Bản Pác Ngòi: Scrambler dựng trong sân, 2 mũ 3/4 móc trên ghi-đông. Tập 4 mở vào sáng hôm sau (7:00–8:00): đội mũ, cài quai, rời Pác Ngòi theo QL279 đi Lạng Sơn (không chạy đèo ban đêm) |
 | **4** | Lạng Sơn | 6 | 📋 OUTLINE | — |
 | **5** | Tuyên Quang | 7 | 📋 OUTLINE | — |
 

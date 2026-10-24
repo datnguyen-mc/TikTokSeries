@@ -1,8 +1,8 @@
 # Tây Du Ký 2026 — Tập 2: Hóa đơn tiền điện
 
-**Ngày 2** · Tập 24s = 3 clip × 8s (bỏ clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Ngày 2** · Tập 30s = 3 clip × 10s (bỏ clip 3 → 20s) · 9:16 · thoại tiếng Việt · không chữ trên video
 
-> **Cách dựng:** Clip 1: **Video → Veo 3.1 → Ingredients**, đính ảnh tham chiếu (tối đa 3 ảnh), dán prompt → Clip 2 và 3: **Save frame** khung cuối clip trước → **Frames**, đặt ảnh đó làm **Start frame**, dán prompt → ghép 3 clip trong Scenebuilder. Chi tiết: FLOW_GUIDE mục 1.
+> **Cách dựng:** Clip 1: **Video → Gemini Omni → Ingredients**, độ dài 10s, đính ảnh tham chiếu, dán prompt → Clip 2 và 3: **Save frame** khung cuối clip trước → **Frames**, đặt ảnh đó làm **Start frame**, độ dài 10s, dán prompt → ghép 3 clip trong Scenebuilder. Nếu Flow đã có **Extend** cho Omni: bấm Extend trên clip trước rồi dán prompt clip sau, khỏi ghép. Chi tiết: FLOW_GUIDE mục 1.
 > **Copy prompt:** mỗi file `clip-{số}.md` chỉ chứa đúng prompt: mở file, bấm Cmd+A rồi Cmd+C, dán thẳng vào ô prompt của Flow, không sửa gì.
 > **Khóa nhân vật, bối cảnh, ảnh tham chiếu:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Quy trình, xử lý lỗi:** [FLOW_GUIDE.md](../../FLOW_GUIDE.md)
 
@@ -24,23 +24,24 @@
 
 | Thời gian | Hình ảnh | Thoại |
 | --- | --- | --- |
-| 00:00–00:02 | Cửa sắt xếp bật mở "rầm", giày dép văng tung tóe; La Sát đứng ngược sáng, tay cầm quạt Ba Tiêu | — |
-| 00:02–00:05 | La Sát tung tờ hóa đơn dài lăn tới tận sofa | La Sát: "Tiền điện tháng này gấp ba!" |
-| 00:05–00:07 | Ngộ Không, Sa Tăng há hốc; La Sát gập quạt chỉ mặt | La Sát: "Ai bật máy lạnh suốt ngày?" |
-| 00:07–00:08 | Mọi ánh mắt quay về Bát Giới trùm chăn dưới máy lạnh đóng băng, giấu remote sau lưng; Sư phụ ngồi thiền ở góc | — |
-| 00:08–00:11 | Cận Bát Giới răng va lập cập, lông mày đóng tuyết | Bát Giới: "Lão Trư sợ nóng mà!" |
-| 00:11–00:14 | Ngộ Không nhảy lên lưng sofa, búng tay, chỉ vào quạt của La Sát | Ngộ Không: "Mượn quạt Ba Tiêu, khỏi tốn điện!" |
-| 00:14–00:15 | Ba đồ đệ linh cảm chẳng lành, túm tụm lùi ra cửa; La Sát bước vào giữa phòng | — |
-| 00:15–00:16 | La Sát nheo mắt cười nguy hiểm, bung quạt "phạch" | La Sát: "Muốn mát hả? Được." |
-| 00:16–00:18 | Một cú quạt: cuồng phong thổi bay ba đồ đệ qua cửa ra hẻm | — |
-| 00:18–00:20 | Ba người rớt chồng lên nhau trong hẻm, Bát Giới nằm trên cùng | Bát Giới: "Mát... thiệt..." |
-| 00:20–00:23 | Gió lặng, Sư phụ vẫn ngồi thiền y nguyên, chỉ tay áo khẽ lay | Sư phụ: "Tâm tĩnh... tự nhiên mát." |
-| 00:23–00:24 | La Sát chưng hửng, quạt rũ xuống, cây trâm lệch (khung thumbnail) | — |
+| 00:00–00:02.5 | Cửa sắt xếp bật mở "rầm", giày dép văng tung tóe; La Sát đứng ngược sáng, tay cầm quạt Ba Tiêu | — |
+| 00:02.5–00:05.5 | La Sát tung tờ hóa đơn dài lăn tới tận sofa | La Sát: "Tiền điện tháng này gấp ba!" |
+| 00:05.5–00:08 | Ngộ Không, Sa Tăng há hốc; La Sát gập quạt chỉ mặt | La Sát: "Ai bật máy lạnh suốt ngày?" |
+| 00:08–00:10 | Mọi ánh mắt quay về Bát Giới trùm chăn dưới máy lạnh đóng băng, giấu remote sau lưng; Sư phụ ngồi thiền ở góc | — |
+| 00:10–00:13 | Cận Bát Giới răng va lập cập, lông mày đóng tuyết | Bát Giới: "Lão Trư sợ nóng mà!" |
+| 00:13–00:16 | Ngộ Không nhảy lên lưng sofa, búng tay, chỉ vào quạt của La Sát | Ngộ Không: "Mượn quạt Ba Tiêu, khỏi tốn điện!" |
+| 00:16–00:17.5 | Ba đồ đệ linh cảm chẳng lành, túm tụm lùi ra cửa; La Sát bước vào giữa phòng | — |
+| 00:17.5–00:19 | La Sát nheo mắt cười nguy hiểm, bung quạt "phạch" | La Sát: "Muốn mát hả? Được." |
+| 00:19–00:20 | Máy quay lượn ra sau vai La Sát khi bà giơ cao quạt | — |
+| 00:20–00:22.5 | Một cú quạt: cuồng phong thổi bay ba đồ đệ qua cửa ra hẻm | — |
+| 00:22.5–00:25 | Ba người rớt chồng lên nhau trong hẻm, Bát Giới nằm trên cùng | Bát Giới: "Mát... thiệt..." |
+| 00:25–00:28 | Gió lặng, Sư phụ vẫn ngồi thiền y nguyên, chỉ tay áo khẽ lay | Sư phụ: "Tâm tĩnh... tự nhiên mát." |
+| 00:28–00:30 | La Sát chưng hửng, quạt rũ xuống, cây trâm lệch (khung thumbnail) | — |
 
 ## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
 
 | Clip | Thời gian | Cách tạo | File prompt |
 | --- | --- | --- | --- |
-| 1 | 00:00–00:08 | Ingredients: đính ảnh tham chiếu | [clip-1.md](clip-1.md) |
-| 2 | 00:08–00:16 | Frames: start frame = khung cuối clip 1 | [clip-2.md](clip-2.md) |
-| 3 | 00:16–00:24 | Frames: start frame = khung cuối clip 2 | [clip-3.md](clip-3.md) |
+| 1 | 00:00–00:10 | Ingredients: đính ảnh tham chiếu | [clip-1.md](clip-1.md) |
+| 2 | 00:10–00:20 | Frames: start frame = khung cuối clip 1 | [clip-2.md](clip-2.md) |
+| 3 | 00:20–00:30 | Frames: start frame = khung cuối clip 2 | [clip-3.md](clip-3.md) |

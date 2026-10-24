@@ -1,4 +1,5 @@
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 
 [CHARACTERS — unchanged]
 @SaTang = SA TĂNG: very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace; very deep, slow, calm male voice.
@@ -7,10 +8,11 @@ Start exactly from the provided first frame (the final frame of the previous cli
 @DuongTang = SƯ PHỤ: young shaved-head human monk, soft round face, calm kind eyes, saffron-orange robe with deep-red kasaya sash, brown wooden prayer beads; gentle, slow, soothing young male voice.
 
 [SHOT LIST]
-00:00–00:01 | From the previous final frame, the camera slowly dollies toward the left back corner — SƯ PHỤ slowly swivels around on his meditation cushion to face the room, like a dramatic slow reveal: eyes closed, cheeks gently chewing, holding the last round golden flaky bánh pía with both hands, flaky crumbs on his saffron robe.
-00:01–00:06 | Medium close-up, static, soft warm backlight — SƯ PHỤ opens his eyes with a gentle, innocent smile and presses one hand to his chest. SƯ PHỤ says (gentle, slow, soothing young male voice, innocent and sincere): "A Di Đà Phật... bánh chay mà." SƯ PHỤ continues (gentle, slow, soothing young male voice, kindly): "Ta tưởng đồ nhi cúng dường ta."
-00:06–00:07 | Medium wide shot, quick reaction cut — NGỘ KHÔNG slaps a palm to his forehead and staggers; BÁT GIỚI's jaw drops and shrimp crackers tumble out of his mouth; SA TĂNG's lower lip trembles, his eyes glisten with tears, and he bows his head, the box lid tucked under one arm. SA TĂNG says (very deep, slow, calm male voice, tearful): "Sư phụ... nói phải."
-00:07–00:08 | Medium wide shot, static — SƯ PHỤ kindly holds out the last half of the bánh pía toward SA TĂNG with both hands and a warm smile.
+00:00–00:02 | From the previous final frame, the camera slowly dollies toward the left back corner — SƯ PHỤ slowly swivels around on his meditation cushion to face the room, like a dramatic slow reveal: eyes closed, cheeks gently chewing, holding the last round golden flaky bánh pía with both hands, flaky crumbs on his saffron robe.
+00:02–00:04.5 | Medium close-up, static, soft warm backlight — SƯ PHỤ opens his eyes with a gentle, innocent smile and presses one hand to his chest. SƯ PHỤ says (gentle, slow, soothing young male voice, innocent and sincere): A Di Đà Phật... bánh chay mà.
+00:04.5–00:07 | Same medium close-up, static — SƯ PHỤ keeps his hand on his chest, smiling innocently. SƯ PHỤ says (gentle, slow, soothing young male voice, kindly): Ta tưởng đồ nhi cúng dường ta.
+00:07–00:08.5 | Medium wide shot, quick reaction cut — NGỘ KHÔNG slaps a palm to his forehead and staggers; BÁT GIỚI's jaw drops and shrimp crackers tumble out of his mouth; SA TĂNG's lower lip trembles, his eyes glisten with tears, and he bows his head, the box lid tucked under one arm. SA TĂNG says (very deep, slow, calm male voice, tearful): Sư phụ... nói phải.
+00:08.5–00:10 | Medium wide shot, static — SƯ PHỤ kindly holds out the last half of the bánh pía toward SA TĂNG with both hands and a warm smile.
 
 [SOUND]
 A soft wind-chime twinkle and a gentle đàn tranh glissando on the reveal, quiet chewing, then a comedic gong hit on Ngộ Không's facepalm and a playful wood-block button at the end. Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-block percussion over a light modern hip-hop beat.

@@ -45,15 +45,15 @@ Ngày thứ hai trong hành trình 365 Ngày Việt Nam của Vy và Joi tại N
 
 ---
 
-## 📋 TẬP 3: BẮC KẠN — Hồ Ba Bể Sương Mờ & Cá Nướng Kẹp Tre (6 Clips)
+## 📋 TẬP 3: BẮC KẠN — Một Ngày Ở Hồ Ba Bể: Biển Mây Đồn Đèn, Cá Kẹp Nẹp Tre & Đêm Rằm Bên Bếp Lửa (7 Clips)
 
 ### 🎵 Nhạc đề xuất:
-- **Lựa chọn 1 (Ưu tiên):** Giai điệu Đàn Tính phối hợp điệu hát Then Tày hiện đại, nhẹ nhàng như làn sương Ba Bể.
-- **Lựa chọn 2:** Indie Folk mộc mạc, guitar rải ngón êm đềm khi lướt thuyền kayak giữa hồ.
+- **Lựa chọn 1 (Ưu tiên):** Giai điệu Đàn Tính phối hợp điệu hát Then Tày hiện đại, nhẹ nhàng như làn sương Ba Bể; mở bằng tiếng đàn Tính lúc mặt trời lên trên biển mây, khép bằng một câu Then bên bếp lửa đêm rằm.
+- **Lựa chọn 2:** Indie Folk mộc mạc, guitar rải ngón êm đềm cho các cảnh đi thuyền máy giữa hồ.
 
 ### 📝 Caption TikTok (Chuẩn 5 Hashtags):
 ```text
-Ngày thứ ba trong hành trình 365 Ngày Việt Nam của Vy và Joi tại Hồ Ba Bể - Bắc Kạn! Một ngày chèo kayak êm ru giữa mặt hồ phẳng lặng như ngọc bích và mê mẩn với món cá nướng kẹp tre giòn rụm cùng tôm chua cuốn thịt ba chỉ! Ngày mai cùng tụi mình đến với Lạng Sơn nhé! 🇻🇳🛶🐟
+Ngày thứ ba của Vy và Joi ở Hồ Ba Bể - Bắc Kạn! Bốn giờ sáng săn biển mây Đồn Đèn, ăn cá kẹp nẹp tre ở Ao Tiên, tôm chua ăn kèm ba chỉ trên hiên nhà sàn, rồi đón trăng rằm bên bếp lửa nghe đàn Tính. Lưu lại lịch trình giờ vàng ở bình luận nha cả nhà! Ngày mai tụi mình lên đường đi Lạng Sơn! 🇻🇳☁️🌕
 
 #365ngayvietnam #BacKan #HoBaBe #VyvaJoi #xuyenviet
 ```

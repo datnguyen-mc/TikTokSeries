@@ -1,5 +1,5 @@
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated comedy film, Pixar/Disney-quality stylized CGI, original character designs, soft global illumination, shallow depth of field, 24fps, warm cinematic color grade, snappy comedic timing with expressive cartoon facial animation. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated comedy film, Pixar/Disney-quality stylized CGI, original character designs, soft global illumination, shallow depth of field, 24fps, warm cinematic color grade, snappy comedic timing with expressive cartoon facial animation. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 
 [CHARACTERS — match the attached reference images exactly]
 KHÁCH: a young Vietnamese office woman in her mid-twenties, petite, with shoulder-length straight black hair and blunt bangs, round tortoiseshell glasses and wide expressive eyes; wears a crisp white short-sleeve blouse, light-blue high-waisted trousers and white sneakers; holds a smartphone. Expressive and easily startled. Voice: bright, high-pitched young female voice.
@@ -10,10 +10,11 @@ A quiet Saigon side street at golden late afternoon, 2026: rows of narrow, color
 Props: KHÁCH's smartphone screen shows only a big glowing button with a cartoon noodle-bowl icon, no text; NGỘ KHÔNG carries a clear plastic takeaway bag holding one lidded bowl of bún bò with reddish broth.
 
 [SHOT LIST]
-00:00–00:01 | Extreme close-up, static — KHÁCH's thumb taps the big glowing button with the noodle-bowl icon on her phone screen; a soft chime.
-00:01–00:02 | Wide shot down the street, fast tilt up — instantly, far away at the noodle stall, a golden streak blasts up into the sky with a sonic boom, leaves whipping off the tamarind trees.
-00:02–00:05 | Medium shot, eye level, static — KHÁCH, standing on the office building's steps and unaware, lowers her phone with a tired sigh, shoulders slumping, while behind her in the sky the golden streak arcs over the power lines straight toward her. KHÁCH says (bright, high-pitched young female voice, tired): "Chắc nửa tiếng nữa mới tới..."
-00:05–00:08 | Medium shot, camera shake on impact — NGỘ KHÔNG screeches to a stop right in front of KHÁCH, standing on his small fluffy golden cloud hovering a foot above the ground; the blast of wind blows her hair and bangs straight back and knocks her glasses askew; he holds out the takeaway bag with a big proud grin. NGỘ KHÔNG says (fast, sharp, quick-witted, hot-tempered young male voice, cheerful and proud): "Bún bò tới rồi chị ơi!"
+00:00–00:01.5 | Extreme close-up, static — KHÁCH's thumb taps the big glowing button with the noodle-bowl icon on her phone screen; a soft chime.
+00:01.5–00:03 | Wide shot down the street, fast tilt up — instantly, far away at the noodle stall, a golden streak blasts up into the sky with a sonic boom, leaves whipping off the tamarind trees.
+00:03–00:06 | Medium shot, eye level, static — KHÁCH, standing on the office building's steps and unaware, lowers her phone with a tired sigh, shoulders slumping, while behind her in the sky the golden streak arcs over the power lines straight toward her. KHÁCH says (bright, high-pitched young female voice, tired): Chắc nửa tiếng nữa mới tới...
+00:06–00:07.5 | Medium shot, camera shake on impact — NGỘ KHÔNG screeches to a stop right in front of KHÁCH, standing on his small fluffy golden cloud hovering a foot above the ground; the blast of wind blows her hair and bangs straight back and knocks her glasses askew.
+00:07.5–00:10 | Same medium shot, static — NGỘ KHÔNG holds out the takeaway bag with a big proud grin while KHÁCH stands frozen. NGỘ KHÔNG says (fast, sharp, quick-witted, hot-tempered young male voice, cheerful and proud): Bún bò tới rồi chị ơi!
 
 [SOUND]
 Quiet street ambience, birds in the tamarind trees, a soft chime from the phone, a sonic boom, a rising jet-like whoosh, a screeching brake and a gust of wind on landing. Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-block percussion over a light modern hip-hop beat. Fast and energetic.

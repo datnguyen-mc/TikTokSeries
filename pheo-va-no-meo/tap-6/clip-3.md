@@ -1,4 +1,5 @@
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 
 [CHARACTERS — unchanged]
 @Pheo = PHÈO: chubby upright black cat, glossy jet-black fur, big amber-yellow eyes, notch on LEFT ear, long white whiskers, white chef's toque tilted right, white t-shirt, navy-blue apron, red neckerchief; deep, warm, witty Southern Vietnamese male chef voice.
@@ -22,4 +23,4 @@ Background music: upbeat, playful acoustic guitar and light marimba kitchen tune
 Medium close-up: Phèo frozen a step behind Hường on the right of frame, spatula raised and pointing at his own chest, eyes wide as saucers, whiskers stiff, mouth slightly open; in the left foreground Hường beams at the smartphone on her pink selfie stick, holding the black non-stick frying pan up beside her face and blowing a kiss; the plate of glossy caramelized ribs on the island in front of them; golden late-morning light. Hold still for the final 1 second (thumbnail frame).
 
 [AVOID]
-Extra characters, humans or human hands, outfit changes, any readable text, letters, numbers, usernames, comments or app interface on the phone screen, labels or logos, money or banknotes, distorted paws, Phèo moving or blinking during the freeze, the pan looking dirty or burnt.
+Extra characters, humans or human hands, outfit changes, any readable text, letters, numbers, usernames, comments or app interface on the phone screen, labels or logos, money or banknotes, distorted paws, Phèo moving or blinking during the freeze, the pan looking dirty or burnt, subtitles.

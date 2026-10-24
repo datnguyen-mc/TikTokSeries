@@ -1,4 +1,5 @@
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 
 [CHARACTERS — unchanged]
 @Pheo = PHÈO: chubby upright black cat, glossy jet-black fur, big amber-yellow eyes, notch on LEFT ear, long white whiskers, white chef's toque tilted right, white t-shirt, navy-blue apron, red neckerchief; deep, warm, witty Southern Vietnamese male chef voice.
@@ -19,4 +20,4 @@ Background music: upbeat, playful acoustic guitar and light marimba kitchen tune
 Medium close-up of Phèo at the stove on the right of frame, holding one glossy dark-amber caramelized rib up beside his face with wooden chopsticks, winking at camera with a proud grin; in the black non-stick frying pan in front of him the remaining ribs glisten, sprinkled with black pepper and chopped green onion, steam rising; golden late-morning light from the left. Hold still for the final 0.5 seconds.
 
 [AVOID]
-Extra characters, humans or human hands, outfit changes, any readable text, labels or logos, burnt or blackened sugar, glaze sticking to the pan, oil fire, raw-looking pork at the end, distorted paws, Hường appearing in this segment.
+Extra characters, humans or human hands, outfit changes, any readable text, labels or logos, burnt or blackened sugar, glaze sticking to the pan, oil fire, raw-looking pork at the end, distorted paws, Hường appearing in this segment, subtitles.

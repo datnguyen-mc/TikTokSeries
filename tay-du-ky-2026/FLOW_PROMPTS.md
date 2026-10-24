@@ -1,8 +1,8 @@
-# Tây Du Ký 2026 — Prompt Google Flow (Veo 3.1)
+# Tây Du Ký 2026 — Prompt Google Flow (Gemini Omni)
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 24s = 3 clip × 8s (bỏ Clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** mỗi tập 30s = 3 clip × 10s (bỏ Clip 3 → 20s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
 
 **Đặt tên file:** video `TDK_T01_C1_v1` (tập 01, clip 1, phiên bản 1) · ảnh tham chiếu `TDK_REF_<TÊN>` (xem mục 4)
 
@@ -127,7 +127,7 @@ Người khổng lồ hiền lành, cao nhất nhóm, vai rộng; da xanh xám, 
 @SaTang = SA TĂNG: very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace; very deep, slow, calm male voice.
 ```
 
-### 1.6 LA SÁT — bà chủ trọ (nhân vật phụ · Tập 2, 4)
+### 1.6 LA SÁT — bà chủ trọ (nhân vật phụ · Tập 2, 4, 8)
 
 Thiết Phiến Công Chúa phiên bản bà chủ nhà trọ, ở ngay sát vách. Cao, mảnh mai, da trắng sứ, mày xếch, kẻ mắt đỏ, môi đỏ; búi tóc cao cài trâm vàng; áo dài lụa đỏ thêu phượng vàng, quần lụa đen, vòng vàng. Cầm quạt Ba Tiêu khổng lồ hình lá chuối xanh thẫm, cán sơn mài đỏ; bung quạt là có gió bão.
 **Giọng:** nữ, sắc, đanh, ra lệnh dứt khoát.
@@ -184,7 +184,7 @@ NGỘ KHÔNG CLONES: five teacup-tall identical copies of NGỘ KHÔNG (golden-b
 
 > Dán nguyên văn vào mục [SETTING]. Đạo cụ riêng của từng tập được ghi thêm ở dòng `Props:` ngay bên dưới khối bối cảnh.
 
-### 2.1 NHÀ TRỌ — PHÒNG KHÁCH (Tập 1, 2, 5)
+### 2.1 NHÀ TRỌ — PHÒNG KHÁCH (Tập 1, 2, 5, 8)
 
 Bố cục nhìn từ cửa vào:
 - sofa vàng mù tạt sát tường trái, máy lạnh treo phía trên, bàn trà gỗ thấp phía trước;
@@ -228,7 +228,7 @@ A wide riverside promenade in Bạch Đằng wharf park, central Saigon, at gold
 
 ```text
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated comedy film, Pixar/Disney-quality stylized CGI, original character designs, soft global illumination, shallow depth of field, 24fps, warm cinematic color grade, snappy comedic timing with expressive cartoon facial animation. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated comedy film, Pixar/Disney-quality stylized CGI, original character designs, soft global illumination, shallow depth of field, 24fps, warm cinematic color grade, snappy comedic timing with expressive cartoon facial animation. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 **Nhạc nền**: câu cố định, luôn có trong [SOUND]
@@ -237,10 +237,11 @@ Vertical 9:16, 8-second shot, high-end 3D animated comedy film, Pixar/Disney-qua
 Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-block percussion over a light modern hip-hop beat.
 ```
 
-**Câu mở đầu clip 2/3** (làm bằng Frames, start frame = khung cuối clip trước): dán ở đầu mọi Clip 2/3
+**Câu mở đầu clip 2/3** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend): dán ở đầu mọi Clip 2/3
 
 ```text
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 ```
 
 ---
@@ -313,12 +314,14 @@ Height comparison lineup of four original 3D animated characters standing side b
 | 4 | Quà 20/10 cho bà chủ trọ | Ba đồ đệ tặng hoa và bánh kem, mong được giảm tiền nhà. Bát Giới ăn vụng một góc bánh. La Sát giảm tiền nhà cho cả bọn, riêng Bát Giới phải đóng gấp đôi. Hợp đăng dịp 20/10. | — |
 | 5 | Ai rửa chén? | Chén dơ chất thành tháp, Ngộ Không không chịu rửa nên thổi lông ra 5 bản sao tí hon. Bản sao nằm dài ăn bánh với Bát Giới: "Tụi em giống huynh mà!" Sư phụ: "nhân nào quả nấy". Ngộ Không đeo găng rửa chén cạnh Sa Tăng. | — |
 | 6 | Nhịp cầu lá dừa | ⚡ Trend cầu lá dừa: cả nhà ra bến Bạch Đằng xem nhịp vòm 3.400 tấn hình lá dừa nước; Ngộ Không đòi nhấc cầu một tay, Sư phụ cản; Bát Giới hẹn "Tết qua cầu ăn bánh tét"; Cân Đẩu Vân chở Bát Giới không nổi; cả nhà selfie hẹn Tết. | — |
+| 7 | Đại chiến bóng đá đêm khuya | ⚡ Trend bóng đá châu Âu: 3 giờ sáng Ngộ Không cổ vũ cuồng nhiệt, Bát Giới trù "HLV bay ghế" rồi rủ cá chầu hủ tiếu, Sa Tăng can; Sư phụ bước ra tưởng sắp mắng, hóa ra rút điện thoại hóng VAR. | — |
+| 8 | Vé nội bộ hóa lá khô | ⚡ Trend "đu concert" Mỹ Đình 24–25/10: La Sát khoe vé "nội bộ" giá năm trăm; hỏa nhãn kim tinh soi ra vé hóa lá khô, vé Bát Giới lén mua cũng vậy ("Oan!"); Sa Tăng: "Tham rẻ... hóa lá khô." Vé bay ra Hà Nội bảy triệu, Ngộ Không gọi Cân Đẩu Vân "một giây tới nơi"; một chớp mắt sau La Sát về, tóc dính hoa sữa: "Hổng thấy idol... toàn mùi hoa sữa!" | — |
 
 ---
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (24s = 3 clip × 8s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 8 giây. Tập mới đánh số tiếp (`tap-7/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (30s = 3 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-7/`, …) và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |
@@ -328,3 +331,5 @@ Mỗi tập (24s = 3 clip × 8s) là một ngày đăng, nằm trong thư mục 
 | 4 | [tap-4/](tap-4/README.md) | Quà 20/10 cho bà chủ trọ |
 | 5 | [tap-5/](tap-5/README.md) | Ai rửa chén? |
 | 6 | [tap-6/](tap-6/README.md) | Nhịp cầu lá dừa |
+| 7 | [tap-7/](tap-7/README.md) | Đại chiến bóng đá đêm khuya |
+| 8 | [tap-8/](tap-8/README.md) | Vé nội bộ hóa lá khô |

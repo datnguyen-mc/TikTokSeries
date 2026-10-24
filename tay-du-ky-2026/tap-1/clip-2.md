@@ -1,4 +1,5 @@
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 
 [CHARACTERS — unchanged]
 @SaTang = SA TĂNG: very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace; very deep, slow, calm male voice.
@@ -7,13 +8,13 @@ Start exactly from the provided first frame (the final frame of the previous cli
 @DuongTang = SƯ PHỤ: young shaved-head human monk, soft round face, calm kind eyes, saffron-orange robe with deep-red kasaya sash, brown wooden prayer beads; gentle, slow, soothing young male voice.
 
 [SHOT LIST]
-00:00–00:03 | From the previous final frame, the camera pushes in to a close-up as NGỘ KHÔNG hops off the table and leans nose-to-snout with BÁT GIỚI, sniffing the crumbs suspiciously, one eyebrow raised, tail flicking; BÁT GIỚI sweats, eyes darting left and right. NGỘ KHÔNG says (fast, sharp, quick-witted, hot-tempered young male voice, triumphant): "Vụn bánh dính đầy mặt kìa!"
-00:03–00:05 | Medium close-up, static — SA TĂNG nods slowly with deep seriousness, holding the empty box lid against his chest. SA TĂNG says (very deep, slow, calm male voice, solemn): "Đại sư huynh nói phải."
-00:05–00:07 | Medium shot, quick push-in — BÁT GIỚI flails his arms in protest, holds up the shrimp-cracker bag and crams one cracker into his mouth with a loud crunch to prove it, crumbs flying. BÁT GIỚI says (chubby, lazy, whiny, comically nasal male voice, outraged): "Oan! Vụn bánh phồng tôm mà!"
-00:07–00:08 | Medium wide shot from the entrance, static — a single soft, slow crunch echoes from the left back corner; all three freeze mid-motion, NGỘ KHÔNG's and BÁT GIỚI's ears twitch, and the three heads turn slowly in unison toward the corner.
+00:00–00:03 | From the previous final frame, the camera pushes in to a close-up as NGỘ KHÔNG hops off the table and leans nose-to-snout with BÁT GIỚI, sniffing the crumbs suspiciously, one eyebrow raised, tail flicking; BÁT GIỚI sweats, eyes darting left and right. NGỘ KHÔNG says (fast, sharp, quick-witted, hot-tempered young male voice, triumphant): Vụn bánh dính đầy mặt kìa!
+00:03–00:05.5 | Medium close-up, static — SA TĂNG nods slowly with deep seriousness, holding the empty box lid against his chest. SA TĂNG says (very deep, slow, calm male voice, solemn): Đại sư huynh nói phải.
+00:05.5–00:08 | Medium shot, quick push-in — BÁT GIỚI flails his arms in protest, holds up the shrimp-cracker bag and crams one cracker into his mouth with a loud crunch to prove it, crumbs flying. BÁT GIỚI says (chubby, lazy, whiny, comically nasal male voice, outraged): Oan! Vụn bánh phồng tôm mà!
+00:08–00:10 | Medium wide shot from the entrance, static — a single soft, slow crunch echoes from the left back corner; all three freeze mid-motion, NGỘ KHÔNG's and BÁT GIỚI's ears twitch, and the three heads turn slowly in unison toward the corner.
 
 [SOUND]
-Same room tone and ceiling fan hum; sniffing, a loud cracker crunch, then sudden silence and one soft crunch from the corner, followed by a low suspenseful gong swell. Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-block percussion over a light modern hip-hop beat. The music cuts out at 00:07 for a comedic pause.
+Same room tone and ceiling fan hum; sniffing, a loud cracker crunch, then sudden silence and one soft crunch from the corner, followed by a low suspenseful gong swell. Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-block percussion over a light modern hip-hop beat. The music cuts out at 00:08 for a comedic pause.
 
 [END FRAME]
 Medium wide shot from the entrance, eye level: NGỘ KHÔNG standing next to the sofa, BÁT GIỚI on the sofa holding the cracker bag, SA TĂNG standing at frame right with the empty box lid — all three frozen, heads turned toward the left back corner, eyes wide; SƯ PHỤ still sits on the meditation cushion in that corner with his back to the room. Warm late-afternoon light. Hold still for the final 0.5 seconds.

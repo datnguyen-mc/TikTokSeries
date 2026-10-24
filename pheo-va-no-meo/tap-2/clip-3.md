@@ -1,4 +1,5 @@
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 
 [CHARACTERS — unchanged]
 @Pheo = PHÈO: chubby upright black cat, glossy jet-black fur, big amber-yellow eyes, notch on LEFT ear, long white whiskers, white chef's toque tilted right, white t-shirt, navy-blue apron, red neckerchief; deep, warm, witty Southern Vietnamese male chef voice.
@@ -13,15 +14,16 @@ DINING CORNER: the dining corner just through the doorway of the same kitchen, b
 
 [SHOT LIST]
 00:00–00:02 | Close-up, continuing from the last frame — Phèo lifts the lid with a big puff of steam; macro of glossy amber-brown braised pork and six caramel-brown eggs bubbling in the clay pot, the sauce shining. Hard cut to the dining corner: the clay pot sits on the table; Hường is already in her carved armchair, and Phèo settles onto his small red plastic stool with his rice bowl, rubbing his paws.
-00:02–00:05 | Medium two-shot — Hường's chopsticks zip like lightning, snatching egg after egg from the pot and popping them into her mouth, her cheeks bulging rounder and rounder; Phèo's chopsticks reach in a split-second too late every time, his smile fading. HƯỜNG says (sweet, sassy auntie voice; blissful, chewing): "Trứng béo quá, ngon quá trời!"
-00:05–00:07 | Close-up — Phèo peers into the pot: only pork chunks and sauce left, not a single egg. Hường, cheeks still round, sweetly slides the clay pot toward him with one paw and pats his shoulder. HƯỜNG says (sweet, sassy auntie voice; generous, innocent): "Thịt với nước kho, để dành cưng!"
-00:07–00:08 | SIGNATURE FREEZE — Phèo freezes completely mid-motion: eyes wide open as saucers with tiny pupils, whiskers stiff and straight, mouth slightly open, body perfectly still like a paused frame; only the tip of his notched LEFT ear twitches once. The camera snap-zooms into a medium close-up of his face and holds. The background music stops abruptly with a soft record-scratch, followed by silence and a single ticking clock. He is frozen with his chopsticks in midair over the clay pot; beside him Hường contentedly pats her round belly.
+00:02–00:05 | Medium two-shot — Hường's chopsticks zip like lightning, snatching egg after egg from the pot and popping them into her mouth, her cheeks bulging rounder and rounder; Phèo's chopsticks reach in a split-second too late every time, his smile fading. HƯỜNG says (sweet, sassy auntie voice; blissful, chewing): Trứng béo quá, ngon quá trời!
+00:05–00:06 | Close-up, static — Phèo peers into the pot: only pork chunks and sauce left, not a single egg.
+00:06–00:08 | Medium two-shot, static — Hường, cheeks still round, sweetly slides the clay pot toward him with one paw and pats his shoulder. HƯỜNG says (sweet, sassy auntie voice; generous, innocent): Thịt với nước kho, để dành cưng!
+00:08–00:10 | SIGNATURE FREEZE — Phèo freezes completely mid-motion: eyes wide open as saucers with tiny pupils, whiskers stiff and straight, mouth slightly open, body perfectly still like a paused frame; only the tip of his notched LEFT ear twitches once. The camera snap-zooms into a medium close-up of his face and holds. The background music stops abruptly with a soft record-scratch, followed by silence and a single ticking clock. He is frozen with his chopsticks in midair over the clay pot; beside him Hường contentedly pats her round belly.
 
 [SOUND]
-Background music: upbeat, playful acoustic guitar and light marimba kitchen tune, low volume under the dialogue. Lid lifting with a steam whoosh, bubbling sauce, rapid comedic chopstick clicks, happy chewing. From 00:07 the music stops abruptly with a soft record-scratch, then silence and a single ticking clock.
+Background music: upbeat, playful acoustic guitar and light marimba kitchen tune, low volume under the dialogue. Lid lifting with a steam whoosh, bubbling sauce, rapid comedic chopstick clicks, happy chewing. From 00:08 the music stops abruptly with a soft record-scratch, then silence and a single ticking clock.
 
 [END FRAME]
 Medium close-up of Phèo frozen on the small red plastic stool on the right, chopsticks frozen in midair above the clay pot that holds only braised pork and sauce, eyes wide as saucers, whiskers stiff, mouth slightly open; Hường on the left in her carved armchair with round, bulging cheeks, smugly patting her belly; warm golden light. Hold still for the final 1 second (thumbnail frame).
 
 [AVOID]
-Extra characters, humans or human hands, outfit changes, any readable text, labels or logos, eggs left in the pot at the end, distorted paws, Phèo moving or blinking during the freeze.
+Extra characters, humans or human hands, outfit changes, any readable text, labels or logos, eggs left in the pot at the end, distorted paws, Phèo moving or blinking during the freeze, subtitles.

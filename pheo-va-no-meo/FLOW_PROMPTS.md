@@ -1,12 +1,12 @@
-# 365 Ngày Phèo Làm Nội Trợ — Prompt Google Flow (Veo 3.1)
+# 365 Ngày Phèo Làm Nội Trợ — Prompt Google Flow (Gemini Omni)
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 24s = 3 clip × 8s (bỏ Clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** mỗi tập 30s = 3 clip × 10s (bỏ Clip 3 → 20s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
 
 > **Lưu ý riêng cho series Phèo**
-> - README đang ghi 40s = 4 clip × 10s. Theo yêu cầu mới (20–30s/tập), mỗi tập gộp còn 3 clip: **Clip 1** giới thiệu món + nguyên liệu · **Clip 2** sơ chế, nấu + 1 mẹo nấu ăn · **Clip 3** trình bày + ăn cùng Hường + twist.
-> - Muốn tập dài hơn như README cũ (40s): làm thêm **Clip 4** (tập 32s) hoặc **Clip 5** (tập 40s) bằng Save frame → Frames, ví dụ tách Clip 2 thành "sơ chế" và "nấu", dùng khối `DINING CORNER — SHORT` nếu clip thêm nằm ở bàn ăn.
+> - Mỗi tập 30s = 3 clip × 10s (yêu cầu 20–30s/tập): **Clip 1** giới thiệu món + nguyên liệu · **Clip 2** sơ chế, nấu + 1 mẹo nấu ăn · **Clip 3** trình bày + ăn cùng Hường + twist.
+> - Muốn tập dài hơn: làm thêm **Clip 4** (tập 40s, như Tập 8) bằng Save frame → Frames, ví dụ tách Clip 2 thành "sơ chế" và "nấu", dùng khối `DINING CORNER — SHORT` nếu clip thêm nằm ở bàn ăn.
 > - Twist và cú "đứng hình" nằm ở Clip 3, nên với series này **nên giữ đủ 3 clip**.
 
 ---
@@ -19,7 +19,7 @@
 - **FULL LOCK**: dán vào mọi Clip 1, và vào Clip 2/3 khi nhân vật **mới bước vào** (không có mặt ở clip ngay trước). Trong prompt, khối này nằm dưới nhãn `[CHARACTER ENTERING THIS SEGMENT]`.
 - **SHORT LOCK**: dán vào Clip 2/3 cho nhân vật **đã có mặt ở khung cuối clip trước**.
 - Dán nguyên văn, không sửa chữ nào. Series này **không đổi trang phục** ở bất kỳ tập nào.
-- Clip 2/3 làm bằng Save frame → Frames: nếu Flow cho đính thêm ảnh ở chế độ này, đính ảnh tham chiếu ở Clip 2/3. Mỗi clip tối đa 3 ảnh (nhân vật + sản phẩm).
+- Clip 2/3 làm bằng Save frame → Frames (hoặc Extend, xem FLOW_GUIDE mục 1): nếu Flow cho đính thêm ảnh ở chế độ này, đính ảnh tham chiếu ở Clip 2/3. Gemini Omni nhận nhiều ảnh tham chiếu hơn giới hạn 3 ảnh của Veo; nếu Flow vẫn giới hạn, ưu tiên nhân vật rồi tới sản phẩm.
 
 ### Phèo
 
@@ -101,7 +101,7 @@ DINING CORNER: same round dark-wood table with white lace runner by the curtaine
 
 ```text
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Bright, warm, appetizing food-film look: macro food close-ups, rising steam, sizzling oil, glossy sauces, crisp golden textures. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Bright, warm, appetizing food-film look: macro food close-ups, rising steam, sizzling oil, glossy sauces, crisp golden textures. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 **Nhạc nền**: câu mở đầu mục `[SOUND]` của mọi clip.
@@ -110,10 +110,11 @@ Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality st
 Background music: upbeat, playful acoustic guitar and light marimba kitchen tune, low volume under the dialogue.
 ```
 
-**Câu mở đầu clip 2/3** (làm bằng Frames, start frame = khung cuối clip trước): dòng đầu tiên của mọi Clip 2/3.
+**Câu mở đầu clip 2/3** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend): hai dòng đầu tiên của mọi Clip 2/3.
 
 ```text
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 ```
 
 **Câu cửa miệng**: mọi tập mở bằng *"Ngày [số tập], Phèo vô bếp!"* (tập 6 là "Ngày sáu, Phèo vô bếp!", cứ thế đếm tới 365).
@@ -188,12 +189,13 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 | 5 | Trứng chiên thịt bằm · Sinh nhật Phèo | Hường gọi món ruột của Phèo; hóa ra hôm nay là sinh nhật Phèo (tập cảm động) | Chảo chống dính |
 | 6 | Sườn ram mặn ngọt · Hường livestream | Hường dặn nấu đẹp vì trưa lên live; Phèo tưởng sắp nổi tiếng, nhưng Hường khoe "chị nấu đó" rồi chốt đơn luôn cái chảo | Chảo chống dính |
 | 7 | Chân gà sả tắc · Tai kích hoạt | ⚡ Trend "tai kích hoạt": Hường mải lướt điện thoại; Phèo nói "giòn sần sật" là tai bà chủ dựng đứng, nhắc "tăng lương" thì tai cụp, "chị nghe hông rõ", nhắc "chân gà còn nữa" thì tai bật dựng lại | Nước mắm |
+| 8 | Cá kèo kho rau răm · Cá kèo hông? | Phèo ra kèo "ai khen ngon trước thì bao trà sữa"; Hường né chữ "ngon" ba lần (ngộ ghê, ngất ngây con gà tây, hết sẩy), Phèo tự hô "NGON!" rồi bị chốt "Mèo khen mèo dài đuôi! Bao trà sữa!" (tập 40s = 4 clip × 10s) | Nước mắm |
 
 ---
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (24s = 3 clip × 8s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 8 giây. Tập mới đánh số tiếp (`tap-8/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (30s = 3 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-8/`, …) và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |
@@ -204,3 +206,4 @@ Mỗi tập (24s = 3 clip × 8s) là một ngày đăng, nằm trong thư mục 
 | 5 | [tap-5/](tap-5/README.md) | Trứng chiên thịt bằm · Sinh nhật Phèo |
 | 6 | [tap-6/](tap-6/README.md) | Sườn ram mặn ngọt · Hường livestream |
 | 7 | [tap-7/](tap-7/README.md) | Chân gà sả tắc · Tai kích hoạt |
+| 8 | [tap-8/](tap-8/README.md) | Cá kèo kho rau răm · Cá kèo hông? |

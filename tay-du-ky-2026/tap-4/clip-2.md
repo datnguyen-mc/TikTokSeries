@@ -1,4 +1,5 @@
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 
 [CHARACTERS — unchanged]
 @NgoKhong = NGỘ KHÔNG: small golden-brown monkey, heart-shaped pinkish-red face, amber eyes, thin golden circlet headband, red bomber jacket over plain yellow t-shirt, tiger-stripe cargo shorts, pen-sized staff behind right ear; fast, sharp, quick-witted, hot-tempered young male voice.
@@ -7,9 +8,10 @@ Start exactly from the provided first frame (the final frame of the previous cli
 LA SÁT: elegant fierce landlady, high black bun with gold hairpins, bold red lips, fitted red silk áo dài with gold phoenix embroidery, giant deep-green banana-leaf fan with red handle; sharp, commanding, crisp female voice.
 
 [SHOT LIST]
-00:00–00:04 | From the previous final frame, slow push-in — NGỘ KHÔNG and SA TĂNG bow deeply in unison, and NGỘ KHÔNG presents the roses with both hands. NGỘ KHÔNG says (fast, sharp, quick-witted, hot-tempered young male voice, sweet and flattering): "Chúc chị hai mươi tháng mười thật đẹp!" SA TĂNG adds (very deep, slow, calm male voice, sincere): "Thật... đẹp."
-00:04–00:07 | Close-up on LA SÁT, static — her fierce expression melts: eyebrows lift, eyes glisten with tears, she presses her left hand to her chest, then cradles the roses in her left arm, the closed fan still in her right hand. LA SÁT says (sharp, commanding, crisp female voice, softened and touched): "Mấy đứa... nhớ tới chị hả?"
-00:07–00:08 | Medium shot — BÁT GIỚI shoulders his way forward and proudly holds out the closed cake box with both hands, chest puffed, cheeks still bulging, a dab of cream on his snout. BÁT GIỚI mumbles with a full mouth (chubby, lazy, whiny, comically nasal male voice, proud): "Bánh... lão Trư chọn!"
+00:00–00:03.5 | From the previous final frame, slow push-in — NGỘ KHÔNG and SA TĂNG bow deeply in unison, and NGỘ KHÔNG presents the roses with both hands. NGỘ KHÔNG says (fast, sharp, quick-witted, hot-tempered young male voice, sweet and flattering): Chúc chị hai mươi tháng mười thật đẹp!
+00:03.5–00:05 | Same shot, static — SA TĂNG, still bowing, nods slowly. SA TĂNG adds (very deep, slow, calm male voice, sincere): Thật... đẹp.
+00:05–00:08 | Close-up on LA SÁT, static — her fierce expression melts: eyebrows lift, eyes glisten with tears, she presses her left hand to her chest, then cradles the roses in her left arm, the closed fan still in her right hand. LA SÁT says (sharp, commanding, crisp female voice, softened and touched): Mấy đứa... nhớ tới chị hả?
+00:08–00:10 | Medium shot — BÁT GIỚI shoulders his way forward and proudly holds out the closed cake box with both hands, chest puffed, cheeks still bulging, a dab of cream on his snout. BÁT GIỚI mumbles with a full mouth (chubby, lazy, whiny, comically nasal male voice, proud): Bánh... lão Trư chọn!
 
 [SOUND]
 Rustling kraft paper, a soft romantic đàn tranh melody and gentle strings while LA SÁT is touched, muffled chewing from BÁT GIỚI. Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-block percussion over a light modern hip-hop beat. Warm and sweet, with the hip-hop beat kept very light.

@@ -1,5 +1,5 @@
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Style unchanged: high-end 3D animated film, vertical 9:16, Vietnamese dialogue with a natural Southern accent and accurate lip-sync, no subtitles or on-screen text.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 
 [CHARACTERS — unchanged]
 @Mit = Mit: golden-tan native dog, cream muzzle, LEFT ear tip folded; faded earth-brown áo bà ba, black trousers rolled to the knees, checkered khăn rằn at the neck, barefoot, nón lá when outdoors; warm, slightly raspy Southern male voice.
@@ -12,15 +12,15 @@ Time: rainy late afternoon; the kerosene lamp is lit; rain drips through a hole 
 
 [SHOT LIST]
 00:00–00:01 | Wide shot, continuing — the three keep walking through the rain along the muddy road. Hard cut at 00:01.
-00:01–00:04 | Medium shot inside the bamboo hut — soaked, Mit sits slumped on the edge of the bamboo bed, head in his paws, his wet nón lá on the floor; rain plinks into the clay bowl. Mit says (warm, slightly raspy voice, broken, whispering): "Tại anh hết… anh xin lỗi."
-00:04–00:07 | Medium two-shot, slow push-in — Đú kneels in front of him and takes both his paws in hers, smiling through tears. Đú says (soft, warm voice, steady and loving): "Còn nhau là còn tất cả, mình ơi."
-00:07–00:08 | Medium close shot — Nở climbs onto the bed and hugs Mit from the side, burying her face in his arm; Mit looks up with tears streaming and pulls Đú and Nở into a tight hug.
+00:01–00:04.5 | Medium shot inside the bamboo hut — soaked, Mit sits slumped on the edge of the bamboo bed, head in his paws, his wet nón lá on the floor; rain plinks into the clay bowl. Mit says (warm, slightly raspy voice, broken, whispering): Tại anh hết… anh xin lỗi.
+00:04.5–00:07.5 | Medium two-shot, slow push-in — Đú kneels in front of him and takes both his paws in hers, smiling through tears. Đú says (soft, warm voice, steady and loving): Còn nhau là còn tất cả, mình ơi.
+00:07.5–00:10 | Medium close shot — Nở climbs onto the bed and hugs Mit from the side, burying her face in his arm; Mit looks up with tears streaming and pulls Đú and Nở into a tight hug.
 
 [SOUND]
 Rain on the thatch roof, drip-plink into the clay bowl, soft sniffles, a warm piano and đàn bầu melody rising gently.
 
 [END FRAME]
-Medium close shot of a tight three-way hug on the bamboo bed in warm kerosene lamplight: Mit in the center with eyes closed and tears on his cheeks, Đú on the left with her forehead against his, Nở on the right hugging his arm; rain streaking past the open doorway behind them. Hold still for the final 0.5 seconds as a thumbnail frame.
+Medium close shot of a tight three-way hug on the bamboo bed in warm kerosene lamplight: Mit in the center with eyes closed and tears on his cheeks, Đú on the left with her forehead against his, Nở on the right hugging his arm; rain streaking past the open doorway behind them. Hold still for the final 1 second as a thumbnail frame.
 
 [AVOID]
-Any text, humans, extra characters, outfit changes, distorted paws, electric lights.
+Any text, humans, extra characters, outfit changes, distorted paws, electric lights, subtitles.

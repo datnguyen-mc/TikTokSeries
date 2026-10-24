@@ -1,8 +1,8 @@
 # 365 Ngày Phèo Làm Nội Trợ — Tập 6: Sườn ram mặn ngọt · Hường livestream
 
-**Ngày 6** · Tập 24s = 3 clip × 8s (bỏ clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Ngày 6** · Tập 30s = 3 clip × 10s (bỏ clip 3 → 20s) · 9:16 · thoại tiếng Việt · không chữ trên video
 
-> **Cách dựng:** Clip 1: **Video → Veo 3.1 → Ingredients**, đính ảnh tham chiếu (tối đa 3 ảnh), dán prompt → Clip 2 và 3: **Save frame** khung cuối clip trước → **Frames**, đặt ảnh đó làm **Start frame**, dán prompt → ghép 3 clip trong Scenebuilder. Chi tiết: FLOW_GUIDE mục 1.
+> **Cách dựng:** Clip 1: **Video → Gemini Omni → Ingredients**, độ dài 10s, đính ảnh tham chiếu, dán prompt → Clip 2 và 3: **Save frame** khung cuối clip trước → **Frames**, đặt ảnh đó làm **Start frame**, độ dài 10s, dán prompt → ghép 3 clip trong Scenebuilder. Nếu Flow đã có **Extend** cho Omni: bấm Extend trên clip trước rồi dán prompt clip sau, khỏi ghép. Chi tiết: FLOW_GUIDE mục 1.
 > **Copy prompt:** mỗi file `clip-{số}.md` chỉ chứa đúng prompt: mở file, bấm Cmd+A rồi Cmd+C, dán thẳng vào ô prompt của Flow, không sửa gì.
 > **Khóa nhân vật, bối cảnh, ảnh tham chiếu:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Quy trình, xử lý lỗi:** [FLOW_GUIDE.md](../../FLOW_GUIDE.md)
 
@@ -36,9 +36,9 @@
 
 | Clip | Thời gian | Cách tạo | File prompt |
 | --- | --- | --- | --- |
-| 1 | 00:00–00:08 | Ingredients: đính ảnh tham chiếu | [clip-1.md](clip-1.md) |
-| 2 | 00:08–00:16 | Frames: start frame = khung cuối clip 1 | [clip-2.md](clip-2.md) |
-| 3 | 00:16–00:24 | Frames: start frame = khung cuối clip 2 | [clip-3.md](clip-3.md) |
+| 1 | 00:00–00:10 | Ingredients: đính ảnh tham chiếu | [clip-1.md](clip-1.md) |
+| 2 | 00:10–00:20 | Frames: start frame = khung cuối clip 1 | [clip-2.md](clip-2.md) |
+| 3 | 00:20–00:30 | Frames: start frame = khung cuối clip 2 | [clip-3.md](clip-3.md) |
 
 **Ghi chú Tập 6:**
 - "Lên live", "chốt đơn" là cách nói quen của người bán hàng online. Nếu model đọc chữ "live" chưa chuẩn, lồng tiếng lại riêng câu đó.

@@ -1,8 +1,8 @@
 # Tây Du Ký 2026 — Tập 4: Quà 20/10 cho bà chủ trọ
 
-**Ngày 4** · Tập 24s = 3 clip × 8s (bỏ clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Ngày 4** · Tập 30s = 3 clip × 10s (bỏ clip 3 → 20s) · 9:16 · thoại tiếng Việt · không chữ trên video
 
-> **Cách dựng:** Clip 1: **Video → Veo 3.1 → Ingredients**, đính ảnh tham chiếu (tối đa 3 ảnh), dán prompt → Clip 2 và 3: **Save frame** khung cuối clip trước → **Frames**, đặt ảnh đó làm **Start frame**, dán prompt → ghép 3 clip trong Scenebuilder. Chi tiết: FLOW_GUIDE mục 1.
+> **Cách dựng:** Clip 1: **Video → Gemini Omni → Ingredients**, độ dài 10s, đính ảnh tham chiếu, dán prompt → Clip 2 và 3: **Save frame** khung cuối clip trước → **Frames**, đặt ảnh đó làm **Start frame**, độ dài 10s, dán prompt → ghép 3 clip trong Scenebuilder. Nếu Flow đã có **Extend** cho Omni: bấm Extend trên clip trước rồi dán prompt clip sau, khỏi ghép. Chi tiết: FLOW_GUIDE mục 1.
 > **Copy prompt:** mỗi file `clip-{số}.md` chỉ chứa đúng prompt: mở file, bấm Cmd+A rồi Cmd+C, dán thẳng vào ô prompt của Flow, không sửa gì.
 > **Khóa nhân vật, bối cảnh, ảnh tham chiếu:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Quy trình, xử lý lỗi:** [FLOW_GUIDE.md](../../FLOW_GUIDE.md)
 
@@ -24,22 +24,24 @@
 
 | Thời gian | Hình ảnh | Thoại |
 | --- | --- | --- |
-| 00:00–00:02 | Cận bánh kem qua nắp hộp trong suốt; mõm Bát Giới thò vào hít hà, nhỏ dãi | — |
-| 00:02–00:05 | Ba đồ đệ đứng trước cửa đỏ nhà La Sát: Ngộ Không cầm bó hồng, Sa Tăng chắp tay, Bát Giới ôm hộp bánh | Ngộ Không (thì thầm): "Tặng quà là được giảm tiền nhà!" |
-| 00:05–00:07 | Ngộ Không gõ cửa; phía sau, Bát Giới lén mở nắp cắn một miếng to ở góc bánh | — |
-| 00:07–00:08 | Cửa mở, La Sát nhướng mày | La Sát: "Gõ gì mà gõ?" |
-| 00:08–00:12 | Ngộ Không và Sa Tăng cúi chào, Ngộ Không dâng hoa | Ngộ Không: "Chúc chị hai mươi tháng mười thật đẹp!" · Sa Tăng: "Thật... đẹp." |
-| 00:12–00:15 | La Sát dịu hẳn, mắt rưng rưng, tay đặt lên ngực, ôm bó hoa | La Sát: "Mấy đứa... nhớ tới chị hả?" |
-| 00:15–00:16 | Bát Giới ưỡn ngực dâng hộp bánh, má còn phồng, mõm dính kem | Bát Giới: "Bánh... lão Trư chọn!" |
-| 00:16–00:18 | La Sát lấy đầu quạt hất nắp hộp: bánh mất một góc, in rõ dấu răng | *(tiếng rít đĩa than)* |
-| 00:18–00:19 | Ánh mắt La Sát chuyển từ cái bánh sang cái mõm dính kem; Bát Giới nuốt khan | — |
-| 00:19–00:23 | La Sát cười ngọt, Ngộ Không và Sa Tăng đập tay mừng; rồi bà quay phắt sang Bát Giới | La Sát: "Cảm động quá... giảm tiền nhà!" · "Riêng heo ăn vụng, gấp đôi!" |
-| 00:23–00:24 | Sa Tăng đỡ lấy hộp bánh; La Sát phẩy quạt, Bát Giới xoay tít như con quay (khung thumbnail) | — |
+| 00:00–00:02.5 | Cận bánh kem qua nắp hộp trong suốt; mõm Bát Giới thò vào hít hà, nhỏ dãi | — |
+| 00:02.5–00:05.5 | Ba đồ đệ đứng trước cửa đỏ nhà La Sát: Ngộ Không cầm bó hồng, Sa Tăng chắp tay, Bát Giới ôm hộp bánh | Ngộ Không (thì thầm): "Tặng quà là được giảm tiền nhà!" |
+| 00:05.5–00:08 | Ngộ Không gõ cửa; phía sau, Bát Giới lén mở nắp cắn một miếng to ở góc bánh | — |
+| 00:08–00:10 | Cửa mở, La Sát nhướng mày | La Sát: "Gõ gì mà gõ?" |
+| 00:10–00:13.5 | Ngộ Không và Sa Tăng cúi chào, Ngộ Không dâng hoa | Ngộ Không: "Chúc chị hai mươi tháng mười thật đẹp!" |
+| 00:13.5–00:15 | Sa Tăng vẫn cúi chào, gật đầu chậm rãi | Sa Tăng: "Thật... đẹp." |
+| 00:15–00:18 | La Sát dịu hẳn, mắt rưng rưng, tay đặt lên ngực, ôm bó hoa | La Sát: "Mấy đứa... nhớ tới chị hả?" |
+| 00:18–00:20 | Bát Giới ưỡn ngực dâng hộp bánh, má còn phồng, mõm dính kem | Bát Giới: "Bánh... lão Trư chọn!" |
+| 00:20–00:22.5 | La Sát lấy đầu quạt hất nắp hộp: bánh mất một góc, in rõ dấu răng | *(tiếng rít đĩa than)* |
+| 00:22.5–00:24 | Ánh mắt La Sát chuyển từ cái bánh sang cái mõm dính kem; Bát Giới nuốt khan | — |
+| 00:24–00:26 | La Sát cười ngọt | La Sát: "Cảm động quá... giảm tiền nhà!" |
+| 00:26–00:28 | Ngộ Không và Sa Tăng đập tay mừng; rồi bà quay phắt sang Bát Giới | La Sát: "Riêng heo ăn vụng, gấp đôi!" |
+| 00:28–00:30 | Sa Tăng đỡ lấy hộp bánh; La Sát phẩy quạt, Bát Giới xoay tít như con quay (khung thumbnail) | — |
 
 ## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
 
 | Clip | Thời gian | Cách tạo | File prompt |
 | --- | --- | --- | --- |
-| 1 | 00:00–00:08 | Ingredients: đính ảnh tham chiếu | [clip-1.md](clip-1.md) |
-| 2 | 00:08–00:16 | Frames: start frame = khung cuối clip 1 | [clip-2.md](clip-2.md) |
-| 3 | 00:16–00:24 | Frames: start frame = khung cuối clip 2 | [clip-3.md](clip-3.md) |
+| 1 | 00:00–00:10 | Ingredients: đính ảnh tham chiếu | [clip-1.md](clip-1.md) |
+| 2 | 00:10–00:20 | Frames: start frame = khung cuối clip 1 | [clip-2.md](clip-2.md) |
+| 3 | 00:20–00:30 | Frames: start frame = khung cuối clip 2 | [clip-3.md](clip-3.md) |

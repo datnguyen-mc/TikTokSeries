@@ -1,8 +1,8 @@
-# Mit & Đú 1970 — Prompt Google Flow (Veo 3.1)
+# Mit & Đú 1970 — Prompt Google Flow (Gemini Omni)
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 24s = 3 clip × 8s (bỏ Clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** mỗi tập 30s = 3 clip × 10s (bỏ Clip 3 → 20s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
 
 **Thế giới:** Miền Tây (Bến Tre – Cái Mơn) năm 1970. Cả nhà Mit là **chó nhân hóa 3D**, đi hai chân, bàn tay 4 ngón, không có con người. Tông màu hoài cổ (vàng mật ong, xanh lúa, nâu đất), hạt film nhẹ, giọng miền Tây.
 
@@ -11,7 +11,7 @@
 - **FULL LOCK** dùng ở Clip 1, và cho nhân vật **xuất hiện lần đầu** ở Clip 2/3 (dòng `Entering in this segment:`).
 - **SHORT LOCK** dùng ở Clip 2/3 cho nhân vật đã có mặt từ clip trước.
 - Các khóa đã được chèn sẵn vào từng prompt, giống nhau từng chữ. Muốn đổi thiết kế nhân vật thì sửa ở mục 1, rồi dùng Find & Replace để sửa đồng loạt mọi chỗ.
-- Clip 2/3 làm bằng **Save frame → Frames** để mỗi clip đủ 8 giây và cùng model (Extend của Veo chạy bằng bản Lite, xem FLOW_GUIDE mục 1). Nếu Flow cho đính thêm ảnh ở chế độ Frames, đính lại ảnh tham chiếu, kể cả ảnh của nhân vật mới vào ở clip đó.
+- Clip 2/3 làm bằng **Save frame → Frames** (start frame = khung cuối clip trước), hoặc bằng **Extend** nếu Flow đã có Extend cho Gemini Omni (xem FLOW_GUIDE mục 1). Nếu Flow cho đính thêm ảnh ở chế độ Frames, đính lại ảnh tham chiếu, kể cả ảnh của nhân vật mới vào ở clip đó.
 
 ---
 
@@ -24,7 +24,7 @@
 Chó cỏ Việt Nam lông vàng rơm, mõm và ngực màu kem, dáng gầy rắn rỏi, cao nhất nhà. **Dấu hiệu nhận dạng:** chóp **tai TRÁI gập xuống**.
 Giọng miền Tây ấm, hơi khàn, lém lỉnh. Từng ham vui, sau biết sửa đổi.
 
-**Trang phục A — nghèo / làm thuê** (Tập 1, 2, 5, 6, 7, 8): áo bà ba nâu đất bạc màu, quần đen xắn gối, khăn rằn quấn cổ, chân đất, ra ngoài thì đội nón lá.
+**Trang phục A — nghèo / làm thuê** (Tập 1, 2, 5, 6, 7, 8, 9, 10, 11, 12): áo bà ba nâu đất bạc màu, quần đen xắn gối, khăn rằn quấn cổ, chân đất, ra ngoài thì đội nón lá.
 
 FULL LOCK
 ```text
@@ -51,7 +51,7 @@ SHORT LOCK
 Chó cỏ lông trắng kem, tai màu vàng nhạt cụp nhẹ về phía trước, mặt tròn hiền, mắt nâu hình hạnh nhân, tóc búi thấp cài **trâm gỗ**. Khi giàu cô vẫn giữ cây trâm gỗ, chi tiết cho thấy cô giản dị.
 Thấp hơn Mit một cái đầu. Giọng miền Tây nhỏ nhẹ, ấm áp.
 
-**Trang phục A** (Tập 1, 2, 5, 6, 7, 8): áo bà ba tím hoa cà bạc màu, quần lãnh đen, khăn rằn vắt vai, chân đất.
+**Trang phục A** (Tập 1, 2, 5, 6, 7, 8, 9, 10, 11, 12): áo bà ba tím hoa cà bạc màu, quần lãnh đen, khăn rằn vắt vai, chân đất.
 
 FULL LOCK
 ```text
@@ -78,7 +78,7 @@ SHORT LOCK
 Cún con lông kem có mảng vàng rơm, **mảng vàng quanh mắt phải**, má phúng phính, mắt nâu tròn to, hai bím tóc ngắn buộc len đỏ. Cao ngang thắt lưng Mit.
 Giọng bé gái trong trẻo, lanh lảnh.
 
-**Trang phục A** (Tập 1, 2, 5, 6, 8): áo bà ba hồng phấn, quần đùi đen, chân đất.
+**Trang phục A** (Tập 1, 2, 5, 6, 8, 9, 10, 11, 12): áo bà ba hồng phấn, quần đùi đen, chân đất.
 
 FULL LOCK
 ```text
@@ -156,12 +156,12 @@ BÀ BÁN VÉ SỐ (the elderly lottery-ticket seller): gentle elderly anthropomo
 
 Dán nguyên văn vào mục `[SETTING]`. Dòng `Time: ...` (giờ, ánh sáng, đạo cụ riêng của cảnh) đã được viết sẵn ngay dưới trong từng prompt.
 
-**Nhà tre — trong nhà** (Tập 1, 5, 7, 9, 10)
+**Nhà tre — trong nhà** (Tập 1, 5, 7, 9, 10, 11)
 ```text
 INSIDE THE BAMBOO HUT: a small one-room hut in the 1970 Mekong Delta with woven bamboo walls whose thin gaps let in stripes of light, a nipa-palm thatch roof on bamboo rafters, a packed dirt floor, a low bamboo bed with a woven straw mat, a small low wooden table beside the bed, a kerosene lamp with a glass chimney, a large brown clay water jar by the door, a wood-fire clay stove of three clay stones with a blackened pot in the corner; poor but neat and tidy.
 ```
 
-**Nhà tre — sân trước** (Tập 2, 6)
+**Nhà tre — sân trước** (Tập 2, 6, 12)
 ```text
 FRONT YARD OF THE BAMBOO HUT: a swept dirt yard in front of the small bamboo hut with its nipa-palm thatch roof and bamboo door, a large brown clay water jar beside the door, a narrow brown canal along the yard with a small wooden xuồng ba lá boat tied to a post, tall coconut palms and nipa palms leaning over the water.
 ```
@@ -198,16 +198,16 @@ THE WILDFLOWER CANAL BANK: a grassy canal bank near the family's bamboo hut, pur
 Khối `[FORMAT]`, đặt ở đầu mọi prompt Clip 1:
 ```text
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
-Câu mở đầu mọi prompt Clip 2/3 (làm bằng Frames, start frame = khung cuối clip trước):
+Câu mở đầu mọi prompt Clip 2/3 (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend):
 ```text
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Style unchanged: high-end 3D animated film, vertical 9:16, Vietnamese dialogue with a natural Southern accent and accurate lip-sync, no subtitles or on-screen text.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 ```
 
-> Câu mở đầu đã viết sẵn cho cách Save frame → Frames: dán nguyên văn, không cần sửa (xem FLOW_GUIDE mục 1).
+> Câu mở đầu dùng được cho cả Save frame → Frames lẫn Extend: dán nguyên văn, không cần sửa (xem FLOW_GUIDE mục 1).
 
 ---
 
@@ -223,11 +223,11 @@ Làm **một lần duy nhất trước khi dựng tập 1**, dùng cho cả seri
 
 | Tên ảnh | Nhân vật | Dùng ở tập |
 | ------- | -------- | ---------- |
-| `REF_MIT_A` | Mit — trang phục A | 1, 2, 5, 6, 7, 8, 9, 10 |
+| `REF_MIT_A` | Mit — trang phục A | 1, 2, 5, 6, 7, 8, 9, 10, 11, 12 |
 | `REF_MIT_B` | Mit — trang phục B | 3, 4, 10 (cảnh mơ, không bắt buộc) |
-| `REF_DU_A` | Đú — trang phục A | 1, 2, 5, 6, 7, 8, 9, 10 |
+| `REF_DU_A` | Đú — trang phục A | 1, 2, 5, 6, 7, 8, 9, 10, 11, 12 |
 | `REF_DU_B` | Đú — trang phục B | 3, 4 |
-| `REF_NO_A` | Nở — trang phục A | 1, 2, 5, 6, 8, 9, 10 |
+| `REF_NO_A` | Nở — trang phục A | 1, 2, 5, 6, 8, 9, 10, 11, 12 |
 | `REF_NO_B` | Nở — trang phục B | 3, 4 |
 | `REF_NO_C` | Nở — đồng phục | 7 |
 | `REF_LINEUP` | Cả nhà, để so tỉ lệ chiều cao | Dùng để kiểm tra, không bắt buộc đính kèm |
@@ -238,7 +238,7 @@ Làm **một lần duy nhất trước khi dựng tập 1**, dùng cho cả seri
 | `REF_CO_GIAO` | Cô giáo Hai | 7 |
 | `REF_BA_VE_SO` | Bà bán vé số | 10 |
 
-**Ảnh sản phẩm** (Tập 7, 9, 10): chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm. Lưu thành `SP_CAP` (cặp), `SP_TAP` (tập vở), `SP_BUT` (bút), `SP_BUTMAU` (hộp bút màu) và đính kèm ở Clip 1 của tập có sản phẩm. Nên chọn mẫu màu trơn, ít họa tiết để hợp bối cảnh 1970.
+**Ảnh sản phẩm** (Tập 7, 9, 10, 11, 12): chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm. Lưu thành `SP_CAP` (cặp), `SP_TAP` (tập vở), `SP_BUT` (bút), `SP_BUTMAU` (hộp bút màu), `SP_CAP_SACH` (cặp mới ở Tập 11), `SP_SACHTRUYEN` (sách truyện tranh) và đính kèm ở Clip 1 của tập có sản phẩm. Nên chọn mẫu màu trơn, ít họa tiết để hợp bối cảnh 1970. Với sách truyện, che hoặc xóa tựa và mọi chữ trên bìa trước khi tải ảnh lên, để bìa chỉ còn tranh.
 
 **REF_MIT_A**
 ```text
@@ -326,6 +326,8 @@ Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality
 | 8 | Bó hoa dại 20/10 | Mit và Nở hái hoa dại tặng Đú; Đú bật khóc hạnh phúc; cả nhà dưới hoàng hôn | — |
 | 9 | Nở dạy ba học chữ | Nở làm cô giáo nhỏ dạy ba cầm bút; chữ ba "như gà bới"; chữ đầu tiên Mit viết là tên Đú; Đú rưng rưng "Chữ đẹp nhất đời em đó" | **Tập vở, bút** |
 | 10 | Vé số độc đắc | ⚡ Trend jackpot: đi làm về, Mit bị rao "trúng độc đắc giàu to", mơ lại thành phú hộ rồi tỉnh: "Giàu nhờ hên xui… mất một lần rồi"; mua hộp bút màu cho Nở; bà cụ: "Thương con vậy là trúng độc đắc rồi!"; Mit: "Độc đắc của ba là đây nè" | **Hộp bút màu** |
+| 11 | Chiếc cặp mới của Nở | Sáng sớm Nở gói tập và hộp bút màu vào tấm khăn vải cũ; Mit tặng chiếc cặp mới; cả nhà nắm tay dắt Nở tới trường dọc bờ kênh: "Chữ của con là tương lai của cả nhà mình." | **Cặp sách** |
+| 12 | Chuyện cổ tích của ba | 🌕 Đêm rằm tháng Chín: Nở ôm gối chờ ba kể chuyện như ở Tập 4; Mit đánh vần cuốn sách cô Hai thưởng chậm rì, rồi kể "chuyện anh khờ cày trúng hũ vàng" (chính đời mình); Nở: "Anh khờ đó… giống ba ghê!"; Mit: "Ờ… mà ảnh còn vợ, còn con"; Nở thiếp đi: "Vậy là còn tất cả…" | **Sách truyện tranh** |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -333,7 +335,7 @@ Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (24s = 3 clip × 8s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 8 giây. Tập mới đánh số tiếp (`tap-11/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (30s = 3 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-13/`, …) và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |
@@ -347,3 +349,5 @@ Mỗi tập (24s = 3 clip × 8s) là một ngày đăng, nằm trong thư mục 
 | 8 | [tap-8/](tap-8/README.md) | Bó hoa dại 20/10 |
 | 9 | [tap-9/](tap-9/README.md) | Nở dạy ba học chữ |
 | 10 | [tap-10/](tap-10/README.md) | Vé số độc đắc |
+| 11 | [tap-11/](tap-11/README.md) | Chiếc cặp mới của Nở |
+| 12 | [tap-12/](tap-12/README.md) | Chuyện cổ tích của ba |

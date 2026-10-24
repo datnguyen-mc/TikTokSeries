@@ -1,8 +1,8 @@
-# Nhà Tèo & Sún — Prompt Google Flow (Veo 3.1)
+# Nhà Tèo & Sún — Prompt Google Flow (Gemini Omni)
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 24s = 3 clip × 8s (bỏ Clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** mỗi tập 30s = 3 clip × 10s (bỏ Clip 3 → 20s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
 
 **Khán giả:** phụ nữ 18–50 · **Tỉ lệ nội dung:** 70% chuyện gia đình · 20% hài hước & cảm xúc · 10% sản phẩm
 **Slogan:** ❤️ "Nhà Tèo & Sún – Chuyện nhỏ mỗi ngày, yêu thương đong đầy!" (chỉ nói bằng thoại, không hiện chữ)
@@ -111,12 +111,13 @@ BATHROOM: bright, cozy modern Vietnamese apartment bathroom, white subway-tile w
 Khối `[FORMAT]`, đặt đầu mọi prompt **Clip 1**:
 ```text
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality stylized CGI, cozy warm family-sitcom look, soft global illumination, shallow depth of field, 24fps, cinematic warm color grade, compositions framed for vertical video with the key action centered. All characters are anthropomorphic Chihuahuas who walk upright on two legs, with expressive faces and paw-hands with four fingers. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, cozy warm family-sitcom look, soft global illumination, shallow depth of field, 24fps, cinematic warm color grade, compositions framed for vertical video with the key action centered. All characters are anthropomorphic Chihuahuas who walk upright on two legs, with expressive faces and paw-hands with four fingers. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
-Câu mở đầu, đặt đầu mọi prompt **Clip 2 và 3** (làm bằng Frames, start frame = khung cuối clip trước):
+Câu mở đầu, đặt đầu mọi prompt **Clip 2 và 3** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend):
 ```text
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity at the start: no time skip, no jump cut. Dialogue stays in Vietnamese with a natural Southern accent and accurate lip-sync; no subtitles, no on-screen text.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 ```
 
 ---
@@ -179,7 +180,7 @@ Character reference sheet, high-end 3D animated film style, Pixar/Disney-quality
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (24s = 3 clip × 8s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 8 giây. Tập mới đánh số tiếp (`tap-7/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (30s = 3 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-7/`, …) và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |

@@ -8,7 +8,7 @@
 
 > **Cách dựng:** Clip 1: **Video → Gemini Omni → Ingredients**, độ dài 10s, đính ảnh tham chiếu, dán prompt → Clip 2 và 3: **Save frame** khung cuối clip trước → **Frames**, đặt ảnh đó làm **Start frame**, độ dài 10s, dán prompt → ghép 3 clip trong Scenebuilder. Nếu Flow đã có **Extend** cho Omni: bấm Extend trên clip trước rồi dán prompt clip sau, khỏi ghép. Chi tiết: FLOW_GUIDE mục 1.
 
-← Hôm trước: [Tập 6](../tap-6/README.md)
+← Hôm trước: [Tập 6 — Nhịp cầu lá dừa](../tap-6/README.md) · Hôm sau: [Tập 8 — Vé nội bộ hóa lá khô](../tap-8/README.md) →
 
 ---
 

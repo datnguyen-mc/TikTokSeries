@@ -22,7 +22,7 @@ Trở về căn nhà tre nghèo, Mit dần thay đổi, đi làm thuê, khuân s
 
 ## Định hướng series
 
-- Mỗi tập **20–30 giây**, kể một câu chuyện đời thường có cảm xúc, kết hợp hài hước nhẹ nhàng, tình thân và những bài học ý nghĩa.
+- Từ Tập 13, mỗi tập **40–60 giây** (4–6 clip × 10 giây, Gemini Omni) tùy câu chuyện, tông vui vẻ, tình yêu, gia đình; kể như người thật kể chuyện nhà mình, nhiều chi tiết đời sống miền Tây 1970. Tập 1–12 dài 30 giây (3 clip). Cấu trúc: [FLOW_PROMPTS.md](FLOW_PROMPTS.md).
 - Nhân vật, giọng nói, trang phục và bối cảnh được **duy trì nhất quán** xuyên suốt các tập.
 - Ý tưởng lấy từ chuyện hằng ngày.
 

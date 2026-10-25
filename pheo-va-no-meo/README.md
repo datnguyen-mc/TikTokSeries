@@ -25,11 +25,14 @@ Mỗi ngày, Phèo vào bếp chế biến một món ăn Việt Nam mới, hư�
 
 ## Định hướng series
 
-- Mỗi tập **40 giây**, gồm **4 clip × 10 giây**:
-  1. **Clip 1:** Giới thiệu món ăn, chuẩn bị nguyên liệu.
-  2. **Clip 2:** Sơ chế, tẩm ướp, hướng dẫn mẹo nấu ăn.
-  3. **Clip 3:** Chế biến, hoàn thiện và trình bày món ăn.
-  4. **Clip 4:** Ăn cơm cùng bà chủ Hường, kết thúc bằng tình huống hài hước hoặc cảm động.
+- Từ Tập 9, mỗi tập **từ 90 giây trở lên** (9 clip × 10 giây trở lên, Gemini Omni), đi đủ hành trình của món ăn và **chia sẻ đủ công thức** như một người nấu thật:
+  1. **Đi chợ về:** Phèo xách giỏ vào bếp, bày nguyên liệu.
+  2. **Nguyên liệu và định lượng:** đọc rõ từng thứ, bao nhiêu, cho mấy người ăn, mẹo chọn ngoài chợ.
+  3. **Sơ chế:** rửa, khử mùi, cắt thái, tẩm ướp, kèm lý do và thời gian.
+  4. **Nấu:** từng bước, lửa, thời gian, dấu hiệu chín, mẹo của Phèo.
+  5. **Nêm nếm, trình bày:** tỉ lệ nêm, bày đĩa.
+  6. **Dọn ra ăn cùng bà chủ Hường:** kết thúc bằng tình huống hài hước hoặc cảm động và cú đứng hình.
+- README mỗi tập có **Công thức đầy đủ** để làm caption. Tập 1–7 dài 30 giây, Tập 8 dài 40 giây.
 - Nhân vật và trang phục được **duy trì nhất quán**, các clip nối tiếp **liền mạch**.
 - Thoại tiếng Việt tự nhiên, **không có chữ trên video**.
 - **Mục tiêu dài hạn:** 365 tập với 365 món ăn, kết hợp kiến thức nấu ăn thực tế, giải trí và những câu chuyện đời sống.

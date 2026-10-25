@@ -3,7 +3,7 @@
 > **Hành trình du lịch trải nghiệm xuyên Việt 365 ngày từ Cực Bắc (Hà Giang) đến Cực Nam (Cà Mau) của cặp đôi @Vy (nàng thơ Việt Nam dịu dàng, năng động) và @Joi (chàng trai Châu Âu nam tính, phong trần, si tình).**
 
 * **Thể loại:** Authentic Experiential Travel Vlog, Phim ngắn du lịch điện ảnh, Khám phá văn hóa & ẩm thực thực tế 63 tỉnh thành Việt Nam.
-* **Thời lượng mỗi tập:** **60 – 70 giây** (ghép từ **6 – 7 clip × đúng 10 giây/clip** linh hoạt theo địa lý thực tế).
+* **Thời lượng mỗi tập:** từ Tập 5 **khoảng 90 giây** (ghép từ **9 clip × đúng 10 giây/clip**, 8–10 clip linh hoạt theo địa lý thực tế), chia sẻ nhiều và chi tiết hơn như người đi thật. Tập 1–4 dài 60–70 giây.
 * **Quy chuẩn mỗi clip:** **Đúng 10 giây** (Single Continuous 10-second Shot), khung hình dọc 9:16, 24fps, màu phim 35mm ấm áp.
 * **Tông điệu & Cảm xúc:** Trẻ trung, tự do, phóng khoáng, ngọt ngào, đậm tình yêu đôi lứa hòa quyện cùng niềm tự hào về cảnh sắc và con người Việt Nam.
 
@@ -24,7 +24,7 @@
    Cảnh flycam chỉ lướt nhẹ lấy đại cảnh trong 1s đến 1.5s đầu. Ngay khi nhân vật cất tiếng nói (00:01.5), flycam lập tức sà xuống và zoom lên mượt mà tiến sát vào cận/trung cận nhân vật đang nói để bắt trọn khẩu hình khớp từng âm tiết và biểu cảm gương mặt.
 
 4. **KHOẢNG ĐỆM KHÔNG THOẠI CUỐI CLIP (00:07.5–00:10) ĐỂ CHUYỂN CẢNH MƯỢT (SILENT OUTRO BUFFER):**  
-   Thoại nhân vật kết thúc dứt điểm hoàn toàn TRƯỚC giây 00:08 (cụ thể dứt ở giây 00:07.5). Từ 00:07.5 đến 00:10 (2.5 giây cuối) TUYỆT ĐỐI KHÔNG CÓ THOẠI, dành trọn vẹn cho hành động tạo đà chuyển cảnh (lên xe rồ ga, dừng xe bước vào quán, gắp ăn, bước xuống bến, nổ máy rời đi...) và âm thanh tự nhiên/nhạc nền để chuyển cảnh sang clip tiếp theo siêu mượt mà, không bị cắt cụt tiếng.
+   Thoại nhân vật kết thúc dứt điểm hoàn toàn TRƯỚC giây 00:08 (cụ thể dứt ở giây 00:07.5). Từ 00:07.5 đến 00:10 (2.5 giây cuối) TUYỆT ĐỐI KHÔNG CÓ THOẠI, dành trọn vẹn cho hành động tạo đà chuyển cảnh (lên xe rồ ga, dừng xe bước vào quán, gắp ăn, bước xuống bến, nổ máy rời đi...) và âm thanh tự nhiên/nhạc nền để chuyển cảnh sang clip tiếp theo siêu mượt mà, không bị cắt cụt tiếng. Từ Tập 5, clip ở yên một chỗ được nói tới 00:08.5 và đệm 1.5 giây cuối (xem MASTER_CONTEXT, quy tắc 4).
 
 5. **NỐI CẢNH ĐẦU — CUỐI LIỀN MẠCH PHÙ HỢP NỘI DUNG & ĐỊA LÝ (SEAMLESS MATCH-CUT & GEOGRAPHICAL CONTINUITY):**  
    Cuối Clip N tạo đà hành động / hướng di chuyển thực tế; đầu Clip N+1 tiếp nối chính xác hành động và vị trí đó theo đúng cung đường di chuyển ngoài đời thực, không nhảy cóc không gian.
@@ -44,11 +44,11 @@
 
 | Tập | Tỉnh / Thành Phố | Chủ Đề & Danh Thắng Trọng Điểm | Thời Lượng | Thư Mục Chi Tiết |
 |:---:|---|---|:---:|:---:|
-| **Tập 1** | **Hà Giang** | Cột Cờ Lũng Cú → Đèo Tam Giác Mạch → Phố Cổ Đồng Văn (Bánh Cuốn Trứng) → Đèo Mã Pí Lèng → Hẻm Tu Sản & Sông Nho Quế → Làng Pả Vi (Trâu Gác Bếp & Thắng Cố) → Hoàng Hôn Mèo Vạc | 7 clips (70s) | [tap1-ha-giang](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap1-ha-giang/README.md) |
-| **Tập 2** | **Cao Bằng** | Thác Bản Giốc & Sông Quây Sơn → Bè Tre Chân Thác → Phở Vịt Quay 7 Vị Trùng Khánh → Suối Lê Nin & Pác Bó → Bánh Áp Chao Giòn Rụm → Hoàng Hôn Đèo Mã Phục | 6 clips (60s) | [tap2-cao-bang](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap2-cao-bang/README.md) |
-| **Tập 3** | **Bắc Kạn** | Biển Mây Đỉnh Đồn Đèn (05:55) → Thuyền Qua Đảo Bà Góa (08:35) → Ao Tiên & Cá Kẹp Nẹp Tre (09:30) → Động Puông, Sông Năng (10:20) → Tôm Chua Ăn Kèm Ba Chỉ Trên Hiên Nhà Sàn (12:30) → Hoàng Hôn Giữa Hồ Quanh Đảo An Mạ (16:50) → Đêm Rằm Bên Bếp Lửa: Bánh Pẻng Phạ & Đàn Tính (19:30) | 7 clips (70s) | [tap3-bac-kan](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap3-bac-kan/README.md) |
-| **Tập 4** | **Lạng Sơn** | Ải Chi Lăng → Động Tam Thanh & Nàng Tô Thị → Vịt Quay Mắc Mật & Khâu Nhục → Phở Chua Chợ Đêm Kỳ Lừa → Cột Cờ Phai Vệ Đêm Lung Linh → Phố Đêm Lạp Xưởng Nướng | 6 clips (60s) | [tap4-lang-son](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap4-lang-son/README.md) |
-| **Tập 5** | **Tuyên Quang** | Bến Thuyền Na Hang → Cọc Vài Phạ "Hạ Long Đại Ngàn" → Thác Khuổi Nhi & Cá Massage → Cá Lăng Nướng & Thịt Lợn Chua Bản Nà Tông → Cây Đa Tân Trào → Bánh Gai Chiêm Hóa → Hoàng Hôn Na Hang | 7 clips (70s) | [tap5-tuyen-quang](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap5-tuyen-quang/README.md) |
+| **Tập 1** | **Hà Giang** | Cột Cờ Lũng Cú → Đèo Tam Giác Mạch → Phố Cổ Đồng Văn (Bánh Cuốn Trứng) → Đèo Mã Pí Lèng → Hẻm Tu Sản & Sông Nho Quế → Làng Pả Vi (Trâu Gác Bếp & Thắng Cố) → Hoàng Hôn Mèo Vạc | 7 clips (70s) | [tap1-ha-giang](tap1-ha-giang/README.md) |
+| **Tập 2** | **Cao Bằng** | Thác Bản Giốc & Sông Quây Sơn → Bè Tre Chân Thác → Phở Vịt Quay 7 Vị Trùng Khánh → Suối Lê Nin & Pác Bó → Bánh Áp Chao Giòn Rụm → Hoàng Hôn Đèo Mã Phục | 6 clips (60s) | [tap2-cao-bang](tap2-cao-bang/README.md) |
+| **Tập 3** | **Bắc Kạn** | Biển Mây Đỉnh Đồn Đèn (05:55) → Thuyền Qua Đảo Bà Góa (08:35) → Ao Tiên & Cá Kẹp Nẹp Tre (09:30) → Động Puông, Sông Năng (10:20) → Tôm Chua Ăn Kèm Ba Chỉ Trên Hiên Nhà Sàn (12:30) → Hoàng Hôn Giữa Hồ Quanh Đảo An Mạ (16:50) → Đêm Rằm Bên Bếp Lửa: Bánh Pẻng Phạ & Đàn Tính (19:30) | 7 clips (70s) | [tap3-bac-kan](tap3-bac-kan/README.md) |
+| **Tập 4** | **Lạng Sơn** | Rời Bản Pác Ngòi Trong Sương (07:30) → Vịt Quay Mắc Mật Thất Khê (12:20) → Động Tam Thanh (15:30) → Nàng Tô Thị (16:10) → Hoàng Hôn & Trăng Mười Sáu Trên Cột Cờ Phai Vệ (17:15) → Phở Chua & Khâu Nhục Chợ Đêm Kỳ Lừa (19:15) → Sáng Ải Chi Lăng, Lên Đường Tuyên Quang (08:20 hôm sau) | 7 clips (70s) | [tap4-lang-son](tap4-lang-son/README.md) |
+| **Tập 5** | **Tuyên Quang** | Trên Đường Từ Ải Chi Lăng → Bến Thuyền Na Hang → Cọc Vài Phạ "Hạ Long Đại Ngàn" → Thác Khuổi Nhi & Cá Massage → Cá Lăng Nướng & Thịt Lợn Chua Bản Nà Tông → Cây Đa Tân Trào → Bánh Gai Chiêm Hóa → Hoàng Hôn Na Hang (dàn ý sẽ mở rộng lên 9 điểm khi viết) | dự kiến 9 clips (90s) | [tap5-tuyen-quang](tap5-tuyen-quang/README.md) |
 
 ---
 

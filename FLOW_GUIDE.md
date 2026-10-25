@@ -1,9 +1,9 @@
 # Hướng dẫn chung — Prompt Google Flow cho 4 series TikTok
 
-**Áp dụng cho:** Mit & Đú 1970 · 365 Ngày Phèo Làm Nội Trợ · Nhà Tèo & Sún · Tây Du Ký 2026
+**Áp dụng cho:** Mit & Đú 1970 · 365 Ngày Phèo Làm Nội Trợ · Nhà Tèo & Sún · Tây Du Ký 2026. Series 365 Ngày Việt Nam theo template riêng trong [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md); với series đó chỉ bảng **Độ dài tập** và mục **Kịch bản như người thật chia sẻ** dưới đây áp dụng chung.
 **Model:** Gemini Omni trong Google Flow, **10 giây mỗi clip** (cập nhật 24/10/2026; trước đó dùng Veo 3.1, 8 giây mỗi clip)
-**Cấu trúc mỗi thư mục series — mỗi ngày đăng 1 tập (30s = 3 clip × 10s):**
-- `tap-{số}/`: thư mục của một tập (một ngày đăng). `README.md` là tổng quan: tóm tắt, ảnh cần đính kèm, kịch bản nhanh, ghi chú. `clip-1.md`, `clip-2.md`, `clip-3.md`: **mỗi clip 10 giây là một file chỉ chứa đúng prompt** (copy cả file dán vào Flow), tương ứng một lần tạo trên Flow. Tập mới đánh số tiếp.
+**Cấu trúc mỗi thư mục series — mỗi ngày đăng 1 tập, ghép từ các clip 10 giây; độ dài tập theo từng series (bảng "Độ dài tập" bên dưới):**
+- `tap-{số}/`: thư mục của một tập (một ngày đăng). `README.md` là tổng quan: tóm tắt, ảnh cần đính kèm, kịch bản nhanh, ghi chú. `clip-1.md`, `clip-2.md`, … `clip-N.md`: **mỗi clip 10 giây là một file chỉ chứa đúng prompt** (copy cả file dán vào Flow), tương ứng một lần tạo trên Flow. Tập mới đánh số tiếp.
 - `FLOW_PROMPTS.md`: khóa nhân vật, bối cảnh, phong cách và prompt tạo ảnh tham chiếu, dùng chung cho mọi tập.
 
 | Series | Khóa nhân vật & ảnh tham chiếu | Các tập (1 tập/ngày) |
@@ -11,26 +11,49 @@
 | Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-12](mit-va-du-1970/tap-12/README.md) |
 | 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-8](pheo-va-no-meo/tap-8/README.md) |
 | Nhà Tèo & Sún | [FLOW_PROMPTS.md](teo-va-sun-cho/FLOW_PROMPTS.md) | [tap-1](teo-va-sun-cho/tap-1/README.md) → [tap-6](teo-va-sun-cho/tap-6/README.md) |
-| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-1](tay-du-ky-2026/tap-1/README.md) → [tap-7](tay-du-ky-2026/tap-7/README.md) |
+| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-1](tay-du-ky-2026/tap-1/README.md) → [tap-8](tay-du-ky-2026/tap-8/README.md) |
 | 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap-1](365ngayvietnam/tap-1/README.md) → [tap-365] |
 
 **Tập chủ đề 20/10:** Mit & Đú tap-8 · Phèo tap-3 · Tèo & Sún tap-2 · Tây Du Ký tap-4
 
 **Tập xu hướng:** chủ đề lấy từ từ khóa Google Trends và TikTok, ghi lại trong [TRENDS.md](TRENDS.md). Tập xu hướng nên đăng ngay, không cần chờ đúng thứ tự.
 
+**Độ dài tập** (áp dụng cho tập mới từ 25/10/2026; các tập đã viết giữ nguyên độ dài cũ):
+
+| Series | Độ dài | Số clip 10s | Xương sống mỗi tập | Áp dụng từ |
+| ------ | ------ | ----------- | ------------------ | ---------- |
+| Tây Du Ký 2026 | khoảng 60s | 6 | Hook và vấn đề → kế hoạch → phép thuật ra tay → leo thang → lật kèo → chốt cười, thumbnail | Tập 9 |
+| Mit & Đú 1970 | 40–60s tùy câu chuyện | 4–6 | Lát cắt đời thường 1970 → chuyện nhỏ trong nhà → khoảnh khắc thương nhau → kết ấm áp, vui vẻ | Tập 13 |
+| 365 Ngày Phèo Làm Nội Trợ | từ 90s trở lên | từ 9 | Đi chợ về → nguyên liệu, định lượng → sơ chế → nấu từng bước → nêm nếm, trình bày → dọn ra ăn cùng Hường → twist, đứng hình | Tập 9 |
+| Nhà Tèo & Sún | 40–60s tùy câu chuyện | 4–6 | Chuyện trong nhà → Tèo vụng về hoặc trục trặc → mẹo đời sống (sản phẩm xuất hiện tự nhiên) → kết yêu thương | Tập 7 |
+| 365 Ngày Việt Nam | khoảng 90s | 9 (8–10 tùy lộ trình) | Xem [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md) của series | Tập 5 |
+
+**Kịch bản "như người thật chia sẻ"** (mọi series):
+- **Mỗi clip có một điều mới** cho người xem: một chi tiết đời thật, một mẹo, một bước làm, một con số hoặc một nhịp cảm xúc. Không có clip chỉ để kéo dài.
+- **Cụ thể như người đã làm thật:** tên món, định lượng, giờ giấc, nơi chốn, và vì sao làm như vậy. Giá cả, giờ mở cửa, luật lệ, công thức, mẹo chăm trẻ, mẹo sức khỏe và cách dùng hóa chất tẩy rửa phải kiểm chứng và ghi nguồn trong README (ưu tiên Bộ Y tế, WHO, hướng dẫn trên nhãn sản phẩm).
+- **Nói như người thật:** câu ngắn, giọng miền Nam tự nhiên, có cảm thán, có kể chuyện ngôi thứ nhất; không đọc như thuyết minh, không giảng đạo lý.
+- **Tập dài không nói nhanh hơn:** mỗi clip vẫn tối đa khoảng 31 âm tiết thoại; muốn chia sẻ nhiều hơn thì thêm clip.
+- **Giữ người xem:** khoảng 10–15 giây lại có một điểm mới (câu hỏi, bất ngờ, mẹo, tình huống); clip cuối luôn có điểm chốt và khung thumbnail.
+
 ---
 
 ## 1. Dán prompt vào Flow từng bước
 
-Gemini Omni tạo **tối đa 10 giây mỗi lần** (Veo 3.1 chỉ được 8 giây), nên mỗi tập gồm 3 clip 10 giây (tổng 30 giây). **Mỗi file `clip-{số}.md` chỉ chứa đúng prompt:** mở file, bấm Cmd+A rồi Cmd+C, dán vào ô prompt của Flow, không sửa gì.
+Gemini Omni tạo **tối đa 10 giây mỗi lần** (Veo 3.1 chỉ được 8 giây), nên tập dài bao nhiêu thì ghép bấy nhiêu clip 10 giây: 40–60 giây là 4–6 clip, 90 giây là 9 clip (bảng "Độ dài tập" ở trên). **Mỗi file `clip-{số}.md` chỉ chứa đúng prompt:** mở file, bấm Cmd+A rồi Cmd+C, dán vào ô prompt của Flow, không sửa gì.
 
 | Clip | Thời gian | Chế độ trong Flow | Đính kèm |
 | ---- | --------- | ----------------- | -------- |
 | **Clip 1** | 00:00–00:10 | **Video → Gemini Omni → Ingredients** | Ảnh nhân vật và sản phẩm ghi trong README của tập |
 | **Clip 2** | 00:10–00:20 | **Video → Gemini Omni → Frames** | Start frame = khung cuối Clip 1 (Save frame) |
-| **Clip 3** | 00:20–00:30 | **Video → Gemini Omni → Frames** | Start frame = khung cuối Clip 2 *(bỏ clip này nếu chỉ cần tập 20s)* |
+| **Clip 3 trở đi** | mỗi clip thêm 10 giây | **Video → Gemini Omni → Frames** | Start frame = khung cuối clip ngay trước |
+| **Clip đổi bối cảnh hoặc cắt cảnh** | — | **Video → Gemini Omni → Ingredients** | Khi README ghi clip đó mở cảnh mới hoặc nhảy thời gian: đính lại ảnh tham chiếu, dán [FORMAT] và FULL LOCK như Clip 1, không dán câu Continue the scene seamlessly… |
 
-Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo video từ ảnh tham chiếu cho Clip 1 và chế độ khung đầu (first frame) cho Clip 2–3.
+Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo video từ ảnh tham chiếu cho Clip 1 và chế độ khung đầu (first frame) cho Clip 2 trở đi.
+
+**Nhảy thời gian trong tập** (ướp, kho, chiều hôm đó, sáng hôm sau), chọn một trong ba cách:
+1. **Trong cùng clip:** tiếng hẹn giờ ting, mở nắp thấy món đã xong; dùng khi chỉ chờ tối đa khoảng 30 phút.
+2. **Đồ làm sẵn:** nhân vật lấy tô đã ướp sẵn trong tủ lạnh và nói ra, ví dụ: Tô này Phèo ướp từ sáng!
+3. **Cắt cảnh:** mở clip mới bằng **Ingredients** với [FORMAT] và FULL LOCK, không dùng câu Continue…; dòng đầu [SHOT LIST] ghi rõ, ví dụ `Hard cut: thirty minutes later, same kitchen, same outfits, same lighting.` README ghi rõ clip nào là cắt cảnh.
 
 **Chuẩn bị một lần cho mỗi series:**
 - Tạo nhân vật trên Flow từ ảnh tham chiếu và đặt **đúng tên** như bảng dưới. Dòng khai báo nhân vật trong prompt đã ghi sẵn dạng `@Pheo = PHÈO: …`: Flow gọi đúng nhân vật đã lưu, còn model hiểu PHÈO trong cả prompt chính là `@Pheo`.
@@ -54,15 +77,15 @@ Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo và T�
 5. Kiểm tra dòng khai báo nhân vật: sau khi dán, `@Mit`, `@TeoTeo`… phải hiện thành thẻ nhân vật của Flow. Nếu vẫn là chữ thường, xóa `@Tên` rồi gõ lại `@` và chọn nhân vật trong danh sách. Nếu Omni không nhận thẻ nhân vật, đính ảnh `REF_…` như cũ. Với ảnh sản phẩm, gõ `@` chọn ảnh rồi ghi vai trò, ví dụ `@SP_TAP is the notebook.`
 6. Bấm Generate, chọn bản đẹp nhất.
 
-**Clip 2 và 3**
+**Clip 2 trở đi**
 1. Mở clip vừa chọn, dừng ở khung cuối, bấm **Save frame**.
 2. Bấm tên model → **Video** → **Gemini Omni** → **Frames**, kéo ảnh vừa lưu vào **+ Add start frame**, để độ dài 10s.
-3. Dán prompt `clip-2.md` (hoặc `clip-3.md`). Hai dòng đầu prompt đã viết sẵn: "Continue the scene seamlessly from the final frame of the previous clip…".
-4. Bấm Generate. Clip 3 làm giống vậy, lấy khung cuối của Clip 2.
+3. Dán prompt `clip-2.md`. Hai dòng đầu prompt đã viết sẵn: "Continue the scene seamlessly from the final frame of the previous clip…".
+4. Bấm Generate. Các clip sau làm giống vậy, mỗi clip lấy khung cuối của clip ngay trước.
 
-**Dùng Extend thay cho Frames:** Gemini Omni 1.1 cho nối dài video đã tạo, mỗi lần thêm tối đa 10 giây, tổng tối đa 40 giây, và đọc lại cả đoạn trước nên nhân vật và giọng giữ đều hơn. Nếu Flow của bạn đã có nút **Extend** cho Omni (một số tài khoản chưa có): tạo Clip 1, bấm **Extend**, dán nguyên prompt `clip-2.md`, rồi Extend tiếp với `clip-3.md`. Kết quả là một video 30 giây liền mạch, không cần ghép. Câu mở đầu clip 2/3 dùng được cho cả hai cách. Mốc giây trong prompt clip 2/3 tính từ đầu đoạn nối thêm: 00:00 của Clip 2 là giây 10 của video.
+**Dùng Extend thay cho Frames:** Gemini Omni 1.1 cho nối dài video đã tạo, mỗi lần thêm tối đa 10 giây, tổng tối đa 40 giây, và đọc lại cả đoạn trước nên nhân vật và giọng giữ đều hơn. Nếu Flow của bạn đã có nút **Extend** cho Omni (một số tài khoản chưa có): tạo Clip 1, bấm **Extend**, dán nguyên prompt `clip-2.md`, rồi Extend tiếp với `clip-3.md`, `clip-4.md`. Một chuỗi Extend dài tối đa 40 giây (4 clip); tập dài hơn thì Save frame khung cuối của clip thứ 4, mở chuỗi mới bằng **Frames** với `clip-5.md`, rồi Extend tiếp. Ghép các chuỗi trong Scenebuilder. Câu mở đầu clip 2 trở đi dùng được cho cả hai cách. Mốc giây trong prompt mỗi clip luôn tính từ đầu clip đó: 00:00 của Clip N là giây 10 × (N − 1) của tập (Clip 2 là giây 10, Clip 5 là giây 40).
 
-**Ghép:** rê chuột lên clip → **More** → **Add to Scene** → trong Scenebuilder kéo các clip theo thứ tự → cắt bớt 0.2–0.5s ở chỗ nối nếu bị khựng → tải scene về. Dùng Extend thì không cần bước này.
+**Ghép:** rê chuột lên clip → **More** → **Add to Scene** → trong Scenebuilder kéo các clip theo thứ tự → cắt bớt 0.2–0.5s ở chỗ nối nếu bị khựng → tải scene về. Tập dài tối đa 40 giây (4 clip) làm bằng một chuỗi Extend thì không cần bước này; tập dài hơn (Tây Du Ký 60 giây, Phèo và 365 Ngày Việt Nam 90 giây, Mit và Tèo 5–6 clip) vẫn phải ghép các chuỗi Extend và các clip mở lại bằng Ingredients trong Scenebuilder.
 
 **Flow đọc prompt thế nào:**
 - Các nhãn `[FORMAT]`, `[CHARACTERS]`, `[SHOT LIST]`… chỉ là chữ thường để chia ý; model đọc như văn bản, không cần định dạng gì thêm. Giữ nguyên xuống dòng khi dán.
@@ -79,7 +102,8 @@ Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo và T�
 - **Tỉ lệ:** 9:16 (dọc TikTok)
 - **Thời lượng:** 10s
 - **Model:** bấm tên model → **Video** → **Gemini Omni** (mặc định Flow để model ảnh Nano Banana Pro). Nếu tài khoản cho chọn độ phân giải, chạy thử ở mức thấp cho rẻ, chốt ở 720p trở lên.
-- **Chế độ:** Clip 1 dùng **Ingredients**, Clip 2–3 dùng **Frames** (hoặc Extend)
+- **Chế độ:** Clip 1 dùng **Ingredients**; Clip 2 trở đi dùng **Frames** (hoặc Extend); clip đổi bối cảnh hoặc cắt cảnh dùng lại **Ingredients**.
+- **Neo lại nhân vật ở tập dài:** nếu Frames cho đính ảnh, đính lại ảnh tham chiếu ở mọi clip. Nếu không, cứ sau 3–4 clip mở một clip bằng **Ingredients** (cắt theo hành động, dán [FORMAT] và FULL LOCK) để nhân vật không lệch dần qua nhiều lần Save frame.
 - **Đặt tên theo mẫu:** `MIT_T01_C1_v1` (series_tập_clip_phiên bản)
 
 ---
@@ -127,7 +151,7 @@ Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality s
 Extra characters, outfit changes, text or letters anywhere, subtitles, distorted paws or hands, ...
 ```
 
-### Clip 2 và 3 — Frames (start frame = khung cuối clip trước) hoặc Extend
+### Clip 2 trở đi — Frames (start frame = khung cuối clip trước) hoặc Extend
 
 ```
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
@@ -139,13 +163,13 @@ Vertical 9:16, 10-second clip, same animation style. Spoken lines are written af
 [SHOT LIST] ... [SOUND] ... [END FRAME] ... [AVOID] ...
 ```
 
-Khối `[FORMAT]` và hai dòng mở đầu clip 2/3 của từng series nằm ở mục 3 trong `FLOW_PROMPTS.md` của series đó.
+Khối `[FORMAT]` và hai dòng mở đầu clip 2 trở đi của từng series nằm ở mục 3 trong `FLOW_PROMPTS.md` của series đó.
 
 ---
 
 ## 5. Thoại
 
-- **Một clip 10 giây chứa tối đa khoảng 31 âm tiết thoại**, và mỗi mốc có thoại cần đủ thời gian nói: **không quá 4,5 âm tiết mỗi giây**. Thoại dài hơn sẽ bị nói vội, hoặc bị Omni cắt bớt cho vừa clip.
+- **Một clip 10 giây chứa tối đa khoảng 31 âm tiết thoại**, và mỗi mốc có thoại cần đủ thời gian nói: **không quá 4,5 âm tiết mỗi giây**. Thoại dài hơn sẽ bị nói vội, hoặc bị Omni cắt bớt cho vừa clip. Tập dài hơn nghĩa là thêm clip, không phải nói nhanh hơn.
 - **Không đặt thoại trong ngoặc kép** (Omni có thể in thành chữ trên hình). Mỗi mốc giây tối đa một câu thoại, đặt ở cuối dòng.
 - Luôn ghi rõ **ai nói, giọng gì, cảm xúc gì**.
 - Nếu model đọc tiếng Việt chưa chuẩn: vẫn giữ khẩu hình rồi **lồng tiếng lại** trong CapCut hoặc bằng công cụ giọng AI, dùng cùng một giọng cho mỗi nhân vật ở mọi tập.
@@ -156,7 +180,8 @@ Khối `[FORMAT]` và hai dòng mở đầu clip 2/3 của từng series nằm �
 ## 6. Quy tắc TikTok
 
 - **2 giây đầu phải có điểm thu hút:** một hành động bất ngờ, một câu thoại gây tò mò hoặc một cận cảnh mạnh. Các kịch bản đã đặt sẵn điểm này ở 00:00–00:02 của Clip 1.
-- **Clip 3 kết bằng "điểm chốt":** cười, xúc động hoặc twist, kèm một khung cuối đứng yên đủ lâu để làm thumbnail.
+- **Clip cuối kết bằng "điểm chốt":** cười, xúc động hoặc twist, kèm một khung cuối đứng yên đủ lâu để làm thumbnail.
+- **Tập dài giữ nhịp:** khoảng 10–15 giây lại có một điểm mới; xem mục "Kịch bản như người thật chia sẻ" ở đầu file.
 - **Sản phẩm:** chỉ xuất hiện tự nhiên trong câu chuyện, tối đa khoảng 10% thời lượng.
 
 ---

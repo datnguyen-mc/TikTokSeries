@@ -19,18 +19,20 @@
 
 | Thời gian | Hình ảnh | Thoại |
 | --- | --- | --- |
-| 00:00–00:02 | Dao chặt sườn "cốp", miếng sườn nảy lên chậm; máy lia lên mặt Phèo | Phèo: "Ngày sáu, Phèo vô bếp!" |
-| 00:02–00:04 | Giới thiệu nguyên liệu: sườn non, hành tím tỏi băm, nước mắm, đường, tiêu, hành lá, chảo chống dính trên bếp | Phèo: "Sườn ram mặn ngọt, đưa cơm hết sẩy!" |
-| 00:04–00:06 | Hường ló vào cửa, cầm gậy selfie, soi màn hình tối chỉnh lông, nháy mắt rồi đi | Hường: "Nấu đẹp nha cưng, trưa chị lên live!" |
-| 00:06–00:08 | Phèo chỉnh mũ, chỉnh khăn, ưỡn ngực cười "ăn ảnh" | Phèo: "Phèo sắp nổi tiếng rồi!" |
-| 00:08–00:10 | Ướp sườn: nước mắm, đường, hành tỏi băm, tiêu, bóp đều | — |
-| 00:10–00:11 | Áp chảo sườn với chút dầu, xèo xèo, cạnh vàng | — |
-| 00:11–00:14 | Đổ nước ướp vào, hạ lửa nhỏ, lắc chảo đều, sốt sệt lại màu cánh gián | Phèo: "Ram lửa nhỏ, đảo đều tay, sốt mới bám bóng!" |
-| 00:14–00:16 | Rắc tiêu, hành lá; gắp miếng sườn bóng lưỡng đưa lên máy, nháy mắt | Phèo: "Bóng lưỡng, lên hình là đẹp!" |
-| 00:16–00:19 | Xúc sườn ra đĩa; Hường cầm gậy selfie lướt vào, huých hông đẩy Phèo ra sau | Hường: "Mấy đứa ơi, chị lên món nè!" |
-| 00:19–00:21 | Hường cắn sườn, nháy mắt với điện thoại; sau lưng, Phèo há hốc, chĩa cái sạn vào ngực mình | Hường: "Chị nấu đó mấy đứa! Ngon hông?" |
-| 00:21–00:23 | Màn hình điện thoại tim bay; Hường cầm chảo chống dính khoe mặt chảo sạch bóng | Hường: "Chảo này chị xài nè, chốt đơn!" |
-| 00:23–00:24 | Phèo **đứng hình** sau lưng bà chủ, tay giơ cái sạn | — |
+| 00:00–00:02.5 | Dao chặt sườn "cốp", miếng sườn nảy lên chậm; máy lia lên mặt Phèo | Phèo: "Ngày sáu, Phèo vô bếp!" |
+| 00:02.5–00:05 | Giới thiệu nguyên liệu: sườn non, hành tím tỏi băm, nước mắm, đường, tiêu, hành lá, chảo chống dính trên bếp | Phèo: "Sườn ram mặn ngọt, đưa cơm hết sẩy!" |
+| 00:05–00:07 | Hường ló vào cửa, cầm gậy selfie, soi màn hình tối chỉnh lông | Hường: "Nấu đẹp nha cưng, trưa chị lên live!" |
+| 00:07–00:08 | Hường nháy mắt rồi lướt ra; Phèo chớp mắt nhìn theo, từ từ cười toe | — |
+| 00:08–00:10 | Phèo chỉnh mũ, chỉnh khăn, ưỡn ngực cười "ăn ảnh" | Phèo: "Phèo sắp nổi tiếng rồi!" |
+| 00:10–00:13 | Ướp sườn: nước mắm, đường, hành tỏi băm, tiêu, bóp đều | — |
+| 00:13–00:14.5 | Áp chảo sườn với chút dầu, xèo xèo, cạnh vàng | — |
+| 00:14.5–00:17.5 | Đổ nước ướp vào, hạ lửa nhỏ, lắc chảo đều, sốt sệt lại màu cánh gián | Phèo: "Ram lửa nhỏ, đảo đều tay, sốt mới bám bóng!" |
+| 00:17.5–00:20 | Rắc tiêu, hành lá; gắp miếng sườn bóng lưỡng đưa lên máy, nháy mắt | Phèo: "Bóng lưỡng, lên hình là đẹp!" |
+| 00:20–00:21.5 | Phèo xúc sườn ra đĩa | — |
+| 00:21.5–00:23.5 | Hường cầm gậy selfie lướt vào, huých hông đẩy Phèo ra sau | Hường: "Mấy đứa ơi, chị lên món nè!" |
+| 00:23.5–00:26 | Hường cắn sườn, nháy mắt với điện thoại; sau lưng, Phèo há hốc, chĩa cái sạn vào ngực mình | Hường: "Chị nấu đó mấy đứa! Ngon hông?" |
+| 00:26–00:28 | Màn hình điện thoại tim bay; Hường cầm chảo chống dính khoe mặt chảo sạch bóng | Hường: "Chảo này chị xài nè, chốt đơn!" |
+| 00:28–00:30 | Phèo **đứng hình** sau lưng bà chủ, tay giơ cái sạn | — |
 
 ## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
 

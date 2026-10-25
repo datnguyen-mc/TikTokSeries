@@ -60,22 +60,22 @@ Ngày thứ ba của Vy và Joi ở Hồ Ba Bể - Bắc Kạn! Bốn giờ sán
 
 ---
 
-## 📋 TẬP 4: LẠNG SƠN — Xứ Lạng Biên Ải & Vịt Quay Móc Mật (6 Clips)
+## 📋 TẬP 4: LẠNG SƠN — Về Xứ Lạng: Vịt Quay Mắc Mật Thất Khê, Trăng Mười Sáu Trên Phai Vệ & Sáng Ải Chi Lăng (7 Clips)
 
 ### 🎵 Nhạc đề xuất:
-- **Lựa chọn 1 (Ưu tiên):** Nhạc Then Lạng Sơn phối hợp âm hưởng Lo-fi Acoustic phố đêm Kỳ Lừa.
-- **Lựa chọn 2:** Giai điệu Pop Ballad Acoustic ấm cúng, ngọt ngào của cặp đôi dạo phố đêm biên ải.
+- **Lựa chọn 1 (Ưu tiên):** Đàn Tính Tày–Nùng xứ Lạng phối Acoustic Folk + Indie; mở bằng tiếng huýt sáo lúc rời Hồ Ba Bể trong sương, lắng xuống trong Động Tam Thanh, dâng lên lúc hoàng hôn và trăng mười sáu trên Cột Cờ Phai Vệ, khép bằng một câu đàn Tính ngân dài ở Ải Chi Lăng.
+- **Lựa chọn 2:** Lo-fi Acoustic Jazz ấm áp cho bữa trưa vịt quay Thất Khê và bữa tối dưới trăng ở Chợ Đêm Kỳ Lừa.
 
 ### 📝 Caption TikTok (Chuẩn 5 Hashtags):
 ```text
-Ngày thứ tư trong hành trình 365 Ngày Việt Nam của Vy và Joi tại Xứ Lạng biên ải! Cùng tụi mình "phá đảo" đĩa vịt quay lá mắc mật da giòn rụm thơm nức mũi và tô phở chua Chợ Đêm Kỳ Lừa ngon nhức nhối! Ngày mai đón xem tụi mình khám phá Tuyên Quang nha cả nhà ơi! 🇻🇳🍗✨
+Ngày thứ tư của Vy và Joi ở Xứ Lạng - Lạng Sơn! Hơn hai trăm cây số từ Ba Bể, trưa ăn vịt quay mắc mật ở Thất Khê, chiều vào Động Tam Thanh, thăm Nàng Tô Thị, leo 535 bậc Phai Vệ đón hoàng hôn và trăng mười sáu, tối trộn phở chua, ăn khâu nhục ở Chợ Đêm Kỳ Lừa, sáng hôm sau ghé Ải Chi Lăng. Lưu lại lịch trình giờ vàng ở bình luận nha cả nhà! Giờ tụi mình chạy tiếp về Tuyên Quang! 🇻🇳🦆🌕
 
 #365ngayvietnam #LangSon #VitQuayLangSon #VyvaJoi #xuyenviet
 ```
 
 ---
 
-## 📋 TẬP 5: TUYÊN QUANG — Hạ Long Giữa Đại Ngàn & Bánh Gai Chiêm Hóa (7 Clips)
+## 📋 TẬP 5: TUYÊN QUANG — Hạ Long Giữa Đại Ngàn & Bánh Gai Chiêm Hóa (9 Clips · khoảng 90 giây)
 
 ### 🎵 Nhạc đề xuất:
 - **Lựa chọn 1 (Ưu tiên):** Âm hưởng sáo trúc Tuyên Quang kết hợp tiết tấu Indie Acoustic rộn rã khi đi thuyền lòng hồ Na Hang.

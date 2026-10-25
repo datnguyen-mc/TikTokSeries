@@ -26,7 +26,7 @@ Mỗi tập là một câu chuyện gần gũi: chăm con, nấu ăn, dọn nhà
 ## Định hướng series
 
 - **Khán giả:** Phụ nữ 18–50 tuổi.
-- Mỗi tập **30 giây**, gồm **3 clip × 10 giây**.
+- Từ Tập 7, mỗi tập **40–60 giây** (4–6 clip × 10 giây, Gemini Omni) tùy câu chuyện; kể như người thật chia sẻ chuyện nhà, mẹo đời sống đúng và an toàn. Tập 1–6 dài 30 giây.
 - **Tỉ lệ nội dung:** 70% câu chuyện gia đình, 20% hài hước và cảm xúc, 10% giới thiệu sản phẩm.
 - Ý tưởng lấy từ chuyện hằng ngày.
 

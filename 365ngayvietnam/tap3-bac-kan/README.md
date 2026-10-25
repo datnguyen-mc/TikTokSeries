@@ -6,7 +6,7 @@
 > **Một ngày trong phim:** cuối tháng 10, tuần trăng rằm tháng Chín âm lịch. Mỗi cảnh đặt đúng khung giờ đẹp nhất của điểm đến hoặc món ăn đó (bảng bên dưới).  
 > **Master context:** [MASTER_CONTEXT.md](../MASTER_CONTEXT.md)  
 > **Nối từ:** [Tập 2 Clip 6](../tap2-cao-bang/clip-6.md). Sau hoàng hôn Đèo Mã Phục, hai người chạy QL3 → Nà Phặc → QL279 về nghỉ ở Chợ Rã (khoảng 125 km); 4 giờ sáng hôm sau đội mũ, cài quai, lên Đỉnh Đồn Đèn.  
-> **Nối sang:** Tập 4 Lạng Sơn. Sáng hôm sau (7:00–8:00) đội mũ, cài quai, rời Bản Pác Ngòi theo QL279; không chạy đèo ban đêm.
+> **Nối sang:** [Tập 4 Lạng Sơn](../tap4-lang-son/README.md). Sáng hôm sau (7:00–8:00) đội mũ, cài quai, rời Bản Pác Ngòi theo QL279; không chạy đèo ban đêm.
 
 ---
 

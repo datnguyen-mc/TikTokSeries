@@ -2,12 +2,27 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 30s = 3 clip × 10s (bỏ Clip 3 → 20s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** từ Tập 9 mỗi tập **từ 90s trở lên = 9 clip × 10s trở lên**, chia sẻ đủ công thức (Tập 1–7: 30s; Tập 8: 40s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
 
 > **Lưu ý riêng cho series Phèo**
-> - Mỗi tập 30s = 3 clip × 10s (yêu cầu 20–30s/tập): **Clip 1** giới thiệu món + nguyên liệu · **Clip 2** sơ chế, nấu + 1 mẹo nấu ăn · **Clip 3** trình bày + ăn cùng Hường + twist.
-> - Muốn tập dài hơn: làm thêm **Clip 4** (tập 40s, như Tập 8) bằng Save frame → Frames, ví dụ tách Clip 2 thành "sơ chế" và "nấu", dùng khối `DINING CORNER — SHORT` nếu clip thêm nằm ở bàn ăn.
-> - Twist và cú "đứng hình" nằm ở Clip 3, nên với series này **nên giữ đủ 3 clip**.
+> - **Từ Tập 9: mỗi tập từ 90 giây trở lên, chuẩn 100 giây = 10 clip × 10s**, đi đủ hành trình của món ăn và **chia sẻ đủ công thức** như một người nấu thật:
+>   1. **Clip 1 — Đi chợ về và kèo của tập:** 2 giây đầu là cú mồi (giỏ đồ đặt bịch lên đảo bếp, nguyên liệu lăn ra); "Ngày [số], Phèo vô bếp!"; Hường ló ở cửa bên phải ra một **kèo, điều kiện hoặc yêu cầu** (ăn kiêng, có khách, cá cược…) mà clip cuối sẽ trả lời. Phèo vào bếp qua cửa bên phải khung hình (cửa thông góc bàn ăn).
+>   2. **Clip 2 — Nguyên liệu chính:** nói 4–5 nguyên liệu chính kèm định lượng và số người ăn (ví dụ: Nửa ký cá kèo, cho ba bốn người!), một mẹo chọn ngoài chợ.
+>   3. **Clip 3–4 — Sơ chế:** rửa, khử mùi, cắt thái, ướp; mỗi clip một lý do và thời gian ướp.
+>   4. **Clip 5–7 — Nấu:** từng bước với lửa to hay nhỏ, thời gian, dấu hiệu chín; gia vị nói định lượng **đúng lúc cho vào** (Hai muỗng nước mắm, một muỗng đường!); mỗi clip một mẹo.
+>   5. **Clip 8 — Nêm nếm, hoàn thiện, trình bày:** tỉ lệ nêm, cách bày đĩa.
+>   6. **Clip 9 — Dọn ra bàn ăn:** bưng món ra, bày, Hường nếm và phản ứng.
+>   7. **Clip 10 — Twist:** trả lời kèo ở Clip 1, cú đứng hình ở 2 giây cuối, khung thumbnail.
+> - **Hường ở giữa tập:** ít nhất 2 lần ló vào bếp ở Clip 3–8 (hít mùi, ăn vụng, hỏi xéo, ra thêm luật), mỗi lần 2–3 giây và tối đa 7 âm tiết. Lần đầu Hường vào trong một chuỗi Frames thì dán FULL LOCK dưới nhãn [CHARACTER ENTERING THIS SEGMENT].
+> - **Ngân sách thoại:** mỗi clip tối đa khoảng 31 âm tiết (Phèo khoảng 24, Hường tối đa 7). Mỗi clip nói đúng **một con số quan trọng** (định lượng, thời gian hoặc mức lửa) và **một lý do**; phần còn lại nằm trong Công thức đầy đủ. Món ít bước thì 9 clip (90 giây, gộp Clip 9 và 10); món nhiều công đoạn thì 11–12 clip.
+> - **Số trong thoại viết bằng chữ** (năm trăm gam, ba mươi phút), không viết chữ số hay đơn vị tắt trong prompt. **Định lượng thể hiện bằng hình:** nguyên liệu chia sẵn trong chén sứ trắng nhỏ, muỗng canh và muỗng cà phê trơn; không dùng cân điện tử, ly đong có vạch số hay đồng hồ có số.
+> - **Đồ đi chợ về:** giỏ cói, túi nilon hồng hoặc trắng trơn, thịt cá gói lá chuối, trứng trong rổ tre, rau buộc lạt. Không dùng giấy báo, túi in chữ, khay xốp có tem, tem giá, hóa đơn hay cân có số. Thêm vào [AVOID] mọi clip: newspaper wrapping, printed bags, price tags, receipts, scale displays, measuring marks, labeled jars or bottles.
+> - **Nhảy thời gian khi ướp, kho:** dùng tiếng hẹn giờ trong cùng clip, hoặc tô ướp sẵn lấy từ tủ lạnh (Tô này Phèo ướp từ sáng!), hoặc cắt cảnh bằng Ingredients (FLOW_GUIDE mục 1).
+> - **An toàn thực phẩm (bắt buộc mọi tập):** README ghi thời gian và dấu hiệu chín (thịt heo, gà không còn hồng, nước thịt trong); ướp quá 30 phút thì để ngăn mát; thớt, dao riêng cho đồ sống và rau ăn sống; rửa tay sau khi chạm đồ sống; thức ăn thừa cất tủ lạnh trong vòng 2 giờ; một dòng nhắc chó mèo thật không ăn được hành, tỏi, ớt, đồ mặn. Thêm vào [AVOID]: washing raw chicken under running water, tasting from the stirring spoon then stirring again, raw meat touching herbs or cooked food, anyone leaning over an open flame, hot oil splashing, undercooked pink meat served.
+> - **Công thức ở README:** mục **Công thức đầy đủ** (nguyên liệu, định lượng, từng bước, thời gian, mẹo, an toàn thực phẩm) kèm bảng **Clip ↔ bước công thức** để thoại và công thức khớp nhau, và mục **Công thức caption** tối đa khoảng 2.500 ký tự để dán vào caption TikTok (caption tối đa khoảng 4.000 ký tự gồm cả hashtag). Bình luận ghim chỉ khoảng 150 ký tự: dùng để nhắc công thức đầy đủ ở caption hoặc một mẹo chính.
+> - **Bối cảnh:** các clip trước clip dọn ra ăn ở KITCHEN; clip dọn ra ăn ở DINING CORNER, mở bằng Ingredients lần nữa hoặc cắt theo hành động như Tập 8 (bưng nồi ra cửa → nồi vừa đặt xuống bàn).
+> - Tập 1–7 (30s = 3 clip) và Tập 8 (40s = 4 clip) giữ nguyên độ dài cũ.
+> - Twist và cú "đứng hình" luôn nằm ở clip cuối cùng.
 
 ---
 
@@ -16,10 +31,10 @@
 **Tên nhân vật trên Flow:** `@Pheo` · `@No`. Mỗi dòng khóa của nhân vật chính bắt đầu bằng `@Tên = …`, để Flow gọi đúng nhân vật đã lưu và model hiểu tên đó là nhân vật nào trong prompt.
 
 **Quy tắc dùng khóa:**
-- **FULL LOCK**: dán vào mọi Clip 1, và vào Clip 2/3 khi nhân vật **mới bước vào** (không có mặt ở clip ngay trước). Trong prompt, khối này nằm dưới nhãn `[CHARACTER ENTERING THIS SEGMENT]`.
-- **SHORT LOCK**: dán vào Clip 2/3 cho nhân vật **đã có mặt ở khung cuối clip trước**.
+- **FULL LOCK**: dán vào mọi Clip 1, và vào bất kỳ clip nào từ Clip 2 trở đi khi nhân vật **mới bước vào** (không có mặt ở clip ngay trước; thường là Hường ló vào bếp hoặc ở clip dọn ra ăn). Trong prompt, khối này nằm dưới nhãn `[CHARACTER ENTERING THIS SEGMENT]`.
+- **SHORT LOCK**: dán vào mọi clip từ Clip 2 trở đi cho nhân vật **đã có mặt ở khung cuối clip trước**.
 - Dán nguyên văn, không sửa chữ nào. Series này **không đổi trang phục** ở bất kỳ tập nào.
-- Clip 2/3 làm bằng Save frame → Frames (hoặc Extend, xem FLOW_GUIDE mục 1): nếu Flow cho đính thêm ảnh ở chế độ này, đính ảnh tham chiếu ở Clip 2/3. Gemini Omni nhận nhiều ảnh tham chiếu hơn giới hạn 3 ảnh của Veo; nếu Flow vẫn giới hạn, ưu tiên nhân vật rồi tới sản phẩm.
+- Clip 2 trở đi làm bằng Save frame → Frames (hoặc Extend, xem FLOW_GUIDE mục 1): nếu Flow cho đính thêm ảnh ở chế độ này, đính ảnh tham chiếu ở mọi clip. Gemini Omni nhận nhiều ảnh tham chiếu hơn giới hạn 3 ảnh của Veo; nếu Flow vẫn giới hạn, ưu tiên nhân vật rồi tới sản phẩm.
 
 ### Phèo
 
@@ -87,7 +102,7 @@ Ngay sau cửa bếp: bàn tròn gỗ tối, khăn ren trắng, nồi cơm đi�
 DINING CORNER: the dining corner just through the doorway of the same kitchen, beside a tall window with sheer white curtains. A round dark-wood table with a white lace runner, a white electric rice cooker, blue-and-white ceramic rice bowls, wooden chopsticks and a glass pitcher of iced tea. Hường's big carved wooden armchair with a pink cushion on the left side of the table; Phèo's small red plastic stool on the right side. The same warm golden late-morning sunlight, softly filtered through the curtains.
 ```
 
-**SHORT** (dự phòng cho Clip 4–5 nếu kéo tập dài hơn)
+**SHORT** (cho clip bàn ăn thứ hai, ví dụ Clip 10 khi Clip 9 đã ở bàn ăn)
 
 ```text
 DINING CORNER: same round dark-wood table with white lace runner by the curtained window, rice cooker, blue-and-white bowls, Hường's carved armchair with pink cushion on the left, Phèo's small red plastic stool on the right, warm golden light.
@@ -110,7 +125,7 @@ Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality s
 Background music: upbeat, playful acoustic guitar and light marimba kitchen tune, low volume under the dialogue.
 ```
 
-**Câu mở đầu clip 2/3** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend): hai dòng đầu tiên của mọi Clip 2/3.
+**Câu mở đầu clip 2 trở đi** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend): hai dòng đầu tiên của mọi clip từ Clip 2 đến clip cuối, trừ clip mở bằng Ingredients.
 
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
@@ -133,7 +148,7 @@ Phèo freezes completely mid-motion: eyes wide open as saucers with tiny pupils,
 Phèo freezes completely mid-motion: eyes wide open, whiskers stiff and straight, mouth slightly open, body perfectly still like a paused frame; only the tip of his notched LEFT ear twitches once. The camera slowly pushes into a medium close-up of his face and holds. His amber eyes well up with shining tears and a single tear rolls down his black cheek. The music softens into one gentle, warm piano chord.
 ```
 
-**Bố cục cố định**: bếp ga luôn ở bên phải khung hình; ở bàn ăn, Hường ngồi bên trái, Phèo ngồi bên phải. Khung cuối Clip 3 luôn đứng yên 1 giây để làm thumbnail.
+**Bố cục cố định**: bếp ga luôn ở bên phải khung hình; ở bàn ăn, Hường ngồi bên trái, Phèo ngồi bên phải. Khung cuối của clip cuối luôn đứng yên 1 giây để làm thumbnail.
 
 ---
 
@@ -175,6 +190,7 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 - Chụp ảnh thật từng sản phẩm trên nền trắng hoặc xám trơn, ánh sáng đều, mặt trước hướng vào máy, **mỗi ảnh 1 sản phẩm**.
 - Đặt tên: `SP_chao-chong-dinh`, `SP_noi-inox`, `SP_nuoc-mam`, `SP_dau-an`, `SP_hat-nem`.
 - Model không viết đúng chữ trên nhãn, nên prompt để nhãn trống; tên sản phẩm thêm bằng giỏ hàng TikTok hoặc lồng tiếng.
+- **Mỗi tập một sản phẩm chính** có ảnh tham chiếu, lên hình tối đa khoảng 9 giây, đính ảnh ở clip sản phẩm lên hình lần đầu; các chai lọ khác để nhãn trống, không đính ảnh, không gọi tên thương hiệu.
 
 ---
 
@@ -195,7 +211,7 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (30s = 3 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-8/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (từ Tập 9: từ 90s = 9 clip × 10s trở lên; Tập 1–7: 30s = 3 clip; Tập 8: 40s = 4 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` (từ Tập 9 ít nhất 9 file) là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-9/`, …) và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |

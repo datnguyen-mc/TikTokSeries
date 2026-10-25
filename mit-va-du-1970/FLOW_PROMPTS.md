@@ -2,16 +2,32 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 30s = 3 clip × 10s (bỏ Clip 3 → 20s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** từ Tập 13 mỗi tập **40–60s = 4–6 clip × 10s** tùy câu chuyện (Tập 1–12: 30s = 3 clip) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
 
 **Thế giới:** Miền Tây (Bến Tre – Cái Mơn) năm 1970. Cả nhà Mit là **chó nhân hóa 3D**, đi hai chân, bàn tay 4 ngón, không có con người. Tông màu hoài cổ (vàng mật ong, xanh lúa, nâu đất), hạt film nhẹ, giọng miền Tây.
 
+**Độ dài và cấu trúc (từ Tập 13):** 40–60 giây = 4–6 clip × 10s tùy câu chuyện; tông vui vẻ, tình yêu, gia đình.
+
+| Số clip | Khi nào | Bố cục |
+| --- | --- | --- |
+| 4 (40s, vừa một chuỗi Extend) | Một bối cảnh, một chuyện | 1 Mở · 2 Chuyện nhỏ · 3 Thương nhau · 4 Kết vui |
+| 5 (50s) | Hai bối cảnh hoặc có một bất ngờ | 1 Mở · 2–3 Chuyện nhỏ · 4 Thương nhau · 5 Kết vui |
+| 6 (60s) | Hai bước bất ngờ, hoặc nhắc lại tập cũ | 1 Mở · 2–4 Chuyện nhỏ · 5 Thương nhau · 6 Kết vui |
+
+- **Mở:** lát cắt đời thường miền Tây 1970 có chi tiết thật (việc đồng áng, bữa cơm quê, chợ ghe, trường làng) và một câu thoại gây tò mò.
+- **Chuyện nhỏ:** hiểu lầm, bất ngờ, một việc cả nhà cùng làm; mỗi clip đi thêm một bước, có cử chỉ và đồ vật đời thật.
+- **Thương nhau:** lời nói giản dị, cái nắm tay, món quà nhỏ. **Kết vui:** tiếng cười hoặc cái ôm; khung thumbnail đứng yên 1 giây.
+- **Từ Tập 13 (mùa vui):** gia đình đã ổn sau chặng sửa đổi; mỗi tập là một niềm vui đời thường miền Tây 1970: tát mương bắt cá, đi chợ nổi, đổ bánh xèo, thả diều, đờn ca tài tử, giỗ ông bà, Tết. Không kết bằng nước mắt hai tập liền. Trang phục mặc định: Trang phục A của cả nhà, trừ khi kịch bản ghi khác.
+
+- **Như người thật kể chuyện nhà mình:** chi tiết đúng thời 1970 (đồ vật, món ăn, cách nói miền Tây), không dùng đồ hiện đại; mỗi clip 2–3 câu thoại, tối đa khoảng 31 âm tiết.
+- **Sản phẩm** (đồ trẻ em: cặp, sách vở, bút…) xuất hiện tự nhiên trong chuyện, tối đa khoảng 10% thời lượng, lên hình chủ yếu trong một clip.
+
 **Cách dán prompt:**
 - Mỗi khối `text` bên dưới là **một lần dán** vào Flow. Dán nguyên khối, không sửa chữ.
-- **FULL LOCK** dùng ở Clip 1, và cho nhân vật **xuất hiện lần đầu** ở Clip 2/3 (dòng `Entering in this segment:`).
-- **SHORT LOCK** dùng ở Clip 2/3 cho nhân vật đã có mặt từ clip trước.
+- **FULL LOCK** dùng ở Clip 1, và cho nhân vật **xuất hiện lần đầu** ở bất kỳ clip nào từ Clip 2 trở đi (dòng `Entering in this segment:`).
+- **SHORT LOCK** dùng từ Clip 2 đến clip cuối cho nhân vật đã có mặt ở clip ngay trước.
 - Các khóa đã được chèn sẵn vào từng prompt, giống nhau từng chữ. Muốn đổi thiết kế nhân vật thì sửa ở mục 1, rồi dùng Find & Replace để sửa đồng loạt mọi chỗ.
-- Clip 2/3 làm bằng **Save frame → Frames** (start frame = khung cuối clip trước), hoặc bằng **Extend** nếu Flow đã có Extend cho Gemini Omni (xem FLOW_GUIDE mục 1). Nếu Flow cho đính thêm ảnh ở chế độ Frames, đính lại ảnh tham chiếu, kể cả ảnh của nhân vật mới vào ở clip đó.
+- Clip 2 trở đi làm bằng **Save frame → Frames** (start frame = khung cuối clip trước), hoặc bằng **Extend** nếu Flow đã có Extend cho Gemini Omni (xem FLOW_GUIDE mục 1). Nếu Flow cho đính thêm ảnh ở chế độ Frames, đính lại ảnh tham chiếu, kể cả ảnh của nhân vật mới vào ở clip đó.
 
 ---
 
@@ -201,7 +217,7 @@ Khối `[FORMAT]`, đặt ở đầu mọi prompt Clip 1:
 Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
-Câu mở đầu mọi prompt Clip 2/3 (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend):
+Câu mở đầu mọi prompt từ Clip 2 đến clip cuối (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend; clip mở bằng Ingredients thì dùng [FORMAT]):
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
 Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
@@ -238,7 +254,7 @@ Làm **một lần duy nhất trước khi dựng tập 1**, dùng cho cả seri
 | `REF_CO_GIAO` | Cô giáo Hai | 7 |
 | `REF_BA_VE_SO` | Bà bán vé số | 10 |
 
-**Ảnh sản phẩm** (Tập 7, 9, 10, 11, 12): chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm. Lưu thành `SP_CAP` (cặp), `SP_TAP` (tập vở), `SP_BUT` (bút), `SP_BUTMAU` (hộp bút màu), `SP_CAP_SACH` (cặp mới ở Tập 11), `SP_SACHTRUYEN` (sách truyện tranh) và đính kèm ở Clip 1 của tập có sản phẩm. Nên chọn mẫu màu trơn, ít họa tiết để hợp bối cảnh 1970. Với sách truyện, che hoặc xóa tựa và mọi chữ trên bìa trước khi tải ảnh lên, để bìa chỉ còn tranh.
+**Ảnh sản phẩm** (Tập 7, 9, 10, 11, 12): chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm. Lưu thành `SP_CAP` (cặp), `SP_TAP` (tập vở), `SP_BUT` (bút), `SP_BUTMAU` (hộp bút màu), `SP_CAP_SACH` (cặp mới ở Tập 11), `SP_SACHTRUYEN` (sách truyện tranh) và đính kèm ở clip sản phẩm lên hình lần đầu (thường là Clip 1). Nếu clip đó làm bằng Frames mà Flow không cho đính ảnh, cho sản phẩm có sẵn trong khung cuối của clip trước đã đính ảnh, hoặc mở clip đó bằng Ingredients. Nên chọn mẫu màu trơn, ít họa tiết để hợp bối cảnh 1970. Với sách truyện, che hoặc xóa tựa và mọi chữ trên bìa trước khi tải ảnh lên, để bìa chỉ còn tranh.
 
 **REF_MIT_A**
 ```text
@@ -335,7 +351,7 @@ Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (30s = 3 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-13/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (từ Tập 13: 40–60s = 4–6 clip × 10s; Tập 1–12: 30s = 3 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` (4–6 file; Tập 1–12: `clip-1.md` … `clip-3.md`) là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-13/`, …) và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |

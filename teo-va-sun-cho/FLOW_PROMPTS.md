@@ -2,9 +2,20 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 30s = 3 clip × 10s (bỏ Clip 3 → 20s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** từ Tập 7 mỗi tập **40–60s = 4–6 clip × 10s** tùy câu chuyện (Tập 1–6: 30s = 3 clip) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
 
 **Khán giả:** phụ nữ 18–50 · **Tỉ lệ nội dung:** 70% chuyện gia đình · 20% hài hước & cảm xúc · 10% sản phẩm
+
+**Độ dài và cấu trúc (từ Tập 7):** 40–60 giây = 4–6 clip × 10s tùy câu chuyện.
+
+| Số clip | Bố cục |
+| --- | --- |
+| 4 (40s) | 1 Mở · 2 Trục trặc · 3 Mẹo của Sún · 4 Thương nhau và kết vui |
+| 5 (50s) | 1 Mở · 2–3 Trục trặc · 4 Mẹo của Sún · 5 Thương nhau và kết vui |
+| 6 (60s) | 1 Mở · 2–3 Trục trặc · 4 Mẹo của Sún · 5 Thương nhau · 6 Kết vui |
+
+- **Mở:** một tình huống trong nhà có thật (chăm con, việc nhà, quà cáp, tiền chợ) và câu thoại gây tò mò. **Trục trặc:** Tèo vụng về hoặc làm quá tay. **Mẹo của Sún:** một mẹo đời sống có thật; sản phẩm lên hình trong **một clip duy nhất**, khoảng 4–6 giây, tên thương hiệu nói một lần. **Kết:** yêu thương kèm chút hài, em bé thường là điểm chốt; khung thumbnail đứng yên 1 giây.
+- **Như người thật chia sẻ:** mẹo chăm con, việc nhà phải đúng và an toàn (đặc biệt với em bé) và có nguồn trong README, ở mục **Mẹo trong tập** (mẹo nói gì, vì sao đúng, nguồn); mỗi clip 2–3 câu thoại, tối đa khoảng 31 âm tiết. Sản phẩm tối đa khoảng 10% thời lượng, tên thương hiệu chỉ nói bằng thoại.
 **Slogan:** ❤️ "Nhà Tèo & Sún – Chuyện nhỏ mỗi ngày, yêu thương đong đầy!" (chỉ nói bằng thoại, không hiện chữ)
 
 ---
@@ -13,7 +24,7 @@
 
 **Tên nhân vật trên Flow:** `@TeoTeo` (chó đực) · `@SunSun` (chó cái). Trong prompt hai nhân vật cũng được gọi là TeoTeo và SunSun. Mỗi dòng khóa của nhân vật chính bắt đầu bằng `@Tên = …`, để Flow gọi đúng nhân vật đã lưu và model hiểu tên đó là nhân vật nào trong prompt.
 
-Dán **nguyên văn** các khối bên dưới: **FULL LOCK** cho Clip 1, **SHORT LOCK** cho Clip 2 và 3. Các prompt trong từng file `tap-{số}/clip-{số}.md` đã chèn sẵn, chỉ cần copy.
+Dán **nguyên văn** các khối bên dưới: **FULL LOCK** cho Clip 1 và cho clip mà nhân vật xuất hiện lần đầu; **SHORT LOCK** từ Clip 2 đến clip cuối cho nhân vật đã có mặt ở clip ngay trước. Các prompt trong từng file `tap-{số}/clip-{số}.md` đã chèn sẵn, chỉ cần copy.
 
 ### Tèo (TeoTeo) — ông chồng
 
@@ -114,7 +125,7 @@ Khối `[FORMAT]`, đặt đầu mọi prompt **Clip 1**:
 Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, cozy warm family-sitcom look, soft global illumination, shallow depth of field, 24fps, cinematic warm color grade, compositions framed for vertical video with the key action centered. All characters are anthropomorphic Chihuahuas who walk upright on two legs, with expressive faces and paw-hands with four fingers. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
-Câu mở đầu, đặt đầu mọi prompt **Clip 2 và 3** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend):
+Câu mở đầu, đặt đầu mọi prompt **từ Clip 2 đến clip cuối** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend; clip mở bằng Ingredients thì dùng [FORMAT]):
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
 Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
@@ -155,7 +166,7 @@ Character reference sheet, high-end 3D animated film style, Pixar/Disney-quality
 
 **Kiểm tra trước khi chốt ảnh:** tai phải của Tèo có vết khuyết · Sún có nơ hồng · lông Sún trắng kem (không ngả vàng) · bé quấn khăn vàng · trên ảnh không có chữ.
 
-**Ảnh sản phẩm:** chụp sản phẩm thật trên nền trơn, đủ sáng, thẳng mặt trước, lưu thành `SP_TOPGIA.png` (giấy ăn), `SP_SUATAM.png`, `SP_NUOCGIAT.png`, `SP_NUOCRUACHEN.png`, `SP_SUATAMBE.png` (sữa tắm gội cho bé). Đính kèm cùng ảnh nhân vật ở Clip 1 của tập có sản phẩm đó.
+**Ảnh sản phẩm:** chụp sản phẩm thật trên nền trơn, đủ sáng, thẳng mặt trước, lưu thành `SP_TOPGIA.png` (giấy ăn), `SP_SUATAM.png`, `SP_NUOCGIAT.png`, `SP_NUOCRUACHEN.png`, `SP_SUATAMBE.png` (sữa tắm gội cho bé). Đính kèm ở clip sản phẩm lên hình lần đầu (cùng ảnh nhân vật nếu đó là Clip 1). Nếu clip đó làm bằng Frames mà Flow không cho đính ảnh, cho sản phẩm có sẵn trong khung cuối của clip trước đã đính ảnh, hoặc mở clip đó bằng Ingredients.
 
 ---
 
@@ -172,7 +183,7 @@ Character reference sheet, high-end 3D animated film style, Pixar/Disney-quality
 
 **Mạch nối các tập:** Tập 2 Tèo hứa "Mai anh giặt đồ luôn!" → Tập 3 Tèo giặt đồ, học bài "một nắp thôi" → Tập 4 Tèo rửa chén, nhớ bài "một giọt thôi". Nên đăng theo đúng thứ tự.
 
-**Bản 20 giây:** dừng sau Clip 2. Khung cuối Clip 2 của mọi tập đều được thiết kế để kết được.
+**Bản 20 giây (Tập 1–6):** dừng sau Clip 2. Khung cuối Clip 2 của các tập này đều được thiết kế để kết được.
 
 **Sản phẩm chưa có thương hiệu (Tập 2–4):** thoại đang để chung chung (ví dụ "chai sữa tắm này"). Muốn nhắc tên thương hiệu thì thay thẳng vào câu thoại, giữ mỗi câu tối đa 12 âm tiết.
 
@@ -180,7 +191,7 @@ Character reference sheet, high-end 3D animated film style, Pixar/Disney-quality
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (30s = 3 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` · `clip-2.md` · `clip-3.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-7/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (từ Tập 7: 40–60s = 4–6 clip × 10s; Tập 1–6: 30s = 3 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` (4–6 file; Tập 1–6: `clip-1.md` … `clip-3.md`) là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-7/`, …) và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |

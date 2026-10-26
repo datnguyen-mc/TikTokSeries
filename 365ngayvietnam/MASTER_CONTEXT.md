@@ -68,13 +68,15 @@ Toàn bộ phân cảnh 10 giây được ghi hình trong một cú máy mượt
 ### QUY TẮC 8: KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK
 Khung hình 9:16 dọc chuẩn điện ảnh 24fps sạch sẽ 100%.
 
-### QUY TẮC 9: QUY ĐỊNH BẮT BUỘC ĐỘI MŨ BẢO HIỂM KHI LÁI XE & LOGIC ĐẠO CỤ VẬT LÝ (MANDATORY PROP BLOCKING & HELMET RULE)
-- **Tuyệt đối không tự nhiên xuất hiện hoặc biến mất:** Mũ bảo hiểm phải có nguồn gốc vật lý cụ thể trong khung hình (móc trên ghi-đông xe, đặt trên bàn gỗ, để trên giá gỗ). Khi cần đội hoặc tháo, nhân vật phải có động tác hình thể thực tế: vươn tay gỡ móc/nhấc mũ, nâng mũ chụp lên đầu, ngón tay luồn dưới cằm cài chốt khóa quai (tiếng "tách" cơ học) hoặc bấm chốt nhả khóa nhấc mũ ra.
-- Khi điều khiển hoặc ngồi trên xe mô tô Scrambler di chuyển trên đường, cả @Vy và @Joi BẮT BUỘC PHẢI ĐỘI MŨ BẢO HIỂM.
-- **Quy chuẩn mũ bảo hiểm điện ảnh:** Mũ bảo hiểm 3/4 phong cách cổ điển (vintage open-face helmet) cao cấp, quai cài chắc chắn, trang bị kính chắn gió trong suốt (clear visor), đảm bảo **100% gương mặt, ánh mắt, biểu cảm và cử động môi lộ rõ hoàn toàn**.
-- **Mũ của @Vy:** Mũ 3/4 màu be ngà / kem viền da nâu vintage.
-- **Mũ của @Joi:** Mũ 3/4 màu xanh rêu nhám / xám titan viền da nâu mạnh mẽ.
-- Khi dừng xe vào quán ăn, đi thuyền hoặc đứng tham quan cố định: Tháo mũ bảo hiểm cầm tay hoặc móc gọn gàng trên ghi-đông xe Scrambler.
+### QUY TẮC 9: ĐỘI MŨ BẢO HIỂM TUỲ CẢNH LINH HOẠT & NỐI CẢNH HỢP LÝ (CONTEXTUAL HELMET & SEAMLESS LOGIC)
+- **Không ép lúc nào cũng phải đội mũ bảo hiểm:** Tùy từng hoàn cảnh cụ thể mà xây dựng hình ảnh tự nhiên, chân thực và thoải mái:
+  - **Khi xe đang lăn bánh hoặc di chuyển trên đường:** Bắt buộc đội mũ bảo hiểm 3/4 vintage (kính chắn trong suốt).
+  - **Khi dừng chân ngắm cảnh, thưởng thức ẩm thực, đi thuyền, chèo Sup, ngắm hoàng hôn, dạo phố:** KHÔNG đội mũ bảo hiểm, để nhân vật tự do khoe trọn mái tóc, biểu cảm rạng rỡ và trang phục đẹp mắt. Mũ bảo hiểm được treo/móc gọn gàng trên ghi-đông xe Scrambler tại bãi đỗ. Tuyệt đối không bắt nhân vật kè kè cầm mũ vào bàn ăn hay đội mũ khi đứng chill ngắm cảnh.
+- **Nối cảnh giữa các clip liền mạch & hợp lý (Continuity Logic):**
+  - Khi clip trước kết thúc bằng cảnh xe lăn bánh lên đường (có đội mũ) → Clip sau khi đã đến điểm mới: xe đã dừng ở bãi đỗ, mũ đã treo trên ghi-đông xe, nhân vật bước vào trải nghiệm điểm đến một cách tự nhiên.
+  - Khi một phân cảnh kết thúc bằng việc lên xe đi tiếp chặng mới: Nhân vật mới có động tác nhấc mũ từ xe đội lên đầu, cài quai chốt "tách" rồi mới nổ máy lăn bánh.
+- **Quy chuẩn mũ bảo hiểm điện ảnh:** Mũ bảo hiểm 3/4 vintage cổ điển cao cấp, kính chắn gió trong suốt (clear visor) lộ 100% gương mặt và biểu cảm. Mũ @Vy màu be ngà viền da nâu; mũ @Joi màu xanh rêu nhám viền da nâu.
+- **Không có xe máy trên thuyền/bè:** Khi trải nghiệm đường thủy (thuyền, bè tre, ván sup), xe máy và mũ bảo hiểm luôn ở bãi đỗ trên bờ, nhân vật mặc áo phao mỏng màu cam an toàn.
 
 ---
 
@@ -287,8 +289,8 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 |:---:|---|:---:|:---:|---|
 | **1** | Hà Giang | 7 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 lăn bánh rời Mèo Vạc trong hoàng hôn → hướng Cao Bằng |
 | **2** | Cao Bằng | 6 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 (kính xuống) lăn bánh rời Đèo Mã Phục hoàng hôn → hướng Bắc Kạn |
-| **3** | Bắc Kạn | 6 | 📋 OUTLINE | — |
-| **4** | Lạng Sơn | 6 | 📋 OUTLINE | — |
+| **3** | Bắc Kạn | 6 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 (kính xuống) lăn bánh xuôi Đèo Gió hoàng hôn → hướng Lạng Sơn |
+| **4** | Lạng Sơn | 6 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 lăn bánh rời Cột Cờ Phai Vệ hoàng hôn → hướng Tuyên Quang |
 | **5** | Tuyên Quang | 7 | 📋 OUTLINE | — |
 
 ---

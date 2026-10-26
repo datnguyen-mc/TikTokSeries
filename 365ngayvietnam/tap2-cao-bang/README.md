@@ -29,7 +29,7 @@
 | Clip | Tên Phân Cảnh | Trạng Thái Mũ Bảo Hiểm & Hành Động Chuyển Tiếp | File |
 |:---:|---|---|:---:|
 | **1** | **Mở Màn Thác Bản Giốc** | ĐANG ĐỘI MŨ (match-cut Tập 1), kính đẩy cao → Tháo mũ, móc ghi-đông → bước xuống bè tre | [clip-1.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap2-cao-bang/clip-1.md) |
-| **2** | **Bè Tre Sông Quây Sơn** | MŨ TRÊN XE Ở BẾN + áo phao cam → Cập bến, lên bờ, lấy mũ cầm tay vào quán | [clip-2.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap2-cao-bang/clip-2.md) |
+| **2** | **Bè Tre Sông Quây Sơn** | KHÔNG CÓ XE TRÊN BÈ. Áo phao cam trên bè tre (xe & mũ ở bãi xe trên cao) → Bè cập bến đá, chuẩn bị lên bờ | [clip-2.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap2-cao-bang/clip-2.md) |
 | **3** | **Phở Vịt Quay 7 Vị Trùng Khánh** | MŨ ĐẶT TRÊN BÀN GỖ → Nhấc mũ đưa cho nhau, dắt tay ra xe | [clip-3.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap2-cao-bang/clip-3.md) |
 | **4** | **Suối Lê Nin & Pác Bó** | ĐANG ĐỘI MŨ (kính đẩy cao) → Tháo mũ, móc ghi-đông → bước xuống bên suối | [clip-4.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap2-cao-bang/clip-4.md) |
 | **5** | **Bánh Áp Chao Giòn Rụm** | MŨ MÓC TRÊN GHI-ĐÔNG (xe đậu cạnh quầy) → Nhấc mũ, đội, cài quai, nổ máy | [clip-5.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap2-cao-bang/clip-5.md) |

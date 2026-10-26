@@ -20,7 +20,7 @@
 3. **KHOẢNG ĐỆM KHÔNG THOẠI CUỐI CLIP (00:07.5–00:10):** Thoại dứt điểm ở giây `00:07.5`. 2.5 giây cuối tuyệt đối KHÔNG THOẠI.
 
 4. **LOGIC ĐẠO CỤ VẬT LÝ — KHÔNG TỰ BIẾN MẤT HAY XUẤT HIỆN:**
-   - Đầu clip (00:00): Nối từ Clip 2 — hai người cầm mũ bảo hiểm bước vào quán, **đặt 02 mũ ngay ngắn lên đầu bàn gỗ**.
+   - Đầu clip (00:00): Nối tiếp sau khi đi bè ở Thác Bản Giốc (Clip 2), cả hai trở lại bãi xe trên cao lấy Scrambler lái về thị trấn Trùng Khánh. Dừng xe trước quán, hai người cầm 02 mũ bảo hiểm bước vào và **đặt 02 mũ ngay ngắn lên đầu bàn gỗ**.
    - Cuối clip (00:07.5–00:10): @Joi nhấc 02 mũ từ bàn, đưa mũ kem cho @Vy, cầm mũ rêu, bước ra xe.
 
 5. **KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG THẺ TÊN NHÂN VẬT.**

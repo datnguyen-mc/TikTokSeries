@@ -39,7 +39,7 @@ Veo 3.1 tạo **tối đa 8 giây mỗi lần**, nên mỗi tập gồm 3 clip 8
 | Mit & Đú 1970 | `@Mit` · `@Đú` · `@Nở` | Mit · Đú · Nở |
 | 365 Ngày Phèo Làm Nội Trợ | `@Pheo` · `@No` | PHÈO · BÀ CHỦ HƯỜNG |
 | Nhà Tèo & Sún | `@TeoTeo` (chó đực) · `@SunSun` (chó cái) | TeoTeo · SunSun |
-| Tây Du Ký 2026 | `@DuongTang` · `@NgoKhong` · `@BatGioi` · `@SaTang` | SƯ PHỤ · NGỘ KHÔNG · BÁT GIỚI · SA TĂNG |
+| Tây Du Ký 2026 | `@Thay` · `@DaiCa` · `@HeoLuoi` · `@UtKho` | THẦY · ĐẠI CA · HEO LƯỜI · ÚT KHỜ |
 
 Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo và Tây Du Ký giữ tên gốc trong phần còn lại của prompt: "No" là từ tiếng Anh, viết "No walks in…" model dễ hiểu nhầm. Nếu nhân vật trên Flow được tạo từ ảnh bộ đồ thường ngày, ở các tập mặc đồ khác (Mit & Đú tập 3, 4 và cảnh mơ tập 10, Tèo & Sún tập 2, Tây Du Ký tập 3) thì đính thêm ảnh bộ đồ đó.
 
@@ -93,6 +93,8 @@ Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo và T�
 ## 4. Cấu trúc một prompt
 
 Prompt viết **bằng tiếng Anh**, **thoại tiếng Việt** đặt trong ngoặc kép.
+
+> **Riêng Tây Du Ký 2026 là hoạt hình 2D** (từ 26/10/2026): [FORMAT] và câu mở đầu Clip 2/3 lấy ở mục 3 của [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md), không dùng khối 3D mẫu dưới đây.
 
 ### Clip 1 — tạo mới (Ingredients)
 
@@ -164,6 +166,7 @@ Start exactly from the provided first frame (the final frame of the previous cli
 | Nói sai thoại hoặc nói quá nhanh | Rút ngắn thoại, mỗi câu ≤ 10 âm tiết, hoặc lồng tiếng lại |
 | Hành động bị vội trong 8 giây | Bỏ bớt một hành động phụ ở mốc đó, giữ nguyên thoại và [END FRAME] |
 | Máy quay chuyển động lung tung | Ghi rõ `static camera` hoặc `slow push-in only` cho từng mốc thời gian |
+| Tây Du Ký ra hình 3D hoặc nửa 2D nửa 3D | Chỉ đính ảnh nhân vật bản 2D, không dùng lại ảnh 3D cũ, rồi tạo lại clip đó |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 24s = 3 clip × 8s (bỏ Clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** mỗi tập 24s = 3 clip × 8s (bỏ Clip 3 → 16s) · 9:16 · hoạt hình 2D · thoại tiếng Việt · không chữ trên video
 
 **Đặt tên file:** video `TDK_T01_C1_v1` (tập 01, clip 1, phiên bản 1) · ảnh tham chiếu `TDK_REF_<TÊN>` (xem mục 4)
 
@@ -13,36 +13,38 @@
 README của series mới chỉ có ý tưởng chung, nên tạo hình dưới đây được thiết kế mới và **cố định cho mọi tập**.
 
 - **Ý tưởng:** Thỉnh kinh xong, bốn thầy trò về Sài Gòn năm 2026, thuê chung một căn nhà ống trong hẻm. Mỗi tập là một drama đời thường như ăn vụng, tiền điện, chạy giao hàng, ngày lễ. Phép thuật cổ (gậy Như Ý, Cân Đẩu Vân, quạt Ba Tiêu) bị đem ra dùng vào chuyện vặt để gây cười.
+- **Tên nhân vật (theo bản hoạt hình 2D):** Thầy (Đường Tăng) · Đại Ca (Ngộ Không) · Heo Lười (Bát Giới) · Út Khờ (Sa Tăng). Thoại cũng gọi bằng tên này: đồ đệ gọi "Thầy" (gọi to: "Thầy ơi!"), không dùng lại "Sư phụ", "Lão Tôn", "lão Trư", "Đại sư huynh".
+- **Phong cách hình:** hoạt hình 2D vẽ tay (đổi từ 3D ngày 26/10/2026): nét viền đậm, màu phẳng, đổ bóng cel đơn giản, nền vẽ 2D. Phong cách được khóa ở [FORMAT] của Clip 1 và câu mở đầu Clip 2/3 (mục 3); cuối mọi [AVOID] có câu chặn hình 3D/CGI. Chỉ đính ảnh nhân vật bản 2D.
 - **Tạo hình gốc, không sao chép phim:** không dùng trang phục hay gương mặt của phim Tây Du Ký 1986 hoặc của bất kỳ diễn viên nào, để tránh vi phạm bản quyền. Mỗi nhân vật chỉ giữ dấu hiệu nhận diện kinh điển, phối thêm đồ hiện đại:
-  - **Ngộ Không:** vòng kim cô, gậy Như Ý thu nhỏ, áo bomber.
-  - **Bát Giới:** tai to, bụng phệ, cào chín răng dùng để gãi lưng.
-  - **Sa Tăng:** da xanh xám, râu đỏ, chuỗi hạt gỗ, tạp dề làm việc nhà. Bỏ chuỗi đầu lâu cho hợp TikTok.
-  - **Sư phụ:** áo cà sa cam nghệ, điện thoại giắt trong tay áo.
-- **Tôn trọng Phật giáo:** Sư phụ hiền, hơi ngây thơ, ăn chay và không bao giờ bị chế giễu; tiếng cười đến từ tình huống. Kệ thờ Phật trong nhà luôn ngay ngắn, không ai chạm vào, gió bão cũng không làm xê dịch (đã ghi sẵn trong [AVOID]).
+  - **Đại Ca:** vòng kim cô, gậy Như Ý thu nhỏ, áo bomber.
+  - **Heo Lười:** tai to, bụng phệ, cào chín răng dùng để gãi lưng.
+  - **Út Khờ:** da xanh xám, râu đỏ, chuỗi hạt gỗ, tạp dề làm việc nhà. Bỏ chuỗi đầu lâu cho hợp TikTok.
+  - **Thầy:** áo cà sa cam nghệ, điện thoại giắt trong tay áo.
+- **Tôn trọng Phật giáo:** Thầy hiền, hơi ngây thơ, ăn chay và không bao giờ bị chế giễu; tiếng cười đến từ tình huống. Kệ thờ Phật trong nhà luôn ngay ngắn, không ai chạm vào, gió bão cũng không làm xê dịch (đã ghi sẵn trong [AVOID]).
 - **Giọng:** cả nhà sống ở Sài Gòn nên nói giọng miền Nam, đồng bộ với các series khác của kênh.
 - **Nhạc nền:** đàn tranh, cồng, phách trên nền beat hip-hop nhẹ, chất cổ trang gặp hiện đại.
 - **Màu phép thuật:** mọi hiệu ứng phép (gậy dài ra, mây bay, gió quạt) đều có ánh vàng, để thống nhất cả series.
-- **Tỉ lệ chiều cao:** Sa Tăng cao nhất, rồi đến La Sát và Sư phụ (ngang nhau). Bát Giới thấp hơn Sư phụ một cái đầu nhưng ngang gấp đôi. Ngộ Không thấp nhất, chỉ tới ngực Sư phụ.
+- **Tỉ lệ chiều cao:** Út Khờ cao nhất, rồi đến La Sát và Thầy (ngang nhau). Heo Lười thấp hơn Thầy một cái đầu nhưng ngang gấp đôi. Đại Ca thấp nhất, chỉ tới ngực Thầy.
 
 **Xưng hô và dấu ấn nhân vật** (giữ cố định để khán giả nhớ):
 
 | Nhân vật | Tính cách | Xưng hô | Dấu ấn |
 | --- | --- | --- | --- |
-| Sư phụ | Hiền, chậm rãi, hơi ngây thơ | xưng "ta", gọi đệ tử là "đồ nhi" | chắp tay: "A Di Đà Phật..." |
-| Ngộ Không | Lanh, nóng tính, mê "phá án" | gọi Bát Giới là "lão Trư", Sa Tăng là "Sa sư đệ" | rút gậy chỉ mặt: "Khai mau!" |
-| Bát Giới | Lười, ham ăn, hay kêu oan | tự xưng "lão Trư" | tay luôn cầm đồ ăn: "Oan!" |
-| Sa Tăng | Ít nói, hiền, lo việc nhà | gọi Ngộ Không là "Đại sư huynh" | "Đại sư huynh nói phải." |
+| Thầy | Hiền, chậm rãi, hơi ngây thơ | xưng "ta", gọi đệ tử là "đồ nhi" | chắp tay: "A Di Đà Phật..." |
+| Đại Ca | Lanh, nóng tính, mê "phá án" | tự xưng "Đại Ca"; gọi thẳng tên "Heo Lười", "Út Khờ" | rút gậy chỉ mặt: "Khai mau!" |
+| Heo Lười | Lười, ham ăn, hay kêu oan | tự xưng "Heo Lười" | tay luôn cầm đồ ăn: "Oan!" |
+| Út Khờ | Ít nói, hiền, lo việc nhà | gọi "Thầy", "Đại Ca" | "Đại Ca nói phải." |
 | La Sát (bà chủ trọ) | Đanh đá, sang chảnh, dễ mềm lòng | xưng "chị", gọi cả bọn là "mấy đứa" | bung quạt "phạch" là có gió bão |
 
 ---
 
 ## 1. Khóa nhân vật (Character Bible)
 
-**Tên nhân vật trên Flow:** `@DuongTang` · `@NgoKhong` · `@BatGioi` · `@SaTang`. Mỗi dòng khóa của nhân vật chính bắt đầu bằng `@Tên = …`, để Flow gọi đúng nhân vật đã lưu và model hiểu tên đó là nhân vật nào trong prompt.
+**Tên nhân vật trên Flow:** `@Thay` · `@DaiCa` · `@HeoLuoi` · `@UtKho`. Mỗi dòng khóa của nhân vật chính bắt đầu bằng `@Tên = …`, để Flow gọi đúng nhân vật đã lưu và model hiểu tên đó là nhân vật nào trong prompt.
 
 > **FULL LOCK** dán vào mọi Clip 1, **SHORT LOCK** dán vào mọi Clip 2/3, giữ nguyên văn, không sửa chữ nào. Giọng nói đã nằm sẵn trong khóa.
 
-### 1.1 SƯ PHỤ (Đường Tăng)
+### 1.1 THẦY (Đường Tăng)
 
 Nhà sư trẻ chừng 27–29 tuổi, đầu cạo trọc, mặt tròn phúc hậu, mắt hiền. Áo cà sa cam nghệ, dải cà sa đỏ đậm vắt vai trái, chuỗi hạt gỗ nâu, dép cỏ, điện thoại giắt trong tay áo. Đi đứng chậm rãi, hay chắp tay, hơi ngây thơ, ăn chay.
 **Giọng:** nam trẻ, nhẹ nhàng, chậm rãi, êm ái.
@@ -50,16 +52,16 @@ Nhà sư trẻ chừng 27–29 tuổi, đầu cạo trọc, mặt tròn phúc h�
 **FULL LOCK**
 
 ```text
-@DuongTang = SƯ PHỤ: a young human Buddhist monk in his late twenties, slim build, medium height, smooth shaved head, soft round face with gentle rosy cheeks, calm kind almond-shaped dark-brown eyes and a faint serene smile; wears a loose saffron-orange monk's robe with a deep-red kasaya sash draped over the left shoulder, a string of polished brown wooden prayer beads around his neck and simple straw sandals; a modern smartphone tucked inside his wide right sleeve. Moves slowly and gracefully, hands often pressed together at the chest. Voice: gentle, slow, soothing young male voice.
+@Thay = THẦY: a young human Buddhist monk in his late twenties, slim build, medium height, smooth shaved head, soft round face with gentle rosy cheeks, calm kind almond-shaped dark-brown eyes and a faint serene smile; wears a loose saffron-orange monk's robe with a deep-red kasaya sash draped over the left shoulder, a string of polished brown wooden prayer beads around his neck and simple straw sandals; a modern smartphone tucked inside his wide right sleeve. Moves slowly and gracefully, hands often pressed together at the chest. Voice: gentle, slow, soothing young male voice.
 ```
 
 **SHORT LOCK**
 
 ```text
-@DuongTang = SƯ PHỤ: young shaved-head human monk, soft round face, calm kind eyes, saffron-orange robe with deep-red kasaya sash, brown wooden prayer beads; gentle, slow, soothing young male voice.
+@Thay = THẦY: young shaved-head human monk, soft round face, calm kind eyes, saffron-orange robe with deep-red kasaya sash, brown wooden prayer beads; gentle, slow, soothing young male voice.
 ```
 
-### 1.2 NGỘ KHÔNG — Biến thể A (mặc định)
+### 1.2 ĐẠI CA (Ngộ Không) — Biến thể A (mặc định)
 
 Khỉ nhân hóa nhỏ con, lanh lẹ, thấp nhất nhóm; lông nâu vàng, mặt đỏ hồng hình trái tim, mắt hổ phách tinh nghịch, đuôi dài cong; vòng kim cô vàng mảnh. Áo bomber đỏ, áo thun vàng trơn, quần túi hộp vằn hổ cam đen, đi chân trần; gậy Như Ý thu nhỏ bằng cây bút giắt sau tai phải.
 **Giọng:** nam trẻ, nói nhanh, sắc, lanh lợi, nóng tính.
@@ -67,16 +69,16 @@ Khỉ nhân hóa nhỏ con, lanh lẹ, thấp nhất nhóm; lông nâu vàng, m�
 **FULL LOCK**
 
 ```text
-@NgoKhong = NGỘ KHÔNG: an anthropomorphic monkey with a small, wiry, agile build, the shortest of the group, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; a thin golden circlet headband around his head; wears a red bomber jacket over a plain yellow t-shirt and orange-and-black tiger-stripe cargo shorts, barefoot; a pen-sized red-and-gold staff tucked behind his right ear that can instantly extend into a long staff. Quick, restless, acrobatic movements; often perches on furniture. Voice: fast, sharp, quick-witted, hot-tempered young male voice.
+@DaiCa = ĐẠI CA: an anthropomorphic monkey with a small, wiry, agile build, the shortest of the group, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; a thin golden circlet headband around his head; wears a red bomber jacket over a plain yellow t-shirt and orange-and-black tiger-stripe cargo shorts, barefoot; a pen-sized red-and-gold staff tucked behind his right ear that can instantly extend into a long staff. Quick, restless, acrobatic movements; often perches on furniture. Voice: fast, sharp, quick-witted, hot-tempered young male voice.
 ```
 
 **SHORT LOCK**
 
 ```text
-@NgoKhong = NGỘ KHÔNG: small golden-brown monkey, heart-shaped pinkish-red face, amber eyes, thin golden circlet headband, red bomber jacket over plain yellow t-shirt, tiger-stripe cargo shorts, pen-sized staff behind right ear; fast, sharp, quick-witted, hot-tempered young male voice.
+@DaiCa = ĐẠI CA: small golden-brown monkey, heart-shaped pinkish-red face, amber eyes, thin golden circlet headband, red bomber jacket over plain yellow t-shirt, tiger-stripe cargo shorts, pen-sized staff behind right ear; fast, sharp, quick-witted, hot-tempered young male voice.
 ```
 
-### 1.3 NGỘ KHÔNG — Biến thể B (áo giao hàng · Tập 3)
+### 1.3 ĐẠI CA — Biến thể B (áo giao hàng · Tập 3)
 
 Giữ nguyên khuôn mặt, màu lông và vòng kim cô (lộ ra dưới vành mũ). Áo khoác shipper xanh lá phối vàng, trơn, không logo; mũ bảo hiểm nửa đầu màu xanh lá; điện thoại gắn ở cẳng tay trái; đứng trên **Cân Đẩu Vân** (đám mây vàng nhỏ) như đứng trên ván trượt bay. Bỏ gậy sau tai vì vướng mũ.
 **Giọng:** như biến thể A.
@@ -84,16 +86,16 @@ Giữ nguyên khuôn mặt, màu lông và vòng kim cô (lộ ra dưới vành 
 **FULL LOCK**
 
 ```text
-@NgoKhong = NGỘ KHÔNG (DELIVERY OUTFIT): the same anthropomorphic monkey with a small, wiry, agile build, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; the thin golden circlet headband visible across his forehead under an open-face green helmet; wears a plain green-and-yellow delivery rider jacket with no logos or text and orange-and-black tiger-stripe cargo shorts, barefoot; a smartphone in a clear holder strapped to his left forearm; he rides CÂN ĐẨU VÂN, a small fluffy golden cloud he stands on like a hoverboard. Quick, restless, acrobatic movements. Voice: fast, sharp, quick-witted, hot-tempered young male voice.
+@DaiCa = ĐẠI CA (DELIVERY OUTFIT): the same anthropomorphic monkey with a small, wiry, agile build, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; the thin golden circlet headband visible across his forehead under an open-face green helmet; wears a plain green-and-yellow delivery rider jacket with no logos or text and orange-and-black tiger-stripe cargo shorts, barefoot; a smartphone in a clear holder strapped to his left forearm; he rides CÂN ĐẨU VÂN, a small fluffy golden cloud he stands on like a hoverboard. Quick, restless, acrobatic movements. Voice: fast, sharp, quick-witted, hot-tempered young male voice.
 ```
 
 **SHORT LOCK**
 
 ```text
-@NgoKhong = NGỘ KHÔNG (DELIVERY OUTFIT): small golden-brown monkey, heart-shaped pinkish-red face, amber eyes, golden circlet under an open-face green helmet, plain green-and-yellow rider jacket, tiger-stripe cargo shorts, phone on left forearm, rides a small golden cloud; fast, sharp, quick-witted, hot-tempered young male voice.
+@DaiCa = ĐẠI CA (DELIVERY OUTFIT): small golden-brown monkey, heart-shaped pinkish-red face, amber eyes, golden circlet under an open-face green helmet, plain green-and-yellow rider jacket, tiger-stripe cargo shorts, phone on left forearm, rides a small golden cloud; fast, sharp, quick-witted, hot-tempered young male voice.
 ```
 
-### 1.4 BÁT GIỚI
+### 1.4 HEO LƯỜI (Bát Giới)
 
 Heo nhân hóa tròn ủng, bụng phệ, da hồng, tai to cụp che đôi mắt híp, mõm to. Áo thun đen trơn rộng thùng thình, khoác áo choàng xanh navy mở vạt, dép kẹp cao su đen. Cây cào chín răng nhỏ luôn kè kè bên người (đeo chéo lưng hoặc dựng bên cạnh) để gãi lưng; tay gần như lúc nào cũng cầm đồ ăn. Dáng lười, đi lạch bạch.
 **Giọng:** nam, mập mạp, lười biếng, hay than, giọng mũi hài hước.
@@ -101,16 +103,16 @@ Heo nhân hóa tròn ủng, bụng phệ, da hồng, tai to cụp che đôi mắ
 **FULL LOCK**
 
 ```text
-@BatGioi = BÁT GIỚI: an anthropomorphic pig, chubby and very round with a big bouncy belly, soft pink skin, large floppy ears hanging over small squinting dark eyes, a wide pink snout, rosy cheeks and a short curly tail; wears an oversized plain black t-shirt under an open, loose navy-blue robe with wide sleeves, and black rubber flip-flops; his small nine-tooth iron rake is always nearby, slung across his back or leaning beside him, and he uses it as a back-scratcher; almost always holding a snack. Lazy, slouching posture; waddles when he walks. Voice: chubby, lazy, whiny, comically nasal male voice.
+@HeoLuoi = HEO LƯỜI: an anthropomorphic pig, chubby and very round with a big bouncy belly, soft pink skin, large floppy ears hanging over small squinting dark eyes, a wide pink snout, rosy cheeks and a short curly tail; wears an oversized plain black t-shirt under an open, loose navy-blue robe with wide sleeves, and black rubber flip-flops; his small nine-tooth iron rake is always nearby, slung across his back or leaning beside him, and he uses it as a back-scratcher; almost always holding a snack. Lazy, slouching posture; waddles when he walks. Voice: chubby, lazy, whiny, comically nasal male voice.
 ```
 
 **SHORT LOCK**
 
 ```text
-@BatGioi = BÁT GIỚI: chubby round pink pig, big belly, floppy ears, small squinting eyes, wide snout, oversized plain black t-shirt under open navy-blue robe, black flip-flops, small nine-tooth rake nearby; chubby, lazy, whiny, comically nasal male voice.
+@HeoLuoi = HEO LƯỜI: chubby round pink pig, big belly, floppy ears, small squinting eyes, wide snout, oversized plain black t-shirt under open navy-blue robe, black flip-flops, small nine-tooth rake nearby; chubby, lazy, whiny, comically nasal male voice.
 ```
 
-### 1.5 SA TĂNG
+### 1.5 ÚT KHỜ (Sa Tăng)
 
 Người khổng lồ hiền lành, cao nhất nhóm, vai rộng; da xanh xám, đầu trọc, râu đỏ gạch ngắn gọn, lông mày rậm, mắt nhỏ hiền. Áo choàng nâu đất xắn tay, tạp dề xanh ô liu bạc màu, chuỗi hạt gỗ sẫm hạt to (không có đầu lâu). Chậm rãi, hay khuân vác giúp mọi người, rất ít nói.
 **Giọng:** nam, rất trầm, chậm, điềm tĩnh.
@@ -118,13 +120,13 @@ Người khổng lồ hiền lành, cao nhất nhóm, vai rộng; da xanh xám, 
 **FULL LOCK**
 
 ```text
-@SaTang = SA TĂNG: a very tall, broad-shouldered gentle giant, the tallest of the group, smooth blue-grey skin, a bald head, a short neat rust-red beard, thick eyebrows, small kind dark eyes and a calm, patient expression; wears a plain earth-brown robe with rolled-up sleeves, a faded olive-green kitchen apron tied over it, and a long necklace of large round dark-wood prayer beads; huge, careful hands. Moves slowly and steadily, often holding or carrying things for the others; speaks very few words. Voice: very deep, slow, calm male voice.
+@UtKho = ÚT KHỜ: a very tall, broad-shouldered gentle giant, the tallest of the group, smooth blue-grey skin, a bald head, a short neat rust-red beard, thick eyebrows, small kind dark eyes and a calm, patient expression; wears a plain earth-brown robe with rolled-up sleeves, a faded olive-green kitchen apron tied over it, and a long necklace of large round dark-wood prayer beads; huge, careful hands. Moves slowly and steadily, often holding or carrying things for the others; speaks very few words. Voice: very deep, slow, calm male voice.
 ```
 
 **SHORT LOCK**
 
 ```text
-@SaTang = SA TĂNG: very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace; very deep, slow, calm male voice.
+@UtKho = ÚT KHỜ: very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace; very deep, slow, calm male voice.
 ```
 
 ### 1.6 LA SÁT — bà chủ trọ (nhân vật phụ · Tập 2, 4)
@@ -161,21 +163,21 @@ KHÁCH: a young Vietnamese office woman in her mid-twenties, petite, with should
 KHÁCH: petite young office woman, shoulder-length black hair with blunt bangs, round tortoiseshell glasses, white blouse, light-blue trousers, white sneakers, smartphone in hand; bright, high-pitched young female voice.
 ```
 
-### 1.8 PHÂN THÂN NGỘ KHÔNG — 5 bản sao tí hon (hiệu ứng phép · Tập 5)
+### 1.8 PHÂN THÂN ĐẠI CA — 5 bản sao tí hon (hiệu ứng phép · Tập 5)
 
-Ngộ Không nhổ một nhúm lông, thổi ra ánh vàng thành 5 bản sao cao bằng cái tách trà. Bản sao giống hệt Ngộ Không biến thể A (không có gậy), luôn cử động đồng loạt và **bắt chước y chang tính khí của Ngộ Không**. Không cần ảnh tham chiếu riêng: model dựng từ chính Ngộ Không đang có trong khung hình.
-**Giọng:** bản cao vút của giọng Ngộ Không, luôn nói đồng thanh.
+Đại Ca nhổ một nhúm lông, thổi ra ánh vàng thành 5 bản sao cao bằng cái tách trà. Bản sao giống hệt Đại Ca biến thể A (không có gậy), luôn cử động đồng loạt và **bắt chước y chang tính khí của Đại Ca**. Không cần ảnh tham chiếu riêng: model dựng từ chính Đại Ca đang có trong khung hình.
+**Giọng:** bản cao vút của giọng Đại Ca, luôn nói đồng thanh.
 
 **FULL LOCK** (dùng ở clip bản sao xuất hiện lần đầu)
 
 ```text
-NGỘ KHÔNG CLONES: five magical palm-sized copies of NGỘ KHÔNG, each only as tall as a teacup, identical to him in every detail: an anthropomorphic monkey with a small, wiry, agile build, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; a thin golden circlet headband around his head; wears a red bomber jacket over a plain yellow t-shirt and orange-and-black tiger-stripe cargo shorts, barefoot; no staff. They pop into existence in a puff of golden sparkles, move in perfect unison and copy NGỘ KHÔNG's own attitude exactly. Voice: a higher-pitched copy of NGỘ KHÔNG's fast, sharp, quick-witted young male voice, always speaking in unison.
+ĐẠI CA CLONES: five magical palm-sized copies of ĐẠI CA, each only as tall as a teacup, identical to him in every detail: an anthropomorphic monkey with a small, wiry, agile build, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; a thin golden circlet headband around his head; wears a red bomber jacket over a plain yellow t-shirt and orange-and-black tiger-stripe cargo shorts, barefoot; no staff. They pop into existence in a puff of golden sparkles, move in perfect unison and copy ĐẠI CA's own attitude exactly. Voice: a higher-pitched copy of ĐẠI CA's fast, sharp, quick-witted young male voice, always speaking in unison.
 ```
 
 **SHORT LOCK**
 
 ```text
-NGỘ KHÔNG CLONES: five teacup-tall identical copies of NGỘ KHÔNG (golden-brown monkeys, heart-shaped pinkish-red faces, thin golden circlets, red bomber jackets over plain yellow t-shirts, tiger-stripe cargo shorts, no staff), moving in perfect unison; higher-pitched copy of his voice, speaking in unison.
+ĐẠI CA CLONES: five teacup-tall identical copies of ĐẠI CA (golden-brown monkeys, heart-shaped pinkish-red faces, thin golden circlets, red bomber jackets over plain yellow t-shirts, tiger-stripe cargo shorts, no staff), moving in perfect unison; higher-pitched copy of his voice, speaking in unison.
 ```
 
 ---
@@ -228,7 +230,7 @@ A wide riverside promenade in Bạch Đằng wharf park, central Saigon, at gold
 
 ```text
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated comedy film, Pixar/Disney-quality stylized CGI, original character designs, soft global illumination, shallow depth of field, 24fps, warm cinematic color grade, snappy comedic timing with expressive cartoon facial animation. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 8-second shot, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 **Nhạc nền**: câu cố định, luôn có trong [SOUND]
@@ -240,65 +242,65 @@ Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-b
 **Câu mở đầu clip 2/3** (làm bằng Frames, start frame = khung cuối clip trước): dán ở đầu mọi Clip 2/3
 
 ```text
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade, same 2D hand-drawn cartoon style with clean bold outlines and flat cel-shaded colors. Flawless continuity, no time skip, no jump cut at the start.
 ```
 
 ---
 
 ## 4. Ảnh tham chiếu nhân vật
 
-Tạo bằng chế độ tạo ảnh trong Flow (Nano Banana / Imagen), tỉ lệ **16:9**. Mỗi nhân vật chạy 2–4 lần, chọn ảnh đẹp nhất, lưu đúng tên file rồi dùng lại cho mọi tập.
+Tạo bằng chế độ tạo ảnh trong Flow (Nano Banana / Imagen), tỉ lệ **16:9**. Mỗi nhân vật chạy 2–4 lần, chọn ảnh đẹp nhất, lưu đúng tên file rồi dùng lại cho mọi tập. Ảnh 3D tạo trước ngày 26/10/2026 không dùng nữa: tạo lại bằng các prompt 2D dưới đây, hoặc dùng ảnh 2D đã có của nhân vật trên Flow.
 
 Nếu cần thêm ảnh cận mặt, giữ nguyên prompt nhưng thay câu `Full body shown in four views side by side: front, three-quarter, side profile and back.` bằng `Close-up head-and-shoulders portrait, front view.`
 
-### 4.1 `TDK_REF_SUPHU` — Sư phụ
+### 4.1 `TDK_REF_THAY` — Thầy
 
 ```text
-Character turnaround sheet of an original 3D animated character: a young human Buddhist monk in his late twenties, slim build, medium height, smooth shaved head, soft round face with gentle rosy cheeks, calm kind almond-shaped dark-brown eyes and a faint serene smile; wears a loose saffron-orange monk's robe with a deep-red kasaya sash draped over the left shoulder, a string of polished brown wooden prayer beads around his neck and simple straw sandals; a modern smartphone tucked inside his wide right sleeve. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose with hands pressed together at the chest, calm, kind expression. High-end 3D animated film style, Pixar/Disney-quality stylized CGI, soft even studio lighting, plain light-grey seamless background. No text, no labels, no numbers, no watermark.
+Character turnaround sheet of an original 2D cartoon character: a young human Buddhist monk in his late twenties, slim build, medium height, smooth shaved head, soft round face with gentle rosy cheeks, calm kind almond-shaped dark-brown eyes and a faint serene smile; wears a loose saffron-orange monk's robe with a deep-red kasaya sash draped over the left shoulder, a string of polished brown wooden prayer beads around his neck and simple straw sandals; a modern smartphone tucked inside his wide right sleeve. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose with hands pressed together at the chest, calm, kind expression. 2D hand-drawn cartoon style, clean bold outlines, flat colors with simple cel shading, plain light-grey background. No text, no labels, no numbers, no watermark.
 ```
 
-### 4.2 `TDK_REF_NGOKHONG_A` — Ngộ Không (biến thể A)
+### 4.2 `TDK_REF_DAICA_A` — Đại Ca (biến thể A)
 
 ```text
-Character turnaround sheet of an original 3D animated character: an anthropomorphic monkey with a small, wiry, agile build, the shortest of the group, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; a thin golden circlet headband around his head; wears a red bomber jacket over a plain yellow t-shirt and orange-and-black tiger-stripe cargo shorts, barefoot; a pen-sized red-and-gold staff tucked behind his right ear that can instantly extend into a long staff. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose, confident cheeky grin, tail curled. High-end 3D animated film style, Pixar/Disney-quality stylized CGI, soft even studio lighting, plain light-grey seamless background. No text, no labels, no numbers, no watermark.
+Character turnaround sheet of an original 2D cartoon character: an anthropomorphic monkey with a small, wiry, agile build, the shortest of the group, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; a thin golden circlet headband around his head; wears a red bomber jacket over a plain yellow t-shirt and orange-and-black tiger-stripe cargo shorts, barefoot; a pen-sized red-and-gold staff tucked behind his right ear that can instantly extend into a long staff. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose, confident cheeky grin, tail curled. 2D hand-drawn cartoon style, clean bold outlines, flat colors with simple cel shading, plain light-grey background. No text, no labels, no numbers, no watermark.
 ```
 
-### 4.3 `TDK_REF_NGOKHONG_B` — Ngộ Không (biến thể B, áo giao hàng)
+### 4.3 `TDK_REF_DAICA_B` — Đại Ca (biến thể B, áo giao hàng)
 
 ```text
-Character turnaround sheet of an original 3D animated character: an anthropomorphic monkey with a small, wiry, agile build, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; the thin golden circlet headband visible across his forehead under an open-face green helmet; wears a plain green-and-yellow delivery rider jacket with no logos or text and orange-and-black tiger-stripe cargo shorts, barefoot; a smartphone in a clear holder strapped to his left forearm; he rides CÂN ĐẨU VÂN, a small fluffy golden cloud he stands on like a hoverboard. Full body shown in four views side by side: front, three-quarter, side profile and back. Standing on the small fluffy golden cloud hovering just above the ground, confident cheeky grin, tail curled. High-end 3D animated film style, Pixar/Disney-quality stylized CGI, soft even studio lighting, plain light-grey seamless background. No text, no labels, no numbers, no watermark.
+Character turnaround sheet of an original 2D cartoon character: an anthropomorphic monkey with a small, wiry, agile build, golden-brown fur, a heart-shaped pinkish-red bare face, bright amber eyes with a mischievous spark, large expressive ears and a long curling tail; the thin golden circlet headband visible across his forehead under an open-face green helmet; wears a plain green-and-yellow delivery rider jacket with no logos or text and orange-and-black tiger-stripe cargo shorts, barefoot; a smartphone in a clear holder strapped to his left forearm; he rides CÂN ĐẨU VÂN, a small fluffy golden cloud he stands on like a hoverboard. Full body shown in four views side by side: front, three-quarter, side profile and back. Standing on the small fluffy golden cloud hovering just above the ground, confident cheeky grin, tail curled. 2D hand-drawn cartoon style, clean bold outlines, flat colors with simple cel shading, plain light-grey background. No text, no labels, no numbers, no watermark.
 ```
 
-### 4.4 `TDK_REF_BATGIOI` — Bát Giới
+### 4.4 `TDK_REF_HEOLUOI` — Heo Lười
 
 ```text
-Character turnaround sheet of an original 3D animated character: an anthropomorphic pig, chubby and very round with a big bouncy belly, soft pink skin, large floppy ears hanging over small squinting dark eyes, a wide pink snout, rosy cheeks and a short curly tail; wears an oversized plain black t-shirt under an open, loose navy-blue robe with wide sleeves, and black rubber flip-flops; his small nine-tooth iron rake is always nearby, slung across his back or leaning beside him, and he uses it as a back-scratcher; almost always holding a snack. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose, belly forward, lazy happy smile, the rake slung across his back. High-end 3D animated film style, Pixar/Disney-quality stylized CGI, soft even studio lighting, plain light-grey seamless background. No text, no labels, no numbers, no watermark.
+Character turnaround sheet of an original 2D cartoon character: an anthropomorphic pig, chubby and very round with a big bouncy belly, soft pink skin, large floppy ears hanging over small squinting dark eyes, a wide pink snout, rosy cheeks and a short curly tail; wears an oversized plain black t-shirt under an open, loose navy-blue robe with wide sleeves, and black rubber flip-flops; his small nine-tooth iron rake is always nearby, slung across his back or leaning beside him, and he uses it as a back-scratcher; almost always holding a snack. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose, belly forward, lazy happy smile, the rake slung across his back. 2D hand-drawn cartoon style, clean bold outlines, flat colors with simple cel shading, plain light-grey background. No text, no labels, no numbers, no watermark.
 ```
 
-### 4.5 `TDK_REF_SATANG` — Sa Tăng
+### 4.5 `TDK_REF_UTKHO` — Út Khờ
 
 ```text
-Character turnaround sheet of an original 3D animated character: a very tall, broad-shouldered gentle giant, the tallest of the group, smooth blue-grey skin, a bald head, a short neat rust-red beard, thick eyebrows, small kind dark eyes and a calm, patient expression; wears a plain earth-brown robe with rolled-up sleeves, a faded olive-green kitchen apron tied over it, and a long necklace of large round dark-wood prayer beads; huge, careful hands. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose, huge hands clasped in front of the apron, calm gentle smile. High-end 3D animated film style, Pixar/Disney-quality stylized CGI, soft even studio lighting, plain light-grey seamless background. No text, no labels, no numbers, no watermark.
+Character turnaround sheet of an original 2D cartoon character: a very tall, broad-shouldered gentle giant, the tallest of the group, smooth blue-grey skin, a bald head, a short neat rust-red beard, thick eyebrows, small kind dark eyes and a calm, patient expression; wears a plain earth-brown robe with rolled-up sleeves, a faded olive-green kitchen apron tied over it, and a long necklace of large round dark-wood prayer beads; huge, careful hands. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose, huge hands clasped in front of the apron, calm gentle smile. 2D hand-drawn cartoon style, clean bold outlines, flat colors with simple cel shading, plain light-grey background. No text, no labels, no numbers, no watermark.
 ```
 
 ### 4.6 `TDK_REF_LASAT` — La Sát
 
 ```text
-Character turnaround sheet of an original 3D animated character: an elegant, fierce human woman in her late thirties, the landlady; tall and slender with porcelain skin, sharp winged eyebrows, intense dark eyes with red eyeliner and bold red lips; glossy black hair in a high bun held by long gold hairpins; wears a fitted red silk áo dài with subtle gold phoenix embroidery over black silk trousers, and gold bangles; carries QUẠT BA TIÊU, a giant fan shaped like a deep-green banana leaf with a red-lacquered handle, which she snaps open and shut. Full body shown in four views side by side: front, three-quarter, side profile and back. Proud upright standing pose, the closed giant fan held in her right hand, one eyebrow raised. High-end 3D animated film style, Pixar/Disney-quality stylized CGI, soft even studio lighting, plain light-grey seamless background. No text, no labels, no numbers, no watermark.
+Character turnaround sheet of an original 2D cartoon character: an elegant, fierce human woman in her late thirties, the landlady; tall and slender with porcelain skin, sharp winged eyebrows, intense dark eyes with red eyeliner and bold red lips; glossy black hair in a high bun held by long gold hairpins; wears a fitted red silk áo dài with subtle gold phoenix embroidery over black silk trousers, and gold bangles; carries QUẠT BA TIÊU, a giant fan shaped like a deep-green banana leaf with a red-lacquered handle, which she snaps open and shut. Full body shown in four views side by side: front, three-quarter, side profile and back. Proud upright standing pose, the closed giant fan held in her right hand, one eyebrow raised. 2D hand-drawn cartoon style, clean bold outlines, flat colors with simple cel shading, plain light-grey background. No text, no labels, no numbers, no watermark.
 ```
 
 ### 4.7 `TDK_REF_KHACH` — Cô khách
 
 ```text
-Character turnaround sheet of an original 3D animated character: a young Vietnamese office woman in her mid-twenties, petite, with shoulder-length straight black hair and blunt bangs, round tortoiseshell glasses and wide expressive eyes; wears a crisp white short-sleeve blouse, light-blue high-waisted trousers and white sneakers; holds a smartphone. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose holding the smartphone at chest height, friendly expression. High-end 3D animated film style, Pixar/Disney-quality stylized CGI, soft even studio lighting, plain light-grey seamless background. No text, no labels, no numbers, no watermark.
+Character turnaround sheet of an original 2D cartoon character: a young Vietnamese office woman in her mid-twenties, petite, with shoulder-length straight black hair and blunt bangs, round tortoiseshell glasses and wide expressive eyes; wears a crisp white short-sleeve blouse, light-blue high-waisted trousers and white sneakers; holds a smartphone. Full body shown in four views side by side: front, three-quarter, side profile and back. Neutral standing pose holding the smartphone at chest height, friendly expression. 2D hand-drawn cartoon style, clean bold outlines, flat colors with simple cel shading, plain light-grey background. No text, no labels, no numbers, no watermark.
 ```
 
 ### 4.8 `TDK_REF_GROUP` — Ảnh xếp hàng bốn thầy trò
 
-Ảnh này khóa tỉ lệ chiều cao. Khi Flow giới hạn số ảnh đính kèm, có thể đính **một ảnh nhóm này thay cho bốn ảnh lẻ** của Sư phụ, Ngộ Không (A), Bát Giới và Sa Tăng.
+Ảnh này khóa tỉ lệ chiều cao. Khi Flow giới hạn số ảnh đính kèm, có thể đính **một ảnh nhóm này thay cho bốn ảnh lẻ** của Thầy, Đại Ca (A), Heo Lười và Út Khờ.
 
 ```text
-Height comparison lineup of four original 3D animated characters standing side by side, full body, front view, on a plain light-grey seamless background, soft even studio lighting. From left to right: a very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace (the tallest of the group); a young shaved-head human monk, soft round face, calm kind eyes, saffron-orange robe with deep-red kasaya sash, brown wooden prayer beads (medium height); a chubby round pink pig, big belly, floppy ears, small squinting eyes, wide snout, oversized plain black t-shirt under open navy-blue robe, black flip-flops, small nine-tooth rake nearby (a head shorter than the monk but twice as wide); a small golden-brown monkey, heart-shaped pinkish-red face, amber eyes, thin golden circlet headband, red bomber jacket over plain yellow t-shirt, tiger-stripe cargo shorts, pen-sized staff behind right ear (the shortest, reaching the monk's chest). Neutral standing poses, friendly expressions. High-end 3D animated film style, Pixar/Disney-quality stylized CGI. No text, no labels, no numbers, no watermark.
+Height comparison lineup of four original 2D cartoon characters standing side by side, full body, front view, on a plain light-grey background. From left to right: a very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace (the tallest of the group); a young shaved-head human monk, soft round face, calm kind eyes, saffron-orange robe with deep-red kasaya sash, brown wooden prayer beads (medium height); a chubby round pink pig, big belly, floppy ears, small squinting eyes, wide snout, oversized plain black t-shirt under open navy-blue robe, black flip-flops, small nine-tooth rake nearby (a head shorter than the monk but twice as wide); a small golden-brown monkey, heart-shaped pinkish-red face, amber eyes, thin golden circlet headband, red bomber jacket over plain yellow t-shirt, tiger-stripe cargo shorts, pen-sized staff behind right ear (the shortest, reaching the monk's chest). Neutral standing poses, friendly expressions. 2D hand-drawn cartoon style, clean bold outlines, flat colors with simple cel shading. No text, no labels, no numbers, no watermark.
 ```
 
 ---
@@ -307,12 +309,12 @@ Height comparison lineup of four original 3D animated characters standing side b
 
 | Tập | Tên | Nội dung | Sản phẩm |
 | --- | --- | --- | --- |
-| 1 | Ai ăn vụng hộp bánh? | Hộp bánh pía của Sa Tăng chỉ còn vụn. Ngộ Không "phá án", kết tội Bát Giới. Thủ phạm thật là Sư phụ: "bánh chay mà, ta tưởng đồ nhi cúng dường ta". | — |
-| 2 | Hóa đơn tiền điện | Tiền điện tăng gấp ba vì Bát Giới bật máy lạnh suốt ngày. Ngộ Không đòi mượn quạt Ba Tiêu, La Sát quạt một phát thổi bay ba đồ đệ ra hẻm. Chỉ Sư phụ ngồi thiền bất động: "Tâm tĩnh... tự nhiên mát." | — |
-| 3 | Ngộ Không đi giao hàng | Giao bún bằng Cân Đẩu Vân trong 1 giây, nhưng gió hất tung tô bún lên người khách. Kết quả: bị đánh giá 1 sao. | — |
-| 4 | Quà 20/10 cho bà chủ trọ | Ba đồ đệ tặng hoa và bánh kem, mong được giảm tiền nhà. Bát Giới ăn vụng một góc bánh. La Sát giảm tiền nhà cho cả bọn, riêng Bát Giới phải đóng gấp đôi. Hợp đăng dịp 20/10. | — |
-| 5 | Ai rửa chén? | Chén dơ chất thành tháp, Ngộ Không không chịu rửa nên thổi lông ra 5 bản sao tí hon. Bản sao nằm dài ăn bánh với Bát Giới: "Tụi em giống huynh mà!" Sư phụ: "nhân nào quả nấy". Ngộ Không đeo găng rửa chén cạnh Sa Tăng. | — |
-| 6 | Nhịp cầu lá dừa | ⚡ Trend cầu lá dừa: cả nhà ra bến Bạch Đằng xem nhịp vòm 3.400 tấn hình lá dừa nước; Ngộ Không đòi nhấc cầu một tay, Sư phụ cản; Bát Giới hẹn "Tết qua cầu ăn bánh tét"; Cân Đẩu Vân chở Bát Giới không nổi; cả nhà selfie hẹn Tết. | — |
+| 1 | Ai ăn vụng hộp bánh? | Hộp bánh pía của Út Khờ chỉ còn vụn. Đại Ca "phá án", kết tội Heo Lười. Thủ phạm thật là Thầy: "bánh chay mà, ta tưởng đồ nhi cúng dường ta". | — |
+| 2 | Hóa đơn tiền điện | Tiền điện tăng gấp ba vì Heo Lười bật máy lạnh suốt ngày. Đại Ca đòi mượn quạt Ba Tiêu, La Sát quạt một phát thổi bay ba đồ đệ ra hẻm. Chỉ Thầy ngồi thiền bất động: "Tâm tĩnh... tự nhiên mát." | — |
+| 3 | Đại Ca đi giao hàng | Giao bún bằng Cân Đẩu Vân trong 1 giây, nhưng gió hất tung tô bún lên người khách. Kết quả: bị đánh giá 1 sao. | — |
+| 4 | Quà 20/10 cho bà chủ trọ | Ba đồ đệ tặng hoa và bánh kem, mong được giảm tiền nhà. Heo Lười ăn vụng một góc bánh. La Sát giảm tiền nhà cho cả bọn, riêng Heo Lười phải đóng gấp đôi. Hợp đăng dịp 20/10. | — |
+| 5 | Ai rửa chén? | Chén dơ chất thành tháp, Đại Ca không chịu rửa nên thổi lông ra 5 bản sao tí hon. Bản sao nằm dài ăn bánh với Heo Lười: "Tụi em giống Đại Ca mà!" Thầy: "nhân nào quả nấy". Đại Ca đeo găng rửa chén cạnh Út Khờ. | — |
+| 6 | Nhịp cầu lá dừa | ⚡ Trend cầu lá dừa: cả nhà ra bến Bạch Đằng xem nhịp vòm 3.400 tấn hình lá dừa nước; Đại Ca đòi nhấc cầu một tay, Thầy cản; Heo Lười hẹn "Tết qua cầu ăn bánh tét"; Cân Đẩu Vân chở Heo Lười không nổi; cả nhà selfie hẹn Tết. | — |
 
 ---
 
@@ -324,7 +326,7 @@ Mỗi tập (24s = 3 clip × 8s) là một ngày đăng, nằm trong thư mục 
 | --- | --- | --- |
 | 1 | [tap-1/](tap-1/README.md) | Ai ăn vụng hộp bánh? |
 | 2 | [tap-2/](tap-2/README.md) | Hóa đơn tiền điện |
-| 3 | [tap-3/](tap-3/README.md) | Ngộ Không đi giao hàng |
+| 3 | [tap-3/](tap-3/README.md) | Đại Ca đi giao hàng |
 | 4 | [tap-4/](tap-4/README.md) | Quà 20/10 cho bà chủ trọ |
 | 5 | [tap-5/](tap-5/README.md) | Ai rửa chén? |
 | 6 | [tap-6/](tap-6/README.md) | Nhịp cầu lá dừa |

@@ -8,7 +8,7 @@
 > **Copy prompt:** mỗi file `clip-{số}.md` chỉ chứa đúng prompt: mở file, bấm Cmd+A rồi Cmd+C, dán thẳng vào ô prompt của Flow, không sửa gì.
 > **Khóa nhân vật, bối cảnh, ảnh tham chiếu:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Quy trình, xử lý lỗi:** [FLOW_GUIDE.md](../../FLOW_GUIDE.md)
 
-← Hôm trước: [Tập 11 — Chiếc cặp mới của Nở](../tap-11/README.md)
+← Hôm trước: [Tập 11 — Chiếc cặp mới của Nở](../tap-11/README.md) · Hôm sau: [Tập 13 — Con diều vẽ cả nhà](../tap-13/README.md) →
 
 ---
 

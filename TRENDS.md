@@ -4,6 +4,22 @@ Mỗi lần làm tập xu hướng, thêm một mục ngày mới lên đầu fi
 
 ---
 
+## 26/10/2026
+
+Kiểm tra nhanh khoảng 9 giờ sáng 26/10 (giờ Việt Nam) cho Tây Du Ký tap-10 và tap-11; không quét lại đủ bốn nguồn như ngày 24/10.
+
+| Chủ đề | Cập nhật | Dùng cho |
+| ------ | -------- | -------- |
+| Triều cường TP.HCM | Đỉnh từ 26 đến 28/10 (17–19/9 âm lịch): Phú An và Nhà Bè khoảng 1,70–1,75 m, vượt báo động 3; Thủ Dầu Một 1,80–1,85 m; giờ đỉnh khoảng 5–7 giờ sáng và 5–7 giờ chiều ([Tuổi Trẻ 23/10](https://tuoitre.vn/trieu-cuong-dang-len-nhanh-tu-ngay-26-den-28-10-tphcm-ngap-nhieu-noi-100261023112642423.htm), [Dân trí 25/10](https://dantri.com.vn/thoi-tiet/tphcm-va-nam-bo-ngay-nang-de-phong-ngap-do-trieu-cuong-dat-dinh-20261025184338583.htm)) | [Tây Du Ký tap-10](tay-du-ky-2026/tap-10/README.md): chuẩn bị trong nhà lúc 5 giờ rưỡi chiều, cúp cầu dao theo khuyến cáo EVNHCMC ([SGGP](https://www.sggp.org.vn/nganh-dien-tphcm-khuyen-cao-an-toan-dien-mua-mua-bao-post823190.html)); không có cảnh lội nước, không có trẻ em |
+| Bão In-Fa | Mới hình thành ở Tây Bắc Thái Bình Dương, dự báo rất mạnh, chưa có dự báo ảnh hưởng Việt Nam ([Hà Nội Mới](https://hanoimoi.vn/xuat-hien-bao-in-fa-du-bao-cuong-do-rat-manh-1762622.html)) | **Không dùng.** Xem lại trước khi đăng tap-10; nếu bão hướng vào Việt Nam thì hoãn tập đó |
+| "Dự án ma" (#duanma) | Số liệu đo ngày 24/10 (10,4 triệu lượt xem), chưa đo lại | [Tây Du Ký tap-11](tay-du-ky-2026/tap-11/README.md): Heo Lười hẹn tập thể dục; số phút vận động theo khuyến nghị Bộ Y tế ([VOV](https://vov.vn/suc-khoe/bo-y-te-khuyen-nghi-nguoi-truong-thanh-nen-van-dong-30-60-phut-moi-ngay-post1321054.vov)) |
+
+### Lịch đăng
+
+Tây Du Ký tap-10 nên đăng ngày 27/10, chậm nhất sáng 28/10 (còn trong đợt đỉnh triều). Tap-11 không gấp, đăng trong tuần.
+
+---
+
 ## 24/10/2026
 
 Quét lúc 13:07–14:08 ngày 24/10 (giờ Việt Nam) từ bốn nguồn: Google Trends, báo chí, mạng xã hội và lịch sự kiện. Chủ đề được chọn đứng đầu ở cả bốn nguồn.
@@ -33,7 +49,7 @@ Nguồn: RSS của VnExpress, Dân trí, Kenh14, Tuổi Trẻ, Thanh Niên, Viet
 | Concert ở Mỹ Đình | Ít nhất 189 bài từ 45 đầu báo; riêng sáng 24/10 có 21 bài | Tây Du Ký tap-8 |
 | iPhone Duo | Ít nhất 212 bài từ 71 đầu báo | Chưa dùng (như trên) |
 | Giá vàng | Ít nhất 200 bài từ 77 đầu báo | Chưa dùng (như trên) |
-| Triều cường TP.HCM vượt báo động 3, đỉnh 26–28/10 ([Tuổi Trẻ](https://tuoitre.vn/trieu-cuong-dang-len-nhanh-tu-ngay-26-den-28-10-tphcm-ngap-nhieu-noi-100261023112642423.htm)) | 47 bài từ 26 đầu báo | Chưa dùng: sát đời sống hẻm Sài Gòn nhưng không có cảnh lội nước (trẻ em dễ bắt chước); xem lại hướng bão In-Fa trước khi làm |
+| Triều cường TP.HCM vượt báo động 3, đỉnh 26–28/10 ([Tuổi Trẻ](https://tuoitre.vn/trieu-cuong-dang-len-nhanh-tu-ngay-26-den-28-10-tphcm-ngap-nhieu-noi-100261023112642423.htm)) | 47 bài từ 26 đầu báo | [Tây Du Ký tap-10](tay-du-ky-2026/tap-10/README.md) (làm ngày 26/10): chuẩn bị trong nhà, không có cảnh lội nước, xem mục 26/10 |
 | Lừa đảo "kiếm tiền bằng AI" Tatao Live, thiệp cưới chứa link độc ([VnExpress](https://vnexpress.net/40-000-nguoi-viet-sap-bay-giac-mo-kiem-tien-bang-ai-tren-tatao-live-5135952.html)) | Khoảng 10 đầu báo | Tinh thần chống lừa đảo đã gộp vào Tây Du Ký tap-8 (vé nội bộ) |
 | Trốn trại giam A2, học sinh đánh cô giáo, đạo diễn "Đất Phương Nam" qua đời | 29–94 bài mỗi chủ đề | **Không dùng:** hình sự, bạo lực học đường, tin buồn |
 
@@ -46,7 +62,7 @@ TikTok Creative Center vẫn cần đăng nhập, nên số liệu dưới đây
 | #concertbigbang, #bigbangconcert | 14,09 triệu và 53,6 triệu lượt xem, tăng khoảng 100 nghìn và 75 nghìn lượt mỗi giờ | Tây Du Ký tap-8 |
 | Phim "Ngọc Điệm Thu", #ngocdiemthu | 476 triệu lượt xem | **Không dùng:** diễn viên thật, phim có bản quyền |
 | Hoa sữa "phủ sóng" mạng xã hội ([Tuổi Trẻ](https://tuoitre.vn/hoa-sua-du-an-ma-thua-loi-khien-chi-em-me-met-gay-sot-trend-trong-tuan-100261023184833647.htm)) | #hoasua 191,5 triệu lượt xem | Chi tiết kết của Tây Du Ký tap-8 ("toàn mùi hoa sữa") |
-| "Dự án ma": kế hoạch hoành tráng không bao giờ làm | #duanma 10,4 triệu lượt xem | Chưa dùng: hợp Bát Giới hẹn tập thể dục, để dành |
+| "Dự án ma": kế hoạch hoành tráng không bao giờ làm | #duanma 10,4 triệu lượt xem | [Tây Du Ký tap-11](tay-du-ky-2026/tap-11/README.md): Heo Lười (Bát Giới cũ) hẹn tập thể dục |
 | Halloween 31/10 | Tìm kiếm ở TP.HCM cao nhất tuần | Tèo & Sún tap-6 đã làm; Tây Du Ký có thể làm gần 31/10 |
 
 ### Lịch đăng

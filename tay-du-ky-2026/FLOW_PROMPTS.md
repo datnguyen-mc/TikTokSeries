@@ -2,7 +2,7 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập 24s = 3 clip × 8s (bỏ Clip 3 → 16s) · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** từ Tập 9 mỗi tập **40–60s = 4–6 clip × 10s** tùy câu chuyện (Tập 1–8: 3 clip) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt · không chữ trên video
 
 **Đặt tên file:** video `TDK_T01_C1_v1` (tập 01, clip 1, phiên bản 1) · ảnh tham chiếu `TDK_REF_<TÊN>` (xem mục 4)
 
@@ -13,7 +13,7 @@
 README của series mới chỉ có ý tưởng chung, nên tạo hình dưới đây được thiết kế mới và **cố định cho mọi tập**.
 
 - **Ý tưởng:** Thỉnh kinh xong, bốn thầy trò về Sài Gòn năm 2026, thuê chung một căn nhà ống trong hẻm. Mỗi tập là một drama đời thường như ăn vụng, tiền điện, chạy giao hàng, ngày lễ. Phép thuật cổ (gậy Như Ý, Cân Đẩu Vân, quạt Ba Tiêu) bị đem ra dùng vào chuyện vặt để gây cười.
-- **Tên nhân vật (theo bản hoạt hình 2D):** Thầy (Đường Tăng) · Đại Ca (Ngộ Không) · Heo Lười (Bát Giới) · Út Khờ (Sa Tăng). Thoại cũng gọi bằng tên này: đồ đệ gọi "Thầy" (gọi to: "Thầy ơi!"), không dùng lại "Sư phụ", "Lão Tôn", "lão Trư", "Đại sư huynh".
+- **Tên nhân vật (theo bản hoạt hình 2D):** Thầy (Đường Tăng) · Đại Ca (Ngộ Không) · Heo Lười (Bát Giới) · Út Khờ (Sa Tăng). Thoại cũng gọi bằng tên này: đồ đệ gọi "Thầy" (gọi to: "Thầy ơi!"), không dùng lại "Sư phụ", "Lão Tôn", "lão Trư", "Đại sư huynh". Tên cũ chỉ còn ở câu mở của Tập 9 (tập ra mắt tên mới).
 - **Phong cách hình:** hoạt hình 2D vẽ tay (đổi từ 3D ngày 26/10/2026): nét viền đậm, màu phẳng, đổ bóng cel đơn giản, nền vẽ 2D. Phong cách được khóa ở [FORMAT] của Clip 1 và câu mở đầu Clip 2/3 (mục 3); cuối mọi [AVOID] có câu chặn hình 3D/CGI. Chỉ đính ảnh nhân vật bản 2D.
 - **Tạo hình gốc, không sao chép phim:** không dùng trang phục hay gương mặt của phim Tây Du Ký 1986 hoặc của bất kỳ diễn viên nào, để tránh vi phạm bản quyền. Mỗi nhân vật chỉ giữ dấu hiệu nhận diện kinh điển, phối thêm đồ hiện đại:
   - **Đại Ca:** vòng kim cô, gậy Như Ý thu nhỏ, áo bomber.
@@ -24,7 +24,23 @@ README của series mới chỉ có ý tưởng chung, nên tạo hình dưới 
 - **Giọng:** cả nhà sống ở Sài Gòn nên nói giọng miền Nam, đồng bộ với các series khác của kênh.
 - **Nhạc nền:** đàn tranh, cồng, phách trên nền beat hip-hop nhẹ, chất cổ trang gặp hiện đại.
 - **Màu phép thuật:** mọi hiệu ứng phép (gậy dài ra, mây bay, gió quạt) đều có ánh vàng, để thống nhất cả series.
-- **Tỉ lệ chiều cao:** Sa Tăng cao nhất, rồi đến La Sát và Sư phụ (ngang nhau). Bát Giới thấp hơn Sư phụ một cái đầu nhưng ngang gấp đôi. Ngộ Không thấp nhất, chỉ tới ngực Sư phụ.
+- **Tỉ lệ chiều cao:** Út Khờ cao nhất, rồi đến La Sát và Thầy (ngang nhau). Heo Lười thấp hơn Thầy một cái đầu nhưng ngang gấp đôi. Đại Ca thấp nhất, chỉ tới ngực Thầy.
+
+**Cấu trúc tập 40–60 giây (từ Tập 9):** 4–6 clip × 10s tùy câu chuyện, kịch bản chi tiết như chuyện thật trong một căn nhà trọ Sài Gòn. Tập 6 clip đi đủ sáu nhịp dưới đây; tập 5 clip gộp kế hoạch với phép thuật; tập 4 clip đi: hook và kế hoạch → phép thuật → lật kèo → chốt.
+
+| Clip | Vai trò | Gợi ý |
+| --- | --- | --- |
+| 1 | Hook và vấn đề | 2 giây đầu có cảnh lạ hoặc câu gây tò mò; nêu ngay chuyện của nhà (tiền nhà, ăn vụng, việc nhà, tin hot trong ngày) |
+| 2 | Kế hoạch | Ai đó bày cách, thường là Đại Ca với phép thuật; người khác nghi ngờ |
+| 3 | Phép thuật ra tay | Gag hình ảnh chính. Ưu tiên phép chưa dùng (tra cột Phép chính ở mục 5): 72 phép biến hóa (biến thành đồ vật hoặc thành người khác), định thân pháp, gậy Như Ý to nhỏ dài ngắn, Heo Lười biến hình, Út Khờ gánh đồ |
+| 4 | Leo thang | Phép phản tác dụng, hoặc La Sát xuất hiện làm mọi chuyện rối thêm |
+| 5 | Lật kèo | Một nhân vật bất ngờ đảo tình thế (Út Khờ, Heo Lười, La Sát); không lặp twist của các tập trước |
+| 6 | Chốt | Câu hiền của Thầy (không bao giờ bị chế giễu) hoặc punchline; khung thumbnail đứng yên 1 giây |
+
+- **Như người thật:** chi tiết đời sống Sài Gòn có thật (món ăn, giá cả, thói quen trong hẻm, tin trong ngày có nguồn); ai cũng có ít nhất một câu; mỗi clip 2–4 câu thoại, tối đa khoảng 31 âm tiết.
+- **Một bài học nhỏ đời thật** (an toàn, tiết kiệm, chống lừa đảo…) nếu có thì nói bằng tình huống và câu đùa, không giảng giải.
+- **Không lặp:** không dùng cùng kiểu lật kèo trong 3 tập liên tiếp; viết xong tập nào thì ghi phép chính và kiểu lật kèo vào bảng mục 5.
+- **Neo nhân vật:** tập 5–6 clip mở lại một clip bằng Ingredients sau 3–4 clip (cắt theo hành động hoặc nhảy thời gian, dán [FORMAT] và FULL LOCK, không dán câu Continue…), như FLOW_GUIDE mục 1–2. Tập 4 clip có cảnh nhảy thời gian thì clip đó cũng mở bằng Ingredients.
 
 **Xưng hô và dấu ấn nhân vật** (giữ cố định để khán giả nhớ):
 
@@ -129,7 +145,7 @@ Người khổng lồ hiền lành, cao nhất nhóm, vai rộng; da xanh xám, 
 @UtKho = ÚT KHỜ: very tall gentle giant, blue-grey skin, bald, short rust-red beard, earth-brown robe, faded olive-green kitchen apron, large dark-wood prayer-bead necklace; very deep, slow, calm male voice.
 ```
 
-### 1.6 LA SÁT — bà chủ trọ (nhân vật phụ · Tập 2, 4, 8)
+### 1.6 LA SÁT — bà chủ trọ (nhân vật phụ · Tập 2, 4, 8, 9)
 
 Thiết Phiến Công Chúa phiên bản bà chủ nhà trọ, ở ngay sát vách. Cao, mảnh mai, da trắng sứ, mày xếch, kẻ mắt đỏ, môi đỏ; búi tóc cao cài trâm vàng; áo dài lụa đỏ thêu phượng vàng, quần lụa đen, vòng vàng. Cầm quạt Ba Tiêu khổng lồ hình lá chuối xanh thẫm, cán sơn mài đỏ; bung quạt là có gió bão.
 **Giọng:** nữ, sắc, đanh, ra lệnh dứt khoát.
@@ -186,7 +202,7 @@ KHÁCH: petite young office woman, shoulder-length black hair with blunt bangs, 
 
 > Dán nguyên văn vào mục [SETTING]. Đạo cụ riêng của từng tập được ghi thêm ở dòng `Props:` ngay bên dưới khối bối cảnh.
 
-### 2.1 NHÀ TRỌ — PHÒNG KHÁCH (Tập 1, 2, 5, 8)
+### 2.1 NHÀ TRỌ — PHÒNG KHÁCH (Tập 1, 2, 5, 8–11)
 
 Bố cục nhìn từ cửa vào:
 - sofa vàng mù tạt sát tường trái, máy lạnh treo phía trên, bàn trà gỗ thấp phía trước;
@@ -222,6 +238,14 @@ Lối đi bộ ven sông ở công viên bến Bạch Đằng lúc hoàng hôn: 
 A wide riverside promenade in Bạch Đằng wharf park, central Saigon, at golden hour, 2026: smooth light-grey stone paving, a low white metal railing along the water's edge, a strip of green lawn with young palm trees and a few low stone benches. Moored right alongside the bank on the wide brown Saigon River sits a huge flat steel super barge carrying a gigantic, gracefully curved white steel arch shaped like a single nipa palm (lá dừa nước) frond, with slender steel ribs and cables fanning out along its curve like leaflets: the main span of the new pedestrian bridge, still waiting to be installed and not open to anyone. Across the river, the modern towers of the Thủ Thiêm skyline glow under a warm orange-pink sky, their reflections shimmering on the water. No other people on the promenade; at most a few tiny, blurred silhouettes far away on the opposite bank. All signs, banners, boat names and markings are blank or unreadable.
 ```
 
+### 2.5 NHÀ TRỌ — PHÒNG KHÁCH LÚC RẠNG SÁNG (Tập 11)
+
+Cùng bố cục với 2.1, chỉ khác ánh sáng: 5 giờ sáng, ánh xanh lạnh từ cửa vào, đèn trần tắt. Dùng cho clip nhảy sang sáng hôm sau.
+
+```text
+Ground-floor living room of a narrow, cozy rented tube house in a Saigon alley, 2026. Facing in from the open front entrance (a green folding metal gate that leads straight out to the alley): a worn mustard-yellow fabric sofa with mismatched cushions against the left wall, a white wall-mounted air conditioner above it and a low wooden coffee table in front of it; a round saffron meditation cushion on a woven mat in the left back corner, beyond the end of the sofa; a tiny kitchen corner along the back wall with a two-burner gas stove, hanging pots and a dish rack; a small white mini-fridge in the right back corner; a simple wooden altar shelf high on the back wall holding a small serene seated Buddha statue and a small vase of flowers, always neat and never touched; a messy pile of slippers and shoes by the entrance; pastel-green walls with slightly peeling paint and a slowly turning ceiling fan. Lighting: cool blue early-dawn light coming in through the open entrance, the ceiling lamp switched off, quiet and soft. All objects have blank or unreadable labels.
+```
+
 ---
 
 ## 3. Khóa phong cách
@@ -230,7 +254,7 @@ A wide riverside promenade in Bạch Đằng wharf park, central Saigon, at gold
 
 ```text
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated comedy film, Pixar/Disney-quality stylized CGI, original character designs, soft global illumination, shallow depth of field, 24fps, warm cinematic color grade, snappy comedic timing with expressive cartoon facial animation. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 **Nhạc nền**: câu cố định, luôn có trong [SOUND]
@@ -242,7 +266,14 @@ Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-b
 **Câu mở đầu clip 2 trở đi** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend): dán ở đầu mọi clip từ Clip 2 đến clip cuối, trừ clip mở bằng Ingredients
 
 ```text
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade, same 2D hand-drawn cartoon style with clean bold outlines and flat cel-shaded colors. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+```
+
+**Câu chặn 3D**: luôn là mục cuối của [AVOID] ở mọi clip
+
+```text
+3D or CGI look, photorealistic rendering.
 ```
 
 ---
@@ -307,28 +338,29 @@ Height comparison lineup of four original 2D cartoon characters standing side by
 
 ## 5. Danh sách tập
 
-| Tập | Tên | Nội dung | Sản phẩm |
-| --- | --- | --- | --- |
-| 1 | Ai ăn vụng hộp bánh? | Hộp bánh pía của Sa Tăng chỉ còn vụn. Ngộ Không "phá án", kết tội Bát Giới. Thủ phạm thật là Sư phụ: "bánh chay mà, ta tưởng đồ nhi cúng dường ta". | — |
-| 2 | Hóa đơn tiền điện | Tiền điện tăng gấp ba vì Bát Giới bật máy lạnh suốt ngày. Ngộ Không đòi mượn quạt Ba Tiêu, La Sát quạt một phát thổi bay ba đồ đệ ra hẻm. Chỉ Sư phụ ngồi thiền bất động: "Tâm tĩnh... tự nhiên mát." | — |
-| 3 | Ngộ Không đi giao hàng | Giao bún bằng Cân Đẩu Vân trong 1 giây, nhưng gió hất tung tô bún lên người khách. Kết quả: bị đánh giá 1 sao. | — |
-| 4 | Quà 20/10 cho bà chủ trọ | Ba đồ đệ tặng hoa và bánh kem, mong được giảm tiền nhà. Bát Giới ăn vụng một góc bánh. La Sát giảm tiền nhà cho cả bọn, riêng Bát Giới phải đóng gấp đôi. Hợp đăng dịp 20/10. | — |
-| 5 | Ai rửa chén? | Chén dơ chất thành tháp, Ngộ Không không chịu rửa nên thổi lông ra 5 bản sao tí hon. Bản sao nằm dài ăn bánh với Bát Giới: "Tụi em giống huynh mà!" Sư phụ: "nhân nào quả nấy". Ngộ Không đeo găng rửa chén cạnh Sa Tăng. | — |
-| 6 | Nhịp cầu lá dừa | ⚡ Trend cầu lá dừa: cả nhà ra bến Bạch Đằng xem nhịp vòm 3.400 tấn hình lá dừa nước; Ngộ Không đòi nhấc cầu một tay, Sư phụ cản; Bát Giới hẹn "Tết qua cầu ăn bánh tét"; Cân Đẩu Vân chở Bát Giới không nổi; cả nhà selfie hẹn Tết. | — |
+| Tập | Tên | Nội dung | Sản phẩm | Phép chính | Kiểu lật kèo |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Ai ăn vụng hộp bánh? | Hộp bánh pía của Út Khờ chỉ còn vụn. Đại Ca "phá án", kết tội Heo Lười. Thủ phạm thật là Thầy: "bánh chay mà, ta tưởng đồ nhi cúng dường ta". | — | — | Thầy hóa ra là thủ phạm |
+| 2 | Hóa đơn tiền điện | Tiền điện tăng gấp ba vì Heo Lười bật máy lạnh suốt ngày. Đại Ca đòi mượn quạt Ba Tiêu, La Sát quạt một phát thổi bay ba đồ đệ ra hẻm. Chỉ Thầy ngồi thiền bất động: "Tâm tĩnh... tự nhiên mát." | — | quạt Ba Tiêu (La Sát) | người ngồi yên (Thầy) lại thắng |
+| 3 | Đại Ca đi giao hàng | Giao bún bằng Cân Đẩu Vân trong 1 giây, nhưng gió hất tung tô bún lên người khách. Kết quả: bị đánh giá 1 sao. | — | Cân Đẩu Vân | phép quá nhanh gây họa |
+| 4 | Quà 20/10 cho bà chủ trọ | Ba đồ đệ tặng hoa và bánh kem, mong được giảm tiền nhà. Heo Lười ăn vụng một góc bánh. La Sát giảm tiền nhà cho cả bọn, riêng Heo Lười phải đóng gấp đôi. Hợp đăng dịp 20/10. | — | quạt Ba Tiêu (La Sát) | La Sát phạt riêng Heo Lười |
+| 5 | Ai rửa chén? | Chén dơ chất thành tháp, Đại Ca không chịu rửa nên thổi lông ra 5 bản sao tí hon. Bản sao nằm dài ăn bánh với Heo Lười: "Tụi em giống Đại Ca mà!" Thầy: "nhân nào quả nấy". Đại Ca đeo găng rửa chén cạnh Út Khờ. | — | phân thân | bản sao lười y như chủ |
+| 6 | Nhịp cầu lá dừa | ⚡ Trend cầu lá dừa: cả nhà ra bến Bạch Đằng xem nhịp vòm 3.400 tấn hình lá dừa nước; Đại Ca đòi nhấc cầu một tay, Thầy cản; Heo Lười hẹn "Tết qua cầu ăn bánh tét"; Cân Đẩu Vân chở Heo Lười không nổi; cả nhà selfie hẹn Tết. | — | gậy Như Ý, Cân Đẩu Vân | mây chở không nổi Heo Lười |
+| 7 | Đại chiến bóng đá đêm khuya | ⚡ Trend bóng đá châu Âu: 3 giờ sáng Đại Ca cổ vũ cuồng nhiệt, Heo Lười trù "HLV bay ghế" rồi rủ cá chầu hủ tiếu, Út Khờ can; Thầy bước ra tưởng sắp mắng, hóa ra rút điện thoại hóng VAR. | — | — | Thầy hóa ra cũng mê (hóng VAR) |
+| 8 | Vé nội bộ hóa lá khô | ⚡ Trend "đu concert" Mỹ Đình 24–25/10: La Sát khoe vé "nội bộ" giá năm trăm; hỏa nhãn kim tinh soi ra vé hóa lá khô, vé Heo Lười lén mua cũng vậy ("Oan!"); Út Khờ: "Tham rẻ... hóa lá khô." Vé bay ra Hà Nội bảy triệu, Đại Ca gọi Cân Đẩu Vân "một giây tới nơi"; một chớp mắt sau La Sát về, tóc dính hoa sữa: "Một giây... chỉ kịp hít hoa sữa!" | — | hỏa nhãn kim tinh, Cân Đẩu Vân | lừa đảo bị lật tẩy, đi một giây về tay trắng |
+| 9 | Tên ở nhà | Tập ra mắt tên mới. La Sát kêu "Tôn Ngộ Không! Trư Bát Giới!" tới hụt hơi, quên luôn "Sa gì đó", nên đặt tên ở nhà cho cả bọn: Thầy (cả hẻm kêu vậy rồi), Heo Lười (vừa cãi "siêng lắm" đã ngáy), Đại Ca (lùn nhất nhà mà đòi làm anh lớn, biến khổng lồ rồi hắt xì teo bằng tách trà), Út Khờ (bự nhất mà là em út, kêu ai cũng "Dạ!"). Thầy: "Tên đổi... lòng không đổi." | — | 72 phép biến hóa (biến khổng lồ, teo nhỏ) | người bự nhất thành "Út", người lùn nhất thành "Đại Ca" |
+| 10 | Triều cường gõ cửa | ⚡ Triều cường TP.HCM đỉnh 26–28/10: 5 giờ rưỡi chiều nước tràn qua bậc cửa; Đại Ca đắp đê bằng gậy Như Ý, Út Khờ khiêng nguyên sofa (cả Heo Lười) kê lên gạch; nước lại trào lên từ cống, Heo Lười chỉ ổ điện sát đất; Thầy bình tĩnh cúp cầu dao; Út Khờ chặn cống bằng bao cát ("Hồi xưa sống dưới sông, quen rồi"); cả nhà ngồi chờ triều xuống dưới ánh đê vàng. | — | gậy Như Ý (đê vàng, thành đèn), Út Khờ khiêng đồ | nước vô từ cống chứ không phải từ cửa; Út Khờ "khờ" mà rành nước nhất |
+| 11 | Dự án ma | ⚡ Trend #duanma: Heo Lười hứa năm giờ sáng chạy mười cây số; Đại Ca dùng định thân pháp "giữ miệng giùm" khi Heo Lười lao vào nồi chè bắp; sáng hôm sau Heo Lười tắt báo thức ngủ tiếp, hóa ra Thầy và Út Khờ sáng nào cũng đi bộ nhanh ba chục phút; Heo Lười cầm ổ bánh mì đi vòng quanh bàn liền. Thầy: "Bắt đầu nhỏ... là bắt đầu thật." | — | định thân pháp | người chậm rãi nhất (Thầy) lại tập đều nhất; Heo Lười đi liền, không đợi mai |
 
 ---
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (từ Tập 9: khoảng 60s = 6 clip × 10s; Tập 1–8: 30s = 3 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-6.md` (Tập 1–8: `clip-1.md` … `clip-3.md`) là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-9/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (từ Tập 9: 40–60s = 4–6 clip × 10s; Tập 1–8: 3 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-12/`, …) và dùng nguyên các khóa ở mục 1–3. Thư mục Tập 1–7 đã gỡ khỏi repo ở commit `d536686` (26/10/2026); nội dung vẫn còn trong lịch sử git (commit `4d7f4a4`) và tóm tắt ở mục 5.
 
-| Ngày | File | Tên tập |
-| --- | --- | --- |
-| 1 | [tap-1/](tap-1/README.md) | Ai ăn vụng hộp bánh? |
-| 2 | [tap-2/](tap-2/README.md) | Hóa đơn tiền điện |
-| 3 | [tap-3/](tap-3/README.md) | Đại Ca đi giao hàng |
-| 4 | [tap-4/](tap-4/README.md) | Quà 20/10 cho bà chủ trọ |
-| 5 | [tap-5/](tap-5/README.md) | Ai rửa chén? |
-| 6 | [tap-6/](tap-6/README.md) | Nhịp cầu lá dừa |
-| 7 | [tap-7/](tap-7/README.md) | Đại chiến bóng đá đêm khuya |
-| 8 | [tap-8/](tap-8/README.md) | Vé nội bộ hóa lá khô |
+| Ngày | File | Tên tập | Độ dài |
+| --- | --- | --- | --- |
+| 8 | [tap-8/](tap-8/README.md) | Vé nội bộ hóa lá khô | 30s · 3 clip |
+| 9 | [tap-9/](tap-9/README.md) | Tên ở nhà | 60s · 6 clip |
+| 10 | [tap-10/](tap-10/README.md) | Triều cường gõ cửa | 50s · 5 clip |
+| 11 | [tap-11/](tap-11/README.md) | Dự án ma | 40s · 4 clip |

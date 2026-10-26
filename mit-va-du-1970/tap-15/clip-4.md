@@ -1,0 +1,25 @@
+[FORMAT]
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
+
+[CHARACTERS — match the attached reference images exactly]
+@Nở = Nở (their daughter, 6 years old): small anthropomorphic native-dog puppy standing upright on two legs, chubby round cheeks, cream fur with golden-tan patches including a tan patch around her right eye, big round shiny brown eyes, tiny black nose, two short head-fur pigtails tied with red yarn, paw-hands with four fingers. She is only waist-high to Mit. Outfit A: pale-pink áo bà ba shirt, black shorts, barefoot. Voice: high, bright, cheerful Southern Vietnamese little-girl voice, 6 years old.
+@Đú = Đú (wife, early 30s): anthropomorphic Vietnamese native dog standing upright on two legs, slim gentle build, creamy-white fur, soft light-tan ears that fold forward, soft round face, gentle almond-shaped brown eyes, pink-brown nose, head fur gathered in a low bun held by a plain wooden hairpin, paw-hands with four fingers. She is about a head shorter than Mit. Outfit A: faded lavender áo bà ba shirt, black satin trousers, black-and-white checkered khăn rằn draped over one shoulder, barefoot. Voice: soft, warm Southern Vietnamese female voice, early 30s, gentle.
+@Mit = Mit (husband, about 35): anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. He is the tallest of the family. Outfit A: faded earth-brown áo bà ba shirt, black trousers rolled up to the knees, black-and-white checkered khăn rằn scarf knotted around the neck, barefoot, a conical nón lá hat when outdoors. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s, playful.
+
+[SETTING]
+FRONT YARD OF THE BAMBOO HUT: a swept dirt yard in front of the small bamboo hut with its nipa-palm thatch roof and bamboo door, a large brown clay water jar beside the door, a narrow brown canal along the yard with a small wooden xuồng ba lá boat tied to a post, tall coconut palms and nipa palms leaning over the water.
+Time: a minute later, early evening; a deep-blue dusk sky with the first stars above the low nipa-thatch roof; warm kerosene light spilling from the open bamboo door; fireflies over the yard; the canal calm. The family stands in the swept yard close in front of the hut, under the low edge of its thatch roof; Mit has no hat.
+
+[SHOT LIST]
+00:00–00:03 | Hard cut: a minute later, the front yard at dusk, same outfits — medium wide shot, static: Mit kneels beside Nở in front of the hut and points up at the low edge of the nipa-thatch roof; Nở holds the tiny tooth between two fingers; Đú stands behind them. Mit says (warm, slightly raspy voice, solemn and playful): Ném lên mái, răng mới mọc thẳng.
+00:03–00:07 | Medium shot, slow push-in — Nở squeezes her eyes shut and tosses the tiny tooth up onto the thatch roof, chanting the old folk rhyme in a sing-song voice. Nở says (high, bright little-girl voice, sing-song chant): Chuột chuột chí chí, mày lấy răng ta, ta lấy răng mày!
+00:07–00:10 | Medium wide shot, static — the tiny tooth lands in the thatch with a small glint; Đú hugs Nở from behind and Mit grins up at the roof. Đú says (soft, warm voice, tender): Răng mới sẽ chắc như răng chuột.
+
+[SOUND]
+Crickets and frogs, a tiny tick and a twinkle as the tooth lands in the thatch, Nở's sing-song chant, a gentle music-box melody.
+
+[END FRAME]
+Medium wide shot in the front yard at dusk: Đú hugging Nở from behind, both smiling up at the thatch roof; Mit kneeling beside them, grinning up at the roof, LEFT ear tip folded; a tiny glint on the thatch edge; warm lamplight from the open door; fireflies. Hold still for the final 0.5 seconds.
+
+[AVOID]
+blood, pliers or any dental tool, the tooth being pulled by force, the gap in an upper tooth instead of a lower front tooth, readable letters or numbers anywhere, the notebook's pages facing the camera, the nón lá on Mit's head, anyone climbing the roof, the tooth thrown at anyone, dialogue spoken by the wrong character, humans, extra characters, electric lights, power lines or modern objects, villa details (carved wooden door, red lanterns, yellow dress), outfit changes, distorted paws or extra fingers, subtitles.

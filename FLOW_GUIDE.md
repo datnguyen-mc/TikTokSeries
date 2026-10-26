@@ -8,10 +8,10 @@
 
 | Series | Khóa nhân vật & ảnh tham chiếu | Các tập (1 tập/ngày) |
 | ------ | ------------------------------ | --------------------- |
-| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-12](mit-va-du-1970/tap-12/README.md) |
-| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-8](pheo-va-no-meo/tap-8/README.md) |
+| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-15](mit-va-du-1970/tap-15/README.md) |
+| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-9](pheo-va-no-meo/tap-9/README.md) |
 | Nhà Tèo & Sún | [FLOW_PROMPTS.md](teo-va-sun-cho/FLOW_PROMPTS.md) | [tap-1](teo-va-sun-cho/tap-1/README.md) → [tap-6](teo-va-sun-cho/tap-6/README.md) |
-| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-1](tay-du-ky-2026/tap-1/README.md) → [tap-8](tay-du-ky-2026/tap-8/README.md) |
+| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-11](tay-du-ky-2026/tap-11/README.md) (tập 1–7 đã gỡ khỏi repo) |
 | 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap-1](365ngayvietnam/tap-1/README.md) → [tap-365] |
 
 **Tập chủ đề 20/10:** Mit & Đú tap-8 · Phèo tap-3 · Tèo & Sún tap-2 · Tây Du Ký tap-4
@@ -22,7 +22,7 @@
 
 | Series | Độ dài | Số clip 10s | Xương sống mỗi tập | Áp dụng từ |
 | ------ | ------ | ----------- | ------------------ | ---------- |
-| Tây Du Ký 2026 | khoảng 60s | 6 | Hook và vấn đề → kế hoạch → phép thuật ra tay → leo thang → lật kèo → chốt cười, thumbnail | Tập 9 |
+| Tây Du Ký 2026 | 40–60s tùy câu chuyện | 4–6 | Hook và vấn đề → kế hoạch → phép thuật ra tay → leo thang → lật kèo → chốt cười, thumbnail (tập 4–5 clip gộp nhịp, xem FLOW_PROMPTS của series) | Tập 9 |
 | Mit & Đú 1970 | 40–60s tùy câu chuyện | 4–6 | Lát cắt đời thường 1970 → chuyện nhỏ trong nhà → khoảnh khắc thương nhau → kết ấm áp, vui vẻ | Tập 13 |
 | 365 Ngày Phèo Làm Nội Trợ | từ 90s trở lên | từ 9 | Đi chợ về → nguyên liệu, định lượng → sơ chế → nấu từng bước → nêm nếm, trình bày → dọn ra ăn cùng Hường → twist, đứng hình | Tập 9 |
 | Nhà Tèo & Sún | 40–60s tùy câu chuyện | 4–6 | Chuyện trong nhà → Tèo vụng về hoặc trục trặc → mẹo đời sống (sản phẩm xuất hiện tự nhiên) → kết yêu thương | Tập 7 |
@@ -85,7 +85,7 @@ Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo và T�
 
 **Dùng Extend thay cho Frames:** Gemini Omni 1.1 cho nối dài video đã tạo, mỗi lần thêm tối đa 10 giây, tổng tối đa 40 giây, và đọc lại cả đoạn trước nên nhân vật và giọng giữ đều hơn. Nếu Flow của bạn đã có nút **Extend** cho Omni (một số tài khoản chưa có): tạo Clip 1, bấm **Extend**, dán nguyên prompt `clip-2.md`, rồi Extend tiếp với `clip-3.md`, `clip-4.md`. Một chuỗi Extend dài tối đa 40 giây (4 clip); tập dài hơn thì Save frame khung cuối của clip thứ 4, mở chuỗi mới bằng **Frames** với `clip-5.md`, rồi Extend tiếp. Ghép các chuỗi trong Scenebuilder. Câu mở đầu clip 2 trở đi dùng được cho cả hai cách. Mốc giây trong prompt mỗi clip luôn tính từ đầu clip đó: 00:00 của Clip N là giây 10 × (N − 1) của tập (Clip 2 là giây 10, Clip 5 là giây 40).
 
-**Ghép:** rê chuột lên clip → **More** → **Add to Scene** → trong Scenebuilder kéo các clip theo thứ tự → cắt bớt 0.2–0.5s ở chỗ nối nếu bị khựng → tải scene về. Tập dài tối đa 40 giây (4 clip) làm bằng một chuỗi Extend thì không cần bước này; tập dài hơn (Tây Du Ký 60 giây, Phèo và 365 Ngày Việt Nam 90 giây, Mit và Tèo 5–6 clip) vẫn phải ghép các chuỗi Extend và các clip mở lại bằng Ingredients trong Scenebuilder.
+**Ghép:** rê chuột lên clip → **More** → **Add to Scene** → trong Scenebuilder kéo các clip theo thứ tự → cắt bớt 0.2–0.5s ở chỗ nối nếu bị khựng → tải scene về. Tập dài tối đa 40 giây (4 clip) làm bằng một chuỗi Extend thì không cần bước này; tập dài hơn (Tây Du Ký, Mit và Tèo 5–6 clip; Phèo và 365 Ngày Việt Nam 90 giây), hoặc tập có clip mở lại bằng Ingredients, vẫn phải ghép các chuỗi Extend và các clip đó trong Scenebuilder.
 
 **Flow đọc prompt thế nào:**
 - Các nhãn `[FORMAT]`, `[CHARACTERS]`, `[SHOT LIST]`… chỉ là chữ thường để chia ý; model đọc như văn bản, không cần định dạng gì thêm. Giữ nguyên xuống dòng khi dán.
@@ -123,7 +123,7 @@ Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo và T�
 
 Prompt viết **bằng tiếng Anh**. **Thoại tiếng Việt** ghi sau dấu hai chấm, **không đặt trong ngoặc kép**, mỗi mốc giây tối đa một câu và câu thoại đứng cuối dòng.
 
-> **Riêng Tây Du Ký 2026 là hoạt hình 2D** (từ 26/10/2026): [FORMAT] và câu mở đầu Clip 2/3 lấy ở mục 3 của [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md), không dùng khối 3D mẫu dưới đây.
+> **Riêng Tây Du Ký 2026 là hoạt hình 2D** (từ 26/10/2026): [FORMAT], câu mở đầu clip 2 trở đi và câu chặn 3D cuối [AVOID] lấy ở mục 3 của [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md), không dùng khối 3D mẫu dưới đây.
 
 ### Clip 1 — tạo mới (Ingredients)
 

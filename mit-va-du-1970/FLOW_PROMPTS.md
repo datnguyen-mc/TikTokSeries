@@ -40,7 +40,7 @@
 Chó cỏ Việt Nam lông vàng rơm, mõm và ngực màu kem, dáng gầy rắn rỏi, cao nhất nhà. **Dấu hiệu nhận dạng:** chóp **tai TRÁI gập xuống**.
 Giọng miền Tây ấm, hơi khàn, lém lỉnh. Từng ham vui, sau biết sửa đổi.
 
-**Trang phục A — nghèo / làm thuê** (Tập 1, 2, 5, 6, 7, 8, 9, 10, 11, 12): áo bà ba nâu đất bạc màu, quần đen xắn gối, khăn rằn quấn cổ, chân đất, ra ngoài thì đội nón lá.
+**Trang phục A — nghèo / làm thuê** (Tập 1, 2, 5–15): áo bà ba nâu đất bạc màu, quần đen xắn gối, khăn rằn quấn cổ, chân đất, ra ngoài thì đội nón lá.
 
 FULL LOCK
 ```text
@@ -65,9 +65,9 @@ SHORT LOCK
 ### Đú — người vợ
 
 Chó cỏ lông trắng kem, tai màu vàng nhạt cụp nhẹ về phía trước, mặt tròn hiền, mắt nâu hình hạnh nhân, tóc búi thấp cài **trâm gỗ**. Khi giàu cô vẫn giữ cây trâm gỗ, chi tiết cho thấy cô giản dị.
-Thấp hơn Mit một cái đầu. Giọng miền Tây nhỏ nhẹ, ấm áp.
+Thấp hơn Mit một cái đầu. Giọng miền Tây nhỏ nhẹ, ấm áp. Chuyện hai người quen nhau (Tập 13): hồi con gái, Mit thả diều qua nhà cô, diều mắc ngọn dừa nhà cô, rồi "ổng ở luôn".
 
-**Trang phục A** (Tập 1, 2, 5, 6, 7, 8, 9, 10, 11, 12): áo bà ba tím hoa cà bạc màu, quần lãnh đen, khăn rằn vắt vai, chân đất.
+**Trang phục A** (Tập 1, 2, 5–15): áo bà ba tím hoa cà bạc màu, quần lãnh đen, khăn rằn vắt vai, chân đất.
 
 FULL LOCK
 ```text
@@ -94,7 +94,7 @@ SHORT LOCK
 Cún con lông kem có mảng vàng rơm, **mảng vàng quanh mắt phải**, má phúng phính, mắt nâu tròn to, hai bím tóc ngắn buộc len đỏ. Cao ngang thắt lưng Mit.
 Giọng bé gái trong trẻo, lanh lảnh.
 
-**Trang phục A** (Tập 1, 2, 5, 6, 8, 9, 10, 11, 12): áo bà ba hồng phấn, quần đùi đen, chân đất.
+**Trang phục A** (Tập 1, 2, 5, 6, 8–15): áo bà ba hồng phấn, quần đùi đen, chân đất.
 
 FULL LOCK
 ```text
@@ -172,12 +172,12 @@ BÀ BÁN VÉ SỐ (the elderly lottery-ticket seller): gentle elderly anthropomo
 
 Dán nguyên văn vào mục `[SETTING]`. Dòng `Time: ...` (giờ, ánh sáng, đạo cụ riêng của cảnh) đã được viết sẵn ngay dưới trong từng prompt.
 
-**Nhà tre — trong nhà** (Tập 1, 5, 7, 9, 10, 11)
+**Nhà tre — trong nhà** (Tập 1, 5, 7, 9, 10, 11, 14, 15)
 ```text
 INSIDE THE BAMBOO HUT: a small one-room hut in the 1970 Mekong Delta with woven bamboo walls whose thin gaps let in stripes of light, a nipa-palm thatch roof on bamboo rafters, a packed dirt floor, a low bamboo bed with a woven straw mat, a small low wooden table beside the bed, a kerosene lamp with a glass chimney, a large brown clay water jar by the door, a wood-fire clay stove of three clay stones with a blackened pot in the corner; poor but neat and tidy.
 ```
 
-**Nhà tre — sân trước** (Tập 2, 6, 12)
+**Nhà tre — sân trước** (Tập 2, 6, 12, 13, 15)
 ```text
 FRONT YARD OF THE BAMBOO HUT: a swept dirt yard in front of the small bamboo hut with its nipa-palm thatch roof and bamboo door, a large brown clay water jar beside the door, a narrow brown canal along the yard with a small wooden xuồng ba lá boat tied to a post, tall coconut palms and nipa palms leaning over the water.
 ```
@@ -202,7 +202,7 @@ THE DURIAN WHARF: a riverside wharf on a wide brown river with a weathered woode
 THE VILLAGE SCHOOL: a small single-story schoolhouse with a red clay-tile roof, whitewashed walls and open wooden window shutters, a big shady tree in the dirt yard; inside, rows of simple wooden desks and benches, a blank black chalkboard with nothing written on it, sunlight slanting through the windows with floating dust motes.
 ```
 
-**Bờ kênh hoa dại** (Tập 8, 10)
+**Bờ kênh hoa dại** (Tập 8, 10, 13)
 ```text
 THE WILDFLOWER CANAL BANK: a grassy canal bank near the family's bamboo hut, purple wild mua flowers (Melastoma) and small yellow wild daisies in tall grass, clusters of purple water hyacinth floating along the canal edge, coconut palms along the water, the small thatched bamboo hut visible farther down the bank.
 ```
@@ -239,11 +239,11 @@ Làm **một lần duy nhất trước khi dựng tập 1**, dùng cho cả seri
 
 | Tên ảnh | Nhân vật | Dùng ở tập |
 | ------- | -------- | ---------- |
-| `REF_MIT_A` | Mit — trang phục A | 1, 2, 5, 6, 7, 8, 9, 10, 11, 12 |
+| `REF_MIT_A` | Mit — trang phục A | 1, 2, 5–15 |
 | `REF_MIT_B` | Mit — trang phục B | 3, 4, 10 (cảnh mơ, không bắt buộc) |
-| `REF_DU_A` | Đú — trang phục A | 1, 2, 5, 6, 7, 8, 9, 10, 11, 12 |
+| `REF_DU_A` | Đú — trang phục A | 1, 2, 5–15 |
 | `REF_DU_B` | Đú — trang phục B | 3, 4 |
-| `REF_NO_A` | Nở — trang phục A | 1, 2, 5, 6, 8, 9, 10, 11, 12 |
+| `REF_NO_A` | Nở — trang phục A | 1, 2, 5, 6, 8–15 |
 | `REF_NO_B` | Nở — trang phục B | 3, 4 |
 | `REF_NO_C` | Nở — đồng phục | 7 |
 | `REF_LINEUP` | Cả nhà, để so tỉ lệ chiều cao | Dùng để kiểm tra, không bắt buộc đính kèm |
@@ -254,7 +254,7 @@ Làm **một lần duy nhất trước khi dựng tập 1**, dùng cho cả seri
 | `REF_CO_GIAO` | Cô giáo Hai | 7 |
 | `REF_BA_VE_SO` | Bà bán vé số | 10 |
 
-**Ảnh sản phẩm** (Tập 7, 9, 10, 11, 12): chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm. Lưu thành `SP_CAP` (cặp), `SP_TAP` (tập vở), `SP_BUT` (bút), `SP_BUTMAU` (hộp bút màu), `SP_CAP_SACH` (cặp mới ở Tập 11), `SP_SACHTRUYEN` (sách truyện tranh) và đính kèm ở clip sản phẩm lên hình lần đầu (thường là Clip 1). Nếu clip đó làm bằng Frames mà Flow không cho đính ảnh, cho sản phẩm có sẵn trong khung cuối của clip trước đã đính ảnh, hoặc mở clip đó bằng Ingredients. Nên chọn mẫu màu trơn, ít họa tiết để hợp bối cảnh 1970. Với sách truyện, che hoặc xóa tựa và mọi chữ trên bìa trước khi tải ảnh lên, để bìa chỉ còn tranh.
+**Ảnh sản phẩm** (Tập 7, 9–13, 15): chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm. Lưu thành `SP_CAP` (cặp), `SP_TAP` (tập vở), `SP_BUT` (bút), `SP_BUTMAU` (hộp bút màu), `SP_CAP_SACH` (cặp mới ở Tập 11), `SP_SACHTRUYEN` (sách truyện tranh) và đính kèm ở clip sản phẩm lên hình lần đầu (thường là Clip 1). Nếu clip đó làm bằng Frames mà Flow không cho đính ảnh, cho sản phẩm có sẵn trong khung cuối của clip trước đã đính ảnh, hoặc mở clip đó bằng Ingredients. Nên chọn mẫu màu trơn, ít họa tiết để hợp bối cảnh 1970. Với sách truyện, che hoặc xóa tựa và mọi chữ trên bìa trước khi tải ảnh lên, để bìa chỉ còn tranh.
 
 **REF_MIT_A**
 ```text
@@ -344,6 +344,9 @@ Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality
 | 10 | Vé số độc đắc | ⚡ Trend jackpot: đi làm về, Mit bị rao "trúng độc đắc giàu to", mơ lại thành phú hộ rồi tỉnh: "Giàu nhờ hên xui… mất một lần rồi"; mua hộp bút màu cho Nở; bà cụ: "Thương con vậy là trúng độc đắc rồi!"; Mit: "Độc đắc của ba là đây nè" | **Hộp bút màu** |
 | 11 | Chiếc cặp mới của Nở | Sáng sớm Nở gói tập và hộp bút màu vào tấm khăn vải cũ; Mit tặng chiếc cặp mới; cả nhà nắm tay dắt Nở tới trường dọc bờ kênh: "Chữ của con là tương lai của cả nhà mình." | **Cặp sách** |
 | 12 | Chuyện cổ tích của ba | 🌕 Đêm rằm tháng Chín: Nở ôm gối chờ ba kể chuyện như ở Tập 4; Mit đánh vần cuốn sách cô Hai thưởng chậm rì, rồi kể "chuyện anh khờ cày trúng hũ vàng" (chính đời mình); Nở: "Anh khờ đó… giống ba ghê!"; Mit: "Ờ… mà ảnh còn vợ, còn con"; Nở thiếp đi: "Vậy là còn tất cả…" | **Sách truyện tranh** |
+| 13 | Con diều vẽ cả nhà | 🪁 Mùa vui: gió lớn cuối mùa mưa thổi bay tranh Nở tô; ba làm diều tre dán cơm nguội, diều lộn nhào vì thiếu đuôi, má cột đuôi vải vụn; diều mang tranh cả nhà bay trên bờ kênh; má kể hồi xưa diều ba mắc ngọn dừa nhà má, "ổng ở luôn"; Nở: "Trên trời cũng có nhà mình!" | **Hộp bút màu** (dùng lại từ Tập 10) |
+| 14 | Bánh xèo ba đổ | Chiều mưa ba giành đổ bánh xèo: "Trời đất, nó la xèo!"; cái đầu bể ba mảnh, Nở hốt hết "bánh bể ăn ngon hơn"; má chỉ "chảo nóng già, đổ mỏng"; ba đổ cái bánh hình trái tim cho má; Đú: "Mưa vầy ăn bánh xèo là nhứt." | — |
+| 15 | Cái răng đầu tiên | Răng cửa dưới của Nở lung lay; ba đòi cột chỉ vô cửa, má cản; răng rụng vô cục kẹo dừa; Nở ném răng lên mái lá, đọc "Chuột chuột chí chí…"; Nở huýt sáo qua chỗ sún, ba đủ răng mà huýt hổng ra; Đú: "Nhà mình giờ có cô Nở sún!" | **Tập vở, bút** |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -367,3 +370,6 @@ Mỗi tập (từ Tập 13: 40–60s = 4–6 clip × 10s; Tập 1–12: 30s = 3 
 | 10 | [tap-10/](tap-10/README.md) | Vé số độc đắc |
 | 11 | [tap-11/](tap-11/README.md) | Chiếc cặp mới của Nở |
 | 12 | [tap-12/](tap-12/README.md) | Chuyện cổ tích của ba |
+| 13 | [tap-13/](tap-13/README.md) | Con diều vẽ cả nhà |
+| 14 | [tap-14/](tap-14/README.md) | Bánh xèo ba đổ |
+| 15 | [tap-15/](tap-15/README.md) | Cái răng đầu tiên |

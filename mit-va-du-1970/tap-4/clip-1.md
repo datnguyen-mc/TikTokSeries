@@ -1,5 +1,5 @@
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 
 [CHARACTERS — match the attached reference images exactly]
 @Mit = Mit (husband, about 35): anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. He is the tallest of the family. Outfit B (rich period): white silk button-up shirt with sleeves rolled to the elbows, beige pleated trousers, brown leather sandals, gold wristwatch, thick gold chain necklace, head fur slicked back and glossy, round gold-rimmed sunglasses. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s, playful.
@@ -12,9 +12,9 @@ Time: night; the party is on the arched veranda under glowing red paper lanterns
 
 [SHOT LIST]
 00:00–00:02 | Close-up, slow motion — three small glasses of rice wine clink together above the crowded table; droplets fly and sparkle in the red lantern light.
-00:02–00:04 | Medium wide shot, slow pull-back — a noisy party on the veranda: Mit in the middle laughing with his sunglasses on at night, flanked by TƯ MẬP on the right and SÁU ỐM on the left. TƯ MẬP says (loud, booming voice, flattering): "Anh Mit chịu chơi nhất xóm!"
-00:04–00:06 | Medium shot — SÁU ỐM whisks a cloth off a gaudy gilded rooster statue studded with fake jewels and presents it with both paws. SÁU ỐM says (nasal, sly voice, sweet-talking): "Gà vàng phong thủy, có một không hai!"
-00:06–00:08 | Close-up — Mit, delighted, slaps a thick stack of plain banknotes into SÁU ỐM's paw without counting. Mit says (warm, slightly raspy voice, giddy): "Mua! Bao nhiêu anh cũng mua!"
+00:02–00:04.5 | Medium wide shot, slow pull-back — a noisy party on the veranda: Mit in the middle laughing with his sunglasses on at night, flanked by TƯ MẬP on the right and SÁU ỐM on the left. TƯ MẬP says (loud, booming voice, flattering): Anh Mit chịu chơi nhất xóm!
+00:04.5–00:07 | Medium shot — SÁU ỐM whisks a cloth off a gaudy gilded rooster statue studded with fake jewels and presents it with both paws. SÁU ỐM says (nasal, sly voice, sweet-talking): Gà vàng phong thủy, có một không hai!
+00:07–00:10 | Close-up easing back to a medium three-shot — Mit, delighted, slaps a thick stack of plain banknotes into SÁU ỐM's paw without counting and hugs the golden rooster to his chest. Mit says (warm, slightly raspy voice, giddy): Mua! Bao nhiêu anh cũng mua!
 
 [SOUND]
 Glasses clinking, loud laughter, chopsticks on plates, the gramophone playing a fast cha-cha in the background, crickets under the noise.
@@ -23,4 +23,4 @@ Glasses clinking, loud laughter, chopsticks on plates, the gramophone playing a 
 Medium three-shot at the party table: SÁU ỐM on the left clutching the money stack with a sly grin, Mit in the center hugging the gaudy golden rooster statue and laughing with his sunglasses on, TƯ MẬP on the right raising his glass; red lanterns glowing above; dark night yard behind. Hold still for the final 0.5 seconds.
 
 [AVOID]
-Readable text or numbers on the banknotes, any text, humans, extra characters, vomiting or falling-down drunkenness, distorted paws, electric lights, modern objects.
+Readable text or numbers on the banknotes, any text, humans, extra characters, vomiting or falling-down drunkenness, distorted paws, electric lights, modern objects, subtitles.

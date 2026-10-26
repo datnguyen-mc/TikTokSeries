@@ -1,5 +1,5 @@
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 
 [CHARACTERS — match the attached reference images exactly]
 @Mit = Mit (husband, about 35): anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. He is the tallest of the family. Outfit A: faded earth-brown áo bà ba shirt, black trousers rolled up to the knees, black-and-white checkered khăn rằn scarf knotted around the neck, barefoot, a conical nón lá hat when outdoors. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s, playful.
@@ -12,10 +12,11 @@ THE RICH VILLA: a two-story pale-yellow French-colonial villa with a red clay-ti
 Time: grey overcast afternoon, flat cold light, wind stirring the dust; the villa's green shutters are closed; the gramophone stands on a small table on the veranda; a wooden handcart by the front gate is already loaded with the red Honda 67 and the gaudy golden rooster statue.
 
 [SHOT LIST]
-00:00–00:02 | Close-up — the gramophone's needle scratches across the record with a harsh screech as a heavy dark-brindle paw yanks the gramophone up and out of frame; the music dies instantly.
-00:02–00:05 | Medium wide shot, static — CHỦ NỢ marches across the yard with the gramophone under one arm and his ledger under the other, toward the loaded handcart by the gate. CHỦ NỢ says (deep, gruff voice, flat and cold): "Nợ chưa trả, đồ này tui lấy hết."
-00:05–00:07 | Medium shot — Mit, back in his faded earth-brown áo bà ba and clutching his nón lá to his chest, steps forward pleading; behind him Đú holds Nở's paw, a small cloth bundle on her shoulder. Mit says (warm, slightly raspy voice, desperate): "Cho tui thêm vài bữa đi anh!"
-00:07–00:08 | Close-up on CHỦ NỢ — he shakes his head, shifts the toothpick in his mouth, turns away and pushes the loaded handcart out through the gate.
+00:00–00:02.5 | Close-up — the gramophone's needle scratches across the record with a harsh screech as a heavy dark-brindle paw yanks the gramophone up and out of frame; the music dies instantly.
+00:02.5–00:05.5 | Medium wide shot, static — CHỦ NỢ marches across the yard with the gramophone under one arm and his ledger under the other, toward the loaded handcart by the gate. CHỦ NỢ says (deep, gruff voice, flat and cold): Nợ chưa trả, đồ này tui lấy hết.
+00:05.5–00:08 | Medium shot — Mit, back in his faded earth-brown áo bà ba and clutching his nón lá to his chest, steps forward pleading; behind him Đú holds Nở's paw, a small cloth bundle on her shoulder. Mit says (warm, slightly raspy voice, desperate): Cho tui thêm vài bữa đi anh!
+00:08–00:09.5 | Close-up on CHỦ NỢ — he slowly shakes his head, shifts the toothpick in his mouth, turns away and pushes the loaded handcart out through the gate.
+00:09.5–00:10 | Medium shot — Mit stands alone in the middle of the emptied yard, clutching his nón lá to his chest, staring toward the gate; Đú and Nở a few steps behind him, holding paws.
 
 [SOUND]
 Needle screech, the record music cut off abruptly, wind, the creak of the handcart wheels, a low somber cello note.
@@ -24,4 +25,4 @@ Needle screech, the record music cut off abruptly, wind, the creak of the handca
 Medium shot: Mit standing alone in the middle of the emptied villa yard, clutching his nón lá to his chest, looking toward the gate on screen right; Đú and Nở a few steps behind him on the left, holding paws; grey overcast light; the villa with closed green shutters behind. Hold still for the final 0.5 seconds.
 
 [AVOID]
-Readable writing in the ledger, any text, humans, extra characters, violence or shoving, outfit changes, distorted paws.
+Readable writing in the ledger, any text, humans, extra characters, violence or shoving, outfit changes, distorted paws, subtitles.

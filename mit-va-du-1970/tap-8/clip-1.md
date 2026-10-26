@@ -1,5 +1,5 @@
 [FORMAT]
-Vertical 9:16, 8-second shot, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
 
 [CHARACTERS — match the attached reference images exactly]
 @Mit = Mit (husband, about 35): anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. He is the tallest of the family. Outfit A: faded earth-brown áo bà ba shirt, black trousers rolled up to the knees, black-and-white checkered khăn rằn scarf knotted around the neck, barefoot, a conical nón lá hat when outdoors. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s, playful.
@@ -11,10 +11,10 @@ THE WILDFLOWER CANAL BANK: a grassy canal bank near the family's bamboo hut, pur
 Time: golden hour before sunset, warm low backlight, glowing tall grass, long soft shadows.
 
 [SHOT LIST]
-00:00–00:02 | Extreme close-up, backlit — Mit's paw snaps off a stem of purple wild mua flowers; the petals tremble in the golden light. Mit whispers (warm, slightly raspy voice, conspiratorial): "Suỵt, nhỏ nhỏ thôi con."
-00:02–00:04 | Medium shot, slow dolly along the bank — Mit, his nón lá hanging on his back, and Nở crouch in the tall glowing grass picking purple mua flowers and small yellow wild daisies; Nở reaches for a purple water hyacinth at the canal edge and nearly slips; Mit catches her by the back of her shirt; both stifle giggles.
-00:04–00:07 | Medium close two-shot — Mit ties the flowers into a small bouquet with a strip of banana fiber and hands it to Nở, keeping one single purple water hyacinth flower for himself. Nở says (high, bright little-girl voice, excited whisper): "Mẹ thấy chắc mẹ vui lắm ba ha!"
-00:07–00:08 | Medium shot — both freeze, ears perking toward screen right: far down the dike path, Đú appears walking home with a bamboo market basket on her arm. Nở whips the bouquet behind her back and Mit hides his single flower behind his; they stand side by side with stiff, innocent smiles.
+00:00–00:02.5 | Extreme close-up, backlit — Mit's paw snaps off a stem of purple wild mua flowers; the petals tremble in the golden light. Mit whispers (warm, slightly raspy voice, conspiratorial): Suỵt, nhỏ nhỏ thôi con.
+00:02.5–00:05 | Medium shot, slow dolly along the bank — Mit, his nón lá hanging on his back, and Nở crouch in the tall glowing grass picking purple mua flowers and small yellow wild daisies; Nở reaches for a purple water hyacinth at the canal edge and nearly slips; Mit catches her by the back of her shirt; both stifle giggles.
+00:05–00:08 | Medium close two-shot — Mit ties the flowers into a small bouquet with a strip of banana fiber and hands it to Nở, keeping one single purple water hyacinth flower for himself. Nở says (high, bright little-girl voice, excited whisper): Mẹ thấy chắc mẹ vui lắm ba ha!
+00:08–00:10 | Medium shot — both freeze, ears perking toward screen right: far down the dike path, Đú appears walking home with a bamboo market basket on her arm. Nở whips the bouquet behind her back and Mit hides his single flower behind his; they stand side by side with stiff, innocent smiles.
 
 [SOUND]
 Rustling grass, birdsong at dusk, the canal lapping, stifled giggles, a playful tiptoe pizzicato melody.
@@ -23,4 +23,4 @@ Rustling grass, birdsong at dusk, the canal lapping, stifled giggles, a playful 
 Medium shot on the canal bank in golden backlight: Mit on the left and Nở on the right standing side by side, both with paws hidden behind their backs, stiff innocent smiles, looking toward screen right; Đú small in the background on the dike path at the right, approaching with a bamboo market basket on her arm; glowing grass and purple water hyacinths in the foreground. Hold still for the final 0.5 seconds.
 
 [AVOID]
-Any text, humans, extra characters, wrapping paper or plastic, distorted paws, modern objects.
+Any text, humans, extra characters, wrapping paper or plastic, distorted paws, modern objects, subtitles.

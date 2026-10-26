@@ -1,0 +1,24 @@
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+
+[CHARACTERS — unchanged]
+@Mit = Mit: golden-tan native dog, cream muzzle, LEFT ear tip folded; faded earth-brown áo bà ba, black trousers rolled to the knees, checkered khăn rằn at the neck, barefoot, nón lá when outdoors; warm, slightly raspy Southern male voice.
+@Nở = Nở: small cream puppy with golden-tan patches, tan patch around her right eye, two short pigtails tied with red yarn; pale-pink áo bà ba, black shorts, barefoot; high, bright little-girl voice.
+Entering in this segment:
+@Đú = Đú (wife, early 30s): anthropomorphic Vietnamese native dog standing upright on two legs, slim gentle build, creamy-white fur, soft light-tan ears that fold forward, soft round face, gentle almond-shaped brown eyes, pink-brown nose, head fur gathered in a low bun held by a plain wooden hairpin, paw-hands with four fingers. She is about a head shorter than Mit. Outfit A: faded lavender áo bà ba shirt, black satin trousers, black-and-white checkered khăn rằn draped over one shoulder, barefoot. Voice: soft, warm Southern Vietnamese female voice, early 30s, gentle.
+
+[SHOT LIST]
+00:00–00:03 | Medium two-shot, static, continuing from the last frame — Mit holds the open storybook almost against his nose, pages facing him, and traces the lines with one finger, sounding the words out one syllable at a time with long pauses; Nở leans in, waiting. Mit says (warm, slightly raspy voice, painfully slow, one syllable at a time): Ngày… xửa… ngày… xưa…
+00:03–00:04.5 | Medium two-shot, static — Nở flops against the bamboo door post with an exaggerated fake snore, tongue out, one eye cracked open to peek at her father; Mit lowers the book with a sheepish grin and scratches behind his folded LEFT ear.
+00:04.5–00:07 | Medium shot, slow push-in — Mit snaps the book shut with a soft thump, sets it on the doorstep beside his nón lá, puffs out his chest like a village storyteller and mimes with empty paws: pushing an invisible plow, then hugging an invisible jar to his chest, eyes popping, both ears shooting up; Nở sits up giggling. Behind them, soft and out of focus in the glowing doorway, Đú quietly steps out with a thin folded blanket over her arm and stands listening, mouth closed; neither of them notices her. Mit says (warm, slightly raspy voice, lively storyteller tone): Ngày xưa có anh khờ, cày trúng hũ vàng.
+00:07–00:09 | Medium three-shot, static — Mit flings his empty paws up as if tossing money into the air, then lets them drop, ears drooping, staring at his empty paws. Mit says (warm, slightly raspy voice, quieter, sheepish): Ảnh hổng nghe vợ, mất hết trơn.
+00:09–00:10 | Medium three-shot, static — right after his last word, Mit glances back over his shoulder and meets Đú's raised eyebrow; Nở narrows her eyes at him.
+
+[SOUND]
+Crickets throughout, a comic wood-block tick on each slow syllable, Nở's exaggerated fake snore, the soft thump of the book shutting, a playful plucked-string storyteller tune with a comic boing when Mit's ears shoot up, the tune stopping on one sheepish note at his guilty glance.
+
+[END FRAME]
+Medium three-shot on the moonlit doorstep from the same low three-quarter angle: Nở at screen left leaning against the bamboo door post with her white pillow, looking up at her father with narrowed, knowing eyes; Mit at screen right, empty paws resting on his knees, ears drooping, glancing guiltily back over his shoulder; Đú standing in the glowing open doorway behind them at center, a thin folded blanket over her arm, one eyebrow raised, lips pressed on a suppressed smile; the closed storybook and Mit's nón lá lying on the doorstep beside him; one big full moon above the coconut palms at the upper left. Hold still for the final 0.5 seconds.
+
+[AVOID]
+Props appearing during Mit's mime (no plow, jar, gold, coins or banknotes; empty paws only), the book's pages facing the camera, readable letters, words or numbers anywhere, Đú speaking or in sharp focus before Mit looks back, Nở really falling asleep in this segment, dialogue spoken by the wrong character, the nón lá on Mit's head, more than one moon, humans, extra characters, electric lights, outfit changes, distorted paws or extra fingers, subtitles.

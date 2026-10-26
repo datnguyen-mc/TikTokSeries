@@ -1,5 +1,5 @@
-Start exactly from the provided first frame (the final frame of the previous clip) and continue the scene seamlessly. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Style unchanged: high-end 3D animated film, vertical 9:16, Vietnamese dialogue with a natural Southern accent and accurate lip-sync, no subtitles or on-screen text.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
 
 [CHARACTERS — unchanged]
 @Mit = Mit: golden-tan native dog, cream muzzle, LEFT ear tip folded; faded earth-brown áo bà ba, black trousers rolled to the knees, checkered khăn rằn at the neck, barefoot, nón lá when outdoors; warm, slightly raspy Southern male voice.
@@ -13,15 +13,17 @@ Time: the same early morning, soft gold sunlight.
 
 [SHOT LIST]
 00:00–00:01 | Wide tracking shot, continuing — Mit keeps running along the dike, splashing, hugging the jar. Hard cut at 00:01.
-00:01–00:04 | Medium shot in the front yard of the bamboo hut — Đú stands beside the clay water jar holding a woven bamboo basket full of water spinach, Nở next to her. Mit skids into frame, panting and mud-splattered, and tilts the open jar toward them; golden light washes over their faces. Mit says (warm, slightly raspy voice, breathless and overjoyed): "Mình ơi, nhà mình giàu rồi!"
-00:04–00:05 | Slow-motion close-up — the bamboo basket slips from Đú's paws, water spinach scattering mid-air; her jaw drops and her eyes go huge.
-00:05–00:08 | Medium three-shot, slow push-in — Nở jumps up and down clapping. Nở says (high, bright little-girl voice, squealing): "Vàng! Nhà mình có vàng!" Đú, still frozen, slowly pinches her own cheek. Đú says (soft, warm voice, stunned): "Mình… đang nằm mơ hả?"
+00:01–00:04.5 | Medium shot in the front yard of the bamboo hut — Đú stands beside the clay water jar holding a woven bamboo basket full of water spinach, Nở next to her. Mit skids into frame, panting and mud-splattered, and tilts the open jar toward them; golden light washes over their faces. Mit says (warm, slightly raspy voice, breathless and overjoyed): Mình ơi, nhà mình giàu rồi!
+00:04.5–00:06 | Slow-motion close-up — the bamboo basket slips from Đú's paws, water spinach scattering mid-air; her jaw drops and her eyes go huge.
+00:06–00:07.5 | Medium three-shot, slow push-in — Nở jumps up and down clapping. Nở says (high, bright little-girl voice, squealing): Vàng! Nhà mình có vàng!
+00:07.5–00:09 | Medium three-shot, slow push-in continues — Đú, still frozen, slowly pinches her own cheek. Đú says (soft, warm voice, stunned): Mình… đang nằm mơ hả?
+00:09–00:10 | Medium three-shot, static — the family settles into the final composition: Mit grinning with the glowing jar held toward camera, Đú pinching her cheek, Nở mid-jump.
 
 [SOUND]
 Panting, the basket thudding on the dirt, a shimmering chime, Nở's giggles, the bright melody hitting a comedic final note.
 
 [END FRAME]
-Medium three-shot from a low angle near the jar: Mit in the center grinning, holding the open glowing jar toward camera; Đú on the left pinching her own cheek, stunned; Nở on the right mid-jump with paws up; all three faces lit warm gold from the jar; scattered water spinach on the dirt; thatched roof and coconut palms behind under the morning sky. Hold still for the final 0.5 seconds as a thumbnail frame.
+Medium three-shot from a low angle near the jar: Mit in the center grinning, holding the open glowing jar toward camera; Đú on the left pinching her own cheek, stunned; Nở on the right mid-jump with paws up; all three faces lit warm gold from the jar; scattered water spinach on the dirt; thatched roof and coconut palms behind under the morning sky. Hold still for the final 1 second as a thumbnail frame.
 
 [AVOID]
-Any text, humans, extra characters, the buffalo in the yard, outfit changes, distorted paws, modern objects.
+Any text, humans, extra characters, the buffalo in the yard, outfit changes, distorted paws, modern objects, subtitles.

@@ -1,6 +1,6 @@
 # Hướng dẫn chung — Prompt Google Flow cho các series TikTok
 
-**Áp dụng cho:** Mit & Đú 1970 · 365 Ngày Phèo Làm Nội Trợ · Nhà Tèo & Sún · Tây Du Ký 2026 · Mẹ và Bé. Series 365 Ngày Việt Nam theo template riêng trong [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md); với series đó chỉ bảng **Độ dài tập** và mục **Kịch bản như người thật chia sẻ** dưới đây áp dụng chung.
+**Áp dụng cho:** Mit & Đú 1970 · 365 Ngày Phèo Làm Nội Trợ · Nhà Tèo & Sún · Tây Du Ký 2026 · Mẹ và Bé · Biệt Đội Gara. Series 365 Ngày Việt Nam theo template riêng trong [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md); với series đó chỉ bảng **Độ dài tập** và mục **Kịch bản như người thật chia sẻ** dưới đây áp dụng chung.
 **Model:** Gemini Omni trong Google Flow, **10 giây mỗi clip** (cập nhật 24/10/2026; trước đó dùng Veo 3.1, 8 giây mỗi clip)
 **Cấu trúc mỗi thư mục series — mỗi ngày đăng 1 tập, ghép từ các clip 10 giây; độ dài tập theo từng series (bảng "Độ dài tập" bên dưới):**
 - `tap-{số}/`: thư mục của một tập (một ngày đăng). `README.md` là tổng quan: tóm tắt, ảnh cần đính kèm, kịch bản nhanh, ghi chú. `clip-1.md`, `clip-2.md`, … `clip-N.md`: **mỗi clip 10 giây là một file chỉ chứa đúng prompt** (copy cả file dán vào Flow), tương ứng một lần tạo trên Flow. `caption.md`: caption TikTok dán sẵn (tối đa 5 hashtag, vì từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu), bình luận ghim tối đa 150 ký tự và các lưu ý trước khi đăng; README chỉ để link tới file này. Tập mới đánh số tiếp.
@@ -14,6 +14,7 @@
 | Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-11](tay-du-ky-2026/tap-11/README.md) (tập 1–7 đã gỡ khỏi repo) |
 | 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap5-tuyen-quang](365ngayvietnam/tap5-tuyen-quang/README.md) |
 | Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-3](me-va-be/tap-3/README.md) |
+| Biệt Đội Gara | [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md) | [tap-1](biet-doi-gara/tap-1/README.md) → [tap-3](biet-doi-gara/tap-3/README.md) |
 
 **Tập chủ đề 20/10:** Mit & Đú tap-8 · Phèo tap-3 · Tèo & Sún tap-2 · Tây Du Ký tap-4
 
@@ -29,6 +30,7 @@
 | Nhà Tèo & Sún | 40–60s tùy câu chuyện | 4–6 | Chuyện trong nhà → Tèo vụng về hoặc trục trặc → mẹo đời sống (sản phẩm xuất hiện tự nhiên) → kết yêu thương | Tập 7 |
 | 365 Ngày Việt Nam | khoảng 90s | 9 (8–10 tùy lộ trình) | Xem [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md) của series | Tập 5 |
 | Mẹ và Bé | 40–60s tùy câu chuyện | 4–6 | Mở bằng em bé → đồ cho bé và một mẹo có nguồn → khó khăn nhỏ → khoảnh khắc thương → kết ấm, thumbnail; mỗi tập hai bé lớn thêm 1 tuần | Tập 1 |
+| Biệt Đội Gara | 40s tập đánh nhau, 60s tập kể chuyện | 4 hoặc 6 | Hook hành động, biến hình → đánh nhau (mỗi nhịp một động tác) → cú lật → gia đình Gara Bảy và móc câu | Tập 1 |
 
 **Kịch bản "như người thật chia sẻ"** (mọi series):
 - **Mỗi clip có một điều mới** cho người xem: một chi tiết đời thật, một mẹo, một bước làm, một con số hoặc một nhịp cảm xúc. Không có clip chỉ để kéo dài.
@@ -69,8 +71,9 @@ Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo v
 | Nhà Tèo & Sún | `@TeoTeo` (chó đực) · `@SunSun` (chó cái) | TeoTeo · SunSun |
 | Tây Du Ký 2026 | `@Thay` · `@DaiCa` · `@HeoLuoi` · `@UtKho` | THẦY · ĐẠI CA · HEO LƯỜI · ÚT KHỜ |
 | Mẹ và Bé | `@Ngoc` · `@Gao` · `@Bong` | NGỌC · GẠO · BÔNG |
+| Biệt Đội Gara | `@Thang` · `@Lan` · `@Hai` · `@Khoi` · `@Minh` | THẮNG · LAN · HẢI · KHÔI · MINH |
 
-Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo, Tây Du Ký và Mẹ và Bé giữ tên gốc trong phần còn lại của prompt: "No" là từ tiếng Anh, viết "No walks in…" model dễ hiểu nhầm. Nếu nhân vật trên Flow được tạo từ ảnh bộ đồ thường ngày, ở các tập mặc đồ khác (Mit & Đú tập 3, 4 và cảnh mơ tập 10, Tèo & Sún tập 2, Tây Du Ký tập 3) thì đính thêm ảnh bộ đồ đó.
+Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo, Tây Du Ký, Mẹ và Bé và Biệt Đội Gara giữ tên gốc trong phần còn lại của prompt: "No" là từ tiếng Anh, viết "No walks in…" model dễ hiểu nhầm. Nếu nhân vật trên Flow được tạo từ ảnh bộ đồ thường ngày, ở các tập mặc đồ khác (Mit & Đú tập 3, 4 và cảnh mơ tập 10, Tèo & Sún tập 2, Tây Du Ký tập 3) thì đính thêm ảnh bộ đồ đó.
 
 **Clip 1**
 1. Bấm tên model ở ô prompt → **Video** → **Gemini Omni** → **Ingredients**. Mặc định Flow để model ảnh Nano Banana Pro: quên đổi sẽ ra ảnh, không ra video.
@@ -129,6 +132,8 @@ Prompt viết **bằng tiếng Anh**. **Thoại tiếng Việt** ghi sau dấu h
 > **Riêng Tây Du Ký 2026 là hoạt hình 2D** (từ 26/10/2026): [FORMAT], câu mở đầu clip 2 trở đi và câu chặn 3D cuối [AVOID] lấy ở mục 3 của [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md), không dùng khối 3D mẫu dưới đây.
 >
 > **Riêng Mẹ và Bé là hình người thật** (từ 26/10/2026): [FORMAT], câu mở đầu clip 2 trở đi và câu chặn cuối [AVOID] (chặn hình hoạt hình, em bé méo mặt, đồ trong nôi, bình bú) lấy ở mục 3 của [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md). Video có người giống thật phải bật nhãn **Nội dung do AI tạo** khi đăng.
+>
+> **Riêng Biệt Đội Gara là người thật kèm chiến binh mặc giáp** (từ 26/10/2026): [FORMAT], câu mở đầu và câu chặn cuối [AVOID] (không súng, không máu, không đua ẩu ngoài đường thật, không giáp giống loạt phim có sẵn) lấy ở mục 4 của [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md). Mỗi nhân vật có khóa thường phục và khóa giáp; clip biến hình có thêm khối `[TRANSFORMATION IN THIS SEGMENT]`.
 
 ### Clip 1 — tạo mới (Ingredients)
 

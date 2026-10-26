@@ -180,4 +180,4 @@ Ngày 9 Phèo vô bếp: GÀ KHO GỪNG 🫚 Bà chủ cảm lạnh ra kèo "ăn
 
 🐾 Phèo và Hường là nhân vật hoạt hình: chó mèo thật không ăn được hành, tỏi, ớt hay đồ kho mặn nha.
 
-Hashtag gợi ý (tự chỉnh): #pheolamnoitro #gakhogung #monngonmoingay #nauan #hoathinh3d
+#pheolamnoitro #gakhogung #monngonmoingay #nauan #hoathinh3d

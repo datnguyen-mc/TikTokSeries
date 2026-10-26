@@ -75,15 +75,17 @@ Ngày thứ tư của Vy và Joi ở Xứ Lạng - Lạng Sơn! Hơn hai trăm c
 
 ---
 
-## 📋 TẬP 5: TUYÊN QUANG — Hạ Long Giữa Đại Ngàn & Bánh Gai Chiêm Hóa (9 Clips · khoảng 90 giây)
+## 📋 TẬP 5: TUYÊN QUANG — Mưa Đầu Chặng Về Tân Trào & Một Ngày Trên Hồ Na Hang: Bánh Gai Chiêm Hóa, Thác Khuổi Nhi, Cá Bỗng Sông Gâm (9 Clips · 90 giây)
 
 ### 🎵 Nhạc đề xuất:
-- **Lựa chọn 1 (Ưu tiên):** Âm hưởng sáo trúc Tuyên Quang kết hợp tiết tấu Indie Acoustic rộn rã khi đi thuyền lòng hồ Na Hang.
-- **Lựa chọn 2:** Giai điệu Pop Ballad mộc mạc vui tươi bên suối Thác Khuổi Nhi.
+- **Lựa chọn 1 (Ưu tiên):** Đàn Tính Tày và sáo trúc phối Acoustic Folk + Indie; mở bằng huýt sáo trên QL37, chùng xuống khi mưa rào, trang nghiêm dưới Cây Đa Tân Trào, rộn ràng khi thuyền rời bến Thượng Lâm, khép bằng một câu sáo trúc ngân dài lúc hoàng hôn trên Hồ Na Hang.
+- **Lựa chọn 2:** Lo-fi Acoustic ấm áp cho bữa sáng bánh gai Chiêm Hóa và mâm trưa nhà sàn Bản Nà Tông.
 
 ### 📝 Caption TikTok (Chuẩn 5 Hashtags):
 ```text
-Ngày thứ năm trong hành trình 365 Ngày Việt Nam của Vy và Joi tại Tuyên Quang — "Hạ Long giữa đại ngàn"! Trải nghiệm massage chân bằng cá suối tự nhiên tại Thác Khuổi Nhi cười xỉu và mê mẩn đĩa cá lăng nướng than cùng bánh gai Chiêm Hóa dẻo quánh! Ngày mai cùng tụi mình đến với thủ phủ chè Thái Nguyên nha cả nhà ơi! 🇻🇳🛶🐟
+Ngày thứ năm của Vy và Joi ở Tuyên Quang! Khoảng hai trăm cây số từ Ải Chi Lăng, dính mưa rào giữa đường, chiều ghé Cây Đa Tân Trào. Sáng hôm sau ăn bánh gai Chiêm Hóa gói cặp vừa vớt khỏi nồi, rồi đi thuyền trên Hồ Na Hang: ngâm chân cho cá suối rỉa ở Thác Khuổi Nhi, ngắm Cọc Vài Phạ, trưa cuốn cá bỗng Sông Gâm nướng với bánh đa ở Bản Nà Tông, chiều đón hoàng hôn giữa hồ. 🇻🇳🛶🐟
+
+📌 Cẩm nang nhanh: mưa thì mặc áo mưa bộ, giữ khoảng cách, phanh sớm · Cây Đa và Đình Tân Trào cách nhau khoảng 500 m · bánh gai Chiêm Hóa gói cặp, rắc vừng · thuê nguyên thuyền ở bến Thượng Lâm, hỏi giá trước · đá ở Thác Khuổi Nhi rất trơn · hoàng hôn trên hồ khoảng 17:20.
 
 #365ngayvietnam #TuyenQuang #NaHang #VyvaJoi #xuyenviet
 ```

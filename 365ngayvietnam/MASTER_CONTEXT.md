@@ -290,7 +290,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 - **Tập 2 (Cao Bằng):** Thác Bản Giốc, Sông Quây Sơn, Trùng Khánh, Pác Bó, Suối Lê Nin, Đèo Mã Phục, Cao Bằng
 - **Tập 3 (Bắc Kạn):** Hồ Ba Bể, Vườn Quốc Gia Ba Bể, Đỉnh Đồn Đèn, Chợ Rã, Bản Pác Ngòi, Bến Pác Ngòi, Đảo Bà Góa (Pò Giả Mải), Đảo An Mạ, Đền An Mạ, Ao Tiên, Bản Cám, Sông Năng, Động Puông, Lũng Nham, Bắc Kạn
 - **Tập 4 (Lạng Sơn):** Bản Pác Ngòi, Hồ Ba Bể, Chợ Rã, Na Rì, Cường Lợi, Thất Khê, Tràng Định, Na Sầm, Đồng Đăng, Động Tam Thanh, Chùa Tam Thanh, Núi Tam Thanh, Hồ Âm Ty, Núi Tô Thị, Nàng Tô Thị, Núi Phai Vệ, Cột Cờ Phai Vệ, Phố Kỳ Lừa, Chợ Đêm Kỳ Lừa, Ải Chi Lăng, Chi Lăng, Quán Thanh, Nhà Trưng Bày Chiến Thắng Chi Lăng, Hữu Lũng, Xứ Lạng, Lạng Sơn
-- **Tập 5 (Tuyên Quang):** Na Hang, Cọc Vài Phạ, Thác Khuổi Nhi, Bản Nà Tông, Cây Đa Tân Trào, Chiêm Hóa, Tuyên Quang
+- **Tập 5 (Tuyên Quang):** Thái Nguyên, Sơn Dương, Tân Trào, Cây Đa Tân Trào, Đình Tân Trào, Chiêm Hóa, Vĩnh Lộc, Thượng Lâm, Hồ Na Hang, Na Hang, Sông Gâm, Thác Khuổi Nhi, Cọc Vài Phạ, Lâm Bình, Bản Nà Tông, Nà Tông, Tuyên Quang
 
 ---
 
@@ -315,15 +315,9 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 |:---:|---|:---:|:---:|---|
 | **1** | Hà Giang | 7 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 lăn bánh rời Mèo Vạc trong hoàng hôn → hướng Cao Bằng |
 | **2** | Cao Bằng | 6 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 (kính xuống) lăn bánh rời Đèo Mã Phục hoàng hôn → hướng Bắc Kạn |
-<<<<<<< HEAD
-| **3** | Bắc Kạn | 6 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 (kính xuống) lăn bánh xuôi Đèo Gió hoàng hôn → hướng Lạng Sơn |
-| **4** | Lạng Sơn | 6 | ✅ HOÀN THÀNH | Scrambler chở 2 người đội mũ 3/4 lăn bánh rời Cột Cờ Phai Vệ hoàng hôn → hướng Tuyên Quang |
-| **5** | Tuyên Quang | 7 | 📋 OUTLINE | — |
-=======
 | **3** | Bắc Kạn | 7 | ✅ HOÀN THÀNH | Đêm trăng rằm ở nhà sàn Bản Pác Ngòi: Scrambler dựng trong sân, 2 mũ 3/4 móc trên ghi-đông. Tập 4 mở vào sáng hôm sau (7:00–8:00): đội mũ, cài quai, rời Pác Ngòi theo QL279 đi Lạng Sơn (không chạy đèo ban đêm) |
 | **4** | Lạng Sơn | 7 | ✅ HOÀN THÀNH | Sáng thứ Hai 26/10/2026 ở Ải Chi Lăng: hai người đội mũ 3/4, cài quai, gạt kính xuống; Scrambler rời bãi đỗ trước Nhà Trưng Bày Chiến Thắng Chi Lăng, nhập QL1A về phía Hữu Lũng → hướng Tuyên Quang (khoảng 175 km). Tập 5 mở trên đường, mũ vẫn đội và cài quai; dự báo mưa rào sau trưa nên có thể có cảnh áo mưa; không chạy đèo ban đêm |
-| **5** | Tuyên Quang | 9 | 📋 OUTLINE (mục tiêu 90 giây) | — |
->>>>>>> 929d8dd14ac3ecb261b8d7f8e4dba3b62527439c
+| **5** | Tuyên Quang | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Ba 27/10/2026 trên Hồ Na Hang: thuyền gỗ quay mũi về bến thủy Thượng Lâm lúc hoàng hôn (mặt trời lặn 17:24), hai người mặc áo phao cam; Scrambler đỗ ở bến, 2 mũ 3/4 móc trên ghi-đông. Ngoài khung: về bến trước 17:30, đội mũ, cài quai, chạy khoảng 1,3 km về nhà sàn Bản Nà Tông nghỉ đêm. Tập 6 mở sáng thứ Tư 28/10/2026 (19/9 âm lịch) ở sân nhà sàn Bản Nà Tông: Scrambler dưới gầm sàn, 2 mũ móc trên ghi-đông; không chạy đèo ban đêm |
 
 ---
 

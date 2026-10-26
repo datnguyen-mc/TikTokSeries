@@ -9,22 +9,22 @@ Widescreen 16:9, 10-second clip, photorealistic live-action superhero action fil
 BÁC BẢY (HOLOGRAM): kind elderly Vietnamese mechanic in late 60s, crew cut, warm smile lines, blue work shirt, glowing soft-blue hologram; warm elderly Southern male voice.
 
 [SETTING]
-GARA BẢY AT NIGHT: two-story mechanic garage beside a canal in Saigon, oil-stained concrete floor, teal neon and warm work lamps, walls of hanging tools, hydraulic lift, mezzanine with wooden table; no readable text.
-Time: Scene 34/45, timecode 33:00 – 34:00. Atmosphere: high-adrenaline action, tension, emotional bond.
+GARA BẢY WORKSHOP CORNER AT NIGHT: cozy mechanic garage workshop beside a canal in Saigon, oil-stained concrete floor, teal neon and warm work lamps, walls of hanging tools; in the corner is Bác Bảy's old wooden mechanic workbench with an antique metal toolbox and a small framed photo of the elderly mechanic; no religious altar, no political symbols, no readable text.
+Time: Scene 34/45, timecode 33:00 – 34:00. Atmosphere: solemn family bond, hope, preparation for final mission.
 
 [CAMERA & LIGHT]
-Cinematic anamorphic 35mm wide angle for action beats, 50mm and 85mm for emotional character close-ups; dynamic camera tracking and stable gimbal movements; neon and sodium reflections.
+Cinematic anamorphic 35mm wide angle for character group shot, warm golden work lights illuminating the old mechanic workbench; dynamic gentle camera push-in.
 
 [SHOT LIST]
-00:00–00:03 | Establishing shot, 35mm — Cả bốn người đứng trước bàn thờ Bác Bảy. Hải quỳ xuống tháo một viên gạch bí mật dưới chân bàn thờ, lấy ra một chiếc hộp sắt bọc vải nhung.
-00:03–00:07 | Medium shot, 50mm — Action intensifies. Character speaking: Hải: "Còn cái này Bác Bảy dặn khi nguy cấp mới mở."
-00:07–00:10 | Dynamic close-up, 85mm — Reaction shot and movement towards the next beat. Hold final action for seamless frame extend.
+00:00–00:03 | Establishing shot, 35mm — All four (THẮNG, LAN, HẢI, MINH) gather around Bác Bảy's old wooden mechanic workbench in the corner of the garage. HẢI kneels down and loosens a secret floor compartment beneath the workbench, lifting out a small metal box wrapped in soft velvet.
+00:03–00:07 | Medium shot, 50mm — HẢI blows dust off the box, his bearded face solemn. HẢI says (warm, booming Southern voice, gentle): "Còn cái này Bác Bảy dặn khi nguy cấp mới mở."
+00:07–00:10 | THẮNG steps forward, receiving the velvet-wrapped box and placing it onto the workbench, ready to open the holographic message.
 
 [SOUND]
-Engine roar, tire screech on pavement, mechanical armor hum, deep cinematic percussion and bass pulses.
+Soft metallic latch clicks, gentle ambient workshop drone, warm uplifting strings and low piano chord.
 
 [END FRAME]
-Clean freeze on the final frame of the action beat for seamless continuation into clip 2.
+THẮNG untying the velvet cloth around the small metallic hologram projector on the workbench, LAN and MINH watching closely. Hold final frame still for 0.5s for seamless frame extension into clip 2.
 
 [AVOID]
-guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look.
+Ho Chi Minh, portraits of Ho Chi Minh, political figures, national leaders, statues, busts, political altars, religious shrines, incense burners, red banners, political symbols, guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look.

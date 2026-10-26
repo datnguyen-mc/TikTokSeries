@@ -9,9 +9,9 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Cả bốn người đứng trước bàn thờ Bác Bảy. Hải quỳ xuống tháo một viên gạch bí mật dưới chân bàn thờ, lấy ra một chiếc hộp sắt bọc vải nhung. Sau đó, Luồng ánh sáng xanh lam dịu mát bốc lên, hiện rõ hình ảnh Bác Bảy với mái tóc bạc cắt ngắn, nụ cười phúc hậu và chiếc tẩu thuốc quen thuộc. Cuối cùng, Hình ảnh hologram tan dần vào không khí. Bốn người đứng nghiêm trang, trái tim đập chung một nhịp đập thiêng liêng của gia đình.
+Cả bốn người đứng trước bàn làm việc kỷ niệm của Bác Bảy. Hải tháo ngăn bí mật dưới chân bàn làm việc, lấy ra một chiếc hộp sắt bọc vải nhung. Sau đó, Luồng ánh sáng xanh lam dịu mát bốc lên, hiện rõ hình ảnh Bác Bảy với mái tóc bạc cắt ngắn, nụ cười phúc hậu và chiếc tẩu thuốc quen thuộc. Cuối cùng, Hình ảnh hologram tan dần vào không khí. Bốn người đứng nghiêm trang, trái tim đập chung một nhịp đập thiêng liêng của gia đình.
 
-* **Bối cảnh chính:** Trước bàn thờ Bác Bảy.
+* **Bối cảnh chính:** Trước bàn làm việc kỷ niệm của Bác Bảy.
 * **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
 * **Thời lượng:** Đúng 60 giây, khớp hoàn hảo 1 phút trên timeline YouTube.
 
@@ -21,7 +21,7 @@ Cả bốn người đứng trước bàn thờ Bác Bảy. Hải quỳ xuống 
 
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Cả bốn người đứng trước bàn thờ Bác Bảy. Hải quỳ xuống tháo một viên gạch bí mật dưới chân bàn thờ, lấy ra một chiếc hộp sắt bọc vải nhung.** | Hải: "Còn cái này Bác Bảy dặn khi nguy cấp mới mở." | Ingredients (Khóa mặt & cảnh) |
+| 1 | 00:00–00:10 | **Cả bốn người đứng trước bàn làm việc kỷ niệm của Bác Bảy. Hải tháo ngăn bí mật dưới chân bàn làm việc, lấy ra một chiếc hộp sắt bọc vải nhung.** | Hải: "Còn cái này Bác Bảy dặn khi nguy cấp mới mở." | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Thắng mở hộp, bên trong là một chiếc máy chiếu hologram tí hon hình bánh xe. Thắng bấm nút kích hoạt.** | Thắng: "Di ngôn cuối cùng của Bác." | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Luồng ánh sáng xanh lam dịu mát bốc lên, hiện rõ hình ảnh Bác Bảy với mái tóc bạc cắt ngắn, nụ cười phúc hậu và chiếc tẩu thuốc quen thuộc.** | Bác Bảy: "Thắng, Lan, Hải, Khôi... Mấy đứa nghe bác dặn nè." | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Hình ảnh Bác Bảy nhìn từng đứa con tự chọn của mình: "Nếu thằng Hùng quay lại, mấy đứa đừng đánh nó vì hận thù. Nó là đứa con bác nuôi từ tấm bé, nó chỉ lạc đường vì tham lam thôi."** | Bác Bảy: "Kéo nó về, đừng giết chết nó." | Frames / Extend (Nối liền) |

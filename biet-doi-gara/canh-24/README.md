@@ -24,7 +24,7 @@ Thắng túm lấy cổ áo ba lỗ của Hải, đẩy mạnh anh vào cột th
 | 1 | 00:00–00:10 | **Thắng túm lấy cổ áo ba lỗ của Hải, đẩy mạnh anh vào cột thép cầu nâng xe. Cờ lê trên tay Hải rơi leng keng xuống nền xi măng.** | Thắng: "Mười năm nay mày giấu tao cái gì nữa hả Hải?!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Hải không hề đánh trả, hai mắt đỏ hoe ngấn nước, giọng run rẩy nghẹn ngào trong cổ họng.** | Hải: "Anh Thắng! Em mồ côi từ nhỏ, đi lang thang lượm rác..." | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Hải đưa cánh tay xăm trổ chi chít sẹo cũ ra: "Năm 18 tuổi em bị thằng Hùng dụ dỗ đi trộm phụ tùng xe. Bị người ta đánh gần chết quăng ngoài bãi rác kênh Nhiêu Lộc!"** | Hải: "Chính Bác Bảy cưu mang em về đây!" | Frames / Extend (Nối liền) |
-| 4 | 00:30–00:40 | **Hải quỳ sụp xuống trước bàn thờ Bác Bảy, dập đầu ba cái thật mạnh vào nền gạch: "Bác Bảy cho em chén cơm, dạy em nghề sửa xe, dạy em làm người lương thiện!"** | Hải: "Em mà phản bội cái nhà này, sét đánh chết em liền!" | Frames / Extend (Nối liền) |
+| 4 | 00:30–00:40 | **Hải quỳ sụp xuống trước bàn làm việc kỷ niệm của Bác Bảy, đặt tay lên hộp đồ nghề cũ: "Bác Bảy cho em chén cơm, dạy em nghề sửa xe, dạy em làm người lương thiện!"** | Hải: "Em mà phản bội cái nhà này, sét đánh chết em liền!" | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Lan chạy lại ôm lấy vai Hải, khóc nấc lên: "Anh Thắng thôi đi! Anh Hải không có làm đâu! Anh buông anh Hải ra đi!"** | Lan: "Anh Hải nấu cơm cho tụi mình mỗi ngày mà!" | Frames / Extend (Nối liền) |
 | 6 | 00:50–01:00 | **Thắng từ từ buông tay khỏi áo Hải, đứng lặng người nhìn người em trai hộ pháp đang run rẩy khóc.** | Thắng: "Vậy thì... tin tức lộ từ đâu ra?" | Frames / Extend (Nối liền) |
 

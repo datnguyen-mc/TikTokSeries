@@ -24,7 +24,7 @@
 | 1 | 00:00–00:10 | **COLD OPEN: Flycam toàn cảnh hoàng hôn kênh Sài Gòn. Title Card phim "BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN" hiện lên hoành tráng. Máy quay hạ vào xưởng, Lan trượt ván ra từ gầm xe hatchback trắng.** | Thắng (Voice-over): "Ở nhà này, tụi tui chạy vì người mình thương!" · Lan: "Con ốc này cứng đầu ghê!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Cận cảnh Hải bên bếp gas mini trên gác lửng, to lớn lực lưỡng trong chiếc tạp dề da, tay đảo chảo thịt kho tiêu thơm nức mũi.** | Hải: "Cơm nước xong rồi, mấy đứa vô ăn!" | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Khôi ngồi gục đầu trước giàn ba màn hình vi tính ngổn ngang vi mạch, chiếc kính tròn trễ xuống mũi, giật bắn mình vì tiếng chuông báo.** | Khôi: "Em chuẩn bị hack xong vệ tinh rồi mà!" | Frames / Extend (Nối liền) |
-| 4 | 00:30–00:40 | **Thắng đứng trước bàn thờ Bác Bảy ở góc xưởng, chắp tay thắp nén nhang trầm. Bên cạnh di ảnh là chiếc hộp đồ nghề bằng thép xỉn màu khóa kín.** | Thắng: "Hôm nay tụi nhỏ ngoan lắm Bác." | Frames / Extend (Nối liền) |
+| 4 | 00:30–00:40 | **Thắng bước đến bàn làm việc kỷ niệm của Bác Bảy ở góc xưởng, đặt tay lên bức ảnh người thầy thợ máy cũ. Bên cạnh ảnh là chiếc hộp đồ nghề bằng thép xỉn màu khóa kín.** | Thắng: "Hôm nay tụi nhỏ ngoan lắm Bác." | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Lan bước tới vuốt ve vô lăng chiếc hatchback trắng, ánh mắt bồi hồi nhớ về người cha đã khuất.** | Lan: "Xe của ba chạy êm ru rồi anh Thắng." | Frames / Extend (Nối liền) |
 | 6 | 00:50–01:00 | **Cả bốn người quây quần bên mâm cơm gỗ. Đột nhiên đèn neon chớp giật liên hồi, mặt nước kênh bên ngoài rung chuyển dữ dội.** | Thắng: "Khoan đã... Có xe lớn đang tới!" | Frames / Extend (Nối liền) |
 

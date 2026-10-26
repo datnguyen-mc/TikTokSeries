@@ -42,7 +42,7 @@
 | 21 | 20:00 - 21:00 | Hỗn Chiến Giữa Rừng Xe | Lòng nhà kho | Búa Hải quét sạch, Lan phân thân, Minh giăng khiên |
 | 22 | 21:00 - 22:00 | Đào Thoát Lên Mái | Mái nhà kho | Khôi thả bom mù ánh sáng, cả đội rút lui ngoạn mục |
 | 23 | 22:00 - 23:00 | Cơn Bão Nghi Ngờ | Gara Bảy, khuya | Kế hoạch bị lộ, mọi ánh mắt nghi kỵ dồn vào Hải |
-| 24 | 23:00 - 24:00 | Nước Mắt Thợ Máy | Cột nâng xe gara | Thắng chất vấn, Hải uất ức thề trước bàn thờ Bác |
+| 24 | 23:00 - 24:00 | Nước Mắt Thợ Máy | Cột nâng xe gara | Thắng chất vấn, Hải uất ức thề trước di vật Bác |
 | 25 | 24:00 - 25:00 | Chiếc Găng Gián Điệp | Bàn đồ nghề | Khôi tìm ra chip nghe lén trong găng, cái ôm làm lành |
 | 26 | 25:00 - 26:00 | Đêm Mưa Tấn Công | Cửa hông gara | Bão nhiệt đới, xe bọc thép húc sập tường gara |
 | 27 | 26:00 - 27:00 | Khôi Bị Bắt Cóc | Gác lửng gara | Sói Xám bắt Khôi, Khôi kịp thả drone bọ hung |
@@ -53,7 +53,7 @@
 | 31 | 30:00 - 31:00 | Bát Cơm Chờ Đợi | Gara Bảy, sáng | Hải xới cơm cho chiếc ghế trống của Khôi |
 | 32 | 31:00 - 32:00 | Tay Lái Không Cần Giáp | Khoang lái xe hatchback | Lan thất vọng về bản thân, Thắng mang cà phê an ủi |
 | 33 | 32:00 - 33:00 | Bài Học Từ Vết Sẹo | Trong xe Lan | Thắng kể vết sẹo bỏng: Trái tim lái xe chứ không phải giáp |
-| 34 | 33:00 - 34:00 | Lời Dặn Của Bác Bảy | Bàn thờ Bác Bảy | Hologram hiện lên: "Ở nhà này không ai bị bỏ lại" |
+| 34 | 33:00 - 34:00 | Lời Dặn Của Bác Bảy | Bàn làm việc kỷ niệm | Hologram hiện lên: "Ở nhà này không ai bị bỏ lại" |
 | 35 | 34:00 - 35:00 | Tín Hiệu Bọ Hung | Màn hình định vị | Bắt được sóng drone bọ hung của Khôi tại Cảng |
 | 36 | 35:00 - 36:00 | Đại Lộ Phong Tỏa | Đại lộ Cảng 5km | Cảnh sát phong tỏa, đội hình 3 chiến xa xuất kích |
 | 37 | 36:00 - 37:00 | Chạm Trán Đầu Kéo Ma Sói | Đại lộ ven biển | Đoàn xe bọc thép của Hùng tăng tốc về tàu hàng |
@@ -82,7 +82,7 @@
   *Thoại:* Hải: "Cơm nước xong rồi, mấy đứa vô ăn!"
 * **Clip 3 (FR):** Khôi ngồi gục đầu trước giàn ba màn hình vi tính ngổn ngang vi mạch, chiếc kính tròn trễ xuống mũi, giật bắn mình vì tiếng chuông báo.  
   *Thoại:* Khôi: "Em chuẩn bị hack xong vệ tinh rồi mà!"
-* **Clip 4 (FR):** Thắng đứng trước bàn thờ Bác Bảy ở góc xưởng, chắp tay thắp nén nhang trầm. Bên cạnh di ảnh là chiếc hộp đồ nghề bằng thép xỉn màu khóa kín.  
+* **Clip 4 (FR):** Thắng bước đến bàn làm việc kỷ niệm của Bác Bảy ở góc xưởng, đặt tay lên bức ảnh người thầy thợ máy cũ. Bên cạnh ảnh là chiếc hộp đồ nghề bằng thép xỉn màu khóa kín.  
   *Thoại:* Thắng: "Hôm nay tụi nhỏ ngoan lắm Bác."
 * **Clip 5 (FR):** Lan bước tới vuốt ve vô lăng chiếc hatchback trắng, ánh mắt bồi hồi nhớ về người cha đã khuất.  
   *Thoại:* Lan: "Xe của ba chạy êm ru rồi anh Thắng."
@@ -476,7 +476,7 @@
   *Thoại:* Hải: "Anh Thắng! Em mồ côi từ nhỏ, đi lang thang lượm rác..."
 * **Clip 3 (FR):** Hải đưa cánh tay xăm trổ chi chít sẹo cũ ra: "Năm 18 tuổi em bị thằng Hùng dụ dỗ đi trộm phụ tùng xe. Bị người ta đánh gần chết quăng ngoài bãi rác kênh Nhiêu Lộc!"  
   *Thoại:* Hải: "Chính Bác Bảy cưu mang em về đây!"
-* **Clip 4 (FR):** Hải quỳ sụp xuống trước bàn thờ Bác Bảy, dập đầu ba cái thật mạnh vào nền gạch: "Bác Bảy cho em chén cơm, dạy em nghề sửa xe, dạy em làm người lương thiện!"  
+* **Clip 4 (FR):** Hải quỳ sụp xuống trước bàn làm việc kỷ niệm của Bác Bảy, đặt tay lên hộp đồ nghề cũ: "Bác Bảy cho em chén cơm, dạy em nghề sửa xe, dạy em làm người lương thiện!"  
   *Thoại:* Hải: "Em mà phản bội cái nhà này, sét đánh chết em liền!"
 * **Clip 5 (FR):** Lan chạy lại ôm lấy vai Hải, khóc nấc lên: "Anh Thắng thôi đi! Anh Hải không có làm đâu! Anh buông anh Hải ra đi!"  
   *Thoại:* Lan: "Anh Hải nấu cơm cho tụi mình mỗi ngày mà!"
@@ -642,8 +642,8 @@
 ---
 
 ### CẢNH 34: Lời Dặn Của Bác Bảy (33:00 – 34:00)
-*Bối cảnh: Trước bàn thờ Bác Bảy.*
-* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `MINH`):** Cả bốn người đứng trước bàn thờ Bác Bảy. Hải quỳ xuống tháo một viên gạch bí mật dưới chân bàn thờ, lấy ra một chiếc hộp sắt bọc vải nhung.  
+*Bối cảnh: Trước bàn làm việc kỷ niệm của Bác Bảy.*
+* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `MINH`):** Cả bốn người đứng trước bàn làm việc kỷ niệm của Bác Bảy. Hải tháo ngăn bí mật dưới chân bàn làm việc, lấy ra một chiếc hộp sắt bọc vải nhung.  
   *Thoại:* Hải: "Còn cái này Bác Bảy dặn khi nguy cấp mới mở."
 * **Clip 2 (FR):** Thắng mở hộp, bên trong là một chiếc máy chiếu hologram tí hon hình bánh xe. Thắng bấm nút kích hoạt.  
   *Thoại:* Thắng: "Di ngôn cuối cùng của Bác."

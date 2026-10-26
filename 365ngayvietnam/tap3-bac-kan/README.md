@@ -103,9 +103,7 @@
 
 ## 📱 Caption đăng TikTok
 
-> Ngày thứ ba của Vy và Joi ở Hồ Ba Bể - Bắc Kạn! Bốn giờ sáng săn biển mây Đồn Đèn, ăn cá kẹp nẹp tre ở Ao Tiên, tôm chua ăn kèm ba chỉ trên hiên nhà sàn, rồi đón trăng rằm bên bếp lửa nghe đàn Tính. Lưu lại lịch trình giờ vàng ở bình luận nha cả nhà! Ngày mai tụi mình lên đường đi Lạng Sơn! 🇻🇳☁️🌕  
->  
-> #365ngayvietnam #BacKan #HoBaBe #VyvaJoi #xuyenviet
+Caption, hashtag và bình luận ghim: xem [caption.md](caption.md).
 
 ---
 

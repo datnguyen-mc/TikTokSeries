@@ -54,6 +54,4 @@
 
 ## 📱 Caption Đăng TikTok
 
-> Ngày đầu tiên trong hành trình 365 Ngày Việt Nam của Vy và Joi tại mảnh đất Cực Bắc Hà Giang! Cùng tụi mình nếm trọn vị bánh cuốn trứng lòng đào béo ngậy và đắm chìm trong vẻ đẹp ngoạn mục của Đèo Mã Pí Lèng nha cả nhà ơi! Ngày mai hẹn gặp lại ở Thác Bản Giốc - Cao Bằng nhé! 🇻🇳🏍️✨  
->  
-> #365ngayvietnam #HaGiang #MaPiLeng #VyvaJoi #xuyenviet
+Caption, hashtag và bình luận ghim: xem [caption.md](caption.md).

@@ -1,9 +1,9 @@
-# Hướng dẫn chung — Prompt Google Flow cho 4 series TikTok
+# Hướng dẫn chung — Prompt Google Flow cho các series TikTok
 
-**Áp dụng cho:** Mit & Đú 1970 · 365 Ngày Phèo Làm Nội Trợ · Nhà Tèo & Sún · Tây Du Ký 2026. Series 365 Ngày Việt Nam theo template riêng trong [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md); với series đó chỉ bảng **Độ dài tập** và mục **Kịch bản như người thật chia sẻ** dưới đây áp dụng chung.
+**Áp dụng cho:** Mit & Đú 1970 · 365 Ngày Phèo Làm Nội Trợ · Nhà Tèo & Sún · Tây Du Ký 2026 · Mẹ và Bé. Series 365 Ngày Việt Nam theo template riêng trong [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md); với series đó chỉ bảng **Độ dài tập** và mục **Kịch bản như người thật chia sẻ** dưới đây áp dụng chung.
 **Model:** Gemini Omni trong Google Flow, **10 giây mỗi clip** (cập nhật 24/10/2026; trước đó dùng Veo 3.1, 8 giây mỗi clip)
 **Cấu trúc mỗi thư mục series — mỗi ngày đăng 1 tập, ghép từ các clip 10 giây; độ dài tập theo từng series (bảng "Độ dài tập" bên dưới):**
-- `tap-{số}/`: thư mục của một tập (một ngày đăng). `README.md` là tổng quan: tóm tắt, ảnh cần đính kèm, kịch bản nhanh, ghi chú. `clip-1.md`, `clip-2.md`, … `clip-N.md`: **mỗi clip 10 giây là một file chỉ chứa đúng prompt** (copy cả file dán vào Flow), tương ứng một lần tạo trên Flow. Tập mới đánh số tiếp.
+- `tap-{số}/`: thư mục của một tập (một ngày đăng). `README.md` là tổng quan: tóm tắt, ảnh cần đính kèm, kịch bản nhanh, ghi chú. `clip-1.md`, `clip-2.md`, … `clip-N.md`: **mỗi clip 10 giây là một file chỉ chứa đúng prompt** (copy cả file dán vào Flow), tương ứng một lần tạo trên Flow. `caption.md`: caption TikTok dán sẵn (tối đa 5 hashtag, vì từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu), bình luận ghim tối đa 150 ký tự và các lưu ý trước khi đăng; README chỉ để link tới file này. Tập mới đánh số tiếp.
 - `FLOW_PROMPTS.md`: khóa nhân vật, bối cảnh, phong cách và prompt tạo ảnh tham chiếu, dùng chung cho mọi tập.
 
 | Series | Khóa nhân vật & ảnh tham chiếu | Các tập (1 tập/ngày) |
@@ -13,6 +13,7 @@
 | Nhà Tèo & Sún | [FLOW_PROMPTS.md](teo-va-sun-cho/FLOW_PROMPTS.md) | [tap-1](teo-va-sun-cho/tap-1/README.md) → [tap-6](teo-va-sun-cho/tap-6/README.md) |
 | Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-11](tay-du-ky-2026/tap-11/README.md) (tập 1–7 đã gỡ khỏi repo) |
 | 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap5-tuyen-quang](365ngayvietnam/tap5-tuyen-quang/README.md) |
+| Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-3](me-va-be/tap-3/README.md) |
 
 **Tập chủ đề 20/10:** Mit & Đú tap-8 · Phèo tap-3 · Tèo & Sún tap-2 · Tây Du Ký tap-4
 
@@ -27,6 +28,7 @@
 | 365 Ngày Phèo Làm Nội Trợ | từ 90s trở lên | từ 9 | Đi chợ về → nguyên liệu, định lượng → sơ chế → nấu từng bước → nêm nếm, trình bày → dọn ra ăn cùng Hường → twist, đứng hình | Tập 9 |
 | Nhà Tèo & Sún | 40–60s tùy câu chuyện | 4–6 | Chuyện trong nhà → Tèo vụng về hoặc trục trặc → mẹo đời sống (sản phẩm xuất hiện tự nhiên) → kết yêu thương | Tập 7 |
 | 365 Ngày Việt Nam | khoảng 90s | 9 (8–10 tùy lộ trình) | Xem [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md) của series | Tập 5 |
+| Mẹ và Bé | 40–60s tùy câu chuyện | 4–6 | Mở bằng em bé → đồ cho bé và một mẹo có nguồn → khó khăn nhỏ → khoảnh khắc thương → kết ấm, thumbnail; mỗi tập hai bé lớn thêm 1 tuần | Tập 1 |
 
 **Kịch bản "như người thật chia sẻ"** (mọi series):
 - **Mỗi clip có một điều mới** cho người xem: một chi tiết đời thật, một mẹo, một bước làm, một con số hoặc một nhịp cảm xúc. Không có clip chỉ để kéo dài.
@@ -66,8 +68,9 @@ Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo v
 | 365 Ngày Phèo Làm Nội Trợ | `@Pheo` · `@No` | PHÈO · BÀ CHỦ HƯỜNG |
 | Nhà Tèo & Sún | `@TeoTeo` (chó đực) · `@SunSun` (chó cái) | TeoTeo · SunSun |
 | Tây Du Ký 2026 | `@Thay` · `@DaiCa` · `@HeoLuoi` · `@UtKho` | THẦY · ĐẠI CA · HEO LƯỜI · ÚT KHỜ |
+| Mẹ và Bé | `@Ngoc` · `@Gao` · `@Bong` | NGỌC · GẠO · BÔNG |
 
-Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo và Tây Du Ký giữ tên gốc trong phần còn lại của prompt: "No" là từ tiếng Anh, viết "No walks in…" model dễ hiểu nhầm. Nếu nhân vật trên Flow được tạo từ ảnh bộ đồ thường ngày, ở các tập mặc đồ khác (Mit & Đú tập 3, 4 và cảnh mơ tập 10, Tèo & Sún tập 2, Tây Du Ký tập 3) thì đính thêm ảnh bộ đồ đó.
+Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo, Tây Du Ký và Mẹ và Bé giữ tên gốc trong phần còn lại của prompt: "No" là từ tiếng Anh, viết "No walks in…" model dễ hiểu nhầm. Nếu nhân vật trên Flow được tạo từ ảnh bộ đồ thường ngày, ở các tập mặc đồ khác (Mit & Đú tập 3, 4 và cảnh mơ tập 10, Tèo & Sún tập 2, Tây Du Ký tập 3) thì đính thêm ảnh bộ đồ đó.
 
 **Clip 1**
 1. Bấm tên model ở ô prompt → **Video** → **Gemini Omni** → **Ingredients**. Mặc định Flow để model ảnh Nano Banana Pro: quên đổi sẽ ra ảnh, không ra video.
@@ -124,6 +127,8 @@ Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo và T�
 Prompt viết **bằng tiếng Anh**. **Thoại tiếng Việt** ghi sau dấu hai chấm, **không đặt trong ngoặc kép**, mỗi mốc giây tối đa một câu và câu thoại đứng cuối dòng.
 
 > **Riêng Tây Du Ký 2026 là hoạt hình 2D** (từ 26/10/2026): [FORMAT], câu mở đầu clip 2 trở đi và câu chặn 3D cuối [AVOID] lấy ở mục 3 của [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md), không dùng khối 3D mẫu dưới đây.
+>
+> **Riêng Mẹ và Bé là hình người thật** (từ 26/10/2026): [FORMAT], câu mở đầu clip 2 trở đi và câu chặn cuối [AVOID] (chặn hình hoạt hình, em bé méo mặt, đồ trong nôi, bình bú) lấy ở mục 3 của [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md). Video có người giống thật phải bật nhãn **Nội dung do AI tạo** khi đăng.
 
 ### Clip 1 — tạo mới (Ingredients)
 
@@ -202,6 +207,7 @@ Khối `[FORMAT]` và hai dòng mở đầu clip 2 trở đi của từng series
 | Nói sai thoại, nói quá nhanh hoặc bị cắt câu | Rút ngắn thoại, mỗi câu ≤ 10 âm tiết, hoặc lồng tiếng lại |
 | Hành động bị vội trong 10 giây | Bỏ bớt một hành động phụ ở mốc đó, giữ nguyên thoại và [END FRAME] |
 | Máy quay chuyển động lung tung | Ghi rõ `static camera` hoặc `slow push-in only` cho từng mốc thời gian |
+| Em bé (Mẹ và Bé) méo mặt, thừa ngón, trông như búp bê hoặc lớn hơn trẻ sơ sinh | Đính lại `REF_GAO`, `REF_BONG`; bớt cử động tay của bé ở mốc đó; tránh cận bàn tay bé quá 2 giây; tạo lại clip |
 | Tây Du Ký ra hình 3D hoặc nửa 2D nửa 3D | Chỉ đính ảnh nhân vật bản 2D, không dùng lại ảnh 3D cũ, rồi tạo lại clip đó |
 
 ---

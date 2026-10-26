@@ -59,4 +59,4 @@ Hôm sau: [Tập 9 — Tên ở nhà](../tap-9/README.md) →
 - **Đại Ca không bay theo:** cậu chỉ gọi Cân Đẩu Vân chở La Sát. Nếu model cho cậu bay theo thì vẫn dùng được, miễn khung cuối Clip 3 đủ năm người.
 - **Út Khờ nói ở hậu cảnh** lúc 00:26: nếu Omni gán câu "Lẹ dữ." cho người khác, tạo lại Clip 3, hoặc lồng tiếng lại câu đó trong CapCut.
 - **"Năm trăm"** là 500 nghìn đồng, cách nói tắt quen thuộc. "Concert" đọc như tiếng Việt thường dùng.
-- **Gợi ý caption:** "Vé nội bộ concert Mỹ Đình có năm trăm? Hỏa nhãn kim tinh soi một phát là hiện nguyên hình lá khô! Ban tổ chức đã nói rõ: không có vé nội bộ, chỉ mua ở kênh bán vé chính thức thôi nha. Nhà bạn có ai suýt dính vé nội bộ hông?" · hashtag gợi ý: #tayduky2026 #concertmydinh #venoibo #canhgiaclua #hoasua #xuhuong
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

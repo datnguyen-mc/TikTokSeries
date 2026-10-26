@@ -123,9 +123,7 @@ Lạng Sơn là vùng Tày–Nùng. Wiktionary ghi phát âm theo phương ngữ
 
 ## 📱 Caption đăng TikTok
 
-> Ngày thứ tư của Vy và Joi ở Xứ Lạng - Lạng Sơn! Hơn hai trăm cây số từ Ba Bể, trưa ăn vịt quay mắc mật ở Thất Khê, chiều vào Động Tam Thanh, thăm Nàng Tô Thị, leo 535 bậc Phai Vệ đón hoàng hôn và trăng mười sáu, tối trộn phở chua, ăn khâu nhục ở Chợ Đêm Kỳ Lừa, sáng hôm sau ghé Ải Chi Lăng. Lưu lại lịch trình giờ vàng ở bình luận nha cả nhà! Giờ tụi mình chạy tiếp về Tuyên Quang! 🇻🇳🦆🌕  
->  
-> #365ngayvietnam #LangSon #VitQuayLangSon #VyvaJoi #xuyenviet
+Caption, hashtag và bình luận ghim: xem [caption.md](caption.md).
 
 ---
 

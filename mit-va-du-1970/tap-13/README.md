@@ -66,4 +66,4 @@
 - **Chi tiết đời thật:** diều tự làm bằng tre chẻ và giấy, dán bằng cơm nguội; diều phải có đuôi mới đứng gió. Giấy là giấy bổi trơn, không dùng giấy báo để khỏi có chữ.
 - **An toàn:** cả nhà đứng trên bãi cỏ xa mép nước, không có dây điện, Nở không bị dây diều kéo té (prompt đã chặn).
 - **Tạo lại clip khi:** tranh trên diều đổi hình giữa các clip; chữ hoặc số hiện trên giấy hay hộp bút màu; diều có đuôi trước 00:23; Mit đội nón lá che tai; ai đó đứng sát mép kênh; dây diều đứt hoặc diều bay mất; thoại lệch người nói.
-- **Gợi ý caption (tự chỉnh):** "Con diều tre dán cơm nguội, vẽ bằng hộp bút màu của Nở 🪁 Hồi nhỏ bạn có làm diều với ba hông?" kèm hashtag như #mitvadu1970 #hoathinh3d #giadinh #thadieu #tuoitho #mientay #butmau.
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

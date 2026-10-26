@@ -70,4 +70,4 @@
 - **Giọng Đại Ca đổi theo phép:** to và trầm khi khổng lồ, chút chít khi tí hon, về giọng cũ ở Clip 6. Nếu Omni giữ luôn giọng lạ sang clip sau thì tạo lại clip đó, hoặc lồng tiếng lại câu đó trong CapCut.
 - **Đại Ca khổng lồ không đụng quạt trần** (đã chặn trong [AVOID]); nếu model cho đầu chạm quạt hay làm vỡ đồ thì tạo lại Clip 4.
 - **Gag chính là Út Khờ "Dạ!" thay Heo Lười** ở 00:47: nếu Omni để Heo Lười trả lời thì tạo lại Clip 5.
-- **Gợi ý caption:** "Ở hẻm Sài Gòn ai cũng có tên ở nhà. Nhà trọ này giờ có Thầy, Đại Ca, Heo Lười với Út Khờ. Nhà bạn ai có tên ở nhà dễ thương nhất?" · hashtag gợi ý: #tayduky2026 #tenonha #daica #heoluoi #utkho #haihuoc
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

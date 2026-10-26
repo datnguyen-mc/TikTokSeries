@@ -14,6 +14,7 @@
 - **Nhân vật & ảnh cần đính kèm:** Clip 1: Phèo, Hường, ảnh nồi inox · Clip 2: Phèo, ảnh nồi inox, ảnh hũ hạt nêm · Clip 3: Phèo, Hường
 - **Trang phục:** mặc định (khóa ở mục 1 của [FLOW_PROMPTS.md](../FLOW_PROMPTS.md), không đổi). Đạo cụ riêng tập này: thước dây may màu vàng trơn, không số.
 - **Sản phẩm lồng ghép:** **Nồi inox**: Clip 1 và Clip 2 (nấu canh). **Hạt nêm**: Clip 2 (nêm canh, ~1s).
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).
 
 **Kịch bản nhanh:**
 

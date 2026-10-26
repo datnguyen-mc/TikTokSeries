@@ -54,6 +54,4 @@
 
 ## 📱 Caption Đăng TikTok
 
-> Ngày thứ hai trong hành trình 365 Ngày Việt Nam của Vy và Joi tại Non nước Cao Bằng! Đứng dưới chân Thác Bản Giốc bọt tung trắng xóa mát lạnh và thưởng thức tô phở vịt quay bảy vị da giòn rụm đỉnh chóp! Ngày mai cùng tụi mình ghé thăm Hồ Ba Bể - Bắc Kạn nhé! 🇻🇳🌊🦆  
->  
-> #365ngayvietnam #CaoBang #ThacBanGioc #VyvaJoi #xuyenviet
+Caption, hashtag và bình luận ghim: xem [caption.md](caption.md).

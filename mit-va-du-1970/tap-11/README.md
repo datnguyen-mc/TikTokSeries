@@ -45,4 +45,4 @@
 **Ghi chú Tập 11:**
 - **Thông điệp:** Nối dài chuỗi tập về việc học hành của Nở (Tập 9: tập viết, Tập 10: hộp bút màu, Tập 11: cặp sách). Gia đình dù nghèo nhưng cha mẹ luôn dành dụm những điều tốt đẹp nhất cho con cái đến trường.
 - **Sản phẩm:** Không để hiện logo thương hiệu trên cặp. Chỉ nói về độ chắc chắn, vải thơm, quai đeo êm ái.
-- **Gợi ý caption:** "Ngày đầu con mang cặp tới lớp 🎒🥹 Cả nhà có nghèo cỡ nào thì việc học của con vẫn là số một! #mitvadu1970 #hoathinh3d #giadinh #capsach #tinhphutu"
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

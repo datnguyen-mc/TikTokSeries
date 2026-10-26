@@ -15,9 +15,10 @@ BƯỚC 2: Đọc README.md của tập trước đó để nắm khung hình cu
 BƯỚC 3: Xác định tỉnh/thành tiếp theo theo BẢNG LỘ TRÌNH bên dưới
 BƯỚC 4: Viết README.md của tập mới theo khung Tập 4: lịch trình (giờ, địa điểm, vì sao đúng giờ)
          · cẩm nang giờ vàng · nối cảnh · chuỗi đạo cụ · sợi chỉ xuyên tập (Joi học tiếng địa phương)
-         · lưu ý thực tế (ghi tháng kiểm chứng) · caption (cẩm nang rút gọn đặt ngay trong caption;
-         bình luận ghim chỉ khoảng 150 ký tự) · nguồn. Mỗi thông tin thực tế nói trong thoại phải có
-         dòng tương ứng trong lưu ý thực tế và nguồn
+         · lưu ý thực tế (ghi tháng kiểm chứng) · nguồn. Mỗi thông tin thực tế nói trong thoại phải có
+         dòng tương ứng trong lưu ý thực tế và nguồn. Caption viết riêng trong caption.md của tập
+         (cẩm nang rút gọn đặt ngay trong caption, đúng 5 hashtag, bình luận ghim khoảng 150 ký tự);
+         mục Caption của README chỉ để link tới caption.md
 BƯỚC 5: Viết từng clip-{số}.md theo đúng TEMPLATE PROMPT bên dưới
 BƯỚC 6: Cross-check tất cả clip vừa viết với:
          ✅ 9 QUY TẮC ĐẠO DIỄN (mục II)

@@ -45,3 +45,4 @@
 **Ghi chú Tập 6:**
 - "Lên live", "chốt đơn" là cách nói quen của người bán hàng online. Nếu model đọc chữ "live" chưa chuẩn, lồng tiếng lại riêng câu đó.
 - Cảnh màn hình điện thoại chỉ nửa giây. Nếu model vẽ chữ hoặc giao diện app lên màn hình, cắt bỏ khúc đó trong Scenebuilder; câu chuyện vẫn trọn.
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

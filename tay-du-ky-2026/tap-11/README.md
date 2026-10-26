@@ -58,4 +58,4 @@
 - **Không chê ngoại hình:** cái cười nằm ở thói hẹn "mai", không ở cân nặng của Heo Lười; prompt đã chặn trong [AVOID].
 - **Clip 3 là cắt cảnh** (Ingredients, dán [FORMAT] và FULL LOCK, bối cảnh 2.5 lúc rạng sáng); dòng đầu [SHOT LIST] đã ghi `Hard cut: the next morning at five`. Nếu model giữ ánh chiều vàng thay vì ánh xanh rạng sáng thì tạo lại Clip 3.
 - **"Dự án ma"** ở đây là nghĩa vui trên TikTok (kế hoạch để đó không làm), không dính tới các "dự án ma" bất động sản trên báo; caption không nhắc chuyện đó.
-- **Gợi ý caption:** "Dự án ma của Heo Lười: mai chạy mười cây số! Còn Thầy thì sáng nào cũng đi bộ nhanh ba chục phút. Bộ Y tế khuyên mỗi tuần vận động 150–300 phút, ít nhất 5 ngày. Bạn đang ôm dự án ma nào?" · hashtag gợi ý: #tayduky2026 #duanma #dibonhanh #heoluoi #xuhuong
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

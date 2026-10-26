@@ -40,3 +40,5 @@ Hôm sau: [Tập 2 — Kho báu dưới ruộng](../tap-2/README.md) →
 | 1 | 00:00–00:10 | Ingredients: đính ảnh tham chiếu | [clip-1.md](clip-1.md) |
 | 2 | 00:10–00:20 | Frames: start frame = khung cuối clip 1 | [clip-2.md](clip-2.md) |
 | 3 | 00:20–00:30 | Frames: start frame = khung cuối clip 2 | [clip-3.md](clip-3.md) |
+
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

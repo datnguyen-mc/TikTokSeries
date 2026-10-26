@@ -14,6 +14,7 @@
 - **Nhân vật & ảnh cần đính kèm:** Clip 1: Phèo, ảnh chai nước mắm · Clip 2: Phèo, Hường, ảnh chai nước mắm · Clip 3: Phèo, Hường
 - **Trang phục:** mặc định (khóa ở mục 1 của [FLOW_PROMPTS.md](../FLOW_PROMPTS.md), không đổi)
 - **Sản phẩm lồng ghép:** **Nước mắm**: Clip 1 (trong dàn nguyên liệu) và Clip 2 (rót vào nồi, ~2s).
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).
 
 **Kịch bản nhanh:**
 

@@ -56,4 +56,4 @@
 - **"Ngày… xửa… ngày… xưa…" phải thật chậm.** Nếu Omni đọc nhanh, hoặc câu lí nhí cuối của Nở không rõ, giữ khẩu hình rồi lồng tiếng lại trong CapCut (FLOW_GUIDE mục 5). Cú ngáy giả ở 00:13 vọng lại giấc ngủ thật ở 00:25.5; đừng để Nở ngủ thật sớm hơn.
 - **Tạo lại clip khi:** có hai mặt trăng hoặc trăng đổi chỗ giữa các clip; nón lá lên đầu Mit; Đú xuất hiện ở Clip 1 hoặc mở miệng nói; thoại lệch người nói (Nở nói câu của Mit); lọt chi tiết biệt thự (cửa gỗ chạm, lồng đèn đỏ, đầm vàng); ở khung cuối, chăn che mặt ai đó.
 - **Triều cường:** miền Tây đang mùa nước lớn, đỉnh triều 26–28/10 vượt báo động III ở Vĩnh Long (có Chợ Lách, quê Cái Mơn). Tập này chỉ có con kênh lặng làm hậu cảnh, không có cảnh ngập nên vẫn đăng được; sáng ngày đăng xem lại tin, và không dùng hashtag #trieucuong.
-- **Gợi ý caption (tự chỉnh):** "Ba nợ con một câu chuyện từ hồi nhà mình còn giàu… Đêm rằm này ba trả, bằng chuyện cổ tích của chính ba 🌕 Hồi nhỏ ba mẹ bạn hay kể chuyện gì trước khi ngủ?" kèm hashtag như #mitvadu1970 #hoathinh3d #giadinh #chuyencotich #ramthangchin #bavacon #sachtruyen.
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

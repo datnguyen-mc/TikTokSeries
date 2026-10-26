@@ -55,4 +55,4 @@
 - **Chi tiết đời thật:** bánh xèo miền Tây vỏ mỏng, vàng nhờ nước cốt dừa và nghệ, và được gọi là "xèo" theo tiếng bột chạm chảo nóng ([VnExpress](https://vnexpress.net/cach-lam-banh-xeo-mien-tay-4654925.html), [Tuổi Trẻ](https://tuoitre.vn/banh-xeo-mon-dan-da-dam-hon-viet-20251014162716123.htm)). Nhân tép với giá cho hợp nhà nghèo năm 1970; ăn cuốn cải bẹ xanh, chấm nước mắm. Đây là chuyện trong nhà, không phải công thức, nên caption không ghi định lượng.
 - **An toàn:** Nở chỉ ngồi bên bàn, không đụng bếp hay chảo nóng (prompt đã chặn).
 - **Tạo lại clip khi:** bánh ra không vàng hoặc thành món khác (bánh căn, bánh khọt); cái bánh trái tim thành hình tròn; có bếp ga, đèn điện, đồ nhựa; Nở chạm vào bếp; thoại lệch người nói.
-- **Gợi ý caption (tự chỉnh):** "Bữa nay ba đổ bánh xèo: cái đầu bể, cái sau hình trái tim cho má 💛 Nhà bạn ai đổ bánh xèo ngon nhứt?" kèm hashtag như #mitvadu1970 #hoathinh3d #giadinh #banhxeo #mientay #monquemien.
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

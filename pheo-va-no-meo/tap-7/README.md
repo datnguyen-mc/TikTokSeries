@@ -50,3 +50,4 @@
 - **Hũ ngâm sẵn:** cảnh đổi sang "hũ ngâm từ tối qua" là cách quay quen thuộc của kênh nấu ăn. Tập 30 giây vẫn đúng với thời gian ngâm thật.
 - **Công thức đầy đủ cho caption** (tập chỉ nói một mẹo): chân gà cắt móng, rửa với muối và chanh; luộc cùng gừng, sả đập dập khoảng 10 phút, vừa chín tới; vớt ra ngâm ngay nước đá 15–20 phút cho giòn; nước ngâm gồm nước mắm, đường, nước lọc theo tỉ lệ khoảng 1 : 1 : 2, đun tan đường rồi để nguội hẳn; thêm sả, tắc bỏ hạt (để không bị đắng), ớt, tỏi, lá chanh; ngâm ngăn mát ít nhất 3–4 tiếng, ngon nhất sau một đêm; giữ lạnh và ăn trong 2–3 ngày.
 - **Nếu đăng trước Tập 6:** đổi câu cửa miệng cho đúng số ngày (ví dụ "Ngày sáu, Phèo vô bếp!") ở cả bảng kịch bản lẫn prompt Clip 1.
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

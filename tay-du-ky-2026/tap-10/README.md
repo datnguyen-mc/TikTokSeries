@@ -63,4 +63,4 @@
 - **Không có cảnh lội nước, không có trẻ em** (lưu ý trong TRENDS 24/10): nước chỉ ngập ngoài hẻm, trong nhà chỉ là lớp mỏng ở bậc cửa và vũng nhỏ ở miệng cống; prompt đã chặn trong [AVOID]. Nếu model vẽ nước tràn ngập phòng thì tạo lại clip đó.
 - **Kê sofa lên gạch và lấy bao cát đè miệng cống** là cách xoay xở của nhân vật, không phải khuyến cáo chính thức; caption chỉ nhắc phần an toàn điện có nguồn.
 - **"Hồi xưa sống dưới sông":** Út Khờ chính là Sa Tăng, vốn ở sông Lưu Sa trong Tây Du Ký.
-- **Gợi ý caption:** "Triều cường đỉnh tới 28/10, chiều 5–7 giờ nước lên. Nước có dấu hiệu vô nhà thì cúp cầu dao trước, mà phải đứng chỗ khô, tay khô mới đụng cầu dao nha. Hẻm nhà bạn có ngập hông?" · hashtag gợi ý: #tayduky2026 #trieucuong #saigon #antoandien #xuhuong
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

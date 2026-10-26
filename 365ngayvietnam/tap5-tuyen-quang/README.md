@@ -160,14 +160,7 @@ Tuyên Quang có đông người Tày; Joi học từ ngay trong tên đất.
 
 ## 📱 Caption đăng TikTok
 
-> Ngày thứ năm của Vy và Joi ở Tuyên Quang! Khoảng hai trăm cây số từ Ải Chi Lăng, dính mưa rào giữa đường, chiều ghé Cây Đa Tân Trào. Sáng hôm sau ăn bánh gai Chiêm Hóa gói cặp vừa vớt khỏi nồi, rồi đi thuyền trên Hồ Na Hang: ngâm chân cho cá suối rỉa ở Thác Khuổi Nhi, ngắm Cọc Vài Phạ, trưa cuốn cá bỗng Sông Gâm nướng với bánh đa ở Bản Nà Tông, chiều đón hoàng hôn giữa hồ. 🇻🇳🛶🐟  
->  
-> 📌 Cẩm nang nhanh: mưa thì mặc áo mưa bộ, giữ khoảng cách, phanh sớm · Cây Đa và Đình Tân Trào cách nhau khoảng 500 m · bánh gai Chiêm Hóa gói cặp, rắc vừng · thuê nguyên thuyền ở bến Thượng Lâm, hỏi giá trước · đá ở Thác Khuổi Nhi rất trơn · hoàng hôn trên hồ khoảng 17:20.  
->  
-> #365ngayvietnam #TuyenQuang #NaHang #VyvaJoi #xuyenviet
-
-**Bình luận ghim (khoảng 150 ký tự):**
-> Lịch trình: Tân Trào chiều 26/10 · bánh gai Chiêm Hóa 7:30 · thuyền Thượng Lâm 9:30 · Khuổi Nhi, Cọc Vài Phạ · trưa Nà Tông · hoàng hôn trên hồ 17:00
+Caption, hashtag và bình luận ghim: xem [caption.md](caption.md).
 
 ---
 

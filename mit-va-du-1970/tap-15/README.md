@@ -60,4 +60,4 @@
 - **Không cổ vũ nhổ răng bằng chỉ:** ý của ba bị má cản ngay; răng rụng tự nhiên khi cắn kẹo, không máu, không đồ nghề (prompt đã chặn).
 - **Nối tập:** cô Hai (Tập 7, 12); cuốn tập từ Tập 9; giọng chọc của Nở và cái tật khoe của ba (Tập 9, 13).
 - **Tạo lại clip khi:** chỗ sún nằm ở răng trên thay vì răng cửa dưới (tục là răng dưới ném lên mái); có máu hay kìm; trang tập quay vào máy hoặc có chữ; Mit đội nón lá; thoại lệch người nói. Câu đồng dao của Nở dài 13 âm tiết, cần đủ 4 giây; nếu Omni đọc vội hay cắt câu, giữ khẩu hình rồi lồng tiếng lại trong CapCut.
-- **Gợi ý caption (tự chỉnh):** "Cái răng sữa đầu tiên của Nở rụng vô cục kẹo dừa 😁 Ném lên mái nhà rồi đọc: chuột chuột chí chí... Hồi nhỏ bạn ném răng ở đâu?" kèm hashtag như #mitvadu1970 #hoathinh3d #giadinh #rangsua #tuoitho #kyuctuoitho #tapvo.
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

@@ -15,6 +15,7 @@
 - **Trang phục:** mặc định (khóa ở mục 1 của [FLOW_PROMPTS.md](../FLOW_PROMPTS.md), không đổi)
 - **Sản phẩm lồng ghép:** **Dầu ăn**: Clip 1 (trong dàn nguyên liệu) và Clip 2 (đứng cạnh nồi chiên, ~2s). Chảo chống dính dùng loại trơn, không cần ảnh.
 - **Gợi ý đăng:** đúng ngày 20/10
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).
 
 **Kịch bản nhanh:**
 

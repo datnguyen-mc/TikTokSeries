@@ -48,4 +48,4 @@
 - **Bà bán vé số được thể hiện tử tế:** Mit vẫn mua hàng của bà (hộp bút màu), trả tiền bằng hai tay, nghiêng nón chào; bà là người nói câu triết lý của tập.
 - **Cảnh mơ chỉ khoảng 1,5 giây.** Nếu model giữ bộ đồ phú hộ sang khung cuối Clip 1, tạo lại Clip 1; đính thêm `REF_MIT_B` nếu Flow cho đính ảnh thứ 4.
 - **Vé số, tiền giấy, tranh của Nở đều không có chữ hay số.** Nếu model in số lên vé, tạo lại clip đó.
-- **Gợi ý caption (tự chỉnh):** "Độc đắc của ba là đây 🥹 Còn độc đắc của bạn là ai?" kèm hashtag chủ đề như #docdac #jackpot #giadinh #hoathinh3d #mitvadu1970.
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

@@ -47,3 +47,4 @@
 - Hai chỗ nối với tập trước: câu "giấu gì nữa đó?" của Đú gợi lại cảnh giấu hoa ở Tập 8; câu "Chữ đẹp nhất đời em đó" đáp lại lời chê "gà bới" của Nở.
 - Nếu Flow chỉ cho đính 3 ảnh ở Clip 1: chụp chung tập và bút trong một ảnh sản phẩm.
 - Tên thương hiệu tập, bút có thể thêm bằng lồng tiếng hoặc giỏ hàng TikTok; thoại trong tập chỉ khen "viết êm ru".
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).

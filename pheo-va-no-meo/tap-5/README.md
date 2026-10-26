@@ -14,6 +14,7 @@
 - **Nhân vật & ảnh cần đính kèm:** Clip 1: Phèo, Hường, ảnh chảo chống dính · Clip 2: Phèo, ảnh chảo chống dính · Clip 3: Phèo, Hường
 - **Trang phục:** mặc định (khóa ở mục 1 của [FLOW_PROMPTS.md](../FLOW_PROMPTS.md), không đổi)
 - **Sản phẩm lồng ghép:** **Chảo chống dính**: Clip 1 (trên bếp) và Clip 2 (trứng lật và trượt ra đĩa không dính, ~2s).
+- **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).
 
 **Kịch bản nhanh:**
 

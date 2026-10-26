@@ -14,7 +14,7 @@
 | Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-11](tay-du-ky-2026/tap-11/README.md) (tập 1–7 đã gỡ khỏi repo) |
 | 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap5-tuyen-quang](365ngayvietnam/tap5-tuyen-quang/README.md) |
 | Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-3](me-va-be/tap-3/README.md) |
-| Biệt Đội Gara | [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md) | [tap-1](biet-doi-gara/tap-1/README.md) → [tap-3](biet-doi-gara/tap-3/README.md) |
+| Biệt Đội Gara | [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md) | Phim 15 phút: [canh-01](biet-doi-gara/canh-01/README.md) → [canh-15](biet-doi-gara/canh-15/README.md), kịch bản tổng [KICH_BAN_PHIM.md](biet-doi-gara/KICH_BAN_PHIM.md) |
 
 **Tập chủ đề 20/10:** Mit & Đú tap-8 · Phèo tap-3 · Tèo & Sún tap-2 · Tây Du Ký tap-4
 
@@ -30,7 +30,7 @@
 | Nhà Tèo & Sún | 40–60s tùy câu chuyện | 4–6 | Chuyện trong nhà → Tèo vụng về hoặc trục trặc → mẹo đời sống (sản phẩm xuất hiện tự nhiên) → kết yêu thương | Tập 7 |
 | 365 Ngày Việt Nam | khoảng 90s | 9 (8–10 tùy lộ trình) | Xem [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md) của series | Tập 5 |
 | Mẹ và Bé | 40–60s tùy câu chuyện | 4–6 | Mở bằng em bé → đồ cho bé và một mẹo có nguồn → khó khăn nhỏ → khoảnh khắc thương → kết ấm, thumbnail; mỗi tập hai bé lớn thêm 1 tuần | Tập 1 |
-| Biệt Đội Gara | 40s tập đánh nhau, 60s tập kể chuyện | 4 hoặc 6 | Hook hành động, biến hình → đánh nhau (mỗi nhịp một động tác) → cú lật → gia đình Gara Bảy và móc câu | Tập 1 |
+| Biệt Đội Gara | Một phim liền 14:40 đăng YouTube, chia 15 cảnh khoảng 60s cắt đăng TikTok | 88 (6 mỗi cảnh, Cảnh 2 có 4) | Mỗi cảnh: hook 2 giây → hành động hoặc cảm xúc chính (mỗi nhịp một động tác) → cú lật hoặc câu móc | Cảnh 1 |
 
 **Kịch bản "như người thật chia sẻ"** (mọi series):
 - **Mỗi clip có một điều mới** cho người xem: một chi tiết đời thật, một mẹo, một bước làm, một con số hoặc một nhịp cảm xúc. Không có clip chỉ để kéo dài.

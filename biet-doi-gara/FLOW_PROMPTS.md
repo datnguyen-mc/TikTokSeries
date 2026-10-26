@@ -2,18 +2,13 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md) · Kế hoạch series: [README.md](README.md)
 
-**Định dạng:** tập nhiều đánh nhau **40s = 4 clip**, tập kể chuyện **60s = 6 clip** (10s mỗi clip) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt giọng miền Nam · không chữ trên video · **hình người thật kiểu phim siêu anh hùng**: người thật, giáp như đồ hóa trang thật cỡ phim lớn, hiệu ứng năng lượng bằng ánh sáng.
+**Định dạng:** **một phim liền khoảng 15 phút** (88 clip × 10s) đăng YouTube, chia thành **15 cảnh** (`canh-01` … `canh-15`), mỗi cảnh khoảng 60 giây (Cảnh 2 dài 40 giây) và cắt đăng TikTok được ngay; kịch bản tổng: [KICH_BAN_PHIM.md](KICH_BAN_PHIM.md) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt giọng miền Nam · không chữ trên video · **hình người thật kiểu phim siêu anh hùng**: người thật, giáp như đồ hóa trang thật cỡ phim lớn, hiệu ứng năng lượng bằng ánh sáng.
 
-**Thế giới:** Sài Gòn hôm nay. **Gara Bảy** là tiệm độ xe hai tầng ven một con kênh, do **Bác Bảy** (người thầy của Thắng, đã mất) mở. Bốn người sống quanh gara như một gia đình: Thắng, Lan, Hải, Khôi. Đường dây **Găng Xám** của **Sói Xám** dùng găng năng lượng để trộm xe và buôn lậu qua cảng. Bác Bảy để lại năm **Lõi Giáp** giấu trong thùng đồ nghề cũ; mỗi lõi chọn một người và biến người đó thành chiến binh mặc giáp. Lõi thứ năm chọn **Đại úy Minh** (Tập 3). Luật của nhà: **muốn đua thì lên đường đua, ra đường là chở người mình thương.**
+**Thế giới:** Sài Gòn hôm nay. **Gara Bảy** là tiệm độ xe hai tầng ven một con kênh, do **Bác Bảy** (người thầy của Thắng, đã mất) mở. Bốn người sống quanh gara như một gia đình: Thắng, Lan, Hải, Khôi. Đường dây **Găng Xám** của **Sói Xám** dùng găng năng lượng để trộm xe và buôn lậu qua cảng. Bác Bảy để lại năm **Lõi Giáp** giấu trong thùng đồ nghề cũ; mỗi lõi chọn một người và biến người đó thành chiến binh mặc giáp. Lõi thứ năm chọn **Đại úy Minh** (Cảnh 3). Luật của nhà: **muốn đua thì lên đường đua, ra đường là chở người mình thương.**
 
-**Xương sống mỗi tập:**
+**Xương sống mỗi cảnh** (mỗi cảnh cắt ra đăng TikTok phải đứng riêng được): 2 giây đầu là hook; giữa cảnh là hành động hoặc cảm xúc chính; cuối cảnh có cú lật hoặc câu móc sang cảnh sau. Clip 1 của mỗi cảnh mở bằng Ingredients để neo lại mặt nhân vật.
 
-| Loại tập | Số clip | Bố cục |
-| --- | --- | --- |
-| Đánh nhau (40s, vừa một chuỗi Extend) | 4 | 1 Hook hành động và biến hình · 2 Đánh, phần 1 · 3 Đánh, phần 2 và cú lật · 4 Phản diện lộ mặt hoặc móc câu |
-| Kể chuyện (60s) | 6 | 1 Hook · 2 Đặt vấn đề · 3–4 Hành động · 5 Cú lật · 6 Gia đình và móc câu |
-
-- **Gia đình là trái tim:** tập nào cũng có một khoảnh khắc thương nhau (bữa cơm, cái vỗ vai, câu nói về Bác Bảy). Hải nấu cơm cho cả nhà.
+- **Gia đình là trái tim:** cảnh nào cũng có một khoảnh khắc thương nhau (bữa cơm, cái vỗ vai, câu nói về Bác Bảy). Hải nấu cơm cho cả nhà.
 - **Thoại ngắn:** mỗi câu tối đa khoảng 10 âm tiết, không quá 4,5 âm tiết mỗi giây, mỗi clip tối đa khoảng 31 âm tiết. Ai nói thì máy thấy rõ mặt người đó (giáp có kính trong suốt nên vẫn thấy môi).
 - **Quay như phim:** mỗi prompt có khối `[CAMERA & LIGHT]` và `[SHOT LIST]` chia nhịp 1–2,5 giây, mỗi nhịp một động tác (một cú đá, một cú né, một lần biến hình). Mỗi pha có một nhịp quay chậm làm điểm nhấn.
 - **Cảnh nối nhau hợp lý:** mỗi clip bắt đầu đúng chỗ clip trước dừng; cắt cảnh chỉ khi đổi địa điểm hoặc nhảy thời gian, dòng đầu `[SHOT LIST]` ghi rõ thời gian đã trôi.
@@ -22,7 +17,7 @@
 - **Không súng, không dao, không máu**, không vết thương ghê rợn, không ai chết. Kẻ xấu bị đánh ngã, bị khóa găng, rồi bị cảnh sát bắt.
 - **Không cổ vũ đua xe trái phép** (tội hình sự theo Bộ luật Hình sự 2015, Điều 265–266): nhân vật chính chỉ đua trên đường đua kín; rượt đuổi bằng xe chỉ ở cảng, xưởng bỏ hoang hoặc đường đã được cảnh sát phong tỏa trong truyện; đi xe máy luôn đội mũ bảo hiểm, đi xe hơi luôn thắt dây an toàn.
 - **Không giống thương hiệu hay phim có sẵn:** giáp, tên, câu biến hình là sáng tác mới, không giống bất kỳ loạt siêu nhân, siêu anh hùng nào; xe, container, biển hiệu không logo, không chữ, không biển số đọc được.
-- **Nhãn AI:** mỗi tập bật nhãn **Nội dung do AI tạo**; caption ghi "Phim hư cấu do AI tạo".
+- **Nhãn AI:** bản TikTok bật nhãn **Nội dung do AI tạo**, bản YouTube khai báo **nội dung tổng hợp** trong YouTube Studio; caption và mô tả ghi "Phim hư cấu do AI tạo".
 
 **Cách dán prompt:** mỗi file `clip-{số}.md` là một lần dán. **FULL LOCK** dùng ở clip mở bằng Ingredients và cho nhân vật mới vào giữa chuỗi (dòng `[CHARACTER ENTERING THIS SEGMENT]`); **SHORT LOCK** dùng ở clip làm bằng Frames hoặc Extend. Khi nhân vật đang mặc giáp thì dùng khóa **GIÁP** của người đó.
 
@@ -51,6 +46,14 @@ FULL LOCK — Giáp Gió
 SHORT LOCK — Giáp Gió
 ```text
 @Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind-vent fins, open-face helmet with a clear amber visor showing his face, red core on his LEFT wrist; deep, calm Southern male voice.
+```
+FULL LOCK — đồ đua (Cảnh 4–5)
+```text
+@Thang = THẮNG in his racing suit: the same man (silver streak at his LEFT temple, burn scar on his LEFT forearm) in a plain red-and-black racing suit with no logos or patches, with an old dented black open-face racing helmet with a single red stripe and a clear visor raised so his whole face stays visible. Voice: deep, calm, steady Southern Vietnamese male voice.
+```
+SHORT LOCK — đồ đua
+```text
+@Thang = THẮNG in his racing suit, short: silver streak at his LEFT temple, plain red-and-black racing suit with no logos, old dented black open-face helmet with a red stripe; deep, calm Southern male voice.
 ```
 
 ### Lan "Cáo" — tay lái giỏi nhất nhà
@@ -110,7 +113,7 @@ SHORT LOCK — Giáp Bit
 @Khoi = KHÔI in GIÁP BIT: slim yellow-and-black armor with two shoulder drones, open-face helmet with a clear yellow visor showing his face and round glasses, yellow core on his LEFT wrist; fast, nervous, funny Southern male voice.
 ```
 
-### Đại úy Minh — nữ cảnh sát hình sự, lõi thứ năm (từ Tập 2)
+### Đại úy Minh — nữ cảnh sát hình sự, lõi thứ năm (xuất hiện từ Cảnh 2)
 
 FULL LOCK — thường phục
 ```text
@@ -141,6 +144,16 @@ BÁC BẢY (the late founder of Gara Bảy, seen only as a hologram): a kind old
 SÓI XÁM (the villain): a Vietnamese man of about 45 with salt-and-pepper hair slicked back and cold grey eyes, inside dark gunmetal armor with a wolf-head helmet whose two red eye slits glow; when he speaks, the wolf faceplate splits open so his face and lips are visible. He wears grey leather gloves over the armor. Voice: low, slow, quiet male voice.
 ```
 
+**Sói Xám khi mất giáp** (Cảnh 14): tên thật là Hùng, học trò đầu tiên của Bác Bảy.
+```text
+SÓI XÁM WITHOUT ARMOR (HÙNG): the same man of about 45 with salt-and-pepper hair, his armor shattered and gone, in a torn black under-suit and grey leather gloves, his face tired and broken. Voice: low, slow, quiet male voice.
+```
+
+**Tú** — tay lái trẻ bị Sói Xám ép đua vì nợ của mẹ (Cảnh 5, 15).
+```text
+TÚ (a young racer forced to drive for SÓI XÁM): a real Vietnamese young man of about 22, thin, messy dyed-brown hair, a small silver stud in his LEFT ear, a nervous boyish face, in a plain grey racing suit with no logos. Voice: young, hoarse, nervous Southern Vietnamese male voice.
+```
+
 **Găng Xám** — đàn em của Sói Xám, không nói, không lộ mặt.
 ```text
 GĂNG XÁM HENCHMEN: men in identical grey padded tactical armor with plain grey full helmets that hide their faces, and glowing grey power gauntlets that give them inhuman strength; they never speak.
@@ -169,17 +182,52 @@ HẢI'S TRUCK: a dark-orange pickup truck with a tool rack in the bed, no badges
 
 ## 3. Bối cảnh cố định
 
-**Gara Bảy — trong xưởng, ban đêm** (Tập 1)
+**Gara Bảy — trong xưởng, ban đêm** (Cảnh 1, 7, 8, 9)
 ```text
 GARA BẢY AT NIGHT: a two-story car garage workshop beside a canal in Saigon: a big steel roll-up shutter facing the street, exposed brick walls stained with engine oil, one teal neon strip light and warm work lamps, walls of hanging tools, stacks of old tires, a hydraulic car lift, oil stains on the concrete floor; a steel mezzanine up a metal staircase with a long wooden dinner table and stools; an old dented metal toolbox on a high shelf; no signs, posters or readable text anywhere.
 ```
 
-**Cảng container về đêm** (Tập 2, 3)
+**Cảng container về đêm** (Cảnh 2, 3, 15)
 ```text
 THE CONTAINER PORT AT NIGHT: a container port on the Saigon river at night: long stacks of plain shipping containers in red, blue and green with no text or logos, tall gantry cranes with bright white floodlights, wet asphalt reflecting orange sodium light, puddles, a flatbed truck between the stacks, the dark river and a lit bridge in the distance; no signs or readable text.
 ```
 
-**Sân thượng Gara Bảy** (Tập 3)
+**Gara Bảy ban ngày** (Cảnh 4, 11)
+```text
+GARA BẢY BY DAY: the same two-story garage workshop beside a canal in Saigon in daylight: the steel roll-up shutter half repaired with fresh welded patches, sunlight pouring through the open front, oil-stained concrete floor, walls of hanging tools, tire stacks, the hydraulic car lift, the steel mezzanine with the long wooden table; behind the garage, a small concrete backyard on the canal edge with old tires and potted banana plants; no signs or readable text.
+```
+
+**Đường đua kín** (Cảnh 5)
+```text
+THE CLOSED RACE TRACK: a closed asphalt race circuit outside Saigon at midday: red-and-white curbs, gravel run-off areas, tire barriers, a small covered grandstand with a soft-focus crowd, a pit lane with mechanics in plain overalls, marshals in orange vests waving plain flags, an ambulance and a fire truck on standby; no sponsor logos, signs or readable text.
+```
+
+**Kho xe ở cảng** (Cảnh 6)
+```text
+THE WAREHOUSE: a huge dim warehouse at the port at night: long rows of stolen cars of every kind under grey tarps, some tarps pulled back, a child's car seat and a small teddy bear visible inside one car, steel pillars, high windows letting in orange sodium light, steel catwalks above, an office corner with a corkboard; no readable text.
+```
+
+**Mái nhà quanh Gara Bảy dưới mưa** (Cảnh 8)
+```text
+THE ROOFTOPS: the wet, crowded rooftops around Gara Bảy at night in heavy rain: corrugated tin roofs, water tanks, laundry lines, satellite dishes, narrow gaps between buildings, neon from the street below reflecting in the puddles; no signs or readable text.
+```
+
+**Xưởng bỏ hoang** (Cảnh 10)
+```text
+THE ABANDONED FACTORY: an abandoned factory at night outside the city: rusted machines, broken skylights letting in moonlight and drifting rain mist, steel catwalks, hanging chains, a workbench with cables and old monitors where SÓI XÁM works, puddles on the concrete floor; no readable text.
+```
+
+**Đường cảng đã phong tỏa** (Cảnh 12)
+```text
+THE CLOSED PORT ROAD: a wide, empty port road at night that the police have closed to all traffic: police barriers with flashing blue-and-red lights at both ends, no civilians anywhere, wet asphalt under streetlights, rows of containers on both sides, a convoy of car-carrier trucks loaded with stolen cars escorted by grey armored trucks; no readable text or license plates.
+```
+
+**Tàu hàng ở cầu cảng** (Cảnh 13, 14)
+```text
+THE CARGO SHIP: a grey cargo ship docked at the port at night: a steep steel loading ramp, a wide open deck with stacked containers and coiled chains, bright deck floodlights, the dark river and the lit bridge behind; no readable names, numbers or text.
+```
+
+**Sân thượng Gara Bảy** (Cảnh 3, 15)
 ```text
 THE ROOFTOP OF GARA BẢY: the flat rooftop of the garage at dusk with warm string lights, potted plants, a low folding table with a steaming hotpot, bowls and chopsticks, plastic stools, and a view over the canal to a big lit bridge across the river.
 ```
@@ -209,16 +257,17 @@ cartoon, anime or video-game look, plastic or toy-like armor, armor resembling a
 
 ## 5. Ảnh tham chiếu
 
-Làm một lần trước khi dựng Tập 1, bằng công cụ tạo ảnh trong Flow (Nano Banana / Imagen), tỉ lệ **16:9** cho bảng 3 góc nhìn. Chọn ảnh giống người thật nhất; soi kỹ dấu hiệu nhận dạng (vệt tóc bạc bên trái của Thắng, lọn tóc xanh bên phải của Lan, bộ râu và vóc người của Hải, kính tròn của Khôi, sẹo cằm của Minh) và màu giáp. Tạo nhân vật trên Flow từ ảnh thường phục.
+Làm một lần trước khi dựng Cảnh 1, bằng công cụ tạo ảnh trong Flow (Nano Banana / Imagen), tỉ lệ **16:9** cho bảng 3 góc nhìn. Chọn ảnh giống người thật nhất; soi kỹ dấu hiệu nhận dạng (vệt tóc bạc bên trái của Thắng, lọn tóc xanh bên phải của Lan, bộ râu và vóc người của Hải, kính tròn của Khôi, sẹo cằm của Minh) và màu giáp. Tạo nhân vật trên Flow từ ảnh thường phục.
 
 | Tên ảnh | Nội dung | Dùng ở |
 | --- | --- | --- |
-| `REF_THANG`, `REF_LAN`, `REF_HAI`, `REF_KHOI`, `REF_MINH` | Thường phục | Mọi tập |
-| `REF_THANG_GIAP`, `REF_LAN_GIAP`, `REF_HAI_GIAP`, `REF_KHOI_GIAP`, `REF_MINH_GIAP` | Giáp | Cảnh mặc giáp (Tập 2, 3) |
-| `REF_SOI_XAM`, `REF_GANG_XAM` | Phản diện, đàn em | Tập 1–3 |
-| `REF_BAC_BAY` | Hologram Bác Bảy | Tập 1 |
-| `REF_LOI_GIAP` | Năm lõi giáp trong hộp mút | Tập 1 |
-| `REF_XE_LAN` | Xe của Lan | Tập 1, 2 |
+| `REF_THANG`, `REF_LAN`, `REF_HAI`, `REF_KHOI`, `REF_MINH` | Thường phục | Mọi cảnh |
+| `REF_THANG_GIAP`, `REF_LAN_GIAP`, `REF_HAI_GIAP`, `REF_KHOI_GIAP`, `REF_MINH_GIAP` | Giáp | Cảnh mặc giáp |
+| `REF_SOI_XAM`, `REF_GANG_XAM` | Phản diện, đàn em | Cảnh 1–2, 4–14 |
+| `REF_TU` | Tú | Cảnh 5, 15 |
+| `REF_BAC_BAY` | Hologram Bác Bảy | Cảnh 1, 9, 14 |
+| `REF_LOI_GIAP` | Năm lõi giáp trong hộp mút | Cảnh 1 |
+| `REF_XE_LAN`, `REF_XE_THANG`, `REF_XE_HAI` | Xe của Lan, Thắng, Hải | Cảnh có xe |
 
 **Năm prompt tạo năm nhân vật** (thường phục, tỉ lệ 16:9, mỗi prompt tạo 2–4 ảnh rồi chọn ảnh đẹp nhất; dùng ảnh này để tạo nhân vật trên Flow):
 
@@ -279,23 +328,45 @@ Character reference sheet for a photorealistic live-action superhero film. The s
 Photorealistic product-style photo for a live-action superhero film: an old dented metal toolbox lid open, revealing a fitted grey foam case holding five palm-sized hexagonal metal cores side by side, each glowing softly in its own color: red, white-blue, orange, yellow and navy; brushed-metal edges, fine engraved circuit lines, warm workshop light. No text, no logos, no watermark.
 ```
 
+**Prompt ảnh nhân vật phụ và xe** (tỉ lệ 16:9 cho người, 1:1 cho xe):
+
+**REF_TU**
+```text
+Character reference sheet for a photorealistic live-action action film. The same single young man shown three times side by side at the same scale: front view, three-quarter view and side profile. Full body, neutral standing pose, arms relaxed, nervous expression. A real Vietnamese young man of about 22, thin, messy dyed-brown hair, a small silver stud in his LEFT ear, a nervous boyish face, in a plain grey racing suit with no logos. An original face that does not resemble any real actor or celebrity. Photorealistic, natural skin texture, plain light-grey seamless studio background, soft even studio lighting, no text, no labels, no logos, no watermark.
+```
+
+**REF_SOI_XAM**
+```text
+Character reference sheet for a photorealistic live-action superhero film. The same single man shown three times side by side at the same scale: front view, three-quarter view and side profile. Full body, neutral standing pose, cold calm expression. A Vietnamese man of about 45 with salt-and-pepper hair slicked back and cold grey eyes, inside dark gunmetal armor with a wolf-head helmet whose faceplate is split open so his face is visible, two red eye slits glowing on the helmet, grey leather gloves over the armor. The armor looks like a real practical film costume, an original design that does not resemble any existing superhero franchise. Photorealistic, plain light-grey seamless studio background, soft even studio lighting, no weapons, no text, no logos, no watermark.
+```
+
+**REF_GANG_XAM**
+```text
+Character reference sheet for a photorealistic live-action superhero film. The same single henchman shown three times side by side at the same scale: front view, three-quarter view and side profile. Full body, neutral standing pose. A man in grey padded tactical armor with a plain grey full helmet that hides his face, and glowing grey power gauntlets on both hands. Real practical costume materials, an original design. Photorealistic, plain light-grey seamless studio background, soft even studio lighting, no weapons, no text, no logos, no watermark.
+```
+
+**REF_BAC_BAY**
+```text
+Photorealistic portrait for a live-action film: a kind old Vietnamese mechanic in his late 60s with a white crew cut, deep smile lines and a faded blue work shirt, warm smile, chest-up, soft studio lighting, plain dark background, rendered as a soft flickering blue hologram with faint scan lines. An original face that does not resemble any real person. No text, no logos, no watermark.
+```
+
+**REF_XE_LAN**
+```text
+Photorealistic three-quarter front view photo of a restored white compact hatchback from the 1990s with two ice-blue racing stripes, clean chrome trim, no badges or logos, no readable license plate, parked on a plain concrete floor, soft studio lighting, no text, no watermark.
+```
+
+**REF_XE_THANG**
+```text
+Photorealistic three-quarter front view photo of a matte-black two-door sports coupe with thin red pinstripes and black custom wheels, no badges or logos, no readable license plate, parked on a plain concrete floor, soft studio lighting, no text, no watermark.
+```
+
+**REF_XE_HAI**
+```text
+Photorealistic three-quarter front view photo of a dark-orange pickup truck with a tool rack in the bed, no badges or logos, no readable license plate, parked on a plain concrete floor, soft studio lighting, no text, no watermark.
+```
+
 ---
 
-## 6. Danh sách tập
+## 6. Cấu trúc phim
 
-| Tập | Tên | Độ dài | Nội dung |
-| --- | --- | :---: | --- |
-| 1 | Năm chiếc lõi | 60s | Đang ăn cơm tấm thì Găng Xám xé cửa cuốn, nhấc bổng xe của Lan bằng một tay; Hải đá như đá cột điện; xe bị cướp. Thùng đồ nghề của Bác Bảy rơi bể, lộ năm lõi giáp và hologram của Bác: "Tụi con là gia đình, giữ nhau mà sống." Bốn lõi chọn bốn người; Thắng bấm lõi: "Lõi Bảy, khởi động!" |
-| 2 | Lần đầu mặc giáp | 40s | Một giờ sau ở cảng: bốn chiến binh lần đầu ra trận, búa năng lượng, bóng cáo, gió đỏ, drone khóa găng; Lan lấy lại xe; Sói Xám lộ mặt trên cẩu trục; còi cảnh sát, cả nhà không chạy mà đứng chờ; Đại úy Minh bước ra trong ánh đèn |
-| 3 | Chiếc lõi thứ năm | 60s | Minh chất vấn "Ai cho mấy người tự xử?"; Găng Xám đợt hai phục kích; lõi xanh thẫm trong ba lô Khôi bay ra chọn Minh; Giáp Khiên chặn đòn, khóa găng, bắt người; tối đó cả nhà mời Minh ăn lẩu trên sân thượng |
-| 4–12 | Theo mạch mùa 1 trong [README.md](README.md) | 40–60s | Viết tiếp khi duyệt xong Tập 1–3 |
-
----
-
-## 7. Các tập — mỗi ngày 1 tập
-
-| Ngày | File | Tên tập |
-| --- | --- | --- |
-| 1 | [tap-1/](tap-1/README.md) | Năm chiếc lõi |
-| 2 | [tap-2/](tap-2/README.md) | Lần đầu mặc giáp |
-| 3 | [tap-3/](tap-3/README.md) | Chiếc lõi thứ năm |
+Kịch bản tổng, mốc thời gian từng cảnh, trạng thái nhân vật (thường phục hay giáp) và chương YouTube nằm ở [KICH_BAN_PHIM.md](KICH_BAN_PHIM.md). Mỗi cảnh là một thư mục `canh-{số}/` gồm `README.md` (kịch bản điện ảnh từng giây), `clip-1.md` … `clip-6.md` và `caption.md` (caption cho bản cắt TikTok). Mô tả và chương cho bản YouTube: [youtube.md](youtube.md).

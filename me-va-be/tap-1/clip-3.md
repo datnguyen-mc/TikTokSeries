@@ -8,18 +8,23 @@ Vertical 9:16, 10-second clip, photorealistic live-action cinematic look, as if 
 
 [SETTING]
 THE TAXI: the back seat of a plain white sedan taxi with beige fabric seats and no logos or text; two grey rear-facing infant car seats belted onto the left and right rear seats, NGỌC sitting in the middle rear seat between them; the driver seen only as the back of his head, soft-focus and silent; bright Saigon traffic of motorbikes, green trees and old shophouses sliding past the windows, soft-focus, with no readable signs.
-Time: a few minutes after leaving the hospital, late morning; the twins asleep, harnessed into the two grey rear-facing infant car seats on the back seat, NGỌC in the middle seat between them with one hand resting on each seat, her tote at her feet.
+Time: a few minutes after leaving the hospital, late morning; a light rain has just begun; the twins asleep, harnessed into the two grey rear-facing infant car seats on the back seat, NGỌC in the middle seat between them with one hand resting on each seat, her tote at her feet.
+
+[CAMERA & LIGHT]
+Soft grey daylight through rain-speckled windows; reflections of the city slide across NGỌC's face; 50mm and 85mm, only the gentle sway of the moving car.
 
 [SHOT LIST]
-00:00–00:03 | Hard cut: a few minutes later, inside the taxi — medium shot, static: the twins asleep in their two rear-facing car seats, NGỌC sitting between them with one hand on each seat, Saigon traffic sliding past the window behind her.
-00:03–00:06 | Close-up on NGỌC by the window, static — silent tears run down her cheeks as she watches the city; then she looks down at the babies. NGỌC says (soft, warm voice, whispering, tender and resolute): Từ nay mẹ làm luôn phần của ba.
-00:06–00:10 | Medium close-up, static — GẠO scrunches his face into a grumpy little frown in his sleep and BÔNG puckers her lips; NGỌC laughs softly through her tears and checks each harness with a fingertip. NGỌC says (soft, warm voice, smiling through tears, gently instructive): Đi xe là con ngồi ghế, không ẵm tay nha.
+00:00–00:02 | Hard cut: a few minutes later, inside the taxi — medium shot, 35mm, from the front passenger side looking back: the twins asleep in their two rear-facing car seats, NGỌC sitting between them with one hand on each seat; the first raindrops speckle the window.
+00:02–00:04 | Close-up, 85mm, static — reflections of motorbikes and shophouses slide across NGỌC's face in the wet window; outside, soft-focus, a father on the sidewalk lifts his little son onto his shoulders; she watches him, eyes brimming.
+00:04–00:06.5 | Close-up, 85mm, static — she turns from the window to the twins, a tear rolling down, and whispers a promise. NGỌC says (soft, warm voice, whispering, tender and resolute): Từ nay mẹ làm luôn phần của ba.
+00:06.5–00:07.5 | Insert close-up, 85mm — GẠO scrunches his face into a grumpy little old-man frown in his sleep, and BÔNG puckers her lips.
+00:07.5–00:10 | Medium close-up, 50mm — NGỌC laughs softly through her tears and checks each harness with a fingertip. NGỌC says (soft, warm voice, smiling through tears, gently instructive): Đi xe là con ngồi ghế, không ẵm tay nha.
 
 [SOUND]
-The muffled hum of the taxi and motorbike traffic outside, a soft turn signal ticking, the piano turning a little warmer.
+The muffled hum of the taxi, rain pattering on the roof, motorbike traffic outside, a turn signal ticking softly; the piano turns a little warmer when she laughs.
 
 [END FRAME]
-Medium close-up inside the taxi: NGỌC sitting between the two rear-facing car seats, smiling through tears, one hand on each seat; GẠO in mint-green and BÔNG in blush-pink asleep in the seats; traffic soft-focus behind the window. Hold still for the final 0.5 seconds.
+Medium close-up inside the taxi: NGỌC sitting between the two rear-facing car seats, smiling through tears, one hand on each seat; GẠO in mint-green and BÔNG in blush-pink asleep in the seats; rain on the window behind her. Hold still for the final 0.5 seconds.
 
 [AVOID]
 dialogue spoken by anyone but NGỌC, a baby held in her arms in the car, forward-facing car seats, a car seat in the front row, the driver's face, readable signs outside, cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted baby faces, extra or missing fingers or toes, babies with older-infant faces or proportions, awake babies grinning at the camera (only fleeting smiles in sleep), babies holding up their own heads, sitting up or grabbing objects, an unsupported baby head or neck, a baby sleeping on its stomach or side, pillows, loose blankets, bumpers, toys or hats inside a bassinet, both babies in one bassinet, a baby left alone on the adult bed, NGỌC looking haggard, unkempt or older than her late twenties, feeding bottles, pacifiers, formula tins or powdered milk, nudity, readable text, labels, logos or brand names, extra people in focus or speaking (anyone else stays soft-focus in the background and silent), a baby held in arms in a moving car, subtitles.

@@ -6,11 +6,15 @@ Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken line
 @Gao = GẠO: beautiful, adorable real newborn twin boy, plump cheeks, tuft of thick black hair sticking up like a little sprout, soft mint-green cotton with a tiny embroidered teddy bear; never speaks, only real newborn sounds.
 @Bong = BÔNG: beautiful, adorable real newborn twin girl, daintier than her brother, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; never speaks, only real newborn sounds.
 
+[CAMERA & LIGHT]
+Same night light; the rain-streaked window becomes the frame for her loneliness and her quiet strength.
+
 [SHOT LIST]
-00:00–00:03 | Same top-down shot, continuing from the last frame, then the camera drifts to the window — NGỌC sits on the floor by the rainy window in the dim light, eating a plain rice ball with one hand, a glass of water beside her.
-00:03–00:06 | Close-up on NGỌC, static — she has swallowed her bite and smiles wryly. NGỌC says (soft, warm voice, whisper, wry smile): Một ngày mười tới mười hai cữ, mẹ thức hoài.
-00:06–00:09 | Medium close-up, static — she looks over at the two bassinets in the warm night light, eyes soft. NGỌC says (soft, warm voice, whisper, loving): Mà nghe tụi con thở đều, mẹ hết mệt.
-00:09–00:10 | Wide shot, static — NGỌC by the rain-streaked window grille, the two bassinets glowing in the warm night light.
+00:00–00:02.5 | Same top-down shot, continuing from the last frame, then the camera drifts to the window — NGỌC sits on the floor by the rainy window, eating a plain cold rice ball with one hand, a glass of water beside her.
+00:02.5–00:05 | Close-up, 85mm — she has swallowed her bite and smiles wryly. NGỌC says (soft, warm voice, whisper, wry smile): Một ngày mười tới mười hai cữ, mẹ thức hoài.
+00:05–00:06.5 | Insert close-up, 85mm — rain trickling down the window grille, her faint reflection in the dark glass.
+00:06.5–00:09 | Medium close-up, 50mm — she looks over at the two bassinets glowing in the night light, eyes softening. NGỌC says (soft, warm voice, whisper, loving): Mà nghe tụi con thở đều, mẹ hết mệt.
+00:09–00:10 | Wide shot, 35mm, static — NGỌC by the rain-streaked window grille, the two bassinets glowing in the warm night light.
 
 [SOUND]
 Steady soft rain, the ceiling fan, the babies' even breathing, a single warm piano phrase to end.

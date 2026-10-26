@@ -13,11 +13,15 @@ A short stack of newborn tape diapers matching the attached product reference im
 THE RENTED ROOM: a small ground-floor rented room of about twenty square meters in a narrow Saigon alley, Vietnam, today. White-painted walls with faint water stains, a dark-green iron door to the alley, a window with a green-painted iron grille and a faded floral curtain, a slow white ceiling fan, a low single bed with a thin mattress and a light-blue floral sheet against one wall, a small wooden table by the window with a compact sewing machine and neatly folded pastel cotton fabric, a white plastic drawer cabinet, a small shelf with a rice cooker, a kettle and a stack of folded white cloth towels. Beside the bed, two identical light-wood baby bassinets stand side by side, each with a firm flat mattress and a plain white fitted sheet and nothing else inside. Modest but spotless, tidy and warm.
 Time: morning; the twins are eleven days old; soft daylight through the window grille; on the single bed, a padded changing mat with a soft white cotton cover; beside it a small bowl of clean warm water, a few sterile gauze pads, a soft towel and the short stack of newborn diapers; GẠO lies on his back on the changing mat in a mint-green cotton bodysuit unsnapped at the bottom; BÔNG lies on her back in her own bassinet beside the bed in a blush-pink bodysuit; NGỌC sits on the edge of the bed and always keeps one hand on GẠO.
 
+[CAMERA & LIGHT]
+Soft, airy morning window light; 50mm and 85mm; calm, unhurried camera at bed height.
+
 [SHOT LIST]
-00:00–00:02 | Close-up, static — on the changing mat GẠO lets out a tiny sneeze and scrunches up his whole face, then blinks in surprise.
-00:02–00:05 | Medium close-up on NGỌC, static — she laughs softly, opens his diaper and calmly looks at his small, dry, dark-brown cord stump, one hand resting on GẠO's chest. NGỌC says (soft, warm voice, calm and reassuring): Rốn khô dần rồi tự rụng, đừng giật nha.
-00:05–00:08 | Medium close-up with her face and hands in frame, static — she dabs around the base of the stump with a gauze pad dipped in the bowl of clean water, then pats it dry with a fresh gauze pad. NGỌC says (soft, warm voice, explaining step by step): Lau bằng gạc với nước sạch, rồi thấm khô.
-00:08–00:10 | Medium shot, slow pan — beside the bed, BÔNG in her bassinet hiccups softly; NGỌC glances over and smiles, her hand still on GẠO.
+00:00–00:01.5 | Close-up, 85mm, static — on the changing mat GẠO lets out a tiny sneeze and scrunches up his whole face, then blinks in surprise.
+00:01.5–00:04 | Medium close-up, 50mm — NGỌC laughs softly, opens his diaper and looks at his small, dry, dark-brown cord stump, one hand resting on his chest; she takes a nervous breath. NGỌC says (soft, warm voice, calm and reassuring): Rốn khô dần rồi tự rụng, đừng giật nha.
+00:04–00:05.5 | Insert close-up, 85mm — her fingers dip a sterile gauze pad into the small bowl of clean water; her hand trembles a little.
+00:05.5–00:08 | Medium close-up, 50mm, her face and hands in frame — she dabs gently around the base of the stump, then pats it dry with a fresh gauze pad, biting her lip in concentration. NGỌC says (soft, warm voice, explaining step by step): Lau bằng gạc với nước sạch, rồi thấm khô.
+00:08–00:10 | Medium shot, 35mm, slow pan — beside the bed BÔNG hiccups softly in her bassinet; NGỌC glances over and smiles, her hand still on GẠO.
 
 [SOUND]
 Morning alley sounds far away, the ceiling fan, a little splash in the bowl, BÔNG's tiny hiccups, a light, tender acoustic guitar tune.

@@ -10,7 +10,7 @@
 
 ---
 
-**Tóm tắt:** Hai bé được 11 ngày tuổi. Buổi sáng anh Gạo hắt xì một cái, nhăn tít cả mặt; Ngọc bật cười, mở tã thay cho con, cuống rốn đã khô và sẫm màu: "Rốn khô dần rồi tự rụng, đừng giật nha." Ngọc lau quanh chân rốn bằng gạc nhúng nước sạch rồi thấm khô, mặc tấm tã sơ sinh có chỗ khoét: "Tã sơ sinh có chỗ khoét, rốn được thoáng." Tới lượt em Bông, vừa mở tã thì cuống rốn đã rụng: "Con gái mẹ rụng rốn trước anh luôn nè!" Bông đạp đạp hai chân, Ngọc hôn tay con, hứa mai tắm chậu cho Bông, dặn khi nào phải đi khám, rồi cúi xuống nôi chọc Gạo: "Con trai ráng lên, đừng thua em gái nha." Gạo hắt xì một cái như trả lời mẹ.
+**Tóm tắt:** Hai bé được 11 ngày tuổi. Buổi sáng anh Gạo hắt xì một cái, nhăn tít cả mặt; Ngọc bật cười, mở tã thay cho con, cuống rốn đã khô và sẫm màu; lần đầu tự làm một mình, tay Ngọc hơi run: "Rốn khô dần rồi tự rụng, đừng giật nha." Ngọc lau quanh chân rốn bằng gạc nhúng nước sạch rồi thấm khô, mặc tấm tã sơ sinh có chỗ khoét: "Tã sơ sinh có chỗ khoét, rốn được thoáng." Tới lượt em Bông, vừa mở tã thì cuống rốn đã rụng: "Con gái mẹ rụng rốn trước anh luôn nè!" Bông đạp đạp hai chân, Ngọc hôn tay con, hứa mai tắm chậu cho Bông, dặn khi nào phải đi khám, rồi cúi xuống nôi chọc Gạo: "Con trai ráng lên, đừng thua em gái nha." Gạo hắt xì một cái như trả lời mẹ; Ngọc bật cười, thở ra một hơi dài: "Mẹ làm được mà, đúng hông hai con?"
 
 **Nhân vật & ảnh cần đính kèm:** Clip 1: `REF_NGOC_A`, `REF_GAO`, `REF_BONG`, `SP_TA_SO_SINH`. Các clip khác làm bằng Frames hoặc Extend.
 
@@ -18,28 +18,32 @@
 
 **Đạo cụ:** tấm lót thay tã bọc vải trắng trên giường; chén nước sạch ấm; gạc vô trùng; khăn mềm; xấp tã dán sơ sinh có khoét rốn (sản phẩm); hai nôi. Bối cảnh: "Phòng trọ" của [FLOW_PROMPTS.md](../FLOW_PROMPTS.md), buổi sáng.
 
-**Đồ cho bé lồng ghép:** **Tã dán sơ sinh có khoét rốn** (`SP_TA_SO_SINH`): cận sản phẩm ở 00:10–00:13 (chỗ khoét vòng cung ở mép trước), Ngọc dán tã cho chỗ khoét nằm dưới rốn ở 00:13–00:16 kèm mẹo trong thoại. Tên sản phẩm gắn giỏ hàng TikTok khi đăng.
+**Đồ cho bé lồng ghép:** **Tã dán sơ sinh có khoét rốn** (`SP_TA_SO_SINH`): cận sản phẩm ở 00:10–00:12 (chỗ khoét vòng cung ở mép trước), Ngọc dán tã cho chỗ khoét nằm dưới rốn ở 00:12–00:14.5 kèm mẹo trong thoại. Tên sản phẩm gắn giỏ hàng TikTok khi đăng.
 
-**Kịch bản nhanh:**
+**Kịch bản điện ảnh từng giây** (bản tiếng Việt của [SHOT LIST]; mỗi prompt còn có khối [CAMERA & LIGHT] ghi ống kính, ánh sáng, nhịp máy):
 
-| Thời gian | Hình ảnh | Thoại |
+| Thời gian | Máy quay & hình ảnh | Thoại |
 | --- | --- | --- |
-| 00:00–00:02 | Cận Gạo trên tấm lót hắt xì một cái, nhăn tít cả mặt rồi chớp mắt ngơ ngác **(hook)** | — |
-| 00:02–00:05 | Ngọc bật cười, mở tã nhìn cuống rốn nhỏ, khô, sẫm màu; một tay đặt trên ngực Gạo | Ngọc: "Rốn khô dần rồi tự rụng, đừng giật nha." |
-| 00:05–00:08 | Ngọc chấm gạc vào chén nước sạch lau quanh chân cuống rốn, rồi lấy gạc khô thấm lại | Ngọc: "Lau bằng gạc với nước sạch, rồi thấm khô." |
-| 00:08–00:10 | Bên cạnh, Bông trong nôi nấc cụt nho nhỏ; mẹ quay qua cười, tay vẫn giữ Gạo | — |
-| 00:10–00:13 | **Cận sản phẩm:** mẹ luồn tấm tã sơ sinh mới dưới mông Gạo, chỗ khoét vòng cung ở mép trước quay lên | — |
-| 00:13–00:16 | Ngọc dán tã, chỗ khoét nằm ngay dưới cuống rốn, rốn để thoáng | Ngọc: "Tã sơ sinh có chỗ khoét, rốn được thoáng." |
-| 00:16–00:19 | Ngọc cài nút áo, bế Gạo đỡ đầu cổ, đặt nằm ngửa vào nôi | Ngọc: "Xong anh Gạo, tới lượt em Bông." |
-| 00:19–00:20 | Ngọc bế Bông ra, đỡ đầu và cổ | — |
-| 00:20–00:23 | Ngọc đặt Bông lên tấm lót, mở tã thì khựng lại: cuống rốn khô nhỏ xíu đã rụng nằm trên tã, rốn con sạch và khô | — |
-| 00:23–00:26 | Cận Ngọc bật cười khẽ | Ngọc: "Con gái mẹ rụng rốn trước anh luôn nè!" |
-| 00:26–00:29 | Ngọc lau bụng Bông bằng gạc ẩm rồi thấm khô | Ngọc: "Con rụng rốn rồi, mai mẹ tắm chậu nha." |
-| 00:29–00:30 | Bông đạp đạp hai bàn chân nhỏ, quơ tay; mẹ hôn lên tay con | — |
-| 00:30–00:33 | Ngọc mặc tã, cài áo cho Bông rồi đặt nằm ngửa vào nôi | — |
-| 00:33–00:36 | Ngọc quỳ giữa hai nôi, nhìn Gạo, nói nghiêm túc | Ngọc: "Rốn đỏ, sưng, chảy dịch hôi là đi khám liền." |
-| 00:36–00:39 | Ngọc cúi xuống nôi Gạo thì thầm chọc con | Ngọc: "Con trai ráng lên, đừng thua em gái nha." |
-| 00:39–00:40 | Từ trên nhìn xuống: Gạo hắt xì một cái như trả lời mẹ, Bông cười mỉm trong giấc ngủ; mỗi tay mẹ đặt trên một thành nôi **(thumbnail)** | — |
+| 00:00–00:01.5 | **Cận, 85mm:** Gạo trên tấm lót hắt xì một cái, nhăn tít cả mặt rồi chớp mắt ngơ ngác **(hook)** | — |
+| 00:01.5–00:04 | **Trung cận, 50mm:** Ngọc bật cười, mở tã nhìn cuống rốn nhỏ, khô, sẫm màu; một tay đặt trên ngực con, hít một hơi hồi hộp | Ngọc: "Rốn khô dần rồi tự rụng, đừng giật nha." |
+| 00:04–00:05.5 | **Chèn cận:** ngón tay Ngọc nhúng miếng gạc vào chén nước sạch, tay hơi run | — |
+| 00:05.5–00:08 | **Trung cận, 50mm:** Ngọc chấm nhẹ quanh chân cuống rốn rồi lấy gạc khô thấm lại, cắn môi tập trung | Ngọc: "Lau bằng gạc với nước sạch, rồi thấm khô." |
+| 00:08–00:10 | **Trung cảnh, lia chậm:** bên cạnh, Bông trong nôi nấc cụt nho nhỏ; mẹ quay qua cười, tay vẫn giữ Gạo | — |
+| 00:10–00:12 | **Tiếp khung cuối rồi cận sản phẩm, 85mm:** mẹ luồn tấm tã sơ sinh mới dưới mông Gạo, chỗ khoét vòng cung ở mép trước quay lên | — |
+| 00:12–00:14.5 | **Trung cận, 50mm:** Ngọc dán tã, chỗ khoét nằm ngay dưới cuống rốn, rốn để thoáng | Ngọc: "Tã sơ sinh có chỗ khoét, rốn được thoáng." |
+| 00:14.5–00:16 | **Cận, 85mm:** Ngọc cài nút áo xanh thêu gấu, hôn lên ngực con; Gạo ngọ nguậy, chu môi | — |
+| 00:16–00:18.5 | **Trung cảnh, 35mm:** Ngọc bế Gạo, đỡ đầu cổ, đặt nằm ngửa vào nôi | Ngọc: "Xong anh Gạo, tới lượt em Bông." |
+| 00:18.5–00:20 | **Trung cảnh:** Ngọc bế Bông ra, đỡ đầu và cổ | — |
+| 00:20–00:22.5 | **Tiếp khung cuối:** Ngọc đặt Bông lên tấm lót, mở tã thì khựng lại: cuống rốn khô nhỏ xíu đã rụng nằm trên tã, rốn con sạch và khô | — |
+| 00:22.5–00:24.5 | **Cận, 85mm:** Ngọc đưa tay lên miệng, bật cười khẽ | Ngọc: "Con gái mẹ rụng rốn trước anh luôn nè!" |
+| 00:24.5–00:27 | **Trung cận, 50mm:** Ngọc lau bụng Bông bằng gạc ẩm rồi thấm khô | Ngọc: "Con rụng rốn rồi, mai mẹ tắm chậu nha." |
+| 00:27–00:28.5 | **Cận, 85mm:** Bông đạp đạp hai bàn chân nhỏ, quơ tay | — |
+| 00:28.5–00:30 | **Cận, 85mm:** Ngọc nắm lấy bàn tay nhỏ, hôn lên, mắt long lanh | — |
+| 00:30–00:32 | **Tiếp khung cuối rồi lùi ra trung cảnh:** Ngọc mặc tã, cài áo bèo cho Bông, đặt nằm ngửa vào nôi | — |
+| 00:32–00:34.5 | **Trung cận, 50mm:** Ngọc quỳ giữa hai nôi, nhìn Gạo, nói nghiêm túc | Ngọc: "Rốn đỏ, sưng, chảy dịch hôi là đi khám liền." |
+| 00:34.5–00:36.5 | **Cận, 85mm:** Ngọc cúi xuống nôi Gạo thì thầm chọc con | Ngọc: "Con trai ráng lên, đừng thua em gái nha." |
+| 00:36.5–00:37.5 | **Chèn cận:** Gạo hắt xì một cái như trả lời mẹ | — |
+| 00:37.5–00:40 | **Trung cận, 50mm:** Ngọc bật cười rồi thở ra một hơi dài, mắt rưng rưng, mỗi tay đặt trên một thành nôi; Bông cười mỉm trong giấc ngủ **(thumbnail)** | Ngọc: "Mẹ làm được mà, đúng hông hai con?" |
 
 ## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
 

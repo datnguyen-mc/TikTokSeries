@@ -13,17 +13,21 @@ A twin nursing pillow matching the attached product reference image: a large, fi
 THE RENTED ROOM: a small ground-floor rented room of about twenty square meters in a narrow Saigon alley, Vietnam, today. White-painted walls with faint water stains, a dark-green iron door to the alley, a window with a green-painted iron grille and a faded floral curtain, a slow white ceiling fan, a low single bed with a thin mattress and a light-blue floral sheet against one wall, a small wooden table by the window with a compact sewing machine and neatly folded pastel cotton fabric, a white plastic drawer cabinet, a small shelf with a rice cooker, a kettle and a stack of folded white cloth towels. Beside the bed, two identical light-wood baby bassinets stand side by side, each with a firm flat mattress and a plain white fitted sheet and nothing else inside. Modest but spotless, tidy and warm.
 Time: about three o'clock in the morning; the twins are eighteen days old; the room almost dark, lit only by a small dim warm night light on the shelf; light rain pattering outside the window grille; the ceiling fan turning slowly; both babies on their backs in their own bassinets, GẠO in a mint-green bodysuit and BÔNG in a blush-pink bodysuit; NGỌC asleep on her side on the single bed facing the bassinets; the twin nursing pillow and a soft white muslin nursing cover lie folded at the foot of the bed.
 
+[CAMERA & LIGHT]
+Night: only the small warm night light, deep blue shadows, rain streaks glinting on the window; 85mm for faces with very shallow focus; slow, hushed camera.
+
 [SHOT LIST]
-00:00–00:02 | Extreme close-up in dim warm light — GẠO in his bassinet licks his lips, pokes out his tongue and brings a tiny fist to his mouth.
-00:02–00:05 | Medium shot, static — NGỌC, asleep on the bed facing the bassinets, opens her eyes at the tiny sounds and sits up, tired but alert. NGỌC says (soft, warm voice, sleepy whisper): Liếm môi, đưa tay lên miệng là đói rồi.
-00:05–00:08 | Medium close-up, static — she kneels by the bassinets and smiles down at GẠO, who is still quiet. NGỌC says (soft, warm voice, knowing whisper): Đợi khóc mới cho bú là trễ đó.
-00:08–00:10 | Medium shot, static — in the next bassinet BÔNG pushes out her rosebud lips in a little pout and starts to fuss too; NGỌC lets out a soft, tired laugh.
+00:00–00:01.5 | Extreme close-up, 85mm — in the dim warm light GẠO licks his lips, pokes out his tongue and brings a tiny fist to his mouth.
+00:01.5–00:03 | Close-up, 85mm, static — NGỌC asleep on her side on the bed; at the tiny sounds her eyes open at once.
+00:03–00:05.5 | Medium shot, 35mm — she sits up, tired, pushes her hair back from her face and looks at GẠO. NGỌC says (soft, warm voice, sleepy whisper): Liếm môi, đưa tay lên miệng là đói rồi.
+00:05.5–00:08 | Medium close-up, 50mm — she kneels by the bassinets and smiles down at GẠO, who has not cried yet. NGỌC says (soft, warm voice, knowing whisper): Đợi khóc mới cho bú là trễ đó.
+00:08–00:10 | Medium shot, 35mm — in the next bassinet BÔNG pushes out her rosebud lips in a little pout and starts to fuss too; NGỌC lets out a soft, tired laugh.
 
 [SOUND]
 Light rain on the window grille, the ceiling fan, tiny smacking sounds, BÔNG's soft fussing, a hushed, warm lullaby piano.
 
 [END FRAME]
-Medium shot in dim warm night light: NGỌC kneeling between the two bassinets, smiling tiredly; GẠO with his fist at his mouth in the left bassinet, BÔNG squirming and fussing in the right bassinet; the folded twin nursing pillow on the bed behind her; rain on the window grille. Hold still for the final 0.5 seconds.
+Medium shot in dim warm night light: NGỌC kneeling between the two bassinets, smiling tiredly; GẠO with his fist at his mouth in the left bassinet, BÔNG pouting and fussing in the right bassinet; the folded twin nursing pillow on the bed behind her; rain on the window grille. Hold still for the final 0.5 seconds.
 
 [AVOID]
 dialogue spoken by anyone but NGỌC, bright lights, cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted baby faces, extra or missing fingers or toes, babies with older-infant faces or proportions, awake babies grinning at the camera (only fleeting smiles in sleep), babies holding up their own heads, sitting up or grabbing objects, an unsupported baby head or neck, a baby sleeping on its stomach or side, pillows, loose blankets, bumpers, toys or hats inside a bassinet, both babies in one bassinet, a baby left alone on the adult bed, NGỌC looking haggard, unkempt or older than her late twenties, feeding bottles, pacifiers, formula tins or powdered milk, nudity, readable text, labels, logos or brand names, extra people in focus or speaking (anyone else stays soft-focus in the background and silent), a baby held in arms in a moving car, subtitles.

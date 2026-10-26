@@ -6,11 +6,15 @@ Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken line
 @Gao = GẠO: beautiful, adorable real newborn twin boy, plump cheeks, tuft of thick black hair sticking up like a little sprout, soft mint-green cotton with a tiny embroidered teddy bear; never speaks, only real newborn sounds.
 @Bong = BÔNG: beautiful, adorable real newborn twin girl, daintier than her brother, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; never speaks, only real newborn sounds.
 
+[CAMERA & LIGHT]
+Same light; 85mm close-ups for the discovery and the kiss.
+
 [SHOT LIST]
-00:00–00:03 | Same medium shot, continuing from the last frame — NGỌC lays BÔNG on her back on the changing mat, opens her diaper and freezes, eyes wide: the tiny dried cord stump has come off and lies on the diaper, and BÔNG's belly button is clean and dry.
-00:03–00:06 | Close-up on NGỌC's face, static — she laughs softly in delight. NGỌC says (soft, warm voice, surprised and delighted, laughing softly): Con gái mẹ rụng rốn trước anh luôn nè!
-00:06–00:09 | Medium close-up with her face and hands in frame, static — she gently wipes BÔNG's tummy with a damp gauze pad and pats it dry. NGỌC says (soft, warm voice, tender): Con rụng rốn rồi, mai mẹ tắm chậu nha.
-00:09–00:10 | Close-up, static — BÔNG kicks her tiny feet and waves one little hand in the air, and NGỌC kisses it.
+00:00–00:02.5 | Same medium shot, continuing from the last frame — NGỌC lays BÔNG on her back on the changing mat, opens her diaper and freezes, eyes wide: the tiny dried cord stump has come off and lies on the diaper, and BÔNG's belly button is clean and dry.
+00:02.5–00:04.5 | Close-up, 85mm, static — her hand flies to her mouth and she laughs softly in delight. NGỌC says (soft, warm voice, surprised and delighted, laughing softly): Con gái mẹ rụng rốn trước anh luôn nè!
+00:04.5–00:07 | Medium close-up, 50mm, her face and hands in frame — she gently wipes BÔNG's tummy with a damp gauze pad and pats it dry. NGỌC says (soft, warm voice, tender): Con rụng rốn rồi, mai mẹ tắm chậu nha.
+00:07–00:08.5 | Close-up, 85mm — BÔNG kicks her tiny feet and waves one little hand in the air.
+00:08.5–00:10 | Close-up, 85mm — NGỌC catches the little hand and kisses it, her eyes shining.
 
 [SOUND]
 A soft gasp, NGỌC's quiet laugh, the ceiling fan, a playful plucked-string motif.

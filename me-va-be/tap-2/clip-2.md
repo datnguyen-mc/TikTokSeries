@@ -6,14 +6,18 @@ Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken line
 @Gao = GẠO: beautiful, adorable real newborn twin boy, plump cheeks, tuft of thick black hair sticking up like a little sprout, soft mint-green cotton with a tiny embroidered teddy bear; never speaks, only real newborn sounds.
 @Bong = BÔNG: beautiful, adorable real newborn twin girl, daintier than her brother, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; never speaks, only real newborn sounds.
 
+[CAMERA & LIGHT]
+Same soft morning light; 85mm for the product and the little kiss, 35mm when she moves between bed and bassinet.
+
 [SHOT LIST]
-00:00–00:03 | Same medium shot, continuing from the last frame, then a product close-up with shallow depth of field — NGỌC slides a fresh newborn diaper (matching the product reference image) under GẠO; the small curved cut-out at the top of the front waistband faces up.
-00:03–00:06 | Medium close-up with her face and hands in frame, static — she fastens the tabs so the cut-out sits just below the stump, leaving it open to the air. NGỌC says (soft, warm voice, pleased): Tã sơ sinh có chỗ khoét, rốn được thoáng.
-00:06–00:09 | Medium shot, static — she snaps up GẠO's mint-green bodysuit, lifts him with a hand under his head and neck and lays him on his back in his bassinet. NGỌC says (soft, warm voice, playful whisper): Xong anh Gạo, tới lượt em Bông.
-00:09–00:10 | Medium shot, static — she lifts BÔNG out of her bassinet, supporting her head and neck.
+00:00–00:02 | Same medium shot, continuing from the last frame, then a product close-up, 85mm, shallow focus — NGỌC slides a fresh newborn diaper (matching the product reference image) under GẠO; the small curved cut-out at the top of the front waistband faces up.
+00:02–00:04.5 | Medium close-up, 50mm, her face and hands in frame — she fastens the tabs so the cut-out sits just below the stump, leaving it open to the air. NGỌC says (soft, warm voice, pleased): Tã sơ sinh có chỗ khoét, rốn được thoáng.
+00:04.5–00:06 | Close-up, 85mm — she snaps up his mint-green bodysuit with the little embroidered bear and kisses his chest; he wriggles and pouts.
+00:06–00:08.5 | Medium shot, 35mm — she lifts GẠO with one hand under his head and neck and lays him on his back in his bassinet. NGỌC says (soft, warm voice, playful whisper): Xong anh Gạo, tới lượt em Bông.
+00:08.5–00:10 | Medium shot, 35mm — she lifts BÔNG out of her bassinet, supporting her head and neck.
 
 [SOUND]
-The soft rip of diaper tabs, snaps clicking, the ceiling fan, the light acoustic guitar tune continues.
+The soft rip of diaper tabs, snaps clicking, a tiny kiss, the ceiling fan; the light acoustic guitar tune continues.
 
 [END FRAME]
 Medium shot: NGỌC sitting on the edge of the bed holding BÔNG in her blush-pink bodysuit in both arms, one hand under her head and neck, about to lay her on the changing mat; GẠO asleep on his back in his own bassinet beside the bed. Hold still for the final 0.5 seconds.

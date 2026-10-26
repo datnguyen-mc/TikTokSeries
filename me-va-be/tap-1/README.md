@@ -10,7 +10,7 @@ Hôm sau: [Tập 2 — Cái rốn nhỏ](../tap-2/README.md) →
 
 ---
 
-**Tóm tắt:** Ngày ra viện, hai bé 4 ngày tuổi. Ngọc gọi cho chồng, chuông đổ mãi rồi tắt, không ai bắt máy; giường bên cạnh, một ông bố ôm bó hoa tới đón vợ. Ngọc quay đi, nước mắt lăn dài: "Ba tụi con… không tới đâu." Gạo ngáp một cái thật to, Bông chu môi; Ngọc quẹt nước mắt: "Không sao, có mẹ đây rồi." Ngọc cài hai con vào hai ghế ô tô quay ngược, mỗi tay xách một ghế: "Gạo, Bông ơi, mình về nhà nha," rồi một mình đi dọc hành lang bệnh viện. Trên taxi, Ngọc ngồi giữa hai ghế, lặng lẽ khóc nhìn thành phố: "Từ nay mẹ làm luôn phần của ba." Gạo nhăn mặt kiểu ông cụ non, Ngọc bật cười, kiểm tra dây đai: "Đi xe là con ngồi ghế, không ẵm tay nha." Xuống xe, Ngọc lủi thủi xách hai ghế vô con hẻm vắng, nửa đường dừng lại đổi tay; tới cửa: "Con trai, con gái ơi, mình về nhà rồi nè… Nhà nhỏ xíu à, mà có mẹ." Ngọc đặt mỗi đứa một nôi, nằm ngửa; con gấu bông để lên kệ. Rồi Ngọc ngồi bệt giữa hai nôi, lúc này mới bật khóc; Gạo nắm chặt ngón tay mẹ: "Mẹ không có nhiều, mà mẹ có hai con. Nhà mình có ba người rồi đó."
+**Tóm tắt:** Ngày ra viện, hai bé 4 ngày tuổi. Ngọc ngập ngừng bấm gọi cho chồng, thì thầm vào tiếng chuông: "Anh ơi, bắt máy đi anh." Chuông tắt, không ai bắt máy; giường bên cạnh, một ông bố ôm bó hoa tới đón vợ. Ngọc quay đi, nước mắt lăn dài: "Ba tụi con… không tới đâu." Gạo ngáp một cái thật to, Bông chu môi; Ngọc quẹt nước mắt: "Không sao, có mẹ đây rồi." Ngọc hôn trán hai con, cài hai đứa vào hai ghế ô tô quay ngược, liếc chiếc ghế thăm bệnh bỏ trống, mỗi tay xách một ghế: "Gạo, Bông ơi, mình về nhà nha," rồi một mình đi dọc hành lang bệnh viện, ngẩng cằm: "Không ai đón, mẹ con mình tự về." Trên taxi trời lất phất mưa, Ngọc ngồi giữa hai ghế, nhìn một ông bố ngoài lề đường công con trai lên vai, lặng lẽ khóc: "Từ nay mẹ làm luôn phần của ba." Gạo nhăn mặt kiểu ông cụ non, Ngọc bật cười, kiểm tra dây đai: "Đi xe là con ngồi ghế, không ẵm tay nha." Xuống xe, Ngọc lủi thủi xách hai ghế vô con hẻm vắng, nửa đường dừng lại đổi tay; tới cửa: "Con trai, con gái ơi, mình về nhà rồi nè… Nhà nhỏ xíu à, mà có mẹ." Ngọc đặt mỗi đứa một nôi, nằm ngửa; con gấu bông để lên kệ. Rồi Ngọc ngồi bệt giữa hai nôi, nhìn điện thoại lần cuối rồi úp xuống sàn, lúc này mới bật khóc; Gạo nắm chặt ngón tay mẹ: "Mẹ không có nhiều, mà mẹ có hai con. Nhà mình có ba người rồi đó."
 
 **Nhân vật & ảnh cần đính kèm:** Clip 1: `REF_NGOC_A`, `REF_GAO`, `REF_BONG`. Clip 3 (cắt cảnh): `REF_NGOC_A`, `REF_GAO`, `REF_BONG`. Clip 4 (cắt cảnh): `REF_NGOC_A`, `REF_GAO`, `REF_BONG`, `SP_NOI`. Các clip khác làm bằng Frames hoặc Extend.
 
@@ -18,32 +18,43 @@ Hôm sau: [Tập 2 — Cái rốn nhỏ](../tap-2/README.md) →
 
 **Đạo cụ:** điện thoại (không thấy màn hình); hai nôi bệnh viện bằng nhựa trong; hai ghế ô tô cho trẻ sơ sinh màu xám, quay ngược chiều xe, có quai xách; túi vải; dép bệt màu be; con gấu bông nhỏ (để lên kệ); hai chiếc nôi gỗ sáng màu ở phòng trọ (sản phẩm). Bối cảnh lần lượt: "Phòng hậu sản ở bệnh viện" → "Taxi" → "Hẻm trước phòng trọ" → "Phòng trọ" của [FLOW_PROMPTS.md](../FLOW_PROMPTS.md), từ 9 giờ 30 tới khoảng 11 giờ trưa cùng một ngày.
 
-**Đồ cho bé lồng ghép:** **Nôi em bé** (`SP_NOI`): hai chiếc nôi giống nhau, nệm phẳng, cứng, chỉ một tấm ga bọc. Lên hình từ cuối Clip 4, cận sản phẩm ở 00:43–00:45 (bàn tay Ngọc ấn thử nệm), mẹo nói trong thoại ở 00:40–00:43 và 00:45–00:48. Tên sản phẩm gắn giỏ hàng TikTok khi đăng. Hai ghế ô tô chỉ là đạo cụ cho đúng luật và đúng khuyến nghị an toàn, không gắn giỏ (muốn gắn thì chụp thêm ảnh `SP_GHE_O_TO`).
+**Đồ cho bé lồng ghép:** **Nôi em bé** (`SP_NOI`): hai chiếc nôi giống nhau, nệm phẳng, cứng, chỉ một tấm ga bọc. Lên hình từ cuối Clip 4, cận sản phẩm ở 00:45–00:46.5 (bàn tay Ngọc ấn thử nệm), mẹo nói trong thoại ở 00:42.5–00:45 và 00:46.5–00:49. Tên sản phẩm gắn giỏ hàng TikTok khi đăng. Hai ghế ô tô chỉ là đạo cụ cho đúng luật và đúng khuyến nghị an toàn, không gắn giỏ (muốn gắn thì chụp thêm ảnh `SP_GHE_O_TO`).
 
-**Kịch bản nhanh:**
+**Kịch bản điện ảnh từng giây** (bản tiếng Việt của [SHOT LIST]; mỗi prompt còn có khối [CAMERA & LIGHT] ghi ống kính, ánh sáng, nhịp máy):
 
-| Thời gian | Hình ảnh | Thoại |
+| Thời gian | Máy quay & hình ảnh | Thoại |
 | --- | --- | --- |
-| 00:00–00:03 | Ngọc ngồi mép giường bệnh, áp điện thoại lên tai; chuông đổ mãi rồi tắt, không ai bắt máy; Ngọc hạ điện thoại, mắt đỏ hoe **(hook)** | — |
-| 00:03–00:06 | Phía sau, mờ, một ông bố ôm bó hoa tới đón vợ; Ngọc quay đi, nhìn hai bé trong nôi bệnh viện, nước mắt lăn dài | Ngọc: "Ba tụi con… không tới đâu." |
-| 00:06–00:10 | Ngọc quẹt nước mắt, cúi xuống hai nôi: Gạo ngáp một cái thật to, Bông chu môi trong giấc ngủ; mẹ mỉm cười trong nước mắt | Ngọc: "Không sao, có mẹ đây rồi." |
-| 00:10–00:13 | Ngọc bế Gạo, đỡ đầu cổ, đặt vào ghế ô tô quay ngược, cài dây đai vừa khít; rồi tới Bông ở ghế thứ hai | — |
-| 00:13–00:16 | Ngọc đeo túi vải lên vai, mỗi tay xách một ghế, hít một hơi thật sâu | Ngọc: "Gạo, Bông ơi, mình về nhà nha." |
-| 00:16–00:20 | Ngọc một mình xách hai ghế đi dọc hành lang bệnh viện, ngang qua những gia đình có chồng, có ông bà đi cùng; không ai đi bên cạnh | — |
-| 00:20–00:23 | Cắt sang trong taxi: hai bé ngủ trong hai ghế quay ngược, Ngọc ngồi giữa, mỗi tay đặt lên một ghế; xe cộ Sài Gòn lướt qua ô cửa | — |
-| 00:23–00:26 | Cận Ngọc bên cửa kính, nước mắt lặng lẽ rơi; rồi Ngọc nhìn xuống hai con | Ngọc: "Từ nay mẹ làm luôn phần của ba." |
-| 00:26–00:30 | Gạo nhăn mặt kiểu ông cụ non, Bông chu môi; Ngọc bật cười trong nước mắt, đưa ngón tay kiểm tra dây đai từng ghế | Ngọc: "Đi xe là con ngồi ghế, không ẵm tay nha." |
-| 00:30–00:33 | Cắt sang hẻm: taxi đã đi; Ngọc một mình xách hai ghế đi vô con hẻm vắng, nửa đường dừng lại đổi tay, tay run run rồi đi tiếp | — |
-| 00:33–00:36 | Tới cửa sắt xanh, Ngọc đặt hai ghế xuống bậc cửa, mở khóa, nhìn hai con | Ngọc: "Con trai, con gái ơi, mình về nhà rồi nè." |
-| 00:36–00:40 | Cửa mở; Ngọc tháo dép, xách hai ghế bước vào căn phòng nhỏ, mắt nhìn hai chiếc nôi trống trong vệt nắng | Ngọc: "Nhà nhỏ xíu à, mà có mẹ." |
-| 00:40–00:43 | Ngọc đặt hai ghế xuống cạnh nôi, mở dây, đặt Gạo nằm ngửa vào nôi bên trái, tay đỡ đầu cổ; Gạo giật mình giơ hai tay rồi nằm yên | Ngọc: "Mỗi đứa một nôi riêng, nằm ngửa nha." |
-| 00:43–00:45 | **Cận sản phẩm:** đặt Bông nằm ngửa vào nôi bên phải, bàn tay mẹ ấn thử nệm phẳng, cứng, chỉ có tấm ga trắng bọc | — |
-| 00:45–00:48 | Ngọc lấy con gấu bông trong túi ra, ngắm, cười rồi đặt lên kệ chứ không bỏ vô nôi | Ngọc: "Nệm phẳng cứng, không gối, không mền, không gấu bông." |
-| 00:48–00:50 | Từ trên nhìn xuống: hai bé ngủ ngửa trong hai nôi riêng, trong nôi trống trơn; Bông cười mỉm trong giấc ngủ; mỗi tay mẹ đặt trên một thành nôi | — |
-| 00:50–00:53 | Ngọc ngồi bệt xuống giữa hai nôi; lúc này mới bật khóc, vai run, lấy tay che miệng cho con khỏi thức | — |
-| 00:53–00:56 | Cận bàn tay nhỏ xíu của Gạo nắm chặt ngón tay mẹ đặt trên thành nôi; Ngọc nhìn, nghẹn lại | Ngọc: "Mẹ không có nhiều, mà mẹ có hai con." |
-| 00:56–00:59 | Ngọc lau nước mắt, mỉm cười, mỗi tay đặt trên một thành nôi; bên kia Bông cười mỉm trong giấc ngủ | Ngọc: "Nhà mình có ba người rồi đó." |
-| 00:59–01:00 | Ngọc ngồi giữa hai nôi trong nắng, cười nhìn hai con **(thumbnail)** | — |
+| 00:00–00:01.5 | **Đặc tả, 85mm, máy đứng yên:** ngón cái Ngọc ngập ngừng trên điện thoại rồi bấm gọi; màn hình quay ra phía sau **(hook)** | — |
+| 00:01.5–00:04 | **Cận, 85mm, máy đẩy chậm vào:** điện thoại áp tai, chuông đổ mãi; mắt Ngọc nhìn xuống sàn, môi mím chặt, thì thầm vào tiếng chuông | Ngọc: "Anh ơi, bắt máy đi anh." |
+| 00:04–00:05.5 | **Đặc tả đôi mắt:** chuông tắt, tiếng tút khô khốc; một giọt nước mắt tràn ra, lăn qua nốt ruồi dưới mắt trái | — |
+| 00:05.5–00:08 | **Trung cảnh, 35mm, chuyển nét từ sau ra trước:** giường bên, một ông bố ôm bó hoa tới ôm vợ; nét chuyển về Ngọc đang hạ điện thoại, quay sang hai nôi | Ngọc: "Ba tụi con… không tới đâu." |
+| 00:08–00:10 | **Cận, 50mm, đẩy chậm:** Ngọc quẹt nước mắt, cúi xuống hai nôi: Gạo ngáp một cái thật to, Bông chu môi; nắng cửa sổ phủ ấm ba gương mặt; Ngọc cười trong nước mắt | Ngọc: "Không sao, có mẹ đây rồi." |
+| 00:10–00:11.5 | **Tiếp khung cuối, cận:** Ngọc hôn trán Gạo, rồi hôn trán Bông, mỗi lần nhắm mắt một giây | — |
+| 00:11.5–00:14 | **Trung cảnh, 35mm:** bế Gạo đỡ đầu cổ, đặt vào ghế ô tô quay ngược, cài dây vừa khít; rồi tới Bông ở ghế thứ hai | — |
+| 00:14–00:16 | **Trung cận, 50mm:** đeo túi, mỗi tay xách một ghế; mắt dừng một giây ở chiếc ghế thăm bệnh bỏ trống, rồi nhìn xuống hai con | Ngọc: "Gạo, Bông ơi, mình về nhà nha." |
+| 00:16–00:17.5 | **Toàn cảnh, máy lùi theo sau lưng:** Ngọc một mình đi dọc hành lang dài, ngang qua những gia đình có chồng, có ông bà đi cùng; không ai bên cạnh | — |
+| 00:17.5–00:20 | **Cận nghiêng, 85mm, máy đi song song:** Ngọc vừa đi vừa ngẩng cằm, mắt ướt, hàm siết lại, thì thầm với chính mình | Ngọc: "Không ai đón, mẹ con mình tự về." |
+| 00:20–00:22 | **Cắt sang taxi, trung cảnh nhìn từ ghế trước ra sau:** hai bé ngủ trong hai ghế quay ngược, Ngọc ngồi giữa, mỗi tay đặt lên một ghế; mưa bắt đầu lấm tấm trên kính | — |
+| 00:22–00:24 | **Cận, 85mm:** bóng phố xá trôi qua gương mặt Ngọc trên ô kính ướt; ngoài lề đường, mờ, một ông bố công con trai lên vai; Ngọc nhìn theo, mắt rưng rưng | — |
+| 00:24–00:26.5 | **Cận, 85mm:** Ngọc quay từ cửa kính sang hai con, nước mắt lăn, thì thầm một lời hứa | Ngọc: "Từ nay mẹ làm luôn phần của ba." |
+| 00:26.5–00:27.5 | **Chèn cận:** Gạo nhăn mặt kiểu ông cụ non, Bông chu môi | — |
+| 00:27.5–00:30 | **Trung cận, 50mm:** Ngọc bật cười trong nước mắt, đưa ngón tay kiểm tra dây đai từng ghế | Ngọc: "Đi xe là con ngồi ghế, không ẵm tay nha." |
+| 00:30–00:32 | **Cắt sang hẻm, toàn cảnh góc thấp từ trong hẻm nhìn ra:** Ngọc nhỏ bé một mình rẽ vô con hẻm ướt mưa, mỗi tay một ghế, túi trên vai | — |
+| 00:32–00:34 | **Trung cảnh, máy lùi trước mặt:** nửa đường Ngọc đặt hai ghế xuống bậc thềm, vẩy hai bàn tay run, ngước nhìn khoảng trời hẹp giữa hai dãy nhà, hít một hơi rồi xách lên đi tiếp | — |
+| 00:34–00:36.5 | **Trung cảnh, 50mm, trước cửa sắt xanh:** Ngọc đặt hai ghế xuống bậc cửa, mở khóa rồi ngồi xuống ngang tầm hai con | Ngọc: "Con trai, con gái ơi, mình về nhà rồi nè." |
+| 00:36.5–00:38 | **Toàn cảnh từ trong phòng:** cửa mở, nắng tràn vào căn phòng nhỏ; Ngọc tháo dép, xách hai ghế bước vào | — |
+| 00:38–00:40 | **Trung cảnh, 50mm, đẩy chậm:** Ngọc đứng ngay trong cửa, mắt dừng ở hai chiếc nôi trống trong vệt nắng | Ngọc: "Nhà nhỏ xíu à, mà có mẹ." |
+| 00:40–00:42.5 | **Tiếp khung cuối:** Ngọc đặt hai ghế xuống cạnh nôi, mở dây, bế Gạo ra, tay đỡ đầu cổ | — |
+| 00:42.5–00:45 | **Trung cận, 50mm:** đặt Gạo nằm ngửa vào nôi bên trái; Gạo giật mình giơ hai tay rồi nằm yên | Ngọc: "Mỗi đứa một nôi riêng, nằm ngửa nha." |
+| 00:45–00:46.5 | **Cận sản phẩm, 85mm:** Bông nằm ngửa trong nôi bên phải, bàn tay mẹ ấn thử nệm phẳng, cứng, chỉ có tấm ga trắng bọc | — |
+| 00:46.5–00:49 | **Trung cận, 50mm:** Ngọc lấy con gấu bông trong túi ra, ngắm, cười rồi đặt lên kệ chứ không bỏ vô nôi | Ngọc: "Nệm phẳng cứng, không gối, không mền, không gấu bông." |
+| 00:49–00:50 | **Từ trên nhìn xuống:** hai bé ngủ ngửa trong hai nôi trống trơn; Bông cười mỉm trong giấc ngủ; mỗi tay mẹ đặt trên một thành nôi | — |
+| 00:50–00:52 | **Từ trên hạ xuống trung cảnh:** Ngọc ngồi bệt giữa hai nôi, nhìn điện thoại lần cuối rồi úp nó xuống sàn | — |
+| 00:52–00:53.5 | **Cận, 85mm:** lúc này vai Ngọc mới run lên, khóc không thành tiếng, lấy tay bịt miệng cho con khỏi thức | — |
+| 00:53.5–00:54.5 | **Đặc tả:** bàn tay nhỏ xíu của Gạo nắm chặt ngón tay mẹ trên thành nôi | — |
+| 00:54.5–00:57 | **Cận, 85mm, đẩy chậm:** Ngọc nhìn bàn tay nhỏ, nghẹn lại, vừa khóc vừa cười | Ngọc: "Mẹ không có nhiều, mà mẹ có hai con." |
+| 00:57–00:59 | **Trung cận, 50mm:** Ngọc lau nước mắt, mỉm cười, mỗi tay đặt trên một thành nôi; bên kia Bông cười mỉm trong giấc ngủ | Ngọc: "Nhà mình có ba người rồi đó." |
+| 00:59–01:00 | **Toàn cảnh, máy lùi chậm từ phía cửa sổ:** Ngọc ngồi giữa hai nôi trong nắng, điện thoại úp và hai ghế trống dưới sàn **(thumbnail)** | — |
 
 ## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
 

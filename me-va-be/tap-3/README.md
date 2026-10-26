@@ -10,7 +10,7 @@
 
 ---
 
-**Tóm tắt:** Hai bé được 18 ngày tuổi. 3 giờ sáng, ngoài trời mưa lâm râm, Gạo liếm môi, đưa tay lên miệng; Ngọc tỉnh dậy: "Liếm môi, đưa tay lên miệng là đói rồi. Đợi khóc mới cho bú là trễ đó." Bông bên cạnh chu môi ọ ẹ theo. Ngọc cài gối bú đôi, choàng khăn, đặt mỗi đứa một bên: "Tập bú riêng hơn hai tuần, giờ bú đôi được rồi." Bú xong, Bông ợ một tiếng nhỏ xíu, Gạo say sữa ngủ mà môi vẫn chúm chím; Ngọc đặt hai con về nôi riêng rồi tháo gối: "Gối chỉ dùng lúc mẹ thức cho bú thôi. Ngủ là về nôi, nằm ngửa, nôi trống trơn." Rồi Ngọc ngồi bên cửa sổ mưa ăn vắt cơm: "Một ngày mười tới mười hai cữ, mẹ thức hoài. Mà nghe tụi con thở đều, mẹ hết mệt."
+**Tóm tắt:** Hai bé được 18 ngày tuổi. 3 giờ sáng, ngoài trời mưa lâm râm, Gạo liếm môi, đưa tay lên miệng; Ngọc tỉnh dậy: "Liếm môi, đưa tay lên miệng là đói rồi. Đợi khóc mới cho bú là trễ đó." Bông bên cạnh chu môi ọ ẹ theo. Ngọc cài gối bú đôi, choàng khăn, đặt mỗi đứa một bên: "Tập bú riêng hơn hai tuần, giờ bú đôi được rồi." Đang cho bú thì đầu Ngọc gục xuống một giây, giật mình tỉnh: "Mẹ không ngủ quên đâu, mẹ đây." Bú xong, Bông ợ một tiếng nhỏ xíu, Gạo say sữa ngủ mà môi vẫn chúm chím; Ngọc đặt hai con về nôi riêng rồi tháo gối: "Gối chỉ dùng lúc mẹ thức cho bú thôi. Ngủ là về nôi, nằm ngửa, nôi trống trơn." Rồi Ngọc ngồi bên cửa sổ mưa ăn vắt cơm: "Một ngày mười tới mười hai cữ, mẹ thức hoài. Mà nghe tụi con thở đều, mẹ hết mệt."
 
 **Nhân vật & ảnh cần đính kèm:** Clip 1: `REF_NGOC_A`, `REF_GAO`, `REF_BONG`, `SP_GOI_BU_DOI`. Các clip khác làm bằng Frames hoặc Extend.
 
@@ -18,27 +18,30 @@
 
 **Đạo cụ:** đèn ngủ ánh vàng mờ trên kệ; gối cho bú đôi (sản phẩm); khăn choàng cho bú bằng vải xô trắng; vắt cơm trắng; ly nước; hai nôi. Bối cảnh: "Phòng trọ" của [FLOW_PROMPTS.md](../FLOW_PROMPTS.md), 3 giờ sáng, mưa nhẹ.
 
-**Đồ cho bé lồng ghép:** **Gối cho bú đôi** (`SP_GOI_BU_DOI`): lên hình ở 00:10–00:20 (cài gối, đặt hai bé, hai bé bú cùng lúc) và lúc tháo gối ở 00:23–00:29, kèm lưu ý an toàn trong thoại. Tên sản phẩm gắn giỏ hàng TikTok khi đăng.
+**Đồ cho bé lồng ghép:** **Gối cho bú đôi** (`SP_GOI_BU_DOI`): lên hình ở 00:10–00:20 (cài gối, đặt hai bé, hai bé bú cùng lúc) và lúc tháo gối ở 00:22.5–00:27.5, kèm lưu ý an toàn trong thoại. Tên sản phẩm gắn giỏ hàng TikTok khi đăng.
 
-**Kịch bản nhanh:**
+**Kịch bản điện ảnh từng giây** (bản tiếng Việt của [SHOT LIST]; mỗi prompt còn có khối [CAMERA & LIGHT] ghi ống kính, ánh sáng, nhịp máy):
 
-| Thời gian | Hình ảnh | Thoại |
+| Thời gian | Máy quay & hình ảnh | Thoại |
 | --- | --- | --- |
-| 00:00–00:02 | Cận Gạo trong nôi liếm môi, le lưỡi, đưa nắm tay nhỏ lên miệng **(hook)** | — |
-| 00:02–00:05 | Ngọc nghe tiếng động nhỏ thì mở mắt, ngồi dậy | Ngọc: "Liếm môi, đưa tay lên miệng là đói rồi." |
-| 00:05–00:08 | Ngọc quỳ bên nôi, cười với Gạo còn chưa khóc | Ngọc: "Đợi khóc mới cho bú là trễ đó." |
-| 00:08–00:10 | Bông bên cạnh chu môi, bắt đầu ọ ẹ; Ngọc bật cười mệt mỏi | — |
-| 00:10–00:13 | Ngọc ngồi ở mép giường sát hai nôi, cài gối bú đôi quanh eo, choàng khăn cho bú kín vai và ngực | — |
-| 00:13–00:16 | **Cận sản phẩm:** Ngọc bế từng bé, đỡ đầu cổ, đặt lên gối mỗi bên một đứa theo tư thế ôm bóng đôi; khăn choàng che kín, chỉ thấy đầu hai bé và mặt mẹ | Ngọc: "Tập bú riêng hơn hai tuần, giờ bú đôi được rồi." |
-| 00:16–00:20 | Cận mặt Ngọc, hai bé bú ngoan dưới khăn choàng; mẹ nhìn xuống, mệt mà tự hào | Ngọc: "Gối bú đôi, hai đứa bú cùng lúc nè." |
-| 00:20–00:23 | Hai bé bú xong; Ngọc bế Bông lên vai vỗ, Bông ợ một tiếng nhỏ xíu; Gạo say sữa ngủ trên gối mà môi vẫn chúm chím mút | — |
-| 00:23–00:26 | Ngọc đặt từng bé nằm ngửa vào nôi riêng, rồi tháo gối | Ngọc: "Gối chỉ dùng lúc mẹ thức cho bú thôi." |
-| 00:26–00:29 | Ngọc để gối lên giường, xa hai nôi, nhìn lại hai nôi trống trơn | Ngọc: "Ngủ là về nôi, nằm ngửa, nôi trống trơn." |
-| 00:29–00:30 | Từ trên nhìn xuống: hai bé ngủ ngửa trong hai nôi trống, Gạo mặt say sữa mãn nguyện | — |
-| 00:30–00:33 | Máy lướt ra cửa sổ: Ngọc ngồi bệt bên cửa sổ mưa, một tay cầm vắt cơm trắng ăn, ly nước bên cạnh | — |
-| 00:33–00:36 | Cận Ngọc nuốt xong miếng cơm, cười mím | Ngọc: "Một ngày mười tới mười hai cữ, mẹ thức hoài." |
-| 00:36–00:39 | Ngọc nhìn về hai chiếc nôi trong ánh đèn ngủ, mắt dịu lại | Ngọc: "Mà nghe tụi con thở đều, mẹ hết mệt." |
-| 00:39–00:40 | Ngọc bên cửa sổ mưa, hai chiếc nôi trong ánh đèn ngủ **(thumbnail)** | — |
+| 00:00–00:01.5 | **Đặc tả, 85mm:** trong ánh đèn ngủ, Gạo liếm môi, le lưỡi, đưa nắm tay nhỏ lên miệng **(hook)** | — |
+| 00:01.5–00:03 | **Cận, 85mm:** Ngọc đang ngủ nghiêng; nghe tiếng động nhỏ, mắt mở ra ngay | — |
+| 00:03–00:05.5 | **Trung cảnh, 35mm:** Ngọc ngồi dậy, mệt, vén tóc khỏi mặt, nhìn Gạo | Ngọc: "Liếm môi, đưa tay lên miệng là đói rồi." |
+| 00:05.5–00:08 | **Trung cận, 50mm:** Ngọc quỳ bên nôi, cười với Gạo còn chưa khóc | Ngọc: "Đợi khóc mới cho bú là trễ đó." |
+| 00:08–00:10 | **Trung cảnh:** Bông bên cạnh chu môi, bắt đầu ọ ẹ; Ngọc bật cười mệt mỏi | — |
+| 00:10–00:12.5 | **Tiếp khung cuối:** Ngọc ngồi mép giường sát hai nôi, cài gối bú đôi quanh eo, choàng khăn cho bú kín vai và ngực | — |
+| 00:12.5–00:15 | **Cận sản phẩm, 35mm:** Ngọc bế từng bé, đỡ đầu cổ, đặt lên gối mỗi bên một đứa theo tư thế ôm bóng đôi; khăn choàng che kín, chỉ thấy đầu hai bé và mặt mẹ | Ngọc: "Tập bú riêng hơn hai tuần, giờ bú đôi được rồi." |
+| 00:15–00:17.5 | **Cận, 85mm:** hai bé bú ngoan dưới khăn choàng; mẹ nhìn xuống, mệt mà tự hào | Ngọc: "Gối bú đôi, hai đứa bú cùng lúc nè." |
+| 00:17.5–00:20 | **Cận, 85mm, đẩy chậm:** đầu Ngọc gục xuống một giây vì buồn ngủ, giật mình tỉnh, chớp mắt, cười với hai con | Ngọc: "Mẹ không ngủ quên đâu, mẹ đây." |
+| 00:20–00:22.5 | **Tiếp khung cuối rồi lùi ra:** bú xong; Ngọc bế Bông lên vai vỗ, Bông ợ một tiếng nhỏ xíu; Gạo say sữa ngủ trên gối mà môi vẫn chúm chím mút | — |
+| 00:22.5–00:25 | **Trung cảnh:** Ngọc đặt từng bé nằm ngửa vào nôi riêng, rồi tháo gối | Ngọc: "Gối chỉ dùng lúc mẹ thức cho bú thôi." |
+| 00:25–00:27.5 | **Trung cận, 50mm:** Ngọc để gối lên giường, xa hai nôi, nhìn lại hai nôi trống trơn | Ngọc: "Ngủ là về nôi, nằm ngửa, nôi trống trơn." |
+| 00:27.5–00:30 | **Từ trên nhìn xuống:** hai bé ngủ ngửa trong hai nôi trống, Gạo mặt say sữa mãn nguyện | — |
+| 00:30–00:32.5 | **Máy lướt từ hai nôi ra cửa sổ:** Ngọc ngồi bệt bên cửa sổ mưa, một tay cầm vắt cơm nguội ăn, ly nước bên cạnh | — |
+| 00:32.5–00:35 | **Cận, 85mm:** Ngọc nuốt xong miếng cơm, cười mím | Ngọc: "Một ngày mười tới mười hai cữ, mẹ thức hoài." |
+| 00:35–00:36.5 | **Chèn cận:** mưa chảy dài trên song cửa, bóng Ngọc mờ trên kính tối | — |
+| 00:36.5–00:39 | **Trung cận, 50mm:** Ngọc nhìn về hai chiếc nôi trong ánh đèn ngủ, mắt dịu lại | Ngọc: "Mà nghe tụi con thở đều, mẹ hết mệt." |
+| 00:39–00:40 | **Toàn cảnh:** Ngọc bên cửa sổ mưa, hai chiếc nôi trong ánh đèn ngủ **(thumbnail)** | — |
 
 ## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
 
@@ -56,6 +59,7 @@
 - **Quay cảnh cho bú kín đáo:** khăn choàng phủ vai và ngực, chỉ thấy đầu hai bé và mặt Ngọc. Nếu model để hở ngực thì không dùng bản đó.
 - **Không có bình sữa, sữa công thức:** kênh ủng hộ bú mẹ (WHO và UNICEF khuyến nghị bú mẹ hoàn toàn trong 6 tháng đầu, theo [WHO Tây Thái Bình Dương](https://www.who.int/westernpacific/health-topics/breastfeeding/580)), và [Luật Quảng cáo 2012, Điều 7 khoản 4](https://hethongphapluat.com/law-no-16-2012-qh13-ofjune-21-2012-on-advertising/dieu-7) cấm quảng cáo sữa thay thế sữa mẹ cho trẻ dưới 24 tháng tuổi, bình bú, vú ngậm nhân tạo. Caption không chê mẹ dùng sữa công thức; mẹ ít sữa hay con bú khó thì hỏi bác sĩ hoặc chuyên viên tư vấn sữa mẹ.
 - **Vắt cơm lúc 3 giờ sáng** là chi tiết đời thật của mẹ nuôi con nhỏ, không phải lời khuyên dinh dưỡng.
+- **Gà gật lúc cho bú:** Ngọc gục đầu một giây rồi tỉnh ngay, không ngủ quên khi hai con còn trên gối; đúng với lưu ý gối cho bú chỉ dùng lúc mẹ thức ở trên. Nếu model cho Ngọc ngủ hẳn với con trên gối thì tạo lại clip đó.
 - **Khoảnh khắc đáng yêu:** Gạo liếm môi, đưa nắm tay lên miệng (hook) · Bông chu môi ọ ẹ · Bông ợ hơi nhỏ xíu · Gạo say sữa, ngủ rồi môi vẫn mút chúm chím.
 - **Tạo lại clip khi:** em bé có ngón tay thừa, mặt như búp bê hoặc trông lớn hơn trẻ vài ngày tuổi; bé nằm sấp hay nằm nghiêng trong nôi; hai bé nằm chung một nôi; đầu bé không được đỡ khi bế; màu đồ hai bé bị đổi (Gạo luôn xanh bạc hà, Bông luôn hồng phấn); nốt ruồi chạy sang mắt phải; thoại phát ra khi không thấy mặt Ngọc; hở ngực; bé ngủ trên gối; gối nằm trong nôi; có bình sữa; Ngọc vừa nhai vừa nói.
 - **Nhãn AI:** bật nhãn **Nội dung do AI tạo** khi đăng; TikTok yêu cầu gắn nhãn cho video AI có hình người giống thật ([TikTok Newsroom](https://newsroom.tiktok.com/new-labels-for-disclosing-ai-generated-content?lang=en)).

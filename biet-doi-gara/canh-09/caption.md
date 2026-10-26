@@ -1,26 +1,27 @@
-# Caption · Biệt Đội Gara · Phần 9/15: Bữa cơm thiếu một người
+# Caption · Biệt Đội Gara · Phần 9/45: Cạm Bẫy Đường Đua
 
-> Caption cho bản cắt TikTok của Cảnh 9 (phút 07:40–08:40 của phim). Dán khối **Caption** vào ô mô tả khi đăng. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản cảnh: [README.md](README.md).
+> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 9 (Phút 08:00 – 09:00).  
+> Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
-## Caption
-
+## Caption đề xuất
 ```text
-Biệt Đội Gara · Phần 9/15: Bữa cơm thiếu một người
-Bữa cơm thiếu Khôi, Hải vẫn xới cho Khôi một chén 🍚 Rồi Bác Bảy để lại lời nhắn thứ hai... Sói Xám thật ra là ai? 💔
+Biệt Đội Gara · Tập 9/45: Cạm Bẫy Đường Đua 🏎️🔥
 
-📺 Xem trọn phim 15 phút trên YouTube (link ở bio).
-🎬 Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua.
+Bãi pit-stop trường đua kín ngột ngạt mùi xăng và khói lốp. Chiếc xe cam xám của Tú đỗ giữa hai chiếc xe tải bọc thép của bọn cướp.
+Tú ngước lên, đôi mắt mở to ngập tràn ngỡ ngàng và hy vọng: "Anh Thắng... Anh quay lại đường đua rồi sao?!"
 
-#bietdoigara #phimhanhdong #sieunhanvietnam #giadinh #buacomgiadinh
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
 ```
 
-## Bình luận ghim
-
+## Bình luận ghim (Pinned Comment)
 ```text
-Hải vẫn xới cơm cho Khôi dù Khôi không có ở nhà. Nhà bạn có ai hay làm vậy hông? 🥺
+Theo bạn tình huống ở Cảnh 9 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
 ```
 
-## Trước khi đăng
-- **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
-- **Không gắn giỏ hàng** (series này không bán sản phẩm).
-- **Bình luận rủ đua xe ngoài đường:** trả lời bằng luật của nhà: muốn đua thì lên đường đua.
+## Checklist khi đăng
+- Bật nhãn **"Nội dung do AI tạo"** (AI-generated content).
+- Không gắn giỏ hàng thương mại.
+- Tương tác với khán giả theo tinh thần gia đình Gara Bảy.

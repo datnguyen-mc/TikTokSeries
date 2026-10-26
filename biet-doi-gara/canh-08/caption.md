@@ -1,26 +1,27 @@
-# Caption · Biệt Đội Gara · Phần 8/15: Mưa đêm
+# Caption · Biệt Đội Gara · Phần 8/45: Luyện Tập Giáp Chiến
 
-> Caption cho bản cắt TikTok của Cảnh 8 (phút 06:40–07:40 của phim). Dán khối **Caption** vào ô mô tả khi đăng. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản cảnh: [README.md](README.md).
+> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 8 (Phút 07:00 – 08:00).  
+> Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
-## Caption
-
+## Caption đề xuất
 ```text
-Biệt Đội Gara · Phần 8/15: Mưa đêm
-Đêm mưa, Sói Xám bắt Khôi ngay trong gara 😱 Rượt đuổi trên mái tôn, Lan suýt trượt khỏi mép mái... nhưng trước khi bị bắt, Khôi đã kịp để lại một thứ. Bạn có thấy không? 👀
+Biệt Đội Gara · Tập 8/45: Luyện Tập Giáp Chiến 🏎️🔥
 
-📺 Xem trọn phim 15 phút trên YouTube (link ở bio).
-🎬 Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua.
+Cả bốn chiến binh trong trang phục giáp hoàn chỉnh đang khởi động các đòn thế phối hợp tác chiến đường phố.
+Thắng kích hoạt vây gió sau lưng, tăng tốc lướt thẳng vào trung tâm, vung tay điều hướng luồng năng lượng êm thắm dừng lại an toàn.
 
-#bietdoigara #phimhanhdong #sieunhanvietnam #muadem #giadinh
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
 ```
 
-## Bình luận ghim
-
+## Bình luận ghim (Pinned Comment)
 ```text
-Khôi đã thả gì trước khi bị bắt đi? Ai tinh mắt thấy thì comment nha 👀
+Theo bạn tình huống ở Cảnh 8 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
 ```
 
-## Trước khi đăng
-- **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
-- **Không gắn giỏ hàng** (series này không bán sản phẩm).
-- **Bình luận rủ đua xe ngoài đường:** trả lời bằng luật của nhà: muốn đua thì lên đường đua.
+## Checklist khi đăng
+- Bật nhãn **"Nội dung do AI tạo"** (AI-generated content).
+- Không gắn giỏ hàng thương mại.
+- Tương tác với khán giả theo tinh thần gia đình Gara Bảy.

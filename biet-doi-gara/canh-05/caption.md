@@ -1,26 +1,27 @@
-# Caption · Biệt Đội Gara · Phần 5/15: Đường đua kín
+# Caption · Biệt Đội Gara · Phần 5/45: Chiếc Lõi Thứ Năm
 
-> Caption cho bản cắt TikTok của Cảnh 5 (phút 03:40–04:40 của phim). Dán khối **Caption** vào ô mô tả khi đăng. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản cảnh: [README.md](README.md).
+> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 5 (Phút 04:00 – 05:00).  
+> Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
-## Caption
-
+## Caption đề xuất
 ```text
-Biệt Đội Gara · Phần 5/15: Đường đua kín
-Sắp về nhất thì Thắng quay xe lại 🏁 "Người quan trọng hơn cúp." Thua mà đẹp nhất đường đua hôm nay 🥹
+Biệt Đội Gara · Tập 5/45: Chiếc Lõi Thứ Năm 🏎️🔥
 
-📺 Xem trọn phim 15 phút trên YouTube (link ở bio).
-🎬 Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua.
+Một chiếc sedan cảnh sát truy kích màu xanh thẫm viền bạc phanh gấp. Cửa xe mở, Đại úy Minh bước xuống với phong thái thép.
+Minh thu hồi giáp, thở phào, rút từ túi áo ra một chiếc thẻ nhớ bảo mật đưa cho Thắng.
 
-#bietdoigara #phimhanhdong #sieunhanvietnam #duongdua #giadinh
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
 ```
 
-## Bình luận ghim
-
+## Bình luận ghim (Pinned Comment)
 ```text
-Nếu là bạn, bạn về nhất hay quay lại cứu người? 🏎️
+Theo bạn tình huống ở Cảnh 5 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
 ```
 
-## Trước khi đăng
-- **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
-- **Không gắn giỏ hàng** (series này không bán sản phẩm).
-- **Bình luận rủ đua xe ngoài đường:** trả lời bằng luật của nhà: muốn đua thì lên đường đua.
+## Checklist khi đăng
+- Bật nhãn **"Nội dung do AI tạo"** (AI-generated content).
+- Không gắn giỏ hàng thương mại.
+- Tương tác với khán giả theo tinh thần gia đình Gara Bảy.

@@ -1,28 +1,25 @@
-Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits or armor, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same photorealistic live-action superhero film look. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
+Widescreen 16:9, 10-second clip, photorealistic live-action superhero film style. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
-@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind-vent fins, open-face helmet with a clear amber visor showing his face, red core on his LEFT wrist; deep, calm Southern male voice.
-@Lan = LAN in GIÁP CÁO: slim white armor with ice-blue lines and a fox-ear crest, open-face helmet with a clear ice-blue visor showing her face, white-blue core on her LEFT wrist; quick, bright Southern female voice.
-@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor with a buffalo-horn crest, open-face helmet with a clear orange visor showing his bearded face, orange core on his LEFT wrist, glowing orange energy hammer; big, warm, booming Southern male voice.
-@Khoi = KHÔI in GIÁP BIT: slim yellow-and-black armor with two shoulder drones, open-face helmet with a clear yellow visor showing his face and round glasses, yellow core on his LEFT wrist; fast, nervous, funny Southern male voice.
-@Minh = MINH in GIÁP KHIÊN: navy-and-silver armor with a round navy energy shield on her left forearm, open-face helmet with a clear navy visor showing her face and chin scar, navy core on her LEFT wrist; firm, low, clear Southern female voice.
-GĂNG XÁM HENCHMEN: men in identical grey padded tactical armor with plain grey full helmets that hide their faces, and glowing grey power gauntlets that give them inhuman strength; they never speak.
+@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face, red wrist core; deep, calm Southern voice.
+@Lan = LAN in GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, ice-blue visor showing face; quick, bright Southern voice.
+@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing face, glowing energy hammer; booming Southern voice.
+@Khoi = KHÔI in GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing glasses and face; nervous, fast Southern voice.
 
 [CAMERA & LIGHT]
-Breath after the fight: rain, floodlights, the five in a row; a tiny red glow on a distant crane.
+Same lighting and cinematic 16:9 widescreen composition. 85mm close-up for speech and 35mm wide for vehicular stunts and combat.
 
 [SHOT LIST]
-00:00–00:02 | Same wide shot, continuing from the last frame — on a distant crane, a pair of red eye slits glows for a moment, then fades into the dark.
-00:02–00:04.5 | Medium shot, 35mm — the five armored heroes stand together in the rain for the first time; HẢI looks along the row. HẢI says (big, booming voice, booming, proud): Năm người, đủ bộ rồi nha!
-00:04.5–00:07 | Close-up, 85mm — MINH looks down at the navy core on her wrist, unsure. MINH says (firm, low voice, firm but uncertain): Tôi là cảnh sát, không phải siêu nhân.
-00:07–00:10 | Close-up, 85mm — LAN gives her a warm half smile behind her ice-blue visor. LAN says (quick, bright voice, warm, teasing): Nhà em đang thiếu đúng một người như chị.
+00:00–00:03.5 | Continuing seamlessly from the last frame — Lan khoác Giáp Cáo trắng xanh thanh thoát; Hải hóa chiến binh Giáp Búa cam hộ pháp; Khôi khoác Giáp Bit vàng với hai drone mini trên vai.
+00:03.5–00:07 | Dynamic action progression. Character line: Hải: "Người tao nhẹ như lông hồng vậy!"
+00:07–00:10 | Culmination of this beat, setting up the next action transition.
 
 [SOUND]
-Rain, a distant ship horn, the score settling into a warm guitar line.
+Immersive sound design: roaring engine turbos, mechanical armor servos, whoosh of wind and cinematic orchestral score.
 
 [END FRAME]
-Close-up: LAN smiling warmly behind her clear ice-blue visor in the rain, MINH soft-focus beside her. Hold still for the final 0.5 seconds.
+Hold final frame still for 0.5s for seamless extension to clip 6.
 
 [AVOID]
-time skip, cartoon, anime or video-game look, plastic or toy-like armor, armor resembling any existing superhero or sentai franchise, guns, firearms, knives or any bladed weapon, blood, gore, broken bones, visible injuries, anyone killed, anyone thrown into real traffic, reckless driving among real traffic, riding a motorbike without a helmet, real car brand logos or badges, readable license plates, readable text, signs or logos, faces hidden while speaking, dialogue spoken by the wrong character, extra people in focus or speaking, distorted hands or extra fingers, subtitles.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text.

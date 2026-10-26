@@ -1,26 +1,27 @@
-# Caption · Biệt Đội Gara · Phần 15/15: Gia đình
+# Caption · Biệt Đội Gara · Phần 15/45: Mắt Xích Ngầm
 
-> Caption cho bản cắt TikTok của Cảnh 15 (phút 13:40–14:40 của phim). Dán khối **Caption** vào ô mô tả khi đăng. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản cảnh: [README.md](README.md).
+> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 15 (Phút 14:00 – 15:00).  
+> Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
-## Caption
-
+## Caption đề xuất
 ```text
-Biệt Đội Gara · Phần 15/15: Gia đình
-Xe về với chủ, con gấu bông về với bé, và Gara Bảy có thêm người nhà 🍲 Muốn đua thì lên đường đua, ra đường là chở người mình thương! Nhưng chiếc găng xám cuối phim là của ai? 👀
+Biệt Đội Gara · Tập 15/45: Mắt Xích Ngầm 🏎️🔥
 
-📺 Xem trọn phim 15 phút trên YouTube (link ở bio).
-🎬 Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua.
+Cả đội quay về Gara Bảy. Hải đóng then cài cửa cuốn, bắt đầu kiểm tra lại toàn bộ trang thiết bị vũ khí.
+Minh nhìn bản đồ vệ tinh: "Đúng 12 giờ đêm, thủy triều lên, hệ thống tuần tra cảng sẽ đổi ca trong 15 phút. Đó là cơ hội duy nhất của chúng ta."
 
-#bietdoigara #phimhanhdong #sieunhanvietnam #giadinh #ketphim
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
 ```
 
-## Bình luận ghim
-
+## Bình luận ghim (Pinned Comment)
 ```text
-Chiếc găng xám và tia sáng tím ở cuối phim là của ai? Đoán thử coi, phần 2 sẽ trả lời 👀
+Theo bạn tình huống ở Cảnh 15 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
 ```
 
-## Trước khi đăng
-- **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
-- **Không gắn giỏ hàng** (series này không bán sản phẩm).
-- **Bình luận rủ đua xe ngoài đường:** trả lời bằng luật của nhà: muốn đua thì lên đường đua.
+## Checklist khi đăng
+- Bật nhãn **"Nội dung do AI tạo"** (AI-generated content).
+- Không gắn giỏ hàng thương mại.
+- Tương tác với khán giả theo tinh thần gia đình Gara Bảy.

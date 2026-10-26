@@ -1,26 +1,27 @@
-# Caption · Biệt Đội Gara · Phần 2/15: Lần đầu mặc giáp
+# Caption · Biệt Đội Gara · Phần 2/45: Tập Kích Bất Ngờ
 
-> Caption cho bản cắt TikTok của Cảnh 2 (phút 01:00–01:40 của phim). Dán khối **Caption** vào ô mô tả khi đăng. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản cảnh: [README.md](README.md).
+> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 2 (Phút 01:00 – 02:00).  
+> Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
-## Caption
-
+## Caption đề xuất
 ```text
-Biệt Đội Gara · Phần 2/15: Lần đầu mặc giáp
-Lần đầu mặc giáp đã phải ra cảng giành lại xe 🔥 Búa năng lượng của Hải, bóng cáo của Lan, gió đỏ của Thắng, drone của Khôi... và kẻ đứng trên cẩu trục kia là ai? 🐺
+Biệt Đội Gara · Tập 2/45: Tập Kích Bất Ngờ 🏎️🔥
 
-📺 Xem trọn phim 15 phút trên YouTube (link ở bio).
-🎬 Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua.
+RẦM! Cửa cuốn sắt bị móc cáp giật sập tung toé. Khói bụi mù mịt, chiếc xe tải đen lù lù đỗ chắn hẻm.
+Tên cầm đầu kích hoạt găng xung kích nện xuống sàn. Sóng áp suất hất Lan ngã nhào, chiếc hộp đồ nghề Bác Bảy trên kệ sắt rung lắc rồi rơi tự do.
 
-#bietdoigara #phimhanhdong #sieunhanvietnam #bienhinh #giadinh
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
 ```
 
-## Bình luận ghim
-
+## Bình luận ghim (Pinned Comment)
 ```text
-Cảnh sát tới, Thắng chọn đứng lại chờ chứ không chạy. Bạn thấy đúng hông? 👮
+Theo bạn tình huống ở Cảnh 2 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
 ```
 
-## Trước khi đăng
-- **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
-- **Không gắn giỏ hàng** (series này không bán sản phẩm).
-- **Bình luận rủ đua xe ngoài đường:** trả lời bằng luật của nhà: muốn đua thì lên đường đua.
+## Checklist khi đăng
+- Bật nhãn **"Nội dung do AI tạo"** (AI-generated content).
+- Không gắn giỏ hàng thương mại.
+- Tương tác với khán giả theo tinh thần gia đình Gara Bảy.

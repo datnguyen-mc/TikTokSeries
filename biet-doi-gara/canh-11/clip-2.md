@@ -1,25 +1,25 @@
-Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits or armor, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same photorealistic live-action superhero film look. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+Continue the scene seamlessly from the final frame of clip 1, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
+Widescreen 16:9, 10-second clip, photorealistic live-action superhero film style. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
-@Lan = LAN: Vietnamese woman, 29, short black bob with an ice-blue streak on the RIGHT, white leather moto jacket, black jeans, white sneakers; quick, bright Southern female voice.
-@Thang = THẮNG: Vietnamese man, 36, silver streak at his LEFT temple, burn scar on his LEFT forearm, olive work jacket over a black T-shirt, red rag in his back pocket; deep, calm Southern male voice.
-LAN'S CAR: a restored white compact hatchback from the 1990s with two ice-blue racing stripes, her late father's car, no badges or logos, no readable license plate.
+@Thang = THẮNG: Vietnamese man, 36, silver streak at LEFT temple, olive work jacket, red rag; deep, calm Southern voice.
+@Lan = LAN: Vietnamese woman, 29, short bob with ice-blue streak, white leather moto jacket; quick, bright Southern voice.
+@Hai = HẢI: big Vietnamese man, 32, full beard, shaved sides, grey tank top, leather apron, big steel wrench; booming Southern voice.
+@Khoi = KHÔI: slim Vietnamese young man, 25, round glasses, messy hair, yellow hoodie, laptop; fast, nervous Southern voice.
 
 [CAMERA & LIGHT]
-The camera glides around to the windshield so both faces are visible when they speak.
+Same lighting and cinematic 16:9 widescreen composition. 85mm close-up for speech and 35mm wide for vehicular stunts and combat.
 
 [SHOT LIST]
-00:00–00:02 | Same medium shot, continuing from the last frame — the camera glides slowly around the car to the front, looking in through the windshield.
-00:02–00:04.5 | Close-up, 85mm, through the windshield — LAN, her eyes down at her bare wrist. LAN says (quick, bright voice, flat, defeated): Không có giáp, em vô dụng.
-00:04.5–00:07 | Close-up, 85mm, through the windshield — THẮNG turns to her. THẮNG says (deep, calm voice, quiet, honest): Hồi trước anh cũng nghĩ vậy.
-00:07–00:10 | Medium shot, 50mm, through the windshield — LAN looks at him for the first time; THẮNG sets his coffee on the dashboard and rolls up his left sleeve.
+00:00–00:03.5 | Continuing seamlessly from the last frame — Màn hình hiển thị trong xe Thắng: Vạch đích chỉ còn cách 200 mét phía trước, anh hoàn toàn có thể phóng thẳng về nhất giành cúp vô địch và tiền thưởng lớn.
+00:03.5–00:07 | Dynamic action progression. Character line: Loa trường đua: "Xe đen nhám đang dẫn đầu tuyệt đối!"
+00:07–00:10 | Culmination of this beat, setting up the next action transition.
 
 [SOUND]
-The quiet of the garage, the soft rustle of a sleeve, ice settling in a cup; the guitar holds a low note.
+Immersive sound design: roaring engine turbos, mechanical armor servos, whoosh of wind and cinematic orchestral score.
 
 [END FRAME]
-Medium shot through the windshield: LAN looking at THẮNG in the passenger seat as he rolls up his left sleeve, sunlight on the dashboard. Hold still for the final 0.5 seconds.
+Hold final frame still for 0.5s for seamless extension to clip 3.
 
 [AVOID]
-time skip, cartoon, anime or video-game look, plastic or toy-like armor, armor resembling any existing superhero or sentai franchise, guns, firearms, knives or any bladed weapon, blood, gore, broken bones, visible injuries, anyone killed, anyone thrown into real traffic, reckless driving among real traffic, riding a motorbike without a helmet, real car brand logos or badges, readable license plates, readable text, signs or logos, faces hidden while speaking, dialogue spoken by the wrong character, extra people in focus or speaking, distorted hands or extra fingers, subtitles.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text.

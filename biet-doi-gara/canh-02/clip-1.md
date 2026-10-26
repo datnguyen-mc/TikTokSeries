@@ -1,33 +1,30 @@
 [FORMAT]
-Vertical 9:16, 10-second clip, photorealistic live-action superhero action film look, as if shot on a 35mm cinema camera with subtle anamorphic lens flares: real people with natural skin texture; the armored suits look like real, high-end practical costumes of matte composite plates and metal with glowing colored light lines; energy powers are clean bright light, never fire damage or blood. Present-day Saigon, high-contrast teal-and-orange grade, neon and sodium light, wet reflections, 24fps. No guns or firearms anywhere. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync; armored characters speak through clear visors so their lips are visible. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Widescreen 16:9, 10-second clip, photorealistic live-action superhero action film look, cinematic anamorphic lens flares: real Vietnamese people with natural skin textures; sleek practical armor with composite plates and glowing colored LED lines; energy powers are pure clean light (no fire damage, no blood). High-contrast Saigon cinematic color grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync through clear helmet visors. No subtitles or on-screen text.
 
-[CHARACTERS — match the attached reference images exactly]
-@Thang = THẮNG in his armor GIÁP GIÓ: the same man inside a sleek red-and-black armored suit of matte composite plates with angular wind-vent fins on the shoulders and calves and glowing red light lines; an open-face armored helmet with a clear amber visor, so his whole face, the silver streak at his LEFT temple and his lips stay visible; a glowing red hexagonal core on his LEFT wrist. Power: short dashes of speed that leave red wind streaks. Voice: deep, calm, steady Southern Vietnamese male voice.
-@Lan = LAN in her armor GIÁP CÁO: the same woman inside a slim white armored suit with ice-blue light lines and a small fox-ear crest on the helmet; an open-face armored helmet with a clear ice-blue visor, so her whole face and the ice-blue streak in her hair stay visible; a glowing white-blue hexagonal core on her LEFT wrist. Power: blinding speed and agility that leaves white-blue afterimages. Voice: quick, bright, confident Southern Vietnamese female voice.
-@Hai = HẢI in his armor GIÁP BÚA: the same big man inside heavy orange-and-gunmetal armor with thick shoulder plates and a short buffalo-horn crest on the helmet; an open-face armored helmet with a clear orange visor, so his bearded face stays visible; a glowing orange hexagonal core on his LEFT wrist. His steel wrench turns into a glowing orange energy hammer that knocks enemies back with harmless shockwaves of light. Voice: big, warm, booming Southern Vietnamese male voice.
-@Khoi = KHÔI in his armor GIÁP BIT: the same young man inside a slim yellow-and-black armored suit with circuit-like light lines and two palm-sized drones docked on his shoulders; an open-face armored helmet with a clear yellow visor, so his face and his round glasses stay visible; a glowing yellow hexagonal core on his LEFT wrist. Power: his drones fire rings of yellow light that switch off enemy gauntlets. Voice: fast, nervous, funny Southern Vietnamese male voice.
-GĂNG XÁM HENCHMEN: men in identical grey padded tactical armor with plain grey full helmets that hide their faces, and glowing grey power gauntlets that give them inhuman strength; they never speak.
-LAN'S CAR: a restored white compact hatchback from the 1990s with two ice-blue racing stripes, her late father's car, no badges or logos, no readable license plate.
+[CHARACTERS — match attached reference images]
+@Thang = THẮNG (36, the eldest, owner of Gara Bảy): a real Vietnamese man, about 178 cm tall, lean and strong, square jaw, calm dark eyes, light stubble, short black hair with a single silver streak at his LEFT temple (signature detail), a faded burn scar on his LEFT forearm. Civilian outfit: an olive-green mechanic's work jacket with the sleeves pushed up over a black T-shirt, dark work trousers, black boots, a red shop rag hanging from his back pocket. Voice: deep, calm, steady Southern Vietnamese male voice, mid-30s.
+@Lan = LAN (29, the best driver of the family): a real Vietnamese woman, about 162 cm tall, petite and athletic, sharp bright eyes, a confident half smile, a short black bob with one ice-blue streak on the RIGHT side (signature detail). Civilian outfit: a white leather moto jacket over a grey top, black jeans, white sneakers. Voice: quick, bright, confident Southern Vietnamese female voice, late 20s.
+@Hai = HẢI (32, the family's mechanic, cook and Vovinam fighter): a real Vietnamese man, about 188 cm tall, big and broad-shouldered, warm brown eyes, a short full black beard, hair shaved short on the sides with a short top (signature detail: the tallest and biggest of the family). Civilian outfit: a grey tank top under a brown leather work apron, dark cargo trousers, boots, a big steel wrench usually in his hand or apron. Voice: big, warm, booming Southern Vietnamese male voice, early 30s, gentle.
+@Khoi = KHÔI (24, the family's tech genius and joker): a real Vietnamese young man, about 170 cm tall, slim, round tortoiseshell glasses (signature detail), messy black hair, an expressive nervous face. Civilian outfit: a mustard-yellow hoodie, black joggers, sneakers, headphones around his neck, a laptop in his hands or a small backpack. Voice: fast, nervous, funny Southern Vietnamese male voice, mid-20s.
+GĂNG XÁM HENCHMEN: men in identical grey tactical armor with full helmets and glowing grey power gauntlets; they never speak.
 
 [SETTING]
-THE CONTAINER PORT AT NIGHT: a container port on the Saigon river at night: long stacks of plain shipping containers in red, blue and green with no text or logos, tall gantry cranes with bright white floodlights, wet asphalt reflecting orange sodium light, puddles, a flatbed truck between the stacks, the dark river and a lit bridge in the distance; no signs or readable text.
-Time: about an hour later, around ten at night; the four have just finished transforming; LAN'S CAR is chained on the back of a flatbed truck parked between two container stacks; six henchmen guard it.
+GARA BẢY AT NIGHT: two-story mechanic garage beside a canal in Saigon, oil-stained concrete floor, teal neon and warm work lamps, walls of hanging tools, hydraulic lift, mezzanine with wooden table; no readable text.
+Time: Scene 2/45, timecode 01:00 – 02:00. Atmosphere: high-adrenaline action, tension, emotional bond.
 
 [CAMERA & LIGHT]
-Night port: hard white floodlights and orange sodium light, wet asphalt reflections, anamorphic flares; low angles for the heroes; 35mm wides keep the geography clear: heroes on the left, henchmen on the right, the truck in the background; one slow-motion moment per action.
+Cinematic anamorphic 35mm wide angle for action beats, 50mm and 85mm for emotional character close-ups; dynamic camera tracking and stable gimbal movements; neon and sodium reflections.
 
 [SHOT LIST]
-00:00–00:02 | Hard cut: an hour later, the container port — wide shot, 35mm, low angle: four armored figures land in a row on the wet asphalt in front of the floodlights, red, white-blue, orange and yellow, puddles splashing; their visors slide down, faces visible behind the clear visors.
-00:02–00:04 | Medium close-up, 50mm — LAN in GIÁP CÁO spots her car chained on the flatbed truck between the containers. LAN says (quick, bright voice, sharp, urgent): Xe em trên xe tải kìa!
-00:04–00:06 | Wide shot, 35mm — six GĂNG XÁM HENCHMEN step out from between the containers on the right, gauntlets glowing grey.
-00:06–00:08 | Close-up, 85mm — THẮNG in GIÁP GIÓ, calm behind his amber visor. THẮNG says (deep, calm voice, calm, commanding): Lan lấy xe, còn lại để tụi anh.
-00:08–00:10 | Medium shot, slow motion — LAN bursts forward in a blur of white-blue afterimages, puddles exploding into spray behind her.
+00:00–00:03 | Establishing shot, 35mm — RẦM! Cửa cuốn sắt bị móc cáp giật sập tung toé. Khói bụi mù mịt, chiếc xe tải đen lù lù đỗ chắn hẻm.
+00:03–00:07 | Medium shot, 50mm — Action intensifies. Character speaking: Khôi: "Á! Cướp sập tiệm rồi anh ơi!"
+00:07–00:10 | Dynamic close-up, 85mm — Reaction shot and movement towards the next beat. Hold final action for seamless frame extend.
 
 [SOUND]
-Distant ship horns, floodlight hum, boots splashing, a whoosh as LAN takes off; a driving electronic score with taiko-like drums.
+Engine roar, tire screech on pavement, mechanical armor hum, deep cinematic percussion and bass pulses.
 
 [END FRAME]
-Medium shot: LAN in GIÁP CÁO mid-sprint toward the truck in a blur of white-blue afterimages, spray hanging in the air; THẮNG, HẢI and KHÔI behind her on the left, six henchmen on the right. Hold still for the final 0.5 seconds.
+Clean freeze on the final frame of the action beat for seamless continuation into clip 2.
 
 [AVOID]
-cartoon, anime or video-game look, plastic or toy-like armor, armor resembling any existing superhero or sentai franchise, guns, firearms, knives or any bladed weapon, blood, gore, broken bones, visible injuries, anyone killed, anyone thrown into real traffic, reckless driving among real traffic, riding a motorbike without a helmet, real car brand logos or badges, readable license plates, readable text, signs or logos, faces hidden while speaking, dialogue spoken by the wrong character, extra people in focus or speaking, distorted hands or extra fingers, subtitles.
+guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look.

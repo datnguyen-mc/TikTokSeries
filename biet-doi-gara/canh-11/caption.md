@@ -1,26 +1,27 @@
-# Caption · Biệt Đội Gara · Phần 11/15: Tay lái không cần giáp
+# Caption · Biệt Đội Gara · Phần 11/45: Khúc Cua Tử Thần
 
-> Caption cho bản cắt TikTok của Cảnh 11 (phút 09:40–10:40 của phim). Dán khối **Caption** vào ô mô tả khi đăng. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản cảnh: [README.md](README.md).
+> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 11 (Phút 10:00 – 11:00).  
+> Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
-## Caption
-
+## Caption đề xuất
 ```text
-Biệt Đội Gara · Phần 11/15: Tay lái không cần giáp
-Mất giáp rồi, Lan nghĩ mình vô dụng... cho tới khi Thắng kể chuyện năm xưa ☕ "Giáp không làm nên tay lái. Em làm." Tối nay, Lan lái xe của ba.
+Biệt Đội Gara · Tập 11/45: Khúc Cua Tử Thần 🏎️🔥
 
-📺 Xem trọn phim 15 phút trên YouTube (link ở bio).
-🎬 Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua.
+Lốp xe của Tú rít lên chói tai, đuôi xe văng mạnh, quét ngang mặt đường sỏi đá, hướng thẳng vào vực taluy bê tông sâu thẳm.
+Thắng bấm nút kích hoạt Nitro Lõi Đỏ. Một dải sáng đỏ rực phun trào sau đuôi Hắc Phong, đẩy tốc độ xe lên mức điên rồ lao tới chặn đầu.
 
-#bietdoigara #phimhanhdong #sieunhanvietnam #taylai #giadinh
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
 ```
 
-## Bình luận ghim
-
+## Bình luận ghim (Pinned Comment)
 ```text
-"Giáp không làm nên tay lái. Em làm." Câu nào trong phim làm bạn nhớ nhất?
+Theo bạn tình huống ở Cảnh 11 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
 ```
 
-## Trước khi đăng
-- **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
-- **Không gắn giỏ hàng** (series này không bán sản phẩm).
-- **Bình luận rủ đua xe ngoài đường:** trả lời bằng luật của nhà: muốn đua thì lên đường đua.
+## Checklist khi đăng
+- Bật nhãn **"Nội dung do AI tạo"** (AI-generated content).
+- Không gắn giỏ hàng thương mại.
+- Tương tác với khán giả theo tinh thần gia đình Gara Bảy.

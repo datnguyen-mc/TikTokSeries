@@ -1,26 +1,27 @@
-# Caption · Biệt Đội Gara · Phần 10/15: Cứu Khôi
+# Caption · Biệt Đội Gara · Phần 10/45: Hai Xe Xuất Phát
 
-> Caption cho bản cắt TikTok của Cảnh 10 (phút 08:40–09:40 của phim). Dán khối **Caption** vào ô mô tả khi đăng. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản cảnh: [README.md](README.md).
+> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 10 (Phút 09:00 – 10:00).  
+> Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
-## Caption
-
+## Caption đề xuất
 ```text
-Biệt Đội Gara · Phần 10/15: Cứu Khôi
-Cứu được Khôi rồi... nhưng Sói Xám giật mất lõi của Lan 💔 Không còn giáp, Lan sẽ làm gì tiếp theo?
+Biệt Đội Gara · Tập 10/45: Hai Xe Xuất Phát 🏎️🔥
 
-📺 Xem trọn phim 15 phút trên YouTube (link ở bio).
-🎬 Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua.
+Hai cỗ máy gầm rú điên cuồng, khói lốp trắng xóa bốc lên mù mịt sau đuôi xe. Trọng tài giơ cao lá cờ đen trắng.
+Thắng đánh lái gắt sang phải, dùng thân xe bọc thép của Hắc Phong chèn ngang hông xe bán tải địch, ép nó trượt dài vào hàng rào lốp xe an toàn.
 
-#bietdoigara #phimhanhdong #sieunhanvietnam #bienhinh #giadinh
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
 ```
 
-## Bình luận ghim
-
+## Bình luận ghim (Pinned Comment)
 ```text
-Bị trói mà còn nói "mật khẩu là... mơ đi" 😂 Khôi lầy nhất nhà rồi!
+Theo bạn tình huống ở Cảnh 10 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
 ```
 
-## Trước khi đăng
-- **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
-- **Không gắn giỏ hàng** (series này không bán sản phẩm).
-- **Bình luận rủ đua xe ngoài đường:** trả lời bằng luật của nhà: muốn đua thì lên đường đua.
+## Checklist khi đăng
+- Bật nhãn **"Nội dung do AI tạo"** (AI-generated content).
+- Không gắn giỏ hàng thương mại.
+- Tương tác với khán giả theo tinh thần gia đình Gara Bảy.

@@ -1,26 +1,27 @@
-# Caption · Biệt Đội Gara · Phần 13/15: Cầu cảng
+# Caption · Biệt Đội Gara · Phần 13/45: Gỡ Kíp Nổ 3 Giây
 
-> Caption cho bản cắt TikTok của Cảnh 13 (phút 11:40–12:40 của phim). Dán khối **Caption** vào ô mô tả khi đăng. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản cảnh: [README.md](README.md).
+> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 13 (Phút 12:00 – 13:00).  
+> Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
-## Caption
-
+## Caption đề xuất
 ```text
-Biệt Đội Gara · Phần 13/15: Cầu cảng
-Hai lõi trong tay, Sói Xám mạnh gấp đôi và hạ cả nhà trên boong tàu 😱 Nhưng có một người hắn quên để ý... 💙
+Biệt Đội Gara · Tập 13/45: Gỡ Kíp Nổ 3 Giây 🏎️🔥
 
-📺 Xem trọn phim 15 phút trên YouTube (link ở bio).
-🎬 Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua.
+Khôi nằm ngửa trượt vào gầm xe, tay thoăn thoắt cắm dây giải mã tín hiệu vào bo mạch kíp nổ áp suất.
+Đồng hồ kíp nổ dừng lại ở đúng con số: **00:03**! Đèn đỏ tắt ngấm, chuyển sang xanh an toàn. Toàn bộ kíp nổ rụng tơi tả xuống mặt cát.
 
-#bietdoigara #phimhanhdong #sieunhanvietnam #soixam #giadinh
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
 ```
 
-## Bình luận ghim
-
+## Bình luận ghim (Pinned Comment)
 ```text
-Không có giáp mà Lan vẫn dám leo lên tàu giật lại lõi. Bạn có dám không? 💙
+Theo bạn tình huống ở Cảnh 13 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
 ```
 
-## Trước khi đăng
-- **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
-- **Không gắn giỏ hàng** (series này không bán sản phẩm).
-- **Bình luận rủ đua xe ngoài đường:** trả lời bằng luật của nhà: muốn đua thì lên đường đua.
+## Checklist khi đăng
+- Bật nhãn **"Nội dung do AI tạo"** (AI-generated content).
+- Không gắn giỏ hàng thương mại.
+- Tương tác với khán giả theo tinh thần gia đình Gara Bảy.

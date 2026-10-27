@@ -1,5 +1,5 @@
 [FORMAT]
-Widescreen 16:9, 10-second clip, photorealistic live-action superhero action film look, cinematic anamorphic lens flares: real Vietnamese people with natural skin textures; sleek practical armor with composite plates and glowing colored LED lines; energy powers are pure clean light (no fire damage, no blood). High-contrast Saigon cinematic color grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync through clear helmet visors. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon cinematic color grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync through clear helmet visors. No subtitles or on-screen text.
 
 [CHARACTERS — match attached reference images]
 @Thang = THẮNG in his armor GIÁP GIÓ: the same man inside a sleek red-and-black armored suit of matte composite plates with angular wind-vent fins on the shoulders and calves and glowing red light lines; an open-face armored helmet with a clear amber visor, so his whole face, the silver streak at his LEFT temple and his lips stay visible; a glowing red hexagonal core on his LEFT wrist. Power: short dashes of speed that leave red wind streaks. Voice: deep, calm, steady Southern Vietnamese male voice.
@@ -9,21 +9,21 @@ Widescreen 16:9, 10-second clip, photorealistic live-action superhero action fil
 
 [SETTING]
 CONTAINER WAREHOUSE AT NIGHT: cavernous abandoned dockside warehouse, skylights, rows of covered stolen cars, high steel catwalks, industrial floodlights; no logos.
-Time: Scene 17/45, timecode 16:00 – 17:00. Atmosphere: high-adrenaline action, tension, emotional bond.
+Time: Scene 17/45, timecode 16:00 – 17:00. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
 
 [CAMERA & LIGHT]
-Cinematic anamorphic 35mm wide angle for action beats, 50mm and 85mm for emotional character close-ups; dynamic camera tracking and stable gimbal movements; neon and sodium reflections.
+Tense 35mm Dutch tilt moving through narrow spaces, tight 85mm close-ups focusing on sweating brows and trembling hands. Chiaroscuro high-contrast shadows, cold fluorescent or emergency red rotating beacons piercing the darkness.
 
 [SHOT LIST]
-00:00–00:03 | Establishing shot, 35mm — Lan tiếp đất êm ái trên thanh xà gồ thép mục của giếng trời kính vỡ, cúi nhìn xuống không gian mênh mông tăm tối bên dưới.
-00:03–00:07 | Medium shot, 50mm — Action intensifies. Character speaking: Lan: "Bên dưới rộng như sân vận động."
-00:07–00:10 | Dynamic close-up, 85mm — Reaction shot and movement towards the next beat. Hold final action for seamless frame extend.
+00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — Establishing scene & action ignition: Lan tiếp đất êm ái trên thanh xà gồ thép mục của giếng trời kính vỡ. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề.
+00:03.5–00:07.0 | Critical decisive maneuver & tense dialogue, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: cúi nhìn xuống không gian mênh mông tăm tối bên dưới.. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt không hề dao động, nhân vật bật ra câu nói then chốt: Lan: "Bên dưới rộng như sân vận động.".
+00:07.0–00:10.0 | High-stakes stabilization & cliffhanger lock, 35mm — Hiểm nguy tạm thời được kìm hãm hoặc bộc lộ bước ngoặt nghẹt thở; camera khóa chặt vào khoảnh khắc quyết định, giữ tĩnh 0.5s ở khung hình cuối cùng để chuyển tiếp clip 2.
 
 [SOUND]
-Engine roar, tire screech on pavement, mechanical armor hum, deep cinematic percussion and bass pulses.
+Edge-of-the-seat sound design: ominous low drone, rapid heartbeat bass pulse, ticking countdown audio cue, sharp metallic clicks of tools, and rising string dissonance.
 
 [END FRAME]
 Clean freeze on the final frame of the action beat for seamless continuation into clip 2.
 
 [AVOID]
-guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look.
+guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.

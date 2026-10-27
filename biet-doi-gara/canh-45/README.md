@@ -9,11 +9,14 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Bình minh rạng rỡ, xe được trao trả tận tay cho người dân lao động trong niềm hân hoan. Hoàng hôn buông xuống, đại gia đình Gara Bảy sum vầy bên nồi lẩu cù lao bốc khói trên sân thượng lung linh đèn dây. Cả nhà nâng ly trà đá thề nguyện bảo vệ nhau. Máy quay flycam bay lùi ra xa ngắm nhìn Sài Gòn lung linh, dòng chữ "HẾT PHIM" hiện lên. Ngay sau đó là đoạn **AFTER-CREDIT TEASER** đầy bí ẩn dưới gầm cầu, báo hiệu kẻ thù mới và mở đường cho Phần 2!
+Toàn cảnh Cảng lúc bình minh rạng rỡ. Đại úy Minh dẫn đầu đoàn xe cảnh sát trao trả từng chiếc xe cho những người dân nghèo. Một bé gái ôm chầm lấy con gấu bông trên xe mừng rỡ. Sau đó, Nồi lẩu nghi ngút khói giữa bàn. Lan ngồi cạnh chiếc hatchback trắng đã được rửa bóng loáng. Khôi đang húp xì xụp bát nước lẩu, Tú ngồi bên gắp thịt lia lịa. Minh mặc thường phục mỉm cười dịu dàng. Cuối cùng, Flycam lùi xa khỏi sân thượng Gara Bảy ngập tràn ánh đèn vàng, toàn cảnh Sài Gòn lấp lánh lung linh. Dòng chữ *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN — HẾT PHIM* hiện lên cùng lời tri ân: "Dành tặng những ai luôn coi Gia Đình là điểm tựa". Chuyển cảnh AFTER-CREDIT: Dưới gầm cầu tối, chiếc vali bọ cạp tím đen trôi dạt vào bờ kè, một bàn tay găng máy nhặt lên kèm tiếng động cơ xe đua gầm thét xé toạc màn đêm: *BIỆT ĐỘI GARA SẼ TRỞ LẠI...*  
+  *(HẾT PHIM — 45:00)*
 
-* **Bối cảnh chính:** Sân thượng Gara Bảy lúc hoàng hôn & Đoạn kết dưới gầm cầu kênh đêm.
-* **Quy cách hình ảnh:** 16:9 Cinematic Widescreen, flycam lùi xa hoành tráng, Title card kết thúc phim và after-credit ly kỳ.
-* **Thời lượng:** Đúng 60 giây, khớp hoàn hảo phút thứ 45:00 của phim.
+---
+
+* **Bối cảnh chính:** Sân thượng Gara Bảy, hoàng hôn ấm áp (Kết Phim).
+* **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
+* **Thời lượng:** Đúng 60 giây, khớp hoàn hảo 1 phút trên timeline YouTube.
 
 ---
 
@@ -26,7 +29,7 @@ Bình minh rạng rỡ, xe được trao trả tận tay cho người dân lao �
 | 3 | 00:20–00:30 | **Nồi lẩu nghi ngút khói giữa bàn. Lan ngồi cạnh chiếc hatchback trắng đã được rửa bóng loáng. Khôi đang húp xì xụp bát nước lẩu, Tú ngồi bên gắp thịt lia lịa. Minh mặc thường phục mỉm cười dịu dàng.** | Khôi: "Nồi lẩu của anh Hải là số một trần đời!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Thắng đứng ở đầu bàn, nâng cao ly trà đá: "Gia đình không phải chỉ là cùng chung dòng máu... Gia đình là những người cùng ngồi bên nhau, sống chết có nhau!"** | Thắng: "Muốn đua thì lên đường đua!" | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Tất cả mọi người đồng loạt nâng ly chạm nhau leng keng, nụ cười rạng rỡ hạnh phúc ngập tràn màn hình:** | Cả nhà: "RA ĐƯỜNG LÀ CHỞ NGƯỜI MÌNH THƯƠNG!" | Frames / Extend (Nối liền) |
-| 6 | 00:50–01:00 | **CINEMATIC OUTRO & AFTER-CREDIT: Flycam lùi xa khỏi sân thượng, hiện dòng chữ "BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN — HẾT PHIM". Chuyển cảnh After-credit: Dưới gầm cầu tối, chiếc vali bọ cạp tím đen trôi dạt vào bờ, một bàn tay găng máy nhặt lên kèm tiếng máy xe đua gầm thét: "BIỆT ĐỘI GARA SẼ TRỞ LẠI..."** | — | Frames / Extend (Nối liền) |
+| 6 | 00:50–01:00 | **Flycam lùi xa khỏi sân thượng Gara Bảy ngập tràn ánh đèn vàng, toàn cảnh Sài Gòn lấp lánh lung linh. Dòng chữ *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN — HẾT PHIM* hiện lên cùng lời tri ân: "Dành tặng những ai luôn coi Gia Đình là điểm tựa". Chuyển cảnh AFTER-CREDIT: Dưới gầm cầu tối, chiếc vali bọ cạp tím đen trôi dạt vào bờ kè, một bàn tay găng máy nhặt lên kèm tiếng động cơ xe đua gầm thét xé toạc màn đêm: *BIỆT ĐỘI GARA SẼ TRỞ LẠI...*     *(HẾT PHIM — 45:00)*** | — | Frames / Extend (Nối liền) |
 
 ---
 

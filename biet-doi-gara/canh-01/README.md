@@ -9,10 +9,10 @@
 ---
 
 ## 1. Tóm tắt cảnh
-**MỞ MÀN PHIM ĐIỆN ẢNH (COLD OPEN & TITLE CARD):** Flycam lướt qua ráng chiều vàng rực trên dòng kênh Sài Gòn, giọng dẫn truyện của Thắng vang lên về triết lý gia đình. Tựa phim *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN* hiện lên rực sáng. Máy quay hạ xuống xưởng Gara Bảy, Lan đang trượt ván từ gầm xe hatchback trắng ra lau cờ lê. Sau đó, Hải nấu cơm kho thịt trên gác, Khôi canh máy tính, Thắng thắp nhang cho Bác Bảy. Cuối cùng, khi cả nhà chuẩn bị ăn cơm thì biến cố cướp xe ập đến!
+MỞ MÀN ĐIỆN ẢNH (COLD OPEN & TITLE CARD): Flycam lướt trên ráng chiều vàng rực kênh Sài Gòn, giọng dẫn truyện của Thắng vang lên. Tựa phim *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN* hiện lên hoành tráng. Máy quay hạ xuống xưởng Gara Bảy, dưới gầm xe hatchback trắng, Lan trượt ván ra, mặt dính vệt dầu mỡ, tay cầm cờ lê vặn ốc. Sau đó, Khôi ngồi gục đầu trước giàn ba màn hình vi tính ngổn ngang vi mạch, chiếc kính tròn trễ xuống mũi, giật bắn mình vì tiếng chuông báo. Cuối cùng, Cả bốn người quây quần bên mâm cơm gỗ. Đột nhiên đèn neon chớp giật liên hồi, mặt nước kênh bên ngoài rung chuyển dữ dội.
 
 * **Bối cảnh chính:** Hoàng hôn trên kênh Nhiêu Lộc & Xưởng Gara Bảy.
-* **Quy cách hình ảnh:** 16:9 Cinematic Widescreen, mở đầu bằng cú máy flycam góc rộng hoành tráng, Title card điện ảnh chữ kim loại viền LED đỏ, chuyển vào nội cảnh ấm cúng của gia đình thợ máy.
+* **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
 * **Thời lượng:** Đúng 60 giây, khớp hoàn hảo 1 phút trên timeline YouTube.
 
 ---
@@ -21,7 +21,7 @@
 
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **COLD OPEN: Flycam toàn cảnh hoàng hôn kênh Sài Gòn. Title Card phim "BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN" hiện lên hoành tráng. Máy quay hạ vào xưởng, Lan trượt ván ra từ gầm xe hatchback trắng.** | Thắng (Voice-over): "Ở nhà này, tụi tui chạy vì người mình thương!" · Lan: "Con ốc này cứng đầu ghê!" | Ingredients (Khóa mặt & cảnh) |
+| 1 | 00:00–00:10 | **MỞ MÀN ĐIỆN ẢNH (COLD OPEN & TITLE CARD): Flycam lướt trên ráng chiều vàng rực kênh Sài Gòn, giọng dẫn truyện của Thắng vang lên. Tựa phim *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN* hiện lên hoành tráng. Máy quay hạ xuống xưởng Gara Bảy, dưới gầm xe hatchback trắng, Lan trượt ván ra, mặt dính vệt dầu mỡ, tay cầm cờ lê vặn ốc.** | Thắng (Voice-over): "Ở nhà này, tụi tui chạy vì người mình thương!" · Lan: "Con ốc này cứng đầu ghê!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Cận cảnh Hải bên bếp gas mini trên gác lửng, to lớn lực lưỡng trong chiếc tạp dề da, tay đảo chảo thịt kho tiêu thơm nức mũi.** | Hải: "Cơm nước xong rồi, mấy đứa vô ăn!" | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Khôi ngồi gục đầu trước giàn ba màn hình vi tính ngổn ngang vi mạch, chiếc kính tròn trễ xuống mũi, giật bắn mình vì tiếng chuông báo.** | Khôi: "Em chuẩn bị hack xong vệ tinh rồi mà!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Thắng bước đến bàn làm việc kỷ niệm của Bác Bảy ở góc xưởng, đặt tay lên bức ảnh người thầy thợ máy cũ. Bên cạnh ảnh là chiếc hộp đồ nghề bằng thép xỉn màu khóa kín.** | Thắng: "Hôm nay tụi nhỏ ngoan lắm Bác." | Frames / Extend (Nối liền) |

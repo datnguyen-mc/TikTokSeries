@@ -1,5 +1,5 @@
 Continue the scene seamlessly from the final frame of clip 1, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9, 10-second clip, photorealistic live-action superhero film style. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
 @Thang = THẮNG: Vietnamese man, 36, silver streak at LEFT temple, olive work jacket, red rag; deep, calm Southern voice.
@@ -9,18 +9,18 @@ Widescreen 16:9, 10-second clip, photorealistic live-action superhero film style
 GĂNG XÁM HENCHMEN: men in grey tactical armor and glowing power gauntlets, silent.
 
 [CAMERA & LIGHT]
-Same lighting and cinematic 16:9 widescreen composition. 85mm close-up for speech and 35mm wide for vehicular stunts and combat.
+Cinematic anamorphic composition. Low-angle 35mm tracking shot moving alongside the goons, aggressive Dutch tilt, whip pan on shockwave blast. Neon teal reflections mixed with harsh tungsten overhead lamps; dust particles floating in light shafts.
 
 [SHOT LIST]
-00:00–00:03.5 | Continuing seamlessly from the last frame — Bốn tên mặc đồ đen đeo găng phát quang xám bước vào. Tên cầm đầu vung tay, sóng chấn động hất tung dãy lốp xe dự phòng.
-00:03.5–00:07 | Dynamic action progression. Character line: Tên cướp: "Giao chiếc hatchback và hộp sắt ra đây!"
-00:07–00:10 | Culmination of this beat, setting up the next action transition.
+00:00–00:03.5 | Intimidating tactical advance, 35mm tracking — Bốn tên Găng Xám mặc giáp chiến thuật màu xám sải bước qua làn khói bụi tiến vào xưởng. Găng cơ khí trên tay chúng rít lên tiếng nạp năng lượng, phát ra ánh sáng xung kích màu xám lạnh lẽo đầy nguy hiểm.
+00:03.5–00:07.0 | Explosive shockwave impact & dialogue, 50mm — Tên cầm đầu vung mạnh cánh tay nện một luồng sóng xung lực tàn bạo về phía góc xưởng. RẦM! Cả dãy lốp xe dự phòng nặng hàng trăm ký bị hất tung bay văng vào vách tường, bụi xi măng bắn tung toé. Tên cướp bước tới, gằn giọng quát: Tên cướp: "Giao chiếc hatchback và hộp sắt ra đây!"
+00:07.0–00:10.0 | High-tension standoff & combat stance lock — Bốn tên cướp dàn hàng ngang siết chặt vòng vây, găng tay tích điện xám kêu rè rè dọa dẫm. Thắng, Lan, Hải đồng loạt vào thế thủ dứt khoát không hề nao núng. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 3.
 
 [SOUND]
-Immersive sound design: roaring engine turbos, mechanical armor servos, whoosh of wind and cinematic orchestral score.
+Mechanical servo whirr, terrifying shockwave blast boom, heavy rubber tires crashing against concrete, sub-bass rumble, and menacing synthesized horns.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip 3.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, sluggish motion.

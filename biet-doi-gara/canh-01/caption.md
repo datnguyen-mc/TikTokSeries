@@ -7,7 +7,7 @@
 ```text
 Biệt Đội Gara · Tập 1/45: Bữa Cơm Ven Kênh 🏎️🔥
 
-Toàn cảnh gara hai tầng ven kênh nhuộm nắng chiều. Dưới gầm xe hatchback trắng, Lan trượt ván ra, mặt dính vệt dầu mỡ, tay cầm cờ lê vặn ốc.
+MỞ MÀN ĐIỆN ẢNH (COLD OPEN & TITLE CARD): Flycam lướt trên ráng chiều vàng rực kênh Sài Gòn, giọng dẫn truyện của Thắng vang lên. Tựa phim *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN* hiện lên hoành tráng. Máy quay hạ xuống xưởng Gara Bảy, dưới gầm xe hatchback trắng, Lan trượt ván ra, mặt dính vệt dầu mỡ, tay cầm cờ lê vặn ốc.
 Lan bước tới vuốt ve vô lăng chiếc hatchback trắng, ánh mắt bồi hồi nhớ về người cha đã khuất.
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️

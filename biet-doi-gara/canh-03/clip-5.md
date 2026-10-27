@@ -1,5 +1,5 @@
 Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9, 10-second clip, photorealistic live-action superhero film style. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
 @Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face, red wrist core; deep, calm Southern voice.
@@ -8,18 +8,18 @@ Widescreen 16:9, 10-second clip, photorealistic live-action superhero film style
 @Khoi = KHÔI in GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing glasses and face; nervous, fast Southern voice.
 
 [CAMERA & LIGHT]
-Same lighting and cinematic 16:9 widescreen composition. 85mm close-up for speech and 35mm wide for vehicular stunts and combat.
+Heroic 35mm anamorphic wide framing orbiting slightly around the character, 50mm chest-up hero shot capturing the helmet visor snap. Radiant volumetric light shafts radiating from the wrist core, high dynamic range reflections on polished armor composite plating.
 
 [SHOT LIST]
-00:00–00:03.5 | Continuing seamlessly from the last frame — Lan khoác Giáp Cáo trắng xanh thanh thoát; Hải hóa chiến binh Giáp Búa cam hộ pháp; Khôi khoác Giáp Bit vàng với hai drone mini trên vai.
-00:03.5–00:07 | Dynamic action progression. Character line: Hải: "Người tao nhẹ như lông hồng vậy!"
-00:07–00:10 | Culmination of this beat, setting up the next action transition.
+00:00–00:03.5 | Epic power surge & core resonance, 35mm anamorphic wide — Continuing seamlessly from the last frame: Lan khoác Giáp Cáo trắng xanh thanh thoát; Hải hóa chiến binh Giáp Búa cam hộ pháp; Khôi khoác Giáp Bit vàng với hai drone mini trên vai.. Luồng ánh sáng năng lượng thuần khiết bùng nổ, các vi mạch nano kích hoạt phát quang rực rỡ, gió xoáy năng lượng thổi tung tàn bụi xung quanh.
+00:03.5–00:07.0 | Sleek armor morphing & heroic declaration, 50mm hero shot — Lan khoác Giáp Cáo trắng xanh thanh thoát; Hải hóa chiến binh Giáp Búa cam hộ pháp; Khôi khoác Giáp Bit vàng với hai drone mini trên vai.. Các mảnh giáp cơ khí nano ôm khít cơ thể trong nháy mắt, kính mũ trong suốt trượt xuống bảo vệ khuôn mặt. Nhân vật bộc lộ hào khí dũng mãnh, hô vang câu khẩu lệnh dõng dạc: Hải: "Người tao nhẹ như lông hồng vậy!". Khẩu hình khớp hoàn hảo qua kính mũ.
+00:07.0–00:10.0 | Radiant aura stabilization & battle-ready lock, 35mm low-angle — Hào quang năng lượng từ lõi cổ tay trái lan tỏa dọc theo các đường viền LED của bộ giáp, các vây khí động học khẽ rung lên vào vị trí sẵn sàng chiến đấu. Khóa tĩnh khung hình cuối 0.5s làm gốc cho clip 6.
 
 [SOUND]
-Immersive sound design: roaring engine turbos, mechanical armor servos, whoosh of wind and cinematic orchestral score.
+Epic transformation sound design: high-frequency alien power hum, metallic latching of mechanized armor plates, celestial energy shockwave whoosh, and an inspiring orchestral brass crescendo.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip 6.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.

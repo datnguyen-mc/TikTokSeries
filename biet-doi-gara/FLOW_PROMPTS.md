@@ -370,3 +370,42 @@ Photorealistic three-quarter front view photo of a dark-orange pickup truck with
 ## 6. Cấu trúc phim
 
 Kịch bản tổng, mốc thời gian từng cảnh, trạng thái nhân vật (thường phục hay giáp) và chương YouTube nằm ở [KICH_BAN_PHIM.md](KICH_BAN_PHIM.md). Mỗi cảnh là một thư mục `canh-{số}/` gồm `README.md` (kịch bản điện ảnh từng giây), `clip-1.md` … `clip-6.md` và `caption.md` (caption cho bản cắt TikTok). Mô tả và chương cho bản YouTube: [youtube.md](youtube.md).
+
+---
+
+## 7. Nguyên Tắc & Kỹ Thuật Viết Prompt Bom Tấn Hành Động (Blockbuster Action Mastery)
+
+Để video AI (Google Flow / Gemini Omni / Runway / Kling / Sora) tạo ra các cảnh hành động chuẩn **"Bom Tấn Điện Ảnh"**, đánh nhau **"mạnh mẽ, nhanh, dứt khoát"**, toàn bộ prompt tuân thủ 5 trụ cột kỹ thuật sau:
+
+### 1. Khóa Chuyển Động & Shutter Angle 90° (Zero Motion Blur)
+- **Vấn đề AI thường gặp:** Cảnh hành động nhanh của AI hay bị nhòe bệt, dính hình, hoặc tay chân nhân vật biến dạng (motion smear).
+- **Giải pháp Prompt:** Bắt buộc có chỉ thị `crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts with zero blurry artifacts`. Điều này ép AI render chuyển động võ thuật sắc cạnh từng thớ cơ, găng tay và mảnh giáp.
+
+### 2. Động Lực Học Đòn Đánh: Mạnh Mẽ — Nhanh — Dứt Khoát
+- **Mạnh mẽ (Impact & Recoil):** Không có đòn đánh nào "chạm nhẹ". Mỗi cú đấm/đá/vung búa đều có **phản lực vật lý (kinetic recoil)**, sóng xung kích rẽ gió (air displacement shockwave), bụi xi măng bung tỏa và tia lửa cơ khí lóe sáng khi kim loại chạm kim loại.
+- **Nhanh (Speed-Ramp Dynamics):** Tốc độ ra đòn chớp nhoáng (hyper-fast strike) -> điểm va chạm dừng lại tích tắc 0.15s (micro-freeze/speed ramp) để ghi nhận lực -> thu hồi đòn tức thì (instant recovery).
+- **Dứt khoát (Martial Arts Precision):** 
+  - **Lan:** Cước xoay 360°, trượt nắp capo lướt cước, đòn chân kẹp cổ Vovinam, tước vũ khí trong chớp mắt.
+  - **Hải:** Thế tấn vững như bàn thạch, cờ lê thép / Búa Cam nện chấn động nền bê tông hất văng địch không cần vũ khí sát thương.
+  - **Thắng:** Lướt gió cực tốc để lại vệt đỏ, đấm bộc phát xung lực chặn đứng xe tải, phản xạ né đòn tích tắc.
+  - **Khôi:** Acrobatic dodge, drone phóng vòng EMP vàng vô hiệu hóa găng địch.
+  - **Minh:** Thế võ tự vệ cận chiến CQB của cảnh sát, khiên chắn va chạm và còng ánh sáng khóa chặt tay đối thủ.
+
+### 3. Cấu Trúc Shot List 3 Nhịp 10 Giây (0% Placeholder)
+Mỗi clip 10 giây được phân bổ chính xác theo biểu đồ động lực học:
+- **00:00–00:03.5 (Kinetic Initiation):** Kế thừa đà chuyển động từ clip trước, bộc phát gia tốc ngay tích tắc đầu (lao vào, né đòn, dậm trụ, rú ga Twin-Turbo).
+- **00:03.5–00:07.0 (Decisive Impact & Lip-sync):** Đòn đánh quyết định / pha va chạm nảy lửa + câu thoại dõng dạc với khẩu hình tiếng Việt rõ nét qua kính mũ trong suốt.
+- **00:07.0–00:10.0 (Kinetic Recoil & Frame Lock):** Dư chấn đòn đánh (bụi lắng, sóng năng lượng hồi tụ về lõi), nhân vật thu thế tấn uy nghiêm hoặc xe hoàn thành cú drift. Camera khóa tĩnh 0.5s ở frame cuối để nối sang clip sau liền mạch 100%.
+
+### 4. Máy Quay & Ánh Sáng Chuẩn Hollywood
+- Tỷ lệ khung hình **16:9 Anamorphic (2.39:1)** chuẩn màn ảnh rộng điện ảnh.
+- Máy quay hành động góc thấp 24mm/35mm hùng tráng, dynamic handheld combat camera có độ rung vi mô (micro-shake) chân thật khi va chạm.
+- Ánh sáng thể tích (volumetric lighting), vệt lóe sáng ngang (horizontal lens flares), đèn neon xanh ngọc và đèn halogen vàng rọi xiên qua làn khói bụi và mưa đêm Sài Gòn.
+
+### 5. Thiết Kế Âm Thanh Dolby Atmos Đa Tầng
+Âm thanh đóng vai trò 50% độ nặng của đòn đánh:
+- Tiếng đập sub-bass rung chuyển lồng ngực (sub-bass impact thump).
+- Tiếng kim loại đanh thép va đập (crisp metallic clang).
+- Tiếng rít servo cơ khí nạp năng lượng (mechanical armor servo hum).
+- Tiếng xé gió rít động cơ Twin-Turbo và tiếng rống bass hòa thanh điện ảnh dồn dập.
+

@@ -3,10 +3,12 @@
 """
 Tự động sinh toàn bộ hệ thống 45 thư mục cảnh (canh-01 đến canh-45)
 cho series phim điện ảnh 45 phút Biệt Đội Gara (Fast & Furious style).
-Mỗi thư mục có:
-- README.md: Kịch bản điện ảnh chi tiết 60 giây (6 clip x 10s)
-- caption.md: Caption TikTok / Shorts
-- clip-1.md đến clip-6.md: Prompt Google Flow / Gemini Omni định dạng Widescreen 16:9
+ĐƯỢC NÂNG CẤP CHUẨN BOM TẤN HÀNH ĐỘNG ĐIỆN ẢNH (BLOCKBUSTER ACTION GRADE):
+- Khung hình 16:9 ngang (Anamorphic 2.39:1 widescreen aesthetic)
+- Shutter angle 90° bắt trọn đòn thế võ thuật và rượt đuổi siêu tốc, loại bỏ triệt để motion blur nhòe bệt của AI
+- Shot list phân rã 3 nhịp chi tiết (00:00-03.5s; 03.5-07.0s; 07.0-10.0s) không có placeholder
+- Đòn thế võ thuật Vovinam, stunt cận chiến, drifting uy lực, bộc phá năng lượng
+- Thiết kế âm thanh Dolby Atmos đa tầng (sub-bass impact, metallic clangs, mechanical servos)
 """
 
 import os
@@ -50,7 +52,7 @@ CHAR_FULL_MAP = {
     "SOI": """SÓI XÁM (the villain): a Vietnamese man of 45, salt-and-pepper slicked hair, cold eyes, dark gunmetal armor with glowing red wolf helmet that splits open when speaking, grey gloves; deep, menacing Southern male voice.""",
     "SOI_C": """SÓI XÁM (HÙNG) WITHOUT ARMOR: the same man of 45, armor shattered, torn black under-suit, face tired and broken, crying in remorse; low, broken Southern male voice.""",
     "GOONS": """GĂNG XÁM HENCHMEN: men in identical grey tactical armor with full helmets and glowing grey power gauntlets; they never speak.""",
-    "BACBAY": """BÁC BẢY (HOLOGRAM): kind elderly Vietnamese mechanic in late 60s, crew cut, warm smile lines, blue work shirt, glowing soft-blue hologram; warm elderly Southern male voice."""
+    "BACBAY": """BÁC BẢY (HOLOGRAM): kind elderly Vietnamese mechanic in late 60s, crew cut, warm smile lines, blue work shirt, glowing soft-blue hologram; warm elderly Southern voice."""
 }
 
 CHAR_SHORT_MAP = {
@@ -99,6 +101,111 @@ def get_setting_key(setting_str, scene_num):
     else:
         return "GARA_NIGHT"
 
+def classify_clip(desc, dialogue, title):
+    text = (desc + " " + title).lower()
+    
+    # 1. ARMOR TRANSFORMATION
+    if any(k in text for k in ["lõi", "khởi động", "biến hình", "bọc lấy", "áo giáp", "phát sáng 5 màu", "ngũ sắc"]):
+        if any(k in text for k in ["khởi động", "bay thẳng tới", "ghim vào", "khoác giáp", "bọc kín", "mở bung", "thu hồi"]):
+            return "ARMOR"
+            
+    # 2. COMBAT & MARTIAL ARTS
+    if any(k in text for k in ["đấm", "đá", "cước", "cờ lê", "búa", "găng", "tập kích", "hỗn chiến", "quật", "tước", "xà beng", "sóng áp suất", "sóng chấn động", "nện", "quét trụ", "kẹp cổ", "chiến binh", "sói xám", "chiến đấu", "vung", "đỡ đòn", "vật ngã", "quật văng"]):
+        return "COMBAT"
+        
+    # 3. RACING & VEHICULAR
+    if any(k in text for k in ["đua", "drift", "vô lăng", "bẻ lái", "chân ga", "khúc cua", "húc", "xe tải", "xe bán tải", "hắc phong", "phanh", "bốc đầu", "vượt xe", "pit-stop", "nitro"]):
+        return "RACING"
+        
+    # 4. SUSPENSE & TACTICAL
+    if any(k in text for k in ["kíp nổ", "bom", "gỡ", "gián điệp", "đột nhập", "mái tôn", "giếng trời", "rượt đuổi"]):
+        return "SUSPENSE"
+        
+    return "DRAMA"
+
+def split_desc(desc):
+    sentences = [s.strip() for s in re.split(r'[\.\!\?]', desc) if s.strip()]
+    if len(sentences) >= 2:
+        return sentences[0], ' '.join(sentences[1:])
+    subparts = [p.strip() for p in desc.split(',') if p.strip()]
+    if len(subparts) >= 3:
+        return ', '.join(subparts[:2]), ', '.join(subparts[2:])
+    elif len(subparts) == 2:
+        return subparts[0], subparts[1]
+    return desc, desc
+
+def generate_blockbuster_shotlist(desc, dialogue, clip_type, c_num, is_clip1=False):
+    part1, part2 = split_desc(desc)
+    has_dialogue = dialogue and dialogue.strip() != "—" and dialogue.strip() != ""
+    next_target = f"clip {c_num+1}" if c_num < 6 else "sang cảnh sau"
+    lead_in = "Establishing scene & action ignition" if is_clip1 else "Continuing seamlessly from the last frame"
+
+    if clip_type == "COMBAT":
+        b1 = f"00:00–00:03.5 | Explosive kinetic initiation, 35mm low-angle tracking — {lead_in}: {part1}. Đòn thế khai cuộc thần tốc, gia tốc bộc phát tức thì, camera trượt theo góc thấp bắt trọn đà chuyển động dứt khoát của nhân vật."
+        if has_dialogue:
+            b2 = f"00:03.5–00:07.0 | Decisive martial arts impact & speed-ramp execution, 50mm dynamic combat cam — Cú ra đòn và phản xạ dứt khoát: {part2}. Va chạm đanh thép tạo xung lực dội ngược làm chấn động không khí, tia lửa cơ khí lóe sáng; nhân vật giữ thế dứt khoát, cất giọng Nam dõng dạc với khẩu hình khớp từng âm tiết: {dialogue}. Ánh mắt kiên định sắc lạnh qua kính mũ."
+        else:
+            b2 = f"00:03.5–00:07.0 | Decisive martial arts impact & speed-ramp execution, 50mm dynamic combat cam — Cú ra đòn và phản xạ dứt khoát: {part2}. Va chạm đanh thép tạo xung lực dội ngược làm chấn động không khí, tia lửa cơ khí lóe sáng; nhân vật dậm trụ dứt khoát, ánh mắt kiên định sắc lạnh qua kính mũ, không chút do dự."
+        b3 = f"00:07.0–00:10.0 | Kinetic shockwave dissipation & combat stance lock, 35mm low-angle — Sóng xung kích quét tròn làm bụi đất và mảnh vỡ dạt ra ngoài, đối thủ bị chấn động lùi lại hoặc dính đòn; nhân vật thu thế tấn vững như bàn thạch, cơ bắp căng tràn, ánh mắt khóa chặt mục tiêu. Khóa tĩnh khung hình cuối 0.5s để nối tiếp {next_target} mượt mà không lỗi giật."
+
+    elif clip_type == "RACING":
+        b1 = f"00:00–00:03.5 | High-speed kinetic vehicular tracking, 35mm wide anamorphic — {lead_in}: {part1}. Tiếng gầm rú của động cơ Twin-Turbo, lốp xe cày xé mặt đường tạo khói trắng cuồn cuộn, camera tracking sát sườn xe ở góc cực thấp với độ nét sắc sảo."
+        if has_dialogue:
+            b2 = f"00:03.5–00:07.0 | Precision high-speed stunt & decisive counter, 50mm dynamic cam — Cú bẻ lái hoặc va chạm nảy lửa: {part2}. Thân xe trượt ngang ngoạn mục, tia lửa ma sát bắn tung tóe từ rào chắn; nhân vật ghì chặt vô lăng, nét mặt căng thẳng cao độ, cất giọng qua bộ đàm với khẩu hình chuẩn xác: {dialogue}."
+        else:
+            b2 = f"00:03.5–00:07.0 | Precision high-speed stunt & decisive counter, 50mm dynamic cam — Cú bẻ lái hoặc va chạm nảy lửa: {part2}. Thân xe trượt ngang ngoạn mục, tia lửa ma sát bắn tung tóe từ rào chắn; nhân vật ghì chặt vô lăng bẻ góc cua sắc lẹm, kiểm soát quỹ đạo hoàn hảo."
+        b3 = f"00:07.0–00:10.0 | Drift recovery & relentless forward momentum, 35mm tracking — Chiếc xe lấy lại độ bám đường sau cú drift nghẹt thở, vệt bánh xe đen bóng in hằn trên mặt đường bốc khói; camera lia mượt về góc sau xe, khóa tĩnh khung hình cuối 0.5s để làm gốc nối liền cho {next_target}."
+
+    elif clip_type == "ARMOR":
+        b1 = f"00:00–00:03.5 | Epic power surge & core resonance, 35mm anamorphic wide — {lead_in}: {part1}. Luồng ánh sáng năng lượng thuần khiết bùng nổ, các vi mạch nano kích hoạt phát quang rực rỡ, gió xoáy năng lượng thổi tung tàn bụi xung quanh."
+        if has_dialogue:
+            b2 = f"00:03.5–00:07.0 | Sleek armor morphing & heroic declaration, 50mm hero shot — {part2}. Các mảnh giáp cơ khí nano ôm khít cơ thể trong nháy mắt, kính mũ trong suốt trượt xuống bảo vệ khuôn mặt. Nhân vật bộc lộ hào khí dũng mãnh, hô vang câu khẩu lệnh dõng dạc: {dialogue}. Khẩu hình khớp hoàn hảo qua kính mũ."
+        else:
+            b2 = f"00:03.5–00:07.0 | Sleek armor morphing & heroic declaration, 50mm hero shot — {part2}. Các mảnh giáp cơ khí nano ôm khít cơ thể trong nháy mắt, kính mũ trong suốt trượt xuống bảo vệ khuôn mặt. Nhân vật đứng thẳng uy nghiêm trong luồng sáng vi mạch."
+        b3 = f"00:07.0–00:10.0 | Radiant aura stabilization & battle-ready lock, 35mm low-angle — Hào quang năng lượng từ lõi cổ tay trái lan tỏa dọc theo các đường viền LED của bộ giáp, các vây khí động học khẽ rung lên vào vị trí sẵn sàng chiến đấu. Khóa tĩnh khung hình cuối 0.5s làm gốc cho {next_target}."
+
+    elif clip_type == "SUSPENSE":
+        b1 = f"00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — {lead_in}: {part1}. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề."
+        if has_dialogue:
+            b2 = f"00:03.5–00:07.0 | Critical decisive maneuver & tense dialogue, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: {part2}. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt không hề dao động, nhân vật bật ra câu nói then chốt: {dialogue}."
+        else:
+            b2 = f"00:03.5–00:07.0 | Critical decisive maneuver, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: {part2}. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt tập trung tột độ không hề dao động."
+        b3 = f"00:07.0–00:10.0 | High-stakes stabilization & cliffhanger lock, 35mm — Hiểm nguy tạm thời được kìm hãm hoặc bộc lộ bước ngoặt nghẹt thở; camera khóa chặt vào khoảnh khắc quyết định, giữ tĩnh 0.5s ở khung hình cuối cùng để chuyển tiếp {next_target}."
+
+    else: # DRAMA
+        b1 = f"00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — {lead_in}: {part1}. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật."
+        if has_dialogue:
+            b2 = f"00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: {part2}. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: {dialogue}."
+        else:
+            b2 = f"00:03.5–00:07.0 | Warm intimate close-up & emotion, 85mm prime lens — Chuyển biến cảm xúc chân thành: {part2}. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật thể hiện tình thương gia đình sâu sắc."
+        b3 = f"00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp {next_target}."
+
+    return b1, b2, b3
+
+def get_blockbuster_camera_light(clip_type):
+    if clip_type == "COMBAT":
+        return "Aggressive 35mm anamorphic wide tracking, low-angle 24mm heroic perspective, dynamic handheld combat camera with subtle micro-shake on kinetic impact. 90-degree shutter angle for razor-sharp martial arts without blurry motion artifacts. Gritty high-contrast cinematic lighting, volumetric rim light through dust/smoke, vibrant neon reflections on armor plates, and horizontal anamorphic flares."
+    elif clip_type == "RACING":
+        return "High-speed 35mm anamorphic tracking shot mounted low on vehicle chassis, dynamic whip pans tracking drift arcs, intense motion blur on background with razor-sharp vehicle focus. Anamorphic horizontal lens flare streaks from headlights, reflections of streetlights and neon on glossy car bodies."
+    elif clip_type == "ARMOR":
+        return "Heroic 35mm anamorphic wide framing orbiting slightly around the character, 50mm chest-up hero shot capturing the helmet visor snap. Radiant volumetric light shafts radiating from the wrist core, high dynamic range reflections on polished armor composite plating."
+    elif clip_type == "SUSPENSE":
+        return "Tense 35mm Dutch tilt moving through narrow spaces, tight 85mm close-ups focusing on sweating brows and trembling hands. Chiaroscuro high-contrast shadows, cold fluorescent or emergency red rotating beacons piercing the darkness."
+    else:
+        return "Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain."
+
+def get_blockbuster_sound(clip_type):
+    if clip_type == "COMBAT":
+        return "Visceral blockbuster sound design: thunderous sub-bass impact thump, sharp metallic clangs, rapid whoosh of displaced air, mechanical armor servo hum, screaming turbocharged engine, and soaring brass orchestral percussion."
+    elif clip_type == "RACING":
+        return "High-octane soundscape: deafening roar of high-revving Twin-Turbo engines, screeching tire burnouts, explosive nitrous purge hisses, rattling chassis vibration, and relentless action percussion."
+    elif clip_type == "ARMOR":
+        return "Epic transformation sound design: high-frequency alien power hum, metallic latching of mechanized armor plates, celestial energy shockwave whoosh, and an inspiring orchestral brass crescendo."
+    elif clip_type == "SUSPENSE":
+        return "Edge-of-the-seat sound design: ominous low drone, rapid heartbeat bass pulse, ticking countdown audio cue, sharp metallic clicks of tools, and rising string dissonance."
+    else:
+        return "Subtle emotional sound design: gentle idling engine purr in the background, distant sound of canal water and night crickets, warm acoustic guitar melodies, and natural room reverberation."
+
 for num_str, title, time_range, setting_str, body in scenes:
     scene_num = int(num_str)
     dir_name = f"canh-{scene_num:02d}"
@@ -111,7 +218,6 @@ for num_str, title, time_range, setting_str, body in scenes:
     
     clips_data = []
     for c_num, c_keys, c_desc in raw_clips:
-        # Tách mô tả và thoại
         dialogue = "—"
         desc = c_desc.strip()
         if "*Thoại:*" in desc:
@@ -215,7 +321,11 @@ Theo bạn tình huống ở Cảnh {scene_num} này ai xử lý ngầu nhất? 
     with open(os.path.join(dir_path, "caption.md"), "w", encoding="utf-8") as f:
         f.write(caption_content)
         
-    # 3. TẠO CLIP-1.MD ĐẾN CLIP-6.MD
+    # 3. TẠO CLIP-1.MD ĐẾN CLIP-6.MD (Giữ lại Cảnh 02 thủ công tinh xảo)
+    if scene_num == 2:
+        print(f"Bảo tồn Cảnh 02 đã tối ưu thủ công tinh xảo.")
+        continue
+
     # Xác định các nhân vật xuất hiện
     chars_present = []
     keys_str = " ".join([c['keys'] for c in clips_data])
@@ -228,7 +338,6 @@ Theo bạn tình huống ở Cảnh {scene_num} này ai xử lý ngầu nhất? 
     # Clip 1 (ING - Full prompt)
     char_blocks_full = []
     for cp in chars_present:
-        # Check if armor or civilian
         if f"{cp}_G" in keys_str and f"{cp}_G" in CHAR_FULL_MAP:
             char_blocks_full.append(CHAR_FULL_MAP[f"{cp}_G"])
         elif f"{cp}_R" in keys_str and f"{cp}_R" in CHAR_FULL_MAP:
@@ -238,32 +347,37 @@ Theo bạn tình huống ở Cảnh {scene_num} này ai xử lý ngầu nhất? 
     char_full_text = "\n".join(char_blocks_full)
     
     c1 = clips_data[0]
+    c1_type = classify_clip(c1['desc'], c1['dialogue'], title)
+    b1_1, b1_2, b1_3 = generate_blockbuster_shotlist(c1['desc'], c1['dialogue'], c1_type, 1, is_clip1=True)
+    c1_cam_light = get_blockbuster_camera_light(c1_type)
+    c1_sound = get_blockbuster_sound(c1_type)
+
     clip1_prompt = f"""[FORMAT]
-Widescreen 16:9, 10-second clip, photorealistic live-action superhero action film look, cinematic anamorphic lens flares: real Vietnamese people with natural skin textures; sleek practical armor with composite plates and glowing colored LED lines; energy powers are pure clean light (no fire damage, no blood). High-contrast Saigon cinematic color grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync through clear helmet visors. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon cinematic color grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync through clear helmet visors. No subtitles or on-screen text.
 
 [CHARACTERS — match attached reference images]
 {char_full_text}
 
 [SETTING]
 {setting_text}
-Time: Scene {scene_num}/45, timecode {time_range}. Atmosphere: high-adrenaline action, tension, emotional bond.
+Time: Scene {scene_num}/45, timecode {time_range}. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
 
 [CAMERA & LIGHT]
-Cinematic anamorphic 35mm wide angle for action beats, 50mm and 85mm for emotional character close-ups; dynamic camera tracking and stable gimbal movements; neon and sodium reflections.
+{c1_cam_light}
 
 [SHOT LIST]
-00:00–00:03 | Establishing shot, 35mm — {c1['desc']}
-00:03–00:07 | Medium shot, 50mm — Action intensifies. Character speaking: {c1['dialogue']}
-00:07–00:10 | Dynamic close-up, 85mm — Reaction shot and movement towards the next beat. Hold final action for seamless frame extend.
+{b1_1}
+{b1_2}
+{b1_3}
 
 [SOUND]
-Engine roar, tire screech on pavement, mechanical armor hum, deep cinematic percussion and bass pulses.
+{c1_sound}
 
 [END FRAME]
 Clean freeze on the final frame of the action beat for seamless continuation into clip 2.
 
 [AVOID]
-guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look.
+guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
 """
     with open(os.path.join(dir_path, "clip-1.md"), "w", encoding="utf-8") as f:
         f.write(clip1_prompt)
@@ -282,30 +396,35 @@ guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, r
                 char_blocks_short.append(CHAR_SHORT_MAP[cp])
         char_short_text = "\n".join(char_blocks_short)
         
+        c_type = classify_clip(c_item['desc'], c_item['dialogue'], title)
+        b_1, b_2, b_3 = generate_blockbuster_shotlist(c_item['desc'], c_item['dialogue'], c_type, cur_idx, is_clip1=False)
+        cam_light = get_blockbuster_camera_light(c_type)
+        sound_desc = get_blockbuster_sound(c_type)
+        
         clip_fr_prompt = f"""Continue the scene seamlessly from the final frame of clip {prev_idx}, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9, 10-second clip, photorealistic live-action superhero film style. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
 {char_short_text}
 
 [CAMERA & LIGHT]
-Same lighting and cinematic 16:9 widescreen composition. 85mm close-up for speech and 35mm wide for vehicular stunts and combat.
+{cam_light}
 
 [SHOT LIST]
-00:00–00:03.5 | Continuing seamlessly from the last frame — {c_item['desc']}
-00:03.5–00:07 | Dynamic action progression. Character line: {c_item['dialogue']}
-00:07–00:10 | Culmination of this beat, setting up the next action transition.
+{b_1}
+{b_2}
+{b_3}
 
 [SOUND]
-Immersive sound design: roaring engine turbos, mechanical armor servos, whoosh of wind and cinematic orchestral score.
+{sound_desc}
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip {cur_idx + 1 if cur_idx < 6 else 'next scene'}.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
 """
         with open(os.path.join(dir_path, f"clip-{cur_idx}.md"), "w", encoding="utf-8") as f:
             f.write(clip_fr_prompt)
 
-print("Đã tạo thành công toàn bộ 45 thư mục cảnh (canh-01 đến canh-45) với đầy đủ README, caption, và 6 clip prompts 16:9!")
+print("Đã tái tạo và tối ưu thành công toàn bộ 45 thư mục cảnh (canh-01 đến canh-45) chuẩn bom tấn hành động điện ảnh!")

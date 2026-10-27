@@ -7,7 +7,7 @@
 ```text
 Biệt Đội Gara · Tập 34/45: Lời Dặn Của Bác Bảy 🏎️🔥
 
-Cả bốn người đứng trước bàn thờ Bác Bảy. Hải quỳ xuống tháo một viên gạch bí mật dưới chân bàn thờ, lấy ra một chiếc hộp sắt bọc vải nhung.
+Cả bốn người đứng trước bàn làm việc kỷ niệm của Bác Bảy. Hải tháo ngăn bí mật dưới chân bàn làm việc, lấy ra một chiếc hộp sắt bọc vải nhung.
 Bác Bảy mỉm cười trìu mến, giơ bàn tay chai sần lên: "Xe hỏng thì sửa lại được, người lạc lối thì kéo về. Ở cái nhà này... không ai bị bỏ lại phía sau!"
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️

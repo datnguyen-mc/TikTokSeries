@@ -1,0 +1,44 @@
+# Python & Virtual Environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases & Runtime State
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+flow_agent.db
+flow_generation_hold.json
+flow_generation_hold.tmp
+flow_session_project.json
+agent/active_project.json
+
+# Node & Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Media outputs & temporary frames
+biet-doi-gara/exported_frames/
+biet-doi-gara/output_videos/
+*.mp4
+*.mp3
+*.wav
+
+# Chrome extension runtime
+extension/_metadata/
+**/extension/_metadata/
+
+# Local env
+.env
+.env.local

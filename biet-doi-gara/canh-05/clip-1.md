@@ -1,5 +1,5 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action-comedy film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon alley night grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic cinematic Vietnamese sci-fi action-comedy film style, 24fps high-end cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon alley night grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync. No subtitles or on-screen text.
 
 [CHARACTERS — match attached reference images]
 @Thang = THẮNG in his armor GIÁP GIÓ: red-and-black armor with wind fins, open-face helmet with amber visor showing face, silver streak at LEFT temple; deep, calm Southern voice.

@@ -1,5 +1,5 @@
 Continue the scene seamlessly from the final frame of clip 2, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing magnificent mechanical morphing. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic cinematic Vietnamese sci-fi action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing magnificent mechanical morphing. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
 @Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face; deep, calm Southern voice.

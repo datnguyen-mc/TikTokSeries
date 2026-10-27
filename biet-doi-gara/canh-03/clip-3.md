@@ -1,25 +1,25 @@
 Continue the scene seamlessly from the final frame of clip 2, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing authentic sci-fi resolution. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
-[CHARACTERS — unchanged]
-@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face, red wrist core; deep, calm Southern voice.
-@Lan = LAN in GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, ice-blue visor showing face; quick, bright Southern voice.
-@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing face, glowing energy hammer; booming Southern voice.
-@Khoi = KHÔI in GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing glasses and face; nervous, fast Southern voice.
+[CHARACTERS — unchanged, in civilian clothes with glowing wristbands]
+@Thang = THẮNG: Vietnamese man, 36, silver streak at LEFT temple, olive work jacket with sleeves pushed up, glowing red hexagonal energy bracelet on left wrist; deep, calm Southern voice.
+@Lan = LAN: Vietnamese woman, 29, short bob with ice-blue streak, white leather moto jacket, glowing ice-blue wristband; quick, bright Southern voice.
+@Hai = HẢI: big Vietnamese man, 32, full beard, shaved sides, grey tank top, leather apron, glowing orange wristband; booming Southern voice.
+@Khoi = KHÔI: slim Vietnamese young man, 25, round glasses, messy hair, yellow hoodie, glowing yellow wristband; fast, nervous Southern voice.
 
 [CAMERA & LIGHT]
-Heroic 35mm anamorphic wide framing orbiting slightly around the character, 50mm chest-up hero shot capturing the helmet visor snap. Radiant volumetric light shafts radiating from the wrist core, high dynamic range reflections on polished armor composite plating.
+Dramatic 50mm to 85mm prime lens hero push-in on Thắng. Warm workshop lanterns blending with pulsing crimson energy from the red wrist core; dynamic cinematic lens flares reflecting in Thắng's eyes.
 
 [SHOT LIST]
-00:00–00:03.5 | Epic power surge & core resonance, 35mm anamorphic wide — Continuing seamlessly from the last frame: Trong tâm trí Thắng vang lên giọng nói ấm áp quen thuộc của Bác Bảy: *"Khi nhà gặp nạn, hãy đứng lên bảo vệ nhau. Luồng ánh sáng năng lượng thuần khiết bùng nổ, các vi mạch nano kích hoạt phát quang rực rỡ, gió xoáy năng lượng thổi tung tàn bụi xung quanh.
-00:03.5–00:07.0 | Sleek armor morphing & heroic declaration, 50mm hero shot — "*. Các mảnh giáp cơ khí nano ôm khít cơ thể trong nháy mắt, kính mũ trong suốt trượt xuống bảo vệ khuôn mặt. Nhân vật bộc lộ hào khí dũng mãnh, hô vang câu khẩu lệnh dõng dạc: Thắng: "Lõi Bảy, khởi động!". Khẩu hình khớp hoàn hảo qua kính mũ.
-00:07.0–00:10.0 | Radiant aura stabilization & battle-ready lock, 35mm low-angle — Hào quang năng lượng từ lõi cổ tay trái lan tỏa dọc theo các đường viền LED của bộ giáp, các vây khí động học khẽ rung lên vào vị trí sẵn sàng chiến đấu. Khóa tĩnh khung hình cuối 0.5s làm gốc cho clip 4.
+00:00–00:03.5 | Spiritual connection & fatherly memory, 85mm close-up — Trong tâm trí Thắng vang lên giọng nói ấm áp đầy tình thương của Bác Bảy: "Khi nhà gặp nạn, hãy đứng lên bảo vệ nhau!". Thắng nhìn xuống chiếc vòng tay phát quang đỏ rực, ánh mắt từ trầm tư chuyển sang kiên định sắt đá.
+00:03.5–00:07.0 | Resolute activation command & hero declaration, 50mm hero angle — Thắng giơ cao cánh tay trái, bàn tay siết chặt thành nắm đấm vững như thép, cất giọng Nam trầm vang dội dõng dạc: Thắng: "Lõi Bảy, khởi động!". Khẩu hình khớp hoàn hảo từng âm tiết.
+00:07.0–00:10.0 | Nano circuit ignition & transformation onset, 35mm wide — Từ chiếc vòng đỏ, hàng vạn đường viền ánh sáng nano lan tỏa khắp cơ thể Thắng, bắt đầu kích hoạt cơ chế mở bung các phiến giáp đầu tiên. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 4.
 
 [SOUND]
-Epic transformation sound design: high-frequency alien power hum, metallic latching of mechanized armor plates, celestial energy shockwave whoosh, and an inspiring orchestral brass crescendo.
+Ethereal memory echo of Bác Bảy's voice, deep pulsing heartbeat sub-bass, rising sonic power whoosh, and Thắng's authoritative commanding voice echoing in the garage.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip 4.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+weapons, distorted limbs, brand logos, watermarks, text overlays, cartoon or anime look, blurry motion, darkness.

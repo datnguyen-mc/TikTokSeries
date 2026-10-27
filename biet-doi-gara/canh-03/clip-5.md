@@ -22,4 +22,4 @@ Triple mechanical armor locking clanks, high-frequency energy power surges, Hả
 Hold final frame still for 0.5s for seamless extension to clip 6.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look.
+weapons, distorted anatomy, brand logos, watermarks, text overlays, cartoon or anime look, blurry motion, darkness.

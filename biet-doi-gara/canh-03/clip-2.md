@@ -1,25 +1,28 @@
 Continue the scene seamlessly from the final frame of clip 1, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic cinematic Vietnamese action film style, 24fps high-end cinema, crisp 90-degree shutter angle capturing authentic practical motion. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
-[CHARACTERS — unchanged]
-@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face, red wrist core; deep, calm Southern voice.
-@Lan = LAN in GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, ice-blue visor showing face; quick, bright Southern voice.
-@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing face, glowing energy hammer; booming Southern voice.
-@Khoi = KHÔI in GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing glasses and face; nervous, fast Southern voice.
+[CHARACTERS — unchanged, in civilian mechanic clothing]
+@Thang = THẮNG: Vietnamese man, 36, silver streak at LEFT temple, olive work jacket with sleeves pushed up, compact red electronic wrist device on left wrist; deep, calm Southern voice.
+@Lan = LAN: Vietnamese woman, 29, short bob with ice-blue streak, white leather moto jacket; quick, bright Southern voice.
+@Hai = HẢI: big Vietnamese man, 32, full beard, shaved sides, grey tank top, leather apron, holding steel wrench; booming Southern voice.
+@Khoi = KHÔI: slim Vietnamese young man, 25, round glasses, messy hair, yellow hoodie; fast, nervous Southern voice.
+
+[SETTING]
+GARA BẢY AT NIGHT: two-story mechanic garage beside a canal in Saigon, oil-stained concrete floor, teal neon and warm amber work lamps, walls of hanging tools, hydraulic lift, mezzanine with wooden table; no readable text.
 
 [CAMERA & LIGHT]
-Heroic 35mm anamorphic wide framing orbiting slightly around the character, 50mm chest-up hero shot capturing the helmet visor snap. Radiant volumetric light shafts radiating from the wrist core, high dynamic range reflections on polished armor composite plating.
+Cinematic 35mm anamorphic wide tracking shot moving smoothly between the siblings in the workshop. Soft volumetric warm tungsten lights and subtle teal neon reflections on metallic surfaces.
 
 [SHOT LIST]
-00:00–00:03.5 | Epic power surge & core resonance, 35mm anamorphic wide — Continuing seamlessly from the last frame: Lõi trắng xanh băng ghim vào cổ tay Lan; lõi cam ghim vào tay Hải; lõi vàng ghim vào tay Khôi. Luồng ánh sáng năng lượng thuần khiết bùng nổ, các vi mạch nano kích hoạt phát quang rực rỡ, gió xoáy năng lượng thổi tung tàn bụi xung quanh.
-00:03.5–00:07.0 | Sleek armor morphing & heroic declaration, 50mm hero shot — Lõi thứ năm màu xanh thẫm bay vụt ra ngoài cửa gara. Các mảnh giáp cơ khí nano ôm khít cơ thể trong nháy mắt, kính mũ trong suốt trượt xuống bảo vệ khuôn mặt. Nhân vật bộc lộ hào khí dũng mãnh, hô vang câu khẩu lệnh dõng dạc: Lan: "Nó dính chặt vào tay em rồi!". Khẩu hình khớp hoàn hảo qua kính mũ.
-00:07.0–00:10.0 | Radiant aura stabilization & battle-ready lock, 35mm low-angle — Hào quang năng lượng từ lõi cổ tay trái lan tỏa dọc theo các đường viền LED của bộ giáp, các vây khí động học khẽ rung lên vào vị trí sẵn sàng chiến đấu. Khóa tĩnh khung hình cuối 0.5s làm gốc cho clip 3.
+00:00–00:03.5 | Autonomous electronic devices & gentle attachment, 35mm wide — Ba thiết bị cơ khí vi mạch nhỏ gọn phát ánh sáng LED dịu nhẹ lướt trong xưởng: một chiếc màu xanh băng tới tay Lan, một chiếc màu cam tới tay Hải, một chiếc màu vàng tới tay Khôi. Các thiết bị tự động gài êm ái thành vòng tay kỹ thuật trên cổ tay ba người.
+00:03.5–00:07.0 | Sibling surprise & bright dialogue, 50mm medium shot — Lan nâng bàn tay lên ngắm nhìn chiếc vòng tay cơ khí đang phát ánh sáng xanh vi mạch dịu nhẹ, ánh mắt ngạc nhiên pha lẫn thích thú, mỉm cười quay sang các anh: Lan: "Chiếc vòng tay này... đang sáng lên kìa!". Khẩu hình tiếng Việt khớp tự nhiên và rõ ràng.
+00:07.0–00:10.0 | Fifth device departure & cliffhanger transition, 35mm low-angle — Cùng lúc đó, thiết bị thứ năm màu xanh thẫm bay lướt qua ô cửa sổ gara hướng ra ngoài hẻm tối. Bốn anh em cùng dõi mắt nhìn theo vệt sáng trên nền trời đêm Sài Gòn. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 3.
 
 [SOUND]
-Epic transformation sound design: high-frequency alien power hum, metallic latching of mechanized armor plates, celestial energy shockwave whoosh, and an inspiring orchestral brass crescendo.
+Subtle electronic servo chime of original modern automotive engineering, soft mechanical click of the wristband latch, and Lan's clear, bright Southern voice.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip 3.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+weapons, distorted anatomy, brand logos, watermarks, text overlays, cartoon or anime look, blurry motion, extreme darkness.

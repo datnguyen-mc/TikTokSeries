@@ -251,31 +251,74 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
         log(f"⚠️ Ngoại lệ khi tải video: {e}")
     return None
 
-def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
-    out_frame = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{clip_num:02d}_last.jpg")
-    log(f"🎬 Dùng ffmpeg cắt khung hình cuối (Last Frame) của Clip {clip_num}...")
+def fetch_media_video_url(media_id: str) -> str:
+    """Truy vấn trực tiếp GET /api/flow/media/{media_id} để lấy signed fifeUrl."""
+    if not media_id or media_id == "N/A":
+        return None
     try:
+        r = requests.get(f"{FLOWKIT_API}/api/flow/media/{media_id}", timeout=15)
+        if r.status_code == 200:
+            m_data = r.json()
+            inner = m_data.get("data") if isinstance(m_data.get("data"), dict) else m_data
+            video_info = inner.get("video") or {}
+            fife_url = video_info.get("fifeUrl") or video_info.get("downloadUrl")
+            if fife_url and fife_url.startswith("http"):
+                return fife_url
+    except Exception as e:
+        pass
+    return None
+
+def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
+    """Trích xuất khung hình cuối cùng của clip bằng ffmpeg làm start frame cho clip sau."""
+    out_frame = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{clip_num:02d}_last.jpg")
+    log(f"🎬 Dùng ffmpeg cắt khung hình cuối (Last Frame) của Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
+    try:
+        # Cách 1: dùng -sseof -0.2 lấy frame sát cuối video
         cmd = [
             "ffmpeg", "-y",
-            "-sseof", "-0.1",
+            "-sseof", "-0.2",
             "-i", video_source,
-            "-vsync", "0",
-            "-vframes", "1",
+            "-frames:v", "1",
             "-q:v", "2",
             out_frame
         ]
         result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
         if result.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
-            log(f"✨ Cắt thành công khung hình nối cảnh: {os.path.basename(out_frame)}")
+            size_kb = os.path.getsize(out_frame) / 1024
+            print_box(
+                "🖼️ ĐÃ TRÍCH XUẤT KHUNG HÌNH CUỐI THÀNH CÔNG",
+                [
+                    ("Clip Nguồn", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
+                    ("File Ảnh Nối Cảnh", os.path.basename(out_frame)),
+                    ("Đường Dẫn Lưu", out_frame),
+                    ("Dung Lượng Ảnh", f"{size_kb:.1f} KB"),
+                    ("Mục Đích Sử Dụng", f"Nạp vào slot [Bắt đầu] cho Clip {clip_num + 1:02d} (Seamless Chaining)"),
+                ]
+            )
             return out_frame
         else:
-            log(f"⚠️ ffmpeg không trích xuất được frame: {result.stderr.decode('utf-8', errors='ignore')[:200]}")
-            return None
+            # Cách 2: fallback seek trực tiếp giây thứ 9.5
+            cmd_fallback = [
+                "ffmpeg", "-y",
+                "-ss", "00:00:09.5",
+                "-i", video_source,
+                "-frames:v", "1",
+                "-q:v", "2",
+                out_frame
+            ]
+            res_fb = subprocess.run(cmd_fallback, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
+            if res_fb.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
+                log(f"✨ Trích xuất khung hình cuối thành công (fallback ss 9.5s): {os.path.basename(out_frame)}")
+                return out_frame
+            else:
+                log(f"⚠️ ffmpeg không trích xuất được frame: {result.stderr.decode('utf-8', errors='ignore')[:200]}")
+                return None
     except Exception as e:
         log(f"⚠️ Lỗi khi trích xuất frame: {e}")
         return None
 
 def upload_start_frame(image_path: str) -> str:
+    """Nạp khung hình vừa cắt vào slot [Bắt đầu] trên Google Flow qua API."""
     if not image_path or not os.path.exists(image_path):
         return None
     url = f"{FLOWKIT_API}/api/flow/upload-image"
@@ -291,8 +334,22 @@ def upload_start_frame(image_path: str) -> str:
         }
         res = requests.post(url, json=payload, timeout=45)
         if res.status_code == 200:
-            media_id = res.json().get("data", {}).get("media_id") or res.json().get("media_id")
-            log(f"📤 Đã nạp ảnh vào slot [Bắt đầu] cho Clip tiếp theo (media_id: {media_id})")
+            res_json = res.json()
+            media_id = (
+                res_json.get("media_id")
+                or res_json.get("_mediaId")
+                or (res_json.get("data") or {}).get("media_id")
+                or ((res_json.get("data") or {}).get("media") or {}).get("name")
+            )
+            print_box(
+                "📤 ĐÃ TẢI ẢNH LÊN GOOGLE FLOW [BẮT ĐẦU]",
+                [
+                    ("Media ID", media_id),
+                    ("File Ảnh Nối", os.path.basename(image_path)),
+                    ("Slot Kích Hoạt", "Khung hình [Bắt đầu] (Start Frame) cho Clip tiếp theo"),
+                    ("Trạng Thái", "Sẵn sàng Image-to-Video Omni Flash 10s ✅"),
+                ]
+            )
             return media_id
         else:
             log(f"⚠️ Không upload được frame: {res.text}")
@@ -351,42 +408,114 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     res = requests.post(url, json=payload, timeout=60)
     return res
 
-def poll_workflow(workflows, scene_num: int, clip_num: int, timeout_s=240):
+def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeout_s=360):
+    """
+    Theo dõi tiến trình sinh video cho đến khi hoàn thành.
+    Tự động xử lý cả hai cơ chế của Google Flow:
+    1. workflows (Text-to-Video)
+    2. operations (Image-to-Video có khung hình đầu)
+    """
     url = f"{FLOWKIT_API}/api/flow/check-status"
     start_time = time.time()
-    log(f"⏳ Đang theo dõi tiến trình tạo video [Cảnh {scene_num:02d} - Clip {clip_num:02d}]...")
     
+    # Trích xuất thông tin polling
+    flow_poll = submit_res_data.get("flowkitPolling") or {}
+    workflows = submit_res_data.get("workflows") or flow_poll.get("workflows") or []
+    operations = submit_res_data.get("operations") or flow_poll.get("operations") or []
+    media_list = submit_res_data.get("media") or []
+    primary_media_id = None
+    if media_list and isinstance(media_list, list) and len(media_list) > 0:
+        primary_media_id = media_list[0].get("name")
+    if not primary_media_id and workflows:
+        primary_media_id = workflows[0].get("primary_media_id")
+
+    poll_mode_desc = "workflows (Text-to-Video)" if workflows else ("operations (Image-to-Video)" if operations else "direct media")
+    log(f"⏳ Đang theo dõi tiến trình tạo video [Cảnh {scene_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
+
+    last_logged_time = 0
     while time.time() - start_time < timeout_s:
+        elapsed = int(time.time() - start_time)
         try:
-            r = requests.post(url, json={"workflows": workflows, "project_id": PROJECT_ID}, timeout=30)
-            if r.status_code == 200:
-                res_data = r.json()
-                st = res_data.get("status")
-                elapsed = int(time.time() - start_time)
-                if st == "COMPLETED":
-                    log(f"🎉 Google Flow render hoàn tất sau {elapsed}s!")
-                    video_url = None
-                    wf_list = res_data.get("workflows") or []
-                    for wf in wf_list:
-                        m = wf.get("media") or {}
-                        if m.get("url"):
-                            video_url = m["url"]
-                            break
-                    return {"success": True, "video_url": video_url}
-                elif st in ["FAILED", "ERROR"]:
-                    log(f"❌ Google Flow báo lỗi: {res_data}")
-                    return {"success": False, "error": "FLOW_FAILED"}
-                else:
-                    if elapsed % 12 == 0:
-                        log(f"   ...Google Flow đang vẽ video ({elapsed}s, status: {st})...")
-            else:
-                log(f"   ...chờ phản hồi (HTTP {r.status_code})...")
-        except Exception as e:
-            log(f"   ...lỗi tạm thời khi poll: {e}")
+            # 1. Nếu có workflows (Text-to-Video Omni)
+            if workflows:
+                r = requests.post(url, json={"workflows": workflows, "project_id": PROJECT_ID}, timeout=30)
+                if r.status_code == 200:
+                    res_data = r.json()
+                    st = res_data.get("status")
+                    if st == "COMPLETED" or res_data.get("done") is True:
+                        log(f"🎉 Google Flow render hoàn tất sau {elapsed}s!")
+                        video_url = None
+                        for wf in (res_data.get("workflows") or []):
+                            m = wf.get("media") or {}
+                            if m.get("url"):
+                                video_url = m["url"]
+                                break
+                        # Nếu trong wf chưa có url, gọi trực tiếp endpoint media
+                        if not video_url and primary_media_id:
+                            video_url = fetch_media_video_url(primary_media_id)
+                        if video_url:
+                            return {"success": True, "video_url": video_url}
+                    elif st in ["FAILED", "ERROR"]:
+                        log(f"❌ Google Flow báo lỗi: {res_data}")
+                        return {"success": False, "error": "FLOW_FAILED"}
             
+            # 2. Nếu có operations (Image-to-Video Omni)
+            elif operations:
+                r = requests.post(url, json={"operations": operations, "project_id": PROJECT_ID}, timeout=30)
+                if r.status_code == 200:
+                    res_data = r.json()
+                    inner_ops = res_data.get("operations") or res_data.get("data", {}).get("operations") or []
+                    all_done = True
+                    has_failed = False
+                    video_url = None
+                    op_media_id = None
+
+                    for op in inner_ops:
+                        op_status = op.get("status", "")
+                        if op_status == "MEDIA_GENERATION_STATUS_SUCCESSFUL":
+                            op_meta = op.get("operation", {}).get("metadata", {}).get("video", {})
+                            if not op_meta:
+                                op_meta = op.get("metadata", {}).get("video", {})
+                            v_url = op_meta.get("fifeUrl") or op_meta.get("downloadUrl")
+                            if v_url:
+                                video_url = v_url
+                            op_media_id = op_meta.get("mediaId")
+                        elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
+                            has_failed = True
+                            all_done = False
+                        else:
+                            all_done = False
+
+                    if has_failed:
+                        log(f"❌ Operation thất bại: {res_data}")
+                        return {"success": False, "error": "OPERATION_FAILED"}
+
+                    if all_done and inner_ops:
+                        log(f"🎉 Google Flow Image-to-Video hoàn tất sau {elapsed}s!")
+                        target_mid = op_media_id or primary_media_id
+                        if not video_url and target_mid:
+                            video_url = fetch_media_video_url(target_mid)
+                        if video_url:
+                            return {"success": True, "video_url": video_url}
+
+            # 3. Fallback: Nếu có primary_media_id, kiểm tra trực tiếp qua Media API
+            if primary_media_id and elapsed >= 30:
+                direct_url = fetch_media_video_url(primary_media_id)
+                if direct_url:
+                    log(f"🎉 Phát hiện video sẵn sàng qua Media API sau {elapsed}s!")
+                    return {"success": True, "video_url": direct_url}
+
+            # Log tiến trình định kỳ mỗi 12 giây
+            if elapsed - last_logged_time >= 12:
+                last_logged_time = elapsed
+                log(f"   ...Google Flow đang vẽ video ({elapsed}s trôi qua)...")
+
+        except Exception as e:
+            log(f"   ...lỗi tạm thời khi poll ({e}), tiếp tục chờ...")
+
         time.sleep(6)
-        
-    log("⚠️ Hết thời gian chờ (timeout).")
+
+    log(f"⚠️ Hết thời gian chờ {timeout_s}s (Timeout) khi render Cảnh {scene_num:02d} - Clip {clip_num:02d}.")
     return {"success": False, "error": "TIMEOUT"}
 
 # -------------------------------------------------------------
@@ -403,24 +532,18 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
             res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
             if res.status_code == 200:
                 data = res.json()
-                inner = data.get("data", {})
-                workflows = inner.get("workflows") or []
-                media_id = inner.get("media", [{}])[0].get("name", "N/A")
-                log(f"✅ Google Flow đã nhận job (Media ID: {media_id}).")
+                inner = data.get("data") if isinstance(data.get("data"), dict) else data
+                log("✅ Google Flow đã chấp nhận job tạo video.")
                 
-                if workflows:
-                    poll_res = poll_workflow(workflows, scene_num, clip_num)
-                    if poll_res["success"]:
-                        return poll_res
-                    else:
-                        log(f"⚠️ Render thất bại ở lần thử {attempt}.")
+                poll_res = poll_generation(inner, scene_num, clip_num)
+                if poll_res["success"] and poll_res.get("video_url"):
+                    return poll_res
                 else:
-                    time.sleep(70)
-                    return {"success": True, "video_url": None}
+                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt} ({poll_res.get('error')}).")
             else:
                 log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {res.text}")
         except Exception as e:
-            log(f"❌ Lỗi ngoại lệ: {e}")
+            log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
 
         # TỰ ĐỘNG LÀM SẠCH PROMPT & THỬ LẠI
         if attempt < max_retries:
@@ -438,9 +561,10 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
 def run_pipeline(start_scene=3, end_scene=5):
     print("\n" + "="*72)
     print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT TỰ ĐỘNG THÔNG MINH — BIỆT ĐỘI GARA")
-    print(f"📁 Phạm vi: Cảnh {start_scene:02d} đến Cảnh {end_scene:02d}")
+    print(f"📁 Phạm vi: Cảnh {start_scene:02d} đến Cảnh {end_scene:02d} (6 clips/cảnh)")
     print(f"🔗 Google Flow Project: {PROJECT_ID}")
     print(f"💾 Tải video tự động về: {OUTPUT_VIDEOS_DIR}")
+    print(f"🖼️ Lưu khung hình nối cảnh tại: {FRAMES_DIR}")
     print("="*72 + "\n")
 
     if not check_connection():
@@ -451,12 +575,14 @@ def run_pipeline(start_scene=3, end_scene=5):
 
     total_clips = (end_scene - start_scene + 1) * 6
     completed_clips = 0
-    previous_clip_last_frame_media_id = None
 
     for s in range(start_scene, end_scene + 1):
         print("\n" + "#"*72)
         print(f"👉 BẮT ĐẦU CẢNH {s:02d}")
         print("#"*72)
+        
+        # Clip 1 của mỗi cảnh mới bắt đầu bối cảnh mới (khởi tạo từ Text hoặc Reference)
+        previous_clip_last_frame_media_id = None
         
         scene_dir = os.path.join(SERIES_DIR, f"canh-{s:02d}")
         for c_idx in range(1, 7):
@@ -478,30 +604,27 @@ def run_pipeline(start_scene=3, end_scene=5):
                 start_image_media_id=previous_clip_last_frame_media_id
             )
             
-            if res["success"]:
-                video_url = res.get("video_url")
+            if res["success"] and res.get("video_url"):
+                video_url = res["video_url"]
                 
-                if video_url:
-                    # 1. TẢI NGAY LẬP TỨC VỀ MÁY VÀ ĐỔI TÊN CHUẨN
-                    local_video = download_and_rename_video(video_url, s, c_idx)
-                    source_for_frame = local_video if local_video else video_url
-                    
-                    # 2. CẬP NHẬT TRẠNG THÁI VÀ LINK VIDEO LÊN DASHBOARD UI
-                    update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
-                    
-                    # 3. TRÍCH XUẤT LAST FRAME LÀM START FRAME CHO CLIP TIẾP THEO
-                    last_frame_path = extract_last_frame(source_for_frame, s, c_idx)
-                    if last_frame_path:
-                        previous_clip_last_frame_media_id = upload_start_frame(last_frame_path)
-                    else:
-                        previous_clip_last_frame_media_id = None
+                # 1. TẢI NGAY LẬP TỨC VỀ MÁY VÀ ĐỔI TÊN CHUẨN
+                local_video = download_and_rename_video(video_url, s, c_idx)
+                
+                # 2. CẬP NHẬT TRẠNG THÁI VÀ LINK VIDEO LÊN DASHBOARD UI
+                update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
+                
+                # 3. TRÍCH XUẤT LAST FRAME LÀM START FRAME CHO CLIP TIẾP THEO
+                source_for_frame = local_video if local_video else video_url
+                last_frame_path = extract_last_frame(source_for_frame, s, c_idx)
+                if last_frame_path:
+                    previous_clip_last_frame_media_id = upload_start_frame(last_frame_path)
                 else:
                     previous_clip_last_frame_media_id = None
             else:
-                log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx}] Bị bỏ qua sau 3 lần thử.")
+                log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
                 previous_clip_last_frame_media_id = None
 
-            log("⏳ Nghỉ 5 giây trước khi tiếp tục...")
+            log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
 
     print("\n" + "="*72)

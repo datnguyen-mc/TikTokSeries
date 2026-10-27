@@ -313,7 +313,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             "start_image_media_id": start_image_media_id,
             "prompt": prompt,
             "project_id": PROJECT_ID,
-            "duration_s": 8,
+            "duration_s": 10,
             "model_family": "omni_flash",
             "resolution": "720p",
             "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
@@ -324,7 +324,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
         payload = {
             "prompt": prompt,
             "project_id": PROJECT_ID,
-            "duration_s": 8,
+            "duration_s": 10,
             "resolution": "720p",
             "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
         }
@@ -338,7 +338,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             ("Chế Độ Tạo", mode),
             ("Slot [Bắt Đầu]", start_image_media_id if start_image_media_id else "[Trống - Khởi tạo từ Text]"),
             ("Slot [Kết Thúc]", "[Trống - Chuyển động tự do]"),
-            ("Thời Lượng", "8 giây (Omni Flash / Veo)"),
+            ("Thời Lượng", "10 giây (Omni Flash abra_10s)"),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", "LANDSCAPE (16:9 Widescreen)"),
             ("Model Family", "omni_flash"),

@@ -46,7 +46,7 @@ class GenerateVideoRequest(BaseModel):
     start_image_media_id: str
     prompt: str
     project_id: str = ""
-    scene_id: str
+    scene_id: str = ""
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT"
     end_image_media_id: Optional[str] = None
     user_paygate_tier: str = "PAYGATE_TIER_ONE"
@@ -60,7 +60,7 @@ class GenerateVideoRefsRequest(BaseModel):
     reference_media_ids: list[str]
     prompt: str
     project_id: str = ""
-    scene_id: str
+    scene_id: str = ""
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT"
     user_paygate_tier: str = "PAYGATE_TIER_ONE"
     # Backward compatible: existing callers keep the Veo R2V path unless they

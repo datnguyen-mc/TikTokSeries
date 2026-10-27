@@ -363,6 +363,9 @@ def upload_start_frame(image_path: str) -> str:
 # -------------------------------------------------------------
 def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
     """Gửi yêu cầu tạo video và in đầy đủ thông tin params request ra CLI."""
+    key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
+    sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
+
     if start_image_media_id:
         endpoint = "/api/flow/generate-video"
         mode = "🔗 Image-to-Video (Seamless Start Frame Chaining)"
@@ -370,6 +373,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             "start_image_media_id": start_image_media_id,
             "prompt": prompt,
             "project_id": PROJECT_ID,
+            "scene_id": sid,
             "duration_s": 10,
             "model_family": "omni_flash",
             "resolution": "720p",
@@ -381,6 +385,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
         payload = {
             "prompt": prompt,
             "project_id": PROJECT_ID,
+            "scene_id": sid,
             "duration_s": 10,
             "resolution": "720p",
             "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE"

@@ -1,26 +1,26 @@
 Continue the scene seamlessly from the final frame of clip 3, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing dramatic investigation beats. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
 @Thang = THẮNG: Vietnamese man, 36, silver streak at LEFT temple, olive work jacket, red rag; deep, calm Southern voice.
 @Lan = LAN: Vietnamese woman, 29, short bob with ice-blue streak, white leather moto jacket; quick, bright Southern voice.
 @Hai = HẢI: big Vietnamese man, 32, full beard, shaved sides, grey tank top, leather apron, big steel wrench; booming Southern voice.
 @Khoi = KHÔI: slim Vietnamese young man, 25, round glasses, messy hair, yellow hoodie, laptop; fast, nervous Southern voice.
-@Minh = MINH: Vietnamese woman, 31, chin scar, low hair bun, black jacket; firm, clear Southern voice.
+@Minh = MINH: Vietnamese woman, 31, chin scar, low hair bun, black civilian jacket; firm, clear Southern voice.
 
 [CAMERA & LIGHT]
-Aggressive 35mm anamorphic wide tracking, low-angle 24mm heroic perspective, dynamic handheld combat camera with subtle micro-shake on kinetic impact. 90-degree shutter angle for razor-sharp martial arts without blurry motion artifacts. Gritty high-contrast cinematic lighting, volumetric rim light through dust/smoke, vibrant neon reflections on armor plates, and horizontal anamorphic flares.
+Cinematic 50mm push-in on Minh as she taps the tablet screen, projecting digital dossier imagery onto the faces around the table. Cool blue display illumination contrasting with warm string lights.
 
 [SHOT LIST]
-00:00–00:03.5 | Explosive kinetic initiation, 35mm low-angle tracking — Continuing seamlessly from the last frame: Minh tiếp tục: "Ngày mai, tại đường đua ngầm ngoại thành, tay sai của Sói Xám sẽ ép một thiếu niên tên Tú đua xe để vận chuyển xe trộm. Đòn thế khai cuộc thần tốc, gia tốc bộc phát tức thì, camera trượt theo góc thấp bắt trọn đà chuyển động dứt khoát của nhân vật.
-00:03.5–00:07.0 | Decisive martial arts impact & speed-ramp execution, 50mm dynamic combat cam — Cú ra đòn và phản xạ dứt khoát: ". Va chạm đanh thép tạo xung lực dội ngược làm chấn động không khí, tia lửa cơ khí lóe sáng; nhân vật giữ thế dứt khoát, cất giọng Nam dõng dạc với khẩu hình khớp từng âm tiết: Minh: "Thằng bé Tú bị bọn chúng khống chế.". Ánh mắt kiên định sắc lạnh qua kính mũ.
-00:07.0–00:10.0 | Kinetic shockwave dissipation & combat stance lock, 35mm low-angle — Sóng xung kích quét tròn làm bụi đất và mảnh vỡ dạt ra ngoài, đối thủ bị chấn động lùi lại hoặc dính đòn; nhân vật thu thế tấn vững như bàn thạch, cơ bắp căng tràn, ánh mắt khóa chặt mục tiêu. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 5 mượt mà không lỗi giật.
+00:00–00:03.5 | Digital dossier reveal & underground racing plot, 50mm — Minh lướt tay trên màn hình máy tính bảng, hiển thị hình ảnh một cậu thanh niên trẻ măng trong bộ đồ đua xám đang bị bọn Găng Xám vây quanh ở một đường đua ngầm ngoại thành.
+00:03.5–00:07.0 | Chilling briefing & high stakes, 85mm prime — Minh giải thích cặn kẽ tình hình, giọng nói đanh lại đầy lo lắng: Minh: "Ngày mai, tại trường đua kín, tay sai Sói Xám sẽ ép một thiếu niên tên Tú đua xe cảm tử để thử nghiệm hệ thống găng mới. Thằng bé Tú bị bọn chúng khống chế gài bom áp suất."
+00:07.0–00:10.0 | Shocked reaction & suspense freeze, 50mm — Thắng khựng lại giữa chừng khi nghe thấy cái tên quen thuộc, chén cơm trên tay Thắng bất giác dừng lại trên không. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 5.
 
 [SOUND]
-Visceral blockbuster sound design: thunderous sub-bass impact thump, sharp metallic clangs, rapid whoosh of displaced air, mechanical armor servo hum, screaming turbocharged engine, and soaring brass orchestral percussion.
+Soft digital swipes on tablet screen, tense low-frequency synthesizer tone, distant hum of city traffic, and Minh's authoritative yet concerned Southern voice.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip 5.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look.

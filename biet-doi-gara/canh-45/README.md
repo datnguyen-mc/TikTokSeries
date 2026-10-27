@@ -1,4 +1,4 @@
-# Biệt Đội Gara — Cảnh 45: Bữa Cơm Khải Hoàn
+# Biệt Đội Gara — Cảnh 45: Bữa Cơm Khải Hoàn (Hết Phim)
 
 **Cảnh 45/45** · Phút 44:00 – 45:00 của phim · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang (Cinematic Widescreen)** chuẩn màn ảnh rộng YouTube điện ảnh  
@@ -9,13 +9,10 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Toàn cảnh Cảng lúc bình minh rạng rỡ. Đại úy Minh dẫn đầu đoàn xe cảnh sát trao trả từng chiếc xe cho những người dân nghèo. Một bé gái ôm chầm lấy con gấu bông trên xe mừng rỡ. Sau đó, Nồi lẩu nghi ngút khói giữa bàn. Lan ngồi cạnh chiếc hatchback trắng đã được rửa bóng loáng. Khôi đang húp xì xụp bát nước lẩu, Tú ngồi bên gắp thịt lia lịa. Minh mặc thường phục mỉm cười dịu dàng. Cuối cùng, Flycam lùi xa khỏi sân thượng Gara Bảy ngập tràn ánh đèn vàng, toàn cảnh Sài Gòn lấp lánh lung linh. Dòng chữ *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN — HẾT PHIM* hiện lên cùng lời tri ân: "Dành tặng những ai luôn coi Gia Đình là điểm tựa". Chuyển cảnh AFTER-CREDIT: Dưới gầm cầu tối, chiếc vali bọ cạp tím đen trôi dạt vào bờ kè, một bàn tay găng máy nhặt lên kèm tiếng động cơ xe đua gầm thét xé toạc màn đêm: *BIỆT ĐỘI GARA SẼ TRỞ LẠI...*  
-  *(HẾT PHIM — 45:00)*
-
----
+Bình minh rạng rỡ tại Cảng Tân Thuận, lực lượng cảnh sát do Đại úy Minh dẫn đầu trao trả hàng trăm chiếc xe trộm nguyên vẹn cho bà con lao động nghèo trong niềm vui khôn xiết. Hoàng hôn buông xuống, trên bàn thờ Bác Bảy ở Gara, bức di thư đã được dán lành lặn và lồng khung kính gỗ trang trọng bên cạnh 5 Lõi Giáp. Trên sân thượng lộng gió lung linh ánh đèn, Hải bưng nồi lẩu cù lao nghi ngút khói mừng đại gia đình chiến thắng. Khôi và Tú dùng đũa đấu kiếm giành nhau miếng sườn non duy nhất, Hải gõ muôi canh phân xử khiến cả nhà cười vang rộn rã. Thắng nâng cao ly trà đá cùng mọi người hô vang tôn chỉ thiêng liêng: *"Ra đường là chở người mình thương!"*. Máy quay flycam 24mm lùi xa dần ngắm nhìn toàn cảnh Sài Gòn lung linh, khép lại trọn vẹn 45 phút phim bom tấn cùng đoạn after-credit hé lộ tương lai.
 
 * **Bối cảnh chính:** Sân thượng Gara Bảy, hoàng hôn ấm áp (Kết Phim).
-* **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
+* **Quy cách hình ảnh:** Người thật, cinematic 2.39:1 widescreen, ánh hoàng hôn vàng rực rỡ, bức thư dán lành lặn mang ý nghĩa biểu tượng gia đình, tiếng cười chân thật và xúc động.
 * **Thời lượng:** Đúng 60 giây, khớp hoàn hảo 1 phút trên timeline YouTube.
 
 ---
@@ -24,23 +21,23 @@ Toàn cảnh Cảng lúc bình minh rạng rỡ. Đại úy Minh dẫn đầu đ
 
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Toàn cảnh Cảng lúc bình minh rạng rỡ. Đại úy Minh dẫn đầu đoàn xe cảnh sát trao trả từng chiếc xe cho những người dân nghèo. Một bé gái ôm chầm lấy con gấu bông trên xe mừng rỡ.** | Người dân: "Cảm ơn các hiệp sĩ! Cảm ơn công an!" | Ingredients (Khóa mặt & cảnh) |
-| 2 | 00:10–00:20 | **Hoàng hôn buông xuống trên kênh Nhiêu Lộc. Sân thượng Gara Bảy lung linh ánh đèn dây vàng ấm áp, gió thổi mát rượi. Tòa nhà Landmark sáng rực phía xa.** | Hải: "Lẩu cù lao đặc biệt mừng đại gia đình chiến thắng!" | Frames / Extend (Nối liền) |
-| 3 | 00:20–00:30 | **Nồi lẩu nghi ngút khói giữa bàn. Lan ngồi cạnh chiếc hatchback trắng đã được rửa bóng loáng. Khôi đang húp xì xụp bát nước lẩu, Tú ngồi bên gắp thịt lia lịa. Minh mặc thường phục mỉm cười dịu dàng.** | Khôi: "Nồi lẩu của anh Hải là số một trần đời!" | Frames / Extend (Nối liền) |
-| 4 | 00:30–00:40 | **Thắng đứng ở đầu bàn, nâng cao ly trà đá: "Gia đình không phải chỉ là cùng chung dòng máu... Gia đình là những người cùng ngồi bên nhau, sống chết có nhau!"** | Thắng: "Muốn đua thì lên đường đua!" | Frames / Extend (Nối liền) |
-| 5 | 00:40–00:50 | **Tất cả mọi người đồng loạt nâng ly chạm nhau leng keng, nụ cười rạng rỡ hạnh phúc ngập tràn màn hình:** | Cả nhà: "RA ĐƯỜNG LÀ CHỞ NGƯỜI MÌNH THƯƠNG!" | Frames / Extend (Nối liền) |
-| 6 | 00:50–01:00 | **Flycam lùi xa khỏi sân thượng Gara Bảy ngập tràn ánh đèn vàng, toàn cảnh Sài Gòn lấp lánh lung linh. Dòng chữ *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN — HẾT PHIM* hiện lên cùng lời tri ân: "Dành tặng những ai luôn coi Gia Đình là điểm tựa". Chuyển cảnh AFTER-CREDIT: Dưới gầm cầu tối, chiếc vali bọ cạp tím đen trôi dạt vào bờ kè, một bàn tay găng máy nhặt lên kèm tiếng động cơ xe đua gầm thét xé toạc màn đêm: *BIỆT ĐỘI GARA SẼ TRỞ LẠI...*     *(HẾT PHIM — 45:00)*** | — | Frames / Extend (Nối liền) |
+| 1 | 00:00–00:10 | **Đại úy Minh trao trả xe cho người dân nghèo tại Cảng Tân Thuận lúc bình minh rạng rỡ.** | Người dân: "Cảm ơn các hiệp sĩ! Cảm ơn công an!" | Ingredients (Khóa mặt & cảnh) |
+| 2 | 00:10–00:20 | **Bức thư dán lành lặn đóng khung kính bên di ảnh Bác Bảy. Sân thượng lung linh đèn vàng, Hải bưng nồi lẩu.** | Hải: "Lẩu cù lao đặc biệt mừng đại gia đình chiến thắng!" | Frames / Extend (Nối liền) |
+| 3 | 00:20–00:30 | **Khôi và Tú dùng đũa đấu kiếm giằng co miếng sườn non, Hải gõ muôi canh phân xử khiến cả bàn cười nắc nẻ.** | Khôi: "Miếng sườn này là công tui giữ bức thư nghe Tú!" · Tú: "Em đua xe bở hơi tai mới có sức ăn chứ bộ!" | Frames / Extend (Nối liền) |
+| 4 | 00:30–00:40 | **Thắng nâng cao ly trà đá, tuyên bố triết lý gia đình thiêng liêng của Biệt Đội Gara.** | Thắng: "Muốn đua thì lên đường đua!" | Frames / Extend (Nối liền) |
+| 5 | 00:40–00:50 | **Cả gia đình (Thắng, Lan, Hải, Khôi, Minh, Tú) đồng loạt nâng ly chạm nhau, nụ cười rạng ngời hạnh phúc.** | Cả nhà: "RA ĐƯỜNG LÀ CHỞ NGƯỜI MÌNH THƯƠNG!" | Frames / Extend (Nối liền) |
+| 6 | 00:50–01:00 | **Flycam 24mm lùi xa khỏi sân thượng lấp lánh ánh đèn, title card HẾT PHIM và after-credit bí ẩn.** | (Âm nhạc khải hoàn ngân vang · Tiếng động cơ xe đua xé toạc màn đêm) | Frames / Extend (Hết Phim) |
 
 ---
 
 ## 3. Danh sách file prompt Google Flow (Gemini Omni)
 
 Mỗi file đã được chuẩn hóa tỷ lệ **16:9 Cinematic**, copy toàn bộ nội dung file và dán thẳng vào Google Flow:
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients, neo giữ mặt nhân vật & xe)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (Cú lật / Hook sang cảnh sau)*
+- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Trao trả xe cho dân nghèo)*
+- [clip-2.md](clip-2.md) — *Frames / Extend (Bức thư đóng khung & Lẩu cù lao)*
+- [clip-3.md](clip-3.md) — *Frames / Extend (Khôi & Tú tranh miếng sườn tấu hài)*
+- [clip-4.md](clip-4.md) — *Frames / Extend (Thắng nâng ly trà đá)*
+- [clip-5.md](clip-5.md) — *Frames / Extend (Cả nhà hô vang khẩu hiệu)*
+- [clip-6.md](clip-6.md) — *Frames / Extend (Đại kết cục & After-credit)*
 
 Caption đăng TikTok / Shorts độc lập: [caption.md](caption.md)

@@ -7,17 +7,17 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 @Minh = MINH: Vietnamese woman, 31, chin scar, low hair bun, black jacket; firm, clear Southern voice.
 
 [CAMERA & LIGHT]
-High-speed 35mm anamorphic tracking shot mounted low on vehicle chassis, dynamic whip pans tracking drift arcs, intense motion blur on background with razor-sharp vehicle focus. Anamorphic horizontal lens flare streaks from headlights, reflections of streetlights and neon on glossy car bodies.
+Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain.
 
 [SHOT LIST]
-00:00–00:03.5 | High-speed kinetic vehicular tracking, 35mm wide anamorphic — Continuing seamlessly from the last frame: Thắng nhìn ra góc xưởng. Tiếng gầm rú của động cơ Twin-Turbo, lốp xe cày xé mặt đường tạo khói trắng cuồn cuộn, camera tracking sát sườn xe ở góc cực thấp với độ nét sắc sảo.
-00:03.5–00:07.0 | Precision high-speed stunt & decisive counter, 50mm dynamic cam — Cú bẻ lái hoặc va chạm nảy lửa: nơi Lan đang ngồi bất động một mình sau vô lăng chiếc xe hatchback trắng của ba cô.. Thân xe trượt ngang ngoạn mục, tia lửa ma sát bắn tung tóe từ rào chắn; nhân vật ghì chặt vô lăng, nét mặt căng thẳng cao độ, cất giọng qua bộ đàm với khẩu hình chuẩn xác: Thắng: "Để anh nói chuyện với con bé."
+00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Thắng nhìn ra góc xưởng. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
+00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: nơi Lan đang ngồi bất động một mình sau vô lăng chiếc xe hatchback trắng của ba cô.. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Thắng: "Để anh nói chuyện với con bé."
 
 ---.
-00:07.0–00:10.0 | Drift recovery & relentless forward momentum, 35mm tracking — Chiếc xe lấy lại độ bám đường sau cú drift nghẹt thở, vệt bánh xe đen bóng in hằn trên mặt đường bốc khói; camera lia mượt về góc sau xe, khóa tĩnh khung hình cuối 0.5s để làm gốc nối liền cho sang cảnh sau.
+00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp sang cảnh sau.
 
 [SOUND]
-High-octane soundscape: deafening roar of high-revving Twin-Turbo engines, screeching tire burnouts, explosive nitrous purge hisses, rattling chassis vibration, and relentless action percussion.
+Subtle emotional sound design: gentle idling engine purr in the background, distant sound of canal water and night crickets, warm acoustic guitar melodies, and natural room reverberation.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip next scene.

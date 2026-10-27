@@ -1,28 +1,25 @@
 Continue the scene seamlessly from the final frame of clip 5, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action-comedy film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic lighting effects with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
-@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face, red wrist core; deep, calm Southern voice.
+@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face; deep, calm Southern voice.
 @Lan = LAN in GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, ice-blue visor showing face; quick, bright Southern voice.
-@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing face, glowing energy hammer; booming Southern voice.
+@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing bearded face, glowing energy hammer; booming Southern voice.
 @Khoi = KHÔI in GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing glasses and face; nervous, fast Southern voice.
-GĂNG XÁM HENCHMEN: men in grey tactical armor and glowing power gauntlets, silent.
 
 [CAMERA & LIGHT]
-Aggressive 35mm anamorphic wide tracking, low-angle 24mm heroic perspective, dynamic handheld combat camera with subtle micro-shake on kinetic impact. 90-degree shutter angle for razor-sharp martial arts without blurry motion artifacts. Gritty high-contrast cinematic lighting, volumetric rim light through dust/smoke, vibrant neon reflections on armor plates, and horizontal anamorphic flares.
+Close-up 85mm on the torn letter in Thắng's armored hand, whip pan to Khôi's shocked face clutching his head, followed by a dramatic snap zoom as intense deep-navy headlights pierce the alley from the front.
 
 [SHOT LIST]
-00:00–00:03.5 | Explosive kinetic initiation, 35mm low-angle tracking — Continuing seamlessly from the last frame: Thắng nhặt chiếc găng xám rơi trên đất lên xem xét. Đòn thế khai cuộc thần tốc, gia tốc bộc phát tức thì, camera trượt theo góc thấp bắt trọn đà chuyển động dứt khoát của nhân vật.
-00:03.5–00:07.0 | Decisive martial arts impact & speed-ramp execution, 50mm dynamic combat cam — Cú ra đòn và phản xạ dứt khoát: Bất ngờ, một chùm đèn pha ô tô xanh thẫm từ đầu ngõ chiếu thẳng vào gara. Va chạm đanh thép tạo xung lực dội ngược làm chấn động không khí, tia lửa cơ khí lóe sáng; nhân vật giữ thế dứt khoát, cất giọng Nam dõng dạc với khẩu hình khớp từng âm tiết: Thắng: "Ai tới nữa đây?"
-
----. Ánh mắt kiên định sắc lạnh qua kính mũ.
-00:07.0–00:10.0 | Kinetic shockwave dissipation & combat stance lock, 35mm low-angle — Sóng xung kích quét tròn làm bụi đất và mảnh vỡ dạt ra ngoài, đối thủ bị chấn động lùi lại hoặc dính đòn; nhân vật thu thế tấn vững như bàn thạch, cơ bắp căng tràn, ánh mắt khóa chặt mục tiêu. Khóa tĩnh khung hình cuối 0.5s để nối tiếp sang cảnh sau mượt mà không lỗi giật.
+00:00–00:03.5 | Shocking plot twist & close-up, 85mm — Thắng cẩn thận mở phong bì giấy da rút bức thư ra... Nhưng cả nhà bàng hoàng nhận ra: Do cú dằn co tranh cướp nảy lửa, bức thư đã bị xé rách làm đôi! Nửa tờ giấy chỉ còn dòng chữ: "BÍ MẬT Ở CẢNG CONTAINER SÀI GÒN... CẦN CHIẾC LÕI THỨ 5 ĐỂ...", nửa dưới đã bị tên cướp mang theo!
+00:03.5–00:07.0 | Hilarious despair & dialogue, 50mm — Khôi hai tay ôm lấy đầu mũ giáp vàng, mặt mếu máo kêu trời: "Trời ơi! Dằn co cho cố vô rồi rách mất khúc quan trọng nhất, nửa kia tụi nó cầm chạy mất dép rồi!". Thắng nheo mắt trầm ngâm nhìn vết rách, cất giọng bình tĩnh: Thắng: "Nửa bức thư này đủ để lần ra tụi nó!"
+00:07.0–00:10.0 | Mysterious headlights & cliffhanger freeze — Bất ngờ, một chùm đèn pha ô tô xanh thẫm cực sáng từ đầu hẻm quét thẳng vào cả đội; tiếng phanh gấp rít lên đanh thép. Thắng ngẩng phắt đầu lên che mắt: "Ai tới nữa đây?". Khóa tĩnh khung hình cuối 0.5s để nối tiếp sang Cảnh 5 (Đại úy Minh xuất hiện).
 
 [SOUND]
-Visceral blockbuster sound design: thunderous sub-bass impact thump, sharp metallic clangs, rapid whoosh of displaced air, mechanical armor servo hum, screaming turbocharged engine, and soaring brass orchestral percussion.
+Paper unfolding texture, Khôi's hilarious tragic wail, screeching high-performance pursuit tires, deep siren blip, and dramatic suspense strings.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip next scene.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look.

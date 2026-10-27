@@ -10,15 +10,15 @@ CONTAINER WAREHOUSE AT NIGHT: cavernous abandoned dockside warehouse, skylights,
 Time: Scene 32/45, timecode 31:00 – 32:00. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
 
 [CAMERA & LIGHT]
-High-speed 35mm anamorphic tracking shot mounted low on vehicle chassis, dynamic whip pans tracking drift arcs, intense motion blur on background with razor-sharp vehicle focus. Anamorphic horizontal lens flare streaks from headlights, reflections of streetlights and neon on glossy car bodies.
+Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain.
 
 [SHOT LIST]
-00:00–00:03.5 | High-speed kinetic vehicular tracking, 35mm wide anamorphic — Establishing scene & action ignition: Lan ngồi bất động, hai tay đặt hờ trên vô lăng bọc da sờn rách. Tiếng gầm rú của động cơ Twin-Turbo, lốp xe cày xé mặt đường tạo khói trắng cuồn cuộn, camera tracking sát sườn xe ở góc cực thấp với độ nét sắc sảo.
-00:03.5–00:07.0 | Precision high-speed stunt & decisive counter, 50mm dynamic cam — Cú bẻ lái hoặc va chạm nảy lửa: đôi mắt vô hồn nhìn vào khoảng không qua kính chắn gió.. Thân xe trượt ngang ngoạn mục, tia lửa ma sát bắn tung tóe từ rào chắn; nhân vật ghì chặt vô lăng, nét mặt căng thẳng cao độ, cất giọng qua bộ đàm với khẩu hình chuẩn xác: Lan: "Không có giáp... Mình chỉ là đứa vô dụng...".
-00:07.0–00:10.0 | Drift recovery & relentless forward momentum, 35mm tracking — Chiếc xe lấy lại độ bám đường sau cú drift nghẹt thở, vệt bánh xe đen bóng in hằn trên mặt đường bốc khói; camera lia mượt về góc sau xe, khóa tĩnh khung hình cuối 0.5s để làm gốc nối liền cho clip 2.
+00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Establishing scene & action ignition: Lan ngồi bất động, hai tay đặt hờ trên vô lăng bọc da sờn rách. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
+00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: đôi mắt vô hồn nhìn vào khoảng không qua kính chắn gió.. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Lan: "Không có giáp... Mình chỉ là đứa vô dụng...".
+00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp clip 2.
 
 [SOUND]
-High-octane soundscape: deafening roar of high-revving Twin-Turbo engines, screeching tire burnouts, explosive nitrous purge hisses, rattling chassis vibration, and relentless action percussion.
+Subtle emotional sound design: gentle idling engine purr in the background, distant sound of canal water and night crickets, warm acoustic guitar melodies, and natural room reverberation.
 
 [END FRAME]
 Clean freeze on the final frame of the action beat for seamless continuation into clip 2.

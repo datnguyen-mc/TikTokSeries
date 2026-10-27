@@ -1,30 +1,29 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon cinematic color grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync through clear helmet visors. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action-comedy film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon nighttime alley grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync through clear helmet visors. No subtitles or on-screen text.
 
 [CHARACTERS — match attached reference images]
-@Thang = THẮNG in his armor GIÁP GIÓ: the same man inside a sleek red-and-black armored suit of matte composite plates with angular wind-vent fins on the shoulders and calves and glowing red light lines; an open-face armored helmet with a clear amber visor, so his whole face, the silver streak at his LEFT temple and his lips stay visible; a glowing red hexagonal core on his LEFT wrist. Power: short dashes of speed that leave red wind streaks. Voice: deep, calm, steady Southern Vietnamese male voice.
-@Lan = LAN in her armor GIÁP CÁO: the same woman inside a slim white armored suit with ice-blue light lines and a small fox-ear crest on the helmet; an open-face armored helmet with a clear ice-blue visor, so her whole face and the ice-blue streak in her hair stay visible; a glowing white-blue hexagonal core on her LEFT wrist. Power: blinding speed and agility that leaves white-blue afterimages. Voice: quick, bright, confident Southern Vietnamese female voice.
-@Hai = HẢI in his armor GIÁP BÚA: the same big man inside heavy orange-and-gunmetal armor with thick shoulder plates and a short buffalo-horn crest on the helmet; an open-face armored helmet with a clear orange visor, so his bearded face stays visible; a glowing orange hexagonal core on his LEFT wrist. His steel wrench turns into a glowing orange energy hammer that knocks enemies back with harmless shockwaves of light. Voice: big, warm, booming Southern Vietnamese male voice.
-@Khoi = KHÔI in his armor GIÁP BIT: the same young man inside a slim yellow-and-black armored suit with circuit-like light lines and two palm-sized drones docked on his shoulders; an open-face armored helmet with a clear yellow visor, so his face and his round glasses stay visible; a glowing yellow hexagonal core on his LEFT wrist. Power: his drones fire rings of yellow light that switch off enemy gauntlets. Voice: fast, nervous, funny Southern Vietnamese male voice.
-GĂNG XÁM HENCHMEN: men in identical grey tactical armor with full helmets and glowing grey power gauntlets; they never speak.
+@Thang = THẮNG in his armor GIÁP GIÓ: red-and-black armor with wind-vent fins, open-face helmet with clear amber visor showing face; deep, calm Southern voice.
+@Lan = LAN in her armor GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, clear ice-blue visor showing face; quick, bright Southern voice.
+@Hai = HẢI in his armor GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, clear orange visor showing face, glowing energy hammer; booming Southern voice.
+@Khoi = KHÔI in his armor GIÁP BIT: slim yellow-black armor, two shoulder drones, clear yellow visor showing glasses and face; nervous, fast Southern voice.
+GĂNG XÁM HENCHMEN: men in grey tactical armor and glowing power gauntlets; they never speak.
 
 [SETTING]
-GARA BẢY AT NIGHT: two-story mechanic garage beside a canal in Saigon, oil-stained concrete floor, teal neon and warm work lamps, walls of hanging tools, hydraulic lift, mezzanine with wooden table; no readable text.
-Time: Scene 4/45, timecode 03:00 – 04:00. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
+GARA BẢY ALLEYWAY AT NIGHT: narrow Saigon alley beside the canal, rain puddles reflecting neon lights, an idling black armored truck blocking the street, corrugated walls; no readable text.
 
 [CAMERA & LIGHT]
-Aggressive 35mm anamorphic wide tracking, low-angle 24mm heroic perspective, dynamic handheld combat camera with subtle micro-shake on kinetic impact. 90-degree shutter angle for razor-sharp martial arts without blurry motion artifacts. Gritty high-contrast cinematic lighting, volumetric rim light through dust/smoke, vibrant neon reflections on armor plates, and horizontal anamorphic flares.
+Aggressive 35mm anamorphic wide tracking following Lan's blinding speed dash, sudden whip pan tilting upward as the precious envelope flies into the air. Volumetric steam from sewer grates, crisp neon reflections on white armor plates.
 
 [SHOT LIST]
-00:00–00:03.5 | Explosive kinetic initiation, 35mm low-angle tracking — Establishing scene & action ignition: Lan đạp chân xuống đất, biến thành một vệt bóng mờ trắng xanh lướt qua 2 tên cướp. Đòn thế khai cuộc thần tốc, gia tốc bộc phát tức thì, camera trượt theo góc thấp bắt trọn đà chuyển động dứt khoát của nhân vật.
-00:03.5–00:07.0 | Decisive martial arts impact & speed-ramp execution, 50mm dynamic combat cam — Cú ra đòn và phản xạ dứt khoát: tung liên hoàn cước tước găng của địch.. Va chạm đanh thép tạo xung lực dội ngược làm chấn động không khí, tia lửa cơ khí lóe sáng; nhân vật giữ thế dứt khoát, cất giọng Nam dõng dạc với khẩu hình khớp từng âm tiết: Lan: "Tốc độ này quá đã!". Ánh mắt kiên định sắc lạnh qua kính mũ.
-00:07.0–00:10.0 | Kinetic shockwave dissipation & combat stance lock, 35mm low-angle — Sóng xung kích quét tròn làm bụi đất và mảnh vỡ dạt ra ngoài, đối thủ bị chấn động lùi lại hoặc dính đòn; nhân vật thu thế tấn vững như bàn thạch, cơ bắp căng tràn, ánh mắt khóa chặt mục tiêu. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 2 mượt mà không lỗi giật.
+00:00–00:03.5 | Blinding speed dash & disarm, 35mm tracking — Lan dậm chân bộc phát tốc độ, hóa thành vệt bóng mờ trắng xanh lướt vun vút qua 2 tên cướp, tung liên hoàn cước Vovinam tước bay găng điện từ của địch trong chớp mắt.
+00:03.5–00:07.0 | Letter grapple & dialogue, 50mm dynamic cam — Lan vươn tay chộp lấy bức thư da vàng trên tay tên cướp. Tên cướp hoảng loạn giật lại khiến bức thư tuột khỏi tay, bay vút lên không trung lơ lửng giữa làn gió đêm! Lan phanh trượt gót giày, ngửa mặt nhìn bức thư bay, vừa cười vừa cất tiếng qua kính mũ trong suốt: Lan: "Tốc độ này đã quá, mà suýt chụp hụt bức thư!"
+00:07.0–00:10.0 | Aerial letter tracking & combat setup — Bức thư xoay vòng trên không trung trôi về phía thùng xe tải; toán cướp và Lan đồng loạt ngước mắt lao tới chuẩn bị cho pha tranh chấp trên không. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 2.
 
 [SOUND]
-Visceral blockbuster sound design: thunderous sub-bass impact thump, sharp metallic clangs, rapid whoosh of displaced air, mechanical armor servo hum, screaming turbocharged engine, and soaring brass orchestral percussion.
+Hypersonic whoosh of ice-blue speed dash, crisp bone-free kick disarm, paper fluttering in the wind, Lan's playful confident chuckle, and soaring brass action score.
 
 [END FRAME]
 Clean freeze on the final frame of the action beat for seamless continuation into clip 2.
 
 [AVOID]
-guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look, slow sluggish motion.

@@ -1,27 +1,25 @@
 Continue the scene seamlessly from the final frame of clip 5, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action-comedy film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing explosive sprint ignition. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
 @Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face, red wrist core; deep, calm Southern voice.
 @Lan = LAN in GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, ice-blue visor showing face; quick, bright Southern voice.
-@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing face, glowing energy hammer; booming Southern voice.
+@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing bearded face, glowing energy hammer; booming Southern voice.
 @Khoi = KHÔI in GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing glasses and face; nervous, fast Southern voice.
 
 [CAMERA & LIGHT]
-Heroic 35mm anamorphic wide framing orbiting slightly around the character, 50mm chest-up hero shot capturing the helmet visor snap. Radiant volumetric light shafts radiating from the wrist core, high dynamic range reflections on polished armor composite plating.
+Explosive 24mm low-angle tracking shot pulling backward rapidly as the four heroes ignite their suit thrusters, rushing straight toward camera out of the garage door into the dark neon-lit alley.
 
 [SHOT LIST]
-00:00–00:03.5 | Epic power surge & core resonance, 35mm anamorphic wide — Continuing seamlessly from the last frame: Bọn Găng Xám lùi lại. Luồng ánh sáng năng lượng thuần khiết bùng nổ, các vi mạch nano kích hoạt phát quang rực rỡ, gió xoáy năng lượng thổi tung tàn bụi xung quanh.
-00:03.5–00:07.0 | Sleek armor morphing & heroic declaration, 50mm hero shot — găng tay của chúng phát ra tiếng kêu rè rè quá tải trước áp lực từ 4 bộ giáp mới xuất hiện.. Các mảnh giáp cơ khí nano ôm khít cơ thể trong nháy mắt, kính mũ trong suốt trượt xuống bảo vệ khuôn mặt. Nhân vật bộc lộ hào khí dũng mãnh, hô vang câu khẩu lệnh dõng dạc: Tên cướp: "Quái vật! Bắn hạ tụi nó mau!"
-
----. Khẩu hình khớp hoàn hảo qua kính mũ.
-00:07.0–00:10.0 | Radiant aura stabilization & battle-ready lock, 35mm low-angle — Hào quang năng lượng từ lõi cổ tay trái lan tỏa dọc theo các đường viền LED của bộ giáp, các vây khí động học khẽ rung lên vào vị trí sẵn sàng chiến đấu. Khóa tĩnh khung hình cuối 0.5s làm gốc cho sang cảnh sau.
+00:00–00:03.5 | Battle ignition & commanding declaration, 35mm low-angle — Thắng vung tay chỉ thẳng ra hướng hẻm bờ kè, các vây gió sau bắp chân bừng sáng vệt đỏ rực; Hải giơ cao cây búa cam gầm lên như sấm, Lan hạ trọng tâm vào thế nước rút. Thắng ra lệnh vang dội: Thắng: "Bảo vệ di vật của Bác Bảy! Truy kích!"
+00:03.5–00:07.0 | Explosive dash & hilarious comic relief, 24mm wide tracking — Cả bốn người đồng loạt đạp chân bứt tốc phóng vút qua cửa cuốn gara, để lại 4 vệt sáng ngũ sắc tuyệt đẹp xé toạc màn đêm. Khôi chạy sau cùng với hai chân xoắn tít, vừa thở hổn hển vừa ngoái cổ lại hét qua bộ đàm: Khôi: "Khoan đã... Ai tắt bếp gas nồi thịt kho giùm em cái!"
+00:07.0–00:10.0 | High-velocity alley chase transition, 35mm Dutch tilt — Bóng bốn chiến binh lao vút vào hẻm tối bám sát đuôi chiếc xe tải bọc thép đang nhấn ga bỏ chạy, bụi đường cuộn trào dưới ánh đèn pha rực sáng. Khóa tĩnh khung hình cuối 0.5s để nối tiếp trận chiến dằn co bức thư ở Cảnh 4.
 
 [SOUND]
-Epic transformation sound design: high-frequency alien power hum, metallic latching of mechanized armor plates, celestial energy shockwave whoosh, and an inspiring orchestral brass crescendo.
+Four suit thrusters detonating in sonic boom sequence, gravel crunching under armored boots, Thắng's authoritative battle roar, Khôi's panicked hilarious squeak, and screaming tires in the alley.
 
 [END FRAME]
-Hold final frame still for 0.5s for seamless extension to clip next scene.
+Hold final frame still for 0.5s for seamless extension to clip 1 of Scene 4.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look.

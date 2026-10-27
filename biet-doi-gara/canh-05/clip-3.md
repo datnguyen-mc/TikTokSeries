@@ -1,24 +1,26 @@
 Continue the scene seamlessly from the final frame of clip 2, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing magnificent mechanical morphing. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
-@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face, red wrist core; deep, calm Southern voice.
+@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face; deep, calm Southern voice.
 @Lan = LAN in GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, ice-blue visor showing face; quick, bright Southern voice.
-@Minh = MINH in GIÁP KHIÊN: navy-and-silver armor, round energy shield on left arm, navy visor showing face; firm Southern voice.
+@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing bearded face, glowing energy hammer; booming Southern voice.
+@Khoi = KHÔI in GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing glasses and face; nervous, fast Southern voice.
+@Minh = MINH in GIÁP KHIÊN: navy-and-silver armor with clean straight lines, round energy shield of navy light on left forearm, open-face armored helmet with clear navy visor showing face and chin scar; firm Southern voice.
 
 [CAMERA & LIGHT]
-Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain.
+Heroic 35mm anamorphic wide orbit shot tracking the full-body suit deployment around Minh, cutting to 50mm hero low-angle as the silver energy shield flares to life. Dazzling navy and silver lens flares sweeping across the wet alley pavement.
 
 [SHOT LIST]
-00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Hoa văn nano xanh thẫm lập tức lan tỏa. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
-00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: bọc lấy cơ thể Minh thành Giáp Khiên oai phong với tấm khiên ánh sáng bạc hiện lên tay trái.. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Minh: "Thiết bị giáp nano... của Bác Bảy?".
-00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp clip 4.
+00:00–00:03.5 | Armor expansion & helmet latching, 35mm wide orbit — Các phiến composite nano màu xanh thẫm và bạc sáng bóng mở rộng bọc kín ngực, vai và đôi bốt cơ khí của Minh. Chiếc mũ giáp với kính che mắt màu xanh thẫm trong suốt trượt xuống chuẩn xác, để lộ rõ đôi mắt cương nghị và vết sẹo nhỏ trên cằm.
+00:03.5–00:07.0 | Energy shield deployment & heroic realization, 50mm low-angle — Cổ tay trái Minh bùng nổ luồng sáng xanh, một tấm khiên năng lượng hình tròn màu bạc viền xanh thẫm bung ra 'xoẹt' một tiếng chém gió uy lực. Minh thử vung tay thủ thế điệu nghệ của cảnh sát đặc nhiệm, thốt lên đầy xúc động: Minh: "Thiết bị giáp nano... của Bác Bảy năm xưa?"
+00:07.0–00:10.0 | Five-color convergence & standoff resolution, 35mm wide — Năm chiến binh trong năm sắc màu (Đỏ, Xanh băng, Cam, Vàng, Lam thẫm) đứng đối diện nhau giữa con hẻm tĩnh lặng sau cơn bão táp, tạo nên khung hình điện ảnh hùng tráng. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 4.
 
 [SOUND]
-Subtle emotional sound design: gentle idling engine purr in the background, distant sound of canal water and night crickets, warm acoustic guitar melodies, and natural room reverberation.
+Rapid interlocking clanks of nano plates, electric hum of plasma shield powering up, crisp swoosh of shield swinging through air, and Minh's firm composed voice.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip 4.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look.

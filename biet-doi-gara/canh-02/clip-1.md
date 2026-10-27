@@ -1,5 +1,5 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon nighttime grade with volumetric tungsten garage lamps and teal neon. No guns or firearms anywhere. Dialogue in natural Southern Vietnamese with authentic lip-sync. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action-comedy film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon nighttime grade with volumetric tungsten garage lamps and teal neon. No guns or firearms anywhere. Dialogue in natural Southern Vietnamese with authentic lip-sync. No subtitles or on-screen text.
 
 [CHARACTERS — match attached reference images]
 @Thang = THẮNG (36, the eldest, owner of Gara Bảy): a real Vietnamese man, about 178 cm tall, lean and strong, square jaw, calm dark eyes, light stubble, short black hair with a single silver streak at his LEFT temple (signature detail), a faded burn scar on his LEFT forearm. Civilian outfit: an olive-green mechanic's work jacket with the sleeves pushed up over a black T-shirt, dark work trousers, black boots, a red shop rag hanging from his back pocket. Voice: deep, calm, steady Southern Vietnamese male voice, mid-30s.
@@ -10,18 +10,18 @@ GĂNG XÁM HENCHMEN: men in identical grey tactical armor with full helmets and 
 
 [SETTING]
 GARA BẢY AT NIGHT: two-story mechanic garage beside a canal in Saigon, oil-stained concrete floor, teal neon and warm work lamps, walls of hanging tools, hydraulic lift, mezzanine with wooden table; no readable text.
-Time: Scene 2/45, timecode 01:00 – 02:00. Atmosphere: high-adrenaline action, sudden tactical ambush, maximum tension.
+Time: Scene 2/45, timecode 01:00 – 02:00. Atmosphere: sudden tactical ambush, high-adrenaline blockbuster action blended with funny, relatable family panic.
 
 [CAMERA & LIGHT]
-Aggressive low-angle 35mm anamorphic wide tracking with sudden camera shake on impact. Volumetric backlighting cutting through heavy dust and smoke; anamorphic horizontal lens flare streaks from truck headlights piercing the dark garage.
+Aggressive low-angle 35mm anamorphic wide tracking with sudden violent camera shake on impact, whip pan to comedic reaction. Volumetric headlights piercing dust and smoke; anamorphic blue horizontal lens flares.
 
 [SHOT LIST]
-00:00–00:03.5 | Explosive kinetic impact, 35mm low-angle tracking — RẦM! Cửa cuốn sắt của Gara Bảy bị cáp tời xe tải giật sập tung toé với lực kéo dữ dội. Mảnh kim loại văng rền vang, bụi xi măng mù mịt bốc lên cuồn cuộn. Chiếc xe tải đen lù lù đỗ chắn kín ngõ, hai luồng đèn pha rực sáng quét xuyên qua làn khói.
-00:03.5–00:07.0 | Dynamic push-in on reaction & dialogue, 50mm — Khôi giật mình nhảy thót lùi lại sau bàn ăn, hai tay ôm ghì chiếc laptop, đôi mắt sau cặp kính tròn trợn trừng hoảng hốt kêu to: Khôi: "Á! Cướp sập tiệm rồi anh ơi!"
-00:07.0–00:10.0 | Heroic low-angle pan & combat lock, 35mm — Thắng và Hải lập tức đứng bật dậy chắn trước mặt gia đình. Hải rút nhanh chiếc cờ lê thép ngoại cỡ vào thế thủ, ánh mắt Thắng đanh lại lạnh lùng nhìn thẳng vào làn khói bụi. Khóa tĩnh khung hình cuối 0.5s để nối tiếp mượt mà sang clip 2.
+00:00–00:03.5 | Explosive kinetic impact, 35mm low-angle tracking — RẦM! Cửa cuốn sắt của Gara Bảy bị cáp tời xe tải giật bung toang hoác với lực kéo khủng khiếp. Mảnh sắt văng tung tóe, bụi xi măng mù mịt bốc lên cuồn cuộn. Chiếc xe tải đen lù lù chèn ngang ngõ, đèn pha công suất lớn rọi mù mắt vào bàn ăn gia đình.
+00:03.5–00:07.0 | Dynamic push-in on comical panic & dialogue, 50mm — Khôi giật mình nhảy thót chân lên ghế gỗ, một tay ôm khư khư chiếc laptop, tay kia vẫn giữ chặt tô cơm sườn đang ăn dở, mặt tái mét la làng bằng chất giọng miền Nam tếu táo: Khôi: "Á! Cướp sập tiệm rồi anh ơi, bể cả chén cơm sườn của em!"
+00:07.0–00:10.0 | Heroic low-angle pan & combat lock, 35mm — Hải quẳng vội cái vá múc canh, rút phắt chiếc cờ lê thép ngoại cỡ xoay tròn đánh 'keng' một tiếng đanh thép chắn trước mặt cả nhà. Thắng mắt đanh lại lạnh lùng bước lên, thủ thế vững như bàn thạch. Khóa tĩnh khung hình cuối 0.5s để nối liền clip 2.
 
 [SOUND]
-Visceral sound design: violent metallic screech of tearing metal, explosive thud of collapsing shutter, screaming truck engine, sub-bass pulse, and high-tension cinematic strings.
+Deafening crash of tearing iron shutter, screaming diesel truck engine, clattering spoon in a bowl, funny panicked male shriek, heavy sub-bass impact, and surging dramatic orchestra.
 
 [END FRAME]
 Clean freeze on the final frame of the action beat for seamless continuation into clip 2.

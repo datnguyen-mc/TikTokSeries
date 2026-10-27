@@ -1,28 +1,30 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon cinematic color grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync through clear helmet visors. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action-comedy film style. 24fps high-budget Hollywood cinematography, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. High-contrast Saigon alley night grade, 24fps. No guns or firearms anywhere. Dialogue in Vietnamese with natural Southern accent and lip-sync. No subtitles or on-screen text.
 
 [CHARACTERS — match attached reference images]
-@Thang = THẮNG in his armor GIÁP GIÓ: the same man inside a sleek red-and-black armored suit of matte composite plates with angular wind-vent fins on the shoulders and calves and glowing red light lines; an open-face armored helmet with a clear amber visor, so his whole face, the silver streak at his LEFT temple and his lips stay visible; a glowing red hexagonal core on his LEFT wrist. Power: short dashes of speed that leave red wind streaks. Voice: deep, calm, steady Southern Vietnamese male voice.
-@Lan = LAN in her armor GIÁP CÁO: the same woman inside a slim white armored suit with ice-blue light lines and a small fox-ear crest on the helmet; an open-face armored helmet with a clear ice-blue visor, so her whole face and the ice-blue streak in her hair stay visible; a glowing white-blue hexagonal core on her LEFT wrist. Power: blinding speed and agility that leaves white-blue afterimages. Voice: quick, bright, confident Southern Vietnamese female voice.
-@Minh = MINH in her armor GIÁP KHIÊN: the same woman inside navy-and-silver armor with clean straight lines and a round energy shield of navy light on her left forearm; an open-face armored helmet with a clear navy visor, so her face and the scar on her chin stay visible; a glowing navy hexagonal core on her LEFT wrist. Power: an energy shield and navy light cuffs that lock enemy gauntlets for arrest. Voice: firm, low, clear Southern Vietnamese female voice.
+@Thang = THẮNG in his armor GIÁP GIÓ: red-and-black armor with wind fins, open-face helmet with amber visor showing face, silver streak at LEFT temple; deep, calm Southern voice.
+@Lan = LAN in her armor GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, open helmet with ice-blue visor showing face; quick, bright Southern voice.
+@Khoi = KHÔI in his armor GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing round glasses and nervous face; fast, funny Southern voice.
+@Hai = HẢI in his armor GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing bearded face, glowing energy hammer; booming Southern voice.
+@Minh = MINH (31, a police detective captain): a real Vietnamese woman, about 168 cm tall, athletic, sharp straight eyebrows, serious dark eyes, a thin pale scar on her chin (signature detail), black hair in a tight low bun. Civilian outfit: a black plain-clothes jacket over a white shirt, dark trousers, low black boots, no badges or readable text. Voice: firm, low, clear Southern Vietnamese female voice, mid-30s.
 
 [SETTING]
-GARA BẢY AT NIGHT: two-story mechanic garage beside a canal in Saigon, oil-stained concrete floor, teal neon and warm work lamps, walls of hanging tools, hydraulic lift, mezzanine with wooden table; no readable text.
-Time: Scene 5/45, timecode 04:00 – 05:00. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
+ALLEY ENTRANCE OUTSIDE GARA BẢY AT NIGHT: dark narrow paved alley beside the canal, tire skid marks, steam rising from puddles, neon reflection from streetlamps; no readable signs.
+Time: Scene 5/45, timecode 04:00 – 05:00. Atmosphere: high suspense, blockbuster tension, subtle comic relief.
 
 [CAMERA & LIGHT]
-High-speed 35mm anamorphic tracking shot mounted low on vehicle chassis, dynamic whip pans tracking drift arcs, intense motion blur on background with razor-sharp vehicle focus. Anamorphic horizontal lens flare streaks from headlights, reflections of streetlights and neon on glossy car bodies.
+Dramatic low-angle 24mm anamorphic shot as the police sedan skids to a halt, dual headlights cutting through alley mist with dazzling horizontal lens flares. Whip-pan to Khôi hilariously hiding the torn letter behind his back.
 
 [SHOT LIST]
-00:00–00:03.5 | High-speed kinetic vehicular tracking, 35mm wide anamorphic — Establishing scene & action ignition: Một chiếc sedan cảnh sát truy kích màu xanh thẫm viền bạc phanh gấp. Tiếng gầm rú của động cơ Twin-Turbo, lốp xe cày xé mặt đường tạo khói trắng cuồn cuộn, camera tracking sát sườn xe ở góc cực thấp với độ nét sắc sảo.
-00:03.5–00:07.0 | Precision high-speed stunt & decisive counter, 50mm dynamic cam — Cú bẻ lái hoặc va chạm nảy lửa: Cửa xe mở, Đại úy Minh bước xuống với phong thái thép. Thân xe trượt ngang ngoạn mục, tia lửa ma sát bắn tung tóe từ rào chắn; nhân vật ghì chặt vô lăng, nét mặt căng thẳng cao độ, cất giọng qua bộ đàm với khẩu hình chuẩn xác: Minh: "Tất cả đứng yên! Cảnh sát hình sự!".
-00:07.0–00:10.0 | Drift recovery & relentless forward momentum, 35mm tracking — Chiếc xe lấy lại độ bám đường sau cú drift nghẹt thở, vệt bánh xe đen bóng in hằn trên mặt đường bốc khói; camera lia mượt về góc sau xe, khóa tĩnh khung hình cuối 0.5s để làm gốc nối liền cho clip 2.
+00:00–00:03.5 | Tactical arrival & headlights flare, 24mm low-angle — Một chiếc sedan cảnh sát truy kích màu xanh thẫm viền bạc phanh gấp ken két chắn ngay đầu ngõ. Cửa xe bật mở, Đại úy Minh bước xuống với phong thái thép sắc lạnh, áo khoác đen tung bay, ánh mắt sắc như dao rọi thẳng vào bốn bộ giáp phát sáng.
+00:03.5–00:07.0 | Authoritative command & hilarious denial, 50mm dynamic push-in — Minh giơ lệnh kiểm tra, dõng dạc quát lớn: Minh: "Tất cả đứng yên! Cảnh sát hình sự!". Khôi trong Giáp Bit vàng giật nảy mình, vội vàng giấu nửa bức thư rách ra sau mông, xua xua tay phân trần lia lịa: Khôi: "Dạ tụi em là dân lành, không có đua xe!"
+00:07.0–00:10.0 | Mystical core detection & transition, 35mm — Phía sau Minh, luồng ánh sáng xanh thẫm của Lõi Giáp thứ năm đang bay lơ lửng bỗng phát ra xung nhịp dồn dập, hướng thẳng về phía nữ cảnh sát. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 2.
 
 [SOUND]
-High-octane soundscape: deafening roar of high-revving Twin-Turbo engines, screeching tire burnouts, explosive nitrous purge hisses, rattling chassis vibration, and relentless action percussion.
+Screeching sedan brakes on asphalt, car door slamming shut with authority, Minh's stern metallic voice, Khôi's comically panicked Southern squeak, and a rising celestial hum from the floating core.
 
 [END FRAME]
-Clean freeze on the final frame of the action beat for seamless continuation into clip 2.
+Clean freeze on the final frame of Minh looking at the glowing core for seamless continuation into clip 2.
 
 [AVOID]
-guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+guns, firearms, knives, blood, gore, visible wounds, deaths, real brand logos, readable license plates, watermarks, text overlays, extra fingers, cartoon or anime look.

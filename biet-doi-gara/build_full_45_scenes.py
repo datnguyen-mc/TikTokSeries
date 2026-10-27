@@ -104,6 +104,10 @@ def get_setting_key(setting_str, scene_num):
 def classify_clip(desc, dialogue, title):
     text = (desc + " " + title).lower()
     
+    # 0. DRAMA / COMEDY (Meals, family gathering, shrine)
+    if any(k in text for k in ["bữa cơm", "bữa lẩu", "lẩu cù lao", "mâm cơm", "ăn cơm", "nâng ly", "trao trả", "bàn thờ", "di ảnh"]) and not any(k in text for k in ["tập kích", "đập nát", "hỗn chiến"]):
+        return "DRAMA"
+
     # 1. ARMOR TRANSFORMATION
     if any(k in text for k in ["lõi", "khởi động", "biến hình", "bọc lấy", "áo giáp", "phát sáng 5 màu", "ngũ sắc"]):
         if any(k in text for k in ["khởi động", "bay thẳng tới", "ghim vào", "khoác giáp", "bọc kín", "mở bung", "thu hồi"]):
@@ -114,7 +118,7 @@ def classify_clip(desc, dialogue, title):
         return "COMBAT"
         
     # 3. RACING & VEHICULAR
-    if any(k in text for k in ["đua", "drift", "vô lăng", "bẻ lái", "chân ga", "khúc cua", "húc", "xe tải", "xe bán tải", "hắc phong", "phanh", "bốc đầu", "vượt xe", "pit-stop", "nitro"]):
+    if any(k in text for k in ["đua", "drift", "bẻ lái", "chân ga", "khúc cua", "húc", "xe tải", "xe bán tải", "hắc phong", "phanh gấp", "bốc đầu", "vượt xe", "pit-stop", "nitro"]):
         return "RACING"
         
     # 4. SUSPENSE & TACTICAL
@@ -208,6 +212,12 @@ def get_blockbuster_sound(clip_type):
 
 for num_str, title, time_range, setting_str, body in scenes:
     scene_num = int(num_str)
+    
+    # BẢO VỆ CÁC CẢNH THỦ CÔNG ĐÃ TỐI ƯU TINH XẢO (BỨC THƯ, DẰN CO & HÀI HƯỚC)
+    if scene_num in [1, 2, 3, 4, 5, 6, 44, 45]:
+        print(f"Bảo tồn Cảnh {scene_num:02d} đã tối ưu thủ công tinh xảo (bức thư & hài hước).")
+        continue
+
     dir_name = f"canh-{scene_num:02d}"
     dir_path = os.path.join(BASE_DIR, dir_name)
     os.makedirs(dir_path, exist_ok=True)
@@ -321,11 +331,7 @@ Theo bạn tình huống ở Cảnh {scene_num} này ai xử lý ngầu nhất? 
     with open(os.path.join(dir_path, "caption.md"), "w", encoding="utf-8") as f:
         f.write(caption_content)
         
-    # 3. TẠO CLIP-1.MD ĐẾN CLIP-6.MD (Giữ lại Cảnh 02 thủ công tinh xảo)
-    if scene_num == 2:
-        print(f"Bảo tồn Cảnh 02 đã tối ưu thủ công tinh xảo.")
-        continue
-
+    # 3. TẠO CLIP-1.MD ĐẾN CLIP-6.MD
     # Xác định các nhân vật xuất hiện
     chars_present = []
     keys_str = " ".join([c['keys'] for c in clips_data])

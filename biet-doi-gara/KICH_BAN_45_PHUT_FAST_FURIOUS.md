@@ -76,103 +76,103 @@
 
 ### CẢNH 01: Bữa Cơm Ven Kênh (00:00 – 01:00)
 *Bối cảnh: Hoàng hôn trên kênh Nhiêu Lộc & Xưởng Gara Bảy.*
-* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `KHOI`):** MỞ MÀN ĐIỆN ẢNH (COLD OPEN & TITLE CARD): Flycam lướt trên ráng chiều vàng rực kênh Sài Gòn, giọng dẫn truyện của Thắng vang lên. Tựa phim *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN* hiện lên hoành tráng. Máy quay hạ xuống xưởng Gara Bảy, dưới gầm xe hatchback trắng, Lan trượt ván ra, mặt dính vệt dầu mỡ, tay cầm cờ lê vặn ốc.  
-  *Thoại:* Thắng (Voice-over): "Ở nhà này, tụi tui chạy vì người mình thương!" · Lan: "Con ốc này cứng đầu ghê!"
-* **Clip 2 (FR):** Cận cảnh Hải bên bếp gas mini trên gác lửng, to lớn lực lưỡng trong chiếc tạp dề da, tay đảo chảo thịt kho tiêu thơm nức mũi.  
-  *Thoại:* Hải: "Cơm nước xong rồi, mấy đứa vô ăn!"
-* **Clip 3 (FR):** Khôi ngồi gục đầu trước giàn ba màn hình vi tính ngổn ngang vi mạch, chiếc kính tròn trễ xuống mũi, giật bắn mình vì tiếng chuông báo.  
-  *Thoại:* Khôi: "Em chuẩn bị hack xong vệ tinh rồi mà!"
-* **Clip 4 (FR):** Thắng bước đến bàn làm việc kỷ niệm của Bác Bảy ở góc xưởng, đặt tay lên bức ảnh người thầy thợ máy cũ. Bên cạnh ảnh là chiếc hộp đồ nghề bằng thép xỉn màu khóa kín.  
-  *Thoại:* Thắng: "Hôm nay tụi nhỏ ngoan lắm Bác."
-* **Clip 5 (FR):** Lan bước tới vuốt ve vô lăng chiếc hatchback trắng, ánh mắt bồi hồi nhớ về người cha đã khuất.  
+* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `KHOI`):** MỞ MÀN ĐIỆN ẢNH (COLD OPEN & TITLE CARD): Flycam 24mm anamorphic lướt trên ráng chiều vàng rực kênh Sài Gòn, giọng dẫn truyện của Thắng vang lên. Tựa phim *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN* hiện lên hoành tráng. Máy quay hạ thấp dolly-in xuống xưởng Gara Bảy, dưới gầm xe hatchback trắng, Lan trượt ván ra, mặt dính vệt dầu mỡ, tay cầm cờ lê vặn ốc nở nụ cười tinh quái.  
+  *Thoại:* Thắng (Voice-over): "Ở nhà này, tụi tui chạy vì người mình thương!" · Lan: "Con ốc này tính lì hơn anh Khôi nữa!"
+* **Clip 2 (FR):** Cận cảnh Hải bên bếp gas mini trên gác lửng, to lớn lực lưỡng trong chiếc tạp dề da, tay đảo chảo thịt kho tiêu thơm nức mũi, tay kia cầm đôi đũa dài chỉ trỏ nhắc nhở.  
+  *Thoại:* Hải: "Cơm nước xong rồi, đứa nào không rửa tay là nhịn đói nghe!"
+* **Clip 3 (FR):** Khôi ngồi gục đầu trước giàn ba màn hình vi tính ngổn ngang vi mạch, vừa nhai ngấu nghiến miếng dưa leo vừa gõ phím cạch cạch, kính trễ xuống mũi giật thót tim vì tiếng còi báo động. Hải đi ngang cốc nhẹ đầu em trai kéo ra bàn ăn.  
+  *Thoại:* Khôi: "Em đang hack định vị vệ tinh mà anh hai làm rớt miếng dưa leo của em!"
+* **Clip 4 (FR):** Thắng bước đến bàn làm việc kỷ niệm của Bác Bảy ở góc xưởng, đặt tay lên bức ảnh người thầy thợ máy cũ. Bên cạnh ảnh là chiếc hộp đồ nghề bằng thép xỉn màu khóa kín, trên nắp đặt một **bức thư bằng giấy da niêm phong sáp đỏ mang dòng chữ: "GỬI 4 ĐỨA NHỎ"**. Khôi tò mò thò tay tính bóc, Thắng gõ nhẹ tay can ngăn.  
+  *Thoại:* Khôi: "Thư gì bí mật dữ vậy anh?" · Thắng: "Di thư Bác Bảy dặn: Gara gặp đại nạn mới được mở!"
+* **Clip 5 (FR):** Lan bước tới vuốt ve vô lăng chiếc hatchback trắng, ánh mắt bồi hồi nhớ về người cha đã khuất, Thắng đứng cạnh mỉm cười ấm áp.  
   *Thoại:* Lan: "Xe của ba chạy êm ru rồi anh Thắng."
-* **Clip 6 (FR):** Cả bốn người quây quần bên mâm cơm gỗ. Đột nhiên đèn neon chớp giật liên hồi, mặt nước kênh bên ngoài rung chuyển dữ dội.  
-  *Thoại:* Thắng: "Khoan đã... Có xe lớn đang tới!"
+* **Clip 6 (FR):** Cả bốn người quây quần bên mâm cơm gỗ. Hải vừa gắp miếng sườn cho Lan thì đột nhiên đèn neon chớp giật liên hồi, mặt nước kênh ngoài rung chuyển dữ dội bởi tiếng động cơ xe tải hạng nặng tiến vào hẻm. Khôi húp vội thìa canh sặc sụa tấu hài.  
+  *Thoại:* Khôi: "Ặc... Ai ghé ăn chực giờ cơm vậy trời?!" · Thắng: "Khoan đã... Có xe lớn đang tới!"
 
 ---
 
 ### CẢNH 02: Tập Kích Bất Ngờ (01:00 – 02:00)
-*Bối cảnh: Cửa cuốn Gara Bảy.*
-* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `KHOI`, `GOONS`):** RẦM! Cửa cuốn sắt bị móc cáp giật sập tung toé. Khói bụi mù mịt, chiếc xe tải đen lù lù đỗ chắn hẻm.  
-  *Thoại:* Khôi: "Á! Cướp sập tiệm rồi anh ơi!"
-* **Clip 2 (FR):** Bốn tên mặc đồ đen đeo găng phát quang xám bước vào. Tên cầm đầu vung tay, sóng chấn động hất tung dãy lốp xe dự phòng.  
-  *Thoại:* Tên cướp: "Giao chiếc hatchback và hộp sắt ra đây!"
-* **Clip 3 (FR):** Hải gầm lên như gấu rừng, cầm cờ lê ngoại cỡ xông tới chắn trước bàn ăn. Một tên găng xám tung cú đấm đẩy lùi cả thân hình đồ sộ của Hải.  
-  *Thoại:* Hải: "Đụng vô tiệm này là coi chừng tao!"
-* **Clip 4 (FR):** Hai tên còn lại lao tới bẻ khóa chiếc hatchback trắng. Lan phi người qua nắp capo, dùng cước gạt văng thanh xà beng của tên cướp.  
-  *Thoại:* Lan: "Đừng hòng đụng vô xe của ba tao!"
-* **Clip 5 (FR):** Tên cầm đầu kích hoạt găng xung kích nện xuống sàn. Sóng áp suất hất Lan ngã nhào, chiếc hộp đồ nghề Bác Bảy trên kệ sắt rung lắc rồi rơi tự do.  
-  *Thoại:* Thắng: "Lan! Coi chừng!"
-* **Clip 6 (FR):** Chiếc hộp thép đập xuống đất nứt toác. Thay vì dụng cụ sửa chữa, 5 khối kim loại lục giác phát sáng rực rỡ 5 màu bay lơ lửng giữa không trung.  
-  *Thoại:* Khôi: "Ủa... Cái gì phát sáng vậy?!"
+*Bối cảnh: Cửa cuốn Gara Bảy, hẻm bờ kè.*
+* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `KHOI`, `GOONS`):** RẦM! Cửa cuốn sắt bị móc cáp giật sập tung toé, khói bụi mù mịt. Một chiếc xe tải bọc thép xám đen lù lù chắn ngang ngõ. Khôi giật bắn mình, hai tay ôm khư khư tô cơm sườn và chiếc laptop lủi nhanh xuống gầm bàn gỗ.  
+  *Thoại:* Khôi: "Á! Cướp sập tiệm rồi anh ơi, cứu tô cơm sườn của em!"
+* **Clip 2 (FR):** Bốn tên mặc đồ đen đeo găng phát quang xám bước vào xưởng. Tên cầm đầu vung găng tay phóng sóng chấn động hất văng dãy lốp xe dự phòng, gằn giọng đòi đồ.  
+  *Thoại:* Tên cướp: "Giao chiếc hatchback và hộp sắt có bức thư ra đây!"
+* **Clip 3 (FR):** Hải gầm lên như gấu rừng, cầm cờ lê ngoại cỡ xông tới chắn trước mâm cơm. Hải bước hụt giẫm bẹp vỏ lon nước ngọt trượt nhẹ một nhịp nhưng kịp lấy lại thế, vung cờ lê đỡ đòn đấm sóng xung kích của tên hộ pháp găng xám.  
+  *Thoại:* Hải: "Bữa cơm gia đình tao mà tụi bây dám phá hả?!"
+* **Clip 4 (FR):** Hai tên còn lại lao tới bẻ khóa chiếc hatchback trắng. Lan phi người qua nắp capo bằng cú trượt mượt mà, xoay người 360 độ tung cước Vovinam đá bay thanh xà beng của tên cướp cắm phập vào vách gỗ.  
+  *Thoại:* Lan: "Đụng vô xe của ba tao là gãy răng nghe con!"
+* **Clip 5 (FR):** Tên cầm đầu kích hoạt găng nện xuống sàn bê tông. Sóng áp suất làm chiếc hộp đồ nghề Bác Bảy trên kệ sắt rung lắc rồi rơi tự do xuống đất. Khôi từ gầm bàn chồm lên định chộp nhưng hụt tay.  
+  *Thoại:* Thắng: "Lan! Khôi! Coi chừng cái hộp!"
+* **Clip 6 (FR):** Chiếc hộp thép nứt toác. Bức thư giấy da văng ra khỏi hộp, tên phó tướng nhanh tay chộp lấy bức thư nhét vào túi áo rồi tháo chạy ra ngõ! Đồng thời, từ đáy hộp, 5 khối kim loại lục giác phát sáng rực rỡ ngũ sắc bay lơ lửng giữa không trung. Khôi tròn xoe mắt thảng thốt.  
+  *Thoại:* Khôi: "Ủa... Vừa mất bức thư quan trọng mà vừa lòi ra hột xoàn phát sáng là sao mấy má?!"
 
 ---
 
 ### CẢNH 03: Lõi Bảy Khởi Động (02:00 – 03:00)
 *Bối cảnh: Trong xưởng Gara Bảy, ánh sáng ngũ sắc chói lòa.*
-* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `KHOI`):** Khối kim loại đỏ rực bay thẳng tới cổ tay trái của Thắng, tự động siết chặt thành một vòng tay năng lượng phát sáng rực rỡ.  
+* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `KHOI`):** Khối kim loại đỏ rực bay thẳng tới cổ tay trái của Thắng, tự động siết chặt thành một vòng tay năng lượng phát sáng rực rỡ, truyền nhịp đập sinh học mạnh mẽ.  
   *Thoại:* Thắng: "Lõi này... có nhịp tim!"
-* **Clip 2 (FR):** Lõi trắng xanh băng ghim vào cổ tay Lan; lõi cam ghim vào tay Hải; lõi vàng ghim vào tay Khôi. Lõi thứ năm màu xanh thẫm bay vụt ra ngoài cửa gara.  
+* **Clip 2 (FR):** Lõi trắng xanh băng ghim vào cổ tay Lan; lõi cam ghim vào tay Hải; lõi vàng ghim vào tay Khôi. Lõi thứ năm màu xanh thẫm bay vút qua cửa sổ gara ra ngoài hẻm tối.  
   *Thoại:* Lan: "Nó dính chặt vào tay em rồi!"
-* **Clip 3 (FR):** Trong tâm trí Thắng vang lên giọng nói ấm áp quen thuộc của Bác Bảy: *"Khi nhà gặp nạn, hãy đứng lên bảo vệ nhau!"*  
+* **Clip 3 (FR):** Trong tâm trí Thắng vang lên giọng nói ấm áp quen thuộc của Bác Bảy: *"Khi nhà gặp nạn, hãy đứng lên bảo vệ nhau!"*. Thắng siết chặt nắm tay, mắt ánh lên quyết tâm sắt đá.  
   *Thoại:* Thắng: "Lõi Bảy, khởi động!"
-* **Clip 4 (FR · `THANG_G`):** Các tấm giáp cơ khí nano màu đỏ đen mở bung từ cổ tay Thắng, bọc kín ngực, vai và chân. Kính mũ hổ phách trượt xuống thấy rõ ánh mắt sắc lạnh.  
+* **Clip 4 (FR · `THANG_G`):** Các tấm giáp cơ khí nano màu đỏ đen mở bung từ cổ tay Thắng, bọc kín ngực, vai và chân. Kính mũ hổ phách trượt xuống thấy rõ ánh mắt sắc lạnh và vệt tóc bạc bên thái dương.  
   *Thoại:* Thắng: "Sức mạnh này... thật phi thường!"
-* **Clip 5 (FR · `LAN_G`, `HAI_G`, `KHOI_G`):** Lan khoác Giáp Cáo trắng xanh thanh thoát; Hải hóa chiến binh Giáp Búa cam hộ pháp; Khôi khoác Giáp Bit vàng với hai drone mini trên vai.  
-  *Thoại:* Hải: "Người tao nhẹ như lông hồng vậy!"
-* **Clip 6 (FR · Bọn cướp kinh hãi):** Bọn Găng Xám lùi lại, găng tay của chúng phát ra tiếng kêu rè rè quá tải trước áp lực từ 4 bộ giáp mới xuất hiện.  
-  *Thoại:* Tên cướp: "Quái vật! Bắn hạ tụi nó mau!"
+* **Clip 5 (FR · `LAN_G`, `HAI_G`, `KHOI_G`):** Lan khoác Giáp Cáo trắng xanh thanh thoát; Hải hóa chiến binh Giáp Búa cam hộ pháp; Khôi khoác Giáp Bit vàng với hai drone mini trên vai. Khôi sờ khắp người ngỡ ngàng rồi giật nảy mình khi nhớ ra bức thư.  
+  *Thoại:* Khôi: "Chết rồi anh Thắng ơi! Tên cướp cuỗm mất bức thư của Bác Bảy nhảy lên xe tải rồi!"
+* **Clip 6 (FR · Lệnh truy kích):** Hải giơ cây búa cam sáng rực, Lan vào thế chạy nước rút. Thắng chỉ tay ra hẻm, cả bốn người đồng loạt tăng tốc bứt phá lao ra đường đuổi theo xe tải để đoạt lại bức thư. Khôi vừa chạy vừa la toáng lên đầy hài hước.  
+  *Thoại:* Khôi: "Khoan đã... Ai tắt bếp gas nồi thịt kho giùm em cái!" · Thắng: "Bảo vệ di vật của Bác Bảy! Truy kích!"
 
 ---
 
 ### CẢNH 04: Trận Chiến Đầu Tiên (03:00 – 04:00)
-*Bối cảnh: Hẻm trước gara và ven bờ kè.*
-* **Clip 1 (ING · `LAN_G`, `GOONS`):** Lan đạp chân xuống đất, biến thành một vệt bóng mờ trắng xanh lướt qua 2 tên cướp, tung liên hoàn cước tước găng của địch.  
-  *Thoại:* Lan: "Tốc độ này quá đã!"
-* **Clip 2 (FR · `HAI_G`):** Hải vung chiếc cờ lê nay đã rực sáng thành Búa Năng Lượng Cam, nện xuống mặt đường hất tung tên to con nhất bay dính vào thùng xe tải.  
-  *Thoại:* Hải: "Nếm thử búa của anh Bảy!"
-* **Clip 3 (FR · `KHOI_G`):** Hai drone mini trên vai Khôi bay vút lên, bắn ra vòng sáng EMP vàng khè làm chập mạch toàn bộ hệ thống găng của toán cướp.  
-  *Thoại:* Khôi: "Tắt điện hết nghe mấy cưng!"
-* **Clip 4 (FR · `THANG_G`):** Thắng lướt đi để lại vệt gió đỏ rực, xuất hiện ngay trước đầu xe tải xám, tung một cú đấm năng lượng chặn đứng chiếc xe đang cố nhấn ga tháo chạy.  
-  *Thoại:* Thắng: "Định chạy đi đâu?"
-* **Clip 5 (FR):** Bọn cướp hoảng loạn nhảy khỏi xe, vứt lại vũ khí cắm đầu chạy thục mạng vào màn đêm hẻm nhỏ.  
-  *Thoại:* Khôi: "Chạy lẹ hơn thỏ nữa!"
-* **Clip 6 (FR · `THANG_G`):** Thắng nhặt chiếc găng xám rơi trên đất lên xem xét. Bất ngờ, một chùm đèn pha ô tô xanh thẫm từ đầu ngõ chiếu thẳng vào gara.  
-  *Thoại:* Thắng: "Ai tới nữa đây?"
+*Bối cảnh: Hẻm trước gara và ven bờ kè, cuộc rượt đuổi dằn co bức thư.*
+* **Clip 1 (ING · `LAN_G`, `GOONS`):** Lan bứt tốc để lại vệt bóng mờ trắng xanh, lao vút lên nóc thùng xe tải, tung đòn kẹp cổ Vovinam hạ gục tên gác đuôi xe, bàn tay chộp lấy góc phong bì thư tên cướp đang giữ.  
+  *Thoại:* Lan: "Tốc độ này quá đã! Trả thư đây!"
+* **Clip 2 (FR · `HAI_G`):** Tên hộ pháp địch chồm tới giật lại, Hải từ dưới hẻm nhảy vọt lên vung Búa Cam nện thẳng xuống mặt đường tạo chấn động rung chuyển, hất chiếc xe tải chao đảo, khiến bức thư văng tít lên không trung. Hải nhảy lên chộp nhưng bị lố đà cắm đầu vào đống bao cát.  
+  *Thoại:* Hải: "Bắt lấy bức thư... Á xui ghê trượt chân rồi!"
+* **Clip 3 (FR · `KHOI_G`):** Hai drone mini của Khôi phóng ra chùm tia lực vàng khè kẹp chặt bức thư trên không trung. Tên phó tướng trên nóc xe nhảy lên túm lấy đầu kia của phong bì. Hai bên giằng co kéo co quyết liệt trên không như câu cá.  
+  *Thoại:* Khôi: "Kéo co hả bưởi? Nhẹ tay coi chừng rách thư của Bác Bảy tui bay ơi!"
+* **Clip 4 (FR · `THANG_G`):** Chiếc xe tải rồ ga gầm rú định ủi sập tường hẻm tẩu thoát. Thắng lướt đi trong vệt gió đỏ rực, xuất hiện ngay trước đầu xe tải, tung một cú đấm bộc phá chặn đứng khối sắt nặng 10 tấn, nhấc bổng đuôi xe lên.  
+  *Thoại:* Thắng: "Định chạy đi đâu với thư của nhà tao?"
+* **Clip 5 (FR · Bức thư bị xé đôi & Bọn cướp tháo chạy):** CRẮC! Lực kéo co quá mạnh khiến phong bì da **bị xé toạc làm đôi**! Drone của Khôi giật lại được nửa trên của bức thư; tên cướp nắm nửa dưới lồm cồm nhảy qua tường rào trèo lên xuồng máy cao tốc tháo chạy vào đêm đen.  
+  *Thoại:* Khôi: "Trời ơi rách làm đôi rồi! Còn nửa miếng đọc sao trời?!" · Lan: "Tụi nó nhảy xuống xuồng trốn rồi!"
+* **Clip 6 (FR · `THANG_G`, `MINH` xuất hiện):** Thắng cầm nửa bức thư rách trên tay, trên mảnh giấy còn sót lại dòng chữ nét mực của Bác Bảy nhắc đến *"Cảng container Tân Thuận... Sói..."*. Bất ngờ, một chùm đèn pha ô tô xanh thẫm từ đầu ngõ chiếu thẳng vào gara, tiếng còi hú dõng dạc vang lên.  
+  *Thoại:* Khôi: "Công an tới phạt lấn chiếm lòng lề đường hả anh Thắng?!" · Thắng: "Không... Lõi thứ năm đang rung lên!"
 
 ---
 
 ### CẢNH 05: Chiếc Lõi Thứ Năm (04:00 – 05:00)
-*Bối cảnh: Đầu ngõ Gara Bảy.*
-* **Clip 1 (ING · `MINH`, `THANG_G`, `LAN_G`):** Một chiếc sedan cảnh sát truy kích màu xanh thẫm viền bạc phanh gấp. Cửa xe mở, Đại úy Minh bước xuống với phong thái thép.  
-  *Thoại:* Minh: "Tất cả đứng yên! Cảnh sát hình sự!"
-* **Clip 2 (FR):** Lõi giáp thứ năm màu xanh thẫm bay lơ lửng lao thẳng tới cổ tay trái của Minh, khóa chặt thành vòng tay năng lượng phát sáng rực rỡ.  
-  *Thoại:* Minh: "Cái gì thế này?!"
-* **Clip 3 (FR · `MINH_G`):** Hoa văn nano xanh thẫm lập tức lan tỏa, bọc lấy cơ thể Minh thành Giáp Khiên oai phong với tấm khiên ánh sáng bạc hiện lên tay trái.  
-  *Thoại:* Minh: "Thiết bị giáp nano... của Bác Bảy?"
-* **Clip 4 (FR · bốn người thu hồi giáp):** Thắng bấm vào lõi, bộ giáp thu lại thành vòng tay thường phục. Lan và Hải cũng thu giáp, bước ra chào Minh.  
-  *Thoại:* Thắng: "Đại úy Minh, cô là người Bác Bảy chọn."
-* **Clip 5 (FR):** Minh thu hồi giáp, thở phào, rút từ túi áo ra một chiếc thẻ nhớ bảo mật đưa cho Thắng.  
-  *Thoại:* Minh: "Tôi theo chuyên án Sói Xám suốt hai năm nay."
-* **Clip 6 (FR):** Minh nhìn vào trong xưởng ngổn ngang dấu vết cướp bóc, ánh mắt đanh lại.  
-  *Thoại:* Minh: "Hắn sắp thực hiện phi vụ lớn nhất lịch sử."
+*Bối cảnh: Đầu ngõ Gara Bảy ven kênh.*
+* **Clip 1 (ING · `MINH`, `THANG_G`, `LAN_G`):** Một chiếc sedan cảnh sát truy kích màu xanh thẫm viền bạc phanh cháy đường. Cửa xe mở, Đại úy Minh bước xuống với ánh mắt sắc lạnh, tay đặt sẵn vào bao súng hông. Khôi lấm lét giấu nửa bức thư rách sau lưng.  
+  *Thoại:* Minh: "Tất cả đứng yên! Cảnh sát hình sự!" · Khôi: "Dạ tụi em là dân lành, không có đua xe!"
+* **Clip 2 (FR):** Lõi giáp thứ năm màu xanh thẫm đang bay lơ lửng ngoài ngõ bỗng lao thẳng tới cổ tay trái của Minh, khóa chặt thành một vòng tay năng lượng phát sáng rực rỡ trước sự ngỡ ngàng của nữ cảnh sát.  
+  *Thoại:* Minh: "Cái gì thế này?! Thiết bị lạ tự ghim vào tay tôi?!"
+* **Clip 3 (FR · `MINH_G`):** Hoa văn nano xanh thẫm lập tức lan tỏa, bọc lấy cơ thể Minh thành Giáp Khiên oai phong, một tấm khiên ánh sáng bạc hiện lên tay trái. Minh thử vung tay, tấm khiên chém gió rít lên uy lực.  
+  *Thoại:* Minh: "Thiết bị giáp nano... của Bác Bảy năm xưa?"
+* **Clip 4 (FR · Thu hồi giáp & Trình nửa bức thư):** Thắng và ba đứa em chạm vào vòng tay thu hồi giáp về thường phục. Thắng giơ nửa bức thư rách trao cho Minh xem nét chữ viết tay quen thuộc.  
+  *Thoại:* Thắng: "Đại úy Minh, cô là người Bác Bảy chọn. Bọn chúng vừa cướp nửa bức thư di chúc!"
+* **Clip 5 (FR · Ghép nối hồ sơ điều tra):** Minh đọc dòng chữ còn lại trên mảnh thư: *"Cảnh giác Sói Xám... Cảng Tân Thuận... Hùng học trò phản bội"*. Minh thở phào, rút từ túi áo ra chiếc thẻ nhớ bảo mật trùng khớp mã hồ sơ.  
+  *Thoại:* Minh: "Sói Xám chính là Hùng. Tôi theo chuyên án này hai năm nay rồi."
+* **Clip 6 (FR · Khôi tấu hài & Minh quyết định hợp tác):** Hải xách chảo thịt kho ra đứng cạnh gãi đầu mời ăn, Khôi hùa theo mời Minh lên gác ăn cơm. Minh nhìn xưởng xe ngổn ngang dấu vết dằn co, khẽ mỉm cười trước sự ấm áp của gia đình thợ máy rồi đanh giọng nghiêm nghị.  
+  *Thoại:* Khôi: "Hay là vô ăn chén cơm sườn với lẩu cá rồi đi phá án tiếp chị ơi?" · Minh: "Được, lên gác. Chúng ta phải tìm lại nửa bức thư trước khi tàu rời cảng!"
 
 ---
 
 ### CẢNH 06: Bữa Lẩu Sân Thượng (05:00 – 06:00)
-*Bối cảnh: Sân thượng Gara Bảy, tối đêm.*
-* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `KHOI`, `MINH`):** Nồi lẩu cù lao nghi ngút khói giữa bàn gỗ. Hải xới chén bún đầy ụ đưa cho Minh: "Ăn đi em, lấy sức đánh giặc!"  
-  *Thoại:* Hải: "Ăn miếng lẩu cá cho ấm bụng cô cảnh sát!"
-* **Clip 2 (FR):** Minh mở máy tính bảng lên chiếu sơ đồ cảng quốc tế: "Ba đêm nữa, một tàu hàng khổng lồ sẽ rời cảng chở hơn một trăm chiếc siêu xe và xe dân dụng bị cướp."  
-  *Thoại:* Minh: "Hơn trăm chiếc xe, toàn của bà con lao động."
-* **Clip 3 (FR):** Lan nắm chặt đôi đũa, mắt ánh lên vẻ phẫn nộ: "Tụi nó dám cướp cả mồ hôi nước mắt của người ta!"  
-  *Thoại:* Lan: "Không thể để tàu đó rời cảng được!"
-* **Clip 4 (FR):** Minh tiếp tục: "Ngày mai, tại đường đua ngầm ngoại thành, tay sai của Sói Xám sẽ ép một thiếu niên tên Tú đua xe để vận chuyển xe trộm."  
-  *Thoại:* Minh: "Thằng bé Tú bị bọn chúng khống chế."
+*Bối cảnh: Sân thượng Gara Bảy, tối đêm gió mát ven kênh.*
+* **Clip 1 (ING · `THANG`, `LAN`, `HAI`, `KHOI`, `MINH`):** Nồi lẩu cù lao nghi ngút khói giữa bàn gỗ. Hải xới chén bún đầy ụ đưa cho Minh: "Ăn đi em, lấy sức đánh giặc!". Khôi cầm nửa bức thư rách săm soi dưới đèn, tiếc nuối tấu hài thì bị Lan véo tai.  
+  *Thoại:* Khôi: "Rách mất khúc cuối, uổng công em tưởng mật khẩu kho báu!" · Lan: "Lo ăn đi ông tướng, Bác Bảy để lại tọa độ mật đó!"
+* **Clip 2 (FR):** Minh trải nửa bức thư rách lên bàn bên cạnh máy tính bảng, dùng đèn UV rọi vào vết mực chìm. Dòng chữ phát sáng hiện lên: *"Ba đêm nữa... Tàu hàng rời Cảng Tân Thuận chở hơn một trăm xe bị cướp."*  
+  *Thoại:* Minh: "Hơn trăm chiếc xe, toàn mồ hôi nước mắt của bà con lao động."
+* **Clip 3 (FR):** Lan nắm chặt đôi đũa, mắt ánh lên vẻ phẫn nộ: "Tụi nó dám cướp cả xe của người nghèo!" Khôi vội vàng lấy đĩa che nửa bức thư lại vì sợ nước lẩu bắn vào làm hỏng di thư.  
+  *Thoại:* Lan: "Không thể để tàu đó rời cảng được!" · Khôi: "Nè nè, né nồi lẩu ra kẻo ướt thư của Bác Bảy!"
+* **Clip 4 (FR):** Minh tiếp tục bấm máy tính bảng: "Ngày mai, tại đường đua ngầm ngoại thành, tay sai của Sói Xám sẽ ép một thiếu niên tên Tú đua xe cảm tử để thử nghiệm hệ thống găng mới."  
+  *Thoại:* Minh: "Thằng bé Tú bị bọn chúng khống chế gài bom áp suất."
 * **Clip 5 (FR):** Thắng giật mình, đặt chén cơm xuống: "Thằng Tú... con của chú Năm thợ máy cũ sao?"  
   *Thoại:* Thắng: "Tú là đứa em út của tui."
-* **Clip 6 (FR):** Thắng đứng dậy nhìn ra dòng kênh đen thẫm, ánh mắt kiên định ngời sáng.  
-  *Thoại:* Thắng: "Ngày mai, tôi sẽ lên đường đua cứu nó!"
+* **Clip 6 (FR):** Thắng đứng dậy nhìn ra dòng kênh đen thẫm, ánh mắt kiên định ngời sáng, Hải vỗ vai Thắng động viên, cả nhà đồng lòng siết chặt tay.  
+  *Thoại:* Thắng: "Ngày mai, tôi sẽ lên đường đua cứu nó và đoạt lại nửa bức thư!"
 
 ---
 
@@ -819,12 +819,12 @@
   *Thoại:* (Âm thanh năng lượng gầm vang như sấm sét).
 * **Clip 3 (FR · `SOI` vỡ giáp):** BÙM! Bộ giáp sói hắc ám và chiếc găng tàn bạo của Sói Xám vỡ vụn thành hàng vạn mảnh bụi sáng vô hại rơi rụng xuống sàn tàu.  
   *Thoại:* Sói hét lên tuyệt vọng: "Không thể nào... Sức mạnh này..."
-* **Clip 4 (FR · Hùng ngã khuỵu):** Hùng hiện nguyên hình trong bộ đồ thợ máy rách rưới, ngã khuỵu gối xuống sàn thép rỉ sét, hai tay buông thõng kiệt sức.  
-  *Thoại:* Hùng: "Tao... tao thua rồi..."
-* **Clip 5 (FR · Hologram Bác Bảy):** Thắng bước tới, nhẹ nhàng đặt chiếc máy chiếu cũ xuống trước mặt Hùng. Hình ảnh Bác Bảy lại hiện lên, ánh mắt chan chứa tình thương nhìn người học trò lầm lỡ.  
+* **Clip 4 (FR · Hùng ngã khuỵu & Thu hồi nửa bức thư còn lại):** Hùng hiện nguyên hình trong bộ đồ thợ máy rách rưới, ngã khuỵu gối xuống sàn thép rỉ sét, hai tay buông thõng kiệt sức. Từ trong túi áo ngực của Hùng, **nửa bức thư da bị xé ở Cảnh 04** rơi ra. Drone của Khôi sà xuống gắp lấy đưa cho Thắng. Khôi reo lên hớn hở:  
+  *Thoại:* Hùng: "Tao... tao thua rồi..." · Khôi: "Tìm được nửa bức thư rồi anh Thắng ơi!"
+* **Clip 5 (FR · Ghép lại bức thư & Hologram Bác Bảy):** Thắng rút nửa bức thư đầu tiên trong túi áo ra, áp hai mảnh giấy rách vào nhau vừa khít như một phép màu. Toàn bộ thông điệp của Bác Bảy hiện ra trọn vẹn: *"Hùng à, Thắng à... Dù giông bão thế nào, về nhà ăn cơm nghe các con!"*. Chiếc máy chiếu cũ phát sáng, hình ảnh Bác Bảy hiện lên mỉm cười đôn hậu.  
   *Thoại:* Bác Bảy: "Hùng ơi... Về nhà ăn cơm đi con. Bác chờ con lâu lắm rồi."
-* **Clip 6 (FR · Hùng bật khóc):** Hùng run rẩy nhìn hình bóng người thầy cũ, gục đầu xuống sàn thép ướt sương, khóc nức nở như một đứa trẻ thơ lạc mẹ: "Bác Bảy... Con xin lỗi Bác... Con sai rồi Bác ơi..."  
-  *Thoại:* Hùng: "Con xin lỗi cả nhà..."
+* **Clip 6 (FR · Hùng bật khóc ăn năn):** Hùng run rẩy nhìn hai mảnh thư ghép lại và hình bóng người thầy cũ, gục đầu xuống sàn thép ướt sương, khóc nức nở trong sự bao dung của anh em Gara Bảy.  
+  *Thoại:* Hùng: "Bác Bảy... Con xin lỗi Bác... Con sai rồi Bác ơi..."
 
 ---
 
@@ -832,15 +832,15 @@
 *Bối cảnh: Sân thượng Gara Bảy, hoàng hôn ấm áp (Kết Phim).*
 * **Clip 1 (ING · Cảnh sát trao trả xe tại Cảng):** Toàn cảnh Cảng lúc bình minh rạng rỡ. Đại úy Minh dẫn đầu đoàn xe cảnh sát trao trả từng chiếc xe cho những người dân nghèo. Một bé gái ôm chầm lấy con gấu bông trên xe mừng rỡ.  
   *Thoại:* Người dân: "Cảm ơn các hiệp sĩ! Cảm ơn công an!"
-* **Clip 2 (FR · Chuyển cảnh sân thượng Gara Bảy):** Hoàng hôn buông xuống trên kênh Nhiêu Lộc. Sân thượng Gara Bảy lung linh ánh đèn dây vàng ấm áp, gió thổi mát rượi. Tòa nhà Landmark sáng rực phía xa.  
+* **Clip 2 (FR · Bức thư đóng khung & Chuyển cảnh sân thượng Gara Bảy):** Hoàng hôn buông xuống trên kênh Nhiêu Lộc. Trên bàn thờ Bác Bảy, bức thư đã được dán lành lặn, đóng trong khung kính gỗ trang trọng bên cạnh 5 Lõi Giáp. Sân thượng Gara Bảy lung linh ánh đèn vàng ấm áp, gió thổi mát rượi.  
   *Thoại:* Hải: "Lẩu cù lao đặc biệt mừng đại gia đình chiến thắng!"
-* **Clip 3 (FR · Mâm lẩu sum vầy):** Nồi lẩu nghi ngút khói giữa bàn. Lan ngồi cạnh chiếc hatchback trắng đã được rửa bóng loáng. Khôi đang húp xì xụp bát nước lẩu, Tú ngồi bên gắp thịt lia lịa. Minh mặc thường phục mỉm cười dịu dàng.  
-  *Thoại:* Khôi: "Nồi lẩu của anh Hải là số một trần đời!"
+* **Clip 3 (FR · Mâm lẩu sum vầy & Tranh ăn tấu hài):** Nồi lẩu nghi ngút khói giữa bàn. Lan ngồi cạnh chiếc hatchback trắng đã rửa bóng loáng. Khôi và Tú đang dùng đũa giằng co miếng sườn non duy nhất trong nồi, Hải giơ muôi canh lên gõ bàn làm trọng tài khiến cả bàn bật cười rộn rã. Minh mặc thường phục mỉm cười dịu dàng.  
+  *Thoại:* Khôi: "Miếng sườn này là công tui giữ bức thư nghe Tú!" · Tú: "Em đua xe bở hơi tai mới có sức ăn chứ bộ!"
 * **Clip 4 (FR · Nâng ly trà đá):** Thắng đứng ở đầu bàn, nâng cao ly trà đá: "Gia đình không phải chỉ là cùng chung dòng máu... Gia đình là những người cùng ngồi bên nhau, sống chết có nhau!"  
   *Thoại:* Thắng: "Muốn đua thì lên đường đua!"
 * **Clip 5 (FR · Cả nhà hô vang):** Tất cả mọi người đồng loạt nâng ly chạm nhau leng keng, nụ cười rạng rỡ hạnh phúc ngập tràn màn hình:  
   *Thoại:* Cả nhà: "RA ĐƯỜNG LÀ CHỞ NGƯỜI MÌNH THƯƠNG!"
-* **Clip 6 (FR · KẾT THÚC ĐIỆN ẢNH & AFTER-CREDIT TEASER):** Flycam lùi xa khỏi sân thượng Gara Bảy ngập tràn ánh đèn vàng, toàn cảnh Sài Gòn lấp lánh lung linh. Dòng chữ *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN — HẾT PHIM* hiện lên cùng lời tri ân: "Dành tặng những ai luôn coi Gia Đình là điểm tựa". Chuyển cảnh AFTER-CREDIT: Dưới gầm cầu tối, chiếc vali bọ cạp tím đen trôi dạt vào bờ kè, một bàn tay găng máy nhặt lên kèm tiếng động cơ xe đua gầm thét xé toạc màn đêm: *BIỆT ĐỘI GARA SẼ TRỞ LẠI...*  
+* **Clip 6 (FR · KẾT THÚC ĐIỆN ẢNH & AFTER-CREDIT TEASER):** Flycam 24mm lùi xa khỏi sân thượng Gara Bảy ngập tràn ánh đèn vàng, toàn cảnh Sài Gòn lấp lánh lung linh. Dòng chữ *BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN — HẾT PHIM* hiện lên cùng lời tri ân: "Dành tặng những ai luôn coi Gia Đình là điểm tựa". Chuyển cảnh AFTER-CREDIT: Dưới gầm cầu tối, chiếc vali bọ cạp tím đen trôi dạt vào bờ kè, một bàn tay găng máy nhặt lên kèm tiếng động cơ xe đua gầm thét xé toạc màn đêm: *BIỆT ĐỘI GARA SẼ TRỞ LẠI...*  
   *(HẾT PHIM — 45:00)*
 
 ---

@@ -1,26 +1,26 @@
 Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action superhero blockbuster action-comedy film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic motion with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]
-@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face, red wrist core; deep, calm Southern voice.
+@Thang = THẮNG in GIÁP GIÓ: red-and-black armor with wind fins, amber visor showing face; deep, calm Southern voice.
 @Lan = LAN in GIÁP CÁO: slim white armor with ice-blue lines and fox-ear crest, ice-blue visor showing face; quick, bright Southern voice.
-@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing face, glowing energy hammer; booming Southern voice.
+@Hai = HẢI in GIÁP BÚA: heavy orange-and-gunmetal armor, buffalo horn crest, orange visor showing bearded face, glowing energy hammer; booming Southern voice.
 @Khoi = KHÔI in GIÁP BIT: slim yellow-black armor, two shoulder drones, yellow visor showing glasses and face; nervous, fast Southern voice.
 GĂNG XÁM HENCHMEN: men in grey tactical armor and glowing power gauntlets, silent.
 
 [CAMERA & LIGHT]
-Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain.
+35mm wide shot tracking the comical retreat of the goons, panning to medium group shot of the family gathering. Smoke from the truck radiator blending with warm yellow streetlight and blue alley shadows.
 
 [SHOT LIST]
-00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Bọn cướp hoảng loạn nhảy khỏi xe. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
-00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: vứt lại vũ khí cắm đầu chạy thục mạng vào màn đêm hẻm nhỏ.. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Khôi: "Chạy lẹ hơn thỏ nữa!".
-00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp clip 6.
+00:00–00:03.5 | Goons retreat & comical panting, 35mm wide — Thấy đầu xe bẹp dúm, toán cướp hoảng loạn mở cửa xe nhảy xuống, vứt lại vũ khí cắm đầu co giò chạy thục mạng rẽ vào các hẻm nhỏ tối tăm như đàn chuột vỡ tổ.
+00:03.5–00:07.0 | Funny banter & dialogue, 50mm — Khôi chạy lạch bạch tới chống hai tay lên đầu gối thở phì phò, ngẩng mặt lên cười toe toét giục Thắng: Khôi: "Chạy lẹ hơn thỏ nữa! Đưa bức thư coi Bác Bảy dặn gì mau anh Thắng!"
+00:07.0–00:10.0 | Family gather & playful pat — Hải vác cây búa cam bước tới, cười hào sảng vỗ bộp vào lưng Khôi khiến Khôi lảo đảo suýt cắm đầu: "Thằng nhỏ bữa nay gắp thư bén dữ bay!". Lan cũng thu cước lướt tới vây quanh Thắng. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 6.
 
 [SOUND]
-Subtle emotional sound design: gentle idling engine purr in the background, distant sound of canal water and night crickets, warm acoustic guitar melodies, and natural room reverberation.
+Panicked footsteps splashing in puddles, Khôi's hilarious gasping breath, heavy armor slap on the back, Khôi's squeak, and cheerful action brass transition.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip 6.
 
 [AVOID]
-guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.
+guns, blood, visible injuries, brand logos, watermarks, jump cuts, distorted hands, subtitles, text, cartoon or anime look, sluggish motion.

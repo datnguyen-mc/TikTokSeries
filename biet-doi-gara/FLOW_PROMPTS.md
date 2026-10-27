@@ -409,3 +409,32 @@ Mỗi clip 10 giây được phân bổ chính xác theo biểu đồ động l�
 - Tiếng rít servo cơ khí nạp năng lượng (mechanical armor servo hum).
 - Tiếng xé gió rít động cơ Twin-Turbo và tiếng rống bass hòa thanh điện ảnh dồn dập.
 
+---
+
+## 8. NGHỆ THUẬT XÂY DỰNG MẠCH TRUYỆN "BỨC THƯ BÍ MẬT" & HÀI HƯỚC TÌNH HUỐNG (ACTION-COMEDY MACGUFFIN)
+
+Nhằm nâng tầm series đạt chuẩn bom tấn hành động – hài hước gia đình (tương tự phong cách *Guardians of the Galaxy* kết hợp *Fast & Furious*), toàn bộ 45 cảnh được xâu chuỗi bằng sợi chỉ đỏ kịch tính: **Bức thư tuyệt mật của Bác Bảy bị cướp & Cuộc truy tìm dằn co nghẹt thở**.
+
+### 1. Chuỗi Mắt Xích Của Bức Thư (The Stolen Letter Arc)
+1. **Cảnh 01 (Thiết lập):** Bức thư giấy da niêm phong sáp đỏ *"GỬI 4 ĐỨA NHỎ"* nằm cạnh hộp đồ nghề và di ảnh Bác Bảy. Khôi tò mò định bóc vì tưởng hóa đơn tiền điện/vé số, Thắng nhắc nhở: *"Gara gặp đại biến mới được mở!"*.
+2. **Cảnh 02 (Bị cướp):** Toán Găng Xám tập kích giật hộp sắt, hộp vỡ làm 5 lõi bay lên và bức thư văng ra. Tên cướp chộp bức thư bỏ trốn. Khôi ôm tô cơm sườn trốn gầm bàn tấu hài.
+3. **Cảnh 03 (Phát hiện & Lệnh xuất kích):** Vừa biến hình giáp ngầu lòi, Khôi phát hiện di thư bị cuỗm mất. Thắng ra lệnh truy kích; Khôi vừa chạy vừa la toáng đòi tắt bếp gas nồi thịt kho.
+4. **Cảnh 04 (Trận chiến dằn co & Bức thư xé đôi):** Cuộc rượt đuổi hẻm bờ kè. Lan phi thân giật thư, Hải nện búa làm rung chuyển, Khôi dùng drone giằng co kéo co phong bì trên nóc xe tải như câu cá. Lực kéo quá mạnh làm **bức thư bị xé toạc làm đôi**: Biệt đội giữ nửa trên (manh mối Cảng Tân Thuận), bọn cướp giữ nửa dưới rồi nhảy xuồng trốn.
+5. **Cảnh 05 (Giải mã nét chữ):** Đại úy Minh nhận Lõi thứ năm, soi đèn UV lên nửa bức thư rách thấy nét chữ huỳnh quang của Bác Bảy: *"Cảnh giác Sói Xám... Cảng Tân Thuận... Hùng học trò phản bội"*. Khôi và Hải mời Minh ăn cơm sườn lẩu cá, liên minh thành lập.
+6. **Cảnh 06 (Lên kế hoạch cứu Tú):** Năm người ăn lẩu sân thượng, Khôi che bức thư khỏi giọt nước lẩu bắn ra. Minh báo tin Tú bị ép đua xe cảm tử gài bom. Thắng thề lên đường cứu em út và đoạt lại nửa bức thư.
+7. **Cảnh 44 (Thu hồi & Ghép thư nguyên vẹn):** Đánh bại Sói Xám, nửa bức thư thứ hai rơi ra từ ngực áo giáp của Hùng. Thắng ghép hai nửa bức thư vừa khít, làm lộ ra trọn vẹn tâm thư của Bác Bảy: *"Dù giông bão thế nào, về nhà ăn cơm nghe các con!"*. Hologram Bác Bảy hiện lên cảm hóa Hùng bật khóc ăn năn.
+8. **Cảnh 45 (Bữa cơm khải hoàn):** Bức thư dán lành lặn, đóng khung kính trang trọng cạnh di ảnh Bác Bảy và 5 Lõi Giáp. Khôi và Tú dùng đũa đấu kiếm tranh miếng sườn non, Hải gõ muôi canh phân xử, cả nhà nâng ly hô vang: *"Ra đường là chở người mình thương!"*.
+
+### 2. Công Thức Hài Hước Tình Huống Gia Đình (Situational Humor)
+- **Khôi (Comic Relief chính):** Cậu em IT nhút nhát, sợ đau nhưng miệng liến thoắng. Luôn ưu tiên đồ ăn (dưa leo, tô cơm sườn, nồi thịt kho), khi kéo co giật thư thì sợ rách thư hơn sợ trúng đòn, thoại tếu táo duyên dáng.
+- **Hải (Người khổng lồ ấm áp):** Hộ pháp vạm vỡ nhưng tâm hồn nội trợ, đeo tạp dề tí hon, tay cầm búa đập vỡ bê tông xong lại trượt chân té bao cát ngộ nghĩnh, dùng muôi canh gõ bàn làm trọng tài bàn ăn.
+- **Lan (Cô em tinh quái):** Sát thủ tốc độ nhưng cực kỳ lém lỉnh, thích chọc ghẹo Khôi (véo tai), khinh khích đối thủ "chậm như rùa", trượt ván nắp capo như biểu diễn xiếc.
+- **Thắng (Anh cả điềm tĩnh - Deadpan):** Gương mặt nghiêm nghị kiểu anh lớn, luôn phải thở dài chịu trận trước độ nhí nhố của đàn em, thỉnh thoảng buông 1 câu chốt hạ cực tỉnh khiến người xem phì cười.
+
+### 3. Quy Chuẩn Camera Điện Ảnh (Cinematic Blockbuster Camera)
+- **Góc 24mm Anamorphic Widescreen:** Góc quay siêu rộng bắt trọn quy mô không gian xưởng gara, ráng chiều sông nước Sài Gòn và boong tàu biển cảng.
+- **Dutch Tilt & Tracking thấp:** Nghiêng góc 15-20 độ khi xe tải rồ ga hoặc khi hai bên dằn co giật bức thư, tạo độ căng thẳng tột đỉnh.
+- **Whip Pan theo vật thể bay:** Camera lia giật nhanh (whip pan) bám theo phong bì thư bay lơ lửng trên không trung giữa các đòn đánh võ thuật.
+- **Snap Zoom & Speed Ramp:** Cú đấm bộc phát hoặc cú nện búa được zoom giật 0.15s vào điểm va chạm rồi nhả rộng để thấy sóng xung kích lan tỏa.
+
+

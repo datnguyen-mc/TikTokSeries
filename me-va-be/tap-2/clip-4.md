@@ -7,20 +7,21 @@ Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken line
 @Bong = BÔNG: beautiful, adorable real newborn twin girl, daintier than her brother, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; never speaks, only real newborn sounds.
 
 [CAMERA & LIGHT]
-Same light; ends on a warm medium close-up of NGỌC between the two bassinets for the thumbnail.
+Same soft morning light; 50mm and 85mm prime lenses; ends on a warm, emotionally powerful medium close-up of NGỌC kneeling tenderly between the two bassinets for the episode thumbnail. Both babies remain fully clothed and safely framed throughout.
 
 [SHOT LIST]
-00:00–00:02 | Same close-up, continuing from the last frame, then pull back to a medium shot — NGỌC lifts BÔNG in her snapped-up ruffled bodysuit and lays her on her back in her own bassinet, supporting her head and neck.
-00:02–00:04.5 | Medium close-up, 50mm — kneeling between the two bassinets, she looks down at GẠO, serious and gentle. NGỌC says (soft, warm voice, careful and serious): Rốn đỏ, sưng, chảy dịch hôi là đi khám liền.
-00:04.5–00:06.5 | Close-up, 85mm — she leans over GẠO's bassinet, whispering playfully to him. NGỌC says (soft, warm voice, playful whisper): Con trai ráng lên, đừng thua em gái nha.
-00:06.5–00:07.5 | Insert close-up, 85mm — GẠO lets out a tiny sneeze as if answering her.
-00:07.5–00:10 | Medium close-up, 50mm — NGỌC laughs, then lets out a long breath, eyes wet, one hand on each rail; BÔNG smiles fleetingly in her sleep beside her. NGỌC says (soft, warm voice, soft, a little proud, a little teary): Mẹ làm được mà, đúng hông hai con?
+00:00–00:02 | Medium shot, 35mm, continuing from the last frame — NGỌC gently lifts BÔNG in both arms with one hand supporting her head and neck, stepping over and laying her down softly on her back in her own wooden bassinet.
+00:02–00:04.5 | Medium close-up, 50mm — kneeling gracefully between the two bassinets, NGỌC looks down at her babies with maternal seriousness and warmth. NGỌC says (soft, warm voice, careful and serious): Rốn đỏ, sưng, chảy dịch hôi là đi khám liền.
+00:04.5–00:06.5 | Close-up, 85mm — she leans gently toward GẠO's bassinet, whispering with a playful, teasing smile to her baby boy. NGỌC says (soft, warm voice, playful whisper): Con trai ráng lên, đừng thua em gái nha.
+00:06.5–00:07.5 | Insert close-up, 85mm — inside his bassinet, GẠO gives a cute tiny sneeze and scrunches his nose as if cheekily answering his mother.
+00:07.5–00:10 | Medium close-up, 50mm (Thumbnail shot) — NGỌC lets out a soft laugh then a long, relieved breath, her eyes shimmering with proud, happy tears; with one hand resting lovingly on each bassinet rail, she gazes at her twins. NGỌC says (soft, warm voice, proud and teary-eyed): Mẹ làm được mà, đúng hông hai con?
 
 [SOUND]
-The ceiling fan, soft newborn breathing, a tiny sneeze, the tender acoustic guitar tune resolving.
+Soft morning room ambience, quiet ceiling fan, baby GẠO's tiny sneeze, soft newborn breathing, and an emotional, uplifting acoustic guitar resolution.
 
 [END FRAME]
-Medium close-up: NGỌC kneeling between the two bassinets, eyes wet and smiling, one hand on each rail; GẠO (mint-green bodysuit with the embroidered teddy bear, tuft of black hair sticking up) on his back in the left bassinet, BÔNG (blush-pink ruffled bodysuit with the embroidered strawberry) on her back in the right bassinet with a fleeting sleepy smile; nothing else inside the bassinets. Hold still for the final 0.5 seconds.
+Medium close-up: NGỌC kneeling peacefully between the two wooden bassinets, eyes moist with tears of happiness and love, hands resting on the crib rails; GẠO asleep on his back in his mint-green bodysuit in the left bassinet, BÔNG asleep with a peaceful faint smile in her blush-pink bodysuit in the right bassinet. Hold still for the final 0.5 seconds.
 
 [AVOID]
-dialogue spoken by anyone but NGỌC, time skip, cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted baby faces, extra or missing fingers or toes, babies with older-infant faces or proportions, awake babies grinning at the camera (only fleeting smiles in sleep), babies holding up their own heads, sitting up or grabbing objects, an unsupported baby head or neck, a baby sleeping on its stomach or side, pillows, loose blankets, bumpers, toys or hats inside a bassinet, both babies in one bassinet, a baby left alone on the adult bed, NGỌC looking haggard, unkempt or older than her late twenties, feeding bottles, pacifiers, formula tins or powdered milk, readable text, labels, logos or brand names, extra people in focus or speaking (anyone else stays soft-focus in the background and silent), a baby held in arms in a moving car, subtitles.
+dialogue spoken by anyone but NGỌC, time skip, cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted faces, extra or missing fingers or limbs, awake babies grinning at the camera, feeding bottles, pacifiers, formula tins, extra people in focus or speaking, subtitles.
+

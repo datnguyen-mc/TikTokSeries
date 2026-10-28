@@ -198,6 +198,51 @@ CREATE TABLE IF NOT EXISTS provider_job (
 
 CREATE INDEX IF NOT EXISTS idx_provider_job_provider_status ON provider_job(provider, status);
 CREATE INDEX IF NOT EXISTS idx_provider_job_lease ON provider_job(lease_expires_at);
+
+CREATE TABLE IF NOT EXISTS cms_user (
+    id            TEXT PRIMARY KEY,
+    username      TEXT NOT NULL UNIQUE,
+    password_hash TEXT NOT NULL,
+    display_name  TEXT NOT NULL DEFAULT 'Administrator',
+    role          TEXT NOT NULL DEFAULT 'admin',
+    created_at    TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+);
+
+CREATE TABLE IF NOT EXISTS cms_session (
+    token         TEXT PRIMARY KEY,
+    user_id       TEXT NOT NULL REFERENCES cms_user(id) ON DELETE CASCADE,
+    expires_at    TEXT NOT NULL,
+    created_at    TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+);
+
+CREATE TABLE IF NOT EXISTS cms_channel (
+    slug            TEXT PRIMARY KEY,
+    name            TEXT NOT NULL,
+    project_id      TEXT NOT NULL,
+    aspect_ratio    TEXT NOT NULL DEFAULT 'VIDEO_ASPECT_RATIO_PORTRAIT',
+    series_dir      TEXT NOT NULL,
+    runner_script   TEXT NOT NULL,
+    ep_prefix       TEXT NOT NULL DEFAULT 'tap',
+    characters_json TEXT NOT NULL DEFAULT '[]',
+    description     TEXT DEFAULT '',
+    updated_at      TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+);
+
+CREATE TABLE IF NOT EXISTS cms_log (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    channel_slug  TEXT NOT NULL,
+    project_id    TEXT,
+    episode       INTEGER,
+    clip_num      INTEGER,
+    level         TEXT NOT NULL DEFAULT 'INFO',
+    category      TEXT NOT NULL DEFAULT 'SYSTEM',
+    message       TEXT NOT NULL,
+    details_json  TEXT,
+    created_at    TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+);
+
+CREATE INDEX IF NOT EXISTS idx_cms_log_channel ON cms_log(channel_slug, id DESC);
+CREATE INDEX IF NOT EXISTS idx_cms_log_created ON cms_log(id DESC);
 """
 
 
@@ -361,6 +406,10 @@ CREATE INDEX IF NOT EXISTS idx_request_scene ON request(scene_id);
     negative_prompt TEXT, scene_prefix TEXT, lighting TEXT DEFAULT 'Studio lighting, highly detailed',
     created_at TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now')))""")
             logger.info("Migrated: created material table")
+        cursor = await db.execute("PRAGMA table_info(cms_channel)")
+        cms_ch_cols = {row[1] for row in await cursor.fetchall()}
+        if "ep_prefix" not in cms_ch_cols:
+            await db.execute("ALTER TABLE cms_channel ADD COLUMN ep_prefix TEXT NOT NULL DEFAULT 'tap'")
         await db.commit()
     logger.info("Database initialized at %s", DB_PATH)
 

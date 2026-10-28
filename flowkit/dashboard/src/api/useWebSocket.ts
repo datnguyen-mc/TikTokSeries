@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import type { WSEvent } from '../types'
+import { WS_BASE_URL } from './client'
 
 export function useWebSocket(onMessage?: (event: WSEvent) => void) {
   const [isConnected, setIsConnected] = useState(false)
@@ -12,8 +13,7 @@ export function useWebSocket(onMessage?: (event: WSEvent) => void) {
   useEffect(() => { onMessageRef.current = onMessage }, [onMessage])
 
   const connect = useCallback(() => {
-    const proto = window.location.protocol === 'https:' ? 'wss:' : 'ws:'
-    const ws = new WebSocket(`${proto}//${window.location.host}/ws/dashboard`)
+    const ws = new WebSocket(`${WS_BASE_URL}/ws/dashboard`)
     wsRef.current = ws
 
     ws.onopen = () => {

@@ -733,8 +733,77 @@ async def debug_listing(operation_id: str, project_id: str = "594758cc-11f5-4f92
     }
 
 
+@router.get("/project-characters")
+async def get_project_characters(project_id: str):
+    """Fetch saved characters (payload[5]) and image assets (payload[1]) for a Google Flow project via Zzl0ze."""
+    import agent.services.flow_batch as fb
+    client = get_flow_client()
+    if not client.connected:
+        raise HTTPException(503, "Extension not connected")
+    result = await client.batch_rpc(
+        fb.RPC_PROJECT_MEDIA, fb.project_media_request(project_id),
+        match=None, timeout=60,
+    )
+    raw = result.get("data") or ""
+    characters = []
+    images = []
+    try:
+        if raw:
+            payload = fb.first_payload(raw, fb.RPC_PROJECT_MEDIA)
+            if isinstance(payload, list):
+                # payload[5] contains saved project characters / ingredients:
+                # [project_id, char_id, null, [1, name, [asset_ids, voice, desc]], image_media_id, [w, h], created_ts, updated_ts]
+                raw_chars = payload[5] if len(payload) > 5 and isinstance(payload[5], list) else []
+                for ch in raw_chars:
+                    if not isinstance(ch, list) or len(ch) < 5:
+                        continue
+                    char_id = ch[1]
+                    meta = ch[3] if isinstance(ch[3], list) else []
+                    name = meta[1] if len(meta) > 1 and isinstance(meta[1], str) else ""
+                    submeta = meta[2] if len(meta) > 2 and isinstance(meta[2], list) else []
+                    voice = submeta[1] if len(submeta) > 1 and isinstance(submeta[1], str) else ""
+                    desc = submeta[2] if len(submeta) > 2 and isinstance(submeta[2], str) else ""
+                    media_id = ch[4] if isinstance(ch[4], str) else None
+                    if name and media_id:
+                        characters.append({
+                            "character_id": char_id,
+                            "name": name,
+                            "tag": f"@{name}" if not name.startswith("@") else name,
+                            "media_id": media_id,
+                            "voice": voice,
+                            "description": desc,
+                        })
+                # payload[1] contains project media items (images and videos)
+                items = payload[1] if len(payload) > 1 and isinstance(payload[1], list) else []
+                for it in items:
+                    if not isinstance(it, list) or len(it) < 4 or not isinstance(it[3], list):
+                        continue
+                    details = it[3]
+                    title = details[0] if len(details) > 0 else ""
+                    is_video = bool(details[2]) if len(details) > 2 else False
+                    media_id = details[4] if len(details) > 4 else None
+                    if not is_video and media_id:
+                        images.append({
+                            "asset_id": it[0],
+                            "title": title,
+                            "media_id": media_id,
+                        })
+    except Exception:
+        pass
+    return {
+        "project_id": project_id,
+        "characters_count": len(characters),
+        "characters": characters,
+        "images_count": len(images),
+        "images": images[:50],
+    }
+
+
 @router.get("/debug-project-media")
+@router.get("/project-assets")
 async def debug_project_media(project_id: str = "594758cc-11f5-4f92-8b3c-1213686591f4"):
+    import json
+    import pathlib
     import re
     import agent.services.flow_batch as fb
     client = get_flow_client()
@@ -746,9 +815,49 @@ async def debug_project_media(project_id: str = "594758cc-11f5-4f92-8b3c-1213686
     )
     raw = result.get("data") or ""
     uuids = list(set(re.findall(r'[0-9a-fA-F-]{36}', raw)))
+    assets = []
+    images = []
+    signed_images = []
+    try:
+        if raw:
+            dump_path = pathlib.Path("scratch") / f"project_media_{project_id}.txt"
+            dump_path.parent.mkdir(parents=True, exist_ok=True)
+            dump_path.write_text(raw, encoding="utf-8")
+            payload = fb.first_payload(raw, fb.RPC_PROJECT_MEDIA)
+            for img in fb.read_images(payload):
+                signed_images.append({"media_id": img.media_id, "url": img.url})
+            items = payload[1] if isinstance(payload, list) and len(payload) > 1 and isinstance(payload[1], list) else []
+            for it in items:
+                if not isinstance(it, list) or len(it) < 4 or not isinstance(it[3], list):
+                    continue
+                details = it[3]
+                title = details[0] if len(details) > 0 else ""
+                ts = details[1][0] if len(details) > 1 and isinstance(details[1], list) and details[1] else 0
+                is_video = bool(details[2]) if len(details) > 2 else False
+                media_id = details[4] if len(details) > 4 else None
+                op_id = details[5] if len(details) > 5 else None
+                entry = {
+                    "asset_id": it[0],
+                    "title": title,
+                    "timestamp": ts,
+                    "is_video": is_video,
+                    "media_id": media_id,
+                    "operation_id": op_id,
+                }
+                assets.append(entry)
+                if not is_video and media_id:
+                    images.append(entry)
+    except Exception:
+        pass
     return {
         "raw_length": len(raw),
         "found_uuids_count": len(uuids),
+        "assets_count": len(assets),
+        "images_count": len(images),
+        "signed_images_count": len(signed_images),
+        "images": images,
+        "signed_images": signed_images[:50],
+        "assets": assets[:100],
         "uuids": uuids,
         "sample": raw[:2000]
     }

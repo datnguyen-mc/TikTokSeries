@@ -25,6 +25,7 @@ from agent.api.models import router as models_router
 from agent.api.providers import router as providers_router
 from agent.api.provider_jobs import router as provider_jobs_router
 from agent.api.active_project import router as active_project_router
+from agent.api.cms import router as cms_router, ensure_cms_seeded
 from agent.worker.processor import get_worker_controller
 from agent.services.flow_client import get_flow_client
 from agent.services.event_bus import event_bus
@@ -63,7 +64,7 @@ async def ws_handler(websocket):
 
 async def run_ws_server():
     """Run WebSocket server for extension connections."""
-    async with websockets.serve(ws_handler, WS_HOST, WS_PORT):
+    async with websockets.serve(ws_handler, WS_HOST, WS_PORT, close_timeout=1):
         logger.info("WebSocket server listening on ws://%s:%d", WS_HOST, WS_PORT)
         await asyncio.Future()  # run forever
 
@@ -73,6 +74,10 @@ async def run_ws_server():
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     await init_db()
+    try:
+        await ensure_cms_seeded()
+    except Exception as e:
+        logger.warning("Failed to seed CMS data: %s", e)
 
     # Load custom materials from DB into in-memory registry
     from agent.db.crud import list_materials as db_list_materials
@@ -92,13 +97,6 @@ async def lifespan(app: FastAPI):
 
     controller = get_worker_controller()
 
-    # SIGTERM handler for graceful shutdown (Unix only)
-    try:
-        loop = asyncio.get_event_loop()
-        loop.add_signal_handler(signal.SIGTERM, controller.request_shutdown)
-    except (NotImplementedError, AttributeError):
-        pass
-
     # Start background tasks
     ws_task = asyncio.create_task(run_ws_server())
     worker_task = asyncio.create_task(controller.start())
@@ -107,7 +105,10 @@ async def lifespan(app: FastAPI):
     yield
 
     controller.request_shutdown()
-    await controller.drain()
+    try:
+        await asyncio.wait_for(controller.drain(), timeout=2.0)
+    except Exception:
+        pass
     ws_task.cancel()
     worker_task.cancel()
     await close_db()
@@ -159,6 +160,7 @@ app.include_router(tts_router, prefix="/api")
 app.include_router(materials_router, prefix="/api")
 app.include_router(music_router, prefix="/api")
 app.include_router(provider_jobs_router, prefix="/api")
+app.include_router(cms_router, prefix="/api")
 app.include_router(models_router)
 app.include_router(providers_router)
 app.include_router(active_project_router)
@@ -493,6 +495,32 @@ async def test_direct(request: Request):
     except Exception as e:
         logger.exception("test_direct failed: %s", e)
         return {"ok": False, "error": str(e)}
+
+
+# ─── Serve Built CMS Dashboard SPA on http://localhost:8200/ ──
+import os as _os
+from fastapi.responses import FileResponse as _FileResponse
+from fastapi.staticfiles import StaticFiles as _StaticFiles
+
+_DASHBOARD_DIST = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))), "dashboard", "dist")
+_DASHBOARD_ASSETS = _os.path.join(_DASHBOARD_DIST, "assets")
+if _os.path.isdir(_DASHBOARD_ASSETS):
+    app.mount("/assets", _StaticFiles(directory=_DASHBOARD_ASSETS), name="cms-assets")
+
+
+@app.get("/{full_path:path}", include_in_schema=False)
+async def serve_cms_spa(full_path: str):
+    """Serve the built React CMS dashboard on port 8200."""
+    if full_path.startswith(("api/", "ws/", "health")):
+        from fastapi import HTTPException
+        raise HTTPException(status_code=404, detail="Not Found")
+    cand = _os.path.join(_DASHBOARD_DIST, full_path)
+    if full_path and _os.path.isfile(cand):
+        return _FileResponse(cand)
+    index_html = _os.path.join(_DASHBOARD_DIST, "index.html")
+    if _os.path.isfile(index_html):
+        return _FileResponse(index_html)
+    return {"status": "FlowKit CMS API running", "dashboard": "http://localhost:5173"}
 
 
 if __name__ == "__main__":

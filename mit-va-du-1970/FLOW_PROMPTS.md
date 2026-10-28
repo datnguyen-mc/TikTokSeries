@@ -347,6 +347,7 @@ Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality
 | 13 | Con diều vẽ cả nhà | 🪁 Mùa vui: gió lớn cuối mùa mưa thổi bay tranh Nở tô; ba làm diều tre dán cơm nguội, diều lộn nhào vì thiếu đuôi, má cột đuôi vải vụn; diều mang tranh cả nhà bay trên bờ kênh; má kể hồi xưa diều ba mắc ngọn dừa nhà má, "ổng ở luôn"; Nở: "Trên trời cũng có nhà mình!" | **Hộp bút màu** (dùng lại từ Tập 10) |
 | 14 | Bánh xèo ba đổ | Chiều mưa ba giành đổ bánh xèo: "Trời đất, nó la xèo!"; cái đầu bể ba mảnh, Nở hốt hết "bánh bể ăn ngon hơn"; má chỉ "chảo nóng già, đổ mỏng"; ba đổ cái bánh hình trái tim cho má; Đú: "Mưa vầy ăn bánh xèo là nhứt." | — |
 | 15 | Cái răng đầu tiên | Răng cửa dưới của Nở lung lay; ba đòi cột chỉ vô cửa, má cản; răng rụng vô cục kẹo dừa; Nở ném răng lên mái lá, đọc "Chuột chuột chí chí…"; Nở huýt sáo qua chỗ sún, ba đủ răng mà huýt hổng ra; Đú: "Nhà mình giờ có cô Nở sún!" | **Tập vở, bút** |
+| 16 | Tát mương bắt cá | Ba má tát mương bằng gầu sòng; ba khoe tài úp nơm bắt cá lóc bự mà mò lên nguyên cục bùn, trượt chân ngã phịch xuống mương; cá lóc phóng lên bờ nhảy gọn vô rổ của "cô Nở sún"; chiều Nở vẽ tranh ba mặt lấm bùn, cả nhà ăn cá lóc nướng trui rơm trên tàu lá chuối | **Tập vở, hộp bút màu** |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -373,3 +374,4 @@ Mỗi tập (từ Tập 13: 40–60s = 4–6 clip × 10s; Tập 1–12: 30s = 3 
 | 13 | [tap-13/](tap-13/README.md) | Con diều vẽ cả nhà |
 | 14 | [tap-14/](tap-14/README.md) | Bánh xèo ba đổ |
 | 15 | [tap-15/](tap-15/README.md) | Cái răng đầu tiên |
+| 16 | [tap-16/](tap-16/README.md) | Tát mương bắt cá |

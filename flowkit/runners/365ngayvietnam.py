@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """
 HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT NÂNG CAO CHO "365 NGÀY VIỆT NAM" (KHUNG HÌNH DỌC 9:16):
-1. Tự động chạy liên tiếp các Tập (mặc định Tập 1 đến Tập 5, tự động nhận diện số lượng clip mỗi tập).
-2. Tải ngay lập tức video về máy tính khi hoàn thành và đổi tên chuẩn theo tập/clip.
-3. Chi tiết hóa toàn bộ API Request Logs (endpoint, mode, params khung hình Bắt đầu / Kết thúc, tỉ lệ 9:16).
-4. Tự động đồng bộ thời gian thực với Console Dashboard UI (VERTICAL 9:16).
-5. Tự động trích xuất khung hình cuối (last frame) làm khung hình đầu (start frame) của clip sau (Seamless Chaining).
-6. Tự động làm sạch prompt khi gặp lỗi chính sách / bản quyền và Auto-Retry.
+1. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK): Tự động lấy & khóa chính xác media_id của @Vy và @Joi từ Google Flow Project.
+2. Luôn truyền reference_media_ids (@Vy, @Joi) qua endpoint /api/flow/generate-video-omni (MZZa6b Ingredients R2V) cho Clip 1 và mọi clip mở cảnh mới ([FORMAT]).
+3. Tự động trích xuất khung hình cuối (last frame) làm khung hình đầu (start frame) của clip nối tiếp (Seamless Chaining).
+4. Tự động đặt tên clip trên Google Flow theo cảnh ([TẬP XX - CLIP YY]) và tải ngay về máy khi hoàn thành.
+5. Tự động đồng bộ thời gian thực với Console Dashboard UI (VERTICAL 9:16).
 """
 
 import os
@@ -20,28 +19,87 @@ import subprocess
 import requests
 from datetime import datetime
 
-FLOWKIT_API = "http://127.0.0.1:8200"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from cms_integration import push_cms_log, merge_episode_clips
 
-# 👉 THAY PROJECT_ID CỦA BẠN TẠI ĐÂY (Tỉ lệ khung hình dự án: 9:16 PORTRAIT)
+FLOWKIT_API = "http://127.0.0.1:8200"
+CHANNEL_SLUG = "365ngayvietnam"
+ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
+
+# 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "365 NGÀY VIỆT NAM" (Tỉ lệ: 9:16 PORTRAIT)
 PROJECT_ID = "bda4ab8d-725c-4e3c-aa82-ac806c877623"
+DEFAULT_PROJECT_ID = "bda4ab8d-725c-4e3c-aa82-ac806c877623"
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_PORTRAIT"  # 9:16 Khung hình dọc TikTok
+IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_PORTRAIT"
 
 WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SERIES_DIR = os.path.join(WORKSPACE_DIR, "365ngayvietnam")
 FRAMES_DIR = os.path.join(SERIES_DIR, "exported_frames")
 OUTPUT_VIDEOS_DIR = os.path.join(SERIES_DIR, "output_videos")
+CHAR_REFS_DIR = os.path.join(SERIES_DIR, "character_refs")
+CHAR_CACHE_FILE = os.path.join(CHAR_REFS_DIR, "character_media_ids.json")
 
 os.makedirs(FRAMES_DIR, exist_ok=True)
 os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
+os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
-# Bản đồ lưu scene_id trong database để đồng bộ với Dashboard UI
+# -------------------------------------------------------------
+# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA NHÂN VẬT CỐ ĐỊNH CỦA SERIES (VY & JOI)
+# -------------------------------------------------------------
+CHARACTER_SPECS = [
+    {
+        "key": "Vy",
+        "tag": "@Vy",
+        "aliases": ["@Vy", "Vy"],
+        "default_media_id": "a83313e8-8d7b-4f5e-922f-a4cf4af625f1",
+        "description": "Vy (24 tuổi): cô gái Việt Nam nhỏ nhắn 1m60, mặt trái xoan, da sáng ấm, mắt to hai mí, má lúm đồng tiền bên phải, tóc đen dài buộc đuôi ngựa thấp.",
+        "ref_prompt": (
+            "Full-body character reference sheet of @Vy, a 24-year-old Vietnamese young woman, 160cm, slim petite build, "
+            "warm fair skin, oval face, bright dark-brown double-eyelid eyes, a signature dimple on her right cheek when smiling, "
+            "long straight jet-black hair tied in a low ponytail with wispy bangs, wearing a earth-yellow windbreaker over a white tee "
+            "and cargo pants. Photorealistic cinematic 8K, vertical 9:16."
+        ),
+    },
+    {
+        "key": "Joi",
+        "tag": "@Joi",
+        "aliases": ["@Joi", "Joi"],
+        "default_media_id": "9fc5f6b0-8d74-4a8f-9193-5f81ef6a28fa",
+        "description": "Joi (28 tuổi): chàng trai Châu Âu cao 1m83, dáng thể thao vạm vỡ, tóc nâu hạt dẻ gợn sóng, mắt xanh xám ấm áp, râu quai nón cắt tỉa gọn gàng, nói tiếng Việt tự nhiên.",
+        "ref_prompt": (
+            "Full-body character reference sheet of @Joi, a 28-year-old European man, 183cm, athletic broad-shouldered build, "
+            "wavy chestnut-brown hair, warm grey-blue eyes, high nose bridge, neatly trimmed light stubble beard, bright friendly smile, "
+            "wearing a navy-blue trekking jacket over a grey t-shirt and khaki pants. Photorealistic cinematic 8K, vertical 9:16."
+        ),
+    },
+]
+
+LOCKED_CHARACTER_MEDIA_IDS = {}
 SCENE_DB_MAP = {}
 CURRENT_VIDEO_ID = None
+CURRENT_EP_NUM = None
+CURRENT_CLIP_NUM = None
 
 
 def log(msg):
     now = datetime.now().strftime("%H:%M:%S")
     print(f"[{now}] {msg}", flush=True)
+    level = "INFO"
+    if "❌" in msg:
+        level = "ERROR"
+    elif "⚠️" in msg:
+        level = "WARN"
+    elif any(icon in msg for icon in ("✅", "🎉", "💾", "🎞️", "🔒")):
+        level = "SUCCESS"
+    push_cms_log(
+        CHANNEL_SLUG,
+        level,
+        "RUNNER",
+        msg,
+        project_id=PROJECT_ID,
+        episode=CURRENT_EP_NUM,
+        clip_num=CURRENT_CLIP_NUM,
+    )
 
 
 def print_box(title, items, border_char="─"):
@@ -54,9 +112,19 @@ def print_box(title, items, border_char="─"):
             val_display = val_str[:width - len(prefix) - 5] + "..."
         else:
             val_display = val_str
-        spacing = " " * (width - len(prefix) - len(val_display) - 1)
+        spacing = " " * max(0, width - len(prefix) - len(val_display) - 1)
         print(f"{prefix}{val_display}{spacing}│")
-    print("└" + border_char * (width - 2) + "┘")
+    print("└" + border_char * (width - 2) + "┘", flush=True)
+    push_cms_log(
+        CHANNEL_SLUG,
+        "SUCCESS" if "HOÀN THÀNH" in title or "ĐÃ KHÓA" in title else "INFO",
+        "API_BOX",
+        title,
+        project_id=PROJECT_ID,
+        episode=CURRENT_EP_NUM,
+        clip_num=CURRENT_CLIP_NUM,
+        details={k: str(v) for k, v in items},
+    )
 
 
 def resolve_episode_dir(ep_num: int) -> str:
@@ -98,7 +166,7 @@ def check_connection():
         data = r.json()
         if not data.get("extension_connected"):
             log("⚠️ FlowKit server đang chạy nhưng Chrome Extension chưa kết nối!")
-            log(f"👉 Mở Chrome có cài Extension và giữ mở tab https://flow.google.com/project/{PROJECT_ID}")
+            log(f"👉 Mở Chrome có cài Extension và giữ mở tab https://labs.google/fx/vi/tools/flow/project/{PROJECT_ID}")
             return False
         log("✅ FlowKit & Chrome Extension đang kết nối tốt!")
         return True
@@ -108,10 +176,135 @@ def check_connection():
 
 
 # -------------------------------------------------------------
+# 0. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK TỪ GOOGLE FLOW PROJECT)
+# -------------------------------------------------------------
+def load_and_lock_project_characters():
+    """Đảm bảo 100% sử dụng đúng nhân vật @Vy và @Joi đã quy định trong Google Flow Project."""
+    global LOCKED_CHARACTER_MEDIA_IDS
+    log("🔒 Đang kiểm tra và khóa bộ nhân vật cố định (@Vy, @Joi) trên Google Flow...")
+
+    cached_by_project = {}
+    if os.path.exists(CHAR_CACHE_FILE):
+        try:
+            with open(CHAR_CACHE_FILE, "r", encoding="utf-8") as f:
+                cached_by_project = json.load(f)
+        except Exception:
+            cached_by_project = {}
+
+    project_cache = cached_by_project.get(PROJECT_ID, {}) if isinstance(cached_by_project, dict) else {}
+
+    remote_chars = []
+    try:
+        r = requests.get(f"{FLOWKIT_API}/api/flow/project-characters", params={"project_id": PROJECT_ID}, timeout=30)
+        if r.status_code == 200:
+            remote_chars = r.json().get("characters") or []
+    except Exception as e:
+        log(f"⚠️ Không truy vấn được danh sách nhân vật từ Google Flow (sẽ dùng ID khóa sẵn): {e}")
+
+    locked = {}
+    for spec in CHARACTER_SPECS:
+        tag = spec["tag"]
+        aliases_lower = {a.lower().lstrip("@") for a in spec["aliases"]}
+        matched_mid = None
+
+        for rc in remote_chars:
+            rc_name = (rc.get("name") or "").strip().lower().lstrip("@")
+            if rc_name in aliases_lower and rc.get("media_id"):
+                matched_mid = rc["media_id"]
+                break
+
+        if not matched_mid and PROJECT_ID == DEFAULT_PROJECT_ID and spec.get("default_media_id"):
+            matched_mid = spec["default_media_id"]
+
+        if not matched_mid and project_cache.get(tag):
+            matched_mid = project_cache[tag]
+
+        if not matched_mid and spec.get("ref_prompt"):
+            log(f"🎨 Đang tạo mới ảnh mẫu cố định cho nhân vật {tag} trên Project {PROJECT_ID}...")
+            try:
+                gen_res = requests.post(
+                    f"{FLOWKIT_API}/api/flow/generate-image",
+                    json={
+                        "prompt": spec["ref_prompt"],
+                        "project_id": PROJECT_ID,
+                        "aspect_ratio": IMAGE_ASPECT_RATIO,
+                        "image_model": "nano_banana_pro",
+                    },
+                    timeout=90,
+                )
+                if gen_res.status_code == 200:
+                    gdata = gen_res.json()
+                    matched_mid = gdata.get("_mediaId") or gdata.get("media_id")
+                    if not matched_mid:
+                        medias = gdata.get("media") or (gdata.get("data") or {}).get("media") or []
+                        if medias and isinstance(medias[0], dict):
+                            matched_mid = medias[0].get("name") or medias[0].get("media_id")
+            except Exception as e:
+                log(f"⚠️ Không tự tạo được ảnh mẫu cho {tag}: {e}")
+
+        if not matched_mid and spec.get("default_media_id"):
+            matched_mid = spec["default_media_id"]
+
+        if matched_mid:
+            locked[tag] = matched_mid
+
+    LOCKED_CHARACTER_MEDIA_IDS = locked
+
+    try:
+        if not isinstance(cached_by_project, dict):
+            cached_by_project = {}
+        cached_by_project[PROJECT_ID] = locked
+        with open(CHAR_CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(cached_by_project, f, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+
+    box_items = [("Project ID", PROJECT_ID)]
+    for spec in CHARACTER_SPECS:
+        tag = spec["tag"]
+        mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag, "Chưa có")
+        box_items.append((f"Nhân Vật {tag}", f"media_id = {mid}"))
+    box_items.append(("Chế Độ Khóa", "Ingredients R2V (/api/flow/generate-video-omni) + Seamless I2V"))
+    print_box("🔒 ĐÃ KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK)", box_items)
+
+
+def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = None) -> bool:
+    if clip_num == 1 or not start_image_media_id:
+        return True
+    stripped = prompt.lstrip()
+    if stripped.startswith("Continue the scene seamlessly"):
+        return False
+    if stripped.startswith("[FORMAT]") or stripped.startswith("[ĐỊNH DẠNG]"):
+        return True
+    return False
+
+
+def get_clip_reference_media_ids(prompt: str) -> list:
+    selected = []
+    prompt_lower = prompt.lower()
+    for spec in CHARACTER_SPECS:
+        tag = spec["tag"]
+        mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag)
+        if not mid:
+            continue
+        for alias in spec["aliases"]:
+            if alias.lower() in prompt_lower:
+                if mid not in selected:
+                    selected.append(mid)
+                break
+    if not selected:
+        for spec in CHARACTER_SPECS:
+            mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"])
+            if mid and mid not in selected:
+                selected.append(mid)
+    return selected[:7]
+
+
+# -------------------------------------------------------------
 # 1. ĐỒNG BỘ DỰ ÁN VỚI DASHBOARD UI (DATABASE SYNC - 9:16)
 # -------------------------------------------------------------
 def sync_dashboard_database(start_ep: int, end_ep: int):
-    """Tự động tạo hoặc kiểm tra Project, Video, Scenes trong FlowKit DB để Dashboard luôn có data."""
+    """Tự động tạo hoặc kiểm tra Project, Characters, Video, Scenes trong FlowKit DB."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
     log("🔄 Đang đồng bộ cơ sở dữ liệu với Dashboard UI (9:16 VERTICAL)...")
 
@@ -127,11 +320,31 @@ def sync_dashboard_database(start_ep: int, end_ep: int):
                 "material": "realistic",
                 "story": "Hành trình du lịch trải nghiệm xuyên Việt 365 ngày từ Cực Bắc đến Cực Nam của cặp đôi Vy và Joi.",
                 "characters": [
-                    {"name": "Vy", "description": "Vy, cô gái Việt Nam dịu dàng, năng động, má lúm đồng tiền"},
-                    {"name": "Joi", "description": "Joi, chàng trai Châu Âu nam tính, phong trần, nói tiếng Việt tự nhiên"}
+                    {"name": spec["tag"].lstrip("@"), "description": spec["description"]}
+                    for spec in CHARACTER_SPECS
                 ]
             }
             requests.post(f"{FLOWKIT_API}/api/projects", json=p_payload, timeout=10)
+
+        r_chars = requests.get(f"{FLOWKIT_API}/api/characters", params={"project_id": PROJECT_ID}, timeout=5)
+        if r_chars.status_code == 200:
+            db_chars = r_chars.json() or []
+            for spec in CHARACTER_SPECS:
+                mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"])
+                if not mid:
+                    continue
+                aliases_lower = {a.lower().lstrip("@") for a in spec["aliases"]}
+                for dbc in db_chars:
+                    if (dbc.get("name") or "").strip().lower().lstrip("@") in aliases_lower:
+                        requests.put(
+                            f"{FLOWKIT_API}/api/characters/{dbc['id']}",
+                            json={
+                                "description": spec["description"],
+                                "media_id": mid,
+                                "status": "COMPLETED",
+                            },
+                            timeout=5,
+                        )
 
         r_v = requests.get(f"{FLOWKIT_API}/api/videos?project_id={PROJECT_ID}", timeout=5)
         videos = r_v.json() if r_v.status_code == 200 else []
@@ -381,19 +594,25 @@ def upload_start_frame(image_path: str) -> str:
 
 
 # -------------------------------------------------------------
-# 4. GỬI API REQUEST & LOG CHI TIẾT PARAMS (9:16 PORTRAIT)
+# 4. GỬI API REQUEST & LOG CHI TIẾT PARAMS (9:16 PORTRAIT + KHÓA NHÂN VẬT)
 # -------------------------------------------------------------
 def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start_image_media_id: str = None):
-    """Gửi yêu cầu tạo video 9:16 và in đầy đủ thông tin params request ra CLI."""
+    """Gửi yêu cầu tạo video 9:16 và luôn khóa đúng nhân vật @Vy & @Joi."""
     key = f"tap_{ep_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"tap_{ep_num:02d}_clip_{clip_num:02d}"
+    clip_tag = f"[TẬP {ep_num:02d} - CLIP {clip_num:02d}]"
+    flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
 
-    if start_image_media_id:
+    use_char_refs = is_new_scene_clip(prompt, clip_num, start_image_media_id)
+    ref_media_ids = get_clip_reference_media_ids(prompt)
+
+    if not use_char_refs and start_image_media_id:
         endpoint = "/api/flow/generate-video"
-        mode = "🔗 Image-to-Video (Seamless Start Frame Chaining)"
+        mode = "🔗 Image-to-Video (Nối tiếp khung hình cuối Clip trước)"
+        slot_desc = f"Start Frame = {start_image_media_id}"
         payload = {
             "start_image_media_id": start_image_media_id,
-            "prompt": prompt,
+            "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
             "duration_s": 10,
@@ -401,11 +620,25 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
             "resolution": "720p",
             "aspect_ratio": ASPECT_RATIO
         }
+    elif ref_media_ids:
+        endpoint = "/api/flow/generate-video-omni"
+        mode = f"🔒 Ingredients Reference-to-Video (Khóa {len(ref_media_ids)} nhân vật gốc @Vy @Joi)"
+        slot_desc = f"Ingredients Refs = {', '.join(ref_media_ids)}"
+        payload = {
+            "reference_media_ids": ref_media_ids,
+            "prompt": flow_prompt,
+            "project_id": PROJECT_ID,
+            "scene_id": sid,
+            "duration_s": 10,
+            "resolution": "720p",
+            "aspect_ratio": ASPECT_RATIO
+        }
     else:
         endpoint = "/api/flow/generate-video-omni-text"
         mode = "🎬 Text-to-Video (Khung hình gốc mở đầu tập)"
+        slot_desc = "[Trống - Khởi tạo từ Text]"
         payload = {
-            "prompt": prompt,
+            "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
             "duration_s": 10,
@@ -414,19 +647,19 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
         }
 
     print_box(
-        "📡 FLOWKIT API REQUEST CALL (9:16 PORTRAIT)",
+        "📡 FLOWKIT API REQUEST CALL (9:16 PORTRAIT — CHARACTER LOCKED)",
         [
             ("Endpoint API", f"POST {endpoint}"),
+            ("Tên Trên Google Flow", clip_tag),
             ("Phân Cảnh", f"Tập {ep_num:02d} - Clip {clip_num:02d}"),
             ("Chế Độ Tạo", mode),
-            ("Slot [Bắt Đầu]", start_image_media_id if start_image_media_id else "[Trống - Khởi tạo từ Text]"),
-            ("Slot [Kết Thúc]", "[Trống - Chuyển động tự do]"),
-            ("Thời Lượng", "10 giây (Omni Flash abra_10s)"),
+            ("Khóa Hình Ảnh / Nhân Vật", slot_desc),
+            ("Thời Lượng", "10 giây (Omni Flash 10s)"),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", "PORTRAIT (9:16 Vertical TikTok)"),
             ("Model Family", "omni_flash"),
-            ("Độ Dài Prompt", f"{len(prompt)} ký tự"),
-            ("Prompt Preview", prompt[:120].replace("\n", " ") + "..."),
+            ("Độ Dài Prompt", f"{len(flow_prompt)} ký tự"),
+            ("Prompt Preview", flow_prompt[:120].replace("\n", " ") + "..."),
         ]
     )
 
@@ -450,7 +683,7 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
     if not primary_media_id and workflows:
         primary_media_id = workflows[0].get("primary_media_id")
 
-    poll_mode_desc = "workflows (Text-to-Video)" if workflows else ("operations (Image-to-Video)" if operations else "direct media")
+    poll_mode_desc = "workflows (Text-to-Video)" if workflows else ("operations (Ingredients R2V / Image-to-Video)" if operations else "direct media")
     log(f"⏳ Đang theo dõi tiến trình tạo video [Tập {ep_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
 
     last_logged_time = 0
@@ -509,7 +742,7 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
                         return {"success": False, "error": "OPERATION_FAILED"}
 
                     if all_done and inner_ops:
-                        log(f"🎉 Google Flow Image-to-Video hoàn tất sau {elapsed}s!")
+                        log(f"🎉 Google Flow render hoàn tất sau {elapsed}s!")
                         target_mid = op_media_id or primary_media_id
                         if not video_url and target_mid:
                             video_url = fetch_media_video_url(target_mid)
@@ -524,7 +757,7 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
 
             if elapsed - last_logged_time >= 12:
                 last_logged_time = elapsed
-                log(f"   ...Google Flow đang vẽ video 9:16 ({elapsed}s trôi qua)...")
+                log(f"   ...Google Flow đang vẽ video 9:16 đúng nhân vật ({elapsed}s trôi qua)...")
 
         except Exception as e:
             log(f"   ...lỗi tạm thời khi poll ({e}), tiếp tục chờ...")
@@ -567,7 +800,7 @@ def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_pro
             current_prompt = sanitize_prompt(current_prompt, attempt)
             update_clip_file(fpath, current_prompt)
             if attempt == 2 and start_image_media_id:
-                log("🔄 Thử chuyển sang chế độ độc lập nếu khung hình đầu gặp giới hạn...")
+                log("🔄 Chuyển sang chế độ khóa trực tiếp nhân vật gốc (Ingredients R2V) cho lần thử lại...")
                 start_image_media_id = None
             log("⏳ Nghỉ 8 giây trước khi thử lại...")
             time.sleep(8)
@@ -576,6 +809,7 @@ def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_pro
 
 
 def run_pipeline(start_ep=1, end_ep=5):
+    global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
     print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT TỰ ĐỘNG — 365 NGÀY VIỆT NAM (9:16)")
     print(f"📁 Phạm vi: Tập {start_ep:02d} đến Tập {end_ep:02d}")
@@ -583,11 +817,12 @@ def run_pipeline(start_ep=1, end_ep=5):
     print(f"🔗 Google Flow Project: {PROJECT_ID}")
     print(f"💾 Tải video tự động về: {OUTPUT_VIDEOS_DIR}")
     print(f"🖼️ Lưu khung hình nối cảnh tại: {FRAMES_DIR}")
-    print("=" * 72 + "\n")
+    print("=" * 72 + "\n", flush=True)
 
     if not check_connection():
         sys.exit(1)
 
+    load_and_lock_project_characters()
     sync_dashboard_database(start_ep, end_ep)
 
     episode_plan = []
@@ -595,6 +830,8 @@ def run_pipeline(start_ep=1, end_ep=5):
     for ep in range(start_ep, end_ep + 1):
         ep_dir = resolve_episode_dir(ep)
         clips = get_episode_clips(ep_dir)
+        if ONLY_CLIP > 0:
+            clips = [(c, p) for c, p in clips if c == ONLY_CLIP]
         if clips:
             episode_plan.append((ep, ep_dir, clips))
             total_clips += len(clips)
@@ -606,27 +843,39 @@ def run_pipeline(start_ep=1, end_ep=5):
     completed_clips = 0
 
     for ep, ep_dir, clips in episode_plan:
+        CURRENT_EP_NUM = ep
         ep_folder_name = os.path.basename(ep_dir)
         print("\n" + "#" * 72)
         print(f"👉 BẮT ĐẦU TẬP {ep:02d} ({ep_folder_name}) — {len(clips)} CLIPS")
-        print("#" * 72)
+        print("#" * 72, flush=True)
 
         previous_clip_last_frame_media_id = None
 
         for c_idx, fpath in clips:
+            CURRENT_CLIP_NUM = c_idx
             with open(fpath, "r", encoding="utf-8") as f:
                 prompt_content = f.read().strip()
 
             completed_clips += 1
             progress_pct = (completed_clips / total_clips) * 100
-            print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — TẬP {ep:02d} - CLIP {c_idx:02d}")
+            print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — TẬP {ep:02d} - CLIP {c_idx:02d}", flush=True)
+
+            if previous_clip_last_frame_media_id is None and c_idx > 1 and not is_new_scene_clip(prompt_content, c_idx, "existing"):
+                prev_frame = os.path.join(FRAMES_DIR, f"tap_{ep:02d}_clip_{c_idx - 1:02d}_last.jpg")
+                if os.path.exists(prev_frame):
+                    previous_clip_last_frame_media_id = upload_start_frame(prev_frame)
+
+            effective_start_media_id = (
+                None if is_new_scene_clip(prompt_content, c_idx, previous_clip_last_frame_media_id)
+                else previous_clip_last_frame_media_id
+            )
 
             res = run_clip_with_auto_retry(
                 ep_num=ep,
                 clip_num=c_idx,
                 fpath=fpath,
                 initial_prompt=prompt_content,
-                start_image_media_id=previous_clip_last_frame_media_id
+                start_image_media_id=effective_start_media_id
             )
 
             if res["success"] and res.get("video_url"):
@@ -648,14 +897,16 @@ def run_pipeline(start_ep=1, end_ep=5):
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
 
+        CURRENT_CLIP_NUM = None
+        merge_episode_clips(SERIES_DIR, CHANNEL_SLUG, ep, ep_folder_name, project_id=PROJECT_ID)
+
     print("\n" + "=" * 72)
     print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ TẬP {start_ep:02d} ĐẾN TẬP {end_ep:02d}!")
     print(f"📁 Video hoàn chỉnh (9:16) đã được lưu tại: {OUTPUT_VIDEOS_DIR}")
-    print("=" * 72 + "\n")
+    print("=" * 72 + "\n", flush=True)
 
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
     end = int(sys.argv[2]) if len(sys.argv) > 2 else 5
     run_pipeline(start, end)
-

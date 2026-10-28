@@ -1,141 +1,282 @@
 import { useState, useEffect, useCallback } from 'react'
+import { Trash2, RefreshCw, ChevronDown, ChevronRight, Search, Pause, Play, Database } from 'lucide-react'
 import { fetchAPI } from '../../api/client'
 import { useWebSocketContext } from '../../api/useWebSocketContext'
-import { useTranslation } from '../../i18n/useTranslation'
-import { statusLabel } from '../../i18n/labels'
-import type { Request, Character, StatusType } from '../../types'
-import { Card, CardContent } from '../ui/card'
-import { Button } from '../ui/button'
 import { ScrollArea } from '../ui/scroll-area'
 
-interface LogRow {
-  id: string
-  time: string
-  type: string
-  status: StatusType
-  severity: 'info' | 'error'
-  target: string
+interface CmsLogRow {
+  id: number
+  channel_slug: string
+  project_id?: string | null
+  episode?: number | null
+  clip_num?: number | null
+  level: string
+  category: string
+  message: string
+  details?: Record<string, string> | null
+  created_at: string
 }
 
+const CHANNEL_OPTIONS = [
+  { value: 'ALL', label: 'Tất cả các kênh (All Channels)' },
+  { value: 'mit-va-du-1970', label: 'Mít Và Đú 1970 (mit-va-du-1970)' },
+  { value: '365ngayvietnam', label: '365 Ngày Việt Nam (365ngayvietnam)' },
+  { value: 'me-va-be', label: 'Mẹ Và Bé (me-va-be)' },
+  { value: 'pheo-va-no-meo', label: '365 Ngày Phèo Làm Nội Trợ (pheo-va-no-meo)' },
+  { value: 'tay-du-ky-2026', label: 'Tây Du Ký 2026 (tay-du-ky-2026)' },
+  { value: 'biet-doi-gara', label: 'Biệt Đội Gara (biet-doi-gara)' },
+  { value: 'system', label: 'Hệ thống & Đăng nhập (system)' },
+]
+
 export default function LogViewer() {
-  const { t } = useTranslation()
   const { lastEvent } = useWebSocketContext()
-  const [requests, setRequests] = useState<Request[]>([])
-  const [characters, setCharacters] = useState<Character[]>([])
-  const [query, setQuery] = useState('')
-  const [typeFilter, setTypeFilter] = useState<string>('all')
-  const [sevFilter, setSevFilter] = useState<'all' | 'info' | 'error'>('all')
-  const [paused, setPaused] = useState(false)
+  const [logs, setLogs] = useState<CmsLogRow[]>([])
+  const [channelFilter, setChannelFilter] = useState<string>('ALL')
+  const [levelFilter, setLevelFilter] = useState<string>('ALL')
+  const [categoryFilter, setCategoryFilter] = useState<string>('ALL')
+  const [query, setQuery] = useState<string>('')
+  const [paused, setPaused] = useState<boolean>(false)
+  const [expandedIds, setExpandedIds] = useState<Record<number, boolean>>({})
 
   const load = useCallback(async () => {
-    const [reqs, chars] = await Promise.all([
-      fetchAPI<Request[]>('/api/requests'),
-      fetchAPI<Character[]>('/api/characters'),
-    ])
-    setRequests(reqs)
-    setCharacters(chars)
-  }, [])
+    const params = new URLSearchParams()
+    if (channelFilter !== 'ALL') params.set('channel_slug', channelFilter)
+    if (levelFilter !== 'ALL') params.set('level', levelFilter)
+    if (categoryFilter !== 'ALL') params.set('category', categoryFilter)
+    if (query.trim()) params.set('search', query.trim())
+    params.set('limit', '350')
 
-  useEffect(() => { Promise.resolve().then(load) }, [load])
+    try {
+      const res = await fetchAPI<{ logs: CmsLogRow[] }>(`/api/cms/logs?${params.toString()}`)
+      setLogs(res.logs)
+    } catch (e) {
+      console.error('Failed to load CMS logs:', e)
+    }
+  }, [channelFilter, levelFilter, categoryFilter, query])
+
+  useEffect(() => {
+    load()
+  }, [load])
 
   useEffect(() => {
     if (paused || !lastEvent) return
-    if (lastEvent.type === 'request_update' || lastEvent.type === 'urls_refreshed') Promise.resolve().then(load)
-  }, [lastEvent, paused, load])
+    if (lastEvent.type === 'cms_log' && lastEvent.data) {
+      const newLog = lastEvent.data as unknown as CmsLogRow
+      if (channelFilter !== 'ALL' && newLog.channel_slug !== channelFilter) return
+      if (levelFilter !== 'ALL' && newLog.level !== levelFilter) return
+      if (categoryFilter !== 'ALL' && newLog.category !== categoryFilter) return
+      if (
+        query.trim() &&
+        !`${newLog.message} ${JSON.stringify(newLog.details || {})}`
+          .toLowerCase()
+          .includes(query.trim().toLowerCase())
+      ) {
+        return
+      }
+      setLogs(prev => [newLog, ...prev.filter(x => x.id !== newLog.id)].slice(0, 350))
+    }
+  }, [lastEvent, paused, channelFilter, levelFilter, categoryFilter, query])
 
-  const charIndex = new Map(characters.map(c => [c.id, c.name]))
+  async function handleClearLogs() {
+    if (!window.confirm('Bạn có chắc muốn xóa lịch sử log hiện tại?')) return
+    const q = channelFilter !== 'ALL' ? `?channel_slug=${channelFilter}` : ''
+    await fetchAPI(`/api/cms/logs${q}`, { method: 'DELETE' })
+    load()
+  }
 
-  const rows: LogRow[] = requests
-    .slice()
-    .sort((a, b) => (b.updated_at ?? '').localeCompare(a.updated_at ?? ''))
-    .map(r => ({
-      id: r.id,
-      time: r.updated_at,
-      type: r.type,
-      status: r.status,
-      severity: r.status === 'FAILED' ? 'error' : 'info',
-      target: r.character_id ? (charIndex.get(r.character_id) ?? r.character_id.slice(0, 8))
-        : r.scene_id ? t('logs.targetScene', { id: r.scene_id.slice(0, 8) })
-        : r.id.slice(0, 8),
-    }))
+  function toggleExpand(id: number) {
+    setExpandedIds(prev => ({ ...prev, [id]: !prev[id] }))
+  }
 
-  const types = Array.from(new Set(requests.map(r => r.type))).sort()
-
-  const q = query.trim().toLowerCase()
-  const filtered = rows.filter(row => {
-    if (typeFilter !== 'all' && row.type !== typeFilter) return false
-    if (sevFilter !== 'all' && row.severity !== sevFilter) return false
-    if (q && !(row.type + ' ' + row.target + ' ' + row.status).toLowerCase().includes(q)) return false
-    return true
-  })
+  const successCount = logs.filter(l => l.level === 'SUCCESS').length
+  const errorCount = logs.filter(l => l.level === 'ERROR').length
+  const mergeCount = logs.filter(l => l.category === 'MERGE').length
 
   return (
-    <div className="flex flex-col gap-3.5" style={{ height: 'calc(100vh - 130px)' }}>
-      <div className="flex items-center gap-2 flex-wrap">
-        <input
-          value={query}
-          onChange={e => setQuery(e.target.value)}
-          placeholder={t('logs.searchPlaceholder')}
-          className="text-xs px-2.5 py-1.5 rounded outline-none"
-          style={{ width: 280, background: 'var(--card)', color: 'var(--text)', border: '1px solid var(--border)' }}
-        />
-        <select
-          value={typeFilter}
-          onChange={e => setTypeFilter(e.target.value)}
-          className="text-xs px-2 py-1.5 rounded outline-none"
-          style={{ background: 'var(--card)', color: 'var(--text)', border: '1px solid var(--border)' }}
-        >
-          <option value="all">{t('logs.allTypes')}</option>
-          {types.map(rt => <option key={rt} value={rt}>{rt}</option>)}
-        </select>
-        <div className="flex gap-1">
-          {(['all', 'info', 'error'] as const).map(s => (
-            <Button key={s} variant={sevFilter === s ? 'default' : 'outline'} size="sm" onClick={() => setSevFilter(s)}>
-              {s === 'all' ? t('logs.sev.any') : s === 'info' ? t('logs.sev.info') : t('logs.sev.error')}
-            </Button>
-          ))}
+    <div className="flex flex-col gap-4 max-w-[1600px] mx-auto" style={{ height: 'calc(100vh - 120px)' }}>
+      {/* Top Filter & Stats Bar */}
+      <div className="studio-card rounded-2xl p-4 flex flex-wrap items-center justify-between gap-3">
+        <div className="flex items-center gap-2.5 flex-wrap">
+          <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-950/90 border border-slate-800 text-xs">
+            <Search size={13} className="text-slate-400" />
+            <input
+              value={query}
+              onChange={e => setQuery(e.target.value)}
+              placeholder="Tìm nội dung log, media_id, tên tập..."
+              className="bg-transparent outline-none text-white placeholder:text-slate-500 w-56"
+            />
+          </div>
+
+          <select
+            value={channelFilter}
+            onChange={e => setChannelFilter(e.target.value)}
+            className="text-xs px-3 py-1.5 rounded-xl outline-none bg-slate-950/90 text-slate-200 border border-slate-800 cursor-pointer"
+          >
+            {CHANNEL_OPTIONS.map(opt => (
+              <option key={opt.value} value={opt.value}>
+                {opt.label}
+              </option>
+            ))}
+          </select>
+
+          <select
+            value={categoryFilter}
+            onChange={e => setCategoryFilter(e.target.value)}
+            className="text-xs px-3 py-1.5 rounded-xl outline-none bg-slate-950/90 text-slate-200 border border-slate-800 cursor-pointer"
+          >
+            <option value="ALL">Tất cả danh mục (All Categories)</option>
+            <option value="RUNNER">RUNNER (Tiến trình tạo video)</option>
+            <option value="API_BOX">API_BOX (Chi tiết Request / Khóa nhân vật)</option>
+            <option value="MERGE">MERGE (Tự động ghép tập hoàn chỉnh)</option>
+            <option value="JOB">JOB (Quản lý tiến trình CMS)</option>
+            <option value="PROMPT">PROMPT (Lưu kịch bản clip)</option>
+            <option value="CONFIG">CONFIG (Cấu hình kênh)</option>
+            <option value="AUTH">AUTH (Đăng nhập / Bảo mật)</option>
+          </select>
+
+          <div className="flex items-center p-1 rounded-xl bg-slate-950/90 border border-slate-800 text-[11px]">
+            {(['ALL', 'INFO', 'SUCCESS', 'WARN', 'ERROR'] as const).map(lv => (
+              <button
+                key={lv}
+                onClick={() => setLevelFilter(lv)}
+                className={`px-2.5 py-1 rounded-lg font-semibold transition-colors cursor-pointer ${
+                  levelFilter === lv ? 'bg-indigo-600 text-white' : 'text-slate-400 hover:text-slate-200'
+                }`}
+              >
+                {lv === 'ALL' ? 'Tất cả' : lv}
+              </button>
+            ))}
+          </div>
         </div>
-        <Button variant="outline" size="sm" className="ml-auto" onClick={() => setPaused(p => !p)}>
-          {paused ? t('logs.resume') : t('logs.pause')}
-        </Button>
+
+        <div className="flex items-center gap-2">
+          <button
+            onClick={load}
+            className="px-3 py-1.5 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs font-medium text-slate-200 flex items-center gap-1.5 cursor-pointer"
+          >
+            <RefreshCw size={12} /> Tải lại
+          </button>
+          <button
+            onClick={() => setPaused(p => !p)}
+            className={`px-3 py-1.5 rounded-xl border text-xs font-medium flex items-center gap-1.5 cursor-pointer ${
+              paused
+                ? 'bg-amber-500/15 border-amber-500/30 text-amber-300'
+                : 'bg-slate-900 hover:bg-slate-800 border-slate-800 text-slate-200'
+            }`}
+          >
+            {paused ? <Play size={12} /> : <Pause size={12} />}
+            {paused ? 'Tiếp tục Live' : 'Tạm dừng Live'}
+          </button>
+          <button
+            onClick={handleClearLogs}
+            className="px-3 py-1.5 rounded-xl bg-rose-500/10 hover:bg-rose-500/20 border border-rose-500/30 text-xs font-medium text-rose-300 flex items-center gap-1.5 cursor-pointer"
+          >
+            <Trash2 size={12} /> Xóa Log
+          </button>
+        </div>
       </div>
 
-      <Card className="py-0 flex-1 min-h-0 overflow-hidden">
+      {/* Main Log Table Card */}
+      <div className="studio-card rounded-3xl flex-1 min-h-0 overflow-hidden flex flex-col">
         <div
-          className="grid gap-3.5 px-4 py-2.5 text-[9px] tracking-widest"
-          style={{ gridTemplateColumns: '150px 200px 90px 140px 1fr', borderBottom: '1px solid var(--border)', color: 'var(--muted)' }}
+          className="grid gap-3 px-5 py-3 text-[10px] font-bold uppercase tracking-wider bg-slate-950/80 border-b border-slate-800/90 text-slate-400"
+          style={{
+            gridTemplateColumns: '145px 150px 90px 100px 95px 1fr',
+          }}
         >
-          <span>{t('logs.table.time')}</span><span>{t('logs.table.type')}</span><span>{t('logs.table.status')}</span><span>{t('logs.table.target')}</span><span>{t('logs.table.detail')}</span>
+          <span>Thời Gian</span>
+          <span>Kênh Series</span>
+          <span>Mức Độ</span>
+          <span>Danh Mục</span>
+          <span>Tập / Clip</span>
+          <span>Nội Dung Chi Tiết</span>
         </div>
+
         <ScrollArea className="h-full">
-          <CardContent className="py-0">
-            {filtered.length === 0 ? (
-              <div className="py-10 text-center text-xs" style={{ color: 'var(--muted)' }}>{t('logs.empty')}</div>
+          <div className="divide-y divide-slate-800/60">
+            {logs.length === 0 ? (
+              <div className="py-16 text-center text-xs text-slate-500">
+                Chưa có bản ghi log nào khớp bộ lọc hiện tại.
+              </div>
             ) : (
-              filtered.map(row => {
-                const req = requests.find(r => r.id === row.id)
+              logs.map(row => {
+                const hasDetails = row.details && Object.keys(row.details).length > 0
+                const isExpanded = Boolean(expandedIds[row.id])
                 return (
-                  <div
-                    key={row.id}
-                    className="grid gap-3.5 py-2 text-[11px]"
-                    style={{ gridTemplateColumns: '150px 200px 90px 140px 1fr', borderBottom: '1px solid var(--border)' }}
-                  >
-                    <span style={{ color: 'var(--muted)' }}>{new Date(row.time).toLocaleString()}</span>
-                    <span style={{ color: 'var(--accent)' }}>{row.type}</span>
-                    <span style={{ color: row.severity === 'error' ? 'var(--red)' : row.status === 'PROCESSING' ? 'var(--yellow)' : 'var(--green)' }}>{statusLabel(t, row.status)}</span>
-                    <span style={{ color: 'var(--muted)' }}>{row.target}</span>
-                    <span style={{ color: 'var(--muted)' }}>{req?.error_message ?? (req?.retry_count ? t('logs.detailRetry', { n: req.retry_count }) : '')}</span>
+                  <div key={row.id} className="transition-colors hover:bg-white/[0.02]">
+                    <div
+                      onClick={() => hasDetails && toggleExpand(row.id)}
+                      className={`grid gap-3 px-5 py-2.5 text-xs items-center ${hasDetails ? 'cursor-pointer' : ''}`}
+                      style={{ gridTemplateColumns: '145px 150px 90px 100px 95px 1fr' }}
+                    >
+                      <span className="font-mono text-[11px] text-slate-500">{row.created_at}</span>
+                      <span className="font-semibold text-slate-200 truncate">{row.channel_slug}</span>
+                      <span>
+                        <span
+                          className={`px-2 py-0.5 rounded-md text-[10px] font-bold border ${
+                            row.level === 'ERROR'
+                              ? 'bg-rose-500/15 text-rose-300 border-rose-500/30'
+                              : row.level === 'WARN'
+                                ? 'bg-amber-500/15 text-amber-300 border-amber-500/30'
+                                : row.level === 'SUCCESS'
+                                  ? 'bg-emerald-500/15 text-emerald-300 border-emerald-500/30'
+                                  : 'bg-indigo-500/15 text-indigo-300 border-indigo-500/30'
+                          }`}
+                        >
+                          {row.level}
+                        </span>
+                      </span>
+                      <span className="text-[11px] font-mono text-slate-400">{row.category}</span>
+                      <span className="text-[11px] font-mono text-amber-300">
+                        {row.episode ? `Tập ${row.episode}${row.clip_num ? `•C${row.clip_num}` : ''}` : '—'}
+                      </span>
+                      <span className="flex items-center gap-1.5 text-slate-200">
+                        {hasDetails &&
+                          (isExpanded ? (
+                            <ChevronDown size={13} className="text-indigo-400 shrink-0" />
+                          ) : (
+                            <ChevronRight size={13} className="text-slate-500 shrink-0" />
+                          ))}
+                        <span className="break-words">{row.message}</span>
+                      </span>
+                    </div>
+
+                    {hasDetails && isExpanded && (
+                      <div className="mx-5 mb-3 p-3.5 rounded-2xl bg-slate-950/90 border border-slate-800 text-[11px] font-mono grid grid-cols-1 md:grid-cols-2 gap-2">
+                        {Object.entries(row.details || {}).map(([k, v]) => (
+                          <div key={k} className="truncate">
+                            <span className="text-slate-500">{k}: </span>
+                            <span className="text-indigo-300">{v}</span>
+                          </div>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 )
               })
             )}
-          </CardContent>
+          </div>
         </ScrollArea>
-      </Card>
+      </div>
 
-      <div className="flex items-center gap-3.5 text-[10px]" style={{ color: 'var(--muted)' }}>
-        <span>{t('logs.footerCount', { n: filtered.length, m: rows.length })}</span>
-        <span>· {paused ? t('logs.tailPaused') : t('logs.live')}</span>
+      {/* Footer Status Bar */}
+      <div className="flex flex-wrap items-center justify-between gap-3 text-xs text-slate-400 px-1">
+        <div className="flex items-center gap-4">
+          <span className="flex items-center gap-1.5">
+            <Database size={13} className="text-indigo-400" />
+            Đang hiển thị <strong className="text-white">{logs.length}</strong> bản ghi từ SQLite (<code>cms_log</code>)
+          </span>
+          <span>
+            Thành công: <strong className="text-emerald-400">{successCount}</strong>
+          </span>
+          <span>
+            Ghép tập FULL: <strong className="text-amber-400">{mergeCount}</strong>
+          </span>
+          <span>
+            Lỗi: <strong className="text-rose-400">{errorCount}</strong>
+          </span>
+        </div>
+        <span>{paused ? '⏸️ Đã tạm dừng tự động cuộn' : '🟢 Đang nhận log trực tiếp qua WebSocket'}</span>
       </div>
     </div>
   )

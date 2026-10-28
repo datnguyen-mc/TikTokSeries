@@ -1552,13 +1552,7 @@ export default function ChannelsCMSPage() {
                                     : 'bg-slate-900/90 border-slate-800 text-slate-400 hover:text-slate-200'
                               }`}
                             >
-                              {clip.frame_url ? (
-                                <img
-                                  src={resolveApiUrl(clip.frame_url)}
-                                  alt={`Clip ${clip.clip_num}`}
-                                  className="w-7 h-9 object-cover rounded-md border border-white/10 shrink-0"
-                                />
-                              ) : isDone ? (
+                              {isDone ? (
                                 <CheckCircle2 size={15} className="text-emerald-400 shrink-0" />
                               ) : (
                                 <Clock size={15} className="text-slate-500 shrink-0" />
@@ -1770,23 +1764,6 @@ export default function ChannelsCMSPage() {
                                 Nhấn <strong>"Tạo Video Riêng Clip Này"</strong> hoặc{' '}
                                 <strong>"Tạo Video Cả Tập"</strong> để bắt đầu kết xuất.
                               </p>
-                            </div>
-                          )}
-
-                          {currentClip.frame_url && (
-                            <div className="p-3 rounded-2xl bg-slate-950/80 border border-slate-800 flex items-center gap-3.5">
-                              <img
-                                src={resolveApiUrl(currentClip.frame_url)}
-                                alt="Last Frame"
-                                className="w-14 h-20 object-cover rounded-xl border border-white/10 shrink-0"
-                              />
-                              <div className="flex flex-col gap-1 text-xs">
-                                <span className="font-bold text-slate-200">🖼️ Khung Hình Nối Cảnh (Last Frame)</span>
-                                <span className="text-[11px] text-slate-400 leading-relaxed">
-                                  Tự động trích xuất từ cuối Clip {currentClip.clip_num} để nối mượt sang Clip{' '}
-                                  {currentClip.clip_num + 1} (Seamless Chaining).
-                                </span>
-                              </div>
                             </div>
                           )}
                         </div>

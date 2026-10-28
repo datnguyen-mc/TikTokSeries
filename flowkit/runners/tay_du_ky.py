@@ -879,36 +879,18 @@ def run_pipeline(start_ep=8, end_ep=11):
             progress_pct = (completed_clips / total_clips) * 100
             print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — TẬP {ep:02d} - CLIP {c_idx:02d}", flush=True)
 
-            if previous_clip_last_frame_media_id is None and c_idx > 1 and not is_new_scene_clip(prompt_content, c_idx, "existing"):
-                prev_frame = os.path.join(FRAMES_DIR, f"tap_{ep:02d}_clip_{c_idx - 1:02d}_last.jpg")
-                if os.path.exists(prev_frame):
-                    previous_clip_last_frame_media_id = upload_start_frame(prev_frame)
-
-            effective_start_media_id = (
-                None if is_new_scene_clip(prompt_content, c_idx, previous_clip_last_frame_media_id)
-                else previous_clip_last_frame_media_id
-            )
-
             res = run_clip_with_auto_retry(
                 ep_num=ep,
                 clip_num=c_idx,
                 fpath=fpath,
                 initial_prompt=prompt_content,
-                start_image_media_id=effective_start_media_id
+                start_image_media_id=None
             )
 
             if res["success"] and res.get("video_url"):
                 video_url = res["video_url"]
-
                 local_video = download_and_rename_video(video_url, ep, c_idx, ep_folder_name)
                 update_dashboard_scene_status(ep, c_idx, local_video if local_video else video_url)
-
-                source_for_frame = local_video if local_video else video_url
-                last_frame_path = extract_last_frame(source_for_frame, ep, c_idx)
-                if last_frame_path:
-                    previous_clip_last_frame_media_id = upload_start_frame(last_frame_path)
-                else:
-                    previous_clip_last_frame_media_id = None
             else:
                 log(f"⚠️ [Tập {ep:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
                 previous_clip_last_frame_media_id = None

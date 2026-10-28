@@ -7,6 +7,7 @@ Chỉ ghép các file VIDEO (.mp4) thực thụ, chuẩn hóa đồng nhất tim
 
 import os
 import re
+import time
 import json
 import shutil
 import tempfile
@@ -519,3 +520,43 @@ def merge_multi_scenes_to_episode(
         return {"ok": False, "error": "CONCAT_FAILED"}
     finally:
         shutil.rmtree(tmpdir, ignore_errors=True)
+
+
+def wait_if_cooldown_error(res_text: str, flowkit_api: str = None, log_fn=print) -> bool:
+    """
+    Kiểm tra nếu phản hồi lỗi từ Google Flow là PUBLIC_ERROR_UNUSUAL_ACTIVITY / local cooldown active:
+    - Tự động đọc số giây cần chờ (ví dụ 'retry in about 66s'), chờ đủ thời gian (tối đa 70s)
+      rồi gọi POST /api/flow/clear-hijack để mở khóa hàng đợi.
+    - Trả về True để runner gửi lại đúng clip đó mà KHÔNG bị trừ lượt retry và KHÔNG sửa file prompt.
+    """
+    text = str(res_text or "")
+    if (
+        "PUBLIC_ERROR_UNUSUAL_ACTIVITY" not in text
+        and "local cooldown active" not in text
+        and "unusual_activity" not in text.lower()
+        and "extension_hijack" not in text.lower()
+    ):
+        return False
+
+    api_base = flowkit_api or FLOWKIT_API
+    m = re.search(r"retry in about\s+(\d+)\s*s", text, re.IGNORECASE)
+    reported_s = int(m.group(1)) if m else 65
+    wait_s = min(max(reported_s + 3, 15), 70)
+
+    log_fn(
+        f"⏳ [COOLDOWN] Google Flow yêu cầu tạm nghỉ chống spam ({reported_s}s). "
+        f"Tự động chờ {wait_s}s rồi gửi lại (KHÔNG tính lỗi, KHÔNG sửa file prompt)..."
+    )
+    time.sleep(wait_s)
+
+    try:
+        if requests is not None:
+            requests.post(f"{api_base}/api/flow/clear-hijack", timeout=5)
+        else:
+            req = urllib.request.Request(f"{api_base}/api/flow/clear-hijack", data=b"{}", method="POST")
+            urllib.request.urlopen(req, timeout=5)
+    except Exception:
+        pass
+
+    log_fn("✅ [COOLDOWN] Đã hết thời gian nghỉ Cooldown & mở khóa hàng đợi. Tiếp tục gửi lại clip!")
+    return True

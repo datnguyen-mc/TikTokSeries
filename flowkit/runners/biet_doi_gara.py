@@ -18,7 +18,7 @@ import requests
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from cms_integration import push_cms_log, merge_episode_clips, merge_multi_scenes_to_episode
+from cms_integration import push_cms_log, merge_episode_clips, merge_multi_scenes_to_episode, wait_if_cooldown_error
 
 FLOWKIT_API = "http://127.0.0.1:8200"
 CHANNEL_SLUG = "biet-doi-gara"
@@ -813,6 +813,16 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                     log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt} ({poll_res.get('error')}).")
             else:
                 log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {res.text}")
+                if wait_if_cooldown_error(res.text, FLOWKIT_API, log):
+                    res_after = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+                    if res_after.status_code == 200:
+                        data = res_after.json()
+                        inner = data.get("data") if isinstance(data.get("data"), dict) else data
+                        log("✅ Google Flow đã chấp nhận job tạo video sau khi chờ Cooldown.")
+                        poll_res = poll_generation(inner, scene_num, clip_num)
+                        if poll_res["success"] and poll_res.get("video_url"):
+                            return poll_res
+                        continue
         except Exception as e:
             log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
 

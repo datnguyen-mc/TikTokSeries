@@ -1,4 +1,79 @@
-# Biệt Đội Gara: Cú Lướt Tử Thần — Đăng YouTube (Bản Điện Ảnh 45 Phút)
+# Biệt Đội Gara — Nội Dung & Caption Đăng YouTube (Tập 1 Full 10 Phút & Bản Điện Ảnh 45 Phút)
+
+---
+
+## 🔥 PHẦN A: ĐĂNG YOUTUBE TẬP 1 FULL 10 PHÚT (CẢNH 01 → CẢNH 10)
+> **File video:** `output_videos/biet-doi-gara_tap-01_FULL.mp4` (`10:00` · `1280×720` · `16:9 Widescreen`)
+
+### 1. Tiêu Đề YouTube Tập 1 (Chọn 1 trong 3)
+* **Lựa chọn 1 (Kịch tính, chuẩn SEO — Khuyên dùng):**
+  ```text
+  BIỆT ĐỘI GARA - TẬP 1 (Full 10 Phút): Lõi Bảy Khởi Động & Cạm Bẫy Đường Đua | Phim Hành Động Siêu Nhân
+  ```
+* **Lựa chọn 2 (Nhấn mạnh tốc độ & gia đình):**
+  ```text
+  BIỆT ĐỘI GARA [Tập 1] | Khi Tiệm Sửa Xe Hóa Chiến Binh Giáp Sắt Bảo Vệ Thành Phố (Full HD 16:9)
+  ```
+* **Lựa chọn 3 (Gợi tò mò):**
+  ```text
+  BIỆT ĐỘI GARA - Tập 1: 5 Lõi Giáp Thức Tỉnh & Cuộc Đua Nghẹt Thở Giải Cứu Đồng Đội [Phim Hành Động AI]
+  ```
+
+### 2. Nội Dung Mô Tả (Description / Caption) Đăng YouTube Tập 1
+> Copy nguyên khối bên dưới dán vào ô **Mô tả (Description)** khi đăng YouTube (đã tích hợp sẵn **Chapters 00:00 – 09:00** chia 10 cảnh tự động trên thanh tua YouTube):
+
+```text
+BIỆT ĐỘI GARA — TẬP 1: LÕI BẢY KHỞI ĐỘNG & CẠM BẪY ĐƯỜNG ĐUA (FULL 10 PHÚT)
+Phim hành động tốc độ kết hợp siêu anh hùng giáp chiến đậm chất Việt Nam: gia đình tự chọn, xe độ, võ Vovinam và tình anh em sống chết có nhau.
+
+📌 TÓM TẮT NỘI DUNG TẬP 1 (PHÚT 00:00 – 10:00):
+Ở một góc kênh yên bình, Gara Bảy là mái ấm của bốn anh em không cùng huyết thống: Thắng "Gió", Lan "Cáo", Hải "Búa" và Khôi "Bit" dưới di nguyện của người thầy quá cố là Bác Bảy. Biến cố ập đến ngay giữa bữa cơm chiều khi nhóm Găng Xám của Sói Xám đột kích vào gara, cướp đi chiếc xe kỷ vật của ba Lan và nửa bức thư mật.
+Trong khoảnh khắc nguy cấp, hộp đồ nghề cũ của Bác Bảy phát sáng, kích hoạt 4 Lõi Giáp biến 4 người thợ máy thành các chiến binh giáp sắt. Cùng sự xuất hiện của Đội trưởng Minh — chủ nhân Chiếc Lõi Thứ Năm (Giáp Khiên), cả đội vừa giải mã bức thư trên sân thượng, nâng cấp chiến xa, luyện tập hợp lực thì nhận được cuộc gọi tống tiền từ Sói Xám tại đường đua kín ngoại thành: Tú bị gài vòng khóa từ tính trên xe, buộc Thắng và Lan phải bước vào cuộc đua nghẹt thở để cứu người!
+
+💬 Câu nói tâm đắc của Gara Bảy:
+"Muốn đua thì lên đường đua. Ra đường là chở người mình thương. Ở đây không có ai bị bỏ lại phía sau!"
+
+⏱️ DANH SÁCH CHƯƠNG PHIM TẬP 1 (TIMESTAMPS / CHAPTERS):
+00:00 Cảnh 01: Bữa Cơm Ven Kênh
+01:00 Cảnh 02: Tập Kích Bất Ngờ
+02:00 Cảnh 03: Lõi Bảy Khởi Động (Biến Hình Giáp Chiến)
+03:00 Cảnh 04: Trận Chiến Đầu Tiên & Giằng Co Bức Thư
+04:00 Cảnh 05: Chiếc Lõi Thứ Năm (Đội Trưởng Minh Xuất Hiện)
+05:00 Cảnh 06: Bữa Lẩu Sân Thượng & Giải Mã Nửa Bức Thư
+06:00 Cảnh 07: Nâng Cấp Chiến Xa
+07:00 Cảnh 08: Luyện Tập Giáp Chiến
+08:00 Cảnh 09: Cạm Bẫy Đường Đua
+09:00 Cảnh 10: Hai Xe Xuất Phát
+
+🛡️ ĐỘI HÌNH CHIẾN BINH GARA BẢY:
+• Thắng "Gió" — Giáp Gió Đỏ Đen (Chiến xa Coupe Đen Nhám Hắc Phong)
+• Lan "Cáo" — Giáp Cáo Trắng Xanh Băng (Chiến xa Hatchback Trắng Sọc Xanh)
+• Hải "Búa" — Giáp Búa Cam Xám Thép (Võ Vovinam & Búa Năng Lượng)
+• Khôi "Bit" — Giáp Bit Vàng Đen (Drone Công Nghệ & Phá Khóa Từ)
+• Đội trưởng Minh — Giáp Khiên Xanh Thẫm Bạc (Khiên Quang Học & Vòng Khóa Ánh Sáng)
+
+⚠️ LƯU Ý & KHUYẾN CÁO AN TOÀN:
+- Toàn bộ nhân vật, tổ chức, bối cảnh và tình tiết trong phim là hư cấu nghệ thuật giải trí, được tạo dựng bằng công nghệ AI (Google Flow / Gemini Omni).
+- Các phân cảnh tốc độ cao trong phim chỉ diễn ra tại trường đua thử nghiệm khép kín hư cấu. Tuyệt đối tuân thủ luật giao thông đường bộ ngoài đời thực.
+
+👉 Đừng quên nhấn LIKE, ĐĂNG KÝ KÊNH (SUBSCRIBE) và bật chuông thông báo để đón xem Tập 2 (Cảnh 11 – Cảnh 20): Khúc Cua Tử Thần & Màn Gỡ Khóa Từ Ở Giây Cuối Cùng!
+
+#bietdoigara #phimhanhdong #sieuanhhung #phimvietnam #phimai
+```
+
+### 3. Bình Luận Ghim (Pinned Comment) Cho Tập 1
+```text
+🔥 Anh em ấn tượng nhất với bộ giáp của thành viên nào trong Tập 1: Giáp Gió (Thắng), Giáp Cáo (Lan), Giáp Búa (Hải), Giáp Bit (Khôi) hay Giáp Khiên (Đội trưởng Minh)? Bình luận bên dưới và bấm Đăng Ký kênh để hóng Tập 2: Màn quay đầu xe gỡ mạch khóa từ tính ở giây 03 nhé! 🏎️⚡
+```
+
+### 4. Thẻ Từ Khóa (Tags) YouTube
+```text
+biệt đội gara, biet doi gara tap 1, phim hanh dong viet nam, phim dua xe, sieu anh hung viet nam, chiến binh giáp sắt, phim ai, phim ngan ai, gara bay, thang gio, lan cao, hai bua, khoi bit, doi truong minh, soi xam, lõi bảy khởi động
+```
+
+---
+
+## 🎬 PHẦN B: ĐĂNG YOUTUBE BẢN ĐIỆN ẢNH ĐẦY ĐỦ 45 PHÚT (CẢNH 01 → CẢNH 45)
 
 > **Thông số kỹ thuật video:**
 > - **Thời lượng:** 45:00 (45 cảnh × 6 clip × 10 giây).
@@ -111,7 +186,7 @@ THÔNG TIN SẢN XUẤT:
      * *Thumbnail C:* Đội hình 5 chiến binh giáp 5 màu đứng dàn hàng ngang tung đòn hợp lực (Cảnh 44).
 4. **Thẻ từ khóa (Tags):**
    ```text
-   biệt đội gara, biet doi gara, phim hanh dong viet nam, phim dua xe, fast and furious viet nam, sieu anh hung viet nam, phim ai, phim ngan ai, đua xe, xe do, gara bay, thang gio, lan cao, hai bua, khoi bit, dai uy minh, phim 45 phut full movie
+   biệt đội gara, biet doi gara, phim hanh dong viet nam, phim dua xe, fast and furious viet nam, sieu anh hung viet nam, phim ai, phim ngan ai, đua xe, xe do, gara bay, thang gio, lan cao, hai bua, khoi bit, doi truong minh, phim 45 phut full movie
    ```
 
 ---

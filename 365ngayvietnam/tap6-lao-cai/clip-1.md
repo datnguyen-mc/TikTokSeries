@@ -77,4 +77,3 @@ Chiếc Scrambler chở hai người đội mũ 3/4 chạy qua cổng bản vào
 
 ### [LOẠI TRỪ]
 Mũ tự xuất hiện trên đầu mà không có động tác nhấc từ ghi-đông, ngồi trên xe chạy mà không đội mũ hoặc không cài quai, xe lăn bánh khi kính còn đẩy cao, mũ fullface che miệng, chạy xe ban đêm, trời mưa, biển hiệu hay cột mốc có chữ, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, flycam sau 00:01.5, thoại trong 00:07.5–00:10, phụ đề, chữ, watermark, thẻ tên.
-

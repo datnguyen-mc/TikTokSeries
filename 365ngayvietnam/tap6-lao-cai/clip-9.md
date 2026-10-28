@@ -86,4 +86,3 @@ Chiếc Scrambler chở hai người đội mũ 3/4 (kính đã gạt xuống) b
 
 ### [LOẠI TRỪ]
 Mũ tự xuất hiện trên đầu mà không có động tác nhấc từ ghi-đông, xe chạy mà không đội mũ hoặc không cài quai, xe lăn bánh khi kính còn đẩy cao, mũ fullface che miệng, trời đã tối đen (không chạy đèo ban đêm), mặt hai người bị ngược sáng tối đen, dừng xe giữa lòng đường đèo, biển báo hay cột mốc có chữ, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:03.0 hoặc trong 00:07.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
-

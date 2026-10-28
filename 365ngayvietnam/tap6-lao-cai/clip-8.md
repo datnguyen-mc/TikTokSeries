@@ -12,7 +12,7 @@
 - **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
 - **Clip ở yên một chỗ (quy tắc 4 từ Tập 5):** 00:00–00:01.0 nối cảnh không thoại · 00:01.0–00:04.5 @Vy nói · 00:04.5–00:08.5 @Joi nói · 00:08.5–00:10.0 đệm minh họa không thoại: tước vỏ tre giữ màng lụa mỏng, bẻ khúc cơm lam chấm chẩm chéo.
 - **Mũ bảo hiểm:** KHÔNG đội khi ngồi ăn; hai mũ 3/4 móc trên ghi-đông chiếc Scrambler dựng ở sân đất bên hông quán, thấy nét mờ ở hậu cảnh.
-- **Không rượu bia:** chỉ có hai cốc trà thảo mộc ấm trên bàn vì buổi chiều còn chạy đèo.
+- **Không trà ấm bia:** chỉ có hai cốc trà thảo mộc ấm trên bàn vì buổi chiều còn chạy đèo.
 - **Địa danh viết hoa:** Sa Pa, Lào Cai.
 - Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa bảng giá, biển hiệu có chữ vào khung.
 
@@ -27,7 +27,7 @@ Làn khói trắng thơm phức bốc lên từ những ống cơm lam tre xanh 
 - **Quán nướng gỗ ven đường núi Sa Pa:** mái hiên gỗ mộc mở ra thung lũng núi xanh phía xa; cạnh bàn là bếp than củi hồng rực đặt vỉ nướng vài ống tre cơm lam và xiên thịt.
 - **Trên bàn gỗ thấp:** một mẹt tre nhỏ lót lá chuối bày ba ống **cơm lam** đã chẻ sẵn các thanh vỏ tre ngoài như cánh hoa, để lộ lõi cơm nếp trắng ngần được bọc trong lớp màng lụa tre mỏng; một đĩa gốm bày những xiên **thịt ba chỉ lợn bản nướng** vàng óng lấm tấm hạt mắc khén rang thơm; một đĩa nhỏ đựng **muối chẩm chéo** giã nhuyễn màu xanh đỏ của ớt nướng, tỏi, mắc khén, hạt dổi và rau thơm; hai cốc trà thảo mộc ấm.
 - **Bên hông quán (nét mờ):** chiếc Scrambler xám xi măng dựng chân chống, hai mũ 3/4 kem be và xanh rêu móc trên ghi-đông. Balo 50L của @Joi đặt cạnh chân ghế.
-- Không đưa vào khung: bảng giá, biển hiệu có chữ, chai rượu hay lon bia.
+- Không đưa vào khung: bảng giá, biển hiệu có chữ, chai trà ấm hay lon bia.
 
 ---
 
@@ -83,5 +83,4 @@ Lo-fi acoustic ấm áp, guitar gảy nhịp vui tươi cùng tiếng sáo trúc
 Ánh hồng cam ấm áp của than nướng hòa quyện cùng quầng nắng chiều vàng cam ngoài hiên quán núi. Giữ cố định 0,5 giây. Clip 9 mở bằng ánh nắng hoàng hôn vàng cam rực rỡ trải dài trên biển mây Đèo Ô Quy Hồ.
 
 ### [LOẠI TRỪ]
-Cơm trắng đựng trong bát sứ thay vì ống tre, bóc sạch không còn vỏ ống tre, rượu bia trên bàn, đội mũ bảo hiểm hay cầm mũ khi ngồi ăn, vừa nhai vừa nói, mặt chủ quán hay người lạ cận cảnh, bảng giá hay biển hiệu có chữ, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
-
+Cơm trắng đựng trong bát sứ thay vì ống tre, bóc sạch không còn vỏ ống tre, trà ấm bia trên bàn, đội mũ bảo hiểm hay cầm mũ khi ngồi ăn, vừa nhai vừa nói, mặt chủ quán hay người lạ cận cảnh, bảng giá hay biển hiệu có chữ, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.

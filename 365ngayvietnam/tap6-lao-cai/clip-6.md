@@ -84,4 +84,3 @@ Dải mây trắng cuộn tròn thành hình xoắn ốc bên cạnh phiến đ�
 
 ### [LOẠI TRỪ]
 Xe máy trên đỉnh núi, đội mũ bảo hiểm hay cầm mũ trên đỉnh Fansipan, trèo qua lan can an toàn, chữ hay số khắc trên chóp kim loại lọt vào khung, biển báo có chữ, trời mưa mù mịt không thấy mây, trời tối, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
-

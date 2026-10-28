@@ -11,8 +11,13 @@ import json
 import shutil
 import tempfile
 import subprocess
-import requests
+import urllib.request
 from datetime import datetime
+
+try:
+    import requests
+except ImportError:
+    requests = None
 
 os.environ["NO_PROXY"] = "127.0.0.1,localhost"
 os.environ["no_proxy"] = "127.0.0.1,localhost"
@@ -58,7 +63,16 @@ def push_cms_log(
             "message": eff_msg,
             "details": details,
         }
-        requests.post(f"{FLOWKIT_API}/api/cms/logs", json=payload, timeout=3)
+        if requests is not None:
+            requests.post(f"{FLOWKIT_API}/api/cms/logs", json=payload, timeout=3)
+        else:
+            req = urllib.request.Request(
+                f"{FLOWKIT_API}/api/cms/logs",
+                data=json.dumps(payload).encode("utf-8"),
+                headers={"Content-Type": "application/json"},
+                method="POST",
+            )
+            urllib.request.urlopen(req, timeout=3)
     except Exception:
         pass
 
@@ -425,5 +439,83 @@ def merge_episode_clips(
             print(err_msg, flush=True)
             push_cms_log(channel_slug, err_msg, level="ERROR", category="MERGE", project_id=project_id, episode=ep_num)
             return {"ok": False, "success": False, "error": err_msg}
+    finally:
+        shutil.rmtree(tmpdir, ignore_errors=True)
+
+
+def merge_multi_scenes_to_episode(
+    series_dir: str,
+    channel_slug: str,
+    tap_num: int,
+    start_scene: int,
+    end_scene: int,
+    project_id: str = None,
+) -> dict:
+    """
+    Ghép 10 cảnh (ví dụ canh-01 -> canh-10 = 60 clips = 10 phút) thành 1 Tập Full 10 phút:
+    - <series_dir>/output_videos/<channel_slug>_tap-{tap_num:02d}_FULL.mp4
+    - <series_dir>/output_videos/<channel_slug>_tap-{tap_num}_FULL.mp4
+    - <series_dir>/output_videos/full_episodes/<channel_slug>_tap-{tap_num:02d}_FULL.mp4
+    - <series_dir>/output_videos/full_episodes/<channel_slug>_tap-{tap_num}_FULL.mp4
+    """
+    output_videos_dir = os.path.join(series_dir, "output_videos")
+    full_episodes_dir = os.path.join(output_videos_dir, "full_episodes")
+    os.makedirs(full_episodes_dir, exist_ok=True)
+
+    scene_videos = []
+    for s in range(start_scene, end_scene + 1):
+        res = merge_episode_clips(series_dir, channel_slug, s, f"canh-{s:02d}", project_id=project_id, unit_label="Cảnh")
+        if res.get("ok") and res.get("merged_path") and os.path.exists(res["merged_path"]):
+            scene_videos.append(res["merged_path"])
+
+    if not scene_videos:
+        return {"ok": False, "error": "NO_SCENE_VIDEOS"}
+
+    out_02d = os.path.join(output_videos_dir, f"{channel_slug}_tap-{tap_num:02d}_FULL.mp4")
+    out_d = os.path.join(output_videos_dir, f"{channel_slug}_tap-{tap_num}_FULL.mp4")
+    full_02d = os.path.join(full_episodes_dir, f"{channel_slug}_tap-{tap_num:02d}_FULL.mp4")
+    full_d = os.path.join(full_episodes_dir, f"{channel_slug}_tap-{tap_num}_FULL.mp4")
+
+    tmpdir = tempfile.mkdtemp(prefix="flowkit_merge10_")
+    try:
+        concat_list = os.path.join(tmpdir, "concat_list.txt")
+        with open(concat_list, "w", encoding="utf-8") as f:
+            for p in scene_videos:
+                escaped = p.replace("'", "'\\''")
+                f.write(f"file '{escaped}'\n")
+
+        subprocess.run(
+            [
+                "ffmpeg",
+                "-y",
+                "-f",
+                "concat",
+                "-safe",
+                "0",
+                "-i",
+                concat_list,
+                "-c:v",
+                "copy",
+                "-c:a",
+                "copy",
+                "-movflags",
+                "+faststart",
+                out_02d,
+            ],
+            capture_output=True,
+            text=True,
+            timeout=300,
+        )
+        if os.path.exists(out_02d) and os.path.getsize(out_02d) > 0:
+            shutil.copy2(out_02d, out_d)
+            shutil.copy2(out_02d, full_02d)
+            shutil.copy2(out_02d, full_d)
+            dur = probe_video_duration(out_02d)
+            sz = round(os.path.getsize(out_02d) / (1024 * 1024), 2)
+            msg = f"🎉 Đã ghép Tập {tap_num:02d} FULL 10 phút (Cảnh {start_scene:02d} -> {end_scene:02d}, {dur:.1f}s, {sz:.2f} MB)"
+            print(msg, flush=True)
+            push_cms_log(channel_slug, msg, level="SUCCESS", category="MERGE", project_id=project_id, episode=tap_num)
+            return {"ok": True, "output_path": out_02d, "duration_s": dur, "size_mb": sz}
+        return {"ok": False, "error": "CONCAT_FAILED"}
     finally:
         shutil.rmtree(tmpdir, ignore_errors=True)

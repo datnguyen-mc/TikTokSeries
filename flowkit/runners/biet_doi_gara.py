@@ -18,7 +18,7 @@ import requests
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from cms_integration import push_cms_log, merge_episode_clips
+from cms_integration import push_cms_log, merge_episode_clips, merge_multi_scenes_to_episode
 
 FLOWKIT_API = "http://127.0.0.1:8200"
 CHANNEL_SLUG = "biet-doi-gara"
@@ -890,7 +890,10 @@ def run_pipeline(start_scene=3, end_scene=5):
             time.sleep(5)
 
         CURRENT_CLIP_NUM = None
-        merge_episode_clips(SERIES_DIR, CHANNEL_SLUG, s, f"canh-{s:02d}", project_id=PROJECT_ID)
+        merge_episode_clips(SERIES_DIR, CHANNEL_SLUG, s, f"canh-{s:02d}", project_id=PROJECT_ID, unit_label="Cảnh")
+        if s % 10 == 0:
+            tap_num = s // 10
+            merge_multi_scenes_to_episode(SERIES_DIR, CHANNEL_SLUG, tap_num, s - 9, s, project_id=PROJECT_ID)
 
     print("\n" + "=" * 72)
     print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d}!")

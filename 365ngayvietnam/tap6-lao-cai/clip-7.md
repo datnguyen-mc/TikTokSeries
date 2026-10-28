@@ -85,4 +85,3 @@ Làn khói mỏng bốc lên từ chiếc bát đồng đựng sáp ong đặt t
 
 ### [LOẠI TRỪ]
 Lộ mặt người phụ nữ Mông hoặc mặt người lạ, người địa phương nói thoại, dùng bút lông hay cọ sơn thay vì bút ngòi đồng, vải có kẻ chì sẵn, máy may công nghiệp, đội mũ bảo hiểm hay cầm mũ trong bản, biển hiệu hay bảng giá có chữ, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
-

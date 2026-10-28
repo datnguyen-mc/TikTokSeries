@@ -6,7 +6,7 @@
 > **Thời gian trong phim:** chiều thứ Hai 26/10/2026 (17/9 âm lịch) và cả ngày thứ Ba 27/10/2026 (18/9 âm lịch). Ngày đầu gần như chỉ chạy xe và gặp mưa rào, nên dồn các cảnh ăn và check-in vào ngày thứ hai, khi dự báo khô ráo.  
 > **Master context:** [MASTER_CONTEXT.md](../MASTER_CONTEXT.md)  
 > **Nối từ:** [Tập 4 Clip 7](../tap4-lang-son/clip-7.md). 08:20 sáng 26/10, Scrambler rời bãi đỗ Ải Chi Lăng, hai người đội mũ 3/4, cài quai, kính đã gạt xuống. Clip 1 mở trên đường sau nửa ngày chạy, mũ vẫn đội.  
-> **Nối sang:** Tập 6, mở sáng thứ Tư 28/10 ở sân nhà sàn Bản Nà Tông: Scrambler dưới gầm sàn, hai mũ 3/4 móc trên ghi-đông. Hướng đi tiếp theo bảng lộ trình (xem ghi chú ở mục Lưu ý thực tế).
+> **Nối sang:** [Tập 6 Lào Cai](../tap6-lao-cai/README.md), mở sáng thứ Tư 28/10 ở sân nhà sàn Bản Nà Tông: Scrambler dưới gầm sàn, hai mũ 3/4 móc trên ghi-đông, xuất phát theo QL279 đi Bắc Hà – Sa Pa (Lào Cai).
 
 ---
 

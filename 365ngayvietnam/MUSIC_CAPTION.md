@@ -90,3 +90,20 @@ Ngày thứ năm của Vy và Joi ở Tuyên Quang! Khoảng hai trăm cây số
 #365ngayvietnam #TuyenQuang #NaHang #VyvaJoi #xuyenviet
 ```
 
+---
+
+## 📋 TẬP 6: LÀO CAI — Từ Bắc Hà Lên Đỉnh Fansipan & Hoàng Hôn Đèo Ô Quy Hồ: Phở Hồng Gạo Đỏ, Dinh Hoàng A Tưởng, Sáp Ong Vải Lanh, Lẩu Cá Tầm (9 Clips · 90 giây)
+
+### 🎵 Nhạc đề xuất:
+- **Lựa chọn 1 (Ưu tiên):** Sáo trúc Tây Bắc và khèn bè phối Cinematic Folk + Indie hiện đại; mở bằng câu đàn Tính chuyển sang sáo trúc khi rời Bản Nà Tông, cổ kính ở Dinh Hoàng A Tưởng, lãng mạn trong sương chiều Nhà Thờ Đá Sa Pa, bùng nổ hào hùng trên biển mây Đỉnh Fansipan 3.143m, khép bằng tiếng sáo trúc ngân dài lúc hoàng hôn trên Đèo Ô Quy Hồ.
+- **Lựa chọn 2:** Lo-fi Acoustic ấm áp cho bữa trưa phở hồng Bắc Hà, bữa tối lẩu cá tầm măng chua và bữa trưa cơm lam ống tre.
+
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Ngày thứ sáu của Vy và Joi ở Lào Cai! Rời Na Hang theo QL279 sang cao nguyên trắng Bắc Hà ăn phở hồng gạo đỏ trộn nước chua, thăm Dinh Hoàng A Tưởng hơn trăm năm tuổi, chiều lên Sa Pa ngắm Nhà Thờ Đá trong sương và xì xụp nồi lẩu cá tầm măng chua nhúng cải mèo. Sáng hôm sau đi cáp treo chuyến sớm săn biển mây trên Đỉnh Fansipan 3.143m, xem người Mông vẽ sáp ong trên vải lanh ở Bản Cát Cát, trưa ăn cơm lam thịt nướng mắc khén rồi đón hoàng hôn vàng rực trên Đèo Ô Quy Hồ! 🇻🇳☁️🏔️
+
+📌 Cẩm nang nhanh: phở hồng Bắc Hà tráng từ gạo đỏ, ăn nguội trộn nước chua rau cải · Dinh Hoàng A Tưởng mở cửa 08:00–17:00 · cáp treo Fansipan ngày thường đón khách từ 08:00, leo khoảng 600 bậc đá nên bước chậm đều · cơm lam nhớ giữ lớp màng tre mỏng cho thơm · ngắm hoàng hôn Đèo Ô Quy Hồ khoảng 16:45–17:15 rồi về trước khi tối.
+
+#365ngayvietnam #LaoCai #SaPa #VyvaJoi #xuyenviet
+```
+

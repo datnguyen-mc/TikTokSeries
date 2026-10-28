@@ -293,6 +293,9 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 - **Tập 4 (Lạng Sơn):** Bản Pác Ngòi, Hồ Ba Bể, Chợ Rã, Na Rì, Cường Lợi, Thất Khê, Tràng Định, Na Sầm, Đồng Đăng, Động Tam Thanh, Chùa Tam Thanh, Núi Tam Thanh, Hồ Âm Ty, Núi Tô Thị, Nàng Tô Thị, Núi Phai Vệ, Cột Cờ Phai Vệ, Phố Kỳ Lừa, Chợ Đêm Kỳ Lừa, Ải Chi Lăng, Chi Lăng, Quán Thanh, Nhà Trưng Bày Chiến Thắng Chi Lăng, Hữu Lũng, Xứ Lạng, Lạng Sơn
 - **Tập 5 (Tuyên Quang):** Thái Nguyên, Sơn Dương, Tân Trào, Cây Đa Tân Trào, Đình Tân Trào, Chiêm Hóa, Vĩnh Lộc, Thượng Lâm, Hồ Na Hang, Na Hang, Sông Gâm, Thác Khuổi Nhi, Cọc Vài Phạ, Lâm Bình, Bản Nà Tông, Nà Tông, Tuyên Quang
 
+### Chặng 2: Tây Bắc (Tập 6–10)
+- **Tập 6 (Lào Cai):** Bắc Hà, Pạc Kha, Dinh Hoàng A Tưởng, Sa Pa, Nhà Thờ Đá Sa Pa, Nhà Thờ Đá, Hoàng Liên Sơn, Ga Hoàng Liên, Ga Fansipan, Đỉnh Fansipan, Fansipan, Hủa Xi Pan, Bản Cát Cát, Cát Cát, Đèo Ô Quy Hồ, Ô Quy Hồ, Mù Cang Chải, Lào Cai
+
 ---
 
 ## VIII. 🗺️ BẢNG LỘ TRÌNH 365 NGÀY (TỔNG QUAN 8 CHẶNG)
@@ -300,7 +303,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 | Chặng | Thời gian | Cung đường & Tỉnh thành | Tập tương ứng |
 | :--- | :--- | :--- | :--- |
 | **1** | Ngày 1 – 45 | Cực Bắc & Đông Bắc Bộ (Hà Giang, Cao Bằng, Bắc Kạn, Lạng Sơn, Tuyên Quang, Thái Nguyên...) | Tập 1 – 5 (đã lên kịch bản) |
-| **2** | Ngày 46 – 90 | Tây Bắc (Lào Cai, Yên Bái, Lai Châu, Điện Biên, Sơn La, Hòa Bình) | Tập 6 – 10 |
+| **2** | Ngày 46 – 90 | Tây Bắc (Lào Cai, Yên Bái, Lai Châu, Điện Biên, Sơn La, Hòa Bình) | Tập 6 – 10 (Tập 6 đã lên kịch bản) |
 | **3** | Ngày 91 – 140 | Hà Nội & Vùng Vịnh Di Sản (Hà Nội, Quảng Ninh, Hải Phòng, Ninh Bình) | Tập 11 – 15 |
 | **4** | Ngày 141 – 190 | Bắc Trung Bộ (Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Quảng Trị, Huế) | Tập 16 – 20 |
 | **5** | Ngày 191 – 245 | Nam Trung Bộ (Đà Nẵng, Quảng Nam, Bình Định, Phú Yên, Khánh Hòa, Ninh Thuận, Bình Thuận) | Tập 21 – 28 |
@@ -319,6 +322,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 | **3** | Bắc Kạn | 7 | ✅ HOÀN THÀNH | Đêm trăng rằm ở nhà sàn Bản Pác Ngòi: Scrambler dựng trong sân, 2 mũ 3/4 móc trên ghi-đông. Tập 4 mở vào sáng hôm sau (7:00–8:00): đội mũ, cài quai, rời Pác Ngòi theo QL279 đi Lạng Sơn (không chạy đèo ban đêm) |
 | **4** | Lạng Sơn | 7 | ✅ HOÀN THÀNH | Sáng thứ Hai 26/10/2026 ở Ải Chi Lăng: hai người đội mũ 3/4, cài quai, gạt kính xuống; Scrambler rời bãi đỗ trước Nhà Trưng Bày Chiến Thắng Chi Lăng, nhập QL1A về phía Hữu Lũng → hướng Tuyên Quang (khoảng 175 km). Tập 5 mở trên đường, mũ vẫn đội và cài quai; dự báo mưa rào sau trưa nên có thể có cảnh áo mưa; không chạy đèo ban đêm |
 | **5** | Tuyên Quang | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Ba 27/10/2026 trên Hồ Na Hang: thuyền gỗ quay mũi về bến thủy Thượng Lâm lúc hoàng hôn (mặt trời lặn 17:24), hai người mặc áo phao cam; Scrambler đỗ ở bến, 2 mũ 3/4 móc trên ghi-đông. Ngoài khung: về bến trước 17:30, đội mũ, cài quai, chạy khoảng 1,3 km về nhà sàn Bản Nà Tông nghỉ đêm. Tập 6 mở sáng thứ Tư 28/10/2026 (19/9 âm lịch) ở sân nhà sàn Bản Nà Tông: Scrambler dưới gầm sàn, 2 mũ móc trên ghi-đông; không chạy đèo ban đêm |
+| **6** | Lào Cai | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Năm 29/10/2026 (17:00) trên Đèo Ô Quy Hồ: hai người nhấc mũ 3/4 từ ghi-đông, đội, cài quai, gạt kính xuống; Scrambler bật đèn pha rời bãi dừng ngắm cảnh bên biển mây vàng cam lúc ráng chiều để về nghỉ đêm dưới chân đèo trước khi tối (không chạy đèo ban đêm). Tập 7 mở sáng thứ Sáu 30/10/2026 trên cung đường QL32 hướng đi Đèo Khau Phạ – Mù Cang Chải (Yên Bái) |
 
 ---
 

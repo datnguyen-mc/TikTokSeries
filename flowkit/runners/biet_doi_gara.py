@@ -20,7 +20,7 @@ from datetime import datetime
 
 FLOWKIT_API = "http://127.0.0.1:8200"
 PROJECT_ID = "30714c49-2878-439b-a46f-c52be6eee2fc"
-WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SERIES_DIR = os.path.join(WORKSPACE_DIR, "biet-doi-gara")
 FRAMES_DIR = os.path.join(SERIES_DIR, "exported_frames")
 OUTPUT_VIDEOS_DIR = os.path.join(SERIES_DIR, "output_videos")

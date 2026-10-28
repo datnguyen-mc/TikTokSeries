@@ -24,7 +24,7 @@ Hai xe dính chặt vào nhau bên bờ vực. Thắng đạp tung cửa xe Hắ
 | 1 | 00:00–00:10 | **Hai xe dính chặt vào nhau bên bờ vực. Thắng đạp tung cửa xe Hắc Phong, bò sang kéo chốt cửa xe của Tú.** | Thắng: "Tú! Mở mắt ra nhìn anh! Còn tỉnh không?!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Tú tháo chiếc mũ bảo hiểm móp méo, nước mắt giàn giụa ôm chầm lấy Thắng: "Anh Thắng... Sao anh lại bỏ cuộc vì em? Em là đứa hư hỏng mà..."** | Tú: "Em hại cả đội rồi..." | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Thắng tát nhẹ vào má Tú cho tỉnh, giọng trầm ấm nghiêm nghị: "Nghe anh nói: Xe nát thì độ lại được, còn mạng sống chỉ có một. Nhà Bảy không bao giờ bỏ rơi anh em!"** | Thắng: "Về nhà ăn cơm với anh!" | Frames / Extend (Nối liền) |
-| 4 | 00:30–00:40 | **Bíp... bíp... bíp! Tiếng còi sensor bom dưới gầm xe Tú đột ngột rú vang hồi chuông đếm ngược: 30 giây!** | Tú: "Kíp nổ kích hoạt rồi! Chạy đi anh Thắng!" | Frames / Extend (Nối liền) |
+| 4 | 00:30–00:40 | **Bíp... bíp... bíp! Tiếng còi sensor quá tải dưới gầm xe Tú đột ngột rú vang hồi chuông đếm ngược: 30 giây!** | Tú: "Mạch khóa điện kích hoạt rồi! Chạy đi anh Thắng!" | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Chiếc bán tải cam "Thiết Tê Giác" của Hải lao tới như một cơn lốc, phanh trượt cát dừng ngay sát mép vực.** | Hải: "Tụi tao tới rồi đây! Khôi, đồ nghề đâu?!" | Frames / Extend (Nối liền) |
 | 6 | 00:50–01:00 | **Khôi xách va ly máy tính lao xuống, Lan cầm bình xịt cứu hỏa dập tắt đám cháy nhỏ ở ống xả.** | Khôi: "Để em! Còn 20 giây kịp chán!" | Frames / Extend (Nối liền) |
 

@@ -6,7 +6,7 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 SÓI XÁM (the villain): a Vietnamese man of 45, salt-and-pepper slicked hair, cold eyes, dark gunmetal armor with glowing red wolf helmet that splits open when speaking, grey gloves; deep, menacing Southern male voice.
 
 [SETTING]
-SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, police barricades, flashing lights, empty road cleared for tactical pursuit.
+SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, safety barricades, flashing amber warning lights, empty road cleared for tactical pursuit.
 Time: Scene 37/45, timecode 36:00 – 37:00. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
 
 [CAMERA & LIGHT]

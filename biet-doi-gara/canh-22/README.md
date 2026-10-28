@@ -22,7 +22,7 @@ Lan lướt tới như cơn gió, tung cú song phi hất văng hai tên lính �
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
 | 1 | 00:00–00:10 | **Lan lướt tới như cơn gió, tung cú song phi hất văng hai tên lính đang vây Khôi, kéo Khôi đứng dậy.** | Lan: "Đi sau lưng chị mau Khôi!" | Ingredients (Khóa mặt & cảnh) |
-| 2 | 00:10–00:20 | **Khôi rút từ túi ngực ra một quả cầu tròn bằng kim loại màu vàng chanh: "Em có đồ chơi tặng mấy anh nè!"** | Khôi: "Bom mù siêu quang học kích hoạt!" | Frames / Extend (Nối liền) |
+| 2 | 00:10–00:20 | **Khôi rút từ túi ngực ra một quả cầu tròn bằng kim loại màu vàng chanh: "Em có đồ chơi tặng mấy anh nè!"** | Khôi: "Quả cầu phát sáng quang học kích hoạt!" | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **BÙM! Quả cầu phát nổ tạo ra một màn khói ánh sáng vàng chói lòa mù mịt toàn bộ kho xưởng, làm tê liệt hệ thống kính nhìn đêm của địch.** | Bọn cướp: "Mù mắt tao rồi! Bắn loạn xạ đi!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Thắng ra hiệu: "Rút lui theo đường giếng trời! Mau lên!" Hải bế thốc Khôi nhảy lên dây cáp kéo tự động.** | Thắng: "Rút! Không được ham chiến!" | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Cả năm người nhanh chóng bay vút lên mái tôn qua giếng trời, cắt đứt dây cáp phía sau để ngăn địch đuổi theo.** | Minh: "Tất cả đã lên mái an toàn!" | Frames / Extend (Nối liền) |

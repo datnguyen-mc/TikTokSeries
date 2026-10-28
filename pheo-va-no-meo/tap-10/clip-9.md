@@ -1,0 +1,26 @@
+[FORMAT]
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Bright, warm, appetizing food-film look: macro food close-ups, rising steam, sizzling oil, glossy sauces, crisp golden textures. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
+
+[CHARACTERS — match the attached reference images exactly]
+@Pheo = PHÈO: an anthropomorphic chubby male black cat, adult, who stands and walks upright on two legs; the kitchen countertop reaches his waist. Glossy jet-black short fur, big round belly, round cheeks, big round amber-yellow eyes, small pink nose, long white whiskers, a tiny V-shaped notch on the tip of his LEFT ear (signature mark), thick black tail. Four-fingered black furry paw-hands with dark grey paw pads, barefoot. Outfit: tall white chef's toque tilted slightly to the right, white short-sleeve crew-neck t-shirt, navy-blue knee-length apron with one front pocket, small red neckerchief tied at the throat. Personality: confident, funny, proud of his cooking, easily stunned by his boss. Voice: deep, warm, strong and witty Southern Vietnamese male chef voice, mid-30s.
+
+@No = BÀ CHỦ HƯỜNG: an anthropomorphic chubby female Pomeranian dog, adult, who stands and walks upright on two legs; slightly shorter than Phèo but rounder. Very fluffy cream-orange fur with a lighter cream chest ruff, round face, small black button nose, big glossy dark-brown eyes with long curled eyelashes, pink lipstick, small upright fluffy ears, curled fluffy tail. Four-fingered fluffy paw-hands with soft pink paw pads. Outfit: pink silk Vietnamese pajama set (đồ bộ) with a small white-and-red flower print, short-sleeve button-up top and loose long trousers; a single-strand pearl necklace, chunky gold bracelets on both wrists, oversized tortoiseshell sunglasses pushed up on top of her head, pink house slippers. Personality: rich, cute, sassy, adores food, sweet with words but stingy with money. Voice: sweet, sassy Southern Vietnamese rich-auntie female voice, around 40.
+
+[SETTING]
+DINING CORNER: the dining corner just through the doorway of the same kitchen, beside a tall window with sheer white curtains. A round dark-wood table with a white lace runner, a white electric rice cooker, blue-and-white ceramic rice bowls, wooden chopsticks and a glass pitcher of iced tea. Hường's big carved wooden armchair with a pink cushion on the left side of the table; Phèo's small red plastic stool on the right side. The same warm golden late-morning sunlight, softly filtered through the curtains.
+
+[SHOT LIST]
+00:00–00:03 | Cut on action, no time skip — medium two-shot at the round table: the blue-and-white plate of glossy caramelized prawns and pork belly steams on the white lace runner; Phèo has just set it down and sits on his small red plastic stool on the right; on the left Hường, in her carved wooden armchair, picks up a glossy coral-red prawn with her chopsticks, takes a crisp bite and chews with wide, delighted eyes. HƯỜNG says (sweet, sassy auntie voice; thrilled): Giòn ngọt, đậm đà xuất sắc luôn!
+00:03–00:06 | Medium shot on Phèo, slight push-in — he leans forward eagerly on his little red stool, rubs his paws together and holds both paws out palm-up with sparkling eyes. PHÈO says (deep, warm chef voice; hopeful, cheeky): Chị ưng bụng chưa? Một cây của em đâu?
+00:06–00:08 | Medium two-shot — Hường waves a paw dismissively and picks up a golden slice of pork belly with her chopsticks. HƯỜNG says (sweet, sassy auntie voice; teasing): Từ từ, ăn miếng ba chỉ cái đã!
+00:08–00:10 | Medium two-shot — Hường savors the pork belly with a happy nod while Phèo keeps both paws held out expectantly, tail wagging with hope.
+
+[SOUND]
+Background music: upbeat, playful acoustic guitar and light marimba kitchen tune, low volume under the dialogue. The soft clink of the ceramic plate on the table, a crisp crunch as Hường bites the prawn, chopsticks tapping a rice bowl, a hopeful harp glissando as Phèo holds out his paws.
+
+[END FRAME]
+Medium two-shot at the round table: Hường on the left in her carved armchair, happily chewing with her rice bowl in one paw; Phèo on the small red plastic stool on the right, leaning forward with both paws held out palm-up and big hopeful amber eyes; the steaming plate of caramelized prawns and pork belly at center on the white lace runner; warm golden light through the sheer curtains. Hold still for the final 0.5 seconds.
+
+[AVOID]
+Extra characters, humans or human hands, outfit changes, any readable text, letters, numbers, labels or logos, money, banknotes or gold bars, newspaper wrapping, printed bags, price tags, receipts, scale displays, measuring marks, labeled jars or bottles, tasting from the stirring spoon then stirring again, raw meat touching herbs or cooked food, anyone leaning over an open flame, hot oil splashing, undercooked pink meat served, distorted paws or extra fingers, subtitles.
+

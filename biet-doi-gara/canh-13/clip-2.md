@@ -11,7 +11,7 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 Tense 35mm Dutch tilt moving through narrow spaces, tight 85mm close-ups focusing on sweating brows and trembling hands. Chiaroscuro high-contrast shadows, cold fluorescent or emergency red rotating beacons piercing the darkness.
 
 [SHOT LIST]
-00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — Continuing seamlessly from the last frame: Đồng hồ đếm ngược trên kíp nổ nhảy lùi từng giây: 10. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề.
+00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — Continuing seamlessly from the last frame: Đồng hồ đếm ngược trên mạch khóa điện nhảy lùi từng giây: 10. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề.
 00:03.5–00:07.0 | Critical decisive maneuver & tense dialogue, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: 9 8 Bàn tay Khôi ướt đẫm mồ hôi, kính mờ đi vì căng thẳng. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt không hề dao động, nhân vật bật ra câu nói then chốt: Hải: "Cắt dây nào nói anh cắt cho mau Khôi?!".
 00:07.0–00:10.0 | High-stakes stabilization & cliffhanger lock, 35mm — Hiểm nguy tạm thời được kìm hãm hoặc bộc lộ bước ngoặt nghẹt thở; camera khóa chặt vào khoảnh khắc quyết định, giữ tĩnh 0.5s ở khung hình cuối cùng để chuyển tiếp clip 3.
 

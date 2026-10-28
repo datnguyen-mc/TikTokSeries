@@ -45,7 +45,7 @@ CHAR_FULL_MAP = {
     "KHOI": """@Khoi = KHÔI (24, the family's tech genius and joker): a real Vietnamese young man, about 170 cm tall, slim, round tortoiseshell glasses (signature detail), messy black hair, an expressive nervous face. Civilian outfit: a mustard-yellow hoodie, black joggers, sneakers, headphones around his neck, a laptop in his hands or a small backpack. Voice: fast, nervous, funny Southern Vietnamese male voice, mid-20s.""",
     "KHOI_G": """@Khoi = KHÔI in his armor GIÁP BIT: the same young man inside a slim yellow-and-black armored suit with circuit-like light lines and two palm-sized drones docked on his shoulders; an open-face armored helmet with a clear yellow visor, so his face and his round glasses stay visible; a glowing yellow hexagonal core on his LEFT wrist. Power: his drones fire rings of yellow light that switch off enemy gauntlets. Voice: fast, nervous, funny Southern Vietnamese male voice.""",
     
-    "MINH": """@Minh = MINH (31, a police detective captain): a real Vietnamese woman, about 168 cm tall, athletic, sharp straight eyebrows, serious dark eyes, a thin pale scar on her chin (signature detail), black hair in a tight low bun. Civilian outfit: a black plain-clothes jacket over a white shirt, dark trousers, low black boots, no badges or readable text. Voice: firm, low, clear Southern Vietnamese female voice, mid-30s.""",
+    "MINH": """@Minh = MINH (31, an elite tech-security investigator): a real Vietnamese woman, about 168 cm tall, athletic, sharp straight eyebrows, serious dark eyes, a thin pale scar on her chin (signature detail), black hair in a tight low bun. Civilian outfit: a black plain-clothes jacket over a white shirt, dark trousers, low black boots, no badges or readable text. Voice: firm, low, clear Southern Vietnamese female voice, mid-30s.""",
     "MINH_G": """@Minh = MINH in her armor GIÁP KHIÊN: the same woman inside navy-and-silver armor with clean straight lines and a round energy shield of navy light on her left forearm; an open-face armored helmet with a clear navy visor, so her face and the scar on her chin stay visible; a glowing navy hexagonal core on her LEFT wrist. Power: an energy shield and navy light cuffs that lock enemy gauntlets for arrest. Voice: firm, low, clear Southern Vietnamese female voice.""",
     
     "TU": """@Tu = TÚ: a Vietnamese young man of 22, thin, dyed-brown hair, silver ear stud, nervous boyish face, in a grey racing suit; young, hoarse Southern male voice.""",
@@ -80,7 +80,7 @@ SETTING_DESCS = {
     "TRACK": "CLOSED RACING TRACK: asphalt circuit in Saigon outskirts under harsh midday sun, concrete barriers, tire walls, red dirt shoulders, pit lane; no brand logos or readable signs.",
     "WAREHOUSE": "CONTAINER WAREHOUSE AT NIGHT: cavernous abandoned dockside warehouse, skylights, rows of covered stolen cars, high steel catwalks, industrial floodlights; no logos.",
     "ROOFS_RAIN": "SAIGON ROOFTOPS IN HEAVY RAIN: corrugated metal roofs beside a canal, dark stormy night with heavy rain and wind, reflections of city lights in puddles, wet slick surfaces.",
-    "HIGHWAY": "SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, police barricades, flashing lights, empty road cleared for tactical pursuit.",
+    "HIGHWAY": "SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, safety barricades, flashing amber warning lights, empty road cleared for tactical pursuit.",
     "SHIP": "CONTAINER CARGO SHIP DECK: open steel deck of a massive cargo ship at sea, towering stacks of plain shipping containers, ocean spray, night storm with wind and rising dawn."
 }
 
@@ -122,7 +122,7 @@ def classify_clip(desc, dialogue, title):
         return "RACING"
         
     # 4. SUSPENSE & TACTICAL
-    if any(k in text for k in ["kíp nổ", "bom", "gỡ", "gián điệp", "đột nhập", "mái tôn", "giếng trời", "rượt đuổi"]):
+    if any(k in text for k in ["mạch khóa điện", "bom", "gỡ", "gián điệp", "đột nhập", "mái tôn", "giếng trời", "rượt đuổi"]):
         return "SUSPENSE"
         
     return "DRAMA"

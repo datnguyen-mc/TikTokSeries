@@ -12,7 +12,7 @@ Tense 35mm Dutch tilt moving through narrow spaces, tight 85mm close-ups focusin
 
 [SHOT LIST]
 00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — Continuing seamlessly from the last frame: Tú đạp lút ga vọt lên trước, kim đồng hồ tốc độ nhảy vọt qua 100. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề.
-00:03.5–00:07.0 | Critical decisive maneuver & tense dialogue, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: 120 150 km/h Đèn bom áp suất chuyển từ vàng sang đỏ báo động. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt không hề dao động, nhân vật bật ra câu nói then chốt: Tú: "Nó khóa tốc độ rồi anh Thắng ơi!".
+00:03.5–00:07.0 | Critical decisive maneuver & tense dialogue, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: 120 150 km/h Đèn khóa xung điện chuyển từ vàng sang đỏ báo động. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt không hề dao động, nhân vật bật ra câu nói then chốt: Tú: "Nó khóa tốc độ rồi anh Thắng ơi!".
 00:07.0–00:10.0 | High-stakes stabilization & cliffhanger lock, 35mm — Hiểm nguy tạm thời được kìm hãm hoặc bộc lộ bước ngoặt nghẹt thở; camera khóa chặt vào khoảnh khắc quyết định, giữ tĩnh 0.5s ở khung hình cuối cùng để chuyển tiếp clip 4.
 
 [SOUND]

@@ -8,15 +8,15 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 @Khoi = KHÔI (24, the family's tech genius and joker): a real Vietnamese young man, about 170 cm tall, slim, round tortoiseshell glasses (signature detail), messy black hair, an expressive nervous face. Civilian outfit: a mustard-yellow hoodie, black joggers, sneakers, headphones around his neck, a laptop in his hands or a small backpack. Voice: fast, nervous, funny Southern Vietnamese male voice, mid-20s.
 
 [SETTING]
-SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, police barricades, flashing lights, empty road cleared for tactical pursuit.
+SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, safety barricades, flashing amber warning lights, empty road cleared for tactical pursuit.
 Time: Scene 36/45, timecode 35:00 – 36:00. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
 
 [CAMERA & LIGHT]
 Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain.
 
 [SHOT LIST]
-00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Establishing scene & action ignition: Dọc đại lộ 8 làn xe dẫn ra cảng, đèn chớp xanh đỏ của hàng chục xe cảnh sát giăng kín. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
-00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: Rào chắn bê tông và chông thép đã được thiết lập. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Minh (qua loa cảnh sát): "Toàn tuyến đã phong tỏa an toàn! Không có dân thường!".
+00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Establishing scene & action ignition: Dọc đại lộ 8 làn xe dẫn ra cảng, đèn chớp xanh đỏ của hàng chục xe tuần tra bảo vệ giăng kín. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
+00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: Rào chắn bê tông và chông thép đã được thiết lập. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Minh (qua loa bộ đàm): "Toàn tuyến đã phong tỏa an toàn! Không có dân thường!".
 00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp clip 2.
 
 [SOUND]

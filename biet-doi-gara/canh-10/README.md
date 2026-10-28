@@ -9,7 +9,7 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Hai cỗ máy gầm rú điên cuồng, khói lốp trắng xóa bốc lên mù mịt sau đuôi xe. Trọng tài giơ cao lá cờ đen trắng. Sau đó, Tú đạp lút ga vọt lên trước, kim đồng hồ tốc độ nhảy vọt qua 100... 120... 150 km/h. Đèn bom áp suất chuyển từ vàng sang đỏ báo động. Cuối cùng, Xe của Tú phía trước bắt đầu tiến vào khúc cua tử thần hình chữ S với tốc độ quá lớn không thể phanh.
+Hai cỗ máy gầm rú điên cuồng, khói lốp trắng xóa bốc lên mù mịt sau đuôi xe. Trọng tài giơ cao lá cờ đen trắng. Sau đó, Tú đạp lút ga vọt lên trước, kim đồng hồ tốc độ nhảy vọt qua 100... 120... 150 km/h. Đèn khóa xung điện chuyển từ vàng sang đỏ báo động. Cuối cùng, Xe của Tú phía trước bắt đầu tiến vào khúc cua tử thần hình chữ S với tốc độ quá lớn không thể phanh.
 
 * **Bối cảnh chính:** Vạch xuất phát trường đua kín.
 * **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
@@ -21,9 +21,9 @@ Hai cỗ máy gầm rú điên cuồng, khói lốp trắng xóa bốc lên mù 
 
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Hai cỗ máy gầm rú điên cuồng, khói lốp trắng xóa bốc lên mù mịt sau đuôi xe. Trọng tài giơ cao lá cờ đen trắng.** | Lan (bộ đàm): "Cảm biến báo bom kích hoạt ở mốc 80 km/h!" | Ingredients (Khóa mặt & cảnh) |
+| 1 | 00:00–00:10 | **Hai cỗ máy gầm rú điên cuồng, khói lốp trắng xóa bốc lên mù mịt sau đuôi xe. Trọng tài giơ cao lá cờ đen trắng.** | Lan (bộ đàm): "Cảm biến báo khóa xung điện kích hoạt ở mốc 80 km/h!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **CỜ HẠ! Cả hai chiếc xe bốc đầu lao vút đi như hai mũi tên xé toạc không khí, bụi đỏ cuộn trào sau lưng.** | Thắng: "Bám sát làn trong, Tú!" | Frames / Extend (Nối liền) |
-| 3 | 00:20–00:30 | **Tú đạp lút ga vọt lên trước, kim đồng hồ tốc độ nhảy vọt qua 100... 120... 150 km/h. Đèn bom áp suất chuyển từ vàng sang đỏ báo động.** | Tú: "Nó khóa tốc độ rồi anh Thắng ơi!" | Frames / Extend (Nối liền) |
+| 3 | 00:20–00:30 | **Tú đạp lút ga vọt lên trước, kim đồng hồ tốc độ nhảy vọt qua 100... 120... 150 km/h. Đèn khóa xung điện chuyển từ vàng sang đỏ báo động.** | Tú: "Nó khóa tốc độ rồi anh Thắng ơi!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Phía sau khúc cua, một chiếc xe bán tải xám của bọn Găng Xám đột ngột lao từ đường gom ra cố tình húc vào đuôi xe của Tú.** | Hải (từ đài quan sát): "Có xe cản địa chơi xấu kìa!" | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Thắng đánh lái gắt sang phải, dùng thân xe bọc thép của Hắc Phong chèn ngang hông xe bán tải địch, ép nó trượt dài vào hàng rào lốp xe an toàn.** | Thắng: "Muốn đụng em tao hả? Qua tao đã!" | Frames / Extend (Nối liền) |
 | 6 | 00:50–01:00 | **Xe của Tú phía trước bắt đầu tiến vào khúc cua tử thần hình chữ S với tốc độ quá lớn không thể phanh.** | Lan: "Tú mất lái rồi anh Thắng!" | Frames / Extend (Nối liền) |

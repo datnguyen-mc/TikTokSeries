@@ -8,7 +8,7 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 High-speed 35mm anamorphic tracking shot mounted low on vehicle chassis, dynamic whip pans tracking drift arcs, intense motion blur on background with razor-sharp vehicle focus. Anamorphic horizontal lens flare streaks from headlights, reflections of streetlights and neon on glossy car bodies.
 
 [SHOT LIST]
-00:00–00:03.5 | High-speed kinetic vehicular tracking, 35mm wide anamorphic — Continuing seamlessly from the last frame: Lực lượng cảnh sát của Minh lập tức ập tới bao vây. Tiếng gầm rú của động cơ Twin-Turbo, lốp xe cày xé mặt đường tạo khói trắng cuồn cuộn, camera tracking sát sườn xe ở góc cực thấp với độ nét sắc sảo.
+00:00–00:03.5 | High-speed kinetic vehicular tracking, 35mm wide anamorphic — Continuing seamlessly from the last frame: Đội an ninh bảo vệ cảng của Minh lập tức ập tới bao vây. Tiếng gầm rú của động cơ Twin-Turbo, lốp xe cày xé mặt đường tạo khói trắng cuồn cuộn, camera tracking sát sườn xe ở góc cực thấp với độ nét sắc sảo.
 00:03.5–00:07.0 | Precision high-speed stunt & decisive counter, 50mm dynamic cam — Cú bẻ lái hoặc va chạm nảy lửa: khống chế tài xế và bảo vệ an toàn cho toàn bộ số xe trộm trên rơ-moóc.. Thân xe trượt ngang ngoạn mục, tia lửa ma sát bắn tung tóe từ rào chắn; nhân vật ghì chặt vô lăng, nét mặt căng thẳng cao độ, cất giọng qua bộ đàm với khẩu hình chuẩn xác: Minh: "Bắt giữ xe thứ nhất! Các mũi tiếp tục truy kích!".
 00:07.0–00:10.0 | Drift recovery & relentless forward momentum, 35mm tracking — Chiếc xe lấy lại độ bám đường sau cú drift nghẹt thở, vệt bánh xe đen bóng in hằn trên mặt đường bốc khói; camera lia mượt về góc sau xe, khóa tĩnh khung hình cuối 0.5s để làm gốc nối liền cho clip 6.
 

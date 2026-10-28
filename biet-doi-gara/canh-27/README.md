@@ -9,7 +9,7 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Sói Xám giáng một cước hất tung bàn máy tính của Khôi. Khôi kích hoạt drone phóng tia điện nhưng bị găng tay hắc ám của Sói bóp nát vụn. Sau đó, Khôi dù hoảng loạn nhưng bàn tay phải nhanh như cắt thò vào túi bí mật, móc ra một con **drone bọ cánh cứng siêu nhỏ** gắn bí mật vào gầm áo khoác của Sói. Cuối cùng, Hải và Minh cố nhảy theo nhưng bị 6 tên lính cảm tử liều mạng ôm chặt chân giữ lại dưới tầng trệt.
+Sói Xám giáng một cước hất tung bàn máy tính của Khôi. Khôi kích hoạt drone phóng tia điện nhưng bị găng tay hắc ám của Sói bóp nát vụn. Sau đó, Khôi dù hoảng loạn nhưng bàn tay phải nhanh như cắt thò vào túi bí mật, móc ra một con **drone bọ cánh cứng siêu nhỏ** gắn bí mật vào gầm áo khoác của Sói. Cuối cùng, Hải và Minh cố nhảy theo nhưng bị 6 tên tay chân liều lĩnh liều mạng ôm chặt chân giữ lại dưới tầng trệt.
 
 * **Bối cảnh chính:** Gác lửng Gara Bảy dưới mưa xối xả.
 * **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
@@ -26,7 +26,7 @@ Sói Xám giáng một cước hất tung bàn máy tính của Khôi. Khôi kí
 | 3 | 00:20–00:30 | **Khôi dù hoảng loạn nhưng bàn tay phải nhanh như cắt thò vào túi bí mật, móc ra một con **drone bọ cánh cứng siêu nhỏ** gắn bí mật vào gầm áo khoác của Sói.** | Khôi (thì thào): "Chết mày với tao nghe con sói già..." | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Sói Xám ôm Khôi nhảy ngược lên nóc nhà qua lỗ thủng giếng trời. Khôi hét lớn xé toạc màn mưa: "Anh Thắng ơi! Chị Lan ơi cứu em!"** | Khôi: "Cứu em anh chị ơi!" | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Lan và Thắng nghe tiếng hét, đạp lên tường cầu nâng xe phóng thẳng lên mái tôn đuổi theo.** | Lan: "Bỏ Khôi xuống mau!" | Frames / Extend (Nối liền) |
-| 6 | 00:50–01:00 | **Hải và Minh cố nhảy theo nhưng bị 6 tên lính cảm tử liều mạng ôm chặt chân giữ lại dưới tầng trệt.** | Hải: "Buông tao ra lũ khốn kiếp!" | Frames / Extend (Nối liền) |
+| 6 | 00:50–01:00 | **Hải và Minh cố nhảy theo nhưng bị 6 tên tay chân liều lĩnh liều mạng ôm chặt chân giữ lại dưới tầng trệt.** | Hải: "Buông tao ra lũ khốn kiếp!" | Frames / Extend (Nối liền) |
 
 ---
 

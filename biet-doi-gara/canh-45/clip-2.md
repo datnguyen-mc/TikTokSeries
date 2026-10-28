@@ -12,7 +12,7 @@ Poetic 50mm pan from the sacred memorial altar out to the glowing rooftop balcon
 
 [SHOT LIST]
 00:00–00:03.5 | Framed reunited letter & sacred shrine, 50mm close-up — Camera lướt qua bàn thờ Bác Bảy trang nghiêm: **bức thư bằng giấy da đã được dán lành lặn, lồng trong khung kính gỗ mộc mạc** đặt trang trọng ngay cạnh di ảnh Bác Bảy và 5 chiếc Lõi Bảy đang phát hào quang nhè nhẹ ấm cúng.
-00:03.5–00:07.0 | Rooftop paradise & booming chef, 35mm wide pan — Camera trượt mượt mà ra ban công sân thượng Gara Bảy. Dây đèn vàng lung linh đu đưa trong gió sông mát rượi, phía xa là tòa tháp Landmark rực sáng. Hải bưng nồi lẩu cù lao nghi ngút khói đặt xuống bàn, cất giọng Nam trầm ấm vang rộn: Hải: "Lẩu cù lao đặc biệt mừng đại gia đình chiến thắng!"
+00:03.5–00:07.0 | Rooftop paradise & booming chef, 35mm wide pan — Camera trượt mượt mà ra ban công sân thượng Gara Bảy. Dây đèn vàng lung linh đu đưa trong gió sông mát rượi, phía xa là tòa tháp kính thành phố rực sáng. Hải bưng nồi lẩu cù lao nghi ngút khói đặt xuống bàn, cất giọng Nam trầm ấm vang rộn: Hải: "Lẩu cù lao đặc biệt mừng đại gia đình chiến thắng!"
 00:07.0–00:10.0 | Golden hour family transition, 50mm — Cả nhà kéo ghế gỗ ngồi xuống, tiếng cười nói rộn rã râm ran. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 3.
 
 [SOUND]

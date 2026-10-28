@@ -13,10 +13,10 @@ Close-up 85mm on the torn letter in Thắng's armored hand, whip pan to Khôi's 
 [SHOT LIST]
 00:00–00:03.5 | Shocking plot twist & close-up, 85mm — Thắng cẩn thận mở phong bì giấy da rút bức thư ra... Nhưng cả nhà bàng hoàng nhận ra: Do cú dằn co tranh cướp nảy lửa, bức thư đã bị xé rách làm đôi! Nửa tờ giấy chỉ còn dòng chữ: "BÍ MẬT Ở CẢNG CONTAINER SÀI GÒN... CẦN CHIẾC LÕI THỨ 5 ĐỂ...", nửa dưới đã bị tên cướp mang theo!
 00:03.5–00:07.0 | Hilarious despair & dialogue, 50mm — Khôi hai tay ôm lấy đầu mũ giáp vàng, mặt mếu máo kêu trời: "Trời ơi! Dằn co cho cố vô rồi rách mất khúc quan trọng nhất, nửa kia tụi nó cầm chạy mất dép rồi!". Thắng nheo mắt trầm ngâm nhìn vết rách, cất giọng bình tĩnh: Thắng: "Nửa bức thư này đủ để lần ra tụi nó!"
-00:07.0–00:10.0 | Mysterious headlights & cliffhanger freeze — Bất ngờ, một chùm đèn pha ô tô xanh thẫm cực sáng từ đầu hẻm quét thẳng vào cả đội; tiếng phanh gấp rít lên đanh thép. Thắng ngẩng phắt đầu lên che mắt: "Ai tới nữa đây?". Khóa tĩnh khung hình cuối 0.5s để nối tiếp sang Cảnh 5 (Đại úy Minh xuất hiện).
+00:07.0–00:10.0 | Mysterious headlights & cliffhanger freeze — Bất ngờ, một chùm đèn pha ô tô xanh thẫm cực sáng từ đầu hẻm quét thẳng vào cả đội; tiếng phanh gấp rít lên đanh thép. Thắng ngẩng phắt đầu lên che mắt: "Ai tới nữa đây?". Khóa tĩnh khung hình cuối 0.5s để nối tiếp sang Cảnh 5 (Đội trưởng Minh xuất hiện).
 
 [SOUND]
-Paper unfolding texture, Khôi's hilarious tragic wail, screeching high-performance pursuit tires, deep siren blip, and dramatic suspense strings.
+Paper unfolding texture, Khôi's hilarious tragic wail, screeching high-performance pursuit tires, deep warning horn blip, and dramatic suspense strings.
 
 [END FRAME]
 Hold final frame still for 0.5s for seamless extension to clip next scene.

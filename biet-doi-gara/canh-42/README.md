@@ -22,7 +22,7 @@ Sói Xám đạp cửa cabin đầu kéo bước xuống, một tay lôi Khôi r
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
 | 1 | 00:00–00:10 | **Sói Xám đạp cửa cabin đầu kéo bước xuống, một tay lôi Khôi ra, hai cổ tay mang hai Lõi Giáp (Xám và Trắng Xanh) phát ra luồng năng lượng đen bao trùm cơ thể.** | Sói: "Tao có hai Lõi! Tụi bây đến đây chỉ để làm mồi cho cá mập!" | Ingredients (Khóa mặt & cảnh) |
-| 2 | 00:10–00:20 | **Đại úy Minh đã bí mật đu theo mạn tàu từ trước, kích hoạt Giáp Khiên phóng ra dải còng năng lượng xanh thẫm quấn chặt lấy người Khôi, giật mạnh Khôi về phía mình!** | Minh: "Bắt lấy Khôi!" | Frames / Extend (Nối liền) |
+| 2 | 00:10–00:20 | **Đội trưởng Minh đã bí mật đu theo mạn tàu từ trước, kích hoạt Giáp Khiên phóng ra dải còng năng lượng xanh thẫm quấn chặt lấy người Khôi, giật mạnh Khôi về phía mình!** | Minh: "Bắt lấy Khôi!" | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Hải lao ra đón trọn lấy Khôi vào lồng ngực hộ pháp, dùng cơ thể bọc thép che chắn làn sóng xung kích do Sói bắn ra: "Khôi! Em có sao không em?!"** | Khôi mếu máo: "Anh Hải ơi! Nó dọa quăng em xuống biển!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Thắng kích hoạt Giáp Gió, lao vào cận chiến với Sói Xám. Nhưng Sói với sức mạnh của hai Lõi Giáp trở nên quá hung bạo, từng cú đấm đánh lõm các tấm thép container.** | Sói: "Lõi Gió của mày cũng sẽ thuộc về tao!" | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Sói tung chưởng năng lượng kép hất văng Thắng và chiếc khiên của Minh đập mạnh vào vách xích neo tàu, cả hai ngã quỵ xuống sàn thép.** | Thắng: "Nó mạnh gấp đôi bình thường!" | Frames / Extend (Nối liền) |

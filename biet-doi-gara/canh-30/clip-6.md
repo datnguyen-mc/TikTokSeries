@@ -9,7 +9,7 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain.
 
 [SHOT LIST]
-00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Thắng siết chặt nắm tay đến bật máu, ngước nhìn lên bầu trời bão tố. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
+00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Thắng siết chặt nắm tay rắn đanh, ngước nhìn lên bầu trời bão tố. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
 00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: ánh mắt rực cháy lời thề sinh tử.. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Thắng: "Dù không còn giáp... Tao cũng sẽ san bằng con tàu đó để đưa em tao về!"  
   *(HẾT HỒI 2 — 30:00)*
 

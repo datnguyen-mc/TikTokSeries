@@ -11,7 +11,7 @@
 ## 1. Tóm tắt cảnh
 Mở màn điện ảnh với cú flycam 24mm anamorphic tuyệt đẹp lướt trên ráng chiều kênh Sài Gòn. Giới thiệu cuộc sống đời thường ấm áp và hài hước của bốn anh em Gara Bảy: Lan sửa xe sắc sảo trượt ván chọc ghẹo Khôi, Hải hộ pháp nấu thịt kho tiêu thơm nức mũi, Khôi vừa hack vừa nhai dưa leo bị anh Hải cốc đầu. Thắng thắp nén hương tưởng nhớ Bác Bảy và chạm tay vào chiếc hộp sắt khóa kín cùng bức thư tuyệt mật niêm phong sáp đỏ dặn "chỉ mở khi có biến cố sinh tử". Bữa cơm gia đình ấm cúng vừa dọn ra thì đoàn xe tải của bọn cướp gầm rú áp sát, mở màn cho trận tập kích bất ngờ.
 
-* **Bối cảnh chính:** Hoàng hôn trên kênh Nhiêu Lộc & Xưởng Gara Bảy.
+* **Bối cảnh chính:** Hoàng hôn trên kênh Nước Xanh & Xưởng Gara Bảy.
 * **Quy cách hình ảnh:** Người thật, cinematic 2.39:1 widescreen, chất màu vàng ráng chiều ấm áp kết hợp đèn neon teal, thoại khẩu âm Nam Bộ tự nhiên, tương tác gia đình duyên dáng.
 * **Thời lượng:** Đúng 60 giây, khớp hoàn hảo 1 phút trên timeline YouTube.
 

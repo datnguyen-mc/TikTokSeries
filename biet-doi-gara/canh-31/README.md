@@ -9,7 +9,7 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Xưởng xe tan hoang sau trận chiến. Trên bàn ăn gãy một chân, Hải lặng lẽ bới từng chén cơm trắng còn bốc khói nghi ngút. Sau đó, Minh nhìn chén cơm, cúi đầu lau giọt nước mắt lăn trên má: "Tôi đã huy động toàn bộ lực lượng cảnh sát phong tỏa mọi ngả đường ra cảng." Cuối cùng, Thắng nhìn ra góc xưởng, nơi Lan đang ngồi bất động một mình sau vô lăng chiếc xe hatchback trắng của ba cô.
+Xưởng xe tan hoang sau trận chiến. Trên bàn ăn gãy một chân, Hải lặng lẽ bới từng chén cơm trắng còn bốc khói nghi ngút. Sau đó, Minh nhìn chén cơm, cúi đầu lau giọt nước mắt lăn trên má: "Tôi đã huy động đội an ninh bảo vệ cảng phong tỏa mọi ngả đường ra cảng." Cuối cùng, Thắng nhìn ra góc xưởng, nơi Lan đang ngồi bất động một mình sau vô lăng chiếc xe hatchback trắng của ba cô.
 
 * **Bối cảnh chính:** Gara Bảy, rạng sáng sau cơn bão, nắng le lói.
 * **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
@@ -23,7 +23,7 @@ Xưởng xe tan hoang sau trận chiến. Trên bàn ăn gãy một chân, Hải
 |:---:|:---:|---|---|:---:|
 | 1 | 00:00–00:10 | **Xưởng xe tan hoang sau trận chiến. Trên bàn ăn gãy một chân, Hải lặng lẽ bới từng chén cơm trắng còn bốc khói nghi ngút.** | Hải: "Cơm chín rồi... Mấy đứa ăn đi lấy sức." | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Hải đặt một chén cơm đầy có gắp sẵn miếng thịt kho ngon nhất vào chiếc ghế trống của Khôi, đặt đôi đũa ngay ngắn bên cạnh.** | Hải: "Phần của thằng Khôi, để đây cho nó về ăn." | Frames / Extend (Nối liền) |
-| 3 | 00:20–00:30 | **Minh nhìn chén cơm, cúi đầu lau giọt nước mắt lăn trên má: "Tôi đã huy động toàn bộ lực lượng cảnh sát phong tỏa mọi ngả đường ra cảng."** | Minh: "Nhưng quyền quyết định trận này nằm ở chúng ta." | Frames / Extend (Nối liền) |
+| 3 | 00:20–00:30 | **Minh nhìn chén cơm, cúi đầu lau giọt nước mắt lăn trên má: "Tôi đã huy động đội an ninh bảo vệ cảng phong tỏa mọi ngả đường ra cảng."** | Minh: "Nhưng quyền quyết định trận này nằm ở chúng ta." | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Thắng bước tới bàn ăn, nhìn chiếc tai nghe của Khôi còn bỏ quên trên bàn, lòng đau như cắt.** | Thắng: "Thằng nhỏ sợ đau nhất nhà..." | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Hải nắm lấy bàn tay Thắng, giọng run rẩy nhưng kiên định phi thường: "Anh Thắng, em còn cái mạng này, em theo anh tới cùng!"** | Hải: "Đưa thằng nhỏ về ăn cơm nóng!" | Frames / Extend (Nối liền) |
 | 6 | 00:50–01:00 | **Thắng nhìn ra góc xưởng, nơi Lan đang ngồi bất động một mình sau vô lăng chiếc xe hatchback trắng của ba cô.** | Thắng: "Để anh nói chuyện với con bé." | Frames / Extend (Nối liền) |

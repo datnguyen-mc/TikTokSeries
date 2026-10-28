@@ -98,10 +98,11 @@ CHARACTER_SPECS = [
         "tag": "@Minh",
         "aliases": ["@Minh", "Minh"],
         "default_media_id": "72e13276-31ce-434b-bc19-25db0ff754be",
-        "description": "Minh: nhân vật phản diện / đặc vụ công nghệ mặc vest tối màu lịch lãm, ánh mắt sắc lạnh.",
+        "description": "Minh (31 tuổi): nữ chuyên gia điều tra an ninh công nghệ, búi tóc thấp gọn gàng, vết sẹo mảnh ở cằm, mặc áo khoác đen thanh lịch.",
         "ref_prompt": (
-            "Full-body photorealistic character reference sheet of @Minh, a 38-year-old Vietnamese corporate antagonist, "
-            "slicked-back black hair, sharp cold gaze, wearing a tailored charcoal-black suit. Photorealistic cinematic 8K."
+            "Full-body photorealistic character reference sheet of @Minh, a 31-year-old Vietnamese female tech-security investigator, "
+            "168cm, athletic build, sharp straight eyebrows, serious dark eyes, a thin pale scar on her chin, black hair in a tight low bun, "
+            "wearing a sleek black jacket over a white shirt, dark trousers and low black boots. Photorealistic cinematic 8K."
         ),
     },
 ]

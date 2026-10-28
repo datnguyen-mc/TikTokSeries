@@ -49,7 +49,7 @@
 | **Lan "Cáo"** (`@Lan`) | Tay lái giỏi nhất nhà | Tóc bob có lọn xanh băng bên phải, áo da trắng | **Giáp Cáo** trắng viền xanh băng, mào tai cáo: tốc độ, bóng mờ |
 | **Hải "Búa"** (`@Hai`) | Thợ máy, võ sĩ Vovinam, người nấu cơm cho cả nhà | To cao nhất nhà, râu quai nón, tạp dề da, cờ lê | **Giáp Búa** cam và xám thép, sừng trâu: cờ lê hóa búa năng lượng, sóng sáng hất ngã |
 | **Khôi "Bit"** (`@Khoi`) | Dân công nghệ, gây cười | Kính tròn gọng đồi mồi, hoodie vàng mù tạt | **Giáp Bit** vàng đen, hai drone trên vai: bắn vòng sáng tắt găng địch |
-| **Đại úy Minh** (`@Minh`) | Nữ cảnh sát hình sự, lõi thứ năm (Cảnh 3) | Sẹo mảnh ở cằm, búi tóc thấp, áo khoác đen | **Giáp Khiên** xanh thẫm và bạc: khiên năng lượng, còng ánh sáng để bắt người |
+| **Đội trưởng Minh** (`@Minh`) | Chuyên gia điều tra an ninh công nghệ, lõi thứ năm (Cảnh 3) | Sẹo mảnh ở cằm, búi tóc thấp, áo khoác đen | **Giáp Khiên** xanh thẫm và bạc: khiên năng lượng, còng ánh sáng để bắt người |
 | **Sói Xám** | Trùm đường dây | Tóc muối tiêu, giáp đầu sói mắt đỏ, găng da xám | Mặt nạ sói tách ra khi nói |
 | **Găng Xám** | Đàn em | Giáp xám, mũ kín, găng năng lượng xám | Sức mạnh phi thường nhờ găng, không nói |
 | **Bác Bảy** | Người thầy đã mất | Hologram xanh, tóc bạc cắt ngắn | Để lại năm lõi giáp và lời dặn: "Tụi con là gia đình, giữ nhau mà sống." |
@@ -75,7 +75,7 @@ Mạch truyện 3 Hồi chuẩn Fast & Furious: Kịch bản tổng [KICH_BAN_45
 | 10 | 09:00–10:00 | Hai Xe Xuất Phát | [canh-10/](canh-10/README.md) |
 | 11 | 10:00–11:00 | Khúc Cua Tử Thần | [canh-11/](canh-11/README.md) |
 | 12 | 11:00–12:00 | Cú Quay Đầu Sinh Tử | [canh-12/](canh-12/README.md) |
-| 13 | 12:00–13:00 | Gỡ Kíp Nổ 3 Giây | [canh-13/](canh-13/README.md) |
+| 13 | 12:00–13:00 | Gỡ Mạch Khóa 3 Giây | [canh-13/](canh-13/README.md) |
 | 14 | 13:00–14:00 | Lời Khai Của Tú | [canh-14/](canh-14/README.md) |
 | 15 | 14:00–15:00 | Mắt Xích Ngầm | [canh-15/](canh-15/README.md) |
 
@@ -129,9 +129,9 @@ Mạch truyện 3 Hồi chuẩn Fast & Furious: Kịch bản tổng [KICH_BAN_45
 ## 8. Luật, an toàn và chính sách nền tảng
 
 - **Không cổ vũ đua xe trái phép:** đua xe trái phép và tổ chức đua xe trái phép là tội hình sự ở Việt Nam (Bộ luật Hình sự 2015, Điều 265 và 266; xem [LuatVietnam](https://luatvietnam.vn/linh-vuc-khac/to-chuc-dua-xe-trai-phep-883-90213-article.html), [Luật sư Việt Nam](https://lsvn.vn/ha-nh-vi-dua-xe-trai-phep-to-chuc-dua-xe-trai-phep-bi-xu-pha-t-nhu-the-nao-1708658363-a141192.html)). Nhân vật chính chỉ đua trên đường đua kín; phóng ẩu ngoài đường là việc của phản diện và luôn có hậu quả.
-- **Rượt đuổi bằng xe** chỉ ở cảng, xưởng bỏ hoang hoặc đoạn đường đã được cảnh sát phong tỏa trong truyện; đi xe máy luôn đội mũ bảo hiểm, đi xe hơi luôn thắt dây an toàn.
+- **Rượt đuổi bằng xe** chỉ ở cảng, xưởng bỏ hoang hoặc đoạn đường đã được đội bảo vệ phong tỏa trong truyện; đi xe máy luôn đội mũ bảo hiểm, đi xe hơi luôn thắt dây an toàn.
 - **TikTok:** chính sách quảng cáo về bạo lực và hoạt động nguy hiểm không cho hiển thị hay cổ vũ hoạt động nguy hiểm ([TikTok Ads](https://ads.tiktok.com/help/article/tiktok-ads-policy-violence-and-dangerous-activities)). Mỗi caption ghi "Phim hư cấu do AI tạo, cảnh hành động không thực hiện ngoài đời. Muốn đua thì lên đường đua." và bật nhãn **Nội dung do AI tạo** ([TikTok Newsroom](https://newsroom.tiktok.com/new-labels-for-disclosing-ai-generated-content?lang=en)).
-- **Bạo lực vừa phải:** không súng, không dao, không máu, không ai chết; kẻ xấu bị khóa găng rồi giao cho cảnh sát.
+- **Bạo lực vừa phải:** không súng, không dao, không máu, không ai chết; kẻ xấu bị khóa găng rồi bàn giao cho đội bảo vệ cảng.
 - **Không giống thương hiệu, phim có sẵn, người thật;** xe, container, biển hiệu không logo, không chữ đọc được.
 
 ## 9. Việc tiếp theo

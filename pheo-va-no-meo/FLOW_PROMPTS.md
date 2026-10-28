@@ -207,6 +207,7 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 | 7 | Chân gà sả tắc · Tai kích hoạt | ⚡ Trend "tai kích hoạt": Hường mải lướt điện thoại; Phèo nói "giòn sần sật" là tai bà chủ dựng đứng, nhắc "tăng lương" thì tai cụp, "chị nghe hông rõ", nhắc "chân gà còn nữa" thì tai bật dựng lại | Nước mắm |
 | 8 | Cá kèo kho rau răm · Cá kèo hông? | Phèo ra kèo "ai khen ngon trước thì bao trà sữa"; Hường né chữ "ngon" ba lần (ngộ ghê, ngất ngây con gà tây, hết sẩy), Phèo tự hô "NGON!" rồi bị chốt "Mèo khen mèo dài đuôi! Bao trà sữa!" (tập 40s = 4 clip × 10s) | Nước mắm |
 | 9 | Gà kho gừng · Thưởng nóng | Hường cảm lạnh, quấn mền ra kèo "Ăn hết lạnh, chị thưởng nóng!"; Phèo chọn gừng già, chần gà với gừng đập dập, ướp, thắng nước màu, kho lửa nhỏ hai lăm phút; Hường ló vô bếp ba lần (mũi nghẹt mà khen thơm, cầm sẵn chén đũa, "hết nghẹt mũi luôn"); ăn tới toát mồ hôi, hết lạnh, Hường "thưởng nóng" cho Phèo đúng nghĩa đen: trùm cái mền ấm lên đầu Phèo (tập 100s = 10 clip × 10s) | Hạt nêm |
+| 10 | Tôm rim ba chỉ · Thưởng một cây | Hường lắc vòng vàng ra kèo "Rim tôm bóng đẹp, chị thưởng một cây!", Phèo tưởng một cây vàng; Phèo chọn tôm vỏ bóng đầu dính chặt, rút chỉ lưng, ướp nửa muỗng đường cho giòn trong, áp chảo ba chỉ năm phút chắt bớt mỡ, xào tôm lửa lớn ba phút, rim hai muỗng nước mắm một muỗng đường rồi xóc nhẹ chảo không gãy đầu tôm; cuối tập Hường giữ lời trao cho Phèo nguyên… một cây kem xoài vàng ươm (tập 100s = 10 clip × 10s) | Nước mắm |
 
 ---
 
@@ -225,3 +226,4 @@ Mỗi tập (từ Tập 9: từ 90s = 9 clip × 10s trở lên; Tập 1–7: 30s
 | 7 | [tap-7/](tap-7/README.md) | Chân gà sả tắc · Tai kích hoạt |
 | 8 | [tap-8/](tap-8/README.md) | Cá kèo kho rau răm · Cá kèo hông? |
 | 9 | [tap-9/](tap-9/README.md) | Gà kho gừng · Thưởng nóng |
+| 10 | [tap-10/](tap-10/README.md) | Tôm rim ba chỉ · Thưởng một cây |

@@ -5,7 +5,7 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 @Hai = HẢI (32, the family's mechanic, cook and Vovinam fighter): a real Vietnamese man, about 188 cm tall, big and broad-shouldered, warm brown eyes, a short full black beard, hair shaved short on the sides with a short top (signature detail: the tallest and biggest of the family). Civilian outfit: a grey tank top under a brown leather work apron, dark cargo trousers, boots, a big steel wrench usually in his hand or apron. Voice: big, warm, booming Southern Vietnamese male voice, early 30s, gentle.
 
 [SETTING]
-SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, police barricades, flashing lights, empty road cleared for tactical pursuit.
+SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, safety barricades, flashing amber warning lights, empty road cleared for tactical pursuit.
 Time: Scene 38/45, timecode 37:00 – 38:00. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
 
 [CAMERA & LIGHT]

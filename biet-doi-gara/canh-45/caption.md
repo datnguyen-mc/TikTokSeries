@@ -7,7 +7,7 @@
 ```text
 Biệt Đội Gara · Tập 45/45: Bữa Cơm Khải Hoàn 🏎️🔥
 
-Toàn cảnh Cảng lúc bình minh rạng rỡ. Đại úy Minh dẫn đầu đoàn xe cảnh sát trao trả từng chiếc xe cho những người dân nghèo. Một bé gái ôm chầm lấy con gấu bông trên xe mừng rỡ.
+Toàn cảnh Cảng lúc bình minh rạng rỡ. Đội trưởng Minh dẫn đầu đoàn xe tuần tra bảo vệ trao trả từng chiếc xe cho những người dân nghèo. Một bé gái ôm chầm lấy con gấu bông trên xe mừng rỡ.
 Tất cả mọi người đồng loạt nâng ly chạm nhau leng keng, nụ cười rạng rỡ hạnh phúc ngập tràn màn hình:
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️

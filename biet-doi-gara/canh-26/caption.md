@@ -7,7 +7,7 @@
 ```text
 Biệt Đội Gara · Tập 26/45: Đêm Mưa Tấn Công 🏎️🔥
 
-Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nhiêu Lộc cuộn sóng đen ngòm. Mưa xối xả đập vào mái tôn rầm rầm.
+Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nước Xanh cuộn sóng đen ngòm. Mưa xối xả đập vào mái tôn rầm rầm.
 Hải vung búa cam chặn đứng mũi khoan của xe bọc thép, Thắng tung quyền đánh bạt hai tên lính tiên phong lùi ra ngoài mưa.
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️

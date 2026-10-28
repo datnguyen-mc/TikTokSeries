@@ -6,10 +6,10 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 @Lan = LAN (29, driver): short bob with ice-blue streak, white leather moto jacket; quick, bright Southern voice.
 @Hai = HẢI (32, mechanic & cook): big, bearded, grey tank top, leather apron; booming, warm Southern voice.
 @Khoi = KHÔI (24, tech genius): slim, round tortoiseshell glasses, mustard-yellow hoodie; fast, funny Southern voice.
-@Minh = MINH (31, police detective captain): athletic, chin scar, tight hair bun, black civilian jacket; firm, clear Southern voice.
+@Minh = MINH (31, tech-security investigator): athletic, chin scar, tight hair bun, black civilian jacket; firm, clear Southern voice.
 
 [SETTING]
-ROOFTOP OF GARA BẢY AT NIGHT: open-air wooden deck beside Saigon canal, warm string lights strung overhead, panoramic view of Saigon skyline and distant Landmark tower, cool night river breeze; no readable signs.
+ROOFTOP OF GARA BẢY AT NIGHT: open-air wooden deck beside Saigon canal, warm string lights strung overhead, panoramic view of Saigon skyline and distant city glass tower, cool night river breeze; no readable signs.
 Time: Scene 6/45, timecode 05:00 – 06:00. Atmosphere: warm family gathering, comic sibling banter, strategic planning.
 
 [CAMERA & LIGHT]

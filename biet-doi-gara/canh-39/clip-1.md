@@ -5,7 +5,7 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 @Thang = THẮNG (36, the eldest, owner of Gara Bảy): a real Vietnamese man, about 178 cm tall, lean and strong, square jaw, calm dark eyes, light stubble, short black hair with a single silver streak at his LEFT temple (signature detail), a faded burn scar on his LEFT forearm. Civilian outfit: an olive-green mechanic's work jacket with the sleeves pushed up over a black T-shirt, dark work trousers, black boots, a red shop rag hanging from his back pocket. Voice: deep, calm, steady Southern Vietnamese male voice, mid-30s.
 
 [SETTING]
-SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, police barricades, flashing lights, empty road cleared for tactical pursuit.
+SEALED PORT HIGHWAY: wide 8-lane asphalt coastal highway leading to the seaport at midnight, safety barricades, flashing amber warning lights, empty road cleared for tactical pursuit.
 Time: Scene 39/45, timecode 38:00 – 39:00. Atmosphere: high-adrenaline blockbuster action, cinematic tension, emotional bond.
 
 [CAMERA & LIGHT]

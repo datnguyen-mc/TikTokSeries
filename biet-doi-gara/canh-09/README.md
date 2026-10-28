@@ -21,7 +21,7 @@ Bãi pit-stop trường đua kín ngột ngạt mùi xăng và khói lốp. Chi�
 
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Bãi pit-stop trường đua kín ngột ngạt mùi xăng và khói lốp. Chiếc xe cam xám của Tú đỗ giữa hai chiếc xe tải bọc thép của bọn cướp.** | Tên canh gác: "Chạy thua là cái xe này nổ tung nghe con!" | Ingredients (Khóa mặt & cảnh) |
+| 1 | 00:00–00:10 | **Bãi pit-stop trường đua kín ngột ngạt mùi xăng và khói lốp. Chiếc xe cam xám của Tú đỗ giữa hai chiếc xe tải bọc thép của bọn cướp.** | Tên canh gác: "Chạy thua là cái xe này khóa cứng vô lăng nghe con!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Tú ngồi trong khoang lái, mặt tái mét, mồ hôi đầm đìa nhỏ tong tòng xuống vô lăng. Dưới gầm xe nhấp nháy đèn sensor đo áp suất.** | Tú: "Cứu con với ba ơi..." | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Chiếc coupe "Hắc Phong" đen nhám viền đỏ từ từ lăn bánh tiến vào đường pit, gầm gừ uy lực át tiếng nhạc sàn huyên náo.** | Khán giả ngầm: "Xe ai lạ hoắc vậy?!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Thắng bước xuống trong bộ đồ đua đen đỏ cũ kỹ, chiếc mũ bảo hiểm có sọc đỏ quen thuộc cầm trên tay, ánh mắt bình thản nhìn thẳng vào Tú.** | Thắng: "Tú! Nhìn anh này!" | Frames / Extend (Nối liền) |

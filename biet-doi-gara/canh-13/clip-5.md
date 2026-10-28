@@ -11,8 +11,8 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 Tense 35mm Dutch tilt moving through narrow spaces, tight 85mm close-ups focusing on sweating brows and trembling hands. Chiaroscuro high-contrast shadows, cold fluorescent or emergency red rotating beacons piercing the darkness.
 
 [SHOT LIST]
-00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — Continuing seamlessly from the last frame: Đồng hồ kíp nổ dừng lại ở đúng con số: **00:03**. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề.
-00:03.5–00:07.0 | Critical decisive maneuver & tense dialogue, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: Đèn đỏ tắt ngấm, chuyển sang xanh an toàn Toàn bộ kíp nổ rụng tơi tả xuống mặt cát. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt không hề dao động, nhân vật bật ra câu nói then chốt: Khôi: "Hù... Em tưởng đi chầu ông bà rồi chứ!".
+00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — Continuing seamlessly from the last frame: Đồng hồ mạch khóa điện dừng lại ở đúng con số: **00:03**. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề.
+00:03.5–00:07.0 | Critical decisive maneuver & tense dialogue, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: Đèn đỏ tắt ngấm, chuyển sang xanh an toàn Toàn bộ mạch khóa điện rụng tơi tả xuống mặt cát. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt không hề dao động, nhân vật bật ra câu nói then chốt: Khôi: "Hù... Em tưởng đi chầu ông bà rồi chứ!".
 00:07.0–00:10.0 | High-stakes stabilization & cliffhanger lock, 35mm — Hiểm nguy tạm thời được kìm hãm hoặc bộc lộ bước ngoặt nghẹt thở; camera khóa chặt vào khoảnh khắc quyết định, giữ tĩnh 0.5s ở khung hình cuối cùng để chuyển tiếp clip 6.
 
 [SOUND]

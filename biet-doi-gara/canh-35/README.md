@@ -9,7 +9,7 @@
 ---
 
 ## 1. Tóm tắt cảnh
-BÍP... BÍP... BÍP! Màn hình máy tính bảng tác chiến của Minh đột ngột nhảy lên một chấm vàng nhấp nháy phát ra từ khu vực Cảng Cát Lái. Sau đó, Hải vỗ đùi đánh đét một cái cười ha hả: "Thằng nhóc này lanh ghê chưa! Nó chỉ điểm cho tụi mình kìa!" Cuối cùng, Ba chiếc xe nổ máy cùng lúc, âm thanh động cơ V8 và Twin-Turbo gầm vang xé toạc sự tĩnh lặng của khu phố ven kênh.
+BÍP... BÍP... BÍP! Màn hình máy tính bảng tác chiến của Minh đột ngột nhảy lên một chấm vàng nhấp nháy phát ra từ khu vực Cảng Đông Nam. Sau đó, Hải vỗ đùi đánh đét một cái cười ha hả: "Thằng nhóc này lanh ghê chưa! Nó chỉ điểm cho tụi mình kìa!" Cuối cùng, Ba chiếc xe nổ máy cùng lúc, âm thanh động cơ V8 và Twin-Turbo gầm vang xé toạc sự tĩnh lặng của khu phố ven kênh.
 
 * **Bối cảnh chính:** Bàn làm việc Gara Bảy, chiều muộn.
 * **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
@@ -21,7 +21,7 @@ BÍP... BÍP... BÍP! Màn hình máy tính bảng tác chiến của Minh độ
 
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **BÍP... BÍP... BÍP! Màn hình máy tính bảng tác chiến của Minh đột ngột nhảy lên một chấm vàng nhấp nháy phát ra từ khu vực Cảng Cát Lái.** | Minh: "Có tín hiệu định vị lạ!" | Ingredients (Khóa mặt & cảnh) |
+| 1 | 00:00–00:10 | **BÍP... BÍP... BÍP! Màn hình máy tính bảng tác chiến của Minh đột ngột nhảy lên một chấm vàng nhấp nháy phát ra từ khu vực Cảng Đông Nam.** | Minh: "Có tín hiệu định vị lạ!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Lan ghé mắt nhìn vào bản đồ: "Chấm vàng này... Hình con bọ hung! Là drone tí hon của Khôi!"** | Lan: "Thằng Khôi gài lên người Sói Xám!" | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Hải vỗ đùi đánh đét một cái cười ha hả: "Thằng nhóc này lanh ghê chưa! Nó chỉ điểm cho tụi mình kìa!"** | Hải: "Khôi ơi là Khôi, giỏi lắm em!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Minh phóng to tọa độ: "Đoàn xe chở hàng bắt đầu xuất phát từ kho số 4 di chuyển ra Cầu tàu số 1. Con tàu container Hắc Long đang nổ máy chuẩn bị nhổ neo!"** | Minh: "Thời gian vàng: Chỉ còn đúng 15 phút!" | Frames / Extend (Nối liền) |

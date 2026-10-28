@@ -25,7 +25,7 @@ Hải đạp lút chân ga chiếc bán tải "Thiết Tê Giác" 6x6, khối đ
 | 2 | 00:10–00:20 | **RẦM! Cản trước bằng thép đúc nguyên khối dày 10cm của xe Hải húc thẳng vào trục bánh sau của xe kéo địch, làm nó chao đảo dữ dội.** | Hải: "Dính chấu nghe con!" | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Hải kích hoạt tời kéo thủy lực cao áp: Móc neo thép khổng lồ phóng ra găm chặt vào trục cầu sau của xe kéo. Hải giật cần tời hãm phanh!** | Hải: "Đứng lại cho bà con nhờ!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Chiếc bán tải 6x6 ghìm chặt chiếc rơ-moóc nặng 40 tấn lại, lốp xe ma sát mặt đường bốc khói khét lẹt, kéo rê chiếc xe kéo dừng lại an toàn ngay mép bãi cỏ.** | Hải: "Một chiếc nằm im!" | Frames / Extend (Nối liền) |
-| 5 | 00:40–00:50 | **Lực lượng cảnh sát của Minh lập tức ập tới bao vây, khống chế tài xế và bảo vệ an toàn cho toàn bộ số xe trộm trên rơ-moóc.** | Minh: "Bắt giữ xe thứ nhất! Các mũi tiếp tục truy kích!" | Frames / Extend (Nối liền) |
+| 5 | 00:40–00:50 | **Đội an ninh bảo vệ cảng của Minh lập tức ập tới bao vây, khống chế tài xế và bảo vệ an toàn cho toàn bộ số xe trộm trên rơ-moóc.** | Minh: "Bắt giữ xe thứ nhất! Các mũi tiếp tục truy kích!" | Frames / Extend (Nối liền) |
 | 6 | 00:50–01:00 | **Đầu kéo Ma Sói của Hùng phía trước vẫn điên cuồng lao về phía cầu cảng nơi tàu hàng đang đợi sẵn.** | Lan: "Còn chiếc đầu kéo! Nó sắp lên tàu rồi!" | Frames / Extend (Nối liền) |
 
 ---

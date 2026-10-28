@@ -13,7 +13,7 @@ SÓI XÁM: 45, salt-and-pepper hair, dark gunmetal wolf armor with red glowing e
 Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain.
 
 [SHOT LIST]
-00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Đại úy Minh đã bí mật đu theo mạn tàu từ trước, kích hoạt Giáp Khiên phóng ra dải còng năng lượng xanh thẫm quấn chặt lấy người Khôi. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
+00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Đội trưởng Minh đã bí mật đu theo mạn tàu từ trước, kích hoạt Giáp Khiên phóng ra dải còng năng lượng xanh thẫm quấn chặt lấy người Khôi. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
 00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: giật mạnh Khôi về phía mình!. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Minh: "Bắt lấy Khôi!".
 00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp clip 3.
 

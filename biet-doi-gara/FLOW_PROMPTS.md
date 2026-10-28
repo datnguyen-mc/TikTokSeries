@@ -4,7 +4,7 @@
 
 **Định dạng:** **một phim liền khoảng 15 phút** (88 clip × 10s) đăng YouTube, chia thành **15 cảnh** (`canh-01` … `canh-15`), mỗi cảnh khoảng 60 giây (Cảnh 2 dài 40 giây) và cắt đăng TikTok được ngay; kịch bản tổng: [KICH_BAN_PHIM.md](KICH_BAN_PHIM.md) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt giọng miền Nam · không chữ trên video · **hình người thật kiểu phim siêu anh hùng**: người thật, giáp như đồ hóa trang thật cỡ phim lớn, hiệu ứng năng lượng bằng ánh sáng.
 
-**Thế giới:** Sài Gòn hôm nay. **Gara Bảy** là tiệm độ xe hai tầng ven một con kênh, do **Bác Bảy** (người thầy của Thắng, đã mất) mở. Bốn người sống quanh gara như một gia đình: Thắng, Lan, Hải, Khôi. Đường dây **Găng Xám** của **Sói Xám** dùng găng năng lượng để trộm xe và buôn lậu qua cảng. Bác Bảy để lại năm **Lõi Giáp** giấu trong thùng đồ nghề cũ; mỗi lõi chọn một người và biến người đó thành chiến binh mặc giáp. Lõi thứ năm chọn **Đại úy Minh** (Cảnh 3). Luật của nhà: **muốn đua thì lên đường đua, ra đường là chở người mình thương.**
+**Thế giới:** Sài Gòn hôm nay. **Gara Bảy** là tiệm độ xe hai tầng ven một con kênh, do **Bác Bảy** (người thầy của Thắng, đã mất) mở. Bốn người sống quanh gara như một gia đình: Thắng, Lan, Hải, Khôi. Đường dây **Găng Xám** của **Sói Xám** dùng găng năng lượng để trộm xe và buôn lậu qua cảng. Bác Bảy để lại năm **Lõi Giáp** giấu trong thùng đồ nghề cũ; mỗi lõi chọn một người và biến người đó thành chiến binh mặc giáp. Lõi thứ năm chọn **Đội trưởng Minh** (Cảnh 3). Luật của nhà: **muốn đua thì lên đường đua, ra đường là chở người mình thương.**
 
 **Xương sống mỗi cảnh** (mỗi cảnh cắt ra đăng TikTok phải đứng riêng được): 2 giây đầu là hook; giữa cảnh là hành động hoặc cảm xúc chính; cuối cảnh có cú lật hoặc câu móc sang cảnh sau. Clip 1 của mỗi cảnh mở bằng Ingredients để neo lại mặt nhân vật.
 
@@ -14,8 +14,8 @@
 - **Cảnh nối nhau hợp lý:** mỗi clip bắt đầu đúng chỗ clip trước dừng; cắt cảnh chỉ khi đổi địa điểm hoặc nhảy thời gian, dòng đầu `[SHOT LIST]` ghi rõ thời gian đã trôi.
 
 **Luật, an toàn, chính sách (bắt buộc, đã chặn trong [AVOID]):**
-- **Không súng, không dao, không máu**, không vết thương ghê rợn, không ai chết. Kẻ xấu bị đánh ngã, bị khóa găng, rồi bị cảnh sát bắt.
-- **Không cổ vũ đua xe trái phép** (tội hình sự theo Bộ luật Hình sự 2015, Điều 265–266): nhân vật chính chỉ đua trên đường đua kín; rượt đuổi bằng xe chỉ ở cảng, xưởng bỏ hoang hoặc đường đã được cảnh sát phong tỏa trong truyện; đi xe máy luôn đội mũ bảo hiểm, đi xe hơi luôn thắt dây an toàn.
+- **Không súng, không dao, không máu**, không vết thương ghê rợn, không ai chết. Kẻ xấu bị đánh ngã, bị khóa găng, rồi bị đội bảo vệ khống chế.
+- **Không cổ vũ đua xe trái phép** (tội hình sự theo Bộ luật Hình sự 2015, Điều 265–266): nhân vật chính chỉ đua trên đường đua kín; rượt đuổi bằng xe chỉ ở cảng, xưởng bỏ hoang hoặc đường đã được đội bảo vệ phong tỏa trong truyện; đi xe máy luôn đội mũ bảo hiểm, đi xe hơi luôn thắt dây an toàn.
 - **Không giống thương hiệu hay phim có sẵn:** giáp, tên, câu biến hình là sáng tác mới, không giống bất kỳ loạt siêu nhân, siêu anh hùng nào; xe, container, biển hiệu không logo, không chữ, không biển số đọc được.
 - **Nhãn AI:** bản TikTok bật nhãn **Nội dung do AI tạo**, bản YouTube khai báo **nội dung tổng hợp** trong YouTube Studio; caption và mô tả ghi "Phim hư cấu do AI tạo".
 
@@ -113,11 +113,11 @@ SHORT LOCK — Giáp Bit
 @Khoi = KHÔI in GIÁP BIT: slim yellow-and-black armor with two shoulder drones, open-face helmet with a clear yellow visor showing his face and round glasses, yellow core on his LEFT wrist; fast, nervous, funny Southern male voice.
 ```
 
-### Đại úy Minh — nữ cảnh sát hình sự, lõi thứ năm (xuất hiện từ Cảnh 2)
+### Đội trưởng Minh — chuyên gia điều tra an ninh công nghệ, lõi thứ năm (xuất hiện từ Cảnh 2)
 
 FULL LOCK — thường phục
 ```text
-@Minh = MINH (35, a police detective captain): a real Vietnamese woman, about 168 cm tall, athletic, sharp straight eyebrows, serious dark eyes, a thin pale scar on her chin (signature detail), black hair in a tight low bun. Civilian outfit: a black plain-clothes jacket over a white shirt, dark trousers, low black boots, no badges or readable text. Voice: firm, low, clear Southern Vietnamese female voice, mid-30s.
+@Minh = MINH (35, an elite tech-security investigator): a real Vietnamese woman, about 168 cm tall, athletic, sharp straight eyebrows, serious dark eyes, a thin pale scar on her chin (signature detail), black hair in a tight low bun. Civilian outfit: a black plain-clothes jacket over a white shirt, dark trousers, low black boots, no badges or readable text. Voice: firm, low, clear Southern Vietnamese female voice, mid-30s.
 ```
 SHORT LOCK — thường phục
 ```text
@@ -219,7 +219,7 @@ THE ABANDONED FACTORY: an abandoned factory at night outside the city: rusted ma
 
 **Đường cảng đã phong tỏa** (Cảnh 12)
 ```text
-THE CLOSED PORT ROAD: a wide, empty port road at night that the police have closed to all traffic: police barriers with flashing blue-and-red lights at both ends, no civilians anywhere, wet asphalt under streetlights, rows of containers on both sides, a convoy of car-carrier trucks loaded with stolen cars escorted by grey armored trucks; no readable text or license plates.
+THE CLOSED PORT ROAD: a wide, empty port road at night that the port safety team has closed to all traffic: automated safety barriers with flashing amber warning lights at both ends, no civilians anywhere, wet asphalt under streetlights, rows of containers on both sides, a convoy of car-carrier trucks loaded with stolen cars escorted by grey armored trucks; no readable text or license plates.
 ```
 
 **Tàu hàng ở cầu cảng** (Cảnh 13, 14)
@@ -389,7 +389,7 @@ Kịch bản tổng, mốc thời gian từng cảnh, trạng thái nhân vật 
   - **Hải:** Thế tấn vững như bàn thạch, cờ lê thép / Búa Cam nện chấn động nền bê tông hất văng địch không cần vũ khí sát thương.
   - **Thắng:** Lướt gió cực tốc để lại vệt đỏ, đấm bộc phát xung lực chặn đứng xe tải, phản xạ né đòn tích tắc.
   - **Khôi:** Acrobatic dodge, drone phóng vòng EMP vàng vô hiệu hóa găng địch.
-  - **Minh:** Thế võ tự vệ cận chiến CQB của cảnh sát, khiên chắn va chạm và còng ánh sáng khóa chặt tay đối thủ.
+  - **Minh:** Thế võ tự vệ cận chiến tự vệ cận chiến CQB, khiên chắn va chạm và còng ánh sáng khóa chặt tay đối thủ.
 
 ### 3. Cấu Trúc Shot List 3 Nhịp 10 Giây (0% Placeholder)
 Mỗi clip 10 giây được phân bổ chính xác theo biểu đồ động lực học:
@@ -419,9 +419,9 @@ Nhằm nâng tầm series đạt chuẩn bom tấn hành động – hài hướ
 1. **Cảnh 01 (Thiết lập):** Bức thư giấy da niêm phong sáp đỏ *"GỬI 4 ĐỨA NHỎ"* nằm cạnh hộp đồ nghề và di ảnh Bác Bảy. Khôi tò mò định bóc vì tưởng hóa đơn tiền điện/vé số, Thắng nhắc nhở: *"Gara gặp đại biến mới được mở!"*.
 2. **Cảnh 02 (Bị cướp):** Toán Găng Xám tập kích giật hộp sắt, hộp vỡ làm 5 lõi bay lên và bức thư văng ra. Tên cướp chộp bức thư bỏ trốn. Khôi ôm tô cơm sườn trốn gầm bàn tấu hài.
 3. **Cảnh 03 (Phát hiện & Lệnh xuất kích):** Vừa biến hình giáp ngầu lòi, Khôi phát hiện di thư bị cuỗm mất. Thắng ra lệnh truy kích; Khôi vừa chạy vừa la toáng đòi tắt bếp gas nồi thịt kho.
-4. **Cảnh 04 (Trận chiến dằn co & Bức thư xé đôi):** Cuộc rượt đuổi hẻm bờ kè. Lan phi thân giật thư, Hải nện búa làm rung chuyển, Khôi dùng drone giằng co kéo co phong bì trên nóc xe tải như câu cá. Lực kéo quá mạnh làm **bức thư bị xé toạc làm đôi**: Biệt đội giữ nửa trên (manh mối Cảng Tân Thuận), bọn cướp giữ nửa dưới rồi nhảy xuồng trốn.
-5. **Cảnh 05 (Giải mã nét chữ):** Đại úy Minh nhận Lõi thứ năm, soi đèn UV lên nửa bức thư rách thấy nét chữ huỳnh quang của Bác Bảy: *"Cảnh giác Sói Xám... Cảng Tân Thuận... Hùng học trò phản bội"*. Khôi và Hải mời Minh ăn cơm sườn lẩu cá, liên minh thành lập.
-6. **Cảnh 06 (Lên kế hoạch cứu Tú):** Năm người ăn lẩu sân thượng, Khôi che bức thư khỏi giọt nước lẩu bắn ra. Minh báo tin Tú bị ép đua xe cảm tử gài bom. Thắng thề lên đường cứu em út và đoạt lại nửa bức thư.
+4. **Cảnh 04 (Trận chiến dằn co & Bức thư xé đôi):** Cuộc rượt đuổi hẻm bờ kè. Lan phi thân giật thư, Hải nện búa làm rung chuyển, Khôi dùng drone giằng co kéo co phong bì trên nóc xe tải như câu cá. Lực kéo quá mạnh làm **bức thư bị xé toạc làm đôi**: Biệt đội giữ nửa trên (manh mối Bến Cảng Cũ), bọn cướp giữ nửa dưới rồi nhảy xuồng trốn.
+5. **Cảnh 05 (Giải mã nét chữ):** Đội trưởng Minh nhận Lõi thứ năm, soi đèn UV lên nửa bức thư rách thấy nét chữ huỳnh quang của Bác Bảy: *"Cảnh giác Sói Xám... Bến Cảng Cũ... Hùng học trò phản bội"*. Khôi và Hải mời Minh ăn cơm sườn lẩu cá, liên minh thành lập.
+6. **Cảnh 06 (Lên kế hoạch cứu Tú):** Năm người ăn lẩu sân thượng, Khôi che bức thư khỏi giọt nước lẩu bắn ra. Minh báo tin Tú bị ép đua xe thử nghiệm cưỡng bức gài mạch khóa điện. Thắng thề lên đường cứu em út và đoạt lại nửa bức thư.
 7. **Cảnh 44 (Thu hồi & Ghép thư nguyên vẹn):** Đánh bại Sói Xám, nửa bức thư thứ hai rơi ra từ ngực áo giáp của Hùng. Thắng ghép hai nửa bức thư vừa khít, làm lộ ra trọn vẹn tâm thư của Bác Bảy: *"Dù giông bão thế nào, về nhà ăn cơm nghe các con!"*. Hologram Bác Bảy hiện lên cảm hóa Hùng bật khóc ăn năn.
 8. **Cảnh 45 (Bữa cơm khải hoàn):** Bức thư dán lành lặn, đóng khung kính trang trọng cạnh di ảnh Bác Bảy và 5 Lõi Giáp. Khôi và Tú dùng đũa đấu kiếm tranh miếng sườn non, Hải gõ muôi canh phân xử, cả nhà nâng ly hô vang: *"Ra đường là chở người mình thương!"*.
 

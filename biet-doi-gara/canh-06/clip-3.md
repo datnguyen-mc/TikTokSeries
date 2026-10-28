@@ -12,7 +12,7 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 Dynamic 50mm eye-level shot capturing Lan's burning indignation, cutting quickly to Khôi's panicked protective move over the sacred document. Warm golden reflections from the steaming broth illuminating the actors' faces.
 
 [SHOT LIST]
-00:00–00:03.5 | Righteous anger & comedic protective reflex, 50mm — Lan siết chặt đôi đũa tre trong tay, gân xanh nổi lên trên mu bàn tay, ánh mắt bốc hỏa nhìn ra bóng đêm kênh Nhiêu Lộc. Lan dằn giọng căm phẫn: Lan: "Không thể để tàu đó rời cảng được!"
+00:00–00:03.5 | Righteous anger & comedic protective reflex, 50mm — Lan siết chặt đôi đũa tre trong tay, gân xanh nổi lên trên mu bàn tay, ánh mắt bốc hỏa nhìn ra bóng đêm kênh Nước Xanh. Lan dằn giọng căm phẫn: Lan: "Không thể để tàu đó rời cảng được!"
 00:03.5–00:07.0 | Hilarious soup splash panic, 35mm — Nồi lẩu sủi bọt bắn vài giọt nước dùng ra bàn; Khôi lập tức hét toáng lên, vội vã lấy chiếc đĩa sứ úp che kín nửa bức thư lại, mồm mép liến thoắng tấu hài: Khôi: "Nè nè, né nồi lẩu ra kẻo ướt thư của Bác Bảy!"
 00:07.0–00:10.0 | Comic sibling ease & tactical pivot, 50mm — Hải phì cười gắp thêm miếng thịt kho nhét vào chén Khôi để 'khóa miệng' em trai; Minh khẽ hắng giọng mở tiếp hồ sơ trinh sát. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 4.
 

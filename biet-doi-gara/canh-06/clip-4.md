@@ -13,7 +13,7 @@ Cinematic 50mm push-in on Minh as she taps the tablet screen, projecting digital
 
 [SHOT LIST]
 00:00–00:03.5 | Digital dossier reveal & underground racing plot, 50mm — Minh lướt tay trên màn hình máy tính bảng, hiển thị hình ảnh một cậu thanh niên trẻ măng trong bộ đồ đua xám đang bị bọn Găng Xám vây quanh ở một đường đua ngầm ngoại thành.
-00:03.5–00:07.0 | Chilling briefing & high stakes, 85mm prime — Minh giải thích cặn kẽ tình hình, giọng nói đanh lại đầy lo lắng: Minh: "Ngày mai, tại trường đua kín, tay sai Sói Xám sẽ ép một thiếu niên tên Tú đua xe cảm tử để thử nghiệm hệ thống găng mới. Thằng bé Tú bị bọn chúng khống chế gài bom áp suất."
+00:03.5–00:07.0 | Chilling briefing & high stakes, 85mm prime — Minh giải thích cặn kẽ tình hình, giọng nói đanh lại đầy lo lắng: Minh: "Ngày mai, tại trường đua kín, tay sai Sói Xám sẽ ép một thiếu niên tên Tú đua xe thử nghiệm cưỡng bức để thử nghiệm hệ thống găng mới. Thằng bé Tú bị bọn chúng khống chế gài khóa xung điện áp suất."
 00:07.0–00:10.0 | Shocked reaction & suspense freeze, 50mm — Thắng khựng lại giữa chừng khi nghe thấy cái tên quen thuộc, chén cơm trên tay Thắng bất giác dừng lại trên không. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 5.
 
 [SOUND]

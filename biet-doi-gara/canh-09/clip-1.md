@@ -15,7 +15,7 @@ High-speed 35mm anamorphic tracking shot mounted low on vehicle chassis, dynamic
 
 [SHOT LIST]
 00:00–00:03.5 | High-speed kinetic vehicular tracking, 35mm wide anamorphic — Establishing scene & action ignition: Bãi pit-stop trường đua kín ngột ngạt mùi xăng và khói lốp. Tiếng gầm rú của động cơ Twin-Turbo, lốp xe cày xé mặt đường tạo khói trắng cuồn cuộn, camera tracking sát sườn xe ở góc cực thấp với độ nét sắc sảo.
-00:03.5–00:07.0 | Precision high-speed stunt & decisive counter, 50mm dynamic cam — Cú bẻ lái hoặc va chạm nảy lửa: Chiếc xe cam xám của Tú đỗ giữa hai chiếc xe tải bọc thép của bọn cướp. Thân xe trượt ngang ngoạn mục, tia lửa ma sát bắn tung tóe từ rào chắn; nhân vật ghì chặt vô lăng, nét mặt căng thẳng cao độ, cất giọng qua bộ đàm với khẩu hình chuẩn xác: Tên canh gác: "Chạy thua là cái xe này nổ tung nghe con!".
+00:03.5–00:07.0 | Precision high-speed stunt & decisive counter, 50mm dynamic cam — Cú bẻ lái hoặc va chạm nảy lửa: Chiếc xe cam xám của Tú đỗ giữa hai chiếc xe tải bọc thép của bọn cướp. Thân xe trượt ngang ngoạn mục, tia lửa ma sát bắn tung tóe từ rào chắn; nhân vật ghì chặt vô lăng, nét mặt căng thẳng cao độ, cất giọng qua bộ đàm với khẩu hình chuẩn xác: Tên canh gác: "Chạy thua là cái xe này khóa cứng vô lăng nghe con!".
 00:07.0–00:10.0 | Drift recovery & relentless forward momentum, 35mm tracking — Chiếc xe lấy lại độ bám đường sau cú drift nghẹt thở, vệt bánh xe đen bóng in hằn trên mặt đường bốc khói; camera lia mượt về góc sau xe, khóa tĩnh khung hình cuối 0.5s để làm gốc nối liền cho clip 2.
 
 [SOUND]

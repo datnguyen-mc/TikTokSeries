@@ -11,7 +11,7 @@
 ## 1. Tóm tắt cảnh
 Hai chiếc xe bán tải bọc thép còn lại của địch dàn hàng ngang chắn toàn bộ mặt cầu dẫn vào cảng, chuẩn bị phóng lưới điện. Sau đó, PHÙNG! Hệ thống Nitro Lõi Đỏ bốc cháy rực rỡ, hai luồng lửa phản lực màu đỏ thẫm phụt ra sau đuôi Hắc Phong, đẩy tốc độ xe vọt lên 280 km/h trong 2 giây! Cuối cùng, Thắng nhìn qua gương thấy Lan đang bám sát phía sau: "Lan! Mau vượt lên ép đầu kéo của nó lại!"
 
-* **Bối cảnh chính:** Khúc cua đại lộ dẫn vào cổng Cảng Cát Lái.
+* **Bối cảnh chính:** Khúc cua đại lộ dẫn vào cổng Cảng Đông Nam.
 * **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
 * **Thời lượng:** Đúng 60 giây, khớp hoàn hảo 1 phút trên timeline YouTube.
 

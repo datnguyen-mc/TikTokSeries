@@ -7,18 +7,18 @@
 ```text
 Biệt Đội Gara · Tập 5/45: Chiếc Lõi Thứ Năm 🏎️🔥
 
-Một chiếc sedan cảnh sát truy kích màu xanh thẫm viền bạc phanh gấp. Cửa xe mở, Đại úy Minh bước xuống với phong thái thép.
-Minh thu hồi giáp, thở phào, rút từ túi áo ra một chiếc thẻ nhớ bảo mật đưa cho Thắng.
+Chiếc sedan thể thao màu xanh thẫm viền bạc phanh gấp đầu ngõ. Minh bước xuống với phong thái sắc lạnh khiến Khôi vội giấu nửa bức thư rách sau lưng tấu hài.
+Bất ngờ, chiếc Lõi Giáp thứ năm tự động bay tới chọn chủ nhân, hé lộ bí mật về người học trò năm xưa của Bác Bảy!
 
-"Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
+⚠️ Phim hành động giả tưởng do AI tạo, mọi nhân vật và bối cảnh đều hư cấu. "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
 📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).
 
-#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam
+#bietdoigara #phimhanhdong #sieuanhhung #phimvietnam #aifilm
 ```
 
 ## Bình luận ghim (Pinned Comment)
 ```text
-Theo bạn tình huống ở Cảnh 5 này ai xử lý ngầu nhất? Bình luận bên dưới nhé! 👇
+Màn biến hình Giáp Khiên của chị Minh ở Cảnh 5 có làm anh em nổi da gà không? Bình luận bên dưới nhé! 👇
 ```
 
 ## Checklist khi đăng

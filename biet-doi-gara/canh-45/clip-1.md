@@ -16,7 +16,7 @@ Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of 
 
 [SHOT LIST]
 00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Establishing scene & action ignition: Toàn cảnh Cảng lúc bình minh rạng rỡ. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
-00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: Đại úy Minh dẫn đầu đoàn xe cảnh sát trao trả từng chiếc xe cho những người dân nghèo Một bé gái ôm chầm lấy con gấu bông trên xe mừng rỡ. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Người dân: "Cảm ơn các hiệp sĩ! Cảm ơn công an!".
+00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: Đội trưởng Minh dẫn đầu đoàn xe tuần tra bảo vệ trao trả từng chiếc xe cho những người dân nghèo Một bé gái ôm chầm lấy con gấu bông trên xe mừng rỡ. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Người dân: "Cảm ơn các hiệp sĩ! Cảm ơn đội bảo vệ!".
 00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp clip 2.
 
 [SOUND]

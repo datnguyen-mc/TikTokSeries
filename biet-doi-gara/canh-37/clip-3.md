@@ -10,7 +10,7 @@ Aggressive 35mm anamorphic wide tracking, low-angle 24mm heroic perspective, dyn
 
 [SHOT LIST]
 00:00–00:03.5 | Explosive kinetic initiation, 35mm low-angle tracking — Continuing seamlessly from the last frame: Sói Xám gạt cần số, đầu kéo 18 bánh gầm lên như khủng long bạo chúa. Đòn thế khai cuộc thần tốc, gia tốc bộc phát tức thì, camera trượt theo góc thấp bắt trọn đà chuyển động dứt khoát của nhân vật.
-00:03.5–00:07.0 | Decisive martial arts impact & speed-ramp execution, 50mm dynamic combat cam — Cú ra đòn và phản xạ dứt khoát: húc văng các rào chắn bê tông của cảnh sát như đồ chơi trẻ con.. Va chạm đanh thép tạo xung lực dội ngược làm chấn động không khí, tia lửa cơ khí lóe sáng; nhân vật giữ thế dứt khoát, cất giọng Nam dõng dạc với khẩu hình khớp từng âm tiết: Sói: "Nghiền nát tụi nó cho tao!". Ánh mắt kiên định sắc lạnh qua kính mũ.
+00:03.5–00:07.0 | Decisive martial arts impact & speed-ramp execution, 50mm dynamic combat cam — Cú ra đòn và phản xạ dứt khoát: húc văng các rào chắn bê tông bảo vệ cảng như đồ chơi trẻ con.. Va chạm đanh thép tạo xung lực dội ngược làm chấn động không khí, tia lửa cơ khí lóe sáng; nhân vật giữ thế dứt khoát, cất giọng Nam dõng dạc với khẩu hình khớp từng âm tiết: Sói: "Nghiền nát tụi nó cho tao!". Ánh mắt kiên định sắc lạnh qua kính mũ.
 00:07.0–00:10.0 | Kinetic shockwave dissipation & combat stance lock, 35mm low-angle — Sóng xung kích quét tròn làm bụi đất và mảnh vỡ dạt ra ngoài, đối thủ bị chấn động lùi lại hoặc dính đòn; nhân vật thu thế tấn vững như bàn thạch, cơ bắp căng tràn, ánh mắt khóa chặt mục tiêu. Khóa tĩnh khung hình cuối 0.5s để nối tiếp clip 4 mượt mà không lỗi giật.
 
 [SOUND]

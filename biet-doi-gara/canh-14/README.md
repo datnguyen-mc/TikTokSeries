@@ -22,7 +22,7 @@ Tú ngồi trên bậc thềm xe cứu hộ, hai tay run run cầm ly trà gừn
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
 | 1 | 00:00–00:10 | **Tú ngồi trên bậc thềm xe cứu hộ, hai tay run run cầm ly trà gừng nóng do Lan đưa.** | Lan: "Uống đi cho ấm, hết sợ rồi em." | Ingredients (Khóa mặt & cảnh) |
-| 2 | 00:10–00:20 | **Tú cúi đầu nhận lỗi trước Đại úy Minh: "Chị Minh... Em bị bọn chúng đe dọa xiết nhà của mẹ em ở quê nên mới phải làm tài xế giao xe cho chúng nó."** | Tú: "Em không có muốn tiếp tay cho giặc đâu..." | Frames / Extend (Nối liền) |
+| 2 | 00:10–00:20 | **Tú cúi đầu nhận lỗi trước Đội trưởng Minh: "Chị Minh... Em bị bọn chúng đe dọa xiết nhà của mẹ em ở quê nên mới phải làm tài xế giao xe cho chúng nó."** | Tú: "Em không có muốn tiếp tay cho giặc đâu..." | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Minh đặt tay lên vai Tú: "Chị hiểu. Khai thật đi, chỗ tập kết xe trộm ở đâu?"** | Minh: "Bọn chúng giấu xe ở chỗ nào?" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Tú ngước nhìn Thắng: "Ở Cầu Cảng Cũ số 4... Bên trong kho lạnh container bỏ hoang. Toàn bộ xe cướp được ở miền Nam đều chuyển về đó trước khi đưa lên tàu lớn."** | Tú: "Đêm mai con tàu tên Hắc Long sẽ cập bến bốc hàng." | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Thắng rút chiếc điện thoại ra ghi nhận tọa độ: "Bọn chúng có bao nhiêu người canh giữ?"** | Thắng: "Sói Xám có ở đó không?" | Frames / Extend (Nối liền) |

@@ -7,7 +7,7 @@
 ```text
 Biệt Đội Gara · Tập 35/45: Tín Hiệu Bọ Hung 🏎️🔥
 
-BÍP... BÍP... BÍP! Màn hình máy tính bảng tác chiến của Minh đột ngột nhảy lên một chấm vàng nhấp nháy phát ra từ khu vực Cảng Cát Lái.
+BÍP... BÍP... BÍP! Màn hình máy tính bảng tác chiến của Minh đột ngột nhảy lên một chấm vàng nhấp nháy phát ra từ khu vực Cảng Đông Nam.
 Thắng bước ra giữa xưởng, kiểm tra lại dây đai an toàn và bộ đàm: "Lan lái hatchback của ba. Hải lái xe bán tải 6x6. Anh lái Hắc Phong. Minh mở đường!"
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️

@@ -14,7 +14,7 @@ Time: Scene 26/45, timecode 25:00 – 26:00. Atmosphere: high-adrenaline blockbu
 Tense 35mm Dutch tilt moving through narrow spaces, tight 85mm close-ups focusing on sweating brows and trembling hands. Chiaroscuro high-contrast shadows, cold fluorescent or emergency red rotating beacons piercing the darkness.
 
 [SHOT LIST]
-00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — Establishing scene & action ignition: Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nhiêu Lộc cuộn sóng đen ngòm. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề.
+00:00–00:03.5 | High-tension tactical tracking, 35mm Dutch tilt — Establishing scene & action ignition: Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nước Xanh cuộn sóng đen ngòm. Chuyển động thận trọng, camera lướt theo nhịp thở gấp gáp, bắt trọn từng tích tắc đếm ngược của hiểm họa cận kề.
 00:03.5–00:07.0 | Critical decisive maneuver & tense dialogue, 50mm to 85mm push-in — Thao tác kỹ thuật chuẩn xác và dứt khoát: Mưa xối xả đập vào mái tôn rầm rầm. Bàn tay vững vàng xử lý trong giây phút sinh tử, trán ướt đẫm mồ hôi nhưng ánh mắt không hề dao động, nhân vật bật ra câu nói then chốt: Minh: "Nếu con chip ở đây... Nghĩa là tụi nó biết vị trí gara rồi!".
 00:07.0–00:10.0 | High-stakes stabilization & cliffhanger lock, 35mm — Hiểm nguy tạm thời được kìm hãm hoặc bộc lộ bước ngoặt nghẹt thở; camera khóa chặt vào khoảnh khắc quyết định, giữ tĩnh 0.5s ở khung hình cuối cùng để chuyển tiếp clip 2.
 

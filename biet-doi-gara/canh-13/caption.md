@@ -1,14 +1,14 @@
-# Caption · Biệt Đội Gara · Phần 13/45: Gỡ Kíp Nổ 3 Giây
+# Caption · Biệt Đội Gara · Phần 13/45: Gỡ Mạch Khóa 3 Giây
 
 > Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 13 (Phút 12:00 – 13:00).  
 > Thời lượng: 60 giây. Khung hình: 16:9 hoặc crop 9:16.
 
 ## Caption đề xuất
 ```text
-Biệt Đội Gara · Tập 13/45: Gỡ Kíp Nổ 3 Giây 🏎️🔥
+Biệt Đội Gara · Tập 13/45: Gỡ Mạch Khóa 3 Giây 🏎️🔥
 
-Khôi nằm ngửa trượt vào gầm xe, tay thoăn thoắt cắm dây giải mã tín hiệu vào bo mạch kíp nổ áp suất.
-Đồng hồ kíp nổ dừng lại ở đúng con số: **00:03**! Đèn đỏ tắt ngấm, chuyển sang xanh an toàn. Toàn bộ kíp nổ rụng tơi tả xuống mặt cát.
+Khôi nằm ngửa trượt vào gầm xe, tay thoăn thoắt cắm dây giải mã tín hiệu vào bo mạch mạch khóa điện áp suất.
+Đồng hồ mạch khóa điện dừng lại ở đúng con số: **00:03**! Đèn đỏ tắt ngấm, chuyển sang xanh an toàn. Toàn bộ mạch khóa điện rụng tơi tả xuống mặt cát.
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
 📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).

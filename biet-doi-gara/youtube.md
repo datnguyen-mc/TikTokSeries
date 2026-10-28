@@ -33,7 +33,7 @@
 BIỆT ĐỘI GARA: CÚ LƯỚT TỬ THẦN (THE LAST DRIVE)
 Phim hành động tốc độ, siêu anh hùng giáp chiến đậm chất Việt Nam và tinh thần gia đình "Fast & Furious" trọn vẹn 45 phút.
 
-Tại Sài Gòn, Gara Bảy ven kênh là mái ấm của bốn người không cùng huyết thống: Thắng "Gió", Lan "Cáo", Hải "Búa", Khôi "Bit". Khi đường dây buôn lậu Găng Xám của Sói Xám (Hùng) tấn công cướp xe của ba Lan, năm Lõi Giáp Bác Bảy để lại đã thức tỉnh, chọn ra năm chiến binh cùng Đại úy Minh. Trải qua những cạm bẫy đường đua sinh tử, nghi ngờ nội gián và mất mát đau đớn, họ đã đồng lòng tạo nên một cuộc rượt đuổi nghẹt thở trên đại lộ Cảng để bảo vệ gia đình và đưa xe về cho người dân.
+Tại Sài Gòn, Gara Bảy ven kênh là mái ấm của bốn người không cùng huyết thống: Thắng "Gió", Lan "Cáo", Hải "Búa", Khôi "Bit". Khi đường dây buôn lậu Găng Xám của Sói Xám (Hùng) tấn công cướp xe của ba Lan, năm Lõi Giáp Bác Bảy để lại đã thức tỉnh, chọn ra năm chiến binh cùng Đội trưởng Minh. Trải qua những cạm bẫy đường đua sinh tử, nghi ngờ nội gián và mất mát đau đớn, họ đã đồng lòng tạo nên một cuộc rượt đuổi nghẹt thở trên đại lộ Cảng để bảo vệ gia đình và đưa xe về cho người dân.
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương. Ở đây không có ai bị bỏ lại phía sau."
 
@@ -51,7 +51,7 @@ DANH SÁCH 45 CHƯƠNG PHIM (TIMESTAMPS):
 09:00 10. Hai Xe Xuất Phát
 10:00 11. Khúc Cua Tử Thần
 11:00 12. Cú Quay Đầu Sinh Tử
-12:00 13. Gỡ Kíp Nổ 3 Giây
+12:00 13. Gỡ Mạch Khóa 3 Giây
 13:00 14. Lời Khai Của Tú
 14:00 15. Mắt Xích Ngầm
 15:00 16. Đêm Xuất Kích
@@ -126,7 +126,7 @@ Bạn ấn tượng nhất với chiến xa hay màn trình diễn của thành 
 ⚪ Lan "Cáo" (Hatchback drift lọt gầm)
 🟠 Hải "Búa" (Bán tải 6x6 húc xe kéo)
 🟡 Khôi "Bit" (Drone hack bọ hung)
-🔵 Đại úy Minh (Sedan truy kích & Khiên ánh sáng)
+🔵 Đội trưởng Minh (Sedan truy kích & Khiên ánh sáng)
 
 Để lại bình luận bên dưới nhé! Ở nhà này: "Ra đường là chở người mình thương!" ❤️
 ```

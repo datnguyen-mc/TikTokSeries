@@ -9,7 +9,7 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Bình minh rạng rỡ tại Cảng Tân Thuận, lực lượng cảnh sát do Đại úy Minh dẫn đầu trao trả hàng trăm chiếc xe trộm nguyên vẹn cho bà con lao động nghèo trong niềm vui khôn xiết. Hoàng hôn buông xuống, trên bàn thờ Bác Bảy ở Gara, bức di thư đã được dán lành lặn và lồng khung kính gỗ trang trọng bên cạnh 5 Lõi Giáp. Trên sân thượng lộng gió lung linh ánh đèn, Hải bưng nồi lẩu cù lao nghi ngút khói mừng đại gia đình chiến thắng. Khôi và Tú dùng đũa đấu kiếm giành nhau miếng sườn non duy nhất, Hải gõ muôi canh phân xử khiến cả nhà cười vang rộn rã. Thắng nâng cao ly trà đá cùng mọi người hô vang tôn chỉ thiêng liêng: *"Ra đường là chở người mình thương!"*. Máy quay flycam 24mm lùi xa dần ngắm nhìn toàn cảnh Sài Gòn lung linh, khép lại trọn vẹn 45 phút phim bom tấn cùng đoạn after-credit hé lộ tương lai.
+Bình minh rạng rỡ tại Bến Cảng Cũ, đội bảo vệ cảng do Đội trưởng Minh dẫn đầu trao trả hàng trăm chiếc xe trộm nguyên vẹn cho bà con lao động nghèo trong niềm vui khôn xiết. Hoàng hôn buông xuống, trên bàn thờ Bác Bảy ở Gara, bức di thư đã được dán lành lặn và lồng khung kính gỗ trang trọng bên cạnh 5 Lõi Giáp. Trên sân thượng lộng gió lung linh ánh đèn, Hải bưng nồi lẩu cù lao nghi ngút khói mừng đại gia đình chiến thắng. Khôi và Tú dùng đũa đấu kiếm giành nhau miếng sườn non duy nhất, Hải gõ muôi canh phân xử khiến cả nhà cười vang rộn rã. Thắng nâng cao ly trà đá cùng mọi người hô vang tôn chỉ thiêng liêng: *"Ra đường là chở người mình thương!"*. Máy quay flycam 24mm lùi xa dần ngắm nhìn toàn cảnh Sài Gòn lung linh, khép lại trọn vẹn 45 phút phim bom tấn cùng đoạn after-credit hé lộ tương lai.
 
 * **Bối cảnh chính:** Sân thượng Gara Bảy, hoàng hôn ấm áp (Kết Phim).
 * **Quy cách hình ảnh:** Người thật, cinematic 2.39:1 widescreen, ánh hoàng hôn vàng rực rỡ, bức thư dán lành lặn mang ý nghĩa biểu tượng gia đình, tiếng cười chân thật và xúc động.
@@ -21,7 +21,7 @@ Bình minh rạng rỡ tại Cảng Tân Thuận, lực lượng cảnh sát do 
 
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Đại úy Minh trao trả xe cho người dân nghèo tại Cảng Tân Thuận lúc bình minh rạng rỡ.** | Người dân: "Cảm ơn các hiệp sĩ! Cảm ơn công an!" | Ingredients (Khóa mặt & cảnh) |
+| 1 | 00:00–00:10 | **Đội trưởng Minh trao trả xe cho người dân nghèo tại Bến Cảng Cũ lúc bình minh rạng rỡ.** | Người dân: "Cảm ơn các hiệp sĩ! Cảm ơn đội bảo vệ!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **Bức thư dán lành lặn đóng khung kính bên di ảnh Bác Bảy. Sân thượng lung linh đèn vàng, Hải bưng nồi lẩu.** | Hải: "Lẩu cù lao đặc biệt mừng đại gia đình chiến thắng!" | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Khôi và Tú dùng đũa đấu kiếm giằng co miếng sườn non, Hải gõ muôi canh phân xử khiến cả bàn cười nắc nẻ.** | Khôi: "Miếng sườn này là công tui giữ bức thư nghe Tú!" · Tú: "Em đua xe bở hơi tai mới có sức ăn chứ bộ!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Thắng nâng cao ly trà đá, tuyên bố triết lý gia đình thiêng liêng của Biệt Đội Gara.** | Thắng: "Muốn đua thì lên đường đua!" | Frames / Extend (Nối liền) |

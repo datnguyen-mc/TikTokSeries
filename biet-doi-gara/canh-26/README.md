@@ -9,7 +9,7 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nhiêu Lộc cuộn sóng đen ngòm. Mưa xối xả đập vào mái tôn rầm rầm. Sau đó, Gạch đá vụn bay tứ tung, khói bụi hòa lẫn nước mưa tràn ngập sàn xưởng. Mười tên lính Găng Xám cầm kích điện tràn vào qua lỗ hổng. Cuối cùng, Trên giếng trời gác lửng, mái tôn bị giật tung tóe. Sói Xám nhảy xuống như một bóng ma đen, nhắm thẳng vào vị trí của Khôi!
+Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nước Xanh cuộn sóng đen ngòm. Mưa xối xả đập vào mái tôn rầm rầm. Sau đó, Gạch đá vụn bay tứ tung, khói bụi hòa lẫn nước mưa tràn ngập sàn xưởng. Mười tên lính Găng Xám cầm kích điện tràn vào qua lỗ hổng. Cuối cùng, Trên giếng trời gác lửng, mái tôn bị giật tung tóe. Sói Xám nhảy xuống như một bóng ma đen, nhắm thẳng vào vị trí của Khôi!
 
 * **Bối cảnh chính:** Gara Bảy, mưa bão gầm rú bên ngoài.
 * **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
@@ -21,11 +21,11 @@ Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nhiêu
 
 | Clip | Thời gian | Cỡ cảnh & Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nhiêu Lộc cuộn sóng đen ngòm. Mưa xối xả đập vào mái tôn rầm rầm.** | Minh: "Nếu con chip ở đây... Nghĩa là tụi nó biết vị trí gara rồi!" | Ingredients (Khóa mặt & cảnh) |
+| 1 | 00:00–00:10 | **Sấm sét rạch ngang bầu trời đêm Sài Gòn, soi rõ dòng kênh Nước Xanh cuộn sóng đen ngòm. Mưa xối xả đập vào mái tôn rầm rầm.** | Minh: "Nếu con chip ở đây... Nghĩa là tụi nó biết vị trí gara rồi!" | Ingredients (Khóa mặt & cảnh) |
 | 2 | 00:10–00:20 | **RẦM RẦM RẦM! Một tiếng nổ kinh hoàng xé toạc màn đêm! Bức tường gạch phía hông gara bị một chiếc xe tải bọc thép gắn mũi khoan thép húc sụp đổ tan tành!** | Khôi: "Tụi nó tới thiệt rồi anh ơi!" | Frames / Extend (Nối liền) |
 | 3 | 00:20–00:30 | **Gạch đá vụn bay tứ tung, khói bụi hòa lẫn nước mưa tràn ngập sàn xưởng. Mười tên lính Găng Xám cầm kích điện tràn vào qua lỗ hổng.** | Thắng: "Tất cả biến hình chiến đấu!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Ánh sáng ngũ sắc bùng nổ: Giáp Gió, Giáp Cáo, Giáp Búa, Giáp Bit, Giáp Khiên bao phủ cơ thể 5 thành viên trong tích tắc.** | Cả năm người: "Lõi Bảy, khởi động!" | Frames / Extend (Nối liền) |
-| 5 | 00:40–00:50 | **Hải vung búa cam chặn đứng mũi khoan của xe bọc thép, Thắng tung quyền đánh bạt hai tên lính tiên phong lùi ra ngoài mưa.** | Hải: "Muốn phá nhà tao hả? Qua xác tao nè!" | Frames / Extend (Nối liền) |
+| 5 | 00:40–00:50 | **Hải vung búa cam chặn đứng mũi khoan của xe bọc thép, Thắng tung quyền đánh bạt hai tên lính tiên phong lùi ra ngoài mưa.** | Hải: "Muốn phá nhà tao hả? Bước qua tụi tao đã!" | Frames / Extend (Nối liền) |
 | 6 | 00:50–01:00 | **Trên giếng trời gác lửng, mái tôn bị giật tung tóe. Sói Xám nhảy xuống như một bóng ma đen, nhắm thẳng vào vị trí của Khôi!** | Sói: "Thằng nhóc hacker... Mày hết đường thoát!" | Frames / Extend (Nối liền) |
 
 ---

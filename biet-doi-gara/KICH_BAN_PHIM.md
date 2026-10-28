@@ -6,7 +6,7 @@
 
 ## Mạch truyện
 
-**Hồi 1 — Năm chiếc lõi (00:00–03:40).** Găng Xám cướp xe của ba Lan ngay trong Gara Bảy. Năm lõi giáp Bác Bảy giấu lại chọn Thắng, Lan, Hải, Khôi, rồi chọn Đại úy Minh. Minh báo: ba đêm nữa, một tàu hàng chở hơn trăm chiếc xe trộm rời cảng.
+**Hồi 1 — Năm chiếc lõi (00:00–03:40).** Găng Xám cướp xe của ba Lan ngay trong Gara Bảy. Năm lõi giáp Bác Bảy giấu lại chọn Thắng, Lan, Hải, Khôi, rồi chọn Đội trưởng Minh. Minh báo: ba đêm nữa, một tàu hàng chở hơn trăm chiếc xe trộm rời cảng.
 
 **Hồi 2 — Truy vết (03:40–10:40).**
 - Thắng trở lại đường đua sau mười năm và bỏ chức vô địch để cứu Tú, tay lái bị Sói ép đua; Tú chỉ chỗ kho xe.
@@ -105,7 +105,7 @@ Ký hiệu khóa: `THANG`, `LAN`, `HAI`, `KHOI`, `MINH` là thường phục; th
 | 3 | FR | Thắng mở thùng đồ nghề, ấn đáy hộp mút: ngăn bí mật có con chip hologram thứ hai | — |
 | 4 | FR · thêm BACBAY | Hologram Bác Bảy lần hai | Bác Bảy: "Hùng là con bác nuôi. Nó lạc đường." · Bác Bảy: "Đừng đánh nó vì hận nghen con." |
 | 5 | FR | Laptop của Khôi trên bàn kêu bíp: chấm vàng nhấp nháy trên bản đồ tối, không chữ | Hải: "Drone của Khôi kìa!" · Thắng: "Thằng nhỏ gài drone lên xe tụi nó." |
-| 6 | FR | Cả nhà đứng dậy | Minh: "Lần này đi theo luật, có cảnh sát." · Thắng: "Đi đón Khôi về ăn cơm." |
+| 6 | FR | Cả nhà đứng dậy | Minh: "Lần này đi theo luật, có đội an ninh cảng." · Thắng: "Đi đón Khôi về ăn cơm." |
 
 ### Cảnh 10 — Cứu Khôi (đêm ngày 5, `FACTORY`)
 | Clip | Cách tạo · khóa | Diễn biến | Thoại |
@@ -130,12 +130,12 @@ Ký hiệu khóa: `THANG`, `LAN`, `HAI`, `KHOI`, `MINH` là thường phục; th
 ### Cảnh 12 — Ba chiếc xe (đêm ngày 6, `PORTROAD`)
 | Clip | Cách tạo · khóa | Diễn biến | Thoại |
 |:---:|---|---|---|
-| 1 | ING · MINH_G, THANG_G, LAN, HAI_G, KHOI_G · ba xe | Hook: hàng rào cảnh sát, đèn xanh đỏ; xa xa đèn pha đoàn xe chở xe trộm đang tới | Minh: "Đường đã phong tỏa, không còn dân." |
+| 1 | ING · MINH_G, THANG_G, LAN, HAI_G, KHOI_G · ba xe | Hook: hàng rào an ninh cảng, đèn xanh đỏ; xa xa đèn pha đoàn xe chở xe trộm đang tới | Minh: "Đường đã phong tỏa, không còn dân." |
 | 2 | FR | Ba xe lăn bánh song song: xe trắng của Lan (cận tiếng cài dây an toàn), coupe đen của Thắng, bán tải cam của Hải, Khôi ngồi ghế phụ | Thắng (bộ đàm): "Cả nhà, đi!" |
 | 3 | FR | Xe tải hộ tống xám lạng lách; Lan luồn qua chính xác | Thắng: "Lan, bên trái trống!" |
 | 4 | FR | Bán tải của Hải chắn ngang đầu xe chở xe; Hải nhảy ra cầm búa; drone Khôi tắt găng bọn Găng Xám | — |
 | 5 | FR | Lan đánh lái trượt ngang, chặn chiếc xe hộ tống cuối cùng, dừng cách vài tấc | Lan: "Xe của ba em đó, nhớ chưa?" |
-| 6 | FR · thêm SOI | Đoàn xe dừng hẳn, cảnh sát tràn vào; còi tàu rền; trên cầu dẫn của tàu, Sói Xám với hai lõi sáng trên hai cổ tay (xám và trắng xanh) | Sói: "Muốn lấy lõi? Lên tàu." |
+| 6 | FR · thêm SOI | Đoàn xe dừng hẳn, đội bảo vệ cảng tràn vào; còi tàu rền; trên cầu dẫn của tàu, Sói Xám với hai lõi sáng trên hai cổ tay (xám và trắng xanh) | Sói: "Muốn lấy lõi? Lên tàu." |
 
 ### Cảnh 13 — Cầu cảng (cùng đêm, `SHIP`)
 | Clip | Cách tạo · khóa | Diễn biến | Thoại |
@@ -155,7 +155,7 @@ Ký hiệu khóa: `THANG`, `LAN`, `HAI`, `KHOI`, `MINH` là thường phục; th
 | 3 | FR · SOI rồi SOI_C | Đòn hợp lực: gió đỏ, bóng trắng xanh, sóng cam, vòng vàng, khiên xanh thẫm xoắn thành một luồng năm màu; giáp Sói vỡ thành ánh sáng vô hại, Sói khuỵu gối, không còn giáp | — |
 | 4 | FR | Minh khóa còng ánh sáng xanh thẫm vào cổ tay Sói | Minh: "Anh Hùng, anh bị bắt." |
 | 5 | FR · thêm BACBAY | Thắng đặt máy chiếu cũ xuống boong; hologram Bác Bảy hiện lên; Hùng bật khóc | Bác Bảy: "Hùng ơi, về nhà đi con." · Hùng: "Con xin lỗi bác…" |
-| 6 | ING (một giờ sau, rạng sáng) · năm người mặc giáp | Bình minh trên sông; cảnh sát dẫn Hùng đi (mờ); năm người ngồi rã rời trên cầu dẫn | Hải: "Về ăn cơm thôi cả nhà!" |
+| 6 | ING (một giờ sau, rạng sáng) · năm người mặc giáp | Bình minh trên sông; đội bảo vệ cảng dẫn Hùng đi (mờ); năm người ngồi rã rời trên cầu dẫn | Hải: "Về ăn cơm thôi cả nhà!" |
 
 ### Cảnh 15 — Gia đình (bình minh ngày 7 ở `PORT`, tối ở `ROOF`)
 | Clip | Cách tạo · khóa | Diễn biến | Thoại |
@@ -172,4 +172,4 @@ Ký hiệu khóa: `THANG`, `LAN`, `HAI`, `KHOI`, `MINH` là thường phục; th
 - **Dựng:** mỗi cảnh có clip đầu mở bằng Ingredients để neo lại mặt nhân vật; các clip còn lại nối khung cuối bằng Frames hoặc Extend. Một chuỗi Extend tối đa 40 giây.
 - **Bản YouTube:** ghép 15 cảnh theo thứ tự trong Scenebuilder hoặc CapCut, thêm nhạc nền liền mạch, chèn chương theo [youtube.md](youtube.md).
 - **Bản TikTok:** mỗi cảnh đăng riêng, caption trong `canh-{số}/caption.md`; câu cuối caption mời xem bản đầy đủ trên YouTube.
-- **An toàn:** không súng, dao, máu; không ai chết; kẻ xấu bị khóa găng rồi giao cho cảnh sát. Không đua ngoài đường thật: đường đua kín (Cảnh 5) và đường cảng đã phong tỏa (Cảnh 12) là hai nơi duy nhất xe chạy nhanh; ai lái xe hơi cũng thắt dây an toàn.
+- **An toàn:** không súng, dao, máu; không ai chết; kẻ xấu bị khóa găng rồi bàn giao cho đội bảo vệ cảng. Không đua ngoài đường thật: đường đua kín (Cảnh 5) và đường cảng đã phong tỏa (Cảnh 12) là hai nơi duy nhất xe chạy nhanh; ai lái xe hơi cũng thắt dây an toàn.

@@ -7,8 +7,8 @@
 ```text
 Biệt Đội Gara · Tập 36/45: Đại Lộ Phong Tỏa 🏎️🔥
 
-Dọc đại lộ 8 làn xe dẫn ra cảng, đèn chớp xanh đỏ của hàng chục xe cảnh sát giăng kín. Rào chắn bê tông và chông thép đã được thiết lập.
-Bốn chiếc xe bán tải hộ tống của bọn Găng Xám tăng tốc vọt lên trước, giương các dàn chông sắt và súng phóng lưới điện từ sẵn sàng nghênh chiến.
+Dọc đại lộ 8 làn xe dẫn ra cảng, đèn chớp xanh đỏ của hàng chục xe tuần tra bảo vệ giăng kín. Rào chắn bê tông và chông thép đã được thiết lập.
+Bốn chiếc xe bán tải hộ tống của bọn Găng Xám tăng tốc vọt lên trước, giương các dàn chông sắt và máy phóng lưới điện từ sẵn sàng nghênh chiến.
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
 📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).

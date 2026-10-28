@@ -11,7 +11,7 @@ Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-a
 Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of field. Soft golden rim lighting from overhead lamps blending with teal neon through windows, natural skin tones with cinematic film grain.
 
 [SHOT LIST]
-00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Đại úy Minh từ bờ kè bước tới vỗ tay. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
+00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Continuing seamlessly from the last frame: Đội trưởng Minh từ bờ kè bước tới vỗ tay. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
 00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: trên tay cầm bộ đàm tác chiến chuyên dụng.. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Minh: "Tú đã xuất hiện ở trường đua rồi!"
 
 ---.

@@ -8,7 +8,7 @@
 Biệt Đội Gara · Tập 38/45: Cú Húc Của Tê Giác 🏎️🔥
 
 Hải đạp lút chân ga chiếc bán tải "Thiết Tê Giác" 6x6, khối động cơ V8 gầm lên man dại, lao thẳng vào đuôi chiếc rơ-moóc thứ hai.
-Lực lượng cảnh sát của Minh lập tức ập tới bao vây, khống chế tài xế và bảo vệ an toàn cho toàn bộ số xe trộm trên rơ-moóc.
+Đội an ninh bảo vệ cảng của Minh lập tức ập tới bao vây, khống chế tài xế và bảo vệ an toàn cho toàn bộ số xe trộm trên rơ-moóc.
 
 "Muốn đua thì lên đường đua. Ra đường là chở người mình thương!" ❤️
 📺 Xem trọn bộ phim điện ảnh 45 phút trên kênh YouTube Biệt Đội Gara (Link ở bio).

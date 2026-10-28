@@ -9,7 +9,7 @@
 ---
 
 ## 1. Tóm tắt cảnh
-Cả bốn chiến binh trong trang phục giáp hoàn chỉnh đang khởi động các đòn thế phối hợp tác chiến đường phố. Sau đó, Lan lướt qua khoảng không giữa các thùng phuy rơi, để lại vệt sáng xanh băng rồi tiếp đất nhẹ nhàng không một tiếng động. Cuối cùng, Đại úy Minh từ bờ kè bước tới vỗ tay, trên tay cầm bộ đàm tác chiến chuyên dụng.
+Cả bốn chiến binh trong trang phục giáp hoàn chỉnh đang khởi động các đòn thế phối hợp tác chiến đường phố. Sau đó, Lan lướt qua khoảng không giữa các thùng phuy rơi, để lại vệt sáng xanh băng rồi tiếp đất nhẹ nhàng không một tiếng động. Cuối cùng, Đội trưởng Minh từ bờ kè bước tới vỗ tay, trên tay cầm bộ đàm tác chiến chuyên dụng.
 
 * **Bối cảnh chính:** Bãi đất sau gara bên rặng chuối ven kênh, sáng sớm sương mù.
 * **Quy cách hình ảnh:** Người thật, giáp cơ khí viền LED sạch, xe độ cơ bắp & JDM Việt hóa. Thoại ngắn gọn, khẩu hình tiếng Việt miền Nam rõ ràng qua kính mũ trong suốt.
@@ -26,7 +26,7 @@ Cả bốn chiến binh trong trang phục giáp hoàn chỉnh đang khởi đ�
 | 3 | 00:20–00:30 | **Lan lướt qua khoảng không giữa các thùng phuy rơi, để lại vệt sáng xanh băng rồi tiếp đất nhẹ nhàng không một tiếng động.** | Lan: "Còn em sẽ dứt điểm chớp nhoáng!" | Frames / Extend (Nối liền) |
 | 4 | 00:30–00:40 | **Khôi bấm điều khiển trên găng tay, drone bay lượn vòng tạo lưới điện từ vàng nhạt khép kín góc hở phía sau lưng Hải.** | Khôi: "Lưới bảo vệ bọc hậu hoàn hảo!" | Frames / Extend (Nối liền) |
 | 5 | 00:40–00:50 | **Thắng kích hoạt vây gió sau lưng, tăng tốc lướt thẳng vào trung tâm, vung tay điều hướng luồng năng lượng êm thắm dừng lại an toàn.** | Thắng: "Nhớ kỹ: Chỉ vô hiệu hóa, không sát thương!" | Frames / Extend (Nối liền) |
-| 6 | 00:50–01:00 | **Đại úy Minh từ bờ kè bước tới vỗ tay, trên tay cầm bộ đàm tác chiến chuyên dụng.** | Minh: "Tú đã xuất hiện ở trường đua rồi!" | Frames / Extend (Nối liền) |
+| 6 | 00:50–01:00 | **Đội trưởng Minh từ bờ kè bước tới vỗ tay, trên tay cầm bộ đàm tác chiến chuyên dụng.** | Minh: "Tú đã xuất hiện ở trường đua rồi!" | Frames / Extend (Nối liền) |
 
 ---
 

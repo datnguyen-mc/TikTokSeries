@@ -16,7 +16,7 @@ Warm, atmospheric 50mm and 85mm prime lens cinematography with shallow depth of 
 
 [SHOT LIST]
 00:00–00:03.5 | Cinematic atmospheric tracking, 50mm medium shot — Establishing scene & action ignition: Hai cỗ máy gầm rú điên cuồng, khói lốp trắng xóa bốc lên mù mịt sau đuôi xe. Ánh sáng ấm áp lan tỏa, camera lia chậm rãi ghi lại không gian xưởng gara và mối dây liên kết ruột thịt giữa các nhân vật.
-00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: Trọng tài giơ cao lá cờ đen trắng. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Lan (bộ đàm): "Cảm biến báo bom kích hoạt ở mốc 80 km/h!".
+00:03.5–00:07.0 | Warm intimate close-up & sincere dialogue, 85mm prime lens — Chuyển biến cảm xúc chân thành: Trọng tài giơ cao lá cờ đen trắng. Ánh mắt chất phác, nụ cười tin tưởng hoặc sự trầm tư của nhân vật, giọng nói miền Nam truyền cảm với khẩu hình khớp tự nhiên: Lan (bộ đàm): "Cảm biến báo khóa xung điện kích hoạt ở mốc 80 km/h!".
 00:07.0–00:10.0 | Emotional resonance & peaceful hold, 50mm — Nhịp phim lắng đọng, các thành viên trao nhau ánh nhìn động viên vững chắc. Camera dừng tĩnh ở góc máy điện ảnh chuẩn xác, giữ nguyên 0.5s ở khung hình cuối cùng để chuyển tiếp clip 2.
 
 [SOUND]

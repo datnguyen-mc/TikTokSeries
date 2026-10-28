@@ -205,3 +205,75 @@ Bạn ấn tượng nhất với chiến xa hay màn trình diễn của thành 
 
 Để lại bình luận bên dưới nhé! Ở nhà này: "Ra đường là chở người mình thương!" ❤️
 ```
+
+---
+
+## 🏎️ PHẦN C: ĐĂNG YOUTUBE TẬP 2 FULL (CẢNH 11 → CẢNH 15)
+> **File video:** `output_videos/biet-doi-gara_tap-11-den-15_FULL.mp4` (`05:00` · `1280×720` · `16:9 Widescreen`)
+
+### 1. Tiêu Đề YouTube Tập 2 (Chọn 1 trong 3)
+* **Lựa chọn 1 (Kịch tính, chuẩn SEO — Khuyên dùng):**
+  ```text
+  BIỆT ĐỘI GARA - TẬP 2 (Full 5 Phút): Cú Quay Đầu Tử Thần & Màn Gỡ Mạch Khóa Giây 03 | Phim Hành Động
+  ```
+* **Lựa chọn 2 (Đậm chất Fast & Furious):**
+  ```text
+  BIỆT ĐỘI GARA [Tập 2]: Bỏ Cúp Vô Địch Quay Đầu Cứu Anh Em & Sào Huyệt Bến Cảng Cũ (Full HD 16:9)
+  ```
+* **Lựa chọn 3 (Giật gân, khơi gợi tò mò):**
+  ```text
+  BIỆT ĐỘI GARA - Tập 2: Đếm Ngược 10 Giây Thót Tim & Bí Mật Tàu Hàng Của Sói Xám [Phim Hành Động AI]
+  ```
+
+### 2. Nội Dung Mô Tả (Description / Caption) Đăng YouTube Tập 2
+```text
+BIỆT ĐỘI GARA — TẬP 2: CÚ QUAY ĐẦU TỬ THẦN & MÀN GỠ MẠCH KHÓA GIÂY 03 (FULL HD 16:9)
+
+"Cúp vô địch để làm gì khi mất đi người nhà? Xe nát thì độ lại được, còn mạng sống anh em chỉ có một!"
+
+📌 TÓM TẮT NỘI DUNG TẬP 2 (PHÚT 00:00 – 05:00):
+Tiếp nối tình thế ngàn cân treo sợi tóc trên đường đua ngầm ngoại thành: Khi xe của Thắng "Gió" chỉ còn cách vạch đích 200m để chạm tay vào cúp vô địch, anh phát hiện xe của Tú mất phanh, sắp lao xuống vực taluy sâu thẳm. Không chút do dự, Thắng bẻ lái ngoạn mục 180 độ, kích hoạt Nitro Lõi Đỏ lao ngược chiều húc văng sườn xe ghìm Tú dừng lại ngay sát mép vực 20cm!
+Nhưng hiểm họa chưa dừng lại ở đó: Cảm biến dưới gầm xe Tú kích hoạt đếm ngược 30 giây phát nổ mạch khóa điện kép. Giữa lúc căng thẳng tột độ, Khôi "Bit" và Hải "Búa" lao tới, Khôi dùng xung điện Lõi Bit đóng băng vi xử lý ở giây thứ 03 thần kỳ!
+Sau khi thoát chết, Tú đã khai ra toàn bộ bí mật động trời: Sói Xám đang tập kết hàng trăm xe bị cướp tại Cầu Cảng Cũ số 4, chuẩn bị đưa lên con tàu "Hắc Long" tẩu thoát vào đêm mai. Biệt Đội Gara lập tức lên kế hoạch cho trận đại chiến đột kích đêm bến cảng!
+
+⏱️ DANH SÁCH CHƯƠNG PHIM TẬP 2 (TIMESTAMPS / CHAPTERS):
+00:00 Cảnh 11: Khúc Cua Tử Thần (Bỏ Cúp Quay Đầu 180 Độ Cứu Tú)
+01:00 Cảnh 12: Cú Quay Đầu Sinh Tử (Mép Vực Sỏi & Chuông Báo Đếm Ngược)
+02:00 Cảnh 13: Gỡ Mạch Khóa 3 Giây (Khôi "Bit" Phóng Điện Lõi Giáp Thót Tim)
+03:00 Cảnh 14: Lời Khai Của Tú (Lộ Diện Sào Huyệt Kho Cảng & Tàu Hắc Long)
+04:00 Cảnh 15: Mắt Xích Ngầm (Gara Bảy Chuẩn Bị Chiến Dịch Đột Kích Đêm)
+
+🛡️ ĐỘI HÌNH CHIẾN BINH GARA BẢY:
+• Thắng "Gió" — Giáp Gió Đỏ Đen (Coupe Nitro Lõi Đỏ Hắc Phong)
+• Lan "Cáo" — Giáp Cáo Trắng Xanh Băng (Hatchback Trắng Drift Đường Trơn)
+• Hải "Búa" — Giáp Búa Cam Xám Thép (Bán Tải Bọc Thép Thiết Tê Giác)
+• Khôi "Bit" — Giáp Bit Vàng Đen (Chuyên Gia Điện Tử & Hack Xung Mạch)
+• Đội trưởng Minh — Giáp Khiên Bạc Xanh (Đặc Nhiệm Truy Kích & Tình Báo)
+• Tú — Tay đua trẻ lầm lỡ được cứu mạng
+
+⚠️ LƯU Ý & KHUYẾN CÁO AN TOÀN:
+- Toàn bộ nhân vật, tổ chức, bối cảnh và tình tiết trong phim là hư cấu nghệ thuật, được tạo dựng bằng công nghệ AI (Google Flow / Gemini Omni).
+- Các phân cảnh đua xe chỉ diễn ra trên đường đua thử nghiệm giả định. Tuyệt đối không bắt chước ngoài đời thực.
+
+👉 Đừng quên bấm LIKE, ĐĂNG KÝ KÊNH (SUBSCRIBE) và đón xem TẬP 3: Đột Kích Cầu Cảng Cũ & Đại Chiến Container!
+
+#bietdoigara #phimhanhdong #fastandfurious #sieuanhhung #phimvietnam #phimai #racingmovie
+```
+
+### 3. Bình Luận Ghim (Pinned Comment) Cho Tập 2
+```text
+🔥 Khoảnh khắc Thắng "Gió" quay xe 180 độ bỏ qua cúp vô địch để cứu người nhà làm anh em nổi da gà nhất đúng không? Hay pha cắt mạch khóa ở giây 03 của Khôi "Bit"? Để lại cảm nghĩ bên dưới và Đăng Ký kênh hóng Tập 3: Đại Chiến Bến Cảng Cũ nhé! 🏎️⚡
+```
+
+### 4. Thẻ Từ Khóa (Tags) YouTube Tập 2
+```text
+biệt đội gara tap 2, biet doi gara tap 2, biet doi gara canh 11 den 15, phim hanh dong viet nam, phim dua xe, fast and furious viet nam, sieu anh hung viet nam, thang gio bo cup quay dau, go mach khoa 3 giay, khoi bit, hai bua, lan cao, phim ai, phim ngan ai 2026
+```
+
+### 5. Caption Ngắn Dành Cho TikTok / Facebook Reels / YouTube Shorts
+```text
+"Cúp vô địch để làm gì khi mất đi người nhà?!" 🏎️💥 
+Pha quay đầu xe 180 độ ở vận tốc 150km/h nghẹt thở của Thắng "Gió" để cứu mạng đứa em trước mép vực tử thần! 
+🎬 Xem trọn bộ Tập 2 BIỆT ĐỘI GARA trên kênh YouTube của tụi mình nhé!
+#bietdoigara #phimhanhdong #phimvietnam #sieuanhhung #xedo #drift #phimai
+```

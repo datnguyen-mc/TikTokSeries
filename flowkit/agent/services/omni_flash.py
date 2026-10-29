@@ -19,6 +19,7 @@ not an operation handle, so Omni jobs must not be fed to ``check_video_status``.
 
 from __future__ import annotations
 
+import asyncio
 import json
 from pathlib import Path
 
@@ -206,6 +207,7 @@ async def generate_omni_flash_text_video(
         "primary_media_id": media_id,
         "project_id": pid,
     }
+    client._remember_operation(workflow["name"], pid, prompt=prompt)
     return {
         "status": 200,
         "data": {
@@ -269,7 +271,7 @@ async def _submit_omni_frame_video(
             rpcid, freq, fb.CAPTCHA_VIDEO, timeout=120,
         )
         operation = fb.read_operation(payload)
-        client._remember_operation(operation.operation_id, pid)
+        client._remember_operation(operation.operation_id, pid, prompt=prompt)
     except Exception as exc:
         return {"status": 502, "error": f"{type(exc).__name__}: {exc}"}
     return _batch_operation_result(operation, pid, batch_model, duration_s, resolution)
@@ -357,7 +359,7 @@ async def generate_omni_flash_video(
             fb.RPC_GEN_VIDEO_REFERENCES, freq, fb.CAPTCHA_VIDEO, timeout=120,
         )
         operation = fb.read_operation(payload)
-        client._remember_operation(operation.operation_id, pid)
+        client._remember_operation(operation.operation_id, pid, prompt=prompt)
     except Exception as exc:
         return {"status": 502, "error": f"{type(exc).__name__}: {exc}"}
     batch_model = f"abra_r2v_{duration_s}s" + ("_360p" if resolution == "360p" else "")
@@ -382,6 +384,29 @@ async def _check_omni_batch_media(
         video = data.get("video") if isinstance(data, dict) else None
         url = video.get("fifeUrl") if isinstance(video, dict) else None
         if isinstance(url, str) and url.startswith("https://flow-content.google/video/"):
+            wf_name = workflow["name"]
+            wf_pid = workflow.get("project_id") or resolved_project_id
+            desired_title = client._operation_titles.get(wf_name)
+            if desired_title and wf_name not in client._operation_renamed:
+                client._operation_renamed.add(wf_name)
+                try:
+                    await client.rename_asset(
+                        asset_id=wf_name,
+                        display_name=desired_title,
+                        project_id=wf_pid,
+                        media_id=media_id,
+                    )
+                    asyncio.create_task(
+                        client._delayed_rename_asset(
+                            asset_id=wf_name,
+                            display_name=desired_title,
+                            project_id=wf_pid,
+                            media_id=media_id,
+                            delay_s=3.5,
+                        )
+                    )
+                except Exception:
+                    pass
             media = {
                 "media_id": media_id,
                 "url": url,

@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/flowkit/venv/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/flowkit",
+    "${workspaceFolder}/flowkit/runners"
+  ]
+}
+

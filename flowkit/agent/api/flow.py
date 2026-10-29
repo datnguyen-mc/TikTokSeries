@@ -159,6 +159,13 @@ class UpscaleImageRequest(BaseModel):
     quality: Literal["2k", "4k"] = "2k"
 
 
+class RenameAssetRequest(BaseModel):
+    display_name: str
+    asset_id: Optional[str] = None
+    media_id: Optional[str] = None
+    project_id: str = ""
+
+
 async def _resolve_direct_project(client, project_id: str) -> str:
     pid = str(project_id or "").strip()
     if pid:
@@ -473,6 +480,23 @@ async def refresh_project_urls(project_id: str):
     if result.get("error"):
         raise HTTPException(502, result["error"])
     return result
+
+
+@router.post("/rename-asset")
+async def rename_asset(body: RenameAssetRequest):
+    """Force-rename a completed video/image asset on Google Flow UI (RPC mYWVGd / pGCYOe)."""
+    client = get_flow_client()
+    if not client.connected:
+        raise HTTPException(503, "Extension not connected")
+    result = await client.rename_asset(
+        asset_id=body.asset_id,
+        display_name=body.display_name,
+        project_id=body.project_id or None,
+        media_id=body.media_id,
+    )
+    if result.get("error"):
+        raise HTTPException(_safe_status_code(result.get("status"), 502), result["error"])
+    return result.get("data", result)
 
 
 @router.get("/media/{media_id}")

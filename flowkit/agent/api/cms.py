@@ -1,6 +1,5 @@
 """CMS API — Authentication, Multi-Channel Studio, Video Generation Runner, Auto Episode Merger & Persistent Logs."""
 import asyncio
-import glob
 import hashlib
 import json
 import logging
@@ -11,7 +10,7 @@ import sys
 from datetime import datetime, timezone
 from typing import Optional
 
-from fastapi import APIRouter, Header, HTTPException, Query, Request
+from fastapi import APIRouter, Header, HTTPException, Query
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
@@ -27,7 +26,10 @@ RUNNERS_DIR = os.path.join(FLOWKIT_DIR, "runners")
 if RUNNERS_DIR not in sys.path:
     sys.path.insert(0, RUNNERS_DIR)
 
-from cms_integration import find_episode_clip_mp4s, merge_episode_clips  # noqa: E402
+try:
+    from runners.cms_integration import merge_episode_clips, probe_video_duration
+except ImportError:
+    from cms_integration import merge_episode_clips, probe_video_duration  # type: ignore[no-redef]
 
 # In-memory registry of active runner subprocesses per channel_slug
 ACTIVE_JOBS: dict[str, dict] = {}
@@ -252,6 +254,51 @@ async def ensure_cms_seeded():
     if "ep_prefix" not in cols:
         await db.execute("ALTER TABLE cms_channel ADD COLUMN ep_prefix TEXT NOT NULL DEFAULT 'tap'")
         await db.commit()
+
+    await db.executescript(
+        """
+        CREATE TABLE IF NOT EXISTS cms_episode (
+            id                TEXT PRIMARY KEY,
+            channel_slug      TEXT NOT NULL,
+            project_id        TEXT,
+            episode_num       INTEGER NOT NULL,
+            folder_name       TEXT NOT NULL,
+            label             TEXT,
+            total_clips       INTEGER NOT NULL DEFAULT 0,
+            rendered_clips    INTEGER NOT NULL DEFAULT 0,
+            is_complete       INTEGER NOT NULL DEFAULT 0,
+            merged_local_path TEXT,
+            merged_r2_key     TEXT,
+            merged_r2_url     TEXT,
+            merged_size_mb    REAL,
+            duration_s        REAL,
+            updated_at        TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+        );
+        CREATE INDEX IF NOT EXISTS idx_cms_episode_channel ON cms_episode(channel_slug, episode_num);
+
+        CREATE TABLE IF NOT EXISTS cms_clip (
+            id                TEXT PRIMARY KEY,
+            channel_slug      TEXT NOT NULL,
+            project_id        TEXT,
+            episode_num       INTEGER NOT NULL,
+            folder_name       TEXT NOT NULL,
+            clip_num          INTEGER NOT NULL,
+            prompt            TEXT,
+            status            TEXT NOT NULL DEFAULT 'PENDING',
+            local_path        TEXT,
+            r2_key            TEXT,
+            r2_url            TEXT,
+            frame_local_path  TEXT,
+            frame_r2_key      TEXT,
+            frame_r2_url      TEXT,
+            size_mb           REAL,
+            duration_s        REAL,
+            media_id          TEXT,
+            updated_at        TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+        );
+        CREATE INDEX IF NOT EXISTS idx_cms_clip_channel_ep ON cms_clip(channel_slug, episode_num, clip_num);
+        """
+    )
 
     # 1. Seed default admin user (admin / admin123)
     cur = await db.execute("SELECT id FROM cms_user WHERE username = ?", ("admin",))
@@ -510,99 +557,158 @@ def _find_clip_frame_file(series_abs_dir: str, ep_num: int, clip_num: int) -> Op
 
 
 def _find_merged_episode_file(series_abs_dir: str, channel_slug: str, ep_num: int, ep_folder_name: str) -> Optional[str]:
-    full_name = f"{channel_slug}_tap-{ep_num:02d}_FULL.mp4"
-    candidates = [
-        os.path.join(series_abs_dir, "output_videos", ep_folder_name, full_name),
-        os.path.join(series_abs_dir, "output_videos", "full_episodes", full_name),
-        os.path.join(series_abs_dir, "output_videos", f"tap-{ep_num:02d}", full_name),
-        os.path.join(series_abs_dir, "output_videos", f"canh-{ep_num:02d}", full_name),
+    full_names = [
+        f"{channel_slug}_tap-{ep_num:02d}_FULL.mp4",
+        f"{channel_slug}_canh-{ep_num:02d}_FULL.mp4",
+        f"{channel_slug}_tap-{ep_num}_FULL.mp4",
     ]
-    for c in candidates:
-        if os.path.isfile(c) and os.path.getsize(c) > 0:
-            return c
+    for full_name in full_names:
+        candidates = [
+            os.path.join(series_abs_dir, "output_videos", ep_folder_name, full_name),
+            os.path.join(series_abs_dir, "output_videos", "full_episodes", full_name),
+            os.path.join(series_abs_dir, "output_videos", f"tap-{ep_num:02d}", full_name),
+            os.path.join(series_abs_dir, "output_videos", f"canh-{ep_num:02d}", full_name),
+            os.path.join(series_abs_dir, "output_videos", full_name),
+        ]
+        for c in candidates:
+            if os.path.isfile(c) and os.path.getsize(c) > 0:
+                return c
     return None
 
 
-def _scan_channel_episodes(channel_row: dict, include_prompts: bool = False) -> list[dict]:
+def _scan_channel_episodes(
+    channel_row: dict,
+    include_prompts: bool = False,
+    db_episodes_map: Optional[dict[int, dict]] = None,
+    db_clips_map: Optional[dict[tuple[int, int], dict]] = None,
+) -> list[dict]:
     series_abs_dir = os.path.join(WORKSPACE_DIR, channel_row["series_dir"])
     ep_prefix = channel_row.get("ep_prefix") or "tap"
     slug = channel_row["slug"]
-    if not os.path.isdir(series_abs_dir):
-        return []
+    ep_map = db_episodes_map or {}
+    clip_map = db_clips_map or {}
 
     ep_dirs: dict[int, str] = {}
-    for entry in sorted(os.listdir(series_abs_dir)):
-        full_p = os.path.join(series_abs_dir, entry)
-        if not os.path.isdir(full_p):
-            continue
-        ep_num = _extract_ep_number(entry, ep_prefix)
-        if ep_num is not None:
-            # Prefer more descriptive folder name if duplicate number exists
-            if ep_num not in ep_dirs or len(entry) > len(os.path.basename(ep_dirs[ep_num])):
-                ep_dirs[ep_num] = full_p
+    if os.path.isdir(series_abs_dir):
+        for entry in sorted(os.listdir(series_abs_dir)):
+            full_p = os.path.join(series_abs_dir, entry)
+            if not os.path.isdir(full_p):
+                continue
+            ep_num = _extract_ep_number(entry, ep_prefix)
+            if ep_num is not None:
+                if ep_num not in ep_dirs or len(entry) > len(os.path.basename(ep_dirs[ep_num])):
+                    ep_dirs[ep_num] = full_p
 
+    # Tổng số tập dựa trực tiếp vào các folder tập thực tế trên ổ cứng (nếu thư mục series tồn tại)
+    all_ep_nums = sorted(ep_dirs.keys()) if ep_dirs else sorted(ep_map.keys())
     episodes = []
-    for ep_num in sorted(ep_dirs.keys()):
-        ep_dir = ep_dirs[ep_num]
-        ep_folder_name = os.path.basename(ep_dir)
-        clip_files = []
-        for fname in os.listdir(ep_dir):
-            m = re.match(r"^clip-(\d+)\.md$", fname)
-            if m:
-                clip_files.append((int(m.group(1)), os.path.join(ep_dir, fname)))
-        clip_files.sort(key=lambda x: x[0])
+    for ep_num in all_ep_nums:
+        db_ep = ep_map.get(ep_num) or {}
+        ep_dir = ep_dirs.get(ep_num)
+        ep_folder_name = os.path.basename(ep_dir) if ep_dir else (db_ep.get("folder_name") or f"{ep_prefix}-{ep_num:02d}")
+        clip_files: dict[int, str] = {}
+        if ep_dir and os.path.isdir(ep_dir):
+            for fname in os.listdir(ep_dir):
+                m = re.match(r"^clip-(\d+)\.md$", fname)
+                if m:
+                    clip_files[int(m.group(1))] = os.path.join(ep_dir, fname)
+
+        db_clip_nums = {c_num for (e_n, c_num) in clip_map.keys() if e_n == ep_num}
+        all_clip_nums = sorted(set(clip_files.keys()) | db_clip_nums)
 
         clips_data = []
         rendered_count = 0
-        for c_num, c_path in clip_files:
-            v_file = _find_clip_video_file(series_abs_dir, ep_num, ep_folder_name, c_num)
-            f_file = _find_clip_frame_file(series_abs_dir, ep_num, c_num)
-            if v_file:
+        r2_synced_clips = 0
+        for c_num in all_clip_nums:
+            c_path = clip_files.get(c_num)
+            db_clip = clip_map.get((ep_num, c_num)) or {}
+            v_file = _find_clip_video_file(series_abs_dir, ep_num, ep_folder_name, c_num) if os.path.isdir(series_abs_dir) else None
+            f_file = _find_clip_frame_file(series_abs_dir, ep_num, c_num) if os.path.isdir(series_abs_dir) else None
+            r2_url = db_clip.get("r2_url")
+            r2_key = db_clip.get("r2_key")
+            frame_r2_url = db_clip.get("frame_r2_url")
+            if r2_url:
+                r2_synced_clips += 1
+
+            is_done = bool(v_file or r2_url or db_clip.get("status") == "COMPLETED" or db_ep.get("is_complete"))
+            if is_done:
                 rendered_count += 1
+
             prompt_text = ""
-            if include_prompts and os.path.isfile(c_path):
+            if c_path and os.path.isfile(c_path):
                 try:
                     with open(c_path, "r", encoding="utf-8") as f:
-                        prompt_text = f.read()
+                        prompt_text = f.read() if include_prompts else f.read(240)
                 except Exception:
                     prompt_text = ""
-            elif os.path.isfile(c_path):
-                try:
-                    with open(c_path, "r", encoding="utf-8") as f:
-                        prompt_text = f.read(240)
-                except Exception:
-                    prompt_text = ""
+            if not prompt_text and db_clip.get("prompt"):
+                prompt_text = db_clip["prompt"] if include_prompts else db_clip["prompt"][:240]
+
+            local_media_url = _media_url_for_path(v_file)
+            local_frame_url = _media_url_for_path(f_file)
+            size_mb = round(os.path.getsize(v_file) / (1024 * 1024), 2) if v_file else db_clip.get("size_mb")
 
             clips_data.append(
                 {
                     "clip_num": c_num,
-                    "file_name": os.path.basename(c_path),
-                    "file_path": c_path,
+                    "file_name": os.path.basename(c_path) if c_path else f"clip-{c_num}.md",
+                    "file_path": c_path or "",
                     "prompt": prompt_text,
-                    "status": "COMPLETED" if v_file else "PENDING",
-                    "video_url": _media_url_for_path(v_file),
-                    "video_size_mb": round(os.path.getsize(v_file) / (1024 * 1024), 2) if v_file else None,
-                    "frame_url": _media_url_for_path(f_file),
+                    "status": "COMPLETED" if is_done else "PENDING",
+                    "video_url": local_media_url or r2_url,
+                    "r2_url": r2_url,
+                    "r2_key": r2_key,
+                    "video_size_mb": size_mb,
+                    "frame_url": local_frame_url or frame_r2_url,
+                    "frame_r2_url": frame_r2_url,
                 }
             )
 
-        merged_file = _find_merged_episode_file(series_abs_dir, slug, ep_num, ep_folder_name)
+        merged_file = _find_merged_episode_file(series_abs_dir, slug, ep_num, ep_folder_name) if os.path.isdir(series_abs_dir) else None
+        merged_local_url = _media_url_for_path(merged_file)
+        merged_r2_url = db_ep.get("merged_r2_url")
+        merged_r2_key = db_ep.get("merged_r2_key")
+        merged_size = round(os.path.getsize(merged_file) / (1024 * 1024), 2) if merged_file else db_ep.get("merged_size_mb")
+
         episodes.append(
             {
                 "episode_num": ep_num,
                 "folder_name": ep_folder_name,
-                "label": f"{'Cảnh' if ep_prefix == 'canh' else 'Tập'} {ep_num:02d}",
-                "total_clips": len(clips_data),
-                "rendered_clips": rendered_count,
-                "is_complete": len(clips_data) > 0 and rendered_count == len(clips_data),
-                "merged_video_url": _media_url_for_path(merged_file),
-                "merged_video_path": merged_file,
-                "merged_size_mb": round(os.path.getsize(merged_file) / (1024 * 1024), 2) if merged_file else None,
+                "label": db_ep.get("label") or f"{'Cảnh' if ep_prefix == 'canh' else 'Tập'} {ep_num:02d}",
+                "total_clips": len(clips_data) if len(clips_data) > 0 else int(db_ep.get("total_clips") or 0),
+                "rendered_clips": rendered_count if len(clips_data) > 0 else int(db_ep.get("rendered_clips") or 0),
+                "r2_synced_clips": r2_synced_clips,
+                "is_complete": bool(db_ep.get("is_complete")) or (len(clips_data) > 0 and rendered_count == len(clips_data)),
+                "merged_video_url": merged_local_url or merged_r2_url,
+                "merged_r2_url": merged_r2_url,
+                "merged_r2_key": merged_r2_key,
+                "merged_video_path": merged_file or db_ep.get("merged_local_path"),
+                "merged_size_mb": merged_size,
                 "clips": clips_data,
             }
         )
 
     return episodes
+
+
+async def _load_channel_db_maps(db, slug: str) -> tuple[dict[int, dict], dict[tuple[int, int], dict]]:
+    ep_map: dict[int, dict] = {}
+    clip_map: dict[tuple[int, int], dict] = {}
+    try:
+        ep_cur = await db.execute("SELECT * FROM cms_episode WHERE channel_slug = ?", (slug,))
+        for r in await ep_cur.fetchall():
+            d = dict(r)
+            ep_map[int(d["episode_num"])] = d
+    except Exception:
+        pass
+    try:
+        cl_cur = await db.execute("SELECT * FROM cms_clip WHERE channel_slug = ?", (slug,))
+        for r in await cl_cur.fetchall():
+            d = dict(r)
+            clip_map[(int(d["episode_num"]), int(d["clip_num"]))] = d
+    except Exception:
+        pass
+    return ep_map, clip_map
 
 
 def _load_locked_character_ids(channel_row: dict) -> list[dict]:
@@ -644,11 +750,14 @@ async def list_cms_channels():
     result = []
     for row in rows:
         slug = row["slug"]
-        episodes = _scan_channel_episodes(row, include_prompts=False)
+        ep_map, clip_map = await _load_channel_db_maps(db, slug)
+        episodes = _scan_channel_episodes(row, include_prompts=False, db_episodes_map=ep_map, db_clips_map=clip_map)
         total_eps = len(episodes)
         total_clips = sum(ep["total_clips"] for ep in episodes)
         rendered_clips = sum(ep["rendered_clips"] for ep in episodes)
-        merged_eps = sum(1 for ep in episodes if ep.get("merged_video_url"))
+        r2_clips = sum(ep.get("r2_synced_clips", 0) for ep in episodes)
+        merged_eps = sum(1 for ep in episodes if ep.get("merged_video_url") or ep.get("is_complete"))
+        r2_merged_eps = sum(1 for ep in episodes if ep.get("merged_r2_url"))
         job = ACTIVE_JOBS.get(slug)
 
         log_cur = await db.execute(
@@ -670,9 +779,12 @@ async def list_cms_channels():
                 "characters": _load_locked_character_ids(row),
                 "stats": {
                     "total_episodes": total_eps,
+                    "completed_episodes": merged_eps,
                     "total_clips": total_clips,
                     "rendered_clips": rendered_clips,
+                    "r2_synced_clips": r2_clips,
                     "merged_episodes": merged_eps,
+                    "r2_merged_episodes": r2_merged_eps,
                 },
                 "active_job": (
                     {
@@ -701,7 +813,8 @@ async def get_cms_channel_detail(slug: str):
     if not row:
         raise HTTPException(status_code=404, detail=f"Không tìm thấy kênh '{slug}'")
     row_dict = dict(row)
-    episodes = _scan_channel_episodes(row_dict, include_prompts=True)
+    ep_map, clip_map = await _load_channel_db_maps(db, slug)
+    episodes = _scan_channel_episodes(row_dict, include_prompts=True, db_episodes_map=ep_map, db_clips_map=clip_map)
     job = ACTIVE_JOBS.get(slug)
     return {
         "channel": {
@@ -975,13 +1088,39 @@ async def create_cms_episode(slug: str, body: CreateEpisodeRequest):
         )
 
     created_clips = []
+    now = _now_iso()
+    ep_id = f"{slug}:ep:{body.episode_num}"
+    await db.execute(
+        """INSERT OR REPLACE INTO cms_episode
+           (id, channel_slug, project_id, episode_num, folder_name, label, total_clips, rendered_clips, is_complete, updated_at)
+           VALUES (?, ?, ?, ?, ?, ?, ?, 0, 0, ?)""",
+        (
+            ep_id,
+            slug,
+            row_dict["project_id"],
+            body.episode_num,
+            folder_name,
+            f"{'Cảnh' if ep_prefix == 'canh' else 'Tập'} {body.episode_num:02d}",
+            total_clips,
+            now,
+        ),
+    )
+
     for c_idx in range(1, total_clips + 1):
         c_path = os.path.join(ep_dir, f"clip-{c_idx}.md")
+        content = prompts_to_write[c_idx - 1]
         if body.overwrite or not os.path.exists(c_path):
-            content = prompts_to_write[c_idx - 1]
             with open(c_path, "w", encoding="utf-8") as f:
                 f.write(content)
+        clip_id = f"{slug}:ep:{body.episode_num}:clip:{c_idx}"
+        await db.execute(
+            """INSERT OR REPLACE INTO cms_clip
+               (id, channel_slug, project_id, episode_num, folder_name, clip_num, prompt, status, updated_at)
+               VALUES (?, ?, ?, ?, ?, ?, ?, 'PENDING', ?)""",
+            (clip_id, slug, row_dict["project_id"], body.episode_num, folder_name, c_idx, content, now),
+        )
         created_clips.append(c_idx)
+    await db.commit()
 
     await record_cms_log(
         slug,
@@ -1027,6 +1166,24 @@ async def save_cms_clip_prompt(slug: str, ep_num: int, clip_num: int, body: Save
     clip_path = os.path.join(target_ep_dir, f"clip-{clip_num}.md")
     with open(clip_path, "w", encoding="utf-8") as f:
         f.write(body.prompt)
+
+    ep_folder_name = os.path.basename(target_ep_dir)
+    clip_id = f"{slug}:ep:{ep_num}:clip:{clip_num}"
+    existing_cur = await db.execute("SELECT * FROM cms_clip WHERE id = ?", (clip_id,))
+    existing_clip = await existing_cur.fetchone()
+    if existing_clip:
+        await db.execute(
+            "UPDATE cms_clip SET prompt = ?, updated_at = ? WHERE id = ?",
+            (body.prompt, _now_iso(), clip_id),
+        )
+    else:
+        await db.execute(
+            """INSERT INTO cms_clip
+               (id, channel_slug, project_id, episode_num, folder_name, clip_num, prompt, status, updated_at)
+               VALUES (?, ?, ?, ?, ?, ?, ?, 'PENDING', ?)""",
+            (clip_id, slug, row_dict["project_id"], ep_num, ep_folder_name, clip_num, body.prompt, _now_iso()),
+        )
+    await db.commit()
 
     await record_cms_log(
         slug,
@@ -1399,3 +1556,621 @@ async def clear_cms_logs(channel_slug: Optional[str] = None):
         await db.execute("DELETE FROM cms_log")
     await db.commit()
     return {"ok": True}
+
+
+# ─── Cloudflare R2 Storage & D1 SQL Synchronization Endpoints ────────
+
+
+class CloudConfigUpdateRequest(BaseModel):
+    db_backend: Optional[str] = None
+    cf_account_id: Optional[str] = None
+    cf_api_token: Optional[str] = None
+    cf_d1_database_id: Optional[str] = None
+    r2_auto_upload: Optional[bool] = None
+    r2_account_id: Optional[str] = None
+    r2_access_key_id: Optional[str] = None
+    r2_secret_access_key: Optional[str] = None
+    r2_bucket_name: Optional[str] = None
+    r2_public_url: Optional[str] = None
+    r2_endpoint_url: Optional[str] = None
+    r2_key_prefix: Optional[str] = None
+
+
+class SyncRecordRequest(BaseModel):
+    kind: str  # "clip" | "episode"
+    channel_slug: str
+    project_id: Optional[str] = None
+    episode_num: int
+    folder_name: Optional[str] = None
+    clip_num: Optional[int] = None
+    label: Optional[str] = None
+    prompt: Optional[str] = None
+    status: str = "COMPLETED"
+    local_path: Optional[str] = None
+    r2_key: Optional[str] = None
+    r2_url: Optional[str] = None
+    frame_local_path: Optional[str] = None
+    frame_r2_key: Optional[str] = None
+    frame_r2_url: Optional[str] = None
+    total_clips: int = 0
+    rendered_clips: int = 0
+    is_complete: int = 1
+    merged_local_path: Optional[str] = None
+    merged_r2_key: Optional[str] = None
+    merged_r2_url: Optional[str] = None
+    merged_size_mb: Optional[float] = None
+    size_mb: Optional[float] = None
+    duration_s: Optional[float] = None
+    media_id: Optional[str] = None
+
+
+class SyncR2BatchRequest(BaseModel):
+    channel_slug: Optional[str] = None
+    episode_num: Optional[int] = None
+    force: bool = False
+
+
+async def _populate_all_channels_into_db(db) -> dict:
+    """Scan all 6 series channels on disk and upsert episodes & clips (prompts + video paths) into cms_episode & cms_clip."""
+    await ensure_cms_seeded()
+    raw_db = getattr(db, "_sqlite", db)
+    cur = await raw_db.execute("SELECT * FROM cms_channel ORDER BY rowid ASC")
+    channels = [dict(r) for r in await cur.fetchall()]
+    now = _now_iso()
+    ep_upserted = 0
+    clip_upserted = 0
+
+    for ch in channels:
+        slug = ch["slug"]
+        pid = ch["project_id"]
+        ep_map, clip_map = await _load_channel_db_maps(raw_db, slug)
+        episodes = _scan_channel_episodes(ch, include_prompts=True, db_episodes_map=ep_map, db_clips_map=clip_map)
+        for ep in episodes:
+            ep_num = ep["episode_num"]
+            ep_id = f"{slug}:ep:{ep_num}"
+            old_ep = ep_map.get(ep_num) or {}
+            await raw_db.execute(
+                """INSERT OR REPLACE INTO cms_episode
+                   (id, channel_slug, project_id, episode_num, folder_name, label,
+                    total_clips, rendered_clips, is_complete, merged_local_path,
+                    merged_r2_key, merged_r2_url, merged_size_mb, duration_s, updated_at)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                (
+                    ep_id,
+                    slug,
+                    pid,
+                    ep_num,
+                    ep["folder_name"],
+                    ep["label"],
+                    ep["total_clips"],
+                    ep["rendered_clips"],
+                    1 if ep["is_complete"] else 0,
+                    ep.get("merged_video_path") or old_ep.get("merged_local_path"),
+                    ep.get("merged_r2_key") or old_ep.get("merged_r2_key"),
+                    ep.get("merged_r2_url") or old_ep.get("merged_r2_url"),
+                    ep.get("merged_size_mb") or old_ep.get("merged_size_mb"),
+                    old_ep.get("duration_s"),
+                    now,
+                ),
+            )
+            ep_upserted += 1
+
+            for cl in ep.get("clips", []):
+                c_num = cl["clip_num"]
+                clip_id = f"{slug}:ep:{ep_num}:clip:{c_num}"
+                old_cl = clip_map.get((ep_num, c_num)) or {}
+                series_abs_dir = os.path.join(WORKSPACE_DIR, ch["series_dir"])
+                v_file = _find_clip_video_file(series_abs_dir, ep_num, ep["folder_name"], c_num)
+                f_file = _find_clip_frame_file(series_abs_dir, ep_num, c_num)
+                await raw_db.execute(
+                    """INSERT OR REPLACE INTO cms_clip
+                       (id, channel_slug, project_id, episode_num, folder_name, clip_num,
+                        prompt, status, local_path, r2_key, r2_url,
+                        frame_local_path, frame_r2_key, frame_r2_url,
+                        size_mb, duration_s, media_id, updated_at)
+                       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                    (
+                        clip_id,
+                        slug,
+                        pid,
+                        ep_num,
+                        ep["folder_name"],
+                        c_num,
+                        cl.get("prompt") or old_cl.get("prompt") or "",
+                        cl.get("status") or "PENDING",
+                        v_file or old_cl.get("local_path"),
+                        cl.get("r2_key") or old_cl.get("r2_key"),
+                        cl.get("r2_url") or old_cl.get("r2_url"),
+                        f_file or old_cl.get("frame_local_path"),
+                        old_cl.get("frame_r2_key"),
+                        cl.get("frame_r2_url") or old_cl.get("frame_r2_url"),
+                        cl.get("video_size_mb") or old_cl.get("size_mb"),
+                        old_cl.get("duration_s"),
+                        old_cl.get("media_id"),
+                        now,
+                    ),
+                )
+                clip_upserted += 1
+
+    await raw_db.commit()
+    return {"episodes_indexed": ep_upserted, "clips_indexed": clip_upserted}
+
+
+@router.get("/cloud/status")
+async def get_cms_cloud_status(live: bool = False):
+    """Kiểm tra trạng thái kết nối Cloudflare D1 SQL và Cloudflare R2 Storage."""
+    from agent.config import get_cloud_config
+    from agent.db.d1_client import is_d1_configured, test_d1_connection
+    from agent.services.r2_storage import is_r2_configured, test_r2_connection
+
+    await ensure_cms_seeded()
+    db = await get_db()
+    cfg = get_cloud_config()
+
+    ep_cur = await db.execute("SELECT COUNT(*) as total, SUM(CASE WHEN merged_r2_url IS NOT NULL AND merged_r2_url != '' THEN 1 ELSE 0 END) as r2_count FROM cms_episode")
+    ep_row = dict(await ep_cur.fetchone() or {})
+    cl_cur = await db.execute("SELECT COUNT(*) as total, SUM(CASE WHEN r2_url IS NOT NULL AND r2_url != '' THEN 1 ELSE 0 END) as r2_count FROM cms_clip")
+    cl_row = dict(await cl_cur.fetchone() or {})
+
+    d1_status = {"configured": is_d1_configured(cfg), "database_id": cfg.get("cf_d1_database_id"), "ok": is_d1_configured(cfg)}
+    r2_status = {"configured": is_r2_configured(cfg), "bucket": cfg.get("r2_bucket_name"), "ok": is_r2_configured(cfg)}
+
+    if live:
+        if is_d1_configured(cfg):
+            d1_status = await test_d1_connection(cfg)
+        if is_r2_configured(cfg):
+            r2_status = await asyncio.to_thread(test_r2_connection, cfg)
+
+    masked_cfg = {
+        "db_backend": cfg.get("db_backend", "d1"),
+        "cf_account_id": cfg.get("cf_account_id", ""),
+        "cf_api_token_set": bool(cfg.get("cf_api_token")),
+        "cf_d1_database_id": cfg.get("cf_d1_database_id", ""),
+        "r2_auto_upload": cfg.get("r2_auto_upload", True),
+        "r2_account_id": cfg.get("r2_account_id", ""),
+        "r2_access_key_id": cfg.get("r2_access_key_id", ""),
+        "r2_secret_key_set": bool(cfg.get("r2_secret_access_key")),
+        "r2_bucket_name": cfg.get("r2_bucket_name", "tiktok-series"),
+        "r2_public_url": cfg.get("r2_public_url", ""),
+        "r2_endpoint_url": cfg.get("r2_endpoint_url", ""),
+        "r2_key_prefix": cfg.get("r2_key_prefix", "series"),
+    }
+
+    return {
+        "ok": True,
+        "config": masked_cfg,
+        "d1": d1_status,
+        "r2": r2_status,
+        "stats": {
+            "indexed_episodes": ep_row.get("total") or 0,
+            "r2_merged_episodes": ep_row.get("r2_count") or 0,
+            "indexed_clips": cl_row.get("total") or 0,
+            "r2_clips": cl_row.get("r2_count") or 0,
+        },
+    }
+
+
+@router.post("/cloud/config")
+async def update_cms_cloud_config(body: CloudConfigUpdateRequest):
+    """Lưu cấu hình Cloudflare D1 SQL & R2 Storage vào flowkit/.env và kích hoạt ngay."""
+    from agent.config import update_env_file, get_cloud_config
+    from agent.db.d1_client import is_d1_configured, test_d1_connection, init_d1_schema
+    from agent.db.schema import SCHEMA
+    from agent.services.r2_storage import is_r2_configured, test_r2_connection
+
+    updates: dict[str, str] = {}
+    if body.db_backend is not None:
+        updates["DB_BACKEND"] = body.db_backend.strip().lower()
+    if body.cf_account_id is not None:
+        updates["CF_ACCOUNT_ID"] = body.cf_account_id.strip()
+    if body.cf_api_token is not None and body.cf_api_token.strip():
+        updates["CF_API_TOKEN"] = body.cf_api_token.strip()
+    if body.cf_d1_database_id is not None:
+        updates["CF_D1_DATABASE_ID"] = body.cf_d1_database_id.strip()
+    if body.r2_auto_upload is not None:
+        updates["R2_AUTO_UPLOAD"] = "1" if body.r2_auto_upload else "0"
+    if body.r2_account_id is not None:
+        updates["R2_ACCOUNT_ID"] = body.r2_account_id.strip()
+    if body.r2_access_key_id is not None:
+        updates["R2_ACCESS_KEY_ID"] = body.r2_access_key_id.strip()
+    if body.r2_secret_access_key is not None and body.r2_secret_access_key.strip():
+        updates["R2_SECRET_ACCESS_KEY"] = body.r2_secret_access_key.strip()
+    if body.r2_bucket_name is not None:
+        updates["R2_BUCKET_NAME"] = body.r2_bucket_name.strip() or "tiktok-series"
+    if body.r2_public_url is not None:
+        updates["R2_PUBLIC_URL"] = body.r2_public_url.strip().rstrip("/")
+    if body.r2_endpoint_url is not None:
+        updates["R2_ENDPOINT_URL"] = body.r2_endpoint_url.strip().rstrip("/")
+    if body.r2_key_prefix is not None:
+        updates["R2_KEY_PREFIX"] = body.r2_key_prefix.strip().strip("/")
+
+    if updates:
+        update_env_file(updates)
+
+    cfg = get_cloud_config()
+    d1_test = {"configured": False}
+    r2_test = {"configured": False}
+
+    if is_d1_configured(cfg):
+        await init_d1_schema(SCHEMA)
+        d1_test = await test_d1_connection(cfg)
+    if is_r2_configured(cfg):
+        r2_test = await asyncio.to_thread(test_r2_connection, cfg)
+
+    await record_cms_log(
+        "system",
+        "SUCCESS",
+        "CLOUD",
+        f"Đã lưu cấu hình Cloudflare D1 SQL & R2 Storage (D1={'OK' if d1_test.get('ok') else 'Chờ cấu hình'}, R2={'OK' if r2_test.get('ok') else 'Chờ cấu hình'}).",
+    )
+    return {"ok": True, "d1": d1_test, "r2": r2_test}
+
+
+class MarkEpisodeStatusRequest(BaseModel):
+    status: str = "COMPLETED"  # "COMPLETED" or "PENDING"
+    up_to: bool = False  # If True, apply to all episodes <= ep_num
+
+
+@router.post("/channels/{slug}/episodes/{ep_num}/mark-status")
+async def mark_cms_episode_status(slug: str, ep_num: int, body: MarkEpisodeStatusRequest):
+    """Đánh dấu hoàn thành (COMPLETED) hoặc đặt lại (PENDING) cho 1 tập (hoặc từ tập 1 -> ep_num) và đồng bộ D1 SQL."""
+    await ensure_cms_seeded()
+    db = await get_db()
+    now = _now_iso()
+    target_status = "COMPLETED" if body.status.upper() == "COMPLETED" else "PENDING"
+    is_done_int = 1 if target_status == "COMPLETED" else 0
+
+    if body.up_to:
+        await db.execute(
+            """UPDATE cms_episode
+               SET rendered_clips = CASE WHEN ? = 1 THEN total_clips ELSE 0 END,
+                   is_complete = ?,
+                   updated_at = ?
+               WHERE channel_slug = ? AND episode_num <= ?""",
+            (is_done_int, is_done_int, now, slug, ep_num),
+        )
+        await db.execute(
+            """UPDATE cms_clip
+               SET status = ?,
+                   updated_at = ?
+               WHERE channel_slug = ? AND episode_num <= ?""",
+            (target_status, now, slug, ep_num),
+        )
+    else:
+        await db.execute(
+            """UPDATE cms_episode
+               SET rendered_clips = CASE WHEN ? = 1 THEN total_clips ELSE 0 END,
+                   is_complete = ?,
+                   updated_at = ?
+               WHERE channel_slug = ? AND episode_num = ?""",
+            (is_done_int, is_done_int, now, slug, ep_num),
+        )
+        await db.execute(
+            """UPDATE cms_clip
+               SET status = ?,
+                   updated_at = ?
+               WHERE channel_slug = ? AND episode_num = ?""",
+            (target_status, now, slug, ep_num),
+        )
+
+    await db.commit()
+    msg = (
+        f"✅ Đã đánh dấu HOÀN THÀNH từ Tập 01 → Tập {ep_num:02d} (đồng bộ D1 SQL đa máy)!"
+        if (body.up_to and is_done_int)
+        else f"✅ Đã đánh dấu HOÀN THÀNH Tập {ep_num:02d} (đồng bộ D1 SQL đa máy)!"
+        if is_done_int
+        else f"🔄 Đã đặt lại trạng thái CHỜ RENDER cho Tập {ep_num:02d}!"
+    )
+    await record_cms_log(slug, "SUCCESS" if is_done_int else "INFO", "STATUS_SYNC", msg, episode=ep_num)
+    return {"ok": True, "channel_slug": slug, "episode_num": ep_num, "status": target_status, "up_to": body.up_to, "message": msg}
+
+
+@router.post("/cloud/sync-record")
+async def sync_cms_cloud_record(body: SyncRecordRequest):
+    """Lưu thông tin clip / tập hoàn chỉnh (cùng link R2) từ Runner vào D1 SQL + SQLite."""
+    await ensure_cms_seeded()
+    db = await get_db()
+    now = _now_iso()
+    slug = body.channel_slug
+    ep_num = body.episode_num
+    folder = body.folder_name or f"tap-{ep_num:02d}"
+
+    if body.kind == "clip" and body.clip_num is not None:
+        clip_id = f"{slug}:ep:{ep_num}:clip:{body.clip_num}"
+        cur = await db.execute("SELECT prompt FROM cms_clip WHERE id = ?", (clip_id,))
+        existing = await cur.fetchone()
+        prompt_val = body.prompt if body.prompt is not None else (existing["prompt"] if existing else "")
+
+        await db.execute(
+            """INSERT OR REPLACE INTO cms_clip
+               (id, channel_slug, project_id, episode_num, folder_name, clip_num,
+                prompt, status, local_path, r2_key, r2_url,
+                frame_local_path, frame_r2_key, frame_r2_url,
+                size_mb, duration_s, media_id, updated_at)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            (
+                clip_id,
+                slug,
+                body.project_id,
+                ep_num,
+                folder,
+                body.clip_num,
+                prompt_val,
+                body.status or "COMPLETED",
+                body.local_path,
+                body.r2_key,
+                body.r2_url,
+                body.frame_local_path,
+                body.frame_r2_key,
+                body.frame_r2_url,
+                body.size_mb,
+                body.duration_s,
+                body.media_id,
+                now,
+            ),
+        )
+        # Tự động tính lại số clip đã xong của tập để đánh dấu hoàn thành tập khi đủ clip
+        cnt_cur = await db.execute(
+            """SELECT COUNT(*) as total_c,
+                      SUM(CASE WHEN status = 'COMPLETED' THEN 1 ELSE 0 END) as done_c
+               FROM cms_clip
+               WHERE channel_slug = ? AND episode_num = ?""",
+            (slug, ep_num),
+        )
+        cnt_row = await cnt_cur.fetchone()
+        if cnt_row:
+            total_c = int(cnt_row["total_c"] or 0)
+            done_c = int(cnt_row["done_c"] or 0)
+            if total_c > 0:
+                is_ep_done = 1 if done_c >= total_c else 0
+                await db.execute(
+                    """UPDATE cms_episode
+                       SET rendered_clips = ?,
+                           is_complete = CASE WHEN is_complete = 1 THEN 1 ELSE ? END,
+                           updated_at = ?
+                       WHERE channel_slug = ? AND episode_num = ?""",
+                    (done_c, is_ep_done, now, slug, ep_num),
+                )
+        await db.commit()
+        await event_bus.emit(
+            "cms_clip_synced",
+            {
+                "channel_slug": slug,
+                "episode_num": ep_num,
+                "clip_num": body.clip_num,
+                "r2_url": body.r2_url,
+                "r2_key": body.r2_key,
+                "size_mb": body.size_mb,
+            },
+        )
+        return {"ok": True, "id": clip_id, "r2_url": body.r2_url}
+
+    ep_id = f"{slug}:ep:{ep_num}"
+    await db.execute(
+        """INSERT OR REPLACE INTO cms_episode
+           (id, channel_slug, project_id, episode_num, folder_name, label,
+            total_clips, rendered_clips, is_complete, merged_local_path,
+            merged_r2_key, merged_r2_url, merged_size_mb, duration_s, updated_at)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+        (
+            ep_id,
+            slug,
+            body.project_id,
+            ep_num,
+            folder,
+            body.label or f"Tập {ep_num:02d}",
+            body.total_clips,
+            body.rendered_clips,
+            body.is_complete,
+            body.merged_local_path,
+            body.merged_r2_key,
+            body.merged_r2_url,
+            body.merged_size_mb or body.size_mb,
+            body.duration_s,
+            now,
+        ),
+    )
+    if body.is_complete:
+        await db.execute(
+            """UPDATE cms_clip
+               SET status = 'COMPLETED',
+                   updated_at = ?
+               WHERE channel_slug = ? AND episode_num = ?""",
+            (now, slug, ep_num),
+        )
+    await db.commit()
+    await event_bus.emit(
+        "cms_episode_synced",
+        {
+            "channel_slug": slug,
+            "episode_num": ep_num,
+            "merged_r2_url": body.merged_r2_url,
+            "merged_r2_key": body.merged_r2_key,
+            "size_mb": body.merged_size_mb or body.size_mb,
+        },
+    )
+    return {"ok": True, "id": ep_id, "merged_r2_url": body.merged_r2_url}
+
+
+@router.post("/cloud/sync-d1")
+async def sync_all_cms_data_to_d1(direction: str = "push"):
+    """
+    Quét toàn bộ dữ liệu 6 kênh (prompts, episodes, clips, characters, projects, logs)
+    và đồng bộ 100% lên Cloudflare D1 SQL (hoặc pull từ D1 về máy).
+    """
+    from agent.db.d1_client import is_d1_configured, sync_sqlite_to_d1, sync_d1_to_sqlite
+    from agent.db.schema import SCHEMA
+
+    await ensure_cms_seeded()
+    db = await get_db()
+    indexed = await _populate_all_channels_into_db(db)
+
+    if not is_d1_configured():
+        return {
+            "ok": False,
+            "indexed_locally": indexed,
+            "error": "Đã lập chỉ mục toàn bộ dữ liệu cục bộ vào bảng cms_episode & cms_clip, nhưng bạn chưa điền CF_ACCOUNT_ID / CF_D1_DATABASE_ID / CF_API_TOKEN để đẩy lên Cloudflare D1 SQL.",
+        }
+
+    if direction == "pull":
+        res = await sync_d1_to_sqlite(db, SCHEMA)
+        await record_cms_log(
+            "system",
+            "SUCCESS" if res.get("ok") else "WARN",
+            "D1_SYNC",
+            f"Đã kéo {res.get('total_rows_pulled', 0)} bản ghi từ Cloudflare D1 SQL về máy.",
+            details=res,
+        )
+        return {**res, "indexed_locally": indexed}
+
+    res = await sync_sqlite_to_d1(db, SCHEMA)
+    await record_cms_log(
+        "system",
+        "SUCCESS" if res.get("ok") else "WARN",
+        "D1_SYNC",
+        f"☁️ Đã đồng bộ {res.get('total_rows_synced', 0)} bản ghi từ tất cả các bảng lên Cloudflare D1 SQL!",
+        details=res,
+    )
+    return {**res, "indexed_locally": indexed}
+
+
+@router.post("/cloud/sync-r2")
+async def sync_videos_to_r2(body: SyncR2BatchRequest):
+    """
+    Tự động quét các video clip & tập FULL (.mp4) đã hoàn thành trên máy và upload đồng loạt lên Cloudflare R2 Storage,
+    sau đó cập nhật r2_url vào Cloudflare D1 SQL.
+    """
+    from agent.services.r2_storage import load_r2_config, is_r2_configured, build_r2_key, upload_file_to_r2
+
+    await ensure_cms_seeded()
+    db = await get_db()
+    await _populate_all_channels_into_db(db)
+
+    r2_cfg = load_r2_config()
+    if not is_r2_configured(r2_cfg):
+        raise HTTPException(
+            status_code=400,
+            detail="Chưa cấu hình Cloudflare R2 Storage (vui lòng nhập R2_ACCESS_KEY_ID + R2_SECRET_ACCESS_KEY hoặc CF_API_TOKEN).",
+        )
+
+    where_ep = []
+    params_ep: list = []
+    if body.channel_slug and body.channel_slug != "ALL":
+        where_ep.append("channel_slug = ?")
+        params_ep.append(body.channel_slug)
+    if body.episode_num is not None:
+        where_ep.append("episode_num = ?")
+        params_ep.append(body.episode_num)
+
+    where_sql = f"WHERE {' AND '.join(where_ep)}" if where_ep else ""
+
+    uploaded_clips = []
+    uploaded_episodes = []
+    errors = []
+    now = _now_iso()
+
+    # 1. Upload individual clips
+    cl_cur = await db.execute(f"SELECT * FROM cms_clip {where_sql} ORDER BY channel_slug, episode_num, clip_num", tuple(params_ep))
+    clips = [dict(r) for r in await cl_cur.fetchall()]
+    for cl in clips:
+        lpath = cl.get("local_path")
+        if not lpath or not os.path.isfile(lpath):
+            continue
+        if cl.get("r2_url") and not body.force:
+            continue
+
+        fname = os.path.basename(lpath)
+        obj_key = build_r2_key(cl["channel_slug"], "episodes", fname, subfolder=cl["folder_name"], cfg=r2_cfg)
+        up_res = await asyncio.to_thread(upload_file_to_r2, lpath, obj_key, "video/mp4", r2_cfg)
+        if up_res.get("ok"):
+            dur = cl.get("duration_s") or await asyncio.to_thread(probe_video_duration, lpath)
+            await db.execute(
+                """UPDATE cms_clip
+                   SET r2_key = ?, r2_url = ?, size_mb = ?, duration_s = ?, status = 'COMPLETED', updated_at = ?
+                   WHERE id = ?""",
+                (up_res["r2_key"], up_res["r2_url"], up_res["size_mb"], dur, now, cl["id"]),
+            )
+            uploaded_clips.append({"id": cl["id"], "r2_url": up_res["r2_url"], "size_mb": up_res["size_mb"]})
+        else:
+            errors.append(f"{fname}: {up_res.get('error')}")
+
+    # 2. Upload merged full episodes
+    ep_cur = await db.execute(f"SELECT * FROM cms_episode {where_sql} ORDER BY channel_slug, episode_num", tuple(params_ep))
+    episodes = [dict(r) for r in await ep_cur.fetchall()]
+    for ep in episodes:
+        mpath = ep.get("merged_local_path")
+        if not mpath or not os.path.isfile(mpath):
+            continue
+        if ep.get("merged_r2_url") and not body.force:
+            continue
+
+        fname = os.path.basename(mpath)
+        obj_key = build_r2_key(ep["channel_slug"], "full_episodes", fname, cfg=r2_cfg)
+        up_res = await asyncio.to_thread(upload_file_to_r2, mpath, obj_key, "video/mp4", r2_cfg)
+        if up_res.get("ok"):
+            dur = ep.get("duration_s") or await asyncio.to_thread(probe_video_duration, mpath)
+            await db.execute(
+                """UPDATE cms_episode
+                   SET merged_r2_key = ?, merged_r2_url = ?, merged_size_mb = ?, duration_s = ?, updated_at = ?
+                   WHERE id = ?""",
+                (up_res["r2_key"], up_res["r2_url"], up_res["size_mb"], dur, now, ep["id"]),
+            )
+            uploaded_episodes.append({"id": ep["id"], "r2_url": up_res["r2_url"], "size_mb": up_res["size_mb"]})
+        else:
+            errors.append(f"{fname}: {up_res.get('error')}")
+
+    # 3. Also check 10-minute full episodes in output_videos (e.g. biet-doi-gara_tap-01_FULL.mp4)
+    if not body.channel_slug or body.channel_slug in ("ALL", "biet-doi-gara"):
+        bdg_full = os.path.join(WORKSPACE_DIR, "biet-doi-gara", "output_videos", "biet-doi-gara_tap-01_FULL.mp4")
+        if os.path.isfile(bdg_full):
+            ep10_id = "biet-doi-gara:ep:101"
+            cur10 = await db.execute("SELECT merged_r2_url FROM cms_episode WHERE id = ?", (ep10_id,))
+            row10 = await cur10.fetchone()
+            if body.force or not (row10 and row10["merged_r2_url"]):
+                obj_key = build_r2_key("biet-doi-gara", "full_episodes", "biet-doi-gara_tap-01_FULL.mp4", cfg=r2_cfg)
+                up_res = await asyncio.to_thread(upload_file_to_r2, bdg_full, obj_key, "video/mp4", r2_cfg)
+                if up_res.get("ok"):
+                    dur = await asyncio.to_thread(probe_video_duration, bdg_full)
+                    await db.execute(
+                        """INSERT OR REPLACE INTO cms_episode
+                           (id, channel_slug, project_id, episode_num, folder_name, label,
+                            total_clips, rendered_clips, is_complete, merged_local_path,
+                            merged_r2_key, merged_r2_url, merged_size_mb, duration_s, updated_at)
+                           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                        (
+                            ep10_id,
+                            "biet-doi-gara",
+                            "30714c49-2878-439b-a46f-c52be6eee2fc",
+                            101,
+                            "tap-01-full-10p",
+                            "Tập 01 FULL (10 Phút - Cảnh 01..10)",
+                            60,
+                            60,
+                            1,
+                            bdg_full,
+                            up_res["r2_key"],
+                            up_res["r2_url"],
+                            up_res["size_mb"],
+                            dur,
+                            now,
+                        ),
+                    )
+                    uploaded_episodes.append({"id": ep10_id, "r2_url": up_res["r2_url"], "size_mb": up_res["size_mb"]})
+
+    await db.commit()
+    await record_cms_log(
+        body.channel_slug or "system",
+        "SUCCESS" if not errors else "WARN",
+        "R2_SYNC",
+        f"☁️ Đã đồng bộ lên Cloudflare R2: {len(uploaded_clips)} video clips & {len(uploaded_episodes)} tập FULL!",
+        details={"uploaded_clips": len(uploaded_clips), "uploaded_episodes": len(uploaded_episodes), "errors": errors[:5]},
+    )
+    return {
+        "ok": True,
+        "uploaded_clips_count": len(uploaded_clips),
+        "uploaded_episodes_count": len(uploaded_episodes),
+        "uploaded_clips": uploaded_clips,
+        "uploaded_episodes": uploaded_episodes,
+        "errors": errors[:10],
+    }
+

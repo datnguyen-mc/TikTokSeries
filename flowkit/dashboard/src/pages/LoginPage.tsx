@@ -2,7 +2,6 @@ import { useState, useEffect, type FormEvent } from 'react'
 import {
   Lock,
   User,
-  Film,
   ShieldCheck,
   AlertCircle,
   Sparkles,
@@ -99,9 +98,11 @@ export default function LoginPage({ onLoginSuccess }: LoginPageProps) {
           <div className="flex flex-col gap-6">
             {/* Brand Badge */}
             <div className="flex items-center gap-3">
-              <div className="w-11 h-11 rounded-2xl flex items-center justify-center shadow-lg studio-glow-btn">
-                <Film size={22} />
-              </div>
+              <img
+                src="/logo.png"
+                alt="FlowKit Studio"
+                className="w-12 h-12 rounded-2xl object-contain bg-white p-0.5 shadow-lg shrink-0"
+              />
               <div>
                 <div className="flex items-center gap-2">
                   <span className="text-base font-extrabold tracking-tight text-white">FLOWKIT STUDIO</span>

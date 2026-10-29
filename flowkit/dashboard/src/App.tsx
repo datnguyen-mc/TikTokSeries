@@ -116,9 +116,11 @@ function Sidebar({ user, onLogout }: SidebarProps) {
     <aside className="w-64 flex-shrink-0 flex flex-col border-r border-slate-800/80 bg-[#090d16] select-none">
       {/* Studio Brand Header */}
       <div className="px-5 py-4 flex items-center gap-3 border-b border-slate-800/80">
-        <div className="w-9 h-9 rounded-xl flex items-center justify-center text-sm font-black shadow-lg studio-glow-btn shrink-0">
-          <Film size={18} />
-        </div>
+        <img
+          src="/logo.png"
+          alt="FlowKit Studio"
+          className="w-10 h-10 rounded-xl object-contain bg-white p-0.5 shadow-lg shrink-0"
+        />
         <div className="flex flex-col min-w-0">
           <div className="flex items-center gap-1.5">
             <span className="text-xs font-extrabold tracking-wider text-white truncate">FLOWKIT STUDIO</span>

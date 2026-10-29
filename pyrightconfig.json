@@ -1,0 +1,25 @@
+{
+  "venvPath": "flowkit",
+  "venv": "venv",
+  "extraPaths": [
+    "flowkit",
+    "flowkit/runners"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "flowkit",
+      "extraPaths": [
+        "flowkit",
+        "flowkit/runners"
+      ]
+    },
+    {
+      "root": ".",
+      "extraPaths": [
+        "flowkit",
+        "flowkit/runners"
+      ]
+    }
+  ]
+}
+

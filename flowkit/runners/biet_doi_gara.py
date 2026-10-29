@@ -18,7 +18,16 @@ import requests
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from cms_integration import push_cms_log, merge_episode_clips, merge_multi_scenes_to_episode, wait_if_cooldown_error
+from cms_integration import (
+    push_cms_log,
+    merge_episode_clips,
+    merge_multi_scenes_to_episode,
+    wait_if_cooldown_error,
+    sync_clip_to_r2_and_d1,
+    rewrite_prompt_on_failure,
+    find_episode_clip_mp4s,
+    force_rename_clip_on_flow,
+)
 
 FLOWKIT_API = "http://127.0.0.1:8200"
 CHANNEL_SLUG = "biet-doi-gara"
@@ -303,7 +312,7 @@ def get_clip_reference_media_ids(prompt: str) -> list:
 # -------------------------------------------------------------
 # 1. ĐỒNG BỘ DỰ ÁN VỚI DASHBOARD UI (DATABASE SYNC)
 # -------------------------------------------------------------
-def sync_dashboard_database():
+def sync_dashboard_database(start_scene: int = 16, end_scene: int = 45):
     """Tự động tạo hoặc kiểm tra Project, Characters, Video, Scenes trong FlowKit DB."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
     log("🔄 Đang đồng bộ cơ sở dữ liệu với Dashboard UI...")
@@ -366,7 +375,7 @@ def sync_dashboard_database():
             existing_scenes = r_s.json() if r_s.status_code == 200 else []
 
             order = 0
-            for s in [3, 4, 5]:
+            for s in range(start_scene, end_scene + 1):
                 for c in range(1, 7):
                     key = f"canh_{s:02d}_clip_{c:02d}"
                     match = next((sc for sc in existing_scenes if sc.get("display_order") == order), None)
@@ -418,45 +427,7 @@ def update_dashboard_scene_status(scene_num: int, clip_num: int, video_url: str)
 # 2. BỘ TỰ ĐỘNG SỬA PROMPT KHI THẤT BẠI (PROMPT SANITIZER & RETRY)
 # -------------------------------------------------------------
 def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
-    p = prompt
-    ip_replacements = {
-        "superhero blockbuster": "photorealistic Vietnamese cinematic action film",
-        "superhero": "high-tech specialist",
-        "hollywood cinematography": "high-end cinema 24fps",
-        "Hollywood": "cinematic",
-        "marvel": "mechanic",
-        "power ranger": "elite team",
-        "alien technology": "advanced automotive engineering prototype",
-        "alien": "experimental",
-    }
-    for k, v in ip_replacements.items():
-        p = p.replace(k, v)
-        p = p.replace(k.title(), v.title())
-
-    violence_replacements = {
-        "ghim vào cổ tay": "nhẹ nhàng khóa quanh cổ tay thành vòng tay",
-        "ghim": "khóa nhẹ",
-        "đâm": "lướt tới",
-        "chém": "gạt đòn",
-        "tước vũ khí": "thu hồi thiết bị",
-        "tước": "thu hồi",
-        "đánh nhau dằn co": "dồn dập tranh chấp công nghệ",
-        "đánh nhau": "tranh chấp kỹ thuật",
-        "bắn": "phát xung sáng",
-        "vũ khí": "công cụ kỹ thuật",
-        "hạ gục": "hóa giải",
-        "chết": "bất ngờ",
-        "máu": "vệt dầu máy",
-    }
-    for k, v in violence_replacements.items():
-        p = p.replace(k, v)
-
-    if attempt >= 2:
-        p = p.replace("tranh chấp", "tương tác kỹ thuật")
-        p = p.replace("áp sát dồn dập", "chuyển động nhịp nhàng")
-        p = p.replace("gắt gao", "tập trung cao độ")
-
-    return p
+    return rewrite_prompt_on_failure(prompt, attempt, CHARACTER_SPECS, ASPECT_RATIO)
 
 
 def update_clip_file(scene_num: int, clip_num: int, new_prompt: str):
@@ -489,14 +460,25 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                     if chunk:
                         f.write(chunk)
             size_mb = os.path.getsize(target_path) / (1024 * 1024)
+            r2_sync = sync_clip_to_r2_and_d1(
+                channel_slug=CHANNEL_SLUG,
+                ep_num=scene_num,
+                clip_num=clip_num,
+                local_video_path=target_path,
+                ep_folder_name=f"canh-{scene_num:02d}",
+                project_id=PROJECT_ID,
+            )
+            box_rows = [
+                ("Tên File Mới", filename),
+                ("Đường Dẫn Lưu", target_path),
+                ("Dung Lượng", f"{size_mb:.2f} MB"),
+                ("Thời Gian Hoàn Tất", datetime.now().strftime("%Y-%m-%d %H:%M:%S")),
+            ]
+            if r2_sync.get("r2_url"):
+                box_rows.append(("Cloudflare R2 URL", r2_sync["r2_url"]))
             print_box(
                 "💾 CLIP HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
-                [
-                    ("Tên File Mới", filename),
-                    ("Đường Dẫn Lưu", target_path),
-                    ("Dung Lượng", f"{size_mb:.2f} MB"),
-                    ("Thời Gian Hoàn Tất", datetime.now().strftime("%Y-%m-%d %H:%M:%S")),
-                ]
+                box_rows,
             )
             return target_path
         else:
@@ -727,6 +709,11 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         if not video_url and primary_media_id:
                             video_url = fetch_media_video_url(primary_media_id)
                         if video_url:
+                            force_rename_clip_on_flow(
+                                FLOWKIT_API, PROJECT_ID, submit_res_data,
+                                f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]",
+                                media_id=primary_media_id, log_fn=log,
+                            )
                             return {"success": True, "video_url": video_url}
                     elif st in ["FAILED", "ERROR"]:
                         log(f"❌ Google Flow báo lỗi: {res_data}")
@@ -768,12 +755,22 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         if not video_url and target_mid:
                             video_url = fetch_media_video_url(target_mid)
                         if video_url:
+                            force_rename_clip_on_flow(
+                                FLOWKIT_API, PROJECT_ID, submit_res_data,
+                                f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]",
+                                media_id=target_mid, log_fn=log,
+                            )
                             return {"success": True, "video_url": video_url}
 
             if primary_media_id and elapsed >= 30:
                 direct_url = fetch_media_video_url(primary_media_id)
                 if direct_url:
                     log(f"🎉 Phát hiện video sẵn sàng qua Media API sau {elapsed}s!")
+                    force_rename_clip_on_flow(
+                        FLOWKIT_API, PROJECT_ID, submit_res_data,
+                        f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]",
+                        media_id=primary_media_id, log_fn=log,
+                    )
                     return {"success": True, "video_url": direct_url}
 
             if elapsed - last_logged_time >= 12:
@@ -792,12 +789,12 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 # -------------------------------------------------------------
 # 5. CHU TRÌNH ĐIỀU PHỐI TỔNG THỂ
 # -------------------------------------------------------------
-def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 3):
+def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 6):
     current_prompt = initial_prompt
 
     for attempt in range(1, max_retries + 1):
         if attempt > 1:
-            log(f"🔄 Đang thử lại lần {attempt}/{max_retries} sau khi làm sạch prompt...")
+            log(f"🔄 [KHÔNG BỎ SÓT CLIP] Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries}) với prompt đã viết lại...")
 
         try:
             res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
@@ -810,7 +807,7 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                 if poll_res["success"] and poll_res.get("video_url"):
                     return poll_res
                 else:
-                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt} ({poll_res.get('error')}).")
+                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt} ({poll_res.get('error')}). Đổi prompt ngay lập tức!")
             else:
                 log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {res.text}")
                 if wait_if_cooldown_error(res.text, FLOWKIT_API, log):
@@ -822,24 +819,21 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                         poll_res = poll_generation(inner, scene_num, clip_num)
                         if poll_res["success"] and poll_res.get("video_url"):
                             return poll_res
-                        continue
         except Exception as e:
             log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
 
         if attempt < max_retries:
-            log(f"🔧 [Tự động sửa] Đang khử từ khóa nhạy cảm / bạo lực lần {attempt}...")
+            log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - CẤP ĐỘ {attempt}] Đang viết lại prompt an toàn cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
             current_prompt = sanitize_prompt(current_prompt, attempt)
             update_clip_file(scene_num, clip_num, current_prompt)
-            if attempt == 2 and start_image_media_id:
-                log("🔄 Chuyển sang chế độ khóa trực tiếp nhân vật gốc (Ingredients R2V) cho lần thử lại...")
-                start_image_media_id = None
-            log("⏳ Nghỉ 8 giây trước khi thử lại...")
-            time.sleep(8)
+            start_image_media_id = None
+            log("🔄 Khóa trực tiếp nhân vật gốc (Ingredients R2V) và chạy lại sau 5 giây...")
+            time.sleep(5)
 
     return {"success": False, "video_url": None}
 
 
-def run_pipeline(start_scene=3, end_scene=5):
+def run_pipeline(start_scene=16, end_scene=45):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
     print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT TỰ ĐỘNG THÔNG MINH — BIỆT ĐỘI GARA")
@@ -853,7 +847,7 @@ def run_pipeline(start_scene=3, end_scene=5):
         sys.exit(1)
 
     load_and_lock_project_characters()
-    sync_dashboard_database()
+    sync_dashboard_database(start_scene, end_scene)
 
     clip_indices = [ONLY_CLIP] if ONLY_CLIP > 0 else list(range(1, 7))
     total_clips = (end_scene - start_scene + 1) * len(clip_indices)
@@ -899,6 +893,23 @@ def run_pipeline(start_scene=3, end_scene=5):
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
 
+        # 🛡️ VÒNG LẶP VÉT CẠN: Đảm bảo 100% không bỏ sót bất kỳ clip nào của Cảnh trước khi ghép FULL
+        existing_nums = {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
+        missing_clips = [c_idx for c_idx in clip_indices if c_idx not in existing_nums and os.path.exists(os.path.join(scene_dir, f"clip-{c_idx}.md"))]
+        if missing_clips:
+            log(f"🛡️ [CAM KẾT KHÔNG BỎ SÓT] Phát hiện Cảnh {s:02d} còn thiếu {len(missing_clips)} clip ({missing_clips}). Đang đổi sang Ultra-Safe Prompt & render bù ngay!")
+            for mc in missing_clips:
+                CURRENT_CLIP_NUM = mc
+                fpath_m = os.path.join(scene_dir, f"clip-{mc}.md")
+                with open(fpath_m, "r", encoding="utf-8") as f:
+                    raw_p = f.read().strip()
+                ultra_safe_p = sanitize_prompt(raw_p, attempt=3)
+                update_clip_file(s, mc, ultra_safe_p)
+                rec_res = run_clip_with_auto_retry(scene_num=s, clip_num=mc, initial_prompt=ultra_safe_p, start_image_media_id=None, max_retries=4)
+                if rec_res["success"] and rec_res.get("video_url"):
+                    local_v = download_and_rename_video(rec_res["video_url"], s, mc)
+                    update_dashboard_scene_status(s, mc, local_v if local_v else rec_res["video_url"])
+
         CURRENT_CLIP_NUM = None
         merge_episode_clips(SERIES_DIR, CHANNEL_SLUG, s, f"canh-{s:02d}", project_id=PROJECT_ID, unit_label="Cảnh")
         if s % 10 == 0:
@@ -912,6 +923,6 @@ def run_pipeline(start_scene=3, end_scene=5):
 
 
 if __name__ == "__main__":
-    start = int(sys.argv[1]) if len(sys.argv) > 1 else 3
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 5
+    start = int(sys.argv[1]) if len(sys.argv) > 1 else 16
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 45
     run_pipeline(start, end)

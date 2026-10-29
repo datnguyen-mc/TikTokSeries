@@ -63,7 +63,11 @@ export default function ProjectDetailPage({ projectId, onBack }: Props) {
     setVideos(vids)
     setScenesByVideo(sbv)
     setRequests(reqs)
-    setPipelineVideoId(prev => prev && vids.some(v => v.id === prev) ? prev : (vids[0]?.id ?? ''))
+    setPipelineVideoId(prev => {
+      if (prev && vids.some(v => v.id === prev)) return prev
+      const activeVid = vids.find(v => v.status !== 'completed' && v.status !== 'done')
+      return activeVid?.id ?? vids[vids.length - 1]?.id ?? ''
+    })
     setLoading(false)
   }, [projectId])
 

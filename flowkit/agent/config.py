@@ -184,3 +184,96 @@ SUNO_CALLBACK_URL = os.environ.get("SUNO_CALLBACK_URL", f"http://{API_HOST}:{API
 SUNO_POLL_INTERVAL = int(os.environ.get("SUNO_POLL_INTERVAL", "5"))
 SUNO_POLL_TIMEOUT = int(os.environ.get("SUNO_POLL_TIMEOUT", "600"))
 
+# ─── Cloudflare D1 SQL & R2 Object Storage ───────────────────
+DB_BACKEND = os.environ.get("DB_BACKEND", "d1").strip().lower()
+CF_ACCOUNT_ID = os.environ.get("CF_ACCOUNT_ID", "").strip()
+CF_API_TOKEN = os.environ.get("CF_API_TOKEN", "").strip()
+CF_D1_DATABASE_ID = os.environ.get("CF_D1_DATABASE_ID", "").strip()
+
+R2_AUTO_UPLOAD = os.environ.get("R2_AUTO_UPLOAD", "1").strip() not in ("0", "false", "no")
+R2_ACCOUNT_ID = os.environ.get("R2_ACCOUNT_ID", "").strip() or CF_ACCOUNT_ID
+R2_ACCESS_KEY_ID = os.environ.get("R2_ACCESS_KEY_ID", "").strip()
+R2_SECRET_ACCESS_KEY = os.environ.get("R2_SECRET_ACCESS_KEY", "").strip()
+R2_BUCKET_NAME = os.environ.get("R2_BUCKET_NAME", "tiktok-series").strip()
+R2_PUBLIC_URL = os.environ.get("R2_PUBLIC_URL", "").strip().rstrip("/")
+R2_ENDPOINT_URL = os.environ.get("R2_ENDPOINT_URL", "").strip().rstrip("/")
+R2_KEY_PREFIX = os.environ.get("R2_KEY_PREFIX", "series").strip().strip("/")
+
+
+def get_cloud_config() -> dict:
+    """Read live Cloudflare D1 & R2 configuration from environment and .env."""
+    if _ENV_FILE.is_file():
+        for _line in _ENV_FILE.read_text(encoding="utf-8").splitlines():
+            _line = _line.strip()
+            if _line and not _line.startswith("#") and "=" in _line:
+                _k, _v = _line.split("=", 1)
+                _k = _k.strip()
+                _v = _v.strip().strip('"').strip("'")
+                if _k in (
+                    "DB_BACKEND",
+                    "CF_ACCOUNT_ID",
+                    "CF_API_TOKEN",
+                    "CF_D1_DATABASE_ID",
+                    "R2_AUTO_UPLOAD",
+                    "R2_ACCOUNT_ID",
+                    "R2_ACCESS_KEY_ID",
+                    "R2_SECRET_ACCESS_KEY",
+                    "R2_BUCKET_NAME",
+                    "R2_PUBLIC_URL",
+                    "R2_ENDPOINT_URL",
+                    "R2_KEY_PREFIX",
+                ):
+                    os.environ[_k] = _v
+
+    cf_acc = os.environ.get("CF_ACCOUNT_ID", "").strip()
+    r2_acc = os.environ.get("R2_ACCOUNT_ID", "").strip() or cf_acc
+    r2_endpoint = os.environ.get("R2_ENDPOINT_URL", "").strip().rstrip("/")
+    if not r2_endpoint and r2_acc:
+        r2_endpoint = f"https://{r2_acc}.r2.cloudflarestorage.com"
+
+    return {
+        "db_backend": os.environ.get("DB_BACKEND", "d1").strip().lower(),
+        "cf_account_id": cf_acc,
+        "cf_api_token": os.environ.get("CF_API_TOKEN", "").strip(),
+        "cf_d1_database_id": os.environ.get("CF_D1_DATABASE_ID", "").strip(),
+        "r2_auto_upload": os.environ.get("R2_AUTO_UPLOAD", "1").strip() not in ("0", "false", "no"),
+        "r2_account_id": r2_acc,
+        "r2_access_key_id": os.environ.get("R2_ACCESS_KEY_ID", "").strip(),
+        "r2_secret_access_key": os.environ.get("R2_SECRET_ACCESS_KEY", "").strip(),
+        "r2_bucket_name": os.environ.get("R2_BUCKET_NAME", "tiktok-series").strip() or "tiktok-series",
+        "r2_public_url": os.environ.get("R2_PUBLIC_URL", "").strip().rstrip("/"),
+        "r2_endpoint_url": r2_endpoint,
+        "r2_key_prefix": os.environ.get("R2_KEY_PREFIX", "series").strip().strip("/"),
+    }
+
+
+def update_env_file(updates: dict[str, str]) -> None:
+    """Persist key-value updates into flowkit/.env and os.environ."""
+    lines: list[str] = []
+    if _ENV_FILE.is_file():
+        lines = _ENV_FILE.read_text(encoding="utf-8").splitlines()
+
+    updated_keys: set[str] = set()
+    new_lines: list[str] = []
+    for line in lines:
+        stripped = line.strip()
+        if stripped and not stripped.startswith("#") and "=" in stripped:
+            k, _ = stripped.split("=", 1)
+            k = k.strip()
+            if k in updates:
+                val = str(updates[k]).strip()
+                new_lines.append(f"{k}={val}")
+                os.environ[k] = val
+                updated_keys.add(k)
+                continue
+        new_lines.append(line)
+
+    for k, v in updates.items():
+        if k not in updated_keys:
+            val = str(v).strip()
+            new_lines.append(f"{k}={val}")
+            os.environ[k] = val
+
+    _ENV_FILE.write_text("\n".join(new_lines) + "\n", encoding="utf-8")
+
+

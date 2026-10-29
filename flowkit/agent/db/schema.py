@@ -243,6 +243,49 @@ CREATE TABLE IF NOT EXISTS cms_log (
 
 CREATE INDEX IF NOT EXISTS idx_cms_log_channel ON cms_log(channel_slug, id DESC);
 CREATE INDEX IF NOT EXISTS idx_cms_log_created ON cms_log(id DESC);
+
+CREATE TABLE IF NOT EXISTS cms_episode (
+    id                TEXT PRIMARY KEY,
+    channel_slug      TEXT NOT NULL,
+    project_id        TEXT,
+    episode_num       INTEGER NOT NULL,
+    folder_name       TEXT NOT NULL,
+    label             TEXT,
+    total_clips       INTEGER NOT NULL DEFAULT 0,
+    rendered_clips    INTEGER NOT NULL DEFAULT 0,
+    is_complete       INTEGER NOT NULL DEFAULT 0,
+    merged_local_path TEXT,
+    merged_r2_key     TEXT,
+    merged_r2_url     TEXT,
+    merged_size_mb    REAL,
+    duration_s        REAL,
+    updated_at        TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+);
+
+CREATE INDEX IF NOT EXISTS idx_cms_episode_channel ON cms_episode(channel_slug, episode_num);
+
+CREATE TABLE IF NOT EXISTS cms_clip (
+    id                TEXT PRIMARY KEY,
+    channel_slug      TEXT NOT NULL,
+    project_id        TEXT,
+    episode_num       INTEGER NOT NULL,
+    folder_name       TEXT NOT NULL,
+    clip_num          INTEGER NOT NULL,
+    prompt            TEXT,
+    status            TEXT NOT NULL DEFAULT 'PENDING',
+    local_path        TEXT,
+    r2_key            TEXT,
+    r2_url            TEXT,
+    frame_local_path  TEXT,
+    frame_r2_key      TEXT,
+    frame_r2_url      TEXT,
+    size_mb           REAL,
+    duration_s        REAL,
+    media_id          TEXT,
+    updated_at        TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+);
+
+CREATE INDEX IF NOT EXISTS idx_cms_clip_channel_ep ON cms_clip(channel_slug, episode_num, clip_num);
 """
 
 
@@ -411,6 +454,10 @@ CREATE INDEX IF NOT EXISTS idx_request_scene ON request(scene_id);
         if "ep_prefix" not in cms_ch_cols:
             await db.execute("ALTER TABLE cms_channel ADD COLUMN ep_prefix TEXT NOT NULL DEFAULT 'tap'")
         await db.commit()
+        from agent.db.d1_client import is_d1_configured, init_d1_schema
+        if is_d1_configured():
+            d1_init = await init_d1_schema(SCHEMA)
+            logger.info("Cloudflare D1 SQL schema initialized: %s", d1_init)
     logger.info("Database initialized at %s", DB_PATH)
 
 
@@ -423,21 +470,14 @@ def _get_db_init_lock() -> asyncio.Lock:
     return _db_init_lock
 
 
-async def get_db() -> aiosqlite.Connection:
-    """Return the shared database connection, creating it if needed.
-
-    The first two callers used to race here: both saw None, both connected,
-    the second overwrote the global, and the first then ran its PRAGMAs on
-    the second's connection while a statement was open on it — failing with
-    "database table is locked" and leaking a connection (whose worker thread
-    keeps the interpreter alive). Connect under a lock, set up a local, and
-    publish it only once it is ready.
-    """
+async def get_db():
+    """Return the shared database connection (D1HybridConnection wrapping Cloudflare D1 SQL + local SQLite)."""
     global _db_connection
     if _db_connection is not None:
         return _db_connection
     async with _get_db_init_lock():
         if _db_connection is None:
+            from agent.db.d1_client import D1HybridConnection
             conn = await aiosqlite.connect(str(DB_PATH))
             conn.row_factory = aiosqlite.Row
             await conn.execute("PRAGMA journal_mode=WAL")
@@ -445,7 +485,7 @@ async def get_db() -> aiosqlite.Connection:
             # Force WAL checkpoint so this connection sees all committed writes
             # from previous processes (e.g. after hot-reload)
             await conn.execute("PRAGMA wal_checkpoint(PASSIVE)")
-            _db_connection = conn
+            _db_connection = D1HybridConnection(conn)
     return _db_connection
 
 

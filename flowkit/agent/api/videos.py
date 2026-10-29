@@ -214,6 +214,17 @@ async def _assemble_video(vid: str, orientation: Optional[str],
                 logger.warning("concat: trim to %ss failed, keeping full length", target)
 
         url = "file://" + str(final_path.resolve())
+        try:
+            from agent.services.r2_storage import load_r2_config, is_r2_configured, build_r2_key, upload_file_to_r2
+            r2_cfg = load_r2_config()
+            if r2_cfg.get("r2_auto_upload", True) and is_r2_configured(r2_cfg):
+                r2_key = build_r2_key(project_slug, "final", final_path.name, cfg=r2_cfg)
+                r2_res = await asyncio.to_thread(upload_file_to_r2, str(final_path), r2_key, "video/mp4", r2_cfg)
+                if r2_res.get("ok") and r2_res.get("r2_url"):
+                    url = r2_res["r2_url"]
+        except Exception as e:
+            logger.warning("R2 upload in _assemble_video skipped: %s", e)
+
         updates: dict = {f"{orientation.lower()}_url": url, "duration": duration}
         if target is not None:
             updates["target_duration_s"] = target
@@ -275,6 +286,17 @@ async def finalize_video(vid: str, body: FinalizeRequest):
 
     duration = await asyncio.to_thread(probe_duration, str(final_path))
     url = "file://" + str(final_path.resolve())
+    try:
+        from agent.services.r2_storage import load_r2_config, is_r2_configured, build_r2_key, upload_file_to_r2
+        r2_cfg = load_r2_config()
+        if r2_cfg.get("r2_auto_upload", True) and is_r2_configured(r2_cfg):
+            r2_key = build_r2_key("projects", "final", final_path.name, cfg=r2_cfg)
+            r2_res = await asyncio.to_thread(upload_file_to_r2, str(final_path), r2_key, "video/mp4", r2_cfg)
+            if r2_res.get("ok") and r2_res.get("r2_url"):
+                url = r2_res["r2_url"]
+                steps.append(f"uploaded to R2 ({r2_res.get('size_mb')} MB)")
+    except Exception as e:
+        logger.warning("R2 upload in finalize_video skipped: %s", e)
     orientation = (body.orientation or "").upper()
     updates: dict = {"status": "COMPLETED"}
     if duration is not None:

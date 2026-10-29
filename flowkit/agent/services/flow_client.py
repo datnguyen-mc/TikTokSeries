@@ -66,6 +66,8 @@ class FlowClient:
         self._operation_projects: dict[str, str] = {}
         self._operation_media: dict[str, str] = {}
         self._operation_polls: dict[str, int] = {}
+        self._operation_titles: dict[str, str] = {}
+        self._operation_renamed: set[str] = set()
         self._generation_slots = asyncio.Semaphore(FLOW_GENERATION_MAX_CONCURRENT)
         self._generation_rate_gate = asyncio.Lock()
         self._generation_last_submit_at = 0.0
@@ -696,7 +698,22 @@ class FlowClient:
         legacy = VIDEO_MODELS.get(tier, {}).get(gen_type, {}).get(aspect_ratio)
         return fb.resolve_video_model(legacy)
 
-    def _remember_operation(self, operation_id: str, project_id: str):
+    @staticmethod
+    def extract_clip_title_from_prompt(prompt: str | None) -> Optional[str]:
+        """Extract clip header tag (e.g. ``[CẢNH 16 - CLIP 01]``) from the first line of a prompt."""
+        if not prompt or not isinstance(prompt, str):
+            return None
+        first_line = prompt.strip().splitlines()[0].strip()
+        if first_line.startswith("[") and "]" in first_line:
+            tag = first_line[:first_line.find("]") + 1].strip()
+            # Keep only clip/scene/episode tags, not generic section headers like [FORMAT] or [STYLE]
+            upper_tag = tag.upper()
+            if any(k in upper_tag for k in ("CẢNH", "CANH", "TẬP", "TAP", "CLIP", "SCENE", "EP")):
+                return tag
+        return None
+
+    def _remember_operation(self, operation_id: str, project_id: str, prompt: str | None = None,
+                            title: str | None = None):
         """Which project an operation belongs to — the listing lookup needs it.
 
         A poll record usually carries the project id, but old operations decay
@@ -708,6 +725,11 @@ class FlowClient:
         if len(self._operation_projects) > 512:
             self._operation_projects.clear()
         self._operation_projects[operation_id] = project_id
+        resolved_title = title or self.extract_clip_title_from_prompt(prompt)
+        if resolved_title:
+            if len(self._operation_titles) > 512:
+                self._operation_titles.clear()
+            self._operation_titles[operation_id] = resolved_title
 
     # ─── High-Level Batch Methods ────────────────────────────────
 
@@ -923,7 +945,7 @@ class FlowClient:
         except Exception as e:
             return _batch_error(e)
 
-        self._remember_operation(operation.operation_id, pid)
+        self._remember_operation(operation.operation_id, pid, prompt=prompt)
         return {"status": 200, "data": {"operations": [_as_pending_operation(operation.operation_id)]}}
 
     async def generate_video_from_references(self, reference_media_ids: list[str],
@@ -1011,6 +1033,32 @@ class FlowClient:
             # The id landed but the clip is still being written; downloading
             # now would save the poster still instead of the video.
             return _as_pending_operation(operation_id, error=complaint, media_id=media_id)
+
+        # Force-rename the completed clip on Google Flow UI if a clip title tag was captured
+        desired_title = self._operation_titles.get(operation_id)
+        if desired_title and operation_id not in self._operation_renamed:
+            self._operation_renamed.add(operation_id)
+            pid = self._operation_projects.get(operation_id) or FLOW_PROJECT_ID
+            try:
+                await self.rename_asset(
+                    asset_id=operation_id,
+                    display_name=desired_title,
+                    project_id=pid,
+                    media_id=media_id,
+                )
+                # Schedule a follow-up rename 3.5s later in case Google Flow's
+                # post-completion AI auto-titler overwrites the title moments after CAE.
+                asyncio.create_task(
+                    self._delayed_rename_asset(
+                        asset_id=operation_id,
+                        display_name=desired_title,
+                        project_id=pid,
+                        media_id=media_id,
+                        delay_s=3.5,
+                    )
+                )
+            except Exception as e:
+                logger.warning("Auto-rename on completion failed for %s: %s", operation_id[:16], e)
 
         # The media id stays cached rather than being cleared here: a batch
         # with several operations re-polls the finished ones alongside the
@@ -1148,6 +1196,144 @@ class FlowClient:
         except Exception as e:
             return _batch_error(e)
         return {"status": 200, "data": {"media": {"name": media_id}}, "_mediaId": media_id}
+
+    async def _delayed_rename_asset(
+        self,
+        asset_id: str,
+        display_name: str,
+        project_id: Optional[str] = None,
+        media_id: Optional[str] = None,
+        delay_s: float = 3.5,
+    ) -> None:
+        """Re-apply asset rename after a short delay to override Flow's async AI auto-titler."""
+        try:
+            await asyncio.sleep(delay_s)
+            await self.rename_asset(
+                asset_id=asset_id,
+                display_name=display_name,
+                project_id=project_id,
+                media_id=media_id,
+            )
+        except Exception as e:
+            logger.debug("Delayed asset rename for %s skipped: %s", str(asset_id)[:16], e)
+
+    async def _resolve_asset_id_for_rename(
+        self,
+        project_id: str,
+        asset_id: Optional[str] = None,
+        media_id: Optional[str] = None,
+    ) -> Optional[str]:
+        """Resolve the top-level ``workflowId`` / ``assetId`` in ``Zzl0ze`` if needed."""
+        lookup_key = media_id or asset_id
+        if not lookup_key:
+            return None
+        try:
+            result = await self.batch_rpc(
+                fb.RPC_PROJECT_MEDIA,
+                fb.project_media_request(project_id),
+                match=lookup_key,
+                timeout=45,
+            )
+            raw = result.get("data") or ""
+            resolved = fb.find_asset_id_in_text(raw, lookup_key)
+            if resolved:
+                return resolved
+        except Exception as e:
+            logger.debug("Could not resolve asset_id via Zzl0ze for %s: %s", lookup_key[:16], e)
+        return asset_id
+
+    async def rename_asset(
+        self,
+        asset_id: Optional[str],
+        display_name: str,
+        project_id: Optional[str] = None,
+        media_id: Optional[str] = None,
+    ) -> dict:
+        """Force-rename a video/image asset on Google Flow UI (RPC ``mYWVGd`` / ``pGCYOe``).
+
+        Overwrites Google Flow's automatic English summary title with ``display_name``
+        (e.g. ``[CẢNH 16 - CLIP 01]``).
+        """
+        clean_name = " ".join(str(display_name or "").split())[:160]
+        if not clean_name:
+            return {"status": 400, "error": "display_name is required"}
+        try:
+            pid = self._batch_project_id(
+                project_id
+                or (self._operation_projects.get(asset_id) if asset_id else None)
+                or ""
+            )
+        except Exception as e:
+            return _batch_error(e)
+
+        target_id = asset_id
+        # If asset_id is missing or identical to media_id (e.g. text-to-video fallback),
+        # resolve the true workflowId from Zzl0ze first.
+        if not target_id or (media_id and target_id == media_id):
+            target_id = await self._resolve_asset_id_for_rename(pid, asset_id=asset_id, media_id=media_id)
+        if not target_id:
+            return {"status": 404, "error": "Could not determine asset_id to rename"}
+
+        # 1. Try single-asset update RPC (mYWVGd)
+        try:
+            freq = fb.rename_asset_request(target_id, pid, clean_name)
+            res = await self.batch_rpc(fb.RPC_UPDATE_ASSET, freq, timeout=30)
+            if not res.get("error"):
+                fb.first_payload(res.get("data") or "", fb.RPC_UPDATE_ASSET)
+                logger.info("Renamed Flow asset %s -> %r (via mYWVGd)", target_id[:16], clean_name)
+                return {
+                    "status": 200,
+                    "data": {
+                        "asset_id": target_id,
+                        "project_id": pid,
+                        "display_name": clean_name,
+                        "rpc": fb.RPC_UPDATE_ASSET,
+                    },
+                }
+        except Exception as first_err:
+            logger.debug("Direct mYWVGd rename on %s failed (%s), resolving via Zzl0ze...", target_id[:16], first_err)
+
+        # 2. Resolve true asset_id from Zzl0ze (in case operation_id != asset_id) and retry
+        resolved_id = await self._resolve_asset_id_for_rename(pid, asset_id=target_id, media_id=media_id)
+        if resolved_id and resolved_id != target_id:
+            target_id = resolved_id
+            try:
+                freq = fb.rename_asset_request(target_id, pid, clean_name)
+                res = await self.batch_rpc(fb.RPC_UPDATE_ASSET, freq, timeout=30)
+                if not res.get("error"):
+                    fb.first_payload(res.get("data") or "", fb.RPC_UPDATE_ASSET)
+                    logger.info("Renamed Flow asset %s -> %r (via resolved mYWVGd)", target_id[:16], clean_name)
+                    return {
+                        "status": 200,
+                        "data": {
+                            "asset_id": target_id,
+                            "project_id": pid,
+                            "display_name": clean_name,
+                            "rpc": fb.RPC_UPDATE_ASSET,
+                        },
+                    }
+            except Exception as second_err:
+                logger.debug("Resolved mYWVGd rename on %s failed: %s", target_id[:16], second_err)
+
+        # 3. Fallback to batch update RPC (pGCYOe)
+        try:
+            freq_batch = fb.batch_rename_asset_request(target_id, pid, clean_name)
+            res_batch = await self.batch_rpc(fb.RPC_BATCH_UPDATE_ASSETS, freq_batch, timeout=30)
+            if not res_batch.get("error"):
+                fb.first_payload(res_batch.get("data") or "", fb.RPC_BATCH_UPDATE_ASSETS)
+                logger.info("Renamed Flow asset %s -> %r (via pGCYOe)", target_id[:16], clean_name)
+                return {
+                    "status": 200,
+                    "data": {
+                        "asset_id": target_id,
+                        "project_id": pid,
+                        "display_name": clean_name,
+                        "rpc": fb.RPC_BATCH_UPDATE_ASSETS,
+                    },
+                }
+            return {"status": 502, "error": str(res_batch.get("error"))}
+        except Exception as exc:
+            return _batch_error(exc)
 
 # ─── Response shaping ────────────────────────────────────────
 #

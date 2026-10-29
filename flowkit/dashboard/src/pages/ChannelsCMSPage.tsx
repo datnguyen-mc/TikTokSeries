@@ -61,9 +61,12 @@ interface ChannelSummary {
   characters: CharacterSpec[]
   stats: {
     total_episodes: number
+    completed_episodes?: number
     total_clips: number
     rendered_clips: number
+    r2_synced_clips?: number
     merged_episodes: number
+    r2_merged_episodes?: number
   }
   active_job: ActiveJob | null
   latest_log: {
@@ -81,8 +84,11 @@ interface ClipItem {
   prompt: string
   status: 'COMPLETED' | 'PENDING'
   video_url: string | null
+  r2_url?: string | null
+  r2_key?: string | null
   video_size_mb: number | null
   frame_url: string | null
+  frame_r2_url?: string | null
 }
 
 interface EpisodeItem {
@@ -91,11 +97,54 @@ interface EpisodeItem {
   label: string
   total_clips: number
   rendered_clips: number
+  r2_synced_clips?: number
   is_complete: boolean
   merged_video_url: string | null
+  merged_r2_url?: string | null
+  merged_r2_key?: string | null
   merged_video_path: string | null
   merged_size_mb: number | null
   clips: ClipItem[]
+}
+
+interface CloudStatusResponse {
+  ok: boolean
+  config: {
+    db_backend: string
+    cf_account_id: string
+    cf_api_token_set: boolean
+    cf_d1_database_id: string
+    r2_auto_upload: boolean
+    r2_account_id: string
+    r2_access_key_id: string
+    r2_secret_key_set: boolean
+    r2_bucket_name: string
+    r2_public_url: string
+    r2_endpoint_url: string
+    r2_key_prefix: string
+  }
+  d1: {
+    configured: boolean
+    ok?: boolean
+    database_id?: string
+    table_count?: number
+    message?: string
+    error?: string
+  }
+  r2: {
+    configured: boolean
+    ok?: boolean
+    bucket?: string
+    public_url?: string
+    message?: string
+    error?: string
+  }
+  stats: {
+    indexed_episodes: number
+    r2_merged_episodes: number
+    indexed_clips: number
+    r2_clips: number
+  }
 }
 
 interface ChannelDetailResponse {
@@ -210,6 +259,134 @@ export default function ChannelsCMSPage() {
   const [channelLogs, setChannelLogs] = useState<CmsLogItem[]>([])
   const [terminalLines, setTerminalLines] = useState<string[]>([])
 
+  // Cloudflare R2 Storage & D1 SQL state
+  const [cloudStatus, setCloudStatus] = useState<CloudStatusResponse | null>(null)
+  const [showCloudModal, setShowCloudModal] = useState(false)
+  const [savingCloud, setSavingCloud] = useState(false)
+  const [syncingD1, setSyncingD1] = useState(false)
+  const [syncingR2, setSyncingR2] = useState(false)
+  const [cloudFeedback, setCloudFeedback] = useState<{ ok: boolean; text: string } | null>(null)
+  const [cfAccountId, setCfAccountId] = useState('')
+  const [cfApiToken, setCfApiToken] = useState('')
+  const [cfD1DbId, setCfD1DbId] = useState('')
+  const [r2AutoUpload, setR2AutoUpload] = useState(true)
+  const [r2AccessKeyId, setR2AccessKeyId] = useState('')
+  const [r2SecretKey, setR2SecretKey] = useState('')
+  const [r2BucketName, setR2BucketName] = useState('tiktok-series')
+  const [r2PublicUrl, setR2PublicUrl] = useState('')
+  const [r2EndpointUrl, setR2EndpointUrl] = useState('')
+
+  const loadCloudStatus = useCallback(async (live = false) => {
+    try {
+      const res = await fetchAPI<CloudStatusResponse>(`/api/cms/cloud/status?live=${live}`)
+      setCloudStatus(res)
+      setCfAccountId(res.config.cf_account_id || '')
+      setCfD1DbId(res.config.cf_d1_database_id || '')
+      setR2AutoUpload(res.config.r2_auto_upload ?? true)
+      setR2AccessKeyId(res.config.r2_access_key_id || '')
+      setR2BucketName(res.config.r2_bucket_name || 'tiktok-series')
+      setR2PublicUrl(res.config.r2_public_url || '')
+      setR2EndpointUrl(res.config.r2_endpoint_url || '')
+    } catch (e) {
+      console.error('Failed to load cloud status:', e)
+    }
+  }, [])
+
+  async function handleSaveCloudConfig() {
+    setSavingCloud(true)
+    setCloudFeedback(null)
+    try {
+      const res = await fetchAPI<{
+        ok: boolean
+        d1: { ok?: boolean; message?: string; error?: string }
+        r2: { ok?: boolean; message?: string; error?: string }
+      }>('/api/cms/cloud/config', {
+        method: 'POST',
+        body: JSON.stringify({
+          db_backend: 'd1',
+          cf_account_id: cfAccountId,
+          cf_api_token: cfApiToken || undefined,
+          cf_d1_database_id: cfD1DbId,
+          r2_auto_upload: r2AutoUpload,
+          r2_access_key_id: r2AccessKeyId,
+          r2_secret_access_key: r2SecretKey || undefined,
+          r2_bucket_name: r2BucketName,
+          r2_public_url: r2PublicUrl,
+          r2_endpoint_url: r2EndpointUrl,
+        }),
+      })
+      await loadCloudStatus(true)
+      const d1Text = res.d1?.ok ? 'D1 SQL: Đã kết nối' : res.d1?.error || 'D1 SQL: Chờ thông tin'
+      const r2Text = res.r2?.ok ? 'R2 Storage: Đã kết nối' : res.r2?.error || 'R2 Storage: Chờ thông tin'
+      setCloudFeedback({ ok: Boolean(res.d1?.ok || res.r2?.ok), text: `✅ Đã lưu cấu hình! (${d1Text} • ${r2Text})` })
+    } catch (err) {
+      setCloudFeedback({ ok: false, text: err instanceof Error ? err.message : 'Lỗi khi lưu cấu hình Cloud' })
+    } finally {
+      setSavingCloud(false)
+    }
+  }
+
+  async function handleSyncD1() {
+    setSyncingD1(true)
+    setCloudFeedback(null)
+    try {
+      const res = await fetchAPI<{
+        ok: boolean
+        total_rows_synced?: number
+        error?: string
+        indexed_locally?: { episodes_indexed: number; clips_indexed: number }
+      }>('/api/cms/cloud/sync-d1?direction=push', { method: 'POST' })
+      await loadCloudStatus(false)
+      if (res.ok) {
+        setCloudFeedback({
+          ok: true,
+          text: `🎉 Đã đồng bộ ${res.total_rows_synced || 0} bản ghi từ tất cả bảng sang Cloudflare D1 SQL!`,
+        })
+      } else {
+        setCloudFeedback({
+          ok: false,
+          text: res.error || 'Chưa thể đồng bộ lên Cloudflare D1 SQL.',
+        })
+      }
+    } catch (err) {
+      setCloudFeedback({ ok: false, text: err instanceof Error ? err.message : 'Lỗi đồng bộ D1 SQL' })
+    } finally {
+      setSyncingD1(false)
+    }
+  }
+
+  async function handleSyncR2(channelSlug?: string, epNum?: number) {
+    setSyncingR2(true)
+    setCloudFeedback(null)
+    try {
+      const res = await fetchAPI<{
+        ok: boolean
+        uploaded_clips_count: number
+        uploaded_episodes_count: number
+        errors?: string[]
+      }>('/api/cms/cloud/sync-r2', {
+        method: 'POST',
+        body: JSON.stringify({
+          channel_slug: channelSlug || 'ALL',
+          episode_num: epNum ?? null,
+          force: false,
+        }),
+      })
+      await loadCloudStatus(false)
+      await loadChannels()
+      if (routeSlug) await loadChannelDetail(routeSlug, selectedEpNum)
+      const msg = `☁️ Đã upload lên Cloudflare R2: ${res.uploaded_clips_count} video clips & ${res.uploaded_episodes_count} tập FULL!`
+      setCloudFeedback({ ok: true, text: msg })
+      setStatusBanner({ type: 'success', text: msg })
+    } catch (err) {
+      const errMsg = err instanceof Error ? err.message : 'Lỗi upload video lên R2 Storage'
+      setCloudFeedback({ ok: false, text: errMsg })
+      setStatusBanner({ type: 'error', text: errMsg })
+    } finally {
+      setSyncingR2(false)
+    }
+  }
+
   const loadChannels = useCallback(async () => {
     try {
       const res = await fetchAPI<{ channels: ChannelSummary[] }>('/api/cms/channels')
@@ -219,6 +396,58 @@ export default function ChannelsCMSPage() {
     } finally {
       setLoadingChannels(false)
     }
+  }, [])
+
+  const resolveCurrentOrLastEpisodeNum = useCallback((res: ChannelDetailResponse): number | null => {
+    if (!res.episodes || res.episodes.length === 0) return null
+    const eps = res.episodes
+
+    // 1. If a job is actively running on this channel, prioritize its active episode range
+    if (res.channel.active_job?.running && res.channel.active_job.start_ep) {
+      const startEp = res.channel.active_job.start_ep
+      const endEp = res.channel.active_job.end_ep ?? startEp
+      const runningInRange = eps.find(
+        e => e.episode_num >= startEp && e.episode_num <= endEp && !e.is_complete && e.rendered_clips > 0,
+      )
+      if (runningInRange) return runningInRange.episode_num
+      const firstIncompleteInRange = eps.find(
+        e => e.episode_num >= startEp && e.episode_num <= endEp && !e.is_complete,
+      )
+      if (firstIncompleteInRange) return firstIncompleteInRange.episode_num
+    }
+
+    // 2. Episode currently being rendered (has some rendered clips but not yet complete)
+    const inProgressEps = eps.filter(e => !e.is_complete && e.rendered_clips > 0)
+    if (inProgressEps.length > 0) {
+      return inProgressEps[inProgressEps.length - 1].episode_num
+    }
+
+    // 3. Immediate next episode after the highest completed episode
+    let lastCompletedIdx = -1
+    for (let i = eps.length - 1; i >= 0; i--) {
+      if (eps[i].is_complete) {
+        lastCompletedIdx = i
+        break
+      }
+    }
+    if (lastCompletedIdx >= 0) {
+      if (lastCompletedIdx + 1 < eps.length) {
+        return eps[lastCompletedIdx + 1].episode_num
+      }
+      return eps[eps.length - 1].episode_num
+    }
+
+    // 4. Fallback to the last episode in the series
+    return eps[eps.length - 1].episode_num
+  }, [])
+
+  const resolveCurrentOrLastClipNum = useCallback((ep: EpisodeItem | null | undefined): number => {
+    if (!ep || !ep.clips || ep.clips.length === 0) return 1
+    // If episode has some clips done, activate the first pending clip (current clip)
+    const firstPending = ep.clips.find(c => c.status !== 'COMPLETED')
+    if (firstPending) return firstPending.clip_num
+    // If all clips are completed, activate the last clip
+    return ep.clips[ep.clips.length - 1].clip_num
   }, [])
 
   const loadChannelDetail = useCallback(async (slug: string, preserveEp?: number | null) => {
@@ -231,14 +460,20 @@ export default function ChannelsCMSPage() {
       setEditCharacters(res.channel.characters.map(c => ({ ...c })))
 
       if (res.episodes.length > 0) {
+        const defaultEp = resolveCurrentOrLastEpisodeNum(res) ?? res.episodes[res.episodes.length - 1].episode_num
         const targetEp =
           preserveEp && res.episodes.some(e => e.episode_num === preserveEp)
             ? preserveEp
-            : res.episodes[res.episodes.length - 1].episode_num
-        setSelectedEpNum(targetEp)
-        setRangeStart(targetEp)
-        setRangeEnd(targetEp)
+            : defaultEp
+        const targetEpObj = res.episodes.find(e => e.episode_num === targetEp) ?? null
         const maxEp = Math.max(...res.episodes.map(e => e.episode_num))
+
+        setSelectedEpNum(targetEp)
+        if (!preserveEp) {
+          setSelectedClipNum(resolveCurrentOrLastClipNum(targetEpObj))
+        }
+        setRangeStart(targetEp)
+        setRangeEnd(maxEp)
         setNewEpNum(maxEp + 1)
       } else {
         setSelectedEpNum(null)
@@ -249,7 +484,7 @@ export default function ChannelsCMSPage() {
     } finally {
       setLoadingDetail(false)
     }
-  }, [])
+  }, [resolveCurrentOrLastEpisodeNum, resolveCurrentOrLastClipNum])
 
   const loadChannelLogs = useCallback(async (slug: string) => {
     try {
@@ -262,7 +497,8 @@ export default function ChannelsCMSPage() {
 
   useEffect(() => {
     loadChannels()
-  }, [loadChannels])
+    loadCloudStatus(false)
+  }, [loadChannels, loadCloudStatus])
 
   useEffect(() => {
     if (routeSlug) {
@@ -276,8 +512,21 @@ export default function ChannelsCMSPage() {
     }
   }, [routeSlug, loadChannelDetail, loadChannelLogs])
 
+  const activeOrLastEpNum = detail ? resolveCurrentOrLastEpisodeNum(detail) : null
   const currentEpisode = detail?.episodes.find(e => e.episode_num === selectedEpNum) ?? null
   const currentClip = currentEpisode?.clips.find(c => c.clip_num === selectedClipNum) ?? null
+
+  // Auto-scroll the Episode List sidebar to keep the active/selected episode visible
+  useEffect(() => {
+    if (!selectedEpNum || !detail) return
+    const timer = setTimeout(() => {
+      const el = document.getElementById(`cms-ep-card-${selectedEpNum}`)
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+      }
+    }, 80)
+    return () => clearTimeout(timer)
+  }, [routeSlug, detail?.channel.slug, selectedEpNum])
 
   useEffect(() => {
     if (currentClip) {
@@ -298,7 +547,10 @@ export default function ChannelsCMSPage() {
       if (routeSlug && logItem.channel_slug === routeSlug) {
         setChannelLogs(prev => [logItem, ...prev.filter(x => x.id !== logItem.id)].slice(0, 80))
       }
-      if (logItem.category === 'MERGE' || logItem.category === 'JOB' || logItem.level === 'SUCCESS') {
+      if (logItem.category === 'MERGE') {
+        loadChannels()
+        if (routeSlug) loadChannelDetail(routeSlug, null)
+      } else if (logItem.category === 'JOB' || logItem.level === 'SUCCESS') {
         loadChannels()
         if (routeSlug) loadChannelDetail(routeSlug, selectedEpNum)
       }
@@ -306,7 +558,10 @@ export default function ChannelsCMSPage() {
       if (routeSlug && evData.channel_slug === routeSlug && typeof evData.line === 'string') {
         setTerminalLines(prev => [...prev.slice(-150), evData.line as string])
       }
-    } else if (evType === 'cms_job_status' || evType === 'cms_episode_merged') {
+    } else if (evType === 'cms_episode_merged') {
+      loadChannels()
+      if (routeSlug) loadChannelDetail(routeSlug, null)
+    } else if (evType === 'cms_job_status') {
       loadChannels()
       if (routeSlug) loadChannelDetail(routeSlug, selectedEpNum)
     }
@@ -485,6 +740,30 @@ export default function ChannelsCMSPage() {
     }
   }
 
+  async function handleMarkEpisodeStatus(epNum: number, status: 'COMPLETED' | 'PENDING', upTo = false) {
+    if (!routeSlug) return
+    try {
+      const res = await fetchAPI<{ ok: boolean; message: string }>(
+        `/api/cms/channels/${routeSlug}/episodes/${epNum}/mark-status`,
+        {
+          method: 'POST',
+          body: JSON.stringify({ status, up_to: upTo }),
+        }
+      )
+      setStatusBanner({
+        type: status === 'COMPLETED' ? 'success' : 'info',
+        text: res.message,
+      })
+      await loadChannels()
+      await loadChannelDetail(routeSlug, epNum)
+    } catch (err) {
+      setStatusBanner({
+        type: 'error',
+        text: err instanceof Error ? err.message : 'Lỗi cập nhật trạng thái tập',
+      })
+    }
+  }
+
   async function handleMergeEpisodeNow(epNum: number) {
     if (!routeSlug) return
     setMergingEp(true)
@@ -584,8 +863,8 @@ export default function ChannelsCMSPage() {
                 Tổng Tập & Kịch Bản
               </span>
               <div className="flex items-baseline gap-2">
-                <span className="text-2xl font-extrabold text-white">{totalEpisodesAll}</span>
-                <span className="text-xs text-slate-400">tập phim</span>
+                <span className="text-2xl font-extrabold text-emerald-400">{totalMergedAll}</span>
+                <span className="text-xs text-slate-400">/ {totalEpisodesAll} tập (folder)</span>
               </div>
               <span className="text-[11px] text-cyan-400 font-medium">
                 Tổng cộng {totalClipsAll} phân cảnh (.txt)
@@ -682,13 +961,193 @@ export default function ChannelsCMSPage() {
               </div>
 
               <button
-                onClick={loadChannels}
+                onClick={() => {
+                  setShowCloudModal(v => !v)
+                  loadCloudStatus(true)
+                }}
+                className="px-3.5 py-2 rounded-xl bg-cyan-500/15 hover:bg-cyan-500/25 border border-cyan-500/40 text-xs font-semibold text-cyan-200 flex items-center gap-1.5 transition-colors cursor-pointer"
+              >
+                <Sparkles size={13} className="text-cyan-400" />
+                <span>
+                  ☁️ Cloudflare R2 & D1 SQL
+                  {cloudStatus?.d1?.configured || cloudStatus?.r2?.configured ? ' (Đã bật)' : ''}
+                </span>
+              </button>
+
+              <button
+                onClick={() => {
+                  loadChannels()
+                  loadCloudStatus(false)
+                }}
                 className="px-3.5 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs font-medium text-slate-200 flex items-center gap-1.5 transition-colors cursor-pointer"
               >
                 <RefreshCw size={13} /> Làm mới
               </button>
             </div>
           </div>
+
+          {/* Expandable Cloudflare R2 Storage & D1 SQL Configuration & One-Click Sync Panel */}
+          {showCloudModal && (
+            <div className="p-5 border-b border-slate-800/90 bg-slate-950/90 flex flex-col gap-4">
+              <div className="flex flex-wrap items-center justify-between gap-3">
+                <div>
+                  <h3 className="text-sm font-bold text-cyan-300 flex items-center gap-2">
+                    ☁️ Đồng Bộ Toàn Bộ Dữ Liệu: Cloudflare D1 SQL Database & R2 Video Storage
+                  </h3>
+                  <p className="text-xs text-slate-400 mt-0.5">
+                    Tự động upload mọi video clip & tập FULL (.mp4) vừa tạo xong lên R2 Storage và lưu toàn bộ kịch bản,
+                    nhân vật, trạng thái vào Cloudflare D1 SQL.
+                  </p>
+                </div>
+                <div className="flex items-center gap-2 flex-wrap">
+                  <button
+                    disabled={syncingD1}
+                    onClick={handleSyncD1}
+                    className="px-3.5 py-2 rounded-xl bg-indigo-500/20 hover:bg-indigo-500/30 border border-indigo-500/40 text-xs font-bold text-indigo-200 flex items-center gap-1.5 cursor-pointer disabled:opacity-50"
+                  >
+                    <RefreshCw size={13} className={syncingD1 ? 'animate-spin' : ''} />
+                    {syncingD1 ? 'Đang đồng bộ D1 SQL...' : '🗄️ Đồng Bộ Tất Cả Bảng Lên D1 SQL'}
+                  </button>
+                  <button
+                    disabled={syncingR2}
+                    onClick={() => handleSyncR2('ALL')}
+                    className="px-3.5 py-2 rounded-xl bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/40 text-xs font-bold text-amber-200 flex items-center gap-1.5 cursor-pointer disabled:opacity-50"
+                  >
+                    <Download size={13} />
+                    {syncingR2 ? 'Đang upload video lên R2...' : '☁️ Upload Tất Cả Video (.MP4) Lên R2'}
+                  </button>
+                </div>
+              </div>
+
+              {cloudFeedback && (
+                <div
+                  className={`px-3.5 py-2.5 rounded-xl border text-xs font-medium ${
+                    cloudFeedback.ok
+                      ? 'bg-emerald-500/15 border-emerald-500/40 text-emerald-200'
+                      : 'bg-rose-500/15 border-rose-500/40 text-rose-200'
+                  }`}
+                >
+                  {cloudFeedback.text}
+                </div>
+              )}
+
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 text-xs">
+                <div>
+                  <label className="text-[11px] text-slate-400 font-semibold">Cloudflare Account ID</label>
+                  <input
+                    value={cfAccountId}
+                    onChange={e => setCfAccountId(e.target.value)}
+                    placeholder="VD: 8a9b0c1d2e3f..."
+                    className="w-full mt-1 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-white font-mono text-xs outline-none focus:border-cyan-500"
+                  />
+                </div>
+                <div>
+                  <label className="text-[11px] text-slate-400 font-semibold">Cloudflare D1 Database ID</label>
+                  <input
+                    value={cfD1DbId}
+                    onChange={e => setCfD1DbId(e.target.value)}
+                    placeholder="UUID của D1 Database..."
+                    className="w-full mt-1 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-white font-mono text-xs outline-none focus:border-cyan-500"
+                  />
+                </div>
+                <div>
+                  <label className="text-[11px] text-slate-400 font-semibold">
+                    Cloudflare API Token {cloudStatus?.config.cf_api_token_set ? '(Đã lưu ✓)' : ''}
+                  </label>
+                  <input
+                    type="password"
+                    value={cfApiToken}
+                    onChange={e => setCfApiToken(e.target.value)}
+                    placeholder={
+                      cloudStatus?.config.cf_api_token_set ? '•••••••• (Để trống nếu giữ nguyên)' : 'Nhập CF_API_TOKEN...'
+                    }
+                    className="w-full mt-1 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-white font-mono text-xs outline-none focus:border-cyan-500"
+                  />
+                </div>
+                <div>
+                  <label className="text-[11px] text-slate-400 font-semibold">R2 Bucket Name</label>
+                  <input
+                    value={r2BucketName}
+                    onChange={e => setR2BucketName(e.target.value)}
+                    placeholder="tiktok-series"
+                    className="w-full mt-1 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-white font-mono text-xs outline-none focus:border-cyan-500"
+                  />
+                </div>
+                <div>
+                  <label className="text-[11px] text-slate-400 font-semibold">R2 S3 Access Key ID</label>
+                  <input
+                    value={r2AccessKeyId}
+                    onChange={e => setR2AccessKeyId(e.target.value)}
+                    placeholder="S3 Access Key ID..."
+                    className="w-full mt-1 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-white font-mono text-xs outline-none focus:border-cyan-500"
+                  />
+                </div>
+                <div>
+                  <label className="text-[11px] text-slate-400 font-semibold">
+                    R2 S3 Secret Access Key {cloudStatus?.config.r2_secret_key_set ? '(Đã lưu ✓)' : ''}
+                  </label>
+                  <input
+                    type="password"
+                    value={r2SecretKey}
+                    onChange={e => setR2SecretKey(e.target.value)}
+                    placeholder={
+                      cloudStatus?.config.r2_secret_key_set
+                        ? '•••••••• (Để trống nếu giữ nguyên)'
+                        : 'S3 Secret Access Key...'
+                    }
+                    className="w-full mt-1 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-white font-mono text-xs outline-none focus:border-cyan-500"
+                  />
+                </div>
+                <div>
+                  <label className="text-[11px] text-slate-400 font-semibold">R2 Public Domain URL (CDN / r2.dev)</label>
+                  <input
+                    value={r2PublicUrl}
+                    onChange={e => setR2PublicUrl(e.target.value)}
+                    placeholder="https://pub-xxx.r2.dev"
+                    className="w-full mt-1 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-white font-mono text-xs outline-none focus:border-cyan-500"
+                  />
+                </div>
+                <div>
+                  <label className="text-[11px] text-slate-400 font-semibold">R2 S3 Endpoint URL (Tự động theo Account ID)</label>
+                  <input
+                    value={r2EndpointUrl}
+                    onChange={e => setR2EndpointUrl(e.target.value)}
+                    placeholder="https://<account_id>.r2.cloudflarestorage.com"
+                    className="w-full mt-1 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-white font-mono text-xs outline-none focus:border-cyan-500"
+                  />
+                </div>
+              </div>
+
+              <div className="flex flex-wrap items-center justify-between gap-3 pt-1">
+                <div className="flex items-center gap-4 text-[11px] text-slate-400">
+                  <label className="inline-flex items-center gap-2 cursor-pointer text-slate-200 font-medium">
+                    <input
+                      type="checkbox"
+                      checked={r2AutoUpload}
+                      onChange={e => setR2AutoUpload(e.target.checked)}
+                    />
+                    Tự động upload video clip & tập FULL lên R2 ngay khi render xong
+                  </label>
+                  {cloudStatus && (
+                    <span>
+                      Đã lập chỉ mục: <strong className="text-white">{cloudStatus.stats.indexed_episodes}</strong> tập &{' '}
+                      <strong className="text-white">{cloudStatus.stats.indexed_clips}</strong> clips • Đã lên R2:{' '}
+                      <strong className="text-cyan-300">{cloudStatus.stats.r2_clips}</strong> clips &{' '}
+                      <strong className="text-amber-300">{cloudStatus.stats.r2_merged_episodes}</strong> tập FULL
+                    </span>
+                  )}
+                </div>
+
+                <button
+                  disabled={savingCloud}
+                  onClick={handleSaveCloudConfig}
+                  className="px-4 py-2 rounded-xl text-xs font-bold studio-glow-btn cursor-pointer disabled:opacity-50"
+                >
+                  {savingCloud ? 'Đang lưu & kiểm tra kết nối...' : '💾 Lưu Cấu Hình R2 & D1 SQL Vào .env'}
+                </button>
+              </div>
+            </div>
+          )}
 
           {/* Data Table */}
           <div className="overflow-x-auto">
@@ -805,6 +1264,10 @@ export default function ChannelsCMSPage() {
                         {/* Col 4: Episodes Count */}
                         <td className="py-4 px-4">
                           <div className="flex items-baseline gap-1">
+                            <span className="text-sm font-extrabold text-emerald-400">
+                              {ch.stats.completed_episodes ?? ch.stats.merged_episodes}
+                            </span>
+                            <span className="text-xs font-bold text-slate-500">/</span>
                             <span className="text-sm font-extrabold text-white">{ch.stats.total_episodes}</span>
                             <span className="text-[11px] text-slate-400">tập</span>
                           </div>
@@ -869,11 +1332,11 @@ export default function ChannelsCMSPage() {
                         <td className="py-4 px-5 text-right" onClick={e => e.stopPropagation()}>
                           <button
                             onClick={() => navigate(`/channels/${ch.slug}`)}
-                            className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs font-semibold studio-glow-btn cursor-pointer"
+                            title={`Xem chi tiết ${ch.name}`}
+                            aria-label={`Xem chi tiết ${ch.name}`}
+                            className="inline-flex items-center justify-center w-9 h-9 rounded-xl studio-glow-btn cursor-pointer"
                           >
-                            <Eye size={13} />
-                            <span>Chi Tiết</span>
-                            <ArrowRight size={13} />
+                            <Eye size={15} />
                           </button>
                         </td>
                       </tr>
@@ -924,6 +1387,15 @@ export default function ChannelsCMSPage() {
               </option>
             ))}
           </select>
+
+          <button
+            disabled={syncingR2}
+            onClick={() => handleSyncR2(routeSlug)}
+            className="px-3 py-1.5 rounded-xl bg-cyan-500/15 hover:bg-cyan-500/25 border border-cyan-500/40 text-xs font-semibold text-cyan-200 flex items-center gap-1.5 transition-colors cursor-pointer disabled:opacity-50"
+          >
+            <Download size={12} />
+            {syncingR2 ? 'Đang đồng bộ R2...' : '☁️ Đồng Bộ Video Kênh Lên R2'}
+          </button>
 
           <button
             onClick={() => {
@@ -1354,11 +1826,26 @@ export default function ChannelsCMSPage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-5">
             {/* Left Column: Episode Navigator & Batch Runner */}
             <div className="lg:col-span-3 studio-card rounded-3xl p-4 flex flex-col gap-3.5 h-fit">
-              <div className="flex items-center justify-between">
+              <div className="flex items-center justify-between gap-2">
                 <span className="text-xs font-bold uppercase tracking-wider text-white">
-                  Danh Sách Tập ({detail.episodes.length})
+                  Danh Sách Tập ({detail.episodes.filter(e => e.is_complete).length}/{detail.episodes.length})
                 </span>
-                <span className="text-[11px] text-slate-400">Chọn tập để sửa</span>
+                {activeOrLastEpNum !== null ? (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      const targetObj = detail.episodes.find(e => e.episode_num === activeOrLastEpNum) ?? null
+                      setSelectedEpNum(activeOrLastEpNum)
+                      setSelectedClipNum(resolveCurrentOrLastClipNum(targetObj))
+                    }}
+                    className="text-[10px] px-2 py-0.5 rounded-lg font-semibold bg-indigo-500/20 hover:bg-indigo-500/30 text-indigo-300 border border-indigo-500/30 transition-colors cursor-pointer"
+                    title="Chuyển nhanh tới tập hiện tại hoặc tập cuối"
+                  >
+                    ⚡ Tập hiện tại (#{activeOrLastEpNum})
+                  </button>
+                ) : (
+                  <span className="text-[11px] text-slate-400">Chọn tập để sửa</span>
+                )}
               </div>
 
               <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-950/90 border border-slate-800 text-xs">
@@ -1375,24 +1862,33 @@ export default function ChannelsCMSPage() {
               <div className="flex flex-col gap-2 max-h-[460px] overflow-y-auto pr-1">
                 {filteredEpisodes.map(ep => {
                   const isEpSelected = ep.episode_num === selectedEpNum
+                  const isCurrentTarget = ep.episode_num === activeOrLastEpNum
                   const epPct = ep.total_clips > 0 ? Math.round((ep.rendered_clips / ep.total_clips) * 100) : 0
                   return (
                     <div
+                      id={`cms-ep-card-${ep.episode_num}`}
                       key={ep.episode_num}
                       onClick={() => {
                         setSelectedEpNum(ep.episode_num)
-                        setSelectedClipNum(1)
+                        setSelectedClipNum(resolveCurrentOrLastClipNum(ep))
                       }}
                       className={`p-3 rounded-2xl border cursor-pointer transition-all flex flex-col gap-2 ${
                         isEpSelected
                           ? 'bg-indigo-600/15 border-indigo-500/60 shadow-sm'
-                          : 'bg-slate-900/60 border-slate-800/80 hover:border-slate-700'
+                          : isCurrentTarget
+                            ? 'bg-indigo-950/40 border-indigo-500/30 hover:border-indigo-500/50'
+                            : 'bg-slate-900/60 border-slate-800/80 hover:border-slate-700'
                       }`}
                     >
                       <div className="flex items-center justify-between gap-2">
-                        <div className="flex items-center gap-1.5">
+                        <div className="flex items-center gap-1.5 flex-wrap">
                           <span className="text-xs font-bold text-white">{ep.label}</span>
                           <span className="text-[10px] text-slate-400 font-mono">({ep.folder_name})</span>
+                          {isCurrentTarget && (
+                            <span className="px-1.5 py-0.2 rounded text-[9px] font-bold bg-indigo-500/25 text-indigo-300 border border-indigo-400/40">
+                              ⚡ HIỆN TẠI
+                            </span>
+                          )}
                         </div>
 
                         {ep.merged_video_url ? (
@@ -1401,7 +1897,7 @@ export default function ChannelsCMSPage() {
                           </span>
                         ) : ep.is_complete ? (
                           <span className="px-2 py-0.5 rounded-md text-[9px] font-bold bg-emerald-500/15 text-emerald-300 border border-emerald-500/30">
-                            Đủ clip
+                            ✓ Hoàn thành
                           </span>
                         ) : (
                           <span className="text-[10px] text-slate-400 font-mono">
@@ -1532,6 +2028,24 @@ export default function ChannelsCMSPage() {
                             ? 'Đang ghép tập...'
                             : `Ghép ${currentEpisode.rendered_clips} Clip Nhỏ Thành Tập FULL`}
                         </button>
+
+                        {currentEpisode.is_complete ? (
+                          <button
+                            onClick={() => handleMarkEpisodeStatus(currentEpisode.episode_num, 'PENDING', false)}
+                            className="px-3.5 py-2 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 flex items-center gap-1.5 transition-colors cursor-pointer"
+                            title="Đặt lại tập này về Chờ Render trên mọi máy local (D1 SQL)"
+                          >
+                            <RefreshCw size={12} /> Đặt Lại Chưa Xong
+                          </button>
+                        ) : (
+                          <button
+                            onClick={() => handleMarkEpisodeStatus(currentEpisode.episode_num, 'COMPLETED', false)}
+                            className="px-3.5 py-2 rounded-xl text-xs font-semibold bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-500/40 flex items-center gap-1.5 transition-colors cursor-pointer"
+                            title="Đánh dấu hoàn thành tập này để đồng bộ trạng thái giữa nhiều máy local (D1 SQL)"
+                          >
+                            <CheckCircle2 size={13} /> Đánh Dấu Đã Xong {currentEpisode.label}
+                          </button>
+                        )}
                       </div>
                     </div>
 
@@ -1560,7 +2074,7 @@ export default function ChannelsCMSPage() {
                               <div>
                                 <div className="text-xs font-bold">Clip {String(clip.clip_num).padStart(2, '0')}</div>
                                 <div className="text-[10px] opacity-75">
-                                  {isDone ? `${clip.video_size_mb} MB` : 'Chờ render'}
+                                  {isDone ? (clip.video_size_mb ? `${clip.video_size_mb} MB` : 'Đã hoàn thành') : 'Chờ render'}
                                 </div>
                               </div>
                             </button>
@@ -1624,7 +2138,7 @@ export default function ChannelsCMSPage() {
                             nối liền mạch từ{' '}
                             <strong className="text-white">{currentEpisode.rendered_clips} clips nhỏ</strong>
                           </div>
-                          <div className="pt-1 flex items-center gap-2.5">
+                          <div className="pt-1 flex items-center gap-2.5 flex-wrap">
                             <a
                               href={resolveApiUrl(currentEpisode.merged_video_url)}
                               download
@@ -1632,6 +2146,16 @@ export default function ChannelsCMSPage() {
                             >
                               <Download size={14} /> Tải Tập Hoàn Chỉnh (.MP4) Về Máy
                             </a>
+                            {currentEpisode.merged_r2_url && (
+                              <a
+                                href={currentEpisode.merged_r2_url}
+                                target="_blank"
+                                rel="noreferrer"
+                                className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs font-bold bg-cyan-500/20 hover:bg-cyan-500/30 border border-cyan-500/40 text-cyan-200 transition-colors"
+                              >
+                                <ExternalLink size={13} /> ☁️ Mở Link R2 Storage
+                              </a>
+                            )}
                           </div>
                         </div>
                       </div>

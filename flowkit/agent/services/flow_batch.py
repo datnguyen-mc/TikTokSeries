@@ -45,6 +45,8 @@ RPC_PROJECT_MEDIA = "Zzl0ze"
 RPC_MEDIA = "as29s"
 RPC_UPLOAD_IMAGE = "maseQ"
 RPC_UPSCALE_IMAGE = "SPrCad"
+RPC_UPDATE_ASSET = "mYWVGd"
+RPC_BATCH_UPDATE_ASSETS = "pGCYOe"
 
 CAPTCHA_IMAGE = "IMAGE_GENERATION"
 CAPTCHA_VIDEO = "VIDEO_GENERATION"
@@ -613,6 +615,38 @@ def media_request(media_id: str) -> str:
     return build_envelope(RPC_MEDIA, [media_id])
 
 
+def rename_asset_request(asset_id: str, project_id: str, display_name: str) -> str:
+    """Build FlowService.UpdateWorkflow/Asset display_name request (RPC ``mYWVGd``).
+
+    Live-verified from Flow frontend bundle (``wO1vlb``):
+    ``[[asset_id, None, None, [display_name], project_id], [["metadata.display_name"]]]``
+    """
+    clean_name = " ".join(str(display_name or "").split())[:160]
+    if not clean_name:
+        raise ValueError("display_name is required to rename an asset")
+    return build_envelope(
+        RPC_UPDATE_ASSET,
+        [
+            [asset_id, None, None, [clean_name], project_id],
+            [["metadata.display_name"]],
+        ],
+    )
+
+
+def batch_rename_asset_request(asset_id: str, project_id: str, display_name: str) -> str:
+    """Build batch variant of asset display_name update (RPC ``pGCYOe``)."""
+    clean_name = " ".join(str(display_name or "").split())[:160]
+    if not clean_name:
+        raise ValueError("display_name is required to rename an asset")
+    return build_envelope(
+        RPC_BATCH_UPDATE_ASSETS,
+        [
+            [[asset_id, None, None, [clean_name], project_id]],
+            [["metadata.display_name"]],
+        ],
+    )
+
+
 # ── response readers ─────────────────────────────────────────────────────────
 
 def _walk_strings(node: Any):
@@ -752,6 +786,9 @@ def find_media_id(payload: Any, operation_id: str) -> Optional[str]:
 #: a timestamp pair, two nulls, then the media id. Escaped or not, both forms
 #: appear depending on whether the text has been through a JSON decode.
 _MEDIA_SLOT = re.compile(r'null,null,\\?"([0-9a-fA-F-]{36})\\?"')
+_ASSET_HEADER = re.compile(
+    r'\[\\?"([0-9a-fA-F-]{36})\\?",(?:null|\\?"[^"\\]*\\?"),null,\['
+)
 
 
 def find_media_id_in_text(text: str, operation_id: str) -> Optional[str]:
@@ -766,6 +803,27 @@ def find_media_id_in_text(text: str, operation_id: str) -> Optional[str]:
     window_end = min(len(text), start + 800)
     match = _MEDIA_SLOT.search(text, window_start, window_end)
     return match.group(1) if match else None
+
+
+def find_asset_id_in_text(text: str, target_id: str) -> Optional[str]:
+    """Resolve the top-level ``assetId`` (``workflowId``) in a ``Zzl0ze`` listing snippet
+    given any ``asset_id``, ``media_id``, or ``operation_id`` inside that entry."""
+    if not text or not target_id:
+        return None
+    lower_text = text.lower()
+    lower_target = target_id.lower()
+    pos = lower_text.find(lower_target)
+    if pos == -1:
+        return None
+    win_start = max(0, pos - 400)
+    win_end = min(len(text), pos + 200)
+    window = text[win_start:win_end]
+    target_offset = pos - win_start
+    best: Optional[str] = None
+    for m in _ASSET_HEADER.finditer(window):
+        if m.start() <= target_offset + 5:
+            best = m.group(1)
+    return best
 
 
 def read_media_urls(payload: Any, media_id: str) -> MediaUrls:

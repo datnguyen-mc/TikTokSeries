@@ -509,7 +509,11 @@ def _media_url_for_path(abs_path: str) -> Optional[str]:
     rel = os.path.relpath(abs_path, WORKSPACE_DIR)
     if rel.startswith(".."):
         return None
-    return f"/api/cms/media?path={rel}"
+    try:
+        mtime = int(os.path.getmtime(abs_path))
+    except OSError:
+        mtime = 0
+    return f"/api/cms/media?path={rel}&v={mtime}"
 
 
 def _find_clip_video_file(series_abs_dir: str, ep_num: int, ep_folder_name: str, clip_num: int) -> Optional[str]:
@@ -1384,7 +1388,7 @@ async def run_cms_channel_job(slug: str, body: RunChannelJobRequest):
     }
 
     target_desc = (
-        f"Tập {start_ep:02d} - Clip {only_clip:02d}"
+        f"Tập {start_ep:02d} - Clip {only_clip:02d} (Tạo & ghi đè riêng đúng Clip {only_clip:02d})"
         if only_clip
         else (f"Tập {start_ep:02d}" if start_ep == end_ep else f"Tập {start_ep:02d} đến Tập {end_ep:02d}")
     )
@@ -1451,7 +1455,12 @@ async def serve_cms_media(path: str = Query(..., description="Relative path insi
         raise HTTPException(status_code=404, detail="File media không tồn tại.")
     ext = os.path.splitext(abs_target)[1].lower()
     media_type = "video/mp4" if ext == ".mp4" else ("image/jpeg" if ext in (".jpg", ".jpeg") else "application/octet-stream")
-    return FileResponse(abs_target, media_type=media_type, filename=os.path.basename(abs_target))
+    return FileResponse(
+        abs_target,
+        media_type=media_type,
+        filename=os.path.basename(abs_target),
+        headers={"Cache-Control": "no-cache, must-revalidate"},
+    )
 
 
 # ─── Persistent Real-Time Logs Endpoints ─────────────────────
@@ -1970,7 +1979,7 @@ async def sync_cms_cloud_record(body: SyncRecordRequest):
             now,
         ),
     )
-    if body.is_complete:
+    if body.is_complete and body.rendered_clips >= max(body.total_clips, 1):
         await db.execute(
             """UPDATE cms_clip
                SET status = 'COMPLETED',

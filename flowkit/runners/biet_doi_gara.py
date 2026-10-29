@@ -444,21 +444,24 @@ def update_clip_file(scene_num: int, clip_num: int, new_prompt: str):
 # 3. TỰ ĐỘNG TẢI VIDEO VỀ MÁY VÀ ĐỔI TÊN THEO CẢNH
 # -------------------------------------------------------------
 def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> str:
-    """Tải ngay lập tức video về máy và đổi tên chuẩn theo cảnh."""
+    """Tải ngay lập tức video về máy và ghi đè (overwrite) đúng file clip chuẩn theo cảnh."""
     scene_folder = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{scene_num:02d}")
     os.makedirs(scene_folder, exist_ok=True)
 
     filename = f"canh-{scene_num:02d}_clip-{clip_num:02d}.mp4"
     target_path = os.path.join(scene_folder, filename)
+    is_overwrite = os.path.exists(target_path)
+    tmp_path = f"{target_path}.tmp"
 
     log("📥 Đang tải video từ Google Flow về máy...")
     try:
         r = requests.get(video_url, stream=True, timeout=120)
         if r.status_code == 200:
-            with open(target_path, "wb") as f:
+            with open(tmp_path, "wb") as f:
                 for chunk in r.iter_content(chunk_size=1024 * 1024):
                     if chunk:
                         f.write(chunk)
+            os.replace(tmp_path, target_path)
             size_mb = os.path.getsize(target_path) / (1024 * 1024)
             r2_sync = sync_clip_to_r2_and_d1(
                 channel_slug=CHANNEL_SLUG,
@@ -469,7 +472,8 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                 project_id=PROJECT_ID,
             )
             box_rows = [
-                ("Tên File Mới", filename),
+                ("Tên File Clip", filename),
+                ("Chế Độ Lưu", "Ghi đè (Overwritten)" if is_overwrite else "Tạo mới"),
                 ("Đường Dẫn Lưu", target_path),
                 ("Dung Lượng", f"{size_mb:.2f} MB"),
                 ("Thời Gian Hoàn Tất", datetime.now().strftime("%Y-%m-%d %H:%M:%S")),
@@ -477,7 +481,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
             if r2_sync.get("r2_url"):
                 box_rows.append(("Cloudflare R2 URL", r2_sync["r2_url"]))
             print_box(
-                "💾 CLIP HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
+                "💾 CLIP HOÀN THÀNH & ĐÃ GHI ĐÈ VỀ MÁY" if is_overwrite else "💾 CLIP HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
                 box_rows,
             )
             return target_path
@@ -485,6 +489,12 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
             log(f"⚠️ Lỗi khi tải video (HTTP {r.status_code})")
     except Exception as e:
         log(f"⚠️ Ngoại lệ khi tải video: {e}")
+    finally:
+        if os.path.exists(tmp_path):
+            try:
+                os.remove(tmp_path)
+            except Exception:
+                pass
     return None
 
 
@@ -860,6 +870,7 @@ def run_pipeline(start_scene=16, end_scene=45):
         print("#" * 72, flush=True)
 
         previous_clip_last_frame_media_id = None
+        rendered_in_this_run = set()
 
         scene_dir = os.path.join(SERIES_DIR, f"canh-{s:02d}")
         for c_idx in clip_indices:
@@ -885,6 +896,8 @@ def run_pipeline(start_scene=16, end_scene=45):
             if res["success"] and res.get("video_url"):
                 video_url = res["video_url"]
                 local_video = download_and_rename_video(video_url, s, c_idx)
+                if local_video:
+                    rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
             else:
                 log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
@@ -894,7 +907,7 @@ def run_pipeline(start_scene=16, end_scene=45):
             time.sleep(5)
 
         # 🛡️ VÒNG LẶP VÉT CẠN: Đảm bảo 100% không bỏ sót bất kỳ clip nào của Cảnh trước khi ghép FULL
-        existing_nums = {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
+        existing_nums = rendered_in_this_run if ONLY_CLIP > 0 else {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
         missing_clips = [c_idx for c_idx in clip_indices if c_idx not in existing_nums and os.path.exists(os.path.join(scene_dir, f"clip-{c_idx}.md"))]
         if missing_clips:
             log(f"🛡️ [CAM KẾT KHÔNG BỎ SÓT] Phát hiện Cảnh {s:02d} còn thiếu {len(missing_clips)} clip ({missing_clips}). Đang đổi sang Ultra-Safe Prompt & render bù ngay!")

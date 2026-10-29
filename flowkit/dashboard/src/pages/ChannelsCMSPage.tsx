@@ -558,10 +558,10 @@ export default function ChannelsCMSPage() {
       if (routeSlug && evData.channel_slug === routeSlug && typeof evData.line === 'string') {
         setTerminalLines(prev => [...prev.slice(-150), evData.line as string])
       }
-    } else if (evType === 'cms_episode_merged') {
+    } else if (evType === 'cms_episode_merged' || evType === 'cms_episode_synced') {
       loadChannels()
-      if (routeSlug) loadChannelDetail(routeSlug, null)
-    } else if (evType === 'cms_job_status') {
+      if (routeSlug) loadChannelDetail(routeSlug, selectedEpNum)
+    } else if (evType === 'cms_clip_synced' || evType === 'cms_job_status') {
       loadChannels()
       if (routeSlug) loadChannelDetail(routeSlug, selectedEpNum)
     }
@@ -716,7 +716,7 @@ export default function ChannelsCMSPage() {
       setStatusBanner({
         type: 'info',
         text: onlyClip
-          ? `🚀 Đang render Tập ${startEp} • Clip ${onlyClip} (Khóa nhân vật cố định & tự động ghép tập khi hoàn tất)...`
+          ? `🚀 Đang tạo & ghi đè riêng Tập ${startEp} • Clip ${String(onlyClip).padStart(2, '0')} (Chỉ ghi đè đúng file clip-${onlyClip} & tự động cập nhật tập ghép khi đủ clip)...`
           : `🚀 Đang chạy tự động Tập ${startEp}${endEp > startEp ? ` → Tập ${endEp}` : ''} — Tự động ghép các clip nhỏ thành 1 tập hoàn chỉnh ngay khi xong!`,
       })
       loadChannels()
@@ -2237,8 +2237,19 @@ export default function ChannelsCMSPage() {
                                 )
                               }
                               className="px-4 py-2 rounded-xl text-xs font-semibold studio-glow-btn flex items-center gap-1.5 cursor-pointer disabled:opacity-50"
+                              title="Chỉ tạo và ghi đè đúng duy nhất clip này, giữ nguyên các clip khác trong tập"
                             >
-                              <Play size={13} /> Tạo Video Riêng Clip {String(currentClip.clip_num).padStart(2, '0')} Này
+                              {currentClip.video_url || currentClip.status === 'COMPLETED' ? (
+                                <>
+                                  <RefreshCw size={13} /> Tạo Lại & Ghi Đè Clip{' '}
+                                  {String(currentClip.clip_num).padStart(2, '0')} Này
+                                </>
+                              ) : (
+                                <>
+                                  <Play size={13} /> Tạo Video Riêng Clip{' '}
+                                  {String(currentClip.clip_num).padStart(2, '0')} Này
+                                </>
+                              )}
                             </button>
                           </div>
                         </div>
@@ -2265,15 +2276,31 @@ export default function ChannelsCMSPage() {
                                 controls
                                 className="w-full max-h-64 rounded-xl bg-black"
                               />
-                              <div className="flex items-center justify-between text-[11px] text-slate-400 px-1">
+                              <div className="flex items-center justify-between gap-2 flex-wrap text-[11px] text-slate-400 px-1">
                                 <span>Đã kết xuất thành công</span>
-                                <a
-                                  href={resolveApiUrl(currentClip.video_url)}
-                                  download
-                                  className="text-indigo-400 hover:text-indigo-300 font-semibold flex items-center gap-1"
-                                >
-                                  <Download size={12} /> Tải clip lẻ (.mp4)
-                                </a>
+                                <div className="flex items-center gap-3">
+                                  <button
+                                    disabled={startingJob || Boolean(activeChannelJob?.running)}
+                                    onClick={() =>
+                                      handleRunJob(
+                                        currentEpisode.episode_num,
+                                        currentEpisode.episode_num,
+                                        currentClip.clip_num,
+                                      )
+                                    }
+                                    className="text-amber-400 hover:text-amber-300 font-semibold flex items-center gap-1 cursor-pointer disabled:opacity-50"
+                                    title="Tạo lại và ghi đè trực tiếp lên đúng file clip này"
+                                  >
+                                    <RefreshCw size={12} /> Tạo lại & ghi đè clip này
+                                  </button>
+                                  <a
+                                    href={resolveApiUrl(currentClip.video_url)}
+                                    download
+                                    className="text-indigo-400 hover:text-indigo-300 font-semibold flex items-center gap-1"
+                                  >
+                                    <Download size={12} /> Tải clip lẻ (.mp4)
+                                  </a>
+                                </div>
                               </div>
                             </div>
                           ) : (

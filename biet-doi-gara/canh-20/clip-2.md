@@ -1,4 +1,6 @@
-Continue the scene seamlessly from the final frame of clip 1, which is the first frame of this clip. Same characters, outfits, vehicles, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
+[FORMAT]
+Horizontal 16:9, 10-second clip, photorealistic cinematic live-action film shot on 35mm lens, warm natural lighting, 24fps. Spoken dialogue in Vietnamese with natural accent and accurate lip-sync. No subtitles, no on-screen text.
+
 Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action photorealistic Vietnamese cinematic film action film style. 24fps high-octane cinema, crisp 90-degree shutter angle capturing razor-sharp kinetic martial arts and stunts with zero blurry artifacts. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the project list says. No subtitles or on-screen text.
 
 [CHARACTERS — unchanged]

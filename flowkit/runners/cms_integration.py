@@ -69,6 +69,72 @@ def _post_api_json(path: str, payload: dict, timeout: int = 10) -> dict:
     return {"ok": False}
 
 
+def overwrite_existing_clip_files(
+    local_video_path: str,
+    ep_num: int,
+    clip_num: int,
+    ep_folder_name: str = None,
+) -> list[str]:
+    """
+    Khi tạo lại (regenerate) 1 clip lẻ, đảm bảo ghi đè (overwrite) toàn bộ các file .mp4 cũ
+    của đúng (ep_num, clip_num) đó nếu tồn tại ở các thư mục/tên tương đương trong output_videos.
+    """
+    if not local_video_path or not os.path.isfile(local_video_path):
+        return []
+
+    abs_new = os.path.realpath(local_video_path)
+    ep_out_dir = os.path.dirname(local_video_path)
+    output_videos_dir = os.path.dirname(ep_out_dir)
+    if os.path.basename(output_videos_dir) != "output_videos":
+        return []
+
+    candidate_dirs = [ep_out_dir]
+    if ep_folder_name:
+        candidate_dirs.append(os.path.join(output_videos_dir, ep_folder_name))
+    candidate_dirs.extend(
+        [
+            os.path.join(output_videos_dir, f"tap-{ep_num}"),
+            os.path.join(output_videos_dir, f"tap-{ep_num:02d}"),
+            os.path.join(output_videos_dir, f"tap{ep_num}"),
+            os.path.join(output_videos_dir, f"canh-{ep_num:02d}"),
+            os.path.join(output_videos_dir, f"canh-{ep_num}"),
+        ]
+    )
+    if os.path.isdir(output_videos_dir):
+        for name in os.listdir(output_videos_dir):
+            full_sub = os.path.join(output_videos_dir, name)
+            if os.path.isdir(full_sub) and re.match(rf"^(?:tap|canh)[-_]?0*{ep_num}(?:[-_]|$)", name, re.IGNORECASE):
+                if full_sub not in candidate_dirs:
+                    candidate_dirs.append(full_sub)
+
+    overwritten = []
+    seen_dirs = set()
+    for d in candidate_dirs:
+        if not os.path.isdir(d):
+            continue
+        real_d = os.path.realpath(d)
+        if real_d in seen_dirs:
+            continue
+        seen_dirs.add(real_d)
+        for fname in os.listdir(d):
+            if not fname.lower().endswith(".mp4"):
+                continue
+            if "full" in fname.lower() or "merged" in fname.lower():
+                continue
+            c_num = _extract_clip_number_from_filename(fname)
+            if c_num != clip_num:
+                continue
+            old_fpath = os.path.join(d, fname)
+            if os.path.realpath(old_fpath) == abs_new:
+                continue
+            try:
+                shutil.copy2(local_video_path, old_fpath)
+                overwritten.append(old_fpath)
+            except Exception:
+                pass
+    return overwritten
+
+
 def sync_clip_to_r2_and_d1(
     channel_slug: str,
     ep_num: int,
@@ -87,6 +153,8 @@ def sync_clip_to_r2_and_d1(
     if not local_video_path or not os.path.isfile(local_video_path):
         return {"ok": False, "error": "LOCAL_VIDEO_NOT_FOUND"}
 
+    overwrite_existing_clip_files(local_video_path, ep_num, clip_num, ep_folder_name=ep_folder_name)
+
     folder = ep_folder_name or f"tap-{ep_num:02d}"
     filename = os.path.basename(local_video_path)
     size_mb = round(os.path.getsize(local_video_path) / (1024 * 1024), 2)
@@ -101,7 +169,7 @@ def sync_clip_to_r2_and_d1(
         cfg = load_r2_config()
         if cfg.get("r2_auto_upload", True) and is_r2_configured(cfg):
             obj_key = build_r2_key(channel_slug, "episodes", filename, subfolder=folder, cfg=cfg)
-            print(f"☁️ [R2 STORAGE] Đang upload clip {filename} ({size_mb:.2f} MB) lên Cloudflare R2...", flush=True)
+            print(f"☁️ [R2 STORAGE] Đang upload & ghi đè clip {filename} ({size_mb:.2f} MB) lên Cloudflare R2...", flush=True)
             up_res = upload_file_to_r2(local_video_path, obj_key, content_type="video/mp4", cfg=cfg)
             if up_res.get("ok"):
                 r2_key = up_res.get("r2_key")
@@ -166,6 +234,8 @@ def sync_merged_episode_to_r2_and_d1(
     ep_folder_name: str = None,
     project_id: str = None,
     clip_count: int = 0,
+    total_clips: int = 0,
+    is_complete: int = 1,
     duration_s: float = 0.0,
     size_mb: float = 0.0,
     unit_label: str = "Tập",
@@ -208,6 +278,7 @@ def sync_merged_episode_to_r2_and_d1(
                 err = up_res.get("error", "Unknown error")
                 print(f"⚠️ [R2 STORAGE] Upload {filename} chưa thành công: {err}", flush=True)
 
+    eff_total = max(total_clips or 0, clip_count)
     payload = {
         "kind": "episode",
         "channel_slug": channel_slug,
@@ -215,9 +286,9 @@ def sync_merged_episode_to_r2_and_d1(
         "episode_num": ep_num,
         "folder_name": folder,
         "label": f"{unit_label} {ep_num:02d}",
-        "total_clips": clip_count,
+        "total_clips": eff_total,
         "rendered_clips": clip_count,
-        "is_complete": 1,
+        "is_complete": is_complete,
         "merged_local_path": merged_video_path,
         "merged_r2_key": r2_key,
         "merged_r2_url": r2_url,
@@ -301,7 +372,7 @@ def _fallback_upsert_local_and_d1(payload: dict, skip_local: bool = False) -> No
         try:
             with sqlite3.connect(db_path) as conn:
                 conn.execute(sql, params)
-                if kind == "episode" and payload.get("is_complete"):
+                if kind == "episode" and payload.get("is_complete") and (payload.get("rendered_clips") or 0) >= max(payload.get("total_clips") or 0, 1):
                     conn.execute(
                         "UPDATE cms_clip SET status = 'COMPLETED', updated_at = ? WHERE channel_slug = ? AND episode_num = ?",
                         (now, slug, ep_num),
@@ -314,7 +385,7 @@ def _fallback_upsert_local_and_d1(payload: dict, skip_local: bool = False) -> No
         from agent.db.d1_client import is_d1_configured, d1_query_sync
         if is_d1_configured():
             d1_query_sync(sql, params)
-            if kind == "episode" and payload.get("is_complete"):
+            if kind == "episode" and payload.get("is_complete") and (payload.get("rendered_clips") or 0) >= max(payload.get("total_clips") or 0, 1):
                 d1_query_sync(
                     "UPDATE cms_clip SET status = 'COMPLETED', updated_at = ? WHERE channel_slug = ? AND episode_num = ?",
                     [now, slug, ep_num],
@@ -535,6 +606,51 @@ def merge_episode_clips(
     merged_in_ep_dir = os.path.join(ep_dir_out, merged_filename)
     merged_in_full_dir = os.path.join(full_episodes_dir, merged_filename)
 
+    # Đếm tổng số clip kịch bản (clip-*.md) thực tế của tập trên ổ cứng
+    expected_total_clips = 0
+    prompt_dir_candidates = []
+    if ep_folder_name:
+        prompt_dir_candidates.append(os.path.join(series_dir, ep_folder_name))
+    prompt_dir_candidates.extend([
+        os.path.join(series_dir, f"tap-{ep_num}"),
+        os.path.join(series_dir, f"tap-{ep_num:02d}"),
+        os.path.join(series_dir, f"canh-{ep_num:02d}"),
+    ])
+    for pd in prompt_dir_candidates:
+        if os.path.isdir(pd):
+            md_clips = [f for f in os.listdir(pd) if re.match(r"^clip-\d+\.md$", f)]
+            if md_clips:
+                expected_total_clips = len(md_clips)
+                break
+
+    only_clip_env = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
+    already_had_merged = os.path.isfile(merged_in_ep_dir) or os.path.isfile(merged_in_full_dir)
+
+    # Nếu chỉ đang tạo lại / ghi đè 1 clip lẻ (FLOWKIT_ONLY_CLIP > 0) và tập này chưa đủ toàn bộ các clip
+    # cũng như chưa từng có file FULL trước đó -> chỉ ghi đè đúng clip lẻ đó, chưa ghép FULL sớm
+    if only_clip_env > 0 and expected_total_clips > 0 and len(clip_paths) < expected_total_clips and not already_had_merged:
+        skip_msg = (
+            f"✅ Đã tạo & ghi đè hoàn tất {unit_label} {ep_num:02d} - Clip {only_clip_env:02d} "
+            f"(Hiện có {len(clip_paths)}/{expected_total_clips} clips MP4; sẽ tự động ghép FULL khi đủ {expected_total_clips} clips)."
+        )
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] {skip_msg}", flush=True)
+        push_cms_log(
+            channel_slug,
+            skip_msg,
+            level="SUCCESS",
+            category="RUNNER",
+            project_id=project_id,
+            episode=ep_num,
+            clip_num=only_clip_env,
+        )
+        return {
+            "ok": True,
+            "success": True,
+            "skipped_partial_merge": True,
+            "clip_count": len(clip_paths),
+            "expected_total_clips": expected_total_clips,
+        }
+
     start_msg = (
         f"🎞️ Đang chuẩn hóa & ghép nối {len(clip_paths)} video clips ({clip_nums}) "
         f"thành 1 {unit_label.lower()} hoàn chỉnh: {merged_filename}..."
@@ -694,6 +810,8 @@ def merge_episode_clips(
                 ep_folder_name=ep_folder_name or os.path.basename(ep_dir_out),
                 project_id=project_id,
                 clip_count=len(norm_paths),
+                total_clips=max(expected_total_clips, len(norm_paths)),
+                is_complete=1 if (expected_total_clips == 0 or len(norm_paths) >= expected_total_clips) else 0,
                 duration_s=duration_s,
                 size_mb=size_mb,
                 unit_label=unit_label,

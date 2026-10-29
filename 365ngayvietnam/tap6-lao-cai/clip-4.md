@@ -84,3 +84,6 @@ Quầng sáng đèn vàng ấm áp tỏa ra giữa làn sương trắng bảng l
 
 ### [LOẠI TRỪ]
 Đội mũ bảo hiểm hoặc cầm mũ ở quảng trường, chạy xe máy trước sân nhà thờ, nắng trưa gắt, trời mưa tầm tã, mặt hai người bị tối đen, biển quảng cáo hay băng rôn có chữ, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+
+[AVOID]
+subtitles, captions, on-screen text, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.

@@ -235,44 +235,86 @@ DEFAULT_CHANNELS = [
         ],
     },
     {
-        "slug": "mai-hoa-thung",
-        "name": "Mai Hoa Thung — Lân Chợ Lớn",
-        "project_id": "",
+        "slug": "ke-song-sot",
+        "name": "Kẻ Sống Sót: Bóng Ma",
+        "project_id": "0aac1598-f1d9-4de2-84e8-9a5c0edb1df8",
         "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
-        "runner_script": "runners/mai_hoa_thung.py",
-        "series_dir": "mai-hoa-thung",
+        "runner_script": "runners/ke_song_sot.py",
+        "series_dir": "ke-song-sot",
         "ep_prefix": "canh",
-        "description": "Phim hành động võ thuật múa lân 60 phút: đoàn lân Nghĩa Hòa ở Chợ Lớn tự làm đầu lân mới và thắng trên dàn cột Mai Hoa Thung để giữ hẻm (16:9, 60 cảnh × 6 clip).",
+        "description": "Phim hành động tâm lý neo-noir 60 phút: sát thủ bị đường dây phản bội trốn về thị trấn biển, bảy ngày để phơi bày sổ đen; nữ trưởng công an thị trấn và lọ thuốc gây liệt (16:9, 60 cảnh × 6 clip).",
         "characters": [
             {
-                "tag": "@Long",
-                "name": "Long (Đầu Lân, trưởng đoàn)",
-                "default_media_id": "",
-                "description": "Người cầm đầu lân 28 tuổi, tóc undercut búi nhỏ, ngọc răng lân dây đỏ ở cổ, áo võ lụa đỏ viền vàng.",
+                "tag": "@Son",
+                "name": "Sơn (Bóng Ma)",
+                "default_media_id": "28356180-dea1-4c6c-bd80-8c3a41106957",
+                "locked_media_id": "28356180-dea1-4c6c-bd80-8c3a41106957",
+                "description": "Sát thủ 45 tuổi, tóc bạc hai bên, sẹo ngang sống mũi, dây đồng hồ quả quýt, áo khoác dã chiến ô liu (hiện tại) / vest đen găng da (quá khứ). Nghe hết, nói ít, giọng nam miền Nam trầm khô.",
+                "ref_prompt": "Full-body photorealistic character reference of @Son, a 45-year-old Vietnamese man, 176 cm, lean and quiet, cropped black hair greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose, a silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt, dark trousers, worn brown boots; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
             },
             {
-                "tag": "@Mai",
-                "name": "Mai (Đuôi Lân)",
-                "default_media_id": "",
-                "description": "Người cầm đuôi lân 24 tuổi, hai bím tóc buộc chỉ đỏ, tàn nhang, dây lụa đỏ quấn cổ tay trái.",
+                "tag": "@May",
+                "name": "Đại úy Mây",
+                "default_media_id": "b210621a-c403-42cb-94d5-8c0024496843",
+                "locked_media_id": "b210621a-c403-42cb-94d5-8c0024496843",
+                "description": "Trưởng công an thị trấn 38 tuổi, tóc ngắn lọn bạc phía trước, sơ mi kaki, còng ở thắt lưng. Thẳng thắn, sắc sảo, giữ luật bằng hai cái còng.",
+                "ref_prompt": "Full-body photorealistic character reference of @May, a 38-year-old Vietnamese woman, 166 cm, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front, plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, a notebook in her chest pocket, handcuffs on her belt, no insignia; plain grey studio background, 8K.",
             },
             {
-                "tag": "@Phuc",
-                "name": "Phúc (Tay trống)",
-                "default_media_id": "",
-                "description": "Tay trống kiêm đầu bếp 30 tuổi, to cao nhất đoàn, đầu cạo trọc, áo võ đỏ không tay, hai dùi trống cài đai.",
+                "tag": "@Ha",
+                "name": "Hạ (Tiệm hoa)",
+                "default_media_id": "61e353d9-8e8a-48b1-934e-2f466ab87d09",
+                "locked_media_id": "61e353d9-8e8a-48b1-934e-2f466ab87d09",
+                "description": "Cô chủ tiệm hoa 32 tuổi, tóc dài, khăn lụa xanh nhạt, đầm lanh kem, tạp dề xanh. Dịu dàng nhưng kiên cường, khắc vạch đếm ngày chờ Sơn.",
+                "ref_prompt": "Full-body photorealistic character reference of @Ha, a 32-year-old Vietnamese woman, 162 cm, slim, gentle bright face, long black hair tied loosely, a pale-blue silk scarf in her hair, cream linen dress, green canvas florist apron, flat sandals, holding white lily stems; plain grey studio background, soft warm light, 8K.",
             },
             {
-                "tag": "@Ti",
-                "name": "Tí (Ông Địa)",
-                "default_media_id": "",
-                "description": "Út đoàn 19 tuổi, tóc nhuộm đồng, răng khểnh, quạt giấy trên tay, mặt nạ Ông Địa hồng đội trên đầu.",
+                "tag": "@HaiNgoc",
+                "name": "Bà Hai Ngọc (Rắn Đen)",
+                "default_media_id": "ff423460-c3ce-4d3f-8c4b-f74d2a657a2f",
+                "locked_media_id": "ff423460-c3ce-4d3f-8c4b-f74d2a657a2f",
+                "description": "Trùm đường dây 60 tuổi, búi tóc bạc, vòng ngọc tay trái, tẩu đen, áo bà ba lụa tím. Ngọt ngào, chậm rãi, thực dụng tuyệt đối.",
+                "ref_prompt": "Full-body photorealistic character reference of @HaiNgoc, a small upright 60-year-old Vietnamese woman, 158 cm, silver hair in a tight bun, powdered calm face, a thick jade bracelet on her left wrist, a long black cigarette holder, violet silk áo bà ba with a high collar, black silk trousers, embroidered slippers; plain grey studio background, 8K.",
             },
             {
-                "tag": "@Han",
-                "name": "Hân (Song Côn)",
-                "default_media_id": "",
-                "description": "Võ sĩ Hắc Hổ 27 tuổi về với Nghĩa Hòa, tóc ngắn cạo một vạch trên tai trái, áo võ đen sọc vàng, song côn gỗ.",
+                "tag": "@Dũng",
+                "name": "Dũng 'Đinh' (Rắn Đen)",
+                "default_media_id": "29967c42-6378-4e6e-a656-101fbda18b0b",
+                "locked_media_id": "29967c42-6378-4e6e-a656-101fbda18b0b",
+                "description": "Tay sai số một của Rắn Đen (35 tuổi), cao 180 cm, đầu đinh, khuyên tai bạc hình đinh ở tai trái, áo ba lỗ đen, bao súng luôn đóng. Ồn ào, nóng nảy.",
+                "ref_prompt": "Full-body photorealistic reference of a heavy-shouldered 35-year-old Vietnamese man, 180 cm, buzz cut, a small nail-shaped silver earring in his left ear, black sleeveless shirt, black jeans, boots, a closed leather holster, arms crossed, loud confident face; plain grey background, 8K, not resembling any real actor.",
+            },
+            {
+                "tag": "@Vũ Kiên",
+                "name": "Vũ Kiên (Người Môi Giới)",
+                "default_media_id": "cb559421-6180-43b2-bf78-ecc674c3b698",
+                "locked_media_id": "cb559421-6180-43b2-bf78-ecc674c3b698",
+                "description": "Doanh nhân 50 tuổi, tóc đen vuốt, vest trắng, đồng hồ vàng, nụ cười chính khách không bao giờ tắt, quen giết người bằng tay kẻ khác.",
+                "ref_prompt": "Full-body photorealistic reference of a tall 50-year-old Vietnamese man with slicked black hair, a white tailored suit, white shirt, gold wristwatch, polished shoes, a wide politician's smile, one hand raised in greeting; plain grey background, 8K, not resembling any real actor.",
+            },
+            {
+                "tag": "@Phó Thành",
+                "name": "Phó Thành (Phó công an)",
+                "default_media_id": "80289d04-f26d-4ac0-892b-5515509ea1fb",
+                "locked_media_id": "80289d04-f26d-4ac0-892b-5515509ea1fb",
+                "description": "Phó công an 26 tuổi của Mây, gầy, kính tròn, sơ mi xanh nhạt, không phù hiệu. Nhiệt tình, lễ phép, giỏi máy tính.",
+                "ref_prompt": "Full-body photorealistic reference of a skinny 26-year-old Vietnamese man with round glasses, neat side-parted hair, plain light-blue shirt, dark trousers, sneakers, holding a phone and a notebook, eager nervous face; plain grey background, 8K.",
+            },
+            {
+                "tag": "@Bác sĩ Linh",
+                "name": "Bác sĩ Linh",
+                "default_media_id": "d51873af-f5d5-48cd-844e-7d6fc9bf99a7",
+                "locked_media_id": "d51873af-f5d5-48cd-844e-7d6fc9bf99a7",
+                "description": "Bác sĩ thị trấn 55 tuổi, gầy, tóc bạc, kính gọng thép, áo blouse trắng sờn, ống nghe, cầm đồng hồ bấm giờ. Trầm, chính xác.",
+                "ref_prompt": "Full-body photorealistic reference of a thin 55-year-old Vietnamese man, grey hair, wire glasses, worn white coat over a checked shirt, stethoscope, holding a small stopwatch, tired precise face; plain grey background, 8K.",
+            },
+            {
+                "tag": "@Ông Bảy",
+                "name": "Ông Bảy (Quán bờ kè)",
+                "default_media_id": "eefba81d-07c5-42a5-bfe3-11bc176c6d4c",
+                "locked_media_id": "eefba81d-07c5-42a5-bfe3-11bc176c6d4c",
+                "description": "Chủ quán cà phê bờ kè 70 tuổi, mập, ria bạc, áo ba lỗ trắng, quần đùi, nón lá, luôn cầm khăn lau ly. Hào sảng, bảo vệ người lạ.",
+                "ref_prompt": "Full-body photorealistic reference of a stout 70-year-old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, conical hat pushed back, wiping a glass with a rag, cheerful face; plain grey background, 8K.",
             },
         ],
     },
@@ -287,8 +329,14 @@ def _hash_password(password: str, salt: str = "flowkit_cms_2026") -> str:
     return hashlib.sha256(f"{salt}:{password}".encode("utf-8")).hexdigest()
 
 
+_CMS_SEEDED = False
+
+
 async def ensure_cms_seeded():
-    """Ensure default admin user and 6 series channels exist in SQLite."""
+    """Ensure default admin user and series channels exist in SQLite (runs once per process)."""
+    global _CMS_SEEDED
+    if _CMS_SEEDED:
+        return
     db = await get_db()
     now = _now_iso()
 
@@ -351,10 +399,15 @@ async def ensure_cms_seeded():
             ("admin-1", "admin", _hash_password("admin123"), "Quản Trị Viên FlowKit", "admin", now),
         )
 
-    # 2. Seed channels (7 kênh)
+    # 2. Seed channels & remove deprecated channels
+    await db.execute("DELETE FROM cms_channel WHERE slug = ?", ("mai-hoa-thung",))
+    await db.execute("DELETE FROM cms_episode WHERE channel_slug = ?", ("mai-hoa-thung",))
+    await db.execute("DELETE FROM cms_clip WHERE channel_slug = ?", ("mai-hoa-thung",))
+
     for ch in DEFAULT_CHANNELS:
-        cur = await db.execute("SELECT slug FROM cms_channel WHERE slug = ?", (ch["slug"],))
-        if not await cur.fetchone():
+        cur = await db.execute("SELECT slug, project_id, characters_json FROM cms_channel WHERE slug = ?", (ch["slug"],))
+        existing_row = await cur.fetchone()
+        if not existing_row:
             await db.execute(
                 """INSERT INTO cms_channel
                    (slug, name, project_id, aspect_ratio, runner_script, series_dir, ep_prefix, description, characters_json, updated_at)
@@ -372,7 +425,26 @@ async def ensure_cms_seeded():
                     now,
                 ),
             )
+        else:
+            ex = dict(existing_row)
+            # Auto-sync project_id from runner script or DEFAULT_CHANNELS if empty in DB
+            runner_pid = ch["project_id"]
+            runner_abs = os.path.join(FLOWKIT_DIR, ch["runner_script"])
+            if os.path.isfile(runner_abs):
+                try:
+                    with open(runner_abs, "r", encoding="utf-8") as rf:
+                        m_pid = re.search(r'^PROJECT_ID\s*=\s*"([^"]+)"', rf.read(), flags=re.MULTILINE)
+                        if m_pid and m_pid.group(1).strip():
+                            runner_pid = m_pid.group(1).strip()
+                except Exception:
+                    pass
+            if runner_pid and not (ex.get("project_id") or "").strip():
+                await db.execute(
+                    "UPDATE cms_channel SET project_id = ?, characters_json = ?, updated_at = ? WHERE slug = ?",
+                    (runner_pid, json.dumps(ch["characters"], ensure_ascii=False), now, ch["slug"]),
+                )
     await db.commit()
+    _CMS_SEEDED = True
 
 
 async def record_cms_log(
@@ -646,8 +718,8 @@ def _scan_channel_episodes(
                 if ep_num not in ep_dirs or len(entry) > len(os.path.basename(ep_dirs[ep_num])):
                     ep_dirs[ep_num] = full_p
 
-    # Tổng số tập dựa trực tiếp vào các folder tập thực tế trên ổ cứng (nếu thư mục series tồn tại)
-    all_ep_nums = sorted(ep_dirs.keys()) if ep_dirs else sorted(ep_map.keys())
+    # Tổng số tập dựa trên cả folder thực tế trên ổ cứng và các tập đã đồng bộ R2 / SQLite
+    all_ep_nums = sorted(set(ep_dirs.keys()) | set(ep_map.keys()))
     episodes = []
     for ep_num in all_ep_nums:
         db_ep = ep_map.get(ep_num) or {}
@@ -685,10 +757,10 @@ def _scan_channel_episodes(
                 rendered_count += 1
 
             prompt_text = ""
-            if c_path and os.path.isfile(c_path):
+            if include_prompts and c_path and os.path.isfile(c_path):
                 try:
                     with open(c_path, "r", encoding="utf-8") as f:
-                        prompt_text = f.read() if include_prompts else f.read(240)
+                        prompt_text = f.read()
                 except Exception:
                     prompt_text = ""
             if not prompt_text and db_clip.get("prompt"):
@@ -961,6 +1033,208 @@ async def get_cms_channel_detail(slug: str):
     }
 
 
+@router.get("/gallery")
+async def get_cms_gallery(channel_slug: Optional[str] = None):
+    """Return all rendered media files (Full Episodes, Scene Clips, Frames/Images, Audio) across CMS channels with exact format & MIME metadata."""
+    await ensure_cms_seeded()
+    filter_slug = channel_slug.strip() if isinstance(channel_slug, str) and channel_slug.strip() else None
+    db = await get_db()
+    cur = await db.execute("SELECT * FROM cms_channel ORDER BY rowid ASC")
+    rows = [dict(r) for r in await cur.fetchall()]
+
+    channels_out = []
+    items_out = []
+
+    for row in rows:
+        slug = row["slug"]
+        ch_name = row["name"]
+        aspect_ratio = row["aspect_ratio"]
+        ep_prefix = row.get("ep_prefix") or "tap"
+        ep_map, clip_map = await _load_channel_db_maps(db, slug)
+        episodes = _scan_channel_episodes(row, include_prompts=False, db_episodes_map=ep_map, db_clips_map=clip_map)
+
+        ch_full_count = 0
+        ch_clip_count = 0
+        ch_image_count = 0
+        seen_urls: set[str] = set()
+
+        for ep in episodes:
+            ep_num = ep["episode_num"]
+            ep_label = ep["label"]
+            folder_name = ep["folder_name"]
+
+            # 1. Full Episode video (.mp4)
+            merged_url = ep.get("merged_r2_url") or ep.get("merged_video_url")
+            if merged_url:
+                ch_full_count += 1
+                seen_urls.add(merged_url)
+                if not filter_slug or filter_slug in ("ALL", slug):
+                    m_info = detect_media_info(merged_url, default_category="full_episodes")
+                    fname = (
+                        os.path.basename(ep.get("merged_r2_key") or ep.get("merged_video_path") or "")
+                        or f"{slug}_{ep_prefix}-{ep_num:02d}_FULL{m_info['ext']}"
+                    )
+                    items_out.append(
+                        {
+                            "id": f"{slug}:full:{ep_num}",
+                            "channel_slug": slug,
+                            "channel_name": ch_name,
+                            "aspect_ratio": aspect_ratio,
+                            "episode_num": ep_num,
+                            "episode_label": ep_label,
+                            "folder_name": folder_name,
+                            "clip_num": None,
+                            "category": "full_episode",
+                            "title": f"{ep_label} — Tập Hoàn Chỉnh (FULL)",
+                            "file_name": fname,
+                            "url": merged_url,
+                            "r2_url": ep.get("merged_r2_url"),
+                            "r2_key": ep.get("merged_r2_key"),
+                            "media_kind": m_info["media_kind"],
+                            "media_type": m_info["mime_type"],
+                            "ext": m_info["ext"].lstrip(".").upper(),
+                            "size_mb": ep.get("merged_size_mb"),
+                            "prompt_preview": f"Bản ghép hoàn chỉnh {ep_label} ({ep.get('total_clips', 0)} clips)",
+                        }
+                    )
+
+            # 2. Individual Clips (.mp4) & Frames (.jpg/.png)
+            for cl in ep.get("clips", []):
+                c_num = cl["clip_num"]
+                c_url = cl.get("r2_url") or cl.get("video_url")
+                if c_url:
+                    ch_clip_count += 1
+                    seen_urls.add(c_url)
+                    if not filter_slug or filter_slug in ("ALL", slug):
+                        c_info = detect_media_info(c_url, default_category="episodes")
+                        c_fname = (
+                            os.path.basename(cl.get("r2_key") or "")
+                            or f"{ep_prefix}-{ep_num:02d}_clip-{c_num:02d}{c_info['ext']}"
+                        )
+                        items_out.append(
+                            {
+                                "id": f"{slug}:clip:{ep_num}:{c_num}",
+                                "channel_slug": slug,
+                                "channel_name": ch_name,
+                                "aspect_ratio": aspect_ratio,
+                                "episode_num": ep_num,
+                                "episode_label": ep_label,
+                                "folder_name": folder_name,
+                                "clip_num": c_num,
+                                "category": "clip",
+                                "title": f"{ep_label} • Clip {c_num:02d}",
+                                "file_name": c_fname,
+                                "url": c_url,
+                                "r2_url": cl.get("r2_url"),
+                                "r2_key": cl.get("r2_key"),
+                                "thumbnail_url": cl.get("frame_r2_url") or cl.get("frame_url"),
+                                "media_kind": c_info["media_kind"],
+                                "media_type": c_info["mime_type"],
+                                "ext": c_info["ext"].lstrip(".").upper(),
+                                "size_mb": cl.get("video_size_mb"),
+                                "prompt_preview": (cl.get("prompt") or "")[:180],
+                            }
+                        )
+
+                f_url = cl.get("frame_r2_url") or cl.get("frame_url")
+                if f_url:
+                    ch_image_count += 1
+                    seen_urls.add(f_url)
+                    if not filter_slug or filter_slug in ("ALL", slug):
+                        f_info = detect_media_info(f_url, default_category="frames")
+                        f_fname = f"{ep_prefix}_{ep_num:02d}_clip_{c_num:02d}_last{f_info['ext']}"
+                        items_out.append(
+                            {
+                                "id": f"{slug}:frame:{ep_num}:{c_num}",
+                                "channel_slug": slug,
+                                "channel_name": ch_name,
+                                "aspect_ratio": aspect_ratio,
+                                "episode_num": ep_num,
+                                "episode_label": ep_label,
+                                "folder_name": folder_name,
+                                "clip_num": c_num,
+                                "category": "frame",
+                                "title": f"{ep_label} • Frame Cuối Clip {c_num:02d}",
+                                "file_name": f_fname,
+                                "url": f_url,
+                                "r2_url": cl.get("frame_r2_url"),
+                                "r2_key": None,
+                                "media_kind": f_info["media_kind"],
+                                "media_type": f_info["mime_type"],
+                                "ext": f_info["ext"].lstrip(".").upper(),
+                                "size_mb": None,
+                                "prompt_preview": f"Khung hình nối cảnh cuối cùng của {ep_label} - Clip {c_num:02d}",
+                            }
+                        )
+
+        # 3. Also scan exported_frames / character_refs on disk for any standalone images
+        series_abs_dir = os.path.join(WORKSPACE_DIR, row["series_dir"])
+        for sub_dir, sub_cat in (("exported_frames", "frame"), ("character_refs", "frame")):
+            abs_sub = os.path.join(series_abs_dir, sub_dir)
+            if not os.path.isdir(abs_sub):
+                continue
+            for fn in sorted(os.listdir(abs_sub)):
+                if not fn.lower().endswith((".jpg", ".jpeg", ".png", ".webp", ".gif", ".mp4", ".webm", ".mp3", ".wav")):
+                    continue
+                abs_f = os.path.join(abs_sub, fn)
+                if not os.path.isfile(abs_f):
+                    continue
+                m_url = _media_url_for_path(abs_f)
+                if not m_url or m_url in seen_urls:
+                    continue
+                seen_urls.add(m_url)
+                f_info = detect_media_info(abs_f, default_category="frames")
+                if f_info["media_kind"] == "image":
+                    ch_image_count += 1
+                else:
+                    ch_clip_count += 1
+                if not filter_slug or filter_slug in ("ALL", slug):
+                    sz = round(os.path.getsize(abs_f) / (1024 * 1024), 2)
+                    items_out.append(
+                        {
+                            "id": f"{slug}:{sub_dir}:{fn}",
+                            "channel_slug": slug,
+                            "channel_name": ch_name,
+                            "aspect_ratio": aspect_ratio,
+                            "episode_num": 0,
+                            "episode_label": "Tài Nguyên",
+                            "folder_name": sub_dir,
+                            "clip_num": None,
+                            "category": sub_cat,
+                            "title": fn,
+                            "file_name": fn,
+                            "url": m_url,
+                            "r2_url": None,
+                            "r2_key": None,
+                            "media_kind": f_info["media_kind"],
+                            "media_type": f_info["mime_type"],
+                            "ext": f_info["ext"].lstrip(".").upper(),
+                            "size_mb": sz,
+                            "prompt_preview": f"Tệp media lưu tại {sub_dir}/{fn}",
+                        }
+                    )
+
+        channels_out.append(
+            {
+                "slug": slug,
+                "name": ch_name,
+                "aspect_ratio": aspect_ratio,
+                "ep_prefix": ep_prefix,
+                "description": row["description"],
+                "full_episodes_count": ch_full_count,
+                "clips_count": ch_clip_count,
+                "images_count": ch_image_count,
+                "total_media_count": ch_full_count + ch_clip_count + ch_image_count,
+            }
+        )
+
+    return {
+        "channels": channels_out,
+        "items": items_out,
+        "total_items": len(items_out),
+    }
+
+
 class UpdateChannelRequest(BaseModel):
     name: Optional[str] = None
     project_id: Optional[str] = None
@@ -1012,6 +1286,181 @@ async def update_cms_channel(slug: str, body: UpdateChannelRequest):
         project_id=new_pid,
     )
     return {"ok": True, "slug": slug, "project_id": new_pid, "aspect_ratio": new_ar}
+
+
+@router.post("/channels/{slug}/auto-lock-characters")
+async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = False):
+    """Tự động kết nối Google Flow Project của kênh, kiểm tra hoặc tạo mới ảnh tham chiếu cho toàn bộ nhân vật (@Tag) và khóa cố định media_id."""
+    import agent.services.flow_batch as fb
+    from agent.services.flow_client import get_flow_client
+
+    await ensure_cms_seeded()
+    db = await get_db()
+    cur = await db.execute("SELECT * FROM cms_channel WHERE slug = ?", (slug,))
+    row = await cur.fetchone()
+    if not row:
+        raise HTTPException(status_code=404, detail=f"Không tìm thấy kênh '{slug}'")
+    row_dict = dict(row)
+
+    project_id = (row_dict.get("project_id") or "").strip()
+    runner_abs = os.path.join(FLOWKIT_DIR, row_dict["runner_script"])
+    if not project_id and os.path.isfile(runner_abs):
+        try:
+            with open(runner_abs, "r", encoding="utf-8") as rf:
+                m_pid = re.search(r'^PROJECT_ID\s*=\s*"([^"]+)"', rf.read(), flags=re.MULTILINE)
+                if m_pid and m_pid.group(1).strip():
+                    project_id = m_pid.group(1).strip()
+        except Exception:
+            pass
+
+    if not project_id:
+        raise HTTPException(status_code=400, detail=f"Kênh '{slug}' chưa có PROJECT_ID Google Flow.")
+
+    chars = []
+    try:
+        chars = json.loads(row_dict.get("characters_json") or "[]")
+    except Exception:
+        chars = []
+
+    default_ch = next((c for c in DEFAULT_CHANNELS if c["slug"] == slug), None)
+    default_prompts = {
+        c["tag"]: c.get("ref_prompt", "")
+        for c in (default_ch.get("characters", []) if default_ch else [])
+    }
+
+    series_abs_dir = os.path.join(WORKSPACE_DIR, row_dict["series_dir"])
+    char_refs_dir = os.path.join(series_abs_dir, "character_refs")
+    os.makedirs(char_refs_dir, exist_ok=True)
+    cache_path = os.path.join(char_refs_dir, "character_media_ids.json")
+
+    cached_by_project = {}
+    if os.path.isfile(cache_path):
+        try:
+            with open(cache_path, "r", encoding="utf-8") as f:
+                cached_by_project = json.load(f)
+        except Exception:
+            cached_by_project = {}
+    project_cache = cached_by_project.get(project_id, {}) if isinstance(cached_by_project, dict) else {}
+
+    client = get_flow_client()
+    remote_chars = []
+    remote_images = []
+    if client.connected:
+        try:
+            res = await client.batch_rpc(
+                fb.RPC_PROJECT_MEDIA, fb.project_media_request(project_id), match=None, timeout=45
+            )
+            raw = res.get("data") or ""
+            if raw:
+                payload = fb.first_payload(raw, fb.RPC_PROJECT_MEDIA)
+                if isinstance(payload, list):
+                    raw_chars = payload[5] if len(payload) > 5 and isinstance(payload[5], list) else []
+                    for ch in raw_chars:
+                        if isinstance(ch, list) and len(ch) >= 5:
+                            meta = ch[3] if isinstance(ch[3], list) else []
+                            cname = meta[1] if len(meta) > 1 and isinstance(meta[1], str) else ""
+                            cmid = ch[4] if isinstance(ch[4], str) else None
+                            if cname and cmid:
+                                remote_chars.append({"name": cname, "media_id": cmid})
+                    items = payload[1] if len(payload) > 1 and isinstance(payload[1], list) else []
+                    for it in items:
+                        if isinstance(it, list) and len(it) >= 4 and isinstance(it[3], list):
+                            det = it[3]
+                            title = det[0] if len(det) > 0 and isinstance(det[0], str) else ""
+                            is_vid = bool(det[2]) if len(det) > 2 else False
+                            imid = det[4] if len(det) > 4 and isinstance(det[4], str) else None
+                            if not is_vid and imid:
+                                remote_images.append({"title": title, "media_id": imid})
+        except Exception as e:
+            logger.warning("Failed to query remote Flow project media for %s: %s", project_id, e)
+
+    locked_map: dict[str, str] = {}
+    created_now: list[str] = []
+    updated_chars = []
+
+    for c in chars:
+        tag = c.get("tag", "")
+        name = c.get("name", tag)
+        tag_clean = tag.lower().lstrip("@")
+        name_clean = name.lower().split("(")[0].strip()
+        matched_mid = None
+
+        for rc in remote_chars:
+            rc_clean = rc["name"].strip().lower().lstrip("@")
+            if rc_clean == tag_clean or rc_clean == name_clean:
+                matched_mid = rc["media_id"]
+                break
+
+        if not matched_mid and not force_regenerate:
+            matched_mid = project_cache.get(tag) or c.get("default_media_id") or None
+
+        ref_prompt = (
+            c.get("ref_prompt")
+            or default_prompts.get(tag)
+            or f"Full-body character reference of {tag} ({name}): {c.get('description', '')}. Plain studio background, 8K."
+        )
+
+        if matched_mid:
+            locked_map[tag] = matched_mid
+            c["default_media_id"] = matched_mid
+            c["locked_media_id"] = matched_mid
+        else:
+            c["default_media_id"] = ""
+            c["locked_media_id"] = ""
+        if ref_prompt:
+            c["ref_prompt"] = ref_prompt
+        updated_chars.append(c)
+
+    # Save to character_media_ids.json
+    if not isinstance(cached_by_project, dict):
+        cached_by_project = {}
+    cached_by_project[project_id] = {**project_cache, **locked_map}
+    try:
+        with open(cache_path, "w", encoding="utf-8") as f:
+            json.dump(cached_by_project, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logger.warning("Failed to write %s: %s", cache_path, e)
+
+    # Update cms_channel in SQLite
+    await db.execute(
+        "UPDATE cms_channel SET project_id = ?, characters_json = ?, updated_at = ? WHERE slug = ?",
+        (project_id, json.dumps(updated_chars, ensure_ascii=False), _now_iso(), slug),
+    )
+    await db.commit()
+
+    # Sync locked default_media_id into runner script (e.g., runners/ke_song_sot.py)
+    if os.path.isfile(runner_abs) and locked_map:
+        try:
+            with open(runner_abs, "r", encoding="utf-8") as rf:
+                rcode = rf.read()
+            for tag, mid in locked_map.items():
+                pattern = rf'("tag":\s*"{re.escape(tag)}"[\s\S]*?"default_media_id":\s*)"[^"]*"'
+                rcode = re.sub(pattern, rf'\1"{mid}"', rcode, count=1)
+            with open(runner_abs, "w", encoding="utf-8") as rf:
+                rf.write(rcode)
+        except Exception as e:
+            logger.warning("Failed to update default_media_id in %s: %s", runner_abs, e)
+
+    await record_cms_log(
+        slug,
+        "SUCCESS" if len(locked_map) == len(chars) else "WARN",
+        "CHAR_LOCK",
+        f"🔒 Đã đồng bộ & khóa {len(locked_map)}/{len(chars)} nhân vật trên Project {project_id} (Tạo mới: {', '.join(created_now) if created_now else '0'}).",
+        project_id=project_id,
+        details={"locked": locked_map, "created": created_now, "extension_connected": client.connected},
+    )
+
+    return {
+        "ok": True,
+        "slug": slug,
+        "project_id": project_id,
+        "extension_connected": client.connected,
+        "locked_count": len(locked_map),
+        "total_characters": len(chars),
+        "created_now": created_now,
+        "locked_media_ids": locked_map,
+        "characters": updated_chars,
+    }
 
 
 class GeneratePromptsRequest(BaseModel):
@@ -1067,6 +1516,23 @@ def _build_structured_episode_prompts(
             "humans, human faces, human child, human hands, quadrupedal non-anthropomorphic dogs, pointed upright ears, "
             "scary teeth, modern plastic objects, readable letters or numbers anywhere, subtitles, captions, watermark, "
             "extra characters, outfit changes, distorted paws or extra fingers."
+        )
+    elif slug == "ke-song-sot":
+        world_format = (
+            "Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action neo-noir crime thriller "
+            "film style set in a small Vietnamese seaside town (Hòn Sóng) and a big city at night. 24fps high-budget cinematography, "
+            "crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. "
+            "No blood, no on-screen shooting. Dialogue in Vietnamese with natural Southern accent and lip-sync; first-person narration "
+            "allowed as voice-over. No subtitles or on-screen text."
+        )
+        default_setting = (
+            "HÒN SÓNG SEASIDE TOWN: weathered coastal streets, seafront coffee stall, florist shop, and wooden house on the casuarina hill "
+            "under bleached coastal daylight and tense neo-noir atmosphere."
+        )
+        avoid_line = (
+            "blood, gore, visible wounds, on-screen shooting, muzzle flashes, bullet hits on people, deaths on camera, torture, "
+            "real brand logos, readable signs or documents, real police insignia, watermarks, text overlays, extra fingers, "
+            "cartoon or anime look, likeness of any real actor."
         )
     else:
         world_format = (

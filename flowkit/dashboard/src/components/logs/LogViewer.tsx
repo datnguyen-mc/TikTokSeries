@@ -18,14 +18,15 @@ interface CmsLogRow {
 }
 
 const CHANNEL_OPTIONS = [
-  { value: 'ALL', label: 'Tất cả các kênh (All Channels)' },
-  { value: 'mit-va-du-1970', label: 'Mít Và Đú 1970 (mit-va-du-1970)' },
-  { value: '365ngayvietnam', label: '365 Ngày Việt Nam (365ngayvietnam)' },
-  { value: 'me-va-be', label: 'Mẹ Và Bé (me-va-be)' },
-  { value: 'pheo-va-no-meo', label: '365 Ngày Phèo Làm Nội Trợ (pheo-va-no-meo)' },
-  { value: 'tay-du-ky-2026', label: 'Tây Du Ký 2026 (tay-du-ky-2026)' },
-  { value: 'biet-doi-gara', label: 'Biệt Đội Gara (biet-doi-gara)' },
-  { value: 'system', label: 'Hệ thống & Đăng nhập (system)' },
+  { value: 'ALL', label: 'Tất Cả Kênh', short: 'ALL', dot: 'bg-indigo-400' },
+  { value: 'mit-va-du-1970', label: 'Mít Và Đú 1970', short: '9:16', dot: 'bg-amber-400' },
+  { value: '365ngayvietnam', label: '365 Ngày Việt Nam', short: '9:16', dot: 'bg-emerald-400' },
+  { value: 'me-va-be', label: 'Mẹ Và Bé', short: '9:16', dot: 'bg-pink-400' },
+  { value: 'pheo-va-no-meo', label: 'Phèo Làm Nội Trợ', short: '9:16', dot: 'bg-purple-400' },
+  { value: 'tay-du-ky-2026', label: 'Tây Du Ký 2026', short: '9:16', dot: 'bg-sky-400' },
+  { value: 'biet-doi-gara', label: 'Biệt Đội Gara', short: '16:9', dot: 'bg-cyan-400' },
+  { value: 'ke-song-sot', label: 'Kẻ Sống Sót', short: '16:9', dot: 'bg-rose-400' },
+  { value: 'system', label: 'Hệ Thống', short: 'SYS', dot: 'bg-slate-400' },
 ]
 
 export default function LogViewer() {
@@ -94,59 +95,64 @@ export default function LogViewer() {
 
   return (
     <div className="flex flex-col gap-4 max-w-[1600px] mx-auto" style={{ height: 'calc(100vh - 120px)' }}>
-      {/* Top Filter & Stats Bar */}
+      {/* Top Channel Select Dropdown & Filter Bar */}
       <div className="studio-card rounded-2xl p-4 flex flex-wrap items-center justify-between gap-3">
         <div className="flex items-center gap-2.5 flex-wrap">
+          <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-950/95 border border-indigo-500/40 text-xs">
+            <span className="text-slate-400 font-semibold shrink-0">Kênh Series:</span>
+            <select
+              value={channelFilter}
+              onChange={e => setChannelFilter(e.target.value)}
+              className="bg-transparent font-extrabold text-white outline-none cursor-pointer min-w-[200px]"
+            >
+              {CHANNEL_OPTIONS.map(opt => (
+                <option key={opt.value} value={opt.value} className="bg-slate-950 text-white">
+                  {opt.value === 'ALL' ? '📺 ' : opt.value === 'system' ? '⚙️ ' : '🎬 '}
+                  {opt.label} [{opt.short}]
+                </option>
+              ))}
+            </select>
+          </div>
+
           <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-950/90 border border-slate-800 text-xs">
-            <Search size={13} className="text-slate-400" />
-            <input
-              value={query}
-              onChange={e => setQuery(e.target.value)}
-              placeholder="Tìm nội dung log, media_id, tên tập..."
-              className="bg-transparent outline-none text-white placeholder:text-slate-500 w-56"
-            />
-          </div>
+              <Search size={13} className="text-slate-400" />
+              <input
+                value={query}
+                onChange={e => setQuery(e.target.value)}
+                placeholder="Tìm nội dung log, media_id, tên tập..."
+                className="bg-transparent outline-none text-white placeholder:text-slate-500 w-56"
+              />
+            </div>
 
-          <select
-            value={channelFilter}
-            onChange={e => setChannelFilter(e.target.value)}
-            className="text-xs px-3 py-1.5 rounded-xl outline-none bg-slate-950/90 text-slate-200 border border-slate-800 cursor-pointer"
-          >
-            {CHANNEL_OPTIONS.map(opt => (
-              <option key={opt.value} value={opt.value}>
-                {opt.label}
-              </option>
-            ))}
-          </select>
+            <select
+              value={categoryFilter}
+              onChange={e => setCategoryFilter(e.target.value)}
+              className="text-xs px-3 py-1.5 rounded-xl outline-none bg-slate-950/90 text-slate-200 border border-slate-800 cursor-pointer"
+            >
+              <option value="ALL">Tất cả danh mục (All Categories)</option>
+              <option value="RUNNER">RUNNER (Tiến trình tạo video)</option>
+              <option value="API_BOX">API_BOX (Chi tiết Request / Khóa nhân vật)</option>
+              <option value="MERGE">MERGE (Tự động ghép tập hoàn chỉnh)</option>
+              <option value="R2_UPLOAD">R2_UPLOAD (Đồng bộ Cloudflare R2)</option>
+              <option value="JOB">JOB (Quản lý tiến trình CMS)</option>
+              <option value="PROMPT">PROMPT (Lưu kịch bản clip)</option>
+              <option value="CONFIG">CONFIG (Cấu hình kênh)</option>
+              <option value="AUTH">AUTH (Đăng nhập / Bảo mật)</option>
+            </select>
 
-          <select
-            value={categoryFilter}
-            onChange={e => setCategoryFilter(e.target.value)}
-            className="text-xs px-3 py-1.5 rounded-xl outline-none bg-slate-950/90 text-slate-200 border border-slate-800 cursor-pointer"
-          >
-            <option value="ALL">Tất cả danh mục (All Categories)</option>
-            <option value="RUNNER">RUNNER (Tiến trình tạo video)</option>
-            <option value="API_BOX">API_BOX (Chi tiết Request / Khóa nhân vật)</option>
-            <option value="MERGE">MERGE (Tự động ghép tập hoàn chỉnh)</option>
-            <option value="JOB">JOB (Quản lý tiến trình CMS)</option>
-            <option value="PROMPT">PROMPT (Lưu kịch bản clip)</option>
-            <option value="CONFIG">CONFIG (Cấu hình kênh)</option>
-            <option value="AUTH">AUTH (Đăng nhập / Bảo mật)</option>
-          </select>
-
-          <div className="flex items-center p-1 rounded-xl bg-slate-950/90 border border-slate-800 text-[11px]">
-            {(['ALL', 'INFO', 'SUCCESS', 'WARN', 'ERROR'] as const).map(lv => (
-              <button
-                key={lv}
-                onClick={() => setLevelFilter(lv)}
-                className={`px-2.5 py-1 rounded-lg font-semibold transition-colors cursor-pointer ${
-                  levelFilter === lv ? 'bg-indigo-600 text-white' : 'text-slate-400 hover:text-slate-200'
-                }`}
-              >
-                {lv === 'ALL' ? 'Tất cả' : lv}
-              </button>
-            ))}
-          </div>
+            <div className="flex items-center p-1 rounded-xl bg-slate-950/90 border border-slate-800 text-[11px]">
+              {(['ALL', 'INFO', 'SUCCESS', 'WARN', 'ERROR'] as const).map(lv => (
+                <button
+                  key={lv}
+                  onClick={() => setLevelFilter(lv)}
+                  className={`px-2.5 py-1 rounded-lg font-semibold transition-colors cursor-pointer ${
+                    levelFilter === lv ? 'bg-indigo-600 text-white' : 'text-slate-400 hover:text-slate-200'
+                  }`}
+                >
+                  {lv === 'ALL' ? 'Tất cả' : lv}
+                </button>
+              ))}
+            </div>
         </div>
 
         <div className="flex items-center gap-2">

@@ -313,6 +313,7 @@ const CHANNEL_TITLES: Record<string, string> = {
   'pheo-va-no-meo': '365 Ngày Phèo Làm Nội Trợ',
   'tay-du-ky-2026': 'Tây Du Ký 2026',
   'biet-doi-gara': 'Biệt Đội Gara',
+  'ke-song-sot': 'Kẻ Sống Sót',
 }
 
 function Header({ user }: { user: CmsUser }) {

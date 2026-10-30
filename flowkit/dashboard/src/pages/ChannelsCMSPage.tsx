@@ -296,6 +296,11 @@ const CHANNEL_ACCENTS: Record<string, { badge: string; bar: string; dot: string 
     bar: 'from-indigo-500 to-violet-500',
     dot: 'bg-indigo-400',
   },
+  'ke-song-sot': {
+    badge: 'bg-rose-500/15 text-rose-300 border-rose-500/30',
+    bar: 'from-rose-500 to-red-600',
+    dot: 'bg-rose-400',
+  },
 }
 
 export default function ChannelsCMSPage() {
@@ -320,6 +325,8 @@ export default function ChannelsCMSPage() {
   const [startingJob, setStartingJob] = useState(false)
   const [copiedId, setCopiedId] = useState<string | null>(null)
   const [statusBanner, setStatusBanner] = useState<{ type: 'success' | 'error' | 'info'; text: string } | null>(null)
+  const [playingFullEpUrl, setPlayingFullEpUrl] = useState<string | null>(null)
+  const [playingClipUrl, setPlayingClipUrl] = useState<string | null>(null)
 
   // Channel config edit state
   const [showConfigEdit, setShowConfigEdit] = useState(false)
@@ -1445,9 +1452,9 @@ export default function ChannelsCMSPage() {
   // ═══════════════════════════════════════════════════════════════════════════
   return (
     <div className="flex flex-col gap-5 pb-12 max-w-[1600px] mx-auto">
-      {/* Top Back Navigation & Quick Channel Switcher Bar */}
-      <div className="flex flex-wrap items-center justify-between gap-3">
-        <div className="flex items-center gap-3">
+      {/* Top Back Navigation & Sleek Channel Select Dropdown */}
+      <div className="studio-card rounded-2xl px-4 py-3.5 flex flex-wrap items-center justify-between gap-3 border border-slate-800/90">
+        <div className="flex items-center gap-3 flex-wrap">
           <button
             onClick={() => navigate('/')}
             className="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-700/80 text-xs font-semibold text-white transition-colors cursor-pointer"
@@ -1463,24 +1470,39 @@ export default function ChannelsCMSPage() {
           </div>
         </div>
 
-        <div className="flex items-center gap-2.5">
-          <span className="text-xs text-slate-400">Chuyển nhanh kênh:</span>
-          <select
-            value={routeSlug}
-            onChange={e => navigate(`/channels/${e.target.value}`)}
-            className="px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-700/80 text-xs font-semibold text-white outline-none cursor-pointer"
+        <div className="flex items-center gap-2.5 flex-wrap">
+          <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-950/95 border border-indigo-500/40">
+            <Tv size={13} className="text-indigo-400 shrink-0" />
+            <span className="text-[11px] font-semibold text-slate-400 shrink-0">Kênh Series:</span>
+            <select
+              value={routeSlug}
+              onChange={e => navigate(`/channels/${e.target.value}`)}
+              className="bg-transparent text-xs font-extrabold text-white outline-none cursor-pointer min-w-[230px]"
+            >
+              {channels.map(c => {
+                const ratioLabel = c.aspect_ratio === 'VIDEO_ASPECT_RATIO_PORTRAIT' ? '9:16' : '16:9'
+                const fullCnt = c.stats.r2_merged_episodes ?? c.stats.merged_episodes
+                return (
+                  <option key={c.slug} value={c.slug} className="bg-slate-950 text-white">
+                    🎬 {c.name} [{ratioLabel}] — {fullCnt} FULL • {c.stats.rendered_clips}/{c.stats.total_clips} Clips
+                  </option>
+                )
+              })}
+            </select>
+          </div>
+
+          <button
+            onClick={() => navigate('/gallery')}
+            className="px-3 py-2 rounded-xl bg-indigo-500/15 hover:bg-indigo-500/25 border border-indigo-500/40 text-xs font-semibold text-indigo-200 flex items-center gap-1.5 transition-colors cursor-pointer"
           >
-            {channels.map(c => (
-              <option key={c.slug} value={c.slug}>
-                {c.name} ({c.slug})
-              </option>
-            ))}
-          </select>
+            <Film size={12} />
+            Thư Viện Media
+          </button>
 
           <button
             disabled={syncingR2}
             onClick={() => handleSyncR2(routeSlug)}
-            className="px-3 py-1.5 rounded-xl bg-cyan-500/15 hover:bg-cyan-500/25 border border-cyan-500/40 text-xs font-semibold text-cyan-200 flex items-center gap-1.5 transition-colors cursor-pointer disabled:opacity-50"
+            className="px-3 py-2 rounded-xl bg-cyan-500/15 hover:bg-cyan-500/25 border border-cyan-500/40 text-xs font-semibold text-cyan-200 flex items-center gap-1.5 transition-colors cursor-pointer disabled:opacity-50"
           >
             <Download size={12} />
             {syncingR2 ? 'Đang đồng bộ R2...' : '☁️ Đồng Bộ Video Kênh Lên R2'}
@@ -1492,7 +1514,7 @@ export default function ChannelsCMSPage() {
               loadChannelDetail(routeSlug, selectedEpNum)
               loadChannelLogs(routeSlug)
             }}
-            className="px-3 py-1.5 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs font-medium text-slate-200 flex items-center gap-1.5 transition-colors cursor-pointer"
+            className="px-3 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs font-medium text-slate-200 flex items-center gap-1.5 transition-colors cursor-pointer"
           >
             <RefreshCw size={12} /> Làm mới
           </button>
@@ -2234,22 +2256,36 @@ export default function ChannelsCMSPage() {
                               key={mergedMedia.url}
                               src={mergedMedia.url}
                               alt={currentEpisode.label}
+                              loading="lazy"
                               className="rounded-xl border border-amber-500/30 bg-black max-h-60 w-auto shadow-xl object-contain"
                             />
                           ) : mergedMedia.kind === 'audio' ? (
-                            <audio key={mergedMedia.url} controls className="w-full max-w-md">
+                            <audio key={mergedMedia.url} controls preload="none" className="w-full max-w-md">
                               <source src={mergedMedia.url} type={mergedMedia.mimeType} />
                             </audio>
-                          ) : (
+                          ) : playingFullEpUrl === mergedMedia.url ? (
                             <video
                               key={mergedMedia.url}
                               controls
-                              preload="metadata"
+                              autoPlay
                               playsInline
                               className="rounded-xl border border-amber-500/30 bg-black max-h-60 w-auto shadow-xl"
                             >
                               <source src={mergedMedia.url} type={mergedMedia.mimeType} />
                             </video>
+                          ) : (
+                            <button
+                              type="button"
+                              onClick={() => setPlayingFullEpUrl(mergedMedia.url)}
+                              className="group relative w-full md:w-56 h-36 rounded-xl border border-amber-500/40 bg-gradient-to-br from-amber-950/60 via-slate-950 to-slate-900 flex flex-col items-center justify-center gap-2 shadow-xl hover:border-amber-400 transition-all shrink-0 cursor-pointer"
+                            >
+                              <div className="w-11 h-11 rounded-2xl bg-amber-500/20 group-hover:bg-amber-500 border border-amber-400/50 flex items-center justify-center text-amber-300 group-hover:text-slate-950 transition-all group-hover:scale-110">
+                                <Play size={18} className="ml-0.5" />
+                              </div>
+                              <span className="text-[11px] font-bold text-amber-200 group-hover:text-white">
+                                ▶️ Bấm để phát Tập FULL (.{mergedMedia.extBadge})
+                              </span>
+                            </button>
                           )}
                           <div className="flex flex-col gap-2.5 flex-1">
                             <div className="inline-flex items-center gap-2 text-xs font-extrabold uppercase tracking-wider text-amber-300">
@@ -2505,22 +2541,44 @@ export default function ChannelsCMSPage() {
                                     key={clipMedia.url}
                                     src={clipMedia.url}
                                     alt={`Clip ${currentClip.clip_num}`}
+                                    loading="lazy"
                                     className="w-full max-h-64 rounded-xl bg-black object-contain"
                                   />
                                 ) : clipMedia.kind === 'audio' ? (
-                                  <audio key={clipMedia.url} controls className="w-full">
+                                  <audio key={clipMedia.url} controls preload="none" className="w-full">
                                     <source src={clipMedia.url} type={clipMedia.mimeType} />
                                   </audio>
-                                ) : (
+                                ) : playingClipUrl === clipMedia.url ? (
                                   <video
                                     key={clipMedia.url}
                                     controls
-                                    preload="metadata"
+                                    autoPlay
                                     playsInline
                                     className="w-full max-h-64 rounded-xl bg-black"
                                   >
                                     <source src={clipMedia.url} type={clipMedia.mimeType} />
                                   </video>
+                                ) : (
+                                  <button
+                                    type="button"
+                                    onClick={() => setPlayingClipUrl(clipMedia.url)}
+                                    className="group relative w-full h-44 rounded-xl border border-indigo-500/30 hover:border-indigo-400 bg-gradient-to-br from-indigo-950/60 via-slate-950 to-slate-900 flex flex-col items-center justify-center gap-2 overflow-hidden transition-all cursor-pointer"
+                                  >
+                                    {frameMedia && (
+                                      <img
+                                        src={frameMedia.url}
+                                        alt={`Thumbnail Clip ${currentClip.clip_num}`}
+                                        loading="lazy"
+                                        className="absolute inset-0 w-full h-full object-cover opacity-50 group-hover:scale-105 transition-transform"
+                                      />
+                                    )}
+                                    <div className="relative z-10 w-12 h-12 rounded-2xl bg-indigo-600/80 group-hover:bg-indigo-500 border border-indigo-400/60 flex items-center justify-center text-white shadow-lg transition-all group-hover:scale-110">
+                                      <Play size={20} className="ml-0.5" />
+                                    </div>
+                                    <span className="relative z-10 text-xs font-bold text-indigo-200 group-hover:text-white">
+                                      ▶️ Bấm để phát Clip {String(currentClip.clip_num).padStart(2, '0')} (.{clipMedia.extBadge})
+                                    </span>
+                                  </button>
                                 )}
                                 <div className="flex items-center justify-between gap-2 flex-wrap text-[11px] text-slate-400 px-1">
                                   <span className="flex items-center gap-1.5">

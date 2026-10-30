@@ -1,6 +1,6 @@
 # Hướng dẫn chung — Prompt Google Flow cho các series TikTok
 
-**Áp dụng cho:** Mit & Đú 1970 · 365 Ngày Phèo Làm Nội Trợ · Nhà Tèo & Sún · Tây Du Ký 2026 · Mẹ và Bé · Biệt Đội Gara · Mai Hoa Thung. Series 365 Ngày Việt Nam theo template riêng trong [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md); với series đó chỉ bảng **Độ dài tập** và mục **Kịch bản như người thật chia sẻ** dưới đây áp dụng chung.
+**Áp dụng cho:** Mit & Đú 1970 · 365 Ngày Phèo Làm Nội Trợ · Nhà Tèo & Sún · Tây Du Ký 2026 · Mẹ và Bé · Biệt Đội Gara · Kẻ Sống Sót. Series 365 Ngày Việt Nam theo template riêng trong [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md); với series đó chỉ bảng **Độ dài tập** và mục **Kịch bản như người thật chia sẻ** dưới đây áp dụng chung.
 **Model:** Gemini Omni trong Google Flow, **10 giây mỗi clip** (cập nhật 24/10/2026; trước đó dùng Veo 3.1, 8 giây mỗi clip)
 **Cấu trúc mỗi thư mục series — mỗi ngày đăng 1 tập, ghép từ các clip 10 giây; độ dài tập theo từng series (bảng "Độ dài tập" bên dưới):**
 - `tap-{số}/`: thư mục của một tập (một ngày đăng). `README.md` là tổng quan: tóm tắt, ảnh cần đính kèm, kịch bản nhanh, ghi chú. `clip-1.md`, `clip-2.md`, … `clip-N.md`: **mỗi clip 10 giây là một file chỉ chứa đúng prompt** (copy cả file dán vào Flow), tương ứng một lần tạo trên Flow. `caption.md`: caption TikTok dán sẵn (tối đa 5 hashtag, vì từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu), bình luận ghim tối đa 150 ký tự và các lưu ý trước khi đăng; README chỉ để link tới file này. Tập mới đánh số tiếp.
@@ -15,7 +15,7 @@
 | 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap5-tuyen-quang](365ngayvietnam/tap5-tuyen-quang/README.md) |
 | Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-3](me-va-be/tap-3/README.md) |
 | Biệt Đội Gara | [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md) | Phim 15 phút: [canh-01](biet-doi-gara/canh-01/README.md) → [canh-15](biet-doi-gara/canh-15/README.md), kịch bản tổng [KICH_BAN_PHIM.md](biet-doi-gara/KICH_BAN_PHIM.md) |
-| Mai Hoa Thung — Lân Chợ Lớn | [FLOW_PROMPTS.md](mai-hoa-thung/FLOW_PROMPTS.md) | Phim 60 phút: [canh-01](mai-hoa-thung/canh-01/README.md) → [canh-60](mai-hoa-thung/canh-60/README.md), kịch bản tổng [KICH_BAN_60_PHUT.md](mai-hoa-thung/KICH_BAN_60_PHUT.md) |
+| Kẻ Sống Sót: Bóng Ma | [FLOW_PROMPTS.md](ke-song-sot/FLOW_PROMPTS.md) | Phim 60 phút: [canh-01](ke-song-sot/canh-01/README.md) → [canh-60](ke-song-sot/canh-60/README.md), kịch bản tổng [KICH_BAN_60_PHUT.md](ke-song-sot/KICH_BAN_60_PHUT.md), phân tích phim gốc trong [README.md](ke-song-sot/README.md), hồ sơ nhân vật [NHAN_VAT.md](ke-song-sot/NHAN_VAT.md) |
 
 **Tập chủ đề 20/10:** Mit & Đú tap-8 · Phèo tap-3 · Tèo & Sún tap-2 · Tây Du Ký tap-4
 
@@ -32,7 +32,7 @@
 | 365 Ngày Việt Nam | khoảng 90s | 9 (8–10 tùy lộ trình) | Xem [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md) của series | Tập 5 |
 | Mẹ và Bé | 40–60s tùy câu chuyện | 4–6 | Mở bằng em bé → đồ cho bé và một mẹo có nguồn → khó khăn nhỏ → khoảnh khắc thương → kết ấm, thumbnail; mỗi tập hai bé lớn thêm 1 tuần | Tập 1 |
 | Biệt Đội Gara | Một phim liền 14:40 đăng YouTube, chia 15 cảnh khoảng 60s cắt đăng TikTok | 88 (6 mỗi cảnh, Cảnh 2 có 4) | Mỗi cảnh: hook 2 giây → hành động hoặc cảm xúc chính (mỗi nhịp một động tác) → cú lật hoặc câu móc | Cảnh 1 |
-| Mai Hoa Thung — Lân Chợ Lớn | Một phim liền 60:00 đăng YouTube (hoặc 6 tập × 10 phút), chia 60 cảnh đúng 60s cắt đăng TikTok | 360 (6 mỗi cảnh) | Mỗi cảnh: hook 2 giây → võ thuật, múa lân hoặc cảm xúc chính (mỗi nhịp một động tác) → cú lật hoặc câu móc | Cảnh 1 |
+| Kẻ Sống Sót: Bóng Ma | Một phim liền 60:00 đăng YouTube (hoặc 6 tập × 10 phút), chia 60 cảnh đúng 60s cắt đăng TikTok; hiện tại đan quá khứ, lời dẫn ngôi thứ nhất | 360 (6 mỗi cảnh) | Mỗi cảnh: hook 2 giây → một mối đe dọa, manh mối hoặc mảnh quá khứ (mỗi nhịp một động tác) → cú lật hoặc câu móc | Cảnh 1 |
 
 **Kịch bản "như người thật chia sẻ"** (mọi series):
 - **Mỗi clip có một điều mới** cho người xem: một chi tiết đời thật, một mẹo, một bước làm, một con số hoặc một nhịp cảm xúc. Không có clip chỉ để kéo dài.
@@ -74,7 +74,7 @@ Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo v
 | Tây Du Ký 2026 | `@Thay` · `@DaiCa` · `@HeoLuoi` · `@UtKho` | THẦY · ĐẠI CA · HEO LƯỜI · ÚT KHỜ |
 | Mẹ và Bé | `@Ngoc` · `@Gao` · `@Bong` | NGỌC · GẠO · BÔNG |
 | Biệt Đội Gara | `@Thang` · `@Lan` · `@Hai` · `@Khoi` · `@Minh` | THẮNG · LAN · HẢI · KHÔI · MINH |
-| Mai Hoa Thung — Lân Chợ Lớn | `@Long` · `@Mai` · `@Phuc` · `@Ti` · `@Han` | LONG · MAI · PHÚC · TÍ · HÂN |
+| Kẻ Sống Sót: Bóng Ma | `@Son` · `@May` · `@Ha` · `@HaiNgoc` | SƠN · MÂY · HẠ · BÀ HAI NGỌC |
 
 Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo, Tây Du Ký, Mẹ và Bé và Biệt Đội Gara giữ tên gốc trong phần còn lại của prompt: "No" là từ tiếng Anh, viết "No walks in…" model dễ hiểu nhầm. Nếu nhân vật trên Flow được tạo từ ảnh bộ đồ thường ngày, ở các tập mặc đồ khác (Mit & Đú tập 3, 4 và cảnh mơ tập 10, Tèo & Sún tập 2, Tây Du Ký tập 3) thì đính thêm ảnh bộ đồ đó.
 
@@ -137,7 +137,6 @@ Prompt viết **bằng tiếng Anh**. **Thoại tiếng Việt** ghi sau dấu h
 > **Riêng Mẹ và Bé là hình người thật** (từ 26/10/2026): [FORMAT], câu mở đầu clip 2 trở đi và câu chặn cuối [AVOID] (chặn hình hoạt hình, em bé méo mặt, đồ trong nôi, bình bú) lấy ở mục 3 của [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md). Video có người giống thật phải bật nhãn **Nội dung do AI tạo** khi đăng.
 >
 > **Riêng Biệt Đội Gara là người thật kèm chiến binh mặc giáp** (từ 26/10/2026): [FORMAT], câu mở đầu và câu chặn cuối [AVOID] (không súng, không máu, không đua ẩu ngoài đường thật, không giáp giống loạt phim có sẵn) lấy ở mục 4 của [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md). Mỗi nhân vật có khóa thường phục và khóa giáp; clip biến hình có thêm khối `[TRANSFORMATION IN THIS SEGMENT]`.
-> **Mai Hoa Thung — Lân Chợ Lớn là người thật kiểu phim võ thuật múa lân** (từ 30/10/2026): [FORMAT] và [AVOID] (không súng, không dao, không máu, không lửa lớn) lấy ở mục 4 của [FLOW_PROMPTS.md](mai-hoa-thung/FLOW_PROMPTS.md); đầu lân, trống và dàn cột có khóa đạo cụ riêng (mục 2), Hân có ba khóa trang phục theo giai đoạn; prompt sinh bằng [build_full_60_scenes.py](mai-hoa-thung/build_full_60_scenes.py) từ kịch bản tổng, clip ghi "Cắt cảnh" dán ở chế độ Ingredients.
 
 ### Clip 1 — tạo mới (Ingredients)
 

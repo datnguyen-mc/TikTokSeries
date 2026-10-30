@@ -854,13 +854,32 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 # -------------------------------------------------------------
 # 5. CHU TRÌNH ĐIỀU PHỐI TỔNG THỂ
 # -------------------------------------------------------------
+def _is_transient_transport_error(err_text: str) -> bool:
+    t = (err_text or "").lower()
+    transient_markers = (
+        "no_injection_result",
+        "asynchronous response",
+        "message channel closed",
+        "extension not connected",
+        "read timed out",
+        "connection aborted",
+        "connection reset",
+        "bad gateway",
+        "service unavailable",
+        "gateway timeout",
+    )
+    return any(m in t for m in transient_markers)
+
+
 def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 6):
     current_prompt = initial_prompt
+    policy_attempt = 0
 
     for attempt in range(1, max_retries + 1):
         if attempt > 1:
-            log(f"🔄 [KHÔNG BỎ SÓT CLIP] Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries}) với prompt đã viết lại...")
+            log(f"🔄 [KHÔNG BỎ SÓT CLIP] Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries})...")
 
+        transient_fail = False
         try:
             res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
             if res.status_code == 200:
@@ -872,10 +891,11 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                 if poll_res["success"] and poll_res.get("video_url"):
                     return poll_res
                 else:
-                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt} ({poll_res.get('error')}). Đổi prompt ngay lập tức!")
+                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt} ({poll_res.get('error')}).")
             else:
-                log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {res.text}")
-                if wait_if_cooldown_error(res.text, FLOWKIT_API, log):
+                err_body = res.text or ""
+                log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {err_body}")
+                if wait_if_cooldown_error(err_body, FLOWKIT_API, log):
                     res_after = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
                     if res_after.status_code == 200:
                         data = res_after.json()
@@ -884,13 +904,21 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                         poll_res = poll_generation(inner, scene_num, clip_num)
                         if poll_res["success"] and poll_res.get("video_url"):
                             return poll_res
+                elif _is_transient_transport_error(err_body):
+                    transient_fail = True
         except Exception as e:
             log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
+            if _is_transient_transport_error(str(e)):
+                transient_fail = True
 
         if attempt < max_retries:
-            log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - CẤP ĐỘ {attempt}] Đang viết lại prompt an toàn cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
-            current_prompt = sanitize_prompt(current_prompt, attempt)
-            update_clip_file(scene_num, clip_num, current_prompt)
+            if transient_fail:
+                log(f"⏳ Lỗi kết nối Extension tạm thời — giữ nguyên prompt gốc và thử lại sau 6 giây...")
+                time.sleep(6)
+                continue
+            policy_attempt += 1
+            log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - CẤP ĐỘ {policy_attempt}] Đang làm mềm prompt trên bộ nhớ cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
+            current_prompt = sanitize_prompt(initial_prompt, policy_attempt)
             start_image_media_id = None
             log("🔄 Khóa trực tiếp nhân vật gốc (Ingredients R2V) và chạy lại sau 5 giây...")
             time.sleep(5)

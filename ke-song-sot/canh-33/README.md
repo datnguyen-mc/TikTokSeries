@@ -2,7 +2,7 @@
 
 **Cảnh 33/60** · Phút 32:00 – 33:00 của phim · Hồi 2: Thuốc Tê · Tập 4/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 32](../canh-32/README.md) | [Cảnh 34 →](../canh-34/README.md)
 
@@ -12,8 +12,8 @@
 Quá khứ: tiệm hoa đêm, Hạ ngồi trên quầy đung đưa chân, Sơn đứng dựa cửa; cô biết mai là "việc cuối". Hạ lấy đồng hồ quả quýt trong túi anh, lên dây, áp vào tai anh: tiếng tích tắc. Một nhịp quay chậm: Sơn đi ra, mưa nhẹ, bông ly trắng trên túi áo; cắt về hiện tại một giây: nhà gỗ, đêm, Sơn cầm đồng hồ vẫn chưa mở.
 
 * **Bối cảnh chính:** Quá khứ, tiệm hoa đêm trước hợp đồng, đèn vàng, ly trắng, mưa nhẹ.
-* **Nhân vật trong cảnh:** Sơn, Hạ
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Hạ (@Ha)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

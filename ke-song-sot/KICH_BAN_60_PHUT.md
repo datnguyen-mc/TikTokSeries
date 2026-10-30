@@ -4,7 +4,7 @@
 > **Thời lượng:** 60 cảnh × 6 clip × 10 giây = **360 clip = 60 phút**. Bản YouTube 16:9 (hoặc 6 tập × 10 phút); TikTok cắt từng cảnh.  
 > **Quy chuẩn prompt:** `ING` = clip mở cảnh (Ingredients); `FR` = nối Frames / Extend; clip có mô tả bắt đầu bằng **"Quá khứ:"** hoặc **"Cắt:"** là cắt cảnh, dán ở Ingredients. Cảnh có tiêu đề "Quá Khứ:" dùng bảng màu đêm ám vàng.  
 > **An toàn:** không máu, không ai chết trên hình, không tra tấn trên hình, không tự sát, không bắn vào người, không dùng thuốc để phê. Thuốc Tê chỉ là "lọ thuốc trong", người trúng thuốc ngã mềm, mắt mở, còn thở.  
-> **Khóa nhân vật trong ngoặc:** `SON` (hiện tại) `SON_P` (quá khứ, vest đen) · `MAY` `MAY_C` (thường phục) · `HA` (quá khứ, tiệm hoa) `HA_D` (bị giữ) `HA_N` (hiện tại, tự do) · `HAINGOC` `DUNG` `KIEN` `THANH` `LINH` `BAY` `GOONS` · đạo cụ `WATCH` `SCARF` `VIAL` `LEDGER` `MARKS`.
+> **Khóa nhân vật trong ngoặc (đúng 9 nhân vật):** `SON` (hiện tại) `SON_P` (quá khứ, vest đen) · `MAY` `MAY_C` (thường phục) · `HA` (quá khứ, tiệm hoa) `HA_D` (bị giữ) `HA_N` (hiện tại, tự do) · `HAINGOC` `DUNG` `KIEN` `THANH` `LINH` `BAY` · đạo cụ `WATCH` `SCARF` `VIAL` `LEDGER` `MARKS`.
 
 ---
 
@@ -51,7 +51,7 @@
 | 35 | 34:00 – 35:00 | Thị Trấn Thức Dậy | Hòn Sóng, sáng ngày 7 | Dân thị trấn vào vị trí; Bóng Ma đi giữa phố |
 | 36 | 35:00 – 36:00 | Người Môi Giới Lộ Mặt | Quán bờ kè, trưa ngày 7 | Vũ Kiên tới, Hạ trong xe |
 | 37 | 36:00 – 37:00 | Điều Kiện | Quán bờ kè | Giết Bà Hai thì trả Hạ; "Tôi nói dối cả hai" |
-| 38 | 37:00 – 38:00 | Quá Khứ: Bà Hai Và Thằng Nhỏ | Tiệm lụa, nhiều năm trước | Bà Hai nhặt Sơn ngoài đường |
+| 38 | 37:00 – 38:00 | Quá Khứ: Đôi Găng Đầu Tiên | Tiệm lụa, nhiều năm trước | Bà Hai nhận Sơn ngoài đường đêm mưa |
 | 39 | 38:00 – 39:00 | Hoàng Hôn Cảng Cá | Cảng cá, chiều ngày 7 | Bày trận; lọ Tê thay đạn |
 | 40 | 39:00 – 40:00 | Hai Chiếc Xe | Cảng cá, hoàng hôn | Xe đen và xe trắng; "Bóng Ma có mặt" |
 | **HỒI 3** | **40:00 – 60:00** | **NGƯỜI MÔI GIỚI** | | |
@@ -195,7 +195,7 @@
   *Thoại:* Sơn (Voice-over): "Đêm đó tôi tới đúng giờ. Mọi thứ khác đều sai."
 * **Clip 2 (FR · `SON_P`, `DUNG`):** Dũng Đinh bước ra từ thang máy, không phải Kiên; hắn giơ hai tay, cười.  
   *Thoại:* Dũng: "Bà Hai đổi kế. Mày không cần làm gì." · Sơn: "Vậy tao ở đây làm gì?"
-* **Clip 3 (FR · `SON_P`, `DUNG`, `GOONS`):** Còi hú, đèn xanh đỏ tràn xuống dốc bãi xe; Dũng lùi vào thang máy, cửa đóng; cận mặt Sơn hiểu ra: bị gài, anh là "sát thủ bị bắt tại trận".  
+* **Clip 3 (FR · `SON_P`, `DUNG`):** Còi hú, đèn xanh đỏ tràn xuống dốc bãi xe; Dũng lùi vào thang máy, cửa đóng; cận mặt Sơn hiểu ra: bị gài, anh là "sát thủ bị bắt tại trận".  
   *Thoại:* Dũng (qua khe cửa): "Mày là quà cho công an. Bà Hai cần quà."
 * **Clip 4 (FR · `SON_P`):** Sơn ném súng vào thùng rác, cởi vest, lăn qua gầm xe, bò giữa hàng xe; đèn pin quét; anh ép sát bánh xe.  
   *Thoại:* —
@@ -206,15 +206,15 @@
 
 ### CẢNH 09: Hai Người Lạ (08:00 – 09:00)
 *Bối cảnh: Thị trấn Hòn Sóng, chiều ngày 2, chợ cá, quán ông Bảy.*
-* **Clip 1 (ING · `GOONS`, `BAY`):** Xe hơi đen bụi đường dừng trước quán bờ kè; hai người đàn ông áo đen bước xuống, tai nghe, hỏi ông Bảy, giơ ảnh Sơn chụp lén.  
+* **Clip 1 (ING · `BAY`):** Xe hơi đen bụi đường dừng trước quán bờ kè; hai người đàn ông áo đen bước xuống, tai nghe, hỏi ông Bảy, giơ ảnh Sơn chụp lén.  
   *Thoại:* Rắn Đen: "Thấy người này không? Có sẹo mũi."
 * **Clip 2 (FR · `BAY`):** Ông Bảy cầm ảnh, đeo kính, lật mặt sau xem như xem tờ tiền, rồi lắc đầu; ông chỉ ra biển.  
   *Thoại:* Ông Bảy: "Giống thằng con ông Tư ghe." · Ông Bảy: "Nó đi biển ba ngày rồi."
 * **Clip 3 (FR · `SON`):** Trong chợ cá, Sơn đứng sau sạp mực, mũ vải, nhìn hai người áo đen qua khe thúng; tay anh chạm hộp thiếc trong túi áo.  
   *Thoại:* Sơn (Voice-over): "Rắn Đen tìm bằng ảnh. Tức là chưa chắc." · Sơn (Voice-over): "Chưa chắc là còn hai ngày."
-* **Clip 4 (FR · `THANH`, `GOONS`):** Phó Thành dựng xe cách đó mười mét, giả vờ sửa dây xích, ghi biển số xe đen vào lòng bàn tay.  
+* **Clip 4 (FR · `THANH`):** Phó Thành dựng xe cách đó mười mét, giả vờ sửa dây xích, ghi biển số xe đen vào lòng bàn tay.  
   *Thoại:* Thành (thì thầm): "Biển số tỉnh khác. Hai người. Không mua gì."
-* **Clip 5 (FR · `GOONS`, `BAY`):** Hai người áo đen lên xe, một tên ném ảnh xuống bàn quán; xe đi về phía đường ra thị trấn, chậm, nhìn từng hẻm.  
+* **Clip 5 (FR · `BAY`):** Hai người áo đen lên xe, một tên ném ảnh xuống bàn quán; xe đi về phía đường ra thị trấn, chậm, nhìn từng hẻm.  
   *Thoại:* Rắn Đen: "Thấy thì gọi. Có thưởng." · Ông Bảy: "Ở đây thưởng bằng cá."
 * **Clip 6 (FR · `MAY`, `THANH`):** Ở đồn, Thành đưa Mây biển số và tấm ảnh ông Bảy gửi; Mây nhìn ảnh Sơn chụp lén trong thành phố, vest đen, găng da.  
   *Thoại:* Mây: "Người ta tìm nó tới tận đây." · Thành: "Bắt luôn không chị?" · Mây: "Chưa biết ai là người xấu."
@@ -253,13 +253,13 @@
 *Bối cảnh: Rừng dương trên đồi cát, sáng ngày 3, nắng xiên, gió rít.*
 * **Clip 1 (ING · `SON`, `MARKS`):** Sơn khắc vạch thứ ba; tiếng xe đen dừng dưới chân đồi; qua khe ván anh thấy hai người áo đen đi lên giữa rừng dương; anh cầm hộp thiếc, ra cửa sau.  
   *Thoại:* Sơn (Voice-over): "Ngày ba. Rắn Đen không hỏi nữa."
-* **Clip 2 (FR · `GOONS`):** Hai tên vào nhà gỗ trống: sổ không có, túi không có; một tên lật giường; tên kia ra hiên nhìn rừng dương; gió, không ai.  
+* **Clip 2 (FR · `SON`):** Hai tên vào nhà gỗ trống: sổ không có, túi không có; một tên lật giường; tên kia ra hiên nhìn rừng dương; gió, không ai.  
   *Thoại:* Rắn Đen: "Nó chạy." · Rắn Đen 2: "Chạy thì để vạch làm gì?"
-* **Clip 3 (FR · `SON`, `GOONS`):** Tên thứ hai bước vào rừng dương, Sơn từ sau thân cây khóa cổ, kéo xuống cát, ống tiêm vào vai: tên đó mềm ra, mắt mở, còn thở.  
+* **Clip 3 (FR · `SON`):** Tên thứ hai bước vào rừng dương, Sơn từ sau thân cây khóa cổ, kéo xuống cát, ống tiêm vào vai: tên đó mềm ra, mắt mở, còn thở.  
   *Thoại:* Sơn (thì thầm): "Nằm yên. Bốn mươi phút."
-* **Clip 4 (FR · `SON`, `GOONS`):** Tên thứ nhất chạy ra gọi bạn, rút súng khỏi bao giơ lên; Sơn ném cát vào mắt, bẻ cổ tay, súng rơi, khóa tay đè xuống; anh hỏi.  
+* **Clip 4 (FR · `SON`):** Tên thứ nhất chạy ra gọi bạn, rút súng khỏi bao giơ lên; Sơn ném cát vào mắt, bẻ cổ tay, súng rơi, khóa tay đè xuống; anh hỏi.  
   *Thoại:* Sơn: "Ai gửi tụi bây?" · Rắn Đen: "Dũng... Dũng Đinh!"
-* **Clip 5 (FR · `SON`, `GOONS`):** Mũi tiêm thứ hai; tên thứ nhất nằm xuống cạnh tên thứ hai, hai đôi mắt mở nhìn trời qua tán dương; Sơn thu súng của chúng, tháo đạn ném xuống cát.  
+* **Clip 5 (FR · `SON`):** Mũi tiêm thứ hai; tên thứ nhất nằm xuống cạnh tên thứ hai, hai đôi mắt mở nhìn trời qua tán dương; Sơn thu súng của chúng, tháo đạn ném xuống cát.  
   *Thoại:* Sơn (Voice-over): "Hai mươi phút nữa Dũng Đinh biết chỗ tôi. Tốt."
 * **Clip 6 (FR · `MAY`, `THANH`):** Mây và Thành chạy lên đồi theo tiếng gọi, dừng sững: hai người đàn ông nằm ngửa như chết; Thành sờ cổ: có mạch; Mây nhìn quanh rừng dương trống.  
   *Thoại:* Thành: "Còn thở, chị!" · Mây: "Chết mà còn thở. Đưa về phòng khám."
@@ -274,7 +274,7 @@
   *Thoại:* Mây: "Thị trấn tôi ai có?" · Linh: "Không ai. Trừ người của Rắn Đen."
 * **Clip 4 (FR · `THANH`, `MAY`):** Thành đưa điện thoại: hai tên nằm giường có tiền án, đàn em Rắn Đen; Mây nhìn hai người đang "chết", nhìn ra cửa sổ về phía đồi.  
   *Thoại:* Thành: "Hai thằng này là Rắn Đen." · Mây: "Vậy người trên đồi dùng thuốc Rắn Đen đánh Rắn Đen."
-* **Clip 5 (FR · `GOONS`, `LINH`):** Một tên giật ngón tay, mắt chớp, thở dốc, cố ngồi dậy; Linh đè nhẹ vai.  
+* **Clip 5 (FR · `LINH`, `MAY`):** Một tên giật ngón tay, mắt chớp, thở dốc, cố ngồi dậy; Linh đè nhẹ vai.  
   *Thoại:* Rắn Đen (lào khào): "Thằng... Bóng Ma..." · Mây: "Bóng Ma là ai?"
 * **Clip 6 (FR · `MAY`):** Mây lấy còng, còng tên đó vào giường, đeo mũ; cô bảo Thành giữ phòng khám và gọi tỉnh; cô lên đồi lần hai.  
   *Thoại:* Mây: "Lên đồi. Lần này tôi hỏi lần ba."
@@ -341,7 +341,7 @@
 
 ### CẢNH 18: Dũng Đinh Vào Thị Trấn (17:00 – 18:00)
 *Bối cảnh: Quán bờ kè, sáng ngày 4, nắng trắng, hai xe đen đỗ chắn đường.*
-* **Clip 1 (ING · `DUNG`, `GOONS`, `BAY`):** Hai xe đen dừng chắn ngang đường bờ kè; Dũng Đinh bước xuống, áo ba lỗ đen, khuyên đinh; sáu người theo sau; Dũng đạp đổ một bàn quán ông Bảy.  
+* **Clip 1 (ING · `DUNG`, `BAY`):** Hai xe đen dừng chắn ngang đường bờ kè; Dũng Đinh bước xuống, áo ba lỗ đen, khuyên đinh; sáu người theo sau; Dũng đạp đổ một bàn quán ông Bảy.  
   *Thoại:* Dũng: "Ông già. Hai thằng tôi gửi hôm qua đâu?"
 * **Clip 2 (FR · `BAY`, `DUNG`):** Ông Bảy đứng sau quầy, tay vẫn lau ly; ông chỉ ra biển lần nữa.  
   *Thoại:* Ông Bảy: "Tụi nó đi biển. Ở đây ai cũng đi biển."
@@ -351,7 +351,7 @@
   *Thoại:* Dũng: "Tụi tôi tìm bạn." · Mây: "Thị trấn này không có bạn các anh."
 * **Clip 5 (FR · `DUNG`, `MAY`):** Dũng ra hiệu, đàn em dựng bàn; hắn rút từ túi một chiếc khăn lụa xanh nhạt, đặt lên bàn vừa dựng, vuốt phẳng.  
   *Thoại:* Dũng: "Đưa cho bạn tôi. Nó biết của ai."
-* **Clip 6 (FR · `DUNG`, `GOONS`, `MAY`):** Hai xe đen lùi, đi về phía nhà nghỉ đầu thị trấn, không rời đi; Mây cầm khăn lụa, nhận ra màu xanh trong tấm ảnh trong đồng hồ.  
+* **Clip 6 (FR · `DUNG`, `MAY`):** Hai xe đen lùi, đi về phía nhà nghỉ đầu thị trấn, không rời đi; Mây cầm khăn lụa, nhận ra màu xanh trong tấm ảnh trong đồng hồ.  
   *Thoại:* Mây (khẽ): "Khăn của Hạ." · Thành: "Tụi nó ở lại, chị."
 
 ### CẢNH 19: Khăn Lụa (18:00 – 19:00)
@@ -392,8 +392,8 @@
   *Thoại:* Sơn (Voice-over): "Ngày bốn. Tôi về thành phố bằng đường tôi đã trốn."
 * **Clip 2 (FR · `SON`):** Sơn lấy từ túi bộ vest đen gấp phẳng, đôi găng da; anh nhìn chúng như nhìn một người quen cũ.  
   *Thoại:* Mây: "Đồ đi làm của anh." · Sơn: "Đồ của một người khác."
-* **Clip 3 (FR · `MAY_C`, `SON`):** Mây hỏi về Bà Hai Ngọc; Sơn kể ngắn: bà nhặt anh ngoài đường năm mười hai tuổi, cho ăn, dạy im lặng, rồi dạy việc.  
-  *Thoại:* Sơn: "Bà nhặt tôi năm mười hai tuổi. Dạy im. Rồi dạy việc."
+* **Clip 3 (FR · `MAY_C`, `SON`):** Mây hỏi về Bà Hai Ngọc; Sơn kể ngắn: bà nhận anh ngoài đường đêm mưa khi anh tay trắng, cho ăn, dạy im lặng, rồi dạy việc.  
+  *Thoại:* Sơn: "Bà nhận tôi lúc tay trắng. Dạy im. Rồi dạy việc."
 * **Clip 4 (FR · `MAY_C`):** Mây im một lúc, rồi nói về luật: nếu thấy anh làm hại ai, cô còng anh ngay trên xe này. Sơn gật.  
   *Thoại:* Mây: "Anh hại ai, tôi còng ngay." · Sơn: "Còng mang theo chưa?" · Mây: "Hai cái."
 * **Clip 5 (FR · `SON`, `MAY_C`):** Xe dừng ở trạm nghỉ; trong nhà vệ sinh trạm, Sơn thay vest đen, đeo găng; trong gương, Bóng Ma nhìn lại; màu hình ngả vàng dần.  
@@ -426,16 +426,16 @@
   *Thoại:* Sơn: "Hạ. Bà giết cô ấy?" · Bà Hai: "Má không giết. Má bán."
 * **Clip 4 (FR · `SON_P`):** Cận mặt Sơn: hai chữ "má bán" làm anh đứng bật dậy, ghế đổ; Mây đặt tay lên vai anh.  
   *Thoại:* Bà Hai: "Người mua là người thuê con giết má." · Sơn: "Kiên."
-* **Clip 5 (FR · `GOONS`, `SON_P`, `MAY_C`):** Hai người áo đen ập ra từ bình phong; Sơn ném ấm trà nóng về phía tên thứ nhất, kéo cuộn lụa đổ xuống tên thứ hai; Mây khóa tay tên bị lụa phủ, còng vào chân bàn lim.  
+* **Clip 5 (FR · `SON_P`, `MAY_C`):** Hai người áo đen ập ra từ bình phong; Sơn ném ấm trà nóng về phía tên thứ nhất, kéo cuộn lụa đổ xuống tên thứ hai; Mây khóa tay tên bị lụa phủ, còng vào chân bàn lim.  
   *Thoại:* —
 * **Clip 6 (FR · `HAINGOC`, `SON_P`):** Bà Hai ngồi yên giữa hỗn loạn, không nhúc nhích, nhìn Sơn ôm sổ đỏ lùi ra cửa sau.  
   *Thoại:* Bà Hai: "Nó còn sống, con. Má bán hàng sống." · Sơn: "Bà bán con gái người ta."
 
 ### CẢNH 24: Bãi Xe Ngầm (23:00 – 24:00)
 *Bối cảnh: Bãi xe ngầm gần hẻm lụa, đêm, neon vàng, cột bê tông (gương của Cảnh 8).*
-* **Clip 1 (ING · `SON_P`, `MAY_C`, `GOONS`):** Sơn và Mây chạy xuống dốc bãi xe ngầm để cắt đường ra đại lộ; phía sau, bốn người áo đen và tiếng xe rít; Sơn nhận ra chỗ này.  
+* **Clip 1 (ING · `SON_P`, `MAY_C`):** Sơn và Mây chạy xuống dốc bãi xe ngầm để cắt đường ra đại lộ; phía sau, bốn người áo đen và tiếng xe rít; Sơn nhận ra chỗ này.  
   *Thoại:* Sơn (Voice-over): "Cùng cái hầm. Lần này tôi không trốn một mình."
-* **Clip 2 (FR · `SON_P`, `GOONS`):** Hai tên chặn giữa hai hàng xe; Sơn kéo gương xe, đập cửa xe vào tên thứ nhất, khóa cổ; tên thứ hai rút súng giơ lên, Mây từ sau quật gậy ba khúc vào cổ tay, súng văng dưới gầm xe.  
+* **Clip 2 (FR · `SON_P`):** Hai tên chặn giữa hai hàng xe; Sơn kéo gương xe, đập cửa xe vào tên thứ nhất, khóa cổ; tên thứ hai rút súng giơ lên, Mây từ sau quật gậy ba khúc vào cổ tay, súng văng dưới gầm xe.  
   *Thoại:* Mây: "Súng bỏ."
 * **Clip 3 (FR · `DUNG`, `SON_P`):** Dũng Đinh xuất hiện ở lối xuống (hắn về thành phố sớm hơn Sơn tính), đi thẳng tới, không vội; Sơn đẩy Mây ra sau cột.  
   *Thoại:* Dũng: "Tao nói rồi. Tao không thương mày."
@@ -467,9 +467,9 @@
   *Thoại:* Mây (thì thầm): "Đủ cho tỉnh. Đủ cho báo."
 * **Clip 2 (FR · `SON_P`):** Sơn tụt xuống bằng dây máng xối, đi giữa bể thép, lấy một khay lọ Tê bỏ vào túi; anh biết đường như biết nhà.  
   *Thoại:* Sơn (Voice-over): "Tôi gác xưởng này hai năm. Tôi biết nó thở lúc nào."
-* **Clip 3 (FR · `SON_P`, `GOONS`):** Hai bảo vệ áo đen phát hiện, lao tới; Sơn hạ tên thứ nhất bằng khóa tay, tên thứ hai bằng ống tiêm vào vai: hắn ngã mềm giữa khay lọ, mắt mở.  
+* **Clip 3 (FR · `SON_P`):** Hai bảo vệ áo đen phát hiện, lao tới; Sơn hạ tên thứ nhất bằng khóa tay, tên thứ hai bằng ống tiêm vào vai: hắn ngã mềm giữa khay lọ, mắt mở.  
   *Thoại:* Sơn: "Thuốc của mấy anh. Ngủ ngon."
-* **Clip 4 (FR · `MAY_C`, `GOONS`):** Trên mái, Mây bị một bảo vệ leo lên; cô đá gậy hắn rơi, khóa tay hắn vào ống nước bằng cái còng cuối cùng còn trong túi; mái tôn kêu.  
+* **Clip 4 (FR · `MAY_C`):** Trên mái, Mây bị một bảo vệ leo lên; cô đá gậy hắn rơi, khóa tay hắn vào ống nước bằng cái còng cuối cùng còn trong túi; mái tôn kêu.  
   *Thoại:* Mây: "Hết còng rồi. Lần sau dùng dây."
 * **Clip 5 (FR · `SON_P`, `MAY_C`):** Chuông báo động; Sơn mở cửa bốc hàng ra sông: ghe gỗ của xưởng; Mây nhảy từ mái xuống ghe, Sơn giật máy, ghe rời bến giữa tiếng la.  
   *Thoại:* Sơn: "Lên ghe!" · Mây: "Tôi ghét ghe!"
@@ -493,7 +493,7 @@
 
 ### CẢNH 28: Quá Khứ: Cánh Cửa Đầu Tiên (27:00 – 28:00)
 *Bối cảnh: Quá khứ xa, thành phố mưa, hành lang chung cư cũ, nhiều năm trước; rồi hiện tại rạng sáng ngày 6 ở nhà gỗ.*
-* **Clip 1 (ING · `SON_P`):** Quá khứ: hành lang chung cư cũ, mưa qua cửa sổ vỡ; Sơn trẻ hơn mười tuổi (cùng gương mặt, tóc chưa bạc) vest đen đứng trước một cánh cửa gỗ, găng da, tay cầm bao súng chưa mở.  
+* **Clip 1 (ING · `SON_P`):** Quá khứ: hành lang chung cư cũ, mưa qua cửa sổ vỡ; Sơn vest đen đứng trước một cánh cửa gỗ, găng da, tay cầm bao da chưa mở.  
   *Thoại:* Sơn (Voice-over): "Cánh cửa đầu tiên. Bà Hai nói: mở cửa, không nhìn mặt."
 * **Clip 2 (FR · `SON_P`):** Sơn gõ cửa; cửa hé; anh bước vào; cửa đóng; camera ở lại hành lang với tiếng mưa; đèn hành lang chớp.  
   *Thoại:* —
@@ -516,18 +516,18 @@
   *Thoại:* Mây: "Thành là người của tôi." · Sơn: "Thì để tôi là người của tụi nó."
 * **Clip 4 (FR · `SON`):** Sơn đi ra giữa đường chính, không mũ, dây đồng hồ lắc, đứng cách quán hai mươi mét, hai tay trống.  
   *Thoại:* Sơn: "Dũng. Tao ở biển. Như tao hứa."
-* **Clip 5 (FR · `DUNG`, `GOONS`):** Dũng bước ra, sáu tên theo, dàn hàng trên đường; dân thị trấn hé cửa; ông Bảy đứng ở cửa quán.  
+* **Clip 5 (FR · `DUNG`):** Dũng bước ra, sáu tên theo, dàn hàng trên đường; dân thị trấn hé cửa; ông Bảy đứng ở cửa quán.  
   *Thoại:* Dũng: "Sổ đâu?" · Sơn: "Trong chợ cá. Tới lấy."
 * **Clip 6 (FR · `SON`, `DUNG`):** Sơn quay lưng đi vào chợ cá; Dũng ra hiệu, bọn đàn em đi theo; Mây lẻn vào quán cởi trói cho Thành qua cửa sau.  
   *Thoại:* Sơn (Voice-over): "Chợ cá có nhiều lối. Và có cả thị trấn."
 
 ### CẢNH 30: Chợ Cá (29:00 – 30:00)
 *Bối cảnh: Chợ cá Hòn Sóng, ngày 6, đá lạnh, thúng, mái tôn, dân chợ.*
-* **Clip 1 (ING · `SON`, `GOONS`):** Trong chợ, Sơn đi giữa hai dãy sạp; sáu tên tản ra; anh lật một thúng đá vào chân tên gần nhất, khóa tay đập xuống bàn đá.  
+* **Clip 1 (ING · `SON`):** Trong chợ, Sơn đi giữa hai dãy sạp; sáu tên tản ra; anh lật một thúng đá vào chân tên gần nhất, khóa tay đập xuống bàn đá.  
   *Thoại:* —
-* **Clip 2 (FR · `SON`, `GOONS`, `BAY`):** Tên thứ hai vung gậy, Sơn né, ống tiêm vào vai; hắn mềm; từ sau sạp, ông Bảy ném cả thau đá vào tên thứ ba, bà bán mực chụp lưới lên đầu hắn.  
+* **Clip 2 (FR · `SON`, `BAY`):** Tên thứ hai vung gậy, Sơn né, ống tiêm vào vai; hắn mềm; từ sau sạp, ông Bảy ném cả thau đá vào tên thứ ba, bà bán mực chụp lưới lên đầu hắn.  
   *Thoại:* Ông Bảy: "Quán tui, tụi bây ngồi chưa trả tiền!"
-* **Clip 3 (FR · `MAY`, `THANH`, `GOONS`):** Mây và Thành (kính gãy) ập vào từ cửa sau: Mây quét chân một tên, Thành dùng dây lưới trói; dân chợ chặn các lối ra bằng xe đẩy.  
+* **Clip 3 (FR · `MAY`, `THANH`):** Mây và Thành (kính gãy) ập vào từ cửa sau: Mây quét chân một tên, Thành dùng dây lưới trói; dân chợ chặn các lối ra bằng xe đẩy.  
   *Thoại:* Thành: "Chị, em trói được rồi!" · Mây: "Trói chặt. Còn hai."
 * **Clip 4 (FR · `DUNG`, `SON`):** Dũng vào chợ, lần này cẩn thận, không lao; hắn giơ điện thoại: màn hình hiện Hạ trong phòng sáng.  
   *Thoại:* Dũng: "Kiên cho tao xem. Mày thấy chưa?" · Sơn: "Thấy. Nên mày sống tới giờ."
@@ -613,7 +613,7 @@
 
 ### CẢNH 36: Người Môi Giới Lộ Mặt (35:00 – 36:00)
 *Bối cảnh: Quán bờ kè, trưa ngày 7, nắng gắt, xe trắng đỗ trước quán.*
-* **Clip 1 (ING · `KIEN`, `SON`, `GOONS`):** Xe trắng dừng, cửa mở, Vũ Kiên vest trắng bước xuống, cười rộng, hai vệ sĩ đen; ông ta đi tới bàn Sơn như tới một cuộc họp.  
+* **Clip 1 (ING · `KIEN`, `SON`):** Xe trắng dừng, cửa mở, Vũ Kiên vest trắng bước xuống, cười rộng, hai vệ sĩ đen; ông ta đi tới bàn Sơn như tới một cuộc họp.  
   *Thoại:* Kiên: "Bóng Ma. Tôi là người thuê anh giết tôi."
 * **Clip 2 (FR · `KIEN`):** Kiên ngồi xuống, gọi cà phê, nói như nói hợp đồng: ông mua lại hợp đồng từ Bà Hai để Sơn bị bắt, vì Sơn biết quá nhiều cửa; rồi ông đổi ý: Sơn hữu ích hơn khi tự do và nợ ông.  
   *Thoại:* Kiên: "Trong tù anh vô dụng. Ngoài tù, nợ tôi, anh có ích."
@@ -641,20 +641,20 @@
 * **Clip 6 (FR · `SON`, `MAY`):** Sơn nhìn lên hải đăng trên vách; anh bảo Mây để một người ở chân tháp, vì "người thua sẽ chạy lên chỗ cao".  
   *Thoại:* Sơn: "Để một người ở chân hải đăng." · Mây: "Ai?" · Sơn: "Tôi. Nếu tôi dậy."
 
-### CẢNH 38: Quá Khứ: Bà Hai Và Thằng Nhỏ (37:00 – 38:00)
-*Bối cảnh: Quá khứ xa, hẻm lụa thành phố, đêm mưa, hơn ba mươi năm trước; tiệm lụa nhỏ hơn.*
-* **Clip 1 (ING · `HAINGOC`):** Quá khứ xa: hẻm lụa đêm mưa, Bà Hai Ngọc trẻ hơn ba mươi tuổi (cùng gương mặt, tóc đen búi) đứng dưới hiên tiệm lụa, nhìn một thằng bé mười hai tuổi ngồi co dưới mưa ôm cái hộp đánh giày.  
-  *Thoại:* Bà Hai (trẻ): "Con ăn gì chưa?"
-* **Clip 2 (FR · `HAINGOC`):** Bà đưa thằng bé vào tiệm, lau đầu bằng mảnh lụa, cho tô cơm; thằng bé ăn như sợ bị lấy lại.  
-  *Thoại:* Bà Hai (trẻ): "Ăn đi. Má không lấy lại."
-* **Clip 3 (FR · `HAINGOC`):** Bà dạy thằng bé gấp lụa, rồi dạy im lặng: "nghe hết, nói ít"; bà vỗ má nó như vỗ con.  
-  *Thoại:* Bà Hai (trẻ): "Nghe hết. Nói ít. Má nuôi."
-* **Clip 4 (FR · `HAINGOC`):** Năm tháng trôi trong một cú lia: tiệm lụa to dần, két sắt xuất hiện, thằng bé thành thiếu niên đứng sau lưng bà; bà đưa nó đôi găng da đầu tiên.  
-  *Thoại:* Sơn (Voice-over): "Bà cho tôi găng năm hai mươi tuổi. Tôi tưởng là quà."
+### CẢNH 38: Quá Khứ: Đôi Găng Đầu Tiên (37:00 – 38:00)
+*Bối cảnh: Quá khứ, hẻm lụa thành phố, đêm mưa, tiệm lụa ánh đèn vàng.*
+* **Clip 1 (ING · `HAINGOC`, `SON_P`):** Quá khứ: hẻm lụa đêm mưa, Bà Hai Ngọc đứng dưới hiên tiệm lụa, nhìn Sơn đứng ướt sũng dưới mưa bên hiên với hai bàn tay trắng lạnh cóng.  
+  *Thoại:* Bà Hai: "Con ăn gì chưa?"
+* **Clip 2 (FR · `HAINGOC`, `SON_P`):** Bà đưa Sơn vào tiệm, đưa mảnh lụa lau nước mưa, đặt tô cơm nóng lên bàn gỗ lim; Sơn ngồi ăn lặng lẽ, mắt cảnh giác như sợ bị lấy lại.  
+  *Thoại:* Bà Hai: "Ăn đi. Má không lấy lại."
+* **Clip 3 (FR · `HAINGOC`, `SON_P`):** Bà dạy Sơn xếp các cuộn lụa ngay ngắn trong tiệm, rồi dạy im lặng: "nghe hết, nói ít"; bà vỗ nhẹ má anh như vỗ con.  
+  *Thoại:* Bà Hai: "Nghe hết. Nói ít. Má nuôi."
+* **Clip 4 (FR · `HAINGOC`, `SON_P`):** Năm tháng trôi trong một cú lia: két sắt thép xuất hiện sau bình phong, Sơn mặc vest đen đứng sau lưng bà; Bà Hai đưa cho Sơn đôi găng da đen đầu tiên.  
+  *Thoại:* Sơn (Voice-over): "Bà cho tôi đôi găng da đầu tiên. Tôi tưởng là quà."
 * **Clip 5 (FR · `SON`):** Cắt: hiện tại, chiều ngày 7, Sơn đứng trước gương nứt ở nhà gỗ, cài bông ly trắng ông Bảy mua ở chợ vào túi vest; không găng.  
   *Thoại:* Sơn (Voice-over): "Hôm nay tôi gặp bà bằng tay trần."
 * **Clip 6 (FR · `SON`, `MARKS`):** Sơn chạm vào bảy vạch trên khung cửa lần cuối, bước ra hiên; nắng ngả vàng; hải đăng trên vách bắt nắng.  
-  *Thoại:* Sơn (Voice-over): "Bà bán tôi. Tôi vẫn không muốn bà chết. Chỉ muốn bà hết."
+  *Thoại:* Sơn (Voice-over): "Bà bán tôi. Tôi vẫn không muốn bà ngã xuống. Chỉ muốn bà dừng lại."
 
 ### CẢNH 39: Hoàng Hôn Cảng Cá (38:00 – 39:00)
 *Bối cảnh: Cảng cá Hòn Sóng, chiều ngày 7, hoàng hôn cam, ghe, thúng, cột đèn.*
@@ -673,9 +673,9 @@
 
 ### CẢNH 40: Hai Chiếc Xe (39:00 – 40:00)
 *Bối cảnh: Cầu cảng, hoàng hôn, hai đầu cầu, hai xe.*
-* **Clip 1 (ING · `HAINGOC`, `DUNG`, `GOONS`):** Xe đen dừng đầu đông; Bà Hai bước xuống với khăn len, Dũng và bốn tên dàn sau; bà nhìn Sơn giữa cầu, nhìn bông ly trắng trên túi anh.  
+* **Clip 1 (ING · `HAINGOC`, `DUNG`):** Xe đen dừng đầu đông; Bà Hai bước xuống với khăn len, Dũng và bốn tên dàn sau; bà nhìn Sơn giữa cầu, nhìn bông ly trắng trên túi anh.  
   *Thoại:* Bà Hai: "Con cài hoa. Má chưa thấy bao giờ."
-* **Clip 2 (FR · `KIEN`, `HA_D`, `GOONS`):** Xe trắng dừng đầu tây; Kiên bước xuống với hai vệ sĩ; ông ta mở cửa sau, kéo Hạ ra, giữ cánh tay cô; Hạ váy xám, chân trần trên bê tông ấm.  
+* **Clip 2 (FR · `KIEN`, `HA_D`):** Xe trắng dừng đầu tây; Kiên bước xuống với hai vệ sĩ; ông ta mở cửa sau, kéo Hạ ra, giữ cánh tay cô; Hạ váy xám, chân trần trên bê tông ấm.  
   *Thoại:* Kiên: "Hàng đây. Anh làm phần anh."
 * **Clip 3 (FR · `SON`, `HA_D`):** Sơn và Hạ nhìn nhau qua ba mươi mét cầu cảng, gió, hoàng hôn; cô không gọi, chỉ chạm tay lên cổ nơi không còn khăn.  
   *Thoại:* —
@@ -690,7 +690,7 @@
 
 ### CẢNH 41: Tam Giác (40:00 – 41:00)
 *Bối cảnh: Cầu cảng, hoàng hôn cuối, hai phe hai đầu, Sơn giữa, Hạ bên phe Kiên.*
-* **Clip 1 (ING · `SON`, `HAINGOC`, `KIEN`, `HA_D`, `DUNG`, `GOONS`):** Tam giác trên cầu cảng: Bà Hai và Dũng bên đông, Kiên giữ Hạ bên tây, Sơn giữa cầm súng rỗng buông thõng; sóng vỗ dưới chân cầu.  
+* **Clip 1 (ING · `SON`, `HAINGOC`, `KIEN`, `HA_D`, `DUNG`):** Tam giác trên cầu cảng: Bà Hai và Dũng bên đông, Kiên giữ Hạ bên tây, Sơn giữa cầm súng rỗng buông thõng; sóng vỗ dưới chân cầu.  
   *Thoại:* Kiên: "Bắn bà ta." · Bà Hai: "Bắn nó, con."
 * **Clip 2 (FR · `SON`, `HAINGOC`):** Sơn quay về phía Bà Hai, giơ súng lên chậm; bà không lùi, chỉ chỉnh khăn len; Dũng rút súng khỏi bao giơ lên theo phản xạ.  
   *Thoại:* Bà Hai: "Hạ súng, Dũng. Nó không bắn má." · Sơn: "Má chắc?"
@@ -720,13 +720,13 @@
 
 ### CẢNH 43: Bóng Ma Chết (42:00 – 43:00)
 *Bối cảnh: Cầu cảng, chạng vạng xanh, đèn cột chưa bật.*
-* **Clip 1 (ING · `DUNG`, `SON`, `GOONS`):** Dũng quỳ xuống bắt mạch cổ Sơn: không thấy; sờ ngực: lạnh; hắn vuốt mắt Sơn nhưng mắt không nhắm; hắn đứng dậy, lắc đầu với Bà Hai.  
+* **Clip 1 (ING · `DUNG`, `SON`):** Dũng quỳ xuống bắt mạch cổ Sơn: không thấy; sờ ngực: lạnh; hắn vuốt mắt Sơn nhưng mắt không nhắm; hắn đứng dậy, lắc đầu với Bà Hai.  
   *Thoại:* Dũng: "Chết. Thằng này chết thiệt."
 * **Clip 2 (FR · `HAINGOC`):** Bà Hai ngồi xuống bê tông cạnh Sơn, bàn tay đeo vòng ngọc đặt lên trán nó; cận mặt bà, lần đầu có nước mắt; rồi bà lau, đứng dậy.  
   *Thoại:* Bà Hai: "Má bán con. Con bán má. Huề." · Bà Hai (với Dũng): "Lấy sổ. Nó giấu ở đâu đó."
 * **Clip 3 (FR · `KIEN`, `HAINGOC`):** Kiên nói sổ là của ông ta, Bóng Ma chết thì hợp đồng hoàn tất, bà Hai phải rút; Bà Hai cười lạnh: Bóng Ma chưa bắn, hợp đồng chưa xong.  
   *Thoại:* Kiên: "Sổ của tôi. Hợp đồng xong." · Bà Hai: "Nó chưa bắn. Chưa xong."
-* **Clip 4 (FR · `DUNG`, `GOONS`, `KIEN`):** Hai phe bước lên, súng giơ lên hai phía (không bắn), Hạ bị Kiên kéo lùi về xe trắng; Dũng và vệ sĩ Kiên ghì nhau giữa cầu.  
+* **Clip 4 (FR · `DUNG`, `KIEN`):** Hai phe bước lên, súng giơ lên hai phía (không bắn), Hạ bị Kiên kéo lùi về xe trắng; Dũng và vệ sĩ Kiên ghì nhau giữa cầu.  
   *Thoại:* Dũng: "Lùi!" · Vệ sĩ Kiên: "Mày lùi!"
 * **Clip 5 (FR · `MAY`):** Cuối cầu cảng, Mây bật công tắc: cột đèn cảng sáng trắng; tiếng ghe nổ máy đồng loạt; dân thị trấn từ sau thúng, ghe, chợ đứng dậy với lưới và sào; Thành trên nóc hét.  
   *Thoại:* Thành: "Tỉnh tới cổng! Năm phút!" · Mây: "Hòn Sóng! Vào!"
@@ -735,11 +735,11 @@
 
 ### CẢNH 44: Cảng Cá Nổ Tung (43:00 – 44:00)
 *Bối cảnh: Cầu cảng và chợ cá, đêm vừa xuống, đèn trắng, lưới, thúng, hai xe.*
-* **Clip 1 (ING · `MAY`, `GOONS`, `BAY`):** Hỗn chiến: ngư dân quăng lưới trùm hai tên Rắn Đen, ông Bảy đẩy xe đẩy đá vào chân vệ sĩ Kiên; Mây quét chân một tên, khóa tay bằng dây lưới.  
+* **Clip 1 (ING · `MAY`, `BAY`):** Hỗn chiến: ngư dân quăng lưới trùm hai tên Rắn Đen, ông Bảy đẩy xe đẩy đá vào chân vệ sĩ Kiên; Mây quét chân một tên, khóa tay bằng dây lưới.  
   *Thoại:* Ông Bảy: "Quán tui! Trả tiền cà phê!"
 * **Clip 2 (FR · `DUNG`, `MAY`):** Dũng vác Sơn "chết" lên vai định mang về xe đen (lấy xác làm bằng); Mây chặn, gậy ba khúc vào gối hắn; Sơn rơi xuống thúng cá, mềm.  
   *Thoại:* Mây: "Người này của thị trấn tôi."
-* **Clip 3 (FR · `KIEN`, `HA_D`, `GOONS`):** Kiên đẩy Hạ vào xe trắng, vệ sĩ bị lưới; ông ta tự lái, xe trắng rú ga lùi khỏi cầu cảng, quay đầu về đường lên vách đá.  
+* **Clip 3 (FR · `KIEN`, `HA_D`):** Kiên đẩy Hạ vào xe trắng, vệ sĩ bị lưới; ông ta tự lái, xe trắng rú ga lùi khỏi cầu cảng, quay đầu về đường lên vách đá.  
   *Thoại:* Hạ (trong xe): "Sơn!" · Kiên: "Hắn chết rồi. Giữ cô, tôi còn giá."
 * **Clip 4 (FR · `THANH`):** Thành trên nóc chợ thấy xe trắng rẽ lên đường hải đăng; cậu hét xuống; Mây ngẩng lên.  
   *Thoại:* Thành: "Xe trắng lên hải đăng! Có Hạ!"
@@ -818,7 +818,7 @@
   *Thoại:* Bà Hai: "Nó là con má nuôi. Má cũng bán nó." · Mây: "Tôi biết. Nó kể."
 * **Clip 4 (FR · `MAY`, `HAINGOC`):** Còng bập; Mây hỏi câu người giữ luật; bà trả lời câu của người mẹ.  
   *Thoại:* Mây: "Nó còn sống." · Bà Hai: "Má biết. Nó nghe hết. Nó nói ít."
-* **Clip 5 (FR · `DUNG`, `GOONS`):** Dũng bị tháo khỏi cửa xe van và còng lại bởi công an tỉnh; đi ngang bà Hai, hắn dừng; bà không nhìn hắn.  
+* **Clip 5 (FR · `DUNG`):** Dũng bị tháo khỏi cửa xe van và còng lại bởi công an tỉnh; đi ngang bà Hai, hắn dừng; bà không nhìn hắn.  
   *Thoại:* Dũng: "Bà Hai..." · Bà Hai: "Con nói nhiều, Dũng. Má đã nói rồi."
 * **Clip 6 (FR · `MAY`):** Mây ngẩng lên hải đăng: trên đỉnh tháp, hai bóng người sát lan can, một bóng thứ ba nhô lên từ cầu thang; cô chạy về xe máy của Thành đã không còn ở đó, chạy bộ.  
   *Thoại:* Mây: "Thành! Lên hải đăng!"

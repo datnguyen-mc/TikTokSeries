@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 45/60: Phút Hai Mươi Lăm 🌊🕯️
 Trong xe van: Sơn nằm trên nệm, mắt mở, da xám; Linh đặt ống nghe, lắc đầu rồi gật: mạch ba nhịp một phút; Mây giữ đèn pin.
 Mây rút đồng hồ quả quýt khỏi túi ngực, đặt vào bàn tay mở của Sơn, khép ngón tay anh lại quanh nó.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

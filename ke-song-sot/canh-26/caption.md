@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 26/60: Xưởng Tê 🌊🕯️
 Sơn và Mây bò trên mái tôn nhà máy nước mắm, nhìn qua lỗ thủng: bể thép, bàn thủy tinh, khay lọ trong, công nhân đeo khẩu trang mờ; Mây giơ điện thoại chụp.
 Chuông báo động; Sơn mở cửa bốc hàng ra sông: ghe gỗ của xưởng; Mây nhảy từ mái xuống ghe, Sơn giật máy, ghe rời bến giữa tiếng la.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

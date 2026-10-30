@@ -2,7 +2,7 @@
 
 **Cảnh 49/60** · Phút 48:00 – 49:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 48](../canh-48/README.md) | [Cảnh 50 →](../canh-50/README.md)
 
@@ -12,8 +12,8 @@
 Bà Hai Ngọc ngồi trên ghế đá dưới cột đèn, tẩu đen đã tắt, vòng ngọc trên đùi; Mây tới đứng trước bà, còng trong tay. Bà đưa hai cổ tay; vòng ngọc cản còng; bà tự tháo vòng ngọc, đặt lên ghế đá. Mây ngẩng lên hải đăng: trên đỉnh tháp, hai bóng người sát lan can, một bóng thứ ba nhô lên từ cầu thang; cô chạy về xe máy của Thành đã không còn ở đó, chạy bộ.
 
 * **Bối cảnh chính:** Cầu cảng, đêm, đèn trắng, công an tỉnh, ghế đá cột đèn.
-* **Nhân vật trong cảnh:** Mây, Bà Hai Ngọc, Dũng Đinh
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Mây (@May), Bà Hai Ngọc (@HaiNgoc), Dũng Đinh (@Dũng)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

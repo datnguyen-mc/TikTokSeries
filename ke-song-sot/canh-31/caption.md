@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 31/60: Bà Hai Ở Hải Đăng 🌊🕯️
 Đỉnh hải đăng đêm, gió lớn; Bà Hai Ngọc áo bà ba tím quấn khăn len, Dũng cầm đèn; Sơn bước lên cầu thang xoắn với cuốn sổ đỏ trong tay; Mây ở dưới chân tháp, trong tối.
 Bà Hai nhìn cuốn sổ dưới chân, nhìn Sơn, mặt lần đầu mất bình thản; Dũng bước lên, bà giơ vòng ngọc chặn.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

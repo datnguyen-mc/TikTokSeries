@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 59/60: Bảy Vạch Trên Khung Cửa 🌊�
 Mây lên đồi một mình, vào nhà gỗ: giường gấp, bàn trống, radio; bảy vạch trên khung cửa; cô đứng ở ngưỡng cửa, không bước vào ngay.
 Dưới đồi, Hạ đi lên giữa rừng dương với bó ly trắng và một cái kẹp tóc; Mây thấy, không gọi.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

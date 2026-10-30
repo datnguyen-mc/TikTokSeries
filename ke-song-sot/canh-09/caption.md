@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 9/60: Hai Người Lạ 🌊🕯️
 Xe hơi đen bụi đường dừng trước quán bờ kè; hai người đàn ông áo đen bước xuống, tai nghe, hỏi ông Bảy, giơ ảnh Sơn chụp lén.
 Hai người áo đen lên xe, một tên ném ảnh xuống bàn quán; xe đi về phía đường ra thị trấn, chậm, nhìn từng hẻm.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

@@ -2,7 +2,7 @@
 
 **Cảnh 10/60** · Phút 09:00 – 10:00 của phim · Hồi 1: Bảy Ngày · Tập 1/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 09](../canh-09/README.md) | [Cảnh 11 →](../canh-11/README.md)
 
@@ -12,8 +12,8 @@
 Quá khứ: Sơn ướt mưa bước tới tiệm hoa: cửa kính vỡ, xô hoa đổ, ly trắng dập nát trên sàn; giữa sàn, chiếc khăn lụa xanh. Bà hàng xóm bán xôi thò đầu qua cửa, hạ giọng: đêm qua ba người đàn ông tới, bắt cô chủ tiệm đi, cô ấy không la, chỉ nhìn tòa nhà kính. Thời gian kéo giãn: Sơn quấn khăn lụa xanh quanh cổ tay, nhìn về tòa nhà kính nơi đèn phòng Vũ Kiên sáng; rồi anh quay lưng đi về phía bến xe.
 
 * **Bối cảnh chính:** Quá khứ, tiệm hoa sáng sớm sau đêm bị gài, mưa tạnh, kính vỡ.
-* **Nhân vật trong cảnh:** Sơn
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 21/60: Xe Đò Đêm 🌊🕯️
 Xe đò đêm, hàng ghế cuối; Sơn áo khoác ô liu ngồi cạnh cửa sổ, Mây áo khoác jean, ba lô trên đùi; mưa chảy ngược trên kính; cô nhìn anh mở túi vải.
 Xe dừng ở trạm nghỉ; trong nhà vệ sinh trạm, Sơn thay vest đen, đeo găng; trong gương, Bóng Ma nhìn lại; màu hình ngả vàng dần.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

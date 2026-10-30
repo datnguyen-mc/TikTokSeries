@@ -2,7 +2,7 @@
 
 **Cảnh 60/60** · Phút 59:00 – 60:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 59](../canh-59/README.md) | Hết phim
 
@@ -12,8 +12,8 @@
 Bình minh, nhiều năm sau (nắng, cùng ngã ba, cột biển bạc hơn): sạp hoa ly trắng ở đầu chợ cá; Hạ, tóc dài hơn, khăn xanh, xếp hoa; khung cửa sạp có nhiều vạch nhỏ. Quán bờ kè: ông Bảy già hơn, vẫn lau ly, nhìn ra ngã ba: xe đò cũ dừng, bụi. Chậm lại ở khoảnh khắc này: bàn tay Hạ đặt đồng hồ lên quầy, ly trắng, nắng trắng; tiếng bước chân trên cát dừng ở cửa sạp; cắt đen trước khi thấy mặt; tựa phim *KẺ SỐNG SÓT: BÓNG MA*.
 
 * **Bối cảnh chính:** Ngã ba thị trấn Hòn Sóng, bình minh, nhiều năm sau, xe đò, cảng cá, sạp hoa.
-* **Nhân vật trong cảnh:** Sơn, Mây, Hạ, Ông Bảy
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Hạ (@Ha), Ông Bảy (@Ông Bảy)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

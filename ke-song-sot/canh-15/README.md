@@ -2,7 +2,7 @@
 
 **Cảnh 15/60** · Phút 14:00 – 15:00 của phim · Hồi 1: Bảy Ngày · Tập 2/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 14](../canh-14/README.md) | [Cảnh 16 →](../canh-16/README.md)
 
@@ -12,8 +12,8 @@
 Quá khứ: Sơn và Hạ đi dọc bến cảng thành phố, cô cầm một bông ly, khăn xanh bay; đây là lần duy nhất anh đi với cô ngoài tiệm hoa. Cô nói về cô bạn học tên Mây hay trèo lên hải đăng với cô, giờ làm công an thị trấn; cô cười. Nhịp chậm: hai người đứng dưới đèn bến, tàu rú còi xa; mờ dần. Cắt về hiện tại trong một giây: hiên nhà gỗ, Mây cầm đồng hồ.
 
 * **Bối cảnh chính:** Quá khứ, bến cảng thành phố, đêm ám vàng, tàu khách, gió.
-* **Nhân vật trong cảnh:** Sơn, Hạ
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Hạ (@Ha)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

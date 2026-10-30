@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 48/60: Đường Lên Hải Đăng 🌊🕯�
 Sơn phóng xe máy của Thành lên đường vách đá, không mũ (anh đội mũ Thành treo ở xe ngay sau đó), đèn pha cắt sương biển; chân còn run trên cần số.
 Cầu thang xoắn, Sơn leo, tay vịn gỉ, hơi thở ngắn, chân mềm, dừng một bậc, lại leo; tiếng gió hú qua lỗ thông gió tháp.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

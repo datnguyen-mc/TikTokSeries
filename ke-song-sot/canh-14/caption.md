@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 14/60: Hiên Nhà Gỗ 🌊🕯️
 Mây lên hiên; Sơn đã ngồi sẵn ở bàn ngoài hiên với hai ly trà; cô không ngồi, đặt chiếc còng lên bàn.
 Trong lúc nói, Sơn mở nắp đồng hồ quả quýt để xem giờ theo thói quen; Mây thấy trong nắp tấm ảnh nhỏ: một cô gái khăn lụa xanh. Mây khựng lại.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

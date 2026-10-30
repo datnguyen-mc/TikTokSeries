@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 49/60: Bà Hai Bị Bắt 🌊🕯️
 Bà Hai Ngọc ngồi trên ghế đá dưới cột đèn, tẩu đen đã tắt, vòng ngọc trên đùi; Mây tới đứng trước bà, còng trong tay.
 Dũng bị tháo khỏi cửa xe van và còng lại bởi công an tỉnh; đi ngang bà Hai, hắn dừng; bà không nhìn hắn.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

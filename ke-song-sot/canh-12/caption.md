@@ -7,11 +7,11 @@
 Kẻ Sống Sót: Bóng Ma · Tập 12/60: Rừng Dương 🌊🕯️
 
 Sơn khắc vạch thứ ba; tiếng xe đen dừng dưới chân đồi; qua khe ván anh thấy hai người áo đen đi lên giữa rừng dương; anh cầm hộp thiếc, ra cửa sau.
-Mũi tiêm thứ hai; tên thứ nhất nằm xuống cạnh tên thứ hai, hai đôi mắt mở nhìn trời qua tán dương; Sơn thu súng của chúng, tháo đạn ném xuống cát.
+Mũi tiêm thứ hai; tên thứ nhất nằm xuống cạnh tên thứ hai, hai đôi mắt mở nhìn trời qua tán dương; Sơn thu đồ nghề của chúng, tháo lõi ném xuống cát.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

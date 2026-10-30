@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 16/60: Hải Đăng 🌊🕯️
 Mây dẫn Sơn lên hải đăng cũ, cửa sắt rỉ, cầu thang xoắn; lên tới hành lang trên cùng, gió thổi bạt áo; cô chỉ ngôi nhà nhỏ cuối cảng cá.
 Mây bám lan can, gió, không khóc; cô hỏi câu của người giữ luật.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

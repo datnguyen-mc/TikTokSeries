@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 43/60: Bóng Ma Chết 🌊🕯️
 Dũng quỳ xuống bắt mạch cổ Sơn: không thấy; sờ ngực: lạnh; hắn vuốt mắt Sơn nhưng mắt không nhắm; hắn đứng dậy, lắc đầu với Bà Hai.
 Cuối cầu cảng, Mây bật công tắc: cột đèn cảng sáng trắng; tiếng ghe nổ máy đồng loạt; dân thị trấn từ sau thúng, ghe, chợ đứng dậy với lưới và sào; Thành trên nóc hét.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

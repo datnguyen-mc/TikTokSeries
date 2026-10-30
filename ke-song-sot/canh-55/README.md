@@ -2,7 +2,7 @@
 
 **Cảnh 55/60** · Phút 54:00 – 55:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 54](../canh-54/README.md) | [Cảnh 56 →](../canh-56/README.md)
 
@@ -12,8 +12,8 @@
 Sơn tỉnh dậy trên băng ghế; Mây ngồi ghế đối diện với sổ tay mở, máy ghi âm nhỏ trên bàn; cô hỏi anh có khai không. Mây ghi, tay không run; cô hỏi về sổ, về xưởng, về Kiên; anh trả lời đủ, ngắn. Mây đứng dậy ra cửa, dừng lại.
 
 * **Bối cảnh chính:** Phòng giữ của đồn, đêm khuya, cửa sổ song sắt, đèn vàng.
-* **Nhân vật trong cảnh:** Sơn, Mây
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

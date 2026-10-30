@@ -6,12 +6,12 @@
 ```text
 Kẻ Sống Sót: Bóng Ma · Tập 41/60: Tam Giác 🌊🕯️
 
-Tam giác trên cầu cảng: Bà Hai và Dũng bên đông, Kiên giữ Hạ bên tây, Sơn giữa cầm súng rỗng buông thõng; sóng vỗ dưới chân cầu.
-Sơn hạ súng xuống, nhìn hai phe, nhìn Hạ, nhìn mặt trời còn một vạch; giọng anh lần đầu lớn.
+Tam giác trên cầu cảng: Bà Hai và Dũng bên đông, Kiên giữ Hạ bên tây, Sơn giữa cầm bao da rỗng buông thõng; sóng vỗ dưới chân cầu.
+Sơn hạ tay xuống, nhìn hai phe, nhìn Hạ, nhìn mặt trời còn một vạch; giọng anh lần đầu lớn.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

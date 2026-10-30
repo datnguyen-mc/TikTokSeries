@@ -2,7 +2,7 @@
 
 **Cảnh 4/60** · Phút 03:00 – 04:00 của phim · Hồi 1: Bảy Ngày · Tập 1/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 03](../canh-03/README.md) | [Cảnh 05 →](../canh-05/README.md)
 
@@ -12,8 +12,8 @@
 Quá khứ: Sơn vest đen bước vào tiệm hoa nhỏ, chuông cửa kêu; Hạ khăn lụa xanh trên tóc, tạp dề xanh, đang cắt cành ly; cô ngẩng lên, nắng chiều qua kính. Ngày hôm sau (nối liền bằng chuông cửa lần hai): Sơn lại vào, cùng ghế; Hạ đặt sẵn bó ly trắng không hỏi; cô đưa anh ly trà. Sơn ngồi xuống lại, lần đầu nhìn Hạ thay vì tòa nhà; quay chậm: cánh ly rụng lên quầy gỗ.
 
 * **Bối cảnh chính:** Quá khứ, tiệm hoa dưới chân tòa nhà kính của Vũ Kiên, chiều ám vàng, xô hoa ly, quầy gỗ.
-* **Nhân vật trong cảnh:** Sơn, Hạ
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Hạ (@Ha)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

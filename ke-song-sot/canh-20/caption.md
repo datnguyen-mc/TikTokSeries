@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 20/60: Người Thứ Ba 🌊🕯️
 Sơn bật loa ngoài, đặt điện thoại lên bàn hiên; giọng đàn ông qua máy biến đổi, bình tĩnh.
 Im lặng; Mây hỏi "thứ anh mất" là gì; Sơn nhìn khăn lụa trên cổ tay.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

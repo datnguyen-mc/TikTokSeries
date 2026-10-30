@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 3/60: Khách Không Nhìn Biển 🌊🕯️
 Sơn ngồi ở bàn sát bạt, lưng quay ra biển, mặt hướng vào đường; ông Bảy bưng cà phê, nói không ngừng về cá, về giá dầu; Sơn chỉ gật.
 Mây ra xe, nói nhỏ với Thành; Thành lục túi lấy điện thoại; cô nhìn lại quán: Sơn đang nhìn thẳng cô qua gương quán.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

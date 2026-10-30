@@ -2,7 +2,7 @@
 
 **Cảnh 58/60** · Phút 57:00 – 58:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 57](../canh-57/README.md) | [Cảnh 59 →](../canh-59/README.md)
 
@@ -12,8 +12,8 @@
 Trong xe, Sơn còng tay, áo khoác ô liu trở lại, ngồi cạnh cửa kính lưới; Thành ngồi cùng xe áp giải, kính mới, ôm hồ sơ. Sơn đặt bàn tay còng lên kính; cận đồng hồ trong túi ngực, tích tắc; Thành quay mặt đi cho anh nhìn lâu hơn. Thành hỏi nhỏ một câu; Sơn nhìn ra đường.
 
 * **Bối cảnh chính:** Xe chở phạm chạy qua đường chính và bờ kè, sáng, nắng, cửa kính lưới.
-* **Nhân vật trong cảnh:** Sơn, Phó Thành
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Phó Thành (@Phó Thành)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

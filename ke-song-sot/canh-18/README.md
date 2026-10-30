@@ -2,7 +2,7 @@
 
 **Cảnh 18/60** · Phút 17:00 – 18:00 của phim · Hồi 1: Bảy Ngày · Tập 2/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 17](../canh-17/README.md) | [Cảnh 19 →](../canh-19/README.md)
 
@@ -12,8 +12,8 @@
 Hai xe đen dừng chắn ngang đường bờ kè; Dũng Đinh bước xuống, áo ba lỗ đen, khuyên đinh; sáu người theo sau; Dũng đạp đổ một bàn quán ông Bảy. Mây và Thành tới bằng xe máy, Mây xuống xe đứng giữa đường, không rút gì, tay đặt lên còng ở thắt lưng; Thành run nhưng đứng cạnh. Hai xe đen lùi, đi về phía nhà nghỉ đầu thị trấn, không rời đi; Mây cầm khăn lụa, nhận ra màu xanh trong tấm ảnh trong đồng hồ.
 
 * **Bối cảnh chính:** Quán bờ kè, sáng ngày 4, nắng trắng, hai xe đen đỗ chắn đường.
-* **Nhân vật trong cảnh:** Mây, Dũng Đinh, Phó Thành, Ông Bảy
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Mây (@May), Dũng Đinh (@Dũng), Phó Thành (@Phó Thành), Ông Bảy (@Ông Bảy)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

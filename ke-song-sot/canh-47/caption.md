@@ -6,12 +6,12 @@
 ```text
 Kẻ Sống Sót: Bóng Ma · Tập 47/60: Tỉnh 🌊🕯️
 
-Linh nhìn đồng hồ: ba mươi tám; ông tiêm thuốc giải vào cẳng tay Sơn, chậm, hết ống; rút kim; chờ.
+Linh nhìn đồng hồ: ba mươi tám; ông đưa thuốc giải vào cẳng tay Sơn, chậm, hết ống; rút kim; chờ.
 Sơn ngồi dậy, chống tay, ho; Mây đỡ lưng; anh nhìn đồng hồ trong tay mình rồi nhìn Mây.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

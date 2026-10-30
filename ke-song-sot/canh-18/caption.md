@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 18/60: Dũng Đinh Vào Thị Trấn 🌊�
 Hai xe đen dừng chắn ngang đường bờ kè; Dũng Đinh bước xuống, áo ba lỗ đen, khuyên đinh; sáu người theo sau; Dũng đạp đổ một bàn quán ông Bảy.
 Dũng ra hiệu, đàn em dựng bàn; hắn rút từ túi một chiếc khăn lụa xanh nhạt, đặt lên bàn vừa dựng, vuốt phẳng.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

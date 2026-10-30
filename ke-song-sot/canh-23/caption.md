@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 23/60: Trà Của Bà Hai 🌊🕯️
 Sơn ngồi xuống đối diện Bà Hai, Mây đứng sau lưng anh, hai người áo đen sau bình phong; trà bốc khói; bà châm tẩu.
 Hai người áo đen ập ra từ bình phong; Sơn ném ấm trà nóng về phía tên thứ nhất, kéo cuộn lụa đổ xuống tên thứ hai; Mây khóa tay tên bị lụa phủ, còng vào chân bàn lim.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

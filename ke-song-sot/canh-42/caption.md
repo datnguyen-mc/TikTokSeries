@@ -6,12 +6,12 @@
 ```text
 Kẻ Sống Sót: Bóng Ma · Tập 42/60: Hợp Đồng Cuối Cùng 🌊🕯️
 
-Sơn rút từ túi áo trong ống tiêm Tê, giơ lên cho hai phe thấy chất lỏng trong suốt dưới ánh cam cuối.
+Sơn rút từ túi áo trong ống thuốc nhỏ Tê, giơ lên cho hai phe thấy chất lỏng trong suốt dưới ánh cam cuối.
 Sơn ngã mềm xuống cầu cảng, bông ly trắng rơi khỏi túi; Hạ hét; Bà Hai đứng chết lặng; Kiên nhíu mày, chưa tin.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

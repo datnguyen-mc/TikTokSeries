@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 4/60: Quá Khứ: Tiệm Hoa 🌊🕯️
 Quá khứ: Sơn vest đen bước vào tiệm hoa nhỏ, chuông cửa kêu; Hạ khăn lụa xanh trên tóc, tạp dề xanh, đang cắt cành ly; cô ngẩng lên, nắng chiều qua kính.
 Qua kính, Vũ Kiên vest trắng bước ra khỏi sảnh với vệ sĩ; Sơn đứng bật dậy theo phản xạ; Hạ nắm cổ tay anh giữ lại một giây, rồi buông, đỏ mặt.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

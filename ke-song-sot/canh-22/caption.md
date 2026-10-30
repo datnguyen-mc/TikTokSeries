@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 22/60: Tiệm Lụa 🌊🕯️
 Hẻm lụa đêm, mưa phùn; Sơn và Mây tới cửa sau tiệm lụa; Sơn mở khóa bằng một chìa anh vẫn giữ sáu năm; cửa mở không tiếng.
 Sơn không giơ gì, đứng yên; Bà Hai nhìn Mây, nhìn lọn tóc bạc, cười hiền.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

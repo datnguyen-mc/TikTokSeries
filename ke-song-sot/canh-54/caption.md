@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 54/60: Lời Của Hạ 🌊🕯️
 Đồn đêm; Hạ ngồi với ly trà và khăn lụa xanh quấn lại trên cổ; Thành gõ máy; Mây ngồi đối diện với sổ tay.
 Thành ngừng gõ, tháo kính gãy, lau; cậu nói nhỏ một câu khiến hai người phụ nữ bật cười.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 39/60: Hoàng Hôn Cảng Cá 🌊🕯️
 Cảng cá vắng; Mây đặt người: Thành lên nóc chợ với ống nhòm; ông Bảy đậu xe van sau dãy thúng, Bác sĩ Linh ngồi trong với túi; ngư dân nấp sau ghe với lưới.
 Trên nóc chợ, Thành thì thầm vào điện thoại với tỉnh: hai mươi phút nữa; cậu thấy bụi từ hai đầu đường.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 15/60: Quá Khứ: Hạ Kể Về Biển �
 Quá khứ: Sơn và Hạ đi dọc bến cảng thành phố, cô cầm một bông ly, khăn xanh bay; đây là lần duy nhất anh đi với cô ngoài tiệm hoa.
 Hạ tháo khăn lụa xanh quấn vào cổ anh, buộc nút; Sơn đứng yên như người chưa từng được ai buộc gì.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

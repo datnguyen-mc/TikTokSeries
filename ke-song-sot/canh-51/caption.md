@@ -6,12 +6,12 @@
 ```text
 Kẻ Sống Sót: Bóng Ma · Tập 51/60: Tay Không 🌊🕯️
 
-Kiên vung súng như vung gậy, Sơn bắt cổ tay, xoay; hai người ép vào lan can sắt kêu rít; Hạ bò vào trong cửa tháp.
+Kiên vung tay như vung gậy, Sơn bắt cổ tay, xoay; hai người ép vào lan can sắt kêu rít; Hạ bò vào trong cửa tháp.
 Sơn khóa tay Kiên ra sau, ép xuống sàn; Hạ từ trong cửa tháp bước ra, cầm chiếc khăn lụa xanh Mây nhét vào tay cô ở cảng; cô dùng khăn trói hai cổ tay Kiên vào chân lan can.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 7/60: Mây Gõ Cửa 🌊🕯️
 Sơn khắc vạch thứ hai lên khung cửa; tiếng xe máy dưới đồi; anh gạt mạt gỗ, mở radio cho có tiếng, ngồi xuống bàn với tô cơm.
 Mây ra hiên, nhìn xuống thị trấn, nói lưng quay về phía anh, giọng không đe dọa.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

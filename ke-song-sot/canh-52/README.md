@@ -2,7 +2,7 @@
 
 **Cảnh 52/60** · Phút 51:00 – 52:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 51](../canh-51/README.md) | [Cảnh 53 →](../canh-53/README.md)
 
@@ -12,8 +12,8 @@
 Sơn rút đồng hồ quả quýt khỏi túi, kính nứt; lần đầu anh bấm chốt mở nắp trước mặt Hạ. Sơn lên dây; đồng hồ tích tắc lại; anh áp vào tai cô như cô từng áp vào tai anh. Một nhịp quay chậm: Hạ tựa trán vào vai anh như ở tiệm hoa; tiếng bước chân nhiều người lên cầu thang xoắn; Sơn nhắm mắt một giây rồi mở.
 
 * **Bối cảnh chính:** Đỉnh hải đăng, đêm, gió ngớt, sao, đèn pin.
-* **Nhân vật trong cảnh:** Sơn, Hạ
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Hạ (@Ha)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

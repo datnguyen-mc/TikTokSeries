@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 33/60: Quá Khứ: Đêm Cuối Với Hạ �
 Quá khứ: tiệm hoa đêm, Hạ ngồi trên quầy đung đưa chân, Sơn đứng dựa cửa; cô biết mai là "việc cuối".
 Hạ tắt đèn tiệm, chỉ còn đèn đường vàng qua kính; hai người đứng giữa hoa; cô tựa trán vào vai anh.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

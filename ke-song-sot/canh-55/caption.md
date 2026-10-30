@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 55/60: Lời Khai 🌊🕯️
 Sơn tỉnh dậy trên băng ghế; Mây ngồi ghế đối diện với sổ tay mở, máy ghi âm nhỏ trên bàn; cô hỏi anh có khai không.
 Sơn gật, rút đồng hồ nhìn giờ, lần đầu dùng nó như một cái đồng hồ.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

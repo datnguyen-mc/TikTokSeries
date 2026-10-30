@@ -2,7 +2,7 @@
 
 **Cảnh 57/60** · Phút 56:00 – 57:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 56](../canh-56/README.md) | [Cảnh 58 →](../canh-58/README.md)
 
@@ -12,8 +12,8 @@
 Hai người phụ nữ đi dọc cầu cảng, ghe cá về, mùi cá, nắng; Hạ dừng ở ghế đá cột đèn nơi bà Hai ngồi đêm qua. Mây hỏi về Sơn: tỉnh đưa đi sáng nay; án sẽ lâu; Hạ nhìn hải đăng. Tiếng xe từ đồn: xe chở phạm của tỉnh lăn bánh ra đường chính; Hạ không chạy, đứng yên ở cầu cảng với bó ly trắng cô vừa mua ở chợ.
 
 * **Bối cảnh chính:** Cầu cảng, sáng ngày 8, ghe về, nắng trắng, cột đèn.
-* **Nhân vật trong cảnh:** Mây, Hạ
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Mây (@May), Hạ (@Ha)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

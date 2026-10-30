@@ -6,12 +6,12 @@
 ```text
 Kẻ Sống Sót: Bóng Ma · Tập 50/60: Hải Đăng: Kiên 🌊🕯️
 
-Sơn nhô lên hành lang tròn, hai tay trống giơ ngang vai; Kiên lùi, một tay giữ Hạ, tay kia giơ súng lên; gió bạt vest trắng.
-Kiên chĩa súng vào Sơn ở khoảng cách hai mét; quay chậm: tay ông ta run, lần đầu; Sơn nhìn nòng súng như nhìn một cánh cửa.
+Sơn nhô lên hành lang tròn, hai tay trống giơ ngang vai; Kiên lùi, một tay giữ Hạ, tay kia giơ vật thép lên; gió bạt vest trắng.
+Kiên giơ vật thép vào Sơn ở khoảng cách hai mét; quay chậm: tay ông ta run, lần đầu; Sơn nhìn mép thép như nhìn một cánh cửa.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

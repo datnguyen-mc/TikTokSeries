@@ -6,12 +6,12 @@
 ```text
 Kẻ Sống Sót: Bóng Ma · Tập 28/60: Quá Khứ: Cánh Cửa Đầu Tiên 🌊🕯️
 
-Quá khứ: hành lang chung cư cũ, mưa qua cửa sổ vỡ; Sơn trẻ hơn mười tuổi (cùng gương mặt, tóc chưa bạc) vest đen đứng trước một cánh cửa gỗ, găng da, tay cầm bao súng chưa mở.
-Mây (áo kaki trở lại) bước vào, thấy súng trên bàn, dừng ở cửa.
+Quá khứ: hành lang chung cư cũ, mưa qua cửa sổ vỡ; Sơn vest đen đứng trước một cánh cửa gỗ, găng da, tay cầm bao da chưa mở.
+Mây (áo kaki trở lại) bước vào, thấy bao da trên bàn, dừng ở cửa.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

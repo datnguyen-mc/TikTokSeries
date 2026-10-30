@@ -2,7 +2,7 @@
 
 **Cảnh 19/60** · Phút 18:00 – 19:00 của phim · Hồi 1: Bảy Ngày · Tập 2/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 18](../canh-18/README.md) | [Cảnh 20 →](../canh-20/README.md)
 
@@ -12,8 +12,8 @@
 Mây đặt khăn lụa xanh lên bàn nhà gỗ; Sơn nhìn, không chạm trong ba giây, rồi cầm lên: đầu khăn rách đúng chỗ anh nhớ. Mây nói Dũng ở lại thị trấn, anh đi thì thị trấn gánh; Sơn nói Dũng ở lại tức là Bà Hai đang trống phía sau. Sơn quấn khăn lụa quanh cổ tay như ngày tiệm hoa; điện thoại cũ trong túi vải rung: số lạ. Anh nhìn Mây.
 
 * **Bối cảnh chính:** Nhà gỗ, trưa ngày 4, nắng gắt, gió ngừng.
-* **Nhân vật trong cảnh:** Sơn, Mây
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

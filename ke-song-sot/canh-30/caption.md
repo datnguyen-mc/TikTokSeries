@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 30/60: Chợ Cá 🌊🕯️
 Trong chợ, Sơn đi giữa hai dãy sạp; sáu tên tản ra; anh lật một thúng đá vào chân tên gần nhất, khóa tay đập xuống bàn đá.
 Máy chậm dần: Dũng và Sơn đối mặt giữa đá lạnh; Dũng không đánh; hắn lùi về xe, để lại lời nhắn.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

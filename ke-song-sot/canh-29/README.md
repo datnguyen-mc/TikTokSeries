@@ -2,7 +2,7 @@
 
 **Cảnh 29/60** · Phút 28:00 – 29:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 28](../canh-28/README.md) | [Cảnh 30 →](../canh-30/README.md)
 
@@ -12,8 +12,8 @@
 Sơn và Mây xuống đồi vào thị trấn: đường chính vắng, cửa tiệm đóng, hai xe đen trước quán ông Bảy, Rắn Đen ngồi uống cà phê của ông Bảy như chủ. Mây muốn đi thẳng vào; Sơn giữ tay: sáu tên, một con tin, một ông già; cô là người giữ luật, anh là người Rắn Đen muốn. Sơn quay lưng đi vào chợ cá; Dũng ra hiệu, bọn đàn em đi theo; Mây lẻn vào quán cởi trói cho Thành qua cửa sau.
 
 * **Bối cảnh chính:** Hòn Sóng, sáng ngày 6, quán bờ kè bị chiếm, xe đen, dân thị trấn đóng cửa.
-* **Nhân vật trong cảnh:** Sơn, Mây, Dũng Đinh, Phó Thành, Ông Bảy
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Dũng Đinh (@Dũng), Phó Thành (@Phó Thành), Ông Bảy (@Ông Bảy)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

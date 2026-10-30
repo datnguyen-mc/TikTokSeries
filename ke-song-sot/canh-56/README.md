@@ -2,7 +2,7 @@
 
 **Cảnh 56/60** · Phút 55:00 – 56:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 55](../canh-55/README.md) | [Cảnh 57 →](../canh-57/README.md)
 
@@ -12,8 +12,8 @@
 Quán bờ kè đông kín; ông Bảy vặn radio to; bản tin: đường dây Rắn Đen và một doanh nhân xây dựng bị bắt tại một thị trấn biển; dân chợ ồ lên. Mây ngồi bàn Sơn từng ngồi, quay mặt ra biển, tờ báo (không chữ) gấp đôi, ly cà phê; cô không đọc, chỉ nhìn biển. Mây ngẩng lên: ở bàn cuối, Hạ ngồi một mình, nhìn biển, khăn xanh; Mây cầm ly đứng dậy đi tới.
 
 * **Bối cảnh chính:** Quán bờ kè, sáng ngày 8, nắng, radio, tờ báo.
-* **Nhân vật trong cảnh:** Mây, Hạ, Phó Thành, Bác sĩ Linh, Ông Bảy
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Mây (@May), Hạ (@Ha), Phó Thành (@Phó Thành), Bác sĩ Linh (@Bác sĩ Linh), Ông Bảy (@Ông Bảy)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

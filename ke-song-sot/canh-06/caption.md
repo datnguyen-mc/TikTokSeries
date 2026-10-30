@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 6/60: Quá Khứ: Lời Xin Của Hạ 🌊�
 Quá khứ: tiệm hoa kéo rèm, Sơn ngồi phòng sau, Hạ rót trà; trên bàn, bên cạnh kéo cắt hoa, là một tờ báo (không chữ) có ảnh Vũ Kiên; Hạ nhìn ảnh rồi nhìn anh.
 Hạ lấy từ ngăn kéo một đồng hồ quả quýt bạc, nắp khắc hoa; cô đặt vào bàn tay trần của anh, khép tay anh lại.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

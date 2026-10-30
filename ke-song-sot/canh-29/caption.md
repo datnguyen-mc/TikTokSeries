@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 29/60: Thị Trấn Bị Chiếm 🌊🕯️
 Sơn và Mây xuống đồi vào thị trấn: đường chính vắng, cửa tiệm đóng, hai xe đen trước quán ông Bảy, Rắn Đen ngồi uống cà phê của ông Bảy như chủ.
 Dũng bước ra, sáu tên theo, dàn hàng trên đường; dân thị trấn hé cửa; ông Bảy đứng ở cửa quán.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

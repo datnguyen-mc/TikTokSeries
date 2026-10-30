@@ -6,12 +6,12 @@
 ```text
 Kẻ Sống Sót: Bóng Ma · Tập 5/60: Sổ Đen 🌊🕯️
 
-Sơn đổ túi vải lên bàn: một cuốn sổ bìa da đen, một hộp thiếc có ba lọ thủy tinh trong và một ống tiêm, một khẩu súng ngắn trong bao da, bó áo quần.
+Sơn đổ túi vải lên bàn: một cuốn sổ bìa da đen, một hộp thiếc có ba lọ thủy tinh trong và một ống thuốc nhỏ, một vật thép khóa trong bao da, bó áo quần.
 Tiếng bước chân ngoài hiên; Sơn úp sổ, đậy hộp; ông Bảy bưng cà mên cơm cá kho bước vào không gõ, mắt dừng ở đôi găng da trên bàn.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

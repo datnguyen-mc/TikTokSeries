@@ -2,18 +2,18 @@
 
 **Cảnh 47/60** · Phút 46:00 – 47:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 46](../canh-46/README.md) | [Cảnh 48 →](../canh-48/README.md)
 
 ---
 
 ## 1. Tóm tắt cảnh
-Linh nhìn đồng hồ: ba mươi tám; ông tiêm thuốc giải vào cẳng tay Sơn, chậm, hết ống; rút kim; chờ. Mười giây im; Linh đặt ống nghe; Mây nín thở; ngoài xe Dũng cũng im. Sơn bước xuống xe, chân còn mềm, vịn cửa; Dũng còng ở tay nắm nhìn anh như nhìn ma; Sơn cầm chìa xe máy Thành treo ở gương.
+Linh nhìn đồng hồ: ba mươi tám; ông đưa thuốc giải vào cẳng tay Sơn, chậm, hết ống; rút kim; chờ. Mười giây im; Linh đặt ống nghe; Mây nín thở; ngoài xe Dũng cũng im. Sơn bước xuống xe, chân còn mềm, vịn cửa; Dũng còng ở tay nắm nhìn anh như nhìn ma; Sơn cầm chìa xe máy Thành treo ở gương.
 
 * **Bối cảnh chính:** Trong xe van, đêm, đèn pin, đồng hồ bấm giờ.
-* **Nhân vật trong cảnh:** Sơn, Mây, Dũng Đinh, Bác sĩ Linh
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Dũng Đinh (@Dũng), Bác sĩ Linh (@Bác sĩ Linh)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---
@@ -22,7 +22,7 @@ Linh nhìn đồng hồ: ba mươi tám; ông tiêm thuốc giải vào cẳng t
 
 | Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
 |:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Linh nhìn đồng hồ: ba mươi tám; ông tiêm thuốc giải vào cẳng tay Sơn, chậm, hết ống; rút kim; chờ.** | Bác sĩ Linh: "Ba mươi tám. Tiêm." | Ingredients (khóa mặt & bối cảnh) |
+| 1 | 00:00–00:10 | **Linh nhìn đồng hồ: ba mươi tám; ông đưa thuốc giải vào cẳng tay Sơn, chậm, hết ống; rút kim; chờ.** | Bác sĩ Linh: "Ba mươi tám. Đưa thuốc." | Ingredients (khóa mặt & bối cảnh) |
 | 2 | 00:10–00:20 | **Cận mặt Sơn: mắt mở không đổi; lời dẫn.** | Sơn (Voice-over): "Thuốc giải nóng như trà bà Hai." · Sơn (Voice-over): "Tôi đợi tim tôi nhớ việc của nó." | Frames / Extend (nối liền) |
 | 3 | 00:20–00:30 | **Mười giây im; Linh đặt ống nghe; Mây nín thở; ngoài xe Dũng cũng im.** | Mây: "Linh..." · Bác sĩ Linh: "Chờ." | Frames / Extend (nối liền) |
 | 4 | 00:30–00:40 | **Máy chậm dần: ngón tay Sơn siết đồng hồ; ngực nhô; anh hít một hơi dài như người ngoi từ đáy biển; mắt chớp lần đầu sau bốn mươi phút.** | — | Frames / Extend (nối liền) |

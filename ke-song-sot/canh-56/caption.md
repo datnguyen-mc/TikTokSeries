@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 56/60: Sổ Đen Lên Báo 🌊🕯️
 Quán bờ kè đông kín; ông Bảy vặn radio to; bản tin: đường dây Rắn Đen và một doanh nhân xây dựng bị bắt tại một thị trấn biển; dân chợ ồ lên.
 Ông Bảy mang tới một đĩa cá kho, nói hôm nay không lấy tiền; Mây hỏi quán có khách lạ nào nữa không.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

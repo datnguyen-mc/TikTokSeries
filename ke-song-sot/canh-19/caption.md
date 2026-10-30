@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 19/60: Khăn Lụa 🌊🕯️
 Mây đặt khăn lụa xanh lên bàn nhà gỗ; Sơn nhìn, không chạm trong ba giây, rồi cầm lên: đầu khăn rách đúng chỗ anh nhớ.
 Sơn nhìn cô, lần đầu nói một câu dài hơn tám chữ.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

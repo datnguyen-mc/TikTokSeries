@@ -7,11 +7,11 @@
 Kẻ Sống Sót: Bóng Ma · Tập 37/60: Điều Kiện 🌊🕯️
 
 Xe trắng rời đi về phía nhà nghỉ đầu thị trấn; Mây kéo Sơn ra sau quán, giọng thấp mà dữ.
-Mây đưa lại băng đạn; Sơn từ chối, đẩy tay cô về.
+Mây đưa lại lõi kim loại; Sơn từ chối, đẩy tay cô về.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

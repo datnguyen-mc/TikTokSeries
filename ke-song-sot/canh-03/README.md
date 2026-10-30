@@ -2,7 +2,7 @@
 
 **Cảnh 3/60** · Phút 02:00 – 03:00 của phim · Hồi 1: Bảy Ngày · Tập 1/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 02](../canh-02/README.md) | [Cảnh 04 →](../canh-04/README.md)
 
@@ -12,8 +12,8 @@
 Sơn ngồi ở bàn sát bạt, lưng quay ra biển, mặt hướng vào đường; ông Bảy bưng cà phê, nói không ngừng về cá, về giá dầu; Sơn chỉ gật. Mây bước vào quán, ngồi bàn bên, gọi cà phê; cô nhìn giày Sơn: giày da mòn gót đều, không phải giày du lịch; nhìn tay anh: vết chai ở ngón trỏ. Sơn đặt tiền lên bàn, đi về phía đồi; cận bàn tay anh vô thức chạm vào dây đồng hồ. Quay chậm: bóng anh trên cát.
 
 * **Bối cảnh chính:** Quán cà phê bờ kè của ông Bảy, sáng ngày 1, nắng trắng, bạt xanh, ghe cá.
-* **Nhân vật trong cảnh:** Sơn, Mây, Phó Thành, Ông Bảy
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Phó Thành (@Phó Thành), Ông Bảy (@Ông Bảy)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

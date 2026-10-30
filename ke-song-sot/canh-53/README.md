@@ -2,7 +2,7 @@
 
 **Cảnh 53/60** · Phút 52:00 – 53:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 52](../canh-52/README.md) | [Cảnh 54 →](../canh-54/README.md)
 
@@ -12,8 +12,8 @@
 Mây và Thành nhô lên hành lang với hai công an tỉnh; Kiên bị khăn lụa trói vào lan can; Hạ và Sơn ngồi dựa tường; Mây dừng, thở, nhìn ba người. Mây quay sang Sơn; cô rút còng; cô là người giữ luật; Sơn đứng dậy trước khi cô nói. Đoàn người xuống cầu thang xoắn: Kiên trước, Sơn còng tay giữa, Hạ và Mây sau; đèn hải đăng cũ, do Thành bật nhầm công tắc, bỗng sáng, quét một vòng trên biển.
 
 * **Bối cảnh chính:** Đỉnh hải đăng, đêm, đèn pin công an, gió.
-* **Nhân vật trong cảnh:** Sơn, Mây, Hạ, Vũ Kiên, Phó Thành
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Hạ (@Ha), Vũ Kiên (@Vũ Kiên), Phó Thành (@Phó Thành)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

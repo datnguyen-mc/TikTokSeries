@@ -1,8 +1,8 @@
 Continue the scene seamlessly from the final frame of clip 2, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. No blood and no on-screen shooting. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
 
 [CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, handcuffs on her belt, no insignia; firm, dry Southern female voice.
+@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
 @Bác sĩ Linh = BÁC SĨ LINH: 55, thin, grey hair, wire glasses, worn white coat, stethoscope; tired, precise Southern male voice.
 
 [SETTING]
@@ -14,15 +14,15 @@ Scene 13/60, timecode 12:00 – 13:00, clip 3/6 (20–30s of the scene). Atmosph
 Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
 [SHOT LIST]
-00:00–00:03.5 | Handheld 35mm close, breathing with the actor — Máy ở nguyên chỗ, hành động đi tiếp: Mây hỏi ai ở thị trấn có thứ này; khay kim loại sáng.
-00:03.5–00:07.0 | 85mm close on the eyes, long hold — Linh lắc đầu: không ai. Thoại khớp môi, người nghe ở nửa khung còn lại: Mây: "Thị trấn tôi ai có?" · Linh: "Không ai. Trừ người của Rắn Đen."
-00:07.0–00:10.0 | Static 35mm, the gesture finishing — thứ này chỉ người trong đường dây mới có. Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
+00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Máy ở nguyên chỗ, hành động đi tiếp: Mây (@May) hỏi ai ở thị trấn có thứ này; khay kim loại sáng.
+00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Bác sĩ Linh (@Bác sĩ Linh) lắc đầu: không ai. Thoại khớp môi, người nghe ở nửa khung còn lại: Mây (@May): "Thị trấn tôi ai có?" · Bác sĩ Linh (@Bác sĩ Linh): "Không ai. Trừ người của Rắn Đen."
+00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — thứ này chỉ người trong đường dây mới có. Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
 
 [SOUND]
 Âm thanh nền: đồng hồ bấm giờ tích tắc; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
 
 [END FRAME]
-End on: Linh lắc đầu: không ai. Hold that exact frame still for 0.5s; clip 4 starts from it.
+End on: Bác sĩ Linh (@Bác sĩ Linh) lắc đầu: không ai. Hold that exact frame still for 0.5s; clip 4 starts from it.
 
 [AVOID]
-blood, gore, visible wounds, on-screen shooting, muzzle flashes, bullet hits on people, deaths on camera, torture, drug use for pleasure, suicide, knives used on people, real brand logos, readable signs or documents, real police insignia, watermarks, text overlays, extra fingers, cartoon or anime look, slow sluggish motion, blurry motion smear, likeness of any real actor.
+subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.

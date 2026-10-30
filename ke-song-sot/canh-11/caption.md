@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 11/60: Bảy Vạch 🌊🕯️
 Đêm, Sơn ngồi trước khung cửa, đèn dầu, cuốn sổ đen mở; hai vạch trên gỗ; anh nói với chính mình.
 Mây nhìn lại ống nhòm: Sơn đang mở nắp đồng hồ quả quýt, nhìn vào trong lâu hơn một người xem giờ, rồi đóng lại; cô không hiểu, nhưng thấy mặt anh.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

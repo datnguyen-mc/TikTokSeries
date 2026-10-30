@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 25/60: Phòng Trọ 🌊🕯️
 Phòng trọ, rèm kéo; Mây băng cổ tay Sơn bị cột bê tông cứa (không máu, chỉ sưng) bằng băng vải; anh ngồi trên giường, vest cởi, sổ đỏ trên gối.
 Sơn mở sổ đỏ: chữ ký Bà Hai, và một trang chữ ký thứ hai, nét bay bướm: Vũ Kiên nhận tiền; anh chụp lại bằng điện thoại cũ.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

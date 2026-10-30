@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 53/60: Ngày Thứ Bảy Không Chạy 🌊�
 Mây và Thành nhô lên hành lang với hai công an tỉnh; Kiên bị khăn lụa trói vào lan can; Hạ và Sơn ngồi dựa tường; Mây dừng, thở, nhìn ba người.
 Hạ nắm bàn tay bị còng của anh, nhét đồng hồ vào túi ngực anh lại.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

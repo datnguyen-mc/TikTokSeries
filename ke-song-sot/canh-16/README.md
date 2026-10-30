@@ -2,7 +2,7 @@
 
 **Cảnh 16/60** · Phút 15:00 – 16:00 của phim · Hồi 1: Bảy Ngày · Tập 2/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 15](../canh-15/README.md) | [Cảnh 17 →](../canh-17/README.md)
 
@@ -12,8 +12,8 @@
 Mây dẫn Sơn lên hải đăng cũ, cửa sắt rỉ, cầu thang xoắn; lên tới hành lang trên cùng, gió thổi bạt áo; cô chỉ ngôi nhà nhỏ cuối cảng cá. Mây hỏi thẳng: Hạ đâu. Sơn nhìn biển, nói câu anh chưa nói với ai. Mây quay sang anh, gương mặt cứng lại thành quyết định; cô chìa tay lấy cuốn sổ.
 
 * **Bối cảnh chính:** Hải đăng cũ trên vách đá, chiều tối ngày 3, gió lớn, cỏ dài, biển xám.
-* **Nhân vật trong cảnh:** Sơn, Mây
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---
@@ -26,7 +26,7 @@ Mây dẫn Sơn lên hải đăng cũ, cửa sắt rỉ, cầu thang xoắn; lê
 | 2 | 00:10–00:20 | **Mây kể: hai đứa trèo lên đây mỗi chiều, Hạ nói sẽ lên thành phố làm hoa rồi về mở tiệm ở cảng; Mây ở lại làm công an để "giữ chỗ".** | Mây: "Nó đi làm hoa. Tôi ở lại giữ chỗ." | Frames / Extend (nối liền) |
 | 3 | 00:20–00:30 | **Mây hỏi thẳng: Hạ đâu. Sơn nhìn biển, nói câu anh chưa nói với ai.** | Mây: "Hạ đâu?" · Sơn: "Rắn Đen bắt cô ấy. Vì tôi." | Frames / Extend (nối liền) |
 | 4 | 00:30–00:40 | **Sơn kể ngắn: cô ấy xin anh bỏ nghề, anh từ chối, đêm đó anh bị gài, sáng ra tiệm hoa tan hoang, cuộc gọi của Bà Hai.** | Sơn: "Bà Hai nói: cô ấy bỏ trước." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Mây bám lan can, gió, không khóc; cô hỏi câu của người giữ luật.** | Mây: "Xác đâu?" · Sơn: "Không ai cho tôi xác." · Mây: "Vậy chưa chắc." | Frames / Extend (nối liền) |
+| 5 | 00:40–00:50 | **Mây bám lan can, gió, không khóc; cô hỏi câu của người giữ luật.** | Mây: "Tung tích đâu?" · Sơn: "Không ai cho thấy tung tích." · Mây: "Vậy chưa chắc." | Frames / Extend (nối liền) |
 | 6 | 00:50–01:00 | **Mây quay sang anh, gương mặt cứng lại thành quyết định; cô chìa tay lấy cuốn sổ.** | Mây: "Sổ. Tối nay ở đồn. Với tư cách bạn của Hạ." | Frames / Extend (nối liền) |
 
 ---

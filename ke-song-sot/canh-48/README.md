@@ -2,7 +2,7 @@
 
 **Cảnh 48/60** · Phút 47:00 – 48:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
 **Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
 
 [← Cảnh 47](../canh-47/README.md) | [Cảnh 49 →](../canh-49/README.md)
 
@@ -12,8 +12,8 @@
 Sơn phóng xe máy của Thành lên đường vách đá, không mũ (anh đội mũ Thành treo ở xe ngay sau đó), đèn pha cắt sương biển; chân còn run trên cần số. Cắt: dưới cảng, công an tỉnh (không phù hiệu đọc được) tràn vào cầu cảng, còng người Rắn Đen và vệ sĩ Kiên; Mây chỉ lên hải đăng, Thành dẫn một tổ theo. Trên hành lang đỉnh tháp: Kiên giữ Hạ sát lan can, súng rút khỏi bao giơ lên trời, tóc rối, vest trắng bẩn; ông ta nghe bước chân.
 
 * **Bối cảnh chính:** Đường vách đá lên hải đăng, đêm, đèn xe máy, gió biển, không đèn đường.
-* **Nhân vật trong cảnh:** Sơn, Mây, Hạ, Vũ Kiên, Phó Thành
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; không máu, không bắn vào người, không ai chết trên hình.
+* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Hạ (@Ha), Vũ Kiên (@Vũ Kiên), Phó Thành (@Phó Thành)
+* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
 * **Thời lượng:** Đúng 60 giây.
 
 ---

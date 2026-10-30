@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 52/60: Mở Đồng Hồ 🌊🕯️
 Sơn rút đồng hồ quả quýt khỏi túi, kính nứt; lần đầu anh bấm chốt mở nắp trước mặt Hạ.
 Sơn cười, lần đầu trong phim, một tiếng ngắn; anh kể anh khắc bảy.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 58/60: Xe Chở Phạm 🌊🕯️
 Trong xe, Sơn còng tay, áo khoác ô liu trở lại, ngồi cạnh cửa kính lưới; Thành ngồi cùng xe áp giải, kính mới, ôm hồ sơ.
 Xe rời thị trấn, qua ngã ba nơi anh xuống xe đò bảy ngày trước; cột biển không chữ; biển trắng phía sau.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

@@ -9,9 +9,9 @@ Kẻ Sống Sót: Bóng Ma · Tập 60/60: Chuyến Xe Bình Minh 🌊🕯️
 Bình minh, nhiều năm sau (nắng, cùng ngã ba, cột biển bạc hơn): sạp hoa ly trắng ở đầu chợ cá; Hạ, tóc dài hơn, khăn xanh, xếp hoa; khung cửa sạp có nhiều vạch nhỏ.
 Ở sạp hoa, Hạ ngẩng lên khi nghe tiếng xe đò đi; cô không chạy; cô mở ngăn kéo lấy một chiếc đồng hồ quả quýt y hệt, mặt kính không nứt, lên dây.
 
-"Bóng ma không chết. Bóng ma chỉ hết việc."
+"Bóng ma không biến mất. Bóng ma chỉ hết việc."
 📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng, không bắt chước.
+Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
 
 #kesongsot #bongma #phimhanhdong #phimle #phimvietai
 ```

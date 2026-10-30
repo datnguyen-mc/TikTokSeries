@@ -1,12 +1,12 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities and current appearances]
-@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
-@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
-
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear, expressive Southern Vietnamese female voice.
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
 
 
 [TIMELINE AND LOCATION]
@@ -19,22 +19,22 @@ Let recognition of Sơn's changed hands become a shared practical understanding,
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 50.3, ending with Kiên facing the main entrance, service side outside his attention.
-Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 50.3, ending with Kiên facing the main entrance, service side outside his attention. Final physical lock: She remains at the entrance with visible hands while the existing officer reaches the service side beyond Kiên's attention.
+Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Hạ recognizing Sơn's bare hands and bandaged left wrist behind Mây.
+Hạ recognizing Sơn's bare hands and bandaged left wrist behind Mây. Framing: Close on Hạ's face with Sơn behind Mây on her eyeline, no new spatial crossing.
 
 [CAMERA]
-85mm close-up at eye level, restrained natural depth of field. No orbit or chase movement.
+85mm tight close-up at eye level, natural depth of field. Crisp facial micro-expressions and rapid vocal delivery, no orbit.
 One new coverage angle on the established side of the axis. Never cut internally.
 Composition: Close on Hạ's face with Sơn behind Mây on her eyeline, no new spatial crossing.
 Focus: Keep the glance legible through eye movement and head angle, without an impossible reflected close-up of the cable.
 
-[ACTION — 0–10s, one evolving take]
-She gives him the same small downward glance used beside the old hatch.
-Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The exchange should take one look, then a quiet recognition beat, leaving the physical move for later.
+[ACTION — 0–10s, one brisk evolving take]
+Beat 1 (0.0–3.0s): She gives him the same small downward glance used beside the old hatch. Beat 2 (3.0–6.5s): Hạ makes one small downward glance toward the existing backup-light cable, Sơn follows it without stepping forward. Beat 3 (6.5–10.0s): Her fear turns into concentration; his response is a barely perceptible readiness, not an exaggerated nod, settling crisply into the end frame as lEFT wrist bandage and bare hands remain visible where framed; no lily or recovered scarf appears yet.
+Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The exchange should take one look, then a quiet recognition beat, leaving the physical move for later; keep movement and speech brisk from 0.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Hạ makes one small downward glance toward the existing backup-light cable, Sơn follows it without stepping forward.
@@ -42,11 +42,13 @@ Performance: Her fear turns into concentration; his response is a barely percept
 
 
 [DIALOGUE]
-No speech, narration or improvised vocal filler. Play the action and location sound.
+0.2–8.3s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
+Hạ (@Ha), nói trong hình: Em vẫn bình tĩnh lắm anh Sơn, nhìn theo ánh mắt em liếc xuống dưới sàn kỹ thuật kìa, cần gạt đèn dự phòng đang chờ tín hiệu đó.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 
 [VISIBLE TEXTURE]
 LEFT wrist bandage and bare hands remain visible where framed; no lily or recovered scarf appears yet.
@@ -55,11 +57,11 @@ LEFT wrist bandage and bare hands remain visible where framed; no lily or recove
 [SOUND]
 Location bed: strong sea wind, fabric and restrained footsteps.
 Foreground sound: Only existing wind and a faint cable rattle, no whisper or extra cue line added.
-Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn following Hạ's eyeline toward the backup-light cable.
+Sơn following Hạ's eyeline toward the backup-light cable. Final physical lock: Hạ makes one small downward glance toward the existing backup-light cable, Sơn follows it without stepping forward.
 Next shot 50.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

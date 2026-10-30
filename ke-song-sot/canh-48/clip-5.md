@@ -1,8 +1,8 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities and current appearances]
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. one glasses arm bent, held by tape after rescue. Voice: quick, polite Southern Vietnamese male voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses arm bent, held by tape after rescue. Voice: quick, polite, alert Southern Vietnamese male voice.
 
 
 
@@ -16,22 +16,22 @@ Make a tiny survival decision become an actual route for other people.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 48.4, ending with Service hatch still ajar, Kiên LEFT-hand handgun low and RIGHT hand again holding Hạ LEFT upper arm; Hạ has seen the gap remain.
-Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 48.4, ending with Service hatch still ajar, Kiên LEFT-hand handgun low and RIGHT hand again holding Hạ LEFT upper arm; Hạ has seen the gap remain. Final physical lock: Kiên tests the latch with RIGHT hand while keeping LEFT-hand gun low, then regrips Hạ LEFT upper arm before moving her upward.
+Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-An officer's hand reaching the same hatch from below, Thành behind him.
+An officer's hand reaching the same hatch from below, Thành behind him. Framing: Hold the detail on the already ajar latch, an assisting hand reaching from below, Thành behind.
 
 [CAMERA]
-85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+85mm brisk detail shot. Hands and the relevant object move decisively from 0.0s; spatially readable with zero hesitation.
 One new coverage angle on the established side of the axis. Never cut internally.
 Composition: Hold the detail on the already ajar latch, an assisting hand reaching from below, Thành behind.
 Focus: Keep clip and latch legible in one plane, with background bodies only as spatial context.
 
-[ACTION — 0–10s, one evolving take]
-The officer recognizes the existing clip and holds the hatch open. After the first bodies clear the gap, Thành retrieves the silver clip into his RIGHT palm and follows the same route quietly.
-Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Begin with the gap Hạ left, complete one retrieval after clearance, end with hatch held open and clip safely recovered.
+[ACTION — 0–10s, one brisk evolving take]
+Beat 1 (0.0–3.0s): The officer recognizes the existing clip and holds the hatch open. After the first bodies clear the gap, Thành retrieves the silver clip into his RIGHT palm and follows the same route quietly. Beat 2 (3.0–6.5s): The officer holds the hatch open after entry; Thành retrieves the existing clip once the first bodies have cleared the gap. Beat 3 (6.5–10.0s): Their restraint contrasts with Kiên's earlier urgency, and Thành's report carries recognition rather than praise, settling crisply into the end frame as no new tool opens the hatch; the recovered clip stays in Thành RIGHT palm, not simultaneously still in the latch.
+Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Begin with the gap Hạ left, complete one retrieval after clearance, end with hatch held open and clip safely recovered; keep movement and speech brisk from 0.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: The officer holds the hatch open after entry; Thành retrieves the existing clip once the first bodies have cleared the gap.
@@ -39,9 +39,8 @@ Performance: Their restraint contrasts with Kiên's earlier urgency, and Thành'
 
 
 [DIALOGUE]
-0.8–3.8s, one unhurried line. Voice through the established device; no caller body in this shot.
-
-Thành, qua thiết bị: Con tin để cửa cho mình.
+0.2–9.4s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice through the established device; no caller body in this shot.
+Thành, qua thiết bị: Báo cáo chỉ huy Mây, con tin đã khéo léo dùng chiếc kẹp tóc bạc chèn giữ nắp cửa phụ không bị khóa, tổ một đã lọt qua và đang giữ vị trí!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +54,11 @@ No new tool opens the hatch; the recovered clip stays in Thành RIGHT palm, not 
 [SOUND]
 Location bed: metal latch, careful footsteps and distant sea wind.
 Foreground sound: Careful metal contact and low radio compression replace loud entry sounds that would contradict their quiet approach.
-Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Hatch held open by the officer, recovered clip in Thành RIGHT palm, Thành following through the gap.
+Hatch held open by the officer, recovered clip in Thành RIGHT palm, Thành following through the gap. Final physical lock: The officer holds the hatch open after entry; Thành retrieves the existing clip once the first bodies have cleared the gap.
 Next shot 48.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

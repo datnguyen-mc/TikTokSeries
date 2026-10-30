@@ -22,28 +22,28 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 
 Các UUID trên là reference danh tính đã có, không phải xác nhận rằng mọi ảnh biến thể đã được tạo. Trước khi render, kiểm tra ảnh đúng tuổi/trang phục, đặc biệt Sơn 20 tuổi, Bà Hai 35 tuổi và các giai đoạn nhiều năm sau. Không tạo thêm nhân vật mới cho mỗi bộ đồ.
 
-- **SON** → `@Son`, 45 tuổi: cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands.
-- **SON_P** → `@Son`, 45 tuổi: recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes.
-- **SON_S** → `@Son`, 45 tuổi: present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket.
-- **SON_Y** → `@Son`, 20 tuổi: distant past, black hair without grey, plain dark shirt and cheap dark trousers, BARE hands.
-- **SON_Y_S** → `@Son`, 20 tuổi: distant past, black hair without grey, plain black suit, bare hands before first doorway, new gloves kept in pocket until the exit.
-- **SON_O** → `@Son`, 65 tuổi: later years, older weathered hands, faded olive jacket, canvas bag, bare hands, frame below shoulders only without a face reveal.
-- **MAY** → `@May`, 38 tuổi: plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch.
-- **MAY_C** → `@May`, 38 tuổi: denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible.
-- **MAY_O** → `@May`, 58 tuổi: older face, more silver in the same short haircut, plain khaki shirt, dark trousers, ordinary motorcycle helmet when specified.
-- **HA** → `@Ha`, 32 tuổi: cream linen dress, green florist apron, pale-blue scarf at neck, flat sandals.
-- **HA_D** → `@Ha`, 32 tuổi: plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury.
-- **HA_R** → `@Ha`, 32 tuổi: same grey cotton dress and thin sandals after rescue, long torn blue scarf loosely over shoulders, no white blouse or jeans yet.
-- **HA_N** → `@Ha`, 32 tuổi: after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn.
-- **HA_O** → `@Ha`, 52 tuổi: older face, long hair with a little grey tied back, cream work blouse, green florist apron, the same pale-blue scarf.
-- **HAINGOC** → `@HaiNgoc`, 60 tuổi: silver hair in a tight bun, violet silk áo bà ba, black trousers, embroidered slippers, unlit black holder.
-- **HAINGOC_Y** → `@HaiNgoc`, 35 tuổi: distant past, black hair in the same tight bun, simpler violet áo bà ba, black trousers, left jade bracelet.
-- **DUNG** → `@Dũng`, 35 tuổi: black sleeveless shirt, black jeans, boots, shoulder bag for work gear.
-- **KIEN** → `@Vũ Kiên`, 50 tuổi: white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse.
-- **THANH** → `@Phó Thành`, 26 tuổi: plain light-blue shirt, dark trousers, round glasses, no readable insignia.
-- **LINH** → `@Bác sĩ Linh`, 55 tuổi: worn white coat over checked shirt, stethoscope, practical medical bag.
-- **BAY** → `@Ông Bảy`, 70 tuổi: white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses.
-- **BAY_O** → `@Ông Bảy`, 90 tuổi: much older face and hands, same white moustache, white singlet, shorts, working slowly behind the coffee counter.
+- **SON** → `@Son`, 45 tuổi: cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling.
+- **SON_P** → `@Son`, 45 tuổi: recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster.
+- **SON_S** → `@Son`, 45 tuổi: present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket.
+- **SON_Y** → `@Son`, 20 tuổi: distant past age 20, black hair without grey, rain-damp plain dark shirt and worn dark trousers, BARE hands.
+- **SON_Y_S** → `@Son`, 20 tuổi: distant past age 20, black hair without grey, plain black suit, bare hands before first doorway, new black leather gloves kept in pocket until the exit.
+- **SON_O** → `@Son`, 65 tuổi: later years age 65, older weathered hands, faded olive field jacket, weathered dark-olive canvas backpack slung over left shoulder, bare hands, frame below shoulders only without a face reveal.
+- **MAY** → `@May`, 38 tuổi: plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt.
+- **MAY_C** → `@May`, 38 tuổi: dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible.
+- **MAY_O** → `@May`, 58 tuổi: older face age 58, more silver in the same short haircut, plain khaki shirt, dark trousers, ordinary motorcycle helmet held at her side when specified.
+- **HA** → `@Ha`, 32 tuổi: cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals.
+- **HA_D** → `@Ha`, 32 tuổi: plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury.
+- **HA_R** → `@Ha`, 32 tuổi: same grey cotton dress and thin sandals after rescue, recovered long torn pale-blue silk scarf draped warmly over shoulders, no white blouse or jeans yet.
+- **HA_N** → `@Ha`, 32 tuổi: after a stated clothing change at the station, borrowed clean white blouse, blue jeans, flat sandals, long pale-blue silk scarf carried or worn.
+- **HA_O** → `@Ha`, 52 tuổi: older face age 52, long hair with a little grey tied back, cream work blouse, forest-green florist apron, the same pale-blue silk scarf.
+- **HAINGOC** → `@HaiNgoc`, 60 tuổi: silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers.
+- **HAINGOC_Y** → `@HaiNgoc`, 35 tuổi: distant past age 35, black hair in the same tight bun, simpler violet áo bà ba, black trousers, green jade bracelet on LEFT wrist.
+- **DUNG** → `@Dũng`, 35 tuổi: black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear.
+- **KIEN** → `@Vũ Kiên`, 50 tuổi: tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse.
+- **THANH** → `@Phó Thành`, 26 tuổi: plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio.
+- **LINH** → `@Bác sĩ Linh`, 55 tuổi: worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag.
+- **BAY** → `@Ông Bảy`, 70 tuổi: white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses.
+- **BAY_O** → `@Ông Bảy`, 90 tuổi: much older face and hands at age 90, same white moustache, white singlet, shorts, working briskly behind the coffee counter with a clean glass cloth.
 
 ## Quy tắc liên tục đã chốt
 
@@ -82,6 +82,14 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **GLOVES:** One pair of black gloves first gifted twenty-five years ago; present-day pair left in zipped cabin bag at 35.4.
 - **HAIRCLIP:** Hạ silver hair clip, deliberately wedged into service-hatch latch at 45.4, recovered at 48.5 and logged at 54.5.
 - **LILY:** One white lily from Hạ family-home vase, wrapped at 57.5 and held at the public walkway during departure.
+- **BACKPACK:** Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
+- **DUTY_POUCH:** Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- **DAYPACK:** Mây's compact black tactical daypack/backpack worn over her denim jacket during the city & river-factory mission (Scenes 19.5–27.6), holding evidence sleeves and borrowed tools.
+- **CUFFS:** Standard steel police handcuffs carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- **TOOL_BAG:** Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
+- **MED_BAG:** Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with airway/breathing-support kit (no miracle antidote syringe).
+- **CLIPBOARD:** Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- **COFFEE_TRAY:** Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 
 ## Âm thanh và bản dọc
 

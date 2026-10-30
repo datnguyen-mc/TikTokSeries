@@ -984,6 +984,21 @@ def run_pipeline(start_scene=1, end_scene=60):
             with open(fpath, "r", encoding="utf-8") as f:
                 prompt_content = f.read().strip()
 
+            # Nếu clip hiện tại là CONTINUE (nối tiếp frame cuối của clip trước) nhưng chưa có media_id
+            # (ví dụ chạy lẻ 1 clip trên UI), tự động lấy frame cuối của clip trước từ ổ cứng và upload!
+            if (
+                c_idx > 1
+                and not previous_clip_last_frame_media_id
+                and not is_new_scene_clip(prompt_content, c_idx, "CHECK_CONTINUE")
+            ):
+                prev_frame_path = os.path.join(FRAMES_DIR, f"scene_{s:02d}_clip_{c_idx - 1:02d}_last.jpg")
+                if not os.path.exists(prev_frame_path):
+                    prev_video_path = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s:02d}", f"canh-{s:02d}_clip-{c_idx - 1:02d}.mp4")
+                    if os.path.exists(prev_video_path):
+                        prev_frame_path = extract_last_frame(prev_video_path, s, c_idx - 1)
+                if prev_frame_path and os.path.exists(prev_frame_path):
+                    previous_clip_last_frame_media_id = upload_start_frame(prev_frame_path)
+
             completed_clips += 1
             progress_pct = (completed_clips / max(1, total_clips)) * 100
             print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — CẢNH {s:02d} - CLIP {c_idx:02d}", flush=True)
@@ -992,7 +1007,7 @@ def run_pipeline(start_scene=1, end_scene=60):
                 scene_num=s,
                 clip_num=c_idx,
                 initial_prompt=prompt_content,
-                start_image_media_id=None
+                start_image_media_id=previous_clip_last_frame_media_id
             )
 
             if res["success"] and res.get("video_url"):
@@ -1000,6 +1015,19 @@ def run_pipeline(start_scene=1, end_scene=60):
                 local_video = download_and_rename_video(video_url, s, c_idx)
                 if local_video:
                     rendered_in_this_run.add(c_idx)
+                    frame_path = extract_last_frame(local_video, s, c_idx)
+                    next_fpath = os.path.join(scene_dir, f"clip-{c_idx + 1}.md")
+                    if c_idx < 6 and frame_path and os.path.exists(next_fpath):
+                        with open(next_fpath, "r", encoding="utf-8") as nf:
+                            next_prompt = nf.read().strip()
+                        if not is_new_scene_clip(next_prompt, c_idx + 1, "CHECK_CONTINUE"):
+                            previous_clip_last_frame_media_id = upload_start_frame(frame_path)
+                        else:
+                            previous_clip_last_frame_media_id = None
+                    else:
+                        previous_clip_last_frame_media_id = None
+                else:
+                    previous_clip_last_frame_media_id = None
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
             else:
                 log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")

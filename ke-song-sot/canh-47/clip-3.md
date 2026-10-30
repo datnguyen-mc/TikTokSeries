@@ -1,11 +1,11 @@
-Continue the scene from the final frame of clip 2. Same composition at the seam, new action after the seam.
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 2. Same composition at the seam, brisk new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
-@Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white coat over checked shirt, stethoscope, practical medical bag. Voice: tired, measured Southern Vietnamese male voice.
-
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice: focused, calm Southern Vietnamese male voice.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
 
 
 [TIMELINE AND LOCATION]
@@ -18,22 +18,22 @@ Move leadership to Mây without making Sơn passive or repeating the whole tacti
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 47.2, ending with Mây drawing the service hatch below the gallery on her notepad.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action immediately; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 47.2, ending with Mây drawing the service hatch below the gallery on her notepad. Final physical lock: Sơn indicates the remembered lower hatch verbally while Mây draws only its relation to the gallery.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Mây drawing the service hatch below the gallery on her notepad.
+Mây drawing the service hatch below the gallery on her notepad. Final physical lock: Sơn indicates the remembered lower hatch verbally while Mây draws only its relation to the gallery.
 
 [CAMERA]
-50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
 Keep the exact previous camera, lens and axis; no framing reset.
 Composition: Stay in the same medium setup and focal range across the continuous seam.
 Focus: Keep the listening faces in the established plane, no focus reset toward an invented radio display.
 
-[ACTION — 0–10s, one evolving take]
-Mây receives confirmation that the main door is accessible, decides to lead that approach herself.
-Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the decision follow the received information, then leave a short beat for Sơn to accept its terms.
+[ACTION — 0–10s, one brisk evolving take]
+Beat 1 (0.0–3.0s): Mây receives confirmation that the main door is accessible, decides to lead that approach herself. Beat 2 (3.0–6.5s): Mây receives the existing radio confirmation, closes her notepad and states that Sơn remains behind her. Beat 3 (6.5–10.0s): Her firmness is protective and professional; Sơn's assent should be a small visible acceptance, not defiance, settling crisply into the end frame as notebook returns to her same pouch, lamp direction and Linh's supporting position remain unchanged.
+Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the decision follow the received information, then leave a short beat for Sơn to accept its terms; keep movement and speech brisk from 0.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Mây receives the existing radio confirmation, closes her notepad and states that Sơn remains behind her.
@@ -41,14 +41,15 @@ Performance: Her firmness is protective and professional; Sơn's assent should b
 
 
 [DIALOGUE]
-0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
-
-Mây (@May), nói trong hình: Đi với tôi. Ở phía sau tôi.
+0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
+Mây (@May), nói trong hình: Bộ đàm vừa báo cửa sắt chính dưới chân hải đăng vẫn mở được bằng chìa của tôi, anh đi cùng tôi lên cầu thang chính nhưng phải đứng sau lưng tôi.
+Sơn (@Son), nói trong hình: Tôi đồng ý, cô dẫn đầu thương thuyết còn tôi giữ điểm tựa cho Hạ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with airway/breathing-support kit (no miracle antidote syringe).
 
 [VISIBLE TEXTURE]
 Notebook returns to her same pouch, lamp direction and Linh's supporting position remain unchanged.
@@ -57,11 +58,11 @@ Notebook returns to her same pouch, lamp direction and Linh's supporting positio
 [SOUND]
 Location bed: breathing and distant muffled police radio.
 Foreground sound: A brief radio-squelch click motivates the received update beneath the established instruction, without adding another spoken line.
-Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Mây closing her notepad, Linh continuing to support Sơn.
+Mây closing her notepad, Linh continuing to support Sơn. Final physical lock: Mây receives the existing radio confirmation, closes her notepad and states that Sơn remains behind her.
 Next shot 47.4: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

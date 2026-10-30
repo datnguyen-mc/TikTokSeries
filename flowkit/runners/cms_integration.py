@@ -1137,6 +1137,13 @@ def _extract_dialogue_lines(prompt: str) -> list[str]:
     lines = []
     for raw_line in prompt.splitlines():
         s = raw_line.strip()
+        m_v3 = re.match(
+            r"^([A-ZÀ-ỸĐ][A-ZÀ-ỸĐa-zà-ỹđ0-9_@\s\(\)\-]+,\s*(?:nói trong hình|ngoài khung hình|lời dẫn ngoài hình|qua thiết bị):\s*.+)$",
+            s,
+        )
+        if m_v3:
+            lines.append(m_v3.group(1).strip())
+            continue
         m = re.search(r"([A-ZÀ-ỸĐa-zà-ỹđ0-9_@\s]+\s+says\s*(?:\([^)]*\))?\s*:\s*.+)$", s)
         if m:
             lines.append(m.group(1).strip())

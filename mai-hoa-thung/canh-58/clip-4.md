@@ -1,0 +1,37 @@
+Continue the scene seamlessly from the final frame of clip 3, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action martial-arts blockbuster film style set in Saigon's Chợ Lớn at Tết. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+
+[CHARACTERS — unchanged]
+@Long = LONG: Vietnamese man, 28, undercut with a small top knot, jade lion-tooth pendant on a red cord, crimson silk kung-fu jacket with gold trim, red sash; low, steady Southern male voice.
+@Mai = MAI: Vietnamese woman, 24, two braids tied with red thread, freckles, crimson kung-fu jacket, red silk ribbon on her LEFT wrist; quick, bright Southern female voice.
+@Han = HÂN: 27, shaved line above her LEFT ear, plain black kung-fu jacket, red bandana around her neck, two rattan sticks; low, cool Southern female voice.
+
+[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
+@Mai = MAI (24, tail of the lion and acrobat of the troupe): a real Vietnamese woman, about 160 cm tall, petite gymnast build, bright playful eyes, light freckles across her nose, black hair in two braids tied with red thread (signature detail). Troupe outfit: a crimson silk kung-fu jacket with gold trim, loose black trousers, a red silk sash, white cloth shoes, a long red silk ribbon wound around her LEFT wrist that she uses as a whip-like ribbon. Voice: quick, bright, teasing Southern Vietnamese female voice, mid-20s.
+@Han = HÂN (27) in borrowed troupe clothes: a real Vietnamese woman, about 168 cm tall, athletic, serious almond eyes, short black hair with a single shaved line above her LEFT ear (signature detail), in a plain black kung-fu jacket with no stripes, black trousers, a red bandana tied around her neck, two short rattan sticks in a black sash. Voice: low, cool, clipped Southern Vietnamese female voice.
+
+[PROPS]
+LÂN TỔ (the ancestral lion head, 100 years old): a classic Southern lion-dance head, faded crimson and antique gold, long white fur beard and eyebrows, big mirrored eyes that blink, a black-lacquered horn with a red ribbon, one jade tooth missing from its upper jaw; a red-gold scaled cloth body with white fur trim. Long holds the head, Mai holds the tail.
+LÂN MỚI (the new lion head the troupe built): a bright crimson-and-gold lion-dance head with white fur beard, green mirrored eyes, a gold horn with a red ribbon, fresh hand-painted gold swirls; a red-gold scaled cloth body. Long holds the head, Mai holds the tail unless the shot list says otherwise.
+
+[SETTING]
+FESTIVAL SQUARE ON THE THIRD DAY OF TẾT: the square in front of the temple, twenty-one red Mai Hoa Thung poles in the centre with safety mats, bamboo stands full of blurred spectators, red flags, a big drum, the organisers' wooden table, afternoon sun turning to dusk.
+Story setting: Quảng trường, hoàng hôn cuối, lồng đèn sáng, dân hẻm vây quanh.
+Scene 58/60, timecode 57:00 – 58:00, clip 4/6 (30–40s of the scene). Atmosphere: festive lion-dance spectacle, cinematic Tết in Chợ Lớn.
+
+[CAMERA & LIGHT]
+Sweeping 35mm anamorphic wide shots of the whole lion and the poles, cut with 50mm low-angle hero shots from below the pole tops, one extreme slow-motion beat on the jump. 90-degree shutter angle keeping the lion's fur, ribbons and mirrored eyes razor sharp. Warm golden Tết light, red-and-gold colour, lantern bokeh, drum-beat rhythm in the cutting.
+
+[SHOT LIST]
+00:00–00:03.5 | Lion-dance wide and drum cue, 35mm anamorphic — Continuing seamlessly from the last frame: Long và Mai chui vào Lân Tổ; Trống nổi nhịp bảy, đầu lân chớp mắt gương, râu trắng bay.
+00:03.5–00:07.0 | The jump, 50mm low-angle hero shot with extreme slow motion — Hân nhìn Lân Mới nằm cạnh, rồi nhìn thầy; thầy gật; Hân và Tí chui vào Lân Mới. Mỗi nhịp một cú nhảy hoặc một thế lân; nhịp quay chậm đúng khoảnh khắc chân lân rời cột hoặc chạm cột. Nhân vật nói với khẩu hình khớp từng âm tiết, máy quay thấy rõ mặt người nói: Tí: "Ông Địa cầm đuôi lân, lần đầu tiên!"
+00:07.0–00:10.0 | Landing and crowd reaction, 35mm — Lân đứng vững, ruy băng và lông bờm lắng xuống, chập chõa dứt, phản ứng của người xem hoặc đồng đội. Khóa tĩnh khung hình cuối 0.5s để nối clip 5.
+
+[SOUND]
+Thunderous lion-dance drum in a seven-beat pattern, crashing cymbals and gong, the creak of steel poles, fur and ribbons rustling, a roaring crowd, rising orchestral strings on the jump.
+
+[END FRAME]
+Hold final frame still for 0.5s for seamless extension to clip 5.
+
+[AVOID]
+guns, firearms, knives, blades, blood, gore, visible wounds, deaths, large fire, real brand logos, readable signs or documents, watermarks, text overlays, extra fingers, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.

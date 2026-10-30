@@ -216,7 +216,7 @@ def sync_clip_to_r2_and_d1(
         "media_id": media_id,
     }
     api_res = _post_api_json("/api/cms/cloud/sync-record", payload, timeout=15)
-    _fallback_upsert_local_and_d1(payload, skip_local=bool(api_res.get("ok")))
+    _fallback_upsert_local_and_d1(payload, skip_local=False)
 
     return {
         "ok": True,
@@ -296,7 +296,7 @@ def sync_merged_episode_to_r2_and_d1(
         "duration_s": dur,
     }
     api_res = _post_api_json("/api/cms/cloud/sync-record", payload, timeout=15)
-    _fallback_upsert_local_and_d1(payload, skip_local=bool(api_res.get("ok")))
+    _fallback_upsert_local_and_d1(payload, skip_local=False)
 
     return {
         "ok": True,
@@ -318,11 +318,23 @@ def _fallback_upsert_local_and_d1(payload: dict, skip_local: bool = False) -> No
     if kind == "clip":
         clip_num = int(payload.get("clip_num") or 0)
         rec_id = f"{slug}:ep:{ep_num}:clip:{clip_num}"
-        sql = """INSERT OR REPLACE INTO cms_clip
+        sql = """INSERT INTO cms_clip
                  (id, channel_slug, project_id, episode_num, folder_name, clip_num, prompt, status,
                   local_path, r2_key, r2_url, frame_local_path, frame_r2_key, frame_r2_url,
                   size_mb, duration_s, media_id, updated_at)
-                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"""
+                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                 ON CONFLICT(id) DO UPDATE SET
+                  status = excluded.status,
+                  local_path = COALESCE(excluded.local_path, cms_clip.local_path),
+                  r2_key = COALESCE(excluded.r2_key, cms_clip.r2_key),
+                  r2_url = COALESCE(excluded.r2_url, cms_clip.r2_url),
+                  frame_local_path = COALESCE(excluded.frame_local_path, cms_clip.frame_local_path),
+                  frame_r2_key = COALESCE(excluded.frame_r2_key, cms_clip.frame_r2_key),
+                  frame_r2_url = COALESCE(excluded.frame_r2_url, cms_clip.frame_r2_url),
+                  size_mb = COALESCE(excluded.size_mb, cms_clip.size_mb),
+                  duration_s = COALESCE(excluded.duration_s, cms_clip.duration_s),
+                  media_id = COALESCE(excluded.media_id, cms_clip.media_id),
+                  updated_at = excluded.updated_at"""
         params = [
             rec_id,
             slug,
@@ -345,11 +357,21 @@ def _fallback_upsert_local_and_d1(payload: dict, skip_local: bool = False) -> No
         ]
     else:
         rec_id = f"{slug}:ep:{ep_num}"
-        sql = """INSERT OR REPLACE INTO cms_episode
+        sql = """INSERT INTO cms_episode
                  (id, channel_slug, project_id, episode_num, folder_name, label,
                   total_clips, rendered_clips, is_complete, merged_local_path,
                   merged_r2_key, merged_r2_url, merged_size_mb, duration_s, updated_at)
-                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"""
+                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                 ON CONFLICT(id) DO UPDATE SET
+                  total_clips = MAX(cms_episode.total_clips, excluded.total_clips),
+                  rendered_clips = MAX(cms_episode.rendered_clips, excluded.rendered_clips),
+                  is_complete = MAX(cms_episode.is_complete, excluded.is_complete),
+                  merged_local_path = COALESCE(excluded.merged_local_path, cms_episode.merged_local_path),
+                  merged_r2_key = COALESCE(excluded.merged_r2_key, cms_episode.merged_r2_key),
+                  merged_r2_url = COALESCE(excluded.merged_r2_url, cms_episode.merged_r2_url),
+                  merged_size_mb = COALESCE(excluded.merged_size_mb, cms_episode.merged_size_mb),
+                  duration_s = COALESCE(excluded.duration_s, cms_episode.duration_s),
+                  updated_at = excluded.updated_at"""
         params = [
             rec_id,
             slug,

@@ -84,6 +84,48 @@ def is_r2_configured(cfg: Optional[dict] = None) -> bool:
     return has_s3 or has_cf_api
 
 
+def detect_media_info(path_or_url: str, default_category: str = "") -> dict:
+    """Detect media kind ('video' | 'image' | 'audio'), MIME type, and normalized extension."""
+    raw = (path_or_url or "").split("?")[0].split("#")[0].strip()
+    ext = os.path.splitext(raw)[1].lower()
+    cat = (default_category or "").lower()
+
+    if not ext:
+        if cat in ("frames", "images", "character_refs", "thumbnails"):
+            ext = ".jpg"
+        elif cat in ("audio", "tts", "music"):
+            ext = ".mp3"
+        else:
+            ext = ".mp4"
+
+    if ext in (".mp4", ".m4v"):
+        return {"media_kind": "video", "mime_type": "video/mp4", "ext": ".mp4"}
+    if ext == ".webm":
+        return {"media_kind": "video", "mime_type": "video/webm", "ext": ".webm"}
+    if ext == ".mov":
+        return {"media_kind": "video", "mime_type": "video/quicktime", "ext": ".mov"}
+    if ext in (".jpg", ".jpeg"):
+        return {"media_kind": "image", "mime_type": "image/jpeg", "ext": ".jpg"}
+    if ext == ".png":
+        return {"media_kind": "image", "mime_type": "image/png", "ext": ".png"}
+    if ext == ".webp":
+        return {"media_kind": "image", "mime_type": "image/webp", "ext": ".webp"}
+    if ext == ".gif":
+        return {"media_kind": "image", "mime_type": "image/gif", "ext": ".gif"}
+    if ext == ".mp3":
+        return {"media_kind": "audio", "mime_type": "audio/mpeg", "ext": ".mp3"}
+    if ext == ".wav":
+        return {"media_kind": "audio", "mime_type": "audio/wav", "ext": ".wav"}
+    if ext in (".m4a", ".aac"):
+        return {"media_kind": "audio", "mime_type": "audio/mp4", "ext": ext}
+
+    guessed, _ = mimetypes.guess_type(raw)
+    if guessed:
+        kind = guessed.split("/")[0] if "/" in guessed else "video"
+        return {"media_kind": kind if kind in ("video", "image", "audio") else "video", "mime_type": guessed, "ext": ext}
+    return {"media_kind": "video", "mime_type": "video/mp4", "ext": ".mp4"}
+
+
 def build_r2_key(
     channel_slug: str,
     category: str,
@@ -103,22 +145,69 @@ def build_r2_key(
         parts.append(category.strip("/"))
     if subfolder:
         parts.append(subfolder.strip("/"))
-    parts.append(os.path.basename(filename))
+
+    base_name = os.path.basename(filename)
+    _, ext = os.path.splitext(base_name)
+    if not ext:
+        info = detect_media_info(base_name, default_category=category)
+        base_name = f"{base_name}{info['ext']}"
+    parts.append(base_name)
     return "/".join(parts)
 
 
 def build_r2_public_url(object_key: str, cfg: Optional[dict] = None) -> str:
-    """Return public URL for an R2 object key."""
+    """Return public URL for an R2 object key, ensuring proper bucket domain and extension."""
     c = cfg or load_r2_config()
+    bucket = c.get("r2_bucket_name", "flowkit").strip("/")
     clean_key = object_key.lstrip("/")
+    if clean_key.startswith(f"{bucket}/series/"):
+        clean_key = clean_key[len(bucket) + 1 :]
     pub = c.get("r2_public_url", "").rstrip("/")
     if pub:
+        # Strip accidental /<bucket> suffix on r2.dev public domain
+        if ".r2.dev/" in f"{pub}/" and pub.endswith(f"/{bucket}"):
+            pub = pub[: -(len(bucket) + 1)]
+        # Auto-correct if pub is still set to the 'tiktok' bucket domain while bucket is 'flowkit'
+        if bucket == "flowkit" and "pub-31538b394ab64f96ba3dff5f02ecab44.r2.dev" in pub:
+            pub = "https://pub-53dae622644845c09c48558d8a42fe29.r2.dev"
         return f"{pub}/{clean_key}"
     endpoint = c.get("r2_endpoint_url", "").rstrip("/")
-    bucket = c.get("r2_bucket_name", "tiktok-series").strip("/")
     if endpoint:
         return f"{endpoint}/{bucket}/{clean_key}"
     return f"r2://{bucket}/{clean_key}"
+
+
+def normalize_r2_media_url(
+    url: Optional[str],
+    r2_key: Optional[str] = None,
+    default_category: str = "episodes",
+    cfg: Optional[dict] = None,
+) -> Optional[str]:
+    """Normalize any stored R2 URL or key into a direct playable .mp4 / .jpg public R2 URL."""
+    c = cfg or load_r2_config()
+    bucket = c.get("r2_bucket_name", "flowkit").strip("/")
+
+    key_cand = (r2_key or "").strip().lstrip("/")
+    if not key_cand and url:
+        u_clean = url.strip()
+        if "://" in u_clean:
+            parsed = urllib.parse.urlparse(u_clean)
+            key_cand = parsed.path.lstrip("/")
+        else:
+            key_cand = u_clean.lstrip("/")
+
+    if not key_cand:
+        return url
+
+    if key_cand.startswith(f"{bucket}/"):
+        key_cand = key_cand[len(bucket) + 1 :]
+
+    _, ext = os.path.splitext(key_cand)
+    if not ext:
+        info = detect_media_info(key_cand, default_category=default_category)
+        key_cand = f"{key_cand}{info['ext']}"
+
+    return build_r2_public_url(key_cand, c)
 
 
 def _sha256_file_hex(file_path: str) -> str:
@@ -163,11 +252,15 @@ def _build_s3_sigv4_headers(
     base_path = parsed.path.rstrip("/")
 
     quoted_bucket = urllib.parse.quote(bucket.strip("/"), safe="")
+    if quoted_bucket and base_path.endswith(f"/{quoted_bucket}"):
+        base_path = base_path[: -(len(quoted_bucket) + 1)]
     if object_key:
         quoted_key = "/".join(urllib.parse.quote(seg, safe="-_.~") for seg in object_key.lstrip("/").split("/"))
         canonical_uri = f"{base_path}/{quoted_bucket}/{quoted_key}"
-    else:
+    elif quoted_bucket:
         canonical_uri = f"{base_path}/{quoted_bucket}"
+    else:
+        canonical_uri = base_path or "/"
 
     canonical_querystring = ""
     if query_params:
@@ -263,12 +356,14 @@ def upload_file_to_r2(
 
     file_size = os.path.getsize(local_path)
     size_mb = round(file_size / (1024 * 1024), 2)
+    media_info = detect_media_info(local_path or object_key)
     if not content_type:
-        guessed, _ = mimetypes.guess_type(local_path)
-        content_type = guessed or ("video/mp4" if local_path.lower().endswith(".mp4") else "application/octet-stream")
+        content_type = media_info["mime_type"]
 
     bucket = c["r2_bucket_name"]
     clean_key = object_key.lstrip("/")
+    if not os.path.splitext(clean_key)[1]:
+        clean_key = f"{clean_key}{media_info['ext']}"
     public_url = build_r2_public_url(clean_key, c)
     last_error = ""
 
@@ -440,4 +535,81 @@ def test_r2_connection(cfg: Optional[dict] = None) -> dict:
         "bucket": bucket,
         "error": f"Không thể kết nối R2 Bucket '{bucket}': {last_err}",
     }
+
+
+def list_r2_bucket_objects(prefix: str = "", cfg: Optional[dict] = None) -> list[dict]:
+    """List objects in the configured R2 bucket via S3 ListObjectsV2, returning keys, sizes, public URLs, and media types."""
+    import xml.etree.ElementTree as ET
+
+    c = cfg or load_r2_config()
+    if not (c.get("r2_access_key_id") and c.get("r2_secret_access_key") and c.get("r2_endpoint_url")):
+        return []
+
+    bucket = c["r2_bucket_name"]
+    empty_hash = hashlib.sha256(b"").hexdigest()
+    items: list[dict] = []
+    cont_token: Optional[str] = None
+    ns = {"s3": "http://s3.amazonaws.com/doc/2006-03-01/"}
+
+    while True:
+        qp: dict[str, str] = {"list-type": "2", "max-keys": "1000"}
+        if prefix:
+            qp["prefix"] = prefix.lstrip("/")
+        if cont_token:
+            qp["continuation-token"] = cont_token
+
+        target_url, headers = _build_s3_sigv4_headers(
+            method="GET",
+            endpoint_url=c["r2_endpoint_url"],
+            bucket=bucket,
+            object_key="",
+            access_key=c["r2_access_key_id"],
+            secret_key=c["r2_secret_access_key"],
+            payload_hash=empty_hash,
+            query_params=qp,
+        )
+        try:
+            if requests is not None:
+                resp = requests.get(target_url, headers=headers, timeout=20)
+                if resp.status_code != 200:
+                    break
+                xml_data = resp.text
+            else:
+                req = urllib.request.Request(target_url, headers=headers, method="GET")
+                with urllib.request.urlopen(req, timeout=20) as r:
+                    xml_data = r.read().decode("utf-8")
+
+            root = ET.fromstring(xml_data)
+            for node in root.findall("s3:Contents", ns):
+                k_el = node.find("s3:Key", ns)
+                s_el = node.find("s3:Size", ns)
+                if k_el is None or not k_el.text:
+                    continue
+                k = k_el.text
+                sz = int(s_el.text or 0) if s_el is not None else 0
+                minfo = detect_media_info(k)
+                items.append(
+                    {
+                        "r2_key": k,
+                        "r2_url": build_r2_public_url(k, c),
+                        "size_bytes": sz,
+                        "size_mb": round(sz / (1024 * 1024), 2),
+                        "media_kind": minfo["media_kind"],
+                        "mime_type": minfo["mime_type"],
+                        "ext": minfo["ext"],
+                    }
+                )
+            is_trunc = root.find("s3:IsTruncated", ns)
+            if is_trunc is not None and is_trunc.text == "true":
+                nxt = root.find("s3:NextContinuationToken", ns)
+                cont_token = nxt.text if nxt is not None else None
+                if not cont_token:
+                    break
+            else:
+                break
+        except Exception:
+            break
+
+    return items
+
 

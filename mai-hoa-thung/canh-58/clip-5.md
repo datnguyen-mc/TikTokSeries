@@ -1,0 +1,31 @@
+Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
+Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action martial-arts blockbuster film style set in Saigon's Chợ Lớn at Tết. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Spoken dialogue in natural Southern Vietnamese with lip-sync. Cut only where the shot list says. No subtitles or on-screen text.
+
+[CHARACTERS — unchanged]
+@Phuc = PHÚC: very big Vietnamese man, 30, shaved head, thick eyebrows, sleeveless crimson vest, two drum sticks in his red sash; booming, warm Southern male voice.
+
+[PROPS]
+LÂN TỔ (the ancestral lion head, 100 years old): a classic Southern lion-dance head, faded crimson and antique gold, long white fur beard and eyebrows, big mirrored eyes that blink, a black-lacquered horn with a red ribbon, one jade tooth missing from its upper jaw; a red-gold scaled cloth body with white fur trim. Long holds the head, Mai holds the tail.
+LÂN MỚI (the new lion head the troupe built): a bright crimson-and-gold lion-dance head with white fur beard, green mirrored eyes, a gold horn with a red ribbon, fresh hand-painted gold swirls; a red-gold scaled cloth body. Long holds the head, Mai holds the tail unless the shot list says otherwise.
+
+[SETTING]
+FESTIVAL SQUARE ON THE THIRD DAY OF TẾT: the square in front of the temple, twenty-one red Mai Hoa Thung poles in the centre with safety mats, bamboo stands full of blurred spectators, red flags, a big drum, the organisers' wooden table, afternoon sun turning to dusk.
+Story setting: Quảng trường, hoàng hôn cuối, lồng đèn sáng, dân hẻm vây quanh.
+Scene 58/60, timecode 57:00 – 58:00, clip 5/6 (40–50s of the scene). Atmosphere: high-adrenaline martial-arts action, cinematic Tết in Chợ Lớn.
+
+[CAMERA & LIGHT]
+Aggressive 35mm anamorphic tracking, low-angle 24mm heroic perspective, dynamic handheld martial-arts camera with subtle micro-shake on impact, one speed-ramp slow-motion beat on the key strike. 90-degree shutter angle for razor-sharp kicks and staff work without motion smear. Gritty high-contrast lighting, red lantern rim light, dust in volumetric shafts, horizontal anamorphic flares.
+
+[SHOT LIST]
+00:00–00:03.5 | Kinetic initiation, 35mm low-angle tracking — Continuing seamlessly from the last frame: Hai lân đỏ múa song song trước khán đài, cúi chào hẻm lồng đèn, chào thầy; Một động tác dứt khoát mở đầu, camera trượt góc thấp theo đà chuyển động.
+00:03.5–00:07.0 | Decisive impact with speed-ramp, 50mm dynamic cam — Lân Mới vụng về húc vào Lân Tổ, dân cười. Mỗi nhịp một đòn: một cú né, một cú đỡ, một cú quật; nhịp quay chậm đúng cú ra đòn quyết định. Nhân vật nói với khẩu hình khớp từng âm tiết, máy quay thấy rõ mặt người nói: Mai (trong lân): "Lân Mới, nhường Lân Tổ chút coi!"
+00:07.0–00:10.0 | Settle and stance lock, 35mm — Bụi và lồng đèn còn rung, đối thủ ngã hoặc lùi, nhân vật thu thế tấn vững, ánh mắt khóa mục tiêu. Khóa tĩnh khung hình cuối 0.5s để nối clip 6.
+
+[SOUND]
+Visceral martial-arts sound design: sharp wooden staff cracks, cloth snapping on fast kicks, deep sub-bass body impacts, quick air whooshes, lion-dance drum and cymbal hits punctuating the strikes, crowd gasps.
+
+[END FRAME]
+Hold final frame still for 0.5s for seamless extension to clip 6.
+
+[AVOID]
+guns, firearms, knives, blades, blood, gore, visible wounds, deaths, large fire, real brand logos, readable signs or documents, watermarks, text overlays, extra fingers, cartoon or anime look, slow sluggish motion, blurry motion smear, awkward wind-up.

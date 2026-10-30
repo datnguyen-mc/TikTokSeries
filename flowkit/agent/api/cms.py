@@ -16,6 +16,7 @@ from pydantic import BaseModel
 
 from agent.db.schema import get_db
 from agent.services.event_bus import event_bus
+from agent.services.r2_storage import detect_media_info, normalize_r2_media_url
 
 logger = logging.getLogger(__name__)
 router = APIRouter(prefix="/cms", tags=["cms"])
@@ -233,6 +234,48 @@ DEFAULT_CHANNELS = [
             },
         ],
     },
+    {
+        "slug": "mai-hoa-thung",
+        "name": "Mai Hoa Thung — Lân Chợ Lớn",
+        "project_id": "",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/mai_hoa_thung.py",
+        "series_dir": "mai-hoa-thung",
+        "ep_prefix": "canh",
+        "description": "Phim hành động võ thuật múa lân 60 phút: đoàn lân Nghĩa Hòa ở Chợ Lớn tự làm đầu lân mới và thắng trên dàn cột Mai Hoa Thung để giữ hẻm (16:9, 60 cảnh × 6 clip).",
+        "characters": [
+            {
+                "tag": "@Long",
+                "name": "Long (Đầu Lân, trưởng đoàn)",
+                "default_media_id": "",
+                "description": "Người cầm đầu lân 28 tuổi, tóc undercut búi nhỏ, ngọc răng lân dây đỏ ở cổ, áo võ lụa đỏ viền vàng.",
+            },
+            {
+                "tag": "@Mai",
+                "name": "Mai (Đuôi Lân)",
+                "default_media_id": "",
+                "description": "Người cầm đuôi lân 24 tuổi, hai bím tóc buộc chỉ đỏ, tàn nhang, dây lụa đỏ quấn cổ tay trái.",
+            },
+            {
+                "tag": "@Phuc",
+                "name": "Phúc (Tay trống)",
+                "default_media_id": "",
+                "description": "Tay trống kiêm đầu bếp 30 tuổi, to cao nhất đoàn, đầu cạo trọc, áo võ đỏ không tay, hai dùi trống cài đai.",
+            },
+            {
+                "tag": "@Ti",
+                "name": "Tí (Ông Địa)",
+                "default_media_id": "",
+                "description": "Út đoàn 19 tuổi, tóc nhuộm đồng, răng khểnh, quạt giấy trên tay, mặt nạ Ông Địa hồng đội trên đầu.",
+            },
+            {
+                "tag": "@Han",
+                "name": "Hân (Song Côn)",
+                "default_media_id": "",
+                "description": "Võ sĩ Hắc Hổ 27 tuổi về với Nghĩa Hòa, tóc ngắn cạo một vạch trên tai trái, áo võ đen sọc vàng, song côn gỗ.",
+            },
+        ],
+    },
 ]
 
 
@@ -308,7 +351,7 @@ async def ensure_cms_seeded():
             ("admin-1", "admin", _hash_password("admin123"), "Quản Trị Viên FlowKit", "admin", now),
         )
 
-    # 2. Seed 6 channels
+    # 2. Seed channels (7 kênh)
     for ch in DEFAULT_CHANNELS:
         cur = await db.execute("SELECT slug FROM cms_channel WHERE slug = ?", (ch["slug"],))
         if not await cur.fetchone():
@@ -628,9 +671,12 @@ def _scan_channel_episodes(
             db_clip = clip_map.get((ep_num, c_num)) or {}
             v_file = _find_clip_video_file(series_abs_dir, ep_num, ep_folder_name, c_num) if os.path.isdir(series_abs_dir) else None
             f_file = _find_clip_frame_file(series_abs_dir, ep_num, c_num) if os.path.isdir(series_abs_dir) else None
-            r2_url = db_clip.get("r2_url")
             r2_key = db_clip.get("r2_key")
-            frame_r2_url = db_clip.get("frame_r2_url")
+            raw_r2_url = db_clip.get("r2_url")
+            r2_url = normalize_r2_media_url(raw_r2_url, r2_key, default_category="episodes") if (raw_r2_url or r2_key) else None
+            raw_frame_r2_url = db_clip.get("frame_r2_url")
+            frame_r2_key = db_clip.get("frame_r2_key")
+            frame_r2_url = normalize_r2_media_url(raw_frame_r2_url, frame_r2_key, default_category="frames") if (raw_frame_r2_url or frame_r2_key) else None
             if r2_url:
                 r2_synced_clips += 1
 
@@ -651,6 +697,9 @@ def _scan_channel_episodes(
             local_media_url = _media_url_for_path(v_file)
             local_frame_url = _media_url_for_path(f_file)
             size_mb = round(os.path.getsize(v_file) / (1024 * 1024), 2) if v_file else db_clip.get("size_mb")
+            eff_video_url = local_media_url or r2_url
+            v_media_info = detect_media_info(v_file or r2_url or r2_key or "clip.mp4", default_category="episodes")
+            f_media_info = detect_media_info(f_file or frame_r2_url or frame_r2_key or "frame.jpg", default_category="frames")
 
             clips_data.append(
                 {
@@ -659,20 +708,29 @@ def _scan_channel_episodes(
                     "file_path": c_path or "",
                     "prompt": prompt_text,
                     "status": "COMPLETED" if is_done else "PENDING",
-                    "video_url": local_media_url or r2_url,
+                    "video_url": eff_video_url,
                     "r2_url": r2_url,
                     "r2_key": r2_key,
+                    "media_kind": v_media_info["media_kind"],
+                    "media_type": v_media_info["mime_type"],
                     "video_size_mb": size_mb,
                     "frame_url": local_frame_url or frame_r2_url,
                     "frame_r2_url": frame_r2_url,
+                    "frame_media_type": f_media_info["mime_type"],
                 }
             )
 
         merged_file = _find_merged_episode_file(series_abs_dir, slug, ep_num, ep_folder_name) if os.path.isdir(series_abs_dir) else None
         merged_local_url = _media_url_for_path(merged_file)
-        merged_r2_url = db_ep.get("merged_r2_url")
         merged_r2_key = db_ep.get("merged_r2_key")
+        raw_merged_r2_url = db_ep.get("merged_r2_url")
+        merged_r2_url = (
+            normalize_r2_media_url(raw_merged_r2_url, merged_r2_key, default_category="full_episodes")
+            if (raw_merged_r2_url or merged_r2_key)
+            else None
+        )
         merged_size = round(os.path.getsize(merged_file) / (1024 * 1024), 2) if merged_file else db_ep.get("merged_size_mb")
+        m_media_info = detect_media_info(merged_file or merged_r2_url or merged_r2_key or "full.mp4", default_category="full_episodes")
 
         episodes.append(
             {
@@ -686,6 +744,8 @@ def _scan_channel_episodes(
                 "merged_video_url": merged_local_url or merged_r2_url,
                 "merged_r2_url": merged_r2_url,
                 "merged_r2_key": merged_r2_key,
+                "merged_media_kind": m_media_info["media_kind"],
+                "merged_media_type": m_media_info["mime_type"],
                 "merged_video_path": merged_file or db_ep.get("merged_local_path"),
                 "merged_size_mb": merged_size,
                 "clips": clips_data,
@@ -702,14 +762,67 @@ async def _load_channel_db_maps(db, slug: str) -> tuple[dict[int, dict], dict[tu
         ep_cur = await db.execute("SELECT * FROM cms_episode WHERE channel_slug = ?", (slug,))
         for r in await ep_cur.fetchall():
             d = dict(r)
-            ep_map[int(d["episode_num"])] = d
+            ep_n = int(d["episode_num"])
+            if ep_n not in ep_map:
+                ep_map[ep_n] = d
+            else:
+                prev = ep_map[ep_n]
+                for k, v in d.items():
+                    if v is not None and v != "" and (prev.get(k) is None or prev.get(k) == ""):
+                        prev[k] = v
+                if d.get("is_complete"):
+                    prev["is_complete"] = 1
+                prev["rendered_clips"] = max(int(prev.get("rendered_clips") or 0), int(d.get("rendered_clips") or 0))
     except Exception:
         pass
     try:
         cl_cur = await db.execute("SELECT * FROM cms_clip WHERE channel_slug = ?", (slug,))
         for r in await cl_cur.fetchall():
             d = dict(r)
-            clip_map[(int(d["episode_num"]), int(d["clip_num"]))] = d
+            key = (int(d["episode_num"]), int(d["clip_num"]))
+            if key not in clip_map:
+                clip_map[key] = d
+            else:
+                prev = clip_map[key]
+                for k, v in d.items():
+                    if v is not None and v != "" and (prev.get(k) is None or prev.get(k) == ""):
+                        prev[k] = v
+                if d.get("status") == "COMPLETED":
+                    prev["status"] = "COMPLETED"
+    except Exception:
+        pass
+    # Backfill from cms_log (category = 'R2_UPLOAD') in case any R2 link was logged before DB sync
+    try:
+        lg_cur = await db.execute(
+            "SELECT episode, clip_num, details_json FROM cms_log WHERE channel_slug = ? AND category = 'R2_UPLOAD' ORDER BY id ASC",
+            (slug,),
+        )
+        for lr in await lg_cur.fetchall():
+            ld = dict(lr)
+            ep_n = ld.get("episode")
+            cl_n = ld.get("clip_num")
+            if ep_n is None:
+                continue
+            try:
+                det = json.loads(ld.get("details_json") or "{}")
+            except Exception:
+                det = {}
+            r2_u = det.get("r2_url")
+            r2_k = det.get("r2_key")
+            if not r2_u:
+                continue
+            if cl_n is not None:
+                key = (int(ep_n), int(cl_n))
+                entry = clip_map.setdefault(key, {"episode_num": int(ep_n), "clip_num": int(cl_n), "status": "COMPLETED"})
+                entry["r2_url"] = r2_u
+                entry["r2_key"] = r2_k or entry.get("r2_key")
+                entry["size_mb"] = det.get("size_mb") or entry.get("size_mb")
+                entry["status"] = "COMPLETED"
+            else:
+                entry = ep_map.setdefault(int(ep_n), {"episode_num": int(ep_n), "is_complete": 1})
+                entry["merged_r2_url"] = r2_u
+                entry["merged_r2_key"] = r2_k or entry.get("merged_r2_key")
+                entry["merged_size_mb"] = det.get("size_mb") or entry.get("merged_size_mb")
     except Exception:
         pass
     return ep_map, clip_map
@@ -1453,13 +1566,16 @@ async def serve_cms_media(path: str = Query(..., description="Relative path insi
         raise HTTPException(status_code=403, detail="Truy cập đường dẫn không hợp lệ.")
     if not os.path.isfile(abs_target):
         raise HTTPException(status_code=404, detail="File media không tồn tại.")
-    ext = os.path.splitext(abs_target)[1].lower()
-    media_type = "video/mp4" if ext == ".mp4" else ("image/jpeg" if ext in (".jpg", ".jpeg") else "application/octet-stream")
+    minfo = detect_media_info(abs_target)
     return FileResponse(
         abs_target,
-        media_type=media_type,
+        media_type=minfo["mime_type"],
         filename=os.path.basename(abs_target),
-        headers={"Cache-Control": "no-cache, must-revalidate"},
+        content_disposition_type="inline",
+        headers={
+            "Cache-Control": "no-cache, must-revalidate",
+            "Accept-Ranges": "bytes",
+        },
     )
 
 
@@ -1886,9 +2002,17 @@ async def sync_cms_cloud_record(body: SyncRecordRequest):
 
     if body.kind == "clip" and body.clip_num is not None:
         clip_id = f"{slug}:ep:{ep_num}:clip:{body.clip_num}"
-        cur = await db.execute("SELECT prompt FROM cms_clip WHERE id = ?", (clip_id,))
-        existing = await cur.fetchone()
-        prompt_val = body.prompt if body.prompt is not None else (existing["prompt"] if existing else "")
+        cur = await db.execute("SELECT * FROM cms_clip WHERE id = ?", (clip_id,))
+        existing_row = await cur.fetchone()
+        existing = dict(existing_row) if existing_row else {}
+        prompt_val = body.prompt if body.prompt is not None else (existing.get("prompt") or "")
+        r2_key_val = body.r2_key or existing.get("r2_key")
+        r2_url_val = body.r2_url or existing.get("r2_url")
+        frame_r2_key_val = body.frame_r2_key or existing.get("frame_r2_key")
+        frame_r2_url_val = body.frame_r2_url or existing.get("frame_r2_url")
+        size_val = body.size_mb if body.size_mb is not None else existing.get("size_mb")
+        dur_val = body.duration_s if body.duration_s is not None else existing.get("duration_s")
+        media_id_val = body.media_id or existing.get("media_id")
 
         await db.execute(
             """INSERT OR REPLACE INTO cms_clip
@@ -1900,21 +2024,21 @@ async def sync_cms_cloud_record(body: SyncRecordRequest):
             (
                 clip_id,
                 slug,
-                body.project_id,
+                body.project_id or existing.get("project_id"),
                 ep_num,
                 folder,
                 body.clip_num,
                 prompt_val,
                 body.status or "COMPLETED",
-                body.local_path,
-                body.r2_key,
-                body.r2_url,
-                body.frame_local_path,
-                body.frame_r2_key,
-                body.frame_r2_url,
-                body.size_mb,
-                body.duration_s,
-                body.media_id,
+                body.local_path or existing.get("local_path"),
+                r2_key_val,
+                r2_url_val,
+                body.frame_local_path or existing.get("frame_local_path"),
+                frame_r2_key_val,
+                frame_r2_url_val,
+                size_val,
+                dur_val,
+                media_id_val,
                 now,
             ),
         )
@@ -1947,14 +2071,22 @@ async def sync_cms_cloud_record(body: SyncRecordRequest):
                 "channel_slug": slug,
                 "episode_num": ep_num,
                 "clip_num": body.clip_num,
-                "r2_url": body.r2_url,
-                "r2_key": body.r2_key,
-                "size_mb": body.size_mb,
+                "r2_url": r2_url_val,
+                "r2_key": r2_key_val,
+                "size_mb": size_val,
             },
         )
-        return {"ok": True, "id": clip_id, "r2_url": body.r2_url}
+        return {"ok": True, "id": clip_id, "r2_url": r2_url_val}
 
     ep_id = f"{slug}:ep:{ep_num}"
+    cur_ep = await db.execute("SELECT * FROM cms_episode WHERE id = ?", (ep_id,))
+    existing_ep_row = await cur_ep.fetchone()
+    existing_ep = dict(existing_ep_row) if existing_ep_row else {}
+    merged_r2_key_val = body.merged_r2_key or existing_ep.get("merged_r2_key")
+    merged_r2_url_val = body.merged_r2_url or existing_ep.get("merged_r2_url")
+    merged_size_val = body.merged_size_mb or body.size_mb or existing_ep.get("merged_size_mb")
+    dur_ep_val = body.duration_s if body.duration_s is not None else existing_ep.get("duration_s")
+
     await db.execute(
         """INSERT OR REPLACE INTO cms_episode
            (id, channel_slug, project_id, episode_num, folder_name, label,
@@ -1964,18 +2096,18 @@ async def sync_cms_cloud_record(body: SyncRecordRequest):
         (
             ep_id,
             slug,
-            body.project_id,
+            body.project_id or existing_ep.get("project_id"),
             ep_num,
             folder,
-            body.label or f"Tập {ep_num:02d}",
-            body.total_clips,
-            body.rendered_clips,
+            body.label or existing_ep.get("label") or f"Tập {ep_num:02d}",
+            body.total_clips or existing_ep.get("total_clips") or 0,
+            body.rendered_clips or existing_ep.get("rendered_clips") or 0,
             body.is_complete,
-            body.merged_local_path,
-            body.merged_r2_key,
-            body.merged_r2_url,
-            body.merged_size_mb or body.size_mb,
-            body.duration_s,
+            body.merged_local_path or existing_ep.get("merged_local_path"),
+            merged_r2_key_val,
+            merged_r2_url_val,
+            merged_size_val,
+            dur_ep_val,
             now,
         ),
     )
@@ -2049,7 +2181,13 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
     Tự động quét các video clip & tập FULL (.mp4) đã hoàn thành trên máy và upload đồng loạt lên Cloudflare R2 Storage,
     sau đó cập nhật r2_url vào Cloudflare D1 SQL.
     """
-    from agent.services.r2_storage import load_r2_config, is_r2_configured, build_r2_key, upload_file_to_r2
+    from agent.services.r2_storage import (
+        load_r2_config,
+        is_r2_configured,
+        build_r2_key,
+        upload_file_to_r2,
+        list_r2_bucket_objects,
+    )
 
     await ensure_cms_seeded()
     db = await get_db()
@@ -2165,6 +2303,54 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                         ),
                     )
                     uploaded_episodes.append({"id": ep10_id, "r2_url": up_res["r2_url"], "size_mb": up_res["size_mb"]})
+
+    # 4. Also reconcile any existing objects already in R2 bucket (e.g. when local .mp4 files were deleted)
+    try:
+        r2_objs = await asyncio.to_thread(list_r2_bucket_objects, r2_cfg.get("r2_key_prefix", "series"), r2_cfg)
+        for obj in r2_objs:
+            okey = obj["r2_key"]
+            ourl = obj["r2_url"]
+            osize = obj["size_mb"]
+            parts = okey.split("/")
+            # Expected: series/<slug>/<category>/...
+            if len(parts) < 4:
+                continue
+            ch_slug = parts[1]
+            if body.channel_slug and body.channel_slug != "ALL" and ch_slug != body.channel_slug:
+                continue
+            cat = parts[2]
+            fname = parts[-1]
+            if cat == "episodes" and len(parts) >= 5:
+                subf = parts[3]
+                m_ep = re.search(r"(\d+)", subf) or re.search(r"(?:tap|canh|_T)[-_]?(\d+)", fname, re.IGNORECASE)
+                m_cl = re.search(r"(?:clip[-_]|_C)(\d+)\.mp4$", fname, re.IGNORECASE)
+                if m_ep and m_cl:
+                    ep_n = int(m_ep.group(1))
+                    cl_n = int(m_cl.group(1))
+                    if body.episode_num is not None and ep_n != body.episode_num:
+                        continue
+                    cid = f"{ch_slug}:ep:{ep_n}:clip:{cl_n}"
+                    await db.execute(
+                        """UPDATE cms_clip
+                           SET r2_key = ?, r2_url = ?, size_mb = COALESCE(size_mb, ?), status = 'COMPLETED', updated_at = ?
+                           WHERE id = ?""",
+                        (okey, ourl, osize, now, cid),
+                    )
+            elif cat == "full_episodes":
+                m_ep = re.search(r"(?:tap|canh)[-_]?(\d+)_FULL\.mp4$", fname, re.IGNORECASE)
+                if m_ep:
+                    ep_n = int(m_ep.group(1))
+                    if body.episode_num is not None and ep_n != body.episode_num:
+                        continue
+                    eid = f"{ch_slug}:ep:{ep_n}"
+                    await db.execute(
+                        """UPDATE cms_episode
+                           SET merged_r2_key = ?, merged_r2_url = ?, merged_size_mb = COALESCE(merged_size_mb, ?), is_complete = 1, updated_at = ?
+                           WHERE id = ?""",
+                        (okey, ourl, osize, now, eid),
+                    )
+    except Exception:
+        pass
 
     await db.commit()
     await record_cms_log(

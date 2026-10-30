@@ -28,6 +28,7 @@ import {
   Activity,
   X,
   Eye,
+  Cloud,
 } from 'lucide-react'
 import { fetchAPI, patchAPI, resolveApiUrl } from '../api/client'
 import { useWebSocketContext } from '../api/useWebSocketContext'
@@ -86,9 +87,12 @@ interface ClipItem {
   video_url: string | null
   r2_url?: string | null
   r2_key?: string | null
+  media_kind?: 'video' | 'image' | 'audio'
+  media_type?: string | null
   video_size_mb: number | null
   frame_url: string | null
   frame_r2_url?: string | null
+  frame_media_type?: string | null
 }
 
 interface EpisodeItem {
@@ -102,9 +106,94 @@ interface EpisodeItem {
   merged_video_url: string | null
   merged_r2_url?: string | null
   merged_r2_key?: string | null
+  merged_media_kind?: 'video' | 'image' | 'audio'
+  merged_media_type?: string | null
   merged_video_path: string | null
   merged_size_mb: number | null
   clips: ClipItem[]
+}
+
+function resolveMediaDescriptor(
+  rawUrl: string | null | undefined,
+  explicitMime?: string | null,
+  defaultExt: '.mp4' | '.jpg' = '.mp4',
+): {
+  url: string
+  kind: 'video' | 'image' | 'audio'
+  mimeType: string
+  extBadge: string
+} | null {
+  if (!rawUrl) return null
+  let normalized = rawUrl.trim()
+  if (normalized.includes('pub-31538b394ab64f96ba3dff5f02ecab44.r2.dev')) {
+    normalized = normalized
+      .replace(
+        'https://pub-31538b394ab64f96ba3dff5f02ecab44.r2.dev/flowkit/series/',
+        'https://pub-53dae622644845c09c48558d8a42fe29.r2.dev/series/',
+      )
+      .replace(
+        'https://pub-31538b394ab64f96ba3dff5f02ecab44.r2.dev/series/',
+        'https://pub-53dae622644845c09c48558d8a42fe29.r2.dev/series/',
+      )
+  } else if (normalized.includes('.r2.dev/flowkit/series/')) {
+    normalized = normalized.replace('.r2.dev/flowkit/series/', '.r2.dev/series/')
+  }
+
+  const cleanPath = normalized.split('?')[0].split('#')[0]
+  const hasKnownExt = /\.(mp4|m4v|webm|mov|jpg|jpeg|png|webp|gif|mp3|wav|m4a)$/i.test(cleanPath)
+  if (!hasKnownExt && normalized.includes('.r2.dev/')) {
+    normalized = `${normalized}${defaultExt}`
+  }
+
+  const lower = normalized.split('?')[0].toLowerCase()
+  let kind: 'video' | 'image' | 'audio' = 'video'
+  let mimeType = explicitMime || 'video/mp4'
+  let extBadge = 'MP4'
+
+  if (lower.endsWith('.jpg') || lower.endsWith('.jpeg') || explicitMime === 'image/jpeg') {
+    kind = 'image'
+    mimeType = 'image/jpeg'
+    extBadge = 'JPG'
+  } else if (lower.endsWith('.png') || explicitMime === 'image/png') {
+    kind = 'image'
+    mimeType = 'image/png'
+    extBadge = 'PNG'
+  } else if (lower.endsWith('.webp') || explicitMime === 'image/webp') {
+    kind = 'image'
+    mimeType = 'image/webp'
+    extBadge = 'WEBP'
+  } else if (lower.endsWith('.gif') || explicitMime === 'image/gif') {
+    kind = 'image'
+    mimeType = 'image/gif'
+    extBadge = 'GIF'
+  } else if (lower.endsWith('.mp3') || explicitMime === 'audio/mpeg') {
+    kind = 'audio'
+    mimeType = 'audio/mpeg'
+    extBadge = 'MP3'
+  } else if (lower.endsWith('.wav') || explicitMime === 'audio/wav') {
+    kind = 'audio'
+    mimeType = 'audio/wav'
+    extBadge = 'WAV'
+  } else if (lower.endsWith('.webm') || explicitMime === 'video/webm') {
+    kind = 'video'
+    mimeType = 'video/webm'
+    extBadge = 'WEBM'
+  } else if (lower.endsWith('.mov') || explicitMime === 'video/quicktime') {
+    kind = 'video'
+    mimeType = 'video/quicktime'
+    extBadge = 'MOV'
+  } else {
+    kind = 'video'
+    mimeType = 'video/mp4'
+    extBadge = 'MP4'
+  }
+
+  return {
+    url: resolveApiUrl(normalized),
+    kind,
+    mimeType,
+    extBadge,
+  }
 }
 
 interface CloudStatusResponse {
@@ -1978,7 +2067,7 @@ export default function ChannelsCMSPage() {
                   <div className="studio-card rounded-3xl p-5 flex flex-col gap-4">
                     <div className="flex flex-wrap items-center justify-between gap-3">
                       <div>
-                        <div className="flex items-center gap-2.5">
+                        <div className="flex items-center gap-2.5 flex-wrap">
                           <span className="text-base font-extrabold text-white">
                             🎬 {currentEpisode.label} ({currentEpisode.folder_name})
                           </span>
@@ -1991,6 +2080,11 @@ export default function ChannelsCMSPage() {
                           >
                             {currentEpisode.rendered_clips}/{currentEpisode.total_clips} Clips đã có MP4
                           </span>
+                          {(currentEpisode.r2_synced_clips ?? 0) > 0 && (
+                            <span className="text-[11px] px-2.5 py-0.5 rounded-full font-semibold bg-cyan-500/15 text-cyan-300 border border-cyan-500/30 flex items-center gap-1">
+                              <Cloud size={11} /> {currentEpisode.r2_synced_clips}/{currentEpisode.total_clips} Clips đã lưu R2
+                            </span>
+                          )}
                         </div>
                         <p className="text-xs text-slate-400 mt-1">
                           Khi các clip nhỏ hoàn tất, hệ thống tự động ghép nối bằng FFmpeg thành tập hoàn chỉnh:{' '}
@@ -2072,7 +2166,14 @@ export default function ChannelsCMSPage() {
                                 <Clock size={15} className="text-slate-500 shrink-0" />
                               )}
                               <div>
-                                <div className="text-xs font-bold">Clip {String(clip.clip_num).padStart(2, '0')}</div>
+                                <div className="text-xs font-bold flex items-center gap-1.5">
+                                  <span>Clip {String(clip.clip_num).padStart(2, '0')}</span>
+                                  {clip.r2_url && (
+                                    <span className="px-1.5 py-0.2 rounded text-[9px] font-bold bg-cyan-500/20 text-cyan-300 border border-cyan-500/40">
+                                      ☁️ R2
+                                    </span>
+                                  )}
+                                </div>
                                 <div className="text-[10px] opacity-75">
                                   {isDone ? (clip.video_size_mb ? `${clip.video_size_mb} MB` : 'Đã hoàn thành') : 'Chờ render'}
                                 </div>
@@ -2108,55 +2209,167 @@ export default function ChannelsCMSPage() {
                     </div>
 
                     {/* Full Episode Merged Cinema Player */}
-                    {currentEpisode.merged_video_url && (
-                      <div
-                        className="p-4 rounded-2xl border border-amber-500/40 flex flex-col md:flex-row gap-5 items-center"
-                        style={{
-                          background:
-                            'linear-gradient(135deg, rgba(245, 158, 11, 0.12) 0%, rgba(15, 23, 42, 0.95) 100%)',
-                        }}
-                      >
-                        <video
-                          key={currentEpisode.merged_video_url}
-                          src={resolveApiUrl(currentEpisode.merged_video_url)}
-                          controls
-                          className="rounded-xl border border-amber-500/30 bg-black max-h-60 w-auto shadow-xl"
-                        />
-                        <div className="flex flex-col gap-2.5 flex-1">
-                          <div className="inline-flex items-center gap-2 text-xs font-extrabold uppercase tracking-wider text-amber-300">
-                            <Sparkles size={15} />
-                            <span>Tập Phim Hoàn Chỉnh Đã Ghép Tự Động (FULL EPISODE)</span>
-                          </div>
-                          <div className="text-xs text-slate-200">
-                            Tên file xuất bản:{' '}
-                            <code className="px-2 py-0.5 rounded-md bg-black/40 border border-white/10 text-amber-300 font-mono">
-                              {routeSlug}_tap-{String(currentEpisode.episode_num).padStart(2, '0')}_FULL.mp4
-                            </code>
-                          </div>
-                          <div className="text-xs text-slate-400">
-                            Dung lượng: <strong className="text-white">{currentEpisode.merged_size_mb} MB</strong> • Đã
-                            nối liền mạch từ{' '}
-                            <strong className="text-white">{currentEpisode.rendered_clips} clips nhỏ</strong>
-                          </div>
-                          <div className="pt-1 flex items-center gap-2.5 flex-wrap">
-                            <a
-                              href={resolveApiUrl(currentEpisode.merged_video_url)}
-                              download
-                              className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-amber-400 hover:bg-amber-300 text-slate-950 transition-colors shadow-lg"
+                    {(currentEpisode.merged_video_url || currentEpisode.merged_r2_url) && (() => {
+                      const mergedMedia = resolveMediaDescriptor(
+                        currentEpisode.merged_video_url || currentEpisode.merged_r2_url,
+                        currentEpisode.merged_media_type,
+                        '.mp4',
+                      )
+                      const mergedR2Media = resolveMediaDescriptor(
+                        currentEpisode.merged_r2_url,
+                        currentEpisode.merged_media_type,
+                        '.mp4',
+                      )
+                      if (!mergedMedia) return null
+                      return (
+                        <div
+                          className="p-4 rounded-2xl border border-amber-500/40 flex flex-col md:flex-row gap-5 items-center"
+                          style={{
+                            background:
+                              'linear-gradient(135deg, rgba(245, 158, 11, 0.12) 0%, rgba(15, 23, 42, 0.95) 100%)',
+                          }}
+                        >
+                          {mergedMedia.kind === 'image' ? (
+                            <img
+                              key={mergedMedia.url}
+                              src={mergedMedia.url}
+                              alt={currentEpisode.label}
+                              className="rounded-xl border border-amber-500/30 bg-black max-h-60 w-auto shadow-xl object-contain"
+                            />
+                          ) : mergedMedia.kind === 'audio' ? (
+                            <audio key={mergedMedia.url} controls className="w-full max-w-md">
+                              <source src={mergedMedia.url} type={mergedMedia.mimeType} />
+                            </audio>
+                          ) : (
+                            <video
+                              key={mergedMedia.url}
+                              controls
+                              preload="metadata"
+                              playsInline
+                              className="rounded-xl border border-amber-500/30 bg-black max-h-60 w-auto shadow-xl"
                             >
-                              <Download size={14} /> Tải Tập Hoàn Chỉnh (.MP4) Về Máy
-                            </a>
-                            {currentEpisode.merged_r2_url && (
+                              <source src={mergedMedia.url} type={mergedMedia.mimeType} />
+                            </video>
+                          )}
+                          <div className="flex flex-col gap-2.5 flex-1">
+                            <div className="inline-flex items-center gap-2 text-xs font-extrabold uppercase tracking-wider text-amber-300">
+                              <Sparkles size={15} />
+                              <span>Tập Phim Hoàn Chỉnh Đã Ghép Tự Động (FULL EPISODE • {mergedMedia.extBadge})</span>
+                            </div>
+                            <div className="text-xs text-slate-200">
+                              Tên file xuất bản:{' '}
+                              <code className="px-2 py-0.5 rounded-md bg-black/40 border border-white/10 text-amber-300 font-mono">
+                                {routeSlug}_tap-{String(currentEpisode.episode_num).padStart(2, '0')}_FULL.mp4
+                              </code>
+                            </div>
+                            <div className="text-xs text-slate-400">
+                              Dung lượng: <strong className="text-white">{currentEpisode.merged_size_mb} MB</strong> •
+                              Định dạng: <strong className="text-emerald-300">{mergedMedia.mimeType}</strong> • Đã nối
+                              liền mạch từ{' '}
+                              <strong className="text-white">{currentEpisode.rendered_clips} clips nhỏ</strong>
+                            </div>
+                            <div className="pt-1 flex items-center gap-2.5 flex-wrap">
                               <a
-                                href={currentEpisode.merged_r2_url}
-                                target="_blank"
-                                rel="noreferrer"
-                                className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs font-bold bg-cyan-500/20 hover:bg-cyan-500/30 border border-cyan-500/40 text-cyan-200 transition-colors"
+                                href={mergedMedia.url}
+                                download
+                                className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-amber-400 hover:bg-amber-300 text-slate-950 transition-colors shadow-lg"
                               >
-                                <ExternalLink size={13} /> ☁️ Mở Link R2 Storage
+                                <Download size={14} /> Tải Tập Hoàn Chỉnh (.{mergedMedia.extBadge}) Về Máy
                               </a>
-                            )}
+                              {mergedR2Media && (
+                                <a
+                                  href={mergedR2Media.url}
+                                  target="_blank"
+                                  rel="noreferrer"
+                                  className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs font-bold bg-cyan-500/20 hover:bg-cyan-500/30 border border-cyan-500/40 text-cyan-200 transition-colors"
+                                >
+                                  <ExternalLink size={13} /> ☁️ Mở Link R2 ({mergedR2Media.extBadge})
+                                </a>
+                              )}
+                            </div>
                           </div>
+                        </div>
+                      )
+                    })()}
+
+                    {/* Danh Sách Link Cloudflare R2 Của Toàn Bộ Các Clip Trong Tập */}
+                    {(currentEpisode.clips.some(c => Boolean(c.r2_url)) || Boolean(currentEpisode.merged_r2_url)) && (
+                      <div className="p-3.5 rounded-2xl bg-slate-950/80 border border-cyan-500/30 flex flex-col gap-2.5">
+                        <div className="flex items-center justify-between gap-2 flex-wrap">
+                          <span className="text-xs font-bold text-cyan-300 flex items-center gap-1.5">
+                            <Cloud size={14} className="text-cyan-400" />
+                            ☁️ Danh Sách Link Cloudflare R2 Đã Lưu Của {currentEpisode.label}
+                          </span>
+                          <button
+                            onClick={() => {
+                              const links = [
+                                ...(currentEpisode.merged_r2_url
+                                  ? [`[FULL] ${currentEpisode.merged_r2_url}`]
+                                  : []),
+                                ...currentEpisode.clips
+                                  .filter(c => Boolean(c.r2_url))
+                                  .map(c => `[Clip ${String(c.clip_num).padStart(2, '0')}] ${c.r2_url}`),
+                              ].join('\n')
+                              navigator.clipboard.writeText(links)
+                              setStatusBanner({
+                                type: 'success',
+                                text: `📋 Đã copy toàn bộ link Cloudflare R2 của ${currentEpisode.label} vào bộ nhớ tạm!`,
+                              })
+                            }}
+                            className="px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-cyan-500/15 hover:bg-cyan-500/25 text-cyan-200 border border-cyan-500/30 flex items-center gap-1 cursor-pointer"
+                          >
+                            <Copy size={11} /> Copy Tất Cả Link R2
+                          </button>
+                        </div>
+
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-2 max-h-44 overflow-y-auto pr-1">
+                          {currentEpisode.clips
+                            .filter(c => Boolean(c.r2_url))
+                            .map(c => (
+                              <div
+                                key={c.clip_num}
+                                className="px-3 py-2 rounded-xl bg-slate-900/90 border border-slate-800 flex items-center justify-between gap-2 text-[11px]"
+                              >
+                                <div className="flex items-center gap-2 min-w-0 flex-1">
+                                  <span className="px-1.5 py-0.5 rounded bg-cyan-500/20 text-cyan-300 font-bold shrink-0">
+                                    Clip {String(c.clip_num).padStart(2, '0')}
+                                  </span>
+                                  <a
+                                    href={c.r2_url!}
+                                    target="_blank"
+                                    rel="noreferrer"
+                                    className="text-slate-300 hover:text-cyan-300 font-mono truncate"
+                                    title={c.r2_url!}
+                                  >
+                                    {c.r2_url}
+                                  </a>
+                                </div>
+                                <div className="flex items-center gap-1.5 shrink-0">
+                                  <button
+                                    onClick={() => {
+                                      navigator.clipboard.writeText(c.r2_url || '')
+                                      setStatusBanner({
+                                        type: 'success',
+                                        text: `📋 Đã copy link R2 của Clip ${String(c.clip_num).padStart(2, '0')}!`,
+                                      })
+                                    }}
+                                    className="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold flex items-center gap-1 cursor-pointer"
+                                    title="Copy link R2"
+                                  >
+                                    <Copy size={11} /> Copy
+                                  </button>
+                                  <a
+                                    href={c.r2_url!}
+                                    target="_blank"
+                                    rel="noreferrer"
+                                    className="px-2 py-1 rounded bg-cyan-500/20 hover:bg-cyan-500/30 text-cyan-300 font-semibold flex items-center gap-1"
+                                    title="Mở link R2"
+                                  >
+                                    <ExternalLink size={11} /> R2
+                                  </a>
+                                </div>
+                              </div>
+                            ))}
                         </div>
                       </div>
                     )}
@@ -2268,42 +2481,149 @@ export default function ChannelsCMSPage() {
                             )}
                           </div>
 
-                          {currentClip.video_url ? (
-                            <div className="p-3 rounded-2xl bg-slate-950/90 border border-slate-800 flex flex-col gap-2.5">
-                              <video
-                                key={currentClip.video_url}
-                                src={resolveApiUrl(currentClip.video_url)}
-                                controls
-                                className="w-full max-h-64 rounded-xl bg-black"
-                              />
-                              <div className="flex items-center justify-between gap-2 flex-wrap text-[11px] text-slate-400 px-1">
-                                <span>Đã kết xuất thành công</span>
-                                <div className="flex items-center gap-3">
-                                  <button
-                                    disabled={startingJob || Boolean(activeChannelJob?.running)}
-                                    onClick={() =>
-                                      handleRunJob(
-                                        currentEpisode.episode_num,
-                                        currentEpisode.episode_num,
-                                        currentClip.clip_num,
-                                      )
-                                    }
-                                    className="text-amber-400 hover:text-amber-300 font-semibold flex items-center gap-1 cursor-pointer disabled:opacity-50"
-                                    title="Tạo lại và ghi đè trực tiếp lên đúng file clip này"
+                          {currentClip.video_url || currentClip.r2_url ? (() => {
+                            const clipMedia = resolveMediaDescriptor(
+                              currentClip.video_url || currentClip.r2_url,
+                              currentClip.media_type,
+                              '.mp4',
+                            )
+                            const clipR2Media = resolveMediaDescriptor(
+                              currentClip.r2_url,
+                              currentClip.media_type,
+                              '.mp4',
+                            )
+                            const frameMedia = resolveMediaDescriptor(
+                              currentClip.frame_url || currentClip.frame_r2_url,
+                              currentClip.frame_media_type,
+                              '.jpg',
+                            )
+                            if (!clipMedia) return null
+                            return (
+                              <div className="p-3 rounded-2xl bg-slate-950/90 border border-slate-800 flex flex-col gap-2.5">
+                                {clipMedia.kind === 'image' ? (
+                                  <img
+                                    key={clipMedia.url}
+                                    src={clipMedia.url}
+                                    alt={`Clip ${currentClip.clip_num}`}
+                                    className="w-full max-h-64 rounded-xl bg-black object-contain"
+                                  />
+                                ) : clipMedia.kind === 'audio' ? (
+                                  <audio key={clipMedia.url} controls className="w-full">
+                                    <source src={clipMedia.url} type={clipMedia.mimeType} />
+                                  </audio>
+                                ) : (
+                                  <video
+                                    key={clipMedia.url}
+                                    controls
+                                    preload="metadata"
+                                    playsInline
+                                    className="w-full max-h-64 rounded-xl bg-black"
                                   >
-                                    <RefreshCw size={12} /> Tạo lại & ghi đè clip này
-                                  </button>
-                                  <a
-                                    href={resolveApiUrl(currentClip.video_url)}
-                                    download
-                                    className="text-indigo-400 hover:text-indigo-300 font-semibold flex items-center gap-1"
-                                  >
-                                    <Download size={12} /> Tải clip lẻ (.mp4)
-                                  </a>
+                                    <source src={clipMedia.url} type={clipMedia.mimeType} />
+                                  </video>
+                                )}
+                                <div className="flex items-center justify-between gap-2 flex-wrap text-[11px] text-slate-400 px-1">
+                                  <span className="flex items-center gap-1.5">
+                                    <span className="px-1.5 py-0.5 rounded bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 text-[10px] font-bold">
+                                      {clipMedia.extBadge} • {clipMedia.mimeType}
+                                    </span>
+                                    <span>
+                                      {currentClip.r2_url ? '☁️ Đã lưu trên Cloudflare R2' : 'Đã kết xuất thành công'}
+                                    </span>
+                                  </span>
+                                  <div className="flex items-center gap-3 flex-wrap">
+                                    <button
+                                      disabled={startingJob || Boolean(activeChannelJob?.running)}
+                                      onClick={() =>
+                                        handleRunJob(
+                                          currentEpisode.episode_num,
+                                          currentEpisode.episode_num,
+                                          currentClip.clip_num,
+                                        )
+                                      }
+                                      className="text-amber-400 hover:text-amber-300 font-semibold flex items-center gap-1 cursor-pointer disabled:opacity-50"
+                                      title="Tạo lại và ghi đè trực tiếp lên đúng file clip này"
+                                    >
+                                      <RefreshCw size={12} /> Tạo lại & ghi đè clip này
+                                    </button>
+                                    <a
+                                      href={clipMedia.url}
+                                      target="_blank"
+                                      rel="noreferrer"
+                                      download
+                                      className="text-indigo-400 hover:text-indigo-300 font-semibold flex items-center gap-1"
+                                    >
+                                      <Download size={12} /> Tải clip lẻ (.{clipMedia.extBadge.toLowerCase()})
+                                    </a>
+                                  </div>
                                 </div>
+
+                                {clipR2Media && (
+                                  <div className="p-2.5 rounded-xl bg-cyan-950/30 border border-cyan-500/30 flex flex-col gap-1.5">
+                                    <div className="flex items-center justify-between gap-2">
+                                      <span className="text-[11px] font-bold text-cyan-300 flex items-center gap-1">
+                                        <Cloud size={12} className="text-cyan-400" /> Link Cloudflare R2 (Clip{' '}
+                                        {String(currentClip.clip_num).padStart(2, '0')} • {clipR2Media.extBadge}):
+                                      </span>
+                                      <div className="flex items-center gap-1.5">
+                                        <button
+                                          onClick={() => {
+                                            navigator.clipboard.writeText(clipR2Media.url)
+                                            setStatusBanner({
+                                              type: 'success',
+                                              text: `📋 Đã copy link R2 (.${clipR2Media.extBadge.toLowerCase()}) của Clip ${String(currentClip.clip_num).padStart(2, '0')}!`,
+                                            })
+                                          }}
+                                          className="px-2 py-0.5 rounded bg-cyan-500/20 hover:bg-cyan-500/30 text-cyan-200 text-[10px] font-semibold flex items-center gap-1 cursor-pointer"
+                                        >
+                                          <Copy size={10} /> Copy Link
+                                        </button>
+                                        <a
+                                          href={clipR2Media.url}
+                                          target="_blank"
+                                          rel="noreferrer"
+                                          className="px-2 py-0.5 rounded bg-cyan-500/25 hover:bg-cyan-500/35 text-cyan-100 text-[10px] font-semibold flex items-center gap-1"
+                                        >
+                                          <ExternalLink size={10} /> Mở R2 ({clipR2Media.extBadge})
+                                        </a>
+                                      </div>
+                                    </div>
+                                    <a
+                                      href={clipR2Media.url}
+                                      target="_blank"
+                                      rel="noreferrer"
+                                      className="text-[10px] font-mono text-cyan-200/90 hover:text-cyan-100 break-all bg-slate-950/70 px-2 py-1 rounded border border-cyan-500/20"
+                                    >
+                                      {clipR2Media.url}
+                                    </a>
+                                  </div>
+                                )}
+
+                                {frameMedia && (
+                                  <div className="p-2.5 rounded-xl bg-slate-900/80 border border-slate-800 flex items-center gap-3">
+                                    <img
+                                      src={frameMedia.url}
+                                      alt={`Last frame Clip ${currentClip.clip_num}`}
+                                      className="w-14 h-14 rounded-lg object-cover border border-slate-700 shrink-0"
+                                    />
+                                    <div className="flex flex-col gap-1 min-w-0 flex-1">
+                                      <span className="text-[11px] font-bold text-slate-200">
+                                        🖼️ Frame Cuối Nối Cảnh ({frameMedia.extBadge} • {frameMedia.mimeType})
+                                      </span>
+                                      <a
+                                        href={frameMedia.url}
+                                        target="_blank"
+                                        rel="noreferrer"
+                                        className="text-[10px] font-mono text-indigo-300 hover:underline truncate"
+                                      >
+                                        {frameMedia.url}
+                                      </a>
+                                    </div>
+                                  </div>
+                                )}
                               </div>
-                            </div>
-                          ) : (
+                            )
+                          })() : (
                             <div className="p-8 rounded-2xl bg-slate-950/60 border border-dashed border-slate-800 text-center flex flex-col items-center justify-center gap-2.5 h-56">
                               <div className="w-10 h-10 rounded-2xl bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-500">
                                 <Video size={20} />

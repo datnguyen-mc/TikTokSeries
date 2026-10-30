@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 47: Tỉnh
+# Kẻ Sống Sót: Bóng Ma — Cảnh 47: Tỉnh Lại
 
-**Cảnh 47/60** · Phút 46:00 – 47:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 46](../canh-46/README.md) | [Cảnh 48 →](../canh-48/README.md)
+Phút 46:00–47:00 · Thời gian truyện: D7 night continuous
 
----
+Sơn chấp nhận đi cùng Mây trong vai trò hỗ trợ, không tự lao đi.
 
-## 1. Tóm tắt cảnh
-Linh nhìn đồng hồ: ba mươi tám; ông đưa thuốc giải vào cẳng tay Sơn, chậm, hết ống; rút kim; chờ. Mười giây im; Linh đặt ống nghe; Mây nín thở; ngoài xe Dũng cũng im. Sơn bước xuống xe, chân còn mềm, vịn cửa; Dũng còng ở tay nắm nhìn anh như nhìn ma; Sơn cầm chìa xe máy Thành treo ở gương.
+**Câu hỏi đang mở:** Sơn có chấp nhận được cứu và đi sau người khác?
+**Móc vào cảnh:** Bàn chân chạm sàn mà cơ thể chưa đứng vững.
+**Điểm bẻ:** Anh chấp nhận vị trí hỗ trợ, Mây dẫn đường thay vì thả anh tự lao đi.
+**Gieo / trả:** Khẳng định cái giá Tê còn tồn tại suốt cuộc tiếp cận.
 
-* **Bối cảnh chính:** Trong xe van, đêm, đèn pin, đồng hồ bấm giờ.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Dũng Đinh (@Dũng), Bác sĩ Linh (@Bác sĩ Linh)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Sơn seated with support, Mây at the doorway, Linh watching him. | Linh checks that he can follow instructions and move both feet. | Sơn still seated, feet on van floor, Linh close enough to support. | Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Chậm thôi. Anh chưa khỏe lại. |
+| [2](clip-2.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Sơn still seated, feet on van floor, Linh close enough to support. | Sơn tells Mây about the lower hatch Hạ described in the past. | Mây drawing the service hatch below the gallery on her notepad. | Sơn (@Son), nói trong hình: Hạ biết cửa dưới ban công. |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Mây drawing the service hatch below the gallery on her notepad. | Mây receives confirmation that the main door is accessible, decides to lead that approach herself. | Mây closing her notepad, Linh continuing to support Sơn. | Mây (@May), nói trong hình: Đi với tôi. Ở phía sau tôi. |
+| [4](clip-4.md) | L · L-cut: âm cũ đi qua cú cắt | Mây helping Sơn step down, Linh beside his weaker left side. | Sơn tests his balance against the van door instead of running. | Sơn standing with support, right hand holding the closed watch. | — |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Motorcycle stationary, engine off, two helmets on the seat. | Sơn pockets the closed watch, both fasten their helmets, then Mây takes the front seat and Sơn the pillion seat. | Mây riding position, Sơn seated behind, both helmets fastened. | — |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Both seated on the stationary motorcycle, helmets already fastened. | Mây starts the engine, confirms the route by radio, departs slowly with Sơn holding the rail. | Motorcycle leaving left to right, Sơn seated steadily behind her. | Mây (@May), nói trong hình: Chúng tôi lên cửa chính. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Linh nhìn đồng hồ: ba mươi tám; ông đưa thuốc giải vào cẳng tay Sơn, chậm, hết ống; rút kim; chờ.** | Bác sĩ Linh: "Ba mươi tám. Đưa thuốc." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Cận mặt Sơn: mắt mở không đổi; lời dẫn.** | Sơn (Voice-over): "Thuốc giải nóng như trà bà Hai." · Sơn (Voice-over): "Tôi đợi tim tôi nhớ việc của nó." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mười giây im; Linh đặt ống nghe; Mây nín thở; ngoài xe Dũng cũng im.** | Mây: "Linh..." · Bác sĩ Linh: "Chờ." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Máy chậm dần: ngón tay Sơn siết đồng hồ; ngực nhô; anh hít một hơi dài như người ngoi từ đáy biển; mắt chớp lần đầu sau bốn mươi phút.** | — | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Sơn ngồi dậy, chống tay, ho; Mây đỡ lưng; anh nhìn đồng hồ trong tay mình rồi nhìn Mây.** | Sơn: "Hạ?" · Mây: "Hải đăng. Kiên một mình." · Sơn: "Phút mấy?" · Linh: "Ba mươi chín." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Sơn bước xuống xe, chân còn mềm, vịn cửa; Dũng còng ở tay nắm nhìn anh như nhìn ma; Sơn cầm chìa xe máy Thành treo ở gương.** | Dũng: "Mày là ma thiệt." · Sơn: "Ngồi đó, Dũng. Tao không còn là việc của mày." | Frames / Extend (nối liền) |
+- **1:** Keep the cost of Tê visible just as the audience wants Sơn to get moving. **Diễn xuất:** Sơn wants to hurry but has to concentrate on following the simple instruction; Linh stays matter-of-fact.
+- **2:** Make Sơn contribute knowledge while accepting that someone else controls the rescue. **Diễn xuất:** He speaks with effort but precision, not a fresh monologue about their romance or his expertise.
+- **3:** Move leadership to Mây without making Sơn passive or repeating the whole tactical plan. **Diễn xuất:** Her firmness is protective and professional; Sơn's assent should be a small visible acceptance, not defiance.
+- **4:** Make standing itself an obstacle so the next journey has physical stakes. **Diễn xuất:** Sơn hides embarrassment more than pain, Mây waits for a stable footing without an impatient pull.
+- **5:** Turn practical preparation into proof that the rescue is controlled, not reckless flight. **Diễn xuất:** He moves cautiously around the bike, she checks his readiness without treating him as a child.
+- **6:** Let Mây carry both responsibility and literal control of the journey. **Diễn xuất:** Sơn stays behind her and does not reach for the controls; Mây sounds focused, not exhilarated.
 
----
+**Âm nối sang cảnh sau:** Keep the same motorcycle ignition after helmets are secured. Cut to the road with movement still left to right.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

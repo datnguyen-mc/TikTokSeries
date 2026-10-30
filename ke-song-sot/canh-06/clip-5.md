@@ -1,31 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 4: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@Ha = HẠ: Vietnamese woman, 32, long loose black hair, pale-blue silk scarf, cream linen dress with a green florist apron; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. cream linen dress, green florist apron, pale-blue scarf at neck, flat sandals. Voice: warm, clear Southern Vietnamese female voice.
+Sơn right hand bare, left hand still gloved. He retrieves the loose right glove before leaving.
+
+
+[TIMELINE AND LOCATION]
+Scene 06/60, clip 5/6; shot 06.5. Story time: PAST one month earlier night.
+Back room of Hạ flower shop, kettle and small wooden table, rear doorway toward main counter.
+Recent-past night, warm back-room bulbs and soft street spill, kettle steam.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make accepting the watch require Sơn's voluntary response, preserving Hạ's agency in the offer.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 06.4, ending with Closed watch resting on Hạ's open palm.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Hạ extending the watch toward Sơn's bare right hand.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Return to the medium setup with both faces and the exchange visible, table still between them.
+Focus: Keep their faces and joined object area readable without cutting to an insert or changing the setup.
+
+[ACTION — 0–10s, one evolving take]
+She sets it in his palm, lets him decide to close his fingers.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Leave the space after her hand withdraws; his fingers closing should be the answer before he speaks again.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Hạ sets the case in his bare right palm, withdraws her hand and waits for him to close his fingers.
+Performance: Her invitation is hopeful but conditional; he receives it with hesitation, not a romantic grin on cue.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Hạ (@Ha), nói trong hình: Hết việc, mở ra. Rồi về biển.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
-ĐỒNG HỒ QUẢ QUÝT (Hạ's pocket watch): an old silver pocket watch on a chain, a small flower engraved on the lid (no readable text), its glass cracked, a tiny photo of a woman with a pale-blue scarf inside the lid.
+Reference only; enact only the current ACTION, not a future handover.
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. Before the escape it is intact and ticking softly. Do not open it.
 
-[SETTING]
-FLOWER SHOP (past): a small flower shop at the foot of a glass tower, buckets of white lilies and roses, a wooden counter, warm bulbs, a back room with a kettle, a glass front onto the street; no readable text.
-Story setting: Quá khứ, tiệm hoa đóng cửa, đêm ám vàng, phòng sau có ấm trà.
-Scene 6/60, timecode 05:00 – 06:00, clip 5/6 (40–50s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+The thin chain moves naturally against his palm, while the single loose glove remains where it was left.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
-
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Tiếp tục một hơi, chưa đổi góc: Hạ (@Ha) lấy từ ngăn kéo một đồng hồ quả quýt bạc; ánh bóng đèn vàng trên quầy gỗ.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — nắp khắc hoa, cô đặt vào bàn tay trần của anh. Nói nhỏ nhưng khẩu hình rõ, máy không rung: Hạ (@Ha): "Của ba em. Khi nào anh hết việc, mở ra xem giờ."
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — khép tay anh lại. Đứng hình nửa giây, kể cả gió.
 
 [SOUND]
-Âm thanh nền: chuông cửa, kéo cắt cành; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: kettle and muffled street traffic.
+Foreground sound: Her sentence should be intimate and clear above the quiet tick, with no swelling score sealing the promise.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Cô đặt vào bàn tay trần của anh, khép tay anh lại, perfectly still for half a second so clip 6 can continue without a cut.
+[END FRAME — natural motion continues]
+Sơn holding the closed watch, Hạ's hand withdrawn.
+Next shot 06.6: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

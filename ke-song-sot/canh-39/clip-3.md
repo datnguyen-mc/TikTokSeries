@@ -1,30 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 2. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. one glasses arm bent, held by tape after rescue. Voice: quick, polite Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cảng cá Hòn Sóng, chiều ngày 7, hoàng hôn cam, ghe, thúng, cột đèn.
-Scene 39/60, timecode 38:00 – 39:00, clip 3/6 (20–30s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
+[TIMELINE AND LOCATION]
+Scene 39/60, clip 3/6; shot 39.3. Story time: D7 sunset.
+Low market roof overlooking east and west harbour roads, landward apron and uphill lighthouse service path.
+Present-day sunset, one low sun west, clear soft fill on faces, no impossible opposing sun shadows.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow dolly in from medium shot — Nhịp đầu nối thẳng, không chuyển: Sơn (@Son) đi ra cầu cảng từ phía chợ; ghe va mạn, dây neo căng. Voice-over, hình đi tiếp dưới lời dẫn: Sơn (@Son) (Voice-over): "Phút thứ nhất chưa bắt đầu. Tôi còn cả hoàng hôn."
-00:03.5–00:07.0 | 35mm medium shot, emotional distance readable in frame — vest đen, bông ly trên túi, không găng.
-00:07.0–00:10.0 | 85mm close-up on the quiet gaze — anh dừng giữa cầu cảng, đúng chỗ nhìn được cả hai đầu. Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show what Thành can verify while leaving the exchange itself outside his control.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 39.2, ending with Van and stretcher path clear, Mây heading back to the pier.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Thành looking down at two officers covering the harbour junction.
+
+[CAMERA]
+50mm stable over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use his established observation side with both road officers and the empty public pier below.
+Focus: Keep the roads readable rather than manufacturing sharp tiny faces through impossible binocular reflections.
+
+[ACTION — 0–10s, one evolving take]
+He confirms both arrival roads are watched and civilians have left.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Finish his check and let the empty pier hold the unease of a place waiting for people.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He checks each approach once and reports the cleared civilian area without scanning theatrically everywhere.
+Performance: He speaks with regained steadiness, repaired glasses still a reminder of yesterday's limits.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Thành (@Phó Thành), nói trong hình: Đủ vị trí. Chợ đã rút hết.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Wind on roof metal and taped frames connect this post to the earlier preparation.
+
 
 [SOUND]
-Âm thanh nền: ghe cá va mạn, dây neo kêu; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: sea wind and quiet radio traffic.
+Foreground sound: Radio confirmation is brief, with wind remaining at its existing level rather than dropping for suspense.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Anh dừng giữa cầu cảng, đúng chỗ nhìn được cả hai đầu) for 0.5s; this is the first frame of clip 4.
+[END FRAME — natural motion continues]
+Empty public pier below, officers concealed at the junction.
+Next shot 39.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

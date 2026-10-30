@@ -1,28 +1,68 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN in the past (45, the Ghost in his signature dark attire): a real Vietnamese man, about 176 cm tall, lean, cropped black hair greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose (signature detail), in a plain black suit with no tie, white shirt open at the collar, polished black shoes, black leather gloves. Voice: low, dry, unhurried Southern Vietnamese male voice. Not resembling any real actor.
-@May = MÂY in civilian clothes (38): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, short black hair with a single white streak at the front (signature detail), in a denim jacket over a dark T-shirt, jeans, sneakers, a small backpack, steel cuffs tucked in her jacket. Voice: firm, dry, slightly amused Southern Vietnamese female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+Sơn has removed his black jacket and put it on the bed; white shirt sleeves rolled, left wrist bandage visible. Jacket worn again only after the cut to scene 26.
 
-[SETTING]
-SMALL MOTEL ROOM: a small city motel room before dawn, a bed, a fan, a cracked mirror, grey light through blinds.
-Story setting: Phòng trọ rẻ tiền ven thành phố, rạng sáng ngày 5, quạt, gương nứt, rèm xám.
-Scene 25/60, timecode 24:00 – 25:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 25/60, clip 1/6; shot 25.1. Story time: D5 dawn.
+Small city motel, bed left, table by window, borrowed laptop, one fan, dawn light through grey curtains.
+Present-day dawn motel, pale window light and one warm bedside lamp.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm slow dolly in through the space — Mở màn cảnh này: Phòng trọ, rèm kéo; quạt lắc qua lại.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) băng cổ tay Sơn (@Son) bị cột bê tông cứa (không máu, chỉ sưng) bằng băng vải. Thoại nói khi đang làm việc tay, môi vẫn khớp: Mây (@May): "Đau không?" · Sơn (@Son): "Tay tôi lạnh."
-00:07.0–00:10.0 | 50mm hold on the eyes, unwavering — anh ngồi trên giường, vest cởi, sổ đỏ trên gối. Dừng ở khung này nửa giây để clip 2 nối vào.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Allow the price of the escape to interrupt Sơn's habit of refusing care.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 24.6, ending with Travelers gone, cutters beside the cuff chain, Dũng still restrained.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Sơn seated on the bed, jacket off, left wrist visibly swollen without a wound.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the medium bedside composition with jacket clearly off and left wrist exposed.
+Focus: Keep hand and faces readable together, avoiding an unneeded clinical detail insert.
+
+[ACTION — 0–10s, one evolving take]
+Mây wraps the left wrist and leaves his right hand free.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let him accept her help before moving to evidence, giving the relationship a genuine change.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây wraps only the left wrist while Sơn stays seated, his sound right hand resting freely.
+Performance: He tries to minimize pain until the wrapping makes concealment pointless; she treats him without sentimentality.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Đừng giấu đau nữa.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Original RED cloth ledger, handwritten signature shapes, distinct from black leather ledger.
+- USB-shaped hardware security token from the safe; NOT the metal door key.
+- Original USB from black ledger, preserved in an evidence sleeve at the station after 17.1.
+
+[VISIBLE TEXTURE]
+Plain cotton wrap, tired shirt folds and the jacket on the bed make this an exhausted pause.
+
 
 [SOUND]
-Âm thanh nền: nước nhỏ giọt, gà gáy; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: fan and early traffic outside.
+Foreground sound: Fan hum and restrained cloth handling stay beneath her quiet instruction.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Anh ngồi trên giường, vest cởi, sổ đỏ trên gối) for 0.5s; this is the first frame of clip 2.
+[END FRAME — natural motion continues]
+Left wrist bandaged, black jacket on the bed beside him.
+Next shot 25.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

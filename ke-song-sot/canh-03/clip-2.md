@@ -1,32 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1, matching position, light and 16:9 framing exactly, as one unbroken take.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Quán cà phê bờ kè của ông Bảy, sáng ngày 1, nắng trắng, bạt xanh, ghe cá.
-Scene 3/60, timecode 02:00 – 03:00, clip 2/6 (10–20s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
+[TIMELINE AND LOCATION]
+Scene 03/60, clip 2/6; shot 03.2. Story time: D1 morning.
+Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
+Morning coastal daylight, cool shadows under the green awning, natural skin tones.
 
-[SHOT LIST]
-00:00–00:03.5 | Handheld 28mm tracking from shoulder level — Từ đúng khung dừng của clip trước: Xe máy công vụ cũ chạy chậm qua; ghe cá ngoài kè làm nền.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) ngồi sau, tóc ngắn có lọn bạc, áo kaki xắn tay; Phó Thành (@Phó Thành) kính tròn lái. Khẩu hình rõ, câu ngắn, máy giữ trên người nói tới hết câu: Mây (@May): "Dừng. Người kia."
-00:07.0–00:10.0 | 50mm medium close-up on the face after the movement — Mây (@May) vỗ vai Phó Thành (@Phó Thành): dừng. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Introduce Mây through a precise observation rather than an instant supernatural diagnosis.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 03.1, ending with Sơn facing the street, Bảy placing coffee on his right.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Thành riding slowly, Mây behind him wearing a helmet.
+
+[CAMERA]
+35mm smooth lateral tracking in the established movement direction. No whip pan, drone move or reverse-axis cut.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Track the motorcycle smoothly at its established low street speed, both helmeted riders readable.
+Focus: Keep the riders' faces and hand signal readable; the watched customer remains off screen.
+
+[ACTION — 0–10s, one evolving take]
+Mây notices a deliberate glance from the coffee stall off screen and signals Thành to stop.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Notice, signal and stop form one progression, ending with both helmets still in place.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây signals a stop before the motorcycle settles beyond the stall, staying seated behind Thành.
+Performance: Her response is interested and economical; Thành reacts with routine familiarity rather than comic surprise.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Dừng chỗ này.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Road glare slips across helmet rims and the worn motorcycle, retaining the town's modest scale.
+
 
 [SOUND]
-Âm thanh nền: ly thủy tinh chạm nhau, bạt xanh phần phật; nhịp gõ nhanh tăng dần. Lời thoại nổi trên nền.
+Location bed: distant motorcycles and muted market voices.
+Foreground sound: The engine decelerates naturally under her short instruction; do not exaggerate tire friction.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Mây (@May) vỗ vai Phó Thành (@Phó Thành): dừng for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Motorcycle stopped beyond the stall, both helmets still on.
+Next shot 03.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

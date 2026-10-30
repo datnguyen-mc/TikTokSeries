@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Sau quán bờ kè, trưa ngày 7, bóng bạt, xe trắng vừa đi.
-Scene 37/60, timecode 36:00 – 37:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Mở màn cảnh này: Xe trắng rời đi về phía nhà nghỉ đầu thị trấn; ghe cá ngoài kè làm nền.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) kéo Sơn (@Son) ra sau quán. Thoại nói khi đang làm việc tay, môi vẫn khớp: Mây (@May): "Anh nói 'được'." · Sơn (@Son): "Tôi nói với cả hai."
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — giọng thấp mà dữ. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 37/60, clip 1/6; shot 37.1. Story time: D7 afternoon.
+Covered rear lane behind the coffee stall, isolated from the public road, map table beside the rear door.
+Same afternoon as scene 36, quiet shade behind awning.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Give Mây the uncomfortable task of naming what Sơn's urgency might make him accept.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 36.6, ending with White car receding, confession folder still unopened on the table.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Mây and Sơn behind the stall with the unopened confession folder.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep both partners behind the stall with the unopened folder occupying their shared table edge.
+Focus: Keep her face and the closed folder readable, avoiding an extra close-up of imagined written terms.
+
+[ACTION — 0–10s, one evolving take]
+Mây identifies the new trap, Sơn agrees the folder will remain blank.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Name the trap once, ending on custody of the folder rather than another explanation of Kiên.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây takes custody of the folder, Sơn leaves his hands empty instead of arguing for a shortcut.
+Performance: She is direct without scolding; he recognizes the trap but must feel the price of resisting it.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Hắn cần người nhận tội thay.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Awning shade removes the white car's glare, leaving ordinary paper between two tired people.
+
 
 [SOUND]
-Âm thanh nền: ghe nổ máy ngoài cảng; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: muted coffee stall voices and soft canvas movement.
+Foreground sound: The receding engine can fade under her line, then only canvas and distant stall activity remain.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Mây (@May) kéo Sơn (@Son) ra sau quán, giọng thấp mà dữ) for 0.5s; this is the first frame of clip 2.
+[END FRAME — natural motion continues]
+Folder closed in Mây's hand, Sơn's hands empty.
+Next shot 37.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,27 +1,62 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Ha = HẠ free in the present (32): a real Vietnamese woman, about 162 cm tall, slim, gentle bright face, long black hair tied loosely, the pale-blue silk scarf back around her neck (signature detail), a white blouse, jeans, sandals. Voice: soft, warm, clear Southern Vietnamese female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 52; Vietnamese woman, slim build, gentle alert eyes, long black hair. older face, long hair with a little grey tied back, cream work blouse, green florist apron, the same pale-blue scarf. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-TOWN CROSSROAD AT DAWN: the crossroad at the edge of Hòn Sóng where the coach stops, dust, a signpost with no readable text, the sea white behind.
-Story setting: Ngã ba thị trấn Hòn Sóng, bình minh, nhiều năm sau, xe đò, cảng cá, sạp hoa.
-Scene 60/60, timecode 59:00 – 60:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Slow 35mm push-in establishing the room and subject — Thiết lập không gian: Bình minh, nhiều năm sau (nắng, cùng ngã ba, cột biển bạc hơn): sạp hoa ly trắng ở đầu chợ cá; bụi xe đò tan. Lời dẫn trầm, không ai nói trong khung: Sơn (@Son) (Voice-over): "Người ta gọi tôi là Bóng Ma. Bóng ma không chết."
-00:03.5–00:07.0 | 50mm medium close-up on the character's expression — Hạ (@Ha), tóc dài hơn, khăn xanh, xếp hoa.
-00:07.0–00:10.0 | 50mm close-up as the shadow falls across the frame — khung cửa sạp có nhiều vạch nhỏ. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 60/60, clip 1/6; shot 60.1. Story time: LATER many years after the case.
+Hạ completed flower stall years later at market entrance, working counter, old seven-mark wood strip discreetly fixed underneath, doorway toward coach stop.
+Many years later, soft coastal morning, same geography, mature faces with natural skin texture.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Establish that Hạ has built a full working life before the returning man enters it.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 59.6, ending with Table standing straight, sawdust brushing away from its surface.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place; no transformation, morph, dissolve or replay of the old shot.
+
+[START FRAME — state only, not an action to repeat]
+Finished flower counter years later, older Hạ arranging fresh lilies.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Match the finished counter surface to the earlier table, then keep older Hạ and shop opening in the wide.
+Focus: Keep counter and shop depth readable, with old marked wood discreetly underneath rather than staged for a reveal.
+
+[ACTION — 0–10s, one evolving take]
+She opens the shutters of a working shop, old marked wood discreetly fixed underneath.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Begin with work already underway, finish open for business; the later coach sound has not yet interrupted her.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She opens the shutters and arranges the existing lilies as practiced morning work, customers only blurred background.
+Performance: Her ease contains years of ownership, no permanent grief pose or expectation directed at the coach stop.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Older face and hair remain distinct from day eight, cream blouse, green apron and same blue scarf consistent.
+
 
 [SOUND]
-Âm thanh nền: xe đò rồ máy đi, bụi; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: sea breeze, flower wrapping and distant town morning sounds.
+Foreground sound: Shutters, wrapping and ordinary market morning sounds establish continuity of life, not a return-theme fanfare.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Khung cửa sạp có nhiều vạch nhỏ for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Shop open, Hạ behind the counter, morning customers blurred beyond.
+Next shot 60.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import copy
+import hashlib
 import json
 import re
 from collections import Counter
@@ -39,6 +40,12 @@ GENERIC_VOICES = {
     'EXTRA': 'The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.',
     'OFFICER': 'Unnamed assisting officer: composed Southern Vietnamese voice, no new named lead character.',
 }
+DETAIL_FIELDS = ('intent','composition','blocking','performance','focus','texture','sound_detail','rhythm')
+DRAMA_FIELDS = ('dramatic_question_vi','turn_vi','hook_vi','payoff_or_setup_vi','tension')
+
+
+def edition(plan: dict) -> str:
+    return '3.1' if plan.get('editorial_revision')=='3.1' else '3'
 
 
 def clip_id(scene: int, clip: int) -> str:
@@ -91,10 +98,23 @@ def validate(plan: dict, shots: list[dict]) -> None:
     for s in plan['scenes']:
         if [c['number'] for c in s['clips']] != list(range(1, 7)):
             errors.append(f"Scene {s['number']} needs six ordered clips")
+        if edition(plan)=='3.1':
+            drama=s.get('dramaturgy',{})
+            if any(k not in drama for k in DRAMA_FIELDS):
+                errors.append(f"Scene {s['number']}: missing dramatic progression")
+            if not isinstance(drama.get('tension'),int) or not 1<=drama.get('tension',0)<=5:
+                errors.append(f"Scene {s['number']}: tension must be an editorial level from 1 to 5")
     seen_actions = {}
     seen_lines = {}
     for i, c in enumerate(shots):
         p = shots[i-1] if i else None
+        if edition(plan)=='3.1':
+            detail=c.get('cinematic',{})
+            if any(not isinstance(detail.get(k),str) or len(detail[k].strip())<12 for k in DETAIL_FIELDS):
+                errors.append(f"{c['id']}: incomplete specific directing detail")
+            words=sum(len(detail.get(k,'').split()) for k in DETAIL_FIELDS)
+            if not 55<=words<=260:
+                errors.append(f"{c['id']}: directing detail must be useful and bounded, got {words} words")
         if c['location'] not in plan['locations'] or c['camera'] not in CAMERAS:
             errors.append(f"{c['id']}: unknown location/camera")
         if c['transition'] not in TRANSITIONS:
@@ -109,6 +129,9 @@ def validate(plan: dict, shots: list[dict]) -> None:
         for k in c['props']:
             if k not in plan['props']:
                 errors.append(f"{c['id']}: unknown prop {k}")
+        for k in c.get('image_references',[]):
+            if k not in plan['identities']:
+                errors.append(f"{c['id']}: unknown photograph identity {k}")
         if c['transition'] == 'CONTINUE':
             if not p or any(c[k] != p[k] for k in ('location','camera','story_time')):
                 errors.append(f"{c['id']}: continuous shot changes location/camera/time")
@@ -176,8 +199,10 @@ def person_lock(plan: dict, key: str, c: dict) -> str:
             notes.append('unarmed: complete handgun case was surrendered at 28.4')
         if c['scene'] == 38:
             notes.append('current-day bare hands in this return from memory')
-    if base == 'DUNG' and 29 <= c['scene'] <= 49:
-        notes.append('cut original cuff ring remains on RIGHT wrist until confiscated at 46.4; no usable loose cuff end')
+    if base == 'DUNG' and (29,1) <= (c['scene'],c['number']) < (46,4):
+        notes.append('cut original cuff ring remains on RIGHT wrist; no usable loose cuff end')
+    if base == 'DUNG' and (c['scene'],c['number']) >= (46,4):
+        notes.append('fresh custody cuffs applied at 46.4; the cut old cuff is removed and logged separately, not reused')
     if base == 'THANH' and 29 <= c['scene'] < 56:
         notes.append('one glasses arm bent, held by tape after rescue')
     extra = ' ' + '; '.join(notes) + '.' if notes else ''
@@ -187,7 +212,7 @@ def person_lock(plan: dict, key: str, c: dict) -> str:
 def dialogue_text(plan: dict, d: dict) -> str:
     if d['speaker'] in plan['looks']:
         identity = plan['identities'][base_key(plan,d['speaker'])]
-        speaker = f"{identity['name']} ({identity['tag']})"
+        speaker = f"{identity['name']} ({identity['tag']})" if d['mode']=='on' else identity['name']
     else:
         speaker = {'BROKER':'Người gọi giấu tên','RADIO':'Bộ đàm','EXTRA':'Người trong cảnh','OFFICER':'Cán bộ hỗ trợ'}[d['speaker']]
     mode = {'on':'nói trong hình','off':'ngoài khung hình','vo':'lời dẫn ngoài hình','device':'qua thiết bị'}[d['mode']]
@@ -196,19 +221,19 @@ def dialogue_text(plan: dict, d: dict) -> str:
 
 def voice_block(plan: dict, c: dict) -> str:
     if not c['dialogue']:
-        return 'No speech, narration, improvised dialogue or vocal filler. Keep the scene alive through the specified action and location sound.'
+        return 'No speech, narration or improvised vocal filler. Play the action and location sound.'
     d = c['dialogue'][0]
     duration = min(7.8, max(3.0, len(d['text'].split())/3.1 + .7))
     end = round(.8 + duration,1)
     mode = d['mode']
     rendering = {
-        'on':'Visible speaker alone delivers the line, mouth readable in this composition. Other people listen silently.',
-        'off':'Speech from the specified off-screen person. Do not add their face or animate the listener speaking.',
-        'vo':'Narration outside the scene. Visible mouths remain naturally at rest; do not lip-sync the narration.',
-        'device':'Compressed voice from the established phone/radio/video. No caller body or floating mouth in the main scene.',
+        'on':'Visible speaker delivers the line, mouth readable. Others listen silently.',
+        'off':'Off-screen speech; do not add a face or animate the listener speaking.',
+        'vo':'Voice-over only; visible mouths remain at rest.',
+        'device':'Voice through the established device; no caller body in this shot.',
     }[mode]
     prefix = GENERIC_VOICES.get(d['speaker'],'')
-    return f"0.8–{end:.1f}s, one unhurried line only. {rendering}\n{prefix}\n{dialogue_text(plan,d)}\nSpeak only the words following the final colon. Do not read names, tags, timing or directions. No subtitles."
+    return f"0.8–{end:.1f}s, one unhurried line. {rendering}\n{prefix}\n{dialogue_text(plan,d)}\nOnly words after the final colon are spoken. Never read names, tags or directions. No captions."
 
 
 def prop_detail(plan: dict, key: str, c: dict) -> str:
@@ -220,11 +245,17 @@ def prop_detail(plan: dict, key: str, c: dict) -> str:
         detail='ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch.'
         if c['scene'] in (6,33):
             return detail+' Before the escape it is intact and ticking softly. Do not open it.'
+        if c['scene']==8 and c['number']<4:
+            return detail+' Before the impact it is intact and running inside the closed case. No inside photograph is visible.'
+        if c['id']=='08.4':
+            return detail+' It starts intact and running; the impact dents the closed case and stops it. Never open the lid to demonstrate the damage.'
         if c['scene']<52:
             return detail+' After the escape it has stopped; do not add ticking or show the inner photo.'
         return detail+' It runs again after 52.3; never open it again as a new reveal.'
     if key=='WATCH_OPEN':
-        running = 'Hands still stopped at the opening.' if c['id']=='52.2' else 'Starts stopped and resumes only when wound in this shot.' if c['id']=='52.3' else 'Hands already running; do not repeat opening or winding.'
+        if c['id']=='52.2':
+            return 'The SAME single silver watch. Lid CLOSED in start frame and opened only during this action; cracked glass and small photo of Hạ revealed inside. Hands remain stopped. No second watch.'
+        running = 'Starts stopped and resumes only when wound in this shot.' if c['id']=='52.3' else 'Hands already running; do not repeat opening or winding.'
         return 'The SAME single silver watch, lid OPEN, cracked glass, small photo of Hạ inside lid. '+running
     return plan['props'][key]
 
@@ -252,7 +283,10 @@ def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None
     else:
         head = '[FORMAT]'
     location, sound = plan['locations'][c['location']]
+    sound = c.get('sound_override', sound)
     locks = '\n'.join(person_lock(plan,k,c) for k in c['characters']) or 'No named lead visible. Only the unnamed background people explicitly specified below.'
+    picture_refs = '\n'.join(f"{plan['identities'][k]['tag']}: approved face for the PRINTED PHOTOGRAPH ONLY. Do not add this person physically to the room or street." for k in c.get('image_references',[]))
+    picture_refs = '\n[PICTURE-ONLY REFERENCES]\n'+picture_refs+'\n' if picture_refs else ''
     prop_text = '\n'.join(f'- {prop_detail(plan,p,c)}' for p in c['props']) or 'No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.'
     note = c.get('wardrobe_note','')
     if c.get('time_ellipsis'):
@@ -263,17 +297,27 @@ def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None
     else:
         out = 'End the film on this living composition. Any title and final fade are added in the edit, never generated inside the image.'
     audio_bridge = plan['scenes'][c['scene']-1]['outgoing_audio'] if c['number']==6 else ''
+    detail=c.get('cinematic',{})
+    intent=f"\n[DRAMATIC INTENT — show through behaviour, never narrate this note]\n{detail['intent']}\n" if detail else ''
+    staging=f"\n[BLOCKING AND PERFORMANCE]\nBlocking: {detail['blocking']}\nPerformance: {detail['performance']}\n" if detail else ''
+    surface=f"\n[VISIBLE TEXTURE]\n{detail['texture']}\n" if detail else ''
+    framing=f"\nComposition: {detail['composition']}\nFocus: {detail['focus']}" if detail else ''
+    rhythm=f"\nAction rhythm: {detail['rhythm']}" if detail else ''
+    sound_specific=f"\nForeground sound: {detail['sound_detail']}" if detail else ''
+    camera_contract='Keep the exact previous camera, lens and axis; no framing reset.' if continuous else 'One new coverage angle on the established side of the axis. Never cut internally.'
     return f"""{head}
-10 seconds, full-frame horizontal 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir drama. Natural 180-degree shutter and continuous human motion. Exactly ONE camera setup and ONE location per clip. No automatic montage, extra angle, opening recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities and current appearances]
 {locks}
 {note.strip()}
+{picture_refs}
 
 [TIMELINE AND LOCATION]
 Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c['story_time']}.
 {location}
 {c['lighting']}
+{intent}
 
 [EDIT IN — do not render the previous shot again]
 {transition_text(c,previous)}
@@ -283,21 +327,24 @@ Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c[
 
 [CAMERA]
 {CAMERAS[c['camera']]}
-For an editorial cut within the same room, choose a clearly distinct coverage angle (at least about 30 degrees) or a motivated detail shot, while remaining on the established side of the action axis. For CONTINUE keep the exact prior camera instead. Do not cut internally to satisfy this note.
+{camera_contract}{framing}
 
 [ACTION — 0–10s, one evolving take]
 {c['action']}
-Begin from the stated start state, complete this action once, and arrive at the stated end state. Do not pad with a second performance. Let breathing, fabric, water or other existing movement continue naturally through the final frame.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.{rhythm}
+{staging}
 
 [DIALOGUE]
 {voice_block(plan,c)}
 
 [PROPS]
-Identity/history reference only. Perform only the current ACTION, never a future handover mentioned in a prop history.
+Reference only; enact only the current ACTION, not a future handover.
 {prop_text}
+{surface}
 
 [SOUND]
-Location bed: {sound}. Only sounds motivated by this shot. No independently generated score, recurring stock sting or unshown vehicle/weapon sound. Dialogue above ambience. {audio_bridge}
+Location bed: {sound}.{sound_specific}
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: {audio_bridge or 'Follow the stated incoming/outgoing edit without restarting the ambience.'}
 
 [END FRAME — natural motion continues]
 {end}
@@ -311,15 +358,25 @@ repeated action or line from adjacent clips, frozen tail frames, premature scene
 def render_scene_readme(plan: dict, scene: dict, items: list[dict]) -> str:
     n=scene['number']; start=(n-1)*60
     lines=[f"# {plan['title']} — Cảnh {n:02d}: {scene['title']}", '',
-           '**Bản 3 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**', '',
+           f'**Bản {edition(plan)} · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**', '',
            f"Phút {clock(start)}–{clock(start+60)} · Thời gian truyện: {scene['story_time']}", '',
            scene['purpose'], '',
-           'Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Không dùng frame cũ để kéo qua địa điểm mới.', '',
+           'Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.', '',
            '| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |',
            '|---|---|---|---|---|---|']
+    if scene.get('dramaturgy'):
+        d=scene['dramaturgy']
+        lines[8:8]=[f"**Câu hỏi đang mở:** {d['dramatic_question_vi']}",
+                    f"**Móc vào cảnh:** {d['hook_vi']}",
+                    f"**Điểm bẻ:** {d['turn_vi']}",
+                    f"**Gieo / trả:** {d['payoff_or_setup_vi']}",'']
     for c in items:
         d=' / '.join(dialogue_text(plan,x) for x in c['dialogue']) or '—'
         lines.append(f"| [{c['number']}](clip-{c['number']}.md) | {c['transition']} · {TRANSITIONS[c['transition']]} | {c['start_frame']} | {c['action']} | {c['end_frame']} | {d} |")
+    if edition(plan)=='3.1':
+        lines+=['','## Chỉ đạo diễn xuất từng clip','']
+        for c in items:
+            lines += [f"- **{c['number']}:** {c['cinematic']['intent']} **Diễn xuất:** {c['cinematic']['performance']}"]
     lines += ['', '**Âm nối sang cảnh sau:** '+scene['outgoing_audio'], '',
               '[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)', '',
               'Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.', '']
@@ -327,7 +384,7 @@ def render_scene_readme(plan: dict, scene: dict, items: list[dict]) -> str:
 
 
 def render_script(plan: dict, shots: list[dict]) -> str:
-    lines=[f"# {plan['title']}", '## Kịch bản bản 3 — cuộc trao đổi bị phản bội', '',
+    lines=[f"# {plan['title']}", f'## Kịch bản bản {edition(plan)} — cuộc trao đổi bị phản bội', '',
            '**60 đơn vị sản xuất × 6 clip × 10 giây = 60 phút hình nguồn.** Mỗi clip một cú máy, nhịp diễn thay đổi theo hành động; không giữ hình để đủ phút. Thời lượng bản dựng phụ thuộc phần trim và mix âm thanh thực tế.', '',
            'Nguồn duy nhất: `PHAN_CANH_V3.json`. Hành động/camera viết tiếng Anh cho prompt, ý đồ cảnh và thoại giữ tiếng Việt. Tái sinh bằng `python3 build_full_60_scenes.py`; kiểm tra bằng `python3 build_full_60_scenes.py --check`.', '',
            'Sơn có bảy ngày trước chuyến tàu chuyển Hạ đi. Anh hợp tác với Mây, giao bằng chứng cho điều tra và chấp nhận trả giá. Kiên muốn Sơn im lặng, Bà Hai muốn lấy lại quyền kiểm soát. Cuộc trao đổi ở cảng bị phản bội; Dũng dùng chất Tê hư cấu giữ Sơn sống, cả hai phe đều nhận biết thuốc. Hạ để lại dấu và mở đường, Mây dẫn việc cứu người. Sơn cứu cả Kiên khỏi ngã rồi tự nhận còng.', '',
@@ -336,17 +393,27 @@ def render_script(plan: dict, shots: list[dict]) -> str:
         n=s['number']; lines.append(f"| {n:02d} | {clock((n-1)*60)}–{clock(n*60)} | {s['title']} | {s['purpose']} |")
     for s in plan['scenes']:
         n=s['number']; lines += ['',f"### CẢNH {n:02d}: {s['title']}",f"*Thời gian truyện: {s['story_time']}*",s['purpose'],'']
+        if s.get('dramaturgy'):
+            d=s['dramaturgy']
+            lines += [f"**Câu hỏi:** {d['dramatic_question_vi']}",f"**Móc vào:** {d['hook_vi']}",
+                      f"**Điểm bẻ:** {d['turn_vi']}",f"**Gieo / trả:** {d['payoff_or_setup_vi']}",'']
         for c in (x for x in shots if x['scene']==n):
             d=' / '.join(dialogue_text(plan,x) for x in c['dialogue']) or '—'
             lines += [f"**Clip {c['number']} · {c['transition']} · {c['location']} · {c['camera']}**",
                       f"- Đầu: {c['start_frame']}", f"- Hành động: {c['action']}",
                       f"- Thoại: {d}",f"- Cuối: {c['end_frame']}", '']
+            if c.get('cinematic'):
+                detail=c['cinematic']
+                labels={'intent':'Ý đồ','composition':'Bố cục','blocking':'Vị trí / chuyển động',
+                        'performance':'Diễn xuất','focus':'Điểm nét','texture':'Chất liệu',
+                        'sound_detail':'Âm nổi','rhythm':'Nhịp diễn'}
+                lines += [f'- {labels[k]}: {detail[k]}' for k in DETAIL_FIELDS]+['']
         lines.append('Âm nối sang cảnh sau: '+s['outgoing_audio'])
     return '\n'.join(lines)+'\n'
 
 
 def render_handoffs(plan: dict, shots: list[dict]) -> str:
-    lines=['# Bảng nối 359 mối ghép — bản 3', '',
+    lines=[f'# Bảng nối 359 mối ghép — bản {edition(plan)}', '',
            'Mỗi hàng là một điểm cắt thực sự giữa hai clip, kể cả qua ranh giới cảnh. CONTINUE mới dùng khung cuối làm start frame; các hàng CUT/OPEN/MATCH/J/L dùng reference của shot mới. Không chèn lại nửa giây cuối clip trước và không phát lại thoại.', '',
            '| Từ → tới | Loại nối | Cuối clip trước | Đầu clip sau | Âm thanh / lưu ý dựng |',
            '|---|---|---|---|---|']
@@ -360,10 +427,35 @@ def render_handoffs(plan: dict, shots: list[dict]) -> str:
     return '\n'.join(lines)+'\n'
 
 
+def render_beatmap(plan: dict) -> str:
+    lines=['# Nhịp phim và câu hỏi giữ người xem — bản 3.1','',
+           'Mức áp lực 1–5 dưới đây là chỉ dẫn biên tập, không phải điểm chất lượng hay dự đoán khán giả. Cảnh lặng vẫn cần một lựa chọn hoặc thông tin mới; không tạo cú lật giả ở mọi clip.', '',
+           'Chặng đầu gắn đồng hồ bảy ngày với một người vắng mặt; chặng giữa khiến mỗi bằng chứng có cái giá; cao trào phá giao dịch và buộc Sơn chọn cứu người. Hậu truyện đi từ lời khai sang cuộc sống riêng của Hạ, một lần chia tay rồi một lần trở về.', '',
+           '| Cảnh | Áp lực | Móc vào | Câu hỏi đang mở | Điểm bẻ | Gieo / trả |',
+           '|---|---|---|---|---|---|']
+    for s in plan['scenes']:
+        d=s['dramaturgy']
+        lines.append(f"| {s['number']:02d} · {s['title']} | {d['tension']}/5 | {d['hook_vi']} | {d['dramatic_question_vi']} | {d['turn_vi']} | {d['payoff_or_setup_vi']} |")
+    if plan.get('reviewed_changes'):
+        lines += ['', '## Các điểm đã rà và sửa thêm', '',
+                  '| Vị trí | Vấn đề | Điều chỉnh |','|---|---|---|']
+        for change in plan['reviewed_changes']:
+            lines.append(f"| {change['id']} | {change['problem_vi']} | {change['fix_vi']} |")
+    lines += ['', '## Cách đọc phần chỉ đạo chi tiết', '',
+              '- **Intent:** tác động lên người xem, thể hiện bằng hành vi; không đọc thành lời dẫn.',
+              '- **Composition / focus:** chủ thể và thứ tự nhận thông tin trong một setup; không thêm góc quay bên trong clip.',
+              '- **Blocking:** tay đang giữ vật gì, khoảng cách và đường đi; giữ start/end đã khóa.',
+              '- **Performance:** điều nhân vật muốn giấu hoặc muốn người đối diện làm, thể hiện bằng một phản ứng vừa đủ.',
+              '- **Texture / sound:** chất liệu và âm thanh có nguồn trong cảnh; không thêm đạo cụ hay hiệu ứng gây giật mình.',
+              '- **Rhythm:** thời gian quan sát, quyết định, hành động và dư âm, biến đổi theo từng shot thay vì chia đều ba nhịp.', '',
+              'Xem bản render theo từng chuỗi cảnh để quyết định trim. Điểm im không phải đứng hình; cơ thể, vải, nước và âm phòng vẫn tiếp tục. Không dùng nhạc để thay phần căng thẳng chưa có trong hành động.', '']
+    return '\n'.join(lines)
+
+
 def render_locks(plan: dict) -> str:
-    lines=['# Khóa hình, đạo cụ và điểm nối — bản 3', '',
+    lines=[f'# Khóa hình, đạo cụ và điểm nối — bản {edition(plan)}', '',
            'Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng Việt giọng miền Nam. Không đóng băng cuối clip, không tự tạo nhạc riêng từng đoạn. Nhạc và title làm trên timeline dựng.', '',
-           '**Cách tạo:** clip ghi CONTINUE mở bằng `Continue…`, dùng frame cuối clip trước; mọi cú cắt khác mở bằng `[FORMAT]`, đính lại các reference có mặt. Qua ranh giới cảnh luôn là cú cắt biên tập rõ, phù hợp runner hiện tại. Không kéo một start frame qua đổi địa điểm/tuổi/trang phục.', '',
+           '**Cách tạo:** clip ghi CONTINUE mở bằng `Continue…`, dùng frame cuối clip trước; mọi cú cắt khác mở bằng `[FORMAT]`, đính lại các reference có mặt. Shot chỉ có người nền, không chỉ định reference, dùng text-to-video. Qua ranh giới cảnh luôn là cú cắt biên tập rõ, phù hợp runner hiện tại. Không kéo một start frame qua đổi địa điểm/tuổi/trang phục.', '',
            '**Giọng ngoài hình:** chỉ khai báo giọng, không thêm người vào ảnh. Tag đứng ở trường người nói; không chèn tag hoặc thay tên bên trong câu được đọc.', '',
            '| Nhân vật | Handle | media_id đã có |', '|---|---|---|']
     for x in plan['identities'].values():lines.append(f"| {x['name']} | `{x['tag']}` | `{x['media_id']}` |")
@@ -402,7 +494,7 @@ def render_characters(plan: dict) -> str:
         'LINH':'Giữ người sống bằng theo dõi và hỗ trợ. Không hứa một phút tỉnh chính xác, không có thuốc giải thần kỳ xuất hiện để giải cốt truyện.',
         'BAY':'Bảo vệ người lạ vì từng thấy hành vi tử tế. Giữ lối cho dân, chuẩn bị xe cứu người, rồi trở lại bán cà phê; không cầm sào lao vào họng súng.',
     }
-    lines=['# Chín nhân vật — hồ sơ thống nhất bản 3', '',
+    lines=[f'# Chín nhân vật — hồ sơ thống nhất bản {edition(plan)}', '',
            'Tuổi hiện tại: Sơn 45, Mây 38, Hạ 32, Bà Hai 60. Quá khứ xa cách 25 năm: Sơn 20, Bà Hai 35. Mây và Hạ là bạn thuở nhỏ cùng xóm, không ghi cùng lớp. Hạ bị bắt vài tuần trước ngày Sơn tới thị trấn; không khóa 31 vạch khi lịch không cần số đó.', '']
     for key,x in plan['identities'].items():
         lines += [f"## {x['name']} · {x['tag']}", '',arcs[key],'',f"Nhận diện: {x['identity']}.",f"Giọng xuyên phim: {x['voice']}.",'', 'Biến thể và prompt ảnh tham chiếu:']
@@ -426,6 +518,19 @@ def outputs(plan: dict, shots: list[dict]) -> dict[str,str]:
     result['BANG_NOI_CLIP.md']=render_handoffs(plan,shots)
     result['FLOW_PROMPTS.md']=render_locks(plan)
     result['NHAN_VAT.md']=render_characters(plan)
+    if edition(plan)=='3.1':
+        result['NHIP_PHIM_V3_1.md']=render_beatmap(plan)
+    manifest={
+        'version':3,
+        'editorial_revision':edition(plan),
+        'source':'PHAN_CANH_V3.json',
+        'source_sha256':hashlib.sha256(json.dumps(plan,ensure_ascii=False,sort_keys=True).encode()).hexdigest(),
+        'note':'Expected prompt fingerprints only. This manifest does not claim that videos were generated or approved. Existing unversioned renders must be reviewed/rerendered for v3.',
+        'clips':[{'id':c['id'],'prompt':ref(c),'sha256':hashlib.sha256(result[ref(c)].encode()).hexdigest(),
+                  'mode':'frames' if c['transition']=='CONTINUE' else 'ingredients' if c['characters'] or c.get('image_references') else 'text',
+                  'previous':c['previous'],'transition':c['transition']} for c in shots],
+    }
+    result['RENDER_MANIFEST_V3.json']=json.dumps(manifest,ensure_ascii=False,indent=2)+'\n'
     return result
 
 
@@ -453,7 +558,8 @@ def main(argv: list[str]|None=None) -> None:
         path=args.out_dir/name
         path.parent.mkdir(parents=True,exist_ok=True)
         path.write_text(text,encoding='utf-8')
-    print(f'Generated {len(files)} files: 360 shot prompts, 60 scene guides, 60 captions and four film documents.')
+    document_count=len(files)-481
+    print(f'Generated {len(files)} files: 360 shot prompts, 60 scene guides, 60 captions, {document_count} film documents and render manifest.')
     print(f'Validated 359 handoffs; {counts["CONTINUE"]} continuous takes, remaining seams are explicit editorial cuts.')
 
 

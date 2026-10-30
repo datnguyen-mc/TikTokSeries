@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 3. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@HaiNgoc = BÀ HAI NGỌC: 60, silver bun, powdered calm face, jade bracelet on her LEFT wrist, black unlit holder, violet silk áo bà ba; soft, slow, sweet Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@HaiNgoc = Bà Hai: same approved identity, age 35; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. distant past, black hair in the same tight bun, simpler violet áo bà ba, black trousers, left jade bracelet. Voice: soft, slow Southern Vietnamese female voice with precise diction.
+@Son = Sơn: same approved identity, age 20; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. distant past, black hair without grey, plain dark shirt and cheap dark trousers, BARE hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+Time ellipsis: later that season, first glove gift.
 
-[SETTING]
-SILK SHOP (Rắn Đen front): a dim shop of silk bolts in a city lane, a back office with a teak desk, incense, a steel safe behind a screen, a small courtyard; amber night light.
-Story setting: Quá khứ, hẻm lụa thành phố, đêm mưa, tiệm lụa ánh đèn vàng.
-Scene 38/60, timecode 37:00 – 38:00, clip 4/6 (30–40s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
+[TIMELINE AND LOCATION]
+Scene 38/60, clip 4/6; shot 38.4. Story time: PAST twenty-five years earlier rainy evening.
+City silk shop, teak desk to east, screened safe behind it, rear stock door west, warm practical lamps.
+Distant-past rainy evening, warm silk-shop lamps and cooler street rain.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm wide establishing the characters in the environment — Nối liền chuyển động đang dang dở: Năm tháng trôi trong một cú lia: két sắt thép xuất hiện sau bình phong; cuộn lụa chất cao hai bên.
-00:03.5–00:07.0 | 85mm medium close-up capturing the subtle reaction — Sơn (@Son) mặc vest đen đứng sau lưng bà.
-00:07.0–00:10.0 | 50mm hold on the face, no cut — Bà Hai Ngọc (@HaiNgoc) đưa cho Sơn (@Son) đôi găng da đen đầu tiên. Voice-over, hình đi tiếp dưới lời dẫn: Sơn (@Son) (Voice-over): "Bà cho tôi đôi găng da đầu tiên. Tôi tưởng là quà." Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Reveal the gloves as a gift whose condition is spoken at the same moment.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 38.3, ending with Neatly folded silk between them, young Sơn looking toward the door.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+A glove box open on the teak desk.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the single detail setup for open glove box, her hands and his bare palms.
+Focus: Keep both gloves accounted for and fingertips clear, with no age drift in the young hands.
+
+[ACTION — 0–10s, one evolving take]
+Bà Hai places new black gloves in young Sơn's bare palms.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the gift register first, then the assigned duty changes its meaning before the shot ends.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She lays the pair across both palms once, he receives without putting them on yet.
+Performance: His hands accept carefully, unaware of how the gesture will later be understood.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Bà Hai, ngoài khung hình: Từ nay con giữ cửa sau.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- One pair of black gloves first gifted twenty-five years ago; present-day pair left in zipped cabin bag at 35.4.
+
+[VISIBLE TEXTURE]
+New leather contrasts with the older teak desk, modest packaging rather than luxury gift staging.
+
 
 [SOUND]
-Âm thanh nền: két sắt xoay, mưa trên mái hẻm; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: silk shifting and muted rain outside.
+Foreground sound: Soft leather and a box edge sound beneath her off-screen instruction, no ominous flourish.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Bà Hai Ngọc (@HaiNgoc) đưa cho Sơn (@Son) đôi găng da đen đầu tiên) for 0.5s; this is the first frame of clip 5.
+[END FRAME — natural motion continues]
+Gloves resting across both palms, not yet worn.
+Next shot 38.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Ha = HẠ free in the present (32): a real Vietnamese woman, about 162 cm tall, slim, gentle bright face, long black hair tied loosely, the pale-blue silk scarf back around her neck (signature detail), a white blouse, jeans, sandals. Voice: soft, warm, clear Southern Vietnamese female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, sáng ngày 8, ghe về, nắng trắng, cột đèn.
-Scene 57/60, timecode 56:00 – 57:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow dolly in from medium shot — Mở cảnh: Hai người phụ nữ đi dọc cầu cảng; nắng cam trải trên bê tông.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — ghe cá về, mùi cá, nắng. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Hạ (@Ha): "Chỗ này bà ngồi?" · Mây (@May): "Bà tháo vòng ngọc ở đây."
-00:07.0–00:10.0 | 85mm close-up on the quiet gaze — Hạ (@Ha) dừng ở ghế đá cột đèn nơi Bà Hai Ngọc (@HaiNgoc) ngồi đêm qua. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 57/60, clip 1/6; shot 57.1. Story time: D8 morning.
+Hạ inherited small harbour house, old lighthouse photograph, workbench, modest yard vase with lilies.
+Same day-eight morning, soft house daylight, bright public walkway.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Hạ claim the right to invite someone into her own space again.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 56.6, ending with Both walking side by side in morning light.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Hạ and Mây at the family-house doorstep, key in Hạ's right hand.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame the old house threshold wide, key in her RIGHT hand and Mây remaining outside.
+Focus: Keep opening door and Hạ's first step readable with Mây's respectful pause in the same field.
+
+[ACTION — 0–10s, one evolving take]
+Hạ unlocks her father's house, Mây remains outside until invited.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the threshold change ownership emotionally in one entry, no second door-opening shot afterward.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Hạ opens the existing lock once and crosses first, then invites Mây rather than being led inside.
+Performance: The line has a small reclaiming humour through fatigue, not a declaration that all trauma is gone.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Hạ (@Ha), nói trong hình: Vào đi. Nhà tao mà.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Key remains the one from the station, no new house furnishing or welcoming relative appears.
+
 
 [SOUND]
-Âm thanh nền: ghe cá va mạn, dây neo kêu; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: window breeze and ordinary harbour morning sounds.
+Foreground sound: A normal key turn and door hinge sit under her invitation, with harbour morning sounds beyond.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Hạ (@Ha) dừng ở ghế đá cột đèn nơi Bà Hai Ngọc (@HaiNgoc) ngồi đêm qua) for 0.5s; this is the first frame of clip 2.
+[END FRAME — natural motion continues]
+Door open, Hạ inside her own threshold.
+Next shot 57.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

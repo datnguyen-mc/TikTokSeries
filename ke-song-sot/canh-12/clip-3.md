@@ -1,27 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 2: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-CASUARINA PINE DUNE: a dune of white sand and casuarina pines above the town, wind in the needles, long shadows, the cabin visible between trunks.
-Story setting: Rừng dương trên đồi cát, sáng ngày 3, nắng xiên, gió rít.
-Scene 12/60, timecode 11:00 – 12:00, clip 3/6 (20–30s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium close-up on the speaker's face, clear lip-sync — Tiếp tục một hơi, chưa đổi góc: Tên thứ hai bước vào rừng dương, Sơn (@Son) từ sau thân cây khóa cổ, kéo xuống cát, ống thuốc nhỏ vào vai: tên đó mềm ra, mắt mở, còn thở; cát trắng lóa. Nói nhỏ nhưng khẩu hình rõ, máy không rung: Sơn (@Son) (thì thầm): "Nằm yên. Bốn mươi phút."
-00:03.5–00:07.0 | 50mm reverse angle on the defensive block — Hành động trên đi tiếp, đổi cỡ cảnh, hơi thở gấp át cả nền.
-00:07.0–00:10.0 | 50mm medium close-up on the character standing steady, breathing — Một chi tiết tĩnh khép nhịp: vật trên bàn, bàn tay, vệt nắng.. Bất động 0.5s ở khung này.
+[TIMELINE AND LOCATION]
+Scene 12/60, clip 3/6; shot 12.3. Story time: D3 morning.
+White-sand dune under casuarina pines, cabin uphill, main path down toward market.
+Present-day morning, raking daylight between pines, natural sandy reflections.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show Sơn choosing control over injury, while retaining the physical difficulty of stopping a pursuer.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 12.2, ending with Both intruders turning toward the rear door, cabin otherwise empty.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+One pursuer stepping around a pine, Sơn behind the trunk.
+
+[CAMERA]
+35mm restrained handheld medium-wide. Keep the entire defensive action readable from one side of the axis, no speed ramp.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The restrained handheld medium-wide keeps pine trunk, both bodies and the weapon hand readable together.
+Focus: Hold the full defensive relation from one side, with no close-up describing a damaging joint technique.
+
+[ACTION — 0–10s, one evolving take]
+Sơn takes his balance and pins his weapon hand without striking his head.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Make contact and controlled descent one short struggle, then keep the restrained posture alive with visible effort.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He uses the trunk-side position to take balance and hold the reaching wrist away from both faces.
+Performance: His breath tightens with effort; the pursuer resists instead of instantly becoming a limp stunt prop.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Sơn (@Son), nói trong hình: Bỏ xuống.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Sand shifts under their feet and rough bark catches clothing, grounding weight without graphic injury.
+
 
 [SOUND]
-Âm thanh nền: lá dương reo như sóng; tiếng va chạm khô, không nhạc. Không nhạc dưới câu thoại.
+Location bed: wind moving pine needles and distant surf.
+Foreground sound: Short breaths, fabric tension and sand displacement replace exaggerated impact booms under his instruction.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Tên thứ hai bước vào rừng dương, Sơn (@Son) từ sau thân cây khóa cổ, kéo xuống cát, ống thuốc nhỏ vào vai: tên đó mềm ra, mắt mở, còn thở, perfectly still for half a second so clip 4 can continue without a cut.
+[END FRAME — natural motion continues]
+Pursuer seated against the trunk, Sơn holding the wrist away.
+Next shot 12.4: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

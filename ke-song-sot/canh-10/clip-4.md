@@ -1,27 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 3. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. Voice: low, dry, unhurried Southern Vietnamese male voice.
+Sơn right glove removed at 10.2 and kept in jacket pocket, left glove still on; jacket never discarded.
 
-[SETTING]
-FLOWER SHOP (past): a small flower shop at the foot of a glass tower, buckets of white lilies and roses, a wooden counter, warm bulbs, a back room with a kettle, a glass front onto the street; no readable text.
-Story setting: Quá khứ, tiệm hoa sáng sớm sau đêm bị gài, mưa tạnh, kính vỡ.
-Scene 10/60, timecode 09:00 – 10:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 10/60, clip 4/6; shot 10.4. Story time: PAST one month earlier dawn.
+Hạ city flower shop, wooden counter east, bucket rows under front window, tower lobby across the road.
+Recent-past dawn after rain, pale shop window light, dim stockroom practical.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm slow dolly in through the space — Cùng ánh sáng, cùng vị trí, đi tiếp: Điện thoại Sơn (@Son) rung; ánh bóng đèn vàng trên quầy gỗ.
-00:03.5–00:07.0 | Steady 50mm medium close-up, held with quiet intensity — màn hình không tên; anh nghe. Âm thanh từ loa điện thoại hoặc radio, không khẩu hình: Bà Hai Ngọc (@HaiNgoc) (điện thoại): "Cô ấy xin con bỏ nghề. Giờ cô ấy bỏ trước."
-00:07.0–00:10.0 | 50mm hold on the eyes, unwavering — giọng ngọt, chậm. Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make Bà Hai's familiar reassurance sound like a trap when Sơn can no longer accept it.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 10.3, ending with Sơn looking toward the tire tracks outside.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn's phone vibrating against his jacket.
+
+[CAMERA]
+85mm close-up at eye level, restrained natural depth of field. No orbit or chase movement.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the close-up to hold his face and phone edge without displaying the caller or an animated screen portrait.
+Focus: Favor his eyes and the phone at a natural distance; keep any screen content unreadable and secondary.
+
+[ACTION — 0–10s, one evolving take]
+He answers, hears Bà Hai claim Hạ has left him, ends the call.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Allow her sweetness to finish before he terminates the call, leaving the refusal as an action rather than extra dialogue.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He answers once, hears the invitation and lowers the phone after ending the call himself.
+Performance: His anger is controlled into a steadier bare right hand, not a shouted reply or a visible rage tremor.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Voice through the established device; no caller body in this shot.
+
+Bà Hai, qua thiết bị: Về tiệm, má còn giữ chỗ cho con.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Rain still clings to his suit edge, contrasting with the dry composure returning to his face.
+
 
 [SOUND]
-Âm thanh nền: nước xô hoa, xe ngoài đường; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: flower-shop bell and soft bucket-water sounds.
+Foreground sound: The filtered familiar voice stays soft, then cuts cleanly to the damaged shop's real ambience.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Màn hình không tên) for 0.5s; this is the first frame of clip 5.
+[END FRAME — natural motion continues]
+Phone lowered, Sơn's bare right hand steady again.
+Next shot 10.5: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@Ha = HẠ: Vietnamese woman, 32, long loose black hair, pale-blue silk scarf, cream linen dress with a green florist apron; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. cream linen dress, green florist apron, pale-blue scarf at neck, flat sandals. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FLOWER SHOP (past): a small flower shop at the foot of a glass tower, buckets of white lilies and roses, a wooden counter, warm bulbs, a back room with a kettle, a glass front onto the street; no readable text.
-Story setting: Quá khứ, tiệm hoa đêm trước hợp đồng, đèn vàng, ly trắng, mưa nhẹ.
-Scene 33/60, timecode 32:00 – 33:00, clip 2/6 (10–20s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | Handheld 28mm tracking from shoulder level — Tiếp tục một hơi, chưa đổi góc: Hạ (@Ha) nhảy xuống; ánh bóng đèn vàng trên quầy gỗ.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — lấy một bông ly trắng cài vào túi áo vest anh. Nói nhỏ nhưng khẩu hình rõ, máy không rung: Hạ (@Ha): "Người đi làm cũng được cài hoa."
-00:07.0–00:10.0 | 50mm medium close-up on the face after the movement — cô sửa lại cổ áo. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[TIMELINE AND LOCATION]
+Scene 33/60, clip 2/6; shot 33.2. Story time: PAST one month earlier night.
+Hạ city flower shop, wooden counter east, bucket rows under front window, tower lobby across the road.
+Recent-past flower-shop night, warm bulbs, wet pavement street spill.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make an honest uncertain answer more intimate than another promise to return safely.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 33.1, ending with Half-closed shutter behind Sơn, Hạ at the counter.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn with both gloves on, looking at Hạ directly.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Hold both faces with Sơn still gloved and close to the established door position.
+Focus: Keep his exposed expression primary while her listening remains readable, no sudden focus trick.
+
+[ACTION — 0–10s, one evolving take]
+He admits the job is dangerous instead of promising an effortless return.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Give the first admission time to be heard, then the refusal to lie as a smaller second breath.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: His hand leaves the handle as he admits uncertainty, Hạ staying where she chose to wait.
+Performance: The confession should feel unpracticed; he does not soften it with a reassuring smile afterward.
+
+
+[DIALOGUE]
+0.8–4.4s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Sơn (@Son), nói trong hình: Anh không biết. Anh không muốn nói dối nữa.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Black gloves and warm flower colors hold the tension between his work and her ordinary room.
+
 
 [SOUND]
-Âm thanh nền: chuông cửa, kéo cắt cành; bước chân dồn trên nền. Không nhạc dưới câu thoại.
+Location bed: flower-shop bell and soft bucket-water sounds.
+Foreground sound: Speak over a low steady street bed, no score instructing the audience to forgive him.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Cô sửa lại cổ áo, perfectly still for half a second so clip 3 can continue without a cut.
+[END FRAME — natural motion continues]
+Hạ listening, Sơn no longer touching the door handle.
+Next shot 33.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

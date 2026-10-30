@@ -1,27 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 3, matching position, light and 16:9 framing exactly, as one unbroken take.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY in civilian clothes: 38, short hair with a white streak at the front, denim jacket over a dark T-shirt, jeans, small backpack; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-NIGHT COACH: the inside of an old sleeper coach at night, blue cabin light, rain on windows, the road to the coast.
-Story setting: Xe đò giường nằm chạy đêm về thành phố, đêm ngày 4, đèn cabin xanh, mưa trên kính.
-Scene 21/60, timecode 20:00 – 21:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Slow 35mm push-in establishing the room and subject — Từ đúng khung dừng của clip trước: Mây (@May) im một lúc; mưa chảy ngược trên kính.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — rồi nói về luật: nếu thấy anh làm hại ai, cô còng anh ngay trên xe này. Khẩu hình rõ, câu ngắn, máy giữ trên người nói tới hết câu: Mây (@May): "Anh hại ai, tôi còng ngay." · Sơn (@Son): "Còng mang theo chưa?" · Mây: "Hai cái."
-00:07.0–00:10.0 | 50mm close-up as the shadow falls across the frame — Sơn (@Son) gật. Khung cuối bất động, clip 5 nối từ đúng đây.
+[TIMELINE AND LOCATION]
+Scene 21/60, clip 4/6; shot 21.4. Story time: D4 night.
+Roadside coach rest stop, bus parked under an awning, toilets and changing room beyond a sheltered path.
+Present-day night journey, blue coach practicals, neutral rest-stop lamps, no past amber timeline cue.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Separate the decision to change clothes from a glamorous transformation montage.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 21.3, ending with Bag closed between his feet, Mây listening.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Coach stopped under a rest-stop awning, travelers already outside.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the coach door, waiting Mây and changing-room entrance together in one wide frame.
+Focus: Hold the whole route legible; do not follow him into the changing room inside this take.
+
+[ACTION — 0–10s, one evolving take]
+Sơn walks toward the changing room, Mây waits beside the coach.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let his exit from her immediate reach create the small uncertainty before the cut.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn walks directly under the awning; she holds her station near the coach door.
+Performance: She watches him go as a partner assessing risk, not as an admirer of his profession.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Wet paving reflects ordinary rest-stop lamps, with rain falling beyond the sheltered path.
+
 
 [SOUND]
-Âm thanh nền: máy xe đò gầm, mưa trên kính; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: coach idling and rain on the roof.
+Foreground sound: Idling engine continues, footsteps briefly sharpen under the roof, no heroic music rise.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Mây (@May) im một lúc, rồi nói về luật: nếu thấy anh làm hại ai, cô còng anh ngay trên xe này for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Mây beside the coach door, Sơn beyond the changing-room entrance.
+Next shot 21.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

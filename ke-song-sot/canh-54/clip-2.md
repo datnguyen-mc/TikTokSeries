@@ -1,27 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Ha = HẠ: 32, long hair tied loosely, pale-blue silk scarf, white blouse, jeans; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-SMALL-TOWN POLICE POST: a tiled front room with a steel desk, a ceiling fan, an old computer, a holding room with a barred window, a motorbike outside; no readable insignia.
-Story setting: Đồn công an thị trấn, đêm ngày 7, quạt trần, phòng trước, ly trà.
-Scene 54/60, timecode 53:00 – 54:00, clip 2/6 (10–20s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow dolly in from medium shot — Tiếp từ khung cuối clip trước: Hạ (@Ha) kể: ba người xe đen đưa cô đi khỏi tiệm hoa; bàn thép lạnh dưới tay.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — hai ngày ở phòng sau tiệm lụa; rồi Bà Hai Ngọc (@HaiNgoc) bán cô cho Vũ Kiên (@Vũ Kiên). Thoại có khẩu hình, máy thấy rõ miệng người nói: Hạ (@Ha): "Hai ngày ở tiệm lụa. Rồi bà bán em. Phòng sáng, cửa khóa."
-00:07.0–00:10.0 | 85mm close-up on the quiet gaze — biệt thự có phòng sáng, cửa khóa, bữa ăn đúng giờ. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 54/60, clip 2/6; shot 54.2. Story time: D7 late night.
+Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
+Later that night at station, neutral desk lamp and kettle, quiet dark windows.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Reframe the torn scarf as evidence of Hạ's own decision, not merely Sơn's keepsake.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 54.1, ending with Hạ seated freely with scarf on chair, tea before her.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Small scarf fragment sealed between Mây and Hạ.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the locked detail on the SHORT fragment sealed between the two women, her finger near the edge.
+Focus: Keep sleeve, torn weave and pointing fingertip in one sensible plane, no impossible enlargement of fibres.
+
+[ACTION — 0–10s, one evolving take]
+Hạ explains she tore it on the flower-shop latch to leave a trace for anyone searching.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Make the identification one clear beat; do not repeat the tearing action on screen after it has been explained.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She indicates the torn part through the sleeve without opening or touching the seal.
+Performance: Her off-frame explanation is exact and composed, avoiding a dramatic reenactment of the abduction.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Hạ, ngoài khung hình: Tao xé lúc bị đưa ra cửa.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Short torn end of Hạ scarf, recovered by Sơn at the latch, later sealed with Mây. Not a full scarf.
+
+[VISIBLE TEXTURE]
+The small fragment remains distinct from the LONG scarf on the chair, with no new intact duplicate.
+
 
 [SOUND]
-Âm thanh nền: quạt trần kêu đều, bàn phím cũ; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: ceiling fan and quiet paperwork.
+Foreground sound: A light sleeve rustle precedes her line, fan continues, no remembered captor voices or flashback effects.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Biệt thự có phòng sáng, cửa khóa, bữa ăn đúng giờ. Hold that exact frame still for 0.5s; clip 3 starts from it.
+[END FRAME — natural motion continues]
+Hạ pointing to the torn edge without touching the seal.
+Next shot 54.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

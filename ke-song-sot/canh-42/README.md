@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 42: Hợp Đồng Cuối Cùng
+# Kẻ Sống Sót: Bóng Ma — Cảnh 42: Bóng Ma Ngã Xuống
 
-**Cảnh 42/60** · Phút 41:00 – 42:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 41](../canh-41/README.md) | [Cảnh 43 →](../canh-43/README.md)
+Phút 41:00–42:00 · Thời gian truyện: D7 dusk
 
----
+Dũng dùng Tê giữ người sống, Sơn không tự làm giả chết.
 
-## 1. Tóm tắt cảnh
-Sơn rút từ túi áo trong ống thuốc nhỏ Tê, giơ lên cho hai phe thấy chất lỏng trong suốt dưới ánh cam cuối. Sơn nhìn Hạ lần cuối trước khi làm; anh nói với cô, không với hai phe. Cận mặt Sơn nằm nghiêng trên bê tông, mắt mở nhìn mặt trời chìm hẳn; lời dẫn thì thầm.
+**Câu hỏi đang mở:** Ai sẽ quyết định số phận Sơn khi anh mất khả năng chống đỡ?
+**Móc vào cảnh:** Bà Hai nhận ra thiết bị trong tay Dũng trước khi Sơn khuỵu.
+**Điểm bẻ:** Dũng vượt ý Bà Hai dùng Tê, làm lộ giới hạn tình mẫu tử của bà.
+**Gieo / trả:** Tê được nhận biết đúng; không cần lừa phản diện bằng cái chết giả.
 
-* **Bối cảnh chính:** Cầu cảng, giây cuối hoàng hôn, ánh cam tắt dần.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Hạ (@Ha), Bà Hai Ngọc (@HaiNgoc)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng within arm's reach of Sơn, Kiên west of them with Hạ. | Dũng reaches to restrain Sơn while Kiên drags Hạ away from the safe line. | Dũng holding Sơn's jacket sleeve, Hạ pulled west toward the car. | Dũng (@Dũng), nói trong hình: Má nói giữ mày sống. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bà Hai watching Dũng press close to Sơn. | She sees the distinctive Tê device in Dũng's hand and tells him to stop. | Bà Hai stepping forward, device partly hidden by Dũng's sleeve. | Bà Hai (@HaiNgoc), nói trong hình: Dũng. Má chỉ bảo giữ người. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn's face as he braces against Dũng, Hạ beyond his shoulder. | His grip weakens after contact with the fictional device, no application detail shown. | Sơn losing balance, Hạ turning toward him. | Hạ, ngoài khung hình: Sơn! |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn folding at the knees beside the copy envelope. | He lowers against a mooring bollard, Dũng holds his jacket instead of letting him strike the ground. | Sơn seated limp against the bollard, visibly breathing. | — |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bà Hai reaching the bollard, Sơn breathing but unable to stand. | She recognizes Tê immediately and orders Dũng to give him room. | Bà Hai between Sơn and Dũng, her hand on Sơn's shoulder. | Bà Hai (@HaiNgoc), nói trong hình: Nó còn sống. Tránh ra cho nó thở. |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Kiên west with Hạ, Bà Hai beside Sơn at center. | Kiên demands Sơn and the copies while keeping his RIGHT hand on Hạ LEFT upper arm. Hạ plants both sandals and turns her free shoulder toward the inner apron, resisting the pull back to the white car without breaking his hold. | Hạ still held west of center, sandals planted; preview envelope remains untouched on the center seam where Sơn placed it. | Kiên (@Vũ Kiên), nói trong hình: Tôi cần cả người lẫn sổ. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Sơn rút từ túi áo trong ống thuốc nhỏ Tê, giơ lên cho hai phe thấy chất lỏng trong suốt dưới ánh cam cuối.** | Sơn: "Thuốc của má. Tôi gác xưởng hai năm, tôi biết nó làm gì." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Bà Hai hiểu trước tất cả, vòng ngọc siết; bà bước lên một bước đầu tiên trong đời về phía nó.** | Bà Hai: "Con! Không!" · Sơn: "Má dạy: nghe hết, nói ít." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn nhìn Hạ lần cuối trước khi làm; anh nói với cô, không với hai phe.** | Sơn: "Xong rồi, Hạ. Chờ anh bốn mươi phút." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Quay chậm cực chậm: ống thuốc vào cẳng tay trần; ống thuốc nhỏ rơi xuống bê tông; Sơn đứng thêm hai giây, mắt mở, rồi đầu gối gập.** | — | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Sơn ngã mềm xuống cầu cảng, bông ly trắng rơi khỏi túi; Hạ hét; Bà Hai đứng chết lặng; Kiên nhíu mày, chưa tin.** | Hạ: "Sơn!" · Kiên: "Kiểm tra." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Cận mặt Sơn nằm nghiêng trên bê tông, mắt mở nhìn mặt trời chìm hẳn; lời dẫn thì thầm.** | Sơn (Voice-over): "Phút thứ nhất. Tôi nghe hết. Tôi không nói gì." | Frames / Extend (nối liền) |
+- **1:** Convert the broken agreement into immediate bodily danger without inventing a fresh attacker. **Diễn xuất:** Dũng says the line with possessive certainty; Sơn's response is bracing, not a theatrical attack.
+- **2:** Let Bà Hai recognize a limit being crossed before Sơn loses his strength. **Diễn xuất:** The first word lands sharper than her usual sweetness; the remaining phrase tries to recover command.
+- **3:** Hold the frightening moment when Sơn knows his body is no longer obeying him. **Diễn xuất:** Sơn tries to maintain eye contact, then his eyelids and grip lose coordination without a staged seizure.
+- **4:** Keep Sơn visibly alive and vulnerable, avoiding the visual language of a completed death. **Diễn xuất:** Sơn cannot arrest the movement but still breathes; Dũng is intent on possession, not concern.
+- **5:** Show that Bà Hai knows the drug and is forced to face what her own order enabled. **Diễn xuất:** Her line is factual before it is maternal; concern should not erase the authority she still claims.
+- **6:** Preserve Hạ's agency through resistance rather than an implausible trip to the center envelope. **Diễn xuất:** Kiên demands both assets while Hạ's refusal remains physical and silent, no added heroic quip.
 
----
+**Âm nối sang cảnh sau:** The envelope remains on the center seam. Keep idling engines and sea under the contested ownership; police commands begin only at 43.3.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

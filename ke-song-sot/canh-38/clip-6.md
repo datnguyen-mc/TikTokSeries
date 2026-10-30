@@ -1,30 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 5, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4; current-day bare hands in this return from memory. Voice: low, dry, unhurried Southern Vietnamese male voice.
+
+
+
+[TIMELINE AND LOCATION]
+Scene 38/60, clip 6/6; shot 38.6. Story time: D7 late afternoon.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day day-seven late afternoon at cabin, warm low sun and cool window shadow.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the present hand capable of leaving the gift behind rather than reenacting the first acceptance.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 38.5, ending with Young Sơn looking at the stockroom lock, Bà Hai watching him.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place; no transformation, morph, dissolve or replay of the old shot.
+
+[START FRAME — state only, not an action to repeat]
+Present-day folded gloves in the canvas bag, Sơn's bare hands beside them.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Match to the existing folded pair in the cabin bag, bare older hands positioned beside it.
+Focus: Keep both gloves inside until the zip covers them, no spare pair or hand disappearing into a pocket.
+
+[ACTION — 0–10s, one evolving take]
+Sơn zips the bag closed and leaves it on the bed.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Do not repeat the glove-folding from35.4; this shot closes the bag on a settled choice.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He closes the zip once and leaves the bag on the bed, keeping hands ungloved.
+Performance: The movement is calm but final, not a ceremonial rejection thrown at the memory.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
 
 [PROPS]
-LỊCH BẢY NGÀY (the seven-day count): short lines carved into the wooden doorframe of the cabin with a small metal pocket tool, one per day.
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Quá khứ, hẻm lụa thành phố, đêm mưa, tiệm lụa ánh đèn vàng.
-Scene 38/60, timecode 37:00 – 38:00, clip 6/6 (50–60s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+Worn canvas and older leather replace the remembered new gift box under current-day light.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
-
-[SHOT LIST]
-00:00–00:03.5 | Close-up on the key object, then smooth tilt up to the face — Khung đầu trùng khung cuối clip trước: Sơn (@Son) chạm vào bảy vạch trên khung cửa lần cuối, bước ra hiên; radio rè một bản tin xa.
-00:03.5–00:07.0 | 50mm rack focus from the hands to the face — nắng ngả vàng.
-00:07.0–00:10.0 | 50mm medium close-up on the reaction, held steady — hải đăng trên vách bắt nắng. Lời dẫn ngoài hình, miệng nhân vật không mở: Sơn (@Son) (Voice-over): "Bà bán tôi. Tôi vẫn không muốn bà ngã xuống. Chỉ muốn bà dừng lại." Giữ khung cuối tĩnh 0.5s; hết cảnh.
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: Zipper sound finishes naturally, then cabin wind prepares the harbour cut.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Present-day bag zipper finishes under the cut to the harbour overview, then sea wind takes over. Gloves stay in the cabin.
 
-[END FRAME]
-Freeze on Sơn (@Son) chạm vào bảy vạch trên khung cửa lần cuối, bước ra hiên for 0.5s; scene complete.
+[END FRAME — natural motion continues]
+Bag closed on the bed, bare hands leaving the frame.
+Next shot 39.1: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

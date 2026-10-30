@@ -1,32 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 2, matching position, light and 16:9 framing exactly, as one unbroken take.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. one glasses arm bent, held by tape after rescue. Voice: quick, polite Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-FISH MARKET OF HÒN SÓNG: an open wharf-side fish market, crushed ice, plastic crates of squid and fish, hanging bulbs, blurred fishermen, a tin roof; no readable signs.
-Story setting: Chợ cá Hòn Sóng, ngày 6, đá lạnh, thúng, mái tôn, dân chợ.
-Scene 30/60, timecode 29:00 – 30:00, clip 3/6 (20–30s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
+[TIMELINE AND LOCATION]
+Scene 30/60, clip 3/6; shot 30.3. Story time: D6 morning.
+Rear market exit toward a safe residential lane, no public crowd trapped inside.
+Same morning fish-market light as scene 29, bright exits for geography.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm medium-wide framing the confrontation clearly — Từ đúng khung dừng của clip trước: Mây (@May) và Phó Thành (@Phó Thành) (kính gãy) ập vào từ cửa sau: Mây quét chân một tên; đá lạnh bốc hơi dưới bóng đèn.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Phó Thành (@Phó Thành) dùng dây lưới trói. Khẩu hình rõ, câu ngắn, máy giữ trên người nói tới hết câu: Phó Thành (@Phó Thành): "Chị, em trói được rồi!" · Mây (@May): "Trói chặt. Còn hai."
-00:07.0–00:10.0 | 28mm wide, the space suddenly still — dân chợ chặn các lối ra bằng xe đẩy. Bất động 0.5s ở khung này.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show support arriving where evacuation needs it rather than materializing to win a fight.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 30.2, ending with Cart blocking the aisle, civilians already behind a closed door.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Mây and Thành at the rear market exit, support officers arriving behind them.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the rear-exit wide view to separate civilian escape from restrained pursuers.
+Focus: Keep the protected lane open in frame, not filled by an unnecessary crowd.
+
+[ACTION — 0–10s, one evolving take]
+They take two separated pursuers into custody without involving civilians.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Arrival and custody should be economical; finish on a usable rear exit, the real gain.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây and Thành hold the safe line while the arriving officers secure the two separated men.
+Performance: Thành stays useful despite damaged glasses; Mây checks the exit before watching an arrest.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Giữ lối thoát cho dân.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Plain work clothing and repaired glasses retain consequences from the stall rescue.
+
 
 [SOUND]
-Âm thanh nền: đá lạnh đổ, thúng nhựa va nhau; hơi thở gấp át cả nền. Lời thoại nổi trên nền.
+Location bed: voices giving directions and distant market activity.
+Foreground sound: Commands and cuff handling remain local and measured, with no crowd battle layer.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Dân chợ chặn các lối ra bằng xe đẩy for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Pursuers held by support officers, rear exit protected.
+Next shot 30.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

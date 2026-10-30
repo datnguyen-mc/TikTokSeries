@@ -1,31 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 4, matching position, light and 16:9 framing exactly, as one unbroken take.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Quá khứ xa, thành phố mưa, hành lang chung cư cũ, nhiều năm trước; rồi hiện tại rạng sáng ngày 6 ở nhà gỗ.
-Scene 28/60, timecode 27:00 – 28:00, clip 5/6 (40–50s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
+[TIMELINE AND LOCATION]
+Scene 28/60, clip 5/6; shot 28.5. Story time: D6 dawn.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day day-six dawn at cabin, pale coastal daylight, no past amber grade.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm medium close-up on the face, background softly blurred — Hành động dở dang đi tiếp ngay giây đầu: Mây (@May) (áo kaki trở lại) bước vào; nắng trắng cắt qua khe ván.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — thấy bao da trên bàn. Thoại ngắn, khẩu hình thật, không nhạc dưới lời: Mây (@May): "Anh định nhận hợp đồng?" · Sơn (@Son): "Tôi định nghĩ."
-00:07.0–00:10.0 | Slow 35mm pull-back holding the composition — dừng ở cửa. Đứng hình nửa giây, kể cả gió.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Restore the passage of two travel days without pretending the missing marks were already carved.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 28.4, ending with Entire handgun case in Mây's custody, Sơn unarmed.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Four marks on the frame with two small travel-date notes beside them.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame the existing four tallies with enough wood beside them for two fresh additions.
+Focus: Keep the changing mark count clear and the same frame surface recognizable throughout.
+
+[ACTION — 0–10s, one evolving take]
+Back from the city, Sơn carves the missing day-five and day-six marks in order.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let each addition be countable, then lower the tool rather than tracing the whole row again.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn adds the day-five and day-six marks in order using the established tool.
+Performance: The act is deliberate accounting, not frantic countdown performance or a new threat gesture.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Same wooden doorframe. Exactly 4 tally marks at the start and 6 at the end of THIS shot. No other tally row.
+
+[VISIBLE TEXTURE]
+Fresh wood is lighter than the older grooves, with small genuine shavings.
+
 
 [SOUND]
-Âm thanh nền: sóng rất xa, ván gỗ kêu; không nhạc, chỉ nền. Lời thoại nổi trên nền.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: Two brief carving scrapes and dawn pine wind replace the remembered corridor sound.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Mây (@May) (áo kaki trở lại) bước vào, thấy bao da trên bàn, dừng ở cửa for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Exactly six marks, two freshest side by side.
+Next shot 28.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

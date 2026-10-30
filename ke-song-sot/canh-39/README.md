@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 39: Hoàng Hôn Cảng Cá
+# Kẻ Sống Sót: Bóng Ma — Cảnh 39: Bản Đồ Lúc Hoàng Hôn
 
-**Cảnh 39/60** · Phút 38:00 – 39:00 của phim · Hồi 2: Thuốc Tê · Tập 4/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 38](../canh-38/README.md) | [Cảnh 40 →](../canh-40/README.md)
+Phút 38:00–39:00 · Thời gian truyện: D7 sunset
 
----
+Thiết lập một lần địa lý và vị trí lực lượng cho toàn cao trào.
 
-## 1. Tóm tắt cảnh
-Cảng cá vắng; Mây đặt người: Thành lên nóc chợ với ống nhòm; ông Bảy đậu xe van sau dãy thúng, Bác sĩ Linh ngồi trong với túi; ngư dân nấp sau ghe với lưới. Sơn đi ra cầu cảng từ phía chợ, vest đen, bông ly trên túi, không găng; anh dừng giữa cầu cảng, đúng chỗ nhìn được cả hai đầu. Chậm lại ở khoảnh khắc này: mặt trời chạm biển; từ đầu đông, xe đen của Bà Hai; từ đầu tây, xe trắng của Kiên; Sơn đứng giữa, bóng đổ dài về hai phía.
+**Câu hỏi đang mở:** Địa hình nào có thể cứu hoặc làm hỏng cuộc trao đổi?
+**Móc vào cảnh:** Một toàn cảnh rõ cho người xem tự dự đoán nguy cơ trước nhân vật.
+**Điểm bẻ:** Khán giả thấy đường chính được giữ, lối bộ là khe hở, Sơn đứng giữa hai xe đang tới.
+**Gieo / trả:** Tuyến xe cứu hộ và cửa kỹ thuật được ghi bằng không gian, không cần thuyết minh lần nữa.
 
-* **Bối cảnh chính:** Cảng cá Hòn Sóng, chiều ngày 7, hoàng hôn cam, ghe, thúng, cột đèn.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Phó Thành (@Phó Thành), Bác sĩ Linh (@Bác sĩ Linh), Ông Bảy (@Ông Bảy)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | L · L-cut: âm cũ đi qua cú cắt | Whole harbour in one view, market on landward side, lighthouse road uphill west. | Mây checks the protected landward junction while Thành takes the roof post. | Pier, market lane and uphill service path all readable in frame. | — |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Van behind the market wall, rear lane clear to the clinic. | Mây confirms Linh's protected position and a clear stretcher path. | Van and stretcher path clear, Mây heading back to the pier. | Mây (@May), nói trong hình: Đưa người qua lối này. Không qua chợ. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Thành looking down at two officers covering the harbour junction. | He confirms both arrival roads are watched and civilians have left. | Empty public pier below, officers concealed at the junction. | Thành (@Phó Thành), nói trong hình: Đủ vị trí. Chợ đã rút hết. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn entering from the market side, envelope in his right hand. | He stops on the agreed painted seam, facing both approaches. | Sơn on the seam, sea behind him, open retreat toward land. | — |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn at the seam, wind moving his jacket naturally. | He looks once toward Mây's covered position and steadies his left wrist. | Sơn's gaze back toward the road, both hands visible. | — |
+| [6](clip-6.md) | J · J-cut: âm mới đến trước hình | Empty arrival roads beyond Sơn, two engines heard off screen. | Black and white headlights appear from different landward roads. | Both headlights approaching the junction, neither car stopped yet. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Cảng cá vắng; Mây đặt người: Thành lên nóc chợ với ống nhòm; ông Bảy đậu xe van sau dãy thúng, Bác sĩ Linh ngồi trong với túi; ngư dân nấp sau ghe với lưới.** | Mây: "Không ai ra trước khi tôi bật đèn cột." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Mây đứng ở cuối cầu cảng, áo kaki, còng ở thắt lưng, đồng hồ quả quýt của Sơn trong túi ngực; cô nhìn mặt trời chạm nước.** | Mây (thì thầm): "Hạ. Tao giữ chỗ cho mày mười năm. Hôm nay trả." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn đi ra cầu cảng từ phía chợ, vest đen, bông ly trên túi, không găng; anh dừng giữa cầu cảng, đúng chỗ nhìn được cả hai đầu.** | Sơn (Voice-over): "Phút thứ nhất chưa bắt đầu. Tôi còn cả hoàng hôn." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Cận túi áo trong: ống thuốc nhỏ Tê; cận bao da: súng rỗng; cận bàn tay trần: không run.** | — | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Trên nóc chợ, Thành thì thầm vào điện thoại với tỉnh: hai mươi phút nữa; cậu thấy bụi từ hai đầu đường.** | Thành: "Hai xe. Hai đầu. Cùng lúc." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Chậm lại ở khoảnh khắc này: mặt trời chạm biển; từ đầu đông, xe đen của Bà Hai; từ đầu tây, xe trắng của Kiên; Sơn đứng giữa, bóng đổ dài về hai phía.** | Sơn (Voice-over): "Hai phe. Một Bóng Ma. Và một con tin tôi thương." | Frames / Extend (nối liền) |
+- **1:** Give viewers enough geography to anticipate where protection ends and escape might begin. **Diễn xuất:** Their work is focused rather than triumphant; no one gestures as if giving an audience tour.
+- **2:** Make the rescue route feel real by showing what must remain unobstructed. **Diễn xuất:** Her instruction carries care for their limits; they respond through readiness, not spoken heroics.
+- **3:** Show what Thành can verify while leaving the exchange itself outside his control. **Diễn xuất:** He speaks with regained steadiness, repaired glasses still a reminder of yesterday's limits.
+- **4:** Place Sơn as a willing exposed participant, not a returning gunfighter. **Diễn xuất:** He steadies himself without presenting the bandage as weakness to the unseen parties.
+- **5:** Let the quiet check of his ally expose dependence beneath outward composure. **Diễn xuất:** His relief at her presence is smaller than a smile, followed by renewed attention to the road.
+- **6:** Make incoming threat audible before the visible arena fills with the two sides. **Diễn xuất:** Sơn stays where he chose to stand, attention dividing without frantic head movement.
 
----
+**Âm nối sang cảnh sau:** Keep the two approaching engines into the arrivals. The next shot shows parking, not a repeated approach from the road.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

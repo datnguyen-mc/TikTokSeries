@@ -1,27 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Ông Bảy = ÔNG BẢY: 70, stout, white moustache, white singlet, conical hat, wiping a glass; loud cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Quán bờ kè, sáng ngày 8, nắng, radio, tờ báo.
-Scene 56/60, timecode 55:00 – 56:00, clip 2/6 (10–20s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm tracking laterally with the first step — Nối liền chuyển động đang dang dở: Ông Bảy (@Ông Bảy) lau ly; ghe cá ngoài kè làm nền.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — nói với cả quán về đêm qua, phóng đại gấp ba. Nói trong khung, không cắt giữa câu: Ông Bảy (@Ông Bảy): "Tui ném cái thau đá, ba thằng ngã!" · Phó Thành (@Phó Thành): "Một thằng, chú."
-00:07.0–00:10.0 | Wide 24mm showing the quiet aftermath in the space — Phó Thành (@Phó Thành) với cặp kính mới cười khúc khích. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 56/60, clip 2/6; shot 56.2. Story time: D8 morning.
+Bảy coffee stall, green canvas awning, counter landward, plastic tables seaward, street visible in the counter mirror.
+Day-eight morning, ordinary coastal daylight and neutral interiors, no action lighting.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Return the town to an ordinary transaction rather than another retelling of the fight.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 56.1, ending with Complete evidence handover recorded, local copies retained.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Bảy returning an overturned chair to its regular place, Thành nearby.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame Bảy and Thành at the coffee counter with the familiar chair and first clean glass.
+Focus: Keep both at conversational medium depth, without isolating the chair like a sacred relic.
+
+[ACTION — 0–10s, one evolving take]
+They reopen the stall together, without retelling the whole fight.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let work proceed through the line, finishing ready to serve instead of pausing for laughter or a curtain-call reaction.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: They restore the chair and open the stall, keeping the work small and habitual.
+Performance: Bảy's question contains weary practical humour, Thành's response can stay in a look rather than extra dialogue.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Ông Bảy (@Ông Bảy), nói trong hình: Giờ bán cà phê lại được chưa?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Counter, chair and glass are the same worn everyday items, no new flowers or hero portrait appears.
+
 
 [SOUND]
-Âm thanh nền: cà phê rót, ông Bảy nói không ngừng; nhịp trống trầm theo từng đòn. Thoại rõ, không nhạc đè lời.
+Location bed: glasses touching and awning cloth in sea wind.
+Foreground sound: Chair feet on concrete and a glass placed normally create a lighter rhythm after the interview quiet.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Phó Thành (@Phó Thành) với cặp kính mới cười khúc khích) for 0.5s; this is the first frame of clip 3.
+[END FRAME — natural motion continues]
+Chair upright, first clean glass on the counter.
+Next shot 56.3: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

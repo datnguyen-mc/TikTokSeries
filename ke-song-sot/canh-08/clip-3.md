@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 2: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@Dũng = DŨNG "ĐINH": 35, heavy-shouldered, buzz cut, nail-shaped silver earring in his LEFT ear, black sleeveless shirt; rough, loud Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. Voice: rough Southern Vietnamese male voice.
 
-[SETTING]
-UNDERGROUND CAR PARK (past): an underground garage beneath a glass tower, yellow neon, concrete pillars, parked cars, a lift lobby, a large ventilation duct; night.
-Story setting: Quá khứ, bãi xe ngầm dưới tòa nhà kính, đêm, đèn neon vàng, cột bê tông.
-Scene 8/60, timecode 07:00 – 08:00, clip 3/6 (20–30s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Static 28mm wide, natural directional light shaping the scene — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Còi hú, đèn xanh đỏ tràn xuống dốc bãi xe; neon vàng nhấp nháy.
-00:03.5–00:07.0 | 50mm medium close-up on hands and face — Dũng (@Dũng) lùi vào thang máy, cửa đóng. Tiếng từ thiết bị, nhân vật chỉ nghe: Dũng (@Dũng) (qua khe cửa): "Mày là quà cho công an. Bà Hai Ngọc (@HaiNgoc) cần quà."
-00:07.0–00:10.0 | 50mm medium close-up with shallow depth of field — cận mặt Sơn (@Son) hiểu ra: bị gài, anh là "người bị gài tại trận". Bất động 0.5s ở khung này.
+[TIMELINE AND LOCATION]
+Scene 08/60, clip 3/6; shot 08.3. Story time: PAST one month earlier night.
+Underground city car park, ramp north, lift east, pillar rows, solid ramp railing, low maintenance door west.
+Recent-past garage at night, amber fluorescent practicals, moving search beams, no gunfire.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let recognition of the planted evidence change the meaning of the meeting before the chase begins.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 08.2, ending with Envelope on the floor between them, Dũng in front of the lift.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn's gloved hand above the open envelope.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the detail frame on the open envelope, gloved hand and two incriminating items together.
+Focus: Keep both items recognizable as shapes, with no legible legal text or inexplicably sharp hidden document.
+
+[ACTION — 0–10s, one evolving take]
+He sees his own staged photograph and a stolen seal inside.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Give the viewer a fraction to read the trap before his hand retreats and the accusation lands.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: The gloved hand approaches but withdraws when Sơn recognizes the staged photograph and stolen seal.
+Performance: Recognition should appear through arrested fingers and a controlled retreat, not an invented face reaction within the insert.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Sơn, ngoài khung hình: Mày muốn tao nhận cái này.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Worn photograph edges and the seal's hard outline contrast with the soft envelope flap and black glove.
+
 
 [SOUND]
-Âm thanh nền: lốp rít, thang máy ting; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: fluorescent hum and footsteps echoing on concrete.
+Foreground sound: Only paper movement and his low off-screen sentence break the garage hum; do not add a camera shutter effect.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Cận mặt Sơn (@Son) hiểu ra: bị gài, anh là "người bị gài tại trận", perfectly still for half a second so clip 4 can continue without a cut.
+[END FRAME — natural motion continues]
+His hand withdrawing from the planted evidence.
+Next shot 08.4: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

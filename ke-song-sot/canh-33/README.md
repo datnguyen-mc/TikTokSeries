@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 33: Quá Khứ: Đêm Cuối Với Hạ
+# Kẻ Sống Sót: Bóng Ma — Cảnh 33: Quá Khứ: Một Lời Hứa Chưa Xong
 
-**Cảnh 33/60** · Phút 32:00 – 33:00 của phim · Hồi 2: Thuốc Tê · Tập 4/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 32](../canh-32/README.md) | [Cảnh 34 →](../canh-34/README.md)
+Phút 32:00–33:00 · Thời gian truyện: PAST one month earlier night
 
----
+Hạ đòi lời nói thật, bông hoa chỉ thuộc đêm quá khứ.
 
-## 1. Tóm tắt cảnh
-Quá khứ: tiệm hoa đêm, Hạ ngồi trên quầy đung đưa chân, Sơn đứng dựa cửa; cô biết mai là "việc cuối". Hạ lấy đồng hồ quả quýt trong túi anh, lên dây, áp vào tai anh: tiếng tích tắc. Một nhịp quay chậm: Sơn đi ra, mưa nhẹ, bông ly trắng trên túi áo; cắt về hiện tại một giây: nhà gỗ, đêm, Sơn cầm đồng hồ vẫn chưa mở.
+**Câu hỏi đang mở:** Một lời nói thật có đủ để Hạ vẫn mở cửa cho Sơn không?
+**Móc vào cảnh:** Cửa chừa một khoảng cho anh đứng lại tự chọn.
+**Điểm bẻ:** Sơn thôi hứa chắc sẽ quay lại, Hạ chỉ xin một bữa sáng bình thường.
+**Gieo / trả:** Bông hoa chỉ ở quá khứ, lời hẹn nhỏ tăng ý nghĩa cho việc mở đồng hồ ở52.
 
-* **Bối cảnh chính:** Quá khứ, tiệm hoa đêm trước hợp đồng, đèn vàng, ly trắng, mưa nhẹ.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Hạ (@Ha)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Hạ lowering half the shop shutter, Sơn still inside. | She leaves a gap for him and waits rather than filling the silence. | Half-closed shutter behind Sơn, Hạ at the counter. | Hạ (@Ha), nói trong hình: Mai anh còn quay lại không? |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn with both gloves on, looking at Hạ directly. | He admits the job is dangerous instead of promising an effortless return. | Hạ listening, Sơn no longer touching the door handle. | Sơn (@Son), nói trong hình: Anh không biết. Anh không muốn nói dối nữa. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Hạ holding a single white lily beside Sơn's jacket. | She tucks the stem into his breast pocket and checks it stays upright. | One lily in his breast pocket, Hạ's hands withdrawn. | — |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn holding the still-closed watch at chest height. | Hạ touches the lid once, asking for an ordinary future rather than a symbol. | Her hand leaving the closed watch, Sơn putting it away. | Hạ (@Ha), nói trong hình: Về rồi mình ăn sáng. Chỉ vậy thôi. |
+| [5](clip-5.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Her hand leaving the closed watch, Sơn putting it away. | Sơn gives a small honest nod, Hạ leans her forehead briefly against his shoulder. | Two figures close without an embrace performed for the camera. | — |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Sơn outside the shop, Hạ inside at the shutter. | She lowers the shutter fully after he leaves, no return to present inside this clip. | Shutter closed, empty pavement in warm street light. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Quá khứ: tiệm hoa đêm, Hạ ngồi trên quầy đung đưa chân, Sơn đứng dựa cửa; cô biết mai là "việc cuối".** | Hạ: "Mai anh đi làm." · Sơn: "Mai anh xong." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Hạ nhảy xuống, lấy một bông ly trắng cài vào túi áo vest anh; cô sửa lại cổ áo.** | Hạ: "Người đi làm cũng được cài hoa." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Hạ lấy đồng hồ quả quýt trong túi anh, lên dây, áp vào tai anh: tiếng tích tắc.** | Hạ: "Nó chạy. Khi nào hết việc, mở ra xem giờ." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Sơn hỏi tại sao phải chờ tới lúc đó mới mở; Hạ cười, không trả lời, đặt đồng hồ lại túi ngực anh.** | Sơn: "Sao phải chờ tới lúc đó?" · Hạ: "Vì trong đó có giờ em chờ." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Hạ tắt đèn tiệm, chỉ còn đèn đường vàng qua kính; hai người đứng giữa hoa; cô tựa trán vào vai anh.** | Hạ: "Về biển với em." · Sơn: "Xong việc này." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Một nhịp quay chậm: Sơn đi ra, mưa nhẹ, bông ly trắng trên túi áo; cắt về hiện tại một giây: nhà gỗ, đêm, Sơn cầm đồng hồ vẫn chưa mở.** | Sơn (Voice-over): "Tôi chưa mở. Chưa tới giờ đó." | Frames / Extend (nối liền) |
+- **1:** Give Hạ the power to leave an opening while asking for honesty instead of reassurance. **Diễn xuất:** Her question is direct and tired of evasion, not a foreknowledge of coming tragedy.
+- **2:** Make an honest uncertain answer more intimate than another promise to return safely. **Diễn xuất:** The confession should feel unpracticed; he does not soften it with a reassuring smile afterward.
+- **3:** Make the flower an ordinary act of care that does not excuse the dangerous job. **Diễn xuất:** Her care is practiced florist attention, not ceremonial blessing; his stillness permits it.
+- **4:** Make the promised future small enough to feel possible and painful to postpone. **Diễn xuất:** She speaks as someone planning breakfast, not delivering a symbolic prophecy about time.
+- **5:** Allow a brief moment of mutual trust that rests on the honest answer just given. **Diễn xuất:** The contact is accepted awkwardly and gently, neither actor presenting grief toward the lens.
+- **6:** Close the ordinary shop without pretending either character knows this is their last night. **Diễn xuất:** Her pace is practical end-of-day work, with hesitation expressed only by the moment before closure.
 
----
+**Âm nối sang cảnh sau:** Match the closed shutter lines to the cabin frame at dawn, then carve the seventh tally once.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 23: Trà Của Bà Hai
+# Kẻ Sống Sót: Bóng Ma — Cảnh 23: Giá Của Một Người
 
-**Cảnh 23/60** · Phút 22:00 – 23:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 22](../canh-22/README.md) | [Cảnh 24 →](../canh-24/README.md)
+Phút 22:00–23:00 · Thời gian truyện: D4 late night
 
----
+Bà Hai bán Hạ, Mây chọn bảo vệ bằng chứng thay vì nghe thêm.
 
-## 1. Tóm tắt cảnh
-Sơn ngồi xuống đối diện Bà Hai, Mây đứng sau lưng anh, hai người áo đen sau bình phong; trà bốc khói; bà châm tẩu. Sơn hỏi câu duy nhất anh muốn hỏi; bà hút tẩu, thở khói, nhìn anh qua làn khói, không chớp mắt. Bà Hai ngồi yên giữa hỗn loạn, không nhúc nhích, nhìn Sơn ôm sổ đỏ lùi ra cửa sau.
+**Câu hỏi đang mở:** Sơn có còn gọi bà là má sau khi biết Hạ đã bị bán?
+**Móc vào cảnh:** Chén trà không ai nhận khiến sự tiếp đãi trở thành áp lực.
+**Điểm bẻ:** Một câu thú nhận làm quan hệ gia đình thành giao dịch, Mây kéo cuộc gặp trở lại chứng cứ.
+**Gieo / trả:** Bà gọi Dũng thay vì giằng sổ, trả giá cho việc để họ rời tiệm.
 
-* **Bối cảnh chính:** Phòng sau tiệm lụa, đêm ám vàng, bàn lim, cuộn lụa chất cao.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Bà Hai Ngọc (@HaiNgoc)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | MATCH · Match cut hình dạng/tư thế, không morph | Three untouched cups, Sơn's chair angled toward the rear exit. | Bà Hai offers tea, neither visitor reaches for it. | Cup offered but untouched between Bà Hai and Sơn. | Bà Hai (@HaiNgoc), nói trong hình: Kiên trả tiền để con im miệng. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn standing beside the angled chair. | He repeats the question without accepting her bargaining language. | Sơn still standing, Bà Hai lowering the cup. | Sơn (@Son), nói trong hình: Con hỏi Hạ. |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Sơn still standing, Bà Hai lowering the cup. | Bà Hai admits transferring Hạ to Kiên but cannot prove her present condition. | Cup touching the saucer, Bà Hai's bracelet fixed in frame. | Bà Hai, ngoài khung hình: Má không giết. Má bán. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây between the rear door and the desk, Sơn holding the red ledger. | She photographs Bà Hai beside the open safe, preparing to leave. | Phone lowered, evidence bag ready in Mây's hand. | Mây (@May), nói trong hình: Đủ rồi. Chúng tôi giữ lời bà vừa nói. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Two unnamed guards blocking the rear exit. | Sơn rolls one silk bolt into their path, Mây restrains the nearer guard with one pair of cuffs. | One guard cuffed to the desk leg, exit temporarily clear. | — |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Sơn and Mây moving through the rear doorway, Bà Hai inside. | Bà Hai signals the other guard to follow instead of risking the ledger in a struggle. | Travelers outside, guard lifting a phone, Bà Hai staying by the desk. | Bà Hai, ngoài khung hình: Dũng. Cửa sau. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Sơn ngồi xuống đối diện Bà Hai, Mây đứng sau lưng anh, hai người áo đen sau bình phong; trà bốc khói; bà châm tẩu.** | Bà Hai: "Vũ Kiên trả má gấp đôi. Để má gài con." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Bà kể: Kiên biết má có hợp đồng trên đầu nó, nó không sợ, nó mua lại hợp đồng; nó muốn Bóng Ma bị bắt vì Bóng Ma biết quá nhiều cửa của nó.** | Bà Hai: "Nó mua hợp đồng. Nó muốn con vào tù." · Bà Hai: "Vì con biết cửa nhà nó." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn hỏi câu duy nhất anh muốn hỏi; bà hút tẩu, thở khói, nhìn anh qua làn khói, không chớp mắt.** | Sơn: "Hạ. Bà hại cô ấy?" · Bà Hai: "Má không hại. Má bán." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Cận mặt Sơn: hai chữ "má bán" làm anh đứng bật dậy, ghế đổ; Mây đặt tay lên vai anh.** | Bà Hai: "Người mua là người thuê con đối đầu má." · Sơn: "Kiên." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Hai người áo đen ập ra từ bình phong; Sơn ném ấm trà nóng về phía tên thứ nhất, kéo cuộn lụa đổ xuống tên thứ hai; Mây khóa tay tên bị lụa phủ, còng vào chân bàn lim.** | — | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Bà Hai ngồi yên giữa hỗn loạn, không nhúc nhích, nhìn Sơn ôm sổ đỏ lùi ra cửa sau.** | Bà Hai: "Nó còn sống, con. Má bán hàng sống." · Sơn: "Bà bán con gái người ta." | Frames / Extend (nối liền) |
+- **1:** Make an offered comfort reveal a coercive history rather than warm hospitality. **Diễn xuất:** Her patience suggests she expects obedience, while Sơn's refusal is almost entirely stillness.
+- **2:** Show Sơn protecting one question from all the explanations designed to exhaust him. **Diễn xuất:** The word naming Hạ carries effort; he avoids anger performed as shouting or clenched teeth.
+- **3:** Let the sale admission wound him while revealing that she still considers herself reasonable. **Diễn xuất:** He barely changes at first, then loses a fraction of his practiced eye contact.
+- **4:** Make Mây give the encounter a practical exit when Sơn is at risk of becoming trapped emotionally. **Diễn xuất:** She stays firm without triumph, aware this record matters more than winning an argument.
+- **5:** Turn accumulated restraint into one readable opening for escape, not an exhibition fight. **Diễn xuất:** Both act to leave, without finishing blows, extra taunts or admiring their own efficiency.
+- **6:** Show Bà Hai accepting a limited loss while choosing the next pressure point. **Diễn xuất:** She does not rush after them; irritation is a smaller pause before naming Dũng.
 
----
+**Âm nối sang cảnh sau:** Accelerating footsteps give way to garage echo before the ramp picture. Do not replay the silk-bolt obstruction.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

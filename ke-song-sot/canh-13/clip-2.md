@@ -1,27 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Bác sĩ Linh = BÁC SĨ LINH: 55, thin, grey hair, wire glasses, worn white coat, stethoscope; tired, precise Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white coat over checked shirt, stethoscope, practical medical bag. Voice: tired, measured Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-TOWN CLINIC: a small clinic with steel beds, glass cabinets, a microscope, green curtains, a ceiling fan, afternoon light; no readable text.
-Story setting: Phòng khám thị trấn, trưa ngày 3, giường sắt, rèm xanh, kính hiển vi.
-Scene 13/60, timecode 12:00 – 13:00, clip 2/6 (10–20s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium close-up on the speaker's face, clear lip-sync — Không cắt, cùng tư thế cuối clip trước: Bác sĩ Linh (@Bác sĩ Linh) lấy mẫu máu, soi kính hiển vi, nhíu mày, nói tên một thứ ông từng thấy ở bệnh viện tỉnh: Tê, thuốc liệt tổng hợp của một đường dây; rèm xanh lay nhẹ. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Bác sĩ Linh (@Bác sĩ Linh): "Tê. Trên tỉnh gọi vậy. Của Rắn Đen."
-00:03.5–00:07.0 | Slow 50mm dolly in on the character's face — Hành động trên đi tiếp, đổi cỡ cảnh, không nhạc, chỉ nền.
-00:07.0–00:10.0 | Slow 35mm pull-back holding the composition — Khoảng lặng sau câu cuối ở lại trong khung, không ai rời đi.. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[TIMELINE AND LOCATION]
+Scene 13/60, clip 2/6; shot 13.2. Story time: D3 noon.
+Small town clinic, steel beds behind green curtains, locked sample cupboard, desk and sink away from patients.
+Present-day noon, clinic window light with neutral practicals, green curtains.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make recognition of Tê depend on a remembered physical match, not instant laboratory omniscience.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 13.1, ending with Linh at bedside, Thành watching the conscious attacker.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Seized applicator sealed on a tray, Linh beside it.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the locked detail setup to show sealed device, reference photograph and comparing hand together.
+Focus: Keep the two relevant shapes in one clear plane, the patient outside this object-comparison frame.
+
+[ACTION — 0–10s, one evolving take]
+He compares its unusual cap to a reference case photograph he kept.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Compare once, then let the uncertainty remain in the still unopened object for the following explanation.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Linh positions the existing photograph beside the sealed object without opening, testing or demonstrating it.
+Performance: His fingers pause at the cap shape with cautious recognition, not certainty about every medical consequence.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Bác sĩ Linh, ngoài khung hình: Tôi từng gặp loại Tê này.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Fictional Tê device or sealed vial associated with the attackers. No real substance, dose or application technique.
+
+[VISIBLE TEXTURE]
+Transparent evidence wrapping slightly dulls the device surface, distinguishing a secured exhibit from something ready to use.
+
 
 [SOUND]
-Âm thanh nền: đồng hồ bấm giờ tích tắc; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: quiet ventilation and distant metal-tray sounds.
+Foreground sound: A tray touch and photograph scrape sit under the off-screen line; no microscope, scanner or chemical reaction is introduced.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Bác sĩ Linh (@Bác sĩ Linh) lấy mẫu máu, soi kính hiển vi, nhíu mày, nói tên một thứ ông từng thấy ở bệnh viện tỉnh: Tê, thuốc liệt tổng hợp của một đường dây, perfectly still for half a second so clip 3 can continue without a cut.
+[END FRAME — natural motion continues]
+Two matching cap shapes, both separate from the patient.
+Next shot 13.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

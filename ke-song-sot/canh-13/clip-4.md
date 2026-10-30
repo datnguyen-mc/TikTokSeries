@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 3, matching position, light and 16:9 framing exactly, as one unbroken take.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-TOWN CLINIC: a small clinic with steel beds, glass cabinets, a microscope, green curtains, a ceiling fan, afternoon light; no readable text.
-Story setting: Phòng khám thị trấn, trưa ngày 3, giường sắt, rèm xanh, kính hiển vi.
-Scene 13/60, timecode 12:00 – 13:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Slow 35mm push-in establishing the room and subject — Hành động dở dang đi tiếp ngay giây đầu: Phó Thành (@Phó Thành) đưa điện thoại: hai tên nằm giường có tiền án; kính hiển vi bắt nắng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — đàn em Rắn Đen, Mây (@May) nhìn hai người đang nằm bất động. Thoại ngắn, khẩu hình thật, không nhạc dưới lời: Phó Thành (@Phó Thành): "Hai thằng này là Rắn Đen." · Mây (@May): "Vậy người trên đồi dùng thuốc Rắn Đen đánh Rắn Đen."
-00:07.0–00:10.0 | 50mm close-up as the shadow falls across the frame — nhìn ra cửa sổ về phía đồi. Khung cuối bất động, clip 5 nối từ đúng đây.
+[TIMELINE AND LOCATION]
+Scene 13/60, clip 4/6; shot 13.4. Story time: D3 noon.
+Small town clinic, steel beds behind green curtains, locked sample cupboard, desk and sink away from patients.
+Present-day noon, clinic window light with neutral practicals, green curtains.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let a suspect's silence become evidence of recognition without pretending it is a full confession.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 13.3, ending with Mây crossing out her tentative time estimate.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Thành beside the conscious attacker, Mây holding the evidence bag.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the medium framing to retain Mây's speaking face, Thành and the conscious attacker within supervised space.
+Focus: Keep the questioner and the turning face readable, with the emblem secondary and never legibly lettered.
+
+[ACTION — 0–10s, one evolving take]
+The attacker recognizes the shipping emblem and stops answering.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Avoid another forced question in the spare seconds; let Thành's quiet noting of the response close the beat.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây shows the existing bag at the man's eyeline; Thành watches him turn away rather than pushing him upright.
+Performance: Mây asks plainly; the attacker stops answering through a tightened mouth, not a villainous laugh.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Ai đưa các anh tới đây?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The sealed bag catches plain window light; sheets remain disturbed from treatment, not staged like an interrogation set.
+
 
 [SOUND]
-Âm thanh nền: đồng hồ bấm giờ tích tắc; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: quiet ventilation and distant metal-tray sounds.
+Foreground sound: A slight wrapping rustle leads into the question, after which the man's withheld answer is allowed to be silent.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Mây (@May) nhìn hai người đang nằm bất động, nhìn ra cửa sổ về phía đồi for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Attacker looking away from the bag, Thành noting the reaction.
+Next shot 13.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,27 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 4, matching position, light and 16:9 framing exactly, as one unbroken take.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-OLD LIGHTHOUSE ON THE CLIFF: a white-and-rust lighthouse on a cliff above the town, a rusted iron door, a spiral stair, a railed gallery at the top, wind, long grass, the sea far below.
-Story setting: Hải đăng cũ trên vách đá, chiều tối ngày 3, gió lớn, cỏ dài, biển xám.
-Scene 16/60, timecode 15:00 – 16:00, clip 5/6 (40–50s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | Low 24mm follow shot from behind — Hành động dở dang đi tiếp ngay giây đầu: Mây (@May) bám lan can; gió bạt áo.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — gió, không khóc. Thoại ngắn, khẩu hình thật, không nhạc dưới lời: Mây (@May): "Tung tích đâu?" · Sơn (@Son): "Không ai cho thấy tung tích." · Mây: "Vậy chưa chắc."
-00:07.0–00:10.0 | Static 28mm wide, dust settling in the light — cô hỏi câu của người giữ luật. Đứng hình nửa giây, kể cả gió.
+[TIMELINE AND LOCATION]
+Scene 16/60, clip 5/6; shot 16.5. Story time: D3 late afternoon.
+Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
+Present-day late afternoon at sea cliff, fading daylight, lamp only during its deliberate test.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Plant a working public fixture quietly, so its later use feels earned rather than magically discovered.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 16.4, ending with Sơn offering the phone, Mây taking it.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Mây at the labeled-in-shapes backup-light lever, no readable text.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the detail setup to show the existing lever, its shape cues and the relay housing together.
+Focus: Keep lever and moving hand at one steady plane, with no cut to a new exterior lamp angle.
+
+[ACTION — 0–10s, one evolving take]
+She tests the relay once and confirms the lamp works, then switches it off.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: On, confirmation, off form one simple test, ending clearly dark so the later switch has an unambiguous starting state.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây tests the relay once, verifies operation through its real response, then returns the lever to the down position.
+Performance: Her hand is familiar and routine, not secretive; no face reaction should announce a future rescue device.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Old paint and slight metal wear make the mechanism look maintained enough to function without looking newly installed.
+
 
 [SOUND]
-Âm thanh nền: sắt gỉ rên, biển dưới xa; nhịp gõ nhanh tăng dần. Lời thoại nổi trên nền.
+Location bed: metal latch, careful footsteps and distant sea wind.
+Foreground sound: A modest relay click and brief fixture response are enough; do not add a heroic electrical surge.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Cô hỏi câu của người giữ luật for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Backup lamp dark again, lever pointing down.
+Next shot 16.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

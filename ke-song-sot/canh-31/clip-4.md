@@ -1,27 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 3: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, violet silk áo bà ba, black trousers, embroidered slippers, unlit black holder. Voice: soft, slow Southern Vietnamese female voice with precise diction.
 
-[SETTING]
-OLD LIGHTHOUSE ON THE CLIFF: a white-and-rust lighthouse on a cliff above the town, a rusted iron door, a spiral stair, a railed gallery at the top, wind, long grass, the sea far below.
-Story setting: Hải đăng, đêm ngày 6, gió, đèn pin, xe đen dưới chân vách.
-Scene 31/60, timecode 30:00 – 31:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 28mm wide, single practical light source, deep shadows — Không cắt, cùng tư thế cuối clip trước: Sơn (@Son) đặt sổ đỏ xuống sàn hải đăng; biển xám rất xa bên dưới.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — không đưa cho bà. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Sơn (@Son): "Tôi hết việc rồi, má. Không ai thuê được tôi nữa."
-00:07.0–00:10.0 | 85mm close-up on the object and hands — nói câu anh đã nói với Mây (@May). Khung cuối bất động, clip 5 nối từ đúng đây.
+[TIMELINE AND LOCATION]
+Scene 31/60, clip 4/6; shot 31.4. Story time: D6 night.
+Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
+Present-day lighthouse night, wind, one practical lamp, no daylight.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show that he keeps the evidence boundary even while still emotionally caught by her.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 31.3, ending with Bà Hai avoiding the question, Sơn looking toward the stairs.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Copied ledger page held above the gallery rail.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use one detail plane for copied paper, signature shapes, pocket and gallery rail below.
+Focus: Keep the copy thin and original absent, with no legible names generated on paper.
+
+[ACTION — 0–10s, one evolving take]
+Sơn shows the signature and folds the copy back into his pocket.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The showing is brief; spend the end on the page being securely back with him.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He displays only the page already brought, then folds and returns it to his own pocket.
+Performance: His hands stay measured; the fold is a refusal to leave anything within her reach.
+
+
+[DIALOGUE]
+0.8–4.7s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Sơn, ngoài khung hình: Bản gốc có người giữ. Đụng tôi cũng vô ích.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+
+[VISIBLE TEXTURE]
+The light page catches wind against dark jacket cloth, demanding a steady grip.
+
 
 [SOUND]
-Âm thanh nền: sắt gỉ rên, biển dưới xa; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: strong sea wind, fabric and restrained footsteps.
+Foreground sound: Paper creases and his off-screen explanation remain clear without an artificial threatening bass.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Sơn (@Son) đặt sổ đỏ xuống sàn hải đăng, không đưa cho bà, nói câu anh đã nói với Mây (@May), perfectly still for half a second so clip 5 can continue without a cut.
+[END FRAME — natural motion continues]
+Folded copy returned to Sơn's inner pocket, no book left behind.
+Next shot 31.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

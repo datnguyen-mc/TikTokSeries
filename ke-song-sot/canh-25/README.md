@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 25: Phòng Trọ
+# Kẻ Sống Sót: Bóng Ma — Cảnh 25: Chữ Ký Và Giờ Rời Bến
 
-**Cảnh 25/60** · Phút 24:00 – 25:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 24](../canh-24/README.md) | [Cảnh 26 →](../canh-26/README.md)
+Phút 24:00–25:00 · Thời gian truyện: D5 dawn
 
----
+Dữ liệu khóa được mở, xác định giờ chuyển Hạ và nơi cần xác minh.
 
-## 1. Tóm tắt cảnh
-Phòng trọ, rèm kéo; Mây băng cổ tay Sơn bị cột bê tông cứa (không máu, chỉ sưng) bằng băng vải; anh ngồi trên giường, vest cởi, sổ đỏ trên gối. Mây kể về Hạ thuở nhỏ: con gái người gác hải đăng, trèo cao nhất lớp, hay nói "biển buổi sáng màu xanh này". Mây nói còn thiếu một thứ: nơi sản xuất Tê, hình ảnh sống; Sơn biết nhà máy nước mắm ven sông; trời sáng qua rèm.
+**Câu hỏi đang mở:** Sổ đỏ mở thêm điều gì đáng đánh đổi chuyến về thành phố?
+**Móc vào cảnh:** Một cổ tay sưng buộc Sơn nhận giúp đỡ trước lúc tìm tiếp.
+**Điểm bẻ:** Token biến nghi ngờ thành lịch chuyển Hạ đêm ngày bảy, dữ liệu tới người nhận trước khi họ đi.
+**Gieo / trả:** Bằng chứng số có bản sao, hiện trường xưởng trở thành bước xác minh cuối.
 
-* **Bối cảnh chính:** Phòng trọ rẻ tiền ven thành phố, rạng sáng ngày 5, quạt, gương nứt, rèm xám.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Sơn seated on the bed, jacket off, left wrist visibly swollen without a wound. | Mây wraps the left wrist and leaves his right hand free. | Left wrist bandaged, black jacket on the bed beside him. | Mây (@May), nói trong hình: Đừng giấu đau nữa. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Borrowed laptop on the table, working USB copy already connected. | Thành guides Mây by phone as she inserts the hardware token. | Locked folder opened, original evidence kept separately. | Thành, qua thiết bị: Đúng khóa. Mở được rồi. |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Locked folder opened, original evidence kept separately. | Mây matches the digital authorization to Kiên's signature in the red ledger. | Matched signature shapes, Mây saving a local copy. | — |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây reading the newly opened transport schedule. | They learn Hạ is registered as a passenger on the day-seven night departure. | Sơn looking at the departure marker, left wrist held against his chest. | Mây (@May), nói trong hình: Hạ được đưa lên tàu đêm ngày bảy. |
+| [5](clip-5.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Sơn looking at the departure marker, left wrist held against his chest. | Sơn names the river factory and points to its loading door on Mây's map with his right hand. | Factory circled on the map, pier route beside it. | Sơn (@Son), nói trong hình: Xưởng này. Tôi biết cửa xuống sông. |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây uploading the copied files to the assigned investigator. | A receipt confirms delivery before she closes the laptop. | Confirmed receipt saved, laptop shut, originals packed. | Mây, ngoài khung hình: Bản sao đã tới người nhận. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Phòng trọ, rèm kéo; Mây băng cổ tay Sơn bị cột bê tông cứa (không máu, chỉ sưng) bằng băng vải; anh ngồi trên giường, vest cởi, sổ đỏ trên gối.** | Mây: "Đau không?" · Sơn: "Tay tôi lạnh." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn nói, lần đầu không phải lời dẫn mà nói thẳng với một người: về cô gái gói ly trắng ba ngày không hỏi, về cái khăn buộc lên cổ anh ở bến cảng.** | Sơn: "Cô ấy buộc khăn cho tôi. Chưa ai buộc gì cho tôi." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây kể về Hạ thuở nhỏ: con gái người gác hải đăng, trèo cao nhất lớp, hay nói "biển buổi sáng màu xanh này".** | Mây: "Nó hay nói: biển buổi sáng màu xanh này. Chỉ vào cái khăn." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Mây hỏi câu quan trọng: nếu Hạ còn sống, anh còn cần bảy ngày không; Sơn nhìn hai vạch băng trên cổ tay.** | Mây: "Nếu Hạ còn sống?" · Sơn: "Thì tôi không cần ngày thứ bảy." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Sơn mở sổ đỏ: chữ ký Bà Hai, và một trang chữ ký thứ hai, nét bay bướm: Vũ Kiên nhận tiền; anh chụp lại bằng điện thoại cũ.** | Sơn: "Chữ ký Kiên. Trang này hạ bệ ổng không cần ra tay." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Mây nói còn thiếu một thứ: nơi sản xuất Tê, hình ảnh sống; Sơn biết nhà máy nước mắm ven sông; trời sáng qua rèm.** | Mây: "Còn thiếu cái xưởng." · Sơn: "Nhà máy nước mắm. Tôi từng gác ở đó." | Frames / Extend (nối liền) |
+- **1:** Allow the price of the escape to interrupt Sơn's habit of refusing care. **Diễn xuất:** He tries to minimize pain until the wrapping makes concealment pointless; she treats him without sentimentality.
+- **2:** Convert a difficult trip into an earned technical opening, without magical screen spectacle. **Diễn xuất:** Her hands wait for Thành's confirmation rather than acting as though she already knows the result.
+- **3:** Make the unlocked data matter by tying a digital authorization to the original signed book. **Diễn xuất:** Her confidence grows through checking, not a knowing smile for the camera.
+- **4:** Turn the open folder into a deadline affecting a person, not simply another account detail. **Diễn xuất:** The name Hạ changes his attention immediately, but fear is a stopped breath rather than a speech.
+- **5:** Let Sơn contribute useful knowledge while acknowledging he cannot solve this alone. **Diễn xuất:** He names the door as remembered work, carrying unease at knowing the criminal place so well.
+- **6:** Secure the evidence beyond Sơn's body before they choose to enter danger again. **Diễn xuất:** Her pause comes before confirmation; afterward her hands are decisively ready to pack, not celebratory.
 
----
+**Âm nối sang cảnh sau:** Laptop confirmation fades into distant factory pumps before the roof-vent shot. No repeat unlocking montage.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

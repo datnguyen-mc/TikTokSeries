@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Hiên nhà gỗ, chiều ngày 4, nắng tắt dần, điện thoại trên bàn.
-Scene 20/60, timecode 19:00 – 20:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Slow 35mm push-in establishing the room and subject — Khung đầu: Sơn (@Son) bật loa ngoài; nắng trắng cắt qua khe ván.
-00:03.5–00:07.0 | 50mm medium close-up on the character's expression — đặt điện thoại lên bàn hiên, giọng đàn ông qua máy biến đổi. Tiếng từ thiết bị, nhân vật chỉ nghe: Môi Giới (điện thoại): "Bóng Ma. Tôi có một hợp đồng cho anh."
-00:07.0–00:10.0 | 50mm close-up as the shadow falls across the frame — bình tĩnh. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 20/60, clip 1/6; shot 20.1. Story time: D4 afternoon.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea.
+Present-day late afternoon, warm low sun across porch, dusk at coach stop.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the caller's access to a personal detail unsettle Sơn while Mây preserves room for doubt.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 19.6, ending with Sơn's finger answering, Mây beside him.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Phone answered in Sơn's hand, Mây beside him at the table.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The medium setup separates the listening phone from Mây's recording phone on the same porch table.
+Focus: Keep faces and the two device positions readable without a fabricated caller image or legible recording waveform.
+
+[ACTION — 0–10s, one evolving take]
+Sơn puts the caller on speaker, Mây starts a recording on her phone.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the detail arrive before either person reacts, then hold the separate phones to preserve their different functions.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn switches the already-answered call to speaker as Mây begins recording, neither device changing owner.
+Performance: Sơn's reaction is contained; Mây watches him as much as the phones, not accepting the claim as proof.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Voice through the established device; no caller body in this shot.
+Unknown caller: filtered Southern Vietnamese male voice, identity concealed. Voice only, never add a caller body to this shot.
+Người gọi giấu tên, qua thiết bị: Hạ vẫn giữ cái kẹp tóc màu bạc.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Ordinary worn phone surfaces and porch wood contrast with the emotional weight of the voice.
+
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: soft surf, pine wind and porch-board creaks.
+Foreground sound: The filtered caller sounds human and controlled, not electronically monstrous; wind stays low beneath the private detail.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Giọng đàn ông qua máy biến đổi, bình tĩnh for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Two phones apart on the table, both listening.
+Next shot 20.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

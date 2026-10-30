@@ -1,27 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 4. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Ha = HẠ: 32, long hair tied loosely, pale-blue silk scarf, white blouse, jeans; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, sáng ngày 8, ghe về, nắng trắng, cột đèn.
-Scene 57/60, timecode 56:00 – 57:00, clip 5/6 (40–50s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow dolly in from medium shot — Nhịp đầu nối thẳng, không chuyển: Hạ (@Ha) nhìn lên đồi dương; nắng cam trải trên bê tông.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — căn nhà gỗ nhỏ giữa cây. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Hạ (@Ha): "Nhà trên đồi của ai?" · Mây (@May): "Ông Bảy (@Ông Bảy). Có người thuê bảy ngày."
-00:07.0–00:10.0 | 85mm close-up on the quiet gaze — cô hỏi nhà đó của ai. Khung kết đứng yên, chờ clip 6.
+[TIMELINE AND LOCATION]
+Scene 57/60, clip 5/6; shot 57.5. Story time: D8 morning.
+Hạ inherited small harbour house, old lighthouse photograph, workbench, modest yard vase with lilies.
+Same day-eight morning, soft house daylight, bright public walkway.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Choose one personal farewell object without restarting the whole flower-shop romance.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 57.4, ending with Tape extended to the agreed edge, Hạ making her own decision.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+One white lily from her father's small yard vase on the windowsill.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Lock the detail on the single white lily at the existing home windowsill and Hạ's hands.
+Focus: Keep stem, paper and fingers within a plausible detail plane, no new written message needs to be legible.
+
+[ACTION — 0–10s, one evolving take]
+Hạ trims the stem and wraps only this flower in plain paper.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Complete one wrap once, ending with a single flower ready to carry rather than several duplicate bouquets.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She trims and wraps only that stem, leaving the remaining vase untouched.
+Performance: Hands move with a florist's everyday familiarity, not as if preparing a funeral offering.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- One white lily from Hạ family-home vase, wrapped at 57.5 and held at the public walkway during departure.
+
+[VISIBLE TEXTURE]
+Plain paper, natural petal imperfections and the same window light make the flower ordinary and specific.
+
 
 [SOUND]
-Âm thanh nền: ghe cá va mạn, dây neo kêu; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: window breeze and ordinary harbour morning sounds.
+Foreground sound: Paper folds and a quiet stem contact replace dialogue, with home breeze and harbour sounds still present.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Cô hỏi nhà đó của ai) for 0.5s; this is the first frame of clip 6.
+[END FRAME — natural motion continues]
+Single wrapped lily in Hạ's hand, remaining vase undisturbed.
+Next shot 57.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

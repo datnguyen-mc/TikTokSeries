@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 24: Bãi Xe Ngầm
+# Kẻ Sống Sót: Bóng Ma — Cảnh 24: Bãi Xe: Một Người Đồng Hành
 
-**Cảnh 24/60** · Phút 23:00 – 24:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 23](../canh-23/README.md) | [Cảnh 25 →](../canh-25/README.md)
+Phút 23:00–24:00 · Thời gian truyện: D4 late night
 
----
+Dũng bị chặn, Mây dùng chiếc còng thứ hai và rút lui.
 
-## 1. Tóm tắt cảnh
-Sơn và Mây chạy xuống dốc bãi xe ngầm để cắt đường ra đại lộ; phía sau, bốn người áo đen và tiếng xe rít; Sơn nhận ra chỗ này. Dũng Đinh xuất hiện ở lối xuống (hắn về thành phố sớm hơn Sơn tính), đi thẳng tới, không vội; Sơn đẩy Mây ra sau cột. Sơn đứng dậy, nhặt sổ đỏ, kéo Mây chạy lên dốc; Dũng gào, giật còng; đèn pha xe đen tràn xuống.
+**Câu hỏi đang mở:** Sơn và Mây có thoát cùng bằng chứng khi Dũng chặn lối không?
+**Móc vào cảnh:** Lối ra hiện rõ rồi Dũng bước vào đúng khoảng trống đó.
+**Điểm bẻ:** Mây cứu Sơn bằng chiếc còng thứ hai, nhưng cổ tay anh bị tổn thương.
+**Gieo / trả:** Vết thương bên trái, hai còng đã dùng và cách Dũng thoát đều được nhìn thấy.
 
-* **Bối cảnh chính:** Bãi xe ngầm gần hẻm lụa, đêm, neon vàng, cột bê tông (gương của Cảnh 8).
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Dũng Đinh (@Dũng)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Sơn and Mây already entering the garage ramp from the alley. | They move along the same car row, rear exit visible beyond. | Both behind a parked van, exit two pillars ahead. | — |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | One guard reaching around the van toward Mây. | Sơn closes the car door between guard and Mây, keeping their path clear. | Guard stopped by the door, Mây moving past the next pillar. | Mây (@May), nói trong hình: Lối bên trái. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng coming down from the ramp in response to Bà Hai's call. | He cuts off the direct exit, forcing Sơn back toward a railing. | Dũng between the travelers and exit, railing behind Sơn. | Dũng (@Dũng), nói trong hình: Má còn chưa nói xong. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng reaching for the ledger, Sơn protecting it under his left arm. | Dũng drives Sơn's left wrist into the pillar, Mây circles behind him. | Sơn down on one knee, ledger secure, Mây at Dũng's right side. | — |
+| [5](clip-5.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Sơn down on one knee, ledger secure, Mây at Dũng's right side. | Mây cuffs Dũng's right wrist to the solid ramp rail using her second pair. | Dũng restrained to the intact rail, Mây helping Sơn up. | Mây (@May), nói trong hình: Đủ hai chiếc rồi. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | The two travelers crossing the exit, Dũng behind them at the rail. | An unnamed guard arrives with bolt cutters after they clear the doorway. | Travelers gone, cutters beside the cuff chain, Dũng still restrained. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Sơn và Mây chạy xuống dốc bãi xe ngầm để cắt đường ra đại lộ; phía sau, bốn người áo đen và tiếng xe rít; Sơn nhận ra chỗ này.** | Sơn (Voice-over): "Cùng cái hầm. Lần này tôi không trốn một mình." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Hai tên chặn giữa hai hàng xe; Sơn kéo gương xe, đập cửa xe vào tên thứ nhất, khóa cổ; tên thứ hai rút gậy thép giơ lên, Mây từ sau quật gậy ba khúc vào cổ tay, vật thép văng dưới gầm xe.** | Mây: "Bỏ xuống." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Dũng Đinh xuất hiện ở lối xuống (hắn về thành phố sớm hơn Sơn tính), đi thẳng tới, không vội; Sơn đẩy Mây ra sau cột.** | Dũng: "Tao nói rồi. Tao không thương mày." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Dũng và Sơn đánh giữa hai hàng xe: Dũng to, đòn nặng; Sơn né, dùng gương xe, dùng cửa; quay chậm: Dũng húc Sơn vào cột, Sơn trượt xuống.** | — | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Mây từ sau cột lao ra, còng bập vào cổ tay Dũng, đầu còn lại cô bập vào lan can thép của dốc xe; Dũng giật, lan can không rời.** | Mây: "Cái còng thứ hai." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Sơn đứng dậy, nhặt sổ đỏ, kéo Mây chạy lên dốc; Dũng gào, giật còng; đèn pha xe đen tràn xuống.** | Dũng: "Tao kiếm mày tới biển!" · Sơn: "Tao chờ ở biển." | Frames / Extend (nối liền) |
+- **1:** Give the audience a possible escape route before the pursuer takes it away. **Diễn xuất:** Their pace is urgent but controlled, checking the open space rather than signaling panic to camera.
+- **2:** Show cooperation through Mây continuing the route while Sơn buys a brief gap. **Diễn xuất:** Her direction is short and useful, his attention on the guard's approach rather than a punishing strike.
+- **3:** Let Dũng take the visible exit away with confidence grounded in knowing this family dispute. **Diễn xuất:** He delivers the message as if returning runaway property, not initiating a sporting duel.
+- **4:** Make the injury the cost of keeping evidence, not incidental decoration after a fight. **Diễn xuất:** Pain first interrupts Sơn's breath, then balance; Mây responds to the opening without waiting for a look.
+- **5:** Pay off Mây's second cuff with a rescue decision instead of a victory flourish. **Diễn xuất:** The line is breathless accounting, not a punchline; Dũng understands the restraint before anger rises.
+- **6:** Plant Dũng's possible return as an observable practical consequence without undoing the escape. **Diễn xuất:** Dũng's humiliation is held in the way he waits for help rather than more shouted threats.
 
----
+**Âm nối sang cảnh sau:** Garage echo and the cutter sound fall away as the motel fan introduces dawn. Show no second capture of Dũng.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

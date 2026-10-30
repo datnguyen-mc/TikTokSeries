@@ -1,44 +1,38 @@
 # Kẻ Sống Sót: Bóng Ma — Cảnh 34: Vạch Thứ Bảy
 
-**Cảnh 34/60** · Phút 33:00 – 34:00 của phim · Hồi 2: Thuốc Tê · Tập 4/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 33](../canh-33/README.md) | [Cảnh 35 →](../canh-35/README.md)
+Phút 33:00–34:00 · Thời gian truyện: D7 dawn
 
----
+Bằng chứng giao nhận rõ, Sơn giữ bản sao cho cuộc trao đổi.
 
-## 1. Tóm tắt cảnh
-Rạng sáng, Sơn khắc vạch thứ bảy lên khung cửa, thẳng, sâu; bảy vạch; anh đặt dụng cụ khắc xuống. Mây nhận, không nói "anh dậy" nữa; cô nói về tỉnh: đoàn công an tỉnh tới lúc hoàng hôn theo ảnh cô gửi; Thành đã gọi. Hai người xuống đồi khi nắng lên hết; dưới thị trấn, tiếng ghe nổ máy, dân chợ mở cửa sớm hơn mọi ngày.
+**Câu hỏi đang mở:** Khi bằng chứng đã an toàn, Sơn còn đem gì ra đổi và có gì để mất?
+**Móc vào cảnh:** Vạch thứ bảy hoàn tất hạn nhưng chưa hoàn tất món nợ.
+**Điểm bẻ:** Bản gốc rời tay anh, chỉ còn bản sao và thân mình đi gặp hai phe.
+**Gieo / trả:** Đồng hồ gửi Mây giữ như một mong muốn sẽ quay lại lấy, không như thư tuyệt mệnh.
 
-* **Bối cảnh chính:** Nhà gỗ, rạng sáng ngày 7, sương, nắng đầu.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | MATCH · Match cut hình dạng/tư thế, không morph | Exactly six marks on the frame, first dawn light across the wood. | Sơn adds only the seventh mark and puts the carving tool away. | Seven distinct marks, tool on the shelf. | Sơn, lời dẫn ngoài hình: Ngày bảy. Lần này tôi ở lại để khai. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây opened evidence satchel beside the cabin table contains the black ledger and original USB, while red ledger and hardware token are beside Sơn. | Mây lays out black ledger and original USB as Sơn brings red ledger and token alongside them, then they seal the originals together and leave only the preview envelope apart. | Originals sealed with Mây, only a copy envelope before Sơn. | Mây (@May), nói trong hình: Bản gốc đi trước. Anh cầm bản sao. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn passing the small scarf fragment to Mây's evidence bag. | She stores both pieces in separate sleeves inside the same bag. | Both scarf pieces with Mây, sleeve edges visible. | — |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn holding his closed watch while Mây prepares to leave. | He asks her to keep it safe during the exchange, she accepts it. | Closed watch in Mây's right hand, Sơn's belt chain empty. | Sơn (@Son), nói trong hình: Giữ giúp. Tôi muốn tự lấy lại. |
+| [5](clip-5.md) | L · L-cut: âm cũ đi qua cú cắt | Mây handing the sealed originals to an assigned officer at the station. | Thành records the handover while copies remain with the local team. | Signed handover receipt with Thành, originals departing under escort. | — |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Confirmed road team on the station radio, Mây beside Thành. | The team reports it will take position before the meeting, not during a later rescue. | Thành marking the confirmed positions, Mây acknowledging. | Bộ đàm, qua thiết bị: Hai đầu đường đã có người. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Rạng sáng, Sơn khắc vạch thứ bảy lên khung cửa, thẳng, sâu; bảy vạch; anh đặt dụng cụ khắc xuống.** | Sơn (Voice-over): "Ngày bảy. Tôi nói không chạy nữa. Tôi giữ lời." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Mây lên đồi sớm; Sơn đưa cô cả bọc: sổ đen, sổ đỏ, USB, chìa giải mã, điện thoại có ảnh xưởng và video Hạ.** | Sơn: "Tất cả. Nếu tôi không dậy, cô vẫn đủ." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây nhận, không nói "anh dậy" nữa; cô nói về tỉnh: đoàn công an tỉnh tới lúc hoàng hôn theo ảnh cô gửi; Thành đã gọi.** | Mây: "Tỉnh tới hoàng hôn. Tôi cần anh sống tới đó." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Sơn rút đồng hồ quả quýt, đưa cho Mây giữ.** | Sơn: "Giữ giùm. Nếu tôi không dậy, đưa cô ấy." · Sơn: "Nói tôi chưa kịp mở." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Mây cầm đồng hồ, cất vào túi ngực cạnh sổ tay; cô nhìn bảy vạch.** | Mây: "Vạch thứ tám ai khắc?" · Sơn: "Người sống." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Hai người xuống đồi khi nắng lên hết; dưới thị trấn, tiếng ghe nổ máy, dân chợ mở cửa sớm hơn mọi ngày.** | Sơn: "Thị trấn dậy sớm." · Mây: "Hôm nay nó có việc." | Frames / Extend (nối liền) |
+- **1:** Make the final tally a commitment to accountability rather than a threat against himself. **Diễn xuất:** The hand is steady with effort; no trembling blade pose or aggressive gouging performance.
+- **2:** Separate protected originals from the vulnerable person who will carry only an excerpt. **Diễn xuất:** Their careful checking should feel like a relinquishment, not a repetitive evidence display for the audience.
+- **3:** Give the two scarf fragments a shared custody before they can later return to Hạ. **Diễn xuất:** Hands handle the cloth with deliberate care, without stroking it into a sentimental repeated gesture.
+- **4:** Make the watch handover a request to return for something, not a final bequest. **Diễn xuất:** He asks with an ordinary hopeful insistence, she accepts without pity or promises she cannot keep.
+- **5:** Move the originals beyond the upcoming confrontation so the rescue cannot erase their evidence. **Diễn xuất:** They verify before releasing, with no congratulatory handshake or feeling the whole case is finished.
+- **6:** Confirm a real support presence while leaving the human exchange still uncertain. **Diễn xuất:** Relief is limited to coverage of roads, not certainty about Hạ or the two leaders.
 
----
+**Âm nối sang cảnh sau:** Radio confirmation yields to coffee-stall glass sounds before the morning safety briefing. Orders here assign new practical tasks.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

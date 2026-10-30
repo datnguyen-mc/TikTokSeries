@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN in the past (45, the Ghost in his signature dark attire): a real Vietnamese man, about 176 cm tall, lean, cropped black hair greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose (signature detail), in a plain black suit with no tie, white shirt open at the collar, polished black shoes, black leather gloves. Voice: low, dry, unhurried Southern Vietnamese male voice. Not resembling any real actor.
-@May = MÂY in civilian clothes (38): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, short black hair with a single white streak at the front (signature detail), in a denim jacket over a dark T-shirt, jeans, sneakers, a small backpack, steel cuffs tucked in her jacket. Voice: firm, dry, slightly amused Southern Vietnamese female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-RIVER AT DUSK: a wide brown river at the edge of the city, a small wooden boat, mangroves, factory chimneys behind, orange dusk.
-Story setting: Ghe trên sông ra cửa biển, chiều ngày 5, hoàng hôn cam, đước hai bên.
-Scene 27/60, timecode 26:00 – 27:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Steady 50mm medium shot establishing the tension — Mở cảnh: Ghe trôi chậm giữa đước, hoàng hôn; nước nâu lấp lánh cam.
-00:03.5–00:07.0 | 35mm slow dolly, the key object visible in foreground — điện thoại cũ của Sơn (@Son) rung: một đoạn video từ số lạ. Giọng qua máy, méo nhẹ, không cần khẩu hình: Môi Giới (điện thoại): "Bóng Ma. Thứ anh mất."
-00:07.0–00:10.0 | Slow 85mm close-up on the hand and face — anh tắt máy ghe để nghe. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 27/60, clip 1/6; shot 27.1. Story time: D5 dusk.
+Open tidal river between factory and coastal channel, wooden workboat with two seats and a secured sample space under bench.
+Present-day dusk on river, muted sunset outside, neutral bright room only inside the received video.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make receiving Hạ's image interrupt an escape that had briefly found a rhythm.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 26.6, ending with Factory falling behind, phone transmission confirmed.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Both travelers in the boat, factory now distant behind them.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the phone between both travelers, boat space and receding shore still recognizable.
+Focus: Their listening and shared device remain primary, with no floating screen or caller body.
+
+[ACTION — 0–10s, one evolving take]
+The unknown caller sends a short video, Sơn reduces the engine noise.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Reduction of noise comes first, anticipation second, received proof last.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn reduces the engine noise before they angle the received image toward both faces.
+Performance: His urgency shows through careful handling, while Mây waits rather than grabbing the phone.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Voice through the established device; no caller body in this shot.
+Unknown caller: filtered Southern Vietnamese male voice, identity concealed. Voice only, never add a caller body to this shot.
+Người gọi giấu tên, qua thiết bị: Anh đòi thấy. Đây.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Dusk light is softer on their travel-worn clothes, water still moving behind them.
+
 
 [SOUND]
-Âm thanh nền: máy ghe nổ đều, nước rẽ; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: workboat motor and small waves against hull.
+Foreground sound: The motor drops naturally, allowing the filtered caller to enter without a music change.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Anh tắt máy ghe để nghe. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Phone angled between both travelers, boat idling in open water.
+Next shot 27.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

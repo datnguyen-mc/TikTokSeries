@@ -1,33 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 2, matching position, light and 16:9 framing exactly, as one unbroken take.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Dũng = DŨNG "ĐINH": 35, heavy-shouldered, buzz cut, nail-shaped silver earring in his LEFT ear, black sleeveless shirt; rough, loud Southern male voice.
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. Voice: rough Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Quán bờ kè, sáng ngày 4, nắng trắng, hai xe đen đỗ chắn đường.
-Scene 18/60, timecode 17:00 – 18:00, clip 3/6 (20–30s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
+[TIMELINE AND LOCATION]
+Scene 18/60, clip 3/6; shot 18.3. Story time: D4 morning.
+Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
+Present-day morning coastal sun outside, awning shade at the counter.
 
-[SHOT LIST]
-00:00–00:03.5 | Handheld 28mm tracking from shoulder level — Từ đúng khung dừng của clip trước: Mây (@May) và Phó Thành (@Phó Thành) tới bằng xe máy; bạt xanh phần phật.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) xuống xe đứng giữa đường, không rút gì, tay đặt lên còng ở thắt lưng. Khẩu hình rõ, câu ngắn, máy giữ trên người nói tới hết câu: Mây (@May): "Dựng bàn lại cho Ông Bảy (@Ông Bảy)."
-00:07.0–00:10.0 | 50mm medium close-up on the face after the movement — Phó Thành (@Phó Thành) run nhưng đứng cạnh. Bất động 0.5s ở khung này.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Mây restore a small public rule before discussing a larger threat, making authority visible in action.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 18.2, ending with Bảy blocking the counter entrance, Dũng in the public aisle.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Mây and Thành approaching on foot, a support vehicle farther back.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The wide view retains the fallen chair, Mây and Thành approaching, and the support vehicle farther back.
+Focus: Keep the chair and all three body positions legible, with no need for a new handcuff close-up.
+
+[ACTION — 0–10s, one evolving take]
+Mây makes Dũng put the chair back before continuing.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Give the waiting a little duration so compliance matters; finish upright before turning toward the scarf threat.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây stops within speaking distance and waits for Dũng to restore the chair before anyone advances.
+Performance: Her command is calm and non-negotiable; Dũng complies with visible resentment, retaining menace rather than becoming a clown.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Dựng lại. Rồi nói chuyện.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Coastal daylight keeps the restored chair as ordinary furniture, not a newly heroic prop lit for a reveal.
+
 
 [SOUND]
-Âm thanh nền: ly thủy tinh chạm nhau, bạt xanh phần phật; nhịp gõ nhanh tăng dần. Lời thoại nổi trên nền.
+Location bed: distant motorcycles and muted market voices.
+Foreground sound: A second, different chair sound belongs only to its restoration, followed by her concise instruction.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Phó Thành (@Phó Thành) run nhưng đứng cạnh for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Chair upright, Dũng's men waiting by their cars.
+Next shot 18.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

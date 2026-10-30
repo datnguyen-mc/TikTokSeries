@@ -1,44 +1,38 @@
 # Kẻ Sống Sót: Bóng Ma — Cảnh 21: Xe Đò Đêm
 
-**Cảnh 21/60** · Phút 20:00 – 21:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 20](../canh-20/README.md) | [Cảnh 22 →](../canh-22/README.md)
+Phút 20:00–21:00 · Thời gian truyện: D4 night
 
----
+Hai người vào thành phố với trạng thái trang phục rõ.
 
-## 1. Tóm tắt cảnh
-Xe đò đêm, hàng ghế cuối; Sơn áo khoác ô liu ngồi cạnh cửa sổ, Mây áo khoác jean, ba lô trên đùi; mưa chảy ngược trên kính; cô nhìn anh mở túi vải. Mây hỏi về Bà Hai Ngọc; Sơn kể ngắn: bà nhận anh ngoài đường đêm mưa khi anh tay trắng, cho ăn, dạy im lặng, rồi dạy việc. Sơn vest đen quay lại xe; Mây nhìn anh từ đầu tới chân, không nói; xe chạy vào thành phố, đèn vàng tràn qua kính.
+**Câu hỏi đang mở:** Anh có thể mặc lại bộ đồ cũ mà không quay về con người cũ không?
+**Móc vào cảnh:** Bộ vest lộ ra ngay sau tin tuần tra, đặt việc riêng cạnh trách nhiệm chung.
+**Điểm bẻ:** Sơn mang vest nhưng cất găng, Mây vẫn giữ liên lạc với thị trấn.
+**Gieo / trả:** Gieo tay trần và chiếc túi sẽ được để lại ở cảnh35.
 
-* **Bối cảnh chính:** Xe đò giường nằm chạy đêm về thành phố, đêm ngày 4, đèn cabin xanh, mưa trên kính.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Sơn (@Son), Mây (@May)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Sơn seated by the coach window, Mây across the narrow aisle. | Mây checks the patrol confirmation while Sơn opens his travel bag. | Patrol message acknowledged, folded black suit visible in the bag. | — |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Black suit folded across Sơn's knees, gloves tucked inside. | He touches the gloves, Mây keeps her attention on his face. | Gloves still folded, Sơn's hand withdrawn. | Mây (@May), nói trong hình: Anh vẫn cần bộ đó sao? |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Gloves still folded, Sơn's hand withdrawn. | Sơn returns the folded suit and gloves from his knees into the open bag, closes it and speaks about his first employer without a full flashback. | Bag closed between his feet, Mây listening. | Sơn (@Son), nói trong hình: Bà cho tôi chỗ ở. Rồi giữ luôn lối ra. |
+| [4](clip-4.md) | L · L-cut: âm cũ đi qua cú cắt | Coach stopped under a rest-stop awning, travelers already outside. | Sơn walks toward the changing room, Mây waits beside the coach. | Mây beside the coach door, Sơn beyond the changing-room entrance. | — |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn before the mirror, suit already on and gloves in his hand. | He pockets the gloves unused, leaving both hands bare. | Sơn in black suit with bare hands, olive jacket folded in his bag. | Sơn, lời dẫn ngoài hình: Tôi mặc lại vest. Không mang lại đôi tay cũ. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Mây holding the coach door open, Sơn returning with his bag. | They reboard, Sơn puts the bag above his seat. | Both back on the coach, olive jacket stored inside the bag. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Xe đò đêm, hàng ghế cuối; Sơn áo khoác ô liu ngồi cạnh cửa sổ, Mây áo khoác jean, ba lô trên đùi; mưa chảy ngược trên kính; cô nhìn anh mở túi vải.** | Sơn (Voice-over): "Ngày bốn. Tôi về thành phố bằng đường tôi đã trốn." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn lấy từ túi bộ vest đen gấp phẳng, đôi găng da; anh nhìn chúng như nhìn một người quen cũ.** | Mây: "Đồ đi làm của anh." · Sơn: "Đồ của một người khác." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây hỏi về Bà Hai Ngọc; Sơn kể ngắn: bà nhận anh ngoài đường đêm mưa khi anh tay trắng, cho ăn, dạy im lặng, rồi dạy việc.** | Sơn: "Bà nhận tôi lúc tay trắng. Dạy im. Rồi dạy việc." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Mây im một lúc, rồi nói về luật: nếu thấy anh làm hại ai, cô còng anh ngay trên xe này. Sơn gật.** | Mây: "Anh hại ai, tôi còng ngay." · Sơn: "Còng mang theo chưa?" · Mây: "Hai cái." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Xe dừng ở trạm nghỉ; trong nhà vệ sinh trạm, Sơn thay vest đen, đeo găng; trong gương, Bóng Ma nhìn lại; màu hình ngả vàng dần.** | Sơn (Voice-over): "Mặc đồ này vào, tôi lại biết đi trong tối." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Sơn vest đen quay lại xe; Mây nhìn anh từ đầu tới chân, không nói; xe chạy vào thành phố, đèn vàng tràn qua kính.** | Mây: "Người này tôi chưa gặp." · Sơn: "Hy vọng cô không phải gặp lâu." | Frames / Extend (nối liền) |
+- **1:** Place private dread beside Mây's still-active responsibility for the town. **Diễn xuất:** Mây reads efficiently then checks him, while Sơn avoids seeking permission for the suit.
+- **2:** Make the gloves an invitation he is afraid to accept again. **Diễn xuất:** Mây asks without accusation; Sơn's response is a controlled swallow rather than a dramatic flinch.
+- **3:** Show that admitting dependency costs Sơn more than touching the old uniform. **Diễn xuất:** Say the sentence as an unwelcome fact he has only just permitted himself to name.
+- **4:** Separate the decision to change clothes from a glamorous transformation montage. **Diễn xuất:** She watches him go as a partner assessing risk, not as an admirer of his profession.
+- **5:** Define his change through a missing glove rather than the attractiveness of the suit. **Diễn xuất:** He inspects himself with guarded fatigue, avoiding a triumphant straightening of his shoulders.
+- **6:** Return the changed man to the same ordinary journey without repeating his arrival. **Diễn xuất:** Mây recognizes the change with a restrained look, then makes room rather than commenting.
 
----
+**Âm nối sang cảnh sau:** Coach-window rain becomes rain on the silk-shop rear awning. The city arrival is a time ellipsis, not another travel montage.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

@@ -1,31 +1,64 @@
-Continue the scene seamlessly from the final frame of clip 5, matching position, light and 16:9 framing exactly, as one unbroken take.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Ha = HẠ: 32, long hair tied loosely, pale-blue silk scarf, white blouse, jeans; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
+
+
+
+[TIMELINE AND LOCATION]
+Scene 59/60, clip 6/6; shot 59.6. Story time: D8 afternoon.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea.
+Day-eight afternoon, warm working porch light, pine shadows moving naturally.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Use collective work as a time bridge, not one more farewell tableau.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 59.5, ending with Marked wood strip in Hạ's hands, new doorframe behind them.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Three people working around the unfinished flower table.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The wide holds the three people around the same unfinished table, porch and repair area recognizable.
+Focus: Keep work relationships and the increasingly level surface readable without internal montage or speed changes.
+
+[ACTION — 0–10s, one evolving take]
+They sand and fit its legs in natural afternoon light, no one adding another tally.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the surface become ready through steady activity, ending on the object that can match the finished counter years later.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: They sand and fit the already established legs, brushing dust away until the table stands straight.
+Performance: Concentration and small cooperative adjustments replace dialogue, no one stops to look toward the road for Sơn.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
 
 [PROPS]
-LỊCH BẢY NGÀY (the seven-day count): short lines carved into the wooden doorframe of the cabin with a small metal pocket tool, one per day.
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ trên đồi dương, chiều ngày 8, nắng vàng, gió.
-Scene 59/60, timecode 58:00 – 59:00, clip 6/6 (50–60s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+Natural sawdust and moving pine shadows retain texture, seven-mark strip is kept for underside use, not re-scratched.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
-
-[SHOT LIST]
-00:00–00:03.5 | Slow 35mm push-in establishing the room and subject — Không có khoảng dừng giữa hai clip: Hạ (@Ha) bước vào nhà; mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — nhìn bảy vạch, lấy kẹp tóc khắc nhẹ một vạch nhỏ bên cạnh. Một câu, một hơi, môi khớp từng âm: Hạ (@Ha): "Từ hôm nay tao đếm." · Mây (@May): "Tao giữ chỗ."
-00:07.0–00:10.0 | 50mm close-up as the shadow falls across the frame — cách một khoảng: vạch đầu của một dãy khác. Nửa giây tĩnh, hết cảnh.
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: soft surf, pine wind and porch-board creaks.
+Foreground sound: Soft sanding and wood contact continue as a real work bed, no sentimental reprise required.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Match the newly sanded table surface to the finished flower counter years later, with a clear morning/time change and older faces.
 
-[END FRAME]
-Freeze on Hạ (@Ha) bước vào nhà, nhìn bảy vạch, lấy kẹp tóc khắc nhẹ một vạch nhỏ bên cạnh, cách một khoảng: vạch đầu của một dãy khác for 0.5s; scene complete.
+[END FRAME — natural motion continues]
+Table standing straight, sawdust brushing away from its surface.
+Next shot 60.1: Match cut hình dạng/tư thế, không morph. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

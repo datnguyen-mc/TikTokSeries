@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN in the past (45, the Ghost in his signature dark attire): a real Vietnamese man, about 176 cm tall, lean, cropped black hair greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose (signature detail), in a plain black suit with no tie, white shirt open at the collar, polished black shoes, black leather gloves. Voice: low, dry, unhurried Southern Vietnamese male voice. Not resembling any real actor.
-@May = MÂY in civilian clothes (38): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, short black hair with a single white streak at the front (signature detail), in a denim jacket over a dark T-shirt, jeans, sneakers, a small backpack, steel cuffs tucked in her jacket. Voice: firm, dry, slightly amused Southern Vietnamese female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-SILK SHOP (Rắn Đen front): a dim shop of silk bolts in a city lane, a back office with a teak desk, incense, a steel safe behind a screen, a small courtyard; amber night light.
-Story setting: Tiệm lụa trong hẻm thành phố, đêm, đèn tắt, bình phong, két sắt.
-Scene 22/60, timecode 21:00 – 22:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm medium close-up on the face, background softly blurred — Khung mở: Hẻm lụa đêm, mưa phùn; bình phong che nửa phòng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Sơn (@Son) và Mây (@May) tới cửa sau tiệm lụa; Sơn mở khóa bằng một chìa anh vẫn giữ sáu năm. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Sơn (@Son) (thì thầm): "Chìa này bà cho tôi năm hai mươi tuổi."
-00:07.0–00:10.0 | Slow 35mm pull-back holding the composition — cửa mở không tiếng. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 22/60, clip 1/6; shot 22.1. Story time: D4 late night.
+Narrow rear alley of the silk shop, stockroom door beneath a shallow awning.
+Present-day rainy night, warm shop practicals against cool alley spill.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the still-working key feel like permission whose price has not been disclosed.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 21.6, ending with Both back on the coach, olive jacket stored inside the bag.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Sơn and Mây at the closed rear door in the rain.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the closed rear door central and enough alley behind Mây to justify her lookout.
+Focus: The doorway and their faces share useful depth; no insert or extra close-up is needed.
+
+[ACTION — 0–10s, one evolving take]
+He uses the old shop key while Mây watches the alley.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Do not stretch the unlocking; the easy opening should create the more troubling question.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn uses his right hand on the lock, Mây staying clear of the inward door swing.
+Performance: He knows the mechanism by touch; the lack of resistance unsettles rather than reassures him.
+
+
+[DIALOGUE]
+0.8–4.4s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Sơn (@Son), nói trong hình: Chìa cửa cũ. Tôi giữ hai mươi lăm năm.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Rain darkens old wood beneath the shallow awning, with no newly invented sign or lock.
+
 
 [SOUND]
-Âm thanh nền: tách trà đặt xuống gỗ lim; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: rain on the awning and city traffic far away.
+Foreground sound: Give the old key turn a modest audible click beneath his short explanation.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Cửa mở không tiếng, perfectly still for half a second so clip 2 can continue without a cut.
+[END FRAME — natural motion continues]
+Rear door opening inward, both travelers at the threshold.
+Next shot 22.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

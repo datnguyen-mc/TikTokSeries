@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 26: Xưởng Tê
+# Kẻ Sống Sót: Bóng Ma — Cảnh 26: Xưởng Bên Sông
 
-**Cảnh 26/60** · Phút 25:00 – 26:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 25](../canh-25/README.md) | [Cảnh 27 →](../canh-27/README.md)
+Phút 25:00–26:00 · Thời gian truyện: D5 afternoon
 
----
+Lấy bằng chứng hiện trường và thoát bằng đường đã khảo sát.
 
-## 1. Tóm tắt cảnh
-Sơn và Mây bò trên mái tôn nhà máy nước mắm, nhìn qua lỗ thủng: bể thép, bàn thủy tinh, khay lọ trong, công nhân đeo khẩu trang mờ; Mây giơ điện thoại chụp. Hai bảo vệ áo đen phát hiện, lao tới; Sơn hạ tên thứ nhất bằng khóa tay, tên thứ hai bằng ống thuốc nhỏ vào vai: hắn ngã mềm giữa khay lọ, mắt mở. Ghe lướt ra sông rộng, nhà máy nhỏ dần; Mây xem lại ảnh: xưởng, bể, lọ; Sơn lái, mắt nhìn phía trước.
+**Câu hỏi đang mở:** Họ có lấy được chứng cứ hiện trường và rút trước khi bị chặn hết đường?
+**Móc vào cảnh:** Ống thông gió cho nhìn thấy thứ trong sổ đang tồn tại ngoài đời.
+**Điểm bẻ:** Mây giữ được mẫu nguyên niêm phong, đường xuống sông biến thành lối thoát thật.
+**Gieo / trả:** Đường sông dẫn sang video của Hạ, tránh thêm một cuộc rượt vô nghĩa.
 
-* **Bối cảnh chính:** Nhà máy nước mắm bỏ hoang ven sông, ngày 5, bể thép, bình thủy tinh, cửa bốc hàng ra sông.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | The pair crouched behind a roof vent overlooking the factory yard. | Mây films the loading emblem and the same seal shown in the accounts. | Phone aimed at the matched shipment seal, Sơn watching the route. | — |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Both inside the loading aisle, river door visible ahead. | Sơn takes one sealed sample carton from a documented shelf as Mây films the location. | Single carton in Mây's evidence bag, shelf location recorded. | Sơn, ngoài khung hình: Niêm phong nguyên. Đừng mở. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | A guard turning into the loading aisle behind them. | Sơn holds the guard behind a closing sliding screen while Mây reaches the river door. | Guard separated by the screen, Mây at the open river door. | — |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây at the dock gate, another guard approaching from the stairs. | She loops a dock rope around the gate and pulls it shut between them. | Gate held by rope, both travelers beyond it, no new cuffs. | Mây (@May), nói trong hình: Đi tiếp. Tôi giữ cửa. |
+| [5](clip-5.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Gate held by rope, both travelers beyond it, no new cuffs. | Sơn steadies a tied workboat as Mây steps aboard, then releases the mooring. | Both aboard the workboat, loose rope clear of the propeller. | — |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Workboat clearing the factory dock, carton secured under the bench. | Sơn keeps the boat on the open channel, Mây sends the recorded clip. | Factory falling behind, phone transmission confirmed. | Mây (@May), nói trong hình: Giờ họ có cả sổ và xưởng. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Sơn và Mây bò trên mái tôn nhà máy nước mắm, nhìn qua lỗ thủng: bể thép, bàn thủy tinh, khay lọ trong, công nhân đeo khẩu trang mờ; Mây giơ điện thoại chụp.** | Mây (thì thầm): "Đủ cho tỉnh. Đủ cho báo." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn tụt xuống bằng dây máng xối, đi giữa bể thép, lấy một khay lọ Tê bỏ vào túi; anh biết đường như biết nhà.** | Sơn (Voice-over): "Tôi gác xưởng này hai năm. Tôi biết nó thở lúc nào." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Hai bảo vệ áo đen phát hiện, lao tới; Sơn hạ tên thứ nhất bằng khóa tay, tên thứ hai bằng ống thuốc nhỏ vào vai: hắn ngã mềm giữa khay lọ, mắt mở.** | Sơn: "Thuốc của mấy anh. Ngủ ngon." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Trên mái, Mây bị một bảo vệ leo lên; cô đá gậy hắn rơi, khóa tay hắn vào ống nước bằng cái còng cuối cùng còn trong túi; mái tôn kêu.** | Mây: "Hết còng rồi. Lần sau dùng dây." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Chuông báo động; Sơn mở cửa bốc hàng ra sông: ghe gỗ của xưởng; Mây nhảy từ mái xuống ghe, Sơn giật máy, ghe rời bến giữa tiếng la.** | Sơn: "Lên ghe!" · Mây: "Tôi ghét ghe!" | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Ghe lướt ra sông rộng, nhà máy nhỏ dần; Mây xem lại ảnh: xưởng, bể, lọ; Sơn lái, mắt nhìn phía trước.** | Mây: "Ba thứ: sổ, chữ ký, xưởng." · Sơn: "Còn thứ thứ tư." | Frames / Extend (nối liền) |
+- **1:** Make the written account acquire a real place and a risk of being seen. **Diễn xuất:** They work quietly, with brief controlled checks instead of exaggerated stealth faces.
+- **2:** Show that preserving evidence now matters as much as escaping with it. **Diễn xuất:** His care contrasts with his former role guarding the place, without a nostalgic glance.
+- **3:** Use the pursuit to narrow the escape rather than add another identical fight. **Diễn xuất:** Both concentrate on gaining separation; neither pauses to threaten or punish him.
+- **4:** Give Mây her own practical choice after the two city cuffs are already spent. **Diễn xuất:** She stays focused on the obstacle's purpose, not smiling at cleverness or replacing absent cuffs.
+- **5:** Transfer danger from the blocked dock into a moving shared escape. **Diễn xuất:** Their coordination is cautious because of his left wrist, not effortless stunt timing.
+- **6:** Let escape deliver a completed evidence transmission rather than only a prettier landscape. **Diễn xuất:** Relief is practical and incomplete; neither looks back as though the threat has ended.
 
----
+**Âm nối sang cảnh sau:** Keep the established boat engine as the view changes from wide channel to the two travelers. No repeat departure from the dock.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

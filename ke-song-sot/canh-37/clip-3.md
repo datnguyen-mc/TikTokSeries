@@ -1,27 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 2, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Sau quán bờ kè, trưa ngày 7, bóng bạt, xe trắng vừa đi.
-Scene 37/60, timecode 36:00 – 37:00, clip 3/6 (20–30s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Máy ở nguyên chỗ, hành động đi tiếp: Mây (@May) hỏi nếu Vũ Kiên (@Vũ Kiên) không mang Hạ (@Ha) ra cảng; ly thủy tinh lấp lánh trên giá.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Sơn (@Son): Vũ Kiên (@Vũ Kiên) mang, vì Kiên tin anh là hàng chuyên nghiệp. Thoại khớp môi, người nghe ở nửa khung còn lại: Mây (@May): "Nếu Vũ Kiên (@Vũ Kiên) giấu Hạ (@Ha)?" · Sơn (@Son): "Hắn tin tôi làm vì tiền. Người làm vì tiền đòi xem hàng."
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — và hàng chuyên nghiệp đòi thấy hàng. Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
+[TIMELINE AND LOCATION]
+Scene 37/60, clip 3/6; shot 37.3. Story time: D7 afternoon.
+Covered rear lane behind the coffee stall, isolated from the public road, map table beside the rear door.
+Same afternoon as scene 36, quiet shade behind awning.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Expose a specific spatial limitation so later escape feels like exploitation, not police forgetting a door.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 37.2, ending with Preview pages separated from the blank confession folder.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Mây beside the confirmed road map, Sơn looking toward the harbour.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep Mây and Sơn above the existing map, main road and thin service route both visible.
+Focus: Keep her indicating hand and the two routes legible without readable labels or animated overlays.
+
+[ACTION — 0–10s, one evolving take]
+Mây assigns the remaining road officer to the main cliff-road turnoff; the narrow service footpath is a separate route below the wall.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Give the covered road clarity, then let the separate footpath remain the small unfinished edge.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She assigns the remaining officer to the main turnoff, leaving the lower footpath a distinct route to watch.
+Performance: Her concentration includes the limitation; Sơn understands it without a reassuring nod that dismisses the risk.
+
+
+[DIALOGUE]
+0.8–5.0s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Chặn đường chính lên tháp. Báo ngay nếu hắn đổi hướng.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Creased paper and a narrow drawn path make resources feel finite rather than omniscient.
+
 
 [SOUND]
-Âm thanh nền: ghe nổ máy ngoài cảng; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: muted coffee stall voices and soft canvas movement.
+Foreground sound: Her short radio-facing instruction stays over muted town sound, no redundant chorus of confirmations.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Sơn (@Son): Vũ Kiên (@Vũ Kiên) mang, vì Kiên tin anh là hàng chuyên nghiệp, và hàng chuyên nghiệp đòi thấy hàng. Hold that exact frame still for 0.5s; clip 4 starts from it.
+[END FRAME — natural motion continues]
+Main cliff road marked as covered, Sơn acknowledging; service footpath remains a separate gap to watch.
+Next shot 37.4: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

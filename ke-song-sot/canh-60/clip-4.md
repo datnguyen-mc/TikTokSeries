@@ -1,30 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 3, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 65; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. later years, older weathered hands, faded olive jacket, canvas bag, bare hands, frame below shoulders only without a face reveal. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
 
-[SETTING]
-TOWN CROSSROAD AT DAWN: the crossroad at the edge of Hòn Sóng where the coach stops, dust, a signpost with no readable text, the sea white behind.
-Story setting: Ngã ba thị trấn Hòn Sóng, bình minh, nhiều năm sau, xe đò, cảng cá, sạp hoa.
-Scene 60/60, timecode 59:00 – 60:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 60/60, clip 4/6; shot 60.4. Story time: LATER many years after the case.
+Coastal town crossroad, coach stop on the inland road, sea beyond the south side, no readable signs.
+Many years later, soft coastal morning, same geography, mature faces with natural skin texture.
 
-[SHOT LIST]
-00:00–00:03.5 | Steady 50mm medium shot establishing the tension — Tiếp từ khung cuối clip trước: Từ xe đò, một người đàn ông bước xuống, áo khoác dã chiến ô liu, túi vải, dây đồng hồ bạc ở thắt lưng; bụi xe đò tan. Lời dẫn ngoài hình, miệng nhân vật không mở: Sơn (@Son) (Voice-over): "Bóng ma chỉ hết việc."
-00:03.5–00:07.0 | 35mm slow dolly, the key object visible in foreground — camera chỉ thấy từ vai xuống và bàn tay trần.
-00:07.0–00:10.0 | Slow 85mm close-up on the hand and face — Máy giữ cỡ cảnh, chỉ ánh mắt đổi hướng.. Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Repeat the opening arrival with a changed hand and age, while keeping identity just outside full view.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 60.3, ending with One empty chair at the sea-facing table, coach sound closer.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Coach door open, only an older man's jacket, bag and hands framed below shoulders.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame below the older man's shoulders in medium, coach door, canvas bag and ground readable.
+Focus: Keep the same repaired watch chain briefly readable inside the jacket, never show or add another watch.
+
+[ACTION — 0–10s, one evolving take]
+The man steps down once, same repaired watch chain visible inside the jacket, coach departs.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Complete the step and settle his balance, ending with him present in the town rather than beginning the approach to the shop here.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He steps down once, bag in LEFT hand, RIGHT hand bare, coach leaves without a second disembarkation.
+Performance: His movement is older and measured, neither swaggering professional nor a suddenly frail caricature.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. It runs again after 52.3; never open it again as a new reveal.
+
+[VISIBLE TEXTURE]
+Faded olive fabric and older hand texture carry the years, no fresh wound, gun or disguise appears.
+
 
 [SOUND]
-Âm thanh nền: xe đò rồ máy đi, bụi; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: coach engine and sea wind.
+Foreground sound: One footfall and the departing engine echo the first scene naturally, with no voice-over naming the man.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Camera chỉ thấy từ vai xuống và bàn tay trần. Hold that exact frame still for 0.5s; clip 5 starts from it.
+[END FRAME — natural motion continues]
+Man standing with bag in left hand, right hand bare at his side.
+Next shot 60.5: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

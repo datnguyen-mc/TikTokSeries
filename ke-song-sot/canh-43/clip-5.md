@@ -1,30 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. cut original cuff ring remains on RIGHT wrist; no usable loose cuff end. Voice: rough Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, chạng vạng xanh, đèn cột chưa bật.
-Scene 43/60, timecode 42:00 – 43:00, clip 5/6 (40–50s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
+[TIMELINE AND LOCATION]
+Scene 43/60, clip 5/6; shot 43.5. Story time: D7 dusk.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Early night, harbour floodlight now ON continuously, car lamps unchanged.
 
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Máy ở nguyên chỗ, hành động đi tiếp: Cuối cầu cảng, Mây (@May) bật công tắc: cột đèn cảng sáng trắng; cột đèn soi mặt nước đen.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — tiếng ghe nổ máy đồng loạt; dân thị trấn từ sau thúng, ghe, chợ đứng dậy với lưới và sào. Thoại khớp môi, người nghe ở nửa khung còn lại: Phó Thành (@Phó Thành): "Tỉnh tới cổng! Năm phút!" · Mây (@May): "Hòn Sóng! Vào!"
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — Phó Thành (@Phó Thành) trên nóc hét. Khung kết đứng yên, chờ clip 6.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make Sơn's extraction competent while showing why Mây cannot chase every threat at once.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 43.4, ending with Kiên and Hạ moving behind the white car toward the stair.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Dũng trying to pull Sơn behind the black car, Mây within reach.
+
+[CAMERA]
+35mm restrained handheld medium-wide. Keep the entire defensive action readable from one side of the axis, no speed ramp.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep medium-wide handheld at bollard height, Mây and assisting officer approaching from landward side.
+Focus: Keep the support points and seated man's breath readable, not a montage of isolated fighting hands.
+
+[ACTION — 0–10s, one evolving take]
+Mây and an officer separate Dũng from Sơn without dropping the immobile man.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The extraction progresses once from held to supported; Dũng's withdrawal finishes toward the already present crate.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: They separate Dũng from Sơn and transfer his weight to the officer without dropping his head or torso.
+Performance: Mây's urgency is practical, Dũng relinquishes position reluctantly and keeps searching for a way back.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Đưa Sơn về xe cứu hộ.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Sơn's LEFT bandage remains visible, the black car stays east and no fish crate becomes a body receptacle.
+
 
 [SOUND]
-Âm thanh nền: sóng vỗ trụ bê tông, hải âu; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: Short commands, cloth shifting and supported steps replace heavy blows or a crowd cheer.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Phó Thành (@Phó Thành) trên nóc hét. Hold that exact frame still for 0.5s; clip 6 starts from it.
+[END FRAME — natural motion continues]
+Sơn supported by the officer, Dũng withdrawing behind a crate.
+Next shot 43.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

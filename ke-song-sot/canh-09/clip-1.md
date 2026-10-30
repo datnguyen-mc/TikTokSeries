@@ -1,27 +1,68 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Ông Bảy = ÔNG BẢY (70, owner of the seafront coffee stall): a stout old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, a conical hat, always wiping a glass. Voice: loud, cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Thị trấn Hòn Sóng, chiều ngày 2, chợ cá, quán ông Bảy.
-Scene 9/60, timecode 08:00 – 09:00, clip 1/6 (0–10s of the scene). Atmosphere: silent infiltration, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Slow creeping 35mm camera moves, tight 85mm close-ups on hands, eyes and locks, searchlight beams sweeping through mist, long held frames with controlled cuts. Chiaroscuro shadows, cold green or blue light.
+[PICTURE-ONLY REFERENCES]
+@Son: approved face for the PRINTED PHOTOGRAPH ONLY. Do not add this person physically to the room or street.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm low-key framing creeping along the edge — Mở cảnh: Xe hơi đen bụi đường dừng trước quán bờ kè; ly thủy tinh lấp lánh trên giá.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — hai người đàn ông áo đen bước xuống, tai nghe, hỏi Ông Bảy (@Ông Bảy), giơ ảnh Sơn (@Son) chụp lén. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Rắn Đen: "Thấy người này không? Có sẹo mũi."
-00:07.0–00:10.0 | 50mm close-up on the watchful eyes — Máy giữ cỡ cảnh, chỉ ánh mắt đổi hướng.. Dừng ở khung này nửa giây để clip 2 nối vào.
+
+[TIMELINE AND LOCATION]
+Scene 09/60, clip 1/6; shot 09.1. Story time: D2 afternoon.
+Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
+Present-day afternoon sun, bright road outside cool stall and market shade.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the same ordinary stall feel exposed when strangers use a photograph as a demand.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 08.6, ending with His face turning toward the distant flower shop.
+Editorial cut to the explicitly stated new time/place. Establish the supplied opening composition once; do not replay travel or arrival.
+
+[START FRAME — state only, not an action to repeat]
+A black car parking outside Bảy's stall.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide street setup to keep the black car, open door and Bảy's counter position related.
+Focus: Keep the offered photograph as a printed face, never placing Sơn physically beside the visitors.
+
+[ACTION — 0–10s, one evolving take]
+Two unnamed men step out and display Sơn's surveillance photograph.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let their arrival occupy space before the question, then stay on the photograph held out for a response.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: The unnamed men leave their car and extend the existing photograph without crowding into a new interior angle.
+Performance: Their manner is businesslike entitlement, not a theatrical thug performance; Bảy studies them before answering.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.
+Người trong cảnh, nói trong hình: Chú thấy người này không?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Dust on the car and the stall's everyday clutter distinguish outside money from a working seafront.
+
 
 [SOUND]
-Âm thanh nền: ly thủy tinh chạm nhau, bạt xanh phần phật; một tiếng kim loại rất nhỏ. Thoại rõ, không nhạc đè lời.
+Location bed: distant motorcycles and muted market voices.
+Foreground sound: The arriving engine settles to idle, one door remains open, and the short question cuts through normal stall noise.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Hai người đàn ông áo đen bước xuống, tai nghe, hỏi Ông Bảy (@Ông Bảy), giơ ảnh Sơn (@Son) chụp lén) for 0.5s; this is the first frame of clip 2.
+[END FRAME — natural motion continues]
+Photograph extended toward Bảy, car door left open.
+Next shot 09.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

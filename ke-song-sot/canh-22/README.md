@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 22: Tiệm Lụa
+# Kẻ Sống Sót: Bóng Ma — Cảnh 22: Két Sau Bình Phong
 
-**Cảnh 22/60** · Phút 21:00 – 22:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 21](../canh-21/README.md) | [Cảnh 23 →](../canh-23/README.md)
+Phút 21:00–22:00 · Thời gian truyện: D4 late night
 
----
+Lấy khóa số và sổ đỏ, Bà Hai chủ động giữ họ lại.
 
-## 1. Tóm tắt cảnh
-Hẻm lụa đêm, mưa phùn; Sơn và Mây tới cửa sau tiệm lụa; Sơn mở khóa bằng một chìa anh vẫn giữ sáu năm; cửa mở không tiếng. Sơn xoay khóa số, két mở: một cuốn sổ gốc bìa đỏ có chữ ký, một chìa khóa nhỏ dán nhãn (không chữ), xấp tiền; anh chỉ lấy sổ và chìa. Bà Hai rót ba ly trà, đẩy hai ly về phía họ; sau tấm bình phong, bóng Dũng Đinh không có ở đây, chỉ có hai người áo đen đứng im.
+**Câu hỏi đang mở:** Bà Hai thực sự bị đột nhập hay đang dẫn họ vào cuộc trao đổi?
+**Móc vào cảnh:** Chìa vẫn mở được, khiến căn nhà cũ đáng ngờ hơn một ổ khóa khó.
+**Điểm bẻ:** Bà để lấy sổ vì cần Sơn đưa Kiên tới, quyền mặc cả đổi từ tài liệu sang con người.
+**Gieo / trả:** Sổ đỏ và token có đường ra rõ, còn Bà Hai chủ động khóa đường tâm lý.
 
-* **Bối cảnh chính:** Tiệm lụa trong hẻm thành phố, đêm, đèn tắt, bình phong, két sắt.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Bà Hai Ngọc (@HaiNgoc)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Sơn and Mây at the closed rear door in the rain. | He uses the old shop key while Mây watches the alley. | Rear door opening inward, both travelers at the threshold. | Sơn (@Son), nói trong hình: Chìa cửa cũ. Tôi giữ hai mươi lăm năm. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Both inside the dim shop, rear door behind screen left. | Sơn leads along the silk racks to the screen covering the safe. | Screen pulled aside, safe in front of Sơn, Mây by the exit. | — |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Safe open, red ledger and USB-shaped hardware token inside. | Sơn removes only the red ledger and hardware token. | Red ledger under his left arm, token in right hand. | Sơn, ngoài khung hình: Khóa số đây. Không phải chìa cửa. |
+| [4](clip-4.md) | J · J-cut: âm mới đến trước hình | Desk lamp switching on behind the open safe. | Bà Hai is revealed at the desk as both visitors turn toward her. | All three visible, safe open behind Sơn. | Bà Hai (@HaiNgoc), nói trong hình: Má để cửa cho con. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bà Hai facing Sơn with both palms on the desk. | She permits him to keep the ledger while asking for Kiên's return. | Sơn retaining the ledger, Mây beside the rear exit. | Bà Hai (@HaiNgoc), nói trong hình: Giữ sổ. Đổi lại, đưa Kiên về đây. |
+| [6](clip-6.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Sơn retaining the ledger, Mây beside the rear exit. | Mây stays standing as Sơn draws a chair away from the desk. | Chair angled toward the exit, three separate tea cups untouched. | Sơn (@Son), nói trong hình: Hạ ở đâu? |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Hẻm lụa đêm, mưa phùn; Sơn và Mây tới cửa sau tiệm lụa; Sơn mở khóa bằng một chìa anh vẫn giữ sáu năm; cửa mở không tiếng.** | Sơn (thì thầm): "Chìa này bà cho tôi năm hai mươi tuổi." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Hai người đi giữa các cuộn lụa trong tối, đèn pin che tay; Mây canh cửa; Sơn kéo bình phong: két sắt thép cũ.** | Mây: "Mã?" · Sơn: "Số lô lụa đầu tiên bà bán. Bà kể hoài." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn xoay khóa số, két mở: một cuốn sổ gốc bìa đỏ có chữ ký, một chìa khóa nhỏ dán nhãn (không chữ), xấp tiền; anh chỉ lấy sổ và chìa.** | Sơn (thì thầm): "Chìa cho phần khóa." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Đèn bàn bật sáng phía sau hai người; Mây xoay phắt, tay vào áo; ở bàn lim, Bà Hai Ngọc ngồi sẵn, tẩu đen, ấm trà nóng bốc khói: bà chờ từ đầu.** | Bà Hai: "Má biết con về. Trà còn nóng." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Sơn không giơ gì, đứng yên; Bà Hai nhìn Mây, nhìn lọn tóc bạc, cười hiền.** | Bà Hai: "Con dẫn công an về nhà má." · Sơn: "Cô ấy là bạn của Hạ." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Bà Hai rót ba ly trà, đẩy hai ly về phía họ; sau tấm bình phong, bóng Dũng Đinh không có ở đây, chỉ có hai người áo đen đứng im.** | Bà Hai: "Ngồi. Má kể con nghe con bị bán ra sao." | Frames / Extend (nối liền) |
+- **1:** Make the still-working key feel like permission whose price has not been disclosed. **Diễn xuất:** He knows the mechanism by touch; the lack of resistance unsettles rather than reassures him.
+- **2:** Show intimate knowledge of the shop turning into vulnerability for both travelers. **Diễn xuất:** His certainty is habitual, while her small checks reveal she refuses to inherit that certainty.
+- **3:** Turn the search into a concrete gain before Bà Hai takes back the encounter. **Diễn xuất:** Hands remain businesslike, stopping briefly at the token to verify it is the needed object.
+- **4:** Reveal that their apparent intrusion has been an invitation controlled by Bà Hai. **Diễn xuất:** Bà Hai is already settled, greeting them softly; their delayed recognition supplies the shock.
+- **5:** Expose why she lets the ledger leave her hand: she wants a person delivered instead. **Diễn xuất:** Her offer should sound maternal on the surface and commercially exact underneath.
+- **6:** Make Sơn refuse her comfortable family arrangement through the chair he does not occupy. **Diễn xuất:** His question strips courtesy away, while Bà Hai lets the empty seat remain a rebuke.
 
----
+**Âm nối sang cảnh sau:** Keep the same desk room tone, match the three untouched cups and angled chair before Bà Hai offers tea.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

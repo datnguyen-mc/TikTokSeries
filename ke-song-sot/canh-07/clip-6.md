@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 5, matching position, light and 16:9 framing exactly, as one unbroken take.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ, sáng ngày 2, nắng, gió dương.
-Scene 7/60, timecode 06:00 – 07:00, clip 6/6 (50–60s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium-wide framing the figures in the room — Hành động dở dang đi tiếp ngay giây đầu: Mây (@May) xuống đồi; mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — ở đồn, cô nhìn kết quả Phó Thành (@Phó Thành) tra: thẻ căn cước giả, không hồ sơ; Thành đẩy kính. Thoại ngắn, khẩu hình thật, không nhạc dưới lời: Phó Thành (@Phó Thành): "Thẻ giả, chị." · Mây (@May): "Vậy là không phải khách. Theo dõi, đừng bắt."
-00:07.0–00:10.0 | Static 28mm wide, the stillness after — Mây (@May) gấp sổ. Nửa giây tĩnh, hết cảnh.
+[TIMELINE AND LOCATION]
+Scene 07/60, clip 6/6; shot 07.6. Story time: D2 morning.
+Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
+Present-day morning daylight, neutral station window fill for station shots.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show Mây choosing a method of investigation, keeping suspicion separate from proof.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 07.5, ending with Printer feeding one page, Mây taking it.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Mây laying the result in a new investigation folder.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame both officers with folder in the lower medium space and support radio already available.
+Focus: Keep her face and the open folder readable, with the radio work secondary in the same setup.
+
+[ACTION — 0–10s, one evolving take]
+She assigns one discreet observer and asks for outside vehicle reports.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One clear assignment closes the scene; avoid an extra pointing gesture or a second request to repeat the instruction.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She files the mismatch and assigns discreet observation while Thành begins the support request.
+Performance: Mây is purposeful, not conspiratorial; Thành's readiness makes this feel like coordinated work rather than a secret favor.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Theo người tìm anh ta nữa.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Plain paper and the rental note give the inquiry physical continuity instead of another screen display.
+
 
 [SOUND]
-Âm thanh nền: sóng rất xa, ván gỗ kêu; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: ceiling fan and quiet paperwork.
+Foreground sound: The support channel opens quietly beneath her instruction, maintaining a working-station bed after the paper reveal.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Introduce garage ventilation hum before the flashback cut away from the station radio and folder.
 
-[END FRAME]
-Last frame: Phó Thành (@Phó Thành) đẩy kính, held motionless for half a second, then the scene ends.
+[END FRAME — natural motion continues]
+Folder open with Sơn's rental note, Thành calling for support.
+Next shot 08.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

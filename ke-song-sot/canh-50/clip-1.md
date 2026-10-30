@@ -1,29 +1,68 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@Ha = HẠ held in a locked room (32): a real Vietnamese woman, about 162 cm tall, slim, gentle face now pale and tired, long black hair loose, no scarf, in a plain grey cotton dress, barefoot or in thin sandals, unharmed. Voice: soft, warm, clear Southern Vietnamese female voice.
-@Vũ Kiên = VŨ KIÊN (50, construction tycoon and the hidden Broker): a tall Vietnamese man with slicked black hair, a white tailored suit, gold watch, a wide politician's smile that never fades. Voice: smooth, confident Southern Vietnamese male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-OLD LIGHTHOUSE ON THE CLIFF: a white-and-rust lighthouse on a cliff above the town, a rusted iron door, a spiral stair, a railed gallery at the top, wind, long grass, the sea far below.
-Story setting: Hành lang đỉnh hải đăng, đêm, gió lớn, lan can sắt, đèn pin dưới sàn.
-Scene 50/60, timecode 49:00 – 50:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Static 28mm wide, natural directional light shaping the scene — Khung đầu: Sơn (@Son) nhô lên hành lang tròn, hai tay trống giơ ngang vai; gió bạt áo.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Vũ Kiên (@Vũ Kiên) lùi, một tay giữ Hạ (@Ha), tay kia giơ vật thép lên. Máy ở trên mặt người nói khi câu bắt đầu: Vũ Kiên (@Vũ Kiên): "Anh chết rồi!" · Sơn (@Son): "Tôi nghỉ việc. Khác nhau."
-00:07.0–00:10.0 | 50mm medium close-up with shallow depth of field — gió bạt vest trắng. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 50/60, clip 1/6; shot 50.1. Story time: D7 night continuous.
+Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
+Night gallery, low work lamps, moonlit sea fill, backup lamp still off.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Give the audience a complete danger map before the last negotiation begins.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 49.6, ending with Empty bench with bracelet in an evidence tray, vehicle door open.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Mây at the gallery entrance, Sơn behind her, Kiên holding Hạ near the rail.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The wide places Mây at the eastern main doorway, Sơn behind, Kiên and Hạ near the southern rail.
+Focus: Keep all four positions readable with natural depth, rather than isolating the gun before geography exists.
+
+[ACTION — 0–10s, one evolving take]
+Mây stops short and keeps a clear space between herself and the hostage pair.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The entrance settles into a controlled stop; the offered conversation is the action, not a new advance.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây stops before closing the distance, Hạ's service hatch remains on Kiên's far side.
+Performance: Mây's calm is intentional, Sơn's restraint is visible in his refusal to step past her.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Cho Hạ đứng riêng. Tôi nghe anh.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Work lamps and sea fill remain low, backup lamp still OFF, white suit already rumpled.
+
 
 [SOUND]
-Âm thanh nền: cầu thang xoắn dội bước chân; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: strong sea wind, fabric and restrained footsteps.
+Foreground sound: Wind moves through the open gallery, her measured line distinct without suppressing the actual sea space.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Vũ Kiên (@Vũ Kiên) lùi, một tay giữ Hạ (@Ha), tay kia giơ vật thép lên, perfectly still for half a second so clip 2 can continue without a cut.
+[END FRAME — natural motion continues]
+Four positions readable, service hatch at Kiên's far side.
+Next shot 50.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

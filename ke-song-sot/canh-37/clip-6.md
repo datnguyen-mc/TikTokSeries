@@ -1,28 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 5: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Sau quán bờ kè, trưa ngày 7, bóng bạt, xe trắng vừa đi.
-Scene 37/60, timecode 36:00 – 37:00, clip 6/6 (50–60s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | Low 24mm follow shot from behind — Không cắt, cùng tư thế cuối clip trước: Sơn (@Son) nhìn lên hải đăng trên vách; ly thủy tinh lấp lánh trên giá.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — anh bảo Mây (@May) để một người ở chân tháp. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Sơn (@Son): "Để một người ở chân hải đăng." · Mây (@May): "Ai?" · Sơn: "Tôi. Nếu tôi dậy."
-00:07.0–00:10.0 | Static 28mm wide, dust settling in the light — vì "người thua sẽ chạy lên chỗ cao". Đứng hình nửa giây ở khung cuối, cảnh khép lại ở đây.
+[TIMELINE AND LOCATION]
+Scene 37/60, clip 6/6; shot 37.6. Story time: D7 afternoon.
+Covered rear lane behind the coffee stall, isolated from the public road, map table beside the rear door.
+Same afternoon as scene 36, quiet shade behind awning.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Leave Sơn carrying only the preview and his own vulnerable body into the next phase.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 37.5, ending with Envelope flat on the table as a rehearsal, nobody repeating the action twice.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn's bare right hand picking up the preview envelope.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the stable detail frame for his sound right hand, bandaged left side and separate folder.
+Focus: Hold the actual handoff plane sharp, with faces outside the detail frame rather than forced in.
+
+[ACTION — 0–10s, one evolving take]
+He leaves the confession folder with Mây and takes only the copy.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: End after the preview leaves the table so the following bare palms can answer its burden.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He takes the preview once, leaving Mây with the confession; no hidden weapon or extra paper changes hands.
+Performance: The hand is controlled, not shaking for emphasis, while the bandage keeps cost visible.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Used paper edges, bandage cloth and bare fingers distinguish him from the black-glove memory next.
+
 
 [SOUND]
-Âm thanh nền: ghe nổ máy ngoài cảng; bước chân dồn trên nền. Không nhạc dưới câu thoại.
+Location bed: muted coffee stall voices and soft canvas movement.
+Foreground sound: Small envelope lift and quiet cloth movement lead into the memory's rain, no new ticking.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Match present Sơn bare hand holding the copy to young Sơn empty palms under the awning. No glove-box reveal until 38.4.
 
-[END FRAME]
-Last frame: Anh bảo Mây (@May) để một người ở chân tháp, vì "người thua sẽ chạy lên chỗ cao", held motionless for half a second, then the scene ends.
+[END FRAME — natural motion continues]
+Copy envelope in right hand, left wrist bandaged, no weapon.
+Next shot 38.1: Match cut hình dạng/tư thế, không morph. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

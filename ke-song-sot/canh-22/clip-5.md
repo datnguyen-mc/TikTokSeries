@@ -1,31 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 4: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@HaiNgoc = BÀ HAI NGỌC: 60, silver bun, powdered calm face, jade bracelet on her LEFT wrist, black unlit holder, violet silk áo bà ba; soft, slow, sweet Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, violet silk áo bà ba, black trousers, embroidered slippers, unlit black holder. Voice: soft, slow Southern Vietnamese female voice with precise diction.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@HaiNgoc = BÀ HAI NGỌC (60, matriarch of the Rắn Đen syndicate, owner of a silk shop as a front): a real Vietnamese woman, about 158 cm tall, small and upright, silver hair in a tight bun, powdered calm face, eyes that never blink first, a thick jade bracelet on her LEFT wrist (signature detail), a long black unlit holder in her hand. Outfit: a violet silk áo bà ba with a high collar, black silk trousers, embroidered slippers. Voice: soft, slow, sweet Southern Vietnamese female voice, around 60.
 
-[SETTING]
-SILK SHOP (Rắn Đen front): a dim shop of silk bolts in a city lane, a back office with a teak desk, incense, a steel safe behind a screen, a small courtyard; amber night light.
-Story setting: Tiệm lụa trong hẻm thành phố, đêm, đèn tắt, bình phong, két sắt.
-Scene 22/60, timecode 21:00 – 22:00, clip 5/6 (40–50s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 22/60, clip 5/6; shot 22.5. Story time: D4 late night.
+City silk shop, teak desk to east, screened safe behind it, rear stock door west, warm practical lamps.
+Present-day rainy night, warm shop practicals against cool alley spill.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Không cắt, cùng tư thế cuối clip trước: Sơn (@Son) không giơ gì; cuộn lụa chất cao hai bên.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — đứng yên. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Bà Hai Ngọc (@HaiNgoc): "Con dẫn công an về nhà má." · Sơn (@Son): "Cô ấy là bạn của Hạ (@Ha)."
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — Bà Hai Ngọc (@HaiNgoc) nhìn Mây (@May), nhìn lọn tóc bạc, cười hiền. Đứng hình nửa giây, kể cả gió.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Expose why she lets the ledger leave her hand: she wants a person delivered instead.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 22.4, ending with All three visible, safe open behind Sơn.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Bà Hai facing Sơn with both palms on the desk.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame Bà Hai's open palms with Sơn retaining the red ledger, Mây still near the exit.
+Focus: Keep ledger and her eyes sufficiently readable to show where her interest has moved.
+
+[ACTION — 0–10s, one evolving take]
+She permits him to keep the ledger while asking for Kiên's return.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The permission to keep the book should land before the demanded return of Kiên.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She does not reach for either object; Sơn does not accept a seat or close the distance.
+Performance: Her offer should sound maternal on the surface and commercially exact underneath.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Bà Hai (@HaiNgoc), nói trong hình: Giữ sổ. Đổi lại, đưa Kiên về đây.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The polished desk separates her domestic hospitality from the safe standing open behind them.
+
 
 [SOUND]
-Âm thanh nền: tách trà đặt xuống gỗ lim; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: silk shifting and muted rain outside.
+Foreground sound: Let her low offer remain dry against the room tone, without swelling threat music.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Bà Hai Ngọc (@HaiNgoc) nhìn Mây (@May), nhìn lọn tóc bạc, cười hiền, perfectly still for half a second so clip 6 can continue without a cut.
+[END FRAME — natural motion continues]
+Sơn retaining the ledger, Mây beside the rear exit.
+Next shot 22.6: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

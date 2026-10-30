@@ -1,0 +1,2889 @@
+{
+  "version": 3,
+  "editorial_revision": "3.1",
+  "source": "PHAN_CANH_V3.json",
+  "source_sha256": "9a81d27cdcc7a20615bc3b86e5e54f605631db03d3ad63b6dbb7e5f3a3d12a7a",
+  "note": "Expected prompt fingerprints only. This manifest does not claim that videos were generated or approved. Existing unversioned renders must be reviewed/rerendered for v3.",
+  "clips": [
+    {
+      "id": "01.1",
+      "prompt": "canh-01/clip-1.md",
+      "sha256": "84a89f4e5fd7d08abd6e2d309281a173e4f00d6501a748c50ff979950f0c5bde",
+      "mode": "ingredients",
+      "previous": null,
+      "transition": "OPEN"
+    },
+    {
+      "id": "01.2",
+      "prompt": "canh-01/clip-2.md",
+      "sha256": "2dd2d8a86c6ec2d14a1df8728ed5ba801b14aa39ecaa603376ebfac150b16602",
+      "mode": "ingredients",
+      "previous": "01.1",
+      "transition": "J"
+    },
+    {
+      "id": "01.3",
+      "prompt": "canh-01/clip-3.md",
+      "sha256": "b6cdaa6f0f88c2f18bd030f087628a1de9df9eac4dbbf49aa9dae79f35fb0d26",
+      "mode": "ingredients",
+      "previous": "01.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "01.4",
+      "prompt": "canh-01/clip-4.md",
+      "sha256": "52833ee366a51a9c63f051a0278dad2e1bc5b7db3a68e13f25a695b6edd5100f",
+      "mode": "ingredients",
+      "previous": "01.3",
+      "transition": "L"
+    },
+    {
+      "id": "01.5",
+      "prompt": "canh-01/clip-5.md",
+      "sha256": "8bfedbd6deb38c9b5385986a53e2f3de9eaaa273e90ab400ec3a27cc6946d358",
+      "mode": "ingredients",
+      "previous": "01.4",
+      "transition": "MATCH"
+    },
+    {
+      "id": "01.6",
+      "prompt": "canh-01/clip-6.md",
+      "sha256": "065d1a8fde7421390af05ccc3d88480a8b638f3c30f456503691fa536c16fea7",
+      "mode": "ingredients",
+      "previous": "01.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "02.1",
+      "prompt": "canh-02/clip-1.md",
+      "sha256": "35ed32f559f9d7f8d61c4afe68aa04d311f0a39adc28563a43291099f893c640",
+      "mode": "ingredients",
+      "previous": "01.6",
+      "transition": "L"
+    },
+    {
+      "id": "02.2",
+      "prompt": "canh-02/clip-2.md",
+      "sha256": "5c12fab302768fbfed7fa1b1a518e2e6b2bc571c51c0dd7beb5108555830c4fe",
+      "mode": "ingredients",
+      "previous": "02.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "02.3",
+      "prompt": "canh-02/clip-3.md",
+      "sha256": "b052467a17a4186d210b17dab52e8f40b7a43af55889cb2d59b56b7e36834b21",
+      "mode": "ingredients",
+      "previous": "02.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "02.4",
+      "prompt": "canh-02/clip-4.md",
+      "sha256": "ff685642fb7662d2b3de4f7910420178e1a59db7fafdac91acd7b69b98409dfb",
+      "mode": "frames",
+      "previous": "02.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "02.5",
+      "prompt": "canh-02/clip-5.md",
+      "sha256": "27eb244dbcdabf1acd020ddf9b80a09d54745446c6c1ad007181fd07d8b15f21",
+      "mode": "ingredients",
+      "previous": "02.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "02.6",
+      "prompt": "canh-02/clip-6.md",
+      "sha256": "88f9c3973cf8eac5c5c42224293538fa951049047c801382b5acd4081028fcfc",
+      "mode": "ingredients",
+      "previous": "02.5",
+      "transition": "L"
+    },
+    {
+      "id": "03.1",
+      "prompt": "canh-03/clip-1.md",
+      "sha256": "1aaf66ca74247021917bdf46626c530ea268ef46b1dcb3db4de05a599c4fc8dc",
+      "mode": "ingredients",
+      "previous": "02.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "03.2",
+      "prompt": "canh-03/clip-2.md",
+      "sha256": "8b2f59e5f2587f6d3b6709952a13494dec0e5903a04d0ef398d6d0add1c65395",
+      "mode": "ingredients",
+      "previous": "03.1",
+      "transition": "J"
+    },
+    {
+      "id": "03.3",
+      "prompt": "canh-03/clip-3.md",
+      "sha256": "4907aac00acf8ff4e471d854a3bdb6d96177146f6d2a4b7c5cee33913e44c5fa",
+      "mode": "ingredients",
+      "previous": "03.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "03.4",
+      "prompt": "canh-03/clip-4.md",
+      "sha256": "4e3858e93a04d684a7e620df1b5548613fb143454a048076bac2dc9041dcff62",
+      "mode": "frames",
+      "previous": "03.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "03.5",
+      "prompt": "canh-03/clip-5.md",
+      "sha256": "a1854fbf5f7268573bc2cd6bc16cdac9384034eb892041ab95dada2f98aa0825",
+      "mode": "ingredients",
+      "previous": "03.4",
+      "transition": "L"
+    },
+    {
+      "id": "03.6",
+      "prompt": "canh-03/clip-6.md",
+      "sha256": "6258387e8ab745d466f1688d203e878ea0331e940edc1ebef516b5934ea051b0",
+      "mode": "ingredients",
+      "previous": "03.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "04.1",
+      "prompt": "canh-04/clip-1.md",
+      "sha256": "cf68e54b6993143acf6430d6a0c934523fce004fcef888251d585a45e34bbc7e",
+      "mode": "ingredients",
+      "previous": "03.6",
+      "transition": "J"
+    },
+    {
+      "id": "04.2",
+      "prompt": "canh-04/clip-2.md",
+      "sha256": "52e1a2a200a1bcaf0e97f91450f14740a05afc4f6647030bfb2aed2f0dc8edee",
+      "mode": "ingredients",
+      "previous": "04.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "04.3",
+      "prompt": "canh-04/clip-3.md",
+      "sha256": "98b422d5d0110e7a02eaec5865d19e386f8779022cc96e3c69cb6278a1c4dc6b",
+      "mode": "ingredients",
+      "previous": "04.2",
+      "transition": "MATCH"
+    },
+    {
+      "id": "04.4",
+      "prompt": "canh-04/clip-4.md",
+      "sha256": "2199f7973df4e1ec5b79cf82057fc675ef08f557758b15298c7bb8a22be980d7",
+      "mode": "ingredients",
+      "previous": "04.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "04.5",
+      "prompt": "canh-04/clip-5.md",
+      "sha256": "30e4e53a2c42da062d79e7e2da7c3449b89178f083ece82c724067177e5501fc",
+      "mode": "ingredients",
+      "previous": "04.4",
+      "transition": "MATCH"
+    },
+    {
+      "id": "04.6",
+      "prompt": "canh-04/clip-6.md",
+      "sha256": "cf27f908ca6ba397bcf0781abf47bea9e953d4c73d78bbef41f5e7902aee95a1",
+      "mode": "ingredients",
+      "previous": "04.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "05.1",
+      "prompt": "canh-05/clip-1.md",
+      "sha256": "e6e366e8d9264bbfb5b70b14c3932abe9736eced88405f8a02e42459d0c96bf5",
+      "mode": "ingredients",
+      "previous": "04.6",
+      "transition": "L"
+    },
+    {
+      "id": "05.2",
+      "prompt": "canh-05/clip-2.md",
+      "sha256": "2364f7aecb6e3eb43adee58816edc808b88f515b8cc39994f6cdf55ce33fdf89",
+      "mode": "ingredients",
+      "previous": "05.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "05.3",
+      "prompt": "canh-05/clip-3.md",
+      "sha256": "080f2cf0398f029fc669ede307edc254e2b787ed632d7ed284020b8a4b01258f",
+      "mode": "frames",
+      "previous": "05.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "05.4",
+      "prompt": "canh-05/clip-4.md",
+      "sha256": "c1eda604ed592162360624d9898106cb5519305a2f73ad2d964b3c327329bcee",
+      "mode": "ingredients",
+      "previous": "05.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "05.5",
+      "prompt": "canh-05/clip-5.md",
+      "sha256": "fba4decc49836118c4b7b92d255abd990d1b8e8e92859d76a3bb49d2cace502c",
+      "mode": "ingredients",
+      "previous": "05.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "05.6",
+      "prompt": "canh-05/clip-6.md",
+      "sha256": "1f64b4ab798a41720eefcb5255a6eed34ee6f1642fb7c990306a4f06e72fc75c",
+      "mode": "ingredients",
+      "previous": "05.5",
+      "transition": "J"
+    },
+    {
+      "id": "06.1",
+      "prompt": "canh-06/clip-1.md",
+      "sha256": "148c72a9fb4efca7c17dd8e35f08a9fc021e6d1190e2a5c39a8625cc74c20cae",
+      "mode": "ingredients",
+      "previous": "05.6",
+      "transition": "L"
+    },
+    {
+      "id": "06.2",
+      "prompt": "canh-06/clip-2.md",
+      "sha256": "f3f69fd0be460c116954865574f946cec2bc64271e904351ffbc5cdc46b7f311",
+      "mode": "frames",
+      "previous": "06.1",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "06.3",
+      "prompt": "canh-06/clip-3.md",
+      "sha256": "4310d10183c651933b7457f558d92d5a9ed9dc8e3d562443b211bc9754247800",
+      "mode": "frames",
+      "previous": "06.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "06.4",
+      "prompt": "canh-06/clip-4.md",
+      "sha256": "9e694e9307099b1baab02ee7c333c4dfd4c19e4c79539560f3d88c123cb7abce",
+      "mode": "ingredients",
+      "previous": "06.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "06.5",
+      "prompt": "canh-06/clip-5.md",
+      "sha256": "af93b74f30a8557f6d77744903c1cf3fb5178be606733be30995462b3473d62c",
+      "mode": "ingredients",
+      "previous": "06.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "06.6",
+      "prompt": "canh-06/clip-6.md",
+      "sha256": "df6150204528d0a57278329177010d08b74f07032e6fe325fe3efe6bb2a9dc0d",
+      "mode": "frames",
+      "previous": "06.5",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "07.1",
+      "prompt": "canh-07/clip-1.md",
+      "sha256": "1707a612e9b60b52f27c6d8ee3345ae27b9192752a339cc9746ada3260ef2277",
+      "mode": "ingredients",
+      "previous": "06.6",
+      "transition": "OPEN"
+    },
+    {
+      "id": "07.2",
+      "prompt": "canh-07/clip-2.md",
+      "sha256": "1c88026d59c3eeda40012a6485b9211158502f3ba5c2ee07624f8d3535c9eee1",
+      "mode": "ingredients",
+      "previous": "07.1",
+      "transition": "J"
+    },
+    {
+      "id": "07.3",
+      "prompt": "canh-07/clip-3.md",
+      "sha256": "e7362842bb139351088e03d1221a6826dba1c8a0f14db89a76b475e670e07fcf",
+      "mode": "ingredients",
+      "previous": "07.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "07.4",
+      "prompt": "canh-07/clip-4.md",
+      "sha256": "bc16a9f8e483c3b293f2298ffa4d1970e398a4f1f744278f92d19909588d20d9",
+      "mode": "ingredients",
+      "previous": "07.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "07.5",
+      "prompt": "canh-07/clip-5.md",
+      "sha256": "a83c4c964e9d76a3807b9b8fcca26d5c0615e2a8756151ba59e33bf3ec5be270",
+      "mode": "ingredients",
+      "previous": "07.4",
+      "transition": "L"
+    },
+    {
+      "id": "07.6",
+      "prompt": "canh-07/clip-6.md",
+      "sha256": "6fe472c22fdd8c23ae895fbf891bb5ccbfeb7ac03584293a2db0757244381416",
+      "mode": "ingredients",
+      "previous": "07.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "08.1",
+      "prompt": "canh-08/clip-1.md",
+      "sha256": "a3471a511dcb480c425c2e5e22a1665f992ec38cb613a6d206a61965799e5e6f",
+      "mode": "ingredients",
+      "previous": "07.6",
+      "transition": "J"
+    },
+    {
+      "id": "08.2",
+      "prompt": "canh-08/clip-2.md",
+      "sha256": "d3fa7439564609f385e6954aa9f3976686b02ca4a96e656fbc7b9da07a45da67",
+      "mode": "ingredients",
+      "previous": "08.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "08.3",
+      "prompt": "canh-08/clip-3.md",
+      "sha256": "8b357cd3d987b20882222e4db2f14d347d1c40a5a39515e30f2a8617793f1422",
+      "mode": "ingredients",
+      "previous": "08.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "08.4",
+      "prompt": "canh-08/clip-4.md",
+      "sha256": "78075f59cee04b20e8d2ca952479c2c33a2215d3f763dfb18c813399541a5c00",
+      "mode": "ingredients",
+      "previous": "08.3",
+      "transition": "J"
+    },
+    {
+      "id": "08.5",
+      "prompt": "canh-08/clip-5.md",
+      "sha256": "d25c60ba93095fa187c7425f9f5c39fb65978da3e26c4ab6b7606ed7e5ab4a86",
+      "mode": "ingredients",
+      "previous": "08.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "08.6",
+      "prompt": "canh-08/clip-6.md",
+      "sha256": "65f5bcd112088c9c73552edf00f06a1f11afc3d0e23d549a4aefa54a1f78597d",
+      "mode": "ingredients",
+      "previous": "08.5",
+      "transition": "L"
+    },
+    {
+      "id": "09.1",
+      "prompt": "canh-09/clip-1.md",
+      "sha256": "1d170b8d577c7007a6b2e4022f17c8d127ba6f2d8f97dbe4c599efe6d30ee8a6",
+      "mode": "ingredients",
+      "previous": "08.6",
+      "transition": "OPEN"
+    },
+    {
+      "id": "09.2",
+      "prompt": "canh-09/clip-2.md",
+      "sha256": "b2177533abd0e86373668747849676a3c3e4e0107f7734e3e029e0e80d611f2d",
+      "mode": "ingredients",
+      "previous": "09.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "09.3",
+      "prompt": "canh-09/clip-3.md",
+      "sha256": "9e264613a90f6cfa6b4215bb62aec6856d4d1d6b0cadb0e93ac6b04b3b520976",
+      "mode": "ingredients",
+      "previous": "09.2",
+      "transition": "L"
+    },
+    {
+      "id": "09.4",
+      "prompt": "canh-09/clip-4.md",
+      "sha256": "6477312c8250e888473ab7ab932a827320ee915df44b7fe117c5b9d0cd6ebd9a",
+      "mode": "ingredients",
+      "previous": "09.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "09.5",
+      "prompt": "canh-09/clip-5.md",
+      "sha256": "bb4b09678dfa8f6d6e6d4d343bdc4ae440bc1eaf856deab731b1fdbe2c083111",
+      "mode": "ingredients",
+      "previous": "09.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "09.6",
+      "prompt": "canh-09/clip-6.md",
+      "sha256": "beda717566e8117c739a751f2be07ad02c3cce81d213576cfdcd2249e183acc5",
+      "mode": "ingredients",
+      "previous": "09.5",
+      "transition": "J"
+    },
+    {
+      "id": "10.1",
+      "prompt": "canh-10/clip-1.md",
+      "sha256": "68bd66381444c43f634f6fc6ff7e8b2401a87af83c62bfc74f771d520cac676e",
+      "mode": "ingredients",
+      "previous": "09.6",
+      "transition": "J"
+    },
+    {
+      "id": "10.2",
+      "prompt": "canh-10/clip-2.md",
+      "sha256": "de449ff375b290a9c82f90ff6f158e094e43318a2847a771743f1957d1516681",
+      "mode": "ingredients",
+      "previous": "10.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "10.3",
+      "prompt": "canh-10/clip-3.md",
+      "sha256": "578c444101ab03b143c52d9d15d3679659d4be626b5484e5cd1a089631d2c6f1",
+      "mode": "ingredients",
+      "previous": "10.2",
+      "transition": "J"
+    },
+    {
+      "id": "10.4",
+      "prompt": "canh-10/clip-4.md",
+      "sha256": "a5bf5b22e8db7a1d15ed387b9633690fcb060ba8a50008bbee7ed170354dd843",
+      "mode": "ingredients",
+      "previous": "10.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "10.5",
+      "prompt": "canh-10/clip-5.md",
+      "sha256": "687a2061594eb21b252740395deb2baadfa9f81ddde6f357688e3bc67761c76c",
+      "mode": "ingredients",
+      "previous": "10.4",
+      "transition": "L"
+    },
+    {
+      "id": "10.6",
+      "prompt": "canh-10/clip-6.md",
+      "sha256": "56983ad01eb0adaaa7618b3f2c14e34b06976d9ec70d0ca02322ae5b4404a093",
+      "mode": "ingredients",
+      "previous": "10.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "11.1",
+      "prompt": "canh-11/clip-1.md",
+      "sha256": "9b90ef4910920701150d51d3c901f05d26c515d5bdd1d3884577b3fc9471de4c",
+      "mode": "ingredients",
+      "previous": "10.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "11.2",
+      "prompt": "canh-11/clip-2.md",
+      "sha256": "aae43d19e1729d288fbefc49dd82742ab3d12c93cd0d66877ef5845aef2e160d",
+      "mode": "ingredients",
+      "previous": "11.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "11.3",
+      "prompt": "canh-11/clip-3.md",
+      "sha256": "2df6ce9d7a8ecaf4a5690380de3871f6112bc91394d86cb0839a936610742bbb",
+      "mode": "ingredients",
+      "previous": "11.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "11.4",
+      "prompt": "canh-11/clip-4.md",
+      "sha256": "2b4a50c06072b4a504e1cfb801468b231591802ee1801ea7bd1defc0fa8a0e0c",
+      "mode": "ingredients",
+      "previous": "11.3",
+      "transition": "J"
+    },
+    {
+      "id": "11.5",
+      "prompt": "canh-11/clip-5.md",
+      "sha256": "7aab976827d5c7806bf80cbd5b6e7a7d1b06618835feb8581c18f9c9d976b2b8",
+      "mode": "ingredients",
+      "previous": "11.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "11.6",
+      "prompt": "canh-11/clip-6.md",
+      "sha256": "20ddc1c7427b0fa2369c97fe8df3f5d3375564dbdb539cd8c610e8a5f3307413",
+      "mode": "ingredients",
+      "previous": "11.5",
+      "transition": "L"
+    },
+    {
+      "id": "12.1",
+      "prompt": "canh-12/clip-1.md",
+      "sha256": "f08743357570058297be6c27c0783884b874dd97ab3527497576a65a3859d0ab",
+      "mode": "ingredients",
+      "previous": "11.6",
+      "transition": "OPEN"
+    },
+    {
+      "id": "12.2",
+      "prompt": "canh-12/clip-2.md",
+      "sha256": "946c5af5fdb0b8a52ffd061b4b3b8a6d27ccda5fb6cc40f191bd8ded15c28540",
+      "mode": "text",
+      "previous": "12.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "12.3",
+      "prompt": "canh-12/clip-3.md",
+      "sha256": "bb3ec9f63215c08df6d7ca118792c9a4bd6373f39c2734524f57949d6d2eed99",
+      "mode": "ingredients",
+      "previous": "12.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "12.4",
+      "prompt": "canh-12/clip-4.md",
+      "sha256": "0fdbb020ec888ead97ab1f260aed8006747568d8681fb2ebc65d149a002ce59a",
+      "mode": "frames",
+      "previous": "12.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "12.5",
+      "prompt": "canh-12/clip-5.md",
+      "sha256": "552257ec0e518a83fc9475ef3da05ef79e567997d13b9188dc66621ea9441739",
+      "mode": "ingredients",
+      "previous": "12.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "12.6",
+      "prompt": "canh-12/clip-6.md",
+      "sha256": "058b19c2c48d5e3dcc95325197770fcdcc5569a1e0e4ad870d8ae73b170d8d87",
+      "mode": "ingredients",
+      "previous": "12.5",
+      "transition": "J"
+    },
+    {
+      "id": "13.1",
+      "prompt": "canh-13/clip-1.md",
+      "sha256": "7f00acdc3c6b4943d20f1379ff92067e86af4bc16bf62174e4c5768832815b8e",
+      "mode": "ingredients",
+      "previous": "12.6",
+      "transition": "L"
+    },
+    {
+      "id": "13.2",
+      "prompt": "canh-13/clip-2.md",
+      "sha256": "c90445ca3383cf0bc691d8d9cca853abe340af9ffa1c98145824fc3b5948ca2a",
+      "mode": "ingredients",
+      "previous": "13.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "13.3",
+      "prompt": "canh-13/clip-3.md",
+      "sha256": "adcd42716fce51e8b4715b67b1e741623c4a0107f9b5f5a2903dcad99036dcc5",
+      "mode": "ingredients",
+      "previous": "13.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "13.4",
+      "prompt": "canh-13/clip-4.md",
+      "sha256": "b2aaa503d1c1e14e655acceb349a28201591b305708ea14fb35a6c284ff29197",
+      "mode": "ingredients",
+      "previous": "13.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "13.5",
+      "prompt": "canh-13/clip-5.md",
+      "sha256": "92760e9f9482007e6983e998df1c137099a2404fbe080a851a2b63b9d1857566",
+      "mode": "ingredients",
+      "previous": "13.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "13.6",
+      "prompt": "canh-13/clip-6.md",
+      "sha256": "82c2e08564598179fd1ad51d5928a772a4407c1ab17d78918f3e69be6ab67832",
+      "mode": "ingredients",
+      "previous": "13.5",
+      "transition": "L"
+    },
+    {
+      "id": "14.1",
+      "prompt": "canh-14/clip-1.md",
+      "sha256": "5ec632de327f877f3877e117c79fba2adae08ac26bb93786685aeb3b222e5dd7",
+      "mode": "ingredients",
+      "previous": "13.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "14.2",
+      "prompt": "canh-14/clip-2.md",
+      "sha256": "5248a799f68f29842bd94ed173cd502d39a8e21fad8e541f4c1a8f01a744cf5d",
+      "mode": "ingredients",
+      "previous": "14.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "14.3",
+      "prompt": "canh-14/clip-3.md",
+      "sha256": "cbd6fb7341174cc60f2c85193523703284605df4b12afaf82cf15974c564a5ec",
+      "mode": "ingredients",
+      "previous": "14.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "14.4",
+      "prompt": "canh-14/clip-4.md",
+      "sha256": "b4a2ee50faf8fcb8bbc3f1c96c8ad3a8b51cedeb501f7b6a5ed0d62735ffd963",
+      "mode": "frames",
+      "previous": "14.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "14.5",
+      "prompt": "canh-14/clip-5.md",
+      "sha256": "a62531cbd95a1c4606387beb506ecbc07a1576f0dcb670b90cd89abd4f2d06a9",
+      "mode": "ingredients",
+      "previous": "14.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "14.6",
+      "prompt": "canh-14/clip-6.md",
+      "sha256": "2412ff840a45f847d005c5dd63df2064f6e5e6d603ed7ca97d47b99ee22f218d",
+      "mode": "ingredients",
+      "previous": "14.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "15.1",
+      "prompt": "canh-15/clip-1.md",
+      "sha256": "bd284b7ff35f1bd418df007702387a5a567604c75e5778b4df6690f753bca880",
+      "mode": "ingredients",
+      "previous": "14.6",
+      "transition": "J"
+    },
+    {
+      "id": "15.2",
+      "prompt": "canh-15/clip-2.md",
+      "sha256": "820fa701659bb3f9700e8aa3ac9dca5051d73d9de90fe463f80deb5f1a279844",
+      "mode": "ingredients",
+      "previous": "15.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "15.3",
+      "prompt": "canh-15/clip-3.md",
+      "sha256": "08fcd0ec6689a364a7d345c4f0a43c62feac5102681939c3e12bdda3131abde9",
+      "mode": "frames",
+      "previous": "15.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "15.4",
+      "prompt": "canh-15/clip-4.md",
+      "sha256": "8ad0bb93b8a952b0a564ea4e5a7cb34ac23c88ce96228f0280365aee0fdd8211",
+      "mode": "frames",
+      "previous": "15.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "15.5",
+      "prompt": "canh-15/clip-5.md",
+      "sha256": "5d4d4a46eb4151bac40a48e1cc5509aca6b044f62859e320d2f22de1efd497ce",
+      "mode": "ingredients",
+      "previous": "15.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "15.6",
+      "prompt": "canh-15/clip-6.md",
+      "sha256": "e6c86af758a5ed43e16ad30d84c9dd75d86015c7366afb4b314401a6560be32e",
+      "mode": "ingredients",
+      "previous": "15.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "16.1",
+      "prompt": "canh-16/clip-1.md",
+      "sha256": "3e9928100e0659aa9f5100f8eb2e7904a1b983a70a73e13244a64e40822e34cc",
+      "mode": "ingredients",
+      "previous": "15.6",
+      "transition": "L"
+    },
+    {
+      "id": "16.2",
+      "prompt": "canh-16/clip-2.md",
+      "sha256": "530be557993bd6829a6b33280ba54ff9467d0974020e0e6f311d2e9bbdeedea5",
+      "mode": "ingredients",
+      "previous": "16.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "16.3",
+      "prompt": "canh-16/clip-3.md",
+      "sha256": "2cd09126bf0aaba99450574c2d9e728d7d2e0ec42f76ae4d7fe0c5bd51dc5ff2",
+      "mode": "frames",
+      "previous": "16.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "16.4",
+      "prompt": "canh-16/clip-4.md",
+      "sha256": "6c3616ae03cf5898b00267f809c7d5b9e3620275c97deaefe36285bc3b85392c",
+      "mode": "frames",
+      "previous": "16.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "16.5",
+      "prompt": "canh-16/clip-5.md",
+      "sha256": "f8fa6a4c1323e5335f79f3507696d4f05bc4d13004a6fc279184f973eebf2092",
+      "mode": "ingredients",
+      "previous": "16.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "16.6",
+      "prompt": "canh-16/clip-6.md",
+      "sha256": "461bf7354dee6f6f6321730f4437d96778964a9d5be691ed28cebd5f2ff92fa8",
+      "mode": "ingredients",
+      "previous": "16.5",
+      "transition": "L"
+    },
+    {
+      "id": "17.1",
+      "prompt": "canh-17/clip-1.md",
+      "sha256": "0df52b4696a0a1e7e360cd650db4933de0a7d589a864e1d664f2e7bbe718dc11",
+      "mode": "ingredients",
+      "previous": "16.6",
+      "transition": "J"
+    },
+    {
+      "id": "17.2",
+      "prompt": "canh-17/clip-2.md",
+      "sha256": "e52a301a584071248b4b03ec6ddf58f214a2de52a52ef854b823d9147fa51fcd",
+      "mode": "ingredients",
+      "previous": "17.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "17.3",
+      "prompt": "canh-17/clip-3.md",
+      "sha256": "078b594a78ca1eea826cf8cc4078f815223428a65d8835cda912993d6f621c17",
+      "mode": "ingredients",
+      "previous": "17.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "17.4",
+      "prompt": "canh-17/clip-4.md",
+      "sha256": "9cc412c9f730f76acf9bee13b162bc3ade21161e1f59a8a772682d4716979648",
+      "mode": "ingredients",
+      "previous": "17.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "17.5",
+      "prompt": "canh-17/clip-5.md",
+      "sha256": "b2d339443a7f0ee4cb12d6ebdddb39f778fae9f1238655e990c32575c5610183",
+      "mode": "ingredients",
+      "previous": "17.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "17.6",
+      "prompt": "canh-17/clip-6.md",
+      "sha256": "a4152b90e904144e612e81a6bead2807752614136886df7143a8ab8ed76a7efb",
+      "mode": "ingredients",
+      "previous": "17.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "18.1",
+      "prompt": "canh-18/clip-1.md",
+      "sha256": "0b66b28b16387faf9a3db897d892e47dfcf0642103905fd182e690617d0c537a",
+      "mode": "ingredients",
+      "previous": "17.6",
+      "transition": "OPEN"
+    },
+    {
+      "id": "18.2",
+      "prompt": "canh-18/clip-2.md",
+      "sha256": "a5d489873f05515ef3b23569d029cf641ce6961b77b326452d741fa9d73442e9",
+      "mode": "ingredients",
+      "previous": "18.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "18.3",
+      "prompt": "canh-18/clip-3.md",
+      "sha256": "0ccedd3ac448ddc24040a53221305915613e77da6df9be7dbb60c2caafbae34f",
+      "mode": "ingredients",
+      "previous": "18.2",
+      "transition": "J"
+    },
+    {
+      "id": "18.4",
+      "prompt": "canh-18/clip-4.md",
+      "sha256": "72c3fd72bc1ebfc828a1d70c29afa037f41bd22a505ee0ec8e71bfb2e917b9c0",
+      "mode": "ingredients",
+      "previous": "18.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "18.5",
+      "prompt": "canh-18/clip-5.md",
+      "sha256": "2a965eddafca765a50f76057070bcf56330663c9a9cade5c0db12e2524674966",
+      "mode": "ingredients",
+      "previous": "18.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "18.6",
+      "prompt": "canh-18/clip-6.md",
+      "sha256": "257944b7ccc64fce9b22f243c14d41baf0bc592913cdd7c6ef3ec1e9a2406d62",
+      "mode": "ingredients",
+      "previous": "18.5",
+      "transition": "L"
+    },
+    {
+      "id": "19.1",
+      "prompt": "canh-19/clip-1.md",
+      "sha256": "fd1d52594eaa6de0b8440929384ba6d0c3235b7e6fdae07548cb325b3a115604",
+      "mode": "ingredients",
+      "previous": "18.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "19.2",
+      "prompt": "canh-19/clip-2.md",
+      "sha256": "85601d4715f9eb3d76b22aa5fb78e0b48fdf99963d3761febb6a430248cdb18b",
+      "mode": "ingredients",
+      "previous": "19.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "19.3",
+      "prompt": "canh-19/clip-3.md",
+      "sha256": "3cdb199dfa30a51b79c6e7a7d77da6c60236facf7c1893075eee6e4a73425bc8",
+      "mode": "ingredients",
+      "previous": "19.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "19.4",
+      "prompt": "canh-19/clip-4.md",
+      "sha256": "022cd808c827b5691ae489695795680b9c15802f86bbb621b28506ec9ed89fd8",
+      "mode": "frames",
+      "previous": "19.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "19.5",
+      "prompt": "canh-19/clip-5.md",
+      "sha256": "ccf54bc3eda2686dba9e7d8815b6c6a9bc89a5fc89d3971171135e8040dc35d9",
+      "mode": "ingredients",
+      "previous": "19.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "19.6",
+      "prompt": "canh-19/clip-6.md",
+      "sha256": "39af8f8e2ee6946e18fe4aa0304d6985f550ac10dbc746986bff64ff16503e17",
+      "mode": "ingredients",
+      "previous": "19.5",
+      "transition": "J"
+    },
+    {
+      "id": "20.1",
+      "prompt": "canh-20/clip-1.md",
+      "sha256": "f566a27f3c73b436db8e14fae47df3d4b84270a63038272fc542e47226beac4c",
+      "mode": "ingredients",
+      "previous": "19.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "20.2",
+      "prompt": "canh-20/clip-2.md",
+      "sha256": "d4e53a60f48cdfe24ce3e56b9791da0b315164d5c201e3840330d045f90a0b14",
+      "mode": "ingredients",
+      "previous": "20.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "20.3",
+      "prompt": "canh-20/clip-3.md",
+      "sha256": "60d6e20bc7612395f4d9c18398cdcdf9fc9e80849ba69584478c786a9d597aa4",
+      "mode": "frames",
+      "previous": "20.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "20.4",
+      "prompt": "canh-20/clip-4.md",
+      "sha256": "5b46b273a069b28806155253af1d97268d21fdced26ea46fbff661d508f555b6",
+      "mode": "ingredients",
+      "previous": "20.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "20.5",
+      "prompt": "canh-20/clip-5.md",
+      "sha256": "ed88a569bf3aaf5b45eed60ded8f05872fc8ed3e947420d3e035f5b69d187c0f",
+      "mode": "frames",
+      "previous": "20.4",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "20.6",
+      "prompt": "canh-20/clip-6.md",
+      "sha256": "739460346a0c7a7fe0953b53226eeb0f9e0556957fc0323b33709a83d99968a6",
+      "mode": "ingredients",
+      "previous": "20.5",
+      "transition": "L"
+    },
+    {
+      "id": "21.1",
+      "prompt": "canh-21/clip-1.md",
+      "sha256": "88f393c9d3a985e8faedceb805c5dded4b06c3880a3b1953ae353e918b397947",
+      "mode": "ingredients",
+      "previous": "20.6",
+      "transition": "J"
+    },
+    {
+      "id": "21.2",
+      "prompt": "canh-21/clip-2.md",
+      "sha256": "4914cc3864f63599b1621637271b46a7eec0cb63ee47eb86c50bb3f6c1549998",
+      "mode": "ingredients",
+      "previous": "21.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "21.3",
+      "prompt": "canh-21/clip-3.md",
+      "sha256": "2f043d98723716601543932c3cdd7699a6a1a6cd87ef25a7a2c528c00ba4c048",
+      "mode": "frames",
+      "previous": "21.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "21.4",
+      "prompt": "canh-21/clip-4.md",
+      "sha256": "97c62e1610c7c434702e87b06da1de4c2b0fc4fb0ee186b562a32b5a97b84982",
+      "mode": "ingredients",
+      "previous": "21.3",
+      "transition": "L"
+    },
+    {
+      "id": "21.5",
+      "prompt": "canh-21/clip-5.md",
+      "sha256": "c9529feb8e804cd52f43d4ba7ef962d3075631370244c8b4c4d1b32d4ce8a9a0",
+      "mode": "ingredients",
+      "previous": "21.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "21.6",
+      "prompt": "canh-21/clip-6.md",
+      "sha256": "d3245c8d02c16ec43d1e28b709ca2efa0211aea88efa7368bbd44412c9663933",
+      "mode": "ingredients",
+      "previous": "21.5",
+      "transition": "L"
+    },
+    {
+      "id": "22.1",
+      "prompt": "canh-22/clip-1.md",
+      "sha256": "10e9de5df0a1f6721bf6693a59263178b31585fdabbbbd738477a9cdbb632e2d",
+      "mode": "ingredients",
+      "previous": "21.6",
+      "transition": "J"
+    },
+    {
+      "id": "22.2",
+      "prompt": "canh-22/clip-2.md",
+      "sha256": "4e873b979d6ddc9e0b75b3074d3a6ddce35fe91f2d95e8b2c467f5472ddd9d7c",
+      "mode": "ingredients",
+      "previous": "22.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "22.3",
+      "prompt": "canh-22/clip-3.md",
+      "sha256": "04e8fe531a8796e74f90708ebeb781d5091015d97c08ea3949810873f87be51e",
+      "mode": "ingredients",
+      "previous": "22.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "22.4",
+      "prompt": "canh-22/clip-4.md",
+      "sha256": "7a40d1604fbf228aab75f9c865f7c123c17220ed9328eb9e340c3b8688e8c8a4",
+      "mode": "ingredients",
+      "previous": "22.3",
+      "transition": "J"
+    },
+    {
+      "id": "22.5",
+      "prompt": "canh-22/clip-5.md",
+      "sha256": "1908d905adce64f959286a692d3825c6f079965622491abd6b42657f1763a360",
+      "mode": "ingredients",
+      "previous": "22.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "22.6",
+      "prompt": "canh-22/clip-6.md",
+      "sha256": "38e4d93c6b35a35ce0ab3b6bcedd48b3c9149e557aba9cc50a26d54d1cf12836",
+      "mode": "frames",
+      "previous": "22.5",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "23.1",
+      "prompt": "canh-23/clip-1.md",
+      "sha256": "0820f06dba12e12cdcfb0b69cb08d4d10ef06bfcf1e812cfb84d981c54436000",
+      "mode": "ingredients",
+      "previous": "22.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "23.2",
+      "prompt": "canh-23/clip-2.md",
+      "sha256": "fb55f9d006a919b19fa160d9a14a1f1fe7d13b4d5a7805853b7cc4370baa0666",
+      "mode": "ingredients",
+      "previous": "23.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "23.3",
+      "prompt": "canh-23/clip-3.md",
+      "sha256": "0c108a6dd653328f1a32b7a86771a288f750e8a48f2d6576ff3335ffa42ff1c0",
+      "mode": "frames",
+      "previous": "23.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "23.4",
+      "prompt": "canh-23/clip-4.md",
+      "sha256": "9c8e9e5b7a5881323da3ef84bf71395ea34e48b012ab1560728b6f27c65056c1",
+      "mode": "ingredients",
+      "previous": "23.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "23.5",
+      "prompt": "canh-23/clip-5.md",
+      "sha256": "51e1f2b912e1e636891f1f8e41756f563ae41e4cfd626b4cf09fc0aeaf47ae8f",
+      "mode": "ingredients",
+      "previous": "23.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "23.6",
+      "prompt": "canh-23/clip-6.md",
+      "sha256": "7af384a211013689822e5ef2f59e465d82ce7cc92f0d74280430e8a6b9123358",
+      "mode": "ingredients",
+      "previous": "23.5",
+      "transition": "L"
+    },
+    {
+      "id": "24.1",
+      "prompt": "canh-24/clip-1.md",
+      "sha256": "ab26c2007194b072bbe9b83156a0210302be59a029966c9662facf5421360ca5",
+      "mode": "ingredients",
+      "previous": "23.6",
+      "transition": "J"
+    },
+    {
+      "id": "24.2",
+      "prompt": "canh-24/clip-2.md",
+      "sha256": "4e91a3237ef216c33c8303b0134e99030f4bcfe5f21cb5bebd3fc0a0829ac7d0",
+      "mode": "ingredients",
+      "previous": "24.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "24.3",
+      "prompt": "canh-24/clip-3.md",
+      "sha256": "17dd322890195773955cb0a5f577fc8ab9c0b46576cd1851d7f19e137505d494",
+      "mode": "ingredients",
+      "previous": "24.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "24.4",
+      "prompt": "canh-24/clip-4.md",
+      "sha256": "8ba5367d156f72f7d7a99137a6a6d334b6588fd2ce0561b5015aab57eccef913",
+      "mode": "ingredients",
+      "previous": "24.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "24.5",
+      "prompt": "canh-24/clip-5.md",
+      "sha256": "517fcab3ecfb6df47ec59f2ab3efe54bcd24ecce138f0c84ea0f14a2fdee15ae",
+      "mode": "frames",
+      "previous": "24.4",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "24.6",
+      "prompt": "canh-24/clip-6.md",
+      "sha256": "7ede36f970386d55e972cb4a2a9d40e5566e2d41ee4cb9530579a3c095832265",
+      "mode": "ingredients",
+      "previous": "24.5",
+      "transition": "L"
+    },
+    {
+      "id": "25.1",
+      "prompt": "canh-25/clip-1.md",
+      "sha256": "93806512158695d58d84eee460488632702d9f19e735dbc50e10883e6a1464a0",
+      "mode": "ingredients",
+      "previous": "24.6",
+      "transition": "J"
+    },
+    {
+      "id": "25.2",
+      "prompt": "canh-25/clip-2.md",
+      "sha256": "5c36d03e2af630fccb0bef2f154abdb9fd51e05c21184e07c2b9a740e497b1c7",
+      "mode": "ingredients",
+      "previous": "25.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "25.3",
+      "prompt": "canh-25/clip-3.md",
+      "sha256": "3a1236fb395ca71005288d3c529edfc65b562430b566a0540d21418506397563",
+      "mode": "frames",
+      "previous": "25.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "25.4",
+      "prompt": "canh-25/clip-4.md",
+      "sha256": "83e85b9b87fdffd4cd62439c2601aaff4be828a5a6e6c1668daad1f5916b3aee",
+      "mode": "ingredients",
+      "previous": "25.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "25.5",
+      "prompt": "canh-25/clip-5.md",
+      "sha256": "99554ab35c4ecd0573383ec313d765635f2a3fca72e4d4b3316533c92c72c33d",
+      "mode": "frames",
+      "previous": "25.4",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "25.6",
+      "prompt": "canh-25/clip-6.md",
+      "sha256": "971f09210230ba7ff016779cd211166a0c18d4cc1ea3e3816169238a6f54cef7",
+      "mode": "ingredients",
+      "previous": "25.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "26.1",
+      "prompt": "canh-26/clip-1.md",
+      "sha256": "8311981cd7e42e931cd68935ea6a00734dd48a45cab027a548ea676dc653d389",
+      "mode": "ingredients",
+      "previous": "25.6",
+      "transition": "J"
+    },
+    {
+      "id": "26.2",
+      "prompt": "canh-26/clip-2.md",
+      "sha256": "4a373247ff75bb64ca91ad1fd5177a295fc28190e90c3f6c447661d175d4d5b8",
+      "mode": "ingredients",
+      "previous": "26.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "26.3",
+      "prompt": "canh-26/clip-3.md",
+      "sha256": "d624ab183ec14eb8476ba24b75935077c4c1e9de687c8d0b2d02430149065bb5",
+      "mode": "ingredients",
+      "previous": "26.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "26.4",
+      "prompt": "canh-26/clip-4.md",
+      "sha256": "b0519060dc0d4485a324a033972cebe53e29d4f6f4786723606f3a530421be59",
+      "mode": "ingredients",
+      "previous": "26.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "26.5",
+      "prompt": "canh-26/clip-5.md",
+      "sha256": "35ff651457eb1a91cd40d4c0904b4329a85ffb3bab9bbd694dc8e32077ec73a9",
+      "mode": "frames",
+      "previous": "26.4",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "26.6",
+      "prompt": "canh-26/clip-6.md",
+      "sha256": "90da1e980b7cba6e97877ed155ad459c976ed3a591a73a5e54a5e34e9df3cb65",
+      "mode": "ingredients",
+      "previous": "26.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "27.1",
+      "prompt": "canh-27/clip-1.md",
+      "sha256": "8aaf51500ae1c355e1ef5fee0c4d97e00fcd17994e45cb5a34811f0703faffe2",
+      "mode": "ingredients",
+      "previous": "26.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "27.2",
+      "prompt": "canh-27/clip-2.md",
+      "sha256": "aa05f636b6dca03e1bb9aafc33eb05b746b5b99482e6b193ee16042a21a5837f",
+      "mode": "ingredients",
+      "previous": "27.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "27.3",
+      "prompt": "canh-27/clip-3.md",
+      "sha256": "094a3894ffd89862bdbc90676b4517cca6a35671e0f42281b682fe1be43e35e1",
+      "mode": "ingredients",
+      "previous": "27.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "27.4",
+      "prompt": "canh-27/clip-4.md",
+      "sha256": "de7d49cc590b68a1997a458b45b8efa4eba251831b7c429189ae5bd1cb734d25",
+      "mode": "ingredients",
+      "previous": "27.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "27.5",
+      "prompt": "canh-27/clip-5.md",
+      "sha256": "f118791af765096c8a06e8994a063d84b169c22ad3ebf31e6542adf85844b0ab",
+      "mode": "ingredients",
+      "previous": "27.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "27.6",
+      "prompt": "canh-27/clip-6.md",
+      "sha256": "40d3c9ebbfe643d9173c8905e6ce59ecdbde3a4cf823dfc0083556b8e95428fc",
+      "mode": "ingredients",
+      "previous": "27.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "28.1",
+      "prompt": "canh-28/clip-1.md",
+      "sha256": "fce4c97a5f0a88e81b70918df39248a3514b5a021309c09514f6c01e1a10d034",
+      "mode": "ingredients",
+      "previous": "27.6",
+      "transition": "L"
+    },
+    {
+      "id": "28.2",
+      "prompt": "canh-28/clip-2.md",
+      "sha256": "35a2d0f8a02385235e303b25dd10535c79a2ccb56d47681f9079b2f42a674c09",
+      "mode": "frames",
+      "previous": "28.1",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "28.3",
+      "prompt": "canh-28/clip-3.md",
+      "sha256": "77dd779f74e48e579e85c51b8a7226ae51e547bb01f1c54aa9cee781cbeddea6",
+      "mode": "ingredients",
+      "previous": "28.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "28.4",
+      "prompt": "canh-28/clip-4.md",
+      "sha256": "cf98bd27ad0ee36442567d6cd2689c5297d6d120ad17c3e06844d3a7974a6344",
+      "mode": "ingredients",
+      "previous": "28.3",
+      "transition": "MATCH"
+    },
+    {
+      "id": "28.5",
+      "prompt": "canh-28/clip-5.md",
+      "sha256": "4d222b9d228faf686531b7c5d71f7c2d3a1faedf4f4e5e2d37297a1d4da5f245",
+      "mode": "ingredients",
+      "previous": "28.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "28.6",
+      "prompt": "canh-28/clip-6.md",
+      "sha256": "c841dcff461344b9fe1fe33d707dff5ee9921acd9987aec0d74d7772dcdca64e",
+      "mode": "ingredients",
+      "previous": "28.5",
+      "transition": "J"
+    },
+    {
+      "id": "29.1",
+      "prompt": "canh-29/clip-1.md",
+      "sha256": "3f7192d295a05868393b235e869fb682f9038fe70f6969fb1365220e53e27eb2",
+      "mode": "ingredients",
+      "previous": "28.6",
+      "transition": "OPEN"
+    },
+    {
+      "id": "29.2",
+      "prompt": "canh-29/clip-2.md",
+      "sha256": "0d393d40f10fdb02f845d6a35ad1cb4c3bb65b0d3926ba125cfd0fbdafa4f00e",
+      "mode": "ingredients",
+      "previous": "29.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "29.3",
+      "prompt": "canh-29/clip-3.md",
+      "sha256": "e39ab485b866ebe301008eeb43accd7b86d18c5440c4aea393b3b140156bd7fa",
+      "mode": "ingredients",
+      "previous": "29.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "29.4",
+      "prompt": "canh-29/clip-4.md",
+      "sha256": "f13c16c05b8bce52f45d26980dfad93001271cfd548982675fd25af2e4f916c8",
+      "mode": "ingredients",
+      "previous": "29.3",
+      "transition": "L"
+    },
+    {
+      "id": "29.5",
+      "prompt": "canh-29/clip-5.md",
+      "sha256": "8b0d6f1bcde038d87b31cf6833df2ff39e7580515d236e10e29601d15730fc3d",
+      "mode": "ingredients",
+      "previous": "29.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "29.6",
+      "prompt": "canh-29/clip-6.md",
+      "sha256": "44a8703eb2c796d992911cd587f9c7f3c622016d6b10d2145ae57bdb6666d5ff",
+      "mode": "ingredients",
+      "previous": "29.5",
+      "transition": "J"
+    },
+    {
+      "id": "30.1",
+      "prompt": "canh-30/clip-1.md",
+      "sha256": "9000d5acdcd9e46f0f383d1bab2b8d1e328f7b4dfe9c799b3883df3a9b19fb54",
+      "mode": "ingredients",
+      "previous": "29.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "30.2",
+      "prompt": "canh-30/clip-2.md",
+      "sha256": "a2cf5c97ea2c3f4dc33edfeac3ff29fe169a4b9bf6673eab825f9cc02b091994",
+      "mode": "ingredients",
+      "previous": "30.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "30.3",
+      "prompt": "canh-30/clip-3.md",
+      "sha256": "cdb19a345d271dd900e9c744589f555c3cd7b3b2946dc2ba80ebf39a1dc826b0",
+      "mode": "ingredients",
+      "previous": "30.2",
+      "transition": "J"
+    },
+    {
+      "id": "30.4",
+      "prompt": "canh-30/clip-4.md",
+      "sha256": "064a44665b929b1e6916ae6c914a512a9a74079d56ea6c41f0720f638b6b5499",
+      "mode": "ingredients",
+      "previous": "30.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "30.5",
+      "prompt": "canh-30/clip-5.md",
+      "sha256": "f2d5b891e1dab8d43a18a246ed95a7447bd9e5cbd172311839f39d8450367ede",
+      "mode": "ingredients",
+      "previous": "30.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "30.6",
+      "prompt": "canh-30/clip-6.md",
+      "sha256": "47e93d743417688dcf734466a36f0507a0da43dec010d4ef9788c7c918f2adbb",
+      "mode": "ingredients",
+      "previous": "30.5",
+      "transition": "L"
+    },
+    {
+      "id": "31.1",
+      "prompt": "canh-31/clip-1.md",
+      "sha256": "91454d122049721f79346fa28df227a494b2a6f03e4d953b17094c43784fe1d7",
+      "mode": "ingredients",
+      "previous": "30.6",
+      "transition": "OPEN"
+    },
+    {
+      "id": "31.2",
+      "prompt": "canh-31/clip-2.md",
+      "sha256": "b4b050aa03387d115c627e2a4ee08f554f15a97d54f57c602fcf6c010764c102",
+      "mode": "ingredients",
+      "previous": "31.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "31.3",
+      "prompt": "canh-31/clip-3.md",
+      "sha256": "c9d2fb6d0a7dc855f4f0aaa7b28b9cc568ba0570592f2e9ecba4331d23d6145e",
+      "mode": "frames",
+      "previous": "31.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "31.4",
+      "prompt": "canh-31/clip-4.md",
+      "sha256": "c99f21db1b2436e7bf5a4843da0d626aba40e4581720ecd553c1c5557140779b",
+      "mode": "ingredients",
+      "previous": "31.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "31.5",
+      "prompt": "canh-31/clip-5.md",
+      "sha256": "e01ba13bf1de07dae5d4deb13575220647c912f70f80e7018f02415c54782a37",
+      "mode": "ingredients",
+      "previous": "31.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "31.6",
+      "prompt": "canh-31/clip-6.md",
+      "sha256": "0f7cff9853edaf33851258af2b5e3106f9831b1f903fc2cc78b1ee4ac314ccd4",
+      "mode": "ingredients",
+      "previous": "31.5",
+      "transition": "L"
+    },
+    {
+      "id": "32.1",
+      "prompt": "canh-32/clip-1.md",
+      "sha256": "37934cbad9ec654a27309b34b0a9daec4aecdb237d761c35bd3ec467a2ba23bb",
+      "mode": "ingredients",
+      "previous": "31.6",
+      "transition": "J"
+    },
+    {
+      "id": "32.2",
+      "prompt": "canh-32/clip-2.md",
+      "sha256": "a610aa77005290010ee67c50e6483fbad72051ec4846be82b3e84cf558824517",
+      "mode": "frames",
+      "previous": "32.1",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "32.3",
+      "prompt": "canh-32/clip-3.md",
+      "sha256": "514ddc112672a2ae68a95340e4da437d0c0dfd0f2595fef7be8779c245abe339",
+      "mode": "frames",
+      "previous": "32.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "32.4",
+      "prompt": "canh-32/clip-4.md",
+      "sha256": "9bcf36f1cb09c9d703bf81a042fe107d38f00f61468a68577313edbdc773219b",
+      "mode": "ingredients",
+      "previous": "32.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "32.5",
+      "prompt": "canh-32/clip-5.md",
+      "sha256": "4616dbc40521f29bed38b5a32ea60aa8ee292e6feca9f352035b8b30c0971095",
+      "mode": "ingredients",
+      "previous": "32.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "32.6",
+      "prompt": "canh-32/clip-6.md",
+      "sha256": "0f10aaf8990a70a6308306f6d36a5e7871259f27b25362a78125b41c47011e1b",
+      "mode": "ingredients",
+      "previous": "32.5",
+      "transition": "L"
+    },
+    {
+      "id": "33.1",
+      "prompt": "canh-33/clip-1.md",
+      "sha256": "a6a67c89c636306e167bf1758b799c92fa50ab786772738b0f552ea795b96b28",
+      "mode": "ingredients",
+      "previous": "32.6",
+      "transition": "J"
+    },
+    {
+      "id": "33.2",
+      "prompt": "canh-33/clip-2.md",
+      "sha256": "1eae4584adbf4d4d01945875218ee73b6575a2f65493ffe2adf9f1baa19d6d35",
+      "mode": "ingredients",
+      "previous": "33.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "33.3",
+      "prompt": "canh-33/clip-3.md",
+      "sha256": "50b75d88cb2bb1848edbce9cc0ee447c85e18cc2b986382bfcc9bd4a81bb16eb",
+      "mode": "ingredients",
+      "previous": "33.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "33.4",
+      "prompt": "canh-33/clip-4.md",
+      "sha256": "1c257aca4bd26bae718f5245fc9e96e8488a853d07361dbcbcedf8c0eb741fdc",
+      "mode": "ingredients",
+      "previous": "33.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "33.5",
+      "prompt": "canh-33/clip-5.md",
+      "sha256": "940c5e9d21b51fa99bb4203dd63cc562d4509ee363eca11f27044b4ba78d651d",
+      "mode": "frames",
+      "previous": "33.4",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "33.6",
+      "prompt": "canh-33/clip-6.md",
+      "sha256": "cb435d364af2f84014b0a461377642421fab69f569e4fab3a984c61914a4cf5e",
+      "mode": "ingredients",
+      "previous": "33.5",
+      "transition": "L"
+    },
+    {
+      "id": "34.1",
+      "prompt": "canh-34/clip-1.md",
+      "sha256": "259d4c818699b50ea01e159f657e24658c3faca5d8b6cac7c081f9f071cffda2",
+      "mode": "ingredients",
+      "previous": "33.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "34.2",
+      "prompt": "canh-34/clip-2.md",
+      "sha256": "d87e4fc3ff7933250548c349363ab3e3b951be2fa7b5687fc9e779deb5c8d8c9",
+      "mode": "ingredients",
+      "previous": "34.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "34.3",
+      "prompt": "canh-34/clip-3.md",
+      "sha256": "c4ee8cc3398bfd5ff34711a0709a849a1ad6d58fd90464552f809729d5e52458",
+      "mode": "ingredients",
+      "previous": "34.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "34.4",
+      "prompt": "canh-34/clip-4.md",
+      "sha256": "0955406b7bbf8a8268578cfee337e16800c93a11100c6ce10fb07c83ba804d31",
+      "mode": "ingredients",
+      "previous": "34.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "34.5",
+      "prompt": "canh-34/clip-5.md",
+      "sha256": "51075b955576af947b95a43550fc01a6efce337b65aaa9e673d89a9778a05e78",
+      "mode": "ingredients",
+      "previous": "34.4",
+      "transition": "L"
+    },
+    {
+      "id": "34.6",
+      "prompt": "canh-34/clip-6.md",
+      "sha256": "1b076b600f2b3299d956e942ed58489a9f943f2e62d9cd5f3fd833fcd9fa44a9",
+      "mode": "ingredients",
+      "previous": "34.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "35.1",
+      "prompt": "canh-35/clip-1.md",
+      "sha256": "0cc4c5437c561e146b2114b97ac0162b13605727ba4bdb3dd5c5e8e778b14277",
+      "mode": "ingredients",
+      "previous": "34.6",
+      "transition": "J"
+    },
+    {
+      "id": "35.2",
+      "prompt": "canh-35/clip-2.md",
+      "sha256": "ddffb3fb83ced8b34c52d3ca8aba8ae59590f0c1597ffd231227abc8577751c8",
+      "mode": "ingredients",
+      "previous": "35.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "35.3",
+      "prompt": "canh-35/clip-3.md",
+      "sha256": "c2275631612c7637b8f3f15825c6e03b9bf840ada3e8649bbafb4ff36ca8c59e",
+      "mode": "ingredients",
+      "previous": "35.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "35.4",
+      "prompt": "canh-35/clip-4.md",
+      "sha256": "237c90830559f14af2652cf42c8bdfd8df68c1c98b885740a48746392173cd52",
+      "mode": "ingredients",
+      "previous": "35.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "35.5",
+      "prompt": "canh-35/clip-5.md",
+      "sha256": "db0066eef2ab2dd3e44899223a043ae332dbe2bdab319ad795d05ab7aaa56e88",
+      "mode": "ingredients",
+      "previous": "35.4",
+      "transition": "L"
+    },
+    {
+      "id": "35.6",
+      "prompt": "canh-35/clip-6.md",
+      "sha256": "a5fa249d863fe5b0decfbf816f82a8c536abe24d57fe6328d9011c9ba0fe5834",
+      "mode": "ingredients",
+      "previous": "35.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "36.1",
+      "prompt": "canh-36/clip-1.md",
+      "sha256": "7c10be681f755e4e1fba5fe4b75e940d3a822c99c60ba2748887856affff7bce",
+      "mode": "ingredients",
+      "previous": "35.6",
+      "transition": "J"
+    },
+    {
+      "id": "36.2",
+      "prompt": "canh-36/clip-2.md",
+      "sha256": "ac1b4145ebbe62281098db438f7c2bfd9e1fa61ffee2ff2f5f61727ba4c9988a",
+      "mode": "ingredients",
+      "previous": "36.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "36.3",
+      "prompt": "canh-36/clip-3.md",
+      "sha256": "bd98a34d22ad40052dce06c09511703d1fd595b7aa369b6340e1e531e8348182",
+      "mode": "ingredients",
+      "previous": "36.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "36.4",
+      "prompt": "canh-36/clip-4.md",
+      "sha256": "b95004c75cd068f6327811df7eb0b793739325a06a457e6385033d5701bd8a97",
+      "mode": "ingredients",
+      "previous": "36.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "36.5",
+      "prompt": "canh-36/clip-5.md",
+      "sha256": "14954270843d523da5f5d71651cafa4ea4992e1ebf8ce5bd8d87efd6b5be8842",
+      "mode": "ingredients",
+      "previous": "36.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "36.6",
+      "prompt": "canh-36/clip-6.md",
+      "sha256": "3fd7da16033cf7e77eb848941416b9a89a5a6f636d3e4e9237f8354c7ff3fecb",
+      "mode": "ingredients",
+      "previous": "36.5",
+      "transition": "L"
+    },
+    {
+      "id": "37.1",
+      "prompt": "canh-37/clip-1.md",
+      "sha256": "efb1b23f448780a6d1dddbbc55555a870bc7b2d54aa88b0a0d5110d270abe78e",
+      "mode": "ingredients",
+      "previous": "36.6",
+      "transition": "L"
+    },
+    {
+      "id": "37.2",
+      "prompt": "canh-37/clip-2.md",
+      "sha256": "95975606cadee070468c29563c81815d6475e733b9c86005d8b1d99e523c394f",
+      "mode": "ingredients",
+      "previous": "37.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "37.3",
+      "prompt": "canh-37/clip-3.md",
+      "sha256": "811d80847271e454a87f4fd94f42dc7c175d5586c97d3325caedcadaf3c4e423",
+      "mode": "ingredients",
+      "previous": "37.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "37.4",
+      "prompt": "canh-37/clip-4.md",
+      "sha256": "5229c5f905f85d9e8e4f22eab7a534f1cdefe3335309b0eb7611f4bf52a1e5ed",
+      "mode": "frames",
+      "previous": "37.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "37.5",
+      "prompt": "canh-37/clip-5.md",
+      "sha256": "30cba3ac533c57c1df6bf7114561962d14e9e5538a0cd55eb7656f124ed1f03b",
+      "mode": "frames",
+      "previous": "37.4",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "37.6",
+      "prompt": "canh-37/clip-6.md",
+      "sha256": "6ffd6e406a2d67dd72540f08dbbfb4e98e803f8be8cb129afb578a16612388d0",
+      "mode": "ingredients",
+      "previous": "37.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "38.1",
+      "prompt": "canh-38/clip-1.md",
+      "sha256": "f76484d474efad6ed74cc1295a4dc4e8b48fb0c39ae4180a98223a430d383965",
+      "mode": "ingredients",
+      "previous": "37.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "38.2",
+      "prompt": "canh-38/clip-2.md",
+      "sha256": "d2dc89d9cc90df6d31a5235f72de7639ecf93128c95e1ff3e18e815742509439",
+      "mode": "ingredients",
+      "previous": "38.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "38.3",
+      "prompt": "canh-38/clip-3.md",
+      "sha256": "ae2d08d775326919ae9201f30f59250b67d48d94101b7d680c1d749ea0b0f82a",
+      "mode": "ingredients",
+      "previous": "38.2",
+      "transition": "MATCH"
+    },
+    {
+      "id": "38.4",
+      "prompt": "canh-38/clip-4.md",
+      "sha256": "355731fad00a9361c3e1edb3eeeb368b195eb9dd2c8083f28a5833e8225dd503",
+      "mode": "ingredients",
+      "previous": "38.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "38.5",
+      "prompt": "canh-38/clip-5.md",
+      "sha256": "431177dc66659f949a4f548009441078674abaa8cabbf96508b73386dec8f0c4",
+      "mode": "ingredients",
+      "previous": "38.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "38.6",
+      "prompt": "canh-38/clip-6.md",
+      "sha256": "e80c2f6a0864dd4952a3d06a5e86c9629b01eb7e5d89f8ac3e1576dd31c41489",
+      "mode": "ingredients",
+      "previous": "38.5",
+      "transition": "MATCH"
+    },
+    {
+      "id": "39.1",
+      "prompt": "canh-39/clip-1.md",
+      "sha256": "a5b4178ab58d2f9fb41e43950e152ddcc9159ffa00023ea430326ed2946abb7a",
+      "mode": "ingredients",
+      "previous": "38.6",
+      "transition": "L"
+    },
+    {
+      "id": "39.2",
+      "prompt": "canh-39/clip-2.md",
+      "sha256": "f34151dca4b748472dbc2719f537170211db13f32e70a4cfc1d2b9810fecf093",
+      "mode": "ingredients",
+      "previous": "39.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "39.3",
+      "prompt": "canh-39/clip-3.md",
+      "sha256": "1387db9692766ff360360f8292c1ddc00a32de30be25de1d659b0ef7e77f332b",
+      "mode": "ingredients",
+      "previous": "39.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "39.4",
+      "prompt": "canh-39/clip-4.md",
+      "sha256": "e0509439f84cf6a8aafd6129a826e3f84935b18ea04f8d2a94d6b2cf6ff8621b",
+      "mode": "ingredients",
+      "previous": "39.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "39.5",
+      "prompt": "canh-39/clip-5.md",
+      "sha256": "fd9315e2ab83aabcf604372e377c96e72d3783578f1b23bd6ca8858b7c31aa96",
+      "mode": "ingredients",
+      "previous": "39.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "39.6",
+      "prompt": "canh-39/clip-6.md",
+      "sha256": "a8e7386e674717c7e1cc5e6af3320bf1b216f93bb98df3c44985c5a0a46e8cf3",
+      "mode": "ingredients",
+      "previous": "39.5",
+      "transition": "J"
+    },
+    {
+      "id": "40.1",
+      "prompt": "canh-40/clip-1.md",
+      "sha256": "33c19ab136bf7d613917c0bc6198dec74902abc6bd3e5ee045be1d97510d6256",
+      "mode": "ingredients",
+      "previous": "39.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "40.2",
+      "prompt": "canh-40/clip-2.md",
+      "sha256": "5cb7ac54d1e2ccde3f60b28cc170a1f7386a06874221c4bd7d6b3081b173a0df",
+      "mode": "ingredients",
+      "previous": "40.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "40.3",
+      "prompt": "canh-40/clip-3.md",
+      "sha256": "ad5fa501e565655b3af2230745bda7ba46a22f48252d0ee51de0e2547a3fe264",
+      "mode": "ingredients",
+      "previous": "40.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "40.4",
+      "prompt": "canh-40/clip-4.md",
+      "sha256": "042f2826ccaeffff2e1736298083881e5364def4e62bdf14f2f449b20e2eae00",
+      "mode": "ingredients",
+      "previous": "40.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "40.5",
+      "prompt": "canh-40/clip-5.md",
+      "sha256": "808897d498077fc47d27c354377217af7c2c11c50525aa75e68d237d271c15ac",
+      "mode": "ingredients",
+      "previous": "40.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "40.6",
+      "prompt": "canh-40/clip-6.md",
+      "sha256": "5986d7546430c391defb40015154df10a5ba7d8281a6d15753197c86d3a5d21b",
+      "mode": "ingredients",
+      "previous": "40.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "41.1",
+      "prompt": "canh-41/clip-1.md",
+      "sha256": "aecb4dd663ced11ac7a418a7ecd4e41294961ba47c77e569ed7ea6ab8f93aef9",
+      "mode": "ingredients",
+      "previous": "40.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "41.2",
+      "prompt": "canh-41/clip-2.md",
+      "sha256": "daa4fb0bfa1bc048d438b99fc3c5d6dcd985a6acc0953897ae7872bc3d91f462",
+      "mode": "ingredients",
+      "previous": "41.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "41.3",
+      "prompt": "canh-41/clip-3.md",
+      "sha256": "5ebba45269c7851f9671a6254a83d633e349eacf641688a6c853e18e92dbaf53",
+      "mode": "ingredients",
+      "previous": "41.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "41.4",
+      "prompt": "canh-41/clip-4.md",
+      "sha256": "d7016946239da01c0f1cf4823c675112ad7b43b4e395439ad32534cd2d466547",
+      "mode": "ingredients",
+      "previous": "41.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "41.5",
+      "prompt": "canh-41/clip-5.md",
+      "sha256": "c70722a08f34c229f467716e9287e1cdcb376493c638158c2f0f488791bd8194",
+      "mode": "ingredients",
+      "previous": "41.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "41.6",
+      "prompt": "canh-41/clip-6.md",
+      "sha256": "f0e815b0ee397cb7109600461b22c394c8d16d64a951f41f657deab85b55f23a",
+      "mode": "ingredients",
+      "previous": "41.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "42.1",
+      "prompt": "canh-42/clip-1.md",
+      "sha256": "ac70b449cc7c900ff05a683e0368a214bc97d8749748a6bc7322f92c2616a9ca",
+      "mode": "ingredients",
+      "previous": "41.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "42.2",
+      "prompt": "canh-42/clip-2.md",
+      "sha256": "c8161095f55f6151a76f6a856113a14de0aab83ec4490e12291c5c3ec496e43b",
+      "mode": "ingredients",
+      "previous": "42.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "42.3",
+      "prompt": "canh-42/clip-3.md",
+      "sha256": "f06b3c5aeb1f529c571f8e34893f0cb5060c2c285828927eb395957d6e428180",
+      "mode": "ingredients",
+      "previous": "42.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "42.4",
+      "prompt": "canh-42/clip-4.md",
+      "sha256": "2239b40aa6f5e364a7d083ceefa971fab1edb424829e0fd7d978cec3a21fc93c",
+      "mode": "ingredients",
+      "previous": "42.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "42.5",
+      "prompt": "canh-42/clip-5.md",
+      "sha256": "c78c412521c7c075fca5e0a4bb30b87f00187804beb2df455fd63bcb72b5ed35",
+      "mode": "ingredients",
+      "previous": "42.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "42.6",
+      "prompt": "canh-42/clip-6.md",
+      "sha256": "edbd03aa3e7859adf4175e55242767c98491fd876a93d253f3608c2ce141b0ca",
+      "mode": "ingredients",
+      "previous": "42.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "43.1",
+      "prompt": "canh-43/clip-1.md",
+      "sha256": "a35a5c4c6b05f93e13913a75ebe6cda2d7ba46ee7f43fc4ae4a1498db774e13d",
+      "mode": "ingredients",
+      "previous": "42.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "43.2",
+      "prompt": "canh-43/clip-2.md",
+      "sha256": "f0afee4cfd40abd022ed6e52a46bc23d72a02da021061d3d42365bb8025cc509",
+      "mode": "ingredients",
+      "previous": "43.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "43.3",
+      "prompt": "canh-43/clip-3.md",
+      "sha256": "db67106c6dabeb7ec035196d8e28e5c954f8524ec0bceeedfd0afdde4ef5eed0",
+      "mode": "ingredients",
+      "previous": "43.2",
+      "transition": "J"
+    },
+    {
+      "id": "43.4",
+      "prompt": "canh-43/clip-4.md",
+      "sha256": "347f1a4643348ec6602320e4c9b3ef1369d5c1fdadf5878a91630bfac163a02b",
+      "mode": "ingredients",
+      "previous": "43.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "43.5",
+      "prompt": "canh-43/clip-5.md",
+      "sha256": "b4b008fe2bbb004d8af54fe47f585c75595d83a1bd0354d9d24c4819f3b33a56",
+      "mode": "ingredients",
+      "previous": "43.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "43.6",
+      "prompt": "canh-43/clip-6.md",
+      "sha256": "bd411362dae7cf7ec3c65bc5e85dd4aecf6fe740c47a61ef45b0420df3888646",
+      "mode": "ingredients",
+      "previous": "43.5",
+      "transition": "L"
+    },
+    {
+      "id": "44.1",
+      "prompt": "canh-44/clip-1.md",
+      "sha256": "4f4505b67bfbca266c5629875a575fc671aec92bf6e3fbfc709cd8736ac591c6",
+      "mode": "ingredients",
+      "previous": "43.6",
+      "transition": "J"
+    },
+    {
+      "id": "44.2",
+      "prompt": "canh-44/clip-2.md",
+      "sha256": "02fe1c16d2c198e97e96a792111e3da416c63ab5ecffa9eedfefe252b4867b70",
+      "mode": "ingredients",
+      "previous": "44.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "44.3",
+      "prompt": "canh-44/clip-3.md",
+      "sha256": "6f35322fe3bb9d84533fd4d9eab2d15aa6f79462d14ab8a03c12199bf6a3a9d0",
+      "mode": "ingredients",
+      "previous": "44.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "44.4",
+      "prompt": "canh-44/clip-4.md",
+      "sha256": "645917982433a6e8c05f17a9c4d82d51fefbd55bc25794d290a8b544e51412aa",
+      "mode": "ingredients",
+      "previous": "44.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "44.5",
+      "prompt": "canh-44/clip-5.md",
+      "sha256": "e601e2a67a27e605319c5b663fd8a0de230c0e47607b8a248d1179f8f0a278c1",
+      "mode": "ingredients",
+      "previous": "44.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "44.6",
+      "prompt": "canh-44/clip-6.md",
+      "sha256": "1590f0490478dc812859a2038b23d8347dae08c3117ef8232c8c82b520e5bf55",
+      "mode": "ingredients",
+      "previous": "44.5",
+      "transition": "L"
+    },
+    {
+      "id": "45.1",
+      "prompt": "canh-45/clip-1.md",
+      "sha256": "80cf5a93512b282381efc652f092475ec240009f0f9af1da3718040927d427a4",
+      "mode": "ingredients",
+      "previous": "44.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "45.2",
+      "prompt": "canh-45/clip-2.md",
+      "sha256": "44329310863345ccc3de474fbee7f9a85ebe95bb3e03e806d27fa4dde4e5a2fd",
+      "mode": "ingredients",
+      "previous": "45.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "45.3",
+      "prompt": "canh-45/clip-3.md",
+      "sha256": "43c0d40ef51c0c54b68e2899e40f7945b6e43fb38dc7fa1ceb17b018eb8849fb",
+      "mode": "ingredients",
+      "previous": "45.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "45.4",
+      "prompt": "canh-45/clip-4.md",
+      "sha256": "1fbe6627d83ad08386fe7e0392df36a1a8b360aa4dec0e2e483563609b9cb824",
+      "mode": "ingredients",
+      "previous": "45.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "45.5",
+      "prompt": "canh-45/clip-5.md",
+      "sha256": "37c8c271bda2b9bf4e55355c2894b17d6ba2bf6b0e5a5a46ef285600c9e68344",
+      "mode": "ingredients",
+      "previous": "45.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "45.6",
+      "prompt": "canh-45/clip-6.md",
+      "sha256": "bf8483b09d66756112744428f8c9368d590b349be51d86cce0d8596c96430ed4",
+      "mode": "ingredients",
+      "previous": "45.5",
+      "transition": "J"
+    },
+    {
+      "id": "46.1",
+      "prompt": "canh-46/clip-1.md",
+      "sha256": "2673373e88bedd09a470024403dde4ad095b4fe15093558ef12afdca03a5fc5f",
+      "mode": "ingredients",
+      "previous": "45.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "46.2",
+      "prompt": "canh-46/clip-2.md",
+      "sha256": "71ff640f5146973614731888d2bc385f5bdcf2d29e3964d0e6aee2a8e2a6da9c",
+      "mode": "frames",
+      "previous": "46.1",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "46.3",
+      "prompt": "canh-46/clip-3.md",
+      "sha256": "1f9985407bf56a17438ee0d9e1aee3009344076824ddc022951853f0a11dc8e7",
+      "mode": "frames",
+      "previous": "46.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "46.4",
+      "prompt": "canh-46/clip-4.md",
+      "sha256": "575c419c195468e71dc659b54c58a0b1779251a6a69713d486b68b206b915827",
+      "mode": "ingredients",
+      "previous": "46.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "46.5",
+      "prompt": "canh-46/clip-5.md",
+      "sha256": "aa4cbb76c3882be2a34055176e713ca79408611f4dbe8dd76203b2e25a9ea6e6",
+      "mode": "ingredients",
+      "previous": "46.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "46.6",
+      "prompt": "canh-46/clip-6.md",
+      "sha256": "c154287870ee6d48c255a5c51e1a93ee2805d3f0c978efe3df8b96a3e02a3876",
+      "mode": "ingredients",
+      "previous": "46.5",
+      "transition": "L"
+    },
+    {
+      "id": "47.1",
+      "prompt": "canh-47/clip-1.md",
+      "sha256": "58cca918c3db472bce04edc04993601de724d0fedbd4bc38285810bd216c5267",
+      "mode": "ingredients",
+      "previous": "46.6",
+      "transition": "J"
+    },
+    {
+      "id": "47.2",
+      "prompt": "canh-47/clip-2.md",
+      "sha256": "3cb9bf165a9e2af70f73ec7407bba86b00863e8af05eafe642f85818cfa4820e",
+      "mode": "frames",
+      "previous": "47.1",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "47.3",
+      "prompt": "canh-47/clip-3.md",
+      "sha256": "5674fb41c6c26629169ba6e9b472bab4f8d8e925e3db0a0ff91b9f23f94caaba",
+      "mode": "frames",
+      "previous": "47.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "47.4",
+      "prompt": "canh-47/clip-4.md",
+      "sha256": "f5f878a80aa37c4b923037b59023cefdae17d59b84e9f73fda08bcd57bb61fb0",
+      "mode": "ingredients",
+      "previous": "47.3",
+      "transition": "L"
+    },
+    {
+      "id": "47.5",
+      "prompt": "canh-47/clip-5.md",
+      "sha256": "5a242d4eccd24b0922736894ed6ddfac3c9cafebe3c74ad626dc82d24d90b531",
+      "mode": "ingredients",
+      "previous": "47.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "47.6",
+      "prompt": "canh-47/clip-6.md",
+      "sha256": "b83e3776e47d342452e978fb1c9491b37c6e694ac28ea1947b39384c991d88ec",
+      "mode": "ingredients",
+      "previous": "47.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "48.1",
+      "prompt": "canh-48/clip-1.md",
+      "sha256": "dc9886a7a8636231807a9ea5e6cadc76e1eba97fdb1642bd55d2ab5c1e331de9",
+      "mode": "ingredients",
+      "previous": "47.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "48.2",
+      "prompt": "canh-48/clip-2.md",
+      "sha256": "a0bcf7c6054aff8854419e45fd9378be6f04563bac5443294976566daf242bed",
+      "mode": "ingredients",
+      "previous": "48.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "48.3",
+      "prompt": "canh-48/clip-3.md",
+      "sha256": "0f68cbc3bf132616ca7ef4a3307aec2ccff94055c2045d3d0b11eae49c0da77f",
+      "mode": "ingredients",
+      "previous": "48.2",
+      "transition": "L"
+    },
+    {
+      "id": "48.4",
+      "prompt": "canh-48/clip-4.md",
+      "sha256": "797e3592b8d6cf3ad8998340a1398b366327c27fc53e3b70e0c1597e2743c2f4",
+      "mode": "ingredients",
+      "previous": "48.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "48.5",
+      "prompt": "canh-48/clip-5.md",
+      "sha256": "3a4c967972592e24780284d26fa5ab5712c9c2119e0b323139ef479281ebd428",
+      "mode": "ingredients",
+      "previous": "48.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "48.6",
+      "prompt": "canh-48/clip-6.md",
+      "sha256": "5e4a3f802c2654b48b59cb43d6c0d8feb8797e6ace176cfe0fbb1409929681b9",
+      "mode": "ingredients",
+      "previous": "48.5",
+      "transition": "L"
+    },
+    {
+      "id": "49.1",
+      "prompt": "canh-49/clip-1.md",
+      "sha256": "4a8c87493fb870cb408c2df2f187273a913f16e7b6f60ba6e88f7a1cf7871d56",
+      "mode": "ingredients",
+      "previous": "48.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "49.2",
+      "prompt": "canh-49/clip-2.md",
+      "sha256": "4e59451cb34c9b155e62df9d5d2986f05f18a7c6be4eb539b01c25f9830e623a",
+      "mode": "ingredients",
+      "previous": "49.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "49.3",
+      "prompt": "canh-49/clip-3.md",
+      "sha256": "5a55e589705322e32035ec3dac6b288667223efc362f5b587afb638e77d9ca12",
+      "mode": "ingredients",
+      "previous": "49.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "49.4",
+      "prompt": "canh-49/clip-4.md",
+      "sha256": "75c01f2353668d3d49a21cf48a1e1fbb77ea1a8286ab7c1565260ff3e20295d4",
+      "mode": "ingredients",
+      "previous": "49.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "49.5",
+      "prompt": "canh-49/clip-5.md",
+      "sha256": "db309df427536ca3f98dbc4a3892a488c7acd25fc3c91d1a4608edbbfa74dc26",
+      "mode": "ingredients",
+      "previous": "49.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "49.6",
+      "prompt": "canh-49/clip-6.md",
+      "sha256": "73caff817e5d7a85bcff7bc22e7e13ba518e159df6ae8bfb252a861cadeaf367",
+      "mode": "ingredients",
+      "previous": "49.5",
+      "transition": "L"
+    },
+    {
+      "id": "50.1",
+      "prompt": "canh-50/clip-1.md",
+      "sha256": "9e59055646df5428ec610e68d80f3b3c6f20c0be88436e74a7723ca9a7169ff5",
+      "mode": "ingredients",
+      "previous": "49.6",
+      "transition": "J"
+    },
+    {
+      "id": "50.2",
+      "prompt": "canh-50/clip-2.md",
+      "sha256": "b6d056c233b2d3d11ca7bcdb9049faf6b9015310fc729738d2e5ea5b3145fabf",
+      "mode": "ingredients",
+      "previous": "50.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "50.3",
+      "prompt": "canh-50/clip-3.md",
+      "sha256": "50838a776d34f86e36d7db9b4482a8ab16d80bfe2cfc236b921ec1e6b7ee5b41",
+      "mode": "ingredients",
+      "previous": "50.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "50.4",
+      "prompt": "canh-50/clip-4.md",
+      "sha256": "aebf2a5aab61296a13cafe35f7cb2d1879f26ddc9a5014d183adab619747c122",
+      "mode": "ingredients",
+      "previous": "50.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "50.5",
+      "prompt": "canh-50/clip-5.md",
+      "sha256": "dd21cd97d610ace2ad718204f8c120eb3fdf426f0f2a6c83afc2b08b633fbe42",
+      "mode": "ingredients",
+      "previous": "50.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "50.6",
+      "prompt": "canh-50/clip-6.md",
+      "sha256": "8d72e9bbd2ffb1d2874a71b39cd9bcdd002718e0ab563f81f229a69f92c687c9",
+      "mode": "ingredients",
+      "previous": "50.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "51.1",
+      "prompt": "canh-51/clip-1.md",
+      "sha256": "a2c56a0509cfce3c9ba92dbc98ad53c20d917aca3a5322032e397bf35fb17efa",
+      "mode": "ingredients",
+      "previous": "50.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "51.2",
+      "prompt": "canh-51/clip-2.md",
+      "sha256": "f08cb448ffc652785d081a3526b4025831587c6b29584844a160dcc6cc06b09b",
+      "mode": "ingredients",
+      "previous": "51.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "51.3",
+      "prompt": "canh-51/clip-3.md",
+      "sha256": "f7127d7df0eaac0a5acbdf882e0573e43ec39aa351d4791a81df3aac33f0f9d7",
+      "mode": "frames",
+      "previous": "51.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "51.4",
+      "prompt": "canh-51/clip-4.md",
+      "sha256": "e49e5ccf8e8f0e26be43ef51d122997709ebf4326c425e88bd4d9c2b5b2caafe",
+      "mode": "frames",
+      "previous": "51.3",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "51.5",
+      "prompt": "canh-51/clip-5.md",
+      "sha256": "911749a90be3d489e075e2a5d38aab4723e389112f743fc8945f432ee9dc19f2",
+      "mode": "ingredients",
+      "previous": "51.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "51.6",
+      "prompt": "canh-51/clip-6.md",
+      "sha256": "6076507b091bcf7ff2442abcdc68a8ec0958e223a7b5a7a91cb4d316b06cf76b",
+      "mode": "ingredients",
+      "previous": "51.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "52.1",
+      "prompt": "canh-52/clip-1.md",
+      "sha256": "ca1a5c8b3d60067e2ea5aa37c8973436b6e3059ffa39798aec36ac85cbd7a5fd",
+      "mode": "ingredients",
+      "previous": "51.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "52.2",
+      "prompt": "canh-52/clip-2.md",
+      "sha256": "bb09ad55b4b43cbbfc3af33faa3baf2d6d44d2cdd33589ab3d2d8d95b7059621",
+      "mode": "ingredients",
+      "previous": "52.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "52.3",
+      "prompt": "canh-52/clip-3.md",
+      "sha256": "27b1b6da75192aba5230b04e3ed0d1bc28e2ac44cb5e4ce61c8f87a0aebecf80",
+      "mode": "frames",
+      "previous": "52.2",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "52.4",
+      "prompt": "canh-52/clip-4.md",
+      "sha256": "57feb8cfb23f240b87caaac77aa2526c29a1cb07618966029b251451a9dbb72d",
+      "mode": "ingredients",
+      "previous": "52.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "52.5",
+      "prompt": "canh-52/clip-5.md",
+      "sha256": "13a9075984983281c264f96a57fa6f23a9a5073d49dd0993b1a6087c5b683f62",
+      "mode": "ingredients",
+      "previous": "52.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "52.6",
+      "prompt": "canh-52/clip-6.md",
+      "sha256": "ba575ed849d160860cc2bab4bf32677f2db607f3ceb8dedad98a460b6f025d2c",
+      "mode": "ingredients",
+      "previous": "52.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "53.1",
+      "prompt": "canh-53/clip-1.md",
+      "sha256": "25f5a85a026602f7d2c999b70cc93f831959a8f9f4ed1c33b6c3dc07ede4a933",
+      "mode": "ingredients",
+      "previous": "52.6",
+      "transition": "L"
+    },
+    {
+      "id": "53.2",
+      "prompt": "canh-53/clip-2.md",
+      "sha256": "7d3166600ce20aad411cd3be06edd68cf9c1dd693bc3b6936cadb3bfa9353fe4",
+      "mode": "ingredients",
+      "previous": "53.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "53.3",
+      "prompt": "canh-53/clip-3.md",
+      "sha256": "db565c61b9118c11fec77f6079c290fa1542fe5c21725afdcced350c6f5c0bbb",
+      "mode": "ingredients",
+      "previous": "53.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "53.4",
+      "prompt": "canh-53/clip-4.md",
+      "sha256": "2310ace4aeb0dd93c501f9596245f398c11a9565ed0c054a47833b9995af8ae2",
+      "mode": "ingredients",
+      "previous": "53.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "53.5",
+      "prompt": "canh-53/clip-5.md",
+      "sha256": "1ffe0a46f39d8503bf4ee446375eb31d28a3885905e4624028f76003fd9e8cc9",
+      "mode": "ingredients",
+      "previous": "53.4",
+      "transition": "L"
+    },
+    {
+      "id": "53.6",
+      "prompt": "canh-53/clip-6.md",
+      "sha256": "977ce5391041a6d1474de03556352d561073174598560919e8d2ed864be1e7b4",
+      "mode": "ingredients",
+      "previous": "53.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "54.1",
+      "prompt": "canh-54/clip-1.md",
+      "sha256": "a493e4d6c0d60ecb0cb158778ab2e06955020174212020c0828a16f6918e471c",
+      "mode": "ingredients",
+      "previous": "53.6",
+      "transition": "J"
+    },
+    {
+      "id": "54.2",
+      "prompt": "canh-54/clip-2.md",
+      "sha256": "141f022a072f31209dbb0a184fa50e6ec0d531ce889c7b18a6e4e68ce97b75ea",
+      "mode": "ingredients",
+      "previous": "54.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "54.3",
+      "prompt": "canh-54/clip-3.md",
+      "sha256": "8f6f7b1ac8dca60f6e3a96b7ac8f368d29a8c076a32b2e8e6e6edc3e31b6e49f",
+      "mode": "ingredients",
+      "previous": "54.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "54.4",
+      "prompt": "canh-54/clip-4.md",
+      "sha256": "a36c96b51eb36b8cf9af34be9d2b412d32946533229e93e71aa29493208b23ce",
+      "mode": "ingredients",
+      "previous": "54.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "54.5",
+      "prompt": "canh-54/clip-5.md",
+      "sha256": "3b693d0fb76e1e40ce3f56ba1658fd795f4899291474a6d8deb19a664f8f504a",
+      "mode": "ingredients",
+      "previous": "54.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "54.6",
+      "prompt": "canh-54/clip-6.md",
+      "sha256": "a91764c5604d084b6997908c858033d7b8d572ae296d08bef212c0e47514b581",
+      "mode": "ingredients",
+      "previous": "54.5",
+      "transition": "L"
+    },
+    {
+      "id": "55.1",
+      "prompt": "canh-55/clip-1.md",
+      "sha256": "60459f0f3911b9b5c654210ecd81c0bd8c28af116cada29022901e8e17376deb",
+      "mode": "ingredients",
+      "previous": "54.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "55.2",
+      "prompt": "canh-55/clip-2.md",
+      "sha256": "43a349134123a74772a57ab6ebf4cca191c9fd23369a0051348c2c1df0bcbea5",
+      "mode": "frames",
+      "previous": "55.1",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "55.3",
+      "prompt": "canh-55/clip-3.md",
+      "sha256": "313a07746bdd78ea655cb5b5d2406817ad4cbf1c7051c6e6a0145ccd3914e384",
+      "mode": "ingredients",
+      "previous": "55.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "55.4",
+      "prompt": "canh-55/clip-4.md",
+      "sha256": "0b2d3864acb8d065f155881c1b90df4870e12a11a707f9109754696567a34b1b",
+      "mode": "ingredients",
+      "previous": "55.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "55.5",
+      "prompt": "canh-55/clip-5.md",
+      "sha256": "0862e4cee42e5a8e1bce27f2a8639242d79dc4d0a3cfe16f586316cd9a57d557",
+      "mode": "frames",
+      "previous": "55.4",
+      "transition": "CONTINUE"
+    },
+    {
+      "id": "55.6",
+      "prompt": "canh-55/clip-6.md",
+      "sha256": "3e1d7fa05fc6e93b01b3704141fc570fff76db256885d8a068431c7c9dc3b215",
+      "mode": "ingredients",
+      "previous": "55.5",
+      "transition": "L"
+    },
+    {
+      "id": "56.1",
+      "prompt": "canh-56/clip-1.md",
+      "sha256": "0ca5bc237c27c5889c32451edc70c8ed0567550754bfd6735d8f54129450640c",
+      "mode": "ingredients",
+      "previous": "55.6",
+      "transition": "J"
+    },
+    {
+      "id": "56.2",
+      "prompt": "canh-56/clip-2.md",
+      "sha256": "dfe89f29036e0aa9ca23fa53b10e8cfa8fb183ba634c09e9bd1d86ac7974aa01",
+      "mode": "ingredients",
+      "previous": "56.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "56.3",
+      "prompt": "canh-56/clip-3.md",
+      "sha256": "90c6967344b0019046e9b235e1d6fad3a49ee6b9e321aa33451e8269a5f76397",
+      "mode": "ingredients",
+      "previous": "56.2",
+      "transition": "L"
+    },
+    {
+      "id": "56.4",
+      "prompt": "canh-56/clip-4.md",
+      "sha256": "7e3d98bf95c67dfc3ca04ca0fcd54c51699c83d7131218489b7b78a446a4ae9c",
+      "mode": "ingredients",
+      "previous": "56.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "56.5",
+      "prompt": "canh-56/clip-5.md",
+      "sha256": "64fb549012b8af900277b9109bbd87cae62337afb3fed3743ac59774f9233fa9",
+      "mode": "ingredients",
+      "previous": "56.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "56.6",
+      "prompt": "canh-56/clip-6.md",
+      "sha256": "918d4b4f400a4e578ffb31057170dbbd8a567c573b7dee7180ce9ec08751e395",
+      "mode": "ingredients",
+      "previous": "56.5",
+      "transition": "L"
+    },
+    {
+      "id": "57.1",
+      "prompt": "canh-57/clip-1.md",
+      "sha256": "cd64736a186ef935e0e221390d7eb365655271cf7924b0a64cd5987f44e0ca87",
+      "mode": "ingredients",
+      "previous": "56.6",
+      "transition": "CUT"
+    },
+    {
+      "id": "57.2",
+      "prompt": "canh-57/clip-2.md",
+      "sha256": "c60089036ee7df85b7afb9c378435242d44fef21a90c3e48f2b275cfaa8d9ffe",
+      "mode": "ingredients",
+      "previous": "57.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "57.3",
+      "prompt": "canh-57/clip-3.md",
+      "sha256": "f0c509e9f219a70d915b8cedad4b2a33940c91bc83f4a2adb6e7ecc035d57c1a",
+      "mode": "ingredients",
+      "previous": "57.2",
+      "transition": "L"
+    },
+    {
+      "id": "57.4",
+      "prompt": "canh-57/clip-4.md",
+      "sha256": "22ee4e4ff487634e5a9afd118876314db8255f2912014252e2be9f80a492ad63",
+      "mode": "ingredients",
+      "previous": "57.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "57.5",
+      "prompt": "canh-57/clip-5.md",
+      "sha256": "9069ba89ad7540d043e9b6cec057e6f7b99675a95d2574c7160d0eced28df4be",
+      "mode": "ingredients",
+      "previous": "57.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "57.6",
+      "prompt": "canh-57/clip-6.md",
+      "sha256": "651d0f036280f336971fc6c065c0b631cf267acf425c43c6fb790d3806c6144d",
+      "mode": "ingredients",
+      "previous": "57.5",
+      "transition": "J"
+    },
+    {
+      "id": "58.1",
+      "prompt": "canh-58/clip-1.md",
+      "sha256": "25737a7f1cb8f5c92186d2fb2f3296915abae6264b97bb59e3d456e4fda02fb6",
+      "mode": "ingredients",
+      "previous": "57.6",
+      "transition": "J"
+    },
+    {
+      "id": "58.2",
+      "prompt": "canh-58/clip-2.md",
+      "sha256": "d9aeb19a05292374d97bbb1404376e59de25d53adaab49a1919c3dde885d92ff",
+      "mode": "ingredients",
+      "previous": "58.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "58.3",
+      "prompt": "canh-58/clip-3.md",
+      "sha256": "ddc72b31185e4c22ec7fbeff99aed1ca2ffbcac0b88e8739d741b800fb736681",
+      "mode": "ingredients",
+      "previous": "58.2",
+      "transition": "CUT"
+    },
+    {
+      "id": "58.4",
+      "prompt": "canh-58/clip-4.md",
+      "sha256": "9feb637bce695ade2c73d4760c378506ea0a36974553696e8c16eeab521bb586",
+      "mode": "ingredients",
+      "previous": "58.3",
+      "transition": "L"
+    },
+    {
+      "id": "58.5",
+      "prompt": "canh-58/clip-5.md",
+      "sha256": "1ef33ba6548df0c9afe646f9c475e96313420401dc2832e1dc412354a58001fb",
+      "mode": "ingredients",
+      "previous": "58.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "58.6",
+      "prompt": "canh-58/clip-6.md",
+      "sha256": "14347a5e3b317e90ec70f0be8cb5305393a6bb46dc0b33107923f64fbe0a0b5e",
+      "mode": "ingredients",
+      "previous": "58.5",
+      "transition": "CUT"
+    },
+    {
+      "id": "59.1",
+      "prompt": "canh-59/clip-1.md",
+      "sha256": "6a73e5c64cf54023a6812d9f0d28a9b6f6dfad4d34927cd8b3e5f0d09c085855",
+      "mode": "ingredients",
+      "previous": "58.6",
+      "transition": "L"
+    },
+    {
+      "id": "59.2",
+      "prompt": "canh-59/clip-2.md",
+      "sha256": "a2ea11722be3c4491f1f0718512603541b1cfa04fbccca8469a32f7ba25aebb3",
+      "mode": "ingredients",
+      "previous": "59.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "59.3",
+      "prompt": "canh-59/clip-3.md",
+      "sha256": "df57d896c42a3a8fabf899cc577d1d43b3e887e26f9507aa38e0b5472628391e",
+      "mode": "ingredients",
+      "previous": "59.2",
+      "transition": "J"
+    },
+    {
+      "id": "59.4",
+      "prompt": "canh-59/clip-4.md",
+      "sha256": "13559f7fb32c8466a1fc4f192ea06819cf098ab2b41cc8dd846805ba34c87b05",
+      "mode": "ingredients",
+      "previous": "59.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "59.5",
+      "prompt": "canh-59/clip-5.md",
+      "sha256": "dfc4a821fa1fbd69a34534c3c9d112413e149bc648a0dae700d84c2a0a6b28bb",
+      "mode": "ingredients",
+      "previous": "59.4",
+      "transition": "CUT"
+    },
+    {
+      "id": "59.6",
+      "prompt": "canh-59/clip-6.md",
+      "sha256": "ccf516ac0b197dbb2ed0ec98b3793c55a3ca6d1aba8d43346f0a63b7e8fdd6f7",
+      "mode": "ingredients",
+      "previous": "59.5",
+      "transition": "L"
+    },
+    {
+      "id": "60.1",
+      "prompt": "canh-60/clip-1.md",
+      "sha256": "500f269c846c29546b1291b08de78caa3542548b1f2171000d4a632fabde7cb0",
+      "mode": "ingredients",
+      "previous": "59.6",
+      "transition": "MATCH"
+    },
+    {
+      "id": "60.2",
+      "prompt": "canh-60/clip-2.md",
+      "sha256": "1a3c702ff1661ffe000bfc94510083b7c58d26883e0e9dced57881f98c3a9dd0",
+      "mode": "ingredients",
+      "previous": "60.1",
+      "transition": "CUT"
+    },
+    {
+      "id": "60.3",
+      "prompt": "canh-60/clip-3.md",
+      "sha256": "c1a5b7b37406b35f3e0e23f1699ce897397c898e2a8daa27ab7f2683a0e69a32",
+      "mode": "ingredients",
+      "previous": "60.2",
+      "transition": "J"
+    },
+    {
+      "id": "60.4",
+      "prompt": "canh-60/clip-4.md",
+      "sha256": "796dd9eee54d51ec71df4b4dcf1a821236282a92fed24aadcc8dc06d7eda52c0",
+      "mode": "ingredients",
+      "previous": "60.3",
+      "transition": "CUT"
+    },
+    {
+      "id": "60.5",
+      "prompt": "canh-60/clip-5.md",
+      "sha256": "ce259aba564580206afc2ed539f0d42e53757e346541abe8d95cba086197a25a",
+      "mode": "ingredients",
+      "previous": "60.4",
+      "transition": "L"
+    },
+    {
+      "id": "60.6",
+      "prompt": "canh-60/clip-6.md",
+      "sha256": "a65f073abb4bf8db2e2c4def0bb71f1382280f8553b40b5000224b6d33d8aa0c",
+      "mode": "ingredients",
+      "previous": "60.5",
+      "transition": "CUT"
+    }
+  ]
+}

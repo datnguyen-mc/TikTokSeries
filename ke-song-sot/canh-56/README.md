@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 56: Sổ Đen Lên Báo
+# Kẻ Sống Sót: Bóng Ma — Cảnh 56: Sổ Tiền Thành Hồ Sơ
 
-**Cảnh 56/60** · Phút 55:00 – 56:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 55](../canh-55/README.md) | [Cảnh 57 →](../canh-57/README.md)
+Phút 55:00–56:00 · Thời gian truyện: D8 morning
 
----
+Bằng chứng được xác minh và đời sống thị trấn bắt đầu trở lại.
 
-## 1. Tóm tắt cảnh
-Quán bờ kè đông kín; ông Bảy vặn radio to; bản tin: đường dây Rắn Đen và một doanh nhân xây dựng bị bắt tại một thị trấn biển; dân chợ ồ lên. Mây ngồi bàn Sơn từng ngồi, quay mặt ra biển, tờ báo (không chữ) gấp đôi, ly cà phê; cô không đọc, chỉ nhìn biển. Mây ngẩng lên: ở bàn cuối, Hạ ngồi một mình, nhìn biển, khăn xanh; Mây cầm ly đứng dậy đi tới.
+**Câu hỏi đang mở:** Thị trấn sẽ trở lại nhịp sống thường bằng những việc gì?
+**Móc vào cảnh:** Một chiếc ghế và chiếc kính mới thay lời ca ngợi người hùng.
+**Điểm bẻ:** Hồ sơ chuyển giao xong, ghế quán dựng lại, người trực trở về lịch bình thường.
+**Gieo / trả:** Đây là nối việc trở lại, nhịp gọn chứ không một đoạn kết bi tráng nữa.
 
-* **Bối cảnh chính:** Quán bờ kè, sáng ngày 8, nắng, radio, tờ báo.
-* **Nhân vật khóa trong cảnh:** Mây (@May), Hạ (@Ha), Phó Thành (@Phó Thành), Bác sĩ Linh (@Bác sĩ Linh), Ông Bảy (@Ông Bảy)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Investigator reviewing the sealed originals against Thành's handover record. | Mây delivers the remaining local witness files for the same case. | Complete evidence handover recorded, local copies retained. | Bộ đàm, qua thiết bị: Đã khớp sổ với xưởng và chuyến tàu. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bảy returning an overturned chair to its regular place, Thành nearby. | They reopen the stall together, without retelling the whole fight. | Chair upright, first clean glass on the counter. | Ông Bảy (@Ông Bảy), nói trong hình: Giờ bán cà phê lại được chưa? |
+| [3](clip-3.md) | L · L-cut: âm cũ đi qua cú cắt | Mây walking through the reopening fish market. | She checks on sellers who evacuated and thanks them for keeping the routes clear. | Mây with two unnamed sellers at the repaired side gate. | Mây (@May), nói trong hình: Cảm ơn mọi người đã đưa dân ra. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Linh at the clinic sink after filing his medical notes. | He hangs the emptied response bag to dry and sits down at last. | Bag drying above the bench, Linh resting with a cup of water. | — |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Thành wearing replacement glasses, Mây at the case board. | They remove the emergency duty roster and restore the normal shift plan. | Emergency roster filed away, ordinary patrol map visible. | Thành (@Phó Thành), nói trong hình: Đêm nay trực lại như cũ hả chị? |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Hạ at the station doorway with the family-house key, Mây joining her empty-handed. | They walk toward the harbour houses instead of the crime-scene pier. | Both walking side by side in morning light. | Mây (@May), nói trong hình: Về nhà trước. Chuyện khác tính sau. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Quán bờ kè đông kín; ông Bảy vặn radio to; bản tin: đường dây Rắn Đen và một doanh nhân xây dựng bị bắt tại một thị trấn biển; dân chợ ồ lên.** | Radio (bản tin): "Đường dây Rắn Đen bị triệt phá tại một thị trấn ven biển." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Ông Bảy lau ly, nói với cả quán về đêm qua, phóng đại gấp ba; Thành với cặp kính mới cười khúc khích.** | Ông Bảy: "Tui ném cái thau đá, ba thằng ngã!" · Thành: "Một thằng, chú." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây ngồi bàn Sơn từng ngồi, quay mặt ra biển, tờ báo (không chữ) gấp đôi, ly cà phê; cô không đọc, chỉ nhìn biển.** | Mây (Voice-over): "Mười năm giữ chỗ. Hôm nay tôi ngồi." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Bác sĩ Linh ngồi xuống, đặt đồng hồ bấm giờ lên bàn: vẫn dừng ở ba mươi tám.** | Bác sĩ Linh: "Tôi không bấm dừng. Để nó ở ba mươi tám." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Ông Bảy mang tới một đĩa cá kho, nói hôm nay không lấy tiền; Mây hỏi quán có khách lạ nào nữa không.** | Mây: "Có khách lạ không chú?" · Ông Bảy: "Có. Ngồi nhìn biển. Đúng kiểu khách." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Mây ngẩng lên: ở bàn cuối, Hạ ngồi một mình, nhìn biển, khăn xanh; Mây cầm ly đứng dậy đi tới.** | Mây: "Khách lạ này tôi hỏi một lần thôi." · Hạ: "Hỏi đi." | Frames / Extend (nối liền) |
+- **1:** Resolve the evidence route with verification, not a celebratory broadcast that retells the plot. **Diễn xuất:** People work with relief but no applause, treating the case as continuing responsibility beyond one dramatic night.
+- **2:** Return the town to an ordinary transaction rather than another retelling of the fight. **Diễn xuất:** Bảy's question contains weary practical humour, Thành's response can stay in a look rather than extra dialogue.
+- **3:** Show communal repair through checking people, not praising Sơn as the town's saviour. **Diễn xuất:** Her gratitude is sincere but brief; the sellers remain workers with lives rather than a cheering audience.
+- **4:** Let Linh's private fatigue provide a human consequence without restarting the medical suspense. **Diễn xuất:** A small release in his shoulders is enough, no collapse, tremor or haunted stare to camera.
+- **5:** Use the return of a normal shift to show the emergency has ended without claiming the case is over. **Diễn xuất:** Thành's question is half relief, half readiness to work; Mây need not answer with a moral speech.
+- **6:** Carry Hạ toward her own home so recovery becomes action rather than a waiting-room image. **Diễn xuất:** Hạ's apprehension is quiet and forward-facing, Mây's familiarity offers company without taking over.
 
----
+**Âm nối sang cảnh sau:** Keep ordinary town morning sound from the walk to the family-house threshold. Market-stall planning happens after the home entry.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

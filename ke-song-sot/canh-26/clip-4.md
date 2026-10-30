@@ -1,27 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 3. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY in civilian clothes: 38, short hair with a white streak at the front, denim jacket over a dark T-shirt, jeans, small backpack; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-HIDDEN CHEMICAL WORKSHOP IN A DISUSED FISH-SAUCE FACTORY: a hidden workshop by the river in an abandoned fish-sauce factory, steel vats, glass flasks, trays of clear vials, masked workers blurred in background, a loading door onto the river.
-Story setting: Nhà máy nước mắm bỏ hoang ven sông, ngày 5, bể thép, bình thủy tinh, cửa bốc hàng ra sông.
-Scene 26/60, timecode 25:00 – 26:00, clip 4/6 (30–40s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm tracking laterally with the first step — Nối liền chuyển động đang dang dở: Trên mái, Mây (@May) bị một bảo vệ leo lên; bể thép xếp hàng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — cô đá gậy hắn rơi, khóa tay hắn vào ống nước bằng cái còng cuối cùng còn trong túi. Nói trong khung, không cắt giữa câu: Mây (@May): "Hết còng rồi. Lần sau dùng dây."
-00:07.0–00:10.0 | 50mm close-up on the face after the action — mái tôn kêu. Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[TIMELINE AND LOCATION]
+Scene 26/60, clip 4/6; shot 26.4. Story time: D5 afternoon.
+River loading dock behind the factory, rope-operated gate, moored wooden workboat on outer side.
+Present-day afternoon, industrial roof daylight, cool shed shade, river reflections.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Give Mây her own practical choice after the two city cuffs are already spent.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 26.3, ending with Guard separated by the screen, Mây at the open river door.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Mây at the dock gate, another guard approaching from the stairs.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the gate and stairs in the wide composition so the approaching guard's route is obvious.
+Focus: Keep rope, gate closure and both travelers on the outer side visually connected.
+
+[ACTION — 0–10s, one evolving take]
+She loops a dock rope around the gate and pulls it shut between them.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The barrier earns only a short lead; she must leave as soon as it holds.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She pulls the existing dock rope across the gate and closes it between groups.
+Performance: She stays focused on the obstacle's purpose, not smiling at cleverness or replacing absent cuffs.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Đi tiếp. Tôi giữ cửa.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Wet dock boards, ordinary mooring rope and worn gate iron give the improvised barrier weight.
+
 
 [SOUND]
-Âm thanh nền: nước sông vỗ cửa bốc hàng; nhịp trống trầm theo từng đòn. Thoại rõ, không nhạc đè lời.
+Location bed: mooring rope and workboat engine.
+Foreground sound: Her brief direction rises above gate movement and river sound, without new alarms.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Cô đá gậy hắn rơi, khóa tay hắn vào ống nước bằng cái còng cuối cùng còn trong túi) for 0.5s; this is the first frame of clip 5.
+[END FRAME — natural motion continues]
+Gate held by rope, both travelers beyond it, no new cuffs.
+Next shot 26.5: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

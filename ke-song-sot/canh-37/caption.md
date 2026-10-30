@@ -1,27 +1,7 @@
-# Caption · Kẻ Sống Sót: Bóng Ma · Phần 37/60: Điều Kiện
+# Kẻ Sống Sót: Bóng Ma · Cảnh 37: Điều Kiện Không Đổi
 
-> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 37 (Phút 36:00 – 37:00). 60 giây, 16:9 hoặc crop 9:16.
+Mây và Sơn điều chỉnh kế theo điều kiện mới, không kể lại kế cũ.
 
-## Caption đề xuất
-```text
-Kẻ Sống Sót: Bóng Ma · Tập 37/60: Điều Kiện 🌊🕯️
+Phim hư cấu do AI tạo. Xem trọn mạch truyện trên bản phim dài.
 
-Xe trắng rời đi về phía nhà nghỉ đầu thị trấn; Mây kéo Sơn ra sau quán, giọng thấp mà dữ.
-Mây đưa lại lõi kim loại; Sơn từ chối, đẩy tay cô về.
-
-"Bóng ma không biến mất. Bóng ma chỉ hết việc."
-📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
-
-#kesongsot #bongma #phimhanhdong #phimle #phimvietai
-```
-
-## Bình luận ghim (Pinned Comment)
-```text
-Cảnh 37: nếu là Sơn, bạn có bỏ nghề đi với Hạ không? 👇
-```
-
-## Checklist khi đăng
-- Bật nhãn **"Nội dung do AI tạo"**.
-- Không gắn giỏ hàng; không dùng tên diễn viên thật trong caption.
-- Tối đa 5 hashtag.
+#kesongsot #bongma #phimvietai

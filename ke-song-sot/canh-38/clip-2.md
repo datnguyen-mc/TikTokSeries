@@ -1,28 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 1, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@HaiNgoc = BÀ HAI NGỌC: 60, silver bun, powdered calm face, jade bracelet on her LEFT wrist, black unlit holder, violet silk áo bà ba; soft, slow, sweet Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@HaiNgoc = Bà Hai: same approved identity, age 35; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. distant past, black hair in the same tight bun, simpler violet áo bà ba, black trousers, left jade bracelet. Voice: soft, slow Southern Vietnamese female voice with precise diction.
+@Son = Sơn: same approved identity, age 20; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. distant past, black hair without grey, plain dark shirt and cheap dark trousers, BARE hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SILK SHOP (Rắn Đen front): a dim shop of silk bolts in a city lane, a back office with a teak desk, incense, a steel safe behind a screen, a small courtyard; amber night light.
-Story setting: Quá khứ, hẻm lụa thành phố, đêm mưa, tiệm lụa ánh đèn vàng.
-Scene 38/60, timecode 37:00 – 38:00, clip 2/6 (10–20s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm wide establishing the characters in the environment — Khung đầu trùng khung cuối clip trước: Bà đưa Sơn (@Son) vào tiệm; khói nhang lượn qua đèn bàn.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — đưa mảnh lụa lau nước mưa, đặt tô cơm nóng lên bàn gỗ lim. Người nói ở tiền cảnh, môi rõ, người nghe mờ phía sau: Bà Hai Ngọc (@HaiNgoc): "Ăn đi. Má không lấy lại."
-00:07.0–00:10.0 | 50mm hold on the face, no cut — Sơn (@Son) ngồi ăn lặng lẽ, mắt cảnh giác như sợ bị lấy lại. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 38/60, clip 2/6; shot 38.2. Story time: PAST twenty-five years earlier rainy evening.
+City silk shop, teak desk to east, screened safe behind it, rear stock door west, warm practical lamps.
+Distant-past rainy evening, warm silk-shop lamps and cooler street rain.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show the first permission to receive care before later gifts acquire obligations.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 38.1, ending with Young Sơn under the awning, rain behind him.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Young Sơn seated with a bowl, Bà Hai across the table.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the bowl and both young faces within the same medium table relation.
+Focus: Keep food and eyes readable without a sentimental insert of starving hands or oversized portions.
+
+[ACTION — 0–10s, one evolving take]
+He begins to eat only after she moves the bowl closer.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The wait before eating carries the change, then end after he accepts that she will not reclaim it.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She nudges the existing bowl nearer, withdraws her hands, he begins eating only afterward.
+Performance: He watches for refusal before the first mouthful, while she lets him have the space.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Steam and ordinary ceramic stand against the dry silk-shop interior and his damp sleeves.
+
 
 [SOUND]
-Âm thanh nền: két sắt xoay, mưa trên mái hẻm; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: silk shifting and muted rain outside.
+Foreground sound: A bowl scrape and modest eating sounds play against rain, no warm sentimental music swell.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Sơn (@Son) ngồi ăn lặng lẽ, mắt cảnh giác như sợ bị lấy lại. Hold that exact frame still for 0.5s; clip 3 starts from it.
+[END FRAME — natural motion continues]
+Bowl near young Sơn, Bà Hai's hands withdrawn.
+Next shot 38.3: Match cut hình dạng/tư thế, không morph. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

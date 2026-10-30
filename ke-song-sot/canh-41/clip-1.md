@@ -1,31 +1,67 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@Ha = HẠ held in a locked room (32): a real Vietnamese woman, about 162 cm tall, slim, gentle face now pale and tired, long black hair loose, no scarf, in a plain grey cotton dress, barefoot or in thin sandals, unharmed. Voice: soft, warm, clear Southern Vietnamese female voice.
-@HaiNgoc = BÀ HAI NGỌC (60, matriarch of the Rắn Đen syndicate, owner of a silk shop as a front): a real Vietnamese woman, about 158 cm tall, small and upright, silver hair in a tight bun, powdered calm face, eyes that never blink first, a thick jade bracelet on her LEFT wrist (signature detail), a long black unlit holder in her hand. Outfit: a violet silk áo bà ba with a high collar, black silk trousers, embroidered slippers. Voice: soft, slow, sweet Southern Vietnamese female voice, around 60.
-@Dũng = DŨNG "ĐINH" (35, Rắn Đen's chief enforcer): a real Vietnamese man, about 180 cm tall, heavy-shouldered, buzz cut, a small nail-shaped silver earring in his LEFT ear (signature detail), black sleeveless shirt, black jeans, boots, a closed leather belt pouch. Voice: rough, loud Southern Vietnamese male voice.
-@Vũ Kiên = VŨ KIÊN (50, construction tycoon and the hidden Broker): a tall Vietnamese man with slicked black hair, a white tailored suit, gold watch, a wide politician's smile that never fades. Voice: smooth, confident Southern Vietnamese male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, hoàng hôn cuối, hai phe hai đầu, Sơn giữa, Hạ bên phe Kiên.
-Scene 41/60, timecode 40:00 – 41:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm wide establishing the characters in the environment — Vào cảnh: Tam giác trên cầu cảng: Bà Hai Ngọc (@HaiNgoc) và Dũng (@Dũng) bên đông; ghe va mạn, dây neo căng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Vũ Kiên (@Vũ Kiên) giữ Hạ (@Ha) bên tây, Sơn (@Son) giữa cầm bao da rỗng buông thõng. Nói trong khung, không cắt giữa câu: Vũ Kiên (@Vũ Kiên): "Hạ (@Ha) bà ta." · Bà Hai Ngọc (@HaiNgoc): "Chặn nó, con."
-00:07.0–00:10.0 | 50mm hold on the face, no cut — sóng vỗ dưới chân cầu. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 41/60, clip 1/6; shot 41.1. Story time: D7 last light.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Last natural dusk, quiet blue sea fill, car lamps only from their established positions.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the changed condition feel like a deliberate theft of the agreement, not another negotiation recap.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 40.6, ending with Hạ eyes and left shoulder angled landward, Kiên RIGHT hand still controlling her LEFT upper arm at the frame edge.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Kiên holding Hạ just short of the safe line with his RIGHT hand on her LEFT upper arm, Sơn opposite with his own preview envelope; no confession folder here.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep Kiên nearer the lens, Hạ restrained beside him, Sơn readable opposite with the preview envelope still his own.
+Focus: Stay on Kiên controlling face and the unanswered distance to Sơn; no folder or document insert is needed.
+
+[ACTION — 0–10s, one evolving take]
+Kiên verbally demands that Sơn sign the confession before Hạ is released, changing the agreement without presenting another physical folder. His RIGHT hand keeps Hạ LEFT upper arm, LEFT hand still concealed.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The offer travels slowly, then stops unanswered; keep that unfinished distance alive through the end.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Kiên delivers the condition without extending a second folder; RIGHT hand retains Hạ LEFT upper arm, LEFT hand stays concealed.
+Performance: Kiên delivers the short demand as a routine condition, Hạ jaw tightens before Sơn answers.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Kiên (@Vũ Kiên), nói trong hình: Ký trước. Tôi mới thả.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+
+[VISIBLE TEXTURE]
+White suit catches the last sky light, grey dress stays matte against the concrete.
+
 
 [SOUND]
-Âm thanh nền: cột đèn ù điện, biển đêm; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: Let the idling white car sit under the line, with a small sleeve movement at Hạ held arm.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Tam giác trên cầu cảng: Bà Hai Ngọc (@HaiNgoc) và Dũng (@Dũng) bên đông, Vũ Kiên (@Vũ Kiên) giữ Hạ (@Ha) bên tây, Sơn (@Son) giữa cầm bao da rỗng buông thõng) for 0.5s; this is the first frame of clip 2.
+[END FRAME — natural motion continues]
+Kiên condition unanswered, Hạ still held just short of the safe line, Sơn opposite with the preview copy; no second folder.
+Next shot 41.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

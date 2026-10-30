@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 32: Bốn Mươi Phút
+# Kẻ Sống Sót: Bóng Ma — Cảnh 32: Đường Rút Cho Người Sống
 
-**Cảnh 32/60** · Phút 31:00 – 32:00 của phim · Hồi 2: Thuốc Tê · Tập 4/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 31](../canh-31/README.md) | [Cảnh 33 →](../canh-33/README.md)
+Phút 31:00–32:00 · Thời gian truyện: D6 night
 
----
+Kế hoạch cứu người có hỗ trợ, Tê không phải mẹo giả chết.
 
-## 1. Tóm tắt cảnh
-Phòng khám đêm; Sơn đặt khay lọ Tê lấy từ xưởng lên bàn; Bác sĩ Linh nhìn, hiểu, lắc đầu; Mây khoanh tay ở cửa. Mây phản đối: cô có đủ bằng chứng, chỉ cần tỉnh về là xong; Sơn: tỉnh về là hai ngày, Kiên chuyển Hạ trong hai giờ. Mây đặt tay lên hai lọ, nhìn Sơn.
+**Câu hỏi đang mở:** Kế hoạch có còn cứu người khi cơ thể và lời hứa không chịu theo đồng hồ?
+**Móc vào cảnh:** Mẫu thuốc được khóa lại, mối nguy được nhận biết chứ không được biến thành công cụ thần kỳ.
+**Điểm bẻ:** Linh bác sự chắc chắn, Mây chốt đường rút thay vì một mẹo thắng.
+**Gieo / trả:** Chuẩn bị tuyến cứu Sơn và vai trò an toàn của người dân, giảm giải thích lại giao kèo.
 
-* **Bối cảnh chính:** Phòng khám, đêm ngày 6, đèn trắng, Bác sĩ Linh, lọ Tê trên khay.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Bác sĩ Linh (@Bác sĩ Linh)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Linh examining the sealed sample carton without opening it. | Mây asks him to stand by near the planned exchange, outside the danger area. | Linh putting the sealed carton into locked evidence storage. | Mây (@May), nói trong hình: Ông giúp phần cứu người. Không ra giữa cảng. |
+| [2](clip-2.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Linh putting the sealed carton into locked evidence storage. | Sơn explains that Dũng uses Tê to take people alive, Linh listens carefully. | Linh recording that risk on the emergency note. | Sơn (@Son), nói trong hình: Hắn muốn giữ người sống để ép khai. |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Linh recording that risk on the emergency note. | Linh rejects any guaranteed waking time, Mây crosses out the tentative recovery estimate on the existing tactical sketch, and Sơn accepts the uncertainty. | Sơn nodding, Mây with the crossed-out recovery estimate on the tactical sketch, route plan still available. | Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Gặp thuốc thì đưa về ngay. Đừng chờ phút nào. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Simple harbour map on the desk, two protected exits marked by shapes. | Mây assigns rescue extraction to the van and civilians to evacuation only. | Van route separated from the police approach, map complete. | Mây, ngoài khung hình: Dân rút trước. Người của tôi giữ hai đầu. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn facing Mây across the plan. | He agrees to withdraw if Hạ cannot be seen directly at the meeting. | Mây's finger on the abort route, Sơn acknowledging. | Sơn (@Son), nói trong hình: Không thấy Hạ, không trao gì hết. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Linh placing ordinary monitoring equipment in his bag. | Mây radios the agreed positions while Sơn steps back from the plan. | Medical bag ready, route map with Mây, Sơn unarmed. | Mây (@May), nói trong hình: Ưu tiên đưa cả hai người ra. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Phòng khám đêm; Sơn đặt khay lọ Tê lấy từ xưởng lên bàn; Bác sĩ Linh nhìn, hiểu, lắc đầu; Mây khoanh tay ở cửa.** | Bác sĩ Linh: "Anh muốn tôi làm anh ngưng nhịp tim tạm thời." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Linh giải thích bằng tay: một lọ, mạch chậm tới mức tay thường không bắt được, da lạnh, mắt mở: bốn mươi phút; quá bốn mươi phút, tim không khởi động lại.** | Bác sĩ Linh: "Bốn mươi phút. Quá là thật." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây phản đối: cô có đủ bằng chứng, chỉ cần tỉnh về là xong; Sơn: tỉnh về là hai ngày, Kiên chuyển Hạ trong hai giờ.** | Mây: "Tỉnh về là xong." · Sơn: "Hai ngày. Kiên dời cô ấy trong hai giờ." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Sơn nói kế: Bóng Ma phải chết trước mặt cả hai phe; hai phe thấy anh ngã xuống sẽ quay sang nhau để lấy sổ; lúc đó Mây và tỉnh vào; Hạ sẽ có mặt vì Kiên mang theo để trả.** | Sơn: "Tôi ngã xuống, hai phe cắn nhau." · Sơn: "Hạ ở đó, vì Kiên mang theo để trả." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Linh lấy một lọ thuốc giải màu hổ phách đặt cạnh lọ Tê; hai lọ song song như còng và lọ ở hiên nhà.** | Bác sĩ Linh: "Thuốc giải. Phút ba mươi tám tôi đưa thuốc. Không sớm, không trễ." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Mây đặt tay lên hai lọ, nhìn Sơn.** | Mây: "Anh dậy. Đó là lệnh." · Sơn: "Lệnh của người giữ luật?" · Mây: "Của bạn Hạ." | Frames / Extend (nối liền) |
+- **1:** Turn knowledge of Tê into a duty to prepare care rather than a clever method to exploit. **Diễn xuất:** Mây separates his medical role from the danger zone, Linh attentive without eager complicity.
+- **2:** Make the enemy's preference for living leverage feel more dangerous than a death threat. **Diễn xuất:** His matter-of-fact knowledge suggests familiarity he is ashamed to possess, not expertise to admire.
+- **3:** Remove the comfort of a precise rescue clock while preserving a practical path forward. **Diễn xuất:** Linh speaks from responsibility, not mystique, and Sơn's nod should contain real apprehension.
+- **4:** Distinguish the route that brings a person out from the route that brings police in. **Diễn xuất:** Her hand is economical, indicating one priority rather than rehearsing the whole operation again.
+- **5:** Let Sơn accept a condition that might stop him from reaching the woman he wants to save. **Diễn xuất:** His pause should reveal the cost of promising withdrawal, then settle into a deliberate answer.
+- **6:** Translate the limits just agreed into a prepared response, not another explanation of the bargain. **Diễn xuất:** They work with sober concentration, without the triumphant rhythm of a guaranteed victory montage.
 
----
+**Âm nối sang cảnh sau:** Flower-shop shutter sound introduces the memory after the current radio check. No repeated medical explanation.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

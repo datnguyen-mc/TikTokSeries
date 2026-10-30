@@ -1,33 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 4, matching position, light and 16:9 framing exactly, as one unbroken take.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Bác sĩ Linh = BÁC SĨ LINH: 55, thin, grey hair, wire glasses, worn white coat, stethoscope; tired, precise Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. cut original cuff ring remains on RIGHT wrist; no usable loose cuff end. Voice: rough Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white coat over checked shirt, stethoscope, practical medical bag. Voice: tired, measured Southern Vietnamese male voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@Bác sĩ Linh = BÁC SĨ LINH (55, the town doctor): a thin Vietnamese man with grey hair, wire glasses, a worn white coat over a checked shirt, a stethoscope. Voice: tired, precise Southern Vietnamese male voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng và chợ cá, đêm vừa xuống, đèn trắng, lưới, thúng, hai xe.
-Scene 44/60, timecode 43:00 – 44:00, clip 5/6 (40–50s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 44/60, clip 5/6; shot 44.5. Story time: D7 early night.
+Protected rear lane behind market wall, Bảy van parked with rear doors toward clinic route, no civilians inside the police zone.
+Early night, established harbour floodlight, warm van lamp, dim lighthouse practicals.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium-wide framing the figures in the room — Không có khoảng dừng giữa hai clip: Mây (@May) và Bác sĩ Linh (@Bác sĩ Linh) kéo Sơn (@Son) ra khỏi thúng cá; cột đèn soi mặt nước đen.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — khiêng vào xe van Ông Bảy (@Ông Bảy). Một câu, một hơi, môi khớp từng âm: Bác sĩ Linh (@Bác sĩ Linh): "Phút mười lăm." · Mây (@May): "Còn hai mươi ba."
-00:07.0–00:10.0 | Static 28mm wide, the stillness after — Bác sĩ Linh (@Bác sĩ Linh) bấm đồng hồ trong túi áo. Đứng hình nửa giây, kể cả gió.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Establish how Dũng finds the van so his return feels earned and threatening.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 44.4, ending with Cart partly lifted, space just opening at the gate.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Dũng behind a crate seeing the stretcher enter Bảy's van.
+
+[CAMERA]
+50mm stable over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Observe from behind his established crate, van path ahead and Mây turning from the pier.
+Focus: Keep the path and both endpoints legible instead of obscuring everything in shallow darkness.
+
+[ACTION — 0–10s, one evolving take]
+He follows the cleared stretcher path as Mây turns back from the pier.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let him commit to the route once; finish before confrontation so Mây's blocking action remains the next new beat.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Dũng follows the visible stretcher route along the wall, staying on the same side of the lane.
+Performance: His attention is fixed on reclaiming Sơn, while Mây's quick look shows she has noticed the approach.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Crate edge stays a foreground boundary, floodlight spill fades naturally toward the protected rear lane.
+
 
 [SOUND]
-Âm thanh nền: cột đèn ù điện, biển đêm; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: soft radio traffic and distant pier commands.
+Foreground sound: His boots soften near the wall, van sounds provide the direction he follows, no stealth-music cue.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Bác sĩ Linh (@Bác sĩ Linh) bấm đồng hồ trong túi áo for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Dũng moving along the wall, Mây noticing him before the van.
+Next shot 44.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

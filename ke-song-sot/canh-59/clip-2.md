@@ -1,27 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 1, matching position, light and 16:9 framing exactly, as one unbroken take.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ trên đồi dương, chiều ngày 8, nắng vàng, gió.
-Scene 59/60, timecode 58:00 – 59:00, clip 2/6 (10–20s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium-wide framing the figures in the room — Không có khoảng dừng giữa hai clip: Mây (@May) ngồi xuống bàn, lấy sổ tay, viết (không chữ đọc được); mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 35mm medium shot framing the interaction clearly — gió lật trang.
-00:07.0–00:10.0 | Static 28mm wide, the stillness after — cô gấp sổ. Lời dẫn trầm, không ai nói trong khung: Mây (@May) (Voice-over): "Người giữ luật không được bỏ sót." · Mây (Voice-over): "Tôi ghi: bảy vạch, một người dậy." Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[TIMELINE AND LOCATION]
+Scene 59/60, clip 2/6; shot 59.2. Story time: D8 afternoon.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Day-eight afternoon, warm working porch light, pine shadows moving naturally.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Preserve the fact of seven days without starting a new ritual of waiting.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 59.1, ending with Empty bed, cleared table, repair box by the threshold.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Seven marks on the damaged doorframe, no eighth mark.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Lock the detail on the SAME damaged frame with exactly seven marks and Mây's phone.
+Focus: Keep tally depth and phone relation clear, avoiding readable screen text or a second overlapping photograph.
+
+[ACTION — 0–10s, one evolving take]
+Mây photographs the marks once for the file, then puts the camera away.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One record completes the task; end with the wood still part of a door being repaired, not an altar.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She documents the wood once, lowers the phone and leaves the marks unaltered.
+Performance: Her hands are professional and gentle, not hovering over a potential eighth cut or secret message.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Same wooden doorframe. Exactly 7 tally marks at the start and 7 at the end of THIS shot. No other tally row.
+
+[VISIBLE TEXTURE]
+Seven marks remain seven, no knife, hair clip or new scratched row is introduced.
+
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: One camera sound and the phone returning to rest are enough, with ordinary cabin wind.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Mây (@May) ngồi xuống bàn, lấy sổ tay, viết (không chữ đọc được) for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Seven marks still in wood, Mây's phone lowered.
+Next shot 59.3: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

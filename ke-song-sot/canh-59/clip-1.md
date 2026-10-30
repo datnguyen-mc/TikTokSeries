@@ -1,30 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
+
+
+
+[TIMELINE AND LOCATION]
+Scene 59/60, clip 1/6; shot 59.1. Story time: D8 afternoon.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Day-eight afternoon, warm working porch light, pine shadows moving naturally.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Keep the cabin part of a working town rather than a monument reserved for Sơn.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 58.6, ending with Empty crossroad, transport sound receding inland.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Cabin door open, Bảy carrying a repair box, Mây with the final rental inventory.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The wide establishes Bảy with repair box and Mây doing the final inventory in the emptied room.
+Focus: Keep room proportions and threshold readable, not a mournful push toward an absent person's bed.
+
+[ACTION — 0–10s, one evolving take]
+They check the now-empty room together rather than preserving it as a shrine.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Complete the inventory as work, ending ready to repair rather than pausing as if this were the final scene.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: They check the bed and table, then turn naturally toward the door to be repaired this afternoon.
+Performance: Bảy's practical line refuses a shrine without dismissing what happened, Mây accepts the ordinary future use.
+
+
+[DIALOGUE]
+0.8–4.4s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Ông Bảy (@Ông Bảy), nói trong hình: Chiều nay tui sửa cửa. Nhà còn cho thuê.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
-LỊCH BẢY NGÀY (the seven-day count): short lines carved into the wooden doorframe of the cabin with a small metal pocket tool, one per day.
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ trên đồi dương, chiều ngày 8, nắng vàng, gió.
-Scene 59/60, timecode 58:00 – 59:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+Cleared table, empty bed and existing repair box carry the material change, no sentimental objects left behind.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
-
-[SHOT LIST]
-00:00–00:03.5 | Steady 50mm medium shot establishing the tension — Vào cảnh: Mây (@May) lên đồi một mình, vào nhà gỗ: giường gấp, bàn trống, radio; mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 35mm slow dolly, the key object visible in foreground — bảy vạch trên khung cửa.
-00:07.0–00:10.0 | Slow 85mm close-up on the hand and face — cô đứng ở ngưỡng cửa, không bước vào ngay. Dừng ở khung này nửa giây để clip 2 nối vào.
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: Wood creak and box placement accompany conversation, pine wind present without a sad musical reprise.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Cô đứng ở ngưỡng cửa, không bước vào ngay. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Empty bed, cleared table, repair box by the threshold.
+Next shot 59.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

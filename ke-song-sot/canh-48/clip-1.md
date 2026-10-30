@@ -1,27 +1,63 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-CLIFF ROAD AT NIGHT: a narrow road climbing the cliff from the town to the lighthouse, a motorbike headlight, sea wind, no streetlights.
-Story setting: Đường vách đá lên hải đăng, đêm, đèn xe máy, gió biển, không đèn đường.
-Scene 48/60, timecode 47:00 – 48:00, clip 1/6 (0–10s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | Handheld 28mm tracking from shoulder level — Thiết lập không gian: Sơn (@Son) phóng xe máy của Phó Thành (@Phó Thành) lên đường vách đá; sỏi trắng dưới bánh. Lời dẫn trầm, không ai nói trong khung: Sơn (@Son) (Voice-over): "Ba mươi năm tôi chạy đi. Đêm nay lần đầu tôi chạy tới."
-00:03.5–00:07.0 | 35mm low angle tracking the movement — không mũ (anh đội mũ Phó Thành (@Phó Thành) treo ở xe ngay sau đó), đèn pha cắt sương biển.
-00:07.0–00:10.0 | 50mm medium close-up on the face after the movement — chân còn run trên cần số. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 48/60, clip 1/6; shot 48.1. Story time: D7 night continuous.
+Winding paved road from harbour to lighthouse main entrance, same motorcycle moving left to right uphill, sea south.
+Night road lit by motorcycle headlamp, lighthouse work lights and low practicals inside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the climb feel purposeful while preserving Sơn's limited condition and Mây's leadership.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 47.6, ending with Motorcycle leaving left to right, Sơn seated steadily behind her.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Same motorcycle already on the lower cliff road, travelling left to right.
+
+[CAMERA]
+35mm smooth lateral tracking in the established movement direction. No whip pan, drone move or reverse-axis cut.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Track laterally with the same motorcycle moving left to right uphill, no aerial detour.
+Focus: Keep both helmeted profiles and the road bend readable with the same tracking distance.
+
+[ACTION — 0–10s, one evolving take]
+Mây rides uphill at a controlled speed while Sơn braces against the rear rail.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Maintain momentum through one visible bend, ending near the lighthouse approach without adding a near-crash.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây holds a measured line, Sơn braces on the rear rail rather than leaning forward as a second rider.
+Performance: His concentration appears in rigid shoulders and careful breathing; her attention remains on the road.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Existing headlamp supplies road light, dark sea remains below, no new rain or cinematic spray appears.
+
 
 [SOUND]
-Âm thanh nền: máy xe máy gào lên dốc; nhịp gõ nhanh tăng dần. Lời thoại nổi trên nền.
+Location bed: motorcycle engine, tires on road and sea wind.
+Foreground sound: The established engine note continues, joined by tires and wind, not a fresh chase-music track.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Sơn (@Son) phóng xe máy của Phó Thành (@Phó Thành) lên đường vách đá, không mũ (anh đội mũ Thành treo ở xe ngay sau đó), đèn pha cắt sương biển for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Motorcycle approaching the lighthouse bend, both helmets still on.
+Next shot 48.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

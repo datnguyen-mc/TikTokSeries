@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN in the past (45, the Ghost in his signature dark attire): a real Vietnamese man, about 176 cm tall, lean, cropped black hair greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose (signature detail), in a plain black suit with no tie, white shirt open at the collar, polished black shoes, black leather gloves. Voice: low, dry, unhurried Southern Vietnamese male voice. Not resembling any real actor.
-@HaiNgoc = BÀ HAI NGỌC (60, matriarch of the Rắn Đen syndicate, owner of a silk shop as a front): a real Vietnamese woman, about 158 cm tall, small and upright, silver hair in a tight bun, powdered calm face, eyes that never blink first, a thick jade bracelet on her LEFT wrist (signature detail), a long black unlit holder in her hand. Outfit: a violet silk áo bà ba with a high collar, black silk trousers, embroidered slippers. Voice: soft, slow, sweet Southern Vietnamese female voice, around 60.
+[CHARACTERS — approved identities and current appearances]
+@HaiNgoc = Bà Hai: same approved identity, age 35; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. distant past, black hair in the same tight bun, simpler violet áo bà ba, black trousers, left jade bracelet. Voice: soft, slow Southern Vietnamese female voice with precise diction.
+@Son = Sơn: same approved identity, age 20; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. distant past, black hair without grey, plain dark shirt and cheap dark trousers, BARE hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SILK SHOP (Rắn Đen front): a dim shop of silk bolts in a city lane, a back office with a teak desk, incense, a steel safe behind a screen, a small courtyard; amber night light.
-Story setting: Quá khứ, hẻm lụa thành phố, đêm mưa, tiệm lụa ánh đèn vàng.
-Scene 38/60, timecode 37:00 – 38:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Static 28mm wide, natural directional light shaping the scene — Chuyển cảnh thẳng, không mờ: hẻm lụa đêm mưa; cuộn lụa chất cao hai bên.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Bà Hai Ngọc (@HaiNgoc) đứng dưới hiên tiệm lụa. Máy ở trên mặt người nói khi câu bắt đầu: Bà Hai Ngọc (@HaiNgoc): "Con ăn gì chưa?"
-00:07.0–00:10.0 | 50mm medium close-up with shallow depth of field — nhìn Sơn (@Son) đứng ướt sũng dưới mưa bên hiên với hai bàn tay trắng lạnh cóng. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 38/60, clip 1/6; shot 38.1. Story time: PAST twenty-five years earlier rainy evening.
+Narrow rear alley of the silk shop, stockroom door beneath a shallow awning.
+Distant-past rainy evening, warm silk-shop lamps and cooler street rain.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the remembered kindness believable enough that rejecting Bà Hai later will hurt.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 37.6, ending with Copy envelope in right hand, left wrist bandaged, no weapon.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place; no transformation, morph, dissolve or replay of the old shot.
+
+[START FRAME — state only, not an action to repeat]
+Young Sơn empty bare palms below the silk-shop awning, young Bà Hai watching from within.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Match the region of empty young palms into the wide awning view, young Bà Hai already sheltered.
+Focus: Keep palms and their relative shelter readable, no impossible morph between old and young faces.
+
+[ACTION — 0–10s, one evolving take]
+She offers shelter, Sơn enters without a bag or trade tools.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let him hesitate before accepting cover, giving the kindness a small real cost in trust.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She offers entry, he moves only as far as cover, without inventing childhood or extra possessions.
+Performance: He is hungry and wary, she practical and attentive rather than visibly plotting a future crime.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Bà Hai (@HaiNgoc), nói trong hình: Vào ăn trước đã.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Rain-dark cheap clothes and the dry awning establish the immediate value of what she gives.
+
 
 [SOUND]
-Âm thanh nền: két sắt xoay, mưa trên mái hẻm; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: rain on the awning and city traffic far away.
+Foreground sound: Rain remains outside the shelter, her invitation direct and unornamented beneath it.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Hẻm lụa đêm mưa, Bà Hai Ngọc (@HaiNgoc) đứng dưới hiên tiệm lụa, nhìn Sơn (@Son) đứng ướt sũng dưới mưa bên hiên với hai bàn tay trắng lạnh cóng, perfectly still for half a second so clip 2 can continue without a cut.
+[END FRAME — natural motion continues]
+Young Sơn under the awning, rain behind him.
+Next shot 38.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,44 +1,38 @@
 # Kẻ Sống Sót: Bóng Ma — Cảnh 31: Bà Hai Ở Hải Đăng
 
-**Cảnh 31/60** · Phút 30:00 – 31:00 của phim · Hồi 2: Thuốc Tê · Tập 4/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 30](../canh-30/README.md) | [Cảnh 32 →](../canh-32/README.md)
+Phút 30:00–31:00 · Thời gian truyện: D6 night
 
----
+Bà Hai muốn lấy lại Sơn, anh đặt điều kiện gặp trực tiếp Hạ.
 
-## 1. Tóm tắt cảnh
-Đỉnh hải đăng đêm, gió lớn; Bà Hai Ngọc áo bà ba tím quấn khăn len, Dũng cầm đèn; Sơn bước lên cầu thang xoắn với cuốn sổ đỏ trong tay; Mây ở dưới chân tháp, trong tối. Sơn hỏi Hạ ở đâu; bà nói thật lần nữa: Kiên giữ ở một biệt thự ven thành phố, bà không biết địa chỉ, nó không tin bà. Sơn nói điều kiện: chiều mai, cảng cá, bà tới lấy sổ; Kiên cũng sẽ tới; "ai còn đứng sau hoàng hôn thì cầm sổ".
+**Câu hỏi đang mở:** Bà Hai muốn trả Hạ hay chỉ muốn lấy Sơn và Kiên về tay mình?
+**Móc vào cảnh:** Bà gọi về nhà từ nơi cao gió lạnh, lời thân tình đi cùng Dũng canh lối.
+**Điểm bẻ:** Bà không biết Hạ đang ở đâu, Sơn giữ bản sao và buộc bà chấp nhận gặp công khai.
+**Gieo / trả:** Bà cần Sơn tới mức phải ngăn Dũng; sự lệ thuộc của trùm được hé trước cao trào.
 
-* **Bối cảnh chính:** Hải đăng, đêm ngày 6, gió, đèn pin, xe đen dưới chân vách.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Bà Hai Ngọc (@HaiNgoc), Dũng Đinh (@Dũng)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | OPEN · Cắt thiết lập thời gian/không gian | Bà Hai and Dũng on the gallery, Sơn emerging from the stairs. | Sơn stops outside Dũng's reach with one copied ledger page. | Copied page in Sơn's right hand, stair route behind him clear. | Bà Hai (@HaiNgoc), nói trong hình: Về với má. Chuyện này má lo. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bà Hai facing Sơn across the gallery. | She offers to clear his old debts if he brings Kiên under her control. | Sơn listening without stepping closer. | Bà Hai (@HaiNgoc), nói trong hình: Đưa Kiên tới. Má lấy lại người cho con. |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Sơn listening without stepping closer. | Sơn asks whether she knows Hạ's holding place, Bà Hai cannot answer. | Bà Hai avoiding the question, Sơn looking toward the stairs. | Sơn (@Son), nói trong hình: Má bán cô ấy mà không biết đi đâu? |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Copied ledger page held above the gallery rail. | Sơn shows the signature and folds the copy back into his pocket. | Folded copy returned to Sơn's inner pocket, no book left behind. | Sơn, ngoài khung hình: Bản gốc có người giữ. Đụng tôi cũng vô ích. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng taking a step toward Sơn, Bà Hai raises one hand. | She stops Dũng and accepts a public exchange at the harbour. | Dũng stopped behind Bà Hai's hand, Sơn by the stairs. | Bà Hai (@HaiNgoc), nói trong hình: Má tới. Con giữ lời. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Mây waiting below the tower where she monitored the meeting. | Sơn rejoins her and reports the exchange will include both parties. | Two figures leaving by the same open main path. | Sơn (@Son), nói trong hình: Họ sẽ tới cảng. Phải thấy Hạ trước. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Đỉnh hải đăng đêm, gió lớn; Bà Hai Ngọc áo bà ba tím quấn khăn len, Dũng cầm đèn; Sơn bước lên cầu thang xoắn với cuốn sổ đỏ trong tay; Mây ở dưới chân tháp, trong tối.** | Bà Hai: "Lên đây lạnh. Má già rồi mà cũng lên." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Bà Hai nhìn sổ đỏ, không chìa tay; bà nói thật: sổ đó hạ gục bà, nhưng cũng hạ gục Kiên; bà cần Sơn hạ Kiên trước, "như hợp đồng cũ".** | Bà Hai: "Hợp đồng cũ, con. Vũ Kiên. Lần này thật." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn hỏi Hạ ở đâu; bà nói thật lần nữa: Kiên giữ ở một biệt thự ven thành phố, bà không biết địa chỉ, nó không tin bà.** | Sơn: "Hạ ở đâu?" · Bà Hai: "Kiên giữ. Nó không cho má biết." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Sơn đặt sổ đỏ xuống sàn hải đăng, không đưa cho bà, nói câu anh đã nói với Mây.** | Sơn: "Tôi hết việc rồi, má. Không ai thuê được tôi nữa." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Bà Hai nhìn cuốn sổ dưới chân, nhìn Sơn, mặt lần đầu mất bình thản; Dũng bước lên, bà giơ vòng ngọc chặn.** | Bà Hai: "Con bỏ má hả?" · Sơn: "Má bán con trước." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Sơn nói điều kiện: chiều mai, cảng cá, bà tới lấy sổ; Kiên cũng sẽ tới; "ai còn đứng sau hoàng hôn thì cầm sổ".** | Sơn: "Chiều mai, cảng cá. Má, Kiên, và tôi." · Bà Hai: "Rồi sao?" · Sơn: "Rồi Bóng Ma chết." | Frames / Extend (nối liền) |
+- **1:** Let the invitation home compete with the visible fact that Dũng can block the stairs. **Diễn xuất:** She sounds familiar rather than ceremonial; he must resist the bodily habit of obeying her.
+- **2:** Expose her need for Kiên while she continues to present control as motherly protection. **Diễn xuất:** Her reassurance should be almost habitual, then sharpen slightly on the demanded delivery.
+- **3:** Make the question expose the limit of her supposed maternal knowledge. **Diễn xuất:** His use of má should carry disappointed recognition, while her first hesitation is minute.
+- **4:** Show that he keeps the evidence boundary even while still emotionally caught by her. **Diễn xuất:** His hands stay measured; the fold is a refusal to leave anything within her reach.
+- **5:** Reveal that her remaining power depends on stopping Dũng, not simply ordering Sơn. **Diễn xuất:** She accepts with a trace of calculation under tenderness, Dũng resenting the check but obeying.
+- **6:** Return the solitary family confrontation to the shared rescue responsibility below. **Diễn xuất:** He reports facts tersely, withholding the private wound rather than reciting the entire meeting.
 
----
+**Âm nối sang cảnh sau:** Introduce clinic room tone over footsteps leaving the tower. The clinic meeting remains the same night.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

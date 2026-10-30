@@ -1,27 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 5: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-TOWN CROSSROAD AT DAWN: the crossroad at the edge of Hòn Sóng where the coach stops, dust, a signpost with no readable text, the sea white behind.
-Story setting: Ngã ba thị trấn biển Hòn Sóng, bình minh, nắng trắng, gió cát, xe đò cũ.
-Scene 1/60, timecode 00:00 – 01:00, clip 6/6 (50–60s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm medium close-up on the face, background softly blurred — Không cắt, cùng tư thế cuối clip trước: Sơn (@Son) ra hiên, nhìn xuống thị trấn nhỏ dưới nắng: cảng cá, hải đăng cũ trên vách; bụi xe đò tan.
-00:03.5–00:07.0 | Slow 50mm dolly in on the character's face, one slow-motion beat — gió thổi tóc bạc hai bên.
-00:07.0–00:10.0 | Slow 35mm pull-back holding the composition — Quay chậm vào mắt anh. Giọng kể phủ lên hình, không khẩu hình: Sơn (@Son) (Voice-over): "Cô ấy nói về biển này. Tôi tới trễ một tháng." Đứng hình nửa giây ở khung cuối, cảnh khép lại ở đây.
+[TIMELINE AND LOCATION]
+Scene 01/60, clip 6/6; shot 01.6. Story time: D1 dawn.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea.
+Soft coastal dawn, cool sea fill, gentle rising sun, no night lighting.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Attach the closed watch to a withheld emotional truth rather than explaining its contents.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 01.5, ending with One fresh mark, tool lowered out of frame.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn seated on the porch with his closed watch.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the watch at chest-to-lap height inside the medium frame, sea soft beyond his shoulder.
+Focus: Share useful focus between his fingers and face, never revealing the hidden watch interior.
+
+[ACTION — 0–10s, one evolving take]
+He turns the engraved lid toward the light without opening it.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the small rotation finish, then stay on the consequence without a second turn.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He rotates the engraved lid into existing light without touching the release clasp.
+Performance: His face should resist tears; one contained breath carries more weight than a mournful stare.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. After the escape it has stopped; do not add ticking or show the inner photo.
+
+[VISIBLE TEXTURE]
+Worn silver catches a narrow natural glint; jacket cuffs and salt air remain tactile.
+
 
 [SOUND]
-Âm thanh nền: gió cát trên cột biển; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: soft surf, pine wind and porch-board creaks.
+Foreground sound: The watch is silent in the present; only porch wood, wind and his breathing remain.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Let the porch sea wind fall under rain on the silk-shop awning. Cut to the existing silk curtain, not to another coach arrival.
 
-[END FRAME]
-Last frame: Quay chậm vào mắt anh, held motionless for half a second, then the scene ends.
+[END FRAME — natural motion continues]
+Closed watch in his hand, sea beyond his shoulder.
+Next shot 02.1: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

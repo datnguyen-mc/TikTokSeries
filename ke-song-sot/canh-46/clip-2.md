@@ -1,28 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 1, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+Continue the scene from the final frame of clip 1. Same composition at the seam, new action after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Dũng = DŨNG "ĐINH": 35, heavy-shouldered, buzz cut, nail-shaped silver earring in his LEFT ear, black sleeveless shirt; rough, loud Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. cut original cuff ring remains on RIGHT wrist; no usable loose cuff end. Voice: rough Southern Vietnamese male voice.
 
-[SETTING]
-FISH MARKET OF HÒN SÓNG: an open wharf-side fish market, crushed ice, plastic crates of squid and fish, hanging bulbs, blurred fishermen, a tin roof; no readable signs.
-Story setting: Sau chợ cá cạnh xe van, đêm, đèn cột xa, thúng, xe đẩy.
-Scene 46/60, timecode 45:00 – 46:00, clip 2/6 (10–20s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | Handheld 28mm pushing in as the distance closes — Máy ở nguyên chỗ, hành động đi tiếp: Dũng (@Dũng) lao vào; đá lạnh bốc hơi dưới bóng đèn.
-00:03.5–00:07.0 | 50mm speed-ramp on the decisive wrist-lock — Mây (@May) né, gậy vào gối, vào vai; hắn chịu được, đẩy cô vào xe đẩy.
-00:07.0–00:10.0 | 35mm low angle holding on the final posture — hai người lăn qua thúng. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 46/60, clip 2/6; shot 46.2. Story time: D7 night continuous.
+Outside rear of the same stationary van, market wall behind, loose cart to left, clear police-controlled lane.
+Same night, van lamp spilling into rear lane, harbour floodlight distant.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show Mây accepting support rather than insisting on a solitary victory.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 46.1, ending with Cart between them, Dũng off balance, Mây beside its handle.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action immediately; do not replay the preceding gesture or words. No freeze at the seam.
+
+[START FRAME — state only, not an action to repeat]
+Cart between them, Dũng off balance, Mây beside its handle.
+
+[CAMERA]
+35mm restrained handheld medium-wide. Keep the entire defensive action readable from one side of the axis, no speed ramp.
+Keep the exact previous camera, lens and axis; no framing reset.
+Composition: Continue the exact handheld setup and focal range from the cart obstruction, no new angle at the seam.
+Focus: Do not reset focus to a new face; let the existing medium-wide hold cart, steps and officer arrival.
+
+[ACTION — 0–10s, one evolving take]
+Dũng pushes the cart aside, Mây steps clear toward the arriving officer.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Advance directly from the prior stop; finish when the two-person boundary has formed, not after beginning restraint.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Dũng shoves the cart aside while Mây clears its path toward the officer already arriving.
+Performance: She checks the officer's position with one glance, Dũng realizes his route is now confronted by two people.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The moved cart stays at the side reached by the shove, no reset to its prior diagonal position.
+
 
 [SOUND]
-Âm thanh nền: tiếng rao mờ, mái tôn kêu nắng; một tiếng kim loại rơi làm dấu. Nền nhỏ hơn giọng người.
+Location bed: van-door latch and footsteps in the rear lane.
+Foreground sound: Wheels scrape continuously through the seam, followed by controlled boots, no new score beat.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Hai người lăn qua thúng. Hold that exact frame still for 0.5s; clip 3 starts from it.
+[END FRAME — natural motion continues]
+Mây beside the officer, Dũng facing two people rather than one.
+Next shot 46.3: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

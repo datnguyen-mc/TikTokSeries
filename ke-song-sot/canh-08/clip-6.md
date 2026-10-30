@@ -1,27 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 5. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-UNDERGROUND CAR PARK (past): an underground garage beneath a glass tower, yellow neon, concrete pillars, parked cars, a lift lobby, a large ventilation duct; night.
-Story setting: Quá khứ, bãi xe ngầm dưới tòa nhà kính, đêm, đèn neon vàng, cột bê tông.
-Scene 8/60, timecode 07:00 – 08:00, clip 6/6 (50–60s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm wide establishing the characters in the environment — Nối liền chuyển động đang dang dở: Sơn (@Son) trồi lên hẻm sau tòa nhà; xe đỗ im hàng dài.
-00:03.5–00:07.0 | 85mm medium close-up capturing the subtle reaction — mưa, thở.
-00:07.0–00:10.0 | 50mm hold on the face, no cut — nhìn về phía tiệm hoa cuối phố: đèn tiệm còn sáng, cửa kính mở toang. Voice-over, hình đi tiếp dưới lời dẫn: Sơn (@Son) (Voice-over): "Tôi thoát. Tôi tưởng đêm đó chỉ có tôi bị gài." Khung cuối bất động 0.5s rồi khép cảnh.
+[TIMELINE AND LOCATION]
+Scene 08/60, clip 6/6; shot 08.6. Story time: PAST one month earlier night.
+City rear lane, tower visible across the road, flower shop at street level beyond the corner.
+Recent-past garage at night, amber fluorescent practicals, moving search beams, no gunfire.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let the silent watch create a private loss before Sơn discovers a greater one at the flower shop.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 08.5, ending with Sơn outside the closed maintenance door, black gloves still on.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Sơn under the rear awning, closed watch in his hand.
+
+[CAMERA]
+50mm very slow straight push-in, no lens change, no orbit. The final expression remains readable.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The restrained push holds his closed watch near his face and the distant shop-light direction beyond.
+Focus: Favor his face and closed case at a sensible reading distance, leaving the shop as a distant light cue.
+
+[ACTION — 0–10s, one evolving take]
+He listens at the shut lid, hears no ticking, then sees the flower-shop lights.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Leave a small listening interval before the turn, so absence of sound motivates where his attention goes.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He listens at the lid without opening it, then turns toward the lights once the silence registers.
+Performance: His voice-over stays retrospective and dry; present expression is concentration giving way to alarm, not performed grief yet.
+
+
+[DIALOGUE]
+0.8–4.4s, one unhurried line. Voice-over only; visible mouths remain at rest.
+
+Sơn, lời dẫn ngoài hình: Đêm đó, thứ đầu tiên ngừng là đồng hồ.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. After the escape it has stopped; do not add ticking or show the inner photo.
+
+[VISIBLE TEXTURE]
+Wet lapel edges and muted silver retain the night's wear, with no inner watch face exposed.
+
 
 [SOUND]
-Âm thanh nền: lốp rít, thang máy ting; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: rain drips and faint traffic.
+Foreground sound: Suppress any ticking completely; rain drips and his breathing remain under the narration and distant city bed.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: City rain falls away, the arriving black car establishes present-day afternoon. Do not replay the garage escape.
 
-[END FRAME]
-Freeze on Nhìn về phía tiệm hoa cuối phố: đèn tiệm còn sáng, cửa kính mở toang for 0.5s; scene complete.
+[END FRAME — natural motion continues]
+His face turning toward the distant flower shop.
+Next shot 09.1: Cắt thiết lập thời gian/không gian. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

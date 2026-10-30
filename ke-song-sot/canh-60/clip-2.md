@@ -1,30 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 52; Vietnamese woman, slim build, gentle alert eyes, long black hair. older face, long hair with a little grey tied back, cream work blouse, green florist apron, the same pale-blue scarf. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 58; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. older face, more silver in the same short haircut, plain khaki shirt, dark trousers, ordinary motorcycle helmet when specified. Voice: firm, clear Southern Vietnamese female voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
 
-[SETTING]
-TOWN CROSSROAD AT DAWN: the crossroad at the edge of Hòn Sóng where the coach stops, dust, a signpost with no readable text, the sea white behind.
-Story setting: Ngã ba thị trấn Hòn Sóng, bình minh, nhiều năm sau, xe đò, cảng cá, sạp hoa.
-Scene 60/60, timecode 59:00 – 60:00, clip 2/6 (10–20s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
+[TIMELINE AND LOCATION]
+Scene 60/60, clip 2/6; shot 60.2. Story time: LATER many years after the case.
+Hạ completed flower stall years later at market entrance, working counter, old seven-mark wood strip discreetly fixed underneath, doorway toward coach stop.
+Many years later, soft coastal morning, same geography, mature faces with natural skin texture.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm tracking alongside the moving subject — Nhịp đầu nối thẳng, không chuyển: Mây (@May) đi ngang bằng xe máy; biển trắng phía sau.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — lọn tóc bạc nhiều hơn, dừng mua một bông ly như mọi sáng. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Mây (@May): "Hôm nay mấy vạch?" · Hạ (@Ha): "Mày đếm giùm tao đi."
-00:07.0–00:10.0 | 35mm steady framing looking ahead — hai người bạn không cần nói. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show enduring friendship as an ordinary purchase rather than a recap of every intervening year.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 60.1, ending with Shop open, Hạ behind the counter, morning customers blurred beyond.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Older Mây stopping outside the shop with her helmet in hand.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Medium coverage holds older Mây outside with helmet in hand and Hạ behind her counter.
+Focus: Keep faces and the transaction readable, no focus flourish on silver hair as an aging announcement.
+
+[ACTION — 0–10s, one evolving take]
+She buys one ordinary bunch and exchanges a familiar look with Hạ.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the exchange finish at working pace, with no hug, ceremonial pause or new promise to wait.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: One bunch changes hands and Hạ gives change, without either person explaining prison time or the case.
+Performance: Their familiar ease lives in a small look, Mây's invitation casual and specific to an everyday meal.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Chiều ghé ăn cơm nhé.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Mây's increased silver and Hạ's mature features stay consistent, helmet remains in hand and flowers remain one purchase.
+
 
 [SOUND]
-Âm thanh nền: xe đò rồ máy đi, bụi; gió và máy nổ. Thoại rõ, không nhạc đè lời.
+Location bed: sea breeze, flower wrapping and distant town morning sounds.
+Foreground sound: Paper and coins are small sounds under the line, shop and market bed continues naturally.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Hai người bạn không cần nói) for 0.5s; this is the first frame of clip 3.
+[END FRAME — natural motion continues]
+Flowers in Mây's hand, Hạ handing back change.
+Next shot 60.3: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

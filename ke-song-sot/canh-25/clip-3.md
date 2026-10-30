@@ -1,27 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 2, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+Continue the scene from the final frame of clip 2. Same composition at the seam, new action after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY in civilian clothes: 38, short hair with a white streak at the front, denim jacket over a dark T-shirt, jeans, small backpack; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+Sơn has removed his black jacket and put it on the bed; white shirt sleeves rolled, left wrist bandage visible. Jacket worn again only after the cut to scene 26.
 
-[SETTING]
-SMALL MOTEL ROOM: a small city motel room before dawn, a bed, a fan, a cracked mirror, grey light through blinds.
-Story setting: Phòng trọ rẻ tiền ven thành phố, rạng sáng ngày 5, quạt, gương nứt, rèm xám.
-Scene 25/60, timecode 24:00 – 25:00, clip 3/6 (20–30s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
+[TIMELINE AND LOCATION]
+Scene 25/60, clip 3/6; shot 25.3. Story time: D5 dawn.
+Small city motel, bed left, table by window, borrowed laptop, one fan, dawn light through grey curtains.
+Present-day dawn motel, pale window light and one warm bedside lamp.
 
-[SHOT LIST]
-00:00–00:03.5 | Wide 24mm angle showing the environment and path — Máy ở nguyên chỗ, hành động đi tiếp: Mây (@May) kể về Hạ (@Ha) thuở nhỏ: con gái người gác hải đăng; gương nứt bắt hình.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — trèo cao nhất lớp. Thoại khớp môi, người nghe ở nửa khung còn lại: Mây (@May): "Nó hay nói: biển buổi sáng màu xanh này. Chỉ vào cái khăn."
-00:07.0–00:10.0 | Wide 24mm showing the new position in the environment — hay nói "biển buổi sáng màu xanh này". Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the unlocked data matter by tying a digital authorization to the original signed book.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 25.2, ending with Locked folder opened, original evidence kept separately.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action immediately; do not replay the preceding gesture or words. No freeze at the seam.
+
+[START FRAME — state only, not an action to repeat]
+Locked folder opened, original evidence kept separately.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+Keep the exact previous camera, lens and axis; no framing reset.
+Composition: Preserve exactly the same detail framing, connections and table layout from the token shot.
+Focus: Both signature shapes must share the focal area; do not rely on reflected text in eyes.
+
+[ACTION — 0–10s, one evolving take]
+Mây matches the digital authorization to Kiên's signature in the red ledger.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the comparison complete visibly before the local copy is saved; no second unlocking flourish.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây brings the red signature page alongside the screen, comparing shapes before saving.
+Performance: Her confidence grows through checking, not a knowing smile for the camera.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Original RED cloth ledger, handwritten signature shapes, distinct from black leather ledger.
+
+[VISIBLE TEXTURE]
+Red fabric binding remains distinct from the dark laptop and separate original evidence sleeves.
+
 
 [SOUND]
-Âm thanh nền: nước nhỏ giọt, gà gáy; tiếng thở và tiếng đồ rơi. Nền nhỏ hơn giọng người.
+Location bed: fan and early traffic outside.
+Foreground sound: A page turn and one restrained keypress sit within the existing fan and phone bed.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Mây (@May) kể về Hạ (@Ha) thuở nhỏ: con gái người gác hải đăng, trèo cao nhất lớp, hay nói "biển buổi sáng màu xanh này". Hold that exact frame still for 0.5s; clip 4 starts from it.
+[END FRAME — natural motion continues]
+Matched signature shapes, Mây saving a local copy.
+Next shot 25.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,29 +1,67 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
-@Ông Bảy = ÔNG BẢY (70, owner of the seafront coffee stall): a stout old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, a conical hat, always wiping a glass. Voice: loud, cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. one glasses arm bent, held by tape after rescue. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Hòn Sóng, sáng ngày 7, nắng trắng, đường chính, cảng cá.
-Scene 35/60, timecode 34:00 – 35:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm wide establishing the characters in the environment — Vào cảnh: Quán bờ kè: Mây (@May) đứng trên ghế nói với hai mươi người dân chợ; ghe va mạn, dây neo căng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — ngư dân, Ông Bảy (@Ông Bảy). Người nói ở tiền cảnh, môi rõ, người nghe mờ phía sau: Mây (@May): "Hoàng hôn, ai cũng ở trong nhà. Trừ người tôi gọi tên."
-00:07.0–00:10.0 | 50mm hold on the face, no cut — cô vẽ cảng cá lên bàn bằng ngón tay ướt. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 35/60, clip 1/6; shot 35.1. Story time: D7 morning.
+Bảy coffee stall, green canvas awning, counter landward, plastic tables seaward, street visible in the counter mirror.
+Present-day clear morning, coastal daylight, warm sheltered van and cabin interiors.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Turn help from the town into bounded jobs, not a speech summoning a heroic crowd.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 34.6, ending with Thành marking the confirmed positions, Mây acknowledging.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Mây beside a harbour sketch, Bảy and Thành listening.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep three named people and the harbour sketch inside the wide coffee-stall frame.
+Focus: Keep the handover readable enough to account for later cuffs without a dedicated equipment insert.
+
+[ACTION — 0–10s, one evolving take]
+Thành gives Mây two fresh pairs of cuffs, she assigns the van to the rear lane and orders civilians off the pier.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Hand over equipment first, assign routes second, end as the three separate into their jobs.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Thành passes two fresh cuff pairs; Mây directs Bảy toward the rear lane and then disperses them.
+Performance: She is firm about keeping civilians away, both men listening as workers with specific tasks.
+
+
+[DIALOGUE]
+0.8–4.4s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Chiều nay đóng sạp sớm. Không ai xuống cầu.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Everyday glasses, table stains and practical work clothing keep the briefing embedded in town life.
+
 
 [SOUND]
-Âm thanh nền: cột đèn ù điện, biển đêm; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: glasses touching and awning cloth in sea wind.
+Foreground sound: Her one instruction sits over the opening-stall bed, no cheers or martial rhythm.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Cô vẽ cảng cá lên bàn bằng ngón tay ướt. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Three people each taking their own route away from the table.
+Next shot 35.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

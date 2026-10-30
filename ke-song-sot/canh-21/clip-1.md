@@ -1,28 +1,63 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@May = MÂY in civilian clothes (38): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, short black hair with a single white streak at the front (signature detail), in a denim jacket over a dark T-shirt, jeans, sneakers, a small backpack, steel cuffs tucked in her jacket. Voice: firm, dry, slightly amused Southern Vietnamese female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-NIGHT COACH: the inside of an old sleeper coach at night, blue cabin light, rain on windows, the road to the coast.
-Story setting: Xe đò giường nằm chạy đêm về thành phố, đêm ngày 4, đèn cabin xanh, mưa trên kính.
-Scene 21/60, timecode 20:00 – 21:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm balanced framing, held steady — Mở cảnh: Xe đò đêm, hàng ghế cuối; ghế nằm cuối xe. Voice-over, hình đi tiếp dưới lời dẫn: Sơn (@Son) (Voice-over): "Ngày bốn. Tôi về thành phố bằng đường tôi đã trốn."
-00:03.5–00:07.0 | 85mm push-in on the face and the key detail — Sơn (@Son) áo khoác ô liu ngồi cạnh cửa sổ, Mây (@May) áo khoác jean, ba lô trên đùi; mưa chảy ngược trên kính.
-00:07.0–00:10.0 | Static 35mm medium shot holding on the quiet tension — cô nhìn anh mở túi vải. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 21/60, clip 1/6; shot 21.1. Story time: D4 night.
+Old overnight coach, Sơn at left window near rear, Mây across the aisle, travel bags above seats.
+Present-day night journey, blue coach practicals, neutral rest-stop lamps, no past amber timeline cue.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Place private dread beside Mây's still-active responsibility for the town.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 20.6, ending with Coach door closing, Thành remaining in town.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Sơn seated by the coach window, Mây across the narrow aisle.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the aisle as a narrow divider, bag low and her confirmation phone higher.
+Focus: Keep the suit reveal secondary until her patrol acknowledgement has registered.
+
+[ACTION — 0–10s, one evolving take]
+Mây checks the patrol confirmation while Sơn opens his travel bag.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Confirmation first, folded suit last; let that new object change the silence.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Both remain seated through the coach sway; Sơn opens the bag without crossing toward her.
+Performance: Mây reads efficiently then checks him, while Sơn avoids seeking permission for the suit.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Rain tracks outside, worn canvas and damp denim make this practical travel.
+
 
 [SOUND]
-Âm thanh nền: máy xe đò gầm, mưa trên kính; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: steady coach engine and rain on glass.
+Foreground sound: Maintain steady engine, soft rain and one small bag-clasp sound, without a suspense sting.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Cô nhìn anh mở túi vải) for 0.5s; this is the first frame of clip 2.
+[END FRAME — natural motion continues]
+Patrol message acknowledged, folded black suit visible in the bag.
+Next shot 21.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

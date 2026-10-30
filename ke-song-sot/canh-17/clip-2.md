@@ -1,27 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 1: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SMALL-TOWN POLICE POST: a tiled front room with a steel desk, a ceiling fan, an old computer, a holding room with a barred window, a motorbike outside; no readable insignia.
-Story setting: Đồn công an thị trấn, đêm ngày 3, quạt trần, máy tính cũ.
-Scene 17/60, timecode 16:00 – 17:00, clip 2/6 (10–20s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 28mm wide, single practical light source, deep shadows — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Phó Thành (@Phó Thành) đọc: công ty vỏ; song sắt cửa sổ đổ bóng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — tiệm lụa, nhà máy nước mắm bỏ hoang ven sông, dòng tiền hàng tháng. Máy ở trên mặt người nói khi câu bắt đầu: Phó Thành (@Phó Thành): "Tiệm lụa. Nhà máy nước mắm. Tháng nào cũng tiền."
-00:07.0–00:10.0 | 85mm close-up on the object and hands — cậu kính tròn đẩy lên trán, mồ hôi. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[TIMELINE AND LOCATION]
+Scene 17/60, clip 2/6; shot 17.2. Story time: D3 night.
+Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
+Present-day night station, neutral desk practical and monitor fill, no daylight.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let one matching sequence connect money to the factory, avoiding a stream of unfilmable numbers.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 17.1, ending with Original USB in evidence bag, copy connected to the computer.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Account folders open without readable text.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the detail composition across ledger edge, keyboard and broad account layout without demanding legible text.
+Focus: Hold the paper and screen relationship at usable depth, avoiding a fantastical sharp reflection of both in eyes.
+
+[ACTION — 0–10s, one evolving take]
+Thành matches the ledger dates to paid shipments at the river factory.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Reveal the correspondence once, then give the still-open ledger time to make the connection feel verified.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Thành aligns the existing dates and paid-shipment pattern, stopping on one correspondence rather than scrolling endlessly.
+Performance: His hands briefly slow at the match; the off-screen finding is restrained because more remains locked.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Thành, ngoài khung hình: Cùng xưởng. Cùng ngày chuyển tiền.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Original BLACK leather ledger, receipt and original USB initially fixed inside back cover.
+
+[VISIBLE TEXTURE]
+Screen light remains modest on paper grain, with highlighted shapes distinct from the original handwriting texture.
+
 
 [SOUND]
-Âm thanh nền: đèn tuýp ù nhẹ; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: ceiling fan and quiet paperwork.
+Foreground sound: A few real keystrokes stop before his sentence; do not add fabricated upload or access-granted alarms.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Phó Thành (@Phó Thành) đọc: công ty vỏ, tiệm lụa, nhà máy nước mắm bỏ hoang ven sông, dòng tiền hàng tháng, perfectly still for half a second so clip 3 can continue without a cut.
+[END FRAME — natural motion continues]
+A matching sequence highlighted, ledger open beside the keyboard.
+Next shot 17.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

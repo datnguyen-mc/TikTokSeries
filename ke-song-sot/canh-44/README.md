@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 44: Cảng Cá Nổ Tung
+# Kẻ Sống Sót: Bóng Ma — Cảnh 44: Lối Thoát Bị Chặn
 
-**Cảnh 44/60** · Phút 43:00 – 44:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 43](../canh-43/README.md) | [Cảnh 45 →](../canh-45/README.md)
+Phút 43:00–44:00 · Thời gian truyện: D7 early night
 
----
+Kiên lên tháp qua lối phụ, tuyến cứu Sơn và truy bắt tách rõ.
 
-## 1. Tóm tắt cảnh
-Hỗn chiến: ngư dân quăng lưới trùm hai tên Rắn Đen, ông Bảy đẩy xe đẩy đá vào chân vệ sĩ Kiên; Mây quét chân một tên, khóa tay bằng dây lưới. Kiên đẩy Hạ vào xe trắng, vệ sĩ bị lưới; ông ta tự lái, xe trắng rú ga lùi khỏi cầu cảng, quay đầu về đường lên vách đá. Bà Hai đứng giữa cầu cảng trong hỗn loạn, không chạy; Dũng kéo bà về xe đen; bà hất tay, ngồi xuống ghế đá cột đèn, châm tẩu.
+**Câu hỏi đang mở:** Lực lượng có tới Hạ trước khi Kiên khóa được đường lên tháp?
+**Móc vào cảnh:** Xe bị khóa đường, Kiên chọn lối bộ hẹp chứ không biến mất bằng ô tô.
+**Điểm bẻ:** Hai tuyến cứu người tách ra; Sơn bất động, Hạ phải tự tạo thời gian.
+**Gieo / trả:** Trả bản đồ39, giữ một đường truy đuổi đọc được trên hình.
 
-* **Bối cảnh chính:** Cầu cảng và chợ cá, đêm vừa xuống, đèn trắng, lưới, thúng, hai xe.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Hạ (@Ha), Bà Hai Ngọc (@HaiNgoc), Dũng Đinh (@Dũng), Vũ Kiên (@Vũ Kiên), Phó Thành (@Phó Thành), Bác sĩ Linh (@Bác sĩ Linh), Ông Bảy (@Ông Bảy)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Officers securing the two cars and the public pier, no civilians in the fight. | Mây directs one team to clear the blocked service gate, another to secure witnesses. | Cars secured, service-gate team starting to lift the cart. | Mây (@May), nói trong hình: Một tổ lên tháp. Giữ người còn lại. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn supported upright on the stretcher, Linh beside him. | Linh checks his breathing as Bảy guides the stretcher into the van. | Sơn on the secured mattress, Linh inside, Bảy by the rear door. | Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Vào xe. Tôi theo dõi ở đây. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Hạ at the top of the service stair, Kiên behind her with a handgun kept low. | She slows at an old hatch, keeping him talking while studying the latch. | Hạ beside the hatch, Kiên turning to listen for pursuit. | Hạ (@Ha), nói trong hình: Lối này không ra đường lớn đâu. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Thành and an officer at the still-blocked lower gate. | They cut the cart's tangled securing rope and radio the delay. | Cart partly lifted, space just opening at the gate. | Thành, qua thiết bị: Lối phụ bị chặn. Đang mở. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng behind a crate seeing the stretcher enter Bảy's van. | He follows the cleared stretcher path as Mây turns back from the pier. | Dũng moving along the wall, Mây noticing him before the van. | — |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Sơn's eyes open on the van mattress, lamp beside his face. | He tries to move his bandaged left hand but cannot yet lift it. | Breathing visible, left hand still on the mattress. | Sơn, lời dẫn ngoài hình: Tôi nghe được. Chưa giúp được ai. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Hỗn chiến: ngư dân quăng lưới trùm hai tên Rắn Đen, ông Bảy đẩy xe đẩy đá vào chân vệ sĩ Kiên; Mây quét chân một tên, khóa tay bằng dây lưới.** | Ông Bảy: "Quán tui! Trả tiền cà phê!" | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Dũng vác Sơn đang bất động lên vai định mang về xe đen (đưa người làm bằng); Mây chặn, gậy ba khúc vào gối hắn; Sơn rơi xuống thúng cá, mềm.** | Mây: "Người này của thị trấn tôi." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Kiên đẩy Hạ vào xe trắng, vệ sĩ bị lưới; ông ta tự lái, xe trắng rú ga lùi khỏi cầu cảng, quay đầu về đường lên vách đá.** | Hạ (trong xe): "Sơn!" · Kiên: "Hắn chết rồi. Giữ cô, tôi còn giá." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Thành trên nóc chợ thấy xe trắng rẽ lên đường hải đăng; cậu hét xuống; Mây ngẩng lên.** | Thành: "Xe trắng lên hải đăng! Có Hạ!" | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Mây và Linh kéo Sơn ra khỏi thúng cá, khiêng vào xe van ông Bảy; Linh bấm đồng hồ trong túi áo.** | Bác sĩ Linh: "Phút mười lăm." · Mây: "Còn hai mươi ba." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Bà Hai đứng giữa cầu cảng trong hỗn loạn, không chạy; Dũng kéo bà về xe đen; bà hất tay, ngồi xuống ghế đá cột đèn, châm tẩu.** | Dũng: "Bà Hai, đi!" · Bà Hai: "Má hết chỗ đi rồi, con." | Frames / Extend (nối liền) |
+- **1:** Show the intervention narrowing to distinct tasks instead of an undefined harbour brawl. **Diễn xuất:** Her authority remains focused; officers acknowledge through movement rather than a chorus of repeated commands.
+- **2:** Keep the audience connected to Sơn's physical condition while the pursuit moves elsewhere. **Diễn xuất:** Linh's reassurance is addressed to the patient, Bảy concentrates on the door clearance, no comic reaction.
+- **3:** Make Hạ use familiarity with the tower before she can reach any physical advantage. **Diễn xuất:** She delivers the warning as practical knowledge, masking how closely she is assessing the latch.
+- **4:** Make the delay measurable by progress on the exact obstruction already shown. **Diễn xuất:** Thành keeps his voice functional, frustration present only in the speed of one glance upstairs.
+- **5:** Establish how Dũng finds the van so his return feels earned and threatening. **Diễn xuất:** His attention is fixed on reclaiming Sơn, while Mây's quick look shows she has noticed the approach.
+- **6:** Make helpless awareness replace the old fantasy that Sơn controls every situation. **Diễn xuất:** Eyes stay alert and frustrated, breath remains present, narration is internal with visible lips at rest.
 
----
+**Âm nối sang cảnh sau:** Keep Sơn breathing unchanged across the cut to Linh beside him. Hạ route returns only in its next dedicated shot.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 46: Dũng Đinh Vs Mây
+# Kẻ Sống Sót: Bóng Ma — Cảnh 46: Mây Giữ Cửa
 
-**Cảnh 46/60** · Phút 45:00 – 46:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 45](../canh-45/README.md) | [Cảnh 47 →](../canh-47/README.md)
+Phút 45:00–46:00 · Thời gian truyện: D7 night continuous
 
----
+Mây khống chế Dũng bằng còng mới, Sơn trở lại từng chút.
 
-## 1. Tóm tắt cảnh
-Dũng bước tới cửa sau xe van, cổ tay còn còng gãy, mắt tìm Sơn: hắn tới đưa người về cho bà Hai; Mây đứng chắn cửa, gậy ba khúc. Dũng đè Mây xuống bê tông, tay ghì cổ áo kaki; cô kẹp cổ tay hắn, xoay, dùng cái còng gãy trên tay hắn làm đòn bẩy bẻ ngược. Mây ngồi thở bên Dũng bị còng vào cửa xe; hắn nhìn vào trong xe, thấy mắt Sơn mở, thấy ngón tay Sơn giật một cái quanh đồng hồ.
+**Câu hỏi đang mở:** Mây có giữ được người bệnh mà không biến thành người đánh đổi người?
+**Móc vào cảnh:** Dũng tới đúng vệt cáng vừa qua, không xuất hiện ngẫu nhiên.
+**Điểm bẻ:** Cô nhận hỗ trợ, khống chế Dũng đúng nhiệm vụ, Sơn bắt đầu cử động.
+**Gieo / trả:** Trả hai còng mới35; kết thúc mối đe dọa tay sai trước đỉnh tháp.
 
-* **Bối cảnh chính:** Sau chợ cá cạnh xe van, đêm, đèn cột xa, thúng, xe đẩy.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Dũng Đinh (@Dũng), Bác sĩ Linh (@Bác sĩ Linh)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây between Dũng and the van doors, loose cart to her left. | Dũng rushes for the van door, Mây angles a loose cart into his direct path. | Cart between them, Dũng off balance, Mây beside its handle. | Mây (@May), nói trong hình: Anh không đưa ai đi nữa. |
+| [2](clip-2.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Cart between them, Dũng off balance, Mây beside its handle. | Dũng pushes the cart aside, Mây steps clear toward the arriving officer. | Mây beside the officer, Dũng facing two people rather than one. | — |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Mây beside the officer, Dũng facing two people rather than one. | Mây and the officer control Dũng's arms against the van side without a head strike. | Dũng restrained standing, both arms controlled. | — |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | A fresh intact pair of Mây's issued cuffs in her hands. | She secures Dũng's wrists together and hands him to the officer. | Dũng cuffed to himself under escort, old cut cuff still separately visible. | Mây, ngoài khung hình: Niêm phong cả chiếc cũ trên tay hắn. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn still on the mattress, watch closed in his right hand. | His fingers begin moving, Linh helps him sit partway without letting him stand. | Sơn propped against a support, left wrist still weak. | Sơn (@Son), nói trong hình: Tôi cử động được rồi. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Dũng under escort beside the van, Mây checking her radio. | He realizes Sơn remains alive and can testify, stops asking to take him. | Dũng led toward the custody vehicle, Mây returning to the van. | Dũng (@Dũng), nói trong hình: Má tưởng giữ được nó mãi. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Dũng bước tới cửa sau xe van, cổ tay còn còng gãy, mắt tìm Sơn: hắn tới đưa người về cho bà Hai; Mây đứng chắn cửa, gậy ba khúc.** | Dũng: "Người nó. Tao đem về cho bà." · Mây: "Thị trấn này không giao người." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Dũng lao vào; Mây né, gậy vào gối, vào vai; hắn chịu được, đẩy cô vào xe đẩy; hai người lăn qua thúng.** | — | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Dũng đè Mây xuống bê tông, tay ghì cổ áo kaki; cô kẹp cổ tay hắn, xoay, dùng cái còng gãy trên tay hắn làm đòn bẩy bẻ ngược.** | Mây (nghiến răng): "Còng của tôi. Trả." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Nhịp chậm: Mây đạp Dũng bật vào thành xe van, bập đầu còn lại của chính cái còng hắn đang đeo vào tay nắm cửa xe; hắn giật, xe rung, không rời.** | Mây: "Lần này tôi khóa đúng chỗ." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Trong xe, Linh nhìn đồng hồ: ba mươi hai; ông chuẩn bị ống thuốc nhỏ, lau cẳng tay Sơn.** | Bác sĩ Linh: "Ba mươi hai. Sáu phút nữa." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Mây ngồi thở bên Dũng bị còng vào cửa xe; hắn nhìn vào trong xe, thấy mắt Sơn mở, thấy ngón tay Sơn giật một cái quanh đồng hồ.** | Dũng: "Nó... còn sống?" · Mây: "Nó chưa quyết." | Frames / Extend (nối liền) |
+- **1:** Turn the established cart into a simple barrier, not an extravagant winning stunt. **Diễn xuất:** She delivers the refusal through concentration, not a triumphant taunt; he is surprised only for a beat.
+- **2:** Show Mây accepting support rather than insisting on a solitary victory. **Diễn xuất:** She checks the officer's position with one glance, Dũng realizes his route is now confronted by two people.
+- **3:** Make the restraint a result of cooperation, preserving both the patient boundary and Mây's role. **Diễn xuất:** Dũng's resistance decreases through lost leverage, while Mây stays intent rather than furious.
+- **4:** Distinguish the new lawful restraint from the broken cuff Dũng has carried back. **Diễn xuất:** Hands work efficiently without a victory flourish; Dũng no longer dictates when anyone leaves.
+- **5:** Let returning movement feel incremental and uncertain instead of a switch back to action-hero strength. **Diễn xuất:** Sơn's relief is restrained by effort, and Linh watches the movement without celebrating a complete recovery.
+- **6:** Let Dũng understand he has lost the right to move Sơn anywhere. **Diễn xuất:** His line is a bitter recognition of Bà Hai's failed ownership, not a new threat or sequel promise.
 
----
+**Âm nối sang cảnh sau:** Custody footsteps recede, incoming van breathing introduces seated Sơn. His watch remains closed and silent.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

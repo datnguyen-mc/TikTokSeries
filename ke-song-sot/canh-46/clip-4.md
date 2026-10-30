@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 3. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Dũng = DŨNG "ĐINH": 35, heavy-shouldered, buzz cut, nail-shaped silver earring in his LEFT ear, black sleeveless shirt; rough, loud Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. fresh custody cuffs applied at 46.4; the cut old cuff is removed and logged separately, not reused. Voice: rough Southern Vietnamese male voice.
 
-[SETTING]
-FISH MARKET OF HÒN SÓNG: an open wharf-side fish market, crushed ice, plastic crates of squid and fish, hanging bulbs, blurred fishermen, a tin roof; no readable signs.
-Story setting: Sau chợ cá cạnh xe van, đêm, đèn cột xa, thúng, xe đẩy.
-Scene 46/60, timecode 45:00 – 46:00, clip 4/6 (30–40s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | Handheld 28mm pushing in as the distance closes — Cùng ánh sáng, cùng vị trí, đi tiếp: Mây (@May) đạp Dũng (@Dũng) bật vào thành xe van; nước chảy dọc lối đi.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync, one slow-motion beat — bập đầu còn lại của chính cái còng hắn đang đeo vào tay nắm cửa xe. Thoại nói khi đang làm việc tay, môi vẫn khớp: Mây (@May): "Lần này tôi khóa đúng chỗ."
-00:07.0–00:10.0 | Wide 24mm showing the quiet aftermath in the space — hắn giật, xe rung, không rời. Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[TIMELINE AND LOCATION]
+Scene 46/60, clip 4/6; shot 46.4. Story time: D7 night continuous.
+Outside rear of the same stationary van, market wall behind, loose cart to left, clear police-controlled lane.
+Same night, van lamp spilling into rear lane, harbour floodlight distant.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Distinguish the new lawful restraint from the broken cuff Dũng has carried back.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 46.3, ending with Dũng restrained standing, both arms controlled.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+A fresh intact pair of Mây's issued cuffs in her hands.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Lock the detail on Mây's fresh cuffs and Dũng's controlled wrists, existing officer maintaining position.
+Focus: Keep fresh intact chain and old cut component visually distinct, no sudden usable loose cuff end.
+
+[ACTION — 0–10s, one evolving take]
+She secures Dũng's wrists together and hands him to the officer.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let closure finish before transfer to escort; end on a settled controlled position rather than performing another arrest.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She secures the new pair once, while the old cut ring is kept visibly separate for logging.
+Performance: Hands work efficiently without a victory flourish; Dũng no longer dictates when anyone leaves.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Mây, ngoài khung hình: Niêm phong cả chiếc cũ trên tay hắn.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Steel is worn but clean, RIGHT-wrist old ring condition stays consistent with the earlier cut chain.
+
 
 [SOUND]
-Âm thanh nền: tiếng rao mờ, mái tôn kêu nắng; nhịp trống trầm theo từng đòn. Thoại rõ, không nhạc đè lời.
+Location bed: van-door latch and footsteps in the rear lane.
+Foreground sound: One concise cuff closure and her off-frame instruction, not repeated ratcheting for dramatic emphasis.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Hắn giật, xe rung, không rời) for 0.5s; this is the first frame of clip 5.
+[END FRAME — natural motion continues]
+Dũng cuffed to himself under escort, old cut cuff still separately visible.
+Next shot 46.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

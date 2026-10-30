@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 11: Bảy Vạch
+# Kẻ Sống Sót: Bóng Ma — Cảnh 11: Bảy Ngày Không Chạy
 
-**Cảnh 11/60** · Phút 10:00 – 11:00 của phim · Hồi 1: Bảy Ngày · Tập 2/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 10](../canh-10/README.md) | [Cảnh 12 →](../canh-12/README.md)
+Phút 10:00–11:00 · Thời gian truyện: D2 night
 
----
+Mây nhìn thấy nguy cơ, Sơn chấp nhận để lại một đường liên lạc.
 
-## 1. Tóm tắt cảnh
-Đêm, Sơn ngồi trước khung cửa, đèn dầu, cuốn sổ đen mở; hai vạch trên gỗ; anh nói với chính mình. Cắt: trên đồi cát đối diện, Mây nằm sấp trong cỏ với ống nhòm, áo mưa; cô thấy anh lau súng, thấy hộp lọ; cô hạ ống nhòm, thở ra. Trong nhà, Sơn liếc về phía đồi cát đối diện như biết có người, rồi tắt đèn dầu; trong tối, giọng anh.
+**Câu hỏi đang mở:** Mây đang nhìn kẻ bỏ trốn hay người cố để mình được thấy?
+**Móc vào cảnh:** Bức ảnh bị úp nhưng chiếc đồng hồ vẫn đóng.
+**Điểm bẻ:** Sơn bật đèn cho người quan sát thấy anh không bỏ đi.
+**Gieo / trả:** Ánh đèn được dùng như hành vi chấp nhận giám sát, không giả làm tín hiệu bí mật mới.
 
-* **Bối cảnh chính:** Nhà gỗ, đêm ngày 2, đèn dầu, gió; đồi cát đối diện.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Phó Thành (@Phó Thành)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | MATCH · Match cut hình dạng/tư thế, không morph | Closed tin beside the dispatch receipt under lamplight. | Sơn puts a pencil mark at the last shipping date, leaving the tin sealed. | Receipt weighted flat by the sealed tin. | Sơn, lời dẫn ngoài hình: Chuyến hàng đi rồi, dấu vết cũng đi. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn seated with a loose photograph of Hạ from his wallet. | He places the photograph face down when a distant motorcycle stops. | Loose photograph face down, Sơn looking toward the window. | — |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây behind a pine trunk overlooking the lit cabin. | She notices a dark case edge in the beam recess through the window and records the hiding place as a suspicion. | Binoculars lowered, Mây recording the observation. | — |
+| [4](clip-4.md) | J · J-cut: âm mới đến trước hình | Thành joining Mây below the ridge. | He hands her confirmation that the black car belongs to the dock company. | Company report in Mây's hand, cabin light behind them. | Thành (@Phó Thành), nói trong hình: Xe cùng công ty trên tờ giao hàng. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn at the cabin window with the watch lid still closed. | He senses the observer, switches on the porch light and steps slightly back within the visible window sightline. | Porch lit, Sơn visible inside but no longer at the window. | Sơn (@Son), nói trong hình: Tôi ở đây. Không đi đâu. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Mây and Thành below the newly lit porch. | Mây folds her notebook and orders the suspect approached in daylight. | Both moving down the dune path away from the cabin. | Mây (@May), nói trong hình: Sáng mai hỏi thẳng. Đừng để dân tới gần. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Đêm, Sơn ngồi trước khung cửa, đèn dầu, cuốn sổ đen mở; hai vạch trên gỗ; anh nói với chính mình.** | Sơn (Voice-over): "Luật của tôi: bảy ngày, sổ này phải lên mặt báo." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn lau súng bằng vạt áo rồi cất lại lên mái; thay vào đó đặt hộp thiếc ba lọ Tê lên bàn, kiểm từng lọ.** | Sơn (thì thầm): "Ngày thứ bảy không xong, tôi không chạy nữa." · Sơn (thì thầm): "Họ tới thì tôi ở đây." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Cắt: trên đồi cát đối diện, Mây nằm sấp trong cỏ với ống nhòm, áo mưa; cô thấy anh lau súng, thấy hộp lọ; cô hạ ống nhòm, thở ra.** | Mây (thì thầm): "Không phải khách." | Ingredients (cắt cảnh, đính lại ảnh) |
-| 4 | 00:30–00:40 | **Thành bò tới cạnh với điện thoại: tỉnh trả lời: biển số xe đen thuộc công ty vỏ ở thành phố, dính một đường dây tên Rắn Đen.** | Thành: "Xe đen là của Rắn Đen, chị." · Mây: "Vậy người trong nhà kia là ai của Rắn Đen?" | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Mây nhìn lại ống nhòm: Sơn đang mở nắp đồng hồ quả quýt, nhìn vào trong lâu hơn một người xem giờ, rồi đóng lại; cô không hiểu, nhưng thấy mặt anh.** | Mây: "Người sắp hại ai không có cái mặt đó." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Trong nhà, Sơn liếc về phía đồi cát đối diện như biết có người, rồi tắt đèn dầu; trong tối, giọng anh.** | Sơn (Voice-over): "Tôi để đèn sáng cho cô ấy thấy tôi không chạy." | Frames / Extend (nối liền) |
+- **1:** Revisit the shipping date as a decision to act on it, not a repeated explanation of the same clue. **Diễn xuất:** The marking pressure is firmer than the earlier tracing, indicating commitment rather than a new discovery.
+- **2:** Show Sơn guarding a private attachment when he suspects observation, without revealing the watch early. **Diễn xuất:** The concealment is protective and ashamed rather than evidence-destroying; his face changes before the hand finishes.
+- **3:** Make Mây's observation a plausible suspicion about a hiding place, preserving uncertainty and investigative discipline. **Diễn xuất:** Her expression should acknowledge incompleteness; she records carefully instead of reacting as though the case contents are proven.
+- **4:** Use Thành's report to tighten the connection between the visitors and shipping evidence, without another revelation speech. **Diễn xuất:** He delivers the finding low and efficiently, while her response is a silent recalibration rather than astonishment.
+- **5:** Make Sơn's response to being watched an offer to be seen rather than another attempt to hide. **Diễn xuất:** His quiet statement sounds addressed to whoever is outside, not a boast of superior awareness.
+- **6:** Let Mây respond to the offered visibility by choosing timing and public safety, not an impulsive raid. **Diễn xuất:** Her restraint is an active choice; Thành follows promptly instead of asking a second explanatory question.
 
----
+**Âm nối sang cảnh sau:** Carry pine wind across the night-to-morning cut, with a clear daylight change. The third mark is a new action.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Cắt cảnh: dán ở chế độ Ingredients*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

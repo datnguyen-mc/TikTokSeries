@@ -1,29 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Bác sĩ Linh = BÁC SĨ LINH: 55, thin, grey hair, wire glasses, worn white coat, stethoscope; tired, precise Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-ÔNG BẢY'S OLD VAN: the back of a dented old van turned into a field station, a mattress, a lamp, a medical bag, doors open to the night harbour.
-Story setting: Trong xe van, đêm, đèn pin, đồng hồ bấm giờ.
-Scene 47/60, timecode 46:00 – 47:00, clip 5/6 (40–50s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Steady 50mm medium shot establishing the tension — Khung đầu trùng khung cuối clip trước: Sơn (@Son) ngồi dậy, chống tay, ho; cửa sau mở ra cảng đêm.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) đỡ lưng. Người nói ở tiền cảnh, môi rõ, người nghe mờ phía sau: Sơn (@Son): "Hạ (@Ha)?" · Mây (@May): "Hải đăng. Vũ Kiên (@Vũ Kiên) một mình." · Sơn: "Phút mấy?" · Bác sĩ Linh (@Bác sĩ Linh): "Ba mươi chín."
-00:07.0–00:10.0 | Slow 85mm close-up on the hand and face — anh nhìn đồng hồ trong tay mình rồi nhìn Mây (@May). Khung kết đứng yên, chờ clip 6.
+[TIMELINE AND LOCATION]
+Scene 47/60, clip 5/6; shot 47.5. Story time: D7 night continuous.
+Stationary motorcycle on the safe lane before departure, Mây at front controls, Sơn pillion, helmets secured before engine starts.
+Same night, van lamp and parked vehicle practicals, helmets visible before engine starts.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Turn practical preparation into proof that the rescue is controlled, not reckless flight.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 47.4, ending with Sơn standing with support, right hand holding the closed watch.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Motorcycle stationary, engine off, two helmets on the seat.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame the stationary motorcycle and both people medium, helmets on the seat at the start.
+Focus: Keep hands and helmet fastenings naturally within the medium frame; do not insert riding instructions.
+
+[ACTION — 0–10s, one evolving take]
+Sơn pockets the closed watch, both fasten their helmets, then Mây takes the front seat and Sơn the pillion seat.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Complete the necessary preparation once, ending seated and ready rather than starting the journey prematurely.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn pockets the same CLOSED watch, both secure helmets, Mây takes controls and Sơn the rear place.
+Performance: He moves cautiously around the bike, she checks his readiness without treating him as a child.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Black suit and LEFT bandage remain visible, olive jacket does not reappear and no second watch is introduced.
+
 
 [SOUND]
-Âm thanh nền: tiếng chợ cá vọng vào xe; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: motorcycle engine only after ignition.
+Foreground sound: Helmet straps and fabric are quiet foreground sounds; engine remains OFF until the next shot.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Anh nhìn đồng hồ trong tay mình rồi nhìn Mây (@May). Hold that exact frame still for 0.5s; clip 6 starts from it.
+[END FRAME — natural motion continues]
+Mây riding position, Sơn seated behind, both helmets fastened.
+Next shot 47.6: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

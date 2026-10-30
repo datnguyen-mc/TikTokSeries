@@ -1,30 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 1, matching position, light and 16:9 framing exactly, as one unbroken take.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@HaiNgoc = BÀ HAI NGỌC: 60, silver bun, powdered calm face, jade bracelet on her LEFT wrist, black unlit holder, violet silk áo bà ba; soft, slow, sweet Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
+@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, violet silk áo bà ba, black trousers, embroidered slippers, unlit black holder. Voice: soft, slow Southern Vietnamese female voice with precise diction.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@HaiNgoc = BÀ HAI NGỌC (60, matriarch of the Rắn Đen syndicate, owner of a silk shop as a front): a real Vietnamese woman, about 158 cm tall, small and upright, silver hair in a tight bun, powdered calm face, eyes that never blink first, a thick jade bracelet on her LEFT wrist (signature detail), a long black unlit holder in her hand. Outfit: a violet silk áo bà ba with a high collar, black silk trousers, embroidered slippers. Voice: soft, slow, sweet Southern Vietnamese female voice, around 60.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, chạng vạng xanh, đèn cột chưa bật.
-Scene 43/60, timecode 42:00 – 43:00, clip 2/6 (10–20s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
+[TIMELINE AND LOCATION]
+Scene 43/60, clip 2/6; shot 43.2. Story time: D7 dusk.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Last blue dusk, car lamps in established positions, harbour floodlight still OFF. Do not switch it on in this shot.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm medium close-up on the face, background softly blurred — Hành động dở dang đi tiếp ngay giây đầu: Bà Hai Ngọc (@HaiNgoc) ngồi xuống bê tông cạnh Sơn (@Son), bàn tay đeo vòng ngọc đặt lên trán nó; ghe va mạn, dây neo căng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — cận mặt bà, lần đầu có nước mắt. Thoại ngắn, khẩu hình thật, không nhạc dưới lời: Bà Hai Ngọc (@HaiNgoc): "Má bán con. Con bán má. Huề." · Bà Hai (với Dũng (@Dũng)): "Lấy sổ. Nó giấu ở đâu đó."
-00:07.0–00:10.0 | Slow 35mm pull-back holding the composition — rồi bà lau, đứng dậy. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Kiên puncture Bà Hai's self-justification while exploiting the opening she has left.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 43.1, ending with Bà Hai shielding Sơn's side, Kiên forced to keep Hạ close.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Kiên tightening his hold on Hạ, facing Bà Hai.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame Kiên and restrained Hạ medium, Bà Hai on his opposing eyeline, car west behind.
+Focus: Stay with his practiced face as the smile thins, with the guard's direction readable at the edge.
+
+[ACTION — 0–10s, one evolving take]
+He reminds her she sold both people and signals his guard toward Sơn.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Give the accusation a clipped rhythm, then use his first backward step to carry threat toward the car.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: His RIGHT hand stays on Hạ's LEFT upper arm while his other hand signals the guard inward.
+Performance: He sounds irritated that an agreed commodity is being reclaimed, not surprised by her morality.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Kiên (@Vũ Kiên), nói trong hình: Bà bán rồi. Giờ muốn lấy lại sao?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+White jacket has the same creasing from the pull, grey dress remains unchanged and no weapon appears early.
+
 
 [SOUND]
-Âm thanh nền: sóng vỗ trụ bê tông, hải âu; không nhạc, chỉ nền. Lời thoại nổi trên nền.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: Use a soft shoe reposition and paper rustle already on the apron; no new offscreen gun sound.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Rồi bà lau, đứng dậy for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Guard moving toward center, Kiên stepping toward the white car.
+Next shot 43.3: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

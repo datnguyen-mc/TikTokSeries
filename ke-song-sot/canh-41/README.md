@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 41: Tam Giác
+# Kẻ Sống Sót: Bóng Ma — Cảnh 41: Cuộc Trao Đổi Đổi Luật
 
-**Cảnh 41/60** · Phút 40:00 – 41:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 40](../canh-40/README.md) | [Cảnh 42 →](../canh-42/README.md)
+Phút 40:00–41:00 · Thời gian truyện: D7 last light
 
----
+Kiên phá điều kiện, Hạ làm Sơn chọn người thay vì giao kèo.
 
-## 1. Tóm tắt cảnh
-Tam giác trên cầu cảng: Bà Hai và Dũng bên đông, Kiên giữ Hạ bên tây, Sơn giữa cầm bao da rỗng buông thõng; sóng vỗ dưới chân cầu. Sơn xoay người, giơ vật thép về phía Kiên; Kiên kéo Hạ lên trước ngực làm khiên, nụ cười không tắt. Hai phe xôn xao; Dũng tiến lên; Kiên siết tay Hạ; Sơn ném vật thép rỗng xuống biển: tõm.
+**Câu hỏi đang mở:** Sơn có chấp nhận mua tự do của Hạ bằng một lời khai giả?
+**Móc vào cảnh:** Tờ nhận tội được đưa ra sau khi hai bên đã tới điểm trao đổi.
+**Điểm bẻ:** Hạ từ chối cách đổi người đó, Sơn đặt bản sao xuống và chọn ở lại.
+**Gieo / trả:** Trả tín hiệu đặt phong bì ở37; đẩy lựa chọn đạo đức sang hành động.
 
-* **Bối cảnh chính:** Cầu cảng, hoàng hôn cuối, hai phe hai đầu, Sơn giữa, Hạ bên phe Kiên.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Hạ (@Ha), Bà Hai Ngọc (@HaiNgoc), Dũng Đinh (@Dũng), Vũ Kiên (@Vũ Kiên)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Kiên holding Hạ just short of the safe line with his RIGHT hand on her LEFT upper arm, Sơn opposite with his own preview envelope; no confession folder here. | Kiên verbally demands that Sơn sign the confession before Hạ is released, changing the agreement without presenting another physical folder. His RIGHT hand keeps Hạ LEFT upper arm, LEFT hand still concealed. | Kiên condition unanswered, Hạ still held just short of the safe line, Sơn opposite with the preview copy; no second folder. | Kiên (@Vũ Kiên), nói trong hình: Ký trước. Tôi mới thả. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bà Hai east of Sơn, Dũng a pace behind her. | She orders Sơn to bring Kiên closer in exchange for her protection. | Dũng edging around Sơn's retreat path, Bà Hai watching. | Bà Hai (@HaiNgoc), nói trong hình: Đưa nó về phía má. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Hạ's arm held by Kiên, eyes fixed on Sơn. | She tells Sơn not to accept blame for Kiên, then makes herself face the safe lane. | Hạ standing upright despite Kiên's grip, Sơn hearing her. | Hạ (@Ha), nói trong hình: Đừng ký. Em không đổi bằng chuyện đó. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn facing Kiên and the safe line, preview copy envelope in his RIGHT hand, LEFT wrist bandaged; no confession folder in this space. | He places his copy envelope flat on the seam and steps back once. | Envelope on concrete, Sơn one full step behind it. | Sơn (@Son), nói trong hình: Tôi ở lại. Để cô ấy đi. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây behind cover with a clear view of the laid-down envelope. | She signals the officers forward slowly while watching Hạ's blocked path. | Two officers advancing behind cover, Mây tracking Kiên's hand. | Mây (@May), nói trong hình: Tiếp cận. Chưa có lối cho con tin. |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng blocking Sơn's right side, Kiên pulling Hạ back toward the white car. | Sơn shifts between Hạ and Dũng as the exchange breaks apart. | Sơn shielding Hạ's path, Dũng within arm's reach. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Tam giác trên cầu cảng: Bà Hai và Dũng bên đông, Kiên giữ Hạ bên tây, Sơn giữa cầm bao da rỗng buông thõng; sóng vỗ dưới chân cầu.** | Kiên: "Hạ bà ta." · Bà Hai: "Chặn nó, con." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn quay về phía Bà Hai, giơ vật thép lên chậm; bà không lùi, chỉ chỉnh khăn len; Dũng rút gậy thép khỏi bao giơ lên theo phản xạ.** | Bà Hai: "Hạ tay, Dũng. Nó không đối đầu má." · Sơn: "Má chắc?" | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn xoay người, giơ vật thép về phía Kiên; Kiên kéo Hạ lên trước ngực làm khiên, nụ cười không tắt.** | Kiên: "Đụng vào tôi thì phải bước qua cô ấy." · Hạ: "Đừng, Sơn." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Cận Hạ: cô nhìn anh, lắc đầu rất nhẹ, mắt nói điều cô nói ở tiệm hoa: bỏ nghề.** | Hạ: "Anh hứa. Hết việc." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Sơn hạ tay xuống, nhìn hai phe, nhìn Hạ, nhìn mặt trời còn một vạch; giọng anh lần đầu lớn.** | Sơn: "Hai người thuê một Bóng Ma. Thằng đó nghỉ rồi." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Hai phe xôn xao; Dũng tiến lên; Kiên siết tay Hạ; Sơn ném vật thép rỗng xuống biển: tõm.** | Kiên: "Vậy anh vô dụng." · Sơn: "Đúng. Nhìn kỹ." | Frames / Extend (nối liền) |
+- **1:** Make the changed condition feel like a deliberate theft of the agreement, not another negotiation recap. **Diễn xuất:** Kiên delivers the short demand as a routine condition, Hạ jaw tightens before Sơn answers.
+- **2:** Expose the maternal bargain as another command over Sơn's body and loyalties. **Diễn xuất:** Her gentleness contains expectation rather than warmth, and Dũng watches for permission to advance.
+- **3:** Give Hạ an independent refusal that changes what Sơn is willing to exchange. **Diễn xuất:** She speaks through controlled breath, looking at Sơn rather than pleading upward toward Kiên.
+- **4:** Turn Sơn's promise into an observable choice before the police signal is acted upon. **Diễn xuất:** He addresses Hạ's release with level restraint, accepting exposure without performing a martyr pose.
+- **5:** Show Mây beginning a constrained response because the hostage still blocks a safe approach. **Diễn xuất:** Her voice stays low and professional; eyes track the hostage hand rather than Sơn's apparent bravery.
+- **6:** Make the exchange physically fail before anyone narrates that it has failed. **Diễn xuất:** Hạ resists the pull with her shoulders, Dũng watches Sơn's hands, Kiên concentrates on retreat.
 
----
+**Âm nối sang cảnh sau:** Keep breath and road engines. Cut from Sơn shielding the path to Dũng reaching him; the envelope is already on the ground.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

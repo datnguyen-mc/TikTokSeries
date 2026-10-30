@@ -1,31 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 5. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Ha = HẠ: 32, long hair tied loosely, pale-blue silk scarf, white blouse, jeans; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Ha = HẠ free in the present (32): a real Vietnamese woman, about 162 cm tall, slim, gentle bright face, long black hair tied loosely, the pale-blue silk scarf back around her neck (signature detail), a white blouse, jeans, sandals. Voice: soft, warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Quán bờ kè, sáng ngày 8, nắng, radio, tờ báo.
-Scene 56/60, timecode 55:00 – 56:00, clip 6/6 (50–60s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 56/60, clip 6/6; shot 56.6. Story time: D8 morning.
+Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
+Day-eight morning, ordinary coastal daylight and neutral interiors, no action lighting.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm slow dolly in through the space — Nối liền chuyển động đang dang dở: Mây (@May) ngẩng lên: ở bàn cuối; ghe cá ngoài kè làm nền.
-00:03.5–00:07.0 | Steady 50mm medium close-up, held with quiet intensity — Hạ (@Ha) ngồi một mình, nhìn biển, khăn xanh.
-00:07.0–00:10.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) cầm ly đứng dậy đi tới. Nói trong khung, không cắt giữa câu: Mây (@May): "Khách lạ này tôi hỏi một lần thôi." · Hạ (@Ha): "Hỏi đi." Khung cuối bất động 0.5s rồi khép cảnh.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Carry Hạ toward her own home so recovery becomes action rather than a waiting-room image.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 56.5, ending with Emergency roster filed away, ordinary patrol map visible.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Hạ at the station doorway with the family-house key, Mây joining her empty-handed.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide at the station doorway, Hạ holding the family key and Mây joining empty-handed.
+Focus: Keep their shared direction clear, not alternating isolated reaction shots that stall the walk.
+
+[ACTION — 0–10s, one evolving take]
+They walk toward the harbour houses instead of the crime-scene pier.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the invitation become actual walking immediately, ending in motion toward the next threshold.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: They start toward the harbour houses together, leaving the crime-scene direction behind.
+Performance: Hạ's apprehension is quiet and forward-facing, Mây's familiarity offers company without taking over.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Về nhà trước. Chuyện khác tính sau.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+White blouse, jeans and long scarf remain the same, key stays with Hạ after the interview handover.
+
 
 [SOUND]
-Âm thanh nền: cà phê rót, ông Bảy nói không ngừng; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: distant motorcycles and muted market voices.
+Foreground sound: Ordinary morning street sound replaces case-room fan, Mây's line light enough to belong to friends.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Keep ordinary town morning sound from the walk to the family-house threshold. Market-stall planning happens after the home entry.
 
-[END FRAME]
-Freeze on Mây (@May) cầm ly đứng dậy đi tới for 0.5s; scene complete.
+[END FRAME — natural motion continues]
+Both walking side by side in morning light.
+Next shot 57.1: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

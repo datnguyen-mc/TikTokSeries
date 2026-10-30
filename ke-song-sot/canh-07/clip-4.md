@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 3: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ, sáng ngày 2, nắng, gió dương.
-Scene 7/60, timecode 06:00 – 07:00, clip 4/6 (30–40s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm medium close-up on the face, background softly blurred — Không cắt, cùng tư thế cuối clip trước: Mây (@May) thấy đôi găng da trên ghế; mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — cầm lên, lật, ngửi: mùi dầu máy. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Mây (@May): "Găng da giữa tháng nắng." · Sơn (@Son): "Tay tôi lạnh."
-00:07.0–00:10.0 | Slow 35mm pull-back holding the composition — cô đặt lại đúng chỗ. Khung cuối bất động, clip 5 nối từ đúng đây.
+[TIMELINE AND LOCATION]
+Scene 07/60, clip 4/6; shot 07.4. Story time: D2 morning.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day morning daylight, neutral station window fill for station shots.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Tie Sơn's evasive answer to the visible count so Mây gains a behavioral fact.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 07.3, ending with Card returned to Sơn, notebook still open.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn beside the two fresh marks.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The medium composition holds Sơn beside the two fresh marks and Mây's reaction in the same space.
+Focus: Keep his glance and her receiving eyeline clear, avoiding a new insert that would repeat the carving shot.
+
+[ACTION — 0–10s, one evolving take]
+He looks at the marks instead of answering, Mây notices the evasion.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Use the silence to let Mây follow his glance, then end with her attention on the count.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He looks toward the marks instead of directly at her, then gives the limited answer without moving away.
+Performance: He should not smirk at withholding information; Mây registers the relationship and lets it remain unanswered.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Sơn (@Son), nói trong hình: Hết tuần này.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Same wooden doorframe. Exactly 7 tally marks at the start and 7 at the end of THIS shot. No other tally row.
+
+[VISIBLE TEXTURE]
+Fresh wood remains pale against the old frame, with daylight holding the same direction as the visit.
+
 
 [SOUND]
-Âm thanh nền: sóng rất xa, ván gỗ kêu; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: A brief pause before his short answer should be heard as reluctance, not filled by a ticking cue.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Cô đặt lại đúng chỗ, perfectly still for half a second so clip 5 can continue without a cut.
+[END FRAME — natural motion continues]
+Mây's eyeline fixed on the doorframe.
+Next shot 07.5: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

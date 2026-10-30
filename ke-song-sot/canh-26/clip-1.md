@@ -1,28 +1,63 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN in the past (45, the Ghost in his signature dark attire): a real Vietnamese man, about 176 cm tall, lean, cropped black hair greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose (signature detail), in a plain black suit with no tie, white shirt open at the collar, polished black shoes, black leather gloves. Voice: low, dry, unhurried Southern Vietnamese male voice. Not resembling any real actor.
-@May = MÂY in civilian clothes (38): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, short black hair with a single white streak at the front (signature detail), in a denim jacket over a dark T-shirt, jeans, sneakers, a small backpack, steel cuffs tucked in her jacket. Voice: firm, dry, slightly amused Southern Vietnamese female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-HIDDEN CHEMICAL WORKSHOP IN A DISUSED FISH-SAUCE FACTORY: a hidden workshop by the river in an abandoned fish-sauce factory, steel vats, glass flasks, trays of clear vials, masked workers blurred in background, a loading door onto the river.
-Story setting: Nhà máy nước mắm bỏ hoang ven sông, ngày 5, bể thép, bình thủy tinh, cửa bốc hàng ra sông.
-Scene 26/60, timecode 25:00 – 26:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Khung đầu: Sơn (@Son) và Mây (@May) bò trên mái tôn nhà máy nước mắm, nhìn qua lỗ thủng: bể thép, bàn thủy tinh, khay lọ trong, công nhân đeo khẩu trang mờ; lọ trong trên khay.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) giơ điện thoại chụp. Máy ở trên mặt người nói khi câu bắt đầu: Mây (@May) (thì thầm): "Đủ cho tỉnh. Đủ cho báo."
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — Hình thở ra: không thoại, không cắt.. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 26/60, clip 1/6; shot 26.1. Story time: D5 afternoon.
+Roof vent above the disused fish-sauce factory loading yard, safe crouching space behind a low wall.
+Present-day afternoon, industrial roof daylight, cool shed shade, river reflections.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the written account acquire a real place and a risk of being seen.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 25.6, ending with Confirmed receipt saved, laptop shut, originals packed.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+The pair crouched behind a roof vent overlooking the factory yard.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the roof vent as foreground cover, yard seal visible through the same opening.
+Focus: Retain enough depth to compare the existing seal shape without inventing readable labels.
+
+[ACTION — 0–10s, one evolving take]
+Mây films the loading emblem and the same seal shown in the accounts.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Reveal the matching mark before the route check, creating evidence and exposure in one view.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây films from below the vent edge, Sơn watching the route rather than leaning over her.
+Performance: They work quietly, with brief controlled checks instead of exaggerated stealth faces.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Old roof grit and daylight on the loading yard replace the motel's paper evidence.
+
 
 [SOUND]
-Âm thanh nền: nước sông vỗ cửa bốc hàng; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: distant pumps and river wind.
+Foreground sound: Distant pumps stay even, while a faint phone-handling rustle remains subordinate.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Mây (@May) giơ điện thoại chụp, perfectly still for half a second so clip 2 can continue without a cut.
+[END FRAME — natural motion continues]
+Phone aimed at the matched shipment seal, Sơn watching the route.
+Next shot 26.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,30 +1,62 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+
+
+
+[TIMELINE AND LOCATION]
+Scene 07/60, clip 1/6; shot 07.1. Story time: D2 morning.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day morning daylight, neutral station window fill for station shots.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the daily count vulnerable to an interruption from outside Sơn's control.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 06.6, ending with His bare hand returns for the glove, Hạ turns off the kettle.
+Editorial cut to the explicitly stated new time/place. Establish the supplied opening composition once; do not replay travel or arrival.
+
+[START FRAME — state only, not an action to repeat]
+One mark on the doorframe, tool below it.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the detail angle on one existing tally and the tool beginning a second, with wood orientation consistent.
+Focus: Keep the wood surface and exact mark count clear; do not reveal the rider through a new angle.
+
+[ACTION — 0–10s, one evolving take]
+Sơn carves the second mark, a motorcycle stops outside.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Complete the new cut before withdrawing the hand, so the interruption does not create an unfinished duplicate mark.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He finishes only the second mark as the approaching motorcycle settles outside, then puts the tool on the shelf.
+Performance: The hand remains steady, but its brief pause at the engine sound reveals attention beyond the carving.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
 
 [PROPS]
-LỊCH BẢY NGÀY (the seven-day count): short lines carved into the wooden doorframe of the cabin with a small metal pocket tool, one per day.
+Reference only; enact only the current ACTION, not a future handover.
+- Same wooden doorframe. Exactly 1 tally marks at the start and 2 at the end of THIS shot. No other tally row.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ, sáng ngày 2, nắng, gió dương.
-Scene 7/60, timecode 06:00 – 07:00, clip 1/6 (0–10s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+Two pale cuts in old wood distinguish new days without generated numerals, labels or extra scratches.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
-
-[SHOT LIST]
-00:00–00:03.5 | Wide 24mm angle showing the environment and path — Mở màn cảnh này: Sơn (@Son) khắc vạch thứ hai lên khung cửa; radio rè một bản tin xa. Lời dẫn ngoài hình, miệng nhân vật không mở: Sơn (@Son) (Voice-over): "Ngày hai. Cô ấy tới sớm hơn tôi tính."
-00:03.5–00:07.0 | 50mm whip-pan, one slow-motion beat on the stride — tiếng xe máy dưới đồi.
-00:07.0–00:10.0 | Wide 24mm showing the new position in the environment — anh gạt mạt gỗ, mở radio cho có tiếng, ngồi xuống bàn với tô cơm. Dừng ở khung này nửa giây để clip 2 nối vào.
 
 [SOUND]
-Âm thanh nền: sóng rất xa, ván gỗ kêu; tiếng thở và tiếng đồ rơi. Nền nhỏ hơn giọng người.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: The scrape is interrupted by a believable engine stop, followed by quieter pine wind rather than a sting.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Anh gạt mạt gỗ, mở radio cho có tiếng, ngồi xuống bàn với tô cơm. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Two marks, tool put on the shelf.
+Next shot 07.2: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 18: Dũng Đinh Vào Thị Trấn
+# Kẻ Sống Sót: Bóng Ma — Cảnh 18: Dũng Tới Biển
 
-**Cảnh 18/60** · Phút 17:00 – 18:00 của phim · Hồi 1: Bảy Ngày · Tập 2/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 17](../canh-17/README.md) | [Cảnh 19 →](../canh-19/README.md)
+Phút 17:00–18:00 · Thời gian truyện: D4 morning
 
----
+Dũng đe dọa bằng phần khăn còn lại, để lộ lệnh về thành phố.
 
-## 1. Tóm tắt cảnh
-Hai xe đen dừng chắn ngang đường bờ kè; Dũng Đinh bước xuống, áo ba lỗ đen, khuyên đinh; sáu người theo sau; Dũng đạp đổ một bàn quán ông Bảy. Mây và Thành tới bằng xe máy, Mây xuống xe đứng giữa đường, không rút gì, tay đặt lên còng ở thắt lưng; Thành run nhưng đứng cạnh. Hai xe đen lùi, đi về phía nhà nghỉ đầu thị trấn, không rời đi; Mây cầm khăn lụa, nhận ra màu xanh trong tấm ảnh trong đồng hồ.
+**Câu hỏi đang mở:** Dũng có quyền bước vào mọi chỗ hắn muốn không?
+**Móc vào cảnh:** Cái ghế trống bị hất đổ, Bảy chưa bỏ chỗ đứng.
+**Điểm bẻ:** Mây giữ ranh giới trước đe dọa, chiếc khăn làm lời đe dọa thật hơn.
+**Gieo / trả:** Lệnh gọi về thành phố giải thích Dũng ở 24; sự nhượng bộ của hắn không được diễn như hết nguy hiểm.
 
-* **Bối cảnh chính:** Quán bờ kè, sáng ngày 4, nắng trắng, hai xe đen đỗ chắn đường.
-* **Nhân vật khóa trong cảnh:** Mây (@May), Dũng Đinh (@Dũng), Phó Thành (@Phó Thành), Ông Bảy (@Ông Bảy)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | OPEN · Cắt thiết lập thời gian/không gian | Two black cars stopping outside the coffee stall. | Dũng steps out, knocks one empty chair aside, asks after his men. | Chair on its side, Bảy behind the counter. | Dũng (@Dũng), nói trong hình: Hai người tao gửi đâu? |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bảy setting his glass down before answering. | He points toward the clinic, refusing to let Dũng pass behind his counter. | Bảy blocking the counter entrance, Dũng in the public aisle. | Ông Bảy (@Ông Bảy), nói trong hình: Phòng khám. Muốn gặp thì hỏi công an. |
+| [3](clip-3.md) | J · J-cut: âm mới đến trước hình | Mây and Thành approaching on foot, a support vehicle farther back. | Mây makes Dũng put the chair back before continuing. | Chair upright, Dũng's men waiting by their cars. | Mây (@May), nói trong hình: Dựng lại. Rồi nói chuyện. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng's hand above the counter holding a long torn blue scarf. | He lays the remaining scarf down without letting Mây approach him. | Long scarf flat on the counter, one end torn. | Dũng, ngoài khung hình: Đưa cho Sơn. Nó biết của ai. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng beside his open car door, phone vibrating. | He hears a recall to the silk shop and ends the call angrily. | Dũng getting into the car, no longer waiting at the stall. | Bà Hai, qua thiết bị: Về tiệm. Đêm nay có khách. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Mây collecting the scarf after the cars leave. | She asks Thành to keep patrols on the clinic and the harbour road. | Thành heading toward the patrol vehicle, scarf in Mây's bag. | Mây (@May), nói trong hình: Hắn đi rồi. Vẫn giữ cửa ngõ. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Hai xe đen dừng chắn ngang đường bờ kè; Dũng Đinh bước xuống, áo ba lỗ đen, khuyên đinh; sáu người theo sau; Dũng đạp đổ một bàn quán ông Bảy.** | Dũng: "Ông già. Hai thằng tôi gửi hôm qua đâu?" | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Ông Bảy đứng sau quầy, tay vẫn lau ly; ông chỉ ra biển lần nữa.** | Ông Bảy: "Tụi nó đi biển. Ở đây ai cũng đi biển." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây và Thành tới bằng xe máy, Mây xuống xe đứng giữa đường, không rút gì, tay đặt lên còng ở thắt lưng; Thành run nhưng đứng cạnh.** | Mây: "Dựng bàn lại cho ông Bảy." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Dũng cười, bước sát Mây, cao hơn cô một cái đầu; hắn nhìn lọn tóc bạc.** | Dũng: "Tụi tôi tìm bạn." · Mây: "Thị trấn này không có bạn các anh." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Dũng ra hiệu, đàn em dựng bàn; hắn rút từ túi một chiếc khăn lụa xanh nhạt, đặt lên bàn vừa dựng, vuốt phẳng.** | Dũng: "Đưa cho bạn tôi. Nó biết của ai." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Hai xe đen lùi, đi về phía nhà nghỉ đầu thị trấn, không rời đi; Mây cầm khăn lụa, nhận ra màu xanh trong tấm ảnh trong đồng hồ.** | Mây (khẽ): "Khăn của Hạ." · Thành: "Tụi nó ở lại, chị." | Frames / Extend (nối liền) |
+- **1:** Let Dũng's entitlement disturb the town's ordinary order through one clearly visible trespass. **Diễn xuất:** He expects the place to yield before he speaks; Bảy remains in place without exaggerated fearless posturing.
+- **2:** Give Bảy a boundary he can hold without turning an elderly civilian into an action hero. **Diễn xuất:** He is wary but firm, refusing access by ordinary ownership of his space rather than a threatening gesture.
+- **3:** Let Mây restore a small public rule before discussing a larger threat, making authority visible in action. **Diễn xuất:** Her command is calm and non-negotiable; Dũng complies with visible resentment, retaining menace rather than becoming a clown.
+- **4:** Make the remaining scarf an intimate threat through its material match, without claiming it proves Hạ alive. **Diễn xuất:** His off-screen line should be dismissive confidence; Mây's still hand shows attention rather than immediate grabbing.
+- **5:** Explain Dũng's later city presence while showing he also lives under someone else's control. **Diễn xuất:** His irritation should be directed at being summoned, not at a caller body the shot never shows.
+- **6:** Show Mây treating the threat as evidence and a continuing risk, rather than celebrating the men's departure. **Diễn xuất:** Her relief is limited; Thành moves promptly toward the support vehicle without turning the order into reassurance comedy.
 
----
+**Âm nối sang cảnh sau:** The evidence-bag rustle bridges to two separated scarf pieces on the cabin table. Do not repeat Dũng laying it down.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

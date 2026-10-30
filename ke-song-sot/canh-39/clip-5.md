@@ -1,27 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cảng cá Hòn Sóng, chiều ngày 7, hoàng hôn cam, ghe, thúng, cột đèn.
-Scene 39/60, timecode 38:00 – 39:00, clip 5/6 (40–50s of the scene). Atmosphere: silent infiltration, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Slow creeping 35mm camera moves, tight 85mm close-ups on hands, eyes and locks, searchlight beams sweeping through mist, long held frames with controlled cuts. Chiaroscuro shadows, cold green or blue light.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm low-key framing creeping along the edge — Tiếp từ khung cuối clip trước: Trên nóc chợ; nắng cam trải trên bê tông.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Phó Thành (@Phó Thành) thì thầm vào điện thoại với tỉnh: hai mươi phút nữa. Thoại có khẩu hình, máy thấy rõ miệng người nói: Phó Thành (@Phó Thành): "Hai xe. Hai đầu. Cùng lúc."
-00:07.0–00:10.0 | 50mm close-up on the watchful eyes — cậu thấy bụi từ hai đầu đường. Khung kết đứng yên, chờ clip 6.
+[TIMELINE AND LOCATION]
+Scene 39/60, clip 5/6; shot 39.5. Story time: D7 sunset.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Present-day sunset, one low sun west, clear soft fill on faces, no impossible opposing sun shadows.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let the quiet check of his ally expose dependence beneath outward composure.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 39.4, ending with Sơn on the seam, sea behind him, open retreat toward land.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn at the seam, wind moving his jacket naturally.
+
+[CAMERA]
+85mm close-up at eye level, restrained natural depth of field. No orbit or chase movement.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep close on Sơn from the established landward camera side, both hands fitting the lower frame.
+Focus: Hold his eyes, with the bandage readable but not isolated by a rack or cut.
+
+[ACTION — 0–10s, one evolving take]
+He looks once toward Mây's covered position and steadies his left wrist.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One look away, one return ahead, leaving him ready rather than looping anxious glances.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He looks once toward Mây's covered place and supports the left wrist without a new prop.
+Performance: His relief at her presence is smaller than a smile, followed by renewed attention to the road.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Coastal wind moves the same black jacket, skin texture remains natural in the fading light.
+
 
 [SOUND]
-Âm thanh nền: ghe cá va mạn, dây neo kêu; tiếng đèn pha quay xa. Nền nhỏ hơn giọng người.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: Breath and existing harbour bed are sufficient, no stopped-watch ticking or heartbeat added.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Trên nóc chợ, Phó Thành (@Phó Thành) thì thầm vào điện thoại với tỉnh: hai mươi phút nữa. Hold that exact frame still for 0.5s; clip 6 starts from it.
+[END FRAME — natural motion continues]
+Sơn's gaze back toward the road, both hands visible.
+Next shot 39.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

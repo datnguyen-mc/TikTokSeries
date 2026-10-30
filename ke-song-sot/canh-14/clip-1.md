@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Hiên nhà gỗ, chiều ngày 3, nắng vàng nghiêng, gió, bàn gỗ ngoài hiên.
-Scene 14/60, timecode 13:00 – 14:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 28mm wide, single practical light source, deep shadows — Khung đầu: Mây (@May) lên hiên; radio rè một bản tin xa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Sơn (@Son) đã ngồi sẵn ở bàn ngoài hiên với hai ly trà. Máy ở trên mặt người nói khi câu bắt đầu: Mây (@May): "Bóng Ma." · Sơn (@Son): "Tụi nó nói nhiều."
-00:07.0–00:10.0 | 85mm close-up on the object and hands — cô không ngồi, đặt chiếc còng lên bàn. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 14/60, clip 1/6; shot 14.1. Story time: D3 afternoon.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea.
+Present-day late afternoon porch light, low sun across the table, soft sea fill.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the negotiation's moral boundary visible before either person asks for trust.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 13.6, ending with Thành confirming the support request, Mây leaving with the folder.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Two tea glasses on the porch table, Sơn already seated.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The medium table setup holds two tea glasses and space where Mây's cuffs enter between them.
+Focus: Keep their faces and the object boundary at readable shared depth, with no need for a separate symbolic insert.
+
+[ACTION — 0–10s, one evolving take]
+Mây sits opposite and places her cuffs beside her notebook.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Place, ask and wait are distinct beats; neither reaches for the cups to manufacture activity during the answer space.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She sits opposite Sơn and places the cuffs once beside her notebook, leaving both untouched afterward.
+Performance: Her question is direct without provocation; Sơn acknowledges the name through attention, not a smug pose.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Anh là người họ gọi Bóng Ma?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The cuffs' dull metal and tea-glass warmth coexist on weathered porch wood under the same late sun.
+
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: soft surf, pine wind and porch-board creaks.
+Foreground sound: The modest cuff contact should be clear but not amplified like a weapon being cocked.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Cô không ngồi, đặt chiếc còng lên bàn, perfectly still for half a second so clip 2 can continue without a cut.
+[END FRAME — natural motion continues]
+Cuffs between the glasses, neither person touching them.
+Next shot 14.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

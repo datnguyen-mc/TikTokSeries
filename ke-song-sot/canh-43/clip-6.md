@@ -1,27 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 5, matching position, light and 16:9 framing exactly, as one unbroken take.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, chạng vạng xanh, đèn cột chưa bật.
-Scene 43/60, timecode 42:00 – 43:00, clip 6/6 (50–60s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | Low 24mm follow shot from behind — Hành động dở dang đi tiếp ngay giây đầu: Cận Sơn (@Son) nằm bất động; nắng cam trải trên bê tông.
-00:03.5–00:07.0 | Handheld 28mm, focus locked on the main character — trong mắt mở phản chiếu đèn cột và bóng người chạy qua.
-00:07.0–00:10.0 | Static 28mm wide, dust settling in the light — lời dẫn. Lời dẫn trầm, không ai nói trong khung: Sơn (@Son) (Voice-over): "Phút thứ sáu. Thị trấn của cô ấy đánh thay tôi." Nửa giây tĩnh, hết cảnh.
+[TIMELINE AND LOCATION]
+Scene 43/60, clip 6/6; shot 43.6. Story time: D7 dusk.
+Lower lighthouse maintenance gate behind west harbour apron, narrow stair above it, cart can block the lower gate.
+Early night, harbour floodlight now ON continuously, car lamps unchanged.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Turn the escape into an obstacle that will cost the rescuers real time.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 43.5, ending with Sơn supported by the officer, Dũng withdrawing behind a crate.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Kiên and Hạ at the foot of the narrow maintenance stair behind the apron.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame the lower service gate and first stair together, keeping harbour direction behind them.
+Focus: Keep the cart obstruction and departing pair sharp enough to understand in one wide setup.
+
+[ACTION — 0–10s, one evolving take]
+He blocks the lower gate with a tipped cart and forces her upward.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The obstruction lands once and stays; finish with upward progress so the next team has something specific to clear.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Kiên tips the existing cart across the lower gate before pushing Hạ upward, never releasing her unguarded.
+Performance: Hạ studies the narrowing route rather than collapsing; Kiên becomes hurried and less polished.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Metal gate and cart wheels remain the same objects, no new padlock or unexplained barrier.
+
 
 [SOUND]
-Âm thanh nền: sóng vỗ trụ bê tông, hải âu; nhịp gõ nhanh tăng dần. Lời thoại nổi trên nền.
+Location bed: boots on metal steps and distant surf.
+Foreground sound: Cart wheel scrape and gate clang are brief, then shoes climb into the thinner stair echo.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Police commands continue over rescue movement and the service-route cut. No reset to a second stand-off.
 
-[END FRAME]
-Last frame: Cận Sơn (@Son) nằm bất động, trong mắt mở phản chiếu đèn cột và bóng người chạy qua, held motionless for half a second, then the scene ends.
+[END FRAME — natural motion continues]
+Cart blocking the lower gate, pair ascending the service stair.
+Next shot 44.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,27 +1,7 @@
-# Caption · Kẻ Sống Sót: Bóng Ma · Phần 17/60: Mở USB
+# Kẻ Sống Sót: Bóng Ma · Cảnh 17: Phần Dữ Liệu Bị Khóa
 
-> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 17 (Phút 16:00 – 17:00). 60 giây, 16:9 hoặc crop 9:16.
+Bằng chứng có đường xác minh và hạn chuyển người cụ thể.
 
-## Caption đề xuất
-```text
-Kẻ Sống Sót: Bóng Ma · Tập 17/60: Mở USB 🌊🕯️
+Phim hư cấu do AI tạo. Xem trọn mạch truyện trên bản phim dài.
 
-Thành cắm USB vào máy tính cũ của đồn, quạt trần kêu; Mây và Sơn đứng hai bên; màn hình hiện thư mục, một nửa mở được, một nửa khóa.
-Sơn nói chìa ở két tiệm lụa, nơi Bà Hai giữ sổ gốc có chữ ký; Mây hiểu: phải về thành phố, ngoài địa bàn, ngoài luật.
-
-"Bóng ma không biến mất. Bóng ma chỉ hết việc."
-📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
-
-#kesongsot #bongma #phimhanhdong #phimle #phimvietai
-```
-
-## Bình luận ghim (Pinned Comment)
-```text
-Cảnh 17: nếu là Sơn, bạn có bỏ nghề đi với Hạ không? 👇
-```
-
-## Checklist khi đăng
-- Bật nhãn **"Nội dung do AI tạo"**.
-- Không gắn giỏ hàng; không dùng tên diễn viên thật trong caption.
-- Tối đa 5 hashtag.
+#kesongsot #bongma #phimvietai

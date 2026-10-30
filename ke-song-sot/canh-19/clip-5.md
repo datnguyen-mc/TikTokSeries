@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+Time ellipsis: a few minutes later, Mây has put on the denim jacket prepared at 19.4.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ, trưa ngày 4, nắng gắt, gió ngừng.
-Scene 19/60, timecode 18:00 – 19:00, clip 5/6 (40–50s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
+[TIMELINE AND LOCATION]
+Scene 19/60, clip 5/6; shot 19.5. Story time: D4 noon.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea.
+Present-day noon, daylight through cabin window, shade on porch.
 
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Máy ở nguyên chỗ, hành động đi tiếp: Sơn (@Son) nhìn cô; mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — lần đầu nói một câu dài hơn tám chữ. Thoại khớp môi, người nghe ở nửa khung còn lại: Sơn (@Son): "Người đi với tôi thường không về." · Mây (@May): "Tôi không đi với anh. Tôi đi tìm Hạ (@Ha)."
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — Nhân vật đứng yên thêm một nhịp, máy không rời.. Khung kết đứng yên, chờ clip 6.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Mây define her own reason for going, preventing the trip from becoming Sơn's possessive rescue narrative.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 19.4, ending with Denim jacket ready beside Mây's bag, both still by the table.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn and Mây facing the path down from the porch.
+
+[CAMERA]
+50mm stable over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the shoulder view to favor her visible speaking face, both bodies oriented toward the existing descent path.
+Focus: Hold her eyes and mouth clearly past his near shoulder, with the route still an understandable background direction.
+
+[ACTION — 0–10s, one evolving take]
+Sơn warns her about Bà Hai, Mây names her own reason for going.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Give the correction space to stand, then let their shared orientation conclude it rather than adding a nod for every clause.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn holds back a fraction at the porch edge while she sets the direction toward the bags and path.
+Performance: Her correction is steady rather than combative; his response should be acceptance of her agency, not offended pride.
+
+
+[DIALOGUE]
+0.8–4.4s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Tôi đi tìm Hạ. Không đi trốn với anh.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Denim replaces khaki after the stated ellipsis, while his olive jacket and bag remain unchanged.
+
 
 [SOUND]
-Âm thanh nền: sóng rất xa, ván gỗ kêu; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: soft surf, pine wind and porch-board creaks.
+Foreground sound: Her line is clear over porch wind, with no invented warning speech from Sơn needed inside this clip.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Sơn (@Son) nhìn cô, lần đầu nói một câu dài hơn tám chữ. Hold that exact frame still for 0.5s; clip 6 starts from it.
+[END FRAME — natural motion continues]
+Both committed to the same path, bags ready.
+Next shot 19.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

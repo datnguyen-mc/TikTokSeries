@@ -1,27 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 5, matching position, light and 16:9 framing exactly, as one unbroken take.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cảng cá Hòn Sóng, chiều ngày 7, hoàng hôn cam, ghe, thúng, cột đèn.
-Scene 39/60, timecode 38:00 – 39:00, clip 6/6 (50–60s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium framing with shallow depth of field — Từ đúng khung dừng của clip trước: mặt trời chạm biển; ghe va mạn, dây neo căng.
-00:03.5–00:07.0 | Steady 35mm medium framing, the gesture playing in full, one slow-motion beat — từ đầu đông, xe đen của Bà Hai Ngọc (@HaiNgoc); từ đầu tây, xe trắng của Vũ Kiên (@Vũ Kiên).
-00:07.0–00:10.0 | 85mm close-up on the object and hands — Sơn (@Son) đứng giữa, bóng đổ dài về hai phía. Lời dẫn trầm, không ai nói trong khung: Sơn (@Son) (Voice-over): "Hai phe. Một Bóng Ma. Và một con tin tôi thương." Nửa giây tĩnh, hết cảnh.
+[TIMELINE AND LOCATION]
+Scene 39/60, clip 6/6; shot 39.6. Story time: D7 sunset.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Present-day sunset, one low sun west, clear soft fill on faces, no impossible opposing sun shadows.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make incoming threat audible before the visible arena fills with the two sides.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 39.5, ending with Sơn's gaze back toward the road, both hands visible.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Empty arrival roads beyond Sơn, two engines heard off screen.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Hold the wide harbour setup with Sơn in the established place and both roads readable.
+Focus: Keep both approaches readable at once; do not cut between headlights or move into a drone view.
+
+[ACTION — 0–10s, one evolving take]
+Black and white headlights appear from different landward roads.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let sound create expectation, headlights answer it, and parking remain entirely for the next scene.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Headlights enter their respective roads toward the junction, neither vehicle parking yet.
+Performance: Sơn stays where he chose to stand, attention dividing without frantic head movement.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Last daylight still defines concrete edges while headlights gain contrast, not full night instantly.
+
 
 [SOUND]
-Âm thanh nền: ghe cá va mạn, dây neo kêu; không nhạc, chỉ nền. Lời thoại nổi trên nền.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: Two distinct but ordinary engines rise from their actual directions, without racing or tire squeals.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the two approaching engines into the arrivals. The next shot shows parking, not a repeated approach from the road.
 
-[END FRAME]
-End on: Sơn (@Son) đứng giữa, bóng đổ dài về hai phía. Hold still for 0.5s; this closes the scene.
+[END FRAME — natural motion continues]
+Both headlights approaching the junction, neither car stopped yet.
+Next shot 40.1: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

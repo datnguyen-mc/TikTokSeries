@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 5: Sổ Đen
+# Kẻ Sống Sót: Bóng Ma — Cảnh 05: Sổ Đen Và Hạn Chót
 
-**Cảnh 5/60** · Phút 04:00 – 05:00 của phim · Hồi 1: Bảy Ngày · Tập 1/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 04](../canh-04/README.md) | [Cảnh 06 →](../canh-06/README.md)
+Phút 04:00–05:00 · Thời gian truyện: D1 noon
 
----
+Giới thiệu bằng chứng bị lấy và lịch giao hàng trong bảy ngày.
 
-## 1. Tóm tắt cảnh
-Sơn đổ túi vải lên bàn: một cuốn sổ bìa da đen, một hộp thiếc có ba lọ thủy tinh trong và một ống thuốc nhỏ, một vật thép khóa trong bao da, bó áo quần. Sơn trèo lên xà nhà, giấu bao da khóa kín vào kẽ mái tôn; giữ lại hộp thiếc trên bàn. Ông Bảy đi ra, dừng ở hiên, nói không quay lại.
+**Câu hỏi đang mở:** Trong túi Sơn có gì khiến người khác phải tìm tới?
+**Móc vào cảnh:** Túi mở ra nhưng người mở lại giấu thứ nguy hiểm lên cao.
+**Điểm bẻ:** Vật chứng đưa ra một thời hạn bên ngoài và nguy cơ kéo tới nhà.
+**Gieo / trả:** Sổ, USB, lịch tàu và tin niêm phong trở thành nguồn đối chiếu, không là đồ trang trí.
 
-* **Bối cảnh chính:** Nhà gỗ, trưa ngày 1, nắng xiên qua khe ván, radio rè.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Ông Bảy (@Ông Bảy)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | L · L-cut: âm cũ đi qua cú cắt | Canvas bag open on the cabin table. | Sơn lays out the black ledger, a sealed tin and a concealed handgun case. | Three separate objects on the table, bag empty beside them. | Sơn, lời dẫn ngoài hình: Tôi mang theo thứ họ cần bịt lại. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Black ledger open, USB taped inside the back cover. | He removes the USB and finds the matching dispatch receipt underneath. | USB and receipt placed side by side, ledger still open. | — |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | USB and receipt placed side by side, ledger still open. | Sơn traces seven dated boxes on the receipt and stops at a ship stamp. | His fingertip on the last box beside the ship stamp. | Sơn, ngoài khung hình: Bảy ngày nữa, chuyến hàng rời bến. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Tin open, three sealed fictional Tê vials in fitted slots. | He counts the intact seals, closes the lid without using anything. | Sealed tin closed, three vials accounted for inside. | — |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn below the cabin's exposed roof beam. | He secures the closed handgun case above the beam, away from reach. | Case hidden above the beam, Sơn's empty hands below. | — |
+| [6](clip-6.md) | J · J-cut: âm mới đến trước hình | Bảy at the porch threshold carrying a meal. | Sơn covers the ledger, Bảy leaves the meal without crossing the room. | Meal by the door, covered ledger farther inside. | Ông Bảy (@Ông Bảy), nói trong hình: Ăn đi. Sáng nay chú đỡ tui cái thùng. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Sơn đổ túi vải lên bàn: một cuốn sổ bìa da đen, một hộp thiếc có ba lọ thủy tinh trong và một ống thuốc nhỏ, một vật thép khóa trong bao da, bó áo quần.** | Sơn (Voice-over): "Tất cả tôi lấy được trong một đêm chạy." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn mở sổ: cột số viết tay, tên tiệm lụa, mã lô; bìa sau có USB dán băng keo; anh bóc ra, không có máy để đọc.** | Sơn: "Sổ của Rắn Đen. Giấy thì đọc được, USB thì không." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn trèo lên xà nhà, giấu bao da khóa kín vào kẽ mái tôn; giữ lại hộp thiếc trên bàn.** | Sơn (Voice-over): "Đồ nghề để trên mái. Thứ dưới bàn hữu ích hơn." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Cận hộp thiếc: ba lọ thuốc trong; Sơn cầm một lọ lên ánh nắng, chất lỏng không màu; anh nhớ mùi xưởng.** | Sơn: "Tê. Một lọ, bốn mươi phút nằm bất động như ngủ sâu." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Tiếng bước chân ngoài hiên; Sơn úp sổ, đậy hộp; ông Bảy bưng cà mên cơm cá kho bước vào không gõ, mắt dừng ở đôi găng da trên bàn.** | Ông Bảy: "Cơm. Cá kho. Trên này không có quán." · Sơn: "Cảm ơn chú." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Ông Bảy đi ra, dừng ở hiên, nói không quay lại.** | Ông Bảy: "Cô Mây hỏi tên chú. Tui nói Sơn. Đúng không?" · Sơn: "Đúng." | Frames / Extend (nối liền) |
+- **1:** Replace the quiet romantic memory with objects that reveal why Sơn cannot simply rest. **Diễn xuất:** His orderly hands contrast with fatigue in his shoulders; the narration should sound factual, not boastful.
+- **2:** Reveal a second layer of evidence through a believable physical discovery, not a screen animation. **Diễn xuất:** Fingers slow briefly when he recognizes the receipt, suggesting significance before the next line explains it.
+- **3:** Turn the receipt into an external deadline while keeping its printed content visually unobtrusive. **Diễn xuất:** The fingertip becomes firmer at the last box; his off-screen voice remains controlled rather than prophetic.
+- **4:** Introduce the sealed substance as evidence of a larger system, without fetishizing its use. **Diễn xuất:** His hands show familiarity with the objects but no pleasure or curiosity about using them.
+- **5:** Show Sơn separating himself from violence while not pretending the past has vanished. **Diễn xuất:** Avoid a triumphant resolve; he checks placement from habit and seems heavier once the hands return.
+- **6:** Make hospitality interrupt concealment, binding Bảy's later help to an earned ordinary kindness. **Diễn xuất:** Bảy's gratitude stays practical; Sơn's relief is mixed with discomfort at being cared for.
 
----
+**Âm nối sang cảnh sau:** The meal container settling at the cabin door bridges to the flower-shop cash drawer. Do not replay the tin being closed.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

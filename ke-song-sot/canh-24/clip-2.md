@@ -1,27 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-UNDERGROUND CAR PARK (past): an underground garage beneath a glass tower, yellow neon, concrete pillars, parked cars, a lift lobby, a large ventilation duct; night.
-Story setting: Bãi xe ngầm gần hẻm lụa, đêm, neon vàng, cột bê tông (gương của Cảnh 8).
-Scene 24/60, timecode 23:00 – 24:00, clip 2/6 (10–20s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm handheld, low angle, tight on the opening movement — Nhịp đầu nối thẳng, không chuyển: Hai tên chặn giữa hai hàng xe; neon vàng nhấp nháy.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Sơn (@Son) kéo gương xe, đập cửa xe vào tên thứ nhất, khóa cổ. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Mây (@May): "Bỏ xuống."
-00:07.0–00:10.0 | Wide 24mm showing the quiet aftermath in the space — tên thứ hai rút gậy thép giơ lên, Mây (@May) từ sau quật gậy ba khúc vào cổ tay, vật thép văng dưới gầm xe. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 24/60, clip 2/6; shot 24.2. Story time: D4 late night.
+Underground city car park, ramp north, lift east, pillar rows, solid ramp railing, low maintenance door west.
+Present-day night car park, stable amber practicals and car reflections, no day light.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show cooperation through Mây continuing the route while Sơn buys a brief gap.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 24.1, ending with Both behind a parked van, exit two pillars ahead.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+One guard reaching around the van toward Mây.
+
+[CAMERA]
+35mm restrained handheld medium-wide. Keep the entire defensive action readable from one side of the axis, no speed ramp.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame the van corner, approaching guard and next pillar in one clear handheld medium-wide.
+Focus: Keep the moving door and her exit side readable, never hide them behind a whip pan.
+
+[ACTION — 0–10s, one evolving take]
+Sơn closes the car door between guard and Mây, keeping their path clear.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The barrier takes a moment, not an extended exchange, and Mây has advanced when it ends.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn closes the door into the path as a barrier, Mây taking the space it creates.
+Performance: Her direction is short and useful, his attention on the guard's approach rather than a punishing strike.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Lối bên trái.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Car paint catches the garage light; door rubber and concrete remain ordinary materials.
+
 
 [SOUND]
-Âm thanh nền: neon ù, bước chân dội bê tông; nhịp trống trầm theo từng đòn. Thoại rõ, không nhạc đè lời.
+Location bed: fluorescent hum and footsteps echoing on concrete.
+Foreground sound: One door stop and short footwork, with her line above the garage echo.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Tên thứ hai rút gậy thép giơ lên, Mây (@May) từ sau quật gậy ba khúc vào cổ tay, vật thép văng dưới gầm xe) for 0.5s; this is the first frame of clip 3.
+[END FRAME — natural motion continues]
+Guard stopped by the door, Mây moving past the next pillar.
+Next shot 24.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

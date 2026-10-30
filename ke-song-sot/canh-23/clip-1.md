@@ -1,29 +1,67 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN in the past (45, the Ghost in his signature dark attire): a real Vietnamese man, about 176 cm tall, lean, cropped black hair greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose (signature detail), in a plain black suit with no tie, white shirt open at the collar, polished black shoes, black leather gloves. Voice: low, dry, unhurried Southern Vietnamese male voice. Not resembling any real actor.
-@May = MÂY in civilian clothes (38): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, short black hair with a single white streak at the front (signature detail), in a denim jacket over a dark T-shirt, jeans, sneakers, a small backpack, steel cuffs tucked in her jacket. Voice: firm, dry, slightly amused Southern Vietnamese female voice.
-@HaiNgoc = BÀ HAI NGỌC (60, matriarch of the Rắn Đen syndicate, owner of a silk shop as a front): a real Vietnamese woman, about 158 cm tall, small and upright, silver hair in a tight bun, powdered calm face, eyes that never blink first, a thick jade bracelet on her LEFT wrist (signature detail), a long black unlit holder in her hand. Outfit: a violet silk áo bà ba with a high collar, black silk trousers, embroidered slippers. Voice: soft, slow, sweet Southern Vietnamese female voice, around 60.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, violet silk áo bà ba, black trousers, embroidered slippers, unlit black holder. Voice: soft, slow Southern Vietnamese female voice with precise diction.
 
-[SETTING]
-SILK SHOP (Rắn Đen front): a dim shop of silk bolts in a city lane, a back office with a teak desk, incense, a steel safe behind a screen, a small courtyard; amber night light.
-Story setting: Phòng sau tiệm lụa, đêm ám vàng, bàn lim, cuộn lụa chất cao.
-Scene 23/60, timecode 22:00 – 23:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm wide establishing the characters in the environment — Vào cảnh: Sơn (@Son) ngồi xuống đối diện Bà Hai Ngọc (@HaiNgoc), Mây (@May) đứng sau lưng anh, hai người áo đen sau bình phong; cuộn lụa chất cao hai bên.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — trà bốc khói. Người nói ở tiền cảnh, môi rõ, người nghe mờ phía sau: Bà Hai Ngọc (@HaiNgoc): "Vũ Kiên (@Vũ Kiên) trả má gấp đôi. Để má gài con."
-00:07.0–00:10.0 | 50mm hold on the face, no cut — bà châm tẩu. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 23/60, clip 1/6; shot 23.1. Story time: D4 late night.
+City silk shop, teak desk to east, screened safe behind it, rear stock door west, warm practical lamps.
+Same present-day shop night as scene 22, desk lamp unchanged.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make an offered comfort reveal a coercive history rather than warm hospitality.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 22.6, ending with Chair angled toward the exit, three separate tea cups untouched.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place; no transformation, morph, dissolve or replay of the old shot.
+
+[START FRAME — state only, not an action to repeat]
+Three untouched cups, Sơn's chair angled toward the rear exit.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Match the three untouched cups and angled chair, keeping Bà Hai dominant without looming theatrics.
+Focus: Keep the offered cup and his unmoving hand readable in the same medium setup.
+
+[ACTION — 0–10s, one evolving take]
+Bà Hai offers tea, neither visitor reaches for it.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Do not retract the cup too soon; the unaccepted offer becomes the uncomfortable end point.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She offers one cup across the same distance; neither traveler completes the handover.
+Performance: Her patience suggests she expects obedience, while Sơn's refusal is almost entirely stillness.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Bà Hai (@HaiNgoc), nói trong hình: Kiên trả tiền để con im miệng.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Thin steam, smooth porcelain and the worn table edge distinguish domestic ritual from negotiation.
+
 
 [SOUND]
-Âm thanh nền: két sắt xoay, mưa trên mái hẻm; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: silk shifting and muted rain outside.
+Foreground sound: Small porcelain contact should be real and restrained, with her voice staying clear.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Sơn (@Son) ngồi xuống đối diện Bà Hai Ngọc (@HaiNgoc), Mây (@May) đứng sau lưng anh, hai người áo đen sau bình phong. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Cup offered but untouched between Bà Hai and Sơn.
+Next shot 23.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

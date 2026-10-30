@@ -1,27 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 1. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-CLIFF ROAD AT NIGHT: a narrow road climbing the cliff from the town to the lighthouse, a motorbike headlight, sea wind, no streetlights.
-Story setting: Đường vách đá lên hải đăng, đêm, đèn xe máy, gió biển, không đèn đường.
-Scene 48/60, timecode 47:00 – 48:00, clip 2/6 (10–20s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm handheld, low angle, tight on the opening movement — Nhịp đầu nối thẳng, không chuyển: Khúc cua vách đá, xe trượt bánh sau trên sỏi, Sơn (@Son) chống chân, giữ lại, ga tiếp; đèn pha cắt sương.
-00:03.5–00:07.0 | Handheld 28mm medium shot capturing the close-quarters grapple — dưới vực, biển đen.
-00:07.0–00:10.0 | Wide 24mm showing the quiet aftermath in the space — trên cao, đèn hải đăng tắt từ lâu nay bỗng có ánh đèn pin. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 48/60, clip 2/6; shot 48.2. Story time: D7 night continuous.
+Main iron entrance of old lighthouse, motorcycle space outside, main spiral stair inside, maintenance route separate.
+Night road lit by motorcycle headlamp, lighthouse work lights and low practicals inside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Carry the approach directly into an organized entry rather than another heroic arrival.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 48.1, ending with Motorcycle approaching the lighthouse bend, both helmets still on.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Motorcycle stopped at the main entrance, engine switched off.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use a wide that includes parked bike, main iron door and the first interior stair.
+Focus: Keep feet, helmets and doorway within one readable setup so nothing vanishes between the two actions.
+
+[ACTION — 0–10s, one evolving take]
+They dismount and leave both helmets on the seat before entering.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Complete the transition from seated to entering once, leaving the staircase ascent to its next shot.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: They dismount after the engine is off, place both helmets on the seat and enter on foot.
+Performance: Mây keeps an eye on Sơn's balance, he accepts the slower pace without repeating a protest.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Same motorcycle stays outside, helmets remain together on its seat, no new vehicle or weapon appears.
+
 
 [SOUND]
-Âm thanh nền: máy xe máy gào lên dốc; nhịp trống trầm theo từng đòn. Thoại rõ, không nhạc đè lời.
+Location bed: wind through iron doorway and footsteps.
+Foreground sound: Engine ends cleanly, helmet contact and iron-door wind take over as local sounds.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Trên cao, đèn hải đăng tắt từ lâu nay bỗng có ánh đèn pin) for 0.5s; this is the first frame of clip 3.
+[END FRAME — natural motion continues]
+Both on foot at the main door, helmets left on the motorcycle.
+Next shot 48.3: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

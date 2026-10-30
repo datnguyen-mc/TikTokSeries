@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 2: Quá Khứ: Hợp Đồng Cuối
+# Kẻ Sống Sót: Bóng Ma — Cảnh 02: Quá Khứ: Hợp Đồng Cuối
 
-**Cảnh 2/60** · Phút 01:00 – 02:00 của phim · Hồi 1: Bảy Ngày · Tập 1/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 01](../canh-01/README.md) | [Cảnh 03 →](../canh-03/README.md)
+Phút 01:00–02:00 · Thời gian truyện: PAST one month earlier night
 
----
+Bà Hai giao việc cuối và Dũng lộ sự ghen tức.
 
-## 1. Tóm tắt cảnh
-Quá khứ: phòng sau tiệm lụa, Bà Hai Ngọc nhỏ bé ngồi sau bàn lim, vòng ngọc tay trái, tẩu đen không châm; Sơn vest đen đứng trước bàn, Dũng đầu đinh đứng cạnh cửa. Sơn nhìn ảnh, không chạm; cận bàn tay đeo găng da đặt lên mép bàn; anh nói chậm. Sơn bước ra hẻm lụa đêm, đèn vàng, mưa phùn; anh dừng lại nhìn tấm ảnh Vũ Kiên lần nữa, lật mặt sau: địa chỉ một tòa nhà kính, bên dưới là một tiệm hoa.
+**Câu hỏi đang mở:** Ơn nuôi dưỡng của Bà Hai có cho Sơn quyền rời đi không?
+**Móc vào cảnh:** Dũng đóng cửa nhẹ hơn mức khán giả chờ ở một lời mời ngồi.
+**Điểm bẻ:** Tấm vé xin nghỉ bị phủ lụa, món việc trở thành món nợ.
+**Gieo / trả:** Sự ghen ghế của Dũng trả ở 18–24; lụa che vé báo trước quyền sở hữu con người.
 
-* **Bối cảnh chính:** Quá khứ, tiệm lụa trong hẻm thành phố, đêm ám vàng, phòng sau bàn gỗ lim, nhang.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Bà Hai Ngọc (@HaiNgoc), Dũng Đinh (@Dũng)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | L · L-cut: âm cũ đi qua cú cắt | Silk curtain at left, three figures around a teak desk. | Sơn stops before Bà Hai, Dũng quietly closes the rear door. | Sơn standing opposite Bà Hai, Dũng by the shut door. | Bà Hai (@HaiNgoc), nói trong hình: Ngồi đi con. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bà Hai's left hand beside a face-down photograph. | She slides Kiên's portrait toward Sơn, jade bracelet visible. | Kiên's portrait beside Sơn's black glove. | Bà Hai, ngoài khung hình: Kiên giữ sổ gốc. Má cần lấy lại. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn facing Bà Hai across the desk. | He leaves the photograph untouched and sets a return ticket down. | Ticket between the two, Sơn's hands still. | Sơn (@Son), nói trong hình: Xong việc này, con nghỉ. |
+| [4](clip-4.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Ticket between the two, Sơn's hands still. | Bà Hai covers the ticket with a folded strip of silk. | Her hand rests on the silk covering Sơn's ticket. | Bà Hai (@HaiNgoc), nói trong hình: Con đi thì ai giữ nhà cho má? |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng holding the rear door for Sơn. | Dũng looks at the untouched chair, then blocks the doorway briefly. | Sơn and Dũng separated by the door edge. | Dũng (@Dũng), nói trong hình: Má để ghế cho mày hoài. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Sơn already outside, silk door closing behind him. | He turns Kiên's photo over and studies a building entrance sketch. | Photo back beside the real tower across the street. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Quá khứ: phòng sau tiệm lụa, Bà Hai Ngọc nhỏ bé ngồi sau bàn lim, vòng ngọc tay trái, tẩu đen không châm; Sơn vest đen đứng trước bàn, Dũng đầu đinh đứng cạnh cửa.** | Bà Hai: "Ngồi đi con. Lâu rồi má không thấy con." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Dũng đặt lên bàn một tấm ảnh: người đàn ông vest trắng cười rộng, Vũ Kiên; Bà Hai đẩy ảnh về phía Sơn bằng một ngón tay.** | Bà Hai: "Vũ Kiên. Nó không chịu rửa tiền cho má nữa." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn nhìn ảnh, không chạm; cận bàn tay đeo găng da đặt lên mép bàn; anh nói chậm.** | Sơn: "Hợp đồng này là hợp đồng cuối." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Bà Hai cười, châm tẩu lần đầu, khói mỏng; bà đứng dậy, đi vòng qua bàn, vỗ má Sơn như vỗ con.** | Bà Hai: "Bóng ma không có hợp đồng cuối, con." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Dũng mở cửa, hất đầu; Sơn đi ngang, Dũng nói nhỏ, khuyên tai hình đinh lóe.** | Dũng: "Bà Hai thương mày. Tao thì không." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Sơn bước ra hẻm lụa đêm, đèn vàng, mưa phùn; anh dừng lại nhìn tấm ảnh Vũ Kiên lần nữa, lật mặt sau: địa chỉ một tòa nhà kính, bên dưới là một tiệm hoa.** | Sơn (Voice-over): "Tôi chưa biết tiệm hoa đó sẽ đổi mọi thứ." | Frames / Extend (nối liền) |
+- **1:** Introduce a household invitation whose geometry already limits Sơn's freedom to leave. **Diễn xuất:** Bà Hai's warmth is practiced and genuine enough to unsettle; Dũng avoids a theatrical glare.
+- **2:** Let a single sliding photograph define the transaction more clearly than exposition can. **Diễn xuất:** The hand is unhurried and assumes compliance; his glove remains still long enough to register refusal.
+- **3:** Give Sơn's wish to leave a concrete cost by putting his return ticket between them. **Diễn xuất:** His voice is restrained; the stillness afterward should look rehearsed, because he expects resistance.
+- **4:** Show Bà Hai answering departure with possession through an almost affectionate domestic gesture. **Diễn xuất:** She asks as though appealing to family; Sơn's jaw tightens without a visible argument starting.
+- **5:** Make Dũng's jealousy specific to the place Sơn receives in the household. **Diễn xuất:** His resentment should arrive through an almost casual remark; Sơn does not reward it with a taunt.
+- **6:** Connect the assigned target to a real place before the audience sees the woman living there. **Diễn xuất:** His attention is professional and narrow; no anticipatory romantic expression belongs here yet.
 
----
+**Âm nối sang cảnh sau:** Match the rectangle of the building sketch to the stall mirror edge. Replace city rain with present-day coastal morning sound.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

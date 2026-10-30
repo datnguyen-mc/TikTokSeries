@@ -1,28 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@Ha = HẠ: Vietnamese woman, 32, long loose black hair, pale-blue silk scarf, cream linen dress with a green florist apron; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. cream linen dress, green florist apron, pale-blue scarf at neck, flat sandals. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-CITY AT NIGHT (past): a big Vietnamese city at night in amber light, glass towers, wet streets, neon reflections, a silk lane, a passenger port; no readable signs.
-Story setting: Quá khứ, bến cảng thành phố, đêm ám vàng, tàu khách, gió.
-Scene 15/60, timecode 14:00 – 15:00, clip 5/6 (40–50s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow dolly in from medium shot — Tiếp từ khung cuối clip trước: Hạ (@Ha) tháo khăn lụa xanh quấn vào cổ anh; mưa phùn qua đèn đường.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — buộc nút. Thoại có khẩu hình, máy thấy rõ miệng người nói: Hạ (@Ha): "Xanh này là màu biển buổi sáng."
-00:07.0–00:10.0 | 85mm close-up on the quiet gaze — Sơn (@Son) đứng yên như người chưa từng được ai buộc gì. Khung kết đứng yên, chờ clip 6.
+[TIMELINE AND LOCATION]
+Scene 15/60, clip 5/6; shot 15.5. Story time: PAST one month earlier evening.
+City passenger pier, wide walkway, rail with glass wind panels, ferries beyond the river.
+Recent-past evening city pier, warm lamps and last daylight, no hard neon.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make a small protective reflex intimate without confusing it with ownership of the scarf.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 15.4, ending with Her empty hands resting on the rail, Sơn beside her.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Hạ with her pale-blue scarf loose at her neck.
+
+[CAMERA]
+85mm close-up at eye level, restrained natural depth of field. No orbit or chase movement.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The close-up holds Hạ's face, the loose scarf end and Sơn's gloved hand within one plausible reach.
+Focus: Keep the caught fabric and faces at useful close-up depth, never making the water an impossible sharp insert.
+
+[ACTION — 0–10s, one evolving take]
+Wind lifts one end, Sơn catches it before it touches dirty water.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The catch is quick and the release unforced; let the moment after he lets go carry the intimacy.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Wind lifts the existing scarf; Sơn catches its end and returns the cloth to her hand immediately.
+Performance: He is gentle without lingering possession, and her brief look acknowledges care rather than helplessness.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- One long pale-blue silk scarf, intact in the past before abduction.
+
+[VISIBLE TEXTURE]
+Blue silk moves lightly against black glove, its intact edge clear before the later torn-fragment scenes.
+
 
 [SOUND]
-Âm thanh nền: còi xe xa, mưa phùn trên vải; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: low ferry horn and water against pilings.
+Foreground sound: Use fabric movement over the steady pier wind, not a splash or dramatic catch sound that did not occur.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Sơn (@Son) đứng yên như người chưa từng được ai buộc gì. Hold that exact frame still for 0.5s; clip 6 starts from it.
+[END FRAME — natural motion continues]
+Scarf back in Hạ's hand, his gloved hand released.
+Next shot 15.6: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

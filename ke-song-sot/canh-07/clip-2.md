@@ -1,31 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1, matching position, light and 16:9 framing exactly, as one unbroken take.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ, sáng ngày 2, nắng, gió dương.
-Scene 7/60, timecode 06:00 – 07:00, clip 2/6 (10–20s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 07/60, clip 2/6; shot 07.2. Story time: D2 morning.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea.
+Present-day morning daylight, neutral station window fill for station shots.
 
-[SHOT LIST]
-00:00–00:03.5 | Slow 35mm push-in establishing the room and subject — Hành động dở dang đi tiếp ngay giây đầu: Mây (@May) gõ cửa dù cửa mở, bước vào, đứng giữa phòng, đưa tay: giấy tờ; mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Sơn (@Son) đưa một thẻ căn cước (không chữ đọc được). Thoại ngắn, khẩu hình thật, không nhạc dưới lời: Mây (@May): "Nguyễn Văn Sơn (@Son). Năm mươi tuổi." · Sơn: "Bốn lăm. Ảnh xấu."
-00:07.0–00:10.0 | 50mm close-up as the shadow falls across the frame — cô đọc, nhìn anh, nhìn thẻ. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show Mây's lawful courtesy making evasion harder than a forceful entrance would.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 07.1, ending with Two marks, tool put on the shelf.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Mây outside the threshold, Sơn holding the door open.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The medium porch setup keeps the open threshold as a visible boundary between visitor and renter.
+Focus: Hold faces and the passing card in practical shared depth, with no readable official details required.
+
+[ACTION — 0–10s, one evolving take]
+She waits for permission before asking for his papers.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the respectful waiting occupy a beat before the request, then make the card exchange clean and singular.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She waits outside until acknowledged; Sơn passes the card across instead of inviting her deeper immediately.
+Performance: Mây's tone is neutral and patient, while Sơn overcontrols the simple handover to hide discomfort.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Tôi cần xác nhận người thuê nhà.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Doorframe weathering and the card's ordinary plastic surface keep the encounter mundane and credible.
+
 
 [SOUND]
-Âm thanh nền: sóng rất xa, ván gỗ kêu; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: soft surf, pine wind and porch-board creaks.
+Foreground sound: A light knock or threshold step already motivated by arrival may sit under her line; no threatening percussion.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Cô đọc, nhìn anh, nhìn thẻ for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Sơn passing a card across the threshold.
+Next shot 07.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,28 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 5: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SMALL-TOWN POLICE POST: a tiled front room with a steel desk, a ceiling fan, an old computer, a holding room with a barred window, a motorbike outside; no readable insignia.
-Story setting: Đồn công an thị trấn, đêm ngày 3, quạt trần, máy tính cũ.
-Scene 17/60, timecode 16:00 – 17:00, clip 6/6 (50–60s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Mây (@May) tháo cái thẻ trên túi áo (không chữ) đặt vào ngăn bàn; quạt trần quay chậm trên đầu.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — khóa. Máy ở trên mặt người nói khi câu bắt đầu: Mây (@May): "Hai ngày tới tôi nghỉ phép. Chị đi tìm bạn." · Phó Thành (@Phó Thành): "Chị..." · Mây: "Giữ thị trấn."
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — Phó Thành (@Phó Thành) há miệng. Đứng hình nửa giây ở khung cuối, cảnh khép lại ở đây.
+[TIMELINE AND LOCATION]
+Scene 17/60, clip 6/6; shot 17.6. Story time: D3 night.
+Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
+Present-day night station, neutral desk practical and monitor fill, no daylight.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+End the investigation scene on an accountable choice to leave town with protection arranged, not on more exposition.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 17.5, ending with Thành drawing the token shape in his notebook.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Mây on the station phone, Thành with the copied evidence.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The wide setup includes station phone, copied evidence and roster with all three people in their working positions.
+Focus: Keep figures and document handover legible, with no extra remote superior face or screen call added.
+
+[ACTION — 0–10s, one evolving take]
+She briefs district support and assigns town protection before going to the city.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The delegation is the turn; finish with Thành acknowledging and let incoming morning engines provide the next pressure.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây briefs support, assigns Thành's town role and leaves the roster before preparing to travel.
+Performance: Her concern for Hạ stays under professional control; Thành accepts responsibility without another comic objection.
+
+
+[DIALOGUE]
+0.8–4.7s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Tôi theo dấu Hạ. Không rút người giữ thị trấn.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The roster is plain work paper, not a dramatic operations board suddenly appearing for the trip.
+
 
 [SOUND]
-Âm thanh nền: đèn tuýp ù nhẹ; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: ceiling fan and quiet paperwork.
+Foreground sound: Use a low confirmation tone from the established channel beneath the instruction, without a second full conversation.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Close the night station sound cleanly. New morning engines establish Dũng arriving with changed stakes, not a repeated visitor search.
 
-[END FRAME]
-Freeze on Phó Thành (@Phó Thành) há miệng for 0.5s; scene complete.
+[END FRAME — natural motion continues]
+Protection roster on the desk, Thành acknowledging his post.
+Next shot 18.1: Cắt thiết lập thời gian/không gian. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

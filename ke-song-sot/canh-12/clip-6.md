@@ -1,32 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 5. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-CASUARINA PINE DUNE: a dune of white sand and casuarina pines above the town, wind in the needles, long shadows, the cabin visible between trunks.
-Story setting: Rừng dương trên đồi cát, sáng ngày 3, nắng xiên, gió rít.
-Scene 12/60, timecode 11:00 – 12:00, clip 6/6 (50–60s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
+[TIMELINE AND LOCATION]
+Scene 12/60, clip 6/6; shot 12.6. Story time: D3 morning.
+White-sand dune under casuarina pines, cabin uphill, main path down toward market.
+Present-day morning, raking daylight between pines, natural sandy reflections.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm tracking alongside the moving subject — Nhịp đầu nối thẳng, không chuyển: Mây (@May) và Phó Thành (@Phó Thành) chạy lên đồi theo tiếng gọi, dừng sững: hai người đàn ông nằm ngửa bất động; thân dương thẳng như cột.
-00:03.5–00:07.0 | 24mm wide showing the full movement across the space — Phó Thành (@Phó Thành) sờ cổ: có mạch.
-00:07.0–00:10.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) nhìn quanh rừng dương trống. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Phó Thành (@Phó Thành): "Còn thở, chị!" · Mây (@May): "Chết mà còn thở. Đưa về phòng khám." Khung cuối bất động 0.5s rồi khép cảnh.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+End the action on Sơn accepting scrutiny, making cooperation a cost he consciously pays.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 12.5, ending with Sơn kneeling beside the breathing man, phone at his ear.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Mây and Thành arriving with a stretcher at the tree line.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide tree-line view to connect stretcher arrival, the two attackers and Sơn's empty hands.
+Focus: Hold the whole rescue arrangement clear, with no cut to a face that loses the patient positions.
+
+[ACTION — 0–10s, one evolving take]
+Sơn steps away with empty hands, Mây takes control of the two men.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the rescue movement continue while Sơn becomes still by choice, avoiding a victory pose or frozen group tableau.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He steps back once to give the stretcher room and stays where Mây can supervise him.
+Performance: Mây's command is firm but not triumphant; Sơn obeys without a defiant stare or another attempted escape.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Anh ở lại. Tôi cần nghe hết.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Stretcher fabric, sand and field clothing stay practical; the morning sun does not become emergency-colored lighting.
+
 
 [SOUND]
-Âm thanh nền: lá dương reo như sóng; gió và máy nổ. Thoại rõ, không nhạc đè lời.
+Location bed: wind moving pine needles and distant surf.
+Foreground sound: Approaching steps and stretcher handling merge with Mây's line, with the breathing thread ready for the clinic cut.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Carry the fallen man breathing under the cut to the clinic. No replay of the fall or stretcher arrival.
 
-[END FRAME]
-End on: Mây (@May) nhìn quanh rừng dương trống. Hold still for 0.5s; this closes the scene.
+[END FRAME — natural motion continues]
+Mây by the stretcher, Sơn standing where she can see him.
+Next shot 13.1: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

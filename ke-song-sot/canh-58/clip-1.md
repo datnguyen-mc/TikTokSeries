@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
+Time ellipsis: later before transport, Sơn has changed back into his stored olive jacket.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Xe chở phạm chạy qua đường chính và bờ kè, sáng, nắng, cửa kính lưới.
-Scene 58/60, timecode 57:00 – 58:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 58/60, clip 1/6; shot 58.1. Story time: D8 late morning.
+Inside prisoner transport, mesh side window to right, Sơn seated facing front, Thành opposite with transfer folder.
+Day-eight late morning, natural vehicle-window light, coastal sun outside.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Khung mở: Trong xe; ghe cá ngoài kè làm nền.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Sơn (@Son) còng tay, áo khoác ô liu trở lại, ngồi cạnh cửa kính lưới. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Phó Thành (@Phó Thành): "Anh nhìn bên trái. Cầu cảng."
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — Phó Thành (@Phó Thành) ngồi cùng xe áp giải, kính mới, ôm hồ sơ. Kết bằng khung tĩnh 0.5s.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Place the farewell inside the unavoidable movement of custody, not a private romantic escape.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 57.6, ending with Hạ visible from the transport lane, Mây beside her.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Inside the prisoner transport, Sơn in olive jacket after a documented clothing change.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame Sơn by the RIGHT mesh window, Thành opposite with the existing transfer file.
+Focus: Keep the window direction and opposing seats clear, no confusing mirror reversal of right and left.
+
+[ACTION — 0–10s, one evolving take]
+Thành sits opposite with the transfer file, signals the public walkway ahead.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The direction arrives once, Sơn begins to look, and the vehicle continues rather than pausing conveniently for a speech.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Thành gives the brief direction and leaves visual space for Sơn to turn toward it.
+Performance: His courtesy is discreet, Sơn's anticipation held in a small turn rather than an impulsive lunge.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Thành (@Phó Thành), nói trong hình: Bên phải. Cạnh hàng cây.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Olive jacket has returned only after the stated clothing change, LEFT bandage and closed watch remain consistent.
+
 
 [SOUND]
-Âm thanh nền: ghe nổ máy ngoài cảng; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: vehicle engine and road tires under clear voices.
+Foreground sound: Transport engine and tires form a steady bed, Thành's line concise without radio chatter over it.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Phó Thành (@Phó Thành) ngồi cùng xe áp giải, kính mới, ôm hồ sơ, perfectly still for half a second so clip 2 can continue without a cut.
+[END FRAME — natural motion continues]
+Sơn turning toward the side window, Thành giving him space.
+Next shot 58.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Sau quán bờ kè, trưa ngày 7, bóng bạt, xe trắng vừa đi.
-Scene 37/60, timecode 36:00 – 37:00, clip 2/6 (10–20s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Không cắt, cùng tư thế cuối clip trước: Sơn (@Son) giải thích: Vũ Kiên (@Vũ Kiên) cần thấy anh nhận; bạt xanh phần phật.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Bà Hai Ngọc (@HaiNgoc) cần thấy anh mang sổ; cả hai cần thấy anh ngã xuống. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Sơn (@Son): "Hai người thấy tôi ngã xuống. Một người thấy tôi sống. Là cô."
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — chỉ cần một người thấy anh sống: Mây (@May). Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[TIMELINE AND LOCATION]
+Scene 37/60, clip 2/6; shot 37.2. Story time: D7 afternoon.
+Covered rear lane behind the coffee stall, isolated from the public road, map table beside the rear door.
+Same afternoon as scene 36, quiet shade behind awning.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Separate the limited preview they will offer from the false admission they will never sign.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 37.1, ending with Folder closed in Mây's hand, Sơn's hands empty.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Copy envelope open between them, only selected ledger pages inside.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the detail frame to show the open copy envelope and closed confession folder apart.
+Focus: Keep paper thickness and different containers legible, with no readable signatures or invented security marks.
+
+[ACTION — 0–10s, one evolving take]
+They mark it as a preview, originals already with the investigator.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Finish with preview and confession separated, making the refusal visible without rehearsing the whole exchange.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: They verify the selected pages already present, keeping originals absent and the folder untouched.
+Performance: Their hands communicate agreement through clear separation, not a staged secret-agent flourish.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Sơn, ngoài khung hình: Tôi chỉ đưa bản xem trước.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+
+[VISIBLE TEXTURE]
+Thin preview sheets and the heavier folder create a concrete visual distinction.
+
 
 [SOUND]
-Âm thanh nền: ghe nổ máy ngoài cảng; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: muted coffee stall voices and soft canvas movement.
+Foreground sound: Paper edges moving against the table support Sơn's off-screen sentence, with no digital confirmation sound.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Chỉ cần một người thấy anh sống: Mây (@May), perfectly still for half a second so clip 3 can continue without a cut.
+[END FRAME — natural motion continues]
+Preview pages separated from the blank confession folder.
+Next shot 37.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

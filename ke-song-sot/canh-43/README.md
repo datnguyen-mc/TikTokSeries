@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 43: Bóng Ma Chết
+# Kẻ Sống Sót: Bóng Ma — Cảnh 43: Không Ai Còn Là Món Hàng
 
-**Cảnh 43/60** · Phút 42:00 – 43:00 của phim · Hồi 3: Người Môi Giới · Tập 5/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 42](../canh-42/README.md) | [Cảnh 44 →](../canh-44/README.md)
+Phút 42:00–43:00 · Thời gian truyện: D7 dusk
 
----
+Hai phe tranh quyền giữ Sơn, lực lượng vào khi thấy hành vi khống chế.
 
-## 1. Tóm tắt cảnh
-Dũng quỳ xuống bắt mạch cổ Sơn: không thấy; sờ ngực: lạnh; hắn vuốt mắt Sơn nhưng mắt không nhắm; hắn đứng dậy, lắc đầu với Bà Hai. Kiên nói sổ là của ông ta, Bóng Ma chết thì hợp đồng hoàn tất, bà Hai phải rút; Bà Hai cười lạnh: Bóng Ma chưa ra tay, hợp đồng chưa xong. Cận Sơn nằm bất động, trong mắt mở phản chiếu đèn cột và bóng người chạy qua; lời dẫn.
+**Câu hỏi đang mở:** Bà Hai bảo vệ Sơn vì thương hay vẫn muốn sở hữu anh?
+**Móc vào cảnh:** Hai phe tranh quyền giữ người trong lúc Sơn không thể tự chọn.
+**Điểm bẻ:** Bà ngăn Kiên lấy Sơn nhưng cuộc khống chế đã đủ để Mây vào.
+**Gieo / trả:** Người giữ luật tách khỏi hai phe coi người là món hàng.
 
-* **Bối cảnh chính:** Cầu cảng, chạng vạng xanh, đèn cột chưa bật.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Bà Hai Ngọc (@HaiNgoc), Dũng Đinh (@Dũng), Vũ Kiên (@Vũ Kiên)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | MATCH · Match cut hình dạng/tư thế, không morph | Preview envelope still on the center seam where Sơn placed it, Bà Hai beside the collapsed Sơn, Kiên west of them holding Hạ. | Bà Hai refuses to hand Sơn to Kiên and pulls Dũng away from his demand. | Bà Hai shielding Sơn's side, Kiên forced to keep Hạ close. | Bà Hai (@HaiNgoc), nói trong hình: Con tao. Không giao thêm lần nữa. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Kiên tightening his hold on Hạ, facing Bà Hai. | He reminds her she sold both people and signals his guard toward Sơn. | Guard moving toward center, Kiên stepping toward the white car. | Kiên (@Vũ Kiên), nói trong hình: Bà bán rồi. Giờ muốn lấy lại sao? |
+| [3](clip-3.md) | J · J-cut: âm mới đến trước hình | Mây coming out of landward cover, officers behind her. | She activates the harbour floodlight and orders everyone to release their grips. | Harbour lit steadily, Mây advancing along the safe line. | Mây (@May), nói trong hình: Bỏ người ra. Công an đây. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Thành on the roof, white car and service stair visible below. | He spots Kiên using the car as cover to reach the uphill maintenance path. | Kiên and Hạ moving behind the white car toward the stair. | Thành, qua thiết bị: Hướng tây. Lối kỹ thuật sau xe trắng. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Dũng trying to pull Sơn behind the black car, Mây within reach. | Mây and an officer separate Dũng from Sơn without dropping the immobile man. | Sơn supported by the officer, Dũng withdrawing behind a crate. | Mây (@May), nói trong hình: Đưa Sơn về xe cứu hộ. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Kiên and Hạ at the foot of the narrow maintenance stair behind the apron. | He blocks the lower gate with a tipped cart and forces her upward. | Cart blocking the lower gate, pair ascending the service stair. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Dũng quỳ xuống bắt mạch cổ Sơn: không thấy; sờ ngực: lạnh; hắn vuốt mắt Sơn nhưng mắt không nhắm; hắn đứng dậy, lắc đầu với Bà Hai.** | Dũng: "Chết. Thằng này ngưng thở thiệt." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Bà Hai ngồi xuống bê tông cạnh Sơn, bàn tay đeo vòng ngọc đặt lên trán nó; cận mặt bà, lần đầu có nước mắt; rồi bà lau, đứng dậy.** | Bà Hai: "Má bán con. Con bán má. Huề." · Bà Hai (với Dũng): "Lấy sổ. Nó giấu ở đâu đó." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Kiên nói sổ là của ông ta, Bóng Ma chết thì hợp đồng hoàn tất, bà Hai phải rút; Bà Hai cười lạnh: Bóng Ma chưa ra tay, hợp đồng chưa xong.** | Kiên: "Sổ của tôi. Hợp đồng xong." · Bà Hai: "Nó chưa ra tay. Chưa xong." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Hai phe bước lên, gậy thép giơ lên hai phía (không bắn), Hạ bị Kiên kéo lùi về xe trắng; Dũng và vệ sĩ Kiên ghì nhau giữa cầu.** | Dũng: "Lùi!" · Vệ sĩ Kiên: "Mày lùi!" | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Cuối cầu cảng, Mây bật công tắc: cột đèn cảng sáng trắng; tiếng ghe nổ máy đồng loạt; dân thị trấn từ sau thúng, ghe, chợ đứng dậy với lưới và sào; Thành trên nóc hét.** | Thành: "Tỉnh tới cổng! Năm phút!" · Mây: "Hòn Sóng! Vào!" | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Cận Sơn nằm bất động, trong mắt mở phản chiếu đèn cột và bóng người chạy qua; lời dẫn.** | Sơn (Voice-over): "Phút thứ sáu. Thị trấn của cô ấy đánh thay tôi." | Frames / Extend (nối liền) |
+- **1:** Make Bà Hai's protection emotionally real while keeping its possessive language visible. **Diễn xuất:** She speaks as a mother who still calls a person hers; do not frame this as absolution.
+- **2:** Let Kiên puncture Bà Hai's self-justification while exploiting the opening she has left. **Diễn xuất:** He sounds irritated that an agreed commodity is being reclaimed, not surprised by her morality.
+- **3:** Change control of the space through a visible police action rather than a magical rescue arrival. **Diễn xuất:** Her command is clear and forceful without triumph; every armed person remains a live concern.
+- **4:** Give the audience a concrete route of escape at the moment Kiên exploits it. **Diễn xuất:** Thành reports direction before emotion, recognizing a changing problem rather than merely shouting danger.
+- **5:** Make Sơn's extraction competent while showing why Mây cannot chase every threat at once. **Diễn xuất:** Mây's urgency is practical, Dũng relinquishes position reluctantly and keeps searching for a way back.
+- **6:** Turn the escape into an obstacle that will cost the rescuers real time. **Diễn xuất:** Hạ studies the narrowing route rather than collapsing; Kiên becomes hurried and less polished.
 
----
+**Âm nối sang cảnh sau:** Police commands continue over rescue movement and the service-route cut. No reset to a second stand-off.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

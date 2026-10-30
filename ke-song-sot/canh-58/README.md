@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 58: Xe Chở Phạm
+# Kẻ Sống Sót: Bóng Ma — Cảnh 58: Qua Ô Cửa Xe
 
-**Cảnh 58/60** · Phút 57:00 – 58:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 57](../canh-57/README.md) | [Cảnh 59 →](../canh-59/README.md)
+Phút 57:00–58:00 · Thời gian truyện: D8 late morning
 
----
+Chia tay bằng một ánh nhìn, không diễn lại nhiều lần.
 
-## 1. Tóm tắt cảnh
-Trong xe, Sơn còng tay, áo khoác ô liu trở lại, ngồi cạnh cửa kính lưới; Thành ngồi cùng xe áp giải, kính mới, ôm hồ sơ. Sơn đặt bàn tay còng lên kính; cận đồng hồ trong túi ngực, tích tắc; Thành quay mặt đi cho anh nhìn lâu hơn. Thành hỏi nhỏ một câu; Sơn nhìn ra đường.
+**Câu hỏi đang mở:** Hai người có thể chia tay mà không cần lời hứa dễ dàng?
+**Móc vào cảnh:** Ô kính xe tạo khoảng cách không thể rút ngắn bằng chạy theo.
+**Điểm bẻ:** Một bông hoa, một cái gật; Hạ quay về công việc, Sơn đi tiếp bằng tên mình.
+**Gieo / trả:** Đây là cuộc chia tay duy nhất, các cảnh sau không tổ chức thêm lượt tiễn.
 
-* **Bối cảnh chính:** Xe chở phạm chạy qua đường chính và bờ kè, sáng, nắng, cửa kính lưới.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Phó Thành (@Phó Thành)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Inside the prisoner transport, Sơn in olive jacket after a documented clothing change. | Thành sits opposite with the transfer file, signals the public walkway ahead. | Sơn turning toward the side window, Thành giving him space. | Thành (@Phó Thành), nói trong hình: Bên phải. Cạnh hàng cây. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | View from Sơn's window, Hạ at the public walkway with one wrapped lily. | She lifts the flower only to chest height as the vehicle approaches. | Hạ holding one lily against her chest, eyes on the moving window. | — |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn beside the mesh window, closed watch chain secured inside his jacket. | He acknowledges Hạ with one small nod, keeping his cuffed hands low. | Sơn's nod finished, eyes still following her. | — |
+| [4](clip-4.md) | L · L-cut: âm cũ đi qua cú cắt | Transport already beyond Hạ, both women on the walkway. | Hạ lowers the flower and turns toward her chosen stall site. | Both women walking back toward the market, vehicle continuing away. | — |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn facing forward again as the town thins outside. | Thành opens the destination transfer file, the journey continues without another farewell. | Sơn seated quietly, file open in Thành's lap. | Sơn, lời dẫn ngoài hình: Tôi rời đi bằng tên mình. |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Transport approaching the crossroad where the coach once stopped. | It takes the inland road and leaves the sea visible after it exits frame. | Empty crossroad, transport sound receding inland. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Trong xe, Sơn còng tay, áo khoác ô liu trở lại, ngồi cạnh cửa kính lưới; Thành ngồi cùng xe áp giải, kính mới, ôm hồ sơ.** | Thành: "Anh nhìn bên trái. Cầu cảng." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Qua lưới kính, cầu cảng trôi qua: Hạ đứng ở cột đèn với bó ly trắng, khăn xanh, không vẫy, chỉ đứng.** | Sơn (Voice-over): "Cô ấy không vẫy. Cô ấy đứng cho tôi thấy chỗ." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn đặt bàn tay còng lên kính; cận đồng hồ trong túi ngực, tích tắc; Thành quay mặt đi cho anh nhìn lâu hơn.** | — | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Xe qua quán ông Bảy: ông Bảy đứng ở cửa giơ ly; qua đồn: Mây đứng ở bậc thềm, tay đặt trên còng ở thắt lưng, gật đầu một cái.** | Thành: "Hai ngàn người. Ba người tiễn, anh." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Xe rời thị trấn, qua ngã ba nơi anh xuống xe đò bảy ngày trước; cột biển không chữ; biển trắng phía sau.** | Sơn (Voice-over): "Bóng ma chết ở cảng cá. Người ngồi xe này tên Sơn." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Thành hỏi nhỏ một câu; Sơn nhìn ra đường.** | Thành: "Anh có về không?" · Sơn: "Có người đếm. Thì có người về." | Frames / Extend (nối liền) |
+- **1:** Place the farewell inside the unavoidable movement of custody, not a private romantic escape. **Diễn xuất:** His courtesy is discreet, Sơn's anticipation held in a small turn rather than an impulsive lunge.
+- **2:** Make one small flower gesture carry the farewell from Hạ's side. **Diễn xuất:** Her eyes follow the passing window with steadiness, no running, repeated waving or staged sobbing.
+- **3:** Let Sơn receive the farewell without mistaking it for release from what lies ahead. **Diễn xuất:** Gratitude and loss coexist, with no smile claiming that the prison journey is a formality.
+- **4:** Return Hạ to her own direction immediately after the one farewell has happened. **Diễn xuất:** The turn is deliberate and a little difficult, not instantly cheerful and not another collapse into grief.
+- **5:** Name Sơn's changed relationship to responsibility once, after the farewell image is already gone. **Diễn xuất:** Narration stays internal and plain, visible mouth at rest, no proud smile at the line.
+- **6:** Close the outward journey geographically without creating another performance of parting. **Diễn xuất:** If Sơn is visible at all he remains part of the moving vehicle, not a superimposed memory figure.
 
----
+**Âm nối sang cảnh sau:** Let the inland vehicle engine recede into cabin wind after the transport has left the picture.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

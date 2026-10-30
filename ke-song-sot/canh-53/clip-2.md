@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 1: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Ha = HẠ: 32, long hair tied loosely, pale-blue silk scarf, white blouse, jeans; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. same grey cotton dress and thin sandals after rescue, long torn blue scarf loosely over shoulders, no white blouse or jeans yet. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-OLD LIGHTHOUSE ON THE CLIFF: a white-and-rust lighthouse on a cliff above the town, a rusted iron door, a spiral stair, a railed gallery at the top, wind, long grass, the sea far below.
-Story setting: Đỉnh hải đăng, đêm, đèn pin công an, gió.
-Scene 53/60, timecode 52:00 – 53:00, clip 2/6 (10–20s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm smooth pan onto the moving figure — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Hai người bạn ôm nhau ngắn; gió bạt áo.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — mạnh, Mây (@May) đẩy ra. Máy ở trên mặt người nói khi câu bắt đầu: Mây (@May): "Tao bạc tóc vì mày." · Hạ (@Ha): "Tao khắc tường vì mày."
-00:07.0–00:10.0 | 85mm close-up on the key detail in hand — đưa tay chạm lọn tóc bạc của mình. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[TIMELINE AND LOCATION]
+Scene 53/60, clip 2/6; shot 53.2. Story time: D7 night continuous.
+Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
+Same night gallery and stairs, stable practicals, beacon sweeping the water outside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Hạ test that he owns this decision instead of speaking for him.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 53.1, ending with Sơn in front of Mây, Hạ one step behind.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Hạ beside Sơn before he reaches the doorway.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame Hạ beside Sơn medium before he reaches the doorway, her hand lightly on his sleeve.
+Focus: Keep her face and the releasing fingers in the same composition, with Sơn's eyeline close enough for the question.
+
+[ACTION — 0–10s, one evolving take]
+She asks if this is his choice, he answers without blaming her.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let release follow the question rather than answer it for him, ending on the space she chooses to give.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She asks once and deliberately releases the sleeve, leaving him room to answer and continue.
+Performance: Her concern is adult and searching, not an impulsive attempt to overrule Mây or bargain away the case.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Hạ (@Ha), nói trong hình: Anh tự chọn chứ?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Returned scarf stays over the grey dress, no clean white blouse or new sentimental object appears.
+
 
 [SOUND]
-Âm thanh nền: cầu thang xoắn dội bước chân; bước chân dồn trên nền. Không nhạc dưới câu thoại.
+Location bed: strong sea wind, fabric and restrained footsteps.
+Foreground sound: One sleeve movement and her clear question are enough, sea wind remains present and unstylized.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Mây (@May) đẩy ra, đưa tay chạm lọn tóc bạc của mình, perfectly still for half a second so clip 3 can continue without a cut.
+[END FRAME — natural motion continues]
+Hạ releasing his sleeve deliberately.
+Next shot 53.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

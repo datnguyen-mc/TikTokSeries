@@ -1,31 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 2. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Ông Bảy = ÔNG BẢY: 70, stout, white moustache, white singlet, conical hat, wiping a glass; loud cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Ông Bảy = ÔNG BẢY (70, owner of the seafront coffee stall): a stout old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, a conical hat, always wiping a glass. Voice: loud, cheerful elderly Southern voice.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ trên đồi dương, chiều ngày 8, nắng vàng, gió.
-Scene 59/60, timecode 58:00 – 59:00, clip 3/6 (20–30s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 59/60, clip 3/6; shot 59.3. Story time: D8 afternoon.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea.
+Day-eight afternoon, warm working porch light, pine shadows moving naturally.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm balanced framing, held steady — Nối liền chuyển động đang dang dở: Ông Bảy (@Ông Bảy) lên đồi; mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — đứng ở hiên. Nói trong khung, không cắt giữa câu: Ông Bảy (@Ông Bảy): "Cho thuê lại không cô?" · Mây (@May): "Giữ đó, chú."
-00:07.0–00:10.0 | Static 35mm medium shot holding on the quiet tension — hỏi có cho thuê lại không. Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Bring Hạ into the cabin through work she has chosen, not through waiting for its former occupant.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 59.2, ending with Seven marks still in wood, Mây's phone lowered.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Hạ arriving with a folded market table, Bảy already outside.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide porch with Bảy already outside and space for the folded table she carries.
+Focus: Keep table weight, her footing and the cleared porch area readable, no sudden finished stall appears.
+
+[ACTION — 0–10s, one evolving take]
+She asks to use the porch to prepare flower buckets while the stall site is finished.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let arrival turn directly into placing the work down, avoiding a slow tour of the cabin as a memory location.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Hạ brings the existing market table, asks to prepare buckets, and sets the folded table down once.
+Performance: Her energy is practical and a little hopeful, Bảy responds by clearing useful space rather than giving a blessing speech.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Hạ (@Ha), nói trong hình: Cho con mượn chỗ làm cái sạp nhé.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+White blouse, jeans and scarf remain day-eight clothes, table still unfinished and empty of sale flowers.
+
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: soft surf, pine wind and porch-board creaks.
+Foreground sound: Table legs touch wood with a modest knock, porch wind and daytime voices keep the work alive.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Ông Bảy (@Ông Bảy) lên đồi, đứng ở hiên, hỏi có cho thuê lại không) for 0.5s; this is the first frame of clip 4.
+[END FRAME — natural motion continues]
+Folded table on porch, Bảy clearing space for it.
+Next shot 59.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

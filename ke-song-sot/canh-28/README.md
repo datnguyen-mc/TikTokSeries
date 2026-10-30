@@ -1,44 +1,38 @@
 # Kẻ Sống Sót: Bóng Ma — Cảnh 28: Quá Khứ: Cánh Cửa Đầu Tiên
 
-**Cảnh 28/60** · Phút 27:00 – 28:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 27](../canh-27/README.md) | [Cảnh 29 →](../canh-29/README.md)
+Phút 27:00–28:00 · Thời gian truyện: PAST twenty-five years earlier night / D6 dawn from clip 4
 
----
+Sơn chọn bỏ vũ khí hiện tại sau khi nhớ lần đầu gây hại.
 
-## 1. Tóm tắt cảnh
-Quá khứ: hành lang chung cư cũ, mưa qua cửa sổ vỡ; Sơn vest đen đứng trước một cánh cửa gỗ, găng da, tay cầm bao da chưa mở. Sơn bước ra, cửa đóng sau lưng, đứng dựa tường, tháo găng, nhìn bàn tay trần run; anh đeo lại găng, đi. Sơn cầm bao da lên, tháo lõi kim loại, đặt lõi vào tay Mây, giữ lại vật thép rỗng.
+**Câu hỏi đang mở:** Sơn có thể chọn khác lần đầu anh đã không quay đi không?
+**Móc vào cảnh:** Một âm thanh gia đình bình thường khiến cánh cửa đáng sợ hơn hình ảnh bạo lực.
+**Điểm bẻ:** Ký ức khép cửa được trả lời bằng việc giao cả vũ khí và chìa cho Mây.
+**Gieo / trả:** Sáu vạch đưa đồng hồ truyện tới ngày6, radio báo cái giá đang chờ dưới thị trấn.
 
-* **Bối cảnh chính:** Quá khứ xa, thành phố mưa, hành lang chung cư cũ, nhiều năm trước; rồi hiện tại rạng sáng ngày 6 ở nhà gỗ.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Sơn (@Son), Mây (@May)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | L · L-cut: âm cũ đi qua cú cắt | Twenty-year-old Sơn outside a closed wooden door, new gloves tucked in his pocket. | He hears an ordinary family sound inside and hesitates before knocking. | Young Sơn's bare right hand just below the door knocker. | Sơn, lời dẫn ngoài hình: Lần đầu, tôi còn kịp quay đi. |
+| [2](clip-2.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Young Sơn's bare right hand just below the door knocker. | The door opens inward, Sơn enters, camera remains outside without showing harm. | Door closed, empty corridor, rain audible beyond the stairwell. | — |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Young Sơn stepping back into the corridor after an unshown interval. | He looks at his bare hands, puts on the new gloves without relief. | Both gloved hands lowered, young Sơn turning away. | Sơn, lời dẫn ngoài hình: Tôi đã không quay đi. |
+| [4](clip-4.md) | MATCH · Match cut hình dạng/tư thế, không morph | Present-day Sơn at the cabin table, Mây beside the closed handgun case. | He passes the complete locked case and its key to Mây. | Entire handgun case in Mây's custody, Sơn unarmed. | Sơn (@Son), nói trong hình: Tôi không mang thứ này nữa. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Four marks on the frame with two small travel-date notes beside them. | Back from the city, Sơn carves the missing day-five and day-six marks in order. | Exactly six marks, two freshest side by side. | — |
+| [6](clip-6.md) | J · J-cut: âm mới đến trước hình | Both at the porch looking down on the town road. | They hear an abrupt radio warning, then see market shutters closing. | Mây answering her radio, Sơn looking toward Bảy's stall. | Thành, qua thiết bị: Dũng quay lại. Quán ông Bảy. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Quá khứ: hành lang chung cư cũ, mưa qua cửa sổ vỡ; Sơn vest đen đứng trước một cánh cửa gỗ, găng da, tay cầm bao da chưa mở.** | Sơn (Voice-over): "Cánh cửa đầu tiên. Bà Hai nói: mở cửa, không nhìn mặt." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn gõ cửa; cửa hé; anh bước vào; cửa đóng; camera ở lại hành lang với tiếng mưa; đèn hành lang chớp.** | — | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Sơn bước ra, cửa đóng sau lưng, đứng dựa tường, tháo găng, nhìn bàn tay trần run; anh đeo lại găng, đi.** | Sơn (Voice-over): "Từ đó tôi đeo găng. Không phải vì lạnh." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Cắt: hiện tại, rạng sáng ngày 6, nhà gỗ; Sơn áo khoác ô liu ngồi ở bàn, trước mặt là bao da lấy từ mái, hộp thiếc, điện thoại hiện khung hình Hạ; anh nhìn bao da như nhìn một người quen cũ.** | — | Ingredients (cắt cảnh, đính lại ảnh) |
-| 5 | 00:40–00:50 | **Mây (áo kaki trở lại) bước vào, thấy bao da trên bàn, dừng ở cửa.** | Mây: "Anh định nhận hợp đồng?" · Sơn: "Tôi định nghĩ." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Sơn cầm bao da lên, tháo lõi kim loại, đặt lõi vào tay Mây, giữ lại vật thép rỗng.** | Sơn: "Cô giữ lõi thép. Tôi giữ cái vỏ. Hai phe cần thấy cái vỏ." | Frames / Extend (nối liền) |
+- **1:** Give the first crime moral weight through the ordinary life beyond a closed door. **Diễn xuất:** His hesitation is real calculation interrupted by a household sound, not a haunted retrospective pose.
+- **2:** Leave the irreversible act outside the image while showing that he chooses to enter. **Diễn xuất:** His last visible hesitation ends in movement rather than a theatrical change of expression.
+- **3:** Show the gloves as an unsuccessful attempt to separate himself from what he did. **Diễn xuất:** His expression stays contained; the absence of relief matters more than visible tears.
+- **4:** Answer the remembered failure with a present-day relinquishment that cannot be mistaken for concealment. **Diễn xuất:** He makes the decision plainly, Mây receives it without congratulating him.
+- **5:** Restore the passage of two travel days without pretending the missing marks were already carved. **Diễn xuất:** The act is deliberate accounting, not frantic countdown performance or a new threat gesture.
+- **6:** Break contemplation with a concrete consequence waiting below the hill. **Diễn xuất:** They become alert in different ways: she receives details, he searches for the visible problem.
 
----
+**Âm nối sang cảnh sau:** Thành radio warning carries into the present-day blocked street. The town threat is the next event, not another flashback.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Cắt cảnh: dán ở chế độ Ingredients*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

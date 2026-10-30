@@ -1,27 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 1. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+No named lead visible. Only the unnamed background people explicitly specified below.
 
-[SETTING]
-CASUARINA PINE DUNE: a dune of white sand and casuarina pines above the town, wind in the needles, long shadows, the cabin visible between trunks.
-Story setting: Rừng dương trên đồi cát, sáng ngày 3, nắng xiên, gió rít.
-Scene 12/60, timecode 11:00 – 12:00, clip 2/6 (10–20s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm slow dolly in through the space — Nhịp đầu nối thẳng, không chuyển: Hai tên vào nhà gỗ trống: sổ không có, túi không có; bóng cây xiên dài.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — một tên lật giường; tên kia ra hiên nhìn rừng dương. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Rắn Đen: "Nó chạy." · Rắn Đen 2: "Chạy thì để vạch làm gì?"
-00:07.0–00:10.0 | 50mm hold on the eyes, unwavering — gió, không ai. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 12/60, clip 2/6; shot 12.2. Story time: D3 morning.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day morning, raking daylight between pines, natural sandy reflections.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let the intruders arrive a beat too late, making the empty cabin itself the suspenseful subject.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 12.1, ending with Three marks, rear door moving closed behind him.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Empty cabin interior, front door pushed inward by two unnamed men.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide interior setup with front entrance, bed and rear exit all spatially readable.
+Focus: Keep the room geography clear, with only enough footprint detail to explain their turn.
+
+[ACTION — 0–10s, one evolving take]
+They search the empty bed and see fresh footprints leading out back.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Search briefly, find one direction, then turn; avoid a complete repetitive ransacking montage inside a single clip.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: The two unnamed men search the bed, discover fresh footprints and turn together toward the back.
+Performance: They should be wary and impatient rather than inept; no named lead secretly lingers in the room.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.
+Người trong cảnh, nói trong hình: Nó vừa ra sau.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Rumpled empty bedding and disturbed sand are existing traces, not added weapons, photographs or hidden traps.
+
 
 [SOUND]
-Âm thanh nền: lá dương reo như sóng; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: Front door movement, bed fabric and their short line sit above the wind through the open exit.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Hai tên vào nhà gỗ trống: sổ không có, túi không có) for 0.5s; this is the first frame of clip 3.
+[END FRAME — natural motion continues]
+Both intruders turning toward the rear door, cabin otherwise empty.
+Next shot 12.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

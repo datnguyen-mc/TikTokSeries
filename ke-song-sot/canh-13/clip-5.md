@@ -1,28 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 4. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Bác sĩ Linh = BÁC SĨ LINH: 55, thin, grey hair, wire glasses, worn white coat, stethoscope; tired, precise Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-TOWN CLINIC: a small clinic with steel beds, glass cabinets, a microscope, green curtains, a ceiling fan, afternoon light; no readable text.
-Story setting: Phòng khám thị trấn, trưa ngày 3, giường sắt, rèm xanh, kính hiển vi.
-Scene 13/60, timecode 12:00 – 13:00, clip 5/6 (40–50s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Cùng ánh sáng, cùng vị trí, đi tiếp: Một tên giật ngón tay; rèm xanh lay nhẹ.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — mắt chớp, thở dốc, cố ngồi dậy. Thoại nói khi đang làm việc tay, môi vẫn khớp: Rắn Đen (lào khào): "Thằng... Bóng Ma..." · Mây (@May): "Bóng Ma là ai?"
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — Bác sĩ Linh (@Bác sĩ Linh) đè nhẹ vai. Khung kết đứng yên, chờ clip 6.
+[TIMELINE AND LOCATION]
+Scene 13/60, clip 5/6; shot 13.5. Story time: D3 noon.
+Small town clinic, steel beds behind green curtains, locked sample cupboard, desk and sink away from patients.
+Present-day noon, clinic window light with neutral practicals, green curtains.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let an off-screen slip of the nickname redirect Mây toward the person with the ledger.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 13.4, ending with Attacker looking away from the bag, Thành noting the reaction.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+The conscious attacker off screen, Mây listening without interrupting.
+
+[CAMERA]
+85mm close-up at eye level, restrained natural depth of field. No orbit or chase movement.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The close-up stays on Mây listening, folder held low enough that its closure is visible.
+Focus: Hold the existing close-up plane on her eyes and speaking-rest mouth, with no reaction insert of the suspect.
+
+[ACTION — 0–10s, one evolving take]
+He lets slip Sơn's nickname, Mây closes the evidence folder.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the voice finish first; her delayed closure makes the finding feel processed rather than announced by a cut.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She hears the slip without interrupting and closes the existing folder only after the important words.
+Performance: Her face narrows into a decision, not a sudden gasp; she does not mouth the off-screen man's sentence.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.
+Người trong cảnh, ngoài khung hình: Bóng Ma giữ sổ. Dũng cần sổ.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Plain folder paper and her sun-lined face remain unadorned under the clinic's ordinary light.
+
 
 [SOUND]
-Âm thanh nền: đồng hồ bấm giờ tích tắc; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: quiet ventilation and distant metal-tray sounds.
+Foreground sound: The suspect's off-screen voice is weak but intelligible, then a single folder closure settles the information.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Bác sĩ Linh (@Bác sĩ Linh) đè nhẹ vai) for 0.5s; this is the first frame of clip 6.
+[END FRAME — natural motion continues]
+Mây's closed folder resting against her chest.
+Next shot 13.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

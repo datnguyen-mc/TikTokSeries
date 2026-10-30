@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Ông Bảy = ÔNG BẢY (70, owner of the seafront coffee stall): a stout old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, a conical hat, always wiping a glass. Voice: loud, cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. one glasses arm bent, held by tape after rescue. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng và chợ cá, đêm vừa xuống, đèn trắng, lưới, thúng, hai xe.
-Scene 44/60, timecode 43:00 – 44:00, clip 1/6 (0–10s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | Steady 50mm medium shot capturing the sudden motion — Khung đầu: Hỗn chiến: ngư dân quăng lưới trùm hai tên Rắn Đen; ghe va mạn, dây neo căng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Ông Bảy (@Ông Bảy) đẩy xe đẩy đá vào chân vệ sĩ Vũ Kiên (@Vũ Kiên), Mây (@May) quét chân một tên. Một câu, một hơi, môi khớp từng âm: Ông Bảy (@Ông Bảy): "Quán tui! Trả tiền cà phê!"
-00:07.0–00:10.0 | 85mm close-up on the hand and calm expression — khóa tay bằng dây lưới. Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 44/60, clip 1/6; shot 44.1. Story time: D7 early night.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Early night, established harbour floodlight, warm van lamp, dim lighthouse practicals.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show the intervention narrowing to distinct tasks instead of an undefined harbour brawl.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 43.6, ending with Cart blocking the lower gate, pair ascending the service stair.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Officers securing the two cars and the public pier, no civilians in the fight.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide to separate secured cars, the public pier and the team at the service gate.
+Focus: Keep all task routes in one readable depth, with Mây not blocking the view of their departure.
+
+[ACTION — 0–10s, one evolving take]
+Mây directs one team to clear the blocked service gate, another to secure witnesses.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Begin with control already forming, then send each team on its own route without re-enacting the initial rush.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây points one group toward the western obstruction and another toward witnesses, civilians absent from danger.
+Performance: Her authority remains focused; officers acknowledge through movement rather than a chorus of repeated commands.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Một tổ lên tháp. Giữ người còn lại.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Floodlight remains steady on cleared concrete and parked cars, no new smoke or chaos dressing.
+
 
 [SOUND]
-Âm thanh nền: cột đèn ù điện, biển đêm; hơi thở gấp át cả nền. Lời thoại nổi trên nền.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: Order, restrained radio-squelch and measured boots form the rhythm; do not add scattered shots, extra reply lines or shouting crowds.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Mây (@May) quét chân một tên, khóa tay bằng dây lưới for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Cars secured, service-gate team starting to lift the cart.
+Next shot 44.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,27 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 1. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+Continue the scene from the final frame of clip 1. Same composition at the seam, new action after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 20; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. distant past, black hair without grey, plain black suit, bare hands before first doorway, new gloves kept in pocket until the exit. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-CITY AT NIGHT (past): a big Vietnamese city at night in amber light, glass towers, wet streets, neon reflections, a silk lane, a passenger port; no readable signs.
-Story setting: Quá khứ xa, thành phố mưa, hành lang chung cư cũ, nhiều năm trước; rồi hiện tại rạng sáng ngày 6 ở nhà gỗ.
-Scene 28/60, timecode 27:00 – 28:00, clip 2/6 (10–20s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Cùng ánh sáng, cùng vị trí, đi tiếp: Sơn (@Son) gõ cửa; neon vàng loang trên đường ướt.
-00:03.5–00:07.0 | 85mm close-up on the eyes and expression, long hold — cửa hé; anh bước vào; cửa đóng; camera ở lại hành lang với tiếng mưa.
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — đèn hành lang chớp. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 28/60, clip 2/6; shot 28.2. Story time: PAST twenty-five years earlier night / D6 dawn from clip 4.
+Old apartment corridor twenty-five years earlier, wooden front door, stairwell window admitting rain sound.
+Distant-past rainy night corridor, amber stairwell bulb and dim household spill.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Leave the irreversible act outside the image while showing that he chooses to enter.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 28.1, ending with Young Sơn's bare right hand just below the door knocker.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action immediately; do not replay the preceding gesture or words. No freeze at the seam.
+
+[START FRAME — state only, not an action to repeat]
+Young Sơn's bare right hand just below the door knocker.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+Keep the exact previous camera, lens and axis; no framing reset.
+Composition: Preserve the exact wide frame, corridor depth and hand position from the preceding seam.
+Focus: Hold the doorway as the sole focus of the action; no internal insert or shadow violence.
+
+[ACTION — 0–10s, one evolving take]
+The door opens inward, Sơn enters, camera remains outside without showing harm.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Entry is brief; the closed door and empty corridor carry the remaining uncomfortable silence.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: The door opens inward, young Sơn enters once, camera never follows him inside.
+Performance: His last visible hesitation ends in movement rather than a theatrical change of expression.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The same painted wood closes back into the corridor's ordinary surfaces.
+
 
 [SOUND]
-Âm thanh nền: đèn neon ù, nước chảy máng; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: rain beyond stairwell and ordinary household sounds off screen.
+Foreground sound: Hinge, short footstep and rain remain; add no gunshot, impact or implied victim vocalization.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Đèn hành lang chớp) for 0.5s; this is the first frame of clip 3.
+[END FRAME — natural motion continues]
+Door closed, empty corridor, rain audible beyond the stairwell.
+Next shot 28.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

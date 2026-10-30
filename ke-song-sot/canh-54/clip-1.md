@@ -1,29 +1,67 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Ha = HẠ free in the present (32): a real Vietnamese woman, about 162 cm tall, slim, gentle bright face, long black hair tied loosely, the pale-blue silk scarf back around her neck (signature detail), a white blouse, jeans, sandals. Voice: soft, warm, clear Southern Vietnamese female voice.
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. one glasses arm bent, held by tape after rescue. Voice: quick, polite Southern Vietnamese male voice.
+Time ellipsis: later at the station after Hạ has been given clean clothes.
 
-[SETTING]
-SMALL-TOWN POLICE POST: a tiled front room with a steel desk, a ceiling fan, an old computer, a holding room with a barred window, a motorbike outside; no readable insignia.
-Story setting: Đồn công an thị trấn, đêm ngày 7, quạt trần, phòng trước, ly trà.
-Scene 54/60, timecode 53:00 – 54:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 54/60, clip 1/6; shot 54.1. Story time: D7 late night.
+Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
+Later that night at station, neutral desk lamp and kettle, quiet dark windows.
 
-[SHOT LIST]
-00:00–00:03.5 | 28mm wide, single practical light source, deep shadows — Thiết lập không gian: Đồn đêm; song sắt cửa sổ đổ bóng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Hạ (@Ha) ngồi với ly trà và khăn lụa xanh quấn lại trên cổ; Phó Thành (@Phó Thành) gõ máy. Nói nhỏ nhưng khẩu hình rõ, máy không rung: Mây (@May): "Kể đi. Để tỉnh nghe bằng chữ."
-00:07.0–00:10.0 | 85mm close-up on the object and hands — Mây (@May) ngồi đối diện với sổ tay. Kết bằng khung tĩnh 0.5s.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Begin Hạ's account with restored choice rather than immediately demanding another performance of her ordeal.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 53.6, ending with Hạ walking toward the waiting vehicle, light continuing behind her.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+A later station scene, Hạ already changed into borrowed white blouse and jeans.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The wide establishes the later station scene, separate witness desk, tea and Hạ in changed clean clothes.
+Focus: Keep her free seating and open route from the chair readable, distinguishing this room from captivity.
+
+[ACTION — 0–10s, one evolving take]
+Mây brings tea, Thành starts a fresh witness record at a separate desk.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the offered pause be felt, then settle into an interview with an active witness instead of a second rescue scene.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây brings the cup within reach, Thành starts the record at the existing desk without crowding her.
+Performance: Hạ considers whether to speak before taking the cup, Mây offers a genuine option to pause.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Mệt thì nghỉ. Tao vẫn ở đây.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+White blouse and jeans appear only after the stated change, long blue scarf lies on the chair.
+
 
 [SOUND]
-Âm thanh nền: quạt trần kêu đều, bàn phím cũ; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: ceiling fan and quiet paperwork.
+Foreground sound: Kettle and fan are ordinary background sounds, Mây's line stays conversational rather than therapeutic narration.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Mây (@May) ngồi đối diện với sổ tay, perfectly still for half a second so clip 2 can continue without a cut.
+[END FRAME — natural motion continues]
+Hạ seated freely with scarf on chair, tea before her.
+Next shot 54.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

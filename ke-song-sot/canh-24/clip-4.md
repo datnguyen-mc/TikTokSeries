@@ -1,28 +1,64 @@
-Continue the scene seamlessly from the final frame of clip 3, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@Dũng = DŨNG "ĐINH": 35, heavy-shouldered, buzz cut, nail-shaped silver earring in his LEFT ear, black sleeveless shirt; rough, loud Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. Voice: rough Southern Vietnamese male voice.
 
-[SETTING]
-UNDERGROUND CAR PARK (past): an underground garage beneath a glass tower, yellow neon, concrete pillars, parked cars, a lift lobby, a large ventilation duct; night.
-Story setting: Bãi xe ngầm gần hẻm lụa, đêm, neon vàng, cột bê tông (gương của Cảnh 8).
-Scene 24/60, timecode 23:00 – 24:00, clip 4/6 (30–40s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm handheld, low angle, tight on the opening movement — Tiếp từ khung cuối clip trước: Dũng (@Dũng) và Sơn (@Son) đánh giữa hai hàng xe: Dũng to, đòn nặng; xe đỗ im hàng dài.
-00:03.5–00:07.0 | Handheld 28mm medium shot capturing the close-quarters grapple, one slow-motion beat — Sơn (@Son) né, dùng gương xe, dùng cửa.
-00:07.0–00:10.0 | 35mm settling as dust and spray fall around the characters — Dũng (@Dũng) húc Sơn (@Son) vào cột, Sơn trượt xuống. Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[TIMELINE AND LOCATION]
+Scene 24/60, clip 4/6; shot 24.4. Story time: D4 late night.
+Underground city car park, ramp north, lift east, pillar rows, solid ramp railing, low maintenance door west.
+Present-day night car park, stable amber practicals and car reflections, no day light.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the injury the cost of keeping evidence, not incidental decoration after a fight.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 24.3, ending with Dũng between the travelers and exit, railing behind Sơn.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Dũng reaching for the ledger, Sơn protecting it under his left arm.
+
+[CAMERA]
+35mm restrained handheld medium-wide. Keep the entire defensive action readable from one side of the axis, no speed ramp.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the ledger under Sơn's left arm, pillar and Mây's circling route in the same frame.
+Focus: The left side must remain readable so later bandaging does not reverse the injury.
+
+[ACTION — 0–10s, one evolving take]
+Dũng drives Sơn's left wrist into the pillar, Mây circles behind him.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One collision takes him to a knee, ending with Mây at the side she needs.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Dũng reaches for the book, pressing the left wrist into the pillar as Sơn protects it.
+Performance: Pain first interrupts Sơn's breath, then balance; Mây responds to the opening without waiting for a look.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Rough pillar surface and strained black sleeve tell the contact without an open wound.
+
 
 [SOUND]
-Âm thanh nền: neon ù, bước chân dội bê tông; một tiếng kim loại rơi làm dấu. Nền nhỏ hơn giọng người.
+Location bed: fluorescent hum and footsteps echoing on concrete.
+Foreground sound: Use a dry contact sound and involuntary breath rather than a graphic impact exaggeration.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Dũng (@Dũng) húc Sơn (@Son) vào cột, Sơn trượt xuống. Hold that exact frame still for 0.5s; clip 5 starts from it.
+[END FRAME — natural motion continues]
+Sơn down on one knee, ledger secure, Mây at Dũng's right side.
+Next shot 24.5: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

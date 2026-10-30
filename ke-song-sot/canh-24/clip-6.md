@@ -1,29 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 5. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@May = MÂY in civilian clothes: 38, short hair with a white streak at the front, denim jacket over a dark T-shirt, jeans, small backpack; firm, dry Southern female voice.
-@Dũng = DŨNG "ĐINH": 35, heavy-shouldered, buzz cut, nail-shaped silver earring in his LEFT ear, black sleeveless shirt; rough, loud Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. Voice: rough Southern Vietnamese male voice.
 
-[SETTING]
-UNDERGROUND CAR PARK (past): an underground garage beneath a glass tower, yellow neon, concrete pillars, parked cars, a lift lobby, a large ventilation duct; night.
-Story setting: Bãi xe ngầm gần hẻm lụa, đêm, neon vàng, cột bê tông (gương của Cảnh 8).
-Scene 24/60, timecode 23:00 – 24:00, clip 6/6 (50–60s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm tracking alongside the moving subject — Nhịp đầu nối thẳng, không chuyển: Sơn (@Son) đứng dậy, nhặt sổ đỏ, kéo Mây (@May) chạy lên dốc; neon vàng nhấp nháy.
-00:03.5–00:07.0 | 24mm wide showing the full movement across the space — Dũng (@Dũng) gào, giật còng.
-00:07.0–00:10.0 | 50mm medium close-up on the speaker's face, clear lip-sync — đèn pha xe đen tràn xuống. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Dũng (@Dũng): "Tao kiếm mày tới biển!" · Sơn (@Son): "Tao chờ ở biển." Khung cuối bất động 0.5s rồi khép cảnh.
+[TIMELINE AND LOCATION]
+Scene 24/60, clip 6/6; shot 24.6. Story time: D4 late night.
+West maintenance exit of the same car park, steps to a sheltered city rear lane.
+Present-day night car park, stable amber practicals and car reflections, no day light.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Plant Dũng's possible return as an observable practical consequence without undoing the escape.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 24.5, ending with Dũng restrained to the intact rail, Mây helping Sơn up.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+The two travelers crossing the exit, Dũng behind them at the rail.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the doorway framing the pair leaving and Dũng still attached behind them.
+Focus: Show the cutter jaws near the intact chain, not a duplicate cuff opening or instant break.
+
+[ACTION — 0–10s, one evolving take]
+An unnamed guard arrives with bolt cutters after they clear the doorway.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the travelers disappear before the tool arrives, making their escape real but temporary.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: The guard arrives with cutters only after the travelers clear the exit; no cutting yet.
+Performance: Dũng's humiliation is held in the way he waits for help rather than more shouted threats.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Original RED cloth ledger, handwritten signature shapes, distinct from black leather ledger.
+- USB-shaped hardware security token from the safe; NOT the metal door key.
+
+[VISIBLE TEXTURE]
+Metal tools and rail share the garage practical reflections, with the exit cooler beyond.
+
 
 [SOUND]
-Âm thanh nền: neon ù, bước chân dội bê tông; gió và máy nổ. Thoại rõ, không nhạc đè lời.
+Location bed: garage echo fading into rain.
+Foreground sound: Footsteps leave first, then the small tool clink predicts continued pursuit.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Garage echo and the cutter sound fall away as the motel fan introduces dawn. Show no second capture of Dũng.
 
-[END FRAME]
-End on: Đèn pha xe đen tràn xuống. Hold still for 0.5s; this closes the scene.
+[END FRAME — natural motion continues]
+Travelers gone, cutters beside the cuff chain, Dũng still restrained.
+Next shot 25.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

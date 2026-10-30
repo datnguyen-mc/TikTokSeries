@@ -1,27 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 4, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-CASUARINA PINE DUNE: a dune of white sand and casuarina pines above the town, wind in the needles, long shadows, the cabin visible between trunks.
-Story setting: Nhà gỗ, đêm ngày 2, đèn dầu, gió; đồi cát đối diện.
-Scene 11/60, timecode 10:00 – 11:00, clip 5/6 (40–50s of the scene). Atmosphere: silent infiltration, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Slow creeping 35mm camera moves, tight 85mm close-ups on hands, eyes and locks, searchlight beams sweeping through mist, long held frames with controlled cuts. Chiaroscuro shadows, cold green or blue light.
 
-[SHOT LIST]
-00:00–00:03.5 | 28mm from the shadowed foreground looking into the space — Khung đầu trùng khung cuối clip trước: Mây (@May) nhìn lại ống nhòm: Sơn (@Son) đang mở nắp đồng hồ quả quýt; cát trắng lóa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — nhìn vào trong lâu hơn một người xem giờ, rồi đóng lại. Người nói ở tiền cảnh, môi rõ, người nghe mờ phía sau: Mây (@May): "Người sắp hại ai không có cái mặt đó."
-00:07.0–00:10.0 | 50mm medium close-up as the character stays composed — cô không hiểu, nhưng thấy mặt anh. Khung kết đứng yên, chờ clip 6.
+[TIMELINE AND LOCATION]
+Scene 11/60, clip 5/6; shot 11.5. Story time: D2 night.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day night, warm cabin lamp inside, cool moonlit pines outside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make Sơn's response to being watched an offer to be seen rather than another attempt to hide.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 11.4, ending with Company report in Mây's hand, cabin light behind them.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn at the cabin window with the watch lid still closed.
+
+[CAMERA]
+85mm close-up at eye level, restrained natural depth of field. No orbit or chase movement.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the close-up from the established window side, keeping the closed watch and his face related.
+Focus: Favor his face and closed lid, allowing the new porch glow to change the background rather than the lens.
+
+[ACTION — 0–10s, one evolving take]
+He senses the observer, switches on the porch light and steps slightly back within the visible window sightline.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Switch, step back and wait form one answer; do not repeatedly scan the tree line or approach the window again.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He switches on the porch light, then moves back far enough to be visible inside without standing in the window.
+Performance: His quiet statement sounds addressed to whoever is outside, not a boast of superior awareness.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Sơn (@Son), nói trong hình: Tôi ở đây. Không đi đâu.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. After the escape it has stopped; do not add ticking or show the inner photo.
+
+[VISIBLE TEXTURE]
+Warm light finds the weathered frame and jacket shoulder while the watch interior remains concealed.
+
 
 [SOUND]
-Âm thanh nền: chim biển kêu xa; tiếng đèn pha quay xa. Nền nhỏ hơn giọng người.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: A small switch click and ordinary porch-fixture sound accompany his quietly visible sentence, then pine wind persists.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Cô không hiểu, nhưng thấy mặt anh. Hold that exact frame still for 0.5s; clip 6 starts from it.
+[END FRAME — natural motion continues]
+Porch lit, Sơn visible inside but no longer at the window.
+Next shot 11.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

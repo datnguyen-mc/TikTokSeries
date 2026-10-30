@@ -1,27 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 3, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
 
-[SETTING]
-OLD LIGHTHOUSE ON THE CLIFF: a white-and-rust lighthouse on a cliff above the town, a rusted iron door, a spiral stair, a railed gallery at the top, wind, long grass, the sea far below.
-Story setting: Đường vách đá lên hải đăng, đêm, đèn xe máy, gió biển, không đèn đường.
-Scene 48/60, timecode 47:00 – 48:00, clip 4/6 (30–40s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm tracking alongside the moving subject — Tiếp từ khung cuối clip trước: Xe trắng bỏ chắn ngang đường cách hải đăng trăm mét, cửa mở; gió bạt áo.
-00:03.5–00:07.0 | 24mm wide showing the full movement across the space — Sơn (@Son) bỏ xe máy, chạy bộ qua cỏ dài tới chân tháp.
-00:07.0–00:10.0 | 35mm steady framing looking ahead — cửa sắt rỉ mở. Lời dẫn ngoài hình, miệng nhân vật không mở: Sơn (@Son) (Voice-over): "Người thua chạy lên chỗ cao. Tôi đã nói với Mây (@May)." Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[TIMELINE AND LOCATION]
+Scene 48/60, clip 4/6; shot 48.4. Story time: D7 night continuous.
+Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
+Night road lit by motorcycle headlamp, lighthouse work lights and low practicals inside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Reward Hạ's concealed action by making the failed closure visible to her and the audience.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 48.3, ending with Both below the final landing, no overtaking or running.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Kiên testing the gallery hatch behind him, Hạ facing the sea wall.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame Kiên testing the hatch medium, Hạ facing the inner sea wall within his control.
+Focus: Keep the narrow persistent gap readable, avoiding a new macro mechanism or a miraculous opening by itself.
+
+[ACTION — 0–10s, one evolving take]
+Kiên tests the latch with his RIGHT hand while keeping the handgun low in his LEFT. The existing hair clip prevents full closure. He gives up, regrips Hạ LEFT upper arm with his RIGHT hand and moves her upward.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let him try the closure only once, then force Hạ onward, leaving the ajar state for the following discovery.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Kiên tests the latch with RIGHT hand while keeping LEFT-hand gun low, then regrips Hạ LEFT upper arm before moving her upward.
+Performance: Hạ watches without revealing satisfaction; Kiên interprets the resistance as old machinery, not a plotted trick.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The same clip prevents the same latch seating, paint and garment dust remain as established.
+
 
 [SOUND]
-Âm thanh nền: gió hú qua lỗ thông gió tháp; tiếng thở và tiếng đồ rơi. Nền nhỏ hơn giọng người.
+Location bed: metal latch, careful footsteps and distant sea wind.
+Foreground sound: One incomplete metal click and Kiên's impatient breath explain the failure without a narrator.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Cửa sắt rỉ mở. Hold that exact frame still for 0.5s; clip 5 starts from it.
+[END FRAME — natural motion continues]
+Service hatch still ajar, Kiên LEFT-hand handgun low and RIGHT hand again holding Hạ LEFT upper arm; Hạ has seen the gap remain.
+Next shot 48.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

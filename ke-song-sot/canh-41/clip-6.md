@@ -1,29 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 5: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@HaiNgoc = BÀ HAI NGỌC: 60, silver bun, powdered calm face, jade bracelet on her LEFT wrist, black unlit holder, violet silk áo bà ba; soft, slow, sweet Southern female voice.
-@Vũ Kiên = VŨ KIÊN: 50, tall, slicked black hair, white tailored suit, gold watch, wide unfading smile; smooth, confident Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. cut original cuff ring remains on RIGHT wrist; no usable loose cuff end. Voice: rough Southern Vietnamese male voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, hoàng hôn cuối, hai phe hai đầu, Sơn giữa, Hạ bên phe Kiên.
-Scene 41/60, timecode 40:00 – 41:00, clip 6/6 (50–60s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Static 28mm wide, natural directional light shaping the scene — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Hai phe xôn xao; nắng cam trải trên bê tông.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Dũng (@Dũng) tiến lên; Vũ Kiên (@Vũ Kiên) siết tay Hạ (@Ha). Máy ở trên mặt người nói khi câu bắt đầu: Vũ Kiên (@Vũ Kiên): "Vậy anh vô dụng." · Sơn (@Son): "Đúng. Nhìn kỹ."
-00:07.0–00:10.0 | 50mm medium close-up with shallow depth of field — Sơn (@Son) ném vật thép rỗng xuống biển: tõm. Đứng hình nửa giây ở khung cuối, cảnh khép lại ở đây.
+[TIMELINE AND LOCATION]
+Scene 41/60, clip 6/6; shot 41.6. Story time: D7 last light.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Last natural dusk, quiet blue sea fill, car lamps only from their established positions.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the exchange physically fail before anyone narrates that it has failed.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 41.5, ending with Two officers advancing behind cover, Mây tracking Kiên's hand.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Dũng blocking Sơn's right side, Kiên pulling Hạ back toward the white car.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide as a map: Dũng near Sơn's right, Kiên drawing Hạ west, landward route behind.
+Focus: Maintain enough depth to read all four positions, rather than finding a new dramatic close-up.
+
+[ACTION — 0–10s, one evolving take]
+Sơn shifts between Hạ and Dũng as the exchange breaks apart.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The single sidestep closes the space; finish with Dũng already within reach, not approaching twice.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn shifts once into the threatened gap, keeping empty hands visible and his bandaged LEFT wrist guarded.
+Performance: Hạ resists the pull with her shoulders, Dũng watches Sơn's hands, Kiên concentrates on retreat.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The envelope stays on the center seam, white car west and black car east remain fixed anchors.
+
 
 [SOUND]
-Âm thanh nền: cột đèn ù điện, biển đêm; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: Cloth tension and sandals scraping replace dialogue, while both engines keep the same subdued presence.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Keep breath and road engines. Cut from Sơn shielding the path to Dũng reaching him; the envelope is already on the ground.
 
-[END FRAME]
-Freeze on Sơn (@Son) ném vật thép rỗng xuống biển: tõm for 0.5s; scene complete.
+[END FRAME — natural motion continues]
+Sơn shielding Hạ's path, Dũng within arm's reach.
+Next shot 42.1: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

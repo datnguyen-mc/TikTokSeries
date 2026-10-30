@@ -333,7 +333,7 @@ def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = No
     if clip_num == 1 or not start_image_media_id:
         return True
     stripped = prompt.lstrip()
-    if stripped.startswith("Continue the scene seamlessly"):
+    if stripped.startswith(("Continue the scene seamlessly", "Continue the scene from")):
         return False
     if stripped.startswith("[FORMAT]") or stripped.startswith("[ĐỊNH DẠNG]"):
         return True
@@ -342,6 +342,25 @@ def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = No
 
 def get_clip_reference_media_ids(prompt: str) -> list:
     import re as _re
+    # V3 declares visible people and printed portraits separately from voice-only
+    # speakers and the previous-shot handoff. Those names must not spawn bodies.
+    if "[CHARACTERS — approved identities and current appearances]" in prompt:
+        reference_sections = _re.findall(
+            r"^\[(?:CHARACTERS — approved identities and current appearances|PICTURE-ONLY REFERENCES)\]\s*\n(.*?)(?=^\[|\Z)",
+            prompt,
+            flags=_re.MULTILINE | _re.DOTALL,
+        )
+        reference_text = "\n".join(reference_sections)
+        selected = []
+        for spec in CHARACTER_SPECS:
+            tag = spec["tag"]
+            mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag)
+            tag_pat = rf"(?<![a-zA-Z0-9_À-ỹ]){_re.escape(tag)}(?![a-zA-Z0-9_À-ỹ])"
+            if mid and _re.search(tag_pat, reference_text, flags=_re.IGNORECASE):
+                if mid not in selected:
+                    selected.append(mid)
+        # An intentionally empty cast is a text-only shot, not four default faces.
+        return selected[:7]
     selected = []
     for spec in CHARACTER_SPECS:
         tag = spec["tag"]

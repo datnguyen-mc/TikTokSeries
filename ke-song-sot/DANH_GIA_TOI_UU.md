@@ -1,3 +1,5 @@
+> Báo cáo này là đánh giá bản 2 trước khi biên tập. Bản 3 đã xử lý lại nội dung theo CAP_NHAT_V3.md; xem BANG_NOI_CLIP.md cho điểm nối hiện hành.
+
 **KẺ SỐNG SÓT: BÓNG MA — ĐÁNH GIÁ TOÀN BỘ PROMPT**
 
 Ngày rà soát: 30/10/2026. Phạm vi: bản hiện tại của 60 cảnh, 360 file `clip-*.md`, 60 README phân cảnh, kịch bản tổng, hồ sơ nhân vật, khóa Flow và mã sinh prompt. Đây là đánh giá kịch bản và chỉ dẫn dựng; chưa phải đánh giá diễn xuất, khẩu hình hay chất lượng hình ảnh của toàn bộ video đã render. Các đề xuất dưới đây chưa được áp dụng vào prompt gốc.

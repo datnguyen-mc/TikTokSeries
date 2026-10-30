@@ -1,31 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 3, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Bác sĩ Linh = BÁC SĨ LINH: 55, thin, grey hair, wire glasses, worn white coat, stethoscope; tired, precise Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white coat over checked shirt, stethoscope, practical medical bag. Voice: tired, measured Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Bác sĩ Linh = BÁC SĨ LINH (55, the town doctor): a thin Vietnamese man with grey hair, wire glasses, a worn white coat over a checked shirt, a stethoscope. Voice: tired, precise Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Quán bờ kè, sáng ngày 8, nắng, radio, tờ báo.
-Scene 56/60, timecode 55:00 – 56:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 56/60, clip 4/6; shot 56.4. Story time: D8 morning.
+Small town clinic, steel beds behind green curtains, locked sample cupboard, desk and sink away from patients.
+Day-eight morning, ordinary coastal daylight and neutral interiors, no action lighting.
 
-[SHOT LIST]
-00:00–00:03.5 | Close-up on the key object, then smooth tilt up to the face — Khung đầu trùng khung cuối clip trước: Bác sĩ Linh (@Bác sĩ Linh) ngồi xuống; bạt xanh phần phật.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — đặt đồng hồ bấm giờ lên bàn: vẫn dừng ở ba mươi tám. Người nói ở tiền cảnh, môi rõ, người nghe mờ phía sau: Bác sĩ Linh (@Bác sĩ Linh): "Tôi không bấm dừng. Để nó ở ba mươi tám."
-00:07.0–00:10.0 | 50mm medium close-up on the reaction, held steady — Chỉ còn chuyển động nhỏ: gió, tay, ánh sáng đổi.. Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Linh's private fatigue provide a human consequence without restarting the medical suspense.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 56.3, ending with Mây with two unnamed sellers at the repaired side gate.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Linh at the clinic sink after filing his medical notes.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame the clinic sink, bag hook and bench medium, Linh already finished with his notes.
+Focus: Keep bag placement and seated figure in one composition, avoiding another medical-object montage.
+
+[ACTION — 0–10s, one evolving take]
+He hangs the emptied response bag to dry and sits down at last.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the practical task complete first, then allow one ordinary breath of rest before moving on.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He hangs the emptied response bag to dry and finally sits with water within reach.
+Performance: A small release in his shoulders is enough, no collapse, tremor or haunted stare to camera.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Bag is the same used at the van, now emptied; no timer, amber antidote or new blood-stained item appears.
+
 
 [SOUND]
-Âm thanh nền: cà phê rót, ông Bảy nói không ngừng; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: quiet ventilation and distant metal-tray sounds.
+Foreground sound: Water at the sink settles into ventilation and a quiet cup contact, with no dialogue or lingering emergency tone.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Bác sĩ Linh (@Bác sĩ Linh) ngồi xuống, đặt đồng hồ bấm giờ lên bàn: vẫn dừng ở ba mươi tám. Hold that exact frame still for 0.5s; clip 5 starts from it.
+[END FRAME — natural motion continues]
+Bag drying above the bench, Linh resting with a cup of water.
+Next shot 56.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,28 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 3, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@Ha = HẠ: Vietnamese woman, 32, long loose black hair, pale-blue silk scarf, cream linen dress with a green florist apron; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. cream linen dress, green florist apron, pale-blue scarf at neck, flat sandals. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FLOWER SHOP (past): a small flower shop at the foot of a glass tower, buckets of white lilies and roses, a wooden counter, warm bulbs, a back room with a kettle, a glass front onto the street; no readable text.
-Story setting: Quá khứ, tiệm hoa dưới chân tòa nhà kính của Vũ Kiên, chiều ám vàng, xô hoa ly, quầy gỗ.
-Scene 4/60, timecode 03:00 – 04:00, clip 4/6 (30–40s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Máy ở nguyên chỗ, hành động đi tiếp: Hạ (@Ha) ngồi xuống đối diện; ánh bóng đèn vàng trên quầy gỗ.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — chống cằm, nhìn găng da trên tay anh giữa mùa nóng. Thoại khớp môi, người nghe ở nửa khung còn lại: Hạ (@Ha): "Người mua hoa không đeo găng." · Sơn (@Son): "Tay tôi lạnh."
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — cô không sợ, chỉ tò mò. Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[TIMELINE AND LOCATION]
+Scene 04/60, clip 4/6; shot 04.4. Story time: PAST one month earlier afternoon.
+Hạ city flower shop, wooden counter east, bucket rows under front window, tower lobby across the road.
+Warm afternoon window light in the recent-past flower shop, no night grade.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Allow Hạ to notice the surveillance without turning the scene into an accusation.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 04.3, ending with Two lilies in separate paper sleeves, Hạ suppressing a smile.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Hạ facing the window, Sơn beside the second lily.
+
+[CAMERA]
+50mm stable over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the existing shoulder framing to follow her eyeline from Sơn toward the window and back.
+Focus: Keep her eyes as the focus destination while the lobby remains only a contextual background shape.
+
+[ACTION — 0–10s, one evolving take]
+She follows his eyeline to Kiên's lobby and then looks back at him.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Make the outward glance short and the return longer, so the human connection wins the duration.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She looks once toward the lobby, returns to his face and simply waits.
+Performance: Curiosity stays warmer than suspicion; Sơn's attention leaves the lobby reluctantly but completely for this beat.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Window reflections move softly across flower buckets; neither person touches a new object.
+
 
 [SOUND]
-Âm thanh nền: nước xô hoa, xe ngoài đường; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: flower-shop bell and soft bucket-water sounds.
+Foreground sound: No line is needed; let distant street noise expose the silence between their shared looks.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Cô không sợ, chỉ tò mò. Hold that exact frame still for 0.5s; clip 5 starts from it.
+[END FRAME — natural motion continues]
+Hạ waiting for an answer, Sơn no longer watching the lobby.
+Next shot 04.5: Match cut hình dạng/tư thế, không morph. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

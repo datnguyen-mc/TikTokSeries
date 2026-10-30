@@ -1,27 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 1: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. denim jacket, dark T-shirt, jeans, sneakers, small backpack, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+Sơn has removed his black jacket and put it on the bed; white shirt sleeves rolled, left wrist bandage visible. Jacket worn again only after the cut to scene 26.
 
-[SETTING]
-SMALL MOTEL ROOM: a small city motel room before dawn, a bed, a fan, a cracked mirror, grey light through blinds.
-Story setting: Phòng trọ rẻ tiền ven thành phố, rạng sáng ngày 5, quạt, gương nứt, rèm xám.
-Scene 25/60, timecode 24:00 – 25:00, clip 2/6 (10–20s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
+[TIMELINE AND LOCATION]
+Scene 25/60, clip 2/6; shot 25.2. Story time: D5 dawn.
+Small city motel, bed left, table by window, borrowed laptop, one fan, dawn light through grey curtains.
+Present-day dawn motel, pale window light and one warm bedside lamp.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm medium close-up on the face, background softly blurred — Không cắt, cùng tư thế cuối clip trước: Sơn (@Son) nói; rèm xám lọc nắng sớm.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — lần đầu không phải lời dẫn mà nói thẳng với một người: về cô gái gói ly trắng ba ngày không hỏi. Người nói nghiêng ba phần tư về máy, khớp môi từng chữ: Sơn (@Son): "Cô ấy buộc khăn cho tôi. Chưa ai buộc gì cho tôi."
-00:07.0–00:10.0 | Slow 35mm pull-back holding the composition — về cái khăn buộc lên cổ anh ở bến cảng. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Convert a difficult trip into an earned technical opening, without magical screen spectacle.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 25.1, ending with Left wrist bandaged, black jacket on the bed beside him.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Borrowed laptop on the table, working USB copy already connected.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep laptop connections, working USB and distinct hardware token visible in one stable detail frame.
+Focus: Use a readable folder-state change through simple shapes; no legible passwords or elaborate interface animation.
+
+[ACTION — 0–10s, one evolving take]
+Thành guides Mây by phone as she inserts the hardware token.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Connection, recognition, opened state: three causal steps within one continuous detail view.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây inserts the token once while Sơn leaves his injured hand out of the operation.
+Performance: Her hands wait for Thành's confirmation rather than acting as though she already knows the result.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Voice through the established device; no caller body in this shot.
+
+Thành, qua thiết bị: Đúng khóa. Mở được rồi.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- USB-shaped hardware security token from the safe; NOT the metal door key.
+- Separate working USB copy of the original, used with the borrowed laptop. Original stays in evidence.
+
+[VISIBLE TEXTURE]
+Worn laptop casing and practical cables keep the process modest and physical.
+
 
 [SOUND]
-Âm thanh nền: nước nhỏ giọt, gà gáy; đàn tranh thưa. Không nhạc dưới câu thoại.
+Location bed: fan and early traffic outside.
+Foreground sound: Thành's compressed voice arrives from the established phone, followed by a small ordinary confirmation tone.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Sơn (@Son) nói, lần đầu không phải lời dẫn mà nói thẳng với một người: về cô gái gói ly trắng ba ngày không hỏi, về cái khăn buộc lên cổ anh ở bến cảng, perfectly still for half a second so clip 3 can continue without a cut.
+[END FRAME — natural motion continues]
+Locked folder opened, original evidence kept separately.
+Next shot 25.3: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

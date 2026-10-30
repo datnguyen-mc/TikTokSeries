@@ -1,31 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 3: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-CASUARINA PINE DUNE: a dune of white sand and casuarina pines above the town, wind in the needles, long shadows, the cabin visible between trunks.
-Story setting: Nhà gỗ, đêm ngày 2, đèn dầu, gió; đồi cát đối diện.
-Scene 11/60, timecode 10:00 – 11:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 11/60, clip 4/6; shot 11.4. Story time: D2 night.
+White-sand dune under casuarina pines, cabin uphill, main path down toward market.
+Present-day night, warm cabin lamp inside, cool moonlit pines outside.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Phó Thành (@Phó Thành) bò tới cạnh với điện thoại: tỉnh trả lời: biển số xe đen thuộc công ty vỏ ở thành phố; thân dương thẳng như cột.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — dính một đường dây tên Rắn Đen. Máy ở trên mặt người nói khi câu bắt đầu: Phó Thành (@Phó Thành): "Xe đen là của Rắn Đen, chị." · Mây (@May): "Vậy người trong nhà kia là ai của Rắn Đen?"
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — Hình thở ra: không thoại, không cắt.. Khung cuối bất động, clip 5 nối từ đúng đây.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Use Thành's report to tighten the connection between the visitors and shipping evidence, without another revelation speech.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 11.3, ending with Binoculars lowered, Mây recording the observation.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Thành joining Mây below the ridge.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame both below the ridge, keeping the cabin light in the background as a steady reference.
+Focus: Hold their faces and paper handover at shared depth, avoiding a new company-logo insert.
+
+[ACTION — 0–10s, one evolving take]
+He hands her confirmation that the black car belongs to the dock company.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One clear handover and a short processing pause are enough; let the light behind them retain the unresolved subject.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Thành hands the existing confirmation to Mây; she receives it without turning openly toward the cabin.
+Performance: He delivers the finding low and efficiently, while her response is a silent recalibration rather than astonishment.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Thành (@Phó Thành), nói trong hình: Xe cùng công ty trên tờ giao hàng.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Paper edges catch the cabin glow; pine shadow remains irregular and natural around their shoulders.
+
 
 [SOUND]
-Âm thanh nền: chim biển kêu xa; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: wind moving pine needles and distant surf.
+Foreground sound: Their restrained voices sit close under the pine wind, with no phone chime announcing the report.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Phó Thành (@Phó Thành) bò tới cạnh với điện thoại: tỉnh trả lời: biển số xe đen thuộc công ty vỏ ở thành phố, dính một đường dây tên Rắn Đen, perfectly still for half a second so clip 5 can continue without a cut.
+[END FRAME — natural motion continues]
+Company report in Mây's hand, cabin light behind them.
+Next shot 11.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

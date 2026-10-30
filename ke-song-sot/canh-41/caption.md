@@ -1,27 +1,7 @@
-# Caption · Kẻ Sống Sót: Bóng Ma · Phần 41/60: Tam Giác
+# Kẻ Sống Sót: Bóng Ma · Cảnh 41: Cuộc Trao Đổi Đổi Luật
 
-> Caption cho video ngắn TikTok / YouTube Shorts cắt từ Cảnh 41 (Phút 40:00 – 41:00). 60 giây, 16:9 hoặc crop 9:16.
+Kiên phá điều kiện, Hạ làm Sơn chọn người thay vì giao kèo.
 
-## Caption đề xuất
-```text
-Kẻ Sống Sót: Bóng Ma · Tập 41/60: Tam Giác 🌊🕯️
+Phim hư cấu do AI tạo. Xem trọn mạch truyện trên bản phim dài.
 
-Tam giác trên cầu cảng: Bà Hai và Dũng bên đông, Kiên giữ Hạ bên tây, Sơn giữa cầm bao da rỗng buông thõng; sóng vỗ dưới chân cầu.
-Sơn hạ tay xuống, nhìn hai phe, nhìn Hạ, nhìn mặt trời còn một vạch; giọng anh lần đầu lớn.
-
-"Bóng ma không biến mất. Bóng ma chỉ hết việc."
-📺 Xem trọn bộ phim 60 phút trên kênh YouTube (link ở bio).
-Phim hư cấu do AI tạo, cảnh hành động là dàn dựng điện ảnh.
-
-#kesongsot #bongma #phimhanhdong #phimle #phimvietai
-```
-
-## Bình luận ghim (Pinned Comment)
-```text
-Cảnh 41: nếu là Sơn, bạn có bỏ nghề đi với Hạ không? 👇
-```
-
-## Checklist khi đăng
-- Bật nhãn **"Nội dung do AI tạo"**.
-- Không gắn giỏ hàng; không dùng tên diễn viên thật trong caption.
-- Tối đa 5 hashtag.
+#kesongsot #bongma #phimvietai

@@ -1,30 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 3: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
+
+
+
+[TIMELINE AND LOCATION]
+Scene 59/60, clip 4/6; shot 59.4. Story time: D8 afternoon.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea.
+Day-eight afternoon, warm working porch light, pine shadows moving naturally.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make support between ordinary people tangible through a table that must actually stand.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 59.3, ending with Folded table on porch, Bảy clearing space for it.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Folded table on the porch, Bảy at one end, Hạ holding an empty bucket.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame Bảy at one table end, Hạ with the empty bucket, both in medium depth.
+Focus: Keep supporting hands and the table's level readable without cutting to new tools or angles.
+
+[ACTION — 0–10s, one evolving take]
+Bảy unfolds the table, Hạ checks its balance with an empty flower bucket.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One unfold and one balance check complete the beat; do not repeat the wobble just to fill the take.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He unfolds the existing legs and she checks balance with the one bucket, no elaborate carpentry demonstration.
+Performance: Bảy's line is dry practical advice, Hạ responds through adjusting her stance rather than another spoken joke.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Ông Bảy (@Ông Bảy), nói trong hình: Nhà này gió. Làm chân bàn chắc vào.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
-LỊCH BẢY NGÀY (the seven-day count): short lines carved into the wooden doorframe of the cabin with a small metal pocket tool, one per day.
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ trên đồi dương, chiều ngày 8, nắng vàng, gió.
-Scene 59/60, timecode 58:00 – 59:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+Worn hinges and an unpainted leg keep the table plausible, bucket stays empty and unique.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
-
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Mây (@May) lấy dụng cụ khắc gỗ nhỏ Sơn (@Son) để quên trên bàn; mạt gỗ còn bám trên khung cửa.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — định khắc vạch thứ tám, dừng lại. Máy ở trên mặt người nói khi câu bắt đầu: Mây (@May): "Vạch thứ tám người sống khắc."
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — cô đặt dụng cụ khắc xuống khung cửa, dưới bảy vạch. Khung cuối bất động, clip 5 nối từ đúng đây.
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: soft surf, pine wind and porch-board creaks.
+Foreground sound: Leg hinges, a light wobble and bucket contact supply gentle rhythm under the line.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Cô đặt dụng cụ khắc xuống khung cửa, dưới bảy vạch, perfectly still for half a second so clip 5 can continue without a cut.
+[END FRAME — natural motion continues]
+Stable table, one empty bucket upright on it.
+Next shot 59.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

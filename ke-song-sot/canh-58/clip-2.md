@@ -1,27 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 1, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Xe chở phạm chạy qua đường chính và bờ kè, sáng, nắng, cửa kính lưới.
-Scene 58/60, timecode 57:00 – 58:00, clip 2/6 (10–20s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Máy ở nguyên chỗ, hành động đi tiếp: Qua lưới kính, cầu cảng trôi qua: Hạ (@Ha) đứng ở cột đèn với bó ly trắng, khăn xanh, không vẫy, chỉ đứng; bạt xanh phần phật. Lời dẫn ngoài hình, miệng nhân vật không mở: Sơn (@Son) (Voice-over): "Cô ấy không vẫy. Cô ấy đứng cho tôi thấy chỗ."
-00:03.5–00:07.0 | 85mm close-up on the eyes and expression, long hold — Hành động trên đi tiếp, đổi cỡ cảnh, piano một tay, rất khẽ.
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — Nhân vật đứng yên thêm một nhịp, máy không rời.. Giữ cỡ cảnh và vị trí cuối thêm 0.5s.
+[TIMELINE AND LOCATION]
+Scene 58/60, clip 2/6; shot 58.2. Story time: D8 late morning.
+Moving view through right-side transport mesh, public seafront walkway with Hạ and Mây, no interior characters in shot.
+Day-eight late morning, natural vehicle-window light, coastal sun outside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make one small flower gesture carry the farewell from Hạ's side.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 58.1, ending with Sơn turning toward the side window, Thành giving him space.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+View from Sơn's window, Hạ at the public walkway with one wrapped lily.
+
+[CAMERA]
+50mm stable over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the established moving view through Sơn's RIGHT mesh window toward the safe walkway.
+Focus: Keep the roadside distance believable through the mesh, do not make a perfect unobstructed glamour portrait.
+
+[ACTION — 0–10s, one evolving take]
+She lifts the flower only to chest height as the vehicle approaches.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The lift finishes as the vehicle passes, leaving the recognition to the opposite shot rather than repeating the gesture.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Hạ lifts the single wrapped lily only to chest height, Mây remains beside her outside traffic.
+Performance: Her eyes follow the passing window with steadiness, no running, repeated waving or staged sobbing.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Plain paper and one lily remain unchanged, morning light touches her white blouse naturally.
+
 
 [SOUND]
-Âm thanh nền: ghe nổ máy ngoài cảng; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: transport engine filtered through the side window.
+Foreground sound: Engine is filtered by the window, sea and walkway sounds stay modest beyond it, no extra dialogue.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Qua lưới kính, cầu cảng trôi qua: Hạ (@Ha) đứng ở cột đèn với bó ly trắng, khăn xanh, không vẫy, chỉ đứng. Hold that exact frame still for 0.5s; clip 3 starts from it.
+[END FRAME — natural motion continues]
+Hạ holding one lily against her chest, eyes on the moving window.
+Next shot 58.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

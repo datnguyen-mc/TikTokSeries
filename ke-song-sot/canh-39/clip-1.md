@@ -1,30 +1,63 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
-@Phó Thành = PHÓ THÀNH (26, Mây's young deputy): a skinny Vietnamese man with round glasses, neat side-parted hair, a plain light-blue shirt, eager nervous face, no insignia. Voice: quick, polite Southern Vietnamese male voice.
-@Bác sĩ Linh = BÁC SĨ LINH (55, the town doctor): a thin Vietnamese man with grey hair, wire glasses, a worn white coat over a checked shirt, a stethoscope. Voice: tired, precise Southern Vietnamese male voice.
-@Ông Bảy = ÔNG BẢY (70, owner of the seafront coffee stall): a stout old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, a conical hat, always wiping a glass. Voice: loud, cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. one glasses arm bent, held by tape after rescue. Voice: quick, polite Southern Vietnamese male voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cảng cá Hòn Sóng, chiều ngày 7, hoàng hôn cam, ghe, thúng, cột đèn.
-Scene 39/60, timecode 38:00 – 39:00, clip 1/6 (0–10s of the scene). Atmosphere: silent infiltration, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Slow creeping 35mm camera moves, tight 85mm close-ups on hands, eyes and locks, searchlight beams sweeping through mist, long held frames with controlled cuts. Chiaroscuro shadows, cold green or blue light.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm low-key framing creeping along the edge — Mở cảnh: Cảng cá vắng; cột đèn soi mặt nước đen.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) đặt người: Phó Thành (@Phó Thành) lên nóc chợ với ống nhòm; Ông Bảy (@Ông Bảy) đậu xe van sau dãy thúng, Bác sĩ Linh (@Bác sĩ Linh) ngồi trong với túi. Thoại có khẩu hình, máy thấy rõ miệng người nói: Mây (@May): "Không ai ra trước khi tôi bật đèn cột."
-00:07.0–00:10.0 | 50mm close-up on the watchful eyes — ngư dân nấp sau ghe với lưới. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 39/60, clip 1/6; shot 39.1. Story time: D7 sunset.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Present-day sunset, one low sun west, clear soft fill on faces, no impossible opposing sun shadows.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Give viewers enough geography to anticipate where protection ends and escape might begin.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 38.6, ending with Bag closed on the bed, bare hands leaving the frame.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Whole harbour in one view, market on landward side, lighthouse road uphill west.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the full harbour width with market landward and uphill service path west in the same view.
+Focus: Keep routes and distances legible through depth instead of cutting to map fragments.
+
+[ACTION — 0–10s, one evolving take]
+Mây checks the protected landward junction while Thành takes the roof post.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Read the layout before concentrating on individuals, making later movement a consequence of this place.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây checks the junction while Thành reaches his roof post, each following a different established route.
+Performance: Their work is focused rather than triumphant; no one gestures as if giving an audience tour.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Concrete apron, boat ropes and low market structures form a finite recognizable arena.
+
 
 [SOUND]
-Âm thanh nền: ghe cá va mạn, dây neo kêu; tiếng đèn pha quay xa. Nền nhỏ hơn giọng người.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: Sea and work sounds persist without crowd noise, since evacuation is already underway.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Ngư dân nấp sau ghe với lưới. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Pier, market lane and uphill service path all readable in frame.
+Next shot 39.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,31 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 5: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Phó Thành = PHÓ THÀNH: 26, skinny, round glasses, light-blue shirt, eager nervous face; quick, polite Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Thị trấn Hòn Sóng, chiều ngày 2, chợ cá, quán ông Bảy.
-Scene 9/60, timecode 08:00 – 09:00, clip 6/6 (50–60s of the scene). Atmosphere: silent infiltration, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Slow creeping 35mm camera moves, tight 85mm close-ups on hands, eyes and locks, searchlight beams sweeping through mist, long held frames with controlled cuts. Chiaroscuro shadows, cold green or blue light.
+[TIMELINE AND LOCATION]
+Scene 09/60, clip 6/6; shot 09.6. Story time: D2 afternoon.
+Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
+Present-day afternoon sun, bright road outside cool stall and market shade.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow push through the doorway or gap — Tiếp tục một hơi, chưa đổi góc: Ở đồn; bạt xanh phần phật.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Phó Thành (@Phó Thành) đưa Mây (@May) biển số và tấm ảnh Ông Bảy (@Ông Bảy) gửi. Nói nhỏ nhưng khẩu hình rõ, máy không rung: Mây (@May): "Người ta tìm nó tới tận đây." · Phó Thành (@Phó Thành): "Bắt luôn không chị?" · Mây: "Chưa biết ai là người xấu."
-00:07.0–00:10.0 | 35mm steady shot as shadows settle — Mây (@May) nhìn ảnh Sơn (@Son) chụp lén trong thành phố, vest đen, găng da. Đứng hình nửa giây ở khung cuối, cảnh khép lại ở đây.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Convert scattered observations into a direction of inquiry, giving Mây a discovery instead of instant certainty.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 09.5, ending with Contact card under Bảy's glass, road clear.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Thành placing his notes beside Bảy's contact card.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame the two officers and table evidence in the medium setup, each source visibly separate.
+Focus: Keep faces and the small comparison zone readable without turning company marks into legible generated lettering.
+
+[ACTION — 0–10s, one evolving take]
+Mây connects the emblem to the dispatch company and requests a check.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Pause on the match before the instruction; avoid reading every plate, emblem and company detail aloud again.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Thành places his notes beside the card; Mây aligns only the company emblem relationship and requests verification.
+Performance: Mây's confidence comes from connecting sources, while Thành watches to understand the next task rather than admiring her intuition.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Họ tìm người. Ta tìm đường đi.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Paper from street notes and the cleaner contact card retain different textures and origins.
+
 
 [SOUND]
-Âm thanh nền: ly thủy tinh chạm nhau, bạt xanh phần phật; gần như im, chỉ tiếng nền. Không nhạc dưới câu thoại.
+Location bed: ceiling fan and quiet paperwork.
+Foreground sound: A modest paper slide and quiet support-channel activity sit beneath Mây's concise thought.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Introduce wind through the damaged shop door before cutting from the company inquiry to the torn scarf trace.
 
-[END FRAME]
-End on: Mây (@May) nhìn ảnh Sơn (@Son) chụp lén trong thành phố, vest đen, găng da. Hold still for 0.5s; this closes the scene.
+[END FRAME — natural motion continues]
+Mây marking the company entry, Thành preparing the request.
+Next shot 10.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

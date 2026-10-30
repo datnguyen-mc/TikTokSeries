@@ -1,27 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 1, matching position, light and 16:9 framing exactly, as one unbroken take.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
+@Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white coat over checked shirt, stethoscope, practical medical bag. Voice: tired, measured Southern Vietnamese male voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cảng cá Hòn Sóng, chiều ngày 7, hoàng hôn cam, ghe, thúng, cột đèn.
-Scene 39/60, timecode 38:00 – 39:00, clip 2/6 (10–20s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Slow 35mm push-in establishing the room and subject — Từ đúng khung dừng của clip trước: Mây (@May) đứng ở cuối cầu cảng; nắng cam trải trên bê tông.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — áo kaki, còng ở thắt lưng, đồng hồ quả quýt của Sơn (@Son) trong túi ngực. Khẩu hình rõ, câu ngắn, máy giữ trên người nói tới hết câu: Mây (@May) (thì thầm): "Hạ (@Ha). Tao giữ chỗ cho mày mười năm. Hôm nay trả."
-00:07.0–00:10.0 | 50mm close-up as the shadow falls across the frame — cô nhìn mặt trời chạm nước. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[TIMELINE AND LOCATION]
+Scene 39/60, clip 2/6; shot 39.2. Story time: D7 sunset.
+Protected rear lane behind market wall, Bảy van parked with rear doors toward clinic route, no civilians inside the police zone.
+Present-day sunset, one low sun west, clear soft fill on faces, no impossible opposing sun shadows.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the rescue route feel real by showing what must remain unobstructed.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 39.1, ending with Pier, market lane and uphill service path all readable in frame.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Van behind the market wall, rear lane clear to the clinic.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame the van behind cover and the lane to clinic with Mây, Bảy and Linh inside that relation.
+Focus: Keep rear-door opening and route width visible, no repeated inventory of the medical bag.
+
+[ACTION — 0–10s, one evolving take]
+Mây confirms Linh's protected position and a clear stretcher path.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The route is checked once, ending as Mây heads back and the support team stays where needed.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây confirms the clear stretcher path, then leaves them protected rather than pulling them toward the pier.
+Performance: Her instruction carries care for their limits; they respond through readiness, not spoken heroics.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Đưa người qua lối này. Không qua chợ.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Wall shadow, clean mattress edge and ordinary van metal distinguish this space from the exposed apron.
+
 
 [SOUND]
-Âm thanh nền: ghe cá va mạn, dây neo kêu; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: soft radio traffic and distant pier commands.
+Foreground sound: Her line passes over quiet van and distant harbour sound, no clinical monitor anticipation.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Cô nhìn mặt trời chạm nước for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Van and stretcher path clear, Mây heading back to the pier.
+Next shot 39.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

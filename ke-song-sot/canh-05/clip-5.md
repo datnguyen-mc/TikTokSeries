@@ -1,31 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 4. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@Ông Bảy = ÔNG BẢY: 70, stout, white moustache, white singlet, conical hat, wiping a glass; loud cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Ông Bảy = ÔNG BẢY (70, owner of the seafront coffee stall): a stout old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, a conical hat, always wiping a glass. Voice: loud, cheerful elderly Southern voice.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ, trưa ngày 1, nắng xiên qua khe ván, radio rè.
-Scene 5/60, timecode 04:00 – 05:00, clip 5/6 (40–50s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 05/60, clip 5/6; shot 05.5. Story time: D1 noon.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day noon daylight through cabin gaps, cooler shadows, no fluorescent source.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm slow dolly in through the space — Nối liền chuyển động đang dang dở: Tiếng bước chân ngoài hiên; gió dương lùa qua hiên.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Sơn (@Son) úp sổ, đậy hộp. Nói trong khung, không cắt giữa câu: Ông Bảy (@Ông Bảy): "Cơm. Cá kho. Trên này không có quán." · Sơn (@Son): "Cảm ơn chú."
-00:07.0–00:10.0 | 50mm hold on the eyes, unwavering — Ông Bảy (@Ông Bảy) bưng cà mên cơm cá kho bước vào không gõ, mắt dừng ở đôi găng da trên bàn. Khung kết đứng yên, chờ clip 6.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show Sơn separating himself from violence while not pretending the past has vanished.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 05.4, ending with Sealed tin closed, three vials accounted for inside.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn below the cabin's exposed roof beam.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The medium setup keeps his empty hands and the beam recess within the same physical frame.
+Focus: Keep enough depth to understand the recess, without exposing hidden contents or a new weapons insert.
+
+[ACTION — 0–10s, one evolving take]
+He secures the closed handgun case above the beam, away from reach.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Complete the placement once and end below the beam, allowing the absence from his hands to register.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He secures the complete closed case above the beam, then lowers both hands where they can be seen.
+Performance: Avoid a triumphant resolve; he checks placement from habit and seems heavier once the hands return.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Locked handgun case, no discharge. Sơn transfers complete case and key to Mây at 28.4 and remains unarmed thereafter.
+
+[VISIBLE TEXTURE]
+Old timber, worn case leather and pale dust belong to the existing cabin, not an armory display.
+
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: A restrained case-to-wood contact and his exhale are sufficient; never add a weapon-cocking sound.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Ông Bảy (@Ông Bảy) bưng cà mên cơm cá kho bước vào không gõ, mắt dừng ở đôi găng da trên bàn) for 0.5s; this is the first frame of clip 6.
+[END FRAME — natural motion continues]
+Case hidden above the beam, Sơn's empty hands below.
+Next shot 05.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

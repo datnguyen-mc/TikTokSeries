@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Dũng = DŨNG "ĐINH" (35, Rắn Đen's chief enforcer): a real Vietnamese man, about 180 cm tall, heavy-shouldered, buzz cut, a small nail-shaped silver earring in his LEFT ear (signature detail), black sleeveless shirt, black jeans, boots, a closed leather belt pouch. Voice: rough, loud Southern Vietnamese male voice.
-@Ông Bảy = ÔNG BẢY (70, owner of the seafront coffee stall): a stout old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, a conical hat, always wiping a glass. Voice: loud, cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, boots, shoulder bag for work gear. Voice: rough Southern Vietnamese male voice.
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Quán bờ kè, sáng ngày 4, nắng trắng, hai xe đen đỗ chắn đường.
-Scene 18/60, timecode 17:00 – 18:00, clip 1/6 (0–10s of the scene). Atmosphere: intense close-quarters martial choreography, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Dynamic 35mm anamorphic handheld tracking, low-angle 24mm framing on fast close-quarters martial choreography, one speed-ramp slow-motion beat on the decisive wrist-lock or throw. 90-degree shutter angle for razor-sharp motion with zero smear. Cold teal-and-steel grade, hard practical light from floodlights or lamps, rain and spray catching the light.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm medium-wide framing the confrontation clearly — Thiết lập không gian: Hai xe đen dừng chắn ngang đường bờ kè; ly thủy tinh lấp lánh trên giá.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Dũng (@Dũng) bước xuống, áo ba lỗ đen, khuyên đinh; sáu người theo sau. Nói nhỏ nhưng khẩu hình rõ, máy không rung: Dũng (@Dũng): "Ông già. Hai thằng tôi gửi hôm qua đâu?"
-00:07.0–00:10.0 | Static 50mm, the composed stance held — Dũng (@Dũng) đạp đổ một bàn quán Ông Bảy (@Ông Bảy). Kết bằng khung tĩnh 0.5s.
+[TIMELINE AND LOCATION]
+Scene 18/60, clip 1/6; shot 18.1. Story time: D4 morning.
+Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
+Present-day morning coastal sun outside, awning shade at the counter.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Dũng's entitlement disturb the town's ordinary order through one clearly visible trespass.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 17.6, ending with Protection roster on the desk, Thành acknowledging his post.
+Editorial cut to the explicitly stated new time/place. Establish the supplied opening composition once; do not replay travel or arrival.
+
+[START FRAME — state only, not an action to repeat]
+Two black cars stopping outside the coffee stall.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide street composition to keep both black cars, empty chair and Bảy behind his counter related.
+Focus: Keep the chair's path and standing bodies readable, avoiding a low-angle glorification of his size.
+
+[ACTION — 0–10s, one evolving take]
+Dũng steps out, knocks one empty chair aside, asks after his men.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The chair disturbance is quick and singular; let its awkward resting position persist as a problem someone must answer.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Dũng steps out and knocks only the empty chair aside, his men staying near their cars.
+Performance: He expects the place to yield before he speaks; Bảy remains in place without exaggerated fearless posturing.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Dũng (@Dũng), nói trong hình: Hai người tao gửi đâu?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Dusty tires, scuffed chair legs and ordinary seafront light preserve the modest scale of the intrusion.
+
 
 [SOUND]
-Âm thanh nền: ly thủy tinh chạm nhau, bạt xanh phần phật; tiếng va chạm khô, không nhạc. Không nhạc dưới câu thoại.
+Location bed: distant motorcycles and muted market voices.
+Foreground sound: A dry chair scrape briefly interrupts traffic and awning sounds, then his question takes the foreground.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Dũng (@Dũng) đạp đổ một bàn quán Ông Bảy (@Ông Bảy), perfectly still for half a second so clip 2 can continue without a cut.
+[END FRAME — natural motion continues]
+Chair on its side, Bảy behind the counter.
+Next shot 18.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

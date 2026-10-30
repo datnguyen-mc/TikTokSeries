@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN in the past (45, the Ghost in his signature dark attire): a real Vietnamese man, about 176 cm tall, lean, cropped black hair greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose (signature detail), in a plain black suit with no tie, white shirt open at the collar, polished black shoes, black leather gloves. Voice: low, dry, unhurried Southern Vietnamese male voice. Not resembling any real actor.
-@Ha = HẠ (32, a florist in the city, Sơn's beloved; appears in the past): a real Vietnamese woman, about 162 cm tall, slim, gentle bright face, long black hair tied loosely, a pale-blue silk scarf around her neck or in her hair (signature detail). Outfit: a cream linen dress, a green canvas apron with pockets, flat sandals, flower stems in her hands. Voice: soft, warm, clear Southern Vietnamese female voice, early 30s.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. cream linen dress, green florist apron, pale-blue scarf at neck, flat sandals. Voice: warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FLOWER SHOP (past): a small flower shop at the foot of a glass tower, buckets of white lilies and roses, a wooden counter, warm bulbs, a back room with a kettle, a glass front onto the street; no readable text.
-Story setting: Quá khứ, tiệm hoa đêm trước hợp đồng, đèn vàng, ly trắng, mưa nhẹ.
-Scene 33/60, timecode 32:00 – 33:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow dolly in from medium shot — Cắt gọn, đổi không gian và ánh sáng: tiệm hoa đêm; chuông cửa còn rung.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Hạ (@Ha) ngồi trên quầy đung đưa chân, Sơn (@Son) đứng dựa cửa. Câu thoại nói chậm, môi khớp, mắt không rời người đối diện: Hạ (@Ha): "Mai anh đi làm." · Sơn (@Son): "Mai anh xong."
-00:07.0–00:10.0 | 85mm close-up on the quiet gaze — cô biết mai là "việc cuối". Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 33/60, clip 1/6; shot 33.1. Story time: PAST one month earlier night.
+Hạ city flower shop, wooden counter east, bucket rows under front window, tower lobby across the road.
+Recent-past flower-shop night, warm bulbs, wet pavement street spill.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Give Hạ the power to leave an opening while asking for honesty instead of reassurance.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 32.6, ending with Medical bag ready, route map with Mây, Sơn unarmed.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Hạ lowering half the shop shutter, Sơn still inside.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the shutter gap and counter in the wide composition, Sơn still on the inside edge.
+Focus: Keep the unused opening visible alongside her face and his hesitation at the doorway.
+
+[ACTION — 0–10s, one evolving take]
+She leaves a gap for him and waits rather than filling the silence.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the unclosed doorway hold the choice after she speaks, rather than filling it with movement.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She stops the shutter halfway, then waits without walking toward him to fill the distance.
+Performance: Her question is direct and tired of evasion, not a foreknowledge of coming tragedy.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Hạ (@Ha), nói trong hình: Mai anh còn quay lại không?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Warm shop bulbs, wet pavement beyond and shutter slats make the possible departure tangible.
+
 
 [SOUND]
-Âm thanh nền: chuông cửa, kéo cắt cành; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: flower-shop bell and soft bucket-water sounds.
+Foreground sound: Shutter rattle settles before the question, leaving the ordinary shop room tone.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Tiệm hoa đêm, Hạ (@Ha) ngồi trên quầy đung đưa chân, Sơn (@Son) đứng dựa cửa) for 0.5s; this is the first frame of clip 2.
+[END FRAME — natural motion continues]
+Half-closed shutter behind Sơn, Hạ at the counter.
+Next shot 33.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 60: Chuyến Xe Bình Minh
+# Kẻ Sống Sót: Bóng Ma — Cảnh 60: Buổi Sáng Có Người Về
 
-**Cảnh 60/60** · Phút 59:00 – 60:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 59](../canh-59/README.md) | Hết phim
+Phút 59:00–60:00 · Thời gian truyện: LATER many years after the case
 
----
+Kết bằng đời sống Hạ đã xây và một người trở lại.
 
-## 1. Tóm tắt cảnh
-Bình minh, nhiều năm sau (nắng, cùng ngã ba, cột biển bạc hơn): sạp hoa ly trắng ở đầu chợ cá; Hạ, tóc dài hơn, khăn xanh, xếp hoa; khung cửa sạp có nhiều vạch nhỏ. Quán bờ kè: ông Bảy già hơn, vẫn lau ly, nhìn ra ngã ba: xe đò cũ dừng, bụi. Chậm lại ở khoảnh khắc này: bàn tay Hạ đặt đồng hồ lên quầy, ly trắng, nắng trắng; tiếng bước chân trên cát dừng ở cửa sạp; cắt đen trước khi thấy mặt; tựa phim *KẺ SỐNG SÓT: BÓNG MA*.
+**Câu hỏi đang mở:** Người trở lại có thể bước vào đời sống Hạ đã tự xây?
+**Móc vào cảnh:** Sạp hoa đang sống tốt trước tiếng xe đò tới.
+**Điểm bẻ:** Hạ nhận ra một bàn tay trần và mở chỗ ngồi bình thường.
+**Gieo / trả:** Trả tư thế nhìn biển và chuyến xe đầu; không đồng hồ thứ hai hay phản diện mới.
 
-* **Bối cảnh chính:** Ngã ba thị trấn Hòn Sóng, bình minh, nhiều năm sau, xe đò, cảng cá, sạp hoa.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Hạ (@Ha), Ông Bảy (@Ông Bảy)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | MATCH · Match cut hình dạng/tư thế, không morph | Finished flower counter years later, older Hạ arranging fresh lilies. | She opens the shutters of a working shop, old marked wood discreetly fixed underneath. | Shop open, Hạ behind the counter, morning customers blurred beyond. | — |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Older Mây stopping outside the shop with her helmet in hand. | She buys one ordinary bunch and exchanges a familiar look with Hạ. | Flowers in Mây's hand, Hạ handing back change. | Mây (@May), nói trong hình: Chiều ghé ăn cơm nhé. |
+| [3](clip-3.md) | J · J-cut: âm mới đến trước hình | Older Bảy behind the same coffee counter, coach engine heard off screen. | He looks toward the crossroad, leaves a clean glass ready on the sea-facing table. | One empty chair at the sea-facing table, coach sound closer. | — |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Coach door open, only an older man's jacket, bag and hands framed below shoulders. | The man steps down once, same repaired watch chain visible inside the jacket, coach departs. | Man standing with bag in left hand, right hand bare at his side. | — |
+| [5](clip-5.md) | L · L-cut: âm cũ đi qua cú cắt | Hạ hearing the coach fade outside, one lily still in her hand. | She looks toward approaching footsteps, recognition arriving gradually without a run. | Hạ setting the single lily on the counter, eyes at the doorway. | — |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | From inside the shop, Hạ behind the counter, a bare hand entering the doorway edge. | The arriving hand rests on the counter without a new watch, Hạ makes room for him. | Hạ facing the unseen visitor, one lily between them, daylight beyond the door. | Hạ (@Ha), nói trong hình: Hôm nay ngồi nhìn biển với em nhé. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Bình minh, nhiều năm sau (nắng, cùng ngã ba, cột biển bạc hơn): sạp hoa ly trắng ở đầu chợ cá; Hạ, tóc dài hơn, khăn xanh, xếp hoa; khung cửa sạp có nhiều vạch nhỏ.** | Sơn (Voice-over): "Người ta gọi tôi là Bóng Ma. Bóng ma không chết." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Mây đi ngang bằng xe máy, lọn tóc bạc nhiều hơn, dừng mua một bông ly như mọi sáng; hai người bạn không cần nói.** | Mây: "Hôm nay mấy vạch?" · Hạ: "Mày đếm giùm tao đi." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Quán bờ kè: ông Bảy già hơn, vẫn lau ly, nhìn ra ngã ba: xe đò cũ dừng, bụi.** | Ông Bảy: "Xe sớm." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Từ xe đò, một người đàn ông bước xuống, áo khoác dã chiến ô liu, túi vải, dây đồng hồ bạc ở thắt lưng; camera chỉ thấy từ vai xuống và bàn tay trần.** | Sơn (Voice-over): "Bóng ma chỉ hết việc." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Ở sạp hoa, Hạ ngẩng lên khi nghe tiếng xe đò đi; cô không chạy; cô mở ngăn kéo lấy một chiếc đồng hồ quả quýt y hệt, mặt kính không nứt, lên dây.** | — | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Chậm lại ở khoảnh khắc này: bàn tay Hạ đặt đồng hồ lên quầy, ly trắng, nắng trắng; tiếng bước chân trên cát dừng ở cửa sạp; cắt đen trước khi thấy mặt; tựa phim *KẺ SỐNG SÓT: BÓNG MA*.** | Hạ: "Hết việc chưa?" | Frames / Extend (nối liền) |
+- **1:** Establish that Hạ has built a full working life before the returning man enters it. **Diễn xuất:** Her ease contains years of ownership, no permanent grief pose or expectation directed at the coach stop.
+- **2:** Show enduring friendship as an ordinary purchase rather than a recap of every intervening year. **Diễn xuất:** Their familiar ease lives in a small look, Mây's invitation casual and specific to an everyday meal.
+- **3:** Prepare a place for someone through Bảy's habitual hospitality, not through supernatural foreknowledge. **Diễn xuất:** His response is ordinary attention to potential business, not a knowing smile that confirms a plot twist.
+- **4:** Repeat the opening arrival with a changed hand and age, while keeping identity just outside full view. **Diễn xuất:** His movement is older and measured, neither swaggering professional nor a suddenly frail caricature.
+- **5:** Let Hạ recognize a possible return without abandoning the life already shown around her. **Diễn xuất:** Recognition arrives unevenly across breath and eyes, a small disbelief before warmth, not an instant tearful grin.
+- **6:** End with room being made for an ordinary shared morning, not a new contract or final twist. **Diễn xuất:** She speaks with mature ease carrying remembered feeling, the unseen man need not answer or reveal his face.
 
----
+**Âm nối sang cảnh sau:** End on Hạ recognition with continuing sea wind. Any title and final fade are added only in the edit.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

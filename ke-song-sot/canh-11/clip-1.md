@@ -1,31 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+
+
+
+[TIMELINE AND LOCATION]
+Scene 11/60, clip 1/6; shot 11.1. Story time: D2 night.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day night, warm cabin lamp inside, cool moonlit pines outside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Revisit the shipping date as a decision to act on it, not a repeated explanation of the same clue.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 10.6, ending with Shelf empty at those slots, bag clasp closed.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place; no transformation, morph, dissolve or replay of the old shot.
+
+[START FRAME — state only, not an action to repeat]
+Closed tin beside the dispatch receipt under lamplight.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Match the bag-clasp geometry into the existing sealed tin and receipt under the cabin lamp.
+Focus: Keep pencil, final box and tin edge at the same stable detail depth; handwritten words stay unreadable.
+
+[ACTION — 0–10s, one evolving take]
+Sơn puts a pencil mark at the last shipping date, leaving the tin sealed.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Make the marking brief and the resulting weighted paper clear, leaving the voice-over no reason to repeat all seven boxes.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn makes one small pencil mark at the final date and weights the paper with the still-sealed tin.
+Performance: The marking pressure is firmer than the earlier tracing, indicating commitment rather than a new discovery.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Voice-over only; visible mouths remain at rest.
+
+Sơn, lời dẫn ngoài hình: Chuyến hàng đi rồi, dấu vết cũng đi.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
-SỔ ĐEN (the Rắn Đen ledger): a black leather account book with columns of handwritten numbers (not readable) and a USB stick taped inside the back cover.
-LỊCH BẢY NGÀY (the seven-day count): short lines carved into the wooden doorframe of the cabin with a small metal pocket tool, one per day.
+Reference only; enact only the current ACTION, not a future handover.
+- Dented fitted tin containing three sealed fictional Tê vials, no opening or use instructions.
+- Dispatch receipt with seven dated boxes and a ship stamp, no readable generated text.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ, đêm ngày 2, đèn dầu, gió; đồi cát đối diện.
-Scene 11/60, timecode 10:00 – 11:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+Warm lamplight catches the paper crease while the closed tin remains a dull, practical weight.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
-
-[SHOT LIST]
-00:00–00:03.5 | Steady 50mm medium shot establishing the tension — Vào cảnh: Đêm, Sơn (@Son) ngồi trước khung cửa, đèn dầu, cuốn sổ đen mở; mạt gỗ còn bám trên khung cửa. Lời dẫn ngoài hình, miệng nhân vật không mở: Sơn (@Son) (Voice-over): "Luật của tôi: bảy ngày, sổ này phải lên mặt báo."
-00:03.5–00:07.0 | 35mm slow dolly, the key object visible in foreground — hai vạch trên gỗ.
-00:07.0–00:10.0 | Slow 85mm close-up on the hand and face — anh nói với chính mình. Dừng ở khung này nửa giây để clip 2 nối vào.
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: Pencil drag and tin settling replace the earlier USB tape sounds, with night pine wind underneath.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Anh nói với chính mình. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Receipt weighted flat by the sealed tin.
+Next shot 11.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

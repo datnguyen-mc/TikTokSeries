@@ -1,27 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 3, matching position, light and 16:9 framing exactly, as one unbroken take.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SMALL-TOWN POLICE POST: a tiled front room with a steel desk, a ceiling fan, an old computer, a holding room with a barred window, a motorbike outside; no readable insignia.
-Story setting: Đồn công an thị trấn, đêm ngày 3, quạt trần, máy tính cũ.
-Scene 17/60, timecode 16:00 – 17:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium-wide framing the figures in the room — Không có khoảng dừng giữa hai clip: Sơn (@Son) ghép: Vũ Kiên (@Vũ Kiên) không "bỏ rửa tiền"; quạt trần quay chậm trên đầu.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — hợp đồng hạ Vũ Kiên (@Vũ Kiên) là cái cớ để gài anh; Vậy ai đổi kế?. Một câu, một hơi, môi khớp từng âm: Sơn (@Son): "Hợp đồng là cớ. Tôi là món quà." · Phó Thành (@Phó Thành): "Phần khóa cần chìa. Chìa ở đâu?"
-00:07.0–00:10.0 | Static 28mm wide, the stillness after — Phó Thành (@Phó Thành) chỉ phần khóa: cần khóa giải mã. Khung cuối bất động, clip 5 nối từ đúng đây.
+[TIMELINE AND LOCATION]
+Scene 17/60, clip 4/6; shot 17.4. Story time: D3 night.
+Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
+Present-day night station, neutral desk practical and monitor fill, no daylight.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make the locked dispatch detail a remaining obstacle, preserving the later proof of Hạ's transfer.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 17.3, ending with Mây separating Kiên's file from Bà Hai's file.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+A locked dispatch folder beside an open weekly schedule.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The detail setup holds the locked-folder shape beside the open weekly schedule and Mây's paper copy.
+Focus: Keep only the broad schedule and lock relationship clear; no readable passenger list or premature Hạ portrait belongs here.
+
+[ACTION — 0–10s, one evolving take]
+They establish the final ship departure is day seven at night, while the passenger manifest remains locked.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The deadline should tighten the problem, then end on what still cannot be read rather than a complete solution.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: They identify the final ship departure, and Mây circles that box without pretending the sealed manifest is open.
+Performance: Her hand pauses at the locked portion, showing the limit of what they know rather than certainty about Hạ's name.
+
+
+[DIALOGUE]
+0.8–4.4s, one unhurried line. Off-screen speech; do not add a face or animate the listener speaking.
+
+Mây, ngoài khung hình: Ngày bảy. Phải mở được phần khóa trước đó.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Dispatch receipt with seven dated boxes and a ship stamp, no readable generated text.
+
+[VISIBLE TEXTURE]
+A single pencil circle contrasts with the screen's inaccessible folder shape, grounding the unresolved information.
+
 
 [SOUND]
-Âm thanh nền: đèn tuýp ù nhẹ; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: ceiling fan and quiet paperwork.
+Foreground sound: Paper and one key press sit beneath the off-screen line, with no countdown sound or false decryption chime.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Phó Thành (@Phó Thành) chỉ phần khóa: cần khóa giải mã for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Mây circling the last departure on her paper copy.
+Next shot 17.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

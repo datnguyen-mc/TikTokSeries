@@ -1,28 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 3, matching position, light and 16:9 framing exactly, as one unbroken take.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@HaiNgoc = BÀ HAI NGỌC: 60, silver bun, powdered calm face, jade bracelet on her LEFT wrist, black unlit holder, violet silk áo bà ba; soft, slow, sweet Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face. silver hair in a tight bun, violet silk áo bà ba, black trousers, embroidered slippers, unlit black holder; bracelet removed at 49.3 and remains in evidence, wrists bare. Voice: soft, slow Southern Vietnamese female voice with precise diction.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, đêm, đèn trắng, công an tỉnh, ghế đá cột đèn.
-Scene 49/60, timecode 48:00 – 49:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium-wide framing the figures in the room — Hành động dở dang đi tiếp ngay giây đầu: Còng bập; nắng cam trải trên bê tông.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) hỏi câu người giữ luật. Thoại ngắn, khẩu hình thật, không nhạc dưới lời: Mây (@May): "Nó còn sống." · Bà Hai Ngọc (@HaiNgoc): "Má biết. Nó nghe hết. Nó nói ít."
-00:07.0–00:10.0 | Static 28mm wide, the stillness after — bà trả lời câu của người mẹ. Khung cuối bất động, clip 5 nối từ đúng đây.
+[TIMELINE AND LOCATION]
+Scene 49/60, clip 4/6; shot 49.4. Story time: D7 night simultaneous with the climb.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Same night simultaneously, steady harbour floodlight on the stone bench.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Keep the claim of motherhood present without allowing it to function as a defence against responsibility.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 49.3, ending with Bracelet and holder together on stone, both wrists bare.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Bà Hai standing before the officer with bare wrists.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame her standing medium before the assisting officer, bench and surrendered objects behind.
+Focus: Keep face and cuffed hands within readable framing, avoiding an isolated beauty shot of the arrest.
+
+[ACTION — 0–10s, one evolving take]
+She submits to the arrest, speaks about Sơn as if ownership were an explanation.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The arrest happens once, and the glance toward the tower follows rather than interrupts it.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She offers bare wrists for the cuffs, then looks toward the lighthouse after they are secured.
+Performance: Her sentence sounds like a fact she wants to regain power, not an appeal the scene endorses.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Bà Hai (@HaiNgoc), nói trong hình: Nó là con tôi nuôi.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Bracelet stays on the bench and never returns to her LEFT wrist; outfit remains immaculate but no longer commanding.
+
 
 [SOUND]
-Âm thanh nền: sóng vỗ trụ bê tông, hải âu; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: One cuff closure follows ordinary procedure, her voice clear above the same floodlight-and-sea environment.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Bà trả lời câu của người mẹ for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Cuffs secured, Bà Hai looking toward the lighthouse.
+Next shot 49.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,32 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 2: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Ha = HẠ: 32, pale tired face, long loose hair, no scarf, plain grey cotton dress; soft, warm Southern female voice.
-@Vũ Kiên = VŨ KIÊN: 50, tall, slicked black hair, white tailored suit, gold watch, wide unfading smile; smooth, confident Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. white suit, gold wristwatch, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Ha = HẠ held in a locked room (32): a real Vietnamese woman, about 162 cm tall, slim, gentle face now pale and tired, long black hair loose, no scarf, in a plain grey cotton dress, barefoot or in thin sandals, unharmed. Voice: soft, warm, clear Southern Vietnamese female voice.
-@Vũ Kiên = VŨ KIÊN (50, construction tycoon and the hidden Broker): a tall Vietnamese man with slicked black hair, a white tailored suit, gold watch, a wide politician's smile that never fades. Voice: smooth, confident Southern Vietnamese male voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng và chợ cá, đêm vừa xuống, đèn trắng, lưới, thúng, hai xe.
-Scene 44/60, timecode 43:00 – 44:00, clip 3/6 (20–30s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
+[TIMELINE AND LOCATION]
+Scene 44/60, clip 3/6; shot 44.3. Story time: D7 early night.
+Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
+Early night, established harbour floodlight, warm van lamp, dim lighthouse practicals.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm smooth pan onto the moving figure — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Vũ Kiên (@Vũ Kiên) đẩy Hạ (@Ha) vào xe trắng; nắng cam trải trên bê tông.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — vệ sĩ bị lưới. Máy ở trên mặt người nói khi câu bắt đầu: Hạ (@Ha) (trong xe): "Sơn (@Son)!" · Vũ Kiên (@Vũ Kiên): "Hắn chết rồi. Giữ cô, tôi còn giá."
-00:07.0–00:10.0 | 85mm close-up on the key detail in hand — ông ta tự lái, xe trắng rú ga lùi khỏi cầu cảng, quay đầu về đường lên vách đá. Bất động 0.5s ở khung này.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make Hạ use familiarity with the tower before she can reach any physical advantage.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 44.2, ending with Sơn on the secured mattress, Linh inside, Bảy by the rear door.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Hạ at the top of the service stair, Kiên behind her with a handgun kept low.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The wide includes the hatch, Hạ ahead and Kiên immediately behind with handgun LOW in LEFT hand.
+Focus: Keep hatch and the two body positions readable, avoiding a glamour close-up that hides the gun hand.
+
+[ACTION — 0–10s, one evolving take]
+She slows at an old hatch, keeping him talking while studying the latch.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: A small hesitation buys time; end on Kiên listening behind them while Hạ has noticed the useful latch.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Kiên's RIGHT hand holds Hạ's LEFT upper arm; she slows at the hatch without turning into the weapon.
+Performance: She delivers the warning as practical knowledge, masking how closely she is assessing the latch.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Hạ (@Ha), nói trong hình: Lối này không ra đường lớn đâu.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Grey cotton brushes old painted metal, Kiên's white suit begins catching dust from the confined route.
+
 
 [SOUND]
-Âm thanh nền: cột đèn ù điện, biển đêm; bước chân dồn trên nền. Không nhạc dưới câu thoại.
+Location bed: metal latch, careful footsteps and distant sea wind.
+Foreground sound: Old metal complaining under a hand and thin stair echo under her line, no magical lock mechanism.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Ông ta tự lái, xe trắng rú ga lùi khỏi cầu cảng, quay đầu về đường lên vách đá, perfectly still for half a second so clip 4 can continue without a cut.
+[END FRAME — natural motion continues]
+Hạ beside the hatch, Kiên turning to listen for pursuit.
+Next shot 44.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

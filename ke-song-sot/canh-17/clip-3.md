@@ -1,28 +1,67 @@
-Continue the scene seamlessly from the final frame of clip 2, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia. Voice: quick, polite Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-SMALL-TOWN POLICE POST: a tiled front room with a steel desk, a ceiling fan, an old computer, a holding room with a barred window, a motorbike outside; no readable insignia.
-Story setting: Đồn công an thị trấn, đêm ngày 3, quạt trần, máy tính cũ.
-Scene 17/60, timecode 16:00 – 17:00, clip 3/6 (20–30s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Steady 50mm medium shot establishing the tension — Khung đầu trùng khung cuối clip trước: Một mục lặp lại nhiều năm: "VK"; bàn thép lạnh dưới tay.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) hỏi. Người nói ở tiền cảnh, môi rõ, người nghe mờ phía sau: Mây (@May): "VK là ai?" · Sơn (@Son): "Vũ Kiên (@Vũ Kiên). Mục tiêu của tôi. Ổng nhận tiền Rắn Đen nhiều năm."
-00:07.0–00:10.0 | Slow 85mm close-up on the hand and face — Sơn (@Son) nhìn hai chữ cái, nhớ tấm ảnh vest trắng. Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
+[TIMELINE AND LOCATION]
+Scene 17/60, clip 3/6; shot 17.3. Story time: D3 night.
+Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
+Present-day night station, neutral desk practical and monitor fill, no daylight.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Separate Kiên's money from Bà Hai's logistics so the later conflict has identifiable interests.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 17.2, ending with A matching sequence highlighted, ledger open beside the keyboard.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Mây looking from the matched shipments to Sơn.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The medium view retains Mây's questioning eyeline toward Sơn and Thành close enough to hear.
+Focus: Keep the speaking face and two file positions readable without a new portrait or unreadable financial zoom.
+
+[ACTION — 0–10s, one evolving take]
+He identifies Kiên as the payer named in the open accounts.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the statement be brief and the file separation complete it, avoiding a second sentence restating the same money trail.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Sơn identifies the payer while Mây separates the existing file groups, making their relationship physical on the desk.
+Performance: He speaks as someone admitting insider knowledge, not delivering a detective's victorious explanation.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Sơn (@Son), nói trong hình: Kiên trả tiền. Bà Hai giữ đường hàng.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Paper group edges and the black ledger maintain a concrete distinction between actors in the scheme.
+
 
 [SOUND]
-Âm thanh nền: đèn tuýp ù nhẹ; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: ceiling fan and quiet paperwork.
+Foreground sound: His low line is clear over the same fan bed; no new villain theme begins for a name already heard.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Sơn (@Son) nhìn hai chữ cái, nhớ tấm ảnh vest trắng. Hold that exact frame still for 0.5s; clip 4 starts from it.
+[END FRAME — natural motion continues]
+Mây separating Kiên's file from Bà Hai's file.
+Next shot 17.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

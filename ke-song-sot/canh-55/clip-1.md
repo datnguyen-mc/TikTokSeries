@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-SMALL-TOWN POLICE POST: a tiled front room with a steel desk, a ceiling fan, an old computer, a holding room with a barred window, a motorbike outside; no readable insignia.
-Story setting: Phòng giữ của đồn, đêm khuya, cửa sổ song sắt, đèn vàng.
-Scene 55/60, timecode 54:00 – 55:00, clip 1/6 (0–10s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Close-up on the key object, then smooth tilt up to the face — Mở màn cảnh này: Sơn (@Son) tỉnh dậy trên băng ghế; quạt trần quay chậm trên đầu.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Mây (@May) ngồi ghế đối diện với sổ tay mở, máy ghi âm nhỏ trên bàn. Thoại khớp môi, người nghe ở nửa khung còn lại: Mây (@May): "Anh khai không?" · Sơn (@Son): "Khai hết. Mọi cánh cửa."
-00:07.0–00:10.0 | 50mm medium close-up on the reaction, held steady — cô hỏi anh có khai không. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 55/60, clip 1/6; shot 55.1. Story time: D7 late night.
+Separate interview room at the town post, one table, recorder, two chairs, no readable official insignia.
+Late-night interview room, one warm desk lamp, dim corridor outside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make Sơn initiate an account that can cost him, even after the rescue earned sympathy.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 54.6, ending with Mây placing the old family-house key on the table.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place; no transformation, morph, dissolve or replay of the old shot.
+
+[START FRAME — state only, not an action to repeat]
+Recorder centered on the interview desk, Sơn seated on the other side.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame him across the interview desk with recorder centered and Mây listening, distinct from Hạ's prior table.
+Focus: Hold both faces in medium depth, keeping the recording light a modest factual indicator.
+
+[ACTION — 0–10s, one evolving take]
+Mây checks he understands the interview and starts the recording.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Allow the question to create a genuine choice, then end with Sơn ready to answer, not already reenacting his past.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Mây confirms readiness and starts the recorder once, Sơn remains seated instead of performing a confession entrance.
+Performance: He meets her eyes without the guarded half-smile of the opening, she remains professional and attentive.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Anh muốn khai từ việc nào?
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Black suit and LEFT bandage persist, closed watch stays secured in the pocket rather than being displayed.
+
 
 [SOUND]
-Âm thanh nền: còng va bàn thép; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: quiet ceiling fan and pencil movement.
+Foreground sound: A single record-button click precedes Mây's question; the room is quieter than the public station.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Cô hỏi anh có khai không. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Recorder light steady, Sơn facing Mây.
+Next shot 55.2: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

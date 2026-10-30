@@ -1,30 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 2: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@May = MÂY (38, head of the small-town police post of Hòn Sóng): a real Vietnamese woman, about 166 cm tall, athletic, sun-lined face, sharp warm eyes, short black hair with a single white streak at the front (signature detail). Outfit: a plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, no badge or readable insignia, a small notebook in her chest pocket, steel cuffs on her belt. Voice: firm, dry, slightly amused Southern Vietnamese female voice, late 30s.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Quán bờ kè, sáng ngày 8, nắng, radio, tờ báo.
-Scene 56/60, timecode 55:00 – 56:00, clip 3/6 (20–30s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 56/60, clip 3/6; shot 56.3. Story time: D8 morning.
+Hòn Sóng fish market, parallel narrow aisles, crate stacks, side doors and rear safe exit.
+Day-eight morning, ordinary coastal daylight and neutral interiors, no action lighting.
 
-[SHOT LIST]
-00:00–00:03.5 | 85mm tight on the key detail before tilting to the character — Cùng góc máy cuối clip trước, rồi đổi cỡ cảnh: Mây (@May) ngồi bàn Sơn (@Son) từng ngồi; ghe cá ngoài kè làm nền. Giọng kể phủ lên hình, không khẩu hình: Mây (@May) (Voice-over): "Mười năm giữ chỗ. Hôm nay tôi ngồi."
-00:03.5–00:07.0 | Close-up on the key object, then rack focus to the eyes — quay mặt ra biển, tờ báo (không chữ) gấp đôi, ly cà phê.
-00:07.0–00:10.0 | 35mm medium-wide holding the final composition — cô không đọc, chỉ nhìn biển. Bất động 0.5s ở khung này.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Show communal repair through checking people, not praising Sơn as the town's saviour.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 56.2, ending with Chair upright, first clean glass on the counter.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Mây walking through the reopening fish market.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide along the reopened market lane, Mây meeting the two existing unnamed sellers near the gate.
+Focus: Keep the route and activity readable in ordinary depth, no spotlight isolating Mây in the crowd.
+
+[ACTION — 0–10s, one evolving take]
+She checks on sellers who evacuated and thanks them for keeping the routes clear.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Walk and conversation should carry forward together, ending as the sellers get back to business.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She checks the cleared passage and thanks the sellers while they resume normal handling of their stalls.
+Performance: Her gratitude is sincere but brief; the sellers remain workers with lives rather than a cheering audience.
+
+
+[DIALOGUE]
+0.8–4.1s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Mây (@May), nói trong hình: Cảm ơn mọi người đã đưa dân ra.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Gate stays repaired in its existing place, carts and tubs return to functional positions rather than fight poses.
+
 
 [SOUND]
-Âm thanh nền: cà phê rót, ông Bảy nói không ngừng; bass trầm chậm như nhịp tim. Không nhạc dưới câu thoại.
+Location bed: ice sliding into tubs and water along the aisle.
+Foreground sound: Market voices and normal water sounds resume beneath her thanks, replacing the night command bed.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Last frame: Cô không đọc, chỉ nhìn biển, perfectly still for half a second so clip 4 can continue without a cut.
+[END FRAME — natural motion continues]
+Mây with two unnamed sellers at the repaired side gate.
+Next shot 56.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,28 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 4. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
-@May = MÂY in civilian clothes: 38, short hair with a white streak at the front, denim jacket over a dark T-shirt, jeans, small backpack; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, dry, unhurried Southern Vietnamese male voice.
 
-[SETTING]
-NIGHT COACH: the inside of an old sleeper coach at night, blue cabin light, rain on windows, the road to the coast.
-Story setting: Xe đò giường nằm chạy đêm về thành phố, đêm ngày 4, đèn cabin xanh, mưa trên kính.
-Scene 21/60, timecode 20:00 – 21:00, clip 5/6 (40–50s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow dolly in from medium shot — Nhịp đầu nối thẳng, không chuyển: Xe dừng ở trạm nghỉ; ghế nằm cuối xe. Voice-over, hình đi tiếp dưới lời dẫn: Sơn (@Son) (Voice-over): "Mặc đồ này vào, tôi lại biết đi trong tối."
-00:03.5–00:07.0 | 35mm medium shot, emotional distance readable in frame — trong nhà vệ sinh trạm, Sơn (@Son) thay vest đen, đeo găng; trong gương, Bóng Ma nhìn lại.
-00:07.0–00:10.0 | 85mm close-up on the quiet gaze — màu hình ngả vàng dần. Khung kết đứng yên, chờ clip 6.
+[TIMELINE AND LOCATION]
+Scene 21/60, clip 5/6; shot 21.5. Story time: D4 night.
+Private changing room at the rest stop, simple mirror, hook for folded clothes, no extra people.
+Present-day night journey, blue coach practicals, neutral rest-stop lamps, no past amber timeline cue.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Define his change through a missing glove rather than the attractiveness of the suit.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 21.4, ending with Mây beside the coach door, Sơn beyond the changing-room entrance.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn before the mirror, suit already on and gloves in his hand.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the existing mirror to include his direct shoulder and one reflected face, not twin bodies.
+Focus: Keep the reflected eyes sharp enough to read while the folded olive jacket remains identifiable.
+
+[ACTION — 0–10s, one evolving take]
+He pockets the gloves unused, leaving both hands bare.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Pause only long enough to register the bare hands after the gloves disappear.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He pockets the gloves once; both bare hands finish visible below the jacket edge.
+Performance: He inspects himself with guarded fatigue, avoiding a triumphant straightening of his shoulders.
+
+
+[DIALOGUE]
+0.8–4.7s, one unhurried line. Voice-over only; visible mouths remain at rest.
+
+Sơn, lời dẫn ngoài hình: Tôi mặc lại vest. Không mang lại đôi tay cũ.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Cold rest-room tile and a plain mirror deny the costume change any luxury.
+
 
 [SOUND]
-Âm thanh nền: máy xe đò gầm, mưa trên kính; piano một tay, rất khẽ. Thoại rõ, không nhạc đè lời.
+Location bed: faint coach engine through the wall.
+Foreground sound: Narration sits over muffled engine and a slight leather rustle, with no added ticking.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Trong nhà vệ sinh trạm, Sơn (@Son) thay vest đen, đeo găng) for 0.5s; this is the first frame of clip 6.
+[END FRAME — natural motion continues]
+Sơn in black suit with bare hands, olive jacket folded in his bag.
+Next shot 21.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

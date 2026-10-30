@@ -1,28 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 5: this clip opens on that exact frame. Keep the same people, clothes, props, light and 16:9 widescreen framing; no jump cut.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@Ha = HẠ: 32, long hair tied loosely, pale-blue silk scarf, white blouse, jeans; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, sáng ngày 8, ghe về, nắng trắng, cột đèn.
-Scene 57/60, timecode 56:00 – 57:00, clip 6/6 (50–60s of the scene). Atmosphere: breathless pursuit, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Fast 35mm anamorphic tracking moving alongside the character, low follow shot over roofs, cliffs or water, whip pans on direction changes, one slow-motion beat on the biggest leap. 90-degree shutter angle, sharp subject over streaking lights, deep night contrast.
 
-[SHOT LIST]
-00:00–00:03.5 | Handheld 28mm tracking from shoulder level — Tiếp tục một hơi, chưa đổi góc: Tiếng xe từ đồn: xe chở phạm của tỉnh lăn bánh ra đường chính; ghe va mạn, dây neo căng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Hạ (@Ha) không chạy. Nói nhỏ nhưng khẩu hình rõ, máy không rung: Mây (@May): "Xe đi." · Hạ (@Ha): "Tao đứng đây cho ảnh thấy."
-00:07.0–00:10.0 | 50mm medium close-up on the face after the movement — đứng yên ở cầu cảng với bó ly trắng cô vừa mua ở chợ. Đứng hình nửa giây ở khung cuối, cảnh khép lại ở đây.
+[TIMELINE AND LOCATION]
+Scene 57/60, clip 6/6; shot 57.6. Story time: D8 morning.
+Public seafront walkway outside the secured pier, trees beside the main transport road, clear safe place to stand.
+Same day-eight morning, soft house daylight, bright public walkway.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Hạ choose a safe visible place for the farewell instead of repeating a desperate chase.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 57.5, ending with Single wrapped lily in Hạ's hand, remaining vase undisturbed.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut. This generated clip contains only the new shot, not a two-location montage.
+
+[START FRAME — state only, not an action to repeat]
+Hạ and Mây reaching the public walkway, transport engine heard near the station.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The wide connects public walkway, tree line and transport road without placing either woman in traffic.
+Focus: Keep their relation to the road clear, no long-lens compression suggesting they are directly in its path.
+
+[ACTION — 0–10s, one evolving take]
+Hạ stays on the safe side of the walkway with the flower rather than running into the road.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Arrival at the chosen place completes before she speaks, then stay ready without rehearsing a wave.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Hạ stays beside Mây on the safe side, holding the already wrapped lily where the window can see her.
+Performance: Her line is confident but restrained, choosing to be seen rather than demanding the vehicle stop.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Hạ (@Ha), nói trong hình: Tao đứng đây. Ảnh sẽ thấy.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+One lily remains in plain paper, scarf and clean clothes unchanged, no sudden crowd gathers to see Sơn off.
+
 
 [SOUND]
-Âm thanh nền: ghe cá va mạn, dây neo kêu; bước chân dồn trên nền. Không nhạc dưới câu thoại.
+Location bed: sea wind and ordinary town traffic.
+Foreground sound: The approaching transport engine motivates her attention, ordinary morning sea sound remains beneath it.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the approaching transport engine into Sơn window-side view. Hạ already holds the single lily; do not wrap it again.
 
-[END FRAME]
-End on: Hạ (@Ha) không chạy, đứng yên ở cầu cảng với bó ly trắng cô vừa mua ở chợ. Hold still for 0.5s; this closes the scene.
+[END FRAME — natural motion continues]
+Hạ visible from the transport lane, Mây beside her.
+Next shot 58.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

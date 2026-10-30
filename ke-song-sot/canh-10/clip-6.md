@@ -1,30 +1,68 @@
-Continue the scene seamlessly from the final frame of clip 5, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Warm amber night colour grade with deep shadows for the past. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, black suit, open-collar white shirt, black leather gloves, black shoes. Voice: low, dry, unhurried Southern Vietnamese male voice.
+Sơn right glove removed at 10.2 and kept in jacket pocket, left glove still on; jacket never discarded.
+
+
+[TIMELINE AND LOCATION]
+Scene 10/60, clip 6/6; shot 10.6. Story time: PAST one month earlier dawn.
+Rear stockroom of the silk shop, known shelf beside loading door, ledger and sealed tin stored together.
+Recent-past dawn after rain, pale shop window light, dim stockroom practical.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Pay off the origin of the evidence while letting Sơn admit that it cannot replace the missing person.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 10.5, ending with Sơn beside the stock shelf, black ledger and tin visible.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Ledger and sealed tin on the stockroom shelf.
+
+[CAMERA]
+50mm locked medium shot at eye level. Let the gesture and reaction develop in the same composition.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: The medium composition keeps ledger, receipt, sealed tin and open bag together at the known shelf.
+Focus: Keep the difference between emptied shelf positions and packed objects understandable without individual hero inserts.
+
+[ACTION — 0–10s, one evolving take]
+Sơn takes the ledger, attached receipt and sealed tin into his bag.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Do not pause to reintroduce each object; the empty slots and final closed bag complete the consequence.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He takes those existing items in one purposeful packing sequence and closes the clasp after the shelf slots empty.
+Performance: The narration carries regret rather than pride at a successful theft; hands remain disciplined through it.
+
+
+[DIALOGUE]
+0.8–5.0s, one unhurried line. Voice-over only; visible mouths remain at rest.
+
+Sơn, lời dẫn ngoài hình: Tôi lấy sổ của họ. Không lấy lại được cô ấy.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
-KHĂN LỤA XANH (Hạ's scarf): a long pale-blue silk scarf, soft, slightly frayed at one end.
+Reference only; enact only the current ACTION, not a future handover.
+- Original BLACK leather ledger, receipt and original USB initially fixed inside back cover.
+- Original USB from black ledger, preserved in an evidence sleeve at the station after 17.1.
+- Dented fitted tin containing three sealed fictional Tê vials, no opening or use instructions.
+- Dispatch receipt with seven dated boxes and a ship stamp, no readable generated text.
 
-[SETTING]
-FLOWER SHOP (past): a small flower shop at the foot of a glass tower, buckets of white lilies and roses, a wooden counter, warm bulbs, a back room with a kettle, a glass front onto the street; no readable text.
-Story setting: Quá khứ, tiệm hoa sáng sớm sau đêm bị gài, mưa tạnh, kính vỡ.
-Scene 10/60, timecode 09:00 – 10:00, clip 6/6 (50–60s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+Black ledger leather, folded receipt and dented tin retain their distinct textures inside the plain canvas bag.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
-
-[SHOT LIST]
-00:00–00:03.5 | Gentle 35mm medium-close shot, breathing with the actor — Máy ở nguyên chỗ, hành động đi tiếp: Sơn (@Son) quấn khăn lụa xanh quanh cổ tay; chuông cửa còn rung.
-00:03.5–00:07.0 | 85mm close-up on the eyes and expression, long hold, one slow-motion beat — nhìn về tòa nhà kính nơi đèn phòng Vũ Kiên (@Vũ Kiên) sáng.
-00:07.0–00:10.0 | Static 35mm medium shot, the gesture finishing — rồi anh quay lưng đi về phía bến xe. Lời dẫn ngoài hình, miệng nhân vật không mở: Sơn (@Son) (Voice-over): "Tôi không về tiệm lụa." · Sơn (Voice-over): "Tôi đi lấy thứ duy nhất làm họ sợ." Giữ khung cuối tĩnh 0.5s; hết cảnh.
 
 [SOUND]
-Âm thanh nền: nước xô hoa, xe ngoài đường; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: wooden latch and distant morning traffic.
+Foreground sound: Use subdued object contacts and one final clasp, with no triumph cue or unshown alarm effect.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Match the closed bag clasp to the sealed tin latch in the lamplit cabin. No second theft or opening of the tin.
 
-[END FRAME]
-Last frame: Rồi anh quay lưng đi về phía bến xe, held motionless for half a second, then the scene ends.
+[END FRAME — natural motion continues]
+Shelf empty at those slots, bag clasp closed.
+Next shot 11.1: Match cut hình dạng/tư thế, không morph. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

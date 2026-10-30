@@ -1,0 +1,1569 @@
+{
+  "scenes": [
+    {
+      "number": 21,
+      "dramatic_question_vi": "Anh có thể mặc lại bộ đồ cũ mà không quay về con người cũ không?",
+      "turn_vi": "Sơn mang vest nhưng cất găng, Mây vẫn giữ liên lạc với thị trấn.",
+      "hook_vi": "Bộ vest lộ ra ngay sau tin tuần tra, đặt việc riêng cạnh trách nhiệm chung.",
+      "payoff_or_setup_vi": "Gieo tay trần và chiếc túi sẽ được để lại ở cảnh35.",
+      "tension": 2
+    },
+    {
+      "number": 22,
+      "dramatic_question_vi": "Bà Hai thực sự bị đột nhập hay đang dẫn họ vào cuộc trao đổi?",
+      "turn_vi": "Bà để lấy sổ vì cần Sơn đưa Kiên tới, quyền mặc cả đổi từ tài liệu sang con người.",
+      "hook_vi": "Chìa vẫn mở được, khiến căn nhà cũ đáng ngờ hơn một ổ khóa khó.",
+      "payoff_or_setup_vi": "Sổ đỏ và token có đường ra rõ, còn Bà Hai chủ động khóa đường tâm lý.",
+      "tension": 4
+    },
+    {
+      "number": 23,
+      "dramatic_question_vi": "Sơn có còn gọi bà là má sau khi biết Hạ đã bị bán?",
+      "turn_vi": "Một câu thú nhận làm quan hệ gia đình thành giao dịch, Mây kéo cuộc gặp trở lại chứng cứ.",
+      "hook_vi": "Chén trà không ai nhận khiến sự tiếp đãi trở thành áp lực.",
+      "payoff_or_setup_vi": "Bà gọi Dũng thay vì giằng sổ, trả giá cho việc để họ rời tiệm.",
+      "tension": 5
+    },
+    {
+      "number": 24,
+      "dramatic_question_vi": "Sơn và Mây có thoát cùng bằng chứng khi Dũng chặn lối không?",
+      "turn_vi": "Mây cứu Sơn bằng chiếc còng thứ hai, nhưng cổ tay anh bị tổn thương.",
+      "hook_vi": "Lối ra hiện rõ rồi Dũng bước vào đúng khoảng trống đó.",
+      "payoff_or_setup_vi": "Vết thương bên trái, hai còng đã dùng và cách Dũng thoát đều được nhìn thấy.",
+      "tension": 5
+    },
+    {
+      "number": 25,
+      "dramatic_question_vi": "Sổ đỏ mở thêm điều gì đáng đánh đổi chuyến về thành phố?",
+      "turn_vi": "Token biến nghi ngờ thành lịch chuyển Hạ đêm ngày bảy, dữ liệu tới người nhận trước khi họ đi.",
+      "hook_vi": "Một cổ tay sưng buộc Sơn nhận giúp đỡ trước lúc tìm tiếp.",
+      "payoff_or_setup_vi": "Bằng chứng số có bản sao, hiện trường xưởng trở thành bước xác minh cuối.",
+      "tension": 3
+    },
+    {
+      "number": 26,
+      "dramatic_question_vi": "Họ có lấy được chứng cứ hiện trường và rút trước khi bị chặn hết đường?",
+      "turn_vi": "Mây giữ được mẫu nguyên niêm phong, đường xuống sông biến thành lối thoát thật.",
+      "hook_vi": "Ống thông gió cho nhìn thấy thứ trong sổ đang tồn tại ngoài đời.",
+      "payoff_or_setup_vi": "Đường sông dẫn sang video của Hạ, tránh thêm một cuộc rượt vô nghĩa.",
+      "tension": 5
+    },
+    {
+      "number": 27,
+      "dramatic_question_vi": "Hạ còn sống, và cô đang cố chỉ cho họ thấy điều gì?",
+      "turn_vi": "Hạ gửi dấu thay vì chỉ đọc lời của kẻ giữ, tuyến tàu được nhận diện nhưng phòng giam vẫn chưa rõ.",
+      "hook_vi": "Sơn giảm tiếng máy để nghe một giọng anh đã tưởng mất.",
+      "payoff_or_setup_vi": "Kẹp tóc và trí quan sát của Hạ chuẩn bị cho cửa kỹ thuật ở hồi cuối.",
+      "tension": 4
+    },
+    {
+      "number": 28,
+      "dramatic_question_vi": "Sơn có thể chọn khác lần đầu anh đã không quay đi không?",
+      "turn_vi": "Ký ức khép cửa được trả lời bằng việc giao cả vũ khí và chìa cho Mây.",
+      "hook_vi": "Một âm thanh gia đình bình thường khiến cánh cửa đáng sợ hơn hình ảnh bạo lực.",
+      "payoff_or_setup_vi": "Sáu vạch đưa đồng hồ truyện tới ngày6, radio báo cái giá đang chờ dưới thị trấn.",
+      "tension": 3
+    },
+    {
+      "number": 29,
+      "dramatic_question_vi": "Mây có cứu Thành mà không kéo dân vào thế đối đầu không?",
+      "turn_vi": "Sơn tự làm mồi để Mây mở đường sau, lựa chọn ở lại bắt đầu có giá.",
+      "hook_vi": "Cảnh chắn tuần tra hỏng báo ngay rằng sự bảo vệ đã bị xuyên thủng.",
+      "payoff_or_setup_vi": "Thành bảo vệ lối dân trong khi bị giữ, không chỉ chờ người cứu.",
+      "tension": 5
+    },
+    {
+      "number": 30,
+      "dramatic_question_vi": "Chợ cá có trở thành bẫy của Sơn hay thành nơi dân bị mắc kẹt?",
+      "turn_vi": "Đường thoát người thắng cuộc đuổi, Dũng đổi sang ép bằng hạn chuyển Hạ.",
+      "hook_vi": "Một lối hẹp và xe đá làm khoảng cách quyền lực thay đổi mà không thêm đánh nhau.",
+      "payoff_or_setup_vi": "Lời hẹn hải đăng là lối thương lượng, Mây thừa nhận trách nhiệm với Thành.",
+      "tension": 4
+    },
+    {
+      "number": 31,
+      "dramatic_question_vi": "Bà Hai muốn trả Hạ hay chỉ muốn lấy Sơn và Kiên về tay mình?",
+      "turn_vi": "Bà không biết Hạ đang ở đâu, Sơn giữ bản sao và buộc bà chấp nhận gặp công khai.",
+      "hook_vi": "Bà gọi về nhà từ nơi cao gió lạnh, lời thân tình đi cùng Dũng canh lối.",
+      "payoff_or_setup_vi": "Bà cần Sơn tới mức phải ngăn Dũng; sự lệ thuộc của trùm được hé trước cao trào.",
+      "tension": 4
+    },
+    {
+      "number": 32,
+      "dramatic_question_vi": "Kế hoạch có còn cứu người khi cơ thể và lời hứa không chịu theo đồng hồ?",
+      "turn_vi": "Linh bác sự chắc chắn, Mây chốt đường rút thay vì một mẹo thắng.",
+      "hook_vi": "Mẫu thuốc được khóa lại, mối nguy được nhận biết chứ không được biến thành công cụ thần kỳ.",
+      "payoff_or_setup_vi": "Chuẩn bị tuyến cứu Sơn và vai trò an toàn của người dân, giảm giải thích lại giao kèo.",
+      "tension": 3
+    },
+    {
+      "number": 33,
+      "dramatic_question_vi": "Một lời nói thật có đủ để Hạ vẫn mở cửa cho Sơn không?",
+      "turn_vi": "Sơn thôi hứa chắc sẽ quay lại, Hạ chỉ xin một bữa sáng bình thường.",
+      "hook_vi": "Cửa chừa một khoảng cho anh đứng lại tự chọn.",
+      "payoff_or_setup_vi": "Bông hoa chỉ ở quá khứ, lời hẹn nhỏ tăng ý nghĩa cho việc mở đồng hồ ở52.",
+      "tension": 2
+    },
+    {
+      "number": 34,
+      "dramatic_question_vi": "Khi bằng chứng đã an toàn, Sơn còn đem gì ra đổi và có gì để mất?",
+      "turn_vi": "Bản gốc rời tay anh, chỉ còn bản sao và thân mình đi gặp hai phe.",
+      "hook_vi": "Vạch thứ bảy hoàn tất hạn nhưng chưa hoàn tất món nợ.",
+      "payoff_or_setup_vi": "Đồng hồ gửi Mây giữ như một mong muốn sẽ quay lại lấy, không như thư tuyệt mệnh.",
+      "tension": 3
+    },
+    {
+      "number": 35,
+      "dramatic_question_vi": "Một thị trấn có thể giúp cứu người bằng việc bình thường nào?",
+      "turn_vi": "Mỗi người làm một nhiệm vụ, Sơn để đôi găng lại rồi ngồi nhìn biển.",
+      "hook_vi": "Nhận còng mới và dọn xe cho thấy kế hoạch thành công việc thật.",
+      "payoff_or_setup_vi": "Cho thấy dân đã rút và đường cứu hộ có thể dùng, tránh đám đông làm phép cứu nguy.",
+      "tension": 3
+    },
+    {
+      "number": 36,
+      "dramatic_question_vi": "Kiên có thực sự cho Sơn thấy Hạ mà vẫn giữ được quyền định đoạt cô không?",
+      "turn_vi": "Hạ khẳng định tự đi được, Kiên biến cuộc trao đổi thành yêu cầu nhận tội thay.",
+      "hook_vi": "Xe trắng tới nơi Sơn đã chọn nhìn biển, xâm phạm khoảng yên mới có.",
+      "payoff_or_setup_vi": "Cửa xe và tay nắm trở thành thước đo quyền tự do của Hạ, dẫn tới vạch an toàn ở cảng.",
+      "tension": 4
+    },
+    {
+      "number": 37,
+      "dramatic_question_vi": "Sơn có giữ điều kiện cứu Hạ khi Kiên buộc anh nhận thêm tội không?",
+      "turn_vi": "Hai người tách bản sao khỏi giấy nhận tội, cùng nhận ra một lối phụ chưa thể kiểm soát kín.",
+      "hook_vi": "Phong bì không mở khiến lời đòi của Kiên vẫn hiện diện giữa họ.",
+      "payoff_or_setup_vi": "Tín hiệu đặt phong bì phải được ghi nhớ bằng vị trí và im lặng, không diễn lại nhiều lần.",
+      "tension": 4
+    },
+    {
+      "number": 38,
+      "dramatic_question_vi": "Lòng biết ơn đã biến thành sự giam giữ từ lúc nào?",
+      "turn_vi": "Tô cơm thành công việc, đôi găng thành nghĩa vụ giữ cửa, Sơn hiện tại chọn cất chúng.",
+      "hook_vi": "Bàn tay trắng của Sơn trẻ đối diện bàn tay có bằng chứng của anh hôm nay.",
+      "payoff_or_setup_vi": "Ký ức làm việc từ chối Bà Hai ở cảng có giá tình cảm, không thêm một thông tin hồ sơ.",
+      "tension": 2
+    },
+    {
+      "number": 39,
+      "dramatic_question_vi": "Địa hình nào có thể cứu hoặc làm hỏng cuộc trao đổi?",
+      "turn_vi": "Khán giả thấy đường chính được giữ, lối bộ là khe hở, Sơn đứng giữa hai xe đang tới.",
+      "hook_vi": "Một toàn cảnh rõ cho người xem tự dự đoán nguy cơ trước nhân vật.",
+      "payoff_or_setup_vi": "Tuyến xe cứu hộ và cửa kỹ thuật được ghi bằng không gian, không cần thuyết minh lần nữa.",
+      "tension": 4
+    },
+    {
+      "number": 40,
+      "dramatic_question_vi": "Hạ có thể tự bước từ xe tới vạch an toàn hay vẫn chỉ là món hàng?",
+      "turn_vi": "Cô ra khỏi xe bằng chân mình nhưng bàn tay Kiên vẫn giữ lại.",
+      "hook_vi": "Hai xe dừng theo hai hướng đã biết, vị trí sống còn thay cho màn giới thiệu lại.",
+      "payoff_or_setup_vi": "Một bàn chân đổi hướng báo lựa chọn của Hạ, đặt câu hỏi ngay trước Kiên đổi luật ở41.",
+      "tension": 5
+    }
+  ],
+  "shots": [
+    {
+      "id": "21.1",
+      "intent": "Place private dread beside Mây's still-active responsibility for the town.",
+      "composition": "Use the aisle as a narrow divider, bag low and her confirmation phone higher.",
+      "blocking": "Both remain seated through the coach sway; Sơn opens the bag without crossing toward her.",
+      "performance": "Mây reads efficiently then checks him, while Sơn avoids seeking permission for the suit.",
+      "focus": "Keep the suit reveal secondary until her patrol acknowledgement has registered.",
+      "texture": "Rain tracks outside, worn canvas and damp denim make this practical travel.",
+      "sound_detail": "Maintain steady engine, soft rain and one small bag-clasp sound, without a suspense sting.",
+      "rhythm": "Confirmation first, folded suit last; let that new object change the silence."
+    },
+    {
+      "id": "21.2",
+      "intent": "Make the gloves an invitation he is afraid to accept again.",
+      "composition": "Frame the folded suit across his knees with both faces readable above it.",
+      "blocking": "His fingertips touch only the glove edge, then withdraw to the same lap position.",
+      "performance": "Mây asks without accusation; Sơn's response is a controlled swallow rather than a dramatic flinch.",
+      "focus": "Keep both people and gloves readable in the existing medium shot, no rack to another angle.",
+      "texture": "The supple dark leather contrasts with her rain-marked denim and his rough canvas bag.",
+      "sound_detail": "His line must not compete with cloth movement or an artificially amplified heartbeat.",
+      "rhythm": "Leave the question hanging after his hand leaves, allowing recognition rather than explanation."
+    },
+    {
+      "id": "21.3",
+      "intent": "Show that admitting dependency costs Sơn more than touching the old uniform.",
+      "composition": "Retain exactly the preceding medium composition, aisle width and seated eyelines.",
+      "blocking": "He returns the folded suit and gloves to the open bag, closes it, then lowers it between his feet.",
+      "performance": "Say the sentence as an unwelcome fact he has only just permitted himself to name.",
+      "focus": "Keep attention on his face while her listening remains visible at the same depth.",
+      "texture": "The bag's worn corners settle against his shoes, underlining years of carrying this life.",
+      "sound_detail": "Let the bag close sound finish before the quieter final clause is heard.",
+      "rhythm": "The first clause acknowledges shelter; the second arrives after a small embarrassed breath."
+    },
+    {
+      "id": "21.4",
+      "intent": "Separate the decision to change clothes from a glamorous transformation montage.",
+      "composition": "Keep the coach door, waiting Mây and changing-room entrance together in one wide frame.",
+      "blocking": "Sơn walks directly under the awning; she holds her station near the coach door.",
+      "performance": "She watches him go as a partner assessing risk, not as an admirer of his profession.",
+      "focus": "Hold the whole route legible; do not follow him into the changing room inside this take.",
+      "texture": "Wet paving reflects ordinary rest-stop lamps, with rain falling beyond the sheltered path.",
+      "sound_detail": "Idling engine continues, footsteps briefly sharpen under the roof, no heroic music rise.",
+      "rhythm": "Let his exit from her immediate reach create the small uncertainty before the cut."
+    },
+    {
+      "id": "21.5",
+      "intent": "Define his change through a missing glove rather than the attractiveness of the suit.",
+      "composition": "Use the existing mirror to include his direct shoulder and one reflected face, not twin bodies.",
+      "blocking": "He pockets the gloves once; both bare hands finish visible below the jacket edge.",
+      "performance": "He inspects himself with guarded fatigue, avoiding a triumphant straightening of his shoulders.",
+      "focus": "Keep the reflected eyes sharp enough to read while the folded olive jacket remains identifiable.",
+      "texture": "Cold rest-room tile and a plain mirror deny the costume change any luxury.",
+      "sound_detail": "Narration sits over muffled engine and a slight leather rustle, with no added ticking.",
+      "rhythm": "Pause only long enough to register the bare hands after the gloves disappear."
+    },
+    {
+      "id": "21.6",
+      "intent": "Return the changed man to the same ordinary journey without repeating his arrival.",
+      "composition": "Anchor the coach doorway and Mây outside it, preserving his approach direction from the room.",
+      "blocking": "He comes back carrying the bag, boards after her, and stows it once overhead.",
+      "performance": "Mây recognizes the change with a restrained look, then makes room rather than commenting.",
+      "focus": "Keep his hands and the overhead bag placement readable within the existing wide setup.",
+      "texture": "The olive jacket stays contained in canvas, while rain beads on the bus exterior.",
+      "sound_detail": "Keep the same engine character and coach-door mechanisms, not a fresh engine start.",
+      "rhythm": "Complete reboarding economically; the stowed bag is the quiet confirmation that the change holds."
+    },
+    {
+      "id": "22.1",
+      "intent": "Make the still-working key feel like permission whose price has not been disclosed.",
+      "composition": "Keep the closed rear door central and enough alley behind Mây to justify her lookout.",
+      "blocking": "Sơn uses his right hand on the lock, Mây staying clear of the inward door swing.",
+      "performance": "He knows the mechanism by touch; the lack of resistance unsettles rather than reassures him.",
+      "focus": "The doorway and their faces share useful depth; no insert or extra close-up is needed.",
+      "texture": "Rain darkens old wood beneath the shallow awning, with no newly invented sign or lock.",
+      "sound_detail": "Give the old key turn a modest audible click beneath his short explanation.",
+      "rhythm": "Do not stretch the unlocking; the easy opening should create the more troubling question."
+    },
+    {
+      "id": "22.2",
+      "intent": "Show intimate knowledge of the shop turning into vulnerability for both travelers.",
+      "composition": "Track along their established aisle, silk racks framing the screened safe at the far end.",
+      "blocking": "Sơn leads without searching; Mây keeps a clear route back to the rear exit.",
+      "performance": "His certainty is habitual, while her small checks reveal she refuses to inherit that certainty.",
+      "focus": "Keep the safe screen readable ahead of him, not a sudden focus reveal behind their backs.",
+      "texture": "Silk brushes close to the frame, narrowing the path without becoming dreamlike curtains.",
+      "sound_detail": "Soft shoe steps, rain outside and a single cloth brush carry the intrusion.",
+      "rhythm": "Let familiarity make the approach efficient; the waiting safe is the final image of confidence."
+    },
+    {
+      "id": "22.3",
+      "intent": "Turn the search into a concrete gain before Bà Hai takes back the encounter.",
+      "composition": "Use one stable detail view that distinguishes red cloth ledger from the small metal token.",
+      "blocking": "His right hand takes the token, left arm receives the book, no rummaging through unrelated valuables.",
+      "performance": "Hands remain businesslike, stopping briefly at the token to verify it is the needed object.",
+      "focus": "Keep both acquired objects identifiable within the same focal plane and unchanged detail setup.",
+      "texture": "Steel safe edge, red cloth wear and token shape provide specific visual separation.",
+      "sound_detail": "An ordinary binding scrape and small token tap are enough; do not add a digital success chime.",
+      "rhythm": "Extraction happens once and ends with both objects secure, leaving no reset before the interruption."
+    },
+    {
+      "id": "22.4",
+      "intent": "Reveal that their apparent intrusion has been an invitation controlled by Bà Hai.",
+      "composition": "Hold all three positions in the wide shot, safe behind Sơn and lit desk behind the turn.",
+      "blocking": "Both travelers turn toward the desk without advancing, leaving Mây aligned with the rear exit.",
+      "performance": "Bà Hai is already settled, greeting them softly; their delayed recognition supplies the shock.",
+      "focus": "The lamp and her face become readable together without an internal cut or artificial zoom.",
+      "texture": "Warm desk light lands on violet silk, while cool alley spill still outlines the escape route.",
+      "sound_detail": "Lamp switch first, then her voice; do not accompany the reveal with a generic sting.",
+      "rhythm": "Allow one beat to identify her before the greeting, then hold the unequal stillness."
+    },
+    {
+      "id": "22.5",
+      "intent": "Expose why she lets the ledger leave her hand: she wants a person delivered instead.",
+      "composition": "Frame Bà Hai's open palms with Sơn retaining the red ledger, Mây still near the exit.",
+      "blocking": "She does not reach for either object; Sơn does not accept a seat or close the distance.",
+      "performance": "Her offer should sound maternal on the surface and commercially exact underneath.",
+      "focus": "Keep ledger and her eyes sufficiently readable to show where her interest has moved.",
+      "texture": "The polished desk separates her domestic hospitality from the safe standing open behind them.",
+      "sound_detail": "Let her low offer remain dry against the room tone, without swelling threat music.",
+      "rhythm": "The permission to keep the book should land before the demanded return of Kiên."
+    },
+    {
+      "id": "22.6",
+      "intent": "Make Sơn refuse her comfortable family arrangement through the chair he does not occupy.",
+      "composition": "Preserve the preceding medium lens, desk relation and three-person depth exactly.",
+      "blocking": "He draws the chair away at an angle toward escape; Mây never takes the spare place.",
+      "performance": "His question strips courtesy away, while Bà Hai lets the empty seat remain a rebuke.",
+      "focus": "Keep his face and the unused cup visible; do not cut to isolated furniture.",
+      "texture": "Chair feet catch lightly on the shop floor, three tea surfaces remain undisturbed.",
+      "sound_detail": "Allow a modest chair scrape before the question, with no duplicate cup-setting sounds.",
+      "rhythm": "The chair movement creates expectation of sitting; the unanswered question defeats it instead."
+    },
+    {
+      "id": "23.1",
+      "intent": "Make an offered comfort reveal a coercive history rather than warm hospitality.",
+      "composition": "Match the three untouched cups and angled chair, keeping Bà Hai dominant without looming theatrics.",
+      "blocking": "She offers one cup across the same distance; neither traveler completes the handover.",
+      "performance": "Her patience suggests she expects obedience, while Sơn's refusal is almost entirely stillness.",
+      "focus": "Keep the offered cup and his unmoving hand readable in the same medium setup.",
+      "texture": "Thin steam, smooth porcelain and the worn table edge distinguish domestic ritual from negotiation.",
+      "sound_detail": "Small porcelain contact should be real and restrained, with her voice staying clear.",
+      "rhythm": "Do not retract the cup too soon; the unaccepted offer becomes the uncomfortable end point."
+    },
+    {
+      "id": "23.2",
+      "intent": "Show Sơn protecting one question from all the explanations designed to exhaust him.",
+      "composition": "Stay close to his face with the angled chair edge enough to locate him standing.",
+      "blocking": "He remains beside the chair, not leaning over the desk or touching Bà Hai.",
+      "performance": "The word naming Hạ carries effort; he avoids anger performed as shouting or clenched teeth.",
+      "focus": "Keep his eyes sharp, with Bà Hai's lowered cup a contextual softness rather than a second target.",
+      "texture": "Rain-dark suit cloth and bare knuckles carry his vulnerability without sweat added for effect.",
+      "sound_detail": "Let the simple question interrupt the tea ritual, leaving the room immediately quiet afterward.",
+      "rhythm": "A short held look before speech, then enough space for the refusal of her terms."
+    },
+    {
+      "id": "23.3",
+      "intent": "Let the sale admission wound him while revealing that she still considers herself reasonable.",
+      "composition": "Keep the exact close composition from the preceding shot, using her voice without forcing another angle.",
+      "blocking": "Sơn receives the admission; the cup settles within the existing scene rather than a separate insert.",
+      "performance": "He barely changes at first, then loses a fraction of his practiced eye contact.",
+      "focus": "Attention remains on the listener's face; her fixed bracelet stays only where the setup already permits.",
+      "texture": "Porcelain touches saucer once, a small domestic sound against the cruelty of the sentence.",
+      "sound_detail": "Her voice is level and intimate, never monstrous; no sound effect should tell the audience how to feel.",
+      "rhythm": "Let the admission finish cleanly, followed by a breath in which its meaning arrives."
+    },
+    {
+      "id": "23.4",
+      "intent": "Make Mây give the encounter a practical exit when Sơn is at risk of becoming trapped emotionally.",
+      "composition": "Frame her between door and desk, keeping Sơn's ledger grip inside the same medium composition.",
+      "blocking": "She documents Bà Hai beside the safe, lowers the phone and prepares the evidence bag.",
+      "performance": "She stays firm without triumph, aware this record matters more than winning an argument.",
+      "focus": "Keep phone orientation, Bà Hai's seated place and open safe understandable without reading a screen.",
+      "texture": "Plain denim and a practical evidence sleeve oppose the shop's polished rituals.",
+      "sound_detail": "The photograph uses no exaggerated shutter effect; her line is the clean interruption.",
+      "rhythm": "One decisive documenting action, then withdrawal preparations that create movement toward the blocked exit."
+    },
+    {
+      "id": "23.5",
+      "intent": "Turn accumulated restraint into one readable opening for escape, not an exhibition fight.",
+      "composition": "Keep guards, rolling silk and desk leg within the same side of the action axis.",
+      "blocking": "Sơn rolls one bolt across their path; Mây secures the nearer guard while the route opens.",
+      "performance": "Both act to leave, without finishing blows, extra taunts or admiring their own efficiency.",
+      "focus": "Depth must show the obstruction and cuff anchor together; never hide the result in camera shake.",
+      "texture": "Heavy silk deforms against the floor, metal cuff catches the practical lamp briefly.",
+      "sound_detail": "Use the bolt thud, cuff click and short breath, no repeated body-impact library sounds.",
+      "rhythm": "The action accelerates once, then lands clearly on the temporary opening they have earned."
+    },
+    {
+      "id": "23.6",
+      "intent": "Show Bà Hai accepting a limited loss while choosing the next pressure point.",
+      "composition": "Keep rear threshold framing the escaping pair, Bà Hai still visible within the warmer shop.",
+      "blocking": "They clear the doorway; the remaining guard takes her signal and lifts his existing phone.",
+      "performance": "She does not rush after them; irritation is a smaller pause before naming Dũng.",
+      "focus": "Keep the raised phone distinct from the ledger leaving frame, avoiding an unclear object exchange.",
+      "texture": "Cool wet alley contrasts with the steady warm desk behind the door.",
+      "sound_detail": "Her off-screen command can pass through the departure, then footsteps take over naturally.",
+      "rhythm": "Do not replay the escape obstacle; finish on the command becoming pursuit through the guard."
+    },
+    {
+      "id": "24.1",
+      "intent": "Give the audience a possible escape route before the pursuer takes it away.",
+      "composition": "Use the wide setup to show ramp, car row and the exit two pillars beyond.",
+      "blocking": "Sơn and Mây stay together behind the van, moving in the same screen direction.",
+      "performance": "Their pace is urgent but controlled, checking the open space rather than signaling panic to camera.",
+      "focus": "Keep the exit readable throughout; it is the meaningful background, not anonymous parked cars.",
+      "texture": "Damp concrete and regular pillar spacing give the movement a measurable distance.",
+      "sound_detail": "Garage ventilation and footsteps replace alley rain without a sudden musical chase reset.",
+      "rhythm": "Establish the reachable exit early, then end with both still separated from it by two pillars."
+    },
+    {
+      "id": "24.2",
+      "intent": "Show cooperation through Mây continuing the route while Sơn buys a brief gap.",
+      "composition": "Frame the van corner, approaching guard and next pillar in one clear handheld medium-wide.",
+      "blocking": "Sơn closes the door into the path as a barrier, Mây taking the space it creates.",
+      "performance": "Her direction is short and useful, his attention on the guard's approach rather than a punishing strike.",
+      "focus": "Keep the moving door and her exit side readable, never hide them behind a whip pan.",
+      "texture": "Car paint catches the garage light; door rubber and concrete remain ordinary materials.",
+      "sound_detail": "One door stop and short footwork, with her line above the garage echo.",
+      "rhythm": "The barrier takes a moment, not an extended exchange, and Mây has advanced when it ends."
+    },
+    {
+      "id": "24.3",
+      "intent": "Let Dũng take the visible exit away with confidence grounded in knowing this family dispute.",
+      "composition": "Use the wide frame to locate his descent from the ramp and the rail behind Sơn.",
+      "blocking": "Dũng occupies the direct path rather than sprinting at them, forcing the travelers laterally.",
+      "performance": "He delivers the message as if returning runaway property, not initiating a sporting duel.",
+      "focus": "Keep both the obstruction he creates and the remaining railing route legible.",
+      "texture": "Yellow practicals repeat along the ramp, making his slow approach feel unavoidable.",
+      "sound_detail": "His boots echo before the line; avoid an arrival sting or extra engine sound.",
+      "rhythm": "Give him time to claim the space, leaving the travelers visibly short of the exit."
+    },
+    {
+      "id": "24.4",
+      "intent": "Make the injury the cost of keeping evidence, not incidental decoration after a fight.",
+      "composition": "Keep the ledger under Sơn's left arm, pillar and Mây's circling route in the same frame.",
+      "blocking": "Dũng reaches for the book, pressing the left wrist into the pillar as Sơn protects it.",
+      "performance": "Pain first interrupts Sơn's breath, then balance; Mây responds to the opening without waiting for a look.",
+      "focus": "The left side must remain readable so later bandaging does not reverse the injury.",
+      "texture": "Rough pillar surface and strained black sleeve tell the contact without an open wound.",
+      "sound_detail": "Use a dry contact sound and involuntary breath rather than a graphic impact exaggeration.",
+      "rhythm": "One collision takes him to a knee, ending with Mây at the side she needs."
+    },
+    {
+      "id": "24.5",
+      "intent": "Pay off Mây's second cuff with a rescue decision instead of a victory flourish.",
+      "composition": "Retain the exact handheld setup, axis and figure positions established by the preceding struggle.",
+      "blocking": "She closes the cuff on his right wrist and solid rail, then immediately helps Sơn.",
+      "performance": "The line is breathless accounting, not a punchline; Dũng understands the restraint before anger rises.",
+      "focus": "Keep wrist, anchored rail and Mây's helping hand visible in one readable depth.",
+      "texture": "Intact steel rail should not flex theatrically; the cuff chain becomes a precise boundary.",
+      "sound_detail": "One cuff click, chain tension and their short recovery breaths carry the result.",
+      "rhythm": "Finish the restraint efficiently and spend the remaining beat on helping the injured companion away."
+    },
+    {
+      "id": "24.6",
+      "intent": "Plant Dũng's possible return as an observable practical consequence without undoing the escape.",
+      "composition": "Keep the doorway framing the pair leaving and Dũng still attached behind them.",
+      "blocking": "The guard arrives with cutters only after the travelers clear the exit; no cutting yet.",
+      "performance": "Dũng's humiliation is held in the way he waits for help rather than more shouted threats.",
+      "focus": "Show the cutter jaws near the intact chain, not a duplicate cuff opening or instant break.",
+      "texture": "Metal tools and rail share the garage practical reflections, with the exit cooler beyond.",
+      "sound_detail": "Footsteps leave first, then the small tool clink predicts continued pursuit.",
+      "rhythm": "Let the travelers disappear before the tool arrives, making their escape real but temporary."
+    },
+    {
+      "id": "25.1",
+      "intent": "Allow the price of the escape to interrupt Sơn's habit of refusing care.",
+      "composition": "Use the medium bedside composition with jacket clearly off and left wrist exposed.",
+      "blocking": "Mây wraps only the left wrist while Sơn stays seated, his sound right hand resting freely.",
+      "performance": "He tries to minimize pain until the wrapping makes concealment pointless; she treats him without sentimentality.",
+      "focus": "Keep hand and faces readable together, avoiding an unneeded clinical detail insert.",
+      "texture": "Plain cotton wrap, tired shirt folds and the jacket on the bed make this an exhausted pause.",
+      "sound_detail": "Fan hum and restrained cloth handling stay beneath her quiet instruction.",
+      "rhythm": "Let him accept her help before moving to evidence, giving the relationship a genuine change."
+    },
+    {
+      "id": "25.2",
+      "intent": "Convert a difficult trip into an earned technical opening, without magical screen spectacle.",
+      "composition": "Keep laptop connections, working USB and distinct hardware token visible in one stable detail frame.",
+      "blocking": "Mây inserts the token once while Sơn leaves his injured hand out of the operation.",
+      "performance": "Her hands wait for Thành's confirmation rather than acting as though she already knows the result.",
+      "focus": "Use a readable folder-state change through simple shapes; no legible passwords or elaborate interface animation.",
+      "texture": "Worn laptop casing and practical cables keep the process modest and physical.",
+      "sound_detail": "Thành's compressed voice arrives from the established phone, followed by a small ordinary confirmation tone.",
+      "rhythm": "Connection, recognition, opened state: three causal steps within one continuous detail view."
+    },
+    {
+      "id": "25.3",
+      "intent": "Make the unlocked data matter by tying a digital authorization to the original signed book.",
+      "composition": "Preserve exactly the same detail framing, connections and table layout from the token shot.",
+      "blocking": "Mây brings the red signature page alongside the screen, comparing shapes before saving.",
+      "performance": "Her confidence grows through checking, not a knowing smile for the camera.",
+      "focus": "Both signature shapes must share the focal area; do not rely on reflected text in eyes.",
+      "texture": "Red fabric binding remains distinct from the dark laptop and separate original evidence sleeves.",
+      "sound_detail": "A page turn and one restrained keypress sit within the existing fan and phone bed.",
+      "rhythm": "Let the comparison complete visibly before the local copy is saved; no second unlocking flourish."
+    },
+    {
+      "id": "25.4",
+      "intent": "Turn the open folder into a deadline affecting a person, not simply another account detail.",
+      "composition": "Frame Mây reading with Sơn close enough to share the information without crowding the screen.",
+      "blocking": "She states the departure, he keeps his injured wrist against his chest rather than reaching impulsively.",
+      "performance": "The name Hạ changes his attention immediately, but fear is a stopped breath rather than a speech.",
+      "focus": "Keep their reactions primary and the departure marker as a supporting shape, with no generated readable text.",
+      "texture": "Grey dawn reaches the room, exposing ordinary fatigue after the darker city pursuit.",
+      "sound_detail": "The line is clear over the steady fan; leave the laptop quiet while they absorb it.",
+      "rhythm": "Give the deadline a short silent landing before the map becomes their next practical response."
+    },
+    {
+      "id": "25.5",
+      "intent": "Let Sơn contribute useful knowledge while acknowledging he cannot solve this alone.",
+      "composition": "Keep the preceding medium composition; the map occupies the table they already share.",
+      "blocking": "He points only with his right hand, Mây securing the map rather than leaning across his bandage.",
+      "performance": "He names the door as remembered work, carrying unease at knowing the criminal place so well.",
+      "focus": "Hold face and pointing hand together; no sudden zoom into an invented map label.",
+      "texture": "Creased paper and the drawn loading-door route are enough, with no elaborate holographic plan.",
+      "sound_detail": "A small paper shift punctuates his direction; fan and room tone continue without a music reset.",
+      "rhythm": "The location becomes specific first, the river way out second, finishing on a usable route."
+    },
+    {
+      "id": "25.6",
+      "intent": "Secure the evidence beyond Sơn's body before they choose to enter danger again.",
+      "composition": "Use the detail frame for the real upload state, then the laptop lid in the same setup.",
+      "blocking": "Mây waits for delivery confirmation, saves it and closes the laptop once.",
+      "performance": "Her pause comes before confirmation; afterward her hands are decisively ready to pack, not celebratory.",
+      "focus": "Show one clear receipt state rather than scrolling several unreadable screens.",
+      "texture": "Scuffed laptop edges and red book corner maintain object continuity while the device closes.",
+      "sound_detail": "One modest chime is motivated by delivery, followed by the physical lid sound.",
+      "rhythm": "Do not close before delivery; leave the completed handover as the last information before the factory."
+    },
+    {
+      "id": "26.1",
+      "intent": "Make the written account acquire a real place and a risk of being seen.",
+      "composition": "Keep the roof vent as foreground cover, yard seal visible through the same opening.",
+      "blocking": "Mây films from below the vent edge, Sơn watching the route rather than leaning over her.",
+      "performance": "They work quietly, with brief controlled checks instead of exaggerated stealth faces.",
+      "focus": "Retain enough depth to compare the existing seal shape without inventing readable labels.",
+      "texture": "Old roof grit and daylight on the loading yard replace the motel's paper evidence.",
+      "sound_detail": "Distant pumps stay even, while a faint phone-handling rustle remains subordinate.",
+      "rhythm": "Reveal the matching mark before the route check, creating evidence and exposure in one view."
+    },
+    {
+      "id": "26.2",
+      "intent": "Show that preserving evidence now matters as much as escaping with it.",
+      "composition": "Track on the established loading aisle, shelf and river door sharing the same depth.",
+      "blocking": "Sơn takes one sealed carton; Mây films its original position before bagging it.",
+      "performance": "His care contrasts with his former role guarding the place, without a nostalgic glance.",
+      "focus": "Keep seal intact and shelf location readable, no close-up of usable chemistry instructions.",
+      "texture": "Dust on the shelf and clean packaging edges distinguish stored stock from their handled sample.",
+      "sound_detail": "His instruction sits over pumps and one carton brush, not an action music cue.",
+      "rhythm": "Record location first, remove the single carton next, end when it is secure."
+    },
+    {
+      "id": "26.3",
+      "intent": "Use the pursuit to narrow the escape rather than add another identical fight.",
+      "composition": "Keep the turning guard, sliding screen and river door inside one defensive-action frame.",
+      "blocking": "Sơn holds the guard on the far side of the moving screen as Mây reaches the door.",
+      "performance": "Both concentrate on gaining separation; neither pauses to threaten or punish him.",
+      "focus": "The closing barrier and Mây's available exit must remain readable despite modest handheld motion.",
+      "texture": "Worn screen metal vibrates naturally; industrial dust stays on existing surfaces rather than billowing theatrically.",
+      "sound_detail": "A short screen rattle and quick breath cut through the steady machinery.",
+      "rhythm": "Complete the separation once and end with Mây able to move, no second attempted grapple."
+    },
+    {
+      "id": "26.4",
+      "intent": "Give Mây her own practical choice after the two city cuffs are already spent.",
+      "composition": "Use the gate and stairs in the wide composition so the approaching guard's route is obvious.",
+      "blocking": "She pulls the existing dock rope across the gate and closes it between groups.",
+      "performance": "She stays focused on the obstacle's purpose, not smiling at cleverness or replacing absent cuffs.",
+      "focus": "Keep rope, gate closure and both travelers on the outer side visually connected.",
+      "texture": "Wet dock boards, ordinary mooring rope and worn gate iron give the improvised barrier weight.",
+      "sound_detail": "Her brief direction rises above gate movement and river sound, without new alarms.",
+      "rhythm": "The barrier earns only a short lead; she must leave as soon as it holds."
+    },
+    {
+      "id": "26.5",
+      "intent": "Transfer danger from the blocked dock into a moving shared escape.",
+      "composition": "Preserve exactly the preceding wide setup, gate position and boat relation at the seam.",
+      "blocking": "Sơn steadies the tied boat, Mây steps in once, then the mooring is released.",
+      "performance": "Their coordination is cautious because of his left wrist, not effortless stunt timing.",
+      "focus": "Keep boarding feet and the line visible, avoiding a cut to separate hands or engine controls.",
+      "texture": "The hull shifts against the dock and rope slack behaves with the boat's movement.",
+      "sound_detail": "Boat creak and small water slap register before the engine becomes dominant.",
+      "rhythm": "Allow the weight transfer to settle before release, ending with both safely aboard."
+    },
+    {
+      "id": "26.6",
+      "intent": "Let escape deliver a completed evidence transmission rather than only a prettier landscape.",
+      "composition": "Use the wide river view to keep both travelers, secured carton space and shrinking factory related.",
+      "blocking": "Sơn holds the open channel, Mây checks one transmission receipt without standing in the boat.",
+      "performance": "Relief is practical and incomplete; neither looks back as though the threat has ended.",
+      "focus": "Keep the factory legible as the source now receding, phone confirmation secondary to safe travel.",
+      "texture": "Brown river water, low evening glare and worn bench wood anchor the boat in the same world.",
+      "sound_detail": "Engine settles into a continuous working rhythm beneath her short statement.",
+      "rhythm": "Let the factory lose scale as delivery confirms, preparing room for the intimate interruption next."
+    },
+    {
+      "id": "27.1",
+      "intent": "Make receiving Hạ's image interrupt an escape that had briefly found a rhythm.",
+      "composition": "Keep the phone between both travelers, boat space and receding shore still recognizable.",
+      "blocking": "Sơn reduces the engine noise before they angle the received image toward both faces.",
+      "performance": "His urgency shows through careful handling, while Mây waits rather than grabbing the phone.",
+      "focus": "Their listening and shared device remain primary, with no floating screen or caller body.",
+      "texture": "Dusk light is softer on their travel-worn clothes, water still moving behind them.",
+      "sound_detail": "The motor drops naturally, allowing the filtered caller to enter without a music change.",
+      "rhythm": "Reduction of noise comes first, anticipation second, received proof last."
+    },
+    {
+      "id": "27.2",
+      "intent": "Let Hạ use the forced recording as an opportunity to send her own information.",
+      "composition": "Frame her face with the existing vent beside it, clip close enough to share attention.",
+      "blocking": "She turns the silver clip toward the window deliberately, without a broad pointing performance.",
+      "performance": "She speaks evenly for whoever holds the camera, then lets her eyes briefly indicate the clue.",
+      "focus": "Keep her eyes readable and the ferry emblem recognizable as a simple shape, not text.",
+      "texture": "Plain room surfaces and fan light make confinement banal rather than stylized torture imagery.",
+      "sound_detail": "Her voice carries slight phone compression over the low fan hum, no thriller score.",
+      "rhythm": "Deliver the name first, then the deliberate clip gesture, holding its result long enough to notice."
+    },
+    {
+      "id": "27.3",
+      "intent": "Turn proof of survival into evidence that Hạ is helping the search.",
+      "composition": "Frame their faces and the actual phone, not an invented enlarged hologram between them.",
+      "blocking": "Mây pauses only the received video locally; Sơn steadies the physical device in his sound hand.",
+      "performance": "Mây's recognition is quiet and specific, while Sơn has to move from relief back to attention.",
+      "focus": "Keep the stopped vent detail on the phone readable as context; the film's people and water keep moving.",
+      "texture": "Screen reflection can move with the boat but must not obscure the identified fan shape.",
+      "sound_detail": "Engine idles at its established level, one finger tap motivates the playback pause.",
+      "rhythm": "Let the meaningful gesture be noticed before her explanation, avoiding a second full video replay."
+    },
+    {
+      "id": "27.4",
+      "intent": "Make the caller try to reclaim control immediately after Hạ has reclaimed a little agency.",
+      "composition": "Keep close on Sơn with Mây remaining in the established boat depth, recording intact.",
+      "blocking": "He listens to the demand, then ends it without offering a murder promise or argument.",
+      "performance": "His restraint hardens; the decision to end the line is small but unequivocal.",
+      "focus": "Hold his eyes as he separates concern for Hạ from obedience to the caller.",
+      "texture": "Dusk light falls across a tired face, with the closed phone casing ordinary and handled.",
+      "sound_detail": "Filtered demand stays dry against quiet water; no villain bass effect or laughter added.",
+      "rhythm": "Let the condition finish, then a short consideration, then the single disconnection."
+    },
+    {
+      "id": "27.5",
+      "intent": "Convert Hạ's clue into a useful route while preserving uncertainty about the actual room.",
+      "composition": "Keep paperwork and phone between Mây and Sơn within the existing medium composition.",
+      "blocking": "She compares the emblem to the dispatch route and marks the coastal direction once.",
+      "performance": "Her confidence is limited to what matches, resisting a triumphant declaration of exact location.",
+      "focus": "Both comparison sources remain visible enough to understand, with no legible generated addresses.",
+      "texture": "Creased receipts and a scuffed phone connect the earlier paper trail to a human signal.",
+      "sound_detail": "Paper movement and river bed continue beneath her concise conclusion.",
+      "rhythm": "Match shape, identify route, then end on the still-incomplete map rather than a complete rescue answer."
+    },
+    {
+      "id": "27.6",
+      "intent": "Show a commitment to a shared rescue plan rather than another solitary revenge vow.",
+      "composition": "Use the boat's bow and coastal channel to give the decision a physical direction.",
+      "blocking": "Sơn keeps the established course, Mây remains with evidence secure rather than moving to a heroic pose.",
+      "performance": "The line is a plan spoken to a partner, not narration addressed to the audience.",
+      "focus": "Keep both bodies and the direction ahead readable in the wide view.",
+      "texture": "Fading orange water and darkening coast carry time toward the deadline without a graphic clock.",
+      "sound_detail": "Engine resumes a steady travel level after the call, leaving his sentence intelligible.",
+      "rhythm": "The choice lands against continuous forward travel; do not restart the boat or repeat its departure."
+    },
+    {
+      "id": "28.1",
+      "intent": "Give the first crime moral weight through the ordinary life beyond a closed door.",
+      "composition": "Hold young Sơn, bare hand and door in the same wide corridor frame.",
+      "blocking": "He comes close enough to knock, then leaves his hand just short of contact.",
+      "performance": "His hesitation is real calculation interrupted by a household sound, not a haunted retrospective pose.",
+      "focus": "Keep the hand and door readable, with no glimpse of an invented victim.",
+      "texture": "Old paint, modest door hardware and rain beyond the stairs make the place lived in.",
+      "sound_detail": "An ordinary muffled family sound stays unidentifiable beneath the older narrator, without screams.",
+      "rhythm": "Let the possibility of turning away exist before the knock is implied by the lowered hand."
+    },
+    {
+      "id": "28.2",
+      "intent": "Leave the irreversible act outside the image while showing that he chooses to enter.",
+      "composition": "Preserve the exact wide frame, corridor depth and hand position from the preceding seam.",
+      "blocking": "The door opens inward, young Sơn enters once, camera never follows him inside.",
+      "performance": "His last visible hesitation ends in movement rather than a theatrical change of expression.",
+      "focus": "Hold the doorway as the sole focus of the action; no internal insert or shadow violence.",
+      "texture": "The same painted wood closes back into the corridor's ordinary surfaces.",
+      "sound_detail": "Hinge, short footstep and rain remain; add no gunshot, impact or implied victim vocalization.",
+      "rhythm": "Entry is brief; the closed door and empty corridor carry the remaining uncomfortable silence."
+    },
+    {
+      "id": "28.3",
+      "intent": "Show the gloves as an unsuccessful attempt to separate himself from what he did.",
+      "composition": "Use the medium frame to retain both bare hands and his young face as he exits.",
+      "blocking": "He looks at his hands, puts the existing gloves on once, then turns away.",
+      "performance": "His expression stays contained; the absence of relief matters more than visible tears.",
+      "focus": "Keep hand action and eyes sharing useful depth, without a fetishized leather insert.",
+      "texture": "New leather sits against a cheap black suit, ordinary rain light on the corridor wall.",
+      "sound_detail": "Glove pull is small beneath the narrator; the household door remains silent.",
+      "rhythm": "Bare hands must register before he covers them, then leave no satisfying flourish after dressing."
+    },
+    {
+      "id": "28.4",
+      "intent": "Answer the remembered failure with a present-day relinquishment that cannot be mistaken for concealment.",
+      "composition": "Match the hand region into the cabin medium setup, whole locked case and key visible.",
+      "blocking": "Sơn passes both complete items to Mây, withdrawing empty hands rather than keeping a hidden component.",
+      "performance": "He makes the decision plainly, Mây receives it without congratulating him.",
+      "focus": "Keep the full case and separate key in the same readable area, not symbolic fragments.",
+      "texture": "Worn cabin table replaces corridor paint, dawn cooling his older ungloved skin.",
+      "sound_detail": "Case weight and key contact sit beneath the line; do not add a weapon-cocking sound.",
+      "rhythm": "The transfer finishes fully before his hands retreat, making his unarmed state the result."
+    },
+    {
+      "id": "28.5",
+      "intent": "Restore the passage of two travel days without pretending the missing marks were already carved.",
+      "composition": "Frame the existing four tallies with enough wood beside them for two fresh additions.",
+      "blocking": "Sơn adds the day-five and day-six marks in order using the established tool.",
+      "performance": "The act is deliberate accounting, not frantic countdown performance or a new threat gesture.",
+      "focus": "Keep the changing mark count clear and the same frame surface recognizable throughout.",
+      "texture": "Fresh wood is lighter than the older grooves, with small genuine shavings.",
+      "sound_detail": "Two brief carving scrapes and dawn pine wind replace the remembered corridor sound.",
+      "rhythm": "Let each addition be countable, then lower the tool rather than tracing the whole row again."
+    },
+    {
+      "id": "28.6",
+      "intent": "Break contemplation with a concrete consequence waiting below the hill.",
+      "composition": "Use the porch wide view to join the pair's listening with the road and market sightline.",
+      "blocking": "Mây answers the abrupt warning while Sơn turns toward Bảy's stall below.",
+      "performance": "They become alert in different ways: she receives details, he searches for the visible problem.",
+      "focus": "Keep the town view readable enough for closing shutters, not an impossible telephoto face reveal.",
+      "texture": "Morning pine shadows and the still-ordinary porch contrast with interrupted business below.",
+      "sound_detail": "The established radio voice cuts into wind, without a new action score resetting the film.",
+      "rhythm": "Warning first, their different reactions next, the changed town last."
+    },
+    {
+      "id": "29.1",
+      "intent": "Make prior protection visibly breached before the rescue requires another promise of competence.",
+      "composition": "Keep damaged barricade, black car and side-lane cover within the same wide street geography.",
+      "blocking": "Mây stops short of the open road, takes the side lane with Sơn behind her.",
+      "performance": "Her recognition of the failure is controlled and immediate, not disbelief frozen for effect.",
+      "focus": "Keep damage modest but clear, with the stall view accessible beyond their cover.",
+      "texture": "Bent barrier material and closed shop fronts carry the town's interrupted routine.",
+      "sound_detail": "Muted stall voices and an idling car establish threat without another villain entrance sound.",
+      "rhythm": "Register the breach, choose cover, finish with a clear view of what needs rescuing."
+    },
+    {
+      "id": "29.2",
+      "intent": "Give Thành something active to protect even while he has lost physical freedom.",
+      "composition": "Frame tied Thành, Bảy behind the counter and the rear-door zone in one wide setup.",
+      "blocking": "Thành keeps his seated body oriented to conceal civilian movement, Dũng facing the public road.",
+      "performance": "Fear shows in his breathing, but his eyes keep checking the useful exit rather than begging.",
+      "focus": "Keep the rear-door line perceptible to viewers without making Dũng turn and notice it.",
+      "texture": "Bent glasses and taut ties show the cost without adding bruises or fresh wounds.",
+      "sound_detail": "Dũng's threat is plain and near, with quieter civilian shuffling already behind the counter.",
+      "rhythm": "Let the audience recognize Thành's protective attention before Dũng finishes demanding the book."
+    },
+    {
+      "id": "29.3",
+      "intent": "Make the plan a division of responsibility shaped by who is actually in danger.",
+      "composition": "Use the wall edge to keep both concealed and the rear stall route in shared view.",
+      "blocking": "Sơn moves toward the road only after Mây has the side-lane path available.",
+      "performance": "He offers himself as distraction without swagger, she accepts the useful role rather than his authority.",
+      "focus": "Keep their eyelines tied to the two separate routes, no map insert required.",
+      "texture": "Rough wall shade and bright road create a clear boundary they are about to cross.",
+      "sound_detail": "The instruction stays low and quick against distant stall voices, no whispered exposition chorus.",
+      "rhythm": "One look at the rear door, one allocation, then movement in two different directions."
+    },
+    {
+      "id": "29.4",
+      "intent": "Turn Sơn's visibility into bait that opens space for someone else rather than a heroic confrontation.",
+      "composition": "Keep him in the open road, Dũng at the stall threshold and market entrance ahead.",
+      "blocking": "Sơn calls once and walks toward the market without drawing anything or turning to fight.",
+      "performance": "His certainty is deliberate performance for Dũng, while his hands stay genuinely empty.",
+      "focus": "Hold the widening gap between Dũng and stall, because that opening is the action's purpose.",
+      "texture": "Sunlit road and cool market mouth distinguish the exposed lure from the safer route.",
+      "sound_detail": "His call should carry across the street naturally, footsteps following without a chase sting.",
+      "rhythm": "Allow Dũng to commit to following before ending on the temporarily clear entrance."
+    },
+    {
+      "id": "29.5",
+      "intent": "Pay off the lure with released people, not another round of threats.",
+      "composition": "Frame rear doorway, Thành's chair and Bảy's exit path so the rescue is legible.",
+      "blocking": "Mây frees the ties once; Bảy immediately guides the existing civilians through the back.",
+      "performance": "Thành regains breath and attention before standing, while Mây keeps him on the evacuation task.",
+      "focus": "Keep the freed wrists and the open civilian route visible together without a separate cutting insert.",
+      "texture": "Bent glasses, chair legs and narrow threshold preserve the cramped physical setting.",
+      "sound_detail": "Tie release, moving chairs and her short instruction replace the louder street confrontation.",
+      "rhythm": "Free Thành first, move civilians next, end with the rear route functioning rather than celebrating."
+    },
+    {
+      "id": "29.6",
+      "intent": "Let the market layout change the terms of pursuit before anyone throws another blow.",
+      "composition": "Use the wide entrance view with Sơn beyond the cart and Dũng still approaching it.",
+      "blocking": "Sơn passes through the gap once, cart settling across Dũng's direct path behind him.",
+      "performance": "He keeps moving instead of waiting for Dũng's reaction; Dũng must reassess rather than teleport around it.",
+      "focus": "Both sides of the obstruction remain readable, preserving the next aisle's screen direction.",
+      "texture": "Cart wheels, shutter edges and concrete show a practical market bottleneck.",
+      "sound_detail": "Wheel rattle and following boots continue into the next scene's aisle sound.",
+      "rhythm": "Finish after the route is divided, giving the following shot new forward movement to perform."
+    },
+    {
+      "id": "30.1",
+      "intent": "Keep pursuit suspense in distance and obstruction rather than multiplying attacks.",
+      "composition": "Track with Sơn in the established direction, crate stacks repeatedly separating the two lines.",
+      "blocking": "He moves into the aisle junction while pursuers lose a few steps negotiating the existing crates.",
+      "performance": "Urgency stays in pace and breath; he does not check behind with repeated dramatic head turns.",
+      "focus": "Keep the next junction readable ahead, no zoom or rack reset to a trailing face.",
+      "texture": "Damp aisle concrete and ordinary stacked containers give his route friction and scale.",
+      "sound_detail": "Continuous footsteps and cart noise replace music-driven acceleration or invented impacts.",
+      "rhythm": "Let distance vary once as crates obstruct, ending at a new choice of aisle."
+    },
+    {
+      "id": "30.2",
+      "intent": "Make the townspeople useful by closing a route after a person escapes, then protecting themselves.",
+      "composition": "Frame Bảy's side door, Sơn passing and the empty aisle the cart will block.",
+      "blocking": "Bảy and the two existing sellers move the cart only after Sơn clears, then retreat inside.",
+      "performance": "Their concentration is practical, with no cheering or desire to fight the pursuers.",
+      "focus": "Keep cart clearance and the closing civilian door in the same wide view.",
+      "texture": "Melting ice, wet wheels and door metal ground the improvised barrier in daily work.",
+      "sound_detail": "Bảy's direction stays short above wheel scrape, then the door closes the civilian sound away.",
+      "rhythm": "The order matters: Sơn through, cart across, civilians safe, with no replay of the entrance cart."
+    },
+    {
+      "id": "30.3",
+      "intent": "Show support arriving where evacuation needs it rather than materializing to win a fight.",
+      "composition": "Use the rear-exit wide view to separate civilian escape from restrained pursuers.",
+      "blocking": "Mây and Thành hold the safe line while the arriving officers secure the two separated men.",
+      "performance": "Thành stays useful despite damaged glasses; Mây checks the exit before watching an arrest.",
+      "focus": "Keep the protected lane open in frame, not filled by an unnecessary crowd.",
+      "texture": "Plain work clothing and repaired glasses retain consequences from the stall rescue.",
+      "sound_detail": "Commands and cuff handling remain local and measured, with no crowd battle layer.",
+      "rhythm": "Arrival and custody should be economical; finish on a usable rear exit, the real gain."
+    },
+    {
+      "id": "30.4",
+      "intent": "Let Dũng recover pressure through time after losing immediate control of the aisle.",
+      "composition": "Keep the obstruction between him and Sơn visible in the medium framing.",
+      "blocking": "Dũng displays the existing schedule on his phone, lowers it without advancing into another grapple.",
+      "performance": "He speaks as someone willing to wait for the deadline, making stillness threatening.",
+      "focus": "The phone is evidence of leverage, not readable text requiring a screen insert.",
+      "texture": "Cold reflected light from wet crates contrasts with his exposed arms and heavy posture.",
+      "sound_detail": "His plain threat interrupts market movement, no ominous device buzz added afterward.",
+      "rhythm": "Let Sơn understand the deadline before the phone drops, ending their physical deadlock with a different pressure."
+    },
+    {
+      "id": "30.5",
+      "intent": "Move the story from chase to dangerous negotiation through Dũng's withdrawal.",
+      "composition": "Keep the market entrance, retreating men and car relationship clear in the wide shot.",
+      "blocking": "Dũng backs toward the car with his two men, leaving Sơn inside rather than dragging him along.",
+      "performance": "The invitation is delivered as a demand that will outlast this retreat, not a defeated snarl.",
+      "focus": "Hold enough street depth to show departure without a new car-start close-up.",
+      "texture": "Road dust and dark car surfaces contrast with the wet interior from which Sơn watches.",
+      "sound_detail": "Engine and tire movement begin only as the car withdraws, under the meeting instruction.",
+      "rhythm": "End with Dũng genuinely leaving and Sơn holding his position, so the next task is a choice."
+    },
+    {
+      "id": "30.6",
+      "intent": "Make restoring protection an acknowledgement of cost instead of another empty tactical assurance.",
+      "composition": "Frame Thành seated safely, damaged glasses visible, Sơn present but not the center of the apology.",
+      "blocking": "Mây hands the replacement roster to Thành without demanding that he reassure her.",
+      "performance": "She speaks directly and quietly, he accepts responsibility while still recovering from fear.",
+      "focus": "Keep her look toward him and the practical roster visible together, no reaction insert.",
+      "texture": "The bent glasses and temporary rear-exit seat keep the consequences materially present.",
+      "sound_detail": "The market begins ordinary work at a distance, leaving the line without heroic scoring.",
+      "rhythm": "Allow her admission a beat, then finish on Thành taking the actual task, not a prolonged promise."
+    },
+    {
+      "id": "31.1",
+      "intent": "Let the invitation home compete with the visible fact that Dũng can block the stairs.",
+      "composition": "Keep Bà Hai, Dũng and the stair emergence in the same wind-exposed wide frame.",
+      "blocking": "Sơn stops outside reach, copy in right hand and route behind him kept open.",
+      "performance": "She sounds familiar rather than ceremonial; he must resist the bodily habit of obeying her.",
+      "focus": "Keep the paper unmistakably thin, not the red original ledger suddenly appearing in his hands.",
+      "texture": "Violet silk and rough iron rail move differently in the wind, making shelter conspicuously absent.",
+      "sound_detail": "Her soft voice stays close despite the gale, without a supernatural whisper treatment.",
+      "rhythm": "Let him reach his chosen stopping point before the invitation, giving distance emotional meaning."
+    },
+    {
+      "id": "31.2",
+      "intent": "Expose her need for Kiên while she continues to present control as motherly protection.",
+      "composition": "Hold the established gallery relation, with the gap between them as important as their faces.",
+      "blocking": "She offers terms without stepping closer, and Sơn refuses to fill the space she leaves.",
+      "performance": "Her reassurance should be almost habitual, then sharpen slightly on the demanded delivery.",
+      "focus": "Keep attention on whether he moves, not a decorative push toward the sea.",
+      "texture": "Her composed clothing remains ordered against the wind, his ordinary jacket less protected.",
+      "sound_detail": "Wind stays consistent under the offer, with no fresh threat motif or distant invented vehicle.",
+      "rhythm": "Give the promised rescue its persuasive beat before the condition becomes clear."
+    },
+    {
+      "id": "31.3",
+      "intent": "Make the question expose the limit of her supposed maternal knowledge.",
+      "composition": "Retain precisely the preceding medium composition and distance rather than switching to a revealing close-up.",
+      "blocking": "Sơn asks from the same position; Bà Hai avoids answering by holding her ground and gaze.",
+      "performance": "His use of má should carry disappointed recognition, while her first hesitation is minute.",
+      "focus": "Keep both faces readable so the missing answer belongs to her, not narration.",
+      "texture": "Wind touches her sleeve and his jacket while neither uses weather as a performance distraction.",
+      "sound_detail": "Let the question finish cleanly, then leave only the already-established wind for her silence.",
+      "rhythm": "Do not rush his turn toward the stairs; the unanswered gap is the scene's new fact."
+    },
+    {
+      "id": "31.4",
+      "intent": "Show that he keeps the evidence boundary even while still emotionally caught by her.",
+      "composition": "Use one detail plane for copied paper, signature shapes, pocket and gallery rail below.",
+      "blocking": "He displays only the page already brought, then folds and returns it to his own pocket.",
+      "performance": "His hands stay measured; the fold is a refusal to leave anything within her reach.",
+      "focus": "Keep the copy thin and original absent, with no legible names generated on paper.",
+      "texture": "The light page catches wind against dark jacket cloth, demanding a steady grip.",
+      "sound_detail": "Paper creases and his off-screen explanation remain clear without an artificial threatening bass.",
+      "rhythm": "The showing is brief; spend the end on the page being securely back with him."
+    },
+    {
+      "id": "31.5",
+      "intent": "Reveal that her remaining power depends on stopping Dũng, not simply ordering Sơn.",
+      "composition": "Frame raised hand, Dũng's halted step and Sơn's stair position in the same medium setup.",
+      "blocking": "Dũng starts forward once; her hand interrupts him before he closes the usable gap.",
+      "performance": "She accepts with a trace of calculation under tenderness, Dũng resenting the check but obeying.",
+      "focus": "Keep the spatial stop visible rather than substituting a tight bracelet insert.",
+      "texture": "The left jade bracelet remains on the raised wrist, sleeves lifting naturally in the gallery wind.",
+      "sound_detail": "One halted footstep and her short acceptance carry the power change, no added ring or chime.",
+      "rhythm": "Let viewers see she needs this agreement before her final instruction tries to sound absolute."
+    },
+    {
+      "id": "31.6",
+      "intent": "Return the solitary family confrontation to the shared rescue responsibility below.",
+      "composition": "Use the base-wide frame to show Mây waiting and the same main path leading away.",
+      "blocking": "Sơn rejoins her without needing support yet, both leaving by the route already established.",
+      "performance": "He reports facts tersely, withholding the private wound rather than reciting the entire meeting.",
+      "focus": "Keep both figures and the open exit readable, no return to Bà Hai inside this clip.",
+      "texture": "Cool night stone and moving grass contrast with the gallery's intimate bargaining.",
+      "sound_detail": "Their footsteps take over from tower wind as the next clinic room tone approaches.",
+      "rhythm": "One report, one departure, finishing away from the tower so the scene truly advances."
+    },
+    {
+      "id": "32.1",
+      "intent": "Turn knowledge of Tê into a duty to prepare care rather than a clever method to exploit.",
+      "composition": "Keep Linh, sealed carton and Mây in the same medium clinic arrangement.",
+      "blocking": "He examines only the unopened packaging, then places it in the existing locked storage.",
+      "performance": "Mây separates his medical role from the danger zone, Linh attentive without eager complicity.",
+      "focus": "Keep the seal readable as intact; do not reveal contents or invented preparation details.",
+      "texture": "Green curtain and worn white coat provide the ordinary clinic context for a frightening substance.",
+      "sound_detail": "Cupboard latch and neutral ventilation under a clear sentence are enough, without a medical alarm cue.",
+      "rhythm": "The carton leaves useable reach before discussion continues, establishing a boundary through action."
+    },
+    {
+      "id": "32.2",
+      "intent": "Make the enemy's preference for living leverage feel more dangerous than a death threat.",
+      "composition": "Preserve the same medium view with all three people remaining in their established places.",
+      "blocking": "Sơn explains without handling the sample, Linh recording the risk in his existing emergency note.",
+      "performance": "His matter-of-fact knowledge suggests familiarity he is ashamed to possess, not expertise to admire.",
+      "focus": "Keep Linh listening and Sơn speaking readable together; no illustrative cutaway to an application device.",
+      "texture": "Paper, cloth and tired faces stay ordinary, refusing a glamorous laboratory aesthetic.",
+      "sound_detail": "His voice stays dry over the clinic bed, with a small note-taking sound afterward.",
+      "rhythm": "Let the implication of being kept alive land before Linh responds about uncertainty."
+    },
+    {
+      "id": "32.3",
+      "intent": "Remove the comfort of a precise rescue clock while preserving a practical path forward.",
+      "composition": "Keep the same three-person medium composition, emergency note and sketch only supporting the faces.",
+      "blocking": "Linh rejects certainty; Mây visibly withdraws the assumption while Sơn acknowledges the limitation.",
+      "performance": "Linh speaks from responsibility, not mystique, and Sơn's nod should contain real apprehension.",
+      "focus": "Hold their listening reactions without cutting to a countdown or imagined heartbeat graphic.",
+      "texture": "Clinic practical light makes the paper plan less authoritative than living faces.",
+      "sound_detail": "The warning is delivered plainly, no rising timer sound or sudden monitor beeps.",
+      "rhythm": "Leave a brief silence after the instruction, making uncertain recovery part of the risk."
+    },
+    {
+      "id": "32.4",
+      "intent": "Distinguish the route that brings a person out from the route that brings police in.",
+      "composition": "Use the detail shot for the existing map, with two exits and separate path shapes legible.",
+      "blocking": "Mây follows the van extraction route with one finger, keeping civilian movement outside the contact area.",
+      "performance": "Her hand is economical, indicating one priority rather than rehearsing the whole operation again.",
+      "focus": "Keep both route shapes in the same focal field, no animated arrows or readable tactical labels.",
+      "texture": "Creased paper and the desk edge give the diagram a finite, imperfect scale.",
+      "sound_detail": "A finger sliding on paper supports the off-screen instruction, clinic room tone unchanged.",
+      "rhythm": "Explain the separation once, finishing on the clear rescue path rather than more positions."
+    },
+    {
+      "id": "32.5",
+      "intent": "Let Sơn accept a condition that might stop him from reaching the woman he wants to save.",
+      "composition": "Frame him across the plan from Mây, with Linh present rather than disappearing between takes.",
+      "blocking": "Mây holds the abort route with a finger while Sơn gives his agreement without touching it.",
+      "performance": "His pause should reveal the cost of promising withdrawal, then settle into a deliberate answer.",
+      "focus": "Keep his eyes and her fixed finger readable, avoiding a heroic isolated portrait.",
+      "texture": "The bandage on his left wrist remains visible beside the plan he cannot control.",
+      "sound_detail": "Quiet paper and ventilation stay beneath the line; do not add confirmation radio chatter.",
+      "rhythm": "The assent comes after consideration, leaving enough silence to believe he means to honor it."
+    },
+    {
+      "id": "32.6",
+      "intent": "Translate the limits just agreed into a prepared response, not another explanation of the bargain.",
+      "composition": "Keep medical bag, map holder and unarmed Sơn together in one practical wide setup.",
+      "blocking": "Linh packs his existing equipment while Mây confirms roles, Sơn stepping back to leave space.",
+      "performance": "They work with sober concentration, without the triumphant rhythm of a guaranteed victory montage.",
+      "focus": "Keep the bag and map destinations clear while faces remain useful, no gear catalogue inserts.",
+      "texture": "Ordinary equipment in a worn bag supports care rather than miracle medicine.",
+      "sound_detail": "Bag handling, radio response bed and her single instruction remain restrained and motivated.",
+      "rhythm": "Finish preparations without repeating their earlier positions; the next memory should interrupt readiness emotionally."
+    },
+    {
+      "id": "33.1",
+      "intent": "Give Hạ the power to leave an opening while asking for honesty instead of reassurance.",
+      "composition": "Use the shutter gap and counter in the wide composition, Sơn still on the inside edge.",
+      "blocking": "She stops the shutter halfway, then waits without walking toward him to fill the distance.",
+      "performance": "Her question is direct and tired of evasion, not a foreknowledge of coming tragedy.",
+      "focus": "Keep the unused opening visible alongside her face and his hesitation at the doorway.",
+      "texture": "Warm shop bulbs, wet pavement beyond and shutter slats make the possible departure tangible.",
+      "sound_detail": "Shutter rattle settles before the question, leaving the ordinary shop room tone.",
+      "rhythm": "Let the unclosed doorway hold the choice after she speaks, rather than filling it with movement."
+    },
+    {
+      "id": "33.2",
+      "intent": "Make an honest uncertain answer more intimate than another promise to return safely.",
+      "composition": "Hold both faces with Sơn still gloved and close to the established door position.",
+      "blocking": "His hand leaves the handle as he admits uncertainty, Hạ staying where she chose to wait.",
+      "performance": "The confession should feel unpracticed; he does not soften it with a reassuring smile afterward.",
+      "focus": "Keep his exposed expression primary while her listening remains readable, no sudden focus trick.",
+      "texture": "Black gloves and warm flower colors hold the tension between his work and her ordinary room.",
+      "sound_detail": "Speak over a low steady street bed, no score instructing the audience to forgive him.",
+      "rhythm": "Give the first admission time to be heard, then the refusal to lie as a smaller second breath."
+    },
+    {
+      "id": "33.3",
+      "intent": "Make the flower an ordinary act of care that does not excuse the dangerous job.",
+      "composition": "Use the stable detail view for one stem, his breast pocket and Hạ's hands.",
+      "blocking": "She tucks the single lily in once, checks it upright and removes her hands.",
+      "performance": "Her care is practiced florist attention, not ceremonial blessing; his stillness permits it.",
+      "focus": "Keep stem and pocket in the same plane, without showing an extra flower or falling petals.",
+      "texture": "Cream petal against black cloth and the slightly damp stem give the gesture physical specificity.",
+      "sound_detail": "Cloth and stem touch lightly, shop room tone continuing without a romantic music cue.",
+      "rhythm": "The placement is simple; hold the empty space her hands leave after it is secure."
+    },
+    {
+      "id": "33.4",
+      "intent": "Make the promised future small enough to feel possible and painful to postpone.",
+      "composition": "Frame the closed watch between their faces at chest height, both still near the doorway.",
+      "blocking": "Hạ touches only the shut lid once; Sơn receives the request and puts it away.",
+      "performance": "She speaks as someone planning breakfast, not delivering a symbolic prophecy about time.",
+      "focus": "Keep eyes primary and the closed case readable, never reveal its inner photograph or dial.",
+      "texture": "Smooth metal and florist-worked fingertips contrast without glamour or exaggerated shine.",
+      "sound_detail": "A faint existing mechanical tick may remain beneath ordinary shop sound, no amplified heartbeat.",
+      "rhythm": "Her simple request should arrive without buildup, followed by his inability to answer in more words."
+    },
+    {
+      "id": "33.5",
+      "intent": "Allow a brief moment of mutual trust that rests on the honest answer just given.",
+      "composition": "Preserve the same medium frame, door relation and body distance from the closed-watch exchange.",
+      "blocking": "He nods once; she leans her forehead to his shoulder without pulling him into an embrace.",
+      "performance": "The contact is accepted awkwardly and gently, neither actor presenting grief toward the lens.",
+      "focus": "Keep both profiles and the small contact readable, with no new lens or rack reset.",
+      "texture": "His dark lapel and her scarf remain in their established positions, flower undisturbed.",
+      "sound_detail": "Breathing and distant wet-street traffic are enough; no speech, added sob or musical climax.",
+      "rhythm": "Let the contact arrive after the nod and end before it becomes a posed farewell tableau."
+    },
+    {
+      "id": "33.6",
+      "intent": "Close the ordinary shop without pretending either character knows this is their last night.",
+      "composition": "Keep pavement, shutter and Sơn's departure direction in the same exterior wide frame.",
+      "blocking": "He clears the opening, she lowers the shutter fully once, leaving no return glimpse inside.",
+      "performance": "Her pace is practical end-of-day work, with hesitation expressed only by the moment before closure.",
+      "focus": "Hold the closing boundary and then the empty pavement; do not chase his departing face.",
+      "texture": "Warm street reflection lies across wet paving as the shutter removes the shop's interior light.",
+      "sound_detail": "Metal slats rattle and settle, then rain and street bed remain for the coming dawn cut.",
+      "rhythm": "The shutter completes the action; remaining time belongs to the empty place rather than another farewell."
+    },
+    {
+      "id": "34.1",
+      "intent": "Make the final tally a commitment to accountability rather than a threat against himself.",
+      "composition": "Use the stable detail composition to show six old grooves and room for exactly one new mark.",
+      "blocking": "Sơn adds the seventh line, lowers the established tool and puts it on the shelf.",
+      "performance": "The hand is steady with effort; no trembling blade pose or aggressive gouging performance.",
+      "focus": "Keep count and new pale wood legible, without an imagined calendar overlay.",
+      "texture": "Fresh wood dust catches the first daylight, older marks staying darker in the same frame.",
+      "sound_detail": "One carving scrape, tool contact and the low narration replace any ticking countdown.",
+      "rhythm": "Finish the single addition early enough to read seven, then keep natural hand and wind movement."
+    },
+    {
+      "id": "34.2",
+      "intent": "Separate protected originals from the vulnerable person who will carry only an excerpt.",
+      "composition": "Use the medium table view to distinguish two bindings, USB sleeve, token and copy envelope.",
+      "blocking": "Mây and Sơn assemble the existing originals into custody, leaving the thin preview apart.",
+      "performance": "Their careful checking should feel like a relinquishment, not a repetitive evidence display for the audience.",
+      "focus": "Keep black and red books distinct without requiring readable seals or paperwork text.",
+      "texture": "Cloth binding, leather, plain sleeves and used table grain make each item physically different.",
+      "sound_detail": "Small paper and seal sounds stay behind Mây's short line, no repeated upload chime.",
+      "rhythm": "One coordinated packing operation ends with only the copy before Sơn, the meaningful subtraction."
+    },
+    {
+      "id": "34.3",
+      "intent": "Give the two scarf fragments a shared custody before they can later return to Hạ.",
+      "composition": "Frame the small fragment, separate long remainder and open evidence bag together.",
+      "blocking": "Sơn passes the short piece once; Mây places each in its own existing sleeve.",
+      "performance": "Hands handle the cloth with deliberate care, without stroking it into a sentimental repeated gesture.",
+      "focus": "Keep matching torn edges recognizable but separate, no magically repaired scarf or changed size.",
+      "texture": "Frayed blue silk contrasts with clear sleeves and coarse cabin wood.",
+      "sound_detail": "A subdued sleeve rustle and pine wind replace dialogue, making care visible rather than explained.",
+      "rhythm": "Let separation and common bag become clear, then withdraw both sets of hands naturally."
+    },
+    {
+      "id": "34.4",
+      "intent": "Make the watch handover a request to return for something, not a final bequest.",
+      "composition": "Keep both faces and the closed watch together on the porch, no inner-dial insert.",
+      "blocking": "Sơn passes the complete watch and chain into Mây's right hand, leaving no second chain hanging.",
+      "performance": "He asks with an ordinary hopeful insistence, she accepts without pity or promises she cannot keep.",
+      "focus": "Keep the closed lid and her receiving hand readable while their eyes carry the request.",
+      "texture": "Dented metal and bare hands remain modest under dawn light, the case never opening.",
+      "sound_detail": "One small chain contact is enough beneath his line; no ticking from the stopped watch.",
+      "rhythm": "The acceptance should follow the stated wish to reclaim it, finishing on custody rather than mourning."
+    },
+    {
+      "id": "34.5",
+      "intent": "Move the originals beyond the upcoming confrontation so the rescue cannot erase their evidence.",
+      "composition": "Use the station wide view to include Mây, Thành, the assigned officer and one departing route.",
+      "blocking": "Mây completes the sealed handover while Thành records it, local copies remaining on their side.",
+      "performance": "They verify before releasing, with no congratulatory handshake or feeling the whole case is finished.",
+      "focus": "Keep originals and retained receipt physically distinct, without legible official writing.",
+      "texture": "Plain sleeves, tired desk surfaces and morning light keep the transfer unglamorous.",
+      "sound_detail": "Paper acknowledgement and ordinary departure footsteps replace a procedural success montage sound.",
+      "rhythm": "The originals actually leave before the shot ends, making the transfer irreversible and visible."
+    },
+    {
+      "id": "34.6",
+      "intent": "Confirm a real support presence while leaving the human exchange still uncertain.",
+      "composition": "Frame Mây beside Thành at the radio with the already-used route map visible.",
+      "blocking": "Thành marks only the reported road positions, Mây listening before acknowledging.",
+      "performance": "Relief is limited to coverage of roads, not certainty about Hạ or the two leaders.",
+      "focus": "Keep their listening and a small position mark readable, no cutaway to invented convoys.",
+      "texture": "Desk wear and ordinary radio casing preserve the local team's scale.",
+      "sound_detail": "The compressed confirmation sits over the station fan, with no additional operators talking over it.",
+      "rhythm": "One confirmation changes the map, then leave a breath showing the actual risk remains elsewhere."
+    },
+    {
+      "id": "35.1",
+      "intent": "Turn help from the town into bounded jobs, not a speech summoning a heroic crowd.",
+      "composition": "Keep three named people and the harbour sketch inside the wide coffee-stall frame.",
+      "blocking": "Thành passes two fresh cuff pairs; Mây directs Bảy toward the rear lane and then disperses them.",
+      "performance": "She is firm about keeping civilians away, both men listening as workers with specific tasks.",
+      "focus": "Keep the handover readable enough to account for later cuffs without a dedicated equipment insert.",
+      "texture": "Everyday glasses, table stains and practical work clothing keep the briefing embedded in town life.",
+      "sound_detail": "Her one instruction sits over the opening-stall bed, no cheers or martial rhythm.",
+      "rhythm": "Hand over equipment first, assign routes second, end as the three separate into their jobs."
+    },
+    {
+      "id": "35.2",
+      "intent": "Make the eventual rescue vehicle usable through visible ordinary preparation.",
+      "composition": "Use the van's parking position and the protected lane together in the wide setup.",
+      "blocking": "Bảy clears the remaining obstruction while Linh secures the clean response space already being prepared.",
+      "performance": "Both work with familiar competence, not frantic montage speed or jokes about the coming danger.",
+      "focus": "Keep rear doors and clear approach route visible along with the ready mattress.",
+      "texture": "Washed metal, clean fabric and the empty crate space separate this use from hauling fish.",
+      "sound_detail": "A crate movement and door hardware sound remain practical under Bảy's short report.",
+      "rhythm": "Finish on a space someone can actually be carried into, avoiding repeated shots of the same equipment."
+    },
+    {
+      "id": "35.3",
+      "intent": "Let Thành regain agency by checking what he can genuinely see from above.",
+      "composition": "Frame him with the existing roof edge and both approach roads readable below.",
+      "blocking": "He checks each road through binoculars once, lowers them and clips the radio securely.",
+      "performance": "Concentration has a small physical cost through repaired glasses, but he does not play incompetence.",
+      "focus": "Keep his eyeline linked to the roads without an internal point-of-view cut or floating map.",
+      "texture": "Tape on the glasses and wind against his shirt retain the previous day's consequences.",
+      "sound_detail": "Wind and a clean radio test carry the action, not a surveillance-machine sound effect.",
+      "rhythm": "Two measured checks, one confirmation, then return attention to the real view ahead."
+    },
+    {
+      "id": "35.4",
+      "intent": "Show the present-day refusal of the gloves as a settled choice rather than a new costume reveal.",
+      "composition": "Use the medium cabin setup with the bag on the bed and bare hands in open view.",
+      "blocking": "Sơn folds the pair into the canvas bag once and leaves it where it is.",
+      "performance": "He should not linger admiring leather or rehearse the gesture again; resolve has replaced the earlier hesitation.",
+      "focus": "Keep both gloves accounted for without implying he hides one on his body.",
+      "texture": "Soft old leather against worn canvas differs from the fresh left wrist bandage.",
+      "sound_detail": "One quiet fold and bag rustle play over the cabin wind, with no narrator required.",
+      "rhythm": "Complete the practical placement and let his empty hands establish what he will carry forward."
+    },
+    {
+      "id": "35.5",
+      "intent": "Let walking openly register as exposure earned by the earlier decision to stay.",
+      "composition": "Track laterally in the established direction with secured shutters remaining part of his route.",
+      "blocking": "He keeps a steady ordinary pace from hill path toward Bảy's table, not a center-street strut.",
+      "performance": "His shoulders carry tension despite composure; no knowing looks to unseen admirers or heroic smile.",
+      "focus": "Keep his bare hands and bandaged left wrist readable without pushing into an extra detail shot.",
+      "texture": "Closed shutters and bright coastal light make a public road feel newly unprotected.",
+      "sound_detail": "Footsteps and shutter work from the evacuation dominate, no slow-motion or anthem cue.",
+      "rhythm": "Allow an uninterrupted approach that ends at the table, without replaying his departure from the cabin."
+    },
+    {
+      "id": "35.6",
+      "intent": "Make facing the sea an emotional change that Bảy notices without explaining the whole arc.",
+      "composition": "Frame Sơn toward the water, Bảy entering with the single glass at his right.",
+      "blocking": "Bảy sets coffee down once and leaves the sightline open rather than joining a long conversation.",
+      "performance": "His line is observation with quiet care, Sơn receiving it without needing a reply.",
+      "focus": "Keep Sơn's face, glass and actual open sea related in the medium depth.",
+      "texture": "Sunlit glass rim and faded awning make the ordinary seat feel newly chosen.",
+      "sound_detail": "One glass touch gives way to sea wind, with no symbolic watch ticking under the moment.",
+      "rhythm": "Let the placement finish before the remark, then hold his new direction of attention."
+    },
+    {
+      "id": "36.1",
+      "intent": "Let Kiên enter the ordinary place Sơn has only just learned to occupy peacefully.",
+      "composition": "Keep the white car, seated Sơn and Kiên's route between them together in the wide street frame.",
+      "blocking": "Kiên steps out once and walks directly to the table, guards staying in their existing supporting positions.",
+      "performance": "His ease should intrude on Sơn's quiet without a grand villain introduction or theatrical pause.",
+      "focus": "Maintain the car in usable background view because Hạ is the immediate stake, not just transport.",
+      "texture": "White cloth and polished car surfaces catch harsh afternoon light against the humble awning.",
+      "sound_detail": "Incoming engine resolves into the same idling bed; his greeting has no musical punctuation.",
+      "rhythm": "Arrival is economical, ending with him opposite Sơn rather than replaying a second approach."
+    },
+    {
+      "id": "36.2",
+      "intent": "Make Kiên explain control as a business adjustment, while Sơn refuses to reward the explanation.",
+      "composition": "Use the medium table frame with an unoffered handshake space and car direction still understood.",
+      "blocking": "Kiên remains seated, Sơn keeps the copy envelope outside his reach without clutching it dramatically.",
+      "performance": "Kiên speaks easily until naming Hạ; Sơn's smallest attention change reveals the leverage works.",
+      "focus": "Keep faces and unused table space readable, no imagined flashback illustrating the first trap.",
+      "texture": "Tailored white sleeve and worn coffee table make the unequal resources visible without added jewelry details.",
+      "sound_detail": "His line sits over the subdued stall bed and car idle, without a phone effect.",
+      "rhythm": "The failed trap is brief context; holding Hạ is the new pressure that should land last."
+    },
+    {
+      "id": "36.3",
+      "intent": "Give Hạ an act of self-definition the instant she becomes physically visible again.",
+      "composition": "Frame from the established observer side through the lowered rear window, handle and her face both readable.",
+      "blocking": "She rests her hand on the inner handle, Kiên staying outside on her left with his right hand controlling the door area.",
+      "performance": "She meets Sơn directly, speaking as a capable person rather than asking to be carried away.",
+      "focus": "Keep her eyes and handle hand within useful depth; the glass edge must not obscure the gesture.",
+      "texture": "Grey dress and plain car upholstery contrast with Kiên's white sleeve at the window edge.",
+      "sound_detail": "Her voice remains natural through the open window, with only the established engine beneath it.",
+      "rhythm": "Let recognition register before the hand touches the handle, then let the assertion remain unanswered."
+    },
+    {
+      "id": "36.4",
+      "intent": "Make Sơn insist that proof of life must become a visible movement toward freedom.",
+      "composition": "Keep the closing rear window and the safe public space between Sơn and Kiên legible.",
+      "blocking": "Kiên closes the window with his right hand, Sơn staying outside reaching distance rather than pursuing it.",
+      "performance": "Sơn states the condition steadily, showing the effort of not grabbing at the first sight of her.",
+      "focus": "Retain the car window as a closing boundary without a separate shot of Hạ trapped behind glass.",
+      "texture": "Window reflections return gradually over the grey interior, not an abrupt opaque digital wipe.",
+      "sound_detail": "The motor sound is small under his clear instruction, no threatening lock sound added afterward.",
+      "rhythm": "Let the window finish closing, then end on Sơn holding the condition rather than pleading."
+    },
+    {
+      "id": "36.5",
+      "intent": "Make the demanded confession reveal what Kiên wants bought beyond the ledger.",
+      "composition": "Frame the existing folder on the table between their separate hands, car still logically behind Kiên.",
+      "blocking": "Kiên leaves the folder once; Sơn neither opens nor signs it and does not surrender the copy.",
+      "performance": "Kiên treats the coercion as routine paperwork, his practiced smile hiding impatience at resistance.",
+      "focus": "Keep the closed folder and Sơn's refusal of contact readable without printing legible confession text.",
+      "texture": "Plain paper and immaculate cuff reinforce how ordinary the demand is to Kiên.",
+      "sound_detail": "One folder contact and his low instruction are enough, no dramatic pen-click not established in the scene.",
+      "rhythm": "The condition arrives after the apparent agreement, ending with the object refusing to become a handshake."
+    },
+    {
+      "id": "36.6",
+      "intent": "Leave the new demand physically behind after its owner removes himself.",
+      "composition": "Use the wide street view to connect Kiên entering the passenger side and the untouched table.",
+      "blocking": "The white car departs toward town lodging, Sơn staying at the stall rather than following it.",
+      "performance": "Sơn watches the retreat with held urgency, not relief, because Hạ is still inside.",
+      "focus": "Keep the confession folder visible as the car loses size, no internal cut to departing faces.",
+      "texture": "Afternoon glare on white bodywork gives way to the darker awning over the abandoned paperwork.",
+      "sound_detail": "Car engine recedes under ordinary stall sound, with no second ignition or invented radio call.",
+      "rhythm": "Let the car genuinely clear the immediate space before attention returns to the folder left there."
+    },
+    {
+      "id": "37.1",
+      "intent": "Give Mây the uncomfortable task of naming what Sơn's urgency might make him accept.",
+      "composition": "Keep both partners behind the stall with the unopened folder occupying their shared table edge.",
+      "blocking": "Mây takes custody of the folder, Sơn leaves his hands empty instead of arguing for a shortcut.",
+      "performance": "She is direct without scolding; he recognizes the trap but must feel the price of resisting it.",
+      "focus": "Keep her face and the closed folder readable, avoiding an extra close-up of imagined written terms.",
+      "texture": "Awning shade removes the white car's glare, leaving ordinary paper between two tired people.",
+      "sound_detail": "The receding engine can fade under her line, then only canvas and distant stall activity remain.",
+      "rhythm": "Name the trap once, ending on custody of the folder rather than another explanation of Kiên."
+    },
+    {
+      "id": "37.2",
+      "intent": "Separate the limited preview they will offer from the false admission they will never sign.",
+      "composition": "Use the detail frame to show the open copy envelope and closed confession folder apart.",
+      "blocking": "They verify the selected pages already present, keeping originals absent and the folder untouched.",
+      "performance": "Their hands communicate agreement through clear separation, not a staged secret-agent flourish.",
+      "focus": "Keep paper thickness and different containers legible, with no readable signatures or invented security marks.",
+      "texture": "Thin preview sheets and the heavier folder create a concrete visual distinction.",
+      "sound_detail": "Paper edges moving against the table support Sơn's off-screen sentence, with no digital confirmation sound.",
+      "rhythm": "Finish with preview and confession separated, making the refusal visible without rehearsing the whole exchange."
+    },
+    {
+      "id": "37.3",
+      "intent": "Expose a specific spatial limitation so later escape feels like exploitation, not police forgetting a door.",
+      "composition": "Keep Mây and Sơn above the existing map, main road and thin service route both visible.",
+      "blocking": "She assigns the remaining officer to the main turnoff, leaving the lower footpath a distinct route to watch.",
+      "performance": "Her concentration includes the limitation; Sơn understands it without a reassuring nod that dismisses the risk.",
+      "focus": "Keep her indicating hand and the two routes legible without readable labels or animated overlays.",
+      "texture": "Creased paper and a narrow drawn path make resources feel finite rather than omniscient.",
+      "sound_detail": "Her short radio-facing instruction stays over muted town sound, no redundant chorus of confirmations.",
+      "rhythm": "Give the covered road clarity, then let the separate footpath remain the small unfinished edge."
+    },
+    {
+      "id": "37.4",
+      "intent": "Make Sơn agree to a limit that conflicts with the urge to rush toward Hạ.",
+      "composition": "Preserve the exact preceding medium framing, map position and two-person eyelines.",
+      "blocking": "He accepts the release condition while Mây closes the map, neither moving closer to soften it.",
+      "performance": "His agreement comes after a restrained breath, suggesting a promise he knows will be difficult.",
+      "focus": "Keep his face and her closing hand readable, without a rack or new camera angle.",
+      "texture": "The folder remains where it was, an unaccepted alternative at the edge of the practical plan.",
+      "sound_detail": "His line is unhurried and low, with canvas movement audible after it ends.",
+      "rhythm": "The condition is stated once, then held through the map closure without another rehearsal."
+    },
+    {
+      "id": "37.5",
+      "intent": "Plant the later rescue signal through one ordinary object placement that can be recognized instantly.",
+      "composition": "Keep the same medium setup as the closed-map agreement, envelope within the existing table area.",
+      "blocking": "Mây demonstrates the flat placement once; Sơn does not copy it back as another performance.",
+      "performance": "She is precise rather than ritualistic, he watches with the attention of someone depending on her response.",
+      "focus": "Keep her release of the envelope visible, not a new close-up or slow-motion hand study.",
+      "texture": "The thin envelope lies flat on worn wood, without adding a symbol or readable mark.",
+      "sound_detail": "One paper contact punctuates the short instruction; existing ambience keeps the action natural.",
+      "rhythm": "Allow the placement to settle before the final words, then stop demonstrating and preserve the result."
+    },
+    {
+      "id": "37.6",
+      "intent": "Leave Sơn carrying only the preview and his own vulnerable body into the next phase.",
+      "composition": "Use the stable detail frame for his sound right hand, bandaged left side and separate folder.",
+      "blocking": "He takes the preview once, leaving Mây with the confession; no hidden weapon or extra paper changes hands.",
+      "performance": "The hand is controlled, not shaking for emphasis, while the bandage keeps cost visible.",
+      "focus": "Hold the actual handoff plane sharp, with faces outside the detail frame rather than forced in.",
+      "texture": "Used paper edges, bandage cloth and bare fingers distinguish him from the black-glove memory next.",
+      "sound_detail": "Small envelope lift and quiet cloth movement lead into the memory's rain, no new ticking.",
+      "rhythm": "End after the preview leaves the table so the following bare palms can answer its burden."
+    },
+    {
+      "id": "38.1",
+      "intent": "Make the remembered kindness believable enough that rejecting Bà Hai later will hurt.",
+      "composition": "Match the region of empty young palms into the wide awning view, young Bà Hai already sheltered.",
+      "blocking": "She offers entry, he moves only as far as cover, without inventing childhood or extra possessions.",
+      "performance": "He is hungry and wary, she practical and attentive rather than visibly plotting a future crime.",
+      "focus": "Keep palms and their relative shelter readable, no impossible morph between old and young faces.",
+      "texture": "Rain-dark cheap clothes and the dry awning establish the immediate value of what she gives.",
+      "sound_detail": "Rain remains outside the shelter, her invitation direct and unornamented beneath it.",
+      "rhythm": "Let him hesitate before accepting cover, giving the kindness a small real cost in trust."
+    },
+    {
+      "id": "38.2",
+      "intent": "Show the first permission to receive care before later gifts acquire obligations.",
+      "composition": "Keep the bowl and both young faces within the same medium table relation.",
+      "blocking": "She nudges the existing bowl nearer, withdraws her hands, he begins eating only afterward.",
+      "performance": "He watches for refusal before the first mouthful, while she lets him have the space.",
+      "focus": "Keep food and eyes readable without a sentimental insert of starving hands or oversized portions.",
+      "texture": "Steam and ordinary ceramic stand against the dry silk-shop interior and his damp sleeves.",
+      "sound_detail": "A bowl scrape and modest eating sounds play against rain, no warm sentimental music swell.",
+      "rhythm": "The wait before eating carries the change, then end after he accepts that she will not reclaim it."
+    },
+    {
+      "id": "38.3",
+      "intent": "Let useful teaching become a route into belonging before it hardens into control.",
+      "composition": "Match the familiar table composition across the stated time ellipsis, bowl replaced by folded silk.",
+      "blocking": "She guides one existing fold and directs his attention to the shop bell, not an entire training montage.",
+      "performance": "He is eager to do it correctly, she approving without the coldness the viewer now expects.",
+      "focus": "Keep fold and listening faces readable in the same medium plane, no internal cut to the bell.",
+      "texture": "Dry work cloth and tidier shirt placement mark time passed without changing their identities.",
+      "sound_detail": "Silk movement settles before the familiar instruction, bell only within its established shop context.",
+      "rhythm": "One fold becomes neat, one attention shift follows, allowing the lesson to sound ordinary then restrictive."
+    },
+    {
+      "id": "38.4",
+      "intent": "Reveal the gloves as a gift whose condition is spoken at the same moment.",
+      "composition": "Use the single detail setup for open glove box, her hands and his bare palms.",
+      "blocking": "She lays the pair across both palms once, he receives without putting them on yet.",
+      "performance": "His hands accept carefully, unaware of how the gesture will later be understood.",
+      "focus": "Keep both gloves accounted for and fingertips clear, with no age drift in the young hands.",
+      "texture": "New leather contrasts with the older teak desk, modest packaging rather than luxury gift staging.",
+      "sound_detail": "Soft leather and a box edge sound beneath her off-screen instruction, no ominous flourish.",
+      "rhythm": "Let the gift register first, then the assigned duty changes its meaning before the shot ends."
+    },
+    {
+      "id": "38.5",
+      "intent": "Make the cost of shelter emerge as a physical arrangement he cannot ignore.",
+      "composition": "Keep young Sơn at the rear door and Bà Hai at the desk in the medium setup.",
+      "blocking": "He notices the existing sleeping mat beyond the stockroom lock, without testing or opening a new door.",
+      "performance": "His expression shifts from wanting approval toward recognizing dependence, while she quietly watches.",
+      "focus": "Keep his eyeline to the lock understandable without an insert or camera move revealing another room.",
+      "texture": "Teak, stockroom iron and the simple mat belong to the same practical place she first welcomed him.",
+      "sound_detail": "Shop room tone continues under the older narrator, no lock slam or invented threat voice.",
+      "rhythm": "The realization should come after the look, with no speech added to explain his young expression."
+    },
+    {
+      "id": "38.6",
+      "intent": "Make the present hand capable of leaving the gift behind rather than reenacting the first acceptance.",
+      "composition": "Match to the existing folded pair in the cabin bag, bare older hands positioned beside it.",
+      "blocking": "He closes the zip once and leaves the bag on the bed, keeping hands ungloved.",
+      "performance": "The movement is calm but final, not a ceremonial rejection thrown at the memory.",
+      "focus": "Keep both gloves inside until the zip covers them, no spare pair or hand disappearing into a pocket.",
+      "texture": "Worn canvas and older leather replace the remembered new gift box under current-day light.",
+      "sound_detail": "Zipper sound finishes naturally, then cabin wind prepares the harbour cut.",
+      "rhythm": "Do not repeat the glove-folding from35.4; this shot closes the bag on a settled choice."
+    },
+    {
+      "id": "39.1",
+      "intent": "Give viewers enough geography to anticipate where protection ends and escape might begin.",
+      "composition": "Use the full harbour width with market landward and uphill service path west in the same view.",
+      "blocking": "Mây checks the junction while Thành reaches his roof post, each following a different established route.",
+      "performance": "Their work is focused rather than triumphant; no one gestures as if giving an audience tour.",
+      "focus": "Keep routes and distances legible through depth instead of cutting to map fragments.",
+      "texture": "Concrete apron, boat ropes and low market structures form a finite recognizable arena.",
+      "sound_detail": "Sea and work sounds persist without crowd noise, since evacuation is already underway.",
+      "rhythm": "Read the layout before concentrating on individuals, making later movement a consequence of this place."
+    },
+    {
+      "id": "39.2",
+      "intent": "Make the rescue route feel real by showing what must remain unobstructed.",
+      "composition": "Frame the van behind cover and the lane to clinic with Mây, Bảy and Linh inside that relation.",
+      "blocking": "Mây confirms the clear stretcher path, then leaves them protected rather than pulling them toward the pier.",
+      "performance": "Her instruction carries care for their limits; they respond through readiness, not spoken heroics.",
+      "focus": "Keep rear-door opening and route width visible, no repeated inventory of the medical bag.",
+      "texture": "Wall shadow, clean mattress edge and ordinary van metal distinguish this space from the exposed apron.",
+      "sound_detail": "Her line passes over quiet van and distant harbour sound, no clinical monitor anticipation.",
+      "rhythm": "The route is checked once, ending as Mây heads back and the support team stays where needed."
+    },
+    {
+      "id": "39.3",
+      "intent": "Show what Thành can verify while leaving the exchange itself outside his control.",
+      "composition": "Use his established observation side with both road officers and the empty public pier below.",
+      "blocking": "He checks each approach once and reports the cleared civilian area without scanning theatrically everywhere.",
+      "performance": "He speaks with regained steadiness, repaired glasses still a reminder of yesterday's limits.",
+      "focus": "Keep the roads readable rather than manufacturing sharp tiny faces through impossible binocular reflections.",
+      "texture": "Wind on roof metal and taped frames connect this post to the earlier preparation.",
+      "sound_detail": "Radio confirmation is brief, with wind remaining at its existing level rather than dropping for suspense.",
+      "rhythm": "Finish his check and let the empty pier hold the unease of a place waiting for people."
+    },
+    {
+      "id": "39.4",
+      "intent": "Place Sơn as a willing exposed participant, not a returning gunfighter.",
+      "composition": "Track along his established entry from market side, keeping sea behind and retreat landward.",
+      "blocking": "He carries the copy in his right hand, reaches the painted seam and stops once.",
+      "performance": "He steadies himself without presenting the bandage as weakness to the unseen parties.",
+      "focus": "Keep the seam and both approach directions readable, avoiding an orbit that reverses the arena.",
+      "texture": "Black suit against plain concrete shows how visible he has chosen to become.",
+      "sound_detail": "Measured footsteps and envelope cloth contact sit over rope and sea ambience.",
+      "rhythm": "The walk is uninterrupted, ending on the agreed position so it is not repeated when cars arrive."
+    },
+    {
+      "id": "39.5",
+      "intent": "Let the quiet check of his ally expose dependence beneath outward composure.",
+      "composition": "Keep close on Sơn from the established landward camera side, both hands fitting the lower frame.",
+      "blocking": "He looks once toward Mây's covered place and supports the left wrist without a new prop.",
+      "performance": "His relief at her presence is smaller than a smile, followed by renewed attention to the road.",
+      "focus": "Hold his eyes, with the bandage readable but not isolated by a rack or cut.",
+      "texture": "Coastal wind moves the same black jacket, skin texture remains natural in the fading light.",
+      "sound_detail": "Breath and existing harbour bed are sufficient, no stopped-watch ticking or heartbeat added.",
+      "rhythm": "One look away, one return ahead, leaving him ready rather than looping anxious glances."
+    },
+    {
+      "id": "39.6",
+      "intent": "Make incoming threat audible before the visible arena fills with the two sides.",
+      "composition": "Hold the wide harbour setup with Sơn in the established place and both roads readable.",
+      "blocking": "Headlights enter their respective roads toward the junction, neither vehicle parking yet.",
+      "performance": "Sơn stays where he chose to stand, attention dividing without frantic head movement.",
+      "focus": "Keep both approaches readable at once; do not cut between headlights or move into a drone view.",
+      "texture": "Last daylight still defines concrete edges while headlights gain contrast, not full night instantly.",
+      "sound_detail": "Two distinct but ordinary engines rise from their actual directions, without racing or tire squeals.",
+      "rhythm": "Let sound create expectation, headlights answer it, and parking remain entirely for the next scene."
+    },
+    {
+      "id": "40.1",
+      "intent": "Let Bà Hai arrive inside geography already understood rather than restage her authority.",
+      "composition": "Keep the east apron, black car and Sơn on the seam in the wide landward frame.",
+      "blocking": "The black car parks once, Bà Hai exits with Dũng beside that vehicle, staying east.",
+      "performance": "Her composure is maintained against the open exposure, Dũng scanning rather than strutting forward.",
+      "focus": "Keep their position relative to Sơn clear, with no fresh close-up introduction of bracelet or face.",
+      "texture": "Low sun catches violet silk against dark paint, while existing concrete seam anchors the distance.",
+      "sound_detail": "One engine settles to idle and one door movement, no repeated approach sound from39.6.",
+      "rhythm": "Complete parking and emergence economically; end before either party advances toward the exchange point."
+    },
+    {
+      "id": "40.2",
+      "intent": "Make the price of Hạ's visibility appear with the opening of one ordinary car door.",
+      "composition": "Keep the west car and black car already parked behind it, preserving the opposite positions.",
+      "blocking": "Kiên opens the rear door with his right hand, leaving Hạ seated until her next action.",
+      "performance": "His line sounds transactional, while she watches the available space rather than awaiting a cue from him.",
+      "focus": "Keep door opening and her seated silhouette legible without an internal face insert.",
+      "texture": "White paint, grey seat and the shadow inside the car contrast with the exposed apron.",
+      "sound_detail": "Engine idles without restarting, door seal releases once, his sentence remains unhurried.",
+      "rhythm": "The opening reveals the person before his demand tries to reduce her to a delivery."
+    },
+    {
+      "id": "40.3",
+      "intent": "Give Hạ the first self-directed movement in the exchange and make its direction useful.",
+      "composition": "Use the medium frame from the established landward side, car threshold and safe lane related.",
+      "blocking": "She places both thin-sandaled feet on concrete and stands by herself, Kiên staying at her left.",
+      "performance": "She gathers breath without collapsing, reading the route she may need rather than looking only at Sơn.",
+      "focus": "Keep eyes and door handle region readable; no close detail of bare feet replacing her decision.",
+      "texture": "Grey dress catches wind after leaving the protected car interior, sandals stay consistent.",
+      "sound_detail": "A small sandal contact and cloth movement register under the ongoing engine bed.",
+      "rhythm": "Let stepping out finish once, then the held look toward land becomes the new information."
+    },
+    {
+      "id": "40.4",
+      "intent": "Turn the separate arrivals into an unequal negotiation whose geometry viewers can track.",
+      "composition": "Hold all five main positions, sea behind and open landward lane, within one wide setup.",
+      "blocking": "The leaders advance only a few steps and stop on opposite sides, with Kiên keeping Hạ west.",
+      "performance": "Bà Hai's line sounds like a criticism of handling property, revealing her own assumption as well.",
+      "focus": "Keep east and west identities readable through costume and spacing, not facial close-ups inside this take.",
+      "texture": "Violet, white, grey and black clothing divide the plain concrete without extra colored lighting.",
+      "sound_detail": "Her voice carries over the same idling engines and ropes, no second establishing music cue.",
+      "rhythm": "Let the advance conclude before the line lands, ending on stable positions ready for changed terms."
+    },
+    {
+      "id": "40.5",
+      "intent": "Make Sơn ask for a verifiable release rather than simply trust another promise.",
+      "composition": "Frame him opposite Kiên and Hạ, with the marked safe line clearly connected to his gesture.",
+      "blocking": "Right hand keeps the preview low; the bandaged empty left hand indicates the line with a modest movement.",
+      "performance": "He asks firmly without stretching injured fingers into a heroic pose or appealing to the crowd.",
+      "focus": "Keep his face, left bandage and requested destination readable in the same medium setup.",
+      "texture": "Thin envelope stays distinct from the absent original books and any confession folder.",
+      "sound_detail": "His short instruction sits above engines, with no added gasp or unseen officer response.",
+      "rhythm": "Make the condition simple enough to judge, then leave the waiting space after it for their answer."
+    },
+    {
+      "id": "40.6",
+      "intent": "End on Hạ testing a possible escape rather than waiting for the men to settle ownership.",
+      "composition": "Keep a tight view of her face and left upper arm, Kiên's right-hand grip visible at the edge.",
+      "blocking": "A small landward weight shift reaches her left shoulder, testing his hold without a second camera move.",
+      "performance": "Her eyes calculate, breath controlled; Kiên's pressure answers without a graphic squeeze or new threat.",
+      "focus": "Hold her eyes and the existing grip sufficiently readable, not a rack down to an unseen sandal.",
+      "texture": "Grey sleeve and his white cuff mark whose hand holds whom, with wind moving the loose hair.",
+      "sound_detail": "Only cloth, breathing and established engines remain; do not add dialogue to explain the attempt.",
+      "rhythm": "Let the shift be slight but unmistakable, ending with her landward intent still blocked."
+    }
+  ],
+  "story_fixes": [
+    {
+      "id": "21.3",
+      "problem_vi": "Bộ vest còn nằm trên đùi ở21.2 nhưng21.3 đóng túi mà chưa trả quần áo vào, dễ làm mất vật giữa cú máy nối.",
+      "proposed_fix_vi": "Trả bộ vest và găng gấp sẵn vào túi trước khi đóng, giữ nguyên điểm đầu và cuối.",
+      "patch": {
+        "action": "Sơn returns the folded suit and gloves from his knees into the open bag, closes it and speaks about his first employer without a full flashback."
+      }
+    },
+    {
+      "id": "23.3",
+      "problem_vi": "Cú C nối trực tiếp từ gương mặt Sơn ở23.2 nhưng câu của Bà Hai lại yêu cầu khẩu hình trong hình.",
+      "proposed_fix_vi": "Giữ máy trên người nghe, đổi giọng Bà Hai sang ngoài khung; sức nặng nằm ở Sơn tiếp nhận câu bán Hạ.",
+      "patch": {
+        "dialogue": [
+          {
+            "speaker": "HAINGOC",
+            "mode": "off",
+            "text": "Má không giết. Má bán."
+          }
+        ]
+      }
+    },
+    {
+      "id": "29.2",
+      "problem_vi": "Ý đồ cảnh nói Thành bảo vệ dân, nhưng hành động đang chỉ cho thấy cậu nhìn cửa sau khi đã bị trói.",
+      "proposed_fix_vi": "Cho tư thế ngồi bị giữ của Thành thực sự che hướng nhìn của Dũng, bảo vệ lối thoát mà không thêm đánh nhau.",
+      "patch": {
+        "action": "Dũng demands the ledger while tied Thành keeps his seated body angled between Dũng and the civilian rear-door gap, protecting the exit with his position."
+      }
+    },
+    {
+      "id": "32.3",
+      "problem_vi": "Một đồng hồ đếm xuất hiện để bị gạt đi dù kế hiện tại không còn mẹo38/40 phút, tạo cảm giác đang giải thích lại bản cũ.",
+      "proposed_fix_vi": "Bỏ đạo cụ timer, gạch một ước lượng hồi phục trên bản phác kế hoạch đã có để Linh bác sự chắc chắn bằng hành động nhỏ.",
+      "patch": {
+        "action": "Linh rejects any guaranteed waking time, Mây crosses out the tentative recovery estimate on the existing tactical sketch, and Sơn accepts the uncertainty.",
+        "end_frame": "Sơn nodding, Mây with the crossed-out recovery estimate on the tactical sketch, route plan still available."
+      }
+    },
+    {
+      "id": "34.2",
+      "problem_vi": "Điểm đầu đã bày toàn bộ sổ và phần cứng trên bàn nhưng hành động lại mang chúng tới thêm lần nữa; quá nhiều thao tác trong10 giây.",
+      "proposed_fix_vi": "Đầu clip phân nhóm đồ ở túi Mây và cạnh Sơn, chỉ thực hiện một lần gom-niêm phong các bản gốc.",
+      "patch": {
+        "start_frame": "Mây opened evidence satchel beside the cabin table contains the black ledger and original USB, while red ledger and hardware token are beside Sơn.",
+        "action": "Mây lays out black ledger and original USB as Sơn brings red ledger and token alongside them, then they seal the originals together and leave only the preview envelope apart."
+      }
+    },
+    {
+      "id": "35.2",
+      "problem_vi": "Đỗ xe, dỡ thùng và lắp cả chỗ cứu hộ trong một clip10 giây dễ sinh montage hoặc tua vội.",
+      "proposed_fix_vi": "Bắt đầu khi xe đã đỗ và phần lớn chuẩn bị đã xong, chỉ dỡ thùng cuối và cố định nệm, giữ nguyên điểm kết.",
+      "patch": {
+        "start_frame": "Bảy van already parked beyond the market wall, rear space mostly cleared, one final empty crate near the clean mattress and Linh beside the open door.",
+        "action": "Bảy removes the last empty crate while Linh secures the already-positioned clean mattress and existing medical bag, leaving the stretcher approach clear."
+      }
+    },
+    {
+      "id": "36.5",
+      "problem_vi": "Đòi ký nhận tội còn chung chung và dễ bị hiểu là chữ ký sẽ làm biến mất chứng cứ độc lập đã gửi điều tra.",
+      "proposed_fix_vi": "Làm rõ Kiên muốn biến Sơn và Bà Hai thành người nhận hết trách nhiệm, qua một câu ngắn có ý riêng của phản diện.",
+      "patch": {
+        "action": "Kiên leaves a confession blaming Sơn and Bà Hai alone, trying to turn Sơn into the disposable witness who excludes him from the account.",
+        "dialogue": [
+          {
+            "speaker": "KIEN",
+            "mode": "on",
+            "text": "Ký anh với bà ta làm. Đừng kéo tôi vào."
+          }
+        ]
+      }
+    },
+    {
+      "id": "40.6",
+      "problem_vi": "CameraC đang cần đọc mặt Hạ và bàn tay giữ cánh tay nhưng điểm cuối lại yêu cầu thấy hướng bàn chân, dễ ép máy tự cắt hoặc tilt.",
+      "proposed_fix_vi": "Giữ close-up, chuyển thử đường thoát sang đổi trọng tâm nhẹ hiện lên vai và ánh nhìn; Kiên tay PHẢI giữ bắp tay TRÁI Hạ, tay trái chưa lộ.",
+      "patch": {
+        "action": "Hạ makes a small landward weight shift that turns her left shoulder, testing Kiên right-hand grip on her LEFT upper arm without a sudden pull.",
+        "end_frame": "Hạ eyes and left shoulder angled landward, Kiên RIGHT hand still controlling her LEFT upper arm at the frame edge."
+      }
+    }
+  ]
+}

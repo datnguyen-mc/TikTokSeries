@@ -1,28 +1,62 @@
-Continue the scene seamlessly from the final frame of clip 2, which is the first frame of this clip. Same characters, outfits, props, lighting, and 16:9 cinematic widescreen framing. Flawless continuity with zero jump cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
-@HaiNgoc = BÀ HAI NGỌC: 60, silver bun, powdered calm face, jade bracelet on her LEFT wrist, black unlit holder, violet silk áo bà ba; soft, slow, sweet Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, violet silk áo bà ba, black trousers, embroidered slippers, unlit black holder. Voice: soft, slow Southern Vietnamese female voice with precise diction.
 
-[SETTING]
-FISHING HARBOUR: the concrete pier of Hòn Sóng, wooden boats knocking, nets, ice crates, a single lamp post, sunset or night, the lighthouse cliff beyond.
-Story setting: Cầu cảng, đêm, đèn trắng, công an tỉnh, ghế đá cột đèn.
-Scene 49/60, timecode 48:00 – 49:00, clip 3/6 (20–30s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | Steady 50mm medium shot establishing the tension — Máy ở nguyên chỗ, hành động đi tiếp: Bà đưa hai cổ tay; cột đèn soi mặt nước đen.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — vòng ngọc cản còng. Thoại khớp môi, người nghe ở nửa khung còn lại: Bà Hai Ngọc (@HaiNgoc): "Nó là con má nuôi. Má cũng bán nó." · Mây (@May): "Tôi biết. Nó kể."
-00:07.0–00:10.0 | Slow 85mm close-up on the hand and face — bà tự tháo vòng ngọc, đặt lên ghế đá. Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
+[TIMELINE AND LOCATION]
+Scene 49/60, clip 3/6; shot 49.3. Story time: D7 night simultaneous with the climb.
+Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Same night simultaneously, steady harbour floodlight on the stone bench.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Reduce the symbol of ownership to an object that no longer protects its owner.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 49.2, ending with Dũng facing the road again, Bà Hai looking at her bracelet.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Jade bracelet on Bà Hai's left wrist.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Lock the detail on her LEFT wrist and the same bench surface beside the unlit holder.
+Focus: Keep bracelet, fingertips and holder in a plausible common plane without ornate reflections or inscriptions.
+
+[ACTION — 0–10s, one evolving take]
+She removes it deliberately and places it beside the unlit holder.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Let the fingers leave the object fully, ending on the two ordinary objects and empty wrists.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She removes the jade bracelet once and puts it down, keeping both bare wrists visible afterward.
+Performance: Hands are deliberate rather than trembling theatrically; hesitation may appear before the final release.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Jade keeps its existing colour and wear, violet cuff stays the same, no duplicate bracelet appears.
+
 
 [SOUND]
-Âm thanh nền: sóng vỗ trụ bê tông, hải âu; dây đàn căng một nốt. Nền nhỏ hơn giọng người.
+Location bed: boat ropes, small waves and engines only when visible.
+Foreground sound: A restrained jade-on-stone contact is enough; do not add a ceremonial chime or score swell.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Bà tự tháo vòng ngọc, đặt lên ghế đá. Hold that exact frame still for 0.5s; clip 4 starts from it.
+[END FRAME — natural motion continues]
+Bracelet and holder together on stone, both wrists bare.
+Next shot 49.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

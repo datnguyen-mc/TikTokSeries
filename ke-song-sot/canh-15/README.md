@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 15: Quá Khứ: Hạ Kể Về Biển
+# Kẻ Sống Sót: Bóng Ma — Cảnh 15: Quá Khứ: Đường Về
 
-**Cảnh 15/60** · Phút 14:00 – 15:00 của phim · Hồi 1: Bảy Ngày · Tập 2/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 14](../canh-14/README.md) | [Cảnh 16 →](../canh-16/README.md)
+Phút 14:00–15:00 · Thời gian truyện: PAST one month earlier evening
 
----
+Hạ gieo kiến thức hải đăng và mục tiêu mở sạp hoa.
 
-## 1. Tóm tắt cảnh
-Quá khứ: Sơn và Hạ đi dọc bến cảng thành phố, cô cầm một bông ly, khăn xanh bay; đây là lần duy nhất anh đi với cô ngoài tiệm hoa. Cô nói về cô bạn học tên Mây hay trèo lên hải đăng với cô, giờ làm công an thị trấn; cô cười. Nhịp chậm: hai người đứng dưới đèn bến, tàu rú còi xa; mờ dần. Cắt về hiện tại trong một giây: hiên nhà gỗ, Mây cầm đồng hồ.
+**Câu hỏi đang mở:** Hạ thật sự muốn cùng Sơn đi đâu nếu anh không còn làm nghề?
+**Móc vào cảnh:** Ở bến xa quê, cô tả cửa về chứ không kể định mệnh.
+**Điểm bẻ:** Cô nói một đời sống cụ thể và chủ động kéo anh khỏi hướng chuyến tàu.
+**Gieo / trả:** Cửa kỹ thuật và đèn dự phòng gieo hữu cơ qua nghề của cha, trả ở 45–51.
 
-* **Bối cảnh chính:** Quá khứ, bến cảng thành phố, đêm ám vàng, tàu khách, gió.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Hạ (@Ha)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Hạ walking along the city pier, Sơn beside her. | She stops at a ferry's distant light and names her home town. | Both facing the water, ferry light far beyond. | Hạ (@Ha), nói trong hình: Hòn Sóng. Nhà em ở đó. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Hạ drawing a round tower in condensation on a railing panel. | She sketches a small maintenance hatch below the gallery. | Her fingertip at the hatch sketch, Sơn watching. | Hạ (@Ha), nói trong hình: Ba em giữ đèn. Em thuộc từng cửa. |
+| [3](clip-3.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Her fingertip at the hatch sketch, Sơn watching. | Sơn asks about the sea, she points to the town in an old photo. | Old lighthouse photo held between them, maintenance hatch visible. | Hạ (@Ha), nói trong hình: Mất điện vẫn có đèn dự phòng. |
+| [4](clip-4.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Old lighthouse photo held between them, maintenance hatch visible. | Hạ puts the photograph away and names the life she wants. | Her empty hands resting on the rail, Sơn beside her. | Hạ (@Ha), nói trong hình: Em muốn mở sạp hoa cạnh chợ cá. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Hạ with her pale-blue scarf loose at her neck. | Wind lifts one end, Sơn catches it before it touches dirty water. | Scarf back in Hạ's hand, his gloved hand released. | — |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | The two standing at the pier rail, a ship horn beginning. | Hạ starts walking back, Sơn chooses to follow her instead of the ferry. | Both leaving left to right, open water behind. | Sơn (@Son), nói trong hình: Bạn em còn giữ chỗ đó không? |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Quá khứ: Sơn và Hạ đi dọc bến cảng thành phố, cô cầm một bông ly, khăn xanh bay; đây là lần duy nhất anh đi với cô ngoài tiệm hoa.** | Hạ: "Lần đầu anh ra khỏi tiệm với em." · Sơn: "Lần đầu anh đi dạo." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Hạ kể: thị trấn biển nhỏ, một con đường, cảng cá, hải đăng cũ ba cô gác hai mươi năm; cô bỏ đi vì nghĩ thành phố lớn hơn biển.** | Hạ: "Hòn Sóng. Một con đường. Ba em gác hải đăng." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Cô nói về cô bạn học tên Mây hay trèo lên hải đăng với cô, giờ làm công an thị trấn; cô cười.** | Hạ: "Bạn em làm công an ở đó." · Hạ: "Nó mà thấy anh, nó hỏi ba lần." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Sơn hỏi tại sao cô kể cho anh; Hạ dừng lại, quay mặt vào anh dưới đèn bến.** | Hạ: "Để anh biết đường về khi em không còn dẫn." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Hạ tháo khăn lụa xanh quấn vào cổ anh, buộc nút; Sơn đứng yên như người chưa từng được ai buộc gì.** | Hạ: "Xanh này là màu biển buổi sáng." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Nhịp chậm: hai người đứng dưới đèn bến, tàu rú còi xa; mờ dần. Cắt về hiện tại trong một giây: hiên nhà gỗ, Mây cầm đồng hồ.** | Sơn (Voice-over): "Cô ấy dẫn tôi về đây trước khi tôi kịp đồng ý." | Frames / Extend (nối liền) |
+- **1:** Let Hạ introduce her own home as a desired future, not simply information Sơn will later use. **Diễn xuất:** Her tone warms at the name, while his attention turns from the ferry toward her face.
+- **2:** Make knowledge of the lighthouse arise from a child's familiarity with a parent's work. **Diễn xuất:** Her ease should be affectionate and slightly amused at the specificity; he listens without treating it as tactical briefing.
+- **3:** Give the memory a real family object while keeping the future rescue knowledge secondary to intimacy. **Diễn xuất:** She speaks from familiarity, not as if foreshadowing danger; his quiet attention shows respect for her ordinary history.
+- **4:** Let Hạ name a life she wants for herself, giving her more than a role as Sơn's escape fantasy. **Diễn xuất:** Her wish sounds modest and practical, with a small trace of pleasure at describing it aloud.
+- **5:** Make a small protective reflex intimate without confusing it with ownership of the scarf. **Diễn xuất:** He is gentle without lingering possession, and her brief look acknowledges care rather than helplessness.
+- **6:** End the memory on Sơn following a person's chosen direction instead of the working route in front of him. **Diễn xuất:** His question should carry tentative interest in belonging, not a polished romantic line; she need not add a reply.
 
----
+**Âm nối sang cảnh sau:** Retain the city ferry horn briefly over the coastal lighthouse entrance, then change to local wind.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

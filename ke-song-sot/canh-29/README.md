@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 29: Thị Trấn Bị Chiếm
+# Kẻ Sống Sót: Bóng Ma — Cảnh 29: Cái Giá Của Chuyến Đi
 
-**Cảnh 29/60** · Phút 28:00 – 29:00 của phim · Hồi 2: Thuốc Tê · Tập 3/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 28](../canh-28/README.md) | [Cảnh 30 →](../canh-30/README.md)
+Phút 28:00–29:00 · Thời gian truyện: D6 morning
 
----
+Thành bảo vệ dân rồi bị giữ, Sơn kéo Dũng khỏi con tin.
 
-## 1. Tóm tắt cảnh
-Sơn và Mây xuống đồi vào thị trấn: đường chính vắng, cửa tiệm đóng, hai xe đen trước quán ông Bảy, Rắn Đen ngồi uống cà phê của ông Bảy như chủ. Mây muốn đi thẳng vào; Sơn giữ tay: sáu tên, một con tin, một ông già; cô là người giữ luật, anh là người Rắn Đen muốn. Sơn quay lưng đi vào chợ cá; Dũng ra hiệu, bọn đàn em đi theo; Mây lẻn vào quán cởi trói cho Thành qua cửa sau.
+**Câu hỏi đang mở:** Mây có cứu Thành mà không kéo dân vào thế đối đầu không?
+**Móc vào cảnh:** Cảnh chắn tuần tra hỏng báo ngay rằng sự bảo vệ đã bị xuyên thủng.
+**Điểm bẻ:** Sơn tự làm mồi để Mây mở đường sau, lựa chọn ở lại bắt đầu có giá.
+**Gieo / trả:** Thành bảo vệ lối dân trong khi bị giữ, không chỉ chờ người cứu.
 
-* **Bối cảnh chính:** Hòn Sóng, sáng ngày 6, quán bờ kè bị chiếm, xe đen, dân thị trấn đóng cửa.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Dũng Đinh (@Dũng), Phó Thành (@Phó Thành), Ông Bảy (@Ông Bảy)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | OPEN · Cắt thiết lập thời gian/không gian | Mây and Sơn at the upper road, black car near the coffee stall. | They see a patrol barricade damaged and choose the side lane. | Both concealed behind the side-lane wall, view of the stall clear. | — |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Thành seated with tied wrists, Bảy held behind the counter. | Dũng demands the ledger while tied Thành keeps his seated body angled between Dũng and the civilian rear-door gap, protecting the exit with his position. | Thành watching the rear door, Dũng facing the road. | Dũng (@Dũng), nói trong hình: Sổ đâu? Đừng bắt tao hỏi ông già. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn and Mây behind the wall, Sơn looking at the rear stall door. | They divide tasks: Sơn draws Dũng away, Mây reaches Thành from behind. | Mây taking the side lane, Sơn stepping toward the road. | Sơn (@Son), nói trong hình: Tôi kéo hắn ra. Cô đưa Thành đi. |
+| [4](clip-4.md) | L · L-cut: âm cũ đi qua cú cắt | Sơn visible in the road, Dũng at the stall threshold. | Sơn calls him and moves toward the market entrance without exposing a weapon. | Dũng following Sơn, stall entrance momentarily clear. | Sơn (@Son), nói trong hình: Dũng. Muốn sổ thì theo tao. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây entering the stall from the rear, Bảy by Thành's chair. | She cuts Thành's ties while Bảy opens the civilian exit. | Thành free, Bảy ushering two unnamed civilians out back. | Mây (@May), nói trong hình: Đưa dân ra. Không đuổi theo hắn. |
+| [6](clip-6.md) | J · J-cut: âm mới đến trước hình | Sơn already at the market entrance, Dũng several paces behind. | Sơn ducks into a narrow aisle as a cart blocks Dũng's direct line. | Sơn beyond the cart, Dũng forced to go around. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Sơn và Mây xuống đồi vào thị trấn: đường chính vắng, cửa tiệm đóng, hai xe đen trước quán ông Bảy, Rắn Đen ngồi uống cà phê của ông Bảy như chủ.** | Mây: "Tụi nó lấy quán ông Bảy làm trạm." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Trong quán: Dũng Đinh ngồi ghế ông Bảy, cổ tay còn vết còng; Phó Thành bị trói ngồi góc, kính gãy một gọng; ông Bảy vẫn lau ly, mặt lạnh.** | Dũng: "Ông già pha cà phê ngon. Giữ ông lại." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây muốn đi thẳng vào; Sơn giữ tay: sáu tên, một con tin, một ông già; cô là người giữ luật, anh là người Rắn Đen muốn.** | Mây: "Thành là người của tôi." · Sơn: "Thì để tôi là người của tụi nó." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Sơn đi ra giữa đường chính, không mũ, dây đồng hồ lắc, đứng cách quán hai mươi mét, hai tay trống.** | Sơn: "Dũng. Tao ở biển. Như tao hứa." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Dũng bước ra, sáu tên theo, dàn hàng trên đường; dân thị trấn hé cửa; ông Bảy đứng ở cửa quán.** | Dũng: "Sổ đâu?" · Sơn: "Trong chợ cá. Tới lấy." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Sơn quay lưng đi vào chợ cá; Dũng ra hiệu, bọn đàn em đi theo; Mây lẻn vào quán cởi trói cho Thành qua cửa sau.** | Sơn (Voice-over): "Chợ cá có nhiều lối. Và có cả thị trấn." | Frames / Extend (nối liền) |
+- **1:** Make prior protection visibly breached before the rescue requires another promise of competence. **Diễn xuất:** Her recognition of the failure is controlled and immediate, not disbelief frozen for effect.
+- **2:** Give Thành something active to protect even while he has lost physical freedom. **Diễn xuất:** Fear shows in his breathing, but his eyes keep checking the useful exit rather than begging.
+- **3:** Make the plan a division of responsibility shaped by who is actually in danger. **Diễn xuất:** He offers himself as distraction without swagger, she accepts the useful role rather than his authority.
+- **4:** Turn Sơn's visibility into bait that opens space for someone else rather than a heroic confrontation. **Diễn xuất:** His certainty is deliberate performance for Dũng, while his hands stay genuinely empty.
+- **5:** Pay off the lure with released people, not another round of threats. **Diễn xuất:** Thành regains breath and attention before standing, while Mây keeps him on the evacuation task.
+- **6:** Let the market layout change the terms of pursuit before anyone throws another blow. **Diễn xuất:** He keeps moving instead of waiting for Dũng's reaction; Dũng must reassess rather than teleport around it.
 
----
+**Âm nối sang cảnh sau:** Keep pursuing footsteps and cut past the entry cart into the aisle. Do not perform the cart obstruction twice.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

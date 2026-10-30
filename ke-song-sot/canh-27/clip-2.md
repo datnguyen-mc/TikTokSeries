@@ -1,31 +1,65 @@
-Continue the scene seamlessly from the final frame of clip 1, matching position, light and 16:9 framing exactly, as one unbroken take.
-10-second clip, 16:9 (2.39:1 anamorphic), photorealistic live-action Vietnamese neo-noir drama. 24fps, 90-degree shutter, sharp motion, no smear. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Southern Vietnamese dialogue with accurate lip-sync, voice-over allowed. No subtitles, no on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN in the past: 45, cropped greying hair, scar across the bridge of his nose, black suit no tie, white shirt, black leather gloves; low, dry Southern male voice.
-@Ha = HẠ: 32, pale tired face, long loose hair, no scarf, plain grey cotton dress; soft, warm Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear Southern Vietnamese female voice.
 
-[CHARACTER ENTERING THIS SEGMENT — match attached reference image]
-@Ha = HẠ held in a locked room (32): a real Vietnamese woman, about 162 cm tall, slim, gentle face now pale and tired, long black hair loose, no scarf, in a plain grey cotton dress, barefoot or in thin sandals, unharmed. Voice: soft, warm, clear Southern Vietnamese female voice.
 
-[SETTING]
-RIVER AT DUSK: a wide brown river at the edge of the city, a small wooden boat, mangroves, factory chimneys behind, orange dusk.
-Story setting: Ghe trên sông ra cửa biển, chiều ngày 5, hoàng hôn cam, đước hai bên.
-Scene 27/60, timecode 26:00 – 27:00, clip 2/6 (10–20s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
+[TIMELINE AND LOCATION]
+Scene 27/60, clip 2/6; shot 27.2. Story time: D5 dusk.
+Inside the received phone video ONLY, plain bright room with small vent fan and blurred ferry emblem outside the window.
+Present-day dusk on river, muted sunset outside, neutral bright room only inside the received video.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm medium-wide framing the figures in the room — Từ đúng khung dừng của clip trước: Màn hình: Hạ (@Ha), tóc xõa, váy xám, ngồi trong một căn phòng sáng, không khăn; đước hai bên mũi ghe.
-00:03.5–00:07.0 | 35mm medium shot framing the interaction clearly — cô nhìn vào ống kính. Giọng qua máy, méo nhẹ, không cần khẩu hình: Hạ (@Ha) (video): "Sơn (@Son). Em còn đây."
-00:07.0–00:10.0 | Static 28mm wide, the stillness after — nói tên anh một lần. Nửa giây tĩnh ở khung cuối làm điểm nối cho clip 3.
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Let Hạ use the forced recording as an opportunity to send her own information.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 27.1, ending with Phone angled between both travelers, boat idling in open water.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Hạ alone in a plain bright room, camera at her eye level.
+
+[CAMERA]
+85mm close-up at eye level, restrained natural depth of field. No orbit or chase movement.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Frame her face with the existing vent beside it, clip close enough to share attention.
+Focus: Keep her eyes readable and the ferry emblem recognizable as a simple shape, not text.
+
+[ACTION — 0–10s, one evolving take]
+She says Sơn's name and deliberately turns her hair clip toward the ventilation window.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Deliver the name first, then the deliberate clip gesture, holding its result long enough to notice.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She turns the silver clip toward the window deliberately, without a broad pointing performance.
+Performance: She speaks evenly for whoever holds the camera, then lets her eyes briefly indicate the clue.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Hạ (@Ha), nói trong hình: Sơn. Em còn đây.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+Plain room surfaces and fan light make confinement banal rather than stylized torture imagery.
+
 
 [SOUND]
-Âm thanh nền: máy ghe nổ đều, nước rẽ; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: low fan hum with compressed phone audio.
+Foreground sound: Her voice carries slight phone compression over the low fan hum, no thriller score.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Cô nhìn vào ống kính, nói tên anh một lần for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Silver clip held beside a small fan with a ferry emblem beyond it.
+Next shot 27.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

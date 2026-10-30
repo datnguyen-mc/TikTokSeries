@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 9: Hai Người Lạ
+# Kẻ Sống Sót: Bóng Ma — Cảnh 09: Hai Người Lạ
 
-**Cảnh 9/60** · Phút 08:00 – 09:00 của phim · Hồi 1: Bảy Ngày · Tập 1/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 08](../canh-08/README.md) | [Cảnh 10 →](../canh-10/README.md)
+Phút 08:00–09:00 · Thời gian truyện: D2 afternoon
 
----
+Bảy và Thành tạo mạng quan sát, kẻ truy tìm để lại dấu.
 
-## 1. Tóm tắt cảnh
-Xe hơi đen bụi đường dừng trước quán bờ kè; hai người đàn ông áo đen bước xuống, tai nghe, hỏi ông Bảy, giơ ảnh Sơn chụp lén. Trong chợ cá, Sơn đứng sau sạp mực, mũ vải, nhìn hai người áo đen qua khe thúng; tay anh chạm hộp thiếc trong túi áo. Ở đồn, Thành đưa Mây biển số và tấm ảnh ông Bảy gửi; Mây nhìn ảnh Sơn chụp lén trong thành phố, vest đen, găng da.
+**Câu hỏi đang mở:** Bảy che được Sơn bao lâu trước khi người lạ hiểu thị trấn này?
+**Móc vào cảnh:** Hai người tìm cùng một sẹo, Bảy vẫn giữ nhịp lau quán.
+**Điểm bẻ:** Lời hỏi người trở thành manh mối về tuyến vận chuyển.
+**Gieo / trả:** Vòng tay công ty, biển số và danh thiếp hợp thành ba nguồn đối chiếu thay vì đoán.
 
-* **Bối cảnh chính:** Thị trấn Hòn Sóng, chiều ngày 2, chợ cá, quán ông Bảy.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Phó Thành (@Phó Thành), Ông Bảy (@Ông Bảy)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | OPEN · Cắt thiết lập thời gian/không gian | A black car parking outside Bảy's stall. | Two unnamed men step out and display Sơn's surveillance photograph. | Photograph extended toward Bảy, car door left open. | Người trong cảnh, nói trong hình: Chú thấy người này không? |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Bảy behind the counter studying the offered photograph. | He gives a vague answer while sliding his phone below the counter. | Phone hidden beneath the counter, Bảy still holding the photo. | Ông Bảy (@Ông Bảy), nói trong hình: Ở đây người giống người nhiều lắm. |
+| [3](clip-3.md) | L · L-cut: âm cũ đi qua cú cắt | Sơn behind a fish stall with a clear view of the black car. | He notices one man's dock-worker wristband and stays out of sight. | Wristband visible through a gap, Sơn concealed behind a crate. | — |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Thành beside his parked motorcycle, notebook partly hidden. | He records the plate and the same dock-company emblem. | Plate sketch and company emblem on separate notebook lines. | — |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | The two men returning to their black car. | They leave a contact card, Bảy waits until the car drives off. | Contact card under Bảy's glass, road clear. | — |
+| [6](clip-6.md) | J · J-cut: âm mới đến trước hình | Thành placing his notes beside Bảy's contact card. | Mây connects the emblem to the dispatch company and requests a check. | Mây marking the company entry, Thành preparing the request. | Mây (@May), nói trong hình: Họ tìm người. Ta tìm đường đi. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Xe hơi đen bụi đường dừng trước quán bờ kè; hai người đàn ông áo đen bước xuống, tai nghe, hỏi ông Bảy, giơ ảnh Sơn chụp lén.** | Rắn Đen: "Thấy người này không? Có sẹo mũi." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Ông Bảy cầm ảnh, đeo kính, lật mặt sau xem như xem tờ tiền, rồi lắc đầu; ông chỉ ra biển.** | Ông Bảy: "Giống thằng con ông Tư ghe." · Ông Bảy: "Nó đi biển ba ngày rồi." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Trong chợ cá, Sơn đứng sau sạp mực, mũ vải, nhìn hai người áo đen qua khe thúng; tay anh chạm hộp thiếc trong túi áo.** | Sơn (Voice-over): "Rắn Đen tìm bằng ảnh. Tức là chưa chắc." · Sơn (Voice-over): "Chưa chắc là còn hai ngày." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Phó Thành dựng xe cách đó mười mét, giả vờ sửa dây xích, ghi biển số xe đen vào lòng bàn tay.** | Thành (thì thầm): "Biển số tỉnh khác. Hai người. Không mua gì." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Hai người áo đen lên xe, một tên ném ảnh xuống bàn quán; xe đi về phía đường ra thị trấn, chậm, nhìn từng hẻm.** | Rắn Đen: "Thấy thì gọi. Có thưởng." · Ông Bảy: "Ở đây thưởng bằng cá." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Ở đồn, Thành đưa Mây biển số và tấm ảnh ông Bảy gửi; Mây nhìn ảnh Sơn chụp lén trong thành phố, vest đen, găng da.** | Mây: "Người ta tìm nó tới tận đây." · Thành: "Bắt luôn không chị?" · Mây: "Chưa biết ai là người xấu." | Frames / Extend (nối liền) |
+- **1:** Make the same ordinary stall feel exposed when strangers use a photograph as a demand. **Diễn xuất:** Their manner is businesslike entitlement, not a theatrical thug performance; Bảy studies them before answering.
+- **2:** Show Bảy deciding to protect a person through a small lie he must manage in real time. **Diễn xuất:** His eyes stay on the visitors, and the line is casual enough to hide the choice rather than celebrate cleverness.
+- **3:** Give Sơn a usable observation while showing that remaining hidden costs him access to the exchange. **Diễn xuất:** He does not lean into danger for a perfect view; his stillness should show disciplined impatience.
+- **4:** Let Thành's quiet competence contribute a second independent clue rather than another heroic confrontation. **Diễn xuất:** His fingers move carefully because concealment matters, but the pen should not tremble for comic effect.
+- **5:** Let the visitors leave a future route into the investigation while Bảy waits until immediate danger passes. **Diễn xuất:** His composure should ease only after they recede, without a visible victorious grin at deceiving them.
+- **6:** Convert scattered observations into a direction of inquiry, giving Mây a discovery instead of instant certainty. **Diễn xuất:** Mây's confidence comes from connecting sources, while Thành watches to understand the next task rather than admiring her intuition.
 
----
+**Âm nối sang cảnh sau:** Introduce wind through the damaged shop door before cutting from the company inquiry to the torn scarf trace.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

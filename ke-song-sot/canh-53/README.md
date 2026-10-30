@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 53: Ngày Thứ Bảy Không Chạy
+# Kẻ Sống Sót: Bóng Ma — Cảnh 53: Người Không Chạy Nữa
 
-**Cảnh 53/60** · Phút 52:00 – 53:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 52](../canh-52/README.md) | [Cảnh 54 →](../canh-54/README.md)
+Phút 52:00–53:00 · Thời gian truyện: D7 night continuous
 
----
+Sơn tự nhận trách nhiệm, Hạ chấp nhận thay vì cản luật.
 
-## 1. Tóm tắt cảnh
-Mây và Thành nhô lên hành lang với hai công an tỉnh; Kiên bị khăn lụa trói vào lan can; Hạ và Sơn ngồi dựa tường; Mây dừng, thở, nhìn ba người. Mây quay sang Sơn; cô rút còng; cô là người giữ luật; Sơn đứng dậy trước khi cô nói. Đoàn người xuống cầu thang xoắn: Kiên trước, Sơn còng tay giữa, Hạ và Mây sau; đèn hải đăng cũ, do Thành bật nhầm công tắc, bỗng sáng, quét một vòng trên biển.
+**Câu hỏi đang mở:** Sơn có giữ quyết định chịu trách nhiệm ngay khi có thể về cùng Hạ?
+**Móc vào cảnh:** Người vừa cứu anh cũng là người cần còng anh.
+**Điểm bẻ:** Anh tự bước tới Mây; Hạ buông tay áo vì hiểu đó là lựa chọn của anh.
+**Gieo / trả:** Khép hành trình không chạy bằng chủ động đưa tay, không một lời khẩu hiệu.
 
-* **Bối cảnh chính:** Đỉnh hải đăng, đêm, đèn pin công an, gió.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May), Hạ (@Ha), Vũ Kiên (@Vũ Kiên), Phó Thành (@Phó Thành)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | L · L-cut: âm cũ đi qua cú cắt | Mây waiting at the gallery doorway, Hạ and Sơn standing with care. | Sơn approaches Mây on his own, keeping his hands where she can see them. | Sơn in front of Mây, Hạ one step behind. | Sơn (@Son), nói trong hình: Tôi đi với cô. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Hạ beside Sơn before he reaches the doorway. | She asks if this is his choice, he answers without blaming her. | Hạ releasing his sleeve deliberately. | Hạ (@Ha), nói trong hình: Anh tự chọn chứ? |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn holding both hands forward, left wrist still bandaged. | Mây applies the cuffs carefully while an officer documents the condition of his wrist. | Cuffs fitted without pressing the bandage, Sơn standing upright. | Sơn (@Son), nói trong hình: Ừ. Lần này là anh chọn. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Closed watch in Sơn's cupped right hand, cuff chain below. | Hạ places it safely into his breast pocket with his consent. | One closed watch in his breast pocket, her hand withdrawn. | — |
+| [5](clip-5.md) | L · L-cut: âm cũ đi qua cú cắt | Kiên already under escort farther down the stairs, group behind him separated. | Mây escorts Sơn, Thành supports Hạ, nobody overtakes on the narrow stair. | Both escorted groups descending in order, gallery empty behind. | — |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Group emerging from the main doorway, backup beam moving over the sea. | Hạ pauses to see her father's lighthouse working, then joins the others. | Hạ walking toward the waiting vehicle, light continuing behind her. | Hạ (@Ha), nói trong hình: Để đèn sáng tới khi mọi người về. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Mây và Thành nhô lên hành lang với hai công an tỉnh; Kiên bị khăn lụa trói vào lan can; Hạ và Sơn ngồi dựa tường; Mây dừng, thở, nhìn ba người.** | Mây: "Hạ." · Hạ: "Mây. Mày giữ chỗ tốt." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Hai người bạn ôm nhau ngắn, mạnh; Mây đẩy ra, đưa tay chạm lọn tóc bạc của mình.** | Mây: "Tao bạc tóc vì mày." · Hạ: "Tao khắc tường vì mày." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây quay sang Sơn; cô rút còng; cô là người giữ luật; Sơn đứng dậy trước khi cô nói.** | Mây: "Anh biết tôi phải làm gì." · Sơn: "Ngày thứ bảy, tôi nói gì?" | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Sơn đưa hai cổ tay; Hạ định cản, anh lắc đầu với cô; Mây bập còng, nhẹ hơn mọi lần.** | Sơn: "Không chạy nữa." · Mây: "Tôi nhớ." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Hạ nắm bàn tay bị còng của anh, nhét đồng hồ vào túi ngực anh lại.** | Hạ: "Đồng hồ chạy rồi. Em đếm được." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Đoàn người xuống cầu thang xoắn: Kiên trước, Sơn còng tay giữa, Hạ và Mây sau; đèn hải đăng cũ, do Thành bật nhầm công tắc, bỗng sáng, quét một vòng trên biển.** | Thành: "Em... em đụng cái gì đó." · Mây: "Để nó sáng." | Frames / Extend (nối liền) |
+- **1:** Make surrender the next voluntary action, not an arrest sprung on the rescued man. **Diễn xuất:** He is tired but definite; Mây receives the choice without triumph and Hạ watches rather than obstructing.
+- **2:** Let Hạ test that he owns this decision instead of speaking for him. **Diễn xuất:** Her concern is adult and searching, not an impulsive attempt to overrule Mây or bargain away the case.
+- **3:** Join his acceptance to the careful reality of custody, avoiding either punishment spectacle or easy forgiveness. **Diễn xuất:** Sơn answers Hạ without looking away from the consequence; Mây's care does not become reluctance to do her job.
+- **4:** Allow Hạ one ordinary act of care that respects the decision just made. **Diễn xuất:** The gesture is practical and restrained, not a covert release, key exchange or promise to wait forever.
+- **5:** Show safe coordinated departure after the moral decision without staging another finale. **Diễn xuất:** Their attention is on footing and procedure, not looking back to perform a final emotional tableau.
+- **6:** Give Hạ her father's place back briefly, then let the group continue toward the consequences. **Diễn xuất:** Her line is a quiet request for safety, not an announcement that the whole story is solved.
 
----
+**Âm nối sang cảnh sau:** Incoming station kettle and fan introduce the later interview after Hạ clothing change. Do not show the descent twice.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

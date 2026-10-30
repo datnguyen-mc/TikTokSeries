@@ -1,27 +1,66 @@
-Continue the scene seamlessly from the final frame of clip 2. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@May = MÂY: Vietnamese woman, 38, short hair with a white streak at the front, sun-lined face, khaki shirt with rolled sleeves, notebook in her chest pocket, steel cuffs on her belt, no insignia; firm, dry Southern female voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-SMALL-TOWN POLICE POST: a tiled front room with a steel desk, a ceiling fan, an old computer, a holding room with a barred window, a motorbike outside; no readable insignia.
-Story setting: Phòng giữ của đồn, đêm khuya, cửa sổ song sắt, đèn vàng.
-Scene 55/60, timecode 54:00 – 55:00, clip 3/6 (20–30s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm slow dolly in through the space — Cùng ánh sáng, cùng vị trí, đi tiếp: Mây (@May) ghi, tay không run; song sắt cửa sổ đổ bóng.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — cô hỏi về sổ, về xưởng, về Vũ Kiên (@Vũ Kiên). Thoại nói khi đang làm việc tay, môi vẫn khớp: Mây (@May): "Xưởng?" · Sơn (@Son): "Hai năm gác." · Mây: "Vũ Kiên (@Vũ Kiên)?" · Sơn: "Mua tôi hai lần."
-00:07.0–00:10.0 | 50mm hold on the eyes, unwavering — anh trả lời đủ, ngắn. Giữ khung cuối tĩnh để clip 4 tiếp đúng tư thế.
+[TIMELINE AND LOCATION]
+Scene 55/60, clip 3/6; shot 55.3. Story time: D7 late night.
+Separate interview room at the town post, one table, recorder, two chairs, no readable official insignia.
+Late-night interview room, one warm desk lamp, dim corridor outside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Keep responsibility from becoming another elegant line that excuses the speaker.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 55.2, ending with Mây writing an address in the private record, Sơn remaining seated.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Sơn looking at the paper rather than at his reflection in the window.
+
+[CAMERA]
+85mm close-up at eye level, restrained natural depth of field. No orbit or chase movement.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Close on Sơn reading the paper, his face angled away from the window reflection.
+Focus: Stay on eyes and the nearest resting hand, not an ornamental focus shift into the reflective glass.
+
+[ACTION — 0–10s, one evolving take]
+He states that fear and debt do not excuse what he did.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Keep the sentence short, then let him remain answerable in the silence instead of concluding the whole interview.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He keeps bare hands flat instead of reaching for the closed watch or touching his scar.
+Performance: The admission is uncomfortable and direct, with no self-pity smile and no demand that Mây forgive him.
+
+
+[DIALOGUE]
+0.8–4.4s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Sơn (@Son), nói trong hình: Không ai bắt tay tôi làm. Tôi phải chịu.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+LEFT bandage remains real, jacket creases remain, no symbolic prop or fresh injury is added.
+
 
 [SOUND]
-Âm thanh nền: còng va bàn thép; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: quiet ceiling fan and pencil movement.
+Foreground sound: The line is dry in the quiet room, followed by a normal breath rather than a musical absolution cue.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Anh trả lời đủ, ngắn) for 0.5s; this is the first frame of clip 4.
+[END FRAME — natural motion continues]
+His bare hands flat on the table, no watch used as a prop.
+Next shot 55.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

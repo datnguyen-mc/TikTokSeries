@@ -1,27 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 3. Pick up every element where it was left: same faces, outfits, objects, lighting, 16:9 framing, no visible cut.
-Photorealistic live-action Vietnamese neo-noir, 16:9 widescreen (2.39:1), 10 seconds at 24fps with a crisp 90-degree shutter. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Natural Southern Vietnamese dialogue, lip-synced; voice-over permitted. No text or subtitles on screen.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed white blouse, jeans, flat sandals, long blue scarf carried or worn. Voice: warm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small notebook, discreet crossbody case pouch. Voice: firm, clear Southern Vietnamese female voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Xe chở phạm chạy qua đường chính và bờ kè, sáng, nắng, cửa kính lưới.
-Scene 58/60, timecode 57:00 – 58:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
 
-[SHOT LIST]
-00:00–00:03.5 | 35mm slow dolly in through the space — Cùng ánh sáng, cùng vị trí, đi tiếp: Xe qua quán Ông Bảy (@Ông Bảy): ông Bảy đứng ở cửa giơ ly; ghe cá ngoài kè làm nền.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — qua đồn: Mây (@May) đứng ở bậc thềm, tay đặt trên còng ở thắt lưng. Thoại nói khi đang làm việc tay, môi vẫn khớp: Phó Thành (@Phó Thành): "Hai ngàn người. Ba người tiễn, anh."
-00:07.0–00:10.0 | 50mm hold on the eyes, unwavering — gật đầu một cái. Giữ nguyên bố cục cuối nửa giây rồi hết clip.
+[TIMELINE AND LOCATION]
+Scene 58/60, clip 4/6; shot 58.4. Story time: D8 late morning.
+Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
+Day-eight late morning, natural vehicle-window light, coastal sun outside.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Return Hạ to her own direction immediately after the one farewell has happened.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 58.3, ending with Sơn's nod finished, eyes still following her.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut, then let it fall away. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Transport already beyond Hạ, both women on the walkway.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the wide with transport already beyond them, walkway and route toward the market both clear.
+Focus: Keep their first returning steps readable in the same geography, without a new farewell reverse angle.
+
+[ACTION — 0–10s, one evolving take]
+Hạ lowers the flower and turns toward her chosen stall site.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Lower, turn and walk form one forward beat; cut before another look back can create a second goodbye.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She lowers the flower and turns with Mây toward the chosen stall site, not back toward the departing vehicle.
+Performance: The turn is deliberate and a little difficult, not instantly cheerful and not another collapse into grief.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The same single flower stays in her hand, no petals scatter or symbolic object falls behind her.
+
 
 [SOUND]
-Âm thanh nền: ghe nổ máy ngoài cảng; một tiếng tích tắc. Thoại rõ, không nhạc đè lời.
+Location bed: distant motorcycles and muted market voices.
+Foreground sound: Engine recedes while ordinary market sound begins to reclaim the scene, no dialogue added.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Freeze the final composition (Qua đồn: Mây (@May) đứng ở bậc thềm, tay đặt trên còng ở thắt lưng, gật đầu một cái) for 0.5s; this is the first frame of clip 5.
+[END FRAME — natural motion continues]
+Both women walking back toward the market, vehicle continuing away.
+Next shot 58.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

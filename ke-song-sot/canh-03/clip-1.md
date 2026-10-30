@@ -1,28 +1,66 @@
 [FORMAT]
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style set in a small Vietnamese seaside town and a big city at night. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Dialogue in Vietnamese with natural Southern accent and accurate lip-sync; first-person narration allowed as voice-over. No subtitles or on-screen text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — match attached reference images]
-@Son = SƠN (45, a legendary former underground operative known as the Ghost, now hiding in a small seaside town): a real Vietnamese man, about 176 cm tall, lean and quiet, cropped black hair greying at the temples, a weathered calm face with deep lines, dark unreadable eyes, a thin old white scar across the bridge of his nose (signature detail), a silver pocket-watch chain hanging from his belt (signature detail). Present-day outfit: a faded olive field jacket over a grey shirt, dark trousers, worn brown boots. Voice: low, dry, unhurried Southern Vietnamese male voice, mid-40s. Not resembling any real actor.
-@Ông Bảy = ÔNG BẢY (70, owner of the seafront coffee stall): a stout old Vietnamese man with a white moustache, white singlet, shorts, rubber sandals, a conical hat, always wiping a glass. Voice: loud, cheerful elderly Southern voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+@Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white singlet, shorts, rubber sandals, conical hat outside, cloth for cleaning glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
 
-[SETTING]
-SEAFRONT COFFEE STALL: a tarp-roofed coffee stall on the sea wall, plastic tables and stools, glasses drying on a rack, boats behind, white glare; no readable signs.
-Story setting: Quán cà phê bờ kè của ông Bảy, sáng ngày 1, nắng trắng, bạt xanh, ghe cá.
-Scene 3/60, timecode 02:00 – 03:00, clip 1/6 (0–10s of the scene). Atmosphere: quiet noir melancholy, cinematic Vietnamese neo-noir.
 
-[CAMERA & LIGHT]
-Patient neo-noir 50mm and 85mm prime-lens cinematography with shallow depth of field, slow dolly moves, long close-ups on weathered faces, hands and small objects. White bleached daylight for the present or warm amber lamp light for the past, deep shadows, natural skin tones, light cinematic grain.
 
-[SHOT LIST]
-00:00–00:03.5 | 50mm slow dolly in from medium shot — Mở cảnh: Sơn (@Son) ngồi ở bàn sát bạt, lưng quay ra biển, mặt hướng vào đường; ly thủy tinh lấp lánh trên giá.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Ông Bảy (@Ông Bảy) bưng cà phê, nói không ngừng về cá, về giá dầu. Thoại có khẩu hình, máy thấy rõ miệng người nói: Ông Bảy (@Ông Bảy): "Khách lên đây ai cũng ngồi nhìn biển. Chú ngồi nhìn đường."
-00:07.0–00:10.0 | 85mm close-up on the quiet gaze — Sơn (@Son) chỉ gật. Dừng ở khung này nửa giây để clip 2 nối vào.
+[TIMELINE AND LOCATION]
+Scene 03/60, clip 1/6; shot 03.1. Story time: D1 morning.
+Bảy coffee stall, green canvas awning, counter landward, plastic tables seaward, street visible in the counter mirror.
+Morning coastal daylight, cool shadows under the green awning, natural skin tones.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Make Sơn's seating choice a small behavioral mystery that Bảy notices before Mây does.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 02.6, ending with Photo back beside the real tower across the street.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place; no transformation, morph, dissolve or replay of the old shot.
+
+[START FRAME — state only, not an action to repeat]
+Rectangular stall mirror under the green tarp, Sơn at the sea-facing table edge.
+
+[CAMERA]
+35mm locked wide shot at human eye level. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Keep the mirror rectangle related to the preceding sketch shape, with the sea behind Sơn.
+Focus: Keep the reflected road and Sơn's posture understandable without making the mirror an impossible close-up.
+
+[ACTION — 0–10s, one evolving take]
+He sits with his back to the sea and watches the road reflection.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Allow the audience to read the wrong-way seat before the comment names the oddity.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He takes the seat once, turning his body toward the street instead of toward the water.
+Performance: His road attention is habitual rather than frantic; Bảy's comment carries amused curiosity.
+
+
+[DIALOGUE]
+0.8–3.8s, one unhurried line. Visible speaker delivers the line, mouth readable. Others listen silently.
+
+Ông Bảy (@Ông Bảy), nói trong hình: Biển phía sau chú kìa.
+Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+
+[VISIBLE TEXTURE]
+The green tarp casts ordinary shade; bright sea light remains a pressure beyond the shelter.
+
 
 [SOUND]
-Âm thanh nền: ly thủy tinh chạm nhau, bạt xanh phần phật; cello kéo dài một nốt. Nền nhỏ hơn giọng người.
+Location bed: glasses touching and awning cloth in sea wind.
+Foreground sound: Glass meets table on his right; Bảy's remark rides over continuous morning stall ambience.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-End on: Ông Bảy (@Ông Bảy) bưng cà phê, nói không ngừng về cá, về giá dầu. Hold that exact frame still for 0.5s; clip 2 starts from it.
+[END FRAME — natural motion continues]
+Sơn facing the street, Bảy placing coffee on his right.
+Next shot 03.2: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

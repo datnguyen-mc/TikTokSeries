@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 37: Điều Kiện
+# Kẻ Sống Sót: Bóng Ma — Cảnh 37: Điều Kiện Không Đổi
 
-**Cảnh 37/60** · Phút 36:00 – 37:00 của phim · Hồi 2: Thuốc Tê · Tập 4/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 36](../canh-36/README.md) | [Cảnh 38 →](../canh-38/README.md)
+Phút 36:00–37:00 · Thời gian truyện: D7 afternoon
 
----
+Mây và Sơn điều chỉnh kế theo điều kiện mới, không kể lại kế cũ.
 
-## 1. Tóm tắt cảnh
-Xe trắng rời đi về phía nhà nghỉ đầu thị trấn; Mây kéo Sơn ra sau quán, giọng thấp mà dữ. Mây hỏi nếu Kiên không mang Hạ ra cảng; Sơn: Kiên mang, vì Kiên tin anh là hàng chuyên nghiệp, và hàng chuyên nghiệp đòi thấy hàng. Sơn nhìn lên hải đăng trên vách; anh bảo Mây để một người ở chân tháp, vì "người thua sẽ chạy lên chỗ cao".
+**Câu hỏi đang mở:** Sơn có giữ điều kiện cứu Hạ khi Kiên buộc anh nhận thêm tội không?
+**Móc vào cảnh:** Phong bì không mở khiến lời đòi của Kiên vẫn hiện diện giữa họ.
+**Điểm bẻ:** Hai người tách bản sao khỏi giấy nhận tội, cùng nhận ra một lối phụ chưa thể kiểm soát kín.
+**Gieo / trả:** Tín hiệu đặt phong bì phải được ghi nhớ bằng vị trí và im lặng, không diễn lại nhiều lần.
 
-* **Bối cảnh chính:** Sau quán bờ kè, trưa ngày 7, bóng bạt, xe trắng vừa đi.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | L · L-cut: âm cũ đi qua cú cắt | Mây and Sơn behind the stall with the unopened confession folder. | Mây identifies the new trap, Sơn agrees the folder will remain blank. | Folder closed in Mây's hand, Sơn's hands empty. | Mây (@May), nói trong hình: Hắn cần người nhận tội thay. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Copy envelope open between them, only selected ledger pages inside. | They mark it as a preview, originals already with the investigator. | Preview pages separated from the blank confession folder. | Sơn, ngoài khung hình: Tôi chỉ đưa bản xem trước. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây beside the confirmed road map, Sơn looking toward the harbour. | Mây assigns the remaining road officer to the main cliff-road turnoff; the narrow service footpath is a separate route below the wall. | Main cliff road marked as covered, Sơn acknowledging; service footpath remains a separate gap to watch. | Mây (@May), nói trong hình: Chặn đường chính lên tháp. Báo ngay nếu hắn đổi hướng. |
+| [4](clip-4.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Main cliff road marked as covered, Sơn acknowledging; service footpath remains a separate gap to watch. | Sơn agrees to stop if Hạ is not released from the car. | Mây closing the map, both understanding the abort signal. | Sơn (@Son), nói trong hình: Không thả người, tôi không bước tiếp. |
+| [5](clip-5.md) | CONTINUE · Nối đúng frame, hành động tiếp diễn | Mây closing the map, both understanding the abort signal. | Mây gives him the rescue signal: lay the envelope down and step away. | Envelope flat on the table as a rehearsal, nobody repeating the action twice. | Mây (@May), nói trong hình: Đặt xuống. Lùi lại. Người tôi sẽ vào. |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn's bare right hand picking up the preview envelope. | He leaves the confession folder with Mây and takes only the copy. | Copy envelope in right hand, left wrist bandaged, no weapon. | — |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Xe trắng rời đi về phía nhà nghỉ đầu thị trấn; Mây kéo Sơn ra sau quán, giọng thấp mà dữ.** | Mây: "Anh nói 'được'." · Sơn: "Tôi nói với cả hai." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn giải thích: Kiên cần thấy anh nhận; Bà Hai cần thấy anh mang sổ; cả hai cần thấy anh ngã xuống; chỉ cần một người thấy anh sống: Mây.** | Sơn: "Hai người thấy tôi ngã xuống. Một người thấy tôi sống. Là cô." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây hỏi nếu Kiên không mang Hạ ra cảng; Sơn: Kiên mang, vì Kiên tin anh là hàng chuyên nghiệp, và hàng chuyên nghiệp đòi thấy hàng.** | Mây: "Nếu Kiên giấu Hạ?" · Sơn: "Hắn tin tôi làm vì tiền. Người làm vì tiền đòi xem hàng." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Sơn mở bao da: vật thép rỗng; anh nhét vào túi áo trong một ống thuốc nhỏ đã hút sẵn một lọ Tê; cận ống thuốc nhỏ.** | Sơn: "Lõi thép cô giữ. Tôi mang cái này." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Mây đưa lại lõi kim loại; Sơn từ chối, đẩy tay cô về.** | Mây: "Lỡ cần?" · Sơn: "Cần thì tôi đã không về đây." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Sơn nhìn lên hải đăng trên vách; anh bảo Mây để một người ở chân tháp, vì "người thua sẽ chạy lên chỗ cao".** | Sơn: "Để một người ở chân hải đăng." · Mây: "Ai?" · Sơn: "Tôi. Nếu tôi dậy." | Frames / Extend (nối liền) |
+- **1:** Give Mây the uncomfortable task of naming what Sơn's urgency might make him accept. **Diễn xuất:** She is direct without scolding; he recognizes the trap but must feel the price of resisting it.
+- **2:** Separate the limited preview they will offer from the false admission they will never sign. **Diễn xuất:** Their hands communicate agreement through clear separation, not a staged secret-agent flourish.
+- **3:** Expose a specific spatial limitation so later escape feels like exploitation, not police forgetting a door. **Diễn xuất:** Her concentration includes the limitation; Sơn understands it without a reassuring nod that dismisses the risk.
+- **4:** Make Sơn agree to a limit that conflicts with the urge to rush toward Hạ. **Diễn xuất:** His agreement comes after a restrained breath, suggesting a promise he knows will be difficult.
+- **5:** Plant the later rescue signal through one ordinary object placement that can be recognized instantly. **Diễn xuất:** She is precise rather than ritualistic, he watches with the attention of someone depending on her response.
+- **6:** Leave Sơn carrying only the preview and his own vulnerable body into the next phase. **Diễn xuất:** The hand is controlled, not shaking for emphasis, while the bandage keeps cost visible.
 
----
+**Âm nối sang cảnh sau:** Match present Sơn bare hand holding the copy to young Sơn empty palms under the awning. No glove-box reveal until 38.4.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

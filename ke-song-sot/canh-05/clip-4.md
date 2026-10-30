@@ -1,30 +1,63 @@
-Continue the scene seamlessly from the final frame of clip 3, matching position, light and 16:9 framing exactly, as one unbroken take.
-Widescreen 16:9 (2.39:1 anamorphic ratio), 10-second clip, photorealistic live-action Vietnamese neo-noir mystery drama film style. 24fps high-budget cinematography, crisp 90-degree shutter angle, razor-sharp motion. Bleached white-sun colour grade with cool shadows for the present day. Clean cinematic staging. Spoken dialogue in natural Southern Vietnamese with accurate lip-sync; voice-over narration allowed. Cut only where the shot list says. No subtitles or on-screen text.
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir. Natural 180-degree shutter. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — unchanged]
-@Son = SƠN: Vietnamese man, 45, cropped hair greying at the temples, thin white scar across the bridge of his nose, silver pocket-watch chain on his belt, faded olive field jacket over a grey shirt; low, dry Southern male voice.
+[CHARACTERS — approved identities and current appearances]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey shirt, dark trousers, worn brown boots, bare hands. Voice: low, dry, unhurried Southern Vietnamese male voice.
+
+
+
+[TIMELINE AND LOCATION]
+Scene 05/60, clip 4/6; shot 05.4. Story time: D1 noon.
+One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day noon daylight through cabin gaps, cooler shadows, no fluorescent source.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Introduce the sealed substance as evidence of a larger system, without fetishizing its use.
+
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 05.3, ending with His fingertip on the last box beside the ship stamp.
+Intentional editorial cut, not a continuous take. Start only in the new composition; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Tin open, three sealed fictional Tê vials in fitted slots.
+
+[CAMERA]
+85mm locked detail shot. Hands and the relevant object remain spatially readable; no impossible macro reflections.
+One new coverage angle on the established side of the axis. Never cut internally.
+Composition: Use the detail composition to show all three fitted slots and the intact vial caps together.
+Focus: Keep seals and tin edge crisp, avoiding a macro liquid view that suggests an instructional demonstration.
+
+[ACTION — 0–10s, one evolving take]
+He counts the intact seals, closes the lid without using anything.
+Perform once from start state to end state. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Count by a short eye or hand progression, then close with finality instead of another suspenseful reopening.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He checks the three seals in place and closes the tin lid once without removing a vial.
+Performance: His hands show familiarity with the objects but no pleasure or curiosity about using them.
+
+
+[DIALOGUE]
+No speech, narration or improvised vocal filler. Play the action and location sound.
 
 [PROPS]
-LỌ TÊ (vial of sleeping serum): a small clear glass vial with a rubber stopper holding a colourless liquid, kept in a dented tin box with a small metal applicator; no label.
+Reference only; enact only the current ACTION, not a future handover.
+- Dented fitted tin containing three sealed fictional Tê vials, no opening or use instructions.
+- Fictional Tê device or sealed vial associated with the attackers. No real substance, dose or application technique.
 
-[SETTING]
-CABIN IN THE CASUARINA PINES: an old wooden cabin on a dune above a small seaside town, sagging porch with a wooden table, tin roof, one room with a cot, a table, a radio, an oil lamp, carved day-marks on the doorframe; wind and sea sound; white glaring sun outside.
-Story setting: Nhà gỗ, trưa ngày 1, nắng xiên qua khe ván, radio rè.
-Scene 5/60, timecode 04:00 – 05:00, clip 4/6 (30–40s of the scene). Atmosphere: cold ticking tension, cinematic Vietnamese neo-noir.
+[VISIBLE TEXTURE]
+The dented lid and fitted lining look handled, while the sealed glass stays clean and ordinary.
 
-[CAMERA & LIGHT]
-Controlled 50mm and 85mm push-ins on faces, phones, radios and documents, balanced two-shots across the space, slow dolly around the room. Cold fluorescent or grey window light, high contrast, held breath pacing.
-
-[SHOT LIST]
-00:00–00:03.5 | Slow 35mm push-in establishing the room and subject — Không có khoảng dừng giữa hai clip: Cận hộp thiếc: ba lọ thuốc trong; gió dương lùa qua hiên.
-00:03.5–00:07.0 | 50mm medium close-up on the speaker's face, clear lip-sync — Sơn (@Son) cầm một lọ lên ánh nắng, chất lỏng không màu. Một câu, một hơi, môi khớp từng âm: Sơn (@Son): "Tê. Một lọ, bốn mươi phút nằm bất động như ngủ sâu."
-00:07.0–00:10.0 | 50mm close-up as the shadow falls across the frame — anh nhớ mùi xưởng. Khung cuối bất động, clip 5 nối từ đúng đây.
 
 [SOUND]
-Âm thanh nền: mạt gỗ rơi, cửa gỗ kẽo kẹt; tiếng máy rung trên gỗ. Lời thoại nổi trên nền.
+Location bed: wind through wood joints and remote surf.
+Foreground sound: Small glass restraint and a single lid click should be softer than the surrounding wind.
+Keep diegetic continuity, dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME]
-Hold on Sơn (@Son) cầm một lọ lên ánh nắng, chất lỏng không màu for 0.5s, no camera drift, so the next clip extends seamlessly.
+[END FRAME — natural motion continues]
+Sealed tin closed, three vials accounted for inside.
+Next shot 05.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-subtitles, captions, on-screen text, readable signs or documents, real brand logos, real police insignia, watermarks, text overlays, extra fingers, distorted hands, cartoon or anime look, slow sluggish motion, blurry motion smear, jump cuts, likeness of any real actor.
+repeated action or line from adjacent clips, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

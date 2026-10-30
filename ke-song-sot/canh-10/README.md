@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 10: Quá Khứ: Tiệm Hoa Tan Hoang
+# Kẻ Sống Sót: Bóng Ma — Cảnh 10: Quá Khứ: Dấu Vết Còn Lại
 
-**Cảnh 10/60** · Phút 09:00 – 10:00 của phim · Hồi 1: Bảy Ngày · Tập 1/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 09](../canh-09/README.md) | [Cảnh 11 →](../canh-11/README.md)
+Phút 09:00–10:00 · Thời gian truyện: PAST one month earlier dawn
 
----
+Sơn nhặt một mảnh khăn và lấy sổ từ kho mình biết.
 
-## 1. Tóm tắt cảnh
-Quá khứ: Sơn ướt mưa bước tới tiệm hoa: cửa kính vỡ, xô hoa đổ, ly trắng dập nát trên sàn; giữa sàn, chiếc khăn lụa xanh. Bà hàng xóm bán xôi thò đầu qua cửa, hạ giọng: đêm qua ba người đàn ông tới, bắt cô chủ tiệm đi, cô ấy không la, chỉ nhìn tòa nhà kính. Thời gian kéo giãn: Sơn quấn khăn lụa xanh quanh cổ tay, nhìn về tòa nhà kính nơi đèn phòng Vũ Kiên sáng; rồi anh quay lưng đi về phía bến xe.
+**Câu hỏi đang mở:** Hạ để lại dấu hay chỉ để lại thứ Sơn muốn tin?
+**Móc vào cảnh:** Cả tiệm hỏng nhưng một mảnh xanh mắc đúng vị trí.
+**Điểm bẻ:** Một mảnh khăn cho thấy bị đưa đi; Sơn chọn lấy chứng cứ thay vì trở về nhận lệnh.
+**Gieo / trả:** Mảnh ngắn chưa là khăn đầy đủ; nguồn sổ và tin được trả lời để không xuất hiện thần kỳ.
 
-* **Bối cảnh chính:** Quá khứ, tiệm hoa sáng sớm sau đêm bị gài, mưa tạnh, kính vỡ.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | Broken shop glass, a pale-blue strip caught on the latch. | Sơn enters carefully and stops at the torn strip. | Sơn facing the latch, torn strip still attached. | — |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn's right glove beside the broken latch. | He removes the glove once and frees only the small torn strip. | Bare right hand holding the short scarf fragment. | Sơn, ngoài khung hình: Hạ để lại cái này. |
+| [3](clip-3.md) | J · J-cut: âm mới đến trước hình | Sơn near the broken doorway, a neighbor outside the frame. | He listens to the neighbor describe a black car and three men. | Sơn looking toward the tire tracks outside. | Người trong cảnh, ngoài khung hình: Cổ bị đưa đi. Còn quay lại nhìn cửa. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn's phone vibrating against his jacket. | He answers, hears Bà Hai claim Hạ has left him, ends the call. | Phone lowered, Sơn's bare right hand steady again. | Bà Hai, qua thiết bị: Về tiệm, má còn giữ chỗ cho con. |
+| [5](clip-5.md) | L · L-cut: âm cũ đi qua cú cắt | Rear stockroom door of the silk shop closed before opening hours. | Sơn uses his old key and reaches the shelf he once guarded. | Sơn beside the stock shelf, black ledger and tin visible. | — |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Ledger and sealed tin on the stockroom shelf. | Sơn takes the ledger, attached receipt and sealed tin into his bag. | Shelf empty at those slots, bag clasp closed. | Sơn, lời dẫn ngoài hình: Tôi lấy sổ của họ. Không lấy lại được cô ấy. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Quá khứ: Sơn ướt mưa bước tới tiệm hoa: cửa kính vỡ, xô hoa đổ, ly trắng dập nát trên sàn; giữa sàn, chiếc khăn lụa xanh.** | — | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Sơn quỳ xuống nhặt khăn, lụa rách một đầu; cận bàn tay trần (găng đã mất) run lần đầu.** | Sơn (thì thầm): "Hạ." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Bà hàng xóm bán xôi thò đầu qua cửa, hạ giọng: đêm qua ba người đàn ông tới, bắt cô chủ tiệm đi, cô ấy không la, chỉ nhìn tòa nhà kính.** | Hàng xóm: "Ba người, xe đen. Cổ không la. Cổ nhìn lên tòa nhà." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Điện thoại Sơn rung; màn hình không tên; anh nghe; giọng ngọt, chậm.** | Bà Hai (điện thoại): "Cô ấy xin con bỏ nghề. Giờ cô ấy bỏ trước." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Sơn đứng giữa tiệm, không nói; bà Hai nói tiếp: con về tiệm lụa thì cô ấy nhẹ; con chạy thì… ; Sơn tắt máy giữa câu.** | Bà Hai (điện thoại): "Về tiệm lụa, con. Má lo cho con." · Sơn: "Má lo cho má." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Thời gian kéo giãn: Sơn quấn khăn lụa xanh quanh cổ tay, nhìn về tòa nhà kính nơi đèn phòng Vũ Kiên sáng; rồi anh quay lưng đi về phía bến xe.** | Sơn (Voice-over): "Tôi không về tiệm lụa." · Sơn (Voice-over): "Tôi đi lấy thứ duy nhất làm họ sợ." | Frames / Extend (nối liền) |
+- **1:** Make absence tangible through a small deliberate trace within a damaged familiar space. **Diễn xuất:** His body should slow as recognition arrives, keeping shock inward rather than dropping immediately to his knees.
+- **2:** Distinguish the recovered short fragment from the larger scarf so the later threat has physical meaning. **Diễn xuất:** Bare fingertips become more tentative than the gloved approach; his spoken recognition should be almost involuntary.
+- **3:** Let the witness offer facts while Sơn supplies the fear, preserving uncertainty about Hạ's fate. **Diễn xuất:** His face should sharpen at the direction of the car, avoiding relief or certainty the testimony cannot support.
+- **4:** Make Bà Hai's familiar reassurance sound like a trap when Sơn can no longer accept it. **Diễn xuất:** His anger is controlled into a steadier bare right hand, not a shouted reply or a visible rage tremor.
+- **5:** Make taking evidence a conscious alternative to obeying Bà Hai's invitation, using a place Sơn knows. **Diễn xuất:** His manner is purposeful but not excited; familiarity should reduce searching, making the choice feel morally deliberate.
+- **6:** Pay off the origin of the evidence while letting Sơn admit that it cannot replace the missing person. **Diễn xuất:** The narration carries regret rather than pride at a successful theft; hands remain disciplined through it.
 
----
+**Âm nối sang cảnh sau:** Match the closed bag clasp to the sealed tin latch in the lamplit cabin. No second theft or opening of the tin.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

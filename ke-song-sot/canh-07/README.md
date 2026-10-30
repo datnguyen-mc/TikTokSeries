@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 7: Mây Gõ Cửa
+# Kẻ Sống Sót: Bóng Ma — Cảnh 07: Mây Gõ Cửa
 
-**Cảnh 7/60** · Phút 06:00 – 07:00 của phim · Hồi 1: Bảy Ngày · Tập 1/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 06](../canh-06/README.md) | [Cảnh 08 →](../canh-08/README.md)
+Phút 06:00–07:00 · Thời gian truyện: D2 morning
 
----
+Mây tìm thấy giấy giả và chọn theo dõi người truy tìm Sơn.
 
-## 1. Tóm tắt cảnh
-Sơn khắc vạch thứ hai lên khung cửa; tiếng xe máy dưới đồi; anh gạt mạt gỗ, mở radio cho có tiếng, ngồi xuống bàn với tô cơm. Mây đi quanh phòng, dừng ở khung cửa, ngón tay lướt qua hai vạch khắc. Mây xuống đồi; ở đồn, cô nhìn kết quả Thành tra: thẻ căn cước giả, không hồ sơ; Thành đẩy kính; Mây gấp sổ.
+**Câu hỏi đang mở:** Giấy tờ giả sẽ khiến Mây bắt ngay hay theo dấu người truy tìm?
+**Móc vào cảnh:** Vạch thứ hai bị tiếng xe cắt ngang.
+**Điểm bẻ:** Lời ở hết tuần được kiểm chứng và trở thành hồ sơ.
+**Gieo / trả:** Mây giữ luật bằng bước kiểm tra rõ; thời hạn Sơn né tránh được soi ở 14, 17.
 
-* **Bối cảnh chính:** Nhà gỗ, sáng ngày 2, nắng, gió dương.
-* **Nhân vật khóa trong cảnh:** Sơn (@Son), Mây (@May)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | OPEN · Cắt thiết lập thời gian/không gian | One mark on the doorframe, tool below it. | Sơn carves the second mark, a motorcycle stops outside. | Two marks, tool put on the shelf. | — |
+| [2](clip-2.md) | J · J-cut: âm mới đến trước hình | Mây outside the threshold, Sơn holding the door open. | She waits for permission before asking for his papers. | Sơn passing a card across the threshold. | Mây (@May), nói trong hình: Tôi cần xác nhận người thuê nhà. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây at the doorway with the card, Sơn beside the table. | She studies the card and his face without entering deeper. | Card returned to Sơn, notebook still open. | Mây (@May), nói trong hình: Anh định ở tới khi nào? |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Sơn beside the two fresh marks. | He looks at the marks instead of answering, Mây notices the evasion. | Mây's eyeline fixed on the doorframe. | Sơn (@Son), nói trong hình: Hết tuần này. |
+| [5](clip-5.md) | L · L-cut: âm cũ đi qua cú cắt | Thành at the old computer, Mây standing behind him. | A record check returns a mismatched identity, Thành prints the result. | Printer feeding one page, Mây taking it. | Thành, ngoài khung hình: Giấy không khớp hồ sơ, chị. |
+| [6](clip-6.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Mây laying the result in a new investigation folder. | She assigns one discreet observer and asks for outside vehicle reports. | Folder open with Sơn's rental note, Thành calling for support. | Mây (@May), nói trong hình: Theo người tìm anh ta nữa. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Sơn khắc vạch thứ hai lên khung cửa; tiếng xe máy dưới đồi; anh gạt mạt gỗ, mở radio cho có tiếng, ngồi xuống bàn với tô cơm.** | Sơn (Voice-over): "Ngày hai. Cô ấy tới sớm hơn tôi tính." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Mây gõ cửa dù cửa mở, bước vào, đứng giữa phòng, đưa tay: giấy tờ; Sơn đưa một thẻ căn cước (không chữ đọc được); cô đọc, nhìn anh, nhìn thẻ.** | Mây: "Nguyễn Văn Sơn. Năm mươi tuổi." · Sơn: "Bốn lăm. Ảnh xấu." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Mây đi quanh phòng, dừng ở khung cửa, ngón tay lướt qua hai vạch khắc.** | Mây: "Đếm gì?" · Sơn: "Đếm ngày nghỉ." · Mây: "Người ta đếm ngày nghỉ bằng điện thoại." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Mây thấy đôi găng da trên ghế, cầm lên, lật, ngửi: mùi dầu máy; cô đặt lại đúng chỗ.** | Mây: "Găng da giữa tháng nắng." · Sơn: "Tay tôi lạnh." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Mây ra hiên, nhìn xuống thị trấn, nói lưng quay về phía anh, giọng không đe dọa.** | Mây: "Thị trấn tôi hai ngàn người. Ai cũng ngủ cửa mở." · Sơn: "Tôi không đụng ai." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Mây xuống đồi; ở đồn, cô nhìn kết quả Thành tra: thẻ căn cước giả, không hồ sơ; Thành đẩy kính; Mây gấp sổ.** | Thành: "Thẻ giả, chị." · Mây: "Vậy là không phải khách. Theo dõi, đừng bắt." | Frames / Extend (nối liền) |
+- **1:** Make the daily count vulnerable to an interruption from outside Sơn's control. **Diễn xuất:** The hand remains steady, but its brief pause at the engine sound reveals attention beyond the carving.
+- **2:** Show Mây's lawful courtesy making evasion harder than a forceful entrance would. **Diễn xuất:** Mây's tone is neutral and patient, while Sơn overcontrols the simple handover to hide discomfort.
+- **3:** Make Mây compare a person to a document without performing instant guilt detection. **Diễn xuất:** Her question is open rather than accusatory; his stillness should invite scrutiny without announcing a villain.
+- **4:** Tie Sơn's evasive answer to the visible count so Mây gains a behavioral fact. **Diễn xuất:** He should not smirk at withholding information; Mây registers the relationship and lets it remain unanswered.
+- **5:** Let verification produce the first clear discrepancy without a melodramatic computer reveal. **Diễn xuất:** Their hands become more deliberate at the mismatch; no visible actor needs an exaggerated shocked face.
+- **6:** Show Mây choosing a method of investigation, keeping suspicion separate from proof. **Diễn xuất:** Mây is purposeful, not conspiratorial; Thành's readiness makes this feel like coordinated work rather than a secret favor.
 
----
+**Âm nối sang cảnh sau:** Introduce garage ventilation hum before the flashback cut away from the station radio and folder.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

@@ -1,44 +1,38 @@
-# Kẻ Sống Sót: Bóng Ma — Cảnh 54: Lời Của Hạ
+# Kẻ Sống Sót: Bóng Ma — Cảnh 54: Lời Khai Của Hạ
 
-**Cảnh 54/60** · Phút 53:00 – 54:00 của phim · Hồi 3: Người Môi Giới · Tập 6/6 (bản 10 phút) · Thời lượng: 60s (6 clip × 10s)  
-**Tỷ lệ khung hình:** **16:9 ngang** cho YouTube; crop 9:16 khi đăng TikTok  
-**Kịch bản tổng:** [KICH_BAN_60_PHUT.md](../KICH_BAN_60_PHUT.md) · **Khóa nhân vật (9 nhân vật):** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Đăng YouTube:** [youtube.md](../youtube.md)
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
 
-[← Cảnh 53](../canh-53/README.md) | [Cảnh 55 →](../canh-55/README.md)
+Phút 53:00–54:00 · Thời gian truyện: D7 late night
 
----
+Hạ kể các lựa chọn mình đã làm và cung cấp chứng cứ mới.
 
-## 1. Tóm tắt cảnh
-Đồn đêm; Hạ ngồi với ly trà và khăn lụa xanh quấn lại trên cổ; Thành gõ máy; Mây ngồi đối diện với sổ tay. Cô nói không ai đánh cô; Kiên nói "hàng tốt phải nguyên"; cô khắc vạch bằng kẹp tóc sau tủ, ngày nào cũng nói tên anh một lần để không quên giọng mình. Qua cửa phòng giữ, Hạ nhìn thấy Sơn ngồi trên băng ghế, còng tay, mắt nhắm, đồng hồ lộ ở túi ngực; cô không vào, chỉ đứng nhìn.
+**Câu hỏi đang mở:** Hạ sẽ được nhớ như con tin hay người đã quyết định để lại dấu?
+**Móc vào cảnh:** Lời khai bắt đầu từ quyền được nghỉ của người sống sót.
+**Điểm bẻ:** Cô làm rõ dấu khăn, video và kẹp rồi chọn việc về nhà của mình.
+**Gieo / trả:** Biến điều khán giả thấy thành sự thật điều tra, không diễn lại cảnh bị giữ.
 
-* **Bối cảnh chính:** Đồn công an thị trấn, đêm ngày 7, quạt trần, phòng trước, ly trà.
-* **Nhân vật khóa trong cảnh:** Mây (@May), Hạ (@Ha), Phó Thành (@Phó Thành)
-* **Quy cách hình ảnh:** Người thật, neo-noir; hiện tại nắng trắng lạnh, quá khứ đêm ám vàng; lời dẫn ngôi thứ nhất; dàn dựng điện ảnh sạch, an toàn 100% trên Google Flow.
-* **Thời lượng:** Đúng 60 giây.
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 
----
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | J · J-cut: âm mới đến trước hình | A later station scene, Hạ already changed into borrowed white blouse and jeans. | Mây brings tea, Thành starts a fresh witness record at a separate desk. | Hạ seated freely with scarf on chair, tea before her. | Mây (@May), nói trong hình: Mệt thì nghỉ. Tao vẫn ở đây. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Small scarf fragment sealed between Mây and Hạ. | Hạ explains she tore it on the flower-shop latch to leave a trace for anyone searching. | Hạ pointing to the torn edge without touching the seal. | Hạ, ngoài khung hình: Tao xé lúc bị đưa ra cửa. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Thành showing Hạ the saved video on a tablet. | She identifies the ferry emblem and the meal-delivery rhythm she used to count days. | Thành adding the identifiable transport detail to the statement. | Hạ (@Ha), nói trong hình: Còi tàu tới trước bữa tối. Ngày nào cũng vậy. |
+| [4](clip-4.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Hạ holding her own empty palms above the table. | She describes deciding to keep the service hatch open when Kiên took her upward. | Mây listening without interrupting, Hạ's hands relaxing. | Hạ (@Ha), nói trong hình: Tao chỉ cần họ vào được sau tao. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | Hair clip recovered from the hatch, now in its own sealed bag. | Thành photographs Hạ identifying it and adds the recovery location. | Clip bag and station record together, chain of custody intact. | — |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | Interview ended, Thành stopping the recorder in the background. | Hạ asks to see her father's house the following morning instead of asking only about Sơn. | Mây placing the old family-house key on the table. | Hạ (@Ha), nói trong hình: Mai đưa tao về nhà ba nhé. |
 
-## 2. Kịch bản phân cảnh chi tiết (Shot List 60 giây)
+## Chỉ đạo diễn xuất từng clip
 
-| Clip | Thời gian | Diễn biến | Lời thoại (Lip-sync) | Cách tạo |
-|:---:|:---:|---|---|:---:|
-| 1 | 00:00–00:10 | **Đồn đêm; Hạ ngồi với ly trà và khăn lụa xanh quấn lại trên cổ; Thành gõ máy; Mây ngồi đối diện với sổ tay.** | Mây: "Kể đi. Để tỉnh nghe bằng chữ." | Ingredients (khóa mặt & bối cảnh) |
-| 2 | 00:10–00:20 | **Hạ kể: ba người xe đen đưa cô đi khỏi tiệm hoa; hai ngày ở phòng sau tiệm lụa; rồi bà Hai bán cô cho Kiên; biệt thự có phòng sáng, cửa khóa, bữa ăn đúng giờ.** | Hạ: "Hai ngày ở tiệm lụa. Rồi bà bán em. Phòng sáng, cửa khóa." | Frames / Extend (nối liền) |
-| 3 | 00:20–00:30 | **Cô nói không ai đánh cô; Kiên nói "hàng tốt phải nguyên"; cô khắc vạch bằng kẹp tóc sau tủ, ngày nào cũng nói tên anh một lần để không quên giọng mình.** | Hạ: "Không ai đánh em. Em khắc vạch. Em nói tên anh mỗi ngày." | Frames / Extend (nối liền) |
-| 4 | 00:30–00:40 | **Mây hỏi câu của người bạn: sao mày không về biển sớm hơn; Hạ nhìn ly trà.** | Mây: "Sao không về sớm?" · Hạ: "Tao chờ một người hết việc." | Frames / Extend (nối liền) |
-| 5 | 00:40–00:50 | **Thành ngừng gõ, tháo kính gãy, lau; cậu nói nhỏ một câu khiến hai người phụ nữ bật cười.** | Thành: "Em ghi 'chờ một người hết việc' được không chị?" · Mây: "Ghi." | Frames / Extend (nối liền) |
-| 6 | 00:50–01:00 | **Qua cửa phòng giữ, Hạ nhìn thấy Sơn ngồi trên băng ghế, còng tay, mắt nhắm, đồng hồ lộ ở túi ngực; cô không vào, chỉ đứng nhìn.** | Hạ: "Ảnh ngủ." · Mây: "Lần đầu sau bảy ngày." | Frames / Extend (nối liền) |
+- **1:** Begin Hạ's account with restored choice rather than immediately demanding another performance of her ordeal. **Diễn xuất:** Hạ considers whether to speak before taking the cup, Mây offers a genuine option to pause.
+- **2:** Reframe the torn scarf as evidence of Hạ's own decision, not merely Sơn's keepsake. **Diễn xuất:** Her off-frame explanation is exact and composed, avoiding a dramatic reenactment of the abduction.
+- **3:** Confirm a lived detail that turns an earlier clue into usable testimony without pretending the audience just discovered it. **Diễn xuất:** Her certainty comes from repetition endured, not a clever-detective smile; Thành listens rather than finishing her words.
+- **4:** Give Hạ authorship of the door decision without glorifying the danger she survived. **Diễn xuất:** Her voice is controlled with a trace of fatigue; no triumphant claim or sudden collapse into staged tears.
+- **5:** Anchor the rescue trace in a recoverable object and finish its evidentiary route. **Diễn xuất:** Visible hands behave carefully and routinely; nobody holds the item aloft like a trophy.
+- **6:** Give Hạ a forward-looking request that belongs to her life beyond Sơn. **Diễn xuất:** Hạ asks simply, with relief mixed with uncertainty about entering an old home, not a declaration of endless waiting.
 
----
+**Âm nối sang cảnh sau:** Match the central placement of the house key on Hạ table to the recorder on Sơn interview table, then begin a different account.
 
-## 3. Danh sách file prompt Google Flow (Gemini Omni)
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_60_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
 
-Copy toàn bộ nội dung file và dán thẳng vào Google Flow (16:9):
-- [clip-1.md](clip-1.md) — *Mở đầu cảnh (Ingredients)*
-- [clip-2.md](clip-2.md) — *Frames / Extend nối tiếp*
-- [clip-3.md](clip-3.md) — *Frames / Extend nối tiếp*
-- [clip-4.md](clip-4.md) — *Frames / Extend nối tiếp*
-- [clip-5.md](clip-5.md) — *Frames / Extend nối tiếp*
-- [clip-6.md](clip-6.md) — *Frames / Extend nối tiếp (cú lật, móc sang cảnh sau)*
-
-Caption đăng TikTok / Shorts: [caption.md](caption.md)
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

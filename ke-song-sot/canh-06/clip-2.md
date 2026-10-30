@@ -1,47 +1,48 @@
-Continue the scene seamlessly from the final frame of clip 1. Same composition at the seam, brisk new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 1. Same composition at the seam, new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Sơn (past timeline) wears his tailored matte-black suit, open-collar white shirt, and concealed underarm holster; black leather gloves worn on night jobs or tucked in pocket at the flower shop. Hạ wears her cream linen dress, forest-green florist apron with pocket shears, intact pale-blue silk scarf around her neck, and silver hair clip pinned at the back of her hair.
+Sơn (past timeline) wears his tailored matte-black suit, open-collar white shirt and concealed underarm holster, black leather gloves on both hands tonight. Hạ wears her cream linen dress, forest-green florist apron with pocket shears, intact pale-blue silk scarf around her neck, and silver hair clip pinned at the back of her hair.
 
 
 [TIMELINE AND LOCATION]
 Scene 06/60, clip 2/6; shot 06.2. Story time: PAST one month earlier night.
 Back room of Hạ flower shop, kettle and small wooden table, rear doorway toward main counter.
-Recent-past night, warm back-room bulbs and soft street spill, kettle steam.
+Recent-past night: warm back-room bulb overhead as key, soft cool street spill from the doorway behind, kettle steam catching the bulb light.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ establish a boundary that makes the later gift a choice rather than blind forgiveness.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 06.1, ending with Hạ's hand resting on the cash drawer, distance between them. Final physical lock: His jacket shifts in existing movement, revealing the closed holster; her working hand stops where it is.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 06.1, ending with Hạ at the small table, her hand resting still on the open cash drawer, eyes on Sơn; Sơn by the rear doorway, gloved hands at his sides, jacket fallen closed over the holster; the table and a stretch of floor between them; kettle steam rising.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Hạ's hand resting on the cash drawer, distance between them. Final physical lock: His jacket shifts in existing movement, revealing the closed holster; her working hand stops where it is.
+Hạ at the small table, her hand resting still on the open cash drawer, eyes on Sơn; Sơn by the rear doorway, gloved hands at his sides, jacket fallen closed over the holster; the table and a stretch of floor between them; kettle steam rising.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 Keep the exact previous camera, lens and axis; no framing reset.
 Composition: Preserve the preceding medium setup and shared depth; the table stays between them as she steps back.
 Focus: Keep their established eyelines, allowing physical distance to carry the shift without a rack or reframe.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn cannot answer, Hạ closes the drawer and steps back. Beat 2 (3.0–6.5s): She closes the drawer once and takes a measured step beyond the table while he stays by the door. Beat 3 (6.5–10.0s): Her hurt is clear but not pleading; Sơn's inability to answer should feel more exposed than a confession, settling crisply into the end frame as the closed drawer and unoccupied table space create a practical gap, not a symbolic lighting transformation.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Give her retreat its full time, and let the sentence end before either person repairs the distance; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Sơn opens his mouth to answer, then shuts it without a word; his gloved hands stay at his sides and his eyes drop to the floor between them. Beat 2 (3.0–6.0s): Hạ slides the cash drawer shut with a quiet knock of wood and takes one measured step back, putting the table fully between them. Beat 3 (6.0–10.0s): From beyond the table she names her boundary, voice steady and hurt, arms folding loosely across her apron; Sơn stays by the doorway and takes it without moving, jaw set.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The failed answer is short, the drawer and the step back are measured, and her sentence ends the clip with the distance unrepaired.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She closes the drawer once and takes a measured step beyond the table while he stays by the door.
-Performance: Her hurt is clear but not pleading; Sơn's inability to answer should feel more exposed than a confession.
+Blocking: Same locked setup: Sơn holds his place by the rear doorway at frame left; Hạ moves one step back from the table at frame right so it stands fully between them. Nobody crosses it.
+Performance: Hạ is hurt but not pleading; she sets a boundary because she wants him, not to punish him. Sơn's failure to answer exposes him more than a confession would. No tears, no shouting, no reaching for her.
 
 
 [DIALOGUE]
-0.2–7.5s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Em không sợ quá khứ của anh, nhưng em không muốn hai đứa mình sống cạnh nhau bằng những lời nói dối giấu giếm mỗi đêm.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Em không sợ quá khứ của anh. Em chỉ không sống nổi với lời nói dối.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +56,11 @@ The closed drawer and unoccupied table space create a practical gap, not a symbo
 [SOUND]
 Location bed: kettle and muffled street traffic.
 Foreground sound: The drawer's modest closure lands before her sentence, then ordinary room sound returns without a dramatic drop.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn remaining by the door, Hạ beyond the table. Final physical lock: She closes the drawer once and takes a measured step beyond the table while he stays by the door.
+Hạ standing beyond the small table, arms loosely folded over her apron, eyes on Sơn; the cash drawer shut; Sơn by the rear doorway, gloved hands at his sides, jaw set, eyes on her; the empty table between them, kettle steam rising.
 Next shot 06.3: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

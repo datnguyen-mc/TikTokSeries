@@ -1,47 +1,48 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her belt carries no handcuffs, both pairs having been used in the city.
 
 
 [TIMELINE AND LOCATION]
 Scene 28/60, clip 6/6; shot 28.6. Story time: D6 dawn.
-South porch of the same cabin, one table, two stools, dune path on left when facing sea.
-Present-day day-six dawn at cabin, pale coastal daylight, no past amber grade.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea, casuarina shade and the open sea below.
+Present-day day-six dawn at the cabin: pale coastal daylight through the east window as soft side key, cool shade; no past amber grade.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Break contemplation with a concrete consequence waiting below the hill.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 28.5, ending with Exactly six marks, two freshest side by side, with his dark-olive canvas backpack open beside his hands. Final physical lock: Sơn adds the day-five and day-six marks in order using the established tool.
-J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.
+Previous editorial shot: 28.5, ending with Exactly six tally marks on the doorframe, the two freshest pale and side by side; Sơn's right hand lowering the carving tool out of frame, bandaged left fingers resting on the wood below the marks; fine shavings drifting in the dawn draft.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Both at the porch looking down on the town road. Framing: Use the porch wide view to join the pair's listening with the road and market sightline.
+South porch in early morning, pine shadows on the boards: Sơn and Mây standing side by side at the porch rail, looking down the slope to the town road and market roofs; Mây's radio handset clipped at her left hip.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use the porch wide view to join the pair's listening with the road and market sightline.
 Focus: Keep the town view readable enough for closing shutters, not an impossible telephoto face reveal.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): They hear an abrupt radio warning, then see market shutters closing. Beat 2 (3.0–6.5s): Mây answers the abrupt warning while Sơn turns toward Bảy's stall below. Beat 3 (6.5–10.0s): They become alert in different ways: she receives details, he searches for the visible problem, settling crisply into the end frame as morning pine shadows and the still-ordinary porch contrast with interrupted business below.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Warning first, their different reactions next, the changed town last; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): The radio at Mây's hip crackles and Thành's voice cuts through the wind with his warning; her hand goes straight to the handset. Beat 2 (3.0–6.5s): She unclips it and raises it close, turning half away to catch the rest, while Sơn steps to the rail and searches the town below, his eyes narrowing on the green awning of Bảy's stall. Beat 3 (6.5–10.0s): Down by the market, shutters roll down one after another and figures on the road slip into doorways; Mây's thumb finds the talk key, and Sơn's right hand tightens on the rail, gaze fixed on the stall.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The warning cuts in at once, their split reactions fill the middle, and the closing shutters land last as visible proof; the clip ends with both already oriented to move.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Mây answers the abrupt warning while Sơn turns toward Bảy's stall below.
-Performance: They become alert in different ways: she receives details, he searches for the visible problem.
+Blocking: Porch rail across the foreground, town road and market below at screen right, dune path at screen left. Mây unclips the handset from her left hip; Sơn moves two steps right to the rail, right hand on it, bandaged left wrist at his side.
+Performance: Two kinds of alarm: Mây turns inward to the radio, collecting facts; Sơn turns outward, hunting for the visible problem below. Both feel the cost of having been away. No shouting, no dramatic spin toward the view.
 
 
 [DIALOGUE]
-0.2–7.8s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice through the established device; no caller body in this shot.
-Thành, qua thiết bị: Chị Mây ơi cấp báo, tên Dũng vừa đem người quay lại thị trấn Hòn Sóng và đang uy hiếp ngay tại quán cà phê ông Bảy!
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
+Thành, qua thiết bị: Chị Mây, Dũng dẫn người quay lại rồi! Tụi nó đang uy hiếp ở quán ông Bảy.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +56,11 @@ Morning pine shadows and the still-ordinary porch contrast with interrupted busi
 [SOUND]
 Location bed: soft surf, pine wind and porch-board creaks.
 Foreground sound: The established radio voice cuts into wind, without a new action score resetting the film.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Thành radio warning carries into the present-day blocked street. The town threat is the next event, not another flashback.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Thành radio warning carries into the present-day blocked street. The town threat is the next event, not another flashback.
 
 [END FRAME — natural motion continues]
-Mây answering her radio, Sơn looking toward Bảy's stall. Final physical lock: Mây answers the abrupt warning while Sơn turns toward Bảy's stall below.
+Mây on the porch with the radio handset raised to her mouth, thumb on the talk key, turned half away; Sơn at the rail, right hand gripping it, staring down at Bảy's green awning; market shutters below closed, the road emptying.
 Next shot 29.1: Cắt thiết lập thời gian/không gian. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

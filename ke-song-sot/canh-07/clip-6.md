@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
@@ -9,40 +10,40 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 
 [TIMELINE AND LOCATION]
 Scene 07/60, clip 6/6; shot 07.6. Story time: D2 morning.
-Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
-Present-day morning daylight, neutral station window fill for station shots.
+Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
+Present-day morning: soft daylight through the east-facing cabin window as side key, open sky fill on the porch; neutral window side light inside the station.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Mây choosing a method of investigation, keeping suspicion separate from proof.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 07.5, ending with Printer feeding one page, Mây taking it. Final physical lock: Thành completes the existing check, the printer feeds one result, and Mây takes it by its edge.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 07.5, ending with The printer's rollers slowing, one printed page half drawn out of the tray between Mây's thumb and fingers, its content only layout shapes; Thành's hand still on the mouse; the monitor glow steady on the worn keys.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Mây laying the result in a new investigation folder. Framing: Frame both officers with folder in the lower medium space and support radio already available.
+Station desk under the ceiling fan: Thành's open leather evidence folder holding Sơn's rental note and the fresh printout, Mây's palm flat on the page; Mây standing over the desk on the left, Thành on the right with his radio handset at his belt.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame both officers with folder in the lower medium space and support radio already available.
 Focus: Keep her face and the open folder readable, with the radio work secondary in the same setup.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She assigns one discreet observer and asks for outside vehicle reports. Beat 2 (3.0–6.5s): She files the mismatch and assigns discreet observation while Thành begins the support request. Beat 3 (6.5–10.0s): Mây is purposeful, not conspiratorial; Thành's readiness makes this feel like coordinated work rather than a secret favor, settling crisply into the end frame as plain paper and the rental note give the inquiry physical continuity instead of another screen display.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: One clear assignment closes the scene; avoid an extra pointing gesture or a second request to repeat the instruction; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Mây smooths the printout flat beside the rental note and, without looking up, tells Thành they will not arrest yet, because whoever comes looking for Sơn is the real lead. Beat 2 (3.0–6.5s): She lifts her eyes to him and assigns one quiet watcher and a log of strange vehicles; Thành nods and answers that he will have the crossroad post note city plates. Beat 3 (6.5–10.0s): He unclips the radio handset and raises it to his mouth, thumb finding the key, while Mây turns back to the open folder and squares its edge against the desk.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One quiet instruction and one acknowledgement, never repeated; the scene closes on the radio coming up and the folder squared, a working moment still in motion.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She files the mismatch and assigns discreet observation while Thành begins the support request.
-Performance: Mây is purposeful, not conspiratorial; Thành's readiness makes this feel like coordinated work rather than a secret favor.
+Blocking: Desk across the lower frame, folder open toward Mây. Mây stands over it on the left, Thành on the right. The radio handset moves from Thành's belt to his mouth; the printout stays in the folder.
+Performance: Mây is purposeful, separating suspicion from proof; she wants the hunters more than the hunted and says so once. Thành's quick readiness makes this coordinated work, not a favour. No conspiratorial glances, no raised voice.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Đừng bắt vội, một người dùng giấy giả nhưng cố tình lộ mặt ở quán nước nghĩa là đang chờ kẻ khác tìm tới, cử người canh các xe lạ vào thị trấn.
-Thành (@Phó Thành), nói trong hình: Để em báo trạm gác ngã ba ghi lại biển số mọi xe từ thành phố xuống.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Mây (@May), nói trong hình: Chưa bắt. Ai tìm anh ta mới là đầu mối. Cho người canh kín, ghi xe lạ.
+Thành (@Phó Thành), nói trong hình: Dạ, em báo chốt ngã ba ghi biển số xe thành phố.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Plain paper and the rental note give the inquiry physical continuity instead of 
 [SOUND]
 Location bed: ceiling fan and quiet paperwork.
 Foreground sound: The support channel opens quietly beneath her instruction, maintaining a working-station bed after the paper reveal.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Introduce garage ventilation hum before the flashback cut away from the station radio and folder.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Introduce garage ventilation hum before the flashback cut away from the station radio and folder.
 
 [END FRAME — natural motion continues]
-Folder open with Sơn's rental note, Thành calling for support. Final physical lock: She files the mismatch and assigns discreet observation while Thành begins the support request.
+Folder open on the desk with the printed result beside Sơn's rental note, Mây's fingertips on its squared edge; Thành at her right with the radio handset at his mouth, thumb on the key, about to speak; ceiling fan turning above them.
 Next shot 08.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

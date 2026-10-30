@@ -23,6 +23,7 @@ Sơn có bảy ngày trước khi Hạ bị chuyển đi bằng tàu. Kiên mu�
 - **CUT / OPEN / MATCH / J / L:** dùng Ingredients và reference của shot mới. Đừng ép start frame cũ sang nơi hoặc thời gian mới. Match cut là cắt hình, không biến hình.
 - **Shot chỉ có người nền:** không đính mặc định bốn nhân vật chính; runner dùng text-to-video khi không chỉ định reference.
 - **J/L-cut:** mix khoảng 0,25 giây âm địa điểm trước/sau trên timeline; model chỉ tạo một shot mới. Dùng ambience xuyên cảnh và một phần nhạc chung ở hậu kỳ.
+- **Khung hình sạch:** mọi prompt cấm logo đài truyền hình hoặc kênh ở góc hình, watermark, chữ chạy tin tức, lower-third, biểu tượng LIVE/REC và timestamp. Validator chặn chữ TV/tin tức/truyền hình trong dữ liệu cảnh. Khi duyệt render, soi bốn góc khung; thấy logo hoặc chữ thì tạo lại clip.
 - Mỗi prompt đã ghi đầu và cuối cụ thể, vị trí/trang phục/đạo cụ. Kiểm tra ghép đôi sau render, nhất là 40–43 và 50–53. Bản dọc cần reframe riêng cho cảnh nhiều người hai phía.
 
 ```bash

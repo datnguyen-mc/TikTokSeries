@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -8,42 +9,42 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 
 [TIMELINE AND LOCATION]
 Scene 12/60, clip 1/6; shot 12.1. Story time: D3 morning.
-One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
-Present-day morning, raking daylight between pines, natural sandy reflections.
+One-room wooden cabin with weathered plank walls and a corrugated-iron roof, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day morning: low sun from the east raking between the pines in hard shafts and moving shadow bars, white-sand bounce lifting the faces.
 
 [SCENE OPENING HOOK — Mở cảnh 12: Rừng Dương]
-Scene goal: Sơn chống phục kích, cứu người sau khi thuốc gây bất động. Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.
+Scene goal: Sơn chống phục kích, cứu người sau khi thuốc gây bất động. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Turn the familiar morning tally into an alarmed departure without replaying earlier carving beats.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 11.6, ending with Both moving down the dune path away from the cabin. Final physical lock: She folds the notebook once, gives the instruction and leads Thành down the existing path.
-Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes immediately at 0.0s with brisk action and dialogue at 0.2s.
+Previous editorial shot: 11.6, ending with Mây and Thành walking down the dune path away from the cabin, Mây a step ahead with the closed notebook in her hand, Thành behind with the folder under his arm; sand sliding at their heels; the lit porch small and steady up the slope behind them.
+Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes from the first frame, action under way at 0.0s.
 
 [START FRAME — state only, not an action to repeat]
-Two marks on the frame, sunlight just reaching the wood. Framing: The detail setup holds two existing marks and the fresh third, with rear-door direction at the frame edge.
+Two pale tally marks on the cabin's entry doorframe, first morning sun just reaching the wood; Sơn's bare right hand holds the carving tool with its blade set beside them; a narrow shelf below; across the room behind, the rear door.
 
 [CAMERA]
-85mm brisk detail shot. Hands and the relevant object move decisively from 0.0s; spatially readable with zero hesitation.
-One new coverage angle on the established side of the axis. Never cut internally.
+85mm detail shot. Hands and the relevant object move decisively from 0.0s and stay spatially readable.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The detail setup holds two existing marks and the fresh third, with rear-door direction at the frame edge.
 Focus: Keep the count exact and readable as cuts in wood, without showing pursuers in a second angle.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn makes the third mark, hears footsteps and leaves by the rear door. Beat 2 (3.0–6.5s): Sơn finishes the third tally, registers approaching footsteps and leaves by the existing rear exit. Beat 3 (6.5–10.0s): The tool hand becomes economical, not panicked; the choice of exit should show practiced awareness, settling crisply into the end frame as fresh shavings catch raking light while the rear door moves naturally in the pine breeze.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Do not prolong the carving after the threat is heard; the completed mark stays as proof he just left; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): The blade cuts the third short stroke beside the other two, pale shavings curling off in the raking light, as boots begin to creak on the porch boards outside. Beat 2 (3.0–5.5s): The hand finishes the stroke without slowing, lays the tool on the shelf below in one economical move and leaves the wood. Beat 3 (5.5–10.0s): Beyond the doorframe, across the room, the rear door swings open on the pines and pulls shut behind a passing shoulder, still moving on its hinge, while three clean marks catch the sun.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The cut and the first footsteps overlap; nothing lingers on the wood after the threat; the clip ends on the completed mark and a door still moving.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn finishes the third tally, registers approaching footsteps and leaves by the existing rear exit.
-Performance: The tool hand becomes economical, not panicked; the choice of exit should show practiced awareness.
+Blocking: Doorframe and marks fill the near right, shelf below; the rear door sits deep left across the room. Sơn's right hand cuts and sets the tool down, then his figure crosses the background to the rear door, small and brief.
+Performance: Practiced awareness: no panic, only economy. He finishes what he started because the count matters, then takes the exit he planned. No startled look over his shoulder, no fumbling.
 
 
 [DIALOGUE]
-0.2–8.3s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice-over narration only; visible mouths remain at rest while physical action advances.
-Sơn, lời dẫn ngoài hình: Sáng ngày thứ ba, vừa khắc xong vạch đếm thứ ba lên khung cửa thì tiếng bước chân rình rập của hai kẻ lạ đã áp sát hiên nhà.
+0.2–4.4s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+Sơn, lời dẫn ngoài hình: Ngày thứ ba. Lần này, hai kẻ lạ lên đồi không gõ cửa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Fresh shavings catch raking light while the rear door moves naturally in the pin
 [SOUND]
 Location bed: wind through wood joints and remote surf.
 Foreground sound: Footsteps arrive over the last short scrape, then the rear latch and retreating step change the sound direction.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Three marks, rear door moving closed behind him. Final physical lock: Sơn finishes the third tally, registers approaching footsteps and leaves by the existing rear exit.
+Three pale marks on the doorframe in raking morning light, fresh shavings on the shelf beside the tool; across the room the rear door swinging nearly shut, pine light flickering through the closing gap; footsteps on the porch outside.
 Next shot 12.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

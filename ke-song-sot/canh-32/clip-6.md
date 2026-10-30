@@ -1,48 +1,49 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice: focused, calm Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset; no handcuffs on her belt until fresh pairs arrive at 35.1. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
 
 
 [TIMELINE AND LOCATION]
 Scene 32/60, clip 6/6; shot 32.6. Story time: D6 night.
 Small town clinic, steel beds behind green curtains, locked sample cupboard, desk and sink away from patients.
-Present-day clinic night, neutral overhead practicals, dark windows.
+Present-day clinic night: neutral overhead practicals as soft top key, cooler shadows at the curtains, dark windows.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Translate the limits just agreed into a prepared response, not another explanation of the bargain.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 32.5, ending with Mây's finger on the abort route, Sơn acknowledging. Final physical lock: Mây holds the abort route with a finger while Sơn gives his agreement without touching it.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 32.5, ending with Mây's finger pressed on the abort route on the sketch, her eyes on Sơn; Sơn across the desk, chin lifting from his nod, hands at his sides; Linh behind Mây beside his medical bag, watching Sơn; the dark window reflecting the overhead light.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Linh placing ordinary monitoring equipment in his bag. Framing: Keep medical bag, map holder and unarmed Sơn together in one practical wide setup.
+The clinic at night: Linh at a steel bed with his canvas medical bag open, the breathing-support kit in his hands; Mây at the desk, radio handset raised in her right hand, folded harbour sketch in her left; Sơn beside the desk, hands empty.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Keep medical bag, map holder and unarmed Sơn together in one practical wide setup.
 Focus: Keep the bag and map destinations clear while faces remain useful, no gear catalogue inserts.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Mây radios the agreed positions while Sơn steps back from the plan. Beat 2 (3.0–6.5s): Linh packs his existing equipment while Mây confirms roles, Sơn stepping back to leave space. Beat 3 (6.5–10.0s): They work with sober concentration, without the triumphant rhythm of a guaranteed victory montage, settling crisply into the end frame as ordinary equipment in a worn bag supports care rather than miracle medicine.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Finish preparations without repeating their earlier positions; the next memory should interrupt readiness emotionally; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Mây keys the radio and tells every team to hold its agreed position, tucking the folded sketch into her duty pouch with her free hand, while Linh fits the breathing-support kit into the canvas bag. Beat 2 (3.0–6.5s): She finishes on the priority, bringing both Hạ and Sơn out safe; a short crackle answers as Linh buckles the flap. Beat 3 (6.5–10.0s): Sơn steps back from the desk toward the dark window to leave them room, both bare hands visible and empty, while Linh lifts the bag by its strap, ready.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The radio order starts at once over the packing; the answering crackle closes it; the end leaves everyone ready and still working, not posed.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Linh packs his existing equipment while Mây confirms roles, Sơn stepping back to leave space.
-Performance: They work with sober concentration, without the triumphant rhythm of a guaranteed victory montage.
+Blocking: Linh screen left by the steel beds and green curtains; Mây center at the desk; Sơn takes two steps back from the desk to screen right by the window. The sketch ends in Mây's duty pouch, the radio in her right hand.
+Performance: Sober concentration: three people turning a plan into tasks. Mây's radio voice is level; Sơn's step back is a deliberate yielding of control. No victory mood, no knowing smiles.
 
 
 [DIALOGUE]
-0.2–8.9s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Các mũi trinh sát chú ý, nhiệm vụ tối thượng tại bãi cảng ngày mai là tách con tin và đưa cả Hạ lẫn Sơn rút về tuyến sau an toàn.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Mây (@May), nói trong hình: Các tổ giữ đúng vị trí đã chốt. Ưu tiên đưa cả Hạ lẫn Sơn ra an toàn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Ordinary equipment in a worn bag supports care rather than miracle medicine.
 [SOUND]
 Location bed: quiet ventilation and distant metal-tray sounds.
 Foreground sound: Bag handling, radio response bed and her single instruction remain restrained and motivated.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Flower-shop shutter sound introduces the memory after the current radio check. No repeated medical explanation.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Flower-shop shutter sound introduces the memory after the current radio check. No repeated medical explanation.
 
 [END FRAME — natural motion continues]
-Medical bag ready, route map with Mây, Sơn unarmed. Final physical lock: Linh packs his existing equipment while Mây confirms roles, Sơn stepping back to leave space.
+Linh holding his buckled canvas medical bag by the strap beside the steel bed; Mây at the desk, radio still near her mouth, folded sketch in her duty pouch; Sơn standing back by the dark window, hands empty at his sides, unarmed.
 Next shot 33.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

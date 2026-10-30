@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Voice: rough, direct Southern Vietnamese male voice.
@@ -9,42 +10,42 @@ Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and hea
 
 [TIMELINE AND LOCATION]
 Scene 18/60, clip 1/6; shot 18.1. Story time: D4 morning.
-Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
-Present-day morning coastal sun outside, awning shade at the counter.
+Hòn Sóng main street between inland crossroad and market: worn narrow asphalt, low tube houses with half-raised roll-up shutters, motorbikes parked on the pavement, fishing nets drying along the sea wall, coffee stall beside the sea wall. No readable signs.
+Present-day morning: coastal sun from the east on the street, faces in soft awning shade at the counter with bounce from the pavement.
 
 [SCENE OPENING HOOK — Mở cảnh 18: Dũng Tới Biển]
-Scene goal: Dũng đe dọa bằng phần khăn còn lại, để lộ lệnh về thành phố. Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.
+Scene goal: Dũng đe dọa bằng phần khăn còn lại, để lộ lệnh về thành phố. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Dũng's entitlement disturb the town's ordinary order through one clearly visible trespass.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 17.6, ending with Protection roster on the desk, Thành acknowledging his post. Final physical lock: Mây briefs support, assigns Thành's town role and leaves the roster before preparing to travel.
-Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes immediately at 0.0s with brisk action and dialogue at 0.2s.
+Previous editorial shot: 17.6, ending with The protection roster flat on the desk under Thành's hand, his pen at his own line; Mây upright beside him, phone back in its cradle, notebook in hand; Sơn by the doorway, watching her; the ceiling fan turning over the desk.
+Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes from the first frame, action under way at 0.0s.
 
 [START FRAME — state only, not an action to repeat]
-Two black cars stopping outside the coffee stall. Framing: Use the wide street composition to keep both black cars, empty chair and Bảy behind his counter related.
+Seafront street by Bảy's stall in morning sun: two black cars rolling to a stop at the curb; Bảy behind his counter under the green awning, a coffee glass in hand, checkered cloth over his shoulder; empty plastic tables and chairs seaward.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use the wide street composition to keep both black cars, empty chair and Bảy behind his counter related.
 Focus: Keep the chair's path and standing bodies readable, avoiding a low-angle glorification of his size.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Dũng steps out, knocks one empty chair aside, asks after his men. Beat 2 (3.0–6.5s): Dũng steps out and knocks only the empty chair aside, his men staying near their cars. Beat 3 (6.5–10.0s): He expects the place to yield before he speaks; Bảy remains in place without exaggerated fearless posturing, settling crisply into the end frame as dusty tires, scuffed chair legs and ordinary seafront light preserve the modest scale of the intrusion.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The chair disturbance is quick and singular; let its awkward resting position persist as a problem someone must answer; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): The lead car's door swings open and Dũng steps out, work bag strapped across his chest, while two of his men climb out of the second car and stay beside it. Beat 2 (3.0–6.0s): He crosses the pavement without slowing and sweeps one empty plastic chair aside with his boot; it clatters onto its side between the tables. Beat 3 (6.0–10.0s): Stopping at the edge of the awning shade, he demands of Bảy where the two men he sent yesterday are, chin jutting; behind the counter Bảy keeps the glass in his hand and meets his eyes.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The arrival is quick, the chair disturbance singular and short, and the demand lands last, the fallen chair left lying as a problem someone must answer.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Dũng steps out and knocks only the empty chair aside, his men staying near their cars.
-Performance: He expects the place to yield before he speaks; Bảy remains in place without exaggerated fearless posturing.
+Blocking: Cars at the curb screen left, stall and counter screen right, tables between them. Dũng walks left to right through the tables; his men stay by the cars. Bảy holds his place behind the counter.
+Performance: Dũng expects the town to yield before he speaks; the kicked chair is entitlement, not rage. Bảy is wary but stays put, hiding fear behind stillness. No swagger, no fearless posing from Bảy.
 
 
 [DIALOGUE]
-0.2–8.3s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Dũng (@Dũng), nói trong hình: Sáng ngày thứ tư tao đích thân xuống Hòn Sóng rồi đây ông già, hai thằng đàn em tao gửi xuống hôm qua giờ nằm ở đâu, nói mau!
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Dũng (@Dũng), nói trong hình: Hai thằng em tao gửi xuống hôm qua đâu rồi, ông già? Nói mau.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,11 +60,11 @@ Dusty tires, scuffed chair legs and ordinary seafront light preserve the modest 
 [SOUND]
 Location bed: distant motorcycles and muted market voices.
 Foreground sound: A dry chair scrape briefly interrupts traffic and awning sounds, then his question takes the foreground.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Chair on its side, Bảy behind the counter. Final physical lock: Dũng steps out and knocks only the empty chair aside, his men staying near their cars.
+Plastic chair lying on its side between the tables; Dũng at the awning's edge facing the counter, weight forward; Bảy behind the counter holding a coffee glass, cloth on his shoulder; Dũng's two men waiting by the cars; awning cloth flapping in the sea wind.
 Next shot 18.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

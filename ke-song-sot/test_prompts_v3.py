@@ -99,6 +99,54 @@ class FilmContinuityTests(unittest.TestCase):
             for field in film.DRAMA_FIELDS[:-1]:
                 self.assertIn(s['dramaturgy'][field],guide,(s['number'],field))
 
+    def test_each_beat_plays_once_and_frames_are_states(self):
+        for c in self.shots:
+            self.assertRegex(c['action'],film.BEATS,c['id'])
+            self.assertNotIn(c['cinematic']['blocking'].rstrip('.'),c['action'],c['id'])
+            for frame in (c['start_frame'],c['end_frame']):
+                self.assertNotIn('Final physical lock',frame,c['id'])
+                self.assertNotIn('Framing:',frame,c['id'])
+        altered=copy.deepcopy(self.shots)
+        shot=altered[0]
+        shot['action']=f"Beat 1 (0.0–3.0s): {self.shots[1]['action']} Beat 2 (3.0–6.5s): {shot['cinematic']['blocking']} Beat 3 (6.5–10.0s): He looks on."
+        with self.assertRaisesRegex(ValueError,'blocking note replayed'):
+            film.validate(self.plan,altered)
+        altered=copy.deepcopy(self.shots)
+        altered[0]['end_frame']+=' Final physical lock: he steps down.'
+        with self.assertRaisesRegex(ValueError,'must be a state'):
+            film.validate(self.plan,altered)
+
+    def test_dialogue_fits_one_omni_take(self):
+        for c in self.shots:
+            spoken=sum(film.syllables(d['text']) for d in c['dialogue'])
+            self.assertLessEqual(spoken,film.MAX_CLIP_SYLLABLES,c['id'])
+        altered=copy.deepcopy(self.shots)
+        altered[0]['dialogue'][0]['text']=' '.join(['nói']*(film.MAX_CLIP_SYLLABLES+1))
+        with self.assertRaisesRegex(ValueError,'spoken syllables'):
+            film.validate(self.plan,altered)
+
+    def test_prompts_ask_for_one_uncut_natural_take(self):
+        for i,c in enumerate(self.shots):
+            text=film.render_prompt(self.plan,c,self.shots[i-1] if i else None,
+                                    self.shots[i+1] if i<359 else None)
+            self.assertIn('In a single continuous shot',text,c['id'])
+            for phrase in ('fast-paced','brisk scene pacing','rapid mouth','two rapid','Brisk voice',
+                           'briskly and decisively','Final physical lock'):
+                self.assertNotIn(phrase,text,(c['id'],phrase))
+            self.assertIn('150-degree' if c['camera']=='H' else '180-degree',text,c['id'])
+            self.assertIn(film.CLEAN_FRAME,text,c['id'])
+            self.assertIn('TV station or channel logos',text,c['id'])
+
+    def test_no_shot_is_framed_as_television(self):
+        altered=copy.deepcopy(self.shots)
+        altered[5]['action']=altered[5]['action'].replace('Beat 3','A TV news report plays. Beat 3',1)
+        with self.assertRaisesRegex(ValueError,'TV/news wording'):
+            film.validate(self.plan,altered)
+        altered=copy.deepcopy(self.shots)
+        altered[9]['dialogue'][0]['text']='Chuyện này lên truyền hình rồi đó.'
+        with self.assertRaisesRegex(ValueError,'TV/news wording'):
+            film.validate(self.plan,altered)
+
     def test_detail_shots_do_not_require_visible_lips(self):
         for c in self.shots:
             if c['camera']=='I':

@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed clean white blouse, blue jeans, flat sandals, long pale-blue silk scarf carried or worn. Voice: warm, clear, expressive Southern Vietnamese female voice.
@@ -9,39 +10,39 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 
 [TIMELINE AND LOCATION]
 Scene 57/60, clip 6/6; shot 57.6. Story time: D8 morning.
-Public seafront walkway outside the secured pier, trees beside the main transport road, clear safe place to stand.
-Same day-eight morning, soft house daylight, bright public walkway.
+Public seafront walkway outside the secured pier, casuarina trees beside the main transport road, clear safe place to stand.
+Same day-eight morning: soft window daylight inside the house, bright open sun on the public walkway with sea bounce on faces.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ choose a safe visible place for the farewell instead of repeating a desperate chase.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 57.5, ending with Single wrapped lily in Hạ's hand, remaining vase undisturbed. Final physical lock: She trims and wraps only that stem, leaving the remaining vase untouched.
-J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.
+Previous editorial shot: 57.5, ending with Hạ's hands holding the single lily wrapped in plain paper just above the windowsill; the yard vase behind with its remaining lilies undisturbed, petals stirring in the window breeze; the cut stem end and the scissors lying on the sill.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Hạ and Mây reaching the public walkway, transport engine heard near the station. Framing: The wide connects public walkway, tree line and transport road without placing either woman in traffic.
+Public seafront walkway under a line of trees beside the main transport road; Hạ and Mây walking in along it, Hạ holding the paper-wrapped lily in both hands at waist height, Mây on her inner side; the road beyond the curb empty.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The wide connects public walkway, tree line and transport road without placing either woman in traffic.
 Focus: Keep their relation to the road clear, no long-lens compression suggesting they are directly in its path.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Hạ stays on the safe side of the walkway with the flower rather than running into the road. Beat 2 (3.0–6.5s): Hạ stays beside Mây on the safe side, holding the already wrapped lily where the window can see her. Beat 3 (6.5–10.0s): Her line is confident but restrained, choosing to be seen rather than demanding the vehicle stop, settling crisply into the end frame as one lily remains in plain paper, scarf and clean clothes unchanged, no sudden crowd gathers to see Sơn off.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Arrival at the chosen place completes before she speaks, then stay ready without rehearsing a wave; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): As a vehicle engine rises from the station direction, they reach a clear spot under the trees and Hạ stops at the walkway's safe edge, telling Mây she will stand right here because he will see her as the vehicle passes. Beat 2 (3.5–7.0s): As the engine grows, Hạ's weight tips half a step toward the curb; she draws it back and plants both feet on the walkway, the lily steady at her waist. Beat 3 (7.0–10.0s): Mây settles beside her on the inner side; both face the road, the scarf and the leaves moving in the sea wind as the engine sound comes closer.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Arrival and the line take the first beat, the half step and its correction are the held tension, and the end waits, alive, for a vehicle that has not appeared yet.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Hạ stays beside Mây on the safe side, holding the already wrapped lily where the window can see her.
-Performance: Her line is confident but restrained, choosing to be seen rather than demanding the vehicle stop.
+Blocking: Walkway and tree line across the foreground, the road beyond the curb in the middle ground. Both walk in from screen right, the town side, and stop centre a full pace back from the curb. Lily in both of Hạ's hands.
+Performance: Confident but restrained: Hạ wants to be seen, not to stop the vehicle or run after it. The half step toward the road betrays how much it matters, and she corrects it herself. No desperate chase, no rehearsed wave.
 
 
 [DIALOGUE]
-0.2–9.1s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Tao ôm nhành hoa ly trắng đứng yên trên vỉa hè đi bộ dưới hàng cây này thôi Mây, xe chuyển trại chạy ngang qua đây là ảnh sẽ nhìn thấy tao.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Tao đứng đây thôi Mây. Xe chạy ngang, ảnh sẽ thấy tao.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +56,11 @@ One lily remains in plain paper, scarf and clean clothes unchanged, no sudden cr
 [SOUND]
 Location bed: sea wind and ordinary town traffic.
 Foreground sound: The approaching transport engine motivates her attention, ordinary morning sea sound remains beneath it.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the approaching transport engine into Sơn window-side view. Hạ already holds the single lily; do not wrap it again.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the approaching transport engine into Sơn window-side view. Hạ already holds the single lily; do not wrap it again.
 
 [END FRAME — natural motion continues]
-Hạ visible from the transport lane, Mây beside her. Final physical lock: Hạ stays beside Mây on the safe side, holding the already wrapped lily where the window can see her.
+Hạ standing still at the safe edge of the walkway under the trees, the wrapped lily held at waist height in both hands, facing the road; Mây beside her on the inner side; the transport lane still empty, engine sound growing, leaves and scarf moving in the wind.
 Next shot 58.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 65; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. later years age 65, older weathered hands, faded olive field jacket, weathered dark-olive canvas backpack slung over left shoulder, bare hands, frame below shoulders only without a face reveal. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -8,39 +9,39 @@ Older Sơn carries the same weathered dark-olive canvas backpack over his left s
 
 [TIMELINE AND LOCATION]
 Scene 60/60, clip 4/6; shot 60.4. Story time: LATER many years after the case.
-Coastal town crossroad, coach stop on the inland road, sea beyond the south side, no readable signs.
-Many years later, soft coastal morning, same geography, mature faces with natural skin texture.
+Hòn Sóng crossroad at an old coach stop on the inland road: cracked, sun-bleached asphalt edged with sand, low salt-faded concrete houses with rusted corrugated-iron roofs, casuarinas bending in the sea wind, small fishing boats far out on the sea beyond the south side. Lived-in, quiet and slightly desolate, never a tourist postcard; no readable signs.
+Many years later, soft coastal morning: low sun from the east, gentle sea fill, same geography, mature faces with natural skin texture.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Repeat the opening arrival with a changed hand and age, while keeping identity just outside full view.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 60.3, ending with One empty chair at the sea-facing table, coach sound closer. Final physical lock: He hears the arriving coach, looks toward its direction and leaves a clean glass by the empty chair.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 60.3, ending with One empty chair squared at the sea-facing table, a clean glass set before it; older Bảy straightening beside it, cloth over his shoulder, glancing toward the crossroad; the green awning stirring; the coach engine louder.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Coach door open, only an older man's jacket, bag and hands framed below shoulders, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Framing: Frame below the older man's shoulders in medium, coach door, canvas bag and ground readable.
+The coach stands at the crossroad stop, door open; on its doorway step, an older man in a faded olive field jacket, the weathered dark-olive backpack on his left shoulder, left hand on its strap, right hand bare at his side, a repaired silver watch chain at his jacket.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame below the older man's shoulders in medium, coach door, canvas bag and ground readable.
 Focus: Keep the same repaired watch chain briefly readable inside the jacket, never show or add another watch.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): The man steps down once, same repaired watch chain visible inside the jacket, coach departs, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Beat 2 (3.0–6.5s): He steps down once, bag in LEFT hand, RIGHT hand bare, coach leaves without a second disembarkation. Beat 3 (6.5–10.0s): His movement is older and measured, neither swaggering professional nor a suddenly frail caricature, settling crisply into the end frame as faded olive fabric and older hand texture carry the years, no fresh wound, gun or disguise appears.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Complete the step and settle his balance, ending with him present in the town rather than beginning the approach to the shop here; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): The man steps down onto the asphalt, measured and a fraction slower than a younger man, the boot landing and the knee taking the weight, as his voice-over begins. Beat 2 (3.0–6.5s): He moves one pace clear of the door and settles his balance; the door folds shut and the coach pulls away out of frame left, its draught tugging at the jacket hem. Beat 3 (6.5–10.0s): He stands in the settling dust, the watch chain catching the light inside his open jacket; his bare right hand opens and closes at his side, and his weight eases toward the town.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One step down, one settle, and the coach gone by six and a half seconds; the last beat holds his presence in the town, breathing and still, not yet walking toward the shop.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He steps down once, bag in LEFT hand, RIGHT hand bare, coach leaves without a second disembarkation.
-Performance: His movement is older and measured, neither swaggering professional nor a suddenly frail caricature.
+Blocking: Coach door left of centre; he steps down toward camera and stops a pace clear while the coach leaves frame left. The backpack stays on his left shoulder with the left hand on its strap; the right hand stays bare and empty.
+Performance: Older and measured, neither swaggering professional nor frail: twenty years sit in the knees and the feeling stays inside. He wants to arrive quietly. No pause for effect, no hero stance, no face shown.
 
 
 [DIALOGUE]
-0.2–9.4s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice-over narration only; visible mouths remain at rest while physical action advances.
-Sơn, lời dẫn ngoài hình: Hai mươi năm sau ngày bước lên xe chuyển trại, tôi bước xuống ngã ba Hòn Sóng với mái tóc đã bạc, dây đồng hồ quả quýt đã sửa lành lấp lánh bên trong vạt áo màu ô liu cũ.
+0.2–4.1s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+Sơn, lời dẫn ngoài hình: Hai mươi năm sau, tôi bước xuống ngã ba này lần nữa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +56,11 @@ Faded olive fabric and older hand texture carry the years, no fresh wound, gun o
 [SOUND]
 Location bed: coach engine and sea wind.
 Foreground sound: One footfall and the departing engine echo the first scene naturally, with no voice-over naming the man.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Man standing with bag in left hand, right hand bare at his side, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Final physical lock: He steps down once, bag in LEFT hand, RIGHT hand bare, coach leaves without a second disembarkation.
+The older man standing where the coach stood, backpack on his left shoulder, left hand on its strap, right hand bare and open at his side; the repaired watch chain glinting at his jacket; dust settling around his boots, sea wind moving the jacket hem; the road empty behind him.
 Next shot 60.5: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

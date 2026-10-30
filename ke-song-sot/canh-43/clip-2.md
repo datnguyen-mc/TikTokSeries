@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
@@ -10,39 +11,39 @@ Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck,
 
 [TIMELINE AND LOCATION]
 Scene 43/60, clip 2/6; shot 43.2. Story time: D7 dusk.
-Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
-Last blue dusk, car lamps in established positions, harbour floodlight still OFF. Do not switch it on in this shot.
+Hòn Sóng concrete harbour apron: sea south with blue-painted wooden fishing boats moored along the edge, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Last blue dusk: soft cool skylight, car lamps in established positions, harbour floodlight still OFF. Do not switch it on in this shot.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Kiên puncture Bà Hai's self-justification while exploiting the opening she has left.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 43.1, ending with Bà Hai shielding Sơn's side, Kiên forced to keep Hạ close. Final physical lock: Bà Hai shields Sơn's side and draws Dũng back from Kiên's attempted claim, not across the hostage lane.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 43.1, ending with Bà Hai standing across Sơn's side between him and the west, left hand clamped on Dũng's forearm, holder in her right fingers; Dũng at her shoulder breathing hard; Sơn limp against the bollard, chest rising; Kiên west of the seam holding Hạ close; envelope still on the seam.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Kiên tightening his hold on Hạ, facing Bà Hai. Framing: Frame Kiên and restrained Hạ medium, Bà Hai on his opposing eyeline, car west behind.
+Kiên west of the seam with the white car behind him, right hand gripping Hạ's left upper arm, left hand empty at his side; Hạ's sandals planted; Bà Hai across the seam on his eyeline, holder in her right fingers.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Kiên and restrained Hạ medium, Bà Hai on his opposing eyeline, car west behind.
 Focus: Stay with his practiced face as the smile thins, with the guard's direction readable at the edge.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He reminds her she sold both people and signals his guard toward Sơn. Beat 2 (3.0–6.5s): His RIGHT hand stays on Hạ's LEFT upper arm while his other hand signals the guard inward. Beat 3 (6.5–10.0s): He sounds irritated that an agreed commodity is being reclaimed, not surprised by her morality, settling crisply into the end frame as white jacket has the same creasing from the pull, grey dress remains unchanged and no weapon appears early.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Give the accusation a clipped rhythm, then use his first backward step to carry threat toward the car; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–4.0s): Kiên's practiced smile thins; he pulls Hạ half a step closer, right hand locked on her arm, and answers Bà Hai in a clipped voice that she already sold both of them and is now playing mother. Beat 2 (4.0–7.0s): Eyes never leaving Bà Hai, he lifts his empty left hand and flicks two fingers toward the bollard; off to one side his guard starts toward the center seam, and Hạ's head turns to track the man's path. Beat 3 (7.0–10.0s): Kiên takes his first step backward toward the white car, drawing Hạ with him; her sandals drag a beat behind his polished shoes, and his smile returns, thinner than before.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The accusation is clipped and lands early; the signal is a small gesture in the middle; the backward step carries the threat toward the car and leaves the line hanging.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: His RIGHT hand stays on Hạ's LEFT upper arm while his other hand signals the guard inward.
-Performance: He sounds irritated that an agreed commodity is being reclaimed, not surprised by her morality.
+Blocking: Kiên west of the seam with the white car behind; his RIGHT hand stays on Hạ's LEFT upper arm, his empty LEFT hand gives the signal. Bà Hai holds the opposing eyeline. The guard crosses only at the frame edge toward center.
+Performance: Irritation, not surprise: a buyer annoyed that sold goods are being reclaimed. His polish slips into contempt while his grip on Hạ never loosens. Hạ stays alert, measuring the guard. No sneering villain laugh.
 
 
 [DIALOGUE]
-0.2–8.9s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Kiên (@Vũ Kiên), nói trong hình: Chính miệng bà đã định giá bán đứt cả hai đứa nó cho tôi để giữ đường tàu, giờ giữa bãi cảng lại giở giọng tình mẫu tử sao Bà Hai?
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Kiên (@Vũ Kiên), nói trong hình: Bà bán đứt cả hai đứa cho tôi rồi. Giờ giở giọng làm mẹ sao?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +57,11 @@ White jacket has the same creasing from the pull, grey dress remains unchanged a
 [SOUND]
 Location bed: boat ropes, small waves and engines only when visible.
 Foreground sound: Use a soft shoe reposition and paper rustle already on the apron; no new offscreen gun sound.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Guard moving toward center, Kiên stepping toward the white car. Final physical lock: His RIGHT hand stays on Hạ's LEFT upper arm while his other hand signals the guard inward.
+Kiên a step back toward the white car, right hand on Hạ's left upper arm, thin smile fixed on Bà Hai; Hạ half turned, eyes on the guard; off to one side the guard walking toward the center seam.
 Next shot 43.3: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

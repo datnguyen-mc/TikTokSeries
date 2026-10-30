@@ -1,5 +1,6 @@
-Continue the scene seamlessly from the final frame of clip 2. Same composition at the seam, brisk new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 2. Same composition at the seam, new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -8,39 +9,39 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 
 [TIMELINE AND LOCATION]
 Scene 05/60, clip 3/6; shot 05.3. Story time: D1 noon.
-One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
-Present-day noon daylight through cabin gaps, cooler shadows, no fluorescent source.
+One-room wooden cabin with weathered plank walls and a corrugated-iron roof, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day noon: hard top light slicing through cabin plank gaps in thin bars, soft floor bounce as fill, cooler shadows in the corners; no fluorescent source.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Turn the receipt into an external deadline while keeping its printed content visually unobtrusive.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 05.2, ending with USB and receipt placed side by side, ledger still open. Final physical lock: He peels the existing tape, removes the USB and exposes the paper beneath without hiding either.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 05.2, ending with USB and the unfolded dispatch receipt lying side by side on the table beside the open black ledger, the receipt's row of seven boxes and ship stamp facing up; Sơn's bare fingertips resting on its top edge; noon light across the paper.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-USB and receipt placed side by side, ledger still open. Final physical lock: He peels the existing tape, removes the USB and exposes the paper beneath without hiding either.
+USB and the unfolded dispatch receipt lying side by side on the table beside the open black ledger, the receipt's row of seven boxes and ship stamp facing up; Sơn's bare fingertips resting on its top edge; noon light across the paper.
 
 [CAMERA]
-85mm brisk detail shot. Hands and the relevant object move decisively from 0.0s; spatially readable with zero hesitation.
+85mm detail shot. Hands and the relevant object move decisively from 0.0s and stay spatially readable.
 Keep the exact previous camera, lens and axis; no framing reset.
 Composition: Keep the exact preceding detail setup, USB and receipt still sharing the same table orientation.
 Focus: Retain the same focus plane as the receipt reveal, with the final box and stamp readable as shapes.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn traces seven dated boxes on the receipt and stops at a ship stamp. Beat 2 (3.0–6.5s): Sơn follows the existing sequence of boxes once, stopping at the ship stamp rather than tapping repeatedly. Beat 3 (6.5–10.0s): The fingertip becomes firmer at the last box; his off-screen voice remains controlled rather than prophetic, settling crisply into the end frame as a curled paper corner shifts in the cabin breeze while his finger keeps the relevant area flat.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The sentence earns the final stop; let the fingertip remain with slight live movement after the words; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Sơn's index finger moves down to the first of the seven dated boxes and begins to slide along the row, pressing the curled paper flat as it goes. Beat 2 (3.0–6.5s): The finger crosses the middle boxes at the same even pace, counting without hurry, while the free corner of the receipt curls up in the cabin breeze. Beat 3 (6.5–10.0s): It reaches the last box and stops beside the ship stamp, the fingertip pressing harder until the nail whitens, and stays there with a slight live tremor in the knuckle as wind lifts the paper's free edge.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: An even count along the row with no taps or repeats; the line rides the travelling finger, and the stop at the stamp is held after it, the fingertip still live.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn follows the existing sequence of boxes once, stopping at the ship stamp rather than tapping repeatedly.
-Performance: The fingertip becomes firmer at the last box; his off-screen voice remains controlled rather than prophetic.
+Blocking: Exact prior detail setup: receipt at center beside the USB, ledger at frame edge. The index finger travels left to right along the row of boxes and stops at the stamp; the other hand stays out of frame.
+Performance: Controlled dread: the counting is steady, but the pressure at the last box gives him away. He is matching his private count to their written schedule. No prophetic stare, no trembling hand.
 
 
 [DIALOGUE]
-0.2–7.5s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk off-screen speech; do not add a face or animate the listener speaking.
-Sơn, ngoài khung hình: Bảy ô ngày đóng dấu mộc tàu biển trên tờ phiếu, đúng đêm ngày thứ bảy chuyến tàu hàng cuối cùng sẽ rời bến Hòn Sóng.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+Sơn, ngoài khung hình: Ô cuối có dấu tàu. Đêm ấy, chuyến hàng rời bến Hòn Sóng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,11 +55,11 @@ A curled paper corner shifts in the cabin breeze while his finger keeps the rele
 [SOUND]
 Location bed: wind through wood joints and remote surf.
 Foreground sound: One fingertip drag under the sentence, no added ticking or departing ship sound to overstate the clue.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-His fingertip on the last box beside the ship stamp. Final physical lock: Sơn follows the existing sequence of boxes once, stopping at the ship stamp rather than tapping repeatedly.
+Sơn's fingertip pressed on the last of the seven boxes beside the ship stamp, nail whitened; the receipt held flat beside the USB and the open ledger; its free corner lifting in the breeze; noon light on the paper.
 Next shot 05.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

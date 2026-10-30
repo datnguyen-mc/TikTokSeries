@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original cuff ring remains on RIGHT wrist; no usable loose cuff end. Voice: rough, direct Southern Vietnamese male voice.
@@ -9,40 +10,40 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 
 [TIMELINE AND LOCATION]
 Scene 30/60, clip 4/6; shot 30.4. Story time: D6 morning.
-Hòn Sóng fish market, parallel narrow aisles, crate stacks, side doors and rear safe exit.
-Same morning fish-market light as scene 29, bright exits for geography.
+Hòn Sóng fish market under a corrugated roof: wet concrete floor, parallel narrow aisles, foam boxes and crate stacks of fish on crushed ice, side doors and rear safe exit, no readable signs.
+Same morning fish-market light as scene 29: top light through roof gaps, bright exits backlit for clear geography, cool shade in the aisles.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Dũng recover pressure through time after losing immediate control of the aisle.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 30.3, ending with Pursuers held by support officers, rear exit protected. Final physical lock: Mây and Thành hold the safe line while the arriving officers secure the two separated men.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 30.3, ending with Two pursuers facing the wall, cuffed and held by the support officers; Thành at the mouth of the residential lane, radio raised, keeping it open; Mây at the exit's edge looking from the clear lane to the arrest; the lane behind them empty.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Dũng at the far end of the obstructed aisle, Sơn beyond reach. Framing: Keep the obstruction between him and Sơn visible in the medium framing.
+Inside the blocked aisle: the wedged ice cart between them; Dũng on the near side, breathing hard, phone in his left hand, work bag across his body; Sơn a few paces beyond the cart facing him, empty hands at his sides.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Keep the obstruction between him and Sơn visible in the medium framing.
 Focus: The phone is evidence of leverage, not readable text requiring a screen insert.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He threatens the day-seven transfer rather than another immediate fight. Beat 2 (3.0–6.5s): Dũng displays the existing schedule on his phone, lowers it without advancing into another grapple. Beat 3 (6.5–10.0s): He speaks as someone willing to wait for the deadline, making stillness threatening, settling crisply into the end frame as cold reflected light from wet crates contrasts with his exposed arms and heavy posture.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let Sơn understand the deadline before the phone drops, ending their physical deadlock with a different pressure; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Dũng stops testing the cart and raises his phone instead, holding its screen out toward Sơn, a ship schedule glowing as plain rows, as he taunts him for hiding while Hạ's ship waits. Beat 2 (3.5–6.5s): Sơn's eyes go to the screen and stay; his jaw tightens and his breath catches, then he answers flatly that Bà Hai should come and talk to him herself, his empty hands unmoving. Beat 3 (6.5–10.0s): Dũng holds his stare a moment longer and lowers the phone slowly to his thigh without stepping closer; meltwater drips off the cart between them, and neither man moves.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The phone comes up with the threat, Sơn's reaction and answer take the middle, and the slow lowering of the phone closes a deadlock that is now about time, not distance.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Dũng displays the existing schedule on his phone, lowers it without advancing into another grapple.
-Performance: He speaks as someone willing to wait for the deadline, making stillness threatening.
+Blocking: The ice cart sits across frame centre as the barrier; Dũng at screen left on the near side, Sơn at screen right beyond it, each about two arm's lengths away. Phone in Dũng's left hand; nobody crosses or climbs the cart.
+Performance: Dũng swaps force for time: he is calm because the deadline does his work, and that stillness is the threat. Sơn takes the hit in his breath and answers by pushing the fight up to Bà Hai. No lunge, no snarl, no clenched fists.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Dũng (@Dũng), nói trong hình: Mày cậy có dân chợ cá cản đường giúp hả Sơn, cứ trốn thêm một ngày nữa đi rồi coi con Hạ bị đẩy lên tàu đêm mai!
-Sơn (@Son), nói trong hình: Muốn lấy sổ thì bảo Bà Hai đứng ra nói chuyện trực tiếp với tao.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Dũng (@Dũng), nói trong hình: Cứ núp sau dân chợ đi Sơn. Trốn thêm một ngày nữa là con Hạ lên tàu.
+Sơn (@Son), nói trong hình: Muốn sổ thì bảo Bà Hai ra mặt nói với tao.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +57,11 @@ Cold reflected light from wet crates contrasts with his exposed arms and heavy p
 [SOUND]
 Location bed: ice sliding into tubs and water along the aisle.
 Foreground sound: His plain threat interrupts market movement, no ominous device buzz added afterward.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Dũng lowering his phone with the ship schedule visible as shapes. Final physical lock: Dũng displays the existing schedule on his phone, lowers it without advancing into another grapple.
+Dũng on his side of the wedged ice cart, phone lowered to his thigh with its schedule still lit, eyes on Sơn; Sơn beyond the cart, empty hands at his sides, jaw set; meltwater dripping between them.
 Next shot 30.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

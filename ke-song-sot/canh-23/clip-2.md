@@ -1,48 +1,49 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, crisp, clear Southern Vietnamese male voice.
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-Sơn wears his matte-black suit over open-collar white shirt, both hands bare without gloves; canvas backpack left behind in the cabin from Scene 35.4 onward. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
+Sơn wears his matte-black suit over open-collar white shirt, both hands bare without gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
 
 
 [TIMELINE AND LOCATION]
 Scene 23/60, clip 2/6; shot 23.2. Story time: D4 late night.
 City silk shop, teak desk to east, screened safe behind it, rear stock door west, warm practical lamps.
-Same present-day shop night as scene 22, desk lamp unchanged.
+Same present-day shop night as scene 22: desk lamp unchanged as low side key, cool alley spill at the rear door.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Sơn protecting one question from all the explanations designed to exhaust him.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 23.1, ending with Cup offered but untouched between Bà Hai and Sơn. Final physical lock: She offers one cup across the same distance; neither traveler completes the handover.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 23.1, ending with Bà Hai's left arm extended across the desk, the tea cup held out toward Sơn, untouched; Sơn standing beside the angled chair, hands at his sides, ledger under his left arm; Mây by the rear door; thin steam rising from the offered cup.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Sơn standing beside the angled chair. Framing: Stay close to his face with the angled chair edge enough to locate him standing.
+Sơn stands beside the angled chair in warm lamp light, eyes on Bà Hai across the desk, hands at his sides, ledger under his left arm; Bà Hai's left hand still holds the offered cup out toward him, its steam thinning.
 
 [CAMERA]
-85mm tight close-up at eye level, natural depth of field. Crisp facial micro-expressions and rapid vocal delivery, no orbit.
-One new coverage angle on the established side of the axis. Never cut internally.
+85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Stay close to his face with the angled chair edge enough to locate him standing.
 Focus: Keep his eyes sharp, with Bà Hai's lowered cup a contextual softness rather than a second target.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He repeats the question without accepting her bargaining language. Beat 2 (3.0–6.5s): He remains beside the chair, not leaning over the desk or touching Bà Hai. Beat 3 (6.5–10.0s): The word naming Hạ carries effort; he avoids anger performed as shouting or clenched teeth, settling crisply into the end frame as rain-dark suit cloth and bare knuckles carry his vulnerability without sweat added for effect.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: A short held look before speech, then enough space for the refusal of her terms; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.5s): Sơn holds her look and keeps his eyes from dropping to the cup as he tells her he is not asking about Kiên's money. Beat 2 (2.5–6.0s): He puts the one question that matters, what she did with Hạ on the night he was framed in the car park, voice low, the name costing him a slight catch. Beat 3 (6.0–10.0s): He stays exactly where he is, jaw set and breath shallow, as Bà Hai's offered cup begins to sink while she lowers it.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The refusal of her terms comes at once with the look held, the question follows in the same breath, then a quiet lets the sinking cup become her answer forming.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He remains beside the chair, not leaning over the desk or touching Bà Hai.
-Performance: The word naming Hạ carries effort; he avoids anger performed as shouting or clenched teeth.
+Blocking: Sơn at screen centre, the chair back edge low at screen left, Bà Hai's cup a soft shape at screen right. He does not lean, step or touch anything; only the cup in her hand descends.
+Performance: He protects one question from all the explanations designed to exhaust him; saying Hạ's name costs effort he will not show in volume. No shouting, no clenched teeth, no sweat for effect.
 
 
 [DIALOGUE]
-0.2–7.5s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Sơn (@Son), nói trong hình: Con không hỏi chuyện tiền bạc của Vũ Kiên, con hỏi má đã làm gì với Hạ trong đêm con bị phục kích ở hầm xe?
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Sơn (@Son), nói trong hình: Con không hỏi tiền của Kiên. Đêm con bị gài ở hầm xe, má làm gì Hạ?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Rain-dark suit cloth and bare knuckles carry his vulnerability without sweat add
 [SOUND]
 Location bed: silk shifting and muted rain outside.
 Foreground sound: Let the simple question interrupt the tea ritual, leaving the room immediately quiet afterward.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn still standing, Bà Hai lowering the cup. Final physical lock: He remains beside the chair, not leaning over the desk or touching Bà Hai.
+Sơn standing still beside the angled chair, eyes fixed on Bà Hai, lips just closed, breath shallow; Bà Hai's cup sinking toward its saucer in her left hand, jade bracelet catching the lamp; warm light on his face.
 Next shot 23.3: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

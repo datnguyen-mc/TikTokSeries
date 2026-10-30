@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -11,39 +12,39 @@ Time ellipsis: third afternoon, third visit.
 [TIMELINE AND LOCATION]
 Scene 04/60, clip 5/6; shot 04.5. Story time: PAST one month earlier afternoon.
 Hạ city flower shop, wooden counter east, bucket rows under front window, tower lobby across the road.
-Warm afternoon window light in the recent-past flower shop, no night grade.
+Recent-past afternoon: warm sun through the front window as side key across the counter, soft bounce from petals and pale walls, cooler shade toward the back; no night grade.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make the third return an offered kindness that Sơn cannot explain as surveillance work.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 04.4, ending with Hạ waiting for an answer, Sơn no longer watching the lobby. Final physical lock: She looks once toward the lobby, returns to his face and simply waits.
-Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action briskly from 0.0s; no transformation, morph, dissolve or replay of the old shot.
+Previous editorial shot: 04.4, ending with Hạ behind the counter holding Sơn's look, waiting for an answer, hands resting beside the wrapped lilies; Sơn turned fully toward her, the tower lobby left soft behind the glass; window reflections drifting over the flower buckets.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action from 0.0s; no transformation, morph, dissolve or replay of the old shot.
 
 [START FRAME — state only, not an action to repeat]
-Third afternoon, Sơn holding a repaired bucket handle. Framing: Keep the repaired handle and Hạ's receiving hands inside the existing medium composition.
+Third afternoon at the counter: Sơn on the customer side holding a scuffed plastic flower bucket by its newly repaired handle; Hạ behind the counter looking from the bucket to him.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Keep the repaired handle and Hạ's receiving hands inside the existing medium composition.
 Focus: Keep the repaired area visible without pretending its mechanism needs an instructional close-up.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He returns the bucket he repaired without being asked. Beat 2 (3.0–6.5s): He returns the repaired bucket, letting her take its weight before his hands leave it. Beat 3 (6.5–10.0s): Sơn avoids pride; Hạ's joke should be affectionate surprise at practical attention, not a laugh track setup, settling crisply into the end frame as scuffed plastic remains scuffed; the repair is modest and used, not magically replaced by a new bucket.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Hold the awkward emptiness of his hands after the handover before she finishes noticing the gesture; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.5s): Sơn lifts the repaired bucket over the counter toward Hạ, the mended handle creaking lightly under its weight. Beat 2 (2.5–6.0s): Hạ takes it in both hands; he waits until she has its full weight before letting go, then his empty hands hang at his sides, unsure where to go, as she starts to tease him. Beat 3 (6.0–10.0s): She turns the bucket and finds the modest mend on the scuffed plastic, looking up with affectionate surprise; Sơn gives a short, plain answer, eyes on the bucket rather than on her, hands still empty.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: A quick lift across the counter, a careful handover, then the awkward emptiness of his hands held while she notices the mend and teases; his reply is short and ends it.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He returns the repaired bucket, letting her take its weight before his hands leave it.
-Performance: Sơn avoids pride; Hạ's joke should be affectionate surprise at practical attention, not a laugh track setup.
+Blocking: Counter between them, Sơn on the customer side at frame left, Hạ behind it at frame right. The bucket crosses the counter from his hands to hers; afterwards his hands hang empty at his sides.
+Performance: Sơn avoids pride and cannot explain the kindness as surveillance work; he would rather not be thanked. Hạ is touched and teasing, surprised by practical attention. No laugh-track grin, no bashful head duck.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Lần thứ ba quay lại anh nhớ gò giùm em cái xô nước móp hơn là nhớ lấy tiền thối đó nghe.
-Sơn (@Son), nói trong hình: Thấy nó rỉ nước ngoài hiên thì tôi tiện tay sửa lại cho cô dễ dọn hàng thôi.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Lần thứ ba rồi, anh nhớ sửa xô cho em mà quên lấy tiền thối.
+Sơn (@Son), nói trong hình: Nó rỉ nước. Tôi tiện tay thôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Scuffed plastic remains scuffed; the repair is modest and used, not magically re
 [SOUND]
 Location bed: flower-shop bell and soft bucket-water sounds.
 Foreground sound: A light handle creak and her line carry the moment, with no reward flourish in the music.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Hạ holding the repaired bucket, Sơn with empty hands. Final physical lock: He returns the repaired bucket, letting her take its weight before his hands leave it.
+Hạ behind the counter holding the repaired bucket against her apron, thumb on the mend, eyes on Sơn; Sơn on the customer side with empty hands at his sides, gaze on the bucket; afternoon light on the scuffed plastic.
 Next shot 04.6: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

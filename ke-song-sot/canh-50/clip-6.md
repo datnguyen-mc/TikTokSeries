@@ -1,50 +1,51 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
 
 
 [TIMELINE AND LOCATION]
 Scene 50/60, clip 6/6; shot 50.6. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Night gallery, low work lamps, moonlit sea fill, backup lamp still off.
+Night gallery: low work lamps as warm side key, moonlit sea as cool fill from the south rail; backup lamp still off.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Move Hạ into a safer geometry through a plausible request before the distraction comes.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 50.5, ending with Thành's hand near but not on the lever. Final physical lock: He waits beside the lever without touching it, keeping clear of the officer's established service route.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 50.5, ending with Thành's right hand hovering a few centimetres from the backup-light lever, fingers still, not touching it; radio handset lowered at the frame edge in his left hand; lever pointing down, backup lamp still off.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Hạ angled toward the inner wall, Kiên still holding her upper arm. Framing: Frame Hạ and Kiên medium with the inner wall and remaining distance to the rail readable.
+Hạ beside Kiên between the rail and the inner wall, angled toward the masonry one step away, his right hand on her left upper arm, gun low and away in his left hand; Mây and Sơn soft in the east doorway.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Hạ and Kiên medium with the inner wall and remaining distance to the rail readable.
 Focus: Keep their feet or weight change implied clearly within the medium composition, no covert escape hidden by a cut.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She asks to steady herself, shifting them one step away from the rail. Beat 2 (3.0–6.5s): She shifts one step toward the wall under his RIGHT-hand hold; his LEFT-hand gun stays low and away. Beat 3 (6.5–10.0s): Her dizziness is useful restraint rather than a fainting performance; Kiên adjusts because he still needs her upright, settling crisply into the end frame as grey fabric brushes masonry, white cuff remains at her LEFT upper arm, no new tears or injury.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let Kiên allow exactly one step, ending with altered balance but the grip still intact for the next scene; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Hạ sways a little, her free right hand lifting toward the inner wall, eyes half-closing against the wind. Beat 2 (3.0–6.5s): She tells Kiên she is dizzy and asks to lean on the wall; his eyes flick from her to the doorway, and he answers that she may take one step and no more. Beat 3 (6.5–10.0s): Hạ takes that single step, her shoulder meeting the masonry and her right palm flattening on the stone; Kiên is drawn half a pace off the rail after her, grip intact, footing adjusted, gun still low.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: A sway, a quick exchange of request and permission, then exactly one step that leaves the grip intact and the geometry changed for the next scene.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She shifts one step toward the wall under his RIGHT-hand hold; his LEFT-hand gun stays low and away.
-Performance: Her dizziness is useful restraint rather than a fainting performance; Kiên adjusts because he still needs her upright.
+Blocking: Hạ and Kiên frame right, inner wall right edge, rail behind them; the doorway pair soft frame left. One step for Hạ toward the wall, half a pace for Kiên away from the rail.
+Performance: Hạ uses dizziness as a tool and hides the calculation behind tired eyes; she wants space from the rail. Kiên allows it because he still needs her upright. No fainting act, no struggle.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Gió biển trên cao thổi làm tôi chóng mặt quá ông Kiên, cho tôi bước dịch vào trong một bước để tựa lưng vào bức tường đá giữ thăng bằng đi.
-Kiên (@Vũ Kiên), nói trong hình: Chỉ được dịch một bước vào sát vách đá giữa tháp thôi, cấm rời khỏi tầm tay tao!
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Gió mạnh quá, tôi chóng mặt. Cho tôi vịn tường một chút.
+Kiên (@Vũ Kiên), nói trong hình: Một bước thôi. Đừng rời tay tôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -58,11 +59,11 @@ Grey fabric brushes masonry, white cuff remains at her LEFT upper arm, no new te
 [SOUND]
 Location bed: strong sea wind, fabric and restrained footsteps.
 Foreground sound: One sandal adjustment and her measured request sit against the continuing wind.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the established gallery wind and faint cable rattle. Backup light turns on only on the cue at 51.1.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the established gallery wind and faint cable rattle. Backup light turns on only on the cue at 51.1.
 
 [END FRAME — natural motion continues]
-Hạ nearer the inner wall, Kiên pulled slightly off his preferred position. Final physical lock: She shifts one step toward the wall under his RIGHT-hand hold; his LEFT-hand gun stays low and away.
+Hạ leaning her shoulder against the inner wall, right palm on the stone, breathing deliberately; Kiên half a pace off the rail beside her, right hand still on her left upper arm, gun low in his left hand, eyes back on the doorway.
 Next shot 51.1: Match cut hình dạng/tư thế, không morph. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

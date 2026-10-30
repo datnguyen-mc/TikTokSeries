@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original cuff ring remains on RIGHT wrist; no usable loose cuff end. Voice: rough, direct Southern Vietnamese male voice.
@@ -9,39 +10,39 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 
 [TIMELINE AND LOCATION]
 Scene 30/60, clip 5/6; shot 30.5. Story time: D6 morning.
-Landward fish-market entrance, wheeled cart beside shutter, narrow aisle visible inside.
-Same morning fish-market light as scene 29, bright exits for geography.
+Landward fish-market entrance, wheeled cart beside a rolling shutter, wet concrete and stacked plastic baskets, narrow aisle visible inside.
+Same morning fish-market light as scene 29: top light through roof gaps, bright exits backlit for clear geography, cool shade in the aisles.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Move the story from chase to dangerous negotiation through Dũng's withdrawal.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 30.4, ending with Dũng lowering his phone with the ship schedule visible as shapes. Final physical lock: Dũng displays the existing schedule on his phone, lowers it without advancing into another grapple.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 30.4, ending with Dũng on his side of the wedged ice cart, phone lowered to his thigh with its schedule still lit, eyes on Sơn; Sơn beyond the cart, empty hands at his sides, jaw set; meltwater dripping between them.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Dũng retreating toward his car with his two remaining men. Framing: Keep the market entrance, retreating men and car relationship clear in the wide shot.
+Landward market entrance seen from its shade: Sơn standing just inside beside the jammed cart; out on the sunlit road, Dũng and two of his men backing toward the black car, its rear door open; road dust in the light.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Keep the market entrance, retreating men and car relationship clear in the wide shot.
 Focus: Hold enough street depth to show departure without a new car-start close-up.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He leaves a meeting place and time before withdrawing. Beat 2 (3.0–6.5s): Dũng backs toward the car with his two men, leaving Sơn inside rather than dragging him along. Beat 3 (6.5–10.0s): The invitation is delivered as a demand that will outlast this retreat, not a defeated snarl, settling crisply into the end frame as road dust and dark car surfaces contrast with the wet interior from which Sơn watches.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: End with Dũng genuinely leaving and Sơn holding his position, so the next task is a choice; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Walking backward toward the car, Dũng points at Sơn across the road and names the place and time, his two men flanking him, while Sơn stays where he is in the shade. Beat 2 (3.5–7.0s): Dũng finishes with the condition, the book and no company, then turns his back and drops into the rear seat; his men climb in after him and the doors slam. Beat 3 (7.0–10.0s): The engine catches and the black car reverses away down the road, tyres crunching grit, dust lifting; Sơn holds his place inside the entrance, right hand on the cart's handle, eyes following the car.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The instruction comes while Dũng is already withdrawing, the car doors close the exchange, and the departure carries the last seconds with Sơn still and watching.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Dũng backs toward the car with his two men, leaving Sơn inside rather than dragging him along.
-Performance: The invitation is delivered as a demand that will outlast this retreat, not a defeated snarl.
+Blocking: Market entrance in the foreground at screen left with Sơn in its shade; road and black car at screen right in depth. Dũng backs away from the entrance toward the car; Sơn never steps out into the light.
+Performance: Dũng gives the order like a man who still holds the cards, not a beaten one; his contempt is calm. Sơn listens without a flicker and lets him go, already weighing the invitation. No snarl, no chase.
 
 
 [DIALOGUE]
-0.2–7.5s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Dũng (@Dũng), nói trong hình: Đúng tối nay Bà Hai sẽ đích thân lên đỉnh hải đăng Hòn Sóng chờ mày, đem sổ tới một mình nếu còn muốn cứu người!
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Dũng (@Dũng), nói trong hình: Tối nay Bà Hai chờ mày trên hải đăng. Muốn cứu con Hạ thì đem sổ, đi một mình.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +56,11 @@ Road dust and dark car surfaces contrast with the wet interior from which Sơn w
 [SOUND]
 Location bed: market shutter and carts on concrete.
 Foreground sound: Engine and tire movement begin only as the car withdraws, under the meeting instruction.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Black car backing away, Sơn staying inside the market entrance. Final physical lock: Dũng backs toward the car with his two men, leaving Sơn inside rather than dragging him along.
+The black car reversing away down the sunlit road, dust hanging behind it; Sơn standing inside the shaded market entrance beside the jammed cart, right hand on its handle, bandaged left wrist at his side, eyes following the car.
 Next shot 30.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,48 +1,49 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, crisp, clear Southern Vietnamese male voice.
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
-Sơn wears his matte-black suit over open-collar white shirt, both hands bare without gloves; canvas backpack left behind in the cabin from Scene 35.4 onward. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
+Sơn wears his matte-black suit over open-collar white shirt, both hands bare without gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
 
 [TIMELINE AND LOCATION]
 Scene 24/60, clip 2/6; shot 24.2. Story time: D4 late night.
 Underground city car park, ramp north, lift east, pillar rows, solid ramp railing, low maintenance door west.
-Present-day night car park, stable amber practicals and car reflections, no day light.
+Present-day night car park: stable overhead amber tubes as top key, car paint and puddle reflections as fill, hard pillar shadows; no daylight.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show cooperation through Mây continuing the route while Sơn buys a brief gap.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 24.1, ending with Both behind a parked van, exit two pillars ahead. Final physical lock: Sơn and Mây stay together behind the van, moving in the same screen direction.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 24.1, ending with Sơn and Mây pressed behind a parked van in the car row, Sơn's shoulder against its side panel, ledger under his left arm, Mây crouched at the van's rear corner looking back toward the ramp; the low maintenance door two pillars ahead; both breathing hard.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-One guard reaching around the van toward Mây. Framing: Frame the van corner, approaching guard and next pillar in one clear handheld medium-wide.
+Behind the parked van: an unnamed guard's arm reaches around its rear corner toward Mây, who is crouched there; Sơn a step away beside the half-open front door of the car parked next to the van, ledger under his left arm; the next pillar a few paces ahead.
 
 [CAMERA]
-35mm energetic handheld medium-wide with brisk kinetic momentum. Keep the entire defensive action readable from one side of the axis.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm controlled handheld medium-wide with kinetic energy. Keep the entire defensive action readable from one side of the axis.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame the van corner, approaching guard and next pillar in one clear handheld medium-wide.
 Focus: Keep the moving door and her exit side readable, never hide them behind a whip pan.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn closes the car door between guard and Mây, keeping their path clear. Beat 2 (3.0–6.5s): Sơn closes the door into the path as a barrier, Mây taking the space it creates. Beat 3 (6.5–10.0s): Her direction is short and useful, his attention on the guard's approach rather than a punishing strike, settling crisply into the end frame as car paint catches the garage light; door rubber and concrete remain ordinary materials.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The barrier takes a moment, not an extended exchange, and Mây has advanced when it ends; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.5s): Mây twists clear of the reaching hand and calls out her route, already moving low along the van as the guard pushes around the corner after her. Beat 2 (2.5–5.5s): Sơn grabs the top of the car door with his right hand and swings it hard across the gap, telling Mây to go straight for the exit as it bangs into the guard's shoulder and stops him. Beat 3 (5.5–10.0s): Bracing the door against the guard with his weight, Sơn holds it there as a wall between him and Mây, and she runs past the next pillar toward the maintenance door while the handheld frame steadies on Sơn holding the guard back.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The grab and the twist open the clip, the door lands in one decisive swing mid-clip, and by the end Mây has gained real distance while the barrier holds.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn closes the door into the path as a barrier, Mây taking the space it creates.
-Performance: Her direction is short and useful, his attention on the guard's approach rather than a punishing strike.
+Blocking: The van along screen left, the parked car beside it, the gap between them at centre; the guard enters from behind the van at screen left and Mây moves screen right past the next pillar. Sơn stays at the car door.
+Performance: Cooperation under pressure: her direction is short and useful, and his attention stays on the guard's approach rather than on hurting him. He blocks; he does not strike. No grunting heroics, no wasted look between them.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Tách sang lối bên trái sau cánh cửa xe này nhanh lên Sơn, để tôi bọc lót phía sau cho!
-Sơn (@Son), nói trong hình: Cửa xe khóa góc nhìn của hắn rồi, tiến thẳng tới lối thoát hiểm đi!
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Mây (@May), nói trong hình: Hắn sau xe! Tôi qua lối bên trái.
+Sơn (@Son), nói trong hình: Đi đi, thẳng tới cửa thoát. Tôi giữ hắn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Car paint catches the garage light; door rubber and concrete remain ordinary mat
 [SOUND]
 Location bed: fluorescent hum and footsteps echoing on concrete.
 Foreground sound: One door stop and short footwork, with her line above the garage echo.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Guard stopped by the door, Mây moving past the next pillar. Final physical lock: Sơn closes the door into the path as a barrier, Mây taking the space it creates.
+The guard stopped against the car door, Sơn's right shoulder and hand braced on its frame holding it there, ledger under his left arm; Mây past the next pillar, running toward the maintenance door; amber light on wet concrete.
 Next shot 24.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

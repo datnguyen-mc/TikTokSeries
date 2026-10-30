@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -10,42 +11,42 @@ Sơn (past timeline) wears his tailored matte-black suit, open-collar white shir
 [TIMELINE AND LOCATION]
 Scene 04/60, clip 1/6; shot 04.1. Story time: PAST one month earlier afternoon.
 Hạ city flower shop, wooden counter east, bucket rows under front window, tower lobby across the road.
-Warm afternoon window light in the recent-past flower shop, no night grade.
+Recent-past afternoon: warm sun through the front window as side key across the counter, soft bounce from petals and pale walls, cooler shade toward the back; no night grade.
 
 [SCENE OPENING HOOK — Mở cảnh 04: Quá Khứ: Ba Lần Ghé Tiệm]
-Scene goal: Tình cảm nảy từ hành vi cụ thể qua ba lần gặp. Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.
+Scene goal: Tình cảm nảy từ hành vi cụ thể qua ba lần gặp. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show the professional reason for entering before Hạ makes the encounter personal.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 03.6, ending with Cup handle facing the road, watch still closed at his belt, with his weathered dark-olive canvas backpack tucked beside his chair leg. Final physical lock: He ends the unconscious watch touch and turns the cup handle outward once.
-J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.
+Previous editorial shot: 03.6, ending with Coffee glass on the table with its handle turned outward toward the road, condensation running; Sơn's bare right hand flat beside it, fingers easing; the closed silver watch at the lip of his right jacket pocket by his belt; the backpack strap hanging by the chair leg.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Hạ cutting lilies as the entrance bell rings. Framing: The wide frame links counter, window chair and the tower lobby across the road without changing location.
+Afternoon flower shop: Hạ behind the wooden counter cutting lily stems with her pocket shears; the entrance door swinging open, bell ringing; Sơn on the threshold in his black suit, bare hands, gloves tucked in his pocket; the tower lobby visible through the front window across the road.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The wide frame links counter, window chair and the tower lobby across the road without changing location.
 Focus: Use depth to keep lobby direction understandable while reserving visual warmth for the foreground shop.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn enters, sees Kiên's lobby across the road, chooses the window chair. Beat 2 (3.0–6.5s): Sơn crosses toward the window chair while Hạ continues cutting existing lilies behind the counter. Beat 3 (6.5–10.0s): Hạ's greeting is easy and direct; Sơn answers her presence first with a glance past her, settling crisply into the end frame as fresh cut stems, damp bucket rims and warm window reflections suggest a shop being worked in.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Give his route to the chosen chair an unbroken purpose, avoiding an ornamental walk around the flowers; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Sơn steps in under the ringing bell; Hạ glances up from the lilies, shears pausing, gives an easy nod and goes back to cutting. Beat 2 (3.0–6.5s): Crossing past the bucket rows, Sơn looks through the front window at the tower lobby across the road and holds on it; he takes the chair by the window that faces the lobby and sits, while Hạ, still cutting, asks him a light, direct question. Beat 3 (6.5–10.0s): Sơn answers without fully looking away from the window, one hand resting on his knee; Hạ's shears snip one more stem while her eyes stay on him, curious.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: His route to the chosen chair is one unbroken purpose; her question lands as he sits; the deflecting answer closes the clip while her shears keep working.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn crosses toward the window chair while Hạ continues cutting existing lilies behind the counter.
-Performance: Hạ's greeting is easy and direct; Sơn answers her presence first with a glance past her.
+Blocking: Door at frame left, counter at frame right, the window chair in the foreground facing the road. Sơn crosses left to right past the buckets to the chair; Hạ stays behind the counter. His gloves remain tucked in his jacket pocket.
+Performance: Sơn is working: the lobby gets his attention first and Hạ second, polite and closed. Hạ is easy and direct, amused by a customer who looks everywhere but at the flowers. No flirtatious lean, no lingering stare.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Lần đầu ghé tiệm hoa đối diện tòa tháp mà anh cứ nhìn qua bên kia đường hoài, anh tính mua hoa tặng ai vậy?
-Sơn (@Son), nói trong hình: Tôi ghé trú nắng chút thôi, cô cứ chọn đại giúp tôi một cành hoa trắng.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Khách vô tiệm hoa mà hổng nhìn hoa. Anh mua tặng ai?
+Sơn (@Son), nói trong hình: Cô chọn giúp tôi một cành hoa trắng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,11 +60,11 @@ Fresh cut stems, damp bucket rims and warm window reflections suggest a shop bei
 [SOUND]
 Location bed: flower-shop bell and soft bucket-water sounds.
 Foreground sound: Let the bell finish before her question becomes clear; keep scissors and water modest beneath it.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn at the window, Hạ behind the flower counter. Final physical lock: Sơn crosses toward the window chair while Hạ continues cutting existing lilies behind the counter.
+Sơn seated in the chair by the front window, angled toward the tower lobby across the road, bare hands on his knees; Hạ behind the counter with shears and lily stems, eyes on him; the bell above the door still trembling.
 Next shot 04.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

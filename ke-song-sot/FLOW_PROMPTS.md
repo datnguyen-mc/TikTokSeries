@@ -6,6 +6,8 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 
 **Giọng ngoài hình:** chỉ khai báo giọng, không thêm người vào ảnh. Tag đứng ở trường người nói; không chèn tag hoặc thay tên bên trong câu được đọc.
 
+**Khung hình sạch, không logo đài truyền hình:** mọi prompt cấm logo đài hoặc kênh ở góc hình, watermark, chữ chạy tin tức, lower-third (dải tên), biểu tượng LIVE/REC, đồng hồ thời gian và mọi đồ họa trên hình. Màn hình máy tính, điện thoại trong truyện không hiện kênh, bản tin hay thương hiệu đài; biểu tượng hãng tàu chỉ là hình đơn giản không đọc được. Dữ liệu cảnh không dùng chữ TV/tin tức/truyền hình để model không dựng thành bản tin, và validator chặn các chữ này. Khi duyệt render, soi bốn góc khung: thấy logo hoặc chữ thì tạo lại clip đó.
+
 | Nhân vật | Handle | media_id đã có |
 |---|---|---|
 | Sơn | `@Son` | `28356180-dea1-4c6c-bd80-8c3a41106957` |
@@ -43,7 +45,7 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **THANH** → `@Phó Thành`, 26 tuổi: plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio.
 - **LINH** → `@Bác sĩ Linh`, 55 tuổi: worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag.
 - **BAY** → `@Ông Bảy`, 70 tuổi: white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses.
-- **BAY_O** → `@Ông Bảy`, 90 tuổi: much older face and hands at age 90, same white moustache, white singlet, shorts, working briskly behind the coffee counter with a clean glass cloth.
+- **BAY_O** → `@Ông Bảy`, 90 tuổi: much older face and hands at age 90, same white moustache, white singlet, shorts, working steadily behind the coffee counter with a clean glass cloth.
 
 ## Quy tắc liên tục đã chốt
 
@@ -79,7 +81,7 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **SCARF_REMAINDER:** Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
 - **MARKS:** Exactly one tally per story day at cabin frame: 1 at scene 1, 2 at 7, 3 at 12, 4 at 19, 6 after 28.5, 7 after 34.1.
 - **GUN_CASE:** Locked handgun case, no discharge. Sơn transfers complete case and key to Mây at 28.4 and remains unarmed thereafter.
-- **GLOVES:** One pair of black gloves first gifted twenty-five years ago; present-day pair left in zipped cabin bag at 35.4.
+- **GLOVES:** One pair of black gloves first gifted twenty-five years ago; present-day pair folded into the open backpack on the cabin cot at 35.4; the bag is zipped shut at 38.6.
 - **HAIRCLIP:** Hạ silver hair clip, deliberately wedged into service-hatch latch at 45.4, recovered at 48.5 and logged at 54.5.
 - **LILY:** One white lily from Hạ family-home vase, wrapped at 57.5 and held at the public walkway during departure.
 - **BACKPACK:** Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).

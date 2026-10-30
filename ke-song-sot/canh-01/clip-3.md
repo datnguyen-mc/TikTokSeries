@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -9,40 +10,40 @@ Sơn keeps his weathered dark-olive canvas backpack slung over his left shoulder
 
 [TIMELINE AND LOCATION]
 Scene 01/60, clip 3/6; shot 01.3. Story time: D1 dawn.
-Bảy coffee stall, green canvas awning, counter landward, plastic tables seaward, street visible in the counter mirror.
-Soft coastal dawn, cool sea fill, gentle rising sun, no night lighting.
+Bảy coffee stall, green canvas awning, counter landward, low plastic stools and tables seaward, aluminium phin filters and glasses of iced coffee on the counter, street visible in the counter mirror, no readable signs.
+Coastal dawn: low warm sun from the east grazing walls and faces from the side, soft cool fill from sea and sky, restrained contrast, no night lighting.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Sơn choosing isolation while Bảy offers practical shelter without demanding a confession.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 01.2, ending with Bảy holds the recovered crate, Sơn beside the stall, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Final physical lock: Sơn intercepts the crate within his walking line, returns it, then stops beside Bảy.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 01.2, ending with Sơn standing beside the stall counter facing Bảy, backpack on his left shoulder, left hand on the strap, right hand at his side; Bảy holding the recovered crate against his chest, cloth on his shoulder; the road behind them, sea wind lifting the awning edge.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Bảy behind his counter, Sơn facing him, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Framing: Frame the counter as a modest boundary, both faces readable in the medium setup.
+Under the green awning, Bảy behind his counter wiping a coffee glass with the checkered cloth; Sơn facing him from the customer side, backpack on his left shoulder, left hand on its strap, right hand flat on the worn wood.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame the counter as a modest boundary, both faces readable in the medium setup.
 Focus: Hold both eyelines and the pointing hand at a usable shared depth.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn asks for a quiet room, Bảy turns toward the dune, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Beat 2 (3.0–6.5s): Sơn stays on the customer side; Bảy's pointing hand opens the route toward the dune. Beat 3 (6.5–10.0s): Sơn asks quietly without selling a cover story; Bảy answers from habit, not suspicion, settling crisply into the end frame as condensation on existing glasses and weathered counter grain give the exchange everyday weight.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Deliver the question and Bảy's directional response in a rapid, brisk back-and-forth exchange.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Sơn leans a fraction toward the counter and asks his question quietly, eyes steady on Bảy, voice too low to carry to the tables behind him. Beat 2 (3.5–6.5s): Bảy's hands stop on the glass; he sets it down, studies Sơn for a moment without suspicion, then turns his whole body toward the dune rising behind the stall. Beat 3 (6.5–10.0s): Bảy lifts his arm and points uphill as he answers; Sơn turns his head along the line of that arm, eyes narrowing on the casuarina slope, breath slow, the awning cloth stirring above them.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: A quiet question, a short silent assessment while the glass is set down, then the pointing arm and answer land together; the eyeline toward the hill carries the cut.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn stays on the customer side; Bảy's pointing hand opens the route toward the dune.
-Performance: Sơn asks quietly without selling a cover story; Bảy answers from habit, not suspicion.
+Blocking: Counter between them: Bảy landward behind it, Sơn on the customer side. Bảy turns to his left to point at the dune behind the stall; Sơn only turns his head. Backpack stays on Sơn's left shoulder.
+Performance: Sơn wants isolation and a view of every approach, but asks as if it were a small favour, hiding the reason. Bảy answers from habit and kindness, not suspicion. No sly looks, no conspiratorial whisper.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Sơn (@Son), nói trong hình: Chú Bảy biết quanh đây có căn nhà gỗ nào tách biệt, nhìn xuống được cả ngã ba đường lẫn cầu cảng không?
-Ông Bảy (@Ông Bảy), nói trong hình: Trên đồi dương phía sau quán tui có căn chòi gỗ bỏ trống, nhìn bao quát hết đường ra vào thị trấn đó.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Sơn (@Son), nói trong hình: Chú biết chỗ nào vắng, nhìn được ra đường với cảng không?
+Ông Bảy (@Ông Bảy), nói trong hình: Trên đồi dương có căn chòi trống, ngó xuống thấy hết trơn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Condensation on existing glasses and weathered counter grain give the exchange e
 [SOUND]
 Location bed: glasses touching and awning cloth in sea wind.
 Foreground sound: Keep low stall ambience below the line; let the sea remain present but unromantic.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Bảy pointing uphill, Sơn following his eyeline, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Final physical lock: Sơn stays on the customer side; Bảy's pointing hand opens the route toward the dune.
+Bảy behind the counter, turned toward the dune with his arm extended uphill, cloth on his shoulder; Sơn at the counter following the pointing line toward the casuarina slope, backpack on his left shoulder, left hand on the strap; awning shadows moving across both men.
 Next shot 01.4: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -9,43 +10,43 @@ Sơn carries his weathered dark-olive canvas travel backpack containing his fold
 
 [TIMELINE AND LOCATION]
 Scene 20/60, clip 1/6; shot 20.1. Story time: D4 afternoon.
-South porch of the same cabin, one table, two stools, dune path on left when facing sea.
-Present-day late afternoon, warm low sun across porch, dusk at coach stop.
+South porch of the same cabin, one table, two stools, dune path on left when facing sea, casuarina shade and the open sea below.
+Present-day late afternoon: warm low sun from the west across the porch, cooling to dusk at the coach stop with soft sky fill only.
 
 [SCENE OPENING HOOK — Mở cảnh 20: Lời Mời Không Tên]
-Scene goal: Người môi giới chứng minh biết Hạ và muốn Sơn phục vụ kế hoạch riêng. Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.
+Scene goal: Người môi giới chứng minh biết Hạ và muốn Sơn phục vụ kế hoạch riêng. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make the caller's access to a personal detail unsettle Sơn while Mây preserves room for doubt.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 19.6, ending with Sơn's finger answering, Mây beside him, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Final physical lock: It vibrates once as a call event; Sơn waits for Mây's silent assent before answering.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 19.6, ending with The answered phone held silent in Sơn's right palm just above the porch table, its screen lit with the open call; the backpack's canvas flank beside it; Mây's denim-cuffed hand resting at the table's far edge.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Phone answered in Sơn's hand, Mây beside him at the table. Framing: The medium setup separates the listening phone from Mây's recording phone on the same porch table.
+Porch table in low late-afternoon sun: Sơn stands at its left end holding the answered old phone at chest height, his backpack upright on the table beside him; Mây at his right shoulder, daypack on, her own phone in her hand with its screen dark.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The medium setup separates the listening phone from Mây's recording phone on the same porch table.
 Focus: Keep faces and the two device positions readable without a fabricated caller image or legible recording waveform.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn puts the caller on speaker, Mây starts a recording on her phone. Beat 2 (3.0–6.5s): Sơn switches the already-answered call to speaker as Mây begins recording, neither device changing owner. Beat 3 (6.5–10.0s): Sơn's reaction is contained; Mây watches him as much as the phones, not accepting the claim as proof, settling crisply into the end frame as ordinary worn phone surfaces and porch wood contrast with the emotional weight of the voice.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the detail arrive before either person reacts, then hold the separate phones to preserve their different functions; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.5s): Sơn thumbs the speaker key and lays his phone flat on the table in front of him, and the caller's filtered voice opens on the speaker. Beat 2 (2.5–6.5s): Mây starts a recording on her own phone and sets it down at the far right end of the table, an arm's length from his, as the voice delivers the private detail about Hạ. Beat 3 (6.5–10.0s): Sơn's breath stops for a moment; his hands stay at the table edge without touching either device, while Mây's eyes move from the two phones to his face and hold there.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The two device actions are quick and practical in the first half; the private detail then lands and gets a held, breathing silence before the cut.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn switches the already-answered call to speaker as Mây begins recording, neither device changing owner.
-Performance: Sơn's reaction is contained; Mây watches him as much as the phones, not accepting the claim as proof.
+Blocking: Sơn screen left, Mây screen right, the table across the lower frame. His phone lands centre-left, hers at the right end, and the gap between them stays open. Backpack at the left end; her daypack stays on her shoulders.
+Performance: Sơn tries to stay neutral and fails only in his breath; Mây treats the voice as a claim to be tested and watches him as closely as the phones. No gasp, no grabbing the phone, no shared look of relief.
 
 
 [DIALOGUE]
-0.2–8.1s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice through the established device; no caller body in this shot.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
 Unknown caller: filtered Southern Vietnamese male voice, identity concealed. Voice only, never add a caller body to this shot.
-Người gọi giấu tên, qua thiết bị: Chiều ngày thứ tư rồi đó Bóng Ma, nghe kỹ đây, cô gái tên Hạ vẫn giữ chiếc kẹp tóc bạc cài sau gáy và đang chờ anh.
+Người gọi giấu tên, qua thiết bị: Nghe đây, Bóng Ma. Hạ vẫn cài kẹp tóc bạc sau gáy. Cô ấy đang chờ anh.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -60,11 +61,11 @@ Ordinary worn phone surfaces and porch wood contrast with the emotional weight o
 [SOUND]
 Location bed: soft surf, pine wind and porch-board creaks.
 Foreground sound: The filtered caller sounds human and controlled, not electronically monstrous; wind stays low beneath the private detail.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Two phones apart on the table, both listening. Final physical lock: Sơn switches the already-answered call to speaker as Mây begins recording, neither device changing owner.
+Two phones lie apart on the porch table, Sơn's on speaker in front of him, Mây's recording at the far right end; Sơn standing very still with his hands at the table edge, Mây beside him watching his face; the backpack upright at the left end.
 Next shot 20.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

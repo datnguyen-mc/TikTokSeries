@@ -1,5 +1,6 @@
-Continue the scene seamlessly from the final frame of clip 2. Same composition at the seam, brisk new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 2. Same composition at the seam, new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -10,39 +11,39 @@ Sơn (past timeline) wears his tailored matte-black suit, open-collar white shir
 [TIMELINE AND LOCATION]
 Scene 15/60, clip 3/6; shot 15.3. Story time: PAST one month earlier evening.
 City passenger pier, wide walkway, rail with glass wind panels, ferries beyond the river.
-Recent-past evening city pier, warm lamps and last daylight, no hard neon.
+Recent-past evening on the city pier: last daylight over the river as soft backlight, warm pier lamps as side key on faces; no hard neon.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Give the memory a real family object while keeping the future rescue knowledge secondary to intimacy.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 15.2, ending with Her fingertip at the hatch sketch, Sơn watching. Final physical lock: She draws the rough tower and hatch from habit while Sơn follows her finger, no blueprint performance.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 15.2, ending with Hạ's fingertip resting on the small square hatch below the gallery ring of the misted tower sketch, her face turned half toward Sơn with a small smile; Sơn beside her, gloved hands clasped, eyes on her face; beads of moisture running at the sketch's edges.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Her fingertip at the hatch sketch, Sơn watching. Final physical lock: She draws the rough tower and hatch from habit while Sơn follows her finger, no blueprint performance.
+Hạ's fingertip resting on the small square hatch below the gallery ring of the misted tower sketch, her face turned half toward Sơn with a small smile; Sơn beside her, gloved hands clasped, eyes on her face; beads of moisture running at the sketch's edges.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 Keep the exact previous camera, lens and axis; no framing reset.
 Composition: Hold the exact medium setup and established glass-panel relation as the existing photograph enters the shared plane.
 Focus: Retain the prior depth and face readability, letting the photo stay recognizable without a new sharp foreground rack.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn asks about the sea, she points to the town in an old photo. Beat 2 (3.0–6.5s): Hạ brings the old lighthouse photo between them near the earlier sketch, Sơn remaining beside her. Beat 3 (6.5–10.0s): She speaks from familiarity, not as if foreshadowing danger; his quiet attention shows respect for her ordinary history, settling crisply into the end frame as the small photograph has worn edges and muted color, unlike the wet temporary finger sketch behind it.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The new photo completes the thought once, then leaves room for her actual wish rather than dwelling on the hatch; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.5s): Hạ lifts her fingertip from the glass, slips a small old photograph from her apron pocket and holds it up between them beside the sketch. Beat 2 (2.5–7.0s): Tapping the photographed tower, she tells him how as a child she ran after her father to pull the backup lamp lever below the last landing whenever the power cut, her voice light with memory. Beat 3 (7.0–10.0s): Sơn leans in and asks whether her house looks out on the sea; she slides her fingertip from the tower down to the roofs along the shore and holds it there, eyes on him.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The photo enters quickly, the memory gets the long middle, and his short question with her answering gesture closes the clip, leaving her wish for the next one.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Hạ brings the old lighthouse photo between them near the earlier sketch, Sơn remaining beside her.
-Performance: She speaks from familiarity, not as if foreshadowing danger; his quiet attention shows respect for her ordinary history.
+Blocking: The photo is held at chest height between them, just right of the glass sketch so both read together. Photo in Hạ's left hand, her right forefinger pointing; Sơn leans in from screen right without touching it.
+Performance: Hạ remembers rather than foreshadows; the lever was a childhood game to her. Sơn's question shows him starting to picture her life, not a route. No ominous pause, no lingering on the hatch.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Dù cả thị trấn có mất điện giữa đêm bão thì ngọn hải đăng của ba em vẫn còn cần gạt đèn dự phòng nằm ngay dưới sàn kỹ thuật.
-Sơn (@Son), nói trong hình: Em vẽ kỹ từng ngóc ngách như vậy chắc mong ngày về lại đó lắm.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Hồi nhỏ cúp điện là em chạy theo ba gạt đèn dự phòng dưới chiếu nghỉ cuối.
+Sơn (@Son), nói trong hình: Nhà em nhìn ra biển hả?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +57,11 @@ The small photograph has worn edges and muted color, unlike the wet temporary fi
 [SOUND]
 Location bed: low ferry horn and water against pilings.
 Foreground sound: Paper handling is slight beneath her line; the ferry and water remain at the same distance as before.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Old lighthouse photo held between them, maintenance hatch visible. Final physical lock: Hạ brings the old lighthouse photo between them near the earlier sketch, Sơn remaining beside her.
+The small old lighthouse photograph held up between them in Hạ's left hand, her right fingertip on the shoreline roofs; Sơn leaning in, gloved hands clasped, eyes on the photo; the misted tower-and-hatch sketch still visible on the glass behind it.
 Next shot 15.4: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

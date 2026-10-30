@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
@@ -10,39 +11,39 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 45/60, clip 6/6; shot 45.6. Story time: D7 night continuous.
 Outside rear of the same stationary van, market wall behind, loose cart to left, clear police-controlled lane.
-Night, steady warm van lamp and existing lighthouse work lights, no emergency strobe montage.
+Night: steady warm van lamp as low key inside, existing lighthouse work lights as cool top light on the stairs; no emergency strobe montage.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Mây choose the threatened doorway before Dũng can reach the patient again.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 45.5, ending with Closed watch in Sơn's right palm, Mây's hands free. Final physical lock: She returns the same CLOSED watch into Sơn's RIGHT palm, his LEFT bandage untouched.
-J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.
+Previous editorial shot: 45.5, ending with Closed silver watch lying in Sơn's open right palm, engraved lid up, chain coiled beside it, his eyes on it, chest rising; Mây kneeling at his right hip, empty hands on her knees, glance toward the lane; Linh at his right shoulder watching his fingers.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Mây stepping out of the van, Dũng approaching along the wall. Framing: Use the wide to keep van rear, wall approach and the open retreat lane in one geography.
+Rear of Bảy's van, both rear doors open, lamp glow spilling onto the lane; Mây on the rear step, one hand on a door edge; Dũng halfway along the market wall, facing the van, bag strapped across his chest; loose cart by the wall at Mây's left.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use the wide to keep van rear, wall approach and the open retreat lane in one geography.
 Focus: Keep both opponents and the protected doorway readable, rather than cutting to reaction shots within the take.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She closes one rear door behind herself and blocks his approach. Beat 2 (3.0–6.5s): She steps out, closes ONE rear door and puts herself between Dũng and the remaining opening. Beat 3 (6.5–10.0s): Her posture is economical and balanced; Dũng's demand sounds like obedience curdled into ownership, settling crisply into the end frame as van metal and the same loose cart remain practical obstacles, no fresh weapon or defensive equipment appears.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Complete the door movement once, then let the held distance make the next advance dangerous; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Mây steps down from the rear step onto the lane and swings one rear door shut behind her with a flat latch click, the other door still open on the lamp-lit mattress. Beat 2 (3.0–6.5s): Dũng comes off the wall into the open lane, heavy shoulders forward, demanding she move because he is taking Sơn back to Má before he talks; Mây slides two steps sideways until her body covers the remaining open door. Beat 3 (6.5–10.0s): She sets her feet and answers evenly that nobody here belongs to Bà Hai now, hands open and low, weight balanced; Dũng slows three strides short, chest heaving, the cut cuff ring swinging at his right wrist, the clinic lane clear behind her.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The door closes early with one latch click; Dũng's demand drives the middle; her answer and the held distance end the shot, the next advance threatening but unperformed.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She steps out, closes ONE rear door and puts herself between Dũng and the remaining opening.
-Performance: Her posture is economical and balanced; Dũng's demand sounds like obedience curdled into ownership.
+Blocking: Van rear at frame center, the market wall along one side with the loose cart at Mây's LEFT. Dũng comes along the wall; Mây shuts ONE door and stands before the other. The lane toward the clinic stays clear behind her.
+Performance: Mây is economical and balanced, choosing the doorway over pursuit; fear stays out of her voice. Dũng's loyalty has curdled into ownership, and he believes he is rescuing someone. No snarling, no martial-arts stance.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Dũng (@Dũng), nói trong hình: Tránh cửa sau xe ra cô công an, để tao dìu thằng Sơn về cho Bà Hai chứ để nó nằm đây khai hết sổ đỏ thì tiêu đời cả đám!
-Mây (@May), nói trong hình: Lùi ngay lại Dũng, ở đây không còn ai thuộc quyền sở hữu của Bà Hai nữa!
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Dũng (@Dũng), nói trong hình: Tránh ra. Tao đưa nó về cho má, kẻo nó khai hết.
+Mây (@May), nói trong hình: Lùi lại, Dũng. Ở đây không ai là của Bà Hai nữa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Van metal and the same loose cart remain practical obstacles, no fresh weapon or
 [SOUND]
 Location bed: van-door latch and footsteps in the rear lane.
 Foreground sound: One door latch and Dũng's approaching boots precede his line, with breathing muffled inside the van.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: The van-door latch leads directly into Dũng first advance. Do not introduce him arriving a second time.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: The van-door latch leads directly into Dũng first advance. Do not introduce him arriving a second time.
 
 [END FRAME — natural motion continues]
-Mây between Dũng and the van, open retreat lane behind her. Final physical lock: She steps out, closes ONE rear door and puts herself between Dũng and the remaining opening.
+Mây planted in front of the van's one open rear door, the other door shut, hands open and low; loose cart by the wall at her left; Dũng three strides away in the lane, chest heaving, weight forward; the clinic lane open behind her.
 Next shot 46.1: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

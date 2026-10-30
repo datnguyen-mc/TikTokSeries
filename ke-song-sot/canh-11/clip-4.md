@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
@@ -9,40 +10,40 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 
 [TIMELINE AND LOCATION]
 Scene 11/60, clip 4/6; shot 11.4. Story time: D2 night.
-White-sand dune under casuarina pines, cabin uphill, main path down toward market.
-Present-day night, warm cabin lamp inside, cool moonlit pines outside.
+White-sand dune under wind-bent casuarina pines, creeping beach vines along a sandy footpath, cabin uphill, main path down toward market, grey-blue sea below.
+Present-day night: warm cabin lamp as low key from the table inside; cool moonlight from above backlighting the pines and figures outside.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Use Thành's report to tighten the connection between the visitors and shipping evidence, without another revelation speech.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 11.3, ending with Binoculars lowered, Mây recording the observation. Final physical lock: She observes through binoculars, lowers them and notes the beam recess rather than seeing through solid wood.
-J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.
+Previous editorial shot: 11.3, ending with Mây behind the pine with the binoculars lowered against her chest, writing in her open notebook, pen moving, eyes lifting to the lit cabin window up the slope; wind in the needles.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Thành joining Mây below the ridge. Framing: Frame both below the ridge, keeping the cabin light in the background as a steady reference.
+Below the dune ridge at night: Mây crouched behind the crest, notebook in hand; Thành climbing the last stretch of sand toward her, leather folder under his arm; the lit cabin window small behind them up the slope.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame both below the ridge, keeping the cabin light in the background as a steady reference.
 Focus: Hold their faces and paper handover at shared depth, avoiding a new company-logo insert.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He hands her confirmation that the black car belongs to the dock company. Beat 2 (3.0–6.5s): Thành hands the existing confirmation to Mây; she receives it without turning openly toward the cabin. Beat 3 (6.5–10.0s): He delivers the finding low and efficiently, while her response is a silent recalibration rather than astonishment, settling crisply into the end frame as paper edges catch the cabin glow; pine shadow remains irregular and natural around their shoulders.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: One clear handover and a short processing pause are enough; let the light behind them retain the unresolved subject; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Thành drops into a crouch beside Mây and slips a sheet from his leather folder, telling her low that the province has answered about the black car. Beat 2 (3.0–6.5s): She takes the sheet without turning toward the cabin and tilts it to catch the faint glow, eyes running down to one line; her jaw sets as she answers him in a near whisper. Beat 3 (6.5–10.0s): She folds the sheet along its crease and keeps it in her hand; both stay low behind the crest, Thành watching her face, the cabin light steady behind them.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The handover is clean and early, the processing pause in the middle short and real, and the end leaves the light behind them unresolved.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Thành hands the existing confirmation to Mây; she receives it without turning openly toward the cabin.
-Performance: He delivers the finding low and efficiently, while her response is a silent recalibration rather than astonishment.
+Blocking: Both crouched below the crest, Mây left, Thành right, the cabin window above and between them in the background. The sheet passes from Thành's folder to Mây's right hand; neither rises above the ridge line.
+Performance: Thành delivers the finding efficiently, a little proud. Mây's response is a silent recalibration: the fake papers were the small problem. She keeps the worry from showing to Thành. No astonishment, no glance back at the cabin.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Thành (@Phó Thành), nói trong hình: Chị Mây coi nè, chiếc xe đen hỏi thăm ở quán ông Bảy chiều nay thuộc cùng công ty vận tải biển ghi trên biên nhận cảng.
-Mây (@May), nói trong hình: Vậy là đám người truy tìm Sơn có liên hệ trực tiếp với chuyến tàu hàng cuối tuần này.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Thành (@Phó Thành), nói trong hình: Tỉnh trả lời rồi chị. Xe đen đứng tên công ty điều vận đó.
+Mây (@May), nói trong hình: Vậy người tìm Sơn dính tới tàu hàng. Lớn hơn giấy giả rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Paper edges catch the cabin glow; pine shadow remains irregular and natural arou
 [SOUND]
 Location bed: wind moving pine needles and distant surf.
 Foreground sound: Their restrained voices sit close under the pine wind, with no phone chime announcing the report.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Company report in Mây's hand, cabin light behind them. Final physical lock: Thành hands the existing confirmation to Mây; she receives it without turning openly toward the cabin.
+Mây and Thành crouched side by side below the ridge, the folded company report in Mây's hand, Thành's leather folder under his arm, faces low and close; the lit cabin window steady behind them up the slope; wind moving the pine needles.
 Next shot 11.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

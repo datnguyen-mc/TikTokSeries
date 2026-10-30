@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -10,42 +11,42 @@ Sơn (past timeline) wears his tailored matte-black suit, open-collar white shir
 [TIMELINE AND LOCATION]
 Scene 15/60, clip 1/6; shot 15.1. Story time: PAST one month earlier evening.
 City passenger pier, wide walkway, rail with glass wind panels, ferries beyond the river.
-Recent-past evening city pier, warm lamps and last daylight, no hard neon.
+Recent-past evening on the city pier: last daylight over the river as soft backlight, warm pier lamps as side key on faces; no hard neon.
 
 [SCENE OPENING HOOK — Mở cảnh 15: Quá Khứ: Đường Về]
-Scene goal: Hạ gieo kiến thức hải đăng và mục tiêu mở sạp hoa. Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.
+Scene goal: Hạ gieo kiến thức hải đăng và mục tiêu mở sạp hoa. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ introduce her own home as a desired future, not simply information Sơn will later use.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 14.6, ending with Mây waiting, Sơn unable to lower his eyes. Final physical lock: She lifts her gaze from the loose photograph and waits for Sơn to meet it.
-J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.
+Previous editorial shot: 14.6, ending with Mây, eyes fixed on Sơn, lips closed, waiting; Sơn opposite in profile, eyes level with hers, unmoving; the white streak in her hair lifting in the porch wind; low sun steady on her face.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Hạ walking along the city pier, Sơn beside her. Framing: The wide pier view gives both walkers and the distant ferry one shared direction across open water.
+City pier at dusk: Hạ and Sơn walking side by side along the wide walkway from screen right to left, the glass-paneled rail and river behind them; warm pier lamps lit; a ferry light small and far out on the water.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The wide pier view gives both walkers and the distant ferry one shared direction across open water.
 Focus: Keep the two figures and ferry light readable at wide depth without a separate scenic insert.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She stops at a ferry's distant light and names her home town. Beat 2 (3.0–6.5s): She stops at the rail to name the town; he stops because she does, not because of a target. Beat 3 (6.5–10.0s): Her tone warms at the name, while his attention turns from the ferry toward her face, settling crisply into the end frame as warm pier lamps meet the last daylight, leaving ordinary rail wear and water movement visible.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Allow walking to settle before the name, letting the pause feel like memory rather than a forced plot clue; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): They walk at an easy evening pace, the ends of Hạ's scarf lifting in the breeze, Sơn's gloved hands loose at his sides. Beat 2 (3.0–6.5s): Hạ's eyes catch the distant ferry light and she stops at the rail, turning to the water with both hands on it, and names her home town with a warmth that softens her whole face. Beat 3 (6.5–10.0s): Sơn stops a step late because she did and turns to the rail beside her; his gaze leaves the ferry and settles on her profile as he answers with a short remark about the light in her eyes.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Walking settles the first seconds, the stop and the name share the middle, and the end lingers on his turned gaze while the ferry keeps moving far out.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She stops at the rail to name the town; he stops because she does, not because of a target.
-Performance: Her tone warms at the name, while his attention turns from the ferry toward her face.
+Blocking: The walkway runs across the frame; they enter mid-right walking left and stop just left of center at the rail, Hạ ending screen left of Sơn. No bags or props; his gloves stay on.
+Performance: Hạ is warm and a little shy about home, wanting him to see it as a real place. Sơn's attention moves from the ferry to her face, surprised by his own interest. No romantic posing, no lingering stare.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Một tháng trước bên bến phà thành phố, mỗi lần nhìn ánh đèn phà ngoài sông là em lại nhớ thị trấn biển Hòn Sóng quê em.
-Sơn (@Son), nói trong hình: Ở ngoài đó có gì mà mỗi lần nhắc tới mắt em đều sáng lên vậy Hạ?
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Thấy đèn phà là em nhớ Hòn Sóng. Nhà em ở đó.
+Sơn (@Son), nói trong hình: Nhắc tới quê là mắt em sáng lên.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,11 +60,11 @@ Warm pier lamps meet the last daylight, leaving ordinary rail wear and water mov
 [SOUND]
 Location bed: low ferry horn and water against pilings.
 Foreground sound: A low ferry horn stays distant enough to support, not overwhelm, her simple naming of home.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Both facing the water, ferry light far beyond. Final physical lock: She stops at the rail to name the town; he stops because she does, not because of a target.
+Hạ and Sơn side by side at the pier rail, facing the water; her hands on the rail, his gloved hands at his sides, his face turned to her profile; the ferry light small and drifting far out on the river; warm lamps along the walkway behind them.
 Next shot 15.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

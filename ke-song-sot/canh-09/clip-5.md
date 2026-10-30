@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
@@ -8,39 +9,39 @@
 
 [TIMELINE AND LOCATION]
 Scene 09/60, clip 5/6; shot 09.5. Story time: D2 afternoon.
-Bảy coffee stall, green canvas awning, counter landward, plastic tables seaward, street visible in the counter mirror.
-Present-day afternoon sun, bright road outside cool stall and market shade.
+Bảy coffee stall, green canvas awning, counter landward, low plastic stools and tables seaward, aluminium phin filters and glasses of iced coffee on the counter, street visible in the counter mirror, no readable signs.
+Present-day afternoon: hard sun from the west on the road, faces in cooler shade under the stall awning and market roof with soft bounce from the pavement.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let the visitors leave a future route into the investigation while Bảy waits until immediate danger passes.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 09.4, ending with Plate sketch and company emblem on separate notebook lines. Final physical lock: He records what he sees as simple plate and emblem shapes on separate lines, without presenting the page to camera.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 09.4, ending with The open notebook on the motorcycle seat with a plate sketch on one line and the company emblem outline on the line below, both unreadable shapes; Thành's forearm half covering the page, the closed pen resting in the crease; sun glinting on the tank.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-The two men returning to their black car. Framing: Keep counter, departing men and black car inside the established wide stall-to-road relationship.
+Bảy behind his counter under the green awning, a glass and the checkered cloth in his hands; the two visitors turning from the counter toward their black car at the curb, its driver's door still open; the street reflected in the counter mirror.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Keep counter, departing men and black car inside the established wide stall-to-road relationship.
 Focus: Maintain readable positions and the card's final place under his glass, not a legible phone-number insert.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): They leave a contact card, Bảy waits until the car drives off. Beat 2 (3.0–6.5s): They leave one contact card, return to the car and drive away; Bảy acts only once the road is clear. Beat 3 (6.5–10.0s): His composure should ease only after they recede, without a visible victorious grin at deceiving them, settling crisply into the end frame as the small card lies flat beneath an ordinary glass, its edges carrying more significance than printed text.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Hold the wait for the car to clear before resolving on the card, without replaying its placement; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): As he turns away, the nearer visitor flicks a small contact card onto the counter, and Bảy calls a friendly promise after them without touching it. Beat 2 (3.0–6.5s): The men climb in, the doors thud shut, and the black car pulls away down the street; Bảy keeps wiping the glass, watching it shrink in the counter mirror. Beat 3 (6.5–10.0s): Only when the road is empty does he set the glass down squarely on the card, pinning it against the sea wind, and let his shoulders drop as he breathes out.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The card drop and his promise come quickly, the departure gets its full ordinary time, and the small decisive gesture waits until the street is truly clear.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: They leave one contact card, return to the car and drive away; Bảy acts only once the road is clear.
-Performance: His composure should ease only after they recede, without a visible victorious grin at deceiving them.
+Blocking: Counter screen right, curb and car screen left; the car exits left down the street. The card lands near Bảy's right hand and stays there; the glass goes from his hands onto the card only after the car leaves frame.
+Performance: Bảy plays the agreeable old man to the end; the promise is cover, not consent. Composure eases only after the car is gone, as a breath, never a grin. He wants them convinced he is harmless. No victory smile.
 
 
 [DIALOGUE]
-0.2–7.3s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Để lại danh thiếp rồi lên xe đi liền ha, đám người thành phố này xuống đây kiếm chuyện chứ tìm người quen nỗi gì.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Ông Bảy (@Ông Bảy), nói trong hình: Danh thiếp tui giữ đây. Có gặp thì tui gọi liền nghen mấy chú.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,11 +55,11 @@ The small card lies flat beneath an ordinary glass, its edges carrying more sign
 [SOUND]
 Location bed: glasses touching and awning cloth in sea wind.
 Foreground sound: Footsteps and engine departure recede naturally, leaving the awning and sea audible again.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Contact card under Bảy's glass, road clear. Final physical lock: They leave one contact card, return to the car and drive away; Bảy acts only once the road is clear.
+The contact card flat on the counter under Bảy's glass; Bảy's hand just leaving the glass, shoulders easing; the road outside clear and bright, the car gone from the counter mirror; awning cloth snapping in the wind.
 Next shot 09.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

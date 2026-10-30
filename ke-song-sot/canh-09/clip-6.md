@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
@@ -9,40 +10,40 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 
 [TIMELINE AND LOCATION]
 Scene 09/60, clip 6/6; shot 09.6. Story time: D2 afternoon.
-Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
-Present-day afternoon sun, bright road outside cool stall and market shade.
+Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
+Present-day afternoon at the station: daylight through the front windows as soft side key, neutral ceiling practicals as fill, slow ceiling-fan shadows.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Convert scattered observations into a direction of inquiry, giving Mây a discovery instead of instant certainty.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 09.5, ending with Contact card under Bảy's glass, road clear. Final physical lock: They leave one contact card, return to the car and drive away; Bảy acts only once the road is clear.
-J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.
+Previous editorial shot: 09.5, ending with The contact card flat on the counter under Bảy's glass; Bảy's hand just leaving the glass, shoulders easing; the road outside clear and bright, the car gone from the counter mirror; awning cloth snapping in the wind.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Thành placing his notes beside Bảy's contact card. Framing: Frame the two officers and table evidence in the medium setup, each source visibly separate.
+Station desk under the ceiling fan: Thành's open notebook with the plate and emblem sketches lying beside Bảy's contact card; Thành standing at the desk's right, leather folder under his arm; Mây seated at the left with her own notebook open, pen in hand.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame the two officers and table evidence in the medium setup, each source visibly separate.
 Focus: Keep faces and the small comparison zone readable without turning company marks into legible generated lettering.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Mây connects the emblem to the dispatch company and requests a check. Beat 2 (3.0–6.5s): Thành places his notes beside the card; Mây aligns only the company emblem relationship and requests verification. Beat 3 (6.5–10.0s): Mây's confidence comes from connecting sources, while Thành watches to understand the next task rather than admiring her intuition, settling crisply into the end frame as paper from street notes and the cleaner contact card retain different textures and origins.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Pause on the match before the instruction; avoid reading every plate, emblem and company detail aloud again; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Mây leans in and sets her pen beside the emblem sketch and the card, then names the shipping dispatch company it belongs to, her finger tracing the outline. Beat 2 (3.5–6.5s): She looks up at Thành and turns the hunt around: they will trace the freight route and need the plate checked; Thành answers that he will send it to the province right away. Beat 3 (6.5–10.0s): Mây picks up her pen, writes the company name in her open notebook and underlines it; Thành opens his leather folder on his forearm and starts filling in the request, pen moving.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: A short pause on the match before she names it, one clear decision, then both already working as the clip ends.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Thành places his notes beside the card; Mây aligns only the company emblem relationship and requests verification.
-Performance: Mây's confidence comes from connecting sources, while Thành watches to understand the next task rather than admiring her intuition.
+Blocking: Desk across the lower frame: card and Thành's sketch page center, Mây's notebook on the left under her hand, Thành standing right. Each source stays in its own place on the desk; nothing is stacked or swapped.
+Performance: Mây's confidence comes from connecting sources, not intuition, and she turns the hunt around in one breath. Thành listens to learn the next task, eager rather than admiring. No triumphant smile, no lecture.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Logo trên chiếc xe đen trùng khớp với công ty điều vận tàu biển, bọn chúng đang ráo riết lùng Sơn thì ta sẽ lần theo đường hàng của chúng.
-Thành (@Phó Thành), nói trong hình: Em đã gửi hình biển số lên đội điều tra trên tỉnh để truy nguồn gốc chiếc xe.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Mây (@May), nói trong hình: Biểu tượng của công ty điều vận tàu biển. Họ tìm người, mình lần đường hàng. Tra giùm chị.
+Thành (@Phó Thành), nói trong hình: Em gửi biển số lên tỉnh liền.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ Paper from street notes and the cleaner contact card retain different textures a
 [SOUND]
 Location bed: ceiling fan and quiet paperwork.
 Foreground sound: A modest paper slide and quiet support-channel activity sit beneath Mây's concise thought.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Introduce wind through the damaged shop door before cutting from the company inquiry to the torn scarf trace.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Introduce wind through the damaged shop door before cutting from the company inquiry to the torn scarf trace.
 
 [END FRAME — natural motion continues]
-Mây marking the company entry, Thành preparing the request. Final physical lock: Thành places his notes beside the card; Mây aligns only the company emblem relationship and requests verification.
+Mây at the desk underlining the company name in her open notebook beside the emblem sketch and Bảy's card; Thành standing at her right, leather folder open on his forearm, writing the request, radio handset at his belt; the ceiling fan turning.
 Next shot 10.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

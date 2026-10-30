@@ -1,5 +1,6 @@
-Continue the scene seamlessly from the final frame of clip 3. Same composition at the seam, brisk new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 3. Same composition at the seam, new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -10,38 +11,38 @@ Sơn (past timeline) wears his tailored matte-black suit, open-collar white shir
 [TIMELINE AND LOCATION]
 Scene 15/60, clip 4/6; shot 15.4. Story time: PAST one month earlier evening.
 City passenger pier, wide walkway, rail with glass wind panels, ferries beyond the river.
-Recent-past evening city pier, warm lamps and last daylight, no hard neon.
+Recent-past evening on the city pier: last daylight over the river as soft backlight, warm pier lamps as side key on faces; no hard neon.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ name a life she wants for herself, giving her more than a role as Sơn's escape fantasy.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 15.3, ending with Old lighthouse photo held between them, maintenance hatch visible. Final physical lock: Hạ brings the old lighthouse photo between them near the earlier sketch, Sơn remaining beside her.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 15.3, ending with The small old lighthouse photograph held up between them in Hạ's left hand, her right fingertip on the shoreline roofs; Sơn leaning in, gloved hands clasped, eyes on the photo; the misted tower-and-hatch sketch still visible on the glass behind it.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Old lighthouse photo held between them, maintenance hatch visible. Final physical lock: Hạ brings the old lighthouse photo between them near the earlier sketch, Sơn remaining beside her.
+The small old lighthouse photograph held up between them in Hạ's left hand, her right fingertip on the shoreline roofs; Sơn leaning in, gloved hands clasped, eyes on the photo; the misted tower-and-hatch sketch still visible on the glass behind it.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 Keep the exact previous camera, lens and axis; no framing reset.
 Composition: Keep the same medium composition and focus plane while the photograph is put away within existing reach.
 Focus: Maintain the same readable faces and hands, without a scenic cutaway illustrating a shop that does not yet exist.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Hạ puts the photograph away and names the life she wants. Beat 2 (3.0–6.5s): She pockets the photograph and rests both empty hands on the rail, facing the town's imagined direction. Beat 3 (6.5–10.0s): Her wish sounds modest and practical, with a small trace of pleasure at describing it aloud, settling crisply into the end frame as her pale scarf and worn rail catch soft light; the open hands replace the earlier information-bearing photo.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the practical words finish before she looks at Sơn, giving him a chance to meet the life she has described; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.5s): Hạ lowers the photograph and slides it back into her apron pocket beside the shears. Beat 2 (2.5–7.5s): She rests both empty hands on the rail, faces the water toward home and says out loud the life she wants, a small pleased smile growing as she describes the flower stall by the fish market. Beat 3 (7.5–10.0s): The words finished, she turns her head to Sơn; he meets her look and sets his gloved hand on the rail a hand's width from hers, not touching, while the breeze lifts her scarf end.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The photo is put away quickly, the wish gets the longest stretch, and the clip ends on the turn of her head and his answering hand, without a word from him.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She pockets the photograph and rests both empty hands on the rail, facing the town's imagined direction.
-Performance: Her wish sounds modest and practical, with a small trace of pleasure at describing it aloud.
+Blocking: Same rail positions, Hạ center-left and Sơn screen right. The photo goes into her apron's front pocket; both her hands then rest on the rail. Sơn's gloved right hand comes to the rail beside hers.
+Performance: Hạ's wish is modest and practical, and saying it aloud gives her quiet pleasure; she wants him to picture himself in it. Sơn is moved and hides it in stillness. No sentimental swell, no hand-holding.
 
 
 [DIALOGUE]
-0.2–8.1s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Em chỉ mong dành dụm đủ vốn để về mở một sạp hoa tươi nhỏ ngay lối vào chợ cá Hòn Sóng, sống bình yên cạnh biển thôi.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Em để dành đủ vốn là về mở sạp hoa nhỏ, ngay đầu chợ cá. Sống cạnh biển thôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +56,11 @@ Her pale scarf and worn rail catch soft light; the open hands replace the earlie
 [SOUND]
 Location bed: low ferry horn and water against pilings.
 Foreground sound: Her sentence stays close against ordinary harbour sound, avoiding a sentimental swell that turns the wish into a prophecy.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Her empty hands resting on the rail, Sơn beside her. Final physical lock: She pockets the photograph and rests both empty hands on the rail, facing the town's imagined direction.
+Hạ's empty hands resting on the rail, her face turned to Sơn with a small smile; Sơn beside her, gloved right hand on the rail a hand's width from hers, meeting her look; her loose scarf end stirring in the river breeze; the sketch fading on the glass.
 Next shot 15.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

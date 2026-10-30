@@ -1,5 +1,6 @@
-Continue the scene seamlessly from the final frame of clip 2. Same composition at the seam, brisk new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 2. Same composition at the seam, new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -10,39 +11,39 @@ Sơn carries his weathered dark-olive canvas travel backpack containing his fold
 [TIMELINE AND LOCATION]
 Scene 21/60, clip 3/6; shot 21.3. Story time: D4 night.
 Old overnight coach, Sơn at left window near rear, Mây across the aisle, travel bags above seats.
-Present-day night journey, blue coach practicals, neutral rest-stop lamps, no past amber timeline cue.
+Present-day night journey: dim blue coach ceiling practicals as soft top light, cool window spill on faces; neutral overhead lamps at the rest stop; no past amber timeline cue.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show that admitting dependency costs Sơn more than touching the old uniform.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 21.2, ending with Gloves still folded, Sơn's hand withdrawn, with his dark-olive canvas backpack open beside his hands. Final physical lock: His fingertips touch only the glove edge, then withdraw to the same lap position.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 21.2, ending with Sơn seated by the rain-streaked window, the folded black suit across his knees with the gloves still tucked in its fold, his right hand withdrawn flat on his knee; the open backpack on the seat beside him; Mây across the aisle, watching his face.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Gloves still folded, Sơn's hand withdrawn, with his dark-olive canvas backpack open beside his hands. Final physical lock: His fingertips touch only the glove edge, then withdraw to the same lap position.
+Sơn seated by the rain-streaked window, the folded black suit across his knees with the gloves still tucked in its fold, his right hand withdrawn flat on his knee; the open backpack on the seat beside him; Mây across the aisle, watching his face.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 Keep the exact previous camera, lens and axis; no framing reset.
 Composition: Retain exactly the preceding medium composition, aisle width and seated eyelines.
 Focus: Keep attention on his face while her listening remains visible at the same depth.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn returns the folded suit and gloves from his knees into the open bag, closes it and speaks about his first employer without a full flashback, with his dark-olive canvas backpack open beside his hands. Beat 2 (3.0–6.5s): He returns the folded suit and gloves to the open bag, closes it, then lowers it between his feet. Beat 3 (6.5–10.0s): Say the sentence as an unwelcome fact he has only just permitted himself to name, settling crisply into the end frame as the bag's worn corners settle against his shoes, underlining years of carrying this life.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The first clause acknowledges shelter; the second arrives after a small embarrassed breath; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Sơn gathers the folded suit off his knees with both hands, the gloves still tucked inside, and lays it into the open backpack on the seat beside him, already telling Mây, eyes on the bag, about the woman who took him in at twenty. Beat 2 (3.0–6.5s): He drags the brass zipper closed and sets the backpack on the floor between his boots, finishing on a short embarrassed breath, and Mây answers, low and certain, about why he is going back tonight. Beat 3 (6.5–10.0s): He straightens in his seat and his eyes come up to meet hers; she holds the look, leaning slightly toward him as the coach sways.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: His hands stay busy while he talks so the confession never stalls the clip; the embarrassed breath hands over to her answer, and the held eye contact closes it.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He returns the folded suit and gloves to the open bag, closes it, then lowers it between his feet.
-Performance: Say the sentence as an unwelcome fact he has only just permitted himself to name.
+Blocking: Same seats from the seam, Sơn screen left, Mây screen right. The suit travels from his knees into the bag on the seat to his right; the closed bag then drops to the floor between his feet.
+Performance: Admitting dependence costs him more than touching the gloves did; he says it as an unwelcome fact he has only now let himself name. Her reply gives him a reason, not comfort. No distant flashback stare, no tears, no hand-holding.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Sơn (@Son), nói trong hình: Năm hai mươi tuổi bà ta cho tôi bát cơm và chỗ ngủ khi cơ nhỡ, rồi dùng chính cái ơn đó khóa chặt lối ra của tôi suốt hai mươi lăm năm.
-Mây (@May), nói trong hình: Đêm nay anh quay lại đó để lấy chứng cứ chứ không phải để trả nợ cũ.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Sơn (@Son), nói trong hình: Năm hai mươi tuổi, bà cho tôi cơm với chỗ ngủ. Rồi giữ luôn lối ra.
+Mây (@May), nói trong hình: Đêm nay anh về lấy chứng cứ. Không phải trả nợ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ The bag's worn corners settle against his shoes, underlining years of carrying t
 [SOUND]
 Location bed: steady coach engine and rain on glass.
 Foreground sound: Let the bag close sound finish before the quieter final clause is heard.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Bag closed between his feet, Mây listening, with his dark-olive canvas backpack open beside his hands. Final physical lock: He returns the folded suit and gloves to the open bag, closes it, then lowers it between his feet.
+The closed backpack sits on the coach floor between Sơn's boots; Sơn upright in the window seat, hands resting on his knees, eyes meeting Mây's across the aisle; Mây leaning slightly toward him, holding his look; rain streaking the window as the coach sways.
 Next shot 21.4: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

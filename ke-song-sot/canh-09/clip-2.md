@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
@@ -8,39 +9,39 @@
 
 [TIMELINE AND LOCATION]
 Scene 09/60, clip 2/6; shot 09.2. Story time: D2 afternoon.
-Bảy coffee stall, green canvas awning, counter landward, plastic tables seaward, street visible in the counter mirror.
-Present-day afternoon sun, bright road outside cool stall and market shade.
+Bảy coffee stall, green canvas awning, counter landward, low plastic stools and tables seaward, aluminium phin filters and glasses of iced coffee on the counter, street visible in the counter mirror, no readable signs.
+Present-day afternoon: hard sun from the west on the road, faces in cooler shade under the stall awning and market roof with soft bounce from the pavement.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Bảy deciding to protect a person through a small lie he must manage in real time.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 09.1, ending with Photograph extended toward Bảy, car door left open. Final physical lock: The unnamed men leave their car and extend the existing photograph without crowding into a new interior angle.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 09.1, ending with The printed photograph of Sơn's face held out across the counter toward Bảy; Bảy behind the counter with a half-wiped glass and the checkered cloth, eyes on the visitor; the black car at the curb with its driver's door open, the second man by the fender; awning cloth stirring.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Bảy behind the counter studying the offered photograph. Framing: The medium view favors his face and counter edge, with the offered photograph still in his hand.
+Bảy behind his counter under the green awning, the visitors' photograph in his right hand at arm's length, squinting at it; his phone lying on the counter by his left hand; checkered cloth over his shoulder; the visitors off screen across the counter.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The medium view favors his face and counter edge, with the offered photograph still in his hand.
 Focus: Hold his face and photograph at useful depth, allowing the phone to disappear without a separate secretive insert.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He gives a vague answer while sliding his phone below the counter. Beat 2 (3.0–6.5s): He answers vaguely while lowering the existing phone beneath the counter with his free hand. Beat 3 (6.5–10.0s): His eyes stay on the visitors, and the line is casual enough to hide the choice rather than celebrate cleverness, settling crisply into the end frame as his moustache, worn counter and ordinary glass reflections should stay grounded, with no sudden stylized shadow shift.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Keep the hand movement small and subordinate, leaving the audience to notice it rather than announcing a trick; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Bảy pushes the photograph farther from his eyes like an old man fighting his sight and starts a rambling answer, friendly and vague. Beat 2 (3.0–6.5s): Still talking, eyes never leaving the visitors, his left hand draws the phone off the counter and lowers it below the edge out of sight. Beat 3 (6.5–10.0s): He finishes with an easy shrug and a short laugh, tilting the photograph back toward the visitors without letting it go, his hidden hand steady below the counter.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The answer runs easy and continuous so the small hand movement hides inside it; the clip ends on the photo offered back and the hand already still.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He answers vaguely while lowering the existing phone beneath the counter with his free hand.
-Performance: His eyes stay on the visitors, and the line is casual enough to hide the choice rather than celebrate cleverness.
+Blocking: Bảy center behind the counter, visitors implied off screen right. The photo stays in his right hand at arm's length; the phone goes from the counter top to below its edge in his left hand. He does not step back.
+Performance: Bảy chooses to protect a stranger and manages the lie in real time; folksy warmth is his cover. He wants the visitors bored and gone. No wink, no clever grin, no glance down at the hidden hand.
 
 
 [DIALOGUE]
-0.2–7.8s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Quán nước ven biển mỗi ngày mấy trăm khách qua lại, người giống người nhiều lắm mấy chú ơi, tui mắt mờ đâu nhớ nổi mặt ai.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Ông Bảy (@Ông Bảy), nói trong hình: Quán tui ngày mấy trăm khách, mấy chú ơi. Người giống người nhiều lắm, tui mắt mờ, nhớ đâu nổi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,11 +55,11 @@ His moustache, worn counter and ordinary glass reflections should stay grounded,
 [SOUND]
 Location bed: glasses touching and awning cloth in sea wind.
 Foreground sound: Normal street sound continues; any phone handling stays quieter than his deliberately unremarkable sentence.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Phone hidden beneath the counter, Bảy still holding the photo. Final physical lock: He answers vaguely while lowering the existing phone beneath the counter with his free hand.
+Bảy behind the counter, the photograph still in his right hand tilted toward the visitors off screen; his left hand below the counter edge holding the hidden phone; an easy half-smile, eyes level and watchful; awning cloth moving in the sea wind.
 Next shot 09.3: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

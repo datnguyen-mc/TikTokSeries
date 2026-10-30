@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Ha = Hạ: same approved identity, age 52; Vietnamese woman, slim build, gentle alert eyes, long black hair. older face age 52, long hair with a little grey tied back, cream work blouse, forest-green florist apron, the same pale-blue silk scarf. Voice: warm, clear, expressive Southern Vietnamese female voice.
@@ -10,39 +11,38 @@ Older Sơn carries the same weathered dark-olive canvas backpack over his left s
 [TIMELINE AND LOCATION]
 Scene 60/60, clip 6/6; shot 60.6. Story time: LATER many years after the case.
 Hạ completed flower stall years later at market entrance, working counter, old seven-mark wood strip discreetly fixed underneath, doorway toward coach stop.
-Many years later, soft coastal morning, same geography, mature faces with natural skin texture.
+Many years later, soft coastal morning: low sun from the east, gentle sea fill, same geography, mature faces with natural skin texture.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 End with room being made for an ordinary shared morning, not a new contract or final twist.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 60.5, ending with Hạ setting the single lily on the counter, eyes at the doorway. Final physical lock: She stops wrapping, looks toward the entrance and sets the one stem down, never runs.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 60.5, ending with Older Hạ looking at the doorway, breath just released, warmth settling into her face; her hand leaving the single lily on the counter at the lower edge of frame; the scarf stirring in the sea wind; footsteps stopping outside.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-From inside the shop, Hạ behind the counter, a bare hand entering the doorway edge, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Framing: From inside the shop, frame Hạ behind the counter and only the visitor's bare hand at the doorway edge.
+Older Hạ behind the counter, the single lily lying on it beside a bucket of lilies; at the doorway edge stands an older man in a faded olive jacket, backpack on his left shoulder, his bare right hand lifted toward the counter edge; daylight beyond.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: From inside the shop, frame Hạ behind the counter and only the visitor's bare hand at the doorway edge.
 Focus: Keep her eyes and arriving hand spatially related, no reverse angle or final hidden-identity montage inside the take.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): The arriving hand rests on the counter without a new watch, Hạ makes room for him, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Beat 2 (3.0–6.5s): The hand rests once on the counter, Hạ clears space beside the single lily without handing over a new object. Beat 3 (6.5–10.0s): She speaks with mature ease carrying remembered feeling, the unseen man need not answer or reveal his face, settling crisply into the end frame as one lily, one bare hand and existing counter remain, no duplicate watch, prison token or extra note appears.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the invitation complete and the composition stay naturally alive; do not add an embrace, return journey or sequel threat; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): His bare right hand comes to rest flat on the counter, no watch at the wrist; Hạ's eyes go to the hand and she tells him he has kept the promise. Beat 2 (3.0–6.5s): She slides the bucket of lilies aside to clear the counter beside the single lily, making room for him, and invites him to sit at Bảy's and look at the sea with her. Beat 3 (6.5–10.0s): She lifts her eyes from the hand to his unseen face and holds them there, a slow smile settling; his fingers relax on the wood, and sea wind moves the paper and her scarf.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Hand and first words arrive together, the invitation rides the small clearing gesture, and the last three seconds are a living hold on her face; nothing is added after the invitation.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: The hand rests once on the counter, Hạ clears space beside the single lily without handing over a new object.
-Performance: She speaks with mature ease carrying remembered feeling, the unseen man need not answer or reveal his face.
+Blocking: Counter across the foreground; Hạ behind it at screen left, the visitor at the doorway edge screen right, seen below the shoulders. His right hand rests on the counter, his left on the strap. Hạ moves one bucket aside.
+Performance: Mature ease carrying remembered feeling: she has her own life and chooses to make room in it, not to be rescued by it. He need not answer. No embrace, no tears, no face reveal, no sense of a new contract.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
-Hạ (@Ha), nói trong hình: Anh đã giữ đúng lời hẹn trở về với đôi bàn tay bình yên rồi Sơn, hôm nay qua quán chú Bảy ngồi nhìn thẳng ra biển và ăn sáng với em nhé.
-Sơn, lời dẫn ngoài hình: Tôi đặt bàn tay đã đi qua giông bão lên mặt quầy gỗ bên cạnh Hạ, bắt đầu buổi sáng bình thường mà chúng tôi đã hẹn từ hai mươi năm trước.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Anh giữ lời hẹn rồi. Qua chỗ chú Bảy, ngồi nhìn biển với em nhé.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +56,11 @@ One lily, one bare hand and existing counter remain, no duplicate watch, prison 
 [SOUND]
 Location bed: sea breeze, flower wrapping and distant town morning sounds.
 Foreground sound: Footsteps stop at the threshold, sea wind continues under the last line, title and any fade belong to editing.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: End on Hạ recognition with continuing sea wind. Any title and final fade are added only in the edit.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: End on Hạ recognition with continuing sea wind. Any title and final fade are added only in the edit.
 
 [END FRAME — natural motion continues]
-Hạ facing the unseen visitor, one lily between them, daylight beyond the door, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Final physical lock: The hand rests once on the counter, Hạ clears space beside the single lily without handing over a new object.
+Hạ facing the unseen visitor across the counter, a quiet smile settled; his bare right hand resting on the wood, the single lily between them, his left hand on the backpack strap at the doorway edge; daylight and sea wind beyond the open door.
 End the film on this living composition. Any title and final fade are added in the edit, never generated inside the image.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

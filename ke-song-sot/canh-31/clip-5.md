@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
@@ -11,39 +12,39 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 [TIMELINE AND LOCATION]
 Scene 31/60, clip 5/6; shot 31.5. Story time: D6 night.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Present-day lighthouse night, wind, one practical lamp, no daylight.
+Present-day lighthouse night in wind: one practical lamp as hard side key, cool moonlit sea as rim from the south rail; no daylight.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Reveal that her remaining power depends on stopping Dũng, not simply ordering Sơn.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 31.4, ending with Folded copy returned to Sơn's inner pocket, no book left behind. Final physical lock: He displays only the page already brought, then folds and returns it to his own pocket.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 31.4, ending with The folded copy hidden in the inner pocket of Sơn's olive jacket, his bare right hand lowering at his side, bandaged left wrist at the frame edge; no paper or book left in view, only the iron rail and the dark sea moving below.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Dũng taking a step toward Sơn, Bà Hai raises one hand. Framing: Frame raised hand, Dũng's halted step and Sơn's stair position in the same medium setup.
+Bà Hai near the sea rail, Dũng half a pace ahead of her left shoulder, weight already tipped toward Sơn; Sơn by the open stair door, empty hands at his sides; her unlit holder in her right fingers.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame raised hand, Dũng's halted step and Sơn's stair position in the same medium setup.
 Focus: Keep the spatial stop visible rather than substituting a tight bracelet insert.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She stops Dũng and accepts a public exchange at the harbour. Beat 2 (3.0–6.5s): Dũng starts forward once; her hand interrupts him before he closes the usable gap. Beat 3 (6.5–10.0s): She accepts with a trace of calculation under tenderness, Dũng resenting the check but obeying, settling crisply into the end frame as the left jade bracelet remains on the raised wrist, sleeves lifting naturally in the gallery wind.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let viewers see she needs this agreement before her final instruction tries to sound absolute; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.5s): Dũng takes one heavy step toward Sơn, the cut cuff ring swinging on his right wrist; Bà Hai's left hand rises, palm out, jade bracelet sliding down, and stops him as she tells him to stay put. Beat 2 (2.5–7.0s): Without looking at Dũng she agrees to come to the harbour tomorrow and orders Sơn to keep his word, a shade too firmly; Sơn answers at once with his condition: open ground, Hạ standing in front of him. Beat 3 (7.0–10.0s): Dũng's jaw works but his boots stay planted behind her hand; Bà Hai's eyes narrow, weighing Sơn; Sơn stays by the stair door, breathing evenly.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The step, the check and her order come together at the top; acceptance and his condition trade without a pause; the end holds the new balance of power in silence.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Dũng starts forward once; her hand interrupts him before he closes the usable gap.
-Performance: She accepts with a trace of calculation under tenderness, Dũng resenting the check but obeying.
+Blocking: Dũng starts a pace left of Bà Hai and gets no farther than her raised left hand, well short of halfway; Sơn keeps his place by the stair door screen right, the usable gap intact.
+Performance: Bà Hai needs this deal more than she shows: the order to Dũng is calm, the instruction to Sơn a touch too absolute. Dũng resents the leash but obeys. Sơn bargains coldly. No shouting, no snarl.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Lùi lại ngay Dũng, chiều mai tại bãi cảng cá Hòn Sóng má sẽ đích thân tới điểm hẹn, nhưng con phải giữ đúng lời đã hẹn.
-Sơn (@Son), nói trong hình: Chiều mai tại cảng cá, hai phe phải đưa Hạ ra trước mắt tôi.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Bà Hai (@HaiNgoc), nói trong hình: Dũng, đứng yên đó. Mai má ra cảng. Con nhớ giữ lời.
+Sơn (@Son), nói trong hình: Giữa bãi cảng, chỗ trống. Hạ phải đứng trước mặt tôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +58,11 @@ The left jade bracelet remains on the raised wrist, sleeves lifting naturally in
 [SOUND]
 Location bed: strong sea wind, fabric and restrained footsteps.
 Foreground sound: One halted footstep and her short acceptance carry the power change, no added ring or chime.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Dũng stopped behind Bà Hai's hand, Sơn by the stairs. Final physical lock: Dũng starts forward once; her hand interrupts him before he closes the usable gap.
+Dũng halted behind Bà Hai's raised left hand, breathing hard through his nose; Bà Hai between them, eyes on Sơn; Sơn by the open stair door, hands at his sides; wind moving his jacket and her violet sleeve.
 Next shot 31.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

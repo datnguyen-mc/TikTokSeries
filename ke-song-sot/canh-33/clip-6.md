@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -9,39 +10,39 @@ Sơn (past timeline) wears his tailored matte-black suit, open-collar white shir
 
 [TIMELINE AND LOCATION]
 Scene 33/60, clip 6/6; shot 33.6. Story time: PAST one month earlier night.
-Pavement directly outside Hạ flower shop, rolling shutter and warm street lamp, tower lobby beyond.
-Recent-past flower-shop night, warm bulbs, wet pavement street spill.
+Pavement directly outside Hạ flower shop, rolling shutter and warm street lamp, motorbikes parked along the kerb, tower lobby beyond.
+Recent-past flower-shop night: warm bulbs inside as key through the doorway, cool street-lamp spill and wet-pavement reflections outside.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Close the ordinary shop without pretending either character knows this is their last night.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 33.5, ending with Two figures close without an embrace performed for the camera. Final physical lock: He nods once; she leans her forehead to his shoulder without pulling him into an embrace.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 33.5, ending with Hạ half a pace from Sơn, chin lifted, hands at her apron; Sơn facing her, weight beginning to turn toward the door, gloved hands at his sides, lily upright and undisturbed in his breast pocket; half-lowered shutter behind them, rain and street sound beyond.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Sơn outside the shop, Hạ inside at the shutter. Framing: Keep pavement, shutter and Sơn's departure direction in the same exterior wide frame.
+Wet pavement outside the flower shop at night: Sơn just past the half-lowered shutter, turned toward the street; Hạ inside at the gap, both hands on the shutter's bottom bar at waist height; warm lamp light on the paving.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Keep pavement, shutter and Sơn's departure direction in the same exterior wide frame.
 Focus: Hold the closing boundary and then the empty pavement; do not chase his departing face.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She lowers the shutter fully after he leaves, no return to present inside this clip. Beat 2 (3.0–6.5s): He clears the opening, she lowers the shutter fully once, leaving no return glimpse inside. Beat 3 (6.5–10.0s): Her pace is practical end-of-day work, with hesitation expressed only by the moment before closure, settling crisply into the end frame as warm street reflection lies across wet paving as the shutter removes the shop's interior light.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The shutter completes the action; remaining time belongs to the empty place rather than another farewell; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Sơn walks away along the wet pavement toward screen right without looking back, his shape sliding out of the warm light. Beat 2 (3.0–6.5s): Hạ holds the bar a moment, watching the empty stretch where he went, then pulls the shutter all the way down; the slats rattle and meet the ground, cutting off the shop's warm interior. Beat 3 (6.5–10.0s): The rattle dies away; rain ticks on the closed metal and the empty paving, the street lamp's reflection trembling in the puddles.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: His exit is quick and clean; the pause before closing is the held moment; the shutter completes the action and the last seconds belong to the empty place.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He clears the opening, she lowers the shutter fully once, leaving no return glimpse inside.
-Performance: Her pace is practical end-of-day work, with hesitation expressed only by the moment before closure.
+Blocking: Shop front fills screen left; Sơn's path runs along the pavement to screen right and out of frame. Hạ stays inside behind the shutter, visible only until it closes.
+Performance: Hạ's closing is ordinary end-of-day work; her only hesitation is the moment before she pulls. Sơn does not look back because he has decided. No wave, no last glance, no knowing sorrow.
 
 
 [DIALOGUE]
-0.2–8.9s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice-over narration only; visible mouths remain at rest while physical action advances.
-Sơn, lời dẫn ngoài hình: Cánh cửa cuốn tiệm hoa khép xuống trong đêm mưa thành phố, và đó là hình ảnh cuối cùng tôi thấy trước khi bọn chúng ập tới bắt cô ấy đi.
+0.2–3.6s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+Sơn, lời dẫn ngoài hình: Đó là lần cuối tôi thấy Hạ còn bình yên.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +56,11 @@ Warm street reflection lies across wet paving as the shutter removes the shop's 
 [SOUND]
 Location bed: metal shutter and sparse city traffic.
 Foreground sound: Metal slats rattle and settle, then rain and street bed remain for the coming dawn cut.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Match the closed shutter lines to the cabin frame at dawn, then carve the seventh tally once.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Match the closed shutter lines to the cabin frame at dawn, then carve the seventh tally once.
 
 [END FRAME — natural motion continues]
-Shutter closed, empty pavement in warm street light. Final physical lock: He clears the opening, she lowers the shutter fully once, leaving no return glimpse inside.
+Shutter closed to the ground, the shop dark behind it; empty wet pavement in warm street light, rain still falling, lamp reflections trembling in the puddles; the tower lobby lit across the road.
 Next shot 34.1: Match cut hình dạng/tư thế, không morph. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,46 +1,47 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses arm bent, held by tape after rescue. Voice: quick, polite, alert Southern Vietnamese male voice.
-Thành wears his light-blue shirt and round glasses with right arm taped after the stall struggle, carrying his leather evidence folder and police radio handset.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
+Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape after the stall struggle, carrying his leather evidence folder and police radio handset.
 
 
 [TIMELINE AND LOCATION]
 Scene 39/60, clip 3/6; shot 39.3. Story time: D7 sunset.
-Low market roof overlooking east and west harbour roads, landward apron and uphill lighthouse service path.
-Present-day sunset, one low sun west, clear soft fill on faces, no impossible opposing sun shadows.
+Low corrugated market roof overlooking east and west harbour roads, landward apron and uphill lighthouse service path.
+Present-day sunset: one low sun in the west as warm side key, clear soft sky fill on faces, long shadows all pointing east; no impossible opposing sun shadows.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show what Thành can verify while leaving the exchange itself outside his control.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 39.2, ending with Van and stretcher path clear, Mây heading back to the pier. Final physical lock: Mây confirms the clear stretcher path, then leaves them protected rather than pulling them toward the pier.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 39.2, ending with Mây walking out of the lane mouth toward the pier, her back to the van; Bảy holding one rear door, checkered cloth on his shoulder; Linh beside the open doors, hand on his canvas bag; the lane to the clinic empty and clear in wall shadow.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Thành looking down at two officers covering the harbour junction. Framing: Use his established observation side with both road officers and the empty public pier below.
+On the low market roof at sunset, Thành crouches at the roof edge facing the harbour, round glasses taped at the right temple, folder under his left arm, radio handset in his right hand; below, two officers wait half-hidden at the junction walls; the public pier beyond is empty.
 
 [CAMERA]
-50mm responsive over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched and brisk.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use his established observation side with both road officers and the empty public pier below.
 Focus: Keep the roads readable rather than manufacturing sharp tiny faces through impossible binocular reflections.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He confirms both arrival roads are watched and civilians have left. Beat 2 (3.0–6.5s): He checks each approach once and reports the cleared civilian area without scanning theatrically everywhere. Beat 3 (6.5–10.0s): He speaks with regained steadiness, repaired glasses still a reminder of yesterday's limits, settling crisply into the end frame as wind on roof metal and taped frames connect this post to the earlier preparation.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Finish his check and let the empty pier hold the unease of a place waiting for people; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Thành looks down the east road and finds the first officer tucked behind the junction wall; his eyes rest there a moment. Beat 2 (3.0–5.5s): His gaze crosses to the west road and the second officer, then travels along the empty pier and the shuttered stalls, where nobody moves. Beat 3 (5.5–10.0s): He lifts the handset and reports quietly to Mây that both roads are covered and the civilians are gone, pushing his taped glasses up with one knuckle of his left hand; wind rattles the roof metal around him.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Two short checks, one per road, then the empty pier; the brief report fills the last stretch, and the wind keeps its level so the waiting stays uneasy.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He checks each approach once and reports the cleared civilian area without scanning theatrically everywhere.
-Performance: He speaks with regained steadiness, repaired glasses still a reminder of yesterday's limits.
+Blocking: Thành low at the roof's seaward edge, facing down toward the harbour: east road on his left, west road on his right, the empty pier beyond. Handset in his right hand, folder clamped under his left arm.
+Performance: Steadier than yesterday yet aware of his limits; he wants to report something true, not something reassuring. The taped glasses are a quiet reminder. No sweeping binocular scan, no tense gasp.
 
 
 [DIALOGUE]
-0.2–8.1s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Thành (@Phó Thành), nói trong hình: Báo cáo chị Mây từ mái chợ cá, cả hai tuyến đường đông tây dẫn vào cảng đã nằm trong tầm ngắm và dân thường đã rút sạch.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Thành (@Phó Thành), nói trong hình: Chị Mây, đường đông đường tây đều có người. Bến cá trống, dân rút hết.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,11 +55,11 @@ Wind on roof metal and taped frames connect this post to the earlier preparation
 [SOUND]
 Location bed: sea wind and quiet radio traffic.
 Foreground sound: Radio confirmation is brief, with wind remaining at its existing level rather than dropping for suspense.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Empty public pier below, officers concealed at the junction. Final physical lock: He checks each approach once and reports the cleared civilian area without scanning theatrically everywhere.
+Thành crouched at the roof edge, handset at his mouth, taped glasses pushed up, eyes on the junction; below, both officers concealed at the junction walls, the public pier empty and still; roof metal rattling in the wind.
 Next shot 39.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -103,6 +103,6 @@ Giọng xuyên phim: resonant, friendly elderly Southern Vietnamese male voice.
 
 Biến thể và prompt ảnh tham chiếu:
 - **BAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 70, white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Plain grey studio background, full body and portrait, no text, no real actor likeness.
-- **BAY_O:** Photorealistic reference of the SAME approved Vietnamese identity, age 90, much older face and hands at age 90, same white moustache, white singlet, shorts, working briskly behind the coffee counter with a clean glass cloth. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **BAY_O:** Photorealistic reference of the SAME approved Vietnamese identity, age 90, much older face and hands at age 90, same white moustache, white singlet, shorts, working steadily behind the coffee counter with a clean glass cloth. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
 Các ảnh biến thể là chỉ dẫn cần kiểm tra trước render, không phải media_id mới đã được cấp. Dùng đúng chín danh tính trong FLOW_PROMPTS.md; không gắn một ảnh tuổi 45 vào shot tuổi 20 rồi trông chờ câu chữ tự giải quyết hoàn toàn.

@@ -1,51 +1,52 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; no backpack on him, it stays on the cabin cot.
 
 
 [TIMELINE AND LOCATION]
 Scene 39/60, clip 5/6; shot 39.5. Story time: D7 sunset.
-Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
-Present-day sunset, one low sun west, clear soft fill on faces, no impossible opposing sun shadows.
+Hòn Sóng concrete harbour apron: sea south with blue-painted wooden fishing boats moored along the edge, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Present-day sunset: one low sun in the west as warm side key, clear soft sky fill on faces, long shadows all pointing east; no impossible opposing sun shadows.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let the quiet check of his ally expose dependence beneath outward composure.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 39.4, ending with Sơn on the seam, sea behind him, open retreat toward land. Final physical lock: He carries the copy in his right hand, reaches the painted seam and stops once.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 39.4, ending with Sơn standing on the painted center seam, facing the landward roads, sea behind him, envelope low in his bare right hand, bandaged left wrist at his side, jacket moving in the wind; the landward retreat lane open toward the market.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Sơn at the seam, wind moving his jacket naturally. Framing: Keep close on Sơn from the established landward camera side, both hands fitting the lower frame.
+Sơn on the seam at sunset, wind moving his black lapel, eyes on the landward road; copy envelope in his bare right hand at waist height, white-bandaged left wrist beside it.
 
 [CAMERA]
-85mm tight close-up at eye level, natural depth of field. Crisp facial micro-expressions and rapid vocal delivery, no orbit.
-One new coverage angle on the established side of the axis. Never cut internally.
+85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Keep close on Sơn from the established landward camera side, both hands fitting the lower frame.
 Focus: Hold his eyes, with the bandage readable but not isolated by a rack or cut.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He looks once toward Mây's covered position and steadies his left wrist. Beat 2 (3.0–6.5s): He looks once toward Mây's covered place and supports the left wrist without a new prop. Beat 3 (6.5–10.0s): His relief at her presence is smaller than a smile, followed by renewed attention to the road, settling crisply into the end frame as coastal wind moves the same black jacket, skin texture remains natural in the fading light.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: One look away, one return ahead, leaving him ready rather than looping anxious glances; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Sơn's eyes leave the road and slide toward the market wall corner where Mây is hidden; his head barely turns. Beat 2 (3.0–6.5s): His look rests there and the tightness around his eyes eases a fraction, not a smile; he brings his bandaged left wrist against the envelope hand at his waist and presses it still. Beat 3 (6.5–10.0s): His eyes return to the landward road, jaw settling, a slow breath leaving through his nose; both hands stay in view at his waist while the wind lifts the edge of his jacket.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: One look away, one held moment of contact, one return ahead; the breath at the end leaves him ready rather than waiting.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He looks once toward Mây's covered place and supports the left wrist without a new prop.
-Performance: His relief at her presence is smaller than a smile, followed by renewed attention to the road.
+Blocking: Sơn square to the landward road; Mây's hidden corner lies off frame toward the market wall. His right hand holds the envelope at waist height; the bandaged left wrist comes to rest against it.
+Performance: Relief at knowing Mây is there, smaller than a smile; beneath it, a dependence he is not used to admitting. Then his attention goes back to the road. No anxious glance loop, no wince at the wrist.
 
 
 [DIALOGUE]
-0.2–8.6s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice-over narration only; visible mouths remain at rest while physical action advances.
-Sơn, lời dẫn ngoài hình: Tôi liếc nhẹ về góc tường nơi Mây đang ém quân, siết nhẹ băng vải trên cổ tay trái và hít sâu một hơi chờ hai chiếc xe xuất hiện.
+0.2–5.2s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+Sơn, lời dẫn ngoài hình: Sau bức tường chợ có Mây. Lần đầu tiên, có người chờ để kéo tôi về.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Coastal wind moves the same black jacket, skin texture remains natural in the fading light.
@@ -54,11 +55,11 @@ Coastal wind moves the same black jacket, skin texture remains natural in the fa
 [SOUND]
 Location bed: boat ropes, small waves and engines only when visible.
 Foreground sound: Breath and existing harbour bed are sufficient, no stopped-watch ticking or heartbeat added.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn's gaze back toward the road, both hands visible. Final physical lock: He looks once toward Mây's covered place and supports the left wrist without a new prop.
+Sơn on the seam, eyes back on the landward road, jaw set, breath slowing; bare right hand holding the envelope at his waist, bandaged left wrist resting against it; wind moving his lapel.
 Next shot 39.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

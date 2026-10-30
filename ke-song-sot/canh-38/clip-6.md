@@ -1,46 +1,47 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4; current-day bare hands in this return from memory. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn packs the black leather gloves into his dark-olive canvas backpack, zips it shut, and leaves the backpack on the cabin cot.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, both hands bare. The black leather gloves already lie folded inside his open dark-olive canvas backpack on the cabin cot; he zips the backpack shut and leaves it on the cot.
 
 
 [TIMELINE AND LOCATION]
 Scene 38/60, clip 6/6; shot 38.6. Story time: D7 late afternoon.
-One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
-Present-day day-seven late afternoon at cabin, warm low sun and cool window shadow.
+One-room wooden cabin with weathered plank walls and a corrugated-iron roof, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day day-seven late afternoon at the cabin: warm low sun through the porch doorway as side key, cool window shadow across the cot.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make the present hand capable of leaving the gift behind rather than reenacting the first acceptance.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 38.5, ending with Young Sơn looking at the stockroom lock, Bà Hai watching him. Final physical lock: He notices the existing sleeping mat beyond the stockroom lock, without testing or opening a new door.
-Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action briskly from 0.0s; no transformation, morph, dissolve or replay of the old shot.
+Previous editorial shot: 38.5, ending with Young Sơn by the ajar stock door, eyes fixed on the open padlock on its outer hasp, shoulders drawn in, breathing shallowly; his rolled mat inside the stockroom; young Bà Hai at the teak desk, still, watching him.
+Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action from 0.0s; no transformation, morph, dissolve or replay of the old shot.
 
 [START FRAME — state only, not an action to repeat]
-Present-day folded gloves in the canvas bag, Sơn's bare hands beside them, with his dark-olive canvas backpack open beside his hands. Framing: Match to the existing folded pair in the cabin bag, bare older hands positioned beside it.
+Present-day cabin, late sun: the dark-olive canvas backpack lies open on the cot, folded black leather gloves visible on top inside; Sơn's bare hands rest on the canvas either side of the opening, white bandage on the left wrist.
 
 [CAMERA]
-85mm brisk detail shot. Hands and the relevant object move decisively from 0.0s; spatially readable with zero hesitation.
-One new coverage angle on the established side of the axis. Never cut internally.
+85mm detail shot. Hands and the relevant object move decisively from 0.0s and stay spatially readable.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Match to the existing folded pair in the cabin bag, bare older hands positioned beside it.
 Focus: Keep both gloves inside until the zip covers them, no spare pair or hand disappearing into a pocket.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn zips the bag closed and leaves it on the bed, with his dark-olive canvas backpack open beside his hands. Beat 2 (3.0–6.5s): He closes the zip once and leaves the bag on the bed, keeping hands ungloved. Beat 3 (6.5–10.0s): The movement is calm but final, not a ceremonial rejection thrown at the memory, settling crisply into the end frame as worn canvas and older leather replace the remembered new gift box under current-day light.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Do not repeat the glove-folding from35.4; this shot closes the bag on a settled choice; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Sơn's bare hands stay still on the canvas beside the open bag for a moment, the folded gloves untouched inside, then his right hand moves to the brass zipper pull at one end. Beat 2 (3.0–6.5s): His left hand holds the canvas flat while the right draws the zipper along its track in one steady pass, and the opening closes over the gloves. Beat 3 (6.5–10.0s): Both bare hands lift off the closed backpack and withdraw upward out of view; the bag stays on the cot, straps slack, warm low sunlight sliding across the canvas.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: A short still pause, a single steady zip, and the hands leaving early enough that the closed bag holds the last seconds on its own before the harbour.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: He closes the zip once and leaves the bag on the bed, keeping hands ungloved.
-Performance: The movement is calm but final, not a ceremonial rejection thrown at the memory.
+Blocking: Backpack lies lengthwise on the cot, opening toward the top of frame. Left hand steadies the canvas, right hand runs the zipper; both hands exit upward. The gloves never leave the bag.
+Performance: Calm and final: the decision was made this morning, and closing the bag only seals it. A trace of reluctance in the opening stillness, nothing more. No ceremonial rejection, no lingering caress of the leather.
 
 
 [DIALOGUE]
-0.2–8.9s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice-over narration only; visible mouths remain at rest while physical action advances.
-Sơn, lời dẫn ngoài hình: Trở về thực tại chiều ngày thứ bảy, tôi kéo khóa chiếc túi vải nhốt chặt đôi găng đen năm xưa lại, bước ra cảng với hai bàn tay tự do.
+0.2–5.5s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+Sơn, lời dẫn ngoài hình: Đôi găng đầu tiên biến ơn một chén cơm thành một đời giữ cửa cho người khác.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,11 +55,11 @@ Worn canvas and older leather replace the remembered new gift box under current-
 [SOUND]
 Location bed: wind through wood joints and remote surf.
 Foreground sound: Zipper sound finishes naturally, then cabin wind prepares the harbour cut.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Present-day bag zipper finishes under the cut to the harbour overview, then sea wind takes over. Gloves stay in the cabin.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Present-day bag zipper finishes under the cut to the harbour overview, then sea wind takes over. Gloves stay in the cabin.
 
 [END FRAME — natural motion continues]
-Bag closed on the bed, bare hands leaving the frame, with his dark-olive canvas backpack open beside his hands. Final physical lock: He closes the zip once and leaves the bag on the bed, keeping hands ungloved.
+The dark-olive backpack closed and zipped on the cot, gloves out of sight inside, brass pull at the end of its track; Sơn's bare hands leaving the frame; low warm sun and cool window shadow across the canvas.
 Next shot 39.1: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

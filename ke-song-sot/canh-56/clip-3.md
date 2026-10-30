@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
@@ -8,41 +9,41 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 
 [TIMELINE AND LOCATION]
 Scene 56/60, clip 3/6; shot 56.3. Story time: D8 morning.
-Hòn Sóng fish market, parallel narrow aisles, crate stacks, side doors and rear safe exit.
-Day-eight morning, ordinary coastal daylight and neutral interiors, no action lighting.
+Hòn Sóng fish market under a corrugated roof: wet concrete floor, parallel narrow aisles, foam boxes and crate stacks of fish on crushed ice, side doors and rear safe exit, no readable signs.
+Day-eight morning: ordinary coastal daylight from the east, soft shade under roofs and awnings, neutral window light indoors; no action lighting.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show communal repair through checking people, not praising Sơn as the town's saviour.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 56.2, ending with Chair upright, first clean glass on the counter. Final physical lock: They restore the chair and open the stall, keeping the work small and habitual.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 56.2, ending with Chair upright at the seaward table; the first clean glass standing on the counter beside the coffee tray; Bảy behind the counter, cloth in hand; Thành at the counter end, folder under his arm, half smiling; the awning cloth stirring in the wind.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Mây walking through the reopening fish market. Framing: Use the wide along the reopened market lane, Mây meeting the two existing unnamed sellers near the gate.
+Mây walking along a reopened fish-market aisle between ice tubs and crate stacks, duty pouch at her hip; ahead, two unnamed sellers work beside the repaired side gate, one shovelling ice into a tub, the other stacking crates.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use the wide along the reopened market lane, Mây meeting the two existing unnamed sellers near the gate.
 Focus: Keep the route and activity readable in ordinary depth, no spotlight isolating Mây in the crowd.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She checks on sellers who evacuated and thanks them for keeping the routes clear. Beat 2 (3.0–6.5s): She checks the cleared passage and thanks the sellers while they resume normal handling of their stalls. Beat 3 (6.5–10.0s): Her gratitude is sincere but brief; the sellers remain workers with lives rather than a cheering audience, settling crisply into the end frame as gate stays repaired in its existing place, carts and tubs return to functional positions rather than fight poses.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Walk and conversation should carry forward together, ending as the sellers get back to business; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Mây walks the last stretch of the cleared aisle, glancing along the route, and as she reaches the gate thanks the two sellers for getting people out and keeping the rear way open. Beat 2 (3.5–7.0s): The nearer seller shrugs it off with a short answer, still shovelling ice into the tub, while the other lifts a crate onto the stack. Beat 3 (7.0–10.0s): Mây rests a hand on the repaired gate post, looks through the gate along the rear exit route, gives a short satisfied nod and turns back toward the aisle as the sellers keep working.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Walk and thanks arrive together, the reply comes without anyone stopping work, and the take ends with everyone moving on, not posed for a group moment.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She checks the cleared passage and thanks the sellers while they resume normal handling of their stalls.
-Performance: Her gratitude is sincere but brief; the sellers remain workers with lives rather than a cheering audience.
+Blocking: The aisle runs from frame left to the side gate at screen right. Mây walks toward the gate and stops beside it; the two sellers stay at their tub and crate stack. Duty pouch on her hip, her hands free.
+Performance: Her gratitude is real but brief; she wants them back to normal life more than she wants to thank them. The sellers treat it as nothing special, workers with a morning to run. No cheering, no saviour talk.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
 The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.
-Mây (@May), nói trong hình: Cảm ơn bà con các sạp chợ cá hôm qua đã phối hợp rút người nhanh và giữ thông thoáng lối sau cho đội cứu hộ làm nhiệm vụ.
-Người trong cảnh, nói trong hình: Nhờ cô Mây với anh em công an giữ bình yên cho bến cảng nên tụi tui mới yên tâm họp chợ lại.
+Mây (@May), nói trong hình: Cảm ơn bà con đã đưa người ra, giữ lối sau thông thoáng.
+Người trong cảnh, nói trong hình: Có gì đâu cô. Chợ mở lại là mừng rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +57,11 @@ Gate stays repaired in its existing place, carts and tubs return to functional p
 [SOUND]
 Location bed: ice sliding into tubs and water along the aisle.
 Foreground sound: Market voices and normal water sounds resume beneath her thanks, replacing the night command bed.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Mây with two unnamed sellers at the repaired side gate. Final physical lock: She checks the cleared passage and thanks the sellers while they resume normal handling of their stalls.
+Mây at the repaired side gate, her hand leaving the gate post as she turns back toward the busy aisle; the two sellers at work beside her, ice sliding into the tub, a crate settling on the stack; water running along the aisle floor.
 Next shot 56.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,48 +1,49 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Ha = Hạ: same approved identity, age 52; Vietnamese woman, slim build, gentle alert eyes, long black hair. older face age 52, long hair with a little grey tied back, cream work blouse, forest-green florist apron, the same pale-blue silk scarf. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @May = Mây: same approved identity, age 58; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. older face age 58, more silver in the same short haircut, plain khaki shirt, dark trousers, ordinary motorcycle helmet held at her side when specified. Voice: firm, clear Southern Vietnamese female voice.
-Older Mây wears her neat khaki shirt and dark trousers, holding a freshly wrapped bouquet of white daisies and her motorcycle helmet. Older Hạ wears a cream work blouse, forest-green florist apron with shears, and the same treasured pale-blue silk scarf at her neck.
+Older Mây wears her neat khaki shirt and dark trousers, her motorcycle helmet held in her left hand; she receives one freshly wrapped bunch of white daisies from Hạ during this shot. Older Hạ wears a cream work blouse, forest-green florist apron with shears, and the same treasured pale-blue silk scarf at her neck.
 
 
 [TIMELINE AND LOCATION]
 Scene 60/60, clip 2/6; shot 60.2. Story time: LATER many years after the case.
 Hạ completed flower stall years later at market entrance, working counter, old seven-mark wood strip discreetly fixed underneath, doorway toward coach stop.
-Many years later, soft coastal morning, same geography, mature faces with natural skin texture.
+Many years later, soft coastal morning: low sun from the east, gentle sea fill, same geography, mature faces with natural skin texture.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show enduring friendship as an ordinary purchase rather than a recap of every intervening year.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 60.1, ending with Shop open, Hạ behind the counter, morning customers blurred beyond. Final physical lock: She opens the shutters and arranges the existing lilies as practiced morning work, customers only blurred background.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 60.1, ending with The shop open to the morning, older Hạ behind the counter among buckets of white lilies, hands on her apron, shears in its pocket; blurred customers slowing at the entrance beyond; the old marked strip unnoticed in shadow under the counter lip.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Older Mây stopping outside the shop with her helmet in hand. Framing: Medium coverage holds older Mây outside with helmet in hand and Hạ behind her counter.
+Older Mây stopped at the flower counter, her motorcycle helmet hanging from her left hand by its strap; behind the counter, older Hạ already holds one bunch of white daisies wrapped in paper.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Medium coverage holds older Mây outside with helmet in hand and Hạ behind her counter.
 Focus: Keep faces and the transaction readable, no focus flourish on silver hair as an aging announcement.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She buys one ordinary bunch and exchanges a familiar look with Hạ. Beat 2 (3.0–6.5s): One bunch changes hands and Hạ gives change, without either person explaining prison time or the case. Beat 3 (6.5–10.0s): Their familiar ease lives in a small look, Mây's invitation casual and specific to an everyday meal, settling crisply into the end frame as mây's increased silver and Hạ's mature features stay consistent, helmet remains in hand and flowers remain one purchase.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the exchange finish at working pace, with no hug, ceremonial pause or new promise to wait; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–4.0s): Mây lays a folded banknote on the counter with her right hand, asking for her usual bunch of white daisies and saying she will come for dinner after her shift. Beat 2 (4.0–7.0s): Hạ hands the daisies across and Mây takes them in her right hand; they share a familiar look as Hạ tells her to come early, she will cook fish soup. Beat 3 (7.0–10.0s): Hạ picks up the note, counts a few coins from her apron pocket and holds the change out across the counter while Mây shifts the helmet strap to free her fingers.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Order, handover and reply run at working pace through the first seven seconds; the change closes the exchange naturally, without a pause for meaning.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: One bunch changes hands and Hạ gives change, without either person explaining prison time or the case.
-Performance: Their familiar ease lives in a small look, Mây's invitation casual and specific to an everyday meal.
+Blocking: Counter between them; Hạ behind it at screen left, Mây outside at screen right. The helmet stays in Mây's left hand and the flowers go to her right; note and coins pass over the counter.
+Performance: Their friendship lives in habit: Mây wants the dinner more than the flowers, and Hạ already knew the order. Nothing about the case or prison is said or shown. No hug, no ceremony, no promise to wait.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Sáng nay hoa tươi về đẹp quá Hạ, gói cho tao một bó cúc trắng như mọi tuần nghe, chiều hết ca trực ở đồn tao ghé qua nhà mày ăn cơm.
-Hạ (@Ha), nói trong hình: Của mày đây Mây, chiều nhớ ghé sớm tao nấu canh cá biển chờ đó.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Mây (@May), nói trong hình: Như mọi tuần nghe, một bó cúc trắng. Chiều hết ca tao ghé ăn cơm.
+Hạ (@Ha), nói trong hình: Ghé sớm nghe, tao nấu canh cá chờ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +57,11 @@ Mây's increased silver and Hạ's mature features stay consistent, helmet remai
 [SOUND]
 Location bed: sea breeze, flower wrapping and distant town morning sounds.
 Foreground sound: Paper and coins are small sounds under the line, shop and market bed continues naturally.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Flowers in Mây's hand, Hạ handing back change. Final physical lock: One bunch changes hands and Hạ gives change, without either person explaining prison time or the case.
+Mây holding the white daisies in her right hand, helmet hanging from her left, fingers freeing to take the change; Hạ holding the coins out across the counter; both wearing the easy half-smile of an old habit; the market morning moving behind Mây.
 Next shot 60.3: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

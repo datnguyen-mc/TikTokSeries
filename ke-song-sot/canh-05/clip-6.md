@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -9,40 +10,40 @@ Sơn's unzipped dark-olive canvas backpack sits at the edge of the wooden cabin 
 
 [TIMELINE AND LOCATION]
 Scene 05/60, clip 6/6; shot 05.6. Story time: D1 noon.
-One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
-Present-day noon daylight through cabin gaps, cooler shadows, no fluorescent source.
+One-room wooden cabin with weathered plank walls and a corrugated-iron roof, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day noon: hard top light slicing through cabin plank gaps in thin bars, soft floor bounce as fill, cooler shadows in the corners; no fluorescent source.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make hospitality interrupt concealment, binding Bảy's later help to an earned ordinary kindness.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 05.5, ending with Case hidden above the beam, Sơn's empty hands below, with his dark-olive canvas backpack open beside his hands. Final physical lock: He secures the complete closed case above the beam, then lowers both hands where they can be seen.
-J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.
+Previous editorial shot: 05.5, ending with The case hidden above the beam, nothing visible from below; Sơn standing under it with both empty hands open at his sides, dust settling in the light; the open backpack at the table's edge behind him.
+J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Bảy at the porch threshold carrying a meal, with his dark-olive canvas backpack open beside his hands. Framing: Frame the threshold and covered ledger with clear distance, Bảy outside the private room's deeper space.
+Noon in the cabin: Bảy at the open porch doorway holding a covered meal container on a plastic tray, cloth over his shoulder; Sơn at the table deeper inside, the open black ledger and closed tin before him, the empty backpack at the table's edge.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame the threshold and covered ledger with clear distance, Bảy outside the private room's deeper space.
 Focus: Keep the two people readable without shifting focus into the concealed book or forcing Bảy to notice it.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn covers the ledger, Bảy leaves the meal without crossing the room, with his dark-olive canvas backpack open beside his hands. Beat 2 (3.0–6.5s): Sơn covers the ledger once while Bảy lowers the meal near the door and stops there. Beat 3 (6.5–10.0s): Bảy's gratitude stays practical; Sơn's relief is mixed with discomfort at being cared for, settling crisply into the end frame as meal-container steam and the existing cloth cover bring warmth into the otherwise sparse room.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let his boundary-respecting stop matter as much as the meal; do not send him walking through the room; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Sơn draws the empty canvas backpack across the table over the open ledger and the tin, covering both, while Bảy calls in from the doorway about the meal and the morning's crate. Beat 2 (3.5–6.5s): Bảy stops at the threshold without stepping into the room and bends to set the tray with the steaming container on the floorboards just inside the door. Beat 3 (6.5–10.0s): He straightens, wiping his hands on the cloth; Sơn, one hand still on the backpack, thanks him in a few words, relief and discomfort crossing his face, and Bảy nods and stays where he is, steam rising between them.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The cover happens under Bảy's first words; setting the tray down is the centre; the clip ends on two men holding their places across the room, steam keeping it alive.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn covers the ledger once while Bảy lowers the meal near the door and stops there.
-Performance: Bảy's gratitude stays practical; Sơn's relief is mixed with discomfort at being cared for.
+Blocking: Doorway at frame left with Bảy on the threshold, table at frame right deeper in the room with Sơn. The tray goes down just inside the door; Bảy never crosses the room. The backpack is drawn over the ledger and tin.
+Performance: Bảy's kindness is practical and he respects the boundary without being told. Sơn's relief at that stop is mixed with discomfort at being cared for while hiding something. No suspicious glances, no sentimental thanks.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Tui đem cơm trưa lên cho chú nè, ăn lót dạ đi, hồi sáng chú chụp giùm cái thùng cá nên tui trả lễ đó.
-Sơn (@Son), nói trong hình: Cảm ơn chú Bảy nhiều, chú cứ để trên bàn giúp tôi.
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Ông Bảy (@Ông Bảy), nói trong hình: Cơm trưa nè chú. Sáng nay chú đỡ tui cái thùng, tui trả lễ.
+Sơn (@Son), nói trong hình: Cảm ơn chú. Để đó giùm tôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,11 +60,11 @@ Meal-container steam and the existing cloth cover bring warmth into the otherwis
 [SOUND]
 Location bed: wind through wood joints and remote surf.
 Foreground sound: A soft container landing and Bảy's unforced voice replace the tin's hard click, with no new musical comfort cue.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: The meal container settling at the cabin door bridges to the flower-shop cash drawer. Do not replay the tin being closed.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: The meal container settling at the cabin door bridges to the flower-shop cash drawer. Do not replay the tin being closed.
 
 [END FRAME — natural motion continues]
-Meal by the door, covered ledger farther inside, with his dark-olive canvas backpack open beside his hands. Final physical lock: Sơn covers the ledger once while Bảy lowers the meal near the door and stops there.
+The covered meal on its tray just inside the doorway, steam rising; Bảy at the threshold wiping his hands on the cloth, not stepping in; Sơn at the table farther inside, one hand resting on the backpack that hides the ledger and tin.
 Next shot 06.1: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

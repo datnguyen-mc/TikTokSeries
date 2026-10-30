@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -9,40 +10,39 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 
 [TIMELINE AND LOCATION]
 Scene 07/60, clip 3/6; shot 07.3. Story time: D2 morning.
-One-room wooden cabin, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
-Present-day morning daylight, neutral station window fill for station shots.
+One-room wooden cabin with weathered plank walls and a corrugated-iron roof, porch on south seaward side, table below east window, cot west, rear exit north, marked entry frame.
+Present-day morning: soft daylight through the east-facing cabin window as side key, open sky fill on the porch; neutral window side light inside the station.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Mây compare a person to a document without performing instant guilt detection.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 07.2, ending with Sơn passing a card across the threshold. Final physical lock: She waits outside until acknowledged; Sơn passes the card across instead of inviting her deeper immediately.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 07.2, ending with Mây outside the threshold, Sơn inside the doorway with his right hand still on the door; the card held between his left fingers and hers above the threshold line; her notebook closed in her left hand; both faces level, sea wind stirring her sleeve.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Mây at the doorway with the card, Sơn beside the table. Framing: Use the specified shoulder view to retain Sơn by the table and Mây at the doorway with the card.
+Sơn in the near foreground beside the table, two paces inside the door, hands empty at his sides; Mây on the threshold facing him, his identity card in her right hand, her small black notebook open on her left palm, pen clipped to its cover.
 
 [CAMERA]
-50mm responsive over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched and brisk.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use the specified shoulder view to retain Sơn by the table and Mây at the doorway with the card.
 Focus: Keep Mây's speaking face readable past Sơn's near edge, with card detail secondary rather than legible text.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She studies the card and his face without entering deeper. Beat 2 (3.0–6.5s): She studies the photograph shape, returns her eyes to his face and hands the card back once. Beat 3 (6.5–10.0s): Her question is open rather than accusatory; his stillness should invite scrutiny without announcing a villain, settling crisply into the end frame as window light grazes the card and notebook paper, while the interior beyond remains modest and spare.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Allow a practical comparison interval, then return the card before the next evasive answer begins; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Mây raises the card beside his face and compares the two, her eyes moving from the small photo to Sơn and back, as she asks how long he plans to stay in Hòn Sóng. Beat 2 (3.5–7.0s): Still on the threshold, she unclips the pen and copies the card number into her open notebook in a few short strokes, glancing up between them; Sơn holds still by the table, jaw set, offering nothing. Beat 3 (7.0–10.0s): She holds the card out; Sơn steps forward and takes it back, sliding it into his jacket, while her notebook stays open on her palm and her eyes wait on him for an answer.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Comparison and question come first, then a practical writing interval while the silence grows, and the card goes back before any answer can begin; the clip closes on her open notebook and waiting eyes.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She studies the photograph shape, returns her eyes to his face and hands the card back once.
-Performance: Her question is open rather than accusatory; his stillness should invite scrutiny without announcing a villain.
+Blocking: Mây never crosses the threshold; Sơn stands one pace inside by the table, nearest to us, back half turned. The card goes from her right hand to his and into his jacket; the notebook stays on her left palm throughout.
+Performance: Mây's question is open, not an accusation; she compares a document to a man and lets silence do the pressing. Sơn's stillness invites the scrutiny he wants to avoid; calculation hides behind a flat face. No villain stare, no nervous blinking.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Thẻ in khá kỹ nhưng số hồ sơ không khớp dữ liệu dân cư, anh tính ở lại thị trấn Hòn Sóng này tới chừng nào?
-Sơn (@Son), nói trong hình: Tôi đợi một người quen trên chuyến tàu cuối tuần rồi sẽ rời đi ngay.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Mây (@May), nói trong hình: Căn cước này tôi ghi lại. Anh tính ở Hòn Sóng tới chừng nào?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +56,11 @@ Window light grazes the card and notebook paper, while the interior beyond remai
 [SOUND]
 Location bed: wind through wood joints and remote surf.
 Foreground sound: Her paper and card handling stays soft below the question, with the outside motorcycle now quiet.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Card returned to Sơn, notebook still open. Final physical lock: She studies the photograph shape, returns her eyes to his face and hands the card back once.
+Sơn one pace inside the door, the card just tucked into his jacket; Mây still on the threshold, notebook open on her left palm, pen in her right hand, eyes on his face, waiting; bright porch boards and morning light behind her.
 Next shot 07.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

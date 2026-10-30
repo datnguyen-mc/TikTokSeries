@@ -1,5 +1,6 @@
-Continue the scene seamlessly from the final frame of clip 1. Same composition at the seam, brisk new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 1. Same composition at the seam, new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
@@ -10,39 +11,38 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 46/60, clip 2/6; shot 46.2. Story time: D7 night continuous.
 Outside rear of the same stationary van, market wall behind, loose cart to left, clear police-controlled lane.
-Same night, van lamp spilling into rear lane, harbour floodlight distant.
+Same night: warm van lamp spilling from the open rear into the lane as side key, distant harbour floodlight as cool rim.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Mây accepting support rather than insisting on a solitary victory.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 46.1, ending with Cart between them, Dũng off balance, Mây beside its handle. Final physical lock: Dũng advances toward the remaining door, Mây angles the existing cart across that direct path.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 46.1, ending with Cart angled across the lane between them, still rocking; Mây at its handle, left hand gripping it, knees bent; Dũng bent forward over the far rim, both palms braced on it, off balance, bag swinging at his chest, cut cuff ring on his right wrist; one van door open behind Mây.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Cart between them, Dũng off balance, Mây beside its handle. Final physical lock: Dũng advances toward the remaining door, Mây angles the existing cart across that direct path.
+Cart angled across the lane between them, still rocking; Mây at its handle, left hand gripping it, knees bent; Dũng bent forward over the far rim, both palms braced on it, off balance, bag swinging at his chest, cut cuff ring on his right wrist; one van door open behind Mây.
 
 [CAMERA]
-35mm energetic handheld medium-wide with brisk kinetic momentum. Keep the entire defensive action readable from one side of the axis.
+35mm controlled handheld medium-wide with kinetic energy. Keep the entire defensive action readable from one side of the axis.
 Keep the exact previous camera, lens and axis; no framing reset.
 Composition: Continue the exact handheld setup and focal range from the cart obstruction, no new angle at the seam.
 Focus: Do not reset focus to a new face; let the existing medium-wide hold cart, steps and officer arrival.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Dũng pushes the cart aside, Mây steps clear toward the arriving officer. Beat 2 (3.0–6.5s): Dũng shoves the cart aside while Mây clears its path toward the officer already arriving. Beat 3 (6.5–10.0s): She checks the officer's position with one glance, Dũng realizes his route is now confronted by two people, settling crisply into the end frame as the moved cart stays at the side reached by the shove, no reset to its prior diagonal position.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Advance directly from the prior stop; finish when the two-person boundary has formed, not after beginning restraint; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Dũng heaves the cart aside with both arms; it rolls off his line and bangs against the market wall, and he straightens, the bag swinging back against his chest. Beat 2 (3.0–6.5s): Mây lets go of the handle and gives ground sideways out of his reach, still between him and the van, as an officer runs in from the harbour end of the lane; she calls the officer to circle to Dũng's left and keep him off the van door. Beat 3 (6.5–10.0s): The officer slows into position a stride from Mây, hands up and ready; Dũng's head swings from one to the other, his feet shuffling as he takes in that the open door now sits behind two bodies instead of one.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The shove continues straight from the previous stop; Mây's call comes as she gives ground; the boundary forms in the final beat and the shot ends before any hands go on.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Dũng shoves the cart aside while Mây clears its path toward the officer already arriving.
-Performance: She checks the officer's position with one glance, Dũng realizes his route is now confronted by two people.
+Blocking: Lane geometry unchanged. The cart goes from Dũng's path to the market wall. Mây backs off sideways, staying between Dũng and the van; the officer enters from the harbour end and stops at her side, covering Dũng's LEFT.
+Performance: Mây accepts help without ego, one quick glance confirming the officer's position. Dũng's anger meets arithmetic: two bodies now, not one, and he knows it. No victory smile, no snarling standoff.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Dũng (@Dũng), nói trong hình: Xô văng cái xe đẩy này ra, hôm nay tao phải đưa thằng Sơn đi trước khi nó kịp mở miệng khai!
-Mây (@May), nói trong hình: Đồng chí hỗ trợ áp sát khóa cánh tay trái của hắn lại ngay!
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Mây (@May), nói trong hình: Đồng chí, vòng qua bên trái hắn. Đừng để hắn tới cửa xe.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -58,11 +58,11 @@ The moved cart stays at the side reached by the shove, no reset to its prior dia
 [SOUND]
 Location bed: van-door latch and footsteps in the rear lane.
 Foreground sound: Wheels scrape continuously through the seam, followed by controlled boots, no new score beat.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Mây beside the officer, Dũng facing two people rather than one. Final physical lock: Dũng shoves the cart aside while Mây clears its path toward the officer already arriving.
+Mây and the officer side by side, a stride apart, in front of the van's open rear door, hands raised and ready; Dũng facing them in the lane, feet shifting, bag at his chest, cut ring on his right wrist; the cart pushed against the market wall at the side.
 Next shot 46.3: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

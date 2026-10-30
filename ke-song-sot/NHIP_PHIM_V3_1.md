@@ -101,6 +101,7 @@ Chặng đầu gắn đồng hồ bảy ngày với một người vắng mặt;
 | 41.1 | Tờ nhận tội Kiên để ở36.5 đã được Mây giữ37.1/37.6; tới41.1 lại có một tập trắng vật lý thứ hai. | Để Kiên đổi điều kiện bằng lời, không đưa thêm tập giấy. Tay phải giữ tay trái Hạ, tay trái vẫn che kín trước lúc súng được thấy44.3. |
 | 41.4 | Đầu clip còn mô tả Sơn giữa tập nhận tội và vạch an toàn dù tập giấy đã ở Mây. | Chỉ giữ Sơn, vạch an toàn và phong bì bản sao anh đang mang, hành động đặt phong bì không đổi. |
 | 01.1 | Lời mở còn thiên về phong cảnh, chưa cho người xem lý do theo cuộc tìm kiếm. | Đổi lời dẫn thành nhu cầu tìm dấu Hạ trước khi quá muộn, không khẳng định cô còn sống. |
+| Toàn phim | Lượt ghép tự động trước đó chép ghi chú blocking thành Nhịp 2 nên mọi clip diễn hành động chính hai lần; end frame chứa hành động; 213 clip vượt 30 âm tiết thoại; balo/túi mâu thuẫn ở 01.1 và 60.4. | Viết lại 360 action thành ba nhịp không lặp, start/end frame chỉ là trạng thái, thoại tối đa 30 âm tiết mỗi clip; validator chặn các lỗi này khi tái sinh. |
 
 ## Cách đọc phần chỉ đạo chi tiết
 

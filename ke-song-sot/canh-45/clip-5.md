@@ -1,49 +1,49 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice: focused, calm Southern Vietnamese male voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
 
 
 [TIMELINE AND LOCATION]
 Scene 45/60, clip 5/6; shot 45.5. Story time: D7 night continuous.
 Inside Bảy stationary van behind market wall, secured clean mattress, small warm lamp, medical bag, open rear toward safe lane.
-Night, steady warm van lamp and existing lighthouse work lights, no emergency strobe montage.
+Night: steady warm van lamp as low key inside, existing lighthouse work lights as cool top light on the stairs; no emergency strobe montage.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Mây offer concrete reassurance based on the team she can actually hear.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 45.4, ending with Clip holding the latch short of fully closing behind them. Final physical lock: With Kiên pushing the hatch using his RIGHT hand, Hạ places the existing clip from her free RIGHT palm.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 45.4, ending with The rusted hatch resting a finger's width short of closed, its latch stopped on the hidden silver clip, a thin dark gap along the edge; the hands gone from the latch, the hatch still trembling faintly on its hinge.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Mây at the van door, Linh at Sơn's side. Framing: Frame her at the van door beside Linh and Sơn, with enough room for the watch handover.
+Inside the van under the warm lamp: Sơn on his back on the mattress, eyes open, right hand palm up at his side; Linh kneeling at his right shoulder; Mây crouched in the open rear doorway, duty pouch at her hip.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame her at the van door beside Linh and Sơn, with enough room for the watch handover.
 Focus: Keep handover and both faces readable, with no insert that implies the photograph inside has been revealed.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She tells Sơn the teams are moving and returns his closed watch to his right hand. Beat 2 (3.0–6.5s): She returns the same CLOSED watch into Sơn's RIGHT palm, his LEFT bandage untouched. Beat 3 (6.5–10.0s): Mây's concern is private but her words remain factual; Sơn registers the weight without opening the lid, settling crisply into the end frame as the engraved closed lid catches warm lamplight, no ticking or second chain introduced.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the object settle in his palm before her hand withdraws, ending on a complete return rather than a sentimental freeze; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Mây leans in through the rear doorway, opens her duty pouch and draws out the closed silver watch by its chain, telling Sơn that Thành has opened the lower gate and her people are climbing. Beat 2 (3.0–6.5s): She kneels in at his right hip beside Linh, lays the closed watch in Sơn's open right palm with the engraved lid up and coils the chain beside it, telling him to keep hold of it. Beat 3 (6.5–10.0s): Her hands withdraw and rest empty on her knees, her eyes flicking to the dark lane outside; Sơn's eyes drop to the weight in his palm and stay there, his breath deepening, while Linh watches the fingers that do not yet close.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: Report and retrieval share the first beat, the handover is unhurried in the middle, and the object settles with breath still moving before the cut, no sentimental freeze.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She returns the same CLOSED watch into Sơn's RIGHT palm, his LEFT bandage untouched.
-Performance: Mây's concern is private but her words remain factual; Sơn registers the weight without opening the lid.
+Blocking: Mây enters from the rear doorway to Sơn's RIGHT hip; Linh stays at his RIGHT shoulder. The watch travels from her pouch to his RIGHT palm only; his LEFT bandaged hand stays untouched on the mattress.
+Performance: Mây's concern stays private; her words are facts, and the care shows only in how gently she sets the watch down. Sơn registers the weight and its meaning without opening it. No lingering touch, no tearful close-up.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Đội của Thành đã thông được cổng dưới và đang tiến lên tháp rồi, tôi đặt lại chiếc đồng hồ bạc vào tay phải cho anh đây, ráng thở đều đi Sơn.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Các đầu ngón tay phải của anh ấy bắt đầu có phản xạ nắm lại rồi đó Mây.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Mây (@May), nói trong hình: Thành mở được cổng dưới, người của tôi đang lên. Đồng hồ của anh đây, giữ lấy.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,11 +59,11 @@ The engraved closed lid catches warm lamplight, no ticking or second chain intro
 [SOUND]
 Location bed: breathing and distant muffled police radio.
 Foreground sound: Her line and a light metal touch accompany breathing; radio stays a separate restrained background layer.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Closed watch in Sơn's right palm, Mây's hands free. Final physical lock: She returns the same CLOSED watch into Sơn's RIGHT palm, his LEFT bandage untouched.
+Closed silver watch lying in Sơn's open right palm, engraved lid up, chain coiled beside it, his eyes on it, chest rising; Mây kneeling at his right hip, empty hands on her knees, glance toward the lane; Linh at his right shoulder watching his fingers.
 Next shot 45.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

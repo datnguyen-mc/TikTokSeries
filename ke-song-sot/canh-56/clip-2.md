@@ -1,48 +1,48 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
-Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
+Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape, carrying his leather evidence folder and police radio handset. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
 
 
 [TIMELINE AND LOCATION]
 Scene 56/60, clip 2/6; shot 56.2. Story time: D8 morning.
-Bảy coffee stall, green canvas awning, counter landward, plastic tables seaward, street visible in the counter mirror.
-Day-eight morning, ordinary coastal daylight and neutral interiors, no action lighting.
+Bảy coffee stall, green canvas awning, counter landward, low plastic stools and tables seaward, aluminium phin filters and glasses of iced coffee on the counter, street visible in the counter mirror, no readable signs.
+Day-eight morning: ordinary coastal daylight from the east, soft shade under roofs and awnings, neutral window light indoors; no action lighting.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Return the town to an ordinary transaction rather than another retelling of the fight.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 56.1, ending with Complete evidence handover recorded, local copies retained. Final physical lock: She delivers the local files while the existing record is checked against the sealed originals.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 56.1, ending with Handover record initialled and turned back toward Thành, the tied witness files logged beside the sealed originals, ledgers apart, USB and token sleeves separate; a thin stack of local copies at Thành's elbow; Mây standing at the desk end, hands free; the investigator straightening in his chair.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Bảy returning an overturned chair to its regular place, Thành nearby. Framing: Frame Bảy and Thành at the coffee counter with the familiar chair and first clean glass.
+Under the green awning, Bảy bends over a plastic chair lying on its side by the seaward table, one hand on its backrest, checkered cloth on his shoulder; Thành stands at the counter end with his leather folder under his left arm.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Bảy and Thành at the coffee counter with the familiar chair and first clean glass.
 Focus: Keep both at conversational medium depth, without isolating the chair like a sacred relic.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): They reopen the stall together, without retelling the whole fight. Beat 2 (3.0–6.5s): They restore the chair and open the stall, keeping the work small and habitual. Beat 3 (6.5–10.0s): Bảy's question contains weary practical humour, Thành's response can stay in a look rather than extra dialogue, settling crisply into the end frame as counter, chair and glass are the same worn everyday items, no new flowers or hero portrait appears.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let work proceed through the line, finishing ready to serve instead of pausing for laughter or a curtain-call reaction; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Bảy rights the chair and sets it in its regular place at the seaward table, asking Thành with weary dry humour whether the stall may sell coffee now. Beat 2 (3.5–7.0s): Thành answers with a small smile and a nod instead of words and, folder still tucked under his arm, slides the coffee tray with its phin filter along the counter toward Bảy. Beat 3 (7.0–10.0s): Bảy steps behind the counter, pulls the cloth from his shoulder, wipes a glass and stands it on the counter, the first of the day, as the awning cloth lifts in the sea wind.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The question rides the chair being set down, the nod and the tray slide carry the middle, and the first clean glass lands as the endpoint, ready to serve, without a pause for applause.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: They restore the chair and open the stall, keeping the work small and habitual.
-Performance: Bảy's question contains weary practical humour, Thành's response can stay in a look rather than extra dialogue.
+Blocking: Seaward table screen left, counter screen right. Bảy moves from the chair to behind the counter; Thành stays at the counter end, folder under his left arm, right hand on the tray. The counter mirror shows only the street.
+Performance: Bảy covers the fear of the last days with practical humour; he wants permission to go back to ordinary. Thành's reply stays in a shy look. No laughter beat, no curtain-call reaction, no retelling of the fight.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Sáng ngày thứ tám trời quang mây tạnh rồi chú Thành ơi, giờ tui căng lại tấm bạt xanh mở hàng bán cà phê cho bà con chợ cá lại được chưa?
-Thành (@Phó Thành), nói trong hình: Bán lại bình thường đi chú Bảy, băng kính của cháu tháo ra được rồi, thị trấn an toàn rồi.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Ông Bảy (@Ông Bảy), nói trong hình: Trời quang rồi chú Thành. Tui bán cà phê lại được hông?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +57,11 @@ Counter, chair and glass are the same worn everyday items, no new flowers or her
 [SOUND]
 Location bed: glasses touching and awning cloth in sea wind.
 Foreground sound: Chair feet on concrete and a glass placed normally create a lighter rhythm after the interview quiet.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Chair upright, first clean glass on the counter. Final physical lock: They restore the chair and open the stall, keeping the work small and habitual.
+Chair upright at the seaward table; the first clean glass standing on the counter beside the coffee tray; Bảy behind the counter, cloth in hand; Thành at the counter end, folder under his arm, half smiling; the awning cloth stirring in the wind.
 Next shot 56.3: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

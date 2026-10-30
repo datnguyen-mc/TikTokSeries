@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
@@ -10,39 +11,39 @@ Sơn carries his weathered dark-olive canvas travel backpack containing his fold
 
 [TIMELINE AND LOCATION]
 Scene 20/60, clip 6/6; shot 20.6. Story time: D4 afternoon.
-Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
-Present-day late afternoon, warm low sun across porch, dusk at coach stop.
+Hòn Sóng main street between inland crossroad and market: worn narrow asphalt, low tube houses with half-raised roll-up shutters, motorbikes parked on the pavement, fishing nets drying along the sea wall, coffee stall beside the sea wall. No readable signs.
+Present-day late afternoon: warm low sun from the west across the porch, cooling to dusk at the coach stop with soft sky fill only.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Close the act on an already-chosen journey, preserving the cost of leaving Thành responsible for home.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 20.5, ending with His hand ends the call rather than waiting for permission. Final physical lock: He states the condition, ends the call once and leaves the listening phone where it is.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 20.5, ending with Both phones lie apart on the porch table, Sơn's screen dark after the ended call, Mây's recorder under her lifted hand; Sơn straightened beside the table, hand withdrawn, breathing out; Mây watching him; wind moving across the porch boards.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Night coach approaching the town stop, both travelers waiting, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Framing: Use the wide stop view to relate travelers, coach door and Thành across the road without shifting into the vehicle.
+Dusk at the coach stop on the sea-wall side of the main street: the coach rolling in from the left; Mây and Sơn waiting several paces apart at the curb, her daypack on, his backpack on his left shoulder; Thành across the road, folder under his arm.
 
 [CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
+35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use the wide stop view to relate travelers, coach door and Thành across the road without shifting into the vehicle.
 Focus: Keep all positions readable at wide depth, with no new close-up farewell or invented passengers demanding attention.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): They board separately with their bags, watched by Thành from across the road, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Beat 2 (3.0–6.5s): Sơn and Mây board once with their own bags while Thành stays outside on the town side. Beat 3 (6.5–10.0s): Their departures are purposeful rather than romantic; Thành watches as someone receiving responsibility, not waving at a holiday trip, settling crisply into the end frame as coach door wear, packed bags and ordinary road dust connect the departure to the opening arrival without copying it.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the two board in succession, then stay on the closed door and the person remaining rather than adding another goodbye; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): The coach draws up to the curb and stops with a hiss of brakes, its door folding open in front of the two travelers. Beat 2 (3.0–6.5s): Mây climbs aboard first with her daypack; a few paces behind, Sơn waits until she is inside, then steps up with his backpack without looking back at the road. Beat 3 (6.5–10.0s): The door folds shut behind him and the engine note rises as the coach begins to roll, while across the road Thành stays on the town side, tucks the folder tighter under his arm and rests his hand on his radio handset, watching it go.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The arrival is quick, the two boardings follow one after the other without overlap, and the closing door hands the last seconds to Thành standing still while the engine climbs.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn and Mây board once with their own bags while Thành stays outside on the town side.
-Performance: Their departures are purposeful rather than romantic; Thành watches as someone receiving responsibility, not waving at a holiday trip.
+Blocking: The coach enters from screen left and stops at the sea-wall curb; Thành holds the far side of the road at screen right throughout. Mây boards first, Sơn second, each with their own bag; the coach pulls away toward screen right.
+Performance: Purposeful departures, not romantic ones: two people boarding to work. Thành watches like a man taking over responsibility, worried but steady, not like someone seeing friends off on holiday. No waving, no backward glances held for effect.
 
 
 [DIALOGUE]
-0.2–8.6s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice-over narration only; visible mouths remain at rest while physical action advances.
-Thành, lời dẫn ngoài hình: Chị Mây và ông Sơn tách làm hai lối lên chuyến xe đò chiều về thành phố, còn tôi ở lại giữ chặt đầu mối liên lạc tại Hòn Sóng.
+0.2–5.8s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+Thành, lời dẫn ngoài hình: Chị Mây lên trước, ông Sơn lên sau. Còn Hòn Sóng, tôi giữ tới khi hai người về.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -58,11 +59,11 @@ Coach door wear, packed bags and ordinary road dust connect the departure to the
 [SOUND]
 Location bed: distant motorcycles and muted market voices.
 Foreground sound: Engine and door sounds come from the same coach, ready to continue into the on-board scene without restarting.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the same departing coach engine into the on-board view. No second boarding or repeat door close.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the same departing coach engine into the on-board view. No second boarding or repeat door close.
 
 [END FRAME — natural motion continues]
-Coach door closing, Thành remaining in town, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Final physical lock: Sơn and Mây board once with their own bags while Thành stays outside on the town side.
+The coach door shut with Sơn and Mây aboard, the coach rolling away along the sea wall, engine rising; Thành alone across the road on the town side, folder under his left arm, right hand on his radio handset, watching it go in the dusk.
 Next shot 21.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

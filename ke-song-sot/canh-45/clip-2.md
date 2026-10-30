@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear, expressive Southern Vietnamese female voice.
@@ -10,39 +11,39 @@ Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck,
 [TIMELINE AND LOCATION]
 Scene 45/60, clip 2/6; shot 45.2. Story time: D7 night continuous.
 Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
-Night, steady warm van lamp and existing lighthouse work lights, no emergency strobe montage.
+Night: steady warm van lamp as low key inside, existing lighthouse work lights as cool top light on the stairs; no emergency strobe montage.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Hạ buying seconds through selective knowledge, with Kiên focused on the wrong problem.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 45.1, ending with Linh seated beside Sơn, lamp kept steady. Final physical lock: Linh steadies the head and observes the existing breathing, keeping his bag where it was established.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 45.1, ending with Linh sitting back on his heels at Sơn's right side, hands on his knees, eyes on Sơn's chest; Sơn on his back, eyes open and searching, breathing slower; medical bag beside Linh; warm lamp steady.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Hạ beside the stuck maintenance hatch, Kiên pulling at its wheel. Framing: Frame hatch wheel and both faces medium, Kiên's LEFT-hand weapon kept low and clear of her body.
+Head of the service stair under a dim work light: Hạ against the wall beside the rusted iron hatch; Kiên one step below her, right hand on her left upper arm, handgun low in his left hand, eyes on the hatch wheel.
 
 [CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame hatch wheel and both faces medium, Kiên's LEFT-hand weapon kept low and clear of her body.
 Focus: Keep their faces and the wheel relation readable, without shifting into a mechanical how-to insert.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Keeping the handgun low in his LEFT hand, Kiên briefly releases his RIGHT-hand grip on Hạ LEFT upper arm to work the hatch wheel, his body blocking the narrow stair retreat. Hạ gives only the next necessary instruction, buying time while her free RIGHT hand nears her hair clip. Beat 2 (3.0–6.5s): Kiên briefly releases his RIGHT grip to turn the wheel, LEFT-hand gun kept low, his body blocking her stair retreat. Beat 3 (6.5–10.0s): Her practical tone conceals calculation, Kiên resents needing instruction from the person he controls, settling crisply into the end frame as old hatch paint and white jacket sleeves show contact with the confined space, not new wounds.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Give only the next instruction, then wait for Kiên's effort; do not solve the whole hatch in this one shot; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Kiên steps up so his body fills the stair behind Hạ, lets go of her arm and wrenches at the rusted hatch wheel with his right hand, the handgun still low in his left; the wheel refuses to turn. Beat 2 (3.0–6.5s): Her back to the wall, Hạ gives him only the next step, telling him the lower catch has to go first, the way her father did it, her voice level and practical. Beat 3 (6.5–10.0s): Kiên orders her to stay against the wall and bends to the wheel, shoulder braced, right hand working its lower edge as the rust creaks; boxed in beside him, Hạ lets her free right hand drift up past her shoulder until her fingertips rest below the silver clip in her hair.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The failed wrench opens; the instruction and his clipped order trade in the middle; the long last beat lets his effort occupy him while her hand travels, the hatch still unsolved.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Kiên briefly releases his RIGHT grip to turn the wheel, LEFT-hand gun kept low, his body blocking her stair retreat.
-Performance: Her practical tone conceals calculation, Kiên resents needing instruction from the person he controls.
+Blocking: Hatch at the stair head; Hạ against the wall beside it, Kiên below and beside her, his body filling the stair. His RIGHT hand moves from Hạ's LEFT upper arm to the wheel; handgun LOW in his LEFT, aimed at the floor.
+Performance: Hạ's practical tone hides calculation; she offers exactly enough truth to keep him busy. Kiên resents taking instruction from the woman he controls and covers it with menace. No knowing glance at camera, no triumphant smirk.
 
 
 [DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Cửa nắp sắt này bị rỉ sét lâu năm rồi, ông phải xoay cái chốt ngang bên dưới trước như ba tôi từng làm thì mới đẩy nắp lên được.
-Kiên (@Vũ Kiên), nói trong hình: Đứng sát vào vách tường trong khi tao vặn cái bánh đà cửa sắt này!
+Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Hạ (@Ha), nói trong hình: Nắp rỉ rồi. Ông xoay chốt dưới trước, ba tôi hay làm vậy.
+Kiên (@Vũ Kiên), nói trong hình: Đứng sát vô tường. Đừng nhúc nhích.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +57,11 @@ Old hatch paint and white jacket sleeves show contact with the confined space, n
 [SOUND]
 Location bed: metal latch, careful footsteps and distant sea wind.
 Foreground sound: Wheel resistance and a brief metal creak punctuate her measured words, letting silence buy more time.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Kiên occupied with the wheel using RIGHT hand, LEFT-hand handgun low; Hạ boxed beside the hatch with her free RIGHT hand near the clip. Final physical lock: Kiên briefly releases his RIGHT grip to turn the wheel, LEFT-hand gun kept low, his body blocking her stair retreat.
+Kiên braced at the hatch, right hand working the lower edge of the rusted wheel, handgun low in his left, body blocking the stair; Hạ boxed against the wall beside him, free right hand raised near the silver clip in her hair, eyes on his hands.
 Next shot 45.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

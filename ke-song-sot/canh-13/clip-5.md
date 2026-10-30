@@ -1,5 +1,6 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
@@ -9,39 +10,39 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 13/60, clip 5/6; shot 13.5. Story time: D3 noon.
 Small town clinic, steel beds behind green curtains, locked sample cupboard, desk and sink away from patients.
-Present-day noon, clinic window light with neutral practicals, green curtains.
+Present-day noon: soft clinic window light from one side as key, neutral ceiling practicals as fill, green curtains tinting the shadows slightly.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let an off-screen slip of the nickname redirect Mây toward the person with the ledger.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 13.4, ending with Attacker looking away from the bag, Thành noting the reaction. Final physical lock: Mây shows the existing bag at the man's eyeline; Thành watches him turn away rather than pushing him upright.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 13.4, ending with The conscious attacker on the bed edge, face turned to the wall, mouth shut tight; Mây at the bed's foot with the sealed bag still raised near his eyeline; Thành at his shoulder, pen on the folder page, watching his profile; window light on the crumpled sheet.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-The conscious attacker off screen, Mây listening without interrupting. Framing: The close-up stays on Mây listening, folder held low enough that its closure is visible.
+Mây standing near the far bed, face turned toward the off-screen attacker, her thin investigation folder open and held low at her waist in both hands; lips closed, eyes steady.
 
 [CAMERA]
-85mm tight close-up at eye level, natural depth of field. Crisp facial micro-expressions and rapid vocal delivery, no orbit.
-One new coverage angle on the established side of the axis. Never cut internally.
+85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The close-up stays on Mây listening, folder held low enough that its closure is visible.
 Focus: Hold the existing close-up plane on her eyes and speaking-rest mouth, with no reaction insert of the suspect.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He lets slip Sơn's nickname, Mây closes the evidence folder. Beat 2 (3.0–6.5s): She hears the slip without interrupting and closes the existing folder only after the important words. Beat 3 (6.5–10.0s): Her face narrows into a decision, not a sudden gasp; she does not mouth the off-screen man's sentence, settling crisply into the end frame as plain folder paper and her sun-lined face remain unadorned under the clinic's ordinary light.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the voice finish first; her delayed closure makes the finding feel processed rather than announced by a cut; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.5s): Mây listens toward the bed without moving as the conscious man's weak voice comes from off frame; her eyes sharpen at the nickname, but she does not interrupt. Beat 2 (3.5–7.0s): She lets him finish, lips closed, her gaze drifting a fraction past him as Dũng's name and the order to take Bóng Ma alive sink in; a slow breath lifts her shoulders. Beat 3 (7.0–10.0s): Only then does she close the folder with one firm press and draw it flat against her chest, her face narrowing into a decision, eyes coming back to the man.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The off-screen voice owns the first half, a held listening breath follows, and the folder closure lands late as the decision, leaving her settled gaze to finish the clip.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: She hears the slip without interrupting and closes the existing folder only after the important words.
-Performance: Her face narrows into a decision, not a sudden gasp; she does not mouth the off-screen man's sentence.
+Blocking: Mây stands at the foot of the off-screen bed, body angled screen left toward the suspect. The folder starts low in both hands and ends flat against her chest. No one else enters the frame.
+Performance: She hides how much the slip matters, keeping her listening neutral so he keeps talking. Inside, suspicion of Sơn becomes a plan to find him. She never mouths his words. No gasp, no widened eyes.
 
 
 [DIALOGUE]
-0.2–8.1s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk off-screen speech; do not add a face or animate the listener speaking.
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
 The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.
-Người trong cảnh, ngoài khung hình: Thằng Bóng Ma lấy trộm cuốn sổ đen của đường dây, đại ca Dũng ra lệnh phải bắt sống nó đem về thành phố trước ngày tàu chạy.
+Người trong cảnh, ngoài khung hình: Thằng Bóng Ma cuỗm cuốn sổ đen. Đại ca Dũng biểu bắt sống, đem về thành phố trước ngày tàu chạy.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,11 +56,11 @@ Plain folder paper and her sun-lined face remain unadorned under the clinic's or
 [SOUND]
 Location bed: quiet ventilation and distant metal-tray sounds.
 Foreground sound: The suspect's off-screen voice is weak but intelligible, then a single folder closure settles the information.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Mây's closed folder resting against her chest. Final physical lock: She hears the slip without interrupting and closes the existing folder only after the important words.
+Mây with the closed folder pressed flat against her chest under both hands, eyes back on the off-screen man, face set and quiet; a strand of her white-streaked hair stirring in the ventilation draft.
 Next shot 13.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

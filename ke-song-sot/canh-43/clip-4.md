@@ -1,48 +1,49 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses arm bent, held by tape after rescue. Voice: quick, polite, alert Southern Vietnamese male voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
-Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip still pinned at the back of her hair. Kiên wears his tailored white suit and polished shoes, luxury gold wristwatch glinting on his left wrist. Thành wears his light-blue shirt and round glasses with right arm taped after the stall struggle, carrying his leather evidence folder and police radio handset.
+Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip still pinned at the back of her hair. Kiên wears his tailored white suit and polished shoes, luxury gold wristwatch glinting on his left wrist. Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape after the stall struggle, carrying his leather evidence folder and police radio handset.
 
 
 [TIMELINE AND LOCATION]
 Scene 43/60, clip 4/6; shot 43.4. Story time: D7 dusk.
-Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
-Early night, harbour floodlight now ON continuously, car lamps unchanged.
+Hòn Sóng concrete harbour apron: sea south with blue-painted wooden fishing boats moored along the edge, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
+Early night: harbour floodlight ON continuously as hard high key, car lamps unchanged, dark sea behind.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Give the audience a concrete route of escape at the moment Kiên exploits it.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 43.3, ending with Harbour lit steadily, Mây advancing along the safe line. Final physical lock: She switches the established floodlight once and advances along the safe line after it brightens.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 43.3, ending with Harbour lit steadily white; Mây a few paces along the safe line, left hand open at shoulder height, two officers spread behind her; Sơn slumped at the bollard across the apron, chest rising; both cars unmoved, engines idling.
+Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Thành on the roof, white car and service stair visible below. Framing: Use Thành's roof-side observation angle, white car below and the western service stair beyond.
+Thành crouched at the market roof edge, radio handset at his chest, evidence folder under his arm, looking down at the floodlit apron: the white car west, Kiên and Hạ beside its rear fender, his right hand on her left upper arm; the service stair dark beyond.
 
 [CAMERA]
-50mm responsive over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched and brisk.
-One new coverage angle on the established side of the axis. Never cut internally.
+50mm over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use Thành's roof-side observation angle, white car below and the western service stair beyond.
 Focus: Favor the route and paired movement below; do not pull focus into an unnecessary full face of Thành.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He spots Kiên using the car as cover to reach the uphill maintenance path. Beat 2 (3.0–6.5s): Kiên uses the car as cover while retaining Hạ; Thành stays at his observation post and transmits. Beat 3 (6.5–10.0s): Thành reports direction before emotion, recognizing a changing problem rather than merely shouting danger, settling crisply into the end frame as roof edge and car paint catch the new floodlight, service stair remains darker but legible.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the car briefly occlude the pair, then reveal where they reappear so the report resolves the geography; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–3.0s): Below the roof edge, Kiên ducks behind the white car's rear fender and drags Hạ down with him by her left upper arm, both slipping out of the floodlight into the car's shadow. Beat 2 (3.0–6.5s): The car body hides them; Thành leans out over the roof edge, glasses catching the floodlight, raises the handset to his mouth and starts reporting to Mây as his eyes track along the car toward the west. Beat 3 (6.5–10.0s): The pair reappear past the car's far end, Hạ dragging her steps as Kiên steers her toward the foot of the dark service stair; Thành finishes his report naming the route, his free hand pressing the folder flat against his chest.
+Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Action rhythm: The duck behind the car is quick; the occlusion holds tension while Thành starts talking; the reveal at the far end resolves the route exactly as his report completes.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Kiên uses the car as cover while retaining Hạ; Thành stays at his observation post and transmits.
-Performance: Thành reports direction before emotion, recognizing a changing problem rather than merely shouting danger.
+Blocking: Thành fixed at the roof edge above the apron. Below, Kiên and Hạ pass behind the white car from its rear fender to its far end, then head west for the service stair. Kiên's RIGHT hand keeps Hạ's LEFT upper arm throughout.
+Performance: Thành reads geography before emotion: concentration, a flicker of alarm when the pair vanish, then disciplined clarity. Kiên moves low and hurried; Hạ resists only through dragged steps. No shouting, no panicked arm waving.
 
 
 [DIALOGUE]
-0.2–8.6s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice through the established device; no caller body in this shot.
-Thành, qua thiết bị: Chị Mây chú ý hướng tây, tên Vũ Kiên đang lợi dụng thân xe trắng che khuất để lôi Hạ rút lên cầu thang lối kỹ thuật của hải đăng!
+One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
+Thành, qua thiết bị: Chị Mây, hướng tây! Kiên núp sau xe trắng, đang lôi Hạ lên cầu thang kỹ thuật.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,11 +57,11 @@ Roof edge and car paint catch the new floodlight, service stair remains darker b
 [SOUND]
 Location bed: boat ropes, small waves and engines only when visible.
 Foreground sound: Radio compression carries the short report over shoes moving behind the idling car.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Kiên and Hạ moving behind the white car toward the stair. Final physical lock: Kiên uses the car as cover while retaining Hạ; Thành stays at his observation post and transmits.
+Thành at the roof edge, handset at his mouth, folder pressed to his chest; below, Kiên and Hạ moving away from the white car's far end toward the foot of the service stair, his right hand on her left upper arm.
 Next shot 43.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

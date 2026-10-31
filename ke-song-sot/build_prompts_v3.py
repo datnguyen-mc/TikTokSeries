@@ -30,7 +30,17 @@ CAMERAS = {
 SHUTTER = {'H': 'Crisp 150-degree shutter for sharp action'}
 CLEAN_FRAME = ('Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, '
                'news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the '
-               'story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.')
+               'story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; '
+               'handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.')
+BODY_STANDARD = ('Body mechanics: to pick something up from low down a person bends at the knees and hips with a visible reach, closes the stated '
+                 'hand fully around it and lifts its real weight; objects never float, slide into a hand by themselves or pass through fingers; '
+                 'when no hand is named the free hand acts and every carried prop stays in its established hand; in a hand-over both hands stay '
+                 'visible until the receiver\'s fingers close; feet never slide; every hand keeps five natural fingers.')
+FACE_STANDARD = ('Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, '
+                 'jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, '
+                 'both eyes together on the stated eyeline, no dead stare, no rolling or crossed eyes, tears only when written; '
+                 'natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.')
+VOICE_LABELS = {'BROKER':'the unknown caller','RADIO':'the radio voice','EXTRA':'the background speaker','OFFICER':'the assisting officer'}
 # Words that invite the model to frame a shot as television news.
 BROADCAST_WORDS = re.compile(r'\b(TV|television|broadcast\w*|newscast|news|tivi|truyền hình|thời sự|bản tin|phóng viên|báo đài)\b', re.I)
 MAX_CLIP_SYLLABLES = 30  # FLOW_GUIDE: Omni rushes or truncates more speech than this in 10 s
@@ -51,6 +61,7 @@ GENERIC_VOICES = {
     'NARRATOR': 'Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman\'s voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.',
 }
 MAX_SYLLABLES_PER_SECOND = 4.5  # FLOW_GUIDE: faster speech gets rushed or cut by Omni
+NARRATOR_SYLLABLES_PER_SECOND = 3.8  # the locked narrator voice is unhurried
 LEAD_NAMES = r'(Sơn|Mây|Hạ|Bảy|Dũng|Kiên|Thành|Linh|Hai)'
 # The narrator introduces people; nobody announces their own name, and the narrator never says "I".
 SELF_INTRO = re.compile(rf'\b(tôi|tui|tao|em|con|mình)\s+(là|tên)\s+{LEAD_NAMES}\b|\btên (tôi|tui|tao|em|con) là\b', re.I)
@@ -104,6 +115,8 @@ def normalize(plan: dict) -> list[dict]:
 
 def validate(plan: dict, shots: list[dict]) -> None:
     errors = []
+    if not plan.get('narrator',{}).get('voice'):
+        errors.append('The narrator needs one locked voice description')
     if plan.get('schema_version') != 3 or plan.get('aspect_ratio') != '16:9':
         errors.append('Expected schema 3 and full-frame 16:9')
     if [s['number'] for s in plan['scenes']] != list(range(1, 61)):
@@ -202,6 +215,8 @@ def validate(plan: dict, shots: list[dict]) -> None:
                     errors.append(f"{c['id']}: dialogue windows overlap or run out of order")
                 if syllables(d['text']) / (at[1]-at[0]) > MAX_SYLLABLES_PER_SECOND:
                     errors.append(f"{c['id']}: line spoken faster than {MAX_SYLLABLES_PER_SECOND} syllables per second")
+                if d['speaker'] == 'NARRATOR' and syllables(d['text']) / (at[1]-at[0]) > NARRATOR_SYLLABLES_PER_SECOND + 1e-9:
+                    errors.append(f"{c['id']}: the locked narrator voice speaks at most {NARRATOR_SYLLABLES_PER_SECOND} syllables per second")
                 spoken_until = at[1]
             spoken = re.sub(r'\W+', ' ', d['text'].casefold()).strip()
             if spoken in seen_lines:
@@ -315,6 +330,43 @@ def dialogue_text(plan: dict, d: dict) -> str:
     return f"{start:.1f}–{end:.1f}s · {speaker}, {mode}: {d['text']}"
 
 
+def mouth_map(plan: dict, c: dict) -> str:
+    """Who may move their lips, and exactly when; every other mouth stays closed."""
+    parts = []
+    for d in c['dialogue']:
+        a, b = d['at']
+        if d['speaker'] == 'NARRATOR':
+            parts.append(f'{a:.1f}–{b:.1f}s the narrator, off screen: every mouth in frame stays closed')
+            continue
+        name = (plan['identities'][base_key(plan,d['speaker'])]['name'] if d['speaker'] in plan['looks']
+                else VOICE_LABELS[d['speaker']])
+        parts.append({
+            'on': f"{a:.1f}–{b:.1f}s only {name}'s lips move, shaping each Vietnamese syllable in sync with the voice, natural jaw and teeth, mouth closing as the line ends",
+            'vo': f"{a:.1f}–{b:.1f}s {name}'s inner voice-over: every mouth in frame stays closed, {name}'s too",
+            'off': f'{a:.1f}–{b:.1f}s {name} heard off screen: no visible mouth moves',
+            'device': f'{a:.1f}–{b:.1f}s {name} through the device: no visible mouth moves',
+        }[d['mode']])
+    if not parts:
+        return 'Mouth map: nobody speaks; every mouth in frame stays closed or relaxed.'
+    return 'Mouth map: ' + '; '.join(parts) + '. Outside these windows every mouth in frame is closed or relaxed and listeners never mouth along.'
+
+
+def spoken_line(plan: dict, d: dict) -> str:
+    """Prompt form of a turn for Omni: English label and locked voice, the Vietnamese words after the last colon."""
+    start, end = d['at']
+    if d['speaker'] == 'NARRATOR':
+        label = 'Narrator, off screen and not a character, in the locked narrator voice'
+    elif d['speaker'] in plan['looks']:
+        identity = plan['identities'][base_key(plan,d['speaker'])]
+        how = {'on':'says on screen','off':'speaks off screen','vo':'inner voice-over, mouth closed','device':'through the device'}[d['mode']]
+        label = f"{identity['name']} ({identity['tag']}) {how}, in the {identity['voice']}"
+    else:
+        label = {'BROKER':'Unknown caller through the phone','RADIO':'Radio voice through the handset',
+                 'EXTRA':'The background speaker named in the action','OFFICER':'The assisting officer'}[d['speaker']]
+        label += {'on':', on screen','off':', off screen','vo':', voice-over','device':''}[d['mode']]
+    return f"{start:.1f}–{end:.1f}s · {label}: {d['text']}"
+
+
 def first_appearances(plan: dict, shots: list[dict]) -> dict[str,str]:
     """Clip id where each lead identity is first visible; the narrator introduces them there."""
     first = {}
@@ -328,24 +380,19 @@ def voice_block(plan: dict, c: dict) -> str:
     if not c['dialogue']:
         return 'No speech, narration or improvised vocal filler. Play the action and location sound.'
     modes = {d['mode'] for d in c['dialogue']}
-    if modes == {'on'}:
-        rendering = 'Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.'
-    elif modes == {'vo'}:
-        rendering = 'Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.'
-    elif modes == {'off'}:
-        rendering = 'Off-screen speech at a natural pace; do not add a face or animate the listener speaking.'
-    elif modes == {'device'}:
-        rendering = 'Voice through the established device at a natural pace; no caller body in this shot.'
-    else:
-        rendering = 'Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).'
-    prefixes = [GENERIC_VOICES[d['speaker']] for d in c['dialogue'] if d['speaker'] in GENERIC_VOICES]
+    # Lip movement itself is spelled out per window in the mouth map of the BODY, MOUTH AND FACE block.
+    rendering = ' '.join(x for m, x in (('vo','Voice-overs stay dry and close.'),
+                                         ('off','Off-screen voices never add a face to the shot.'),
+                                         ('device',"Device voices never add the caller's body to the shot.")) if m in modes)
+    prefixes = [plan['narrator']['voice'] if d['speaker'] == 'NARRATOR' else GENERIC_VOICES[d['speaker']]
+                for d in c['dialogue'] if d['speaker'] in GENERIC_VOICES]
     prefix_block = ('\n'.join(dict.fromkeys(prefixes)) + '\n') if prefixes else ''
-    lines_block = '\n'.join(dialogue_text(plan, d) for d in c['dialogue'])
+    lines_block = '\n'.join(spoken_line(plan, d) for d in c['dialogue'])
     timing = ('Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural '
               'Southern Vietnamese pace with clear diction, while that beat\'s movement happens; lines never overlap '
               'and the picture never waits for speech.')
     return (
-        f"{timing} {rendering}\n"
+        f"{timing} {rendering}".rstrip() + "\n"
         f"{prefix_block}{lines_block}\n"
         f"Only words after the final colon are spoken. Never read names, tags or directions. No captions."
     )
@@ -359,7 +406,7 @@ def prop_detail(plan: dict, key: str, c: dict) -> str:
         else:  # unchanged in this shot: whatever the latest earlier cut left on the frame
             before=after=max((a for k,(_,a) in changes.items()
                               if tuple(map(int,k.split('.')))<(c['scene'],c['number'])),default=0)
-        return f'Same wooden doorframe. Exactly {before} tally marks at the start and {after} at the end of THIS shot. No other tally row.'
+        return f'Same wooden doorframe. Exactly {before} tally marks at the start and {after} at the end of THIS shot (simple parallel vertical knife grooves side by side, never a crossed five-bar gate bundle). No other tally row.'
     if key=='WATCH':
         detail='ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch.'
         if c['scene'] in (6,33):
@@ -383,24 +430,23 @@ def prop_detail(plan: dict, key: str, c: dict) -> str:
 
 def transition_text(c: dict, previous: dict|None) -> str:
     if previous is None:
-        return 'Film opening. Start directly at 0.0s with the vehicle already moving; no logo, title, recap, fade-in or slow pause.'
-    prefix = f"Previous editorial shot: {previous['id']}, ending with {previous['end_frame']}\n"
+        return 'Film opening. Begin directly at 0.0s inside the live coastal road setting with the vehicle already moving; no logo, title, recap, studio backdrop, or fade-in.'
     if c['transition']=='CONTINUE':
-        return prefix + 'Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.'
-    cut = {
-        'OPEN':'Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes from the first frame, action under way at 0.0s.',
-        'CUT':'Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.',
-        'MATCH':'Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action from 0.0s; no transformation, morph, dissolve or replay of the old shot.',
-        'J':'J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.',
-        'L':'L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.',
+        return "Use the previous clip's last frame as this clip's opening frame at 0.0s. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at 0.0s."
+    return {
+        'OPEN':'Begin directly at 0.0s in the stated time and place with the composition, lighting and movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.',
+        'CUT':'Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.',
+        'MATCH':'Begin directly at 0.0s in this new time and place with the related shape or pose already established in the opening frame; advance the action from 0.0s with no morph, dissolve, reference card flash, or replay of an earlier shot.',
+        'J':'Begin directly at 0.0s in this single location and camera setup with the location sound and movement already active from the very first frame; single-location take only, never show two locations or flash a reference card.',
+        'L':'Begin directly at 0.0s in this single location and camera setup while ambient sound settles naturally into the scene; single-location take only, never show two locations or flash a reference card.',
     }[c['transition']]
-    return prefix + cut
 
 
 def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None) -> str:
     continuous = c['transition']=='CONTINUE'
     if continuous:
-        head = f"Continue the scene seamlessly from the final frame of clip {previous['number']}. Same composition at the seam, new action immediately after the seam."
+        head = ("Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. "
+                "Same characters, same outfits, same location, same lighting direction and color grade. No time skip, no jump cut at the start; the new action begins immediately.")
     else:
         head = '[FORMAT]'
     location, sound = plan['locations'][c['location']]
@@ -414,11 +460,10 @@ def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None
         note += '\nTime ellipsis: ' + c['time_ellipsis'] + '.'
     end = c['end_frame']
     if following:
-        out = f"Next shot {following['id']}: {TRANSITIONS[following['transition']]}. Do not perform its action inside this clip."
+        out = 'Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.'
     else:
-        out = 'End the film on this living composition. Any title and final fade are added in the edit, never generated inside the image.'
+        out = 'End the film on this living composition in the same location through 10.0s. Any title and final fade are added in post-production, never generated inside the image, and never cut to a studio reference portrait.'
     scene_obj = plan['scenes'][c['scene']-1]
-    audio_bridge = scene_obj['outgoing_audio'] if c['number']==6 else ''
     if c['scene'] == 1 and c['number'] == 1:
         scene_intro = f"\n[FILM OPENING INTRODUCTION — Mở đầu phim: {scene_obj['title']}]\nGrand opening shot of the film: at dawn an intercity coach sweeps along the coast into Hòn Sóng and stops; two ordinary passengers get off through the passenger door, then Sơn steps down last. The narrator introduces him only after he has stepped down and stands on the road; no character speaks. The coach is already moving at 0.0s.\n"
     elif c['number'] == 1:
@@ -440,12 +485,13 @@ def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None
     else:
         camera_contract='One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.'
     shutter=SHUTTER.get(c['camera'],'Natural 180-degree shutter')
-    clip_avoid=f"; in this shot also avoid {c['avoid']}" if c.get('avoid') else ''
+    clip_avoid=f"\nIn this shot also do not show or do: {c['avoid']}." if c.get('avoid') else ''
     return f"""{head}
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 {CLEAN_FRAME}
 
 [CHARACTERS — approved identities and current appearances]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 {locks}
 {note.strip()}
 {picture_refs}
@@ -456,10 +502,10 @@ Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c[
 {c['lighting']}
 {scene_intro}{intent}
 
-[EDIT IN — do not render the previous shot again]
+[CONTINUITY AT 0.0s — single uncut shot]
 {transition_text(c,previous)}
 
-[START FRAME — state only, not an action to repeat]
+[OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
 {c['start_frame']}
 
 [CAMERA]
@@ -468,8 +514,13 @@ Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c[
 
 [ACTION — 0–10s, one evolving take]
 {c['action']}
-Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.{rhythm}
+Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue naturally through 10.0s.{rhythm}
 {staging}
+
+[BODY, MOUTH AND FACE STANDARD]
+{BODY_STANDARD}
+{mouth_map(plan,c)}
+{FACE_STANDARD}
 
 [DIALOGUE]
 {voice_block(plan,c)}
@@ -481,14 +532,14 @@ Reference only; enact only the current ACTION, not a future handover.
 
 [SOUND]
 Location bed: {sound}.{sound_specific}
-Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: {audio_bridge or 'Follow the stated incoming/outgoing edit without restarting the ambience.'}
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect; ambient sound continues naturally through 10.0s.
 
-[END FRAME — natural motion continues]
+[FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
 {end}
 {out}
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail{clip_avoid}.
+Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.{clip_avoid}
 """
 
 
@@ -611,8 +662,10 @@ def render_locks(plan: dict) -> str:
            '**Cách tạo:** clip ghi CONTINUE mở bằng `Continue…`, dùng frame cuối clip trước; mọi cú cắt khác mở bằng `[FORMAT]`, đính lại các reference có mặt. Shot chỉ có người nền, không chỉ định reference, dùng text-to-video. Qua ranh giới cảnh luôn là cú cắt biên tập rõ, phù hợp runner hiện tại. Không kéo một start frame qua đổi địa điểm/tuổi/trang phục.', '',
            '**Giọng ngoài hình:** chỉ khai báo giọng, không thêm người vào ảnh. Tag đứng ở trường người nói; không chèn tag hoặc thay tên bên trong câu được đọc.', '',
            '**Khung hình sạch, không logo đài truyền hình:** mọi prompt cấm logo đài hoặc kênh ở góc hình, watermark, chữ chạy tin tức, lower-third (dải tên), biểu tượng LIVE/REC, đồng hồ thời gian và mọi đồ họa trên hình. Màn hình máy tính, điện thoại trong truyện không hiện kênh, bản tin hay thương hiệu đài; biểu tượng hãng tàu chỉ là hình đơn giản không đọc được. Dữ liệu cảnh không dùng chữ TV/tin tức/truyền hình để model không dựng thành bản tin, và validator chặn các chữ này. Khi duyệt render, soi bốn góc khung: thấy logo hoặc chữ thì tạo lại clip đó.', '',
-           '**Người dẫn chuyện giới thiệu nhân vật:** khi một trong chín nhân vật chính lần đầu xuất hiện trên hình, người dẫn chuyện (một giọng trầm ấm miền Nam, khác mọi nhân vật) giới thiệu ngắn tên và vai trò, đúng nhịp nhân vật ra hình. Không giới thiệu lại khi đổi tuổi hoặc trang phục, không giới thiệu người không tên. Validator bắt buộc đủ chín lời giới thiệu và chặn người dẫn chuyện ở mọi clip khác. Nếu giọng dẫn lệch giữa các clip, lồng lại chín câu này bằng cùng một giọng khi dựng.', '',
-           '**Thoại đi cùng chuyển động:** mỗi câu có khung giây riêng trùng nhịp hành động đang diễn ra, không chồng nhau, tối đa 4,5 âm tiết mỗi giây. Đổi mốc nhịp trong ACTION thì sửa khung giây của câu tương ứng.', '',
+           f"**Giọng người dẫn chuyện (khóa cố định):** {plan['narrator']['voice_vi']} Bộ biên dịch in nguyên văn bản tiếng Anh của khóa này vào cả bảy clip giới thiệu. Nếu Flow cho tạo `@Voice`, lưu một giọng tên NguoiKe theo đúng mô tả trên và gắn cho cả bảy clip.", '',
+           '**Người dẫn chuyện giới thiệu nhân vật:** khi một trong chín nhân vật chính lần đầu xuất hiện trên hình, người dẫn chuyện (giọng đã khóa ở trên, không phải nhân vật) giới thiệu ngắn tên và vai trò ở ngôi thứ ba, đúng nhịp nhân vật ra hình. Không giới thiệu lại khi đổi tuổi hoặc trang phục, không giới thiệu người không tên. Validator bắt buộc đủ chín lời giới thiệu và chặn người dẫn chuyện ở mọi clip khác. Nếu giọng dẫn lệch giữa các clip, lồng lại chín câu này bằng cùng một giọng khi dựng.', '',
+           '**Chuẩn cơ thể, khẩu hình, mắt mũi (in vào mọi prompt):** cúi nhặt đồ thì khuỵu gối và hông, tay được ghi nắm trọn rồi nhấc có sức nặng; đồ không tự bay, không tự trượt vào tay, không xuyên qua ngón; câu không ghi tay thì dùng tay đang rảnh, đồ đang cầm giữ nguyên tay; trao đồ thì thấy đủ hai bàn tay tới khi người nhận nắm chắc; chân không trượt, mỗi bàn tay đủ năm ngón. Bản đồ miệng sinh tự động từ mốc giây của thoại: chỉ người đang nói trong khung giây của mình mới nhép môi theo đúng từng âm tiết, ngoài các khung đó mọi miệng khép; lời dẫn và người dẫn chuyện thì không ai nhép. Mặt khớp ảnh tham chiếu suốt cảnh, không nháy ảnh thẻ nền xám ở đầu hoặc cuối clip.', '',
+           '**Thoại đi cùng chuyển động:** mỗi câu có khung giây riêng trùng nhịp hành động đang diễn ra, không chồng nhau, tối đa 4,5 âm tiết mỗi giây và 30 âm tiết mỗi clip. Đổi mốc nhịp trong ACTION thì sửa khung giây của câu tương ứng.', '',
            '| Nhân vật | Handle | media_id đã có |', '|---|---|---|']
     for x in plan['identities'].values():lines.append(f"| {x['name']} | `{x['tag']}` | `{x['media_id']}` |")
     lines += ['', '## Biến thể dùng cùng danh tính', '',
@@ -662,6 +715,12 @@ def render_characters(plan: dict) -> str:
             if base==key:
                 lines += [f'- **{look}:** Photorealistic reference of the SAME approved Vietnamese identity, age {age}, {outfit}. Plain grey studio background, full body and portrait, no text, no real actor likeness.']
         lines.append('')
+    intros=[(c['id'],d['text']) for c in shots for d in c['dialogue'] if d['speaker']=='NARRATOR']
+    lines += [f"## {plan['narrator']['name_vi']} · giọng kể ngoài truyện", '',
+              f"Giọng khóa cố định: {plan['narrator']['voice_vi']}", '',
+              'Bảy câu giới thiệu, đọc ở ngôi thứ ba, mỗi câu ở clip đầu tiên nhân vật ra hình:']
+    lines += [f'- {cid}: {text}' for cid,text in intros]
+    lines += ['']
     lines += ['Các ảnh biến thể là chỉ dẫn cần kiểm tra trước render, không phải media_id mới đã được cấp. Dùng đúng chín danh tính trong FLOW_PROMPTS.md; không gắn một ảnh tuổi 45 vào shot tuổi 20 rồi trông chờ câu chữ tự giải quyết hoàn toàn.', '']
     return '\n'.join(lines)
 

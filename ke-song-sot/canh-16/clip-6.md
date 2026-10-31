@@ -1,8 +1,9 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
-Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt.
@@ -17,11 +18,10 @@ Present-day late afternoon at the sea cliff: fading sun from the west as warm si
 Close the visit with a concrete next investigative step, keeping the geography and key custody clear.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 16.5, ending with Backup-light lever pointing down at its stop, the stairwell dim again in fading daylight; Mây's hand lifting clear of the grip; Sơn's bare hand still on the rail beside the lever; fine dust drifting through the last of the light.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in this single location and camera setup while ambient sound settles naturally into the scene; single-location take only, never show two locations or flash a reference card.
 
-[START FRAME — state only, not an action to repeat]
+[OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
 Lighthouse base in fading daylight: Mây and Sơn just outside the open lower iron door after the descent, Mây facing the door with the key ring in her right hand, Sơn a pace behind her on the path toward town.
 
 [CAMERA]
@@ -32,7 +32,7 @@ Focus: Hold door, figures and path at readable depth, avoiding a second climb or
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–3.0s): Mây swings the iron door shut, turns the key in the lock and tests the handle with a short tug. Beat 2 (3.0–6.5s): She works the service key free of the ring and clips it to her belt within easy reach, telling Sơn she keeps the service key and that tonight he comes down to the station to open the data drive with Thành. Beat 3 (6.5–10.0s): Sơn answers with the hour and turns down the path toward town; Mây falls in a step behind him, both of them moving, the grass flattening around their boots in the wind.
-Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The lock is quick, the key and instruction share the middle, and his short answer turns straight into walking so the clip ends in motion toward the station.
 
 [BLOCKING AND PERFORMANCE]
@@ -40,10 +40,15 @@ Blocking: Door screen left, the path leading screen right toward town. Mây lock
 Performance: Mây's urgency is procedural rather than panic; she wants the next step concrete before night. Sơn accepts the instruction without another word about loss. No backward glance at the tower, no lingering.
 
 
+[BODY, MOUTH AND FACE STANDARD]
+Body mechanics: to pick something up from low down a person bends at the knees and hips with a visible reach, closes the stated hand fully around it and lifts its real weight; objects never float, slide into a hand by themselves or pass through fingers; when no hand is named the free hand acts and every carried prop stays in its established hand; in a hand-over both hands stay visible until the receiver's fingers close; feet never slide; every hand keeps five natural fingers.
+Mouth map: 3.0–7.3s only Mây's lips move, shaping each Vietnamese syllable in sync with the voice, natural jaw and teeth, mouth closing as the line ends; 7.4–9.5s only Sơn's lips move, shaping each Vietnamese syllable in sync with the voice, natural jaw and teeth, mouth closing as the line ends. Outside these windows every mouth in frame is closed or relaxed and listeners never mouth along.
+Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no dead stare, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
+
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-3.0–7.3s · Mây (@May), nói trong hình: Chìa cửa phụ tôi giữ. Tối nay anh xuống đồn, mở ổ dữ liệu với Thành.
-7.4–9.5s · Sơn (@Son), nói trong hình: Bảy giờ tối. Tôi có mặt.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+3.0–7.3s · Mây (@May) says on screen, in the firm, clear Southern Vietnamese female voice: Chìa cửa phụ tôi giữ. Tối nay anh xuống đồn, mở ổ dữ liệu với Thành.
+7.4–9.5s · Sơn (@Son) says on screen, in the low, crisp, clear Southern Vietnamese male voice: Bảy giờ tối. Tôi có mặt.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,11 +62,11 @@ The key's small metal shape contrasts with the old iron lock while daylight cont
 [SOUND]
 Location bed: wind through iron doorway and footsteps.
 Foreground sound: A final lock contact and footsteps can yield to the incoming station fan, with her instruction clean above them.
-Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: The clipped service key settles, incoming station fan introduces the USB desk. Do not replay the backup-lamp test.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect; ambient sound continues naturally through 10.0s.
 
-[END FRAME — natural motion continues]
+[FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
 Lower iron door locked behind them, the service key clipped at Mây's belt; Sơn walking down the path toward town, Mây a step behind him, both mid-stride; grass bending in the wind, the tower dark against the fading sky.
-Next shot 17.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
+Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

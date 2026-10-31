@@ -30,6 +30,7 @@ from cms_integration import (
     rewrite_prompt_on_failure,
     find_episode_clip_mp4s,
     force_rename_clip_on_flow,
+    trim_studio_reference_frames,
 )
 
 FLOWKIT_API = "http://127.0.0.1:8200"
@@ -344,9 +345,9 @@ def get_clip_reference_media_ids(prompt: str) -> list:
     import re as _re
     # V3 declares visible people and printed portraits separately from voice-only
     # speakers and the previous-shot handoff. Those names must not spawn bodies.
-    if "[CHARACTERS — approved identities and current appearances]" in prompt:
+    if "[CHARACTERS" in prompt:
         reference_sections = _re.findall(
-            r"^\[(?:CHARACTERS — approved identities and current appearances|PICTURE-ONLY REFERENCES)\]\s*\n(.*?)(?=^\[|\Z)",
+            r"^\[(?:CHARACTERS[^\]]*|PICTURE-ONLY REFERENCES)\]\s*\n(.*?)(?=^\[|\Z)",
             prompt,
             flags=_re.MULTILINE | _re.DOTALL,
         )
@@ -382,11 +383,6 @@ def get_clip_reference_media_ids(prompt: str) -> list:
                 if mid not in selected:
                     selected.append(mid)
                 break
-    if not selected:
-        for spec in CHARACTER_SPECS[:4]:
-            mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"])
-            if mid and mid not in selected:
-                selected.append(mid)
     return selected[:7]
 
 
@@ -534,6 +530,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                     if chunk:
                         f.write(chunk)
             os.replace(tmp_path, target_path)
+            trim_studio_reference_frames(target_path, log_fn=log)
             size_mb = os.path.getsize(target_path) / (1024 * 1024)
             r2_sync = sync_clip_to_r2_and_d1(
                 channel_slug=CHANNEL_SLUG,
@@ -590,6 +587,7 @@ def fetch_media_video_url(media_id: str) -> str:
 
 def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
     """Trích xuất khung hình cuối cùng của clip bằng ffmpeg làm start frame cho clip sau."""
+    trim_studio_reference_frames(video_source, log_fn=log)
     out_frame = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{clip_num:02d}_last.jpg")
     log(f"🎬 Dùng ffmpeg cắt khung hình cuối (Last Frame) của Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
     try:

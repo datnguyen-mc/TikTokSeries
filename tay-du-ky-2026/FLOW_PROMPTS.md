@@ -351,6 +351,8 @@ Height comparison lineup of four original 2D cartoon characters standing side by
 | 9 | Tên ở nhà | Tập ra mắt tên mới. La Sát kêu "Tôn Ngộ Không! Trư Bát Giới!" tới hụt hơi, quên luôn "Sa gì đó", nên đặt tên ở nhà cho cả bọn: Thầy (cả hẻm kêu vậy rồi), Heo Lười (vừa cãi "siêng lắm" đã ngáy), Đại Ca (lùn nhất nhà mà đòi làm anh lớn, biến khổng lồ rồi hắt xì teo bằng tách trà), Út Khờ (bự nhất mà là em út, kêu ai cũng "Dạ!"). Thầy: "Tên đổi... lòng không đổi." | — | 72 phép biến hóa (biến khổng lồ, teo nhỏ) | người bự nhất thành "Út", người lùn nhất thành "Đại Ca" |
 | 10 | Triều cường gõ cửa | ⚡ Triều cường TP.HCM đỉnh 26–28/10: 5 giờ rưỡi chiều nước tràn qua bậc cửa; Đại Ca đắp đê bằng gậy Như Ý, Út Khờ khiêng nguyên sofa (cả Heo Lười) kê lên gạch; nước lại trào lên từ cống, Heo Lười chỉ ổ điện sát đất; Thầy bình tĩnh cúp cầu dao; Út Khờ chặn cống bằng bao cát ("Hồi xưa sống dưới sông, quen rồi"); cả nhà ngồi chờ triều xuống dưới ánh đê vàng. | — | gậy Như Ý (đê vàng, thành đèn), Út Khờ khiêng đồ | nước vô từ cống chứ không phải từ cửa; Út Khờ "khờ" mà rành nước nhất |
 | 11 | Dự án ma | ⚡ Trend #duanma: Heo Lười hứa năm giờ sáng chạy mười cây số; Đại Ca dùng định thân pháp "giữ miệng giùm" khi Heo Lười lao vào nồi chè bắp; sáng hôm sau Heo Lười tắt báo thức ngủ tiếp, hóa ra Thầy và Út Khờ sáng nào cũng đi bộ nhanh ba chục phút; Heo Lười cầm ổ bánh mì đi vòng quanh bàn liền. Thầy: "Bắt đầu nhỏ... là bắt đầu thật." | — | định thân pháp | người chậm rãi nhất (Thầy) lại tập đều nhất; Heo Lười đi liền, không đợi mai |
+| 12 | Săn sale nửa đêm | Nửa đêm Heo Lười thức canh sale 1k bấm mỏi tay không kịp; Đại Ca biến ra 10 bàn tay vàng bấm siêu tốc; sáng ra nhận 50 thùng tăm bông vì đè nhầm nút nhân 50, còn Út Khờ mua đúng nồi cơm điện giảm giá thật từ chiều hôm qua. Thầy: "Thứ cần thì mua một... thứ ham rẻ thì ôm năm mươi." | — | 72 phép biến hóa (10 cánh tay) | bấm nhanh quá hóa mua lố; Út Khờ mua chậm mà trúng thứ cần |
+| 13 | Cúp điện giữa trưa | Giữa trưa Sài Gòn máy lạnh tắt phụt; Đại Ca xoay gậy Như Ý làm quạt số 10 thổi Heo Lười phồng tròn như bóng bay; La Sát bước vô báo nguyên con hẻm điện sáng trưng, hóa ra chỉ mỗi phòng bị nhảy cầu dao vì Heo Lười cắm nồi lẩu, ấm siêu tốc và lò nướng chung một ổ cắm; Út Khờ rút bớt phích cắm rồi bật lại cầu dao. Thầy: "Một ổ cắm gánh ba nồi... điện cũng biết mệt." | — | gậy Như Ý (xoay làm quạt gió) | tưởng cả hẻm cúp điện, hóa ra nhảy cầu dao phòng vì Heo Lười cắm 3 nồi chung 1 ổ |
 
 ---
 
@@ -364,3 +366,5 @@ Mỗi tập (từ Tập 9: 40–60s = 4–6 clip × 10s; Tập 1–8: 3 clip) l�
 | 9 | [tap-9/](tap-9/README.md) | Tên ở nhà | 60s · 6 clip |
 | 10 | [tap-10/](tap-10/README.md) | Triều cường gõ cửa | 50s · 5 clip |
 | 11 | [tap-11/](tap-11/README.md) | Dự án ma | 40s · 4 clip |
+| 12 | [tap-12/](tap-12/README.md) | Săn sale nửa đêm | 40s · 4 clip |
+| 13 | [tap-13/](tap-13/README.md) | Cúp điện giữa trưa | 60s · 6 clip |

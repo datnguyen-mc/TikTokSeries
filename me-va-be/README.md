@@ -18,3 +18,5 @@ Khóa nhân vật, bối cảnh, phong cách, ảnh tham chiếu và danh sách 
 | 1 · 4 ngày tuổi | Nhà mình có ba người | Nôi em bé | [tap-1](tap-1/README.md) |
 | 2 · 11 ngày tuổi | Cái rốn nhỏ | Tã dán sơ sinh có khoét rốn | [tap-2](tap-2/README.md) |
 | 3 · 18 ngày tuổi | Ba giờ sáng | Gối cho bú đôi | [tap-3](tap-3/README.md) |
+| 4 · 25 ngày tuổi | Lần tắm chậu đầu tiên | Chậu tắm sơ sinh có lưới đỡ | [tap-4](tap-4/README.md) |
+| 5 · 32 ngày tuổi | Đầy tháng của Gạo và Bông | Khăn sữa sợi tre / gạc cotton sơ sinh | [tap-5](tap-5/README.md) |

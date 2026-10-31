@@ -50,6 +50,7 @@
 | **Tập 4** | **Lạng Sơn** | Rời Bản Pác Ngòi Trong Sương (07:30) → Vịt Quay Mắc Mật Thất Khê (12:20) → Động Tam Thanh (15:30) → Nàng Tô Thị (16:10) → Hoàng Hôn & Trăng Mười Sáu Trên Cột Cờ Phai Vệ (17:15) → Phở Chua & Khâu Nhục Chợ Đêm Kỳ Lừa (19:15) → Sáng Ải Chi Lăng, Lên Đường Tuyên Quang (08:20 hôm sau) | 7 clips (70s) | [tap4-lang-son](tap4-lang-son/README.md) |
 | **Tập 5** | **Tuyên Quang** | Trên Đường Từ Ải Chi Lăng → Mưa Rào & Áo Mưa Bộ → Cây Đa Tân Trào → Bánh Gai Chiêm Hóa Gói Cặp → Bến Thượng Lâm & Hồ Na Hang → Thác Khuổi Nhi & Cá Suối → Cọc Vài Phạ → Cá Bỗng Sông Gâm Nướng Bản Nà Tông → Hoàng Hôn Hồ Na Hang | 9 clips (90s) | [tap5-tuyen-quang](tap5-tuyen-quang/README.md) |
 | **Tập 6** | **Lào Cai** | Rời Bản Nà Tông Theo QL279 → Phở Hồng Bắc Hà Gạo Đỏ Trộn Nước Chua → Dinh Hoàng A Tưởng (Pạc Kha) → Nhà Thờ Đá Sa Pa Trong Sương Chiều → Lẩu Cá Tầm Măng Chua Nhúng Cải Mèo → Săn Biển Mây Đỉnh Fansipan 3.143m (Hủa Xi Pan) → Vẽ Sáp Ong Trên Vải Lanh Bản Cát Cát → Cơm Lam Ống Tre & Thịt Nướng Mắc Khén → Hoàng Hôn Đèo Ô Quy Hồ | 9 clips (90s) | [tap6-lao-cai](tap6-lao-cai/README.md) |
+| **Tập 7** | **Yên Bái** | Cung Đèo QL32 → Săn Biển Mây Đỉnh Đèo Khau Phạ & Thung Lũng Cao Phạ → Giã Cốm Xanh Nếp Tan Tú Lệ Trong Cối Gỗ → Xôi Ngũ Sắc Nếp Tan Tú Lệ & Cá Suối Nướng Pa Pỉnh Tộp → Đồi Mâm Xôi La Pán Tẩn → Rừng Trúc Mù Cang Chải (Bản Nả Háng Tủa Chử) → Hoàng Hôn Đồi Móng Ngựa Sáng Nhù → Bữa Tối Thịt Lợn Bản Nướng Mắc Khén & Măng Vầu Cuộn Thịt → Sáng Sớm Rời Mù Cang Chải Đi Lai Châu | 9 clips (90s) | [tap7-yen-bai](tap7-yen-bai/README.md) |
 
 ---
 

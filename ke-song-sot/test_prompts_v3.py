@@ -131,8 +131,10 @@ class FilmContinuityTests(unittest.TestCase):
                                     self.shots[i+1] if i<359 else None)
             self.assertIn('In a single continuous shot',text,c['id'])
             for phrase in ('fast-paced','brisk scene pacing','rapid mouth','two rapid','Brisk voice',
-                           'briskly and decisively','Final physical lock'):
+                           'briskly and decisively','Final physical lock','[START FRAME','[END FRAME',
+                           '[EDIT IN','Next shot ','picture cut','through the seam','at the seam','Edit bridge:'):
                 self.assertNotIn(phrase,text,(c['id'],phrase))
+            self.assertIn('never flash or cut to an attached character reference portrait',text,c['id'])
             self.assertIn('150-degree' if c['camera']=='H' else '180-degree',text,c['id'])
             self.assertIn(film.CLEAN_FRAME,text,c['id'])
             self.assertIn('TV station or channel logos',text,c['id'])
@@ -152,6 +154,31 @@ class FilmContinuityTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'without a narrator introduction'):
             film.validate(self.plan,altered)
 
+    def test_body_mouth_and_face_standard_in_every_prompt(self):
+        for i,c in enumerate(self.shots):
+            text=film.render_prompt(self.plan,c,self.shots[i-1] if i else None,
+                                    self.shots[i+1] if i<359 else None)
+            self.assertIn(film.BODY_STANDARD,text,c['id'])
+            self.assertIn(film.FACE_STANDARD,text,c['id'])
+            mouths=text.split('Mouth map: ',1)[1].split('\n',1)[0]
+            for d in c['dialogue']:
+                self.assertIn(f"{d['at'][0]:.1f}–{d['at'][1]:.1f}s",mouths,c['id'])
+            for d in c['dialogue']:
+                if d['mode']=='on':
+                    name=self.plan['identities'][film.base_key(self.plan,d['speaker'])]['name'] if d['speaker'] in self.plan['looks'] else ''
+                    self.assertIn(f"only {name}" if name else "only ",mouths,c['id'])
+
+    def test_narrator_voice_is_locked_and_calm(self):
+        lock=self.plan['narrator']['voice']
+        for i,c in enumerate(self.shots):
+            text=film.render_prompt(self.plan,c,self.shots[i-1] if i else None,
+                                    self.shots[i+1] if i<359 else None)
+            narrated=[d for d in c['dialogue'] if d['speaker']=='NARRATOR']
+            self.assertEqual(lock in text,bool(narrated),c['id'])
+            for d in narrated:
+                start,stop=d['at']
+                self.assertLessEqual(film.syllables(d['text'])/(stop-start),film.NARRATOR_SYLLABLES_PER_SECOND+1e-9,c['id'])
+
     def test_each_line_is_timed_inside_the_take_with_its_beat(self):
         for i,c in enumerate(self.shots):
             text=film.render_prompt(self.plan,c,self.shots[i-1] if i else None,
@@ -160,7 +187,7 @@ class FilmContinuityTests(unittest.TestCase):
             for d in c['dialogue']:
                 start,stop=d['at']
                 self.assertGreaterEqual(start,end,c['id'])
-                self.assertLessEqual(film.syllables(d['text'])/(stop-start),film.MAX_SYLLABLES_PER_SECOND,c['id'])
+                self.assertLessEqual(film.syllables(d['text'])/(stop-start),film.MAX_SYLLABLES_PER_SECOND+1e-9,c['id'])
                 self.assertIn(f"{start:.1f}–{stop:.1f}s · ",text,c['id'])
                 end=stop
         altered=copy.deepcopy(self.shots)

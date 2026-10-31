@@ -1,8 +1,9 @@
-Continue the scene seamlessly from the final frame of clip 3. Same composition at the seam, new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot: ONE camera setup and ONE location; no internal cuts, montage, recap or closing fade.
-Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting direction and color grade. No time skip, no jump cut at the start; the new action begins immediately.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
@@ -19,11 +20,10 @@ Night gallery: the backup lamp already on, aimed seaward; faces lit by its safe 
 Make Sơn's moral choice visible without giving him implausible strength after Tê.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 51.3, ending with Kiên stumbling backward toward the sea rail, arms flung wide, heels a pace from its bottom bar; Sơn off balance at his side, right arm still out, bandaged left hand at his chest; handgun on the inner floor near the masonry wall, nobody holding it; Mây and Hạ in the doorway.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+[CONTINUITY AT 0.0s — single uncut shot]
+Use the previous clip's last frame as this clip's opening frame at 0.0s. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at 0.0s.
 
-[START FRAME — state only, not an action to repeat]
+[OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
 Kiên stumbling backward toward the sea rail, arms flung wide, heels a pace from its bottom bar; Sơn off balance at his side, right arm still out, bandaged left hand at his chest; handgun on the inner floor near the masonry wall, nobody holding it; Mây and Hạ in the doorway.
 
 [CAMERA]
@@ -34,18 +34,23 @@ Focus: Keep both feet inside the gallery and bodies below the point of a full ov
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–3.0s): Kiên's heel catches the bottom bar of the railing and his shoulders pitch back against the upper rail, both feet still on the gallery floor, eyes wide. Beat 2 (3.0–6.5s): Sơn's right hand closes on the front of the white jacket; he says he has him and to lean inward, Kiên clutches Sơn's sleeve and begs him not to let go, and Sơn sinks his weight toward the inner wall. Beat 3 (6.5–10.0s): Both men come down onto the inner floor, Kiên on his side, Sơn on one knee, chests heaving; the handgun lies on the same spot near the wall, beyond both their hands.
-Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
+Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The pitch against the rail lands first, the choice and the two short lines fill the middle, and the settle onto the floor happens one time, ending on heavy breathing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Same handheld framing as the seam: Kiên pitched against the sea rail at lower frame right, the dropped gun at the base of the inner wall further back at frame right, the doorway soft at frame left. Sơn hauls Kiên inward off the rail toward open floor at frame center, clear of the gun, which stays out of reach of both.
+Blocking: Same handheld framing from 0.0s: Kiên pitched against the sea rail at lower frame right, the dropped gun at the base of the inner wall further back at frame right, the doorway soft at frame left. Sơn hauls Kiên inward off the rail toward open floor at frame center, clear of the gun, which stays out of reach of both.
 Performance: Sơn decides to save the man who tried to own him before his face can show any feeling; he wants no one else to fall. Kiên's need breaks his polish for a moment. No heroic grunt, no one-arm hoist.
 
 
+[BODY, MOUTH AND FACE STANDARD]
+Body mechanics: to pick something up from low down a person bends at the knees and hips with a visible reach, closes the stated hand fully around it and lifts its real weight; objects never float, slide into a hand by themselves or pass through fingers; when no hand is named the free hand acts and every carried prop stays in its established hand; in a hand-over both hands stay visible until the receiver's fingers close; feet never slide; every hand keeps five natural fingers.
+Mouth map: 3.0–5.3s only Sơn's lips move, shaping each Vietnamese syllable in sync with the voice, natural jaw and teeth, mouth closing as the line ends; 5.4–7.2s only Kiên's lips move, shaping each Vietnamese syllable in sync with the voice, natural jaw and teeth, mouth closing as the line ends. Outside these windows every mouth in frame is closed or relaxed and listeners never mouth along.
+Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no dead stare, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
+
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-3.0–5.3s · Sơn (@Son), nói trong hình: Tôi giữ anh rồi. Ngả vào trong!
-5.4–7.2s · Kiên (@Vũ Kiên), nói trong hình: Đừng buông tôi ra, Sơn.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+3.0–5.3s · Sơn (@Son) says on screen, in the low, crisp, clear Southern Vietnamese male voice: Tôi giữ anh rồi. Ngả vào trong!
+5.4–7.2s · Kiên (@Vũ Kiên) says on screen, in the smooth Southern Vietnamese male voice becoming clipped under pressure: Đừng buông tôi ra, Sơn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -61,11 +66,11 @@ Gun remains on the same inner concrete spot, bandage stays LEFT and the rail nei
 [SOUND]
 Location bed: strong sea wind, fabric and restrained footsteps.
 Foreground sound: A fabric strain, rail contact and shared exhale carry the move, with no loud heroic impact.
-Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect; ambient sound continues naturally through 10.0s.
 
-[END FRAME — natural motion continues]
+[FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
 Both men on the inner gallery floor, feet away from the rail: Kiên on his side, right hand still gripping Sơn's sleeve; Sơn on one knee, right hand on the jacket front, breathing hard; handgun untouched on the same spot near the wall, no weapon in either hand.
-Next shot 51.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
+Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

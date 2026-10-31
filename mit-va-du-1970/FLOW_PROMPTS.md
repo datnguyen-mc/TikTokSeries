@@ -349,6 +349,7 @@ Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality
 | 15 | Cái răng đầu tiên | Răng cửa dưới của Nở lung lay; ba đòi cột chỉ vô cửa, má cản; răng rụng vô cục kẹo dừa; Nở ném răng lên mái lá, đọc "Chuột chuột chí chí…"; Nở huýt sáo qua chỗ sún, ba đủ răng mà huýt hổng ra; Đú: "Nhà mình giờ có cô Nở sún!" | **Tập vở, bút** |
 | 16 | Tát mương bắt cá | Ba má tát mương bằng gầu sòng; ba khoe tài úp nơm bắt cá lóc bự mà mò lên nguyên cục bùn, trượt chân ngã phịch xuống mương; cá lóc phóng lên bờ nhảy gọn vô rổ của "cô Nở sún"; chiều Nở vẽ tranh ba mặt lấm bùn, cả nhà ăn cá lóc nướng trui rơm trên tàu lá chuối | **Tập vở, hộp bút màu** |
 | 17 | Con heo đất ống tre | Ba làm heo tiết kiệm bằng đốt tre vàng óng tặng Nở; Nở trêu "heo ốm nhom giống ba"; ba khoét khe rộng nên xu rớt ngược ra ngoài, má cài nan tre sửa lại vừa khít; chiều Nở vẽ hoa trang trí ống tre để dành tiền mua áo mới cho má, ba góp thêm hai đồng tiền công | **Tập vở, hộp bút màu** |
+| 18 | Chèo xuồng bán dừa khô | Ba chất dừa khô lên xuồng ba lá đi chợ ghe, Nở đếm dừa trêu bụng ba; ba khoe tài chống sào mà sào cắm dính dưới bùn, xuồng trôi đi còn ba ôm cứng cây sào giữa kênh; má khua dầm đón ba; chiều bán hết dừa về ba tặng Nở xấp tập mới và quàng khăn rằn mới cho má | **Tập vở, bút** |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -377,3 +378,4 @@ Mỗi tập (từ Tập 13: 40–60s = 4–6 clip × 10s; Tập 1–12: 30s = 3 
 | 15 | [tap-15/](tap-15/README.md) | Cái răng đầu tiên |
 | 16 | [tap-16/](tap-16/README.md) | Tát mương bắt cá |
 | 17 | [tap-17/](tap-17/README.md) | Con heo đất ống tre |
+| 18 | [tap-18/](tap-18/README.md) | Chèo xuồng bán dừa khô |

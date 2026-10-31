@@ -8,7 +8,7 @@ Muốn đưa Hạ về, cần chịu trách nhiệm về việc mình đã làm.
 
 Nhận diện: Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose.
 Giọng xuyên phim: low, crisp, clear Southern Vietnamese male voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (01.1): Hắn là Sơn, bốn mươi lăm tuổi. Giang hồ gọi là Bóng Ma.
+Lời người dẫn chuyện khi xuất hiện lần đầu (01.1): Sơn, bốn lăm tuổi. Giang hồ gọi là Bóng Ma.
 
 Biến thể và prompt ảnh tham chiếu:
 - **SON:** Photorealistic reference of the SAME approved Vietnamese identity, age 45, cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -24,7 +24,7 @@ Muốn tìm bạn và giữ thị trấn. Kiểm chứng trước khi hợp tác
 
 Nhận diện: Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak.
 Giọng xuyên phim: firm, clear Southern Vietnamese female voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó của cô.
+Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó.
 
 Biến thể và prompt ảnh tham chiếu:
 - **MAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -52,7 +52,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 Nhận diện: Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist.
 Giọng xuyên phim: calm, authoritative Southern Vietnamese female voice with clear diction.
-Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Bà Hai, trùm đường dây Rắn Đen. Dũng, tay chân thân tín.
+Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Bà Hai, trùm Rắn Đen. Dũng, tay chân thân tín.
 
 Biến thể và prompt ảnh tham chiếu:
 - **HAINGOC:** Photorealistic reference of the SAME approved Vietnamese identity, age 60, silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -64,7 +64,7 @@ Muốn được Bà Hai công nhận. Ghen với Sơn, giữ người theo lện
 
 Nhận diện: Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear.
 Giọng xuyên phim: rough, direct Southern Vietnamese male voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Bà Hai, trùm đường dây Rắn Đen. Dũng, tay chân thân tín.
+Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Bà Hai, trùm Rắn Đen. Dũng, tay chân thân tín.
 
 Biến thể và prompt ảnh tham chiếu:
 - **DUNG:** Photorealistic reference of the SAME approved Vietnamese identity, age 35, black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -86,7 +86,7 @@ Từ người kiểm tra hồ sơ thành người bảo vệ tuyến dân và l�
 
 Nhận diện: Vietnamese man, skinny, round glasses, neat side-parted hair.
 Giọng xuyên phim: quick, polite, alert Southern Vietnamese male voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó của cô.
+Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó.
 
 Biến thể và prompt ảnh tham chiếu:
 - **THANH:** Photorealistic reference of the SAME approved Vietnamese identity, age 26, plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -108,10 +108,23 @@ Bảo vệ người lạ vì từng thấy hành vi tử tế. Giữ lối cho d
 
 Nhận diện: Vietnamese man, stocky, white moustache, deeply tanned face.
 Giọng xuyên phim: resonant, friendly elderly Southern Vietnamese male voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (01.2): Đây là ông Bảy, chủ quán cà phê đầu bờ kè.
+Lời người dẫn chuyện khi xuất hiện lần đầu (01.2): Ông Bảy, chủ quán cà phê đầu bờ kè.
 
 Biến thể và prompt ảnh tham chiếu:
 - **BAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 70, white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **BAY_O:** Photorealistic reference of the SAME approved Vietnamese identity, age 90, much older face and hands at age 90, same white moustache, white singlet, shorts, working steadily behind the coffee counter with a clean glass cloth. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+
+## Người dẫn chuyện · giọng kể ngoài truyện
+
+Giọng khóa cố định: Nữ khoảng năm mươi tuổi, giọng Nam Bộ (Sài Gòn); tông trầm ấm (alto), hơi khàn nhẹ; giọng kể điềm tĩnh, sâu lắng như người dẫn phim điện ảnh, không vui tươi, không kịch, không kiểu quảng cáo phim; nhịp chậm đều, khoảng ba rưỡi âm tiết mỗi giây, ngắt nhẹ ở mỗi dấu phẩy và dấu chấm; phát âm mềm và rõ; thu gần, khô, không vang phòng, không nhạc nền. Không phải nhân vật trong cảnh: mọi miệng trên hình khép, không ai nhép theo lời bà.
+
+Bảy câu giới thiệu, đọc ở ngôi thứ ba, mỗi câu ở clip đầu tiên nhân vật ra hình:
+- 01.1: Sơn, bốn lăm tuổi. Giang hồ gọi là Bóng Ma.
+- 01.2: Ông Bảy, chủ quán cà phê đầu bờ kè.
+- 02.1: Bà Hai, trùm Rắn Đen. Dũng, tay chân thân tín.
+- 03.2: Mây, công an Hòn Sóng. Thành, cấp phó.
+- 04.1: Người con gái ấy là Hạ, chủ tiệm hoa.
+- 13.1: Người giữ phòng khám Hòn Sóng, bác sĩ Linh.
+- 36.1: Vũ Kiên, kẻ muốn nuốt đường hàng của Bà Hai.
 
 Các ảnh biến thể là chỉ dẫn cần kiểm tra trước render, không phải media_id mới đã được cấp. Dùng đúng chín danh tính trong FLOW_PROMPTS.md; không gắn một ảnh tuổi 45 vào shot tuổi 20 rồi trông chờ câu chữ tự giải quyết hoàn toàn.

@@ -8,12 +8,12 @@
 
 | Series | Khóa nhân vật & ảnh tham chiếu | Các tập (1 tập/ngày) |
 | ------ | ------------------------------ | --------------------- |
-| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-15](mit-va-du-1970/tap-15/README.md) |
-| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-9](pheo-va-no-meo/tap-9/README.md) |
+| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-18](mit-va-du-1970/tap-18/README.md) |
+| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-12](pheo-va-no-meo/tap-12/README.md) |
 | Nhà Tèo & Sún | [FLOW_PROMPTS.md](teo-va-sun-cho/FLOW_PROMPTS.md) | [tap-1](teo-va-sun-cho/tap-1/README.md) → [tap-6](teo-va-sun-cho/tap-6/README.md) |
-| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-11](tay-du-ky-2026/tap-11/README.md) (tập 1–7 đã gỡ khỏi repo) |
-| 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap5-tuyen-quang](365ngayvietnam/tap5-tuyen-quang/README.md) |
-| Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-3](me-va-be/tap-3/README.md) |
+| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-13](tay-du-ky-2026/tap-13/README.md) (tập 1–7 đã gỡ khỏi repo) |
+| 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap7-yen-bai](365ngayvietnam/tap7-yen-bai/README.md) |
+| Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-5](me-va-be/tap-5/README.md) |
 | Biệt Đội Gara | [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md) | Phim 15 phút: [canh-01](biet-doi-gara/canh-01/README.md) → [canh-15](biet-doi-gara/canh-15/README.md), kịch bản tổng [KICH_BAN_PHIM.md](biet-doi-gara/KICH_BAN_PHIM.md) |
 | Kẻ Sống Sót: Bóng Ma | [FLOW_PROMPTS.md](ke-song-sot/FLOW_PROMPTS.md) | Phim 60 phút: [canh-01](ke-song-sot/canh-01/README.md) → [canh-60](ke-song-sot/canh-60/README.md), kịch bản tổng [KICH_BAN_60_PHUT.md](ke-song-sot/KICH_BAN_60_PHUT.md), phân tích phim gốc trong [README.md](ke-song-sot/README.md), hồ sơ nhân vật [NHAN_VAT.md](ke-song-sot/NHAN_VAT.md) |
 
@@ -74,7 +74,7 @@ Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo v
 | Tây Du Ký 2026 | `@Thay` · `@DaiCa` · `@HeoLuoi` · `@UtKho` | THẦY · ĐẠI CA · HEO LƯỜI · ÚT KHỜ |
 | Mẹ và Bé | `@Ngoc` · `@Gao` · `@Bong` | NGỌC · GẠO · BÔNG |
 | Biệt Đội Gara | `@Thang` · `@Lan` · `@Hai` · `@Khoi` · `@Minh` | THẮNG · LAN · HẢI · KHÔI · MINH |
-| Kẻ Sống Sót: Bóng Ma | `@Son` · `@May` · `@Ha` · `@HaiNgoc` | SƠN · MÂY · HẠ · BÀ HAI NGỌC |
+| Kẻ Sống Sót: Bóng Ma | `@Son` · `@May` · `@Ha` · `@HaiNgoc` · `@Dũng` · `@Vũ Kiên` · `@Phó Thành` · `@Bác sĩ Linh` · `@Ông Bảy`; người dẫn chuyện dùng `@Voice` tên NguoiKe nếu Flow cho tạo | Sơn · Mây · Hạ · Bà Hai · Dũng · Kiên · Thành · Bác sĩ Linh · Ông Bảy |
 
 Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo, Tây Du Ký, Mẹ và Bé và Biệt Đội Gara giữ tên gốc trong phần còn lại của prompt: "No" là từ tiếng Anh, viết "No walks in…" model dễ hiểu nhầm. Nếu nhân vật trên Flow được tạo từ ảnh bộ đồ thường ngày, ở các tập mặc đồ khác (Mit & Đú tập 3, 4 và cảnh mơ tập 10, Tèo & Sún tập 2, Tây Du Ký tập 3) thì đính thêm ảnh bộ đồ đó.
 

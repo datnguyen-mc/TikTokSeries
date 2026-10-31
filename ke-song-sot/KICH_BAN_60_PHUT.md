@@ -82,10 +82,10 @@ Sơn tới Hòn Sóng và tự đặt hạn chờ.
 **Clip 1 (01.1) · OPEN · CROSSROAD · E**
 - **Trang phục & Vật dụng mang theo:** Sơn mặc áo khoác vải màu ô liu bạc màu, đi giày cổ thấp sờn cũ, vai trái đeo ba lô vải bố màu ô liu sẫm (bên trong đựng sổ đen, USB, hộp thiếc thuốc Tê và hộp khóa kín), tay trái nắm chắc quai ba lô, túi áo phải cất đồng hồ quả quýt bạc đóng nắp.
 - **Mã đạo cụ khóa (Props):** `WATCH, BACKPACK`
-- **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–2.5s): Chiếc xe khách liên tỉnh cũ lăn bánh về phía trạm ngã ba, nhìn chéo từ phía trước bên lề đường, đèn pha còn rọi trong sương sớm, bánh xe tung cát mịn; qua kính chắn gió thấy tài xế ngồi bên trái cabin, hai tay giữ vô lăng lớn; tài xế phanh dừng hẳn ở ngã ba, phanh hơi xì dài, thân xe chúi rồi lắng xuống, bụi cuộn vào nắng. Nhịp 2 (2.5–6.5s): Tài xế bấm nút mở cửa trên táp-lô, cửa gấp dành cho hành khách ở hông phải, ngay sau bánh trước, xì hơi mở ra ngay; bà cụ đội nón lá xách túi nhựa đan bước xuống, thanh niên ôm thùng các-tông dán băng keo theo sát sau, cả hai đi dọc lề đường về bên trái khung; Sơn xuống cuối cùng, cũng qua cửa hành khách, tay phải vịn tay nắm cửa, tay trái giữ quai ba lô, tới 6.5s cả hai chân đã đứng trên mặt đường nhựa nứt. Nhịp 3 (6.5–10.0s): Đứng trên mặt đường, Sơn bước ra cách cửa một bước; lúc này người dẫn chuyện mới giới thiệu anh, trong khi anh hít một hơi kìm lại, quai hàm siết, ngước nhìn về phía thị trấn bên phải khung, nỗi tiếc nén dưới quyết tâm lạnh. Xe chạy bên phải đường nên ghế tài xế ở bên trái, cửa tài xế phía xa luôn đóng, không ai dùng; tài xế ngồi yên suốt cảnh. Máy 24mm trượt thấp dọc lề đường theo xe, giảm tốc theo xe và dừng ngang tầm mắt khi xe đỗ ở cuối nhịp 1. Không thoại nhân vật; người dẫn chuyện chỉ đọc tên sau khi Sơn đã xuống hẳn (6.8–9.8s).
+- **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–2.5s): Chiếc xe khách liên tỉnh cũ lăn bánh về phía trạm ngã ba, nhìn chéo từ phía trước bên lề đường, đèn pha còn rọi trong sương sớm, bánh xe tung cát mịn; qua kính chắn gió thấy tài xế ngồi bên trái cabin, hai tay giữ vô lăng lớn; tài xế phanh dừng hẳn ở ngã ba, phanh hơi xì dài, thân xe chúi rồi lắng xuống, bụi cuộn vào nắng. Nhịp 2 (2.5–6.5s): Tài xế bấm nút mở cửa trên táp-lô, cửa gấp dành cho hành khách ở hông phải, ngay sau bánh trước, xì hơi mở ra ngay; bà cụ đội nón lá xách túi nhựa đan bước xuống, thanh niên ôm thùng các-tông dán băng keo theo sát sau, cả hai đi dọc lề đường về bên trái khung; Sơn xuống cuối cùng, cũng qua cửa hành khách, tay phải vịn tay nắm cửa, tay trái giữ quai ba lô, tới 6.5s cả hai chân đã đứng trên mặt đường nhựa nứt. Nhịp 3 (6.5–10.0s): Đứng trên mặt đường, Sơn bước ra cách cửa một bước; lúc này người dẫn chuyện mới giới thiệu anh, trong khi anh hít một hơi kìm lại, quai hàm siết, ngước nhìn về phía thị trấn bên phải khung, nỗi tiếc nén dưới quyết tâm lạnh. Xe chạy bên phải đường nên ghế tài xế ở bên trái, cửa tài xế phía xa luôn đóng, không ai dùng; tài xế ngồi yên suốt cảnh. Máy 24mm trượt thấp dọc lề đường theo xe, giảm tốc theo xe và dừng ngang tầm mắt khi xe đỗ ở cuối nhịp 1. Không thoại nhân vật; người dẫn chuyện chỉ đọc tên sau khi Sơn đã xuống hẳn (6.7–9.6s).
 - **Đầu (Start Frame):** Dawn on the coastal road: an old intercity coach already rolling toward the crossroad stop, seen in three-quarter front view from the roadside on its right flank; the driver seated on the LEFT of the cab behind the wheel, visible through the windshield; a few passengers' heads behind the side windows; the folding passenger door near the front on the camera side still closed; Sơn inside, not yet visible.
 - **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–2.5s): The coach rolls toward the crossroad stop with its headlights still on in the dawn haze, tyres throwing fine sand, the driver seated on the left of the cab with both hands on the large wheel behind the windshield; the driver brakes to a firm stop at the crossroad, air brakes hissing, the body dipping and settling as dust rolls into the sunlight. Beat 2 (2.5–6.5s): The driver presses the door control on his dashboard and the folding passenger door on the right side, just behind the front wheel, hisses open at once; the elderly woman in a conical hat steps down with her woven plastic bag, the young man with the taped cardboard box close behind her, both walking off along the roadside toward screen left; Sơn steps down last from the same passenger door, right hand on the grab rail, left hand on his backpack strap, and by 6.5s both his boots are on the cracked asphalt. Beat 3 (6.5–10.0s): Standing on the road, Sơn moves one pace clear of the door; only now does the narrator introduce him, while he takes one controlled breath, jaw set, and lifts his eyes toward the town on screen right, regret held under cold resolve.
-- **Thoại (13 âm tiết):** 6.8–9.8s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Hắn là Sơn, bốn mươi lăm tuổi. Giang hồ gọi là Bóng Ma.
+- **Thoại (10 âm tiết):** 6.7–9.6s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Sơn, bốn lăm tuổi. Giang hồ gọi là Bóng Ma.
 - **Cuối (End Frame):** Sơn standing one pace clear of the open passenger door, backpack on his left shoulder, left hand on its strap, right hand free, eyes on the town to screen right; the two passengers small in the background at screen left; the driver still seated at the wheel on the left of the cab, engine idling, dust drifting through the low sun.
 
 - Ý đồ: Open with scale and momentum, then narrow to one ordinary-looking passenger who is not ordinary; grand, never a travel postcard.
@@ -103,7 +103,7 @@ Sơn tới Hòn Sóng và tự đặt hạn chờ.
 - **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–3.0s): Sơn đi đều bước sang phải dọc phố về phía quán ông Bảy, ba lô trên vai trái, mắt đọc con đường phía trước, trong lúc người dẫn chuyện giới thiệu ông Bảy; ông Bảy chất thêm thùng, chiếc thùng nhựa trên cùng rớt khỏi chồng và lăn ra phía lòng đường. Nhịp 2 (3.0–6.5s): Không chững bước, Sơn chặn thùng bằng tay phải, xách lên và đặt vào tay ông Bảy; ông Bảy cảm ơn rồi hỏi anh tìm ai. Nhịp 3 (6.5–10.0s): Sơn dừng cạnh quầy, tay phải buông xuống, tay trái vẫn giữ quai ba lô, trả lời ngắn và liếc nhanh ra đường; ông Bảy ôm thùng trước ngực, nheo mắt tò mò. Người dẫn chuyện giới thiệu ông Bảy ở nhịp 1, ông Bảy nói ở nhịp 2, Sơn đáp ở nhịp 3.
 - **Đầu (Start Frame):** Dawn on the main street by the sea wall: Sơn walking screen right toward Bảy's coffee stall, backpack on his left shoulder, left hand on its strap; Bảy at the stall edge stacking empty plastic crates, checkered cloth over his shoulder.
 - **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–3.0s): Sơn walks toward the stall at a steady pace, eyes on the road, while the narrator introduces Bảy; as Bảy stacks one more crate, the top crate tips off and rolls across the pavement toward the road. Beat 2 (3.0–6.5s): Without breaking stride Sơn steps into its path, stops it with his right hand and sets it into Bảy's hands; Bảy thanks him and asks who he is looking for. Beat 3 (6.5–10.0s): Sơn stops beside the counter, right hand back at his side, and gives a short answer without his name, eyes flicking to the road; Bảy hugs the crate, squint softening into curiosity, as the tracking move settles.
-- **Thoại (29 âm tiết):** 0.2–2.9s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Đây là ông Bảy, chủ quán cà phê đầu bờ kè. / 3.0–6.3s · Ông Bảy (@Ông Bảy), nói trong hình: Cảm ơn chú nghen. Mới xuống xe đò hả, kiếm ai vậy? / 6.5–8.6s · Sơn (@Son), nói trong hình: Tìm người quen gần bến cảng.
+- **Thoại (27 âm tiết):** 0.2–2.9s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Ông Bảy, chủ quán cà phê đầu bờ kè. / 3.0–6.3s · Ông Bảy (@Ông Bảy), nói trong hình: Cảm ơn chú nghen. Mới xuống xe đò hả, kiếm ai vậy? / 6.5–8.6s · Sơn (@Son), nói trong hình: Tìm người quen gần bến cảng.
 - **Cuối (End Frame):** Sơn standing beside the stall counter facing Bảy, backpack on his left shoulder, left hand on the strap, right hand at his side; Bảy holding the recovered crate against his chest, cloth on his shoulder; the road behind them, sea wind lifting the awning edge.
 
 - Ý đồ: Earn Bảy's later kindness through an ordinary helpful act, without making Sơn heroic.
@@ -149,7 +149,7 @@ Sơn tới Hòn Sóng và tự đặt hạn chờ.
 - Điểm nét: Maintain readable figures and the handover zone; do not cut to a separate key insert.
 - Chất liệu: Pine shadows cross the sand; the small metal key looks used rather than ceremonial.
 - Âm nổi: Retain their breathing under the pine wind; Bảy's dry joke should not invite a music cue.
-- Nhịp diễn: The climb uses its effort, the porch arrival gives Bảy his joke, and the key lands in the palm near the end, so the open hand is still live at the match cut.
+- Nhịp diễn: The climb uses its effort, the porch arrival gives Bảy his joke, and the key lands in the palm near the end, keeping the open hand alive through 10.0s.
 
 **Clip 5 (01.5) · MATCH · CABIN · I**
 - **Trang phục & Vật dụng mang theo:** Chiếc ba lô vải bố màu ô liu sẫm của Sơn đặt dưới sàn sát khung cửa ra vào, ngay cạnh chân anh.
@@ -204,7 +204,7 @@ Bà Hai giao việc cuối và Dũng lộ sự ghen tức.
 - **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–3.5s): Sơn đi từ cửa sau qua tiệm tới bàn gỗ tếch, bước đều, hai tay đeo găng buông lỏng, trong lúc người dẫn chuyện giới thiệu Bà Hai sau bàn và Dũng bên cửa sau; Bà Hai ngồi yên nhìn anh tới. Nhịp 2 (3.5–6.5s): Anh dừng ở mép bàn; sau lưng anh, Dũng khép cửa sau, chốt kêu khẽ, rồi đứng lì cạnh cửa; Bà Hai đưa chiếc tẩu chỉ ghế trống mời anh ngồi. Nhịp 3 (6.5–10.0s): Sơn liếc chiếc ghế rồi vẫn đứng, đặt bàn tay phải đeo găng nằm phẳng trên mép bàn thay vì ngồi, đáp vài chữ thật thấp; Bà Hai hạ tẩu, nụ cười điềm tĩnh không đổi; Dũng đứng im bên cửa. Người dẫn chuyện giới thiệu ở nhịp 1, Bà Hai nói ở nhịp 2, Sơn đáp ở nhịp 3.
 - **Đầu (Start Frame):** Night in the silk shop: silk curtain hanging beside the rear door; Bà Hai seated behind the teak desk under the warm lamp, unlit holder in her right fingers; Sơn in his black suit mid-stride from the rear door; Dũng just inside that open door, hand on its edge.
 - **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–3.5s): Sơn crosses the shop toward the teak desk with an even, controlled stride, gloved hands loose at his sides, while the narrator introduces Bà Hai behind the desk and Dũng at the rear door; Bà Hai watches him come without rising. Beat 2 (3.5–6.5s): He stops at the desk's near edge; behind him Dũng eases the rear door shut, the latch clicking softly, and stays planted beside it, while Bà Hai points the unlit holder at the empty chair and invites him to sit. Beat 3 (6.5–10.0s): Sơn glances at the chair and remains standing, laying his gloved right hand flat on the desk's near edge instead of sitting, answering in a few low words; Bà Hai lowers the holder, her composed half-smile unchanged, and Dũng stays motionless by the door.
-- **Thoại (29 âm tiết):** 0.2–3.4s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Bà Hai, trùm đường dây Rắn Đen. Dũng, tay chân thân tín. / 3.6–6.2s · Bà Hai (@HaiNgoc), nói trong hình: Nửa đêm con ghé. Ngồi đi, nói má nghe. / 6.6–9.0s · Sơn (@Son), nói trong hình: Con đứng được, má. Con nói không lâu.
+- **Thoại (27 âm tiết):** 0.2–3.4s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Bà Hai, trùm Rắn Đen. Dũng, tay chân thân tín. / 3.6–6.2s · Bà Hai (@HaiNgoc), nói trong hình: Nửa đêm con ghé. Ngồi đi, nói má nghe. / 6.6–9.0s · Sơn (@Son), nói trong hình: Con đứng được, má. Con nói không lâu.
 - **Cuối (End Frame):** Sơn standing at the near edge of the teak desk facing Bà Hai, gloved right hand lying flat and still on the desk edge, left hand at his side, the empty chair beside him; Bà Hai seated with the holder lowered, eyes on him; Dũng planted by the shut rear door, bag strap across his chest; lamp light warm on the silk.
 
 - Ý đồ: Introduce a household invitation whose geometry already limits Sơn's freedom to leave.
@@ -250,7 +250,7 @@ Bà Hai giao việc cuối và Dũng lộ sự ghen tức.
 - Điểm nét: Keep the ticket shape visible without readable print while his eyes remain the emotional center.
 - Chất liệu: The thin ticket lies exposed against heavy wood and dense folded silk nearby.
 - Âm nổi: A small paper tap should be heard before the sentence ends; keep room tone steady.
-- Nhịp diễn: A quick look at the photograph, a deliberate placement under the line, then a long held stillness that hands the silence to Bà Hai at the seam.
+- Nhịp diễn: A quick look at the photograph, a deliberate placement under the line, then a long held stillness that holds the silence on Bà Hai through 10.0s.
 
 **Clip 4 (02.4) · CONTINUE · SILK · M**
 - **Trang phục & Vật dụng mang theo:** Sơn (một tháng trước) mặc bộ vest đen lịch lãm, sơ mi trắng mở cổ, bao da đeo ẩn dưới nách áo, đi giày da đen và mang đôi găng tay da đen. Bà Hai mặc bộ áo bà ba lụa tím sẫm sang trọng, cổ tay TRÁI đeo vòng ngọc bích xanh bóng, các ngón tay phải cầm chiếc tẩu đen không châm lửa.
@@ -341,7 +341,7 @@ Mây chú ý cách Sơn chọn chỗ và quan sát đường.
 - **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–3.0s): Thành chạy xe chầm chậm dọc kè biển, người dẫn chuyện giới thiệu Mây và Thành; Mây ngồi sau, đội mũ bảo hiểm, quay đầu về phía quán cà phê đang lướt qua ngoài khung hình khi có điều gì lọt vào mắt. Nhịp 2 (3.0–6.5s): Mắt chị nheo lại, giữ yên một điểm trong lúc xe vẫn lăn; tay trái vỗ vai Thành hai cái, dặn ngắn sát mũ bảo hiểm cậu. Nhịp 3 (6.5–10.0s): Thành dạ một tiếng, tấp xe vào lề ngay qua khỏi quán, hai chân chống xuống; máy nổ êm, cả hai vẫn đội mũ, Mây vẫn ngoái nhìn về quán. Người dẫn chuyện giới thiệu ở nhịp 1, Mây nói ở nhịp 2, Thành đáp ở nhịp 3.
 - **Đầu (Start Frame):** Morning street along the sea wall: Thành riding a worn motorcycle slowly screen right, Mây seated behind him, both in helmets, her duty pouch across her body; the green awning of the coffee stall approaching on the near side.
 - **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–3.0s): Thành rides at low street speed along the sea wall while the narrator introduces Mây and Thành; behind him Mây turns her helmeted head toward the coffee stall sliding by off screen, something there catching her eye. Beat 2 (3.0–6.5s): Her eyes narrow and hold on that point while the motorcycle rolls on; she taps Thành's shoulder twice with her left hand and gives a short instruction close to his helmet. Beat 3 (6.5–10.0s): Thành answers and eases the motorcycle to the curb just past the stall, boots touching down; the engine idles, both helmets stay on, and Mây keeps looking back at the stall as the tracking move comes to rest.
-- **Thoại (28 âm tiết):** 0.2–2.9s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Mây, công an Hòn Sóng. Thành, cấp phó của cô. / 3.0–6.3s · Mây (@May), nói trong hình: Dừng sau quán chú Bảy. Người áo ô liu đang canh đường. / 6.5–8.2s · Thành (@Phó Thành), nói trong hình: Dạ, em tấp vô lề liền.
+- **Thoại (26 âm tiết):** 0.2–2.9s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Mây, công an Hòn Sóng. Thành, cấp phó. / 3.0–6.3s · Mây (@May), nói trong hình: Dừng sau quán chú Bảy. Người áo ô liu đang canh đường. / 6.5–8.2s · Thành (@Phó Thành), nói trong hình: Dạ, em tấp vô lề liền.
 - **Cuối (End Frame):** Motorcycle stopped at the curb just past the coffee stall, engine idling, Thành's boots on the road; Mây still seated behind him, head turned back toward the stall; both helmets on, the sea wall behind them.
 
 - Ý đồ: Introduce Mây through a precise observation rather than an instant supernatural diagnosis.
@@ -387,7 +387,7 @@ Mây chú ý cách Sơn chọn chỗ và quan sát đường.
 - Điểm nét: Keep both eyes readable at the existing depth, with no cut to a notebook insert.
 - Chất liệu: The still coffee surface contrasts with small tarp shadows moving across the table.
 - Âm nổi: His name should be clean and natural, followed by a single notebook rustle.
-- Nhịp diễn: The answer starts on the seam; eye contact arrives before it ends and is held; her dry remark and the opening notebook share the final seconds, with no hand replaying the bag move.
+- Nhịp diễn: The answer starts immediately at 0.0s; eye contact arrives before it ends and is held; her dry remark and the opening notebook share the final seconds, with no hand replaying the bag move.
 
 **Clip 5 (03.5) · L · STREET · O**
 - **Trang phục & Vật dụng mang theo:** Mây mặc áo sơ mi kaki xắn tay gọn gàng, đeo túi da chéo công tác bên hông, cầm sổ tay nghiệp vụ màu đen, bộ đàm và khóa còng số tám ở thắt lưng. Phó Thành mặc áo sơ mi xanh nhạt, đeo kính gọng tròn ngay ngắn, tay luôn kẹp bìa hồ sơ da, bút ghi biên bản và bộ đàm.
@@ -1452,8 +1452,8 @@ Sơn chống phục kích, cứu người sau khi thuốc gây bất động.
 - **Cuối (End Frame):** Second man on hands and knees in the sand right of the trunk, arms trembling, head sinking; the capped applicator lying out of his reach farther right; Sơn on one knee at left, one hand still pinning the first man's wrist, the other raised open; the first man seated against the trunk; all breathing hard.
 
 - Ý đồ: Escalate from a controlled restraint to an unpredictable second threat, not a display of effortless mastery.
-- Bố cục: Preserve the same handheld setup, axis and existing body positions at the seam as the second man enters.
-- Vị trí / chuyển động: Same axis as the previous shot: trunk center, Sơn screen left. The second man enters from behind Sơn on the left, is deflected and falls past to the right of the trunk; the applicator lands far right in the sand.
+- Bố cục: Preserve the same handheld setup, axis and existing body positions at 0.0s as the second man enters.
+- Vị trí / chuyển động: Same camera axis from 0.0s: trunk center, Sơn screen left. The second man enters from behind Sơn on the left, is deflected and falls past to the right of the trunk; the applicator lands far right in the sand.
 - Diễn xuất: Surprise lives in his breath and shoulders; he is not a master, only quick enough. The second man overcommits out of eagerness. No slow-motion dodge, no smug delivery of the line.
 - Điểm nét: Retain the preceding useful depth and whole-arm readability, without a new device-application close-up or rack.
 - Chất liệu: Loose sand and suitless field-jacket fabric carry the abrupt loss of balance through ordinary materials.
@@ -1928,7 +1928,7 @@ Mây tìm chứng cứ sống và kiểm tra lối kỹ thuật trước cao tr�
 - **Cuối (End Frame):** Mây holding Sơn's old phone in her closed hand between them at the rail, eyes on him; Sơn's hand just leaving it and lowering to the rail; both still facing each other; wind pressing their sleeves.
 
 - Ý đồ: Make Mây's refusal of an unsupported conclusion feel like an act of care grounded in evidence.
-- Bố cục: Retain the same medium camera, eyelines and depth at the continuation seam; do not reframe for an inspirational speech.
+- Bố cục: Retain the same medium camera, eyelines and depth from the opening frame at 0.0s; do not reframe for an inspirational speech.
 - Vị trí / chuyển động: Same rail positions. Mây's right palm opens at chest height between them; Sơn draws the phone from his inside jacket pocket with his right hand and places it in her palm.
 - Diễn xuất: Mây's firmness is care disguised as procedure: she will not let him bury Hạ without proof. Sơn's surrender of the phone accepts her method, a small hope he does not voice. No inspirational speech, no hand-holding.
 - Điểm nét: Keep both faces and the modest handover inside the established plane, without reading the phone screen.
@@ -2285,8 +2285,8 @@ Hai mảnh cùng một chiếc khăn khớp nhau và thúc đẩy chuyến đi.
 - **Cuối (End Frame):** The dark-blue denim jacket lies flat on the table beside Mây's packed black daypack; Mây stands over it in her khaki shirt, one palm still on the collar, eyes on Sơn; Sơn faces her across the table, nodding slightly, weight settling.
 
 - Ý đồ: Show Mây joining the risk by preparation, not by abandoning her responsibility or instantly changing clothes.
-- Bố cục: Maintain the exact preceding medium setup, focus and table positions through the continuation seam.
-- Vị trí / chuyển động: Same table positions held from the seam: Mây screen right with her pouch at the hip and the black daypack at the table's right end, Sơn screen left. The roster ends in her shirt pocket; the denim stays on the table.
+- Bố cục: Maintain the exact preceding medium setup, focus and table positions from the opening frame at 0.0s.
+- Vị trí / chuyển động: Same table positions held from 0.0s: Mây screen right with her pouch at the hip and the black daypack at the table's right end, Sơn screen left. The roster ends in her shirt pocket; the denim stays on the table.
 - Diễn xuất: Practical resolve: she has covered her duty first and states the trip as a decision, not a request. Sơn's guard drops a notch at being joined and shows only in his shoulders. No gratitude speech, no smile.
 - Điểm nét: Keep the same table-and-face plane, with the roster readable as confirmed work rather than legible official text.
 - Chất liệu: Denim joins khaki and plain paper as a planned change, not an unexplained costume transformation during the shot.
@@ -2374,7 +2374,7 @@ Người môi giới chứng minh biết Hạ và muốn Sơn phục vụ kế h
 - Điểm nét: Hold the current facial plane, avoiding a rack to Mây or an invented inset of the hair clip.
 - Chất liệu: Wind moves a lapel edge while his hands stay outside the device area, keeping vulnerability in the face.
 - Âm nổi: A short intake of breath precedes his line; the caller's channel remains present but does not overlap as a second sentence.
-- Nhịp diễn: Reaction and first words land together, the question follows in the same breath, and an audible unanswered wait holds from mid-clip into the seam; the lean is the only large movement.
+- Nhịp diễn: Reaction and first words land together, the question follows in the same breath, and an audible unanswered wait holds from mid-clip through 10.0s; the lean is the only large movement.
 
 **Clip 3 (20.3) · CONTINUE · PORCH · C**
 - **Trang phục & Vật dụng mang theo:** Sơn mang theo chiếc ba lô vải bố màu ô liu sẫm đựng bộ vest đen và đôi găng tay da cho chuyến xe đò đêm lên thành phố. Mây mặc áo khoác jean xanh sẫm ngoài áo thun xám, vai đeo ba lô nhỏ màu đen đựng túi niêm phong vật chứng, điện thoại ghi âm và hai chiếc còng số tám.
@@ -2386,8 +2386,8 @@ Người môi giới chứng minh biết Hạ và muốn Sơn phục vụ kế h
 - **Cuối (End Frame):** Sơn upright again, eyes fixed sideways on his backpack at the left end of the table, jaw set; Mây still at his right shoulder watching him; both phones untouched on the table, her recorder running; wind lifting the edge of his collar.
 
 - Ý đồ: Let the caller convert that hope into an assignment, making manipulation legible in the same held reaction.
-- Bố cục: Keep the exact close-up, camera position and focus from Sơn's question at the seam.
-- Vị trí / chuyển động: Unchanged from the seam: Sơn centre, Mây soft at screen right. His only movements are the head easing back and the eyes travelling screen left and down to the backpack; nobody touches a device.
+- Bố cục: Keep the exact close-up, camera position and focus from Sơn's question at 0.0s.
+- Vị trí / chuyển động: Unchanged from 0.0s: Sơn centre, Mây soft at screen right. His only movements are the head easing back and the eyes travelling screen left and down to the backpack; nobody touches a device.
 - Diễn xuất: Hope turns into wariness as he hears the steering: he still wants the voice to be true, yet his face closes against it. The look at the bag is calculation, not temptation. No shocked reaction, no headshake.
 - Điểm nét: Retain the previous face plane and peripheral device relationship, without a new safe image or ledger flashback.
 - Chất liệu: The same porch light and jacket texture remain unchanged, so the power shift comes from his listening.
@@ -2410,7 +2410,7 @@ Người môi giới chứng minh biết Hạ và muốn Sơn phục vụ kế h
 - Điểm nét: Keep her mouth and his hovering hand readable at one depth, without a new phone-screen close-up.
 - Chất liệu: Two ordinary devices and the bag retain their fixed positions, preventing props from becoming a visual shell game.
 - Âm nổi: Her words sit cleanly above the line's quiet room noise; no suspense pulse needs to announce good judgment.
-- Nhịp diễn: The warning fills the first two beats with no gap; the nod comes after her last word, and the hand's travel to the key is held for the seam with the decision not yet taken.
+- Nhịp diễn: The warning fills the first two beats with no gap; the nod comes after her last word, and the hand's travel to the key is held through 10.0s with the decision not yet taken.
 
 **Clip 5 (20.5) · CONTINUE · PORCH · M**
 - **Trang phục & Vật dụng mang theo:** Sơn mang theo chiếc ba lô vải bố màu ô liu sẫm đựng bộ vest đen và đôi găng tay da cho chuyến xe đò đêm lên thành phố. Mây mặc áo khoác jean xanh sẫm ngoài áo thun xám, vai đeo ba lô nhỏ màu đen đựng túi niêm phong vật chứng, điện thoại ghi âm và hai chiếc còng số tám.
@@ -2423,7 +2423,7 @@ Người môi giới chứng minh biết Hạ và muốn Sơn phục vụ kế h
 
 - Ý đồ: Let Sơn reclaim the terms by demanding evidence and ending contact himself.
 - Bố cục: Preserve the same medium setup and existing focus, phone positions and hand location from Mây's intervention.
-- Vị trí / chuyển động: Same two-shot from the seam, Sơn screen left, Mây screen right. His right hand makes one short trip down to the end-call key and back; neither phone is moved or picked up.
+- Vị trí / chuyển động: Same two-shot from 0.0s, Sơn screen left, Mây screen right. His right hand makes one short trip down to the end-call key and back; neither phone is moved or picked up.
 - Diễn xuất: The firmness costs him: he still wants the caller to be right, and ending the line feels like closing a door on Hạ. He does it anyway. No triumphant look, no slamming the phone, no glance for approval.
 - Điểm nét: Keep his mouth and final button action readable without a change of lens or a new speakerphone graphic.
 - Chất liệu: The phone remains an ordinary object after the line ends, not a glowing symbol under changed light.
@@ -2506,7 +2506,7 @@ Hai người vào thành phố với trạng thái trang phục rõ.
 
 - Ý đồ: Show that admitting dependency costs Sơn more than touching the old uniform.
 - Bố cục: Retain exactly the preceding medium composition, aisle width and seated eyelines.
-- Vị trí / chuyển động: Same seats from the seam, Sơn screen left, Mây screen right. The suit travels from his knees into the bag on the seat to his right; the closed bag then drops to the floor between his feet.
+- Vị trí / chuyển động: Same seats from 0.0s, Sơn screen left, Mây screen right. The suit travels from his knees into the bag on the seat to his right; the closed bag then drops to the floor between his feet.
 - Diễn xuất: Admitting dependence costs him more than touching the gloves did; he says it as an unwelcome fact he has only now let himself name. Her reply gives him a reason, not comfort. No distant flashback stare, no tears, no hand-holding.
 - Điểm nét: Keep attention on his face while her listening remains visible at the same depth.
 - Chất liệu: The bag's worn corners settle against his shoes, underlining years of carrying this life.
@@ -2679,7 +2679,7 @@ Lấy khóa số và sổ đỏ, Bà Hai chủ động giữ họ lại.
 
 - Ý đồ: Make Sơn refuse her comfortable family arrangement through the chair he does not occupy.
 - Bố cục: Preserve the preceding medium lens, desk relation and three-person depth exactly.
-- Vị trí / chuyển động: Same lens and depth from the seam: the chair swings a short arc toward screen left and the exit, and Sơn steps behind it, never into it. Mây keeps her place by the exit and ignores the spare seat.
+- Vị trí / chuyển động: Same lens and depth from 0.0s: the chair swings a short arc toward screen left and the exit, and Sơn steps behind it, never into it. Mây keeps her place by the exit and ignores the spare seat.
 - Diễn xuất: The chair suggests he might accept her family arrangement; his question strips the courtesy away, and Bà Hai lets the empty seat do her rebuking. No slammed chair, no shout, no leaning over the desk.
 - Điểm nét: Keep his face and the unused cup visible; do not cut to isolated furniture.
 - Chất liệu: Chair feet catch lightly on the shop floor, three tea surfaces remain undisturbed.
@@ -2744,7 +2744,7 @@ Bà Hai bán Hạ, Mây chọn bảo vệ bằng chứng thay vì nghe thêm.
 
 - Ý đồ: Let the sale admission wound him while revealing that she still considers herself reasonable.
 - Bố cục: Keep the exact close composition from the preceding shot, using her voice without forcing another angle.
-- Vị trí / chuyển động: Unchanged from the seam: Sơn centre, the cup and Bà Hai's bracelet hand soft at screen right. Only the cup completes its descent to the saucer; Sơn does not move his feet or hands.
+- Vị trí / chuyển động: Unchanged from 0.0s: Sơn centre, the cup and Bà Hai's bracelet hand soft at screen right. Only the cup completes its descent to the saucer; Sơn does not move his feet or hands.
 - Diễn xuất: The sale lands as a wound he will not perform; it shows first as nothing, then as lost eye contact. She speaks as someone who believes she was reasonable. No tears, no flinch, no shaking voice from him.
 - Điểm nét: Attention remains on the listener's face; her fixed bracelet stays only where the setup already permits.
 - Chất liệu: Porcelain touches saucer once, a small domestic sound against the cruelty of the sentence.
@@ -2899,7 +2899,7 @@ Dũng bị chặn, Mây dùng chiếc còng thứ hai và rút lui.
 
 - Ý đồ: Pay off Mây's second cuff with a rescue decision instead of a victory flourish.
 - Bố cục: Retain the exact handheld setup, axis and figure positions established by the preceding struggle.
-- Vị trí / chuyển động: Same axis from the seam: rail and pillar at screen left with Dũng anchored there, Mây and Sơn moving off toward screen right and the door. The cuff joins Dũng's RIGHT wrist to the rail; Sơn's injured LEFT wrist stays against his chest.
+- Vị trí / chuyển động: Same axis from 0.0s: rail and pillar at screen left with Dũng anchored there, Mây and Sơn moving off toward screen right and the door. The cuff joins Dũng's RIGHT wrist to the rail; Sơn's injured LEFT wrist stays against his chest.
 - Diễn xuất: Her line is breathless accounting, not a punchline, and her care for Sơn is immediate and unsentimental. Dũng understands the restraint before his anger rises. No victory smirk, no kicking, no lingering over the cuff.
 - Điểm nét: Keep wrist, anchored rail and Mây's helping hand visible in one readable depth.
 - Chất liệu: Intact steel rail should not flex theatrically; the cuff chain becomes a precise boundary.
@@ -3136,7 +3136,7 @@ Lấy bằng chứng hiện trường và thoát bằng đường đã khảo s�
 - **Cuối (End Frame):** Both aboard the workboat drifting off the dock: Mây seated low mid-boat, hands on the gunwales, daypack on her shoulders; Sơn in the stern by the outboard, loose mooring rope coiled at his feet clear of the propeller; the lashed gate behind them.
 
 - Ý đồ: Transfer danger from the blocked dock into a moving shared escape.
-- Bố cục: Preserve exactly the preceding wide setup, gate position and boat relation at the seam.
+- Bố cục: Preserve exactly the preceding wide setup, gate position and boat relation at 0.0s.
 - Vị trí / chuyển động: Same wide setup: lashed gate at screen left, dock edge centre, workboat at screen right with its stern toward the river. Mây boards mid-boat, Sơn last into the stern; only his right hand works the gunwale and the line.
 - Diễn xuất: Cautious coordination: Sơn's terse instructions cover the fear that his weak wrist could tip them, and Mây moves exactly as told. Breath held through the weight shift, released after. No stunt leap, no backward glance at the gate.
 - Điểm nét: Keep boarding feet and the line visible, avoiding a cut to separate hands or engine controls.
@@ -3320,7 +3320,7 @@ Sơn chọn bỏ vũ khí hiện tại sau khi nhớ lần đầu gây hại.
 - **Cuối (End Frame):** Empty corridor under the amber bulb, the wooden door closed, doormat slightly askew where he stood; rain running down the stairwell window; a thin line of warm light under the door, no movement inside.
 
 - Ý đồ: Leave the irreversible act outside the image while showing that he chooses to enter.
-- Bố cục: Preserve the exact wide frame, corridor depth and hand position from the preceding seam.
+- Bố cục: Preserve the exact wide frame, corridor depth and hand position from the opening frame at 0.0s.
 - Vị trí / chuyển động: Same wide frame: door at centre right, stairwell window at screen left. Young Sơn enters straight ahead through the inward-opening door; whoever opens it stays hidden behind it. The view never crosses the threshold.
 - Diễn xuất: The last hesitation ends in motion, not expression: a lowered head, a shoulder that commits. Underneath is a young man choosing obedience over conscience and knowing it. No theatrical change of face, no look back.
 - Điểm nét: Hold the doorway as the sole focus of the action; no internal insert or shadow violence.
@@ -5462,12 +5462,12 @@ Mây khống chế Dũng bằng còng mới, Sơn trở lại từng chút.
 - **Cuối (End Frame):** Mây and the officer side by side, a stride apart, in front of the van's open rear door, hands raised and ready; Dũng facing them in the lane, feet shifting, bag at his chest, cut ring on his right wrist; the cart pushed against the market wall at the side.
 
 - Ý đồ: Show Mây accepting support rather than insisting on a solitary victory.
-- Bố cục: Continue the exact handheld setup and focal range from the cart obstruction, no new angle at the seam.
+- Bố cục: Continue the exact handheld setup and focal range from the cart obstruction, no new angle at 0.0s.
 - Vị trí / chuyển động: Lane geometry unchanged. The cart goes from Dũng's path to the market wall. Mây backs off sideways, staying between Dũng and the van; the officer enters from the harbour end and stops at her side, covering Dũng's LEFT.
 - Diễn xuất: Mây accepts help without ego, one quick glance confirming the officer's position. Dũng's anger meets arithmetic: two bodies now, not one, and he knows it. No victory smile, no snarling standoff.
 - Điểm nét: Do not reset focus to a new face; let the existing medium-wide hold cart, steps and officer arrival.
 - Chất liệu: The moved cart stays at the side reached by the shove, no reset to its prior diagonal position.
-- Âm nổi: Wheels scrape continuously through the seam, followed by controlled boots, no new score beat.
+- Âm nổi: Wheels scrape continuously through 10.0s, followed by controlled boots, no new score beat.
 - Nhịp diễn: The shove continues straight from the previous stop; Mây's call comes as she gives ground; the boundary forms in the final beat and the shot ends before any hands go on.
 
 **Clip 3 (46.3) · CONTINUE · VAN_REAR · H**
@@ -5582,7 +5582,7 @@ Sơn chấp nhận đi cùng Mây trong vai trò hỗ trợ, không tự lao đi
 
 - Ý đồ: Make Sơn contribute knowledge while accepting that someone else controls the rescue.
 - Bố cục: Continue the exact medium van composition, with Mây and Linh remaining where the preceding shot left them.
-- Vị trí / chuyển động: Positions hold from the previous shot: Sơn on the mattress edge, Linh at his side, Mây kneeling in the doorway. Only Mây's hands travel, notebook and pen from pouch to knee. Sơn's LEFT wrist rests on his thigh.
+- Vị trí / chuyển động: Positions hold from 0.0s: Sơn on the mattress edge, Linh at his side, Mây kneeling in the doorway. Only Mây's hands travel, notebook and pen from pouch to knee. Sơn's LEFT wrist rests on his thigh.
 - Diễn xuất: Sơn offers precise knowledge with effort, contributing rather than demanding control. Mây receives it as data; their shared memory of the lever passes unspoken. No romantic reminiscing, no imagined voice of Hạ.
 - Điểm nét: Keep the exchange and Mây's sketching hand readable without resetting the lens or inserting a map close-up.
 - Chất liệu: Notepad remains the existing one, watch stays CLOSED and his LEFT wrist does not suddenly support his weight.
@@ -5599,13 +5599,13 @@ Sơn chấp nhận đi cùng Mây trong vai trò hỗ trợ, không tự lao đi
 - **Cuối (End Frame):** Mây kneeling in the rear doorway, notebook closed in her pouch, handset clipped; Sơn seated on the mattress edge facing her, right fist around the watch; Linh at his side, hand at his elbow.
 
 - Ý đồ: Move leadership to Mây without making Sơn passive or repeating the whole tactical plan.
-- Bố cục: Stay in the same medium setup and focal range across the continuous seam.
-- Vị trí / chuyển động: Positions unchanged across the seam. Mây stays kneeling in the doorway; the handset goes to her ear and back, the notebook closes into her pouch. Linh keeps contact at Sơn's side, moving to his elbow.
+- Bố cục: Stay in the same medium setup and focal range from the opening frame at 0.0s.
+- Vị trí / chuyển động: Positions unchanged from 0.0s through 10.0s. Mây stays kneeling in the doorway; the handset goes to her ear and back, the notebook closes into her pouch. Linh keeps contact at Sơn's side, moving to his elbow.
 - Diễn xuất: Mây's firmness is protective and professional, the decision made before she speaks. Sơn's acceptance costs him pride; it shows in a held breath and lowered shoulders, not argument. No defiance, no grateful smile.
 - Điểm nét: Keep the listening faces in the established plane, no focus reset toward an invented radio display.
 - Chất liệu: Notebook returns to her same pouch, lamp direction and Linh's supporting position remain unchanged.
 - Âm nổi: A brief radio-squelch click motivates the received update beneath the established instruction, without adding another spoken line.
-- Nhịp diễn: The squelch and listening open the shot; the decision lands in the middle; his assent and the notebook closing end it cleanly, leaving the step down for the next shot.
+- Nhịp diễn: The squelch and listening open the shot; the decision lands in the middle; his assent and the notebook closing end it cleanly, holding the stillness through 10.0s.
 
 **Clip 4 (47.4) · L · VAN_REAR · W**
 - **Trang phục & Vật dụng mang theo:** Sơn mặc bộ vest đen sơ mi trắng mở cổ, cổ tay TRÁI quấn băng trắng y tế, bàn tay phải lành lặn để trần; chiếc ba lô vải bố đã cất lại tại chòi gỗ từ cảnh 35.4. Mây mặc áo sơ mi kaki xắn tay gọn gàng, đeo túi da chéo công tác bên hông, cầm sổ tay nghiệp vụ màu đen, bộ đàm và khóa còng số tám ở thắt lưng. Bác sĩ Linh khoác áo blouse trắng sờn vai, cổ đeo ống nghe y tế, tay xách túi cấp cứu vải bố có sẵn bình trợ thở.
@@ -5640,7 +5640,7 @@ Sơn chấp nhận đi cùng Mây trong vai trò hỗ trợ, không tự lao đi
 - Diễn xuất: He moves cautiously and a little stiffly, pride kept quiet; she checks readiness as a partner, not a nurse. Small competence matters here. No fussing over him, no impatient glances at the road.
 - Điểm nét: Keep hands and helmet fastenings naturally within the medium frame; do not insert riding instructions.
 - Chất liệu: Black suit and LEFT bandage remain visible, olive jacket does not reappear and no second watch is introduced.
-- Âm nổi: Helmet straps and fabric are quiet foreground sounds; engine remains OFF until the next shot.
+- Âm nổi: Helmet straps and fabric are quiet foreground sounds; engine remains OFF throughout this entire 10-second shot.
 - Nhịp diễn: Pocketing the watch is quick; the helmets take the middle with audible straps; mounting fills the last beat and ends seated and ready, the engine still silent.
 
 **Clip 6 (47.6) · CUT · MOTORBIKE · W**
@@ -5706,7 +5706,7 @@ Hai tổ tiến tới, Hạ giữ lối phụ hé, Sơn không tự đi một m�
 - Điểm nét: Keep feet, helmets and doorway within one readable setup so nothing vanishes between the two actions.
 - Chất liệu: Same motorcycle stays outside, helmets remain together on its seat, no new vehicle or weapon appears.
 - Âm nổi: Engine ends cleanly, helmet contact and iron-door wind take over as local sounds.
-- Nhịp diễn: Dismounting takes the opening, helmets the middle, the walk to the door the end; the shot stops at the threshold and leaves the ascent for the next shot.
+- Nhịp diễn: Dismounting takes the opening, helmets the middle, the walk to the door the end; the shot stops at the threshold and holds at the threshold through 10.0s.
 
 **Clip 3 (48.3) · L · LIGHTHOUSE_STAIR · T**
 - **Trang phục & Vật dụng mang theo:** Sơn mặc bộ vest đen sơ mi trắng mở cổ, cổ tay TRÁI quấn băng trắng y tế, bàn tay phải lành lặn để trần; chiếc ba lô vải bố đã cất lại tại chòi gỗ từ cảnh 35.4. Mây mặc áo sơ mi kaki xắn tay gọn gàng, đeo túi da chéo công tác bên hông, cầm sổ tay nghiệp vụ màu đen, bộ đàm và khóa còng số tám ở thắt lưng.
@@ -6033,10 +6033,10 @@ Hạ tạo khoảng hở, Sơn cứu cả kẻ thù, Mây bắt Kiên.
 - **Trang phục & Vật dụng mang theo:** Sơn mặc bộ vest đen sơ mi trắng mở cổ, cổ tay TRÁI quấn băng trắng y tế, bàn tay phải lành lặn để trần; chiếc ba lô vải bố đã cất lại tại chòi gỗ từ cảnh 35.4. Mây mặc áo sơ mi kaki xắn tay gọn gàng, đeo túi da chéo công tác bên hông, cầm sổ tay nghiệp vụ màu đen, bộ đàm và khóa còng số tám ở thắt lưng. Hạ mặc váy vải cotton màu xám giản dị và đôi dép mỏng, cổ trống không còn khăn lụa, đã rút chiếc kẹp tóc bạc cài vào khe chốt cửa sắt từ cảnh 45.4. Vũ Kiên mặc bộ vest trắng đã xộc xệch và ướt sương gió biển khi tháo chạy lên tháp, cổ tay trái đeo đồng hồ vàng mặt sáng.
 - **Mã đạo cụ khóa (Props):** `DUTY_POUCH, CUFFS, KIEN_GUN`
 - **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–2.5s): Không bước tới, Mây đưa bộ đàm lên miệng ra hiệu lệnh ngắn, mắt không rời Kiên. Nhịp 2 (2.5–6.0s): Rơ le tách một tiếng bên dưới; đèn dự phòng bật sáng rồi ổn định thành luồng sáng chiếu ra biển, ánh hắt tràn qua ban công mà không rọi vào mắt ai. Nhịp 3 (6.0–10.0s): Kiên giật đầu về phía ngọn đèn và phía cửa kỹ thuật, tay giữ lỏng ra khi sự chú ý rời khỏi Hạ; tựa lưng vào tường, Hạ đứng yên, mắt nhìn Mây, nín thở. Mây nói ở Nhịp 1.
-- **Đầu (Start Frame):** Hạ leaning against the inner wall, Kiên half a pace off the rail beside her, right hand on her left upper arm, gun low in his left; Mây in the east doorway, radio handset at chest height; backup lamp dark.
+- **Đầu (Start Frame):** Hạ leaning against the inner wall, Kiên half a pace off the rail beside her, right hand on her left upper arm, gun low in his left; Mây in the east doorway with Sơn a step behind her shoulder, radio handset at chest height; backup lamp dark.
 - **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–2.5s): Without stepping forward, Mây lifts the radio handset to her mouth and gives the short cue, eyes never leaving Kiên. Beat 2 (2.5–6.0s): A relay clicks below; the backup lamp comes on and settles into a steady beam aimed out to sea, its spill washing across the gallery without striking anyone's eyes. Beat 3 (6.0–10.0s): Kiên's head jerks toward the lamp and the service side, his grip slackening as his attention leaves Hạ; against the wall, Hạ stays still, eyes on Mây, breath held.
 - **Thoại (8 âm tiết):** 0.2–2.8s · Mây (@May), nói trong hình: Thành, bật đèn. Tổ một giữ cửa phụ.
-- **Cuối (End Frame):** Kiên's head turned toward the lit backup lamp and the service side, right hand slack on Hạ's left upper arm, gun low in his left; Hạ against the inner wall, eyes on Mây; Mây in the doorway lowering the radio; steady seaward beam, soft spill on faces.
+- **Cuối (End Frame):** Kiên's head turned toward the lit backup lamp and the service side, right hand slack on Hạ's left upper arm, gun low in his left; Hạ against the inner wall, eyes on Mây; Mây in the doorway lowering the radio with Sơn poised behind her shoulder; steady seaward beam, soft spill on faces.
 
 - Ý đồ: Create an earned distraction from a coordinated cue, not a blinding magical flash.
 - Bố cục: Keep the medium on the existing positions, Hạ inner wall, Kiên beside her and Mây at the main door.
@@ -6063,7 +6063,7 @@ Hạ tạo khoảng hở, Sơn cứu cả kẻ thù, Mây bắt Kiên.
 - Điểm nét: Keep both the releasing grip and completed step readable without hiding contact in a close-up.
 - Chất liệu: Grey dress, sandals and loose hair stay consistent, scarf still absent and no new weapon appears in her hand.
 - Âm nổi: A sharp breath and sandal steps are enough, gunfire and impact sounds remain absent.
-- Nhịp diễn: A sudden twist free, a fast crossing under Mây's call, then a landing behind cover while Kiên's late reaction carries straight into the next shot.
+- Nhịp diễn: A sudden twist free, a fast crossing under Mây's call, then a landing behind cover while Kiên's late reaction holds in tension through 10.0s.
 
 **Clip 3 (51.3) · CONTINUE · LIGHTHOUSE · H**
 - **Trang phục & Vật dụng mang theo:** Sơn mặc bộ vest đen sơ mi trắng mở cổ, cổ tay TRÁI quấn băng trắng y tế, bàn tay phải lành lặn để trần; chiếc ba lô vải bố đã cất lại tại chòi gỗ từ cảnh 35.4. Mây mặc áo sơ mi kaki xắn tay gọn gàng, đeo túi da chéo công tác bên hông, cầm sổ tay nghiệp vụ màu đen, bộ đàm và khóa còng số tám ở thắt lưng. Hạ mặc váy vải cotton màu xám giản dị và đôi dép mỏng, cổ trống không còn khăn lụa, đã rút chiếc kẹp tóc bạc cài vào khe chốt cửa sắt từ cảnh 45.4. Vũ Kiên mặc bộ vest trắng đã xộc xệch và ướt sương gió biển khi tháo chạy lên tháp, cổ tay trái đeo đồng hồ vàng mặt sáng.
@@ -6081,7 +6081,7 @@ Hạ tạo khoảng hở, Sơn cứu cả kẻ thù, Mây bắt Kiên.
 - Điểm nét: Keep both men's upper bodies and the inner floor in the existing readable field, avoiding a technical disarming insert.
 - Chất liệu: The single handgun lands on inner concrete and stays there, without duplication in Kiên's hand or near Hạ.
 - Âm nổi: One restrained metal contact and foot scrape mark the changed control, not a shot or a weapon flourish.
-- Nhịp diễn: The lunge comes immediately from the seam, the check lands in the middle, and the loose gun plus the stumble end the shot in open imbalance.
+- Nhịp diễn: The lunge comes immediately from 0.0s, the check lands in the middle, and the loose gun plus the stumble end the shot in open imbalance.
 
 **Clip 4 (51.4) · CONTINUE · LIGHTHOUSE · H**
 - **Trang phục & Vật dụng mang theo:** Sơn mặc bộ vest đen sơ mi trắng mở cổ, cổ tay TRÁI quấn băng trắng y tế, bàn tay phải lành lặn để trần; chiếc ba lô vải bố đã cất lại tại chòi gỗ từ cảnh 35.4. Mây mặc áo sơ mi kaki xắn tay gọn gàng, đeo túi da chéo công tác bên hông, cầm sổ tay nghiệp vụ màu đen, bộ đàm và khóa còng số tám ở thắt lưng. Hạ mặc váy vải cotton màu xám giản dị và đôi dép mỏng, cổ trống không còn khăn lụa, đã rút chiếc kẹp tóc bạc cài vào khe chốt cửa sắt từ cảnh 45.4. Vũ Kiên mặc bộ vest trắng đã xộc xệch và ướt sương gió biển khi tháo chạy lên tháp, cổ tay trái đeo đồng hồ vàng mặt sáng.
@@ -6094,7 +6094,7 @@ Hạ tạo khoảng hở, Sơn cứu cả kẻ thù, Mây bắt Kiên.
 
 - Ý đồ: Make Sơn's moral choice visible without giving him implausible strength after Tê.
 - Bố cục: Continue from the same handheld angle with rail, feet and the dropped gun's inner-floor position readable.
-- Vị trí / chuyển động: Same handheld framing as the seam: Kiên pitched against the sea rail at lower frame right, the dropped gun at the base of the inner wall further back at frame right, the doorway soft at frame left. Sơn hauls Kiên inward off the rail toward open floor at frame center, clear of the gun, which stays out of reach of both.
+- Vị trí / chuyển động: Same handheld framing from 0.0s: Kiên pitched against the sea rail at lower frame right, the dropped gun at the base of the inner wall further back at frame right, the doorway soft at frame left. Sơn hauls Kiên inward off the rail toward open floor at frame center, clear of the gun, which stays out of reach of both.
 - Diễn xuất: Sơn decides to save the man who tried to own him before his face can show any feeling; he wants no one else to fall. Kiên's need breaks his polish for a moment. No heroic grunt, no one-arm hoist.
 - Điểm nét: Keep both feet inside the gallery and bodies below the point of a full over-edge fall, no dangling one-arm hoist.
 - Chất liệu: Gun remains on the same inner concrete spot, bandage stays LEFT and the rail neither breaks nor invents new damage.
@@ -6106,7 +6106,7 @@ Hạ tạo khoảng hở, Sơn cứu cả kẻ thù, Mây bắt Kiên.
 - **Mã đạo cụ khóa (Props):** `DUTY_POUCH, CUFFS, KIEN_GUN`
 - **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–3.0s): Mây bước tới chân tường nhặt khẩu súng bằng báng, nòng chúc xuống sàn; viên cảnh sát tới chỗ Kiên, giữ hai tay hắn. Nhịp 2 (3.0–6.5s): Mây cho khẩu súng vào túi vật chứng lấy từ túi công tác, nói với Kiên súng đã thu, hắn hết đường giữ người, trong lúc viên cảnh sát khóa còng của tổ mình vào cổ tay Kiên. Nhịp 3 (6.5–10.0s): Hạ từ cửa chạy tới, quỳ cạnh Sơn, đỡ hai vai anh, bảo anh tựa vào cô mà thở; Sơn thả trọng lượng vào tay cô. Mây nói ở Nhịp 2, Hạ nói ở Nhịp 3.
 - **Đầu (Start Frame):** Handgun on the inner floor near the masonry wall; Kiên on his side and Sơn on one knee on the inner floor; Hạ by the east doorway behind Mây; an officer at the service side, stepping out from behind the inner wall.
-- **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–3.0s): Mây crosses to the wall and lifts the handgun by the grip, muzzle to the floor, while the officer reaches Kiên and takes his arms. Beat 2 (3.0–6.5s): Mây slides the gun into an evidence bag from her duty pouch and tells Kiên it is secured and his days of holding people are over, while the officer closes his own cuffs on Kiên's wrists. Beat 3 (6.5–10.0s): Hạ hurries from the doorway, kneels at Sơn's side and takes his shoulders, telling him to lean on her and breathe; Sơn lets his weight go into her hands.
+- **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–3.0s): Mây crosses to the wall, crouches at the knees and lifts the handgun by the grip with her right hand, muzzle to the floor, while the officer reaches Kiên and takes his arms. Beat 2 (3.0–6.5s): Mây slides the gun into an evidence bag from her duty pouch and tells Kiên it is secured and his days of holding people are over, while the officer closes his own cuffs on Kiên's wrists. Beat 3 (6.5–10.0s): Hạ hurries from the doorway, kneels at Sơn's side and takes his shoulders, telling him to lean on her and breathe; Sơn lets his weight go into her hands.
 - **Thoại (16 âm tiết):** 3.0–5.9s · Mây (@May), nói trong hình: Súng đã thu. Kiên, hết đường giữ người rồi. / 7.6–9.7s · Hạ (@Ha), nói trong hình: Anh Sơn, tựa vào em mà thở.
 - **Cuối (End Frame):** Kiên face down and cuffed under the officer's hands near the rail side; Mây by the inner wall holding the bagged handgun low; Hạ kneeling at Sơn's side, his weight against her shoulder, both breathing hard; three positions clearly separated.
 
@@ -6135,7 +6135,7 @@ Hạ tạo khoảng hở, Sơn cứu cả kẻ thù, Mây bắt Kiên.
 - Điểm nét: Keep foreground faces readable while background custody remains identifiable, not melted into an empty romantic void.
 - Chất liệu: Grey dress and black suit retain ordeal creases, backup lamp stays steady and the watch remains closed inside his pocket.
 - Âm nổi: Breathing and wind decisively become clearer as police commands lower, no new sentimental score cue.
-- Nhịp diễn: A quick check, a short offer, then the space opens and settles; it ends seated and quiet so the watch can begin only in the next shot.
+- Nhịp diễn: A quick check, a short offer, then the space opens and settles; it ends seated and quiet holding the quiet stillness through 10.0s.
 
 Âm nối sang cảnh sau: Only breathing and the steady backup lamp remain. Cut to the quiet watch scene without replaying the restraint.
 
@@ -6195,9 +6195,9 @@ Trả lời lời hẹn bằng một hành động duy nhất, khăn được tr
 
 - Ý đồ: Let the future resume through shared handling instead of an explanatory declaration.
 - Bố cục: Continue the exact locked detail and focal plane from the newly opened case.
-- Vị trí / chuyển động: Same locked detail and plane as the seam: Hạ's hand comes under the case from frame left, Sơn's right fingers work the crown at frame right. The case does not turn or close.
+- Vị trí / chuyển động: Same locked detail and plane from 0.0s: Hạ's hand comes under the case from frame left, Sơn's right fingers work the crown at frame right. The case does not turn or close.
 - Diễn xuất: Her line is practical and quiet; she hides the bigger meaning inside it. He concentrates on the crown as if steadiness were the only promise he can make. No glances up, no flourish.
-- Điểm nét: Do not rack to faces or reset the case's angle; retain the exact crack and photo orientation at the seam.
+- Điểm nét: Do not rack to faces or reset the case's angle; retain the exact crack and photo orientation at 0.0s.
 - Chất liệu: Hands are stopped at first and move only after the single winding, with no second watch or new engraved message.
 - Âm nổi: A gentle winding sound leads into resumed mechanical ticking, wind remains subdued and dialogue unforced.
 - Nhịp diễn: The steadying and the soft line come first, the winding takes the middle, and the end lives in the moving second hand rather than a replayed turn.
@@ -6534,9 +6534,9 @@ Sơn nhận trách nhiệm cụ thể, không coi cứu Hạ là xóa tội.
 
 - Ý đồ: Replace the nickname's mystique with a specific address and a remembered human consequence.
 - Bố cục: Continue the exact medium interview setup, paper and recorder remaining where the previous frame left them.
-- Vị trí / chuyển động: Same two-shot axis as the seam: Mây near left with notebook and pen in her right hand, Sơn across the desk screen right with both hands on the wood. Recorder centred; nobody stands or leans across the desk.
+- Vị trí / chuyển động: Same two-shot axis from 0.0s: Mây near left with notebook and pen in her right hand, Sơn across the desk screen right with both hands on the wood. Recorder centred; nobody stands or leans across the desk.
 - Diễn xuất: Sơn trades the nickname's mystique for plain facts; each word costs him and it shows only in the jaw and the breath. He wants Mây to write it exactly as said. No killer's recital, no stare into camera.
-- Điểm nét: Maintain the existing focal plane and composition across the seam, allowing writing and listening without a new insert.
+- Điểm nét: Maintain the existing focal plane and composition from 0.0s through 10.0s, allowing writing and listening without a new insert.
 - Chất liệu: Paper remains private and unreadable to camera, pen and recorder are the same objects.
 - Âm nổi: Voice and pencil carry the beat, no rain or gunshot flashback soundtrack invading the testimony.
 - Nhịp diễn: Speech runs through most of the take at a measured pace, the address landing in the middle; after the last fact, two seconds of breath and pen sound close the clip without any new gesture.
@@ -6588,7 +6588,7 @@ Sơn nhận trách nhiệm cụ thể, không coi cứu Hạ là xóa tội.
 
 - Ý đồ: Show commitment becoming a signed record rather than another promise to do better.
 - Bố cục: Continue the same medium framing, camera axis and paper position from Mây's verification question.
-- Vị trí / chuyển động: Same axis as the seam. Sơn writes and signs with his right hand while his bandaged left steadies the page; the notebook stays at desk centre until Mây draws it back to her side, screen left.
+- Vị trí / chuyển động: Same axis from 0.0s. Sơn writes and signs with his right hand while his bandaged left steadies the page; the notebook stays at desk centre until Mây draws it back to her side, screen left.
 - Diễn xuất: Ordinary, sober concentration: he reads every line because he means to own it, and the left wrist's small stiffness shows without stopping him. Mây keeps her remark neutral, no reward in her voice. No heroic pen flourish.
 - Điểm nét: Keep his RIGHT signing hand and face within the established field, no handwriting macro or heroic pen close-up.
 - Chất liệu: One pen, one statement and the same bandage remain, no new dramatic document wording appears.
@@ -6896,7 +6896,7 @@ Chia tay bằng một ánh nhìn, không diễn lại nhiều lần.
 - Điểm nét: Keep the roadside distance believable through the mesh, do not make a perfect unobstructed glamour portrait.
 - Chất liệu: Plain paper and one lily remain unchanged, morning light touches her white blouse naturally.
 - Âm nổi: Engine is filtered by the window, sea and walkway sounds stay modest beyond it, no extra dialogue.
-- Nhịp diễn: The lift starts with the murmured line and completes as the vehicle draws level; the held look carries the end while the women slide out of reach, leaving the reply to the next shot.
+- Nhịp diễn: The lift starts with the murmured line and completes as the vehicle draws level; the held look carries the end while the women slide out of reach, holding the quiet look through 10.0s.
 
 **Clip 3 (58.3) · CUT · TRANSPORT · C**
 - **Trang phục & Vật dụng mang theo:** Sơn mặc áo khoác vải màu ô liu, áo thun xám, quần dài tối màu và giày da cổ thấp sờn cũ, hai bàn tay trần, cổ tay trái quấn băng trắng.
@@ -7158,10 +7158,10 @@ Kết bằng đời sống Hạ đã xây và một người trở lại.
 - **Trang phục & Vật dụng mang theo:** Sơn ở tuổi sáu mươi lăm mặc áo khoác màu ô liu bạc màu, vai trái vẫn đeo chiếc ba lô vải bố sờn cũ năm xưa, dây đồng hồ bạc đã sửa lành lấp lánh nơi vạt áo.
 - **Mã đạo cụ khóa (Props):** `WATCH, BACKPACK`
 - **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–3.0s): Người đàn ông bước xuống mặt đường nhựa, chậm rãi và dè dặt hơn một người trẻ, gót giày chạm đất, đầu gối đỡ sức nặng, khi lời dẫn của ông bắt đầu. Nhịp 2 (3.0–6.5s): Ông bước một bước ra khỏi cửa xe, giữ thăng bằng; cửa gập lại, xe đò chạy khỏi khung bên phải, luồng gió kéo vạt áo. Nhịp 3 (6.5–10.0s): Ông đứng trong lớp bụi đang lắng, dây đồng hồ lấp lánh nơi vạt áo mở; bàn tay phải để trần mở ra rồi khép lại bên hông, trọng tâm nghiêng nhẹ về phía thị trấn. Lời dẫn của Sơn ở nhịp 1 và 2.
-- **Đầu (Start Frame):** The coach stands at the crossroad stop, door open; on its doorway step, an older man in a faded olive field jacket, the weathered dark-olive backpack on his left shoulder, left hand on its strap, right hand bare at his side, a repaired silver watch chain at his jacket.
+- **Đầu (Start Frame):** The coach stands at the crossroad stop, door open; on its doorway step, older Sơn in a faded olive field jacket, the weathered dark-olive backpack on his left shoulder, left hand on its strap, right hand bare at his side, a repaired silver watch chain at his jacket.
 - **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–3.0s): The man steps down onto the asphalt, measured and a fraction slower than a younger man, the boot landing and the knee taking the weight, as his voice-over begins. Beat 2 (3.0–6.5s): He moves one pace clear of the door and settles his balance; the door folds shut and the coach pulls away out of frame right, its draught tugging at the jacket hem. Beat 3 (6.5–10.0s): He stands in the settling dust, the watch chain catching the light inside his open jacket; his bare right hand opens and closes at his side, and his weight eases toward the town.
 - **Thoại (12 âm tiết):** 0.2–3.9s · Sơn, lời dẫn ngoài hình: Hai mươi năm sau, tôi bước xuống ngã ba này lần nữa.
-- **Cuối (End Frame):** The older man standing where the coach stood, backpack on his left shoulder, left hand on its strap, right hand bare and open at his side; the repaired watch chain glinting at his jacket; dust settling around his boots, sea wind moving the jacket hem; the road empty behind him.
+- **Cuối (End Frame):** Older Sơn standing where the coach stood, backpack on his left shoulder, left hand on its strap, right hand bare and open at his side; the repaired watch chain glinting at his jacket; dust settling around his boots, sea wind moving the jacket hem; the road empty behind him.
 
 - Ý đồ: Repeat the opening arrival with a changed hand and age, while keeping identity just outside full view.
 - Bố cục: Frame below the older man's shoulders in medium, coach door, canvas bag and ground readable.
@@ -7194,10 +7194,10 @@ Kết bằng đời sống Hạ đã xây và một người trở lại.
 - **Trang phục & Vật dụng mang theo:** Sơn ở tuổi sáu mươi lăm mặc áo khoác màu ô liu bạc màu, vai trái vẫn đeo chiếc ba lô vải bố sờn cũ năm xưa, dây đồng hồ bạc đã sửa lành lấp lánh nơi vạt áo. Hạ ở tuổi năm mươi hai mặc áo cánh màu kem, đeo tạp dề xanh lá cây của chủ sạp hoa và vẫn quàng chiếc khăn lụa xanh nhạt kỷ niệm.
 - **Mã đạo cụ khóa (Props):** `BACKPACK`
 - **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** Nhịp 1 (0.0–3.0s): Bàn tay phải để trần của người khách đặt phẳng lên mặt quầy, cổ tay không đeo đồng hồ; mắt Hạ dừng ở bàn tay ấy, cô nói anh đã giữ lời hẹn. Nhịp 2 (3.0–6.5s): Cô đẩy xô hoa ly sang bên, dọn chỗ trên quầy cạnh bông ly duy nhất, mời anh qua chỗ chú Bảy ngồi nhìn biển với cô. Nhịp 3 (6.5–10.0s): Cô ngước mắt từ bàn tay lên gương mặt khuất ngoài khung hình, giữ ánh nhìn ở đó, nụ cười chậm rãi đọng lại; ngón tay anh thả lỏng trên mặt gỗ, gió biển lay tờ giấy và khăn lụa. Hạ nói ở nhịp 1 và 2.
-- **Đầu (Start Frame):** Older Hạ behind the counter, the single lily lying on it beside a bucket of lilies; at the doorway edge stands an older man in a faded olive jacket, backpack on his left shoulder, his bare right hand lifted toward the counter edge; daylight beyond.
+- **Đầu (Start Frame):** Older Hạ behind the counter, the single lily lying on it beside a bucket of lilies; at the doorway edge stands older Sơn (seen from the shoulders down) in a faded olive jacket, backpack on his left shoulder, his bare right hand lifted toward the counter edge; daylight beyond.
 - **Hành động 3 nhịp (Action Prompt):** Beat 1 (0.0–3.0s): His bare right hand comes to rest flat on the counter, no watch at the wrist; Hạ's eyes go to the hand and she tells him he has kept the promise. Beat 2 (3.0–6.5s): She slides the bucket of lilies aside to clear the counter beside the single lily, making room for him, and invites him to sit at Bảy's and look at the sea with her. Beat 3 (6.5–10.0s): She lifts her eyes from the hand to his unseen face and holds them there, a slow smile settling; his fingers relax on the wood, and sea wind moves the paper and her scarf.
 - **Thoại (15 âm tiết):** 0.2–4.8s · Hạ (@Ha), nói trong hình: Anh giữ lời hẹn rồi. Qua chỗ chú Bảy, ngồi nhìn biển với em nhé.
-- **Cuối (End Frame):** Hạ facing the unseen visitor across the counter, a quiet smile settled; his bare right hand resting on the wood, the single lily between them, his left hand on the backpack strap at the doorway edge; daylight and sea wind beyond the open door.
+- **Cuối (End Frame):** Hạ facing older Sơn (seen from the shoulders down) across the counter, a quiet smile settled; his bare right hand resting on the wood, the single lily between them, his left hand on the backpack strap at the doorway edge; daylight and sea wind beyond the open door.
 
 - Ý đồ: End with room being made for an ordinary shared morning, not a new contract or final twist.
 - Bố cục: From inside the shop, frame Hạ behind the counter and only the visitor's bare hand at the doorway edge.

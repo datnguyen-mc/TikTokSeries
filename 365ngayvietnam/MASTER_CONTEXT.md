@@ -295,6 +295,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 
 ### Chặng 2: Tây Bắc (Tập 6–10)
 - **Tập 6 (Lào Cai):** Bắc Hà, Pạc Kha, Dinh Hoàng A Tưởng, Sa Pa, Nhà Thờ Đá Sa Pa, Nhà Thờ Đá, Hoàng Liên Sơn, Ga Hoàng Liên, Ga Fansipan, Đỉnh Fansipan, Fansipan, Hủa Xi Pan, Bản Cát Cát, Cát Cát, Đèo Ô Quy Hồ, Ô Quy Hồ, Mù Cang Chải, Lào Cai
+- **Tập 7 (Yên Bái):** Đèo Khau Phạ, Khau Phạ, Thung Lũng Cao Phạ, Cao Phạ, Bản Lìm Mông, Tú Lệ, Nếp Tan Tú Lệ, Pa Pỉnh Tộp, Đồi Mâm Xôi, La Pán Tẩn, Rừng Trúc Mù Cang Chải, Bản Nả Háng Tủa Chử, Púng Luông, Đồi Móng Ngựa, Sáng Nhù, Mù Cang Chải, Yên Bái, Lai Châu
 
 ---
 
@@ -323,6 +324,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 | **4** | Lạng Sơn | 7 | ✅ HOÀN THÀNH | Sáng thứ Hai 26/10/2026 ở Ải Chi Lăng: hai người đội mũ 3/4, cài quai, gạt kính xuống; Scrambler rời bãi đỗ trước Nhà Trưng Bày Chiến Thắng Chi Lăng, nhập QL1A về phía Hữu Lũng → hướng Tuyên Quang (khoảng 175 km). Tập 5 mở trên đường, mũ vẫn đội và cài quai; dự báo mưa rào sau trưa nên có thể có cảnh áo mưa; không chạy đèo ban đêm |
 | **5** | Tuyên Quang | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Ba 27/10/2026 trên Hồ Na Hang: thuyền gỗ quay mũi về bến thủy Thượng Lâm lúc hoàng hôn (mặt trời lặn 17:24), hai người mặc áo phao cam; Scrambler đỗ ở bến, 2 mũ 3/4 móc trên ghi-đông. Ngoài khung: về bến trước 17:30, đội mũ, cài quai, chạy khoảng 1,3 km về nhà sàn Bản Nà Tông nghỉ đêm. Tập 6 mở sáng thứ Tư 28/10/2026 (19/9 âm lịch) ở sân nhà sàn Bản Nà Tông: Scrambler dưới gầm sàn, 2 mũ móc trên ghi-đông; không chạy đèo ban đêm |
 | **6** | Lào Cai | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Năm 29/10/2026 (17:00) trên Đèo Ô Quy Hồ: hai người nhấc mũ 3/4 từ ghi-đông, đội, cài quai, gạt kính xuống; Scrambler bật đèn pha rời bãi dừng ngắm cảnh bên biển mây vàng cam lúc ráng chiều để về nghỉ đêm dưới chân đèo trước khi tối (không chạy đèo ban đêm). Tập 7 mở sáng thứ Sáu 30/10/2026 trên cung đường QL32 hướng đi Đèo Khau Phạ – Mù Cang Chải (Yên Bái) |
+| **7** | Yên Bái | 9 | ✅ HOÀN THÀNH (90 giây) | Sáng thứ Bảy 31/10/2026 (07:30) tại sân nhà sàn Mù Cang Chải: hai người nhấc mũ 3/4 từ ghi-đông, đội, cài quai, gạt kính xuống; Scrambler lăn bánh rời Mù Cang Chải theo QL32 ngập nắng sớm hướng sang Lai Châu. Tập 8 mở sáng thứ Bảy 31/10/2026 trên cung đường QL32 – Lai Châu |
 
 ---
 

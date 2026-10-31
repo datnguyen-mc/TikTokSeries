@@ -30,7 +30,7 @@ Composition: Keep the watch at chest-to-lap height inside the medium frame, sea 
 Focus: Share useful focus between his fingers and face, never revealing the hidden watch interior.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn tilts his right palm so the engraved flower on the closed lid turns into the low dawn light; the chain slides over his knuckles and a thin glint crosses the silver. Beat 2 (3.0–7.0s): His left thumb settles on the lid's edge beside the release clasp and stops without pressing; his jaw tightens and he holds his breath, eyes on the engraved flower, not the sea. Beat 3 (7.0–10.0s): He breathes out through his nose, moves the thumb off the clasp and closes his fingers loosely around the case, then lifts his eyes to the sea as wind moves his collar.
+Beat 1 (0.0–3.0s): Sơn tilts his right palm so the engraved flower on the closed lid turns into the low dawn light; the chain slides over his knuckles and a thin glint crosses the silver. Beat 2 (3.0–7.0s): His left thumb settles on the lid's edge beside the release clasp and stops without pressing; his jaw tightens and he holds his breath, eyes on the engraved flower, not the sea. Beat 3 (7.0–10.0s): He breathes out through his nose, draws the thumb back from the lid's edge and closes his fingers loosely around the case, then lifts his eyes to the sea as wind moves his collar.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The turn into the light is quick; the long middle belongs to the thumb resting near the clasp; the release and the look to sea close the scene without a frozen tail.
 
@@ -40,8 +40,8 @@ Performance: He wants to open it and will not; the vow shows as restraint in the
 
 
 [DIALOGUE]
-0.2–5.5s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Đồng hồ của Hạ đứng từ đêm đó. Chừng nào cô ấy về, tôi mới mở nắp.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.3s · Sơn, lời dẫn ngoài hình: Đồng hồ của Hạ đứng từ đêm đó. Chừng nào cô ấy về, tôi mới mở nắp.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ Worn silver catches a narrow natural glint; jacket cuffs and salt air remain tac
 
 [SOUND]
 Location bed: soft surf, pine wind and porch-board creaks.
-Foreground sound: The watch is silent in the present; only porch wood, wind and his breathing remain.
+Foreground sound: The watch is silent in the present; under his voice-over only porch wood, wind and his breathing are heard, never a tick.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Let the porch sea wind fall under rain on the silk-shop awning. Cut to the existing silk curtain, not to another coach arrival.
 
 [END FRAME — natural motion continues]

@@ -23,7 +23,7 @@ Convert the broken agreement into immediate bodily danger without inventing a fr
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 41.6, ending with Sơn planted between Dũng and Hạ's path, hands open at chest height, bandaged left wrist close to his body; Dũng within arm's reach, weight forward, cuff ring swinging; Kiên to the west holding Hạ near the white car, her shoulders twisting against him; envelope on the seam.
+Previous editorial shot: 41.6, ending with Sơn planted between Dũng and Hạ's path, hands open at chest height, bandaged left wrist close to his body; Dũng within arm's reach, weight forward, cuff ring swinging; Kiên to the west holding Hạ near the white car, her shoulders twisting against him; envelope on the seam; Bà Hai still a few paces east of it, watching.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -46,15 +46,15 @@ Performance: Dũng is possessive and certain, enjoying finally having hold of hi
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Đứng yên, Sơn. Má muốn bắt sống mày về.
-Sơn (@Son), nói trong hình: Kiên, buông Hạ ra! Đừng kéo cô ấy về xe!
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.1s · Dũng (@Dũng), nói trong hình: Đứng yên, Sơn. Má muốn bắt sống mày về.
+3.2–6.4s · Sơn (@Son), nói trong hình: Kiên, buông Hạ ra! Đừng kéo cô ấy về xe!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Sơn's black lapel pulls under real tension, bandage remains clean and on the LEFT wrist.

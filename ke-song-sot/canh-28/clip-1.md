@@ -43,8 +43,8 @@ Performance: A real calculation interrupted: the household sound reaches the boy
 
 
 [DIALOGUE]
-0.2–8.3s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Hai mươi lăm năm trước, Bà Hai sai tôi tới đòi nợ ở cánh cửa này. Nghe tiếng nhà người ta bên trong, tôi định quay đi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–8.1s · Sơn, lời dẫn ngoài hình: Hai mươi lăm năm trước, Bà Hai sai tôi tới đòi nợ ở cánh cửa này. Nghe tiếng nhà người ta bên trong, tôi định quay đi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,7 +57,7 @@ Old paint, modest door hardware and rain beyond the stairs make the place lived 
 
 [SOUND]
 Location bed: rain beyond stairwell and ordinary household sounds off screen.
-Foreground sound: An ordinary muffled family sound stays unidentifiable beneath the older narrator, without screams.
+Foreground sound: An ordinary muffled family sound stays unidentifiable beneath older Sơn's voice-over, without screams.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

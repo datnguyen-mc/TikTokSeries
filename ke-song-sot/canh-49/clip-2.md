@@ -4,8 +4,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. fresh custody cuffs applied at 46.4; the cut old cuff is removed and logged separately, not reused. Voice: rough, direct Southern Vietnamese male voice.
-Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist; her unlit black cigarette holder lies on the stone bench beside her, set down in 49.1. Dũng's wrists are locked in fresh steel handcuffs, his black shoulder bag confiscated and the old cut cuff ring logged as evidence.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear. no work bag: it was confiscated as evidence; in fresh custody cuffs since 46.4; the cut old ring has been removed and logged separately, not reused. Voice: rough, direct Southern Vietnamese male voice.
+Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist; her unlit black cigarette holder lies on the stone bench beside her, set down in 49.1. Dũng's wrists are locked behind his back in fresh steel handcuffs, his black shoulder bag confiscated and the old cut cuff ring logged as evidence.
 
 
 [TIMELINE AND LOCATION]
@@ -22,7 +22,7 @@ Previous editorial shot: 49.1, ending with Bà Hai upright on the bench, both ha
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Dũng on the custody road in the foreground, wrists cuffed in front, one escorting officer's hand at his elbow; in the depth, Bà Hai seated on the stone bench, hands on her knees, unlit holder on the stone beside her.
+Dũng on the custody road in the foreground, wrists cuffed behind his back, one escorting officer's hand at his elbow; in the depth, Bà Hai seated on the stone bench, hands on her knees, unlit holder on the stone beside her.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -41,8 +41,8 @@ Performance: Dũng carries fatigue and an unwanted need for her approval; he hid
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Tay con khóa rồi. Má còn muốn con giữ ai nữa?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.5s · Dũng (@Dũng), nói trong hình: Tay con khóa rồi. Má còn muốn con giữ ai nữa?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,7 +59,7 @@ Foreground sound: Escort shoes halt briefly, a small cuff sound sits below his w
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Dũng turned back toward the custody road, taking his next step under the escort's hand, cuffed wrists low in front; Bà Hai on the bench in the background, head bowed toward the jade bracelet on her left wrist, hands on her knees.
+Dũng turned back toward the custody road, taking his next step under the escort's hand, wrists still cuffed behind his back; Bà Hai on the bench in the background, head bowed toward the jade bracelet on her left wrist, hands on her knees.
 Next shot 49.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

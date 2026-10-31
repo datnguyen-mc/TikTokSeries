@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 37/60, clip 4/6; shot 37.4. Story time: D7 afternoon.
 Covered rear lane behind the coffee stall under a patched corrugated-iron roof, isolated from the public road, map table beside the rear door, crates of empty bottles against the wall.
-Same afternoon as scene 36: quiet shade behind the awning, soft daylight bouncing in from the lane side.
+Present-day afternoon: quiet shade behind the awning, soft daylight bouncing in from the lane side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Sơn agree to a limit that conflicts with the urge to rush toward Hạ.
@@ -41,14 +41,14 @@ Performance: Sơn agrees to a limit that fights his urge to run to Hạ; the pro
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Nếu Kiên không cho Hạ ra khỏi xe, tôi đứng yên ở vạch. Không bước thêm.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–7.3s · Sơn (@Son), nói trong hình: Nếu Kiên không cho Hạ ra khỏi xe, tôi đứng yên ở vạch. Không bước thêm.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 The folder remains where it was, an unaccepted alternative at the edge of the practical plan.

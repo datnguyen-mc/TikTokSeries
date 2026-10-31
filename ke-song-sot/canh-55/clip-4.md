@@ -31,7 +31,7 @@ Composition: Medium coverage includes Mây's two evidence columns, Sơn opposite
 Focus: Keep her mouth and working hands readable together; columns are shapes, never a demand for readable document text.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–4.0s): Mây finishes ruling the column line and, pen still on the page, asks which of Rắn Đen's victims and creditors are still alive to verify his account. Beat 2 (4.0–7.5s): Sơn answers that he remembers every name and address and asks for the notebook so he can write them; Mây jots his answer at the head of the right-hand column. Beat 3 (7.5–10.0s): She turns the notebook around and slides it across the desk to him with her pen laid on top; Sơn leans in and rests his right hand beside the page.
+Beat 1 (0.0–4.0s): Mây finishes ruling the column line and, pen still on the page, asks which of Rắn Đen's victims and debtors are still alive to verify his account. Beat 2 (4.0–7.5s): Sơn answers that he remembers every name and address and asks for the notebook so he can write them; Mây jots his answer at the head of the right-hand column. Beat 3 (7.5–10.0s): She turns the notebook around and slides it across the desk to him with her pen laid on top; Sơn leans in and rests his right hand beside the page.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Question and answer run back to back through the first seven and a half seconds; the notebook changes hands to close the take, keeping procedural momentum after the admission.
 
@@ -41,9 +41,9 @@ Performance: Mây does not soften the question because he saved Hạ; she wants 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Nạn nhân, chủ nợ của Rắn Đen, ai còn sống để xác minh lời anh?
-Sơn (@Son), nói trong hình: Tôi nhớ rõ tên, địa chỉ từng người. Đưa sổ, tôi viết.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Mây (@May), nói trong hình: Nạn nhân, con nợ của Rắn Đen, ai còn sống để xác minh lời anh?
+4.9–8.6s · Sơn (@Son), nói trong hình: Tôi nhớ rõ tên, địa chỉ từng người. Đưa sổ, tôi viết.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

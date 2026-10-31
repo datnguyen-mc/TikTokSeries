@@ -36,13 +36,13 @@ Play each beat once, in order, from the start state to the end state; no gesture
 Action rhythm: A breath of choosing, one pause before the reason inside the line, then the hands settle; this is testimony, not another suspense set piece.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Close-up holds Hạ's face frame right and her hands low frame center; Mây remains an off-axis listener frame left. Only her hands move, from open palms to flat on the table.
+Blocking: Close-up holds Hạ's face frame left and her hands low frame center; Mây stays an off-axis listener soft in the background at frame right, so Hạ's eyeline to her runs frame right. Only her hands move, from open palms to flat on the table.
 Performance: Controlled with a trace of fatigue; she claims the door decision as hers and hides how close the danger was. She wants Mây to understand, not to praise her. No triumph, no staged tears.
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Kiên lôi tao lên lối kỹ thuật. Tao chỉ cần cửa đó còn hé, để tụi mày vào được sau tao.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–8.7s · Hạ (@Ha), nói trong hình: Kiên lôi tao lên lối kỹ thuật. Tao chỉ cần cửa đó còn hé, để tụi mày vào được sau tao.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

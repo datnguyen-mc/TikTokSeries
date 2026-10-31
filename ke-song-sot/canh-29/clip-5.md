@@ -3,7 +3,7 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
 @Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent in the struggle, not yet taped. Voice: quick, polite, alert Southern Vietnamese male voice.
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
 Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her belt carries no handcuffs, both pairs having been used in the city. Thành wears his light-blue shirt and round glasses knocked askew, their right arm bent from the stall struggle; his wrists are tied at the start, his leather evidence folder and police radio handset lying on the map table by the rear door. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
@@ -42,8 +42,8 @@ Performance: Thành gets his breath and composure back before he stands, embarra
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Thành, đi với chú Bảy, đưa bà con ra lối sau đồn. Không ai đuổi theo Dũng.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.3s · Mây (@May), nói trong hình: Thành, đi với chú Bảy, đưa bà con ra lối sau đồn. Không ai đuổi theo Dũng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

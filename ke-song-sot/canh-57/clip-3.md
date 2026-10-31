@@ -11,7 +11,7 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 57/60, clip 3/6; shot 57.3. Story time: D8 morning.
 Small empty strip at fish-market entrance chosen for Hạ flower table, chalk marks, no completed shop yet.
-Same day-eight morning: soft window daylight inside the house, bright open sun on the public walkway with sea bounce on faces.
+Day-eight morning at the fish-market entrance: low early sun from the east rakes across the bare concrete strip, soft shade under the market roof edge behind, warm bounce on faces and cool shadows.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Translate Hạ's earlier wish into a choice of dimensions and a workable place.
@@ -41,9 +41,9 @@ Performance: Hạ is absorbed in making something workable; the old wish becomes
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Giữ đầu thước ngay vạch phấn nghe Mây. Sáng đi chợ, người qua đây đông.
-Mây (@May), nói trong hình: Chỗ này đón nắng sớm, bày hoa là hợp.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Hạ (@Ha), nói trong hình: Giữ đầu thước ngay vạch phấn nghe Mây. Sáng đi chợ, người qua đây đông.
+4.9–7.8s · Mây (@May), nói trong hình: Chỗ này đón nắng sớm, bày hoa là hợp.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

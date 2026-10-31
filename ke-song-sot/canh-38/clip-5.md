@@ -41,8 +41,8 @@ Performance: His face moves from wanting her approval to recognising dependence,
 
 
 [DIALOGUE]
-0.2–6.6s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Rồi một đêm, chiếu ngủ của tôi bị dời vào kho. Chỗ trú mưa đã thành chỗ tôi không được rời.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–6.4s · Sơn, lời dẫn ngoài hình: Rồi một đêm, chiếu ngủ của tôi bị dời vào kho. Chỗ trú mưa đã thành chỗ tôi không được rời.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,7 +55,7 @@ Teak, stockroom iron and the simple mat belong to the same practical place she f
 
 [SOUND]
 Location bed: silk shifting and muted rain outside.
-Foreground sound: Shop room tone continues under the older narrator, no lock slam or invented threat voice.
+Foreground sound: Shop room tone continues under Sơn's older voice-over, no lock slam or invented threat voice.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

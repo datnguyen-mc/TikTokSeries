@@ -19,7 +19,7 @@ Show that Bà Hai knows the drug and is forced to face what her own order enable
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 42.4, ending with Sơn seated limp against the mooring bollard, head tilted, bare hands open on the concrete, chest visibly rising and falling; Dũng crouched over him, one fist in his collar; the envelope on the seam beside them; Hạ in the west background, straining.
+Previous editorial shot: 42.4, ending with Sơn seated limp against the mooring bollard, head tilted, bare hands open on the concrete, chest visibly rising and falling; Dũng crouched over him, one fist in his collar; the envelope on the seam beside them; Hạ held by Kiên in the west background, straining.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -42,8 +42,8 @@ Performance: Factual first: she knows the drug and its owner, and that her own o
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Nó trúng Tê, còn thở. Lùi ra cho nó thở, Dũng. Cấm đụng vô nữa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Bà Hai (@HaiNgoc), nói trong hình: Nó trúng Tê, còn thở. Lùi ra cho nó thở, Dũng. Cấm đụng vô nữa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

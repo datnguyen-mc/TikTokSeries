@@ -32,7 +32,7 @@ Composition: The wide setup includes station phone, copied evidence and roster w
 Focus: Keep figures and document handover legible, with no extra remote superior face or screen call added.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–4.0s): Mây briefs the district over the phone in a low, steady voice, saying she is going to the city for the key and that Thành stays with their team to hold the town. Beat 2 (4.0–7.0s): She sets the phone back in its cradle and lays the roster sheet flat in front of Thành, tapping his line with two fingers. Beat 3 (7.0–10.0s): Thành draws the roster toward him and acknowledges, naming the fish market and the clinic as his to watch; Sơn, at the doorway, watches Mây straighten and pick up her notebook.
+Beat 1 (0.0–4.0s): Mây briefs the district over the phone in a low, steady voice, saying she is going to the city for the key and that Thành stays behind to hold the town. Beat 2 (4.0–7.0s): She sets the phone back in its cradle and lays the roster sheet flat in front of Thành, tapping his line with two fingers. Beat 3 (7.0–10.0s): Thành draws the roster toward him and acknowledges, naming the fish market and the clinic as his to watch; Sơn, at the doorway, watches Mây straighten and pick up her notebook.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The call carries the opening, the roster lands in the middle as the real handover, and Thành's short acknowledgment closes the scene without new exposition.
 
@@ -42,9 +42,9 @@ Performance: Mây's worry for Hạ sits under strict professional control; she w
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Tôi lên thành phố lấy khóa số. Thành ở lại với tổ huyện, giữ thị trấn.
-Thành (@Phó Thành), nói trong hình: Dạ. Chợ cá với phòng khám em canh kín.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.8s · Mây (@May), nói trong hình: Tôi lên thành phố lấy khóa số. Thành ở lại giữ thị trấn.
+7.0–9.8s · Thành (@Phó Thành), nói trong hình: Dạ. Chợ cá với phòng khám em canh kín.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

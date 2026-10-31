@@ -18,7 +18,7 @@ Let the fourth tally register a new day of pressure without turning counting int
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 19.1, ending with The two pale-blue pieces lie side by side on the table, torn edges matched thread for thread but parted by a narrow strip of bare wood; Sơn's bare hands rest curled at the near edge; Mây's khaki-sleeved hand at the far edge; window light on the weave.
+Previous editorial shot: 19.1, ending with The two pale-blue pieces lie side by side on the table, the long one on its opened evidence bag, torn edges matched thread for thread but parted by a narrow strip of bare wood; Sơn's bare hands rest curled at the near edge; Mây's khaki-sleeved hand at the far edge; window light on the weave.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -41,8 +41,8 @@ Performance: Controlled resolve under a new day of pressure: the cut is firmer t
 
 
 [DIALOGUE]
-0.2–5.2s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Vạch thứ tư. Chúng ném khăn của Hạ vào giữa thị trấn. Đó là lời thách.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.0s · Sơn, lời dẫn ngoài hình: Vạch thứ tư. Chúng ném khăn của Hạ vào giữa thị trấn. Đó là lời thách.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,7 +56,7 @@ Fresh wood beside older pale cuts gives time a physical trace while noon light s
 
 [SOUND]
 Location bed: wind through wood joints and remote surf.
-Foreground sound: One short scrape and shelf contact carry the action, with no recycled seven-day voice-over.
+Foreground sound: One short scrape on the downward cut sits under Sơn's low voice-over, which counts only this day and does not replay the seven-day vow; the tool's light tap on the shelf comes after his last word.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

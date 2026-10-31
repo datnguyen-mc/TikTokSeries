@@ -3,7 +3,7 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands. no backpack with him: it stays at the cabin; LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
 
@@ -33,16 +33,16 @@ Focus: Keep the ordinary seated posture and file in the existing depth, avoiding
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–3.0s): Thành opens the destination transfer file on his lap and turns to its first page, pen in hand, as Sơn's voice-over begins. Beat 2 (3.0–6.5s): Sơn lets his shoulders settle against the bench and keeps his eyes forward rather than on the window while the voice-over ends. Beat 3 (6.5–10.0s): The vehicle sways over a seam in the road; Thành makes a short note in the file; Sơn sits quietly, breathing evenly, passing light flickering over them both.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The file opens under the start of the narration, the settling takes the middle, and the last three seconds are ordinary travel, the vehicle moving on without another farewell.
+Action rhythm: The file opens under the start of Sơn's voice-over, the settling takes the middle, and the last three seconds are ordinary travel, the vehicle moving on without another farewell.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Same seats: Sơn forward-facing with the mesh at his right shoulder, Thành opposite facing rearward. File and pen stay in Thành's hands. Sơn's hands stay in his lap and he does not turn to the window.
-Performance: Sơn's calm is new and unshowy; he hides the loss and wants nothing more from the road behind. Thành keeps to his work as a courtesy. No proud smile at the narration, no glance back for Hạ.
+Performance: Sơn's calm is new and unshowy; he hides the loss and wants nothing more from the road behind. Thành keeps to his work as a courtesy. No proud smile at the voice-over, no glance back for Hạ.
 
 
 [DIALOGUE]
-0.2–4.7s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Lần đầu, tôi rời đi bằng tên thật. Không phải ngoái lại trốn ai.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–4.5s · Sơn, lời dẫn ngoài hình: Lần đầu, tôi rời đi bằng tên thật. Không phải ngoái lại trốn ai.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

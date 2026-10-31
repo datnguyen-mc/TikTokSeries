@@ -40,13 +40,14 @@ Performance: Calm and final: the decision was made this morning, and closing the
 
 
 [DIALOGUE]
-0.2–5.5s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Đôi găng đầu tiên biến ơn một chén cơm thành một đời giữ cửa cho người khác.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.3s · Sơn, lời dẫn ngoài hình: Đôi găng đầu tiên biến ơn một chén cơm thành một đời giữ cửa cho người khác.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
+- One pair of black gloves first gifted twenty-five years ago; present-day pair folded into the open backpack on the cabin cot at 35.4; the bag is zipped shut at 38.6.
 
 [VISIBLE TEXTURE]
 Worn canvas and older leather replace the remembered new gift box under current-day light.

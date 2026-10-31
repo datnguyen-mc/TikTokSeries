@@ -3,9 +3,9 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, crisp, clear Southern Vietnamese male voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Sơn (past timeline) wears his tailored matte-black suit, open-collar white shirt, and concealed underarm holster; black leather gloves worn on night jobs or tucked in pocket at the flower shop. Hạ wears her cream linen dress, forest-green florist apron with pocket shears, intact pale-blue silk scarf around her neck, and silver hair clip pinned at the back of her hair.
+Sơn (past timeline, one month before his wrist injury) wears his tailored matte-black suit, open-collar white shirt and concealed underarm holster, with both black leather gloves ON his hands tonight, the night of the job; both wrists unbandaged and uninjured. Hạ wears her cream linen dress, forest-green florist apron with pocket shears, intact pale-blue silk scarf around her neck, and silver hair clip pinned at the back of her hair.
 
 
 [TIMELINE AND LOCATION]
@@ -41,8 +41,9 @@ Performance: Sơn's honesty costs him more than a lie would; he lets her see unc
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Việc đêm nay nguy hiểm. Anh không hứa được. Anh không muốn nói dối em nữa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.3s · Sơn (@Son), nói trong hình: Việc đêm nay nguy hiểm. Anh không hứa được.
+4.0–6.4s · Sơn (@Son), nói trong hình: Anh không muốn nói dối em nữa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -63,4 +64,4 @@ Hạ behind the counter, thumb on its edge, eyes on Sơn; Sơn a few steps away 
 Next shot 33.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid any bandage or dressing on Sơn's wrists in this past night; Sơn without his black leather gloves.

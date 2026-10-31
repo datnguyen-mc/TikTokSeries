@@ -40,13 +40,13 @@ Performance: He has chosen to be seen: the walk is willing exposure, not a gunfi
 
 
 [DIALOGUE]
-0.2–5.8s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Hai mươi lăm năm trước tôi xin đứng nhờ mái hiên. Hôm nay tôi tự chọn chỗ đứng.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.6s · Sơn, lời dẫn ngoài hình: Hai mươi lăm năm trước tôi xin đứng nhờ mái hiên. Hôm nay tôi tự chọn chỗ đứng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Black suit against plain concrete shows how visible he has chosen to become.

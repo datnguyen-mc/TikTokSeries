@@ -31,7 +31,7 @@ Last light: Kiên stands with his right hand on Hạ's left upper arm, left hand
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Keep Kiên nearer the lens, Hạ restrained beside him, Sơn readable opposite with the preview envelope still his own.
+Composition: Keep Kiên nearer the lens, Hạ restrained beside him, Sơn readable opposite with the copy envelope still his own.
 Focus: Stay on Kiên controlling face and the unanswered distance to Sơn; no folder or document insert is needed.
 
 [ACTION — 0–10s, one evolving take]
@@ -45,13 +45,13 @@ Performance: Kiên delivers the theft of the agreement as routine paperwork, imp
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Kiên (@Vũ Kiên), nói trong hình: Luật đổi rồi, Sơn. Ký tờ nhận tội trước, rồi tôi mới buông con bé.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Kiên (@Vũ Kiên), nói trong hình: Luật đổi rồi, Sơn. Ký tờ nhận tội trước, rồi tôi mới buông con bé.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 White suit catches the last sky light, grey dress stays matte against the concrete.

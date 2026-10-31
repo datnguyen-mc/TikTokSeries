@@ -41,14 +41,15 @@ Performance: Mây allows herself one small professional satisfaction and keeps i
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Khớp công ty trong báo cáo xe. Trang này tôi chụp lại, báo lên trên.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+6.0–9.8s · Mây (@May), nói trong hình: Khớp công ty trong báo cáo xe. Trang này tôi chụp lại, báo lên trên.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Standard steel police handcuffs carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's own thin grey card investigation folder, held by her alone; never confused with Thành's dark leather evidence folder.
 
 [VISIBLE TEXTURE]
 Late light across paper grain and the black cover contrasts with the cooler shade under her arm.

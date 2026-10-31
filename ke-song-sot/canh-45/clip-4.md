@@ -10,7 +10,7 @@ Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck,
 
 [TIMELINE AND LOCATION]
 Scene 45/60, clip 4/6; shot 45.4. Story time: D7 night continuous.
-Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
+Narrow maintenance stair and hatch below the gallery, inner latch on the hatch, backup-light lever below the final landing.
 Night: steady warm van lamp as low key inside, existing lighthouse work lights as cool top light on the stairs; no emergency strobe montage.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
@@ -41,13 +41,14 @@ Performance: Precision under fear: her hand moves small and sure, as casual as s
 
 
 [DIALOGUE]
-0.2–4.7s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Hạ, lời dẫn ngoài hình: Cửa này không được khép hẳn. Thế nào cũng có người lên tìm tôi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+3.0–7.3s · Hạ, lời dẫn ngoài hình: Cửa này không được khép hẳn. Thế nào cũng có người lên tìm tôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- Hạ silver hair clip, deliberately wedged into service-hatch latch at 45.4, recovered at 48.5 and logged at 54.5.
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 A little chipped paint defines the gap, the clip retains the same silver finish seen in the video.

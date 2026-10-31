@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. two steel handcuff pairs at the back of her belt under the denim jacket. Voice: firm, clear Southern Vietnamese female voice.
 Sơn carries his weathered dark-olive canvas travel backpack containing his folded black suit and gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
 
@@ -41,8 +41,8 @@ Performance: The gloves pull at him like an old invitation he is afraid to accep
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Bộ đồ với đôi găng đó, hồi anh còn làm Bóng Ma cho Bà Hai hả?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.0s · Mây (@May), nói trong hình: Bộ đồ với đôi găng đó, hồi anh còn làm Bóng Ma cho Bà Hai hả?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,7 +56,7 @@ The supple dark leather contrasts with her rain-marked denim and his rough canva
 
 [SOUND]
 Location bed: steady coach engine and rain on glass.
-Foreground sound: His line must not compete with cloth movement or an artificially amplified heartbeat.
+Foreground sound: Mây's quiet question stays clear over engine hum and rain on glass; cloth movement stays soft, no amplified heartbeat, and Sơn answers only with silence.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
@@ -64,4 +64,4 @@ Sơn seated by the rain-streaked window, the folded black suit across his knees 
 Next shot 21.3: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid Sơn speaking or mouthing any reply.

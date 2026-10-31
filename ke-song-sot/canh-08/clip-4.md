@@ -40,8 +40,8 @@ Performance: Fear shows as a sudden narrowed breath and a tight crouch; the knoc
 
 
 [DIALOGUE]
-0.2–6.1s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Giữa tiếng còi hú, tôi chỉ nghe một tiếng cạch khô trên nền xi măng. Đồng hồ của Hạ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.9s · Sơn, lời dẫn ngoài hình: Giữa tiếng còi hú, tôi chỉ nghe một tiếng cạch khô trên nền xi măng. Đồng hồ của Hạ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

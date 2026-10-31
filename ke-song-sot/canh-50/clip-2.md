@@ -33,7 +33,7 @@ Composition: Frame him medium with Hạ, LEFT-hand handgun low and RIGHT hand co
 Focus: Keep gun hand, controlling hand and face legible in one setup; do not add a separate weapon insert.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Kiên tightens his grip and shifts Hạ a few centimetres so she stays between him and the doorway, the muzzle kept low toward the floor. Beat 2 (3.0–6.5s): He states his demand in short clipped phrases, refusing to let her go, his smooth voice fraying at the edges. Beat 3 (6.5–10.0s): He waits for an answer, breathing through his mouth, eyes fixed on Mây; still in his grip, Hạ lets her gaze slide past his shoulder toward the service hatch side behind the inner wall.
+Beat 1 (0.0–2.5s): Kiên tightens his grip and shifts Hạ a few centimetres so she stays between him and the doorway, the muzzle kept low toward the floor. Beat 2 (2.5–8.2s): He states his demand in short clipped phrases, refusing to let her go, his smooth voice fraying at the edges, eyes fixed on Mây. Beat 3 (8.2–10.0s): He waits for an answer, breathing through his mouth; still in his grip, Hạ lets her gaze slide past his shoulder toward the service hatch side behind the inner wall.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A quick tightening, the demand delivered fast, then a held wait in which his control visibly depends on someone else's answer while Hạ quietly looks elsewhere.
 
@@ -43,13 +43,14 @@ Performance: Kiên's demand masks fear behind practicality; he hides that his op
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Kiên (@Vũ Kiên), nói trong hình: Tôi không buông cô ta. Một chiếc xe dưới đường ven biển, rút hết chốt chặn, không ai theo.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.6–8.0s · Kiên (@Vũ Kiên), nói trong hình: Tôi không buông cô ta. Một chiếc xe dưới đường ven biển, rút hết chốt chặn, không ai theo.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 Dust and creases carry forward on the white suit, grey dress and sandals remain unchanged.

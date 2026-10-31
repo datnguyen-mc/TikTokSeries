@@ -3,7 +3,7 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. fresh custody cuffs applied at 46.4; the cut old cuff is removed and logged separately, not reused. Voice: rough, direct Southern Vietnamese male voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear. no work bag: it was confiscated as evidence; in fresh custody cuffs since 46.4; the cut old ring has been removed and logged separately, not reused. Voice: rough, direct Southern Vietnamese male voice.
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
 Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Dũng's wrists are locked in fresh steel handcuffs, his black shoulder bag confiscated and the old cut cuff ring logged as evidence.
 
@@ -28,10 +28,10 @@ Beside the van's rear in the lamp spill: Dũng standing in fresh handcuffs behin
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use a medium view of escorted Dũng with Mây by the radio and van behind the established lane.
-Focus: Stay with his face until he turns back toward the road, avoiding an unnecessary cut to sleeping Sơn.
+Focus: Stay with his face until he turns back toward the road, while Sơn stays an unseen voice inside the van.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): From inside the open van comes the low rasp of Sơn's voice; Dũng's head snaps toward the doorway and his weight pulls half a step that way before the officer's grip stops him. Beat 2 (2.5–6.5s): He goes still, listening, and the fight drains from his shoulders; staring at the lamp-lit doorway, he mutters that Má thought raising Sơn meant keeping him for life. Beat 3 (6.5–10.0s): He turns his face from the van toward the road and lets the officer lead him off toward the custody vehicle without resistance; Mây lowers the handset, watches him go for a breath, then turns back to the van door.
+Beat 1 (0.0–2.5s): From inside the open van Sơn's low, rasping voice asks Mây to take him along; Dũng's head snaps toward the doorway and his weight pulls half a step that way before the officer's grip stops him. Beat 2 (2.5–6.5s): He goes still, listening, and the fight drains from his shoulders; staring at the lamp-lit doorway, he mutters that Má thought raising Sơn meant keeping him for life. Beat 3 (6.5–10.0s): He turns his face from the van toward the road and lets the officer lead him off toward the custody vehicle without resistance; Mây lowers the handset, watches him go for a breath, then turns back to the van door.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A sharp turn of the head opens the shot; the line ends before he moves; the departure clears the frame in the last beat while Mây heads back.
 
@@ -41,8 +41,9 @@ Performance: Bitter recognition: Dũng understands Bà Hai's ownership has faile
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Nó còn nói được. Má tưởng nuôi nó thì giữ được nó cả đời.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
+0.2–2.1s · Sơn, ngoài khung hình: Cô Mây, cho tôi theo với.
+2.5–6.8s · Dũng (@Dũng), nói trong hình: Nó còn nói được. Má tưởng nuôi nó thì giữ được nó cả đời.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -64,4 +65,4 @@ Dũng walking away under escort toward the custody vehicle, cuffed hands behind 
 Next shot 47.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid any shoulder bag or bag strap on Dũng (confiscated), the old cut cuff ring on his wrist, Sơn's face or body appearing in the van doorway.

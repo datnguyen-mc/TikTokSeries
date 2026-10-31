@@ -25,7 +25,7 @@ Previous editorial shot: 55.6, ending with Sơn asleep upright on the bench, hea
 J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-At the station desk an unnamed investigator bends over the sealed originals in a row: black ledger, red cloth ledger, USB and token in separate sleeves, beside Thành's open handover record and a radio handset. Thành stands at his shoulder; Mây waits in the doorway with tied witness files.
+At the station desk an unnamed task-force investigator, who has brought the sealed originals back for the final record, bends over them in a row: black ledger, red cloth ledger, USB and token in separate sleeves, beside Thành's open handover record and a radio handset. Thành stands at his shoulder; Mây waits in the doorway with tied witness files.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -44,10 +44,10 @@ Performance: Relief shows only as unhurried hands; nobody celebrates. Mây wants
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
 Radio operator: concise Southern Vietnamese voice through radio compression, off screen.
-Bộ đàm, qua thiết bị: Ban chuyên án báo: sổ đen, sổ đỏ đã khớp tang vật ở xưởng và lịch tàu.
-Mây (@May), nói trong hình: Hồ sơ nhân chứng Hòn Sóng đủ rồi, Thành.
+0.2–5.3s · Bộ đàm, qua thiết bị: Ban chuyên án báo về, sổ đen, sổ đỏ đã khớp tang vật ở xưởng và lịch tàu.
+5.4–8.3s · Mây (@May), nói trong hình: Hồ sơ nhân chứng Hòn Sóng đủ rồi, Thành.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

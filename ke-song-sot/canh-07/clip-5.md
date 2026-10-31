@@ -11,7 +11,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [TIMELINE AND LOCATION]
 Scene 07/60, clip 5/6; shot 07.5. Story time: D2 morning.
 Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
-Present-day morning: soft daylight through the east-facing cabin window as side key, open sky fill on the porch; neutral window side light inside the station.
+Present-day morning inside the police post: neutral daylight from the front windows as soft side key, flat ceiling practicals as fill, the old monitor's pale glow on the worn keys as a small cool accent, slow ceiling-fan shadows across the desk.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let verification produce the first clear discrepancy without a melodramatic computer reveal.
@@ -41,8 +41,8 @@ Performance: The mismatch registers through hands: Thành's fingers freeze, then
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Thành, ngoài khung hình: Chị Mây, số thẻ này không khớp hồ sơ nào hết. Giấy giả rồi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–4.5s · Thành, ngoài khung hình: Chị Mây, số thẻ này không khớp hồ sơ nào hết. Giấy giả rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

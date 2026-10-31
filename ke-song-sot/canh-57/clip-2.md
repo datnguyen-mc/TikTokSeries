@@ -40,8 +40,8 @@ Performance: Practical attention with grief held to one look: she wants the room
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Nhà của ba, giờ là nhà của mình.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–2.8s · Hạ (@Ha), nói trong hình: Nhà của ba, giờ là nhà của mình.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

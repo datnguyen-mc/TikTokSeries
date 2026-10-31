@@ -40,8 +40,8 @@ Performance: Thành keeps his voice functional; frustration leaks only through o
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
-Thành, qua thiết bị: Chị Mây, cổng phụ bị xe đẩy chặn, dây quấn chặt. Tụi em đang cắt.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–7.1s · Thành (@Phó Thành), nói trong hình: Chị Mây, cổng phụ bị xe đẩy chặn, dây quấn chặt. Tụi em đang cắt.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ Cart wheels stay planted until slack allows a partial lift, with no unexplained 
 
 [SOUND]
 Location bed: boots on metal steps and distant surf.
-Foreground sound: Rope strain, cart scrape and compressed report distinguish the work from an arbitrary clock sound.
+Foreground sound: Rope strain, cart scrape and his clipped report into the handset carry the work over the distant surf.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

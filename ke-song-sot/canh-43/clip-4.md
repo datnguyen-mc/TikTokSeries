@@ -12,14 +12,14 @@ Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck,
 [TIMELINE AND LOCATION]
 Scene 43/60, clip 4/6; shot 43.4. Story time: D7 dusk.
 Hòn Sóng concrete harbour apron: sea south with blue-painted wooden fishing boats moored along the edge, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
-Early night: harbour floodlight ON continuously as hard high key, car lamps unchanged, dark sea behind.
+Last blue dusk: harbour floodlight ON continuously as hard high key, car lamps unchanged, deep-blue sky over the darkening sea.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Give the audience a concrete route of escape at the moment Kiên exploits it.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 43.3, ending with Harbour lit steadily white; Mây a few paces along the safe line, left hand open at shoulder height, two officers spread behind her; Sơn slumped at the bollard across the apron, chest rising; both cars unmoved, engines idling.
+Previous editorial shot: 43.3, ending with Harbour lit steadily white; Mây a few paces along the safe line, left hand open at shoulder height, two officers spread behind her; far across the apron Sơn slumped at the bollard, chest rising, Bà Hai and Dũng standing still over him; Kiên and Hạ beside the white car west; both cars unmoved, engines idling.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -42,8 +42,8 @@ Performance: Thành reads geography before emotion: concentration, a flicker of 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
-Thành, qua thiết bị: Chị Mây, hướng tây! Kiên núp sau xe trắng, đang lôi Hạ lên cầu thang kỹ thuật.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–8.1s · Thành (@Phó Thành), nói trong hình: Chị Mây, hướng tây! Kiên núp sau xe trắng, đang lôi Hạ lên cầu thang kỹ thuật.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,7 +56,7 @@ Roof edge and car paint catch the new floodlight, service stair remains darker b
 
 [SOUND]
 Location bed: boat ropes, small waves and engines only when visible.
-Foreground sound: Radio compression carries the short report over shoes moving behind the idling car.
+Foreground sound: His low, clipped report into the handset carries over shoes moving behind the idling car.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

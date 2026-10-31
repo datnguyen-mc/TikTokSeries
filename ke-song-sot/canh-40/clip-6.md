@@ -42,8 +42,8 @@ Performance: Hạ calculates rather than panics: she tests his strength to learn
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Ông buông tay ra. Đường về, tôi tự biết đi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+6.5–9.7s · Hạ (@Ha), nói trong hình: Ông buông tay ra. Đường về, tôi tự biết đi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,7 +56,7 @@ Grey sleeve and his white cuff mark whose hand holds whom, with wind moving the 
 
 [SOUND]
 Location bed: boat ropes, small waves and engines only when visible.
-Foreground sound: Only cloth, breathing and established engines remain; do not add dialogue to explain the attempt.
+Foreground sound: Cloth, breathing and the established engines carry the shift; her one quiet line to Kiên comes only after she stops, with no extra words explaining the attempt.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Keep both engines idling under the first new demand. Do not re-establish the same five positions again.
 
 [END FRAME — natural motion continues]

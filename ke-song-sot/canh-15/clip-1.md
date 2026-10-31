@@ -14,7 +14,7 @@ City passenger pier, wide walkway, rail with glass wind panels, ferries beyond t
 Recent-past evening on the city pier: last daylight over the river as soft backlight, warm pier lamps as side key on faces; no hard neon.
 
 [SCENE OPENING HOOK — Mở cảnh 15: Quá Khứ: Đường Về]
-Scene goal: Hạ gieo kiến thức hải đăng và mục tiêu mở sạp hoa. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Hạ gieo kiến thức hải đăng và mục tiêu mở sạp hoa. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ introduce her own home as a desired future, not simply information Sơn will later use.
@@ -44,9 +44,9 @@ Performance: Hạ is warm and a little shy about home, wanting him to see it as 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Thấy đèn phà là em nhớ Hòn Sóng. Nhà em ở đó.
-Sơn (@Son), nói trong hình: Nhắc tới quê là mắt em sáng lên.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.7s · Hạ (@Ha), nói trong hình: Thấy đèn phà là em nhớ Hòn Sóng. Nhà em ở đó.
+6.8–9.4s · Sơn (@Son), nói trong hình: Nhắc tới quê là mắt em sáng lên.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

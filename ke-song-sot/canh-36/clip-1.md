@@ -25,7 +25,7 @@ Previous editorial shot: 35.6, ending with Coffee glass under Sơn's right hand,
 J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Afternoon on the main street: Sơn seated at the sea-facing table under the green awning; across the street the white car halted at the curb, engine idling, all doors shut.
+Afternoon on the main street: Sơn seated at the sea-facing table under the green awning; across the street the white car halted at the curb, engine idling, its front passenger door open and Kiên already standing beside it on the pavement in his white suit, both feet on the ground, fully out of the car and in clear view.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -34,9 +34,9 @@ Composition: Keep the white car, seated Sơn and Kiên's route between them toge
 Focus: Maintain the car in usable background view because Hạ is the immediate stake, not just transport.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.5s): Kiên steps out of the front passenger door buttoning his white jacket, two unnamed guards getting out behind him and staying by the car; crossing to the stall, he calls ahead how relaxed Sơn looks and how hard he was to find. Beat 2 (3.5–7.5s): He stops across the table, his white suit blocking the sea; Sơn looks up without rising, hands flat on the table, and answers that he was not hiding but waiting for Kiên to bring her. Beat 3 (7.5–10.0s): Kiên's smile holds a beat too long and his eyes flick back to the car; Sơn's gaze stays on him as the engine idles across the street.
+Beat 1 (0.0–3.5s): Kiên, already standing clear of the car, pushes the passenger door shut and buttons his white jacket, mouth closed, while the narrator introduces him; two unnamed guards get out behind him and stay by the car. Beat 2 (3.5–6.0s): Crossing the street to the stall, he calls ahead how relaxed Sơn looks and how hard he was to find, and stops across the table, his white suit blocking the sea. Beat 3 (6.0–10.0s): Sơn looks up without rising, hands flat on the table, and answers that he was not hiding but waiting for Kiên to bring her; Kiên's smile holds a beat too long and his eyes flick back to the car.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Arrival and greeting run together from door to table; Sơn's reply lands as Kiên stops; the last beat is a held, idling standoff.
+Action rhythm: The introduction plays over Kiên already standing outside the car, his greeting carries him to the table, and Sơn's reply lands as he stops; the last seconds are a held, idling standoff.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Car at the far curb in the background; Kiên's path runs from its front passenger door across the street and around to the seaward side of Sơn's table, facing him. Guards stay at the car; Sơn stays seated.
@@ -44,9 +44,11 @@ Performance: Kiên's ease is the intrusion: friendly, unhurried, owning the plac
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Kiên (@Vũ Kiên), nói trong hình: Ngồi ngắm biển thảnh thơi quá ha. Anh làm tôi tìm muốn mệt.
-Sơn (@Son), nói trong hình: Tôi không trốn. Tôi ngồi đây chờ anh dắt người tới.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
+Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
+0.2–3.0s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Vũ Kiên, kẻ muốn nuốt đường hàng của Bà Hai.
+3.6–5.9s · Kiên (@Vũ Kiên), nói trong hình: Thảnh thơi quá ha. Tìm anh muốn mệt.
+6.2–8.9s · Sơn (@Son), nói trong hình: Tôi không trốn. Tôi chờ anh dắt người tới.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -67,4 +69,4 @@ Kiên standing across the table from Sơn with his back to the sea wall, smile f
 Next shot 36.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid the narrator's voice starting while Kiên is still inside the car or climbing out of it; anyone's lips moving during the narrator's line.

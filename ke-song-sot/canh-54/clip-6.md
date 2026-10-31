@@ -42,15 +42,16 @@ Performance: Relief mixed with uncertainty about entering an old home; she asks 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Xong rồi hả? Sáng mai đưa tao về nhà ba nghen Mây.
-Mây (@May), nói trong hình: Chìa khóa nhà ba mày đây. Tao vẫn giữ giùm.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.7s · Hạ (@Ha), nói trong hình: Xong rồi hả? Sáng mai đưa tao về nhà ba nghen Mây.
+6.8–9.8s · Mây (@May), nói trong hình: Chìa khóa nhà ba mày đây. Tao vẫn giữ giùm.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Old brass key of Hạ's family house by the harbour, kept by Mây in her duty pouch until she lays it on the station table at 54.6; Hạ's own key afterwards.
 
 [VISIBLE TEXTURE]
 Scarf remains on the chair or with her, clean clothes and documented clip stay separate.

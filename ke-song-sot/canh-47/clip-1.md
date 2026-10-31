@@ -12,7 +12,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 47/60, clip 1/6; shot 47.1. Story time: D7 night continuous.
 Inside Bảy stationary van behind market wall, secured clean mattress, small warm lamp, medical bag, open rear toward safe lane.
-Same night: van lamp and parked-vehicle practicals as warm side light, cool lane darkness; helmets visible before the engine starts.
+Same night: van lamp and parked-vehicle practicals as warm side light, cool lane darkness.
 
 [SCENE OPENING HOOK — Mở cảnh 47: Tỉnh Lại]
 Scene goal: Sơn chấp nhận đi cùng Mây trong vai trò hỗ trợ, không tự lao đi. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
@@ -45,15 +45,16 @@ Performance: Sơn wants to hurry and resents his legs, yet concentrates like a p
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Từ từ. Co hai bàn chân cho tôi coi. Chưa chạy được đâu.
-Sơn (@Son), nói trong hình: Đầu tôi tỉnh rồi. Chỉ có chân là chậm.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Từ từ. Co hai bàn chân cho tôi coi. Chưa chạy được đâu.
+4.3–7.2s · Sơn (@Son), nói trong hình: Đầu tôi tỉnh rồi. Chỉ có chân là chậm.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with airway/breathing-support kit (no miracle antidote syringe).
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. After the escape it has stopped; do not add ticking or show the inner photo.
 
 [VISIBLE TEXTURE]
 LEFT bandage remains visible against dark clothes, closed watch stays with his RIGHT hand.

@@ -13,7 +13,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 51/60, clip 2/6; shot 51.2. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery: backup lamp switches on at clip 1, aimed seaward; faces lit by its safe side spill and the low work lamps.
+Night gallery: the backup lamp already on, aimed seaward; faces lit by its safe side spill and the low work lamps.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ complete the escape she prepared by changing her own position.
@@ -43,14 +43,15 @@ Performance: Hạ's escape is planned and compact; she hides fear behind purpose
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Hạ, sau lưng tao! Cúi xuống!
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–4.6s · Mây (@May), nói trong hình: Hạ, sau lưng tao! Cúi xuống!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Standard steel police handcuffs carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 Grey dress, sandals and loose hair stay consistent, scarf still absent and no new weapon appears in her hand.

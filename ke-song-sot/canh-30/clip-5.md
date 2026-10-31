@@ -11,7 +11,7 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 [TIMELINE AND LOCATION]
 Scene 30/60, clip 5/6; shot 30.5. Story time: D6 morning.
 Landward fish-market entrance, wheeled cart beside a rolling shutter, wet concrete and stacked plastic baskets, narrow aisle visible inside.
-Same morning fish-market light as scene 29: top light through roof gaps, bright exits backlit for clear geography, cool shade in the aisles.
+Morning at the landward market entrance: bright daylight outside as backlight, cool shade under the rolling shutter, bounce from wet concrete.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Move the story from chase to dangerous negotiation through Dũng's withdrawal.
@@ -22,18 +22,18 @@ Previous editorial shot: 30.4, ending with Dũng on his side of the wedged ice c
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Landward market entrance seen from its shade: Sơn standing just inside beside the jammed cart; out on the sunlit road, Dũng and two of his men backing toward the black car, its rear door open; road dust in the light.
+Landward market entrance seen from its shade: Sơn standing just inside beside the jammed cart; out on the sunlit road, Dũng alone backing toward the black car, its rear door open and its driver waiting at the wheel; road dust in the light.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Keep the market entrance, retreating men and car relationship clear in the wide shot.
+Composition: Keep the market entrance, the retreating Dũng and the waiting car clear in the wide shot.
 Focus: Hold enough street depth to show departure without a new car-start close-up.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.5s): Walking backward toward the car, Dũng points at Sơn across the road and names the place and time, his two men flanking him, while Sơn stays where he is in the shade. Beat 2 (3.5–7.0s): Dũng finishes with the condition, the book and no company, then turns his back and drops into the rear seat; his men climb in after him and the doors slam. Beat 3 (7.0–10.0s): The engine catches and the black car reverses away down the road, tyres crunching grit, dust lifting; Sơn holds his place inside the entrance, right hand on the cart's handle, eyes following the car.
+Beat 1 (0.0–3.5s): Walking backward toward the car, Dũng points at Sơn across the road and names the place and time, while Sơn stays where he is in the shade. Beat 2 (3.5–7.0s): Dũng finishes with the condition, the book and no company, then turns his back, drops into the rear seat and pulls the door shut. Beat 3 (7.0–10.0s): The engine catches and the black car reverses away down the road, tyres crunching grit, dust lifting; Sơn holds his place inside the entrance, right hand on the cart's handle, eyes following the car.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The instruction comes while Dũng is already withdrawing, the car doors close the exchange, and the departure carries the last seconds with Sơn still and watching.
+Action rhythm: The instruction comes while Dũng is already withdrawing, the rear door shutting on him closes the exchange, and the departure carries the last seconds with Sơn still and watching.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Market entrance in the foreground at screen left with Sơn in its shade; road and black car at screen right in depth. Dũng backs away from the entrance toward the car; Sơn never steps out into the light.
@@ -41,8 +41,8 @@ Performance: Dũng gives the order like a man who still holds the cards, not a b
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Tối nay Bà Hai chờ mày trên hải đăng. Muốn cứu con Hạ thì đem sổ, đi một mình.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.9s · Dũng (@Dũng), nói trong hình: Tối nay Bà Hai chờ mày trên hải đăng. Muốn cứu con Hạ thì đem sổ, đi một mình.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -63,4 +63,4 @@ The black car reversing away down the sunlit road, dust hanging behind it; Sơn 
 Next shot 30.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid henchmen flanking Dũng or following him into the car.

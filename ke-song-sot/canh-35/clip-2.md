@@ -22,7 +22,7 @@ Previous editorial shot: 35.1, ending with The three walking away from the table
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Behind the market wall: Bảy's van parked with both rear doors open, the cargo floor bare except for one empty fish crate beside a clean mattress; Linh at the open doors with his canvas medical bag; a loose cart to the left.
+Behind the market wall: Bảy's van parked with both rear doors open, the cargo floor bare except for one empty fish crate near the doors and a clean mattress; Linh already kneeling inside on the van floor beside the mattress, his canvas medical bag at his knee; Bảy at the foot of the rear step; a loose cart to the left.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -41,9 +41,9 @@ Performance: Familiar competence: two men who know what the space is for and do 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Thùng xe sạch rồi bác sĩ. Hẻm sau trống, khiêng cáng vô là chạy.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Nệm chằng chắc rồi. Túi cấp cứu để ngay cửa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.5s · Ông Bảy (@Ông Bảy), nói trong hình: Thùng xe sạch rồi bác sĩ. Hẻm sau trống, khiêng cáng vô là chạy.
+4.6–7.8s · Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Nệm chằng chắc rồi. Túi cấp cứu để ngay cửa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

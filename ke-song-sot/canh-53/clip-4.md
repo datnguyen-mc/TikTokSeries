@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 53/60, clip 4/6; shot 53.4. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery and stairs: stable work practicals as key, the beacon sweeping the water outside as a slow moving rim.
+Same night gallery: stable work practicals as key, the steady seaward backup beam unchanged since it switched on, its spill a soft cool rim from the sea side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Allow Hạ one ordinary act of care that respects the decision just made.
@@ -41,8 +41,8 @@ Performance: An ordinary act of care that respects his decision; she hides any f
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Hạ, ngoài khung hình: Để em cất vô túi cho anh.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–2.5s · Hạ, ngoài khung hình: Để em cất vô túi cho anh.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

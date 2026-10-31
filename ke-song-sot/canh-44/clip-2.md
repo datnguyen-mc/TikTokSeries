@@ -23,7 +23,7 @@ Previous editorial shot: 44.1, ending with Mây on the safe line at center, radi
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Rear lane behind the market wall: Bảy's van with rear doors open, warm lamp over a clean mattress inside; Sơn half-upright on a wheeled stretcher at the doors, eyes half-open; Linh at the stretcher's head, Bảy at its foot, checkered cloth on his shoulder.
+Rear lane behind the market wall: Bảy's van a few steps ahead with rear doors open, warm lamp over a clean mattress inside; Sơn half-upright on a wheeled stretcher, eyes half-open, its foot end a few steps short of the doors; Linh at the stretcher's head, Bảy at its foot, checkered cloth on his shoulder.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -42,15 +42,14 @@ Performance: Linh's calm is deliberate, aimed at the patient as much as the task
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Anh Sơn, nhịp thở còn đều. Vào xe rồi tôi theo dõi tiếp.
-Ông Bảy (@Ông Bảy), nói trong hình: Bác sĩ đỡ đầu nghen, cửa sau tui mở sẵn rồi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Anh Sơn, nhịp thở còn đều. Vào xe rồi tôi theo dõi tiếp.
+4.3–7.8s · Ông Bảy (@Ông Bảy), nói trong hình: Bác sĩ đỡ đầu nghen, cửa sau tui mở sẵn rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with airway/breathing-support kit (no miracle antidote syringe).
-- Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 
 [VISIBLE TEXTURE]
 Clean mattress contrasts with worn van metal; bandage LEFT and black suit remain identical to the pier.

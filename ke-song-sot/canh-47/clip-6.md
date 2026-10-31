@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 47/60, clip 6/6; shot 47.6. Story time: D7 night continuous.
 Stationary motorcycle on the safe lane before departure, Mây at front controls, Sơn pillion, helmets secured before engine starts.
-Same night: van lamp and parked-vehicle practicals as warm side light, cool lane darkness; helmets visible before the engine starts.
+Same night: van lamp and parked-vehicle practicals as warm side light, cool lane darkness.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Mây carry both responsibility and literal control of the journey.
@@ -41,8 +41,8 @@ Performance: Mây is focused, carrying both the patient and the operation, no ex
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Tổ Thành, tôi với Sơn lên bằng đường dốc chính, vào cửa lớn.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.0s · Mây (@May), nói trong hình: Tổ Thành, tôi với Sơn lên bằng đường dốc chính, vào cửa lớn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

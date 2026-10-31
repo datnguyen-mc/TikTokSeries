@@ -31,7 +31,7 @@ Composition: Frame over Sơn's near shoulder toward Dũng's three-quarter face a
 Focus: Keep Dũng's mouth and the blocking door edge clear, with the chair only a secondary cue.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Dũng's eyes slide past Sơn's shoulder to the chair still pushed in at the desk, untouched, then come back to Sơn's face. Beat 2 (3.0–6.5s): He shifts his heavy shoulder into the gap, the door edge moving with him to fill the opening, and makes his remark low and almost casual, the nail earring catching the alley light. Beat 3 (6.5–10.0s): Sơn gives him nothing, breath even, eyes level; after a held moment Dũng's mouth tightens and he eases back half a step, opening a narrow gap beside the door edge, his hand staying on the wood.
+Beat 1 (0.0–3.0s): Dũng's eyes slide past Sơn's shoulder to the chair still pushed in at the desk, untouched, then come back to Sơn's face. Beat 2 (3.0–6.5s): Dũng shifts his heavy shoulder into the gap, the door edge moving with him to fill the opening, and makes his remark low and almost casual, the nail earring catching the alley light. Beat 3 (6.5–10.0s): Sơn gives him nothing, breath even, eyes level; after a held moment Dũng's mouth tightens and he eases back half a step, opening a narrow gap beside the door edge, his hand staying on the wood.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The chair glance comes first and fast, the line lands in the middle with the blocked doorway, then a held silence before Dũng gives way, ending with the gap open and nobody through it.
 
@@ -41,8 +41,8 @@ Performance: Dũng's resentment leaks as a casual complaint; he wants Sơn to fe
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Má chừa ghế cho mày hoài. Còn tao bao năm nay vẫn đứng canh cửa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.6s · Dũng (@Dũng), nói trong hình: Má chừa ghế cho mày hoài. Còn tao bao năm nay vẫn đứng canh cửa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

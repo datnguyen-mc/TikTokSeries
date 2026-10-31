@@ -31,19 +31,19 @@ Composition: Preserve the same medium composition, table orientation and focus d
 Focus: Keep both eyelines and note-taking hand within the prior useful depth, without a new document insert.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): Mây lowers the phone and lays it face down beside the ledger, lifting her eyes to Sơn. Beat 2 (2.5–7.0s): Sơn says he will confess and accept the cuffs, but someone must be saved before the night ship on day seven, his voice dropping at the end; his left hand pushes the open backpack to the table's center, mouth toward her, and lets go. Beat 3 (7.0–10.0s): Mây flips her notebook open and writes the deadline in two short strokes, then, pen still on the page, asks who the person is that brought him here; Sơn's breath catches and his eyes stay on hers.
+Beat 1 (0.0–2.0s): Mây lowers the phone and lays it face down beside the ledger, lifting her eyes to Sơn. Beat 2 (2.0–6.5s): Sơn says he will confess and accept the cuffs, but someone must be saved before the night ship on day seven, his voice dropping at the end; his left hand pushes the open backpack to the table's center, mouth toward her, and lets go. Beat 3 (6.5–10.0s): Mây flips her notebook open and writes the deadline in two short strokes, then, pen still on the page, asks who the person is that brought him here; Sơn's breath catches and his eyes stay on hers.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A short reset, then the admission gets full room; Mây's writing begins only after it, and her question lands late so the clip ends on suspense rather than explanation.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Same table positions, Sơn screen left and Mây screen right. The backpack moves from Sơn's elbow to table center, opening toward Mây; notebook at her right hand, phone face down left of the ledger.
-Performance: Sơn admits his guilt flatly, then becomes exposed at the held person, the one thing he cannot hide. Mây hears both and keeps writing to hold her ground. No pleading, no swelling voice, no tears.
+Performance: Sơn admits his guilt flatly, then becomes exposed at the held person, the one thing he cannot hide. Mây hears him out first, then writes to hold her ground. No pleading, no swelling voice, no tears.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Tôi sẽ khai, chịu còng cũng được. Nhưng trước chuyến tàu đêm ngày bảy, phải cứu một người.
-Mây (@May), nói trong hình: Người đó là ai mà anh liều tới đây?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.1–6.4s · Sơn (@Son), nói trong hình: Tôi sẽ khai, chịu còng. Nhưng trước chuyến tàu đêm ngày bảy, phải cứu một người.
+7.6–9.8s · Mây (@May), nói trong hình: Người đó là ai mà anh liều tới đây?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

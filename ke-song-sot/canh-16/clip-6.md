@@ -31,7 +31,7 @@ Composition: The wide lower-door view shows both already descended, main path to
 Focus: Hold door, figures and path at readable depth, avoiding a second climb or another gallery establishing shot.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây swings the iron door shut, turns the key in the lock and tests the handle with a short tug. Beat 2 (3.0–6.5s): She works the service key free of the ring and clips it to her belt within easy reach, telling Sơn she keeps the service key and that he brings the data drive to the station tonight. Beat 3 (6.5–10.0s): Sơn answers with the hour and turns down the path toward town; Mây falls in a step behind him, both of them moving, the grass flattening around their boots in the wind.
+Beat 1 (0.0–3.0s): Mây swings the iron door shut, turns the key in the lock and tests the handle with a short tug. Beat 2 (3.0–6.5s): She works the service key free of the ring and clips it to her belt within easy reach, telling Sơn she keeps the service key and that tonight he comes down to the station to open the data drive with Thành. Beat 3 (6.5–10.0s): Sơn answers with the hour and turns down the path toward town; Mây falls in a step behind him, both of them moving, the grass flattening around their boots in the wind.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The lock is quick, the key and instruction share the middle, and his short answer turns straight into walking so the clip ends in motion toward the station.
 
@@ -41,9 +41,9 @@ Performance: Mây's urgency is procedural rather than panic; she wants the next 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Chìa cửa phụ tôi giữ. Tối nay anh đem ổ dữ liệu xuống đồn.
-Sơn (@Son), nói trong hình: Bảy giờ tối. Tôi mang tới.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.3s · Mây (@May), nói trong hình: Chìa cửa phụ tôi giữ. Tối nay anh xuống đồn, mở ổ dữ liệu với Thành.
+7.4–9.5s · Sơn (@Son), nói trong hình: Bảy giờ tối. Tôi có mặt.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -10,7 +10,7 @@ Thành wears his light-blue shirt and round glasses whose right temple arm is he
 [TIMELINE AND LOCATION]
 Scene 45/60, clip 3/6; shot 45.3. Story time: D7 night continuous.
 Lower lighthouse maintenance gate behind west harbour apron, narrow stair above it, cart can block the lower gate.
-Night: steady warm van lamp as low key inside, existing lighthouse work lights as cool top light on the stairs; no emergency strobe montage.
+Night at the lower service gate: the established harbour floodlight from the apron side as hard key on the open gateway, dim lighthouse work lights as cool top light up the narrow stair; no emergency strobes.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Pay off clearance of the lower barrier while preserving the remaining distance to Hạ.
@@ -40,8 +40,8 @@ Performance: Disciplined urgency: Thành's report is concise and sounds like pro
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
-Thành, qua thiết bị: Cổng phụ thông rồi, tổ một đang lên. Chị Mây giữ Kiên nói chuyện giùm em.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–7.3s · Thành (@Phó Thành), nói trong hình: Cổng phụ thông rồi, tổ một đang lên. Chị Mây giữ Kiên nói chuyện giùm em.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ The displaced cart stays beside the gate, no longer magically in its original bl
 
 [SOUND]
 Location bed: boots on metal steps and distant surf.
-Foreground sound: Boots change from concrete to metal, radio compression carrying only the actual clearance update.
+Foreground sound: Boots change from concrete to metal; his low voice into the handset carries only the actual clearance update.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

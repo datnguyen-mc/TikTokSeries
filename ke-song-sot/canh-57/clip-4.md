@@ -11,7 +11,7 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 57/60, clip 4/6; shot 57.4. Story time: D8 morning.
 Small empty strip at fish-market entrance chosen for Hạ flower table, chalk marks, no completed shop yet.
-Same day-eight morning: soft window daylight inside the house, bright open sun on the public walkway with sea bounce on faces.
+Day-eight morning at the fish-market entrance: low early sun from the east rakes across the bare concrete strip, soft shade under the market roof edge behind, warm bounce on faces and cool shadows.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Hạ's independence a working decision rather than an inspirational slogan delivered to camera.
@@ -41,9 +41,9 @@ Performance: Mây's question is a friend's worry dressed as practicality. Hạ's
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Mày không đợi tòa xử xong rồi mới mở sạp sao Hạ?
-Hạ (@Ha), nói trong hình: Không đợi. Tao mở sạp để sống đời tao, từ hôm nay.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.9s · Mây (@May), nói trong hình: Mày không đợi tòa xử xong rồi mới mở sạp sao Hạ?
+4.0–7.7s · Hạ (@Ha), nói trong hình: Không đợi. Tao mở sạp để sống đời tao, từ hôm nay.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

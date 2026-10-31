@@ -14,7 +14,7 @@ One-room wooden cabin with weathered plank walls and a corrugated-iron roof, por
 Present-day noon: daylight through the east cabin window as side key on the table; hard sun on the porch with faces in its shade.
 
 [SCENE OPENING HOOK — Mở cảnh 19: Hai Mảnh Khăn]
-Scene goal: Hai mảnh cùng một chiếc khăn khớp nhau và thúc đẩy chuyến đi. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Hai mảnh cùng một chiếc khăn khớp nhau và thúc đẩy chuyến đi. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.4s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let matching torn edges create stronger evidence while preserving what the cloth cannot tell them.
@@ -25,7 +25,7 @@ Previous editorial shot: 18.6, ending with Thành walking away from the stall to
 Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action from 0.0s; no transformation, morph, dissolve or replay of the old shot.
 
 [START FRAME — state only, not an action to repeat]
-Two separate pale-blue cloth pieces lie flat on the bare cabin table: the short torn fragment at left, the long remainder at right, torn ends a hand-width apart. Sơn's bare hands rest on the near edge; Mây's khaki-sleeved hand lies still at the far edge.
+Two separate pale-blue cloth pieces lie flat on the bare cabin table: the short torn fragment at left, the long remainder at right lying on its opened clear evidence bag, torn ends a hand-width apart. Sơn's bare hands rest on the near edge; Mây's khaki-sleeved hand lies still at the far edge.
 
 [CAMERA]
 85mm detail shot. Hands and the relevant object move decisively from 0.0s and stay spatially readable.
@@ -44,8 +44,8 @@ Performance: Longing held inside procedure: he wants the edges to close and will
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Sơn, ngoài khung hình: Khớp từng sợi. Khăn Hạ quấn cổ hôm bị bắt. Nhưng khăn đâu nói được cô ấy còn sống.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.4–6.4s · Sơn, ngoài khung hình: Khăn Hạ quấn cổ hôm bị bắt. Khớp từng sợi. Nhưng khăn đâu nói được cô ấy còn sống.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -63,7 +63,7 @@ Foreground sound: Only cloth sliding over wood and his low off-screen sentence i
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-The two pale-blue pieces lie side by side on the table, torn edges matched thread for thread but parted by a narrow strip of bare wood; Sơn's bare hands rest curled at the near edge; Mây's khaki-sleeved hand at the far edge; window light on the weave.
+The two pale-blue pieces lie side by side on the table, the long one on its opened evidence bag, torn edges matched thread for thread but parted by a narrow strip of bare wood; Sơn's bare hands rest curled at the near edge; Mây's khaki-sleeved hand at the far edge; window light on the weave.
 Next shot 19.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

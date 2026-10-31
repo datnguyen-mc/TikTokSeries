@@ -3,9 +3,9 @@ Continue the scene seamlessly from the final frame of clip 4. Same composition a
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit trousers and open-collar white shirt, the suit jacket off and lying on the motel bed, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, crisp, clear Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no handcuffs left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
+Sơn's suit jacket is still off, lying on the bed: open-collar white shirt and black suit trousers, left shirt sleeve rolled back above the white medical bandage on his LEFT wrist, right hand uninjured and bare. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
 
 [TIMELINE AND LOCATION]
@@ -41,8 +41,8 @@ Performance: He gives the knowledge flatly, like a confession of old work; the u
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Xưởng nước mắm cũ bên sông. Hàng gom ở đây trước khi ra cảng. Tôi biết cửa bốc hàng xuống bến.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–6.4s · Sơn (@Son), nói trong hình: Xưởng nước mắm cũ bên sông. Hàng gom ở đây trước khi ra cảng. Tôi biết cửa bốc hàng xuống bến.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

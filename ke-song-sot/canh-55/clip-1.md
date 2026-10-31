@@ -44,8 +44,8 @@ Performance: Mây is procedural on purpose: she gives him no warmth to lean on, 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Anh đã rõ quyền của mình. Giờ tôi ghi âm. Anh muốn khai từ việc nào?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.0s · Mây (@May), nói trong hình: Anh đã rõ quyền của mình. Giờ tôi ghi âm. Anh muốn khai từ việc nào?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

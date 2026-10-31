@@ -8,6 +8,10 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 
 **Khung hình sạch, không logo đài truyền hình:** mọi prompt cấm logo đài hoặc kênh ở góc hình, watermark, chữ chạy tin tức, lower-third (dải tên), biểu tượng LIVE/REC, đồng hồ thời gian và mọi đồ họa trên hình. Màn hình máy tính, điện thoại trong truyện không hiện kênh, bản tin hay thương hiệu đài; biểu tượng hãng tàu chỉ là hình đơn giản không đọc được. Dữ liệu cảnh không dùng chữ TV/tin tức/truyền hình để model không dựng thành bản tin, và validator chặn các chữ này. Khi duyệt render, soi bốn góc khung: thấy logo hoặc chữ thì tạo lại clip đó.
 
+**Người dẫn chuyện giới thiệu nhân vật:** khi một trong chín nhân vật chính lần đầu xuất hiện trên hình, người dẫn chuyện (một giọng trầm ấm miền Nam, khác mọi nhân vật) giới thiệu ngắn tên và vai trò, đúng nhịp nhân vật ra hình. Không giới thiệu lại khi đổi tuổi hoặc trang phục, không giới thiệu người không tên. Validator bắt buộc đủ chín lời giới thiệu và chặn người dẫn chuyện ở mọi clip khác. Nếu giọng dẫn lệch giữa các clip, lồng lại chín câu này bằng cùng một giọng khi dựng.
+
+**Thoại đi cùng chuyển động:** mỗi câu có khung giây riêng trùng nhịp hành động đang diễn ra, không chồng nhau, tối đa 4,5 âm tiết mỗi giây. Đổi mốc nhịp trong ACTION thì sửa khung giây của câu tương ứng.
+
 | Nhân vật | Handle | media_id đã có |
 |---|---|---|
 | Sơn | `@Son` | `28356180-dea1-4c6c-bd80-8c3a41106957` |
@@ -68,7 +72,7 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **KIEN_PHOTO:** Photograph of Kiên in white suit with a hand-drawn building sketch on its back; no legible words.
 - **BLACK_BOOK:** Original BLACK leather ledger, receipt and original USB initially fixed inside back cover.
 - **RED_BOOK:** Original RED cloth ledger, handwritten signature shapes, distinct from black leather ledger.
-- **RED_COPY:** Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- **RED_COPY:** COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 - **USB:** Original USB from black ledger, preserved in an evidence sleeve at the station after 17.1.
 - **USB_COPY:** Separate working USB copy of the original, used with the borrowed laptop. Original stays in evidence.
 - **TOKEN:** USB-shaped hardware security token from the safe; NOT the metal door key.
@@ -92,6 +96,9 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **MED_BAG:** Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with airway/breathing-support kit (no miracle antidote syringe).
 - **CLIPBOARD:** Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
 - **COFFEE_TRAY:** Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
+- **KIEN_GUN:** Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
+- **HOUSE_KEY:** Old brass key of Hạ's family house by the harbour, kept by Mây in her duty pouch until she lays it on the station table at 54.6; Hạ's own key afterwards.
+- **MAY_FOLDER:** Mây's own thin grey card investigation folder, held by her alone; never confused with Thành's dark leather evidence folder.
 
 ## Âm thanh và bản dọc
 

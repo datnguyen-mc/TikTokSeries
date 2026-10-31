@@ -9,8 +9,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [TIMELINE AND LOCATION]
 Scene 48/60, clip 5/6; shot 48.5. Story time: D7 night continuous.
-Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
-Night road lit from the front by the motorcycle headlamp; lighthouse work lights as cool top light and low practicals inside.
+Narrow maintenance stair and hatch below the gallery, inner latch on the hatch, backup-light lever below the final landing.
+Night on the narrow service stair: one dim caged work light as cool key, deep shadow below the hatch.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make a tiny survival decision become an actual route for other people.
@@ -40,8 +40,8 @@ Performance: Quiet professionalism: the officer's touch on the clip is careful, 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
-Thành, qua thiết bị: Chị Mây, con tin chèn kẹp tóc giữ cửa nắp cho mình. Tổ một đã qua.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+3.0–7.8s · Thành, ngoài khung hình: Chị Mây, con tin chèn kẹp tóc giữ cửa nắp cho mình. Tổ một đã qua.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ No new tool opens the hatch; the recovered clip stays in Thành RIGHT palm, not 
 
 [SOUND]
 Location bed: metal latch, careful footsteps and distant sea wind.
-Foreground sound: Careful metal contact and low radio compression replace loud entry sounds that would contradict their quiet approach.
+Foreground sound: Careful metal contact and Thành's whisper close to the handset replace loud entry sounds that would contradict their quiet approach.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

@@ -20,7 +20,7 @@ Let recognition of Sơn's changed hands become a shared practical understanding,
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 50.3, ending with Kiên facing the main doorway, eyes locked on Mây, gun low in his left hand, right hand on Hạ's arm; Mây in the doorway with palms still open; the service side behind him outside his attention, a soft figure settling there.
+Previous editorial shot: 50.3, ending with Kiên facing the main doorway, eyes locked on Mây, gun low in his left hand, right hand on Hạ's arm; Mây in the doorway with palms still open; deep and soft on the right side of frame, where the inner wall curves away, an officer's figure settling on the service side, outside Kiên's eyeline.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -43,8 +43,8 @@ Performance: Fear turns into concentration: she reads his changed hands as a pro
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Anh Sơn. Anh không đeo găng nữa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.3s · Hạ (@Ha), nói trong hình: Anh Sơn. Anh không đeo găng nữa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

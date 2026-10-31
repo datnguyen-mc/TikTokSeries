@@ -35,7 +35,7 @@ Composition: Keep Bà Hai behind the desk and Dũng near the rear door within on
 Focus: Keep all three positions legible, with the door not swallowed by excessive blur.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn crosses the shop toward the teak desk with an even, controlled stride, gloved hands loose at his sides, as Bà Hai greets him without rising. Beat 2 (3.0–6.5s): He stops at the desk's near edge; behind him Dũng eases the rear door shut, the latch clicking softly, and stays planted beside it, while Bà Hai points the unlit holder at the empty chair, inviting him to sit. Beat 3 (6.5–10.0s): Sơn glances at the chair and remains standing, hands still, answering in a few low words; Bà Hai lowers the holder, her composed half-smile unchanged, and Dũng stays motionless by the door.
+Beat 1 (0.0–3.5s): Sơn crosses the shop toward the teak desk with an even, controlled stride, gloved hands loose at his sides, while the narrator introduces Bà Hai behind the desk and Dũng at the rear door; Bà Hai watches him come without rising. Beat 2 (3.5–6.5s): He stops at the desk's near edge; behind him Dũng eases the rear door shut, the latch clicking softly, and stays planted beside it, while Bà Hai points the unlit holder at the empty chair and invites him to sit. Beat 3 (6.5–10.0s): Sơn glances at the chair and remains standing, laying his gloved right hand flat on the desk's near edge instead of sitting, answering in a few low words; Bà Hai lowers the holder, her composed half-smile unchanged, and Dũng stays motionless by the door.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A clean walk to the desk, the soft door click held as the room closes, the invitation, then Sơn's short refusal; the frame ends with three people placed and nobody yielding.
 
@@ -45,9 +45,11 @@ Performance: Bà Hai's warmth is practiced and real enough to unsettle; she want
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Nửa đêm con ghé là có chuyện. Ngồi đi, rồi nói má nghe.
-Sơn (@Son), nói trong hình: Con đứng được, má. Con nói không lâu.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
+Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
+0.2–3.4s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Bà Hai, trùm đường dây Rắn Đen. Dũng, tay chân thân tín.
+3.6–6.2s · Bà Hai (@HaiNgoc), nói trong hình: Nửa đêm con ghé. Ngồi đi, nói má nghe.
+6.6–9.0s · Sơn (@Son), nói trong hình: Con đứng được, má. Con nói không lâu.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -64,7 +66,7 @@ Foreground sound: Door latch is quiet but distinct; her invitation stays convers
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn standing at the near edge of the teak desk facing Bà Hai, gloved hands at his sides, the empty chair beside him; Bà Hai seated with the holder lowered, eyes on him; Dũng planted by the shut rear door, bag strap across his chest; lamp light warm on the silk.
+Sơn standing at the near edge of the teak desk facing Bà Hai, gloved right hand lying flat and still on the desk edge, left hand at his side, the empty chair beside him; Bà Hai seated with the holder lowered, eyes on him; Dũng planted by the shut rear door, bag strap across his chest; lamp light warm on the silk.
 Next shot 02.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

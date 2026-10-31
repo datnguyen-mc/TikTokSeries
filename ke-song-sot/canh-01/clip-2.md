@@ -18,7 +18,7 @@ Earn Bảy's later kindness through an ordinary helpful act, without making Sơn
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 01.1, ending with Sơn alone at the crossroad, turned toward town and moving into his first step, backpack on his left shoulder, left hand on its strap; the road where the coach stood is empty, fine dust still settling.
+Previous editorial shot: 01.1, ending with Sơn standing one pace clear of the open passenger door, backpack on his left shoulder, left hand on its strap, right hand free, eyes on the town to screen right; the two passengers small in the background at screen left; the driver still seated at the wheel on the left of the cab, engine idling, dust drifting through the low sun.
 J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
@@ -31,7 +31,7 @@ Composition: Track at pedestrian height with the road edge and rolling crate vis
 Focus: Favor the returning crate and both upper bodies; keep the road legible behind.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn walks toward the stall at a steady pace, eyes on the road; as Bảy stacks one more crate, the top crate tips off and rolls across the pavement toward the road. Beat 2 (3.0–6.5s): Without breaking stride Sơn steps into its path, stops it with his right hand and sets it into Bảy's hands; Bảy thanks him and asks who he is looking for. Beat 3 (6.5–10.0s): Sơn stops beside the counter, right hand back at his side, and gives his name and a short answer, eyes flicking to the road; Bảy hugs the crate, squint softening into curiosity, as the tracking move settles.
+Beat 1 (0.0–3.0s): Sơn walks toward the stall at a steady pace, eyes on the road, while the narrator introduces Bảy; as Bảy stacks one more crate, the top crate tips off and rolls across the pavement toward the road. Beat 2 (3.0–6.5s): Without breaking stride Sơn steps into its path, stops it with his right hand and sets it into Bảy's hands; Bảy thanks him and asks who he is looking for. Beat 3 (6.5–10.0s): Sơn stops beside the counter, right hand back at his side, and gives a short answer without his name, eyes flicking to the road; Bảy hugs the crate, squint softening into curiosity, as the tracking move settles.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Walking pace from the first frame; the rolling crate is the only sudden moment and is absorbed in one movement. Speech begins at the handover, and the clip ends on Sơn's short answer with both men still settling.
 
@@ -41,9 +41,11 @@ Performance: Sơn treats the catch as nothing, routine competence with his atten
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Cảm ơn chú nghen. Mới xuống xe đò hả, kiếm ai vậy?
-Sơn (@Son), nói trong hình: Tôi tên Sơn. Tìm người quen gần bến cảng.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
+Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
+0.2–2.9s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Đây là ông Bảy, chủ quán cà phê đầu bờ kè.
+3.0–6.3s · Ông Bảy (@Ông Bảy), nói trong hình: Cảm ơn chú nghen. Mới xuống xe đò hả, kiếm ai vậy?
+6.5–8.6s · Sơn (@Son), nói trong hình: Tìm người quen gần bến cảng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

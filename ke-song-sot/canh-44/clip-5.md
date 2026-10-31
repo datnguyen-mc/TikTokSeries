@@ -33,7 +33,7 @@ Composition: Observe from behind his established crate, van path ahead and Mây 
 Focus: Keep the path and both endpoints legible instead of obscuring everything in shallow darkness.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Dũng rises from behind the crate and steps onto the route the stretcher just took, hugging the market wall, his eyes locked on the lit van doors where Linh bends over Sơn. Beat 2 (3.0–6.5s): He moves in a low, heavy walk from crate to wall shadow, pressing the work bag against his hip so it cannot swing; at the far end of the lane Mây turns back from the pier and asks her radio where Dũng is. Beat 3 (6.5–10.0s): Mid-sentence her head turns down the lane; her eyes find his shape against the wall and she starts toward the van, one hand on her radio, while Dũng keeps advancing, unaware he has been seen.
+Beat 1 (0.0–3.0s): Dũng rises from behind the crate and steps onto the route the stretcher just took, hugging the market wall, his eyes locked on the lit van doors where Linh bends over Sơn. Beat 2 (3.0–6.5s): He moves in a low, heavy walk from crate to wall shadow, pressing the work bag against his hip so it cannot swing; at the far end of the lane Mây turns back from the pier and asks her radio where Dũng is. Beat 3 (6.5–10.0s): As her call ends, her head turns down the lane; her eyes find his shape against the wall and she starts toward the van, one hand on her radio, while Dũng keeps advancing, unaware he has been seen.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Dũng commits to the route at the start and never stops moving; Mây's question arrives mid-shot; recognition lands late, leaving the confrontation for its own shot.
 
@@ -43,8 +43,8 @@ Performance: Dũng is fixated, a loyal dog tracking what belongs to his mistress
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Tổ hai, Dũng đâu rồi? Soát sau dãy thùng cá.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.2s · Mây (@May), nói trong hình: Tổ hai, Dũng đâu rồi? Soát sau dãy thùng cá.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

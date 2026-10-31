@@ -3,7 +3,7 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice: focused, calm Southern Vietnamese male voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset; no handcuffs on her belt until fresh pairs arrive at 35.1. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
@@ -42,8 +42,8 @@ Performance: Sơn trades away his surest way to reach Hạ; the words come out d
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Mai không thấy Hạ tận mắt thì tôi lùi. Không trao gì hết.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Sơn (@Son), nói trong hình: Mai không thấy Hạ tận mắt thì tôi lùi. Không trao gì hết.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

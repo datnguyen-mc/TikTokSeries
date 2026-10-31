@@ -11,7 +11,7 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 58/60, clip 4/6; shot 58.4. Story time: D8 late morning.
 Hòn Sóng main street between inland crossroad and market: worn narrow asphalt, low tube houses with half-raised roll-up shutters, motorbikes parked on the pavement, fishing nets drying along the sea wall, coffee stall beside the sea wall. No readable signs.
-Day-eight late morning: daylight through the side mesh window as soft side key inside the vehicle, hard coastal sun outside.
+Day-eight late morning on the street-side walkway: hard, high coastal sun, short dappled shade under the walkway trees, bright sea bounce lifting the faces.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Return Hạ to her own direction immediately after the one farewell has happened.
@@ -41,13 +41,14 @@ Performance: The turn is deliberate and a little difficult: Hạ wants her own d
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Đi thôi Mây. Còn cái bàn hoa phải đóng.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.1s · Hạ (@Ha), nói trong hình: Đi thôi Mây. Còn cái bàn hoa phải đóng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- One white lily from Hạ family-home vase, wrapped at 57.5 and held at the public walkway during departure.
 
 [VISIBLE TEXTURE]
 The same single flower stays in her hand, no petals scatter or symbolic object falls behind her.

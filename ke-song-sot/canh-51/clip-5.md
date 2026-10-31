@@ -13,7 +13,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 51/60, clip 5/6; shot 51.5. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery: backup lamp switches on at clip 1, aimed seaward; faces lit by its safe side spill and the low work lamps.
+Night gallery: the backup lamp already on, aimed seaward; faces lit by its safe side spill and the low work lamps.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Transfer control to the law as soon as the physical danger is contained.
@@ -33,7 +33,7 @@ Composition: The wide re-establishes the inner floor, dropped gun, officer with 
 Focus: Keep the three simultaneous responsibilities readable at separate positions, no rapid internal cuts between them.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây crosses to the wall and lifts the handgun by the grip, muzzle to the floor, sliding it into an evidence bag from her duty pouch; the officer reaches Kiên and takes his arms. Beat 2 (3.0–6.5s): Mây tells Kiên the gun is secured and his days of holding people are over, while the officer closes his own cuffs on Kiên's wrists. Beat 3 (6.5–10.0s): Hạ hurries from the doorway, kneels at Sơn's side and takes his shoulders, telling him to lean on her and breathe; Sơn lets his weight go into her hands.
+Beat 1 (0.0–3.0s): Mây crosses to the wall and lifts the handgun by the grip, muzzle to the floor, while the officer reaches Kiên and takes his arms. Beat 2 (3.0–6.5s): Mây slides the gun into an evidence bag from her duty pouch and tells Kiên it is secured and his days of holding people are over, while the officer closes his own cuffs on Kiên's wrists. Beat 3 (6.5–10.0s): Hạ hurries from the doorway, kneels at Sơn's side and takes his shoulders, telling him to lean on her and breathe; Sơn lets his weight go into her hands.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Custody and care run in parallel: the gun first, then the cuffs under Mây's line, then Hạ's arrival; each person settles into a stable role by the end.
 
@@ -43,15 +43,16 @@ Performance: Mây closes the threat with plain authority and hides her relief. H
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Súng đã thu. Kiên, hết đường giữ người rồi.
-Hạ (@Ha), nói trong hình: Anh Sơn, tựa vào em mà thở.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.9s · Mây (@May), nói trong hình: Súng đã thu. Kiên, hết đường giữ người rồi.
+7.6–9.7s · Hạ (@Ha), nói trong hình: Anh Sơn, tựa vào em mà thở.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Standard steel police handcuffs carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 The weapon stays inside and becomes evidence, no toss into the sea or fresh restraint gadget appears.

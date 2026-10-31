@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-Bà Hai wears her deep-violet silk áo bà ba; the green jade bracelet has been removed from her left wrist and placed beside her unlit holder as evidence.
+Bà Hai wears her deep-violet silk áo bà ba; as the shot opens the green jade bracelet is still on her LEFT wrist, and she removes it herself during this shot, setting it on the stone beside her unlit holder.
 
 
 [TIMELINE AND LOCATION]
@@ -17,7 +17,7 @@ Reduce the symbol of ownership to an object that no longer protects its owner.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 49.2, ending with Dũng turned back toward the custody road, taking his next step under the escort's hand, cuffed wrists low in front; Bà Hai on the bench in the background, head bowed toward the jade bracelet on her left wrist, hands on her knees.
+Previous editorial shot: 49.2, ending with Dũng turned back toward the custody road, taking his next step under the escort's hand, wrists still cuffed behind his back; Bà Hai on the bench in the background, head bowed toward the jade bracelet on her left wrist, hands on her knees.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -40,8 +40,8 @@ Performance: Pride first: she will not let anyone strip the bracelet from her. U
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Bà Hai, ngoài khung hình: Đừng ai đụng vào. Để tôi tự tháo.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–2.8s · Bà Hai, ngoài khung hình: Đừng ai đụng vào. Để tôi tự tháo.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

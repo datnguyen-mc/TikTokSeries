@@ -37,12 +37,13 @@ Action rhythm: Listening fills the opening; the single real attempt takes the lo
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Sơn flat on the mattress, face toward the van roof; bandaged LEFT hand palm down at his side. Only the left fingers move; head, shoulders and right hand stay where they lie. Linh's sleeve stays beyond his right shoulder.
-Performance: Helpless awareness: the mind is back while the body refuses, frustration burning behind still eyes. He hides fear even from himself. Lips stay at rest under the narration. No grimacing strain, no tears.
+Performance: Helpless awareness: the mind is back while the body refuses, frustration burning behind still eyes. He hides fear even from himself. Lips stay at rest under the voice-over. No grimacing strain, no tears.
 
 
 [DIALOGUE]
-0.2–5.0s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Tôi nghe hết. Hạ đang bị lôi lên tháp. Còn tay tôi, nhấc không nổi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–3.0s · Sơn, lời dẫn ngoài hình: Tôi nghe hết. Hạ đang bị lôi lên tháp.
+7.0–9.0s · Sơn, lời dẫn ngoài hình: Còn tay tôi, nhấc không nổi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -55,7 +56,7 @@ Warm van lamp reveals tired skin without corpse colouring, black collar retains 
 
 [SOUND]
 Location bed: breathing and distant muffled police radio.
-Foreground sound: Breathing and low radio murmur support the single internal line, with no heartbeat countdown.
+Foreground sound: Breathing and low radio murmur sit under his two short internal lines, with no heartbeat countdown.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Keep Sơn breathing unchanged across the cut to Linh beside him. Hạ route returns only in its next dedicated shot.
 
 [END FRAME — natural motion continues]

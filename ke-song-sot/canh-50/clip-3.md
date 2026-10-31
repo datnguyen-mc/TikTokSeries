@@ -32,24 +32,25 @@ Composition: Use medium coverage from the established side of the axis, Mây fac
 Focus: Favor Mây's speaking face while preserving Kiên's eyeline toward her; do not rack to the hidden officer.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây keeps her feet planted and turns her open palms a little outward, eyes steady on Kiên's face. Beat 2 (3.0–6.5s): She sets one condition: to get the car he first takes his hand off Hạ; Kiên answers at once, warning her to stay where she is, his knuckles whitening on Hạ's arm. Beat 3 (6.5–10.0s): Mây gives a small nod and stays exactly where she is; Kiên's whole attention stays on the main doorway while, soft and unnoticed far behind him, an officer's shape eases into the service side.
+Beat 1 (0.0–2.5s): Mây keeps her feet planted and turns her open palms a little outward, eyes steady on Kiên's face. Beat 2 (2.5–8.8s): She sets one condition: to get the car he first takes his hand off Hạ; Kiên answers at once, warning her to stay where she is, his knuckles whitening on Hạ's arm. Beat 3 (8.8–10.0s): Mây gives a small nod and stays exactly where she is; Kiên's whole attention stays on the main doorway while, soft and unnoticed deep on the right side of frame where the inner wall curves away, an officer's shape eases into the service side, far from the doorway.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Mây's line and Kiên's quick refusal sit close together, then her deliberate stillness holds his eyes long enough for the background to change.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Mây frame left in the doorway, Kiên and Hạ in the foreground frame right, axis unchanged. The officer moves only in deep soft background behind Kiên, never between Mây and the pair.
+Blocking: Mây frame left in the doorway, Kiên and Hạ in the foreground frame right, axis unchanged. The officer appears only deep and soft on the right side of frame where the inner wall curves away, never near the doorway, on Kiên's eyeline or between Mây and the pair.
 Performance: Mây offers a first achievable step and hides her real purpose, buying his attention. Kiên snaps back to keep control he is losing. No taunt about his weakness, no smirk.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Muốn có xe thì trước hết bỏ tay khỏi cô ấy.
-Kiên (@Vũ Kiên), nói trong hình: Đứng yên đó. Bước thêm nửa bước là tôi lùi ra lan can.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.6–5.4s · Mây (@May), nói trong hình: Muốn có xe thì trước hết bỏ tay khỏi cô ấy.
+5.5–8.7s · Kiên (@Vũ Kiên), nói trong hình: Đứng yên đó. Bước thêm nửa bước là tôi lùi ra lan can.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 Stable practical lighting keeps the service side less prominent without making the space unreadably black.
@@ -61,7 +62,7 @@ Foreground sound: Wind and restrained footfalls remain motivated; her voice is f
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Kiên facing the main doorway, eyes locked on Mây, gun low in his left hand, right hand on Hạ's arm; Mây in the doorway with palms still open; the service side behind him outside his attention, a soft figure settling there.
+Kiên facing the main doorway, eyes locked on Mây, gun low in his left hand, right hand on Hạ's arm; Mây in the doorway with palms still open; deep and soft on the right side of frame, where the inner wall curves away, an officer's figure settling on the service side, outside Kiên's eyeline.
 Next shot 50.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

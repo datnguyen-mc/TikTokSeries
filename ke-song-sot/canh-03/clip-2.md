@@ -11,7 +11,7 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 03/60, clip 2/6; shot 03.2. Story time: D1 morning.
 Hòn Sóng main street between inland crossroad and market: worn narrow asphalt, low tube houses with half-raised roll-up shutters, motorbikes parked on the pavement, fishing nets drying along the sea wall, coffee stall beside the sea wall. No readable signs.
-Morning coastal sun from the east backlighting the street; faces in cool open shade under the green awning with soft bounce from the counter; natural skin tones.
+Morning coastal sun from the east, low and warm, backlighting the two riders along the open sea-wall street; their faces in soft cool fill from the open sky and the pale sea wall; restrained contrast, natural skin tones.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Introduce Mây through a precise observation rather than an instant supernatural diagnosis.
@@ -31,7 +31,7 @@ Composition: Track the motorcycle smoothly at its established low street speed, 
 Focus: Keep the riders' faces and hand signal readable; the watched customer remains off screen.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Thành rides at low street speed along the sea wall; behind him Mây turns her helmeted head toward the coffee stall sliding by off screen, something there catching her eye. Beat 2 (3.0–6.5s): Her eyes narrow and hold on that point while the motorcycle rolls on; she taps Thành's shoulder twice with her left hand and gives a short instruction close to his helmet. Beat 3 (6.5–10.0s): Thành answers and eases the motorcycle to the curb just past the stall, boots touching down; the engine idles, both helmets stay on, and Mây keeps looking back at the stall as the tracking move comes to rest.
+Beat 1 (0.0–3.0s): Thành rides at low street speed along the sea wall while the narrator introduces Mây and Thành; behind him Mây turns her helmeted head toward the coffee stall sliding by off screen, something there catching her eye. Beat 2 (3.0–6.5s): Her eyes narrow and hold on that point while the motorcycle rolls on; she taps Thành's shoulder twice with her left hand and gives a short instruction close to his helmet. Beat 3 (6.5–10.0s): Thành answers and eases the motorcycle to the curb just past the stall, boots touching down; the engine idles, both helmets stay on, and Mây keeps looking back at the stall as the tracking move comes to rest.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Riding, noticing, signalling and stopping form one continuous progression; the stop arrives late and soft, with both helmets on and the engine idling under the last look.
 
@@ -41,9 +41,11 @@ Performance: Mây is interested and economical: a trained observation, not a hun
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Thành, dừng sau quán chú Bảy. Người áo ô liu đang canh đường.
-Thành (@Phó Thành), nói trong hình: Dạ, em tấp vô lề liền.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
+Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
+0.2–2.9s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Mây, công an Hòn Sóng. Thành, cấp phó của cô.
+3.0–6.3s · Mây (@May), nói trong hình: Dừng sau quán chú Bảy. Người áo ô liu đang canh đường.
+6.5–8.2s · Thành (@Phó Thành), nói trong hình: Dạ, em tấp vô lề liền.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

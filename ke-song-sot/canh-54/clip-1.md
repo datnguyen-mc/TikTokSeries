@@ -16,7 +16,7 @@ Small fictional town police post with tiled floor and ceiling fan, public desk i
 Later that night at the station: neutral desk lamp as low side key, kettle steam catching it, quiet dark windows.
 
 [SCENE OPENING HOOK — Mở cảnh 54: Lời Khai Của Hạ]
-Scene goal: Hạ kể các lựa chọn mình đã làm và cung cấp chứng cứ mới. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Hạ kể các lựa chọn mình đã làm và cung cấp chứng cứ mới. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Begin Hạ's account with restored choice rather than immediately demanding another performance of her ordeal.
@@ -46,9 +46,9 @@ Performance: Hạ weighs whether to speak before taking the cup and hides her ex
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Uống trà đi. Mệt thì nghỉ, tao vẫn ở đây.
-Hạ (@Ha), nói trong hình: Tao khai luôn tối nay. Kêu Thành ghi đi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.2s · Mây (@May), nói trong hình: Uống trà đi. Mệt thì nghỉ, tao vẫn ở đây.
+6.5–9.4s · Hạ (@Ha), nói trong hình: Tao khai luôn tối nay. Kêu Thành ghi đi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -62,7 +62,7 @@ White blouse and jeans appear only after the stated change, long blue scarf lies
 
 [SOUND]
 Location bed: ceiling fan and quiet paperwork.
-Foreground sound: Kettle and fan are ordinary background sounds, Mây's line stays conversational rather than therapeutic narration.
+Foreground sound: Kettle and fan are ordinary background sounds, Mây's line stays conversational rather than a therapeutic monologue.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

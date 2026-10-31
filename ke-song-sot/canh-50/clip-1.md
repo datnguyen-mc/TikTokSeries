@@ -16,7 +16,7 @@ Lighthouse gallery: main stair door east, service hatch north, inner masonry wal
 Night gallery: low work lamps as warm side key, moonlit sea as cool fill from the south rail; backup lamp still off.
 
 [SCENE OPENING HOOK — Mở cảnh 50: Đỉnh Hải Đăng]
-Scene goal: Mây giữ đối thoại, Hạ nhận ra lối thoát, Sơn không áp sát nòng súng. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Mây giữ đối thoại, Hạ nhận ra lối thoát, Sơn không áp sát nòng súng. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 2.5s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Give the audience a complete danger map before the last negotiation begins.
@@ -46,13 +46,14 @@ Performance: Mây's calm is a chosen tool; she hides her assessment of the gun a
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Kiên, tôi dừng ở đây. Cho Hạ đứng riêng, tôi nghe anh nói.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–6.5s · Mây (@May), nói trong hình: Kiên, tôi dừng ở đây. Cho Hạ đứng riêng, tôi nghe anh nói.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 Work lamps and sea fill remain low, backup lamp still OFF, white suit already rumpled.

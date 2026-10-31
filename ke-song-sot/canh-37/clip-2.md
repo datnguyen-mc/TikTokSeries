@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 37/60, clip 2/6; shot 37.2. Story time: D7 afternoon.
 Covered rear lane behind the coffee stall under a patched corrugated-iron roof, isolated from the public road, map table beside the rear door, crates of empty bottles against the wall.
-Same afternoon as scene 36: quiet shade behind the awning, soft daylight bouncing in from the lane side.
+Present-day afternoon: quiet shade behind the awning, soft daylight bouncing in from the lane side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Separate the limited preview they will offer from the false admission they will never sign.
@@ -41,13 +41,13 @@ Performance: Their hands agree without ceremony: Sơn handles the pages with del
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Sơn, ngoài khung hình: Mấy trang này chỉ để Kiên xem. Bản gốc đã về tay điều tra viên.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–4.8s · Sơn, ngoài khung hình: Mấy trang này chỉ để Kiên xem. Bản gốc đã về tay điều tra viên.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Thin preview sheets and the heavier folder create a concrete visual distinction.

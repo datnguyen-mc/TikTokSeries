@@ -22,7 +22,7 @@ Previous editorial shot: 02.2, ending with Kiên's printed portrait lies face up
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Sơn standing at the teak desk facing Bà Hai, who sits behind it with the unlit holder in her right fingers; Kiên's photograph lies face up near his side of the desk, his gloved hands at his sides.
+Sơn standing at the teak desk facing Bà Hai, who sits behind it with the unlit holder in her right fingers; Kiên's photograph lies face up near his side of the desk, a finger's width from his gloved right hand resting still on the desk edge, his left hand at his side.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -31,7 +31,7 @@ Composition: Use the medium composition to include his face and the ticket landi
 Focus: Keep the ticket shape visible without readable print while his eyes remain the emotional center.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn's eyes drop to Kiên's photograph and come back up without his hands moving toward it; his right hand goes to the outer pocket of his jacket. Beat 2 (3.0–6.5s): He draws out a slim paper ticket and sets it on the desk between them, apart from the photograph, with a small tap of paper on wood, stating his terms as it lands. Beat 3 (6.5–10.0s): His gloved hand withdraws and both hands settle at his sides, very still, as if rehearsed; he holds Bà Hai's gaze, breathing evenly, while she looks from the ticket up to his face without answering.
+Beat 1 (0.0–3.0s): Sơn's eyes drop to Kiên's photograph and come back up; his gloved right hand lifts off the desk away from the photograph, never touching it, and goes to the outer pocket of his jacket. Beat 2 (3.0–6.5s): He draws out a slim paper ticket and sets it on the desk between them, apart from the photograph, with a small tap of paper on wood, stating his terms as it lands. Beat 3 (6.5–10.0s): His gloved hand withdraws and both hands settle at his sides, very still, as if rehearsed; he holds Bà Hai's gaze, breathing evenly, while she looks from the ticket up to his face without answering.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A quick look at the photograph, a deliberate placement under the line, then a long held stillness that hands the silence to Bà Hai at the seam.
 
@@ -41,8 +41,8 @@ Performance: Restrained and prepared, braced for resistance: he states terms rat
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Lấy được sổ của Kiên, con nghỉ. Vé con mua sẵn rồi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.7s · Sơn (@Son), nói trong hình: Lấy được sổ của Kiên, con nghỉ. Vé con mua sẵn rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

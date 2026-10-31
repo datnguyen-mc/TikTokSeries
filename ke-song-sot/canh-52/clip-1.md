@@ -15,7 +15,7 @@ Lighthouse gallery: main stair door east, service hatch north, inner masonry wal
 Same night gallery after the arrest: steady backup-lamp spill as soft side key, low work lamps as fill for close-ups; no new light source.
 
 [SCENE OPENING HOOK — Mở cảnh 52: Lần Đầu Mở Đồng Hồ]
-Scene goal: Trả lời lời hẹn bằng một hành động duy nhất, khăn được trao lại có nguồn. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Trả lời lời hẹn bằng một hành động duy nhất, khăn được trao lại có nguồn. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Introduce the object as a difficult ordinary admission rather than another grand reveal.
@@ -45,8 +45,8 @@ Performance: Sơn admits the stopped night without asking forgiveness; he hides 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Đồng hồ của ba em. Nó dừng từ đêm anh chạy khỏi em.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.0s · Sơn (@Son), nói trong hình: Đồng hồ của ba em. Nó dừng từ đêm anh chạy khỏi em.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

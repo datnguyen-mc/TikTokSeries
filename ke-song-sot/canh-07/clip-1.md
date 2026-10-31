@@ -43,8 +43,8 @@ Performance: The count matters to him, so the hand stays careful and steady. The
 
 
 [DIALOGUE]
-0.2–5.5s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Sáng ngày thứ hai. Vạch thứ hai chưa khắc xong, xe công an đã lên tới hiên.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.3s · Sơn, lời dẫn ngoài hình: Sáng ngày thứ hai. Vạch thứ hai chưa khắc xong, xe công an đã lên tới hiên.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

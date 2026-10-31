@@ -8,6 +8,7 @@ Muốn đưa Hạ về, cần chịu trách nhiệm về việc mình đã làm.
 
 Nhận diện: Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose.
 Giọng xuyên phim: low, crisp, clear Southern Vietnamese male voice.
+Lời người dẫn chuyện khi xuất hiện lần đầu (01.1): Hắn là Sơn, bốn mươi lăm tuổi. Giang hồ gọi là Bóng Ma.
 
 Biến thể và prompt ảnh tham chiếu:
 - **SON:** Photorealistic reference of the SAME approved Vietnamese identity, age 45, cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -23,6 +24,7 @@ Muốn tìm bạn và giữ thị trấn. Kiểm chứng trước khi hợp tác
 
 Nhận diện: Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak.
 Giọng xuyên phim: firm, clear Southern Vietnamese female voice.
+Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó của cô.
 
 Biến thể và prompt ảnh tham chiếu:
 - **MAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -35,6 +37,7 @@ Muốn trở về mở sạp hoa. Để mảnh khăn, gửi dấu qua video, tr�
 
 Nhận diện: Vietnamese woman, slim build, gentle alert eyes, long black hair.
 Giọng xuyên phim: warm, clear, expressive Southern Vietnamese female voice.
+Lời người dẫn chuyện khi xuất hiện lần đầu (04.1): Người con gái ấy là Hạ, chủ tiệm hoa.
 
 Biến thể và prompt ảnh tham chiếu:
 - **HA:** Photorealistic reference of the SAME approved Vietnamese identity, age 32, cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -49,6 +52,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 Nhận diện: Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist.
 Giọng xuyên phim: calm, authoritative Southern Vietnamese female voice with clear diction.
+Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Bà Hai, trùm đường dây Rắn Đen. Dũng, tay chân thân tín.
 
 Biến thể và prompt ảnh tham chiếu:
 - **HAINGOC:** Photorealistic reference of the SAME approved Vietnamese identity, age 60, silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -60,6 +64,7 @@ Muốn được Bà Hai công nhận. Ghen với Sơn, giữ người theo lện
 
 Nhận diện: Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear.
 Giọng xuyên phim: rough, direct Southern Vietnamese male voice.
+Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Bà Hai, trùm đường dây Rắn Đen. Dũng, tay chân thân tín.
 
 Biến thể và prompt ảnh tham chiếu:
 - **DUNG:** Photorealistic reference of the SAME approved Vietnamese identity, age 35, black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -70,6 +75,7 @@ Mục tiêu xuyên suốt là bịt lời Sơn và nuốt đường hàng của 
 
 Nhận diện: Vietnamese man, tall, slicked-back black hair, wide practiced smile.
 Giọng xuyên phim: smooth Southern Vietnamese male voice becoming clipped under pressure.
+Lời người dẫn chuyện khi xuất hiện lần đầu (36.1): Vũ Kiên, kẻ muốn nuốt đường hàng của Bà Hai.
 
 Biến thể và prompt ảnh tham chiếu:
 - **KIEN:** Photorealistic reference of the SAME approved Vietnamese identity, age 50, tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -80,6 +86,7 @@ Từ người kiểm tra hồ sơ thành người bảo vệ tuyến dân và l�
 
 Nhận diện: Vietnamese man, skinny, round glasses, neat side-parted hair.
 Giọng xuyên phim: quick, polite, alert Southern Vietnamese male voice.
+Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó của cô.
 
 Biến thể và prompt ảnh tham chiếu:
 - **THANH:** Photorealistic reference of the SAME approved Vietnamese identity, age 26, plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -90,6 +97,7 @@ Giữ người sống bằng theo dõi và hỗ trợ. Không hứa một phút 
 
 Nhận diện: Vietnamese man, thin, grey hair, wire-rim glasses.
 Giọng xuyên phim: focused, calm Southern Vietnamese male voice.
+Lời người dẫn chuyện khi xuất hiện lần đầu (13.1): Người giữ phòng khám Hòn Sóng, bác sĩ Linh.
 
 Biến thể và prompt ảnh tham chiếu:
 - **LINH:** Photorealistic reference of the SAME approved Vietnamese identity, age 55, worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -100,6 +108,7 @@ Bảo vệ người lạ vì từng thấy hành vi tử tế. Giữ lối cho d
 
 Nhận diện: Vietnamese man, stocky, white moustache, deeply tanned face.
 Giọng xuyên phim: resonant, friendly elderly Southern Vietnamese male voice.
+Lời người dẫn chuyện khi xuất hiện lần đầu (01.2): Đây là ông Bảy, chủ quán cà phê đầu bờ kè.
 
 Biến thể và prompt ảnh tham chiếu:
 - **BAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 70, white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Plain grey studio background, full body and portrait, no text, no real actor likeness.

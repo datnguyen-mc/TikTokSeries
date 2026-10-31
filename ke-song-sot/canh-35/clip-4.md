@@ -40,8 +40,8 @@ Performance: A settled choice, not a ceremony: he keeps the suit and refuses the
 
 
 [DIALOGUE]
-0.2–4.1s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Bộ đồ đen, tôi mặc lại. Đôi găng, tôi để lại đây.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–3.9s · Sơn, lời dẫn ngoài hình: Bộ đồ đen, tôi mặc lại. Đôi găng, tôi để lại đây.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ Soft old leather against worn canvas differs from the fresh left wrist bandage.
 
 [SOUND]
 Location bed: wind through wood joints and remote surf.
-Foreground sound: One quiet fold and bag rustle play over the cabin wind, with no narrator required.
+Foreground sound: One quiet fold and bag rustle sit under Sơn's short voice-over, over the cabin wind; no score.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

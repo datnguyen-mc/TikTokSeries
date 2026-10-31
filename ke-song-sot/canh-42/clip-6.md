@@ -7,6 +7,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original cuff ring remains on RIGHT wrist; no usable loose cuff end. Voice: rough, direct Southern Vietnamese male voice.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; no backpack on him, it stays on the cabin cot. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip still pinned at the back of her hair. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers. Kiên wears his tailored white suit and polished shoes, luxury gold wristwatch glinting on his left wrist.
 
 
@@ -24,7 +25,7 @@ Previous editorial shot: 42.5, ending with Bà Hai standing between Sơn and Dũ
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Dusk on the apron: Kiên west of center gripping Hạ's left upper arm with his right hand; Bà Hai beside the seated Sơn at the bollard near center, hand on his shoulder; the copy envelope untouched on the center seam; white car west.
+Dusk on the apron: Kiên west of center gripping Hạ's left upper arm with his right hand; Bà Hai beside the seated Sơn at the bollard near center, hand on his shoulder, Dũng a pace behind her; the copy envelope untouched on the center seam; white car west.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -43,13 +44,13 @@ Performance: Kiên demands both assets in a smooth voice that begins to clip; he
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Kiên (@Vũ Kiên), nói trong hình: Bà Hai, giao cả người lẫn phong bì đây. Con bé theo tôi làm bảo hiểm.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.0s · Kiên (@Vũ Kiên), nói trong hình: Bà Hai, giao cả người lẫn phong bì đây. Con bé theo tôi làm bảo hiểm.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Grey hem presses against her planted sandals, COPY envelope remains separate and untouched on concrete.
@@ -61,7 +62,7 @@ Foreground sound: A shoe scrape and taut fabric give her resistance weight under
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: The envelope remains on the center seam. Keep idling engines and sea under the contested ownership; police commands begin only at 43.3.
 
 [END FRAME — natural motion continues]
-Kiên west of center, right hand still on Hạ's left upper arm, leaning toward the white car; Hạ's sandals planted, free shoulder turned toward the inner apron; Bà Hai beside the collapsed Sơn at the bollard; the copy envelope untouched on the center seam where Sơn placed it.
+Kiên west of center, right hand still on Hạ's left upper arm, leaning toward the white car; Hạ's sandals planted, free shoulder turned toward the inner apron; Bà Hai beside the collapsed Sơn at the bollard, Dũng a pace behind her; the copy envelope untouched on the center seam where Sơn placed it.
 Next shot 43.1: Match cut hình dạng/tư thế, không morph. Do not perform its action inside this clip.
 
 [AVOID]

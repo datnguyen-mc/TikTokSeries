@@ -23,7 +23,7 @@ Previous editorial shot: 18.2, ending with Bảy standing square in the counter'
 J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Seafront street by the stall: Mây and Thành walking toward Dũng from screen left, a support vehicle parked farther back; Dũng standing beside the overturned plastic chair; his two men by the black cars at screen right.
+Seafront street by the stall: Mây and Thành walking toward Dũng from screen right, a support vehicle parked farther back on that side; Dũng standing beside the overturned plastic chair left of center; his two men beside the two parked black cars at screen left.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -32,19 +32,19 @@ Composition: The wide view retains the fallen chair, Mây and Thành approaching
 Focus: Keep the chair and all three body positions legible, with no need for a new handcuff close-up.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây and Thành come up the street and stop a few paces from Dũng and the fallen chair, Thành half a step behind her with his folder. Beat 2 (3.0–6.5s): Mây tells Dũng by name to set the chair back and that questions here go through the law, then waits, hands loose; Dũng holds her stare. Beat 3 (6.5–10.0s): With a hard breath he bends, rights the chair with a sharp knock of its legs on the pavement and straightens, sneering that the station chief showed up fast and he only came with a message for Sơn; his men stay by their cars.
+Beat 1 (0.0–2.0s): Mây and Thành come up the street and stop a few paces from Dũng and the fallen chair, Thành half a step behind her with his folder. Beat 2 (2.0–6.0s): Mây tells Dũng by name to set the chair back and that questions here go through the law, then waits, hands loose; Dũng holds her stare. Beat 3 (6.0–10.0s): With a hard breath Dũng bends and rights the chair with a sharp knock of its legs on the pavement, then straightens and sneers that the station chief is quick and he only came with a message for Sơn; his men stay by their cars.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The approach is short, the order and the wait take the middle so compliance matters, and the restored chair plus his jab finish the clip upright.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Mây and Thành enter from screen left and stop left of center; Dũng and the chair right of center; his men by the cars at screen right; the support vehicle deep in the background left.
+Blocking: Mây and Thành enter from screen right and stop right of center; Dũng and the chair left of center; his men by the parked black cars at screen left; the support vehicle deep in the background right.
 Performance: Mây's calm is non-negotiable; she wants compliance first and conversation after. Dũng obeys with visible resentment, keeping his menace in the eyes, never a clown. Thành stays steady. No hand on the cuffs.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Dựng ghế lại, anh Dũng. Muốn hỏi ai thì nói chuyện đúng luật.
-Dũng (@Dũng), nói trong hình: Trưởng đồn ra mặt lẹ ha. Tao chỉ nhắn thằng Sơn một câu.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.1–5.0s · Mây (@May), nói trong hình: Dựng ghế lại, anh Dũng. Muốn hỏi ai thì theo luật.
+7.1–9.8s · Dũng (@Dũng), nói trong hình: Trưởng đồn lẹ ghê. Tao chỉ nhắn thằng Sơn một câu.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,7 +59,7 @@ Coastal daylight keeps the restored chair as ordinary furniture, not a newly her
 
 [SOUND]
 Location bed: distant motorcycles and muted market voices.
-Foreground sound: A second, different chair sound belongs only to its restoration, followed by her concise instruction.
+Foreground sound: Her concise instruction lands first; a second, different chair sound belongs only to the restoration, then his low jab.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

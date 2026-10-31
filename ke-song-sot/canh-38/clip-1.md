@@ -11,7 +11,7 @@ Younger Bà Hai (age 35) wears a simpler violet áo bà ba with the green jade b
 [TIMELINE AND LOCATION]
 Scene 38/60, clip 1/6; shot 38.1. Story time: PAST twenty-five years earlier rainy evening.
 Narrow rear alley of the silk shop, stockroom door beneath a shallow awning.
-Distant-past rainy evening: warm silk-shop lamps as key from the desk side, cooler rain light at the windows and door.
+Distant-past rainy evening in the alley: warm lamplight spilling from the open stockroom doorway as key on young Bà Hai and the dry strip under the awning; cool blue rain light and wet reflections on young Sơn out in the alley.
 
 [SCENE OPENING HOOK — Mở cảnh 38: Quá Khứ: Đôi Găng Đầu Tiên]
 Scene goal: Ơn nuôi dưỡng biến thành quyền sở hữu qua một món quà. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
@@ -44,9 +44,9 @@ Performance: He is hungry and wary, ashamed to need anything and testing whether
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Đứng ngoài mưa chi vậy con? Vô ăn chén cơm nóng đã.
-Sơn (@Son), nói trong hình: Con không có tiền đâu cô. Cho con đứng nhờ thôi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.9s · Bà Hai (@HaiNgoc), nói trong hình: Đứng ngoài mưa chi vậy con? Vô ăn chén cơm nóng đã.
+4.0–7.5s · Sơn (@Son), nói trong hình: Con không có tiền đâu cô. Cho con đứng nhờ thôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 37/60, clip 3/6; shot 37.3. Story time: D7 afternoon.
 Covered rear lane behind the coffee stall under a patched corrugated-iron roof, isolated from the public road, map table beside the rear door, crates of empty bottles against the wall.
-Same afternoon as scene 36: quiet shade behind the awning, soft daylight bouncing in from the lane side.
+Present-day afternoon: quiet shade behind the awning, soft daylight bouncing in from the lane side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Expose a specific spatial limitation so later escape feels like exploitation, not police forgetting a door.
@@ -41,14 +41,14 @@ Performance: Mây includes the limit she cannot fix and says it plainly, wanting
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Cơ động, anh chốt ngã rẽ đường lớn lên tháp. Lối bộ dưới tường thì mình hết người.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.6s · Mây (@May), nói trong hình: Cơ động, anh chốt ngã rẽ đường lớn lên tháp. Lối bộ dưới tường thì mình hết người.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Creased paper and a narrow drawn path make resources feel finite rather than omniscient.

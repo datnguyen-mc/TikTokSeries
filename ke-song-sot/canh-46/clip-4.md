@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. fresh custody cuffs applied at 46.4; the cut old cuff is removed and logged separately, not reused. Voice: rough, direct Southern Vietnamese male voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. the cut old cuff ring is still on his RIGHT wrist while fresh custody cuffs are applied in this shot. Voice: rough, direct Southern Vietnamese male voice.
 Detail on hands only: Mây's rolled khaki sleeves and one fresh intact pair of steel handcuffs taken from her belt. Dũng's bare forearms behind his back, the old cut steel cuff ring still hanging on his RIGHT wrist from the garage escape.
 
 
@@ -41,8 +41,8 @@ Performance: Hands work with calm efficiency, no flourish; this is procedure, no
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Mây, ngoài khung hình: Dẫn hắn đi. Chiếc vòng cũ trên tay phải, tháo ra niêm phong riêng.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+6.5–9.8s · Mây, ngoài khung hình: Dẫn hắn đi. Chiếc vòng cũ trên tay phải, tháo ra niêm phong riêng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -63,4 +63,4 @@ Dũng's wrists locked behind his back in the fresh intact cuffs, the old cut rin
 Next shot 46.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid the old cut ring disappearing from Dũng's RIGHT wrist or being joined to the new cuffs; it is removed only after this shot.

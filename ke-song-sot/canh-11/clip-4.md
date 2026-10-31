@@ -41,9 +41,9 @@ Performance: Thành delivers the finding efficiently, a little proud. Mây's res
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Thành (@Phó Thành), nói trong hình: Tỉnh trả lời rồi chị. Xe đen đứng tên công ty điều vận đó.
-Mây (@May), nói trong hình: Vậy người tìm Sơn dính tới tàu hàng. Lớn hơn giấy giả rồi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.5s · Thành (@Phó Thành), nói trong hình: Tỉnh trả lời rồi chị. Xe đen đứng tên công ty điều vận đó.
+4.6–8.6s · Mây (@May), nói trong hình: Vậy người tìm Sơn dính tới tàu hàng. Lớn hơn giấy giả rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -137,6 +137,38 @@ class FilmContinuityTests(unittest.TestCase):
             self.assertIn(film.CLEAN_FRAME,text,c['id'])
             self.assertIn('TV station or channel logos',text,c['id'])
 
+    def test_each_lead_is_introduced_by_the_narrator_at_first_appearance(self):
+        first=film.first_appearances(self.plan,self.shots)
+        self.assertEqual(set(first),set(self.plan['identities']))
+        for base,cid in first.items():
+            intro=[d for d in self.index[cid]['dialogue'] if d['speaker']=='NARRATOR']
+            self.assertTrue(intro and self.plan['identities'][base]['name'].casefold() in intro[0]['text'].casefold(),cid)
+        narrated={c['id'] for c in self.shots if any(d['speaker']=='NARRATOR' for d in c['dialogue'])}
+        self.assertEqual(narrated,set(first.values()))
+        self.assertTrue(all(d['speaker']=='NARRATOR' for d in self.index['01.1']['dialogue']))
+        altered=copy.deepcopy(self.shots)
+        shot=next(c for c in altered if c['id']==first['KIEN'])
+        shot['dialogue']=[d for d in shot['dialogue'] if d['speaker']!='NARRATOR']
+        with self.assertRaisesRegex(ValueError,'without a narrator introduction'):
+            film.validate(self.plan,altered)
+
+    def test_each_line_is_timed_inside_the_take_with_its_beat(self):
+        for i,c in enumerate(self.shots):
+            text=film.render_prompt(self.plan,c,self.shots[i-1] if i else None,
+                                    self.shots[i+1] if i<359 else None)
+            end=0.0
+            for d in c['dialogue']:
+                start,stop=d['at']
+                self.assertGreaterEqual(start,end,c['id'])
+                self.assertLessEqual(film.syllables(d['text'])/(stop-start),film.MAX_SYLLABLES_PER_SECOND,c['id'])
+                self.assertIn(f"{start:.1f}–{stop:.1f}s · ",text,c['id'])
+                end=stop
+        altered=copy.deepcopy(self.shots)
+        shot=next(c for c in altered if len(c['dialogue'])>1)
+        shot['dialogue'][1]['at']=list(shot['dialogue'][0]['at'])
+        with self.assertRaisesRegex(ValueError,'overlap or run out of order'):
+            film.validate(self.plan,altered)
+
     def test_no_shot_is_framed_as_television(self):
         altered=copy.deepcopy(self.shots)
         altered[5]['action']=altered[5]['action'].replace('Beat 3','A TV news report plays. Beat 3',1)

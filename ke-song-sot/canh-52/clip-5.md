@@ -32,19 +32,19 @@ Composition: Frame Mây beside the seated pair with both existing evidence sleev
 Focus: Keep the two sizes distinguishable and the handover legible, no isolated glamour shot of scarf fluttering.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây opens the larger sleeve and draws out the long folded scarf, keeping the fragment's sealed sleeve in her other hand. Beat 2 (3.0–6.5s): She lays the scarf in Hạ's hands, telling her this is her piece, brought by Dũng and kept as evidence; Hạ's fingers close on the silk and find the torn edge. Beat 3 (6.5–10.0s): Hạ thanks her and asks her to keep the short piece in the file; Mây nods, tucks the sealed sleeve into her duty pouch and rises to her feet.
+Beat 1 (0.0–2.5s): Mây opens the larger sleeve and draws out the long folded scarf, keeping the fragment's sealed sleeve in her other hand. Beat 2 (2.5–6.0s): She lays the scarf in Hạ's hands, telling her this is her piece, brought by Dũng and kept as evidence; Hạ's fingers close on the silk and find the torn edge. Beat 3 (6.0–10.0s): Hạ thanks her and asks her to keep the short piece in the file; Mây nods, tucks the sealed sleeve into her duty pouch and rises to her feet.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The scarf comes out at once, changes owner in the middle under Mây's line, and Hạ's short answer lets Mây withdraw with the small piece.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Mây kneels frame left, Hạ center, Sơn frame right against the inner wall. The long scarf passes from Mây's right hand into Hạ's hands; the short sleeve never leaves Mây.
+Blocking: Sơn frame left against the inner wall, Hạ center, Mây crouched frame right at Hạ's free side. The long scarf passes from Mây's right hand into Hạ's hands; the short sleeve never leaves Mây.
 Performance: Mây's warmth is familiar and dry; she hides emotion behind procedure and wants Hạ to own something again. Hạ receives the cloth quietly and thinks of the evidence. No fluttering scarf, no hug.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Phần khăn dài của mày đây. Dũng đem tới, tao giữ làm chứng.
-Hạ (@Ha), nói trong hình: Cảm ơn Mây. Mảnh ngắn cứ giữ trong hồ sơ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.6–5.9s · Mây (@May), nói trong hình: Phần khăn dài của mày đây. Dũng đem tới, tao giữ làm chứng.
+6.1–8.7s · Hạ (@Ha), nói trong hình: Cảm ơn Mây. Mảnh ngắn cứ giữ trong hồ sơ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -22,7 +22,7 @@ Previous editorial shot: 08.2, ending with Envelope lying on the concrete midway
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-The document envelope open on the concrete, flap folded back, a photograph's corner and a hard dark shape showing inside; Sơn's black-gloved right hand hovering just above it; the toes of Dũng's boots at the top edge, still.
+The document envelope on the concrete, flap half open, a photograph's corner and a hard dark shape showing inside; Sơn's black-gloved right hand hovering just above it; the toes of Dũng's boots at the top edge, still.
 
 [CAMERA]
 85mm detail shot. Hands and the relevant object move decisively from 0.0s and stay spatially readable.
@@ -41,8 +41,8 @@ Performance: Recognition lives in the fingers: they stop, then retreat with care
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Sơn, ngoài khung hình: Ảnh tao với con dấu của Kiên. Tụi mày dựng sẵn để đổ tội cho tao.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+3.1–6.6s · Sơn, ngoài khung hình: Ảnh tao, con dấu của Kiên. Tụi mày dựng sẵn để gài tao.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

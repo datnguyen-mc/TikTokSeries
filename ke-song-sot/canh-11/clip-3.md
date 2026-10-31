@@ -40,8 +40,8 @@ Performance: Disciplined suspicion: she sees an edge, not contents, and knows th
 
 
 [DIALOGUE]
-0.2–6.1s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Mây, lời dẫn ngoài hình: Có góc hộp màu tối trên xà nhà. Chưa biết bên trong là gì. Ghi lại, chưa kết luận.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+3.8–9.4s · Mây, lời dẫn ngoài hình: Có góc hộp màu tối trên xà nhà. Chưa biết bên trong là gì. Ghi lại, chưa kết luận.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

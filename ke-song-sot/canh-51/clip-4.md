@@ -13,7 +13,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 51/60, clip 4/6; shot 51.4. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery: backup lamp switches on at clip 1, aimed seaward; faces lit by its safe side spill and the low work lamps.
+Night gallery: the backup lamp already on, aimed seaward; faces lit by its safe side spill and the low work lamps.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Sơn's moral choice visible without giving him implausible strength after Tê.
@@ -38,20 +38,21 @@ Play each beat once, in order, from the start state to the end state; no gesture
 Action rhythm: The pitch against the rail lands first, the choice and the two short lines fill the middle, and the settle onto the floor happens one time, ending on heavy breathing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Rail frame right, inner wall frame left; Sơn pulls Kiên from the rail toward frame left. The gun stays at the base of the inner wall, out of reach of both, the doorway soft behind.
+Blocking: Same handheld framing as the seam: Kiên pitched against the sea rail at lower frame right, the dropped gun at the base of the inner wall further back at frame right, the doorway soft at frame left. Sơn hauls Kiên inward off the rail toward open floor at frame center, clear of the gun, which stays out of reach of both.
 Performance: Sơn decides to save the man who tried to own him before his face can show any feeling; he wants no one else to fall. Kiên's need breaks his polish for a moment. No heroic grunt, no one-arm hoist.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Tôi giữ anh rồi. Ngả vào trong!
-Kiên (@Vũ Kiên), nói trong hình: Đừng buông tôi ra, Sơn.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.3s · Sơn (@Son), nói trong hình: Tôi giữ anh rồi. Ngả vào trong!
+5.4–7.2s · Kiên (@Vũ Kiên), nói trong hình: Đừng buông tôi ra, Sơn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Standard steel police handcuffs carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 Gun remains on the same inner concrete spot, bandage stays LEFT and the rail neither breaks nor invents new damage.

@@ -6,6 +6,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original cuff ring remains on RIGHT wrist; no usable loose cuff end. Voice: rough, direct Southern Vietnamese male voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear, expressive Southern Vietnamese female voice.
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; no backpack on him, it stays on the cabin cot. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip still pinned at the back of her hair. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel cuff ring hanging on his RIGHT wrist from the garage escape.
 
 
@@ -23,7 +24,7 @@ Previous editorial shot: 42.3, ending with Sơn's head tipping a few degrees, ey
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Dusk: Sơn's knees beginning to give on the center seam beside the copy envelope, Dũng gripping his jacket from the right, a mooring bollard just behind Sơn; Hạ held in the west background, straining toward him.
+Dusk: Sơn's knees beginning to give on the center seam beside the copy envelope, Dũng gripping his jacket from the right, a mooring bollard just behind Sơn; Hạ held by Kiên in the west background, straining toward him.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -42,14 +43,14 @@ Performance: Sơn cannot stop the descent but keeps breathing, eyes half-open an
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Ngấm Tê rồi, Bóng Ma. Ngồi yên, mày phải còn nguyên cho má.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.0s · Dũng (@Dũng), nói trong hình: Ngấm Tê rồi, Bóng Ma. Ngồi yên, mày phải còn nguyên cho má.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Bollard and concrete retain their established surfaces, with no new blood, debris or shattered objects.
@@ -61,7 +62,7 @@ Foreground sound: Use cloth dragging against the bollard and one soft shoe shift
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn seated limp against the mooring bollard, head tilted, bare hands open on the concrete, chest visibly rising and falling; Dũng crouched over him, one fist in his collar; the envelope on the seam beside them; Hạ in the west background, straining.
+Sơn seated limp against the mooring bollard, head tilted, bare hands open on the concrete, chest visibly rising and falling; Dũng crouched over him, one fist in his collar; the envelope on the seam beside them; Hạ held by Kiên in the west background, straining.
 Next shot 42.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

@@ -3,7 +3,7 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her belt carries no handcuffs, both pairs having been used in the city.
 
@@ -44,9 +44,9 @@ Performance: Mây registers the failure of her protection instantly and turns it
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Xe Dũng húc đổ rào tuần tra rồi. Đừng ra đường lớn, theo tôi vô hẻm.
-Sơn (@Son), nói trong hình: Hắn quay lại vì cuốn sổ đỏ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.0s · Mây (@May), nói trong hình: Xe Dũng húc đổ rào tuần tra rồi. Đừng ra đường lớn, theo tôi vô hẻm.
+5.1–7.4s · Sơn (@Son), nói trong hình: Hắn quay lại vì cuốn sổ đỏ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

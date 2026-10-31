@@ -15,7 +15,7 @@ Hòn Sóng concrete harbour apron: sea south with blue-painted wooden fishing bo
 Same sunset fading toward dusk: low west sun as warm side key, car positions and light direction unchanged.
 
 [SCENE OPENING HOOK — Mở cảnh 40: Hai Chiếc Xe]
-Scene goal: Hai phe tới một bãi trao đổi, Hạ có vị trí và hướng thoát rõ. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Hai phe tới một bãi trao đổi, Hạ có vị trí và hướng thoát rõ. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.3s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Bà Hai arrive inside geography already understood rather than restage her authority.
@@ -35,25 +35,25 @@ Composition: Keep the east apron, black car and Sơn on the seam in the wide lan
 Focus: Keep their position relative to Sơn clear, with no fresh close-up introduction of bracelet or face.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): The black car comes to a stop on the east side of the apron and its engine drops to an idle; Sơn stays on the seam, watching. Beat 2 (2.5–6.0s): Dũng climbs out of the driver's door, work bag strapped across his chest and the cut cuff ring swinging on his right wrist, and opens the rear door; Bà Hai steps out in violet silk, unlit holder in her right fingers, and starts speaking across the concrete to Sơn. Beat 3 (6.0–10.0s): She straightens beside the car, chin lifted, as she finishes; Dũng plants himself a pace behind her, eyes on the west road, and mutters about Kiên; neither of them moves toward the seam.
+Beat 1 (0.0–3.0s): The black car rolls to a stop on the east side of the apron and its engine drops to an idle; Dũng climbs straight out of the driver's door on the seam side, work bag strapped across his chest and the cut cuff ring swinging on his right wrist, steps back and pulls the rear door open; Sơn stays on the seam, watching. Beat 2 (3.0–6.5s): Bà Hai steps out through the open rear door in violet silk, unlit holder in her right fingers, and starts speaking across the concrete to Sơn as she rises beside the car. Beat 3 (6.5–10.0s): She straightens to her full height, chin lifted, as she finishes; Dũng plants himself a pace behind her, eyes on the west road, and mutters about Kiên; neither of them moves toward the seam.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Parking and emerging are economical; her line rides her emergence, Dũng's mutter follows, and the clip ends before anyone advances toward the exchange point.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Black car stops east, nose toward the junction; Dũng exits the driver's side and comes round to the rear door on the seam side, where Bà Hai emerges. Both stay beside the car; Sơn remains on the seam.
+Blocking: Black car stops east, nose toward the junction; Dũng exits the driver's door on the seam side and steps straight back to the rear door behind it, where Bà Hai emerges. Both stay beside the car; Sơn remains on the seam.
 Performance: Bà Hai arrives composed, treating the open apron as her own parlour; she wants Sơn to feel she came for him. Dũng is watchful and spoiling for trouble. No strut, no grand entrance.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Má tới rồi, con. Hôm nay ba bên nói một lời cho dứt.
-Dũng (@Dũng), nói trong hình: Coi thằng Kiên dám giở trò gì.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.3–6.9s · Bà Hai (@HaiNgoc), nói trong hình: Má tới rồi, con. Hôm nay ba bên nói một lời cho dứt.
+7.1–9.4s · Dũng (@Dũng), nói trong hình: Coi thằng Kiên dám giở trò gì.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Low sun catches violet silk against dark paint, while existing concrete seam anchors the distance.
@@ -61,7 +61,7 @@ Low sun catches violet silk against dark paint, while existing concrete seam anc
 
 [SOUND]
 Location bed: boat ropes, small waves and engines only when visible.
-Foreground sound: One engine settles to idle and one door movement, no repeated approach sound from39.6.
+Foreground sound: One engine settles to idle and one door movement, no repeated approach sound from 39.6.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

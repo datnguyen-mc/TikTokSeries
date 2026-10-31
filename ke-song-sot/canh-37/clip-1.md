@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 37/60, clip 1/6; shot 37.1. Story time: D7 afternoon.
 Covered rear lane behind the coffee stall under a patched corrugated-iron roof, isolated from the public road, map table beside the rear door, crates of empty bottles against the wall.
-Same afternoon as scene 36: quiet shade behind the awning, soft daylight bouncing in from the lane side.
+Present-day afternoon: quiet shade behind the awning, soft daylight bouncing in from the lane side.
 
 [SCENE OPENING HOOK — Mở cảnh 37: Điều Kiện Không Đổi]
 Scene goal: Mây và Sơn điều chỉnh kế theo điều kiện mới, không kể lại kế cũ. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
@@ -44,9 +44,9 @@ Performance: Mây is direct without scolding, naming a price she suspects he wou
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Hắn đoán anh sẽ ký để cứu Hạ. Đó mới là cái bẫy.
-Sơn (@Son), nói trong hình: Thì để nó trắng. Tôi không ký.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Mây (@May), nói trong hình: Hắn đoán anh sẽ ký để cứu Hạ. Đó mới là cái bẫy.
+4.3–6.6s · Sơn (@Son), nói trong hình: Thì để nó trắng. Tôi không ký.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

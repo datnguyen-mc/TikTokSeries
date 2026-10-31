@@ -37,13 +37,13 @@ Play each beat once, in order, from the start state to the end state; no gesture
 Action rhythm: Feet first, then the stand and a long measuring look toward land; the new information lands last, in her short coded line to Sơn.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Car threshold behind her; Hạ steps out and stands clear of the door, Kiên at her left with his right hand on it. The landward lane lies to her right; Sơn stays visible beyond on the seam.
+Blocking: Car threshold behind her; Hạ steps out and stands clear of the door, Kiên at her left with his right hand on it. The landward lane lies ahead of her and to her left, beyond Kiên and the open door; Sơn stays visible beyond on the seam.
 Performance: She refuses to be handled: steady breath, no collapse, and her first free act is to read the route she may need, then tell Sơn in words Kiên will not decode. No trembling, no pleading look.
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Em không sao. Em thấy đường rồi, anh Sơn.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+6.5–9.4s · Hạ (@Ha), nói trong hình: Em không sao. Em thấy đường rồi, anh Sơn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -60,7 +60,7 @@ Foreground sound: A small sandal contact and cloth movement register under the o
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Hạ standing beside the white car on thin sandals, grey dress moving in the wind, eyes on Sơn, breath steady, the landward lane to her right; Kiên at her left, right hand on the open rear door; Sơn beyond on the seam.
+Hạ standing beside the white car on thin sandals, grey dress moving in the wind, eyes on Sơn, breath steady, the landward lane ahead of her and to her left, beyond Kiên; Kiên at her left, right hand on the open rear door; Sơn beyond on the seam.
 Next shot 40.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

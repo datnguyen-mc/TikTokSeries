@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 48/60, clip 2/6; shot 48.2. Story time: D7 night continuous.
 Main iron entrance of old lighthouse, motorcycle space outside, main spiral stair inside, maintenance route separate.
-Night road lit from the front by the motorcycle headlamp; lighthouse work lights as cool top light and low practicals inside.
+Night at the lighthouse entrance: the motorcycle headlamp spilling through the open iron door, cool caged work lights inside as top light.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Carry the approach directly into an organized entry rather than another heroic arrival.
@@ -41,9 +41,9 @@ Performance: Mây watches Sơn's balance without hovering; he accepts the slower
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Bước nhẹ. Từ đây không ai nói lớn.
-Sơn (@Son), nói trong hình: Cửa mở sẵn. Gió từ trên lùa xuống.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.6s · Mây (@May), nói trong hình: Bước nhẹ. Từ đây không ai nói lớn.
+6.5–9.1s · Sơn (@Son), nói trong hình: Cửa mở sẵn. Gió từ trên lùa xuống.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

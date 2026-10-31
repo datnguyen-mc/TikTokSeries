@@ -5,7 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
-Sơn keeps his weathered dark-olive canvas backpack slung over his left shoulder throughout the movement. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
+Sơn keeps his weathered dark-olive canvas backpack slung over his left shoulder throughout the movement. Ông Bảy wears his white cotton singlet, dark shorts and rubber sandals, checkered wiping cloth draped over his shoulder; he climbs empty-handed, the small key in his shorts pocket.
 
 
 [TIMELINE AND LOCATION]
@@ -41,15 +41,14 @@ Performance: Bảy is winded and matter-of-fact, offering a roof without questio
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Chìa đây chú. Nhà hổng có ai, chỉ có gió là ở hoài.
-Sơn (@Son), nói trong hình: Một tuần thôi chú. Tôi lo xong chuyện riêng rồi đi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.0s · Ông Bảy (@Ông Bảy), nói trong hình: Chìa đây chú. Nhà hổng có ai, chỉ có gió là ở hoài.
+7.1–9.8s · Sơn (@Son), nói trong hình: Một tuần thôi chú. Tôi lo xong chuyện riêng rồi đi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
-- Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 
 [VISIBLE TEXTURE]
 Pine shadows cross the sand; the small metal key looks used rather than ceremonial.

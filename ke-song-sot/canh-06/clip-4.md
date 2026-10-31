@@ -41,8 +41,8 @@ Performance: Her fingers are familiar and unceremonious: a family object with a 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Hạ, ngoài khung hình: Kỷ vật của ba em. Lên dây là nó chạy đều.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–3.7s · Hạ, ngoài khung hình: Kỷ vật của ba em. Lên dây là nó chạy đều.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

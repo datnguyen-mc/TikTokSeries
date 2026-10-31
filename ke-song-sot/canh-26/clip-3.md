@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no handcuffs left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
 
@@ -22,7 +22,7 @@ Previous editorial shot: 26.2, ending with Sơn and Mây stopped beside the shel
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Loading aisle: Sơn beside a half-open sliding metal screen mid-aisle, right hand on its edge; Mây two strides past him toward the bright river door, daypack on her shoulders; at the far end behind them, a guard turning into the aisle.
+Loading aisle: Sơn beside a half-open sliding metal screen mid-aisle, right hand on its edge; Mây two strides past him toward the river door, the sealed sample sleeve held against her chest in her left hand, daypack on her shoulders; the river door at the aisle's end still shut, daylight rimming its edges; at the far end behind them, a guard turning into the aisle.
 
 [CAMERA]
 35mm controlled handheld medium-wide with kinetic energy. Keep the entire defensive action readable from one side of the axis.
@@ -41,12 +41,13 @@ Performance: Both concentrate on separation, not victory: Sơn's face is tight w
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Mây, đem mẫu ra bến thuyền trước đi. Cửa lùa để tôi giữ, đừng quay lại.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.0s · Sơn (@Son), nói trong hình: Mây, đem mẫu ra bến thuyền trước đi. Cửa lùa để tôi giữ, đừng quay lại.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
+- ONE unopened sample carton filmed on its original shelf, then sealed as evidence; no recipe or usable label.
 - Mây's compact black tactical daypack/backpack worn over her denim jacket during the city & river-factory mission (Scenes 19.5–27.6), holding evidence sleeves and borrowed tools.
 
 [VISIBLE TEXTURE]
@@ -59,7 +60,7 @@ Foreground sound: A short screen rattle and quick breath cut through the steady 
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sliding screen shut across the aisle, the guard's shape pressing on its far side; Sơn braced against the near edge with right shoulder and hand, bandaged left arm tucked in, breathing hard; Mây at the open river door, daylight and river beyond her.
+Sliding screen shut across the aisle, the guard's shape pressing on its far side; Sơn braced against the near edge with right shoulder and hand, bandaged left arm tucked in, breathing hard; Mây at the open river door, the sealed sample sleeve still held to her chest, daylight and river beyond her.
 Next shot 26.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

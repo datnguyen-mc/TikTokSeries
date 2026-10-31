@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. one steel handcuff pair left at the back of her belt. Voice: firm, clear Southern Vietnamese female voice.
 @Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Voice: rough, direct Southern Vietnamese male voice.
 Sơn wears his matte-black suit over open-collar white shirt, both hands bare without gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder.
 
@@ -23,7 +23,7 @@ Previous editorial shot: 24.2, ending with The guard stopped against the car doo
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Car row near the exit: Mây one pillar short of the low maintenance door, Sơn a few paces behind her with the ledger under his left arm; beyond the solid railing beside them, Dũng strides down the ramp, heavy black work bag across his torso.
+Car row near the exit: Mây one pillar short of the low maintenance door, Sơn a few paces behind her with the ledger under his left arm; beyond the solid railing beside them, Dũng strides down the street-side exit ramp that ends just short of the door, heavy black work bag across his torso.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -32,19 +32,19 @@ Composition: Use the wide frame to locate his descent from the ramp and the rail
 Focus: Keep both the obstruction he creates and the remaining railing route legible.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Dũng's boots echo as he comes off the foot of the ramp without hurrying and steps into the open lane between the travelers and the door, already telling Sơn that Má has not finished and asking if he means to run off with the book; Mây pulls up short. Beat 2 (3.0–6.5s): He walks at Sơn rather than charging, eyes on the ledger, and Sơn gives ground step by step, answering that he has been done with Bà Hai since that night in this car park. Beat 3 (6.5–10.0s): Sơn's heel meets the base of the solid railing as Dũng plants himself square between them and the exit, Mây a few paces off his left, watching his hands.
+Beat 1 (0.0–3.0s): Dũng's boots echo as he comes off the foot of the exit ramp without hurrying and steps into the open lane between the travelers and the door, already telling Sơn that Má has not finished and asking if he means to run off with the book; Mây pulls up short. Beat 2 (3.0–6.5s): He walks at Sơn rather than charging, eyes on the ledger, and Sơn gives ground step by step, answering that he has been done with Bà Hai since that night in this car park. Beat 3 (6.5–10.0s): Sơn's heel meets the base of the solid railing as Dũng plants himself square between them and the exit, Mây a few paces off his left, watching his hands.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Give Dũng time to claim the space: an unhurried arrival, a measured walk while he talks, and Sơn's short answer as he runs out of room; the end holds them short of the exit.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Door at far screen right with the ramp foot just left of it; Dũng steps off the ramp into the lane and advances screen left. Sơn backs screen left and sideways to the railing; Mây holds a few paces off Dũng's left.
+Blocking: Door at far screen right with the foot of the street-side exit ramp just left of it, a different ramp from the alley ramp the pair came down; Dũng steps off it into the lane and advances screen left. Sơn backs screen left and sideways to the railing; Mây holds a few paces off Dũng's left.
 Performance: Dũng is reclaiming runaway property, not starting a duel: calm, sure of the family rules, enjoying the leash. Sơn's reply names a break, not a threat. No fists raised, no sprinting, no shouting match.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Má chưa nói xong, mày tính ôm sổ chuồn hả Sơn?
-Sơn (@Son), nói trong hình: Tránh ra, Dũng. Tao với Bà Hai xong từ đêm ở hầm xe này rồi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.7s · Dũng (@Dũng), nói trong hình: Má chưa nói xong, mày tính ôm sổ chuồn hả Sơn?
+3.8–8.4s · Sơn (@Son), nói trong hình: Tránh ra, Dũng. Tao với Bà Hai xong từ đêm ở hầm xe này rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

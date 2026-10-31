@@ -5,7 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Bà Hai stays off frame left; only Sơn's hands, the page, his jacket and the gallery rail are in view.
 
 
 [TIMELINE AND LOCATION]
@@ -41,13 +41,13 @@ Performance: Measured hands: the fold is his refusal to leave anything within he
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Sơn, ngoài khung hình: Chữ ký này má nhận ra mà. Bản gốc không ở trên người tôi, đụng tôi cũng vô ích.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–5.9s · Sơn, ngoài khung hình: Chữ ký này má nhận ra mà. Bản gốc không ở trên người tôi, đụng tôi cũng vô ích.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 The light page catches wind against dark jacket cloth, demanding a steady grip.
@@ -63,4 +63,4 @@ The folded copy hidden in the inner pocket of Sơn's olive jacket, his bare righ
 Next shot 31.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid Bà Hai's face, hands or violet sleeve entering the detail frame.

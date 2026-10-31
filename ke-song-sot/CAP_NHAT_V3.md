@@ -36,8 +36,14 @@ Bản trước khi sửa: `revisions/before_v3_20261030_143044.zip`.
 Rà theo bản nhận xét cảnh 01.1. Lỗi gốc nằm ở lượt "nhịp nhanh" lúc 16:42. Lượt này ghép action của mọi clip theo khuôn Beat 1 = hành động gốc, Beat 2 = ghi chú blocking, Beat 3 = ghi chú diễn xuất. Vì ghi chú blocking tả lại đúng hành động gốc, cả 360 clip đều bảo model diễn động tác chính hai lần. End frame còn bị gắn thêm "Final physical lock", tức một hành động chứ không phải trạng thái.
 
 - **Hành động:** viết lại 360 action thành ba nhịp có mốc giây riêng; mỗi sự kiện chỉ xảy ra một lần và nhịp cuối rơi đúng end frame. Start/end frame chỉ ghi trạng thái, đã bỏ "Framing:" và "Final physical lock". Khôi phục nghĩa các chỗ bị đổi "slowly → briskly" (41.5, 47.6, 48.3, 52.4, 55.6, 60.5).
-- **Thoại:** tối đa 30 âm tiết mỗi clip theo quy tắc Omni trong FLOW_GUIDE. Trước đây 213 clip vượt mức, dài nhất 65 âm tiết; nay 256 clip nằm trong 15–30, còn lại ngắn hơn ở các nhịp lặng, dài nhất 29. Thoại theo đúng nhịp được ghi trong ACTION, chỉ lời dẫn mới vào ở 0.2s. Đã bỏ các câu kể trước thông tin chưa tới lượt.
-- **01.1:** viết lại theo nhận xét. Một balo trên vai trái, xuống xe một lần, sắc mặt ba lớp tiếc nuối → kiềm chế → quyết tâm, khung medium-wide 35mm có máy trượt ngang rồi đẩy nhẹ, lời dẫn 25 âm tiết. Clip 60.4 cũng hết mâu thuẫn túi/balo.
+- **Thoại:** tối đa 30 âm tiết mỗi clip theo quy tắc Omni trong FLOW_GUIDE. Trước đây 213 clip vượt mức, dài nhất 65 âm tiết; nay 256 clip nằm trong 15–30, còn lại ngắn hơn ở các nhịp lặng, dài nhất 29. Đã bỏ các câu kể trước thông tin chưa tới lượt.
+- **01.1, cảnh mở đầu hoành tráng:** không còn Sơn độc thoại. Máy 24mm trượt thấp dọc lề đường theo xe khách liên tỉnh đang chạy lúc bình minh.
+  - **Cấu tạo xe ghi rõ:** xe chạy bên phải đường, ghế tài xế bên trái cabin, cửa hành khách là cửa gấp ở hông phải ngay sau bánh trước và quay về máy quay; cửa tài xế phía xa luôn đóng.
+  - **Diễn tiến:** tài xế phanh, bấm nút mở cửa và ngồi yên suốt cảnh. Một bà cụ đội nón lá và một thanh niên ôm thùng các-tông xuống trước bằng cửa hành khách, rồi Sơn xuống cuối, xuống hẳn trước 6.5s. Người dẫn chuyện chỉ đọc tên sau khi anh đã đứng trên mặt đường (6.8–9.8s).
+  - **Danh sách cấm riêng của clip:** không ai dùng cửa tài xế, tài xế không rời ghế, Sơn không xuống trước và không mang túi thứ hai.
+  - **Đối xứng với 60.4:** xe chạy từ trái sang phải khung; cảnh trở về 60.4 đổi cho xe rời khung về bên phải.
+- **Người dẫn chuyện giới thiệu nhân vật:** chín nhân vật chính, mỗi người được giới thiệu một câu ngắn ở clip đầu tiên họ ra hình: Sơn 01.1, ông Bảy 01.2, Bà Hai và Dũng 02.1, Mây và Thành 03.2, Hạ 04.1, bác sĩ Linh 13.1, Kiên 36.1. Thoại trong các clip này được rút gọn để tổng vẫn ≤ 30 âm tiết. Validator bắt buộc đủ chín lời và chặn người dẫn chuyện ở các clip khác.
+- **Thoại đi cùng chuyển động:** cả 488 câu có khung giây riêng, in ngay trước câu trong prompt (ví dụ 3.0–6.3s). Câu bắt đầu đúng nhịp hành động đang diễn ra, không chồng nhau, tối đa 4,5 âm tiết mỗi giây. 50.3, 50.6 và 53.1 được nới mốc nhịp cho hai lượt thoại chung một nhịp. Câu bộ đàm 56.1 bỏ dấu hai chấm, vì prompt chỉ đọc phần sau dấu hai chấm cuối.
 - **Quy tắc chung trong mọi prompt:**
   - 24fps; shutter 180°, riêng 150° cho handheld hành động.
   - Màu: bóng lạnh, highlight ấm vừa phải, da tự nhiên.
@@ -53,6 +59,37 @@ Rà theo bản nhận xét cảnh 01.1. Lỗi gốc nằm ở lượt "nhịp nh
   - Kính của Thành: cong nhưng chưa quấn băng ở cảnh 29, quấn băng từ 30, kính mới ở 56.5.
   - Đồng hồ được ghi vào đạo cụ ở 53.1–53.3; phong bì bản sao ghi vào đạo cụ từ 34.2 tới 43.1.
   - 25.1 dùng USB bản sao; 54.3 dùng điện thoại của Mây; balo không còn ghi chú sai thời điểm trước 35.4.
-- **Kiểm tra:** validator mới chặn action thiếu ba nhịp hoặc lặp blocking, frame chứa hành động, thoại trên 30 âm tiết và chữ gợi bản tin. Bộ test tăng từ 12 lên 16.
+- **Kiểm tra:** validator mới chặn action thiếu ba nhịp hoặc lặp blocking, frame chứa hành động, thoại trên 30 âm tiết và chữ gợi bản tin. Bộ test tăng từ 12 lên 18.
 
 Ghi chú mở: luật "mọi clip có thoại" vẫn giữ. 13 clip vốn được thiết kế lặng (ví dụ 04.4, 33.5, 53.4, 57.5) nay có một câu ngắn, và ghi chú âm thanh của chúng đã được sửa cho khớp. Hash prompt trong `RENDER_MANIFEST_V3.json` đã đổi, nên mọi clip đã render từ bản 16:42 cần tạo lại.
+
+## Rà soát "prompt thông minh" toàn phim — 31/10/2026
+
+**Lời giới thiệu do người khác đọc**
+- Người dẫn chuyện là giọng nữ trưởng thành, đứng ngoài truyện. Prompt ghi rõ "giọng kể ngoài truyện, không phải nhân vật trong hình", và mọi miệng trên hình phải khép khi người dẫn chuyện nói.
+- Lời giới thiệu ở ngôi thứ ba: "Hắn là Sơn…", "Đây là ông Bảy…", "Người con gái ấy là Hạ…", "Người giữ phòng khám Hòn Sóng, bác sĩ Linh."
+- Bỏ các câu nhân vật tự xưng tên: Sơn ở 01.2, Mây ở 03.3 và 48.6. Validator chặn nhân vật tự giới thiệu và chặn người dẫn chuyện dùng ngôi thứ nhất.
+
+**Rà 360 clip bằng 10 agent, mỗi phát hiện có 3 agent phản biện độc lập**
+- Kết quả: 146 bản sửa được giữ. Bản sửa nào cũng đã chạy thử qua validator thật trước khi áp.
+- Các nhóm lỗi đã sửa:
+  - Thoại lệch nhịp với hành động: nói khi chưa ra hình, nói khi cửa xe chưa mở, hai câu chen nhau.
+  - Ánh sáng sai địa điểm.
+  - Đạo cụ thừa hoặc thiếu.
+  - Tay hoặc vị trí bị nhảy qua cú cắt.
+  - Đại từ mơ hồ khi có hai nhân vật nam.
+  - Ghi chú âm thanh mâu thuẫn với thoại.
+  - Một số lỗi truyện: "chủ nợ" thành "con nợ" ở 55.4; đèn dự phòng không phải đèn quay.
+
+**Sửa ở cấp toàn phim (bộ biên dịch và thư viện)**
+- Câu mở cảnh in đúng mốc giây của câu thoại đầu, không còn ghi cứng 0.2s.
+- Mọi câu thoại kết thúc trước 9.8s để Omni không cắt đuôi câu.
+- Không dùng chế độ "qua thiết bị" khi người nói đang có mặt trên hình.
+- Băng cổ tay chỉ có ở mốc hiện tại, không có trong hồi tưởng.
+- Còng của Mây đếm theo từng lần dùng trong chuyến thành phố và không có từ 24.6 đến 35.1.
+- Túi của Dũng mất từ 46.6. Còng cũ của hắn vẫn ở cổ tay trong 46.4.
+- Áo vest của Sơn cởi suốt cảnh 25. Sơn không mang balo khi bị áp giải.
+- Đồng hồ đóng nắp đúng trong 52.6.
+- Thêm đạo cụ KIEN_GUN (luôn ở tay trái, không bắn), HOUSE_KEY và MAY_FOLDER.
+- Bổ sung người còn thiếu trong cảnh toàn 41.6, 42.4 và 42.6; bỏ Dũng khỏi cận cảnh tay ở 02.2.
+- Ánh sáng tách theo địa điểm: 101 thiết lập.

@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no handcuffs left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
 
@@ -22,7 +22,7 @@ Previous editorial shot: 27.3, ending with Sơn holding the phone steady in his 
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Sơn in the idling boat at dusk, his phone on speaker in his right hand near his chin, eyes on the dark water; Mây soft behind his left shoulder, her phone recorder held low toward his phone.
+Sơn in the idling boat at dusk, the same caller back on a second call, his phone on speaker in his right hand near his chin, eyes on the dark water; Mây soft behind his left shoulder, her phone recorder held low toward his phone.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
@@ -31,7 +31,7 @@ Composition: Keep close on Sơn with Mây remaining in the established boat dept
 Focus: Hold his eyes as he separates concern for Hạ from obedience to the caller.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–4.5s): The filtered voice lays out the condition while Sơn listens without moving, eyes fixed on the water; only his jaw shifts when Bà Hai's name comes. Beat 2 (4.5–7.5s): Silence after the last word; his eyes close for one breath and open harder, the fear for Hạ visibly set aside, while behind him Mây's recorder stays steady. Beat 3 (7.5–10.0s): Without a word he lowers the phone and his thumb ends the call; he rests the dark screen on his knee and breathes out slowly through his nose, eyes on the water ahead.
+Beat 1 (0.0–6.0s): The filtered voice lays out the condition while Sơn listens without moving, eyes fixed on the water; only his jaw shifts when Bà Hai's name comes. Beat 2 (6.0–8.0s): Silence after the last word; his eyes close for one breath and open harder, the fear for Hạ visibly set aside, while behind him Mây's recorder stays steady. Beat 3 (8.0–10.0s): Without a word he lowers the phone and his thumb ends the call; he rests the dark screen on his knee and breathes out slowly through his nose, eyes on the water ahead.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The demand runs uninterrupted, a short silent consideration follows, and the disconnection is one small movement that lands the decision; the last seconds stay on his breathing.
 
@@ -41,9 +41,9 @@ Performance: Fear for Hạ and his refusal to kill on command meet in his stilln
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice through the established device at a natural pace; no caller body in this shot.
 Unknown caller: filtered Southern Vietnamese male voice, identity concealed. Voice only, never add a caller body to this shot.
-Người gọi giấu tên, qua thiết bị: Thấy người rồi đó. Muốn Hạ về lành lặn thì loại Bà Hai khỏi cuộc trước đêm ngày bảy.
+0.2–5.9s · Người gọi giấu tên, qua thiết bị: Thấy người rồi đó. Muốn Hạ về lành lặn thì loại Bà Hai khỏi cuộc trước đêm ngày bảy.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

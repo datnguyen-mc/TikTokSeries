@@ -3,7 +3,7 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
 @Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
 Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her belt carries no handcuffs, both pairs having been used in the city. Thành wears his light-blue shirt and round glasses, their bent right arm now held with white tape, carrying his leather evidence folder and police radio handset.
 
@@ -11,7 +11,7 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 30/60, clip 3/6; shot 30.3. Story time: D6 morning.
 Rear market exit toward a safe residential lane, no public crowd trapped inside.
-Same morning fish-market light as scene 29: top light through roof gaps, bright exits backlit for clear geography, cool shade in the aisles.
+Morning in the rear lane behind the market: soft daylight from the open lane end as key, cool shade along the market wall.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show support arriving where evacuation needs it rather than materializing to win a fight.
@@ -41,8 +41,8 @@ Performance: Mây's priority shows in her eyes: the lane first, the arrest secon
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Hai tên đó để tổ hỗ trợ còng. Thành, giữ hẻm sau thông, đừng để dân kẹt lại.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+1.0–6.2s · Mây (@May), nói trong hình: Hai tên đó để tổ hỗ trợ còng. Thành, giữ hẻm sau thông, đừng để dân kẹt lại.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

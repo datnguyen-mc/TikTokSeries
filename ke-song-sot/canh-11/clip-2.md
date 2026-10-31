@@ -43,8 +43,8 @@ Performance: Protective and a little ashamed: he hides her face, not evidence. H
 
 
 [DIALOGUE]
-0.2–5.5s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Có người dừng xe dưới đồi. Ai nhìn tôi cũng được, nhưng không được thấy mặt Hạ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.3s · Sơn, lời dẫn ngoài hình: Có người dừng xe dưới đồi. Ai nhìn tôi cũng được, nhưng không được thấy mặt Hạ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

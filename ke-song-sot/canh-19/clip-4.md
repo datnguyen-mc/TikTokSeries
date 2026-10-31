@@ -18,11 +18,11 @@ Show Mây joining the risk by preparation, not by abandoning her responsibility 
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 19.3, ending with Sơn and Mây face each other across the cleared table, both still breathing from the exchange; Sơn's bare hands hang empty, the envelope out of sight in his jacket; Mây's right hand is still inside her open duty pouch, the sealed remainder stowed.
+Previous editorial shot: 19.3, ending with Sơn and Mây face each other across the table, now clear of cloth, Mây's packed black daypack still standing at its right end; both still breathing from the exchange; Sơn's bare hands hang empty, the envelope out of sight in his jacket; Mây's right hand is still inside her open duty pouch, the sealed remainder stowed.
 Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Sơn and Mây face each other across the cleared table, both still breathing from the exchange; Sơn's bare hands hang empty, the envelope out of sight in his jacket; Mây's right hand is still inside her open duty pouch, the sealed remainder stowed.
+Sơn and Mây face each other across the table, now clear of cloth, Mây's packed black daypack still standing at its right end; both still breathing from the exchange; Sơn's bare hands hang empty, the envelope out of sight in his jacket; Mây's right hand is still inside her open duty pouch, the sealed remainder stowed.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -31,18 +31,18 @@ Composition: Maintain the exact preceding medium setup, focus and table position
 Focus: Keep the same table-and-face plane, with the roster readable as confirmed work rather than legible official text.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây's hand comes up out of the duty pouch with a folded roster sheet and opens it toward Sơn across the table, her finger tapping the signed lines as she tells him the town is covered. Beat 2 (3.0–6.5s): Sơn's eyes move from the sheet to her face and stay there; she slips the roster into her shirt pocket and draws a folded dark-blue denim jacket from the travel bag at the end of the table, finishing her line. Beat 3 (6.5–10.0s): She shakes the denim out and lays it flat beside the bag, smoothing the collar with her palm; Sơn gives a small nod, shoulders easing a fraction.
+Beat 1 (0.0–3.0s): Mây's hand comes up out of the duty pouch with a folded roster sheet and opens it toward Sơn across the table, her finger tapping the signed lines as she tells him the town is covered. Beat 2 (3.0–6.5s): Sơn's eyes move from the sheet to her face and stay there; she slips the roster into her shirt pocket and draws a folded dark-blue denim jacket from the black daypack at the end of the table, finishing her line. Beat 3 (6.5–10.0s): She shakes the denim out and lays it flat beside the daypack, smoothing the collar with her palm; Sơn gives a small nod, shoulders easing a fraction.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The roster lands in the first seconds, the jacket comes out mid-clip, and the nod closes the decision; she does not put the jacket on here, and hands keep moving into the cut.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Same table positions held from the seam: Mây screen right with her pouch at the hip and the travel bag at the table's right end, Sơn screen left. The roster ends in her shirt pocket; the denim stays on the table.
+Blocking: Same table positions held from the seam: Mây screen right with her pouch at the hip and the black daypack at the table's right end, Sơn screen left. The roster ends in her shirt pocket; the denim stays on the table.
 Performance: Practical resolve: she has covered her duty first and states the trip as a decision, not a request. Sơn's guard drops a notch at being joined and shows only in his shoulders. No gratitude speech, no smile.
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Thành với đội huyện đã nhận ca giữ thị trấn. Tôi mặc thường phục, đi thành phố với anh.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.9s · Mây (@May), nói trong hình: Thành với đội huyện đã nhận ca giữ thị trấn. Tôi mặc thường phục, đi thành phố với anh.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,7 +59,7 @@ Foreground sound: A soft jacket fold and paper movement support her brief statem
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-The dark-blue denim jacket lies flat on the table beside Mây's packed travel bag; Mây stands over it in her khaki shirt, one palm still on the collar, eyes on Sơn; Sơn faces her across the table, nodding slightly, weight settling.
+The dark-blue denim jacket lies flat on the table beside Mây's packed black daypack; Mây stands over it in her khaki shirt, one palm still on the collar, eyes on Sơn; Sơn faces her across the table, nodding slightly, weight settling.
 Next shot 19.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

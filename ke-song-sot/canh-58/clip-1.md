@@ -3,7 +3,7 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands. no backpack with him: it stays at the cabin; LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
 Time ellipsis: later before transport, Sơn has changed back into his stored olive jacket.
@@ -45,9 +45,9 @@ Performance: Thành's courtesy is discreet; he wants to give Sơn this moment wi
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Thành (@Phó Thành), nói trong hình: Anh Sơn, nhìn bên phải, chỗ hàng cây phía trước.
-Sơn (@Son), nói trong hình: Ừ. Cảm ơn cậu.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.4s · Thành (@Phó Thành), nói trong hình: Anh Sơn, nhìn bên phải, chỗ hàng cây phía trước.
+3.5–5.0s · Sơn (@Son), nói trong hình: Ừ. Cảm ơn cậu.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

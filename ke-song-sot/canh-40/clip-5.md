@@ -42,14 +42,14 @@ Performance: Sơn asks for a release he can verify, firmly and without pleading,
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Bản sao trong tay tôi. Buông cô ấy ra, cho cô ấy qua vạch.
-Kiên (@Vũ Kiên), nói trong hình: Từ từ. Chưa xong giao dịch thì chưa ai qua vạch.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.5s · Sơn (@Son), nói trong hình: Bản sao trong tay tôi. Buông cô ấy ra, cho cô ấy qua vạch.
+6.5–9.8s · Kiên (@Vũ Kiên), nói trong hình: Từ từ. Chưa xong giao dịch thì chưa ai qua vạch.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Thin envelope stays distinct from the absent original books and any confession folder.

@@ -23,7 +23,7 @@ Previous editorial shot: 31.4, ending with The folded copy hidden in the inner p
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Bà Hai near the sea rail, Dũng half a pace ahead of her left shoulder, weight already tipped toward Sơn; Sơn by the open stair door, empty hands at his sides; her unlit holder in her right fingers.
+Bà Hai near the sea rail, Dũng level with her left shoulder, weight already tipped toward Sơn; Sơn by the open stair door, empty hands at his sides; her unlit holder in her right fingers.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -37,14 +37,14 @@ Play each beat once, in order, from the start state to the end state; no gesture
 Action rhythm: The step, the check and her order come together at the top; acceptance and his condition trade without a pause; the end holds the new balance of power in silence.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Dũng starts a pace left of Bà Hai and gets no farther than her raised left hand, well short of halfway; Sơn keeps his place by the stair door screen right, the usable gap intact.
+Blocking: Dũng starts level with Bà Hai's left shoulder and gets no farther than her raised left arm, half a pace ahead of her and well short of halfway; Sơn keeps his place by the stair door screen right, the usable gap intact.
 Performance: Bà Hai needs this deal more than she shows: the order to Dũng is calm, the instruction to Sơn a touch too absolute. Dũng resents the leash but obeys. Sơn bargains coldly. No shouting, no snarl.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Dũng, đứng yên đó. Mai má ra cảng. Con nhớ giữ lời.
-Sơn (@Son), nói trong hình: Giữa bãi cảng, chỗ trống. Hạ phải đứng trước mặt tôi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.9s · Bà Hai (@HaiNgoc), nói trong hình: Dũng, đứng yên đó. Mai má ra cảng. Con nhớ giữ lời.
+4.0–7.5s · Sơn (@Son), nói trong hình: Giữa bãi cảng, chỗ trống. Hạ phải đứng trước mặt tôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -61,7 +61,7 @@ Foreground sound: One halted footstep and her short acceptance carry the power c
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Dũng halted behind Bà Hai's raised left hand, breathing hard through his nose; Bà Hai between them, eyes on Sơn; Sơn by the open stair door, hands at his sides; wind moving his jacket and her violet sleeve.
+Dũng halted half a pace ahead of Bà Hai's left shoulder, her raised left palm flat in front of his chest, breathing hard through his nose; Bà Hai at his side, eyes on Sơn; Sơn by the open stair door, hands at his sides; wind moving his jacket and her violet sleeve.
 Next shot 31.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]

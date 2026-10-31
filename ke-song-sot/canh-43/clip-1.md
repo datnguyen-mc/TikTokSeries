@@ -24,11 +24,11 @@ Make Bà Hai's protection emotionally real while keeping its possessive language
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 42.6, ending with Kiên west of center, right hand still on Hạ's left upper arm, leaning toward the white car; Hạ's sandals planted, free shoulder turned toward the inner apron; Bà Hai beside the collapsed Sơn at the bollard; the copy envelope untouched on the center seam where Sơn placed it.
+Previous editorial shot: 42.6, ending with Kiên west of center, right hand still on Hạ's left upper arm, leaning toward the white car; Hạ's sandals planted, free shoulder turned toward the inner apron; Bà Hai beside the collapsed Sơn at the bollard, Dũng a pace behind her; the copy envelope untouched on the center seam where Sơn placed it.
 Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action from 0.0s; no transformation, morph, dissolve or replay of the old shot.
 
 [START FRAME — state only, not an action to repeat]
-Preview envelope on the center seam. Sơn sits limp against the mooring bollard, breathing; Bà Hai stands at his side, left hand on his shoulder, holder in her right fingers; Dũng a pace behind her; Kiên west of center gripping Hạ's left upper arm.
+Copy envelope on the center seam. Sơn sits limp against the mooring bollard, breathing; Bà Hai stands at his side, left hand on his shoulder, holder in her right fingers; Dũng a pace behind her; Kiên west of center gripping Hạ's left upper arm.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -47,15 +47,15 @@ Performance: Protection and possession in one breath: she means the refusal, yet
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Con tao. Tao sai một lần rồi. Không giao cho mày nữa.
-Dũng (@Dũng), nói trong hình: Bên Kiên đứa nào bước qua vạch, tao không tha.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.9s · Bà Hai (@HaiNgoc), nói trong hình: Con tao. Tao sai một lần rồi. Không giao cho mày nữa.
+4.0–7.2s · Dũng (@Dũng), nói trong hình: Bên Kiên đứa nào bước qua vạch, tao không tha.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Violet silk moves in the same dusk wind; no halo-like new light or cleansing rain.

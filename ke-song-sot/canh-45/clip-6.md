@@ -11,7 +11,7 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 45/60, clip 6/6; shot 45.6. Story time: D7 night continuous.
 Outside rear of the same stationary van, market wall behind, loose cart to left, clear police-controlled lane.
-Night: steady warm van lamp as low key inside, existing lighthouse work lights as cool top light on the stairs; no emergency strobe montage.
+Night in the rear lane: warm van lamp spilling from the open rear doors as side key, distant harbour floodlight as cool rim, market wall in soft shadow.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Mây choose the threatened doorway before Dũng can reach the patient again.
@@ -41,9 +41,9 @@ Performance: Mây is economical and balanced, choosing the doorway over pursuit;
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Tránh ra. Tao đưa nó về cho má, kẻo nó khai hết.
-Mây (@May), nói trong hình: Lùi lại, Dũng. Ở đây không ai là của Bà Hai nữa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.7s · Dũng (@Dũng), nói trong hình: Tránh ra. Tao đưa nó về cho má, kẻo nó khai hết.
+6.8–9.8s · Mây (@May), nói trong hình: Lùi lại, Dũng. Ở đây không ai là của Bà Hai nữa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

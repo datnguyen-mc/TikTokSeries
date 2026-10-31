@@ -13,7 +13,7 @@ Hòn Sóng concrete harbour apron: sea south with blue-painted wooden fishing bo
 Same night, simultaneous: steady harbour floodlight as hard high key on the stone bench, dark sea beyond.
 
 [SCENE OPENING HOOK — Mở cảnh 49: Chiếc Vòng Ngọc]
-Scene goal: Bà Hai bị bắt bởi tổ dưới cảng, trả giá cho việc coi người là hàng. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Bà Hai bị bắt bởi tổ dưới cảng, trả giá cho việc coi người là hàng. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Bà Hai's authority draining through the ordinary act of having nothing useful to order.
@@ -43,8 +43,8 @@ Performance: Habit of command first, then the quiet discovery that no one is lef
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Thôi. Hết người để sai rồi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.1s · Bà Hai (@HaiNgoc), nói trong hình: Thôi. Hết người để sai rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

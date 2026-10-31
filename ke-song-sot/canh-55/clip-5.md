@@ -41,9 +41,9 @@ Performance: Ordinary, sober concentration: he reads every line because he means
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Người kế tiếp đây. Đọc xong, tôi ký tên thật.
-Mây (@May), nói trong hình: Việc anh hợp tác và cứu người đêm nay đều được ghi nhận.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.4s · Sơn (@Son), nói trong hình: Người kế tiếp đây. Đọc xong, tôi ký tên thật.
+3.5–7.5s · Mây (@May), nói trong hình: Việc anh hợp tác và cứu người đêm nay đều được ghi nhận.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. two steel handcuff pairs at the back of her belt under the denim jacket. Voice: firm, clear Southern Vietnamese female voice.
 @Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
 Sơn carries his weathered dark-olive canvas travel backpack containing his folded black suit and gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
 
@@ -12,7 +12,7 @@ Sơn carries his weathered dark-olive canvas travel backpack containing his fold
 [TIMELINE AND LOCATION]
 Scene 20/60, clip 6/6; shot 20.6. Story time: D4 afternoon.
 Hòn Sóng main street between inland crossroad and market: worn narrow asphalt, low tube houses with half-raised roll-up shutters, motorbikes parked on the pavement, fishing nets drying along the sea wall, coffee stall beside the sea wall. No readable signs.
-Present-day late afternoon: warm low sun from the west across the porch, cooling to dusk at the coach stop with soft sky fill only.
+Present-day dusk at the sea-wall coach stop: sun already below the rooftops, soft cool sky fill with a last warm glow low in the west, the coach headlights and its lit doorway as practical accents.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Close the act on an already-chosen journey, preserving the cost of leaving Thành responsible for home.
@@ -42,8 +42,8 @@ Performance: Purposeful departures, not romantic ones: two people boarding to wo
 
 
 [DIALOGUE]
-0.2–5.8s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Thành, lời dẫn ngoài hình: Chị Mây lên trước, ông Sơn lên sau. Còn Hòn Sóng, tôi giữ tới khi hai người về.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.6s · Thành, lời dẫn ngoài hình: Chị Mây lên trước, ông Sơn lên sau. Còn Hòn Sóng, tôi giữ tới khi hai người về.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -28,7 +28,7 @@ Bà Hai and Sơn still three metres apart across the gallery, her holder motionl
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 Keep the exact previous camera, lens and axis; no framing reset.
 Composition: Retain precisely the preceding medium composition and distance rather than switching to a revealing close-up.
-Focus: Keep both faces readable so the missing answer belongs to her, not narration.
+Focus: Keep both faces readable so the missing answer belongs to her, not to a voice-over.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–4.0s): Sơn asks whether she even knows where Hạ is now, saying Hạ's name plainly and calling her má with a tired, disappointed edge, his chin lifting a little on the question. Beat 2 (4.0–7.0s): Bà Hai holds her ground and her gaze, but her lips part and close without a word and her thumb presses the holder against her fingers; only the wind fills the gap. Beat 3 (7.0–10.0s): Sơn reads the silence, a muscle in his jaw tightening; his eyes leave her and travel to the open stair door as his weight eases onto his rear foot.
@@ -41,8 +41,8 @@ Performance: Sơn's question carries disappointed recognition: he suspects the a
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Má bán Hạ cho hắn. Giờ Hạ ở đâu, má có biết không?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Sơn (@Son), nói trong hình: Má bán Hạ cho hắn. Giờ Hạ ở đâu, má có biết không?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

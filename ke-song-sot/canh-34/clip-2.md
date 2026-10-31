@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset; no handcuffs on her belt until fresh pairs arrive at 35.1.
 
 
@@ -22,41 +22,39 @@ Previous editorial shot: 34.1, ending with Seven distinct tally marks in one row
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Dawn in the cabin: Mây at the table with her evidence satchel open, the black ledger and the sleeved original USB inside; the red cloth ledger and the hardware token on the table before Sơn; a plain copy envelope lying apart at his edge of the table.
+Dawn in the cabin: Mây at the table with her evidence satchel open and empty; the red cloth ledger and the hardware token on the table before Sơn; a plain copy envelope lying apart at his edge of the table.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Use the medium table view to distinguish two bindings, USB sleeve, token and copy envelope.
-Focus: Keep black and red books distinct without requiring readable seals or paperwork text.
+Composition: Use the medium table view to keep the red cloth ledger, the small token and the plain copy envelope clearly distinct.
+Focus: Keep the red cloth ledger and the copy envelope distinct without requiring readable seals or paperwork text.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây lifts the black ledger and the sleeved USB out of the satchel and lays them side by side at the center of the table, saying she is sealing the originals to leave this morning and he carries only the copy. Beat 2 (3.0–6.5s): Sơn slides the red ledger and the token across to sit beside them, both run their eyes over the four originals, and he answers that now they cannot destroy anything. Beat 3 (6.5–10.0s): She packs all four into the satchel and presses its seal strip shut; Sơn's hands come to rest beside the lone copy envelope, his eyes on the sealed strip.
+Beat 1 (0.0–3.0s): Mây holds the empty satchel open on the table, telling Sơn she is sealing the originals to leave this morning and he carries only the copy. Beat 2 (3.0–6.5s): Sơn slides the red ledger and the token across to her, both check the two originals by eye, and he answers that now they cannot destroy anything. Beat 3 (6.5–10.0s): She packs the ledger and the token into the satchel and presses its seal strip shut; Sơn's hands come to rest beside the lone copy envelope, his eyes on the sealed strip.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Her line rides the laying out; his short reply lands as the set is complete; the sealing is one decisive press, and the end rests on the subtraction, only the copy left with him.
+Action rhythm: Her line comes as she holds the empty satchel open; his short reply lands as the two originals reach her side; the sealing is one decisive press, and the end rests on the subtraction, only the copy left with him.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Table between them: Mây screen left with the satchel, Sơn screen right. Originals gather at center, then go into the satchel; the copy envelope stays untouched at Sơn's edge of the table.
+Blocking: Table between them: Mây screen left with the satchel, Sơn screen right. The red ledger and token cross from his side into the satchel; the copy envelope stays untouched at Sơn's edge of the table.
 Performance: Their checking feels like letting go: Sơn gives up his only leverage and knows it. Mây is exact and quietly respectful of what this costs him. No triumph, no display for the audience.
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Bản gốc tôi niêm phong, sáng nay chuyển đi. Anh chỉ cầm bản sao.
-Sơn (@Son), nói trong hình: Vậy tụi nó hết đường phi tang.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.5s · Mây (@May), nói trong hình: Bản gốc tôi niêm phong, sáng nay chuyển đi. Anh chỉ cầm bản sao.
+4.6–6.9s · Sơn (@Son), nói trong hình: Vậy tụi nó hết đường phi tang.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Original BLACK leather ledger, receipt and original USB initially fixed inside back cover.
 - Original RED cloth ledger, handwritten signature shapes, distinct from black leather ledger.
-- Original USB from black ledger, preserved in an evidence sleeve at the station after 17.1.
 - USB-shaped hardware security token from the safe; NOT the metal door key.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
-Cloth binding, leather, plain sleeves and used table grain make each item physically different.
+Cloth binding, the small token, plain envelope paper and used table grain make each item physically different.
 
 
 [SOUND]
@@ -65,7 +63,7 @@ Foreground sound: Small paper and seal sounds stay behind Mây's short line, no 
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Mây's evidence satchel sealed on the table under her hand, all four originals inside; only the plain copy envelope left before Sơn, his bare hands resting beside it; dawn light across the table grain.
+Mây's evidence satchel sealed on the table under her hand, the red ledger and the token inside; only the plain copy envelope left before Sơn, his bare hands resting beside it; dawn light across the table grain.
 Next shot 34.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

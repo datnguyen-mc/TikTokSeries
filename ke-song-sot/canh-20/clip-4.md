@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. two steel handcuff pairs at the back of her belt under the denim jacket. Voice: firm, clear Southern Vietnamese female voice.
 Sơn carries his weathered dark-olive canvas travel backpack containing his folded black suit and gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
 
@@ -31,18 +31,18 @@ Composition: Return to the medium two-person setup with recorder steady and the 
 Focus: Keep her mouth and his hovering hand readable at one depth, without a new phone-screen close-up.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây leans in toward Sơn and lifts her free hand flat between him and the speaker phone, a small stopping gesture, as she starts speaking low. Beat 2 (3.0–6.5s): She tells him who might be behind the voice and that it wants the two sides fighting, warning him to take no more conditions, while his eyes move from the phone to her face and his breathing slows. Beat 3 (6.5–10.0s): He gives a slight nod; his right hand leaves the table edge, travels to his phone and stops a finger-width above the end-call key, hovering.
+Beat 1 (0.0–3.0s): Mây leans in toward Sơn and lays her free left palm flat over the bottom edge of his speaker phone, muffling its microphone, as she starts speaking low to him. Beat 2 (3.0–6.5s): She tells him who might be behind the voice and that it wants the two sides fighting, warning him to take no more conditions, while his eyes move from the phone to her face and his breathing slows. Beat 3 (6.5–10.0s): He gives a slight nod; she lifts her palm off his phone and lowers that hand, and his right hand leaves the table edge, travels to his phone and stops a finger-width above the end-call key, hovering.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The warning fills the first two beats with no gap; the nod comes after her last word, and the hand's travel to the key is held for the seam with the decision not yet taken.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Two-shot at the table, Sơn screen left, Mây screen right. Her raised hand stays between him and his phone until he nods; her recorder never leaves the table. His right hand travels only to the end-call key.
+Blocking: Two-shot at the table, Sơn screen left, Mây screen right. Her left palm covers the bottom of his phone until he nods while her right fingertips keep the recorder still at the right end; his right hand travels only to the end-call key.
 Performance: Her tone is low and firm, a colleague setting a boundary rather than an officer barking an order; he hears the practical sense and lets it cool his hope. No finger-wagging, no exasperated sigh.
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Có thể là người của Kiên, mượn tay anh để hai phe cắn nhau. Đừng nhận thêm điều kiện.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.9s · Mây (@May), nói trong hình: Có thể là người của Kiên, mượn tay anh để hai phe cắn nhau. Đừng nhận thêm điều kiện.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

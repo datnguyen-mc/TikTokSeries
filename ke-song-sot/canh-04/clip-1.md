@@ -21,7 +21,7 @@ Show the professional reason for entering before Hạ makes the encounter person
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 03.6, ending with Coffee glass on the table with its handle turned outward toward the road, condensation running; Sơn's bare right hand flat beside it, fingers easing; the closed silver watch at the lip of his right jacket pocket by his belt; the backpack strap hanging by the chair leg.
+Previous editorial shot: 03.6, ending with The tall coffee glass on the table, its long spoon now leaning outward toward the road, condensation running; Sơn's bare right hand flat beside it, fingers easing; the closed silver watch at the lip of his right jacket pocket by his belt; the backpack strap hanging by the chair leg.
 J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
@@ -34,7 +34,7 @@ Composition: The wide frame links counter, window chair and the tower lobby acro
 Focus: Use depth to keep lobby direction understandable while reserving visual warmth for the foreground shop.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn steps in under the ringing bell; Hạ glances up from the lilies, shears pausing, gives an easy nod and goes back to cutting. Beat 2 (3.0–6.5s): Crossing past the bucket rows, Sơn looks through the front window at the tower lobby across the road and holds on it; he takes the chair by the window that faces the lobby and sits, while Hạ, still cutting, asks him a light, direct question. Beat 3 (6.5–10.0s): Sơn answers without fully looking away from the window, one hand resting on his knee; Hạ's shears snip one more stem while her eyes stay on him, curious.
+Beat 1 (0.0–3.0s): Sơn steps in under the ringing bell while the narrator introduces Hạ; she glances up from the lilies, shears pausing, gives an easy nod and goes back to cutting. Beat 2 (3.0–6.5s): Crossing past the bucket rows, Sơn looks through the front window at the tower lobby across the road and holds on it; he takes the chair by the window that faces the lobby and sits, while Hạ, still cutting, asks him a light, direct question. Beat 3 (6.5–10.0s): Sơn answers without fully looking away from the window, one hand resting on his knee; Hạ's shears snip one more stem while her eyes stay on him, curious.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: His route to the chosen chair is one unbroken purpose; her question lands as he sits; the deflecting answer closes the clip while her shears keep working.
 
@@ -44,9 +44,11 @@ Performance: Sơn is working: the lobby gets his attention first and Hạ second
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Khách vô tiệm hoa mà hổng nhìn hoa. Anh mua tặng ai?
-Sơn (@Son), nói trong hình: Cô chọn giúp tôi một cành hoa trắng.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
+Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
+0.2–2.8s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Người con gái ấy là Hạ, chủ tiệm hoa.
+3.0–6.3s · Hạ (@Ha), nói trong hình: Khách vô tiệm hoa mà hổng nhìn hoa. Anh mua tặng ai?
+6.5–8.9s · Sơn (@Son), nói trong hình: Cô chọn giúp tôi một cành hoa trắng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

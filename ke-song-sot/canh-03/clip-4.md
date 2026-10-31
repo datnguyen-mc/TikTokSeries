@@ -41,9 +41,9 @@ Performance: Sơn offers the name as a concession and keeps the man behind it cl
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Sơn. Tôi thuê chòi của chú Bảy trên đồi dương.
-Mây (@May), nói trong hình: Khách nghỉ mát ít ai ngồi canh đường như anh.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.4s · Sơn (@Son), nói trong hình: Sơn. Tôi thuê chòi của chú Bảy trên đồi dương.
+6.0–9.2s · Mây (@May), nói trong hình: Khách nghỉ mát ít ai ngồi canh đường như anh.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -42,8 +42,8 @@ Performance: Sơn fights to stay present; the fear is not pain but his body no l
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Hạ, ngoài khung hình: Anh Sơn, coi chừng cái ống trong tay Dũng!
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–3.1s · Hạ, ngoài khung hình: Anh Sơn, coi chừng cái ống trong tay Dũng!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

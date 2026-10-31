@@ -10,8 +10,8 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 
 [TIMELINE AND LOCATION]
 Scene 48/60, clip 3/6; shot 48.3. Story time: D7 night continuous.
-Main spiral stair inside lighthouse, gallery at top, handrail continuous, Mây leading Sơn upward.
-Night road lit from the front by the motorcycle headlamp; lighthouse work lights as cool top light and low practicals inside.
+Main spiral stair inside the lighthouse, gallery at the top, continuous handrail.
+Night inside the lighthouse: cool caged work lights as top light on the spiral stair, low practicals on the landings.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let every gained step show that Sơn is participating without pretending to be physically restored.
@@ -41,9 +41,9 @@ Performance: Sơn is frustrated by his own body yet refuses to fold; the pause i
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Đừng đợi tôi lâu. Tôi theo kịp.
-Mây (@May), nói trong hình: Thở đều. Khúc cua trên là cửa ra hành lang.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.3s · Sơn (@Son), nói trong hình: Đừng đợi tôi lâu. Tôi theo kịp.
+6.5–9.7s · Mây (@May), nói trong hình: Thở đều. Khúc cua trên là cửa ra hành lang.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

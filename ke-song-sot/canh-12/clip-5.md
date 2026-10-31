@@ -17,11 +17,11 @@ Make the decisive moral action a call for help after the opponent has become vul
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 12.4, ending with Second man sprawled on hands and knees in the sand right of the trunk, the capped applicator lying out of his reach farther right; Sơn on one knee at left, one hand still pinning the first man's wrist, the other raised open; the first man seated against the trunk; all breathing hard.
+Previous editorial shot: 12.4, ending with Second man on hands and knees in the sand right of the trunk, arms trembling, head sinking; the capped applicator lying out of his reach farther right; Sơn on one knee at left, one hand still pinning the first man's wrist, the other raised open; the first man seated against the trunk; all breathing hard.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Under the pines: the second man lying motionless on his side in the sand, chest visibly rising and falling; the capped applicator a pace away; the first man seated, conscious, against the trunk; Sơn crouched between them, phone in his jacket.
+Under the pines: the second man lying motionless on his side in the sand, chest visibly rising and falling; the capped applicator a pace away; the first man seated, conscious and empty-handed, against the trunk, his black baton lying far behind Sơn in the sand; Sơn crouched between them, phone in his jacket.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -30,7 +30,7 @@ Composition: The medium view includes Sơn kneeling, the fallen man's breathing 
 Focus: Keep Sơn's mouth and the breathing patient readable, without graphic medical inspection or instructional detail.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): Sơn kneels beside the motionless man and watches his chest until it lifts in a slow breath, his right hand already drawing the phone from his jacket. Beat 2 (2.5–6.5s): Phone at his ear, he turns his face down the slope toward the road and calls for a doctor, giving the place and that the man is still breathing. Beat 3 (6.5–10.0s): Still on the line, he shifts his knee to keep himself between the first man and the dropped applicator, his free hand raised toward the seated man to keep him there, his eyes returning to the breathing chest.
+Beat 1 (0.0–2.5s): Sơn kneels beside the motionless man and watches the man's chest until it lifts in a slow breath, Sơn's own right hand already drawing the phone from his jacket. Beat 2 (2.5–6.5s): Phone at his ear, Sơn turns his face down the slope toward the road and calls for a doctor, giving the place and that the man is still breathing. Beat 3 (6.5–10.0s): Still on the line, Sơn shifts his knee to keep himself between the first man and the dropped applicator, his free hand raised toward the seated man to keep him there, his eyes returning to the breathing chest.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A real beat of watching for breath before he speaks, then a clear call, the end still watching the chest and the seated man; nothing settles into stillness.
 
@@ -40,8 +40,8 @@ Performance: Practical concern, not performed guilt: the man who hunted him is n
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Đồi dương, sau chòi gỗ. Có người dính thuốc của chính hắn, còn thở. Cần bác sĩ ngay.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–7.9s · Sơn (@Son), nói trong hình: Đồi dương, sau chòi gỗ. Có người dính thuốc của chính hắn, còn thở. Cần bác sĩ ngay.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -58,7 +58,7 @@ Foreground sound: His clear request is close above breath and wind; no pulse mon
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn kneeling beside the breathing man, phone at his ear, free hand raised toward the first man seated against the trunk; the capped applicator untouched in the sand a pace away; the fallen man's chest rising slowly; pine shadows moving over them.
+Sơn kneeling beside the breathing man, phone at his ear, free hand raised toward the first man seated empty-handed against the trunk; the capped applicator untouched in the sand a pace away, the baton farther off behind Sơn; the fallen man's chest rising slowly; pine shadows moving over them.
 Next shot 12.6: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]

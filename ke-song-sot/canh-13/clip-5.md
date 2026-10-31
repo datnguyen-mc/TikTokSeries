@@ -17,7 +17,7 @@ Let an off-screen slip of the nickname redirect Mây toward the person with the 
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 13.4, ending with The conscious attacker on the bed edge, face turned to the wall, mouth shut tight; Mây at the bed's foot with the sealed bag still raised near his eyeline; Thành at his shoulder, pen on the folder page, watching his profile; window light on the crumpled sheet.
+Previous editorial shot: 13.4, ending with The conscious attacker on the bed edge, face turned to the wall, mouth shut tight; Mây at the bed's foot with the sealed bag still raised near his eyeline, her thin folder under her left arm; Thành at his shoulder, pen on the folder page, watching his profile; window light on the crumpled sheet.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -40,14 +40,15 @@ Performance: She hides how much the slip matters, keeping her listening neutral 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
 The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.
-Người trong cảnh, ngoài khung hình: Thằng Bóng Ma cuỗm cuốn sổ đen. Đại ca Dũng biểu bắt sống, đem về thành phố trước ngày tàu chạy.
+0.2–6.4s · Người trong cảnh, ngoài khung hình: Thằng Bóng Ma cuỗm cuốn sổ đen. Đại ca Dũng biểu bắt sống, đem về thành phố trước ngày tàu chạy.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's own thin grey card investigation folder, held by her alone; never confused with Thành's dark leather evidence folder.
 
 [VISIBLE TEXTURE]
 Plain folder paper and her sun-lined face remain unadorned under the clinic's ordinary light.

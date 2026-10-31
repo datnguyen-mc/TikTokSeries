@@ -31,7 +31,7 @@ Composition: Frame the lily and existing vase between their hands, keeping both 
 Focus: Keep the vase lip and both hands readable, without a separate impact or reaction angle.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Hạ folds the paper around the lily as Sơn finally says who it is for, a faint, dry half-smile on his mouth, eyes on the flower. Beat 2 (3.0–6.0s): An unseen delivery boy outside knocks a bucket against the window; the tall vase at the counter edge tips, and Sơn's bare right hand catches it at the lip, water sloshing, Hạ's hands arriving a moment later. Beat 3 (6.0–10.0s): For one breath both hold the vase; Sơn lets go first and draws his hand back to his side, and Hạ, still holding it, looks at his hand, then his face, as she makes her observation.
+Beat 1 (0.0–3.0s): Hạ folds the paper around the lily as Sơn finally says who it is for, a faint, dry half-smile on his mouth, eyes on the flower. Beat 2 (3.0–6.0s): Hạ slides the wrapped lily across the counter toward him and its paper end bumps the tall vase at the counter edge; the vase tips toward Sơn and his bare right hand catches it at the lip, water sloshing, Hạ's hands arriving a moment later. Beat 3 (6.0–10.0s): For one breath both hold the vase; Sơn lets go first and draws his hand back to his side, and Hạ, still holding it, looks at his hand, then his face, as she makes her observation.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Quiet wrapping under his line, one sudden catch, then a release that comes sooner than romance would want; her look and remark take the remaining time.
 
@@ -41,9 +41,9 @@ Performance: Sơn's reply is faintly self-mocking, a truth dressed as a joke; th
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Cho một người chưa từng biết nhận hoa.
-Hạ (@Ha), nói trong hình: Tay anh nhanh vậy, chắc không phải dân văn phòng.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–2.8s · Sơn (@Son), nói trong hình: Cho một người chưa từng biết nhận hoa.
+6.0–9.2s · Hạ (@Ha), nói trong hình: Tay anh nhanh vậy, chắc không phải dân văn phòng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -56,7 +56,7 @@ A trace of water rocks inside the saved vase; paper wrapping remains slightly da
 
 [SOUND]
 Location bed: flower-shop bell and soft bucket-water sounds.
-Foreground sound: The disturbance outside is brief, then a small water slosh and his understated sentence fill the beat.
+Foreground sound: Paper rustles under his understated sentence; then the vase base scrapes, water sloshes once and her observation follows over ordinary street sound.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

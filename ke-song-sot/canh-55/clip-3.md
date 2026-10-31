@@ -22,16 +22,16 @@ Previous editorial shot: 55.2, ending with Mây's pen finishing a line in her op
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Sơn at the interview desk, eyes lowered to the paper on the desk in front of him rather than to his faint reflection in the dark window; his bare right hand flat on the wood, left wrist bandaged; Mây listening across the desk.
+Sơn at the interview desk, eyes lowered to Mây's open notebook on her side of the desk rather than to his faint reflection in the dark window; his bare right hand flat on the wood, left wrist bandaged; Mây listening across the desk.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Close on Sơn reading the paper, his face angled away from the window reflection.
+Composition: Close on Sơn, eyes lowered toward Mây's notebook across the desk, his face angled away from the window reflection; only his bare hands rest on the wood before him.
 Focus: Stay on eyes and the nearest resting hand, not an ornamental focus shift into the reflective glass.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Eyes still on the record, Sơn says that neither fear nor what he owed Bà Hai excuses what he did; his voice stays dry and level. Beat 2 (3.0–6.0s): He lifts his eyes from the paper to Mây and tells her nobody held his hand at those doors, then accepts the punishment; his right thumb shifts once on the wood and lies flat. Beat 3 (6.0–10.0s): He stays in the silence, answerable, jaw steady, taking one normal breath in and out; his bare hand stays flat on the table and his eyes do not leave hers.
+Beat 1 (0.0–3.0s): Eyes still on Mây's open notebook, Sơn says that neither fear nor what he owed Bà Hai excuses what he did; his voice stays dry and level. Beat 2 (3.0–6.0s): He lifts his eyes from her page to Mây herself and tells her nobody held his hand at those doors, then accepts the punishment; his right thumb shifts once on the wood and lies flat. Beat 3 (6.0–10.0s): He stays in the silence, answerable, jaw steady, taking one normal breath in and out; his bare hand stays flat on the table and his eyes do not leave hers.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The admission is short and spoken in the first six seconds; the last four are held silence in which he stays answerable, breathing normally, instead of concluding the interview.
 
@@ -41,8 +41,8 @@ Performance: Admission without self-pity: the words are uncomfortable and he doe
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Sợ hãi, nợ ơn Bà Hai, không cái nào bào chữa được. Không ai cầm tay tôi gõ cửa. Tôi chịu.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–6.4s · Sơn (@Son), nói trong hình: Sợ hãi, nợ ơn Bà Hai, không cái nào bào chữa được. Không ai cầm tay tôi gõ cửa. Tôi chịu.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

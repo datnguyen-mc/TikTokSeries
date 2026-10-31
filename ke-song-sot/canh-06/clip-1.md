@@ -14,7 +14,7 @@ Back room of Hạ flower shop, kettle and small wooden table, rear doorway towar
 Recent-past night: warm back-room bulb overhead as key, soft cool street spill from the doorway behind, kettle steam catching the bulb light.
 
 [SCENE OPENING HOOK — Mở cảnh 06: Quá Khứ: Lời Mời Về Biển]
-Scene goal: Hạ đặt giới hạn rồi tặng đồng hồ như một lời hẹn. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Hạ đặt giới hạn rồi tặng đồng hồ như một lời hẹn. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Hạ's discovery interrupt an ordinary task before she has language for what she has seen.
@@ -44,8 +44,8 @@ Performance: Hạ's alarm is contained; she stops before she has words for what 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Cái gì dưới áo anh vậy? Rốt cuộc anh làm nghề gì?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.7s · Hạ (@Ha), nói trong hình: Cái gì dưới áo anh vậy? Rốt cuộc anh làm nghề gì?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

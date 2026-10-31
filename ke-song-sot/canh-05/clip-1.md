@@ -43,14 +43,13 @@ Performance: Orderly hands against tired shoulders: he handles the objects like 
 
 
 [DIALOGUE]
-0.2–5.5s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Sổ đen, hộp thiếc. Thứ Rắn Đen cần bịt lại, sớm muộn chúng sẽ lần tới đây.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.3s · Sơn, lời dẫn ngoài hình: Sổ đen, hộp thiếc. Thứ Rắn Đen cần bịt lại, sớm muộn chúng sẽ lần tới đây.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Original BLACK leather ledger, receipt and original USB initially fixed inside back cover.
-- Original USB from black ledger, preserved in an evidence sleeve at the station after 17.1.
 - Dented fitted tin containing three sealed fictional Tê vials, no opening or use instructions.
 - Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
 - Locked handgun case, no discharge. Sơn transfers complete case and key to Mây at 28.4 and remains unarmed thereafter.

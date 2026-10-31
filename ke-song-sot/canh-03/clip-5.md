@@ -11,7 +11,7 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 03/60, clip 5/6; shot 03.5. Story time: D1 morning.
 Hòn Sóng main street between inland crossroad and market: worn narrow asphalt, low tube houses with half-raised roll-up shutters, motorbikes parked on the pavement, fishing nets drying along the sea wall, coffee stall beside the sea wall. No readable signs.
-Morning coastal sun from the east backlighting the street; faces in cool open shade under the green awning with soft bounce from the counter; natural skin tones.
+Morning coastal sun from the east as a warm backlight along the open street; faces at the curb in soft cool skylight bounced off the pale sea wall, the stall's green awning soft in the background; natural skin tones.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Mây converting curiosity into a discreet check while keeping the encounter socially ordinary.
@@ -41,9 +41,9 @@ Performance: Mây lowers her voice only enough for privacy; curiosity becomes a 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Tên Sơn, ở chòi chú Bảy. Về tra sổ tạm trú giúp chị, kín đáo.
-Thành (@Phó Thành), nói trong hình: Dạ, trưa nay em báo chị.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Mây (@May), nói trong hình: Tên Sơn, ở chòi chú Bảy. Về tra sổ tạm trú giúp chị, kín đáo.
+6.5–8.6s · Thành (@Phó Thành), nói trong hình: Dạ, trưa nay em báo chị.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

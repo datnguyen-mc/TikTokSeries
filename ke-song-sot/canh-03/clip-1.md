@@ -14,7 +14,7 @@ Bảy coffee stall, green canvas awning, counter landward, low plastic stools an
 Morning coastal sun from the east backlighting the street; faces in cool open shade under the green awning with soft bounce from the counter; natural skin tones.
 
 [SCENE OPENING HOOK — Mở cảnh 03: Khách Không Nhìn Biển]
-Scene goal: Mây chú ý cách Sơn chọn chỗ và quan sát đường. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Mây chú ý cách Sơn chọn chỗ và quan sát đường. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Sơn's seating choice a small behavioral mystery that Bảy notices before Mây does.
@@ -44,9 +44,9 @@ Performance: Sơn's road-watching is habit, not panic; he offers a plausible sma
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Biển đẹp vậy mà chú ngồi quay lưng, ngó cái gương hoài hà.
-Sơn (@Son), nói trong hình: Hướng này đỡ gió hơn, chú.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.0s · Ông Bảy (@Ông Bảy), nói trong hình: Biển đẹp vậy mà chú ngồi quay lưng, ngó cái gương hoài hà.
+7.1–9.2s · Sơn (@Son), nói trong hình: Hướng này đỡ gió hơn, chú.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

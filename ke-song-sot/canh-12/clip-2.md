@@ -40,9 +40,9 @@ Performance: Wary, impatient professionals a beat too late, not clowns. The warm
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
 The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.
-Người trong cảnh, nói trong hình: Giường còn ấm. Nó vừa chạy ra cửa sau, theo dấu giày!
+3.0–6.4s · Người trong cảnh, nói trong hình: Giường còn ấm. Nó vừa chạy ra cửa sau, theo dấu giày!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

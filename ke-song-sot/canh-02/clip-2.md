@@ -5,7 +5,6 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Voice: rough, direct Southern Vietnamese male voice.
 Sơn (past timeline) wears his tailored matte-black suit, open-collar white shirt, and concealed underarm holster; black leather gloves worn on night jobs or tucked in pocket at the flower shop. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
 
 [PICTURE-ONLY REFERENCES]
@@ -22,7 +21,7 @@ Let a single sliding photograph define the transaction more clearly than exposit
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 02.1, ending with Sơn standing at the near edge of the teak desk facing Bà Hai, gloved hands at his sides, the empty chair beside him; Bà Hai seated with the holder lowered, eyes on him; Dũng planted by the shut rear door, bag strap across his chest; lamp light warm on the silk.
+Previous editorial shot: 02.1, ending with Sơn standing at the near edge of the teak desk facing Bà Hai, gloved right hand lying flat and still on the desk edge, left hand at his side, the empty chair beside him; Bà Hai seated with the holder lowered, eyes on him; Dũng planted by the shut rear door, bag strap across his chest; lamp light warm on the silk.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -45,8 +44,8 @@ Performance: Her hand assumes compliance, unhurried and proprietary, the gesture
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Bà Hai, ngoài khung hình: Vũ Kiên giữ cuốn sổ gốc của nhà mình. Con lấy về cho má.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–4.5s · Bà Hai, ngoài khung hình: Vũ Kiên giữ cuốn sổ gốc của nhà mình. Con lấy về cho má.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

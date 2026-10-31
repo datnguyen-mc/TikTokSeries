@@ -10,7 +10,7 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 
 [TIMELINE AND LOCATION]
 Scene 16/60, clip 5/6; shot 16.5. Story time: D3 late afternoon.
-Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
+Narrow maintenance stair and hatch below the gallery, inner latch on the hatch, backup-light lever below the final landing.
 Present-day late afternoon at the sea cliff: fading sun from the west as warm side key, cool sky fill, cold shade inside the tower; the lamp lights only during its deliberate test.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
@@ -41,8 +41,8 @@ Performance: Mây's hand is routine and familiar, a local checking a public fixt
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Mây, ngoài khung hình: Đèn dự phòng còn chạy tốt. Tôi gạt về như cũ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+3.0–6.5s · Mây, ngoài khung hình: Đèn dự phòng còn chạy tốt. Tôi gạt về như cũ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

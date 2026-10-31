@@ -16,7 +16,7 @@ Hòn Sóng main street between inland crossroad and market: worn narrow asphalt,
 Present-day afternoon: hard sun from the west on the road, faces in cooler shade under the stall awning and market roof with soft bounce from the pavement.
 
 [SCENE OPENING HOOK — Mở cảnh 09: Hai Người Lạ]
-Scene goal: Bảy và Thành tạo mạng quan sát, kẻ truy tìm để lại dấu. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Bảy và Thành tạo mạng quan sát, kẻ truy tìm để lại dấu. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 1.5s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make the same ordinary stall feel exposed when strangers use a photograph as a demand.
@@ -46,9 +46,9 @@ Performance: The visitors are businesslike and entitled, their politeness a form
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
 The unnamed background person specified by the action: natural Southern Vietnamese voice, no new named lead character.
-Người trong cảnh, nói trong hình: Tụi tôi từ thành phố xuống tìm người quen. Chú coi giùm, người này có cái sẹo ngang sống mũi, có ghé đây không?
+1.5–7.3s · Người trong cảnh, nói trong hình: Tụi tôi từ thành phố xuống tìm người quen. Chú coi giùm, người này có cái sẹo ngang sống mũi, có ghé đây không?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

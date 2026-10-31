@@ -18,20 +18,20 @@ Change control of the space through a visible police action rather than a magica
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 43.2, ending with Kiên a step back toward the white car, right hand on Hạ's left upper arm, thin smile fixed on Bà Hai; Hạ half turned, eyes on the guard; off to one side the guard walking toward the center seam.
+Previous editorial shot: 43.2, ending with Kiên a step back toward the white car, right hand on Hạ's left upper arm, thin smile fixed on Bà Hai; Hạ half turned, eyes on the driver; the driver walking from the white car toward the center seam.
 J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
-Blue dusk, harbour floodlight off. Mây at the edge of landward cover beside the floodlight switch, right hand near it, two officers crouched behind her; across the apron Sơn slumped against the bollard; black car east, white car west.
+Blue dusk, harbour floodlight off. Mây at the edge of landward cover beside the floodlight switch, right hand near it, two officers crouched behind her; far across the apron, small in the depth, Sơn slumped against the bollard with Bà Hai in violet silk and Dũng in black standing over him; black car east; white car west with Kiên in his white suit beside it, gripping Hạ in her grey dress.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: A wide reveals Mây emerging from landward cover, officers behind, both cars in fixed positions.
+Composition: A wide reveals Mây emerging from landward cover, officers behind, both cars in fixed positions and the held stand-off small in the depth.
 Focus: Keep the lamp change readable across the full space, never whitening the frame into a flash transition.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): Mây throws the floodlight switch with her right hand; the relay clicks and the big lamp warms from dull orange to steady white across the concrete, blue dusk giving way without any flash. Beat 2 (2.5–6.5s): She steps out of cover into the light, left hand raised open, and calls the police order for everyone to stand still and let go of the people they hold, her voice cutting over the idling engines. Beat 3 (6.5–10.0s): She advances along the painted safe line at a measured walk, eyes moving between the two cars, while the officers fan out behind her; across the apron Sơn's head stays slumped against the bollard, his chest rising under the new light.
+Beat 1 (0.0–2.5s): Mây throws the floodlight switch with her right hand; the relay clicks and the big lamp warms from dull orange to steady white across the concrete, blue dusk giving way without any flash. Beat 2 (2.5–6.5s): She steps out of cover into the light, left hand raised open, and calls the police order for everyone to stand still and let go of the people they hold, her voice cutting over the idling engines. Beat 3 (6.5–10.0s): She advances along the painted safe line at a measured walk, eyes moving between the two cars, while the officers fan out behind her; far across the apron the small figures at the bollard and the white car hold still in the glare, Sơn's head slumped against the bollard, his chest rising under the new light.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A dim first beat ends on the click; the lamp settles before she speaks; the short order lands mid-shot; the remaining seconds are a steady advance that establishes the intervention without overreaching.
 
@@ -41,8 +41,8 @@ Performance: Command without triumph: her voice is clear and forceful, yet her e
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Công an! Cả bãi đã bị bao vây. Đứng yên, buông người ra!
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–6.5s · Mây (@May), nói trong hình: Công an! Cả bãi đã bị bao vây. Đứng yên, buông người ra!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -60,7 +60,7 @@ Foreground sound: One switch or relay click, followed by her command and control
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Harbour lit steadily white; Mây a few paces along the safe line, left hand open at shoulder height, two officers spread behind her; Sơn slumped at the bollard across the apron, chest rising; both cars unmoved, engines idling.
+Harbour lit steadily white; Mây a few paces along the safe line, left hand open at shoulder height, two officers spread behind her; far across the apron Sơn slumped at the bollard, chest rising, Bà Hai and Dũng standing still over him; Kiên and Hạ beside the white car west; both cars unmoved, engines idling.
 Next shot 43.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

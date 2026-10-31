@@ -21,27 +21,27 @@ Previous editorial shot: 10.4, ending with Sơn by the broken door, phone lowere
 L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-The silk shop's rear stockroom door, shut and locked before opening hours; Sơn one pace from it in his black suit, backpack on his left shoulder with his left hand on the strap, the old key ready in his right hand.
+Inside the silk shop's dim rear stockroom before opening hours: the locked rear door on the left of frame, a thin line of grey dawn at its edge; silk bolts stacked along the wall; the shelf beside the loading door in shadow at the far right.
 
 [CAMERA]
 35mm lateral tracking shot moving with the subject in the established direction. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Track along the rear stockroom entry toward the familiar shelf, keeping the route in one direction.
+Composition: Stay inside the stockroom and track along it from the rear door toward the familiar shelf, keeping the route in one direction; the camera never passes through the doorway.
 Focus: Keep Sơn and the target shelf readable as he enters, rather than cutting to an unexplained object location.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn steps to the door, fits the old key into the lock without hunting for the keyhole and turns it; the latch gives with one restrained click. Beat 2 (3.0–6.5s): He slips inside and pushes the door to behind him, pocketing the key as he moves, the lateral move carrying with him into the dim stockroom. Beat 3 (6.5–10.0s): He crosses the room without searching, straight past the silk bolts to the shelf beside the loading door, and stops there; on the shelf, the black ledger and the dented tin sit in the dim practical light.
+Beat 1 (0.0–3.0s): A key turns in the old lock from outside without a single fumble and the latch gives with one restrained click; the door swings inward and Sơn slips through, backpack on his left shoulder, left hand on the strap. Beat 2 (3.0–6.5s): He pushes the door shut behind him and pockets the key as he moves, the lateral track gliding with him into the dim stockroom. Beat 3 (6.5–10.0s): He crosses the room without searching, straight past the silk bolts to the shelf beside the loading door, and stops there; on the shelf, the black ledger and the dented tin sit in the dim practical light.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A short plain unlock, a continuous entry, and a direct walk to the shelf; the clip ends as he arrives, before anything is taken.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: One direction throughout, left to right: rear door on the left, shelf and loading door on the right. The key goes from his right hand into the lock and then his jacket pocket; the backpack never leaves his left shoulder.
+Blocking: One direction throughout, left to right: rear door on the left, shelf and loading door on the right. The key is turned from outside the door; once inside, his right hand carries it into his jacket pocket. The backpack never leaves his left shoulder.
 Performance: Purposeful, not excited: familiarity means no searching, which makes the choice deliberate. He knows Bà Hai will call it betrayal and does it anyway. No thief's crouch, no nervous glances.
 
 
 [DIALOGUE]
-0.2–5.8s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Bà Hai nói dối. Tôi không về nhận lệnh. Tôi dùng chìa cũ, vào kho sau tiệm lụa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.6s · Sơn, lời dẫn ngoài hình: Bà Hai nói dối. Tôi không về nhận lệnh. Tôi dùng chìa cũ, vào kho sau tiệm lụa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

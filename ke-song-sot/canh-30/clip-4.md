@@ -11,7 +11,7 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 [TIMELINE AND LOCATION]
 Scene 30/60, clip 4/6; shot 30.4. Story time: D6 morning.
 Hòn Sóng fish market under a corrugated roof: wet concrete floor, parallel narrow aisles, foam boxes and crate stacks of fish on crushed ice, side doors and rear safe exit, no readable signs.
-Same morning fish-market light as scene 29: top light through roof gaps, bright exits backlit for clear geography, cool shade in the aisles.
+Morning inside the fish market: top light through roof gaps, bright exits backlit for clear geography, cool shade in the aisles.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Dũng recover pressure through time after losing immediate control of the aisle.
@@ -41,9 +41,9 @@ Performance: Dũng swaps force for time: he is calm because the deadline does hi
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Dũng (@Dũng), nói trong hình: Cứ núp sau dân chợ đi Sơn. Trốn thêm một ngày nữa là con Hạ lên tàu.
-Sơn (@Son), nói trong hình: Muốn sổ thì bảo Bà Hai ra mặt nói với tao.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.3s · Dũng (@Dũng), nói trong hình: Cứ núp sau dân chợ đi Sơn. Trốn thêm một ngày nữa là con Hạ lên tàu.
+5.4–8.9s · Sơn (@Son), nói trong hình: Muốn sổ thì bảo Bà Hai ra mặt nói với tao.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

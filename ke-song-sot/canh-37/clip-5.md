@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 37/60, clip 5/6; shot 37.5. Story time: D7 afternoon.
 Covered rear lane behind the coffee stall under a patched corrugated-iron roof, isolated from the public road, map table beside the rear door, crates of empty bottles against the wall.
-Same afternoon as scene 36: quiet shade behind the awning, soft daylight bouncing in from the lane side.
+Present-day afternoon: quiet shade behind the awning, soft daylight bouncing in from the lane side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Plant the later rescue signal through one ordinary object placement that can be recognized instantly.
@@ -41,15 +41,15 @@ Performance: Mây is precise rather than ritualistic, teaching the one thing he 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Nhớ tín hiệu. Phong bì xuống đất, anh lùi một bước, người của tôi vào.
-Sơn (@Son), nói trong hình: Rõ. Cô đón Hạ ở vạch an toàn trước.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Mây (@May), nói trong hình: Nhớ tín hiệu. Phong bì xuống đất, anh lùi một bước, người của tôi vào.
+6.5–9.4s · Sơn (@Son), nói trong hình: Rõ. Cô đón Hạ ở vạch an toàn trước.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 The thin envelope lies flat on worn wood, without adding a symbol or readable mark.

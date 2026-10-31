@@ -19,7 +19,7 @@ End the action on Sơn accepting scrutiny, making cooperation a cost he consciou
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 12.5, ending with Sơn kneeling beside the breathing man, phone at his ear, free hand raised toward the first man seated against the trunk; the capped applicator untouched in the sand a pace away; the fallen man's chest rising slowly; pine shadows moving over them.
+Previous editorial shot: 12.5, ending with Sơn kneeling beside the breathing man, phone at his ear, free hand raised toward the first man seated empty-handed against the trunk; the capped applicator untouched in the sand a pace away, the baton farther off behind Sơn; the fallen man's chest rising slowly; pine shadows moving over them.
 J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut; the action is already under way at 0.0s. This generated clip contains only the new shot, not a two-location montage.
 
 [START FRAME — state only, not an action to repeat]
@@ -42,9 +42,9 @@ Performance: Mây is firm, not triumphant; she needs control first and his story
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Anh Sơn, để tay yên đó. Anh ở lại đây, tôi cần nghe hết.
-Sơn (@Son), nói trong hình: Đưa người này đi phòng khám trước. Bằng chứng tôi giao cô.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.5s · Mây (@May), nói trong hình: Anh Sơn, để tay yên đó. Anh ở lại đây, tôi cần nghe hết.
+4.6–8.3s · Sơn (@Son), nói trong hình: Đưa người này đi phòng khám trước. Bằng chứng tôi giao cô.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

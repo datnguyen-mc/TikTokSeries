@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 
 [TIMELINE AND LOCATION]
 Scene 36/60, clip 3/6; shot 36.3. Story time: D7 afternoon.
-Inside rear of Kiên white car, one rear door facing the public apron, grey seat and closed opposite door.
+Inside the rear of Kiên's white car: grey seats, one rear door facing the street, the opposite door closed.
 Present-day afternoon: sun from the west on the street, soft green-awning shade on faces, cool reflected light inside the white car.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
@@ -37,13 +37,13 @@ Play each beat once, in order, from the start state to the end state; no gesture
 Action rhythm: Recognition and her first words come together; the hand reaches the handle on her last words, unhurried and readable; the end leaves her assertion unanswered.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn's right shoulder fills the near foreground screen left; the car's open rear window sits center frame with Hạ behind it, Kiên outside at the door screen right. Hạ uses her right hand on the handle.
+Blocking: Over Sơn's left shoulder, which fills the near foreground screen right, keeping the scene's axis with the car and Kiên on the left and Sơn on the right. The lowered rear window sits center frame with Hạ behind it; Kiên stands outside at the rear door toward screen left. Hạ uses her right hand on the handle.
 Performance: Hạ defines herself the moment she is visible: capable, not cargo, asking no one to carry her. Sơn holds back every impulse to move. Kiên's ease cracks slightly. No pleading, no tears, no lunge.
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Anh Sơn, đừng để hắn ép anh. Tới lúc, em tự bước ra.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Hạ (@Ha), nói trong hình: Anh Sơn, đừng để hắn ép anh. Tới lúc, em tự bước ra.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

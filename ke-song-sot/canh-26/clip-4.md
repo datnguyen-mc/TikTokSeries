@@ -3,7 +3,7 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no handcuffs left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured. Voice: low, crisp, clear Southern Vietnamese male voice.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
@@ -18,11 +18,11 @@ Give Mây her own practical choice after the two city cuffs are already spent.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 26.3, ending with Sliding screen shut across the aisle, the guard's shape pressing on its far side; Sơn braced against the near edge with right shoulder and hand, bandaged left arm tucked in, breathing hard; Mây at the open river door, daylight and river beyond her.
+Previous editorial shot: 26.3, ending with Sliding screen shut across the aisle, the guard's shape pressing on its far side; Sơn braced against the near edge with right shoulder and hand, bandaged left arm tucked in, breathing hard; Mây at the open river door, the sealed sample sleeve still held to her chest, daylight and river beyond her.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-River loading dock in afternoon light: Mây at the open iron gate on the dock side, wet mooring rope coiled at the post beside her; Sơn running out of the factory's river door toward the gate; another guard starting down the outside stairs; workboat moored beyond.
+River loading dock in afternoon light: Mây at the open iron gate on the dock side, both hands free, wet mooring rope coiled at the post beside her; Sơn running out of the factory's river door toward the gate; another guard starting down the outside stairs; the workboat moored beyond, the sealed sample sleeve already stowed under its bench.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -41,8 +41,8 @@ Performance: Mây is pure purpose: her face hardens on the knot, not on the guar
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Anh xuống thuyền đi. Sợi dây này chỉ cầm chân tụi nó được một lúc.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Mây (@May), nói trong hình: Anh xuống thuyền đi. Sợi dây này chỉ cầm chân tụi nó được một lúc.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

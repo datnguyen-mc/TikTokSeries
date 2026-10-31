@@ -11,7 +11,7 @@ Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck,
 [TIMELINE AND LOCATION]
 Scene 43/60, clip 6/6; shot 43.6. Story time: D7 dusk.
 Lower lighthouse maintenance gate behind west harbour apron, narrow stair above it, cart can block the lower gate.
-Early night: harbour floodlight ON continuously as hard high key, car lamps unchanged, dark sea behind.
+Last blue dusk at the lower service gate: harbour floodlight glow ON behind them as hard high key, the narrow stair darker ahead under a deep-blue sky.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Turn the escape into an obstacle that will cost the rescuers real time.
@@ -41,8 +41,8 @@ Performance: Kiên's polish cracks into hurried physical effort; he is buying di
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Kiên (@Vũ Kiên), nói trong hình: Lên! Đi trước tao. Cổng chặn rồi, không ai theo kịp đâu.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+6.5–9.8s · Kiên (@Vũ Kiên), nói trong hình: Lên! Đi trước tao. Cổng chặn rồi, không ai theo kịp đâu.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

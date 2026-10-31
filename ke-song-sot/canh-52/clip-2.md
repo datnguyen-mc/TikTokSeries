@@ -44,8 +44,8 @@ Performance: The hesitation on the clasp is the weight of everything he held bac
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Sơn, ngoài khung hình: Hết việc rồi. Giờ anh mở.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+0.2–2.3s · Sơn, ngoài khung hình: Hết việc rồi. Giờ anh mở.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

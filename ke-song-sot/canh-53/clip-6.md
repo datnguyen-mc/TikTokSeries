@@ -12,7 +12,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 53/60, clip 6/6; shot 53.6. Story time: D7 night continuous.
 Main iron entrance of old lighthouse, motorcycle space outside, main spiral stair inside, maintenance route separate.
-Same night gallery and stairs: stable work practicals as key, the beacon sweeping the water outside as a slow moving rim.
+Night outside the lighthouse base: a caged work lamp over the iron doorway as warm key, cool moonlight as fill, the steady backup beam high above reaching out over the sea.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Give Hạ her father's place back briefly, then let the group continue toward the consequences.
@@ -23,16 +23,16 @@ Previous editorial shot: 53.5, ending with Mây and the cuffed Sơn descending o
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-The lighthouse's main iron doorway at night: Mây and the cuffed Sơn stepping out first, Hạ just inside the threshold behind them, scarf at her shoulders; the backup beam moving over the sea above; a waiting vehicle beyond the motorcycle space.
+The lighthouse's main iron doorway at night: Mây and the cuffed Sơn stepping out first, Hạ just inside the threshold behind them, scarf at her shoulders; the steady backup beam reaching out over the sea above; a waiting vehicle beyond the motorcycle space.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame the main doorway and waiting vehicle wide, the working beam already moving across the sea.
+Composition: Frame the main doorway and waiting vehicle wide, the working backup beam already lying steady over the sea.
 Focus: Keep her pause and renewed steps readable against the existing main-door geography.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây and Sơn walk on toward the waiting vehicle while Hạ steps through the iron doorway and slows, her head tilting up. Beat 2 (3.0–6.5s): She stops and watches the beam cross the water from her father's lighthouse, the scarf lifting at her shoulders, and asks Mây to keep the light on until everyone is home. Beat 3 (6.5–10.0s): Mây glances back and nods; Hạ lowers her eyes from the tower and walks on after them, her steps quickening toward the vehicle while the beam keeps sweeping behind her.
+Beat 1 (0.0–3.0s): Mây and Sơn walk on toward the waiting vehicle while Hạ steps through the iron doorway and slows, her head tilting up. Beat 2 (3.0–6.5s): She stops and watches the steady beam from her father's lighthouse reach out over the water, the scarf lifting at her shoulders, and asks Mây to keep the light on until everyone is home. Beat 3 (6.5–10.0s): Mây glances back and nods; Hạ lowers her eyes from the tower and walks on after them, her steps quickening toward the vehicle while the beam holds steady over the sea behind her.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Departure keeps moving, one short pause carries the line, and the end is already in motion toward the vehicle, not frozen before the lighthouse.
 
@@ -42,8 +42,8 @@ Performance: A quiet request for safety, not a victory line; she hides grief for
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Mây, để đèn của ba tao sáng tới khi mọi người về.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.7s · Hạ (@Ha), nói trong hình: Mây, để đèn của ba tao sáng tới khi mọi người về.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

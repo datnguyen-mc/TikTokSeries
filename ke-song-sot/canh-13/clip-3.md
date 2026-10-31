@@ -41,9 +41,9 @@ Performance: Linh speaks from weary experience, not a lecture; he wants her to s
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Nó chỉ giữ người ta bất động. Tỉnh lúc nào tùy người, đừng tin ai hẹn đúng phút.
-Mây (@May), nói trong hình: Vậy chúng dùng nó đưa con tin lên tàu.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–6.9s · Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Nó chỉ giữ người ta bất động. Tỉnh lúc nào tùy người, đừng tin ai hẹn đúng phút.
+7.0–9.4s · Mây (@May), nói trong hình: Vậy chúng dùng nó đưa con tin lên tàu.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -10,7 +10,7 @@ Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck,
 
 [TIMELINE AND LOCATION]
 Scene 44/60, clip 3/6; shot 44.3. Story time: D7 early night.
-Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
+Narrow maintenance stair and hatch below the gallery, inner latch on the hatch, backup-light lever below the final landing.
 Early night: established harbour floodlight as high key outside, warm van lamp inside, dim lighthouse work practicals on the stairs.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
@@ -41,14 +41,14 @@ Performance: Hạ performs harmless practicality while her mind works the latch;
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Lối này chỉ lên sàn đèn thôi, không ra đường lớn đâu ông.
-Kiên (@Vũ Kiên), nói trong hình: Đừng câu giờ. Mở cái nắp đó ra.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Hạ (@Ha), nói trong hình: Lối này chỉ lên sàn đèn thôi, không ra đường lớn đâu ông.
+4.3–6.9s · Kiên (@Vũ Kiên), nói trong hình: Đừng câu giờ. Mở cái nắp đó ra.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 Grey cotton brushes old painted metal, Kiên's white suit begins catching dust from the confined route.

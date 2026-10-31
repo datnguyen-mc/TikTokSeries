@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. two steel handcuff pairs at the back of her belt under the denim jacket. Voice: firm, clear Southern Vietnamese female voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
 Sơn wears his matte-black suit over open-collar white shirt, both hands bare without gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
 
@@ -42,9 +42,9 @@ Performance: Bà Hai is settled, almost tender, and that is the threat; the shoc
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Má biết con sẽ về bằng chìa cũ. Má để nguyên ổ khóa chờ con.
-Sơn (@Son), nói trong hình: Má ngồi chờ trong tối, định gọi Dũng về sao?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.6–5.0s · Bà Hai (@HaiNgoc), nói trong hình: Má biết con sẽ về bằng chìa cũ. Má để nguyên ổ khóa chờ con.
+5.2–8.6s · Sơn (@Son), nói trong hình: Má ngồi chờ trong tối, định gọi Dũng về sao?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

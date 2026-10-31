@@ -10,7 +10,7 @@ Sơn (past timeline) wears his tailored matte-black suit, open-collar white shir
 [TIMELINE AND LOCATION]
 Scene 08/60, clip 6/6; shot 08.6. Story time: PAST one month earlier night.
 City rear lane under tangled overhead power cables, tower visible across the road, flower shop at street level beyond the corner.
-Recent-past car park at night: overhead amber fluorescent tubes as top key, moving search beams raking the pillars from the ramp side, deep shadow between; no gunfire.
+Recent-past city night in light rain: a dim caged bulb under the rear awning as soft top key, cool blue-grey street spill on the wet asphalt and the dripping awning edge, the flower shop's faint warm window glow across the road as the only warm accent; no search beams, no fluorescent tubes.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let the silent watch create a private loss before Sơn discovers a greater one at the flower shop.
@@ -40,8 +40,8 @@ Performance: Concentration while he listens, then a private loss when no tick co
 
 
 [DIALOGUE]
-0.2–7.5s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Đêm đó, thứ đầu tiên tôi mất là tiếng tích tắc trong đồng hồ của Hạ. Điều thứ hai, tôi chưa dám nghĩ tới.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–7.3s · Sơn, lời dẫn ngoài hình: Đêm đó, thứ đầu tiên tôi mất là tiếng tích tắc trong đồng hồ của Hạ. Điều thứ hai, tôi chưa dám nghĩ tới.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ Wet lapel edges and muted silver retain the night's wear, with no inner watch fa
 
 [SOUND]
 Location bed: rain drips and faint traffic.
-Foreground sound: Suppress any ticking completely; rain drips and his breathing remain under the narration and distant city bed.
+Foreground sound: Suppress any ticking completely; rain drips and his breathing remain under Sơn's voice-over and distant city bed.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: City rain falls away, the arriving black car establishes present-day afternoon. Do not replay the garage escape.
 
 [END FRAME — natural motion continues]

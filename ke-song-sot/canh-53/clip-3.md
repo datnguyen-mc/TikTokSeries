@@ -12,7 +12,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 53/60, clip 3/6; shot 53.3. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery and stairs: stable work practicals as key, the beacon sweeping the water outside as a slow moving rim.
+Same night gallery: stable work practicals as key, the steady seaward backup beam unchanged since it switched on, its spill a soft cool rim from the sea side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Join his acceptance to the careful reality of custody, avoiding either punishment spectacle or easy forgiveness.
@@ -42,8 +42,8 @@ Performance: He answers her with the consequence in front of his eyes, hiding no
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Ừ. Bao năm người ta chọn thay anh. Lần này anh tự chọn.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Sơn (@Son), nói trong hình: Ừ. Bao năm người ta chọn thay anh. Lần này anh tự chọn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

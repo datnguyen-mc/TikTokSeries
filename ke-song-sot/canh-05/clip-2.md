@@ -40,14 +40,15 @@ Performance: Practiced fingers, then a small involuntary slowing when the paper 
 
 
 [DIALOGUE]
-0.2–5.0s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Ổ nhớ giữ tài khoản ngầm. Kẹp dưới nó là phiếu điều vận của chúng.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+2.2–6.8s · Sơn, lời dẫn ngoài hình: Ổ nhớ giữ tài khoản ngầm. Kẹp dưới nó là phiếu điều vận của chúng.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Original BLACK leather ledger, receipt and original USB initially fixed inside back cover.
 - Original USB from black ledger, preserved in an evidence sleeve at the station after 17.1.
+- Dispatch receipt with seven dated boxes and a ship stamp, no readable generated text.
 
 [VISIBLE TEXTURE]
 Worn adhesive stretches slightly, and the receipt retains the crease from being stored under the drive.

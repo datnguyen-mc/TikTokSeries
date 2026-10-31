@@ -10,8 +10,8 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 
 [TIMELINE AND LOCATION]
 Scene 48/60, clip 6/6; shot 48.6. Story time: D7 night continuous.
-Main spiral stair inside lighthouse, gallery at top, handrail continuous, Mây leading Sơn upward.
-Night road lit from the front by the motorcycle headlamp; lighthouse work lights as cool top light and low practicals inside.
+Main spiral stair inside the lighthouse, gallery at the top, continuous handrail.
+Night inside the lighthouse: cool caged work lights as top light on the spiral stair, low practicals on the landings.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Place Mây at the threshold of conversation while Sơn visibly remains behind her.
@@ -31,7 +31,7 @@ Composition: Use the medium at the last main-stair corner, gallery light above a
 Focus: Keep Mây's mouth and Sơn's listening position readable, no cut to the off-screen captor during the line.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Kiên's shoes scuff on the gallery above and the wind carries the sound down; Mây lifts a flat hand behind her to hold Sơn in place and draws one slow breath, eyes on the light above. Beat 2 (3.0–7.0s): Without stepping into view, she calls up the stairwell, naming herself as police, saying she is coming up to talk and asking him to move away from Hạ, her voice steady and carrying. Beat 3 (7.0–10.0s): She holds the corner with both hands open and visible at her sides, listening for an answer; a step below, Sơn stays behind her shoulder, jaw set, eyes up the stair, his breath slowing, making no move past her.
+Beat 1 (0.0–3.0s): Kiên's shoes scuff on the gallery above and the wind carries the sound down; Mây lifts a flat hand behind her to hold Sơn in place and draws one slow breath, eyes on the light above. Beat 2 (3.0–7.0s): Without stepping into view, she calls up the stairwell, identifying herself only as police, saying she is coming up to talk and asking him to move away from Hạ, her voice steady and carrying. Beat 3 (7.0–10.0s): She holds the corner with both hands open and visible at her sides, listening for an answer; a step below, Sơn stays behind her shoulder, jaw set, eyes up the stair, his breath slowing, making no move past her.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The arrival settles into a stop at the start; the announcement takes the middle; the final beat is held listening, turning movement into negotiation while breath and wind continue.
 
@@ -41,8 +41,8 @@ Performance: Mây's steadiness invites an answer: firm and unhurried, no threat 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Kiên, tôi là Mây, công an. Tôi lên nói chuyện. Anh lùi ra khỏi Hạ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.3s · Mây (@May), nói trong hình: Kiên, công an đây. Tôi lên nói chuyện. Anh lùi ra khỏi Hạ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

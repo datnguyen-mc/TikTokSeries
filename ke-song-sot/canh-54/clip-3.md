@@ -28,11 +28,11 @@ Thành seated beside Hạ at the table, Mây's phone propped between them showin
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Hạ and Thành with the saved video on the existing tablet between them.
-Focus: Keep her speaking face primary, tablet readable as a recorded image without requiring generated legible labels.
+Composition: Frame Hạ and Thành with the saved video on the same propped phone between them.
+Focus: Keep her speaking face primary, the phone screen readable only as a recorded image without generated legible labels.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Thành turns the phone toward Hạ, the paused frame showing the vent and the ferry emblem beyond it. Beat 2 (3.0–6.5s): Hạ's finger touches the emblem on the screen and she says it was this ferry: its horn meant the evening meal, and she counted her days by it, her eyes fixed on the image. Beat 3 (6.5–10.0s): Thành answers that it matches the recording and that he is logging the ferry route, writing on his statement pad; Hạ sits back a little, the phone still between them.
+Beat 1 (0.0–2.5s): Thành turns the phone toward Hạ, the paused frame showing the vent and the ferry emblem beyond it. Beat 2 (2.5–7.3s): Hạ's finger touches the emblem on the screen and she says it was this ferry: its horn meant the evening meal, and she counted her days by it, her eyes fixed on the image. Beat 3 (7.3–10.0s): Thành answers that it matches the recording and that he is logging the ferry route, writing on his statement pad; Hạ sits back a little, the phone still between them.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The image is offered quickly, her identification takes the middle, and Thành's short confirmation turns it into a written fact without replaying the video.
 
@@ -42,9 +42,9 @@ Performance: Certainty earned by repetition endured; she hides how long those da
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Đúng chiếc phà này. Còi phà kêu là tới bữa chiều, tao đếm ngày bằng nó.
-Thành (@Phó Thành), nói trong hình: Khớp đoạn ghi hình. Em ghi tuyến phà vô.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.6–7.1s · Hạ (@Ha), nói trong hình: Đúng chiếc phà này. Còi phà kêu là tới bữa chiều, chị đếm ngày bằng nó.
+7.4–9.7s · Thành (@Phó Thành), nói trong hình: Khớp đoạn ghi hình. Em ghi tuyến phà vô.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -53,12 +53,12 @@ Reference only; enact only the current ACTION, not a future handover.
 - Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
 
 [VISIBLE TEXTURE]
-Clean clothes remain ordinary and the captured room is confined to the tablet, no extra Hạ body appears.
+Clean clothes remain ordinary and the captured room is confined to the phone screen, no extra Hạ body appears.
 
 
 [SOUND]
 Location bed: ceiling fan and quiet paperwork.
-Foreground sound: Tablet audio may stay muted beneath her line, with only the actual station fan and pencil present.
+Foreground sound: Phone audio may stay muted beneath her line, with only the actual station fan and pen present.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

@@ -14,7 +14,7 @@ Outside rear of the same stationary van, market wall behind, loose cart to left,
 Same night: warm van lamp spilling from the open rear into the lane as side key, distant harbour floodlight as cool rim.
 
 [SCENE OPENING HOOK — Mở cảnh 46: Mây Giữ Cửa]
-Scene goal: Mây khống chế Dũng bằng còng mới, Sơn trở lại từng chút. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Mây khống chế Dũng bằng còng mới, Sơn trở lại từng chút. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 2.5s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Turn the established cart into a simple barrier, not an extravagant winning stunt.
@@ -44,9 +44,9 @@ Performance: Mây's refusal comes from concentration, not triumph; her body does
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Anh không đưa ai đi đâu nữa, Dũng.
-Dũng (@Dũng), nói trong hình: Mày tưởng cái xe đẩy cản nổi tao hả?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–5.1s · Mây (@May), nói trong hình: Anh không đưa ai đi đâu nữa, Dũng.
+6.0–8.9s · Dũng (@Dũng), nói trong hình: Mày tưởng cái xe đẩy cản nổi tao hả?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

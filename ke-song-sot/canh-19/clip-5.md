@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. two steel handcuff pairs at the back of her belt under the denim jacket. Voice: firm, clear Southern Vietnamese female voice.
 Sơn carries his weathered dark-olive canvas travel backpack containing his folded black suit and gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 Time ellipsis: a few minutes later, Mây has put on the denim jacket prepared at 19.4.
 
@@ -12,14 +12,14 @@ Time ellipsis: a few minutes later, Mây has put on the denim jacket prepared at
 [TIMELINE AND LOCATION]
 Scene 19/60, clip 5/6; shot 19.5. Story time: D4 noon.
 South porch of the same cabin, one table, two stools, dune path on left when facing sea, casuarina shade and the open sea below.
-Present-day noon: daylight through the east cabin window as side key on the table; hard sun on the porch with faces in its shade.
+Present-day noon on the open south porch: hard overhead sun on the boards and the sea beyond, faces in the roof's shade with soft bounce from the sunlit sand, casuarina shadows stirring.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Mây define her own reason for going, preventing the trip from becoming Sơn's possessive rescue narrative.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 19.4, ending with The dark-blue denim jacket lies flat on the table beside Mây's packed travel bag; Mây stands over it in her khaki shirt, one palm still on the collar, eyes on Sơn; Sơn faces her across the table, nodding slightly, weight settling.
+Previous editorial shot: 19.4, ending with The dark-blue denim jacket lies flat on the table beside Mây's packed black daypack; Mây stands over it in her khaki shirt, one palm still on the collar, eyes on Sơn; Sơn faces her across the table, nodding slightly, weight settling.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -42,9 +42,9 @@ Performance: His warning is protective and a little possessive; her correction i
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Tiệm Bà Hai ban đêm là cái bẫy. Lỡ có chuyện thì sao?
-Mây (@May), nói trong hình: Tôi đi tìm chứng cứ cứu Hạ, không phải đi trốn cùng anh.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Sơn (@Son), nói trong hình: Tiệm Bà Hai ban đêm là cái bẫy. Lỡ có chuyện thì sao?
+4.3–8.3s · Mây (@May), nói trong hình: Tôi đi tìm chứng cứ cứu Hạ, không phải đi trốn cùng anh.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -58,7 +58,7 @@ Denim replaces khaki after the stated ellipsis, while his olive jacket and bag r
 
 [SOUND]
 Location bed: soft surf, pine wind and porch-board creaks.
-Foreground sound: Her line is clear over porch wind, with no invented warning speech from Sơn needed inside this clip.
+Foreground sound: Sơn's low warning and her steady answer follow each other cleanly over porch wind and soft surf, never overlapping, with no added music.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

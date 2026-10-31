@@ -43,8 +43,8 @@ Performance: Narrow professional attention, a man memorising an entrance; the jo
 
 
 [DIALOGUE]
-0.2–6.6s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Mặt sau tấm ảnh là lối vào tòa tháp. Đối diện nó, một tiệm hoa nhỏ sắp đổi cả đời tôi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–6.4s · Sơn, lời dẫn ngoài hình: Mặt sau tấm ảnh là lối vào tòa tháp. Đối diện nó, một tiệm hoa nhỏ sắp đổi cả đời tôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

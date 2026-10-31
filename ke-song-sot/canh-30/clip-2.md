@@ -11,7 +11,7 @@ Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boot
 [TIMELINE AND LOCATION]
 Scene 30/60, clip 2/6; shot 30.2. Story time: D6 morning.
 Hòn Sóng fish market under a corrugated roof: wet concrete floor, parallel narrow aisles, foam boxes and crate stacks of fish on crushed ice, side doors and rear safe exit, no readable signs.
-Same morning fish-market light as scene 29: top light through roof gaps, bright exits backlit for clear geography, cool shade in the aisles.
+Morning inside the fish market: top light through roof gaps, bright exits backlit for clear geography, cool shade in the aisles.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make the townspeople useful by closing a route after a person escapes, then protecting themselves.
@@ -41,9 +41,9 @@ Performance: Bảy's people are practical and brave without wanting a fight: qui
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Chú Sơn, chạy thẳng ra cửa sau, trống trơn hà. Xe đá để tui với bà con lo.
-Sơn (@Son), nói trong hình: Cảm ơn chú. Vô trong đóng cửa liền đi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.6s · Ông Bảy (@Ông Bảy), nói trong hình: Chú Sơn, chạy thẳng ra cửa sau, trống trơn hà. Xe đá để tui với bà con lo.
+5.7–8.6s · Sơn (@Son), nói trong hình: Cảm ơn chú. Vô trong đóng cửa liền đi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -17,11 +17,11 @@ Escalate from a controlled restraint to an unpredictable second threat, not a di
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 12.3, ending with Pursuer seated in the sand with his back against the pine trunk at center, straining; Sơn on one knee at his side, screen left, both hands pinning the man's outstretched weapon wrist to the sand at arm's length, away from both faces; both breathing hard; the open slope empty behind Sơn's back.
+Previous editorial shot: 12.3, ending with Pursuer seated in the sand with his back against the pine trunk at center, straining; Sơn on one knee at his side, screen left, both hands pinning the man's outstretched wrist to the sand at arm's length, the black baton still in that fist, away from both faces; both breathing hard; the open slope empty behind Sơn's back.
 Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Pursuer seated in the sand with his back against the pine trunk at center, straining; Sơn on one knee at his side, screen left, both hands pinning the man's outstretched weapon wrist to the sand at arm's length, away from both faces; both breathing hard; the open slope empty behind Sơn's back.
+Pursuer seated in the sand with his back against the pine trunk at center, straining; Sơn on one knee at his side, screen left, both hands pinning the man's outstretched wrist to the sand at arm's length, the black baton still in that fist, away from both faces; both breathing hard; the open slope empty behind Sơn's back.
 
 [CAMERA]
 35mm controlled handheld medium-wide with kinetic energy. Keep the entire defensive action readable from one side of the axis.
@@ -30,7 +30,7 @@ Composition: Preserve the same handheld setup, axis and existing body positions 
 Focus: Retain the preceding useful depth and whole-arm readability, without a new device-application close-up or rack.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): From the open slope behind Sơn's back, a second pursuer rushes in and lunges at him, a small capped Tê applicator in his fist. Beat 2 (2.5–5.5s): Sơn hears the sand hiss, releases one hand from the wrist and twists; his forearm knocks the lunging arm wide, and the overcommitted man pitches past him, as Sơn spits out what the device is. Beat 3 (5.5–10.0s): The second man sprawls into the sand beyond the trunk, the applicator flying from his grip and landing out of reach; Sơn, still on one knee, keeps one hand on the first man's wrist, eyes darting between the two, chest heaving; the handheld holds the same side.
+Beat 1 (0.0–2.5s): From the open slope behind Sơn's back, a second pursuer rushes in and lunges at him, a small capped Tê applicator in his fist. Beat 2 (2.5–5.5s): Sơn hears the sand hiss, releases one hand from the first man's wrist and twists; his forearm knocks the lunging arm wide, and the overcommitted man pitches past him, as Sơn spits out what the device is. Beat 3 (5.5–10.0s): The second man sprawls into the sand beyond the trunk, landing on his own fist so the applicator's cap clicks against his chest, and it rolls from his grip out of reach; he pushes up onto hands and knees and his arms begin to tremble; Sơn, still on one knee, keeps one hand on the first man's wrist, eyes darting between the two, chest heaving; the handheld holds the same side.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The lunge breaks the held control abruptly, the deflection is a single motion, and the stumble and searching eyes fill the end without a second takedown.
 
@@ -40,8 +40,8 @@ Performance: Surprise lives in his breath and shoulders; he is not a master, onl
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Ống Tê! Tụi mày định đánh lén sau lưng hả?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–5.7s · Sơn (@Son), nói trong hình: Ống Tê! Tụi mày định đánh lén sau lưng hả?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -58,7 +58,7 @@ Foreground sound: A scuff, strained exhale and small object landing should domin
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Second man sprawled on hands and knees in the sand right of the trunk, the capped applicator lying out of his reach farther right; Sơn on one knee at left, one hand still pinning the first man's wrist, the other raised open; the first man seated against the trunk; all breathing hard.
+Second man on hands and knees in the sand right of the trunk, arms trembling, head sinking; the capped applicator lying out of his reach farther right; Sơn on one knee at left, one hand still pinning the first man's wrist, the other raised open; the first man seated against the trunk; all breathing hard.
 Next shot 12.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

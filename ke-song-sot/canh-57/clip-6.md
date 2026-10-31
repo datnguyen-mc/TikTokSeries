@@ -41,13 +41,14 @@ Performance: Confident but restrained: Hạ wants to be seen, not to stop the ve
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Tao đứng đây thôi Mây. Xe chạy ngang, ảnh sẽ thấy tao.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.9s · Hạ (@Ha), nói trong hình: Tao đứng đây thôi Mây. Xe chạy ngang, ảnh sẽ thấy tao.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- One white lily from Hạ family-home vase, wrapped at 57.5 and held at the public walkway during departure.
 
 [VISIBLE TEXTURE]
 One lily remains in plain paper, scarf and clean clothes unchanged, no sudden crowd gathers to see Sơn off.

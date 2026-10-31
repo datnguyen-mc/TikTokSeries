@@ -33,7 +33,7 @@ Composition: Frame Hạ and Kiên medium with the inner wall and remaining dista
 Focus: Keep their feet or weight change implied clearly within the medium composition, no covert escape hidden by a cut.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Hạ sways a little, her free right hand lifting toward the inner wall, eyes half-closing against the wind. Beat 2 (3.0–6.5s): She tells Kiên she is dizzy and asks to lean on the wall; his eyes flick from her to the doorway, and he answers that she may take one step and no more. Beat 3 (6.5–10.0s): Hạ takes that single step, her shoulder meeting the masonry and her right palm flattening on the stone; Kiên is drawn half a pace off the rail after her, grip intact, footing adjusted, gun still low.
+Beat 1 (0.0–2.5s): Hạ sways a little, her free right hand lifting toward the inner wall, eyes half-closing against the wind. Beat 2 (2.5–7.5s): She tells Kiên she is dizzy and asks to lean on the wall; his eyes flick from her to the doorway, and he answers that she may take one step and no more. Beat 3 (7.5–10.0s): Hạ takes that single step, her shoulder meeting the masonry and her right palm flattening on the stone; Kiên is drawn half a pace off the rail after her, grip intact, footing adjusted, gun still low.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A sway, a quick exchange of request and permission, then exactly one step that leaves the grip intact and the geometry changed for the next scene.
 
@@ -43,14 +43,15 @@ Performance: Hạ uses dizziness as a tool and hides the calculation behind tire
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Gió mạnh quá, tôi chóng mặt. Cho tôi vịn tường một chút.
-Kiên (@Vũ Kiên), nói trong hình: Một bước thôi. Đừng rời tay tôi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.6–5.6s · Hạ (@Ha), nói trong hình: Gió mạnh quá, tôi chóng mặt. Cho tôi vịn tường một chút.
+5.7–7.4s · Kiên (@Vũ Kiên), nói trong hình: Một bước thôi. Đừng rời tay tôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
 Grey fabric brushes masonry, white cuff remains at her LEFT upper arm, no new tears or injury.

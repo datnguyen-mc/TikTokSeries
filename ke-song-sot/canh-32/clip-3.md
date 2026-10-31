@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice: focused, calm Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset; no handcuffs on her belt until fresh pairs arrive at 35.1. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
 
@@ -32,7 +32,7 @@ Composition: Keep the same three-person medium composition, emergency note and s
 Focus: Hold their listening reactions without cutting to a countdown or imagined heartbeat graphic.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.5s): Linh lays the pen down, straightens and tells Mây that nobody can promise a waking time; anyone hit with Tê goes straight to the van. Beat 2 (3.5–7.0s): Mây draws one firm line through the tentative recovery estimate on the harbour sketch, and Sơn, nodding slowly, answers that it only has to last long enough for Hạ to cross the safe line. Beat 3 (7.0–10.0s): Mây's pen lifts and hovers over the route lines, still intact; Linh studies Sơn; Sơn swallows, eyes on the struck-out estimate, then breathes out.
+Beat 1 (0.0–3.5s): Linh lays the pen down, straightens and tells Mây that nobody can promise a waking time; anyone hit with Tê goes straight to the van; as he speaks, Mây slides her own pen out of her duty pouch. Beat 2 (3.5–7.0s): Mây draws one firm line through the tentative recovery estimate on the harbour sketch, and Sơn, nodding slowly, answers that it only has to last long enough for Hạ to cross the safe line. Beat 3 (7.0–10.0s): Mây's pen lifts and hovers over the route lines, still intact; Linh studies Sơn; Sơn swallows, eyes on the struck-out estimate, then breathes out.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The warning comes first and plain; the strike-through and Sơn's answer overlap; the last seconds are a held, uneasy quiet so the uncertainty stays in the room.
 
@@ -42,9 +42,9 @@ Performance: Linh speaks from responsibility, not mystique. Mây accepts losing 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Không ai hứa được giờ tỉnh. Trúng Tê là đưa lên xe liền.
-Sơn (@Son), nói trong hình: Tôi hiểu. Chỉ cần đủ lâu cho Hạ qua vạch an toàn.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.2s · Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Không ai hứa được giờ tỉnh. Trúng Tê là đưa lên xe liền.
+4.3–8.0s · Sơn (@Son), nói trong hình: Tôi hiểu. Chỉ cần đủ lâu cho Hạ qua vạch an toàn.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

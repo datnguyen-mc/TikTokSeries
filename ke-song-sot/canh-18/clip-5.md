@@ -40,8 +40,8 @@ Performance: Dũng resents being summoned more than he fears the police; obeying
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
-Bà Hai, qua thiết bị: Đừng gây chuyện trước mặt công an nữa, Dũng. Về tiệm lụa ngay, đêm nay má có khách.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice through the established device at a natural pace; no caller body in this shot.
+2.5–6.9s · Bà Hai, qua thiết bị: Đừng gây chuyện trước mặt công an, Dũng. Về tiệm lụa ngay, đêm nay má có khách.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

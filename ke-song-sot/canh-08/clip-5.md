@@ -10,7 +10,7 @@ Sơn (past timeline) wears his tailored matte-black suit, open-collar white shir
 [TIMELINE AND LOCATION]
 Scene 08/60, clip 5/6; shot 08.5. Story time: PAST one month earlier night.
 West maintenance exit of the same car park, steps to a sheltered city rear lane.
-Recent-past car park at night: overhead amber fluorescent tubes as top key, moving search beams raking the pillars from the ramp side, deep shadow between; no gunfire.
+Recent-past night outside the car park's west exit in light rain: one caged bulb above the steel door as hard top key, a brief spill of amber car-park light through the opening door, cool blue-grey rain light and wet reflections on the steps; no search beams outside.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make escape depend on taking a reachable maintenance exit, preserving the clothes and object continuity.
@@ -21,27 +21,27 @@ Previous editorial shot: 08.4, ending with Sơn crouched behind the parked car's
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Sơn crouched at the low steel maintenance door in the car park's west wall, suit jacket buttoned, the closed watch clenched in his gloved left fist with its chain wrapped round it, gloved right hand on the push bar; door shut; alarm wailing behind.
+Outside the car park's west wall at night in light rain: the low steel maintenance door shut at the top of three wet concrete steps on the right of frame, a caged bulb above it, the alarm wailing muffled behind the steel; the sheltered rear lane opening to the left of the steps.
 
 [CAMERA]
 35mm lateral tracking shot moving with the subject in the established direction. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Track laterally with Sơn through the existing low door and into the sheltered lane, retaining the established direction.
+Composition: Track laterally along the outside wall, picking Sơn up as he bursts from the low door and settling beside him on the steps; the camera never passes through the doorway.
 Focus: Keep his jacket, door edge and exiting body readable, without changing to an impossible interior view mid-shot.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn shoves the bar and ducks through the low door into rain-cold air, elbow tight so his jacket and the fist holding the watch clear the frame. Beat 2 (3.0–6.5s): On the wet steps outside he turns and pulls the heavy door back against its frame until the latch catches with a hard click, muffling the alarm. Beat 3 (6.5–10.0s): He straightens with his shoulders to the shut door, gloves still on, and lets out the breath he has been holding as rain darkens his shoulders; the tracking move carries with him from the door onto the steps toward the sheltered lane.
+Beat 1 (0.0–3.0s): The steel door bangs outward and Sơn ducks through it into the rain, elbow tight, the closed watch clenched in his gloved left fist with its chain wrapped round it. Beat 2 (3.0–6.5s): On the wet top step he turns and pulls the heavy door shut with his gloved right hand until the latch catches with a hard click, muffling the alarm. Beat 3 (6.5–10.0s): He straightens with his shoulders against the shut door, gloves still on, and lets out the breath he has been holding as rain darkens his shoulders; the lateral track eases to a stop beside him.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Out through the door without pause, a firm deliberate close, then the first safe breath given real time; rain and breathing continue to the last frame.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Movement runs left to right: door on the left, steps and lane to the right. The right hand works the bar and pulls the door; the left fist keeps the watch close to his chest. Gloves stay on throughout.
+Blocking: Movement keeps the garage escape direction, right to left: the door at the top of the steps on the right, the steps and the sheltered lane to the left. The right hand pulls the door shut; the left fist keeps the watch close to his chest. Gloves stay on throughout.
 Performance: Economical and physically taxed: no wasted motion, but the delayed exhale after the latch shows the cost. He feels relief and refuses to trust it. No triumphant look back, no collapse against the door.
 
 
 [DIALOGUE]
-0.2–4.7s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Cửa kỹ thuật phía tây. Người của Dũng tới chậm hơn tôi một nhịp.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–4.5s · Sơn, lời dẫn ngoài hình: Cửa kỹ thuật phía tây. Người của Dũng tới chậm hơn tôi một nhịp.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -41,15 +41,15 @@ Performance: Acceptance: he closes the private moment himself and turns to the d
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Mây. Tôi còn một việc phải nói cho hết.
-Hạ (@Ha), nói trong hình: Em biết mà.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.9s · Sơn (@Son), nói trong hình: Mây. Tôi còn một việc phải nói cho hết.
+6.5–7.7s · Hạ (@Ha), nói trong hình: Em biết mà.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
-- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. It runs again after 52.3; never open it again as a new reveal.
+- The SAME single silver watch: lid OPEN at the start with cracked glass and the small photo of Hạ, pressed shut once during this shot; hands running. It is never opened again.
 
 [VISIBLE TEXTURE]
 Grey cotton remains beneath blue scarf, the closed watch stays in his RIGHT hand, bandage still LEFT.

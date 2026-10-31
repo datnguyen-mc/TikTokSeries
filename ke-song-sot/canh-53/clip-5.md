@@ -13,8 +13,8 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 
 [TIMELINE AND LOCATION]
 Scene 53/60, clip 5/6; shot 53.5. Story time: D7 night continuous.
-Main spiral stair inside lighthouse, gallery at top, handrail continuous, Mây leading Sơn upward.
-Same night gallery and stairs: stable work practicals as key, the beacon sweeping the water outside as a slow moving rim.
+Main spiral stair inside the lighthouse, gallery at the top, continuous handrail.
+Inside the spiral stair: stable caged work lights on the wall as cool key, the steady backup glow from the top of the shaft as a soft rim.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show safe coordinated departure after the moral decision without staging another finale.
@@ -44,8 +44,8 @@ Performance: Everyone's attention is on footing and procedure; Mây hides fatigu
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Đi chậm từng bậc. Không ai vượt lên.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–2.8s · Mây (@May), nói trong hình: Đi chậm từng bậc. Không ai vượt lên.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -68,4 +68,4 @@ Mây and the cuffed Sơn descending one turn below the top, Thành and Hạ a fe
 Next shot 53.6: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid anyone climbing upward, a replay of the earlier climb.

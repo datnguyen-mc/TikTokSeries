@@ -35,7 +35,7 @@ Composition: The wide view distinguishes two beds, Linh at the immobile man and 
 Focus: Keep both patient positions and the observing people legible, without an invented monitor display or intrusive medical close-up.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Linh lays two fingers against the immobile man's neck and watches his chest rise and fall; Mây's pen waits above her page. Beat 2 (3.0–7.0s): Without lifting his eyes from the patient, Linh reports that the man breathes but cannot move yet and must stay watched; Mây writes the time in one short line, her jaw easing as the urge to question him passes. Beat 3 (7.0–10.0s): She answers that the questioning will wait and asks him to keep the man alive, lowering the notebook to her side; across the room Thành shifts half a step nearer the far bed, eyes on the conscious man.
+Beat 1 (0.0–3.0s): Linh lays two fingers against the immobile man's neck and watches his chest rise and fall while the narrator introduces him; Mây's pen waits above her page. Beat 2 (3.0–7.0s): Without lifting his eyes from the patient, Linh reports that the man breathes but cannot move yet and must stay watched; Mây writes the time in one short line, her jaw easing as the urge to question him passes. Beat 3 (7.0–10.0s): She answers that the questioning will wait and asks him to keep the man alive, lowering the notebook to her side; across the room Thành shifts half a step nearer the far bed, eyes on the conscious man.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A quiet check carries the opening, the doctor's line lands while care continues, Mây's shorter answer comes late; the final seconds hold watchful stillness across both beds instead of a verdict.
 
@@ -45,9 +45,11 @@ Performance: Linh is practiced calm, facts without comfort. Mây arrives wanting
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Còn thở đều, nhưng cơ chưa nhúc nhích được. Đừng ai rời mắt khỏi hắn.
-Mây (@May), nói trong hình: Vậy cháu chưa hỏi cung. Bác giữ mạng hắn giúp cháu.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).
+Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
+0.2–2.7s · Người dẫn chuyện, giọng kể ngoài truyện, không phải nhân vật trong hình: Người giữ phòng khám Hòn Sóng, bác sĩ Linh.
+3.0–6.5s · Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Còn thở đều, nhưng chưa cử động được. Đừng rời mắt.
+7.0–9.6s · Mây (@May), nói trong hình: Vậy chưa hỏi cung. Bác giữ mạng hắn giúp cháu.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

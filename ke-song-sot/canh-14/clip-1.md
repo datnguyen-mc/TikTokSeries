@@ -14,7 +14,7 @@ South porch of the same cabin, one table, two stools, dune path on left when fac
 Present-day late afternoon: low sun from the west skimming across the porch table and faces from the side, soft cool fill from the sea, long warm shadows.
 
 [SCENE OPENING HOOK — Mở cảnh 14: Còng Và Bằng Chứng]
-Scene goal: Sơn đưa bằng chứng kiểm chứng được, Mây nhận ra Hạ qua ảnh rời. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Sơn đưa bằng chứng kiểm chứng được, Mây nhận ra Hạ qua ảnh rời. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 2.5s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make the negotiation's moral boundary visible before either person asks for trust.
@@ -44,9 +44,9 @@ Performance: Mây sets terms before trust, direct but not provocative, watching 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Còng để đây, anh tự chọn. Anh là người bọn Dũng gọi là Bóng Ma?
-Sơn (@Son), nói trong hình: Phải. Cái tên đó tôi muốn bỏ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–7.1s · Mây (@May), nói trong hình: Còng để đây, anh tự chọn. Anh là người bọn Dũng gọi là Bóng Ma?
+7.2–9.5s · Sơn (@Son), nói trong hình: Phải. Cái tên đó tôi muốn bỏ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

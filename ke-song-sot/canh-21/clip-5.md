@@ -40,8 +40,8 @@ Performance: Guarded fatigue: he recognises the old silhouette and refuses its l
 
 
 [DIALOGUE]
-0.2–6.6s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Tôi mặc lại bộ đồ đen để vào hang cũ. Găng thì cất. Tay trần, để nhớ lời hứa với Hạ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–6.4s · Sơn, lời dẫn ngoài hình: Tôi mặc lại bộ đồ đen để vào hang cũ. Găng thì cất. Tay trần, để nhớ lời hứa với Hạ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ Cold rest-room tile and a plain mirror deny the costume change any luxury.
 
 [SOUND]
 Location bed: faint coach engine through the wall.
-Foreground sound: Narration sits over muffled engine and a slight leather rustle, with no added ticking.
+Foreground sound: Sơn's voice-over sits over muffled engine and a slight leather rustle, with no added ticking.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

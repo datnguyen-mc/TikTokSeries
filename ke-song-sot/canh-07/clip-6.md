@@ -11,7 +11,7 @@ Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbo
 [TIMELINE AND LOCATION]
 Scene 07/60, clip 6/6; shot 07.6. Story time: D2 morning.
 Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
-Present-day morning: soft daylight through the east-facing cabin window as side key, open sky fill on the porch; neutral window side light inside the station.
+Present-day morning inside the police post: neutral daylight from the front windows as soft side key across the desk, flat ceiling practicals as fill, slow ceiling-fan shadows over the open folder.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Mây choosing a method of investigation, keeping suspicion separate from proof.
@@ -41,9 +41,9 @@ Performance: Mây is purposeful, separating suspicion from proof; she wants the 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Chưa bắt. Ai tìm anh ta mới là đầu mối. Cho người canh kín, ghi xe lạ.
-Thành (@Phó Thành), nói trong hình: Dạ, em báo chốt ngã ba ghi biển số xe thành phố.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.3s · Mây (@May), nói trong hình: Chưa bắt. Ai tìm anh ta mới là đầu mối. Cho người canh kín, ghi xe lạ.
+5.4–9.1s · Thành (@Phó Thành), nói trong hình: Dạ, em báo chốt ngã ba ghi biển số xe thành phố.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -41,8 +41,8 @@ Performance: Hạ's wish is modest and practical, and saying it aloud gives her 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Em để dành đủ vốn là về mở sạp hoa nhỏ, ngay đầu chợ cá. Sống cạnh biển thôi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–8.2s · Hạ (@Ha), nói trong hình: Em để dành đủ vốn là về mở sạp hoa nhỏ, ngay đầu chợ cá. Sống cạnh biển thôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

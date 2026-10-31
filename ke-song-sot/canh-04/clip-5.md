@@ -23,16 +23,16 @@ Previous editorial shot: 04.4, ending with Hạ behind the counter holding Sơn'
 Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action from 0.0s; no transformation, morph, dissolve or replay of the old shot.
 
 [START FRAME — state only, not an action to repeat]
-Third afternoon at the counter: Sơn on the customer side holding a scuffed plastic flower bucket by its newly repaired handle; Hạ behind the counter looking from the bucket to him.
+Third afternoon at the counter: Sơn on the customer side holding a scuffed plastic flower bucket by its handle, a small neat patch sealing an old crack near its base; Hạ behind the counter looking from the bucket to him.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Keep the repaired handle and Hạ's receiving hands inside the existing medium composition.
+Composition: Keep the patched crack and Hạ's receiving hands inside the existing medium composition.
 Focus: Keep the repaired area visible without pretending its mechanism needs an instructional close-up.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): Sơn lifts the repaired bucket over the counter toward Hạ, the mended handle creaking lightly under its weight. Beat 2 (2.5–6.0s): Hạ takes it in both hands; he waits until she has its full weight before letting go, then his empty hands hang at his sides, unsure where to go, as she starts to tease him. Beat 3 (6.0–10.0s): She turns the bucket and finds the modest mend on the scuffed plastic, looking up with affectionate surprise; Sơn gives a short, plain answer, eyes on the bucket rather than on her, hands still empty.
+Beat 1 (0.0–2.5s): Sơn lifts the bucket over the counter toward Hạ, its handle creaking lightly under the weight. Beat 2 (2.5–6.0s): Hạ takes it in both hands; he waits until she has its full weight before letting go, then his empty hands hang at his sides, unsure where to go, as she starts to tease him. Beat 3 (6.0–10.0s): She turns the bucket and finds the modest patch over the old crack in the scuffed plastic, looking up with affectionate surprise; Sơn gives a short, plain answer, eyes on the bucket rather than on her, hands still empty.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A quick lift across the counter, a careful handover, then the awkward emptiness of his hands held while she notices the mend and teases; his reply is short and ends it.
 
@@ -42,9 +42,9 @@ Performance: Sơn avoids pride and cannot explain the kindness as surveillance w
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Lần thứ ba rồi, anh nhớ sửa xô cho em mà quên lấy tiền thối.
-Sơn (@Son), nói trong hình: Nó rỉ nước. Tôi tiện tay thôi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–7.1s · Hạ (@Ha), nói trong hình: Lần thứ ba rồi, anh nhớ sửa xô cho em mà quên lấy tiền thối.
+7.2–9.5s · Sơn (@Son), nói trong hình: Nó rỉ nước. Tôi tiện tay thôi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -21,7 +21,7 @@ Previous editorial shot: 12.2, ending with Both intruders turning toward the rea
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Pine slope behind the cabin in raking morning light: Sơn pressed against the far side of a thick pine trunk, bare hands ready; one pursuer stepping around the trunk toward him, his weapon hand leading; loose sand underfoot.
+Pine slope behind the cabin in raking morning light: Sơn pressed against the far side of a thick pine trunk, bare hands ready; one pursuer stepping around the trunk toward him, a short black steel baton leading in his fist; loose sand underfoot.
 
 [CAMERA]
 35mm controlled handheld medium-wide with kinetic energy. Keep the entire defensive action readable from one side of the axis.
@@ -30,7 +30,7 @@ Composition: The restrained handheld medium-wide keeps pine trunk, both bodies a
 Focus: Hold the full defensive relation from one side, with no close-up describing a damaging joint technique.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): As the pursuer rounds the trunk, Sơn catches the leading wrist in both hands and turns it away from both their faces, ordering him to drop it. Beat 2 (2.5–6.0s): He drives his hip in and takes the man's balance; the pursuer's feet go and he drops onto the sand, back sliding down the trunk, head clear of the bark, as Sơn demands where Dũng is holding Hạ. Beat 3 (6.0–10.0s): Sơn sinks to one knee at his side, both hands pinning the wrist to the sand at arm's length while the man strains and twists, and Sơn breathes hard through his teeth, holding him there; the handheld keeps to one side of the struggle.
+Beat 1 (0.0–2.5s): As the pursuer rounds the trunk, Sơn catches the baton wrist in both hands and turns it away from both their faces, ordering him to drop it. Beat 2 (2.5–6.0s): Sơn drives his hip in and takes the man's balance; the pursuer's feet go and he drops onto the sand, back sliding down the trunk, head clear of the bark, as Sơn demands where Dũng is holding Hạ. Beat 3 (6.0–10.0s): Sơn sinks to one knee at his side, both hands pinning the wrist to the sand at arm's length, the baton still locked in the man's fist, while the man strains and twists, and Sơn breathes hard through his teeth, holding him there; the handheld keeps to one side of the struggle.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Contact and the controlled drop happen in one short struggle; the hold that follows is long, effortful and alive, never a frozen pose.
 
@@ -40,8 +40,8 @@ Performance: Effort and restraint at once: he chooses control over injury and it
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Bỏ cái đó xuống. Nói, Dũng giấu Hạ ở đâu?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.4s · Sơn (@Son), nói trong hình: Bỏ cái đó xuống. Nói, Dũng giấu Hạ ở đâu?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -58,7 +58,7 @@ Foreground sound: Short breaths, fabric tension and sand displacement replace ex
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Pursuer seated in the sand with his back against the pine trunk at center, straining; Sơn on one knee at his side, screen left, both hands pinning the man's outstretched weapon wrist to the sand at arm's length, away from both faces; both breathing hard; the open slope empty behind Sơn's back.
+Pursuer seated in the sand with his back against the pine trunk at center, straining; Sơn on one knee at his side, screen left, both hands pinning the man's outstretched wrist to the sand at arm's length, the black baton still in that fist, away from both faces; both breathing hard; the open slope empty behind Sơn's back.
 Next shot 12.4: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]

@@ -15,7 +15,7 @@ Small fictional town police post with tiled floor and ceiling fan, public desk i
 Present-day night station: neutral desk lamp as low side key, cool monitor glow as fill on faces, dark windows; no daylight.
 
 [SCENE OPENING HOOK — Mở cảnh 17: Phần Dữ Liệu Bị Khóa]
-Scene goal: Bằng chứng có đường xác minh và hạn chuyển người cụ thể. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Bằng chứng có đường xác minh và hạn chuyển người cụ thể. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make the investigation's first digital step preserve trust in the evidence instead of treating a USB as magic.
@@ -45,9 +45,9 @@ Performance: Thành is quietly proud of doing it right; procedure is his confide
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Thành (@Phó Thành), nói trong hình: Bản gốc em niêm phong trước. Mình chỉ mở bản sao thôi.
-Mây (@May), nói trong hình: Đúng quy trình. Mở tệp nào cũng ghi biên bản.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.7s · Thành (@Phó Thành), nói trong hình: Bản gốc em niêm phong trước. Mình chỉ mở bản sao thôi.
+6.8–9.8s · Mây (@May), nói trong hình: Đúng quy trình. Mở tệp nào cũng ghi biên bản.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

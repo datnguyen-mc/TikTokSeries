@@ -31,7 +31,7 @@ Composition: Use the medium two-person setup so Mây's closed notebook and Sơn'
 Focus: Prioritize faces and bare hands, keeping the notebook visible but not yet an investigative flourish.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây leans in slightly, introduces herself and begins her questions in an even, courteous voice, the notebook still closed under her hand. Beat 2 (3.0–6.5s): While she asks, Sơn's left hand drops to the backpack and draws it from the walkway side in under his chair, a tidy reflex, his eyes staying low on the table. Beat 3 (6.5–10.0s): His hand comes back up and rests on the table beside the glass, bare and still; Mây's gaze drops to his bare hands and studies them, the notebook still closed, as she waits for his answer.
+Beat 1 (0.0–3.0s): Mây leans in slightly, states she is town police and begins her questions in an even, courteous voice, the notebook still closed under her hand. Beat 2 (3.0–6.5s): While she asks, Sơn's left hand drops to the backpack and draws it from the walkway side in under his chair, a tidy reflex, his eyes staying low on the table. Beat 3 (6.5–10.0s): His hand comes back up and rests on the table beside the glass, bare and still; Mây's gaze drops to his bare hands and studies them, the notebook still closed, as she waits for his answer.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Her question starts at once; his hands find a useful task inside it; the last seconds belong to her look at his hands and the answer he has not yet given.
 
@@ -41,8 +41,8 @@ Performance: Mây is courteous but attentive, reading behaviour more than answer
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Tôi là Mây, công an thị trấn. Anh mới tới sáng nay? Tên gì, ở đâu?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.0s · Mây (@May), nói trong hình: Công an thị trấn hỏi chút. Anh mới tới sáng nay? Tên gì, ở đâu?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

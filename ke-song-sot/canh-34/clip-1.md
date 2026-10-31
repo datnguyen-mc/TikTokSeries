@@ -43,8 +43,8 @@ Performance: The hand is steady with effort: this is a commitment to stay and an
 
 
 [DIALOGUE]
-0.2–5.0s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Ngày thứ bảy. Lần này tôi không chạy. Xong việc, tôi ở lại khai hết.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–4.8s · Sơn, lời dẫn ngoài hình: Ngày thứ bảy. Lần này tôi không chạy. Xong việc, tôi ở lại khai hết.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -57,7 +57,7 @@ Fresh wood dust catches the first daylight, older marks staying darker in the sa
 
 [SOUND]
 Location bed: wind through wood joints and remote surf.
-Foreground sound: One carving scrape, tool contact and the low narration replace any ticking countdown.
+Foreground sound: One carving scrape, tool contact and Sơn's low voice-over replace any ticking countdown.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

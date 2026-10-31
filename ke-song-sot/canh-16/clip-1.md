@@ -14,7 +14,7 @@ Main iron entrance of old lighthouse, motorcycle space outside, main spiral stai
 Present-day late afternoon at the sea cliff: fading sun from the west as warm side key, cool sky fill, cold shade inside the tower; the lamp lights only during its deliberate test.
 
 [SCENE OPENING HOOK — Mở cảnh 16: Hải Đăng Và Một Câu Hỏi]
-Scene goal: Mây tìm chứng cứ sống và kiểm tra lối kỹ thuật trước cao trào. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Mây tìm chứng cứ sống và kiểm tra lối kỹ thuật trước cao trào. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make returning to Hạ's real place shift the investigation from stories to physical geography.
@@ -25,7 +25,7 @@ Previous editorial shot: 15.6, ending with Hạ and Sơn walking side by side le
 L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Lighthouse base in late afternoon: Mây at the closed lower iron door, her key in the lock under her right hand; Sơn two paces behind her on the path, hands empty; sea grass bending in the wind.
+Inside the lighthouse base in late afternoon: the heavy main iron door at screen right swinging inward under Mây's shoulder, daylight from the doorway falling across the stone floor; Mây on the threshold, key ring in her right hand; Sơn two paces behind her in the bright doorway, hands empty; the spiral stair at center, the narrow maintenance stair opening at its left.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -34,7 +34,7 @@ Composition: The wide entrance view connects main door, first stair section and 
 Focus: Keep both bodies and door relationships legible, without compressing the route into disconnected architectural inserts.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây turns the key, shoulders the heavy iron door inward with a grinding scrape and steps over the threshold; Sơn follows her in. Beat 2 (3.0–6.5s): At the foot of the spiral stair she stops and tips her head toward the narrow maintenance stair opening beside it, telling him Hạ grew up here and knows every hidden corner of the tower; Sơn's eyes follow the route. Beat 3 (6.5–10.0s): Mây puts her hand on the rail and starts up the first steps as Sơn answers that Hạ once drew that north service way for him; he takes a last look at the opening and climbs after her.
+Beat 1 (0.0–3.0s): The heavy door grinds the rest of the way open and Mây steps in over the threshold, key ring in her right hand; Sơn follows her in out of the glare. Beat 2 (3.0–6.5s): At the foot of the spiral stair she stops and tips her head toward the narrow maintenance stair opening beside it, telling him Hạ grew up here and knows every hidden corner of the tower; Sơn's eyes follow the route. Beat 3 (6.5–10.0s): Mây puts her hand on the rail and starts up the first steps as Sơn answers that Hạ once drew that north service way for him; he takes a last look at the opening and climbs after her.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The door opens at once, the pause at the stair foot carries her line, and his answer rides the start of the climb so the clip ends already moving upward.
 
@@ -44,9 +44,9 @@ Performance: Mây moves with local familiarity, not as a guide; mentioning Hạ 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Hạ lớn lên ở đây. Chỗ nào kín quanh tháp, nó đều biết.
-Sơn (@Son), nói trong hình: Cô ấy từng vẽ cho tôi lối kỹ thuật phía bắc.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–7.0s · Mây (@May), nói trong hình: Hạ lớn lên ở đây. Chỗ nào kín quanh tháp, nó đều biết.
+7.1–9.8s · Sơn (@Son), nói trong hình: Cô ấy từng vẽ cho tôi lối kỹ thuật phía bắc.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -59,7 +59,7 @@ Rusted paint, worn stair edges and sea-blown grass mark a used public building, 
 
 [SOUND]
 Location bed: wind through iron doorway and footsteps.
-Foreground sound: Key and iron latch introduce the local wind; the sentence stays practical above the threshold sound.
+Foreground sound: The grinding iron hinge lets the sea wind in through the doorway; her sentence stays practical above the threshold sound.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
@@ -67,4 +67,4 @@ Main iron door standing open behind them, late light spilling across the floor; 
 Next shot 16.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid an exterior opening angle or any camera move following them through the doorway.

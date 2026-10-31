@@ -41,14 +41,15 @@ Performance: Giving up the ledger costs him, and it shows only in how deliberate
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Sơn, ngoài khung hình: Sổ đen với ổ dữ liệu gốc. Cô đối chiếu với công ty vận tải đó.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+6.0–9.8s · Sơn, ngoài khung hình: Sổ đen với ổ dữ liệu gốc. Cô đối chiếu với công ty vận tải đó.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Original BLACK leather ledger, receipt and original USB initially fixed inside back cover.
 - Original USB from black ledger, preserved in an evidence sleeve at the station after 17.1.
+- Mây's own thin grey card investigation folder, held by her alone; never confused with Thành's dark leather evidence folder.
 
 [VISIBLE TEXTURE]
 Canvas, worn leather and evidence-folder paper have distinct surfaces that preserve each object's origin.

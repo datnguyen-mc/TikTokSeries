@@ -11,14 +11,14 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 53/60, clip 2/6; shot 53.2. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery and stairs: stable work practicals as key, the beacon sweeping the water outside as a slow moving rim.
+Same night gallery: stable work practicals as key, the steady seaward backup beam unchanged since it switched on, its spill a soft cool rim from the sea side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ test that he owns this decision instead of speaking for him.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 53.1, ending with Sơn standing three paces in front of Mây at the doorway, hands open at waist height, closed watch on his right palm; Hạ one step behind his right shoulder; Mây facing him, hands at her sides; the beam sweeping the water beyond, wind in the scarf.
+Previous editorial shot: 53.1, ending with Sơn standing three paces in front of Mây at the doorway, hands open at waist height, closed watch on his right palm; Hạ one step behind his right shoulder; Mây facing him, hands at her sides; the steady backup beam lying out over the water beyond, wind in the scarf.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -41,8 +41,8 @@ Performance: Adult concern: she tests his decision rather than overrule it, hidi
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Nhận còng, khai hết. Anh tự chọn chứ, Sơn?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.9s · Hạ (@Ha), nói trong hình: Nhận còng, khai hết. Anh tự chọn chứ, Sơn?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

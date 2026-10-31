@@ -41,9 +41,9 @@ Performance: Their friendship lives in habit: Mây wants the dinner more than th
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Như mọi tuần nghe, một bó cúc trắng. Chiều hết ca tao ghé ăn cơm.
-Hạ (@Ha), nói trong hình: Ghé sớm nghe, tao nấu canh cá chờ.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Mây (@May), nói trong hình: Như mọi tuần nghe, một bó cúc trắng. Chiều hết ca tao ghé ăn cơm.
+4.9–7.5s · Hạ (@Ha), nói trong hình: Ghé sớm nghe, tao nấu canh cá chờ.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

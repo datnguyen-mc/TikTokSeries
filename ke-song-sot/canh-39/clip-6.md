@@ -30,7 +30,7 @@ Composition: Hold the wide harbour setup with Sơn in the established place and 
 Focus: Keep both approaches readable at once; do not cut between headlights or move into a drone view.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn stands still on the seam while two separate engine sounds grow from the east and west roads; his head stays level and only his eyes shift between them. Beat 2 (3.0–6.5s): Headlights appear on the east road, then on the west road, the black car and the white car each coming down its own approach, as Thành's voice reports them over the radio channel. Beat 3 (6.5–10.0s): Both cars roll on toward the junction at an ordinary pace, their lights brightening against the fading day; Sơn settles his weight evenly on both feet and does not step off the seam.
+Beat 1 (0.0–3.0s): Sơn stands still on the seam while two separate engine sounds grow from the east and west roads; his head stays level and only his eyes shift between them. Beat 2 (3.0–6.5s): Headlights appear on the east road, then on the west road, the black car and the white car each coming down its own approach, as Thành's radio-filtered voice reports them from off frame; Sơn's lips stay closed. Beat 3 (6.5–10.0s): Both cars roll on toward the junction at an ordinary pace, their lights brightening against the fading day; Sơn settles his weight evenly on both feet and does not step off the seam.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Sound comes first and builds, the lights answer it in the middle, and the end leaves both cars still moving so the parking belongs entirely to the next scene.
 
@@ -40,13 +40,13 @@ Performance: He holds the place he chose; attention splits between two threats w
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
-Thành, qua thiết bị: Chú ý, xe đen vào từ hướng đông, xe trắng từ hướng tây.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice through the established device at a natural pace; no caller body in this shot.
+3.0–7.0s · Thành, qua thiết bị: Chú ý, xe đen vào từ hướng đông, xe trắng từ hướng tây.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Last daylight still defines concrete edges while headlights gain contrast, not full night instantly.
@@ -54,7 +54,7 @@ Last daylight still defines concrete edges while headlights gain contrast, not f
 
 [SOUND]
 Location bed: boat ropes, small waves and engines only when visible.
-Foreground sound: Two distinct but ordinary engines rise from their actual directions, without racing or tire squeals.
+Foreground sound: Two distinct but ordinary engines rise from their actual directions, without racing or tire squeals; Thành's report is a radio-filtered voice from off frame, not spoken by Sơn, who carries no radio.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Keep the two approaching engines into the arrivals. The next shot shows parking, not a repeated approach from the road.
 
 [END FRAME — natural motion continues]
@@ -62,4 +62,4 @@ Sơn planted on the center seam, envelope low in his right hand, eyes moving bet
 Next shot 40.1: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail; in this shot also avoid a radio handset, earpiece or phone on Sơn or in his hands, or Sơn mouthing the radio words.

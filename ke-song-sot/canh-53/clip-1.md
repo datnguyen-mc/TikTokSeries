@@ -12,10 +12,10 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 53/60, clip 1/6; shot 53.1. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery and stairs: stable work practicals as key, the beacon sweeping the water outside as a slow moving rim.
+Same night gallery: stable work practicals as key, the steady seaward backup beam unchanged since it switched on, its spill a soft cool rim from the sea side.
 
 [SCENE OPENING HOOK — Mở cảnh 53: Người Không Chạy Nữa]
-Scene goal: Sơn tự nhận trách nhiệm, Hạ chấp nhận thay vì cản luật. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
+Scene goal: Sơn tự nhận trách nhiệm, Hạ chấp nhận thay vì cản luật. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 6.1s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make surrender the next voluntary action, not an arrest sprung on the rescued man.
@@ -35,7 +35,7 @@ Composition: Use the wide to connect seated area, Mây at the doorway and Hạ j
 Focus: Keep his entire approach and Mây's stationary position readable so the choice is unmistakably his.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn rises in one careful effort, left shoulder against the wall for balance, while Hạ rises with him, a hand near his elbow. Beat 2 (3.0–6.5s): He walks toward Mây on his own, both hands open in front of him at waist height, the closed watch resting on his right palm, Hạ following a step behind. Beat 3 (6.5–10.0s): He stops three paces from Mây and tells her he will go with her to the station; she stays where she is, hands at her sides, and answers that he once said he was not going anywhere and kept his word, no triumph in her face.
+Beat 1 (0.0–3.0s): Sơn rises in one careful effort, left shoulder against the wall for balance, while Hạ rises with him, a hand near his elbow. Beat 2 (3.0–6.0s): He walks toward Mây on his own, both hands open in front of him at waist height, the closed watch resting on his right palm, Hạ following a step behind. Beat 3 (6.0–10.0s): He stops three paces from Mây and tells her he will go with her to the station; she stays where she is, hands at her sides, and answers that he once said he was not going anywhere and kept his word, no triumph in her face.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: One careful rise, a direct unhurried approach, then two short lines at the stop; it ends before any cuff leaves Mây's belt.
 
@@ -45,9 +45,9 @@ Performance: Tired but definite: he hides the effort of standing and wants the c
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Tôi đi với cô về đồn.
-Mây (@May), nói trong hình: Anh nói không đi đâu. Anh giữ lời.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+6.1–7.7s · Sơn (@Son), nói trong hình: Tôi đi với cô về đồn.
+7.8–9.8s · Mây (@May), nói trong hình: Anh nói không đi đâu. Anh giữ lời.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -66,7 +66,7 @@ Foreground sound: His measured steps and short line sit over steady backup-light
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn standing three paces in front of Mây at the doorway, hands open at waist height, closed watch on his right palm; Hạ one step behind his right shoulder; Mây facing him, hands at her sides; the beam sweeping the water beyond, wind in the scarf.
+Sơn standing three paces in front of Mây at the doorway, hands open at waist height, closed watch on his right palm; Hạ one step behind his right shoulder; Mây facing him, hands at her sides; the steady backup beam lying out over the water beyond, wind in the scarf.
 Next shot 53.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

@@ -32,7 +32,7 @@ Composition: Frame Kiên and restrained Hạ medium, Bà Hai on his opposing eye
 Focus: Stay with his practiced face as the smile thins, with the guard's direction readable at the edge.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–4.0s): Kiên's practiced smile thins; he pulls Hạ half a step closer, right hand locked on her arm, and answers Bà Hai in a clipped voice that she already sold both of them and is now playing mother. Beat 2 (4.0–7.0s): Eyes never leaving Bà Hai, he lifts his empty left hand and flicks two fingers toward the bollard; off to one side his guard starts toward the center seam, and Hạ's head turns to track the man's path. Beat 3 (7.0–10.0s): Kiên takes his first step backward toward the white car, drawing Hạ with him; her sandals drag a beat behind his polished shoes, and his smile returns, thinner than before.
+Beat 1 (0.0–4.0s): Kiên's practiced smile thins; he pulls Hạ half a step closer, right hand locked on her arm, and answers Bà Hai in a clipped voice that she already sold both of them and is now playing mother. Beat 2 (4.0–7.0s): Eyes never leaving Bà Hai, he lifts his empty left hand and flicks two fingers toward the bollard; his driver climbs out of the white car and starts toward the center seam, and Hạ's head turns to track the man's path. Beat 3 (7.0–10.0s): Kiên takes his first step backward toward the white car, drawing Hạ with him; her sandals drag a beat behind his polished shoes, and his smile returns, thinner than before.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The accusation is clipped and lands early; the signal is a small gesture in the middle; the backward step carries the threat toward the car and leaves the line hanging.
 
@@ -42,8 +42,8 @@ Performance: Irritation, not surprise: a buyer annoyed that sold goods are being
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Kiên (@Vũ Kiên), nói trong hình: Bà bán đứt cả hai đứa cho tôi rồi. Giờ giở giọng làm mẹ sao?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–4.8s · Kiên (@Vũ Kiên), nói trong hình: Bà bán đứt cả hai đứa cho tôi rồi. Giờ giở giọng làm mẹ sao?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -60,7 +60,7 @@ Foreground sound: Use a soft shoe reposition and paper rustle already on the apr
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Kiên a step back toward the white car, right hand on Hạ's left upper arm, thin smile fixed on Bà Hai; Hạ half turned, eyes on the guard; off to one side the guard walking toward the center seam.
+Kiên a step back toward the white car, right hand on Hạ's left upper arm, thin smile fixed on Bà Hai; Hạ half turned, eyes on the driver; the driver walking from the white car toward the center seam.
 Next shot 43.3: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]

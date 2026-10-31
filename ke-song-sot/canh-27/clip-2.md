@@ -10,14 +10,14 @@ Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck,
 [TIMELINE AND LOCATION]
 Scene 27/60, clip 2/6; shot 27.2. Story time: D5 dusk.
 Inside the received phone video ONLY, plain bright room with small vent fan and blurred ferry emblem outside the window.
-Present-day dusk on the river: muted sunset low behind the boat as soft backlight, cool sky fill on faces; flat bright light only inside the received video.
+Inside the received video only: flat, even, bright daylight from the window beyond the vent fan and soft bounce off plain pale walls onto Hạ's face; no sunset, river or boat light anywhere in this shot.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ use the forced recording as an opportunity to send her own information.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 27.1, ending with Boat idling in open water at dusk, factory distant behind; Sơn in the stern holding his phone in his right hand, screen angled between them, thumb above the play shape; Mây leaning in from mid-boat, hands on her knees; the unplayed video waiting on screen.
+Previous editorial shot: 27.1, ending with Boat idling in open water at dusk, factory distant behind; Sơn in the stern holding his phone in his right hand, the call already ended, screen angled between them, thumb above the play shape; Mây leaning in from mid-boat, hands on her knees; the unplayed video waiting on screen.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -40,8 +40,8 @@ Performance: Outwardly obedient, inwardly working: she gives the captor the calm
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Hạ (@Ha), nói trong hình: Sơn. Em còn sống, em không sao hết. Anh đừng làm liều theo ý họ nghe anh.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.3s · Hạ (@Ha), nói trong hình: Sơn. Em còn sống, em không sao hết. Anh đừng làm liều theo ý họ nghe anh.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

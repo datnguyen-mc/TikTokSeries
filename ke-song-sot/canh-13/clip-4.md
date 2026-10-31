@@ -22,7 +22,7 @@ Previous editorial shot: 13.3, ending with Mây beside the curtain, notebook ope
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Far bed by the window: the conscious attacker sitting on its edge, Thành standing at his shoulder with folder and pen; Mây at the bed's foot holding a sealed evidence bag low in her right hand, the shipping emblem visible through the plastic.
+Far bed by the window: the conscious attacker sitting on its edge, Thành standing at his shoulder with folder and pen; Mây at the bed's foot holding a sealed evidence bag low in her right hand, the shipping emblem visible through the plastic, her own thin investigation folder tucked under her left arm.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -31,24 +31,25 @@ Composition: Use the medium framing to retain Mây's speaking face, Thành and t
 Focus: Keep the questioner and the turning face readable, with the emblem secondary and never legibly lettered.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây raises the sealed bag to the seated man's eyeline, emblem facing him, and tells him to look at it, her left hand resting on her duty pouch. Beat 2 (3.0–6.5s): She asks him plainly who sent the two of them up the pine hill with the drug to find Sơn; his eyes catch on the emblem, his breath stops short and his mouth presses into a hard line. Beat 3 (6.5–10.0s): He turns his face to the wall and stays silent; Mây keeps the bag where it is, unhurried, while Thành writes one short line in his folder without taking his eyes off the man.
+Beat 1 (0.0–3.0s): Mây raises the sealed bag to the seated man's eyeline, emblem facing him, and tells him to look at it, her thin folder pinned under her left arm. Beat 2 (3.0–6.5s): She asks him plainly who sent the two of them up the pine hill with the drug to find Sơn; the seated man's eyes catch on the emblem, his breath stops short and his mouth presses into a hard line. Beat 3 (6.5–10.0s): He turns his face to the wall and stays silent; Mây keeps the bag where it is, unhurried, while Thành writes one short line in his folder without taking his eyes off the man.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The bag comes up at once, the question is short, and the silence after it is the payoff; the last seconds belong to the turned face and Thành's pen.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Bed screen right, the man seated on its edge facing screen left; Mây at the foot, screen left, an arm's reach away; Thành standing behind the man's right shoulder. Bag in Mây's right hand, folder and pen with Thành.
+Blocking: Bed screen right, the man seated on its edge facing screen left; Mây at the foot, screen left, an arm's reach away; Thành standing behind the man's right shoulder. Bag in Mây's right hand and her own thin folder under her left arm; Thành keeps his leather folder and pen.
 Performance: Mây asks without threat, wanting a reaction more than a confession, and reads his silence as an answer. The man hides recognition behind a tightened mouth. Thành stays quiet and exact. No villain smirk, no slammed hands.
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Anh nhìn biểu tượng công ty này đi. Ai sai tụi anh mang Tê lên đồi dương tìm Sơn?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.9s · Mây (@May), nói trong hình: Anh nhìn biểu tượng công ty này đi. Ai sai tụi anh mang Tê lên đồi dương tìm Sơn?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Mây's own thin grey card investigation folder, held by her alone; never confused with Thành's dark leather evidence folder.
 
 [VISIBLE TEXTURE]
 The sealed bag catches plain window light; sheets remain disturbed from treatment, not staged like an interrogation set.
@@ -60,7 +61,7 @@ Foreground sound: A slight wrapping rustle leads into the question, after which 
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-The conscious attacker on the bed edge, face turned to the wall, mouth shut tight; Mây at the bed's foot with the sealed bag still raised near his eyeline; Thành at his shoulder, pen on the folder page, watching his profile; window light on the crumpled sheet.
+The conscious attacker on the bed edge, face turned to the wall, mouth shut tight; Mây at the bed's foot with the sealed bag still raised near his eyeline, her thin folder under her left arm; Thành at his shoulder, pen on the folder page, watching his profile; window light on the crumpled sheet.
 Next shot 13.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

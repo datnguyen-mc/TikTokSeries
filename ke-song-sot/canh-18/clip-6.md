@@ -31,7 +31,7 @@ Composition: Use the medium stall view with the cleared road beyond, long scarf 
 Focus: Hold the evidence collection and speaking face readable, keeping the departing road secondary and not replayed.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây gathers the long scarf off the counter, folds it into the clear evidence bag and presses the seal shut. Beat 2 (3.0–7.5s): Sliding the bag into her duty pouch, she tells Thành that Dũng was called back to the city, that it is not over, and to keep patrols on the clinic and the harbour road, her eyes going to the empty road. Beat 3 (7.5–10.0s): Thành answers, tucks his folder under his arm and heads out from under the awning toward the patrol vehicle; Mây stays at the counter, hand on the closed pouch flap.
+Beat 1 (0.0–3.0s): Mây gathers the long scarf off the counter, folds it into the clear evidence bag and presses the seal shut. Beat 2 (3.0–7.5s): Sliding the bag into her duty pouch, she tells Thành that one phone call was enough to pull Dũng out, that it is not over, and to keep patrols on the clinic and the harbour road, her eyes going to the empty road. Beat 3 (7.5–10.0s): Thành answers, tucks his folder under his arm and heads out from under the awning toward the patrol vehicle; Mây stays at the counter, hand on the closed pouch flap.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: Collection is efficient, the instruction takes the middle while her eyes check the road, and the clip ends on Thành already moving toward his duty.
 
@@ -41,9 +41,9 @@ Performance: Mây's relief is minimal; she treats the scarf as evidence and the 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Hắn bị gọi về thành phố, chưa xong đâu. Giữ tuần tra phòng khám với đường cảng.
-Thành (@Phó Thành), nói trong hình: Dạ, em cho xe tuần liền.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–8.1s · Mây (@May), nói trong hình: Một cuộc gọi là hắn rút. Chưa xong đâu. Giữ tuần tra phòng khám với đường cảng.
+8.2–9.8s · Thành (@Phó Thành), nói trong hình: Dạ, em cho xe tuần liền.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

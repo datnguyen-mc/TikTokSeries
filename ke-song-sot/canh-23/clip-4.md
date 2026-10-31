@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. two steel handcuff pairs at the back of her belt under the denim jacket. Voice: firm, clear Southern Vietnamese female voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
 Sơn wears his matte-black suit over open-collar white shirt, both hands bare without gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
 
@@ -12,7 +12,7 @@ Sơn wears his matte-black suit over open-collar white shirt, both hands bare wi
 [TIMELINE AND LOCATION]
 Scene 23/60, clip 4/6; shot 23.4. Story time: D4 late night.
 City silk shop, teak desk to east, screened safe behind it, rear stock door west, warm practical lamps.
-Same present-day shop night as scene 22: desk lamp unchanged as low side key, cool alley spill at the rear door.
+Present-day shop night: the warm desk lamp as low side key, cool wet-alley spill at the rear door.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make Mây give the encounter a practical exit when Sơn is at risk of becoming trapped emotionally.
@@ -23,7 +23,7 @@ Previous editorial shot: 23.3, ending with Sơn's gaze lowered a fraction off B�
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Mây stands between the rear door and the desk, her phone in her right hand; Sơn a pace from her, red ledger under his left arm; Bà Hai seated at the lamp-lit desk with the open safe at her shoulder, holder between her right fingers.
+Mây stands between the rear door and the desk, her phone in her right hand; Sơn a pace screen-right of her and half a step deeper, beside the angled chair, red ledger under his left arm, clear of her line to the desk; Bà Hai seated at the lamp-lit desk with the open safe at her shoulder, holder between her right fingers.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -32,18 +32,18 @@ Composition: Frame her between door and desk, keeping Sơn's ledger grip inside 
 Focus: Keep phone orientation, Bà Hai's seated place and open safe understandable without reading a screen.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây raises her phone at chest height and takes one quiet photograph of Bà Hai beside the open safe, no flash, as she starts telling her it is enough for the file; Bà Hai does not flinch, her eyes meeting the phone. Beat 2 (3.0–6.5s): Mây lowers the phone and finishes, flat and firm, that the open safe and Bà Hai's words are kept, and Sơn turns his head from Bà Hai to her, the spell breaking. Beat 3 (6.5–10.0s): Mây pulls a clear evidence sleeve from her daypack's side pocket and holds it ready in her left hand, angling toward the rear door, as Sơn takes his first step toward the exit beside her.
+Beat 1 (0.0–3.0s): Mây raises her phone at chest height and takes one quiet photograph of Bà Hai beside the open safe, no flash, as she starts telling her it is enough for the file; Bà Hai does not flinch, her eyes meeting the phone. Beat 2 (3.0–6.5s): Mây lowers the phone and finishes, flat and firm, that the open safe and Bà Hai's words are kept, and Sơn turns his head from Bà Hai to her, the spell breaking. Beat 3 (6.5–10.0s): Mây pulls a clear evidence sleeve from her daypack's side pocket and holds it ready in her left hand, angling toward the rear door, as Sơn, still a pace screen-right of her, takes his first step after her toward the exit.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: One decisive documenting action under her opening words, the line finished as the phone comes down, then withdrawal preparations that turn both bodies toward the exit; the clip ends in motion, not in another standoff.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Mây at screen centre between door and desk, Bà Hai and the open safe at screen right, Sơn at screen left nearer the door. The phone points only at Bà Hai and the safe; the sleeve comes from her daypack's side pocket.
+Blocking: Rear door at screen left, Mây at screen centre between door and desk, Sơn a pace screen-right of her by the angled chair and half a step deeper, Bà Hai and the open safe at far screen right. The phone aims past Sơn at Bà Hai and the safe only; the sleeve comes from her daypack's side pocket.
 Performance: Mây stays firm without triumph; she knows the record matters more than winning the argument, and she is pulling Sơn out before he sinks further. Sơn lets himself be pulled. No smug look at Bà Hai, no panic.
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Bao nhiêu đó đủ cho hồ sơ rồi. Cái két mở với lời bà vừa nói, tôi giữ hết.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.9s · Mây (@May), nói trong hình: Bao nhiêu đó đủ cho hồ sơ rồi. Cái két mở với lời bà vừa nói, tôi giữ hết.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -61,7 +61,7 @@ Foreground sound: The photograph uses no exaggerated shutter effect; her line is
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Mây angled toward the rear door, phone lowered in her right hand, a clear evidence sleeve ready in her left; Sơn beside her in his first step toward the exit, ledger under his left arm; Bà Hai seated at the desk by the open safe, watching them.
+Mây angled toward the rear door, phone lowered in her right hand, a clear evidence sleeve ready in her left; Sơn a pace screen-right of her in his first step after her toward the exit, ledger under his left arm; Bà Hai seated at the desk by the open safe, watching them.
 Next shot 23.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]

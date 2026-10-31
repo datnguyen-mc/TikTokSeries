@@ -21,7 +21,7 @@ Previous editorial shot: 35.4, ending with Backpack open on the cot with the fol
 L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Bright coastal morning at the foot of the hill path: Sơn in his black suit at the edge of the main street, bare hands at his sides; ahead, shopkeepers stand at half-lowered shutters along the road toward the market.
+Bright coastal morning at the foot of the hill path: Sơn in his black suit at the edge of the main street, bare hands at his sides; ahead, three shopkeepers stand at half-lowered shutters along the road toward the market, the street otherwise empty.
 
 [CAMERA]
 35mm lateral tracking shot moving with the subject in the established direction. No whip pan, drone move or reverse-axis cut.
@@ -30,7 +30,7 @@ Composition: Track laterally in the established direction with secured shutters 
 Focus: Keep his bare hands and bandaged left wrist readable without pushing into an extra detail shot.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn steps off the hill path onto the main street and walks down its middle at an ordinary pace, the tracking move keeping level with his shoulder. Beat 2 (3.0–6.5s): He passes a row of shutters as unnamed shopkeepers pull them down and padlock them; one glances at him and looks away, and his shoulders stay set while his eyes keep to the road. Beat 3 (6.5–10.0s): The green awning of Bảy's stall comes up beside the sea wall; he angles toward the sea-facing table, and the move eases as his pace slows.
+Beat 1 (0.0–3.0s): Sơn steps off the hill path onto the main street and walks down its middle at an ordinary pace, the tracking move keeping level with his shoulder. Beat 2 (3.0–6.5s): He passes the three shopkeepers as they pull their shutters down and padlock them; one glances at him and looks away, and his shoulders stay set while his eyes keep to the road. Beat 3 (6.5–10.0s): The green awning of Bảy's stall comes up beside the sea wall; he angles toward the sea-facing table, and the move eases as his pace slows.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: An uninterrupted walk with the shutters closing around him in the middle stretch; the pace eases only as the table arrives.
 
@@ -40,8 +40,8 @@ Performance: Composure over tension: he is choosing to be seen, and his set shou
 
 
 [DIALOGUE]
-0.2–5.2s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Cả phố đóng cửa sớm vì tôi. Lần này tôi đi giữa đường, không nép nữa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–5.0s · Sơn, lời dẫn ngoài hình: Cả phố đóng cửa sớm vì tôi. Lần này tôi đi giữa đường, không nép nữa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

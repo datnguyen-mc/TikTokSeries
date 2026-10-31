@@ -42,9 +42,9 @@ Performance: Sơn speaks as an insider confessing what he knows, not a detective
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Vũ Kiên đứng tên trả tiền thuê tàu, thuê xưởng. Bà Hai giữ đường hàng.
-Mây (@May), nói trong hình: Vậy hai kẻ đó đang giành nhau cuốn sổ anh lấy.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+2.5–7.1s · Sơn (@Son), nói trong hình: Vũ Kiên đứng tên trả tiền thuê tàu, thuê xưởng. Bà Hai giữ đường hàng.
+7.2–9.8s · Mây (@May), nói trong hình: Vậy hai kẻ đó đang giành nhau cuốn sổ anh lấy.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

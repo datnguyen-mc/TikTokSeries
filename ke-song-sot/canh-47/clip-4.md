@@ -12,7 +12,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 47/60, clip 4/6; shot 47.4. Story time: D7 night continuous.
 Outside rear of the same stationary van, market wall behind, loose cart to left, clear police-controlled lane.
-Same night: van lamp and parked-vehicle practicals as warm side light, cool lane darkness; helmets visible before the engine starts.
+Same night: van lamp and parked-vehicle practicals as warm side light, cool lane darkness.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make standing itself an obstacle so the next journey has physical stakes.
@@ -42,14 +42,15 @@ Performance: Sơn hides embarrassment more than pain; the urge to run shows in h
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Đừng chống tay trái. Tựa vai phải vào cửa.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–5.9s · Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Đừng chống tay trái. Tựa vai phải vào cửa.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with airway/breathing-support kit (no miracle antidote syringe).
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. After the escape it has stopped; do not add ticking or show the inner photo.
 
 [VISIBLE TEXTURE]
 CLOSED watch stays in his RIGHT hand, bandage never transfers sides and jacket remains the same black suit.

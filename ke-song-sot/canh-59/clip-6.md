@@ -42,9 +42,9 @@ Performance: Concentration and small cooperative adjustments carry the warmth; H
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Ông Bảy (@Ông Bảy), nói trong hình: Siết con vít này nữa là chân đứng thẳng nghen.
-Hạ (@Ha), nói trong hình: Cảm ơn chú, cảm ơn Mây. Sạp hoa thành hình rồi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–3.4s · Ông Bảy (@Ông Bảy), nói trong hình: Siết con vít này nữa là chân đứng thẳng nghen.
+3.5–7.0s · Hạ (@Ha), nói trong hình: Cảm ơn chú, cảm ơn Mây. Sạp hoa thành hình rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

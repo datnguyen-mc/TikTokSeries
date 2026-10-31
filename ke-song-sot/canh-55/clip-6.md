@@ -10,7 +10,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 55/60, clip 6/6; shot 55.6. Story time: D7 late night.
 Simple holding room behind the town post, bench and barred window, corridor light outside.
-Late-night interview room: one warm desk lamp as low hard side key, dim cool corridor light through the door.
+Late-night holding room lit only from outside: a dim corridor bulb throws a soft, slightly warm wedge of light through the open doorway across the bench and Sơn's legs; cool night-blue glow at the barred window, deep soft shadows elsewhere.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let rest follow accountability instead of treating unconsciousness as redemption.
@@ -35,13 +35,13 @@ Play each beat once, in order, from the start state to the end state; no gesture
 Action rhythm: A short inner line early, then over six seconds of settling without words; sleep arrives gradually and the take ends on living breath and passing footsteps rather than a frozen tableau.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Wide on the bench along the side wall, barred window above and behind him, open doorway to the corridor screen right. Sơn stays seated the whole take; only head, shoulders and hands settle.
+Blocking: Wide on the bench along the back wall, the barred window high in the side wall at screen left, the open doorway to the corridor at screen right. Sơn stays seated the whole take; only head, shoulders and hands settle.
 Performance: Vigilance finally lets go: this is exhaustion, not relief, and nothing suggests the consequences have gone. He hides nothing now and wants nothing from anyone. No smile, no prison-martyr pose.
 
 
 [DIALOGUE]
-0.2–3.6s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Lần đầu sau hai mươi lăm năm, tôi ngủ được.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–3.4s · Sơn, lời dẫn ngoài hình: Lần đầu sau hai mươi lăm năm, tôi ngủ được.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -13,7 +13,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 51/60, clip 6/6; shot 51.6. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery: backup lamp switches on at clip 1, aimed seaward; faces lit by its safe side spill and the low work lamps.
+Night gallery: the backup lamp already on, aimed seaward; faces lit by its safe side spill and the low work lamps.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Give the rescued people space without pretending the consequences have disappeared.
@@ -43,8 +43,8 @@ Performance: Mây checks like a professional and hides her own exhaustion; she w
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Hai người không sao chứ? Tôi cho hai người một phút.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+3.0–6.5s · Mây (@May), nói trong hình: Hai người không sao chứ? Tôi cho hai người một phút.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

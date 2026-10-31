@@ -28,7 +28,7 @@ Last light: Sơn on the center seam facing Kiên and the safe line, copy envelop
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Keep the seam and Sơn preview envelope within the medium lower frame, Hạ blocked path beyond.
+Composition: Keep the seam and Sơn copy envelope within the medium lower frame, Hạ blocked path beyond.
 Focus: Keep his bare RIGHT hand and envelope placement clear; LEFT wrist bandage must remain unchanged.
 
 [ACTION — 0–10s, one evolving take]
@@ -42,13 +42,14 @@ Performance: Level restraint: he gives up the only leverage he holds and offers 
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Tôi không ký. Bản sao ở đây, tôi ở lại. Để cô ấy đi.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–1.6s · Sơn (@Son), nói trong hình: Tôi không ký.
+6.6–9.6s · Sơn (@Son), nói trong hình: Bản sao ở đây, tôi ở lại. Để cô ấy đi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Paper rests on rough concrete with a slight wind lift, never multiplying into another ledger.

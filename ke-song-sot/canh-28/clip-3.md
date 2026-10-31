@@ -35,13 +35,13 @@ Play each beat once, in order, from the start state to the end state; no gesture
 Action rhythm: Bare hands are held long enough to register, the gloving is steady and unhurried, and he turns away without a satisfying flourish; the first step keeps the ending in motion.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Closed door at screen left behind him, stairwell toward screen right. He stands one pace from the door, hands held at waist height in front of him, gloves taken from his jacket pocket; he exits toward screen right.
+Blocking: Same corridor geography as the wide: closed door at screen right behind him, stairwell toward screen left. He stands one pace from the door, hands held at waist height in front of him, gloves taken from his jacket pocket; he exits toward screen left, the way he came.
 Performance: Contained numbness: he feels what he did and refuses to let it reach his face. Covering his hands is an attempt to separate himself from them, and it brings no relief. No tears, no shaking, no glance back at the door.
 
 
 [DIALOGUE]
-0.2–7.7s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Tôi đã không quay đi. Từ đêm đó, tôi đeo găng để khỏi phải nhìn tay mình, và trở thành công cụ của Bà Hai.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–7.5s · Sơn, lời dẫn ngoài hình: Tôi đã không quay đi. Từ đêm đó, tôi đeo găng để khỏi phải nhìn tay mình, và trở thành công cụ của Bà Hai.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ New leather sits against a cheap black suit, ordinary rain light on the corridor
 
 [SOUND]
 Location bed: rain beyond stairwell and ordinary household sounds off screen.
-Foreground sound: Glove pull is small beneath the narrator; the household door remains silent.
+Foreground sound: Glove pull is small beneath older Sơn's voice-over; the household door remains silent.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

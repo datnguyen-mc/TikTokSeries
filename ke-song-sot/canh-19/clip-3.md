@@ -22,7 +22,7 @@ Previous editorial shot: 19.2, ending with Exactly four tally marks on the doorf
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Sơn and Mây face each other across the cabin table. Sơn holds the short pale-blue fragment above a plain open envelope; the long remainder lies flat between them; Mây holds an empty clear evidence sleeve open in both hands, duty pouch at her hip.
+Sơn and Mây face each other across the cabin table, Mây's packed black daypack standing at its right end. Sơn holds the short pale-blue fragment above a plain open envelope; the long remainder lies flat between them; Mây holds an empty clear evidence sleeve open in both hands, duty pouch at her hip.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.
@@ -41,9 +41,9 @@ Performance: Trust grows through procedure: neither lingers over the cloth, and 
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Mây (@May), nói trong hình: Phần dài tôi niêm phong. Dũng mang tới, nghĩa là Hạ từng qua tay người Bà Hai.
-Sơn (@Son), nói trong hình: Đưa được Hạ về, cô trả lại khăn cho cô ấy.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.2–5.3s · Mây (@May), nói trong hình: Phần dài tôi niêm phong. Dũng mang tới, nghĩa là Hạ từng qua tay người Bà Hai.
+5.4–8.9s · Sơn (@Son), nói trong hình: Đưa được Hạ về, cô trả lại khăn cho cô ấy.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -62,7 +62,7 @@ Foreground sound: A modest envelope fold and sleeve closure sit beneath Mây's l
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]
-Sơn and Mây face each other across the cleared table, both still breathing from the exchange; Sơn's bare hands hang empty, the envelope out of sight in his jacket; Mây's right hand is still inside her open duty pouch, the sealed remainder stowed.
+Sơn and Mây face each other across the table, now clear of cloth, Mây's packed black daypack still standing at its right end; both still breathing from the exchange; Sơn's bare hands hang empty, the envelope out of sight in his jacket; Mây's right hand is still inside her open duty pouch, the sealed remainder stowed.
 Next shot 19.4: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]

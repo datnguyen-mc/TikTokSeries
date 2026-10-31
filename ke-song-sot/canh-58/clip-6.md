@@ -3,14 +3,14 @@
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes.
 
 [CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands. no backpack with him: it stays at the cabin; LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged.
 
 
 [TIMELINE AND LOCATION]
 Scene 58/60, clip 6/6; shot 58.6. Story time: D8 late morning.
 Hòn Sóng crossroad at an old coach stop on the inland road: cracked, sun-bleached asphalt edged with sand, low salt-faded concrete houses with rusted corrugated-iron roofs, casuarinas bending in the sea wind, small fishing boats far out on the sea beyond the south side. Lived-in, quiet and slightly desolate, never a tourist postcard; no readable signs.
-Day-eight late morning: daylight through the side mesh window as soft side key inside the vehicle, hard coastal sun outside.
+Day-eight late morning at the open crossroad: hard, high coastal sun, short shadows on the sun-bleached asphalt, the sea bright beyond the south side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Close the outward journey geographically without creating another performance of parting.
@@ -40,8 +40,8 @@ Performance: If Sơn is seen at all he is part of the moving vehicle, a still sh
 
 
 [DIALOGUE]
-0.2–3.9s, one line (natural Southern Vietnamese pace, clear diction, cue at 0.2s). Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
-Sơn, lời dẫn ngoài hình: Tôi để biển lại phía sau, cho một ngày trở về.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-over only, dry and close, short natural pauses at sentence breaks; visible mouths stay closed while the action continues.
+0.2–3.7s · Sơn, lời dẫn ngoài hình: Tôi để biển lại phía sau, cho một ngày trở về.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ Crossroad sign remains unreadable, no new grave, message or flower appears besid
 
 [SOUND]
 Location bed: coach engine and sea wind.
-Foreground sound: Engine recedes inland and sea wind remains after it, with no extra concluding narration.
+Foreground sound: Engine recedes inland and sea wind remains after it, with no extra concluding voice-over.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Let the inland vehicle engine recede into cabin wind after the transport has left the picture.
 
 [END FRAME — natural motion continues]

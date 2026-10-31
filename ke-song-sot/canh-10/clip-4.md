@@ -17,7 +17,7 @@ Make Bà Hai's familiar reassurance sound like a trap when Sơn can no longer ac
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 10.3, ending with Sơn in the broken doorway, face turned down and out toward the tire tracks curving away across the wet pavement; bare right hand closed at his side, gloved left hand on the door edge; flower debris at his feet; pale dawn light.
+Previous editorial shot: 10.3, ending with Sơn in the broken doorway, face turned down and out toward the tire tracks curving away across the wet pavement; bare right hand closed around the scarf fragment at his side, gloved left hand on the door edge; flower debris at his feet; pale dawn light.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -30,7 +30,7 @@ Composition: Use the close-up to hold his face and phone edge without displaying
 Focus: Favor his eyes and the phone at a natural distance; keep any screen content unreadable and secondary.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): His bare right hand draws the phone from inside his jacket and lifts it to his ear without a glance at the screen. Beat 2 (2.5–7.0s): Bà Hai's soft voice comes through; Sơn listens without a word, eyes fixed on the broken latch, nostrils tightening when she says Hạ has left, the rest of his face held still. Beat 3 (7.0–10.0s): As her last warm phrase ends, his thumb cuts the call; he lowers the phone to his side, and the bare hand holding it settles and goes steady.
+Beat 1 (0.0–2.0s): His bare right hand draws the buzzing phone from inside his jacket, his thumb answers without a glance at the screen, and he lifts it to his ear. Beat 2 (2.0–7.5s): Bà Hai's soft voice comes through; Sơn listens without a word, eyes fixed on the broken latch, nostrils tightening when she says Hạ has left, the rest of his face held still. Beat 3 (7.5–10.0s): As her last warm phrase ends, his thumb cuts the call; he lowers the phone to his side, and the bare hand holding it settles and goes steady.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A quick answer to the buzz, her sweetness given room to finish, then the cut-off and a stillness afterward that carries the decision.
 
@@ -40,8 +40,8 @@ Performance: Bà Hai's warmth is a leash and he hears it as one; anger is real a
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
-Bà Hai, qua thiết bị: Con nhỏ bán hoa biết chuyện của con nên bỏ đi rồi. Về tiệm lụa đi, má còn chừa chỗ cho con.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice through the established device at a natural pace; no caller body in this shot.
+2.1–7.4s · Bà Hai, qua thiết bị: Con nhỏ bán hoa biết chuyện nên bỏ đi rồi. Về tiệm lụa đi, má chừa chỗ cho con.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

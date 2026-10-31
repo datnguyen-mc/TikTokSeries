@@ -9,8 +9,8 @@ Thành wears his light-blue shirt and round glasses with the right arm of the fr
 
 [TIMELINE AND LOCATION]
 Scene 50/60, clip 5/6; shot 50.5. Story time: D7 night continuous.
-Narrow maintenance stair and hatch below gallery, hair clip can keep inner latch slightly ajar, backup-light lever below final landing.
-Night gallery: low work lamps as warm side key, moonlit sea as cool fill from the south rail; backup lamp still off.
+Narrow maintenance stair and hatch below the gallery, inner latch on the hatch, backup-light lever below the final landing.
+Narrow service stair below the gallery: one dim caged work light as cool key on the lever and Thành's hands, faint cool moonlight from a slit window as fill; backup lamp still off.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show that the light will be a coordinated action using established equipment.
@@ -40,8 +40,8 @@ Performance: Controlled readiness: he hides his nerves in a quiet report and wan
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Voice through the established device at a natural pace; no caller body in this shot.
-Thành, qua thiết bị: Chị Mây, em đứng ở cần gạt đèn dự phòng. Chờ lệnh chị.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
+2.5–6.5s · Thành, ngoài khung hình: Chị Mây, em đứng ở cần gạt đèn dự phòng. Chờ lệnh chị.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -54,7 +54,7 @@ Old lever paint and adjacent wall retain their earlier appearance, backup remain
 
 [SOUND]
 Location bed: metal latch, careful footsteps and distant sea wind.
-Foreground sound: Radio compression and faint gallery wind explain the location, without electrical activation before the cue.
+Foreground sound: Thành's low voice close to the handset and faint gallery wind from above explain the location, without electrical activation before the cue.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [END FRAME — natural motion continues]

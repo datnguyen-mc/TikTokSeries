@@ -21,7 +21,7 @@ Turn the separate arrivals into an unequal negotiation whose geometry viewers ca
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 40.3, ending with Hạ standing beside the white car on thin sandals, grey dress moving in the wind, eyes on Sơn, breath steady, the landward lane to her right; Kiên at her left, right hand on the open rear door; Sơn beyond on the seam.
+Previous editorial shot: 40.3, ending with Hạ standing beside the white car on thin sandals, grey dress moving in the wind, eyes on Sơn, breath steady, the landward lane ahead of her and to her left, beyond Kiên; Kiên at her left, right hand on the open rear door; Sơn beyond on the seam.
 Intentional editorial cut, not a continuous take. Start in the new composition with momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
@@ -34,7 +34,7 @@ Composition: Hold all five main positions, sea behind and open landward lane, wi
 Focus: Keep east and west identities readable through costume and spacing, not facial close-ups inside this take.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): Bà Hai walks a few unhurried steps west from the black car, Dũng a pace behind her; on the far side Kiên steps east, steering Hạ with his right hand on her arm. Beat 2 (2.5–5.5s): Both parties stop at a deliberate distance on either side of Sơn, Bà Hai east of the seam, Kiên and Hạ west of it, the landward lane left open; Sơn's head turns from one side to the other. Beat 3 (5.5–10.0s): Bà Hai's eyes drop to Kiên's hand on Hạ's arm and her voice carries across the gap, mocking the grip; Kiên does not loosen it, Hạ's shoulders stay square, and both engines keep idling.
+Beat 1 (0.0–2.5s): Bà Hai walks a few unhurried steps west from the black car, Dũng a pace behind her; on the far side Kiên steps east, steering Hạ with his right hand on her arm. Beat 2 (2.5–5.5s): Both parties stop at a deliberate distance on either side of Sơn, Bà Hai east of the seam, Kiên and Hạ west of it, the landward lane left open; Sơn's head turns from one side to the other. Beat 3 (5.5–10.0s): Bà Hai's eyes drop to Kiên's hand on Hạ's arm and Bà Hai calls across the gap, mocking the grip; Kiên does not loosen it, Hạ's shoulders stay square, and both engines keep idling.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: The advance takes the first half and ends in stillness; her line lands only after both parties have stopped, leaving stable positions ready for changed terms.
 
@@ -44,14 +44,14 @@ Performance: Bà Hai mocks Kiên's handling of the girl as bad business, reveali
 
 
 [DIALOGUE]
-One line at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Off-screen speech at a natural pace; do not add a face or animate the listener speaking.
-Bà Hai, ngoài khung hình: Mày làm ăn lớn mà phải níu tay con nhỏ bán hoa làm khiên hả Kiên?
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+5.5–9.8s · Bà Hai (@HaiNgoc), nói trong hình: Mày làm ăn lớn mà phải níu tay con nhỏ bán hoa làm khiên hả Kiên?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
-- Paper COPY excerpt of the red ledger in a plain envelope. Originals are with the investigator after 34.5.
+- COPY of red-ledger pages: one loose copied page folded into Sơn's jacket at 31.4, then the copies kept in a plain envelope from 34.2. Originals are with the investigator after 34.5.
 
 [VISIBLE TEXTURE]
 Violet, white, grey and black clothing divide the plain concrete without extra colored lighting.

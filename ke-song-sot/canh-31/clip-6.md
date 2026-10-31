@@ -4,25 +4,25 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5, fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no handcuffs on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset; no handcuffs on her belt until fresh pairs arrive at 35.1.
 
 
 [TIMELINE AND LOCATION]
 Scene 31/60, clip 6/6; shot 31.6. Story time: D6 night.
 Main iron entrance of old lighthouse, motorcycle space outside, main spiral stair inside, maintenance route separate.
-Present-day lighthouse night in wind: one practical lamp as hard side key, cool moonlit sea as rim from the south rail; no daylight.
+Present-day night at the foot of the lighthouse in wind: one bare bulb above the iron entrance as hard top key, cool moonlight as rim on the path and the bending grass; no daylight.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Return the solitary family confrontation to the shared rescue responsibility below.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 31.5, ending with Dũng halted behind Bà Hai's raised left hand, breathing hard through his nose; Bà Hai between them, eyes on Sơn; Sơn by the open stair door, hands at his sides; wind moving his jacket and her violet sleeve.
+Previous editorial shot: 31.5, ending with Dũng halted half a pace ahead of Bà Hai's left shoulder, her raised left palm flat in front of his chest, breathing hard through his nose; Bà Hai at his side, eyes on Sơn; Sơn by the open stair door, hands at his sides; wind moving his jacket and her violet sleeve.
 L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Night at the foot of the lighthouse: Mây waiting beside the open iron entrance, radio handset at her belt, eyes on the spiral stair inside; the main path leads away past the motorcycle space.
+Night at the foot of the lighthouse: Sơn on the last step of the spiral stair just inside the open iron entrance, already moving out; Mây waiting beside the entrance, radio handset at her belt, eyes on him; the main path leads away past the motorcycle space.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -31,7 +31,7 @@ Composition: Use the base-wide frame to show Mây waiting and the same main path
 Focus: Keep both figures and the open exit readable, no return to Bà Hai inside this clip.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.5s): Sơn comes down the last turn of the spiral stair and out through the iron doorway, steady on his feet, and as Mây falls in beside him he starts his report: Bà Hai will come to the harbour. Beat 2 (3.5–7.0s): Eyes forward, he adds that Kiên must bring Hạ, and Mây answers with the next stop, the clinic and Doctor Linh, as they turn onto the main path. Beat 3 (7.0–10.0s): They lengthen their stride side by side down the path, their footsteps taking over from the tower wind, neither of them looking back at the lighthouse.
+Beat 1 (0.0–3.5s): Sơn steps out through the iron doorway, steady on his feet, Mây falls in beside him at once, and as they walk he starts his report: Bà Hai will come to the harbour. Beat 2 (3.5–7.0s): Eyes forward, he adds that Kiên must bring Hạ, and Mây answers with the next stop, the clinic and Doctor Linh, as they turn onto the main path. Beat 3 (7.0–10.0s): They lengthen their stride side by side down the path, their footsteps taking over from the tower wind, neither of them looking back at the lighthouse.
 Play each beat once, in order, from the start state to the end state; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue through the seam.
 Action rhythm: A quick exit straight into a two-line report on the move, a one-line answer, then a clean departure that carries the scene away from the tower.
 
@@ -41,9 +41,9 @@ Performance: Sơn reports only facts and keeps the wound of the meeting to himse
 
 
 [DIALOGUE]
-Two turns with a natural handover at a natural Southern Vietnamese conversational pace, clear diction. Each line starts inside the ACTION beat that names its speaker (at 0.2s when no beat names it) and is complete before 10.0s. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
-Sơn (@Son), nói trong hình: Bà ấy sẽ ra cảng. Kiên muốn sổ thì phải dắt Hạ theo.
-Mây (@May), nói trong hình: Về phòng khám. Bàn với bác sĩ Linh trước đã.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Visible speaker talks at a natural pace with accurate lip sync; the listener reacts in the moment without dead air.
+0.6–4.2s · Sơn (@Son), nói trong hình: Bà ấy sẽ ra cảng. Kiên muốn sổ thì phải dắt Hạ theo.
+4.3–7.5s · Mây (@May), nói trong hình: Về phòng khám. Bàn với bác sĩ Linh trước đã.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

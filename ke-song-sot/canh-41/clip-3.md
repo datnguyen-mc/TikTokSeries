@@ -27,7 +27,7 @@ Give Hạ an independent refusal that changes what Sơn is willing to exchange.
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Hạ's face and shoulders in the last light, eyes fixed on Sơn; Kiên's right hand resting on her left upper arm, white cuff showing; wind moving her loose hair; Sơn a soft dark shape beyond.
+Hạ's face and shoulders in the last light, eyes fixed on Sơn; Kiên's right hand resting near her left shoulder, white cuff showing; wind moving her loose hair; Sơn a soft dark shape beyond.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
@@ -36,12 +36,12 @@ Composition: Frame Hạ close, Kiên's RIGHT hand on her LEFT arm visible at the
 Focus: Prioritize her eyes and her sleeve under his hand in the same natural focal plane, no glamour blur.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.0s): Hạ draws one controlled breath, eyes on Sơn, Kiên's hand still on her sleeve. Beat 2 (2.0–6.5s): She tells Sơn not to sign the blame for Kiên and that she will not trade her freedom for a false confession, voice steady, never glancing up at Kiên. Beat 3 (6.5–10.0s): She squares her free right shoulder and turns her body toward the safe lane with his hand still on her arm, spine straightening, chin level, eyes still on Sơn; she holds there, breathing.
+Beat 1 (0.0–2.0s): Hạ draws one controlled breath, eyes on Sơn, Kiên's hand still on her sleeve. Beat 2 (2.0–6.5s): She tells Sơn not to sign the blame for Kiên and that she will not trade her freedom for a false confession, voice steady, never glancing up at Kiên. Beat 3 (6.5–10.0s): She squares her free right shoulder and turns her body toward the safe lane with his standing close by her side, spine straightening, chin level, eyes still on Sơn; she holds there, breathing.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: One breath to gather, the refusal spoken plainly through the middle, then the deliberate upright turn that ends the clip in a held, breathing posture.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Hạ center frame, angled toward the safe lane on the landward side; Kiên's right hand on her left upper arm at the frame edge. Only her torso and right shoulder turn; her feet stay planted.
+Blocking: Hạ center frame, angled toward the safe lane on the landward side; Kiên's right hand near her left shoulder at the frame edge. Only her torso and right shoulder turn; her feet stay planted.
 Performance: Hạ refuses to be the price of Sơn's lie; her steadiness is a decision, not calm. She wants him to choose the truth over her. Fear stays in the breath. No pleading upward look, no tears, no shouted defiance.
 
 
@@ -69,7 +69,7 @@ Foreground sound: The sea and a faint sleeve rustle remain beneath her line; no 
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Hạ upright, body turned toward the safe lane, chin level, eyes still on Sơn; Kiên's right hand still on her left upper arm; loose hair moving in the wind; Sơn beyond, still, listening.
+Hạ upright, body turned toward the safe lane, chin level, eyes still on Sơn; Kiên's right hand still near her left shoulder; loose hair moving in the wind; Sơn beyond, still, listening.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

@@ -6,9 +6,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose natural hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, composed and unharmed. Voice: warm, clear, expressive Southern Vietnamese female voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
 
 [TIMELINE AND LOCATION]
 Scene 51/60, clip 6/6; shot 51.6. Story time: D7 night continuous.
@@ -30,16 +30,16 @@ Sơn seated against the inner wall, Hạ kneeling close at his side with a hand 
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Hạ and seated Sơn medium against the inner wall, Mây and controlled Kiên in the established background.
-Focus: Keep foreground faces readable while background custody remains identifiable, not melted into an empty romantic void.
+Focus: Keep foreground faces readable while background escort remains identifiable, not melted into an empty romantic void.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây steps nearer, her eyes running over Sơn's labored breathing and Hạ's hands, checking that their hands are steady. Beat 2 (3.0–6.5s): She asks whether they are hurt and says she will give them a minute, a small nod back toward the officer standing with Kiên. Beat 3 (6.5–10.0s): She backs off two paces and stands between them and the custody pair; Hạ shifts from kneeling to sitting beside Sơn, shoulder to his shoulder, as his breath begins to slow.
+Beat 1 (0.0–3.0s): Mây steps nearer, her eyes running over Sơn's labored breathing and Hạ's hands, checking that their hands are steady. Beat 2 (3.0–6.5s): She asks whether they are hurt and says she will give them a minute, a small nod back toward the officer standing with Kiên. Beat 3 (6.5–10.0s): She backs off two paces and stands between them and the escort pair; Hạ shifts from kneeling to sitting beside Sơn, shoulder to his shoulder, as his breath begins to slow.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: A quick check, a short offer, then the space opens and settles; it ends seated and quiet holding the quiet stillness through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Hạ and Sơn foreground frame right against the inner wall, Mây mid-ground center, the officer and Kiên in the background frame left by the doorway. Mây's two steps back put her between the pairs.
-Performance: Mây checks like a professional and hides her own exhaustion; she wants them to have a moment without dropping custody. Sơn's breath is still effortful, Hạ grounded and present. No celebration, no speeches.
+Performance: Mây checks like a professional and hides her own exhaustion; she wants them to have a moment without dropping escort. Sơn's breath is still effortful, Hạ grounded and present. No celebration, no speeches.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -54,8 +54,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 
 [VISIBLE TEXTURE]
 Grey dress and black suit retain ordeal creases, backup lamp stays steady and the watch remains closed inside his pocket.

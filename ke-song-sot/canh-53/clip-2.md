@@ -31,7 +31,7 @@ Composition: Frame Hạ beside Sơn medium before he reaches the doorway, her ha
 Focus: Keep her face and the releasing fingers in the same composition, with Sơn's eyeline close enough for the question.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Hạ's fingers tighten a little on his sleeve and she turns him half toward her, searching his face. Beat 2 (3.0–6.5s): She asks whether taking the wrist-clasps and telling everything is truly his own choice; Sơn meets her eyes and holds them, steady, with no blame in his face and no words yet. Beat 3 (6.5–10.0s): She reads the answer there; her fingers open one by one and leave his sleeve, and her hand lowers to her side, leaving him room to go on.
+Beat 1 (0.0–3.0s): Hạ's fingers tighten a little on his sleeve and she turns him half toward her, searching his face. Beat 2 (3.0–6.5s): She asks whether taking the wrist-bands and telling everything is truly his own choice; Sơn meets her eyes and holds them, steady, with no blame in his face and no words yet. Beat 3 (6.5–10.0s): She reads the answer there; her fingers open one by one and leave his sleeve, and her hand lowers to her side, leaving him room to go on.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The turn toward her is quick, the question gets a held look instead of a reply, and the release arrives late, deliberately, ending on the space she gives.
 

@@ -11,7 +11,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 52/60, clip 4/6; shot 52.4. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery after the arrest: steady backup-lamp spill as soft side key, low work lamps as fill for close-ups; no new light source.
+Same night gallery after the escort: steady backup-lamp spill as soft side key, low work lamps as fill for close-ups; no new light source.
 Spatial axis: 180-degree axis on lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]

@@ -22,12 +22,12 @@ Allow Hạ one ordinary act of care that respects the decision just made.
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Detail: closed silver watch cupped in Sơn's right palm, the clasp chain just below, his wrapped left wrist in the other ring; the breast pocket of his black jacket above; Hạ's fingers at the frame edge.
+Detail: closed silver watch cupped in Sơn's right palm, the band link just below, his wrapped left wrist in the other ring; the breast pocket of his black jacket above; Hạ's fingers at the frame edge.
 
 [CAMERA]
 85mm detail shot. Hands and the relevant object move decisively from 0.0s and stay spatially readable.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Lock the detail on his cupped RIGHT hand holding the CLOSED watch, clasp chain lower in frame.
+Composition: Lock the detail on his cupped RIGHT hand holding the CLOSED watch, band link lower in frame.
 Focus: Keep pocket opening, closed lid and fingers within one believable plane, no invented inscription or photo reveal.
 
 [ACTION — 0–10s, one evolving take]
@@ -36,7 +36,7 @@ Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and th
 Action rhythm: The offer and his open hand come first, the placement is one careful move, and the withdrawn hand lets the rest of the shot breathe without a frozen hold.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Detail from his hands up to the breast pocket; Hạ's hand enters from frame right, travels up to the pocket and exits frame right. The wrist-clasps and wrist wrap stay exactly where 53.3 left them.
+Blocking: Detail from his hands up to the breast pocket; Hạ's hand enters from frame right, travels up to the pocket and exits frame right. The wrist-bands and wrist wrap stay exactly where 53.3 left them.
 Performance: An ordinary act of care that respects his decision; she hides any farewell inside the practical gesture. His open hand is the consent. No covert key, no promise to wait.
 
 

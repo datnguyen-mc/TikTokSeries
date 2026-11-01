@@ -14,7 +14,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 
 [TIMELINE AND LOCATION]
 Scene 44/60, clip 2/6; shot 44.2. Story time: D7 early night.
-Protected rear lane behind market wall, Bảy van parked with rear doors toward clinic route, no civilians inside the police zone.
+Protected rear lane behind market wall, Bảy van parked with rear doors toward clinic route, quiet and clear of passersby.
 Early night: established harbour floodlight as high key outside, warm van lamp inside, dim lighthouse work practicals on the stairs.
 Spatial axis: 180-degree axis in protected rear lane behind market wall: Bảy's van parked with rear doors facing clinic route.
 
@@ -26,21 +26,21 @@ Keep the audience connected to Sơn's physical condition while the pursuit moves
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Rear lane behind the market wall: Bảy's van a few steps ahead with rear doors open, warm lamp over a clean mattress inside; Sơn half-upright on a wheeled stretcher, eyes half-open, its foot end a few steps short of the doors; Linh at the stretcher's head, canvas medical bag slung on his shoulder, Bảy at its foot, checkered cloth on his shoulder.
+Rear lane behind the market wall: Bảy's van a few steps ahead with rear doors open, warm lamp over a clean mattress inside; Sơn half-upright on a wheeled wheeled cot, eyes half-open, its foot end a few steps short of the doors; Linh at the wheeled cot's head, canvas medical bag slung on his shoulder, Bảy at its foot, checkered cloth on his shoulder.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Linh beside the supported stretcher, van rear doors and Bảy's guiding position clearly visible.
+Composition: Frame Linh beside the supported wheeled cot, van rear doors and Bảy's guiding position clearly visible.
 Focus: Hold the supported body and guiding hands in the same medium depth, not a diagnostic insert.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.5s): Linh walks at the stretcher's head with two fingers on Sơn's neck and his eyes on the rise of Sơn's chest, quietly telling him his breathing is holding; Bảy rolls the foot end up to the open rear doors, checking the clearance over his shoulder. Beat 2 (3.5–7.0s): At the doors Bảy asks Linh to take the head; Linh cradles the back of Sơn's skull while the two of them lift and slide him off the stretcher onto the clean mattress in one careful move. Beat 3 (7.0–10.0s): Linh climbs in and kneels at Sơn's right, sets the canvas medical bag beside him and lays a palm on his chest to count breaths; Bảy steps back from the rear door, wiping his hands on the checkered cloth, and walks along the van's side toward the driver's cab.
+Beat 1 (0.0–3.5s): Linh walks at the wheeled cot's head with two fingers on Sơn's neck and his eyes on the rise of Sơn's chest, quietly telling him his breathing is holding; Bảy rolls the foot end up to the open rear doors, checking the clearance over his shoulder. Beat 2 (3.5–7.0s): At the doors Bảy asks Linh to take the head; Linh cradles the back of Sơn's skull while the two of them lift and slide him off the wheeled cot onto the clean mattress in one careful move. Beat 3 (7.0–10.0s): Linh climbs in and kneels at Sơn's right, sets the canvas medical bag beside him and lays a palm on his chest to count breaths; Bảy steps back from the rear door, wiping his hands on the checkered cloth, and walks along the van's side toward the driver's cab.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: A steady approach, one careful transfer at the centre of the take, then quiet settling with breath audible; no second lift and no repeated exterior arrival.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: The stretcher comes up the lane to the open rear doors, Linh at the head, Bảy at the foot. The transfer happens at the doors; Linh ends inside at Sơn's RIGHT side, Bảy outside, heading along the van's side to the driver's cab. LEFT wrist wrap stays visible.
+Blocking: The wheeled cot comes up the lane to the open rear doors, Linh at the head, Bảy at the foot. The transfer happens at the doors; Linh ends inside at Sơn's RIGHT side, Bảy outside, heading along the van's side to the driver's cab. LEFT wrist wrap stays visible.
 Performance: Linh's calm is deliberate, aimed at the patient as much as the task; Bảy's whole attention is on the doorway and on not jolting Sơn. Sơn only breathes. No comic fuss, no frantic medical shouting.
 
 

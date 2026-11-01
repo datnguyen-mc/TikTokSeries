@@ -31,7 +31,7 @@ Composition: Frame the counter opening between Bảy's speaking face and Dũng's
 Focus: Keep his face and the counter boundary in shared medium depth, leaving Dũng's size contextual rather than dominant.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Bảy sets the glass down on the tray without hurry, wipes his fingers on the cloth at his shoulder and looks up at Dũng. Beat 2 (3.0–6.5s): He points past Dũng down the street toward the clinic and tells him the two men are lying there under police watch, his voice even and unhurried. Beat 3 (6.5–10.0s): As Dũng shifts toward the staff opening, Bảy steps sideways into it and finishes that he should ask at the police post and not stir up trouble in the stall; Dũng stops in the aisle, nostrils flaring.
+Beat 1 (0.0–3.0s): Bảy sets the glass down on the tray without hurry, wipes his fingers on the cloth at his shoulder and looks up at Dũng. Beat 2 (3.0–6.5s): He points past Dũng down the street toward the clinic and tells him the two men are lying there under police watch, his voice even and unhurried. Beat 3 (6.5–10.0s): As Dũng shifts toward the staff opening, Bảy steps sideways into it and finishes that he should ask at the town office and not stir up trouble in the stall; Dũng stops in the aisle, nostrils flaring.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The glass goes down slowly before he speaks, the answer spans the middle, and the step into the opening lands last; the held boundary closes the clip.
 

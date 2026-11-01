@@ -28,21 +28,21 @@ Show Bà Hai's authority draining through the ordinary act of having nothing use
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Bà Hai seated upright on the stone bench under the harbour floodlight, unlit black holder between her right fingers, jade bracelet on her left wrist; one officer stands two paces in front of her; she faces the custody road off frame right.
+Bà Hai seated upright on the stone bench under the harbour floodlight, unlit black holder between her right fingers, jade bracelet on her left wrist; one officer stands two paces in front of her; she faces the service road off frame right.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: The wide isolates her on the established stone bench, an officer present and custody road off frame.
+Composition: The wide isolates her on the established stone bench, an officer present and service road off frame.
 Focus: Let the distance around her be readable; do not push into a tear close-up in this establishing beat.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Bà Hai lifts the holder a few centimetres toward the custody road, the old summoning gesture, eyes narrowing at the people moving out there. Beat 2 (3.0–6.5s): Nobody on the road turns to her; her raised hand hangs a beat, she murmurs her short line, then lowers the holder and lays it on the stone beside her hip with a small click. Beat 3 (6.5–10.0s): Both hands come to rest on her knees, back still straight; breath leaves slowly through her nose while the officer shifts his weight, and her eyes stay on the road.
+Beat 1 (0.0–3.0s): Bà Hai lifts the holder a few centimetres toward the service road, the old summoning gesture, eyes narrowing at the people moving out there. Beat 2 (3.0–6.5s): Nobody on the road turns to her; her raised hand hangs a beat, she murmurs her short line, then lowers the holder and lays it on the stone beside her hip with a small click. Beat 3 (6.5–10.0s): Both hands come to rest on her knees, back still straight; breath leaves slowly through her nose while the officer shifts his weight, and her eyes stay on the road.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: A small raised gesture, a held moment of no response, one placement of the holder, then a still but breathing posture that registers defeat without freezing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Bench center under the floodlight, officer two paces in front of her and slightly frame left; custody road off frame right. The holder travels from her right fingers to the stone at her right hip.
+Blocking: Bench center under the floodlight, officer two paces in front of her and slightly frame left; service road off frame right. The holder travels from her right fingers to the stone at her right hip.
 Performance: Habit of command first, then the quiet discovery that no one is left to obey. She hides the loss behind posture and wants no witness to it. No trembling lip, no tears.
 
 
@@ -66,11 +66,11 @@ Violet silk and jade remain on her LEFT wrist, floodlight stays functional rathe
 
 [SOUND]
 Location bed: boat ropes, small waves and engines only when visible.
-Foreground sound: Holder touching stone is a small clear sound amid distant custody footsteps, without mournful scoring.
+Foreground sound: Holder touching stone is a small clear sound amid distant escort footsteps, without mournful scoring.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Bà Hai upright on the bench, both hands resting on her knees, jade bracelet on her left wrist, unlit holder lying on the stone at her right hip; the officer two paces in front; her gaze still on the custody road, breathing slowly.
+Bà Hai upright on the bench, both hands resting on her knees, jade bracelet on her left wrist, unlit holder lying on the stone at her right hip; the officer two paces in front; her gaze still on the service road, breathing slowly.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

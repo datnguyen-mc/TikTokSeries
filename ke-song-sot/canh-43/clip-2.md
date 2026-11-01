@@ -27,7 +27,7 @@ Let Kiên puncture Bà Hai's self-justification while exploiting the opening she
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Kiên west of the seam with the white car behind him, right hand on Hạ's left upper arm, left hand empty at his side; Hạ's sandals planted; Bà Hai across the seam on his eyeline, holder in her right fingers.
+Kiên west of the seam with the white car behind him, right hand near Hạ's left shoulder, left hand empty at his side; Hạ's sandals planted; Bà Hai across the seam on his eyeline, holder in her right fingers.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -69,7 +69,7 @@ Foreground sound: Use a soft shoe reposition and paper rustle already on the apr
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Kiên a step back toward the white car, right hand on Hạ's left upper arm, thin smile fixed on Bà Hai; Hạ half turned, eyes on the driver; the driver walking from the white car toward the center seam.
+Kiên a step back toward the white car, right hand near Hạ's left shoulder, thin smile fixed on Bà Hai; Hạ half turned, eyes on the driver; the driver walking from the white car toward the center seam.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

@@ -5,8 +5,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands. no backpack with him: it stays at the cabin; white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapd. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. Voice: quick, polite, alert Southern Vietnamese male voice.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapped. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and two-way radio handset.
 Time ellipsis: later before transport, Sơn has changed back into his stored olive jacket.
 
 [VEHICLE LOCK — persistent design & physics]
@@ -23,14 +23,14 @@ Spatial axis: 180-degree axis inside transfer van: mesh window on right, Sơn se
 Scene goal: Chia tay bằng một ánh nhìn, không diễn lại nhiều lần. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 0.2s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
-Place the farewell inside the unavoidable movement of custody, not a private romantic escape.
+Place the farewell inside the unavoidable movement of escort, not a private romantic escape.
 
 
 [CONTINUITY AT 0.0s — single uncut shot]
 Begin directly at 0.0s in this single location and camera setup with the location sound and movement already active from the very first frame; single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Inside the moving official transfer van: Sơn, changed into his olive field jacket, sits facing forward with no bag, clasped hands low in his lap, left wrist wrapd, the mesh side window at his right shoulder; Thành sits opposite, the transfer file open on his knee.
+Inside the moving official transfer van: Sơn, changed into his olive field jacket, sits facing forward with no bag, clasped hands low in his lap, left wrist wrapped, the mesh side window at his right shoulder; Thành sits opposite, the transfer file open on his knee.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -61,7 +61,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 
 [VISIBLE TEXTURE]
 Olive jacket has returned only after the stated clothing change, LEFT wrist wrap and closed watch remain consistent.

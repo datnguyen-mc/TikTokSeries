@@ -5,7 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapd.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapped.
 
 [TIMELINE AND LOCATION]
 Scene 34/60, clip 1/6; shot 34.1. Story time: D7 dawn.
@@ -33,7 +33,7 @@ Composition: Use the stable detail composition to show six old grooves and room 
 Focus: Keep count and new pale wood legible, without an imagined calendar overlay.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): The tool's tip sets into clean wood beside the sixth mark and cuts the seventh line in one steady stroke, pale shavings curling and dust drifting in the light. Beat 2 (3.0–6.5s): The hand lifts the tool clear and holds still while the wrist wrapd left wrist stays braced on the frame; seven marks now stand in one row, the new groove brightest. Beat 3 (6.5–10.0s): The right hand lays the tool on the shelf below and withdraws, a fingertip brushing the last dust from the frame edge as the dawn light creeps along the grain.
+Beat 1 (0.0–3.0s): The tool's tip sets into clean wood beside the sixth mark and cuts the seventh line in one steady stroke, pale shavings curling and dust drifting in the light. Beat 2 (3.0–6.5s): The hand lifts the tool clear and holds still while the wrist wrapped left wrist stays braced on the frame; seven marks now stand in one row, the new groove brightest. Beat 3 (6.5–10.0s): The right hand lays the tool on the shelf below and withdraws, a fingertip brushing the last dust from the frame edge as the dawn light creeps along the grain.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The single cut comes early and is over quickly; the count is held long enough to read seven; the tool goes down while the light keeps moving.
 

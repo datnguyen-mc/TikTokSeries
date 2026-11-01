@@ -954,7 +954,7 @@ def _is_transient_transport_error(err_text: str) -> bool:
     return any(m in t for m in transient_markers)
 
 
-def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 2):
+def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 3):
     current_prompt = initial_prompt
     policy_attempt = 0
 

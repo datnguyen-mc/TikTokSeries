@@ -27,7 +27,7 @@ Giọng xuyên phim: firm, clear Southern Vietnamese female voice.
 Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó.
 
 Biến thể và prompt ảnh tham chiếu:
-- **MAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **MAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **MAY_C:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **MAY_O:** Photorealistic reference of the SAME approved Vietnamese identity, age 58, older face age 58, more silver in the same short haircut, plain khaki shirt, dark trousers, ordinary motorcycle helmet held at her side when specified. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
@@ -89,7 +89,7 @@ Giọng xuyên phim: quick, polite, alert Southern Vietnamese male voice.
 Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó.
 
 Biến thể và prompt ảnh tham chiếu:
-- **THANH:** Photorealistic reference of the SAME approved Vietnamese identity, age 26, plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **THANH:** Photorealistic reference of the SAME approved Vietnamese identity, age 26, plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
 ## Bác sĩ Linh · @Bác sĩ Linh
 

@@ -65,7 +65,7 @@ Lamp remains warm and constant, clean bedding and worn van panels keep the impro
 
 
 [SOUND]
-Location bed: breathing and distant muffled police radio.
+Location bed: breathing and distant muffled radio.
 Foreground sound: Linh's voice sits close to breathing, distant radio remains low, no new beeps or resuscitation effects.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 

@@ -7,8 +7,8 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose natural hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, composed and unharmed. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
 
 [TIMELINE AND LOCATION]
 Scene 51/60, clip 2/6; shot 51.2. Story time: D7 night continuous.
@@ -24,7 +24,7 @@ Let Hạ complete the escape she prepared by changing her own position.
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Kiên's head turned toward the lit backup lamp, right hand resting loosely on Hạ's left upper arm, key-case low in his left; Hạ against the inner wall; Mây in the east doorway, Sơn one step behind her.
+Kiên's head turned toward the lit backup lamp, right hand resting loosely near Hạ's left shoulder, key-case low in his left; Hạ against the inner wall; Mây in the east doorway, Sơn one step behind her.
 
 [CAMERA]
 35mm steady handheld medium-wide that moves with the people. Keep everyone's positions and hands readable from one side of the axis.
@@ -54,8 +54,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 - Kiên's compact black metal key-case, held low beside his LEFT thigh the whole time while his right hand holds Hạ's arm or the hatch; never raised toward anyone; dropped at 51.3 and lifted into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]

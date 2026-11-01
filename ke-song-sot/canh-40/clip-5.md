@@ -27,7 +27,7 @@ Make Sơn ask for a verifiable release rather than simply trust another promise.
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Sơn on the center seam, copy envelope low in his bare right hand, wrapped left hand at his side; opposite him to the west, Kiên with his right hand on Hạ's left upper arm, Hạ beside him.
+Sơn on the center seam, copy envelope low in his bare right hand, wrapped left hand at his side; opposite him to the west, Kiên with his right hand near Hạ's left shoulder, Hạ beside him.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -36,7 +36,7 @@ Composition: Frame him opposite Kiên and Hạ, with the marked safe line clearl
 Focus: Keep his face, left wrist wrap and requested destination readable in the same medium setup.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn raises the envelope a few centimetres so Kiên can see it, eyes on Kiên, and tells him the copy is in his hand. Beat 2 (3.0–6.5s): His wrapped left hand lifts from his side and points low and steady toward the painted safe line as he asks for Hạ to be let go across it; Hạ's eyes follow his hand. Beat 3 (6.5–10.0s): Kiên smiles thinly and, his hand still on her arm, answers that nobody crosses before the deal is done; Sơn keeps his left hand pointing, jaw set, waiting.
+Beat 1 (0.0–3.0s): Sơn raises the envelope a few centimetres so Kiên can see it, eyes on Kiên, and tells him the copy is in his hand. Beat 2 (3.0–6.5s): His wrapped left hand lifts from his side and points low and steady toward the painted safe line as he asks for Hạ to be let go across it; Hạ's eyes follow his hand. Beat 3 (6.5–10.0s): Kiên smiles thinly and, his standing close by her side, answers that nobody crosses before the deal is done; Sơn keeps his left hand pointing, jaw set, waiting.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The envelope shown, the condition stated, then Kiên's answer; the last seconds hold the pointing hand in the waiting space after it.
 
@@ -70,7 +70,7 @@ Foreground sound: His short instruction sits above engines, with no added gasp o
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Sơn on the seam, envelope low in his right hand, wrapped left hand still pointing toward the safe line; Kiên opposite with a thin smile, right hand on Hạ's left upper arm; Hạ's eyes on the safe line, breath held.
+Sơn on the seam, envelope low in his right hand, wrapped left hand still pointing toward the safe line; Kiên opposite with a thin smile, right hand near Hạ's left shoulder; Hạ's eyes on the safe line, breath held.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

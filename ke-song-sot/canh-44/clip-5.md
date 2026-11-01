@@ -4,18 +4,18 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original clasp ring remains on RIGHT wrist; no usable loose clasp end. Voice: rough, direct Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. old metal wrist-ring remains on RIGHT wrist; no loose end. Voice: rough, direct Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice: focused, calm Southern Vietnamese male voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel clasp ring hanging on his RIGHT wrist from the garage escape. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel wrist ring hanging on his RIGHT wrist from the garage escape. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
 
 [VEHICLE LOCK — persistent design & physics]
 - Medical Support Van (Compact weathered white utility van): Salt-faded white paint, steel cargo body, twin rear swing doors, warm practical interior lamp. Stationary utility van parked behind market wall; rear cargo bay fitted with a clean mattress and medical support kit. Physics: Subtle chassis rock when someone steps into or out of the rear cargo bay; heavy metal door latch.
 
 [TIMELINE AND LOCATION]
 Scene 44/60, clip 5/6; shot 44.5. Story time: D7 early night.
-Protected rear lane behind market wall, Bảy van parked with rear doors toward clinic route, no civilians inside the police zone.
+Protected rear lane behind market wall, Bảy van parked with rear doors toward clinic route, quiet and clear of passersby.
 Early night: established harbour floodlight as high key outside, warm van lamp inside, dim lighthouse work practicals on the stairs.
 Spatial axis: 180-degree axis in protected rear lane behind market wall: Bảy's van parked with rear doors facing clinic route.
 
@@ -27,7 +27,7 @@ Establish how Dũng finds the van so his return feels earned and threatening.
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Dũng crouched behind a fish crate at the wall end of the rear lane, watching Bảy's van ahead: rear doors open on the lit mattress, Linh kneeling beside Sơn, the empty stretcher by the doors; Mây at the far end of the lane, facing the pier.
+Dũng crouched behind a fish crate at the wall end of the rear lane, watching Bảy's van ahead: rear doors open on the lit mattress, Linh kneeling beside Sơn, the empty wheeled cot by the doors; Mây at the far end of the lane, facing the pier.
 
 [CAMERA]
 50mm over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.
@@ -36,7 +36,7 @@ Composition: Observe from behind his established crate, van path ahead and Mây 
 Focus: Keep the path and both endpoints legible instead of obscuring everything in shallow darkness.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Dũng rises from behind the crate and steps onto the route the stretcher just took, hugging the market wall, his eyes locked on the lit van doors where Linh bends over Sơn. Beat 2 (3.0–6.5s): He moves in a low, heavy walk from crate to wall shadow, pressing the work bag against his hip so it cannot swing; at the far end of the lane Mây turns back from the pier and asks her radio where Dũng is. Beat 3 (6.5–10.0s): As her call ends, her head turns down the lane; her eyes find his shape against the wall and she starts toward the van, one hand on her radio, while Dũng keeps advancing, unaware he has been seen.
+Beat 1 (0.0–3.0s): Dũng rises from behind the crate and steps onto the route the wheeled cot just took, hugging the market wall, his eyes locked on the lit van doors where Linh bends over Sơn. Beat 2 (3.0–6.5s): He moves in a low, heavy walk from crate to wall shadow, pressing the work bag against his hip so it cannot swing; at the far end of the lane Mây turns back from the pier and asks her radio where Dũng is. Beat 3 (6.5–10.0s): As her call ends, her head turns down the lane; her eyes find his shape against the wall and she starts toward the van, one hand on her radio, while Dũng keeps advancing, unaware he has been seen.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: Dũng commits to the route at the start and never stops moving; Mây's question arrives mid-shot; recognition lands late, leaving the standoff for its own shot.
 
@@ -57,7 +57,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, holding his work gear and the small sealed cylinder.
 - Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with an oxygen mask and breathing-support kit.
 

@@ -12,7 +12,7 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 [TIMELINE AND LOCATION]
 Scene 52/60, clip 1/6; shot 52.1. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery after the arrest: steady backup-lamp spill as soft side key, low work lamps as fill for close-ups; no new light source.
+Same night gallery after the escort: steady backup-lamp spill as soft side key, low work lamps as fill for close-ups; no new light source.
 Spatial axis: 180-degree axis on lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
 
 [SCENE OPENING HOOK — Mở cảnh 52: Lần Đầu Mở Đồng Hồ]
@@ -31,7 +31,7 @@ Hạ and Sơn seated side by side against the inner wall, shoulders touching, hi
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: The medium keeps seated Hạ and Sơn close to the inner wall, officer and Kiên only as soft custody context.
+Composition: The medium keeps seated Hạ and Sơn close to the inner wall, officer and Kiên only as soft escort context.
 Focus: Keep lid and their faces in a plausible medium plane, avoiding an anticipatory glimpse inside the closed case.
 
 [ACTION — 0–10s, one evolving take]
@@ -40,7 +40,7 @@ Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and th
 Action rhythm: The watch comes out at once, the short admission sits in the middle, and the end holds the unopened lid for Hạ's silent recognition.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Medium two-shot against the inner wall, Sơn frame left, Hạ frame right; the watch moves from his inside right jacket pocket to his right palm held between their knees. Custody pair deep background.
+Blocking: Medium two-shot against the inner wall, Sơn frame left, Hạ frame right; the watch moves from his inside right jacket pocket to his right palm held between their knees. Escort pair deep background.
 Performance: Sơn admits the stopped night without asking forgiveness; he hides how much the dent shames him. Hạ listens to what he says, not for a trick. No speech, no tears.
 
 

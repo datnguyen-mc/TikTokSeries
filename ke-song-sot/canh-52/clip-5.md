@@ -4,15 +4,15 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose natural hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, composed and unharmed. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare, cradling the open ticking watch in his lap; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare, cradling the open ticking watch in his lap; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4.
 
 [TIMELINE AND LOCATION]
 Scene 52/60, clip 5/6; shot 52.5. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery after the arrest: steady backup-lamp spill as soft side key, low work lamps as fill for close-ups; no new light source.
+Same night gallery after the escort: steady backup-lamp spill as soft side key, low work lamps as fill for close-ups; no new light source.
 Spatial axis: 180-degree axis on lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
@@ -56,7 +56,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
 - Short torn end of Hạ scarf, recovered by Sơn at the latch, later sealed with Mây. Not a full scarf.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 - The SAME single silver watch, lid OPEN, cracked glass, small photo of Hạ inside lid. Hands already running; do not repeat opening or winding.
 
 [VISIBLE TEXTURE]

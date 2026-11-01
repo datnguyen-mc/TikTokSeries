@@ -4,10 +4,10 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. one glasses temple arm held by a small strip of tape; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape after the stall incident, carrying his leather evidence folder and police radio handset. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape after the stall incident, carrying his leather evidence folder and two-way radio handset. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
 
 [VEHICLE LOCK — persistent design & physics]
 - White Executive Sedan (Four-door white luxury sedan): Gloss white exterior paint, tinted glass windows, grey leather rear bench seat. Left-hand drive sedan parked on the west side of the harbour apron; rear street-side door used for passenger movement. Physics: Smooth electric window motor, heavy car door seal and latch.
@@ -60,8 +60,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 
 [VISIBLE TEXTURE]
 Floodlight remains steady on cleared concrete and parked cars, no new smoke or chaos dressing.

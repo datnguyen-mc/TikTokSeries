@@ -8,6 +8,7 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 Bà Hai wears her deep-violet silk áo bà ba; the green jade bracelet has been removed from her left wrist and placed beside her unlit holder as evidence.
 
 [VEHICLE LOCK — persistent design & physics]
+- Medical Support Van (Compact weathered white utility van): Salt-faded white paint, steel cargo body, twin rear swing doors, warm practical interior lamp. Stationary utility van parked behind market wall; rear cargo bay fitted with a clean mattress and medical support kit. Physics: Subtle chassis rock when someone steps into or out of the rear cargo bay; heavy metal door latch.
 - White Executive Sedan (Four-door white luxury sedan): Gloss white exterior paint, tinted glass windows, grey leather rear bench seat. Left-hand drive sedan parked on the west side of the harbour apron; rear street-side door used for passenger movement. Physics: Smooth electric window motor, heavy car door seal and latch.
 - Black Executive Sedan (Four-door black executive sedan): Deep black paint, chrome window trim, dark interior upholstery. Left-hand drive sedan parked on the east side of the harbour apron opposite the white sedan. Physics: Stationary weight on concrete harbour apron.
 
@@ -25,21 +26,21 @@ Close her physical route without claiming the whole film has ended.
 Begin directly at 0.0s in this single location and camera setup while ambient sound settles naturally into the scene; single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Bà Hai clasped beside her escort in front of the stone bench, facing the custody vehicle on the protected road, its rear door open; jade bracelet and holder still lie together on the bench behind her.
+Bà Hai clasped beside her escort in front of the stone bench, facing the escort van on the protected road, its rear door open; jade bracelet and holder still lie together on the bench behind her.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Use the wide to connect bench, evidence officer and custody vehicle on the protected road.
+Composition: Use the wide to connect bench, evidence officer and escort van on the protected road.
 Focus: Keep the emptied bench and departing figure readable in the same geography without a new crane move.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): The escort's hand touches her elbow and Bà Hai starts toward the custody vehicle at a controlled pace, not looking back at the bench. Beat 2 (3.0–6.5s): Walking, she tells them to take the bracelet, without turning her head; behind her the officer from the bench steps up with an evidence tray. Beat 3 (6.5–10.0s): He lifts the bracelet and holder into the tray while she nears the open door, her steps now matching the escort's rather than setting them.
+Beat 1 (0.0–3.0s): The escort's hand touches her elbow and Bà Hai starts toward the escort van at a controlled pace, not looking back at the bench. Beat 2 (3.0–6.5s): Walking, she tells them to take the bracelet, without turning her head; behind her the officer from the bench steps up with an evidence tray. Beat 3 (6.5–10.0s): He lifts the bracelet and holder into the tray while she nears the open door, her steps now matching the escort's rather than setting them.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: Departure starts at once, the line falls mid-walk while the tray is filled, and the cut comes before she reaches the car door, the bench already emptied.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Bench frame left foreground, custody vehicle frame right on the road about ten paces away. Bà Hai walks left to right with the escort on her right; the evidence officer stays at the bench.
+Blocking: Bench frame left foreground, escort van frame right on the road about ten paces away. Bà Hai walks left to right with the escort on her right; the evidence officer stays at the bench.
 Performance: She keeps her spine straight to pretend the walk is her choice and refuses to look back at what she owned. Her line is pride, not surrender. Nobody salutes her, no tearful glance.
 
 
@@ -58,7 +59,7 @@ Reference only; enact only the current ACTION, not a future handover.
 No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
 
 [VISIBLE TEXTURE]
-Bracelet and holder stay together in custody, not carried secretly in her clothing.
+Bracelet and holder stay together with the escort, not carried secretly in her clothing.
 
 
 [SOUND]
@@ -67,7 +68,7 @@ Foreground sound: Footsteps and vehicle preparation remain low and routine; inco
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Bench empty under the floodlight; the officer holds the evidence tray with bracelet and holder; Bà Hai and her escort a step from the open rear door of the custody vehicle, still walking, her back to the bench.
+Bench empty under the floodlight; the officer holds the evidence tray with bracelet and holder; Bà Hai and her escort a step from the open rear door of the escort van, still walking, her back to the bench.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

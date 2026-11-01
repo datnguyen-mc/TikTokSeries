@@ -4,10 +4,10 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original clasp ring remains on RIGHT wrist; no usable loose clasp end. Voice: rough, direct Southern Vietnamese male voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent at the stall, not yet taped. Voice: quick, polite, alert Southern Vietnamese male voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. old metal wrist-ring remains on RIGHT wrist; no loose end. Voice: rough, direct Southern Vietnamese male voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. one glasses temple arm slightly tilted at the stall, not yet taped. Voice: quick, polite, alert Southern Vietnamese male voice.
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
-Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel clasp ring hanging on his RIGHT wrist from the garage escape. Thành wears his light-blue shirt and round glasses sitting askew, their right temple arm bent; his hands are free, his leather evidence folder and police radio handset set down on the map table by the rear door. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
+Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel wrist ring hanging on his RIGHT wrist from the garage escape. Thành wears his light-blue shirt and round glasses sitting askew, their right temple arm bent; his hands are free, his leather evidence folder and two-way radio handset set down on the map table by the rear door. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
 
 [TIMELINE AND LOCATION]
 Scene 29/60, clip 2/6; shot 29.2. Story time: D6 morning.
@@ -32,7 +32,7 @@ Composition: Frame seated Thành, Bảy behind the counter and the rear-door zon
 Focus: Keep the rear-door line perceptible to viewers without making Dũng turn and notice it.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Dũng steps in from the road side and stops two paces from Thành, demanding where Sơn hid the red ledger and saying he will question the old man next if Thành keeps quiet, the cut clasp ring swinging at his right wrist. Beat 2 (3.0–6.5s): Thành, breathing fast, shifts on the stool to square his shoulders to Dũng, his body closing the line to the rear-door gap, and answers that the book is not here and Bảy knows nothing; behind the counter, Bảy keeps a hand on a crouching civilian's shoulder. Beat 3 (6.5–10.0s): Dũng turns his head to the road, scanning for Sơn; Thành's eyes slide to the rear-door gap and back to Dũng's back, his hands still open on his knees.
+Beat 1 (0.0–3.0s): Dũng steps in from the road side and stops two paces from Thành, demanding where Sơn hid the red ledger and saying he will question the old man next if Thành keeps quiet, the cut wrist ring swinging at his right wrist. Beat 2 (3.0–6.5s): Thành, breathing fast, shifts on the stool to square his shoulders to Dũng, his body closing the line to the rear-door gap, and answers that the book is not here and Bảy knows nothing; behind the counter, Bảy keeps a hand on a crouching civilian's shoulder. Beat 3 (6.5–10.0s): Dũng turns his head to the road, scanning for Sơn; Thành's eyes slide to the rear-door gap and back to Dũng's back, his hands still open on his knees.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: Dũng's demand comes at once, Thành's answer and his quiet body shift sit under it, and the closing seconds let the audience catch the protective glance while Dũng looks the other way.
 
@@ -55,7 +55,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, holding his work gear and the small sealed cylinder.
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 - Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 
 [VISIBLE TEXTURE]

@@ -13,7 +13,7 @@ Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck
 
 [TIMELINE AND LOCATION]
 Scene 35/60, clip 2/6; shot 35.2. Story time: D7 morning.
-Outside rear of the same stationary van, market wall behind, loose cart to left, clear police-controlled lane.
+Outside rear of the same stationary van, market wall behind, loose cart to left, clear quiet lane.
 Present-day clear morning: coastal sun from the east, faces in soft shade with sky fill outdoors; warm lamp light inside the van and cabin.
 Spatial axis: 180-degree axis outside open rear doors of Bảy's stationary van with market wall behind.
 
@@ -34,7 +34,7 @@ Composition: Use the van's parking position and the protected lane together in t
 Focus: Keep rear doors and clear approach route visible along with the ready mattress.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–4.5s): Bảy climbs onto the rear step, hauls out the last empty crate and stacks it against the market wall beside the cart, saying the van is clean and the lane is clear for a stretcher. Beat 2 (4.5–8.0s): Linh, kneeling on the van floor, cinches a strap across the mattress and wedges his medical bag against the side panel just inside the doors, answering that it is strapped and the bag sits by the door. Beat 3 (8.0–10.0s): Bảy wipes his hands on his cloth and swings both rear doors wide toward the empty lane, leaving the approach open as Linh climbs down.
+Beat 1 (0.0–4.5s): Bảy climbs onto the rear step, hauls out the last empty crate and stacks it against the market wall beside the cart, saying the van is clean and the lane is clear for a wheeled cot. Beat 2 (4.5–8.0s): Linh, kneeling on the van floor, cinches a strap across the mattress and wedges his medical bag against the side panel just inside the doors, answering that it is strapped and the bag sits by the door. Beat 3 (8.0–10.0s): Bảy wipes his hands on his cloth and swings both rear doors wide toward the empty lane, leaving the approach open as Linh climbs down.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: Bảy's report rides the crate work, Linh's answer rides the strapping, and the doors open wide at the end on a space someone could be carried into.
 

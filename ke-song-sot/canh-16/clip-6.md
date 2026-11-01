@@ -4,9 +4,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt.
 
 [VEHICLE LOCK — persistent design & physics]
 - Town Patrol Motorcycle (Practical dark-colored Vietnamese commuter motorcycle): Matte dark body panels, steel front forks, upright handlebars, dual vinyl seat, rear footpegs. Two-wheeled upright motorcycle; Mây at front handlebar controls, Sơn riding pillion behind her; two helmets secured before engine ignition. Physics: Natural two-wheel lean on winding coastal cliff road, suspension compression under two riders, tyres gripping paved incline.
@@ -18,7 +18,7 @@ Present-day late afternoon at the sea cliff: fading sun from the west as warm si
 Spatial axis: 180-degree axis at main iron entrance of old lighthouse: motorcycle space outside, spiral stair inside.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
-Close the visit with a concrete next investigative step, keeping the geography and key custody clear.
+Close the visit with a concrete next investigative step, keeping the geography and key escort clear.
 
 
 [CONTINUITY AT 0.0s — single uncut shot]
@@ -56,7 +56,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 
 [VISIBLE TEXTURE]
 The key's small metal shape contrasts with the old iron lock while daylight continues fading naturally.

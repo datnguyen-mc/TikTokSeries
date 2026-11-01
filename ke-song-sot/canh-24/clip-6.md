@@ -5,7 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no wrist-clasps left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no utility wrist-bands left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
 @Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Voice: rough, direct Southern Vietnamese male voice.
 Sơn wears his matte-black suit over open-collar white shirt, both hands bare without gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder.
 
@@ -32,7 +32,7 @@ Composition: Keep the doorway framing the pair leaving and Dũng still attached 
 Focus: Show the cutter jaws near the intact chain, not a duplicate cuff opening or instant break.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây and Sơn clear the doorway together and take the steps down into the sheltered lane, her hand at Sơn's elbow, while Dũng's shout for the cutters echoes out of the garage behind them; they pass out of frame right. Beat 2 (3.0–6.5s): Through the empty doorway Dũng pulls once more at the rail, and an unnamed guard runs into view inside carrying long heavy pliers. Beat 3 (6.5–10.0s): The guard kneels at the rail and fits the cutter jaws around the taut clasp chain, leaning on the handles, while Dũng holds his clasped wrist still and waits, jaw clenched, the intact chain creaking under the pressure.
+Beat 1 (0.0–3.0s): Mây and Sơn clear the doorway together and take the steps down into the sheltered lane, her hand at Sơn's elbow, while Dũng's shout for the cutters echoes out of the garage behind them; they pass out of frame right. Beat 2 (3.0–6.5s): Through the empty doorway Dũng pulls once more at the rail, and an unnamed guard runs into view inside carrying long heavy pliers. Beat 3 (6.5–10.0s): The guard kneels at the rail and fits the cutter jaws around the taut band link, leaning on the handles, while Dũng holds his clasped wrist still and waits, jaw clenched, the intact chain creaking under the pressure.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The travelers are gone within the first beat under Dũng's echoing shout, the cutters arrive in the middle, and the last seconds hold the jaws on the intact chain so the escape is real but clearly temporary.
 
@@ -56,7 +56,7 @@ Reference only; enact only the current ACTION, not a future handover.
 - Original RED cloth ledger, handwritten signature shapes, distinct from black leather ledger.
 - USB-shaped hardware security token from the safe; NOT the metal door key.
 - Mây's compact black tactical daypack/backpack worn over her denim jacket during the city & river-factory mission (Scenes 19.5–27.6), holding evidence sleeves and borrowed tools.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, holding his work gear and the small sealed cylinder.
 
 [VISIBLE TEXTURE]
@@ -69,7 +69,7 @@ Foreground sound: Footsteps leave first, then the small tool clink predicts cont
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-The maintenance doorway empty of the travelers, rain falling across the steps; deep inside under amber light, the guard kneels at the ramp rail with the heavy-plier jaws set on the intact clasp chain, handles straining; Dũng still clasped by his right wrist, rigid, glaring toward the door.
+The maintenance doorway empty of the travelers, rain falling across the steps; deep inside under amber light, the guard kneels at the ramp rail with the heavy-plier jaws set on the intact band link, handles straining; Dũng still clasped by his right wrist, rigid, glaring toward the door.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

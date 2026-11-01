@@ -4,15 +4,15 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. Voice: quick, polite, alert Southern Vietnamese male voice.
 
 
 [TIMELINE AND LOCATION]
 Scene 07/60, clip 5/6; shot 07.5. Story time: D2 morning.
-Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
-Present-day morning inside the police post: neutral daylight from the front windows as soft side key, flat ceiling practicals as fill, the old monitor's pale glow on the worn keys as a small cool accent, slow ceiling-fan shadows across the desk.
-Spatial axis: 180-degree axis inside town police post: public desk in front, locked evidence room behind, interview and holding rooms off corridor.
+Small coastal town administrative office with tiled floor and ceiling fan, front desk, quiet back study room and side meeting room, no readable insignia or signs.
+Present-day morning inside the town office: neutral daylight from the front windows as soft side key, flat ceiling practicals as fill, the old monitor's pale glow on the worn keys as a small cool accent, slow ceiling-fan shadows across the desk.
+Spatial axis: 180-degree axis inside town office: public desk in front, quiet study room behind, side meeting rooms off corridor.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let verification produce the first clear discrepancy without a melodramatic computer reveal.

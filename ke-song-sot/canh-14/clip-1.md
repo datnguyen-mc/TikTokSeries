@@ -5,8 +5,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt.
 
 [TIMELINE AND LOCATION]
 Scene 14/60, clip 1/6; shot 14.1. Story time: D3 afternoon.
@@ -25,21 +25,21 @@ Make the negotiation's moral boundary visible before either person asks for trus
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Porch in late afternoon sun: two tea glasses on the table, Sơn already seated on one stool, hands flat beside his glass, his closed backpack at his elbow; Mây standing by the empty stool opposite, folder and notebook in her left hand, cuffs at her belt.
+Porch in late afternoon sun: two tea glasses on the table, Sơn already seated on one stool, hands flat beside his glass, his closed backpack at his elbow; Mây standing by the empty stool opposite, folder and notebook in her left hand, wrist-bands at her belt.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: The medium table setup holds two tea glasses and space where Mây's cuffs enter between them.
+Composition: The medium table setup holds two tea glasses and space where Mây's wrist-bands enter between them.
 Focus: Keep their faces and the object boundary at readable shared depth, with no need for a separate symbolic insert.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): Mây pulls the empty stool out and sits opposite Sơn, laying the folder down at her right with the notebook on top. Beat 2 (2.5–6.0s): She unclips the wrist-clasps from her belt and sets them on the wood beside the notebook, between the two glasses, with a small dull knock, telling him the choice is his; Sơn's eyes drop to the steel and come back to her face. Beat 3 (6.0–10.0s): She asks whether he is the one Dũng's people call Bóng Ma; he admits it in a few words, hands flat, and neither of them reaches for the wrist-clasps or the tea, its thin steam bending in the sea wind.
+Beat 1 (0.0–2.5s): Mây pulls the empty stool out and sits opposite Sơn, laying the folder down at her right with the notebook on top. Beat 2 (2.5–6.0s): She unclips the wrist-bands from her belt and sets them on the wood beside the notebook, between the two glasses, with a small dull knock, telling him the choice is his; Sơn's eyes drop to the steel and come back to her face. Beat 3 (6.0–10.0s): She asks whether he is the one Dũng's people call Bóng Ma; he admits it in a few words, hands flat, and neither of them reaches for the wrist-bands or the tea, its thin steam bending in the sea wind.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Sitting down is quick, the wrist-clasps land as the first real beat, the question and short answer share the second half, and the final second leaves the untouched cuffs to speak.
+Action rhythm: Sitting down is quick, the wrist-bands land as the first real beat, the question and short answer share the second half, and the final second leaves the untouched wrist-bands to speak.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Table across the frame: Sơn on the far stool facing camera, Mây on the near stool in three-quarter back. Folder and notebook at her right hand; the wrist-clasps sit center, between the glasses, an equal reach from both.
+Blocking: Table across the frame: Sơn on the far stool facing camera, Mây on the near stool in three-quarter back. Folder and notebook at her right hand; the wrist-bands sit center, between the glasses, an equal reach from both.
 Performance: Mây sets terms before trust, direct but not provocative, watching whether he flinches. Sơn hides nothing in his posture and owns the name as a weight, not a boast. No smug half-smile, no staring contest.
 
 
@@ -56,11 +56,11 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 
 [VISIBLE TEXTURE]
-The wrist-clasps' dull metal and tea-glass warmth coexist on weathered porch wood under the same late sun.
+The wrist-bands' dull metal and tea-glass warmth coexist on weathered porch wood under the same late sun.
 
 
 [SOUND]
@@ -69,7 +69,7 @@ Foreground sound: The modest cuff contact should be clear but not amplified.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Sơn and Mây seated opposite each other at the porch table, the steel cuffs lying between the two tea glasses beside her notebook and folder, his closed backpack at his elbow; all four hands resting away from the wrist-clasps, eyes level on each other; thin tea steam bending in the wind.
+Sơn and Mây seated opposite each other at the porch table, the metal wrist-bands lying between the two tea glasses beside her notebook and folder, his closed backpack at his elbow; all four hands resting away from the wrist-bands, eyes level on each other; thin tea steam bending in the wind.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

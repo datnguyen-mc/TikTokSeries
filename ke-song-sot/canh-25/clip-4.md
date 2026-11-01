@@ -5,7 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit trousers and open-collar white shirt, the suit jacket off and lying on the motel bed, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no wrist-clasps left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no utility wrist-bands left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
 Sơn's suit jacket is still off, lying on the bed: open-collar white shirt and black suit trousers, left shirt sleeve rolled back above the white cotton wrist wrap on his LEFT wrist, right hand unharmed and bare. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
 [TIMELINE AND LOCATION]
@@ -31,13 +31,13 @@ Composition: Frame Mây reading with Sơn close enough to share the information 
 Focus: Keep their reactions primary and the departure marker as a supporting shape, with no generated readable text.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.5s): Mây's finger runs down the schedule and stops on one row; a small departure marker shape lights beside it as she tells Sơn that Hạ is listed for the night-of-day-seven ship. Beat 2 (3.5–7.0s): Sơn's breath stops; he leans in over her shoulder, right hand bracing on her chair back, the wrist wrapd wrist drawn against his chest instead of reaching for the screen, and he answers low. Beat 3 (7.0–10.0s): Only the fan fills the silence; Mây turns her head up to read his face while he keeps staring at the marker, jaw tight, breathing out through his nose, the curtain stirring behind them.
+Beat 1 (0.0–3.5s): Mây's finger runs down the schedule and stops on one row; a small departure marker shape lights beside it as she tells Sơn that Hạ is listed for the night-of-day-seven ship. Beat 2 (3.5–7.0s): Sơn's breath stops; he leans in over her shoulder, right hand bracing on her chair back, the wrist wrapped wrist drawn against his chest instead of reaching for the screen, and he answers low. Beat 3 (7.0–10.0s): Only the fan fills the silence; Mây turns her head up to read his face while he keeps staring at the marker, jaw tight, breathing out through his nose, the curtain stirring behind them.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The finding comes quickly, his reaction is short and contained, and a silent landing at the end gives the deadline weight before any practical step.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Window table at screen right; Mây seated facing the laptop, Sơn standing half a step behind her left shoulder. His right hand is free for the chair back, the wrist wrapd left wrist stays against his chest. Folded map to the left of the laptop.
-Performance: Hạ's name lands on Sơn as a stopped breath and a set jaw, not words; he holds the wrist wrapd wrist to his chest to keep from reaching for the screen. Mây reports it plainly, then checks on him. No gasp, no tears, no fist.
+Blocking: Window table at screen right; Mây seated facing the laptop, Sơn standing half a step behind her left shoulder. His right hand is free for the chair back, the wrist wrapped left wrist stays against his chest. Folded map to the left of the laptop.
+Performance: Hạ's name lands on Sơn as a stopped breath and a set jaw, not words; he holds the wrist wrapped wrist to his chest to keep from reaching for the screen. Mây reports it plainly, then checks on him. No gasp, no tears, no fist.
 
 
 [BODY, MOUTH AND FACE STANDARD]

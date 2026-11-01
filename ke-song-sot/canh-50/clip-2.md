@@ -6,9 +6,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose natural hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, composed and unharmed. Voice: warm, clear, expressive Southern Vietnamese female voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
 
 [TIMELINE AND LOCATION]
 Scene 50/60, clip 2/6; shot 50.2. Story time: D7 night continuous.
@@ -24,7 +24,7 @@ Expose Kiên's shrinking options while keeping Hạ clear of his low left hand.
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Kiên at the south rail, right hand resting on Hạ's left upper arm, key-case low in his left hand, pointed at the floor; Hạ half-turned beside him; Mây and Sơn soft in the east doorway beyond.
+Kiên at the south rail, right hand resting near Hạ's left shoulder, key-case low in his left hand, pointed at the floor; Hạ half-turned beside him; Mây and Sơn soft in the east doorway beyond.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -33,12 +33,12 @@ Composition: Frame him medium with Hạ, his LEFT hand low and RIGHT hand on her
 Focus: Keep both his hands and his face legible in one setup; no insert shots.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): Kiên shifts his weight back toward the rail, his right hand staying on Hạ's upper arm, his left hand kept low toward the floor. Beat 2 (2.5–8.2s): He states his demand in short clipped phrases, refusing to let her go, his smooth voice fraying at the edges, eyes fixed on Mây. Beat 3 (8.2–10.0s): He waits for an answer, breathing through his mouth; his hand still on her arm, Hạ lets her gaze slide past his shoulder toward the service hatch side behind the inner wall.
+Beat 1 (0.0–2.5s): Kiên shifts his weight back toward the rail, his right hand staying on Hạ's upper arm, his left hand kept low toward the floor. Beat 2 (2.5–8.2s): He states his demand in short clipped phrases, refusing to let her go, his smooth voice fraying at the edges, eyes fixed on Mây. Beat 3 (8.2–10.0s): He waits for an answer, breathing through his mouth; his standing close by her side, Hạ lets her gaze slide past his shoulder toward the service hatch side behind the inner wall.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: A small shift of weight, the demand delivered fast, then a held wait in which his control visibly depends on someone else's answer while Hạ quietly looks elsewhere.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Medium on Kiên and Hạ at the rail frame right, doorway soft frame left. He keeps his right hand on her left upper arm, key-case stays low in his left hand and never crosses her body.
+Blocking: Medium on Kiên and Hạ at the rail frame right, doorway soft frame left. He keeps his right hand near her left shoulder, key-case stays low in his left hand and never crosses her body.
 Performance: Kiên's demand masks fear behind practicality; he hides that his options are shrinking and wants obedience he can no longer count on. Hạ stores information instead of panicking. No comic breakdown; his left hand stays low.
 
 
@@ -54,7 +54,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 - Kiên's compact black metal key-case, held low beside his LEFT thigh the whole time while his right hand holds Hạ's arm or the hatch; never raised toward anyone; dropped at 51.3 and lifted into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]
@@ -67,7 +67,7 @@ Foreground sound: His short demand sits above wind and a small rustle of her sle
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Kiên watching Mây, jaw tight, key-case low in his left hand, right hand still on Hạ's left upper arm; Hạ's eyes turned toward the service hatch side behind him; wind lifting her loose hair and the creased white jacket.
+Kiên watching Mây, jaw tight, key-case low in his left hand, right hand still near Hạ's left shoulder; Hạ's eyes turned toward the service hatch side behind him; wind lifting her loose hair and the creased white jacket.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

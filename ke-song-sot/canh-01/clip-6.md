@@ -54,7 +54,7 @@ Reference only; enact only the current ACTION, not a future handover.
 - ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. After the escape it has stopped; do not add ticking or show the inner photo.
 
 [VISIBLE TEXTURE]
-Worn silver catches a narrow natural glint; jacket cuffs and salt air remain tactile.
+Worn silver catches a narrow natural glint; jacket wrist-bands and salt air remain tactile.
 
 
 [SOUND]

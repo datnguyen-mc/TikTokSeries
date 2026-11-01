@@ -5,8 +5,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her steel wrist-clasps lie on the porch table between the tea glasses, where she set them.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her metal wrist-bands lie on the porch table between the tea glasses, where she set them.
 
 [TIMELINE AND LOCATION]
 Scene 14/60, clip 4/6; shot 14.4. Story time: D3 afternoon.
@@ -22,7 +22,7 @@ Let Sơn accept cooperation but expose the unresolved human stake behind the fin
 Begin directly at 0.0s in the exact same location, lens, axis, positions, light and props as the previous shot ends. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at 0.0s.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Mây holding her phone flat above the matching ledger entry, the report's edge laid against that line, her eyes on the screen; Sơn opposite, hands still flat on the wood, watching her, his open backpack at his elbow; cuffs between the tea glasses; a page corner lifting in the wind.
+Mây holding her phone flat above the matching ledger entry, the report's edge laid against that line, her eyes on the screen; Sơn opposite, hands still flat on the wood, watching her, his open backpack at his elbow; wrist-bands between the tea glasses; a page corner lifting in the wind.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -31,7 +31,7 @@ Composition: Preserve the same medium composition, table orientation and focus d
 Focus: Keep both eyelines and note-taking hand within the prior useful depth, without a new document insert.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.0s): Mây lowers the phone and lays it face down beside the ledger, lifting her eyes to Sơn. Beat 2 (2.0–6.5s): Sơn says he will confess and accept the wrist-clasps, but someone must be saved before the night ship on day seven, his voice dropping at the end; his left hand pushes the open backpack to the table's center, mouth toward her, and lets go. Beat 3 (6.5–10.0s): Mây flips her notebook open and writes the deadline in two short strokes, then, pen still on the page, asks who the person is that brought him here; Sơn's breath catches and his eyes stay on hers.
+Beat 1 (0.0–2.0s): Mây lowers the phone and lays it face down beside the ledger, lifting her eyes to Sơn. Beat 2 (2.0–6.5s): Sơn says he will confess and accept the wrist-bands, but someone must be saved before the night ship on day seven, his voice dropping at the end; his left hand pushes the open backpack to the table's center, mouth toward her, and lets go. Beat 3 (6.5–10.0s): Mây flips her notebook open and writes the deadline in two short strokes, then, pen still on the page, asks who the person is that brought him here; Sơn's breath catches and his eyes stay on hers.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: A short reset, then the admission gets full room; Mây's writing begins only after it, and her question lands late so the clip ends on suspense rather than explanation.
 
@@ -53,8 +53,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 
 [VISIBLE TEXTURE]
 The open bag no longer shields the book, creating a subtle material difference from earlier concealment.
@@ -66,7 +66,7 @@ Foreground sound: His line has room above porch wind; Mây's writing begins afte
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Mây's pen resting on the fresh deadline note in her open notebook, her eyes lifted to Sơn; Sơn opposite, jaw set, left hand drawn back beside the open backpack whose mouth faces her; phone face down by the ledger; cuffs untouched between the glasses.
+Mây's pen resting on the fresh deadline note in her open notebook, her eyes lifted to Sơn; Sơn opposite, jaw set, left hand drawn back beside the open backpack whose mouth faces her; phone face down by the ledger; wrist-bands untouched between the glasses.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

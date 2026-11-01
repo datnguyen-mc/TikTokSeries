@@ -5,8 +5,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no wrist-clasps on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapd.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no utility clips on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapped.
 
 [TIMELINE AND LOCATION]
 Scene 34/60, clip 3/6; shot 34.3. Story time: D7 dawn.
@@ -15,7 +15,7 @@ Present-day dawn: soft light rising from the east through the cabin window, cool
 Spatial axis: 180-degree axis inside one-room wooden cabin: porch door south (seaward), table under east window, cot west, rear exit north, tally-marked doorframe at entry.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
-Give the two scarf fragments a shared custody before they can later return to Hạ.
+Give the two scarf fragments a shared escort before they can later return to Hạ.
 
 
 [CONTINUITY AT 0.0s — single uncut shot]
@@ -33,7 +33,7 @@ Focus: Keep matching torn edges recognizable but separate, no magically repaired
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–3.0s): Sơn lowers the short pale-blue fragment into the empty sleeve and opens his fingers, letting it settle without smoothing it, as Mây's voice, off frame, says she will keep both pieces. Beat 2 (3.0–6.5s): She presses the sleeve's seal closed and slides it into the bag beside the long remainder, torn edges facing each other through the plastic but kept apart, finishing that she will hand the long piece back to Hạ herself. Beat 3 (6.5–10.0s): Both pairs of hands withdraw; the two sleeves rest side by side in the open bag, frayed silk catching the dawn light.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: One handover under her first words, one seal as she finishes, then the hands leave and the two pieces sit together in shared custody.
+Action rhythm: One handover under her first words, one seal as she finishes, then the hands leave and the two pieces sit together in shared escort.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Bag at the center of the table; Sơn's hand enters from screen right, Mây's hands from screen left. The new sleeve lies to the right of the long one; the satchel of originals is not in this frame.

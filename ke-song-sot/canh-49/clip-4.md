@@ -31,15 +31,15 @@ Bà Hai standing in front of the stone bench facing one officer, both wrists bar
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame her standing medium before the assisting officer, bench and surrendered objects behind.
-Focus: Keep face and clasped hands within readable framing, avoiding an isolated beauty shot of the arrest.
+Focus: Keep face and clasped hands within readable framing, avoiding an isolated beauty shot of the escort.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Bà Hai raises both bare wrists toward the officer, chin level, eyes on his face rather than on the wrist-clasps. Beat 2 (3.0–6.5s): The officer closes his steel cuffs on her wrists in one ordinary movement; her fingers curl, then settle against each other. Beat 3 (6.5–10.0s): The officer steps round to her right side as her head turns toward the lighthouse off frame, and she says, in a level voice, that Sơn is the son she raised, as if that explains everything; her breath lifts the violet silk.
+Beat 1 (0.0–3.0s): Bà Hai raises both bare wrists toward the officer, chin level, eyes on his face rather than on the wrist-bands. Beat 2 (3.0–6.5s): The officer closes his metal wrist-bands on her wrists in one ordinary movement; her fingers curl, then settle against each other. Beat 3 (6.5–10.0s): The officer steps round to her right side as her head turns toward the lighthouse off frame, and she says, in a level voice, that Sơn is the son she raised, as if that explains everything; her breath lifts the violet silk.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: A clean offer, one quick procedural closure, then the glance and the line arrive after the arrest is complete; her breath keeps the end alive.
+Action rhythm: A clean offer, one quick procedural closure, then the glance and the line arrive after the escort is complete; her breath keeps the end alive.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Bà Hai center facing frame left toward the officer, bench and surrendered objects behind her. After the wrist-clasps she turns her head frame right toward the lighthouse; the officer stays at her right side.
+Blocking: Bà Hai center facing frame left toward the officer, bench and surrendered objects behind her. After the wrist-bands she turns her head frame right toward the lighthouse; the officer stays at her right side.
 Performance: She offers her wrists to keep the gesture hers, then claims Sơn as a fact of ownership to win back some power. She wants to be seen as a mother, not a seller. No pleading, no tears.
 
 

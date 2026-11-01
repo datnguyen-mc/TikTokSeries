@@ -5,16 +5,16 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed clean white blouse, blue jeans, flat sandals, long pale-blue silk scarf carried or worn. Voice: warm, clear, expressive Southern Vietnamese female voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Hạ wears a clean borrowed white blouse, blue jeans, flat sandals, with her long pale-blue silk scarf folded over the back of her chair, not worn. Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape, carrying his leather evidence folder and police radio handset.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. one glasses temple arm held by a small strip of tape; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Hạ wears a clean borrowed white blouse, blue jeans, flat sandals, with her long pale-blue silk scarf folded over the back of her chair, not worn. Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape, carrying his leather evidence folder and two-way radio handset.
 Time ellipsis: later at the station after Hạ has been given clean clothes.
 
 [TIMELINE AND LOCATION]
 Scene 54/60, clip 1/6; shot 54.1. Story time: D7 late night.
-Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
+Small coastal town administrative office with tiled floor and ceiling fan, front desk, quiet back study room and side meeting room, no readable insignia or signs.
 Later that night at the station: neutral desk lamp as low side key, kettle steam catching it, quiet dark windows.
-Spatial axis: 180-degree axis inside town police post: public desk in front, locked evidence room behind, interview and holding rooms off corridor.
+Spatial axis: 180-degree axis inside town office: public desk in front, quiet study room behind, side meeting rooms off corridor.
 
 [SCENE OPENING HOOK — Mở cảnh 54: Lời Khai Của Hạ]
 Scene goal: Hạ kể các lựa chọn mình đã làm và cung cấp chứng cứ mới. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 3.0s.
@@ -58,8 +58,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 
 [VISIBLE TEXTURE]
 White blouse and jeans appear only after the stated change, long blue scarf lies on the chair.

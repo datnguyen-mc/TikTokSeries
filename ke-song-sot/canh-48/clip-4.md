@@ -31,7 +31,7 @@ Composition: Frame Kiên testing the hatch medium, Hạ facing the inner sea wal
 Focus: Keep the narrow persistent gap readable, avoiding a new macro mechanism or a miraculous opening by itself.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Kiên presses the hatch home with his right hand and drives the latch down; it clicks short and springs back a finger's width, the black key-case still low in his left hand. Beat 2 (3.0–6.5s): He peers at the rusted latch, sees nothing but old paint, and mutters that it will not close and to leave it; beside him Hạ keeps her face to the sea wall while her eyes slide sideways to the thin dark gap. Beat 3 (6.5–10.0s): She remarks flatly that the hinge has been crooked for years; Kiên takes her left upper arm with his right hand and steers her up the last steps toward the gallery, the hatch staying ajar behind them.
+Beat 1 (0.0–3.0s): Kiên presses the hatch home with his right hand and drives the latch down; it clicks short and springs back a finger's width, the black key-case still low in his left hand. Beat 2 (3.0–6.5s): He peers at the rusted latch, sees nothing but old paint, and mutters that it will not close and to leave it; beside him Hạ keeps her face to the sea wall while her eyes slide sideways to the thin dark gap. Beat 3 (6.5–10.0s): She remarks flatly that the hinge has been crooked for years; Kiên takes her left upper arm with his right hand and guides her up the last steps toward the gallery, the hatch staying ajar behind them.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: One closure attempt opens; his dismissal lands mid-shot; her cover line and the climb fill the last beat, leaving the ajar hatch for the discovery that follows.
 
@@ -65,7 +65,7 @@ Foreground sound: One incomplete metal click and Kiên's impatient breath explai
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-The service hatch resting ajar a finger's width, its latch still blocked; Kiên and Hạ on the steps above it heading for the gallery, his right hand on her left upper arm, key-case low in his left; Hạ's last glance back on the gap.
+The service hatch resting ajar a finger's width, its latch still blocked; Kiên and Hạ on the steps above it heading for the gallery, his right hand near her left shoulder, key-case low in his left; Hạ's last glance back on the gap.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

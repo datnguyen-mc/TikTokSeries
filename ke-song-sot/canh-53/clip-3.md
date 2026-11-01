@@ -5,9 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. same grey cotton dress and thin sandals after rescue, recovered long torn pale-blue silk scarf draped warmly over shoulders, no white blouse or jeans yet. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare, the closed silver pocket watch cupped in his right palm; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Hạ wears her grey cotton dress with the recovered long section of her pale-blue silk scarf draped warmly around her shoulders.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare, the closed silver pocket watch cupped in his right palm; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Hạ wears her grey cotton dress with the recovered long section of her pale-blue silk scarf draped warmly around her shoulders.
 
 [TIMELINE AND LOCATION]
 Scene 53/60, clip 3/6; shot 53.3. Story time: D7 night continuous.
@@ -16,14 +16,14 @@ Same night gallery: stable work practicals as key, the steady seaward backup bea
 Spatial axis: 180-degree axis on lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
-Join his acceptance to the careful reality of custody, avoiding either punishment spectacle or easy forgiveness.
+Join his acceptance to the careful reality of escort, avoiding either punishment spectacle or easy forgiveness.
 
 
 [CONTINUITY AT 0.0s — single uncut shot]
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Sơn standing before Mây at the doorway with both hands held forward, closed watch cupped in his right palm, white wrist wrap on his left wrist; Mây facing him, steel cuffs in her right hand; Hạ one step behind him.
+Sơn standing before Mây at the doorway with both hands held forward, closed watch cupped in his right palm, white wrist wrap on his left wrist; Mây facing him, metal wrist-bands in her right hand; Hạ one step behind him.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -32,9 +32,9 @@ Composition: The medium includes Sơn's offered wrists, Mây and Hạ at their e
 Focus: Keep hands and speaking face readable, not an extreme insert that hides his voluntary posture.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Without looking away from Mây and the wrist-clasps, Sơn answers Hạ: yes, for years others chose for him, this time he chooses himself. Beat 2 (3.0–6.5s): Sơn lifts his offered wrists a little and Mây fits the pair around them, setting the left ring above the wrist wrap and checking with two fingers that it does not press the dressing; one subdued click, while an officer at the frame edge looks and notes the wrist. Beat 3 (6.5–10.0s): Sơn straightens, clasped hands low before him, the watch still cupped in his right palm; Mây's hand rests on the chain, and behind him Hạ breathes out, scarf stirring.
+Beat 1 (0.0–3.0s): Without looking away from Mây and the wrist-bands, Sơn answers Hạ: yes, for years others chose for him, this time he chooses himself. Beat 2 (3.0–6.5s): Sơn lifts his offered wrists a little and Mây fits the pair around them, setting the left ring above the wrist wrap and checking with two fingers that it does not press the dressing; one subdued click, while an officer at the frame edge looks and notes the wrist. Beat 3 (6.5–10.0s): Sơn straightens, clasped hands low before him, the watch still cupped in his right palm; Mây's hand rests on the chain, and behind him Hạ breathes out, scarf stirring.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: The answer comes first, the custody follows as one careful action, and the end holds him upright and still visibly choosing to stay.
+Action rhythm: The answer comes first, the escort follows as one careful action, and the end holds him upright and still visibly choosing to stay.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Medium: Mây frame left, Sơn center facing her, Hạ behind his right shoulder frame right; the officer only at the frame edge. Hands and the speaking face share one readable plane.
@@ -53,8 +53,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 - ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. It runs again after 52.3; never open it again as a new reveal.
 
 [VISIBLE TEXTURE]
@@ -67,7 +67,7 @@ Foreground sound: A single subdued closure follows his answer, without repeated 
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Sơn upright before Mây, clasped hands low in front, the left ring above the wrist wrap without pressing it, closed watch cupped in his right palm; Mây's hand on the clasp chain; Hạ one step behind him, eyes on his hands; the officer at the edge noting the wrist.
+Sơn upright before Mây, clasped hands low in front, the left ring above the wrist wrap without pressing it, closed watch cupped in his right palm; Mây's hand on the band link; Hạ one step behind him, eyes on his hands; the officer at the edge noting the wrist.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

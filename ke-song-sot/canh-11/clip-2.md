@@ -17,7 +17,7 @@ Present-day night: warm cabin lamp as low key from the table inside; cool moonli
 Spatial axis: 180-degree axis inside one-room wooden cabin: porch door south (seaward), table under east window, cot west, rear exit north, tally-marked doorframe at entry.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
-Show Sơn guarding a private attachment when he suspects observation, without revealing the watch early.
+Show Sơn guarding a private attachment when he involved people observation, without revealing the watch early.
 
 
 [CONTINUITY AT 0.0s — single uncut shot]

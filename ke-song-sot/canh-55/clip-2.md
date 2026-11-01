@@ -5,14 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt.
 
 [TIMELINE AND LOCATION]
 Scene 55/60, clip 2/6; shot 55.2. Story time: D7 late night.
-Separate interview room at the town post, one table, recorder, two chairs, no readable official insignia.
+Separate meeting room at the town office, one table, recorder, two chairs, no readable official insignia.
 Late-night interview room: one warm desk lamp as low hard side key, dim cool corridor light through the door.
-Spatial axis: 180-degree axis across interview table: two chairs facing each other across the table and recorder, camera stays on established side of table axis.
+Spatial axis: 180-degree axis across meeting table: two chairs facing each other across the table and recorder, camera stays on established side of table axis.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Replace the nickname's mystique with a specific address and a remembered human consequence.
@@ -22,7 +22,7 @@ Replace the nickname's mystique with a specific address and a remembered human c
 Begin directly at 0.0s in the exact same location, lens, axis, positions, light and props as the previous shot ends. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at 0.0s.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Recorder light glowing steady at the desk centre. Mây seated at the near left, pen poised over her open notebook, eyes on Sơn; Sơn across the desk, upright, bare hands still on the wood, left wrist wrapd, drawing breath to answer.
+Recorder light glowing steady at the desk centre. Mây seated at the near left, pen poised over her open notebook, eyes on Sơn; Sơn across the desk, upright, bare hands still on the wood, left wrist wrapped, drawing breath to answer.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -52,7 +52,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 
 [VISIBLE TEXTURE]
 Paper remains private and unreadable to camera, pen and recorder are the same objects.
@@ -64,7 +64,7 @@ Foreground sound: Voice and pencil carry the beat, no flashback sounds invading 
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Mây's pen finishing a line in her open notebook, her eyes lifting to Sơn; Sơn seated upright across the desk, bare hands still on the wood, left wrist wrapd, a slow breath leaving him; recorder light steady between them.
+Mây's pen finishing a line in her open notebook, her eyes lifting to Sơn; Sơn seated upright across the desk, bare hands still on the wood, left wrist wrapped, a slow breath leaving him; recorder light steady between them.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

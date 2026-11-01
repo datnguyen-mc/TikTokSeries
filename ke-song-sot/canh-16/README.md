@@ -52,7 +52,7 @@ Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi b�
 ### Clip 6 (16.6) · LIGHTHOUSE_BASE · Góc máy W
 - **Trang phục & Vật dụng mang theo:** Sơn mặc áo khoác vải màu ô liu, áo thun xám, quần dài tối màu và giày da cổ thấp sờn cũ, hai bàn tay trần. Mây mặc áo sơ mi kaki xắn tay gọn gàng, đeo túi da chéo công tác bên hông, cầm sổ tay nghiệp vụ màu đen, bộ đàm và khóa khóa tay số tám ở thắt lưng.
 - **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.0s): Mây đóng cánh cửa sắt, vặn chìa, giật nhẹ tay nắm kiểm tra. Nhịp 2 (3.0–6.5s): Cô tách chìa cửa kỹ thuật khỏi chùm, móc vào thắt lưng cho dễ lấy, dặn cô giữ chìa cửa phụ, còn tối nay anh xuống đồn mở ổ dữ liệu cùng Thành. Nhịp 3 (6.5–10.0s): Mây chìa trả chiếc điện thoại cũ; Sơn cầm lấy, vừa đáp giờ hẹn vừa cất vào túi áo khoác rồi quay xuống con đường về thị trấn; Mây theo sau một bước, cả hai đang đi, cỏ rạp quanh gót giày trong gió. Mây nói ở nhịp 2, Sơn đáp ở nhịp 3.
-- **Chỉ đạo diễn xuất:** Close the visit with a concrete next investigative step, keeping the geography and key custody clear. **Diễn xuất:** Mây's urgency is procedural rather than panic; she wants the next step concrete before night. Sơn accepts the instruction without another word about loss. No backward glance at the tower, no lingering.
+- **Chỉ đạo diễn xuất:** Close the visit with a concrete next investigative step, keeping the geography and key escort clear. **Diễn xuất:** Mây's urgency is procedural rather than panic; she wants the next step concrete before night. Sơn accepts the instruction without another word about loss. No backward glance at the tower, no lingering.
 
 
 **Âm nối sang cảnh sau:** The clipped service key settles, incoming station fan introduces the USB desk. Do not replay the backup-lamp test.

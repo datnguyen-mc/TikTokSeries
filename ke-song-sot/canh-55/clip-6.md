@@ -9,9 +9,9 @@ Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped
 
 [TIMELINE AND LOCATION]
 Scene 55/60, clip 6/6; shot 55.6. Story time: D7 late night.
-Simple holding room behind the town post, bench and barred window, corridor light outside.
-Late-night holding room lit only from outside: a dim corridor bulb throws a soft, slightly warm wedge of light through the open doorway across the bench and Sơn's legs; cool night-blue glow at the barred window, deep soft shadows elsewhere.
-Spatial axis: 180-degree axis inside holding room: bench against wall, barred window above, corridor light outside.
+Simple quiet back room behind the town office, wooden bench and high window, corridor light outside.
+Late-night quiet back room lit only from outside: a dim corridor bulb throws a soft, slightly warm wedge of light through the open doorway across the bench and Sơn's legs; cool night-blue glow at the barred window, deep soft shadows elsewhere.
+Spatial axis: 180-degree axis inside quiet back room: bench against wall, high window above, corridor light outside.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let rest follow accountability instead of treating sleep as redemption.
@@ -27,7 +27,7 @@ Holding room after the interview: Sơn seated upright on the bench against the w
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Use a stable wide of the holding bench, barred window and corridor light beyond.
-Focus: Keep the room's ordinary proportions and his resting body readable, avoiding a custody-martyr close-up.
+Focus: Keep the room's ordinary proportions and his resting body readable, avoiding a escort-martyr close-up.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–3.5s): Sơn sits still, his eyes moving from the barred window to the corridor light while his brief inner voice-over plays; the room itself stays quiet apart from the ceiling fan. Beat 2 (3.5–7.0s): His shoulders come down against the wall, his head tips back to rest on it and his eyes close; his wrapped left hand slides from his thigh onto the bench. Beat 3 (7.0–10.0s): Sleep takes him gradually: the jaw loosens, the chest rises slow and even, the right hand slackens on his knee, and distant footsteps pass in the corridor without his stirring.
@@ -36,7 +36,7 @@ Action rhythm: A short inner line early, then over six seconds of settling witho
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Wide on the bench along the back wall, the barred window high in the side wall at screen left, the open doorway to the corridor at screen right. Sơn stays seated the whole take; only head, shoulders and hands settle.
-Performance: Vigilance finally lets go: this is exhaustion, not relief, and nothing suggests the consequences have gone. He hides nothing now and wants nothing from anyone. No smile, no custody-martyr pose.
+Performance: Vigilance finally lets go: this is exhaustion, not relief, and nothing suggests the consequences have gone. He hides nothing now and wants nothing from anyone. No smile, no escort-martyr pose.
 
 
 [BODY, MOUTH AND FACE STANDARD]

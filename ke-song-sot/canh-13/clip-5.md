@@ -4,8 +4,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt.
 
 [TIMELINE AND LOCATION]
 Scene 13/60, clip 5/6; shot 13.5. Story time: D3 noon.
@@ -27,7 +27,7 @@ Mây standing near the far bed, face turned toward the off-screen pursuer, her t
 85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The close-up stays on Mây listening, folder held low enough that its closure is visible.
-Focus: Hold the existing close-up plane on her eyes and speaking-rest mouth, with no reaction insert of the suspect.
+Focus: Hold the existing close-up plane on her eyes and speaking-rest mouth, with no reaction insert of the person.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–3.5s): Mây listens toward the bed without moving as the conscious man's weak voice comes from off frame; her eyes sharpen at the nickname, but she does not interrupt. Beat 2 (3.5–7.0s): She lets him finish, lips closed, her gaze drifting a fraction past him as Dũng's name and the order to take Bóng Ma alive sink in; a slow breath lifts her shoulders. Beat 3 (7.0–10.0s): Only then does she close the folder with one firm press and draw it flat against her chest, her face narrowing into a decision, eyes coming back to the man.
@@ -35,7 +35,7 @@ Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and th
 Action rhythm: The off-screen voice owns the first half, a held listening breath follows, and the folder closure lands late as the decision, leaving her settled gaze to finish the clip.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Mây stands at the foot of the off-screen bed, body angled screen left toward the suspect. The folder starts low in both hands and ends flat against her chest. No one else enters the frame.
+Blocking: Mây stands at the foot of the off-screen bed, body angled screen left toward the person. The folder starts low in both hands and ends flat against her chest. No one else enters the frame.
 Performance: She hides how much the slip matters, keeping her listening neutral so he keeps talking. Inside, suspicion of Sơn becomes a plan to find him. She never mouths his words. No gasp, no widened eyes.
 
 
@@ -52,7 +52,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 - Mây's own thin grey card investigation folder, held by her alone; never confused with Thành's dark leather evidence folder.
 
 [VISIBLE TEXTURE]
@@ -61,7 +61,7 @@ Plain folder paper and her sun-lined face remain unadorned under the clinic's or
 
 [SOUND]
 Location bed: quiet ventilation and distant metal-tray sounds.
-Foreground sound: The suspect's off-screen voice is weak but intelligible, then a single folder closure settles the information.
+Foreground sound: The person's off-screen voice is weak but intelligible, then a single folder closure settles the information.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]

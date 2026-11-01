@@ -32,7 +32,7 @@ Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi b�
 ### Clip 2 (11.2) · CABIN · Góc máy M
 - **Trang phục & Vật dụng mang theo:** Sơn mặc áo khoác vải màu ô liu, áo thun xám, quần dài tối màu và giày da cổ thấp sờn cũ, hai bàn tay trần.
 - **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.0s): Mắt Sơn đặt trên gương mặt Hạ trong tấm ảnh, dịu lại, trong khi dưới chân đồi cát một chiếc xe máy nổ chầm chậm rồi tắt. Nhịp 2 (3.0–6.0s): Mắt anh ngước lên trước khi tay động; rồi anh úp tấm ảnh xuống mặt bàn, lòng bàn tay áp phẳng lên lưng ảnh như che chở. Nhịp 3 (6.0–10.0s): Đầu anh quay về ô cửa sổ tối, vai bất động, lắng nghe; hơi thở nông và khẽ, bàn tay vẫn đặt trên tấm ảnh úp. Lời dẫn của Sơn chạy từ 0.2s qua nhịp 1 và nhịp 2.
-- **Chỉ đạo diễn xuất:** Show Sơn guarding a private attachment when he suspects observation, without revealing the watch early. **Diễn xuất:** Protective and a little ashamed: he hides her face, not evidence. His expression changes at the engine before his hands react. He wants whoever is out there never to learn she exists. No frantic snatch, no theatrical glare.
+- **Chỉ đạo diễn xuất:** Show Sơn guarding a private attachment when he involved people observation, without revealing the watch early. **Diễn xuất:** Protective and a little ashamed: he hides her face, not evidence. His expression changes at the engine before his hands react. He wants whoever is out there never to learn she exists. No frantic snatch, no theatrical glare.
 
 ### Clip 3 (11.3) · DUNE · Góc máy O
 - **Trang phục & Vật dụng mang theo:** Mây mặc áo sơ mi kaki xắn tay gọn gàng, đeo túi da chéo công tác bên hông, cầm sổ tay nghiệp vụ màu đen, bộ đàm và khóa khóa tay số tám ở thắt lưng.

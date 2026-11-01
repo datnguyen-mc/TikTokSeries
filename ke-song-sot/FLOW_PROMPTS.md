@@ -38,7 +38,7 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **SON_Y** → `@Son`, 20 tuổi: distant past age 20, black hair without grey, rain-damp plain dark shirt and worn dark trousers, BARE hands.
 - **SON_Y_S** → `@Son`, 20 tuổi: distant past age 20, black hair without grey, plain black suit, bare hands before first doorway, new black leather gloves kept in pocket until the exit.
 - **SON_O** → `@Son`, 65 tuổi: later years age 65, older weathered hands, faded olive field jacket, weathered dark-olive canvas backpack slung over left shoulder, bare hands, frame below shoulders only without a face reveal.
-- **MAY** → `@May`, 38 tuổi: plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt.
+- **MAY** → `@May`, 38 tuổi: plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt.
 - **MAY_C** → `@May`, 38 tuổi: dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible.
 - **MAY_O** → `@May`, 58 tuổi: older face age 58, more silver in the same short haircut, plain khaki shirt, dark trousers, ordinary motorcycle helmet held at her side when specified.
 - **HA** → `@Ha`, 32 tuổi: cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals.
@@ -50,7 +50,7 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **HAINGOC_Y** → `@HaiNgoc`, 35 tuổi: distant past age 35, black hair in the same tight bun, simpler violet áo bà ba, black trousers, green jade bracelet on LEFT wrist.
 - **DUNG** → `@Dũng`, 35 tuổi: black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear.
 - **KIEN** → `@Vũ Kiên`, 50 tuổi: tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse.
-- **THANH** → `@Phó Thành`, 26 tuổi: plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio.
+- **THANH** → `@Phó Thành`, 26 tuổi: plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio.
 - **LINH** → `@Bác sĩ Linh`, 55 tuổi: worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag.
 - **BAY** → `@Ông Bảy`, 70 tuổi: white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses.
 - **BAY_O** → `@Ông Bảy`, 90 tuổi: much older face and hands at age 90, same white moustache, white singlet, shorts, working steadily behind the coffee counter with a clean glass cloth.
@@ -93,12 +93,12 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **HAIRCLIP:** Hạ silver hair clip, deliberately wedged into service-hatch latch at 45.4, recovered at 48.5 and logged at 54.5.
 - **LILY:** One white lily from Hạ family-home vase, wrapped at 57.5 and held at the public walkway during departure.
 - **BACKPACK:** Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
-- **DUTY_POUCH:** Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- **DUTY_POUCH:** Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 - **DAYPACK:** Mây's compact black tactical daypack/backpack worn over her denim jacket during the city & river-factory mission (Scenes 19.5–27.6), holding evidence sleeves and borrowed tools.
-- **CUFFS:** Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- **CUFFS:** Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 - **TOOL_BAG:** Dũng's heavy black canvas shoulder work bag strapped across his torso, holding his work gear and the small sealed cylinder.
 - **MED_BAG:** Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with an oxygen mask and breathing-support kit.
-- **CLIPBOARD:** Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- **CLIPBOARD:** Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 - **COFFEE_TRAY:** Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 - **KIEN_GUN:** Kiên's compact black metal key-case, held low beside his LEFT thigh the whole time while his right hand holds Hạ's arm or the hatch; never raised toward anyone; dropped at 51.3 and lifted into an evidence bag by Mây at 51.5, never thrown into the sea.
 - **HOUSE_KEY:** Old brass key of Hạ's family house by the harbour, kept by Mây in her duty pouch until she lays it on the station table at 54.6; Hạ's own key afterwards.

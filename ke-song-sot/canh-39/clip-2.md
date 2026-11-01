@@ -4,17 +4,17 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
 @Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice: focused, calm Southern Vietnamese male voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
 
 [VEHICLE LOCK — persistent design & physics]
 - Medical Support Van (Compact weathered white utility van): Salt-faded white paint, steel cargo body, twin rear swing doors, warm practical interior lamp. Stationary utility van parked behind market wall; rear cargo bay fitted with a clean mattress and medical support kit. Physics: Subtle chassis rock when someone steps into or out of the rear cargo bay; heavy metal door latch.
 
 [TIMELINE AND LOCATION]
 Scene 39/60, clip 2/6; shot 39.2. Story time: D7 sunset.
-Protected rear lane behind market wall, Bảy van parked with rear doors toward clinic route, no civilians inside the police zone.
+Protected rear lane behind market wall, Bảy van parked with rear doors toward clinic route, quiet and clear of passersby.
 Present-day sunset: one low sun in the west as warm side key, clear soft sky fill on faces, long shadows all pointing east; no impossible opposing sun shadows.
 Spatial axis: 180-degree axis in protected rear lane behind market wall: Bảy's van parked with rear doors facing clinic route.
 
@@ -35,7 +35,7 @@ Composition: Frame the van behind cover and the lane to clinic with Mây, Bảy 
 Focus: Keep rear-door opening and route width visible, no repeated inventory of the medical bag.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây walks up to the open rear doors, eyes checking the clean mattress and Linh's canvas bag, and starts telling Bảy and Linh that the strained come in only through this lane. Beat 2 (3.0–8.2s): She turns to look down the empty lane toward the clinic, her flat hand tracing the wall line as she finishes; Linh, one hand on the mattress edge, answers that the stretcher and breathing gear are ready at the doors. Beat 3 (8.2–10.0s): Mây gives Bảy a short look and walks back out of the lane toward the pier; Bảy and Linh stay by the open doors, the lane in front of them clear.
+Beat 1 (0.0–3.0s): Mây walks up to the open rear doors, eyes checking the clean mattress and Linh's canvas bag, and starts telling Bảy and Linh that the strained come in only through this lane. Beat 2 (3.0–8.2s): She turns to look down the empty lane toward the clinic, her flat hand tracing the wall line as she finishes; Linh, one hand on the mattress edge, answers that the wheeled cot and breathing gear are ready at the doors. Beat 3 (8.2–10.0s): Mây gives Bảy a short look and walks back out of the lane toward the pier; Bảy and Linh stay by the open doors, the lane in front of them clear.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: Her instruction starts as she arrives, the route check and Linh's answer fill the middle, and the clip ends on her leaving while they stay, the lane held open.
 
@@ -57,7 +57,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 - Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with an oxygen mask and breathing-support kit.
 - Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 

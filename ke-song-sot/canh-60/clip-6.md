@@ -55,7 +55,7 @@ Reference only; enact only the current ACTION, not a future handover.
 - Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
 
 [VISIBLE TEXTURE]
-One lily, one bare hand and existing counter remain, no duplicate watch, custody token or extra note appears.
+One lily, one bare hand and existing counter remain, no duplicate watch, escort token or extra note appears.
 
 
 [SOUND]

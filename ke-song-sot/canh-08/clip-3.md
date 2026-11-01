@@ -33,7 +33,7 @@ Focus: Keep both items recognizable as shapes, with no legible legal text or ine
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–3.0s): Two gloved fingers lift the flap wider; a photograph slides half out, Sơn's own face and black suit in it, and beside it a heavy carved seal rolls into view. Beat 2 (3.0–6.0s): The fingers stop in midair above both items, the glove leather creasing as they flex, while Sơn's voice off screen names what they are for. Beat 3 (6.0–10.0s): Without touching either object, the hand draws slowly back from the envelope, fingers curling into a loose fist as it rises out of the light.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: A fraction of reading time for the photo and seal, an arrested pause while the line lands, then a slow deliberate withdrawal still moving at the cut.
+Action rhythm: A fraction of reading time for the photo and seal, an escorted pause while the line lands, then a slow deliberate withdrawal still moving at the cut.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Envelope centered on the floor, flap toward us; the gloved right hand enters from the top and leaves the same way. The photo slides left, the seal settles beside it. Dũng's boots stay planted at the top edge.

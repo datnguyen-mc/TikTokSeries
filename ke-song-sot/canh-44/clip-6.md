@@ -63,7 +63,7 @@ Warm van lamp reveals tired skin with natural colour, black collar retains the s
 
 
 [SOUND]
-Location bed: breathing and distant muffled police radio.
+Location bed: breathing and distant muffled radio.
 Foreground sound: Breathing and low radio murmur sit under his two short internal lines, with no heartbeat countdown.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 

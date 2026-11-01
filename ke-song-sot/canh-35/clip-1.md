@@ -4,10 +4,10 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no wrist-clasps on her belt: both city pairs were used at 23.5 and 24.5; two fresh pairs are handed to her in this shot. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no utility clips on her belt: both city pairs were used at 23.5 and 24.5; two fresh pairs are handed to her in this shot. Voice: firm, clear Southern Vietnamese female voice.
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. white cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice: resonant, friendly elderly Southern Vietnamese male voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her belt holds NO wrist-clasps at the start, and the only cuffs in the shot are the two fresh pairs Thành hands her and she clips on. Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape after the stall incident, carrying his leather evidence folder and police radio handset. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. one glasses temple arm held by a small strip of tape; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her belt holds NO wrist-bands at the start, and the only wrist-bands in the shot are the two fresh pairs Thành hands her and she clips on. Thành wears his light-blue shirt and round glasses whose right temple arm is held with tape after the stall incident, carrying his leather evidence folder and two-way radio handset. Ông Bảy wears his white cotton singlet and rubber sandals, checkered wiping cloth draped over his shoulder while handling coffee glasses or stall crates.
 
 [VEHICLE LOCK — persistent design & physics]
 - Medical Support Van (Compact weathered white utility van): Salt-faded white paint, steel cargo body, twin rear swing doors, warm practical interior lamp. Stationary utility van parked behind market wall; rear cargo bay fitted with a clean mattress and medical support kit. Physics: Subtle chassis rock when someone steps into or out of the rear cargo bay; heavy metal door latch.
@@ -29,21 +29,21 @@ Turn help from the town into bounded jobs, not a speech summoning a heroic crowd
 Begin directly at 0.0s in this single location and camera setup with the location sound and movement already active from the very first frame; single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Morning at the coffee stall: Mây at a plastic table with the harbour sketch spread out; Thành beside her holding two fresh pairs of wrist-clasps and his leather folder; Bảy across the table, wiping cloth on his shoulder, a tray of coffee glasses at his elbow.
+Morning at the coffee stall: Mây at a plastic table with the harbour sketch spread out; Thành beside her holding two fresh pairs of wrist-bands and his leather folder; Bảy across the table, wiping cloth on his shoulder, a tray of coffee glasses at his elbow.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Keep three named people and the harbour sketch inside the wide coffee-stall frame.
-Focus: Keep the handover readable enough to account for later cuffs without a dedicated equipment insert.
+Focus: Keep the handover readable enough to account for later wrist-bands without a dedicated equipment insert.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Thành hands Mây the two fresh pairs of wrist-clasps; she tests one ratchet with a click and clips both pairs to her belt while telling Bảy that every stall closes before noon. Beat 2 (3.0–7.0s): She taps the back lane on the sketch for Bảy's van as she adds that no one goes down to the pier; Bảy answers that he has already told every stall. Beat 3 (7.0–10.0s): Mây folds the sketch into her pouch and the three split up, Bảy toward the rear lane, Thành toward the market, Mây toward the harbour road, none of them looking back.
+Beat 1 (0.0–3.0s): Thành hands Mây the two fresh pairs of wrist-bands; she tests one ratchet with a click and clips both pairs to her belt while telling Bảy that every stall closes before noon. Beat 2 (3.0–7.0s): She taps the back lane on the sketch for Bảy's van as she adds that no one goes down to the pier; Bảy answers that he has already told every stall. Beat 3 (7.0–10.0s): Mây folds the sketch into her pouch and the three split up, Bảy toward the rear lane, Thành toward the market, Mây toward the harbour road, none of them looking back.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: Equipment and instruction overlap at the top, Bảy's reply follows without a gap, then a clean three-way dispersal keeps moving to the cut.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Table at center; counter landward screen left, sea wall screen right. Cuffs go from Thành's hands to Mây's belt. Exits: Bảy left toward the rear lane, Thành back toward the market, Mây right along the road.
+Blocking: Table at center; counter landward screen left, sea wall screen right. Wrist-bands go from Thành's hands to Mây's belt. Exits: Bảy left toward the rear lane, Thành back toward the market, Mây right along the road.
 Performance: Mây is firm about keeping civilians away and gives each man one job, not a speech. Bảy and Thành listen like workers who already know their tasks. No cheering, no salute, no heroic huddle.
 
 
@@ -60,9 +60,9 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 - Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 
 [VISIBLE TEXTURE]
@@ -75,9 +75,9 @@ Foreground sound: Her one instruction sits over the opening-stall bed, no cheers
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-The three walking away from the table on separate routes: Bảy toward the rear lane with his cloth on his shoulder, Thành toward the market with his folder, Mây toward the harbour road with two fresh pairs of wrist-clasps at her belt; coffee glasses left on the tray.
+The three walking away from the table on separate routes: Bảy toward the rear lane with his cloth on his shoulder, Thành toward the market with his folder, Mây toward the harbour road with two fresh pairs of wrist-bands at her belt; coffee glasses left on the tray.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]
 Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, empty pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, or real actor likeness.
-In this shot also do not show or do: wrist-clasps already hanging on Mây's belt before Thành hands her the two fresh pairs; any third pair of wrist-clasps.
+In this shot also do not show or do: wrist-bands already hanging on Mây's belt before Thành hands her the two fresh pairs; any third pair of wrist-bands.

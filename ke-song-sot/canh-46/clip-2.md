@@ -4,16 +4,16 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original clasp ring remains on RIGHT wrist; no usable loose clasp end. Voice: rough, direct Southern Vietnamese male voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel clasp ring hanging on his RIGHT wrist from the garage escape.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. old metal wrist-ring remains on RIGHT wrist; no loose end. Voice: rough, direct Southern Vietnamese male voice.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel wrist ring hanging on his RIGHT wrist from the garage escape.
 
 [VEHICLE LOCK — persistent design & physics]
 - Medical Support Van (Compact weathered white utility van): Salt-faded white paint, steel cargo body, twin rear swing doors, warm practical interior lamp. Stationary utility van parked behind market wall; rear cargo bay fitted with a clean mattress and medical support kit. Physics: Subtle chassis rock when someone steps into or out of the rear cargo bay; heavy metal door latch.
 
 [TIMELINE AND LOCATION]
 Scene 46/60, clip 2/6; shot 46.2. Story time: D7 night continuous.
-Outside rear of the same stationary van, market wall behind, loose cart to left, clear police-controlled lane.
+Outside rear of the same stationary van, market wall behind, loose cart to left, clear quiet lane.
 Same night: warm van lamp spilling from the open rear into the lane as side key, distant harbour floodlight as cool rim.
 Spatial axis: 180-degree axis outside open rear doors of Bảy's stationary van with market wall behind.
 
@@ -25,7 +25,7 @@ Show Mây accepting support rather than insisting on a solitary victory.
 Begin directly at 0.0s in the exact same location, lens, axis, positions, light and props as the previous shot ends. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at 0.0s.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Cart angled across the lane between them, wheels still; Mây at its handle, left hand on it, knees soft; Dũng standing a stride beyond the far rim, hands at his sides, bag at his chest, cut clasp ring on his right wrist; one van door open behind Mây.
+Cart angled across the lane between them, wheels still; Mây at its handle, left hand on it, knees soft; Dũng standing a stride beyond the far rim, hands at his sides, bag at his chest, cut wrist ring on his right wrist; one van door open behind Mây.
 
 [CAMERA]
 35mm steady handheld medium-wide that moves with the people. Keep everyone's positions and hands readable from one side of the axis.
@@ -55,8 +55,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, holding his work gear and the small sealed cylinder.
 
 [VISIBLE TEXTURE]

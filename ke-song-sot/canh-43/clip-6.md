@@ -22,7 +22,7 @@ Turn the escape into an obstacle that will cost the rescuers real time.
 Begin directly at 0.0s in this single location and camera setup while ambient sound settles naturally into the scene; single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Foot of the narrow service stair behind the west apron: lower iron gate open, a loose cart standing beside it on the harbour side; Kiên in the gateway, right hand on Hạ's left upper arm; Hạ facing the stair; floodlight glow behind them.
+Foot of the narrow service stair behind the west apron: lower iron gate open, a loose cart standing beside it on the harbour side; Kiên in the gateway, right hand near Hạ's left shoulder; Hạ facing the stair; floodlight glow behind them.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -64,7 +64,7 @@ Foreground sound: Cart wheel scrape and gate clang are brief, then shoes climb i
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Cart lying on its side across the lower gateway, rope snagged in the bars, one wheel still turning; above it Kiên and Hạ two steps up the narrow stair, his right hand on her left upper arm, Hạ looking up at the turns ahead.
+Cart lying on its side across the lower gateway, rope snagged in the bars, one wheel still turning; above it Kiên and Hạ two steps up the narrow stair, his right hand near her left shoulder, Hạ looking up at the turns ahead.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

@@ -5,8 +5,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original clasp ring remains on RIGHT wrist; no usable loose clasp end. Voice: rough, direct Southern Vietnamese male voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapd. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel clasp ring hanging on his RIGHT wrist from the garage escape.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. old metal wrist-ring remains on RIGHT wrist; no loose end. Voice: rough, direct Southern Vietnamese male voice.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapped. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder, cut steel wrist ring hanging on his RIGHT wrist from the garage escape.
 
 [TIMELINE AND LOCATION]
 Scene 29/60, clip 4/6; shot 29.4. Story time: D6 morning.
@@ -31,7 +31,7 @@ Composition: Keep him in the open road, Dũng at the stall threshold and market 
 Focus: Hold the widening gap between Dũng and stall, because that opening is the action's purpose.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.5s): Sơn calls Dũng's name across the street and dares him to follow for the red ledger, both hands open and empty; Dũng's head snaps toward him. Beat 2 (3.5–6.5s): Without waiting, Sơn turns his back and walks toward the market entrance at an even pace; Dũng takes two steps off the threshold, glances back into the stall, then commits. Beat 3 (6.5–10.0s): Dũng strides after him down the road, the cut clasp ring glinting at his right wrist, the gap between him and the stall opening wide; the stall entrance stands empty under the awning.
+Beat 1 (0.0–3.5s): Sơn calls Dũng's name across the street and dares him to follow for the red ledger, both hands open and empty; Dũng's head snaps toward him. Beat 2 (3.5–6.5s): Without waiting, Sơn turns his back and walks toward the market entrance at an even pace; Dũng takes two steps off the threshold, glances back into the stall, then commits. Beat 3 (6.5–10.0s): Dũng strides after him down the road, the cut wrist ring glinting at his right wrist, the gap between him and the stall opening wide; the stall entrance stands empty under the awning.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The call lands at once, the turn and walk give Dũng a beat to choose, and the clip finishes after he commits, with the stall standing clear.
 
@@ -64,7 +64,7 @@ Foreground sound: His call should carry across the street naturally, footsteps f
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Sơn walking away toward the market entrance, empty hands at his sides; Dũng striding after him a dozen paces behind, work bag swinging, cut clasp ring at his right wrist; the coffee stall's entrance empty under its green awning behind them.
+Sơn walking away toward the market entrance, empty hands at his sides; Dũng striding after him a dozen paces behind, work bag swinging, cut wrist ring at his right wrist; the coffee stall's entrance empty under its green awning behind them.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

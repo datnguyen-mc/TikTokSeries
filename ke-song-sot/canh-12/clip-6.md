@@ -5,9 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. Voice: quick, polite, alert Southern Vietnamese male voice.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and two-way radio handset.
 
 [TIMELINE AND LOCATION]
 Scene 12/60, clip 6/6; shot 12.6. Story time: D3 morning.
@@ -23,21 +23,21 @@ End the action on Sơn accepting scrutiny, making cooperation a cost he consciou
 Begin directly at 0.0s in this single location and camera setup with the location sound and movement already active from the very first frame; single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Pine tree line in morning sun: Mây and Thành arriving with a folded stretcher carried between them; Sơn kneeling by the drowsy man lying on his side in the sand, eyes blinking slowly, his phone already back in his jacket; the first man seated against a trunk; cuffs at Mây's belt.
+Pine tree line in morning sun: Mây and Thành arriving with a folded wheeled cot carried between them; Sơn kneeling by the drowsy man lying on his side in the sand, eyes blinking slowly, his phone already back in his jacket; the first man seated against a trunk; wrist-bands at Mây's belt.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Use the wide tree-line view to connect stretcher arrival, the two pursuers and Sơn's empty hands.
+Composition: Use the wide tree-line view to connect wheeled cot arrival, the two pursuers and Sơn's empty hands.
 Focus: Hold the whole rescue arrangement clear, with no cut to a face that loses the patient positions.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây and Thành come through the tree line with the stretcher; Sơn rises from beside the drowsy man and steps back, empty hands open at his sides, as Mây tells him to keep them there. Beat 2 (3.0–6.5s): Thành lowers the stretcher beside the breathing man; Mây moves between the two pursuers, one hand on the wrist-clasps at her belt, motioning the seated man to stay down, while Sơn answers that the patient goes to the clinic first and she will get the evidence. Beat 3 (6.5–10.0s): Mây steps to the stretcher's side and looks to Sơn, who stays a few paces off in her full sightline, breath slowing, hands loose.
+Beat 1 (0.0–3.0s): Mây and Thành come through the tree line with the wheeled cot; Sơn rises from beside the drowsy man and steps back, empty hands open at his sides, as Mây tells him to keep them there. Beat 2 (3.0–6.5s): Thành lowers the wheeled cot beside the breathing man; Mây moves between the two pursuers, one hand on the wrist-bands at her belt, motioning the seated man to stay down, while Sơn answers that the patient goes to the clinic first and she will get the evidence. Beat 3 (6.5–10.0s): Mây steps to the wheeled cot's side and looks to Sơn, who stays a few paces off in her full sightline, breath slowing, hands loose.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The arrival and his step back overlap, two short lines trade while the rescue work keeps moving, and he becomes still by choice as the clip ends, with no group tableau.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Tree line on the left, the two pursuers center, Sơn right. Mây and Thành enter left with the stretcher; Sơn backs off to the right and stays visible. Mây ends between the stretcher and the seated man; the wrist-clasps stay on her belt.
+Blocking: Tree line on the left, the two pursuers center, Sơn right. Mây and Thành enter left with the wheeled cot; Sơn backs off to the right and stays visible. Mây ends between the wheeled cot and the seated man; the wrist-bands stay on her belt.
 Performance: Mây is firm, not triumphant; she needs control first and his story after. Sơn obeys by choice and makes his one condition about the patient, not himself. No defiant stare, no glance toward the trees.
 
 
@@ -54,9 +54,9 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 
 [VISIBLE TEXTURE]
 Stretcher fabric, sand and field clothing stay practical; the morning sun does not become emergency-colored lighting.
@@ -64,11 +64,11 @@ Stretcher fabric, sand and field clothing stay practical; the morning sun does n
 
 [SOUND]
 Location bed: wind moving pine needles and distant surf.
-Foreground sound: Approaching steps and stretcher handling merge with Mây's line, with the breathing thread ready for the clinic cut.
+Foreground sound: Approaching steps and wheeled cot handling merge with Mây's line, with the breathing thread ready for the clinic cut.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Mây standing by the stretcher at the breathing man's side, one hand on the wrist-clasps at her belt, eyes on Sơn; Thành kneeling at the stretcher's head; the first man seated against the trunk; Sơn three paces off, empty hands at his sides, in her full sightline; pine shadows moving.
+Mây standing by the wheeled cot at the breathing man's side, one hand on the wrist-bands at her belt, eyes on Sơn; Thành kneeling at the wheeled cot's head; the first man seated against the trunk; Sơn three paces off, empty hands at his sides, in her full sightline; pine shadows moving.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

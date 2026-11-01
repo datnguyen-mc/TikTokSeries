@@ -27,7 +27,7 @@ End on Hạ testing a possible escape rather than waiting for the men to settle 
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Hạ's face and shoulders, eyes moving from Sơn to the safe line; Kiên's right hand, white cuff showing, resting on her left upper arm; loose strands of hair moving in the wind; Sơn a soft dark shape beyond.
+Hạ's face and shoulders, eyes moving from Sơn to the safe line; Kiên's right hand, white cuff showing, resting near her left shoulder; loose strands of hair moving in the wind; Sơn a soft dark shape beyond.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
@@ -41,7 +41,7 @@ Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and th
 Action rhythm: The look comes first and holds; the slight shift is the event, met by his hand staying put; her quiet line lands last, with her intent still blocked when the clip ends.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Hạ fills the frame, angled slightly landward; Kiên's right hand and white cuff rest on her left upper arm at the frame edge. Her shoulder turns a few degrees only, and her feet stay where they are.
+Blocking: Hạ fills the frame, angled slightly landward; Kiên's right hand and white cuff rest near her left shoulder at the frame edge. Her shoulder turns a few degrees only, and her feet stay where they are.
 Performance: Hạ calculates rather than panics: she tests how closely he is watching and wants him to know she will not be moved like a parcel. Fear shows only in the controlled breath. No sudden jerk away, no tearful plea.
 
 
@@ -69,7 +69,7 @@ Foreground sound: Cloth, breathing and the established engines carry the shift; 
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Hạ's eyes and left shoulder angled landward toward the safe line, breath low and even; Kiên's right hand still resting on her left upper arm, white cuff creased; a strand of hair across her cheek moving in the wind.
+Hạ's eyes and left shoulder angled landward toward the safe line, breath low and even; Kiên's right hand still resting near her left shoulder, white cuff creased; a strand of hair across her cheek moving in the wind.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

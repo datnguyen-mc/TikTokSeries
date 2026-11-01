@@ -64,7 +64,7 @@ Warm lamp and rumpled black shirt remain unchanged, no whitening skin or sudden 
 
 
 [SOUND]
-Location bed: breathing and distant muffled police radio.
+Location bed: breathing and distant muffled radio.
 Foreground sound: A careful breath and mattress shift accompany his short line, no triumphant music swell.
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 

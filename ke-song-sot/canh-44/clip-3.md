@@ -22,7 +22,7 @@ Make Hạ use familiarity with the tower before she can reach any physical advan
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Top of the narrow service stair below the gallery, dim work light: Hạ on the last steps facing the old iron hatch with its rusted wheel; Kiên one step below and behind her, right hand on her left upper arm, key-case low in his left hand.
+Top of the narrow service stair below the gallery, dim work light: Hạ on the last steps facing the old iron hatch with its rusted wheel; Kiên one step below and behind her, right hand near her left shoulder, key-case low in his left hand.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -65,7 +65,7 @@ Foreground sound: Old metal complaining under a hand and thin stair echo under h
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Hạ at the head of the stair beside the old iron hatch, free right hand on its rim, eyes on the small inner latch; Kiên one step below, right hand on her left upper arm, head turned down the stairwell, listening, key-case low in his left hand.
+Hạ at the head of the stair beside the old iron hatch, free right hand on its rim, eyes on the small inner latch; Kiên one step below, right hand near her left shoulder, head turned down the stairwell, listening, key-case low in his left hand.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

@@ -5,8 +5,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no wrist-clasps on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
-Sơn's unzipped dark-olive canvas backpack sits at the edge of the wooden cabin table beside the evidence items. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her belt carries no wrist-clasps, both pairs having been used in the city.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no utility clips on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+Sơn's unzipped dark-olive canvas backpack sits at the edge of the wooden cabin table beside the evidence items. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook and radio handset; her belt carries no wrist-bands, both pairs having been used in the city.
 
 [TIMELINE AND LOCATION]
 Scene 28/60, clip 4/6; shot 28.4. Story time: D6 dawn.
@@ -22,7 +22,7 @@ Answer the remembered failure with a present-day relinquishment that cannot be m
 Begin directly at 0.0s in this new time and place with the related shape or pose already established in the opening frame; advance the action from 0.0s with no morph, dissolve, reference card flash, or replay of an earlier shot.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Present-day cabin at dawn: Sơn seated at the wooden table, both bare hands resting on the closed, locked black hard case before him, its small key beside it, left wrist wrapd; his unzipped backpack at the table edge; Mây standing across the table, duty pouch at her hip.
+Present-day cabin at dawn: Sơn seated at the wooden table, both bare hands resting on the closed, locked black hard case before him, its small key beside it, left wrist wrapped; his unzipped backpack at the table edge; Mây standing across the table, duty pouch at her hip.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -31,7 +31,7 @@ Composition: Match the hand region into the cabin medium setup, whole locked cas
 Focus: Keep the full case and separate key in the same readable area, not symbolic fragments.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.5s): Sơn's right hand pushes the locked case across the worn table to Mây and lays the small key on its lid, as he tells her it is locked and he will go for Hạ with bare hands. Beat 2 (3.5–6.5s): He withdraws both hands and lays them flat and empty on the wood, the wrist wrapd left wrist beside the right; Mây picks up the key as she answers that she is logging it as evidence. Beat 3 (6.5–10.0s): She slips the key into her duty pouch and keeps one hand flat on the case lid; Sơn sits back, empty hands still on the table, and lets out a slow breath, eyes on the case rather than on her.
+Beat 1 (0.0–3.5s): Sơn's right hand pushes the locked case across the worn table to Mây and lays the small key on its lid, as he tells her it is locked and he will go for Hạ with bare hands. Beat 2 (3.5–6.5s): He withdraws both hands and lays them flat and empty on the wood, the wrist wrapped left wrist beside the right; Mây picks up the key as she answers that she is logging it as evidence. Beat 3 (6.5–10.0s): She slips the key into her duty pouch and keeps one hand flat on the case lid; Sơn sits back, empty hands still on the table, and lets out a slow breath, eyes on the case rather than on her.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The handover is unhurried and complete, both lines land during it, and the closing seconds rest on his empty hands so that being unarmed reads as the result.
 
@@ -55,7 +55,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Sơn's locked black hard-shell case with its small key, never opened on screen. He hands the whole case and key to Mây at 28.4 and never carries it again.
 - Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 
 [VISIBLE TEXTURE]
 Worn cabin table replaces corridor paint, dawn cooling his older ungloved skin.

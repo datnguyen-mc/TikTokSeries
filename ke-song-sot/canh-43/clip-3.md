@@ -4,9 +4,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt.
 
 [VEHICLE LOCK — persistent design & physics]
 - Medical Support Van (Compact weathered white utility van): Salt-faded white paint, steel cargo body, twin rear swing doors, warm practical interior lamp. Stationary utility van parked behind market wall; rear cargo bay fitted with a clean mattress and medical support kit. Physics: Subtle chassis rock when someone steps into or out of the rear cargo bay; heavy metal door latch.
@@ -27,7 +27,7 @@ Change control of the space through a visible police action rather than a magica
 Begin directly at 0.0s in this single location and camera setup with the location sound and movement already active from the very first frame; single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Blue dusk, harbour floodlight off. Mây at the edge of landward cover beside the floodlight switch, right hand near it, two officers crouched behind her; far across the apron, small in the depth, Sơn seated against the bollard with Bà Hai in violet silk and Dũng in black standing over him; black car east; white car west with Kiên in his white suit beside it, his hand on the arm of Hạ in her grey dress; Kiên's driver halfway across the west apron, walking toward the bollard.
+Blue dusk, harbour floodlight off. Mây at the edge of landward cover beside the floodlight switch, right hand near it, two officers crouched behind her; far across the apron, small in the depth, Sơn seated against the bollard with Bà Hai in violet silk and Dũng in black standing over him; black car east; white car west with Kiên in his white suit beside it, standing close beside Hạ in her grey dress; Kiên's driver halfway across the west apron, walking toward the bollard.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -36,7 +36,7 @@ Composition: A wide reveals Mây emerging from landward cover, officers behind, 
 Focus: Keep the lamp change readable across the full space, never whitening the frame into a flash transition.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.5s): Mây throws the floodlight switch with her right hand; the relay clicks and the big lamp warms from dull orange to steady white across the concrete, blue dusk giving way without any flash. Beat 2 (2.5–6.5s): She steps out of cover into the light, left hand raised open, and calls the police order for everyone to stand still and let go of the people they hold, her voice cutting over the idling engines. Beat 3 (6.5–10.0s): She advances along the painted safe line at a measured walk, eyes moving between the two cars, while the officers fan out behind her; far across the apron the small figures at the bollard and the white car hold still in the glare, Kiên's driver freezing mid-apron with his empty hands raised, Sơn's head resting back against the bollard, his chest rising under the new light.
+Beat 1 (0.0–2.5s): Mây throws the floodlight switch with her right hand; the relay clicks and the big lamp warms from dull orange to steady white across the concrete, blue dusk giving way without any flash. Beat 2 (2.5–6.5s): She steps out of cover into the light, left hand raised open, and calls the official order for everyone to stand still and let go of the people they hold, her voice cutting over the idling engines. Beat 3 (6.5–10.0s): She advances along the painted safe line at a measured walk, eyes moving between the two cars, while the officers fan out behind her; far across the apron the small figures at the bollard and the white car hold still in the glare, Kiên's driver freezing mid-apron with his empty hands raised, Sơn's head resting back against the bollard, his chest rising under the new light.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: A dim first beat ends on the click; the lamp settles before she speaks; the short order lands mid-shot; the remaining seconds are a steady advance that establishes the intervention without overreaching.
 
@@ -52,13 +52,13 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.5–6.5s · Mây (@May) says on screen, in the firm, clear Southern Vietnamese female voice: Công an! Cả bãi đã bị bao vây. Đứng yên, buông người ra!
+2.5–6.5s · Mây (@May) says on screen, in the firm, clear Southern Vietnamese female voice: Tất cả đứng yên tại chỗ! Đừng ai di chuyển nữa!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 
 [VISIBLE TEXTURE]
 Blue dusk yields to the same floodlight on concrete, preserving skin detail and established shadow directions.

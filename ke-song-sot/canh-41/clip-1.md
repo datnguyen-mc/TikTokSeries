@@ -30,7 +30,7 @@ Make the changed condition feel like a deliberate theft of the agreement, not an
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Last light: Kiên stands with his right hand on Hạ's left upper arm, left hand out of sight behind his hip; Hạ beside him a step short of the painted safe line; Sơn opposite, copy envelope in his right hand; no folder anywhere.
+Last light: Kiên stands with his right hand near Hạ's left shoulder, left hand out of sight behind his hip; Hạ beside him a step short of the painted safe line; Sơn opposite, copy envelope in his right hand; no folder anywhere.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -39,12 +39,12 @@ Composition: Keep Kiên nearer the lens, Hạ kept beside him, Sơn readable opp
 Focus: Stay on Kiên controlling face and the unanswered distance to Sơn; no folder or document insert is needed.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Kiên tilts his head toward Sơn with his practiced smile and announces that the rules have changed, right hand on Hạ's arm, left still hidden. Beat 2 (3.0–6.5s): Still smiling, he names the new price, Sơn's signature on the confession before Hạ is let go; Hạ's jaw tightens and her eyes cut to Sơn. Beat 3 (6.5–10.0s): Kiên stops talking and waits, smile fixed, hand unchanged; Sơn stays where he is, envelope low in his right hand, silent and breathing slowly, and the distance between them stays open over the idling engine.
+Beat 1 (0.0–3.0s): Kiên tilts his head toward Sơn with his practiced smile and announces that the rules have changed, right hand near Hạ's shoulder, left still hidden. Beat 2 (3.0–6.5s): Still smiling, he names the new price, Sơn's signature on the confession before Hạ is let go; Hạ's jaw tightens and her eyes cut to Sơn. Beat 3 (6.5–10.0s): Kiên stops talking and waits, smile fixed, hand unchanged; Sơn stays where he is, envelope low in his right hand, silent and breathing slowly, and the distance between them stays open over the idling engine.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: The demand travels in one smooth stretch across the first two beats, then stops; the last seconds keep the unanswered distance alive instead of filling it.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Kiên nearest, Hạ kept at his right side a step short of the safe line, Sơn opposite across open concrete. Kiên's right hand rests on Hạ's left upper arm; his left stays concealed. No paper changes hands.
+Blocking: Kiên nearest, Hạ kept at his right side a step short of the safe line, Sơn opposite across open concrete. Kiên's right hand rests near Hạ's left shoulder; his left stays concealed. No paper changes hands.
 Performance: Kiên delivers the theft of the agreement as routine paperwork, impatience hidden under the smile; he wants Sơn to feel he has no choice. Hạ's anger stays in her jaw. Sơn hides the blow behind stillness. No sneer, no shouted reply.
 
 
@@ -72,7 +72,7 @@ Foreground sound: Let the idling white car sit under the line, with a small slee
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Kiên waiting with a fixed smile, right hand on Hạ's left upper arm, left hand still hidden; Hạ a step short of the safe line, jaw tight, eyes on Sơn; Sơn opposite, silent, envelope low in his right hand; the condition unanswered; no second folder.
+Kiên waiting with a fixed smile, right hand near Hạ's left shoulder, left hand still hidden; Hạ a step short of the safe line, jaw tight, eyes on Sơn; Sơn opposite, silent, envelope low in his right hand; the condition unanswered; no second folder.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

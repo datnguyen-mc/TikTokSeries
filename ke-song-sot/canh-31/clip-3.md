@@ -6,7 +6,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapd. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapped. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
 
 [TIMELINE AND LOCATION]
 Scene 31/60, clip 3/6; shot 31.3. Story time: D6 night.
@@ -37,7 +37,7 @@ Action rhythm: The question is short and clean; the unanswered silence is the sc
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Nobody changes ground: Bà Hai stays screen left at the rail, Sơn screen right; only his head and shoulders turn toward the stair door behind him. The copy stays low in his right hand.
-Performance: Sơn's question carries disappointed recognition: he suspects the answer and hates being right. Bà Hai hides that she does not know, letting pride stand in for an answer. No guilty flinch, no triumphant look.
+Performance: Sơn's question carries disappointed recognition: he involved people the answer and hates being right. Bà Hai hides that she does not know, letting pride stand in for an answer. No guilty flinch, no triumphant look.
 
 
 [BODY, MOUTH AND FACE STANDARD]

@@ -39,7 +39,7 @@ Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and th
 Action rhythm: One look away, one held moment of contact, one return ahead; the breath at the end leaves him ready rather than waiting.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Sơn square to the landward road; Mây's hidden corner lies off frame toward the market wall. His right hand holds the envelope at waist height; the wrist wrapd left wrist comes to rest against it.
+Blocking: Sơn square to the landward road; Mây's hidden corner lies off frame toward the market wall. His right hand holds the envelope at waist height; the wrist wrapped left wrist comes to rest against it.
 Performance: Relief at knowing Mây is there, smaller than a smile; beneath it, a dependence he is not used to admitting. Then his attention goes back to the road. No anxious glance loop, no wince at the wrist.
 
 

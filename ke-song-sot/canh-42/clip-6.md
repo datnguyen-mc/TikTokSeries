@@ -8,7 +8,7 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose natural hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, composed and unharmed. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. cut original clasp ring remains on RIGHT wrist; no usable loose clasp end. Voice: rough, direct Southern Vietnamese male voice.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. old metal wrist-ring remains on RIGHT wrist; no loose end. Voice: rough, direct Southern Vietnamese male voice.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip still pinned at the back of her hair. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers. Kiên wears his tailored white suit and polished shoes, luxury gold wristwatch glinting on his left wrist.
 
 [VEHICLE LOCK — persistent design & physics]
@@ -29,7 +29,7 @@ Preserve Hạ's agency through quiet refusal rather than an implausible trip to 
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Dusk on the apron: Kiên west of center, his right hand on Hạ's left upper arm; Bà Hai beside the seated Sơn at the bollard near center, hand on his shoulder, Dũng a pace behind her; the copy envelope untouched on the center seam; white car west.
+Dusk on the apron: Kiên west of center, his right hand near Hạ's left shoulder; Bà Hai beside the seated Sơn at the bollard near center, hand on his shoulder, Dũng a pace behind her; the copy envelope untouched on the center seam; white car west.
 
 [CAMERA]
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
@@ -38,7 +38,7 @@ Composition: Use the wide to keep Kiên and Hạ west, Bà Hai beside Sơn cente
 Focus: Keep the opposing body directions readable instead of hunting faces with focus changes.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): West of center, Kiên keeps his right hand on Hạ's arm and calls across to Bà Hai, demanding both Sơn and the envelope. Beat 2 (3.0–6.5s): He steps back toward the white car and steers her to follow as he names her his insurance; she plants both sandals on the concrete and does not move, turning her free right shoulder toward the inner apron, and he stops where he is. Beat 3 (6.5–10.0s): Kiên stands half-turned toward the car, his hand still resting on her arm, while Hạ stays planted and still beside him; Bà Hai stays beside the seated Sơn, and the envelope lies untouched on the seam between them.
+Beat 1 (0.0–3.0s): West of center, Kiên keeps his right hand near Hạ's shoulder and calls across to Bà Hai, demanding both Sơn and the envelope. Beat 2 (3.0–6.5s): He steps back toward the white car and guides her to follow as he names her his insurance; she plants both sandals on the concrete and does not move, turning her free right shoulder toward the inner apron, and he stops where he is. Beat 3 (6.5–10.0s): Kiên stands half-turned toward the car, his hand still resting on her arm, while Hạ stays planted and still beside him; Bà Hai stays beside the seated Sơn, and the envelope lies untouched on the seam between them.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: His demand opens the clip, his step back meets a clear stop in the middle, and the last beat holds the standoff without another attempt to move her.
 
@@ -71,7 +71,7 @@ Foreground sound: A shoe scrape and a cloth rustle give her refusal weight under
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Kiên west of center, half-turned toward the white car, right hand still on Hạ's left upper arm; Hạ's sandals planted, free shoulder turned toward the inner apron; Bà Hai beside the seated Sơn at the bollard, Dũng a pace behind her; the copy envelope untouched on the center seam where Sơn placed it.
+Kiên west of center, half-turned toward the white car, right hand still near Hạ's left shoulder; Hạ's sandals planted, free shoulder turned toward the inner apron; Bà Hai beside the seated Sơn at the bollard, Dũng a pace behind her; the copy envelope untouched on the center seam where Sơn placed it.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

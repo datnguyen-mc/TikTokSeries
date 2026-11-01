@@ -4,15 +4,15 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. Voice: quick, polite, alert Southern Vietnamese male voice.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and two-way radio handset.
 
 [TIMELINE AND LOCATION]
 Scene 56/60, clip 5/6; shot 56.5. Story time: D8 morning.
-Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
+Small coastal town administrative office with tiled floor and ceiling fan, front desk, quiet back study room and side meeting room, no readable insignia or signs.
 Day-eight morning: ordinary coastal daylight from the east, soft shade under roofs and awnings, neutral window light indoors; no action lighting.
-Spatial axis: 180-degree axis inside town police post: public desk in front, locked evidence room behind, interview and holding rooms off corridor.
+Spatial axis: 180-degree axis inside town office: public desk in front, quiet study room behind, side meeting rooms off corridor.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Use the return of a normal shift to show the emergency has ended without claiming the case is over.
@@ -48,13 +48,13 @@ Face and eyes: every visible named face stays faithful to its reference througho
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 0.2–4.8s · Thành (@Phó Thành) says on screen, in the quick, polite, alert Southern Vietnamese male voice: Gỡ bảng trực khẩn cấp rồi. Tối nay mình tuần tra như cũ hả chị?
-4.9–8.6s · Mây (@May) says on screen, in the firm, clear Southern Vietnamese female voice: Ca thường thôi. Lát nữa em theo xe áp giải lên tỉnh.
+4.9–8.6s · Mây (@May) says on screen, in the firm, clear Southern Vietnamese female voice: Ca thường thôi. Lát nữa em theo xe chuyển hồ sơ lên tỉnh.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 
 [VISIBLE TEXTURE]
 New intact glasses appear here after the taped pair, paper roster stays one distinct sheet.

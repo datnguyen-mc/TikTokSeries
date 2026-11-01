@@ -4,15 +4,15 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. Voice: quick, polite, alert Southern Vietnamese male voice.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and two-way radio handset.
 
 [TIMELINE AND LOCATION]
 Scene 07/60, clip 6/6; shot 07.6. Story time: D2 morning.
-Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
-Present-day morning inside the police post: neutral daylight from the front windows as soft side key across the desk, flat ceiling practicals as fill, slow ceiling-fan shadows over the open folder.
-Spatial axis: 180-degree axis inside town police post: public desk in front, locked evidence room behind, interview and holding rooms off corridor.
+Small coastal town administrative office with tiled floor and ceiling fan, front desk, quiet back study room and side meeting room, no readable insignia or signs.
+Present-day morning inside the town office: neutral daylight from the front windows as soft side key across the desk, flat ceiling practicals as fill, slow ceiling-fan shadows over the open folder.
+Spatial axis: 180-degree axis inside town office: public desk in front, quiet study room behind, side meeting rooms off corridor.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show Mây choosing a method of investigation, keeping suspicion separate from proof.
@@ -31,7 +31,7 @@ Composition: Frame both officers with folder in the lower medium space and suppo
 Focus: Keep her face and the open folder readable, with the radio work secondary in the same setup.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây smooths the printout flat beside the rental note and, without looking up, tells Thành they will not arrest yet, because whoever comes looking for Sơn is the real lead. Beat 2 (3.0–6.5s): She lifts her eyes to him and assigns one quiet watcher and a log of strange vehicles; Thành nods and answers that he will have the crossroad post note city plates. Beat 3 (6.5–10.0s): He unclips the radio handset and raises it to his mouth, thumb finding the key, while Mây turns back to the open folder and squares its edge against the desk.
+Beat 1 (0.0–3.0s): Mây smooths the printout flat beside the rental note and, without looking up, tells Thành they will not escort yet, because whoever comes looking for Sơn is the real lead. Beat 2 (3.0–6.5s): She lifts her eyes to him and assigns one quiet watcher and a log of strange vehicles; Thành nods and answers that he will have the crossroad post note city plates. Beat 3 (6.5–10.0s): He unclips the radio handset and raises it to his mouth, thumb finding the key, while Mây turns back to the open folder and squares its edge against the desk.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: One quiet instruction and one acknowledgement, never repeated; the scene closes on the radio coming up and the folder squared, a working moment still in motion.
 
@@ -53,8 +53,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 
 [VISIBLE TEXTURE]
 Plain paper and the rental note give the inquiry physical continuity instead of another screen display.

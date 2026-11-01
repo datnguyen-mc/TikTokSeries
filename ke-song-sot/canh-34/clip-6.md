@@ -4,15 +4,15 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no wrist-clasps on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset; no wrist-clasps on her belt until fresh pairs arrive at 35.1. Thành wears his light-blue shirt and round glasses whose bent right temple arm is held with tape since the stall, carrying his leather evidence folder and police radio handset.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch. no utility clips on her belt: both city pairs were used at 23.5 and 24.5; fresh pairs arrive at 35.1. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. one glasses temple arm held by a small strip of tape; new glasses only at 56.5. Voice: quick, polite, alert Southern Vietnamese male voice.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset; no wrist-bands on her belt until fresh pairs arrive at 35.1. Thành wears his light-blue shirt and round glasses whose bent right temple arm is held with tape since the stall, carrying his leather evidence folder and two-way radio handset.
 
 [TIMELINE AND LOCATION]
 Scene 34/60, clip 6/6; shot 34.6. Story time: D7 dawn.
-Small fictional town police post with tiled floor and ceiling fan, public desk in front, evidence room locked behind it, separate interview room and holding room, no readable insignia or signs.
-Present-day dawn inside the police post: soft side light from the east windows across the desk and route map, the ceiling fan turning under a dim overhead practical, cool shadows in the corners.
-Spatial axis: 180-degree axis inside town police post: public desk in front, locked evidence room behind, interview and holding rooms off corridor.
+Small coastal town administrative office with tiled floor and ceiling fan, front desk, quiet back study room and side meeting room, no readable insignia or signs.
+Present-day dawn inside the town office: soft side light from the east windows across the desk and route map, the ceiling fan turning under a dim overhead practical, cool shadows in the corners.
+Spatial axis: 180-degree axis inside town office: public desk in front, quiet study room behind, side meeting rooms off corridor.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Confirm a real support presence while leaving the human exchange still uncertain.
@@ -53,8 +53,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 
 [VISIBLE TEXTURE]
 Desk wear and ordinary radio casing preserve the local team's scale.

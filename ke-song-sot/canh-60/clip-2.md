@@ -40,7 +40,7 @@ Action rhythm: Order, handover and reply run at working pace through the first s
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Counter between them; Hạ behind it at screen left, Mây outside at screen right. The helmet stays in Mây's left hand and the flowers go to her right; note and coins pass over the counter.
-Performance: Their friendship lives in habit: Mây wants the dinner more than the flowers, and Hạ already knew the order. Nothing about the case or custody is said or shown. No hug, no ceremony, no promise to wait.
+Performance: Their friendship lives in habit: Mây wants the dinner more than the flowers, and Hạ already knew the order. Nothing about the case or escort is said or shown. No hug, no ceremony, no promise to wait.
 
 
 [BODY, MOUTH AND FACE STANDARD]

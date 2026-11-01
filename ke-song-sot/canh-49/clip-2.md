@@ -5,8 +5,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear. no work bag: it was confiscated as evidence; in fresh custody wrist-clasps since 46.4; the cut old ring has been removed and logged separately, not reused. Voice: rough, direct Southern Vietnamese male voice.
-Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist; her unlit black cigarette holder lies on the stone bench beside her, set down in 49.1. Dũng's wrists are locked behind his back in fresh steel wrist-clasps, his black shoulder bag confiscated and the old cut clasp ring logged as evidence.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear. no work bag: it was logged as evidence; in fresh wrist-bands since 46.4; the old ring has been removed and logged separately, not reused. Voice: rough, direct Southern Vietnamese male voice.
+Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist; her unlit black cigarette holder lies on the stone bench beside her, set down in 49.1. Dũng's wrists are locked at his side in fresh metal wrist-bands, his black shoulder bag confiscated and the old cut wrist ring logged as evidence.
 
 [VEHICLE LOCK — persistent design & physics]
 - White Executive Sedan (Four-door white luxury sedan): Gloss white exterior paint, tinted glass windows, grey leather rear bench seat. Left-hand drive sedan parked on the west side of the harbour apron; rear street-side door used for passenger movement. Physics: Smooth electric window motor, heavy car door seal and latch.
@@ -26,7 +26,7 @@ Make Dũng ask for an instruction his loyalty can no longer produce.
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Dũng on the custody road in the foreground, wrists clasped behind his back, one escorting officer's hand at his elbow; in the depth, Bà Hai seated on the stone bench, hands on her knees, unlit holder on the stone beside her.
+Dũng on the service road in the foreground, hands held together, one escorting officer's hand at his elbow; in the depth, Bà Hai seated on the stone bench, hands on her knees, unlit holder on the stone beside her.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.
@@ -35,7 +35,7 @@ Composition: Frame escorted Dũng medium with Bà Hai visible on the bench in th
 Focus: Stay on the exchange of looks without magnifying either person into a melodramatic reaction insert.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Dũng slows to a stop beside the escort and turns his head toward the bench, the clasp chain clinking as his hands close. Beat 2 (3.0–6.5s): He asks his question across the distance, jaw working, eyes fixed on her face as if waiting for the next order. Beat 3 (6.5–10.0s): Bà Hai gives no answer; her eyes drop to the jade bracelet on her left wrist. Dũng's shoulders sink a fraction, he breathes out, turns back toward the road and walks on beside the escort.
+Beat 1 (0.0–3.0s): Dũng slows to a stop beside the escort and turns his head toward the bench, the band link clinking as his hands close. Beat 2 (3.0–6.5s): He asks his question across the distance, jaw working, eyes fixed on her face as if waiting for the next order. Beat 3 (6.5–10.0s): Bà Hai gives no answer; her eyes drop to the jade bracelet on her left wrist. Dũng's shoulders sink a fraction, he breathes out, turns back toward the road and walks on beside the escort.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: A short halt, the question placed cleanly, then a real silence from her; his turn back to the road closes the relationship without a second look.
 
@@ -59,7 +59,7 @@ Reference only; enact only the current ACTION, not a future handover.
 No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
 
 [VISIBLE TEXTURE]
-Fresh custody wrist-clasps remain secure; the old cut component is evidence, not hanging ready for another trick.
+Fresh escort wrist-bands remain secure; the old cut component is evidence, not hanging ready for another trick.
 
 
 [SOUND]
@@ -68,7 +68,7 @@ Foreground sound: Escort shoes halt briefly, a small cuff sound sits below his w
 Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Dũng turned back toward the custody road, taking his next step beside the escort, whose hand rests at his elbow, wrists still clasped behind his back; Bà Hai on the bench in the background, head bowed toward the jade bracelet on her left wrist, hands on her knees.
+Dũng turned back toward the service road, taking his next step beside the escort, whose hand rests at his elbow, wrists still clasped at his side; Bà Hai on the bench in the background, head bowed toward the jade bracelet on her left wrist, hands on her knees.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

@@ -334,21 +334,21 @@ def person_lock(plan: dict, key: str, c: dict) -> str:
     notes = []
     at = (c['scene'],c['number'])
     if key == 'MAY' and (24,6) <= at <= (35,1):
-        outfit = outfit.replace(', steel handcuffs at belt','').replace(', steel wrist-clasp at belt','')
-        notes.append('no wrist-clasps on her belt: both city pairs were used at 23.5 and 24.5'
+        outfit = outfit.replace(', steel handcuffs at belt','').replace(', steel wrist-clasp at belt','').replace(', compact utility clip at belt','')
+        notes.append('no utility clips on her belt: both city pairs were used at 23.5 and 24.5'
                      + ('; two fresh pairs are handed to her in this shot' if at == (35,1) else '; fresh pairs arrive at 35.1'))
     if key == 'MAY' and (53,4) <= at <= (53,6):
-        outfit = outfit.replace(', steel handcuffs at belt','').replace(', steel wrist-clasp at belt','')
-        notes.append('no wrist-clasps on her belt: the fresh pairs closed on Dũng at 46.4 and on Sơn at 53.3')
+        outfit = outfit.replace(', steel handcuffs at belt','').replace(', steel wrist-clasp at belt','').replace(', compact utility clip at belt','')
+        notes.append('no utility clips on her belt: the fresh pairs closed on Dũng at 46.4 and on Sơn at 53.3')
     if key == 'MAY_C':
-        notes.append('two steel wrist-clasp pairs at the back of her belt under the denim jacket' if at < (23,5) else
-                     'two steel wrist-clasp pairs at her belt; she uses one in this shot' if at == (23,5) else
-                     'one steel wrist-clasp pair left at the back of her belt' if at < (24,5) else
-                     'her last steel wrist-clasp pair, used in this shot' if at == (24,5) else
-                     'no wrist-clasps left: both city pairs are in use')
+        notes.append('two utility wrist-band pairs at the back of her belt under the denim jacket' if at < (23,5) else
+                     'two utility wrist-band pairs at her belt; she uses one in this shot' if at == (23,5) else
+                     'one utility wrist-band pair left at the back of her belt' if at < (24,5) else
+                     'her last utility wrist-band pair, used in this shot' if at == (24,5) else
+                     'no utility wrist-bands left: both city pairs are in use')
     if base == 'DUNG' and at >= (46,6):
         outfit = outfit.replace(', heavy black canvas shoulder bag for work gear','')
-        notes.append('no work bag: it was confiscated as evidence')
+        notes.append('no work bag: it was logged as evidence')
     if key == 'SON_S' and c['scene'] == 25:
         outfit = outfit.replace('matte-black suit, open-collar white shirt','matte-black suit trousers and open-collar white shirt, the suit jacket off and lying on the motel bed')
     if key == 'SON' and 54 <= c['scene'] < 60:
@@ -364,15 +364,15 @@ def person_lock(plan: dict, key: str, c: dict) -> str:
         if c['scene'] == 38:
             notes.append('current-day bare hands in this return from memory')
     if base == 'DUNG' and (29,1) <= (c['scene'],c['number']) < (46,4):
-        notes.append('cut original clasp ring remains on RIGHT wrist; no usable loose clasp end')
+        notes.append('old metal wrist-ring remains on RIGHT wrist; no loose end')
     if base == 'DUNG' and (c['scene'],c['number']) == (46,4):
-        notes.append('the cut old clasp ring is still on his RIGHT wrist while fresh custody wrist-clasps are applied in this shot')
+        notes.append('the old metal ring is still on his RIGHT wrist while fresh wrist-bands are applied in this shot')
     if base == 'DUNG' and (c['scene'],c['number']) >= (46,5):
-        notes.append('in fresh custody wrist-clasps since 46.4; the cut old ring has been removed and logged separately, not reused')
+        notes.append('in fresh wrist-bands since 46.4; the old ring has been removed and logged separately, not reused')
     if base == 'THANH' and c['scene'] == 29:
-        notes.append('one glasses temple arm bent at the stall, not yet taped')
+        notes.append('one glasses temple arm slightly tilted at the stall, not yet taped')
     if base == 'THANH' and (30,1) <= (c['scene'],c['number']) < (56,5):
-        notes.append('one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5')
+        notes.append('one glasses temple arm held by a small strip of tape; new glasses only at 56.5')
     extra = ' ' + '; '.join(notes) + '.' if notes else ''
     return f"{identity['tag']} = {identity['name']}: same approved identity, age {age}; {face}. {outfit}.{extra} Voice: {identity['voice']}."
 

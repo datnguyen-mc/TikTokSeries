@@ -4,10 +4,10 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather document folder and compact two-way radio. Voice: quick, polite, alert Southern Vietnamese male voice.
 @Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Voice: rough, direct Southern Vietnamese male voice.
-Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
+Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and two-way radio handset.
 
 [VEHICLE LOCK — persistent design & physics]
 - Black Executive Sedan (Four-door black executive sedan): Deep black paint, chrome window trim, dark interior upholstery. Left-hand drive sedan parked on the east side of the harbour apron opposite the white sedan. Physics: Stationary weight on concrete harbour apron.
@@ -32,7 +32,7 @@ Seafront street by the stall: Mây and Thành walking toward Dũng from screen r
 35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: The wide view retains the fallen chair, Mây and Thành approaching, and the support vehicle farther back.
-Focus: Keep the chair and all three body positions legible, with no need for a new wrist-clasp close-up.
+Focus: Keep the chair and all three body positions legible, with no need for a new wrist-band close-up.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.0s): Mây and Thành come up the street and stop a few paces from Dũng and the fallen chair, Thành half a step behind her with his folder. Beat 2 (2.0–6.0s): Mây tells Dũng by name to set the chair back and that questions here go through the law, then waits, hands loose; Dũng holds her stare. Beat 3 (6.0–10.0s): With a hard breath Dũng bends and rights the chair, setting its legs down hard on the pavement, then straightens and sneers that the station chief is quick and he only came with a message for Sơn; his men stay by their cars.
@@ -41,7 +41,7 @@ Action rhythm: The approach is short, the order and the wait take the middle so 
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Mây and Thành enter from screen right and stop right of center; Dũng and the chair left of center; his men by the parked black cars at screen left; the support vehicle deep in the background right.
-Performance: Mây's calm is non-negotiable; she wants compliance first and conversation after. Dũng obeys with visible resentment, keeping his menace in the eyes, never a clown. Thành stays steady. No hand on the wrist-clasps.
+Performance: Mây's calm is non-negotiable; she wants compliance first and conversation after. Dũng obeys with visible resentment, keeping his menace in the eyes, never a clown. Thành stays steady. No hand on the wrist-bands.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -57,9 +57,9 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, holding his work gear and the small sealed cylinder.
-- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
+- Phó Thành's dark leather document folder, note pad, pen and two-way radio handset.
 
 [VISIBLE TEXTURE]
 Coastal daylight keeps the restored chair as ordinary furniture, not a newly heroic prop lit for a reveal.

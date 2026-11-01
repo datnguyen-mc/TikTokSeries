@@ -22,7 +22,7 @@ Show Hạ buying seconds through selective knowledge, with Kiên focused on the 
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Head of the service stair under a dim work light: Hạ against the wall beside the rusted iron hatch; Kiên one step below her, right hand on her left upper arm, key-case low in his left hand, eyes on the hatch wheel.
+Head of the service stair under a dim work light: Hạ against the wall beside the rusted iron hatch; Kiên one step below her, right hand near her left shoulder, key-case low in his left hand, eyes on the hatch wheel.
 
 [CAMERA]
 50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.

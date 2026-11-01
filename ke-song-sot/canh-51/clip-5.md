@@ -4,11 +4,11 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose natural hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, composed and unharmed. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
 
 [TIMELINE AND LOCATION]
 Scene 51/60, clip 5/6; shot 51.5. Story time: D7 night continuous.
@@ -33,13 +33,13 @@ Composition: The wide re-establishes the inner floor, dropped key-case, officer 
 Focus: Keep the three simultaneous responsibilities readable at separate positions, no rapid internal cuts between them.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Mây crosses to the wall, crouches at the knees and lifts the black key-case by the grip with her right hand, pointed at the floor, while the officer stops two paces from Kiên and motions him up with an open hand; Kiên gets slowly to his feet. Beat 2 (3.0–6.5s): Mây slides the key-case into an evidence bag from her duty pouch and tells Kiên it is secured and his days of holding people are over; Kiên holds out both wrists without a word and the officer closes his own wrist-clasps on them. Beat 3 (6.5–10.0s): Hạ hurries from the doorway, kneels at Sơn's side and steadies his shoulders, telling him to lean on her and breathe; Sơn lets his weight go into her hands.
+Beat 1 (0.0–3.0s): Mây crosses to the wall, crouches at the knees and lifts the black key-case by the grip with her right hand, pointed at the floor, while the officer stops two paces from Kiên and motions him up with an open hand; Kiên gets slowly to his feet. Beat 2 (3.0–6.5s): Mây slides the key-case into an evidence bag from her duty pouch and tells Kiên it is secured and his days of holding people are over; Kiên holds out both wrists without a word and the officer closes his own wrist-bands on them. Beat 3 (6.5–10.0s): Hạ hurries from the doorway, kneels at Sơn's side and steadies his shoulders, telling him to lean on her and breathe; Sơn lets his weight go into her hands.
 Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Custody and care run in parallel: the key-case first, then the wrist-clasps under Mây's line, then Hạ's arrival; each person settles into a stable role by the end.
+Action rhythm: Escort and care run in parallel: the key-case first, then the wrist-bands under Mây's line, then Hạ's arrival; each person settles into a stable role by the end.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Wide: doorway frame left, inner wall center, rail frame right. Mây moves to the wall, the officer to Kiên near the rail, Hạ from the doorway to Sơn mid-floor; no one crosses another's path.
-Performance: Mây closes the threat with plain authority and hides her relief. Hạ thinks only of Sơn's breathing. Kiên is a man in custody, not a broken prop. No triumph, no gloating.
+Performance: Mây closes the threat with plain authority and hides her relief. Hạ thinks only of Sơn's breathing. Kiên is a man with the escort, not a broken prop. No triumph, no gloating.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -55,8 +55,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 - Kiên's compact black metal key-case, held low beside his LEFT thigh the whole time while his right hand holds Hạ's arm or the hatch; never raised toward anyone; dropped at 51.3 and lifted into an evidence bag by Mây at 51.5, never thrown into the sea.
 
 [VISIBLE TEXTURE]

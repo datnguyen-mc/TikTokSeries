@@ -5,9 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, compact utility clip at belt. Voice: firm, clear Southern Vietnamese female voice.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. same grey cotton dress and thin sandals after rescue, recovered long torn pale-blue silk scarf draped warmly over shoulders, no white blouse or jeans yet. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare, holding the closed silver pocket watch carried over from 52.6; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel wrist-clasps at her belt. Hạ wears her grey cotton dress with the recovered long section of her pale-blue silk scarf draped warmly around her shoulders.
+Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare, holding the closed silver pocket watch carried over from 52.6; no backpack on him, it stays on the cabin cot. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and metal wrist-bands at her belt. Hạ wears her grey cotton dress with the recovered long section of her pale-blue silk scarf draped warmly around her shoulders.
 
 [TIMELINE AND LOCATION]
 Scene 53/60, clip 1/6; shot 53.1. Story time: D7 night continuous.
@@ -19,7 +19,7 @@ Spatial axis: 180-degree axis on lighthouse gallery: main stair door east, servi
 Scene goal: Sơn tự nhận trách nhiệm, Hạ chấp nhận thay vì cản luật. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 6.1s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
-Make surrender the next voluntary action, not an arrest sprung on the rescued man.
+Make surrender the next voluntary action, not an escort sprung on the rescued man.
 
 
 [CONTINUITY AT 0.0s — single uncut shot]
@@ -57,8 +57,8 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact two-way radio.
+- Standard metal wrist-bands carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 - ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. It runs again after 52.3; never open it again as a new reveal.
 
 [VISIBLE TEXTURE]

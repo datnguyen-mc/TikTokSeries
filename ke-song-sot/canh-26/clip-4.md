@@ -4,7 +4,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no wrist-clasps left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. no utility wrist-bands left: both city pairs are in use. Voice: firm, clear Southern Vietnamese female voice.
 @Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare. Voice: low, crisp, clear Southern Vietnamese male voice.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white cotton wrist wrap, right hand unharmed and bare. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
@@ -18,7 +18,7 @@ Present-day afternoon: hard daylight from above on the roof and dock, cool shed 
 Spatial axis: 180-degree axis at river loading dock: rope-operated gate landward, wooden workboat moored on outer river side.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
-Give Mây her own practical choice after the two city cuffs are already spent.
+Give Mây her own practical choice after the two city wrist-bands are already spent.
 
 
 [CONTINUITY AT 0.0s — single uncut shot]
@@ -39,7 +39,7 @@ Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and th
 Action rhythm: Sơn's pass-through and her line overlap, the lashing is the held effort in the middle, and the guard's stop at the shut gate is the cue to leave; no time spent watching it hold.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Stairs and factory door at screen left, rope gate centre, dock and moored workboat at screen right. Sơn crosses left to right through the gate first; Mây works the gate from the dock side. The rope is the only barrier; no cuffs.
+Blocking: Stairs and factory door at screen left, rope gate centre, dock and moored workboat at screen right. Sơn crosses left to right through the gate first; Mây works the gate from the dock side. The rope is the only barrier; no wrist-bands.
 Performance: Mây is pure purpose: her face hardens on the knot, not on the guard, and she never admires her work. Underneath is the knowledge that the rope buys seconds, not safety. No smile, no taunt.
 
 

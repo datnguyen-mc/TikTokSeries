@@ -2,19 +2,20 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** từ Tập 9 mỗi tập **từ 90s trở lên = 9 clip × 10s trở lên**, chia sẻ đủ công thức (Tập 1–7: 30s; Tập 8: 40s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video · **Bắt buộc Search Google** khi cần thiết để kiểm chứng công thức nấu ăn, định lượng, mẹo sơ chế và an toàn thực phẩm trước khi viết.
 
-> **Lưu ý riêng cho series Phèo**
-> - **Từ Tập 9: mỗi tập từ 90 giây trở lên, chuẩn 100 giây = 10 clip × 10s**, đi đủ hành trình của món ăn và **chia sẻ đủ công thức** như một người nấu thật:
->   1. **Clip 1 — Đi chợ về và kèo của tập:** 2 giây đầu là cú mồi (giỏ đồ đặt bịch lên đảo bếp, nguyên liệu lăn ra); "Ngày [số], Phèo vô bếp!"; Hường ló ở cửa bên phải ra một **kèo, điều kiện hoặc yêu cầu** (ăn kiêng, có khách, cá cược…) mà clip cuối sẽ trả lời. Phèo vào bếp qua cửa bên phải khung hình (cửa thông góc bàn ăn).
->   2. **Clip 2 — Nguyên liệu chính:** nói 4–5 nguyên liệu chính kèm định lượng và số người ăn (ví dụ: Nửa ký cá kèo, cho ba bốn người!), một mẹo chọn ngoài chợ.
->   3. **Clip 3–4 — Sơ chế:** rửa, khử mùi, cắt thái, ướp; mỗi clip một lý do và thời gian ướp.
->   4. **Clip 5–7 — Nấu:** từng bước với lửa to hay nhỏ, thời gian, dấu hiệu chín; gia vị nói định lượng **đúng lúc cho vào** (Hai muỗng nước mắm, một muỗng đường!); mỗi clip một mẹo.
->   5. **Clip 8 — Nêm nếm, hoàn thiện, trình bày:** tỉ lệ nêm, cách bày đĩa.
->   6. **Clip 9 — Dọn ra bàn ăn:** bưng món ra, bày, Hường nếm và phản ứng.
->   7. **Clip 10 — Twist:** trả lời kèo ở Clip 1, cú đứng hình ở 2 giây cuối, khung thumbnail.
-> - **Hường ở giữa tập:** ít nhất 2 lần ló vào bếp ở Clip 3–8 (hít mùi, ăn vụng, hỏi xéo, ra thêm luật), mỗi lần 2–3 giây và tối đa 7 âm tiết. Lần đầu Hường vào trong một chuỗi Frames thì dán FULL LOCK dưới nhãn [CHARACTER ENTERING THIS SEGMENT].
-> - **Ngân sách thoại:** mỗi clip tối đa khoảng 31 âm tiết (Phèo khoảng 24, Hường tối đa 7). Mỗi clip nói đúng **một con số quan trọng** (định lượng, thời gian hoặc mức lửa) và **một lý do**; phần còn lại nằm trong Công thức đầy đủ. Món ít bước thì 9 clip (90 giây, gộp Clip 9 và 10); món nhiều công đoạn thì 11–12 clip.
+> **Lưu ý riêng cho series Phèo (Chuẩn 30–60s = 3–6 clip × 10s)**
+> - **Thời lượng mỗi tập mới: dao động từ 30 đến 60 giây (3–6 clip × 10s, tối đa 60 giây).** Tuyệt đối không vượt quá 60 giây (6 clip). Các tập cũ đã xuất bản giữ nguyên file cũ:
+>   - **Tập 3 clip (30s):** 1 Mở màn & nguyên liệu/kèo → 2 Nấu & mẹo chính → 3 Dọn ra ăn & twist đứng hình.
+>   - **Tập 4 clip (40s):** 1 Đi chợ về & kèo của Hường → 2 Sơ chế & ướp → 3 Nấu & mẹo lửa/gia vị → 4 Dọn ra bàn ăn & twist đứng hình.
+>   - **Tập 5–6 clip (50–60s, tối đa):**
+>     1. **Clip 1 — Đi chợ về và kèo của tập:** 2 giây đầu là cú mồi (giỏ đồ đặt bịch lên đảo bếp, nguyên liệu lăn ra); "Ngày [số], Phèo vô bếp!"; Hường ló ở cửa bên phải ra một **kèo, điều kiện hoặc yêu cầu** mà clip cuối sẽ trả lời.
+>     2. **Clip 2 — Nguyên liệu & sơ chế:** nêu nguyên liệu chính kèm định lượng và mẹo sơ chế/khử mùi đã kiểm chứng qua Google Search.
+>     3. **Clip 3–4 — Nấu & hoàn thiện:** bước nấu quan trọng nhất với mức lửa, thời gian, dấu hiệu chín và tỉ lệ nêm nếm chuẩn.
+>     4. **Clip 5–6 — Dọn ra bàn ăn & Twist:** bưng món ra, Hường nếm, trả lời kèo ở Clip 1, cú đứng hình ở 2 giây cuối, khung thumbnail.
+> - **Bắt buộc Search Google khi viết công thức:** Tra cứu Google Search để lấy định lượng, thời gian nấu, mẹo dân gian/đầu bếp thật và an toàn thực phẩm cho từng món ăn, ghi rõ vào mục **Công thức đầy đủ** trong `README.md`.
+> - **Hường ở giữa tập:** ít nhất 1–2 lần ló vào bếp ở các clip giữa tập (hít mùi, ăn vụng, hỏi xéo, ra thêm luật), mỗi lần 2–3 giây và tối đa 7 âm tiết. Lần đầu Hường vào trong một chuỗi Frames thì dán FULL LOCK dưới nhãn [CHARACTER ENTERING THIS SEGMENT].
+> - **Ngân sách thoại:** mỗi clip tối đa khoảng 31 âm tiết (Phèo khoảng 24, Hường tối đa 7). Mỗi clip nói đúng **một con số quan trọng** (định lượng, thời gian hoặc mức lửa) và **một lý do**; phần còn lại nằm trong Công thức đầy đủ. Món đơn giản thì 3–4 clip (30–40 giây); món nhiều công đoạn hơn thì 5–6 clip (50–60 giây, tối đa 60 giây).
 > - **Số trong thoại viết bằng chữ** (năm trăm gam, ba mươi phút), không viết chữ số hay đơn vị tắt trong prompt. **Định lượng thể hiện bằng hình:** nguyên liệu chia sẵn trong chén sứ trắng nhỏ, muỗng canh và muỗng cà phê trơn; không dùng cân điện tử, ly đong có vạch số hay đồng hồ có số.
 > - **Đồ đi chợ về:** giỏ cói, túi nilon hồng hoặc trắng trơn, thịt cá gói lá chuối, trứng trong rổ tre, rau buộc lạt. Không dùng giấy báo, túi in chữ, khay xốp có tem, tem giá, hóa đơn hay cân có số. Thêm vào [AVOID] mọi clip: newspaper wrapping, printed bags, price tags, receipts, scale displays, measuring marks, labeled jars or bottles.
 > - **Nhảy thời gian khi ướp, kho:** dùng tiếng hẹn giờ trong cùng clip, hoặc tô ướp sẵn lấy từ tủ lạnh (Tô này Phèo ướp từ sáng!), hoặc cắt cảnh bằng Ingredients (FLOW_GUIDE mục 1).
@@ -116,7 +117,7 @@ DINING CORNER: same round dark-wood table with white lace runner by the curtaine
 
 ```text
 [FORMAT]
-Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Bright, warm, appetizing food-film look: macro food close-ups, rising steam, sizzling oil, glossy sauces, crisp golden textures. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Bright, warm, appetizing food-film look: macro food close-ups, rising steam, sizzling oil, glossy sauces, crisp golden textures. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 **Nhạc nền**: câu mở đầu mục `[SOUND]` của mọi clip.
@@ -129,7 +130,7 @@ Background music: upbeat, playful acoustic guitar and light marimba kitchen tune
 
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
 
 **Câu cửa miệng**: mọi tập mở bằng *"Ngày [số tập], Phèo vô bếp!"* (tập 6 là "Ngày sáu, Phèo vô bếp!", cứ thế đếm tới 365).
@@ -210,12 +211,13 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 | 10 | Tôm rim ba chỉ · Thưởng một cây | Hường lắc vòng vàng ra kèo "Rim tôm bóng đẹp, chị thưởng một cây!", Phèo tưởng một cây vàng; Phèo chọn tôm vỏ bóng đầu dính chặt, rút chỉ lưng, ướp nửa muỗng đường cho giòn trong, áp chảo ba chỉ năm phút chắt bớt mỡ, xào tôm lửa lớn ba phút, rim hai muỗng nước mắm một muỗng đường rồi xóc nhẹ chảo không gãy đầu tôm; cuối tập Hường giữ lời trao cho Phèo nguyên… một cây kem xoài vàng ươm (tập 100s = 10 clip × 10s) | Nước mắm |
 | 11 | Mực nhồi thịt sốt cà chua · Thưởng một tờ bự nhứt | Hường phe phẩy xấp tiền ra kèo "Nhồi mực tròn căng không bục, chị thưởng một tờ bự nhứt!", Phèo tưởng tờ 500k; Phèo chia sẻ trọn bộ công thức mực ống nhồi thịt bằm nấm mèo bún tàu, mẹo nhồi 8 phần ghim tăm tre hấp sơ 7 phút trước khi sốt cà chua với hai muỗng nước mắm một muỗng đường; cuối tập Hường giữ lời trao tận tay Phèo… nguyên một tờ giấy nến nướng bánh khổ bự (tập 100s = 10 clip × 10s) | Nước mắm |
 | 12 | Cánh gà chiên nước mắm · Thưởng một chiếc nhẫn | Hường khoe bàn tay đeo nhẫn lấp lánh ra kèo "Cánh gà giòn rụm thấm mắm, chị thưởng một chiếc nhẫn đeo liền!", Phèo tưởng nhẫn vàng; Phèo chia sẻ trọn bộ công thức sáu trăm gam cánh gà giữa thấm khô khía hai đường mặt dưới, ướp một muỗng nước mắm mười lăm phút, áo mỏng bột bắp chiên lửa vừa mười hai phút rồi đảo nhanh trên lửa lớn ba mươi giây với sốt hai muỗng nước mắm một muỗng rưỡi đường và tỏi phi giòn; cuối tập Hường mở hộp nhung đỏ đeo thẳng vào ngón tay Phèo… một vòng hành tây chiên giòn vàng ươm tròn xoe (tập 100s = 10 clip × 10s) | Nước mắm |
+| 13 | Thịt ba chỉ quay giòn bì bằng chảo · Thưởng một chiếc xe | Hường đứng tựa khung cửa lắc chìa khóa ra kèo "Quay ba chỉ nổ bì bằng chảo, chị thưởng liền một chiếc xe!", Phèo tưởng xe máy/xe hơi mới; Phèo chia sẻ trọn bộ công thức sáu trăm gam thịt ba chỉ tươi vuông vắn luộc sơ mặt bì mười phút với gừng đập dập rồi thấm khô, xăm nĩa đều tay khắp mặt bì, ướp ngũ vị hương vào phần thịt nạc, quét hai muỗng giấm trắng phủ một muỗng muối hạt làm khô da rồi gạt bớt muối thừa, úp mặt bì vào chảo chống dính lửa vừa mười lăm phút cho nổ cốm vàng ruộm và lật chiên vàng các mặt thịt; cuối tập Hường giữ lời đặt lên bàn trao thưởng cho Phèo… một chiếc xe đồ chơi dây cót mini bằng nhựa màu đỏ chạy vòng vòng quanh đĩa thịt (tập 60s = 6 clip × 10s) | Chảo chống dính |
 
 ---
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (từ Tập 9: từ 90s = 9 clip × 10s trở lên; Tập 1–7: 30s = 3 clip; Tập 8: 40s = 4 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` (từ Tập 9 ít nhất 9 file) là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-9/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập mới **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập (kèm công thức đã tra cứu Google Search), `clip-1.md` … `clip-N.md` (3–6 file) là prompt của từng clip 10 giây. Các tập 1–12 đã viết trước đây giữ nguyên file cũ; tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |
@@ -231,3 +233,4 @@ Mỗi tập (từ Tập 9: từ 90s = 9 clip × 10s trở lên; Tập 1–7: 30s
 | 10 | [tap-10/](tap-10/README.md) | Tôm rim ba chỉ · Thưởng một cây |
 | 11 | [tap-11/](tap-11/README.md) | Mực nhồi thịt sốt cà chua · Thưởng một tờ bự nhứt |
 | 12 | [tap-12/](tap-12/README.md) | Cánh gà chiên nước mắm · Thưởng một chiếc nhẫn |
+| 13 | [tap-13/](tap-13/README.md) | Thịt ba chỉ quay giòn bì bằng chảo · Thưởng một chiếc xe |

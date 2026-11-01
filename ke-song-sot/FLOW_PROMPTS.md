@@ -33,16 +33,16 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 Các UUID trên là reference danh tính đã có, không phải xác nhận rằng mọi ảnh biến thể đã được tạo. Trước khi render, kiểm tra ảnh đúng tuổi/trang phục, đặc biệt Sơn 20 tuổi, Bà Hai 35 tuổi và các giai đoạn nhiều năm sau. Không tạo thêm nhân vật mới cho mỗi bộ đồ.
 
 - **SON** → `@Son`, 45 tuổi: cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling.
-- **SON_P** → `@Son`, 45 tuổi: recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster.
+- **SON_P** → `@Son`, 45 tuổi: recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes.
 - **SON_S** → `@Son`, 45 tuổi: present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket.
 - **SON_Y** → `@Son`, 20 tuổi: distant past age 20, black hair without grey, rain-damp plain dark shirt and worn dark trousers, BARE hands.
 - **SON_Y_S** → `@Son`, 20 tuổi: distant past age 20, black hair without grey, plain black suit, bare hands before first doorway, new black leather gloves kept in pocket until the exit.
 - **SON_O** → `@Son`, 65 tuổi: later years age 65, older weathered hands, faded olive field jacket, weathered dark-olive canvas backpack slung over left shoulder, bare hands, frame below shoulders only without a face reveal.
-- **MAY** → `@May`, 38 tuổi: plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt.
+- **MAY** → `@May`, 38 tuổi: plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt.
 - **MAY_C** → `@May`, 38 tuổi: dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible.
 - **MAY_O** → `@May`, 58 tuổi: older face age 58, more silver in the same short haircut, plain khaki shirt, dark trousers, ordinary motorcycle helmet held at her side when specified.
 - **HA** → `@Ha`, 32 tuổi: cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals.
-- **HA_D** → `@Ha`, 32 tuổi: plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury.
+- **HA_D** → `@Ha`, 32 tuổi: plain grey cotton dress, loose natural hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, composed and unharmed.
 - **HA_R** → `@Ha`, 32 tuổi: same grey cotton dress and thin sandals after rescue, recovered long torn pale-blue silk scarf draped warmly over shoulders, no white blouse or jeans yet.
 - **HA_N** → `@Ha`, 32 tuổi: after a stated clothing change at the station, borrowed clean white blouse, blue jeans, flat sandals, long pale-blue silk scarf carried or worn.
 - **HA_O** → `@Ha`, 52 tuổi: older face age 52, long hair with a little grey tied back, cream work blouse, forest-green florist apron, the same pale-blue silk scarf.
@@ -63,7 +63,7 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - Sơn áo ô liu ở hiện tại đầu phim, vest tay trần ở 21.5–27 và 35–55. Hồi tưởng vẫn đúng biến thể riêng. Băng cổ tay TRÁI từ 25.1; tay phải không bị thương. Không cài hoa trong cao trào hiện tại.
 - Hạ váy xám đến hết 53, nhận lại khăn ở 52.5, thay đồ trắng/jean tại đồn trước 54.1. Trang phục sau cứu không tự đổi ngay khi thoát khỏi Kiên.
 - Mây dùng đúng hai còng trong chuyến thành phố: 23.5 và 24.5. Còng Dũng bị cắt xích ở 24.6, không biến thành còng dùng lại được. Mây nhận hai còng mới ở 35.1; một giữ Dũng, một giữ Sơn. Tổ hỗ trợ giữ Kiên bằng còng của họ.
-- Vũ khí của Sơn được giao toàn bộ cho Mây ở 28.4. Anh không mang súng ở cảng/hải đăng. Súng Kiên được thu làm vật chứng, không bị ném xuống biển.
+- Hộp khóa niêm phong của Sơn được giao toàn bộ cho Mây ở 28.4. Anh đi tay không ở cảng/hải đăng. Hộp khóa của Kiên được thu làm vật chứng, không bị ném xuống biển.
 - Tê là chất hư cấu, gây bất động còn thở, thời gian hồi phục không cố định. Không dùng làm giả chết, không có mốc 38/40 phút hoặc chỉ dẫn áp dụng thực tế. Phản diện biết đúng thuốc của chúng.
 - Bảy vạch: 01→1; 07→2; 12→3; 19→4; 28.5 bù hai ngày đi thành phố→6; 34.1→7. Hạ không bắt đầu một dãy đếm tù mới ở kết phim.
 - Hải đăng: cửa chính phía đông; cửa kỹ thuật bắc; lan can biển phía nam. Mây thử đèn ở 16.5, Hạ giữ cửa bằng kẹp ở 45.4, tổ hỗ trợ vào ở 48.5, bật đèn theo lệnh ở 51.1.
@@ -81,31 +81,31 @@ Các UUID trên là reference danh tính đã có, không phải xác nhận r�
 - **USB_COPY:** Separate working USB copy of the original, used with the borrowed laptop. Original stays in evidence.
 - **TOKEN:** USB-shaped hardware security token from the safe; NOT the metal door key.
 - **RECEIPT:** Dispatch receipt with seven dated boxes and a ship stamp, no readable generated text.
-- **TIN:** Dented fitted tin containing three sealed fictional Tê vials, no opening or use instructions.
-- **VIAL:** Fictional Tê device or sealed vial associated with the attackers. No real substance, dose or application technique.
-- **VIAL_SAMPLE:** ONE unopened sample carton filmed on its original shelf, then sealed as evidence; no recipe or usable label.
-- **SCARF:** One long pale-blue silk scarf, intact in the past before abduction.
+- **TIN:** Dented fitted tin holding three sealed grey sample cylinders; it stays closed.
+- **VIAL:** The fictional Tê sample: a slim sealed grey cylinder with an unusual locking cap, the same design every time; never opened on screen, no label.
+- **VIAL_SAMPLE:** ONE unopened plain sample carton on its original shelf, then sealed as evidence; no readable label.
+- **SCARF:** One long pale-blue silk scarf, intact in the past.
 - **SCARF_FRAGMENT:** Short torn end of Hạ scarf, recovered by Sơn at the latch, later sealed with Mây. Not a full scarf.
 - **SCARF_REMAINDER:** Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
 - **MARKS:** Exactly one tally per story day at cabin frame: 1 at scene 1, 2 at 7, 3 at 12, 4 at 19, 6 after 28.5, 7 after 34.1.
-- **GUN_CASE:** Locked handgun case, no discharge. Sơn transfers complete case and key to Mây at 28.4 and remains unarmed thereafter.
+- **GUN_CASE:** Sơn's locked black hard-shell case with its small key, never opened on screen. He hands the whole case and key to Mây at 28.4 and never carries it again.
 - **GLOVES:** One pair of black gloves first gifted twenty-five years ago; present-day pair folded into the open backpack on the cabin cot at 35.4; the bag is zipped shut at 38.6.
 - **HAIRCLIP:** Hạ silver hair clip, deliberately wedged into service-hatch latch at 45.4, recovered at 48.5 and logged at 54.5.
 - **LILY:** One white lily from Hạ family-home vase, wrapped at 57.5 and held at the public walkway during departure.
 - **BACKPACK:** Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
 - **DUTY_POUCH:** Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - **DAYPACK:** Mây's compact black tactical daypack/backpack worn over her denim jacket during the city & river-factory mission (Scenes 19.5–27.6), holding evidence sleeves and borrowed tools.
-- **CUFFS:** Standard steel police handcuffs carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
-- **TOOL_BAG:** Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
-- **MED_BAG:** Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with airway/breathing-support kit (no miracle antidote syringe).
+- **CUFFS:** Standard steel duty wrist-clasps carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
+- **TOOL_BAG:** Dũng's heavy black canvas shoulder work bag strapped across his torso, holding his work gear and the small sealed cylinder.
+- **MED_BAG:** Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with an oxygen mask and breathing-support kit.
 - **CLIPBOARD:** Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
 - **COFFEE_TRAY:** Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
-- **KIEN_GUN:** Kiên's compact black handgun, always held low in his LEFT hand with the muzzle toward the floor while his right hand grips Hạ or the hatch; never fired, no muzzle flash; dropped at 51.3 and lifted by the grip into an evidence bag by Mây at 51.5, never thrown into the sea.
+- **KIEN_GUN:** Kiên's compact black metal key-case, held low beside his LEFT thigh the whole time while his right hand holds Hạ's arm or the hatch; never raised toward anyone; dropped at 51.3 and lifted into an evidence bag by Mây at 51.5, never thrown into the sea.
 - **HOUSE_KEY:** Old brass key of Hạ's family house by the harbour, kept by Mây in her duty pouch until she lays it on the station table at 54.6; Hạ's own key afterwards.
 - **MAY_FOLDER:** Mây's own thin grey card investigation folder, held by her alone; never confused with Thành's dark leather evidence folder.
 
 ## Âm thanh và bản dọc
 
-Giữ cùng giọng cho mỗi danh tính. J/L-cut thực hiện trên timeline bằng các track ambience tách rời; không yêu cầu model tạo hai địa điểm trong một clip. Dùng một bộ ambience xuyên cảnh, không reset nhạc ở mỗi mười giây. Với 40–43, làm reframe dọc riêng vì crop giữa sẽ mất một phe và con tin.
+Giữ cùng giọng cho mỗi danh tính. J/L-cut thực hiện trên timeline bằng các track ambience tách rời; không yêu cầu model tạo hai địa điểm trong một clip. Dùng một bộ ambience xuyên cảnh, không reset nhạc ở mỗi mười giây. Với 40–43, làm reframe dọc riêng vì crop giữa sẽ mất một phe và người bị giữ.
 
 Sau render, xem từng cặp clip và các ranh giới cảnh. Nếu có frame đệm lặp thì trim đúng phần đệm, không cắt mất động tác. Không kéo dài tĩnh để ép bản dựng thành đúng 60:00.

@@ -29,7 +29,8 @@ from agent.config import (
     FLOW_PROJECT_ID, FLOW_ALLOW_DEGRADED,
     DEFAULT_PAYGATE_TIER,
     FLOW_GENERATION_MIN_INTERVAL_S, FLOW_GENERATION_MAX_CONCURRENT,
-    FLOW_UNUSUAL_ACTIVITY_COOLDOWN_S, FLOW_GENERATION_HOLD_PATH,
+    FLOW_UNUSUAL_ACTIVITY_COOLDOWN_S, FLOW_UNUSUAL_ACTIVITY_MAX_COOLDOWN_S,
+    FLOW_GENERATION_HOLD_PATH,
 )
 from agent import config as _config
 from agent.services import flow_batch as fb
@@ -75,6 +76,8 @@ class FlowClient:
         self._generation_last_unusual_at: Optional[float] = None
         self._generation_last_unusual_rpc: Optional[str] = None
         self._generation_hold_reason: Optional[str] = None
+        # Unusual-activity blocks since the last accepted generation.
+        self._generation_unusual_strikes = 0
         self._load_generation_hold()
         # WS stats
         self._ws_connect_count = 0
@@ -226,6 +229,7 @@ class FlowClient:
                 "reason": reason,
                 "rpc": rpcid,
                 "at": self._generation_last_unusual_at,
+                "strikes": self._generation_unusual_strikes,
             }))
             tmp.replace(FLOW_GENERATION_HOLD_PATH)
         except OSError as exc:
@@ -243,6 +247,10 @@ class FlowClient:
             return
         if remaining <= 0:
             return
+        try:
+            self._generation_unusual_strikes = max(0, int(hold.get("strikes") or 0))
+        except (TypeError, ValueError):
+            pass
         self._generation_unusual_until = time.monotonic() + remaining
         self._generation_last_unusual_at = hold.get("at")
         self._generation_last_unusual_rpc = hold.get("rpc")
@@ -268,6 +276,7 @@ class FlowClient:
             "cooldown_active": remaining > 0,
             "cooldown_remaining_s": round(remaining, 3),
             "cooldown_reason": self._generation_hold_reason if remaining > 0 else None,
+            "unusual_activity_strikes": self._generation_unusual_strikes,
             "last_unusual_activity_at": self._generation_last_unusual_at,
             "last_unusual_activity_rpc": self._generation_last_unusual_rpc,
         }
@@ -638,13 +647,20 @@ class FlowClient:
                 else:
                     result["error"] = "[HIJACK] extension_hijack_detected"
             elif is_unusual:
-                self._set_generation_hold(
-                    FLOW_UNUSUAL_ACTIVITY_COOLDOWN_S, "unusual_activity", rpcid,
+                self._generation_unusual_strikes += 1
+                hold_s = min(
+                    FLOW_UNUSUAL_ACTIVITY_COOLDOWN_S * 2 ** (self._generation_unusual_strikes - 1),
+                    FLOW_UNUSUAL_ACTIVITY_MAX_COOLDOWN_S,
                 )
+                self._set_generation_hold(hold_s, "unusual_activity", rpcid)
                 logger.warning(
-                    "Google unusual-activity block detected; pausing generation submits for %.0fs",
-                    FLOW_UNUSUAL_ACTIVITY_COOLDOWN_S,
+                    "Google unusual-activity block detected (strike %d); pausing generation submits for %.0fs",
+                    self._generation_unusual_strikes, hold_s,
                 )
+            elif not result.get("error") and not (
+                isinstance(result.get("status"), int) and result["status"] >= 400
+            ):
+                self._generation_unusual_strikes = 0
             return result
         finally:
             self._generation_slots.release()
@@ -723,12 +739,15 @@ class FlowClient:
         if not operation_id:
             return
         if len(self._operation_projects) > 512:
-            self._operation_projects.clear()
-        self._operation_projects[operation_id] = project_id
+            oldest_op = next(iter(self._operation_projects))
+            self._operation_projects.pop(oldest_op, None)
+        if project_id:
+            self._operation_projects[operation_id] = project_id
         resolved_title = title or self.extract_clip_title_from_prompt(prompt)
         if resolved_title:
             if len(self._operation_titles) > 512:
-                self._operation_titles.clear()
+                oldest_title_op = next(iter(self._operation_titles))
+                self._operation_titles.pop(oldest_title_op, None)
             self._operation_titles[operation_id] = resolved_title
 
     # ─── High-Level Batch Methods ────────────────────────────────
@@ -980,7 +999,7 @@ class FlowClient:
             "no upsampler rpc appears in the new frontend's captures",
         )}
 
-    async def check_video_status(self, operations: list[dict]) -> dict:
+    async def check_video_status(self, operations: list[dict], project_id: str | None = None) -> dict:
         """One poll round for each submitted operation.
 
         Three signals have to agree before a clip can be downloaded, and they
@@ -1005,20 +1024,27 @@ class FlowClient:
                 out.append({"operation": {}, "status": "MEDIA_GENERATION_STATUS_FAILED",
                             "error": "operation carried no name"})
                 continue
+            entry_pid = (
+                entry.get("project_id")
+                or (entry.get("operation") or {}).get("project_id")
+                or project_id
+            )
+            if entry_pid:
+                self._remember_operation(op_id, entry_pid)
             try:
-                out.append(await self._poll_batch_operation(op_id))
+                out.append(await self._poll_batch_operation(op_id, project_id=entry_pid))
             except Exception as e:
                 # A hiccup on one poll round costs a round, not the job.
                 logger.warning("Operation %s poll failed: %s", op_id[:20], e)
                 out.append(_as_pending_operation(op_id, error=str(e)))
         return {"status": 200, "data": {"operations": out}}
 
-    async def _poll_batch_operation(self, operation_id: str) -> dict:
+    async def _poll_batch_operation(self, operation_id: str, project_id: str | None = None) -> dict:
         media_id = self._operation_media.get(operation_id)
         complaint = None
 
         if not media_id:
-            media_id, complaint = await self._find_operation_media(operation_id)
+            media_id, complaint = await self._find_operation_media(operation_id, project_id=project_id)
             if not media_id:
                 return _as_pending_operation(operation_id, error=complaint)
             logger.info("Matched media_id=%s for op=%s", media_id, operation_id)
@@ -1072,7 +1098,7 @@ class FlowClient:
             "status": "MEDIA_GENERATION_STATUS_SUCCESSFUL",
         }
 
-    async def _find_operation_media(self, operation_id: str) -> tuple[str | None, str | None]:
+    async def _find_operation_media(self, operation_id: str, project_id: str | None = None) -> tuple[str | None, str | None]:
         """Ask the operation how it is going, then the listing where its media is.
 
         The listing is the authority — the poll has been seen to never report a
@@ -1083,7 +1109,7 @@ class FlowClient:
         rounds = self._operation_polls.get(operation_id, 0) + 1
         self._operation_polls[operation_id] = rounds
 
-        project_id = self._operation_projects.get(operation_id) or FLOW_PROJECT_ID
+        project_id = project_id or self._operation_projects.get(operation_id) or FLOW_PROJECT_ID
         if not project_id:
             try:
                 from agent.db import crud

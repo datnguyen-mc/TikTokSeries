@@ -6,13 +6,13 @@ Tuổi hiện tại: Sơn 45, Mây 38, Hạ 32, Bà Hai 60. Quá khứ xa cách 
 
 Muốn đưa Hạ về, cần chịu trách nhiệm về việc mình đã làm. Từ nhìn đường để thoát sang lựa chọn ở lại khai. Không cứu người để được xóa tội. Bà Hai nhận anh khi 20 tuổi, cách hiện tại 25 năm.
 
-Nhận diện: Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose.
+Nhận diện: Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose.
 Giọng xuyên phim: low, crisp, clear Southern Vietnamese male voice.
 Lời người dẫn chuyện khi xuất hiện lần đầu (01.1): Sơn, bốn lăm tuổi. Giang hồ gọi là Bóng Ma.
 
 Biến thể và prompt ảnh tham chiếu:
 - **SON:** Photorealistic reference of the SAME approved Vietnamese identity, age 45, cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Plain grey studio background, full body and portrait, no text, no real actor likeness.
-- **SON_P:** Photorealistic reference of the SAME approved Vietnamese identity, age 45, recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **SON_P:** Photorealistic reference of the SAME approved Vietnamese identity, age 45, recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **SON_S:** Photorealistic reference of the SAME approved Vietnamese identity, age 45, present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **SON_Y:** Photorealistic reference of the SAME approved Vietnamese identity, age 20, distant past age 20, black hair without grey, rain-damp plain dark shirt and worn dark trousers, BARE hands. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **SON_Y_S:** Photorealistic reference of the SAME approved Vietnamese identity, age 20, distant past age 20, black hair without grey, plain black suit, bare hands before first doorway, new black leather gloves kept in pocket until the exit. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -20,14 +20,14 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Mây · @May
 
-Muốn tìm bạn và giữ thị trấn. Kiểm chứng trước khi hợp tác, bố trí hỗ trợ trước khi đi; trực tiếp dẫn cứu con tin và giữ luật sau cứu người.
+Muốn tìm bạn và giữ thị trấn. Kiểm chứng trước khi hợp tác, bố trí hỗ trợ trước khi đi; trực tiếp dẫn cứu người và giữ luật sau cứu người.
 
 Nhận diện: Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak.
 Giọng xuyên phim: firm, clear Southern Vietnamese female voice.
 Lời người dẫn chuyện khi xuất hiện lần đầu (03.2): Mây, công an Hòn Sóng. Thành, cấp phó.
 
 Biến thể và prompt ảnh tham chiếu:
-- **MAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **MAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel wrist-clasp at belt. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **MAY_C:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **MAY_O:** Photorealistic reference of the SAME approved Vietnamese identity, age 58, older face age 58, more silver in the same short haircut, plain khaki shirt, dark trousers, ordinary motorcycle helmet held at her side when specified. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
@@ -41,7 +41,7 @@ Lời người dẫn chuyện khi xuất hiện lần đầu (04.1): Người co
 
 Biến thể và prompt ảnh tham chiếu:
 - **HA:** Photorealistic reference of the SAME approved Vietnamese identity, age 32, cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals. Plain grey studio background, full body and portrait, no text, no real actor likeness.
-- **HA_D:** Photorealistic reference of the SAME approved Vietnamese identity, age 32, plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **HA_D:** Photorealistic reference of the SAME approved Vietnamese identity, age 32, plain grey cotton dress, loose natural hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, composed and unharmed. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **HA_R:** Photorealistic reference of the SAME approved Vietnamese identity, age 32, same grey cotton dress and thin sandals after rescue, recovered long torn pale-blue silk scarf draped warmly over shoulders, no white blouse or jeans yet. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **HA_N:** Photorealistic reference of the SAME approved Vietnamese identity, age 32, after a stated clothing change at the station, borrowed clean white blouse, blue jeans, flat sandals, long pale-blue silk scarf carried or worn. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **HA_O:** Photorealistic reference of the SAME approved Vietnamese identity, age 52, older face age 52, long hair with a little grey tied back, cream work blouse, forest-green florist apron, the same pale-blue silk scarf. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -82,7 +82,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Thành · @Phó Thành
 
-Từ người kiểm tra hồ sơ thành người bảo vệ tuyến dân và lần dấu cửa Hạ để lại. Sợ nhưng làm nhiệm vụ, không chỉ là con tin hoặc người gây cười.
+Từ người kiểm tra hồ sơ thành người bảo vệ tuyến dân và lần dấu cửa Hạ để lại. Sợ nhưng làm nhiệm vụ, không chỉ là người bị kẹt lại hoặc người gây cười.
 
 Nhận diện: Vietnamese man, skinny, round glasses, neat side-parted hair.
 Giọng xuyên phim: quick, polite, alert Southern Vietnamese male voice.
@@ -104,7 +104,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Ông Bảy · @Ông Bảy
 
-Bảo vệ người lạ vì từng thấy hành vi tử tế. Giữ lối cho dân, chuẩn bị xe cứu người, rồi trở lại bán cà phê; không cầm sào lao vào họng súng.
+Bảo vệ người lạ vì từng thấy hành vi tử tế. Giữ lối cho dân, chuẩn bị xe cứu người, rồi trở lại bán cà phê; không mạo hiểm đối đầu trực diện.
 
 Nhận diện: Vietnamese man, stocky, white moustache, deeply tanned face.
 Giọng xuyên phim: resonant, friendly elderly Southern Vietnamese male voice.

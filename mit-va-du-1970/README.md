@@ -29,3 +29,27 @@ Trở về căn nhà tre nghèo, Mit dần thay đổi, đi làm thuê, khuân s
 ## Định hướng bán hàng
 
 - Đồ trẻ em: cặp, sách vở, bút...
+
+## Danh sách tập
+
+| Tập | Tên tập | Thời lượng | Sản phẩm |
+| --- | --- | --- | --- |
+| [Tập 1](tap-1/README.md) | Nhà tre nghèo | 30s (3 clip) | Gợi nhu cầu: Nở chưa có tập vở |
+| [Tập 2](tap-2/README.md) | Kho báu dưới ruộng | 30s (3 clip) | — |
+| [Tập 3](tap-3/README.md) | Phú hộ | 30s (3 clip) | — |
+| [Tập 4](tap-4/README.md) | Ham vui phung phí | 30s (3 clip) | — |
+| [Tập 5](tap-5/README.md) | Trắng tay | 30s (3 clip) | — |
+| [Tập 6](tap-6/README.md) | Khuân sầu riêng | 30s (3 clip) | — |
+| [Tập 7](tap-7/README.md) | Ngày đầu đi học của Nở | 30s (3 clip) | Cặp, tập vở, bút |
+| [Tập 8](tap-8/README.md) | Bó hoa dại 20/10 | 30s (3 clip) | — |
+| [Tập 9](tap-9/README.md) | Nở dạy ba học chữ | 30s (3 clip) | Tập vở, bút |
+| [Tập 10](tap-10/README.md) | Vé số độc đắc | 30s (3 clip) | Hộp bút màu |
+| [Tập 11](tap-11/README.md) | Chiếc cặp mới của Nở | 30s (3 clip) | Cặp sách |
+| [Tập 12](tap-12/README.md) | Chuyện cổ tích của ba | 30s (3 clip) | Sách truyện tranh |
+| [Tập 13](tap-13/README.md) | Con diều vẽ cả nhà | 50s (5 clip) | Hộp bút màu |
+| [Tập 14](tap-14/README.md) | Bánh xèo ba đổ | 40s (4 clip) | — |
+| [Tập 15](tap-15/README.md) | Cái răng đầu tiên | 40s (4 clip) | Tập vở, bút |
+| [Tập 16](tap-16/README.md) | Tát mương bắt cá | 50s (5 clip) | Tập vở, hộp bút màu |
+| [Tập 17](tap-17/README.md) | Con heo đất ống tre | 50s (5 clip) | Tập vở, hộp bút màu |
+| [Tập 18](tap-18/README.md) | Chèo xuồng bán dừa khô | 50s (5 clip) | Tập vở, bút |
+| [Tập 19](tap-19/README.md) | Chuối nếp nướng lá chuối & Bài toán chia phần của Nở | 50s (5 clip) | Tập vở, hộp bút màu |

@@ -15,19 +15,31 @@ from collections import Counter
 from pathlib import Path
 from uuid import UUID
 
+from film_bible import (
+    CHARACTER_LOCK,
+    CINEMATIC_STYLE,
+    ENVIRONMENT_LOCK,
+    GLOBAL_FILM_BIBLE,
+    OBJECT_LOCK,
+    OMNI_MODEL_CAPABILITIES,
+    PHYSICS_RULES,
+    VEHICLE_LOCK,
+    select_relevant_bible_slice,
+)
+
 BASE_DIR = Path(__file__).resolve().parent
 CAMERAS = {
     'W': '35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.',
-    'M': '50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without dead air.',
+    'M': '50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without empty pauses.',
     'C': '85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.',
     'I': '85mm detail shot. Hands and the relevant object move decisively from 0.0s and stay spatially readable.',
     'T': '35mm lateral tracking shot moving with the subject in the established direction. No whip pan, drone move or reverse-axis cut.',
-    'H': '35mm controlled handheld medium-wide with kinetic energy. Keep the entire defensive action readable from one side of the axis.',
+    'H': '35mm steady handheld medium-wide that moves with the people. Keep everyone\'s positions and hands readable from one side of the axis.',
     'O': '50mm over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.',
     'P': '50mm steady, purposeful straight push-in, no lens change, no orbit. Tension builds while the final expression stays readable.',
     'E': '24mm wide-angle cinematic opening move: one smooth continuous low lateral track that travels with the moving vehicle, decelerates with it and settles at eye level as it stops. No drone, no whip pan, no cut.',
 }
-SHUTTER = {'H': 'Crisp 150-degree shutter for sharp action'}
+SHUTTER = {'H': 'Crisp 150-degree shutter for clear movement'}
 CLEAN_FRAME = ('Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, '
                'news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the '
                'story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; '
@@ -38,11 +50,14 @@ BODY_STANDARD = ('Body mechanics: to pick something up from low down a person be
                  'visible until the receiver\'s fingers close; feet never slide; every hand keeps five natural fingers.')
 FACE_STANDARD = ('Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, '
                  'jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, '
-                 'both eyes together on the stated eyeline, no dead stare, no rolling or crossed eyes, tears only when written; '
+                 'both eyes together on the stated eyeline, no fixed blank stare, no rolling or crossed eyes, tears only when written; '
                  'natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.')
 VOICE_LABELS = {'BROKER':'the unknown caller','RADIO':'the radio voice','EXTRA':'the background speaker','OFFICER':'the assisting officer'}
 # Words that invite the model to frame a shot as television news.
 BROADCAST_WORDS = re.compile(r'\b(TV|television|broadcast\w*|newscast|news|tivi|truyền hình|thời sự|bản tin|phóng viên|báo đài)\b', re.I)
+DUPLICATE_CHAR_PAIR = re.compile(
+    r"@(Son|May|Ha|HaiNgoc|Dũng|Vũ Kiên|Phó Thành|Bác sĩ Linh|Ông Bảy)\b[\s\S]{0,140}?\band\s+@\1\b"
+)
 MAX_CLIP_SYLLABLES = 30  # FLOW_GUIDE: Omni rushes or truncates more speech than this in 10 s
 BEATS = re.compile(r'^Beat 1 \(0\.0–(\d+(?:\.\d)?)s\): .+ Beat 2 \(\1–(\d+(?:\.\d)?)s\): .+ Beat 3 \(\2–10\.0s\): .+$', re.S)
 TRANSITIONS = {
@@ -93,6 +108,47 @@ def clock(seconds: int) -> str:
 
 def base_key(plan: dict, key: str) -> str:
     return plan['looks'][key][0]
+
+
+def select_shot_references(plan: dict, c: dict) -> list[str]:
+    """Return deduplicated reference media_ids for active characters and photo refs (max 7)."""
+    mids: list[str] = []
+    for look_key in c.get('characters', []):
+        b = base_key(plan, look_key)
+        mid = plan['identities'][b]['media_id']
+        if mid not in mids:
+            mids.append(mid)
+    for pic_key in c.get('image_references', []):
+        mid = plan['identities'][pic_key]['media_id']
+        if mid not in mids:
+            mids.append(mid)
+    return mids[: OMNI_MODEL_CAPABILITIES['max_reference_images']]
+
+
+def determine_omni_workflow(plan: dict, c: dict) -> str:
+    """Select the appropriate Google Flow Omni generation workflow for a 16:9 YouTube shot (no last-frame injection)."""
+    if select_shot_references(plan, c):
+        return 'ingredients_reference_to_video'
+    return 'text_to_video'
+
+
+def auto_repair_shot(plan: dict, c: dict, previous: dict | None = None) -> dict:
+    """Repair common shot state defects before validation or prompt compilation."""
+    repaired = copy.deepcopy(c)
+    if repaired.get('transition') == 'CONTINUE' and previous is not None:
+        repaired['start_frame'] = previous['end_frame']
+        repaired['location'] = previous['location']
+        repaired['camera'] = previous['camera']
+        repaired['story_time'] = previous['story_time']
+    for field in ('start_frame', 'end_frame'):
+        val = repaired.get(field, '')
+        val = re.sub(r'\s*Final physical lock:.*$', '', val).strip()
+        val = re.sub(r'\s*Framing:.*$', '', val).strip()
+        repaired[field] = val
+    for field in ('start_frame', 'action', 'end_frame'):
+        val = repaired.get(field, '')
+        repaired[field] = DUPLICATE_CHAR_PAIR.sub(r'@\1', val)
+    return repaired
 
 
 def normalize(plan: dict) -> list[dict]:
@@ -160,6 +216,8 @@ def validate(plan: dict, shots: list[dict]) -> None:
                  *c.get('cinematic',{}).values(),*(d['text'] for d in c['dialogue'])]
         if any(BROADCAST_WORDS.search(t) for t in written):
             errors.append(f"{c['id']}: TV/news wording invites a broadcaster logo or news graphics")
+        if any(DUPLICATE_CHAR_PAIR.search(t) for t in written):
+            errors.append(f"{c['id']}: duplicate character reference paired with itself")
         if c['location'] not in plan['locations'] or c['camera'] not in CAMERAS:
             errors.append(f"{c['id']}: unknown location/camera")
         if c['transition'] not in TRANSITIONS:
@@ -276,15 +334,18 @@ def person_lock(plan: dict, key: str, c: dict) -> str:
     notes = []
     at = (c['scene'],c['number'])
     if key == 'MAY' and (24,6) <= at <= (35,1):
-        outfit = outfit.replace(', steel handcuffs at belt','')
-        notes.append('no handcuffs on her belt: both city pairs were used at 23.5 and 24.5'
+        outfit = outfit.replace(', steel handcuffs at belt','').replace(', steel wrist-clasp at belt','')
+        notes.append('no wrist-clasps on her belt: both city pairs were used at 23.5 and 24.5'
                      + ('; two fresh pairs are handed to her in this shot' if at == (35,1) else '; fresh pairs arrive at 35.1'))
+    if key == 'MAY' and (53,4) <= at <= (53,6):
+        outfit = outfit.replace(', steel handcuffs at belt','').replace(', steel wrist-clasp at belt','')
+        notes.append('no wrist-clasps on her belt: the fresh pairs closed on Dũng at 46.4 and on Sơn at 53.3')
     if key == 'MAY_C':
-        notes.append('two steel handcuff pairs at the back of her belt under the denim jacket' if at < (23,5) else
-                     'two steel handcuff pairs at her belt; she uses one in this shot' if at == (23,5) else
-                     'one steel handcuff pair left at the back of her belt' if at < (24,5) else
-                     'her last steel handcuff pair, used in this shot' if at == (24,5) else
-                     'no handcuffs left: both city pairs are in use')
+        notes.append('two steel wrist-clasp pairs at the back of her belt under the denim jacket' if at < (23,5) else
+                     'two steel wrist-clasp pairs at her belt; she uses one in this shot' if at == (23,5) else
+                     'one steel wrist-clasp pair left at the back of her belt' if at < (24,5) else
+                     'her last steel wrist-clasp pair, used in this shot' if at == (24,5) else
+                     'no wrist-clasps left: both city pairs are in use')
     if base == 'DUNG' and at >= (46,6):
         outfit = outfit.replace(', heavy black canvas shoulder bag for work gear','')
         notes.append('no work bag: it was confiscated as evidence')
@@ -297,19 +358,19 @@ def person_lock(plan: dict, key: str, c: dict) -> str:
         if (25 <= c['scene'] <= 27 or c['scene'] >= 29 or
                 c['scene'] == 28 and c['number'] >= 4) and c['scene'] < 60:
             if key != 'SON_P':
-                notes.append('LEFT wrist bandage from 25.1 onward; right hand uninjured')
-        if 28 <= c['scene'] < 60 and key != 'SON_P':
-            notes.append('unarmed: complete handgun case was surrendered at 28.4')
+                notes.append('white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare')
+        if (28,4) < at and c['scene'] < 60 and key != 'SON_P':  # 28.4 itself still shows the hand-over
+            notes.append('empty-handed: his locked case was handed to Mây at 28.4 and is not with him')
         if c['scene'] == 38:
             notes.append('current-day bare hands in this return from memory')
     if base == 'DUNG' and (29,1) <= (c['scene'],c['number']) < (46,4):
-        notes.append('cut original cuff ring remains on RIGHT wrist; no usable loose cuff end')
+        notes.append('cut original clasp ring remains on RIGHT wrist; no usable loose clasp end')
     if base == 'DUNG' and (c['scene'],c['number']) == (46,4):
-        notes.append('the cut old cuff ring is still on his RIGHT wrist while fresh custody cuffs are applied in this shot')
+        notes.append('the cut old clasp ring is still on his RIGHT wrist while fresh custody wrist-clasps are applied in this shot')
     if base == 'DUNG' and (c['scene'],c['number']) >= (46,5):
-        notes.append('in fresh custody cuffs since 46.4; the cut old ring has been removed and logged separately, not reused')
+        notes.append('in fresh custody wrist-clasps since 46.4; the cut old ring has been removed and logged separately, not reused')
     if base == 'THANH' and c['scene'] == 29:
-        notes.append('one glasses temple arm bent in the struggle, not yet taped')
+        notes.append('one glasses temple arm bent at the stall, not yet taped')
     if base == 'THANH' and (30,1) <= (c['scene'],c['number']) < (56,5):
         notes.append('one glasses temple arm bent, held by tape after rescue; new glasses only at 56.5')
     extra = ' ' + '; '.join(notes) + '.' if notes else ''
@@ -406,7 +467,7 @@ def prop_detail(plan: dict, key: str, c: dict) -> str:
         else:  # unchanged in this shot: whatever the latest earlier cut left on the frame
             before=after=max((a for k,(_,a) in changes.items()
                               if tuple(map(int,k.split('.')))<(c['scene'],c['number'])),default=0)
-        return f'Same wooden doorframe. Exactly {before} tally marks at the start and {after} at the end of THIS shot (simple parallel vertical knife grooves side by side, never a crossed five-bar gate bundle). No other tally row.'
+        return f'Same wooden doorframe. Exactly {before} tally marks at the start and {after} at the end of THIS shot (simple parallel vertical carved grooves side by side, never a crossed five-bar gate bundle). No other tally row.'
     if key=='WATCH':
         detail='ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch.'
         if c['scene'] in (6,33):
@@ -423,7 +484,7 @@ def prop_detail(plan: dict, key: str, c: dict) -> str:
             return 'The SAME single silver watch. Lid CLOSED in start frame and opened only during this action; cracked glass and small photo of Hạ revealed inside. Hands remain stopped. No second watch.'
         if c['id']=='52.6':
             return 'The SAME single silver watch: lid OPEN at the start with cracked glass and the small photo of Hạ, pressed shut once during this shot; hands running. It is never opened again.'
-        running = 'Starts stopped and resumes only when wound in this shot.' if c['id']=='52.3' else 'Hands already running; do not repeat opening or winding.'
+        running = 'Starts stopped and resumes only when its crown is turned in this shot.' if c['id']=='52.3' else 'Hands already running; do not repeat opening or winding.'
         return 'The SAME single silver watch, lid OPEN, cracked glass, small photo of Hạ inside lid. '+running
     return plan['props'][key]
 
@@ -432,7 +493,7 @@ def transition_text(c: dict, previous: dict|None) -> str:
     if previous is None:
         return 'Film opening. Begin directly at 0.0s inside the live coastal road setting with the vehicle already moving; no logo, title, recap, studio backdrop, or fade-in.'
     if c['transition']=='CONTINUE':
-        return "Use the previous clip's last frame as this clip's opening frame at 0.0s. Preserve lens, axis, positions, light and props. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at 0.0s."
+        return "Begin directly at 0.0s in the exact same location, lens, axis, positions, light and props as the previous shot ends. Advance to the new action immediately at 0.0s; do not replay the preceding gesture or words. No freeze at 0.0s."
     return {
         'OPEN':'Begin directly at 0.0s in the stated time and place with the composition, lighting and movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.',
         'CUT':'Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.',
@@ -444,11 +505,7 @@ def transition_text(c: dict, previous: dict|None) -> str:
 
 def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None) -> str:
     continuous = c['transition']=='CONTINUE'
-    if continuous:
-        head = ("Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. "
-                "Same characters, same outfits, same location, same lighting direction and color grade. No time skip, no jump cut at the start; the new action begins immediately.")
-    else:
-        head = '[FORMAT]'
+    head = '[FORMAT]'
     location, sound = plan['locations'][c['location']]
     sound = c.get('sound_override', sound)
     locks = '\n'.join(person_lock(plan,k,c) for k in c['characters']) or 'No named lead visible. Only the unnamed background people explicitly specified below.'
@@ -486,20 +543,30 @@ def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None
         camera_contract='One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.'
     shutter=SHUTTER.get(c['camera'],'Natural 180-degree shutter')
     clip_avoid=f"\nIn this shot also do not show or do: {c['avoid']}." if c.get('avoid') else ''
+    bible_slice = select_relevant_bible_slice(plan, c)
+    axis_note = bible_slice['location'].get('orientation_axis', '')
+    axis_line = f"\nSpatial axis: {axis_note}" if axis_note else ''
+    vehicles_in_shot = [
+        f"- {v['name']} ({v['type']}): {v['color_and_material']}. {v['Configuration']}. Physics: {v['physics']}"
+        for v in bible_slice.get('vehicles', [])
+    ]
+    vehicle_block = (
+        "\n[VEHICLE LOCK — persistent design & physics]\n" + "\n".join(vehicles_in_shot) + "\n"
+        if vehicles_in_shot else ""
+    )
     return f"""{head}
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese coastal mystery and suspense drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 {CLEAN_FRAME}
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
 {locks}
 {note.strip()}
-{picture_refs}
-
+{picture_refs}{vehicle_block}
 [TIMELINE AND LOCATION]
 Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c['story_time']}.
 {location}
-{c['lighting']}
+{c['lighting']}{axis_line}
 {scene_intro}{intent}
 
 [CONTINUITY AT 0.0s — single uncut shot]
@@ -514,7 +581,7 @@ Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c[
 
 [ACTION — 0–10s, one evolving take]
 {c['action']}
-Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue naturally through 10.0s.{rhythm}
+Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.{rhythm}
 {staging}
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -532,14 +599,14 @@ Reference only; enact only the current ACTION, not a future handover.
 
 [SOUND]
 Location bed: {sound}.{sound_specific}
-Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect; ambient sound continues naturally through 10.0s.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
 {end}
 {out}
 
 [AVOID]
-Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.{clip_avoid}
+Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, empty pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, or real actor likeness.{clip_avoid}
 """
 
 
@@ -679,14 +746,14 @@ def render_locks(plan: dict) -> str:
               '- Sơn áo ô liu ở hiện tại đầu phim, vest tay trần ở 21.5–27 và 35–55. Hồi tưởng vẫn đúng biến thể riêng. Băng cổ tay TRÁI từ 25.1; tay phải không bị thương. Không cài hoa trong cao trào hiện tại.',
               '- Hạ váy xám đến hết 53, nhận lại khăn ở 52.5, thay đồ trắng/jean tại đồn trước 54.1. Trang phục sau cứu không tự đổi ngay khi thoát khỏi Kiên.',
               '- Mây dùng đúng hai còng trong chuyến thành phố: 23.5 và 24.5. Còng Dũng bị cắt xích ở 24.6, không biến thành còng dùng lại được. Mây nhận hai còng mới ở 35.1; một giữ Dũng, một giữ Sơn. Tổ hỗ trợ giữ Kiên bằng còng của họ.',
-              '- Vũ khí của Sơn được giao toàn bộ cho Mây ở 28.4. Anh không mang súng ở cảng/hải đăng. Súng Kiên được thu làm vật chứng, không bị ném xuống biển.',
+              '- Hộp khóa niêm phong của Sơn được giao toàn bộ cho Mây ở 28.4. Anh đi tay không ở cảng/hải đăng. Hộp khóa của Kiên được thu làm vật chứng, không bị ném xuống biển.',
               '- Tê là chất hư cấu, gây bất động còn thở, thời gian hồi phục không cố định. Không dùng làm giả chết, không có mốc 38/40 phút hoặc chỉ dẫn áp dụng thực tế. Phản diện biết đúng thuốc của chúng.',
               '- Bảy vạch: 01→1; 07→2; 12→3; 19→4; 28.5 bù hai ngày đi thành phố→6; 34.1→7. Hạ không bắt đầu một dãy đếm tù mới ở kết phim.',
               '- Hải đăng: cửa chính phía đông; cửa kỹ thuật bắc; lan can biển phía nam. Mây thử đèn ở 16.5, Hạ giữ cửa bằng kẹp ở 45.4, tổ hỗ trợ vào ở 48.5, bật đèn theo lệnh ở 51.1.', '',
               '## Thư viện đạo cụ', '']
     for k,v in plan['props'].items():lines.append(f'- **{k}:** {v}')
     lines += ['', '## Âm thanh và bản dọc', '',
-              'Giữ cùng giọng cho mỗi danh tính. J/L-cut thực hiện trên timeline bằng các track ambience tách rời; không yêu cầu model tạo hai địa điểm trong một clip. Dùng một bộ ambience xuyên cảnh, không reset nhạc ở mỗi mười giây. Với 40–43, làm reframe dọc riêng vì crop giữa sẽ mất một phe và con tin.', '',
+              'Giữ cùng giọng cho mỗi danh tính. J/L-cut thực hiện trên timeline bằng các track ambience tách rời; không yêu cầu model tạo hai địa điểm trong một clip. Dùng một bộ ambience xuyên cảnh, không reset nhạc ở mỗi mười giây. Với 40–43, làm reframe dọc riêng vì crop giữa sẽ mất một phe và người bị giữ.', '',
               'Sau render, xem từng cặp clip và các ranh giới cảnh. Nếu có frame đệm lặp thì trim đúng phần đệm, không cắt mất động tác. Không kéo dài tĩnh để ép bản dựng thành đúng 60:00.', '']
     return '\n'.join(lines)
 
@@ -694,14 +761,14 @@ def render_locks(plan: dict) -> str:
 def render_characters(plan: dict) -> str:
     arcs={
         'SON':'Muốn đưa Hạ về, cần chịu trách nhiệm về việc mình đã làm. Từ nhìn đường để thoát sang lựa chọn ở lại khai. Không cứu người để được xóa tội. Bà Hai nhận anh khi 20 tuổi, cách hiện tại 25 năm.',
-        'MAY':'Muốn tìm bạn và giữ thị trấn. Kiểm chứng trước khi hợp tác, bố trí hỗ trợ trước khi đi; trực tiếp dẫn cứu con tin và giữ luật sau cứu người.',
+        'MAY':'Muốn tìm bạn và giữ thị trấn. Kiểm chứng trước khi hợp tác, bố trí hỗ trợ trước khi đi; trực tiếp dẫn cứu người và giữ luật sau cứu người.',
         'HA':'Muốn trở về mở sạp hoa. Để mảnh khăn, gửi dấu qua video, trì hoãn Kiên, giữ cửa bằng kẹp và tự bước ra khỏi tay hắn. Sau vụ án bắt đầu đời sống riêng.',
         'HAINGOC':'Ơn nuôi dưỡng thành quyền sở hữu. Muốn lấy lại Sơn và đường hàng; chọn giữ Sơn khỏi Kiên ở cảng nhưng vẫn phải chịu trách nhiệm về việc bán người.',
         'DUNG':'Muốn được Bà Hai công nhận. Ghen với Sơn, giữ người theo lệnh rồi vượt lệnh dùng Tê. Cuối cùng không còn ai để nhận lệnh giữ nữa.',
         'KIEN':'Mục tiêu xuyên suốt là bịt lời Sơn và nuốt đường hàng của Bà Hai. Bẫy bắt thất bại thì giữ Hạ để ép Sơn quay lại, không đổi động cơ tùy cú lật.',
-        'THANH':'Từ người kiểm tra hồ sơ thành người bảo vệ tuyến dân và lần dấu cửa Hạ để lại. Sợ nhưng làm nhiệm vụ, không chỉ là con tin hoặc người gây cười.',
+        'THANH':'Từ người kiểm tra hồ sơ thành người bảo vệ tuyến dân và lần dấu cửa Hạ để lại. Sợ nhưng làm nhiệm vụ, không chỉ là người bị kẹt lại hoặc người gây cười.',
         'LINH':'Giữ người sống bằng theo dõi và hỗ trợ. Không hứa một phút tỉnh chính xác, không có thuốc giải thần kỳ xuất hiện để giải cốt truyện.',
-        'BAY':'Bảo vệ người lạ vì từng thấy hành vi tử tế. Giữ lối cho dân, chuẩn bị xe cứu người, rồi trở lại bán cà phê; không cầm sào lao vào họng súng.',
+        'BAY':'Bảo vệ người lạ vì từng thấy hành vi tử tế. Giữ lối cho dân, chuẩn bị xe cứu người, rồi trở lại bán cà phê; không mạo hiểm đối đầu trực diện.',
     }
     shots=normalize(plan)
     first=first_appearances(plan,shots)
@@ -746,7 +813,7 @@ def outputs(plan: dict, shots: list[dict]) -> dict[str,str]:
         'source_sha256':hashlib.sha256(json.dumps(plan,ensure_ascii=False,sort_keys=True).encode()).hexdigest(),
         'note':'Expected prompt fingerprints only. This manifest does not claim that videos were generated or approved. Existing unversioned renders must be reviewed/rerendered for v3.',
         'clips':[{'id':c['id'],'prompt':ref(c),'sha256':hashlib.sha256(result[ref(c)].encode()).hexdigest(),
-                  'mode':'frames' if c['transition']=='CONTINUE' else 'ingredients' if c['characters'] or c.get('image_references') else 'text',
+                  'mode':'ingredients' if c['characters'] or c.get('image_references') else 'text',
                   'previous':c['previous'],'transition':c['transition']} for c in shots],
     }
     result['RENDER_MANIFEST_V3.json']=json.dumps(manifest,ensure_ascii=False,indent=2)+'\n'

@@ -1,6 +1,6 @@
-# Kẻ Sống Sót: Bóng Ma · Cảnh 42: Bóng Ma Ngã Xuống
+# Kẻ Sống Sót: Bóng Ma · Cảnh 42: Bóng Ma Rã Rời
 
-Dũng dùng Tê giữ người sống, Sơn không tự làm giả chết.
+Ống Tê trong tay Dũng làm Sơn rã rời, buồn ngủ, phải ngồi tựa cọc neo nhưng vẫn thở.
 
 Phim hư cấu do AI tạo. Xem trọn mạch truyện trên bản phim dài.
 

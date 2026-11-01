@@ -1,4 +1,4 @@
-# Kẻ Sống Sót: Bóng Ma · Cảnh 14: Còng Và Bằng Chứng
+# Kẻ Sống Sót: Bóng Ma · Cảnh 14: Khóa Tay Và Bằng Chứng
 
 Sơn đưa bằng chứng kiểm chứng được, Mây nhận ra Hạ qua ảnh rời.
 

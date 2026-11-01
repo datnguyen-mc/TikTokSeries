@@ -318,6 +318,114 @@ DEFAULT_CHANNELS = [
             },
         ],
     },
+    {
+        "slug": "duong-dua-sinh-tu",
+        "name": "Đường Đua Sinh Tử: 10 Giây Tự Do",
+        "project_id": "f9738ca5-453b-4c72-98d3-630379a1fa2e",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/duong_dua_sinh_tu.py",
+        "series_dir": "duong-dua-sinh-tu",
+        "ep_prefix": "canh",
+        "description": "Phim hành động tốc độ cao 40 phút: sĩ quan cảnh sát chìm Tom thâm nhập đội đua xe đường phố của Micdo để điều tra chuỗi vụ chặn xe tải trên xa lộ, đứng giữa huy hiệu cảnh sát và tình anh em trong 10 giây tự do (16:9, 4 Tập × 10 Cảnh = 40 cảnh × 6 clip = 240 clips).",
+        "characters": [
+            {
+                "tag": "@Tom",
+                "name": "Tom (Bí danh Nơ)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Sĩ quan cảnh sát chìm 28 tuổi ẩn náu trong tiệm độ xe của Nese và quán Toto; tóc vàng ngắn, mắt xanh dương, sẹo mờ đuôi mày trái, áo thun trắng dính dầu mỡ / sơ mi denim xanh.",
+                "ref_prompt": "Full-body photorealistic character reference of @Tom, a 28-year-old Caucasian-American man, 183 cm, lean athletic build, short sandy-blonde hair, piercing blue eyes, light stubble, a faint small scar at the outer left eyebrow, grease-smudged white crew-neck tee, faded blue work jeans, worn brown work boots; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Micdo",
+                "name": "Micdo (Thủ lĩnh)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Thủ lĩnh đội đua đường phố 34 tuổi và chủ quán ăn Toto; cao 185 cm, cơ bắp vạm vỡ, đầu cạo trọc, đeo dây chuyền bạc chữ thập dày, áo ba lỗ trắng / áo khoác da đen.",
+                "ref_prompt": "Full-body photorealistic character reference of @Micdo, a 34-year-old American man, 185 cm, muscular heavy-shouldered build, clean-shaven bald head, deep-set dark eyes, strong square jaw, a thick silver cross pendant on a heavy chain around his neck, fitted white ribbed tank top, black cargo pants, heavy black leather boots; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Ami",
+                "name": "Ami (Quán Toto)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Em gái 25 tuổi của Micdo, người giữ sổ sách và quầy bánh mì cá ngừ tại quán Toto; tóc nâu đen dài buộc nửa đầu, hoa tai vòng bạc nhỏ, áo len mỏng xanh ô liu.",
+                "ref_prompt": "Full-body photorealistic character reference of @Ami, a 25-year-old woman, 168 cm, slim athletic build, warm olive skin, long dark-brown hair in a half-up clip, expressive dark eyes, small silver hoop earrings, fitted olive-green ribbed knit top, dark high-waisted jeans, black leather ankle boots; plain grey studio background, soft warm light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Cevin",
+                "name": "Cevin (Tay phó)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Tay phó nóng tính 29 tuổi của Micdo; tóc nâu ngắn, râu dê gọn, sẹo nhỏ dưới cằm, vòng tay da đinh tán, áo sơ mi công nhân xanh navy mở cúc ngoài áo ba lỗ trắng.",
+                "ref_prompt": "Full-body photorealistic character reference of @Cevin, a 29-year-old man, 179 cm, wiry muscular build, cropped dark-brown hair, neat goatee, a small scar on his chin, a black studded leather wristband on his right wrist, unbuttoned short-sleeve navy mechanic work shirt over a white tank top, dark work trousers, black boots; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Cina",
+                "name": "Cina (Nữ thợ máy)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Nữ thợ máy cừ khôi 26 tuổi của đội Micdo; tóc đen chấm cằm dưới mũ beanie đen, áo ba lỗ crop-top đen, quần túi hộp xanh rêu dính dầu máy, găng tay hở ngón.",
+                "ref_prompt": "Full-body photorealistic character reference of @Cina, a 26-year-old woman, 167 cm, athletic build, sharp jawline, chin-length black hair tucked under a black knit beanie, fierce dark eyes, black cropped tank top, olive-drab cargo pants with grease smudges, heavy black lace-up combat boots, fingerless leather driving gloves; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Seja",
+                "name": "Seja (Kỹ thuật viên)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Thiên tài điện tử 21 tuổi của đội Micdo; dáng gầy cao, tóc vàng rối, kính bảo hộ trễ trên trán, áo sơ mi họa tiết khoác ngoài áo thun đồ họa.",
+                "ref_prompt": "Full-body photorealistic character reference of @Seja, a 21-year-old man, 175 cm, lanky build, messy bleached-blonde hair, clear safety goggles pushed up on his forehead, bright restless eyes, open patterned short-sleeve shirt over a graphic tee, baggy khaki cargo pants, worn skate sneakers; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Onle",
+                "name": "Onle (Điều phối bộ đàm)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Kỹ sư điều phối liên lạc và máy quét tần số cảnh sát 32 tuổi của đội Micdo; cao lớn, râu quai nón gọn, đeo tai nghe một bên có mic, áo khoác bomber xám than.",
+                "ref_prompt": "Full-body photorealistic character reference of @Onle, a 32-year-old man, 182 cm, broad-shouldered build, closely shaved head, neatly trimmed beard, a single-ear radio headset with boom mic, charcoal-grey zip-up bomber jacket over a black tee, dark jeans, black tactical boots; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@NyTran",
+                "name": "Ny Trần (Trùm Little Saigon)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Ông trùm băng nhóm khu Little Saigon 29 tuổi và đối thủ của Micdo; tóc đen vuốt ngược bóng mượt, dây chuyền vàng mảnh, vest họa tiết da rắn / áo khoác da đen.",
+                "ref_prompt": "Full-body photorealistic character reference of @NyTran, a 29-year-old Vietnamese-American man, 177 cm, lean sharp build, slicked-back glossy black hair, cold calculating dark eyes, a thin gold chain over a tailored black-and-grey snakeskin-textured suit jacket, black silk shirt unbuttoned at the collar, black dress trousers, pointed black leather shoes; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Cela",
+                "name": "Cela (Anh họ Ny Trần)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Anh họ và cánh tay phải 28 tuổi của Ny Trần; đầu cạo sát hai bên, sẹo chéo má phải, sơ mi lụa đỏ sẫm mở cúc ngực, đai da chéo vai đen.",
+                "ref_prompt": "Full-body photorealistic character reference of @Cela, a 28-year-old Vietnamese-American man, 174 cm, compact muscular build, buzzed sides with a short top knot, a diagonal scar across his right cheek, dark-red silk shirt with rolled sleeves, black leather crossbody strap, black slacks, black dress boots; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Nese",
+                "name": "Trung sĩ Nese (LAPD)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Cấp trên trực tiếp 46 tuổi của Tom trong LAPD; tóc muối tiêu, ria mép gọn, vest xám tro khoác ngoài sơ mi xanh nhạt, cà vạt nới lỏng.",
+                "ref_prompt": "Full-body photorealistic character reference of @Nese, a 46-year-old man, 180 cm, solid build, salt-and-pepper cropped hair, trimmed moustache, thoughtful weathered face, charcoal-grey suit jacket over a pale-blue dress shirt with loosened striped tie, dark trousers, brown leather oxfords; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Kinan",
+                "name": "Đặc vụ Kinan (FBI)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Chỉ huy lực lượng đặc nhiệm FBI 42 tuổi; tóc nâu chải gọn, kính gọng kim loại mảnh, sơ mi trắng xắn tay, cà vạt đỏ sẫm, huy hiệu cài thắt lưng.",
+                "ref_prompt": "Full-body photorealistic character reference of @Kinan, a 42-year-old man, 178 cm, trim build, neatly parted brown hair, thin metal-frame glasses, stern impatient expression, crisp white dress shirt with sleeves rolled, dark-red tie, silver badge clip at belt, navy dress trousers; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Verni",
+                "name": "Verni (Chủ kho phụ tùng)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Ông chủ kho phụ tùng tốc độ cao 48 tuổi; dáng chắc đậm, tóc hói đỉnh đầu, dây chuyền vàng to, áo polo đỏ sọc trắng, cầm bảng kẹp giấy và giẻ lau.",
+                "ref_prompt": "Full-body photorealistic character reference of @Verni, a 48-year-old man, 173 cm, stocky barrel-chested build, receding hairline, thick five-o'clock shadow, heavy gold chain, red-and-white striped polo shirt, dark work pants, holding a clipboard and a greasy rag; plain grey studio background, 8K. Not resembling any real actor.",
+            },
+        ],
+    },
 ]
 
 
@@ -1346,6 +1454,16 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
     remote_chars = []
     remote_images = []
     if client.connected:
+        # Auto-create a fresh Google Flow project if still using placeholder UUID
+        if project_id == "d8997010-1080-49f1-9220-10ec05919c8c":
+            try:
+                cp_res = await client.create_project(row_dict.get("name") or slug)
+                new_pid = (cp_res.get("data") or {}).get("projectId")
+                if new_pid:
+                    project_id = new_pid
+                    project_cache = cached_by_project.get(project_id, {}) if isinstance(cached_by_project, dict) else {}
+            except Exception as e:
+                logger.warning("Failed to auto-create Flow project for %s: %s", slug, e)
         try:
             res = await client.batch_rpc(
                 fb.RPC_PROJECT_MEDIA, fb.project_media_request(project_id), match=None, timeout=45
@@ -1377,6 +1495,11 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
     locked_map: dict[str, str] = {}
     created_now: list[str] = []
     updated_chars = []
+    img_aspect = (
+        "IMAGE_ASPECT_RATIO_LANDSCAPE"
+        if "LANDSCAPE" in (row_dict.get("aspect_ratio") or "")
+        else "IMAGE_ASPECT_RATIO_PORTRAIT"
+    )
 
     for c in chars:
         tag = c.get("tag", "")
@@ -1391,6 +1514,13 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
                 matched_mid = rc["media_id"]
                 break
 
+        if not matched_mid:
+            for ri in remote_images:
+                ri_clean = ri["title"].strip().lower().lstrip("@")
+                if ri_clean == tag_clean or ri_clean == name_clean:
+                    matched_mid = ri["media_id"]
+                    break
+
         if not matched_mid and not force_regenerate:
             matched_mid = project_cache.get(tag) or c.get("default_media_id") or None
 
@@ -1399,6 +1529,31 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
             or default_prompts.get(tag)
             or f"Full-body character reference of {tag} ({name}): {c.get('description', '')}. Plain studio background, 8K."
         )
+
+        if not matched_mid and client.connected and ref_prompt:
+            try:
+                gen_res = await client.generate_images(
+                    prompt=ref_prompt,
+                    project_id=project_id,
+                    aspect_ratio=img_aspect,
+                    image_model="nano_banana_pro",
+                    count=1,
+                )
+                medias = (gen_res.get("data") or {}).get("media") or []
+                if medias and isinstance(medias[0], dict):
+                    matched_mid = medias[0].get("name") or medias[0].get("media_id")
+                    if matched_mid:
+                        created_now.append(tag)
+                        try:
+                            await client.rename_asset(
+                                display_name=tag,
+                                media_id=matched_mid,
+                                project_id=project_id,
+                            )
+                        except Exception:
+                            pass
+            except Exception as e:
+                logger.warning("Failed to auto-generate character image for %s: %s", tag, e)
 
         if matched_mid:
             locked_map[tag] = matched_mid
@@ -1428,11 +1583,12 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
     )
     await db.commit()
 
-    # Sync locked default_media_id into runner script (e.g., runners/ke_song_sot.py)
-    if os.path.isfile(runner_abs) and locked_map:
+    # Sync locked default_media_id and PROJECT_ID into runner script (e.g., runners/duong_dua_sinh_tu.py)
+    if os.path.isfile(runner_abs):
         try:
             with open(runner_abs, "r", encoding="utf-8") as rf:
                 rcode = rf.read()
+            rcode = re.sub(r'^PROJECT_ID\s*=\s*"[^"]*"', f'PROJECT_ID = "{project_id}"', rcode, count=1, flags=re.MULTILINE)
             for tag, mid in locked_map.items():
                 pattern = rf'("tag":\s*"{re.escape(tag)}"[\s\S]*?"default_media_id":\s*)"[^"]*"'
                 rcode = re.sub(pattern, rf'\1"{mid}"', rcode, count=1)
@@ -1440,6 +1596,22 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
                 rf.write(rcode)
         except Exception as e:
             logger.warning("Failed to update default_media_id in %s: %s", runner_abs, e)
+
+    # Also update PHAN_CANH_V3.json if present in series directory
+    phan_canh_path = os.path.join(series_abs_dir, "PHAN_CANH_V3.json")
+    if os.path.isfile(phan_canh_path) and locked_map:
+        try:
+            with open(phan_canh_path, "r", encoding="utf-8") as pf:
+                plan_data = json.load(pf)
+            if isinstance(plan_data.get("identities"), dict):
+                for _ik, iv in plan_data["identities"].items():
+                    itag = iv.get("tag")
+                    if itag and locked_map.get(itag):
+                        iv["media_id"] = locked_map[itag]
+                with open(phan_canh_path, "w", encoding="utf-8") as pf:
+                    json.dump(plan_data, pf, ensure_ascii=False, indent=2)
+        except Exception as e:
+            logger.warning("Failed to update PHAN_CANH_V3.json for %s: %s", slug, e)
 
     await record_cms_log(
         slug,
@@ -1528,6 +1700,22 @@ def _build_structured_episode_prompts(
         default_setting = (
             "HÒN SÓNG SEASIDE TOWN: weathered coastal streets, seafront coffee stall, florist shop, and wooden house on the casuarina hill "
             "under bleached coastal daylight and tense neo-noir atmosphere."
+        )
+        avoid_line = (
+            "blood, gore, visible wounds, on-screen shooting, muzzle flashes, bullet hits on people, deaths on camera, torture, "
+            "real brand logos, readable signs or documents, real police insignia, watermarks, text overlays, extra fingers, "
+            "cartoon or anime look, likeness of any real actor."
+        )
+    elif slug == "duong-dua-sinh-tu":
+        world_format = (
+            "Full-frame 16:9 (1.78:1), no letterbox bars, 10-second clip, 24fps, photorealistic live-action high-octane street-racing "
+            "crime thriller film style set in Los Angeles highways, tuner garages, and the Mojave Desert. 35mm anamorphic cinema lenses, "
+            "sodium-vapour amber and neon cyan night grade, warm golden-hour desert sun. Dialogue in Vietnamese with natural Southern accent "
+            "and accurate lip-sync. No subtitles or on-screen text."
+        )
+        default_setting = (
+            "MICDO'S TUNER GARAGE & LOS ANGELES NIGHT STREETS: sodium-vapour amber streetlamps, custom tuned sports cars, "
+            "hydraulic lifts, chrome tools, and rain-slick asphalt."
         )
         avoid_line = (
             "blood, gore, visible wounds, on-screen shooting, muzzle flashes, bullet hits on people, deaths on camera, torture, "

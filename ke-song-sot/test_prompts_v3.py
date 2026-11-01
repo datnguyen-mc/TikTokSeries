@@ -59,8 +59,7 @@ class FilmContinuityTests(unittest.TestCase):
         for i,c in enumerate(self.shots):
             text=film.render_prompt(self.plan,c,self.shots[i-1] if i else None,
                                     self.shots[i+1] if i<359 else None)
-            self.assertEqual(text.startswith('Continue'),c['transition']=='CONTINUE',c['id'])
-            self.assertEqual(text.startswith('[FORMAT]'),c['transition']!='CONTINUE',c['id'])
+            self.assertTrue(text.startswith('[FORMAT]'),c['id'])
             self.assertNotIn('2.39:1',text)
             self.assertNotIn('0.5s',text)
             self.assertNotIn('one slow-motion beat',text)
@@ -239,8 +238,54 @@ class FilmContinuityTests(unittest.TestCase):
             expected={self.plan['identities'][k]['media_id'] for k in bases}
             self.assertEqual(set(scope['get_clip_reference_media_ids'](text)),expected,c['id'])
             new=scope['is_new_scene_clip'](text,c['number'],'a-valid-start-frame')
-            self.assertEqual(new,c['transition']!='CONTINUE',c['id'])
+            self.assertTrue(new,c['id'])
         self.assertEqual(scope['get_clip_reference_media_ids']('[CHARACTERS — approved identities and current appearances]\nNo lead visible.\n[EDIT IN]\n@Son was in the previous shot.'),[])
+
+    def test_global_film_bible_single_source_of_truth_and_selective_injection(self):
+        self.assertEqual(len(film.CHARACTER_LOCK), 9)
+        self.assertEqual(len(film.ENVIRONMENT_LOCK), 53)
+        self.assertEqual(len(film.OBJECT_LOCK), 33)
+        self.assertGreaterEqual(len(film.VEHICLE_LOCK), 7)
+        for i, c in enumerate(self.shots):
+            sl = film.select_relevant_bible_slice(self.plan, c)
+            self.assertEqual(sl['location']['id'], c['location'])
+            self.assertTrue(sl['location']['orientation_axis'])
+            prompt = film.render_prompt(
+                self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 359 else None
+            )
+            self.assertIn(f"Spatial axis: {sl['location']['orientation_axis']}", prompt, c['id'])
+            # Ensure we do not dump unrelated vehicles into shots without vehicles
+            if not sl['vehicles']:
+                self.assertNotIn('[VEHICLE LOCK', prompt, c['id'])
+            else:
+                self.assertIn('[VEHICLE LOCK — persistent design & physics]', prompt, c['id'])
+
+    def test_duplicate_character_self_pairing_is_rejected(self):
+        altered = copy.deepcopy(self.shots)
+        altered[0]['action'] += ' @Son and @Son walk together.'
+        with self.assertRaisesRegex(ValueError, 'duplicate character reference'):
+            film.validate(self.plan, altered)
+
+    def test_select_shot_references_and_omni_workflow_routing(self):
+        for c in self.shots:
+            refs = film.select_shot_references(self.plan, c)
+            self.assertLessEqual(len(refs), 7, c['id'])
+            wf = film.determine_omni_workflow(self.plan, c)
+            if refs:
+                self.assertEqual(wf, 'ingredients_reference_to_video', c['id'])
+            else:
+                self.assertEqual(wf, 'text_to_video', c['id'])
+
+    def test_auto_repair_shot_fixes_common_defects(self):
+        broken = copy.deepcopy(self.shots[1])
+        broken['transition'] = 'CONTINUE'
+        broken['start_frame'] = 'Wrong start frame Final physical lock: extra note'
+        broken['action'] += ' @Son and @Son stand still.'
+        fixed = film.auto_repair_shot(self.plan, broken, self.shots[0])
+        self.assertEqual(fixed['start_frame'], self.shots[0]['end_frame'])
+        self.assertEqual(fixed['location'], self.shots[0]['location'])
+        self.assertNotIn('Final physical lock', fixed['start_frame'])
+        self.assertNotIn('@Son and @Son', fixed['action'])
 
 
 if __name__=='__main__':

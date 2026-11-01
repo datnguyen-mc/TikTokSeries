@@ -166,6 +166,22 @@ class RenameAssetRequest(BaseModel):
     project_id: str = ""
 
 
+class CreateProjectRequest(BaseModel):
+    title: str = "Đường Đua Sinh Tử: 10 Giây Tự Do"
+
+
+@router.post("/create-project")
+async def create_flow_project(body: CreateProjectRequest):
+    """Create a new Google Flow project and return its projectId."""
+    client = get_flow_client()
+    if not client.connected:
+        raise HTTPException(503, "Extension not connected")
+    result = await client.create_project(body.title)
+    if result.get("error") or (isinstance(result.get("status"), int) and result["status"] >= 400):
+        raise HTTPException(_safe_status_code(result.get("status")), result.get("error", result.get("data")))
+    return result.get("data", result)
+
+
 async def _resolve_direct_project(client, project_id: str) -> str:
     pid = str(project_id or "").strip()
     if pid:
@@ -423,7 +439,7 @@ async def check_status(body: CheckStatusRequest):
     if not body.operations:
         raise HTTPException(400, "Provide operations for Veo or workflows for Omni Flash")
 
-    result = await client.check_video_status(body.operations)
+    result = await client.check_video_status(body.operations, project_id=body.project_id or None)
     if result.get("error"):
         raise HTTPException(502, result["error"])
     if isinstance(result.get("status"), int) and result["status"] >= 400:
@@ -766,7 +782,7 @@ async def get_project_characters(project_id: str):
         raise HTTPException(503, "Extension not connected")
     result = await client.batch_rpc(
         fb.RPC_PROJECT_MEDIA, fb.project_media_request(project_id),
-        match=None, timeout=60,
+        match=project_id, timeout=60,
     )
     raw = result.get("data") or ""
     characters = []
@@ -835,7 +851,7 @@ async def debug_project_media(project_id: str = "594758cc-11f5-4f92-8b3c-1213686
         raise HTTPException(503, "Extension not connected")
     result = await client.batch_rpc(
         fb.RPC_PROJECT_MEDIA, fb.project_media_request(project_id),
-        match=None, timeout=60,
+        match=project_id, timeout=60,
     )
     raw = result.get("data") or ""
     uuids = list(set(re.findall(r'[0-9a-fA-F-]{36}', raw)))

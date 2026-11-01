@@ -20,3 +20,4 @@ Khóa nhân vật, bối cảnh, phong cách, ảnh tham chiếu và danh sách 
 | 3 · 18 ngày tuổi | Ba giờ sáng | Gối cho bú đôi | [tap-3](tap-3/README.md) |
 | 4 · 25 ngày tuổi | Lần tắm chậu đầu tiên | Chậu tắm sơ sinh có lưới đỡ | [tap-4](tap-4/README.md) |
 | 5 · 32 ngày tuổi | Đầy tháng của Gạo và Bông | Khăn sữa sợi tre / gạc cotton sơ sinh | [tap-5](tap-5/README.md) |
+| 6 · 39 ngày tuổi | Tập nằm sấp đầu đời của Gạo và Bông | Thảm nằm chơi sơ sinh phẳng êm | [tap-6](tap-6/README.md) |

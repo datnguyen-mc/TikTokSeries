@@ -1,17 +1,20 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir crime thriller, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese coastal mystery and suspense drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: cool shadows, restrained warm highlights, natural skin tones; no heavy teal-orange, artificial lens flare or beauty smoothing. In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Never display the reference images themselves, never show their plain grey studio background in any frame (0.0s–10.0s), and never cut to a standalone character portrait at the start or end of the clip. Only the listed characters and the unnamed people written into this shot appear in frame.
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands. no backpack with him: it stays at the cabin; LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
-Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, faint pale mark across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands. no backpack with him: it stays at the cabin; white cotton wrist wrap on LEFT wrist from 25.1 onward; right hand bare; empty-handed: his locked case was handed to Mây at 28.4 and is not with him. Voice: low, crisp, clear Southern Vietnamese male voice.
+Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist cotton wrapd.
 
+[VEHICLE LOCK — persistent design & physics]
+- Official Transfer Van (Enclosed official escort transfer van): Clean neutral-toned metal body, protective wire-mesh side window on right flank, steel interior benches. Interior compartment with bench seats facing each other and a mesh-screened right window looking out toward the seafront walkway. Physics: Steady road vibration and forward rolling motion parallel to the coastal walkway.
 
 [TIMELINE AND LOCATION]
 Scene 58/60, clip 3/6; shot 58.3. Story time: D8 late morning.
-Inside prisoner transport, mesh side window to right, Sơn seated facing front, Thành opposite with transfer folder.
+Inside the official transfer van, mesh side window to right, Sơn seated facing front, Thành opposite with transfer folder.
 Day-eight late morning: daylight through the side mesh window as soft side key inside the vehicle, hard coastal sun outside.
+Spatial axis: 180-degree axis inside transfer van: mesh window on right, Sơn seated facing front, Thành opposite with folder.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Sơn receive the farewell without mistaking it for release from what lies ahead.
@@ -21,17 +24,17 @@ Let Sơn receive the farewell without mistaking it for release from what lies ah
 Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — already in scene, never show studio reference card]
-Sơn at the mesh window, face turned to it, sunlight and mesh shadow sliding across his face; his cuffed hands low in his lap; the closed watch's chain hidden inside his olive jacket.
+Sơn at the mesh window, face turned to it, sunlight and mesh shadow sliding across his face; his clasped hands low in his lap; the closed watch's chain hidden inside his olive jacket.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Close on him beside the mesh, cuffed hands low and the chain secured inside the olive jacket.
+Composition: Close on him beside the mesh, clasped hands low and the chain secured inside the olive jacket.
 Focus: Keep face and mesh edge readable, avoiding an invented reflected Hạ portrait or a new watch insert.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.0s): Sơn's eyes find Hạ outside and stay there; his breath stops for a moment as he murmurs, almost to himself, that seeing her at peace is enough. Beat 2 (3.0–6.0s): He gives one small nod toward her, the chin dipping and rising, his cuffed hands staying low in his lap. Beat 3 (6.0–10.0s): His head turns slightly as his eyes keep following her past the rear edge of the window; a contained exhale, the jaw holding steady, no smile.
-Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no dead air. Breathing and existing environmental motion continue naturally through 10.0s.
+Beat 1 (0.0–3.0s): Sơn's eyes find Hạ outside and stay there; his breath stops for a moment as he murmurs, almost to himself, that seeing her at peace is enough. Beat 2 (3.0–6.0s): He gives one small nod toward her, the chin dipping and rising, his clasped hands staying low in his lap. Beat 3 (6.0–10.0s): His head turns slightly as his eyes keep following her past the rear edge of the window; a contained exhale, the jaw holding steady, no smile.
+Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no empty pause. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: Recognition and the murmured line come first, the nod is brief and complete, and the remaining four seconds are living attention as her position slides out of sight.
 
 [BLOCKING AND PERFORMANCE]
@@ -42,7 +45,7 @@ Performance: Gratitude and loss at once: he wants her to see that he received it
 [BODY, MOUTH AND FACE STANDARD]
 Body mechanics: to pick something up from low down a person bends at the knees and hips with a visible reach, closes the stated hand fully around it and lifts its real weight; objects never float, slide into a hand by themselves or pass through fingers; when no hand is named the free hand acts and every carried prop stays in its established hand; in a hand-over both hands stay visible until the receiver's fingers close; feet never slide; every hand keeps five natural fingers.
 Mouth map: 0.2–2.8s only Sơn's lips move, shaping each Vietnamese syllable in sync with the voice, natural jaw and teeth, mouth closing as the line ends. Outside these windows every mouth in frame is closed or relaxed and listeners never mouth along.
-Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no dead stare, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
+Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed blank stare, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
@@ -54,18 +57,18 @@ Reference only; enact only the current ACTION, not a future handover.
 - ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. It runs again after 52.3; never open it again as a new reveal.
 
 [VISIBLE TEXTURE]
-Bandage remains LEFT, watch lid stays CLOSED, jacket and chain do not migrate to a different pocket.
+Wrist wrap remains LEFT, watch lid stays CLOSED, jacket and chain do not migrate to a different pocket.
 
 
 [SOUND]
 Location bed: vehicle engine and road tires under clear voices.
 Foreground sound: Road sound and a contained exhale are enough, no swelling song or second internal monologue.
-Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented weapon effect; ambient sound continues naturally through 10.0s.
+Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
 
 [FINAL COMPOSITION AT 10.0s — hold in the same location, never cut to reference card]
-Sơn's nod finished, head turned toward the rear edge of the mesh window, eyes still following her; light and mesh shadow flickering over his face, jaw steady, cuffed hands low in his lap, the watch chain hidden inside his jacket.
+Sơn's nod finished, head turned toward the rear edge of the mesh window, eyes still following her; light and mesh shadow flickering over his face, jaw steady, clasped hands low in his lap, the watch chain hidden inside his jacket.
 Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]
-Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, dead air pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, empty pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, or real actor likeness.
 In this shot also do not show or do: a backpack or any bag strap on Sơn's shoulders.

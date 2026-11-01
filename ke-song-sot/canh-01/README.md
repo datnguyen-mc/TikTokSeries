@@ -47,7 +47,7 @@ Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi b�
 ### Clip 5 (01.5) · CABIN · Góc máy I
 - **Trang phục & Vật dụng mang theo:** Chiếc ba lô vải bố màu ô liu sẫm của Sơn đặt dưới sàn sát khung cửa ra vào, ngay cạnh chân anh.
 - **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.0s): Tay phải Sơn rời chiếc chìa khóa trên kệ, nắm lấy cán dao khắc đã mòn và đưa mũi dao lên mặt gỗ khung cửa còn trơn. Nhịp 2 (3.0–7.0s): Mũi dao cắm vào thớ gỗ; cổ tay vững, lực đều, anh kéo đúng một vạch dọc ngắn, thớ gỗ nhạt cuộn lên trên nền gỗ cũ sẫm màu. Nhịp 3 (7.0–10.0s): Mũi dao nhấc ra, ngón cái phủi vụn gỗ khỏi vết mới, bàn tay hạ dao ra khỏi khung, để lại một vạch nhạt trong ánh sáng, một sợi vụn còn rung trong gió lùa. Lời dẫn của Sơn bắt đầu từ 0.2s, phủ nhịp 1 và đầu nhịp 2.
-- **Chỉ đạo diễn xuất:** Turn a vague stay into an exact private deadline that the audience cannot yet explain. **Diễn xuất:** A private vow made with the hand, not the face: grief held under procedure, no hesitation once the tip bites, then a quick, almost embarrassed release. No violent flourish, no stabbing gesture.
+- **Chỉ đạo diễn xuất:** Turn a vague stay into an exact private deadline that the audience cannot yet explain. **Diễn xuất:** A private vow made with the hand, not the face: grief held under procedure, no hesitation once the tip bites, then a quick, almost embarrassed release. No sudden flourish, no forceful gesture.
 
 ### Clip 6 (01.6) · PORCH · Góc máy M
 - **Trang phục & Vật dụng mang theo:** Sơn mặc áo khoác vải màu ô liu, áo thun xám, quần dài tối màu và giày da cổ thấp sờn cũ, hai bàn tay trần.

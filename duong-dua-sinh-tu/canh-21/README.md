@@ -1,0 +1,62 @@
+# Đường Đua Sinh Tử: 10 Giây Tự Do — Cảnh 21: Khăn Ẩm Của Ami
+
+**Bản 3.1 · 6 clip × 10 giây · 16:9 đầy khung · nguồn PHAN_CANH_V3.json**
+
+Phút 20:00–21:00 · Thời gian truyện: N2 late night
+
+Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than trên gò má anh và cảm ơn anh đã đưa anh trai cô trở về an toàn.
+
+**Câu hỏi đang mở:** Sự quan tâm chân thành của Ami tác động thế nào đến tâm lý cảnh sát chìm của Tom?
+**Móc vào cảnh:** Ami cầm chiếc khăn bông trắng bước lại gần Tom dưới ánh đèn dây vàng ấm.
+**Điểm bẻ:** Ami chấm nhẹ vết khói trên má Tom, ánh mắt hai người chạm nhau đầy lưu luyến.
+**Gieo / trả:** Thắt chặt sợi dây tình cảm khiến Tom ngày càng khó xuống tay bắt giữ gia đình cô.
+
+Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
+
+| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |
+|---|---|---|---|---|---|
+| [1](clip-1.md) | OPEN · Cắt thiết lập thời gian/không gian | In TOTO_BACKYARD during N2 late night (shot 21.1 opening): Ami standing before soot-smudged Tom under the warm tungsten string lights of TOTO_BACKYARD with a clean damp towel in her hand. | Beat 1 (0.0–3.2s): Ami steps close to Tom and raises the folded damp towel gently to his soot-streaked left cheekbone. Beat 2 (3.2–6.8s): Ami tells him softly to lean closer so she can wipe the thick smoke soot from his cheek. Beat 3 (6.8–10.0s): Tom holds still on the wooden bench, looking up into Ami's warm dark eyes. | In TOTO_BACKYARD at 10.0s of shot 21.1: Ami gently wiping the soot from Tom's cheek under the string lights of TOTO_BACKYARD. | 2.8–7.7s · Ami (@Ami), nói trong hình: Đưa mặt qua đây em lau bớt vết muội than trên gò má cho, khói bám dày quá. |
+| [2](clip-2.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | In TOTO_BACKYARD during N2 late night (shot 21.2 opening): Tom seated on the wooden bench in TOTO_BACKYARD looking up at Ami as she tends the bruise on his cheekbone. | Beat 1 (0.0–3.2s): Tom touches his fingertips lightly to Ami's wrist, his expression open and grateful. Beat 2 (3.2–6.8s): Tom thanks her quietly, joking that the midday bruise and tonight's smoke must make him look fierce. Beat 3 (6.8–10.0s): Ami smiles softly and shakes her head, keeping the cloth steady against his jaw. | In TOTO_BACKYARD at 10.0s of shot 21.2: Tom and Ami sharing a close, quiet moment under the string lights of TOTO_BACKYARD. | 2.8–7.7s · Tom (@Tom), nói trong hình: Cảm ơn em, vết xước hồi trưa cộng thêm khói lửa đêm nay nhìn chắc dữ tợn lắm. |
+| [3](clip-3.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | In TOTO_BACKYARD during N2 late night (shot 21.3 opening): Ami standing close to Tom in TOTO_BACKYARD folding the damp cloth in both hands. | Beat 1 (0.0–3.2s): Ami lowers the towel to her waist and lets out a long breath of relief. Beat 2 (3.2–6.8s): Ami admits with heartfelt emotion that she was terrified when word came that police had surrounded the race. Beat 3 (6.8–10.0s): Tom reaches out and rests his palm gently over her hand. | In TOTO_BACKYARD at 10.0s of shot 21.3: Tom resting his hand over Ami's under the warm patio bulbs of TOTO_BACKYARD. | 2.8–8.2s · Ami (@Ami), nói trong hình: Anh không sao là tốt lắm rồi, lúc nghe tin cảnh sát vây đường đua em lo lắng vô cùng. |
+| [4](clip-4.md) | J · J-cut: âm mới đến trước hình | In TOTO_BACKYARD during N2 late night (shot 21.4 opening): Tom and Ami standing together beside the wooden dining table in TOTO_BACKYARD. | Beat 1 (0.0–3.2s): Tom rises from the bench to stand at eye level with Ami under the glowing patio lights. Beat 2 (3.2–6.8s): Tom tells her earnestly that he promised he would never let anything bad happen to her family. Beat 3 (6.8–10.0s): Ami holds his gaze with deep trust and warmth. | In TOTO_BACKYARD at 10.0s of shot 21.4: Tom and Ami standing face-to-face under the warm string lights of TOTO_BACKYARD. | 2.8–7.7s · Tom (@Tom), nói trong hình: Anh đã hứa là sẽ không để chuyện gì xấu xảy ra với người nhà của em mà. |
+| [5](clip-5.md) | CUT · Cắt dựng đúng vị trí/ánh nhìn | In TOTO_BACKYARD during N2 late night (shot 21.5 opening): Ami handing Tom a glass of cool water and a plate of grilled meat at the wooden table in TOTO_BACKYARD. | Beat 1 (0.0–3.2s): Ami picks up a tall glass of water and a warm plate from the table and places them in Tom's hands. Beat 2 (3.2–6.8s): Ami tells him to drink some water and eat after everything he went through tonight. Beat 3 (6.8–10.0s): Tom accepts the plate and glass with a warm nod. | In TOTO_BACKYARD at 10.0s of shot 21.5: Tom holding the glass and plate beside Ami at the dining table in TOTO_BACKYARD. | 2.8–7.7s · Ami (@Ami), nói trong hình: Uống miếng nước mát rồi ăn chút thịt nướng đi, đêm nay anh vất vả quá nhiều rồi. |
+| [6](clip-6.md) | L · L-cut: âm cũ đi qua cú cắt | In TOTO_BACKYARD during N2 late night (shot 21.6 opening): Micdo leaning against the wooden porch railing of TOTO_BACKYARD watching Tom and Ami at the table. | Beat 1 (0.0–3.2s): Micdo walks down one porch step with a half-smile on his face, silver cross glinting on his chest. Beat 2 (3.2–6.8s): Micdo calls out to Tom that even as family, Tom still owes him a ten-second car to settle their wager. Beat 3 (6.8–10.0s): Tom turns toward Micdo and nods with a determined grin while Ami laughs softly. | In TOTO_BACKYARD at 10.0s of shot 21.6: Micdo on the porch steps and Tom and Ami by the table in TOTO_BACKYARD. | 2.8–7.7s · Micdo (@Micdo), nói trong hình: Thấy hai người nói chuyện hợp ý vậy chắc từ mai quán hết ế món cá ngừ rồi. |
+
+## Phân cảnh chi tiết & Vật dụng mang theo (Chuẩn biên kịch 30 năm)
+
+### Clip 1 (21.1) · TOTO_BACKYARD · Góc máy W
+- **Trang phục & Vật dụng mang theo:** Nhân vật trong cảnh: Ami (AMI_N), Tom (TOM_B), Micdo (MICDO). Đạo cụ & phương tiện khóa: WRENCH_KIT. Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy 21.1.
+- **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.2s): Ami bắt đầu thao tác với WRENCH_KIT trong bối cảnh Khăn Ẩm Của Ami, giữ đúng vị trí không gian. Nhịp 2 (3.2–6.8s): Ami thực hiện chuyển động chính của phân cảnh 21.1 đồng thời cất lời thoại (Đưa mặt qua đây em lau bớt vết muội than trên gò má cho, khói bám dày quá.). Nhịp 3 (6.8–10.0s): Chuyển động lắng xuống tư thế kết của clip 21.1, giữ nhịp thở và âm thanh môi trường sống động tới 10.0s.
+- **Chỉ đạo diễn xuất:** Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than trên gò má anh và cảm ơn anh đã đưa anh trai cô trở về an toàn. (Shot 21.1 — ESTABLISHING_WIDE via wide 28mm lens). **Diễn xuất:** Ami plays restrained high-stakes intensity without melodrama, letting micro-expressions and grip tension carry the beat.
+
+### Clip 2 (21.2) · TOTO_BACKYARD · Góc máy M
+- **Trang phục & Vật dụng mang theo:** Nhân vật trong cảnh: Tom (TOM_B), Ami (AMI_N), Micdo (MICDO). Đạo cụ & phương tiện khóa: WRENCH_KIT. Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy 21.2.
+- **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.2s): Tom bắt đầu thao tác với WRENCH_KIT trong bối cảnh Khăn Ẩm Của Ami, giữ đúng vị trí không gian. Nhịp 2 (3.2–6.8s): Tom thực hiện chuyển động chính của phân cảnh 21.2 đồng thời cất lời thoại (Cảm ơn em, vết xước hồi trưa cộng thêm khói lửa đêm nay nhìn chắc dữ tợn lắm.). Nhịp 3 (6.8–10.0s): Chuyển động lắng xuống tư thế kết của clip 21.2, giữ nhịp thở và âm thanh môi trường sống động tới 10.0s.
+- **Chỉ đạo diễn xuất:** Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than trên gò má anh và cảm ơn anh đã đưa anh trai cô trở về an toàn. (Shot 21.2 — SCENE_MEDIUM via medium two-shot 35mm lens). **Diễn xuất:** Tom plays restrained high-stakes intensity without melodrama, letting micro-expressions and grip tension carry the beat.
+
+### Clip 3 (21.3) · TOTO_BACKYARD · Góc máy T
+- **Trang phục & Vật dụng mang theo:** Nhân vật trong cảnh: Ami (AMI_N), Tom (TOM_B), Micdo (MICDO). Đạo cụ & phương tiện khóa: WRENCH_KIT. Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy 21.3.
+- **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.2s): Ami bắt đầu thao tác với WRENCH_KIT trong bối cảnh Khăn Ẩm Của Ami, giữ đúng vị trí không gian. Nhịp 2 (3.2–6.8s): Ami thực hiện chuyển động chính của phân cảnh 21.3 đồng thời cất lời thoại (Anh không sao là tốt lắm rồi, lúc nghe tin cảnh sát vây đường đua em lo lắng vô cùng.). Nhịp 3 (6.8–10.0s): Chuyển động lắng xuống tư thế kết của clip 21.3, giữ nhịp thở và âm thanh môi trường sống động tới 10.0s.
+- **Chỉ đạo diễn xuất:** Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than trên gò má anh và cảm ơn anh đã đưa anh trai cô trở về an toàn. (Shot 21.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens). **Diễn xuất:** Ami plays restrained high-stakes intensity without melodrama, letting micro-expressions and grip tension carry the beat.
+
+### Clip 4 (21.4) · TOTO_BACKYARD · Góc máy C
+- **Trang phục & Vật dụng mang theo:** Nhân vật trong cảnh: Tom (TOM_B), Ami (AMI_N), Micdo (MICDO). Đạo cụ & phương tiện khóa: WRENCH_KIT. Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy 21.4.
+- **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.2s): Tom bắt đầu thao tác với WRENCH_KIT trong bối cảnh Khăn Ẩm Của Ami, giữ đúng vị trí không gian. Nhịp 2 (3.2–6.8s): Tom thực hiện chuyển động chính của phân cảnh 21.4 đồng thời cất lời thoại (Anh đã hứa là sẽ không để chuyện gì xấu xảy ra với người nhà của em mà.). Nhịp 3 (6.8–10.0s): Chuyển động lắng xuống tư thế kết của clip 21.4, giữ nhịp thở và âm thanh môi trường sống động tới 10.0s.
+- **Chỉ đạo diễn xuất:** Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than trên gò má anh và cảm ơn anh đã đưa anh trai cô trở về an toàn. (Shot 21.4 — REACTION_CLOSEUP via tight close-up 85mm lens). **Diễn xuất:** Tom plays restrained high-stakes intensity without melodrama, letting micro-expressions and grip tension carry the beat.
+
+### Clip 5 (21.5) · TOTO_BACKYARD · Góc máy H
+- **Trang phục & Vật dụng mang theo:** Nhân vật trong cảnh: Ami (AMI_N), Tom (TOM_B), Micdo (MICDO). Đạo cụ & phương tiện khóa: WRENCH_KIT. Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy 21.5.
+- **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.2s): Ami bắt đầu thao tác với WRENCH_KIT trong bối cảnh Khăn Ẩm Của Ami, giữ đúng vị trí không gian. Nhịp 2 (3.2–6.8s): Ami thực hiện chuyển động chính của phân cảnh 21.5 đồng thời cất lời thoại (Uống miếng nước mát rồi ăn chút thịt nướng đi, đêm nay anh vất vả quá nhiều rồi.). Nhịp 3 (6.8–10.0s): Chuyển động lắng xuống tư thế kết của clip 21.5, giữ nhịp thở và âm thanh môi trường sống động tới 10.0s.
+- **Chỉ đạo diễn xuất:** Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than trên gò má anh và cảm ơn anh đã đưa anh trai cô trở về an toàn. (Shot 21.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens). **Diễn xuất:** Ami plays restrained high-stakes intensity without melodrama, letting micro-expressions and grip tension carry the beat.
+
+### Clip 6 (21.6) · TOTO_BACKYARD · Góc máy P
+- **Trang phục & Vật dụng mang theo:** Nhân vật trong cảnh: Micdo (MICDO), Tom (TOM_B), Ami (AMI_N). Đạo cụ & phương tiện khóa: WRENCH_KIT. Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy 21.6.
+- **Diễn biến 3 nhịp (0–10s):** Nhịp 1 (0.0–3.2s): Micdo bắt đầu thao tác với WRENCH_KIT trong bối cảnh Khăn Ẩm Của Ami, giữ đúng vị trí không gian. Nhịp 2 (3.2–6.8s): Micdo thực hiện chuyển động chính của phân cảnh 21.6 đồng thời cất lời thoại (Thấy hai người nói chuyện hợp ý vậy chắc từ mai quán hết ế món cá ngừ rồi.). Nhịp 3 (6.8–10.0s): Chuyển động lắng xuống tư thế kết của clip 21.6, giữ nhịp thở và âm thanh môi trường sống động tới 10.0s.
+- **Chỉ đạo diễn xuất:** Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than trên gò má anh và cảm ơn anh đã đưa anh trai cô trở về an toàn. (Shot 21.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens). **Diễn xuất:** Micdo plays restrained high-stakes intensity without melodrama, letting micro-expressions and grip tension carry the beat.
+
+
+**Âm nối sang cảnh sau:** Carry the charcoal grill sizzle, clinking bottles and warm evening crickets across the cut into the next scene without quiet pause.
+
+[Bảng nối toàn phim](../BANG_NOI_CLIP.md) · [Kịch bản](../KICH_BAN_40_PHUT.md) · [Khóa và đạo cụ](../FLOW_PROMPTS.md)
+
+Kiểm tra video render: mặt/đồ/đạo cụ, ánh nhìn, hướng đi, âm nền, không lặp động tác ở mối nối. Prompt quy định ý đồ; video vẫn cần xem nối đôi trước khi chốt dựng.

@@ -26,7 +26,7 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "name": "Tom",
         "media_id": "53e825dd-52eb-41f9-bf6a-4fe562792c55",
         "age": 27,
-        "face": "sharp observant dark eyes, faint small scar at outer left eyebrow, clean square jawline",
+        "face": "sharp observant dark eyes, faint natural crease at outer left eyebrow, clean square jawline",
         "body": "183 cm, athletic lean build, balanced posture",
         "hairstyle": "short textured sandy-dark hair",
         "identity": "Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline",
@@ -34,7 +34,7 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "personality": "disciplined undercover LAPD officer, observant under pressure, torn between badge and brotherhood",
         "costumes": {
             "TOM": "fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist",
-            "TOM_R": "matte-black leather bomber jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist",
+            "TOM_R": "matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist",
             "TOM_B": "open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots",
         },
     },
@@ -79,12 +79,12 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "name": "Cevin",
         "media_id": "a0c490db-9269-4093-b7d6-54c7f854dca5",
         "age": 29,
-        "face": "intense brow, neat goatee, small chin scar",
-        "body": "179 cm, wiry muscular build, coiled restless posture",
+        "face": "intense brow, neat goatee, sharp defined chin",
+        "body": "179 cm, wiry muscular build, coiled athletic posture",
         "hairstyle": "short spiky bleached-tip dark hair",
-        "identity": "Athletic man with short spiky bleached-tip hair, intense brow, faint scar on right knuckle, silver chain bracelet on right wrist",
+        "identity": "Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist",
         "voice": "rough, fiery, direct Southern Vietnamese male voice",
-        "personality": "hot-headed lieutenant, fearless in high-speed cable stunts, fiercely territorial",
+        "personality": "spirited lieutenant, fearless in high-speed cable stunts, fiercely loyal",
         "costumes": {
             "CEVIN": "maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots",
             "CEVIN_H": "black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants",
@@ -139,7 +139,7 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "personality": "veteran chassis builder and tactical communications anchor, level-headed",
         "costumes": {
             "ONLE": "grease-stained dark-green mechanic jumpsuit tied at the waist over a black T-shirt, heavy work boots",
-            "ONLE_H": "dark matte bomber jacket, black cap pulled low, dark jeans, leather driving gloves",
+            "ONLE_H": "dark matte utility driving jacket, black cap pulled low, dark jeans, leather driving gloves",
         },
     },
     "NYTRAN": {
@@ -149,11 +149,11 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "media_id": "3004cbee-ba9f-42d8-b11e-c55fec49e5ab",
         "age": 30,
         "face": "sharp cheekbones, cold calculating dark eyes, thin gold neck chain",
-        "body": "177 cm, lean sharp build, upright predatory posture",
+        "body": "177 cm, lean sharp build, upright poised posture",
         "hairstyle": "sleek undercut slicked-back black hair",
         "identity": "Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain",
-        "voice": "cold, smooth, menacing Southern Vietnamese male voice",
-        "personality": "ruthless Little Saigon syndicate boss, controlled, status-obsessed",
+        "voice": "cold, smooth, commanding Southern Vietnamese male voice",
+        "personality": "calculating Little Saigon motorcycle crew leader, controlled, status-obsessed",
         "costumes": {
             "NYTRAN": "tailored black snake-pattern leather jacket over open-collar crimson silk shirt, gold chain, black trousers, polished boots",
             "NYTRAN_R": "armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots",
@@ -165,14 +165,14 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "name": "Cela",
         "media_id": "57d9ea23-b1c8-4f65-b65b-918d070bd76c",
         "age": 31,
-        "face": "narrow watchful eyes, diagonal scar across right cheek",
-        "body": "174 cm, compact muscular build, dragon tattoo sleeve on right forearm",
+        "face": "narrow watchful eyes, sharp chiseled right cheekbone",
+        "body": "174 cm, compact muscular build, dragon art sleeve on right forearm",
         "hairstyle": "shaved sides with a tied short topknot",
-        "identity": "Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon tattoo sleeve on right forearm",
+        "identity": "Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm",
         "voice": "raspy, clipped Southern Vietnamese male voice",
-        "personality": "Ny Tran's cousin and enforcer, aggressive, watchful",
+        "personality": "Ny Tran's cousin and right-hand rider, intense, watchful",
         "costumes": {
-            "CELA": "sleeveless black leather vest over dark shirt, dragon tattoo sleeve on right forearm, black jeans, riding boots",
+            "CELA": "sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots",
         },
     },
     "NESE": {
@@ -244,7 +244,7 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
         "description": "Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates.",
         "damage_states": [
             ((1, 1), (1, 6), "intact sealed trailer doors, cruising steady at 110 km/h in center lane"),
-            ((2, 1), (2, 6), "pneumatic grapnel cable anchored into right passenger window frame at highway speed"),
+            ((2, 1), (2, 6), "pneumatic magnetic tether cable anchored into right passenger window frame at highway speed"),
             ((3, 1), (3, 6), "rear trailer latch released by magnetic module, double doors swung open against highway slipstream"),
             ((4, 1), (4, 6), "rear trailer doors open as black Civic coupes disengage and peel off onto exit ramp"),
             ((32, 1), (34, 6), "steel cable hooked to right cab side while swerving across desert highway lanes"),
@@ -257,7 +257,7 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
         "model_silhouette": "low-slung 1990s aerodynamic 2-door coupe silhouette with sunroof hatch and low rear wing",
         "exterior_color_material": "non-reflective matte-black paint with dark-tinted side glass",
         "dimensions_proportions": "4.4 m length, 1.35 m low ride height, wide track stance",
-        "wheels_axles": "4 wheels on 2 axles per coupe, 17-inch gunmetal 6-spoke alloy rims with low-profile street tires",
+        "wheels_axles": "4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires",
         "lights_accessories": "sharp projector headlights, continuous emerald-green LED underglow beneath side skirts and bumpers, openable sunroof hatch, reinforced front hood latches",
         "interior_layout": "LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin",
         "steering_side": "LEFT",
@@ -396,7 +396,7 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
         "name": "the Jet-Black Open Roadster",
         "vehicle_type": "2-door open-top high-revving sport roadster",
         "model_silhouette": "long hood, short rear deck, low windshield header, dual roll hoops behind seats",
-        "exterior_color_material": "mirror-gloss jet-black paint with dark gunmetal aero lip",
+        "exterior_color_material": "mirror-gloss jet-black paint with dark-titanium aero lip",
         "dimensions_proportions": "4.13 m length, 1.75 m width, 1.28 m height",
         "wheels_axles": "4 wheels on 2 axles, 18-inch forged dark-chrome wheels",
         "lights_accessories": "sharp xenon projector headlights, concealed dual NOS plumbing beneath seats",
@@ -413,7 +413,7 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
         "vehicle_id": "MOTO_PACK",
         "name": "the Matte-Black Street Sport Motorcycles",
         "vehicle_type": "high-displacement full-fairing street sport motorcycles",
-        "model_silhouette": "aggressive aerodynamic front fairing, clip-on handlebars, high tail section",
+        "model_silhouette": "sleek aerodynamic front fairing, clip-on handlebars, high tail section",
         "exterior_color_material": "matte-black carbon-textured fairings with dark smoked windscreens",
         "dimensions_proportions": "2.05 m length, 1.12 m height",
         "wheels_axles": "2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels",
@@ -526,7 +526,7 @@ OBJECT_LOCK: dict[str, dict[str, Any]] = {
         "category": "document",
         "material_appearance": "thick manila case folders, pinned highway route maps, and glossy surveillance photographs without readable text",
         "default_owner": "NESE",
-        "description": "Thick manila highway-heist investigation folders, satellite route maps and customs manifests without readable text.",
+        "description": "Thick manila highway transport investigation folders, satellite route maps and customs manifests without readable text.",
         "state_by_scene": [
             ((9, 1), (9, 6), "spread across the oak tactical table inside the task-force villa"),
         ],
@@ -839,7 +839,7 @@ PHYSICS_RULES: dict[str, str] = {
         "tire-asphalt grip, smooth steering geometry, and continuous forward momentum across 0.0s–10.0s; all wheels, rims, and "
         "tire treads on every moving vehicle spin rapidly forward in exact sync with ground speed with realistic rotational motion "
         "blur and stay planted on the road surface (never show stationary, frozen, or backward-spinning wheels on a moving vehicle); "
-        "all moving vehicles in any chase, convoy, heist formation, or race travel in the exact same left-to-right forward direction "
+        "all moving vehicles in any chase, convoy, tactical formation, or race travel in the exact same left-to-right forward direction "
         "along the established road axis (never facing head-on against each other or reversing screen direction); 18-wheel tractor and "
         "trailer articulate naturally at the fifth-wheel pivot; vehicle body dimensions, wheel count, paint color, and left-hand driver "
         "seat position never morph."
@@ -848,7 +848,7 @@ PHYSICS_RULES: dict[str, str] = {
         "Human physics, fluid body follow-through & face lock: continuous natural weight transfer across the feet and hips, "
         "uninterrupted upper-body and hand follow-through while speaking (never freeze physical movement to deliver dialogue), "
         "natural balance and breathing through 10.0s; every visible named face stays faithful to its approved reference throughout "
-        "the shot (eye shape, nose bridge, jawline, hair, and scars stable while turning); natural blinks and matched eyelines, no fixed stare."
+        "the shot (eye shape, nose bridge, jawline, hair, and facial features stable while turning); natural blinks and matched eyelines, no fixed stare."
     ),
     "hand_object": (
         "Hand & object mechanics: to pick up or handle an object a character reaches with a smooth arm arc, closes five natural fingers "
@@ -864,8 +864,8 @@ PHYSICS_RULES: dict[str, str] = {
 
 VEHICLE_SFX_LOCK: dict[str, str] = {
     "RIG_18": "deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss",
-    "CIVIC_TRIO": "high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar",
-    "ECLIPSE": "aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip",
+    "CIVIC_TRIO": "high-revving twin-cam 4-cylinder exhaust note, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar",
+    "ECLIPSE": "powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip",
     "RX7": "signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt",
     "F150_TRUCK": "throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt",
     "MOTO_PACK": "pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction",

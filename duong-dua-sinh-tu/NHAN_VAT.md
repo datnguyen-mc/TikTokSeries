@@ -12,7 +12,7 @@ Lời người dẫn chuyện khi xuất hiện lần đầu (05.1): Tom, sĩ qu
 
 Biến thể và prompt ảnh tham chiếu:
 - **TOM:** Photorealistic reference of the SAME approved identity, age 27, fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Plain grey studio background, full body and portrait, no text, no real actor likeness.
-- **TOM_R:** Photorealistic reference of the SAME approved identity, age 27, matte-black leather bomber jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **TOM_R:** Photorealistic reference of the SAME approved identity, age 27, matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **TOM_B:** Photorealistic reference of the SAME approved identity, age 27, open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
 ## Micdo · @Micdo
@@ -44,9 +44,9 @@ Biến thể và prompt ảnh tham chiếu:
 
 Bạn thời thơ ấu và cánh tay phải nóng nảy của Micdo. Thầm thương Ami, luôn nghi ngờ Tom từ cái nhìn đầu tiên và gặp sự cố dây cáp nguy hiểm trong phi vụ cuối.
 
-Nhận diện: Athletic man with short spiky bleached-tip hair, intense brow, faint scar on right knuckle, silver chain bracelet on right wrist.
+Nhận diện: Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist.
 Giọng xuyên phim: rough, fiery, direct Southern Vietnamese male voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Cevin, cánh tay phải liều lĩnh trong đội xe của Micdo.
+Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Cevin, cánh tay phải táo bạo trong đội xe của Micdo.
 
 Biến thể và prompt ảnh tham chiếu:
 - **CEVIN:** Photorealistic reference of the SAME approved identity, age 29, maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -59,7 +59,7 @@ Bạn gái cá tính của Micdo và thành viên cốt cán trong đội đua x
 
 Nhận diện: Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear.
 Giọng xuyên phim: cool, firm, clear Southern Vietnamese female voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (03.1): Cina, nữ quái tốc độ sát cánh cùng Micdo.
+Lời người dẫn chuyện khi xuất hiện lần đầu (03.1): Cina, tay lái tốc độ sát cánh cùng Micdo.
 
 Biến thể và prompt ảnh tham chiếu:
 - **CINA:** Photorealistic reference of the SAME approved identity, age 28, cropped black leather vest over crimson top, low-rise dark leather trousers, heavy lace boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -87,15 +87,15 @@ Lời người dẫn chuyện khi xuất hiện lần đầu (04.1): Onle, tay l
 
 Biến thể và prompt ảnh tham chiếu:
 - **ONLE:** Photorealistic reference of the SAME approved identity, age 30, grease-stained dark-green mechanic jumpsuit tied at the waist over a black T-shirt, heavy work boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
-- **ONLE_H:** Photorealistic reference of the SAME approved identity, age 30, dark matte bomber jacket, black cap pulled low, dark jeans, leather driving gloves. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **ONLE_H:** Photorealistic reference of the SAME approved identity, age 30, dark matte utility driving jacket, black cap pulled low, dark jeans, leather driving gloves. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
 ## Ny Tran · @NyTran
 
 Thủ lĩnh băng mô tô Light Saigon tại Little Saigon, đối thủ đua xe đầy mưu mô của Micdo.
 
 Nhận diện: Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain.
-Giọng xuyên phim: cold, smooth, menacing Southern Vietnamese male voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (18.1): Ny Tran, thủ lĩnh Light Saigon, cùng gã anh họ Cela.
+Giọng xuyên phim: cold, smooth, commanding Southern Vietnamese male voice.
+Lời người dẫn chuyện khi xuất hiện lần đầu (18.1): Ny Tran, thủ lĩnh Light Saigon, cùng người anh họ Cela.
 
 Biến thể và prompt ảnh tham chiếu:
 - **NYTRAN:** Photorealistic reference of the SAME approved identity, age 30, tailored black snake-pattern leather jacket over open-collar crimson silk shirt, gold chain, black trousers, polished boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -105,12 +105,12 @@ Biến thể và prompt ảnh tham chiếu:
 
 Anh họ và đồng đảng thân cận luôn kề cận Ny Tran trong mọi cuộc vây ép và rượt đuổi.
 
-Nhận diện: Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon tattoo sleeve on right forearm.
+Nhận diện: Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm.
 Giọng xuyên phim: raspy, clipped Southern Vietnamese male voice.
-Lời người dẫn chuyện khi xuất hiện lần đầu (18.1): Ny Tran, thủ lĩnh Light Saigon, cùng gã anh họ Cela.
+Lời người dẫn chuyện khi xuất hiện lần đầu (18.1): Ny Tran, thủ lĩnh Light Saigon, cùng người anh họ Cela.
 
 Biến thể và prompt ảnh tham chiếu:
-- **CELA:** Photorealistic reference of the SAME approved identity, age 31, sleeveless black leather vest over dark shirt, dragon tattoo sleeve on right forearm, black jeans, riding boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **CELA:** Photorealistic reference of the SAME approved identity, age 31, sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
 ## Nese · @Nese
 
@@ -153,12 +153,12 @@ Giọng khóa cố định: Nữ khoảng năm mươi tuổi, giọng Nam Bộ (
 
 Các câu giới thiệu nhân vật chính, đọc ở ngôi thứ ba, mỗi câu ở clip đầu tiên nhân vật ra hình:
 - 01.1: Verni, tài xế xe đầu kéo đường dài trên xa lộ mười.
-- 02.1: Cevin, cánh tay phải liều lĩnh trong đội xe của Micdo.
-- 03.1: Cina, nữ quái tốc độ sát cánh cùng Micdo.
+- 02.1: Cevin, cánh tay phải táo bạo trong đội xe của Micdo.
+- 03.1: Cina, tay lái tốc độ sát cánh cùng Micdo.
 - 04.1: Onle, tay lái bọc hậu và thợ máy của cả đội.
 - 05.1: Tom, sĩ quan cảnh sát chìm ẩn náu trong tiệm độ xe.
 - 06.1: Ami, cô gái út nhà Micdo, người giữ quán ăn gia đình.
 - 07.1: Seja, thiên tài toán học và điện tử độ xe của nhóm.
 - 09.1: Micdo, tay đua huyền thoại và thủ lĩnh cả đội.
 - 10.1: Trung sĩ Nese của LAPD và đặc vụ liên bang Kinan.
-- 18.1: Ny Tran, thủ lĩnh Light Saigon, cùng gã anh họ Cela.
+- 18.1: Ny Tran, thủ lĩnh Light Saigon, cùng người anh họ Cela.

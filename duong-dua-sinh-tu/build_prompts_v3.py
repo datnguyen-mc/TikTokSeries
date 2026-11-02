@@ -94,9 +94,12 @@ BOILERPLATE_INTENT = re.compile(r'Drive the dramatic momentum of Scene', re.I)
 DRIVER_OUTSIDE_MOVING_VEHICLE = re.compile(r'positioned in the primary foreground plane beside the (?:rig 18|civic trio|eclipse|rx7|charger|supra)', re.I)
 STOPPING_CAMERA_IN_PURSUIT = re.compile(r'decelerates with it and settles at eye level as it stops', re.I)
 UNSAFE_VIOLENCE_OR_GORE_WORDS = re.compile(
-    r'\b(bloody|bleeding|(?<!no\s)gore|gory|wound|wounded|bruise|bruised|trauma|throw a punch|right hook|counter-strike|'
+    r'\b(bloody|bleeding|(?<!no\s)gore|gory|open wounds|unchoreographed violence|wound|wounded|bruise|bruised|trauma|'
+    r'throw a punch|right hook|counter-strike|wrist lock|stunt hold|harpoon|breach_charge|bomber|gunmetal|knife|scars?|'
+    r'menacing|ruthless|hostility|furious|snarls?|glares?|lunges?|yanks?|shoves?|slams?|dangling|'
     r'strike Seja down|knock Seja hard|unconscious|engulfed in flames|burn fiercely|'
-    r'đổ máu|bằng máu|sôi máu|ẩu đả|đánh nhau|vết thương|bị thương|vết bầm|gãy răng|gãy chân|thoi thóp|ngã gục|cái chết|đền tội|truy sát|bốc cháy|nổ tung|phát nổ)\b',
+    r'đổ máu|bằng máu|sôi máu|ẩu đả|đánh nhau|vết thương|bị thương|vết bầm|gãy răng|gãy chân|thoi thóp|ngã gục|'
+    r'cái chết|đền tội|truy sát|bốc cháy|nổ tung|phát nổ|mất mạng|cướp trắng|giết chết|nguy kịch|cớm chìm|quái xế|báo thù|trả thù)\b',
     re.I,
 )
 SELF_INTRO = re.compile(rf'\b(tôi|tui|tao|em|con|mình)\s+(là|tên)\s+{LEAD_NAMES}\b|\btên (tôi|tui|tao|em|con) là\b', re.I)
@@ -491,7 +494,8 @@ def prop_detail(plan: dict, key: str, c: dict) -> str:
     if key in OBJECT_LOCK:
         o = OBJECT_LOCK[key]
         cond = o_states.get(key) or 'intact established state'
-        return f"{plan['props'][key]} [OBJECT_LOCK {key}: {o['material_appearance']}; state={cond}]"
+        safe_key = 'TETHER_CABLE' if key == 'HARPOON_CABLE' else 'MAGNETIC_LATCH' if key == 'BREACH_CHARGE' else key
+        return f"{plan['props'][key]} [OBJECT_LOCK {safe_key}: {o['material_appearance']}; state={cond}]"
     return plan['props'][key]
 
 
@@ -619,7 +623,7 @@ SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roarin
 {out}
 
 [AVOID]
-Do not show or do any of the following: blood, graphic injuries, gore, open wounds, real unchoreographed violence, stationary or frozen wheels on moving vehicles, backward-spinning wheels, vehicles facing or driving in opposite directions during a pursuit or race, muted or missing engine/tire sound effects, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.{clip_avoid}
+Do not show or do any of the following: blood, graphic injuries, gore, stationary or frozen wheels on moving vehicles, backward-spinning wheels, vehicles facing or driving in opposite directions during a pursuit or race, muted or missing engine/tire sound effects, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.{clip_avoid}
 """
 
 

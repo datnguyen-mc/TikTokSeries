@@ -28,7 +28,7 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 ## Biến thể dùng cùng danh tính
 
 - **TOM** → `@Tom`, 27 tuổi: fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist.
-- **TOM_R** → `@Tom`, 27 tuổi: matte-black leather bomber jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist.
+- **TOM_R** → `@Tom`, 27 tuổi: matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist.
 - **TOM_B** → `@Tom`, 27 tuổi: open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots.
 - **MICDO** → `@Micdo`, 32 tuổi: fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots.
 - **MICDO_H** → `@Micdo`, 32 tuổi: black tactical driving windbreaker zipped over dark shirt, black leather driving gloves, dark cargo trousers, heavy boots.
@@ -43,10 +43,10 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 - **SEJA** → `@Seja`, 22 tuổi: oversized olive graphic work shirt over striped long-sleeve tee, cargo trousers, sneakers, canvas laptop strap across chest.
 - **SEJA_R** → `@Seja`, 22 tuổi: white-and-blue racing windbreaker over dark tee, cargo trousers, driving shoes, thin-framed glasses.
 - **ONLE** → `@Onle`, 30 tuổi: grease-stained dark-green mechanic jumpsuit tied at the waist over a black T-shirt, heavy work boots.
-- **ONLE_H** → `@Onle`, 30 tuổi: dark matte bomber jacket, black cap pulled low, dark jeans, leather driving gloves.
+- **ONLE_H** → `@Onle`, 30 tuổi: dark matte utility driving jacket, black cap pulled low, dark jeans, leather driving gloves.
 - **NYTRAN** → `@NyTran`, 30 tuổi: tailored black snake-pattern leather jacket over open-collar crimson silk shirt, gold chain, black trousers, polished boots.
 - **NYTRAN_R** → `@NyTran`, 30 tuổi: armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots.
-- **CELA** → `@Cela`, 31 tuổi: sleeveless black leather vest over dark shirt, dragon tattoo sleeve on right forearm, black jeans, riding boots.
+- **CELA** → `@Cela`, 31 tuổi: sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots.
 - **NESE** → `@Nese`, 46 tuổi: rolled-sleeve white dress shirt with loosened dark tie, badge holder at belt, charcoal trousers, leather shoes.
 - **NESE_T** → `@Nese`, 46 tuổi: dark navy police windbreaker over dress shirt, tactical vest, radio handset clipped at shoulder.
 - **KINAN** → `@Kinan`, 44 tuổi: tailored dark charcoal suit over steel-blue shirt without tie, federal credential folder at side.
@@ -72,7 +72,7 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 - **PINK_SLIP:** Official vehicle title registration certificate folded inside a clear protective sleeve.
 - **NOS_BOTTLES:** Twin blue high-pressure Nitrous Oxide cylinders mounted behind the cockpit with a red steering-wheel trigger button.
 - **DIAG_LAPTOP:** Ruggedized silver tuning laptop displaying engine manifold pressure curves and overload warnings without readable text.
-- **CASE_FILES:** Thick manila highway-heist investigation folders, satellite route maps and customs manifests without readable text.
+- **CASE_FILES:** Thick manila highway transport investigation folders, satellite route maps and customs manifests without readable text.
 - **WRENCH_KIT:** Heavy chrome torque wrench, socket tray and engine hoist chains inside the garage.
 - **POLICE_RADIO:** Tom's concealed LAPD encrypted tactical radio handset used for emergency medevac coordination.
 - **SUPRA_KEY:** Single metal ignition key to the orange 10-second sport coupe on a steel ring.

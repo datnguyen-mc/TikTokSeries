@@ -9,7 +9,7 @@ Suốt nhiều đêm liền, Tom cùng Seja và Onle đại tu động cơ và s
 **Câu hỏi đang mở:** Quá trình cùng ăn cùng làm trong gara đã biến đổi nhận thức của Tom về nhóm Micdo ra sao?
 **Móc vào cảnh:** Tom, Seja và Onle phối hợp hạ khối động cơ tăng áp kép sáng bóng vào khoang máy chiếc Supra cam.
 **Điểm bẻ:** Ami mang khay đồ ăn đêm vào gara, mỉm cười nhìn Tom lau mồ hôi bên thành xe mới sơn.
-**Gieo / trả:** Hoàn thiện chiếc Toyota Supra cam — phương tiện cứu mạng ở hồi cuối.
+**Gieo / trả:** Hoàn thiện chiếc Toyota Supra cam — phương tiện giải vây ở hồi cuối.
 
 Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 

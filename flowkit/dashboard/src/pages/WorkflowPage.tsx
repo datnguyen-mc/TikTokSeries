@@ -571,21 +571,21 @@ export default function WorkflowPage() {
   const [pan, setPan] = useState({ x: 0, y: 0 })
   const [isDraggingOverCanvas, setIsDraggingOverCanvas] = useState(false)
 
-  // Press-and-hold ("đè chuột mới kéo được") state & refs so simple click opens n8n detail modal while holding drags the node
+  // Strict press-and-hold ("đè chuột mới kéo được") state & refs — NEVER drags on hover
   const [draggingNodeId, setDraggingNodeId] = useState<string | null>(null)
   const [holdingNodeId, setHoldingNodeId] = useState<string | null>(null)
-  const holdTimerRef = useRef<number | null>(null)
   const nodeDragStartRef = useRef<{
     nodeId: string
     startMouseX: number
     startMouseY: number
     startNodeX: number
     startNodeY: number
-    holdReady: boolean
+    downTimeMs: number
     didMove: boolean
   } | null>(null)
 
   const [isPanning, setIsPanning] = useState(false)
+  const isPanningRef = useRef(false)
   const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 })
 
   // Connecting wire from output/input port to cursor (supports both Drag-to-Connect and Click-to-Connect)
@@ -1065,27 +1065,62 @@ export default function WorkflowPage() {
     [nodes, clientToCanvas]
   )
 
-  // Window-level mousemove / mouseup listeners for press-and-hold node dragging, panning & wire connecting
+  // Window-level mousemove / mouseup / blur listeners — strictly requires physical left mouse button hold ((e.buttons & 1) === 1)
   useEffect(() => {
-    if (!holdingNodeId && !draggingNodeId && !isPanning && !connectingFromId) return
+    function stopAllDragAndPan() {
+      nodeDragStartRef.current = null
+      isPanningRef.current = false
+      setHoldingNodeId(prev => (prev ? null : prev))
+      setDraggingNodeId(prev => (prev ? null : prev))
+      setIsPanning(prev => (prev ? false : prev))
+    }
 
     function handleWindowMouseMove(e: MouseEvent) {
+      const isLeftButtonPressed = (e.buttons & 1) === 1
+
+      // 1. If user is NOT physically holding down the left mouse button (i.e. just hovering!),
+      // NEVER drag any node or pan the canvas! Immediately clear any stale drag/pan state.
+      if (!isLeftButtonPressed) {
+        if (nodeDragStartRef.current || isPanningRef.current) {
+          stopAllDragAndPan()
+        }
+        if (connectStartMouseRef.current) {
+          setConnectingFromId(null)
+          setHoveredTargetNodeId(null)
+          connectStartMouseRef.current = null
+          return
+        }
+        if (connectingFromId) {
+          const pos = clientToCanvas(e.clientX, e.clientY)
+          setMouseCanvasPos(pos)
+          const hit = findNodeAtClientPoint(e.clientX, e.clientY)
+          setHoveredTargetNodeId(hit && hit.id !== connectingFromId ? hit.id : null)
+        }
+        return
+      }
+
+      // 2. User IS physically holding down the left mouse button ((e.buttons & 1) === 1):
       if (nodeDragStartRef.current) {
-        const { nodeId, startMouseX, startMouseY, startNodeX, startNodeY, holdReady } = nodeDragStartRef.current
+        const { nodeId, startMouseX, startMouseY, startNodeX, startNodeY } = nodeDragStartRef.current
         const rawDist = Math.hypot(e.clientX - startMouseX, e.clientY - startMouseY)
-        // Only move the node when the user has held the mouse button down (holdReady) AND moved > 4px
-        if (holdReady && rawDist > 4) {
-          nodeDragStartRef.current.didMove = true
+        // Only start dragging the node once the user moves >= 6px while holding down the mouse button
+        if (rawDist >= 6) {
+          if (!nodeDragStartRef.current.didMove) {
+            nodeDragStartRef.current.didMove = true
+            setDraggingNodeId(nodeId)
+          }
           const dx = (e.clientX - startMouseX) / zoom
           const dy = (e.clientY - startMouseY) / zoom
           const nextX = Math.max(12, Math.round((startNodeX + dx) / 8) * 8)
           const nextY = Math.max(12, Math.round((startNodeY + dy) / 8) * 8)
           setNodes(prev => prev.map(n => (n.id === nodeId ? { ...n, x: nextX, y: nextY } : n)))
         }
-      } else if (isPanning) {
+      } else if (isPanningRef.current) {
         const dx = e.clientX - panStartRef.current.x
         const dy = e.clientY - panStartRef.current.y
-        setPan({ x: panStartRef.current.panX + dx, y: panStartRef.current.panY + dy })
+        if (Math.hypot(dx, dy) >= 5) {
+          setPan({ x: panStartRef.current.panX + dx, y: panStartRef.current.panY + dy })
+        }
       } else if (connectingFromId) {
         const pos = clientToCanvas(e.clientX, e.clientY)
         setMouseCanvasPos(pos)
@@ -1095,11 +1130,6 @@ export default function WorkflowPage() {
     }
 
     function handleWindowMouseUp(e: MouseEvent) {
-      if (holdTimerRef.current) {
-        window.clearTimeout(holdTimerRef.current)
-        holdTimerRef.current = null
-      }
-
       if (connectingFromId) {
         const hit = findNodeAtClientPoint(e.clientX, e.clientY)
         if (hit && hit.id !== connectingFromId) {
@@ -1109,19 +1139,10 @@ export default function WorkflowPage() {
           setHoveredTargetNodeId(null)
           connectStartMouseRef.current = null
         } else if (connectStartMouseRef.current) {
-          const dist = Math.hypot(
-            e.clientX - connectStartMouseRef.current.x,
-            e.clientY - connectStartMouseRef.current.y
-          )
-          // If the user simply clicked the port (< 14px movement), stay in Click-to-Connect mode!
-          if (dist < 14 || hit?.id === connectingFromId) {
-            connectStartMouseRef.current = null
-          } else {
-            // Dragged to empty canvas space -> cancel wire
-            setConnectingFromId(null)
-            setHoveredTargetNodeId(null)
-            connectStartMouseRef.current = null
-          }
+          // Released mouse after dragging from a port without hitting a target node -> cancel wire immediately so nothing drags on hover!
+          setConnectingFromId(null)
+          setHoveredTargetNodeId(null)
+          connectStartMouseRef.current = null
         }
       } else if (nodeDragStartRef.current) {
         const { nodeId, didMove } = nodeDragStartRef.current
@@ -1133,22 +1154,18 @@ export default function WorkflowPage() {
         }
       }
 
-      setHoldingNodeId(null)
-      setDraggingNodeId(null)
-      nodeDragStartRef.current = null
-      setIsPanning(false)
+      stopAllDragAndPan()
     }
 
     window.addEventListener('mousemove', handleWindowMouseMove)
     window.addEventListener('mouseup', handleWindowMouseUp)
+    window.addEventListener('blur', stopAllDragAndPan)
     return () => {
       window.removeEventListener('mousemove', handleWindowMouseMove)
       window.removeEventListener('mouseup', handleWindowMouseUp)
+      window.removeEventListener('blur', stopAllDragAndPan)
     }
   }, [
-    holdingNodeId,
-    draggingNodeId,
-    isPanning,
     connectingFromId,
     connectingPortDir,
     zoom,
@@ -1271,6 +1288,7 @@ export default function WorkflowPage() {
         connectStartMouseRef.current = null
         return
       }
+      isPanningRef.current = true
       setIsPanning(true)
       panStartRef.current = { x: e.clientX, y: e.clientY, panX: pan.x, panY: pan.y }
       setSelectedNodeId(null)
@@ -1299,20 +1317,9 @@ export default function WorkflowPage() {
       startMouseY: e.clientY,
       startNodeX: node.x,
       startNodeY: node.y,
-      holdReady: false,
+      downTimeMs: performance.now(),
       didMove: false,
     }
-
-    if (holdTimerRef.current) {
-      window.clearTimeout(holdTimerRef.current)
-    }
-    // Require pressing & holding mouse button down (~150ms) before node dragging activates ("đè chuột mới kéo được")
-    holdTimerRef.current = window.setTimeout(() => {
-      if (nodeDragStartRef.current && nodeDragStartRef.current.nodeId === node.id) {
-        nodeDragStartRef.current.holdReady = true
-        setDraggingNodeId(node.id)
-      }
-    }, 150)
   }
 
   function startWireConnect(e: React.MouseEvent, nodeId: string, dir: 'out' | 'in' = 'out') {
@@ -2482,6 +2489,8 @@ export default function WorkflowPage() {
                 <div
                   key={node.id}
                   data-workflow-node-id={node.id}
+                  draggable={false}
+                  onDragStart={e => e.preventDefault()}
                   onMouseDown={e => startNodeDrag(e, node)}
                   onMouseUp={e => completeWireConnect(e, node.id)}
                   title="Bấm chuột để xem Detail & Log (như n8n) • Đè giữ chuột để kéo thả vị trí"
@@ -2497,8 +2506,8 @@ export default function WorkflowPage() {
                       : isHoldingThis
                         ? 'cursor-grabbing ring-2 ring-amber-400/60 z-20'
                         : isConnectTargetCandidate
-                          ? 'cursor-pointer z-20 transition-all'
-                          : 'cursor-pointer z-10 transition-all hover:translate-y-[-1px]'
+                          ? 'cursor-pointer z-20 transition-colors'
+                          : 'cursor-pointer z-10 transition-colors'
                   } ${
                     isHoveredConnectTarget
                       ? 'border-2 border-cyan-300 ring-4 ring-cyan-400/40 scale-105 shadow-[0_0_24px_rgba(34,211,238,0.6)]'

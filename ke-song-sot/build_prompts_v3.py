@@ -17,14 +17,14 @@ from uuid import UUID
 
 BASE_DIR = Path(__file__).resolve().parent
 CAMERAS = {
-    'W': '35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.',
-    'M': '50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.',
-    'C': '85mm tight close-up at eye level, natural depth of field. Crisp facial micro-expressions and rapid vocal delivery, no orbit.',
-    'I': '85mm brisk detail shot. Hands and the relevant object move decisively from 0.0s; spatially readable with zero hesitation.',
-    'T': '35mm fast-paced lateral tracking shot moving briskly in the established direction. No whip pan, drone move or reverse-axis cut.',
-    'H': '35mm energetic handheld medium-wide with brisk kinetic momentum. Keep the entire defensive action readable from one side of the axis.',
-    'O': '50mm responsive over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched and brisk.',
-    'P': '50mm brisk, purposeful straight push-in, no lens change, no orbit. Drive tension rapidly while keeping the final expression readable.',
+    'W': 'Wide Establishing / Master Shot (W) — 24mm/35mm prime lens (24mm for expansive coastal/harbour geography; 35mm for architectural wide masters), 24 fps, deep spatial field (f/5.6), eye-level horizontal axis. Anchor full-body blocking, architectural boundaries and 180-degree screen direction within the fixed scene space.',
+    'M': 'Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame.',
+    'C': 'Intimate Portrait Close-Up (C) — 85mm prime lens, 24 fps, shallow depth of field (f/2.8) at eye level. Isolate facial micro-expressions, subtle breathing, natural eye movement and Vietnamese lip-sync with soft background separation; no camera orbit.',
+    'I': 'Tactile Macro Insert Shot (I) — 85mm close-focus lens, 24 fps (f/4.0), angled directly at the active hands and fixed scene prop. Keep finger mechanics and object texture razor-sharp with zero hesitation or camera shake.',
+    'T': 'Steadicam Lateral Tracking Shot (T) — 35mm prime lens, 24 fps (f/4.0), gliding smoothly at pedestrian eye level parallel to the subject along the established movement axis. No whip pan, drone lift or reverse-axis jump.',
+    'H': 'Controlled Shoulder-Rig Handheld Action Shot (H) — 35mm prime lens, 24 fps, 150-degree crisp action shutter (f/4.0) with grounded, organic physical energy from one fixed side of the 180-degree axis. Keep defensive parries, posture shifts and spatial geometry clear without chaotic shake.',
+    'O': 'Over-The-Shoulder / Point-of-View Shot (O) — 50mm prime lens, 24 fps (f/3.5), framing the foreground observer shoulder/head anchor against the facing speaker. Maintain strict 180-degree eyeline match and depth separation.',
+    'P': 'Deliberate Dolly Push-In Shot (P) — 50mm prime lens, 24 fps (f/3.2), advancing smoothly along a straight optical track toward the subject at eye level. Build psychological weight organically without optical zoom, lens change or orbit.',
 }
 TRANSITIONS = {
     'OPEN': 'Cắt thiết lập thời gian/không gian',
@@ -104,6 +104,9 @@ def validate(plan: dict, shots: list[dict]) -> None:
                 errors.append(f"Scene {s['number']}: missing dramatic progression")
             if not isinstance(drama.get('tension'),int) or not 1<=drama.get('tension',0)<=5:
                 errors.append(f"Scene {s['number']}: tension must be an editorial level from 1 to 5")
+            for req_key in ('spatial_lock_en', 'fixed_objects_en', 'spatial_lock_vi', 'fixed_objects_vi'):
+                if not isinstance(s.get(req_key), str) or len(s.get(req_key, '').strip()) < 20:
+                    errors.append(f"Scene {s['number']}: missing or incomplete {req_key}")
     seen_actions = {}
     seen_lines = {}
     for i, c in enumerate(shots):
@@ -206,51 +209,87 @@ def person_lock(plan: dict, key: str, c: dict) -> str:
     if base == 'THANH' and 29 <= c['scene'] < 56:
         notes.append('one glasses arm bent, held by tape after rescue')
     extra = ' ' + '; '.join(notes) + '.' if notes else ''
-    return f"{identity['tag']} = {identity['name']}: same approved identity, age {age}; {face}. {outfit}.{extra} Voice: {identity['voice']}."
+    outfit_cap = outfit[:1].upper() + outfit[1:] if outfit else ''
+    return f"{identity['tag']} = {identity['name']}: same approved identity, age {age}; {face}. Wardrobe & gear: {outfit_cap}.{extra} Voice profile: {identity['voice']}."
 
 
-def dialogue_text(plan: dict, d: dict) -> str:
+def dialogue_text(plan: dict, d: dict, t_window: str | None = None) -> str:
     if d['speaker'] in plan['looks']:
         identity = plan['identities'][base_key(plan,d['speaker'])]
         speaker = f"{identity['name']} ({identity['tag']})" if d['mode']=='on' else identity['name']
     else:
         speaker = {'BROKER':'Người gọi giấu tên','RADIO':'Bộ đàm','EXTRA':'Người trong cảnh','OFFICER':'Cán bộ hỗ trợ'}[d['speaker']]
     mode = {'on':'nói trong hình','off':'ngoài khung hình','vo':'lời dẫn ngoài hình','device':'qua thiết bị'}[d['mode']]
-    return f"{speaker}, {mode}: {d['text']}"
+    tone = d.get('tone', '').strip()
+    meta_parts = [p for p in (t_window, tone) if p]
+    meta_str = f" [{' | '.join(meta_parts)}]" if meta_parts else ""
+    return f"{speaker}, {mode}{meta_str}: {d['text']}"
 
 
 def voice_block(plan: dict, c: dict) -> str:
     if not c['dialogue']:
         return 'No speech, narration or improvised vocal filler. Play the action and location sound.'
-    total_words = sum(len(d['text'].split()) for d in c['dialogue'])
-    duration = min(9.2, max(3.2, total_words / 3.8 + 0.5))
-    end = round(0.2 + duration, 1)
-    modes = {d['mode'] for d in c['dialogue']}
-    if modes == {'on'}:
-        rendering = 'Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.'
-    elif modes == {'vo'}:
-        rendering = 'Brisk voice-over narration only; visible mouths remain at rest while physical action advances.'
-    elif modes == {'off'}:
-        rendering = 'Brisk off-screen speech; do not add a face or animate the listener speaking.'
-    elif modes == {'device'}:
-        rendering = 'Brisk voice through the established device; no caller body in this shot.'
+    turns = c['dialogue']
+    if len(turns) == 1:
+        w1 = len(turns[0]['text'].split())
+        d1 = min(8.2, max(3.5, round(w1 / 3.8, 1)))
+        t_windows = [f"0.3–{round(0.3 + d1, 1):.1f}s"]
+        end = round(0.3 + d1, 1)
     else:
-        rendering = 'Follow each turn mode strictly (nói trong hình = visible mouth; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = mouth at rest).'
-    prefixes = [GENERIC_VOICES[d['speaker']] for d in c['dialogue'] if d['speaker'] in GENERIC_VOICES]
+        w1 = len(turns[0]['text'].split())
+        w2 = len(turns[1]['text'].split())
+        d1 = min(4.3, max(2.5, round(w1 / 3.9, 1)))
+        d2 = min(4.3, max(2.5, round(w2 / 3.9, 1)))
+        t1_end = round(0.3 + d1, 1)
+        t2_start = round(t1_end + 0.3, 1)
+        t2_end = min(9.4, round(t2_start + d2, 1))
+        t_windows = [f"0.3–{t1_end:.1f}s", f"{t2_start:.1f}–{t2_end:.1f}s"]
+        end = t2_end
+    modes = {d['mode'] for d in turns}
+    if modes == {'on'}:
+        rendering = 'Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.'
+    elif modes == {'vo'}:
+        rendering = 'Voice-over narration only (lời dẫn ngoài hình) at a natural 1.0x cadence; all visible mouths remain completely closed at rest while physical action unfolds.'
+    elif modes == {'off'}:
+        rendering = 'Off-screen speech (ngoài khung hình) at a natural 1.0x cadence; do not add the speaker into frame or animate the visible listener speaking.'
+    elif modes == {'device'}:
+        rendering = 'Speech heard through the established communication device (qua thiết bị) at a natural 1.0x cadence; no caller body added to this shot.'
+    else:
+        rendering = 'Follow each turn mode strictly (nói trong hình = visible mouth lip-sync; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = visible mouths closed at rest).'
+    prefixes = [GENERIC_VOICES[d['speaker']] for d in turns if d['speaker'] in GENERIC_VOICES]
     prefix_block = ('\n'.join(dict.fromkeys(prefixes)) + '\n') if prefixes else ''
-    lines_block = '\n'.join(dialogue_text(plan, d) for d in c['dialogue'])
-    turn_label = 'two rapid back-and-forth turns' if len(c['dialogue']) > 1 else 'one brisk, fast-paced line'
+    lines_block = '\n'.join(dialogue_text(plan, d, t_win) for d, t_win in zip(turns, t_windows))
+    turn_label = 'two natural back-and-forth conversational turns' if len(turns) > 1 else 'one natural, well-articulated spoken line'
+    total_w = sum(len(d['text'].split()) for d in turns)
     return (
-        f"0.2–{end:.1f}s, {turn_label} (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). {rendering}\n"
+        f"Delivery & Timing: 0.3–{end:.1f}s, {turn_label} ({total_w} Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).\n"
+        f"Lip-Sync & Voice Control: {rendering}\n"
         f"{prefix_block}{lines_block}\n"
-        f"Only words after the final colon are spoken. Never read names, tags or directions. No captions."
+        f"Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions."
     )
 
 
 def prop_detail(plan: dict, key: str, c: dict) -> str:
     if key=='MARKS':
         changes={'01.5':(0,1),'07.1':(1,2),'12.1':(2,3),'19.2':(3,4),'28.5':(4,6),'34.1':(6,7)}
-        before,after=changes.get(c['id'],(7,7))
+        if c['id'] in changes:
+            before, after = changes[c['id']]
+        else:
+            sc_num = (c['scene'], c['number'])
+            if sc_num < (1, 5):
+                before = after = 0
+            elif sc_num < (7, 1):
+                before = after = 1
+            elif sc_num < (12, 1):
+                before = after = 2
+            elif sc_num < (19, 2):
+                before = after = 3
+            elif sc_num < (28, 5):
+                before = after = 4
+            elif sc_num < (34, 1):
+                before = after = 6
+            else:
+                before = after = 7
         return f'Same wooden doorframe. Exactly {before} tally marks at the start and {after} at the end of THIS shot. No other tally row.'
     if key=='WATCH':
         detail='ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch.'
@@ -273,16 +312,16 @@ def prop_detail(plan: dict, key: str, c: dict) -> str:
 
 def transition_text(c: dict, previous: dict|None) -> str:
     if previous is None:
-        return 'Film opening hook. Start directly at 0.0s with immediate physical movement and opening narration at 0.2s to introduce the protagonist, coastal setting and 7-day stakes; no logo, recap, fade-in or slow pause.'
+        return 'Film opening hook. Start directly at 0.0s with purposeful physical movement and opening narration at 0.3s to introduce the protagonist, coastal setting and 7-day stakes; no logo, recap, fade-in or dead pause.'
     prefix = f"Previous editorial shot: {previous['id']}, ending with {previous['end_frame']}\n"
     if c['transition']=='CONTINUE':
-        return prefix + 'Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.'
+        return prefix + 'Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Continue the physical action seamlessly from 0.0s; do not replay the preceding gesture or words. No freeze at the seam.'
     cut = {
-        'OPEN':'Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes immediately at 0.0s with brisk action and dialogue at 0.2s.',
-        'CUT':'Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.',
-        'MATCH':'Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action briskly from 0.0s; no transformation, morph, dissolve or replay of the old shot.',
-        'J':'J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then launch immediately into brisk action and speech. This generated clip contains only the new shot, not a two-location montage.',
-        'L':'L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.',
+        'OPEN':'Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes from 0.0s with purposeful action and natural dialogue at 0.3s.',
+        'CUT':'Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.',
+        'MATCH':'Intentional match cut using the related shape or pose. Cut cleanly to the new time/place and advance the action naturally from 0.0s; no transformation, morph, dissolve or replay of the old shot.',
+        'J':'J-cut in the edit: introduce the incoming location sound about 0.25s before the picture cut, then begin the new shot action and dialogue naturally. This generated clip contains only the new shot, not a two-location montage.',
+        'L':'L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.',
     }[c['transition']]
     return prefix + cut
 
@@ -290,7 +329,7 @@ def transition_text(c: dict, previous: dict|None) -> str:
 def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None) -> str:
     continuous = c['transition']=='CONTINUE'
     if continuous:
-        head = f"Continue the scene seamlessly from the final frame of clip {previous['number']}. Same composition at the seam, brisk new action immediately after the seam."
+        head = f"Continue the scene seamlessly from the final frame of clip {previous['number']}. Same composition at the seam, natural new action immediately after the seam."
     else:
         head = '[FORMAT]'
     location, sound = plan['locations'][c['location']]
@@ -308,25 +347,73 @@ def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None
     else:
         out = 'End the film on this living composition. Any title and final fade are added in the edit, never generated inside the image.'
     scene_obj = plan['scenes'][c['scene']-1]
+    spatial_lock_en = scene_obj.get('spatial_lock_en', '')
+    fixed_objects_en = scene_obj.get('fixed_objects_en', '')
+    spatial_block = (
+        f"\n[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh {c['scene']:02d} (Clip 1–6)]\n"
+        f"{spatial_lock_en}\n"
+        f"Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene {c['scene']:02d}.\n"
+    ) if spatial_lock_en else ''
+    object_inventory_block = (
+        f"[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh {c['scene']:02d} (Clip 1–6)]\n"
+        f"{fixed_objects_en}\n"
+        f"Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene {c['scene']:02d}; never spawn, morph or introduce any unstated objects or background clutter.\n"
+    ) if fixed_objects_en else ''
     audio_bridge = scene_obj['outgoing_audio'] if c['number']==6 else ''
     if c['scene'] == 1 and c['number'] == 1:
-        scene_intro = f"\n[FILM OPENING INTRODUCTION — Mở đầu phim: {scene_obj['title']}]\nIntroduce protagonist Sơn (Bóng Ma) arriving at Hòn Sóng coastal town with a 7-day deadline to rescue Hạ after being betrayed by the Rắn Đen syndicate. Start movement at 0.0s and opening voice-over at 0.2s.\n"
+        scene_intro = f"\n[FILM OPENING INTRODUCTION — Mở đầu phim: {scene_obj['title']}]\nIntroduce protagonist Sơn (Bóng Ma) arriving at Hòn Sóng coastal town with a 7-day deadline to rescue Hạ after being betrayed by the Rắn Đen syndicate. Start physical movement at 0.0s and opening voice-over at 0.3s.\n"
     elif c['number'] == 1:
-        scene_intro = f"\n[SCENE OPENING HOOK — Mở cảnh {c['scene']:02d}: {scene_obj['title']}]\nScene goal: {scene_obj['purpose']} Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.\n"
+        scene_intro = f"\n[SCENE OPENING HOOK — Mở cảnh {c['scene']:02d}: {scene_obj['title']}]\nScene goal: {scene_obj['purpose']} Establish the setting and dramatic stakes from 0.0s with natural movement and dialogue at 0.3s.\n"
     else:
         scene_intro = ''
     detail=c.get('cinematic',{})
     intent=f"\n[DRAMATIC INTENT — show through behaviour, never narrate this note]\n{detail['intent']}\n" if detail else ''
-    staging=f"\n[BLOCKING AND PERFORMANCE]\nBlocking: {detail['blocking']}\nPerformance: {detail['performance']}\n" if detail else ''
+    perf_text = detail.get('performance', '')
+    if perf_text and 'No exaggerated sadness' not in perf_text:
+        perf_text = f"{perf_text.rstrip('.')} (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)"
+    elif perf_text and 'Micro-expression' not in perf_text:
+        perf_text = f"{perf_text.rstrip('.')}. Acting discipline: Micro-expression, subtle breathing, natural eye movement."
+    staging=f"\n[BLOCKING AND PERFORMANCE]\nBlocking: {detail['blocking']}\nPerformance: {perf_text}\n" if detail else ''
     surface=f"\n[VISIBLE TEXTURE]\n{detail['texture']}\n" if detail else ''
-    framing=f"\nComposition: {detail['composition']}\nFocus: {detail['focus']}" if detail else ''
+    is_action_shot = (c['camera'] == 'H') or (c['scene'] in (8, 12, 18, 23, 24, 29, 30, 41, 42, 43, 44, 46, 51) and c['camera'] in ('H', 'T'))
+    shutter_spec = (
+        '150-degree action shutter (24 fps) for crisp, sharp kinetic motion edges during physical action'
+        if is_action_shot else
+        '180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing'
+    )
+    camera_contract = (
+        'Continuity lock (CONTINUE): Inherit the exact camera position, focal length, horizon line, prop placement, eyeline and 180-degree movement axis from the final frame of the preceding clip; zero framing reset.'
+        if continuous else
+        'Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.'
+    )
+    cam_move_defaults = {
+        'W': '0.0–3.0s: slow lateral dolly gliding gently with the subject entry; 3.0–6.5s: dolly slows and settles to hold the wide spatial geography; 6.5–10.0s: very subtle optical push-in to underscore isolation and dramatic weight. No snap zoom, no heavy shake, no axis jump.',
+        'M': '0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.',
+        'C': '0.0–3.0s: locked portrait framing on eyes and breathing; 3.0–6.5s: imperceptible slow push-in during spoken delivery; 6.5–10.0s: rock-steady hold on the three-layer micro-expression settle. No snap zoom, no heavy shake, no axis jump.',
+        'I': '0.0–3.0s: crisp macro track-in with the hand approaching the prop; 3.0–6.5s: locked close-focus hold on tactile finger mechanics; 6.5–10.0s: steady settle on the final object state. No snap zoom, no heavy shake, no axis jump.',
+        'T': '0.0–3.0s: smooth Steadicam lateral glide matching the subject stride; 3.0–6.5s: maintain parallel pace and constant distance along the 180-degree line; 6.5–10.0s: decelerate smoothly into the stopping mark. No snap zoom, no heavy shake, no axis jump.',
+        'H': '0.0–3.0s: grounded shoulder-rig follow as physical tension initiates; 3.0–6.5s: controlled lateral pivot keeping both figures and prop clear; 6.5–10.0s: steady breathing settle into the end posture. No snap zoom, no heavy shake, no axis jump.',
+        'O': '0.0–3.0s: anchor foreground shoulder silhouette and establish eyeline depth; 3.0–6.5s: subtle push past the shoulder anchor during the key exchange; 6.5–10.0s: hold locked over-the-shoulder tension. No snap zoom, no heavy shake, no axis jump.',
+        'P': '0.0–3.0s: initiate slow, deliberate dolly push-in along the optical axis; 3.0–6.5s: sustain smooth forward glide as psychological weight builds; 6.5–10.0s: ease gently into the close final framing. No snap zoom, no heavy shake, no axis jump.',
+    }
+    if c['id'] == '01.1':
+        lens_spec = '35mm, 24 fps, 180-degree shutter, eye-level, slow lateral dolly with subtle push-in. Camera glides gently with Sơn, keeping the coach on the left and the empty space toward the coastal town on the right.'
+        cam_move = '0.0–3.0s: camera tracks gently laterally as Sơn steps down from the coach. 3.0–6.5s: as the coach pulls out of frame, the camera slows down and settles. 6.5–10.0s: camera pushes in very subtly toward Sơn, emphasizing his solitude against the empty coastal road. No snap zoom, no heavy shake, no axis jump.'
+    else:
+        lens_spec = f"{CAMERAS[c['camera']]} Shutter: {shutter_spec}."
+        cam_move = detail.get('camera_movement', cam_move_defaults[c['camera']])
+    framing = (
+        f"\n- Framing & Angle Composition: {detail['composition']}\n"
+        f"- Camera Movement Plan (0–10s): {cam_move}\n"
+        f"- Optical Focus & Depth of Field: {detail['focus']}\n"
+        f"- Camera Stability & Continuity Contract: {camera_contract}"
+    ) if detail else f"\n- Camera Stability & Continuity Contract: {camera_contract}"
     rhythm=f"\nAction rhythm: {detail['rhythm']}" if detail else ''
-    sound_specific=f"\nForeground sound: {detail['sound_detail']}" if detail else ''
-    camera_contract='Keep the exact previous camera, lens and axis; no framing reset.' if continuous else 'One new coverage angle on the established side of the axis. Never cut internally.'
+    sound_specific=f"\nForeground motivated sound: {detail['sound_detail']}" if detail else ''
     return f"""{head}
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: {shutter_spec}. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
 {locks}
 {note.strip()}
 {picture_refs}
@@ -334,8 +421,7 @@ def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None
 [TIMELINE AND LOCATION]
 Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c['story_time']}.
 {location}
-{c['lighting']}
-{scene_intro}{intent}
+Lighting & Color: {c['lighting']} Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.{spatial_block}{scene_intro}{intent}
 
 [EDIT IN — do not render the previous shot again]
 {transition_text(c,previous)}
@@ -343,33 +429,33 @@ Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c[
 [START FRAME — state only, not an action to repeat]
 {c['start_frame']}
 
-[CAMERA]
-{CAMERAS[c['camera']]}
-{camera_contract}{framing}
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: {lens_spec}{framing}
 
-[ACTION — 0–10s, one brisk evolving take]
+[ACTION — 0–10s, one clear primary action in a continuous take]
 {c['action']}
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.{rhythm}
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.{rhythm}
 {staging}
 
-[DIALOGUE]
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
 {voice_block(plan,c)}
 
 [PROPS]
-Reference only; enact only the current ACTION, not a future handover.
+{object_inventory_block}Reference only; enact only the current ACTION, not a future handover.
 {prop_text}
 {surface}
 
 [SOUND]
-Location bed: {sound}.{sound_specific}
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: {audio_bridge or 'Follow the stated incoming/outgoing edit without restarting the ambience.'}
+Continuous ambience bed: {sound}.{sound_specific}
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: {audio_bridge or 'Follow the stated incoming/outgoing edit without restarting the ambience.'}
 
-[END FRAME — natural motion continues]
+[END FRAME — lock position, props, eyeline & movement axis]
 {end}
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 {out}
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
 """
 
 
@@ -382,12 +468,26 @@ def render_scene_readme(plan: dict, scene: dict, items: list[dict]) -> str:
            'Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.', '',
            '| Clip | Cách nối vào | Đầu clip | Hành động mới | Cuối clip | Thoại |',
            '|---|---|---|---|---|---|']
+    extra_header = []
+    if scene.get('spatial_lock_vi') and scene.get('fixed_objects_vi'):
+        extra_header += [
+            '## Khóa Không Gian & Hệ Vật Thể Cố Định Xuyên Suốt Cảnh (Clip 1–6)',
+            f"- **Không gian cố định toàn cảnh (Fixed Scene Space):** {scene['spatial_lock_vi']}",
+            f"- **Hệ vật thể cố định từ đầu tới cuối cảnh (Fixed Scene Objects):** {scene['fixed_objects_vi']}",
+            "- **Quy tắc bất biến:** Cả 6 clip (Clip 1–6) trong cảnh này chỉ xoay quanh đúng không gian và hệ vật thể cố định nêu trên; tuyệt đối không tự sinh thêm đồ vật lạ hay thay đổi bố cục không gian giữa chừng.",
+            ''
+        ]
     if scene.get('dramaturgy'):
         d=scene['dramaturgy']
-        lines[8:8]=[f"**Câu hỏi đang mở:** {d['dramatic_question_vi']}",
-                    f"**Móc vào cảnh:** {d['hook_vi']}",
-                    f"**Điểm bẻ:** {d['turn_vi']}",
-                    f"**Gieo / trả:** {d['payoff_or_setup_vi']}",'']
+        extra_header += [
+            f"**Câu hỏi đang mở:** {d['dramatic_question_vi']}",
+            f"**Móc vào cảnh:** {d['hook_vi']}",
+            f"**Điểm bẻ:** {d['turn_vi']}",
+            f"**Gieo / trả:** {d['payoff_or_setup_vi']}",
+            ''
+        ]
+    if extra_header:
+        lines[8:8] = extra_header
     for c in items:
         d=' / '.join(dialogue_text(plan,x) for x in c['dialogue']) or '—'
         lines.append(f"| [{c['number']}](clip-{c['number']}.md) | {c['transition']} · {TRANSITIONS[c['transition']]} | {c['start_frame']} | {c['action']} | {c['end_frame']} | {d} |")
@@ -399,6 +499,8 @@ def render_scene_readme(plan: dict, scene: dict, items: list[dict]) -> str:
             beats_vi=sp.get('beats_vi','')
             lines += [
                 f"### Clip {c['number']} ({c['id']}) · {c['location']} · Góc máy {c['camera']}",
+                f"- **Không gian cố định của cảnh:** {scene.get('spatial_lock_vi','')}",
+                f"- **Hệ vật thể cố định xoay quanh từ đầu tới cuối cảnh:** {scene.get('fixed_objects_vi','')}",
                 f"- **Trang phục & Vật dụng mang theo:** {gear_vi}",
                 f"- **Diễn biến 3 nhịp (0–10s):** {beats_vi}",
                 f"- **Chỉ đạo diễn xuất:** {c['cinematic']['intent']} **Diễn xuất:** {c['cinematic']['performance']}",
@@ -412,7 +514,7 @@ def render_scene_readme(plan: dict, scene: dict, items: list[dict]) -> str:
 
 def render_script(plan: dict, shots: list[dict]) -> str:
     lines=[f"# {plan['title']}", f'## Kịch bản phân cảnh chi tiết bản {edition(plan)} — Chuẩn biên kịch điện ảnh 30 năm', '',
-           '**60 đơn vị sản xuất × 6 clip × 10 giây = 60 phút hình nguồn.** Mỗi clip một cú máy, quản lý chặt chẽ trang phục, ba lô, túi xách, đồng hồ, sổ sách và đạo cụ cầm tay xuyên suốt 360 phân cảnh.', '',
+           '**60 đơn vị sản xuất × 6 clip × 10 giây = 60 phút hình nguồn.** Mỗi cảnh khóa chặt một không gian cố định và một hệ vật thể cố định xuyên suốt từ Clip 1 đến Clip 6; quản lý chặt chẽ trang phục, ba lô, túi xách, đồng hồ, sổ sách và đạo cụ cầm tay xuyên suốt 360 phân cảnh.', '',
            'Nguồn duy nhất: `PHAN_CANH_V3.json`. Hành động/camera viết tiếng Anh cho prompt kèm bản phân cảnh tiếng Việt 3 nhịp chi tiết. Tái sinh bằng `python3 build_full_60_scenes.py`; kiểm tra bằng `python3 build_full_60_scenes.py --check`.', '',
            'Sơn có bảy ngày trước chuyến tàu chuyển Hạ đi. Anh hợp tác với Mây, giao bằng chứng cho điều tra và chấp nhận trả giá. Kiên muốn Sơn im lặng, Bà Hai muốn lấy lại quyền kiểm soát. Cuộc trao đổi ở cảng bị phản bội; Dũng dùng chất Tê hư cấu giữ Sơn sống, cả hai phe đều nhận biết thuốc. Hạ để lại dấu và mở đường, Mây dẫn việc cứu người. Sơn cứu cả Kiên khỏi ngã rồi tự nhận còng.', '',
            '| Cảnh | Phút phim | Tên | Biến chuyển mới |', '|---|---|---|---|']
@@ -420,6 +522,12 @@ def render_script(plan: dict, shots: list[dict]) -> str:
         n=s['number']; lines.append(f"| {n:02d} | {clock((n-1)*60)}–{clock(n*60)} | {s['title']} | {s['purpose']} |")
     for s in plan['scenes']:
         n=s['number']; lines += ['',f"### CẢNH {n:02d}: {s['title']}",f"*Thời gian truyện: {s['story_time']}*",s['purpose'],'']
+        if s.get('spatial_lock_vi') and s.get('fixed_objects_vi'):
+            lines += [
+                f"**Khóa không gian cố định toàn cảnh (Clip 1–6):** {s['spatial_lock_vi']}",
+                f"**Hệ vật thể cố định từ đầu tới cuối cảnh (Clip 1–6):** {s['fixed_objects_vi']}",
+                ''
+            ]
         if s.get('dramaturgy'):
             d=s['dramaturgy']
             lines += [f"**Câu hỏi:** {d['dramatic_question_vi']}",f"**Móc vào:** {d['hook_vi']}",
@@ -430,7 +538,7 @@ def render_script(plan: dict, shots: list[dict]) -> str:
             props_str=', '.join(c['props']) if c['props'] else 'Không phát sinh đạo cụ mới'
             lines += [f"**Clip {c['number']} ({c['id']}) · {c['transition']} · {c['location']} · {c['camera']}**",
                       f"- **Trang phục & Vật dụng mang theo:** {sp.get('gear_vi', c.get('wardrobe_note',''))}",
-                      f"- **Mã đạo cụ khóa (Props):** `{props_str}`",
+                      f"- **Mã đạo cụ khóa xuyên cảnh (Fixed Scene Props):** `{props_str}`",
                       f"- **Diễn biến phân cảnh 3 nhịp (Tiếng Việt):** {sp.get('beats_vi','')}",
                       f"- **Đầu (Start Frame):** {c['start_frame']}",
                       f"- **Hành động 3 nhịp (Action Prompt):** {c['action']}",

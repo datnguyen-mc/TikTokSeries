@@ -1,55 +1,64 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice: warm, clear, expressive Southern Vietnamese female voice.
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.0x conversational rhythm, crisp articulation and composed breath control.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. Wardrobe & gear: Plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice profile: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4.
 
 
 [TIMELINE AND LOCATION]
 Scene 52/60, clip 5/6; shot 52.5. Story time: D7 night continuous.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
-Same night gallery after arrest, steady backup-lamp spill, soft close-up light, no new light source.
+Lighting & Color: Same night gallery after arrest, steady backup-lamp spill, soft close-up light, no new light source. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 52 (Clip 1–6)]
+FIXED SCENE 52 SPACE (Lighthouse Top Circular Gallery — Inner Stone Wall): Single locked night location across all 6 clips: sheltered inner masonry wall of the lighthouse gallery under the steady glow of the working lighthouse lamp, east stair doorway behind Mây, sea wind outside.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 52.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Return something Hạ owns through a documented human gesture, not a symbolic miracle.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 52.4, ending with Sơn looking at Hạ, open watch lower in frame. Final physical lock: Sơn exhales and finds one small smile; Hạ stays close without reaching for another object.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 52.4, ending with Sơn looking at Hạ, open watch lower in frame.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Mây holding the two previously sealed scarf sleeves beside them. Framing: Frame Mây beside the seated pair with both existing evidence sleeves visible in the medium.
+Mây holding the two previously sealed scarf sleeves beside them.
 
-[CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Frame Mây beside the seated pair with both existing evidence sleeves visible in the medium.
-Focus: Keep the two sizes distinguishable and the handover legible, no isolated glamour shot of scarf fluttering.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Frame Mây beside the seated pair with both existing evidence sleeves visible in the medium.
+- Camera Movement Plan (0–10s): 0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep the two sizes distinguishable and the handover legible, no isolated glamour shot of scarf fluttering.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She returns the documented long scarf to Hạ and keeps the small fragment with the case file. Beat 2 (3.0–6.5s): She gives Hạ only the long remainder, keeping the short fragment sealed with the file. Beat 3 (6.5–10.0s): Mây's warmth is familiar, Hạ receives the cloth without instantly changing clothes or using it as a weapon, settling crisply into the end frame as grey dress stays on Hạ, the long torn edge matches the fragment, sleeve count does not multiply.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The long section changes owner once, Mây withdraws with the small piece and the scene remains in the same night; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Mây holding the two previously sealed scarf sleeves beside them), initiate the movement cleanly without hesitation. 2.5–6.5s: She returns the documented long scarf to Hạ and keeps the small fragment with the case file (performed once in real time without repeating the opening step). 6.5–10.0s: Mây's warmth is familiar, Hạ receives the cloth without instantly changing clothes or using it as a weapon, settling into the end state (Long scarf in Hạ's hands, short fragment still sealed with Mây) as grey dress stays on Hạ, the long torn edge matches the fragment, sleeve count does not multiply.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: The long section changes owner once, Mây withdraws with the small piece and the scene remains in the same night.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: She gives Hạ only the long remainder, keeping the short fragment sealed with the file.
-Performance: Mây's warmth is familiar, Hạ receives the cloth without instantly changing clothes or using it as a weapon.
+Performance: Mây's warmth is familiar, Hạ receives the cloth without instantly changing clothes or using it as a weapon (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Phần khăn lụa xanh dài mà tên Dũng đem tới thị trấn tao đã giữ kỹ trong túi hồ sơ, giờ trao trả lại cho chủ nhân của nó quàng ấm vai nè Hạ.
-Hạ (@Ha), nói trong hình: Cảm ơn mày nhiều lắm Mây, còn mảnh ngắn cứ giữ trong hồ sơ để làm chứng.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.7s, two natural back-and-forth conversational turns (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Mây (@May), nói trong hình [0.3–4.1s | giọng nữ dịu lại, quàng phần khăn lụa xanh lên vai bạn thân]: Phần khăn lụa dài tao giữ kỹ trong túi, giờ trả lại mày nè Hạ.
+Hạ (@Ha), nói trong hình [4.4–7.7s | giọng nữ ấm áp nắm tay Mây]: Cảm ơn mày nhiều lắm Mây, mảnh ngắn cứ giữ trong hồ sơ.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 52 (Clip 1–6)]
+FIXED SCENE 52 OBJECTS (Clip 1–6): (1) The SAME single engraved silver pocket watch: lid CLOSED with dented case in Clip 1 (WATCH), lid OPENED for the first time in Clips 2–4 revealing cracked inner glass and small photo of Hạ while Sơn winds the crown and hands resume ticking (WATCH_OPEN), and lid CLOSED again in Clip 6 (WATCH); (2) Both pieces of Hạ's pale-blue silk scarf: long section (SCARF_REMAINDER) returned by Mây to drape over Hạ's shoulders in Clip 5, and short fragment (SCARF_FRAGMENT) kept in Mây's evidence file.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 52; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
 - Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
 - Short torn end of Hạ scarf, recovered by Sơn at the latch, later sealed with Mây. Not a full scarf.
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. It runs again after 52.3; never open it again as a new reveal.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 
 [VISIBLE TEXTURE]
@@ -57,13 +66,14 @@ Grey dress stays on Hạ, the long torn edge matches the fragment, sleeve count 
 
 
 [SOUND]
-Location bed: strong sea wind, fabric and restrained footsteps.
-Foreground sound: Evidence sleeve rustle and one soft cloth movement sit under Mây's plain line.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: strong sea wind, fabric and restrained footsteps.
+Foreground motivated sound: Evidence sleeve rustle and one soft cloth movement sit under Mây's plain line.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Long scarf in Hạ's hands, short fragment still sealed with Mây. Final physical lock: She gives Hạ only the long remainder, keeping the short fragment sealed with the file.
+[END FRAME — lock position, props, eyeline & movement axis]
+Long scarf in Hạ's hands, short fragment still sealed with Mây.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 52.6: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,65 +1,74 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice: smooth Southern Vietnamese male voice becoming clipped under pressure.
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. Wardrobe & gear: Tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice profile: Smooth, calculated urban Southern Vietnamese male baritone, polished business cadence that tightens into cold menace under pressure.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Kiên wears his tailored white suit and polished shoes, luxury gold wristwatch glinting on his left wrist.
 
 
 [TIMELINE AND LOCATION]
 Scene 36/60, clip 5/6; shot 36.5. Story time: D7 afternoon.
-Bảy coffee stall, green canvas awning, counter landward, plastic tables seaward, street visible in the counter mirror.
-Present-day afternoon sun outside, soft green-awning shade for faces.
+Ông Bảy's traditional Vietnamese coastal sidewalk coffee stall (quán cà phê cóc ven biển): sun-faded green canvas awning in the sea wind, weathered wooden counter with metal phin filters, low plastic tables seaward beside the stone sea wall, salt-bleached village houses reflected in the counter mirror.
+Lighting & Color: Present-day afternoon sun outside, soft green-awning shade for faces. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 36 (Clip 1–6)]
+FIXED SCENE 36 SPACE (Ông Bảy's Seafront Coffee Stall & White Car Parked at Curb): Single contiguous afternoon space across all 6 clips: Sơn's sea-facing plastic table under Ông Bảy's green canvas awning and Kiên's white sedan parked directly at the street curb beside the stall.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 36.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make the demanded confession reveal what Kiên wants bought beyond the ledger.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 36.4, ending with Window closed, Sơn still standing outside the car's reach. Final physical lock: Kiên closes the window with his right hand, Sơn staying outside reaching distance rather than pursuing it.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 36.4, ending with Window closed, Sơn still standing outside the car's reach.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Kiên returning toward Sơn's table before leaving. Framing: Frame the existing folder on the table between their separate hands, car still logically behind Kiên.
+Kiên returning toward Sơn's table before leaving.
 
-[CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Frame the existing folder on the table between their separate hands, car still logically behind Kiên.
-Focus: Keep the closed folder and Sơn's refusal of contact readable without printing legible confession text.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Frame the existing folder on the table between their separate hands, car still logically behind Kiên.
+- Camera Movement Plan (0–10s): 0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep the closed folder and Sơn's refusal of contact readable without printing legible confession text.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Kiên leaves a confession blaming Sơn and Bà Hai alone, trying to turn Sơn into the disposable witness who excludes him from the account. Beat 2 (3.0–6.5s): Kiên leaves the folder once; Sơn neither opens nor signs it and does not surrender the copy. Beat 3 (6.5–10.0s): Kiên treats the coercion as routine paperwork, his practiced smile hiding impatience at resistance, settling crisply into the end frame as plain paper and immaculate cuff reinforce how ordinary the demand is to Kiên.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: The condition arrives after the apparent agreement, ending with the object refusing to become a handshake; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Kiên returning toward Sơn's table before leaving), initiate the movement cleanly without hesitation. 2.5–6.5s: Kiên leaves a confession blaming Sơn and Bà Hai alone, trying to turn Sơn into the disposable witness who excludes him from the account (performed once in real time without repeating the opening step). 6.5–10.0s: Kiên treats the coercion as routine paperwork, his practiced smile hiding impatience at resistance, settling into the end state (Blank confession folder placed on the table, Sơn not touching it) as plain paper and immaculate cuff reinforce how ordinary the demand is to Kiên.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: The condition arrives after the apparent agreement, ending with the object refusing to become a handshake.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Kiên leaves the folder once; Sơn neither opens nor signs it and does not surrender the copy.
-Performance: Kiên treats the coercion as routine paperwork, his practiced smile hiding impatience at resistance.
+Performance: Kiên treats the coercion as routine paperwork, his practiced smile hiding impatience at resistance (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–9.1s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Kiên (@Vũ Kiên), nói trong hình: Cầm tập biên bản nhận tội dựng sẵn này đi, ký xác nhận toàn bộ đường dây là do anh và Bà Hai điều hành, tuyệt đối không được nhắc tên tôi.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–8.2s, one natural, well-articulated spoken line (30 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Kiên (@Vũ Kiên), nói trong hình [0.3–8.2s | giọng nam lạnh lùng khi đặt tập biên bản nhận tội lên bàn]: Cầm tập biên bản nhận tội dựng sẵn này đi. Ký xác nhận toàn bộ đường dây là do anh và Bà Hai điều hành, không được nhắc tên tôi.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 36 (Clip 1–6)]
+FIXED SCENE 36 OBJECTS (Clip 1–6): (1) Kiên's white sedan with rear window rolled down showing Hạ inside gripping the inner door handle; (2) Plastic table and coffee glass at Ông Bảy's stall; (3) Fake pre-written confession folder placed on the table by Kiên; (4) Kiên's gold wristwatch on left wrist and Sơn's white-bandaged left wrist.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 36; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
 
 [VISIBLE TEXTURE]
 Plain paper and immaculate cuff reinforce how ordinary the demand is to Kiên.
 
 
 [SOUND]
-Location bed: glasses touching and awning cloth in sea wind.
-Foreground sound: One folder contact and his low instruction are enough, no dramatic pen-click not established in the scene.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: glasses touching and awning cloth in sea wind.
+Foreground motivated sound: One folder contact and his low instruction are enough, no dramatic pen-click not established in the scene.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Blank confession folder placed on the table, Sơn not touching it. Final physical lock: Kiên leaves the folder once; Sơn neither opens nor signs it and does not surrender the copy.
+[END FRAME — lock position, props, eyeline & movement axis]
+Blank confession folder placed on the table, Sơn not touching it.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 36.6: L-cut: âm cũ đi qua cú cắt. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

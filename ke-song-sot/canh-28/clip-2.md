@@ -1,64 +1,74 @@
-Continue the scene seamlessly from the final frame of clip 1. Same composition at the seam, brisk new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 1. Same composition at the seam, natural new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 20; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. distant past age 20, black hair without grey, plain black suit, bare hands before first doorway, new black leather gloves kept in pocket until the exit. Voice: low, crisp, clear Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Son = Sơn: same approved identity, age 20; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Distant past age 20, black hair without grey, plain black suit, bare hands before first doorway, new black leather gloves kept in pocket until the exit. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 
 
 
 [TIMELINE AND LOCATION]
 Scene 28/60, clip 2/6; shot 28.2. Story time: PAST twenty-five years earlier night / D6 dawn from clip 4.
 Old apartment corridor twenty-five years earlier, wooden front door, stairwell window admitting rain sound.
-Distant-past rainy night corridor, amber stairwell bulb and dim household spill.
+Lighting & Color: Distant-past rainy night corridor, amber stairwell bulb and dim household spill. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 28 (Clip 1–6)]
+FIXED SCENE 28 SPACE (Old Apartment Corridor 25 Years Ago → Present Dune Cabin & Porch at Dawn): Match-cut memory structure: Clips 1–3 locked in the rain-lit apartment stairwell corridor outside a wooden front door 25 years ago; Clips 4–6 locked in the present-day wooden dune cabin and porch at Day 6 dawn.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 28.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Leave the irreversible act outside the image while showing that he chooses to enter.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 28.1, ending with Young Sơn's bare right hand just below the door knocker. Final physical lock: He comes close enough to knock, then leaves his hand just short of contact.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 28.1, ending with Young Sơn's bare right hand just below the door knocker.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Continue the physical action seamlessly from 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Young Sơn's bare right hand just below the door knocker. Final physical lock: He comes close enough to knock, then leaves his hand just short of contact.
+Young Sơn's bare right hand just below the door knocker.
 
-[CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-Keep the exact previous camera, lens and axis; no framing reset.
-Composition: Preserve the exact wide frame, corridor depth and hand position from the preceding seam.
-Focus: Hold the doorway as the sole focus of the action; no internal insert or shadow violence.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Wide Establishing / Master Shot (W) — 24mm/35mm prime lens (24mm for expansive coastal/harbour geography; 35mm for architectural wide masters), 24 fps, deep spatial field (f/5.6), eye-level horizontal axis. Anchor full-body blocking, architectural boundaries and 180-degree screen direction within the fixed scene space. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Preserve the exact wide frame, corridor depth and hand position from the preceding seam.
+- Camera Movement Plan (0–10s): 0.0–3.0s: slow lateral dolly gliding gently with the subject entry; 3.0–6.5s: dolly slows and settles to hold the wide spatial geography; 6.5–10.0s: very subtle optical push-in to underscore isolation and dramatic weight. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Hold the doorway as the sole focus of the action; no internal insert or shadow violence.
+- Camera Stability & Continuity Contract: Continuity lock (CONTINUE): Inherit the exact camera position, focal length, horizon line, prop placement, eyeline and 180-degree movement axis from the final frame of the preceding clip; zero framing reset.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): The door opens inward, Sơn enters, camera remains outside without showing harm. Beat 2 (3.0–6.5s): The door opens inward, young Sơn enters once, camera never follows him inside. Beat 3 (6.5–10.0s): His last visible hesitation ends in movement rather than a theatrical change of expression, settling crisply into the end frame as the same painted wood closes back into the corridor's ordinary surfaces.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Entry is brief; the closed door and empty corridor carry the remaining uncomfortable silence; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Young Sơn's bare right hand just below the door knocker), initiate the movement cleanly without hesitation. 2.5–6.5s: The door opens inward, Sơn enters, camera remains outside without showing harm (performed once in real time without repeating the opening step). 6.5–10.0s: His last visible hesitation ends in movement rather than a theatrical change of expression, settling into the end state (Door closed, empty corridor, rain audible beyond the stairwell) as the same painted wood closes back into the corridor's ordinary surfaces.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Entry is brief; the closed door and empty corridor carry the remaining uncomfortable silence.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: The door opens inward, young Sơn enters once, camera never follows him inside.
-Performance: His last visible hesitation ends in movement rather than a theatrical change of expression.
+Performance: His last visible hesitation ends in movement rather than a theatrical change of expression (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–8.3s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice-over narration only; visible mouths remain at rest while physical action advances.
-Sơn, lời dẫn ngoài hình: Nhưng khi cánh cửa mở ra trong đêm mưa năm hai mươi tuổi ấy, tôi đã bước qua ngưỡng cửa và đánh mất cuộc đời lương thiện của mình.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.7s, one natural, well-articulated spoken line (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at a natural 1.0x cadence; all visible mouths remain completely closed at rest while physical action unfolds.
+Sơn, lời dẫn ngoài hình [0.3–7.7s | giọng độc thoại nặng trĩu sự hối tiếc]: Nhưng khi cánh cửa mở ra trong đêm mưa năm hai mươi tuổi ấy, tôi đã bước qua ngưỡng cửa và đánh mất đời lương thiện của mình.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 28 (Clip 1–6)]
+FIXED SCENE 28 OBJECTS (Clip 1–6): (1) Past (Clips 1–3): wooden apartment door and young Sơn's new black leather gloves; (2) Present Cabin (Clips 4–6): Sơn's dark-olive canvas backpack (BACKPACK), complete locked black handgun case and key (GUN_CASE) handed permanently to Mây (DUTY_POUCH), wooden doorframe with tally marks #5 and #6 carved (MARKS), and police radio warning.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 28; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- Locked handgun case, no discharge. Sơn transfers complete case and key to Mây at 28.4 and remains unarmed thereafter.
+- Same wooden doorframe. Exactly 4 tally marks at the start and 4 at the end of THIS shot. No other tally row.
 
 [VISIBLE TEXTURE]
 The same painted wood closes back into the corridor's ordinary surfaces.
 
 
 [SOUND]
-Location bed: rain beyond stairwell and ordinary household sounds off screen.
-Foreground sound: Hinge, short footstep and rain remain; add no gunshot, impact or implied victim vocalization.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: rain beyond stairwell and ordinary household sounds off screen.
+Foreground motivated sound: Hinge, short footstep and rain remain; add no gunshot, impact or implied victim vocalization.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Door closed, empty corridor, rain audible beyond the stairwell. Final physical lock: The door opens inward, young Sơn enters once, camera never follows him inside.
+[END FRAME — lock position, props, eyeline & movement axis]
+Door closed, empty corridor, rain audible beyond the stairwell.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 28.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

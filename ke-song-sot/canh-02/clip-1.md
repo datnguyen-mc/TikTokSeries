@@ -1,56 +1,65 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
-@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
-@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Voice: rough, direct Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. Wardrobe & gear: Silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice profile: Velvet, low-alto Southern Vietnamese matriarch voice, unhurried aristocratic cadence, polite warmth masking cold command, razor-clear diction.
+@Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. Wardrobe & gear: Black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Voice profile: Gritty, taut mid-low Southern Vietnamese male voice, clipped street-hardened phrasing, tense jaw resonance, sharp urgent delivery.
 Sơn (past timeline) wears his tailored matte-black suit, open-collar white shirt, and concealed underarm holster; black leather gloves worn on night jobs or tucked in pocket at the flower shop. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers. Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and heavy black canvas work bag strapped across his shoulder.
 
 
 [TIMELINE AND LOCATION]
 Scene 02/60, clip 1/6; shot 02.1. Story time: PAST one month earlier night.
 City silk shop, teak desk to east, screened safe behind it, rear stock door west, warm practical lamps.
-Night interior, warm desk lamp and shop practicals, wet alley beyond.
+Lighting & Color: Night interior, warm desk lamp and shop practicals, wet alley beyond. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 02 (Clip 1–6)]
+FIXED SCENE 02 SPACE (Bà Hai's City Silk Shop & Wet Rear Alley): Locked night interior centered on the polished teak desk (east), silk-bolted shelves (north/south), screened safe alcove behind the desk, and wooden rear stockroom door opening to the rain-wet alley (west). Warm amber desk-lamp pool against cool rain shadows outside across all 6 clips.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 02.
 
 [SCENE OPENING HOOK — Mở cảnh 02: Quá Khứ: Hợp Đồng Cuối]
-Scene goal: Bà Hai giao việc cuối và Dũng lộ sự ghen tức. Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.
+Scene goal: Bà Hai giao việc cuối và Dũng lộ sự ghen tức. Establish the setting and dramatic stakes from 0.0s with natural movement and dialogue at 0.3s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Introduce a household invitation whose geometry already limits Sơn's freedom to leave.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 01.6, ending with Closed watch in his hand, sea beyond his shoulder. Final physical lock: He rotates the engraved lid into existing light without touching the release clasp.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 01.6, ending with Closed watch in his hand, sea beyond his shoulder.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Silk curtain at left, three figures around a teak desk. Framing: Keep Bà Hai behind the desk and Dũng near the rear door within one wide frame.
+Silk curtain at left, three figures around a teak desk.
 
-[CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Keep Bà Hai behind the desk and Dũng near the rear door within one wide frame.
-Focus: Keep all three positions legible, with the door not swallowed by excessive blur.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Wide Establishing / Master Shot (W) — 24mm/35mm prime lens (24mm for expansive coastal/harbour geography; 35mm for architectural wide masters), 24 fps, deep spatial field (f/5.6), eye-level horizontal axis. Anchor full-body blocking, architectural boundaries and 180-degree screen direction within the fixed scene space. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Keep Bà Hai behind the desk and Dũng near the rear door within one wide frame.
+- Camera Movement Plan (0–10s): 0.0–3.0s: slow lateral dolly gliding gently with the subject entry; 3.0–6.5s: dolly slows and settles to hold the wide spatial geography; 6.5–10.0s: very subtle optical push-in to underscore isolation and dramatic weight. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep all three positions legible, with the door not swallowed by excessive blur.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Sơn stops before Bà Hai, Dũng quietly closes the rear door. Beat 2 (3.0–6.5s): Sơn stops at the desk edge while Dũng closes the door softly behind his path. Beat 3 (6.5–10.0s): Bà Hai's warmth is practiced and genuine enough to unsettle; Dũng avoids a theatrical glare, settling crisply into the end frame as silk absorbs the warm lamp light while the desk retains a hard reflective edge.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Silk curtain at left, three figures around a teak desk), initiate the movement cleanly without hesitation. 2.5–6.5s: Sơn stops, bà Hai, Dũng quietly closes the rear door (performed once in real time without repeating the opening step). 6.5–10.0s: Bà Hai's warmth is practiced and genuine enough to unsettle; Dũng avoids a theatrical glare, settling into the end state (Sơn standing opposite Bà Hai, Dũng by the shut door) as silk absorbs the warm lamp light while the desk retains a hard reflective edge.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
 Action rhythm: Snap the rear door shut and deliver the invitation immediately to establish brisk, tight room control.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Sơn stops at the desk edge while Dũng closes the door softly behind his path.
-Performance: Bà Hai's warmth is practiced and genuine enough to unsettle; Dũng avoids a theatrical glare.
+Performance: Bà Hai's warmth is practiced and genuine enough to unsettle; Dũng avoids a theatrical glare (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Bà Hai (@HaiNgoc), nói trong hình: Một tháng trước ở tiệm lụa thành phố, con bước vô đây lúc nửa đêm là có chuyện rồi, ngồi xuống bàn uống chén trà với má đi Sơn.
-Sơn (@Son), nói trong hình: Con tới để báo thẳng với má chuyện rút lui, không vòng vo nữa.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–8.2s, two natural back-and-forth conversational turns (30 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Bà Hai (@HaiNgoc), nói trong hình [0.3–4.6s | giọng quý bà miền Nam ngọt lạnh, uy quyền ẩn sau vẻ hiền từ]: Một tháng trước con đến lúc nửa đêm là có chuyện rồi. Ngồi uống trà đi Sơn.
+Sơn (@Son), nói trong hình [4.9–8.2s | giọng nam trầm kính cẩn nhưng kiên quyết, không nao núng]: Con tới thưa thẳng với má chuyện rút lui, không vòng vo nữa.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 02 (Clip 1–6)]
+FIXED SCENE 02 OBJECTS (Clip 1–6): (1) Polished teak desk with warm brass lamp and violet silk strip; (2) Printed photograph of Vũ Kiên in white suit with building entrance sketch on the back; (3) Sơn's paper return coach ticket; (4) Bà Hai's green jade bracelet on left wrist and unlit black holder; (5) Dũng's black canvas shoulder work bag at the rear door.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 02; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
+- Photograph of Kiên in white suit with a hand-drawn building sketch on its back; no legible words.
 - Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
 
 [VISIBLE TEXTURE]
@@ -58,13 +67,14 @@ Silk absorbs the warm lamp light while the desk retains a hard reflective edge.
 
 
 [SOUND]
-Location bed: silk shifting and muted rain outside.
-Foreground sound: Door latch is quiet but distinct; her invitation stays conversational, without a sinister sting.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: silk shifting and muted rain outside.
+Foreground motivated sound: Door latch is quiet but distinct; her invitation stays conversational, without a sinister sting.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Sơn standing opposite Bà Hai, Dũng by the shut door. Final physical lock: Sơn stops at the desk edge while Dũng closes the door softly behind his path.
+[END FRAME — lock position, props, eyeline & movement axis]
+Sơn standing opposite Bà Hai, Dũng by the shut door.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 02.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

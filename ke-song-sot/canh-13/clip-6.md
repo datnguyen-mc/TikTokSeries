@@ -1,52 +1,61 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.0x conversational rhythm, crisp articulation and composed breath control.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. Wardrobe & gear: Plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice profile: Earnest, clear young Southern Vietnamese male tenor, attentive and respectful cadence, crisp operational diction.
 Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset.
 
 
 [TIMELINE AND LOCATION]
 Scene 13/60, clip 6/6; shot 13.6. Story time: D3 noon.
 Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
-Present-day noon, clinic window light with neutral practicals, green curtains.
+Lighting & Color: Present-day noon, clinic window light with neutral practicals, green curtains. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 13 (Clip 1–6)]
+FIXED SCENE 13 SPACE (Hòn Sóng Town Clinic Examination Room & Post Desk): Locked noon medical interior across Clips 1–5 (steel examination bed with green privacy curtain, locked sample cupboard, metal instrument tray) and adjacent police post desk in Clip 6. Cool daylight and clean fluorescent fill.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 13.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Show that seeking Sơn does not mean abandoning the people and evidence already in custody.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 13.5, ending with Mây's closed folder resting against her chest. Final physical lock: She hears the slip without interrupting and closes the existing folder only after the important words.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 13.5, ending with Mây's closed folder resting against her chest.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Mây returning to the station, Thành at the support radio. Framing: Frame Mây, Thành, support radio and the departing route in the same medium station setup.
+Mây returning to the station, Thành at the support radio.
 
-[CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Frame Mây, Thành, support radio and the departing route in the same medium station setup.
-Focus: Keep her mouth and Thành's radio hand readable, without cutting to an unseen superior or adding another officer portrait.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Frame Mây, Thành, support radio and the departing route in the same medium station setup.
+- Camera Movement Plan (0–10s): 0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep her mouth and Thành's radio hand readable, without cutting to an unseen superior or adding another officer portrait.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): She requests a district team to protect the town and heads up the hill. Beat 2 (3.0–6.5s): She assigns custody and town protection before taking the folder and leaving toward the hill. Beat 3 (6.5–10.0s): Her authority is clear and workmanlike; Thành's acknowledgement should be competent rather than needlessly anxious, settling crisply into the end frame as daylight across the desk and used folder edges retain continuity with this modest station's earlier checks.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Finish the practical instruction before the departure, so the scene feels like a completed delegation rather than a cliffhanger trick; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Mây returning to the station, Thành at the support radio), initiate the movement cleanly without hesitation. 2.5–6.5s: She requests a district team to protect the town and heads up the hill (performed once in real time without repeating the opening step). 6.5–10.0s: Her authority is clear and workmanlike; Thành's acknowledgement should be competent rather than needlessly anxious, settling into the end state (Thành confirming the support request, Mây leaving with the folder) as daylight across the desk and used folder edges retain continuity with this modest station's earlier checks.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Finish the practical instruction before the departure, so the scene feels like a completed delegation rather than a cliffhanger trick.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: She assigns custody and town protection before taking the folder and leaving toward the hill.
-Performance: Her authority is clear and workmanlike; Thành's acknowledgement should be competent rather than needlessly anxious.
+Performance: Her authority is clear and workmanlike; Thành's acknowledgement should be competent rather than needlessly anxious (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Thành ở lại khóa chặt phòng bệnh và giữ kỹ vật chứng ống thuốc, xin thêm tổ hỗ trợ từ huyện xuống, chị lên đồi gặp thẳng Bóng Ma.
-Thành (@Phó Thành), nói trong hình: Em khóa hai lớp cửa rồi, chị đi cẩn thận nghe.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–8.0s, two natural back-and-forth conversational turns (29 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Mây (@May), nói trong hình [0.3–4.1s | giọng nữ chỉ huy dứt khoát trước khi lên đồi]: Thành khóa chặt phòng bệnh và giữ vật chứng, chị lên gặp thẳng Bóng Ma.
+Thành (@Phó Thành), nói trong hình [4.4–8.0s | giọng nam trẻ nghiêm trang, đáng tin cậy]: Em khóa hai lớp cửa và xin hỗ trợ rồi, chị đi cẩn thận.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 13 (Clip 1–6)]
+FIXED SCENE 13 OBJECTS (Clip 1–6): (1) Steel clinic bed with the immobilized attacker breathing steadily; (2) Recovered fictional Tê applicator (VIAL) with distinctive cap on a metal tray; (3) Bác sĩ Linh's stethoscope, medical bag (MED_BAG), and old reference case file photo; (4) Mây's evidence folder/duty pouch and Thành's notebook.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 13; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
+- Fictional Tê device or sealed vial associated with the attackers. No real substance, dose or application technique.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
 
@@ -55,13 +64,14 @@ Daylight across the desk and used folder edges retain continuity with this modes
 
 
 [SOUND]
-Location bed: ceiling fan and quiet paperwork.
-Foreground sound: A quiet radio confirmation follows her assignment, never competing as a second full spoken exchange.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Station radio fades into porch wind. Cut to Mây joining the waiting Sơn and placing her cuffs once.
+Continuous ambience bed: ceiling fan and quiet paperwork.
+Foreground motivated sound: A quiet radio confirmation follows her assignment, never competing as a second full spoken exchange.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Station radio fades into porch wind. Cut to Mây joining the waiting Sơn and placing her cuffs once.
 
-[END FRAME — natural motion continues]
-Thành confirming the support request, Mây leaving with the folder. Final physical lock: She assigns custody and town protection before taking the folder and leaving toward the hill.
+[END FRAME — lock position, props, eyeline & movement axis]
+Thành confirming the support request, Mây leaving with the folder.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 14.1: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

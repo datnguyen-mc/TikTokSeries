@@ -1,56 +1,65 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice: focused, calm Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice: quick, polite, alert Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Bác sĩ Linh = Bác sĩ Linh: same approved identity, age 55; Vietnamese man, thin, grey hair, wire-rim glasses. Wardrobe & gear: Worn white doctor coat over checked shirt, stethoscope around neck, practical canvas medical response bag. Voice profile: Calm, reassuring mature Southern Vietnamese male physician voice, measured clinical clarity, warm steady undertone.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.0x conversational rhythm, crisp articulation and composed breath control.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. Wardrobe & gear: Plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. Voice profile: Earnest, clear young Southern Vietnamese male tenor, attentive and respectful cadence, crisp operational diction.
 Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Thành wears his light-blue shirt and neat round wire glasses, carrying his leather evidence folder and police radio handset. Bác sĩ Linh wears his worn white medical coat with stethoscope around his neck, keeping his canvas emergency medical bag and breathing-support kit at hand.
 
 
 [TIMELINE AND LOCATION]
 Scene 13/60, clip 1/6; shot 13.1. Story time: D3 noon.
 Small town clinic, steel beds behind green curtains, locked sample cupboard, desk and sink away from patients.
-Present-day noon, clinic window light with neutral practicals, green curtains.
+Lighting & Color: Present-day noon, clinic window light with neutral practicals, green curtains. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 13 (Clip 1–6)]
+FIXED SCENE 13 SPACE (Hòn Sóng Town Clinic Examination Room & Post Desk): Locked noon medical interior across Clips 1–5 (steel examination bed with green privacy curtain, locked sample cupboard, metal instrument tray) and adjacent police post desk in Clip 6. Cool daylight and clean fluorescent fill.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 13.
 
 [SCENE OPENING HOOK — Mở cảnh 13: Phòng Khám]
-Scene goal: Bác sĩ xác định dấu hiệu Tê, Mây có vật chứng thay vì đoán bằng mặt. Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.
+Scene goal: Bác sĩ xác định dấu hiệu Tê, Mây có vật chứng thay vì đoán bằng mặt. Establish the setting and dramatic stakes from 0.0s with natural movement and dialogue at 0.3s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make care precede interrogation so the clinic scene changes the meaning of the preceding violence.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 12.6, ending with Mây by the stretcher, Sơn standing where she can see him. Final physical lock: He steps back once to give the stretcher room and stays where Mây can supervise him.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 12.6, ending with Mây by the stretcher, Sơn standing where she can see him.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Two attackers on separate beds, one sitting up under supervision. Framing: The wide view distinguishes two beds, Linh at the immobile man and Thành watching the conscious one.
+Two attackers on separate beds, one sitting up under supervision.
 
-[CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: The wide view distinguishes two beds, Linh at the immobile man and Thành watching the conscious one.
-Focus: Keep both patient positions and the observing people legible, without an invented monitor display or intrusive medical close-up.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Wide Establishing / Master Shot (W) — 24mm/35mm prime lens (24mm for expansive coastal/harbour geography; 35mm for architectural wide masters), 24 fps, deep spatial field (f/5.6), eye-level horizontal axis. Anchor full-body blocking, architectural boundaries and 180-degree screen direction within the fixed scene space. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: The wide view distinguishes two beds, Linh at the immobile man and Thành watching the conscious one.
+- Camera Movement Plan (0–10s): 0.0–3.0s: slow lateral dolly gliding gently with the subject entry; 3.0–6.5s: dolly slows and settles to hold the wide spatial geography; 6.5–10.0s: very subtle optical push-in to underscore isolation and dramatic weight. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep both patient positions and the observing people legible, without an invented monitor display or intrusive medical close-up.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Linh checks the immobile man's breathing while Mây records the time. Beat 2 (3.0–6.5s): Linh stays beside visible breathing while Mây records the observation, keeping access around the bed clear. Beat 3 (6.5–10.0s): His line is calm practical attention; Mây absorbs the need for patience rather than demanding instant answers, settling crisply into the end frame as green curtain folds and worn steel beds give the room lived-in restraint, not a glossy emergency ward.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Allow a short observation before the line, then hold ongoing care rather than a dramatic pronouncement of survival; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Two attackers on separate beds, one sitting up under supervision), initiate the movement cleanly without hesitation. 2.5–6.5s: Linh checks the immobile man's breathing while Mây records the time (performed once in real time without repeating the opening step). 6.5–10.0s: His line is calm practical attention; Mây absorbs the need for patience rather than demanding instant answers, settling into the end state (Linh at bedside, Thành watching the conscious attacker) as green curtain folds and worn steel beds give the room lived-in restraint, not a glossy emergency ward.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Allow a short observation before the line, then hold ongoing care rather than a dramatic pronouncement of survival.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Linh stays beside visible breathing while Mây records the observation, keeping access around the bed clear.
-Performance: His line is calm practical attention; Mây absorbs the need for patience rather than demanding instant answers.
+Performance: His line is calm practical attention; Mây absorbs the need for patience rather than demanding instant answers (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Bác sĩ Linh (@Bác sĩ Linh), nói trong hình: Trưa ngày thứ ba tại phòng khám, nhịp thở của gã này vẫn đều nhưng cơ bắp bị ức chế hoàn toàn, phải canh sát từng phút không được rời mắt.
-Mây (@May), nói trong hình: Bác sĩ Linh giữ mạng cho hắn giúp cháu, hắn là nhân chứng sống duy nhất lúc này.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–8.3s, two natural back-and-forth conversational turns (30 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Bác sĩ Linh (@Bác sĩ Linh), nói trong hình [0.3–4.4s | giọng bác sĩ lớn tuổi điềm đạm, chẩn đoán chính xác]: Trưa ngày thứ ba tại phòng khám, nhịp thở hắn đều nhưng cơ bị ức chế.
+Mây (@May), nói trong hình [4.7–8.3s | giọng nữ khẩn thiết, trao đổi nghiệp vụ với bác sĩ]: Bác sĩ giữ mạng cho hắn giúp cháu, hắn là nhân chứng duy nhất.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 13 (Clip 1–6)]
+FIXED SCENE 13 OBJECTS (Clip 1–6): (1) Steel clinic bed with the immobilized attacker breathing steadily; (2) Recovered fictional Tê applicator (VIAL) with distinctive cap on a metal tray; (3) Bác sĩ Linh's stethoscope, medical bag (MED_BAG), and old reference case file photo; (4) Mây's evidence folder/duty pouch and Thành's notebook.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 13; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
+- Fictional Tê device or sealed vial associated with the attackers. No real substance, dose or application technique.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
 - Bác sĩ Linh's practical canvas emergency medical bag and stethoscope with airway/breathing-support kit (no miracle antidote syringe).
@@ -60,13 +69,14 @@ Green curtain folds and worn steel beds give the room lived-in restraint, not a 
 
 
 [SOUND]
-Location bed: quiet ventilation and distant metal-tray sounds.
-Foreground sound: Continue the breathing thread from the dune into quiet ventilation and Linh's measured voice.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: quiet ventilation and distant metal-tray sounds.
+Foreground motivated sound: Continue the breathing thread from the dune into quiet ventilation and Linh's measured voice.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Linh at bedside, Thành watching the conscious attacker. Final physical lock: Linh stays beside visible breathing while Mây records the observation, keeping access around the bed clear.
+[END FRAME — lock position, props, eyeline & movement axis]
+Linh at bedside, Thành watching the conscious attacker.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 13.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

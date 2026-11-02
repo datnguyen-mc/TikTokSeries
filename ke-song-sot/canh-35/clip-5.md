@@ -1,49 +1,57 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward.
 
 
 [TIMELINE AND LOCATION]
 Scene 35/60, clip 5/6; shot 35.5. Story time: D7 morning.
-Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
-Present-day clear morning, coastal daylight, warm sheltered van and cabin interiors.
+Vietnamese coastal fishing town main road between the crossroad and fish market: weathered asphalt dusted with sea sand, low salt-bleached concrete houses with corrugated tin awnings and overhead utility wires, Ông Bảy's sidewalk coffee stall beside the stone sea wall with distant wooden fishing boats on the sea.
+Lighting & Color: Present-day clear morning, coastal daylight, warm sheltered van and cabin interiors. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 35 (Clip 1–6)]
+FIXED SCENE 35 SPACE (Hòn Sóng Market-Harbour Perimeter & Cabin Cot at Morning): Locked Day 7 morning preparation perimeter: Ông Bảy's stall and stationary rescue van behind the market wall (Clips 1–2, 6), low market roof overlooking the harbour roads (Clip 3), and Sơn leaving his backpack on the cabin cot to walk down the shuttered market street (Clips 4–5).
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 35.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let walking openly register as exposure earned by the earlier decision to stay.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 35.4, ending with Gloves inside the bag on the bed, Sơn with bare hands, with his dark-olive canvas backpack open beside his hands. Final physical lock: Sơn folds the pair into the canvas bag once and leaves it where it is.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 35.4, ending with Gloves inside the bag on the bed, Sơn with bare hands, Sơn's dark-olive canvas backpack resting open beside him.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Sơn leaving the hill path for the main road. Framing: Track laterally in the established direction with secured shutters remaining part of his route.
+Sơn leaving the hill path for the main road.
 
-[CAMERA]
-35mm fast-paced lateral tracking shot moving briskly in the established direction. No whip pan, drone move or reverse-axis cut.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Track laterally in the established direction with secured shutters remaining part of his route.
-Focus: Keep his bare hands and bandaged left wrist readable without pushing into an extra detail shot.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Steadicam Lateral Tracking Shot (T) — 35mm prime lens, 24 fps (f/4.0), gliding smoothly at pedestrian eye level parallel to the subject along the established movement axis. No whip pan, drone lift or reverse-axis jump. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Track laterally in the established direction with secured shutters remaining part of his route.
+- Camera Movement Plan (0–10s): 0.0–3.0s: smooth Steadicam lateral glide matching the subject stride; 3.0–6.5s: maintain parallel pace and constant distance along the 180-degree line; 6.5–10.0s: decelerate smoothly into the stopping mark. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep his bare hands and bandaged left wrist readable without pushing into an extra detail shot.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He walks openly past shutters being secured for the afternoon. Beat 2 (3.0–6.5s): He keeps a steady ordinary pace from hill path toward Bảy's table, not a center-street strut. Beat 3 (6.5–10.0s): His shoulders carry tension despite composure; no knowing looks to unseen admirers or heroic smile, settling crisply into the end frame as closed shutters and bright coastal light make a public road feel newly unprotected.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Allow an uninterrupted approach that ends at the table, without replaying his departure from the cabin; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Sơn leaving the hill path for the main road), initiate the movement cleanly without hesitation. 2.5–6.5s: He walks openly past shutters being secured for the afternoon (performed once in real time without repeating the opening step). 6.5–10.0s: His shoulders carry tension despite composure; no knowing looks to unseen admirers or heroic smile, settling into the end state (Sơn approaching the sea-facing coffee table) as closed shutters and bright coastal light make a public road feel newly unprotected.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Allow an uninterrupted approach that ends at the table, without replaying his departure from the cabin.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: He keeps a steady ordinary pace from hill path toward Bảy's table, not a center-street strut.
-Performance: His shoulders carry tension despite composure; no knowing looks to unseen admirers or heroic smile.
+Performance: His shoulders carry tension despite composure; no knowing looks to unseen admirers or heroic smile (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–8.9s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice-over narration only; visible mouths remain at rest while physical action advances.
-Sơn, lời dẫn ngoài hình: Tôi bước đi giữa con phố biển Hòn Sóng khi từng cánh cửa sắt chợ cá đang khép lại, sẵn sàng dùng chính bản thân mình làm mồi nhử cuối cùng.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at a natural 1.0x cadence; all visible mouths remain completely closed at rest while physical action unfolds.
+Sơn, lời dẫn ngoài hình [0.3–7.4s | giọng độc thoại trầm sâu theo nhịp bước chân giữa phố biển vắng lặng]: Tôi bước đi giữa con phố biển Hòn Sóng khi từng cánh cửa sắt chợ cá khép lại, sẵn sàng làm mồi nhử cho ván cờ cuối.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 35 (Clip 1–6)]
+FIXED SCENE 35 OBJECTS (Clip 1–6): (1) Two fresh pairs of steel handcuffs (CUFFS) handed by Thành (CLIPBOARD) to Mây (DUTY_POUCH); (2) Ông Bảy's stationary rescue van with clean mattress and Bác sĩ Linh's medical bag (MED_BAG); (3) Sơn's black leather gloves folded into his dark-olive canvas backpack (BACKPACK) and left behind on the cabin cot; (4) Ông Bảy's coffee glass on the sea-facing table.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 35; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
 No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
 
@@ -52,13 +60,14 @@ Closed shutters and bright coastal light make a public road feel newly unprotect
 
 
 [SOUND]
-Location bed: distant motorcycles and muted market voices.
-Foreground sound: Footsteps and shutter work from the evacuation dominate, no slow-motion or anthem cue.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: distant motorcycles and muted market voices.
+Foreground motivated sound: Footsteps and shutter work from the evacuation dominate, no slow-motion or anthem cue.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Sơn approaching the sea-facing coffee table. Final physical lock: He keeps a steady ordinary pace from hill path toward Bảy's table, not a center-street strut.
+[END FRAME — lock position, props, eyeline & movement axis]
+Sơn approaching the sea-facing coffee table.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 35.6: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

@@ -1,65 +1,74 @@
-Continue the scene seamlessly from the final frame of clip 3. Same composition at the seam, brisk new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+Continue the scene seamlessly from the final frame of clip 3. Same composition at the seam, natural new action immediately after the seam.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
-@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals. Voice: warm, clear, expressive Southern Vietnamese female voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. Wardrobe & gear: Cream linen dress, forest-green florist apron with pocket shears, intact long pale-blue silk scarf at neck, silver hair clip pinned at back of hair, flat sandals. Voice profile: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience.
 Sơn (past timeline) wears his tailored matte-black suit, open-collar white shirt, and concealed underarm holster; black leather gloves worn on night jobs or tucked in pocket at the flower shop. Hạ wears her cream linen dress, forest-green florist apron with pocket shears, intact pale-blue silk scarf around her neck, and silver hair clip pinned at the back of her hair.
 
 
 [TIMELINE AND LOCATION]
 Scene 15/60, clip 4/6; shot 15.4. Story time: PAST one month earlier evening.
 City passenger pier, wide walkway, rail with glass wind panels, ferries beyond the river.
-Recent-past evening city pier, warm lamps and last daylight, no hard neon.
+Lighting & Color: Recent-past evening city pier, warm lamps and last daylight, no hard neon. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 15 (Clip 1–6)]
+FIXED SCENE 15 SPACE (City Passenger Ferry Pier Walkway): Single locked evening location across all 6 clips: wide concrete riverfront walkway, metal railing with glass wind panels, dark river water below, and distant warm ferry lights across the channel. Evening dusk and warm pier lamps.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 15.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Let Hạ name a life she wants for herself, giving her more than a role as Sơn's escape fantasy.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 15.3, ending with Old lighthouse photo held between them, maintenance hatch visible. Final physical lock: Hạ brings the old lighthouse photo between them near the earlier sketch, Sơn remaining beside her.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Advance the action briskly and immediately at 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+Previous editorial shot: 15.3, ending with Old lighthouse photo held between them, maintenance hatch visible.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Continue the physical action seamlessly from 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
 
 [START FRAME — state only, not an action to repeat]
-Old lighthouse photo held between them, maintenance hatch visible. Final physical lock: Hạ brings the old lighthouse photo between them near the earlier sketch, Sơn remaining beside her.
+Old lighthouse photo held between them, maintenance hatch visible.
 
-[CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-Keep the exact previous camera, lens and axis; no framing reset.
-Composition: Keep the same medium composition and focus plane while the photograph is put away within existing reach.
-Focus: Maintain the same readable faces and hands, without a scenic cutaway illustrating a shop that does not yet exist.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Keep the same medium composition and focus plane while the photograph is put away within existing reach.
+- Camera Movement Plan (0–10s): 0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Maintain the same readable faces and hands, without a scenic cutaway illustrating a shop that does not yet exist.
+- Camera Stability & Continuity Contract: Continuity lock (CONTINUE): Inherit the exact camera position, focal length, horizon line, prop placement, eyeline and 180-degree movement axis from the final frame of the preceding clip; zero framing reset.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Hạ puts the photograph away and names the life she wants. Beat 2 (3.0–6.5s): She pockets the photograph and rests both empty hands on the rail, facing the town's imagined direction. Beat 3 (6.5–10.0s): Her wish sounds modest and practical, with a small trace of pleasure at describing it aloud, settling crisply into the end frame as her pale scarf and worn rail catch soft light; the open hands replace the earlier information-bearing photo.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Let the practical words finish before she looks at Sơn, giving him a chance to meet the life she has described; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Old lighthouse photo held between them, maintenance hatch visible), initiate the movement cleanly without hesitation. 2.5–6.5s: Hạ puts the photograph away and names the life she wants (performed once in real time without repeating the opening step). 6.5–10.0s: Her wish sounds modest and practical, with a small trace of pleasure at describing it aloud, settling into the end state (Her empty hands resting on the rail, Sơn beside her) as her pale scarf and worn rail catch soft light; the open hands replace the earlier information-bearing photo.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Let the practical words finish before she looks at Sơn, giving him a chance to meet the life she has described.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: She pockets the photograph and rests both empty hands on the rail, facing the town's imagined direction.
-Performance: Her wish sounds modest and practical, with a small trace of pleasure at describing it aloud.
+Performance: Her wish sounds modest and practical, with a small trace of pleasure at describing it aloud (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–8.1s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Hạ (@Ha), nói trong hình: Em chỉ mong dành dụm đủ vốn để về mở một sạp hoa tươi nhỏ ngay lối vào chợ cá Hòn Sóng, sống bình yên cạnh biển thôi.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Hạ (@Ha), nói trong hình [0.3–7.4s | giọng nữ mộc mạc, gửi gắm ước mơ giản dị]: Em chỉ mong dành dụm đủ vốn để về mở một sạp hoa tươi nhỏ ngay cổng chợ cá Hòn Sóng, sống bình yên cạnh biển thôi.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 15 (Clip 1–6)]
+FIXED SCENE 15 OBJECTS (Clip 1–6): (1) Metal pier railing and glass wind panels; (2) Hạ's long intact pale-blue silk scarf (SCARF) lifting in the river breeze; (3) Hạ's small sketch pad showing the lighthouse service hatch and her old family photograph of Hòn Sóng; (4) Hạ's silver hair clip and green florist apron.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 15; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- One long pale-blue silk scarf, intact in the past before abduction.
 
 [VISIBLE TEXTURE]
 Her pale scarf and worn rail catch soft light; the open hands replace the earlier information-bearing photo.
 
 
 [SOUND]
-Location bed: low ferry horn and water against pilings.
-Foreground sound: Her sentence stays close against ordinary harbour sound, avoiding a sentimental swell that turns the wish into a prophecy.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: low ferry horn and water against pilings.
+Foreground motivated sound: Her sentence stays close against ordinary harbour sound, avoiding a sentimental swell that turns the wish into a prophecy.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Her empty hands resting on the rail, Sơn beside her. Final physical lock: She pockets the photograph and rests both empty hands on the rail, facing the town's imagined direction.
+[END FRAME — lock position, props, eyeline & movement axis]
+Her empty hands resting on the rail, Sơn beside her.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 15.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

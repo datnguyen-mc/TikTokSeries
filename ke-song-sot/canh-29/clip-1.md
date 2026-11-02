@@ -1,54 +1,62 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice: low, crisp, clear Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.0x conversational rhythm, crisp articulation and composed breath control.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands, LEFT wrist bandaged. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt.
 
 
 [TIMELINE AND LOCATION]
 Scene 29/60, clip 1/6; shot 29.1. Story time: D6 morning.
-Hòn Sóng main street between inland crossroad and market, coffee stall beside the sea wall.
-Present-day morning, shutters filtering coastal sun, market shade.
+Vietnamese coastal fishing town main road between the crossroad and fish market: weathered asphalt dusted with sea sand, low salt-bleached concrete houses with corrugated tin awnings and overhead utility wires, Ông Bảy's sidewalk coffee stall beside the stone sea wall with distant wooden fishing boats on the sea.
+Lighting & Color: Present-day morning, shutters filtering coastal sun, market shade. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 29 (Clip 1–6)]
+FIXED SCENE 29 SPACE (Ông Bảy's Coffee Stall, Rear Civilian Lane & Fish-Market Entrance): Single contiguous morning street block in Hòn Sóng across all 6 clips: damaged patrol barricade on the main street leading to Ông Bảy's coffee stall, the covered rear civilian lane behind the stall, and the adjacent fish-market entrance shutter.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 29.
 
 [SCENE OPENING HOOK — Mở cảnh 29: Cái Giá Của Chuyến Đi]
-Scene goal: Thành bảo vệ dân rồi bị giữ, Sơn kéo Dũng khỏi con tin. Establish the setting and dramatic stakes immediately from 0.0s with brisk movement and immediate dialogue at 0.2s.
+Scene goal: Thành bảo vệ dân rồi bị giữ, Sơn kéo Dũng khỏi con tin. Establish the setting and dramatic stakes from 0.0s with natural movement and dialogue at 0.3s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Make prior protection visibly breached before the rescue requires another promise of competence.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 28.6, ending with Mây answering her radio, Sơn looking toward Bảy's stall. Final physical lock: Mây answers the abrupt warning while Sơn turns toward Bảy's stall below.
-Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes immediately at 0.0s with brisk action and dialogue at 0.2s.
+Previous editorial shot: 28.6, ending with Mây answering her radio, Sơn looking toward Bảy's stall.
+Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes from 0.0s with purposeful action and natural dialogue at 0.3s.
 
 [START FRAME — state only, not an action to repeat]
-Mây and Sơn at the upper road, black car near the coffee stall. Framing: Keep damaged barricade, black car and side-lane cover within the same wide street geography.
+Mây and Sơn at the upper road, black car near the coffee stall.
 
-[CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Keep damaged barricade, black car and side-lane cover within the same wide street geography.
-Focus: Keep damage modest but clear, with the stall view accessible beyond their cover.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Wide Establishing / Master Shot (W) — 24mm/35mm prime lens (24mm for expansive coastal/harbour geography; 35mm for architectural wide masters), 24 fps, deep spatial field (f/5.6), eye-level horizontal axis. Anchor full-body blocking, architectural boundaries and 180-degree screen direction within the fixed scene space. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Keep damaged barricade, black car and side-lane cover within the same wide street geography.
+- Camera Movement Plan (0–10s): 0.0–3.0s: slow lateral dolly gliding gently with the subject entry; 3.0–6.5s: dolly slows and settles to hold the wide spatial geography; 6.5–10.0s: very subtle optical push-in to underscore isolation and dramatic weight. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep damage modest but clear, with the stall view accessible beyond their cover.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): They see a patrol barricade damaged and choose the side lane. Beat 2 (3.0–6.5s): Mây stops short of the open road, takes the side lane with Sơn behind her. Beat 3 (6.5–10.0s): Her recognition of the failure is controlled and immediate, not disbelief frozen for effect, settling crisply into the end frame as bent barrier material and closed shop fronts carry the town's interrupted routine.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Register the breach, choose cover, finish with a clear view of what needs rescuing; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Mây and Sơn at the upper road, black car near the coffee stall), initiate the movement cleanly without hesitation. 2.5–6.5s: They see a patrol barricade damaged and choose the side lane (performed once in real time without repeating the opening step). 6.5–10.0s: Her recognition of the failure is controlled and immediate, not disbelief frozen for effect, settling into the end state (Both concealed behind the side-lane wall, view of the stall clear) as bent barrier material and closed shop fronts carry the town's interrupted routine.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Register the breach, choose cover, finish with a clear view of what needs rescuing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Mây stops short of the open road, takes the side lane with Sơn behind her.
-Performance: Her recognition of the failure is controlled and immediate, not disbelief frozen for effect.
+Performance: Her recognition of the failure is controlled and immediate, not disbelief frozen for effect (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Mây (@May), nói trong hình: Sáng ngày thứ sáu, rào chắn đầu đường đã bị xe của Dũng húc đổ, anh theo tôi luồn qua hẻm phụ áp sát phía sau quán ông Bảy ngay!
-Sơn (@Son), nói trong hình: Trên cổ tay phải của Dũng vẫn còn vòng còng cắt dở, hắn đang điên cuồng tìm cuốn sổ đỏ.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–8.0s, two natural back-and-forth conversational turns (29 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Mây (@May), nói trong hình [0.3–4.1s | giọng nữ khẩn cấp kéo Sơn vào hẻm chiến thuật]: Sáng ngày thứ sáu, rào chắn bị húc đổ rồi, theo tôi qua hẻm ngay!
+Sơn (@Son), nói trong hình [4.4–8.0s | giọng nam trầm quan sát nhanh bàn tay Dũng]: Tay phải Dũng còn vòng còng cắt dở, hắn đang điên cuồng tìm sổ.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 29 (Clip 1–6)]
+FIXED SCENE 29 OBJECTS (Clip 1–6): (1) Damaged wooden street barricade; (2) Dũng's black canvas tool bag (TOOL_BAG) and cut steel cuff ring on his right wrist; (3) Thành's rope ties (cut by Mây), bent round glasses held with tape, and clipboard (CLIPBOARD); (4) Ông Bảy's stall tables/crates (COFFEE_TRAY) and wheeled cart at the market entrance.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 29; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 
@@ -57,13 +65,14 @@ Bent barrier material and closed shop fronts carry the town's interrupted routin
 
 
 [SOUND]
-Location bed: distant motorcycles and muted market voices.
-Foreground sound: Muted stall voices and an idling car establish threat without another villain entrance sound.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: distant motorcycles and muted market voices.
+Foreground motivated sound: Muted stall voices and an idling car establish threat without another villain entrance sound.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Both concealed behind the side-lane wall, view of the stall clear. Final physical lock: Mây stops short of the open road, takes the side lane with Sơn behind her.
+[END FRAME — lock position, props, eyeline & movement axis]
+Both concealed behind the side-lane wall, view of the stall clear.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 29.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

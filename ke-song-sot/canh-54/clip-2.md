@@ -1,65 +1,75 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. after a stated clothing change at the station, borrowed clean white blouse, blue jeans, flat sandals, long pale-blue silk scarf carried or worn. Voice: warm, clear, expressive Southern Vietnamese female voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. Wardrobe & gear: After a stated clothing change at the station, borrowed clean white blouse, blue jeans, flat sandals, long pale-blue silk scarf carried or worn. Voice profile: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.0x conversational rhythm, crisp articulation and composed breath control.
 Hạ wears a clean borrowed white blouse, blue jeans, flat sandals, and her pale-blue silk scarf neatly draped at her neck.
 
 
 [TIMELINE AND LOCATION]
 Scene 54/60, clip 2/6; shot 54.2. Story time: D7 late night.
 Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
-Later that night at station, neutral desk lamp and kettle, quiet dark windows.
+Lighting & Color: Later that night at station, neutral desk lamp and kettle, quiet dark windows. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 54 (Clip 1–6)]
+FIXED SCENE 54 SPACE (Hòn Sóng Police Post Witness Desk at Late Night): Single locked room across all 6 clips: bright, quiet front witness desk at the Hòn Sóng town police post under the ceiling fan, evidence tray on the main desk, and Thành's recording desk beside it.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 54.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Reframe the torn scarf as evidence of Hạ's own decision, not merely Sơn's keepsake.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 54.1, ending with Hạ seated freely with scarf on chair, tea before her. Final physical lock: Mây brings the cup within reach, Thành starts the record at the existing desk without crowding her.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 54.1, ending with Hạ seated freely with scarf on chair, tea before her.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Small scarf fragment sealed between Mây and Hạ. Framing: Use the locked detail on the SHORT fragment sealed between the two women, her finger near the edge.
+Small scarf fragment sealed between Mây and Hạ.
 
-[CAMERA]
-85mm brisk detail shot. Hands and the relevant object move decisively from 0.0s; spatially readable with zero hesitation.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Use the locked detail on the SHORT fragment sealed between the two women, her finger near the edge.
-Focus: Keep sleeve, torn weave and pointing fingertip in one sensible plane, no impossible enlargement of fibres.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Tactile Macro Insert Shot (I) — 85mm close-focus lens, 24 fps (f/4.0), angled directly at the active hands and fixed scene prop. Keep finger mechanics and object texture razor-sharp with zero hesitation or camera shake. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Use the locked detail on the SHORT fragment sealed between the two women, her finger near the edge.
+- Camera Movement Plan (0–10s): 0.0–3.0s: crisp macro track-in with the hand approaching the prop; 3.0–6.5s: locked close-focus hold on tactile finger mechanics; 6.5–10.0s: steady settle on the final object state. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep sleeve, torn weave and pointing fingertip in one sensible plane, no impossible enlargement of fibres.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): Hạ explains she tore it on the flower-shop latch to leave a trace for anyone searching. Beat 2 (3.0–6.5s): She indicates the torn part through the sleeve without opening or touching the seal. Beat 3 (6.5–10.0s): Her off-frame explanation is exact and composed, avoiding a dramatic reenactment of the abduction, settling crisply into the end frame as the small fragment remains distinct from the LONG scarf on the chair, with no new intact duplicate.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Make the identification one clear beat; do not repeat the tearing action on screen after it has been explained; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Small scarf fragment sealed between Mây and Hạ), initiate the movement cleanly without hesitation. 2.5–6.5s: Hạ explains she tore it on the flower-shop latch to leave a trace for anyone searching (performed once in real time without repeating the opening step). 6.5–10.0s: Her off-frame explanation is exact and composed, avoiding a dramatic reenactment of the abduction, settling into the end state (Hạ pointing to the torn edge without touching the seal) as the small fragment remains distinct from the LONG scarf on the chair, with no new intact duplicate.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Make the identification one clear beat; do not repeat the tearing action on screen after it has been explained.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: She indicates the torn part through the sleeve without opening or touching the seal.
-Performance: Her off-frame explanation is exact and composed, avoiding a dramatic reenactment of the abduction.
+Performance: Her off-frame explanation is exact and composed, avoiding a dramatic reenactment of the abduction (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–9.4s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk off-screen speech; do not add a face or animate the listener speaking.
-Hạ, ngoài khung hình: Mảnh khăn lụa ngắn trong túi vật chứng này là do chính tay tao cố tình móc vào chốt cửa sắt tiệm hoa rồi giật rách lúc bị người của Bà Hai lôi ra xe.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–5.3s, one natural, well-articulated spoken line (19 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Hạ (@Ha), nói trong hình [0.3–5.3s | giọng nữ mạch lạc chỉ vào mảnh khăn rách trên bàn]: Mảnh khăn ngắn này do chính tay tao móc vào chốt cửa tiệm hoa lúc bị lôi ra xe.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 54 (Clip 1–6)]
+FIXED SCENE 54 OBJECTS (Clip 1–6): (1) Cup of warm tea set before Hạ on the wooden desk; (2) Short torn pale-blue silk scarf fragment (SCARF_FRAGMENT) in its clear evidence sleeve; (3) Hạ's recovered silver hair clip (HAIRCLIP) photographed on the evidence mat by Thành in Clip 5; (4) Thành's witness statement pad, camera, and clipboard (CLIPBOARD); (5) Mây's leather duty pouch (DUTY_POUCH).
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 54; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
 - Short torn end of Hạ scarf, recovered by Sơn at the latch, later sealed with Mây. Not a full scarf.
+- Hạ silver hair clip, deliberately wedged into service-hatch latch at 45.4, recovered at 48.5 and logged at 54.5.
 
 [VISIBLE TEXTURE]
 The small fragment remains distinct from the LONG scarf on the chair, with no new intact duplicate.
 
 
 [SOUND]
-Location bed: ceiling fan and quiet paperwork.
-Foreground sound: A light sleeve rustle precedes her line, fan continues, no remembered captor voices or flashback effects.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: ceiling fan and quiet paperwork.
+Foreground motivated sound: A light sleeve rustle precedes her line, fan continues, no remembered captor voices or flashback effects.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Hạ pointing to the torn edge without touching the seal. Final physical lock: She indicates the torn part through the sleeve without opening or touching the seal.
+[END FRAME — lock position, props, eyeline & movement axis]
+Hạ pointing to the torn edge without touching the seal.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 54.3: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

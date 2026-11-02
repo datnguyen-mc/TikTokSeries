@@ -1,52 +1,68 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice: firm, clear Southern Vietnamese female voice.
-@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses arm bent, held by tape after rescue. Voice: quick, polite, alert Southern Vietnamese male voice.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.0x conversational rhythm, crisp articulation and composed breath control.
+@Phó Thành = Thành: same approved identity, age 26; Vietnamese man, skinny, round glasses, neat side-parted hair. Wardrobe & gear: Plain light-blue shirt, dark trousers, round glasses, no readable insignia, leather evidence folder and compact police radio. one glasses arm bent, held by tape after rescue. Voice profile: Earnest, clear young Southern Vietnamese male tenor, attentive and respectful cadence, crisp operational diction.
 Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Thành wears his light-blue shirt and round glasses with right arm taped after the stall struggle, carrying his leather evidence folder and police radio handset.
 
 
 [TIMELINE AND LOCATION]
 Scene 34/60, clip 6/6; shot 34.6. Story time: D7 dawn.
 Small fictional town police post, public desk in front, evidence room locked behind it, separate interview room and holding room.
-Present-day dawn, soft light increasing at cabin, neutral station interior afterward.
+Lighting & Color: Present-day dawn, soft light increasing at cabin, neutral station interior afterward. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 34 (Clip 1–6)]
+FIXED SCENE 34 SPACE (Wooden Dune Cabin Table/Porch & Police Post Handover Desk at Dawn): Locked Day 7 dawn evidence-sealing axis: cabin doorframe with all 7 tally marks and wooden table/porch (Clips 1–4) and the official evidence handover desk at Hòn Sóng police post (Clips 5–6).
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 34.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Confirm a real support presence while leaving the human exchange still uncertain.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 34.5, ending with Signed handover receipt with Thành, originals departing under escort. Final physical lock: Mây completes the sealed handover while Thành records it, local copies remaining on their side.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 34.5, ending with Signed handover receipt with Thành, originals departing under escort.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Confirmed road team on the station radio, Mây beside Thành. Framing: Frame Mây beside Thành at the radio with the already-used route map visible.
+Confirmed road team on the station radio, Mây beside Thành.
 
-[CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Frame Mây beside Thành at the radio with the already-used route map visible.
-Focus: Keep their listening and a small position mark readable, no cutaway to invented convoys.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Frame Mây beside Thành at the radio with the already-used route map visible.
+- Camera Movement Plan (0–10s): 0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep their listening and a small position mark readable, no cutaway to invented convoys.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): The team reports it will take position before the meeting, not during a later rescue. Beat 2 (3.0–6.5s): Thành marks only the reported road positions, Mây listening before acknowledging. Beat 3 (6.5–10.0s): Relief is limited to coverage of roads, not certainty about Hạ or the two leaders, settling crisply into the end frame as desk wear and ordinary radio casing preserve the local team's scale.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: One confirmation changes the map, then leave a breath showing the actual risk remains elsewhere; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Confirmed road team on the station radio, Mây beside Thành), initiate the movement cleanly without hesitation. 2.5–6.5s: The team reports it will take position, the meeting, not during a later rescue (performed once in real time without repeating the opening step). 6.5–10.0s: Relief is limited to coverage of roads, not certainty about Hạ or the two leaders, settling into the end state (Thành marking the confirmed positions, Mây acknowledging) as desk wear and ordinary radio casing preserve the local team's scale.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: One confirmation changes the map, then leave a breath showing the actual risk remains elsewhere.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Thành marks only the reported road positions, Mây listening before acknowledging.
-Performance: Relief is limited to coverage of roads, not certainty about Hạ or the two leaders.
+Performance: Relief is limited to coverage of roads, not certainty about Hạ or the two leaders (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–8.1s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Brisk voice through the established device; no caller body in this shot.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.7s, one natural, well-articulated spoken line (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Speech heard through the established communication device (qua thiết bị) at a natural 1.0x cadence; no caller body added to this shot.
 Radio operator: concise Southern Vietnamese voice through radio compression, off screen.
-Bộ đàm, qua thiết bị: Báo cáo chỉ huy Mây, hai tổ công tác đã ém quân khóa chặt hai đầu đường dẫn vào bãi cảng Hòn Sóng trước giờ hẹn ba tiếng.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+Bộ đàm, qua thiết bị [0.3–7.7s | giọng trực ban qua bộ đàm ngắn gọn, rõ nét]: Báo cáo chỉ huy Mây, hai tổ công tác đã ém quân khóa chặt hai đầu đường dẫn vào bãi cảng Hòn Sóng trước giờ hẹn ba tiếng.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 34 (Clip 1–6)]
+FIXED SCENE 34 OBJECTS (Clip 1–6): (1) Cabin doorframe with 7th final tally mark carved (MARKS); (2) Original black ledger (BLACK_BOOK), red ledger (RED_BOOK), original USB, and hardware TOKEN sealed together into the investigator transfer package; (3) Plain preview envelope (RED_COPY) kept by Sơn; (4) Both blue scarf pieces (SCARF_FRAGMENT, SCARF_REMAINDER) in evidence sleeves; (5) Closed silver watch (WATCH) handed to Mây for safekeeping.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 34; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
+- Same wooden doorframe. Exactly 7 tally marks at the start and 7 at the end of THIS shot. No other tally row.
+- Original BLACK leather ledger, receipt and original USB initially fixed inside back cover.
+- Original RED cloth ledger, handwritten signature shapes, distinct from black leather ledger.
+- Original USB from black ledger, preserved in an evidence sleeve at the station after 17.1.
+- USB-shaped hardware security token from the safe; NOT the metal door key.
+- Short torn end of Hạ scarf, recovered by Sơn at the latch, later sealed with Mây. Not a full scarf.
+- Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
+- ONE silver pocket watch with engraved flower lid, same chain, lid CLOSED in this shot. No second matching watch. After the escape it has stopped; do not add ticking or show the inner photo.
 - Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
 - Phó Thành's dark leather evidence folder, witness statement pad, pen and police radio handset.
 
@@ -55,13 +71,14 @@ Desk wear and ordinary radio casing preserve the local team's scale.
 
 
 [SOUND]
-Location bed: ceiling fan and quiet paperwork.
-Foreground sound: The compressed confirmation sits over the station fan, with no additional operators talking over it.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Radio confirmation yields to coffee-stall glass sounds before the morning safety briefing. Orders here assign new practical tasks.
+Continuous ambience bed: ceiling fan and quiet paperwork.
+Foreground motivated sound: The compressed confirmation sits over the station fan, with no additional operators talking over it.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Radio confirmation yields to coffee-stall glass sounds before the morning safety briefing. Orders here assign new practical tasks.
 
-[END FRAME — natural motion continues]
-Thành marking the confirmed positions, Mây acknowledging. Final physical lock: Thành marks only the reported road positions, Mây listening before acknowledging.
+[END FRAME — lock position, props, eyeline & movement axis]
+Thành marking the confirmed positions, Mây acknowledging.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 35.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

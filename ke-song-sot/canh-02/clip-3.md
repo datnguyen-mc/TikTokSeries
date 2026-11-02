@@ -1,65 +1,74 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice: low, crisp, clear Southern Vietnamese male voice.
-@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice: calm, authoritative Southern Vietnamese female voice with clear diction.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@HaiNgoc = Bà Hai: same approved identity, age 60; Vietnamese woman, small upright build, composed face, jade bracelet on LEFT wrist. Wardrobe & gear: Silver hair in a tight bun, deep-violet silk áo bà ba, black silk trousers, embroidered slippers, jade bracelet on LEFT wrist until 49.3, unlit black holder in fingers. Voice profile: Velvet, low-alto Southern Vietnamese matriarch voice, unhurried aristocratic cadence, polite warmth masking cold command, razor-clear diction.
 Sơn (past timeline) wears his tailored matte-black suit, open-collar white shirt, and concealed underarm holster; black leather gloves worn on night jobs or tucked in pocket at the flower shop. Bà Hai wears her deep-violet silk áo bà ba, green jade bracelet on her LEFT wrist, holding her unlit black cigarette holder between her right fingers.
 
 
 [TIMELINE AND LOCATION]
 Scene 02/60, clip 3/6; shot 02.3. Story time: PAST one month earlier night.
 City silk shop, teak desk to east, screened safe behind it, rear stock door west, warm practical lamps.
-Night interior, warm desk lamp and shop practicals, wet alley beyond.
+Lighting & Color: Night interior, warm desk lamp and shop practicals, wet alley beyond. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 02 (Clip 1–6)]
+FIXED SCENE 02 SPACE (Bà Hai's City Silk Shop & Wet Rear Alley): Locked night interior centered on the polished teak desk (east), silk-bolted shelves (north/south), screened safe alcove behind the desk, and wooden rear stockroom door opening to the rain-wet alley (west). Warm amber desk-lamp pool against cool rain shadows outside across all 6 clips.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 02.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Give Sơn's wish to leave a concrete cost by putting his return ticket between them.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 02.2, ending with Kiên's portrait beside Sơn's black glove. Final physical lock: Her left hand slides the photograph toward his glove and stops before touching him.
-Intentional fast-paced editorial cut, not a continuous take. Start immediately in the new composition with brisk momentum; preserve compatible screen direction and eyelines. No morph or duplicated gesture.
+Previous editorial shot: 02.2, ending with Kiên's portrait beside Sơn's black glove.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
 
 [START FRAME — state only, not an action to repeat]
-Sơn facing Bà Hai across the desk. Framing: Use the medium composition to include his face and the ticket landing near the desk edge.
+Sơn facing Bà Hai across the desk.
 
-[CAMERA]
-50mm dynamic medium shot at eye level. Immediate gesture, brisk reaction and fast conversational pacing in the same composition.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Use the medium composition to include his face and the ticket landing near the desk edge.
-Focus: Keep the ticket shape visible without readable print while his eyes remain the emotional center.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Use the medium composition to include his face and the ticket landing near the desk edge.
+- Camera Movement Plan (0–10s): 0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep the ticket shape visible without readable print while his eyes remain the emotional center.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): He leaves the photograph untouched and sets a return ticket down. Beat 2 (3.0–6.5s): He sets the ticket down once and leaves Kiên's portrait untouched where it was offered. Beat 3 (6.5–10.0s): His voice is restrained; the stillness afterward should look rehearsed, because he expects resistance, settling crisply into the end frame as the thin ticket lies exposed against heavy wood and dense folded silk nearby.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Sơn facing Bà Hai across the desk), initiate the movement cleanly without hesitation. 2.5–6.5s: He leaves the photograph untouched and sets a return ticket down (performed once in real time without repeating the opening step). 6.5–10.0s: His voice is restrained; the stillness afterward should look rehearsed, because he expects resistance, settling into the end state (Ticket between the two, Sơn's hands still) as the thin ticket lies exposed against heavy wood and dense folded silk nearby.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
 Action rhythm: Deliver the line with brisk precision into defense, then let Bà Hai own the silence he leaves.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: He sets the ticket down once and leaves Kiên's portrait untouched where it was offered.
-Performance: His voice is restrained; the stillness afterward should look rehearsed, because he expects resistance.
+Performance: His voice is restrained; the stillness afterward should look rehearsed, because he expects resistance (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–7.3s, one brisk, fast-paced line (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Sơn (@Son), nói trong hình: Xong hợp đồng lấy sổ của Vũ Kiên đêm nay là con giải nghệ luôn, tấm vé về biển con đặt sẵn trên bàn rồi.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–6.1s, one natural, well-articulated spoken line (22 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Sơn (@Son), nói trong hình [0.3–6.1s | giọng nam trầm dứt khoát, ánh mắt khóa thẳng vào người đối diện]: Xong hợp đồng lấy sổ của Vũ Kiên đêm nay là con giải nghệ. Tấm vé về biển con đặt sẵn rồi.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 02 (Clip 1–6)]
+FIXED SCENE 02 OBJECTS (Clip 1–6): (1) Polished teak desk with warm brass lamp and violet silk strip; (2) Printed photograph of Vũ Kiên in white suit with building entrance sketch on the back; (3) Sơn's paper return coach ticket; (4) Bà Hai's green jade bracelet on left wrist and unlit black holder; (5) Dũng's black canvas shoulder work bag at the rear door.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 02; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
-No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.
+- Photograph of Kiên in white suit with a hand-drawn building sketch on its back; no legible words.
 
 [VISIBLE TEXTURE]
 The thin ticket lies exposed against heavy wood and dense folded silk nearby.
 
 
 [SOUND]
-Location bed: silk shifting and muted rain outside.
-Foreground sound: A small paper tap should be heard before the sentence ends; keep room tone steady.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Continuous ambience bed: silk shifting and muted rain outside.
+Foreground motivated sound: A small paper tap should be heard before the sentence ends; keep room tone steady.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
-[END FRAME — natural motion continues]
-Ticket between the two, Sơn's hands still. Final physical lock: He sets the ticket down once and leaves Kiên's portrait untouched where it was offered.
+[END FRAME — lock position, props, eyeline & movement axis]
+Ticket between the two, Sơn's hands still.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 02.4: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

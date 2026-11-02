@@ -1,51 +1,59 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, fast-paced photorealistic live-action Vietnamese neo-noir thriller. Crisp 150-degree shutter for sharp, energetic motion and brisk scene pacing. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
-[CHARACTERS — approved identities and current appearances]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice: low, crisp, clear Southern Vietnamese male voice.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice: firm, clear Southern Vietnamese female voice.
-Sơn carries his weathered dark-olive canvas travel backpack containing his folded black suit and gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
+[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Dark-blue denim jacket over charcoal T-shirt, dark jeans, sneakers, compact black tactical daypack/backpack over shoulders, no uniform shirt visible. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.0x conversational rhythm, crisp articulation and composed breath control.
+Sơn keeps his single weathered dark-olive canvas backpack containing his folded black suit and gloves. Mây wears her dark-blue denim jacket over charcoal T-shirt and carries her compact black tactical daypack/backpack over her shoulders with evidence sleeves and phone recorder.
 
 
 [TIMELINE AND LOCATION]
 Scene 21/60, clip 6/6; shot 21.6. Story time: D4 night.
 Roadside coach rest stop, bus parked under an awning, toilets and changing room beyond a sheltered path.
-Present-day night journey, blue coach practicals, neutral rest-stop lamps, no past amber timeline cue.
+Lighting & Color: Present-day night journey, blue coach practicals, neutral rest-stop lamps, no past amber timeline cue. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 21 (Clip 1–6)]
+FIXED SCENE 21 SPACE (Overnight Coach Cabin & Roadside Rest-Stop Changing Room): Locked night transit environment across the rear window seats and overhead luggage rack of the overnight coach (Clips 1–3, 6) and the rain-wet roadside rest-stop awning and private changing room mirror (Clips 4–5). Warm dim coach bulbs and rainy night neon.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 21.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
 Return the changed man to the same ordinary journey without repeating his arrival.
 
 
 [EDIT IN — do not render the previous shot again]
-Previous editorial shot: 21.5, ending with Sơn in black suit with bare hands, olive jacket folded in his bag. Final physical lock: He pockets the gloves once; both bare hands finish visible below the jacket edge.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new scene action starts briskly at 0.0s. This generated clip contains only the new shot.
+Previous editorial shot: 21.5, ending with Sơn in black suit with bare hands, olive jacket folded in his bag.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
 
 [START FRAME — state only, not an action to repeat]
-Mây holding the coach door open, Sơn returning with his bag, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Framing: Anchor the coach doorway and Mây outside it, preserving his approach direction from the room.
+Mây holding the coach door open, Sơn returning with his bag.
 
-[CAMERA]
-35mm brisk wide shot at human eye level with immediate subject movement from 0.0s. Preserve readable geography and screen direction.
-One new coverage angle on the established side of the axis. Never cut internally.
-Composition: Anchor the coach doorway and Mây outside it, preserving his approach direction from the room.
-Focus: Keep his hands and the overhead bag placement readable within the existing wide setup.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Wide Establishing / Master Shot (W) — 24mm/35mm prime lens (24mm for expansive coastal/harbour geography; 35mm for architectural wide masters), 24 fps, deep spatial field (f/5.6), eye-level horizontal axis. Anchor full-body blocking, architectural boundaries and 180-degree screen direction within the fixed scene space. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Anchor the coach doorway and Mây outside it, preserving his approach direction from the room.
+- Camera Movement Plan (0–10s): 0.0–3.0s: slow lateral dolly gliding gently with the subject entry; 3.0–6.5s: dolly slows and settles to hold the wide spatial geography; 6.5–10.0s: very subtle optical push-in to underscore isolation and dramatic weight. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep his hands and the overhead bag placement readable within the existing wide setup.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one brisk evolving take]
-Beat 1 (0.0–3.0s): They reboard, Sơn puts the bag above his seat, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Beat 2 (3.0–6.5s): He comes back carrying the bag, boards after her, and stows it once overhead. Beat 3 (6.5–10.0s): Mây recognizes the change with a restrained look, then makes room rather than commenting, settling crisply into the end frame as the olive jacket stays contained in canvas, while rain beads on the bus exterior.
-Perform briskly and decisively from start state to end state without dead air or slow pauses. Breathing and existing environmental motion continue through the seam.
-Action rhythm: Complete reboarding economically; the stowed bag is the quiet confirmation that the change holds; keep movement and speech brisk from 0.0s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: From the starting position (Mây holding the coach door open, Sơn returning with his bag), initiate the movement cleanly without hesitation. 2.5–6.5s: They reboard, Sơn puts the bag above his seat (performed once in real time without repeating the opening step). 6.5–10.0s: Mây recognizes the change with a restrained look, then makes room rather than commenting, settling into the end state (Both back on the coach, olive jacket stored inside the bag) as the olive jacket stays contained in canvas, while rain beads on the bus exterior.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Complete reboarding economically; the stowed bag is the quiet confirmation that the change holds.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: He comes back carrying the bag, boards after her, and stows it once overhead.
-Performance: Mây recognizes the change with a restrained look, then makes room rather than commenting.
+Performance: Mây recognizes the change with a restrained look, then makes room rather than commenting (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE]
-0.2–9.4s, two rapid back-and-forth turns (natural Southern Vietnamese conversational pace, clear diction, immediate cue at 0.2s). Visible speaker delivers the line briskly with clear, rapid mouth movement. Listener reacts immediately without dead air.
-Sơn (@Son), nói trong hình: Xong rồi Mây, còn ba tiếng đường đêm nữa là xe tới bến thành phố, cô tranh thủ chợp mắt một chút trước khi vào tiệm lụa.
-Mây (@May), nói trong hình: Tôi tỉnh táo lắm, ta rà lại sơ đồ cửa hậu tiệm lụa một lần nữa đi.
-Only words after the final colon are spoken. Never read names, tags or directions. No captions.
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.8s, two natural back-and-forth conversational turns (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Sơn (@Son), nói trong hình [0.3–3.9s | giọng nam trầm điềm đạm sau khi thay sang vest đen]: Xong rồi Mây, còn ba tiếng tới thành phố, cô chợp mắt chút đi.
+Mây (@May), nói trong hình [4.2–7.8s | giọng nữ tỉnh táo, tập trung cao độ]: Tôi tỉnh lắm, ta rà lại sơ đồ cửa hậu tiệm lụa lần nữa.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 21 (Clip 1–6)]
+FIXED SCENE 21 OBJECTS (Clip 1–6): (1) Sơn's weathered dark-olive canvas backpack (BACKPACK) opened on his knees and later stowed on the overhead rack; (2) Folded matte-black suit and pair of black leather gloves inside the backpack (gloves pocketed unused in Clip 5); (3) Mây's compact black tactical daypack (DAYPACK) and phone.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 21; never spawn, morph or introduce any unstated objects or background clutter.
 Reference only; enact only the current ACTION, not a future handover.
 - Sơn's weathered dark-olive canvas backpack with thick shoulder straps and brass zipper (carries his ledger, sealed tin, locked case and spare clothes during travel; left on the cabin cot at 35.4/38.6 before the harbour exchange, and carried again on his return at 60.4).
 - Mây's compact black tactical daypack/backpack worn over her denim jacket during the city & river-factory mission (Scenes 19.5–27.6), holding evidence sleeves and borrowed tools.
@@ -55,13 +63,14 @@ The olive jacket stays contained in canvas, while rain beads on the bus exterior
 
 
 [SOUND]
-Location bed: coach idling and rain on the roof.
-Foreground sound: Keep the same engine character and coach-door mechanisms, not a fresh engine start.
-Keep diegetic continuity, brisk dialogue forward. No generated score, stock sting or invented weapon effect. Edit bridge: Coach-window rain becomes rain on the silk-shop rear awning. The city arrival is a time ellipsis, not another travel montage.
+Continuous ambience bed: coach idling and rain on the roof.
+Foreground motivated sound: Keep the same engine character and coach-door mechanisms, not a fresh engine start.
+Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Coach-window rain becomes rain on the silk-shop rear awning. The city arrival is a time ellipsis, not another travel montage.
 
-[END FRAME — natural motion continues]
-Both back on the coach, olive jacket stored inside the bag, with his weathered dark-olive canvas backpack slung securely over his left shoulder. Final physical lock: He comes back carrying the bag, boards after her, and stows it once overhead.
+[END FRAME — lock position, props, eyeline & movement axis]
+Both back on the coach, olive jacket stored inside the bag.
+Continuity lock: Hold final character position, prop placement, eyeline direction and 180-degree movement axis naturally into the cut.
 Next shot 22.1: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-repeated action or line from adjacent clips, slow or dragging speech, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

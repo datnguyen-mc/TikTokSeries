@@ -12,14 +12,14 @@
 ```
 BƯỚC 1: Crawl & đọc MASTER_CONTEXT.md (file này)
 BƯỚC 2: Đọc README.md của tập trước đó để nắm khung hình cuối & nối cảnh
-BƯỚC 3: Xác định tỉnh/thành tiếp theo theo BẢNG LỘ TRÌNH bên dưới
-BƯỚC 4: Viết README.md của tập mới theo khung Tập 4: lịch trình (giờ, địa điểm, vì sao đúng giờ)
+BƯỚC 3: Xác định tỉnh/thành tiếp theo theo BẢNG LỘ TRÌNH bên dưới và **Search Google** khi cần thiết để kiểm chứng giờ vàng, cung đường, giá vé, món ăn đặc sản và phong tục địa phương
+BƯỚC 4: Viết README.md của tập mới (thời lượng **30–60 giây = 3–6 clip × 10s, tối đa 60 giây**): lịch trình (giờ, địa điểm, vì sao đúng giờ)
          · cẩm nang giờ vàng · nối cảnh · chuỗi đạo cụ · sợi chỉ xuyên tập (Joi học tiếng địa phương)
-         · lưu ý thực tế (ghi tháng kiểm chứng) · nguồn. Mỗi thông tin thực tế nói trong thoại phải có
+         · lưu ý thực tế (ghi tháng kiểm chứng) · nguồn từ Google Search. Mỗi thông tin thực tế nói trong thoại phải có
          dòng tương ứng trong lưu ý thực tế và nguồn. Caption viết riêng trong caption.md của tập
          (cẩm nang rút gọn đặt ngay trong caption, đúng 5 hashtag, bình luận ghim khoảng 150 ký tự);
          mục Caption của README chỉ để link tới caption.md
-BƯỚC 5: Viết từng clip-{số}.md theo đúng TEMPLATE PROMPT bên dưới
+BƯỚC 5: Viết từng clip-{số}.md (3–6 clip, tối đa 6 clip = 60s) theo đúng TEMPLATE PROMPT bên dưới
 BƯỚC 6: Cross-check tất cả clip vừa viết với:
          ✅ 9 QUY TẮC ĐẠO DIỄN (mục II)
          ✅ KHÓA NHÂN VẬT (mục III) — copy nguyên văn, không sửa
@@ -38,26 +38,20 @@ BƯỚC 7: Cập nhật BẢNG TRẠNG THÁI CÁC TẬP ĐÃ HOÀN THÀNH (mục
 - **Tên series:** 365 Ngày Việt Nam — Vy & Joi (Chuyện Tình Xuyên Việt)
 - **Thể loại:** Authentic Experiential Travel Vlog, Phim ngắn du lịch điện ảnh
 - **Hành trình:** 365 ngày từ Cực Bắc (Hà Giang) đến Cực Nam (Cà Mau), xuyên suốt 63 tỉnh thành
-- **Thời lượng mỗi tập:** khoảng 90 giây (9 clip × đúng 10 giây/clip; 8–10 clip tùy lộ trình), chia sẻ nhiều và chi tiết hơn — áp dụng từ Tập 5. Tập 1–4 dài 60–70 giây
+- **Thời lượng mỗi tập:** **dao động từ 30 đến 60 giây (3–6 clip × đúng 10 giây/clip; tối đa 60 giây = 6 clip)** — cô đọng những khoảnh khắc đắt giá nhất trên hành trình. (Các tập 1–7 đã viết trước đây giữ nguyên số clip cũ).
+- **Bắt buộc Search Google khi cần thiết:** Trước khi viết tập mới, bắt buộc dùng Google Search để tra cứu thông tin thực tế về tỉnh/thành đó (cung đường, số km, giờ vàng săn mây/hoàng hôn, tên món đặc sản, cách ăn chuẩn địa phương, giá vé tham quan, phong tục/phép tắc nơi đến) và ghi nguồn kiểm chứng vào `README.md` của tập.
 - **Quy chuẩn mỗi clip:** Đúng 10 giây, khung hình dọc 9:16, 24fps, Single Continuous Shot
 - **Tông điệu:** Trẻ trung, tự do, phóng khoáng, ngọt ngào, đậm tình yêu đôi lứa, tự hào cảnh sắc Việt Nam
 - **Model AI:** Gemini Omni (Google Flow) — đúng 10 giây mỗi lần tạo, ghép scene (Veo 3.1 chỉ tạo tối đa 8 giây). Từ Tập 4, lời thoại trong file clip viết không ngoặc kép (xem mục VI)
 
-### Xương sống tập 90 giây (từ Tập 5)
+### Xương sống tập 30–60 giây (3–6 clip × 10s, tối đa 60s)
 
-| Clip | Vai trò | Chia sẻ gì |
+| Số clip (Thời lượng) | Cấu trúc phân cảnh | Chia sẻ gì (đã kiểm chứng qua Google Search) |
 |---|---|---|
-| 1 | Flycam và mồi | Một câu hé điểm hay nhất trong ngày (món, cảnh, giờ vàng) |
-| 2 | Trên đường hoặc nối từ tập trước | Cung đường, số km, thời tiết, mẹo chạy xe (đổ xăng, áo mưa) |
-| 3 | Ăn sáng hoặc chợ | Tên món, gọi thế nào, ăn kèm gì; giá chỉ nói khi có nguồn |
-| 4 | Điểm tham quan 1 | Giờ đẹp, vé, cách đi, phép tắc nơi đến |
-| 5 | Nhịp mới giữa tập (giây 40–50) | Một bất ngờ nhỏ: người địa phương làm nghề (không cận mặt người lạ), Joi nói thử tiếng địa phương |
-| 6 | Bữa trưa hoặc đặc sản | Cách ăn đúng kiểu địa phương |
-| 7 | Điểm tham quan 2 hoặc hoàng hôn | Mẹo chụp, mẹo giờ giấc |
-| 8 | Bữa tối hoặc đêm | Món tối, chợ đêm |
-| 9 | Chốt tình cảm và lên đường | Câu ngọt của hai người; khung cuối nối sang tập sau |
-
-8 clip: gộp clip 7 và 8. 10 clip: thêm một điểm dừng ở khoảng clip 4–7. Thứ tự đổi theo địa lý thật và giờ vàng (quy tắc 5).
+| **3 clip (30s)** | Clip 1: Flycam & điểm đến chính · Clip 2: Trải nghiệm / Ẩm thực · Clip 3: Chốt tình cảm & lên đường | Một điểm đến biểu tượng, một món đặc sản và một mẹo giờ vàng |
+| **4 clip (40s)** | Clip 1: Flycam & mồi · Clip 2: Cung đường / Điểm tham quan · Clip 3: Đặc sản địa phương · Clip 4: Hoàng hôn & lên đường | Cung đường, giờ đẹp, cách ăn đặc sản chuẩn vị, câu chốt ngọt ngào |
+| **5 clip (50s)** | Clip 1: Flycam & mồi · Clip 2: Trên đường · Clip 3: Ăn sáng / Chợ · Clip 4: Điểm tham quan & Joi nói tiếng địa phương · Clip 5: Chốt & lên đường | Thêm nhịp giao lưu văn hóa/ngôn ngữ bản địa |
+| **6 clip (60s — tối đa)** | Clip 1: Flycam & mồi · Clip 2: Cung đường · Clip 3: Ẩm thực sáng · Clip 4: Điểm tham quan 1 · Clip 5: Đặc sản / Điểm tham quan 2 · Clip 6: Chốt tình cảm & lên đường | Đầy đủ hành trình trong ngày tại tỉnh/thành mà vẫn gọn đúng 60 giây |
 
 ---
 
@@ -88,8 +82,8 @@ Toàn bộ phân cảnh 10 giây được ghi hình trong một cú máy mượt
 ### QUY TẮC 7: PHONG CÁCH DIỄN XUẤT ĐỜI THỰC — TUYỆT ĐỐI KHÔNG THÊM THÔNG TIN NHÂN VẬT (AUTHENTIC VLOGGING — NO CHARACTER BIO)
 100% biểu cảm, cử chỉ và giọng nói của người đi du lịch trải nghiệm thật; tuyệt đối không giới thiệu tên tuổi rập khuôn ("mình là Vy", "đây là Joi"), chỉ chào và rủ đi khám phá tự nhiên. Tuyệt đối không hiển thị bất kỳ thẻ tên, bảng thông tin hay profile nhân vật nào trong video.
 
-### QUY TẮC 8: KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK
-Khung hình 9:16 dọc chuẩn điện ảnh 24fps sạch sẽ 100%.
+### QUY TẮC 8: KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG NHÁY ẢNH THẺ THAM CHIẾU STUDIO
+Khung hình 9:16 dọc chuẩn điện ảnh 24fps sạch sẽ 100%. Chỉ dùng ảnh tham chiếu để khóa nhận diện khuôn mặt và trang phục bên trong bối cảnh thật; tuyệt đối cấm cắt sang hoặc nháy ảnh thẻ nhân vật nền xám studio ở đầu hoặc cuối clip (`never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip`).
 
 ### QUY TẮC 9: ĐỘI MŨ BẢO HIỂM TUỲ CẢNH LINH HOẠT & NỐI CẢNH HỢP LÝ (CONTEXTUAL HELMET & SEAMLESS LOGIC)
 - **Không ép lúc nào cũng phải đội mũ bảo hiểm:** Tùy từng hoàn cảnh cụ thể mà xây dựng hình ảnh tự nhiên, chân thực và thoải mái:
@@ -220,7 +214,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 {Liệt kê các lỗi cần tránh, cụ thể cho từng cảnh}
 ```
 
-### Template Clip 2 đến clip cuối (Clip 2–N, N = 8–10 tùy lộ trình — Match-cut):
+### Template Clip 2 đến clip cuối (Clip 2–N, N = 3–6 tùy câu chuyện, tối đa 6 clip = 60 giây — Match-cut):
 
 ```markdown
 # KỊCH BẢN PHÂN CẢNH ĐẠO DIỄN — TẬP {SỐ} / CLIP {SỐ CLIP}
@@ -295,6 +289,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 
 ### Chặng 2: Tây Bắc (Tập 6–10)
 - **Tập 6 (Lào Cai):** Bắc Hà, Pạc Kha, Dinh Hoàng A Tưởng, Sa Pa, Nhà Thờ Đá Sa Pa, Nhà Thờ Đá, Hoàng Liên Sơn, Ga Hoàng Liên, Ga Fansipan, Đỉnh Fansipan, Fansipan, Hủa Xi Pan, Bản Cát Cát, Cát Cát, Đèo Ô Quy Hồ, Ô Quy Hồ, Mù Cang Chải, Lào Cai
+- **Tập 7 (Yên Bái):** Đèo Khau Phạ, Khau Phạ, Thung Lũng Cao Phạ, Cao Phạ, Bản Lìm Mông, Tú Lệ, Nếp Tan Tú Lệ, Pa Pỉnh Tộp, Đồi Mâm Xôi, La Pán Tẩn, Rừng Trúc Mù Cang Chải, Bản Nả Háng Tủa Chử, Púng Luông, Đồi Móng Ngựa, Sáng Nhù, Mù Cang Chải, Yên Bái, Lai Châu
 
 ---
 
@@ -323,6 +318,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 | **4** | Lạng Sơn | 7 | ✅ HOÀN THÀNH | Sáng thứ Hai 26/10/2026 ở Ải Chi Lăng: hai người đội mũ 3/4, cài quai, gạt kính xuống; Scrambler rời bãi đỗ trước Nhà Trưng Bày Chiến Thắng Chi Lăng, nhập QL1A về phía Hữu Lũng → hướng Tuyên Quang (khoảng 175 km). Tập 5 mở trên đường, mũ vẫn đội và cài quai; dự báo mưa rào sau trưa nên có thể có cảnh áo mưa; không chạy đèo ban đêm |
 | **5** | Tuyên Quang | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Ba 27/10/2026 trên Hồ Na Hang: thuyền gỗ quay mũi về bến thủy Thượng Lâm lúc hoàng hôn (mặt trời lặn 17:24), hai người mặc áo phao cam; Scrambler đỗ ở bến, 2 mũ 3/4 móc trên ghi-đông. Ngoài khung: về bến trước 17:30, đội mũ, cài quai, chạy khoảng 1,3 km về nhà sàn Bản Nà Tông nghỉ đêm. Tập 6 mở sáng thứ Tư 28/10/2026 (19/9 âm lịch) ở sân nhà sàn Bản Nà Tông: Scrambler dưới gầm sàn, 2 mũ móc trên ghi-đông; không chạy đèo ban đêm |
 | **6** | Lào Cai | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Năm 29/10/2026 (17:00) trên Đèo Ô Quy Hồ: hai người nhấc mũ 3/4 từ ghi-đông, đội, cài quai, gạt kính xuống; Scrambler bật đèn pha rời bãi dừng ngắm cảnh bên biển mây vàng cam lúc ráng chiều để về nghỉ đêm dưới chân đèo trước khi tối (không chạy đèo ban đêm). Tập 7 mở sáng thứ Sáu 30/10/2026 trên cung đường QL32 hướng đi Đèo Khau Phạ – Mù Cang Chải (Yên Bái) |
+| **7** | Yên Bái | 9 | ✅ HOÀN THÀNH (90 giây) | Sáng thứ Bảy 31/10/2026 (07:30) tại sân nhà sàn Mù Cang Chải: hai người nhấc mũ 3/4 từ ghi-đông, đội, cài quai, gạt kính xuống; Scrambler lăn bánh rời Mù Cang Chải theo QL32 ngập nắng sớm hướng sang Lai Châu. Tập 8 mở sáng thứ Bảy 31/10/2026 trên cung đường QL32 – Lai Châu |
 
 ---
 

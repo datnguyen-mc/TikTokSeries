@@ -30,6 +30,8 @@ from cms_integration import (
     rewrite_prompt_on_failure,
     find_episode_clip_mp4s,
     force_rename_clip_on_flow,
+    trim_studio_reference_frames,
+    probe_clip_streams,
 )
 
 FLOWKIT_API = "http://127.0.0.1:8200"
@@ -62,10 +64,10 @@ CHARACTER_SPECS = [
         "tag": "@Son",
         "aliases": ["@Son", "@Sơn", "SƠN (45", "SƠN in the past", "@Son = SƠN", "Son"],
         "default_media_id": "28356180-dea1-4c6c-bd80-8c3a41106957",
-        "description": "Sơn 'Bóng Ma' (45 tuổi): sát thủ hợp đồng, người kể chuyện; tóc bạc hai bên, sẹo trắng mảnh ngang sống mũi, dây đồng hồ quả quýt ở thắt lưng; hiện tại áo khoác dã chiến ô liu, quá khứ vest đen găng da.",
+        "description": "Sơn 'Bóng Ma' (45 tuổi): người giao nhận ngầm, người kể chuyện; tóc bạc hai bên, vệt mờ ngang sống mũi, dây đồng hồ quả quýt ở thắt lưng; hiện tại áo khoác dã chiến ô liu, quá khứ vest đen găng da.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Son, a 45-year-old Vietnamese man, 176 cm, lean and quiet, cropped black hair "
-            "greying at the temples, weathered calm face, a thin old white scar across the bridge of his nose, a silver pocket-watch chain on his belt, "
+            "greying at the temples, weathered calm face, a faint pale mark across the bridge of his nose, a silver pocket-watch chain on his belt, "
             "faded olive field jacket over a grey shirt, dark trousers, worn brown boots; plain grey studio background, hard side light, 8K. Not resembling any real actor."
         ),
     },
@@ -74,11 +76,11 @@ CHARACTER_SPECS = [
         "tag": "@May",
         "aliases": ["@May", "@Mây", "MÂY (38", "MÂY in civilian", "@May = MÂY", "Đại úy Mây", "May"],
         "default_media_id": "b210621a-c403-42cb-94d5-8c0024496843",
-        "description": "Đại úy Mây (38 tuổi): trưởng công an thị trấn Hòn Sóng; tóc ngắn có lọn bạc phía trước, mặt rám nắng, sơ mi kaki xắn tay, sổ tay túi ngực, còng ở thắt lưng, không phù hiệu.",
+        "description": "Đại úy Mây (38 tuổi): trưởng công an thị trấn Hòn Sóng; tóc ngắn có lọn bạc phía trước, mặt rám nắng, sơ mi kaki xắn tay, sổ tay túi ngực, khóa tay ở thắt lưng, không phù hiệu.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @May, a 38-year-old Vietnamese woman, 166 cm, athletic, sun-lined face, sharp warm eyes, "
             "short black hair with a single white streak at the front, plain khaki shirt with sleeves rolled, dark trousers, canvas shoes, a notebook in her "
-            "chest pocket, handcuffs on her belt, no insignia; plain grey studio background, 8K."
+            "chest pocket, steel wrist-clasp on her belt, no insignia; plain grey studio background, 8K."
         ),
     },
     {
@@ -86,7 +88,7 @@ CHARACTER_SPECS = [
         "tag": "@Ha",
         "aliases": ["@Ha", "@Hạ", "HẠ (32", "HẠ held captive", "HẠ free", "@Ha = HẠ", "Ha"],
         "default_media_id": "61e353d9-8e8a-48b1-934e-2f466ab87d09",
-        "description": "Hạ (32 tuổi): cô chủ tiệm hoa, người yêu của Sơn; tóc đen dài buộc lỏng, khăn lụa xanh nhạt, đầm lanh kem, tạp dề xanh (quá khứ); váy xám không khăn (bị giữ); blouse trắng, khăn xanh (tự do).",
+        "description": "Hạ (32 tuổi): cô chủ tiệm hoa, người yêu của Sơn; tóc đen dài buộc lỏng, khăn lụa xanh nhạt, đầm lanh kem, tạp dề xanh (quá khứ); váy xám không khăn (khi bị giữ); blouse trắng, khăn xanh (tự do).",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Ha, a 32-year-old Vietnamese woman, 162 cm, slim, gentle bright face, long black hair tied "
             "loosely, a pale-blue silk scarf in her hair, cream linen dress, green canvas florist apron, flat sandals, holding white lily stems; plain grey "
@@ -110,10 +112,10 @@ CHARACTER_SPECS = [
         "tag": "@Dũng",
         "aliases": ["@Dũng", "@Dung", "DŨNG \"ĐINH\"", "Dũng Đinh", "Dũng"],
         "default_media_id": "29967c42-6378-4e6e-a656-101fbda18b0b",
-        "description": "Dũng 'Đinh' (35 tuổi): tay sai số một của Rắn Đen; cao 180 cm, vai nặng, đầu đinh, khuyên tai bạc hình đinh ở tai trái, áo ba lỗ đen, bao súng luôn đóng.",
+        "description": "Dũng 'Đinh' (35 tuổi): tay sai số một của Rắn Đen; cao 180 cm, vai nặng, đầu đinh, khuyên tai bạc hình đinh ở tai trái, áo ba lỗ đen, túi da đeo hông luôn đóng.",
         "ref_prompt": (
             "Full-body photorealistic reference of a heavy-shouldered 35-year-old Vietnamese man, 180 cm, buzz cut, a small nail-shaped silver earring "
-            "in his left ear, black sleeveless shirt, black jeans, boots, a closed leather holster, arms crossed, loud confident face; plain grey background, 8K, not resembling any real actor."
+            "in his left ear, black sleeveless shirt, black jeans, boots, a closed leather belt pouch, arms crossed, loud confident face; plain grey background, 8K, not resembling any real actor."
         ),
     },
     {
@@ -121,7 +123,7 @@ CHARACTER_SPECS = [
         "tag": "@Vũ Kiên",
         "aliases": ["@Vũ Kiên", "@VuKien", "VŨ KIÊN", "Vũ Kiên"],
         "default_media_id": "cb559421-6180-43b2-bf78-ecc674c3b698",
-        "description": "Vũ Kiên (50 tuổi): doanh nhân vest trắng, mục tiêu hợp đồng và Người Môi Giới; cao, tóc đen vuốt, vest trắng, đồng hồ vàng, nụ cười chính khách không bao giờ tắt.",
+        "description": "Vũ Kiên (50 tuổi): doanh nhân vest trắng, đối tác làm ăn và Người Môi Giới; cao, tóc đen vuốt, vest trắng, đồng hồ vàng, nụ cười chính khách không bao giờ tắt.",
         "ref_prompt": (
             "Full-body photorealistic reference of a tall 50-year-old Vietnamese man with slicked black hair, a white tailored suit, white shirt, "
             "gold wristwatch, polished shoes, a wide politician's smile, one hand raised in greeting; plain grey background, 8K, not resembling any real actor."
@@ -330,23 +332,17 @@ def load_and_lock_project_characters(force_remote: bool = False):
 
 
 def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = None) -> bool:
-    if clip_num == 1 or not start_image_media_id:
-        return True
-    stripped = prompt.lstrip()
-    if stripped.startswith(("Continue the scene seamlessly", "Continue the scene from")):
-        return False
-    if stripped.startswith("[FORMAT]") or stripped.startswith("[ĐỊNH DẠNG]"):
-        return True
-    return False
+    """16:9 YouTube films cut continuously between camera angles; every clip opens with [FORMAT] and uses Ingredients R2V / Text-to-Video without chaining the previous clip's last frame."""
+    return True
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
     import re as _re
     # V3 declares visible people and printed portraits separately from voice-only
     # speakers and the previous-shot handoff. Those names must not spawn bodies.
-    if "[CHARACTERS — approved identities and current appearances]" in prompt:
+    if "[CHARACTERS" in prompt:
         reference_sections = _re.findall(
-            r"^\[(?:CHARACTERS — approved identities and current appearances|PICTURE-ONLY REFERENCES)\]\s*\n(.*?)(?=^\[|\Z)",
+            r"^\[(?:CHARACTERS[^\]]*|PICTURE-ONLY REFERENCES)\]\s*\n(.*?)(?=^\[|\Z)",
             prompt,
             flags=_re.MULTILINE | _re.DOTALL,
         )
@@ -382,11 +378,6 @@ def get_clip_reference_media_ids(prompt: str) -> list:
                 if mid not in selected:
                     selected.append(mid)
                 break
-    if not selected:
-        for spec in CHARACTER_SPECS[:4]:
-            mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"])
-            if mid and mid not in selected:
-                selected.append(mid)
     return selected[:7]
 
 
@@ -534,6 +525,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                     if chunk:
                         f.write(chunk)
             os.replace(tmp_path, target_path)
+            trim_studio_reference_frames(target_path, log_fn=log)
             size_mb = os.path.getsize(target_path) / (1024 * 1024)
             r2_sync = sync_clip_to_r2_and_d1(
                 channel_slug=CHANNEL_SLUG,
@@ -590,6 +582,7 @@ def fetch_media_video_url(media_id: str) -> str:
 
 def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
     """Trích xuất khung hình cuối cùng của clip bằng ffmpeg làm start frame cho clip sau."""
+    trim_studio_reference_frames(video_source, log_fn=log)
     out_frame = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{clip_num:02d}_last.jpg")
     log(f"🎬 Dùng ffmpeg cắt khung hình cuối (Last Frame) của Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
     try:
@@ -755,7 +748,24 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     return res
 
 
-def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeout_s=360):
+def lookup_operation_media_in_project(operation_id: str) -> str:
+    """Tra cứu trực tiếp media_id của operation trong project listing trên Google Flow."""
+    if not operation_id:
+        return None
+    try:
+        r = requests.get(
+            f"{FLOWKIT_API}/api/flow/debug-listing/{operation_id}",
+            params={"project_id": PROJECT_ID},
+            timeout=90,
+        )
+        if r.status_code == 200:
+            return r.json().get("matched_media_id")
+    except Exception:
+        pass
+    return None
+
+
+def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeout_s=210):
     """Theo dõi tiến trình sinh video cho đến khi hoàn thành."""
     url = f"{FLOWKIT_API}/api/flow/check-status"
     start_time = time.time()
@@ -774,11 +784,12 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
     log(f"⏳ Đang theo dõi tiến trình tạo video [Cảnh {scene_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
 
     last_logged_time = 0
+    complaint_seen_count = 0
     while time.time() - start_time < timeout_s:
         elapsed = int(time.time() - start_time)
         try:
             if workflows:
-                r = requests.post(url, json={"workflows": workflows, "project_id": PROJECT_ID}, timeout=30)
+                r = requests.post(url, json={"workflows": workflows, "project_id": PROJECT_ID}, timeout=120)
                 if r.status_code == 200:
                     res_data = r.json()
                     st = res_data.get("status")
@@ -804,7 +815,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         return {"success": False, "error": "FLOW_FAILED"}
 
             elif operations:
-                r = requests.post(url, json={"operations": operations, "project_id": PROJECT_ID}, timeout=30)
+                r = requests.post(url, json={"operations": operations, "project_id": PROJECT_ID}, timeout=120)
                 if r.status_code == 200:
                     res_data = r.json()
                     inner_ops = res_data.get("operations") or res_data.get("data", {}).get("operations") or []
@@ -812,26 +823,79 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                     has_failed = False
                     video_url = None
                     op_media_id = None
+                    op_complaint = None
+                    first_op_id = None
 
                     for op in inner_ops:
+                        op_id_cand = (op.get("operation") or {}).get("name") or op.get("name")
+                        if op_id_cand and not first_op_id:
+                            first_op_id = op_id_cand
                         op_status = op.get("status", "")
+                        if op.get("complaint"):
+                            op_complaint = op.get("complaint")
+                        op_meta = op.get("operation", {}).get("metadata", {}).get("video", {})
+                        if not op_meta:
+                            op_meta = op.get("metadata", {}).get("video", {})
+                        if op_meta.get("mediaId"):
+                            op_media_id = op_meta.get("mediaId")
                         if op_status == "MEDIA_GENERATION_STATUS_SUCCESSFUL":
-                            op_meta = op.get("operation", {}).get("metadata", {}).get("video", {})
-                            if not op_meta:
-                                op_meta = op.get("metadata", {}).get("video", {})
                             v_url = op_meta.get("fifeUrl") or op_meta.get("downloadUrl")
                             if v_url:
                                 video_url = v_url
-                            op_media_id = op_meta.get("mediaId")
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
                             has_failed = True
                             all_done = False
                         else:
                             all_done = False
 
+                    if not first_op_id and operations:
+                        op0 = operations[0] if isinstance(operations[0], dict) else {}
+                        first_op_id = (op0.get("operation") or {}).get("name") or op0.get("name")
+
                     if has_failed:
                         log(f"❌ Operation thất bại: {res_data}")
                         return {"success": False, "error": "OPERATION_FAILED"}
+
+                    # Nếu backend thiếu project_id trong cache, chủ động tra cứu trực tiếp qua debug-listing
+                    if not op_media_id and first_op_id and elapsed >= 36:
+                        if op_complaint == "no project id for the listing lookup" or elapsed % 18 < 6:
+                            looked_up_mid = lookup_operation_media_in_project(first_op_id)
+                            if looked_up_mid:
+                                op_media_id = looked_up_mid
+                                primary_media_id = looked_up_mid
+                                direct_v_url = fetch_media_video_url(looked_up_mid)
+                                if direct_v_url:
+                                    log(f"🎉 Phát hiện video hoàn tất qua Project Listing sau {elapsed}s!")
+                                    force_rename_clip_on_flow(
+                                        FLOWKIT_API, PROJECT_ID, submit_res_data,
+                                        f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]",
+                                        media_id=looked_up_mid, log_fn=log,
+                                    )
+                                    return {"success": True, "video_url": direct_v_url}
+
+                    if (
+                        op_complaint
+                        and op_complaint != "no project id for the listing lookup"
+                        and not op_media_id
+                    ):
+                        complaint_seen_count += 1
+                        if elapsed >= 110 and complaint_seen_count >= 5:
+                            looked_up_mid = lookup_operation_media_in_project(first_op_id) if first_op_id else None
+                            if looked_up_mid:
+                                op_media_id = looked_up_mid
+                                primary_media_id = looked_up_mid
+                                direct_v_url = fetch_media_video_url(looked_up_mid)
+                                if direct_v_url:
+                                    log(f"🎉 Phát hiện video hoàn tất qua Project Listing sau {elapsed}s!")
+                                    force_rename_clip_on_flow(
+                                        FLOWKIT_API, PROJECT_ID, submit_res_data,
+                                        f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]",
+                                        media_id=looked_up_mid, log_fn=log,
+                                    )
+                                    return {"success": True, "video_url": direct_v_url}
+                            else:
+                                log(f"⚠️ Google Flow báo lỗi/từ chối operation ({op_complaint}) sau {elapsed}s và không sinh media — chuyển sang thử lại!")
+                                return {"success": False, "error": f"FLOW_COMPLAINT: {op_complaint}"}
 
                     if all_done and inner_ops:
                         log(f"🎉 Google Flow render hoàn tất sau {elapsed}s!")
@@ -890,17 +954,26 @@ def _is_transient_transport_error(err_text: str) -> bool:
     return any(m in t for m in transient_markers)
 
 
-def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 6):
+def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 3):
     current_prompt = initial_prompt
     policy_attempt = 0
 
     for attempt in range(1, max_retries + 1):
         if attempt > 1:
-            log(f"🔄 [KHÔNG BỎ SÓT CLIP] Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries})...")
+            log(f"🔄 Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries})...")
 
         transient_fail = False
         try:
             res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+            cooldown_loops = 0
+            while res.status_code != 200 and cooldown_loops < 5:
+                err_body = res.text or ""
+                if wait_if_cooldown_error(err_body, FLOWKIT_API, log):
+                    cooldown_loops += 1
+                    res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+                else:
+                    break
+
             if res.status_code == 200:
                 data = res.json()
                 inner = data.get("data") if isinstance(data.get("data"), dict) else data
@@ -910,20 +983,11 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                 if poll_res["success"] and poll_res.get("video_url"):
                     return poll_res
                 else:
-                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt} ({poll_res.get('error')}).")
+                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt}/{max_retries} ({poll_res.get('error')}).")
             else:
                 err_body = res.text or ""
                 log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {err_body}")
-                if wait_if_cooldown_error(err_body, FLOWKIT_API, log):
-                    res_after = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
-                    if res_after.status_code == 200:
-                        data = res_after.json()
-                        inner = data.get("data") if isinstance(data.get("data"), dict) else data
-                        log("✅ Google Flow đã chấp nhận job tạo video sau khi chờ Cooldown.")
-                        poll_res = poll_generation(inner, scene_num, clip_num)
-                        if poll_res["success"] and poll_res.get("video_url"):
-                            return poll_res
-                elif _is_transient_transport_error(err_body):
+                if _is_transient_transport_error(err_body):
                     transient_fail = True
         except Exception as e:
             log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
@@ -932,16 +996,17 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
 
         if attempt < max_retries:
             if transient_fail:
-                log(f"⏳ Lỗi kết nối Extension tạm thời — giữ nguyên prompt gốc và thử lại sau 6 giây...")
+                log(f"⏳ Lỗi kết nối Extension tạm thời — giữ nguyên prompt gốc và thử lại lần {attempt + 1}/{max_retries} sau 6 giây...")
                 time.sleep(6)
                 continue
             policy_attempt += 1
-            log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - CẤP ĐỘ {policy_attempt}] Đang làm mềm prompt trên bộ nhớ cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
+            log(f"🔧 [LÀM MỀM PROMPT TỰ ĐỘNG - LẦN THỬ {attempt + 1}/{max_retries}] Đang làm mềm prompt trong bộ nhớ cho Cảnh {scene_num:02d} - Clip {clip_num:02d} (giữ nguyên file .md chuẩn)...")
             current_prompt = sanitize_prompt(initial_prompt, policy_attempt)
             start_image_media_id = None
             log("🔄 Khóa trực tiếp nhân vật gốc (Ingredients R2V) và chạy lại sau 5 giây...")
             time.sleep(5)
 
+    log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN LỖI] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã fail {max_retries} lần — tạm bỏ qua để kiểm tra và tạo lại sau!")
     return {"success": False, "video_url": None}
 
 
@@ -964,6 +1029,8 @@ def run_pipeline(start_scene=1, end_scene=60):
     clip_indices = [ONLY_CLIP] if ONLY_CLIP > 0 else list(range(1, 7))
     total_clips = (end_scene - start_scene + 1) * len(clip_indices)
     completed_clips = 0
+    force_rerender = os.environ.get("FLOWKIT_FORCE_RERENDER") == "1"
+    any_rendered_in_batch = set()
 
     for s in range(start_scene, end_scene + 1):
         CURRENT_EP_NUM = s
@@ -981,23 +1048,22 @@ def run_pipeline(start_scene=1, end_scene=60):
             if not os.path.exists(fpath):
                 continue
 
+            existing_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s:02d}", f"canh-{s:02d}_clip-{c_idx:02d}.mp4")
+            if ONLY_CLIP == 0 and not force_rerender and os.path.exists(existing_mp4) and os.path.getsize(existing_mp4) > 50_000:
+                stream_info = probe_clip_streams(existing_mp4)
+                if stream_info.get("valid_video"):
+                    completed_clips += 1
+                    progress_pct = (completed_clips / max(1, total_clips)) * 100
+                    size_mb = os.path.getsize(existing_mp4) / (1024 * 1024)
+                    log(f"✅ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã tồn tại ({size_mb:.2f} MB) — bỏ qua.")
+                    previous_clip_last_frame_media_id = None
+                    continue
+
             with open(fpath, "r", encoding="utf-8") as f:
                 prompt_content = f.read().strip()
 
-            # Nếu clip hiện tại là CONTINUE (nối tiếp frame cuối của clip trước) nhưng chưa có media_id
-            # (ví dụ chạy lẻ 1 clip trên UI), tự động lấy frame cuối của clip trước từ ổ cứng và upload!
-            if (
-                c_idx > 1
-                and not previous_clip_last_frame_media_id
-                and not is_new_scene_clip(prompt_content, c_idx, "CHECK_CONTINUE")
-            ):
-                prev_frame_path = os.path.join(FRAMES_DIR, f"scene_{s:02d}_clip_{c_idx - 1:02d}_last.jpg")
-                if not os.path.exists(prev_frame_path):
-                    prev_video_path = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s:02d}", f"canh-{s:02d}_clip-{c_idx - 1:02d}.mp4")
-                    if os.path.exists(prev_video_path):
-                        prev_frame_path = extract_last_frame(prev_video_path, s, c_idx - 1)
-                if prev_frame_path and os.path.exists(prev_frame_path):
-                    previous_clip_last_frame_media_id = upload_start_frame(prev_frame_path)
+            # Phim 16:9 YouTube chuyển góc máy liên tục nên không chèn frame cuối của clip trước
+            previous_clip_last_frame_media_id = None
 
             completed_clips += 1
             progress_pct = (completed_clips / max(1, total_clips)) * 100
@@ -1007,7 +1073,7 @@ def run_pipeline(start_scene=1, end_scene=60):
                 scene_num=s,
                 clip_num=c_idx,
                 initial_prompt=prompt_content,
-                start_image_media_id=previous_clip_last_frame_media_id
+                start_image_media_id=None
             )
 
             if res["success"] and res.get("video_url"):
@@ -1015,19 +1081,8 @@ def run_pipeline(start_scene=1, end_scene=60):
                 local_video = download_and_rename_video(video_url, s, c_idx)
                 if local_video:
                     rendered_in_this_run.add(c_idx)
-                    frame_path = extract_last_frame(local_video, s, c_idx)
-                    next_fpath = os.path.join(scene_dir, f"clip-{c_idx + 1}.md")
-                    if c_idx < 6 and frame_path and os.path.exists(next_fpath):
-                        with open(next_fpath, "r", encoding="utf-8") as nf:
-                            next_prompt = nf.read().strip()
-                        if not is_new_scene_clip(next_prompt, c_idx + 1, "CHECK_CONTINUE"):
-                            previous_clip_last_frame_media_id = upload_start_frame(frame_path)
-                        else:
-                            previous_clip_last_frame_media_id = None
-                    else:
-                        previous_clip_last_frame_media_id = None
-                else:
-                    previous_clip_last_frame_media_id = None
+                    extract_last_frame(local_video, s, c_idx)
+                previous_clip_last_frame_media_id = None
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
             else:
                 log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
@@ -1036,28 +1091,23 @@ def run_pipeline(start_scene=1, end_scene=60):
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
 
-        # 🛡️ VÒNG LẶP VÉT CẠN: Đảm bảo 100% không bỏ sót bất kỳ clip nào của Cảnh trước khi ghép FULL
         existing_nums = rendered_in_this_run if ONLY_CLIP > 0 else {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
         missing_clips = [c_idx for c_idx in clip_indices if c_idx not in existing_nums and os.path.exists(os.path.join(scene_dir, f"clip-{c_idx}.md"))]
         if missing_clips:
-            log(f"🛡️ [CAM KẾT KHÔNG BỎ SÓT] Phát hiện Cảnh {s:02d} còn thiếu {len(missing_clips)} clip ({missing_clips}). Đang đổi sang Ultra-Safe Prompt & render bù ngay!")
-            for mc in missing_clips:
-                CURRENT_CLIP_NUM = mc
-                fpath_m = os.path.join(scene_dir, f"clip-{mc}.md")
-                with open(fpath_m, "r", encoding="utf-8") as f:
-                    raw_p = f.read().strip()
-                ultra_safe_p = sanitize_prompt(raw_p, attempt=3)
-                update_clip_file(s, mc, ultra_safe_p)
-                rec_res = run_clip_with_auto_retry(scene_num=s, clip_num=mc, initial_prompt=ultra_safe_p, start_image_media_id=None, max_retries=4)
-                if rec_res["success"] and rec_res.get("video_url"):
-                    local_v = download_and_rename_video(rec_res["video_url"], s, mc)
-                    update_dashboard_scene_status(s, mc, local_v if local_v else rec_res["video_url"])
+            log(f"⏭️ [DANH SÁCH CLIP TẠM BỎ QUA] Cảnh {s:02d} còn {len(missing_clips)} clip chưa hoàn tất ({missing_clips}).")
 
         CURRENT_CLIP_NUM = None
-        merge_episode_clips(SERIES_DIR, CHANNEL_SLUG, s, f"canh-{s:02d}", project_id=PROJECT_ID, unit_label="Cảnh")
+        if rendered_in_this_run:
+            any_rendered_in_batch.add(s)
+        merged_scene_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s:02d}", f"{CHANNEL_SLUG}_canh-{s:02d}_FULL.mp4")
+        if rendered_in_this_run or not os.path.exists(merged_scene_mp4):
+            merge_episode_clips(SERIES_DIR, CHANNEL_SLUG, s, f"canh-{s:02d}", project_id=PROJECT_ID, unit_label="Cảnh")
         if s % 10 == 0:
             tap_num = s // 10
-            merge_multi_scenes_to_episode(SERIES_DIR, CHANNEL_SLUG, tap_num, s - 9, s, project_id=PROJECT_ID)
+            ep_full_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, "_FULL_EPISODES", f"{CHANNEL_SLUG}_tap-{tap_num:02d}_FULL.mp4")
+            batch_updated = any(sc in any_rendered_in_batch for sc in range(s - 9, s + 1))
+            if batch_updated or not os.path.exists(ep_full_mp4):
+                merge_multi_scenes_to_episode(SERIES_DIR, CHANNEL_SLUG, tap_num, s - 9, s, project_id=PROJECT_ID)
 
     print("\n" + "=" * 72)
     print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d}!")

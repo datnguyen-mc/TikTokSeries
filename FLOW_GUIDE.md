@@ -8,51 +8,60 @@
 
 | Series | Khóa nhân vật & ảnh tham chiếu | Các tập (1 tập/ngày) |
 | ------ | ------------------------------ | --------------------- |
-| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-15](mit-va-du-1970/tap-15/README.md) |
-| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-9](pheo-va-no-meo/tap-9/README.md) |
+| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-18](mit-va-du-1970/tap-18/README.md) |
+| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-12](pheo-va-no-meo/tap-12/README.md) |
 | Nhà Tèo & Sún | [FLOW_PROMPTS.md](teo-va-sun-cho/FLOW_PROMPTS.md) | [tap-1](teo-va-sun-cho/tap-1/README.md) → [tap-6](teo-va-sun-cho/tap-6/README.md) |
-| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-11](tay-du-ky-2026/tap-11/README.md) (tập 1–7 đã gỡ khỏi repo) |
-| 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap5-tuyen-quang](365ngayvietnam/tap5-tuyen-quang/README.md) |
-| Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-3](me-va-be/tap-3/README.md) |
+| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-13](tay-du-ky-2026/tap-13/README.md) (tập 1–7 đã gỡ khỏi repo) |
+| 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap7-yen-bai](365ngayvietnam/tap7-yen-bai/README.md) |
+| Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-5](me-va-be/tap-5/README.md) |
 | Biệt Đội Gara | [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md) | Phim 15 phút: [canh-01](biet-doi-gara/canh-01/README.md) → [canh-15](biet-doi-gara/canh-15/README.md), kịch bản tổng [KICH_BAN_PHIM.md](biet-doi-gara/KICH_BAN_PHIM.md) |
 | Kẻ Sống Sót: Bóng Ma | [FLOW_PROMPTS.md](ke-song-sot/FLOW_PROMPTS.md) | Phim 60 phút: [canh-01](ke-song-sot/canh-01/README.md) → [canh-60](ke-song-sot/canh-60/README.md), kịch bản tổng [KICH_BAN_60_PHUT.md](ke-song-sot/KICH_BAN_60_PHUT.md), phân tích phim gốc trong [README.md](ke-song-sot/README.md), hồ sơ nhân vật [NHAN_VAT.md](ke-song-sot/NHAN_VAT.md) |
+| Đường Đua Sinh Tử: 10 Giây Tự Do | [FLOW_PROMPTS.md](duong-dua-sinh-tu/FLOW_PROMPTS.md) | Phim 40 phút (4 Tập × 10 phút): [canh-01](duong-dua-sinh-tu/canh-01/README.md) → [canh-40](duong-dua-sinh-tu/canh-40/README.md), kịch bản tổng [KICH_BAN_40_PHUT.md](duong-dua-sinh-tu/KICH_BAN_40_PHUT.md), tổng quan [README.md](duong-dua-sinh-tu/README.md), hồ sơ nhân vật [NHAN_VAT.md](duong-dua-sinh-tu/NHAN_VAT.md) |
 
 **Tập chủ đề 20/10:** Mit & Đú tap-8 · Phèo tap-3 · Tèo & Sún tap-2 · Tây Du Ký tap-4
 
 **Tập xu hướng:** chủ đề lấy từ từ khóa Google Trends và TikTok, ghi lại trong [TRENDS.md](TRENDS.md). Tập xu hướng nên đăng ngay, không cần chờ đúng thứ tự.
 
-**Độ dài tập** (áp dụng cho tập mới từ 25/10/2026; các tập đã viết giữ nguyên độ dài cũ):
+**Độ dài tập TikTok (9:16) & Quy tắc Search Google bắt buộc** (áp dụng thống nhất cho tất cả kênh TikTok; các tập đã viết giữ nguyên file cũ):
+- **Thời lượng mỗi tập TikTok (9:16): dao động từ 30 đến 60 giây (tối đa 60 giây = 3 đến 6 clip × 10s).** Tuyệt đối không làm vượt quá 60 giây (6 clip) cho một tập TikTok.
+- **Bắt buộc Search Google khi cần thiết:** Trước khi viết kịch bản tập mới (công thức nấu ăn, định lượng gia vị, mẹo chăm bé, thông tin địa danh/giá vé/giờ vàng du lịch, mẹo đời sống, hoặc trend đang hot), bắt buộc phải tra cứu Google Search để lấy thông tin thật, chính xác 100% và ghi nguồn kiểm chứng vào `README.md` của tập.
 
-| Series | Độ dài | Số clip 10s | Xương sống mỗi tập | Áp dụng từ |
+| Series | Độ dài chuẩn | Số clip 10s | Xương sống mỗi tập (30–60s) | Tra cứu Google bắt buộc khi viết |
 | ------ | ------ | ----------- | ------------------ | ---------- |
-| Tây Du Ký 2026 | 40–60s tùy câu chuyện | 4–6 | Hook và vấn đề → kế hoạch → phép thuật ra tay → leo thang → lật kèo → chốt cười, thumbnail (tập 4–5 clip gộp nhịp, xem FLOW_PROMPTS của series) | Tập 9 |
-| Mit & Đú 1970 | 40–60s tùy câu chuyện | 4–6 | Lát cắt đời thường 1970 → chuyện nhỏ trong nhà → khoảnh khắc thương nhau → kết ấm áp, vui vẻ | Tập 13 |
-| 365 Ngày Phèo Làm Nội Trợ | từ 90s trở lên | từ 9 | Đi chợ về → nguyên liệu, định lượng → sơ chế → nấu từng bước → nêm nếm, trình bày → dọn ra ăn cùng Hường → twist, đứng hình | Tập 9 |
-| Nhà Tèo & Sún | 40–60s tùy câu chuyện | 4–6 | Chuyện trong nhà → Tèo vụng về hoặc trục trặc → mẹo đời sống (sản phẩm xuất hiện tự nhiên) → kết yêu thương | Tập 7 |
-| 365 Ngày Việt Nam | khoảng 90s | 9 (8–10 tùy lộ trình) | Xem [MASTER_CONTEXT.md](365ngayvietnam/MASTER_CONTEXT.md) của series | Tập 5 |
-| Mẹ và Bé | 40–60s tùy câu chuyện | 4–6 | Mở bằng em bé → đồ cho bé và một mẹo có nguồn → khó khăn nhỏ → khoảnh khắc thương → kết ấm, thumbnail; mỗi tập hai bé lớn thêm 1 tuần | Tập 1 |
-| Biệt Đội Gara | Một phim liền 14:40 đăng YouTube, chia 15 cảnh khoảng 60s cắt đăng TikTok | 88 (6 mỗi cảnh, Cảnh 2 có 4) | Mỗi cảnh: hook 2 giây → hành động hoặc cảm xúc chính (mỗi nhịp một động tác) → cú lật hoặc câu móc | Cảnh 1 |
-| Kẻ Sống Sót: Bóng Ma | Một phim liền 60:00 đăng YouTube (hoặc 6 tập × 10 phút), chia 60 cảnh đúng 60s cắt đăng TikTok; hiện tại đan quá khứ, lời dẫn ngôi thứ nhất | 360 (6 mỗi cảnh) | Mỗi cảnh: hook 2 giây → một mối đe dọa, manh mối hoặc mảnh quá khứ (mỗi nhịp một động tác) → cú lật hoặc câu móc | Cảnh 1 |
+| Tây Du Ký 2026 | **30–60s** (tối đa 60s) | **3–6 clip** | Hook và vấn đề → kế hoạch & phép thuật ra tay → leo thang / lật kèo → chốt cười, thumbnail | Trend đời sống Sài Gòn, sự kiện/tin tức đang hot |
+| Mit & Đú 1970 | **30–60s** (tối đa 60s) | **3–6 clip** | Lát cắt đời thường miền Tây 1970 → chuyện nhỏ trong nhà → khoảnh khắc thương nhau → kết ấm áp, vui vẻ | Phong tục, món ăn, vật dụng, phương ngữ miền Tây xưa (1970) |
+| 365 Ngày Phèo Làm Nội Trợ | **30–60s** (tối đa 60s) | **3–6 clip** | Đi chợ & kèo của Hường → nguyên liệu & sơ chế nhanh → nấu & mẹo chính → dọn ra bàn ăn, twist đứng hình | Công thức nấu ăn chuẩn, định lượng nguyên liệu, mẹo khử mùi & an toàn thực phẩm |
+| Nhà Tèo & Sún | **30–60s** (tối đa 60s) | **3–6 clip** | Chuyện trong nhà → Tèo vụng về hoặc trục trặc → mẹo đời sống (sản phẩm xuất hiện tự nhiên) → kết yêu thương | Mẹo vặt gia đình, cách dùng sản phẩm an toàn trên nhãn |
+| 365 Ngày Việt Nam | **30–60s** (tối đa 60s) | **3–6 clip** | Flycam & câu mồi → cung đường / điểm tham quan chính → thưởng thức đặc sản → chốt tình cảm & lên đường | Địa danh, cung đường, giờ vàng, giá vé, đặc sản & văn hóa địa phương |
+| Mẹ và Bé | **30–60s** (tối đa 60s) | **3–6 clip** | Mở bằng em bé → đồ cho bé và một mẹo có nguồn → khó khăn nhỏ → khoảnh khắc thương & kết ấm | Cột mốc phát triển & an toàn trẻ nhỏ theo tuần tuổi (WHO, CDC, AAP, Bộ Y tế) |
+| Biệt Đội Gara | Phim 16:9 YouTube, cắt cảnh 60s cho TikTok | 6 clip / cảnh (60s) | Mỗi cảnh: hook 2 giây → hành động hoặc cảm xúc chính → cú lật hoặc câu móc | Cơ khí ô tô, kỹ thuật độ xe & cứu hộ thực tế |
+| Kẻ Sống Sót: Bóng Ma | Phim 60:00 đăng YouTube (16:9), chia 60 cảnh × 60s | 360 (6 clip / cảnh) | Mỗi cảnh: hook 2 giây → một mối đe dọa, manh mối hoặc mảnh quá khứ → cú lật hoặc câu móc | Nghiệp vụ điều tra, pháp y, bối cảnh thị trấn biển |
+| Đường Đua Sinh Tử: 10 Giây Tự Do | Phim 40:00 đăng YouTube (16:9), chia 40 cảnh × 60s | 240 (6 clip / cảnh) | Mỗi cảnh: hook 2 giây → đua xe, điều tra hoặc xung đột huynh đệ → cú lật hoặc câu móc | Thông số kỹ thuật xe đua (Supra, Charger, Eclipse, RX-7), thuật ngữ cơ khí |
 
-**Kịch bản "như người thật chia sẻ"** (mọi series):
+**Kịch bản "như người thật chia sẻ" & Tra cứu Google thực tế** (mọi series TikTok 30–60s):
+- **Thời lượng gọn 30–60 giây (3–6 clip × 10s):** Chọn đúng điểm đắt giá nhất của câu chuyện, món ăn hoặc điểm đến. Không kéo dài lê thê quá 60 giây.
+- **Bắt buộc Search Google khi cần thiết:** Mọi tên món, định lượng, giờ giấc, nơi chốn, giá cả, giờ mở cửa, luật lệ, công thức nấu ăn, mẹo chăm trẻ, mẹo sức khỏe phải được tra cứu Google trước khi viết và ghi nguồn trong `README.md` (ưu tiên Bộ Y tế, WHO, CDC, hướng dẫn chính thức).
 - **Mỗi clip có một điều mới** cho người xem: một chi tiết đời thật, một mẹo, một bước làm, một con số hoặc một nhịp cảm xúc. Không có clip chỉ để kéo dài.
-- **Cụ thể như người đã làm thật:** tên món, định lượng, giờ giấc, nơi chốn, và vì sao làm như vậy. Giá cả, giờ mở cửa, luật lệ, công thức, mẹo chăm trẻ, mẹo sức khỏe và cách dùng hóa chất tẩy rửa phải kiểm chứng và ghi nguồn trong README (ưu tiên Bộ Y tế, WHO, hướng dẫn trên nhãn sản phẩm).
 - **Nói như người thật:** câu ngắn, giọng miền Nam tự nhiên, có cảm thán, có kể chuyện ngôi thứ nhất; không đọc như thuyết minh, không giảng đạo lý.
-- **Tập dài không nói nhanh hơn:** mỗi clip vẫn tối đa khoảng 31 âm tiết thoại; muốn chia sẻ nhiều hơn thì thêm clip.
+- **Giữ tốc độ thoại tự nhiên:** mỗi clip tối đa khoảng 30–31 âm tiết thoại (không quá 4,5 âm tiết/giây).
 - **Giữ người xem:** khoảng 10–15 giây lại có một điểm mới (câu hỏi, bất ngờ, mẹo, tình huống); clip cuối luôn có điểm chốt và khung thumbnail.
 
 ---
 
 ## 1. Dán prompt vào Flow từng bước
 
-Gemini Omni tạo **tối đa 10 giây mỗi lần** (Veo 3.1 chỉ được 8 giây), nên tập dài bao nhiêu thì ghép bấy nhiêu clip 10 giây: 40–60 giây là 4–6 clip, 90 giây là 9 clip (bảng "Độ dài tập" ở trên). **Mỗi file `clip-{số}.md` chỉ chứa đúng prompt:** mở file, bấm Cmd+A rồi Cmd+C, dán vào ô prompt của Flow, không sửa gì.
+Gemini Omni tạo **tối đa 10 giây mỗi lần** (Veo 3.1 chỉ được 8 giây), nên tập TikTok dài bao nhiêu thì ghép bấy nhiêu clip 10 giây: **dao động từ 30 đến 60 giây = 3 đến 6 clip × 10s (tối đa 60 giây)**. **Mỗi file `clip-{số}.md` chỉ chứa đúng prompt:** mở file, bấm Cmd+A rồi Cmd+C, dán vào ô prompt của Flow, không sửa gì.
 
-| Clip | Thời gian | Chế độ trong Flow | Đính kèm |
-| ---- | --------- | ----------------- | -------- |
-| **Clip 1** | 00:00–00:10 | **Video → Gemini Omni → Ingredients** | Ảnh nhân vật và sản phẩm ghi trong README của tập |
-| **Clip 2** | 00:10–00:20 | **Video → Gemini Omni → Frames** | Start frame = khung cuối Clip 1 (Save frame) |
-| **Clip 3 trở đi** | mỗi clip thêm 10 giây | **Video → Gemini Omni → Frames** | Start frame = khung cuối clip ngay trước |
-| **Clip đổi bối cảnh hoặc cắt cảnh** | — | **Video → Gemini Omni → Ingredients** | Khi README ghi clip đó mở cảnh mới hoặc nhảy thời gian: đính lại ảnh tham chiếu, dán [FORMAT] và FULL LOCK như Clip 1, không dán câu Continue the scene seamlessly… |
+| Clip | Thời gian | Chế độ trong Flow (9:16 TikTok) | Chế độ trong Flow (16:9 YouTube: Kẻ Sống Sót, Đường Đua Sinh Tử, Biệt Đội Gara) |
+| ---- | --------- | ----------------- | ------------------------------------------------------------------------------- |
+| **Clip 1** | 00:00–00:10 | **Video → Gemini Omni → Ingredients** (Đính ảnh nhân vật và sản phẩm) | **Video → Gemini Omni → Ingredients** (hoặc Text-to-Video nếu cảnh không có nhân vật chính) |
+| **Clip 2 trở đi** | mỗi clip thêm 10 giây | **Video → Gemini Omni → Frames** (Start frame = khung cuối clip trước) hoặc **Ingredients** nếu cắt cảnh | **Video → Gemini Omni → Ingredients** (Luôn mở bằng `[FORMAT]`, đính kèm nhân vật có mặt, **tuyệt đối KHÔNG chèn frame cuối** của clip trước vì phim 16:9 YouTube chuyển góc máy liên tục) |
+
+> **Quy tắc bắt buộc cho Phim 16:9 YouTube (`ke-song-sot`, `duong-dua-sinh-tu`, `biet-doi-gara`):**
+> - Phim điện ảnh 16:9 trên YouTube chuyển cảnh và đổi góc máy liên tục giữa các cú máy (Wide, Medium, Close-up, Tracking, Insert/B-Roll). Vì vậy **tuyệt đối KHÔNG trích xuất và nạp frame cuối (`start_image_media_id` / Frames) vào clip kế tiếp**.
+> - Mọi clip từ Clip 1 đến Clip 6 đều mở đầu bằng `[FORMAT]` và gọi trực tiếp **Ingredients Reference-to-Video** (`/api/flow/generate-video-omni` với danh sách `reference_media_ids` của đúng các nhân vật có mặt trong khung hình) hoặc **Text-to-Video** (`/api/flow/generate-video-omni-text` cho cảnh cận đạo cụ/phương tiện/toàn cảnh không có nhân vật chính).
+> - **Chống nháy ảnh thẻ nhân vật ở đầu/cuối clip (Studio Reference Card Guard):** Mọi prompt phải có chỉ dẫn rõ trong `[FORMAT]`, `[CHARACTERS]`, `[FINAL COMPOSITION AT 10.0s]` và `[AVOID]`: chỉ dùng ảnh tham chiếu để khóa khuôn mặt/trang phục bên trong bối cảnh sống của phim; tuyệt đối không hiển thị hoặc cắt sang ảnh thẻ nhân vật nền xám studio ở giây đầu hoặc giây cuối của clip (`never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip`).
+> - **Kiến trúc Global Film Bible thống nhất (`film_bible.py`):** Mọi phim dài đều quản lý tập trung `CHARACTER_LOCK`, `VEHICLE_LOCK`, `ENVIRONMENT_LOCK`, `OBJECT_LOCK`, `PHYSICS_RULES`, `CINEMATIC_STYLE`, `AUDIO_STYLE`, `START_STATE` / `END_STATE`, `Mouth map` (chỉ định chính xác ai mở miệng ở khung giây nào, người nghe khép miệng) và khối `[AVOID]` sạch (không chứa từ khóa nhạy cảm gây chặn chính sách).
 
 Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo video từ ảnh tham chiếu cho Clip 1 và chế độ khung đầu (first frame) cho Clip 2 trở đi.
 
@@ -74,7 +83,8 @@ Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo v
 | Tây Du Ký 2026 | `@Thay` · `@DaiCa` · `@HeoLuoi` · `@UtKho` | THẦY · ĐẠI CA · HEO LƯỜI · ÚT KHỜ |
 | Mẹ và Bé | `@Ngoc` · `@Gao` · `@Bong` | NGỌC · GẠO · BÔNG |
 | Biệt Đội Gara | `@Thang` · `@Lan` · `@Hai` · `@Khoi` · `@Minh` | THẮNG · LAN · HẢI · KHÔI · MINH |
-| Kẻ Sống Sót: Bóng Ma | `@Son` · `@May` · `@Ha` · `@HaiNgoc` | SƠN · MÂY · HẠ · BÀ HAI NGỌC |
+| Kẻ Sống Sót: Bóng Ma | `@Son` · `@May` · `@Ha` · `@HaiNgoc` · `@Dũng` · `@Vũ Kiên` · `@Phó Thành` · `@Bác sĩ Linh` · `@Ông Bảy`; người dẫn chuyện dùng `@Voice` tên NguoiKe nếu Flow cho tạo | Sơn · Mây · Hạ · Bà Hai · Dũng · Kiên · Thành · Bác sĩ Linh · Ông Bảy |
+| Đường Đua Sinh Tử: 10 Giây Tự Do | `@Tom` · `@Micdo` · `@Ami` · `@Cevin` · `@Cina` · `@Seja` · `@Onle` · `@NyTran` · `@Cela` · `@Nese` · `@Kinan` · `@Verni` | Tom · Micdo · Ami · Cevin · Cina · Seja · Onle · Ny Trần · Cela · Trung sĩ Nese · Đặc vụ Kinan · Verni |
 
 Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo, Tây Du Ký, Mẹ và Bé và Biệt Đội Gara giữ tên gốc trong phần còn lại của prompt: "No" là từ tiếng Anh, viết "No walks in…" model dễ hiểu nhầm. Nếu nhân vật trên Flow được tạo từ ảnh bộ đồ thường ngày, ở các tập mặc đồ khác (Mit & Đú tập 3, 4 và cảnh mơ tập 10, Tèo & Sún tập 2, Tây Du Ký tập 3) thì đính thêm ảnh bộ đồ đó.
 
@@ -94,7 +104,7 @@ Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo, Tây 
 
 **Dùng Extend thay cho Frames:** Gemini Omni 1.1 cho nối dài video đã tạo, mỗi lần thêm tối đa 10 giây, tổng tối đa 40 giây, và đọc lại cả đoạn trước nên nhân vật và giọng giữ đều hơn. Nếu Flow của bạn đã có nút **Extend** cho Omni (một số tài khoản chưa có): tạo Clip 1, bấm **Extend**, dán nguyên prompt `clip-2.md`, rồi Extend tiếp với `clip-3.md`, `clip-4.md`. Một chuỗi Extend dài tối đa 40 giây (4 clip); tập dài hơn thì Save frame khung cuối của clip thứ 4, mở chuỗi mới bằng **Frames** với `clip-5.md`, rồi Extend tiếp. Ghép các chuỗi trong Scenebuilder. Câu mở đầu clip 2 trở đi dùng được cho cả hai cách. Mốc giây trong prompt mỗi clip luôn tính từ đầu clip đó: 00:00 của Clip N là giây 10 × (N − 1) của tập (Clip 2 là giây 10, Clip 5 là giây 40).
 
-**Ghép:** rê chuột lên clip → **More** → **Add to Scene** → trong Scenebuilder kéo các clip theo thứ tự → cắt bớt 0.2–0.5s ở chỗ nối nếu bị khựng → tải scene về. Tập dài tối đa 40 giây (4 clip) làm bằng một chuỗi Extend thì không cần bước này; tập dài hơn (Tây Du Ký, Mit và Tèo 5–6 clip; Phèo và 365 Ngày Việt Nam 90 giây), hoặc tập có clip mở lại bằng Ingredients, vẫn phải ghép các chuỗi Extend và các clip đó trong Scenebuilder.
+**Ghép:** rê chuột lên clip → **More** → **Add to Scene** → trong Scenebuilder kéo các clip theo thứ tự → cắt bớt 0.2–0.5s ở chỗ nối nếu bị khựng → tải scene về. Tập dài 30–40 giây (3–4 clip) làm bằng một chuỗi Extend thì không cần bước này; tập dài 50–60 giây (5–6 clip), hoặc tập có clip mở lại bằng Ingredients, vẫn phải ghép các chuỗi Extend và các clip đó trong Scenebuilder.
 
 **Flow đọc prompt thế nào:**
 - Các nhãn `[FORMAT]`, `[CHARACTERS]`, `[SHOT LIST]`… chỉ là chữ thường để chia ý; model đọc như văn bản, không cần định dạng gì thêm. Giữ nguyên xuống dòng khi dán.

@@ -1,0 +1,23 @@
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI. Every character is a cute anthropomorphic 3D dog walking upright on two legs with four-fingered furry paw-hands; no humans exist. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+
+[CHARACTERS — unchanged, match @Mit @Đú @Nở reference images]
+@Mit = Mit (father, exact match to @Mit reference image): anthropomorphic golden-brown male dog standing upright on two legs, stocky build with round belly, white/cream dog muzzle and chest, thick expressive dark eyebrows, soft floppy golden-brown dog ears, black dog nose, four-fingered furry paws; faded grey sleeveless tank top (áo ba lỗ xám), dark shorts, barefoot; warm, slightly raspy Southern male voice.
+@Đú = Đú (mother, exact match to @Đú reference image): gentle anthropomorphic cream-and-light-brown female dog standing upright on two legs, white dog muzzle with white fur blaze between the eyes, long soft floppy light-brown dog ears, four-fingered furry paws; faded dusty-pink short-sleeved floral blouse (áo bà ba hồng nhạt in hoa nhỏ), loose black trousers, new checkered khăn rằn scarf over one shoulder, brown slippers; soft, warm Southern female voice.
+@Nở = Nở (6-year-old daughter, exact match to @Nở reference image): adorable, super-cute small anthropomorphic female puppy (chó con dễ thương) standing upright on two legs, waist-high to Mit; small chubby puppy body, cream fur with light-brown patches on head and soft floppy puppy ears, cute small white puppy muzzle, chubby round cheeks, big round shiny dark-brown puppy eyes, tiny black dog nose, four-fingered furry paws; faded light-yellow short-sleeved floral blouse (áo vàng nhạt in hoa nhỏ), dark-brown skirt (váy nâu sẫm), small brown sandals; high, bright little-girl voice.
+
+[SHOT LIST]
+00:00–00:03.5 | Same medium shot at the low wooden table, continuing from the last frame — the adorable little puppy @Nở opens the blank first page of her new notebook, takes her wooden pencil, and quickly sketches a tiny boat with three smiling dog faces inside (childlike drawing, no text), then holds it up proudly.
+00:03.5–00:06.5 | Medium close-up on the family, slow push-in — @Mit kneels down on one knee beside the low table and wraps his arms around both @Đú and little puppy @Nở with a warm, contented smile. @Mit says (warm, slightly raspy voice, loving): Cực mấy đi nữa, thấy hai mẹ con cười là ba hết mệt liền.
+00:06.5–00:09 | Medium wide shot in golden sunset light — the adorable little puppy @Nở hugs her new school notebooks and pencil to her chest, leaning happily into her parents' embrace as all three beam at the camera. @Nở says (high, bright little-girl voice, joyful): Ghe dừa đi một chuyến, chở về đầy ắp thương yêu luôn!
+00:09–00:10 | Same medium wide shot — all three hold completely still in their warm family embrace in front of the bamboo hut under the golden late-afternoon sun.
+
+[SOUND]
+Soft pencil sketch sound, gentle evening breeze through the coconut palms, a warm đàn bầu and acoustic guitar melody swelling tenderly and resolving on a bright, peaceful final chord.
+
+[END FRAME]
+Medium wide shot in the front yard of the bamboo hut under golden late-afternoon sunlight: the adorable small cream-and-light-brown puppy @Nở in the middle (soft floppy puppy ears, light-yellow floral blouse, dark-brown skirt) hugging her new school notebooks and wooden pencil to her chest and smiling brightly at the camera; @Mit on the left (golden-brown male dog with white muzzle, thick eyebrows, soft floppy ears, grey sleeveless tank top) and @Đú on the right (cream-and-tan female dog with white forehead blaze, long floppy ears, dusty-pink floral blouse and new checkered khăn rằn scarf on her shoulder), both hugging @Nở warmly; the empty wooden xuồng ba lá boat by the canal bank and coconut palms glowing in the sunset behind them. Hold completely still for the final 1 second as a thumbnail frame.
+
+[AVOID]
+humans, human faces, human child, human hands, quadrupedal non-anthropomorphic dogs, pointed upright ears, pigtails or hair buns, readable letters or numbers anywhere, hats, tears or crying, dialogue spoken by the wrong character, extra characters, electric lights, power lines or modern objects, outfit changes, distorted paws or extra fingers, subtitles.
+

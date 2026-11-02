@@ -34,6 +34,17 @@ _LOCAL_ONLY_PRAGMAS = (
     "PRAGMA BUSY_TIMEOUT",
 )
 
+# Log tables live only in local SQLite: never written to, created on, or synced with D1.
+LOCAL_ONLY_TABLES = frozenset({"cms_log"})
+
+_WRITE_TARGET_RE = re.compile(
+    r"^\s*(?:INSERT(?:\s+OR\s+\w+)?\s+INTO|REPLACE\s+INTO|UPDATE(?:\s+OR\s+\w+)?|DELETE\s+FROM"
+    r"|(?:CREATE|DROP|ALTER)\s+TABLE(?:\s+IF\s+(?:NOT\s+)?EXISTS)?"
+    r"|CREATE\s+(?:UNIQUE\s+)?INDEX(?:\s+IF\s+NOT\s+EXISTS)?\s+\w+\s+ON)"
+    r"\s+[\"`\[]?(\w+)",
+    re.IGNORECASE,
+)
+
 ALL_SYNC_TABLES = [
     "character",
     "project",
@@ -48,8 +59,13 @@ ALL_SYNC_TABLES = [
     "cms_channel",
     "cms_episode",
     "cms_clip",
-    "cms_log",
 ]
+
+
+def targets_local_only_table(sql: str) -> bool:
+    """Return True if a write/DDL statement targets a local-only (log) table."""
+    m = _WRITE_TARGET_RE.match(sql)
+    return bool(m and m.group(1).lower() in LOCAL_ONLY_TABLES)
 
 
 def is_d1_configured(cfg: Optional[dict] = None) -> bool:
@@ -285,6 +301,7 @@ class D1HybridConnection:
         instant fallback to local SQLite if offline or if a table is still syncing.
     - When D1 is not yet configured:
       * Operates seamlessly on local SQLite, ready to sync to D1 the moment credentials are saved.
+    - Log tables (LOCAL_ONLY_TABLES, e.g. cms_log) always stay in local SQLite only.
     """
 
     def __init__(self, sqlite_conn: aiosqlite.Connection):
@@ -312,7 +329,7 @@ class D1HybridConnection:
                 return True
         if sql_upper.startswith("PRAGMA FOREIGN_KEYS"):
             return True
-        return False
+        return targets_local_only_table(sql_upper)
 
     def _is_write_sql(self, sql_upper: str) -> bool:
         for kw in ("INSERT", "UPDATE", "DELETE", "REPLACE", "CREATE", "ALTER", "DROP"):
@@ -377,7 +394,7 @@ async def init_d1_schema(schema_sql: str) -> dict[str, Any]:
     errors = []
     async with httpx.AsyncClient(timeout=45.0) as client:
         for stmt in stmts:
-            if any(stmt.upper().startswith(p) for p in _LOCAL_ONLY_PRAGMAS):
+            if any(stmt.upper().startswith(p) for p in _LOCAL_ONLY_PRAGMAS) or targets_local_only_table(stmt):
                 continue
             res = await d1_query_async(stmt, cfg=cfg, client=client)
             if res.get("ok"):

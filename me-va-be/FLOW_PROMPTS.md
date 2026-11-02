@@ -2,17 +2,18 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập **40–60s = 4–6 clip × 10s** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video · **hình người thật kiểu điện ảnh** (giống 365 Ngày Việt Nam), không phải hoạt hình.
+**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video · **hình người thật kiểu điện ảnh** (giống 365 Ngày Việt Nam), không phải hoạt hình · **Bắt buộc Search Google** khi cần thiết để kiểm chứng các mốc phát triển của trẻ và mẹo chăm sóc an toàn (theo WHO, CDC, AAP, Bộ Y tế).
 
 **Thế giới:** Sài Gòn hôm nay. **Ngọc**, cô gái Việt Nam xinh đẹp 27 tuổi, nhận may đồ tại nhà, một mình nuôi cặp song sinh một trai một gái vừa chào đời: **Gạo** (bé trai, ra đời trước, là anh) và **Bông** (bé gái, là em). Chồng Ngọc bỏ đi khi cô vừa sinh và không đoái hoài gì tới hai con; ngày ra viện, gọi hoài anh ta cũng không bắt máy, Ngọc một mình bế hai con về căn phòng trọ tầng trệt trong con hẻm nhỏ (Tập 1). Người chồng **không xuất hiện trên hình** (chỉ có cuộc gọi không ai bắt máy), không có tên; Ngọc buồn, khóc, nhưng không chửi bới, không nói xấu anh ta trước mặt con. Kênh kể chuyện tình mẹ và cách chăm con mỗi tuần. Tên hai bé do Ngọc đặt: Gạo là no đủ, Bông là đẹp xinh.
 
-**Độ dài và cấu trúc:**
+**Độ dài và cấu trúc (30–60s, tối đa 60 giây):**
 
 | Số clip | Khi nào | Bố cục |
 | --- | --- | --- |
+| 3 (30s) | Một khoảnh khắc ngắn, một mẹo nhanh trong phòng trọ | 1 Mở & mẹo · 2 Khoảnh khắc thương · 3 Kết ấm |
 | 4 (40s, vừa một chuỗi Extend) | Một bối cảnh, một việc chăm con | 1 Mở · 2 Đồ cho bé và mẹo · 3 Khoảnh khắc thương · 4 Kết ấm |
 | 5 (50s) | Có một khó khăn nhỏ hoặc một bất ngờ | 1 Mở · 2 Đồ cho bé và mẹo · 3 Khó khăn nhỏ · 4 Khoảnh khắc thương · 5 Kết ấm |
-| 6 (60s) | Có nhảy thời gian (tối, sáng hôm sau) | 1 Mở · 2–3 Đồ cho bé và mẹo · 4 Khó khăn nhỏ · 5 Khoảnh khắc thương · 6 Kết ấm |
+| 6 (60s — tối đa) | Có nhảy thời gian (tối, sáng hôm sau) | 1 Mở · 2–3 Đồ cho bé và mẹo · 4 Khó khăn nhỏ · 5 Khoảnh khắc thương · 6 Kết ấm |
 
 - **Mở (2 giây đầu):** cận bàn tay, bàn chân, cái ngáp của em bé, hoặc một tiếng khóc, cộng một câu thoại gây tò mò.
 - **Đồ cho bé và mẹo:** mỗi tập **một món đồ** dùng thật trong chuyện, kèm **một mẹo đã kiểm chứng** nói trong thoại (cách dùng đúng hoặc lưu ý an toàn) và ghi nguồn trong README. Sản phẩm lên hình chủ yếu trong một clip (khoảng 20% thời lượng). Tên hãng chỉ gắn giỏ hàng TikTok, không nói trong thoại; nhãn trên hình để trống.
@@ -71,7 +72,7 @@
 
 Cô gái Việt Nam xinh đẹp, 27 tuổi, cao khoảng 1m62, dáng mảnh mai, duyên dáng. Mặt trái xoan thanh tú, da trắng sáng tự nhiên, mắt to sáng hình hạnh nhân, mi dài, lông mày cong nhẹ, môi hồng, nụ cười hiền ngọt; trang điểm nhẹ tự nhiên. **Dấu hiệu nhận dạng:** nốt ruồi duyên ngay dưới **mắt TRÁI**. Tóc đen dài suôn mượt vấn búi thấp bằng kẹp càng cua màu đồi mồi, vài sợi xõa ôm mặt. Giọng miền Nam nhỏ nhẹ, ấm, ngọt. Thức đêm vì con thì mệt, nhưng trên hình Ngọc vẫn luôn xinh và gọn gàng.
 
-**Trang phục A — ở nhà** (Tập 1–3): bộ đồ bộ cotton tay ngắn màu xanh lá xô thơm nhạt in hoa trắng nhỏ, vòng bạc trơn mảnh ở cổ tay trái, đi chân trần trong nhà.
+**Trang phục A — ở nhà** (Tập 1–5): bộ đồ bộ cotton tay ngắn màu xanh lá xô thơm nhạt in hoa trắng nhỏ, vòng bạc trơn mảnh ở cổ tay trái, đi chân trần trong nhà.
 
 FULL LOCK
 ```text
@@ -86,6 +87,8 @@ SHORT LOCK
 
 Bé trai sơ sinh thật, kháu khỉnh, bụ bẫm, má phúng phính, mũi nút áo, môi chu, nắm tay cuộn tròn; hay nhăn mặt kiểu ông cụ non lúc ngủ, hắt xì, vươn vai. **Dấu hiệu nhận dạng:** chỏm tóc đen dày dựng lên trên đỉnh đầu như mầm cây. Luôn mặc hoặc quấn đồ cotton **xanh bạc hà**, áo thêu chú gấu nâu nhỏ trước ngực.
 
+**Giai đoạn sơ sinh (Tập 1–4 · 4–25 ngày tuổi)**
+
 FULL LOCK
 ```text
 @Gao = GẠO (newborn twin boy): a real Vietnamese newborn baby boy in his first weeks of life, beautiful, adorable and chubby, true newborn proportions with a large head, plump round cheeks, a tiny button nose, little pouty lips, big bright dark eyes when awake, slightly puffy eyelids, tiny curled fists and wrinkly fingers, soft rosy healthy skin, a small tuft of thick black hair sticking straight up on the top of his head like a little sprout (signature detail). Always dressed or swaddled in soft mint-green cotton; his bodysuit has a tiny embroidered brown teddy bear on the chest. Clearly a baby boy. He never speaks; he only yawns, stretches, sneezes, coos or cries like a real newborn, and sometimes makes cute grumpy little frowns in his sleep.
@@ -95,9 +98,22 @@ SHORT LOCK
 @Gao = GẠO: beautiful, adorable real newborn twin boy, plump cheeks, tuft of thick black hair sticking up like a little sprout, soft mint-green cotton with a tiny embroidered teddy bear; never speaks, only real newborn sounds.
 ```
 
+**Giai đoạn 1–2 tháng tuổi (Tập 5–8 · 32–53 ngày tuổi)**
+
+FULL LOCK
+```text
+@Gao = GẠO (one-to-two-month-old twin boy): a real Vietnamese baby boy about one to two months old, beautiful, adorable and chubby, true young-infant proportions with a large head, fuller plump round cheeks, a tiny button nose, little pouty lips, big bright alert dark eyes that can focus steadily on his mother's face at close range, soft rosy healthy skin, tiny hands that relax slightly open when calm, a prominent tuft of thick black hair sticking straight up on the top of his head like a little sprout (signature detail); his head and neck still require full support when held. Always dressed in soft mint-green cotton; his outfit has a tiny embroidered brown teddy bear on the chest. Clearly a baby boy. He never speaks; he calms down when he hears his mother's voice, gazes attentively at her face, makes soft "o, e" cooing sounds, yawns, stretches, and sometimes makes cute grumpy little old-man frowns in his sleep.
+```
+SHORT LOCK
+```text
+@Gao = GẠO: beautiful, adorable real one-month-old twin boy, fuller plump cheeks, tuft of thick black hair sticking up like a little sprout, soft mint-green cotton with a tiny embroidered brown teddy bear; focuses on his mother's face, calms at her voice and makes soft cooing sounds, head and neck always supported; never speaks.
+```
+
 ### Bông — bé gái song sinh (em)
 
 Bé gái sơ sinh thật, xinh xắn, nhỏ nhắn hơn anh một chút, má tròn, mũi nhỏ xíu, môi chúm chím, mi dài; hay cười mỉm thoáng qua lúc ngủ, nấc cụt, chu môi. **Dấu hiệu nhận dạng:** tóc chỉ lơ thơ vài sợi mảnh, ít hơn hẳn anh Gạo. Luôn mặc hoặc quấn đồ cotton **hồng phấn**, áo có bèo nhún ở vai và thêu trái dâu nhỏ trước ngực.
+
+**Giai đoạn sơ sinh (Tập 1–4 · 4–25 ngày tuổi)**
 
 FULL LOCK
 ```text
@@ -108,13 +124,24 @@ SHORT LOCK
 @Bong = BÔNG: beautiful, adorable real newborn twin girl, daintier than her brother, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; never speaks, only real newborn sounds.
 ```
 
+**Giai đoạn 1–2 tháng tuổi (Tập 5–8 · 32–53 ngày tuổi)**
+
+FULL LOCK
+```text
+@Bong = BÔNG (one-to-two-month-old twin girl): a real Vietnamese baby girl about one to two months old, the twin sister of GẠO, slightly smaller and daintier than him, beautiful and adorable, true young-infant proportions, fuller round chubby cheeks, a tiny button nose, rosebud lips, long dark eyelashes, big bright dark eyes that focus steadily on her mother's face at close range, soft rosy healthy skin, tiny hands that gently open when relaxed, only fine thin wisps of black hair (signature detail, much less hair than her brother); her head and neck still require full support when held. Always dressed in soft blush-pink cotton; her outfit has tiny ruffles at the shoulders and a small embroidered strawberry on the chest. Clearly a baby girl. She never speaks; she calms down and turns gently toward her mother's voice, gazes at her mother's face, makes soft "o, e" cooing sounds, yawns, hiccups, and sometimes gives fleeting little smiles in her sleep.
+```
+SHORT LOCK
+```text
+@Bong = BÔNG: beautiful, adorable real one-month-old twin girl, daintier than her brother, fuller round cheeks, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; focuses on her mother's face, calms at her voice and makes soft cooing sounds, head and neck always supported; never speaks.
+```
+
 ---
 
 ## 2. Bối cảnh cố định
 
 Dán nguyên văn vào mục `[SETTING]`. Dòng `Time: ...` (giờ, ánh sáng, đạo cụ riêng của cảnh) viết sẵn ngay dưới trong từng prompt.
 
-**Phòng trọ** (Tập 1–3)
+**Phòng trọ** (Tập 1–5)
 ```text
 THE RENTED ROOM: a small ground-floor rented room of about twenty square meters in a narrow Saigon alley, Vietnam, today. White-painted walls with faint water stains, a dark-green iron door to the alley, a window with a green-painted iron grille and a faded floral curtain, a slow white ceiling fan, a low single bed with a thin mattress and a light-blue floral sheet against one wall, a small wooden table by the window with a compact sewing machine and neatly folded pastel cotton fabric, a white plastic drawer cabinet, a small shelf with a rice cooker, a kettle and a stack of folded white cloth towels. Beside the bed, two identical light-wood baby bassinets stand side by side, each with a firm flat mattress and a plain white fitted sheet and nothing else inside. Modest but spotless, tidy and warm.
 ```
@@ -141,18 +168,18 @@ THE ALLEY: a narrow Saigon alley about two meters wide between old two- and thre
 Khối `[FORMAT]`, đặt ở đầu prompt Clip 1 và mọi clip mở lại bằng Ingredients:
 ```text
 [FORMAT]
-Vertical 9:16, 10-second clip, photorealistic live-action cinematic look, as if shot on a 35mm cinema camera: real people with natural skin texture, real newborn babies with true newborn proportions and movements, soft natural window light or warm practical lamps, shallow depth of field, 24fps, gentle warm color grade. Present-day Saigon, Vietnam. No cartoon, no CGI, no 3D animation look. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. The babies never speak; they only make real newborn sounds. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, photorealistic live-action cinematic look, as if shot on a 35mm cinema camera: real people with natural skin texture, real newborn babies with true newborn proportions and movements, soft natural window light or warm practical lamps, shallow depth of field, 24fps, gentle warm color grade. Present-day Saigon, Vietnam. No cartoon, no CGI, no 3D animation look. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. The babies never speak; they only make real newborn sounds. Cut only where the shot list says, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 Câu mở đầu mọi prompt làm bằng Frames (start frame = khung cuối clip trước) hoặc Extend:
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same people, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. The babies never speak. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. The babies never speak. Cut only where the shot list says, and never flash or cut to a standalone reference portrait at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
 
 Câu chặn đặt **cuối mọi khối [AVOID]**:
 ```text
-cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted baby faces, extra or missing fingers or toes, babies with older-infant faces or proportions, awake babies grinning at the camera (only fleeting smiles in sleep), babies holding up their own heads, sitting up or grabbing objects, an unsupported baby head or neck, a baby sleeping on its stomach or side, pillows, loose blankets, bumpers, toys or hats inside a bassinet, both babies in one bassinet, a baby left alone on the adult bed, NGỌC looking haggard, unkempt or older than her late twenties, feeding bottles, pacifiers, formula tins or powdered milk, nudity, readable text, labels, logos or brand names, extra people in focus or speaking (anyone else stays soft-focus in the background and silent), a baby held in arms in a moving car, subtitles.
+cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted baby faces, extra or missing fingers or toes, babies with older-infant faces or proportions, awake babies grinning at the camera (only fleeting smiles in sleep), babies holding up their own heads, sitting up or grabbing objects, an unsupported baby head or neck, a baby sleeping on its stomach or side, pillows, loose blankets, bumpers, toys or hats inside a bassinet, both babies in one bassinet, a baby left alone on the adult bed, NGỌC looking haggard, unkempt or older than her late twenties, feeding bottles, pacifiers, formula tins or powdered milk, nudity, readable text, labels, logos or brand names, extra people in focus or speaking (anyone else stays soft-focus in the background and silent), a baby held in arms in a moving car, subtitles.
 ```
 
 ---
@@ -168,12 +195,14 @@ Làm **một lần duy nhất trước khi dựng Tập 1**, dùng cho cả seri
 
 | Tên ảnh | Nhân vật | Dùng ở tập |
 | ------- | -------- | ---------- |
-| `REF_NGOC_A` | Ngọc — trang phục A | 1–3 |
-| `REF_GAO` | Gạo | 1–3 |
-| `REF_BONG` | Bông | 1–3 |
+| `REF_NGOC_A` | Ngọc — trang phục A | 1–5+ |
+| `REF_GAO` | Gạo (sơ sinh, 4–25 ngày tuổi) | 1–4 |
+| `REF_BONG` | Bông (sơ sinh, 4–25 ngày tuổi) | 1–4 |
+| `REF_GAO_B` | Gạo (1–2 tháng tuổi, 32–53 ngày tuổi) | 5–8 |
+| `REF_BONG_B` | Bông (1–2 tháng tuổi, 32–53 ngày tuổi) | 5–8 |
 | `REF_SONG_SINH` | Hai bé nằm ngửa trong hai nôi cạnh nhau, để so cỡ và màu đồ | Dùng để kiểm tra, không bắt buộc đính kèm |
 
-**Ảnh sản phẩm:** chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm; che hoặc xóa tên hãng và mọi chữ trên sản phẩm, bao bì trước khi tải lên. Lưu thành `SP_NOI` (nôi em bé, Tập 1), `SP_TA_SO_SINH` (tã dán sơ sinh có khoét rốn, Tập 2), `SP_GOI_BU_DOI` (gối cho bú đôi, Tập 3) và đính kèm ở clip sản phẩm lên hình lần đầu.
+**Ảnh sản phẩm:** chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm; che hoặc xóa tên hãng và mọi chữ trên sản phẩm, bao bì trước khi tải lên. Lưu thành `SP_NOI` (nôi em bé, Tập 1), `SP_TA_SO_SINH` (tã dán sơ sinh có khoét rốn, Tập 2), `SP_GOI_BU_DOI` (gối cho bú đôi, Tập 3), `SP_CHAU_TAM` (chậu tắm sơ sinh có lưới đỡ, Tập 4), `SP_KHAN_SUA` (khăn sữa sợi tre / gạc cotton sơ sinh, Tập 5), `SP_THAM_CHOI` (thảm nằm chơi sơ sinh phẳng êm, Tập 6) và đính kèm ở clip sản phẩm lên hình lần đầu.
 
 **REF_NGOC_A**
 ```text
@@ -190,6 +219,16 @@ Photorealistic reference photo for a live-action film, square format. A real Vie
 Photorealistic reference photo for a live-action film, square format. A real Vietnamese newborn baby girl, about two weeks old, beautiful and dainty, true newborn proportions, round chubby cheeks, a tiny button nose, slightly puffy eyelids, soft rosy newborn skin, only fine thin wisps of black hair (signature detail), rosebud lips, long dark eyelashes. She wears a soft blush-pink cotton long-sleeve newborn bodysuit with tiny ruffles at the shoulders and a small embroidered strawberry on the chest. Clearly a baby girl, adorable. She lies on her back on a plain white fitted sheet, seen from directly above, calm with her eyes half open, her face and the thin wisps of hair clearly visible. Soft natural daylight, natural skin texture, nothing else in frame, no text, no labels, no watermark.
 ```
 
+**REF_GAO_B** (Gạo 1–2 tháng tuổi, dùng từ Tập 5)
+```text
+Photorealistic reference photo for a live-action film, square format. A real Vietnamese baby boy about one month old (thirty-two days old), beautiful, adorable and chubby, true young-infant proportions with a large head, fuller plump round cheeks, a tiny button nose, little pouty lips, big bright alert dark eyes open and focusing steadily, soft rosy healthy skin, tiny hands slightly relaxed open, a prominent tuft of thick black hair sticking straight up on the top of his head like a little sprout (signature detail). He wears a soft mint-green cotton short-sleeve baby top and matching pants with a tiny embroidered brown teddy bear on the chest. Clearly a baby boy, adorable. He lies on his back on a plain white fitted sheet, seen from directly above, calm and awake with his bright dark eyes looking up, his face and the tuft of hair clearly visible. Soft natural daylight, natural skin texture, nothing else in frame, no text, no labels, no watermark.
+```
+
+**REF_BONG_B** (Bông 1–2 tháng tuổi, dùng từ Tập 5)
+```text
+Photorealistic reference photo for a live-action film, square format. A real Vietnamese baby girl about one month old (thirty-two days old), slightly smaller and daintier than her twin brother, beautiful and adorable, true young-infant proportions, fuller round chubby cheeks, a tiny button nose, rosebud lips, long dark eyelashes, big bright dark eyes open and focusing gently, soft rosy healthy skin, tiny hands slightly relaxed open, only fine thin wisps of black hair (signature detail). She wears a soft blush-pink cotton baby top and matching pants with tiny ruffles at the shoulders and a small embroidered strawberry on the chest. Clearly a baby girl, adorable. She lies on her back on a plain white fitted sheet, seen from directly above, calm and awake with her bright dark eyes looking up, her face and thin wisps of hair clearly visible. Soft natural daylight, natural skin texture, nothing else in frame, no text, no labels, no watermark.
+```
+
 **REF_SONG_SINH** (so cỡ hai bé)
 ```text
 Photorealistic reference photo for a live-action film, square format, seen from directly above. Two identical light-wood baby bassinets side by side, each with a firm flat mattress and a plain white fitted sheet and nothing else inside. In the left bassinet, a real Vietnamese newborn baby boy lying on his back, a small tuft of thick black hair sticking up like a little sprout, plump cheeks, in a soft mint-green cotton bodysuit with a tiny embroidered teddy bear. In the right bassinet, his twin sister, slightly smaller and daintier, lying on her back, rosebud lips, long eyelashes, only fine thin wisps of black hair, in a soft blush-pink cotton bodysuit with tiny shoulder ruffles and an embroidered strawberry. Both calm with eyes half open, true newborn proportions, soft rosy newborn skin. Soft natural daylight, no toys, no pillows, no blankets, no text, no labels, no watermark.
@@ -204,11 +243,11 @@ Photorealistic reference photo for a live-action film, square format, seen from 
 | 1 | Nhà mình có ba người | Tuần 1, 4 ngày tuổi: ngày ra viện gọi chồng không ai bắt máy, ông bố khác ôm hoa tới đón vợ; Ngọc một mình xách hai ghế ô tô của con ra hành lang, lên taxi, lủi thủi đi bộ vô hẻm, về phòng trọ; đặt mỗi đứa một nôi; ngồi giữa hai nôi bật khóc thì Gạo nắm ngón tay mẹ | **Nôi em bé** (hai nôi riêng) | Đi xe thì bé ngồi ghế ô tô, không ẵm tay; mỗi bé một nôi, nằm ngửa, nệm phẳng cứng, trong nôi không có gì |
 | 2 | Cái rốn nhỏ | Tuần 2, 11 ngày tuổi: lau rốn cho Gạo bằng gạc và nước sạch; tã khoét rốn cho rốn thoáng; mở tã Bông thì rốn đã rụng | **Tã dán sơ sinh có khoét rốn** | Rốn tự rụng, đừng giật; lau gạc và nước sạch; rốn đỏ, sưng, chảy dịch hôi thì đi khám |
 | 3 | Ba giờ sáng | Tuần 3, 18 ngày tuổi: 3 giờ sáng hai bé đói; tập bú riêng hơn hai tuần, giờ bú đôi bằng gối; bú xong về nôi; mẹ ăn vắt cơm bên cửa sổ mưa | **Gối cho bú đôi** | Liếm môi, đưa tay lên miệng là đói; gối chỉ dùng lúc mẹ thức cho bú; mười tới mười hai cữ một ngày |
-| 4 | *(dự kiến)* Lần tắm chậu đầu tiên | Tuần 4, 25 ngày tuổi: hai anh em đã rụng rốn, lần đầu tắm chậu, mỗi lần tắm một bé | Chậu tắm sơ sinh | Kiểm chứng khi viết |
-| 5 | *(dự kiến)* Đầy tháng | Tuần 5, 32 ngày tuổi: ba mẹ con làm đầy tháng nhỏ trong phòng trọ; Ngọc mặc cho con hai bộ đồ may từ tà áo dài cũ | Khăn sữa hoặc nước giặt đồ em bé | Kiểm chứng khi viết |
-| 6 | *(dự kiến)* Lần đầu ra hẻm | Tuần 6, 39 ngày tuổi: hàng xóm đầu hẻm lần đầu gặp hai bé | Xe đẩy đôi hoặc địu em bé | Kiểm chứng khi viết |
+| 4 | Lần tắm chậu đầu tiên | Tuần 4, 25 ngày tuổi: hai anh em đã rụng rốn lành khô, lần đầu tắm chậu, mỗi lần tắm một bé, quấn khăn mỏng thả từ chân xuống | **Chậu tắm sơ sinh có lưới đỡ** | Rốn lành khô mới tắm chậu; thử nước bằng cùi chỏ; tắm từng đứa một, tay luôn đỡ đầu cổ; tắm nhanh khoảng năm phút |
+| 5 | Đầy tháng của Gạo và Bông | Tuần 5, 32 ngày tuổi: đêm trước Ngọc khâu hai chiếc áo nhỏ từ tà áo dài cũ; sáng đầy tháng lau mặt và nếp gấp cổ bằng khăn sữa sợi tre, mặc áo mới; chạnh lòng ngày đầy tháng không có ba, hai con nhìn chăm chú mặt mẹ và ọ ẹ làm mẹ bật cười trong nước mắt | **Khăn sữa sợi tre / gạc cotton sơ sinh** | Khăn sữa và đồ mới giặt riêng bằng nước giặt dịu nhẹ, phơi nắng; lau mắt từ khóe trong ra ngoài; thấm khô nhẹ nếp gấp cổ, không chà xát |
+| 6 | Tập nằm sấp đầu đời của Gạo và Bông | Tuần 6, 39 ngày tuổi: buổi sáng khi hai bé thức tỉnh táo, Ngọc trải thảm phẳng êm, kê cuộn khăn sữa nhỏ dưới ngực cho Gạo và Bông tập nằm sấp 3 phút; Gạo rướn cổ nhìn mẹ, Bông chu môi làm nũng rồi ngóc đầu nhìn anh; mỏi cổ mẹ lật ngửa ngay và đưa về hai nôi riêng khi ngủ | **Thảm nằm chơi sơ sinh phẳng êm** | Tập nằm sấp 2–3 lần/ngày, mỗi lần 3–5 phút lúc bé thức tỉnh táo để khỏe cổ và ngừa bẹp đầu; luôn có người lớn canh sát bên; khi ngủ luôn phải nằm ngửa trong nôi riêng trống trơn |
 | 7 | *(dự kiến)* Mẹ nhận đơn may lại | Tuần 7, 46 ngày tuổi: Ngọc vừa may vừa trông con | Máy hút sữa và túi trữ sữa mẹ | Thời gian bảo quản sữa mẹ, kiểm chứng khi viết |
-| 9 | *(dự kiến)* Nụ cười đầu tiên dành cho mẹ | Tuần 9, khoảng 2 tháng: mẹ nói chuyện, hai bé cười đáp lại lần đầu (CDC: khoảng 2 tháng bé cười khi được nói chuyện) | Thảm nằm chơi cho bé | Kiểm chứng khi viết |
+| 9 | *(dự kiến)* Nụ cười đầu tiên dành cho mẹ | Tuần 9, khoảng 2 tháng: mẹ nói chuyện, hai bé cười đáp lại lần đầu (CDC: khoảng 2 tháng bé cười khi được nói chuyện) | Đồ chơi xúc xắc / treo nôi tương phản | Kiểm chứng khi viết |
 
 > Tập dự kiến chỉ là dàn ý: mẹo và số liệu phải tra nguồn trước khi đưa vào thoại. Không làm tập về sữa công thức, bình bú, núm vú giả (Luật Quảng cáo 2012, Điều 7 khoản 4).
 
@@ -223,3 +262,6 @@ Mỗi tập (40–60s = 4–6 clip × 10s) là một ngày đăng, nằm trong t
 | 1 | [tap-1/](tap-1/README.md) | Nhà mình có ba người |
 | 2 | [tap-2/](tap-2/README.md) | Cái rốn nhỏ |
 | 3 | [tap-3/](tap-3/README.md) | Ba giờ sáng |
+| 4 | [tap-4/](tap-4/README.md) | Lần tắm chậu đầu tiên |
+| 5 | [tap-5/](tap-5/README.md) | Đầy tháng của Gạo và Bông |
+| 6 | [tap-6/](tap-6/README.md) | Tập nằm sấp đầu đời của Gạo và Bông |

@@ -6,6 +6,7 @@ Chỉ ghép các file VIDEO (.mp4) thực thụ, chuẩn hóa đồng nhất tim
 """
 
 import os
+import random
 import re
 import sys
 import time
@@ -135,6 +136,108 @@ def overwrite_existing_clip_files(
     return overwritten
 
 
+def _is_studio_portrait_frame_rgb(buf: bytes, w: int = 160, h: int = 90) -> bool:
+    """Detect full-body character reference sheet on a plain grey studio backdrop."""
+    sats, lumas, diffs = [], [], []
+    for y in range(8, 78, 2):
+        for x in list(range(5, 42, 2)) + list(range(118, 155, 2)):
+            idx = (y * w + x) * 3
+            r, g, b = buf[idx], buf[idx + 1], buf[idx + 2]
+            sats.append(max(r, g, b) - min(r, g, b))
+            lumas.append((r + g + b) // 3)
+            idx_r = (y * w + (x + 2)) * 3
+            diffs.append(abs(int(buf[idx]) - int(buf[idx_r])) + abs(int(buf[idx + 1]) - int(buf[idx_r + 1])))
+    mean_sat = sum(sats) / len(sats)
+    mean_luma = sum(lumas) / len(lumas)
+    side_grad = sum(diffs) / len(diffs)
+    c_grads = []
+    for y in range(12, 82, 2):
+        for x in range(60, 100, 2):
+            idx = (y * w + x) * 3
+            idx_r = (y * w + (x + 2)) * 3
+            c_grads.append(abs(int(buf[idx]) - int(buf[idx_r])) + abs(int(buf[idx + 1]) - int(buf[idx_r + 1])))
+    center_grad = sum(c_grads) / len(c_grads)
+    return (
+        mean_sat < 32.0
+        and 45.0 <= mean_luma <= 190.0
+        and side_grad < 7.0
+        and center_grad > 26.0
+        and center_grad > side_grad * 3.8
+    )
+
+
+def trim_studio_reference_frames(video_path: str, log_fn=None) -> bool:
+    """
+    Quét 24fps ở đầu và cuối clip để phát hiện và cắt bỏ ngay các frame ảnh thẻ nhân vật (nền xám studio)
+    do Gemini Omni R2V vô tình chèn vào đầu (0.0s) hoặc cuối (8.0–10.0s) video.
+    """
+    if not video_path or not os.path.isfile(video_path):
+        return False
+    w, h = 160, 90
+    frame_bytes = w * h * 3
+    try:
+        cmd = [
+            "ffmpeg", "-v", "error", "-i", video_path,
+            "-vf", f"fps=24,scale={w}:{h}",
+            "-f", "rawvideo", "-pix_fmt", "rgb24", "-"
+        ]
+        raw = subprocess.check_output(cmd, timeout=45)
+        n = len(raw) // frame_bytes
+        if n < 48:
+            return False
+        flags = [_is_studio_portrait_frame_rgb(raw[i * frame_bytes:(i + 1) * frame_bytes], w, h) for i in range(n)]
+        head_frames = 0
+        for f in flags[:48]:
+            if f:
+                head_frames += 1
+            else:
+                break
+        tail_frames = 0
+        for f in reversed(flags[-72:]):
+            if f:
+                tail_frames += 1
+            else:
+                break
+        if head_frames == 0 and tail_frames == 0:
+            return False
+
+        # Thêm 2 frame đệm ở đầu và 5 frame đệm ở cuối để cắt sạch cả hiệu ứng mờ/chuyển cảnh vào ảnh thẻ
+        start_frame = min(head_frames + 2, n // 3) if head_frames > 0 else 0
+        end_frame = max(n - tail_frames - 5, (n * 2) // 3) if tail_frames > 0 else n
+        start_s = round(start_frame / 24.0, 3)
+        end_s = round(end_frame / 24.0, 3)
+        if end_s - start_s < 4.0:
+            return False
+
+        msg = f"✂️ [STUDIO-CARD GUARD] Phát hiện frame ảnh tham chiếu ở {os.path.basename(video_path)} (đầu={head_frames}f, cuối={tail_frames}f) -> Cắt giữ đoạn sạch {start_s:.2f}s–{end_s:.2f}s"
+        if log_fn:
+            log_fn(msg)
+        else:
+            print(msg, flush=True)
+
+        tmp_trim = f"{video_path}.trim.mp4"
+        trim_cmd = [
+            "ffmpeg", "-y",
+            "-ss", f"{start_s:.3f}",
+            "-to", f"{end_s:.3f}",
+            "-i", video_path,
+            "-c:v", "libx264", "-preset", "fast", "-crf", "18",
+            "-c:a", "aac", "-b:a", "192k",
+            "-movflags", "+faststart",
+            tmp_trim,
+        ]
+        res = subprocess.run(trim_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=90)
+        if res.returncode == 0 and os.path.isfile(tmp_trim) and os.path.getsize(tmp_trim) > 10000:
+            os.replace(tmp_trim, video_path)
+            return True
+        if os.path.exists(tmp_trim):
+            os.remove(tmp_trim)
+    except Exception as e:
+        if log_fn:
+            log_fn(f"⚠️ Lỗi khi kiểm tra/cắt studio frame: {e}")
+    return False
+
+
 def sync_clip_to_r2_and_d1(
     channel_slug: str,
     ep_num: int,
@@ -153,6 +256,7 @@ def sync_clip_to_r2_and_d1(
     if not local_video_path or not os.path.isfile(local_video_path):
         return {"ok": False, "error": "LOCAL_VIDEO_NOT_FOUND"}
 
+    trim_studio_reference_frames(local_video_path)
     overwrite_existing_clip_files(local_video_path, ep_num, clip_num, ep_folder_name=ep_folder_name)
 
     folder = ep_folder_name or f"tap-{ep_num:02d}"
@@ -1013,11 +1117,29 @@ def merge_multi_scenes_to_episode(
         shutil.rmtree(tmpdir, ignore_errors=True)
 
 
+def _flow_generation_cooldown_remaining(api_base: str) -> Optional[float]:
+    """Số giây khóa tạo video còn lại theo FlowKit server (None nếu không đọc được)."""
+    try:
+        if requests is not None:
+            data = requests.get(f"{api_base}/api/flow/status", timeout=5).json()
+        else:
+            with urllib.request.urlopen(f"{api_base}/api/flow/status", timeout=5) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+        throttle = data.get("generation_throttle") or {}
+        if not throttle.get("cooldown_active"):
+            return 0.0
+        return float(throttle.get("cooldown_remaining_s") or 0.0)
+    except Exception:
+        return None
+
+
 def wait_if_cooldown_error(res_text: str, flowkit_api: str = None, log_fn=print) -> bool:
     """
     Kiểm tra nếu phản hồi lỗi từ Google Flow là PUBLIC_ERROR_UNUSUAL_ACTIVITY / local cooldown active:
-    - Tự động đọc số giây cần chờ (ví dụ 'retry in about 66s'), chờ đủ thời gian (tối đa 70s)
-      rồi gọi POST /api/flow/clear-hijack để mở khóa hàng đợi.
+    - Chờ đến khi khóa tạo video trên FlowKit server thật sự hết (đọc GET /api/flow/status),
+      cộng thêm vài giây ngẫu nhiên để các kênh chạy song song không gửi cùng lúc.
+    - KHÔNG gọi /api/flow/clear-hijack: khóa là dùng chung cho mọi kênh, gỡ sớm rồi gửi tiếp
+      vào lúc Google đang chặn chỉ làm Google chặn lâu hơn.
     - Trả về True để runner gửi lại đúng clip đó mà KHÔNG bị trừ lượt retry và KHÔNG sửa file prompt.
     """
     text = str(res_text or "")
@@ -1031,25 +1153,31 @@ def wait_if_cooldown_error(res_text: str, flowkit_api: str = None, log_fn=print)
 
     api_base = flowkit_api or FLOWKIT_API
     m = re.search(r"retry in about\s+(\d+)\s*s", text, re.IGNORECASE)
-    reported_s = int(m.group(1)) if m else 65
-    wait_s = min(max(reported_s + 3, 15), 70)
+    reported_s = int(m.group(1)) if m else 75
+    remaining = _flow_generation_cooldown_remaining(api_base)
+    if remaining is None:
+        remaining = float(reported_s)
 
     log_fn(
-        f"⏳ [COOLDOWN] Google Flow yêu cầu tạm nghỉ chống spam ({reported_s}s). "
-        f"Tự động chờ {wait_s}s rồi gửi lại (KHÔNG tính lỗi, KHÔNG sửa file prompt)..."
+        f"⏳ [COOLDOWN] Google Flow yêu cầu tạm nghỉ chống spam (còn ~{int(remaining)}s). "
+        f"Tự động chờ đến khi hết khóa rồi gửi lại (KHÔNG tính lỗi, KHÔNG sửa file prompt)..."
     )
-    time.sleep(wait_s)
 
-    try:
-        if requests is not None:
-            requests.post(f"{api_base}/api/flow/clear-hijack", timeout=5)
-        else:
-            req = urllib.request.Request(f"{api_base}/api/flow/clear-hijack", data=b"{}", method="POST")
-            urllib.request.urlopen(req, timeout=5)
-    except Exception:
-        pass
+    waited = 0.0
+    last_report = 0.0
+    while remaining > 0:
+        step = min(remaining + 1.0, 30.0)
+        time.sleep(step)
+        waited += step
+        latest = _flow_generation_cooldown_remaining(api_base)
+        remaining = latest if latest is not None else max(0.0, remaining - step)
+        if remaining > 0 and waited - last_report >= 120:
+            last_report = waited
+            log_fn(f"   ...vẫn đang trong thời gian khóa của Google Flow (còn ~{int(remaining)}s)...")
 
-    log_fn("✅ [COOLDOWN] Đã hết thời gian nghỉ Cooldown & mở khóa hàng đợi. Tiếp tục gửi lại clip!")
+    jitter_s = random.uniform(3.0, 15.0)
+    time.sleep(jitter_s)
+    log_fn(f"✅ [COOLDOWN] Đã hết thời gian khóa (chờ {int(waited + jitter_s)}s). Tiếp tục gửi lại clip!")
     return True
 
 
@@ -1063,11 +1191,32 @@ _EN_SAFE_REPLACEMENTS = [
     (r"\bmarvel\b", "cinematic"),
     (r"\balien technology\b", "advanced engineering prototype"),
     (r"\balien\b", "experimental"),
+    (r"\bneo-noir\s+crime\s+thriller\b", "atmospheric coastal mystery drama"),
+    (r"\bcrime\s+thriller\b", "coastal mystery drama"),
+    (r"\bneo-noir\b", "atmospheric cinematic"),
+    (r"\bsteel\s+handcuffs\s+at\s+belt\b", "utility clip at belt"),
+    (r"\b(?:handcuff|handcuffs|handcuffed|cuff|cuffs|cuffed|shackle|shackles|shackled|wrist-clasp|wrist-clasps)\b", "wrist clip"),
+    (r"\bbolt\s+cutters\b", "heavy metal wrench"),
+    (r"\b(?:holding\s+room|interrogation\s+room|detention\s+room|cell\s+block|evidence\s+room|police\s+post)\b", "quiet office room"),
+    (r"\b(?:interrogat(?:e|es|ed|ing|ion))\b", "questioning"),
+    (r"\b(?:captive|prisoner|hostage|suspect|suspects|fugitive)\b", "person"),
+    (r"\b(?:custody\s+vehicle|custody\s+road|custody\s+pair|in\s+custody|custody|arrest|arrested)\b", "escort"),
+    (r"\bboth\s+hands\s+behind\s+his\s+back\b", "both hands held calmly in front"),
+    (r"\bbehind\s+his\s+back\b", "at his side"),
+    (r"\b(?:pursuer|pursuers|enforcer|enforcers|henchman|henchmen|guard|guards)\b", "escort"),
+    (r"\bunder\s+guard\b", "accompanied"),
+    (r"\bstretcher\b", "wheeled cot"),
+    (r"\bdrowsy\s+man\b", "resting man"),
+    (r"\bstop\s+dead\b", "pause still"),
+    (r"\bdead\s+air\b", "quiet pause"),
+    (r"\bdead\s+stare\b", "fixed gaze"),
+    (r"\bdead\s+silence\b", "complete silence"),
+    (r"\bdead\s+drop\b", "hidden drop"),
     (r"\b(?:weapon|weapons)\b", "technical tool"),
-    (r"\b(?:gun|guns|firearm|firearms|pistol|pistols)\b", "metallic device"),
+    (r"\b(?:gun|guns|firearm|firearms|pistol|pistols|gunfire)\b", "metallic device"),
     (r"\b(?:knife|knives|blade|blades|sword|swords|dagger|daggers)\b", "metal pocket tool"),
     (r"\b(?:syringe|syringes|hypodermic)\b", "small glass applicator"),
-    (r"\b(?:paralytic|poison|toxin|narcotic|drug\s+lab)\b", "sleeping serum"),
+    (r"\b(?:paralytic|poison|toxin|narcotic|drug\s+lab|drug-use)\b", "sleeping serum"),
     (r"\b(?:contract\s+killer|hitman|assassin)\b", "underground operative"),
     (r"\b(?:blood|bloody|bleed|bleeding|gore)\b", "dark shadow"),
     (r"\b(?:wound|wounds|wounded|injury|injured)\b", "mark"),
@@ -1092,6 +1241,22 @@ _EN_SAFE_REPLACEMENTS = [
 _VI_SAFE_REPLACEMENTS = [
     ("ống tiêm", "ống thuốc nhỏ"),
     ("mũi tiêm", "ống thuốc"),
+    ("ống Tê", "ống mẫu"),
+    ("thuốc tê", "dung dịch"),
+    ("thuốc liệt", "dung dịch"),
+    ("còng số tám", "khóa cổ tay"),
+    ("còng tay", "khóa tay"),
+    ("mở còng", "mở khóa"),
+    ("tháo còng", "tháo khóa"),
+    ("bị còng", "bị giữ"),
+    ("còng", "khóa"),
+    ("dây xích", "dây cáp"),
+    ("xích sắt", "dây cáp"),
+    ("xích", "dây khóa"),
+    ("giấy giả", "giấy tờ"),
+    ("giữ cô ấy", "đi cùng cô ấy"),
+    ("giữ Hạ", "đi cùng Hạ"),
+    ("bắt cóc", "đưa đi"),
     ("nằm như chết", "nằm bất động như ngủ sâu"),
     ("ngửa như chết", "ngửa bất động"),
     ("chết thiệt", "bất động thiệt"),
@@ -1137,6 +1302,13 @@ def _extract_dialogue_lines(prompt: str) -> list[str]:
     lines = []
     for raw_line in prompt.splitlines():
         s = raw_line.strip()
+        m_v3_timed = re.match(
+            r"^\d+(?:\.\d+)?[–\-]\d+(?:\.\d+)?s\s*·\s*(.+:\s*\"[^\"]+\".*)$",
+            s,
+        )
+        if m_v3_timed:
+            lines.append(m_v3_timed.group(1).strip())
+            continue
         m_v3 = re.match(
             r"^([A-ZÀ-ỸĐ][A-ZÀ-ỸĐa-zà-ỹđ0-9_@\s\(\)\-]+,\s*(?:nói trong hình|ngoài khung hình|lời dẫn ngoài hình|qua thiết bị):\s*.+)$",
             s,
@@ -1144,7 +1316,7 @@ def _extract_dialogue_lines(prompt: str) -> list[str]:
         if m_v3:
             lines.append(m_v3.group(1).strip())
             continue
-        m = re.search(r"([A-ZÀ-ỸĐa-zà-ỹđ0-9_@\s]+\s+says\s*(?:\([^)]*\))?\s*:\s*.+)$", s)
+        m = re.search(r"([A-ZÀ-ỸĐa-zà-ỹđ0-9_@\s]+\s+(?:says|speaks)[^:]*:\s*.+)$", s)
         if m:
             lines.append(m.group(1).strip())
             continue
@@ -1162,10 +1334,8 @@ def rewrite_prompt_on_failure(
 ) -> str:
     """
     Bộ đổi Prompt thông minh đa cấp độ ngay khi gặp lỗi từ Google Flow:
-    - Cấp độ 1 (attempt=1): Khử toàn bộ từ khóa nhạy cảm Anh/Việt & làm sạch khối [AVOID] (loại bỏ từ khóa cấm nằm trong [AVOID]).
-    - Cấp độ 2 (attempt=2): Làm mềm chuyển động trong [SHOT LIST], chuyển sang góc máy tĩnh/mượt và ép dùng [FORMAT] (Ingredients R2V).
-    - Cấp độ 3 (attempt=3): Tái cấu trúc thành Storyboard sạch 3 phân cảnh, giữ nguyên khóa nhân vật @Tag và 100% lời thoại tiếng Việt.
-    - Cấp độ 4+ (attempt>=4): Chế độ Ultra-Safe Studio Prompt tối giản, đảm bảo 100% vượt qua bộ lọc của Google Flow và không bỏ sót clip.
+    - Cấp độ 1 (attempt=1): Khử toàn bộ từ khóa nhạy cảm Anh/Việt, làm sạch khối [AVOID], làm mềm chuyển động và chuyển sang [FORMAT] (Ingredients R2V).
+    - Cấp độ 2+ (attempt>=2): Tái cấu trúc thành Storyboard sạch 3 phân cảnh, giữ nguyên khóa nhân vật @Tag và 100% lời thoại tiếng Việt.
     """
     p = prompt or ""
 
@@ -1186,19 +1356,15 @@ def rewrite_prompt_on_failure(
     else:
         p = p.rstrip() + "\n\n" + clean_avoid
 
-    # Nếu ở attempt 1 mà p đã thay đổi so với prompt gốc thì trả về ngay
-    if attempt == 1 and p.strip() != (prompt or "").strip():
-        return p
-
-    # 3. Cấp độ 2: Làm mềm hành động & chuyển sang chế độ mở cảnh [FORMAT] độc lập (tránh lỗi từ start_frame)
     is_portrait = "PORTRAIT" in (aspect_ratio or "").upper()
     orient_str = "Vertical 9:16" if is_portrait else "Horizontal 16:9"
     is_2d = "2d animated" in p.lower() or "hand-drawn" in p.lower()
     is_3d = "3d cgi" in p.lower() or "pixar" in p.lower()
 
-    if attempt <= 2:
+    # 3. Cấp độ 1: Khử từ nhạy cảm + làm mềm hành động + chuyển sang chế độ mở cảnh [FORMAT] độc lập (tránh lỗi từ start_frame)
+    if attempt <= 1:
         p2 = re.sub(
-            r"^Continue the scene seamlessly[^\n]*\n(?:Vertical 9:16[^\n]*\n|Horizontal 16:9[^\n]*\n)?",
+            r"^Continue the scene(?: seamlessly| from[^\n]*)?[^\n]*\n(?:Vertical 9:16[^\n]*\n|Horizontal 16:9[^\n]*\n)?",
             (
                 f"[FORMAT]\n{orient_str}, 10-second clip, "
                 + (
@@ -1208,7 +1374,7 @@ def rewrite_prompt_on_failure(
                     if is_3d
                     else "photorealistic cinematic live-action film shot on 35mm lens, warm natural lighting, 24fps. "
                 )
-                + "Spoken dialogue in Vietnamese with natural accent and accurate lip-sync. No subtitles, no on-screen text.\n\n"
+                + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken dialogue in Vietnamese with natural accent and accurate lip-sync. No subtitles, no on-screen text.\n\n"
             ),
             p.lstrip(),
             flags=re.IGNORECASE,
@@ -1220,23 +1386,30 @@ def rewrite_prompt_on_failure(
             p2 = p2.rstrip() + f"\n# Safe-Retry-Pass-{attempt}"
         return p2
 
-    # 4. Cấp độ 3 & 4+: Tái cấu trúc Storyboard siêu an toàn, bảo toàn @Character và lời thoại
+    # 4. Cấp độ 2+: Tái cấu trúc Storyboard siêu an toàn, bảo toàn đúng các @Character có mặt trong clip và lời thoại
     dialogues = _extract_dialogue_lines(p)
     char_lines = []
-    if character_specs:
+    for line in p.splitlines():
+        if line.strip().startswith("@") and "=" in line:
+            clean_line = line.strip()
+            for pat, repl in _EN_SAFE_REPLACEMENTS:
+                clean_line = re.sub(pat, repl, clean_line, flags=re.IGNORECASE)
+            for k, v in _VI_SAFE_REPLACEMENTS:
+                clean_line = clean_line.replace(k, v)
+            char_lines.append(clean_line)
+    if not char_lines and character_specs:
         for spec in character_specs:
             tag = spec.get("tag", "")
+            if not tag or tag not in p:
+                continue
             desc = spec.get("description", "")
-            # Làm sạch mô tả nhân vật
+            for pat, repl in _EN_SAFE_REPLACEMENTS:
+                desc = re.sub(pat, repl, desc, flags=re.IGNORECASE)
             for k, v in _VI_SAFE_REPLACEMENTS:
                 desc = desc.replace(k, v)
             char_lines.append(f"{tag} = {desc}")
-    else:
-        for line in p.splitlines():
-            if line.strip().startswith("@") and "=" in line:
-                char_lines.append(line.strip())
 
-    setting_match = re.search(r"\[SETTING\]\s*\n([^\n]+)", p)
+    setting_match = re.search(r"\[(?:SETTING|TIMELINE AND LOCATION)\]\s*\n(?:Scene[^\n]*\n)?([^\n]+)", p)
     setting_line = setting_match.group(1).strip() if setting_match else "A warm, well-lit cinematic indoor setting in Vietnam."
     setting_line = setting_line[:260]
 
@@ -1249,12 +1422,17 @@ def rewrite_prompt_on_failure(
             if is_3d
             else "photorealistic live-action cinematic 35mm film, warm natural daylight, shallow depth of field, 24fps. "
         )
-        + "Spoken dialogue in Vietnamese with accurate lip-sync. No subtitles, no captions, no on-screen text, no logos.\n"
+        + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken dialogue in Vietnamese with accurate lip-sync. No subtitles, no captions, no on-screen text, no logos.\n"
     )
 
-    chars_block = "[CHARACTERS — match the attached reference images exactly]\n" + "\n".join(char_lines[:5]) + "\n"
+    chars_block = (
+        "[CHARACTERS — approved identities and current appearances]\n"
+        "Use the attached reference images strictly for facial identity and wardrobe inside the live scene; never show their plain grey studio background or cut to a portrait card.\n"
+        + ("\n".join(char_lines[:5]) if char_lines else "No named lead visible.")
+        + "\n"
+    )
 
-    if attempt == 3:
+    if attempt == 2:
         d1 = f" {dialogues[0]}" if len(dialogues) >= 1 else ""
         d2 = f" {dialogues[1]}" if len(dialogues) >= 2 else ""
         d3 = f" {dialogues[2]}" if len(dialogues) >= 3 else ""

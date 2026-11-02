@@ -745,7 +745,7 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
         elapsed = int(time.time() - start_time)
         try:
             if workflows:
-                r = requests.post(url, json={"workflows": workflows, "project_id": PROJECT_ID}, timeout=30)
+                r = requests.post(url, json={"workflows": workflows, "project_id": PROJECT_ID}, timeout=120)
                 if r.status_code == 200:
                     res_data = r.json()
                     st = res_data.get("status")
@@ -771,7 +771,7 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
                         return {"success": False, "error": "FLOW_FAILED"}
 
             elif operations:
-                r = requests.post(url, json={"operations": operations, "project_id": PROJECT_ID}, timeout=30)
+                r = requests.post(url, json={"operations": operations, "project_id": PROJECT_ID}, timeout=120)
                 if r.status_code == 200:
                     res_data = r.json()
                     inner_ops = res_data.get("operations") or res_data.get("data", {}).get("operations") or []
@@ -840,15 +840,23 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
 # -------------------------------------------------------------
 # 5. CHU TRÌNH ĐIỀU PHỐI TỔNG THỂ
 # -------------------------------------------------------------
-def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 6):
+def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 2):
     current_prompt = initial_prompt
 
     for attempt in range(1, max_retries + 1):
         if attempt > 1:
-            log(f"🔄 [KHÔNG BỎ SÓT CLIP] Đang chạy lại Tập {ep_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries}) với prompt đã viết lại...")
+            log(f"🔄 Đang chạy lại Tập {ep_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries})...")
 
         try:
             res = submit_clip_with_detailed_log(current_prompt, ep_num, clip_num, start_image_media_id)
+            cooldown_loops = 0
+            while res.status_code != 200 and cooldown_loops < 5:
+                if wait_if_cooldown_error(res.text, FLOWKIT_API, log):
+                    cooldown_loops += 1
+                    res = submit_clip_with_detailed_log(current_prompt, ep_num, clip_num, start_image_media_id)
+                else:
+                    break
+
             if res.status_code == 200:
                 data = res.json()
                 inner = data.get("data") if isinstance(data.get("data"), dict) else data
@@ -858,29 +866,20 @@ def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_pro
                 if poll_res["success"] and poll_res.get("video_url"):
                     return poll_res
                 else:
-                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt} ({poll_res.get('error')}). Đổi prompt ngay lập tức!")
+                    log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt}/{max_retries} ({poll_res.get('error')}).")
             else:
                 log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {res.text}")
-                if wait_if_cooldown_error(res.text, FLOWKIT_API, log):
-                    res_after = submit_clip_with_detailed_log(current_prompt, ep_num, clip_num, start_image_media_id)
-                    if res_after.status_code == 200:
-                        data = res_after.json()
-                        inner = data.get("data") if isinstance(data.get("data"), dict) else data
-                        log("✅ Google Flow đã chấp nhận job tạo video sau khi chờ Cooldown.")
-                        poll_res = poll_generation(inner, ep_num, clip_num)
-                        if poll_res["success"] and poll_res.get("video_url"):
-                            return poll_res
         except Exception as e:
             log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
 
         if attempt < max_retries:
-            log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - CẤP ĐỘ {attempt}] Đang viết lại prompt an toàn cho Tập {ep_num:02d} - Clip {clip_num:02d}...")
-            current_prompt = sanitize_prompt(current_prompt, attempt)
-            update_clip_file(fpath, current_prompt)
+            log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - LẦN THỬ {attempt + 1}/{max_retries}] Đang làm mềm prompt trên bộ nhớ cho Tập {ep_num:02d} - Clip {clip_num:02d}...")
+            current_prompt = sanitize_prompt(initial_prompt, attempt)
             start_image_media_id = None
             log("🔄 Khóa trực tiếp nhân vật gốc (Ingredients R2V) và chạy lại sau 5 giây...")
             time.sleep(5)
 
+    log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN LỖI] Tập {ep_num:02d} - Clip {clip_num:02d} đã fail {max_retries} lần — tạm bỏ qua để kiểm tra và tạo lại sau!")
     return {"success": False, "video_url": None}
 
 
@@ -958,21 +957,12 @@ def run_pipeline(start_ep=17, end_ep=17):
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
 
-        # 🛡️ VÒNG LẶP VÉT CẠN: Đảm bảo 100% không bỏ sót bất kỳ clip nào của Tập trước khi ghép FULL
+        # ⏭️ Ghi nhận danh sách clip tạm bỏ qua sau 2 lần lỗi (không chạy lại & không ghi đè file .md gốc)
         existing_nums = rendered_in_this_run if ONLY_CLIP > 0 else {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, ep, ep_folder_name)}
         missing_clips = [(c_idx, fpath) for c_idx, fpath in clips if c_idx not in existing_nums]
         if missing_clips:
-            log(f"🛡️ [CAM KẾT KHÔNG BỎ SÓT] Phát hiện Tập {ep:02d} còn thiếu {len(missing_clips)} clip. Đang đổi sang Ultra-Safe Prompt & render bù ngay!")
-            for mc, fpath_m in missing_clips:
-                CURRENT_CLIP_NUM = mc
-                with open(fpath_m, "r", encoding="utf-8") as f:
-                    raw_p = f.read().strip()
-                ultra_safe_p = sanitize_prompt(raw_p, attempt=3)
-                update_clip_file(fpath_m, ultra_safe_p)
-                rec_res = run_clip_with_auto_retry(ep_num=ep, clip_num=mc, fpath=fpath_m, initial_prompt=ultra_safe_p, start_image_media_id=None, max_retries=4)
-                if rec_res["success"] and rec_res.get("video_url"):
-                    local_v = download_and_rename_video(rec_res["video_url"], ep, mc, ep_folder_name)
-                    update_dashboard_scene_status(ep, mc, local_v if local_v else rec_res["video_url"])
+            skipped_nums = [mc for mc, _ in missing_clips]
+            log(f"⏭️ [DANH SÁCH CLIP TẠM BỎ QUA] Tập {ep:02d} có {len(missing_clips)} clip chưa hoàn tất ({skipped_nums}) sau 2 lần thử — giữ nguyên kịch bản gốc để kiểm tra và tạo lại sau.")
 
         # 🎞️ TỰ ĐỘNG GHÉP CÁC CLIP NHỎ THÀNH 1 TẬP HOÀN CHỈNH SAU KHI XONG TẬP
         CURRENT_CLIP_NUM = None

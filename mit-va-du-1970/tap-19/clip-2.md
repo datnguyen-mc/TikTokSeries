@@ -1,0 +1,21 @@
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI. Every character is a cute anthropomorphic 3D dog walking upright on two legs with four-fingered furry paw-hands; no humans exist. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+
+[CHARACTERS — unchanged, match @Mit @Đú @Nở reference images]
+@Mit = Mit (father, exact match to @Mit reference image): anthropomorphic golden-brown male dog standing upright on two legs, stocky build with round belly, white/cream dog muzzle and chest, thick expressive dark eyebrows, soft floppy golden-brown dog ears, black dog nose, four-fingered furry paws; faded grey sleeveless tank top (áo ba lỗ xám), dark shorts, barefoot; warm, slightly raspy Southern male voice.
+@Đú = Đú (mother, exact match to @Đú reference image): gentle anthropomorphic cream-and-light-brown female dog standing upright on two legs, white dog muzzle with white fur blaze between the eyes, long soft floppy light-brown dog ears, four-fingered furry paws; faded dusty-pink short-sleeved floral blouse (áo bà ba hồng nhạt in hoa nhỏ), loose black trousers, brown slippers; soft, warm Southern female voice.
+@Nở = Nở (6-year-old daughter, exact match to @Nở reference image): adorable, super-cute small anthropomorphic female puppy (chó con dễ thương) standing upright on two legs, waist-high to Mit; small chubby puppy body, cream fur with light-brown patches on head and soft floppy puppy ears, cute small white puppy muzzle, chubby round cheeks, big round shiny dark-brown puppy eyes, tiny black dog nose, four-fingered furry paws; faded light-yellow short-sleeved floral blouse (áo vàng nhạt in hoa nhỏ), dark-brown skirt (váy nâu sẫm), small brown sandals; high, bright little-girl voice.
+
+[SHOT LIST]
+00:00–00:03.5 | Same medium shot by the clay charcoal brazier, continuing from the last frame — @Mit waves the dried mo cau fan rapidly and enthusiastically over the glowing charcoal stove to show off his grilling skills. @Mit says (warm, slightly raspy voice, enthusiastic): Quạt mạnh tay lửa mới đượm, chuối mới vàng giòn nghen!
+00:03.5–00:07 | Medium close-up on @Mit — a playful puff of light-grey wood ash poofs up from the charcoal brazier right into @Mit's face! @Mit blinks in surprise and twitches his nose, revealing a cute grey ash smudge on the tip of his black dog nose and three whisker-like ash streaks across both furry cheeks like cat whiskers.
+00:07–00:10 | Close-up on the adorable little puppy @Nở at the low wooden table — seated beside her closed school notebook and colored pencil box, she claps her furry paws to her chubby cheeks and bursts out laughing, pointing a furry finger at her father's ash-smudged nose. @Nở says (high, bright little-girl voice, laughing and cute): Á! Ba nướng chuối mà mọc râu mèo lấm tro kìa má ơi!
+
+[SOUND]
+Fast whooshing of the mo cau fan, a comical soft "poof" of wood ash, a funny cartoon flute trill as Mit blinks with ash whiskers, Nở's bright infectious puppy laughter and Đú's gentle chuckle.
+
+[END FRAME]
+Medium shot in the sunlit front yard: @Mit squatting by the charcoal brazier holding the mo cau fan with a bewildered, sheepish grin, a grey ash smudge on his nose tip and whisker-like ash smudges on both cheeks; @Đú covering her mouth with a fond laugh; at the low wooden table in the foreground, the adorable small puppy @Nở beside her notebook and colored pencil box, pointing at her father and laughing joyfully. Hold still for the final 0.5 seconds.
+
+[AVOID]
+humans, human faces, human child, human hands, quadrupedal non-anthropomorphic dogs, pointed upright ears, pigtails or hair buns, readable letters or numbers anywhere, hats, thick black smoke or dangerous flames, dialogue spoken by the wrong character, extra characters, electric lights, power lines or modern objects, outfit changes, distorted paws or extra fingers, subtitles.

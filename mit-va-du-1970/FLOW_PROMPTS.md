@@ -2,17 +2,18 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** từ Tập 13 mỗi tập **40–60s = 4–6 clip × 10s** tùy câu chuyện (Tập 1–12: 30s = 3 clip) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video
+**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video · **Bắt buộc Search Google** khi cần thiết để kiểm chứng nét văn hóa, món ăn, vật dụng, phương ngữ miền Tây thập niên 1970 hoặc trend liên quan.
 
 **Thế giới:** Miền Tây (Bến Tre – Cái Mơn) năm 1970. Cả nhà Mit là **chó nhân hóa 3D**, đi hai chân, bàn tay 4 ngón, không có con người. Tông màu hoài cổ (vàng mật ong, xanh lúa, nâu đất), hạt film nhẹ, giọng miền Tây.
 
-**Độ dài và cấu trúc (từ Tập 13):** 40–60 giây = 4–6 clip × 10s tùy câu chuyện; tông vui vẻ, tình yêu, gia đình.
+**Độ dài và cấu trúc (30–60 giây = 3–6 clip × 10s, tối đa 60 giây):** tông vui vẻ, tình yêu, gia đình.
 
 | Số clip | Khi nào | Bố cục |
 | --- | --- | --- |
+| 3 (30s) | Một lát cắt gọn trong một bối cảnh | 1 Mở & chuyện nhỏ · 2 Thương nhau · 3 Kết vui |
 | 4 (40s, vừa một chuỗi Extend) | Một bối cảnh, một chuyện | 1 Mở · 2 Chuyện nhỏ · 3 Thương nhau · 4 Kết vui |
 | 5 (50s) | Hai bối cảnh hoặc có một bất ngờ | 1 Mở · 2–3 Chuyện nhỏ · 4 Thương nhau · 5 Kết vui |
-| 6 (60s) | Hai bước bất ngờ, hoặc nhắc lại tập cũ | 1 Mở · 2–4 Chuyện nhỏ · 5 Thương nhau · 6 Kết vui |
+| 6 (60s — tối đa) | Hai bước bất ngờ, hoặc nhắc lại tập cũ | 1 Mở · 2–4 Chuyện nhỏ · 5 Thương nhau · 6 Kết vui |
 
 - **Mở:** lát cắt đời thường miền Tây 1970 có chi tiết thật (việc đồng áng, bữa cơm quê, chợ ghe, trường làng) và một câu thoại gây tò mò.
 - **Chuyện nhỏ:** hiểu lầm, bất ngờ, một việc cả nhà cùng làm; mỗi clip đi thêm một bước, có cử chỉ và đồ vật đời thật.
@@ -214,13 +215,13 @@ THE WILDFLOWER CANAL BANK: a grassy canal bank near the family's bamboo hut, pur
 Khối `[FORMAT]`, đặt ở đầu mọi prompt Clip 1:
 ```text
 [FORMAT]
-Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 Câu mở đầu mọi prompt từ Clip 2 đến clip cuối (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend; clip mở bằng Ingredients thì dùng [FORMAT]):
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
 
 > Câu mở đầu dùng được cho cả Save frame → Frames lẫn Extend: dán nguyên văn, không cần sửa (xem FLOW_GUIDE mục 1).
@@ -349,6 +350,8 @@ Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality
 | 15 | Cái răng đầu tiên | Răng cửa dưới của Nở lung lay; ba đòi cột chỉ vô cửa, má cản; răng rụng vô cục kẹo dừa; Nở ném răng lên mái lá, đọc "Chuột chuột chí chí…"; Nở huýt sáo qua chỗ sún, ba đủ răng mà huýt hổng ra; Đú: "Nhà mình giờ có cô Nở sún!" | **Tập vở, bút** |
 | 16 | Tát mương bắt cá | Ba má tát mương bằng gầu sòng; ba khoe tài úp nơm bắt cá lóc bự mà mò lên nguyên cục bùn, trượt chân ngã phịch xuống mương; cá lóc phóng lên bờ nhảy gọn vô rổ của "cô Nở sún"; chiều Nở vẽ tranh ba mặt lấm bùn, cả nhà ăn cá lóc nướng trui rơm trên tàu lá chuối | **Tập vở, hộp bút màu** |
 | 17 | Con heo đất ống tre | Ba làm heo tiết kiệm bằng đốt tre vàng óng tặng Nở; Nở trêu "heo ốm nhom giống ba"; ba khoét khe rộng nên xu rớt ngược ra ngoài, má cài nan tre sửa lại vừa khít; chiều Nở vẽ hoa trang trí ống tre để dành tiền mua áo mới cho má, ba góp thêm hai đồng tiền công | **Tập vở, hộp bút màu** |
+| 18 | Chèo xuồng bán dừa khô | Ba chất dừa khô lên xuồng ba lá đi chợ ghe, Nở đếm dừa trêu bụng ba; ba khoe tài chống sào mà sào cắm dính dưới bùn, xuồng trôi đi còn ba ôm cứng cây sào giữa kênh; má khua dầm đón ba; chiều bán hết dừa về ba tặng Nở xấp tập mới và quàng khăn rằn mới cho má | **Tập vở, bút** |
+| 19 | Chuối nếp nướng lá chuối & Bài toán chia phần của Nở | Chiều vàng má gói chuối xiêm bọc nếp dẻo trong lá chuối tươi; ba giành quạt mo cau nổ "tay nướng chuối số một Cái Mơn" làm tro bếp bay dính mũi như râu mèo; mở lá chuối có 1 trái hơi xém cạnh, ba vội nhận phần khét nhường 2 trái vàng ươm cho má và Nở; má chan nước cốt dừa đậu phộng đút miếng ngon nhất cho ba; Nở vẽ tranh cả nhà chia đều 3 trái chuối vàng ươm trong tập vở | **Tập vở, hộp bút màu** |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -356,7 +359,7 @@ Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (từ Tập 13: 40–60s = 4–6 clip × 10s; Tập 1–12: 30s = 3 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` (4–6 file; Tập 1–12: `clip-1.md` … `clip-3.md`) là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-13/`, …) và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` (3–6 file) là prompt của từng clip 10 giây. Tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |
@@ -377,3 +380,5 @@ Mỗi tập (từ Tập 13: 40–60s = 4–6 clip × 10s; Tập 1–12: 30s = 3 
 | 15 | [tap-15/](tap-15/README.md) | Cái răng đầu tiên |
 | 16 | [tap-16/](tap-16/README.md) | Tát mương bắt cá |
 | 17 | [tap-17/](tap-17/README.md) | Con heo đất ống tre |
+| 18 | [tap-18/](tap-18/README.md) | Chèo xuồng bán dừa khô |
+| 19 | [tap-19/](tap-19/README.md) | Chuối nếp nướng lá chuối & Bài toán chia phần của Nở |

@@ -107,3 +107,37 @@ Ngày thứ sáu của Vy và Joi ở Lào Cai! Rời Na Hang theo QL279 sang ca
 #365ngayvietnam #LaoCai #SaPa #VyvaJoi #xuyenviet
 ```
 
+---
+
+## 📋 TẬP 7: YÊN BÁI — Đèo Khau Phạ, Cốm Xanh & Xôi Ngũ Sắc Tú Lệ, Đồi Mâm Xôi, Rừng Trúc & Hoàng Hôn Đồi Móng Ngựa Mù Cang Chải (9 Clips · 90 giây)
+
+### 🎵 Nhạc đề xuất:
+- **Lựa chọn 1 (Ưu tiên):** Đàn tính tẩu Thái Tú Lệ kết hợp sáo Mông Mù Cang Chải và Cinematic Folk hiện đại; mở bằng tiếng guitar acoustic lăn bánh trên QL32, vút cao trên biển mây Đèo Khau Phạ, rộn ràng nhịp chày giã cốm Tú Lệ, huyền ảo trong Rừng Trúc Nả Háng Tủa Chử và lắng đọng lúc hoàng hôn vàng cam trên Đồi Móng Ngựa Sáng Nhù.
+- **Lựa chọn 2:** Lo-fi Acoustic ấm áp cho bữa trưa Xôi Ngũ Sắc Nếp Tan Tú Lệ & Cá Suối Nướng Pa Pỉnh Tộp và bữa tối bên bếp lửa nhà sàn.
+
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Ngày thứ bảy của Vy và Joi ở Yên Bái! Sáng sớm theo QL32 lên đỉnh Đèo Khau Phạ ("Sừng Trời" cao hơn 1.200m) săn biển mây tràn qua Thung Lũng Cao Phạ, ghé nhà sàn người Thái ở Tú Lệ xem giã cốm xanh Nếp Tan trong cối gỗ và ăn trưa xôi ngũ sắc đồ chõ gỗ kèm cá suối nướng gập Pa Pỉnh Tộp. Chiều lên La Pán Tẩn ngắm kiệt tác Đồi Mâm Xôi, dạo bước giữa Rừng Trúc Mù Cang Chải hơn 60 năm tuổi ở Bản Nả Háng Tủa Chử, đón hoàng hôn vàng cam tại Đồi Móng Ngựa Sáng Nhù rồi quây quần bên bếp lửa nhà sàn! 🇻🇳🌾🏔️
+
+📌 Cẩm nang nhanh: Đèo Khau Phạ săn mây đẹp nhất 08:30–09:30 · cốm xanh Nếp Tan Tú Lệ rang chảo gang giã cối gỗ, gói lá dong xanh · xôi ngũ sắc nhuộm 5 màu lá rừng tự nhiên · Đồi Mâm Xôi (La Pán Tẩn) đi đúng lối mòn không dẫm lên bờ ruộng · Đồi Móng Ngựa (Sáng Nhù) canh giờ vàng hoàng hôn 16:30–17:15 trước khi nắng khuất núi.
+
+#365ngayvietnam #MuCangChai #YenBai #VyvaJoi #xuyenviet
+```
+
+---
+
+## 📋 TẬP 8: LAI CHÂU — Đồi Chè Tân Uyên, Biển Mây Ô Quy Hồ Tam Đường, Lợn Cắp Nách & Xôi Tím, Bản Sin Suối Hồ & Hoàng Hôn Cao Nguyên Sìn Hồ (6 Clips · 60 giây)
+
+### 🎵 Nhạc đề xuất:
+- **Lựa chọn 1 (Ưu tiên):** Sáo Mông và khèn Tây Bắc phối Acoustic Folk + Indie trong trẻo; mở bằng tiếng guitar rải ngón giữa Đồi Chè Tân Uyên đẫm sương sớm, bùng nổ hào hùng trên biển mây Đèo Ô Quy Hồ phía Tam Đường, thanh bình bên tiếng nước Thác Trái Tim ở Bản Sin Suối Hồ, và ngân dài lãng mạn lúc hoàng hôn nhuộm vàng biển mây Cao Nguyên Sìn Hồ.
+- **Lựa chọn 2:** Lo-fi Acoustic ấm cúng cho bữa trưa Lợn Cắp Nách Nướng Mắc Khén & Xôi Tím Nếp Nương Lai Châu.
+
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Ngày thứ tám của Vy và Joi ở Lai Châu! Rời Mù Cang Chải theo QL32 ghé Đồi Chè Tân Uyên rộng hơn 2.000 ha xanh mướt trong sương sớm, lên đỉnh Đèo Ô Quy Hồ phía Tam Đường săn biển mây Hoàng Liên Sơn ở độ cao gần 2.000m, trưa thưởng thức lợn cắp nách nướng mắc khén da giòn rụm kèm xôi tím nếp nương nhuộm lá cẩm rừng. Chiều dạo bước giữa hàng vạn chậu hoa địa lan và Thác Trái Tim ở Bản Sin Suối Hồ của người Mông, rồi đón hoàng hôn vàng cam trên biển mây Cao Nguyên Sìn Hồ cao 1.500m! 🇻🇳🍃☁️
+
+📌 Cẩm nang nhanh: Đồi Chè Tân Uyên nằm ngay ven QL32, đi sáng sớm 08:00–09:30 búp chè đẫm sương thơm ngát · lợn cắp nách nướng than hoa chấm chẩm chéo ăn kèm xôi tím nhuộm lá cẩm rừng tự nhiên · Bản Sin Suối Hồ (cách TP. Lai Châu ~30km) đạt giải Du lịch Cộng đồng ASEAN, nhớ giữ vệ sinh chung và không hái địa lan · Cao Nguyên Sìn Hồ canh hoàng hôn biển mây lúc 16:30–17:15.
+
+#365ngayvietnam #LaiChau #SinSuoiHo #VyvaJoi #xuyenviet
+```
+

@@ -1,0 +1,25 @@
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same people, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. The babies never speak. Cut only where the shot list says, and never flash or cut to a standalone reference portrait at the start or end of the clip. No subtitles, no captions, no on-screen text.
+
+[CHARACTERS — unchanged]
+@Ngoc = NGỌC: beautiful young Vietnamese woman, 27, big bright almond eyes, small beauty mark below her LEFT eye, silky black hair in a soft low bun with a brown tortoiseshell claw clip; pale sage-green flower-print cotton pajama set, thin silver bangle on her left wrist, barefoot; soft, warm, sweet Southern female voice.
+@Gao = GẠO: beautiful, adorable real one-month-old twin boy, fuller plump cheeks, tuft of thick black hair sticking up like a little sprout, soft mint-green cotton with a tiny embroidered brown teddy bear; focuses on his mother's face, calms at her voice and makes soft cooing sounds, head and neck always supported; never speaks.
+@Bong = BÔNG: beautiful, adorable real one-month-old twin girl, daintier than her brother, fuller round cheeks, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; focuses on her mother's face, calms at her voice and makes soft cooing sounds, head and neck always supported; never speaks.
+
+[CAMERA & LIGHT]
+Low, intimate eye-level cinema camera right at the level of the cream play mat, bathed in warm golden morning window light; 85mm lens for the close-up of GẠO's effort to lift his head for a few seconds, 50mm two-shot showing NGỌC lying face-to-face on the mat encouraging him.
+
+[SHOT LIST]
+00:00–00:02.5 | Low eye-level medium shot, 50mm, continuing from the last frame — NGỌC lowers herself onto her stomach at the front edge of the cream quilted play mat (`SP_THAM_CHOI`), resting on her elbows so her smiling face is directly at eye level, about twenty-five centimeters in front of GẠO.
+00:02.5–00:05 | Low-angle close-up, 85mm — supported under his chest by the small rolled white towel, thirty-nine-day-old GẠO presses his tiny forearms against the firm cream mat and, with adorable serious effort, lifts his head and chin a few centimeters off the mat for a few seconds, his upright tuft of black hair bobbing as his big bright dark eyes lock steadily onto his mother's face.
+00:05–00:08.5 | Eye-level medium close-up, 50mm, slow push-in — NGỌC beams with pride right in front of GẠO, her face clearly visible in the morning sunlight as she reaches one gentle hand to steady his shoulder while he holds his gaze on her. NGỌC says (soft, warm Southern Vietnamese voice, proud and encouraging): Giỏi quá, anh Gạo ngóc đầu nhìn mẹ kìa! Tập vậy khỏe cổ, ngừa bẹp đầu đó con.
+00:08.5–00:10 | Close-up, 85mm — GẠO lets out a tiny contented "o, e" coo and lowers his cheek gently onto his forearm for a brief rest while NGỌC strokes his back affectionately.
+
+[SOUND]
+GẠO's tiny determined grunt followed by a soft "o, e" coo, the gentle brush of cotton on the play mat, NGỌC's warm encouraging voice, light cheerful acoustic guitar and piano notes.
+
+[END FRAME]
+Eye-level medium close-up on the cream quilted play mat in golden morning light: thirty-nine-day-old GẠO in his mint-green outfit resting comfortably on his forearms with the small white towel roll under his chest, NGỌC lying face-to-face right in front of him, smiling tenderly with her hand gently stroking his back. Hold still for the final 0.5 seconds.
+
+[AVOID]
+cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, dialogue spoken by anyone but NGỌC, time skip, cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted baby faces, extra or missing fingers or toes, babies with older-infant faces or proportions, awake babies grinning at the camera (only fleeting smiles in sleep), babies pushing up on straight arms like a six-month-old, sitting up or crawling, an unsupported baby head or neck when lifted, a baby sleeping on its stomach or side, pillows, loose blankets, bumpers, toys or hats inside a bassinet, both babies in one bassinet, a baby left alone on the adult bed or unattended on the mat, NGỌC looking haggard, unkempt or older than her late twenties, feeding bottles, pacifiers, formula tins or powdered milk, nudity, readable text, labels, logos or brand names, extra people in focus or speaking (anyone else stays soft-focus in the background and silent), a baby held in arms in a moving car, subtitles.

@@ -56,6 +56,12 @@ FLOW_GENERATION_MAX_CONCURRENT = max(
 FLOW_UNUSUAL_ACTIVITY_COOLDOWN_S = max(
     0.0, float(os.environ.get("FLOW_UNUSUAL_ACTIVITY_COOLDOWN_S", "3600"))
 )
+# Each repeat block before a generation succeeds doubles the hold, up to this
+# cap, so a short base cooldown cannot keep resubmitting into a live block.
+FLOW_UNUSUAL_ACTIVITY_MAX_COOLDOWN_S = max(
+    FLOW_UNUSUAL_ACTIVITY_COOLDOWN_S,
+    float(os.environ.get("FLOW_UNUSUAL_ACTIVITY_MAX_COOLDOWN_S", "3600")),
+)
 FLOW_GENERATION_HOLD_PATH = BASE_DIR / "flow_generation_hold.json"
 FLOW_SESSION_PROJECT_IDLE_S = max(
     300.0, float(os.environ.get("FLOW_SESSION_PROJECT_IDLE_S", "7200"))
@@ -105,7 +111,7 @@ MUSE2API_ALLOW_DEGRADED = os.environ.get("MUSE2API_ALLOW_DEGRADED", "0") == "1"
 # ─── Worker ──────────────────────────────────────────────────
 POLL_INTERVAL = int(os.environ.get("POLL_INTERVAL", "5"))
 VIDEO_POLL_INTERVAL = int(os.environ.get("VIDEO_POLL_INTERVAL", "10"))  # polling interval for video/upscale status
-MAX_RETRIES = int(os.environ.get("MAX_RETRIES", "5"))
+MAX_RETRIES = int(os.environ.get("MAX_RETRIES", "2"))
 VIDEO_POLL_TIMEOUT = int(os.environ.get("VIDEO_POLL_TIMEOUT", "420"))
 # Omni Flash defaults used by the worker when a project's video_model_family
 # is "omni_flash". Duration must be 4/6/8/10; resolution 360p or 720p.

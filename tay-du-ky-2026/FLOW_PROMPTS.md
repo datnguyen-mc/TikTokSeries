@@ -2,7 +2,7 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** từ Tập 9 mỗi tập **40–60s = 4–6 clip × 10s** tùy câu chuyện (Tập 1–8: 3 clip) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt · không chữ trên video
+**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt · không chữ trên video · **Bắt buộc Search Google** khi cần thiết để cập nhật đúng sự kiện, xu hướng (trend), giá cả và chi tiết đời sống Sài Gòn thực tế.
 
 **Đặt tên file:** video `TDK_T01_C1_v1` (tập 01, clip 1, phiên bản 1) · ảnh tham chiếu `TDK_REF_<TÊN>` (xem mục 4)
 
@@ -26,7 +26,7 @@ README của series mới chỉ có ý tưởng chung, nên tạo hình dưới 
 - **Màu phép thuật:** mọi hiệu ứng phép (gậy dài ra, mây bay, gió quạt) đều có ánh vàng, để thống nhất cả series.
 - **Tỉ lệ chiều cao:** Út Khờ cao nhất, rồi đến La Sát và Thầy (ngang nhau). Heo Lười thấp hơn Thầy một cái đầu nhưng ngang gấp đôi. Đại Ca thấp nhất, chỉ tới ngực Thầy.
 
-**Cấu trúc tập 40–60 giây (từ Tập 9):** 4–6 clip × 10s tùy câu chuyện, kịch bản chi tiết như chuyện thật trong một căn nhà trọ Sài Gòn. Tập 6 clip đi đủ sáu nhịp dưới đây; tập 5 clip gộp kế hoạch với phép thuật; tập 4 clip đi: hook và kế hoạch → phép thuật → lật kèo → chốt.
+**Cấu trúc tập 30–60 giây (tối đa 60 giây = 3–6 clip × 10s):** kịch bản chi tiết như chuyện thật trong một căn nhà trọ Sài Gòn (tra cứu Google Search khi cần cập nhật trend/sự kiện thực tế). Tập 6 clip đi đủ sáu nhịp dưới đây; tập 5 clip gộp kế hoạch với phép thuật; tập 4 clip đi: hook và kế hoạch → phép thuật → lật kèo → chốt; tập 3 clip (30s) đi: hook & phép thuật → lật kèo → chốt.
 
 | Clip | Vai trò | Gợi ý |
 | --- | --- | --- |
@@ -196,6 +196,22 @@ KHÁCH: petite young office woman, shoulder-length black hair with blunt bangs, 
 ĐẠI CA CLONES: five teacup-tall identical copies of ĐẠI CA (golden-brown monkeys, heart-shaped pinkish-red faces, thin golden circlets, red bomber jackets over plain yellow t-shirts, tiger-stripe cargo shorts, no staff), moving in perfect unison; higher-pitched copy of his voice, speaking in unison.
 ```
 
+### 1.9 BẠCH MÃ — ngựa trắng của Thầy (nhân vật phụ · Tập 14)
+
+Ngựa trắng của Thầy đứng ở khoảng sân / hẻm ngay ngoài cổng sắt xếp. Lông trắng muốt, bờm và đuôi trắng bạc, mắt nâu to biểu cảm hài hước, đeo dây cương vải đỏ đơn giản có chuông đồng nhỏ.
+
+**FULL LOCK**
+
+```text
+@BachMa = BẠCH MÃ: a handsome cartoon white horse with a glossy snow-white coat, a flowing silver-white mane and tail, expressive dark-brown eyes and comedic equine facial expressions, standing just outside the open green metal gate in the courtyard alley; wears a simple red fabric halter strap with a small brass bell and no text or logos.
+```
+
+**SHORT LOCK**
+
+```text
+@BachMa = BẠCH MÃ: handsome cartoon white horse with silver-white mane, expressive dark eyes, simple red halter strap with brass bell, standing just outside the open green gate.
+```
+
 ---
 
 ## 2. Bối cảnh cố định
@@ -254,7 +270,7 @@ Ground-floor living room of a narrow, cozy rented tube house in a Saigon alley, 
 
 ```text
 [FORMAT]
-Vertical 9:16, 10-second clip, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 **Nhạc nền**: câu cố định, luôn có trong [SOUND]
@@ -267,13 +283,13 @@ Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-b
 
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade, same 2D hand-drawn cartoon style with clean bold outlines and flat cel-shaded colors. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
 
-**Câu chặn 3D**: luôn là mục cuối của [AVOID] ở mọi clip
+**Câu chặn 3D & thẻ tham chiếu**: luôn là mục cuối của [AVOID] ở mọi clip
 
 ```text
-3D or CGI look, photorealistic rendering.
+cutting to or flashing a standalone character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip, 3D or CGI look, photorealistic rendering.
 ```
 
 ---
@@ -351,12 +367,15 @@ Height comparison lineup of four original 2D cartoon characters standing side by
 | 9 | Tên ở nhà | Tập ra mắt tên mới. La Sát kêu "Tôn Ngộ Không! Trư Bát Giới!" tới hụt hơi, quên luôn "Sa gì đó", nên đặt tên ở nhà cho cả bọn: Thầy (cả hẻm kêu vậy rồi), Heo Lười (vừa cãi "siêng lắm" đã ngáy), Đại Ca (lùn nhất nhà mà đòi làm anh lớn, biến khổng lồ rồi hắt xì teo bằng tách trà), Út Khờ (bự nhất mà là em út, kêu ai cũng "Dạ!"). Thầy: "Tên đổi... lòng không đổi." | — | 72 phép biến hóa (biến khổng lồ, teo nhỏ) | người bự nhất thành "Út", người lùn nhất thành "Đại Ca" |
 | 10 | Triều cường gõ cửa | ⚡ Triều cường TP.HCM đỉnh 26–28/10: 5 giờ rưỡi chiều nước tràn qua bậc cửa; Đại Ca đắp đê bằng gậy Như Ý, Út Khờ khiêng nguyên sofa (cả Heo Lười) kê lên gạch; nước lại trào lên từ cống, Heo Lười chỉ ổ điện sát đất; Thầy bình tĩnh cúp cầu dao; Út Khờ chặn cống bằng bao cát ("Hồi xưa sống dưới sông, quen rồi"); cả nhà ngồi chờ triều xuống dưới ánh đê vàng. | — | gậy Như Ý (đê vàng, thành đèn), Út Khờ khiêng đồ | nước vô từ cống chứ không phải từ cửa; Út Khờ "khờ" mà rành nước nhất |
 | 11 | Dự án ma | ⚡ Trend #duanma: Heo Lười hứa năm giờ sáng chạy mười cây số; Đại Ca dùng định thân pháp "giữ miệng giùm" khi Heo Lười lao vào nồi chè bắp; sáng hôm sau Heo Lười tắt báo thức ngủ tiếp, hóa ra Thầy và Út Khờ sáng nào cũng đi bộ nhanh ba chục phút; Heo Lười cầm ổ bánh mì đi vòng quanh bàn liền. Thầy: "Bắt đầu nhỏ... là bắt đầu thật." | — | định thân pháp | người chậm rãi nhất (Thầy) lại tập đều nhất; Heo Lười đi liền, không đợi mai |
+| 12 | Săn sale nửa đêm | Nửa đêm Heo Lười thức canh sale 1k bấm mỏi tay không kịp; Đại Ca biến ra 10 bàn tay vàng bấm siêu tốc; sáng ra nhận 50 thùng tăm bông vì đè nhầm nút nhân 50, còn Út Khờ mua đúng nồi cơm điện giảm giá thật từ chiều hôm qua. Thầy: "Thứ cần thì mua một... thứ ham rẻ thì ôm năm mươi." | — | 72 phép biến hóa (10 cánh tay) | bấm nhanh quá hóa mua lố; Út Khờ mua chậm mà trúng thứ cần |
+| 13 | Cúp điện giữa trưa | Giữa trưa Sài Gòn máy lạnh tắt phụt; Đại Ca xoay gậy Như Ý làm quạt số 10 thổi Heo Lười phồng tròn như bóng bay; La Sát bước vô báo nguyên con hẻm điện sáng trưng, hóa ra chỉ mỗi phòng bị nhảy cầu dao vì Heo Lười cắm nồi lẩu, ấm siêu tốc và lò nướng chung một ổ cắm; Út Khờ rút bớt phích cắm rồi bật lại cầu dao. Thầy: "Một ổ cắm gánh ba nồi... điện cũng biết mệt." | — | gậy Như Ý (xoay làm quạt gió) | tưởng cả hẻm cúp điện, hóa ra nhảy cầu dao phòng vì Heo Lười cắm 3 nồi chung 1 ổ |
+| 14 | Karaoke kẹo kéo xóm trọ | Chiều cuối tuần Heo Lười ôm loa kéo gào nhạc thất tình làm chén trà rung bần bật, Bạch Mã lấy móng bịt tai; sợ La Sát qua mắng, Đại Ca rút lông thổi phép biến micro thành "Micro Tắt Tiếng" kêu vo ve như muỗi; ai dè La Sát bước vô xin hát ké bolero rồi giật luôn chiếc micro trúng phép, ngân vọng cổ mà loa kêu "í a lí nhí" như dế kêu; Út Khờ vặn loa về mức số 2 vừa đủ nghe. Thầy: "Hát vừa đủ nghe, hàng xóm mới thương." | — | rút lông biến micro thành "Micro Tắt Tiếng Định Hướng" | tưởng La Sát qua mắng, hóa ra qua xin hát ké rồi dính luôn phép tắt tiếng của Đại Ca |
 
 ---
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (từ Tập 9: 40–60s = 4–6 clip × 10s; Tập 1–8: 3 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp (`tap-12/`, …) và dùng nguyên các khóa ở mục 1–3. Thư mục Tập 1–7 đã gỡ khỏi repo ở commit `d536686` (26/10/2026); nội dung vẫn còn trong lịch sử git (commit `4d7f4a4`) và tóm tắt ở mục 5.
+Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3. Thư mục Tập 1–7 đã gỡ khỏi repo ở commit `d536686` (26/10/2026); nội dung vẫn còn trong lịch sử git (commit `4d7f4a4`) và tóm tắt ở mục 5.
 
 | Ngày | File | Tên tập | Độ dài |
 | --- | --- | --- | --- |
@@ -364,3 +383,6 @@ Mỗi tập (từ Tập 9: 40–60s = 4–6 clip × 10s; Tập 1–8: 3 clip) l�
 | 9 | [tap-9/](tap-9/README.md) | Tên ở nhà | 60s · 6 clip |
 | 10 | [tap-10/](tap-10/README.md) | Triều cường gõ cửa | 50s · 5 clip |
 | 11 | [tap-11/](tap-11/README.md) | Dự án ma | 40s · 4 clip |
+| 12 | [tap-12/](tap-12/README.md) | Săn sale nửa đêm | 40s · 4 clip |
+| 13 | [tap-13/](tap-13/README.md) | Cúp điện giữa trưa | 60s · 6 clip |
+| 14 | [tap-14/](tap-14/README.md) | Karaoke kẹo kéo xóm trọ | 50s · 5 clip |

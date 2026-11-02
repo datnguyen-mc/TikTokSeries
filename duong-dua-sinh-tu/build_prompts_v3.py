@@ -33,11 +33,11 @@ CAMERAS = {
     'M': '50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.',
     'C': '85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.',
     'I': '85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.',
-    'T': '35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right direction with progressive suspension and wheel kinematics. No whip pan, drone move or reverse-axis cut.',
+    'T': '35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.',
     'H': '35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera\'s view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.',
     'O': '50mm over-shoulder or point-of-view composition from the observer specified in the opening frame, maintaining smooth parallax and matched eyelines.',
     'P': '50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.',
-    'E': '24mm wide-angle cinematic opening move: one smooth continuous low-angle lateral track pacing the moving vehicle along the established road axis with natural speed and parallax. No drone, no whip pan, no cut.',
+    'E': '24mm wide-angle cinematic opening move: one smooth continuous low-angle lateral track pacing the moving vehicle along the established left-to-right road axis with rapidly spinning wheels, co-directional forward motion, and natural speed parallax. No drone, no whip pan, no cut.',
 }
 SHUTTER = {'H': 'Crisp 150-degree shutter for sharp action'}
 CLEAN_FRAME = ('Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, '
@@ -245,7 +245,7 @@ def validate(plan: dict, shots: list[dict]) -> None:
             if any(not isinstance(detail.get(k), str) or len(detail[k].strip()) < 12 for k in DETAIL_FIELDS):
                 errors.append(f"{c['id']}: incomplete specific directing detail")
             words = sum(len(detail.get(k, '').split()) for k in DETAIL_FIELDS)
-            if not 55 <= words <= 280:
+            if not 55 <= words <= 340:
                 errors.append(f"{c['id']}: directing detail must be useful and bounded, got {words} words")
             beats = BEATS.match(c['action'])
             if not beats or not 0 < float(beats[1]) < float(beats[2]) < 10:
@@ -558,6 +558,11 @@ def render_prompt(plan: dict, c: dict, previous: dict | None, following: dict | 
     else:
         camera_contract = 'One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.'
     shutter = SHUTTER.get(c['camera'], 'Natural 180-degree shutter')
+    is_moving_vehicle = bool((c.get('spatial_state') or {}).get('moving_vehicle_clip'))
+    vehicle_motion_rule = (
+        '\nVehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.'
+        if is_moving_vehicle else ''
+    )
     clip_avoid = f"\nIn this shot also do not show or do: {c['avoid']}." if c.get('avoid') else ''
     return f"""{head}
 Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: {wf_mode}, shot type: {shot_type}): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
@@ -588,7 +593,7 @@ Spatial geography & 180-degree axis: {env_axis}
 
 [ACTION — 0–10s, one evolving take]
 {c['action']}
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.{rhythm}
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.{vehicle_motion_rule}{rhythm}
 {staging}
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -607,14 +612,14 @@ Reference only; enact only the current ACTION, not a future handover.
 
 [SOUND]
 Location bed: {sound}.{sound_specific}
-Keep diegetic continuity, dialogue clean and forward; every sound effect has a visible or established source. No generated score, stock sting or invented impact effect; ambient sound continues naturally through 10.0s.
+SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 {end}
 {out}
 
 [AVOID]
-Do not show or do any of the following: blood, graphic injuries, gore, open wounds, real unchoreographed violence, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.{clip_avoid}
+Do not show or do any of the following: blood, graphic injuries, gore, open wounds, real unchoreographed violence, stationary or frozen wheels on moving vehicles, backward-spinning wheels, vehicles facing or driving in opposite directions during a pursuit or race, muted or missing engine/tire sound effects, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.{clip_avoid}
 """
 
 

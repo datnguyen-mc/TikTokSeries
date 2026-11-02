@@ -15,6 +15,7 @@ from film_bible import (
     GLOBAL_FILM_BIBLE,
     OBJECT_LOCK,
     VEHICLE_LOCK,
+    VEHICLE_SFX_LOCK,
     resolve_object_condition,
     resolve_vehicle_condition,
 )
@@ -1828,6 +1829,36 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             else:
                 performance_str = f"{active_name} delivers the line with {persona} and organic micro-expressions."
 
+        moving_vehicle_scenes = {1, 2, 3, 4, 14, 15, 17, 29, 32, 33, 34, 38, 39}
+        moving_vehicle_clips = {
+            "05.6", "07.1", "08.5", "09.1", "09.6", "13.6", "16.1", "16.2", "16.6",
+            "18.1", "18.2", "18.3", "19.5", "28.1", "28.4", "31.6", "36.1", "36.3",
+            "36.4", "36.5", "37.4", "37.5", "37.6", "40.5", "40.6",
+        }
+        is_moving_vehicle_clip = (s_num in moving_vehicle_scenes) or (cid in moving_vehicle_clips)
+        if is_moving_vehicle_clip:
+            blocking_str = (
+                f"{blocking_str} All moving vehicles travel in the exact same left-to-right forward direction along the road lane "
+                f"with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis."
+            )
+
+        veh_sfx_list = [VEHICLE_SFX_LOCK[p] for p in props if p in VEHICLE_SFX_LOCK]
+        primary_sfx = (
+            "; ".join(veh_sfx_list[:2])
+            if veh_sfx_list
+            else "crisp tactical prop contact, footsteps, and authentic room acoustics"
+        )
+        if is_moving_vehicle_clip:
+            sound_detail_str = (
+                f"HIGH-PRIORITY AUTOMOTIVE SFX: {primary_sfx}, high-speed spinning tire-on-asphalt traction, "
+                f"crisp gearshifts, and wind slipstream layered prominently with {active_name}'s Southern Vietnamese dialogue."
+            )
+        else:
+            sound_detail_str = (
+                f"PRIORITY DIEGETIC SFX: {primary_sfx}, clean mechanical contact, and natural breathing "
+                f"layered clearly beneath {active_name}'s Southern Vietnamese dialogue."
+            )
+
         line_text = SCENE_DIALOGUES[s_num][c_num - 1]
         line_syl = len(re.findall(r"[^\W\d_]+", line_text))
         dialogue = []
@@ -1866,7 +1897,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             "performance": performance_str,
             "focus": focus_str,
             "texture": "Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.",
-            "sound_detail": f"Clean mechanical contact, engine cadence and natural breathing beneath {active_name}'s Southern Vietnamese dialogue.",
+            "sound_detail": sound_detail_str,
             "rhythm": CAMERA_RHYTHM_MAP[cam],
         }
 
@@ -1878,7 +1909,12 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             "subject_position": "mechanical/object detail insert" if is_insert_shot else staging["lead_placement"],
             "counterpart_position": staging["counterpart_placement"],
             "camera_code": cam,
-            "screen_direction": "left-to-right along established 180-degree axis",
+            "screen_direction": (
+                "co-directional left-to-right forward vehicle motion along established 180-degree axis with rapidly spinning wheels"
+                if is_moving_vehicle_clip
+                else "left-to-right along established 180-degree axis"
+            ),
+            "moving_vehicle_clip": is_moving_vehicle_clip,
         }
         entity_state = {
             "shot_type": shot_type,
@@ -1921,7 +1957,11 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             "entity_state": entity_state,
             "wardrobe_note": f"Keep exact approved appearance for {wardrobe_targets} with props {', '.join(props)}; never show a studio reference backdrop.",
             "screenplay_vi": screenplay_vi,
-            "avoid": "changing vehicle color, wheel count or left-hand driver side, adding duplicate characters or broadcaster logos",
+            "avoid": (
+                "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, "
+                "vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, "
+                "adding duplicate characters or broadcaster logos"
+            ),
         })
 
     return {

@@ -317,6 +317,21 @@ class FilmContinuityTests(unittest.TestCase):
             wf = film.determine_omni_workflow(self.plan, c)
             self.assertIn(wf, ('ingredients', 'frames', 'insert', 'text'), c['id'])
 
+    def test_moving_vehicles_enforce_spinning_wheels_same_direction_and_priority_sfx(self):
+        moving_clips = [c for c in self.shots if (c.get('spatial_state') or {}).get('moving_vehicle_clip')]
+        self.assertGreaterEqual(len(moving_clips), 90)
+        for i, c in enumerate(self.shots):
+            text = film.render_prompt(
+                self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
+            )
+            self.assertIn('SOUND EFFECTS PRIORITY:', text, c['id'])
+            self.assertIn('stationary or frozen wheels on moving vehicles', text, c['id'])
+            if (c.get('spatial_state') or {}).get('moving_vehicle_clip'):
+                self.assertIn('Vehicle motion & wheel lock:', text, c['id'])
+                self.assertIn('wheels spinning rapidly forward with realistic rotational motion blur', text, c['id'])
+                self.assertIn('co-directional forward direction (left-to-right along the road axis)', text, c['id'])
+                self.assertIn('HIGH-PRIORITY AUTOMOTIVE SFX:', text, c['id'])
+
 
 if __name__ == '__main__':
     unittest.main()

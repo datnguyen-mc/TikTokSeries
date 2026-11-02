@@ -70,11 +70,11 @@ Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đê
 
 - Ý đồ: Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đêm thì ba chiếc Civic đen đèn gầm xanh lá áp sát. (Shot 01.1 — ESTABLISHING_WIDE via wide establishing 24mm lens).
 - Bố cục: Frame Verni with the 18-Wheel Charcoal Semi-Truck & Silver Trailer and three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes anchored clearly in the wide establishing 24mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Verni delivers the line with hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Verni's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss; high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: Continuous fluid tracking momentum from 0.0s, smooth spatial progression across 3.2–6.8s while dialogue plays in motion, and unbroken forward follow-through to 10.0s.
 
 **Clip 2 (01.2) · CUT · HIGHWAY_NIGHT · M**
@@ -88,11 +88,11 @@ Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đê
 
 - Ý đồ: Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đêm thì ba chiếc Civic đen đèn gầm xanh lá áp sát. (Shot 01.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Verni with the 18-Wheel Charcoal Semi-Truck & Silver Trailer and three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Verni delivers the line with hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Verni's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss; high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (01.3) · CUT · HIGHWAY_NIGHT · I**
@@ -106,11 +106,11 @@ Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đê
 
 - Ý đồ: Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đêm thì ba chiếc Civic đen đèn gầm xanh lá áp sát. (Shot 01.3 — INSERT_DETAIL via macro detail 85mm lens).
 - Bố cục: 85mm low-angle vehicle-mounted insert framing the spinning truck tires on screen left and the emerald-lit Civic coupe wheel on screen right.
-- Vị trí / chuyển động: Both vehicles travel screen-left to screen-right at matched 110 km/h speed with zero lane drift.
+- Vị trí / chuyển động: Both vehicles travel screen-left to screen-right at matched 110 km/h speed with zero lane drift. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Verni's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the tire tread contact patch and green LED underglow reflection on the asphalt.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss; high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (01.4) · J · HIGHWAY_NIGHT · C**
@@ -124,11 +124,11 @@ Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đê
 
 - Ý đồ: Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đêm thì ba chiếc Civic đen đèn gầm xanh lá áp sát. (Shot 01.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Verni with the 18-Wheel Charcoal Semi-Truck & Silver Trailer and three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Verni delivers the line with hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Verni's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss; high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (01.5) · CUT · HIGHWAY_NIGHT · H**
@@ -142,11 +142,11 @@ Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đê
 
 - Ý đồ: Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đêm thì ba chiếc Civic đen đèn gầm xanh lá áp sát. (Shot 01.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Verni with the 18-Wheel Charcoal Semi-Truck & Silver Trailer and three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Verni delivers the line with hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Verni's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss; high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (01.6) · L · HIGHWAY_NIGHT · P**
@@ -160,11 +160,11 @@ Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đê
 
 - Ý đồ: Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đêm thì ba chiếc Civic đen đèn gầm xanh lá áp sát. (Shot 01.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Verni with the 18-Wheel Charcoal Semi-Truck & Silver Trailer and three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni holds the primary plane aligned with three matte-black lowered Civic coupes (CIVIC_TRIO) with emerald-green LED underglow closing in formation across the rear and side highway lanes. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Verni delivers the line with hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Verni's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss; high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the deep diesel rig rumble, high-rpm tuned exhausts and highway wind across the cut into the next scene without quiet pause.
@@ -189,11 +189,11 @@ Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa s�
 
 - Ý đồ: Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa sổ trời phóng mũi cáp thép bám chặt khung kính cabin. (Shot 02.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Cevin and Verni with the 18-Wheel Charcoal Semi-Truck & Silver Trailer anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Verni holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Verni holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Verni maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (02.2) · CUT · HIGHWAY_NIGHT · M**
@@ -207,11 +207,11 @@ Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa s�
 
 - Ý đồ: Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa sổ trời phóng mũi cáp thép bám chặt khung kính cabin. (Shot 02.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Cevin and Verni with the Three Matte-Black Precision Coupes anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Verni holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Verni holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Verni maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (02.3) · CUT · HIGHWAY_NIGHT · T**
@@ -225,11 +225,11 @@ Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa s�
 
 - Ý đồ: Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa sổ trời phóng mũi cáp thép bám chặt khung kính cabin. (Shot 02.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Verni and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Verni delivers the line with hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Verni's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (02.4) · J · HIGHWAY_NIGHT · C**
@@ -243,11 +243,11 @@ Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa s�
 
 - Ý đồ: Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa sổ trời phóng mũi cáp thép bám chặt khung kính cabin. (Shot 02.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Cevin and Verni with the Three Matte-Black Precision Coupes anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Verni holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Verni holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Verni maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (02.5) · CUT · HIGHWAY_NIGHT · H**
@@ -261,11 +261,11 @@ Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa s�
 
 - Ý đồ: Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa sổ trời phóng mũi cáp thép bám chặt khung kính cabin. (Shot 02.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Verni and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Verni moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Verni delivers the line with hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Verni's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (02.6) · L · HIGHWAY_NIGHT · P**
@@ -279,11 +279,11 @@ Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa s�
 
 - Ý đồ: Chiếc Civic đầu ép tốc độ xe tải trong khi Cevin nhô lên cửa sổ trời phóng mũi cáp thép bám chặt khung kính cabin. (Shot 02.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Cevin and Verni with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Verni holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Verni holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Verni maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the deep diesel rig rumble, high-rpm tuned exhausts and highway wind across the cut into the next scene without quiet pause.
@@ -308,11 +308,11 @@ Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và k
 
 - Ý đồ: Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và kích hoạt thiết bị mở bung chốt cửa thùng hàng. (Shot 03.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Cina and Cevin with Magnetic Container Latch Release Module anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with Magnetic Container Latch Release Module, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (03.2) · CUT · HIGHWAY_NIGHT · M**
@@ -326,11 +326,11 @@ Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và k
 
 - Ý đồ: Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và kích hoạt thiết bị mở bung chốt cửa thùng hàng. (Shot 03.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Cina with Magnetic Container Latch Release Module and Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina holds the primary plane aligned with Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina holds the primary plane aligned with Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with Magnetic Container Latch Release Module, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (03.3) · CUT · HIGHWAY_NIGHT · I**
@@ -344,11 +344,11 @@ Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và k
 
 - Ý đồ: Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và kích hoạt thiết bị mở bung chốt cửa thùng hàng. (Shot 03.3 — INSERT_DETAIL via macro detail 85mm lens).
 - Bố cục: 85mm close mechanical insert centered on the steel container latch bar and magnetic release clamp.
-- Vị trí / chuyển động: Camera tracks at matched 95 km/h speed half a meter behind the trailer doors.
+- Vị trí / chuyển động: Camera tracks at matched 95 km/h speed half a meter behind the trailer doors. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Cina's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the magnetic actuator LED, steel lock bar, and swinging door hinges.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (03.4) · J · HIGHWAY_NIGHT · C**
@@ -362,11 +362,11 @@ Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và k
 
 - Ý đồ: Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và kích hoạt thiết bị mở bung chốt cửa thùng hàng. (Shot 03.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Cina with the Three Matte-Black Precision Coupes and Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina holds the primary plane aligned with Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina holds the primary plane aligned with Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (03.5) · CUT · HIGHWAY_NIGHT · H**
@@ -380,11 +380,11 @@ Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và k
 
 - Ý đồ: Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và kích hoạt thiết bị mở bung chốt cửa thùng hàng. (Shot 03.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Cina with the 18-Wheel Charcoal Semi-Truck & Silver Trailer and Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina holds the primary plane aligned with Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina holds the primary plane aligned with Cevin monitoring from the semi-truck cab mirror ahead while the sealed silver trailer doors loom directly in front of Cina's hood. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (03.6) · L · HIGHWAY_NIGHT · P**
@@ -398,11 +398,11 @@ Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và k
 
 - Ý đồ: Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và kích hoạt thiết bị mở bung chốt cửa thùng hàng. (Shot 03.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Cevin and Cina with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Cina holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Cina holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Cina maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the deep diesel rig rumble, high-rpm tuned exhausts and highway wind across the cut into the next scene without quiet pause.
@@ -427,11 +427,11 @@ Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội 
 
 - Ý đồ: Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội chuyển các kiện hàng điện tử qua nắp capô mở sẵn. (Shot 04.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Onle and Cina with the Three Matte-Black Precision Coupes anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Onle moves smoothly on the near side while Cina holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Onle moves smoothly on the near side while Cina holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Cina maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Onle's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Onle's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (04.2) · CUT · HIGHWAY_NIGHT · M**
@@ -445,11 +445,11 @@ Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội 
 
 - Ý đồ: Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội chuyển các kiện hàng điện tử qua nắp capô mở sẵn. (Shot 04.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Onle and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Onle moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Onle moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Onle's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Onle's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (04.3) · CUT · HIGHWAY_NIGHT · T**
@@ -463,11 +463,11 @@ Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội 
 
 - Ý đồ: Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội chuyển các kiện hàng điện tử qua nắp capô mở sẵn. (Shot 04.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Cevin and Onle with the Three Matte-Black Precision Coupes anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Onle holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Onle holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Onle maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (04.4) · J · HIGHWAY_NIGHT · C**
@@ -481,11 +481,11 @@ Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội 
 
 - Ý đồ: Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội chuyển các kiện hàng điện tử qua nắp capô mở sẵn. (Shot 04.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Cina and Onle with the Three Matte-Black Precision Coupes anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina moves smoothly on the near side while Onle holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina moves smoothly on the near side while Onle holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity, while Onle maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (04.5) · CUT · HIGHWAY_NIGHT · H**
@@ -499,11 +499,11 @@ Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội 
 
 - Ý đồ: Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội chuyển các kiện hàng điện tử qua nắp capô mở sẵn. (Shot 04.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Onle and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Onle moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Onle moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Onle's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Onle's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (04.6) · L · HIGHWAY_NIGHT · P**
@@ -517,11 +517,11 @@ Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội 
 
 - Ý đồ: Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội chuyển các kiện hàng điện tử qua nắp capô mở sẵn. (Shot 04.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Cina and Onle with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina moves smoothly on the near side while Onle holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina moves smoothly on the near side while Onle holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity, while Onle maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the deep diesel rig rumble, high-rpm tuned exhausts and highway wind across the cut into the next scene without quiet pause.
@@ -550,7 +550,7 @@ Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse 
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (05.2) · CUT · VERS_GARAGE · M**
@@ -568,7 +568,7 @@ Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse 
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (05.3) · CUT · VERS_GARAGE · I**
@@ -586,7 +586,7 @@ Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse 
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Tom's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the chrome socket engagement and brushed aluminum turbo housing.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (05.4) · J · VERS_GARAGE · C**
@@ -604,7 +604,7 @@ Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse 
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (05.5) · CUT · VERS_GARAGE · H**
@@ -622,7 +622,7 @@ Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse 
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (05.6) · L · VERS_GARAGE · P**
@@ -636,11 +636,11 @@ Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse 
 
 - Ý đồ: Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse xanh neon và nghe tin giới tài xế xôn xao về phi vụ đêm qua. (Shot 05.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom with the Neon-Green Turbo Sport Coupe and the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the air wrench whir, metal tools clinking and distant city traffic across the cut into the next scene without quiet pause.
@@ -669,7 +669,7 @@ Tom lái chiếc bán tải đỏ đến quán tạp hóa Toto, ngồi ở quầ
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (06.2) · CUT · TOTO_DINER · M**
@@ -687,7 +687,7 @@ Tom lái chiếc bán tải đỏ đến quán tạp hóa Toto, ngồi ở quầ
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (06.3) · CUT · TOTO_DINER · I**
@@ -705,7 +705,7 @@ Tom lái chiếc bán tải đỏ đến quán tạp hóa Toto, ngồi ở quầ
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Ami's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the crustless sandwich edges and water droplets on the glass.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (06.4) · J · TOTO_DINER · C**
@@ -723,7 +723,7 @@ Tom lái chiếc bán tải đỏ đến quán tạp hóa Toto, ngồi ở quầ
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (06.5) · CUT · TOTO_DINER · H**
@@ -741,7 +741,7 @@ Tom lái chiếc bán tải đỏ đến quán tạp hóa Toto, ngồi ở quầ
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (06.6) · L · TOTO_DINER · P**
@@ -759,7 +759,7 @@ Tom lái chiếc bán tải đỏ đến quán tạp hóa Toto, ngồi ở quầ
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the ceiling fan hum, plates clinking and midday street traffic outside across the cut into the next scene without quiet pause.
@@ -784,11 +784,11 @@ Tiếng nẹt pô chói tai vang lên khi bốn chiếc xe độ của nhóm Mic
 
 - Ý đồ: Tiếng nẹt pô chói tai vang lên khi bốn chiếc xe độ của nhóm Micdo đỗ trước quán; Cevin hầm hầm nhìn chiếc bán tải của Tom. (Shot 07.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Cevin and Seja with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Cevin moves smoothly on the near side while Seja holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Cevin moves smoothly on the near side while Seja holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (07.2) · CUT · TOTO_PATIO · M**
@@ -806,7 +806,7 @@ Tiếng nẹt pô chói tai vang lên khi bốn chiếc xe độ của nhóm Mic
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (07.3) · CUT · TOTO_PATIO · T**
@@ -824,7 +824,7 @@ Tiếng nẹt pô chói tai vang lên khi bốn chiếc xe độ của nhóm Mic
 - Diễn xuất: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Onle's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Onle's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (07.4) · J · TOTO_PATIO · C**
@@ -842,7 +842,7 @@ Tiếng nẹt pô chói tai vang lên khi bốn chiếc xe độ của nhóm Mic
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (07.5) · CUT · TOTO_PATIO · H**
@@ -860,7 +860,7 @@ Tiếng nẹt pô chói tai vang lên khi bốn chiếc xe độ của nhóm Mic
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (07.6) · L · TOTO_PATIO · P**
@@ -878,7 +878,7 @@ Tiếng nẹt pô chói tai vang lên khi bốn chiếc xe độ của nhóm Mic
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the street breeze, shoes scuffling on concrete and idling engines across the cut into the next scene without quiet pause.
@@ -907,7 +907,7 @@ Cevin lao vào so chiêu võ thuật nhưng Tom né đòn chuẩn nhịp và kh�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (08.2) · CUT · TOTO_PATIO · M**
@@ -925,7 +925,7 @@ Cevin lao vào so chiêu võ thuật nhưng Tom né đòn chuẩn nhịp và kh�
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (08.3) · CUT · TOTO_PATIO · T**
@@ -943,7 +943,7 @@ Cevin lao vào so chiêu võ thuật nhưng Tom né đòn chuẩn nhịp và kh�
 - Diễn xuất: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Onle's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Onle's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (08.4) · J · TOTO_PATIO · C**
@@ -961,7 +961,7 @@ Cevin lao vào so chiêu võ thuật nhưng Tom né đòn chuẩn nhịp và kh�
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (08.5) · CUT · TOTO_PATIO · H**
@@ -975,11 +975,11 @@ Cevin lao vào so chiêu võ thuật nhưng Tom né đòn chuẩn nhịp và kh�
 
 - Ý đồ: Cevin lao vào so chiêu võ thuật nhưng Tom né đòn chuẩn nhịp và khóa thế; cả hai làm xê dịch bàn gỗ ngoài hiên khi Ami bước ra ngăn. (Shot 08.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Seja and Tom with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Seja moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Seja moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (08.6) · L · TOTO_PATIO · P**
@@ -997,7 +997,7 @@ Cevin lao vào so chiêu võ thuật nhưng Tom né đòn chuẩn nhịp và kh�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the street breeze, shoes scuffling on concrete and idling engines across the cut into the next scene without quiet pause.
@@ -1022,11 +1022,11 @@ Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước q
 
 - Ý đồ: Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước quán; Micdo bước ra quát lớn khiến cả đám lập tức im bặt. (Shot 09.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Micdo and Tom with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (09.2) · CUT · TOTO_PATIO · M**
@@ -1044,7 +1044,7 @@ Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước q
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (09.3) · CUT · TOTO_PATIO · I**
@@ -1062,7 +1062,7 @@ Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước q
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Micdo's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the silver twin-spoke rim and metallic crimson paintwork.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (09.4) · J · TOTO_PATIO · C**
@@ -1080,7 +1080,7 @@ Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước q
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (09.5) · CUT · TOTO_PATIO · H**
@@ -1098,7 +1098,7 @@ Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước q
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (09.6) · L · TOTO_PATIO · P**
@@ -1112,11 +1112,11 @@ Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước q
 
 - Ý đồ: Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước quán; Micdo bước ra quát lớn khiến cả đám lập tức im bặt. (Shot 09.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Ami with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Tom moves smoothly on the near side while Ami holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Tom moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the street breeze, shoes scuffling on concrete and idling engines across the cut into the next scene without quiet pause.
@@ -1145,7 +1145,7 @@ Tom mang vệt bụi trên mặt trở về căn biệt thự chỉ huy bí mậ
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Kinan maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (10.2) · CUT · TASKFORCE_HQ · M**
@@ -1163,7 +1163,7 @@ Tom mang vệt bụi trên mặt trở về căn biệt thự chỉ huy bí mậ
 - Diễn xuất: Kinan delivers the line with crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Kinan's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Kinan's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (10.3) · CUT · TASKFORCE_HQ · I**
@@ -1181,7 +1181,7 @@ Tom mang vệt bụi trên mặt trở về căn biệt thự chỉ huy bí mậ
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Tom's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the vehicle surveillance photos and map pin markers.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (10.4) · J · TASKFORCE_HQ · C**
@@ -1199,7 +1199,7 @@ Tom mang vệt bụi trên mặt trở về căn biệt thự chỉ huy bí mậ
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (10.5) · CUT · TASKFORCE_HQ · H**
@@ -1217,7 +1217,7 @@ Tom mang vệt bụi trên mặt trở về căn biệt thự chỉ huy bí mậ
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (10.6) · L · TASKFORCE_HQ · P**
@@ -1235,7 +1235,7 @@ Tom mang vệt bụi trên mặt trở về căn biệt thự chỉ huy bí mậ
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the air-conditioner hum, footsteps on tile and rustling case folders across the cut into the next scene without quiet pause.
@@ -1264,7 +1264,7 @@ Nese trao giấy tờ sở hữu chiếc Eclipse cho Tom nhưng cảnh báo nế
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (11.2) · CUT · TASKFORCE_HQ · M**
@@ -1282,7 +1282,7 @@ Nese trao giấy tờ sở hữu chiếc Eclipse cho Tom nhưng cảnh báo nế
 - Diễn xuất: Kinan delivers the line with crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Kinan's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Kinan's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (11.3) · CUT · TASKFORCE_HQ · I**
@@ -1300,7 +1300,7 @@ Nese trao giấy tờ sở hữu chiếc Eclipse cho Tom nhưng cảnh báo nế
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Nese's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the plastic title sleeve and Tom's fingers.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (11.4) · J · TASKFORCE_HQ · C**
@@ -1318,7 +1318,7 @@ Nese trao giấy tờ sở hữu chiếc Eclipse cho Tom nhưng cảnh báo nế
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (11.5) · CUT · TASKFORCE_HQ · H**
@@ -1336,7 +1336,7 @@ Nese trao giấy tờ sở hữu chiếc Eclipse cho Tom nhưng cảnh báo nế
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (11.6) · L · TASKFORCE_HQ · P**
@@ -1354,7 +1354,7 @@ Nese trao giấy tờ sở hữu chiếc Eclipse cho Tom nhưng cảnh báo nế
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the air-conditioner hum, footsteps on tile and rustling case folders across the cut into the next scene without quiet pause.
@@ -1383,7 +1383,7 @@ Trước giờ xuất phát tại tiệm Ver's Geh, Tom kiểm tra hai bình kh�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Twin High-Pressure Nitrous Oxide Cylinders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (12.2) · CUT · VERS_GARAGE · M**
@@ -1401,7 +1401,7 @@ Trước giờ xuất phát tại tiệm Ver's Geh, Tom kiểm tra hai bình kh�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (12.3) · CUT · VERS_GARAGE · I**
@@ -1419,7 +1419,7 @@ Trước giờ xuất phát tại tiệm Ver's Geh, Tom kiểm tra hai bình kh�
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Tom's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the brass nitrous valve and blue cylinder housing.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (12.4) · J · VERS_GARAGE · C**
@@ -1437,7 +1437,7 @@ Trước giờ xuất phát tại tiệm Ver's Geh, Tom kiểm tra hai bình kh�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (12.5) · CUT · VERS_GARAGE · H**
@@ -1455,7 +1455,7 @@ Trước giờ xuất phát tại tiệm Ver's Geh, Tom kiểm tra hai bình kh�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (12.6) · L · VERS_GARAGE · P**
@@ -1473,7 +1473,7 @@ Trước giờ xuất phát tại tiệm Ver's Geh, Tom kiểm tra hai bình kh�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the air wrench whir, metal tools clinking and distant city traffic across the cut into the next scene without quiet pause.
@@ -1502,7 +1502,7 @@ Không có 2.000 đô tiền mặt, Tom rút giấy tờ sở hữu chiếc Ecli
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (13.2) · CUT · RACE_MEET · M**
@@ -1520,7 +1520,7 @@ Không có 2.000 đô tiền mặt, Tom rút giấy tờ sở hữu chiếc Ecli
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (13.3) · CUT · RACE_MEET · I**
@@ -1538,7 +1538,7 @@ Không có 2.000 đô tiền mặt, Tom rút giấy tờ sở hữu chiếc Ecli
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Cevin's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the plastic sleeve and carbon-fiber weave.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (13.4) · J · RACE_MEET · C**
@@ -1556,7 +1556,7 @@ Không có 2.000 đô tiền mặt, Tom rút giấy tờ sở hữu chiếc Ecli
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (13.5) · CUT · RACE_MEET · H**
@@ -1574,7 +1574,7 @@ Không có 2.000 đô tiền mặt, Tom rút giấy tờ sở hữu chiếc Ecli
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (13.6) · L · RACE_MEET · P**
@@ -1588,11 +1588,11 @@ Không có 2.000 đô tiền mặt, Tom rút giấy tờ sở hữu chiếc Ecli
 
 - Ý đồ: Không có 2.000 đô tiền mặt, Tom rút giấy tờ sở hữu chiếc Eclipse trị giá 10.000 đô ra cược; Micdo mỉm cười chấp nhận và Cina phất tay xuất phát. (Shot 13.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Cina and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Cina moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Cina moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the thumping bass, revving tuned engines and cheering street crowd across the cut into the next scene without quiet pause.
@@ -1617,11 +1617,11 @@ Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa th
 
 - Ý đồ: Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa thân xe, Tom quyết định nhấn nút kích hoạt bình NOS đầu tiên. (Shot 14.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (14.2) · CUT · RACE_COCKPIT · M**
@@ -1635,11 +1635,11 @@ Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa th
 
 - Ý đồ: Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa thân xe, Tom quyết định nhấn nút kích hoạt bình NOS đầu tiên. (Shot 14.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (14.3) · CUT · RACE_COCKPIT · T**
@@ -1653,11 +1653,11 @@ Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa th
 
 - Ý đồ: Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa thân xe, Tom quyết định nhấn nút kích hoạt bình NOS đầu tiên. (Shot 14.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (14.4) · J · RACE_COCKPIT · C**
@@ -1671,11 +1671,11 @@ Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa th
 
 - Ý đồ: Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa thân xe, Tom quyết định nhấn nút kích hoạt bình NOS đầu tiên. (Shot 14.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (14.5) · CUT · RACE_COCKPIT · H**
@@ -1689,11 +1689,11 @@ Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa th
 
 - Ý đồ: Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa thân xe, Tom quyết định nhấn nút kích hoạt bình NOS đầu tiên. (Shot 14.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (14.6) · L · RACE_COCKPIT · P**
@@ -1707,11 +1707,11 @@ Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa th
 
 - Ý đồ: Bốn chiếc xe lao vút đi; bị chiếc RX-7 của Micdo bỏ lại nửa thân xe, Tom quyết định nhấn nút kích hoạt bình NOS đầu tiên. (Shot 14.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom with Ruggedized ECU Telemetry Laptop and Micdo driving the deep-red RX7 in the adjacent lane visible through the side window, with the DIAG_LAPTOP glowing on Tom's passenger dash anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom holds the primary plane aligned with Micdo driving the deep-red RX7 in the adjacent lane visible through the side window, with the DIAG_LAPTOP glowing on Tom's passenger dash.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_COCKPIT; Tom holds the primary plane aligned with Micdo driving the deep-red RX7 in the adjacent lane visible through the side window, with the DIAG_LAPTOP glowing on Tom's passenger dash. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Ruggedized ECU Telemetry Laptop, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the screaming twin-cam engine, turbocharger whistle and gear shifts across the cut into the next scene without quiet pause.
@@ -1736,11 +1736,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia lửa; Micdo bình thản sang số vượt qua vạch đích trước Tom một thân xe và đòi chìa khóa. (Shot 15.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Tom with the Neon-Green Turbo Sport Coupe and Micdo in his deep-red RX7 crossing the finish line a car-length ahead and stepping out to claim the wager anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom holds the primary plane aligned with Micdo in his deep-red RX7 crossing the finish line a car-length ahead and stepping out to claim the wager.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom holds the primary plane aligned with Micdo in his deep-red RX7 crossing the finish line a car-length ahead and stepping out to claim the wager. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (15.2) · CUT · RACE_MEET · M**
@@ -1754,11 +1754,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia lửa; Micdo bình thản sang số vượt qua vạch đích trước Tom một thân xe và đòi chìa khóa. (Shot 15.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (15.3) · CUT · RACE_MEET · I**
@@ -1772,11 +1772,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia lửa; Micdo bình thản sang số vượt qua vạch đích trước Tom một thân xe và đòi chìa khóa. (Shot 15.3 — INSERT_DETAIL via macro detail 85mm lens).
 - Bố cục: 85mm low-angle finish-line insert framing the RX7 in the foreground and the smoking ECLIPSE one length behind.
-- Vị trí / chuyển động: Both cars cross screen-left to screen-right and brake along the run-off corridor.
+- Vị trí / chuyển động: Both cars cross screen-left to screen-right and brake along the run-off corridor. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Cevin's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the RX7 rear fender and the smoking nose of the ECLIPSE.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (15.4) · J · RACE_MEET · C**
@@ -1790,11 +1790,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia lửa; Micdo bình thản sang số vượt qua vạch đích trước Tom một thân xe và đòi chìa khóa. (Shot 15.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (15.5) · CUT · RACE_MEET · H**
@@ -1808,11 +1808,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia lửa; Micdo bình thản sang số vượt qua vạch đích trước Tom một thân xe và đòi chìa khóa. (Shot 15.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (15.6) · L · RACE_MEET · P**
@@ -1826,11 +1826,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia lửa; Micdo bình thản sang số vượt qua vạch đích trước Tom một thân xe và đòi chìa khóa. (Shot 15.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the thumping bass, revving tuned engines and cheering street crowd across the cut into the next scene without quiet pause.
@@ -1855,11 +1855,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Đèn xanh đỏ và còi cảnh sát LAPD ập tới từ bốn phía; đám đông tán loạn, Micdo bỏ chạy bộ vào hẻm tối và bị xe tuần tra chặn đầu khóa đuôi. (Shot 16.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Cevin and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Cevin moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Cevin moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (16.2) · CUT · RACE_ALLEY · M**
@@ -1873,11 +1873,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Đèn xanh đỏ và còi cảnh sát LAPD ập tới từ bốn phía; đám đông tán loạn, Micdo bỏ chạy bộ vào hẻm tối và bị xe tuần tra chặn đầu khóa đuôi. (Shot 16.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Micdo and Cevin with the Neon-Green Turbo Sport Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (16.3) · CUT · RACE_ALLEY · T**
@@ -1895,7 +1895,7 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (16.4) · J · RACE_ALLEY · C**
@@ -1913,7 +1913,7 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (16.5) · CUT · RACE_ALLEY · H**
@@ -1931,7 +1931,7 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (16.6) · L · RACE_ALLEY · P**
@@ -1945,11 +1945,11 @@ Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia l
 
 - Ý đồ: Đèn xanh đỏ và còi cảnh sát LAPD ập tới từ bốn phía; đám đông tán loạn, Micdo bỏ chạy bộ vào hẻm tối và bị xe tuần tra chặn đầu khóa đuôi. (Shot 16.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the distant police sirens, echoing footsteps and skidding tires across the cut into the next scene without quiet pause.
@@ -1974,11 +1974,11 @@ Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở 
 
 - Ý đồ: Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở toang cửa phụ đón Micdo lên xe rồi phóng vượt qua vòng vây cảnh sát. (Shot 17.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (17.2) · CUT · RACE_ALLEY · M**
@@ -1992,11 +1992,11 @@ Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở 
 
 - Ý đồ: Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở toang cửa phụ đón Micdo lên xe rồi phóng vượt qua vòng vây cảnh sát. (Shot 17.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (17.3) · CUT · RACE_ALLEY · T**
@@ -2010,11 +2010,11 @@ Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở 
 
 - Ý đồ: Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở toang cửa phụ đón Micdo lên xe rồi phóng vượt qua vòng vây cảnh sát. (Shot 17.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (17.4) · J · RACE_ALLEY · C**
@@ -2028,11 +2028,11 @@ Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở 
 
 - Ý đồ: Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở toang cửa phụ đón Micdo lên xe rồi phóng vượt qua vòng vây cảnh sát. (Shot 17.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (17.5) · CUT · RACE_ALLEY · H**
@@ -2046,11 +2046,11 @@ Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở 
 
 - Ý đồ: Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở toang cửa phụ đón Micdo lên xe rồi phóng vượt qua vòng vây cảnh sát. (Shot 17.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (17.6) · L · RACE_ALLEY · P**
@@ -2064,11 +2064,11 @@ Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở 
 
 - Ý đồ: Chiếc Eclipse bốc khói của Tom lao vào hẻm, drift xoay 180 độ mở toang cửa phụ đón Micdo lên xe rồi phóng vượt qua vòng vây cảnh sát. (Shot 17.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the distant police sirens, echoing footsteps and skidding tires across the cut into the next scene without quiet pause.
@@ -2093,11 +2093,11 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 
 - Ý đồ: Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị mười chiếc mô tô phân khối lớn của Ny Tran và Cela Nguyen ép vào bãi đất trống Little Saigon. (Shot 18.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Micdo and Ny Tran with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Ny Tran holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (18.2) · CUT · SAIGON_LOT · M**
@@ -2111,11 +2111,11 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 
 - Ý đồ: Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị mười chiếc mô tô phân khối lớn của Ny Tran và Cela Nguyen ép vào bãi đất trống Little Saigon. (Shot 18.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (18.3) · CUT · SAIGON_LOT · T**
@@ -2129,11 +2129,11 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 
 - Ý đồ: Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị mười chiếc mô tô phân khối lớn của Ny Tran và Cela Nguyen ép vào bãi đất trống Little Saigon. (Shot 18.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (18.4) · J · SAIGON_LOT · C**
@@ -2151,7 +2151,7 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (18.5) · CUT · SAIGON_LOT · H**
@@ -2169,7 +2169,7 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 - Diễn xuất: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (18.6) · L · SAIGON_LOT · P**
@@ -2187,7 +2187,7 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 - Diễn xuất: Cela delivers the line with watchful enforcer tension, coiled shoulder posture, sharp chin movements, and clipped raspy projection, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cela's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cela's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Cela's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the idling sport-bike engines, gravel crunching and night wind across the cut into the next scene without quiet pause.
@@ -2216,7 +2216,7 @@ Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Cela maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (19.2) · CUT · SAIGON_LOT · M**
@@ -2234,7 +2234,7 @@ Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (19.3) · CUT · SAIGON_LOT · T**
@@ -2252,7 +2252,7 @@ Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (19.4) · J · SAIGON_LOT · C**
@@ -2270,7 +2270,7 @@ Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù
 - Diễn xuất: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Cela maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (19.5) · CUT · SAIGON_LOT · H**
@@ -2284,11 +2284,11 @@ Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù
 
 - Ý đồ: Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù mịt giữa tiếng hét bất lực của Tom, rồi cả bọn phóng mô tô bỏ đi. (Shot 19.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Cela and Ny Tran with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Cela moves smoothly on the near side while Ny Tran holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Cela moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cela delivers the line with watchful enforcer tension, coiled shoulder posture, sharp chin movements, and clipped raspy projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cela's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cela's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cela's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (19.6) · L · SAIGON_LOT · P**
@@ -2306,7 +2306,7 @@ Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the idling sport-bike engines, gravel crunching and night wind across the cut into the next scene without quiet pause.
@@ -2335,7 +2335,7 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (20.2) · CUT · TOTO_BACKYARD · M**
@@ -2353,7 +2353,7 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (20.3) · CUT · TOTO_BACKYARD · T**
@@ -2371,7 +2371,7 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (20.4) · J · TOTO_BACKYARD · C**
@@ -2389,7 +2389,7 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (20.5) · CUT · TOTO_BACKYARD · H**
@@ -2407,7 +2407,7 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (20.6) · L · TOTO_BACKYARD · P**
@@ -2425,7 +2425,7 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the charcoal grill sizzle, clinking bottles and warm evening crickets across the cut into the next scene without quiet pause.
@@ -2454,7 +2454,7 @@ Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (21.2) · CUT · TOTO_BACKYARD · M**
@@ -2472,7 +2472,7 @@ Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (21.3) · CUT · TOTO_BACKYARD · T**
@@ -2490,7 +2490,7 @@ Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (21.4) · J · TOTO_BACKYARD · C**
@@ -2508,7 +2508,7 @@ Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (21.5) · CUT · TOTO_BACKYARD · H**
@@ -2526,7 +2526,7 @@ Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (21.6) · L · TOTO_BACKYARD · P**
@@ -2544,7 +2544,7 @@ Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the charcoal grill sizzle, clinking bottles and warm evening crickets across the cut into the next scene without quiet pause.
@@ -2573,7 +2573,7 @@ Sáng hôm sau, Tom chở một khung xe Toyota Supra rỉ sét về gara nhà M
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: metallic hoist chain clatter, garage tool ratchet clicks, and chassis suspension settling onto the lift, clean mechanical contact, and natural breathing layered clearly beneath Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (22.2) · CUT · TOTO_GARAGE · M**
@@ -2591,7 +2591,7 @@ Sáng hôm sau, Tom chở một khung xe Toyota Supra rỉ sét về gara nhà M
 - Diễn xuất: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Onle's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: metallic hoist chain clatter, garage tool ratchet clicks, and chassis suspension settling onto the lift, clean mechanical contact, and natural breathing layered clearly beneath Onle's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (22.3) · CUT · TOTO_GARAGE · I**
@@ -2609,7 +2609,7 @@ Sáng hôm sau, Tom chở một khung xe Toyota Supra rỉ sét về gara nhà M
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Tom's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the aluminum valve cover and twin-turbo housing.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: metallic hoist chain clatter, garage tool ratchet clicks, and chassis suspension settling onto the lift, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (22.4) · J · TOTO_GARAGE · C**
@@ -2627,7 +2627,7 @@ Sáng hôm sau, Tom chở một khung xe Toyota Supra rỉ sét về gara nhà M
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: metallic hoist chain clatter, garage tool ratchet clicks, and chassis suspension settling onto the lift, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (22.5) · CUT · TOTO_GARAGE · H**
@@ -2645,7 +2645,7 @@ Sáng hôm sau, Tom chở một khung xe Toyota Supra rỉ sét về gara nhà M
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Onle maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: metallic hoist chain clatter, garage tool ratchet clicks, and chassis suspension settling onto the lift, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (22.6) · L · TOTO_GARAGE · P**
@@ -2663,7 +2663,7 @@ Sáng hôm sau, Tom chở một khung xe Toyota Supra rỉ sét về gara nhà M
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: metallic hoist chain clatter, garage tool ratchet clicks, and chassis suspension settling onto the lift, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the ratchet wrenches turning, chain hoist clinking and fluorescent hum across the cut into the next scene without quiet pause.
@@ -2692,7 +2692,7 @@ Suốt nhiều đêm liền, Tom cùng Seja và Onle đại tu động cơ và s
 - Diễn xuất: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Onle's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Onle's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (23.2) · CUT · TOTO_GARAGE · M**
@@ -2710,7 +2710,7 @@ Suốt nhiều đêm liền, Tom cùng Seja và Onle đại tu động cơ và s
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (23.3) · CUT · TOTO_GARAGE · I**
@@ -2728,7 +2728,7 @@ Suốt nhiều đêm liền, Tom cùng Seja và Onle đại tu động cơ và s
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Ami's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the polished turbo plumbing and metallic-orange paint.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (23.4) · J · TOTO_GARAGE · C**
@@ -2746,7 +2746,7 @@ Suốt nhiều đêm liền, Tom cùng Seja và Onle đại tu động cơ và s
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (23.5) · CUT · TOTO_GARAGE · H**
@@ -2764,7 +2764,7 @@ Suốt nhiều đêm liền, Tom cùng Seja và Onle đại tu động cơ và s
 - Diễn xuất: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Onle's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Onle's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (23.6) · L · TOTO_GARAGE · P**
@@ -2782,7 +2782,7 @@ Suốt nhiều đêm liền, Tom cùng Seja và Onle đại tu động cơ và s
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the ratchet wrenches turning, chain hoist clinking and fluorescent hum across the cut into the next scene without quiet pause.
@@ -2811,7 +2811,7 @@ Sau khi mọi người về nghỉ, Micdo dẫn Tom vào góc sâu gara, kéo t�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (24.2) · CUT · TOTO_GARAGE · M**
@@ -2829,7 +2829,7 @@ Sau khi mọi người về nghỉ, Micdo dẫn Tom vào góc sâu gara, kéo t�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (24.3) · CUT · TOTO_GARAGE · I**
@@ -2847,7 +2847,7 @@ Sau khi mọi người về nghỉ, Micdo dẫn Tom vào góc sâu gara, kéo t�
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Micdo's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the triple-butterfly intake plates and chrome blower.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (24.4) · J · TOTO_GARAGE · C**
@@ -2865,7 +2865,7 @@ Sau khi mọi người về nghỉ, Micdo dẫn Tom vào góc sâu gara, kéo t�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (24.5) · CUT · TOTO_GARAGE · H**
@@ -2883,7 +2883,7 @@ Sau khi mọi người về nghỉ, Micdo dẫn Tom vào góc sâu gara, kéo t�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (24.6) · L · TOTO_GARAGE · P**
@@ -2901,7 +2901,7 @@ Sau khi mọi người về nghỉ, Micdo dẫn Tom vào góc sâu gara, kéo t�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the ratchet wrenches turning, chain hoist clinking and fluorescent hum across the cut into the next scene without quiet pause.
@@ -2930,7 +2930,7 @@ Rạng sáng, hàng chục xe đặc nhiệm của Nese và Kinan bao vây khu d
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Kinan maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (25.2) · CUT · NYTRAN_MANSION · M**
@@ -2948,7 +2948,7 @@ Rạng sáng, hàng chục xe đặc nhiệm của Nese và Kinan bao vây khu d
 - Diễn xuất: Kinan delivers the line with crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Kinan's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Kinan's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (25.3) · CUT · NYTRAN_MANSION · T**
@@ -2966,7 +2966,7 @@ Rạng sáng, hàng chục xe đặc nhiệm của Nese và Kinan bao vây khu d
 - Diễn xuất: Kinan delivers the line with crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Kinan's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Kinan's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (25.4) · J · NYTRAN_MANSION · C**
@@ -2984,7 +2984,7 @@ Rạng sáng, hàng chục xe đặc nhiệm của Nese và Kinan bao vây khu d
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (25.5) · CUT · NYTRAN_MANSION · H**
@@ -3002,7 +3002,7 @@ Rạng sáng, hàng chục xe đặc nhiệm của Nese và Kinan bao vây khu d
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Kinan maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (25.6) · L · NYTRAN_MANSION · P**
@@ -3020,7 +3020,7 @@ Rạng sáng, hàng chục xe đặc nhiệm của Nese và Kinan bao vây khu d
 - Diễn xuất: Kinan delivers the line with crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Kinan's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Kinan's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the tactical boots on stone, helicopter blades high overhead and rustling papers across the cut into the next scene without quiet pause.
@@ -3049,7 +3049,7 @@ Bị khóa tay dẫn ra sân, Ny Tran bất ngờ nhìn xuyên qua cửa kính x
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (26.2) · CUT · NYTRAN_MANSION · M**
@@ -3067,7 +3067,7 @@ Bị khóa tay dẫn ra sân, Ny Tran bất ngờ nhìn xuyên qua cửa kính x
 - Diễn xuất: Cela delivers the line with watchful enforcer tension, coiled shoulder posture, sharp chin movements, and clipped raspy projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cela's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cela's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Cela's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (26.3) · CUT · NYTRAN_MANSION · T**
@@ -3085,7 +3085,7 @@ Bị khóa tay dẫn ra sân, Ny Tran bất ngờ nhìn xuyên qua cửa kính x
 - Diễn xuất: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (26.4) · J · NYTRAN_MANSION · C**
@@ -3103,7 +3103,7 @@ Bị khóa tay dẫn ra sân, Ny Tran bất ngờ nhìn xuyên qua cửa kính x
 - Diễn xuất: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (26.5) · CUT · NYTRAN_MANSION · H**
@@ -3121,7 +3121,7 @@ Bị khóa tay dẫn ra sân, Ny Tran bất ngờ nhìn xuyên qua cửa kính x
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (26.6) · L · NYTRAN_MANSION · P**
@@ -3139,7 +3139,7 @@ Bị khóa tay dẫn ra sân, Ny Tran bất ngờ nhìn xuyên qua cửa kính x
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the tactical boots on stone, helicopter blades high overhead and rustling papers across the cut into the next scene without quiet pause.
@@ -3168,7 +3168,7 @@ Trong kho hàng phía sau, Nese kiểm tra toàn bộ kiện hàng điện tử 
 - Diễn xuất: Kinan delivers the line with crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with Stamped Customs Clearance Ledger, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Kinan's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Kinan's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (27.2) · CUT · NYTRAN_WAREHOUSE · M**
@@ -3186,7 +3186,7 @@ Trong kho hàng phía sau, Nese kiểm tra toàn bộ kiện hàng điện tử 
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with Stamped Customs Clearance Ledger, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (27.3) · CUT · NYTRAN_WAREHOUSE · I**
@@ -3204,7 +3204,7 @@ Trong kho hàng phía sau, Nese kiểm tra toàn bộ kiện hàng điện tử 
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Nese's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the red customs seal impressions and ledger binding.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (27.4) · J · NYTRAN_WAREHOUSE · C**
@@ -3222,7 +3222,7 @@ Trong kho hàng phía sau, Nese kiểm tra toàn bộ kiện hàng điện tử 
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Kinan maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (27.5) · CUT · NYTRAN_WAREHOUSE · H**
@@ -3240,7 +3240,7 @@ Trong kho hàng phía sau, Nese kiểm tra toàn bộ kiện hàng điện tử 
 - Diễn xuất: Kinan delivers the line with crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with Stamped Customs Clearance Ledger, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Kinan's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Kinan's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (27.6) · L · NYTRAN_WAREHOUSE · P**
@@ -3258,7 +3258,7 @@ Trong kho hàng phía sau, Nese kiểm tra toàn bộ kiện hàng điện tử 
 - Diễn xuất: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Nese's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the echoing footsteps on concrete and flipping ledger pages across the cut into the next scene without quiet pause.
@@ -3283,11 +3283,11 @@ Giữa cái nắng cháy da của sa mạc Mojave, hàng ngàn chiếc xe quy t�
 
 - Ý đồ: Giữa cái nắng cháy da của sa mạc Mojave, hàng ngàn chiếc xe quy tụ tại Race Wars; Seja hào hứng chuẩn bị chiếc Volkswagen Jetta trắng bên lán trại của Micdo. (Shot 28.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Micdo and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (28.2) · CUT · RACE_WARS · M**
@@ -3305,7 +3305,7 @@ Giữa cái nắng cháy da của sa mạc Mojave, hàng ngàn chiếc xe quy t�
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (28.3) · CUT · RACE_WARS · T**
@@ -3323,7 +3323,7 @@ Giữa cái nắng cháy da của sa mạc Mojave, hàng ngàn chiếc xe quy t�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (28.4) · J · RACE_WARS · C**
@@ -3337,11 +3337,11 @@ Giữa cái nắng cháy da của sa mạc Mojave, hàng ngàn chiếc xe quy t�
 
 - Ý đồ: Giữa cái nắng cháy da của sa mạc Mojave, hàng ngàn chiếc xe quy tụ tại Race Wars; Seja hào hứng chuẩn bị chiếc Volkswagen Jetta trắng bên lán trại của Micdo. (Shot 28.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Ami and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Ami moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Ami moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (28.5) · CUT · RACE_WARS · H**
@@ -3359,7 +3359,7 @@ Giữa cái nắng cháy da của sa mạc Mojave, hàng ngàn chiếc xe quy t�
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (28.6) · L · RACE_WARS · P**
@@ -3377,7 +3377,7 @@ Giữa cái nắng cháy da của sa mạc Mojave, hàng ngàn chiếc xe quy t�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the roaring engines, desert wind and crowd murmur across the tarmac across the cut into the next scene without quiet pause.
@@ -3402,11 +3402,11 @@ Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đư�
 
 - Ý đồ: Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đường nhưng Ny Tran lạnh lùng bấm nút xả hệ thống NOS ẩn dưới ghế, vượt qua Seja ở những mét cuối cùng. (Shot 29.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Seja and Ny Tran with the Jet-Black Open Roadster anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja moves smoothly on the near side while Ny Tran holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Jet-Black Open Roadster, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (29.2) · CUT · RACE_WARS · M**
@@ -3420,11 +3420,11 @@ Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đư�
 
 - Ý đồ: Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đường nhưng Ny Tran lạnh lùng bấm nút xả hệ thống NOS ẩn dưới ghế, vượt qua Seja ở những mét cuối cùng. (Shot 29.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Seja with the Alpine-White Tuned Sport Sedan and Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane aligned with Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane aligned with Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (29.3) · CUT · RACE_WARS · I**
@@ -3438,11 +3438,11 @@ Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đư�
 
 - Ý đồ: Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đường nhưng Ny Tran lạnh lùng bấm nút xả hệ thống NOS ẩn dưới ghế, vượt qua Seja ở những mét cuối cùng. (Shot 29.3 — INSERT_DETAIL via macro detail 85mm lens).
 - Bố cục: 85mm mechanical cockpit insert framing the concealed under-seat NOS cylinders, toggle switch, and digital tachometer.
-- Vị trí / chuyển động: Gloved hand flips the toggle at 0.0s; camera tilts slightly from the under-seat cylinders to the tachometer.
+- Vị trí / chuyển động: Gloved hand flips the toggle at 0.0s; camera tilts slightly from the under-seat cylinders to the tachometer. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Ny Tran's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the nitrous solenoid valve and digital rpm bar.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (29.4) · J · RACE_WARS · C**
@@ -3456,11 +3456,11 @@ Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đư�
 
 - Ý đồ: Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đường nhưng Ny Tran lạnh lùng bấm nút xả hệ thống NOS ẩn dưới ghế, vượt qua Seja ở những mét cuối cùng. (Shot 29.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Ny Tran and Seja with the Jet-Black Open Roadster anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Ny Tran moves smoothly on the near side while Seja holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Ny Tran moves smoothly on the near side while Seja holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Jet-Black Open Roadster, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (29.5) · CUT · RACE_WARS · H**
@@ -3474,11 +3474,11 @@ Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đư�
 
 - Ý đồ: Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đường nhưng Ny Tran lạnh lùng bấm nút xả hệ thống NOS ẩn dưới ghế, vượt qua Seja ở những mét cuối cùng. (Shot 29.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Seja and Ny Tran with the Jet-Black Open Roadster anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja moves smoothly on the near side while Ny Tran holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Jet-Black Open Roadster, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (29.6) · L · RACE_WARS · P**
@@ -3492,11 +3492,11 @@ Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đư�
 
 - Ý đồ: Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đường nhưng Ny Tran lạnh lùng bấm nút xả hệ thống NOS ẩn dưới ghế, vượt qua Seja ở những mét cuối cùng. (Shot 29.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Seja with the Alpine-White Tuned Sport Sedan and Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane aligned with Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane aligned with Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the roaring engines, desert wind and crowd murmur across the tarmac across the cut into the next scene without quiet pause.
@@ -3525,7 +3525,7 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 - Diễn xuất: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, clean mechanical contact, and natural breathing layered clearly beneath Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (30.2) · CUT · RACE_WARS · M**
@@ -3543,7 +3543,7 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (30.3) · CUT · RACE_WARS · T**
@@ -3561,7 +3561,7 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 - Diễn xuất: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, clean mechanical contact, and natural breathing layered clearly beneath Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (30.4) · J · RACE_WARS · C**
@@ -3579,7 +3579,7 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (30.5) · CUT · RACE_WARS · H**
@@ -3597,7 +3597,7 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 - Diễn xuất: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Jet-Black Open Roadster, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ny Tran's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, clean mechanical contact, and natural breathing layered clearly beneath Ny Tran's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (30.6) · L · RACE_WARS · P**
@@ -3615,7 +3615,7 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the roaring engines, desert wind and crowd murmur across the tarmac across the cut into the next scene without quiet pause.
@@ -3644,7 +3644,7 @@ Tom lao tới chặn Ami lại khi cô định đi theo; bị Ami tra hỏi vì 
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (31.2) · CUT · TOTO_GARAGE · M**
@@ -3662,7 +3662,7 @@ Tom lao tới chặn Ami lại khi cô định đi theo; bị Ami tra hỏi vì 
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (31.3) · CUT · TOTO_GARAGE · T**
@@ -3680,7 +3680,7 @@ Tom lao tới chặn Ami lại khi cô định đi theo; bị Ami tra hỏi vì 
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (31.4) · J · TOTO_GARAGE · C**
@@ -3698,7 +3698,7 @@ Tom lao tới chặn Ami lại khi cô định đi theo; bị Ami tra hỏi vì 
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (31.5) · CUT · TOTO_GARAGE · H**
@@ -3716,7 +3716,7 @@ Tom lao tới chặn Ami lại khi cô định đi theo; bị Ami tra hỏi vì 
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (31.6) · L · TOTO_GARAGE · P**
@@ -3730,11 +3730,11 @@ Tom lao tới chặn Ami lại khi cô định đi theo; bị Ami tra hỏi vì 
 
 - Ý đồ: Tom lao tới chặn Ami lại khi cô định đi theo; bị Ami tra hỏi vì sao biết tài xế Verni đã vũ trang, Tom nghẹn ngào thú nhận mình là cảnh sát chìm LAPD rồi đưa cô lên chiếc Supra đuổi theo. (Shot 31.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Ami with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Ami holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the ratchet wrenches turning, chain hoist clinking and fluorescent hum across the cut into the next scene without quiet pause.
@@ -3759,11 +3759,11 @@ Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni
 
 - Ý đồ: Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni; khi Cevin đu cáp sang cabin, Verni bất ngờ hạ kính đánh trả quyết liệt khiến Cevin mất thăng bằng và treo lơ lửng trên dây cáp. (Shot 32.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Micdo and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (32.2) · CUT · DESERT_HIGHWAY · M**
@@ -3777,11 +3777,11 @@ Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni
 
 - Ý đồ: Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni; khi Cevin đu cáp sang cabin, Verni bất ngờ hạ kính đánh trả quyết liệt khiến Cevin mất thăng bằng và treo lơ lửng trên dây cáp. (Shot 32.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Cevin with the 18-Wheel Charcoal Semi-Truck & Silver Trailer and Verni defending the RIG_18 cab from the left driver seat while Micdo (MICDO_H) steers the lead coupe anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cevin holds the primary plane aligned with Verni defending the RIG_18 cab from the left driver seat while Micdo (MICDO_H) steers the lead coupe.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cevin holds the primary plane aligned with Verni defending the RIG_18 cab from the left driver seat while Micdo (MICDO_H) steers the lead coupe. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (32.3) · CUT · DESERT_HIGHWAY · T**
@@ -3795,11 +3795,11 @@ Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni
 
 - Ý đồ: Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni; khi Cevin đu cáp sang cabin, Verni bất ngờ hạ kính đánh trả quyết liệt khiến Cevin mất thăng bằng và treo lơ lửng trên dây cáp. (Shot 32.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Verni and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Verni moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Verni moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Verni delivers the line with hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Verni's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Verni's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Verni's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (32.4) · J · DESERT_HIGHWAY · C**
@@ -3813,11 +3813,11 @@ Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni
 
 - Ý đồ: Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni; khi Cevin đu cáp sang cabin, Verni bất ngờ hạ kính đánh trả quyết liệt khiến Cevin mất thăng bằng và treo lơ lửng trên dây cáp. (Shot 32.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Micdo and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (32.5) · CUT · DESERT_HIGHWAY · H**
@@ -3831,11 +3831,11 @@ Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni
 
 - Ý đồ: Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni; khi Cevin đu cáp sang cabin, Verni bất ngờ hạ kính đánh trả quyết liệt khiến Cevin mất thăng bằng và treo lơ lửng trên dây cáp. (Shot 32.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Cevin and Micdo with the Three Matte-Black Precision Coupes anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cevin moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cevin moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cevin's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (32.6) · L · DESERT_HIGHWAY · P**
@@ -3849,11 +3849,11 @@ Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni
 
 - Ý đồ: Trên xa lộ sa mạc, băng của Micdo áp sát chiếc container của Verni; khi Cevin đu cáp sang cabin, Verni bất ngờ hạ kính đánh trả quyết liệt khiến Cevin mất thăng bằng và treo lơ lửng trên dây cáp. (Shot 32.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Micdo and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the heavy diesel engine, high-speed wind and tires roaring on hot asphalt across the cut into the next scene without quiet pause.
@@ -3878,11 +3878,11 @@ Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe c
 
 - Ý đồ: Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe cô trượt văng khỏi làn đường; đúng lúc Micdo gào qua bộ đàm thì chiếc Toyota Supra cam của Tom và Ami xé gió lao tới. (Shot 33.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Cina with the Three Matte-Black Precision Coupes and Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cina holds the primary plane aligned with Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cina holds the primary plane aligned with Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (33.2) · CUT · DESERT_HIGHWAY · M**
@@ -3896,11 +3896,11 @@ Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe c
 
 - Ý đồ: Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe cô trượt văng khỏi làn đường; đúng lúc Micdo gào qua bộ đàm thì chiếc Toyota Supra cam của Tom và Ami xé gió lao tới. (Shot 33.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Cina with the Three Matte-Black Precision Coupes and Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cina holds the primary plane aligned with Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cina holds the primary plane aligned with Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Cina's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cina's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (33.3) · CUT · DESERT_HIGHWAY · T**
@@ -3914,11 +3914,11 @@ Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe c
 
 - Ý đồ: Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe cô trượt văng khỏi làn đường; đúng lúc Micdo gào qua bộ đàm thì chiếc Toyota Supra cam của Tom và Ami xé gió lao tới. (Shot 33.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Micdo and Cina with the Three Matte-Black Precision Coupes anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cina holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cina holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Cina maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (33.4) · J · DESERT_HIGHWAY · C**
@@ -3932,11 +3932,11 @@ Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe c
 
 - Ý đồ: Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe cô trượt văng khỏi làn đường; đúng lúc Micdo gào qua bộ đàm thì chiếc Toyota Supra cam của Tom và Ami xé gió lao tới. (Shot 33.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Micdo with the Three Matte-Black Precision Coupes and Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo holds the primary plane aligned with Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo holds the primary plane aligned with Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (33.5) · CUT · DESERT_HIGHWAY · H**
@@ -3950,11 +3950,11 @@ Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe c
 
 - Ý đồ: Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe cô trượt văng khỏi làn đường; đúng lúc Micdo gào qua bộ đàm thì chiếc Toyota Supra cam của Tom và Ami xé gió lao tới. (Shot 33.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Micdo and Tom with the 18-Wheel Charcoal Semi-Truck & Silver Trailer anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (33.6) · L · DESERT_HIGHWAY · P**
@@ -3968,11 +3968,11 @@ Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe c
 
 - Ý đồ: Verni ép mạnh làm xẹp lốp trước chiếc Civic của Cina khiến xe cô trượt văng khỏi làn đường; đúng lúc Micdo gào qua bộ đàm thì chiếc Toyota Supra cam của Tom và Ami xé gió lao tới. (Shot 33.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Ami with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the heavy diesel engine, high-speed wind and tires roaring on hot asphalt across the cut into the next scene without quiet pause.
@@ -3997,11 +3997,11 @@ Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài n
 
 - Ý đồ: Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài nửa người ra ngoài cửa sổ cắt đứt sợi cáp thép và kéo Cevin vào ghế sau. (Shot 34.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Tom and Ami with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (34.2) · CUT · DESERT_HIGHWAY · M**
@@ -4015,11 +4015,11 @@ Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài n
 
 - Ý đồ: Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài nửa người ra ngoài cửa sổ cắt đứt sợi cáp thép và kéo Cevin vào ghế sau. (Shot 34.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Ami and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Ami moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Ami moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (34.3) · CUT · DESERT_HIGHWAY · I**
@@ -4033,11 +4033,11 @@ Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài n
 
 - Ý đồ: Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài nửa người ra ngoài cửa sổ cắt đứt sợi cáp thép và kéo Cevin vào ghế sau. (Shot 34.3 — INSERT_DETAIL via macro detail 85mm lens).
 - Bố cục: 85mm close mechanical insert on the steel cable cutters and braided HARPOON_CABLE.
-- Vị trí / chuyển động: Cutters clamp from screen right and sever the tensioned cable at center frame.
+- Vị trí / chuyển động: Cutters clamp from screen right and sever the tensioned cable at center frame. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Tom's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the cutter jaws and snapping steel cable strands.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (34.4) · J · DESERT_HIGHWAY · C**
@@ -4051,11 +4051,11 @@ Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài n
 
 - Ý đồ: Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài nửa người ra ngoài cửa sổ cắt đứt sợi cáp thép và kéo Cevin vào ghế sau. (Shot 34.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Tom and Cevin with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Cevin holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (34.5) · CUT · DESERT_HIGHWAY · H**
@@ -4069,11 +4069,11 @@ Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài n
 
 - Ý đồ: Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài nửa người ra ngoài cửa sổ cắt đứt sợi cáp thép và kéo Cevin vào ghế sau. (Shot 34.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Tom and Ami with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (34.6) · L · DESERT_HIGHWAY · P**
@@ -4087,11 +4087,11 @@ Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài n
 
 - Ý đồ: Tom giao vô lăng chiếc Supra cho Ami giữ thẳng lái, còn mình nhoài nửa người ra ngoài cửa sổ cắt đứt sợi cáp thép và kéo Cevin vào ghế sau. (Shot 34.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Ami with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the heavy diesel engine, high-speed wind and tires roaring on hot asphalt across the cut into the next scene without quiet pause.
@@ -4120,7 +4120,7 @@ Dừng xe bên lề sa mạc, thấy Cevin nguy kịch không thể chờ xe c�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (35.2) · CUT · DESERT_HIGHWAY · M**
@@ -4138,7 +4138,7 @@ Dừng xe bên lề sa mạc, thấy Cevin nguy kịch không thể chờ xe c�
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (35.3) · CUT · DESERT_HIGHWAY · T**
@@ -4156,7 +4156,7 @@ Dừng xe bên lề sa mạc, thấy Cevin nguy kịch không thể chờ xe c�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (35.4) · J · DESERT_HIGHWAY · C**
@@ -4174,7 +4174,7 @@ Dừng xe bên lề sa mạc, thấy Cevin nguy kịch không thể chờ xe c�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (35.5) · CUT · DESERT_HIGHWAY · H**
@@ -4192,7 +4192,7 @@ Dừng xe bên lề sa mạc, thấy Cevin nguy kịch không thể chờ xe c�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (35.6) · L · DESERT_HIGHWAY · P**
@@ -4210,7 +4210,7 @@ Dừng xe bên lề sa mạc, thấy Cevin nguy kịch không thể chờ xe c�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the heavy diesel engine, high-speed wind and tires roaring on hot asphalt across the cut into the next scene without quiet pause.
@@ -4235,11 +4235,11 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 
 - Ý đồ: Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng trở về xin lỗi thì hai chiếc mô tô của Ny Tran và Cela Nguyen lao qua ép sát khiến Seja mất thăng bằng ngã xuống trên bãi cỏ. (Shot 36.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Micdo and Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (36.2) · CUT · TOTO_FRONT · M**
@@ -4257,7 +4257,7 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 - Diễn xuất: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Seja's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (36.3) · CUT · TOTO_FRONT · T**
@@ -4271,11 +4271,11 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 
 - Ý đồ: Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng trở về xin lỗi thì hai chiếc mô tô của Ny Tran và Cela Nguyen lao qua ép sát khiến Seja mất thăng bằng ngã xuống trên bãi cỏ. (Shot 36.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Micdo and Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (36.4) · J · TOTO_FRONT · C**
@@ -4289,11 +4289,11 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 
 - Ý đồ: Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng trở về xin lỗi thì hai chiếc mô tô của Ny Tran và Cela Nguyen lao qua ép sát khiến Seja mất thăng bằng ngã xuống trên bãi cỏ. (Shot 36.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Micdo and Ami with the Alpine-White Tuned Sport Sedan anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Ami holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (36.5) · CUT · TOTO_FRONT · H**
@@ -4307,11 +4307,11 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 
 - Ý đồ: Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng trở về xin lỗi thì hai chiếc mô tô của Ny Tran và Cela Nguyen lao qua ép sát khiến Seja mất thăng bằng ngã xuống trên bãi cỏ. (Shot 36.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Micdo and Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (36.6) · L · TOTO_FRONT · P**
@@ -4329,7 +4329,7 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the evening breeze through palm fronds and approaching engines across the cut into the next scene without quiet pause.
@@ -4358,7 +4358,7 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (37.2) · CUT · TOTO_GARAGE · M**
@@ -4376,7 +4376,7 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 - Diễn xuất: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Ami's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (37.3) · CUT · TOTO_GARAGE · T**
@@ -4394,7 +4394,7 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (37.4) · J · TOTO_GARAGE · C**
@@ -4408,11 +4408,11 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 
 - Ý đồ: Đôi mắt hằn đỏ vì Seja gặp nạn, Micdo chạy vào gara giật tung tấm bạt phủ chiếc Dodge Charger 1970 công suất 900 mã lực của cha mình và phóng đi truy đuổi Ny Tran bất chấp tiếng gọi của Tom. (Shot 37.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Micdo with the 1970 Matte-Black Supercharged Muscle Car and Tom (TOM_R) and Ami watching before Tom jumps into the metallic-orange SUPRA to pursue anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Micdo holds the primary plane aligned with Tom (TOM_R) and Ami watching before Tom jumps into the metallic-orange SUPRA to pursue.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Micdo holds the primary plane aligned with Tom (TOM_R) and Ami watching before Tom jumps into the metallic-orange SUPRA to pursue. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (37.5) · CUT · TOTO_GARAGE · H**
@@ -4426,11 +4426,11 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 
 - Ý đồ: Đôi mắt hằn đỏ vì Seja gặp nạn, Micdo chạy vào gara giật tung tấm bạt phủ chiếc Dodge Charger 1970 công suất 900 mã lực của cha mình và phóng đi truy đuổi Ny Tran bất chấp tiếng gọi của Tom. (Shot 37.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (37.6) · L · TOTO_GARAGE · P**
@@ -4444,11 +4444,11 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 
 - Ý đồ: Đôi mắt hằn đỏ vì Seja gặp nạn, Micdo chạy vào gara giật tung tấm bạt phủ chiếc Dodge Charger 1970 công suất 900 mã lực của cha mình và phóng đi truy đuổi Ny Tran bất chấp tiếng gọi của Tom. (Shot 37.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the ratchet wrenches turning, chain hoist clinking and fluorescent hum across the cut into the next scene without quiet pause.
@@ -4473,11 +4473,11 @@ Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra l�
 
 - Ý đồ: Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra lên song song khống chế chuẩn nhịp khiến mô tô của Ny Tran mất lái lao xuống kênh thoát nước hư hỏng nặng. (Shot 38.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Micdo and Ny Tran with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Micdo moves smoothly on the near side while Ny Tran holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Micdo moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (38.2) · CUT · LA_HILLS_ROAD · M**
@@ -4491,11 +4491,11 @@ Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra l�
 
 - Ý đồ: Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra lên song song khống chế chuẩn nhịp khiến mô tô của Ny Tran mất lái lao xuống kênh thoát nước hư hỏng nặng. (Shot 38.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Tom and Ny Tran with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Tom moves smoothly on the near side while Ny Tran holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Tom moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (38.3) · CUT · LA_HILLS_ROAD · I**
@@ -4509,11 +4509,11 @@ Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra l�
 
 - Ý đồ: Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra lên song song khống chế chuẩn nhịp khiến mô tô của Ny Tran mất lái lao xuống kênh thoát nước hư hỏng nặng. (Shot 38.3 — INSERT_DETAIL via macro detail 85mm lens).
 - Bố cục: 85mm low-angle vehicle-mounted pursuit insert framing the Supra wheel on screen left and the motorcycle wheel on screen right.
-- Vị trí / chuyển động: Both vehicles race downhill screen-left to screen-right at high speed.
+- Vị trí / chuyển động: Both vehicles race downhill screen-left to screen-right at high speed. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Tom's voice plays cleanly off screen.
 - Điểm nét: Tack-sharp focus on the Supra front wheel and motorcycle fairing.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 **Clip 4 (38.4) · J · LA_HILLS_ROAD · C**
@@ -4527,11 +4527,11 @@ Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra l�
 
 - Ý đồ: Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra lên song song khống chế chuẩn nhịp khiến mô tô của Ny Tran mất lái lao xuống kênh thoát nước hư hỏng nặng. (Shot 38.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Tom and Ny Tran with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Tom moves smoothly on the near side while Ny Tran holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Tom moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (38.5) · CUT · LA_HILLS_ROAD · H**
@@ -4545,11 +4545,11 @@ Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra l�
 
 - Ý đồ: Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra lên song song khống chế chuẩn nhịp khiến mô tô của Ny Tran mất lái lao xuống kênh thoát nước hư hỏng nặng. (Shot 38.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Tom and Micdo with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (38.6) · L · LA_HILLS_ROAD · P**
@@ -4563,11 +4563,11 @@ Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra l�
 
 - Ý đồ: Ny Tran quay đầu mô tô định ép xe Micdo nhưng Tom lao chiếc Supra lên song song khống chế chuẩn nhịp khiến mô tô của Ny Tran mất lái lao xuống kênh thoát nước hư hỏng nặng. (Shot 38.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Micdo with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the supercharger whine, screaming tires and roaring exhausts across the cut into the next scene without quiet pause.
@@ -4592,11 +4592,11 @@ Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua 
 
 - Ý đồ: Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua đường ray chỉ một tích tắc trước mũi tàu hỏa nhưng ngay sau đó va chạm vào xe tải ngang đường, xoay vòng dừng lại bên lề. (Shot 39.1 — ESTABLISHING_WIDE via wide 35mm lens).
 - Bố cục: Frame Micdo and Tom with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the wide 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (39.2) · CUT · RAIL_CROSSING · M**
@@ -4610,11 +4610,11 @@ Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua 
 
 - Ý đồ: Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua đường ray chỉ một tích tắc trước mũi tàu hỏa nhưng ngay sau đó va chạm vào xe tải ngang đường, xoay vòng dừng lại bên lề. (Shot 39.2 — SCENE_MEDIUM via medium two-shot 50mm lens).
 - Bố cục: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the medium two-shot 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (39.3) · CUT · RAIL_CROSSING · T**
@@ -4628,11 +4628,11 @@ Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua 
 
 - Ý đồ: Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua đường ray chỉ một tích tắc trước mũi tàu hỏa nhưng ngay sau đó va chạm vào xe tải ngang đường, xoay vòng dừng lại bên lề. (Shot 39.3 — VEHICLE_PURSUIT_TRACK via low-angle tracking 35mm lens).
 - Bố cục: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the low-angle tracking 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (39.4) · J · RAIL_CROSSING · C**
@@ -4646,11 +4646,11 @@ Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua 
 
 - Ý đồ: Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua đường ray chỉ một tích tắc trước mũi tàu hỏa nhưng ngay sau đó va chạm vào xe tải ngang đường, xoay vòng dừng lại bên lề. (Shot 39.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 - Bố cục: Frame Micdo and Tom with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the tight close-up 85mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (39.5) · CUT · RAIL_CROSSING · H**
@@ -4664,11 +4664,11 @@ Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua 
 
 - Ý đồ: Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua đường ray chỉ một tích tắc trước mũi tàu hỏa nhưng ngay sau đó va chạm vào xe tải ngang đường, xoay vòng dừng lại bên lề. (Shot 39.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (39.6) · L · RAIL_CROSSING · P**
@@ -4682,11 +4682,11 @@ Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua 
 
 - Ý đồ: Hai chiếc xe gầm rú lao vút đi, chiếc Charger bốc đầu vượt qua đường ray chỉ một tích tắc trước mũi tàu hỏa nhưng ngay sau đó va chạm vào xe tải ngang đường, xoay vòng dừng lại bên lề. (Shot 39.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the clanging railroad crossing bell, freight train horn and rumbling V8 engine across the cut into the next scene without quiet pause.
@@ -4715,7 +4715,7 @@ Tom đỡ Micdo bước ra khỏi khung chiếc Charger ngay khi còi cảnh sá
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 **Clip 2 (40.2) · CUT · CROSSING_BEYOND · M**
@@ -4733,7 +4733,7 @@ Tom đỡ Micdo bước ra khỏi khung chiếc Charger ngay khi còi cảnh sá
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
 
 **Clip 3 (40.3) · CUT · CROSSING_BEYOND · T**
@@ -4751,7 +4751,7 @@ Tom đỡ Micdo bước ra khỏi khung chiếc Charger ngay khi còi cảnh sá
 - Diễn xuất: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with Metallic-Orange Supra Ignition Key, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Micdo's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 - Nhịp diễn: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
 
 **Clip 4 (40.4) · J · CROSSING_BEYOND · C**
@@ -4769,7 +4769,7 @@ Tom đỡ Micdo bước ra khỏi khung chiếc Charger ngay khi còi cảnh sá
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Metallic-Orange Supra Ignition Key, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
 
 **Clip 5 (40.5) · CUT · CROSSING_BEYOND · H**
@@ -4783,11 +4783,11 @@ Tom đỡ Micdo bước ra khỏi khung chiếc Charger ngay khi còi cảnh sá
 
 - Ý đồ: Tom đỡ Micdo bước ra khỏi khung chiếc Charger ngay khi còi cảnh sát của Nese vang lên từ xa; Tom đặt chìa khóa chiếc Supra cam vào tay Micdo để trả nợ 'con xe 10 giây' rồi một mình đứng lại chịu trách nhiệm. (Shot 40.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 - Bố cục: Frame Tom and Micdo with Metallic-Orange Supra Ignition Key anchored clearly in the kinetic handheld 35mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside CROSSING_BEYOND; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside CROSSING_BEYOND; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Metallic-Orange Supra Ignition Key, maintaining readable background depth.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
 
 **Clip 6 (40.6) · L · CROSSING_BEYOND · P**
@@ -4801,11 +4801,11 @@ Tom đỡ Micdo bước ra khỏi khung chiếc Charger ngay khi còi cảnh sá
 
 - Ý đồ: Tom đỡ Micdo bước ra khỏi khung chiếc Charger ngay khi còi cảnh sát của Nese vang lên từ xa; Tom đặt chìa khóa chiếc Supra cam vào tay Micdo để trả nợ 'con xe 10 giây' rồi một mình đứng lại chịu trách nhiệm. (Shot 40.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 - Bố cục: Frame Tom and Nese with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside CROSSING_BEYOND; Tom moves smoothly on the near side while Nese holds the counter-angle.
+- Vị trí / chuyển động: Preserve left-to-right 180-degree spatial continuity inside CROSSING_BEYOND; Tom moves smoothly on the near side while Nese holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 - Diễn xuất: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 - Điểm nét: Keep tack-sharp focus on Tom's eyes, natural breathing, and calm posture on the desert road as Nese steps into the background depth plane.
 - Chất liệu: Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
-- Âm nổi: Clean mechanical contact, engine cadence and natural breathing beneath Tom's Southern Vietnamese dialogue.
+- Âm nổi: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 - Nhịp diễn: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
 
 Âm nối sang cảnh sau: Carry the ticking hot metal, distant approaching sirens and desert wind across the cut into the next scene without quiet pause.

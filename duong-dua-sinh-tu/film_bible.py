@@ -835,10 +835,14 @@ ACTION_STUNT_CHOREOGRAPHY_RULE: str = (
 
 PHYSICS_RULES: dict[str, str] = {
     "vehicle": (
-        "Vehicle physics & fluid kinematics: vehicles obey real mass, progressive suspension compression, tire-asphalt grip, "
-        "smooth steering geometry, and continuous forward momentum across 0.0s–10.0s; all wheels rotate in sync with ground speed "
-        "and stay planted on the road surface; 18-wheel tractor and trailer articulate naturally at the fifth-wheel pivot; "
-        "vehicle body dimensions, wheel count, paint color, and left-hand driver seat position never morph."
+        "Vehicle physics, spinning wheels & same-direction lock: vehicles obey real mass, progressive suspension compression, "
+        "tire-asphalt grip, smooth steering geometry, and continuous forward momentum across 0.0s–10.0s; all wheels, rims, and "
+        "tire treads on every moving vehicle spin rapidly forward in exact sync with ground speed with realistic rotational motion "
+        "blur and stay planted on the road surface (never show stationary, frozen, or backward-spinning wheels on a moving vehicle); "
+        "all moving vehicles in any chase, convoy, heist formation, or race travel in the exact same left-to-right forward direction "
+        "along the established road axis (never facing head-on against each other or reversing screen direction); 18-wheel tractor and "
+        "trailer articulate naturally at the fifth-wheel pivot; vehicle body dimensions, wheel count, paint color, and left-hand driver "
+        "seat position never morph."
     ),
     "character": (
         "Human physics, fluid body follow-through & face lock: continuous natural weight transfer across the feet and hips, "
@@ -856,6 +860,20 @@ PHYSICS_RULES: dict[str, str] = {
         "physically to vehicle speed and light direction through the final frame at 10.0s."
     ),
     "action_stunt": ACTION_STUNT_CHOREOGRAPHY_RULE,
+}
+
+VEHICLE_SFX_LOCK: dict[str, str] = {
+    "RIG_18": "deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss",
+    "CIVIC_TRIO": "high-revving twin-cam 4-cylinder exhaust snarl, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar",
+    "ECLIPSE": "aggressive turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip",
+    "RX7": "signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt",
+    "F150_TRUCK": "throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt",
+    "MOTO_PACK": "pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction",
+    "SUPRA_SHELL": "metallic hoist chain clatter, garage tool ratchet clicks, and chassis suspension settling onto the lift",
+    "SUPRA": "ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt",
+    "CHARGER": "earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip",
+    "JETTA": "high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction",
+    "S2000": "screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar",
 }
 
 CINEMATIC_STYLE: dict[str, Any] = {

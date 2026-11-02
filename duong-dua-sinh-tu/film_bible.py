@@ -35,7 +35,7 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "costumes": {
             "TOM": "fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist",
             "TOM_R": "matte-black leather bomber jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist",
-            "TOM_B": "open dark-blue work shirt over charcoal T-shirt, subtle cheekbone bruise and soot smudge on jaw, dark jeans, worn work boots",
+            "TOM_B": "open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots",
         },
     },
     "MICDO": {
@@ -53,7 +53,7 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "costumes": {
             "MICDO": "fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots",
             "MICDO_H": "black tactical driving windbreaker zipped over dark shirt, black leather driving gloves, dark cargo trousers, heavy boots",
-            "MICDO_W": "scuffed black leather jacket over white tank top, minor forehead scrape from the rollover, bare hands, dark jeans, heavy boots",
+            "MICDO_W": "scuffed black leather jacket over white tank top, light dust smudge on forehead after the stunt spin, bare hands, dark jeans, heavy boots",
         },
     },
     "AMI": {
@@ -88,7 +88,7 @@ CHARACTER_LOCK: dict[str, dict[str, Any]] = {
         "costumes": {
             "CEVIN": "maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots",
             "CEVIN_H": "black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants",
-            "CEVIN_W": "torn black tactical vest with a clean field compress held against his bruised side, sweat-streaked face, fingerless gloves",
+            "CEVIN_W": "scuffed black tactical vest with a clean folded towel held against his waist harness after the high-speed stunt, sweat-streaked face, fingerless gloves",
         },
     },
     "CINA": {
@@ -288,9 +288,9 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
         "damage_states": [
             ((5, 1), (14, 5), "pristine neon-green bodywork and carbon-fiber hood, twin NOS bottles pressurized in rear mount"),
             ((14, 6), (15, 1), "stage-1 NOS engaged at full boost, intake manifold running hot under redline load, exterior bodywork intact"),
-            ((15, 2), (18, 6), "over-boosted intake manifold smoking lightly, passenger-side metal floor panel unlatched from high-speed friction sparks, minor front bumper scrape"),
-            ((19, 1), (19, 1), "parked in the Little Saigon gravel lot with rear fuel and nitrous lines punctured and venting pressure"),
-            ((19, 2), (20, 6), "engulfed in flames and reduced to a blackened scorched frame in the Little Saigon gravel lot"),
+            ((15, 2), (18, 6), "over-boosted intake manifold steaming lightly, passenger-side metal floor panel unlatched from high-speed friction sparks, minor front bumper rub mark"),
+            ((19, 1), (19, 1), "parked in the Little Saigon gravel lot with rear nitrous pressure valves opened and venting vapor"),
+            ((19, 2), (20, 6), "disabled in the Little Saigon gravel lot surrounded by dense theatrical orange smoke and a darkened scorched hood frame"),
         ],
     },
     "RX7": {
@@ -328,8 +328,8 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
         "damage_states": [
             ((24, 1), (37, 2), "pristine garage-kept condition under canvas cover, polished chrome supercharger gleaming"),
             ((37, 3), (39, 4), "roaring at full 900-hp supercharged output, front tires lifting under launch torque"),
-            ((39, 5), (39, 6), "crumpled front right fender and smoking radiator after heavy side-impact with box truck past the rail crossing"),
-            ((40, 1), (40, 6), "resting on the dirt shoulder past the crossing with crumpled front fascia and steam venting from the hood"),
+            ((39, 5), (39, 6), "dented front right fender and steaming radiator after a controlled stunt spin past the rail crossing"),
+            ((40, 1), (40, 6), "resting on the dirt shoulder past the crossing with dented front fascia and white steam venting from the hood"),
         ],
     },
     "SUPRA_SHELL": {
@@ -449,14 +449,14 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
 OBJECT_LOCK: dict[str, dict[str, Any]] = {
     "HARPOON_CABLE": {
         "object_id": "HARPOON_CABLE",
-        "name": "Pneumatic Steel Grapnel Launcher & Tension Cable",
+        "name": "Pneumatic Steel Tether Launcher & Tension Cable",
         "category": "tactical_rigging",
-        "material_appearance": "compact matte-black pneumatic tube launcher firing a 3-prong steel grapnel hook attached to a braided 10 mm steel winch cable",
+        "material_appearance": "compact matte-black pneumatic tube rig extending a 3-prong magnetic steel tether clamp attached to a braided 10 mm steel winch cable",
         "default_owner": "CEVIN",
-        "description": "Heavy-duty pneumatic steel-cable grapnel launcher and high-tensile safety tether line linking the coupe and truck cabin.",
+        "description": "Heavy-duty pneumatic steel-cable tether rig and high-tensile safety tether line linking the coupe and truck cabin.",
         "state_by_scene": [
             ((2, 1), (4, 6), "anchored taut between lead black Civic sunroof and semi-truck right cab pillar, then detached cleanly"),
-            ((32, 1), (33, 6), "hooked to semi-truck cab frame with braided steel cable taut beside the moving trailer"),
+            ((32, 1), (33, 6), "clamped to semi-truck cab frame with braided steel cable taut beside the moving trailer"),
             ((34, 1), (34, 6), "severed cleanly by Tom's heavy steel cutters to free Cevin onto the Supra hood"),
         ],
     },
@@ -503,7 +503,7 @@ OBJECT_LOCK: dict[str, dict[str, Any]] = {
         "description": "Twin blue high-pressure Nitrous Oxide cylinders mounted behind the cockpit with a red steering-wheel trigger button.",
         "state_by_scene": [
             ((10, 1), (15, 6), "mounted in the rear frame of Tom's neon-green Eclipse, stage-1 and stage-2 valves engaged during the drag race"),
-            ((19, 1), (19, 6), "venting pressure in the rear of the damaged Eclipse before the fire"),
+            ((19, 1), (19, 6), "venting pressure in the rear of the disabled Eclipse alongside theatrical orange smoke"),
         ],
     },
     "DIAG_LAPTOP": {
@@ -809,13 +809,21 @@ ENVIRONMENT_LOCK: dict[str, dict[str, Any]] = {
         "architecture_layout": "open desert road and wide dirt shoulder immediately beyond the railroad crossing at dusk",
         "road_lane_geometry": "two-lane desert asphalt stretching straight toward the dusk horizon with a wide gravel shoulder",
         "terrain_landmarks": "railroad embankment behind, open desert horizon ahead",
-        "interior_furniture_objects": "damaged 1970 matte-black Charger resting on the dirt shoulder, metallic-orange Supra parked beside it",
+        "interior_furniture_objects": "dented 1970 matte-black Charger resting upright on the dirt shoulder, metallic-orange Supra parked beside it",
         "weather_atmosphere": "cobalt-and-amber dusk light, wisps of radiator steam rising in the cool desert breeze",
-        "orientation_axis": "damaged Charger on screen left, orange Supra at center-right pointing toward the open horizon on screen right",
-        "ambient_sound": "crackling hot metal, distant approaching sirens and desert wind",
-        "description": "Open desert road just past the railroad crossing at dusk: wide dirt shoulder, overturned smoking muscle car chassis, orange sport coupe stopped nearby, long straight road stretching toward the glowing horizon.",
+        "orientation_axis": "dented Charger on screen left, orange Supra at center-right pointing toward the open horizon on screen right",
+        "ambient_sound": "ticking hot metal, distant approaching sirens and desert wind",
+        "description": "Open desert road just past the railroad crossing at dusk: wide dirt shoulder, steaming muscle car resting upright on the shoulder, orange sport coupe stopped nearby, long straight road stretching toward the glowing horizon.",
     },
 }
+
+ACTION_STUNT_CHOREOGRAPHY_RULE: str = (
+    "Action & martial arts stunt choreography rule: Professional stunt performers execute a tightly choreographed "
+    "martial arts and action confrontation. Fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, "
+    "dynamic footwork and realistic physical reactions. When a performer loses balance, they fall safely onto padded flooring "
+    "outside the camera's view. Intense action-film atmosphere, realistic lighting, handheld cinematography, fast-paced editing style, "
+    "authentic Vietnamese action cinema. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography."
+)
 
 PHYSICS_RULES: dict[str, str] = {
     "vehicle": (
@@ -837,6 +845,7 @@ PHYSICS_RULES: dict[str, str] = {
         "Environmental physics: shadows, reflections, wind slipstream, tire smoke, dust plumes, and heat shimmer respond physically to "
         "vehicle speed and light direction."
     ),
+    "action_stunt": ACTION_STUNT_CHOREOGRAPHY_RULE,
 }
 
 CINEMATIC_STYLE: dict[str, Any] = {
@@ -844,8 +853,9 @@ CINEMATIC_STYLE: dict[str, Any] = {
     "frame_rate": 24,
     "clip_seconds": 10,
     "visual_style": (
-        "10 seconds, full-frame 16:9, 24 fps, photorealistic live-action street-racing and undercover drama, "
-        "natural skin texture, subtle film grain, deep asphalt shadows, crisp neon and sodium highlights."
+        "Cinematic Vietnamese martial arts and street-racing action sequence, 10 seconds, photorealistic live-action, full-frame 16:9, 24fps, "
+        "natural skin texture, subtle film grain, deep asphalt shadows, crisp neon and sodium highlights, authentic Vietnamese action cinema. "
+        "No blood, no graphic injuries, no gore. All movements are simulated stunt choreography."
     ),
     "clean_frame": (
         "Clean cinematic frame, never TV footage: no TV channel or broadcaster logo, watermark, news ticker, lower-third, "
@@ -1018,6 +1028,7 @@ def select_relevant_bible_slice(plan: dict, shot: dict) -> dict[str, Any]:
     physics_lines = []
     if veh_entries or env.get("category") in ("highway", "desert_airfield", "hillside_road", "rail_crossing", "vehicle_interior"):
         physics_lines.append(PHYSICS_RULES["vehicle"])
+    physics_lines.append(PHYSICS_RULES["action_stunt"])
     physics_lines.append(PHYSICS_RULES["environment"])
 
     return {

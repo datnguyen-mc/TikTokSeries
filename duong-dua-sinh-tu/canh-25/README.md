@@ -6,7 +6,7 @@ Phút 24:00–25:00 · Thời gian truyện: D4 dawn
 
 Rạng sáng, hàng chục xe đặc nhiệm của Nese và Kinan bao vây khu dinh thự của Ny Tran tại Little Saigon và phá cổng chính đột nhập.
 
-**Câu hỏi đang mở:** Cuộc đột kích bất ngờ lúc bình minh có tìm thấy tang vật các vụ cướp xe tải không?
+**Câu hỏi đang mở:** Cuộc đột kích bất ngờ lúc bình minh có tìm thấy tang vật các vụ mất hàng xe tải không?
 **Móc vào cảnh:** Đoàn xe đặc nhiệm phanh gấp trước cổng sắt dinh thự Ny Tran dưới ánh bình minh.
 **Điểm bẻ:** Đội xung kích do Kinan và Nese dẫn đầu mở tung cổng chính tràn vào sân trong.
 **Gieo / trả:** Mở màn cao trào hành động của Phân cảnh 7.

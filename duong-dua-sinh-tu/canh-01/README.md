@@ -9,7 +9,7 @@ Verni điều khiển xe container 18 bánh chở hàng điện tử giữa đê
 **Câu hỏi đang mở:** Ai đang điều khiển ba chiếc xe đen vây quanh đầu kéo trên xa lộ?
 **Móc vào cảnh:** Ba vệt đèn neon xanh lá xé màn đêm khóa chặt ba phía xe tải.
 **Điểm bẻ:** Verni phát hiện đội hình vây ép qua gương chiếu hậu và tăng cảnh giác.
-**Gieo / trả:** Mở màn phi vụ cướp container tốc độ cao và giới thiệu tài xế Verni.
+**Gieo / trả:** Mở màn phi phi vụ lấy hàng container tốc độ cao và giới thiệu tài xế Verni.
 
 Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.
 

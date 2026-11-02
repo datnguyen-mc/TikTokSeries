@@ -207,12 +207,15 @@ export default function LogViewer() {
             ) : (
               logs.map(row => {
                 const hasDetails = row.details && Object.keys(row.details).length > 0
+                const isLongMsg = (row.message || '').length > 120
                 const isExpanded = Boolean(expandedIds[row.id])
                 return (
                   <div key={row.id} className="transition-colors hover:bg-white/[0.02]">
                     <div
-                      onClick={() => hasDetails && toggleExpand(row.id)}
-                      className={`grid gap-3 px-5 py-2.5 text-xs items-center ${hasDetails ? 'cursor-pointer' : ''}`}
+                      onClick={() => (hasDetails || isLongMsg) && toggleExpand(row.id)}
+                      className={`grid gap-3 px-5 py-2.5 text-xs items-center ${
+                        hasDetails || isLongMsg ? 'cursor-pointer' : ''
+                      }`}
                       style={{ gridTemplateColumns: '145px 150px 90px 100px 95px 1fr' }}
                     >
                       <span className="font-mono text-[11px] text-slate-500">{row.created_at}</span>
@@ -236,14 +239,28 @@ export default function LogViewer() {
                       <span className="text-[11px] font-mono text-amber-300">
                         {row.episode ? `Tập ${row.episode}${row.clip_num ? `•C${row.clip_num}` : ''}` : '—'}
                       </span>
-                      <span className="flex items-center gap-1.5 text-slate-200">
-                        {hasDetails &&
+                      <span className="flex items-center gap-1.5 text-slate-200 min-w-0">
+                        {(hasDetails || isLongMsg) &&
                           (isExpanded ? (
                             <ChevronDown size={13} className="text-indigo-400 shrink-0" />
                           ) : (
                             <ChevronRight size={13} className="text-slate-500 shrink-0" />
                           ))}
-                        <span className="break-words">{row.message}</span>
+                        <span className="break-words">
+                          {isExpanded || !isLongMsg ? row.message : `${row.message.slice(0, 120).trim()}...`}
+                        </span>
+                        {isLongMsg && (
+                          <button
+                            type="button"
+                            onClick={e => {
+                              e.stopPropagation()
+                              toggleExpand(row.id)
+                            }}
+                            className="ml-1 shrink-0 text-[10px] font-bold text-indigo-400 hover:text-indigo-300 cursor-pointer"
+                          >
+                            {isExpanded ? 'Thu gọn' : 'Xem thêm'}
+                          </button>
+                        )}
                       </span>
                     </div>
 

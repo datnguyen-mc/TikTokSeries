@@ -29,6 +29,8 @@ import {
   X,
   Eye,
   Cloud,
+  ChevronDown,
+  ChevronUp,
 } from 'lucide-react'
 import { fetchAPI, patchAPI, resolveApiUrl } from '../api/client'
 import { useWebSocketContext } from '../api/useWebSocketContext'
@@ -354,6 +356,19 @@ export default function ChannelsCMSPage() {
   const [logTab, setLogTab] = useState<'logs' | 'terminal'>('logs')
   const [channelLogs, setChannelLogs] = useState<CmsLogItem[]>([])
   const [terminalLines, setTerminalLines] = useState<string[]>([])
+
+  // Collapsible / Expandable UI states for long text & lists
+  const [expandedTableChars, setExpandedTableChars] = useState<Record<string, boolean>>({})
+  const [expandedTableDesc, setExpandedTableDesc] = useState<Record<string, boolean>>({})
+  const [expandedTableLog, setExpandedTableLog] = useState<Record<string, boolean>>({})
+  const [detailDescExpanded, setDetailDescExpanded] = useState(false)
+  const [charSectionCollapsed, setCharSectionCollapsed] = useState(false)
+  const [showAllDetailChars, setShowAllDetailChars] = useState(false)
+  const [expandedCharDesc, setExpandedCharDesc] = useState<Record<string, boolean>>({})
+  const [r2LinksExpanded, setR2LinksExpanded] = useState(false)
+  const [promptEditorExpanded, setPromptEditorExpanded] = useState(false)
+  const [logsDockCollapsed, setLogsDockCollapsed] = useState(false)
+  const [expandedDetailLogIds, setExpandedDetailLogIds] = useState<Record<number, boolean>>({})
 
   // Cloudflare R2 Storage & D1 SQL state
   const [cloudStatus, setCloudStatus] = useState<CloudStatusResponse | null>(null)
@@ -1286,11 +1301,11 @@ export default function ChannelsCMSPage() {
                         onClick={() => navigate(`/channels/${ch.slug}`)}
                         className="group hover:bg-white/[0.03] transition-colors cursor-pointer"
                       >
-                        {/* Col 1: Channel Name & Slug */}
-                        <td className="py-4 px-5">
+                        {/* Col 1: Channel Name & Slug & Collapsible Description */}
+                        <td className="py-4 px-5 max-w-[290px]">
                           <div className="flex items-start gap-3">
                             <span className={`w-2.5 h-2.5 rounded-full mt-1.5 shrink-0 ${accent.dot}`} />
-                            <div className="flex flex-col gap-0.5">
+                            <div className="flex flex-col gap-0.5 min-w-0">
                               <span className="font-bold text-white text-sm group-hover:text-indigo-300 transition-colors">
                                 {ch.name}
                               </span>
@@ -1299,6 +1314,37 @@ export default function ChannelsCMSPage() {
                                 <span>•</span>
                                 <span className="font-mono text-[10px] text-slate-500">{ch.runner_script}</span>
                               </div>
+                              {ch.description && (
+                                <div
+                                  className="text-[11px] text-slate-400/90 mt-0.5 leading-snug"
+                                  onClick={e => e.stopPropagation()}
+                                >
+                                  <span>
+                                    {expandedTableDesc[ch.slug] || ch.description.length <= 75
+                                      ? ch.description
+                                      : `${ch.description.slice(0, 75).trim()}...`}
+                                  </span>
+                                  {ch.description.length > 75 && (
+                                    <button
+                                      type="button"
+                                      onClick={() =>
+                                        setExpandedTableDesc(prev => ({ ...prev, [ch.slug]: !prev[ch.slug] }))
+                                      }
+                                      className="ml-1 text-[10px] font-bold text-indigo-400 hover:text-indigo-300 inline-flex items-center gap-0.5 cursor-pointer"
+                                    >
+                                      {expandedTableDesc[ch.slug] ? (
+                                        <>
+                                          Thu gọn <ChevronUp size={10} />
+                                        </>
+                                      ) : (
+                                        <>
+                                          Xem thêm <ChevronDown size={10} />
+                                        </>
+                                      )}
+                                    </button>
+                                  )}
+                                </div>
+                              )}
                             </div>
                           </div>
                         </td>
@@ -1341,20 +1387,46 @@ export default function ChannelsCMSPage() {
                           </div>
                         </td>
 
-                        {/* Col 3: Locked Characters */}
-                        <td className="py-4 px-4">
-                          <div className="flex items-center gap-1.5 flex-wrap max-w-[230px]">
-                            {ch.characters.map(c => (
-                              <span
-                                key={c.tag}
-                                className={`inline-flex items-center gap-1 text-[10px] px-2 py-0.5 rounded-md border font-semibold ${accent.badge}`}
-                                title={`${c.name} — ID: ${c.locked_media_id || 'Tự động'}`}
-                              >
-                                <Lock size={9} />
-                                {c.tag}
-                              </span>
-                            ))}
-                          </div>
+                        {/* Col 3: Locked Characters (@Character) with More / Less Button */}
+                        <td className="py-4 px-4" onClick={e => e.stopPropagation()}>
+                          {(() => {
+                            const isExpanded = Boolean(expandedTableChars[ch.slug])
+                            const visibleChars = isExpanded ? ch.characters : ch.characters.slice(0, 3)
+                            const hiddenCount = Math.max(0, ch.characters.length - 3)
+                            return (
+                              <div className="flex items-center gap-1.5 flex-wrap max-w-[260px]">
+                                {visibleChars.map(c => (
+                                  <span
+                                    key={c.tag}
+                                    className={`inline-flex items-center gap-1 text-[10px] px-2 py-0.5 rounded-md border font-semibold ${accent.badge}`}
+                                    title={`${c.name} — ID: ${c.locked_media_id || 'Tự động'}\n${c.description || ''}`}
+                                  >
+                                    <Lock size={9} />
+                                    {c.tag}
+                                  </span>
+                                ))}
+                                {ch.characters.length > 3 && (
+                                  <button
+                                    type="button"
+                                    onClick={() =>
+                                      setExpandedTableChars(prev => ({ ...prev, [ch.slug]: !prev[ch.slug] }))
+                                    }
+                                    className="inline-flex items-center gap-1 text-[10px] px-2 py-0.5 rounded-md bg-slate-800/90 hover:bg-slate-700 text-indigo-300 border border-slate-700 font-bold transition-colors cursor-pointer"
+                                  >
+                                    {isExpanded ? (
+                                      <>
+                                        Thu gọn <ChevronUp size={10} />
+                                      </>
+                                    ) : (
+                                      <>
+                                        +{hiddenCount} xem thêm <ChevronDown size={10} />
+                                      </>
+                                    )}
+                                  </button>
+                                )}
+                              </div>
+                            )
+                          })()}
                         </td>
 
                         {/* Col 4: Episodes Count */}
@@ -1400,8 +1472,8 @@ export default function ChannelsCMSPage() {
                           )}
                         </td>
 
-                        {/* Col 7: Live Status & Latest Log */}
-                        <td className="py-4 px-4 max-w-[260px]">
+                        {/* Col 7: Live Status & Latest Log (Collapsible if long) */}
+                        <td className="py-4 px-4 max-w-[260px]" onClick={e => e.stopPropagation()}>
                           <div className="flex flex-col gap-1">
                             {ch.active_job?.running ? (
                               <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500/20 text-emerald-300 border border-emerald-500/40 w-fit animate-pulse">
@@ -1414,11 +1486,24 @@ export default function ChannelsCMSPage() {
                               </span>
                             )}
                             {ch.latest_log && (
-                              <div
-                                className="text-[10px] text-slate-500 truncate font-mono"
-                                title={ch.latest_log.message}
-                              >
-                                [{ch.latest_log.created_at.slice(11)}] {ch.latest_log.message}
+                              <div className="text-[10px] text-slate-500 font-mono leading-snug break-words">
+                                <span>
+                                  [{ch.latest_log.created_at.slice(11)}]{' '}
+                                  {expandedTableLog[ch.slug] || ch.latest_log.message.length <= 60
+                                    ? ch.latest_log.message
+                                    : `${ch.latest_log.message.slice(0, 60).trim()}...`}
+                                </span>
+                                {ch.latest_log.message.length > 60 && (
+                                  <button
+                                    type="button"
+                                    onClick={() =>
+                                      setExpandedTableLog(prev => ({ ...prev, [ch.slug]: !prev[ch.slug] }))
+                                    }
+                                    className="ml-1 text-[10px] font-bold text-indigo-400 hover:text-indigo-300 inline-flex items-center gap-0.5 cursor-pointer"
+                                  >
+                                    {expandedTableLog[ch.slug] ? 'Thu gọn' : 'Xem thêm'}
+                                  </button>
+                                )}
                               </div>
                             )}
                           </div>
@@ -1456,7 +1541,7 @@ export default function ChannelsCMSPage() {
       <div className="studio-card rounded-2xl px-4 py-3.5 flex flex-wrap items-center justify-between gap-3 border border-slate-800/90">
         <div className="flex items-center gap-3 flex-wrap">
           <button
-            onClick={() => navigate('/')}
+            onClick={() => navigate('/channels')}
             className="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-700/80 text-xs font-semibold text-white transition-colors cursor-pointer"
           >
             <ArrowLeft size={14} className="text-indigo-400" />
@@ -1551,7 +1636,7 @@ export default function ChannelsCMSPage() {
           {/* Studio Header & Locked Characters Showcase */}
           <div className="studio-card rounded-3xl p-5 flex flex-col gap-4">
             <div className="flex flex-wrap items-start justify-between gap-4">
-              <div className="flex flex-col gap-1">
+              <div className="flex flex-col gap-1 max-w-3xl">
                 <div className="flex items-center gap-2.5 flex-wrap">
                   <span className="px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
                     CHI TIẾT KÊNH
@@ -1561,7 +1646,32 @@ export default function ChannelsCMSPage() {
                     {detail.channel.runner_script}
                   </code>
                 </div>
-                <p className="text-xs text-slate-400">{detail.channel.description}</p>
+                {detail.channel.description && (
+                  <div className="text-xs text-slate-400 leading-relaxed">
+                    <span>
+                      {detailDescExpanded || detail.channel.description.length <= 140
+                        ? detail.channel.description
+                        : `${detail.channel.description.slice(0, 140).trim()}...`}
+                    </span>
+                    {detail.channel.description.length > 140 && (
+                      <button
+                        type="button"
+                        onClick={() => setDetailDescExpanded(v => !v)}
+                        className="ml-1.5 text-[11px] font-semibold text-indigo-400 hover:text-indigo-300 inline-flex items-center gap-0.5 cursor-pointer"
+                      >
+                        {detailDescExpanded ? (
+                          <>
+                            Thu gọn <ChevronUp size={11} />
+                          </>
+                        ) : (
+                          <>
+                            Xem thêm <ChevronDown size={11} />
+                          </>
+                        )}
+                      </button>
+                    )}
+                  </div>
+                )}
               </div>
 
               <div className="flex items-center gap-2 flex-wrap">
@@ -1595,70 +1705,147 @@ export default function ChannelsCMSPage() {
               </div>
             </div>
 
-            {/* Locked Characters Grid */}
+            {/* Locked Characters Grid (Collapsible Section + More/Less Cards + Per-Character Expandable Description) */}
             <div className="p-4 rounded-2xl bg-slate-950/70 border border-slate-800/90 flex flex-col gap-3">
               <div className="flex flex-wrap items-center justify-between gap-2">
                 <div className="flex items-center gap-2 text-xs font-bold text-slate-200">
                   <Lock size={14} className="text-amber-400" />
-                  <span>Bộ Nhân Vật Cố Định Đã Khóa Cho Kênh Này (Ingredients R2V + Seamless I2V)</span>
+                  <span>
+                    Bộ Nhân Vật Cố Định Đã Khóa Cho Kênh Này ({detail.channel.characters.length} @Character • R2V +
+                    Seamless I2V)
+                  </span>
                 </div>
-                <div className="flex items-center gap-2 text-[11px] text-slate-400">
+                <div className="flex items-center gap-2.5 flex-wrap text-[11px] text-slate-400">
                   <span>Google Flow Project ID:</span>
                   <code className="px-2 py-0.5 rounded bg-slate-900 border border-slate-800 text-indigo-300 font-mono">
                     {detail.channel.project_id}
                   </code>
+                  <button
+                    type="button"
+                    onClick={() => setCharSectionCollapsed(v => !v)}
+                    className="px-2.5 py-1 rounded-lg bg-slate-900 hover:bg-slate-800 border border-slate-700 text-slate-200 font-semibold flex items-center gap-1 cursor-pointer"
+                  >
+                    {charSectionCollapsed ? (
+                      <>
+                        Mở rộng ({detail.channel.characters.length}) <ChevronDown size={12} />
+                      </>
+                    ) : (
+                      <>
+                        Thu gọn <ChevronUp size={12} />
+                      </>
+                    )}
+                  </button>
                 </div>
               </div>
 
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
-                {detail.channel.characters.map(c => (
-                  <div
-                    key={c.tag}
-                    className="p-3.5 rounded-xl bg-slate-900/90 border border-slate-800/90 hover:border-slate-700 transition-all flex flex-col justify-between gap-2"
-                  >
-                    <div className="flex flex-col gap-1">
-                      <div className="flex items-center justify-between gap-2">
-                        <span className="text-xs font-extrabold text-amber-300">
-                          {c.tag} — <span className="text-white">{c.name}</span>
-                        </span>
-                        <span className="px-2 py-0.5 rounded-full text-[9px] font-bold bg-emerald-500/15 text-emerald-300 border border-emerald-500/30">
-                          ĐÃ KHÓA ID
-                        </span>
-                      </div>
-
-                      {c.description && <p className="text-[11px] text-slate-400 line-clamp-2">{c.description}</p>}
-                    </div>
-
-                    <div className="pt-2 border-t border-slate-800/80 flex items-center justify-between gap-2">
-                      <div className="text-[10px] font-mono text-slate-400 truncate">
-                        ID: <span className="text-slate-200">{c.locked_media_id || 'Tự động tạo'}</span>
-                      </div>
-                      <div className="flex items-center gap-1 shrink-0">
-                        {c.locked_media_id && (
-                          <button
-                            onClick={() => copyText(c.locked_media_id!)}
-                            className="p-1 rounded-md bg-slate-800 hover:bg-slate-700 text-slate-300 transition-colors cursor-pointer"
-                            title="Copy media_id"
-                          >
-                            {copiedId === c.locked_media_id ? (
-                              <Check size={11} className="text-emerald-400" />
-                            ) : (
-                              <Copy size={11} />
-                            )}
-                          </button>
-                        )}
-                        <button
-                          onClick={() => insertIntoPrompt(`${c.tag} (${c.description || c.name})`)}
-                          className="px-2 py-0.5 rounded-md bg-indigo-500/15 hover:bg-indigo-500/25 text-indigo-300 border border-indigo-500/30 text-[10px] font-semibold transition-colors cursor-pointer"
-                          title="Chèn nhân vật này vào kịch bản đang mở"
+              {!charSectionCollapsed && (
+                <>
+                  <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
+                    {(showAllDetailChars
+                      ? detail.channel.characters
+                      : detail.channel.characters.slice(0, 6)
+                    ).map(c => {
+                      const isCharDescLong = (c.description || '').length > 95
+                      const isCharDescExpanded = Boolean(expandedCharDesc[c.tag])
+                      return (
+                        <div
+                          key={c.tag}
+                          className="p-3.5 rounded-xl bg-slate-900/90 border border-slate-800/90 hover:border-slate-700 transition-all flex flex-col justify-between gap-2"
                         >
-                          + Chèn {c.tag}
-                        </button>
-                      </div>
-                    </div>
+                          <div className="flex flex-col gap-1">
+                            <div className="flex items-center justify-between gap-2">
+                              <span className="text-xs font-extrabold text-amber-300">
+                                {c.tag} — <span className="text-white">{c.name}</span>
+                              </span>
+                              <span className="px-2 py-0.5 rounded-full text-[9px] font-bold bg-emerald-500/15 text-emerald-300 border border-emerald-500/30">
+                                ĐÃ KHÓA ID
+                              </span>
+                            </div>
+
+                            {c.description && (
+                              <div className="text-[11px] text-slate-400 leading-relaxed">
+                                <span>
+                                  {isCharDescExpanded || !isCharDescLong
+                                    ? c.description
+                                    : `${c.description.slice(0, 95).trim()}...`}
+                                </span>
+                                {isCharDescLong && (
+                                  <button
+                                    type="button"
+                                    onClick={() =>
+                                      setExpandedCharDesc(prev => ({ ...prev, [c.tag]: !prev[c.tag] }))
+                                    }
+                                    className="ml-1.5 text-[10px] font-bold text-indigo-400 hover:text-indigo-300 inline-flex items-center gap-0.5 cursor-pointer"
+                                  >
+                                    {isCharDescExpanded ? (
+                                      <>
+                                        Thu gọn <ChevronUp size={10} />
+                                      </>
+                                    ) : (
+                                      <>
+                                        Xem thêm <ChevronDown size={10} />
+                                      </>
+                                    )}
+                                  </button>
+                                )}
+                              </div>
+                            )}
+                          </div>
+
+                          <div className="pt-2 border-t border-slate-800/80 flex items-center justify-between gap-2">
+                            <div className="text-[10px] font-mono text-slate-400 truncate">
+                              ID: <span className="text-slate-200">{c.locked_media_id || 'Tự động tạo'}</span>
+                            </div>
+                            <div className="flex items-center gap-1 shrink-0">
+                              {c.locked_media_id && (
+                                <button
+                                  onClick={() => copyText(c.locked_media_id!)}
+                                  className="p-1 rounded-md bg-slate-800 hover:bg-slate-700 text-slate-300 transition-colors cursor-pointer"
+                                  title="Copy media_id"
+                                >
+                                  {copiedId === c.locked_media_id ? (
+                                    <Check size={11} className="text-emerald-400" />
+                                  ) : (
+                                    <Copy size={11} />
+                                  )}
+                                </button>
+                              )}
+                              <button
+                                onClick={() => insertIntoPrompt(`${c.tag} (${c.description || c.name})`)}
+                                className="px-2 py-0.5 rounded-md bg-indigo-500/15 hover:bg-indigo-500/25 text-indigo-300 border border-indigo-500/30 text-[10px] font-semibold transition-colors cursor-pointer"
+                                title="Chèn nhân vật này vào kịch bản đang mở"
+                              >
+                                + Chèn {c.tag}
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      )
+                    })}
                   </div>
-                ))}
-              </div>
+
+                  {detail.channel.characters.length > 6 && (
+                    <div className="flex justify-center pt-1">
+                      <button
+                        type="button"
+                        onClick={() => setShowAllDetailChars(v => !v)}
+                        className="px-3.5 py-1.5 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-700 text-xs font-bold text-indigo-300 flex items-center gap-1.5 cursor-pointer"
+                      >
+                        {showAllDetailChars ? (
+                          <>
+                            Thu gọn danh sách nhân vật <ChevronUp size={13} />
+                          </>
+                        ) : (
+                          <>
+                            Xem thêm +{detail.channel.characters.length - 6} nhân vật đã khóa{' '}
+                            <ChevronDown size={13} />
+                          </>
+                        )}
+                      </button>
+                    </div>
+                  )}
+                </>
+              )}
             </div>
 
             {/* Channel Config & Character Lock Editor Drawer */}
@@ -2334,79 +2521,99 @@ export default function ChannelsCMSPage() {
                         <div className="flex items-center justify-between gap-2 flex-wrap">
                           <span className="text-xs font-bold text-cyan-300 flex items-center gap-1.5">
                             <Cloud size={14} className="text-cyan-400" />
-                            ☁️ Danh Sách Link Cloudflare R2 Đã Lưu Của {currentEpisode.label}
+                            ☁️ Danh Sách Link Cloudflare R2 Đã Lưu Của {currentEpisode.label} (
+                            {currentEpisode.clips.filter(c => Boolean(c.r2_url)).length} clips)
                           </span>
-                          <button
-                            onClick={() => {
-                              const links = [
-                                ...(currentEpisode.merged_r2_url
-                                  ? [`[FULL] ${currentEpisode.merged_r2_url}`]
-                                  : []),
-                                ...currentEpisode.clips
-                                  .filter(c => Boolean(c.r2_url))
-                                  .map(c => `[Clip ${String(c.clip_num).padStart(2, '0')}] ${c.r2_url}`),
-                              ].join('\n')
-                              navigator.clipboard.writeText(links)
-                              setStatusBanner({
-                                type: 'success',
-                                text: `📋 Đã copy toàn bộ link Cloudflare R2 của ${currentEpisode.label} vào bộ nhớ tạm!`,
-                              })
-                            }}
-                            className="px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-cyan-500/15 hover:bg-cyan-500/25 text-cyan-200 border border-cyan-500/30 flex items-center gap-1 cursor-pointer"
-                          >
-                            <Copy size={11} /> Copy Tất Cả Link R2
-                          </button>
+                          <div className="flex items-center gap-2">
+                            <button
+                              onClick={() => {
+                                const links = [
+                                  ...(currentEpisode.merged_r2_url
+                                    ? [`[FULL] ${currentEpisode.merged_r2_url}`]
+                                    : []),
+                                  ...currentEpisode.clips
+                                    .filter(c => Boolean(c.r2_url))
+                                    .map(c => `[Clip ${String(c.clip_num).padStart(2, '0')}] ${c.r2_url}`),
+                                ].join('\n')
+                                navigator.clipboard.writeText(links)
+                                setStatusBanner({
+                                  type: 'success',
+                                  text: `📋 Đã copy toàn bộ link Cloudflare R2 của ${currentEpisode.label} vào bộ nhớ tạm!`,
+                                })
+                              }}
+                              className="px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-cyan-500/15 hover:bg-cyan-500/25 text-cyan-200 border border-cyan-500/30 flex items-center gap-1 cursor-pointer"
+                            >
+                              <Copy size={11} /> Copy Tất Cả Link R2
+                            </button>
+                            <button
+                              type="button"
+                              onClick={() => setR2LinksExpanded(v => !v)}
+                              className="px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-slate-900 hover:bg-slate-800 text-slate-200 border border-slate-700 flex items-center gap-1 cursor-pointer"
+                            >
+                              {r2LinksExpanded ? (
+                                <>
+                                  Thu gọn <ChevronUp size={12} />
+                                </>
+                              ) : (
+                                <>
+                                  Mở rộng link <ChevronDown size={12} />
+                                </>
+                              )}
+                            </button>
+                          </div>
                         </div>
 
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-2 max-h-44 overflow-y-auto pr-1">
-                          {currentEpisode.clips
-                            .filter(c => Boolean(c.r2_url))
-                            .map(c => (
-                              <div
-                                key={c.clip_num}
-                                className="px-3 py-2 rounded-xl bg-slate-900/90 border border-slate-800 flex items-center justify-between gap-2 text-[11px]"
-                              >
-                                <div className="flex items-center gap-2 min-w-0 flex-1">
-                                  <span className="px-1.5 py-0.5 rounded bg-cyan-500/20 text-cyan-300 font-bold shrink-0">
-                                    Clip {String(c.clip_num).padStart(2, '0')}
-                                  </span>
-                                  <a
-                                    href={c.r2_url!}
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className="text-slate-300 hover:text-cyan-300 font-mono truncate"
-                                    title={c.r2_url!}
-                                  >
-                                    {c.r2_url}
-                                  </a>
+                        {r2LinksExpanded && (
+                          <div className="grid grid-cols-1 md:grid-cols-2 gap-2 max-h-44 overflow-y-auto pr-1">
+                            {currentEpisode.clips
+                              .filter(c => Boolean(c.r2_url))
+                              .map(c => (
+                                <div
+                                  key={c.clip_num}
+                                  className="px-3 py-2 rounded-xl bg-slate-900/90 border border-slate-800 flex items-center justify-between gap-2 text-[11px]"
+                                >
+                                  <div className="flex items-center gap-2 min-w-0 flex-1">
+                                    <span className="px-1.5 py-0.5 rounded bg-cyan-500/20 text-cyan-300 font-bold shrink-0">
+                                      Clip {String(c.clip_num).padStart(2, '0')}
+                                    </span>
+                                    <a
+                                      href={c.r2_url!}
+                                      target="_blank"
+                                      rel="noreferrer"
+                                      className="text-slate-300 hover:text-cyan-300 font-mono truncate"
+                                      title={c.r2_url!}
+                                    >
+                                      {c.r2_url}
+                                    </a>
+                                  </div>
+                                  <div className="flex items-center gap-1.5 shrink-0">
+                                    <button
+                                      onClick={() => {
+                                        navigator.clipboard.writeText(c.r2_url || '')
+                                        setStatusBanner({
+                                          type: 'success',
+                                          text: `📋 Đã copy link R2 của Clip ${String(c.clip_num).padStart(2, '0')}!`,
+                                        })
+                                      }}
+                                      className="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold flex items-center gap-1 cursor-pointer"
+                                      title="Copy link R2"
+                                    >
+                                      <Copy size={11} /> Copy
+                                    </button>
+                                    <a
+                                      href={c.r2_url!}
+                                      target="_blank"
+                                      rel="noreferrer"
+                                      className="px-2 py-1 rounded bg-cyan-500/20 hover:bg-cyan-500/30 text-cyan-300 font-semibold flex items-center gap-1"
+                                      title="Mở link R2"
+                                    >
+                                      <ExternalLink size={11} /> R2
+                                    </a>
+                                  </div>
                                 </div>
-                                <div className="flex items-center gap-1.5 shrink-0">
-                                  <button
-                                    onClick={() => {
-                                      navigator.clipboard.writeText(c.r2_url || '')
-                                      setStatusBanner({
-                                        type: 'success',
-                                        text: `📋 Đã copy link R2 của Clip ${String(c.clip_num).padStart(2, '0')}!`,
-                                      })
-                                    }}
-                                    className="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold flex items-center gap-1 cursor-pointer"
-                                    title="Copy link R2"
-                                  >
-                                    <Copy size={11} /> Copy
-                                  </button>
-                                  <a
-                                    href={c.r2_url!}
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className="px-2 py-1 rounded bg-cyan-500/20 hover:bg-cyan-500/30 text-cyan-300 font-semibold flex items-center gap-1"
-                                    title="Mở link R2"
-                                  >
-                                    <ExternalLink size={11} /> R2
-                                  </a>
-                                </div>
-                              </div>
-                            ))}
-                        </div>
+                              ))}
+                          </div>
+                        )}
                       </div>
                     )}
                   </div>
@@ -2428,7 +2635,7 @@ export default function ChannelsCMSPage() {
                           <span className="text-[11px] text-slate-400 mr-1 flex items-center gap-1">
                             <Wand2 size={12} className="text-indigo-400" /> Chèn nhanh:
                           </span>
-                          {detail.channel.characters.map(c => (
+                          {detail.channel.characters.slice(0, 6).map(c => (
                             <button
                               key={c.tag}
                               onClick={() => insertIntoPrompt(c.tag)}
@@ -2438,8 +2645,23 @@ export default function ChannelsCMSPage() {
                             </button>
                           ))}
                           <button
+                            type="button"
+                            onClick={() => setPromptEditorExpanded(v => !v)}
+                            className="px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-slate-900 hover:bg-slate-800 text-slate-200 border border-slate-700 flex items-center gap-1 transition-colors cursor-pointer ml-1"
+                          >
+                            {promptEditorExpanded ? (
+                              <>
+                                Thu gọn khung Prompt <ChevronUp size={12} />
+                              </>
+                            ) : (
+                              <>
+                                Mở rộng khung Prompt <ChevronDown size={12} />
+                              </>
+                            )}
+                          </button>
+                          <button
                             onClick={handleAddClipToEpisode}
-                            className="px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-indigo-500/15 hover:bg-indigo-500/25 text-indigo-300 border border-indigo-500/30 flex items-center gap-1 transition-colors cursor-pointer ml-2"
+                            className="px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-indigo-500/15 hover:bg-indigo-500/25 text-indigo-300 border border-indigo-500/30 flex items-center gap-1 transition-colors cursor-pointer ml-1"
                           >
                             <Plus size={12} /> Thêm Clip Tiếp Theo
                           </button>
@@ -2458,7 +2680,7 @@ export default function ChannelsCMSPage() {
                                 handleSavePrompt()
                               }
                             }}
-                            rows={15}
+                            rows={promptEditorExpanded ? 26 : 11}
                             className="w-full p-4 rounded-2xl bg-slate-950/90 border border-slate-800 focus:border-indigo-500 text-xs font-mono text-slate-100 leading-relaxed outline-none resize-y shadow-inner"
                             placeholder="Nhập kịch bản prompt cho phân cảnh này..."
                           />
@@ -2707,7 +2929,10 @@ export default function ChannelsCMSPage() {
                 <div className="flex flex-wrap items-center justify-between gap-2">
                   <div className="flex items-center gap-2">
                     <button
-                      onClick={() => setLogTab('logs')}
+                      onClick={() => {
+                        setLogTab('logs')
+                        setLogsDockCollapsed(false)
+                      }}
                       className={`px-3 py-1.5 rounded-xl text-xs font-bold flex items-center gap-1.5 transition-colors cursor-pointer ${
                         logTab === 'logs'
                           ? 'bg-indigo-600 text-white'
@@ -2718,7 +2943,10 @@ export default function ChannelsCMSPage() {
                       Nhật Ký Kênh ({channelLogs.length})
                     </button>
                     <button
-                      onClick={() => setLogTab('terminal')}
+                      onClick={() => {
+                        setLogTab('terminal')
+                        setLogsDockCollapsed(false)
+                      }}
                       className={`px-3 py-1.5 rounded-xl text-xs font-bold flex items-center gap-1.5 transition-colors cursor-pointer ${
                         logTab === 'terminal'
                           ? 'bg-indigo-600 text-white'
@@ -2730,66 +2958,113 @@ export default function ChannelsCMSPage() {
                     </button>
                   </div>
 
-                  <span className="text-[11px] text-slate-400 font-mono">
-                    Lưu trữ tự động trong SQLite (cms_log)
-                  </span>
+                  <div className="flex items-center gap-2.5">
+                    <span className="text-[11px] text-slate-400 font-mono hidden sm:inline">
+                      Lưu trữ tự động trong SQLite (cms_log)
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => setLogsDockCollapsed(v => !v)}
+                      className="px-2.5 py-1 rounded-lg bg-slate-900 hover:bg-slate-800 border border-slate-700 text-[11px] font-semibold text-slate-200 flex items-center gap-1 cursor-pointer"
+                    >
+                      {logsDockCollapsed ? (
+                        <>
+                          Mở rộng Log <ChevronDown size={12} />
+                        </>
+                      ) : (
+                        <>
+                          Thu gọn <ChevronUp size={12} />
+                        </>
+                      )}
+                    </button>
+                  </div>
                 </div>
 
-                {logTab === 'terminal' ? (
-                  <div className="p-4 rounded-2xl bg-[#05070b] border border-slate-800 font-mono text-[11px] max-h-64 overflow-y-auto flex flex-col gap-1 text-slate-300">
-                    {terminalLines.length === 0 ? (
-                      <div className="text-slate-500 py-6 text-center">
-                        Chưa có dòng lệnh stdout nào trong phiên hiện tại. Khi bạn bấm chạy tập, log trực tiếp từ
-                        runner sẽ hiển thị tại đây.
-                      </div>
-                    ) : (
-                      terminalLines.map((ln, idx) => (
-                        <div key={idx} className="whitespace-pre-wrap leading-relaxed">
-                          {ln}
+                {!logsDockCollapsed &&
+                  (logTab === 'terminal' ? (
+                    <div className="p-4 rounded-2xl bg-[#05070b] border border-slate-800 font-mono text-[11px] max-h-64 overflow-y-auto flex flex-col gap-1 text-slate-300">
+                      {terminalLines.length === 0 ? (
+                        <div className="text-slate-500 py-6 text-center">
+                          Chưa có dòng lệnh stdout nào trong phiên hiện tại. Khi bạn bấm chạy tập, log trực tiếp từ
+                          runner sẽ hiển thị tại đây.
                         </div>
-                      ))
-                    )}
-                  </div>
-                ) : (
-                  <div className="flex flex-col gap-1.5 max-h-64 overflow-y-auto pr-1">
-                    {channelLogs.length === 0 ? (
-                      <div className="text-xs py-8 text-center text-slate-500">
-                        Chưa có bản ghi log nào cho kênh này.
-                      </div>
-                    ) : (
-                      channelLogs.map(item => (
-                        <div
-                          key={item.id}
-                          className="px-3.5 py-2 rounded-xl bg-slate-950/80 border border-slate-800/80 text-xs flex items-start gap-2.5"
-                        >
-                          <span className="font-mono text-[10px] text-slate-500 shrink-0 mt-0.5">
-                            {item.created_at}
-                          </span>
-                          <span
-                            className={`px-2 py-0.5 rounded-md text-[9px] font-bold shrink-0 ${
-                              item.level === 'ERROR'
-                                ? 'bg-rose-500/15 text-rose-300 border border-rose-500/30'
-                                : item.level === 'WARN'
-                                  ? 'bg-amber-500/15 text-amber-300 border border-amber-500/30'
-                                  : item.level === 'SUCCESS'
-                                    ? 'bg-emerald-500/15 text-emerald-300 border border-emerald-500/30'
-                                    : 'bg-indigo-500/15 text-indigo-300 border border-indigo-500/30'
-                            }`}
-                          >
-                            {item.level}
-                          </span>
-                          {item.episode ? (
-                            <span className="text-[10px] font-mono font-semibold text-amber-300 shrink-0 mt-0.5">
-                              [Tập {item.episode}
-                              {item.clip_num ? `•C${item.clip_num}` : ''}]
-                            </span>
-                          ) : null}
-                          <span className="flex-1 text-slate-200 break-words">{item.message}</span>
+                      ) : (
+                        terminalLines.map((ln, idx) => (
+                          <div key={idx} className="whitespace-pre-wrap leading-relaxed">
+                            {ln}
+                          </div>
+                        ))
+                      )}
+                    </div>
+                  ) : (
+                    <div className="flex flex-col gap-1.5 max-h-64 overflow-y-auto pr-1">
+                      {channelLogs.length === 0 ? (
+                        <div className="text-xs py-8 text-center text-slate-500">
+                          Chưa có bản ghi log nào cho kênh này.
                         </div>
-                      ))
-                    )}
-                  </div>
-                )}
+                      ) : (
+                        channelLogs.map(item => {
+                          const isLongMsg = (item.message || '').length > 120
+                          const isMsgExpanded = Boolean(expandedDetailLogIds[item.id])
+                          return (
+                            <div
+                              key={item.id}
+                              className="px-3.5 py-2 rounded-xl bg-slate-950/80 border border-slate-800/80 text-xs flex items-start gap-2.5"
+                            >
+                              <span className="font-mono text-[10px] text-slate-500 shrink-0 mt-0.5">
+                                {item.created_at}
+                              </span>
+                              <span
+                                className={`px-2 py-0.5 rounded-md text-[9px] font-bold shrink-0 ${
+                                  item.level === 'ERROR'
+                                    ? 'bg-rose-500/15 text-rose-300 border border-rose-500/30'
+                                    : item.level === 'WARN'
+                                      ? 'bg-amber-500/15 text-amber-300 border border-amber-500/30'
+                                      : item.level === 'SUCCESS'
+                                        ? 'bg-emerald-500/15 text-emerald-300 border border-emerald-500/30'
+                                        : 'bg-indigo-500/15 text-indigo-300 border border-indigo-500/30'
+                                }`}
+                              >
+                                {item.level}
+                              </span>
+                              {item.episode ? (
+                                <span className="text-[10px] font-mono font-semibold text-amber-300 shrink-0 mt-0.5">
+                                  [Tập {item.episode}
+                                  {item.clip_num ? `•C${item.clip_num}` : ''}]
+                                </span>
+                              ) : null}
+                              <div className="flex-1 text-slate-200 break-words leading-relaxed">
+                                <span>
+                                  {isMsgExpanded || !isLongMsg
+                                    ? item.message
+                                    : `${item.message.slice(0, 120).trim()}...`}
+                                </span>
+                                {isLongMsg && (
+                                  <button
+                                    type="button"
+                                    onClick={() =>
+                                      setExpandedDetailLogIds(prev => ({ ...prev, [item.id]: !prev[item.id] }))
+                                    }
+                                    className="ml-1.5 text-[10px] font-bold text-indigo-400 hover:text-indigo-300 inline-flex items-center gap-0.5 cursor-pointer"
+                                  >
+                                    {isMsgExpanded ? (
+                                      <>
+                                        Thu gọn <ChevronUp size={10} />
+                                      </>
+                                    ) : (
+                                      <>
+                                        Xem thêm <ChevronDown size={10} />
+                                      </>
+                                    )}
+                                  </button>
+                                )}
+                              </div>
+                            </div>
+                          )
+                        })
+                      )}
+                    </div>
+                  ))}
               </div>
             </div>
           </div>

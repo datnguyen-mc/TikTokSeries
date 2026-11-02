@@ -257,11 +257,32 @@ class FilmContinuityTests(unittest.TestCase):
         s19 = self.index['19.2']['entity_state']['vehicles']['ECLIPSE']
         self.assertIn('pristine', s05)
         self.assertIn('floor panel', s15)
-        self.assertIn('flames', s19)
+        self.assertIn('theatrical orange smoke', s19)
         s24 = self.index['24.1']['entity_state']['vehicles']['CHARGER']
         s40 = self.index['40.1']['entity_state']['vehicles']['CHARGER']
         self.assertIn('pristine', s24)
-        self.assertIn('crumpled', s40)
+        self.assertIn('dented', s40)
+
+    def test_action_stunt_choreography_and_no_blood_gore_rule(self):
+        for i, c in enumerate(self.shots):
+            text = film.render_prompt(
+                self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
+            )
+            self.assertIn('No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.', text, c['id'])
+            self.assertIn('fast defensive movements, precise dodges, controlled kicks', text.casefold(), c['id'])
+            self.assertIn("outside the camera's view", text, c['id'])
+            for field in ('start_frame', 'action', 'end_frame', 'lighting', 'wardrobe_note'):
+                self.assertIsNone(film.UNSAFE_VIOLENCE_OR_GORE_WORDS.search(c.get(field, '')), f"{c['id']} {field}")
+            for d in c['dialogue']:
+                self.assertIsNone(film.UNSAFE_VIOLENCE_OR_GORE_WORDS.search(d['text']), f"{c['id']} dialogue")
+        s08_1 = film.render_prompt(self.plan, self.index['08.1'], self.index['07.6'], self.index['08.2'])
+        self.assertIn('Two professional stunt performers', s08_1)
+        self.assertIn("falls safely onto padded flooring outside the camera's view", s08_1)
+
+        unsafe = copy.deepcopy(self.shots)
+        unsafe[0]['action'] = unsafe[0]['action'].replace('Beat 1', 'Beat 1 (throw a punch with a bloody wound)')
+        with self.assertRaisesRegex(ValueError, 'unsafe violence/gore/injury wording'):
+            film.validate(self.plan, unsafe)
 
     def test_no_adjacent_lead_names_double_articles_or_boilerplate_intent(self):
         for i, c in enumerate(self.shots):

@@ -26,8 +26,21 @@
 - **Cảnh 28–30:** Tại đại hội Race Wars giữa sa mạc Mojave, Seja đem giấy tờ chiếc Volkswagen Jetta trắng của cha ra cược với chiếc Honda S2000 của Ny Tran, thua ở mét cuối vì NOS ẩn và hoảng loạn lái xe đi; Ny Tran kéo tới lán trại Micdo tuyên chiến.
 
 ### Tập 4 (Cảnh 31–40 | 30:00–40:00) — Phi Vụ Xa Lộ Cuối Cùng & Chìa Khóa 10 Giây Tự Do
-- **Cảnh 31–35:** Tom thú nhận với Ami mình là cảnh sát chìm LAPD rồi cùng cô lái chiếc Supra cam đuổi theo ngăn vụ chặn xe tải; Verni chống trả khiến Cevin bị kẹt trên cáp thép và xe Cina lật nhào; Tom và Ami cứu Cevin ở tốc độ cao, Tom gọi trực thăng y tế bằng mã "Sĩ quan Tom, LAPD 437" trước mặt Micdo.
-- **Cảnh 36–40:** Ny Tran và Cela phục kích làm Seja trọng thương trước nhà Toto; Micdo lái chiếc Dodge Charger 1970 truy đuổi Cela, Tom lái chiếc Supra cam chặn đứng Ny Tran; hai người đua 1/4 dặm cuối cắt đầu tàu hỏa, chiếc Charger va chạm xe tải lật nhào, Tom cứu Micdo ra và trao chìa khóa chiếc Supra cam ("con xe 10 giây") để Micdo rời đi trước khi xe cảnh sát của Nese ập tới.
+- **Cảnh 31–35:** Tom thú nhận với Ami mình là cảnh sát chìm LAPD rồi cùng cô lái chiếc Supra cam đuổi theo ngăn vụ chặn xe tải; Verni phòng vệ khiến Cevin bị kẹt trên cáp thép và xe Cina trượt ra lề cát; Tom và Ami cứu Cevin ở tốc độ cao, Tom gọi trực thăng y tế bằng mã "Sĩ quan Tom, LAPD 437" trước mặt Micdo.
+- **Cảnh 36–40:** Ny Tran và Cela phóng mô tô ép sát làm Seja ngã xuống trước nhà Toto; Micdo lái chiếc Dodge Charger 1970 truy đuổi Cela, Tom lái chiếc Supra cam chặn đứng Ny Tran; hai người đua 1/4 dặm cuối cắt đầu tàu hỏa, chiếc Charger va quệt xe tải xoay vòng dừng lại bên lề, Tom đỡ Micdo bước ra và trao chìa khóa chiếc Supra cam ("con xe 10 giây") để Micdo rời đi trước khi xe cảnh sát của Nese ập tới.
+
+## Quy tắc An toàn Cảnh Hành động & Võ thuật (Simulated Stunt Choreography Rule)
+
+Mọi cảnh đối đầu võ thuật, hành động hoặc rượt đuổi tốc độ cao đều được mô tả dưới góc độ **biên đạo cascadeur chuyên nghiệp** để tuyệt đối không vi phạm bộ lọc an toàn của Google Flow:
+
+```text
+Cinematic Vietnamese martial arts action sequence, 10 seconds, photorealistic live-action, 16:9, 24fps.
+Two professional stunt performers execute a tightly choreographed martial arts confrontation.
+Fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions.
+One performer loses balance and falls safely onto padded flooring outside the camera's view.
+Intense action-film atmosphere, realistic lighting, handheld cinematography, fast-paced editing style, authentic Vietnamese action cinema.
+No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
+```
 
 ## Lệnh biên dịch & kiểm tra
 

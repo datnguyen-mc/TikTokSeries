@@ -23,7 +23,7 @@ if THIS_DIR not in sys.path:
 
 from agent.config import get_cloud_config  # noqa: E402
 from agent.db.schema import init_db, get_db, close_db, SCHEMA  # noqa: E402
-from agent.db.d1_client import is_d1_configured, test_d1_connection, sync_sqlite_to_d1  # noqa: E402
+from agent.db.d1_client import is_d1_configured, test_d1_connection, sync_sqlite_to_d1, sync_d1_to_sqlite  # noqa: E402
 from agent.services.r2_storage import is_r2_configured, test_r2_connection  # noqa: E402
 from agent.api.cms import _populate_all_channels_into_db, sync_videos_to_r2, SyncR2BatchRequest  # noqa: E402
 
@@ -31,6 +31,7 @@ from agent.api.cms import _populate_all_channels_into_db, sync_videos_to_r2, Syn
 async def main():
     parser = argparse.ArgumentParser(description="Đồng bộ dữ liệu FlowKit lên Cloudflare D1 SQL & R2 Storage")
     parser.add_argument("--d1-only", action="store_true", help="Chỉ đồng bộ Database lên Cloudflare D1 SQL")
+    parser.add_argument("--pull-d1", action="store_true", help="Đồng bộ (kéo) toàn bộ dữ liệu từ Cloudflare D1 SQL về SQLite local")
     parser.add_argument("--r2-only", action="store_true", help="Chỉ upload video .mp4 lên Cloudflare R2 Storage")
     parser.add_argument("--channel", type=str, default=None, help="Chỉ đồng bộ R2 cho 1 kênh cụ thể (vd: biet-doi-gara)")
     parser.add_argument("--force", action="store_true", help="Upload lại toàn bộ video lên R2 kể cả các video đã có link")
@@ -43,6 +44,24 @@ async def main():
     await init_db()
     db = await get_db()
     try:
+        cfg = get_cloud_config()
+        if args.pull_d1:
+            print("⬇️  Đang kiểm tra kết nối & đồng bộ dữ liệu từ Cloudflare D1 SQL về Local SQLite...")
+            d1_check = await test_d1_connection(cfg)
+            if not d1_check.get("ok"):
+                print(f"   ❌ Kết nối D1 SQL thất bại: {d1_check.get('error')}")
+            else:
+                print(f"   ✅ {d1_check.get('message')}")
+                pull_res = await sync_d1_to_sqlite(db, SCHEMA)
+                print(f"   🎉 Đã kéo tổng cộng {pull_res.get('total_rows_pulled', 0)} bản ghi từ Cloudflare D1 SQL về Local SQLite!")
+                for tbl, cnt in (pull_res.get("tables") or {}).items():
+                    print(f"      • Bảng {tbl:<18}: {cnt} dòng")
+                if pull_res.get("errors"):
+                    for err in pull_res["errors"]:
+                        print(f"      ⚠️ Lỗi: {err}")
+            print("═" * 74)
+            return
+
         print("📂 [1/3] Đang quét & lập chỉ mục toàn bộ 6 kênh Series, Tập, Kịch bản Prompt & Video...")
         idx_res = await _populate_all_channels_into_db(db)
         print(

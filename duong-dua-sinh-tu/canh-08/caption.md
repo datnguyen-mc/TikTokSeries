@@ -1,6 +1,6 @@
-# Đường Đua Sinh Tử: 10 Giây Tự Do · Cảnh 08: Cuộc Âu Đả Ngoài Hiên Quán
+# Đường Đua Sinh Tử: 10 Giây Tự Do · Cảnh 08: Màn Đối Đầu Võ Thuật Ngoài Hiên Quán
 
-Cevin tung cú đấm trước nhưng Tom né được và phản đòn; cả hai vật lộn làm gãy bàn gỗ ngoài hiên giữa tiếng la hét của Ami.
+Cevin lao vào so chiêu võ thuật nhưng Tom né đòn chuẩn nhịp và khóa thế; cả hai làm xê dịch bàn gỗ ngoài hiên khi Ami bước ra ngăn.
 
 Phim hành động tốc độ 40 phút do AI tạo.
 

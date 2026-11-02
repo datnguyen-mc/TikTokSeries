@@ -13,11 +13,11 @@ Lời người dẫn chuyện khi xuất hiện lần đầu (05.1): Tom, sĩ qu
 Biến thể và prompt ảnh tham chiếu:
 - **TOM:** Photorealistic reference of the SAME approved identity, age 27, fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **TOM_R:** Photorealistic reference of the SAME approved identity, age 27, matte-black leather bomber jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Plain grey studio background, full body and portrait, no text, no real actor likeness.
-- **TOM_B:** Photorealistic reference of the SAME approved identity, age 27, open dark-blue work shirt over charcoal T-shirt, subtle cheekbone bruise and soot smudge on jaw, dark jeans, worn work boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **TOM_B:** Photorealistic reference of the SAME approved identity, age 27, open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
 ## Micdo · @Micdo
 
-Thủ lĩnh băng cướp xe tải và tay đua đường phố huyền thoại. Sống trọn vẹn từng phần tư dặm (10 giây), đặt gia đình và danh dự lên trên hết.
+Thủ lĩnh đội xe đường phố huyền thoại. Sống trọn vẹn từng phần tư dặm (10 giây), đặt gia đình và danh dự lên trên hết.
 
 Nhận diện: Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain.
 Giọng xuyên phim: deep, resonant, authoritative Southern Vietnamese male voice.
@@ -26,11 +26,11 @@ Lời người dẫn chuyện khi xuất hiện lần đầu (09.1): Micdo, tay 
 Biến thể và prompt ảnh tham chiếu:
 - **MICDO:** Photorealistic reference of the SAME approved identity, age 32, fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **MICDO_H:** Photorealistic reference of the SAME approved identity, age 32, black tactical driving windbreaker zipped over dark shirt, black leather driving gloves, dark cargo trousers, heavy boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
-- **MICDO_W:** Photorealistic reference of the SAME approved identity, age 32, scuffed black leather jacket over white tank top, minor forehead scrape from the rollover, bare hands, dark jeans, heavy boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **MICDO_W:** Photorealistic reference of the SAME approved identity, age 32, scuffed black leather jacket over white tank top, light dust smudge on forehead after the stunt spin, bare hands, dark jeans, heavy boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
 ## Ami · @Ami
 
-Em gái của Micdo, chủ quán tạp hóa Toto. Dịu dàng nhưng kiên cường, yêu Tom thật lòng và đau đớn khi biết thân phận cảnh sát chìm của anh.
+Em gái của Micdo, chủ quán tạp hóa Toto. Dịu dàng nhưng kiên cường, yêu Tom thật lòng và xúc động khi biết thân phận cảnh sát chìm của anh.
 
 Nhận diện: Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings.
 Giọng xuyên phim: warm, clear, expressive Southern Vietnamese female voice.
@@ -42,7 +42,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Cevin · @Cevin
 
-Bạn thời thơ ấu và cánh tay phải nóng nảy của Micdo. Thầm thương Ami, luôn nghi ngờ Tom từ cái nhìn đầu tiên và bị thương nặng trong vụ cướp cuối.
+Bạn thời thơ ấu và cánh tay phải nóng nảy của Micdo. Thầm thương Ami, luôn nghi ngờ Tom từ cái nhìn đầu tiên và gặp sự cố dây cáp nguy hiểm trong phi vụ cuối.
 
 Nhận diện: Athletic man with short spiky bleached-tip hair, intense brow, faint scar on right knuckle, silver chain bracelet on right wrist.
 Giọng xuyên phim: rough, fiery, direct Southern Vietnamese male voice.
@@ -51,11 +51,11 @@ Lời người dẫn chuyện khi xuất hiện lần đầu (02.1): Cevin, cán
 Biến thể và prompt ảnh tham chiếu:
 - **CEVIN:** Photorealistic reference of the SAME approved identity, age 29, maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 - **CEVIN_H:** Photorealistic reference of the SAME approved identity, age 29, black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants. Plain grey studio background, full body and portrait, no text, no real actor likeness.
-- **CEVIN_W:** Photorealistic reference of the SAME approved identity, age 29, torn black tactical vest with a clean field compress held against his bruised side, sweat-streaked face, fingerless gloves. Plain grey studio background, full body and portrait, no text, no real actor likeness.
+- **CEVIN_W:** Photorealistic reference of the SAME approved identity, age 29, scuffed black tactical vest with a clean folded towel held against his waist harness after the high-speed stunt, sweat-streaked face, fingerless gloves. Plain grey studio background, full body and portrait, no text, no real actor likeness.
 
 ## Cina · @Cina
 
-Bạn gái cá tính của Micdo và thành viên cốt cán trong đội đua xe – cướp container. Luôn sát cánh cùng Micdo trong mọi phi vụ.
+Bạn gái cá tính của Micdo và thành viên cốt cán trong đội đua xe đường phố. Luôn sát cánh cùng Micdo trong mọi phi vụ.
 
 Nhận diện: Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear.
 Giọng xuyên phim: cool, firm, clear Southern Vietnamese female voice.
@@ -79,7 +79,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Onle · @Onle
 
-Thành viên kỳ cựu, thợ máy gầm bệ và tay lái bọc hậu vững vàng trong băng của Micdo.
+Thành viên kỳ cựu, thợ máy gầm bệ và tay lái bọc hậu vững vàng trong đội của Micdo.
 
 Nhận diện: Broad-shouldered mechanic with a neat goatee, calm steady eyes, grease-weathered hands.
 Giọng xuyên phim: steady, grounded Southern Vietnamese male voice.
@@ -91,7 +91,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Ny Tran · @NyTran
 
-Thủ lĩnh băng mô tô Light Saigon tại Little Saigon, đối thủ buôn lậu và đua xe tàn nhẫn của Micdo.
+Thủ lĩnh băng mô tô Light Saigon tại Little Saigon, đối thủ đua xe đầy mưu mô của Micdo.
 
 Nhận diện: Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain.
 Giọng xuyên phim: cold, smooth, menacing Southern Vietnamese male voice.
@@ -103,7 +103,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Cela · @Cela
 
-Anh họ và đồng đảng thân cận luôn kề cận Ny Tran trong mọi cuộc vây ép và truy sát.
+Anh họ và đồng đảng thân cận luôn kề cận Ny Tran trong mọi cuộc vây ép và rượt đuổi.
 
 Nhận diện: Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon tattoo sleeve on right forearm.
 Giọng xuyên phim: raspy, clipped Southern Vietnamese male voice.
@@ -126,7 +126,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Kinan · @Kinan
 
-Đặc vụ FBI phối hợp điều tra các vụ cướp xe tải trên xa lộ, cứng rắn và nóng lòng phá án trước khi các tài xế tự vũ trang.
+Đặc vụ FBI phối hợp điều tra các vụ mất hàng xe tải trên xa lộ, cứng rắn và nóng lòng phá án trước khi các tài xế tự chuẩn bị phòng vệ.
 
 Nhận diện: Tall federal agent with neatly parted dark hair, sharp angular features, piercing gaze.
 Giọng xuyên phim: crisp, urgent, commanding Southern Vietnamese male voice.
@@ -138,7 +138,7 @@ Biến thể và prompt ảnh tham chiếu:
 
 ## Verni · @Verni
 
-Tài xế xe container 18 bánh đường dài trên xa lộ Interstate 10, nạn nhân vụ cướp đầu phim và người tự vũ trang chống trả quyết liệt ở phi vụ cuối.
+Tài xế xe container 18 bánh đường dài trên xa lộ Interstate 10, nạn nhân phi vụ đầu phim và người chủ động phòng vệ quyết liệt ở phi vụ cuối.
 
 Nhận diện: Stocky long-haul truck driver with a thick grey-streaked beard, sun-weathered face, strong forearms.
 Giọng xuyên phim: gravelly, booming Southern Vietnamese male voice.

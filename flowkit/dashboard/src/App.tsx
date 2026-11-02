@@ -15,6 +15,8 @@ import {
   Sparkles,
   CheckCircle2,
   AlertCircle,
+  GitFork,
+  BarChart3,
 } from 'lucide-react'
 import { TooltipProvider } from '@/components/ui/tooltip'
 import { WebSocketProvider } from './api/WebSocketContext'
@@ -23,7 +25,9 @@ import { LanguageProvider } from './i18n/LanguageContext'
 import { useTranslation } from './i18n/useTranslation'
 import { LANGS, LANG_LABELS, type Lang } from './i18n/translations'
 import { fetchAPI, getCmsToken, setCmsToken, API_BASE_URL } from './api/client'
+import AnalyticsDashboardPage from './pages/AnalyticsDashboardPage'
 import ChannelsCMSPage from './pages/ChannelsCMSPage'
+import WorkflowPage from './pages/WorkflowPage'
 import LoginPage, { type CmsUser } from './pages/LoginPage'
 import DashboardPage from './pages/DashboardPage'
 import ProjectsPage from './pages/ProjectsPage'
@@ -33,16 +37,18 @@ import GuidePage from './pages/GuidePage'
 import SettingsPage from './pages/SettingsPage'
 
 const STUDIO_NAV = [
-  { to: '/', icon: Tv, label: 'Studio Kênh Series', badge: 'CMS', exact: true },
-  { to: '/logs', icon: ScrollText, label: 'Nhật Ký & Log SQLite', badge: 'Live', exact: false },
+  { to: '/', icon: BarChart3, label: 'Dashboard', badge: 'KPI', exact: true },
+  { to: '/channels', icon: Tv, label: 'Kênh Series', badge: 'CMS', exact: false },
+  { to: '/workflow', icon: GitFork, label: 'Agent Workflow', badge: 'Flow', exact: false },
+  { to: '/logs', icon: ScrollText, label: 'Nhật Ký & Log', badge: 'Live', exact: false },
   { to: '/projects', icon: FolderOpen, label: 'Dự Án & Nhân Vật', exact: false },
-  { to: '/gallery', icon: Film, label: 'Thư Viện Media', exact: false },
+  { to: '/gallery', icon: Film, label: 'Thư Viện', exact: false },
 ]
 
 const SYSTEM_NAV = [
-  { to: '/console', icon: LayoutDashboard, label: 'Hàng Đợi Worker', exact: false },
+  { to: '/console', icon: LayoutDashboard, label: 'Hàng Đợi', exact: false },
   { to: '/guide', icon: BookOpen, label: 'Hướng Dẫn Vận Hành', exact: false },
-  { to: '/settings', icon: SlidersHorizontal, label: 'Cài Đặt Hệ Thống', exact: false },
+  { to: '/settings', icon: SlidersHorizontal, label: 'Cài Đặt', exact: false },
 ]
 
 function useClock() {
@@ -327,21 +333,35 @@ function Header({ user }: { user: CmsUser }) {
   const channelDisplayName = channelSlug ? CHANNEL_TITLES[channelSlug] || channelSlug : null
 
   const pageMeta =
-    loc.pathname === '/'
+    loc.pathname === '/' || loc.pathname === '/dashboard'
       ? {
-          badge: 'DANH SÁCH KÊNH',
-          title: 'Bảng Quản Lý Kênh TikTok Series (List Table)',
-          subtitle: 'Tổng hợp tiến độ render clips, khóa nhân vật (@Character) và trạng thái ghép tập của 6 kênh',
-          docTitle: 'Danh Sách Kênh TikTok Series | FlowKit Studio CMS',
+          badge: 'DASHBOARD THỐNG KÊ',
+          title: 'Trung Tâm Thống Kê & Giám Sát Sản Xuất TikTok Series',
+          subtitle: 'Tổng hợp KPI tiến độ render clips, ghép tập FULL MP4, nhân vật @Character và đồng bộ Cloudflare D1 / R2',
+          docTitle: 'Dashboard Thống Kê | FlowKit Studio CMS',
         }
-      : channelSlug
+      : loc.pathname === '/channels'
         ? {
-            badge: 'STUDIO CHI TIẾT',
-            title: `Studio Sản Xuất Kênh: ${channelDisplayName}`,
-            subtitle: `Tạo kịch bản prompt tập mới, khóa nhân vật cố định & tự động ghép tập FULL MP4 (${channelSlug})`,
-            docTitle: `${channelDisplayName} — Studio Kênh | FlowKit Studio CMS`,
+            badge: 'DANH SÁCH KÊNH',
+            title: 'Bảng Quản Lý Kênh TikTok Series (Studio Kênh Series)',
+            subtitle: 'Tổng hợp tiến độ render clips, khóa nhân vật (@Character) và trạng thái ghép tập của các kênh',
+            docTitle: 'Studio Kênh Series (/channels) | FlowKit Studio CMS',
           }
-        : loc.pathname.startsWith('/logs')
+        : channelSlug
+          ? {
+              badge: 'STUDIO CHI TIẾT',
+              title: `Studio Sản Xuất Kênh: ${channelDisplayName}`,
+              subtitle: `Tạo kịch bản prompt tập mới, khóa nhân vật cố định & tự động ghép tập FULL MP4 (${channelSlug})`,
+              docTitle: `${channelDisplayName} — Studio Kênh | FlowKit Studio CMS`,
+            }
+        : loc.pathname.startsWith('/workflow')
+          ? {
+              badge: 'AGENT WORKFLOW',
+              title: 'Workflow Kéo Thả & Điều Phối Agent',
+              subtitle: 'Kéo thả node quy trình sản xuất, kết nối luồng và chạy tự động Agent Render, Ghép MP4, Đồng bộ D1/R2',
+              docTitle: 'Workflow Kéo Thả Agent | FlowKit Studio CMS',
+            }
+          : loc.pathname.startsWith('/logs')
           ? {
               badge: 'SQLITE LOGS',
               title: 'Nhật Ký Hoạt Động & Log Theo Kênh',
@@ -435,15 +455,20 @@ function Header({ user }: { user: CmsUser }) {
 }
 
 function Layout({ user, onLogout }: { user: CmsUser; onLogout: () => void }) {
+  const loc = useLocation()
+  const isWorkflow = loc.pathname.startsWith('/workflow')
   return (
     <div className="flex h-screen overflow-hidden bg-[#07090e] text-slate-100">
       <Sidebar user={user} onLogout={onLogout} />
       <div className="flex flex-col flex-1 overflow-hidden">
         <Header user={user} />
-        <main className="flex-1 overflow-y-auto p-6">
+        <main className={`flex-1 overflow-y-auto ${isWorkflow ? 'p-2.5' : 'p-6'}`}>
           <Routes>
-            <Route path="/" element={<ChannelsCMSPage />} />
+            <Route path="/" element={<AnalyticsDashboardPage />} />
+            <Route path="/dashboard" element={<AnalyticsDashboardPage />} />
+            <Route path="/channels" element={<ChannelsCMSPage />} />
             <Route path="/channels/:slug" element={<ChannelsCMSPage />} />
+            <Route path="/workflow" element={<WorkflowPage />} />
             <Route path="/console" element={<DashboardPage />} />
             <Route path="/projects" element={<ProjectsPage />} />
             <Route path="/projects/:id" element={<ProjectsPage />} />

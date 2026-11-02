@@ -16,6 +16,7 @@ from pathlib import Path
 from uuid import UUID
 
 from film_bible import (
+    ACTION_STUNT_CHOREOGRAPHY_RULE,
     CHARACTER_LOCK,
     ENVIRONMENT_LOCK,
     GLOBAL_FILM_BIBLE,
@@ -33,7 +34,7 @@ CAMERAS = {
     'C': '85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.',
     'I': '85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves decisively from 0.0s and stays spatially readable without forcing visible characters into frame.',
     'T': '35mm lateral tracking shot moving with the subject in the established direction. No whip pan, drone move or reverse-axis cut.',
-    'H': '35mm controlled handheld medium-wide with kinetic energy. Keep the entire defensive action readable from one side of the axis.',
+    'H': '35mm controlled handheld medium-wide with kinetic energy, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera\'s view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.',
     'O': '50mm over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.',
     'P': '50mm steady, purposeful straight push-in, no lens change, no orbit. Tension builds while the final expression stays readable.',
     'E': '24mm wide-angle cinematic opening move: one smooth continuous low-angle lateral track pacing the moving vehicle along the established road axis with natural speed and parallax. No drone, no whip pan, no cut.',
@@ -92,6 +93,12 @@ DOUBLE_ARTICLE_OR_RAW_LENS = re.compile(r'\bthe\s+moving\s+the\b|\bthe\s+the\b|\
 BOILERPLATE_INTENT = re.compile(r'Drive the dramatic momentum of Scene', re.I)
 DRIVER_OUTSIDE_MOVING_VEHICLE = re.compile(r'positioned in the primary foreground plane beside the (?:rig 18|civic trio|eclipse|rx7|charger|supra)', re.I)
 STOPPING_CAMERA_IN_PURSUIT = re.compile(r'decelerates with it and settles at eye level as it stops', re.I)
+UNSAFE_VIOLENCE_OR_GORE_WORDS = re.compile(
+    r'\b(bloody|bleeding|(?<!no\s)gore|gory|wound|wounded|bruise|bruised|trauma|throw a punch|right hook|counter-strike|'
+    r'strike Seja down|knock Seja hard|unconscious|engulfed in flames|burn fiercely|'
+    r'đổ máu|bằng máu|sôi máu|ẩu đả|đánh nhau|vết thương|bị thương|vết bầm|gãy răng|gãy chân|thoi thóp|ngã gục|cái chết|đền tội|truy sát|bốc cháy|nổ tung|phát nổ)\b',
+    re.I,
+)
 SELF_INTRO = re.compile(rf'\b(tôi|tui|tao|em|con|mình)\s+(là|tên)\s+{LEAD_NAMES}\b|\btên (tôi|tui|tao|em|con) là\b', re.I)
 FIRST_PERSON = re.compile(r'\b(tôi|tui|tao|em|mình|ta)\b', re.I)
 DETAIL_FIELDS = ('intent', 'composition', 'blocking', 'performance', 'focus', 'texture', 'sound_detail', 'rhythm')
@@ -254,6 +261,9 @@ def validate(plan: dict, shots: list[dict]) -> None:
         ]
         if any(BROADCAST_WORDS.search(t) for t in written):
             errors.append(f"{c['id']}: TV/news wording invites a broadcaster logo or news graphics")
+        if any(UNSAFE_VIOLENCE_OR_GORE_WORDS.search(t) for t in written):
+            bad_matches = {m.group(0) for t in written for m in UNSAFE_VIOLENCE_OR_GORE_WORDS.finditer(t)}
+            errors.append(f"{c['id']}: unsafe violence/gore/injury wording {sorted(bad_matches)}; reframe as simulated martial arts stunt choreography")
         if any(DUPLICATE_CHAR_PAIR.search(t) for t in written):
             errors.append(f"{c['id']}: duplicate character reference (e.g. 'X and X' or 'X eyes fixed on X')")
         if any(ADJACENT_LEAD_NAMES.search(t) for t in (c['start_frame'], c['action'], c['end_frame'], *c.get('cinematic', {}).values())):
@@ -545,7 +555,7 @@ def render_prompt(plan: dict, c: dict, previous: dict | None, following: dict | 
     shutter = SHUTTER.get(c['camera'], 'Natural 180-degree shutter')
     clip_avoid = f"\nIn this shot also do not show or do: {c['avoid']}." if c.get('avoid') else ''
     return f"""{head}
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action high-velocity street-racing and undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: deep asphalt shadows, crisp neon and sodium street highlights, natural skin tones; no artificial lens flare or beauty smoothing. In a single continuous shot from 0.0s to 10.0s (Omni workflow: {wf_mode}, shot type: {shot_type}): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: {wf_mode}, shot type: {shot_type}): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 {CLEAN_FRAME}
 
 [CHARACTERS — approved identities and current appearances]
@@ -573,7 +583,7 @@ Spatial geography & 180-degree axis: {env_axis}
 
 [ACTION — 0–10s, one evolving take]
 {c['action']}
-Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no quiet pause. Breathing and existing environmental motion continue naturally through 10.0s.{rhythm}
+Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.{rhythm}
 {staging}
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -599,7 +609,7 @@ Keep diegetic continuity, dialogue clean and forward; every sound effect has a v
 {out}
 
 [AVOID]
-Do not show or do any of the following: cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.{clip_avoid}
+Do not show or do any of the following: blood, graphic injuries, gore, open wounds, real unchoreographed violence, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.{clip_avoid}
 """
 
 
@@ -653,7 +663,7 @@ def render_script(plan: dict, shots: list[dict]) -> str:
         f'## Kịch bản phân cảnh chi tiết bản {edition(plan)} — Chuẩn biên kịch điện ảnh 30 năm', '',
         '**40 đơn vị sản xuất × 6 clip × 10 giây = 40 phút hình nguồn (240 clips).** Mỗi clip một cú máy, quản lý chặt chẽ trang phục, xe độ, bình NOS, giấy tờ xe và đạo cụ cầm tay xuyên suốt 240 phân cảnh.', '',
         'Nguồn duy nhất: `PHAN_CANH_V3.json`. Hành động/camera viết tiếng Anh cho prompt kèm bản phân cảnh tiếng Việt 3 nhịp chi tiết. Tái sinh bằng `python3 build_full_40_scenes.py`; kiểm tra bằng `python3 build_full_40_scenes.py --check`.', '',
-        'Tom — sĩ quan cảnh sát chìm LAPD — thâm nhập vào giới đua xe đường phố của Micdo Toto để điều tra các vụ cướp xe container trên xa lộ Interstate 10. Giữa những trận đua 1/4 dặm sinh tử, mối tình với Ami Toto, cuộc chiến chống băng mô tô Light Saigon của Ny Tran và bi kịch của Seja cùng Cevin, Tom phải lựa chọn giữa nhiệm vụ cảnh sát và tình nghĩa anh em trên đường đua 10 giây cuối cùng.', '',
+        'Tom — sĩ quan cảnh sát chìm LAPD — thâm nhập vào giới đua xe đường phố của Micdo Toto để điều tra các phi vụ chặn xe container trên xa lộ Interstate 10. Giữa những trận đua 1/4 dặm nghẹt thở, mối tình với Ami Toto, cuộc đối đầu với băng mô tô Light Saigon của Ny Tran và biến cố của Seja cùng Cevin, Tom phải lựa chọn giữa nhiệm vụ cảnh sát và tình nghĩa anh em trên đường đua 10 giây cuối cùng.', '',
         '| Cảnh | Phút phim | Tên | Biến chuyển mới |', '|---|---|---|---|'
     ]
     for s in plan['scenes']:
@@ -735,6 +745,7 @@ def render_locks(plan: dict) -> str:
         'Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng Việt giọng miền Nam. Không đóng băng cuối clip, không tự tạo nhạc riêng từng đoạn. Nhạc và title làm trên timeline dựng.', '',
         '**Cách tạo:** clip ghi CONTINUE mở bằng `Continue…`, dùng frame cuối clip trước; mọi cú cắt khác mở bằng `[FORMAT]`, đính lại các reference có mặt. Shot chỉ có người nền, không chỉ định reference, dùng text-to-video. Qua ranh giới cảnh luôn là cú cắt biên tập rõ, phù hợp runner hiện tại. Không kéo một start frame qua đổi địa điểm/tuổi/trang phục.', '',
         '**Khung hình sạch, không logo đài truyền hình, không nháy ảnh thẻ nhân vật:** mọi prompt cấm logo đài hoặc kênh ở góc hình, watermark, chữ chạy tin tức, lower-third, biểu tượng LIVE/REC, đồng hồ thời gian và tuyệt đối cấm chèn/nháy ảnh thẻ tham chiếu nhân vật nền xám ở đầu hoặc cuối clip.', '',
+        '**Quy tắc An toàn Cảnh Hành động & Võ thuật (Simulated Stunt Choreography Rule):** Mọi cảnh đối đầu, võ thuật hoặc rượt đuổi được mô tả theo chuẩn biên đạo cascadeur chuyên nghiệp (*Two professional stunt performers execute a tightly choreographed martial arts confrontation. Fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions. One performer loses balance and falls safely onto padded flooring outside the camera\'s view. Intense action-film atmosphere, realistic lighting, handheld cinematography, fast-paced editing style, authentic Vietnamese action cinema. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.*).', '',
         f"**Giọng người dẫn chuyện (khóa cố định):** {plan['narrator']['voice_vi']}", '',
         '| Nhân vật | Handle | media_id đã có |', '|---|---|---|'
     ]
@@ -753,17 +764,17 @@ def render_locks(plan: dict) -> str:
 def render_characters(plan: dict) -> str:
     arcs = {
         'TOM': 'Sĩ quan cảnh sát chìm LAPD thâm nhập giới đua xe đường phố. Giằng xé giữa nhiệm vụ pháp luật và tình cảm chân thành với Ami cùng sự kính trọng dành cho Micdo Toto.',
-        'MICDO': 'Thủ lĩnh băng cướp xe tải và tay đua đường phố huyền thoại. Sống trọn vẹn từng phần tư dặm (10 giây), đặt gia đình và danh dự lên trên hết.',
-        'AMI': 'Em gái của Micdo, chủ quán tạp hóa Toto. Dịu dàng nhưng kiên cường, yêu Tom thật lòng và đau đớn khi biết thân phận cảnh sát chìm của anh.',
-        'CEVIN': 'Bạn thời thơ ấu và cánh tay phải nóng nảy của Micdo. Thầm thương Ami, luôn nghi ngờ Tom từ cái nhìn đầu tiên và bị thương nặng trong vụ cướp cuối.',
-        'CINA': 'Bạn gái cá tính của Micdo và thành viên cốt cán trong đội đua xe – cướp container. Luôn sát cánh cùng Micdo trong mọi phi vụ.',
+        'MICDO': 'Thủ lĩnh đội xe đường phố huyền thoại. Sống trọn vẹn từng phần tư dặm (10 giây), đặt gia đình và danh dự lên trên hết.',
+        'AMI': 'Em gái của Micdo, chủ quán tạp hóa Toto. Dịu dàng nhưng kiên cường, yêu Tom thật lòng và xúc động khi biết thân phận cảnh sát chìm của anh.',
+        'CEVIN': 'Bạn thời thơ ấu và cánh tay phải nóng nảy của Micdo. Thầm thương Ami, luôn nghi ngờ Tom từ cái nhìn đầu tiên và gặp sự cố dây cáp nguy hiểm trong phi vụ cuối.',
+        'CINA': 'Bạn gái cá tính của Micdo và thành viên cốt cán trong đội đua xe đường phố. Luôn sát cánh cùng Micdo trong mọi phi vụ.',
         'SEJA': 'Thiên tài toán học, máy tính và điện tử độ xe của nhóm (mắc chứng ADHD). Cùng Tom chế tạo chiếc Supra 10 giây, thua cược tại Race Wars và ngã xuống trước nhà Toto.',
-        'ONLE': 'Thành viên kỳ cựu, thợ máy gầm bệ và tay lái bọc hậu vững vàng trong băng của Micdo.',
-        'NYTRAN': 'Thủ lĩnh băng mô tô Light Saigon tại Little Saigon, đối thủ buôn lậu và đua xe tàn nhẫn của Micdo.',
-        'CELA': 'Anh họ và đồng đảng thân cận luôn kề cận Ny Tran trong mọi cuộc vây ép và truy sát.',
+        'ONLE': 'Thành viên kỳ cựu, thợ máy gầm bệ và tay lái bọc hậu vững vàng trong đội của Micdo.',
+        'NYTRAN': 'Thủ lĩnh băng mô tô Light Saigon tại Little Saigon, đối thủ đua xe đầy mưu mô của Micdo.',
+        'CELA': 'Anh họ và đồng đảng thân cận luôn kề cận Ny Tran trong mọi cuộc vây ép và rượt đuổi.',
         'NESE': 'Sĩ quan cảnh sát LAPD chỉ huy trực tiếp của Tom, hiểu rõ ranh giới mong manh của một cảnh sát chìm.',
-        'KINAN': 'Đặc vụ FBI phối hợp điều tra các vụ cướp xe tải trên xa lộ, cứng rắn và nóng lòng phá án trước khi các tài xế tự vũ trang.',
-        'VERNI': 'Tài xế xe container 18 bánh đường dài trên xa lộ Interstate 10, nạn nhân vụ cướp đầu phim và người tự vũ trang chống trả quyết liệt ở phi vụ cuối.',
+        'KINAN': 'Đặc vụ FBI phối hợp điều tra các vụ mất hàng xe tải trên xa lộ, cứng rắn và nóng lòng phá án trước khi các tài xế tự chuẩn bị phòng vệ.',
+        'VERNI': 'Tài xế xe container 18 bánh đường dài trên xa lộ Interstate 10, nạn nhân phi vụ đầu phim và người chủ động phòng vệ quyết liệt ở phi vụ cuối.',
     }
     shots = normalize(plan)
     first = first_appearances(plan, shots)

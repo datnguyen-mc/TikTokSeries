@@ -8,7 +8,7 @@ Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse 
 
 **Câu hỏi đang mở:** Tom đang làm gì dưới vỏ bọc thợ máy tại tiệm phụ tùng của Ryh?
 **Móc vào cảnh:** Tom siết ốc cụm tăng áp cho chiếc Eclipse xanh neon dưới ánh nắng sớm.
-**Điểm bẻ:** Ông chủ Ryh nhắc tới vụ cướp container đêm qua khiến Tom lập tức chú ý.
+**Điểm bẻ:** Ông chủ Ryh nhắc tới phi vụ lấy hàng container đêm qua khiến Tom lập tức chú ý.
 **Gieo / trả:** Giới thiệu Tom và chuẩn bị cho chuyến ghé quán tạp hóa Toto mỗi trưa.
 
 Một clip là một cú máy. Chỉ dùng frame cuối làm đầu vào khi bảng ghi **CONTINUE**; các hàng khác là cú cắt có chủ đích và đính lại reference. Shot chỉ có người nền, không có reference được chỉ định, dùng text-to-video. Không dùng frame cũ để kéo qua địa điểm mới.

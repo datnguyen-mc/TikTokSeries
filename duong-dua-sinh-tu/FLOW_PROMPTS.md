@@ -6,6 +6,8 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 
 **Khung hình sạch, không logo đài truyền hình, không nháy ảnh thẻ nhân vật:** mọi prompt cấm logo đài hoặc kênh ở góc hình, watermark, chữ chạy tin tức, lower-third, biểu tượng LIVE/REC, đồng hồ thời gian và tuyệt đối cấm chèn/nháy ảnh thẻ tham chiếu nhân vật nền xám ở đầu hoặc cuối clip.
 
+**Quy tắc An toàn Cảnh Hành động & Võ thuật (Simulated Stunt Choreography Rule):** Mọi cảnh đối đầu, võ thuật hoặc rượt đuổi được mô tả theo chuẩn biên đạo cascadeur chuyên nghiệp (*Two professional stunt performers execute a tightly choreographed martial arts confrontation. Fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions. One performer loses balance and falls safely onto padded flooring outside the camera's view. Intense action-film atmosphere, realistic lighting, handheld cinematography, fast-paced editing style, authentic Vietnamese action cinema. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.*).
+
 **Giọng người dẫn chuyện (khóa cố định):** Nữ khoảng năm mươi tuổi, giọng Nam Bộ (Sài Gòn); tông trầm ấm (alto), hơi khàn nhẹ; giọng kể điềm tĩnh, sâu lắng như người dẫn phim điện ảnh, nhịp chậm đều, khoảng ba rưỡi âm tiết mỗi giây. Không phải nhân vật trong cảnh: mọi miệng trên hình khép, không ai nhép theo lời bà.
 
 | Nhân vật | Handle | media_id đã có |
@@ -27,15 +29,15 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 
 - **TOM** → `@Tom`, 27 tuổi: fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist.
 - **TOM_R** → `@Tom`, 27 tuổi: matte-black leather bomber jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist.
-- **TOM_B** → `@Tom`, 27 tuổi: open dark-blue work shirt over charcoal T-shirt, subtle cheekbone bruise and soot smudge on jaw, dark jeans, worn work boots.
+- **TOM_B** → `@Tom`, 27 tuổi: open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots.
 - **MICDO** → `@Micdo`, 32 tuổi: fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots.
 - **MICDO_H** → `@Micdo`, 32 tuổi: black tactical driving windbreaker zipped over dark shirt, black leather driving gloves, dark cargo trousers, heavy boots.
-- **MICDO_W** → `@Micdo`, 32 tuổi: scuffed black leather jacket over white tank top, minor forehead scrape from the rollover, bare hands, dark jeans, heavy boots.
+- **MICDO_W** → `@Micdo`, 32 tuổi: scuffed black leather jacket over white tank top, light dust smudge on forehead after the stunt spin, bare hands, dark jeans, heavy boots.
 - **AMI** → `@Ami`, 24 tuổi: fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings.
 - **AMI_N** → `@Ami`, 24 tuổi: cropped tan suede jacket over burgundy top, dark jeans, sneakers, hair loose over shoulders.
 - **CEVIN** → `@Cevin`, 29 tuổi: maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots.
 - **CEVIN_H** → `@Cevin`, 29 tuổi: black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants.
-- **CEVIN_W** → `@Cevin`, 29 tuổi: torn black tactical vest with a clean field compress held against his bruised side, sweat-streaked face, fingerless gloves.
+- **CEVIN_W** → `@Cevin`, 29 tuổi: scuffed black tactical vest with a clean folded towel held against his waist harness after the high-speed stunt, sweat-streaked face, fingerless gloves.
 - **CINA** → `@Cina`, 28 tuổi: cropped black leather vest over crimson top, low-rise dark leather trousers, heavy lace boots.
 - **CINA_H** → `@Cina`, 28 tuổi: fitted black zip driving jacket, fingerless leather driving gloves, dark tactical pants, compact radio earpiece.
 - **SEJA** → `@Seja`, 22 tuổi: oversized olive graphic work shirt over striped long-sleeve tee, cargo trousers, sneakers, canvas laptop strap across chest.
@@ -64,7 +66,7 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 - **S2000:** Jet-black open-top roadster with concealed dual Nitrous Oxide system under the driver seat.
 - **MOTO_PACK:** Matte-black high-displacement street sport motorcycles with carbon-textured fairings.
 - **F150_TRUCK:** Bright-red shop pickup truck carrying wooden auto-parts crates in the rear bed.
-- **HARPOON_CABLE:** Heavy-duty pneumatic steel-cable grapnel launcher and high-tensile safety tether line linking the coupe and truck cabin.
+- **HARPOON_CABLE:** Heavy-duty pneumatic steel-cable tether rig and high-tensile safety tether line linking the coupe and truck cabin.
 - **BREACH_CHARGE:** Compact magnetic remote latch-release module attached to the rear container door lock.
 - **TUNA_SANDWICH:** White ceramic plate holding a crustless tuna sandwich and a tall glass of iced water on the Toto counter.
 - **PINK_SLIP:** Official vehicle title registration certificate folded inside a clear protective sleeve.

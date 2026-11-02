@@ -41,7 +41,7 @@ Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial pr
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_WAREHOUSE; Kinan moves smoothly on the near side while Nese holds the counter-angle.
-Performance: Kinan plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Kinan delivers the line with crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace, while Nese maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -52,7 +52,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Kinan (@Kinan) says on screen, in the crisp, urgent, commanding Southern Vietnamese male voice: Kiểm tra toàn bộ dãy mã số trên các thùng đầu đĩa và màn hình trong kho này ngay.
+2.8–7.9s · Kinan (@Kinan) says on screen, in the crisp, urgent, commanding Southern Vietnamese male voice: Quét toàn bộ mã số trên các kiện hàng điện tử này, tìm cho ra tang vật bị mất!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

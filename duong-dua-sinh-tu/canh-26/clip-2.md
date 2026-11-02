@@ -38,7 +38,7 @@ Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_MANSION; Cela moves smoothly on the near side while Ny Tran holds the counter-angle.
-Performance: Cela plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Cela delivers the line with watchful enforcer tension, coiled shoulder posture, sharp chin movements, and clipped raspy projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -49,7 +49,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Cela (@Cela) says on screen, in the raspy, clipped Southern Vietnamese male voice: Kính cửa sau chiếc xe kia vừa hé xuống kìa, nhìn kỹ xem kẻ nào đang ngồi bên trong.
+2.8–7.9s · Cela (@Cela) says on screen, in the raspy, clipped Southern Vietnamese male voice: Nhìn qua khe kính chiếc xe chỉ huy kìa Ny Tran, coi kẻ nào đang ngồi trốn bên trong!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

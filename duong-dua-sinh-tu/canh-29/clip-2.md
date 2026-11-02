@@ -37,7 +37,7 @@ Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane aligned with Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES.
-Performance: Seja plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence and organic micro-expressions.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -48,7 +48,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Seja (@Seja) says on screen, in the quick, earnest, energetic Southern Vietnamese male voice: Giai đoạn đầu hoàn toàn đúng như biểu đồ tính toán, giữ nguyên vòng tua sang số ba đi.
+2.8–7.9s · Seja (@Seja) says on screen, in the quick, earnest, energetic Southern Vietnamese male voice: Mọi thông số đều khớp với biểu đồ, giữ vững vòng tua số ba là nắm chắc phần thắng!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

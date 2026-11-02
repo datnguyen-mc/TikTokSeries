@@ -42,7 +42,7 @@ Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial pr
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TASKFORCE_HQ; Nese moves smoothly on the near side while Kinan holds the counter-angle.
-Performance: Nese plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Kinan maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -55,7 +55,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-overs stay dry and close.
 Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
 0.3–3.4s · Narrator, off screen and not a character, in the locked narrator voice: Trung sĩ Nese của LAPD và đặc vụ liên bang Kinan.
-3.7–8.2s · Nese (@Nese) says on screen, in the measured, seasoned Southern Vietnamese male voice: Vết bụi trên mặt đẹp lắm, cậu vừa bị đám thợ máy đường phố dần cho hả.
+3.7–8.2s · Nese (@Nese) says on screen, in the measured, seasoned Southern Vietnamese male voice: Vệt bụi trên má coi bộ đắt giá đấy, cậu tính phá vỏ bọc nằm vùng sao?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

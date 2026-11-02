@@ -41,7 +41,7 @@ Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial pr
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside LA_HILLS_ROAD; Micdo moves smoothly on the near side while Ny Tran holds the counter-angle.
-Performance: Micdo plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -52,7 +52,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Thằng Cela đang ngoái lại định áp sát gây nguy hiểm vào kính chắn gió xe tao kìa Tom!
+2.8–7.9s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Chạy đằng trời cũng không thoát khỏi tay tao đâu Cela, tấp chiếc mô tô của mày vô lề!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

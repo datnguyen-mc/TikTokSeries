@@ -39,7 +39,7 @@ Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, 
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_BACKYARD; Cevin moves smoothly on the near side while Micdo holds the counter-angle.
-Performance: Cevin plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,7 +50,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.7s · Cevin (@Cevin) says on screen, in the rough, fiery, direct Southern Vietnamese male voice: Em vẫn chưa tin được hắn đâu anh cả, hắn xuất hiện đúng lúc tới mức đáng ngờ.
+2.8–7.7s · Cevin (@Cevin) says on screen, in the rough, fiery, direct Southern Vietnamese male voice: Một thằng lạ mặt tự dưng liều mạng vì anh cả, em vẫn chưa thể tin hắn được.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

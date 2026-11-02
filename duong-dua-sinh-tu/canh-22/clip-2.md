@@ -39,7 +39,7 @@ Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Onle moves smoothly on the near side while Cevin holds the counter-angle.
-Performance: Onle plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,7 +50,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Onle (@Onle) says on screen, in the steady, grounded Southern Vietnamese male voice: Nhìn lớp vỏ móp méo này coi, đẩy bộ qua vạch đích còn chưa nổi huống chi là đua.
+2.8–7.9s · Onle (@Onle) says on screen, in the steady, grounded Southern Vietnamese male voice: Bộ vỏ móp méo cỡ này thì đẩy bộ qua vạch đích còn khó huống chi là đem đua.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

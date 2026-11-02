@@ -1232,72 +1232,347 @@ for _new_idx, _old_num in enumerate(SELECTED_OLD_SCENES, start=1):
     _NEW_SCENE_DIALOGUES[_new_idx] = _d_lines
 
 SCENE_SPECS = _NEW_SCENE_SPECS
-SCENE_DIALOGUES = _NEW_SCENE_DIALOGUES
 
-# Refine dialogue lines so the speaking character in Beat 2 always speaks naturally in first person and matches the on-screen action:
-SCENE_DIALOGUES[2][2] = "Buông cái khung kính cửa xe tao ra ngay thằng liều mạng kia!"
-SCENE_DIALOGUES[2][3] = "Ngồi yên trên ghế lái đi chú Verni, dây cáp ngoài kia đang căng hết cỡ rồi."
-SCENE_DIALOGUES[2][4] = "Tụi mày cướp đầu kéo của tao kiểu này thì cảnh sát không tha đâu!"
-SCENE_DIALOGUES[2][5] = "Tao khống chế được buồng lái rồi, Cina áp sát đuôi thùng xe đi!"
-SCENE_DIALOGUES[4][3] = "Hàng lên đủ hết rồi, cả đội chuẩn bị tách khỏi đầu kéo rẽ xuống lối ra!"
-SCENE_DIALOGUES[4][5] = "Đoạn đường nhánh phía sau sạch bóng xe tuần tra rồi, giữ đều ga rút êm luôn."
-SCENE_DIALOGUES[6][2] = "Phần bánh mì cá ngừ cắt vỏ của anh xong rồi đây, ăn liền cho ngon nghen."
-SCENE_DIALOGUES[6][3] = "Sao trưa nào anh cũng ghé quán gọi đúng món bánh mì cá ngừ này vậy?"
-SCENE_DIALOGUES[6][4] = "Vì ngày nào anh cũng muốn kiếm cớ ghé qua đây để được nhìn thấy em."
-SCENE_DIALOGUES[6][5] = "Tiếng bô xe ngoài cửa nghe quen lắm, đám của Cevin vừa kéo tới kìa anh Tom."
-SCENE_DIALOGUES[7][2] = "Thôi bỏ qua đi Cevin, giữ yên chuyện trước cửa quán của Ami đi anh em."
-SCENE_DIALOGUES[7][4] = "Tôi chỉ ghé quán ăn trưa thôi, giờ tôi lên xe quay về xưởng liền đây."
-SCENE_DIALOGUES[7][5] = "Đứng lại đó thằng kia, đừng tưởng bước ra tới xe là xong chuyện với tao!"
-SCENE_DIALOGUES[8][3] = "Cevin dừng tay lại ngay lập tức, anh định làm loạn trước quán nhà mình hả!"
-SCENE_DIALOGUES[8][4] = "Anh cả Micdo đang phóng chiếc xe đỏ về tới ngay đầu đường rồi kìa mọi người!"
-SCENE_DIALOGUES[8][5] = "Em cứ vào trong quầy trước đi Ami, để anh ở lại nói chuyện rõ ràng với anh trai em."
-SCENE_DIALOGUES[9][1] = "Chuyện hiểu lầm ngoài hiên quán đã dừng lại rồi, không ai bị sao hết đâu anh."
-SCENE_DIALOGUES[9][3] = "Anh hai đừng trách anh Tom, chính Cevin là người kiếm chuyện cản đường ảnh trước đó."
-SCENE_DIALOGUES[9][4] = "Tao không cần biết ai gây sự trước, nhưng tao không muốn thấy mặt cậu ở quán này lần thứ hai."
-SCENE_DIALOGUES[9][5] = "Tối nay trên đường đua đường phố, tôi với anh sẽ còn gặp lại nhau."
-SCENE_DIALOGUES[10][1] = "Đã có thêm bốn xe đầu kéo bị chặn cướp, cánh tài xế như Verni đang đòi tự vệ kìa."
-SCENE_DIALOGUES[10][3] = "Cách duy nhất để bước chân vào nhóm của Micdo đêm nay là thắng hắn trên đường đua."
-SCENE_DIALOGUES[10][4] = "Cầm lấy hồ sơ chiếc xe xanh này đi, đây là tấm vé duy nhất để cậu tiếp cận Micdo."
-SCENE_DIALOGUES[10][5] = "Nhớ giữ cái đầu tỉnh táo nha Tom, đừng để tình cảm với cô gái đó làm mờ phù hiệu cảnh sát."
-SCENE_DIALOGUES[11][1] = "Nhớ kỹ chiếc xe xanh đó ngốn hết tám mươi ngàn đô ngân sách kỹ thuật của đội đặc nhiệm đấy."
-SCENE_DIALOGUES[12][2] = "Mình phải canh thật kỹ đồng hồ áp suất, bấm bình thứ hai sớm quá là bung sàn xe ngay."
-SCENE_DIALOGUES[12][4] = "Tôi sẽ giữ nhịp sang số thật chuẩn để đưa con xe này chạm ngưỡng mười giây đêm nay."
-SCENE_DIALOGUES[14][0] = "Côn bám đường tốt quá, sang số hai ngay để giữ đà bám sát chiếc xe đỏ!"
-SCENE_DIALOGUES[14][2] = "Động cơ quay lên tám ngàn vòng êm ru, để coi cậu bám theo đuôi xe tao được bao xa."
-SCENE_DIALOGUES[16][2] = "Mình phải cắt ngang qua con hẻm kho hàng phía sau này để thoát ra đường nhánh thôi."
-SCENE_DIALOGUES[16][5] = "Không thể để Micdo bị cảnh sát bắt đêm nay được, mình phải quay xe lại cứu anh ấy ngay."
-SCENE_DIALOGUES[18][4] = "Tắt máy bước xuống bãi đá ngay lập tức, đưa cả hai bàn tay ra chỗ sáng cho tao nhìn thấy!"
-SCENE_DIALOGUES[18][5] = "Lá gan tụi mày lớn dữ ha, dám kéo chiếc xe bốc khói mù mịt chạy thẳng vô bãi kho của tụi tao!"
-SCENE_DIALOGUES[20][4] = "Bình tĩnh lại đi Cevin, cậu ấy vừa mất trắng cả chiếc xe để đưa anh Micdo về nhà an toàn đó."
-SCENE_DIALOGUES[21][5] = "Dù đã là người một nhà nhưng cậu vẫn còn nợ tao một chiếc xe chạy mười giây đó nha Tom."
-SCENE_DIALOGUES[27][5] = "Thả người của Ny Tran ra ngay, như vậy băng cướp xa lộ thật sự chỉ có thể là đội của Micdo."
-SCENE_DIALOGUES[28][3] = "Anh Tom nhìn ra vạch xuất phát kìa, Ny Tran vừa lái chiếc xe mui trần màu đen tiến lên đường đua đó."
-SCENE_DIALOGUES[28][4] = "Máy tính báo tỷ lệ thắng của em tới sáu mươi bốn phần trăm, em đặt cược giấy tờ xe với hắn rồi!"
-SCENE_DIALOGUES[28][5] = "Đừng mắc bẫy của Ny Tran nha Seja, dưới nắp máy chiếc xe đen đó giấu đồ độ khủng lắm!"
-SCENE_DIALOGUES[29][0] = "Đèn xanh bật sáng rồi, chiếc xe trắng của mình vọt lên dẫn trước nửa thân xe!"
-SCENE_DIALOGUES[29][3] = "Tạm biệt chiếc xe trắng nha nhóc, hai bình khí tăng tốc dưới ghế của tao không phải để trưng bày đâu!"
-SCENE_DIALOGUES[29][4] = "Mình làm mất chiếc xe kỷ vật của cha vào tay Ny Tran rồi, biết ăn nói sao với anh Micdo đây!"
-SCENE_DIALOGUES[29][5] = "Không thể giao chiếc xe này cho Ny Tran được, mình phải đạp ga chạy trốn khỏi đường băng này ngay!"
-SCENE_DIALOGUES[30][0] = "Bước ra đây ngay Micdo, thằng đàn em của mày vừa thua độ đã lái chiếc xe trắng bỏ trốn rồi kìa!"
-SCENE_DIALOGUES[30][1] = "Thằng Seja chỉ hoảng sợ nhất thời thôi, tự tay tao sẽ đi tìm nó rồi giao xe lại cho mày sau."
-SCENE_DIALOGUES[32][4] = "Sợi cáp thép quấn chặt vô cổ tay em rồi anh Micdo ơi, kéo em ra khỏi hông xe với!"
-SCENE_DIALOGUES[33][1] = "Bánh trước bên trái xe của em bị ép xẹp lốp rồi, chiếc xe đang trượt văng ra lề cát!"
-SCENE_DIALOGUES[36][5] = "Seja ơi bình tĩnh thở đều đi em, có anh hai với Ami đỡ em ngay trên bãi cỏ rồi đây!"
-SCENE_DIALOGUES[37][0] = "Anh Tom ơi, thằng bé Seja hiền lành vậy mà suýt nữa bị tụi nó tông thẳng ngay trước cửa nhà mình rồi!"
-SCENE_DIALOGUES[37][2] = "Anh Micdo định lấy chiếc xe cơ bắp đời một chín bảy mươi của cha ra chạy lúc đang nóng giận sao!"
-SCENE_DIALOGUES[37][3] = "Hôm nay tao sẽ bắt hai thằng Ny Tran và Cela phải trả đủ món nợ đã gây ra cho Seja!"
-SCENE_DIALOGUES[38][0] = "Thằng Cela đang ngoái lại định áp sát gây nguy hiểm vào kính chắn gió xe tao kìa Tom!"
-SCENE_DIALOGUES[38][1] = "Ny Tran đang ép sát cửa xe anh kìa Micdo, để tôi đạp lút ga lên làn phải khóa góc hắn lại!"
-SCENE_DIALOGUES[38][3] = "Tay lái mô tô của Ny Tran quệt trúng gương xe mình nên chao đảo lệch khỏi mặt đường dốc rồi!"
-SCENE_DIALOGUES[38][4] = "Chiếc mô tô của hắn trượt xuống lòng kênh bê tông bên dưới rồi, dừng tay lại tại đây thôi Micdo!"
-SCENE_DIALOGUES[38][5] = "Mối nguy từ nhóm Ny Tran đã xong, nhưng mình phải bám theo giữ cho Micdo bình tĩnh lại mới được."
-SCENE_DIALOGUES[39][0] = "Trong mười giây phía trước không còn quá khứ hay luật pháp gì nữa, chạy với tao một chặng cuối đi Tom!"
-SCENE_DIALOGUES[39][1] = "Sức kéo chín trăm mã lực kinh khủng thật, hai bánh trước xe của anh ấy nhấc bổng khỏi mặt đường luôn kìa!"
-SCENE_DIALOGUES[39][2] = "Đoàn tàu hỏa đang kéo còi sát bên phải rồi, cả hai xe phải vọt qua đường ray ngay tích tắc này!"
-SCENE_DIALOGUES[39][3] = "Vượt qua mũi tàu hỏa sát nút đúng một gang tấc, cảm giác mười giây tự do chính là lúc này đây!"
-SCENE_DIALOGUES[39][5] = "Chiếc xe đen của anh ấy quệt đuôi xe tải xoay vòng ra lề đất rồi, mình phải qua đỡ Micdo ngay!"
-SCENE_DIALOGUES[40][0] = "Nắm chặt lấy cánh tay tôi đi Micdo, để tôi đỡ anh bước ra khỏi buồng lái đang bốc hơi nước này!"
-SCENE_DIALOGUES[40][5] = "Món nợ chiếc xe mười giây tôi đã trả xong, giờ tôi đứng lại đây nhận mọi trách nhiệm với ông, trung sĩ Nese."
+# Feature-film canonical dialogue bank for all 40 scenes (240 clips):
+# Written with authentic Southern Vietnamese street-racing & undercover crime-drama subtext,
+# distinct character voices, and zero play-by-play camera narration.
+SCENE_DIALOGUES = {
+    1: [
+        "Giờ này mà ba chiếc xe đen tắt pha bám đuôi là có biến rồi.",
+        "Kèm sát hai bên hông thế này là tính ép đầu kéo tao vô lề đây.",
+        "Ánh đèn gầm xanh lá dưới mặt nhựa, đúng là tụi quái xế đường đêm rồi.",
+        "Tránh xa mũi xe tao ra, mười tám bánh sắt này không đạp phanh nhường đường đâu!",
+        "Khóa kín cả làn vượt lẫn làn trong, tụi nó tính vây sống chuyến hàng này.",
+        "Đổ hết con đèo này là tới trạm tuần tra, đừng hòng buộc tao giảm ga!",
+    ],
+    2: [
+        "Giữ cứng một trăm ba mươi cây số, để tao khóa mũi cáp vô cabin nó!",
+        "Ngàm từ tính ăn chặt khung thép rồi, giữ đều chân ga cho tao căng cáp!",
+        "Thằng liều mạng kia, buông cái khung cửa xe tao ra trước khi mất mạng!",
+        "Ngồi yên trên ghế lái đi chú Verni, ở tốc độ này đừng có làm liều!",
+        "Tụi mày cướp trắng chuyến hàng tâm huyết của tao, luật pháp không dung thứ đâu!",
+        "Buồng lái đầu kéo êm xuôi rồi, Cina đưa xe hai áp sát đuôi thùng đi!",
+    ],
+    3: [
+        "Ghìm mũi xe cách cản sau nửa thước, để chị khóa bộ kích từ vô chốt.",
+        "Gió hút sau thùng gắt lắm, giữ vững tay lái chờ nhịp trả số của chị.",
+        "Xung điện mở khóa ăn khớp rồi, nhả nhẹ chân ga cho cửa thùng bung ra.",
+        "Cửa thùng mở toang rồi anh em, nguyên kiện hàng điện tử còn niêm phong kín.",
+        "Onle đôn chiếc thứ ba vô khe giữa ngay, chị dạt làn mở đường cho.",
+        "Tao ghìm cứng đầu kéo ở làn giữa rồi, áp sát vô lấy hàng lẹ đi!",
+    ],
+    4: [
+        "Mũi xe khóa sát bệ thùng rồi, chốt nắp trước đã mở, chuyền hàng xuống đi!",
+        "Ưu tiên mấy kiện hàng lớn trước, giữ nhịp đều tay kẻo lệch trọng tâm xe.",
+        "Mẻ hàng đêm nay đáng giá từng đồng, đủ nuôi sống cả xưởng suốt mùa tới!",
+        "Còn đúng một dặm nữa là tới trạm gác, thu cáp rút khỏi xa lộ ngay!",
+        "Khoang sau khóa kín rồi, tắt sạch đèn gầm xanh lá, lặn vào bóng đêm thôi.",
+        "Nhánh đường phụ phía sau sạch bóng đèn tuần tra, tản ra ba ngả về xưởng!",
+    ],
+    5: [
+        "Cổ nạp chiếc xanh đã chỉnh chuẩn từng ly, chỉ chờ đêm xuống thử lửa.",
+        "Thêm một chuyến hàng tiền triệu bốc hơi trên xa lộ mười mà không để lại dấu vết.",
+        "Giới tài xế đường dài đã cạn kiên nhẫn, sóng gió ngoài xa lộ sắp nổi lên.",
+        "Ông canh giùm tôi đường dẫn nhiên liệu, đêm nay con xe này gánh kèo lớn.",
+        "Mấy thùng phụ tùng tôi chất lên xe rồi, tranh thủ ghé quán Toto ăn trưa chút.",
+        "Muốn bước vào thế giới của Micdo thì phải bắt đầu từ nơi hắn trân trọng nhất.",
+    ],
+    6: [
+        "Cho anh phần bánh mì cá ngừ cắt vỏ với ly đá lạnh như cũ nghen.",
+        "Nói thiệt nghen, cá ngừ quán này dở ẹc mà trưa nào anh cũng ráng nuốt được.",
+        "Bánh mì cắt vỏ của anh đây, ăn đi rồi khai thiệt coi tính mưu đồ gì.",
+        "Thú thật đi, đâu có ai ghé quán mỗi trưa chỉ vì món bánh dở tệ này?",
+        "Bánh mì dở thiệt, nhưng đó là cái cớ duy nhất để mỗi ngày anh được gặp em.",
+        "Tiếng pô xe ngoài hiên là đội của Cevin đó, anh ngồi yên đừng chấp họ nghen.",
+    ],
+    7: [
+        "Tao đã cảnh cáo rồi mà chiếc bán tải đỏ vẫn dám đậu trước quán hả?",
+        "Mình ghé uống nước thôi mà anh Cevin, giữ hòa khí trước tiệm của Ami đi.",
+        "Hạ cái đầu nóng xuống đi Cevin, chuyện làm ăn tối qua chưa đủ mệt sao anh em.",
+        "Mày điếc hả thằng thợ máy, tao đã bảo đừng bao giờ bén mảng tới gần Ami nữa!",
+        "Bữa trưa của tôi xong rồi, tôi trả tiền đàng hoàng rồi quay về xưởng làm việc đây.",
+        "Đứng lại đó, bước chân vào địa bàn nhà Toto đâu phải muốn đi là đi dễ vậy!",
+    ],
+    8: [
+        "Tôi không muốn gây chuyện trước tiệm của Ami, anh thu tay lại khi còn kịp đi.",
+        "Bày đặt điềm tĩnh hả, để coi một thợ máy học đâu ra thế thủ nhà nghề!",
+        "Tách ra ngay hai cái đầu nóng này, anh Micdo mà thấy cảnh này là không yên đâu!",
+        "Dừng tay lại ngay cho em Cevin, anh lấy quyền gì mà đuổi khách trước quán của em!",
+        "Tiếng pô động cơ quay ngoài đầu phố kìa, anh cả Micdo vừa trờ xe tới nơi rồi!",
+        "Em lùi vô trong hiên đi Ami, để anh tự đứng ra nói chuyện với anh hai.",
+    ],
+    9: [
+        "Dừng tay lại hết, Cevin lùi về sau lưng tao ngay lập tức!",
+        "Chuyện hiểu lầm ngoài hiên chỉ là va chạm cá nhân, không liên quan tới quán của anh.",
+        "Ở cái đất này, gia đình là giới hạn cuối cùng mà không kẻ nào được bước qua.",
+        "Anh hai đừng đổ lỗi cho anh Tom, chính Cevin kiếm chuyện chặn đường ảnh trước cửa quán!",
+        "Cậu làm cho lão Ryh thì về xưởng mà làm, cấm bén mảng tới quán này lần nữa.",
+        "Quán ăn là của anh, nhưng đường đua một phần tư dặm đêm nay không của riêng ai.",
+    ],
+    10: [
+        "Vệt bụi trên má coi bộ đắt giá đấy, cậu tính phá vỏ bọc nằm vùng sao?",
+        "Bốn chuyến hàng công nghệ bốc hơi trong hai tuần, hội tài xế sắp tự phòng vệ hết rồi.",
+        "Bị đuổi khỏi quán ăn nhưng tôi đã chạm đúng vào tự tôn của tay đua số một.",
+        "Muốn bước vào thế giới của Micdo, chỉ có cách thách đấu hắn ngay trên vạch đua.",
+        "Chiếc xe xanh này là con bài cuối của đơn vị, đừng biến nó thành sắt vụn.",
+        "Nhớ kỹ cậu là cảnh sát chìm nha Tom, đừng để cô gái đó làm lạc hướng.",
+    ],
+    11: [
+        "Giấy tờ sở hữu hợp pháp của chiếc xe xanh nằm gọn trong phong bì này cho cậu.",
+        "Tám mươi ngàn đô ngân sách nằm dưới nắp máy đó, mất xe là cậu mất hết.",
+        "Ngoài đường đua đêm chỉ có tốc độ và bản lĩnh, không có chỗ cho sự do dự.",
+        "Tôi đánh cược cả sự nghiệp vào mười giây đêm nay, tôi sẽ không trở về tay trắng.",
+        "Đội tác chiến sẽ khóa chặt vòng ngoài, vào trong chảo lửa đó chỉ có một mình cậu.",
+        "Khi mặt trời lặn xuống, Micdo Toto sẽ phải tự tay mở cửa đón tôi vào đội.",
+    ],
+    12: [
+        "Hai bình khí tăng tốc đã nạp kịch kim, áp suất đường ống sẵn sàng cho đêm nay.",
+        "Biểu đồ nhiệt ở tua máy tám ngàn vòng đang chạm ngưỡng giới hạn của cổ góp.",
+        "Bấm bình khí thứ hai quá sớm là áp lực xé toạc cả gầm xe ngay lập tức.",
+        "Nhưng đối đầu với con quái vật động cơ quay của Micdo thì không có đường lùi.",
+        "Mọi con ốc đã khóa chặt, đêm nay chiếc xe này phải phá vỡ bức tường mười giây.",
+        "Cảm ơn ông đã giữ kín chuyện ở xưởng, tới giờ tôi ra đường đua đêm rồi.",
+    ],
+    13: [
+        "Tôi không mang tiền mặt, nhưng tôi đặt lên bàn giấy tờ gốc của chiếc xe này.",
+        "Mười ngàn đô tiền đồ độ dưới nắp máy, tôi cược trọn con xe cho một lượt chạy.",
+        "Thằng khách hồi trưa dâng không chiếc xe độ kìa anh cả, nhận kèo cho nó sáng mắt!",
+        "Đem cả con xe ra cược một phần tư dặm, cậu liều mạng hay chưa biết sợ đây?",
+        "Anh thắng thì cầm chìa khóa lái xe về, còn tôi thắng thì tôi muốn sự tôn trọng.",
+        "Mọi lời nói dừng ở vạch trắng này, gầm máy lên đi các tay đua của đêm nay!",
+    ],
+    14: [
+        "Bám sát đuôi chiếc xe đỏ cho tao, đêm nay không có khái niệm về nhì đâu!",
+        "Hai gã hai bên rớt lại sau lưng rồi, giờ chỉ còn tôi với anh thôi Micdo!",
+        "Chạy khá lắm nhóc, nhưng muốn vượt qua mũi xe tao thì bấy nhiêu đó chưa đủ.",
+        "Tới lúc mở van bình khí đầu tiên rồi, cho tôi thấy sức mạnh thật sự đi!",
+        "San bằng khoảng cách rồi, giữ cứng tay lái ở làn trái, vạch đích ngay trước mặt kìa!",
+        "Đèn báo quá tải cổ góp mặc kệ nó, đêm nay không thắng là mất hết tất cả!",
+    ],
+    15: [
+        "Còn trăm thước cuối, xả nốt bình khí thứ hai, ép cạn giới hạn con máy này luôn!",
+        "Áp suất dội ngược làm bung chốt sàn phụ rồi, ghìm chặt vô lăng kẻo văng đuôi xe!",
+        "Sang số ở tám ngàn vòng ngọt lịm, không ai qua mặt nổi anh cả trên đường này!",
+        "Cậu làm tao bất ngờ đấy nhóc, hiếm có ai ép xe tao phải gồng hết số cuối.",
+        "Nhưng nóng vội bấm khí sớm đã giết chết cổ góp của cậu, đưa chìa khóa xe đây.",
+        "Xe thuộc về anh theo đúng luật chơi, nhưng nghe tiếng còi hú khóa bốn ngả đường kìa!",
+    ],
+    16: [
+        "Đoàn xe tuần tra khóa vòng vây rồi, tản ra mau, mở đường rút cho anh cả!",
+        "Đại lộ chính kẹt cứng rồi, giấu chiếc xe đỏ vào kho rồi tách ra rút bộ!",
+        "Băng qua dãy hẻm kho bãi phía sau này, đừng để ánh đèn pha của tụi nó bắt kịp.",
+        "Hai xe tuần tra vừa khóa cứng đầu hẻm trước mặt, tụi nó tính trước đường rút rồi.",
+        "Lối sau lưng cũng bị đèn chớp bịt kín, đêm nay tụi nó quyết dồn mình vào rọ.",
+        "Nếu để Micdo sa lưới cảnh sát đêm nay thì toàn bộ chuyên án coi như chấm dứt!",
+    ],
+    17: [
+        "Nhảy lên ghế phụ ngay đi Micdo, trừ khi anh muốn ngồi sau song sắt đêm nay!",
+        "Khoang máy đang bốc khói mà cậu còn dám quay đầu lao thẳng vào vòng vây sao?",
+        "Giữ chặt tay vịn đi, con xe này còn đủ sức đưa hai ta lách khỏi hẻm!",
+        "Lách qua khe thùng gỗ vừa khít từng phân, tay lái của cậu không tầm thường đâu!",
+        "Vọt qua con dốc sắt này là bỏ lại toàn bộ đèn chớp tuần tra sau lưng!",
+        "Cắt đuôi cảnh sát rồi, nhưng tiếng pô xe máy phía trước không phải chuyện lành đâu.",
+    ],
+    18: [
+        "Mười chiếc mô tô đen khóa ngã tư, mình lọt vô đất của Ny Tran rồi.",
+        "Băng Light Saigon không bao giờ tha cho người lạ vượt ranh giới lúc nửa đêm.",
+        "Họ khóa chặt cả đầu xe lẫn hai bên sườn, không còn khe nào để đánh lái.",
+        "Trả số không rồi tắt máy đi nhóc, để một mình tao ra nói chuyện với hắn.",
+        "Bước xuống bãi đá ngay Micdo, đưa hai bàn tay ra ánh đèn cho tao nhìn rõ!",
+        "Nửa đêm kéo xe bốc khói chạy xuyên qua bãi kho tụi tao là coi thường ai hả?",
+    ],
+    19: [
+        "Đừng đụng vào cốp sau chiếc xe đó, hai bình khí bên trong đang căng áp suất!",
+        "Van áp suất xì khói đặc rồi, lùi ngay ra sau lưng tao đi Tom!",
+        "Bao nhiêu tâm huyết dưới nắp máy... giờ chỉ còn lại khung xe ngập trong khói trắng.",
+        "Coi như chiếc xe hỏng đó là học phí đầu đời cho lính mới của mày nhớ luật!",
+        "Nhớ lấy bài học đêm nay, còn bén mảng qua bãi kho này là không yên đâu!",
+        "Đi thôi nhóc, xe mất thì dựng lại sau, giữ được mạng về nhà mới là chính.",
+    ],
+    20: [
+        "Đêm nay nếu cậu ta không quay xe lại hẻm, giờ này tao đã nằm trong trại giam.",
+        "Để đưa tao thoát vây, cậu ta đã phải mất trắng chiếc xe trước mặt Ny Tran.",
+        "Từ đêm nay Tom là người nhà Toto, bất kỳ ai đụng tới nó là đụng tới tao!",
+        "Một thằng lạ mặt tự dưng liều mạng vì anh cả, em vẫn chưa thể tin hắn được.",
+        "Ngồi xuống đi Cevin, cậu ấy đã mất trắng con xe để đưa anh Micdo về nhà đó.",
+        "Cảm ơn anh đã coi tôi như anh em, tôi sẽ không làm mọi người thất vọng.",
+    ],
+    21: [
+        "Ngồi yên em lau sạch lớp muội than trên má cho, đi đua xe mà lấm lem hết.",
+        "Khói bụi ngoài bãi đất thôi mà, thấy em cười với anh thế này là hết mệt rồi.",
+        "Nghe tin cảnh sát vây đường đua, tim em cứ thắt lại vì sợ hai người gặp chuyện.",
+        "Anh đã hứa rồi mà, chừng nào anh còn ở đây thì người nhà em sẽ bình an.",
+        "Uống ly nước mát rồi ăn chút thịt nướng cho ấm bụng đi, anh vất vả quá rồi.",
+        "Là người một nhà rồi đó, nhưng cậu vẫn còn nợ tao một con xe mười giây nghen!",
+    ],
+    22: [
+        "Cậu nợ anh cả xe mười giây mà lại kéo cái khung sắt rỉ sét này về xưởng hả?",
+        "Bộ vỏ móp méo cỡ này thì đẩy bộ qua vạch đích còn khó huống chi là đem đua.",
+        "Đừng nhìn lớp sơn rỉ bên ngoài, mở nắp máy lên coi trái tim của nó bên dưới kìa.",
+        "Khoan đã anh em, dưới lớp bụi này là nguyên khối động cơ tăng áp kép huyền thoại kìa!",
+        "Chỉ cần hạ dàn hơi mới và nạp lại điện tử là cỗ máy này bay dưới mười giây!",
+        "Vậy thì xắn tay áo lên thôi anh em, biến cái khung sắt này thành quái vật đường phố!",
+    ],
+    23: [
+        "Khóa chặt con ốc cổ xả cuối cùng rồi, áp suất buồng đốt đạt mức hoàn hảo luôn.",
+        "Khoác lớp sơn màu cam ánh kim này lên, không ai nhận ra cái khung rỉ sét hôm nào!",
+        "Mấy anh em nghỉ tay ăn chút đồ nóng đi, thức trắng mấy đêm liền không biết mệt hả?",
+        "Cùng mọi người đổ mồ hôi bên chiếc xe này, tôi mới hiểu thế nào là một gia đình.",
+        "Ở xưởng này không ai giàu tiền bạc, nhưng đã là anh em thì sướng khổ cùng chia.",
+        "Khi chiếc xe cam này lăn bánh ra sa mạc Mojave, cả đại hội đua xe sẽ phải ngước nhìn!",
+    ],
+    24: [
+        "Đi theo tao vào góc sâu của xưởng, có thứ này tao chỉ mở cho người trong nhà.",
+        "Chiếc xe cơ bắp đời một chín bảy mươi này là kỷ vật cha tao cùng tao dựng nên.",
+        "Chín trăm mã lực dưới khối siêu nạp này mạnh tới mức tao vẫn chưa dám cầm lái.",
+        "Một tay đua làm chủ mọi cung đường như anh, sao lại e dè trước xe của cha mình?",
+        "Bởi trong mười giây trên đường một phần tư dặm đó, con người ta mới thực sự tự do.",
+        "Tôi hiểu điều đó, có những lằn ranh một khi đã bước qua thì không thể quay đầu lại.",
+    ],
+    25: [
+        "Tất cả các mũi tác chiến đã khóa chặt vòng vây quanh dinh thự ngay lúc rạng đông.",
+        "Cổng sắt mở toang rồi, đội xung kích tràn vào sân và khóa ngay lối thông ra kho!",
+        "Khống chế toàn bộ sổ sách và kiện hàng, không để bất kỳ kẻ nào kịp tiêu hủy chứng từ!",
+        "Tôi giữ liên lạc trên xe chỉ huy, lộ mặt lúc này là mất sạch đường về nhà Toto.",
+        "Đọc lệnh khám xét liên bang và tách riêng từng người trong dinh thự ra giữa khoảng sân đá!",
+        "Mũi kiểm tra số hai theo sát tôi, mở niêm phong dãy kho điện tử phía sau ngay lập tức!",
+    ],
+    26: [
+        "Giữ hai tên cầm đầu đứng cạnh xe chỉ huy, chờ kết quả đối chiếu hàng từ kho sau!",
+        "Nhìn qua khe kính chiếc xe chỉ huy kìa Ny Tran, coi kẻ nào đang ngồi trốn bên trong!",
+        "Thì ra là lính mới của Micdo, chính tụi mày đã dẫn cảnh sát tới phá gia đình tao!",
+        "Nhớ kỹ ánh mắt tao hôm nay đi Tom, món nợ này cả băng Toto phải trả gấp mười!",
+        "Áp giải hai tên đó về phía hiên đá ngay, không để chúng tiếp cận gần cửa xe chỉ huy!",
+        "Gay go rồi trung sĩ, Ny Tran vừa nhìn thấy tôi và đổ hết mối thù lên đầu Micdo.",
+    ],
+    27: [
+        "Quét toàn bộ mã số trên các kiện hàng điện tử này, tìm cho ra tang vật bị mất!",
+        "Khoan đã Kinan, toàn bộ sổ cái trên bàn đều đóng dấu thông quan chính ngạch cảng biển.",
+        "Đã rà soát từng tờ chứng từ, mọi kiện hàng ở đây đều nhập khẩu hợp pháp đầy đủ.",
+        "Không có dù chỉ một con ốc trùng khớp với danh sách hàng bị chặn trên xa lộ mười.",
+        "Chúng ta đánh úp nhầm mục tiêu rồi, tin tình báo của cậu đẩy cả đội vào ngõ cụt!",
+        "Tháo còng cho Ny Tran ngay, vậy là nhóm chặn xe tải chỉ có thể là đội Micdo!",
+    ],
+    28: [
+        "Cái nắng sa mạc Mojave thiêu đốt mặt nhựa, vậy mà cả ngàn chiến mã đã hội tụ về đây.",
+        "Chiếc xe trắng này là kỷ vật của cha em, hôm nay nó sẽ tỏa sáng trên đường băng.",
+        "Hít sâu một hơi đi Seja, cứ sang số đúng nhịp máy như lúc anh em mình thử ở xưởng.",
+        "Anh Tom nhìn ra vạch đua kìa, Ny Tran vừa đưa chiếc xe đen áp sát bên Seja rồi!",
+        "Máy tính báo tỷ lệ thắng sáu mươi bốn phần trăm, em đặt cược giấy tờ xe luôn rồi!",
+        "Đừng mắc bẫy của Ny Tran nha Seja, dưới gầm chiếc xe đen đó giấu đồ độ khủng lắm!",
+    ],
+    29: [
+        "Đề-pa chuẩn từng phần trăm giây, mũi chiếc xe trắng của mình vươn lên chiếm lợi thế trước rồi!",
+        "Mọi thông số đều khớp với biểu đồ, giữ vững vòng tua số ba là nắm chắc phần thắng!",
+        "Mày tưởng vài công thức trên máy tính đủ để qua mặt tao trên đường băng này sao nhóc?",
+        "Tạm biệt kỷ vật của cha mày đi nhóc, hai bình khí ngầm dưới ghế tao mở van rồi!",
+        "Không thể nào thua ở mấy mét cuối như vậy được, mình làm mất xe của cha rồi!",
+        "Không thể giao chiếc xe này cho Ny Tran được, phải đạp ga chạy khỏi đường băng này thôi!",
+    ],
+    30: [
+        "Bước ra đây ngay Micdo, thằng đàn em của mày vừa thua kèo đã ôm xe bỏ trốn rồi!",
+        "Thằng bé chỉ hoảng loạn nhất thời, tự tay tao sẽ tìm nó rồi mang xe trả cho mày.",
+        "Hôm qua mày gài cảnh sát làm nhục cha tao, nay đàn em mày lại dám quỵt nợ tao!",
+        "Nghe cho rõ đây Ny Tran, gia đình Toto chưa bao giờ dùng tay cảnh sát hại ai.",
+        "Khỏi cần giải thích nhiều lời, món nợ danh dự này tao sẽ thu hồi cả vốn lẫn lãi!",
+        "Ny Tran không dừng lại ở chiếc xe đâu Micdo, hắn sẽ lùng tìm Seja tới cùng đấy.",
+    ],
+    31: [
+        "Dừng lại đi Ami, đêm nay em tuyệt đối không được một mình lái xe ra cao tốc!",
+        "Buông tay em ra đi Tom, Seja đang gặp nguy còn anh Micdo đang lao vào chỗ hiểm!",
+        "Chuyến đầu kéo đêm nay là cái bẫy, tài xế Verni đã chuẩn bị sẵn sàng chống trả rồi!",
+        "Sao anh biết rõ tên tài xế và cầm bộ đàm kia... rốt cuộc anh là ai hả Tom?",
+        "Anh là cảnh sát chìm LAPD, nhưng tình cảm anh dành cho em và nhà mình là thật.",
+        "Hận anh sau cũng được, giờ lên chiếc xe cam với anh ngay để cứu mạng anh hai!",
+    ],
+    32: [
+        "Xong chuyến hàng cuối này cả đội sẽ giải nghệ, giữ cứng chân ga cho Cevin phóng cáp!",
+        "Ngàm cáp khóa cứng khung cửa rồi anh cả, em đu dây qua chiếm buồng lái ngay đây!",
+        "Tao đã đợi tụi mày suốt cả tuần nay rồi, đừng hòng bước chân vào buồng lái tao!",
+        "Gã tài xế đã phục sẵn trong cabin, Cevin bị trượt khỏi bậc cửa treo trên cáp rồi!",
+        "Khóa cáp siết chặt cổ tay em rồi anh cả ơi, đầu kéo đang lắc ép em xuống đường!",
+        "Cina đôn xe hai lên khe giữa ngay, cắt đứt sợi cáp trước khi Cevin kiệt sức!",
+    ],
+    33: [
+        "Em đang ép mũi xe vô khe cáp đây, nhưng lão tài xế đánh võng thùng hàng gắt quá!",
+        "Cản sắt đầu kéo ép xẹp lốp trước rồi, xe em đang trượt văng ra dải cát ven đường!",
+        "Giữ chặt vô lăng đi Cina, ghìm thẳng bánh lái cho xe trượt dừng lại ngoài lề cát!",
+        "Xe Cina văng khỏi đội hình rồi, một mình tao ở đầu cáp không sao lùi lại kịp!",
+        "Tiếng pô tăng áp kép sau lưng... chiếc xe cam của Tom đang xé gió lao lên kìa!",
+        "Giữ vững tinh thần nha Ami, anh sẽ đưa chiếc xe cam áp sát ngay dưới sợi cáp!",
+    ],
+    34: [
+        "Sang đây nắm chặt vô lăng giữ cứng tốc độ cho anh, tuyệt đối không được nhả chân ga!",
+        "Bánh xe đầu kéo sát ngay cửa kính rồi Tom ơi, em đang gồng hết sức giữ thẳng lái!",
+        "Tin ở anh thêm năm giây nữa thôi Ami, giữ nguyên làn để anh bấm đứt sợi cáp!",
+        "Sợi cáp đứt lìa rồi, bám chặt vào vai tôi đi Cevin, tôi kéo cậu vô xe ngay!",
+        "Đỡ Cevin nằm xuống ghế sau đi Ami, anh đạp phanh tách khỏi hông chiếc đầu kéo đây!",
+        "Cậu ấy va đập mạnh làm kiệt sức nhanh quá, phải tấp vô lề gọi cứu viện ngay!",
+    ],
+    35: [
+        "Đặt Cevin nằm phẳng xuống đây, dùng khăn mát giữ ấm và nới lỏng đai ngực cho nó!",
+        "Giữa sa mạc hoang vắng thế này, chờ xe cấp cứu đường bộ chạy tới làm sao kịp nữa!",
+        "Tổng đài nghe rõ, đây là Sĩ quan đặc nhiệm Tom, mã hiệu bốn ba bảy thuộc LAPD!",
+        "Có người nguy kịch trên xa lộ tám sáu, yêu cầu trực thăng y tế hạ cánh khẩn cấp!",
+        "Sĩ quan bốn ba bảy sao... hóa ra người anh em ngồi chung bàn với tao là cớm chìm?",
+        "Anh muốn xử tôi thế nào cũng được Micdo, nhưng hãy để trực thăng cứu sống Cevin đã!",
+    ],
+    36: [
+        "Chiếc xe trắng của Seja vừa đỗ trước hiên kìa, cuối cùng thằng bé cũng về tới nhà.",
+        "Anh cả ơi tha lỗi cho em, vì giữ xe của cha mà em làm liên lụy cả nhà...",
+        "Về tới nhà là tốt rồi Seja, nhưng coi chừng hai chiếc mô tô đen ngoài đầu đường kìa!",
+        "Ny Tran và Cela đang lao mô tô thẳng vào hiên nhà mình, cúi rạp người xuống mau!",
+        "Tránh xa mép đường ngay Seja, hai chiếc mô tô của tụi nó đang ép sát vào chỗ em!",
+        "Mở mắt nhìn anh đi Seja ơi, có anh hai với Ami đang giữ chặt tay em đây rồi!",
+    ],
+    37: [
+        "Anh Tom ơi, thằng bé Seja hiền lành như vậy, sao bọn Ny Tran lại nhẫn tâm thế!",
+        "Anh Micdo đi xuống xưởng với ánh mắt đáng sợ lắm, anh mau vô cản anh hai lại đi!",
+        "Anh định đánh thức con xe chín trăm mã lực của cha anh giữa lúc đang phẫn nộ sao?",
+        "Đụng tới em tao ngay trước hiên nhà này, hôm nay Ny Tran phải trả đủ từng phân một!",
+        "Bình tĩnh lại đi Micdo, lái chiếc xe đó đi báo thù là anh tự đóng sập đường về!",
+        "Không gì cản nổi cơn giận của Micdo nữa rồi, mình phải lấy chiếc xe cam bám theo ngay!",
+    ],
+    38: [
+        "Chạy đằng trời cũng không thoát khỏi tay tao đâu Cela, tấp chiếc mô tô của mày vô lề!",
+        "Ny Tran đang ép sát mạn xe anh kìa Micdo, để tôi đôn chiếc xe cam lên khóa góc!",
+        "Trò săn đuổi của mày kết thúc tại đây rồi Ny Tran, hạ ga và dừng xe lại ngay!",
+        "Tay lái của hắn quệt gương xe mình rồi trượt thẳng xuống lòng kênh bê tông bên dưới!",
+        "Ny Tran đã nằm lại dưới lòng kênh chờ cảnh sát tới, dừng tay lại ở đây đi Micdo!",
+        "Ân oán với băng Light Saigon đã khép lại, nhưng lòng của Micdo vẫn chưa thể dừng lại.",
+    ],
+    39: [
+        "Một phần tư dặm cuối trước đường ray tàu hỏa... chạy với tao mười giây tự do đi Tom!",
+        "Chín trăm mã lực nhấc bổng cả đầu xe lên, đúng là con quái vật của cha anh ấy!",
+        "Tiếng còi tàu hỏa gầm sát bên sườn rồi, chỉ còn một tích tắc để hai xe vọt qua!",
+        "Lướt qua mũi tàu hỏa trong một hơi thở, đây chính là mười giây tự do của đời tao!",
+        "Đánh lái sang phải ngay Micdo, chiếc xe tải trong hẻm vừa lao ra chắn ngang đường kìa!",
+        "Cú va quệt làm chiếc xe đen xoay vòng ra lề đất rồi, trụ vững trong đó nghe Micdo!",
+    ],
+    40: [
+        "Khoang máy đang trào khói trắng, khoác tay lên vai tôi bước ra khỏi buồng lái ngay Micdo!",
+        "Tựa hẳn vào vai tôi đi Micdo, còi xe của đội đặc nhiệm đã hú vang đầu đường rồi.",
+        "Cuộc đua khép lại rồi Sĩ quan Tom, rút còng số tám ra hoàn thành nhiệm vụ của cậu đi.",
+        "Đêm đầu tiên tôi nợ anh một con xe mười giây, chiếc xe cam này là của anh.",
+        "Cầm lấy chìa khóa rồi nhấn ga đi về phía chân trời đi Micdo, đừng ngoái đầu lại!",
+        "Món nợ mười giây đã trả trọn, giờ tôi đứng lại đây nhận mọi phán quyết, trung sĩ Nese.",
+    ],
+}
+
+CHARACTER_ACTING_PERSONA = {
+    "TOM": "composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking",
+    "MICDO": "gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection",
+    "AMI": "warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection",
+    "CEVIN": "coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency",
+    "CINA": "cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity",
+    "SEJA": "earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence",
+    "ONLE": "grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone",
+    "NYTRAN": "icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery",
+    "CELA": "watchful enforcer tension, coiled shoulder posture, sharp chin movements, and clipped raspy projection",
+    "NESE": "seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction",
+    "KINAN": "crisp federal urgency, upright posture, decisive hand gestures, and commanding vocal pace",
+    "VERNI": "hardened long-haul grit, braced forearm tension on the wheel, defiant eyes, and booming gravelly projection",
+}
 
 _NEW_FIRST_INTRO_CLIPS = {}
 for _old_cid, _val in FIRST_INTRO_CLIPS.items():
@@ -1541,7 +1816,17 @@ def build_scene_clips(scene_spec: tuple) -> dict:
                 focus_str = f"Keep tack-sharp focus on {active_name}'s eyes, natural breathing, and calm posture on the desert road as {counterpart_name or 'Sergeant Nese'} steps into the background depth plane."
             else:
                 focus_str = f"Keep tack-sharp focus on {active_name}'s eyes and continuous hand-and-body follow-through with {clip_prop_readable}, maintaining readable background depth."
-            performance_str = f"{active_name} plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions."
+            persona = CHARACTER_ACTING_PERSONA.get(
+                active_base,
+                "restrained high-stakes intensity, continuous natural weight transfer, and fluid hand follow-through while speaking",
+            )
+            if counterpart_name:
+                performance_str = (
+                    f"{active_name} delivers the line with {persona}, while {counterpart_name} maintains active eyeline engagement, "
+                    f"subtle listening posture, and natural closed-lip facial reaction."
+                )
+            else:
+                performance_str = f"{active_name} delivers the line with {persona} and organic micro-expressions."
 
         line_text = SCENE_DIALOGUES[s_num][c_num - 1]
         line_syl = len(re.findall(r"[^\W\d_]+", line_text))

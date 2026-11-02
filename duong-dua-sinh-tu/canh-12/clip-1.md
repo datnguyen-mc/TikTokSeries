@@ -40,7 +40,7 @@ Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial pr
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the twin cobalt-blue NOS_BOTTLES in the rear hatch and shop owner Ryh speaking off screen from the tool bench.
-Performance: Tom plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -51,7 +51,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.7s · Tom (@Tom) says on screen, in the low, calm, clear Southern Vietnamese male voice: Hai bình khí tăng tốc đã nạp đầy áp suất, hệ thống phun nhiên liệu rất ổn định.
+2.8–7.7s · Tom (@Tom) says on screen, in the low, calm, clear Southern Vietnamese male voice: Hai bình khí tăng tốc đã nạp kịch kim, áp suất đường ống sẵn sàng cho đêm nay.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

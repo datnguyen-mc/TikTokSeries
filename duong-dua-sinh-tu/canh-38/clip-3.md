@@ -48,7 +48,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen voices never add a face to the shot.
-2.8–7.9s · Tom (@Tom) speaks off screen, in the low, calm, clear Southern Vietnamese male voice: Hết đường chạy trốn rồi Ny Tran, dừng lại ngay và tấp xe vào lề đường ngay lập tức.
+2.8–7.9s · Tom (@Tom) speaks off screen, in the low, calm, clear Southern Vietnamese male voice: Trò săn đuổi của mày kết thúc tại đây rồi Ny Tran, hạ ga và dừng xe lại ngay!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

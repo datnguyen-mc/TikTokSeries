@@ -39,7 +39,7 @@ Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, 
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_MANSION; Ny Tran moves smoothly on the near side while Tom holds the counter-angle.
-Performance: Ny Tran plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Ny Tran delivers the line with icy predatory calm, razor-sharp gaze, minimal controlled gestures, and smooth menacing vocal delivery, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,7 +50,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Ny Tran (@NyTran) says on screen, in the cold, smooth, menacing Southern Vietnamese male voice: Tao đã nhớ kỹ cái mặt mày rồi, cả mày lẫn băng của Micdo sẽ phải trả giá đắt.
+2.8–7.9s · Ny Tran (@NyTran) says on screen, in the cold, smooth, menacing Southern Vietnamese male voice: Nhớ kỹ ánh mắt tao hôm nay đi Tom, món nợ này cả băng Toto phải trả gấp mười!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -39,7 +39,7 @@ Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gestu
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Cina moves smoothly on the near side while Micdo holds the counter-angle.
-Performance: Cina plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,7 +50,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.7s · Cina (@Cina) says on screen, in the cool, firm, clear Southern Vietnamese female voice: Được thôi, khởi động máy nhập làn đi, để coi dưới nắp máy cậu có bản lĩnh gì.
+2.8–7.7s · Cina (@Cina) says on screen, in the cool, firm, clear Southern Vietnamese female voice: Mọi lời nói dừng ở vạch trắng này, gầm máy lên đi các tay đua của đêm nay!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

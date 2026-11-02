@@ -48,7 +48,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen voices never add a face to the shot.
-2.8–7.4s · Ami (@Ami) speaks off screen, in the warm, clear, expressive Southern Vietnamese female voice: Phần bánh mì cá ngừ cắt vỏ của anh xong rồi đây, ăn liền cho ngon nghen.
+2.8–7.4s · Ami (@Ami) speaks off screen, in the warm, clear, expressive Southern Vietnamese female voice: Bánh mì cắt vỏ của anh đây, ăn đi rồi khai thiệt coi tính mưu đồ gì.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

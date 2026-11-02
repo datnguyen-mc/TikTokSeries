@@ -41,7 +41,7 @@ Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial pr
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_BACKYARD; Ami moves smoothly on the near side while Tom holds the counter-angle.
-Performance: Ami plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Ami delivers the line with warm emotional candor, expressive dark eyes, natural head-and-shoulder nuance, and sincere vocal inflection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -52,7 +52,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.7s · Ami (@Ami) says on screen, in the warm, clear, expressive Southern Vietnamese female voice: Đưa mặt qua đây em lau bớt vết muội than trên gò má cho, khói bám dày quá.
+2.8–7.7s · Ami (@Ami) says on screen, in the warm, clear, expressive Southern Vietnamese female voice: Ngồi yên em lau sạch lớp muội than trên má cho, đi đua xe mà lấm lem hết.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

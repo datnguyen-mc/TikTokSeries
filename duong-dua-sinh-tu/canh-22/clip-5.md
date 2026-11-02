@@ -39,7 +39,7 @@ Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensiv
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Seja moves smoothly on the near side while Onle holds the counter-angle.
-Performance: Seja plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Onle maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,7 +50,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Seja (@Seja) says on screen, in the quick, earnest, energetic Southern Vietnamese male voice: Chỉ cần đại tu lại dàn hơi và gắn bộ điều khiển mới là biến thành quái vật ngay.
+2.8–7.9s · Seja (@Seja) says on screen, in the quick, earnest, energetic Southern Vietnamese male voice: Chỉ cần hạ dàn hơi mới và nạp lại điện tử là cỗ máy này bay dưới mười giây!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

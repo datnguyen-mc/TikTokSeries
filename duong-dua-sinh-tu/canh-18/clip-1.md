@@ -42,7 +42,7 @@ Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial pr
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Ny Tran holds the counter-angle.
-Performance: Micdo plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -55,7 +55,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-overs stay dry and close.
 Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
 0.3–3.4s · Narrator, off screen and not a character, in the locked narrator voice: Ny Tran, thủ lĩnh Light Saigon, cùng gã anh họ Cela.
-3.7–7.9s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Cả chục chiếc mô tô phân khối lớn màu đen đang khóa chặt đầu đường kìa.
+3.7–7.9s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Mười chiếc mô tô đen khóa ngã tư, mình lọt vô đất của Ny Tran rồi.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

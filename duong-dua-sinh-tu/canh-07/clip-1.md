@@ -42,7 +42,7 @@ Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial pr
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Cevin moves smoothly on the near side while Seja holds the counter-angle.
-Performance: Cevin plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Cevin delivers the line with coiled street-fighter energy, sharp jaw tension, decisive hand gestures, and fiery vocal urgency, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -55,7 +55,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Voice-overs stay dry and close.
 Narrator: an outside storyteller who is NOT a character in the film: one consistent mature Southern Vietnamese woman's voice, calm, low and warm, speaking about the person in the third person, used only to introduce a lead at first appearance. Every mouth in frame stays closed while she speaks; never lip-sync her words to anyone on screen.
 0.3–3.7s · Narrator, off screen and not a character, in the locked narrator voice: Seja, thiên tài toán học và điện tử độ xe của nhóm.
-4.0–8.2s · Cevin (@Cevin) says on screen, in the rough, fiery, direct Southern Vietnamese male voice: Chiếc bán tải đỏ của thằng cha hôm qua lại đậu chình ình trước quán kìa.
+4.0–8.2s · Cevin (@Cevin) says on screen, in the rough, fiery, direct Southern Vietnamese male voice: Tao đã cảnh cáo rồi mà chiếc bán tải đỏ vẫn dám đậu trước quán hả?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

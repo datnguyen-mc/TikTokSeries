@@ -38,7 +38,7 @@ Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo moves smoothly on the near side while Tom holds the counter-angle.
-Performance: Micdo plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -49,7 +49,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.4s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Con xe đang bốc khói gầm mà cậu còn dám quay đầu lao vô vòng vây sao.
+2.8–7.4s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Khoang máy đang bốc khói mà cậu còn dám quay đầu lao thẳng vào vòng vây sao?
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

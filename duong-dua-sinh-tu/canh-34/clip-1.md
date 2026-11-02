@@ -41,7 +41,7 @@ Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial pr
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle.
-Performance: Tom plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
+Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -52,7 +52,7 @@ Face and eyes: every visible named face stays faithful to its reference througho
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Tom (@Tom) says on screen, in the low, calm, clear Southern Vietnamese male voice: Qua đây cầm chắc vô lăng giữ thẳng tay lái cho anh, tuyệt đối không được giảm tốc độ.
+2.8–7.9s · Tom (@Tom) says on screen, in the low, calm, clear Southern Vietnamese male voice: Sang đây nắm chặt vô lăng giữ cứng tốc độ cho anh, tuyệt đối không được nhả chân ga!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]

@@ -818,7 +818,6 @@ def outputs(plan: dict, shots: list[dict]) -> dict[str, str]:
         result[f'{folder}/caption.md'] = f"# {plan['title']} · Cảnh {n:02d}: {s['title']}\n\n{s['purpose']}\n\nPhim hành động tốc độ 40 phút do AI tạo.\n\n#duongduasinhtu #phimhanhdong #10giaytudo #phimai\n"
     script_text = render_script(plan, shots)
     result['KICH_BAN_40_PHUT.md'] = script_text
-    result['KICH_BAN_70_PHUT.md'] = script_text
     result['BANG_NOI_CLIP.md'] = render_handoffs(plan, shots)
     result['FLOW_PROMPTS.md'] = render_locks(plan)
     result['NHAN_VAT.md'] = render_characters(plan)
@@ -870,7 +869,7 @@ def main(argv: list[str] | None = None) -> None:
         path = args.out_dir / name
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(text, encoding='utf-8')
-    document_count = len(files) - 321
+    document_count = len(files) - 320
     print(f'Generated {len(files)} files: 240 shot prompts, 40 scene guides, 40 captions, {document_count} film documents and render manifest.')
     print(f'Validated 239 handoffs; {counts.get("CONTINUE", 0)} continuous takes, remaining seams are explicit editorial cuts.')
 

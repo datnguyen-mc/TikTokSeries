@@ -66,7 +66,7 @@ class FilmContinuityTests(unittest.TestCase):
         table = out['BANG_NOI_CLIP.md']
         for a, b in zip(self.shots, self.shots[1:]):
             self.assertIn(f"[{a['id']}]({film.ref(a)}) → [{b['id']}]({film.ref(b)})", table)
-        self.assertEqual(len(out), 327 if film.edition(self.plan) == '3.1' else 326)
+        self.assertEqual(len(out), 326 if film.edition(self.plan) == '3.1' else 325)
         manifest = json.loads(out['RENDER_MANIFEST_V3.json'])
         self.assertEqual(len(manifest['clips']), 240)
 

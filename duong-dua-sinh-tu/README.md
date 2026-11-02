@@ -7,7 +7,7 @@
 - [Khóa nhân vật, trang phục, phương tiện và đạo cụ](FLOW_PROMPTS.md).
 - [Hồ sơ 12 nhân vật chính](NHAN_VAT.md).
 - [Nhịp phim và câu hỏi giữ người xem](NHIP_PHIM_V3_1.md).
-- [Nguồn phân cảnh có cấu trúc](PHAN_CANH_V3.json): chỉnh nội dung tại đây để tái sinh đồng bộ toàn bộ 327 file.
+- [Nguồn phân cảnh có cấu trúc](PHAN_CANH_V3.json): chỉnh nội dung tại đây để tái sinh đồng bộ toàn bộ 326 file.
 
 ## Cấu trúc 4 Tập — 10 Hồi — 40 Cảnh (40 Phút)
 

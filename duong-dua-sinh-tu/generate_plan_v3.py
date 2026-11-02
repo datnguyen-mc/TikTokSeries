@@ -57,7 +57,7 @@ NARRATOR = {
 }
 
 
-# 70 Scene specifications (10 Acts × 7 Scenes = 70 Scenes, 420 Clips = 70 Minutes)
+# 40 Scene specifications (4 Tập × 10 Cảnh = 40 Cảnh, 240 Clips = 40 Phút)
 SCENE_SPECS = [
     # ACT 1 (Scenes 01–07): PHÂN CẢNH 1 — VỤ CƯỚP TRÊN ĐƯỜNG CAO TỐC BAN ĐÊM (THE TRUCK HEIST)
     (1, "Đêm Đen Xa Lộ 10", "N1 night", "HIGHWAY_NIGHT", ["VERNI"], ["RIG_18", "CIVIC_TRIO"], 4,

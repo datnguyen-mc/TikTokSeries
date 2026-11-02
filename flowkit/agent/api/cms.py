@@ -330,103 +330,108 @@ DEFAULT_CHANNELS = [
         "characters": [
             {
                 "tag": "@Tom",
-                "name": "Tom (Bí danh Nơ)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Sĩ quan cảnh sát chìm 28 tuổi ẩn náu trong tiệm độ xe của Nese và quán Toto; tóc vàng ngắn, mắt xanh dương, sẹo mờ đuôi mày trái, áo thun trắng dính dầu mỡ / sơ mi denim xanh.",
-                "ref_prompt": "Full-body photorealistic character reference of @Tom, a 28-year-old Caucasian-American man, 183 cm, lean athletic build, short sandy-blonde hair, piercing blue eyes, light stubble, a faint small scar at the outer left eyebrow, grease-smudged white crew-neck tee, faded blue work jeans, worn brown work boots; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
+                "name": "Tom (Sĩ quan chìm LAPD)",
+                "default_media_id": "d83378af-6eec-499e-a17c-2a12e5764219",
+                "locked_media_id": "d83378af-6eec-499e-a17c-2a12e5764219",
+                "description": "Tom (27 tuổi): sĩ quan cảnh sát chìm LAPD ẩn náu trong tiệm độ xe Ver's Geh; cao 183 cm, dáng thể thao săn chắc, tóc ngắn nâu sẫm cắt gọn, ánh mắt sắc bén, sẹo nhỏ mờ ở đuôi mày trái, mặc áo thun xám than bên trong sơ mi denim xanh đậm mở cúc, quần jean tối màu vương dầu máy.",
+                "ref_prompt": "Full-body photorealistic character reference of @Tom, a 27-year-old Vietnamese-American man, 183 cm, athletic lean build, short textured dark-brown hair, sharp observant dark eyes, clean square jawline, a faint small scar at the outer left eyebrow, fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Micdo",
                 "name": "Micdo (Thủ lĩnh)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Thủ lĩnh đội đua đường phố 34 tuổi và chủ quán ăn Toto; cao 185 cm, cơ bắp vạm vỡ, đầu cạo trọc, đeo dây chuyền bạc chữ thập dày, áo ba lỗ trắng / áo khoác da đen.",
-                "ref_prompt": "Full-body photorealistic character reference of @Micdo, a 34-year-old American man, 185 cm, muscular heavy-shouldered build, clean-shaven bald head, deep-set dark eyes, strong square jaw, a thick silver cross pendant on a heavy chain around his neck, fitted white ribbed tank top, black cargo pants, heavy black leather boots; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
+                "default_media_id": "317c339b-17ca-4564-934a-40987d1d50f0",
+                "locked_media_id": "317c339b-17ca-4564-934a-40987d1d50f0",
+                "description": "Micdo (32 tuổi): thủ lĩnh băng đua xe đường phố và đội xe đen; cao 185 cm, cơ bắp vạm vỡ, đầu cạo trọc, mặt vuông uy quyền, đeo dây chuyền bạc mặt chữ thập trên ngực, mặc áo ba lỗ trắng bên trong áo khoác da đen mở khóa.",
+                "ref_prompt": "Full-body photorealistic character reference of @Micdo, a 32-year-old man, 185 cm, muscular heavy-shouldered build, clean-shaven bald head, commanding deep-set dark eyes, strong square jawline, a silver cross pendant on a heavy neck chain, fitted white sleeveless tank top under an open black leather jacket, dark jeans, heavy black boots; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Ami",
                 "name": "Ami (Quán Toto)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Em gái 25 tuổi của Micdo, người giữ sổ sách và quầy bánh mì cá ngừ tại quán Toto; tóc nâu đen dài buộc nửa đầu, hoa tai vòng bạc nhỏ, áo len mỏng xanh ô liu.",
-                "ref_prompt": "Full-body photorealistic character reference of @Ami, a 25-year-old woman, 168 cm, slim athletic build, warm olive skin, long dark-brown hair in a half-up clip, expressive dark eyes, small silver hoop earrings, fitted olive-green ribbed knit top, dark high-waisted jeans, black leather ankle boots; plain grey studio background, soft warm light, 8K. Not resembling any real actor.",
+                "default_media_id": "38ee1e43-a8ce-40ac-aff7-3f0383ccc3e4",
+                "locked_media_id": "38ee1e43-a8ce-40ac-aff7-3f0383ccc3e4",
+                "description": "Ami (24 tuổi): em gái út của Micdo, người trông coi quán ăn gia đình Toto; cao 168 cm, làn da ngăm ấm, tóc nâu đen dài buộc nửa đầu, đeo bông tai bạc nhỏ, mặc áo cổ tròn màu đỏ rượu vang kết hợp tạp dề vải canvas ngang eo và quần jean sáng màu.",
+                "ref_prompt": "Full-body photorealistic character reference of @Ami, a 24-year-old woman, 168 cm, slim athletic build, warm olive skin, long dark-brown hair tied half-back, expressive dark eyes, silver stud earrings, fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers; plain grey studio background, soft warm light, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Cevin",
-                "name": "Cevin (Tay phó)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Tay phó nóng tính 29 tuổi của Micdo; tóc nâu ngắn, râu dê gọn, sẹo nhỏ dưới cằm, vòng tay da đinh tán, áo sơ mi công nhân xanh navy mở cúc ngoài áo ba lỗ trắng.",
-                "ref_prompt": "Full-body photorealistic character reference of @Cevin, a 29-year-old man, 179 cm, wiry muscular build, cropped dark-brown hair, neat goatee, a small scar on his chin, a black studded leather wristband on his right wrist, unbuttoned short-sleeve navy mechanic work shirt over a white tank top, dark work trousers, black boots; plain grey studio background, 8K. Not resembling any real actor.",
+                "name": "Cevin (Cánh tay phải)",
+                "default_media_id": "ccca3339-8c3a-4dd6-affc-e5b1459643b3",
+                "locked_media_id": "ccca3339-8c3a-4dd6-affc-e5b1459643b3",
+                "description": "Cevin (29 tuổi): cánh tay phải nóng nảy của Micdo; cao 179 cm, cơ bắp gân guốc, tóc ngắn dựng nhuộm sáng phần ngọn, râu dê gọn, sẹo nhỏ ở khớp ngón tay phải, đeo lắc bạc cổ tay phải, mặc áo sơ mi thợ máy ngắn tay màu đỏ sẫm.",
+                "ref_prompt": "Full-body photorealistic character reference of @Cevin, a 29-year-old man, 179 cm, wiry muscular build, short spiky bleached-tip dark hair, intense brow, neat goatee, small chin scar, silver chain bracelet on right wrist, maroon short-sleeve mechanic shirt with rolled sleeves, dark cargo jeans, work boots; plain grey studio background, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Cina",
-                "name": "Cina (Nữ thợ máy)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Nữ thợ máy cừ khôi 26 tuổi của đội Micdo; tóc đen chấm cằm dưới mũ beanie đen, áo ba lỗ crop-top đen, quần túi hộp xanh rêu dính dầu máy, găng tay hở ngón.",
-                "ref_prompt": "Full-body photorealistic character reference of @Cina, a 26-year-old woman, 167 cm, athletic build, sharp jawline, chin-length black hair tucked under a black knit beanie, fierce dark eyes, black cropped tank top, olive-drab cargo pants with grease smudges, heavy black lace-up combat boots, fingerless leather driving gloves; plain grey studio background, 8K. Not resembling any real actor.",
+                "name": "Cina (Nữ quái tốc độ)",
+                "default_media_id": "439d9f2b-627a-4565-96b8-9bbf40826086",
+                "locked_media_id": "439d9f2b-627a-4565-96b8-9bbf40826086",
+                "description": "Cina (28 tuổi): nữ quái tốc độ sát cánh cùng Micdo; cao 167 cm, dáng thon khỏe, tóc đen ngắn ngang cằm, ánh mắt sắc lạnh tự tin, khuyên tai vòng nhỏ bên tai trái, mặc áo ghi-lê da đen ngắn bên ngoài áo đỏ thẫm và quần da tối màu.",
+                "ref_prompt": "Full-body photorealistic character reference of @Cina, a 28-year-old woman, 167 cm, lean athletic build, sharp jawline, short tousled chin-length black hair, fierce confident dark gaze, small hoop earring in left ear, cropped black leather vest over crimson top, low-rise dark leather trousers, heavy lace boots; plain grey studio background, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Seja",
                 "name": "Seja (Kỹ thuật viên)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Thiên tài điện tử 21 tuổi của đội Micdo; dáng gầy cao, tóc vàng rối, kính bảo hộ trễ trên trán, áo sơ mi họa tiết khoác ngoài áo thun đồ họa.",
-                "ref_prompt": "Full-body photorealistic character reference of @Seja, a 21-year-old man, 175 cm, lanky build, messy bleached-blonde hair, clear safety goggles pushed up on his forehead, bright restless eyes, open patterned short-sleeve shirt over a graphic tee, baggy khaki cargo pants, worn skate sneakers; plain grey studio background, 8K. Not resembling any real actor.",
+                "default_media_id": "3bb3de48-4dd3-4a90-a3ea-60be3063a7b1",
+                "locked_media_id": "3bb3de48-4dd3-4a90-a3ea-60be3063a7b1",
+                "description": "Seja (22 tuổi): thiên tài toán học, máy tính và điện tử độ xe của nhóm; cao 175 cm, dáng gầy nhanh nhẹn, tóc đen xoăn rối, đeo kính gọng mảnh kỹ thuật, mặc áo sơ mi công nhân màu xanh ô liu khoác ngoài áo thun dài tay kẻ sọc, đeo dây túi laptop chéo ngực.",
+                "ref_prompt": "Full-body photorealistic character reference of @Seja, a 22-year-old man, 175 cm, wiry lanky build, messy curly dark hair, quick restless eyes, thin-framed technical glasses, oversized olive graphic work shirt over striped long-sleeve tee, cargo trousers, sneakers, canvas laptop strap across chest; plain grey studio background, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Onle",
-                "name": "Onle (Điều phối bộ đàm)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Kỹ sư điều phối liên lạc và máy quét tần số cảnh sát 32 tuổi của đội Micdo; cao lớn, râu quai nón gọn, đeo tai nghe một bên có mic, áo khoác bomber xám than.",
-                "ref_prompt": "Full-body photorealistic character reference of @Onle, a 32-year-old man, 182 cm, broad-shouldered build, closely shaved head, neatly trimmed beard, a single-ear radio headset with boom mic, charcoal-grey zip-up bomber jacket over a black tee, dark jeans, black tactical boots; plain grey studio background, 8K. Not resembling any real actor.",
+                "name": "Onle (Thợ máy gầm bệ)",
+                "default_media_id": "5a83756f-9ebb-4e2d-8ed5-89c313dc6976",
+                "locked_media_id": "5a83756f-9ebb-4e2d-8ed5-89c313dc6976",
+                "description": "Onle (30 tuổi): thợ máy gầm bệ và tay lái bọc hậu điềm tĩnh của đội; cao 182 cm, vai rộng vạm vỡ, tóc đen cắt sát, râu dê gọn gàng, mặc bộ đồ liền thân thợ máy màu xanh rêu đậm buộc ngang hông bên ngoài áo thun đen.",
+                "ref_prompt": "Full-body photorealistic character reference of @Onle, a 30-year-old man, 182 cm, broad-shouldered mechanic build, closely cropped dark hair, neat goatee, calm steady dark eyes, grease-weathered hands, grease-stained dark-green mechanic jumpsuit tied at the waist over a black T-shirt, heavy work boots; plain grey studio background, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@NyTran",
-                "name": "Ny Trần (Trùm Little Saigon)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Ông trùm băng nhóm khu Little Saigon 29 tuổi và đối thủ của Micdo; tóc đen vuốt ngược bóng mượt, dây chuyền vàng mảnh, vest họa tiết da rắn / áo khoác da đen.",
-                "ref_prompt": "Full-body photorealistic character reference of @NyTran, a 29-year-old Vietnamese-American man, 177 cm, lean sharp build, slicked-back glossy black hair, cold calculating dark eyes, a thin gold chain over a tailored black-and-grey snakeskin-textured suit jacket, black silk shirt unbuttoned at the collar, black dress trousers, pointed black leather shoes; plain grey studio background, 8K. Not resembling any real actor.",
+                "name": "Ny Trần (Trùm Light Saigon)",
+                "default_media_id": "bdd1b074-3809-46ac-963d-7ffc1d800d7c",
+                "locked_media_id": "bdd1b074-3809-46ac-963d-7ffc1d800d7c",
+                "description": "Ny Tran (30 tuổi): thủ lĩnh băng mô tô Light Saigon tại Little Saigon; cao 177 cm, gò má sắc, tóc đen undercut vuốt ngược bóng mượt, ánh mắt lạnh lùng, đeo dây chuyền vàng mảnh, mặc áo khoác da đen họa tiết da rắn bên ngoài sơ mi lụa đỏ sẫm mở cổ.",
+                "ref_prompt": "Full-body photorealistic character reference of @NyTran, a 30-year-old Vietnamese man, 177 cm, lean sharp build, sharp cheekbones, sleek undercut slicked-back black hair, cold calculating dark eyes, thin gold neck chain, tailored black snake-pattern leather jacket over open-collar crimson silk shirt, black trousers, polished boots; plain grey studio background, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Cela",
                 "name": "Cela (Anh họ Ny Trần)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Anh họ và cánh tay phải 28 tuổi của Ny Trần; đầu cạo sát hai bên, sẹo chéo má phải, sơ mi lụa đỏ sẫm mở cúc ngực, đai da chéo vai đen.",
-                "ref_prompt": "Full-body photorealistic character reference of @Cela, a 28-year-old Vietnamese-American man, 174 cm, compact muscular build, buzzed sides with a short top knot, a diagonal scar across his right cheek, dark-red silk shirt with rolled sleeves, black leather crossbody strap, black slacks, black dress boots; plain grey studio background, 8K. Not resembling any real actor.",
+                "default_media_id": "d977c3f5-1225-4caa-8772-39b2588a71f3",
+                "locked_media_id": "d977c3f5-1225-4caa-8772-39b2588a71f3",
+                "description": "Cela (31 tuổi): anh họ và tay chân thân cận của Ny Tran; cao 174 cm, cơ bắp chắc nịch, tóc cạo hai bên buộc chỏm ngắn trên đỉnh, sẹo chéo bên má phải, hình xăm rồng kín cẳng tay phải, mặc áo ghi-lê da đen sát nách bên ngoài áo tối màu.",
+                "ref_prompt": "Full-body photorealistic character reference of @Cela, a 31-year-old Vietnamese man, 174 cm, compact muscular build, shaved sides with a tied short topknot, narrow watchful eyes, diagonal scar across right cheek, dragon tattoo sleeve on right forearm, sleeveless black leather vest over dark shirt, black jeans, riding boots; plain grey studio background, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Nese",
                 "name": "Trung sĩ Nese (LAPD)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Cấp trên trực tiếp 46 tuổi của Tom trong LAPD; tóc muối tiêu, ria mép gọn, vest xám tro khoác ngoài sơ mi xanh nhạt, cà vạt nới lỏng.",
-                "ref_prompt": "Full-body photorealistic character reference of @Nese, a 46-year-old man, 180 cm, solid build, salt-and-pepper cropped hair, trimmed moustache, thoughtful weathered face, charcoal-grey suit jacket over a pale-blue dress shirt with loosened striped tie, dark trousers, brown leather oxfords; plain grey studio background, 8K. Not resembling any real actor.",
+                "default_media_id": "823abd75-2434-4f07-8812-70ed808cb67b",
+                "locked_media_id": "823abd75-2434-4f07-8812-70ed808cb67b",
+                "description": "Trung sĩ Nese (46 tuổi): chỉ huy trực tiếp của Tom trong LAPD; cao 180 cm, dáng vẻ dày dạn sương gió, tóc cắt ngắn điểm bạc, ria mép tỉa gọn, mặc sơ mi trắng xắn tay nới lỏng cà vạt tối màu, đeo bao huy hiệu ở thắt lưng.",
+                "ref_prompt": "Full-body photorealistic character reference of @Nese, a 46-year-old veteran police sergeant, 180 cm, solid build, greying crew-cut hair, weathered lined face, stern focused eyes, trimmed moustache, rolled-sleeve white dress shirt with loosened dark tie, badge holder at belt, charcoal trousers, leather shoes; plain grey studio background, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Kinan",
                 "name": "Đặc vụ Kinan (FBI)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Chỉ huy lực lượng đặc nhiệm FBI 42 tuổi; tóc nâu chải gọn, kính gọng kim loại mảnh, sơ mi trắng xắn tay, cà vạt đỏ sẫm, huy hiệu cài thắt lưng.",
-                "ref_prompt": "Full-body photorealistic character reference of @Kinan, a 42-year-old man, 178 cm, trim build, neatly parted brown hair, thin metal-frame glasses, stern impatient expression, crisp white dress shirt with sleeves rolled, dark-red tie, silver badge clip at belt, navy dress trousers; plain grey studio background, 8K. Not resembling any real actor.",
+                "default_media_id": "ea56efae-cf13-48ad-a069-dfa421e96a36",
+                "locked_media_id": "ea56efae-cf13-48ad-a069-dfa421e96a36",
+                "description": "Đặc vụ liên bang Kinan (44 tuổi): chỉ huy lực lượng đặc nhiệm FBI phối hợp điều tra; cao 178 cm, dáng thẳng nghiêm nghị, tóc nâu sẫm rẽ ngôi gọn, đeo kính gọng kim loại mảnh, mặc bộ vest xám than tối màu bên ngoài sơ mi xanh thép không thắt cà vạt.",
+                "ref_prompt": "Full-body photorealistic character reference of @Kinan, a 44-year-old federal agent, 178 cm, trim upright build, neatly parted dark-brown hair, sharp angular features, piercing gaze, thin metal-frame glasses, tailored dark charcoal suit over steel-blue shirt without tie, federal credential folder at side; plain grey studio background, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@Verni",
-                "name": "Verni (Chủ kho phụ tùng)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Ông chủ kho phụ tùng tốc độ cao 48 tuổi; dáng chắc đậm, tóc hói đỉnh đầu, dây chuyền vàng to, áo polo đỏ sọc trắng, cầm bảng kẹp giấy và giẻ lau.",
-                "ref_prompt": "Full-body photorealistic character reference of @Verni, a 48-year-old man, 173 cm, stocky barrel-chested build, receding hairline, thick five-o'clock shadow, heavy gold chain, red-and-white striped polo shirt, dark work pants, holding a clipboard and a greasy rag; plain grey studio background, 8K. Not resembling any real actor.",
+                "name": "Verni (Tài xế container)",
+                "default_media_id": "79ff8afe-97f5-4165-a602-d42d1b1a8d70",
+                "locked_media_id": "79ff8afe-97f5-4165-a602-d42d1b1a8d70",
+                "description": "Verni (48 tuổi): tài xế xe container 18 bánh đường dài trên xa lộ Interstate 10; cao 173 cm, lồng ngực vạm vỡ, râu quai nón dày điểm bạc, gương mặt rám nắng phong sương, đội mũ lưỡi trai tài xế, mặc áo sơ mi kẻ caro bên trong áo ghi-lê bảo hộ màu nâu.",
+                "ref_prompt": "Full-body photorealistic character reference of @Verni, a 48-year-old stocky long-haul truck driver, 173 cm, barrel-chested build, strong forearms, thick grey-streaked beard, sun-weathered face, defiant eyes, receding hair under a worn trucker cap, plaid flannel shirt under a padded brown work vest, dark jeans, heavy boots; plain grey studio background, 8K. Not resembling any real actor.",
             },
         ],
     },
 ]
+
+CHANNEL_MAX_EPISODES: dict[str, int] = {
+    "duong-dua-sinh-tu": 40,
+    "ke-song-sot": 60,
+}
 
 
 def _now_iso() -> str:
@@ -507,10 +512,14 @@ async def ensure_cms_seeded():
             ("admin-1", "admin", _hash_password("admin123"), "Quản Trị Viên FlowKit", "admin", now),
         )
 
-    # 2. Seed channels & remove deprecated channels
+    # 2. Seed channels & remove deprecated channels / stale episode rows
     await db.execute("DELETE FROM cms_channel WHERE slug = ?", ("mai-hoa-thung",))
     await db.execute("DELETE FROM cms_episode WHERE channel_slug = ?", ("mai-hoa-thung",))
     await db.execute("DELETE FROM cms_clip WHERE channel_slug = ?", ("mai-hoa-thung",))
+    for ch_slug, max_ep in CHANNEL_MAX_EPISODES.items():
+        await db.execute("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
+        await db.execute("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
+    await db.execute("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= 240")
 
     for ch in DEFAULT_CHANNELS:
         cur = await db.execute("SELECT slug, project_id, characters_json FROM cms_channel WHERE slug = ?", (ch["slug"],))
@@ -827,7 +836,12 @@ def _scan_channel_episodes(
                     ep_dirs[ep_num] = full_p
 
     # Tổng số tập dựa trên cả folder thực tế trên ổ cứng và các tập đã đồng bộ R2 / SQLite
-    all_ep_nums = sorted(set(ep_dirs.keys()) | set(ep_map.keys()))
+    max_ep = CHANNEL_MAX_EPISODES.get(slug)
+    all_ep_nums = sorted(
+        ep_n
+        for ep_n in (set(ep_dirs.keys()) | set(ep_map.keys()))
+        if max_ep is None or (1 <= ep_n <= max_ep)
+    )
     episodes = []
     for ep_num in all_ep_nums:
         db_ep = ep_map.get(ep_num) or {}
@@ -938,11 +952,14 @@ def _scan_channel_episodes(
 async def _load_channel_db_maps(db, slug: str) -> tuple[dict[int, dict], dict[tuple[int, int], dict]]:
     ep_map: dict[int, dict] = {}
     clip_map: dict[tuple[int, int], dict] = {}
+    max_ep = CHANNEL_MAX_EPISODES.get(slug)
     try:
         ep_cur = await db.execute("SELECT * FROM cms_episode WHERE channel_slug = ?", (slug,))
         for r in await ep_cur.fetchall():
             d = dict(r)
             ep_n = int(d["episode_num"])
+            if max_ep is not None and ep_n > max_ep:
+                continue
             if ep_n not in ep_map:
                 ep_map[ep_n] = d
             else:
@@ -959,7 +976,10 @@ async def _load_channel_db_maps(db, slug: str) -> tuple[dict[int, dict], dict[tu
         cl_cur = await db.execute("SELECT * FROM cms_clip WHERE channel_slug = ?", (slug,))
         for r in await cl_cur.fetchall():
             d = dict(r)
-            key = (int(d["episode_num"]), int(d["clip_num"]))
+            ep_n = int(d["episode_num"])
+            if max_ep is not None and ep_n > max_ep:
+                continue
+            key = (ep_n, int(d["clip_num"]))
             if key not in clip_map:
                 clip_map[key] = d
             else:
@@ -982,6 +1002,8 @@ async def _load_channel_db_maps(db, slug: str) -> tuple[dict[int, dict], dict[tu
             ep_n = ld.get("episode")
             cl_n = ld.get("clip_num")
             if ep_n is None:
+                continue
+            if max_ep is not None and int(ep_n) > max_ep:
                 continue
             try:
                 det = json.loads(ld.get("details_json") or "{}")
@@ -2390,9 +2412,13 @@ class SyncR2BatchRequest(BaseModel):
 
 
 async def _populate_all_channels_into_db(db) -> dict:
-    """Scan all 6 series channels on disk and upsert episodes & clips (prompts + video paths) into cms_episode & cms_clip."""
+    """Scan all series channels on disk and upsert episodes & clips (prompts + video paths) into cms_episode & cms_clip."""
     await ensure_cms_seeded()
     raw_db = getattr(db, "_sqlite", db)
+    for ch_slug, max_ep in CHANNEL_MAX_EPISODES.items():
+        await raw_db.execute("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
+        await raw_db.execute("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
+    await raw_db.execute("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= 240")
     cur = await raw_db.execute("SELECT * FROM cms_channel ORDER BY rowid ASC")
     channels = [dict(r) for r in await cur.fetchall()]
     now = _now_iso()

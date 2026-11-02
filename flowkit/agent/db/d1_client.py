@@ -426,6 +426,15 @@ async def sync_sqlite_to_d1(sqlite_conn: Any, schema_sql: str) -> dict[str, Any]
     errors: list[str] = []
 
     async with httpx.AsyncClient(timeout=60.0) as client:
+        for prune_sql, prune_params in (
+            ("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
+            ("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
+            ("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= ?", [240]),
+        ):
+            await raw_sqlite.execute(prune_sql, prune_params)
+            await d1_query_async(prune_sql, prune_params, cfg=cfg, client=client)
+        await raw_sqlite.commit()
+
         sem = asyncio.Semaphore(6)
         for table in ALL_SYNC_TABLES:
             try:
@@ -509,6 +518,15 @@ async def sync_d1_to_sqlite(sqlite_conn: Any, schema_sql: str) -> dict[str, Any]
                 table_stats[table] = pulled
             except Exception as e:
                 errors.append(f"{table}: {e}")
+
+        for prune_sql, prune_params in (
+            ("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
+            ("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
+            ("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= ?", [240]),
+        ):
+            await raw_sqlite.execute(prune_sql, prune_params)
+            await d1_query_async(prune_sql, prune_params, cfg=cfg, client=client)
+        await raw_sqlite.commit()
 
     return {
         "ok": True,

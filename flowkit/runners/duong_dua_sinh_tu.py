@@ -617,6 +617,8 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
 
         for s_idx in range(1, 41):
             scene_dir = os.path.join(SERIES_DIR, f"canh-{s_idx:02d}")
+            ep_id = f"{CHANNEL_SLUG}:ep:{s_idx}"
+            rendered_in_ep = 0
             for c_idx in range(1, 7):
                 ord_int = (s_idx - 1) * 6 + (c_idx - 1)
                 sc_id = f"scene-ddst-{s_idx:02d}-{c_idx:02d}"
@@ -631,6 +633,8 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
                 chain_type = "ROOT" if is_new_scene_clip(prompt_txt, c_idx, "CHECK_CONTINUE") else "CONTINUATION"
                 existing_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s_idx:02d}", f"canh-{s_idx:02d}_clip-{c_idx:02d}.mp4")
                 has_mp4 = os.path.exists(existing_mp4) and os.path.getsize(existing_mp4) > 50_000
+                if has_mp4:
+                    rendered_in_ep += 1
                 conn.execute(
                     """INSERT INTO scene (id, video_id, display_order, chain_type, prompt, video_prompt, horizontal_video_status, horizontal_video_url)
                        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
@@ -653,7 +657,50 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
                         existing_mp4 if has_mp4 else None,
                     ),
                 )
+                clip_id = f"{CHANNEL_SLUG}:ep:{s_idx}:clip:{c_idx}"
+                conn.execute(
+                    """INSERT INTO cms_clip (id, channel_slug, project_id, episode_num, folder_name, clip_num, prompt, status, local_path)
+                       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                       ON CONFLICT(id) DO UPDATE SET
+                         project_id=excluded.project_id,
+                         folder_name=excluded.folder_name,
+                         prompt=excluded.prompt,
+                         status=CASE WHEN excluded.status='COMPLETED' THEN 'COMPLETED' ELSE cms_clip.status END,
+                         local_path=COALESCE(excluded.local_path, cms_clip.local_path)""",
+                    (
+                        clip_id,
+                        CHANNEL_SLUG,
+                        PROJECT_ID,
+                        s_idx,
+                        f"canh-{s_idx:02d}",
+                        c_idx,
+                        prompt_txt,
+                        "COMPLETED" if has_mp4 else "PENDING",
+                        existing_mp4 if has_mp4 else None,
+                    ),
+                )
                 SCENE_DB_MAP[f"canh_{s_idx:02d}_clip_{c_idx:02d}"] = sc_id
+            conn.execute(
+                """INSERT INTO cms_episode (id, channel_slug, project_id, episode_num, folder_name, label, total_clips, rendered_clips, is_complete)
+                   VALUES (?, ?, ?, ?, ?, ?, 6, ?, ?)
+                   ON CONFLICT(id) DO UPDATE SET
+                     project_id=excluded.project_id,
+                     folder_name=excluded.folder_name,
+                     label=excluded.label,
+                     total_clips=6,
+                     rendered_clips=MAX(cms_episode.rendered_clips, excluded.rendered_clips),
+                     is_complete=MAX(cms_episode.is_complete, excluded.is_complete)""",
+                (
+                    ep_id,
+                    CHANNEL_SLUG,
+                    PROJECT_ID,
+                    s_idx,
+                    f"canh-{s_idx:02d}",
+                    f"Cảnh {s_idx:02d}",
+                    rendered_in_ep,
+                    1 if rendered_in_ep == 6 else 0,
+                ),
+            )
 
         conn.commit()
         conn.close()
@@ -675,7 +722,7 @@ def update_dashboard_scene_status(scene_num: int, clip_num: int, video_url: str)
                 "UPDATE scene SET horizontal_video_url = ?, horizontal_video_status = 'COMPLETED' WHERE id = ?",
                 (video_url, sid),
             )
-        clip_id = f"{CHANNEL_SLUG}:ep{scene_num:03d}:clip{clip_num:02d}"
+        clip_id = f"{CHANNEL_SLUG}:ep:{scene_num}:clip:{clip_num}"
         conn.execute(
             "UPDATE cms_clip SET status = 'COMPLETED', local_path = COALESCE(local_path, ?) WHERE id = ?",
             (video_url, clip_id),

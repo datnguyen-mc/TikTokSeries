@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. white-and-blue racing windbreaker over dark tee, cargo trousers, driving shoes, thin-framed glasses. Voice: quick, earnest, energetic Southern Vietnamese male voice.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Keep exact approved appearance for MICDO, SEJA_R, AMI with props JETTA, MOTO_PACK; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO, SEJA_R, AMI with surrounding props (MOTO_PACK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 36/40, clip 3/6; shot 36.3. Story time: D7 sunset.
 Tree-lined residential street in front of the Toto family white clapboard house at golden-hour sunset: front lawn, concrete porch steps, driveway leading back to the garage.
+Architecture & road geometry: tree-lined residential street in front of the Toto family two-story white clapboard house at sunset; two-lane residential asphalt street along the front kerb and concrete driveway.
+Surrounding objects & landmarks: white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees; wooden front porch steps, green front lawn, palm trees catching golden-hour sun.
 Spatial geography & 180-degree axis: Residential street in front of the Toto house (TOTO_FRONT) at golden-hour sunset: Toto front porch and lawn on screen left; street kerb with the white JETTA and approaching MOTO_PACK on screen right.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -29,8 +31,8 @@ In TOTO_FRONT during D7 sunset (shot 36.3 opening): Micdo, Seja, and Ami standin
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Seja with the Matte-Black Street Sport Motorcycles anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Matte-Black Street Sport Motorcycles, maintaining readable background depth.
+Composition: Using a low-angle tracking 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Micdo and Seja with the Matte-Black Street Sport Motorcycles, surrounded by white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Matte-Black Street Sport Motorcycles, keeping wooden front porch steps, green front lawn, palm trees catching golden-hour sun readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Micdo reassures Seja that he is safe at home and Micdo will handle the car debt, then pauses as engine revs rise up the block. Beat 2 (2.8–7.9s): Micdo snaps his head toward the street corner and reaches his right arm out to guide Seja behind him while warning everyone about the two black motorcycles. Beat 3 (7.9–10.0s): two matte-black sport motorcycles turn onto the residential block at full throttle.
@@ -56,16 +58,16 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Prized alpine-white tuned sport sedan with white alloy rims and custom dashboard telemetry display. [VEHICLE_LOCK JETTA: gloss alpine-white paint with clean monochrome bumpers; 4 wheels on 2 axles, 17-inch multi-spoke white powder-coated alloy wheels; LEFT-HAND DRIVE: white-trimmed sport seats, driver seat on the left, digital shift indicator; state=clean alpine-white finish, desert dust along lower tires after Mojave drag run]
 - Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=two matte-black sport motorcycles ridden in high-speed pursuit formation]
+- Surrounding environment objects in TOTO_FRONT: white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees (landmarks: wooden front porch steps, green front lawn, palm trees catching golden-hour sun).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Painted white wooden clapboard siding, green front lawn grass, warm golden-hour street asphalt, gloss alpine-white sedan bodywork, and natural skin pores.
 
 
 [SOUND]
 Location bed: evening breeze through palm fronds and approaching engines.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

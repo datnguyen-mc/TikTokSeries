@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Cina = Cina: same approved identity, age 28; Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear. fitted black zip driving jacket, fingerless leather driving gloves, dark tactical pants, compact radio earpiece. Voice: cool, firm, clear Southern Vietnamese female voice.
-Keep exact approved appearance for CINA_H with props CIVIC_TRIO, RIG_18, MAGNETIC_LATCH; never show a studio reference backdrop.
+Keep exact approved appearance for CINA_H with surrounding props (CIVIC_TRIO, RIG_18, MAGNETIC_LATCH); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 03/40, clip 2/6; shot 03.2. Story time: N1 night.
 Interstate 10 highway at night: four wide asphalt lanes cutting through dark desert hills, amber reflector studs along the divider, long headlight beams slicing the dark, no readable road signs.
+Architecture & road geometry: four-lane divided interstate highway cutting straight across dark desert hills, concrete center jersey barrier; four wide eastbound asphalt lanes (right-hand US traffic), dashed white lane dividers, amber reflector studs, wide paved right shoulder.
+Surrounding objects & landmarks: concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails; low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs.
 Spatial geography & 180-degree axis: Eastbound Interstate 10 at 95 km/h, travel screen-left to screen-right; Cina's #2 black Civic coupe positioned directly behind the silver trailer double doors.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -27,8 +29,8 @@ In HIGHWAY_NIGHT during N1 night (shot 03.2 opening): Cina leaning from the left
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cina with the Three Matte-Black Precision Coupes anchored clearly in the medium two-shot 50mm lens geometry inside HIGHWAY_NIGHT.
-Focus: Keep tack-sharp focus on Cina's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Using a medium two-shot 50mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Cina with the Three Matte-Black Precision Coupes inside HIGHWAY_NIGHT, surrounded by concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails.
+Focus: Keep tack-sharp focus on Cina's eyes, lip-sync articulation, and hand-and-body follow-through with the Three Matte-Black Precision Coupes, keeping low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Cina snaps the magnetic latch-release clamp firmly onto the lower steel latch bar of the moving trailer door. Beat 2 (2.8–7.1s): Cina draws her arm back inside the cockpit, grips the steering wheel with her left hand, and flips the remote trigger switch while speaking. Beat 3 (7.1–10.0s): Cina eases the coupe back two meters as the amber indicator light on the magnetic clamp begins pulsing rapidly.
@@ -57,9 +59,10 @@ Reference only; enact only the current ACTION, not a future handover.
 - Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=all three matte-black coupes intact with emerald-green underglow active in formation around the semi-truck]
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=rear trailer latch released by magnetic module, double doors swung open against highway slipstream]
 - Compact magnetic remote latch-release module attached to the rear container door lock. [OBJECT_LOCK MAGNETIC_LATCH: palm-sized matte-grey magnetic actuator clamp with amber status LED; state=clamped onto the rear container lock bar, amber LED pulsing before releasing the steel latch]
+- Surrounding environment objects in HIGHWAY_NIGHT: concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails (landmarks: low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Coarse night-cooled highway asphalt, brushed aluminum trailer panels, matte-black coupe paintwork, emerald-green LED underglow reflections on pavement, and natural skin pores.
 
 
 [SOUND]

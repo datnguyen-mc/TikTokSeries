@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. tailored black snake-pattern leather jacket over open-collar crimson silk shirt, gold chain, black trousers, polished boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
 @Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO, NYTRAN, CELA with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO, NYTRAN, CELA with surrounding props (ECLIPSE, MOTO_PACK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 18/40, clip 1/6; shot 18.1. Story time: N2 night.
 Desolate gravel lot at the edge of Little Saigon at night: rusted shipping containers, chain-link perimeter fence, neon shop glow far behind, circle of matte-black sport motorcycles surrounding the parked coupe.
+Architecture & road geometry: fenced gravel storage lot on the edge of Little Saigon at night bordered by stacked rusted shipping containers; compacted gravel yard with a single chain-link gate entrance.
+Surrounding objects & landmarks: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights; distant blurred neon shop glow beyond the perimeter fence.
 Spatial geography & 180-degree axis: Desolate gravel storage lot in Little Saigon (SAIGON_LOT): Tom and Micdo's neon-green ECLIPSE on screen left; Ny Tran and Cela's matte-black MOTO_PACK on screen right.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -32,8 +34,8 @@ In SAIGON_LOT during N2 night (shot 18.1 opening): Ny Tran and Cela leading ten 
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Ny Tran with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Using a wide 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Micdo and Ny Tran with the Neon-Green Turbo Sport Coupe, surrounded by stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping distant blurred neon shop glow beyond the perimeter fence readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–3.7s): Ny Tran and Cela sweep their matte-black motorcycles across the front bumper of the Eclipse, cutting off the road. Beat 2 (3.7–7.9s): Micdo leans forward toward the windshield and points at the semicircle of headlights while warning that ten black sport bikes have locked the road. Beat 3 (7.9–10.0s): the remaining riders form a tight semicircle around both flanks of the green coupe.
@@ -63,9 +65,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=over-boosted intake manifold steaming lightly, passenger-side metal floor panel unlatched from high-speed friction sparks, minor front bumper rub mark]
 - Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=pack of matte-black sport motorcycles circling in tight formation]
+- Surrounding environment objects in SAIGON_LOT: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights (landmarks: distant blurred neon shop glow beyond the perimeter fence).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Compacted grey yard gravel, rusted corrugated shipping container steel, matte carbon-textured motorcycle fairings, drifting orange smoke, and natural skin pores.
 
 
 [SOUND]

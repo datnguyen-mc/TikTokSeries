@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. oversized olive graphic work shirt over striped long-sleeve tee, cargo trousers, sneakers, canvas laptop strap across chest. Voice: quick, earnest, energetic Southern Vietnamese male voice.
 @Onle = Onle: same approved identity, age 30; Broad-shouldered mechanic with a neat goatee, calm steady eyes, grease-weathered hands. grease-stained dark-green mechanic jumpsuit tied at the waist over a black T-shirt, heavy work boots. Voice: steady, grounded Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for SEJA, ONLE, TOM with props SUPRA_SHELL, WRENCH_KIT; never show a studio reference backdrop.
+Keep exact approved appearance for SEJA, ONLE, TOM with surrounding props (SUPRA_SHELL, WRENCH_KIT); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 22/40, clip 5/6; shot 22.5. Story time: D2 morning.
 Detached two-bay garage behind the Toto house: warm overhead work lamps, engine hoist, workbenches stacked with wrenches and manifolds, concrete floor, rear corner holding the covered 1970 muscle car.
+Architecture & road geometry: detached two-bay timber-and-concrete home garage behind the Toto house; oil-darkened concrete floor opening onto the backyard driveway.
+Surrounding objects & landmarks: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover; rear alcove housing the covered 1970 matte-black Charger.
 Spatial geography & 180-degree axis: Detached home tuning garage (TOTO_GARAGE) in morning light: rusted orange SUPRA_SHELL in the center bay, Cevin, Onle, and Seja on screen left, Tom on screen right.
 Golden California morning light: low warm sun casting long directional shadows across asphalt and steel, cool ambient sky fill, natural skin tones.
 
@@ -29,8 +31,8 @@ In TOTO_GARAGE during D2 morning (shot 22.5 opening): Seja holding a chrome torq
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Seja and Onle with the Rusted Orange Sport Coupe Project Shell anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, maintaining readable background depth.
+Composition: Using a kinetic handheld 35mm eye-level cinematic camera setup, frame Seja and Onle with the Rusted Orange Sport Coupe Project Shell, surrounded by overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover.
+Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, keeping rear alcove housing the covered 1970 matte-black Charger readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Seja traces the twin-turbo intake manifold and intercooler mounts with the handle of the wrench. Beat 2 (2.8–7.9s): Seja taps the chrome wrench handle lightly against the intercooler bracket and gestures toward the firewall while declaring the car will become a monster. Beat 3 (7.9–10.0s): Onle opens the red steel tool chest and pulls out the heavy socket set.
@@ -57,9 +59,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Rusted, dented orange sport coupe rolling shell on a flatbed tow truck before rebuild, carrying an intact twin-turbo engine block under the hood. [VEHICLE_LOCK SUPRA_SHELL: oxidized faded-orange primer and bare sanded steel patches, intact twin-turbo inline-6 engine block under the hood; 4 mismatched steel transport wheels on 2 axles; LEFT-HAND DRIVE: stripped metal cabin with driver seat on the left; state=dented weathered rolling shell on flatbed tow truck with intact twin-turbo engine block inside bay]
 - Heavy chrome torque wrench, socket tray and engine hoist chains inside the garage. [OBJECT_LOCK WRENCH_KIT: heavy chrome ratchet torque wrench, steel socket tray, and chain engine hoist; state=used on the workbench and engine bay inside the tuning garage]
+- Surrounding environment objects in TOTO_GARAGE: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover (landmarks: rear alcove housing the covered 1970 matte-black Charger).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Oil-darkened garage concrete, mirror-chromed supercharger and wrench steel, lustrous metallic-orange and satin-black bodywork, and natural skin pores under warm shop lamps.
 
 
 [SOUND]

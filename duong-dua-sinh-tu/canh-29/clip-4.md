@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
 @Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. white-and-blue racing windbreaker over dark tee, cargo trousers, driving shoes, thin-framed glasses. Voice: quick, earnest, energetic Southern Vietnamese male voice.
-Keep exact approved appearance for NYTRAN_R, SEJA_R with props JETTA, S2000, NOS_BOTTLES; never show a studio reference backdrop.
+Keep exact approved appearance for NYTRAN_R, SEJA_R with surrounding props (JETTA, S2000, NOS_BOTTLES); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 29/40, clip 4/6; shot 29.4. Story time: D5 midday.
 Mojave Desert Race Wars airfield under blazing midday sun: vast heat-shimmering concrete runway, canopies and pit tents lined with tuned cars, desert mountains on the horizon, two-lane drag strip with starting lights.
+Architecture & road geometry: Mojave Desert airfield drag strip and paddock under midday sun; two-lane concrete runway drag strip with Christmas-tree starting lights, bordered by pit canopies.
+Surrounding objects & landmarks: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers; arid Mojave mountain range shimmering across the horizon.
 Spatial geography & 180-degree axis: Mojave Desert drag strip (RACE_WARS): Seja's alpine-white JETTA in the left lane and Ny Tran's jet-black S2000 in the right lane racing screen-left to screen-right.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -28,8 +30,8 @@ In RACE_WARS during D5 midday (shot 29.4 opening): Ny Tran in the left-hand cock
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ny Tran and Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Ny Tran's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
+Composition: Using a tight close-up 85mm interior cabin-mounted camera angle angled across the left-hand driver seat, frame Ny Tran and Seja with the Alpine-White Tuned Sport Sedan, surrounded by team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers.
+Focus: Keep tack-sharp focus on Ny Tran's eyes, lip-sync articulation, and hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, keeping arid Mojave mountain range shimmering across the horizon readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): the jet-black S2000 rockets forward under dual-stage nitrous boost, pulling level with and then overtaking the white Jetta. Beat 2 (2.8–7.9s): Ny Tran keeps his right hand on the gear shifter and turns his head toward Seja's window with a cold smirk while taunting him at full nitrous boost. Beat 3 (7.9–10.0s): the black S2000 crosses the Mojave finish line a full car-length ahead of the white Jetta.
@@ -58,9 +60,10 @@ Reference only; enact only the current ACTION, not a future handover.
 - Prized alpine-white tuned sport sedan with white alloy rims and custom dashboard telemetry display. [VEHICLE_LOCK JETTA: gloss alpine-white paint with clean monochrome bumpers; 4 wheels on 2 axles, 17-inch multi-spoke white powder-coated alloy wheels; LEFT-HAND DRIVE: white-trimmed sport seats, driver seat on the left, digital shift indicator; state=clean alpine-white finish, desert dust along lower tires after Mojave drag run]
 - Jet-black open-top roadster with concealed dual Nitrous Oxide system under the driver seat. [VEHICLE_LOCK S2000: mirror-gloss jet-black paint with dark-titanium aero lip; 4 wheels on 2 axles, 18-inch forged dark-chrome wheels; LEFT-HAND DRIVE: red-and-black leather bucket seats, digital bar-graph tachometer on the left; state=gleaming jet-black bodywork with concealed NOS purge valves active]
 - Twin blue high-pressure Nitrous Oxide cylinders mounted behind the cockpit with a red steering-wheel trigger button. [OBJECT_LOCK NOS_BOTTLES: two anodized cobalt-blue aluminum pressure cylinders with braided stainless lines and a red steering-wheel thumb switch; state=intact established state]
+- Surrounding environment objects in RACE_WARS: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers (landmarks: arid Mojave mountain range shimmering across the horizon).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-baked Mojave concrete runway tarmac, shimmering desert heat haze, gloss alpine-white and mirror-black car paintwork, canvas pit canopies, and natural skin pores.
 
 
 [SOUND]

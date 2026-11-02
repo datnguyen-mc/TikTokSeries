@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Nese = Nese: same approved identity, age 46; Veteran police sergeant with greying crew-cut hair, weathered lined face, stern focused eyes. rolled-sleeve white dress shirt with loosened dark tie, badge holder at belt, charcoal trousers, leather shoes. Voice: measured, seasoned Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots. Voice: low, calm, clear Southern Vietnamese male voice.
 @Kinan = Kinan: same approved identity, age 44; Tall federal agent with neatly parted dark hair, sharp angular features, piercing gaze. tailored dark charcoal suit over steel-blue shirt without tie, federal credential folder at side. Voice: crisp, urgent, commanding Southern Vietnamese male voice.
-Keep exact approved appearance for NESE, TOM_B, KINAN with props PINK_SLIP, CASE_FILES; never show a studio reference backdrop.
+Keep exact approved appearance for NESE, TOM_B, KINAN with surrounding props (PINK_SLIP, CASE_FILES); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 11/40, clip 1/6; shot 11.1. Story time: D1 late afternoon.
 Abandoned hillside Spanish-style villa converted into a covert LAPD-FBI task-force operations room: tall arched windows with slatted blinds, tactical tables, highway route maps and pinboards with vehicle photos, no readable text.
+Architecture & road geometry: hillside Spanish-revival villa room repurposed as an LAPD-FBI covert briefing room with tall arched windows and wooden shutters; interior tiled floor.
+Surrounding objects & landmarks: large solid-oak tactical table at center, cork pinboards with Interstate 10 route maps and vehicle surveillance photos, steel file cabinets, wooden louver window shutters; slatted daylight filtering from the hillside terrace.
 Spatial geography & 180-degree axis: TASKFORCE_HQ briefing room: Nese and Kinan on screen left of the oak table; Tom on screen right holding the PINK_SLIP registration sleeve.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -32,8 +34,8 @@ In TASKFORCE_HQ during D1 late afternoon (shot 11.1 opening): Nese on screen lef
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Nese and Tom with Vehicle Title Registration Certificate anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
+Composition: Using a wide 35mm eye-level cinematic camera setup, frame Nese and Tom with Vehicle Title Registration Certificate, surrounded by large solid-oak tactical table at center, cork pinboards with Interstate 10 route maps and vehicle surveillance photos, steel file cabinets, wooden louver window shutters.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and hand-and-body follow-through with Vehicle Title Registration Certificate, keeping slatted daylight filtering from the hillside terrace readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Nese opens the manila clasp folder to reveal the clear plastic sleeve holding the green Eclipse registration. Beat 2 (2.8–7.7s): Nese slides the clear plastic title sleeve two inches toward Tom's hand while speaking in a measured tone to confirm the legal vehicle title is inside. Beat 3 (7.7–10.0s): Tom reaches across the oak table to inspect the document.
@@ -60,9 +62,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Official vehicle title registration certificate folded inside a clear protective sleeve. [OBJECT_LOCK PINK_SLIP: folded official paper vehicle title certificate inside a clear plastic sleeve, no readable text; state=held in Tom's right hand and placed on the hood for the quarter-mile wager]
 - Thick manila highway transport investigation folders, satellite route maps and customs manifests without readable text. [OBJECT_LOCK CASE_FILES: thick manila case folders, pinned highway route maps, and glossy surveillance photographs without readable text; state=intact established state]
+- Surrounding environment objects in TASKFORCE_HQ: large solid-oak tactical table at center, cork pinboards with Interstate 10 route maps and vehicle surveillance photos, steel file cabinets, wooden louver window shutters (landmarks: slatted daylight filtering from the hillside terrace).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Polished solid-oak tabletop grain, matte manila investigation folders, glossy surveillance photo prints, terracotta floor tiles under slatted window light, and natural skin pores.
 
 
 [SOUND]

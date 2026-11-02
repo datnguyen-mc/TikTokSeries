@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
-Keep exact approved appearance for no visible cast (vehicle/object detail insert) with props ECLIPSE, WRENCH_KIT, F150_TRUCK; never show a studio reference backdrop.
+Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (ECLIPSE, WRENCH_KIT); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 05/40, clip 3/6; shot 05.3. Story time: D1 morning.
 The Ver's Geh auto parts and tuning shop in Los Angeles: high corrugated roof, hydraulic car lifts, tool chests, racks of chrome intakes and turbochargers, sunny roll-up bay door opening to the street, no readable brand logos.
+Architecture & road geometry: high-bay Los Angeles performance tuning shop with corrugated steel roof, two-post hydraulic car lifts, and wide roll-up street bay door; concrete shop floor leading out to sunlit urban kerb.
+Surrounding objects & landmarks: two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses; sunlit Los Angeles palm silhouettes visible outside the open bay door.
 Spatial geography & 180-degree axis: Interior of Ver's Geh tuning shop (VERS_GARAGE): open street bay door on screen right, neon-green ECLIPSE on hydraulic lift at center, tool bench on screen left.
 Golden California morning light: low warm sun casting long directional shadows across asphalt and steel, cool ambient sky fill, natural skin tones.
 
@@ -27,8 +29,8 @@ In VERS_GARAGE during D1 morning (shot 05.3 mechanical insert): close-up on the 
 [CAMERA]
 85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: 85mm macro mechanical insert on the turbocharger flange, chrome torque wrench head, and neon-green strut tower.
-Focus: Tack-sharp focus on the chrome socket engagement and brushed aluminum turbo housing.
+Composition: 85mm macro mechanical insert on the turbocharger flange, chrome torque wrench head, and neon-green strut tower. Surrounding environment details include two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses.
+Focus: Tack-sharp focus on the chrome socket engagement and brushed aluminum turbo housing. Background depth preserves sunlit Los Angeles palm silhouettes visible outside the open bay door.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): The chrome torque wrench turns clockwise in a smooth forty-five-degree arc until the calibrated head clicks at exact factory spec on the turbocharger flange bolt. Beat 2 (2.8–7.4s): While Tom's voice plays off screen, the wrench lifts clear and the braided stainless boost line settles cleanly beside the gleaming green strut tower. Beat 3 (7.4–10.0s): Morning sunlight through the open bay door glints across the freshly torqued intake manifold and carbon-fiber hood strut.
@@ -55,15 +57,15 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=pristine neon-green bodywork and carbon-fiber hood, twin NOS bottles pressurized in rear mount]
 - Heavy chrome torque wrench, socket tray and engine hoist chains inside the garage. [OBJECT_LOCK WRENCH_KIT: heavy chrome ratchet torque wrench, steel socket tray, and chain engine hoist; state=used on the workbench and engine bay inside the tuning garage]
-- Bright-red shop pickup truck carrying wooden auto-parts crates in the rear bed. [VEHICLE_LOCK F150_TRUCK: bright shop-red paint with chrome front bumper; 4 wheels on 2 axles, 16-inch alloy wheels; LEFT-HAND DRIVE: bench seat with driver position on the left; state=clean shop-red pickup parked at Toto kerb or Ver's Geh bay]
+- Surrounding environment objects in VERS_GARAGE: two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses (landmarks: sunlit Los Angeles palm silhouettes visible outside the open bay door).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Oil-seasoned concrete shop floor, polished chrome wrenches, anodized aluminum turbo intake piping, woven carbon-fiber hood panels, and natural skin pores.
 
 
 [SOUND]
 Location bed: air wrench whir, metal tools clinking and distant city traffic.
-Foreground sound: PRIORITY DIEGETIC SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
+Foreground sound: PRIORITY DIEGETIC SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

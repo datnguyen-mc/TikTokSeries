@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R, MICDO with props CHARGER, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R, MICDO with surrounding props (CHARGER, SUPRA); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 37/40, clip 6/6; shot 37.6. Story time: D7 sunset.
 Detached two-bay garage behind the Toto house: warm overhead work lamps, engine hoist, workbenches stacked with wrenches and manifolds, concrete floor, rear corner holding the covered 1970 muscle car.
+Architecture & road geometry: detached two-bay timber-and-concrete home garage behind the Toto house; oil-darkened concrete floor opening onto the backyard driveway.
+Surrounding objects & landmarks: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover; rear alcove housing the covered 1970 matte-black Charger.
 Spatial geography & 180-degree axis: Toto home garage (TOTO_GARAGE) at sunset: 1970 matte-black CHARGER in the left bay, metallic-orange SUPRA in the right bay, driveway exit ahead.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -28,8 +30,8 @@ In TOTO_GARAGE during D7 sunset (shot 37.6 opening): Tom sprinting to the driver
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
+Composition: Using a dramatic push-in 50mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car, surrounded by overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, keeping rear alcove housing the covered 1970 matte-black Charger readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): the matte-black 1970 Charger rockets out of the garage bay into the sunset street with rear tires smoking. Beat 2 (2.8–7.9s): Tom pulls open the left-hand driver door of the metallic-orange Supra in mid-stride while shouting that he must back Micdo up immediately. Beat 3 (7.9–10.0s): Tom climbs into the left-hand driver seat of the metallic-orange Supra and starts the twin-turbo engine.
@@ -57,9 +59,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=roaring at full 900-hp supercharged output, front tires lifting under launch torque]
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=high-speed pursuit trim with minor right-side rub mark from contact with motorcycle, engine running clean]
+- Surrounding environment objects in TOTO_GARAGE: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover (landmarks: rear alcove housing the covered 1970 matte-black Charger).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Oil-darkened garage concrete, mirror-chromed supercharger and wrench steel, lustrous metallic-orange and satin-black bodywork, and natural skin pores under warm shop lamps.
 
 
 [SOUND]

@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for AMI, TOM_R, MICDO with props CHARGER, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for AMI, TOM_R, MICDO with surrounding props (CHARGER); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 37/40, clip 2/6; shot 37.2. Story time: D7 sunset.
 Detached two-bay garage behind the Toto house: warm overhead work lamps, engine hoist, workbenches stacked with wrenches and manifolds, concrete floor, rear corner holding the covered 1970 muscle car.
+Architecture & road geometry: detached two-bay timber-and-concrete home garage behind the Toto house; oil-darkened concrete floor opening onto the backyard driveway.
+Surrounding objects & landmarks: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover; rear alcove housing the covered 1970 matte-black Charger.
 Spatial geography & 180-degree axis: Toto home garage (TOTO_GARAGE) at sunset: 1970 matte-black CHARGER in the left bay, metallic-orange SUPRA in the right bay, driveway exit ahead.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -29,8 +31,8 @@ In TOTO_GARAGE during D7 sunset (shot 37.2 opening): Ami and Tom at the entrance
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Tom in balanced two-shot depth within TOTO_GARAGE using the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_GARAGE.
+Composition: Using a medium two-shot 50mm eye-level cinematic camera setup, frame Ami and Tom with the 1970 Matte-Black Supercharged Muscle Car, surrounded by overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, keeping rear alcove housing the covered 1970 matte-black Charger readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Micdo marches past the workbenches without a word, his jaw set. Beat 2 (2.8–7.9s): Ami releases Tom's arm and points urgently down the concrete driveway toward the open garage bay while warning Tom about her brother. Beat 3 (7.9–10.0s): Tom hurries inside the garage bay after Micdo.
@@ -56,15 +58,15 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=pristine garage-kept condition under canvas cover, polished chrome supercharger gleaming]
-- Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=high-speed pursuit trim with minor right-side rub mark from contact with motorcycle, engine running clean]
+- Surrounding environment objects in TOTO_GARAGE: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover (landmarks: rear alcove housing the covered 1970 matte-black Charger).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Oil-darkened garage concrete, mirror-chromed supercharger and wrench steel, lustrous metallic-orange and satin-black bodywork, and natural skin pores under warm shop lamps.
 
 
 [SOUND]
 Location bed: ratchet wrenches turning, chain hoist clinking and fluorescent hum.
-Foreground sound: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
+Foreground sound: PRIORITY DIEGETIC SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, clean mechanical contact, and natural breathing layered clearly beneath Ami's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

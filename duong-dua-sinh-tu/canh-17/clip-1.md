@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R, MICDO with props ECLIPSE; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R, MICDO with surrounding props (ECLIPSE); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 17/40, clip 1/6; shot 17.1. Story time: N2 night.
 Narrow industrial back alley behind the South L.A. warehouses at night: brick walls, stacked wooden pallets, chain-link fences, red-and-blue patrol lights reflecting off wet asphalt at both ends.
+Architecture & road geometry: narrow brick-walled industrial service alley behind South L.A. warehouses at night; single-lane wet asphalt service road flanked by loading docks.
+Surrounding objects & landmarks: stacked wooden shipping pallets, galvanized chain-link gates, rusted steel dumpsters, sloped steel loading-dock ramp; red-and-blue patrol car light bars flashing at the distant street mouth.
 Spatial geography & 180-degree axis: Narrow industrial alley (RACE_ALLEY): Tom's neon-green ECLIPSE spins 180 degrees to face screen-right and escapes through the pallet gap.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -31,8 +33,8 @@ In RACE_ALLEY during N2 night (shot 17.1 opening): Tom driving the smoking neon-
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Using a wide 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Tom and Micdo with the Neon-Green Turbo Sport Coupe, surrounded by stacked wooden shipping pallets, galvanized chain-link gates, rusted steel dumpsters, sloped steel loading-dock ramp.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping red-and-blue patrol car light bars flashing at the distant street mouth readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): the neon-green Eclipse pivots 180 degrees on the wet asphalt and halts with its right passenger door aligned with Micdo. Beat 2 (2.8–7.4s): Tom leans across the center console, pushes the right passenger door wide open, and waves Micdo inside while shouting for him to get in fast. Beat 3 (7.4–10.0s): Micdo grabs the door frame with both hands to leap inside.
@@ -59,9 +61,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=over-boosted intake manifold steaming lightly, passenger-side metal floor panel unlatched from high-speed friction sparks, minor front bumper rub mark]
+- Surrounding environment objects in RACE_ALLEY: stacked wooden shipping pallets, galvanized chain-link gates, rusted steel dumpsters, sloped steel loading-dock ramp (landmarks: red-and-blue patrol car light bars flashing at the distant street mouth).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Wet oil-sheened alley asphalt reflecting red-and-blue patrol strobes, weathered red-brick warehouse walls, rough wooden pallet slats, and natural skin pores.
 
 
 [SOUND]

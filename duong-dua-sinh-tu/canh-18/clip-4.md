@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. tailored black snake-pattern leather jacket over open-collar crimson silk shirt, gold chain, black trousers, polished boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO, TOM_R, NYTRAN with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO, TOM_R, NYTRAN with surrounding props (ECLIPSE, MOTO_PACK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 18/40, clip 4/6; shot 18.4. Story time: N2 night.
 Desolate gravel lot at the edge of Little Saigon at night: rusted shipping containers, chain-link perimeter fence, neon shop glow far behind, circle of matte-black sport motorcycles surrounding the parked coupe.
+Architecture & road geometry: fenced gravel storage lot on the edge of Little Saigon at night bordered by stacked rusted shipping containers; compacted gravel yard with a single chain-link gate entrance.
+Surrounding objects & landmarks: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights; distant blurred neon shop glow beyond the perimeter fence.
 Spatial geography & 180-degree axis: Desolate gravel storage lot in Little Saigon (SAIGON_LOT): Tom and Micdo's neon-green ECLIPSE on screen left; Ny Tran and Cela's matte-black MOTO_PACK on screen right.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -29,8 +31,8 @@ In SAIGON_LOT during N2 night (shot 18.4 opening): Micdo and Tom inside the stop
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Using a tight close-up 85mm eye-level cinematic camera setup, frame Micdo and Tom with the Neon-Green Turbo Sport Coupe, surrounded by stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping distant blurred neon shop glow beyond the perimeter fence readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Micdo places a steadying hand on Tom's forearm as Tom switches off the ignition. Beat 2 (2.8–7.4s): Micdo squeezes Tom's forearm once to steady him and reaches his right hand to the door latch while telling Tom to keep a cool head. Beat 3 (7.4–10.0s): Ny Tran kicks down his motorcycle side stand in the headlight beams ahead.
@@ -57,9 +59,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=over-boosted intake manifold steaming lightly, passenger-side metal floor panel unlatched from high-speed friction sparks, minor front bumper rub mark]
 - Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=pack of matte-black sport motorcycles circling in tight formation]
+- Surrounding environment objects in SAIGON_LOT: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights (landmarks: distant blurred neon shop glow beyond the perimeter fence).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Compacted grey yard gravel, rusted corrugated shipping container steel, matte carbon-textured motorcycle fairings, drifting orange smoke, and natural skin pores.
 
 
 [SOUND]

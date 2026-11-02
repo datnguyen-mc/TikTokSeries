@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for AMI, TOM with props F150_TRUCK, TUNA_SANDWICH; never show a studio reference backdrop.
+Keep exact approved appearance for AMI, TOM with surrounding props (F150_TRUCK, TUNA_SANDWICH); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 06/40, clip 6/6; shot 06.6. Story time: D1 midday.
 Toto family grocery and sandwich counter at midday: sunlit front windows, long wooden lunch counter with chrome stools, glass display shelves, kitchen pass-through behind the counter, no readable signs.
+Architecture & road geometry: corner neighborhood grocery and sandwich counter with sunlit front plate-glass windows; street kerb visible through the front window behind the counter stools.
+Surrounding objects & landmarks: long polished wooden lunch counter running left-to-right, fixed chrome stools with red vinyl seats, glass display shelves, stainless-steel beverage coolers, kitchen pass-through window behind the counter; Echo Park street trees outside the front glass.
 Spatial geography & 180-degree axis: Interior of Toto grocery & lunch counter (TOTO_DINER): Ami behind the wooden counter on screen left facing right; Tom seated on a chrome stool on screen right facing left.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -28,8 +30,8 @@ In TOTO_DINER during D1 midday (shot 06.6 opening): Ami behind the counter and T
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Tom with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
+Composition: Using a dramatic push-in 50mm eye-level cinematic camera setup, frame Ami and Tom with the Bright-Red Stepside Shop Pickup Truck, surrounded by long polished wooden lunch counter running left-to-right, fixed chrome stools with red vinyl seats, glass display shelves, stainless-steel beverage coolers, kitchen pass-through window behind the counter.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, keeping Echo Park street trees outside the front glass readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Ami and Tom turn their heads toward the front plate-glass window as four loud tuned exhausts bark at the kerb. Beat 2 (2.8–7.4s): Ami straightens up behind the counter and places a protective hand on the wooden edge beside Tom's arm as she warns him that Cevin's crew has just arrived outside. Beat 3 (7.4–10.0s): Tom remains seated calmly on his stool, shoulders squaring as footsteps approach the patio entrance.
@@ -56,9 +58,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Bright-red shop pickup truck carrying wooden auto-parts crates in the rear bed. [VEHICLE_LOCK F150_TRUCK: bright shop-red paint with chrome front bumper; 4 wheels on 2 axles, 16-inch alloy wheels; LEFT-HAND DRIVE: bench seat with driver position on the left; state=clean shop-red pickup parked at Toto kerb or Ver's Geh bay]
 - White ceramic plate holding a crustless tuna sandwich and a tall glass of iced water on the Toto counter. [OBJECT_LOCK TUNA_SANDWICH: white ceramic diner plate holding two halves of a crustless white-bread tuna salad sandwich beside a tall glass of iced water; state=freshly plated on the wooden lunch counter between Ami and Tom]
+- Surrounding environment objects in TOTO_DINER: long polished wooden lunch counter running left-to-right, fixed chrome stools with red vinyl seats, glass display shelves, stainless-steel beverage coolers, kitchen pass-through window behind the counter (landmarks: Echo Park street trees outside the front glass).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Warm varnished wooden lunch counter grain, polished chrome stool rims, cold water condensation on glass, white ceramic diner plates, soft cotton apron fabric, and natural skin pores.
 
 
 [SOUND]

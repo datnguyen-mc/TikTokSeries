@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO, AMI, NYTRAN_R with props JETTA, MOTO_PACK; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO, AMI, NYTRAN_R with surrounding props (JETTA, MOTO_PACK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 36/40, clip 4/6; shot 36.4. Story time: D7 sunset.
 Tree-lined residential street in front of the Toto family white clapboard house at golden-hour sunset: front lawn, concrete porch steps, driveway leading back to the garage.
+Architecture & road geometry: tree-lined residential street in front of the Toto family two-story white clapboard house at sunset; two-lane residential asphalt street along the front kerb and concrete driveway.
+Surrounding objects & landmarks: white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees; wooden front porch steps, green front lawn, palm trees catching golden-hour sun.
 Spatial geography & 180-degree axis: Residential street in front of the Toto house (TOTO_FRONT) at golden-hour sunset: Toto front porch and lawn on screen left; street kerb with the white JETTA and approaching MOTO_PACK on screen right.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -29,8 +31,8 @@ In TOTO_FRONT during D7 sunset (shot 36.4 opening): Ny Tran riding down the resi
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Ami with the Alpine-White Tuned Sport Sedan anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
+Composition: Using a tight close-up 85mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Micdo and Ami with the Alpine-White Tuned Sport Sedan, surrounded by white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, keeping wooden front porch steps, green front lawn, palm trees catching golden-hour sun readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): the two matte-black motorcycles accelerate straight along the kerb beside the parked white Jetta. Beat 2 (2.8–7.7s): Micdo moves with fast defensive footwork across the grass, wrapping his left arm around Ami's shoulders to guide her toward the porch steps while calling out a warning. Beat 3 (7.7–10.0s): Micdo steps forward with fast defensive movements to guide Ami behind the porch pillar.
@@ -58,9 +60,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Prized alpine-white tuned sport sedan with white alloy rims and custom dashboard telemetry display. [VEHICLE_LOCK JETTA: gloss alpine-white paint with clean monochrome bumpers; 4 wheels on 2 axles, 17-inch multi-spoke white powder-coated alloy wheels; LEFT-HAND DRIVE: white-trimmed sport seats, driver seat on the left, digital shift indicator; state=clean alpine-white finish, desert dust along lower tires after Mojave drag run]
 - Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=two matte-black sport motorcycles ridden in high-speed pursuit formation]
+- Surrounding environment objects in TOTO_FRONT: white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees (landmarks: wooden front porch steps, green front lawn, palm trees catching golden-hour sun).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Painted white wooden clapboard siding, green front lawn grass, warm golden-hour street asphalt, gloss alpine-white sedan bodywork, and natural skin pores.
 
 
 [SOUND]

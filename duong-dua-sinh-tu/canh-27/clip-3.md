@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
-Keep exact approved appearance for no visible cast (vehicle/object detail insert) with props CUSTOMS_INVOICE, CASE_FILES; never show a studio reference backdrop.
+Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (CUSTOMS_INVOICE, CASE_FILES); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 27/40, clip 3/6; shot 27.3. Story time: D4 morning.
 Large customs-bonded electronics warehouse behind Ny Tran's compound: tall steel shelving stacked with sealed brown cartons, forklift aisle, inspection desk with stamped shipping ledgers, high skylight windows.
+Architecture & road geometry: high-ceiling customs-bonded electronics storage warehouse behind Ny Tran's compound; wide concrete forklift aisle between steel pallet racks.
+Surrounding objects & landmarks: tall steel pallet shelving stacked with sealed brown electronics cartons, wooden shipping pallets, steel inspection desk holding stamped customs ledgers; high clerestory skylights letting in morning sunbeams.
 Spatial geography & 180-degree axis: Interior of Ny Tran's customs-bonded electronics warehouse (NYTRAN_WAREHOUSE): steel inspection desk on screen left; tall pallet racks on screen right.
 Golden California morning light: low warm sun casting long directional shadows across asphalt and steel, cool ambient sky fill, natural skin tones.
 
@@ -27,8 +29,8 @@ In NYTRAN_WAREHOUSE during D4 morning (shot 27.3 document insert): close-up on t
 [CAMERA]
 85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: 85mm tabletop document insert on the stamped customs ledger and manila investigation folder.
-Focus: Tack-sharp focus on the red customs seal impressions and ledger binding.
+Composition: 85mm tabletop document insert on the stamped customs ledger and manila investigation folder. Surrounding environment details include tall steel pallet shelving stacked with sealed brown electronics cartons, wooden shipping pallets, steel inspection desk holding stamped customs ledgers.
+Focus: Tack-sharp focus on the red customs seal impressions and ledger binding. Background depth preserves high clerestory skylights letting in morning sunbeams.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Nese's hand flips open the heavy hardbound CUSTOMS_INVOICE ledger on the steel desk, revealing rows of red customs clearance stamps without readable text. Beat 2 (2.8–7.9s): While Nese's voice plays off screen, his index finger traces across the stamped clearance entries and compares them with the manila CASE_FILES folder beside it. Beat 3 (7.9–10.0s): Morning sunbeams from the high skylights illuminate the official red seals through 10.0s.
@@ -55,9 +57,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Stamped customs clearance ledger and legal import manifests inside Ny Tran's bonded warehouse. [OBJECT_LOCK CUSTOMS_INVOICE: hardbound shipping ledger with red customs seal impressions, no readable text; state=opened on the warehouse inspection desk showing official red customs seals]
 - Thick manila highway transport investigation folders, satellite route maps and customs manifests without readable text. [OBJECT_LOCK CASE_FILES: thick manila case folders, pinned highway route maps, and glossy surveillance photographs without readable text; state=intact established state]
+- Surrounding environment objects in NYTRAN_WAREHOUSE: tall steel pallet shelving stacked with sealed brown electronics cartons, wooden shipping pallets, steel inspection desk holding stamped customs ledgers (landmarks: high clerestory skylights letting in morning sunbeams).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Smooth sealed warehouse concrete, corrugated brown shipping cartons, powder-coated steel pallet racks, hardbound ledger paper with red customs seals, and natural skin pores.
 
 
 [SOUND]

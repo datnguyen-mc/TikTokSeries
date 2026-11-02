@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. black tactical driving windbreaker zipped over dark shirt, black leather driving gloves, dark cargo trousers, heavy boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Cina = Cina: same approved identity, age 28; Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear. fitted black zip driving jacket, fingerless leather driving gloves, dark tactical pants, compact radio earpiece. Voice: cool, firm, clear Southern Vietnamese female voice.
-Keep exact approved appearance for MICDO_H, CINA_H with props CIVIC_TRIO, RIG_18, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO_H, CINA_H with surrounding props (CIVIC_TRIO, RIG_18); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 33/40, clip 3/6; shot 33.3. Story time: D6 late afternoon.
 Two-lane desert highway cutting across arid scrubland under late-afternoon sun: long straight asphalt, sandy shoulders, heat haze rising in the distance, no readable highway signs.
+Architecture & road geometry: long straight two-lane asphalt highway cutting across open Mojave scrubland in late afternoon; two wide asphalt lanes with yellow center dashed line and wide compacted sand shoulders on both sides.
+Surrounding objects & landmarks: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub; dry desert brush, distant rocky buttes, telegraph poles rushing past.
 Spatial geography & 180-degree axis: Mojave desert highway (DESERT_HIGHWAY) in late-afternoon sun: travel screen-left to screen-right; Cina's coupe slides onto the right sand shoulder while Tom's orange SUPRA arrives from behind.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -28,8 +30,8 @@ In DESERT_HIGHWAY during D6 late afternoon (shot 33.3 opening): Micdo in the lea
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Cina with the Three Matte-Black Precision Coupes anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Using a low-angle tracking 35mm interior cabin-mounted camera angle angled across the left-hand driver seat, frame Micdo and Cina with the Three Matte-Black Precision Coupes, surrounded by yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Three Matte-Black Precision Coupes, keeping dry desert brush, distant rocky buttes, telegraph poles rushing past readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): behind the semi-truck, Cina's #2 coupe slides across the gravel berm and halts upright in a billow of sand. Beat 2 (2.8–7.7s): Micdo leans toward his left side mirror and grips the wheel tighter while shouting into the radio for Cina to hold the wheel tight. Beat 3 (7.7–10.0s): Micdo looks ahead, realizing his lead coupe is boxed in ahead of the charging 18-wheeler.
@@ -57,10 +59,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=Cina's #2 matte-black coupe suffers a deflated front-left tire from trailer contact and slides onto the sandy shoulder]
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=steel cable hooked to right cab side while swerving across desert highway lanes]
-- Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=freshly painted metallic-orange finish, polished twin-turbo engine bay]
+- Surrounding environment objects in DESERT_HIGHWAY: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub (landmarks: dry desert brush, distant rocky buttes, telegraph poles rushing past).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-heated desert asphalt, swirling golden sand and alkali dust on the shoulder, ribbed silver trailer aluminum, pearl metallic-orange paintwork, and natural skin pores.
 
 
 [SOUND]

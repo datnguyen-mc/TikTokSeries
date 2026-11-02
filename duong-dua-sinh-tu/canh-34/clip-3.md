@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
-Keep exact approved appearance for no visible cast (vehicle/object detail insert) with props SUPRA, RIG_18, TETHER_CABLE; never show a studio reference backdrop.
+Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (SUPRA, RIG_18, TETHER_CABLE); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 34/40, clip 3/6; shot 34.3. Story time: D6 late afternoon.
 Two-lane desert highway cutting across arid scrubland under late-afternoon sun: long straight asphalt, sandy shoulders, heat haze rising in the distance, no readable highway signs.
+Architecture & road geometry: long straight two-lane asphalt highway cutting across open Mojave scrubland in late afternoon; two wide asphalt lanes with yellow center dashed line and wide compacted sand shoulders on both sides.
+Surrounding objects & landmarks: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub; dry desert brush, distant rocky buttes, telegraph poles rushing past.
 Spatial geography & 180-degree axis: Mojave desert highway (DESERT_HIGHWAY) at 110 km/h: travel screen-left to screen-right; metallic-orange SUPRA in the right lane pacing RIG_18 on the left.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -27,8 +29,8 @@ In DESERT_HIGHWAY during D6 late afternoon (shot 34.3 mechanical insert): close-
 [CAMERA]
 85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: 85mm close mechanical insert on the steel cable cutters and braided steel tether cable.
-Focus: Tack-sharp focus on the cutter jaws and snapping steel cable strands.
+Composition: 85mm close mechanical insert on the steel cable cutters and braided steel tether cable. Surrounding environment details include yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub.
+Focus: Tack-sharp focus on the cutter jaws and snapping steel cable strands. Background depth preserves dry desert brush, distant rocky buttes, telegraph poles rushing past.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Tom's gloved hands position the hardened steel jaws of the cable cutters squarely around the frayed 10 mm braided steel tether cable vibrating in the 110 km/h desert wind. Beat 2 (2.8–7.7s): While Tom's voice plays off screen, he squeezes both lever handles together with full upper-body force, biting halfway through the tensioned steel strands. Beat 3 (7.7–10.0s): The remaining wire strands part under the steel jaws as late-afternoon sunlight glints off the metallic-orange hood below through 10.0s.
@@ -57,9 +59,10 @@ Reference only; enact only the current ACTION, not a future handover.
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=targa roof panel removed for high-speed highway rescue beside the semi-truck, light desert dust on lower rockers]
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=steel cable hooked to right cab side while swerving across desert highway lanes]
 - Heavy-duty pneumatic steel-cable tether rig and high-tensile safety tether line linking the coupe and truck cabin. [OBJECT_LOCK TETHER_CABLE: compact matte-black pneumatic tube rig extending a 3-prong magnetic steel tether clamp attached to a braided 10 mm steel winch cable; state=severed cleanly by Tom's heavy steel cutters to free Cevin onto the Supra hood]
+- Surrounding environment objects in DESERT_HIGHWAY: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub (landmarks: dry desert brush, distant rocky buttes, telegraph poles rushing past).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-heated desert asphalt, swirling golden sand and alkali dust on the shoulder, ribbed silver trailer aluminum, pearl metallic-orange paintwork, and natural skin pores.
 
 
 [SOUND]

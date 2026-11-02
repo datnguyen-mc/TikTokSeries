@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Nese = Nese: same approved identity, age 46; Veteran police sergeant with greying crew-cut hair, weathered lined face, stern focused eyes. rolled-sleeve white dress shirt with loosened dark tie, badge holder at belt, charcoal trousers, leather shoes. Voice: measured, seasoned Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for NESE, TOM_B with props PINK_SLIP, CASE_FILES; never show a studio reference backdrop.
+Keep exact approved appearance for NESE, TOM_B with surrounding props (PINK_SLIP); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 11/40, clip 5/6; shot 11.5. Story time: D1 late afternoon.
 Abandoned hillside Spanish-style villa converted into a covert LAPD-FBI task-force operations room: tall arched windows with slatted blinds, tactical tables, highway route maps and pinboards with vehicle photos, no readable text.
+Architecture & road geometry: hillside Spanish-revival villa room repurposed as an LAPD-FBI covert briefing room with tall arched windows and wooden shutters; interior tiled floor.
+Surrounding objects & landmarks: large solid-oak tactical table at center, cork pinboards with Interstate 10 route maps and vehicle surveillance photos, steel file cabinets, wooden louver window shutters; slatted daylight filtering from the hillside terrace.
 Spatial geography & 180-degree axis: TASKFORCE_HQ briefing room: Nese and Kinan on screen left of the oak table; Tom on screen right holding the PINK_SLIP registration sleeve.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -28,8 +30,8 @@ In TASKFORCE_HQ during D1 late afternoon (shot 11.5 opening): Nese leaning both 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Nese and Tom in balanced two-shot depth within TASKFORCE_HQ using the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TASKFORCE_HQ.
+Composition: Using a kinetic handheld 35mm eye-level cinematic camera setup, frame Nese and Tom with Vehicle Title Registration Certificate, surrounded by large solid-oak tactical table at center, cork pinboards with Interstate 10 route maps and vehicle surveillance photos, steel file cabinets, wooden louver window shutters.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and hand-and-body follow-through with Vehicle Title Registration Certificate, keeping slatted daylight filtering from the hillside terrace readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Nese traces the perimeter streets around the South Los Angeles warehouse drag strip on the map. Beat 2 (2.8–7.7s): Nese sweeps his hand along the outer highway perimeter loop on the map while explaining that surveillance units will stay on the outer perimeter. Beat 3 (7.7–10.0s): Tom nods in agreement, memorizing the perimeter checkpoints on the map.
@@ -55,10 +57,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Official vehicle title registration certificate folded inside a clear protective sleeve. [OBJECT_LOCK PINK_SLIP: folded official paper vehicle title certificate inside a clear plastic sleeve, no readable text; state=held in Tom's right hand and placed on the hood for the quarter-mile wager]
-- Thick manila highway transport investigation folders, satellite route maps and customs manifests without readable text. [OBJECT_LOCK CASE_FILES: thick manila case folders, pinned highway route maps, and glossy surveillance photographs without readable text; state=intact established state]
+- Surrounding environment objects in TASKFORCE_HQ: large solid-oak tactical table at center, cork pinboards with Interstate 10 route maps and vehicle surveillance photos, steel file cabinets, wooden louver window shutters (landmarks: slatted daylight filtering from the hillside terrace).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Polished solid-oak tabletop grain, matte manila investigation folders, glossy surveillance photo prints, terracotta floor tiles under slatted window light, and natural skin pores.
 
 
 [SOUND]

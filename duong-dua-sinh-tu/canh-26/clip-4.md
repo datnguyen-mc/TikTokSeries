@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. tailored black snake-pattern leather jacket over open-collar crimson silk shirt, gold chain, black trousers, polished boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
-Keep exact approved appearance for NYTRAN, TOM, CELA with props POLICE_RADIO; never show a studio reference backdrop.
+Keep exact approved appearance for NYTRAN, TOM, CELA with surrounding props (POLICE_RADIO); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 26/40, clip 4/6; shot 26.4. Story time: D4 dawn.
 Courtyard and living hall of Ny Tran's gated Little Saigon residence at dawn: wrought-iron front gates, stone driveway, modern living room with leather sofas and silk wall panels.
+Architecture & road geometry: walled Little Saigon courtyard residence with wrought-iron front gates and stone driveway; wide cobbled circular driveway in front of the main veranda.
+Surrounding objects & landmarks: black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates; tall cypress hedges and modern concrete portico.
 Spatial geography & 180-degree axis: Courtyard of NYTRAN_MANSION at dawn: Tom inside the command SUV on screen left; Ny Tran, Cela, and Nese on the stone driveway on screen right.
 Golden California morning light: low warm sun casting long directional shadows across asphalt and steel, cool ambient sky fill, natural skin tones.
 
@@ -29,8 +31,8 @@ In NYTRAN_MANSION during D4 dawn (shot 26.4 opening): Ny Tran stepping forward o
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ny Tran and Tom in balanced two-shot depth within NYTRAN_MANSION using the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Ny Tran's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside NYTRAN_MANSION.
+Composition: Using a tight close-up 85mm eye-level cinematic camera setup, frame Ny Tran and Tom with Encrypted LAPD Tactical Radio Handset, surrounded by black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates.
+Focus: Keep tack-sharp focus on Ny Tran's eyes, lip-sync articulation, and hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, keeping tall cypress hedges and modern concrete portico readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Ny Tran takes a sharp half-step toward the SUV door before the escorting officer guides his arm. Beat 2 (2.8–7.9s): Ny Tran pauses beside the escort officer's hand and points a finger at the SUV window while vowing coldly that Tom and Micdo's crew will answer for this. Beat 3 (7.9–10.0s): Cela stands beside Ny Tran with matching intensity.
@@ -56,9 +58,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Tom's concealed LAPD encrypted tactical radio handset used for emergency medevac coordination. [OBJECT_LOCK POLICE_RADIO: matte-black heavy-duty encrypted tactical transceiver with stub antenna and coiled speaker mic; state=intact established state]
+- Surrounding environment objects in NYTRAN_MANSION: black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates (landmarks: tall cypress hedges and modern concrete portico).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Dew-damp morning cobblestones, forged black wrought-iron gate bars, carved stone veranda columns, dark-tinted SUV window glass, tactical vest fabric, and natural skin pores.
 
 
 [SOUND]

@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots. Voice: rough, fiery, direct Southern Vietnamese male voice.
 @Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. oversized olive graphic work shirt over striped long-sleeve tee, cargo trousers, sneakers, canvas laptop strap across chest. Voice: quick, earnest, energetic Southern Vietnamese male voice.
 @Onle = Onle: same approved identity, age 30; Broad-shouldered mechanic with a neat goatee, calm steady eyes, grease-weathered hands. grease-stained dark-green mechanic jumpsuit tied at the waist over a black T-shirt, heavy work boots. Voice: steady, grounded Southern Vietnamese male voice.
-Keep exact approved appearance for CEVIN, SEJA, ONLE with props F150_TRUCK; never show a studio reference backdrop.
+Keep exact approved appearance for CEVIN, SEJA, ONLE with surrounding props (F150_TRUCK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 07/40, clip 1/6; shot 07.1. Story time: D1 midday.
 Sunlit concrete patio outside Toto grocery: wooden lunch tables under a canvas awning, kerbside parking along the palm-lined Los Angeles street, red pickup and lowered street cars parked at the kerb.
+Architecture & road geometry: sunlit concrete sidewalk patio outside Toto grocery shaded by a striped canvas awning; two-lane residential Los Angeles street with kerbside parking along the right.
+Surrounding objects & landmarks: wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane; palm-lined Echo Park hillside in the background.
 Spatial geography & 180-degree axis: Sunlit patio outside Toto grocery (TOTO_PATIO): diner doorway on screen left, kerbside parked cars and red F150_TRUCK on screen right.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -32,8 +34,8 @@ In TOTO_PATIO during D1 midday (shot 07.1 opening): Cevin, Seja, and Onle steppi
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cevin and Seja with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Cevin's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
+Composition: Using a wide 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Cevin and Seja with the Bright-Red Stepside Shop Pickup Truck, surrounded by wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane.
+Focus: Keep tack-sharp focus on Cevin's eyes, lip-sync articulation, and hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, keeping palm-lined Echo Park hillside in the background readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–4.0s): Seja adjusts his thin-framed glasses and closes his car door while Cevin looks intently at the red Ver's Geh shop pickup parked at the kerb. Beat 2 (4.0–8.2s): Cevin strides briskly across the sunlit concrete patio, swinging his right arm toward the red pickup while speaking loudly toward the diner entrance to challenge the newcomer's presence. Beat 3 (8.2–10.0s): Seja and Onle exchange a wary glance and follow two paces behind Cevin under the canvas awning.
@@ -62,9 +64,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Bright-red shop pickup truck carrying wooden auto-parts crates in the rear bed. [VEHICLE_LOCK F150_TRUCK: bright shop-red paint with chrome front bumper; 4 wheels on 2 axles, 16-inch alloy wheels; LEFT-HAND DRIVE: bench seat with driver position on the left; state=clean shop-red pickup parked at Toto kerb or Ver's Geh bay]
+- Surrounding environment objects in TOTO_PATIO: wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane (landmarks: palm-lined Echo Park hillside in the background).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-warmed concrete patio pavement, weathered wooden picnic tabletops, striped canvas awning fabric, glossy automotive paintwork at the kerb, and natural skin pores.
 
 
 [SOUND]

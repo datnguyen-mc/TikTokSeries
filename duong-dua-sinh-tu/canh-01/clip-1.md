@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Verni = Verni: same approved identity, age 48; Stocky long-haul truck driver with a thick grey-streaked beard, sun-weathered face, strong forearms. plaid flannel shirt under a padded brown work vest, trucker cap, dark jeans, heavy boots. Voice: gravelly, booming Southern Vietnamese male voice.
-Keep exact approved appearance for VERNI with props RIG_18, CIVIC_TRIO; never show a studio reference backdrop.
+Keep exact approved appearance for VERNI with surrounding props (RIG_18, CIVIC_TRIO); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 01/40, clip 1/6; shot 01.1. Story time: N1 night.
 Interstate 10 highway at night: four wide asphalt lanes cutting through dark desert hills, amber reflector studs along the divider, long headlight beams slicing the dark, no readable road signs.
+Architecture & road geometry: four-lane divided interstate highway cutting straight across dark desert hills, concrete center jersey barrier; four wide eastbound asphalt lanes (right-hand US traffic), dashed white lane dividers, amber reflector studs, wide paved right shoulder.
+Surrounding objects & landmarks: concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails; low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs.
 Spatial geography & 180-degree axis: Eastbound Interstate 10 at 110 km/h, right-hand US traffic moving screen-left to screen-right; camera stays on the south (right-flank) 180-degree axis.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -30,8 +32,8 @@ In HIGHWAY_NIGHT during N1 night (shot 01.1 opening): Verni seated inside the el
 [CAMERA]
 24mm wide-angle cinematic opening move: one smooth continuous low-angle lateral track pacing the moving vehicle along the established left-to-right road axis with rapidly spinning wheels, co-directional forward motion, and natural speed parallax. No drone, no whip pan, no cut.
 This first shot establishes the film's screen direction and geography. Never cut internally.
-Composition: Frame Verni with the 18-Wheel Charcoal Semi-Truck & Silver Trailer anchored clearly in the wide establishing 24mm lens geometry inside HIGHWAY_NIGHT.
-Focus: Keep tack-sharp focus on Verni's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
+Composition: Using a wide establishing 24mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Verni with the 18-Wheel Charcoal Semi-Truck & Silver Trailer inside HIGHWAY_NIGHT, surrounded by concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails.
+Focus: Keep tack-sharp focus on Verni's eyes, lip-sync articulation, and hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, keeping low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–4.0s): Verni glances sharply into the wide right west-coast mirror as three matte-black Civic coupes with emerald-green underglow surge up the highway lanes behind the trailer. Beat 2 (4.0–7.9s): Verni downshifts the floor gear lever with his right hand to hold center-lane momentum while speaking aloud inside the vibrating diesel cab. Beat 3 (7.9–10.0s): Verni locks both hands on the steering wheel rim at ten-and-two, eyes narrowing on the right mirror as the lead black coupe pulls beside the cab steps.
@@ -61,9 +63,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=intact sealed trailer doors, cruising steady at 110 km/h in center lane]
 - Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=all three matte-black coupes intact with emerald-green underglow active in formation around the semi-truck]
+- Surrounding environment objects in HIGHWAY_NIGHT: concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails (landmarks: low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Coarse night-cooled highway asphalt, brushed aluminum trailer panels, matte-black coupe paintwork, emerald-green LED underglow reflections on pavement, and natural skin pores.
 
 
 [SOUND]

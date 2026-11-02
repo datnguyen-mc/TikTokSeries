@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R, MICDO with props CHARGER, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R, MICDO with surrounding props (CHARGER); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 37/40, clip 5/6; shot 37.5. Story time: D7 sunset.
 Detached two-bay garage behind the Toto house: warm overhead work lamps, engine hoist, workbenches stacked with wrenches and manifolds, concrete floor, rear corner holding the covered 1970 muscle car.
+Architecture & road geometry: detached two-bay timber-and-concrete home garage behind the Toto house; oil-darkened concrete floor opening onto the backyard driveway.
+Surrounding objects & landmarks: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover; rear alcove housing the covered 1970 matte-black Charger.
 Spatial geography & 180-degree axis: Toto home garage (TOTO_GARAGE) at sunset: 1970 matte-black CHARGER in the left bay, metallic-orange SUPRA in the right bay, driveway exit ahead.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -28,8 +30,8 @@ In TOTO_GARAGE during D7 sunset (shot 37.5 opening): Tom stepping up to the open
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
+Composition: Using a kinetic handheld 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car, surrounded by overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, keeping rear alcove housing the covered 1970 matte-black Charger readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Tom places both hands on the window sill of the vibrating muscle car. Beat 2 (2.8–7.9s): Tom leans his upper body into the open driver window frame and grips Micdo's left shoulder while urging him not to let anger cloud his judgment. Beat 3 (7.9–10.0s): Micdo shifts the T-handle floor lever firmly into first gear without looking back.
@@ -56,15 +58,15 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=roaring at full 900-hp supercharged output, front tires lifting under launch torque]
-- Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=high-speed pursuit trim with minor right-side rub mark from contact with motorcycle, engine running clean]
+- Surrounding environment objects in TOTO_GARAGE: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover (landmarks: rear alcove housing the covered 1970 matte-black Charger).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Oil-darkened garage concrete, mirror-chromed supercharger and wrench steel, lustrous metallic-orange and satin-black bodywork, and natural skin pores under warm shop lamps.
 
 
 [SOUND]
 Location bed: ratchet wrenches turning, chain hoist clinking and fluorescent hum.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

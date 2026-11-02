@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. scuffed black tactical vest with a clean folded towel held against his waist harness after the high-speed stunt, sweat-streaked face, fingerless gloves. Voice: rough, fiery, direct Southern Vietnamese male voice.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. cropped tan suede jacket over burgundy top, dark jeans, sneakers, hair loose over shoulders. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Keep exact approved appearance for TOM_R, CEVIN_W, AMI_N with props CIVIC_TRIO, RIG_18, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R, CEVIN_W, AMI_N with surrounding props (RIG_18, SUPRA); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 33/40, clip 6/6; shot 33.6. Story time: D6 late afternoon.
 Two-lane desert highway cutting across arid scrubland under late-afternoon sun: long straight asphalt, sandy shoulders, heat haze rising in the distance, no readable highway signs.
+Architecture & road geometry: long straight two-lane asphalt highway cutting across open Mojave scrubland in late afternoon; two wide asphalt lanes with yellow center dashed line and wide compacted sand shoulders on both sides.
+Surrounding objects & landmarks: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub; dry desert brush, distant rocky buttes, telegraph poles rushing past.
 Spatial geography & 180-degree axis: Mojave desert highway (DESERT_HIGHWAY) in late-afternoon sun: travel screen-left to screen-right; Cina's coupe slides onto the right sand shoulder while Tom's orange SUPRA arrives from behind.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -29,8 +31,8 @@ In DESERT_HIGHWAY during D6 late afternoon (shot 33.6 opening): Tom in the left-
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Cevin with the 18-Wheel Charcoal Semi-Truck & Silver Trailer anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
+Composition: Using a dramatic push-in 50mm interior cabin-mounted camera angle angled across the left-hand driver seat, frame Tom and Cevin with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, surrounded by yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, keeping dry desert brush, distant rocky buttes, telegraph poles rushing past readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Tom matches the semi-truck's 110 km/h speed in the right lane directly behind where Cevin braces on the tether cable. Beat 2 (2.8–7.7s): Tom feathers the throttle and steers the nose of the open-targa orange Supra smoothly into the slot beside Cevin while telling Ami to hold steady. Beat 3 (7.7–10.0s): Ami braces both hands on the dashboard and nods with fierce determination.
@@ -56,17 +58,17 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=Cina's #2 matte-black coupe suffers a deflated front-left tire from trailer contact and slides onto the sandy shoulder]
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=steel cable hooked to right cab side while swerving across desert highway lanes]
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=freshly painted metallic-orange finish, polished twin-turbo engine bay]
+- Surrounding environment objects in DESERT_HIGHWAY: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub (landmarks: dry desert brush, distant rocky buttes, telegraph poles rushing past).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-heated desert asphalt, swirling golden sand and alkali dust on the shoulder, ribbed silver trailer aluminum, pearl metallic-orange paintwork, and natural skin pores.
 
 
 [SOUND]
 Location bed: heavy diesel engine, high-speed wind and tires roaring on hot asphalt.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust note, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss; ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

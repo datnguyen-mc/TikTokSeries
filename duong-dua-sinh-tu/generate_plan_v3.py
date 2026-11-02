@@ -287,13 +287,13 @@ SCENE_SPECS = [
      "Cevin, Ami, Cina, Onle và Seja đang quây quần bên bếp nướng thì thấy cổng mở.",
      "Cevin đứng bật dậy hỏi dồn khi thấy áo quần Micdo và Tom bám đầy khói đen.",
      "Mở màn cảnh gia đình ấm áp đối lập với thế giới tội phạm bên ngoài."),
-    (37, "Tuyên Bố Kết Nạp Của Micdo", "N2 late night", "TOTO_BACKYARD", ["MICDO", "TOM_B", "CEVIN", "CINA"], ["WRENCH_KIT"], 3,
+    (37, "Tuyên Bố Kết Nạp Của Micdo", "N2 late night", "TOTO_BACKYARD", ["MICDO", "TOM_B", "CEVIN", "CINA"], [], 3,
      "Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh khỏi nhà giam LAPD và từ đêm nay Tom chính thức là người của gia đình Toto.",
      "Các thành viên trong băng, đặc biệt là Cevin, có chấp nhận quyết định của Micdo không?",
      "Micdo cầm chai nước bước ra giữa sân, nhìn khắp lượt từng người anh em.",
      "Micdo tuyên bố ai đụng đến Tom là đụng đến mình, trong khi Cevin vẫn lườm Tom đầy cảnh giác.",
      "Tom chính thức thâm nhập vào lõi băng đảng của Micdo Toto."),
-    (38, "Khăn Ẩm Của Ami", "N2 late night", "TOTO_BACKYARD", ["AMI_N", "TOM_B", "MICDO"], ["WRENCH_KIT"], 2,
+    (38, "Khăn Ẩm Của Ami", "N2 late night", "TOTO_BACKYARD", ["AMI_N", "TOM_B", "MICDO"], [], 2,
      "Ami bước đến bên Tom, nhẹ nhàng dùng khăn ẩm lau vết muội than trên gò má anh và cảm ơn anh đã đưa anh trai cô trở về an toàn.",
      "Sự quan tâm chân thành của Ami tác động thế nào đến tâm lý cảnh sát chìm của Tom?",
      "Ami cầm chiếc khăn bông trắng bước lại gần Tom dưới ánh đèn dây vàng ấm.",
@@ -1822,6 +1822,46 @@ def build_scene_clips(scene_spec: tuple) -> dict:
                 "at": [t1, t2],
             })
 
+        env_info = ENVIRONMENT_LOCK[loc_key]
+        surrounding_objs = env_info["interior_furniture_objects"]
+        surrounding_landmarks = env_info["terrain_landmarks"]
+        surface_textures = env_info.get(
+            "surface_textures",
+            "Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.",
+        )
+        _prop_keywords = {
+            "RIG_18": ("RIG_18", "semi-truck", "18-wheel", "18-wheeler", "trailer", "tractor"),
+            "CIVIC_TRIO": ("CIVIC_TRIO", "Civic", "black coupe", "matte-black coupe", "lead coupe", "#2 coupe", "#3 coupe", "#2 black", "#3 black", "second matte-black"),
+            "ECLIPSE": ("ECLIPSE", "Eclipse", "neon-green", "green coupe", "smoking coupe"),
+            "RX7": ("RX7", "RX-7", "crimson", "red coupe"),
+            "SUPRA_SHELL": ("SUPRA_SHELL", "rusted", "oxidized", "scrap frame"),
+            "SUPRA": ("SUPRA", "Supra", "orange coupe", "targa"),
+            "CHARGER": ("CHARGER", "Charger", "muscle car", "supercharger"),
+            "F150_TRUCK": ("F150_TRUCK", "pickup", "F-150"),
+            "JETTA": ("JETTA", "Jetta", "white car"),
+            "S2000": ("S2000", "roadster"),
+            "MOTO_PACK": ("MOTO_PACK", "motorcycle", "sport bike", "bikes"),
+            "HARPOON_CABLE": ("HARPOON_CABLE", "tether", "steel cable", "carabiner"),
+            "BREACH_CHARGE": ("BREACH_CHARGE", "magnetic latch", "release module", "latch-release"),
+            "NOS_BOTTLES": ("NOS_BOTTLES", "nitrous", "NOS", "cobalt-blue", "brass valves"),
+            "DIAG_LAPTOP": ("DIAG_LAPTOP", "laptop", "telemetry", "boost curve", "manifold temperature"),
+            "PINK_SLIP": ("PINK_SLIP", "title", "registration", "plastic sleeve"),
+            "POLICE_RADIO": ("POLICE_RADIO", "radio", "handset", "transceiver", "shoulder mic"),
+            "WRENCH_KIT": ("WRENCH_KIT", "wrench", "socket", "tool chest", "chain hoist"),
+            "CASE_FILES": ("CASE_FILES", "folder", "warrant", "surveillance photo", "route map"),
+            "CUSTOMS_INVOICE": ("CUSTOMS_INVOICE", "ledger", "customs seal"),
+            "SUPRA_KEY": ("SUPRA_KEY", "ignition key", "key"),
+            "TUNA_SANDWICH": ("TUNA_SANDWICH", "tuna", "sandwich", "plate", "iced water"),
+        }
+
+        moving_vehicle_scenes = {1, 2, 3, 4, 14, 15, 17, 29, 32, 33, 34, 38, 39}
+        moving_vehicle_clips = {
+            "05.6", "07.1", "08.5", "09.1", "09.6", "13.6", "16.1", "16.2", "16.6",
+            "18.1", "18.2", "18.3", "19.5", "28.1", "28.4", "31.6", "36.1", "36.3",
+            "36.4", "36.5", "37.4", "37.5", "37.6", "40.5", "40.6",
+        }
+        is_moving_vehicle_clip = (s_num in moving_vehicle_scenes) or (cid in moving_vehicle_clips)
+
         if is_insert_shot:
             ins = staging["insert_clip3"]
             start_frame = ins["start_frame"]
@@ -1833,10 +1873,13 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             )
             end_frame = ins["end_frame"]
             shot_type = "INSERT_DETAIL"
-            composition_str = ins["composition"]
+            composition_str = f"{ins['composition']} Surrounding environment details include {surrounding_objs}."
             blocking_str = ins["blocking"]
-            focus_str = ins["focus"]
+            focus_str = f"{ins['focus']} Background depth preserves {surrounding_landmarks}."
             performance_str = f"Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while {active_name}'s voice plays cleanly off screen."
+            ins_text = f"{start_frame} {action} {end_frame}"
+            clip_props = [pk for pk in props if any(kw in ins_text for kw in _prop_keywords.get(pk, (pk,)))] or list(props[:1])
+            matched_clip_prop = clip_props[0] if clip_props else None
         else:
             shot_type = (
                 "ESTABLISHING_WIDE" if cam in ("E", "W")
@@ -1860,40 +1903,17 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             action = f"Beat 1 (0.0–{t1:.1f}s): {b1}. Beat 2 ({t1:.1f}–{t2:.1f}s): {b2}. Beat 3 ({t2:.1f}–10.0s): {b3}."
 
             combined_clip_text = f"{open_st} {b1} {b2} {b3} {end_st}"
-            _prop_keywords = {
-                "RIG_18": ("RIG_18", "semi-truck", "18-wheel", "18-wheeler", "trailer", "tractor"),
-                "CIVIC_TRIO": ("CIVIC_TRIO", "Civic", "black coupe", "matte-black coupe", "lead coupe", "#2 coupe", "#3 coupe"),
-                "ECLIPSE": ("ECLIPSE", "Eclipse", "neon-green coupe", "green coupe"),
-                "RX7": ("RX7", "RX-7", "crimson coupe", "red coupe"),
-                "SUPRA_SHELL": ("SUPRA_SHELL", "rusted", "oxidized", "scrap frame"),
-                "SUPRA": ("SUPRA", "Supra", "orange coupe", "targa"),
-                "CHARGER": ("CHARGER", "Charger", "muscle car", "supercharger"),
-                "F150_TRUCK": ("F150_TRUCK", "pickup", "F-150"),
-                "JETTA": ("JETTA", "Jetta", "white car"),
-                "S2000": ("S2000", "roadster"),
-                "MOTO_PACK": ("MOTO_PACK", "motorcycle", "sport bike", "bikes"),
-                "HARPOON_CABLE": ("HARPOON_CABLE", "tether", "steel cable", "carabiner"),
-                "BREACH_CHARGE": ("BREACH_CHARGE", "magnetic latch", "release device", "roller-shutter"),
-                "NOS_BOTTLES": ("NOS_BOTTLES", "nitrous", "NOS", "cobalt-blue", "brass valves"),
-                "DIAG_LAPTOP": ("DIAG_LAPTOP", "laptop", "telemetry", "boost curve"),
-                "PINK_SLIP": ("PINK_SLIP", "title sleeve", "registration", "plastic sleeve"),
-                "POLICE_RADIO": ("POLICE_RADIO", "radio", "handset", "transceiver", "shoulder mic"),
-                "WRENCH_KIT": ("WRENCH_KIT", "wrench", "socket", "tool chest", "chain hoist"),
-                "CASE_FILES": ("CASE_FILES", "folder", "warrant", "surveillance photo", "route map"),
-                "CUSTOMS_INVOICE": ("CUSTOMS_INVOICE", "ledger", "customs seal"),
-                "SUPRA_KEY": ("SUPRA_KEY", "ignition key", "key"),
-            }
+            clip_props = [pk for pk in props if any(kw in combined_clip_text for kw in _prop_keywords.get(pk, (pk,)))]
+            if not clip_props and props:
+                clip_props = [props[0]]
+
             matched_clip_prop: str | None = None
-            if "SUPRA_KEY" in props and any(kw in combined_clip_text for kw in _prop_keywords["SUPRA_KEY"]):
+            if "SUPRA_KEY" in clip_props:
                 matched_clip_prop = "SUPRA_KEY"
-            elif "CHARGER" in props and any(kw in combined_clip_text for kw in _prop_keywords["CHARGER"]) and "Supra" not in combined_clip_text:
+            elif "CHARGER" in clip_props and "Supra" not in combined_clip_text:
                 matched_clip_prop = "CHARGER"
-            else:
-                for pk in props:
-                    kws = _prop_keywords.get(pk, (pk,))
-                    if any(kw in combined_clip_text for kw in kws):
-                        matched_clip_prop = pk
-                        break
+            elif clip_props:
+                matched_clip_prop = clip_props[0]
 
             clip_prop_readable = (
                 VEHICLE_LOCK[matched_clip_prop]["name"] if matched_clip_prop in VEHICLE_LOCK
@@ -1901,24 +1921,71 @@ def build_scene_clips(scene_spec: tuple) -> dict:
                 else None
             )
 
+            is_cockpit_shot = (
+                loc_key in ("RIG_CABIN", "RACE_COCKPIT")
+                or any(
+                    phrase in open_st.lower()
+                    for phrase in (
+                        "in the left-hand",
+                        "inside the left-hand",
+                        "inside the cockpit",
+                        "inside the cabin",
+                        "inside the command suv",
+                        "inside the #2",
+                        "inside the lead",
+                        "in the elevated cab",
+                        "behind the wheel",
+                        "at the wheel of",
+                        "in the lead matte-black",
+                    )
+                )
+            )
+            if is_cockpit_shot:
+                camera_rig_desc = f"{lens_label} interior cabin-mounted camera angle angled across the left-hand driver seat"
+            elif is_moving_vehicle_clip:
+                camera_rig_desc = f"{lens_label} low-angle exterior pursuit tracking camera rig at wheel-and-fender height"
+            else:
+                camera_rig_desc = f"{lens_label} eye-level cinematic camera setup"
+
             if counterpart_name:
                 if clip_prop_readable:
-                    composition_str = f"Frame {active_name} and {counterpart_name} with {clip_prop_readable} anchored clearly in the {lens_label} lens geometry."
+                    composition_str = (
+                        f"Using a {camera_rig_desc}, frame {active_name} and {counterpart_name} with {clip_prop_readable}, "
+                        f"surrounded by {surrounding_objs}."
+                    )
                 else:
-                    composition_str = f"Frame {active_name} and {counterpart_name} in balanced two-shot depth within {loc_key} using the {lens_label} lens geometry."
+                    composition_str = (
+                        f"Using a {camera_rig_desc}, frame {active_name} and {counterpart_name} in balanced two-shot depth inside {loc_key}, "
+                        f"surrounded by {surrounding_objs}."
+                    )
                 blocking_str = f"Preserve left-to-right 180-degree spatial continuity inside {loc_key}; {active_name} moves smoothly on the near side while {counterpart_name} holds the counter-angle."
             else:
                 if clip_prop_readable:
-                    composition_str = f"Frame {active_name} with {clip_prop_readable} anchored clearly in the {lens_label} lens geometry inside {loc_key}."
+                    composition_str = (
+                        f"Using a {camera_rig_desc}, frame {active_name} with {clip_prop_readable} inside {loc_key}, "
+                        f"surrounded by {surrounding_objs}."
+                    )
                 else:
-                    composition_str = f"Frame {active_name} cleanly inside {loc_key} using the {lens_label} lens geometry."
+                    composition_str = (
+                        f"Using a {camera_rig_desc}, frame {active_name} inside {loc_key}, "
+                        f"surrounded by {surrounding_objs}."
+                    )
                 blocking_str = f"Preserve left-to-right 180-degree spatial continuity inside {loc_key}; {active_name} holds the primary plane with smooth natural body follow-through."
             if cid == "40.6":
-                focus_str = f"Keep tack-sharp focus on {active_name}'s eyes, natural breathing, and calm posture on the desert road as {counterpart_name or 'Sergeant Nese'} steps into the background depth plane."
+                focus_str = (
+                    f"Keep tack-sharp focus on {active_name}'s eyes, natural breathing, and calm posture on the desert road "
+                    f"as {counterpart_name or 'Sergeant Nese'} steps into the background depth plane framed by {surrounding_landmarks}."
+                )
             elif clip_prop_readable:
-                focus_str = f"Keep tack-sharp focus on {active_name}'s eyes, lip-sync articulation, and continuous hand-and-body follow-through with {clip_prop_readable}, maintaining readable background depth."
+                focus_str = (
+                    f"Keep tack-sharp focus on {active_name}'s eyes, lip-sync articulation, and hand-and-body follow-through with {clip_prop_readable}, "
+                    f"keeping {surrounding_landmarks} readable in the background depth."
+                )
             else:
-                focus_str = f"Keep tack-sharp focus on {active_name}'s eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside {loc_key}."
+                focus_str = (
+                    f"Keep tack-sharp focus on {active_name}'s eyes, lip-sync articulation, and natural hand-and-body gesture follow-through, "
+                    f"keeping {surrounding_landmarks} readable in the background depth."
+                )
             persona = CHARACTER_ACTING_PERSONA.get(
                 active_base,
                 "restrained high-stakes intensity, continuous natural weight transfer, and fluid hand follow-through while speaking",
@@ -1931,20 +1998,13 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             else:
                 performance_str = f"{active_name} delivers the line with {persona} and organic micro-expressions."
 
-        moving_vehicle_scenes = {1, 2, 3, 4, 14, 15, 17, 29, 32, 33, 34, 38, 39}
-        moving_vehicle_clips = {
-            "05.6", "07.1", "08.5", "09.1", "09.6", "13.6", "16.1", "16.2", "16.6",
-            "18.1", "18.2", "18.3", "19.5", "28.1", "28.4", "31.6", "36.1", "36.3",
-            "36.4", "36.5", "37.4", "37.5", "37.6", "40.5", "40.6",
-        }
-        is_moving_vehicle_clip = (s_num in moving_vehicle_scenes) or (cid in moving_vehicle_clips)
         if is_moving_vehicle_clip:
             blocking_str = (
                 f"{blocking_str} All moving vehicles travel in the exact same left-to-right forward direction along the road lane "
                 f"with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis."
             )
 
-        veh_sfx_list = [VEHICLE_SFX_LOCK[p] for p in props if p in VEHICLE_SFX_LOCK]
+        veh_sfx_list = [VEHICLE_SFX_LOCK[p] for p in clip_props if p in VEHICLE_SFX_LOCK] or [VEHICLE_SFX_LOCK[p] for p in props if p in VEHICLE_SFX_LOCK]
         primary_sfx = (
             "; ".join(veh_sfx_list[:2])
             if veh_sfx_list
@@ -1967,7 +2027,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             "blocking": blocking_str,
             "performance": performance_str,
             "focus": focus_str,
-            "texture": "Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.",
+            "texture": surface_textures,
             "sound_detail": sound_detail_str,
             "rhythm": CAMERA_RHYTHM_MAP[cam].replace("3.2–6.8s", f"{t1:.1f}–{t2:.1f}s"),
         }
@@ -1996,19 +2056,19 @@ def build_scene_clips(scene_spec: tuple) -> dict:
 
         safe_prop_label = lambda p: "TETHER_CABLE" if p == "HARPOON_CABLE" else "MAGNETIC_LATCH" if p == "BREACH_CHARGE" else p
         gear_names = ", ".join(IDENTITIES[LOOKS[k][0]]["name"] + f" ({k})" for k in clip_chars) or "Cận cảnh đạo cụ / phương tiện (không có nhân vật trong khung hình)"
-        props_names = ", ".join(safe_prop_label(p) for p in props)
-        prop_main_safe = safe_prop_label(matched_clip_prop or prop_main) if not is_insert_shot else safe_prop_label(prop_main)
+        props_names = ", ".join(safe_prop_label(p) for p in clip_props) or surrounding_objs
+        prop_main_safe = safe_prop_label(matched_clip_prop) if matched_clip_prop else surrounding_objs
         counter_vi = f" và {counterpart_name}" if counterpart_name else ""
         screenplay_vi = {
-            "gear_vi": f"Nhân vật trong cảnh: {gear_names}. Đạo cụ & phương tiện khóa: {props_names}. Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy {cid}.",
-            "start_vi": f"Bối cảnh: {title} ({story_time}) · Góc máy {cam} ({shot_type}) · Mở hình tại 0.0s với {active_name}{counter_vi} trong không gian {loc_key}.",
+            "gear_vi": f"Nhân vật trong cảnh: {gear_names}. Đạo cụ & vật thể xung quanh: {props_names} ({surrounding_objs}). Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy {cid}.",
+            "start_vi": f"Bối cảnh: {title} ({story_time}) · Góc máy {cam} ({shot_type} — {lens_label}) · Mở hình tại 0.0s với {active_name}{counter_vi} giữa {surrounding_objs} trong không gian {loc_key}.",
             "beats_vi": (
                 f"Nhịp 1 (0.0–{t1:.1f}s): {b1 if not is_insert_shot else 'Ống kính macro 85mm đặc tả chi tiết cơ khí / đạo cụ tại ' + loc_key}. "
                 f"Nhịp 2 ({t1:.1f}–{t2:.1f}s): {b2 if not is_insert_shot else active_name + ' cất giọng ngoài khung hình trong khi chi tiết cơ khí vận hành chuẩn nhịp'} — Thoại ({active_name}): \"{line_text}\". "
                 f"Nhịp 3 ({t2:.1f}–10.0s): {b3 if not is_insert_shot else 'Chi tiết đạo cụ giữ nguyên chuyển động mượt mà và ánh sáng chân thực tới 10.0s'}."
             ),
-            "end_vi": f"Khóa tư thế của {active_name}{counter_vi} cùng đạo cụ ({props_names}) tại giây 10.0s, tuyệt đối không nháy ảnh thẻ tham chiếu.",
-            "directing_vi": f"Góc máy {cam} ({shot_type}) · Chuyển cảnh {trans} · Đạo cụ khóa: {props_names}.",
+            "end_vi": f"Khóa tư thế của {active_name}{counter_vi} cùng các vật thể xung quanh ({props_names}) tại giây 10.0s, tuyệt đối không nháy ảnh thẻ tham chiếu.",
+            "directing_vi": f"Góc máy {cam} ({shot_type} · {lens_label}) · Chuyển cảnh {trans} · Vật thể xung quanh: {surrounding_objs}.",
         }
 
         wardrobe_targets = ", ".join(clip_chars) if clip_chars else "no visible cast (vehicle/object detail insert)"
@@ -2016,7 +2076,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             "number": c_num,
             "location": loc_key,
             "characters": clip_chars,
-            "props": list(props),
+            "props": list(clip_props),
             "camera": cam,
             "shot_type": shot_type,
             "transition": trans,
@@ -2028,7 +2088,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             "cinematic": cinematic,
             "spatial_state": spatial_state,
             "entity_state": entity_state,
-            "wardrobe_note": f"Keep exact approved appearance for {wardrobe_targets} with props {props_names}; never show a studio reference backdrop.",
+            "wardrobe_note": f"Keep exact approved appearance for {wardrobe_targets} with surrounding props ({props_names}); never show a studio reference backdrop.",
             "screenplay_vi": screenplay_vi,
             "avoid": (
                 "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, "

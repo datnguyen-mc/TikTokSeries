@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. black tactical driving windbreaker zipped over dark shirt, black leather driving gloves, dark cargo trousers, heavy boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. cropped tan suede jacket over burgundy top, dark jeans, sneakers, hair loose over shoulders. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Keep exact approved appearance for MICDO_H, TOM_R, AMI_N with props SUPRA, POLICE_RADIO; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO_H, TOM_R, AMI_N with surrounding props (SUPRA, POLICE_RADIO); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 35/40, clip 5/6; shot 35.5. Story time: D6 dusk.
 Two-lane desert highway cutting across arid scrubland under late-afternoon sun: long straight asphalt, sandy shoulders, heat haze rising in the distance, no readable highway signs.
+Architecture & road geometry: long straight two-lane asphalt highway cutting across open Mojave scrubland in late afternoon; two wide asphalt lanes with yellow center dashed line and wide compacted sand shoulders on both sides.
+Surrounding objects & landmarks: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub; dry desert brush, distant rocky buttes, telegraph poles rushing past.
 Spatial geography & 180-degree axis: Sandy shoulder of the Mojave highway (DESERT_HIGHWAY) at dusk: parked metallic-orange SUPRA at center; Tom on screen left with the POLICE_RADIO; Micdo, Ami, and exhausted Cevin on screen right.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -29,8 +31,8 @@ In DESERT_HIGHWAY during D6 dusk (shot 35.5 opening): Micdo rising to his full h
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Composition: Using a kinetic handheld 35mm eye-level cinematic camera setup, frame Micdo and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, surrounded by yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, keeping dry desert brush, distant rocky buttes, telegraph poles rushing past readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Micdo takes two slow, heavy steps toward Tom, his dark eyes filled with betrayal. Beat 2 (2.8–8.2s): Micdo closes the distance to within one pace of Tom, his right hand pointing at the police transceiver as he demands what that badge number meant. Beat 3 (8.2–10.0s): Ami steps between her brother and Tom with both hands raised.
@@ -57,9 +59,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=targa roof panel removed for high-speed highway rescue beside the semi-truck, light desert dust on lower rockers]
 - Tom's concealed LAPD encrypted tactical radio handset used for emergency medevac coordination. [OBJECT_LOCK POLICE_RADIO: matte-black heavy-duty encrypted tactical transceiver with stub antenna and coiled speaker mic; state=gripped in Tom's right hand on the desert highway shoulder to call emergency medevac helicopter]
+- Surrounding environment objects in DESERT_HIGHWAY: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub (landmarks: dry desert brush, distant rocky buttes, telegraph poles rushing past).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-heated desert asphalt, swirling golden sand and alkali dust on the shoulder, ribbed silver trailer aluminum, pearl metallic-orange paintwork, and natural skin pores.
 
 
 [SOUND]

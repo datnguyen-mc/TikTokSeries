@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Cina = Cina: same approved identity, age 28; Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear. fitted black zip driving jacket, fingerless leather driving gloves, dark tactical pants, compact radio earpiece. Voice: cool, firm, clear Southern Vietnamese female voice.
-Keep exact approved appearance for CINA_H with props CIVIC_TRIO, RIG_18, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for CINA_H with surrounding props (CIVIC_TRIO, RIG_18); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 33/40, clip 2/6; shot 33.2. Story time: D6 late afternoon.
 Two-lane desert highway cutting across arid scrubland under late-afternoon sun: long straight asphalt, sandy shoulders, heat haze rising in the distance, no readable highway signs.
+Architecture & road geometry: long straight two-lane asphalt highway cutting across open Mojave scrubland in late afternoon; two wide asphalt lanes with yellow center dashed line and wide compacted sand shoulders on both sides.
+Surrounding objects & landmarks: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub; dry desert brush, distant rocky buttes, telegraph poles rushing past.
 Spatial geography & 180-degree axis: Mojave desert highway (DESERT_HIGHWAY) in late-afternoon sun: travel screen-left to screen-right; Cina's coupe slides onto the right sand shoulder while Tom's orange SUPRA arrives from behind.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -27,8 +29,8 @@ In DESERT_HIGHWAY during D6 late afternoon (shot 33.2 opening): Cina inside the 
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cina with the Three Matte-Black Precision Coupes anchored clearly in the medium two-shot 50mm lens geometry inside DESERT_HIGHWAY.
-Focus: Keep tack-sharp focus on Cina's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Using a medium two-shot 50mm interior cabin-mounted camera angle angled across the left-hand driver seat, frame Cina with the Three Matte-Black Precision Coupes inside DESERT_HIGHWAY, surrounded by yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub.
+Focus: Keep tack-sharp focus on Cina's eyes, lip-sync articulation, and hand-and-body follow-through with the Three Matte-Black Precision Coupes, keeping dry desert brush, distant rocky buttes, telegraph poles rushing past readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): the coupe's front-left tire hisses flat under the side contact, pulling the steering wheel hard toward the sand shoulder. Beat 2 (2.8–7.9s): Cina braces both arms against the strongly pulling steering wheel and eases off the throttle pedal while shouting that her front-left tire is flat. Beat 3 (7.9–10.0s): she counter-steers with both hands as the black coupe skids into a cloud of golden desert dust.
@@ -56,10 +58,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=Cina's #2 matte-black coupe suffers a deflated front-left tire from trailer contact and slides onto the sandy shoulder]
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=steel cable hooked to right cab side while swerving across desert highway lanes]
-- Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=freshly painted metallic-orange finish, polished twin-turbo engine bay]
+- Surrounding environment objects in DESERT_HIGHWAY: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub (landmarks: dry desert brush, distant rocky buttes, telegraph poles rushing past).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-heated desert asphalt, swirling golden sand and alkali dust on the shoulder, ribbed silver trailer aluminum, pearl metallic-orange paintwork, and natural skin pores.
 
 
 [SOUND]

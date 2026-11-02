@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO, CELA, NYTRAN_R with props SUPRA, CHARGER, MOTO_PACK; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO, CELA, NYTRAN_R with surrounding props (CHARGER, MOTO_PACK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 38/40, clip 1/6; shot 38.1. Story time: D7 sunset.
 Steep, sloping asphalt avenues in the Los Angeles hills at sunset: palm trees, concrete retaining walls, long downhill intersections overlooking the city basin, concrete storm-drain channel below the lower curve.
+Architecture & road geometry: steep descending asphalt boulevard in the Los Angeles hills overlooking a concrete storm-drain channel; two wide downhill lanes bordered by concrete retaining walls and a lower embankment along the concrete flood channel.
+Surrounding objects & landmarks: poured-concrete roadside retaining walls, concrete parapet guard blocks, sloped concrete storm-drain channel embankment below, hillside palm trees; palm trees, city basin skyline glowing in sunset haze below.
 Spatial geography & 180-degree axis: Steep downhill boulevard in the Los Angeles hills (LA_HILLS_ROAD) at sunset: pursuit runs downhill screen-left to screen-right above the concrete storm-drain channel.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -32,8 +34,8 @@ In LA_HILLS_ROAD during D7 sunset (shot 38.1 opening): Micdo driving the 1970 ma
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Cela with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
+Composition: Using a wide 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Micdo and Cela with the 1970 Matte-Black Supercharged Muscle Car, surrounded by poured-concrete roadside retaining walls, concrete parapet guard blocks, sloped concrete storm-drain channel embankment below, hillside palm trees.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, keeping palm trees, city basin skyline glowing in sunset haze below readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Two professional stunt performers execute a tightly choreographed vehicle and motorcycle pursuit as Micdo steers the roaring 1970 Charger alongside Cela's trailing motorcycle with fast defensive movements, precise dodges, dramatic camera tracking, and realistic physical reactions. Beat 2 (2.8–7.9s): Micdo steers the roaring 1970 Charger thirty centimeters closer to the right lane line while shouting that there is nowhere left to run. Beat 3 (7.9–10.0s): Cela loses balance on the roadside curb in simulated stunt choreography and falls safely onto padded flooring outside the camera's view while Ny Tran speeds ahead; no blood, no graphic injuries, no gore, all movements are simulated stunt choreography.
@@ -59,17 +61,17 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=high-speed pursuit trim with minor right-side rub mark from contact with motorcycle, engine running clean]
 - Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=roaring at full 900-hp supercharged output, front tires lifting under launch torque]
 - Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=lead motorcycle loses balance after side-contact on the hill road and slides down the concrete channel embankment]
+- Surrounding environment objects in LA_HILLS_ROAD: poured-concrete roadside retaining walls, concrete parapet guard blocks, sloped concrete storm-drain channel embankment below, hillside palm trees (landmarks: palm trees, city basin skyline glowing in sunset haze below).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Tire-marked downhill asphalt, weathered poured-concrete retaining walls and flood channel floor, satin-black and metallic-orange bodywork under sunset glow, and natural skin pores.
 
 
 [SOUND]
 Location bed: supercharger whine, screaming tires and roaring exhausts.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

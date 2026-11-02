@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM, MICDO with props RX7, S2000; never show a studio reference backdrop.
+Keep exact approved appearance for TOM, MICDO with surrounding props (RX7, S2000); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 30/40, clip 6/6; shot 30.6. Story time: D5 afternoon.
 Mojave Desert Race Wars airfield under blazing midday sun: vast heat-shimmering concrete runway, canopies and pit tents lined with tuned cars, desert mountains on the horizon, two-lane drag strip with starting lights.
+Architecture & road geometry: Mojave Desert airfield drag strip and paddock under midday sun; two-lane concrete runway drag strip with Christmas-tree starting lights, bordered by pit canopies.
+Surrounding objects & landmarks: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers; arid Mojave mountain range shimmering across the horizon.
 Spatial geography & 180-degree axis: Toto paddock canopy at Mojave Race Wars (RACE_WARS) in afternoon sun: Micdo and Tom on screen left beside the red RX7; Ny Tran and Cela on screen right beside the black S2000.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -28,8 +30,8 @@ In RACE_WARS during D5 afternoon (shot 30.6 opening): Tom and Micdo standing sid
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
+Composition: Using a dramatic push-in 50mm eye-level cinematic camera setup, frame Tom and Micdo with the Deep-Red Twin-Turbo Rotary Coupe, surrounded by team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, keeping arid Mojave mountain range shimmering across the horizon readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Tom turns urgently to Micdo, his expression grave. Beat 2 (2.8–7.7s): Tom grips Micdo's right forearm urgently and glances toward the paddock exit while warning Micdo that the Little Saigon crew is going to track down the white Jetta. Beat 3 (7.7–10.0s): Micdo's jaw sets as he prepares to pack up the paddock immediately.
@@ -56,9 +58,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Deep-red rotary sport coupe with sleek aerodynamic body, silver twin-spoke rims and cockpit boost gauges. [VEHICLE_LOCK RX7: deep metallic crimson-red paint with gloss black front lip and diffuser; 4 wheels on 2 axles, 18-inch silver twin-spoke forged rims with wide rear tires; LEFT-HAND DRIVE: wrap-around driver cockpit on the left, deep bucket seats, rotary 9000-rpm tachometer centered in cluster; state=spotless metallic crimson finish, crisp rotary idle and instant boost response]
 - Jet-black open-top roadster with concealed dual Nitrous Oxide system under the driver seat. [VEHICLE_LOCK S2000: mirror-gloss jet-black paint with dark-titanium aero lip; 4 wheels on 2 axles, 18-inch forged dark-chrome wheels; LEFT-HAND DRIVE: red-and-black leather bucket seats, digital bar-graph tachometer on the left; state=gleaming jet-black bodywork with concealed NOS purge valves active]
+- Surrounding environment objects in RACE_WARS: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers (landmarks: arid Mojave mountain range shimmering across the horizon).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-baked Mojave concrete runway tarmac, shimmering desert heat haze, gloss alpine-white and mirror-black car paintwork, canvas pit canopies, and natural skin pores.
 
 
 [SOUND]

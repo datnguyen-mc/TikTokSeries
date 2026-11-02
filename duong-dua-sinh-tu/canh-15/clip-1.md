@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R with props ECLIPSE, RX7, DIAG_LAPTOP; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R with surrounding props (ECLIPSE, DIAG_LAPTOP); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 15/40, clip 1/6; shot 15.1. Story time: N2 night.
 South Los Angeles industrial warehouse district at night: wide asphalt avenue between concrete warehouses, hundreds of colorful tuned street cars parked under sodium floodlights, tire smoke drifting, no readable banners.
+Architecture & road geometry: wide industrial avenue between tall concrete freight warehouses in South Los Angeles at night; straight four-lane industrial asphalt avenue converted into a 1/4-mile street drag strip with painted white starting line.
+Surrounding objects & landmarks: painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps; sodium streetlamps, rows of parked tuned coupes lining both kerbs.
 Spatial geography & 180-degree axis: Final hundred meters of the drag strip and finish area (RACE_COCKPIT -> RACE_MEET): travel screen-left to screen-right.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -30,8 +32,8 @@ In RACE_MEET during N2 night (shot 15.1 opening): Tom inside RACE_COCKPIT of the
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry inside RACE_MEET.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Using a wide 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Tom with the Neon-Green Turbo Sport Coupe inside RACE_MEET, surrounded by painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping sodium streetlamps, rows of parked tuned coupes lining both kerbs readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Tom flips the secondary stage-two nitrous switch with his right hand despite the flashing laptop warning. Beat 2 (2.8–7.7s): Tom braces his left arm locked on the vibrating steering wheel and leans forward into the boost surge while shouting that he needs one last burst before the finish line. Beat 3 (7.7–10.0s): the intake manifold shudders violently under excessive boost pressure.
@@ -58,16 +60,16 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=stage-1 NOS engaged at full boost, intake manifold running hot under redline load, exterior bodywork intact]
-- Deep-red rotary sport coupe with sleek aerodynamic body, silver twin-spoke rims and cockpit boost gauges. [VEHICLE_LOCK RX7: deep metallic crimson-red paint with gloss black front lip and diffuser; 4 wheels on 2 axles, 18-inch silver twin-spoke forged rims with wide rear tires; LEFT-HAND DRIVE: wrap-around driver cockpit on the left, deep bucket seats, rotary 9000-rpm tachometer centered in cluster; state=spotless metallic crimson finish, crisp rotary idle and instant boost response]
 - Ruggedized silver tuning laptop displaying engine manifold pressure curves and overload warnings without readable text. [OBJECT_LOCK DIAG_LAPTOP: brushed-silver rugged laptop connected via coiled OBD cable, screen showing graphical boost curves without readable text; state=open on passenger dash or pit table showing colored telemetry curves without readable text]
+- Surrounding environment objects in RACE_MEET: painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps (landmarks: sodium streetlamps, rows of parked tuned coupes lining both kerbs).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Tire-scuffed industrial asphalt, glossy neon-green and metallic-crimson car bodywork, drifting white tire smoke under amber sodium floodlights, and natural skin pores.
 
 
 [SOUND]
 Location bed: thumping bass, revving tuned engines and cheering street crowd.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

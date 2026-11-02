@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Onle = Onle: same approved identity, age 30; Broad-shouldered mechanic with a neat goatee, calm steady eyes, grease-weathered hands. dark matte utility driving jacket, black cap pulled low, dark jeans, leather driving gloves. Voice: steady, grounded Southern Vietnamese male voice.
 @Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants. Voice: rough, fiery, direct Southern Vietnamese male voice.
-Keep exact approved appearance for ONLE_H, CEVIN_H with props CIVIC_TRIO, RIG_18; never show a studio reference backdrop.
+Keep exact approved appearance for ONLE_H, CEVIN_H with surrounding props (CIVIC_TRIO, RIG_18); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 04/40, clip 2/6; shot 04.2. Story time: N1 night.
 Interstate 10 highway at night: four wide asphalt lanes cutting through dark desert hills, amber reflector studs along the divider, long headlight beams slicing the dark, no readable road signs.
+Architecture & road geometry: four-lane divided interstate highway cutting straight across dark desert hills, concrete center jersey barrier; four wide eastbound asphalt lanes (right-hand US traffic), dashed white lane dividers, amber reflector studs, wide paved right shoulder.
+Surrounding objects & landmarks: concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails; low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs.
 Spatial geography & 180-degree axis: Eastbound Interstate 10 at 95 km/h leading to the right-side exit ramp; travel screen-left to screen-right.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -28,8 +30,8 @@ In HIGHWAY_NIGHT during N1 night (shot 04.2 opening): Onle in the left-hand driv
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Onle and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Onle's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Using a medium two-shot 50mm interior cabin-mounted camera angle angled across the left-hand driver seat, frame Onle and Cevin with the Three Matte-Black Precision Coupes, surrounded by concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails.
+Focus: Keep tack-sharp focus on Onle's eyes, lip-sync articulation, and hand-and-body follow-through with the Three Matte-Black Precision Coupes, keeping low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Onle absorbs the added weight on the front suspension with a smooth counter-steer as a second carton is passed through the open sunroof slot. Beat 2 (2.8–7.1s): Onle speaks calmly to coordinate the transfer rhythm while securing the cabin cargo strap with his right hand. Beat 3 (7.1–10.0s): Onle holds the coupe aligned within inches of the rear bumper so Cevin can step across.
@@ -57,9 +59,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=all three coupes intact; green underglow switched off at clip 6 as they slip onto the dark exit ramp]
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=rear trailer doors open as black Civic coupes disengage and peel off onto exit ramp]
+- Surrounding environment objects in HIGHWAY_NIGHT: concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails (landmarks: low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Coarse night-cooled highway asphalt, brushed aluminum trailer panels, matte-black coupe paintwork, emerald-green LED underglow reflections on pavement, and natural skin pores.
 
 
 [SOUND]

@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Nese = Nese: same approved identity, age 46; Veteran police sergeant with greying crew-cut hair, weathered lined face, stern focused eyes. dark navy police windbreaker over dress shirt, tactical vest, radio handset clipped at shoulder. Voice: measured, seasoned Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for NESE_T, TOM with props CUSTOMS_INVOICE, CASE_FILES; never show a studio reference backdrop.
+Keep exact approved appearance for NESE_T, TOM with surrounding props (CUSTOMS_INVOICE); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 27/40, clip 2/6; shot 27.2. Story time: D4 morning.
 Large customs-bonded electronics warehouse behind Ny Tran's compound: tall steel shelving stacked with sealed brown cartons, forklift aisle, inspection desk with stamped shipping ledgers, high skylight windows.
+Architecture & road geometry: high-ceiling customs-bonded electronics storage warehouse behind Ny Tran's compound; wide concrete forklift aisle between steel pallet racks.
+Surrounding objects & landmarks: tall steel pallet shelving stacked with sealed brown electronics cartons, wooden shipping pallets, steel inspection desk holding stamped customs ledgers; high clerestory skylights letting in morning sunbeams.
 Spatial geography & 180-degree axis: Interior of Ny Tran's customs-bonded electronics warehouse (NYTRAN_WAREHOUSE): steel inspection desk on screen left; tall pallet racks on screen right.
 Golden California morning light: low warm sun casting long directional shadows across asphalt and steel, cool ambient sky fill, natural skin tones.
 
@@ -28,8 +30,8 @@ In NYTRAN_WAREHOUSE during D4 morning (shot 27.2 opening): Nese and Tom standing
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Nese and Tom with Stamped Customs Clearance Ledger anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and continuous hand-and-body follow-through with Stamped Customs Clearance Ledger, maintaining readable background depth.
+Composition: Using a medium two-shot 50mm eye-level cinematic camera setup, frame Nese and Tom with Stamped Customs Clearance Ledger, surrounded by tall steel pallet shelving stacked with sealed brown electronics cartons, wooden shipping pallets, steel inspection desk holding stamped customs ledgers.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and hand-and-body follow-through with Stamped Customs Clearance Ledger, keeping high clerestory skylights letting in morning sunbeams readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Nese lifts the hardbound shipping ledger stamped with red customs seals from the desk tray. Beat 2 (2.8–7.7s): Nese opens the hardbound ledger flat on the steel desk and taps the red customs seal with his forefinger while pointing out to Tom that it is an official import ledger. Beat 3 (7.7–10.0s): Tom leans in beside Nese to compare the carton tags against the ledger.
@@ -55,10 +57,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Stamped customs clearance ledger and legal import manifests inside Ny Tran's bonded warehouse. [OBJECT_LOCK CUSTOMS_INVOICE: hardbound shipping ledger with red customs seal impressions, no readable text; state=opened on the warehouse inspection desk showing official red customs seals]
-- Thick manila highway transport investigation folders, satellite route maps and customs manifests without readable text. [OBJECT_LOCK CASE_FILES: thick manila case folders, pinned highway route maps, and glossy surveillance photographs without readable text; state=intact established state]
+- Surrounding environment objects in NYTRAN_WAREHOUSE: tall steel pallet shelving stacked with sealed brown electronics cartons, wooden shipping pallets, steel inspection desk holding stamped customs ledgers (landmarks: high clerestory skylights letting in morning sunbeams).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Smooth sealed warehouse concrete, corrugated brown shipping cartons, powder-coated steel pallet racks, hardbound ledger paper with red customs seals, and natural skin pores.
 
 
 [SOUND]

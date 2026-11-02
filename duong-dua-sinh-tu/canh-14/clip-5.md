@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R, MICDO with props ECLIPSE, RX7, NOS_BOTTLES, DIAG_LAPTOP; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R, MICDO with surrounding props (ECLIPSE, RX7, NOS_BOTTLES); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 14/40, clip 5/6; shot 14.5. Story time: N2 night.
 Interior cockpit of the tuned street race coupe at night: bucket seats, leather steering wheel with red NOS thumb button, glowing dashboard tachometers, passenger-side telemetry laptop screen, sodium streetlights streaking past the windshield.
+Architecture & road geometry: tight street-race coupe cockpit at night during full-throttle acceleration; industrial drag avenue streaking past the windshield and side windows.
+Surrounding objects & landmarks: left-hand bucket seat, leather sport wheel with red thumb NOS button, glowing tachometer and A-pillar boost gauges, center gear shifter, passenger-side telemetry laptop mount; sodium warehouse lamps blurring into horizontal amber streaks outside.
 Spatial geography & 180-degree axis: Quarter-mile drag strip and cockpit (RACE_COCKPIT): cars launch screen-left to screen-right; Tom in the neon-green ECLIPSE on the left lane, Micdo in the deep-red RX7 on the right lane.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -28,8 +30,8 @@ In RACE_COCKPIT during N2 night (shot 14.5 opening): Tom inside RACE_COCKPIT as 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Using a kinetic handheld 35mm interior cabin-mounted camera angle angled across the left-hand driver seat, frame Tom and Micdo with the Neon-Green Turbo Sport Coupe, surrounded by left-hand bucket seat, leather sport wheel with red thumb NOS button, glowing tachometer and A-pillar boost gauges, center gear shifter, passenger-side telemetry laptop mount.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping sodium warehouse lamps blurring into horizontal amber streaks outside readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Tom counter-steers a fraction to keep the front tires planted under the sudden surge of torque. Beat 2 (2.8–7.7s): Tom feeds a crisp micro-correction into the steering wheel to hold his lane as his front bumper pulls dead-even with Micdo's door while shouting over the turbocharger. Beat 3 (7.7–10.0s): Micdo glances across from the adjacent lane in surprise as the green coupe matches his speed.
@@ -58,10 +60,10 @@ Reference only; enact only the current ACTION, not a future handover.
 - Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=pristine neon-green bodywork and carbon-fiber hood, twin NOS bottles pressurized in rear mount]
 - Deep-red rotary sport coupe with sleek aerodynamic body, silver twin-spoke rims and cockpit boost gauges. [VEHICLE_LOCK RX7: deep metallic crimson-red paint with gloss black front lip and diffuser; 4 wheels on 2 axles, 18-inch silver twin-spoke forged rims with wide rear tires; LEFT-HAND DRIVE: wrap-around driver cockpit on the left, deep bucket seats, rotary 9000-rpm tachometer centered in cluster; state=spotless metallic crimson finish, crisp rotary idle and instant boost response]
 - Twin blue high-pressure Nitrous Oxide cylinders mounted behind the cockpit with a red steering-wheel trigger button. [OBJECT_LOCK NOS_BOTTLES: two anodized cobalt-blue aluminum pressure cylinders with braided stainless lines and a red steering-wheel thumb switch; state=mounted in the rear frame of Tom's neon-green Eclipse, stage-1 and stage-2 valves engaged during the drag race]
-- Ruggedized silver tuning laptop displaying engine manifold pressure curves and overload warnings without readable text. [OBJECT_LOCK DIAG_LAPTOP: brushed-silver rugged laptop connected via coiled OBD cable, screen showing graphical boost curves without readable text; state=open on passenger dash or pit table showing colored telemetry curves without readable text]
+- Surrounding environment objects in RACE_COCKPIT: left-hand bucket seat, leather sport wheel with red thumb NOS button, glowing tachometer and A-pillar boost gauges, center gear shifter, passenger-side telemetry laptop mount (landmarks: sodium warehouse lamps blurring into horizontal amber streaks outside).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Perforated leather sport steering wheel grip, glowing blue-and-amber gauge glass, brushed aluminum gear shifter, carbon-fiber dash trim, and natural skin pores.
 
 
 [SOUND]

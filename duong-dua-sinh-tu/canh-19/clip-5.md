@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for CELA, MICDO, TOM_R with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
+Keep exact approved appearance for CELA, MICDO, TOM_R with surrounding props (MOTO_PACK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 19/40, clip 5/6; shot 19.5. Story time: N2 night.
 Desolate gravel lot at the edge of Little Saigon at night: rusted shipping containers, chain-link perimeter fence, neon shop glow far behind, circle of matte-black sport motorcycles surrounding the parked coupe.
+Architecture & road geometry: fenced gravel storage lot on the edge of Little Saigon at night bordered by stacked rusted shipping containers; compacted gravel yard with a single chain-link gate entrance.
+Surrounding objects & landmarks: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights; distant blurred neon shop glow beyond the perimeter fence.
 Spatial geography & 180-degree axis: Little Saigon gravel lot (SAIGON_LOT): the neon-green ECLIPSE on screen left; Ny Tran and Cela with MOTO_PACK on screen right.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -29,8 +31,8 @@ In SAIGON_LOT during N2 night (shot 19.5 opening): Cela wheeling his matte-black
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cela and Micdo with the Matte-Black Street Sport Motorcycles anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Cela's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Matte-Black Street Sport Motorcycles, maintaining readable background depth.
+Composition: Using a kinetic handheld 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Cela and Micdo with the Matte-Black Street Sport Motorcycles, surrounded by stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights.
+Focus: Keep tack-sharp focus on Cela's eyes, lip-sync articulation, and hand-and-body follow-through with the Matte-Black Street Sport Motorcycles, keeping distant blurred neon shop glow beyond the perimeter fence readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Cela points a gloved finger toward the road exit before lowering his helmet visor. Beat 2 (2.8–7.4s): Cela twists his right wrist on the throttle grip to bark the motorcycle engine and snaps his helmet visor shut while warning them to clear out immediately. Beat 3 (7.4–10.0s): the pack of matte-black motorcycles roars out through the chain-link gate into the night.
@@ -56,16 +58,16 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=disabled in the Little Saigon gravel lot surrounded by dense theatrical orange smoke and a darkened scorched hood frame]
 - Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=pack of matte-black sport motorcycles circling in tight formation]
+- Surrounding environment objects in SAIGON_LOT: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights (landmarks: distant blurred neon shop glow beyond the perimeter fence).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Compacted grey yard gravel, rusted corrugated shipping container steel, matte carbon-textured motorcycle fairings, drifting orange smoke, and natural skin pores.
 
 
 [SOUND]
 Location bed: idling sport-bike engines, gravel crunching and night wind.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cela's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cela's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

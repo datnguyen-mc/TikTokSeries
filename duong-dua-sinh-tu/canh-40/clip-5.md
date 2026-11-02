@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. scuffed black leather jacket over white tank top, light dust smudge on forehead after the stunt spin, bare hands, dark jeans, heavy boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R, MICDO_W with props SUPRA, CHARGER, SUPRA_KEY; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R, MICDO_W with surrounding props (SUPRA, SUPRA_KEY); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 40/40, clip 5/6; shot 40.5. Story time: D7 dusk.
 Open desert road just past the railroad crossing at dusk: wide dirt shoulder, steaming muscle car resting upright on the shoulder, orange sport coupe stopped nearby, long straight road stretching toward the glowing horizon.
+Architecture & road geometry: open desert road and wide dirt shoulder immediately beyond the railroad crossing at dusk; two-lane desert asphalt stretching straight toward the dusk horizon with a wide gravel shoulder.
+Surrounding objects & landmarks: compacted gravel-and-dirt roadside shoulder, raised railroad track embankment behind, straight two-lane desert asphalt road stretching into the amber dusk horizon; railroad embankment behind, open desert horizon ahead.
 Spatial geography & 180-degree axis: Open desert road beyond the railroad crossing (CROSSING_BEYOND) at dusk: dented 1970 CHARGER on screen left; metallic-orange SUPRA at center-right pointing toward the open horizon.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -28,8 +30,8 @@ In CROSSING_BEYOND during D7 dusk (shot 40.5 opening): Tom pressing the SUPRA_KE
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with Metallic-Orange Supra Ignition Key anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with Metallic-Orange Supra Ignition Key, maintaining readable background depth.
+Composition: Using a kinetic handheld 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Tom and Micdo with Metallic-Orange Supra Ignition Key, surrounded by compacted gravel-and-dirt roadside shoulder, raised railroad track embankment behind, straight two-lane desert asphalt road stretching into the amber dusk horizon.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with Metallic-Orange Supra Ignition Key, keeping railroad embankment behind, open desert horizon ahead readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Micdo closes his fingers around the SUPRA_KEY, clasps Tom's shoulder once in silent brotherhood, and climbs into the left-hand driver seat. Beat 2 (2.8–7.7s): Tom holds the driver door wide with his left hand and gestures down the open desert road with his right arm, telling Micdo to take the key and drive away now. Beat 3 (7.7–10.0s): Micdo fires the twin-turbo engine and launches the metallic-orange Supra down the straight desert road toward the glowing dusk horizon.
@@ -56,16 +58,16 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=driver door opened by Tom as Micdo climbs into the left-hand seat, fires the twin-turbo engine, and launches toward the dusk horizon]
-- Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=resting upright on the dirt shoulder past the crossing with dented front fascia and white radiator steam rising gently into the dusk breeze]
 - Single metal ignition key to the orange 10-second sport coupe on a steel ring. [OBJECT_LOCK SUPRA_KEY: single black-headed metal ignition key on a brushed steel split ring; state=pressed firmly by Tom into Micdo's hand and inserted into the orange Supra ignition]
+- Surrounding environment objects in CROSSING_BEYOND: compacted gravel-and-dirt roadside shoulder, raised railroad track embankment behind, straight two-lane desert asphalt road stretching into the amber dusk horizon (landmarks: railroad embankment behind, open desert horizon ahead).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Compacted desert gravel shoulder, dented satin-black muscle-car sheet metal, curling white radiator steam in cobalt dusk air, brushed steel key ring, and natural skin pores.
 
 
 [SOUND]
 Location bed: ticking hot metal, distant approaching sirens and desert wind.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

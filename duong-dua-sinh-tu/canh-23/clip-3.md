@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
-Keep exact approved appearance for no visible cast (vehicle/object detail insert) with props SUPRA, WRENCH_KIT, DIAG_LAPTOP; never show a studio reference backdrop.
+Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (SUPRA, WRENCH_KIT, DIAG_LAPTOP); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 23/40, clip 3/6; shot 23.3. Story time: N3 night.
 Detached two-bay garage behind the Toto house: warm overhead work lamps, engine hoist, workbenches stacked with wrenches and manifolds, concrete floor, rear corner holding the covered 1970 muscle car.
+Architecture & road geometry: detached two-bay timber-and-concrete home garage behind the Toto house; oil-darkened concrete floor opening onto the backyard driveway.
+Surrounding objects & landmarks: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover; rear alcove housing the covered 1970 matte-black Charger.
 Spatial geography & 180-degree axis: Toto home garage (TOTO_GARAGE) at night: the freshly painted metallic-orange SUPRA in the center bay under warm work lamps.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -27,8 +29,8 @@ In TOTO_GARAGE during N3 night (shot 23.3 mechanical insert): close-up on the po
 [CAMERA]
 85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: 85mm mechanical insert framing the polished twin-turbo intake, orange fender, and DIAG_LAPTOP.
-Focus: Tack-sharp focus on the polished turbo plumbing and metallic-orange paint.
+Composition: 85mm mechanical insert framing the polished twin-turbo intake, orange fender, and DIAG_LAPTOP. Surrounding environment details include overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover.
+Focus: Tack-sharp focus on the polished turbo plumbing and metallic-orange paint. Background depth preserves rear alcove housing the covered 1970 matte-black Charger.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): A chrome torque wrench tightens the final stainless intercooler clamp inside the gleaming metallic-orange engine bay until the fitting locks solid. Beat 2 (2.8–7.9s): While Ami's voice plays off screen, the engine idles smoothly and the DIAG_LAPTOP screen beside the fender displays a steady, optimal twin-turbo pressure curve. Beat 3 (7.9–10.0s): Warm overhead garage lamps reflect off the lustrous pearl-orange fender and polished aluminum intake through 10.0s.
@@ -56,9 +58,10 @@ Reference only; enact only the current ACTION, not a future handover.
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=freshly painted metallic-orange finish, polished twin-turbo engine bay]
 - Heavy chrome torque wrench, socket tray and engine hoist chains inside the garage. [OBJECT_LOCK WRENCH_KIT: heavy chrome ratchet torque wrench, steel socket tray, and chain engine hoist; state=used on the workbench and engine bay inside the tuning garage]
 - Ruggedized silver tuning laptop displaying engine manifold pressure curves and overload warnings without readable text. [OBJECT_LOCK DIAG_LAPTOP: brushed-silver rugged laptop connected via coiled OBD cable, screen showing graphical boost curves without readable text; state=open on passenger dash or pit table showing colored telemetry curves without readable text]
+- Surrounding environment objects in TOTO_GARAGE: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover (landmarks: rear alcove housing the covered 1970 matte-black Charger).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Oil-darkened garage concrete, mirror-chromed supercharger and wrench steel, lustrous metallic-orange and satin-black bodywork, and natural skin pores under warm shop lamps.
 
 
 [SOUND]

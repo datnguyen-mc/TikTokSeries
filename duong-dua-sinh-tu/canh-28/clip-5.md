@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. white-and-blue racing windbreaker over dark tee, cargo trousers, driving shoes, thin-framed glasses. Voice: quick, earnest, energetic Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for SEJA_R, TOM with props SUPRA, JETTA; never show a studio reference backdrop.
+Keep exact approved appearance for SEJA_R, TOM with surrounding props (JETTA); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 28/40, clip 5/6; shot 28.5. Story time: D5 midday.
 Mojave Desert Race Wars airfield under blazing midday sun: vast heat-shimmering concrete runway, canopies and pit tents lined with tuned cars, desert mountains on the horizon, two-lane drag strip with starting lights.
+Architecture & road geometry: Mojave Desert airfield drag strip and paddock under midday sun; two-lane concrete runway drag strip with Christmas-tree starting lights, bordered by pit canopies.
+Surrounding objects & landmarks: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers; arid Mojave mountain range shimmering across the horizon.
 Spatial geography & 180-degree axis: Mojave Desert Race Wars airfield (RACE_WARS) under midday sun: Toto pit canopy and parked SUPRA/JETTA on screen left; runway starting line on screen right.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -28,8 +30,8 @@ In RACE_WARS during D5 midday (shot 28.5 opening): Seja standing at the staging 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Seja and Tom with the Alpine-White Tuned Sport Sedan anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
+Composition: Using a kinetic handheld 35mm eye-level cinematic camera setup, frame Seja and Tom with the Alpine-White Tuned Sport Sedan, surrounded by team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers.
+Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, keeping arid Mojave mountain range shimmering across the horizon readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Seja looks from the graphical win-probability curve on his laptop to the race starter at the line. Beat 2 (2.8–7.9s): Seja closes his telemetry laptop with his left hand and extends the clear PINK_SLIP sleeve toward the starter while announcing his sixty-four percent win rate. Beat 3 (7.9–10.0s): he hands the clear plastic title sleeve to the race starter before Tom can reach his arm.
@@ -54,16 +56,16 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=freshly painted metallic-orange finish, polished twin-turbo engine bay]
 - Prized alpine-white tuned sport sedan with white alloy rims and custom dashboard telemetry display. [VEHICLE_LOCK JETTA: gloss alpine-white paint with clean monochrome bumpers; 4 wheels on 2 axles, 17-inch multi-spoke white powder-coated alloy wheels; LEFT-HAND DRIVE: white-trimmed sport seats, driver seat on the left, digital shift indicator; state=clean alpine-white finish, desert dust along lower tires after Mojave drag run]
+- Surrounding environment objects in RACE_WARS: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers (landmarks: arid Mojave mountain range shimmering across the horizon).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-baked Mojave concrete runway tarmac, shimmering desert heat haze, gloss alpine-white and mirror-black car paintwork, canvas pit canopies, and natural skin pores.
 
 
 [SOUND]
 Location bed: roaring engines, desert wind and crowd murmur across the tarmac.
-Foreground sound: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spool whistle, external wastegate roar, crisp six-speed gearshift clack, and sticky high-speed tire traction on asphalt; high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
+Foreground sound: PRIORITY DIEGETIC SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, clean mechanical contact, and natural breathing layered clearly beneath Seja's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

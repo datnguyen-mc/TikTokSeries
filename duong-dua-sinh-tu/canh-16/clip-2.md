@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots. Voice: rough, fiery, direct Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO, CEVIN with props ECLIPSE, RX7; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO, CEVIN with surrounding props (RX7); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 16/40, clip 2/6; shot 16.2. Story time: N2 night.
 Narrow industrial back alley behind the South L.A. warehouses at night: brick walls, stacked wooden pallets, chain-link fences, red-and-blue patrol lights reflecting off wet asphalt at both ends.
+Architecture & road geometry: narrow brick-walled industrial service alley behind South L.A. warehouses at night; single-lane wet asphalt service road flanked by loading docks.
+Surrounding objects & landmarks: stacked wooden shipping pallets, galvanized chain-link gates, rusted steel dumpsters, sloped steel loading-dock ramp; red-and-blue patrol car light bars flashing at the distant street mouth.
 Spatial geography & 180-degree axis: Narrow brick industrial back alley (RACE_ALLEY) behind the South L.A. warehouses at night: escape route runs screen-left to screen-right.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -28,8 +30,8 @@ In RACE_ALLEY during N2 night (shot 16.2 opening): Micdo and Cevin beside the de
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Cevin with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
+Composition: Using a medium two-shot 50mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Micdo and Cevin with the Deep-Red Twin-Turbo Rotary Coupe, surrounded by stacked wooden shipping pallets, galvanized chain-link gates, rusted steel dumpsters, sloped steel loading-dock ramp.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, keeping red-and-blue patrol car light bars flashing at the distant street mouth readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Micdo steers the red RX-7 into a recessed warehouse loading bay and shuts off its headlights. Beat 2 (2.8–7.4s): Micdo unbuckles his belt and pushes open the left-hand driver door of the RX-7 while telling Cevin the main avenue is gridlocked. Beat 3 (7.4–10.0s): Micdo locks the coupe door and prepares to slip out on foot through the back alley.
@@ -55,16 +57,16 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=over-boosted intake manifold steaming lightly, passenger-side metal floor panel unlatched from high-speed friction sparks, minor front bumper rub mark]
 - Deep-red rotary sport coupe with sleek aerodynamic body, silver twin-spoke rims and cockpit boost gauges. [VEHICLE_LOCK RX7: deep metallic crimson-red paint with gloss black front lip and diffuser; 4 wheels on 2 axles, 18-inch silver twin-spoke forged rims with wide rear tires; LEFT-HAND DRIVE: wrap-around driver cockpit on the left, deep bucket seats, rotary 9000-rpm tachometer centered in cluster; state=spotless metallic crimson finish, crisp rotary idle and instant boost response]
+- Surrounding environment objects in RACE_ALLEY: stacked wooden shipping pallets, galvanized chain-link gates, rusted steel dumpsters, sloped steel loading-dock ramp (landmarks: red-and-blue patrol car light bars flashing at the distant street mouth).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Wet oil-sheened alley asphalt reflecting red-and-blue patrol strobes, weathered red-brick warehouse walls, rough wooden pallet slats, and natural skin pores.
 
 
 [SOUND]
 Location bed: distant police sirens, echoing footsteps and skidding tires.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

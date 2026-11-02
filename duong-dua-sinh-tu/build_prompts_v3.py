@@ -524,14 +524,22 @@ def render_prompt(plan: dict, c: dict, previous: dict | None, following: dict | 
     location, sound = plan['locations'][c['location']]
     sound = c.get('sound_override', sound)
     bible_slice = select_relevant_bible_slice(plan, c)
-    env_axis = (c.get('spatial_state') or {}).get('axis') or bible_slice['environment'].get('orientation_axis', '')
+    env_info = bible_slice['environment']
+    env_axis = (c.get('spatial_state') or {}).get('axis') or env_info.get('orientation_axis', '')
+    env_arch = env_info.get('architecture_layout', '')
+    env_road = env_info.get('road_lane_geometry', '')
+    env_objs = env_info.get('interior_furniture_objects', '')
+    env_landmarks = env_info.get('terrain_landmarks', '')
     shot_type = c.get('shot_type') or (c.get('spatial_state') or {}).get('shot_type') or ('INSERT_DETAIL' if c['camera'] == 'I' else 'SCENE_SHOT')
     wf_mode = determine_omni_workflow(plan, c)
     physics_summary = ' '.join(bible_slice['physics_lines'])
     locks = '\n'.join(person_lock(plan, k, c) for k in c['characters']) or 'No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.'
     picture_refs = '\n'.join(f"{plan['identities'][k]['tag']}: approved face for the PRINTED PHOTOGRAPH ONLY. Do not add this person physically to the room or street." for k in c.get('image_references', []))
     picture_refs = '\n[PICTURE-ONLY REFERENCES]\n' + picture_refs + '\n' if picture_refs else ''
-    prop_text = '\n'.join(f'- {prop_detail(plan, p, c)}' for p in c['props']) or 'No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.'
+    prop_lines = [f'- {prop_detail(plan, p, c)}' for p in c['props']]
+    if env_objs:
+        prop_lines.append(f"- Surrounding environment objects in {c['location']}: {env_objs} (landmarks: {env_landmarks}).")
+    prop_text = '\n'.join(prop_lines) or 'No new featured prop. Preserve already established carried items; introduce no extra symbolic objects.'
     note = c.get('wardrobe_note', '')
     if c.get('time_ellipsis'):
         note += '\nTime ellipsis: ' + c['time_ellipsis'] + '.'
@@ -581,6 +589,8 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 [TIMELINE AND LOCATION]
 Scene {c['scene']:02d}/40, clip {c['number']}/6; shot {c['id']}. Story time: {c['story_time']}.
 {location}
+Architecture & road geometry: {env_arch}; {env_road}.
+Surrounding objects & landmarks: {env_objs}; {env_landmarks}.
 Spatial geography & 180-degree axis: {env_axis}
 {c['lighting']}
 {scene_intro}{intent}

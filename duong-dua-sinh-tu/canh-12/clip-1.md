@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R with props ECLIPSE, NOS_BOTTLES, DIAG_LAPTOP; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R with surrounding props (ECLIPSE, NOS_BOTTLES, DIAG_LAPTOP); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 12/40, clip 1/6; shot 12.1. Story time: D1 dusk.
 The Ver's Geh auto parts and tuning shop in Los Angeles: high corrugated roof, hydraulic car lifts, tool chests, racks of chrome intakes and turbochargers, sunny roll-up bay door opening to the street, no readable brand logos.
+Architecture & road geometry: high-bay Los Angeles performance tuning shop with corrugated steel roof, two-post hydraulic car lifts, and wide roll-up street bay door; concrete shop floor leading out to sunlit urban kerb.
+Surrounding objects & landmarks: two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses; sunlit Los Angeles palm silhouettes visible outside the open bay door.
 Spatial geography & 180-degree axis: Interior of Ver's Geh tuning shop (VERS_GARAGE) at dusk: neon-green ECLIPSE centered in the bay, twin NOS_BOTTLES in the open rear hatch, DIAG_LAPTOP on the passenger dash.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -30,8 +32,8 @@ In VERS_GARAGE during D1 dusk (shot 12.1 opening): Tom in his black leather raci
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry inside VERS_GARAGE.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Using a wide 35mm eye-level cinematic camera setup, frame Tom with the Neon-Green Turbo Sport Coupe inside VERS_GARAGE, surrounded by two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping sunlit Los Angeles palm silhouettes visible outside the open bay door readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Tom opens both brass valves on the twin cobalt-blue NOS_BOTTLES and taps the pressure gauge with his index finger. Beat 2 (2.8–7.7s): Tom runs his right hand along the braided stainless nitrous feed line to verify its fittings while speaking with focused confidence about the cylinder pressure. Beat 3 (7.7–10.0s): Tom walks forward along the neon-green fender toward the open passenger window where the DIAG_LAPTOP sits.
@@ -59,9 +61,10 @@ Reference only; enact only the current ACTION, not a future handover.
 - Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=pristine neon-green bodywork and carbon-fiber hood, twin NOS bottles pressurized in rear mount]
 - Twin blue high-pressure Nitrous Oxide cylinders mounted behind the cockpit with a red steering-wheel trigger button. [OBJECT_LOCK NOS_BOTTLES: two anodized cobalt-blue aluminum pressure cylinders with braided stainless lines and a red steering-wheel thumb switch; state=mounted in the rear frame of Tom's neon-green Eclipse, stage-1 and stage-2 valves engaged during the drag race]
 - Ruggedized silver tuning laptop displaying engine manifold pressure curves and overload warnings without readable text. [OBJECT_LOCK DIAG_LAPTOP: brushed-silver rugged laptop connected via coiled OBD cable, screen showing graphical boost curves without readable text; state=open on passenger dash or pit table showing colored telemetry curves without readable text]
+- Surrounding environment objects in VERS_GARAGE: two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses (landmarks: sunlit Los Angeles palm silhouettes visible outside the open bay door).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Oil-seasoned concrete shop floor, polished chrome wrenches, anodized aluminum turbo intake piping, woven carbon-fiber hood panels, and natural skin pores.
 
 
 [SOUND]

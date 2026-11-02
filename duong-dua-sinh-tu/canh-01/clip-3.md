@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
-Keep exact approved appearance for no visible cast (vehicle/object detail insert) with props RIG_18, CIVIC_TRIO; never show a studio reference backdrop.
+Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (RIG_18, CIVIC_TRIO); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 01/40, clip 3/6; shot 01.3. Story time: N1 night.
 Interstate 10 highway at night: four wide asphalt lanes cutting through dark desert hills, amber reflector studs along the divider, long headlight beams slicing the dark, no readable road signs.
+Architecture & road geometry: four-lane divided interstate highway cutting straight across dark desert hills, concrete center jersey barrier; four wide eastbound asphalt lanes (right-hand US traffic), dashed white lane dividers, amber reflector studs, wide paved right shoulder.
+Surrounding objects & landmarks: concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails; low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs.
 Spatial geography & 180-degree axis: Eastbound Interstate 10 at 110 km/h, right-hand US traffic moving screen-left to screen-right; camera stays on the south (right-flank) 180-degree axis.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -27,8 +29,8 @@ In HIGHWAY_NIGHT during N1 night (shot 01.3 mechanical insert): low-angle close-
 [CAMERA]
 85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: 85mm low-angle vehicle-mounted insert framing the spinning truck tires on screen left and the emerald-lit Civic coupe wheel on screen right.
-Focus: Tack-sharp focus on the tire tread contact patch and green LED underglow reflection on the asphalt.
+Composition: 85mm low-angle vehicle-mounted insert framing the spinning truck tires on screen left and the emerald-lit Civic coupe wheel on screen right. Surrounding environment details include concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails.
+Focus: Tack-sharp focus on the tire tread contact patch and green LED underglow reflection on the asphalt. Background depth preserves low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): The lead matte-black Civic coupe's front 17-inch alloy wheel inches forward alongside the semi-truck's roaring tandem drive tires as green LED underglow bathes the spinning tire sidewalls. Beat 2 (2.8–7.1s): While Verni's voice plays off screen from the cab above, the second black coupe's headlights swing into the left passing lane, boxing the semi-truck's front bumper between green neon reflections on the asphalt. Beat 3 (7.1–10.0s): Both vehicles hold locked parallel speed at 110 km/h with suspension compressing smoothly over highway expansion joints through 10.0s.
@@ -56,9 +58,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=intact sealed trailer doors, cruising steady at 110 km/h in center lane]
 - Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=all three matte-black coupes intact with emerald-green underglow active in formation around the semi-truck]
+- Surrounding environment objects in HIGHWAY_NIGHT: concrete center jersey barrier, dashed white lane markings, raised amber cats-eye reflector studs, steel roadside guardrails (landmarks: low silhouetted Mojave foothills against a moonlit night sky, no readable highway signs).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Coarse night-cooled highway asphalt, brushed aluminum trailer panels, matte-black coupe paintwork, emerald-green LED underglow reflections on pavement, and natural skin pores.
 
 
 [SOUND]

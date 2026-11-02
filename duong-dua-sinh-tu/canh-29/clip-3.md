@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
-Keep exact approved appearance for no visible cast (vehicle/object detail insert) with props JETTA, S2000, NOS_BOTTLES; never show a studio reference backdrop.
+Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (S2000, NOS_BOTTLES); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 29/40, clip 3/6; shot 29.3. Story time: D5 midday.
 Mojave Desert Race Wars airfield under blazing midday sun: vast heat-shimmering concrete runway, canopies and pit tents lined with tuned cars, desert mountains on the horizon, two-lane drag strip with starting lights.
+Architecture & road geometry: Mojave Desert airfield drag strip and paddock under midday sun; two-lane concrete runway drag strip with Christmas-tree starting lights, bordered by pit canopies.
+Surrounding objects & landmarks: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers; arid Mojave mountain range shimmering across the horizon.
 Spatial geography & 180-degree axis: Mojave Desert drag strip (RACE_WARS): Seja's alpine-white JETTA in the left lane and Ny Tran's jet-black S2000 in the right lane racing screen-left to screen-right.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -27,8 +29,8 @@ In RACE_WARS during D5 midday (shot 29.3 mechanical insert): close-up beneath th
 [CAMERA]
 85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: 85mm mechanical cockpit insert framing the concealed under-seat NOS cylinders, toggle switch, and digital tachometer.
-Focus: Tack-sharp focus on the nitrous solenoid valve and digital rpm bar.
+Composition: 85mm mechanical cockpit insert framing the concealed under-seat NOS cylinders, toggle switch, and digital tachometer. Surrounding environment details include team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers.
+Focus: Tack-sharp focus on the nitrous solenoid valve and digital rpm bar. Background depth preserves arid Mojave mountain range shimmering across the horizon.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Ny Tran's black-gloved hand flips the concealed nitrous toggle beside the center console, opening the high-pressure solenoid on the twin blue NOS_BOTTLES hidden beneath the seat. Beat 2 (2.8–7.9s): While Ny Tran's voice plays off screen, the pressure gauge needle surges and braided stainless lines feed dual nitrous stages directly into the roadster's intake. Beat 3 (7.9–10.0s): The digital bar-graph tachometer on the S2000 dashboard sweeps past nine thousand rpm through 10.0s.
@@ -54,17 +56,17 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Prized alpine-white tuned sport sedan with white alloy rims and custom dashboard telemetry display. [VEHICLE_LOCK JETTA: gloss alpine-white paint with clean monochrome bumpers; 4 wheels on 2 axles, 17-inch multi-spoke white powder-coated alloy wheels; LEFT-HAND DRIVE: white-trimmed sport seats, driver seat on the left, digital shift indicator; state=clean alpine-white finish, desert dust along lower tires after Mojave drag run]
 - Jet-black open-top roadster with concealed dual Nitrous Oxide system under the driver seat. [VEHICLE_LOCK S2000: mirror-gloss jet-black paint with dark-titanium aero lip; 4 wheels on 2 axles, 18-inch forged dark-chrome wheels; LEFT-HAND DRIVE: red-and-black leather bucket seats, digital bar-graph tachometer on the left; state=gleaming jet-black bodywork with concealed NOS purge valves active]
 - Twin blue high-pressure Nitrous Oxide cylinders mounted behind the cockpit with a red steering-wheel trigger button. [OBJECT_LOCK NOS_BOTTLES: two anodized cobalt-blue aluminum pressure cylinders with braided stainless lines and a red steering-wheel thumb switch; state=intact established state]
+- Surrounding environment objects in RACE_WARS: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers (landmarks: arid Mojave mountain range shimmering across the horizon).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-baked Mojave concrete runway tarmac, shimmering desert heat haze, gloss alpine-white and mirror-black car paintwork, canvas pit canopies, and natural skin pores.
 
 
 [SOUND]
 Location bed: roaring engines, desert wind and crowd murmur across the tarmac.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Ny Tran's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Ny Tran's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

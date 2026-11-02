@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
-Keep exact approved appearance for no visible cast (vehicle/object detail insert) with props RX7, F150_TRUCK; never show a studio reference backdrop.
+Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (RX7, F150_TRUCK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 09/40, clip 3/6; shot 09.3. Story time: D1 midday.
 Sunlit concrete patio outside Toto grocery: wooden lunch tables under a canvas awning, kerbside parking along the palm-lined Los Angeles street, red pickup and lowered street cars parked at the kerb.
+Architecture & road geometry: sunlit concrete sidewalk patio outside Toto grocery shaded by a striped canvas awning; two-lane residential Los Angeles street with kerbside parking along the right.
+Surrounding objects & landmarks: wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane; palm-lined Echo Park hillside in the background.
 Spatial geography & 180-degree axis: Toto grocery patio (TOTO_PATIO): Micdo and his red RX7 on screen right; Tom with light dust on his jaw on screen left.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -27,8 +29,8 @@ In TOTO_PATIO during D1 midday (shot 09.3 vehicle detail insert): low-angle clos
 [CAMERA]
 85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: 85mm automotive detail insert framing the RX7 front wheel arch, crimson hood line, and cockpit pillar.
-Focus: Tack-sharp focus on the silver twin-spoke rim and metallic crimson paintwork.
+Composition: 85mm automotive detail insert framing the RX7 front wheel arch, crimson hood line, and cockpit pillar. Surrounding environment details include wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane.
+Focus: Tack-sharp focus on the silver twin-spoke rim and metallic crimson paintwork. Background depth preserves palm-lined Echo Park hillside in the background.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Sunlight gleams across the sculpted metallic-crimson hood and silver twin-spoke wheel of Micdo's RX7 parked behind Tom's red F150_TRUCK. Beat 2 (2.8–7.7s): While Micdo's voice plays off screen, the cockpit A-pillar boost gauges glow faintly behind the tinted windshield glass as the rotary engine idles with a rhythmic cadence. Beat 3 (7.7–10.0s): Heat shimmer rises gently from the hood vent into the midday air through 10.0s.
@@ -55,9 +57,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Deep-red rotary sport coupe with sleek aerodynamic body, silver twin-spoke rims and cockpit boost gauges. [VEHICLE_LOCK RX7: deep metallic crimson-red paint with gloss black front lip and diffuser; 4 wheels on 2 axles, 18-inch silver twin-spoke forged rims with wide rear tires; LEFT-HAND DRIVE: wrap-around driver cockpit on the left, deep bucket seats, rotary 9000-rpm tachometer centered in cluster; state=spotless metallic crimson finish, crisp rotary idle and instant boost response]
 - Bright-red shop pickup truck carrying wooden auto-parts crates in the rear bed. [VEHICLE_LOCK F150_TRUCK: bright shop-red paint with chrome front bumper; 4 wheels on 2 axles, 16-inch alloy wheels; LEFT-HAND DRIVE: bench seat with driver position on the left; state=clean shop-red pickup parked at Toto kerb or Ver's Geh bay]
+- Surrounding environment objects in TOTO_PATIO: wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane (landmarks: palm-lined Echo Park hillside in the background).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-warmed concrete patio pavement, weathered wooden picnic tabletops, striped canvas awning fabric, glossy automotive paintwork at the kerb, and natural skin pores.
 
 
 [SOUND]

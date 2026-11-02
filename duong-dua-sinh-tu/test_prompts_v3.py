@@ -363,6 +363,44 @@ class FilmContinuityTests(unittest.TestCase):
                 present_names = [nm for nm in all_lead_names if re.search(rf"\b{re.escape(nm)}\b", clean_txt)]
                 self.assertEqual(set(assigned_names), set(present_names), f"{cid}: cast {assigned_names} != present {present_names}")
 
+    def test_camera_angle_and_surrounding_objects_precision(self):
+        from film_bible import ENVIRONMENT_LOCK
+        for loc_id, env in ENVIRONMENT_LOCK.items():
+            self.assertNotIn('none (open', env.get('interior_furniture_objects', '').lower(), loc_id)
+            self.assertTrue(env.get('surface_textures'), loc_id)
+            self.assertTrue(env.get('architecture_layout'), loc_id)
+            self.assertTrue(env.get('terrain_landmarks'), loc_id)
+
+        for i, c in enumerate(self.shots):
+            cid = c['id']
+            loc_id = c['location']
+            env = ENVIRONMENT_LOCK[loc_id]
+            text = film.render_prompt(
+                self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
+            )
+            self.assertIn('Architecture & road geometry:', text, cid)
+            self.assertIn('Surrounding objects & landmarks:', text, cid)
+            self.assertIn(f"Surrounding environment objects in {loc_id}:", text, cid)
+            self.assertEqual(c['cinematic']['texture'], env['surface_textures'], cid)
+            comp = c['cinematic']['composition']
+            self.assertTrue(
+                any(
+                    rig in comp
+                    for rig in (
+                        'interior cabin-mounted camera angle',
+                        'low-angle exterior pursuit tracking camera rig',
+                        'eye-level cinematic camera setup',
+                        'Macro detail insert composition',
+                        '85mm',
+                    )
+                ),
+                f"{cid}: missing explicit camera rig/angle in composition: {comp}",
+            )
+            self.assertIn(env['interior_furniture_objects'], comp, cid)
+            self.assertIn(env['terrain_landmarks'], c['cinematic']['focus'], cid)
+            if loc_id == 'TOTO_BACKYARD':
+                self.assertNotIn('WRENCH_KIT', c['props'], cid)
+
 
 if __name__ == '__main__':
     unittest.main()

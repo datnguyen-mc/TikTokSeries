@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Onle = Onle: same approved identity, age 30; Broad-shouldered mechanic with a neat goatee, calm steady eyes, grease-weathered hands. grease-stained dark-green mechanic jumpsuit tied at the waist over a black T-shirt, heavy work boots. Voice: steady, grounded Southern Vietnamese male voice.
 @Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots. Voice: rough, fiery, direct Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for ONLE, CEVIN, TOM with props F150_TRUCK; never show a studio reference backdrop.
+Keep exact approved appearance for ONLE, CEVIN, TOM with surrounding props (F150_TRUCK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 08/40, clip 3/6; shot 08.3. Story time: D1 midday.
 Sunlit concrete patio outside Toto grocery: wooden lunch tables under a canvas awning, kerbside parking along the palm-lined Los Angeles street, red pickup and lowered street cars parked at the kerb.
+Architecture & road geometry: sunlit concrete sidewalk patio outside Toto grocery shaded by a striped canvas awning; two-lane residential Los Angeles street with kerbside parking along the right.
+Surrounding objects & landmarks: wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane; palm-lined Echo Park hillside in the background.
 Spatial geography & 180-degree axis: Toto grocery patio (TOTO_PATIO): diner steps on screen left, kerbside street on screen right. All action follows safe Vietnamese martial arts stunt choreography.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -29,8 +31,8 @@ In TOTO_PATIO during D1 midday (shot 08.3 opening): Onle stepping forward from t
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Onle and Cevin with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Onle's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
+Composition: Using a low-angle tracking 35mm eye-level cinematic camera setup, frame Onle and Cevin with the Bright-Red Stepside Shop Pickup Truck, surrounded by wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane.
+Focus: Keep tack-sharp focus on Onle's eyes, lip-sync articulation, and hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, keeping palm-lined Echo Park hillside in the background readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Fast defensive movements, precise dodges, dynamic footwork and realistic physical reactions continue as Onle raises both open palms in a calm martial arts referee stance between Cevin and Tom. Beat 2 (2.8–7.7s): Onle uses his broad shoulders to guide Cevin half a step back from the pickup fender while speaking in a booming, grounded voice ordering both men to stop. Beat 3 (7.7–10.0s): Tom steps back one pace with balanced footwork, wiping a smudge of dust from his left cheekbone; no blood, no graphic injuries, no gore, all movements are simulated stunt choreography.
@@ -56,9 +58,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Bright-red shop pickup truck carrying wooden auto-parts crates in the rear bed. [VEHICLE_LOCK F150_TRUCK: bright shop-red paint with chrome front bumper; 4 wheels on 2 axles, 16-inch alloy wheels; LEFT-HAND DRIVE: bench seat with driver position on the left; state=clean shop-red pickup parked at Toto kerb or Ver's Geh bay]
+- Surrounding environment objects in TOTO_PATIO: wooden picnic lunch tables and benches on the concrete patio, striped canvas overhead awning, low concrete steps to the diner doorway, kerbside parking lane (landmarks: palm-lined Echo Park hillside in the background).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-warmed concrete patio pavement, weathered wooden picnic tabletops, striped canvas awning fabric, glossy automotive paintwork at the kerb, and natural skin pores.
 
 
 [SOUND]

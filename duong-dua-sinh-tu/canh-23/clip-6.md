@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. oversized olive graphic work shirt over striped long-sleeve tee, cargo trousers, sneakers, canvas laptop strap across chest. Voice: quick, earnest, energetic Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. cropped tan suede jacket over burgundy top, dark jeans, sneakers, hair loose over shoulders. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Keep exact approved appearance for SEJA, TOM, AMI_N with props SUPRA, WRENCH_KIT, DIAG_LAPTOP; never show a studio reference backdrop.
+Keep exact approved appearance for SEJA, TOM, AMI_N with surrounding props (SUPRA, DIAG_LAPTOP); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 23/40, clip 6/6; shot 23.6. Story time: N3 night.
 Detached two-bay garage behind the Toto house: warm overhead work lamps, engine hoist, workbenches stacked with wrenches and manifolds, concrete floor, rear corner holding the covered 1970 muscle car.
+Architecture & road geometry: detached two-bay timber-and-concrete home garage behind the Toto house; oil-darkened concrete floor opening onto the backyard driveway.
+Surrounding objects & landmarks: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover; rear alcove housing the covered 1970 matte-black Charger.
 Spatial geography & 180-degree axis: Toto home garage (TOTO_GARAGE) at night: the freshly painted metallic-orange SUPRA in the center bay under warm work lamps.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -29,8 +31,8 @@ In TOTO_GARAGE during N3 night (shot 23.6 opening): Seja closing the DIAG_LAPTOP
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Seja and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Composition: Using a dramatic push-in 50mm eye-level cinematic camera setup, frame Seja and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, surrounded by overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover.
+Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, keeping rear alcove housing the covered 1970 matte-black Charger readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Seja unplugs the diagnostic cable and lowers the metallic-orange hood of the Supra until it latches. Beat 2 (2.8–8.2s): Seja presses his palms onto the closed metallic-orange hood to test the latch and grins across at Tom and Ami while declaring the whole city will stare. Beat 3 (8.2–10.0s): Tom and Ami exchange a quiet smile beside the finished ten-second coupe.
@@ -56,11 +58,11 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=freshly painted metallic-orange finish, polished twin-turbo engine bay]
-- Heavy chrome torque wrench, socket tray and engine hoist chains inside the garage. [OBJECT_LOCK WRENCH_KIT: heavy chrome ratchet torque wrench, steel socket tray, and chain engine hoist; state=used on the workbench and engine bay inside the tuning garage]
 - Ruggedized silver tuning laptop displaying engine manifold pressure curves and overload warnings without readable text. [OBJECT_LOCK DIAG_LAPTOP: brushed-silver rugged laptop connected via coiled OBD cable, screen showing graphical boost curves without readable text; state=open on passenger dash or pit table showing colored telemetry curves without readable text]
+- Surrounding environment objects in TOTO_GARAGE: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover (landmarks: rear alcove housing the covered 1970 matte-black Charger).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Oil-darkened garage concrete, mirror-chromed supercharger and wrench steel, lustrous metallic-orange and satin-black bodywork, and natural skin pores under warm shop lamps.
 
 
 [SOUND]

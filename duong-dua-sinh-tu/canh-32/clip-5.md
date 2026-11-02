@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants. Voice: rough, fiery, direct Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. black tactical driving windbreaker zipped over dark shirt, black leather driving gloves, dark cargo trousers, heavy boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Verni = Verni: same approved identity, age 48; Stocky long-haul truck driver with a thick grey-streaked beard, sun-weathered face, strong forearms. plaid flannel shirt under a padded brown work vest, trucker cap, dark jeans, heavy boots. Voice: gravelly, booming Southern Vietnamese male voice.
-Keep exact approved appearance for CEVIN_H, MICDO_H, VERNI with props CIVIC_TRIO, RIG_18, TETHER_CABLE; never show a studio reference backdrop.
+Keep exact approved appearance for CEVIN_H, MICDO_H, VERNI with surrounding props (RIG_18, TETHER_CABLE); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 32/40, clip 5/6; shot 32.5. Story time: D6 late afternoon.
 Two-lane desert highway cutting across arid scrubland under late-afternoon sun: long straight asphalt, sandy shoulders, heat haze rising in the distance, no readable highway signs.
+Architecture & road geometry: long straight two-lane asphalt highway cutting across open Mojave scrubland in late afternoon; two wide asphalt lanes with yellow center dashed line and wide compacted sand shoulders on both sides.
+Surrounding objects & landmarks: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub; dry desert brush, distant rocky buttes, telegraph poles rushing past.
 Spatial geography & 180-degree axis: Mojave two-lane desert highway (DESERT_HIGHWAY) in late-afternoon sun: travel screen-left to screen-right; RIG_18 in the center lane, black CIVIC_TRIO coupes flanking.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -29,8 +31,8 @@ In DESERT_HIGHWAY during D6 late afternoon (shot 32.5 opening): Cevin braced on 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cevin and Micdo with the 18-Wheel Charcoal Semi-Truck & Silver Trailer anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Cevin's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
+Composition: Using a kinetic handheld 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Cevin and Micdo with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, surrounded by yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub.
+Focus: Keep tack-sharp focus on Cevin's eyes, lip-sync articulation, and hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, keeping dry desert brush, distant rocky buttes, telegraph poles rushing past readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Cevin grips the taut steel tether cable with both gloved hands while keeping his boots planted on the lower cab step in simulated stunt choreography. Beat 2 (2.8–7.4s): Cevin steadies his stance on the lower step and tugs at the jammed harness carabiner with his right hand while shouting for Micdo to pull alongside. Beat 3 (7.4–10.0s): Verni swerves the semi-truck again as Cevin braces securely on the lower step in a controlled harness stunt.
@@ -56,17 +58,17 @@ Only words after the final colon are spoken. Never read names, tags or direction
 
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
-- Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=three matte-black coupes flanking the semi-truck in daylight on the desert highway]
 - Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=steel cable hooked to right cab side while swerving across desert highway lanes]
 - Heavy-duty pneumatic steel-cable tether rig and high-tensile safety tether line linking the coupe and truck cabin. [OBJECT_LOCK TETHER_CABLE: compact matte-black pneumatic tube rig extending a 3-prong magnetic steel tether clamp attached to a braided 10 mm steel winch cable; state=clamped to semi-truck cab frame with braided steel cable taut beside the moving trailer]
+- Surrounding environment objects in DESERT_HIGHWAY: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub (landmarks: dry desert brush, distant rocky buttes, telegraph poles rushing past).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-heated desert asphalt, swirling golden sand and alkali dust on the shoulder, ribbed silver trailer aluminum, pearl metallic-orange paintwork, and natural skin pores.
 
 
 [SOUND]
 Location bed: heavy diesel engine, high-speed wind and tires roaring on hot asphalt.
-Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust note, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
+Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Cevin's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

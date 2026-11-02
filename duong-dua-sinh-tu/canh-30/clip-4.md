@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO, NYTRAN_R, TOM with props RX7, S2000; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO, NYTRAN_R, TOM with surrounding props (RX7); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 30/40, clip 4/6; shot 30.4. Story time: D5 afternoon.
 Mojave Desert Race Wars airfield under blazing midday sun: vast heat-shimmering concrete runway, canopies and pit tents lined with tuned cars, desert mountains on the horizon, two-lane drag strip with starting lights.
+Architecture & road geometry: Mojave Desert airfield drag strip and paddock under midday sun; two-lane concrete runway drag strip with Christmas-tree starting lights, bordered by pit canopies.
+Surrounding objects & landmarks: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers; arid Mojave mountain range shimmering across the horizon.
 Spatial geography & 180-degree axis: Toto paddock canopy at Mojave Race Wars (RACE_WARS) in afternoon sun: Micdo and Tom on screen left beside the red RX7; Ny Tran and Cela on screen right beside the black S2000.
 Bright California daylight: clean directional sun with natural bounce off concrete and painted metal, realistic skin texture and clear shadow detail.
 
@@ -29,8 +31,8 @@ In RACE_WARS during D5 afternoon (shot 30.4 opening): Micdo holding his ground c
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Ny Tran in balanced two-shot depth within RACE_WARS using the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside RACE_WARS.
+Composition: Using a tight close-up 85mm eye-level cinematic camera setup, frame Micdo and Ny Tran with the Deep-Red Twin-Turbo Rotary Coupe, surrounded by team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, keeping arid Mojave mountain range shimmering across the horizon readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Micdo doesn't flinch an inch, keeping his dark eyes locked on Ny Tran. Beat 2 (2.8–7.7s): Micdo squares his broad shoulders without yielding a centimeter and gestures calmly with his left hand while stating his crew never tipped off the police. Beat 3 (7.7–10.0s): Ny Tran's jaw tightens in cold disbelief.
@@ -56,15 +58,15 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Deep-red rotary sport coupe with sleek aerodynamic body, silver twin-spoke rims and cockpit boost gauges. [VEHICLE_LOCK RX7: deep metallic crimson-red paint with gloss black front lip and diffuser; 4 wheels on 2 axles, 18-inch silver twin-spoke forged rims with wide rear tires; LEFT-HAND DRIVE: wrap-around driver cockpit on the left, deep bucket seats, rotary 9000-rpm tachometer centered in cluster; state=spotless metallic crimson finish, crisp rotary idle and instant boost response]
-- Jet-black open-top roadster with concealed dual Nitrous Oxide system under the driver seat. [VEHICLE_LOCK S2000: mirror-gloss jet-black paint with dark-titanium aero lip; 4 wheels on 2 axles, 18-inch forged dark-chrome wheels; LEFT-HAND DRIVE: red-and-black leather bucket seats, digital bar-graph tachometer on the left; state=gleaming jet-black bodywork with concealed NOS purge valves active]
+- Surrounding environment objects in RACE_WARS: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers (landmarks: arid Mojave mountain range shimmering across the horizon).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Sun-baked Mojave concrete runway tarmac, shimmering desert heat haze, gloss alpine-white and mirror-black car paintwork, canvas pit canopies, and natural skin pores.
 
 
 [SOUND]
 Location bed: roaring engines, desert wind and crowd murmur across the tarmac.
-Foreground sound: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; screaming 9,000-RPM inline-four engine note, twin-stage nitrous injection hiss, and high-velocity desert tarmac tire roar, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
+Foreground sound: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

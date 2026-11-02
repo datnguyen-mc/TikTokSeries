@@ -7,12 +7,14 @@ Use the attached reference images strictly for facial identity, hair, and wardro
 @Nese = Nese: same approved identity, age 46; Veteran police sergeant with greying crew-cut hair, weathered lined face, stern focused eyes. dark navy police windbreaker over dress shirt, tactical vest, radio handset clipped at shoulder. Voice: measured, seasoned Southern Vietnamese male voice.
 @Kinan = Kinan: same approved identity, age 44; Tall federal agent with neatly parted dark hair, sharp angular features, piercing gaze. dark field windbreaker over steel-blue shirt, tactical vest, ear-tube radio. Voice: crisp, urgent, commanding Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for NESE_T, KINAN_T, TOM with props CASE_FILES, POLICE_RADIO; never show a studio reference backdrop.
+Keep exact approved appearance for NESE_T, KINAN_T, TOM with surrounding props (CASE_FILES, POLICE_RADIO); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 25/40, clip 1/6; shot 25.1. Story time: D4 dawn.
 Courtyard and living hall of Ny Tran's gated Little Saigon residence at dawn: wrought-iron front gates, stone driveway, modern living room with leather sofas and silk wall panels.
+Architecture & road geometry: walled Little Saigon courtyard residence with wrought-iron front gates and stone driveway; wide cobbled circular driveway in front of the main veranda.
+Surrounding objects & landmarks: black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates; tall cypress hedges and modern concrete portico.
 Spatial geography & 180-degree axis: Courtyard of Ny Tran's Little Saigon residence (NYTRAN_MANSION) at dawn: unmarked command SUV on screen left; iron gates and mansion veranda on screen right.
 Golden California morning light: low warm sun casting long directional shadows across asphalt and steel, cool ambient sky fill, natural skin tones.
 
@@ -32,8 +34,8 @@ In NYTRAN_MANSION during D4 dawn (shot 25.1 opening): Sergeant Nese and Agent Ki
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Nese and Kinan with LAPD-FBI Highway Investigation Folders anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
+Composition: Using a wide 35mm eye-level cinematic camera setup, frame Nese and Kinan with LAPD-FBI Highway Investigation Folders, surrounded by black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, keeping tall cypress hedges and modern concrete portico readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Nese checks the perimeter map in the CASE_FILES folder and raises his shoulder radio mic. Beat 2 (2.8–7.7s): Nese presses the transmit switch on his shoulder mic with his left hand and scans the iron gate line while confirming all units are in position. Beat 3 (7.7–10.0s): Kinan signals the forward entry team at the wrought-iron gates.
@@ -60,9 +62,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Thick manila highway transport investigation folders, satellite route maps and customs manifests without readable text. [OBJECT_LOCK CASE_FILES: thick manila case folders, pinned highway route maps, and glossy surveillance photographs without readable text; state=intact established state]
 - Tom's concealed LAPD encrypted tactical radio handset used for emergency medevac coordination. [OBJECT_LOCK POLICE_RADIO: matte-black heavy-duty encrypted tactical transceiver with stub antenna and coiled speaker mic; state=intact established state]
+- Surrounding environment objects in NYTRAN_MANSION: black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates (landmarks: tall cypress hedges and modern concrete portico).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Dew-damp morning cobblestones, forged black wrought-iron gate bars, carved stone veranda columns, dark-tinted SUV window glass, tactical vest fabric, and natural skin pores.
 
 
 [SOUND]

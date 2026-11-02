@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO with props CHARGER, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO with surrounding props (CHARGER, SUPRA); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 39/40, clip 4/6; shot 39.4. Story time: D7 sunset.
 Outskirts industrial railroad crossing at sunset: two-lane road rising over steel train tracks, red flashing crossing signals, lowering striped wooden gate arms, steel freight train approaching on the right track, open desert road beyond.
+Architecture & road geometry: industrial outskirts two-lane road intersecting an active steel freight railroad line at sunset; straight two-lane asphalt road rising slightly over timber-and-steel railroad tracks.
+Surrounding objects & landmarks: raised timber-and-steel railroad track apron, flashing red railroad signal masts, lowering red-and-white striped wooden gate arms, steel freight locomotive, side alley entrance; flashing red railroad signal masts, striped crossing gate arms, steel freight locomotive approaching from the right.
 Spatial geography & 180-degree axis: Outskirts railroad crossing (RAIL_CROSSING) at sunset: Micdo's 1970 matte-black CHARGER in the left lane and Tom's metallic-orange SUPRA in the right lane racing screen-left to screen-right across the tracks.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -27,8 +29,8 @@ In RAIL_CROSSING during D7 sunset (shot 39.4 opening): Micdo's 1970 CHARGER and 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the tight close-up 85mm lens geometry inside RAIL_CROSSING.
-Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
+Composition: Using a tight close-up 85mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Micdo with the 1970 Matte-Black Supercharged Muscle Car inside RAIL_CROSSING, surrounded by raised timber-and-steel railroad track apron, flashing red railroad signal masts, lowering red-and-white striped wooden gate arms, steel freight locomotive, side alley entrance.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, keeping flashing red railroad signal masts, striped crossing gate arms, steel freight locomotive approaching from the right readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): both cars leap slightly over the raised railroad crown and land cleanly on the asphalt beyond as the steel train wall seals the crossing behind them. Beat 2 (2.8–7.9s): Micdo absorbs the landing compression with both hands on the wood-rimmed wheel and exhales a triumphant breath inside the Charger cockpit. Beat 3 (7.9–10.0s): Micdo turns his eyes from Tom's Supra back to the road ahead just as a heavy box truck pulls out from a side alley.
@@ -56,9 +58,10 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Reference only; enact only the current ACTION, not a future handover.
 - Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=roaring at full 900-hp supercharged output, front tires lifting under launch torque]
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=high-speed pursuit trim with minor right-side rub mark from contact with motorcycle, engine running clean]
+- Surrounding environment objects in RAIL_CROSSING: raised timber-and-steel railroad track apron, flashing red railroad signal masts, lowering red-and-white striped wooden gate arms, steel freight locomotive, side alley entrance (landmarks: flashing red railroad signal masts, striped crossing gate arms, steel freight locomotive approaching from the right).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Polished steel railroad tracks, creosote-weathered timber ties, satin-black and metallic-orange hoods reflecting flashing red signal lights, exhaust heat shimmer, and natural skin pores.
 
 
 [SOUND]

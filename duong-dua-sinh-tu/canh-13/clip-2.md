@@ -6,12 +6,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R, MICDO with props ECLIPSE, RX7, PINK_SLIP; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R, MICDO with surrounding props (ECLIPSE, PINK_SLIP); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 13/40, clip 2/6; shot 13.2. Story time: N2 night.
 South Los Angeles industrial warehouse district at night: wide asphalt avenue between concrete warehouses, hundreds of colorful tuned street cars parked under sodium floodlights, tire smoke drifting, no readable banners.
+Architecture & road geometry: wide industrial avenue between tall concrete freight warehouses in South Los Angeles at night; straight four-lane industrial asphalt avenue converted into a 1/4-mile street drag strip with painted white starting line.
+Surrounding objects & landmarks: painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps; sodium streetlamps, rows of parked tuned coupes lining both kerbs.
 Spatial geography & 180-degree axis: South L.A. industrial street drag meet (RACE_MEET): Tom's neon-green ECLIPSE on screen left, Micdo's deep-red RX7 on screen right, starting line at center.
 Crisp nocturnal street lighting: sodium vapour and neon highlights cutting through deep asphalt shadows, natural skin tones, restrained contrast.
 
@@ -28,8 +30,8 @@ In RACE_MEET during N2 night (shot 13.2 opening): Tom stepping to the front hood
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Using a medium two-shot 50mm eye-level cinematic camera setup, frame Tom and Micdo with the Neon-Green Turbo Sport Coupe, surrounded by painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping sodium streetlamps, rows of parked tuned coupes lining both kerbs readable in the background depth.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Tom slaps the PINK_SLIP sleeve onto the carbon-fiber hood of the Eclipse. Beat 2 (2.8–7.7s): Tom slides his open palm across the carbon-fiber hood over the title sleeve while declaring the car is worth over ten thousand dollars. Beat 3 (7.7–10.0s): Micdo uncrosses his arms and walks two paces closer to inspect the neon-green coupe.
@@ -55,16 +57,16 @@ Only words after the final colon are spoken. Never read names, tags or direction
 [PROPS]
 Reference only; enact only the current ACTION, not a future handover.
 - Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=pristine neon-green bodywork and carbon-fiber hood, twin NOS bottles pressurized in rear mount]
-- Deep-red rotary sport coupe with sleek aerodynamic body, silver twin-spoke rims and cockpit boost gauges. [VEHICLE_LOCK RX7: deep metallic crimson-red paint with gloss black front lip and diffuser; 4 wheels on 2 axles, 18-inch silver twin-spoke forged rims with wide rear tires; LEFT-HAND DRIVE: wrap-around driver cockpit on the left, deep bucket seats, rotary 9000-rpm tachometer centered in cluster; state=spotless metallic crimson finish, crisp rotary idle and instant boost response]
 - Official vehicle title registration certificate folded inside a clear protective sleeve. [OBJECT_LOCK PINK_SLIP: folded official paper vehicle title certificate inside a clear plastic sleeve, no readable text; state=held in Tom's right hand and placed on the hood for the quarter-mile wager]
+- Surrounding environment objects in RACE_MEET: painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps (landmarks: sodium streetlamps, rows of parked tuned coupes lining both kerbs).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Tire-scuffed industrial asphalt, glossy neon-green and metallic-crimson car bodywork, drifting white tire smoke under amber sodium floodlights, and natural skin pores.
 
 
 [SOUND]
 Location bed: thumping bass, revving tuned engines and cheering street crowd.
-Foreground sound: PRIORITY DIEGETIC SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip; signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
+Foreground sound: PRIORITY DIEGETIC SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Tom's Southern Vietnamese dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]

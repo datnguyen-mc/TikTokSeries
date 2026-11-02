@@ -5,12 +5,14 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
-Keep exact approved appearance for no visible cast (vehicle/object detail insert) with props SUPRA, CHARGER, MOTO_PACK; never show a studio reference backdrop.
+Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (SUPRA, CHARGER, MOTO_PACK); never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
 Scene 38/40, clip 3/6; shot 38.3. Story time: D7 sunset.
 Steep, sloping asphalt avenues in the Los Angeles hills at sunset: palm trees, concrete retaining walls, long downhill intersections overlooking the city basin, concrete storm-drain channel below the lower curve.
+Architecture & road geometry: steep descending asphalt boulevard in the Los Angeles hills overlooking a concrete storm-drain channel; two wide downhill lanes bordered by concrete retaining walls and a lower embankment along the concrete flood channel.
+Surrounding objects & landmarks: poured-concrete roadside retaining walls, concrete parapet guard blocks, sloped concrete storm-drain channel embankment below, hillside palm trees; palm trees, city basin skyline glowing in sunset haze below.
 Spatial geography & 180-degree axis: Steep downhill boulevard in the Los Angeles hills (LA_HILLS_ROAD) at sunset: pursuit runs downhill screen-left to screen-right above the concrete storm-drain channel.
 Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces, long dramatic shadows, deep cobalt dusk sky.
 
@@ -27,8 +29,8 @@ In LA_HILLS_ROAD during D7 sunset (shot 38.3 pursuit detail insert): low-angle c
 [CAMERA]
 85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: 85mm low-angle vehicle-mounted pursuit insert framing the Supra wheel on screen left and the motorcycle wheel on screen right.
-Focus: Tack-sharp focus on the Supra front wheel and motorcycle fairing.
+Composition: 85mm low-angle vehicle-mounted pursuit insert framing the Supra wheel on screen left and the motorcycle wheel on screen right. Surrounding environment details include poured-concrete roadside retaining walls, concrete parapet guard blocks, sloped concrete storm-drain channel embankment below, hillside palm trees.
+Focus: Tack-sharp focus on the Supra front wheel and motorcycle fairing. Background depth preserves palm trees, city basin skyline glowing in sunset haze below.
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): The metallic-orange SUPRA front wheel surges forward under full twin-turbo boost, closing the lateral gap to thirty centimeters beside Ny Tran's spinning black motorcycle wheel. Beat 2 (2.8–7.9s): While Tom's voice plays off screen, the Supra holds a rock-steady blocking line on the right lane, cutting off the motorcycle's angle toward the Charger ahead. Beat 3 (7.9–10.0s): Golden sunset light rakes across the spinning drilled brake rotors and sloped asphalt through 10.0s.
@@ -57,9 +59,10 @@ Reference only; enact only the current ACTION, not a future handover.
 - Rebuilt 10-second bright metallic-orange twin-turbo sport coupe with removable targa roof and high rear wing. [VEHICLE_LOCK SUPRA: lustrous pearl metallic-orange paint with silver twin-scroll turbo plumbing visible through the front bumper grille; 4 wheels on 2 axles, 18-inch 5-spoke silver racing wheels with drilled brake rotors; LEFT-HAND DRIVE: wraparound cockpit angled toward the left-hand driver seat, blue-stitched sport seats, dash boost controller; state=high-speed pursuit trim with minor right-side rub mark from contact with motorcycle, engine running clean]
 - Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=roaring at full 900-hp supercharged output, front tires lifting under launch torque]
 - Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=lead motorcycle loses balance after side-contact on the hill road and slides down the concrete channel embankment]
+- Surrounding environment objects in LA_HILLS_ROAD: poured-concrete roadside retaining walls, concrete parapet guard blocks, sloped concrete storm-drain channel embankment below, hillside palm trees (landmarks: palm trees, city basin skyline glowing in sunset haze below).
 
 [VISIBLE TEXTURE]
-Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.
+Tire-marked downhill asphalt, weathered poured-concrete retaining walls and flood channel floor, satin-black and metallic-orange bodywork under sunset glow, and natural skin pores.
 
 
 [SOUND]

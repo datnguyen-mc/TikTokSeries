@@ -29,12 +29,12 @@ In CROSSING_BEYOND during D7 dusk (shot 40.4 opening): Tom holding out the singl
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Tom and Micdo with Metallic-Orange Supra Ignition Key anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Metallic-Orange Supra Ignition Key, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with Metallic-Orange Supra Ignition Key, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom extends his open right hand holding the SUPRA_KEY squarely between himself and Micdo. Beat 2 (3.2–6.8s): Tom steps half a pace closer and lowers his open right palm steadily toward Micdo's hand while reminding him that he promised to bring him a ten-second car. Beat 3 (6.8–10.0s): Micdo looks down at the key in Tom's palm and then up into Tom's eyes, deeply moved.
+Beat 1 (0.0–2.8s): Tom extends his open right hand holding the SUPRA_KEY squarely between himself and Micdo. Beat 2 (2.8–7.7s): Tom steps half a pace closer and lowers his open right palm steadily toward Micdo's hand while reminding him that he promised to bring him a ten-second car. Beat 3 (7.7–10.0s): Micdo looks down at the key in Tom's palm and then up into Tom's eyes, deeply moved.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside CROSSING_BEYOND; Tom moves smoothly on the near side while Micdo holds the counter-angle.

@@ -6,8 +6,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Cina = Cina: same approved identity, age 28; Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear. cropped black leather vest over crimson top, low-rise dark leather trousers, heavy lace boots. Voice: cool, firm, clear Southern Vietnamese female voice.
 @Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots. Voice: rough, fiery, direct Southern Vietnamese male voice.
-@Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for CINA, CEVIN, TOM_B with props WRENCH_KIT; never show a studio reference backdrop.
+@Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
+Keep exact approved appearance for CINA, CEVIN, MICDO with props WRENCH_KIT; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -24,18 +24,18 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 20.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_BACKYARD during N2 late night (shot 20.5 opening): Cina stepping beside Cevin on screen right of the table in TOTO_BACKYARD and placing a calming hand on his arm.
+In TOTO_BACKYARD during N2 late night (shot 20.5 opening): Cina stepping beside Cevin on screen right of the table in TOTO_BACKYARD and placing a calming hand on his arm while Micdo watches.
 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cina and Cevin with Chrome Torque Wrench & Garage Tool Set anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
+Composition: Frame Cina and Cevin in balanced two-shot depth within TOTO_BACKYARD using the kinetic handheld 35mm lens geometry.
+Focus: Keep tack-sharp focus on Cina's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_BACKYARD.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Cina presses Cevin's shoulder gently to ease him back toward the bench. Beat 2 (3.2–6.8s): Cina steps in close beside Cevin and draws his arm gently back from the table edge while reminding him firmly that Tom lost his car to bring Micdo home. Beat 3 (6.8–10.0s): Cevin exhales sharply through his nose and turns toward the house.
+Beat 1 (0.0–2.8s): Cina presses Cevin's shoulder gently to ease him back toward the bench. Beat 2 (2.8–7.7s): Cina steps in close beside Cevin and draws his arm gently back from the table edge while reminding him firmly that Micdo made it home safely tonight. Beat 3 (7.7–10.0s): Cevin exhales sharply through his nose and turns toward the house.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.7s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_BACKYARD; Cina moves smoothly on the near side while Cevin holds the counter-angle.

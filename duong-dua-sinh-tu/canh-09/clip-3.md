@@ -31,9 +31,9 @@ Composition: 85mm automotive detail insert framing the RX7 front wheel arch, cri
 Focus: Tack-sharp focus on the silver twin-spoke rim and metallic crimson paintwork.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Sunlight gleams across the sculpted metallic-crimson hood and silver twin-spoke wheel of Micdo's RX7 parked behind Tom's red F150_TRUCK. Beat 2 (3.2–6.8s): While Micdo's voice plays off screen, the cockpit A-pillar boost gauges glow faintly behind the tinted windshield glass as the rotary engine idles with a rhythmic cadence. Beat 3 (6.8–10.0s): Heat shimmer rises gently from the hood vent into the midday air through 10.0s.
+Beat 1 (0.0–2.8s): Sunlight gleams across the sculpted metallic-crimson hood and silver twin-spoke wheel of Micdo's RX7 parked behind Tom's red F150_TRUCK. Beat 2 (2.8–7.7s): While Micdo's voice plays off screen, the cockpit A-pillar boost gauges glow faintly behind the tinted windshield glass as the rotary engine idles with a rhythmic cadence. Beat 3 (7.7–10.0s): Heat shimmer rises gently from the hood vent into the midday air through 10.0s.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
+Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 2.8–7.7s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Static low-angle automotive detail composition at the kerb.

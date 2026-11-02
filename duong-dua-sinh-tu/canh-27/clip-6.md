@@ -30,12 +30,12 @@ In NYTRAN_WAREHOUSE during D4 morning (shot 27.6 opening): Nese facing Tom and K
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Nese and Tom with LAPD-FBI Highway Investigation Folders anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Nese steps close to Tom, his weathered eyes stern and unmistakable. Beat 2 (3.2–6.8s): Nese tucks the CASE_FILES folder firmly under his left arm and grips Tom's shoulder briefly while ordering the team to release Ny Tran immediately. Beat 3 (6.8–10.0s): Tom clenches his jaw as Nese walks out toward the courtyard to call off the raid.
+Beat 1 (0.0–2.8s): Nese steps close to Tom, his weathered eyes stern and unmistakable. Beat 2 (2.8–7.9s): Nese tucks the CASE_FILES folder firmly under his left arm and grips Tom's shoulder briefly while ordering the team to release the detained men immediately. Beat 3 (7.9–10.0s): Tom clenches his jaw as Nese walks out toward the courtyard to call off the raid.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.9s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_WAREHOUSE; Nese moves smoothly on the near side while Tom holds the counter-angle.

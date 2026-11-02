@@ -32,14 +32,14 @@ In RACE_ALLEY during N2 night (shot 16.1 opening): Cevin, Micdo, and Tom beside 
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cevin and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Cevin and Micdo with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the wide 35mm lens geometry.
+Focus: Keep tack-sharp focus on Cevin's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Cevin points urgently toward the side service road as patrol sirens close in from four directions. Beat 2 (3.2–6.8s): Cevin waves his right arm in a wide sweeping signal toward the side lanes while shouting for everyone to scatter immediately. Beat 3 (6.8–10.0s): Micdo motions for Cevin to take the side lane while Micdo heads toward his red RX-7.
+Beat 1 (0.0–2.8s): Cevin points urgently toward the side service road as patrol sirens close in from four directions. Beat 2 (2.8–7.4s): Cevin waves his right arm in a wide sweeping signal toward the side lanes while shouting for everyone to scatter immediately. Beat 3 (7.4–10.0s): Micdo motions for Cevin to take the side lane while Micdo heads toward his red RX-7.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.4s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Cevin moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.

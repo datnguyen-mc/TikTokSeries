@@ -5,8 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-@Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO, TOM_R with props CHARGER, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for MICDO with props CHARGER, SUPRA; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -28,18 +27,18 @@ In RAIL_CROSSING during D7 sunset (shot 39.4 opening): Micdo's 1970 CHARGER and 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Tom with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
+Composition: Frame Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the tight close-up 85mm lens geometry inside RAIL_CROSSING.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): both cars leap slightly over the raised railroad crown and land cleanly on the asphalt beyond as the steel train wall seals the crossing behind them. Beat 2 (3.2–6.8s): Micdo absorbs the landing compression with both hands on the wood-rimmed wheel and exhales a triumphant breath inside the Charger cockpit. Beat 3 (6.8–10.0s): Micdo turns his eyes from Tom's Supra back to the road ahead just as a heavy box truck pulls out from a side alley.
+Beat 1 (0.0–2.8s): both cars leap slightly over the raised railroad crown and land cleanly on the asphalt beyond as the steel train wall seals the crossing behind them. Beat 2 (2.8–7.9s): Micdo absorbs the landing compression with both hands on the wood-rimmed wheel and exhales a triumphant breath inside the Charger cockpit. Beat 3 (7.9–10.0s): Micdo turns his eyes from Tom's Supra back to the road ahead just as a heavy box truck pulls out from a side alley.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.9s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RAIL_CROSSING; Micdo holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 
 
 [BODY, MOUTH AND FACE STANDARD]

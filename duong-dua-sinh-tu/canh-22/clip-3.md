@@ -31,9 +31,9 @@ Composition: 85mm mechanical insert framing the twin-turbo inline-6 valve cover 
 Focus: Tack-sharp focus on the aluminum valve cover and twin-turbo housing.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): The rusted orange hood of the SUPRA_SHELL rises on its hinges, letting morning sunbeams fall across the cast-iron twin-turbo inline-six engine block inside. Beat 2 (3.2–6.8s): While Tom's voice plays off screen, a mechanic's hand wipes a layer of dust off the aluminum valve cover to reveal the intact twin-turbocharger assembly. Beat 3 (6.8–10.0s): The heavy engine block and twin turbo housings gleam under the garage work lamps through 10.0s.
+Beat 1 (0.0–2.8s): The rusted orange hood of the SUPRA_SHELL rises on its hinges, letting morning sunbeams fall across the cast-iron twin-turbo inline-six engine block inside. Beat 2 (2.8–7.9s): While Tom's voice plays off screen, a mechanic's hand wipes a layer of dust off the aluminum valve cover to reveal the intact twin-turbocharger assembly. Beat 3 (7.9–10.0s): The heavy engine block and twin turbo housings gleam under the garage work lamps through 10.0s.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
+Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 2.8–7.9s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Hood rises at 0.0s; hand wipes the valve cover from screen right.

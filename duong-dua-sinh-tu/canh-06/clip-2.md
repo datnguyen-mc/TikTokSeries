@@ -28,13 +28,13 @@ In TOTO_DINER during D1 midday (shot 06.2 opening): Ami standing behind the wood
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Tom with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
+Composition: Frame Ami and Tom with Crustless Tuna Sandwich & Iced Water anchored clearly in the medium two-shot 50mm lens geometry.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and continuous hand-and-body follow-through with Crustless Tuna Sandwich & Iced Water, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami steps one pace closer to Tom's section of the counter and sets a tall glass of iced water beside his elbow. Beat 2 (3.2–6.8s): Ami replies with a teasing smile while wiping a drop of condensation from the counter with her apron towel. Beat 3 (6.8–10.0s): Tom nods in quiet appreciation, keeping his eyes on Ami's face.
+Beat 1 (0.0–2.8s): Ami steps one pace closer to Tom's section of the counter and sets a tall glass of iced water beside his elbow. Beat 2 (2.8–7.4s): Ami replies with a teasing smile while wiping a drop of condensation from the counter with her apron towel. Beat 3 (7.4–10.0s): Tom nods in quiet appreciation, keeping his eyes on Ami's face.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
+Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 2.8–7.4s synchronized with speech, and smooth settling momentum through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_DINER; Ami moves smoothly on the near side while Tom holds the counter-angle.

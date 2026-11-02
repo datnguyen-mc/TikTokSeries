@@ -32,12 +32,12 @@ In TOTO_GARAGE during N5 night (shot 31.1 opening): Tom stepping across the door
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Tom and Ami with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom places both hands gently on Ami's shoulders to stop her at the threshold. Beat 2 (3.2–6.8s): Tom slides his right hand gently to the garage doorframe to bar the exit path while telling Ami firmly that she cannot drive out alone tonight. Beat 3 (6.8–10.0s): Ami tries to pull past his arm toward the driveway.
+Beat 1 (0.0–2.8s): Tom places both hands gently on Ami's shoulders to stop her at the threshold. Beat 2 (2.8–7.7s): Tom slides his right hand gently to the garage doorframe to bar the exit path while telling Ami firmly that she cannot drive out alone tonight. Beat 3 (7.7–10.0s): Ami tries to pull past his arm toward the driveway.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.7s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Ami holds the counter-angle.

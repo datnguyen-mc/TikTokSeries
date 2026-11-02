@@ -29,12 +29,12 @@ In NYTRAN_WAREHOUSE during D4 morning (shot 27.2 opening): Nese and Tom standing
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Nese and Tom with Stamped Customs Clearance Ledger anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with Stamped Customs Clearance Ledger, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and continuous hand-and-body follow-through with Stamped Customs Clearance Ledger, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Nese lifts the hardbound shipping ledger stamped with red customs seals from the desk tray. Beat 2 (3.2–6.8s): Nese opens the hardbound ledger flat on the steel desk and taps the red customs seal with his forefinger while pointing out to Tom that it is an official import ledger. Beat 3 (6.8–10.0s): Tom leans in beside Nese to compare the carton tags against the ledger.
+Beat 1 (0.0–2.8s): Nese lifts the hardbound shipping ledger stamped with red customs seals from the desk tray. Beat 2 (2.8–7.7s): Nese opens the hardbound ledger flat on the steel desk and taps the red customs seal with his forefinger while pointing out to Tom that it is an official import ledger. Beat 3 (7.7–10.0s): Tom leans in beside Nese to compare the carton tags against the ledger.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
+Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 2.8–7.7s synchronized with speech, and smooth settling momentum through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_WAREHOUSE; Nese moves smoothly on the near side while Tom holds the counter-angle.

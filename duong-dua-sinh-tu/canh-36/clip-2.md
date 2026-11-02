@@ -30,12 +30,12 @@ In TOTO_FRONT during D7 sunset (shot 36.2 opening): Seja stepping out of the alp
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Seja and Micdo with the Alpine-White Tuned Sport Sedan anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Seja walks up the concrete path with his shoulders slumped and thin-framed glasses askew. Beat 2 (3.2–6.8s): Seja stops in front of Micdo on the lawn path, bowing his head and clasping his hands together while apologizing in a quiet voice. Beat 3 (6.8–10.0s): Micdo steps forward and places a warm, forgiving hand on the back of Seja's neck.
+Beat 1 (0.0–2.8s): Seja walks up the concrete path with his shoulders slumped and thin-framed glasses askew. Beat 2 (2.8–7.9s): Seja stops in front of Micdo on the lawn path, bowing his head and clasping his hands together while apologizing in a quiet voice. Beat 3 (7.9–10.0s): Micdo steps forward and places a warm, forgiving hand on the back of Seja's neck.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
+Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 2.8–7.9s synchronized with speech, and smooth settling momentum through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Seja moves smoothly on the near side while Micdo holds the counter-angle.

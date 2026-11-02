@@ -29,12 +29,12 @@ In SAIGON_LOT during N2 night (shot 19.3 opening): Tom and Micdo standing beside
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): warm amber light flickers across Tom's soot-smudged face as the coupe's engine bay vents thick smoke. Beat 2 (3.2–6.8s): Tom lowers his raised forearm slowly to his side, his chest rising and falling heavily as he speaks in grim disbelief at the disabled car. Beat 3 (6.8–10.0s): Micdo stands shoulder-to-shoulder with Tom, watching the smoking frame in silence.
+Beat 1 (0.0–2.8s): warm amber light flickers across Tom's soot-smudged face as the coupe's engine bay vents thick smoke. Beat 2 (2.8–7.4s): Tom lowers his raised forearm slowly to his side, his chest rising and falling heavily as he speaks in grim disbelief at the disabled car. Beat 3 (7.4–10.0s): Micdo stands shoulder-to-shoulder with Tom, watching the smoking frame in silence.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
+Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 2.8–7.4s during the line, and sustained forward motion through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Tom moves smoothly on the near side while Micdo holds the counter-angle.

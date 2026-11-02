@@ -29,14 +29,14 @@ In RACE_WARS during D5 midday (shot 28.4 opening): Ami handing chilled water bot
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Composition: Frame Ami and Tom in balanced two-shot depth within RACE_WARS using the tight close-up 85mm lens geometry.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside RACE_WARS.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami passes a cold water bottle to Tom, then pauses as a jet-black roadster rolls toward the runway staging lane. Beat 2 (3.2–6.8s): Ami holds the water bottle against her hip and points her right hand toward the runway staging lane while warning them that Ny Tran has pulled up in his black S2000. Beat 3 (6.8–10.0s): Tom turns his head sharply toward the drag strip staging area.
+Beat 1 (0.0–2.8s): Ami passes a cold water bottle to Tom, then pauses as a jet-black roadster rolls toward the runway staging lane. Beat 2 (2.8–7.9s): Ami holds the water bottle against her hip and points her right hand toward the runway staging lane while warning them that the rival black S2000 roadster has pulled up. Beat 3 (7.9–10.0s): Tom turns his head sharply toward the drag strip staging area.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.9s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Ami moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.

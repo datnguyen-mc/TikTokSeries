@@ -29,12 +29,12 @@ In TOTO_GARAGE during N3 late night (shot 24.4 opening): Tom standing on screen 
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom glances from the towering chrome supercharger scoop up to Micdo's thoughtful eyes. Beat 2 (3.2–6.8s): Tom rests his fingertips lightly on the satin-black fender edge and leans slightly toward Micdo while asking quietly why he has never driven his father's car. Beat 3 (6.8–10.0s): Micdo looks down at the chrome blower housing, his expression solemn.
+Beat 1 (0.0–2.8s): Tom glances from the towering chrome supercharger scoop up to Micdo's thoughtful eyes. Beat 2 (2.8–7.9s): Tom rests his fingertips lightly on the satin-black fender edge and leans slightly toward Micdo while asking quietly why he has never driven his father's car. Beat 3 (7.9–10.0s): Micdo looks down at the chrome blower housing, his expression solemn.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.9s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Micdo holds the counter-angle.

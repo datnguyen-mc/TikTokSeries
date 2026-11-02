@@ -29,13 +29,13 @@ In RACE_WARS during D5 midday (shot 28.3 opening): Tom patting Seja's shoulder b
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Seja with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Composition: Frame Tom and Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the low-angle tracking 35mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom checks the custom telemetry display mounted on the Jetta's dashboard through the open window. Beat 2 (3.2–6.8s): Tom squeezes Seja's shoulder encouragingly and taps the A-pillar shift indicator light while telling Seja not to be nervous. Beat 3 (6.8–10.0s): Seja grins and adjusts his thin-framed glasses with a confident nod.
+Beat 1 (0.0–2.8s): Tom checks the custom telemetry display mounted on the Jetta's dashboard through the open window. Beat 2 (2.8–8.2s): Tom squeezes Seja's shoulder encouragingly and taps the A-pillar shift indicator light while telling Seja not to be nervous. Beat 3 (8.2–10.0s): Seja grins and adjusts his thin-framed glasses with a confident nod.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
+Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 2.8–8.2s during the line, and sustained forward motion through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Tom moves smoothly on the near side while Seja holds the counter-angle.

@@ -31,9 +31,9 @@ Composition: 85mm mechanical insert framing the polished twin-turbo intake, oran
 Focus: Tack-sharp focus on the polished turbo plumbing and metallic-orange paint.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): A chrome torque wrench tightens the final stainless intercooler clamp inside the gleaming metallic-orange engine bay until the fitting locks solid. Beat 2 (3.2–6.8s): While Ami's voice plays off screen, the engine idles smoothly and the DIAG_LAPTOP screen beside the fender displays a steady, optimal twin-turbo pressure curve. Beat 3 (6.8–10.0s): Warm overhead garage lamps reflect off the lustrous pearl-orange fender and polished aluminum intake through 10.0s.
+Beat 1 (0.0–2.8s): A chrome torque wrench tightens the final stainless intercooler clamp inside the gleaming metallic-orange engine bay until the fitting locks solid. Beat 2 (2.8–7.9s): While Ami's voice plays off screen, the engine idles smoothly and the DIAG_LAPTOP screen beside the fender displays a steady, optimal twin-turbo pressure curve. Beat 3 (7.9–10.0s): Warm overhead garage lamps reflect off the lustrous pearl-orange fender and polished aluminum intake through 10.0s.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
+Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 2.8–7.9s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Wrench finishes tightening on screen left and withdraws; engine idles smoothly.

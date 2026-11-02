@@ -27,16 +27,16 @@ In VERS_GARAGE during D1 dusk (shot 12.5 opening): Tom lowering the carbon-fiber
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Neon-Green Turbo Sport Coupe and the twin cobalt-blue NOS_BOTTLES in the rear hatch and shop owner Ryh speaking off screen from the tool bench anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry inside VERS_GARAGE.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom presses the carbon-fiber hood down until the front latch locks and fastens both hood pins. Beat 2 (3.2–6.8s): Tom slides both steel hood-pin clips into their brackets with his thumbs and nods while speaking about keeping his shift points clean for a ten-second run. Beat 3 (6.8–10.0s): Tom walks to the left-hand driver door and pulls it open.
+Beat 1 (0.0–2.8s): Tom presses the carbon-fiber hood down until the front latch locks and fastens both hood pins. Beat 2 (2.8–7.7s): Tom slides both steel hood-pin clips into their brackets with his thumbs and nods while speaking about keeping his shift points clean for a ten-second run. Beat 3 (7.7–10.0s): Tom walks to the left-hand driver door and pulls it open.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.7s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the twin cobalt-blue NOS_BOTTLES in the rear hatch and shop owner Ryh speaking off screen from the tool bench.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane with smooth natural body follow-through.
 Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 
 

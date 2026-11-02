@@ -6,8 +6,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-@NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
-Keep exact approved appearance for TOM, MICDO, NYTRAN_R with props RX7, S2000; never show a studio reference backdrop.
+Keep exact approved appearance for TOM, MICDO with props RX7, S2000; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -24,18 +23,18 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 30.5. single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In RACE_WARS during D5 afternoon (shot 30.6 opening): Tom and Micdo standing side-by-side beside the deep-red RX7 at RACE_WARS watching the dust trail of Ny Tran's departure.
+In RACE_WARS during D5 afternoon (shot 30.6 opening): Tom and Micdo standing side-by-side beside the deep-red RX7 at RACE_WARS watching the dust trail of the departing black S2000.
 
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Tom and Micdo with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom turns urgently to Micdo, his expression grave. Beat 2 (3.2–6.8s): Tom grips Micdo's right forearm urgently and glances toward the paddock exit while warning Micdo that Ny Tran is going to track down Seja. Beat 3 (6.8–10.0s): Micdo's jaw sets as he prepares to pack up the paddock immediately.
+Beat 1 (0.0–2.8s): Tom turns urgently to Micdo, his expression grave. Beat 2 (2.8–7.7s): Tom grips Micdo's right forearm urgently and glances toward the paddock exit while warning Micdo that the Little Saigon crew is going to track down the white Jetta. Beat 3 (7.7–10.0s): Micdo's jaw sets as he prepares to pack up the paddock immediately.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.7s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Tom moves smoothly on the near side while Micdo holds the counter-angle.

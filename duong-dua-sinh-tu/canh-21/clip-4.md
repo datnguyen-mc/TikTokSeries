@@ -28,13 +28,13 @@ In TOTO_BACKYARD during N2 late night (shot 21.4 opening): Tom and Ami standing 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Ami with Chrome Torque Wrench & Garage Tool Set anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
+Composition: Frame Tom and Ami in balanced two-shot depth within TOTO_BACKYARD using the tight close-up 85mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_BACKYARD.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom rises from the bench to stand at eye level with Ami under the glowing patio lights. Beat 2 (3.2–6.8s): Tom closes his right hand gently around Ami's fingers between them and leans in slightly while telling her earnestly that he will protect her family. Beat 3 (6.8–10.0s): Ami holds his gaze with deep trust and warmth.
+Beat 1 (0.0–2.8s): Tom rises from the bench to stand at eye level with Ami under the glowing patio lights. Beat 2 (2.8–7.7s): Tom closes his right hand gently around Ami's fingers between them and leans in slightly while telling her earnestly that he will protect her family. Beat 3 (7.7–10.0s): Ami holds his gaze with deep trust and warmth.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_BACKYARD; Tom moves smoothly on the near side while Ami holds the counter-angle.

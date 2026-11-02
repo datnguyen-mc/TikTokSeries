@@ -27,19 +27,19 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In SAIGON_LOT during N2 night (shot 18.1 opening): Ny Tran and Cela leading ten matte-black sport motorcycles (MOTO_PACK) as they surround Tom and Micdo's smoking neon-green ECLIPSE at the entrance of SAIGON_LOT while the narrator introduces Ny Tran and Cela.
+In SAIGON_LOT during N2 night (shot 18.1 opening): Ny Tran and Cela leading ten matte-black sport motorcycles (MOTO_PACK) as they surround Micdo's side of the smoking neon-green ECLIPSE at the entrance of SAIGON_LOT while the narrator introduces Ny Tran and Cela.
 
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Micdo and Ny Tran with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ny Tran and Cela sweep their matte-black motorcycles across the front bumper of the Eclipse, cutting off the road. Beat 2 (3.2–6.8s): Micdo leans forward toward the windshield and points at the semicircle of headlights while warning Tom that ten black sport bikes have locked the road. Beat 3 (6.8–10.0s): the remaining riders form a tight semicircle around both flanks of the green coupe.
+Beat 1 (0.0–3.7s): Ny Tran and Cela sweep their matte-black motorcycles across the front bumper of the Eclipse, cutting off the road. Beat 2 (3.7–7.9s): Micdo leans forward toward the windshield and points at the semicircle of headlights while warning that ten black sport bikes have locked the road. Beat 3 (7.9–10.0s): the remaining riders form a tight semicircle around both flanks of the green coupe.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.7–7.9s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
@@ -74,7 +74,7 @@ Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: powerful turbocharged engine spo
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In SAIGON_LOT at 10.0s of shot 18.1: Ny Tran and Cela on their matte-black motorcycles blocking the front of Tom and Micdo's ECLIPSE in SAIGON_LOT.
+In SAIGON_LOT at 10.0s of shot 18.1: Ny Tran and Cela on their matte-black motorcycles blocking the front of Micdo's ECLIPSE in SAIGON_LOT.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

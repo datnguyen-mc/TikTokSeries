@@ -27,16 +27,16 @@ In RACE_ALLEY during N2 night (shot 16.5 opening): Micdo in RACE_ALLEY looking b
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo with the Neon-Green Turbo Sport Coupe and Tom in the smoking neon-green ECLIPSE turning back toward the alley entrance to rescue Micdo anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Micdo cleanly inside RACE_ALLEY using the kinetic handheld 35mm lens geometry.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside RACE_ALLEY.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo checks the high chain-link fence and locked steel loading doors on either side of the narrow alley. Beat 2 (3.2–6.8s): Micdo turns his head and shoulders from the rear strobe glow to the side cross-slot while saying under his breath that every exit is blocked. Beat 3 (6.8–10.0s): he braces his shoulders in the middle of the wet alley as engine roar echoes from the side cross-slot.
+Beat 1 (0.0–2.8s): Micdo checks the high chain-link fence and locked steel loading doors on either side of the narrow alley. Beat 2 (2.8–7.9s): Micdo turns his head and shoulders from the rear strobe glow to the side cross-slot while saying under his breath that every exit is blocked. Beat 3 (7.9–10.0s): he braces his shoulders in the middle of the wet alley as engine roar echoes from the side cross-slot.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.9s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo holds the primary plane aligned with Tom in the smoking neon-green ECLIPSE turning back toward the alley entrance to rescue Micdo.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo holds the primary plane with smooth natural body follow-through.
 Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 
 

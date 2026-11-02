@@ -28,13 +28,13 @@ In NYTRAN_MANSION during D4 dawn (shot 25.6 opening): Kinan and Nese turning tow
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Kinan and Nese with LAPD-FBI Highway Investigation Folders anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
+Composition: Frame Kinan and Nese in balanced two-shot depth within NYTRAN_MANSION using the dramatic push-in 50mm lens geometry.
+Focus: Keep tack-sharp focus on Kinan's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside NYTRAN_MANSION.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Kinan motions sharply with his hand toward the high-roofed warehouse building behind the residence. Beat 2 (3.2–6.8s): Kinan pivots on his heel at the veranda corner and leads Nese down the side walkway while ordering the second squad to follow him to the warehouse. Beat 3 (6.8–10.0s): both commanders stride down the side walkway toward the warehouse doors.
+Beat 1 (0.0–2.8s): Kinan motions sharply with his hand toward the high-roofed warehouse building behind the residence. Beat 2 (2.8–8.2s): Kinan pivots on his heel at the veranda corner and leads Nese down the side walkway while ordering the second squad to follow him to the warehouse. Beat 3 (8.2–10.0s): both commanders stride down the side walkway toward the warehouse doors.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–8.2s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_MANSION; Kinan moves smoothly on the near side while Nese holds the counter-angle.

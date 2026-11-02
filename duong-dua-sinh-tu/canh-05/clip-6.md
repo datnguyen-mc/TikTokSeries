@@ -27,17 +27,17 @@ In VERS_GARAGE during D1 morning (shot 05.6 opening): Tom seated inside the cab 
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Neon-Green Turbo Sport Coupe and the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Tom with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the dramatic push-in 50mm lens geometry inside VERS_GARAGE.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom turns the ignition key with his right hand, bringing the pickup engine to a smooth idle. Beat 2 (3.2–6.8s): Tom rests his left hand at the top of the steering wheel and adjusts the chrome side mirror with his right hand while speaking quietly with calm focus. Beat 3 (6.8–10.0s): Tom shifts the column lever into drive and eases the red pickup across the sunlit shop threshold.
+Beat 1 (0.0–2.8s): Tom turns the ignition key with his right hand, bringing the pickup engine to a smooth idle. Beat 2 (2.8–7.4s): Tom rests his left hand at the top of the steering wheel and adjusts the chrome side mirror with his right hand while speaking quietly with calm focus. Beat 3 (7.4–10.0s): Tom shifts the column lever into drive and eases the red pickup across the sunlit shop threshold.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.4s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 
 

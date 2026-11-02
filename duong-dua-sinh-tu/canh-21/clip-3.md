@@ -28,13 +28,13 @@ In TOTO_BACKYARD during N2 late night (shot 21.3 opening): Ami standing close to
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Tom with Chrome Torque Wrench & Garage Tool Set anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
+Composition: Frame Ami and Tom in balanced two-shot depth within TOTO_BACKYARD using the low-angle tracking 35mm lens geometry.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_BACKYARD.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami lowers the towel to her waist and lets out a long breath of relief. Beat 2 (3.2–6.8s): Ami steps half a pace closer to the bench, holding the folded towel against her apron while admitting with heartfelt emotion how worried she was. Beat 3 (6.8–10.0s): Tom reaches out and rests his palm gently over her hand.
+Beat 1 (0.0–2.8s): Ami lowers the towel to her waist and lets out a long breath of relief. Beat 2 (2.8–7.7s): Ami steps half a pace closer to the bench, holding the folded towel against her apron while admitting with heartfelt emotion how worried she was. Beat 3 (7.7–10.0s): Tom reaches out and rests his palm gently over her hand.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
+Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 2.8–7.7s during the line, and sustained forward motion through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_BACKYARD; Ami moves smoothly on the near side while Tom holds the counter-angle.

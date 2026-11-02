@@ -5,9 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-@Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. white-and-blue racing windbreaker over dark tee, cargo trousers, driving shoes, thin-framed glasses. Voice: quick, earnest, energetic Southern Vietnamese male voice.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Keep exact approved appearance for MICDO, SEJA_R, AMI with props JETTA, MOTO_PACK; never show a studio reference backdrop.
+@Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. white-and-blue racing windbreaker over dark tee, cargo trousers, driving shoes, thin-framed glasses. Voice: quick, earnest, energetic Southern Vietnamese male voice.
+Keep exact approved appearance for MICDO, AMI, SEJA_R with props JETTA, MOTO_PACK; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -32,18 +32,18 @@ In TOTO_FRONT during D7 sunset (shot 36.1 opening): Micdo and Ami standing on th
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
+Composition: Frame Micdo and Ami with the Alpine-White Tuned Sport Sedan anchored clearly in the wide 35mm lens geometry.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): the alpine-white Jetta rolls to a quiet stop along the street kerb in front of the house. Beat 2 (3.2–6.8s): Micdo places his hand on the porch railing and steps down onto the top stair while pointing toward Seja's white car at the kerb. Beat 3 (6.8–10.0s): Micdo and Ami walk down the porch steps across the green lawn toward the car.
+Beat 1 (0.0–2.8s): the alpine-white Jetta rolls to a quiet stop along the street kerb in front of the house. Beat 2 (2.8–7.7s): Micdo places his hand on the porch railing and steps down onto the top stair while pointing toward Seja's white car at the kerb. Beat 3 (7.7–10.0s): Micdo and Ami walk down the porch steps across the green lawn toward the car.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.7s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]

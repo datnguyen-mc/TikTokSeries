@@ -27,18 +27,18 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In RACE_WARS during D5 afternoon (shot 30.1 opening): Ny Tran and Cela striding up to Micdo's deep-red RX7 at the Toto paddock canopy in RACE_WARS while Micdo and Tom step forward.
+In RACE_WARS during D5 afternoon (shot 30.1 opening): Ny Tran and Cela striding up to Micdo's deep-red RX7 at the Toto paddock canopy in RACE_WARS while Micdo steps forward.
 
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Ny Tran and Micdo with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Ny Tran's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ny Tran places his open palm firmly against the crimson hood of Micdo's RX-7. Beat 2 (3.2–6.8s): Ny Tran steps around the nose of the red RX-7 and gestures sharply toward the desert exit road while demanding that Micdo answer for Seja. Beat 3 (6.8–10.0s): Micdo steps calmly around the front bumper to face Ny Tran head-on.
+Beat 1 (0.0–2.8s): Ny Tran places his open palm firmly against the crimson hood of Micdo's RX-7. Beat 2 (2.8–7.7s): Ny Tran steps around the nose of the red RX-7 and gestures sharply toward the desert exit road while demanding that Micdo answer for the missing white Jetta. Beat 3 (7.7–10.0s): Micdo steps calmly around the front bumper to face Ny Tran head-on.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.7s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Ny Tran moves smoothly on the near side while Micdo holds the counter-angle.
@@ -71,7 +71,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotar
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In RACE_WARS at 10.0s of shot 30.1: Ny Tran and Cela confronting Micdo and Tom beside the deep-red RX7 at RACE_WARS.
+In RACE_WARS at 10.0s of shot 30.1: Ny Tran and Cela confronting Micdo beside the deep-red RX7 at RACE_WARS.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

@@ -5,8 +5,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Onle = Onle: same approved identity, age 30; Broad-shouldered mechanic with a neat goatee, calm steady eyes, grease-weathered hands. dark matte utility driving jacket, black cap pulled low, dark jeans, leather driving gloves. Voice: steady, grounded Southern Vietnamese male voice.
-@Cina = Cina: same approved identity, age 28; Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear. fitted black zip driving jacket, fingerless leather driving gloves, dark tactical pants, compact radio earpiece. Voice: cool, firm, clear Southern Vietnamese female voice.
-Keep exact approved appearance for ONLE_H, CINA_H with props CIVIC_TRIO, RIG_18; never show a studio reference backdrop.
+@Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants. Voice: rough, fiery, direct Southern Vietnamese male voice.
+Keep exact approved appearance for ONLE_H, CEVIN_H with props CIVIC_TRIO, RIG_18; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -31,18 +31,18 @@ In HIGHWAY_NIGHT during N1 night (shot 04.1 opening): Onle in the left-hand driv
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Onle and Cina with the Three Matte-Black Precision Coupes anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Frame Onle and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the wide 35mm lens geometry.
+Focus: Keep tack-sharp focus on Onle's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Onle holds the coupe's throttle and steering dead-level within ten centimeters of the swaying trailer bumper. Beat 2 (3.2–6.8s): Onle unlatches the front hood cargo pins and sunroof lock with his right hand while speaking calmly over the radio headset. Beat 3 (6.8–10.0s): Onle watches Cevin brace inside the open trailer doorway and slide the first sealed electronics carton onto the coupe's reinforced hood.
+Beat 1 (0.0–3.7s): Onle holds the coupe's throttle and steering dead-level within ten centimeters of the swaying trailer bumper. Beat 2 (3.7–7.9s): Onle unlatches the front hood cargo pins and sunroof lock with his right hand while speaking calmly over the radio headset. Beat 3 (7.9–10.0s): Onle watches Cevin brace inside the open trailer doorway and slide the first sealed electronics carton onto the coupe's reinforced hood.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.7–7.9s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Onle moves smoothly on the near side while Cina holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Cina maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Onle moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Onle delivers the line with grounded veteran steadiness, calm broad-shouldered posture, measured gestures, and warm fraternal tone, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]

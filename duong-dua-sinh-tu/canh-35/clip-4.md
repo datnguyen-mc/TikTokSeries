@@ -30,12 +30,12 @@ In DESERT_HIGHWAY during D6 dusk (shot 35.4 opening): Tom holding the POLICE_RAD
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Tom and Micdo with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom keeps his eyes fixed on Micdo while finishing the emergency medical coordinates into the handset. Beat 2 (3.2–6.8s): Tom keeps the radio thumb-switch depressed and glances down at the highway mile marker while transmitting the urgent medevac coordinates. Beat 3 (6.8–10.0s): Tom lowers the radio handset slowly to his side.
+Beat 1 (0.0–2.8s): Tom keeps his eyes fixed on Micdo while finishing the emergency medical coordinates into the handset. Beat 2 (2.8–8.2s): Tom keeps the radio thumb-switch depressed and glances down at the highway mile marker while transmitting the urgent medevac coordinates. Beat 3 (8.2–10.0s): Tom lowers the radio handset slowly to his side.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–8.2s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Micdo holds the counter-angle.
@@ -68,7 +68,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spo
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In DESERT_HIGHWAY at 10.0s of shot 35.4: Tom lowering the POLICE_RADIO while Micdo slowly rises to his feet on DESERT_HIGHWAY.
+In DESERT_HIGHWAY at 10.0s of shot 35.4: Tom lowering the POLICE_RADIO while Micdo slowly rises to his feet beside Cevin on DESERT_HIGHWAY.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

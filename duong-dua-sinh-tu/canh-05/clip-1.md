@@ -30,16 +30,16 @@ In VERS_GARAGE during D1 morning (shot 05.1 opening): Tom standing at the open e
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Bright-Red Stepside Shop Pickup Truck and the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
+Composition: Frame Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry inside VERS_GARAGE.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom fits the chrome socket onto the upper turbocharger manifold bolt and pulls a smooth, measured quarter-turn. Beat 2 (3.2–6.8s): Tom straightens his posture smoothly beside the open carbon-fiber hood, resting the chrome wrench against his palm while speaking calmly toward the parts counter. Beat 3 (6.8–10.0s): Tom wipes his hands on a shop rag while glancing toward the red F150_TRUCK parked in the sunlit bay doorway.
+Beat 1 (0.0–4.0s): Tom fits the chrome socket onto the upper turbocharger manifold bolt and pulls a smooth, measured quarter-turn. Beat 2 (4.0–7.9s): Tom straightens his posture smoothly beside the open carbon-fiber hood, resting the chrome wrench against his palm while speaking calmly toward the parts counter. Beat 3 (7.9–10.0s): Tom wipes his hands on a shop rag while glancing toward the red F150_TRUCK parked in the sunlit bay doorway.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 4.0–7.9s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane with smooth natural body follow-through.
 Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 
 

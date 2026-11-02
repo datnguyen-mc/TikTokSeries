@@ -24,18 +24,18 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 Begin directly at 0.0s in this single location and camera setup with the location sound and physical movement already active from the very first frame; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 18.3. single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In SAIGON_LOT during N2 night (shot 18.4 opening): Micdo and Tom inside the stopped neon-green ECLIPSE in SAIGON_LOT with Ny Tran and Cela braking their motorcycles directly in front of the hood.
+In SAIGON_LOT during N2 night (shot 18.4 opening): Micdo and Tom inside the stopped neon-green ECLIPSE in SAIGON_LOT with Ny Tran braking his motorcycle directly in front of the hood.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo places a steadying hand on Tom's forearm as Tom switches off the ignition. Beat 2 (3.2–6.8s): Micdo squeezes Tom's forearm once to steady him and reaches his right hand to the door latch while telling Tom to keep a cool head. Beat 3 (6.8–10.0s): Ny Tran and Cela kick down their motorcycle side stands in the headlight beams ahead.
+Beat 1 (0.0–2.8s): Micdo places a steadying hand on Tom's forearm as Tom switches off the ignition. Beat 2 (2.8–7.4s): Micdo squeezes Tom's forearm once to steady him and reaches his right hand to the door latch while telling Tom to keep a cool head. Beat 3 (7.4–10.0s): Ny Tran kicks down his motorcycle side stand in the headlight beams ahead.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.4s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Tom holds the counter-angle.
@@ -68,7 +68,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: powerful turbocharged engine spool whin
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In SAIGON_LOT at 10.0s of shot 18.4: Tom and Micdo inside the stopped ECLIPSE in SAIGON_LOT as Ny Tran and Cela dismount ahead.
+In SAIGON_LOT at 10.0s of shot 18.4: Tom and Micdo inside the stopped ECLIPSE in SAIGON_LOT as Ny Tran dismounts ahead.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

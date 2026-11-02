@@ -29,13 +29,13 @@ In TOTO_PATIO during D1 midday (shot 08.4 opening): Ami stepping down the concre
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Cevin with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
+Composition: Frame Ami and Cevin in balanced two-shot depth within TOTO_PATIO using the tight close-up 85mm lens geometry.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_PATIO.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami hurries across the patio toward the displaced wooden table with dynamic footwork and realistic physical reactions. Beat 2 (3.2–6.8s): Ami steps squarely between the two men with her hands planted on her hips, demanding that Cevin stop the martial arts sparring outside her family's shop immediately; no blood, no graphic injuries, no gore, all movements are simulated stunt choreography. Beat 3 (6.8–10.0s): Cevin lowers his martial arts guard under Ami's gaze while Tom gives her a quiet, apologetic nod.
+Beat 1 (0.0–2.8s): Ami hurries across the patio toward the displaced wooden table with dynamic footwork and realistic physical reactions. Beat 2 (2.8–7.7s): Ami steps squarely between the two men with her hands planted on her hips, demanding that Cevin stop the martial arts sparring outside her family's shop immediately; no blood, no graphic injuries, no gore, all movements are simulated stunt choreography. Beat 3 (7.7–10.0s): Cevin lowers his martial arts guard under Ami's gaze while Tom gives her a quiet, apologetic nod.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Ami moves smoothly on the near side while Cevin holds the counter-angle.

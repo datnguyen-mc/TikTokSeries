@@ -30,12 +30,12 @@ In NYTRAN_WAREHOUSE during D4 morning (shot 27.4 opening): Nese, Kinan, and Tom 
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Nese and Kinan with LAPD-FBI Highway Investigation Folders anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Nese closes the manila CASE_FILES folder and looks squarely at Kinan across the desk. Beat 2 (3.2–6.8s): Nese slides the closed CASE_FILES folder across the steel desk toward Kinan and shakes his head slowly while reporting that not a single serial number matches. Beat 3 (6.8–10.0s): Kinan's expression hardens in shock as he looks around the stacked shelves.
+Beat 1 (0.0–2.8s): Nese closes the manila CASE_FILES folder and looks squarely at Kinan across the desk. Beat 2 (2.8–7.9s): Nese slides the closed CASE_FILES folder across the steel desk toward Kinan and shakes his head slowly while reporting that not a single serial number matches. Beat 3 (7.9–10.0s): Kinan's expression hardens in shock as he looks around the stacked shelves.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.9s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_WAREHOUSE; Nese moves smoothly on the near side while Kinan holds the counter-angle.

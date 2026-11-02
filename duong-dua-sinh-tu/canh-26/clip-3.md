@@ -28,13 +28,13 @@ In NYTRAN_MANSION during D4 dawn (shot 26.3 opening): Ny Tran outside on the dri
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ny Tran and Tom with Encrypted LAPD Tactical Radio Handset anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
+Composition: Frame Ny Tran and Tom in balanced two-shot depth within NYTRAN_MANSION using the low-angle tracking 35mm lens geometry.
+Focus: Keep tack-sharp focus on Ny Tran's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside NYTRAN_MANSION.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ny Tran's cold dark eyes widen in sudden recognition as he sees Tom's face behind the glass. Beat 2 (3.2–6.8s): Ny Tran leans his head and shoulders forward toward the open window gap, his jaw clenching as he calls out Tom's name aloud. Beat 3 (6.8–10.0s): Tom holds still inside the SUV, realizing his cover with Light Saigon is blown.
+Beat 1 (0.0–2.8s): Ny Tran's cold dark eyes widen in sudden recognition as he sees Tom's face behind the glass. Beat 2 (2.8–8.2s): Ny Tran leans his head and shoulders forward toward the open window gap, his jaw clenching as he calls out Tom's name aloud. Beat 3 (8.2–10.0s): Tom holds still inside the SUV, realizing his cover with Light Saigon is blown.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
+Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 2.8–8.2s during the line, and sustained forward motion through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_MANSION; Ny Tran moves smoothly on the near side while Tom holds the counter-angle.

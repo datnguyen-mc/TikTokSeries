@@ -30,12 +30,12 @@ In TOTO_PATIO during D1 midday (shot 08.6 opening): Tom, Cevin, and Ami on TOTO_
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Tom and Ami with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): the deep-red RX7 settles on its suspension at the kerb with its rotary exhaust burbling. Beat 2 (3.2–6.8s): Tom straightens his denim work shirt with both hands, steadies his breathing, and steps half a pace beside Ami while speaking calmly to her. Beat 3 (6.8–10.0s): the left-hand driver door of the deep-red RX7 unlatches and swings open.
+Beat 1 (0.0–2.8s): the deep-red RX7 settles on its suspension at the kerb with its rotary exhaust burbling. Beat 2 (2.8–7.4s): Tom straightens his denim work shirt with both hands, steadies his breathing, and steps half a pace beside Ami while speaking calmly to her. Beat 3 (7.4–10.0s): the left-hand driver door of the deep-red RX7 unlatches and swings open.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.4s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Tom moves smoothly on the near side while Ami holds the counter-angle.

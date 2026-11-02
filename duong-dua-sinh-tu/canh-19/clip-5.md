@@ -5,9 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
-@NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. tailored black snake-pattern leather jacket over open-collar crimson silk shirt, gold chain, black trousers, polished boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for CELA, NYTRAN, MICDO with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
+@Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
+Keep exact approved appearance for CELA, MICDO, TOM_R with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -24,23 +24,23 @@ Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù
 Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 19.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In SAIGON_LOT during N2 night (shot 19.5 opening): Cela and Ny Tran wheeling their matte-black sport motorcycles toward the gate of SAIGON_LOT while Micdo and Tom stand on screen left.
+In SAIGON_LOT during N2 night (shot 19.5 opening): Cela wheeling his matte-black sport motorcycle toward the gate of SAIGON_LOT while Micdo and Tom stand on screen left.
 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cela and Ny Tran with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Cela's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Cela and Micdo with the Matte-Black Street Sport Motorcycles anchored clearly in the kinetic handheld 35mm lens geometry.
+Focus: Keep tack-sharp focus on Cela's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Matte-Black Street Sport Motorcycles, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Cela points a gloved finger toward the road exit before lowering his helmet visor. Beat 2 (3.2–6.8s): Cela twists his right wrist on the throttle grip to bark the motorcycle engine and snaps his helmet visor shut while warning them to clear out immediately. Beat 3 (6.8–10.0s): the pack of matte-black motorcycles roars out through the chain-link gate into the night.
+Beat 1 (0.0–2.8s): Cela points a gloved finger toward the road exit before lowering his helmet visor. Beat 2 (2.8–7.4s): Cela twists his right wrist on the throttle grip to bark the motorcycle engine and snaps his helmet visor shut while warning them to clear out immediately. Beat 3 (7.4–10.0s): the pack of matte-black motorcycles roars out through the chain-link gate into the night.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.4s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Cela moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Cela delivers the line with watchful lieutenant tension, coiled shoulder posture, sharp chin movements, and clipped raspy projection, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Cela moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Cela delivers the line with watchful lieutenant tension, coiled shoulder posture, sharp chin movements, and clipped raspy projection, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -69,7 +69,7 @@ Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: powerful turbocharged engine spo
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In SAIGON_LOT at 10.0s of shot 19.5: Cela and Ny Tran riding their matte-black motorcycles out the gate of SAIGON_LOT.
+In SAIGON_LOT at 10.0s of shot 19.5: Cela riding his matte-black motorcycle out the gate of SAIGON_LOT.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

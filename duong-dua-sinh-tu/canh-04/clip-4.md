@@ -5,9 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Cina = Cina: same approved identity, age 28; Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear. fitted black zip driving jacket, fingerless leather driving gloves, dark tactical pants, compact radio earpiece. Voice: cool, firm, clear Southern Vietnamese female voice.
-@Onle = Onle: same approved identity, age 30; Broad-shouldered mechanic with a neat goatee, calm steady eyes, grease-weathered hands. dark matte utility driving jacket, black cap pulled low, dark jeans, leather driving gloves. Voice: steady, grounded Southern Vietnamese male voice.
-@Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants. Voice: rough, fiery, direct Southern Vietnamese male voice.
-Keep exact approved appearance for CINA_H, ONLE_H, CEVIN_H with props CIVIC_TRIO, RIG_18; never show a studio reference backdrop.
+Keep exact approved appearance for CINA_H with props CIVIC_TRIO, RIG_18; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -24,23 +22,23 @@ Onle lái chiếc Civic thứ ba áp sát đuôi container để đồng đội 
 Begin directly at 0.0s in this single location and camera setup with the location sound and physical movement already active from the very first frame; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 04.3. single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In HIGHWAY_NIGHT during N1 night (shot 04.4 opening): Cina in the left-hand driver seat of the #2 matte-black Civic coupe pacing alongside Onle's #3 coupe as the highway exit ramp approaches ahead.
+In HIGHWAY_NIGHT during N1 night (shot 04.4 opening): Cina in the left-hand driver seat of the #2 matte-black Civic coupe pacing alongside the #3 coupe as the highway exit ramp approaches ahead.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cina and Onle with the Three Matte-Black Precision Coupes anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Frame Cina with the Three Matte-Black Precision Coupes anchored clearly in the tight close-up 85mm lens geometry inside HIGHWAY_NIGHT.
+Focus: Keep tack-sharp focus on Cina's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Cina glances right toward Onle and Cevin's coupe and checks the one-mile exit marker ahead. Beat 2 (3.2–6.8s): Cina taps her right turn indicator stalk and eases the steering wheel toward the exit lane while speaking over the tactical earpiece to signal the formation break-off. Beat 3 (6.8–10.0s): Cina eases her throttle to open a clean lane gap for the three-car peel-off.
+Beat 1 (0.0–2.8s): Cina glances right toward the #3 matte-black coupe and checks the one-mile exit marker ahead. Beat 2 (2.8–7.1s): Cina taps her right turn indicator stalk and eases the steering wheel toward the exit lane while speaking over the tactical earpiece to signal the formation break-off. Beat 3 (7.1–10.0s): Cina eases her throttle to open a clean lane gap for the three-car peel-off.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.1s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina moves smoothly on the near side while Onle holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity, while Onle maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cina holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity and organic micro-expressions.
 
 
 [BODY, MOUTH AND FACE STANDARD]

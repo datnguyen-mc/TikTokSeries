@@ -31,9 +31,9 @@ Composition: 85mm tabletop document insert on the highway map, manila folders, a
 Focus: Tack-sharp focus on the vehicle surveillance photos and map pin markers.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): A hand places three glossy surveillance photographs of the green-underglow highway formation onto the Interstate 10 map grid. Beat 2 (3.2–6.8s): While Tom's voice plays off screen, a wooden pointer traces the eastbound desert highway corridor toward the South Los Angeles warehouse district. Beat 3 (6.8–10.0s): Slatted afternoon sunlight cuts across the manila folders and pinned vehicle photos without any readable text.
+Beat 1 (0.0–2.8s): A hand places three glossy surveillance photographs of the green-underglow highway formation onto the Interstate 10 map grid. Beat 2 (2.8–7.7s): While Tom's voice plays off screen, a wooden pointer traces the eastbound desert highway corridor toward the South Los Angeles warehouse district. Beat 3 (7.7–10.0s): Slatted afternoon sunlight cuts across the manila folders and pinned vehicle photos without any readable text.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
+Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 2.8–7.7s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Hand enters from screen left to place photos at center; pointer traces left-to-right.

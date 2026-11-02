@@ -30,17 +30,17 @@ In RACE_MEET during N2 night (shot 15.1 opening): Tom inside RACE_COCKPIT of the
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Neon-Green Turbo Sport Coupe and Micdo in his deep-red RX7 crossing the finish line a car-length ahead and stepping out to claim the wager anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry inside RACE_MEET.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom flips the secondary stage-two nitrous switch with his right hand despite the flashing laptop warning. Beat 2 (3.2–6.8s): Tom braces his left arm locked on the vibrating steering wheel and leans forward into the boost surge while shouting that he needs one last burst before the finish line. Beat 3 (6.8–10.0s): the intake manifold shudders violently under excessive boost pressure.
+Beat 1 (0.0–2.8s): Tom flips the secondary stage-two nitrous switch with his right hand despite the flashing laptop warning. Beat 2 (2.8–7.7s): Tom braces his left arm locked on the vibrating steering wheel and leans forward into the boost surge while shouting that he needs one last burst before the finish line. Beat 3 (7.7–10.0s): the intake manifold shudders violently under excessive boost pressure.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.7s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom holds the primary plane aligned with Micdo in his deep-red RX7 crossing the finish line a car-length ahead and stepping out to claim the wager. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 
 

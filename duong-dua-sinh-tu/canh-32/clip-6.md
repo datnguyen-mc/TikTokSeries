@@ -29,13 +29,13 @@ In DESERT_HIGHWAY during D6 late afternoon (shot 32.6 opening): Micdo in the lea
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Micdo and Cevin with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo checks his rearview mirror where Cevin is braced beside the semi-truck's fuel tank. Beat 2 (3.2–6.8s): Micdo presses his collar radio switch with his right hand while keeping his eyes on the side mirror, ordering Cina to bring her #2 coupe in immediately. Beat 3 (6.8–10.0s): Cina's second matte-black coupe surges forward along the right lane toward the trailer flank.
+Beat 1 (0.0–2.8s): Micdo checks his rearview mirror where Cevin is braced beside the semi-truck's fuel tank. Beat 2 (2.8–7.1s): Micdo presses his collar radio switch with his right hand while keeping his eyes on the side mirror, ordering the second black coupe to pull in immediately. Beat 3 (7.1–10.0s): the second matte-black coupe surges forward along the right lane toward the trailer flank.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.1s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
@@ -69,7 +69,7 @@ Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In DESERT_HIGHWAY at 10.0s of shot 32.6: Micdo in the lead coupe as Cina's #2 black coupe charges forward beside RIG_18 on DESERT_HIGHWAY.
+In DESERT_HIGHWAY at 10.0s of shot 32.6: Micdo in the lead coupe as the #2 black coupe charges forward beside RIG_18 on DESERT_HIGHWAY.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

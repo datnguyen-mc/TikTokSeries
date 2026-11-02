@@ -24,18 +24,18 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 20.2. no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_BACKYARD during N2 late night (shot 20.3 opening): Micdo placing his hand firmly on Tom's shoulder in TOTO_BACKYARD facing Cevin and Cina.
+In TOTO_BACKYARD during N2 late night (shot 20.3 opening): Micdo placing his hand firmly on Tom's shoulder in TOTO_BACKYARD facing Cevin across the wooden table.
 
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Tom with Chrome Torque Wrench & Garage Tool Set anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
+Composition: Frame Micdo and Tom in balanced two-shot depth within TOTO_BACKYARD using the low-angle tracking 35mm lens geometry.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_BACKYARD.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo looks directly at Cevin across the wooden table to make his command unmistakable. Beat 2 (3.2–6.8s): Micdo steps half a pace forward at the head of the table, planting his left hand on the wood while declaring that from this moment on Tom is part of the family. Beat 3 (6.8–10.0s): Tom stands tall beside Micdo as the crew absorbs the leader's decree.
+Beat 1 (0.0–2.8s): Micdo looks directly at Cevin across the wooden table to make his command unmistakable. Beat 2 (2.8–7.7s): Micdo steps half a pace forward at the head of the table, planting his left hand on the wood while declaring that from this moment on Tom is part of the family. Beat 3 (7.7–10.0s): Tom stands tall beside Micdo as the crew absorbs the leader's decree.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
+Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 2.8–7.7s during the line, and sustained forward motion through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_BACKYARD; Micdo moves smoothly on the near side while Tom holds the counter-angle.

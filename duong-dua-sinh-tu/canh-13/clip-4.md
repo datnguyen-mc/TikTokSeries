@@ -30,12 +30,12 @@ In RACE_MEET during N2 night (shot 13.4 opening): Micdo and Cevin standing besid
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Micdo and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo looks over the Eclipse's intercooler mouth and rear hatch before meeting Tom's eyes. Beat 2 (3.2–6.8s): Micdo tilts his head slightly, folds his muscular arms across his chest, and asks with a cool half-smile if Tom is crazy enough to bet his car against the RX-7. Beat 3 (6.8–10.0s): Cevin smirks behind Micdo, rubbing his hands together eagerly.
+Beat 1 (0.0–2.8s): Micdo looks over the Eclipse's intercooler mouth and rear hatch before meeting Tom's eyes. Beat 2 (2.8–7.7s): Micdo tilts his head slightly, folds his muscular arms across his chest, and asks with a cool half-smile if Tom is crazy enough to bet his car against the RX-7. Beat 3 (7.7–10.0s): Cevin smirks behind Micdo, rubbing his hands together eagerly.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Micdo moves smoothly on the near side while Tom holds the counter-angle.

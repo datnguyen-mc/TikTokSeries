@@ -29,13 +29,13 @@ In NYTRAN_MANSION during D4 dawn (shot 26.5 opening): Nese stepping between Ny T
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Nese and Ny Tran with Encrypted LAPD Tactical Radio Handset anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
+Composition: Frame Nese and Ny Tran in balanced two-shot depth within NYTRAN_MANSION using the kinetic handheld 35mm lens geometry.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside NYTRAN_MANSION.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Nese places a firm hand on Ny Tran's shoulder to turn him away from the vehicle window. Beat 2 (3.2–6.8s): Nese steps firmly between Ny Tran and the SUV door, guiding Ny Tran's shoulder around toward the veranda while ordering the escort to move them forward. Beat 3 (6.8–10.0s): Ny Tran is led three paces back toward the stone steps while still looking back over his shoulder.
+Beat 1 (0.0–2.8s): Nese places a firm hand on Ny Tran's shoulder to turn him away from the vehicle window. Beat 2 (2.8–7.9s): Nese steps firmly between Ny Tran and the SUV door, guiding Ny Tran's shoulder around toward the veranda while ordering the escort to move them forward. Beat 3 (7.9–10.0s): Ny Tran is led three paces back toward the stone steps while still looking back over his shoulder.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.9s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_MANSION; Nese moves smoothly on the near side while Ny Tran holds the counter-angle.

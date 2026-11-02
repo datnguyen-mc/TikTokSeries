@@ -5,8 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. black hooded tactical vest over dark long-sleeve shirt, fingerless driving gloves, safety harness clip at waist, dark cargo pants. Voice: rough, fiery, direct Southern Vietnamese male voice.
-@Cina = Cina: same approved identity, age 28; Lean athletic woman with short tousled black hair, fierce confident gaze, small hoop earring in left ear. fitted black zip driving jacket, fingerless leather driving gloves, dark tactical pants, compact radio earpiece. Voice: cool, firm, clear Southern Vietnamese female voice.
-Keep exact approved appearance for CEVIN_H, CINA_H with props CIVIC_TRIO, RIG_18, MAGNETIC_LATCH; never show a studio reference backdrop.
+Keep exact approved appearance for CEVIN_H with props CIVIC_TRIO, RIG_18, MAGNETIC_LATCH; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -23,23 +22,23 @@ Cina Tion điều khiển chiếc Civic thứ hai áp sát đuôi xe tải và k
 Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 03.5. single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In HIGHWAY_NIGHT during N1 night (shot 03.6 opening): Cevin at the wheel inside the elevated cab of RIG_18 looking into the wide side mirror where Cina's #2 matte-black coupe paces the open trailer flank.
+In HIGHWAY_NIGHT during N1 night (shot 03.6 opening): Cevin at the wheel inside the elevated cab of RIG_18 looking into the wide side mirror where the #2 matte-black coupe paces the open trailer flank.
 
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cevin and Cina with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Frame Cevin with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry inside HIGHWAY_NIGHT.
+Focus: Keep tack-sharp focus on Cevin's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Cevin adjusts the steering wheel a fraction to keep the open trailer tracking straight down the center lane. Beat 2 (3.2–6.8s): Cevin leans slightly toward the right side mirror and speaks into his wrist mic while keeping the heavy steering wheel dead-centered for Onle's approach from behind. Beat 3 (6.8–10.0s): Cevin locks eyes on the mirror as the third matte-black coupe's green underglow moves into the rear docking slot.
+Beat 1 (0.0–2.8s): Cevin adjusts the steering wheel a fraction to keep the open trailer tracking straight down the center lane. Beat 2 (2.8–7.1s): Cevin leans slightly toward the right side mirror and speaks into his wrist mic while keeping the heavy steering wheel dead-centered for the third coupe's approach from behind. Beat 3 (7.1–10.0s): Cevin locks eyes on the mirror as the third matte-black coupe's green underglow moves into the rear docking slot.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.1s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin moves smoothly on the near side while Cina holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Cevin delivers the line with coiled athletic stunt energy, sharp jaw focus, decisive hand gestures, and fiery vocal urgency, while Cina maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside HIGHWAY_NIGHT; Cevin holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Cevin delivers the line with coiled athletic stunt energy, sharp jaw focus, decisive hand gestures, and fiery vocal urgency and organic micro-expressions.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -69,7 +68,7 @@ Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In HIGHWAY_NIGHT at 10.0s of shot 03.6: Cevin holding the RIG_18 cab steady in the center lane while Cina's coupe escorts on the left flank.
+In HIGHWAY_NIGHT at 10.0s of shot 03.6: Cevin holding the RIG_18 cab steady in the center lane while the #2 black coupe escorts on the left flank.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

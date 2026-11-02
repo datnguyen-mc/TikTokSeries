@@ -27,16 +27,16 @@ In RACE_ALLEY during N2 night (shot 16.3 opening): Micdo sprinting alone down th
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo with the Neon-Green Turbo Sport Coupe and Tom in the smoking neon-green ECLIPSE turning back toward the alley entrance to rescue Micdo anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Micdo cleanly inside RACE_ALLEY using the low-angle tracking 35mm lens geometry.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside RACE_ALLEY.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo vaults cleanly over a low wooden pallet stack, boots splashing through wet asphalt reflections. Beat 2 (3.2–6.8s): Micdo pumps his arms in a powerful sprint down the wet brick corridor, weaving past a steel dumpster while muttering that he must cut through the rear alley. Beat 3 (6.8–10.0s): Micdo slows his stride as brilliant red-and-blue roof strobes swing into view at the far end of the alley.
+Beat 1 (0.0–2.8s): Micdo vaults cleanly over a low wooden pallet stack, boots splashing through wet asphalt reflections. Beat 2 (2.8–7.9s): Micdo pumps his arms in a powerful sprint down the wet brick corridor, weaving past a steel dumpster while muttering that he must cut through the rear alley. Beat 3 (7.9–10.0s): Micdo slows his stride as brilliant red-and-blue roof strobes swing into view at the far end of the alley.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
+Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 2.8–7.9s during the line, and sustained forward motion through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo holds the primary plane aligned with Tom in the smoking neon-green ECLIPSE turning back toward the alley entrance to rescue Micdo.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo holds the primary plane with smooth natural body follow-through.
 Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 
 

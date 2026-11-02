@@ -24,18 +24,18 @@ Suốt nhiều đêm liền, Tom cùng Seja và Onle đại tu động cơ và s
 Begin directly at 0.0s in this single location and camera setup with the location sound and physical movement already active from the very first frame; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 23.3. single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_GARAGE during N3 night (shot 23.4 opening): Tom, Seja, and Onle beside the metallic-orange SUPRA in TOTO_GARAGE as Ami walks in carrying a tray of hot food.
+In TOTO_GARAGE during N3 night (shot 23.4 opening): Tom and Seja beside the metallic-orange SUPRA in TOTO_GARAGE as Ami walks in carrying a tray of hot food.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Tom and Ami with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami sets the tray of steaming bowls on the cleared corner of the workbench and hands Tom a clean shop towel. Beat 2 (3.2–6.8s): Tom wipes the grease from both palms with the clean shop towel and turns his shoulders toward Ami, Seja, and Onle as he speaks warmly about family. Beat 3 (6.8–10.0s): Ami smiles warmly at Tom under the golden garage lights.
+Beat 1 (0.0–2.8s): Ami sets the tray of steaming bowls on the cleared corner of the workbench and hands Tom a clean shop towel. Beat 2 (2.8–7.9s): Tom wipes the grease from both palms with the clean shop towel and turns his shoulders toward Ami and Seja as he speaks warmly about family. Beat 3 (7.9–10.0s): Ami smiles warmly at Tom under the golden garage lights.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.9s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Ami holds the counter-angle.
@@ -69,7 +69,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spo
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In TOTO_GARAGE at 10.0s of shot 23.4: Tom, Ami, Seja, and Onle gathered around the workbench beside the metallic-orange SUPRA in TOTO_GARAGE.
+In TOTO_GARAGE at 10.0s of shot 23.4: Tom, Ami, and Seja gathered around the workbench beside the metallic-orange SUPRA in TOTO_GARAGE.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

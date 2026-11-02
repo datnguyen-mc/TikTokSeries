@@ -24,18 +24,18 @@ Dừng xe bên lề sa mạc, thấy Cevin kiệt sức không thể chờ xe c�
 Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 35.1. no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In DESERT_HIGHWAY during D6 dusk (shot 35.2 opening): Ami kneeling beside Cevin and Micdo on the dusk shoulder of DESERT_HIGHWAY looking up anxiously at the empty desert road.
+In DESERT_HIGHWAY during D6 dusk (shot 35.2 opening): Ami kneeling beside Cevin on the dusk shoulder of DESERT_HIGHWAY looking up anxiously toward Tom by the open door of the SUPRA.
 
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Ami and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami glances down the long empty stretch of desert highway in both directions. Beat 2 (3.2–6.8s): Ami keeps her left hand steady on the folded towel and turns her head urgently toward Tom while saying an ambulance will never reach them in ten minutes. Beat 3 (6.8–10.0s): Tom steps back one pace toward the Supra's open door and reaches inside his jacket.
+Beat 1 (0.0–2.8s): Ami glances down the long empty stretch of desert highway in both directions. Beat 2 (2.8–7.9s): Ami keeps her left hand steady on the folded towel and turns her head urgently toward Tom while saying an ambulance will never reach them in ten minutes. Beat 3 (7.9–10.0s): Tom steps back one pace toward the Supra's open door and reaches inside his jacket.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
+Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 2.8–7.9s synchronized with speech, and smooth settling momentum through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Ami moves smoothly on the near side while Tom holds the counter-angle.
@@ -68,7 +68,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spo
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In DESERT_HIGHWAY at 10.0s of shot 35.2: Tom reaching into his jacket as Ami and Micdo kneel beside Cevin on DESERT_HIGHWAY.
+In DESERT_HIGHWAY at 10.0s of shot 35.2: Tom reaching into his jacket as Ami kneels beside Cevin on DESERT_HIGHWAY.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

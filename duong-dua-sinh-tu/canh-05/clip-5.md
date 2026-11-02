@@ -27,16 +27,16 @@ In VERS_GARAGE during D1 morning (shot 05.5 opening): Tom walking two paces alon
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Neon-Green Turbo Sport Coupe and the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Tom with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the kinetic handheld 35mm lens geometry inside VERS_GARAGE.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom grasps the chrome driver door handle of the red pickup with his left hand. Beat 2 (3.2–6.8s): Tom depresses the chrome thumb latch and swings the pickup driver door outward in a smooth arc while speaking back toward the garage counter. Beat 3 (6.8–10.0s): Tom opens the driver door and settles into the cab seat behind the steering wheel.
+Beat 1 (0.0–2.8s): Tom grasps the chrome driver door handle of the red pickup with his left hand. Beat 2 (2.8–7.4s): Tom depresses the chrome thumb latch and swings the pickup driver door outward in a smooth arc while speaking back toward the garage counter. Beat 3 (7.4–10.0s): Tom opens the driver door and settles into the cab seat behind the steering wheel.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.4s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane with smooth natural body follow-through.
 Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 
 

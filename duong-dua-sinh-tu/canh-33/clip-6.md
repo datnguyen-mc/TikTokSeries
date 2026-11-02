@@ -5,8 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
+@Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. scuffed black tactical vest with a clean folded towel held against his waist harness after the high-speed stunt, sweat-streaked face, fingerless gloves. Voice: rough, fiery, direct Southern Vietnamese male voice.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. cropped tan suede jacket over burgundy top, dark jeans, sneakers, hair loose over shoulders. Voice: warm, clear, expressive Southern Vietnamese female voice.
-Keep exact approved appearance for TOM_R, AMI_N with props CIVIC_TRIO, RIG_18, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for TOM_R, CEVIN_W, AMI_N with props CIVIC_TRIO, RIG_18, SUPRA; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -28,18 +29,18 @@ In DESERT_HIGHWAY during D6 late afternoon (shot 33.6 opening): Tom in the left-
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Ami with the Three Matte-Black Precision Coupes anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Frame Tom and Cevin with the 18-Wheel Charcoal Semi-Truck & Silver Trailer anchored clearly in the dramatic push-in 50mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the 18-Wheel Charcoal Semi-Truck & Silver Trailer, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom matches the semi-truck's 110 km/h speed in the right lane directly behind where Cevin braces on the tether cable. Beat 2 (3.2–6.8s): Tom feathers the throttle and steers the nose of the open-targa orange Supra smoothly into the slot beside Cevin while telling Ami to hold steady. Beat 3 (6.8–10.0s): Ami braces both hands on the dashboard and nods with fierce determination.
+Beat 1 (0.0–2.8s): Tom matches the semi-truck's 110 km/h speed in the right lane directly behind where Cevin braces on the tether cable. Beat 2 (2.8–7.7s): Tom feathers the throttle and steers the nose of the open-targa orange Supra smoothly into the slot beside Cevin while telling Ami to hold steady. Beat 3 (7.7–10.0s): Ami braces both hands on the dashboard and nods with fierce determination.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.7s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Cevin holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]

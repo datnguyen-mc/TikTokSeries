@@ -31,9 +31,9 @@ Composition: 85mm tabletop insert centered on the PINK_SLIP sleeve and manila CA
 Focus: Tack-sharp focus on the plastic title sleeve and Tom's fingers.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Nese's hand slides the clear plastic sleeve holding the folded vehicle registration certificate across the polished oak tabletop into the afternoon light. Beat 2 (3.2–6.8s): While Nese's voice plays off screen, Tom's right hand enters from screen right and closes five fingers around the edge of the title sleeve. Beat 3 (6.8–10.0s): Tom lifts the PINK_SLIP cleanly off the manila CASE_FILES and holds it steady through 10.0s.
+Beat 1 (0.0–2.8s): Nese's hand slides the clear plastic sleeve holding the folded vehicle registration certificate across the polished oak tabletop into the afternoon light. Beat 2 (2.8–7.7s): While Nese's voice plays off screen, Tom's right hand enters from screen right and closes five fingers around the edge of the title sleeve. Beat 3 (7.7–10.0s): Tom lifts the PINK_SLIP cleanly off the manila CASE_FILES and holds it steady through 10.0s.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
+Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 2.8–7.7s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Sleeve slides screen-left to screen-right; Tom's hand lifts it from screen right.

@@ -6,8 +6,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. tailored black snake-pattern leather jacket over open-collar crimson silk shirt, gold chain, black trousers, polished boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-@Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
-Keep exact approved appearance for NYTRAN, TOM_R, CELA with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
+@Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
+Keep exact approved appearance for NYTRAN, TOM_R, MICDO with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -24,18 +24,18 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 18.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In SAIGON_LOT during N2 night (shot 18.5 opening): Ny Tran walking up to the driver window of the neon-green ECLIPSE in SAIGON_LOT with Cela beside him, facing Tom and Micdo.
+In SAIGON_LOT during N2 night (shot 18.5 opening): Ny Tran walking up to the driver window of the neon-green ECLIPSE in SAIGON_LOT facing Tom and Micdo.
 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Ny Tran and Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Ny Tran's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ny Tran raps his knuckles sharply against Tom's side window glass, his expression cold and commanding. Beat 2 (3.2–6.8s): Ny Tran steps back half a pace from the driver glass and motions sharply downward toward the gravel with his gloved hand, ordering both of them to step out. Beat 3 (6.8–10.0s): Micdo unlatches his door and steps out first with both palms raised calmly at shoulder height, followed by Tom.
+Beat 1 (0.0–2.8s): Ny Tran raps his knuckles sharply against Tom's side window glass, his expression cold and commanding. Beat 2 (2.8–7.4s): Ny Tran steps back half a pace from the driver glass and motions sharply downward toward the gravel with his gloved hand, ordering both of them to step out. Beat 3 (7.4–10.0s): Micdo unlatches his door and steps out first with both palms raised calmly at shoulder height, followed by Tom.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.4s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Ny Tran moves smoothly on the near side while Tom holds the counter-angle.
@@ -68,7 +68,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: powerful turbocharged engine spool whin
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In SAIGON_LOT at 10.0s of shot 18.5: Micdo and Tom standing beside the neon-green ECLIPSE with hands raised facing Ny Tran and Cela in SAIGON_LOT.
+In SAIGON_LOT at 10.0s of shot 18.5: Micdo and Tom standing beside the neon-green ECLIPSE with hands raised facing Ny Tran in SAIGON_LOT.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

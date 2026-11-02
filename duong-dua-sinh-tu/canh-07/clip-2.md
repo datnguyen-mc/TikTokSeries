@@ -30,12 +30,12 @@ In TOTO_PATIO during D1 midday (shot 07.2 opening): Seja and Onle standing besid
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Seja and Cevin with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Seja steps half a pace forward, gesturing with his hands to calm the tension before a sparring confrontation starts at the family shop. Beat 2 (3.2–6.8s): Seja reaches his right hand gently toward Cevin's forearm to slow his pace while speaking earnestly and glancing toward the open diner door. Beat 3 (6.8–10.0s): Cevin brushes past Seja's warning and plants his boots at the center of the patio tables.
+Beat 1 (0.0–2.8s): Seja steps half a pace forward, gesturing with his hands to calm the tension before a sparring confrontation starts at the family shop. Beat 2 (2.8–7.1s): Seja reaches his right hand gently toward Cevin's forearm to slow his pace while speaking earnestly and glancing toward the open diner door. Beat 3 (7.1–10.0s): Cevin brushes past Seja's warning and plants his boots at the center of the patio tables.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
+Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 2.8–7.1s synchronized with speech, and smooth settling momentum through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Seja moves smoothly on the near side while Cevin holds the counter-angle.
@@ -67,7 +67,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: throaty V8 pickup engine rumble, clean 
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In TOTO_PATIO at 10.0s of shot 07.2: Cevin planted at the center of TOTO_PATIO with Seja and Onle beside him as Tom appears at the doorway.
+In TOTO_PATIO at 10.0s of shot 07.2: Cevin planted at the center of TOTO_PATIO with Seja and Onle beside him facing the diner doorway.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

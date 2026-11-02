@@ -31,9 +31,9 @@ Composition: 85mm automotive detail insert on the chrome supercharger scoop, blo
 Focus: Tack-sharp focus on the triple-butterfly intake plates and chrome blower.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Warm tungsten overhead light gleams across the mirror-chromed triple-butterfly intake scoop and heavy ribbed blower belt rising through the satin-black hood of the 1970 CHARGER. Beat 2 (3.2–6.8s): While Micdo's voice plays off screen, his hand enters frame and rests reverently on the cold chrome supercharger housing. Beat 3 (6.8–10.0s): Micdo's fingers trace slowly along the polished chrome blower housing and satin-black fender line under warm tungsten light through 10.0s.
+Beat 1 (0.0–2.8s): Warm tungsten overhead light gleams across the mirror-chromed triple-butterfly intake scoop and heavy ribbed blower belt rising through the satin-black hood of the 1970 CHARGER. Beat 2 (2.8–7.7s): While Micdo's voice plays off screen, his hand enters frame and rests reverently on the cold chrome supercharger housing. Beat 3 (7.7–10.0s): Micdo's fingers trace slowly along the polished chrome blower housing and satin-black fender line under warm tungsten light through 10.0s.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
+Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 2.8–7.7s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Hand enters from screen left to rest on the chrome housing at center.

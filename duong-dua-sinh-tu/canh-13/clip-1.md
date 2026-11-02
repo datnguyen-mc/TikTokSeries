@@ -32,13 +32,13 @@ In RACE_MEET during N2 night (shot 13.1 opening): Tom standing beside his neon-g
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with Vehicle Title Registration Certificate anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
+Composition: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom draws the clear plastic PINK_SLIP sleeve from inside his black leather racing jacket and holds it up under the sodium lights. Beat 2 (3.2–6.8s): Tom steps half a pace forward into the sodium floodlight and extends the clear PINK_SLIP sleeve at chest height while stating he is wagering his vehicle title. Beat 3 (6.8–10.0s): Micdo and Cevin turn toward Tom as the surrounding street crowd murmurs in surprise.
+Beat 1 (0.0–2.8s): Tom draws the clear plastic PINK_SLIP sleeve from inside his black leather racing jacket and holds it up under the sodium lights. Beat 2 (2.8–7.4s): Tom steps half a pace forward into the sodium floodlight and extends the clear PINK_SLIP sleeve at chest height while stating he is wagering his vehicle title. Beat 3 (7.4–10.0s): Micdo and Cevin turn toward Tom as the surrounding street crowd murmurs in surprise.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.4s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom moves smoothly on the near side while Micdo holds the counter-angle.

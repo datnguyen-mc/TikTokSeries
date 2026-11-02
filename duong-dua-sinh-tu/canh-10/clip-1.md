@@ -33,12 +33,12 @@ In TASKFORCE_HQ during D1 afternoon (shot 10.1 opening): Sergeant Nese and FBI A
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Nese and Kinan with LAPD-FBI Highway Investigation Folders anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Nese's eyes and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and continuous hand-and-body follow-through with LAPD-FBI Highway Investigation Folders, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Nese looks up from the highway route map, noting the dust smudge on Tom's left cheekbone as Tom stops across the table. Beat 2 (3.2–6.8s): Nese sets the highway route folder flat on the oak table and leans on both palms as he asks in a measured voice how Tom's cover at the Toto diner turned into a sparring confrontation. Beat 3 (6.8–10.0s): Kinan folds his arms impatiently beside Nese, his sharp gaze fixed on Tom.
+Beat 1 (0.0–3.7s): Nese looks up from the highway route map, noting the dust smudge on Tom's left cheekbone as Tom stops across the table. Beat 2 (3.7–8.2s): Nese sets the highway route folder flat on the oak table and leans on both palms as he asks in a measured voice how Tom's cover at the Toto diner turned into a sparring confrontation. Beat 3 (8.2–10.0s): Kinan folds his arms impatiently beside Nese, his sharp gaze fixed on Tom.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.7–8.2s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TASKFORCE_HQ; Nese moves smoothly on the near side while Kinan holds the counter-angle.

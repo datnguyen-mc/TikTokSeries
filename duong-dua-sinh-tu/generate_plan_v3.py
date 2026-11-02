@@ -431,7 +431,7 @@ SCENE_SPECS = [
      "Cevin móc dây cáp phóng mình qua khoảng không hướng về phía cửa phụ cabin xe tải.",
      "Verni hạ kính chống trả dữ dội khiến Cevin trúng đòn nặng vào vùng bụng, mắc kẹt lơ lửng trên sợi cáp thép.",
      "Cái giá đắt của vụ cướp cuối: Cevin rơi vào cửa tử ngay giữa hai xe đang chạy tốc độ cao."),
-    (60, "Xe Cina Gặp Nạn & Chiếc Supra Lao Tới", "D6 late afternoon", "DESERT_HIGHWAY", ["MICDO_H", "CINA_H", "TOM_R", "AMI_N"], ["CIVIC_TRIO", "RIG_18", "SUPRA"], 5,
+    (60, "Xe Cina Gặp Nạn & Chiếc Supra Lao Tới", "D6 late afternoon", "DESERT_HIGHWAY", ["MICDO_H", "CINA_H", "TOM_R", "AMI_N", "CEVIN_W"], ["CIVIC_TRIO", "RIG_18", "SUPRA"], 5,
      "Verni ép mạnh làm nổ lốp trước chiếc Civic của Cina khiến xe cô trượt văng khỏi làn đường; đúng lúc Micdo gào qua bộ đàm thì chiếc Toyota Supra cam của Tom và Ami xé gió lao tới.",
      "Ai có thể tiếp cận sợi cáp thép để cứu Cevin khi đội hình xe của Micdo đã vỡ vụn?",
      "Chiếc Civic của Cina bị nổ lốp trước, xoay vòng trượt dài ra lề cát sa mạc.",
@@ -475,7 +475,7 @@ SCENE_SPECS = [
      "Chiếc Charger đen và chiếc Supra cam gầm rú bám sát hai chiếc mô tô trên đại lộ dốc đứng.",
      "Micdo đánh lái chiếc Charger chặn ép khiến mô tô của Cela văng vào vách tường bê tông bất tỉnh.",
      "Hạ gục Cela Nguyen, chỉ còn lại thủ lĩnh Ny Tran trên đường chạy trốn."),
-    (67, "Ny Tran Đền Tội Dưới Kênh Thoát Nước", "D7 sunset", "LA_HILLS_ROAD", ["TOM_R", "NYTRAN_R", "MICDO"], ["SUPRA", "CHARGER", "MOTO_PACK"], 5,
+    (67, "Ny Tran Đền Tội Dưới Kênh Thoát Nước", "D7 sunset", "LA_HILLS_ROAD", ["TOM_R", "NYTRAN_R", "MICDO", "CELA"], ["SUPRA", "CHARGER", "MOTO_PACK"], 5,
      "Ny Tran quay đầu mô tô định tấn công Micdo nhưng Tom lao chiếc Supra lên song song khống chế chuẩn xác khiến mô tô của Ny Tran mất lái lao xuống kênh thoát nước nổ tung.",
      "Tom sẽ làm gì để bảo vệ Micdo trước đòn phản kích liều lĩnh của Ny Tran?",
      "Ny Tran ngoái lại trên yên mô tô định ra đòn về phía chiếc Charger của Micdo.",
@@ -1362,7 +1362,7 @@ SCENE_DIALOGUES = {
         "Mọi lời nói dừng ở vạch trắng này, gầm máy lên đi các tay đua của đêm nay!",
     ],
     14: [
-        "Bám sát đuôi chiếc xe đỏ cho tao, đêm nay không có khái niệm về nhì đâu!",
+        "Bám sát nhịp xuất phát của chiếc xe đỏ, đêm nay tôi không cho phép mình về nhì đâu!",
         "Hai tay đua hai bên rớt lại sau lưng rồi, giờ chỉ còn tôi với anh thôi Micdo!",
         "Chạy khá lắm nhóc, nhưng muốn vượt qua mũi xe tao thì bấy nhiêu đó chưa đủ.",
         "Tới lúc mở van bình khí đầu tiên rồi, cho tôi thấy sức mạnh thật sự đi!",
@@ -1706,7 +1706,14 @@ def build_scene_clips(scene_spec: tuple) -> dict:
         trans = transitions[c_num - 1]
         lens_label = CAMERA_LENS_LABEL[cam]
 
-        # Rank characters from scene cast by their appearance in the clip's Beat 2 (speaking beat), Beat 1, Open State, Beat 3
+        # Rank characters from scene cast by their physical presence in the clip's Beat 2 (speaking beat), Open State, End State, Beat 1, Beat 3
+        _veh_poss_re = re.compile(
+            r"\b(?:Tom|Micdo|Verni|Ny Tran|Seja|Cina|Cela|Cevin|Onle)'s\s+"
+            r"(?:deep-red|red|neon-green|smoking|metallic-orange|orange|matte-black|black|jet-black|white|alpine-white|"
+            r"18-wheel|18-wheeler|massive|silver|swerving|trailing|stopped|lead|idling|second|third|#2|#3|men|crew|departure|car|coupe|truck|pickup|motorcycle|bike|"
+            r"RX7|RX-7|ECLIPSE|Eclipse|SUPRA|Supra|F150_TRUCK|RIG_18|CHARGER|Charger|JETTA|Jetta|S2000)\b",
+            re.IGNORECASE,
+        )
         raw_beat = (
             staging["beats"][c_num - 1]
             if staging.get("beats") and len(staging["beats"]) >= c_num
@@ -1715,11 +1722,12 @@ def build_scene_clips(scene_spec: tuple) -> dict:
         ranked_chars: list[str] = []
         if raw_beat is not None:
             r_open, r_b1, r_b2, r_b3, r_end = raw_beat
-            for seg in (r_b2, r_b1, r_open, r_b3, r_end):
+            for seg in (r_b2, r_open, r_end, r_b1, r_b3):
+                clean_seg = _veh_poss_re.sub("the vehicle", seg)
                 matches = []
                 for lk in chars:
                     nm = IDENTITIES[LOOKS[lk][0]]["name"]
-                    m = re.search(rf"\b{re.escape(nm)}\b", seg)
+                    m = re.search(rf"\b{re.escape(nm)}\b", clean_seg)
                     if m:
                         matches.append((m.start(), lk))
                 matches.sort()
@@ -1731,7 +1739,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
 
         clip_chars = list(ranked_chars[:3])
 
-        # Ensure narrator intro characters are present in that exact first-intro clip
+        # Ensure narrator intro characters are present in that exact first-intro clip alongside visible cast
         if cid in FIRST_INTRO_CLIPS:
             intro_key, _ = FIRST_INTRO_CLIPS[cid]
             if intro_key == "VERNI":
@@ -1739,9 +1747,9 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             elif intro_key == "CEVIN":
                 clip_chars = ["CEVIN_H", "VERNI"]
             elif intro_key == "CINA":
-                clip_chars = ["CINA_H", "CEVIN_H"]
+                clip_chars = ["CINA_H"]
             elif intro_key == "ONLE":
-                clip_chars = ["ONLE_H", "CINA_H"]
+                clip_chars = ["ONLE_H", "CEVIN_H"]
             elif intro_key == "TOM":
                 clip_chars = ["TOM"]
             elif intro_key == "AMI":
@@ -1753,7 +1761,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             elif intro_key == "NESE_KINAN":
                 clip_chars = ["NESE", "KINAN", "TOM_B"]
             elif intro_key == "NYTRAN_CELA":
-                clip_chars = ["NYTRAN", "CELA", "TOM_R"]
+                clip_chars = ["MICDO", "NYTRAN", "CELA"]
 
         # Determine active speaker & distinct counterpart directly from ranked_chars
         active_speaker = ranked_chars[0] if ranked_chars else clip_chars[0]
@@ -1779,8 +1787,50 @@ def build_scene_clips(scene_spec: tuple) -> dict:
                     active_base = LOOKS[active_speaker][0]
                     active_name = nm
                     break
+
+        # Compute exact dialogue timing window [t1, t2] first so [ACTION] Beat 2, Mouth map, and [DIALOGUE] align to the tenth of a second
+        line_text = SCENE_DIALOGUES[s_num][c_num - 1]
+        line_syl = len(re.findall(r"[^\W\d_]+", line_text))
+        dialogue = []
+        spoken_mode = "off" if is_insert_shot else "on"
+        if cid in FIRST_INTRO_CLIPS:
+            _, intro_text = FIRST_INTRO_CLIPS[cid]
+            intro_syl = len(re.findall(r"[^\W\d_]+", intro_text))
+            intro_end = round(0.3 + max(3.0, intro_syl / 3.5), 1)
+            line_start = round(intro_end + 0.3, 1)
+            line_end = min(9.8, round(line_start + max(2.8, line_syl / 3.8), 1))
+            t1, t2 = line_start, line_end
+            dialogue.append({
+                "speaker": "NARRATOR",
+                "mode": "vo",
+                "text": intro_text,
+                "at": [0.3, intro_end],
+            })
+            dialogue.append({
+                "speaker": active_speaker,
+                "mode": spoken_mode,
+                "text": line_text,
+                "at": [t1, t2],
+            })
+        else:
+            dur = max(3.2, min(6.6, round(line_syl / 3.7, 1)))
+            t1, t2 = 2.8, round(2.8 + dur, 1)
+            dialogue.append({
+                "speaker": active_speaker,
+                "mode": spoken_mode,
+                "text": line_text,
+                "at": [t1, t2],
+            })
+
+        if is_insert_shot:
+            ins = staging["insert_clip3"]
             start_frame = ins["start_frame"]
-            action = ins["action"]
+            action = (
+                ins["action"]
+                .replace("0.0–3.2s", f"0.0–{t1:.1f}s")
+                .replace("3.2–6.8s", f"{t1:.1f}–{t2:.1f}s")
+                .replace("6.8–10.0s", f"{t2:.1f}–10.0s")
+            )
             end_frame = ins["end_frame"]
             shot_type = "INSERT_DETAIL"
             composition_str = ins["composition"]
@@ -1807,35 +1857,68 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             )
             start_frame = open_st
             end_frame = end_st
-            action = f"Beat 1 (0.0–3.2s): {b1}. Beat 2 (3.2–6.8s): {b2}. Beat 3 (6.8–10.0s): {b3}."
+            action = f"Beat 1 (0.0–{t1:.1f}s): {b1}. Beat 2 ({t1:.1f}–{t2:.1f}s): {b2}. Beat 3 ({t2:.1f}–10.0s): {b3}."
 
-            combined_beats = f"{b1} {b2} {b3}"
-            clip_prop = prop_main
-            if "SUPRA_KEY" in props and ("SUPRA_KEY" in combined_beats or "ignition key" in combined_beats):
-                clip_prop = "SUPRA_KEY"
-            elif "CHARGER" in props and ("Charger" in combined_beats or "CHARGER" in combined_beats) and "Supra" not in combined_beats:
-                clip_prop = "CHARGER"
+            combined_clip_text = f"{open_st} {b1} {b2} {b3} {end_st}"
+            _prop_keywords = {
+                "RIG_18": ("RIG_18", "semi-truck", "18-wheel", "18-wheeler", "trailer", "tractor"),
+                "CIVIC_TRIO": ("CIVIC_TRIO", "Civic", "black coupe", "matte-black coupe", "lead coupe", "#2 coupe", "#3 coupe"),
+                "ECLIPSE": ("ECLIPSE", "Eclipse", "neon-green coupe", "green coupe"),
+                "RX7": ("RX7", "RX-7", "crimson coupe", "red coupe"),
+                "SUPRA_SHELL": ("SUPRA_SHELL", "rusted", "oxidized", "scrap frame"),
+                "SUPRA": ("SUPRA", "Supra", "orange coupe", "targa"),
+                "CHARGER": ("CHARGER", "Charger", "muscle car", "supercharger"),
+                "F150_TRUCK": ("F150_TRUCK", "pickup", "F-150"),
+                "JETTA": ("JETTA", "Jetta", "white car"),
+                "S2000": ("S2000", "roadster"),
+                "MOTO_PACK": ("MOTO_PACK", "motorcycle", "sport bike", "bikes"),
+                "HARPOON_CABLE": ("HARPOON_CABLE", "tether", "steel cable", "carabiner"),
+                "BREACH_CHARGE": ("BREACH_CHARGE", "magnetic latch", "release device", "roller-shutter"),
+                "NOS_BOTTLES": ("NOS_BOTTLES", "nitrous", "NOS", "cobalt-blue", "brass valves"),
+                "DIAG_LAPTOP": ("DIAG_LAPTOP", "laptop", "telemetry", "boost curve"),
+                "PINK_SLIP": ("PINK_SLIP", "title sleeve", "registration", "plastic sleeve"),
+                "POLICE_RADIO": ("POLICE_RADIO", "radio", "handset", "transceiver", "shoulder mic"),
+                "WRENCH_KIT": ("WRENCH_KIT", "wrench", "socket", "tool chest", "chain hoist"),
+                "CASE_FILES": ("CASE_FILES", "folder", "warrant", "surveillance photo", "route map"),
+                "CUSTOMS_INVOICE": ("CUSTOMS_INVOICE", "ledger", "customs seal"),
+                "SUPRA_KEY": ("SUPRA_KEY", "ignition key", "key"),
+            }
+            matched_clip_prop: str | None = None
+            if "SUPRA_KEY" in props and any(kw in combined_clip_text for kw in _prop_keywords["SUPRA_KEY"]):
+                matched_clip_prop = "SUPRA_KEY"
+            elif "CHARGER" in props and any(kw in combined_clip_text for kw in _prop_keywords["CHARGER"]) and "Supra" not in combined_clip_text:
+                matched_clip_prop = "CHARGER"
             else:
                 for pk in props:
-                    if pk in combined_beats:
-                        clip_prop = pk
+                    kws = _prop_keywords.get(pk, (pk,))
+                    if any(kw in combined_clip_text for kw in kws):
+                        matched_clip_prop = pk
                         break
+
             clip_prop_readable = (
-                VEHICLE_LOCK[clip_prop]["name"] if clip_prop in VEHICLE_LOCK
-                else OBJECT_LOCK[clip_prop]["name"] if clip_prop in OBJECT_LOCK
-                else prop_main_readable
+                VEHICLE_LOCK[matched_clip_prop]["name"] if matched_clip_prop in VEHICLE_LOCK
+                else OBJECT_LOCK[matched_clip_prop]["name"] if matched_clip_prop in OBJECT_LOCK
+                else None
             )
 
             if counterpart_name:
-                composition_str = f"Frame {active_name} and {counterpart_name} with {clip_prop_readable} anchored clearly in the {lens_label} lens geometry."
+                if clip_prop_readable:
+                    composition_str = f"Frame {active_name} and {counterpart_name} with {clip_prop_readable} anchored clearly in the {lens_label} lens geometry."
+                else:
+                    composition_str = f"Frame {active_name} and {counterpart_name} in balanced two-shot depth within {loc_key} using the {lens_label} lens geometry."
                 blocking_str = f"Preserve left-to-right 180-degree spatial continuity inside {loc_key}; {active_name} moves smoothly on the near side while {counterpart_name} holds the counter-angle."
             else:
-                composition_str = f"Frame {active_name} with {clip_prop_readable} and {staging['counterpart_placement']} anchored clearly in the {lens_label} lens geometry."
-                blocking_str = f"Preserve left-to-right 180-degree spatial continuity inside {loc_key}; {active_name} holds the primary plane aligned with {staging['counterpart_placement']}."
+                if clip_prop_readable:
+                    composition_str = f"Frame {active_name} with {clip_prop_readable} anchored clearly in the {lens_label} lens geometry inside {loc_key}."
+                else:
+                    composition_str = f"Frame {active_name} cleanly inside {loc_key} using the {lens_label} lens geometry."
+                blocking_str = f"Preserve left-to-right 180-degree spatial continuity inside {loc_key}; {active_name} holds the primary plane with smooth natural body follow-through."
             if cid == "40.6":
                 focus_str = f"Keep tack-sharp focus on {active_name}'s eyes, natural breathing, and calm posture on the desert road as {counterpart_name or 'Sergeant Nese'} steps into the background depth plane."
+            elif clip_prop_readable:
+                focus_str = f"Keep tack-sharp focus on {active_name}'s eyes, lip-sync articulation, and continuous hand-and-body follow-through with {clip_prop_readable}, maintaining readable background depth."
             else:
-                focus_str = f"Keep tack-sharp focus on {active_name}'s eyes and continuous hand-and-body follow-through with {clip_prop_readable}, maintaining readable background depth."
+                focus_str = f"Keep tack-sharp focus on {active_name}'s eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside {loc_key}."
             persona = CHARACTER_ACTING_PERSONA.get(
                 active_base,
                 "restrained high-stakes intensity, continuous natural weight transfer, and fluid hand follow-through while speaking",
@@ -1878,37 +1961,6 @@ def build_scene_clips(scene_spec: tuple) -> dict:
                 f"layered clearly beneath {active_name}'s Southern Vietnamese dialogue."
             )
 
-        line_text = SCENE_DIALOGUES[s_num][c_num - 1]
-        line_syl = len(re.findall(r"[^\W\d_]+", line_text))
-        dialogue = []
-        spoken_mode = "off" if is_insert_shot else "on"
-        if cid in FIRST_INTRO_CLIPS:
-            _, intro_text = FIRST_INTRO_CLIPS[cid]
-            intro_syl = len(re.findall(r"[^\W\d_]+", intro_text))
-            intro_end = round(0.3 + max(3.0, intro_syl / 3.5), 1)
-            line_start = round(intro_end + 0.3, 1)
-            line_end = min(9.8, round(line_start + max(2.8, line_syl / 3.8), 1))
-            dialogue.append({
-                "speaker": "NARRATOR",
-                "mode": "vo",
-                "text": intro_text,
-                "at": [0.3, intro_end],
-            })
-            dialogue.append({
-                "speaker": active_speaker,
-                "mode": spoken_mode,
-                "text": line_text,
-                "at": [line_start, line_end],
-            })
-        else:
-            dur = max(3.2, min(6.6, round(line_syl / 3.7, 1)))
-            dialogue.append({
-                "speaker": active_speaker,
-                "mode": spoken_mode,
-                "text": line_text,
-                "at": [2.8, round(2.8 + dur, 1)],
-            })
-
         cinematic = {
             "intent": f"{purpose} (Shot {cid} — {shot_type} via {lens_label} lens).",
             "composition": composition_str,
@@ -1917,7 +1969,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             "focus": focus_str,
             "texture": "Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.",
             "sound_detail": sound_detail_str,
-            "rhythm": CAMERA_RHYTHM_MAP[cam],
+            "rhythm": CAMERA_RHYTHM_MAP[cam].replace("3.2–6.8s", f"{t1:.1f}–{t2:.1f}s"),
         }
 
         veh_states = {p: resolve_vehicle_condition(p, s_num, c_num) for p in props if p in VEHICLE_LOCK}
@@ -1945,15 +1997,15 @@ def build_scene_clips(scene_spec: tuple) -> dict:
         safe_prop_label = lambda p: "TETHER_CABLE" if p == "HARPOON_CABLE" else "MAGNETIC_LATCH" if p == "BREACH_CHARGE" else p
         gear_names = ", ".join(IDENTITIES[LOOKS[k][0]]["name"] + f" ({k})" for k in clip_chars) or "Cận cảnh đạo cụ / phương tiện (không có nhân vật trong khung hình)"
         props_names = ", ".join(safe_prop_label(p) for p in props)
-        prop_main_safe = safe_prop_label(prop_main)
+        prop_main_safe = safe_prop_label(matched_clip_prop or prop_main) if not is_insert_shot else safe_prop_label(prop_main)
         counter_vi = f" và {counterpart_name}" if counterpart_name else ""
         screenplay_vi = {
             "gear_vi": f"Nhân vật trong cảnh: {gear_names}. Đạo cụ & phương tiện khóa: {props_names}. Giữ nguyên trang phục và vị trí đạo cụ xuyên suốt cú máy {cid}.",
             "start_vi": f"Bối cảnh: {title} ({story_time}) · Góc máy {cam} ({shot_type}) · Mở hình tại 0.0s với {active_name}{counter_vi} trong không gian {loc_key}.",
             "beats_vi": (
-                f"Nhịp 1 (0.0–3.2s): {active_name} {'bắt đầu thao tác với ' + prop_main_safe + ' trong bối cảnh ' + title + ', giữ đúng vị trí không gian' if not is_insert_shot else 'thao tác kỹ thuật ngoài khung hình trong khi ống kính đặc tả chi tiết cơ khí'}. "
-                f"Nhịp 2 (3.2–6.8s): {active_name} thực hiện chuyển động chính của phân cảnh {cid} đồng thời cất lời thoại ({line_text}). "
-                f"Nhịp 3 (6.8–10.0s): Chuyển động lắng xuống tư thế kết của clip {cid}, giữ nhịp thở và âm thanh môi trường sống động tới 10.0s."
+                f"Nhịp 1 (0.0–{t1:.1f}s): {b1 if not is_insert_shot else 'Ống kính macro 85mm đặc tả chi tiết cơ khí / đạo cụ tại ' + loc_key}. "
+                f"Nhịp 2 ({t1:.1f}–{t2:.1f}s): {b2 if not is_insert_shot else active_name + ' cất giọng ngoài khung hình trong khi chi tiết cơ khí vận hành chuẩn nhịp'} — Thoại ({active_name}): \"{line_text}\". "
+                f"Nhịp 3 ({t2:.1f}–10.0s): {b3 if not is_insert_shot else 'Chi tiết đạo cụ giữ nguyên chuyển động mượt mà và ánh sáng chân thực tới 10.0s'}."
             ),
             "end_vi": f"Khóa tư thế của {active_name}{counter_vi} cùng đạo cụ ({props_names}) tại giây 10.0s, tuyệt đối không nháy ảnh thẻ tham chiếu.",
             "directing_vi": f"Góc máy {cam} ({shot_type}) · Chuyển cảnh {trans} · Đạo cụ khóa: {props_names}.",

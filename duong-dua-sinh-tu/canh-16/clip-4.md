@@ -27,16 +27,16 @@ In RACE_ALLEY during N2 night (shot 16.4 opening): Micdo standing in the center 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo with the Neon-Green Turbo Sport Coupe and Tom in the smoking neon-green ECLIPSE turning back toward the alley entrance to rescue Micdo anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Micdo cleanly inside RACE_ALLEY using the tight close-up 85mm lens geometry.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside RACE_ALLEY.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo backs up two steps, shielding his eyes from the bright shine of the patrol high beams ahead. Beat 2 (3.2–6.8s): Micdo shifts his weight onto his back foot and lowers his raised forearm while noting grimly that two cruisers have sealed off the forward exit. Beat 3 (6.8–10.0s): he pivots on his heel to retreat back the way he came.
+Beat 1 (0.0–2.8s): Micdo backs up two steps, shielding his eyes from the bright shine of the patrol high beams ahead. Beat 2 (2.8–7.7s): Micdo shifts his weight onto his back foot and lowers his raised forearm while noting grimly that two cruisers have sealed off the forward exit. Beat 3 (7.7–10.0s): he pivots on his heel to retreat back the way he came.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo holds the primary plane aligned with Tom in the smoking neon-green ECLIPSE turning back toward the alley entrance to rescue Micdo.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_ALLEY; Micdo holds the primary plane with smooth natural body follow-through.
 Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
 
 

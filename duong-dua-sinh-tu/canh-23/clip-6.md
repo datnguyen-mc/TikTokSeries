@@ -30,12 +30,12 @@ In TOTO_GARAGE during N3 night (shot 23.6 opening): Seja closing the DIAG_LAPTOP
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Seja and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Seja unplugs the diagnostic cable and lowers the metallic-orange hood of the Supra until it latches. Beat 2 (3.2–6.8s): Seja presses his palms onto the closed metallic-orange hood to test the latch and grins across at Tom and Ami while declaring the whole city will stare. Beat 3 (6.8–10.0s): Tom and Ami exchange a quiet smile beside the finished ten-second coupe.
+Beat 1 (0.0–2.8s): Seja unplugs the diagnostic cable and lowers the metallic-orange hood of the Supra until it latches. Beat 2 (2.8–8.2s): Seja presses his palms onto the closed metallic-orange hood to test the latch and grins across at Tom and Ami while declaring the whole city will stare. Beat 3 (8.2–10.0s): Tom and Ami exchange a quiet smile beside the finished ten-second coupe.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–8.2s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Seja moves smoothly on the near side while Tom holds the counter-angle.

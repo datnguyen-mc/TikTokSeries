@@ -27,16 +27,16 @@ In VERS_GARAGE during D1 morning (shot 05.4 opening): Tom standing beside the re
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Neon-Green Turbo Sport Coupe and the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Tom with the Bright-Red Stepside Shop Pickup Truck anchored clearly in the tight close-up 85mm lens geometry inside VERS_GARAGE.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom lifts a wooden crate of replacement oil filters from the workbench and sets it squarely into the pickup bed. Beat 2 (3.2–6.8s): Tom speaks in a casual, unhurried tone to keep his mechanic cover intact while sliding the rear tailgate latch shut. Beat 3 (6.8–10.0s): Tom pulls his denim work shirt cuffs down over his steel chronograph watch and looks toward the street.
+Beat 1 (0.0–2.8s): Tom lifts a wooden crate of replacement oil filters from the workbench and sets it squarely into the pickup bed. Beat 2 (2.8–7.1s): Tom speaks in a casual, unhurried tone to keep his mechanic cover intact while sliding the rear tailgate latch shut. Beat 3 (7.1–10.0s): Tom pulls his denim work shirt cuffs down over his steel chronograph watch and looks toward the street.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.1s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the exposed twin-cam turbo engine bay of the neon-green ECLIPSE and shop owner Ryh at the parts counter on screen left.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane with smooth natural body follow-through.
 Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 
 

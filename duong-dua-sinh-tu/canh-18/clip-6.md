@@ -24,18 +24,18 @@ Vừa thoát cảnh sát, chiếc Eclipse của Tom và Micdo bất ngờ bị m
 Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 18.5. single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In SAIGON_LOT during N2 night (shot 18.6 opening): Cela pacing along the smoking neon-green fender of the ECLIPSE in SAIGON_LOT while Ny Tran confronts Micdo and Tom.
+In SAIGON_LOT during N2 night (shot 18.6 opening): Cela pacing along the smoking neon-green fender of the ECLIPSE in SAIGON_LOT confronting Micdo and Tom.
 
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Cela and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Cela's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Cela's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Cela drags his boot across the gravel beside the unlatched passenger floor panel and looks at the smoking hood. Beat 2 (3.2–6.8s): Cela steps closer to the smoking hood and gestures mockingly at the venting steam with his chin while sneering at Micdo and Tom. Beat 3 (6.8–10.0s): Tom clenches his jaw while Micdo steps half a pace in front of Tom to keep the peace.
+Beat 1 (0.0–2.8s): Cela drags his boot across the gravel beside the unlatched passenger floor panel and looks at the smoking hood. Beat 2 (2.8–7.7s): Cela steps closer to the smoking hood and gestures mockingly at the venting steam with his chin while sneering at Micdo and Tom. Beat 3 (7.7–10.0s): Tom clenches his jaw while Micdo steps half a pace in front of Tom to keep the peace.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.7s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Cela moves smoothly on the near side while Micdo holds the counter-angle.
@@ -68,7 +68,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: powerful turbocharged engine spool whin
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In SAIGON_LOT at 10.0s of shot 18.6: Cela and Ny Tran on screen right confronting Micdo and Tom beside the smoking ECLIPSE in SAIGON_LOT.
+In SAIGON_LOT at 10.0s of shot 18.6: Cela on screen right confronting Micdo and Tom beside the smoking ECLIPSE in SAIGON_LOT.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

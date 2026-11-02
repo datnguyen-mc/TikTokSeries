@@ -29,13 +29,13 @@ In NYTRAN_WAREHOUSE during D4 morning (shot 27.5 opening): Kinan pressing his pa
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Kinan and Nese with Stamped Customs Clearance Ledger anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Kinan's eyes and continuous hand-and-body follow-through with Stamped Customs Clearance Ledger, maintaining readable background depth.
+Composition: Frame Kinan and Nese in balanced two-shot depth within NYTRAN_WAREHOUSE using the kinetic handheld 35mm lens geometry.
+Focus: Keep tack-sharp focus on Kinan's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside NYTRAN_WAREHOUSE.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Kinan taps the steel tabletop firmly with his open palm, his face taut with frustration. Beat 2 (3.2–6.8s): Kinan leans both palms heavily on the steel inspection desk and turns his head sharply toward Nese while snapping that the warehouse is legally spotless. Beat 3 (6.8–10.0s): Tom stands rigid beside the desk, absorbing the fallout of the mistaken raid.
+Beat 1 (0.0–2.8s): Kinan taps the steel tabletop firmly with his open palm, his face taut with frustration. Beat 2 (2.8–7.9s): Kinan leans both palms heavily on the steel inspection desk and turns his head sharply toward Nese while snapping that the warehouse is legally spotless. Beat 3 (7.9–10.0s): Tom stands rigid beside the desk, absorbing the fallout of the mistaken raid.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.9s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_WAREHOUSE; Kinan moves smoothly on the near side while Nese holds the counter-angle.

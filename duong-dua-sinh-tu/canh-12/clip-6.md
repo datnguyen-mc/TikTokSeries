@@ -27,16 +27,16 @@ In VERS_GARAGE during D1 dusk (shot 12.6 opening): Tom seated in the left-hand b
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom with the Neon-Green Turbo Sport Coupe and the twin cobalt-blue NOS_BOTTLES in the rear hatch and shop owner Ryh speaking off screen from the tool bench anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Tom with the Neon-Green Turbo Sport Coupe anchored clearly in the dramatic push-in 50mm lens geometry inside VERS_GARAGE.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom fires up the turbocharged engine, bathing his face in the blue glow of the dashboard gauges. Beat 2 (3.2–6.8s): Tom grips the leather sport steering wheel with his left hand and depresses the clutch pedal while calling out his thanks toward the shop counter. Beat 3 (6.8–10.0s): Tom shifts into first gear and rolls the neon-green ECLIPSE out the bay doorway into the night.
+Beat 1 (0.0–2.8s): Tom fires up the turbocharged engine, bathing his face in the blue glow of the dashboard gauges. Beat 2 (2.8–7.4s): Tom grips the leather sport steering wheel with his left hand and depresses the clutch pedal while calling out his thanks toward the shop counter. Beat 3 (7.4–10.0s): Tom shifts into first gear and rolls the neon-green ECLIPSE out the bay doorway into the night.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.4s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane aligned with the twin cobalt-blue NOS_BOTTLES in the rear hatch and shop owner Ryh speaking off screen from the tool bench.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane with smooth natural body follow-through.
 Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
 
 

@@ -332,6 +332,37 @@ class FilmContinuityTests(unittest.TestCase):
                 self.assertIn('co-directional forward direction (left-to-right along the road axis)', text, c['id'])
                 self.assertIn('HIGH-PRIORITY AUTOMOTIVE SFX:', text, c['id'])
 
+    def test_action_gesture_dialogue_and_cast_precision(self):
+        import re
+        identities = self.plan['identities']
+        looks = self.plan['looks']
+        all_lead_names = {identities[k]['name']: k for k in identities}
+        veh_poss_re = re.compile(
+            r"\b(?:Tom|Micdo|Verni|Ny Tran|Seja|Cina|Cela|Cevin|Onle)'s\s+"
+            r"(?:deep-red|red|neon-green|smoking|metallic-orange|orange|matte-black|black|jet-black|white|alpine-white|"
+            r"18-wheel|18-wheeler|massive|silver|swerving|trailing|stopped|lead|idling|second|third|#2|#3|men|crew|departure|car|coupe|truck|pickup|motorcycle|bike|"
+            r"RX7|RX-7|ECLIPSE|Eclipse|SUPRA|Supra|F150_TRUCK|RIG_18|CHARGER|Charger|JETTA|Jetta|S2000)\b",
+            re.IGNORECASE,
+        )
+        for c in self.shots:
+            cid = c['id']
+            d = [x for x in c['dialogue'] if x['speaker'] != 'NARRATOR'][0]
+            t1, t2 = d['at']
+            spk_name = identities[looks[d['speaker']][0]]['name']
+            m_b2 = re.search(r"Beat 2 \((\d+\.\d)–(\d+\.\d)s\): (.*?)\. Beat 3", c['action'])
+            self.assertIsNotNone(m_b2, f"{cid}: missing Beat 2 window")
+            bt1, bt2, b2_txt = float(m_b2.group(1)), float(m_b2.group(2)), m_b2.group(3)
+            self.assertAlmostEqual(bt1, t1, places=1, msg=f"{cid}: Beat 2 start != dialogue start")
+            self.assertAlmostEqual(bt2, t2, places=1, msg=f"{cid}: Beat 2 end != dialogue end")
+            if c.get('shot_type') == 'INSERT_DETAIL':
+                self.assertIn(f"While {spk_name}'s voice plays off screen", b2_txt, cid)
+            else:
+                self.assertTrue(b2_txt.startswith(spk_name), f"{cid}: Beat 2 does not start with speaker {spk_name}: {b2_txt}")
+                assigned_names = [identities[looks[k][0]]['name'] for k in c['characters']]
+                clean_txt = veh_poss_re.sub('the vehicle', f"{c['start_frame']} {c['action']} {c['end_frame']}")
+                present_names = [nm for nm in all_lead_names if re.search(rf"\b{re.escape(nm)}\b", clean_txt)]
+                self.assertEqual(set(assigned_names), set(present_names), f"{cid}: cast {assigned_names} != present {present_names}")
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -27,18 +27,18 @@ Sáng hôm sau, Tom chở một khung xe Toyota Supra rỉ sét về gara nhà M
 Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_GARAGE during D2 morning (shot 22.1 opening): Cevin, Seja, and Onle standing at the bay entrance of TOTO_GARAGE staring at the rusted, dented orange SUPRA_SHELL that Tom has just rolled off the flatbed.
+In TOTO_GARAGE during D2 morning (shot 22.1 opening): Cevin and Seja standing at the bay entrance of TOTO_GARAGE staring at the rusted, dented orange SUPRA_SHELL that Tom has just rolled off the flatbed.
 
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Cevin and Tom with the Rusted Orange Sport Coupe Project Shell anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Cevin's eyes and continuous hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Cevin's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rusted Orange Sport Coupe Project Shell, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Cevin walks up to the oxidized orange fender and raps his knuckles against the dented steel panel. Beat 2 (3.2–6.8s): Cevin gestures with his open palm along the oxidized orange hood and turns his head toward Tom while scoffing at the rusted scrap frame. Beat 3 (6.8–10.0s): Tom leans calmly against the rear quarter panel with a knowing smile.
+Beat 1 (0.0–2.8s): Cevin walks up to the oxidized orange fender and raps his knuckles against the dented steel panel. Beat 2 (2.8–7.9s): Cevin gestures with his open palm along the oxidized orange hood and turns his head toward Tom while scoffing at the rusted scrap frame. Beat 3 (7.9–10.0s): Tom leans calmly against the rear quarter panel with a knowing smile.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.9s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Cevin moves smoothly on the near side while Tom holds the counter-angle.
@@ -71,7 +71,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: metallic hoist chain clatter, garage to
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In TOTO_GARAGE at 10.0s of shot 22.1: Cevin glaring at Tom across the rusted hood of the SUPRA_SHELL in TOTO_GARAGE.
+In TOTO_GARAGE at 10.0s of shot 22.1: Cevin glaring at Tom across the rusted hood of the SUPRA_SHELL with Seja in TOTO_GARAGE.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

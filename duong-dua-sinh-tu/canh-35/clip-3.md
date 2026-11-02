@@ -5,9 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-@Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. scuffed black tactical vest with a clean folded towel held against his waist harness after the high-speed stunt, sweat-streaked face, fingerless gloves. Voice: rough, fiery, direct Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. black tactical driving windbreaker zipped over dark shirt, black leather driving gloves, dark cargo trousers, heavy boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R, CEVIN_W, MICDO_H with props SUPRA, POLICE_RADIO; never show a studio reference backdrop.
+@Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. cropped tan suede jacket over burgundy top, dark jeans, sneakers, hair loose over shoulders. Voice: warm, clear, expressive Southern Vietnamese female voice.
+Keep exact approved appearance for TOM_R, MICDO_H, AMI_N with props SUPRA, POLICE_RADIO; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -29,17 +29,17 @@ In DESERT_HIGHWAY during D6 dusk (shot 35.3 opening): Tom standing two paces fro
 [CAMERA]
 35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Cevin with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the low-angle tracking 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Composition: Frame Tom and Micdo with Encrypted LAPD Tactical Radio Handset anchored clearly in the low-angle tracking 35mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom clicks the transmit key on the encrypted tactical radio handset, making the decision to reveal his undercover identity to save Cevin. Beat 2 (3.2–6.8s): Tom holds the encrypted radio handset two inches from his mouth with his right hand and stands tall beside the open door while speaking his LAPD badge callsign. Beat 3 (6.8–10.0s): Micdo's head snaps up from Cevin's side as he hears the police badge callsign.
+Beat 1 (0.0–2.8s): Tom clicks the transmit key on the encrypted tactical radio handset, making the decision to reveal his undercover identity to save his teammate. Beat 2 (2.8–7.7s): Tom holds the encrypted radio handset two inches from his mouth with his right hand and stands tall beside the open door while speaking his LAPD badge callsign. Beat 3 (7.7–10.0s): Micdo's head snaps up in shock as he hears the police badge callsign.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.
+Action rhythm: High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 2.8–7.7s during the line, and sustained forward motion through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Cevin holds the counter-angle.
-Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Cevin maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -68,7 +68,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: ferocious 2JZ-GTE twin-turbocharger spo
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In DESERT_HIGHWAY at 10.0s of shot 35.3: Tom speaking into the POLICE_RADIO on DESERT_HIGHWAY while Micdo stares at him in shock.
+In DESERT_HIGHWAY at 10.0s of shot 35.3: Tom speaking into the POLICE_RADIO on DESERT_HIGHWAY while Micdo and Ami stare at him in shock.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

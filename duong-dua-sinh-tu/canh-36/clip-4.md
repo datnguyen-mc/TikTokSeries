@@ -6,8 +6,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
-@Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. white-and-blue racing windbreaker over dark tee, cargo trousers, driving shoes, thin-framed glasses. Voice: quick, earnest, energetic Southern Vietnamese male voice.
-Keep exact approved appearance for MICDO, AMI, SEJA_R with props JETTA, MOTO_PACK; never show a studio reference backdrop.
+@NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
+Keep exact approved appearance for MICDO, AMI, NYTRAN_R with props JETTA, MOTO_PACK; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -24,19 +24,19 @@ Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng tr�
 Begin directly at 0.0s in this single location and camera setup with the location sound and physical movement already active from the very first frame; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 36.3. single-location take only, never show two locations or flash a reference card.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_FRONT during D7 sunset (shot 36.4 opening): Ny Tran and Cela riding down the residential asphalt of TOTO_FRONT on their matte-black MOTO_PACK motorcycles toward Seja and Micdo.
+In TOTO_FRONT during D7 sunset (shot 36.4 opening): Ny Tran riding down the residential asphalt of TOTO_FRONT on his lead matte-black MOTO_PACK motorcycle toward Micdo and Ami.
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Micdo and Ami with the Alpine-White Tuned Sport Sedan anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): the two matte-black motorcycles accelerate straight along the kerb where Seja stands beside his white Jetta. Beat 2 (3.2–6.8s): Micdo moves with fast defensive footwork across the grass, wrapping his left arm around Ami's shoulders to guide her toward the porch steps while calling out a warning. Beat 3 (6.8–10.0s): Micdo steps forward with fast defensive movements to guide Ami behind the porch pillar.
+Beat 1 (0.0–2.8s): the two matte-black motorcycles accelerate straight along the kerb beside the parked white Jetta. Beat 2 (2.8–7.7s): Micdo moves with fast defensive footwork across the grass, wrapping his left arm around Ami's shoulders to guide her toward the porch steps while calling out a warning. Beat 3 (7.7–10.0s): Micdo steps forward with fast defensive movements to guide Ami behind the porch pillar.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
@@ -69,7 +69,7 @@ Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo 
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In TOTO_FRONT at 10.0s of shot 36.4: Micdo guiding Ami toward cover as Ny Tran and Cela's motorcycles sweep toward TOTO_FRONT.
+In TOTO_FRONT at 10.0s of shot 36.4: Micdo guiding Ami toward cover as Ny Tran's motorcycle sweeps toward TOTO_FRONT.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

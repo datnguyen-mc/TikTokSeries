@@ -5,9 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots. Voice: low, calm, clear Southern Vietnamese male voice.
-@Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_B, AMI, MICDO with props RX7, F150_TRUCK; never show a studio reference backdrop.
+@Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
+Keep exact approved appearance for TOM_B, MICDO, AMI with props RX7, F150_TRUCK; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -29,18 +29,18 @@ In TOTO_PATIO during D1 midday (shot 09.6 opening): Tom opening the driver door 
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Ami with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
+Composition: Frame Tom and Micdo with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom climbs into the left-hand driver seat of the red pickup and exchanges one brief look with Ami through the windshield. Beat 2 (3.2–6.8s): Tom grips the pickup steering wheel with his left hand and reaches his right hand to the ignition key while speaking a quiet promise that their paths will cross again tonight. Beat 3 (6.8–10.0s): Tom starts the pickup engine and pulls smoothly away from the kerb, leaving Micdo standing beside the crimson RX7.
+Beat 1 (0.0–2.8s): Tom climbs into the left-hand driver seat of the red pickup and exchanges one brief look with Ami through the windshield. Beat 2 (2.8–7.7s): Tom grips the pickup steering wheel with his left hand and reaches his right hand to the ignition key while speaking a quiet promise that their paths will cross again tonight. Beat 3 (7.7–10.0s): Tom starts the pickup engine and pulls smoothly away from the kerb, leaving Micdo standing beside the crimson RX7.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.7s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Tom moves smoothly on the near side while Ami holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Ami maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]

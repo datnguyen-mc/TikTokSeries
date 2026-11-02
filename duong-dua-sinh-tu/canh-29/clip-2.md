@@ -27,17 +27,17 @@ In RACE_WARS during D5 midday (shot 29.2 opening): Seja inside the left-hand coc
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Seja with the Alpine-White Tuned Sport Sedan and Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
+Composition: Frame Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the medium two-shot 50mm lens geometry inside RACE_WARS.
+Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Seja watches his digital shift indicator flash green and pulls the gear lever into third. Beat 2 (3.2–6.8s): Seja locks both hands on the steering wheel rim and checks the dash telemetry screen while saying confidently that the first half matches his graph. Beat 3 (6.8–10.0s): he keeps his foot planted on the throttle as desert heat haze shimmers ahead.
+Beat 1 (0.0–2.8s): Seja watches his digital shift indicator flash green and pulls the gear lever into third. Beat 2 (2.8–7.9s): Seja locks both hands on the steering wheel rim and checks the dash telemetry screen while saying confidently that the first half matches his graph. Beat 3 (7.9–10.0s): he keeps his foot planted on the throttle as desert heat haze shimmers ahead.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
+Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 2.8–7.9s synchronized with speech, and smooth settling momentum through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane aligned with Ny Tran seated in the left-hand driver seat of the jet-black S2000 in the right lane with concealed twin NOS_BOTTLES. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 Performance: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence and organic micro-expressions.
 
 

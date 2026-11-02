@@ -6,8 +6,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. open dark-blue work shirt over charcoal T-shirt, light dust smudge on jaw from stunt training, dark jeans, worn work boots. Voice: low, calm, clear Southern Vietnamese male voice.
-@Cevin = Cevin: same approved identity, age 29; Athletic man with short spiky bleached-tip hair, intense brow, neat goatee, silver chain bracelet on right wrist. maroon short-sleeve mechanic shirt with rolled sleeves, silver chain bracelet on right wrist, dark cargo jeans, work boots. Voice: rough, fiery, direct Southern Vietnamese male voice.
-Keep exact approved appearance for AMI, TOM_B, CEVIN with props RX7, F150_TRUCK; never show a studio reference backdrop.
+@Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
+Keep exact approved appearance for AMI, TOM_B, MICDO with props RX7, F150_TRUCK; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -29,13 +29,13 @@ In TOTO_PATIO during D1 midday (shot 09.4 opening): Ami standing on the diner th
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Tom with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
+Composition: Frame Ami and Tom in balanced two-shot depth within TOTO_PATIO using the tight close-up 85mm lens geometry.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_PATIO.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo glances toward Ami on the steps and motions with his hand for her to go back inside the diner. Beat 2 (3.2–6.8s): Ami takes a step down the concrete threshold and gestures toward the patio table as she speaks up firmly in defense of Tom, telling her brother that Cevin started the confrontation. Beat 3 (6.8–10.0s): Micdo gives Ami a calm nod of acknowledgment before turning his full attention back to Tom.
+Beat 1 (0.0–2.8s): Micdo glances toward Ami on the steps and motions with his hand for her to go back inside the diner. Beat 2 (2.8–7.7s): Ami takes a step down the concrete threshold and gestures toward the patio table as she speaks up firmly in defense of Tom, telling her brother that his hot-tempered friend started the confrontation. Beat 3 (7.7–10.0s): Micdo gives Ami a calm nod of acknowledgment before turning his full attention back to Tom.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_PATIO; Ami moves smoothly on the near side while Tom holds the counter-angle.

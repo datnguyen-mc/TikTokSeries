@@ -6,8 +6,8 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-@Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
-Keep exact approved appearance for NYTRAN_R, MICDO, CELA with props RX7, S2000; never show a studio reference backdrop.
+@Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. fitted charcoal T-shirt under an open dark-blue denim work shirt, oil-scuffed dark jeans, worn brown work boots, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
+Keep exact approved appearance for NYTRAN_R, MICDO, TOM with props RX7, S2000; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -24,18 +24,18 @@ Micdo hứa sẽ tìm Seja mang xe trả sau, nhưng Ny Tran tiến sát mặt M
 Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 30.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In RACE_WARS during D5 afternoon (shot 30.5 opening): Ny Tran backing up one step toward his jet-black S2000 at RACE_WARS and pointing a warning finger at Micdo.
+In RACE_WARS during D5 afternoon (shot 30.5 opening): Ny Tran backing up one step toward his jet-black S2000 at RACE_WARS and pointing a warning finger at Micdo and Tom.
 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Ny Tran and Micdo with the Jet-Black Open Roadster anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Ny Tran's eyes and continuous hand-and-body follow-through with the Jet-Black Open Roadster, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Ny Tran's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Jet-Black Open Roadster, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ny Tran raises his right hand and points directly at Micdo's chest before turning toward his car. Beat 2 (3.2–6.8s): Ny Tran takes a measured step backward toward his black S2000, keeping his finger aimed at Micdo while vowing to settle this debt of honor. Beat 3 (6.8–10.0s): Ny Tran and Cela climb into the black S2000 and roar away from the paddock tent.
+Beat 1 (0.0–2.8s): Ny Tran raises his right hand and points directly at Micdo's chest before turning toward his car. Beat 2 (2.8–7.9s): Ny Tran takes a measured step backward toward his black S2000, keeping his finger aimed at Micdo while vowing to settle this debt of honor. Beat 3 (7.9–10.0s): Ny Tran climbs into the black S2000 and roars away from the paddock tent.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.9s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Ny Tran moves smoothly on the near side while Micdo holds the counter-angle.

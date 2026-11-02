@@ -30,17 +30,17 @@ In DESERT_HIGHWAY during D6 late afternoon (shot 33.1 opening): Cina in the left
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Cina with the Three Matte-Black Precision Coupes and Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Cina's eyes and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
+Composition: Frame Cina with the Three Matte-Black Precision Coupes anchored clearly in the wide 35mm lens geometry inside DESERT_HIGHWAY.
+Focus: Keep tack-sharp focus on Cina's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Three Matte-Black Precision Coupes, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Cina steers her coupe close to the right side of the trailer to reach Cevin braced on the cab step ahead. Beat 2 (3.2–6.8s): Cina feeds rapid steering corrections into the wheel with both gloved hands to dodge the swaying trailer flank while calling out over the radio. Beat 3 (6.8–10.0s): Verni's silver trailer swings wide to the right, closing the asphalt lane gap.
+Beat 1 (0.0–2.8s): Cina steers her coupe close to the right side of the trailer to reach the taut tether cable ahead. Beat 2 (2.8–7.7s): Cina feeds rapid steering corrections into the wheel with both gloved hands to dodge the swaying trailer flank while calling out over the radio. Beat 3 (7.7–10.0s): the silver trailer of RIG_18 swings wide to the right, closing the asphalt lane gap.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.7s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cina holds the primary plane aligned with Verni's swerving 18-wheel RIG_18 in the center lane of DESERT_HIGHWAY. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Cina holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
 Performance: Cina delivers the line with cool tactical composure, economical driver movements, focused gaze, and crisp vocal clarity and organic micro-expressions.
 
 

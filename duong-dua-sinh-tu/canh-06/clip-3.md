@@ -31,9 +31,9 @@ Composition: 85mm tabletop detail insert on the white ceramic sandwich plate, ic
 Focus: Tack-sharp focus on the crustless sandwich edges and water droplets on the glass.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami's hand sets the white ceramic plate with two neat halves of the crustless tuna sandwich down on the polished wooden counter beside a condensation-beaded glass of iced water. Beat 2 (3.2–6.8s): While Ami's voice plays off screen, Tom's right hand enters from screen right and rests lightly beside the plate. Beat 3 (6.8–10.0s): Midday sunlight through the front glass glints off the water glass and ceramic rim through 10.0s.
+Beat 1 (0.0–2.8s): Ami's hand sets the white ceramic plate with two neat halves of the crustless tuna sandwich down on the polished wooden counter beside a condensation-beaded glass of iced water. Beat 2 (2.8–7.4s): While Ami's voice plays off screen, Tom's right hand enters from screen right and rests lightly beside the plate. Beat 3 (7.4–10.0s): Midday sunlight through the front glass glints off the water glass and ceramic rim through 10.0s.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.
+Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 2.8–7.4s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Plate enters from screen left and settles at center; Tom's hand enters from screen right.

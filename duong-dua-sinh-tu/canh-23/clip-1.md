@@ -33,12 +33,12 @@ In TOTO_GARAGE during N3 night (shot 23.1 opening): Onle, Tom, and Seja working 
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
 Composition: Frame Onle and Tom with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Onle's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Focus: Keep tack-sharp focus on Onle's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Onle pulls a smooth final half-turn on the exhaust manifold bolt with the chrome torque wrench. Beat 2 (3.2–6.8s): Onle lifts the chrome torque wrench clear of the manifold bolt and wipes his brow with his forearm while announcing that combustion pressure is dialed in. Beat 3 (6.8–10.0s): Tom checks the braided oil line beside him and gives Onle an approving nod.
+Beat 1 (0.0–2.8s): Onle pulls a smooth final half-turn on the exhaust manifold bolt with the chrome torque wrench. Beat 2 (2.8–7.7s): Onle lifts the chrome torque wrench clear of the manifold bolt and wipes his brow with his forearm while announcing that combustion pressure is dialed in. Beat 3 (7.7–10.0s): Tom checks the braided oil line beside him and gives Onle an approving nod.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.7s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Onle moves smoothly on the near side while Tom holds the counter-angle.

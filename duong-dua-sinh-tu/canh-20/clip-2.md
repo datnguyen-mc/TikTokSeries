@@ -24,18 +24,18 @@ Micdo nâng chai nước trước cả nhóm, tuyên bố Tom đã cứu anh kh�
 Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 20.1. no intro flash, no studio reference card, and no morph or duplicated gesture.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_BACKYARD during N2 late night (shot 20.2 opening): Micdo addressing Cina and Cevin across the wooden barbecue table in TOTO_BACKYARD with Tom standing at his shoulder.
+In TOTO_BACKYARD during N2 late night (shot 20.2 opening): Micdo addressing Cina across the wooden barbecue table in TOTO_BACKYARD with Tom standing at his shoulder.
 
 [CAMERA]
 50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Tom with Chrome Torque Wrench & Garage Tool Set anchored clearly in the medium two-shot 50mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with Chrome Torque Wrench & Garage Tool Set, maintaining readable background depth.
+Composition: Frame Micdo and Tom in balanced two-shot depth within TOTO_BACKYARD using the medium two-shot 50mm lens geometry.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_BACKYARD.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo points to the soot smudges on Tom's work shirt and jaw. Beat 2 (3.2–6.8s): Micdo rests his open palm on Tom's shoulder and gestures toward the driveway while adding that Tom's green coupe was ruined in the Little Saigon lot. Beat 3 (6.8–10.0s): Cina exchanges a serious look with the crew around the table.
+Beat 1 (0.0–2.8s): Micdo points to the soot smudges on Tom's work shirt and jaw. Beat 2 (2.8–7.4s): Micdo rests his open palm on Tom's shoulder and gestures toward the driveway while adding that Tom's green coupe was ruined in the Little Saigon lot. Beat 3 (7.4–10.0s): Cina exchanges a serious, respectful look with Tom across the table.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.
+Action rhythm: Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 2.8–7.4s synchronized with speech, and smooth settling momentum through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_BACKYARD; Micdo moves smoothly on the near side while Tom holds the counter-angle.
@@ -67,7 +67,7 @@ Foreground sound: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps,
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
-In TOTO_BACKYARD at 10.0s of shot 20.2: Micdo speaking at the table in TOTO_BACKYARD while Tom stands composed beside him.
+In TOTO_BACKYARD at 10.0s of shot 20.2: Micdo speaking to Cina at the table in TOTO_BACKYARD while Tom stands composed beside him.
 Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]

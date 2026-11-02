@@ -29,13 +29,13 @@ In RACE_WARS during D5 afternoon (shot 30.4 opening): Micdo holding his ground c
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Micdo and Ny Tran with the Deep-Red Twin-Turbo Rotary Coupe anchored clearly in the tight close-up 85mm lens geometry.
-Focus: Keep tack-sharp focus on Micdo's eyes and continuous hand-and-body follow-through with the Deep-Red Twin-Turbo Rotary Coupe, maintaining readable background depth.
+Composition: Frame Micdo and Ny Tran in balanced two-shot depth within RACE_WARS using the tight close-up 85mm lens geometry.
+Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside RACE_WARS.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Micdo doesn't flinch an inch, keeping his dark eyes locked on Ny Tran. Beat 2 (3.2–6.8s): Micdo squares his broad shoulders without yielding a centimeter and gestures calmly with his left hand while stating his crew never tipped off the police. Beat 3 (6.8–10.0s): Ny Tran's jaw tightens in cold disbelief.
+Beat 1 (0.0–2.8s): Micdo doesn't flinch an inch, keeping his dark eyes locked on Ny Tran. Beat 2 (2.8–7.7s): Micdo squares his broad shoulders without yielding a centimeter and gestures calmly with his left hand while stating his crew never tipped off the police. Beat 3 (7.7–10.0s): Ny Tran's jaw tightens in cold disbelief.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Micdo moves smoothly on the near side while Ny Tran holds the counter-angle.

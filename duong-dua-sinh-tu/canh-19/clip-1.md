@@ -5,9 +5,9 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather racing jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-@Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
 @Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for TOM_R, CELA, MICDO with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
+@Cela = Cela: same approved identity, age 31; Wiry Vietnamese man with shaved sides and a tied topknot, narrow eyes, dragon art sleeve on right forearm. sleeveless black leather vest over dark shirt, dragon art sleeve on right forearm, black jeans, riding boots. Voice: raspy, clipped Southern Vietnamese male voice.
+Keep exact approved appearance for TOM_R, MICDO, CELA with props ECLIPSE, MOTO_PACK; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -27,22 +27,22 @@ Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù
 Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In SAIGON_LOT during N2 night (shot 19.1 opening): Tom and Micdo standing on screen left in SAIGON_LOT as Ny Tran and Cela step toward the rear hatch of the disabled neon-green ECLIPSE.
+In SAIGON_LOT during N2 night (shot 19.1 opening): Tom and Micdo standing on screen left in SAIGON_LOT as Cela steps toward the rear hatch of the disabled neon-green ECLIPSE.
 
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Cela with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
+Composition: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the wide 35mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom takes an urgent step forward with his hand raised as Cela loosens the rear nitrous pressure valve fitting of the Eclipse in simulated stunt choreography. Beat 2 (3.2–6.8s): Tom extends his right arm toward the rear hatch and takes another quick step forward on the gravel while shouting a warning about the venting nitrous cylinders. Beat 3 (6.8–10.0s): Micdo grabs Tom's jacket sleeve with both hands in a fast defensive movement to pull him back.
+Beat 1 (0.0–2.8s): Tom takes an urgent step forward with his hand raised as Cela loosens the rear nitrous pressure valve fitting of the Eclipse in simulated stunt choreography. Beat 2 (2.8–7.4s): Tom extends his right arm toward the rear hatch and takes another quick step forward on the gravel while shouting a warning about the venting nitrous cylinders. Beat 3 (7.4–10.0s): Micdo grabs Tom's jacket sleeve with both hands in a fast defensive movement to pull him back.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.4s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Tom moves smoothly on the near side while Cela holds the counter-angle.
-Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Cela maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Tom moves smoothly on the near side while Micdo holds the counter-angle.
+Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
 [BODY, MOUTH AND FACE STANDARD]

@@ -29,13 +29,13 @@ In RACE_WARS during D5 midday (shot 28.6 opening): Tom and Micdo reaching Seja b
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Seja with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe anchored clearly in the dramatic push-in 50mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with the Rebuilt 10-Second Metallic-Orange Twin-Turbo Coupe, maintaining readable background depth.
+Composition: Frame Tom and Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the dramatic push-in 50mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom grabs the top of the Jetta's open window frame, looking across at Ny Tran's idling black S2000. Beat 2 (3.2–6.8s): Tom leans down into the Jetta's open driver window and grips Seja's shoulder urgently while warning him not to fall for Ny Tran's bait. Beat 3 (6.8–10.0s): Seja buckles his racing harness, already committed to the starting light tree.
+Beat 1 (0.0–2.8s): Tom grabs the top of the Jetta's open window frame, looking across at Ny Tran's idling black S2000. Beat 2 (2.8–7.9s): Tom leans down into the Jetta's open driver window and grips Seja's shoulder urgently while warning him not to fall for the rival's bait. Beat 3 (7.9–10.0s): Seja buckles his racing harness, already committed to the starting light tree.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.9s as the line lands, and a living, breathing resolution through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Tom moves smoothly on the near side while Seja holds the counter-angle.

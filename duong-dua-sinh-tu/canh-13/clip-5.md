@@ -28,13 +28,13 @@ In RACE_MEET during N2 night (shot 13.5 opening): Tom and Micdo standing face-to
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Tom and Micdo with Vehicle Title Registration Certificate anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Tom's eyes and continuous hand-and-body follow-through with Vehicle Title Registration Certificate, maintaining readable background depth.
+Composition: Frame Tom and Micdo with the Neon-Green Turbo Sport Coupe anchored clearly in the kinetic handheld 35mm lens geometry.
+Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Tom picks up the PINK_SLIP sleeve and hands it to the race holder while keeping his eyes on Micdo. Beat 2 (3.2–6.8s): Tom steps to within arm's reach of Micdo, holding his gaze steadily while saying evenly that if he wins he wants Micdo's respect. Beat 3 (6.8–10.0s): Micdo holds Tom's gaze for a beat and nods once in acceptance.
+Beat 1 (0.0–2.8s): Tom picks up the PINK_SLIP sleeve and hands it to the race holder while keeping his eyes on Micdo. Beat 2 (2.8–7.7s): Tom steps to within arm's reach of Micdo, holding his gaze steadily while saying evenly that if he wins he wants Micdo's respect. Beat 3 (7.7–10.0s): Micdo holds Tom's gaze for a beat and nods once in acceptance.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.7s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Tom moves smoothly on the near side while Micdo holds the counter-angle.

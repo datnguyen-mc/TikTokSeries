@@ -26,18 +26,18 @@ Scene goal: Đôi mắt hằn đỏ vì Seja gặp nạn, Micdo chạy vào gara
 Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_GARAGE during D7 sunset (shot 37.1 opening): Ami and Tom on the driveway threshold leading to TOTO_GARAGE at sunset right after Seja's close call on the front lawn.
+In TOTO_GARAGE during D7 sunset (shot 37.1 opening): Ami and Tom on the driveway threshold leading to TOTO_GARAGE at sunset right after the close call on the front lawn.
 
 [CAMERA]
 35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Tom with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the wide 35mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
+Composition: Frame Ami and Tom in balanced two-shot depth within TOTO_GARAGE using the wide 35mm lens geometry.
+Focus: Keep tack-sharp focus on Ami's eyes, lip-sync articulation, and natural hand-and-body gesture follow-through inside TOTO_GARAGE.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami grips Tom's arm with tears on her cheeks, looking back toward the front yard where neighbors help Seja up. Beat 2 (3.2–6.8s): Ami tightens both hands on Tom's forearm and leans her forehead briefly against his shoulder while speaking in distress over Seja. Beat 3 (6.8–10.0s): both of them turn as heavy footsteps stride down the driveway into the rear garage.
+Beat 1 (0.0–2.8s): Ami grips Tom's arm with tears on her cheeks, looking back toward the front yard. Beat 2 (2.8–7.7s): Ami tightens both hands on Tom's forearm and leans her forehead briefly against his shoulder while speaking in distress over her cousin. Beat 3 (7.7–10.0s): both of them turn as heavy footsteps stride down the driveway into the rear garage.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 2.8–7.7s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
 Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Ami moves smoothly on the near side while Tom holds the counter-angle.

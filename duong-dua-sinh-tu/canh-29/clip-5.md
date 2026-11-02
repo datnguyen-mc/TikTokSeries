@@ -5,8 +5,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 [CHARACTERS — approved identities and current appearances]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Seja = Seja: same approved identity, age 22; Wiry young man with messy curly dark hair, quick restless eyes, thin-framed technical glasses. white-and-blue racing windbreaker over dark tee, cargo trousers, driving shoes, thin-framed glasses. Voice: quick, earnest, energetic Southern Vietnamese male voice.
-@NyTran = Ny Tran: same approved identity, age 30; Vietnamese man with sharp cheekbones, sleek undercut black hair, cold calculating eyes, gold neck chain. armored black motorcycle leather jacket over crimson shirt, black riding gloves, dark trousers, riding boots. Voice: cold, smooth, commanding Southern Vietnamese male voice.
-Keep exact approved appearance for SEJA_R, NYTRAN_R with props JETTA, S2000, NOS_BOTTLES; never show a studio reference backdrop.
+Keep exact approved appearance for SEJA_R with props JETTA, S2000, NOS_BOTTLES; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -28,18 +27,18 @@ In RACE_WARS during D5 midday (shot 29.5 opening): Seja inside the decelerating 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Seja and Ny Tran with the Jet-Black Open Roadster anchored clearly in the kinetic handheld 35mm lens geometry.
-Focus: Keep tack-sharp focus on Seja's eyes and continuous hand-and-body follow-through with the Jet-Black Open Roadster, maintaining readable background depth.
+Composition: Frame Seja with the Alpine-White Tuned Sport Sedan anchored clearly in the kinetic handheld 35mm lens geometry inside RACE_WARS.
+Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and continuous hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Seja stares in disbelief at the taillights of Ny Tran's S2000 ahead and grips both sides of his head above the wheel. Beat 2 (3.2–6.8s): Seja slides both hands down the steering wheel rim and leans over the dashboard in panic while crying out that he has lost his father's car. Beat 3 (6.8–10.0s): his eyes dart frantically toward the open desert exit road at the far end of the runway.
+Beat 1 (0.0–2.8s): Seja stares in disbelief at the taillights of Ny Tran's S2000 ahead and grips both sides of his head above the wheel. Beat 2 (2.8–7.7s): Seja slides both hands down the steering wheel rim and leans over the dashboard in panic while crying out that he has lost his father's car. Beat 3 (7.7–10.0s): his eyes dart frantically toward the open desert exit road at the far end of the runway.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.7s during speech, and balanced physical recovery through 10.0s.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja moves smoothly on the near side while Ny Tran holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence and organic micro-expressions.
 
 
 [BODY, MOUTH AND FACE STANDARD]

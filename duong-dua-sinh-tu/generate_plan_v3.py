@@ -1234,13 +1234,70 @@ for _new_idx, _old_num in enumerate(SELECTED_OLD_SCENES, start=1):
 SCENE_SPECS = _NEW_SCENE_SPECS
 SCENE_DIALOGUES = _NEW_SCENE_DIALOGUES
 
-# Refine 6 dialogue lines so the speaking character in Beat 2 always speaks naturally in first person:
+# Refine dialogue lines so the speaking character in Beat 2 always speaks naturally in first person and matches the on-screen action:
+SCENE_DIALOGUES[2][2] = "Buông cái khung kính cửa xe tao ra ngay thằng liều mạng kia!"
 SCENE_DIALOGUES[2][3] = "Ngồi yên trên ghế lái đi chú Verni, dây cáp ngoài kia đang căng hết cỡ rồi."
+SCENE_DIALOGUES[2][4] = "Tụi mày cướp đầu kéo của tao kiểu này thì cảnh sát không tha đâu!"
+SCENE_DIALOGUES[2][5] = "Tao khống chế được buồng lái rồi, Cina áp sát đuôi thùng xe đi!"
+SCENE_DIALOGUES[4][3] = "Hàng lên đủ hết rồi, cả đội chuẩn bị tách khỏi đầu kéo rẽ xuống lối ra!"
+SCENE_DIALOGUES[4][5] = "Đoạn đường nhánh phía sau sạch bóng xe tuần tra rồi, giữ đều ga rút êm luôn."
+SCENE_DIALOGUES[6][2] = "Phần bánh mì cá ngừ cắt vỏ của anh xong rồi đây, ăn liền cho ngon nghen."
+SCENE_DIALOGUES[6][3] = "Sao trưa nào anh cũng ghé quán gọi đúng món bánh mì cá ngừ này vậy?"
+SCENE_DIALOGUES[6][4] = "Vì ngày nào anh cũng muốn kiếm cớ ghé qua đây để được nhìn thấy em."
+SCENE_DIALOGUES[6][5] = "Tiếng bô xe ngoài cửa nghe quen lắm, đám của Cevin vừa kéo tới kìa anh Tom."
+SCENE_DIALOGUES[7][2] = "Thôi bỏ qua đi Cevin, giữ yên chuyện trước cửa quán của Ami đi anh em."
+SCENE_DIALOGUES[7][4] = "Tôi chỉ ghé quán ăn trưa thôi, giờ tôi lên xe quay về xưởng liền đây."
+SCENE_DIALOGUES[7][5] = "Đứng lại đó thằng kia, đừng tưởng bước ra tới xe là xong chuyện với tao!"
+SCENE_DIALOGUES[8][3] = "Cevin dừng tay lại ngay lập tức, anh định làm loạn trước quán nhà mình hả!"
+SCENE_DIALOGUES[8][4] = "Anh cả Micdo đang phóng chiếc xe đỏ về tới ngay đầu đường rồi kìa mọi người!"
+SCENE_DIALOGUES[8][5] = "Em cứ vào trong quầy trước đi Ami, để anh ở lại nói chuyện rõ ràng với anh trai em."
+SCENE_DIALOGUES[9][1] = "Chuyện hiểu lầm ngoài hiên quán đã dừng lại rồi, không ai bị sao hết đâu anh."
+SCENE_DIALOGUES[9][3] = "Anh hai đừng trách anh Tom, chính Cevin là người kiếm chuyện cản đường ảnh trước đó."
+SCENE_DIALOGUES[9][4] = "Tao không cần biết ai gây sự trước, nhưng tao không muốn thấy mặt cậu ở quán này lần thứ hai."
+SCENE_DIALOGUES[9][5] = "Tối nay trên đường đua đường phố, tôi với anh sẽ còn gặp lại nhau."
+SCENE_DIALOGUES[10][1] = "Đã có thêm bốn xe đầu kéo bị chặn cướp, cánh tài xế như Verni đang đòi tự vệ kìa."
+SCENE_DIALOGUES[10][3] = "Cách duy nhất để bước chân vào nhóm của Micdo đêm nay là thắng hắn trên đường đua."
+SCENE_DIALOGUES[10][4] = "Cầm lấy hồ sơ chiếc xe xanh này đi, đây là tấm vé duy nhất để cậu tiếp cận Micdo."
+SCENE_DIALOGUES[10][5] = "Nhớ giữ cái đầu tỉnh táo nha Tom, đừng để tình cảm với cô gái đó làm mờ phù hiệu cảnh sát."
+SCENE_DIALOGUES[11][1] = "Nhớ kỹ chiếc xe xanh đó ngốn hết tám mươi ngàn đô ngân sách kỹ thuật của đội đặc nhiệm đấy."
+SCENE_DIALOGUES[12][2] = "Mình phải canh thật kỹ đồng hồ áp suất, bấm bình thứ hai sớm quá là bung sàn xe ngay."
+SCENE_DIALOGUES[12][4] = "Tôi sẽ giữ nhịp sang số thật chuẩn để đưa con xe này chạm ngưỡng mười giây đêm nay."
+SCENE_DIALOGUES[14][0] = "Côn bám đường tốt quá, sang số hai ngay để giữ đà bám sát chiếc xe đỏ!"
+SCENE_DIALOGUES[14][2] = "Động cơ quay lên tám ngàn vòng êm ru, để coi cậu bám theo đuôi xe tao được bao xa."
+SCENE_DIALOGUES[16][2] = "Mình phải cắt ngang qua con hẻm kho hàng phía sau này để thoát ra đường nhánh thôi."
+SCENE_DIALOGUES[16][5] = "Không thể để Micdo bị cảnh sát bắt đêm nay được, mình phải quay xe lại cứu anh ấy ngay."
+SCENE_DIALOGUES[18][4] = "Tắt máy bước xuống bãi đá ngay lập tức, đưa cả hai bàn tay ra chỗ sáng cho tao nhìn thấy!"
+SCENE_DIALOGUES[18][5] = "Lá gan tụi mày lớn dữ ha, dám kéo chiếc xe bốc khói mù mịt chạy thẳng vô bãi kho của tụi tao!"
+SCENE_DIALOGUES[20][4] = "Bình tĩnh lại đi Cevin, cậu ấy vừa mất trắng cả chiếc xe để đưa anh Micdo về nhà an toàn đó."
+SCENE_DIALOGUES[21][5] = "Dù đã là người một nhà nhưng cậu vẫn còn nợ tao một chiếc xe chạy mười giây đó nha Tom."
+SCENE_DIALOGUES[27][5] = "Thả người của Ny Tran ra ngay, như vậy băng cướp xa lộ thật sự chỉ có thể là đội của Micdo."
+SCENE_DIALOGUES[28][3] = "Anh Tom nhìn ra vạch xuất phát kìa, Ny Tran vừa lái chiếc xe mui trần màu đen tiến lên đường đua đó."
+SCENE_DIALOGUES[28][4] = "Máy tính báo tỷ lệ thắng của em tới sáu mươi bốn phần trăm, em đặt cược giấy tờ xe với hắn rồi!"
+SCENE_DIALOGUES[28][5] = "Đừng mắc bẫy của Ny Tran nha Seja, dưới nắp máy chiếc xe đen đó giấu đồ độ khủng lắm!"
 SCENE_DIALOGUES[29][0] = "Đèn xanh bật sáng rồi, chiếc xe trắng của mình vọt lên dẫn trước nửa thân xe!"
-SCENE_DIALOGUES[29][5] = "Thua thật rồi, hắn giấu bài kỹ quá khiến toàn bộ phép tính của mình đổ bể hết."
+SCENE_DIALOGUES[29][3] = "Tạm biệt chiếc xe trắng nha nhóc, hai bình khí tăng tốc dưới ghế của tao không phải để trưng bày đâu!"
+SCENE_DIALOGUES[29][4] = "Mình làm mất chiếc xe kỷ vật của cha vào tay Ny Tran rồi, biết ăn nói sao với anh Micdo đây!"
+SCENE_DIALOGUES[29][5] = "Không thể giao chiếc xe này cho Ny Tran được, mình phải đạp ga chạy trốn khỏi đường băng này ngay!"
+SCENE_DIALOGUES[30][0] = "Bước ra đây ngay Micdo, thằng đàn em của mày vừa thua độ đã lái chiếc xe trắng bỏ trốn rồi kìa!"
+SCENE_DIALOGUES[30][1] = "Thằng Seja chỉ hoảng sợ nhất thời thôi, tự tay tao sẽ đi tìm nó rồi giao xe lại cho mày sau."
 SCENE_DIALOGUES[32][4] = "Sợi cáp thép quấn chặt vô cổ tay em rồi anh Micdo ơi, kéo em ra khỏi hông xe với!"
 SCENE_DIALOGUES[33][1] = "Bánh trước bên trái xe của em bị ép xẹp lốp rồi, chiếc xe đang trượt văng ra lề cát!"
+SCENE_DIALOGUES[36][5] = "Seja ơi bình tĩnh thở đều đi em, có anh hai với Ami đỡ em ngay trên bãi cỏ rồi đây!"
+SCENE_DIALOGUES[37][0] = "Anh Tom ơi, thằng bé Seja hiền lành vậy mà suýt nữa bị tụi nó tông thẳng ngay trước cửa nhà mình rồi!"
+SCENE_DIALOGUES[37][2] = "Anh Micdo định lấy chiếc xe cơ bắp đời một chín bảy mươi của cha ra chạy lúc đang nóng giận sao!"
+SCENE_DIALOGUES[37][3] = "Hôm nay tao sẽ bắt hai thằng Ny Tran và Cela phải trả đủ món nợ đã gây ra cho Seja!"
 SCENE_DIALOGUES[38][0] = "Thằng Cela đang ngoái lại định áp sát gây nguy hiểm vào kính chắn gió xe tao kìa Tom!"
+SCENE_DIALOGUES[38][1] = "Ny Tran đang ép sát cửa xe anh kìa Micdo, để tôi đạp lút ga lên làn phải khóa góc hắn lại!"
+SCENE_DIALOGUES[38][3] = "Tay lái mô tô của Ny Tran quệt trúng gương xe mình nên chao đảo lệch khỏi mặt đường dốc rồi!"
+SCENE_DIALOGUES[38][4] = "Chiếc mô tô của hắn trượt xuống lòng kênh bê tông bên dưới rồi, dừng tay lại tại đây thôi Micdo!"
+SCENE_DIALOGUES[38][5] = "Mối nguy từ nhóm Ny Tran đã xong, nhưng mình phải bám theo giữ cho Micdo bình tĩnh lại mới được."
+SCENE_DIALOGUES[39][0] = "Trong mười giây phía trước không còn quá khứ hay luật pháp gì nữa, chạy với tao một chặng cuối đi Tom!"
+SCENE_DIALOGUES[39][1] = "Sức kéo chín trăm mã lực kinh khủng thật, hai bánh trước xe của anh ấy nhấc bổng khỏi mặt đường luôn kìa!"
+SCENE_DIALOGUES[39][2] = "Đoàn tàu hỏa đang kéo còi sát bên phải rồi, cả hai xe phải vọt qua đường ray ngay tích tắc này!"
+SCENE_DIALOGUES[39][3] = "Vượt qua mũi tàu hỏa sát nút đúng một gang tấc, cảm giác mười giây tự do chính là lúc này đây!"
+SCENE_DIALOGUES[39][5] = "Chiếc xe đen của anh ấy quệt đuôi xe tải xoay vòng ra lề đất rồi, mình phải qua đỡ Micdo ngay!"
+SCENE_DIALOGUES[40][0] = "Nắm chặt lấy cánh tay tôi đi Micdo, để tôi đỡ anh bước ra khỏi buồng lái đang bốc hơi nước này!"
+SCENE_DIALOGUES[40][5] = "Món nợ chiếc xe mười giây tôi đã trả xong, giờ tôi đứng lại đây nhận mọi trách nhiệm với ông, trung sĩ Nese."
 
 _NEW_FIRST_INTRO_CLIPS = {}
 for _old_cid, _val in FIRST_INTRO_CLIPS.items():
@@ -1257,13 +1314,24 @@ for _char_key, _char_spec in CHARACTER_LOCK.items():
 
 CAMERA_LENS_LABEL = {
     "E": "wide establishing 24mm",
-    "W": "wide 28mm",
-    "M": "medium two-shot 35mm",
+    "W": "wide 35mm",
+    "M": "medium two-shot 50mm",
     "I": "macro detail 85mm",
     "T": "low-angle tracking 35mm",
     "C": "tight close-up 85mm",
     "H": "kinetic handheld 35mm",
     "P": "dramatic push-in 50mm",
+}
+
+CAMERA_RHYTHM_MAP = {
+    "E": "Continuous fluid tracking momentum from 0.0s, smooth spatial progression across 3.2–6.8s while dialogue plays in motion, and unbroken forward follow-through to 10.0s.",
+    "W": "Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.",
+    "M": "Unbroken two-shot physical flow from 0.0s, natural upper-body and hand follow-through across 3.2–6.8s synchronized with speech, and smooth settling momentum through 10.0s.",
+    "I": "Immediate mechanical motion at 0.0s, progressive physical actuation through 3.2–6.8s under off-screen voice, and continuous dynamic follow-through to 10.0s.",
+    "T": "High-velocity lateral tracking momentum from 0.0s, smooth steering and suspension articulation across 3.2–6.8s during the line, and sustained forward motion through 10.0s.",
+    "C": "Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 3.2–6.8s, and natural breathing follow-through to 10.0s.",
+    "H": "Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 3.2–6.8s during speech, and balanced physical recovery through 10.0s.",
+    "P": "Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 3.2–6.8s as the line lands, and a living, breathing resolution through 10.0s.",
 }
 
 
@@ -1351,8 +1419,8 @@ def build_scene_clips(scene_spec: tuple) -> dict:
         )
         ranked_chars: list[str] = []
         if raw_beat is not None:
-            r_open, r_b1, r_b2, r_b3, _ = raw_beat
-            for seg in (r_b2, r_b1, r_open, r_b3):
+            r_open, r_b1, r_b2, r_b3, r_end = raw_beat
+            for seg in (r_b2, r_b1, r_open, r_b3, r_end):
                 matches = []
                 for lk in chars:
                     nm = IDENTITIES[LOOKS[lk][0]]["name"]
@@ -1363,9 +1431,8 @@ def build_scene_clips(scene_spec: tuple) -> dict:
                 for _, lk in matches:
                     if lk not in ranked_chars:
                         ranked_chars.append(lk)
-        for lk in chars:
-            if lk not in ranked_chars:
-                ranked_chars.append(lk)
+        if not ranked_chars:
+            ranked_chars = list(chars)
 
         clip_chars = list(ranked_chars[:3])
 
@@ -1410,6 +1477,13 @@ def build_scene_clips(scene_spec: tuple) -> dict:
         if is_insert_shot:
             clip_chars = []
             ins = staging["insert_clip3"]
+            for lk in chars:
+                nm = IDENTITIES[LOOKS[lk][0]]["name"]
+                if f"While {nm}'s voice plays off screen" in ins["action"]:
+                    active_speaker = lk
+                    active_base = LOOKS[active_speaker][0]
+                    active_name = nm
+                    break
             start_frame = ins["start_frame"]
             action = ins["action"]
             end_frame = ins["end_frame"]
@@ -1417,7 +1491,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             composition_str = ins["composition"]
             blocking_str = ins["blocking"]
             focus_str = ins["focus"]
-            performance_str = f"Mechanical and physical detail takes center stage while {active_name}'s voice plays cleanly off screen."
+            performance_str = f"Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while {active_name}'s voice plays cleanly off screen."
         else:
             shot_type = (
                 "ESTABLISHING_WIDE" if cam in ("E", "W")
@@ -1440,14 +1514,34 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             end_frame = end_st
             action = f"Beat 1 (0.0–3.2s): {b1}. Beat 2 (3.2–6.8s): {b2}. Beat 3 (6.8–10.0s): {b3}."
 
-            if counterpart_name:
-                composition_str = f"Frame {active_name} and {counterpart_name} with {prop_main_readable} anchored clearly in the {lens_label} lens geometry."
-                blocking_str = f"Preserve left-to-right 180-degree spatial continuity inside {loc_key}; {active_name} operates on the near side while {counterpart_name} holds the counter-angle."
+            combined_beats = f"{b1} {b2} {b3}"
+            clip_prop = prop_main
+            if "SUPRA_KEY" in props and ("SUPRA_KEY" in combined_beats or "ignition key" in combined_beats):
+                clip_prop = "SUPRA_KEY"
+            elif "CHARGER" in props and ("Charger" in combined_beats or "CHARGER" in combined_beats) and "Supra" not in combined_beats:
+                clip_prop = "CHARGER"
             else:
-                composition_str = f"Frame {active_name} with {prop_main_readable} and {staging['counterpart_placement']} anchored clearly in the {lens_label} lens geometry."
+                for pk in props:
+                    if pk in combined_beats:
+                        clip_prop = pk
+                        break
+            clip_prop_readable = (
+                VEHICLE_LOCK[clip_prop]["name"] if clip_prop in VEHICLE_LOCK
+                else OBJECT_LOCK[clip_prop]["name"] if clip_prop in OBJECT_LOCK
+                else prop_main_readable
+            )
+
+            if counterpart_name:
+                composition_str = f"Frame {active_name} and {counterpart_name} with {clip_prop_readable} anchored clearly in the {lens_label} lens geometry."
+                blocking_str = f"Preserve left-to-right 180-degree spatial continuity inside {loc_key}; {active_name} moves smoothly on the near side while {counterpart_name} holds the counter-angle."
+            else:
+                composition_str = f"Frame {active_name} with {clip_prop_readable} and {staging['counterpart_placement']} anchored clearly in the {lens_label} lens geometry."
                 blocking_str = f"Preserve left-to-right 180-degree spatial continuity inside {loc_key}; {active_name} holds the primary plane aligned with {staging['counterpart_placement']}."
-            focus_str = f"Keep tack-sharp focus on {active_name}'s eyes and active hands on {prop_main_readable}, with readable background depth."
-            performance_str = f"{active_name} plays restrained high-stakes intensity without melodrama, letting micro-expressions and grip tension carry the beat."
+            if cid == "40.6":
+                focus_str = f"Keep tack-sharp focus on {active_name}'s eyes, natural breathing, and calm posture on the desert road as {counterpart_name or 'Sergeant Nese'} steps into the background depth plane."
+            else:
+                focus_str = f"Keep tack-sharp focus on {active_name}'s eyes and continuous hand-and-body follow-through with {clip_prop_readable}, maintaining readable background depth."
+            performance_str = f"{active_name} plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions."
 
         line_text = SCENE_DIALOGUES[s_num][c_num - 1]
         line_syl = len(re.findall(r"[^\W\d_]+", line_text))
@@ -1488,7 +1582,7 @@ def build_scene_clips(scene_spec: tuple) -> dict:
             "focus": focus_str,
             "texture": "Weathered asphalt, brushed steel, painted bodywork, natural skin pores and subtle exhaust heat shimmer.",
             "sound_detail": f"Clean mechanical contact, engine cadence and natural breathing beneath {active_name}'s Southern Vietnamese dialogue.",
-            "rhythm": "Immediate momentum at 0.0s, decisive mechanical turn at 3.2s during the line, and a living hold from 6.8s to 10.0s.",
+            "rhythm": CAMERA_RHYTHM_MAP[cam],
         }
 
         veh_states = {p: resolve_vehicle_condition(p, s_num, c_num) for p in props if p in VEHICLE_LOCK}

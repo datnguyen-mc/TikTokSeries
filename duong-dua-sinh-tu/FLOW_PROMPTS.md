@@ -12,18 +12,18 @@ Master 16:9 đầy khung, 24 fps. Một clip một camera setup; thoại tiếng
 
 | Nhân vật | Handle | media_id đã có |
 |---|---|---|
-| Tom | `@Tom` | `d83378af-6eec-499e-a17c-2a12e5764219` |
-| Micdo | `@Micdo` | `317c339b-17ca-4564-934a-40987d1d50f0` |
-| Ami | `@Ami` | `38ee1e43-a8ce-40ac-aff7-3f0383ccc3e4` |
-| Cevin | `@Cevin` | `ccca3339-8c3a-4dd6-affc-e5b1459643b3` |
-| Cina | `@Cina` | `439d9f2b-627a-4565-96b8-9bbf40826086` |
-| Seja | `@Seja` | `3bb3de48-4dd3-4a90-a3ea-60be3063a7b1` |
-| Onle | `@Onle` | `5a83756f-9ebb-4e2d-8ed5-89c313dc6976` |
-| Ny Tran | `@NyTran` | `bdd1b074-3809-46ac-963d-7ffc1d800d7c` |
-| Cela | `@Cela` | `d977c3f5-1225-4caa-8772-39b2588a71f3` |
-| Nese | `@Nese` | `823abd75-2434-4f07-8812-70ed808cb67b` |
-| Kinan | `@Kinan` | `ea56efae-cf13-48ad-a069-dfa421e96a36` |
-| Verni | `@Verni` | `79ff8afe-97f5-4165-a602-d42d1b1a8d70` |
+| Tom | `@Tom` | `53e825dd-52eb-41f9-bf6a-4fe562792c55` |
+| Micdo | `@Micdo` | `0044e498-ba46-4b33-b325-cb5a322cf73a` |
+| Ami | `@Ami` | `7226ddde-c39f-4278-a8ed-ab6187fb7509` |
+| Cevin | `@Cevin` | `a0c490db-9269-4093-b7d6-54c7f854dca5` |
+| Cina | `@Cina` | `6ef4b4a9-e0a5-4b63-a245-a995f11bd7ea` |
+| Seja | `@Seja` | `7dc7e4cc-d7ae-47e4-b3d3-cee720775859` |
+| Onle | `@Onle` | `58d0ebc5-cd00-4af2-9ea8-3b11f352556e` |
+| Ny Tran | `@NyTran` | `3004cbee-ba9f-42d8-b11e-c55fec49e5ab` |
+| Cela | `@Cela` | `57d9ea23-b1c8-4f65-b65b-918d070bd76c` |
+| Nese | `@Nese` | `27ede5a3-d368-4b6e-a8e0-b8b4d8574f03` |
+| Kinan | `@Kinan` | `c5238e27-22b2-44e2-84b7-a0b6296d649d` |
+| Verni | `@Verni` | `5e834823-4e0f-4c3c-a881-c645630a898a` |
 
 ## Biến thể dùng cùng danh tính
 

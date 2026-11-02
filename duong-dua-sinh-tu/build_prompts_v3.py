@@ -29,14 +29,14 @@ from film_bible import (
 
 BASE_DIR = Path(__file__).resolve().parent
 CAMERAS = {
-    'W': '35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.',
-    'M': '50mm medium shot at eye level. Gesture, reaction and dialogue play in the same composition without quiet pause.',
-    'C': '85mm close-up at eye level, natural shallow depth of field. Readable facial micro-expressions and natural lip sync, no orbit.',
-    'I': '85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves decisively from 0.0s and stays spatially readable without forcing visible characters into frame.',
-    'T': '35mm lateral tracking shot moving with the subject in the established direction. No whip pan, drone move or reverse-axis cut.',
-    'H': '35mm controlled handheld medium-wide with kinetic energy, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera\'s view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.',
-    'O': '50mm over-shoulder or point-of-view composition from the observer specified in the opening frame. Keep eyelines matched.',
-    'P': '50mm steady, purposeful straight push-in, no lens change, no orbit. Tension builds while the final expression stays readable.',
+    'W': '35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.',
+    'M': '50mm medium shot at eye level with smooth fluid-head tracking. Upper-body movement, hand follow-through, reaction and dialogue blend in one continuous motion without freezing or quiet pause.',
+    'C': '85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.',
+    'I': '85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.',
+    'T': '35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right direction with progressive suspension and wheel kinematics. No whip pan, drone move or reverse-axis cut.',
+    'H': '35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera\'s view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.',
+    'O': '50mm over-shoulder or point-of-view composition from the observer specified in the opening frame, maintaining smooth parallax and matched eyelines.',
+    'P': '50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.',
     'E': '24mm wide-angle cinematic opening move: one smooth continuous low-angle lateral track pacing the moving vehicle along the established road axis with natural speed and parallax. No drone, no whip pan, no cut.',
 }
 SHUTTER = {'H': 'Crisp 150-degree shutter for sharp action'}
@@ -497,15 +497,20 @@ def prop_detail(plan: dict, key: str, c: dict) -> str:
 
 def transition_text(c: dict, previous: dict | None) -> str:
     if previous is None:
-        return 'Film opening. Begin directly at 0.0s inside the live night highway setting with the 18-wheel semi-truck already moving; no logo, title, recap, studio backdrop, or fade-in.'
+        return 'Film opening. Begin directly at 0.0s inside the live night highway setting with the 18-wheel semi-truck already moving smoothly; no logo, title, recap, studio backdrop, or fade-in.'
     if c['transition'] == 'CONTINUE':
         return 'Begin directly at 0.0s in the exact established position, lens, axis, lighting and props from the preceding beat without injecting a static start-frame image; advance to the new action immediately at 0.0s and never replay the preceding gesture or words.'
+    same_scene_link = (
+        f" Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot {previous['id']}."
+        if previous and previous.get('scene') == c.get('scene')
+        else ''
+    )
     return {
-        'OPEN': 'Begin directly at 0.0s in the stated time and place with the composition, lighting and movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.',
-        'CUT': 'Begin directly at 0.0s in this single camera setup with natural momentum, preserving compatible screen direction and eyelines; no intro flash, no studio reference card, and no morph or duplicated gesture.',
-        'MATCH': 'Begin directly at 0.0s in this new time and place with the related shape or pose already established in the opening frame; advance the action from 0.0s with no morph, dissolve, reference card flash, or replay of an earlier shot.',
-        'J': 'Begin directly at 0.0s in this single location and camera setup with the location sound and movement already active from the very first frame; single-location take only, never show two locations or flash a reference card.',
-        'L': 'Begin directly at 0.0s in this single location and camera setup while ambient sound settles naturally into the scene; single-location take only, never show two locations or flash a reference card.',
+        'OPEN': 'Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.',
+        'CUT': f'Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines;{same_scene_link} no intro flash, no studio reference card, and no morph or duplicated gesture.',
+        'MATCH': f'Begin directly at 0.0s in this new time and place with the related shape or pose already in fluid motion in the opening frame;{same_scene_link} advance the action from 0.0s with no morph, dissolve, reference card flash, or replay of an earlier shot.',
+        'J': f'Begin directly at 0.0s in this single location and camera setup with the location sound and physical movement already active from the very first frame;{same_scene_link} single-location take only, never show two locations or flash a reference card.',
+        'L': f'Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene;{same_scene_link} single-location take only, never show two locations or flash a reference card.',
     }[c['transition']]
 
 
@@ -528,9 +533,9 @@ def render_prompt(plan: dict, c: dict, previous: dict | None, following: dict | 
         note += '\nTime ellipsis: ' + c['time_ellipsis'] + '.'
     end = c['end_frame']
     if following:
-        out = 'Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.'
+        out = 'Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.'
     else:
-        out = 'End the film on this living composition in the same location through 10.0s. Any title and final fade are added in post-production, never generated inside the image, and never cut to a studio reference portrait.'
+        out = 'End the film on this living, moving composition in the same location with natural breathing and ambient motion continuing smoothly through 10.0s. Any title and final fade are added in post-production, never generated inside the image, and never cut to a studio reference portrait.'
     scene_obj = plan['scenes'][c['scene'] - 1]
     if c['scene'] == 1 and c['number'] == 1:
         scene_intro = f"\n[FILM OPENING INTRODUCTION — Mở đầu phim: {scene_obj['title']}]\nGrand opening shot of the film: at night on Interstate 10, a massive 18-wheel semi-truck hauls electronics cargo while three matte-black coupes with glowing green underglow close in from behind. Verni is already driving inside the left-hand cab seat at 0.0s as the narrator introduces him.\n"
@@ -583,7 +588,7 @@ Spatial geography & 180-degree axis: {env_axis}
 
 [ACTION — 0–10s, one evolving take]
 {c['action']}
-Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.{rhythm}
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.{rhythm}
 {staging}
 
 [BODY, MOUTH AND FACE STANDARD]

@@ -329,7 +329,7 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
             ((24, 1), (37, 2), "pristine garage-kept condition under canvas cover, polished chrome supercharger gleaming"),
             ((37, 3), (39, 4), "roaring at full 900-hp supercharged output, front tires lifting under launch torque"),
             ((39, 5), (39, 6), "dented front right fender and steaming radiator after a controlled stunt spin past the rail crossing"),
-            ((40, 1), (40, 6), "resting on the dirt shoulder past the crossing with dented front fascia and white steam venting from the hood"),
+            ((40, 1), (40, 6), "resting upright on the dirt shoulder past the crossing with dented front fascia and white radiator steam rising gently into the dusk breeze"),
         ],
     },
     "SUPRA_SHELL": {
@@ -367,7 +367,10 @@ VEHICLE_LOCK: dict[str, dict[str, Any]] = {
         "damage_states": [
             ((23, 1), (33, 6), "freshly painted metallic-orange finish, polished twin-turbo engine bay"),
             ((34, 1), (35, 6), "targa roof panel removed for high-speed highway rescue beside the semi-truck, light desert dust on lower rockers"),
-            ((37, 1), (40, 6), "high-speed pursuit trim with minor right-side rub mark from contact with motorcycle, engine running clean"),
+            ((37, 1), (39, 6), "high-speed pursuit trim with minor right-side rub mark from contact with motorcycle, engine running clean"),
+            ((40, 1), (40, 4), "parked on the desert shoulder beside the dented Charger with its twin-turbo engine ready for immediate launch"),
+            ((40, 5), (40, 5), "driver door opened by Tom as Micdo climbs into the left-hand seat, fires the twin-turbo engine, and launches toward the dusk horizon"),
+            ((40, 6), (40, 6), "speeding away into the distant amber dusk horizon with quad round taillights receding down the straight desert road"),
         ],
     },
     "JETTA": {
@@ -558,7 +561,11 @@ OBJECT_LOCK: dict[str, dict[str, Any]] = {
         "default_owner": "TOM",
         "description": "Single metal ignition key to the orange 10-second sport coupe on a steel ring.",
         "state_by_scene": [
-            ((40, 1), (40, 6), "held in Tom's open right palm and pressed firmly into Micdo's hand beside the orange Supra"),
+            ((40, 1), (40, 2), "tucked inside Tom's leather jacket pocket while he helps Micdo clear of the steaming Charger"),
+            ((40, 3), (40, 3), "reached for inside Tom's leather jacket pocket by his right hand beside the orange Supra"),
+            ((40, 4), (40, 4), "held steady in Tom's open right palm on its brushed steel ring between Tom and Micdo"),
+            ((40, 5), (40, 5), "pressed firmly by Tom into Micdo's hand and inserted into the orange Supra ignition"),
+            ((40, 6), (40, 6), "engaged inside the orange Supra ignition as Micdo drives into the distant dusk horizon"),
         ],
     },
     "CUSTOMS_INVOICE": {
@@ -819,31 +826,34 @@ ENVIRONMENT_LOCK: dict[str, dict[str, Any]] = {
 
 ACTION_STUNT_CHOREOGRAPHY_RULE: str = (
     "Action & martial arts stunt choreography rule: Professional stunt performers execute a tightly choreographed "
-    "martial arts and action confrontation. Fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, "
-    "dynamic footwork and realistic physical reactions. When a performer loses balance, they fall safely onto padded flooring "
-    "outside the camera's view. Intense action-film atmosphere, realistic lighting, handheld cinematography, fast-paced editing style, "
+    "martial arts and action confrontation with unbroken kinematic flow from 0.0s to 10.0s. Fast defensive movements, "
+    "precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions blend "
+    "seamlessly across beats without mid-shot pauses. When a performer loses balance, they fall safely onto padded flooring "
+    "outside the camera's view. Intense action-film atmosphere, realistic lighting, fluid handheld or gimbal cinematography, "
     "authentic Vietnamese action cinema. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography."
 )
 
 PHYSICS_RULES: dict[str, str] = {
     "vehicle": (
-        "Vehicle physics: vehicles obey real mass, suspension compression, tire-asphalt grip, steering geometry and momentum; "
-        "all wheels rotate in sync with ground speed and stay planted on the road surface; 18-wheel tractor and trailer articulate "
-        "naturally at the fifth-wheel pivot; vehicle body dimensions, wheel count, paint color, and left-hand driver seat position never morph."
+        "Vehicle physics & fluid kinematics: vehicles obey real mass, progressive suspension compression, tire-asphalt grip, "
+        "smooth steering geometry, and continuous forward momentum across 0.0s–10.0s; all wheels rotate in sync with ground speed "
+        "and stay planted on the road surface; 18-wheel tractor and trailer articulate naturally at the fifth-wheel pivot; "
+        "vehicle body dimensions, wheel count, paint color, and left-hand driver seat position never morph."
     ),
     "character": (
-        "Human physics & face lock: natural weight transfer, balance, and breathing; every visible named face stays faithful to its "
-        "approved reference throughout the shot (eye shape, nose bridge, jawline, hair, and scars stable while turning); natural blinks "
-        "and matched eyelines, no fixed stare."
+        "Human physics, fluid body follow-through & face lock: continuous natural weight transfer across the feet and hips, "
+        "uninterrupted upper-body and hand follow-through while speaking (never freeze physical movement to deliver dialogue), "
+        "natural balance and breathing through 10.0s; every visible named face stays faithful to its approved reference throughout "
+        "the shot (eye shape, nose bridge, jawline, hair, and scars stable while turning); natural blinks and matched eyelines, no fixed stare."
     ),
     "hand_object": (
-        "Hand & object mechanics: to pick up or handle an object a character reaches visibly, closes five natural fingers around its real "
-        "weight, and keeps it in the established hand; objects never float, teleport, duplicate, or pass through hands; in a hand-over both "
-        "hands stay visible until the receiver's fingers close; feet never slide on the ground."
+        "Hand & object mechanics: to pick up or handle an object a character reaches with a smooth arm arc, closes five natural fingers "
+        "around its real weight, and carries its momentum cleanly in the established hand; objects never float, teleport, duplicate, or "
+        "pass through hands; in a hand-over both hands stay visible until the receiver's fingers close; feet never slide on the ground."
     ),
     "environment": (
-        "Environmental physics: shadows, reflections, wind slipstream, tire smoke, dust plumes, and heat shimmer respond physically to "
-        "vehicle speed and light direction."
+        "Environmental physics: shadows, reflections, wind slipstream, tire smoke, dust plumes, and heat shimmer respond smoothly and "
+        "physically to vehicle speed and light direction through the final frame at 10.0s."
     ),
     "action_stunt": ACTION_STUNT_CHOREOGRAPHY_RULE,
 }
@@ -1028,6 +1038,10 @@ def select_relevant_bible_slice(plan: dict, shot: dict) -> dict[str, Any]:
     physics_lines = []
     if veh_entries or env.get("category") in ("highway", "desert_airfield", "hillside_road", "rail_crossing", "vehicle_interior"):
         physics_lines.append(PHYSICS_RULES["vehicle"])
+    if char_entries:
+        physics_lines.append(PHYSICS_RULES["character"])
+    if obj_entries:
+        physics_lines.append(PHYSICS_RULES["hand_object"])
     physics_lines.append(PHYSICS_RULES["action_stunt"])
     physics_lines.append(PHYSICS_RULES["environment"])
 

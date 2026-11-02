@@ -6,8 +6,7 @@ Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in an
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
 @Ami = Ami: same approved identity, age 24; Young woman with warm olive skin, expressive dark eyes, long dark-brown hair tied half-back, silver stud earrings. fitted burgundy scoop-neck top, light-wash jeans, canvas shop apron tied at the waist, flat sneakers, silver stud earrings. Voice: warm, clear, expressive Southern Vietnamese female voice.
 @Tom = Tom: same approved identity, age 27; Young Vietnamese-American man, athletic lean build, sharp observant dark eyes, short textured dark-brown hair, clean jawline. matte-black leather bomber jacket over a grey crew-neck T-shirt, dark jeans, black driving sneakers, steel chronograph watch on left wrist. Voice: low, calm, clear Southern Vietnamese male voice.
-@Micdo = Micdo: same approved identity, age 32; Muscular man with a shaved head, commanding dark eyes, strong jawline, silver cross pendant on a heavy neck chain. fitted white sleeveless tank top under an open black leather jacket, silver cross pendant on chain, dark jeans, heavy black boots. Voice: deep, resonant, authoritative Southern Vietnamese male voice.
-Keep exact approved appearance for AMI, TOM_R, MICDO with props CHARGER, SUPRA; never show a studio reference backdrop.
+Keep exact approved appearance for AMI, TOM_R with props CHARGER, SUPRA; never show a studio reference backdrop.
 
 
 [TIMELINE AND LOCATION]
@@ -20,40 +19,40 @@ Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces
 Scene goal: Đôi mắt hằn đỏ vì Seja gặp nạn, Micdo chạy vào gara giật tung tấm bạt phủ chiếc Dodge Charger 1970 công suất 900 mã lực của cha mình và phóng đi truy đuổi Ny Tran bất chấp tiếng gọi của Tom. Establish the setting and dramatic stakes from the first frame; movement under way at 0.0s, first line at 2.8s.
 
 [DRAMATIC INTENT — show through behaviour, never narrate this note]
-Đôi mắt hằn đỏ vì Seja gặp nạn, Micdo chạy vào gara giật tung tấm bạt phủ chiếc Dodge Charger 1970 công suất 900 mã lực của cha mình và phóng đi truy đuổi Ny Tran bất chấp tiếng gọi của Tom. (Shot 37.1 — ESTABLISHING_WIDE via wide 28mm lens).
+Đôi mắt hằn đỏ vì Seja gặp nạn, Micdo chạy vào gara giật tung tấm bạt phủ chiếc Dodge Charger 1970 công suất 900 mã lực của cha mình và phóng đi truy đuổi Ny Tran bất chấp tiếng gọi của Tom. (Shot 37.1 — ESTABLISHING_WIDE via wide 35mm lens).
 
 
 [CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in the stated time and place with the composition, lighting and movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
+Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
 
 [OPENING COMPOSITION AT 0.0s — START_STATE]
 In TOTO_GARAGE during D7 sunset (shot 37.1 opening): Ami and Tom on the driveway threshold leading to TOTO_GARAGE at sunset right after Seja's close call on the front lawn.
 
 [CAMERA]
-35mm wide shot at human eye level, subject already moving at 0.0s. Preserve readable geography and screen direction.
+35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
 One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Frame Ami and Tom with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the wide 28mm lens geometry.
-Focus: Keep tack-sharp focus on Ami's eyes and active hands on the 1970 Matte-Black Supercharged Muscle Car, with readable background depth.
+Composition: Frame Ami and Tom with the 1970 Matte-Black Supercharged Muscle Car anchored clearly in the wide 35mm lens geometry.
+Focus: Keep tack-sharp focus on Ami's eyes and continuous hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, maintaining readable background depth.
 
 [ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–3.2s): Ami grips Tom's arm with tears on her cheeks, looking back toward the front yard where neighbors help Seja up. Beat 2 (3.2–6.8s): Ami cries out in distress that the gentlest member of their family was nearly run down right in front of their eyes. Beat 3 (6.8–10.0s): both of them turn as heavy footsteps charge down the driveway into the rear garage.
-Play each beat once, in order, from 0.0s to 10.0s; no gesture is repeated and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Immediate momentum at 0.0s, decisive mechanical turn at 3.2s during the line, and a living hold from 6.8s to 10.0s.
+Beat 1 (0.0–3.2s): Ami grips Tom's arm with tears on her cheeks, looking back toward the front yard where neighbors help Seja up. Beat 2 (3.2–6.8s): Ami tightens both hands on Tom's forearm and leans her forehead briefly against his shoulder while crying out in distress over Seja. Beat 3 (6.8–10.0s): both of them turn as heavy footsteps charge down the driveway into the rear garage.
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
+Action rhythm: Immediate physical momentum at 0.0s, smooth weight and spatial progression through 3.2–6.8s while speaking in stride, and natural kinetic follow-through through 10.0s without freezing.
 
 [BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Ami operates on the near side while Tom holds the counter-angle.
-Performance: Ami plays restrained high-stakes intensity without melodrama, letting micro-expressions and grip tension carry the beat.
+Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Ami moves smoothly on the near side while Tom holds the counter-angle.
+Performance: Ami plays restrained high-stakes intensity with continuous natural weight transfer, fluid hand follow-through while speaking, and organic micro-expressions.
 
 
 [BODY, MOUTH AND FACE STANDARD]
-Vehicle physics: vehicles obey real mass, suspension compression, tire-asphalt grip, steering geometry and momentum; all wheels rotate in sync with ground speed and stay planted on the road surface; 18-wheel tractor and trailer articulate naturally at the fifth-wheel pivot; vehicle body dimensions, wheel count, paint color, and left-hand driver seat position never morph. Action & martial arts stunt choreography rule: Professional stunt performers execute a tightly choreographed martial arts and action confrontation. Fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions. When a performer loses balance, they fall safely onto padded flooring outside the camera's view. Intense action-film atmosphere, realistic lighting, handheld cinematography, fast-paced editing style, authentic Vietnamese action cinema. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Environmental physics: shadows, reflections, wind slipstream, tire smoke, dust plumes, and heat shimmer respond physically to vehicle speed and light direction.
+Vehicle physics & fluid kinematics: vehicles obey real mass, progressive suspension compression, tire-asphalt grip, smooth steering geometry, and continuous forward momentum across 0.0s–10.0s; all wheels rotate in sync with ground speed and stay planted on the road surface; 18-wheel tractor and trailer articulate naturally at the fifth-wheel pivot; vehicle body dimensions, wheel count, paint color, and left-hand driver seat position never morph. Human physics, fluid body follow-through & face lock: continuous natural weight transfer across the feet and hips, uninterrupted upper-body and hand follow-through while speaking (never freeze physical movement to deliver dialogue), natural balance and breathing through 10.0s; every visible named face stays faithful to its approved reference throughout the shot (eye shape, nose bridge, jawline, hair, and scars stable while turning); natural blinks and matched eyelines, no fixed stare. Action & martial arts stunt choreography rule: Professional stunt performers execute a tightly choreographed martial arts and action confrontation with unbroken kinematic flow from 0.0s to 10.0s. Fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions blend seamlessly across beats without mid-shot pauses. When a performer loses balance, they fall safely onto padded flooring outside the camera's view. Intense action-film atmosphere, realistic lighting, fluid handheld or gimbal cinematography, authentic Vietnamese action cinema. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Environmental physics: shadows, reflections, wind slipstream, tire smoke, dust plumes, and heat shimmer respond smoothly and physically to vehicle speed and light direction through the final frame at 10.0s.
 Body mechanics: to pick something up from low down a person bends at the knees and hips with a visible reach, closes the stated hand fully around it and lifts its real weight; objects never float, slide into a hand by themselves or pass through fingers; when no hand is named the free hand acts and every carried prop stays in its established hand; in a hand-over both hands stay visible until the receiver's fingers close; feet never slide; every hand keeps five natural fingers.
-Mouth map: 2.8–7.9s only Ami's lips move, shaping each Vietnamese syllable in sync with the voice, natural jaw and teeth, mouth closing as the line ends. Outside these windows every mouth in frame is closed or relaxed and listeners never mouth along.
+Mouth map: 2.8–9.0s only Ami's lips move, shaping each Vietnamese syllable in sync with the voice, natural jaw and teeth, mouth closing as the line ends. Outside these windows every mouth in frame is closed or relaxed and listeners never mouth along.
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [DIALOGUE]
 Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural Southern Vietnamese pace with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
-2.8–7.9s · Ami (@Ami) says on screen, in the warm, clear, expressive Southern Vietnamese female voice: Thằng em hiền lành nhất trong nhà đã ngã xuống ngay trên thảm cỏ trước mắt chúng ta rồi.
+2.8–9.0s · Ami (@Ami) says on screen, in the warm, clear, expressive Southern Vietnamese female voice: Anh Tom ơi, thằng bé Seja hiền lành vậy mà suýt nữa bị tụi nó tông thẳng ngay trước cửa nhà mình rồi!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
 [PROPS]
@@ -72,7 +71,7 @@ Keep diegetic continuity, dialogue clean and forward; every sound effect has a v
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In TOTO_GARAGE at 10.0s of shot 37.1: Ami and Tom turning toward the open bay of TOTO_GARAGE at sunset.
-Hold this living composition in the same location and camera angle through 10.0s with natural breathing and ambient motion; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
+Carry the physical follow-through, natural breathing, micro-expressions, and ambient motion smoothly through 10.0s in this same location and camera angle without freezing; never cut to another shot, another character, or a plain studio reference portrait at the end of the clip.
 
 [AVOID]
 Do not show or do any of the following: blood, graphic injuries, gore, open wounds, real unchoreographed violence, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.

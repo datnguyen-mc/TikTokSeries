@@ -47,6 +47,8 @@ RPC_UPLOAD_IMAGE = "maseQ"
 RPC_UPSCALE_IMAGE = "SPrCad"
 RPC_UPDATE_ASSET = "mYWVGd"
 RPC_BATCH_UPDATE_ASSETS = "pGCYOe"
+RPC_CREATE_CHARACTER = "C4BZMd"
+RPC_UPDATE_CHARACTER = "rzMKMb"
 
 CAPTCHA_IMAGE = "IMAGE_GENERATION"
 CAPTCHA_VIDEO = "VIDEO_GENERATION"
@@ -371,13 +373,19 @@ def image_request(prompt: str, project_id: str, count: int = 1,
                   model: str = IMAGE_MODEL,
                   ref_media_ids: Optional[list[str]] = None,
                   base_media_id: Optional[str] = None,
-                  asset_id: Optional[str] = None) -> str:
+                  asset_id: Optional[str] = None,
+                  character_id: Optional[str] = None,
+                  character_slot: int = 0) -> str:
     """One request item per variant, exactly as the REST payload did it.
 
     There is no "how many" field: Flow returns one image per item in the list,
     so `count` replicates the item under fresh seeds. `ref_media_ids` conditions
     the result on images already in the project — this is what keeps a character
     the same person from beat to beat.
+
+    When ``character_id`` is provided, the image generation request is bound directly
+    to that character's image slot (``[batch_uuid, None, [character_id, [character_slot]]]``),
+    matching Google Flow's native Character Creation UI.
     """
     if not isinstance(count, int) or isinstance(count, bool) or not 1 <= count <= 4:
         raise ValueError("image count must be an integer from 1 to 4")
@@ -396,9 +404,14 @@ def image_request(prompt: str, project_id: str, count: int = 1,
         )
         items.append([None, None, image_inputs or None, base + index * 9973, ratio,
                       resolved_model, None, _context(project_id, target_asset), [[[text]]],
-                      None, None, None, None, _client_uuid()])
+                      None, None, None, _client_uuid() if character_id else None, _client_uuid()])
+    batch_descriptor = (
+        [_client_uuid(), None, [str(character_id), [int(character_slot)]]]
+        if character_id
+        else [_client_uuid()]
+    )
     return build_envelope(RPC_GEN_IMAGE, [None, items, 1, _context(project_id, target_asset),
-                                          [_client_uuid()]])
+                                          batch_descriptor])
 
 
 STREAM_CHAT_PATH = "/_/AiSandboxAngularFrontend/data/google.internal.labs.aisandbox.proto.flow.agent.v1.FlowCreationAgentService/StreamChat"
@@ -645,6 +658,79 @@ def batch_rename_asset_request(asset_id: str, project_id: str, display_name: str
             [["metadata.display_name"]],
         ],
     )
+
+
+def create_character_request(project_id: str, display_name: str = "Nhân vật chưa có tên") -> str:
+    """Build FlowService.CreateEntity request for a character (RPC ``C4BZMd``).
+
+    Live-captured from Flow UI:
+    ``[[project_id, None, None, [1, "Nhân vật chưa có tên", []]]]``
+    """
+    clean_name = " ".join(str(display_name or "Nhân vật chưa có tên").lstrip("@").split())[:120] or "Nhân vật chưa có tên"
+    return build_envelope(
+        RPC_CREATE_CHARACTER,
+        [[project_id, None, None, [1, clean_name, []]]],
+    )
+
+
+def update_character_name_request(project_id: str, character_id: str, display_name: str) -> str:
+    """Build FlowService.UpdateEntity display_name request (RPC ``rzMKMb``).
+
+    Live-captured from Flow UI:
+    ``[[project_id, character_id, None, [1, display_name]], [["entity_info.display_name"]]]``
+    """
+    clean_name = " ".join(str(display_name or "").lstrip("@").split())[:120]
+    if not clean_name:
+        raise ValueError("display_name is required to update a character name")
+    return build_envelope(
+        RPC_UPDATE_CHARACTER,
+        [
+            [project_id, character_id, None, [1, clean_name]],
+            [["entity_info.display_name"]],
+        ],
+    )
+
+
+def update_character_notes_request(project_id: str, character_id: str, personality_notes: str) -> str:
+    """Build FlowService.UpdateEntity personality_notes request (RPC ``rzMKMb``).
+
+    Live-captured from Flow UI:
+    ``[[project_id, character_id, None, [1, None, [None, None, personality_notes]]], [["entity_info.character_info.personality_notes"]]]``
+    """
+    clean_notes = str(personality_notes or "").strip()[:2000]
+    return build_envelope(
+        RPC_UPDATE_CHARACTER,
+        [
+            [project_id, character_id, None, [1, None, [None, None, clean_notes]]],
+            [["entity_info.character_info.personality_notes"]],
+        ],
+    )
+
+
+_UUID_STRICT_RE = re.compile(r"^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$")
+
+
+def read_created_character(payload: Any, project_id: Optional[str] = None) -> str:
+    """Extract the newly created character entity UUID from ``C4BZMd`` response."""
+    pid_lower = (project_id or "").lower()
+    for node in _walk_lists(payload):
+        if len(node) >= 2 and isinstance(node[0], str) and isinstance(node[1], str):
+            if (not pid_lower or node[0].lower() == pid_lower) and _UUID_STRICT_RE.match(node[1]):
+                if node[1].lower() != pid_lower:
+                    return node[1]
+    for text in _walk_strings(payload):
+        if _UUID_STRICT_RE.match(text) and text.lower() != pid_lower:
+            return text
+    raise FlowBatchError("character create response did not contain a character_id")
+
+
+def read_first_media_uuid(payload: Any, exclude_ids: Optional[set[str]] = None) -> Optional[str]:
+    """Find the first lowercase/standard UUID in an image response payload excluding project/character ids."""
+    ex = {s.lower() for s in (exclude_ids or set()) if s}
+    for text in _walk_strings(payload):
+        if _UUID_STRICT_RE.match(text) and text.lower() not in ex:
+            return text
+    return None
 
 
 # ── response readers ─────────────────────────────────────────────────────────

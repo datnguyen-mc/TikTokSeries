@@ -491,6 +491,7 @@ class OperationService:
                 "tier": tier,
                 "aspect": aspect,
                 "entity_name": char["name"],
+                "entity_description": char.get("description", ""),
                 "entity_type": entity_type,
                 "composition": "portrait full-body, head-to-toe, front-facing, centered"
                 if orientation == "VERTICAL"

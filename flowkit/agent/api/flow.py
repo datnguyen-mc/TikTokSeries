@@ -1,6 +1,7 @@
 """Direct Flow API endpoints — for manual operations outside the queue."""
 import base64
 import mimetypes
+import re
 
 from fastapi import APIRouter, File, Form, HTTPException, Response, UploadFile
 from pydantic import BaseModel, Field
@@ -40,6 +41,21 @@ class GenerateImageRequest(BaseModel):
     seed: Optional[int] = Field(default=None, ge=1, le=1_000_000_000)
     reference_media_ids: Optional[list[str]] = None
     character_media_ids: Optional[list[str]] = None
+    character_id: Optional[str] = None
+    character_slot: int = 0
+    character_name: Optional[str] = None
+    character_description: Optional[str] = None
+
+
+class CreateFlowCharacterRequest(BaseModel):
+    name: str
+    prompt: str
+    project_id: str = ""
+    description: str = ""
+    aspect_ratio: str = "IMAGE_ASPECT_RATIO_PORTRAIT"
+    user_paygate_tier: str = "PAYGATE_TIER_ONE"
+    image_model: Optional[str] = "nano_banana_pro"
+    seed: Optional[int] = Field(default=None, ge=1, le=1_000_000_000)
 
 
 class GenerateVideoRequest(BaseModel):
@@ -250,7 +266,14 @@ async def get_credits():
 
 @router.post("/generate-image")
 async def generate_image(body: GenerateImageRequest):
-    """Generate 1-4 images with an explicit Flow image model."""
+    """Generate 1-4 images with an explicit Flow image model.
+
+    If ``character_name`` or ``character_id`` is supplied (or if the prompt is a
+    character reference prompt containing an ``@Tag``), FlowKit also invokes the
+    native Google Flow Character Creation API (``C4BZMd`` + ``rzMKMb`` + ``ogiZ0b``
+    character slot binding) so the character is registered in the Flow project's
+    Character list.
+    """
     client = get_flow_client()
     if not client.connected:
         raise HTTPException(503, "Extension not connected")
@@ -259,7 +282,37 @@ async def generate_image(body: GenerateImageRequest):
     data["project_id"] = project_id
     refs = list(dict.fromkeys((body.reference_media_ids or []) + (body.character_media_ids or [])))
     data["character_media_ids"] = refs or None
+    if not data.get("character_name") and not data.get("character_id"):
+        prompt_text = body.prompt or ""
+        if "character reference" in prompt_text.lower():
+            m = re.search(r"@([A-Za-z0-9_]+)", prompt_text)
+            if m:
+                data["character_name"] = m.group(1)
+                if not data.get("character_description"):
+                    data["character_description"] = prompt_text
     result = await client.generate_images(**data)
+    if result.get("error") or (isinstance(result.get("status"), int) and result["status"] >= 400):
+        raise HTTPException(_safe_status_code(result.get("status")), result.get("error", result.get("data")))
+    return result.get("data", result)
+
+
+@router.post("/create-character")
+async def create_flow_character(body: CreateFlowCharacterRequest):
+    """Create a Character entity in Google Flow and generate its reference image."""
+    client = get_flow_client()
+    if not client.connected:
+        raise HTTPException(503, "Extension not connected")
+    project_id = await _resolve_direct_project(client, body.project_id)
+    result = await client.create_character(
+        name=body.name,
+        prompt=body.prompt,
+        project_id=project_id,
+        description=body.description,
+        aspect_ratio=body.aspect_ratio,
+        user_paygate_tier=body.user_paygate_tier,
+        image_model=body.image_model,
+        seed=body.seed,
+    )
     if result.get("error") or (isinstance(result.get("status"), int) and result["status"] >= 400):
         raise HTTPException(_safe_status_code(result.get("status")), result.get("error", result.get("data")))
     return result.get("data", result)

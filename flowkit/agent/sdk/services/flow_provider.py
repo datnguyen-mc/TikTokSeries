@@ -368,12 +368,18 @@ class FlowProvider(MediaProvider):
 
     async def _run_image(self, job: ProviderJob) -> dict:
         ex = job.extra
+        is_char_ref = (
+            ex.get("kind") == "reference_image"
+            and ex.get("entity_type", "character") == "character"
+        )
         return await self._client.generate_images(
             prompt=job.prompt,
             project_id=ex.get("project_id", "0"),
             aspect_ratio=ex.get("aspect", "IMAGE_ASPECT_RATIO_PORTRAIT"),
             user_paygate_tier=ex.get("tier", "PAYGATE_TIER_TWO"),
             character_media_ids=ex.get("character_media_ids"),
+            character_name=ex.get("entity_name") if is_char_ref else None,
+            character_description=ex.get("entity_description") if is_char_ref else None,
         )
 
     async def _run_edit_image(self, job: ProviderJob) -> dict:

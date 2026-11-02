@@ -1475,6 +1475,7 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
     client = get_flow_client()
     remote_chars = []
     remote_images = []
+    remote_query_ok = False
     if client.connected:
         # Auto-create a fresh Google Flow project if still using placeholder UUID
         if project_id == "d8997010-1080-49f1-9220-10ec05919c8c":
@@ -1494,14 +1495,16 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
             if raw:
                 payload = fb.first_payload(raw, fb.RPC_PROJECT_MEDIA)
                 if isinstance(payload, list):
+                    remote_query_ok = True
                     raw_chars = payload[5] if len(payload) > 5 and isinstance(payload[5], list) else []
                     for ch in raw_chars:
                         if isinstance(ch, list) and len(ch) >= 5:
+                            cid = ch[0] if isinstance(ch[0], str) else None
                             meta = ch[3] if isinstance(ch[3], list) else []
                             cname = meta[1] if len(meta) > 1 and isinstance(meta[1], str) else ""
                             cmid = ch[4] if isinstance(ch[4], str) else None
                             if cname and cmid:
-                                remote_chars.append({"name": cname, "media_id": cmid})
+                                remote_chars.append({"name": cname, "media_id": cmid, "character_id": cid})
                     items = payload[1] if len(payload) > 1 and isinstance(payload[1], list) else []
                     for it in items:
                         if isinstance(it, list) and len(it) >= 4 and isinstance(it[3], list):
@@ -1529,22 +1532,25 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
         tag_clean = tag.lower().lstrip("@")
         name_clean = name.lower().split("(")[0].strip()
         matched_mid = None
+        matched_cid = None
 
-        for rc in remote_chars:
-            rc_clean = rc["name"].strip().lower().lstrip("@")
-            if rc_clean == tag_clean or rc_clean == name_clean:
-                matched_mid = rc["media_id"]
-                break
-
-        if not matched_mid:
-            for ri in remote_images:
-                ri_clean = ri["title"].strip().lower().lstrip("@")
-                if ri_clean == tag_clean or ri_clean == name_clean:
-                    matched_mid = ri["media_id"]
+        if not force_regenerate:
+            for rc in remote_chars:
+                rc_clean = rc["name"].strip().lower().lstrip("@")
+                if rc_clean == tag_clean or rc_clean == name_clean:
+                    matched_mid = rc["media_id"]
+                    matched_cid = rc.get("character_id")
                     break
 
-        if not matched_mid and not force_regenerate:
-            matched_mid = project_cache.get(tag) or c.get("default_media_id") or None
+            if not matched_mid and not remote_query_ok:
+                for ri in remote_images:
+                    ri_clean = ri["title"].strip().lower().lstrip("@")
+                    if ri_clean == tag_clean or ri_clean == name_clean:
+                        matched_mid = ri["media_id"]
+                        break
+
+            if not matched_mid and not remote_query_ok:
+                matched_mid = project_cache.get(tag) or c.get("default_media_id") or None
 
         ref_prompt = (
             c.get("ref_prompt")
@@ -1554,16 +1560,19 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
 
         if not matched_mid and client.connected and ref_prompt:
             try:
-                gen_res = await client.generate_images(
+                gen_res = await client.create_character(
+                    name=tag,
                     prompt=ref_prompt,
                     project_id=project_id,
+                    description=c.get("description") or name,
                     aspect_ratio=img_aspect,
                     image_model="nano_banana_pro",
-                    count=1,
                 )
-                medias = (gen_res.get("data") or {}).get("media") or []
+                data_obj = gen_res.get("data") or {}
+                medias = data_obj.get("media") or []
                 if medias and isinstance(medias[0], dict):
                     matched_mid = medias[0].get("name") or medias[0].get("media_id")
+                    matched_cid = data_obj.get("characterId") or medias[0].get("character_id")
                     if matched_mid:
                         created_now.append(tag)
                         try:
@@ -1575,12 +1584,14 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
                         except Exception:
                             pass
             except Exception as e:
-                logger.warning("Failed to auto-generate character image for %s: %s", tag, e)
+                logger.warning("Failed to auto-create character entity & image for %s: %s", tag, e)
 
         if matched_mid:
             locked_map[tag] = matched_mid
             c["default_media_id"] = matched_mid
             c["locked_media_id"] = matched_mid
+            if matched_cid:
+                c["character_id"] = matched_cid
         else:
             c["default_media_id"] = ""
             c["locked_media_id"] = ""

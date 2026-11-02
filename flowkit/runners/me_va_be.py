@@ -240,12 +240,14 @@ def load_and_lock_project_characters():
             matched_mid = spec["default_media_id"]
 
         if not matched_mid and spec.get("ref_prompt"):
-            log(f"🎨 Đang tạo mới ảnh mẫu cố định cho nhân vật {tag} trên Project {PROJECT_ID}...")
+            log(f"🎨 Đang tạo mới Nhân Vật & ảnh mẫu cố định cho {tag} trên Project {PROJECT_ID}...")
             try:
                 gen_res = requests.post(
-                    f"{FLOWKIT_API}/api/flow/generate-image",
+                    f"{FLOWKIT_API}/api/flow/create-character",
                     json={
+                        "name": tag,
                         "prompt": spec["ref_prompt"],
+                        "description": spec.get("description", ""),
                         "project_id": PROJECT_ID,
                         "aspect_ratio": IMAGE_ASPECT_RATIO,
                         "image_model": "nano_banana_pro",

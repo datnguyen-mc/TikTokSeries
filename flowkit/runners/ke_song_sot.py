@@ -290,6 +290,31 @@ def load_and_lock_project_characters(force_remote: bool = False):
         if not matched_mid and spec.get("default_media_id"):
             matched_mid = spec["default_media_id"]
 
+        if not matched_mid and spec.get("ref_prompt"):
+            log(f"🎨 Đang tạo mới Nhân Vật & ảnh mẫu cố định cho {tag} trên Project {PROJECT_ID}...")
+            try:
+                gen_res = requests.post(
+                    f"{FLOWKIT_API}/api/flow/create-character",
+                    json={
+                        "name": tag,
+                        "prompt": spec["ref_prompt"],
+                        "description": spec.get("description", ""),
+                        "project_id": PROJECT_ID,
+                        "aspect_ratio": IMAGE_ASPECT_RATIO,
+                        "image_model": "nano_banana_pro",
+                    },
+                    timeout=90,
+                )
+                if gen_res.status_code == 200:
+                    gdata = gen_res.json()
+                    matched_mid = gdata.get("_mediaId") or gdata.get("media_id")
+                    if not matched_mid:
+                        medias = gdata.get("media") or (gdata.get("data") or {}).get("media") or []
+                        if medias and isinstance(medias[0], dict):
+                            matched_mid = medias[0].get("name") or medias[0].get("media_id")
+            except Exception as e:
+                log(f"⚠️ Không tự tạo được nhân vật cho {tag}: {e}")
+
         if matched_mid:
             locked[tag] = matched_mid
             spec["default_media_id"] = matched_mid

@@ -776,6 +776,111 @@ class FlowClient:
         except Exception as exc:
             return _batch_error(exc)
 
+    async def create_character_entity(
+        self,
+        project_id: str | None = None,
+        display_name: str = "Nhân vật chưa có tên",
+        personality_notes: str = "",
+    ) -> dict:
+        """Create a Character entity in a Google Flow project via RPC ``C4BZMd``
+        and optionally set its ``display_name`` and ``personality_notes`` via ``rzMKMb``.
+        """
+        try:
+            pid = self._batch_project_id(project_id or "")
+            res = await self.batch_rpc(
+                fb.RPC_CREATE_CHARACTER,
+                fb.create_character_request(pid, "Nhân vật chưa có tên"),
+                timeout=45,
+            )
+            if res.get("error"):
+                return {"status": res.get("status", 502), "error": res["error"]}
+            payload = fb.first_payload(res.get("data") or "", fb.RPC_CREATE_CHARACTER)
+            char_id = fb.read_created_character(payload, pid)
+            clean_name = " ".join(str(display_name or "").lstrip("@").split())[:120]
+            if clean_name and clean_name != "Nhân vật chưa có tên":
+                await self.update_character_entity(
+                    project_id=pid,
+                    character_id=char_id,
+                    display_name=clean_name,
+                    personality_notes=personality_notes,
+                )
+            elif personality_notes:
+                await self.update_character_entity(
+                    project_id=pid,
+                    character_id=char_id,
+                    personality_notes=personality_notes,
+                )
+            logger.info("Flow character entity created: %s name=%r in project %s", char_id, clean_name or display_name, pid[:12])
+            return {
+                "status": 200,
+                "data": {
+                    "character_id": char_id,
+                    "project_id": pid,
+                    "name": clean_name or display_name,
+                    "description": personality_notes,
+                },
+            }
+        except Exception as exc:
+            return _batch_error(exc)
+
+    async def update_character_entity(
+        self,
+        project_id: str,
+        character_id: str,
+        display_name: str | None = None,
+        personality_notes: str | None = None,
+    ) -> dict:
+        """Update a Character entity's display_name and/or personality_notes via RPC ``rzMKMb``."""
+        try:
+            pid = self._batch_project_id(project_id)
+            if display_name is not None:
+                clean_name = " ".join(str(display_name).lstrip("@").split())[:120]
+                if clean_name:
+                    res_name = await self.batch_rpc(
+                        fb.RPC_UPDATE_CHARACTER,
+                        fb.update_character_name_request(pid, character_id, clean_name),
+                        timeout=30,
+                    )
+                    if res_name.get("error"):
+                        logger.warning("rzMKMb display_name update failed for %s: %s", character_id[:12], res_name["error"])
+            if personality_notes is not None and str(personality_notes).strip():
+                res_notes = await self.batch_rpc(
+                    fb.RPC_UPDATE_CHARACTER,
+                    fb.update_character_notes_request(pid, character_id, str(personality_notes)),
+                    timeout=30,
+                )
+                if res_notes.get("error"):
+                    logger.warning("rzMKMb personality_notes update failed for %s: %s", character_id[:12], res_notes["error"])
+            return {"status": 200, "data": {"character_id": character_id, "project_id": pid}}
+        except Exception as exc:
+            return _batch_error(exc)
+
+    async def create_character(
+        self,
+        name: str,
+        prompt: str,
+        project_id: str | None = None,
+        description: str = "",
+        aspect_ratio: str = "IMAGE_ASPECT_RATIO_LANDSCAPE",
+        user_paygate_tier: str = "PAYGATE_TIER_TWO",
+        image_model: str | None = None,
+        seed: int | None = None,
+    ) -> dict:
+        """Create a Google Flow Character entity (``C4BZMd`` + ``rzMKMb``) and generate
+        its primary reference image directly into slot 0 via ``ogiZ0b``.
+        """
+        return await self.generate_images(
+            prompt=prompt,
+            project_id=project_id,
+            aspect_ratio=aspect_ratio,
+            user_paygate_tier=user_paygate_tier,
+            image_model=image_model or "BELUGA",
+            count=1,
+            seed=seed,
+            character_name=name,
+            character_description=description,
+        )
+
     async def generate_images(self, prompt: str, project_id: str = None,
                                 character_media_ids: list[str] = None,
                                 aspect_ratio: str = "IMAGE_ASPECT_RATIO_PORTRAIT",
@@ -783,13 +888,18 @@ class FlowClient:
                                 image_model: str = None,
                                 count: int = 1,
                                 seed: int | None = None,
-                                base_media_id: str | None = None) -> dict:
+                                base_media_id: str | None = None,
+                                character_id: str | None = None,
+                                character_slot: int = 0,
+                                character_name: str | None = None,
+                                character_description: str | None = None) -> dict:
         """Generate image(s).
 
         ``character_media_ids`` are attached as reference images, which is what
-        keeps an entity the same across scenes. Response is shaped like the
-        old REST one so the parsers downstream do not have to care which
-        transport produced it.
+        keeps an entity the same across scenes. When ``character_name`` or
+        ``character_id`` is provided, the Character Creation API (``C4BZMd`` +
+        ``rzMKMb``) is invoked first and ``ogiZ0b`` generates the image directly
+        into the character's primary slot ``[character_id, [0]]``.
         """
 
         try:
@@ -799,6 +909,21 @@ class FlowClient:
             model = self._batch_image_model(image_model)
             refs = list(character_media_ids or []) or None
 
+            resolved_char_id = character_id
+            if not resolved_char_id and character_name:
+                ent_res = await self.create_character_entity(
+                    project_id=pid,
+                    display_name=character_name,
+                    personality_notes=character_description or "",
+                )
+                if ent_res.get("error"):
+                    logger.warning(
+                        "Character entity creation (C4BZMd) failed for %r (%s); falling back to standalone image",
+                        character_name, ent_res["error"],
+                    )
+                else:
+                    resolved_char_id = (ent_res.get("data") or {}).get("character_id")
+
             async def submit_once(index: int, launch_offset: float = 0.0):
                 if launch_offset:
                     await asyncio.sleep(launch_offset)
@@ -806,11 +931,20 @@ class FlowClient:
                 freq = fb.image_request(
                     prompt, pid, count=1, aspect=aspect_ratio, seed=request_seed,
                     model=model, ref_media_ids=refs, base_media_id=base_media_id,
+                    character_id=resolved_char_id, character_slot=character_slot,
                 )
                 payload = await self._batch_payload(
                     fb.RPC_GEN_IMAGE, freq, fb.CAPTCHA_IMAGE
                 )
                 generated = fb.read_images(payload)
+                if not generated and resolved_char_id:
+                    cand_mid = fb.read_first_media_uuid(payload, exclude_ids={pid, resolved_char_id})
+                    if cand_mid:
+                        try:
+                            urls = await self._batch_media_urls(cand_mid)
+                            generated = [fb.GeneratedImage(media_id=cand_mid, url=urls.image or "")]
+                        except Exception:
+                            generated = [fb.GeneratedImage(media_id=cand_mid, url="")]
                 if not generated:
                     raise fb.FlowBatchError("Image generation returned no media url")
                 return generated[0]
@@ -863,6 +997,14 @@ class FlowClient:
 
             images = [images_by_index[index] for index in sorted(images_by_index)]
 
+            if resolved_char_id and (character_name or character_description):
+                await self.update_character_entity(
+                    project_id=pid,
+                    character_id=resolved_char_id,
+                    display_name=character_name,
+                    personality_notes=character_description,
+                )
+
         except Exception as e:
             return _batch_error(e)
 
@@ -872,6 +1014,11 @@ class FlowClient:
             "generated_count": len(images),
             "complete": len(images) == count,
         }
+        if images:
+            data["media_id"] = images[0].media_id
+            data["_mediaId"] = images[0].media_id
+        if resolved_char_id:
+            data["character_id"] = resolved_char_id
         if failures:
             data["failed_variants"] = [
                 {"index": index + 1, "error": str(error)}

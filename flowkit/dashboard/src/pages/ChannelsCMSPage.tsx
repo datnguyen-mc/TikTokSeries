@@ -1270,7 +1270,7 @@ export default function ChannelsCMSPage() {
                   <th className="py-3.5 px-5">Kênh Series</th>
                   <th className="py-3.5 px-4">Khung Hình & Project ID</th>
                   <th className="py-3.5 px-4">Nhân Vật Khóa (@Character)</th>
-                  <th className="py-3.5 px-4">Số Tập & Cảnh/Tập</th>
+                  <th className="py-3.5 px-4">Số Tập</th>
                   <th className="py-3.5 px-4 min-w-[170px]">Tiến Độ Render Clips</th>
                   <th className="py-3.5 px-4">Tập FULL MP4</th>
                   <th className="py-3.5 px-4">Trạng Thái & Log Mới Nhất</th>
@@ -1431,20 +1431,15 @@ export default function ChannelsCMSPage() {
                           })()}
                         </td>
 
-                        {/* Col 4: Episodes Count & Scenes/Episode */}
+                        {/* Col 4: Episodes Count */}
                         <td className="py-4 px-4">
-                          <div className="flex flex-col gap-1">
-                            <div className="flex items-baseline gap-1">
-                              <span className="text-sm font-extrabold text-emerald-400">
-                                {ch.stats.completed_episodes ?? ch.stats.merged_episodes}
-                              </span>
-                              <span className="text-xs font-bold text-slate-500">/</span>
-                              <span className="text-sm font-extrabold text-white">{ch.stats.total_episodes}</span>
-                              <span className="text-[11px] text-slate-400">tập</span>
-                            </div>
-                            <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-cyan-500/10 border border-cyan-500/25 text-[10px] font-semibold text-cyan-300 w-fit">
-                              🎬 {ch.stats.clips_per_episode || (ch.stats.total_episodes > 0 ? Math.round(ch.stats.total_clips / ch.stats.total_episodes) : 0)} cảnh / tập
+                          <div className="flex items-baseline gap-1">
+                            <span className="text-sm font-extrabold text-emerald-400">
+                              {ch.stats.completed_episodes ?? ch.stats.merged_episodes}
                             </span>
+                            <span className="text-xs font-bold text-slate-500">/</span>
+                            <span className="text-sm font-extrabold text-white">{ch.stats.total_episodes}</span>
+                            <span className="text-[11px] text-slate-400">tập</span>
                           </div>
                         </td>
 
@@ -1579,10 +1574,9 @@ export default function ChannelsCMSPage() {
               {channels.map(c => {
                 const ratioLabel = c.aspect_ratio === 'VIDEO_ASPECT_RATIO_PORTRAIT' ? '9:16' : '16:9'
                 const fullCnt = c.stats.r2_merged_episodes ?? c.stats.merged_episodes
-                const clipsPerEp = c.stats.clips_per_episode || (c.stats.total_episodes > 0 ? Math.round(c.stats.total_clips / c.stats.total_episodes) : 0)
                 return (
                   <option key={c.slug} value={c.slug} className="bg-slate-950 text-white">
-                    🎬 {c.name} [{ratioLabel}] — {c.stats.total_episodes} tập ({clipsPerEp} cảnh/tập) • {fullCnt} FULL • {c.stats.rendered_clips}/{c.stats.total_clips} Clips
+                    🎬 {c.name} [{ratioLabel}] — {c.stats.total_episodes} tập • {fullCnt} FULL • {c.stats.rendered_clips}/{c.stats.total_clips} Clips
                   </option>
                 )
               })}
@@ -1659,14 +1653,9 @@ export default function ChannelsCMSPage() {
                     {detail.channel.runner_script}
                   </code>
                   <span className="text-[11px] px-2.5 py-0.5 rounded-lg bg-cyan-500/15 border border-cyan-500/30 text-cyan-300 font-bold">
-                    📺 {detail.episodes.length} Tập • 🎬{' '}
-                    {currentEpisode?.total_clips ||
-                      (detail.episodes.length > 0
-                        ? Math.round(
-                            detail.episodes.reduce((s, e) => s + e.total_clips, 0) / detail.episodes.length,
-                          )
-                        : 0)}{' '}
-                    Cảnh / Tập
+                    📺 {detail.episodes.filter(e => e.is_complete).length}/{detail.episodes.length} Tập • 🎬{' '}
+                    {detail.episodes.reduce((s, e) => s + e.rendered_clips, 0)}/
+                    {detail.episodes.reduce((s, e) => s + e.total_clips, 0)} Cảnh
                   </span>
                 </div>
                 {detail.channel.description && (
@@ -2153,7 +2142,7 @@ export default function ChannelsCMSPage() {
                     Danh Sách Tập ({detail.episodes.filter(e => e.is_complete).length}/{detail.episodes.length})
                   </span>
                   <span className="text-[10px] text-cyan-400 font-semibold">
-                    🎬 {currentEpisode?.total_clips || (detail.episodes.length > 0 ? Math.round(detail.episodes.reduce((s, e) => s + e.total_clips, 0) / detail.episodes.length) : 0)} cảnh / tập • Tổng {detail.episodes.reduce((s, e) => s + e.total_clips, 0)} cảnh
+                    🎬 {detail.episodes.reduce((s, e) => s + e.rendered_clips, 0)}/{detail.episodes.reduce((s, e) => s + e.total_clips, 0)} cảnh
                   </span>
                 </div>
                 {activeOrLastEpNum !== null ? (
@@ -2210,9 +2199,6 @@ export default function ChannelsCMSPage() {
                         <div className="flex items-center gap-1.5 flex-wrap">
                           <span className="text-xs font-bold text-white">{ep.label}</span>
                           <span className="text-[10px] text-slate-400 font-mono">({ep.folder_name})</span>
-                          <span className="px-1.5 py-0.2 rounded text-[9px] font-semibold bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">
-                            {ep.total_clips} cảnh
-                          </span>
                           {isCurrentTarget && (
                             <span className="px-1.5 py-0.2 rounded text-[9px] font-bold bg-indigo-500/25 text-indigo-300 border border-indigo-400/40">
                               ⚡ HIỆN TẠI
@@ -2221,8 +2207,8 @@ export default function ChannelsCMSPage() {
                         </div>
 
                         <div className="flex items-center gap-1.5 shrink-0">
-                          <span className="text-[10px] text-slate-300 font-mono font-semibold" title="Số cảnh đã render / Tổng số cảnh của tập">
-                            {ep.rendered_clips}/{ep.total_clips} cảnh
+                          <span className="text-[10px] text-slate-300 font-mono font-semibold" title="Số cảnh thành công / Tổng số cảnh">
+                            {ep.rendered_clips}/{ep.total_clips}
                           </span>
                           {ep.rendered_clips < ep.total_clips && (
                             <span className="px-2 py-0.5 rounded-md text-[9px] font-bold bg-rose-500/20 text-rose-300 border border-rose-500/40">
@@ -2317,9 +2303,6 @@ export default function ChannelsCMSPage() {
                           <span className="text-base font-extrabold text-white">
                             🎬 {currentEpisode.label} ({currentEpisode.folder_name})
                           </span>
-                          <span className="text-[11px] px-2.5 py-0.5 rounded-full font-semibold bg-indigo-500/15 text-indigo-300 border border-indigo-500/30">
-                            📑 {currentEpisode.total_clips} Cảnh / Tập
-                          </span>
                           <span
                             className={`text-[11px] px-2.5 py-0.5 rounded-full font-semibold border ${
                               currentEpisode.is_complete
@@ -2327,7 +2310,7 @@ export default function ChannelsCMSPage() {
                                 : 'bg-slate-800 text-slate-300 border-slate-700'
                             }`}
                           >
-                            {currentEpisode.rendered_clips}/{currentEpisode.total_clips} Cảnh (Clips) đã có MP4
+                            {currentEpisode.rendered_clips}/{currentEpisode.total_clips} Cảnh
                           </span>
                           {currentEpisode.rendered_clips < currentEpisode.total_clips && (
                             <span className="text-[11px] px-2.5 py-0.5 rounded-full font-bold bg-rose-500/20 text-rose-300 border border-rose-500/40">

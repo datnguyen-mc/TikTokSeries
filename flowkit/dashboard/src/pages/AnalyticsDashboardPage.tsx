@@ -546,11 +546,7 @@ export default function AnalyticsDashboardPage() {
                         <div className="flex items-center justify-between text-[11px]">
                           <span className="text-slate-400 font-medium">
                             Tập hoàn thành & FULL MP4:{' '}
-                            <strong className="text-amber-300">{doneEps}</strong>/{ch.stats.total_episodes} tập •{' '}
-                            <strong className="text-cyan-300">
-                              {ch.stats.total_episodes > 0 ? Math.round(ch.stats.total_clips / ch.stats.total_episodes) : 0} cảnh/tập
-                            </strong>{' '}
-                            ({ch.stats.merged_episodes} FULL)
+                            <strong className="text-amber-300">{doneEps}/{ch.stats.total_episodes}</strong> tập ({ch.stats.merged_episodes} FULL)
                           </span>
                           <span className="font-mono font-bold text-amber-300">{epPct}%</span>
                         </div>

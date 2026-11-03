@@ -741,10 +741,6 @@ export default function ProjectsPage() {
                                 {p.merged_episodes}/{p.total_episodes} tập
                               </span>
                               <span style={{ color: 'var(--muted)' }}>·</span>
-                              <span className="text-cyan-400 font-semibold">
-                                {p.total_episodes > 0 ? Math.round(p.total_clips / p.total_episodes) : 0} cảnh/tập
-                              </span>
-                              <span style={{ color: 'var(--muted)' }}>·</span>
                               <span style={{ color: 'var(--muted)' }}>
                                 {p.rendered_clips}/{p.total_clips} clips
                               </span>

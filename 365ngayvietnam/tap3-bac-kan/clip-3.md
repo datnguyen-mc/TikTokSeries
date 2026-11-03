@@ -1,83 +1,74 @@
-# TẬP 3 — HỒ BA BỂ · CLIP 3/7: AO TIÊN — CÁ KẸP NẸP TRE NƯỚNG THAN
-**MÃ:** BK-C03 · **GIỜ TRONG PHIM:** 09:30 · **ĐỊA ĐIỂM:** bến nhỏ ở đầu bắc Hồ Ba Bể (khu Bản Cám) → lối đi bộ lên Ao Tiên · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm street-food & legend
-
-> ⏰ **Vì sao đi giờ này:** Khoảng 09:15–09:50 nắng đã lên cao, rọi xuống lòng ao nằm giữa núi nên nước trong nhất; buổi chiều ao vào bóng núi sớm. Hàng nướng dọc lối lên ao vừa đỏ lửa, đúng lúc ăn nhẹ giữa tour. Từ Bến Pác Ngòi đi thuyền mất hơn 30 phút.
-> 🍲 **Món:** cá hồ nướng kẹp nẹp tre. Cá nhỏ cỡ ngón tay, đã hấp chín rồi phơi 3–4 nắng, mỗi kẹp 8–10 con; hơ lại trên than hoa tới khi vàng sẫm, ăn cả con lẫn xương, chấm tương ớt hoặc muối mắc khén. Bên cạnh có tôm hồ nướng.
-> 🔗 **Nối cảnh:** vào từ mặt nước lấp lánh (khung cuối Clip 2) · ra bằng **mặt Ao Tiên phẳng như gương** in bóng hai người → Clip 4 mở trên mặt nước xanh lục của Sông Năng.
+# BK-C03 — Tập 3: Bắc Kạn — Viên Ngọc Xanh Ba Bể | Clip 3: Ao Tiên — Hồ Nước Ngọc Bích Trên Đỉnh Đá Vôi
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover; không quay riêng món ăn khi đang có thoại.
-- **Thoại dứt trước 00:07.5;** 00:07.5–00:10 hoàn toàn không thoại.
-- **Áo phao:** lên bờ thì bấm nhả khóa, cởi ra, để gọn trên ghế thuyền (00:00–00:02). Không mặc áo phao lên ao.
-- **Ao Tiên là chốn linh thiêng:** chỉ đứng ngắm; không tắm, không thò tay nghịch nước, không ném đá, không xả rác. Que và nẹp tre ăn xong bỏ vào giỏ rác của quầy.
-- **Địa danh viết hoa:** Ao Tiên, Hồ Ba Bể, Bản Cám.
-- Một cú máy liền 10 giây. Không phụ đề, không chữ, không bảng giá, không watermark, không thẻ tên.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Ao Tiên nằm ở góc hồ thứ ba (Pé Lầm) của Hồ Ba Bể, cách bến thuyền khoảng 100m đi bộ qua bậc đá. Đây là một hồ nước nhỏ rộng khoảng 3 ha nằm biệt lập trên đỉnh một ngọn đồi đá vôi cao hơn mặt hồ Ba Bể khoảng 10m, được nuôi dưỡng bằng mạch nước ngầm thấm qua đá vôi nên nước luôn trong xanh màu ngọc bích và phẳng lặng quanh năm.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 10:00 sáng ánh nắng chiếu thẳng xuống mặt hồ Ao Tiên làm nổi bật sắc xanh ngọc bích đậm.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Một vài chiếc lá rừng vàng rơi nhẹ trên mặt nước xanh ngọc bích tĩnh lặng của Ao Tiên.
+- **Nguồn đối chiếu thực tế**: Ban Quản lý Vườn Quốc gia Ba Bể, Cổng TTĐT tỉnh Bắc Kạn.
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Cận sát mặt nước hồ lấp lánh nắng, khớp khung cuối Clip 2. Máy ngẩng lên: mũi thuyền vừa chạm bến đá nhỏ ở đầu bắc hồ.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Lối đi lát đá tự nhiên và cầu gỗ nhỏ ven bờ Ao Tiên (Vườn Quốc gia Ba Bể): mặt hồ tròn nhỏ phẳng lặng màu xanh ngọc bích thẫm, bao bọc xung quanh 100% là vách núi đá vôi cổ kính và rễ cây cổ thụ buông rủ xuống sát mặt nước.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng trưa sớm (10:00) xuyên qua vòm cây cổ thụ bao quanh Ao Tiên, tạo vùng sáng dịu mát mang sắc xanh ngọc phản chiếu từ mặt nước lên gương mặt @Vy và @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Mặt nước Ao Tiên phẳng lặng chỉ gợn vòng tròn rất nhẹ khi một chiếc lá rơi xuống, lá cây rừng đung đưa khẽ trong không gian tĩnh mịch. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đã đi bộ tới đứng trên bậc đá phẳng sát bờ Ao Tiên (hoàn toàn không nhồi nhét cảnh thuyền cập bến + cởi áo phao + leo núi 100m vào cùng một clip); cả hai trầm trồ nhìn mặt nước Ao Tiên xanh ngọc phẳng lặng.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, giọng nói hạ nhẹ đầy vẻ huyền bí và thích thú. @Vy nói trực tiếp: Ao Tiên nằm tuốt trên đỉnh đá mà nước xanh ngọc phẳng lặng kỳ diệu thiệt!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi nhìn quanh vách núi đá vôi rồi quay sang nhìn @Vy cười tủm tỉm đầy nịnh vợ. @Joi đáp trực tiếp: Tương truyền tiên nữ hay xuống đây tắm, hèn gì nay anh cũng đi cùng một nàng tiên!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười đỏ má, lấy tay quạt nhẹ lên mặt làm bộ ngại ngùng trong khi @Joi cười khoái chí đứng cạnh bên bờ Ao Tiên. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Không gian rừng nguyên sinh tĩnh mịch, tiếng chim rừng hót vọng lại, tiếng nước khẽ chạm bờ đá.
+- **Nhạc nền (Subtle Background Score)**: Giai điệu sáo trúc và đàn Tính trong trẻo, huyền ảo (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Bến nhỏ đầu bắc hồ (khu Bản Cám):** bờ đá, thuyền sắt dài đã neo. Một lối mòn lát đá dốc nhẹ dưới tán rừng già dẫn lên ao, dài chừng 100–200 m.
-- **Quầy nướng ven lối đi** (người bán ở ngoài khung, chỉ thấy bếp và rổ): bếp than hoa đỏ rực, trên vỉ là những kẹp nẹp tre, mỗi kẹp 8–10 con cá nhỏ vàng sẫm, mép tre cháy xém; vài xiên tôm hồ nướng; rổ tre xếp các kẹp cá khô màu nâu; bát tương ớt đỏ; bát muối mắc khén lấm tấm hạt nâu; một giỏ rác đan tre.
-- **Ao Tiên:** ao nhỏ nằm lọt giữa vách đá vôi và rừng già, nước xanh ngọc trong tới đáy, phẳng lặng như gương; quanh bờ có những phiến đá phẳng.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đã đi bộ tới đứng trên bậc đá phẳng sát bờ Ao Tiên (hoàn toàn không nhồi nhét cảnh thuyền cập bến + cởi áo phao + leo núi 100m vào cùng một clip); cả hai trầm trồ nhìn mặt nước Ao Tiên xanh ngọc phẳng lặng. | *(Không thoại — âm thanh môi trường sống động)* | Camera trượt ngang từ góc thấp thấy mặt nước xanh ngọc của Ao Tiên phản chiếu rừng cây, nâng nhẹ lên khung hình trung của @Vy và @Joi trên bậc đá ven hồ. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, giọng nói hạ nhẹ đầy vẻ huyền bí và thích thú. | **@Vy**: Ao Tiên nằm tuốt trên đỉnh đá mà nước xanh ngọc phẳng lặng kỳ diệu thiệt! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi nhìn quanh vách núi đá vôi rồi quay sang nhìn @Vy cười tủm tỉm đầy nịnh vợ. | **@Joi**: Tương truyền tiên nữ hay xuống đây tắm, hèn gì nay anh cũng đi cùng một nàng tiên! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười đỏ má, lấy tay quạt nhẹ lên mặt làm bộ ngại ngùng trong khi @Joi cười khoái chí đứng cạnh bên bờ Ao Tiên. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) bên mặt hồ Ao Tiên tĩnh lặng và giảm tốc dừng êm ái (natural camera settle) ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất, khăn len thổ cẩm đỏ cam, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn. Áo phao đã để lại trên thuyền.
-- **@Joi:** henley xám, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm. Áo phao đã để lại trên thuyền.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:02.0 | LÊN BỜ, CỞI ÁO PHAO**
-- **Máy:** từ mặt nước ngẩng lên, bám theo hai nhân vật.
-- **Hành động:** cả hai bấm nhả khóa áo phao ("tách"), cởi ra đặt gọn lên ghế thuyền; @Joi bước lên bến trước, chìa tay đỡ @Vy; hai người đi vài bước lên lối mòn tới bếp than.
-- **Âm thanh:** sóng vỗ bến đá, tiếng khóa áo phao, than hồng lách tách, chim rừng.
-
-**00:02.0–00:04.5 | @VY NÓI — CẬN MẶT BÊN BẾP THAN**
-- **Máy:** khóa cận mặt @Vy, khói than xanh mỏng bay qua tiền cảnh.
-- **Hành động:** @Vy cầm một kẹp tre vừa hơ nóng, bẻ hé hai thanh nẹp rút ra một con cá vàng sẫm, chấm tương ớt, đưa sát ống kính.
-- **Thoại @Vy** *(giọng nữ trong trẻo, háo hức — 9 âm tiết / 2,5 giây):*
-  > *"Cá kẹp nẹp tre, ăn cả xương luôn nè!"*
-
-**00:04.5–00:06.0 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi.
-- **Hành động:** @Joi cắn nguyên con cá, nhai rau ráu, mắt mở to rồi giơ ngón cái.
-- **Thoại @Joi** *(giọng nam trầm ấm, phát âm tiếng Tày hơi lơ lớ, đầy tự hào — 2 âm tiết / 1,5 giây):*
-  > *"Đây chin!"*
-
-**00:06.0–00:07.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** lia về khóa cận mặt @Vy.
-- **Hành động:** @Vy bật cười, quay sang ống kính giải thích.
-- **Thoại @Vy** *(giọng nữ trong trẻo, cười giòn — 5 âm tiết / 1,5 giây):*
-  > *"Tiếng Tày là ngon đó!"*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — LÊN TỚI AO TIÊN**
-- **Thoại:** không.
-- **Hành động:** hai người bỏ nẹp tre vào giỏ rác của quầy, nắm tay leo mấy bậc đá cuối. Ao Tiên hiện ra; họ dừng trên một phiến đá phẳng ở mép ao, lặng nhìn xuống mặt nước in bóng mình và vòm cây.
-- **Máy:** bám theo rồi hạ xuống sát mặt ao.
-- **Âm thanh:** lá rừng xào xạc, chim hót, nhạc chuyển sang tiếng sáo nhẹ huyền ảo.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt ngang dọc bờ hồ kết hợp lia cận cảnh (Smooth Lakeside Lateral Track & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera trượt ngang từ góc thấp thấy mặt nước xanh ngọc của Ao Tiên phản chiếu rừng cây, nâng nhẹ lên khung hình trung của @Vy và @Joi trên bậc đá ven hồ.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) bên mặt hồ Ao Tiên tĩnh lặng và giảm tốc dừng êm ái (natural camera settle) ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, xóa phông nhẹ các tán cây phía xa nhưng giữ rõ sắc xanh ngọc bích của mặt nước Ao Tiên.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Guitar folk vui tươi ở đoạn ăn, chuyển sang sáo nhẹ huyền ảo khi lên tới ao. Than nướng lách tách, tiếng nhai giòn.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI → CLIP 4]
-Cận mặt Ao Tiên phẳng như gương, in bóng hai người đứng trên phiến đá và vòm cây xanh. Giữ cố định 0,5 giây.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung bên bờ đá Ao Tiên, @Vy và @Joi đứng ngắm mặt hồ xanh ngọc bích bao quanh bởi rừng đá vôi.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy cười duyên dáng bên @Joi cạnh mặt nước Ao Tiên tĩnh lặng.
 
-### [LOẠI TRỪ]
-Mặc áo phao lên ao, thò tay xuống nước, ném đá, tắm ao, người bán hàng chiếm khung hoặc nói, bảng giá hay chữ số, cá trông như cá tươi sống bị kẹp lên nướng, cá to quý hiếm (cá chép kình, cá chiên), vứt rác, tiếng nói không khớp khẩu hình, voiceover, máy quay món ăn khi đang có thoại, thoại trong 00:07.5–00:10, phụ đề, chữ, watermark, thẻ tên.
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhồi cảnh nhảy từ thuyền lên bờ rồi chạy bộ leo núi trong 2 giây đầu; nhân vật đã đứng sẵn tại bờ Ao Tiên.

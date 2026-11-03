@@ -1,85 +1,74 @@
-# KỊCH BẢN PHÂN CẢNH ĐẠO DIỄN — TẬP 1 / CLIP 6
-**DỰ ÁN:** SERIES TIKTOK 365 NGÀY VIỆT NAM  
-**PHÂN ĐOẠN:** TẬP 1 — HÀ GIANG: CỰC BẮC HÙNG VĨ & HƯƠNG VỊ ĐÁ NỞ HOA  
-**MÃ PHÂN CẢNH:** HG-C06 (BẾP LỬA NHÀ SÀN — LÀNG PẢ VI MÈO VẠC)  
-**THỜI LƯỢNG:** ĐÚNG 10 GIÂY (SINGLE CONTINUOUS SHOT)  
-**QUY CÁCH HÌNH ẢNH:** KHUNG HÌNH DỌC 9:16 | 24 FPS | CINEMATIC 35MM COZY CULTURE & FOOD VLOG  
+# HG-C06 — Tập 1: Hà Giang — Đá Nở Hoa | Clip 6: Đèo Mã Pí Lèng & Hẻm Vực Tu Sản — Sông Nho Quế
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [BỘ QUY TẮC ĐẠO DIỄN BẮT BUỘC — DIRECTORIAL LAWS]
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
 
-1. **BÁM SÁT TUYỆT ĐỐI GIỮA GIỌNG NÓI VÀ NHÂN VẬT (CHARACTER-VOICE LOCK & REAL-TIME LIP SYNC):**
-   - Camera bắt buộc khóa chặt cận cảnh gương mặt người đang nói. Khi @Joi nói → cam khóa mặt @Joi đang nhai thịt trâu tấm tắc; khi @Vy nói → cam lia êm khóa mặt @Vy đang nếm thắng cố gật gù. Tuyệt đối KHÔNG để tiếng người này nhưng cam quay người khác hoặc quay bếp lửa.
-   - Khẩu hình khớp 100% từng âm tiết tiếng Việt phát ra theo thời gian thực (real-time phoneme-to-viseme match).
-   - Âm sắc đồng bộ 100%: @Joi giọng nam trầm ấm hào sảng nói tiếng Việt tự nhiên; @Vy giọng nữ trong trẻo ngọt ngào.
-   - Tuyệt đối cấm: voiceover, desync, mấp máy môi không tiếng, có tiếng mà miệng đứng yên.
-
-2. **VIẾT HOA CHUẨN XÁC TẤT CẢ ĐỊA DANH:** "Làng Pả Vi", "Mèo Vạc", "Hà Giang" — viết hoa chuẩn ngữ pháp tiếng Việt.
-
-3. **KHOẢNG ĐỆM KHÔNG THOẠI CUỐI CLIP (00:07.5–00:10):** Thoại dứt điểm ở giây `00:07.5`. Đúng 2.5 giây cuối tuyệt đối KHÔNG CÓ THOẠI, dành cho hành động đứng dậy, bước ngang cửa nhấc 02 mũ bảo hiểm 3/4 trên giá gỗ đưa cho nhau và bước ra hiên.
-
-4. **LOGIC ĐẠO CỤ VẬT LÝ — KHÔNG TỰ BIẾN MẤT HAY XUẤT HIỆN:**
-   - Trong không gian nhà sàn: Nhân vật **không đội mũ bảo hiểm**. 02 mũ 3/4 vintage (kem của @Vy, xanh rêu của @Joi) **đặt ngay ngắn trên giá gỗ cạnh cửa ra vào** từ đầu cảnh.
-   - Cuối clip (00:07.5–00:10): @Joi trực tiếp vươn tay **nhấc** 2 mũ từ giá gỗ, đưa mũ kem cho @Vy, cầm mũ rêu của mình.
-
-5. **KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG THẺ TÊN NHÂN VẬT.**
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Đèo Mã Pí Lèng dài khoảng 20 km nằm trên Quốc lộ 4C nối thị trấn Đồng Văn và thị trấn Mèo Vạc, ở độ cao khoảng 1.200m. Từ điểm dừng chân trên đèo nhìn thẳng xuống là Hẻm vực Tu Sản (hẻm vực kiến tạo sâu nhất Đông Nam Á với vách đá vôi dựng đứng cao 700–800m) và dòng sông Nho Quế màu xanh ngọc bích uốn lượn phía dưới.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm hoàng hôn mùa thu-đông khoảng 16:45 – 17:15.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Ánh hoàng hôn vàng cam nhuộm đỏ các vách đá dựng đứng của hẻm vực Tu Sản, làm nổi bật dải lụa xanh ngọc bích của sông Nho Quế sâu thẳm bên dưới.
+- **Nguồn đối chiếu thực tế**: Danh thắng Quốc gia Đèo Mã Pí Lèng (Bộ VHTTDL), Hồ sơ Công viên địa chất toàn cầu UNESCO Cao nguyên đá Đồng Văn.
 
 ---
 
-### [THIẾT LẬP BỐI CẢNH & ĐẠO CỤ — SCENE SETUP & PROPS CONTINUITY]
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
 
-- **ĐỊA ĐIỂM:** Gian nhà sàn gỗ truyền thống đồng bào Mông tại Làng Pả Vi (huyện Mèo Vạc, tỉnh Hà Giang). Ánh hoàng hôn rọi xiên qua khung cửa sổ gỗ, góc gian nhà bừng sáng ánh lửa bập bùng ấm cúng của bếp than hồng.
-- **BẾP LỬA & VỊ TRÍ ĐẠO CỤ (00:00):**
-  - Giữa sàn nhà là đống than hồng đỏ rực, vỉ than nướng thớ thịt trâu gác bếp xèo xèo thơm nức mùi mắc khén; cạnh đó nồi gang thắng cố bốc khói ngùn ngụt cùng đĩa chẩm chéo ớt tiêu rừng.
-  - **GIÁ GỖ CẠNH CỬA:** Đặt ngay ngắn **02 mũ bảo hiểm 3/4 vintage**: mũ kem be của @Vy và mũ xanh rêu nhám của @Joi.
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
 
----
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
 
-### [KHÓA NHÂN VẬT — CHARACTER LOCK]
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm dừng chân ngắm cảnh trên đỉnh đèo Mã Pí Lèng có tường chắn đá an toàn ven Quốc lộ 4C; phía dưới sâu hun hút là dòng sông Nho Quế màu xanh ngọc bích (emerald green) chảy xuyên qua hai vách đá tai mèo dựng đứng của hẻm vực Tu Sản.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng hoàng hôn rực rỡ (Golden Hour lúc 17:00) chiếu ngang qua đỉnh đèo, tạo viền sáng vàng cam óng ả trên gương mặt @Vy, @Joi và nhuộm ấm các tầng vách đá vôi hùng vĩ. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Gió chiều trên đèo Mã Pí Lèng thổi nhẹ làm khăn rằn của @Vy và tóc của cả hai bay khẽ, mặt nước sông Nho Quế phía xa ánh lên sắc xanh ngọc tĩnh lặng. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
 
-- **@Vy:** Ngồi bệt xếp bằng bên bếp lửa, cởi áo khoác gió chỉ mặc áo len cổ lọ be ngà, tóc đen buộc đuôi ngựa gọn gàng lộ gương mặt thanh tú ửng hồng vì hơi ấm bếp. Hai tay khéo léo xé thớ thịt trâu, nụ cười hạnh phúc.
-- **@Joi:** Ngồi sát cạnh @Vy, áo henley xám cuộn tay áo lộ bắp tay săn chắc, háo hức đón miếng thịt trâu @Vy đưa tận tay, ánh mắt say mê thưởng thức.
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng sát bên nhau cạnh tường đá bảo vệ trên đèo Mã Pí Lèng, phía sau là chiếc Scrambler đậu gọn bên lề; cả hai cùng phóng tầm mắt nhìn xuống dòng sông Nho Quế xanh ngọc bích dưới đáy hẻm vực Tu Sản.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, hai mắt mở to trầm trồ, tay chỉ xuống dòng sông xanh ngắt phía dưới vực sâu. @Vy nói trực tiếp: Nhìn sông Nho Quế xanh ngọc dưới vực Tu Sản kìa, đẹp như tranh vẽ luôn!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi nhìn xuống vực sâu rồi quay lại nhìn @Vy cười tỉnh bơ pha chút hài hước. @Joi đáp trực tiếp: Đẹp tới mức nãy chạy qua đèo tay anh giữ ga mà chân hơi run nhẹ đó!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười lớn trêu @Joi rồi tựa nhẹ đầu vào vai anh, @Joi choàng tay ôm vai @Vy, cả hai cùng ngắm trọn khoảnh khắc hoàng hôn buông xuống đỉnh Mã Pí Lèng. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
 
----
-
-### [KỊCH BẢN ĐẠO DIỄN HÀNH ĐỘNG TỪNG GIÂY — 10 GIÂY LIÊN TỤC]
-
-**00:00–00:03.0 | TIẾP NỐI HÀNH ĐỘNG MATCH-CUT TỪ CLIP 5 (INT. NHÀ SÀN LÀNG PẢ VI — MEDIUM CLOSE-UP NGANG BẾP LỬA)**
-- **Máy quay:** Medium Close-up ngang tầm bếp lửa than hồng, lấy trọn @Vy và @Joi ngồi quây quần bên đống than đỏ rực, phía xa góc cửa **thấy rõ 02 mũ bảo hiểm 3/4 trên giá gỗ**.
-- **Hành động:** Sau chuyến thuyền Sông Nho Quế, hai bạn trẻ ngồi bên bếp lửa sưởi ấm. @Vy khéo léo xé đôi thớ thịt trâu gác bếp đỏ au chấm đẫm chẩm chéo đưa tận tay @Joi; @Joi cầm thìa múc ngụm nước thắng cố bốc khói.
-- **Âm thanh (Foley):** Tiếng củi than lách tách lốp đốp, tiếng mỡ thịt trâu rỏ xuống than hồng xèo xèo thơm nức, tiếng húp canh nóng xì xụp.
-
-**00:03.0–00:05.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @JOI (CLOSE-UP SPEAKER LOCK)**
-- **Máy quay:** Zoom nhẹ KHÓA CHẶT cận cảnh gương mặt nam tính @Joi.
-- **Hành động:** @Joi cắn miếng thịt trâu to nhai ngấu nghiến, hai má phồng gật đầu lia lịa, mắt sáng rực sảng khoái. Khuôn miệng cử động khớp chính xác từng âm tiết tiếng Việt trầm ấm hào sảng.
-- **Thoại @Joi** *(giọng nam trầm ấm, vừa nhai vừa xuýt xoa, khớp 100% khẩu hình — ~14 âm tiết / 2.5 giây):*
-  > *"Ưm! Thịt trâu ngọt lịm, cay tê đầu lưỡi thơm mùi khói củi đã quá em ơi!"*
-
-**00:05.5–00:07.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @VY (CLOSE-UP SPEAKER LOCK)**
-- **Máy quay:** Lia êm ái KHÓA CHẶT cận cảnh gương mặt @Vy bên bếp lửa.
-- **Hành động:** @Vy múc thìa nước thắng cố nóng hổi nếm thử, nuốt rồi cười tít mắt gật gù, bờ môi cử động chuẩn xác khớp 100% từng âm tiết.
-- **Thoại @Vy** *(giọng nữ trong trẻo, vừa nuốt vừa tấm tắc, khớp 100% khẩu hình — ~11 âm tiết / 2 giây):*
-  > *"Thắng cố béo ngậy thơm nức thảo mộc, ăn ấm sực cả người luôn á!"*
-
-**00:07.5–00:10.0 | ĐỆM HÀNH ĐỘNG VẬT LÝ — LẤY MŨ TRÊN GIÁ GỖ & RA HIÊN (SILENT BUFFER & PROP BLOCKING)**
-- **Âm thanh lời thoại:** TUYỆT ĐỐI IM LẶNG — 100% KHÔNG CÓ THOẠI.
-- **Máy quay:** Lùi nhẹ bao quát hai nhân vật đứng dậy di chuyển về phía cửa nhà sàn.
-- **Hành động vật lý logic:**
-  - `00:07.5`: Dứt tiếng nói, @Joi nhìn qua khung cửa sổ thấy ráng chiều hoàng hôn nhuộm đỏ thung lũng Mèo Vạc. @Joi mỉm cười nắm tay kéo nhẹ @Vy đứng dậy.
-  - Bước ngang cửa, @Joi với tay **nhấc 02 mũ bảo hiểm 3/4 từ giá gỗ**: đưa mũ kem be cho @Vy, cầm mũ xanh rêu cho mình.
-  - @Vy nhận mũ móc vào cổ tay, khoác lại áo gió hồng đất, cả hai dắt tay bước qua bậc cửa gỗ ra hiên nhà hướng về mỏm đồi nơi chiếc Scrambler đậu.
-- **Âm thanh (Foley):** Tiếng bước chân trên sàn gỗ "kẽo kẹt", tiếng nhấc 02 mũ ra khỏi giá gỗ "cộp cộp", tiếng củi than lùi dần, giai điệu acoustic êm dịu.
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió chiều thổi qua vách núi đá vôi Mã Pí Lèng, âm vang không gian rộng lớn hùng vĩ.
+- **Nhạc nền (Subtle Background Score)**: Giai điệu sáo Mông kết hợp đàn dây du dương, hùng tráng dưới ánh hoàng hôn (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [KHUNG HÌNH CUỐI & MATCH-CUT CHUYỂN TIẾP SANG CLIP 7]
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
 
-- **Khung hình cuối (00:09.5–00:10):** @Vy và @Joi dắt tay bước ra hiên nhà sàn, tay cầm mũ bảo hiểm 3/4 vintage, phía trước mỏm đồi chiếc Scrambler đậu dưới ráng chiều hoàng hôn Mèo Vạc vàng đỏ rực rỡ. **Giữ cố định 0.5s cuối.**
-- **Nối cảnh Clip 7:** Tiếp nối chính xác hai người bước ra mỏm đồi đứng tựa bên Scrambler ngắm hoàng hôn Mèo Vạc.
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng sát bên nhau cạnh tường đá bảo vệ trên đèo Mã Pí Lèng, phía sau là chiếc Scrambler đậu gọn bên lề; cả hai cùng phóng tầm mắt nhìn xuống dòng sông Nho Quế xanh ngọc bích dưới đáy hẻm vực Tu Sản. | *(Không thoại — âm thanh môi trường sống động)* | Camera trượt ngang từ góc nhìn thấy trọn độ sâu của hẻm vực Tu Sản và sông Nho Quế xanh ngọc bích, đưa @Vy và @Joi vào trung tâm khung hình. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, hai mắt mở to trầm trồ, tay chỉ xuống dòng sông xanh ngắt phía dưới vực sâu. | **@Vy**: Nhìn sông Nho Quế xanh ngọc dưới vực Tu Sản kìa, đẹp như tranh vẽ luôn! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi nhìn xuống vực sâu rồi quay lại nhìn @Vy cười tỉnh bơ pha chút hài hước. | **@Joi**: Đẹp tới mức nãy chạy qua đèo tay anh giữ ga mà chân hơi run nhẹ đó! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười lớn trêu @Joi rồi tựa nhẹ đầu vào vai anh, @Joi choàng tay ôm vai @Vy, cả hai cùng ngắm trọn khoảnh khắc hoàng hôn buông xuống đỉnh Mã Pí Lèng. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi lãng mạn (Medium Two-Shot) với nền là hẻm vực Tu Sản và sông Nho Quế rực nắng chiều, giảm tốc dừng êm ái ở 09.5s–10.0s. |
 
 ---
 
-### [LOẠI TRỪ — NEGATIVE PROMPT]
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-Đội mũ bảo hiểm khi ngồi ăn bên bếp lửa trong nhà, ăn xong mũ tự xuất hiện trên đầu mà không có hành động lấy từ giá gỗ, tiếng nói không khớp khẩu hình, lệch hình và tiếng (voiceover/desync), tiếng @Joi nhưng cam quay @Vy, tiếng @Vy nhưng cam quay @Joi, camera quay nồi thức ăn khi có thoại mà không quay mặt người nói, mấp máy môi không tiếng, có tiếng nhưng môi đứng yên, lời thoại ở 2.5 giây cuối (00:07.5–00:10), đọc sai địa danh, không viết hoa địa danh, thông tin nhân vật hiển thị, thẻ tên, profile card, phụ đề, chữ viết, watermark.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt ngang kết hợp xoay vòng cung mượt mà (Smooth Lateral Glide to Cinematic Arc) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera trượt ngang từ góc nhìn thấy trọn độ sâu của hẻm vực Tu Sản và sông Nho Quế xanh ngọc bích, đưa @Vy và @Joi vào trung tâm khung hình.
+  2. `00:01.5 – 00:07.5`: Đẩy êm vào cận cảnh trung (MCU) gương mặt @Vy dưới nắng hoàng hôn (01.5s–04.5s), rồi lia ngang mượt sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi lãng mạn (Medium Two-Shot) với nền là hẻm vực Tu Sản và sông Nho Quế rực nắng chiều, giảm tốc dừng êm ái ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/4.0, độ sâu trường ảnh rõ nét giúp người xem cảm nhận được độ sâu choáng ngợp của hẻm vực Tu Sản phía sau hai nhân vật.
+
+---
+
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
+
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng trên đỉnh đèo Mã Pí Lèng lúc hoàng hôn, @Vy và @Joi đứng bên tường chắn đá nhìn xuống sông Nho Quế xanh ngọc.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy tựa vai @Joi trên đỉnh đèo Mã Pí Lèng dưới ánh nắng hoàng hôn vàng cam ấm áp.
+
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ nước sông Nho Quế màu đục hay xanh dương biển; phải đúng màu xanh ngọc bích (emerald/jade green) đặc trưng nằm sâu dưới khe vực đá vôi dựng đứng.

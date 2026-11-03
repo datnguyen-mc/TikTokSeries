@@ -1,82 +1,74 @@
-# TẬP 4 — XỨ LẠNG · CLIP 5/7: CỘT CỜ PHAI VỆ — HOÀNG HÔN PHÍA TÂY, TRĂNG MƯỜI SÁU PHÍA ĐÔNG
-**MÃ:** LS-C05 · **GIỜ TRONG PHIM:** 17:15, Chủ nhật 25/10/2026 (mặt trời lặn 17:24; trăng mười sáu đã mọc 16:28) · **ĐỊA ĐIỂM:** đỉnh Núi Phai Vệ, chân Cột Cờ Phai Vệ, phường Đông Kinh, Lạng Sơn · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm golden hour & moonrise
-
-> ⏰ **Vì sao đi giờ này:** Núi Phai Vệ có 535 bậc đá lên đỉnh (Cột Cờ Phai Vệ khánh thành 4/11/2014, Báo Lạng Sơn); mở khoảng 07:00–18:00 theo cổng thông tin du lịch Lạng Sơn (chưa có thông báo chính thức năm 2026). Bắt đầu leo khoảng 16:40 thì lên tới đỉnh trong giờ vàng 16:50–17:24; mặt trời lặn 17:24 (PyEphem, tọa độ phố Lạng Sơn). Trăng mười sáu (16/9 âm lịch) mọc 16:28, lúc 17:15 đã lên khỏi dãy núi phía đông; tới chạng vạng 17:44 trăng cao khoảng 15°, sáng 99% khi trời tối. Từ cùng một đỉnh núi có cả hoàng hôn phía tây lẫn trăng lên phía đông. Xuống núi trước 18:00 khi cổng đóng; chặng sau chỉ chạy trong phố, không có đèo. Mang theo nước uống vì leo 535 bậc.
-> 🔗 **Nối cảnh:** vào từ ánh lóa vàng của mặt trời chiều (khung cuối Clip 4). Giữa hai clip, ngoài khung: hai người xuống Núi Tô Thị, đội mũ, cài quai, chạy vài cây số trong phố sang chân Núi Phai Vệ, dựng xe, tháo mũ móc lên ghi-đông rồi leo bậc · ra bằng **vầng trăng**: máy vòng qua cột cờ, quay về phía đông, dừng ở vầng trăng mười sáu trên đèn phố vừa lên → Clip 6 mở bằng máy hạ từ vầng trăng xuống mái bạt Chợ Đêm Kỳ Lừa.
+# LS-C05 — Tập 4: Lạng Sơn — Đỉnh Cao Gió Ngàn | Clip 5: Thung Lũng Bắc Sơn — Bức Tranh Thổ Cẩm Giữa Rừng Karst
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt. Cấm voiceover, cấm tiếng người này khi máy đang quay người kia, quay cờ hay quay trăng.
-- **Ánh sáng:** nắng hoàng hôn vàng cam chiếu nghiêng lên mặt người nói, đủ sáng để thấy rõ khẩu hình; không để mặt tối ngược sáng.
-- **Thoại chỉ nằm trong 00:03.0–00:07.5;** 00:07.5–00:10 hoàn toàn không thoại, chỉ có hành động nối cảnh, âm thanh môi trường và nhạc.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép:** chỉ nói thành tiếng, không hiện chữ trên hình.
-- **Tôn trọng quốc kỳ:** không trèo lên bệ cột cờ, không chạm hay đùa nghịch với lá cờ.
-- **Thiên văn đúng:** mặt trời thấp ở phía tây, trăng gần tròn ở phía đông, hai bên đối nhau qua cột cờ. Trời chưa tối hẳn.
-- **Mũ bảo hiểm:** cả hai mũ 3/4 móc trên ghi-đông chiếc Scrambler dựng ở chân núi, không vào khung; không ai mang mũ lên đỉnh.
-- **Địa danh viết hoa:** Cột Cờ Phai Vệ, Núi Phai Vệ, Phai Vệ, Lạng Sơn.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa bia, bảng hay biển có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Thung lũng Bắc Sơn thuộc huyện Bắc Sơn, tỉnh Lạng Sơn (cách TP. Lạng Sơn khoảng 70 km về phía Tây theo Quốc lộ 1B). Từ điểm ngắm cảnh trên sườn núi Nà Lay (cao khoảng 600m so với mực nước biển), toàn cảnh thung lũng Bắc Sơn hiện ra với dòng sông Thương / suối Nông Giang uốn lượn mềm mại qua những cánh đồng lúa chia ô nhiều sắc độ xanh-vàng, bao quanh bởi hàng trăm ngọn núi đá vôi hình chóp tròn trùng điệp và bản làng nhà sàn người Tày Quỳnh Sơn.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 15:00 chiều nắng xiên làm nổi bật các ô ruộng nhiều màu sắc dưới thung lũng Bắc Sơn.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Góc nhìn từ đài vọng cảnh trên cao nhìn xuống thảm lúa vàng pha xanh như tấm thổ cẩm khổng lồ giữa trùng điệp núi đá vôi Bắc Sơn.
+- **Nguồn đối chiếu thực tế**: Công viên địa chất Lạng Sơn, Cổng TTĐT huyện Bắc Sơn.
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Ánh lóa vàng của mặt trời chiều tràn khung, khớp khung cuối Clip 4, rồi dịu dần, lộ ra những bậc đá cuối cùng và chòi cột cờ bằng đá. Lá cờ đỏ sao vàng bay phần phật trên nền trời chiều vàng cam. @Joi đã đứng ở bậc trên, đưa tay xuống kéo @Vy.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm vọng cảnh có lan can an toàn trên sườn núi cao nhìn thẳng xuống toàn cảnh Thung lũng Bắc Sơn (huyện Bắc Sơn, Lạng Sơn): phía dưới là cánh đồng lúa chia ô vuông vức đan xen sắc vàng chín và xanh mướt, con suối nhỏ uốn lượn chữ S và hàng chục ngọn núi đá vôi hình nón bao bọc bốn bề.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng chiều 15:00 vàng óng chiếu xiên tạo bóng đổ dài của các dãy núi đá vôi xuống cánh đồng Bắc Sơn và chiếu sáng rực rỡ gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Gió trên sườn núi cao thổi mát làm tóc và khăn rằn của @Vy bay nhẹ, những đám mây trắng trôi chậm trên bầu trời Bắc Sơn. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng bên lan can điểm vọng cảnh trên cao nhìn xuống Thung lũng Bắc Sơn; @Vy đưa hai tay mở rộng như muốn ôm trọn cả cánh đồng thổ cẩm dưới chân núi.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, tay chỉ xuống những ô ruộng xanh vàng đan xen dưới thung lũng. @Vy nói trực tiếp: Thung lũng Bắc Sơn nhìn từ trên cao y hệt tấm thổ cẩm khổng lồ luôn anh!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi vừa hạ máy ảnh Fujifilm xuống vừa nhìn @Vy cười tươi. @Joi đáp trực tiếp: Cảnh này mà chụp hình thẻ chắc cũng auto đẹp như poster phim điện ảnh!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười tạo dáng chuẩn người mẫu bên lan can, @Joi lập tức đưa máy ảnh lên bấm máy ghi lại nụ cười rạng rỡ của cô giữa nền Thung lũng Bắc Sơn. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió núi thổi lồng lộng êm dịu, tiếng màn trập máy ảnh cơ tách nhẹ.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền đàn Tính kết hợp dàn dây (strings) rộng mở, khoáng đạt (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Đỉnh Núi Phai Vệ:** chòi cột cờ bằng đá, lá cờ đỏ sao vàng lớn bay căng trong gió, lan can quanh đỉnh; dãy bậc đá dốc xuyên qua tán cây phía dưới.
-- **Toàn cảnh:** phố Lạng Sơn trải rộng dưới chân, dãy núi đá vôi bao quanh.
-- **Phía tây:** mặt trời thấp sát núi, trời vàng cam.
-- **Phía đông:** trời xanh tím, vầng trăng gần tròn màu vàng nhạt thấp trên dãy núi; đèn phố bắt đầu lên lấm tấm.
-- **Ngoài khung:** chiếc Scrambler xám xi măng dựng chân chống ở chân núi, hai mũ 3/4 móc trên ghi-đông (mũ kem be bên trái, mũ xanh rêu bên phải).
-- Không đưa vào khung: bia, bảng hay biển có chữ; đám đông. Không ai trèo lên bệ cột cờ.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng bên lan can điểm vọng cảnh trên cao nhìn xuống Thung lũng Bắc Sơn; @Vy đưa hai tay mở rộng như muốn ôm trọn cả cánh đồng thổ cẩm dưới chân núi. | *(Không thoại — âm thanh môi trường sống động)* | Camera trượt vòng cung từ sau vai nhân vật ra góc trung rộng thấy trọn toàn cảnh cánh đồng ô bàn cờ và núi đá vôi Thung lũng Bắc Sơn phía dưới. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, tay chỉ xuống những ô ruộng xanh vàng đan xen dưới thung lũng. | **@Vy**: Thung lũng Bắc Sơn nhìn từ trên cao y hệt tấm thổ cẩm khổng lồ luôn anh! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi vừa hạ máy ảnh Fujifilm xuống vừa nhìn @Vy cười tươi. | **@Joi**: Cảnh này mà chụp hình thẻ chắc cũng auto đẹp như poster phim điện ảnh! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười tạo dáng chuẩn người mẫu bên lan can, @Joi lập tức đưa máy ảnh lên bấm máy ghi lại nụ cười rạng rỡ của cô giữa nền Thung lũng Bắc Sơn. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) khi @Joi chụp ảnh cho @Vy trước toàn cảnh Thung lũng Bắc Sơn và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất mở khóa, khăn len thổ cẩm đỏ cam bay trong gió, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; má ửng đỏ vì leo dốc, tóc bay.
-- **@Joi:** henley xám, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm, balo 50L sau lưng; hơi thở còn dốc sau 535 bậc, nụ cười rạng rỡ.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:03.0 | TỪ ÁNH LÓA VÀNG LÊN BẬC CUỐI**
-- **Máy:** ánh lóa vàng dịu dần; máy bám từ phía sau lên những bậc đá cuối, thấy lá cờ đỏ sao vàng bay trên chòi cột cờ.
-- **Hành động:** @Joi nắm tay kéo @Vy lên bậc cuối. Cả hai thở dốc, đứng thẳng người trên đỉnh, gió thổi tung tóc và khăn len.
-- **Âm thanh:** cờ bay phần phật, gió lộng, tiếng phố vọng lên. Không thoại.
-
-**00:03.0–00:05.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, nắng vàng cam hắt nghiêng lên má, tóc bay.
-- **Hành động:** @Vy thở ra một hơi, cười, chỉ tay xuống dãy bậc đá vừa leo.
-- **Thoại @Vy** *(giọng nữ trong trẻo, hơi hụt hơi mà tự hào, giọng miền Nam — 10 âm tiết / 2,5 giây):*
-  > *Năm trăm ba mươi lăm bậc lên Phai Vệ đó!*
-
-**00:05.5–00:07.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi, nắng hoàng hôn rọi thẳng lên mặt anh; sau lưng anh là bầu trời phía đông xanh tím, vầng trăng gần tròn vàng nhạt thấp trên dãy núi.
-- **Hành động:** @Joi hất cằm về phía vầng trăng, mắt nheo cười.
-- **Thoại @Joi** *(giọng nam trầm ấm, mơ màng, lãng mạn — 7 âm tiết / 2 giây):*
-  > *Trăng mười sáu tròn hơn đêm rằm!*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — MẶT TRỜI CHẠM NÚI, MÁY VỀ PHÍA TRĂNG**
-- **Thoại:** không.
-- **Hành động:** @Joi vòng tay ôm @Vy từ phía sau; cả hai nhìn về phía tây khi mép mặt trời chạm dãy núi.
-- **Máy:** vòng chậm quanh hai người qua chòi cột cờ, quay về phía đông, dừng ở vầng trăng trên nền trời xanh tím, đèn phố Lạng Sơn lấm tấm phía dưới.
-- **Âm thanh:** gió, cờ bay phần phật, nhạc acoustic ấm dâng lên.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt vòng cung mở rộng toàn cảnh thung lũng (Smooth Panoramic Valley Arc & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera trượt vòng cung từ sau vai nhân vật ra góc trung rộng thấy trọn toàn cảnh cánh đồng ô bàn cờ và núi đá vôi Thung lũng Bắc Sơn phía dưới.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) khi @Joi chụp ảnh cho @Vy trước toàn cảnh Thung lũng Bắc Sơn và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/4.0, độ sâu trường ảnh lớn giúp giữ rõ cấu trúc cánh đồng chia ô và núi đá vôi Bắc Sơn ở hậu cảnh.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Cinematic folk ấm: đàn Tính rải nhẹ, guitar và piano nhẹ dâng dần lúc mặt trời chạm núi. Gió lộng, tiếng cờ bay, tiếng phố vọng lên từ dưới chân núi.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI → CLIP 6]
-Vầng trăng mười sáu tròn, vàng nhạt trên nền trời chạng vạng xanh tím phía đông, phía dưới là đèn phố Lạng Sơn vừa lên lấm tấm. Giữ cố định 0,5 giây. Clip 6 mở bằng máy hạ từ vầng trăng này.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng trên điểm vọng cảnh cao nhìn xuống Thung lũng Bắc Sơn rực rỡ sắc vàng xanh, @Vy và @Joi đứng bên lan can.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Joi chụp ảnh cho @Vy cười tươi trước toàn cảnh Thung lũng Bắc Sơn.
 
-### [LOẠI TRỪ]
-Trèo lên bệ cột cờ, đùa nghịch với quốc kỳ, cờ rách hoặc rủ xuống, trăng khuyết hay lưỡi liềm, trăng và mặt trời cùng một phía, trời đêm tối hẳn hoặc leo núi lúc tối (cổng đóng 18:00), bia, bảng, biển có chữ, mang mũ bảo hiểm lên đỉnh, mũ biến mất khỏi xe, đám đông che khung, mặt người nói tối ngược sáng, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, máy quay trăng hay cờ khi đang có thoại, thoại trước 00:03.0 hoặc trong 00:07.5–00:10, phụ đề, chữ, watermark, thẻ tên.
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ ruộng bậc thang dốc đứng kiểu Mù Cang Chải; Thung lũng Bắc Sơn là cánh đồng phẳng chia ô nằm giữa lòng chảo các ngọn núi đá vôi.

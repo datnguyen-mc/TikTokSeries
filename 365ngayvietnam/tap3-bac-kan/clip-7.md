@@ -1,88 +1,74 @@
-# TẬP 3 — HỒ BA BỂ · CLIP 7/7: ĐÊM RẰM BÊN BẾP LỬA — PẺNG PHẠ, ĐÀN TÍNH & HẸN LẠNG SƠN [KẾT TẬP 3]
-**MÃ:** BK-C07 · **GIỜ TRONG PHIM:** 19:30 · **ĐỊA ĐIỂM:** gian bếp lửa nhà sàn homestay, Bản Pác Ngòi · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm firelight & moonlight
-
-> ⏰ **Vì sao đi giờ này:** Ăn tối 18:30–19:30 (cũng là lúc ngư dân về nhà ăn cơm), rồi nghe hát Then, đàn Tính bên bếp lửa khoảng 19:30–21:00 (nhờ chủ nhà đặt từ chiều). Cuối tháng 10/2026 trùng tuần trăng rằm tháng Chín âm lịch (rằm 24/10, tròn nhất 26/10): trăng đã lên khi ăn tối, rải vệt bạc trên mặt hồ. Trời tối hẳn từ khoảng 17:45, không chạy xe đèo ban đêm; sáng mai mới lên đường đi Lạng Sơn.
-> 🍲 **Món:** lạp sườn gác bếp (thịt lợn bản ướp gừng đá, rượu, lá mắc mật, hun khói) nướng trên than; **bánh pẻng phạ** (bánh trời), món bánh sinh ra ở Ba Bể: viên nếp chiên vàng nâu ngấm mật, lăn bột nếp rang, ruột dẻo, ngọt dịu (phải đặt trước với chủ nhà); trà nóng.
-> 🔗 **Nối cảnh:** vào từ ô cửa nhà sàn sáng lửa (khung cuối Clip 6) · kết bằng máy trôi ra cửa sổ: trăng rằm trên hồ, chiếc Scrambler và hai mũ dưới sân → mở đường cho Tập 4 Lạng Sơn.
+# BK-C07 — Tập 3: Bắc Kạn — Viên Ngọc Xanh Ba Bể | Clip 7: Đường Rừng Bình Minh Bắc Kạn — Lên Đường Đi Lạng Sơn
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover; nghệ nhân đàn Tính không nói, chỉ ở hậu cảnh mờ.
-- **Ánh sáng:** lửa bếp hắt cam ấm lên mặt hai người, đủ sáng để thấy rõ khẩu hình; ánh trăng bạc ngoài cửa sổ.
-- **Thoại dứt trước 00:07.5;** 00:07.5–00:10 hoàn toàn không thoại.
-- **Phép tắc nhà sàn:** giày cởi để ở chân cầu thang, ngồi xếp bằng trên chiếu quanh bếp; không gõ vào kiềng bếp, nói khẽ.
-- **Không rượu:** chỉ uống trà nóng vì sáng mai còn chạy xe.
-- **Mũ bảo hiểm:** vẫn móc trên ghi-đông chiếc Scrambler dưới sân (lộ ra ở cuối clip).
-- **Địa danh viết hoa:** Ba Bể, Hồ Ba Bể, Lạng Sơn, Bản Pác Ngòi.
-- Một cú máy liền 10 giây. Không phụ đề, không chữ, không watermark, không thẻ tên.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Từ Bắc Kạn đi sang tỉnh Lạng Sơn có thể di chuyển theo Quốc lộ 3B (từ TP. Bắc Kạn qua huyện Na Rì sang huyện Bình Gia, Văn Quan đến TP. Lạng Sơn) hoặc Quốc lộ 279, đi qua những cung đường đèo rừng xanh mát của vùng Đông Bắc.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Quãng đường từ Bắc Kạn sang TP. Lạng Sơn dài khoảng 140–160 km tùy lộ trình.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Buổi sáng sớm trong lành trên cung đường đèo Quốc lộ 3B rợp bóng cây xanh rời Bắc Kạn hướng về xứ Lạng.
+- **Nguồn đối chiếu thực tế**: Bản đồ giao thông đường bộ Quốc lộ 3B & Quốc lộ 279 (Bắc Kạn – Lạng Sơn).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Một ô cửa sổ nhà sàn sáng ánh lửa vàng ấm trong đêm xanh thẫm, khớp khung cuối Clip 6 khi trời đã tối. Máy bắt đầu đẩy qua ô cửa vào trong.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm dừng chân trên cung đường đèo Quốc lộ 3B rợp bóng rừng xanh rời tỉnh Bắc Kạn: mặt đường nhựa phẳng phiu uốn lượn bên sườn đồi xanh mướt, xa xa là thung lũng mờ sương sớm hướng về phía Đông (tỉnh Lạng Sơn).
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng sớm mai trong trẻo chiếu xiên qua hàng cây ven đường, tạo độ tương phản tươi mới và tràn đầy năng lượng cho hành trình ngày mới. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Gió sớm thổi nhẹ làm lá cây ven đường và khăn rằn của @Vy đung đưa tự nhiên. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi ngồi sẵn trên chiếc xe máy Scrambler đen-xanh rêu đang dừng nổ máy êm bên lề đường đèo Bắc Kạn (cả hai đội mũ bảo hiểm 3/4 cài quai gọn gàng, kính chắn gió lật lên cao để lộ rõ mặt).
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy ngồi sau yên xe, vỗ nhẹ vào vai @Joi, ánh mắt háo hức nhìn về con đường phía trước. @Vy nói trực tiếp: Bắc Kạn bình yên quá đỗi, giờ mình vít ga qua Lạng Sơn ăn vịt quay nghen!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi quay nhẹ đầu lại nhìn @Vy, bật cười lắc đầu yêu chiều. @Joi đáp trực tiếp: Chưa tới Lạng Sơn mà thực đơn trong đầu em chạy trước xe năm chục cây số rồi!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười ôm eo @Joi, cả hai gạt nhẹ kính mũ bảo hiểm xuống và @Joi cho chiếc Scrambler lăn bánh mượt mà tiến về phía trước trên cung đường đi Lạng Sơn. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng động cơ Scrambler trầm ấm tăng ga nhẹ nhàng, tiếng gió sớm và tiếng chim rừng.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền acoustic du lịch sôi động, mở ra chặng đường mới (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Gian giữa nhà sàn:** bếp lửa than hồng, kiềng sắt, ấm nước ám khói; vách gỗ và sàn gỗ mòn bóng ánh lửa.
-- **Trên than:** vỉ nướng nhỏ với mấy khúc lạp sườn nâu đỏ căng bóng, mỡ nhỏ xuống than xèo xèo.
-- **Mâm thấp trên chiếu:** đĩa bánh pẻng phạ (viên tròn vàng nâu bóng mật, phủ lớp bột nếp rang trắng ngà), hai chén trà bốc khói.
-- **Cửa sổ gỗ mở** nhìn ra Hồ Ba Bể: trăng rằm tròn vằng vặc trên sống núi, vệt sáng bạc trên mặt hồ đen.
-- **Hậu cảnh:** một nghệ nhân Tày áo chàm ôm đàn Tính bầu tròn, gảy khẽ; ngồi nghiêng, mờ nét, không nói.
-- **Dưới sân** (lộ ra khi máy ra cửa sổ ở cuối clip): chiếc Scrambler dựng chân chống, hai mũ 3/4 móc trên ghi-đông.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi ngồi sẵn trên chiếc xe máy Scrambler đen-xanh rêu đang dừng nổ máy êm bên lề đường đèo Bắc Kạn (cả hai đội mũ bảo hiểm 3/4 cài quai gọn gàng, kính chắn gió lật lên cao để lộ rõ mặt). | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung 3/4 phía trước bên trái thấy rõ @Joi và @Vy ngồi trên xe Scrambler giữa cung đường rừng Bắc Kạn. |
+| **00:01.5 – 00:04.5** | @Vy ngồi sau yên xe, vỗ nhẹ vào vai @Joi, ánh mắt háo hức nhìn về con đường phía trước. | **@Vy**: Bắc Kạn bình yên quá đỗi, giờ mình vít ga qua Lạng Sơn ăn vịt quay nghen! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi quay nhẹ đầu lại nhìn @Vy, bật cười lắc đầu yêu chiều. | **@Joi**: Chưa tới Lạng Sơn mà thực đơn trong đầu em chạy trước xe năm chục cây số rồi! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười ôm eo @Joi, cả hai gạt nhẹ kính mũ bảo hiểm xuống và @Joi cho chiếc Scrambler lăn bánh mượt mà tiến về phía trước trên cung đường đi Lạng Sơn. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ và lia theo chiếc Scrambler khi xe bắt đầu lăn bánh êm ái tiến về hướng Lạng Sơn, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất, khăn len thổ cẩm đỏ cam quấn hờ, jeans xanh nhạt, đi tất len (boots để dưới chân cầu thang); ngồi xếp bằng bên mâm, má ửng hồng ánh lửa.
-- **@Joi:** henley xám, áo khoác canvas xanh rêu, cargo be cát, đi tất len (boots để dưới chân cầu thang); ngồi cạnh bếp, cầm đũa dài lật lạp sườn.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:01.5 | QUA Ô CỬA VÀO BÊN BẾP LỬA**
-- **Máy:** đẩy qua ô cửa vào gian bếp.
-- **Hành động:** @Joi lật khúc lạp sườn trên vỉ than, mỡ xèo xèo, khói thơm bốc lên; @Vy ngồi xếp bằng cạnh mâm, cầm đĩa bánh pẻng phạ.
-- **Âm thanh:** than lách tách, mỡ xèo xèo, đàn Tính gảy khẽ.
-
-**00:01.5–00:03.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, lửa bếp hắt cam lên má.
-- **Hành động:** @Vy gắp một viên pẻng phạ, sợi mật kéo nhẹ theo, giơ lên trước ống kính.
-- **Thoại @Vy** *(giọng nữ ngọt ngào, tự hào — 8 âm tiết / 2 giây):*
-  > *"Pẻng phạ, bánh trời Ba Bể nè anh!"*
-
-**00:03.5–00:05.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi; sau lưng anh, qua cửa sổ, vầng trăng tròn trên mặt hồ.
-- **Hành động:** @Joi liếc ra vầng trăng rồi nhìn @Vy, cười dịu dàng như vừa khoe bài học tiếng Tày.
-- **Thoại @Joi** *(giọng nam trầm ấm, si tình, phát âm tiếng Tày hơi lơ lớ — 7 âm tiết / 2 giây):*
-  > *"Trăng là 'hai', em là 'noọng' nè!"*
-
-**00:05.5–00:07.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** lia về khóa cận mặt @Vy.
-- **Hành động:** @Vy đỏ mặt bật cười, quay sang ống kính vẫy tay.
-- **Thoại @Vy** *(giọng nữ ngọt ngào, háo hức — 7 âm tiết / 2 giây):*
-  > *"Mai tụi mình đi Lạng Sơn nha!"*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — CỤNG CHÉN TRÀ, MÁY RA CỬA SỔ [KẾT TẬP 3]**
-- **Thoại:** không.
-- **Hành động:** hai người cụng nhẹ hai chén trà nóng; @Vy tựa đầu vào vai @Joi bên bếp lửa; tiếng đàn Tính và giọng Then ngân lên.
-- **Máy:** lùi ra qua cửa sổ, lướt trên vệt trăng bạc trên mặt hồ rồi hạ xuống sân: chiếc Scrambler dựng chân chống dưới trăng, hai mũ 3/4 móc trên ghi-đông.
-- **Âm thanh:** đàn Tính và giọng Then, côn trùng đêm, nước hồ vỗ khẽ.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục góc 3/4 trước mũi xe chuyển sang lia theo xe lăn bánh (Smooth 3/4 Front-Side to Roll-Off Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung 3/4 phía trước bên trái thấy rõ @Joi và @Vy ngồi trên xe Scrambler giữa cung đường rừng Bắc Kạn.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia mượt sang gương mặt @Joi (04.5s–07.5s) (chỉ đúng 2 lượt thoại gọn gàng).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ và lia theo chiếc Scrambler khi xe bắt đầu lăn bánh êm ái tiến về hướng Lạng Sơn, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, hậu cảnh đường đèo xanh mướt mờ nhẹ tạo chiều sâu điện ảnh.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Đàn Tính và một câu Then ngân dài, mộc và ấm (Then của người Tày là di sản văn hóa phi vật thể đại diện của nhân loại, UNESCO 2019). Than lách tách, côn trùng đêm.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI — THUMBNAIL KẾT TẬP 3]
-Nhà sàn sáng ánh lửa, bóng hai người tựa vai nhau bên cửa sổ; trăng rằm tròn trên Hồ Ba Bể; tiền cảnh là chiếc Scrambler với hai mũ 3/4 móc trên ghi-đông, sẵn sàng cho chặng Lạng Sơn sáng mai. Giữ cố định 0,5 giây.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung @Joi và @Vy ngồi sẵn trên xe Scrambler bên lề đường rừng Bắc Kạn buổi sáng, mũ bảo hiểm lật kính.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Chiếc Scrambler chở @Joi và @Vy lăn bánh êm ái trên đường nhựa xuyên rừng, nối mượt sang Tập 4 Lạng Sơn.
 
-### [LOẠI TRỪ]
-Rượu bia, đi giày trong nhà sàn, gõ vào kiềng bếp, nghệ nhân nói hoặc cận mặt, bầu trời đầy sao hay dải Ngân Hà (đêm trăng rằm làm sao mờ), trăng khuyết, chạy xe ban đêm, mũ biến mất khỏi xe, lửa bén ra ngoài bếp, gương mặt tối không thấy khẩu hình, tiếng nói không khớp khẩu hình, voiceover, thoại trong 00:07.5–00:10, phụ đề, chữ, watermark, thẻ tên.
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhồi 3 lượt thoại; không bắt nhân vật đứng dưới đất mới đội mũ rồi nhảy lên xe trong 2 giây cuối.

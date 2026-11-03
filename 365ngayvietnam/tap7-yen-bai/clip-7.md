@@ -1,85 +1,74 @@
-# TẬP 7 — YÊN BÁI · CLIP 7/9: HOÀNG HÔN ĐỒI MÓNG NGỰA SÁNG NHÙ — VÒNG CUNG RUỘNG BẬC THANG RỰC VÀNG CAM
-**MÃ:** YB-C07 · **GIỜ TRONG PHIM:** 16:45, chiều muộn thứ Sáu 30/10/2026 (21/9 âm lịch), giờ vàng hoàng hôn · **ĐỊA ĐIỂM:** mỏm đồi ngắm cảnh đối diện Đồi Móng Ngựa tại xã Sáng Nhù (cách thị trấn Mù Cang Chải khoảng 2 km), huyện Mù Cang Chải, tỉnh Yên Bái · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm golden-hour horseshoe terraced fields sunset
-
-> ⏰ **Vì sao đi giờ này:** Từ Púng Luông về gần thị trấn Mù Cang Chải, rẽ lên xã Sáng Nhù (cách trung tâm thị trấn khoảng 2 km) lúc 16:45 là đúng khung giờ vàng hoàng hôn đẹp nhất trong ngày (16:30–17:15, mặt trời lặn khoảng 17:25 cuối tháng 10). Do Đồi Móng Ngựa mở hướng về phía tây nam, nắng hoàng hôn chiếu thẳng vào những bậc ruộng uốn cong hình bán nguyệt làm cả thung lũng bừng sáng sắc vàng cam rực rỡ; ngắm xong chỉ mất vài phút xuống núi về nhà sàn nghỉ đêm trước khi trời tối.
-> 📍 **Check-in & thông tin kiểm chứng:** **Đồi Móng Ngựa** tại xã **Sáng Nhù** (huyện **Mù Cang Chải**) nổi tiếng với những thửa ruộng bậc thang xếp tầng uốn cong mềm mại theo địa hình sườn núi thành hình chiếc móng ngựa (bán nguyệt) khổng lồ, là điểm săn hoàng hôn biểu tượng của Mù Cang Chải (Cổng thông tin điện tử tỉnh Yên Bái; Cục Du lịch Quốc gia Việt Nam). Mẹo thực tế: gửi xe ở bãi đỗ chân điểm ngắm, lên trước 16:30 để đón trọn ánh nắng xiên vàng cam và xuống đồi trước 17:15 khi trời còn sáng rõ.
-> 🔗 **Nối cảnh:** vào từ đường cong ngập nắng vàng cam cuối Clip 6 sang **những vòng cung ruộng bậc thang hình móng ngựa tại Sáng Nhù nhuộm ánh hoàng hôn vàng cam rực rỡ** (ngoài khung: chạy từ Púng Luông sang Sáng Nhù, gửi xe Scrambler và móc hai mũ 3/4 ở bãi đỗ gần đó rồi bước ra điểm ngắm cảnh) · ra bằng **ánh ráng chiều đỏ cam ấm áp nơi chân trời hoàng hôn** → Clip 8 mở bằng ánh lửa than hồng đỏ cam ấm cúng trong bữa tối trên nhà sàn người Thái ở Mù Cang Chải.
+# YB-C07 — Tập 7: Yên Bái — Nấc Thang Lên Trời Mùa Vàng | Clip 7: Đồi Móng Ngựa Sáng Nhù — Hoàng Hôn Trên Những Đường Cong Tuyệt Mỹ
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt theo thời gian thực; ánh hoàng hôn chiếu xiên từ bên cạnh làm gương mặt và đôi môi hai người sáng rõ ấm áp, tuyệt đối không bị ngược sáng tối đen. Cấm voiceover, cấm tiếng người này khi máy quay người kia hoặc chỉ quay phong cảnh.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (Quy tắc 4 từ Tập 5):** `00:00–00:01.0` nối cảnh vòng cung Đồi Móng Ngựa lúc hoàng hôn (không thoại) · `00:01.0–00:04.5` khóa cận mặt @Vy nói · `00:04.5–00:08.5` lia êm khóa cận mặt @Joi nói · `00:08.5–00:10.0` đệm tình cảm không thoại: hai người tựa vai ngắm mặt trời vàng cam hạ dần sau dãy núi Tây Bắc.
-- **Mũ bảo hiểm (Quy tắc 9):** đang đứng ngắm hoàng hôn cố định trên điểm ngắm cảnh nên hai người KHÔNG đội mũ bảo hiểm; hai chiếc mũ 3/4 móc gọn trên ghi-đông chiếc Scrambler đỗ ở bãi đất phẳng gần đó (thấy mờ ở hậu cảnh xa).
-- **Địa danh viết hoa:** Đồi Móng Ngựa, Sáng Nhù, Mù Cang Chải, Yên Bái.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa biển quảng cáo hay bảng thu phí có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Đồi Móng Ngựa nằm tại bản Sáng Nhù, xã Mồ Dề, huyện Mù Cang Chải, tỉnh Yên Bái (cách thị trấn Mù Cang Chải khoảng 2 km). Khu ruộng bậc thang tại đây uốn cong một vòng cung bán nguyệt hoàn hảo như hình chiếc móng ngựa với hàng chục bậc thang xếp tầng cao vút, là điểm ngắm hoàng hôn đẹp bậc nhất Mù Cang Chải.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 17:15 hoàng hôn buông xuống Đồi Móng Ngựa (Mồ Dề, Mù Cang Chải).
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Ánh hoàng hôn cam đỏ phản chiếu lên những đường cong hình móng ngựa của các bậc thang lúa vàng rực rỡ.
+- **Nguồn đối chiếu thực tế**: Danh thắng Quốc gia đặc biệt Ruộng bậc thang Mù Cang Chải (xã Mồ Dề, huyện Mù Cang Chải, tỉnh Yên Bái).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Ánh hoàng hôn vàng cam lúc 16:45 phủ rực rỡ lên toàn bộ những bậc ruộng bậc thang uốn cong hình bán nguyệt kỳ vĩ của Đồi Móng Ngựa ở Sáng Nhù (khớp đường cong nắng vàng cam ở khung cuối Clip 6). Máy lia mượt từ vòng cung ruộng bậc thang sang trung cận @Vy và @Joi đang đứng trên sườn đồi phẳng đối diện.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm ngắm cảnh trên đỉnh đồi nhìn xuống toàn cảnh Đồi Móng Ngựa (bản Sáng Nhù, xã Mồ Dề, Mù Cang Chải): các thửa ruộng bậc thang uốn lượn thành vòng cung chữ U (hình móng ngựa) mềm mại tuyệt đẹp dưới ánh hoàng hôn rực rỡ.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng hoàng hôn 17:15 (Dramatic Sunset Backlight) chiếu xiên từ phía Tây làm nổi bật từng đường viền bờ ruộng hình móng ngựa và tạo viền sáng vàng cam ấm áp trên tóc, vai của @Vy và @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Gió hoàng hôn trên đỉnh đồi Sáng Nhù thổi nhẹ làm tóc của @Vy, @Joi và những ngọn lúa vàng rung rinh nhịp nhàng. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng cạnh nhau trên đỉnh điểm ngắm Đồi Móng Ngựa lúc hoàng hôn; cả hai cùng ngắm nhìn đường cong hình bán nguyệt tuyệt mỹ của những bậc thang lúa vàng bên dưới.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, vẽ nhẹ một đường cong trong không khí mô phỏng hình móng ngựa của thửa ruộng. @Vy nói trực tiếp: Đồi Móng Ngựa uốn cong mềm mại dưới nắng hoàng hôn, nhìn như nấc thang lên trời!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi giơ máy ảnh Fujifilm lên vừa bấm một tấm vừa quay sang mỉm cười tình cảm với @Vy. @Joi đáp trực tiếp: Cảnh đẹp cỡ này mà có em đứng chung khung hình là thành bức ảnh để đời luôn!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy mỉm cười hạnh phúc nghiêng đầu tựa vào vai @Joi, cả hai cùng ngắm nhìn mặt trời chiều dần khuất sau những dãy núi Mù Cang Chải. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió chiều thổi êm trên sườn đồi Mù Cang Chải, tiếng màn trập máy ảnh tách nhẹ.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền đàn dây và sáo trúc trữ tình, sâu lắng dưới hoàng hôn (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Đồi Móng Ngựa (xã Sáng Nhù, Mù Cang Chải):** hàng chục bậc ruộng bậc thang ôm trọn hõm núi thành hình chiếc móng ngựa cân đối tuyệt đẹp; ánh mặt trời chiều tà nhuộm vàng cam từng bờ ruộng và phản chiếu lấp lánh trên những vạt nước còn đọng lại; phía xa là trùng điệp núi rừng Tây Bắc tím hồng dưới ráng chiều.
-- **Điểm ngắm cảnh:** bãi đất phẳng cao ráo, có hàng rào tre mộc mạc an toàn; phía xa nơi bãi đỗ thoáng thấy chiếc Scrambler xám xi măng với hai mũ 3/4 móc trên ghi-đông.
-- **Đạo cụ nhân vật:** @Vy đeo túi mây tròn chéo vai; @Joi đeo balo 50L sau lưng; không ai cầm mũ bảo hiểm trên tay.
-- Không đưa vào khung: bảng chữ, biển hiệu, đám đông chen chúc.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng cạnh nhau trên đỉnh điểm ngắm Đồi Móng Ngựa lúc hoàng hôn; cả hai cùng ngắm nhìn đường cong hình bán nguyệt tuyệt mỹ của những bậc thang lúa vàng bên dưới. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng cao vừa phải thấy rõ đường cong bán nguyệt của Đồi Móng Ngựa phía dưới và hai nhân vật đứng trên đồi. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, vẽ nhẹ một đường cong trong không khí mô phỏng hình móng ngựa của thửa ruộng. | **@Vy**: Đồi Móng Ngựa uốn cong mềm mại dưới nắng hoàng hôn, nhìn như nấc thang lên trời! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi giơ máy ảnh Fujifilm lên vừa bấm một tấm vừa quay sang mỉm cười tình cảm với @Vy. | **@Joi**: Cảnh đẹp cỡ này mà có em đứng chung khung hình là thành bức ảnh để đời luôn! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy mỉm cười hạnh phúc nghiêng đầu tựa vào vai @Joi, cả hai cùng ngắm nhìn mặt trời chiều dần khuất sau những dãy núi Mù Cang Chải. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi lãng mạn (Two-Shot) trước hoàng hôn Đồi Móng Ngựa và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [GÓC CHECK-IN — BỐ CỤC KHUNG HÌNH]
-- **Tiền cảnh:** hàng rào tre thấp và vài nhánh cỏ đuôi chồn rực sáng viền vàng dưới nắng ngược.
-- **Trung cảnh:** @Vy và @Joi đứng cạnh nhau, nắng hoàng hôn viền vàng ấm áp quanh mái tóc và bờ vai.
-- **Hậu cảnh:** trọn vẹn vòng cung hình móng ngựa của ruộng bậc thang Sáng Nhù và mặt trời vàng cam đang hạ thấp trên đỉnh núi.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục xoay vòng cung theo đường cong Đồi Móng Ngựa (Smooth Horseshoe-Curve Orbital Arc & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng cao vừa phải thấy rõ đường cong bán nguyệt của Đồi Móng Ngựa phía dưới và hai nhân vật đứng trên đồi.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy dưới nắng chiều (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi lãng mạn (Two-Shot) trước hoàng hôn Đồi Móng Ngựa và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/3.5, giữ trọn vẹn đường cong hình móng ngựa đặc trưng ở hậu cảnh.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất kéo khóa lên ngực vì gió chiều muộn bắt đầu se lạnh, khăn len thổ cẩm đỏ cam quấn ấm quanh cổ, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; không đội mũ, tóc uốn sóng bay nhẹ trong gió chiều; gương mặt ửng hồng ánh hoàng hôn.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm, balo 50L sau lưng; không đội mũ; đứng sát bên @Vy, vòng tay choàng nhẹ qua vai cô.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng trên đỉnh Đồi Móng Ngựa (Mù Cang Chải) lúc hoàng hôn, các bậc thang lúa uốn cong hình chữ U phía dưới.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy tựa vai @Joi dưới ráng chiều vàng cam tại Đồi Móng Ngựa.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | TỪ VÒNG CUNG ĐỒI MÓNG NGỰA SANG HAI NGƯỜI**
-- **Máy:** từ toàn cảnh vòng cung hình móng ngựa rực ánh hoàng hôn vàng cam, lia mượt sang trung cận @Vy và @Joi bên hàng rào tre.
-- **Hành động:** @Vy vẽ nhẹ một đường vòng cung bằng bàn tay theo hình dáng thửa ruộng bậc thang trước mắt rồi quay sang ống kính.
-- **Âm thanh:** gió chiều thổi êm trên sườn đồi, tiếng sáo trúc Tây Bắc ngân sâu lắng. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa chặt cận mặt @Vy, ánh nắng hoàng hôn vàng cam chiếu ấm trên gò má và đôi môi, hậu cảnh là vòng cung Đồi Móng Ngựa Sáng Nhù.
-- **Hành động:** @Vy chỉ tay ra những bậc ruộng uốn cong hình bán nguyệt phía sau, mỉm cười say mê.
-- **Thoại @Vy** *(00:01.2–00:04.5; giọng nữ trong trẻo, ngọt ngào, giọng miền Nam — 14 âm tiết / 3,3 giây):*
-  > *Hoàng hôn nhuộm vàng Đồi Móng Ngựa ở Sáng Nhù kỳ vĩ quá anh!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang khóa chặt cận mặt @Joi dưới ánh nắng chiều vàng rực.
-- **Hành động:** @Joi nhìn mặt trời đang hạ thấp dần về phía đỉnh núi rồi nhìn @Vy, chia sẻ mẹo khung giờ vàng săn hoàng hôn cho mọi người.
-- **Thoại @Joi** *(00:04.8–00:08.3; giọng nam trầm ấm, hào sảng — 14 âm tiết / 3,5 giây):*
-  > *Canh giờ vàng bốn rưỡi chiều trước khi nắng khuất núi đẹp lắm em!*
-
-**00:08.5–00:10.0 | ĐỆM TÌNH CẢM KHÔNG THOẠI — TỰA VAI NGẮM RÁNG CHIỀU ĐỎ CAM**
-- **Thoại:** không.
-- **Hành động:** @Joi kéo nhẹ @Vy tựa đầu vào vai mình; cả hai cùng lặng ngắm vầng mặt trời đỏ cam chạm xuống rặng núi phía tây, nhuộm cả bầu trời và vòng cung ruộng bậc thang thành sắc cam hồng ấm áp.
-- **Máy:** lướt nhẹ từ hai người về phía quầng sáng đỏ cam ấm rực nơi chân trời hoàng hôn để nối sang ánh lửa bếp nhà sàn ở Clip 8.
-- **Âm thanh:** tiếng sáo trúc và guitar acoustic ngân vang đầy cảm xúc.
-
----
-
-### [ÂM THANH & NHẠC]
-Cinematic acoustic folk lãng mạn và sâu lắng, tiếng sáo trúc Tây Bắc hòa cùng tiếng đàn guitar ấm áp lúc hoàng hôn buông xuống. Âm thanh môi trường: gió chiều rì rào.
-
-### [KHUNG CUỐI → CLIP 8]
-Quầng sáng hoàng hôn đỏ cam ấm rực trên bầu trời phía trên vòng cung Đồi Móng Ngựa Sáng Nhù. Giữ cố định 0,5 giây. Clip 8 mở bằng ánh lửa than hồng đỏ cam ấm cúng và làn khói thơm trong bữa tối tại nhà sàn người Thái ở Mù Cang Chải.
-
-### [LOẠI TRỪ]
-Đội mũ bảo hiểm hay cầm mũ khi đứng ngắm hoàng hôn, mặt hai người bị ngược sáng tối đen không thấy môi, trời đã tối mịt, giẫm vào ruộng bậc thang, biển quảng cáo hay bảng thu phí có chữ, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10.0, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ ruộng phẳng thẳng tắp; bắt buộc phải thấy đường cong vòng cung hình móng ngựa của các bậc thang lúa.

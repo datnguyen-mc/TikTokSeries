@@ -1,78 +1,74 @@
-# TẬP 3 — HỒ BA BỂ · CLIP 2/7: THUYỀN RỜI BẾN PÁC NGÒI — ĐẢO BÀ GÓA TRONG SƯƠNG CUỐI
-**MÃ:** BK-C02 · **GIỜ TRONG PHIM:** 08:35 · **ĐỊA ĐIỂM:** Bến Pác Ngòi → mặt hồ quanh Đảo Bà Góa (Pò Giả Mải) · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm lake boat journey
-
-> ⏰ **Vì sao đi giờ này:** 08:30 là giờ xuất phát chuẩn của tour thuyền (tour Vườn Quốc Gia chạy 08:30 hoặc 13:30; bến mở từ khoảng 7:00). Sương sớm tan dần khoảng 07:30–08:30 nên quanh Đảo Bà Góa còn vương mấy dải sương cuối mà trời đã đủ sáng. Đi chuyến sáng còn kịp xem Ao Tiên và Động Puông trước trưa.
-> 🔗 **Nối cảnh:** vào từ màn mây trắng của Clip 1, tan dần thành sương trên mặt hồ · ra bằng **mặt nước lấp lánh**: máy hạ sát mặt hồ đuổi theo chiếc lá trôi → Clip 3 mở trên mặt nước lấp lánh ở bến Ao Tiên.
+# BK-C02 — Tập 3: Bắc Kạn — Viên Ngọc Xanh Ba Bể | Clip 2: Lướt Thuyền Trên Hồ Ba Bể & Đảo Bà Góa
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt. Cấm voiceover, cấm tiếng người này khi máy đang quay người kia hoặc quay cảnh.
-- **Thoại dứt trước 00:07.5;** 00:07.5–00:10 hoàn toàn không thoại.
-- **Thuyền máy rất ồn:** người lái giảm ga, thuyền trôi chậm trong lúc có thoại.
-- **Áo phao cam:** cả hai mặc và cài khóa ngực (nhận từ thuyền ở Bến Pác Ngòi). Không mang mũ bảo hiểm xuống thuyền.
-- **Mũ bảo hiểm:** đã tháo, móc quai trên ghi-đông chiếc Scrambler đậu trong sân nhà sàn homestay sát bến; phải thấy rõ trên bờ ở đầu clip.
-- **Địa danh viết hoa:** Bến Pác Ngòi, Bản Pác Ngòi, Đảo Bà Góa, Hồ Ba Bể.
-- Một cú máy liền 10 giây. Không phụ đề, không chữ, không watermark, không thẻ tên.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Hồ Ba Bể (xã Nam Mẫu, huyện Ba Bể) hợp thành từ 3 nhánh hồ thông nhau: Pé Lầm, Pé Lù và Pé Lèng, dài hơn 8 km, diện tích mặt nước khoảng 500 ha. Giữa nhánh hồ Pé Lèng là Đảo Bà Góa (Pò Giả Mải) — một hòn đảo đá vôi nhỏ xinh xắn phủ cây cổ thụ xanh rợp gắn liền với truyền thuyết hình thành hồ Ba Bể.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 08:30 sáng mặt hồ phẳng lặng như gương phản chiếu mây trời và núi đá vôi.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Chiếc thuyền gỗ du lịch truyền thống của người Tày lướt êm trên mặt nước xanh ngọc bích, phía sau là Đảo Bà Góa nổi bật giữa lòng hồ.
+- **Nguồn đối chiếu thực tế**: Ban Quản lý Vườn Quốc gia Ba Bể, Di tích Quốc gia đặc biệt Danh lam thắng cảnh Hồ Ba Bể.
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Màn trắng của mây và sương, khớp khung cuối Clip 1, đang tan dần để lộ mặt Hồ Ba Bể xanh thẫm phẳng như gương.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Mũi thuyền gỗ truyền thống đang lướt nhẹ trên mặt nước xanh ngọc bích phẳng lặng của Hồ Ba Bể; phía sau ở cự ly trung cảnh là Đảo Bà Góa (hòn đảo đá nhỏ phủ cây cổ thụ xanh tươi mọc lên giữa mặt hồ) và dãy núi đá vôi bao bọc xung quanh.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng sáng 08:30 trong trẻo chiếu xuống mặt hồ tạo ánh phản chiếu lung linh (water caustics/fill light) lên gương mặt @Vy và @Joi, bầu trời xanh phản chiếu rõ trên mặt nước. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Những gợn sóng chữ V lan nhẹ từ mũi thuyền gỗ ra mặt hồ phẳng lặng, gió hồ thổi mát làm tóc @Vy và @Joi bay nhẹ tự nhiên. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi ngồi an toàn ở phần mũi thuyền gỗ đang lướt chậm trên Hồ Ba Bể (cả hai mặc áo khoác quen thuộc, đầu trần, đeo balo gọn sau lưng); @Vy đưa nhẹ bàn tay chạm vào làn nước mát lạnh bên mạn thuyền.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy ngước lên nhìn @Joi, tay chỉ về phía Đảo Bà Góa xanh mướt giữa lòng hồ phía sau. @Vy nói trực tiếp: Mặt hồ Ba Bể phẳng như gương, nhìn đảo Bà Góa giữa hồ thơ mộng ghê!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi cầm máy ảnh Fujifilm vừa hạ xuống, nhìn mặt nước rồi quay sang trêu @Vy. @Joi đáp trực tiếp: Nước trong tới mức cá dưới hồ cũng đang ngước lên ngắm hai đứa mình đó!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười nghiêng đầu dựa nhẹ vào vai @Joi, cả hai cùng ngồi yên bình trên mũi thuyền ngắm nhìn Đảo Bà Góa và non nước Ba Bể. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng nước vỗ lách tách nhẹ vào mạn thuyền gỗ, tiếng mái chèo khua nước êm đềm, tiếng chim hót vang trên mặt hồ.
+- **Nhạc nền (Subtle Background Score)**: Tiếng đàn Tính kết hợp hát Then không lời dịu dàng, thanh bình (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Bến Pác Ngòi** ở góc đông nam Hồ Ba Bể, nơi sông Lèng đổ vào hồ: dãy nhà sàn người Tày mái ngói âm dương nép dưới chân núi đá, khói bếp sớm lững lờ. Trong sân một nhà sàn sát bến: chiếc Scrambler dựng chân chống, **hai mũ 3/4 móc trên ghi-đông** (kem be bên trái, xanh rêu bên phải).
-- **Thuyền:** thuyền sắt dài sơn xanh, mui thấp, chạy máy dầu. Người lái ngồi ở đuôi thuyền, quay lưng, mờ nét, không nói.
-- **Đảo Bà Góa** (tiếng Tày Pò Giả Mải, nghĩa là "gò Bà Góa"): gò nhỏ do những phiến đá xếp chồng, cây xanh mọc trên đỉnh, nằm giữa mặt hồ phẳng lặng; vài dải sương mỏng còn vờn quanh chân đảo.
-- **Đạo cụ:** một chiếc lá vàng khô rơi trên mạn thuyền, cạnh tay @Joi.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi ngồi an toàn ở phần mũi thuyền gỗ đang lướt chậm trên Hồ Ba Bể (cả hai mặc áo khoác quen thuộc, đầu trần, đeo balo gọn sau lưng); @Vy đưa nhẹ bàn tay chạm vào làn nước mát lạnh bên mạn thuyền. | *(Không thoại — âm thanh môi trường sống động)* | Camera đặt ổn định trên thuyền ở góc trung rộng (Medium-Wide) thấy rõ @Vy, @Joi ở mũi thuyền và Đảo Bà Góa giữa mặt hồ xanh biếc phía sau. |
+| **00:01.5 – 00:04.5** | @Vy ngước lên nhìn @Joi, tay chỉ về phía Đảo Bà Góa xanh mướt giữa lòng hồ phía sau. | **@Vy**: Mặt hồ Ba Bể phẳng như gương, nhìn đảo Bà Góa giữa hồ thơ mộng ghê! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi cầm máy ảnh Fujifilm vừa hạ xuống, nhìn mặt nước rồi quay sang trêu @Vy. | **@Joi**: Nước trong tới mức cá dưới hồ cũng đang ngước lên ngắm hai đứa mình đó! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười nghiêng đầu dựa nhẹ vào vai @Joi, cả hai cùng ngồi yên bình trên mũi thuyền ngắm nhìn Đảo Bà Góa và non nước Ba Bể. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ lấy trọn khung hình đôi (Two-Shot) trên mũi thuyền giữa lòng Hồ Ba Bể và giảm tốc dừng êm ái (natural camera settle) ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất, khăn len thổ cẩm quả trám đỏ cam, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn; **áo phao cam cài khóa ngực** bên ngoài; tóc nâu hạt dẻ bay nhẹ trong gió hồ.
-- **@Joi:** henley xám, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm; **áo phao cam cài khóa ngực**; balo để dưới chân trong lòng thuyền.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:02.5 | SƯƠNG TAN, THUYỀN RỜI BẾN**
-- **Máy:** từ màn trắng, sương tan để lộ mặt hồ; máy lùi trên mặt nước theo mũi thuyền vừa rời Bến Pác Ngòi. Trên bờ phía sau là dãy nhà sàn và chiếc Scrambler với hai mũ móc trên ghi-đông; phía trước, xa xa, Đảo Bà Góa mờ trong sương.
-- **Hành động:** @Vy và @Joi ngồi ở mũi thuyền, áo phao cam cài khóa; @Vy chỉ tay về phía đảo; người lái giảm ga.
-- **Âm thanh:** máy thuyền nổ ròn rồi nhỏ dần, nước rẽ hai bên mạn, tiếng gà gáy vọng từ bản.
-
-**00:02.5–00:05.0 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, nắng sớm xiên nhẹ trên má, hậu cảnh đảo đá mờ sương.
-- **Hành động:** @Vy kể như kể chuyện cổ tích, mắt sáng, tay chỉ về hòn đảo phía trước.
-- **Thoại @Vy** *(giọng nữ trong trẻo, say sưa kể chuyện — 10 âm tiết / 2,5 giây):*
-  > *"Đảo Bà Góa nè, vỏ trấu hóa thuyền cứu làng!"*
-
-**00:05.0–00:07.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi.
-- **Hành động:** @Joi nhặt chiếc lá vàng trên mạn thuyền, giơ lên trước ống kính, nhướng mày cười tinh nghịch.
-- **Thoại @Joi** *(giọng nam trầm ấm, trêu đùa — 8 âm tiết / 2,5 giây):*
-  > *"Vậy đây là thuyền vỏ trấu của anh!"*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — THẢ LÁ, THUYỀN TĂNG GA**
-- **Thoại:** không.
-- **Hành động:** @Joi thả chiếc lá xuống mặt nước; @Vy bật cười, tựa vai @Joi. Người lái tăng ga, thuyền lướt qua sát chân Đảo Bà Góa rồi hướng lên phía bắc lòng hồ, giữa hai vách núi phủ rừng.
-- **Máy:** hạ thấp sát mặt nước, đuổi theo chiếc lá trôi trên vệt sóng lấp lánh nắng sớm.
-- **Âm thanh:** máy thuyền nổ lại, nước bắn rào rào, nhạc đàn Tính vui hơn.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục đặt trên thuyền trượt nhẹ kết hợp lia ngang (Smooth Boat-Mounted Dolly & Gentle Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera đặt ổn định trên thuyền ở góc trung rộng (Medium-Wide) thấy rõ @Vy, @Joi ở mũi thuyền và Đảo Bà Góa giữa mặt hồ xanh biếc phía sau.
+  2. `00:01.5 – 00:07.5`: Đẩy nhẹ vào cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang mượt sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ lấy trọn khung hình đôi (Two-Shot) trên mũi thuyền giữa lòng Hồ Ba Bể và giảm tốc dừng êm ái (natural camera settle) ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/3.5, giữ độ nét rõ cho cả hai nhân vật trên thuyền lẫn hình dáng Đảo Bà Góa giữa mặt hồ.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Đàn Tính và guitar folk, nhịp kể chuyện. Máy thuyền, sóng vỗ mạn, gà gáy và chim rừng từ bờ.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI → CLIP 3]
-Cận sát mặt hồ gợn sóng lấp lánh nắng, chiếc lá vàng xoay nhẹ trên vệt sóng; đuôi thuyền và Đảo Bà Góa mờ phía sau. Giữ cố định 0,5 giây.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng trên thuyền gỗ giữa Hồ Ba Bể, @Vy và @Joi ngồi gần mũi thuyền, phía sau là Đảo Bà Góa.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy tựa vai @Joi trên mũi thuyền gỗ lướt nhẹ qua Đảo Bà Góa.
 
-### [LOẠI TRỪ]
-Kayak, SUP, thuyền hơi, tắm hồ, nhảy xuống nước, không mặc áo phao, mũ bảo hiểm trên thuyền, mũ biến mất khỏi ghi-đông xe trên bờ, người lái thuyền nhìn vào máy hoặc nói, lên đảo dẫm phá, ném rác xuống hồ, tiếng nói không khớp khẩu hình, voiceover, máy quay đảo khi đang có thoại, thoại trong 00:07.5–00:10, phụ đề, chữ, watermark, thẻ tên.
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ sóng biển lớn hay tàu cao tốc hiện đại; mặt hồ Ba Bể phải phẳng lặng êm ả như gương giữa núi đá vôi.

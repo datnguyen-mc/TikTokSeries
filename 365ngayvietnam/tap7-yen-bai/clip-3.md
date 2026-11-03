@@ -1,85 +1,74 @@
-# TẬP 7 — YÊN BÁI · CLIP 3/9: THUNG LŨNG TÚ LỆ — NHỊP CHÀY GIÃ CỐM XANH NẾP TAN HƯƠNG LÚA SỮA
-**MÃ:** YB-C03 · **GIỜ TRONG PHIM:** 10:15, sáng muộn thứ Sáu 30/10/2026, nắng vàng ấm áp · **ĐỊA ĐIỂM:** dưới hiên nhà sàn gỗ của một hộ làm cốm truyền thống người Thái ở xã Tú Lệ, dưới chân Đèo Khau Phạ, Yên Bái · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm traditional artisan green-rice pounding craft
-
-> ⏰ **Vì sao đi giờ này:** Sau khi ngắm biển mây trên đỉnh Đèo Khau Phạ, ngoài khung hai người đội mũ cài quai chạy xuống chân đèo tới thung lũng Tú Lệ lúc 10:15 sáng. Đây là thời điểm người Thái ở Tú Lệ vừa rang xong mẻ lúa nếp non thu hoạch lúc sớm mai và đang giã cốm thủ công dưới hiên nhà sàn, hương cốm mới thơm lừng cả góc bản.
->🌾 **Nghề truyền thống & thông tin kiểm chứng:** **Cốm Tú Lệ** được làm từ giống lúa **Nếp Tan Tú Lệ** hạt tròn to, khi bông lúa vừa uốn câu (đang độ chín sữa) thì gặt về tuốt hạt, đem rang đều tay trên chảo gang đun củi lửa nhỏ, chờ nguội bớt rồi cho vào **cối gỗ (hoặc cối đá) giã nhịp nhàng bằng chày gỗ** và sàng sảy sạch vỏ trấu. Hạt cốm thành phẩm dẹp mỏng, có màu xanh ngọc tự nhiên, dẻo mềm, thơm ngát vị sữa lúa non và được gói trong **lá dong rừng xanh mướt** để giữ độ ẩm mềm (Cổng thông tin điện tử tỉnh Yên Bái; Cục Du lịch Quốc gia Việt Nam). Từ tiếng Thái Tây Bắc trong thoại: **kin lăm** = ăn ngon lắm.
-> 🔗 **Nối cảnh:** vào từ sắc nắng vàng thung lũng cuối Clip 2 sang **nắng vàng chiếu vào chiếc cối gỗ đang giã những hạt Cốm Xanh Nếp Tan Tú Lệ xanh ngọc dưới hiên nhà sàn** (ngoài khung: chiếc Scrambler đã dựng ở sân nhà sàn, hai mũ 3/4 móc trên ghi-đông) · ra bằng **cận cảnh gói cốm xanh trên lá dong tươi bên làn khói thơm từ chõ gỗ đồ xôi** → Clip 4 mở bằng mâm Xôi Ngũ Sắc Nếp Tan Tú Lệ và Cá Suối Nướng Pa Pỉnh Tộp vừa dọn lên bàn gỗ nhà sàn.
+# YB-C03 — Tập 7: Yên Bái — Nấc Thang Lên Trời Mùa Vàng | Clip 3: Cánh Đồng Mường Lò — Điệu Xòe Thái Di Sản UNESCO
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt theo thời gian thực. Cấm voiceover, cấm tiếng người này khi máy quay người kia. Chỉ quay cận cối giã cốm, đôi tay sàng cốm và gói lá dong trong khoảng không có thoại (`00:00–00:01.0` và `00:08.5–00:10.0`).
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (Quy tắc 4 từ Tập 5):** `00:00–00:01.0` nối cảnh cận cối gỗ giã cốm xanh (không thoại) · `00:01.0–00:04.5` khóa cận mặt @Vy nói · `00:04.5–00:08.5` lia êm khóa cận mặt @Joi nói · `00:08.5–00:10.0` đệm minh họa không thoại: đôi tay người Thái xúc cốm xanh vào lá dong và hai người nhón thử hạt cốm mới.
-- **Người địa phương làm nghề:** TUYỆT ĐỐI chỉ quay phần đôi bàn tay khéo léo, vạt áo cóm truyền thống có hàng cúc bạc và chiếccối gỗ/mẹt tre của người phụ nữ Thái; không quay cận mặt người lạ, người địa phương không nói thoại.
-- **Mũ bảo hiểm (Quy tắc 9):** KHÔNG đội hay cầm mũ khi đứng xem làm cốm dưới hiên nhà sàn; chiếc Scrambler và hai mũ 3/4 móc trên ghi-đông đỗ gọn ở góc sân nhà sàn phía xa.
-- **Địa danh & tên riêng viết hoa:** Tú Lệ, Nếp Tan Tú Lệ, Yên Bái. Cụm từ tiếng Thái kin lăm viết thường.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa biển hiệu bán hàng hay cân điện tử có chữ/số vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Cánh đồng Mường Lò thuộc thị xã Nghĩa Lộ, tỉnh Yên Bái là cánh đồng lòng chảo lớn thứ hai vùng Tây Bắc ('Nhất Thanh, nhì Lò, tam Than, tứ Tấc'). Thị xã Nghĩa Lộ là cái nôi văn hóa của người Thái Đen với Nghệ thuật Xòe Thái đã được UNESCO ghi danh là Di sản văn hóa phi vật thể đại diện của nhân loại vào tháng 12/2021.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 11:00 trưa tại sân bản văn hóa người Thái bên cánh đồng Mường Lò (thị xã Nghĩa Lộ).
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Những chiếc khăn Piêu thêu hoa văn rực rỡ và nụ cười thân thiện trong nhịp điệu múa Xòe truyền thống bên ngôi nhà sàn người Thái.
+- **Nguồn đối chiếu thực tế**: Hồ sơ Di sản văn hóa phi vật thể UNESCO Nghệ thuật Xòe Thái, Cổng TTĐT thị xã Nghĩa Lộ (tỉnh Yên Bái).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Ánh nắng vàng chiếu xiên dưới hiên nhà sàn gỗ ở Tú Lệ vào chiếc cối gỗ mộc: đầu chày gỗ vừa nhấc lên để lộ lớp Cốm Xanh Nếp Tan Tú Lệ màu xanh ngọc bích tươi non và đôi bàn tay người phụ nữ Thái đang đảo cốm trên chiếc mẹt tre lót lá dong xanh. Máy nâng mượt từ mẹt cốm lên trung cận @Vy và @Joi đang đứng cạnh chăm chú xem.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Khoảng sân thoáng đãng bên ngôi nhà sàn truyền thống của người Thái (có hai đầu hồi mái trang trí Khau Cút hình sừng trâu/hoa sen) nhìn ra cánh đồng lúa Mường Lò rộng thẳng cánh cò bay tại thị xã Nghĩa Lộ, Yên Bái.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng ban trưa 11:00 tươi sáng rực rỡ trên cánh đồng Mường Lò, hắt ánh sáng ấm áp dưới hiên nhà sàn gỗ lên gương mặt @Vy và @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Lúa trên cánh đồng Mường Lò phía sau gợn sóng vàng xanh theo gió, dải khăn Piêu thổ cẩm đung đưa mềm mại. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng bên hiên nhà sàn người Thái tại Mường Lò; @Vy cầm nhẹ một chiếc khăn Piêu thêu hoa văn truyền thống thực hiện một động tác tay múa Xòe duyên dáng.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, mắt sáng rỡ khoe động tác múa Xòe vừa học được. @Vy nói trực tiếp: Về cánh đồng Mường Lò học điệu Xòe Thái di sản UNESCO, vui hết nấc luôn!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi thử bắt chước giơ hai tay múa Xòe theo @Vy với động tác hơi cứng ngắc đáng yêu rồi bật cười. @Joi đáp trực tiếp: Em múa thì mềm như lụa, còn anh múa nhìn giống đang tập thể dục buổi sáng quá!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười khanh khách nắm lấy tay @Joi hướng dẫn anh nhịp tay múa Xòe mềm mại hơn bên hiên nhà sàn Mường Lò. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng trống, tiếng chiêng và tiếng tính tẩu nhịp Xòe Thái rộn ràng vừa phải.
+- **Nhạc nền (Subtle Background Score)**: Nhạc điệu Xòe Thái truyền thống vui tươi, ấm tình đoàn kết (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Dưới hiên nhà sàn người Thái ở Tú Lệ:** cột nhà sàn bằng gỗ vững chãi, khoảng sân đất nện ngập nắng; một bên là bếp củi nhỏ đặt chảo gang vừa rang xong mẻ lúa nếp non còn ấm, chính giữa là chiếc cối gỗ cùng chày gỗ thủ công và chiếc mẹt tre lớn trải đầy hạt cốm xanh non bên những tàu lá dong rừng xanh mướt.
-- **Nghệ nhân làm cốm người Thái:** chỉ xuất hiện trong khung phần đôi bàn tay, ống tay áo cóm màu chàm/xanh và vạt váy đen truyền thống đang sàng và gói cốm; tuyệt đối không lộ mặt.
-- **Hậu cảnh xa:** chiếc Scrambler xám xi măng dựng ở góc sân, hai mũ 3/4 kem be và xanh rêu móc trên ghi-đông.
-- Không đưa vào khung: bao bì in chữ, bảng giá, mặt người lạ.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng bên hiên nhà sàn người Thái tại Mường Lò; @Vy cầm nhẹ một chiếc khăn Piêu thêu hoa văn truyền thống thực hiện một động tác tay múa Xòe duyên dáng. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng thấy rõ ngôi nhà sàn người Thái, cánh đồng Mường Lò phía sau và @Vy đang cầm khăn Piêu. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, mắt sáng rỡ khoe động tác múa Xòe vừa học được. | **@Vy**: Về cánh đồng Mường Lò học điệu Xòe Thái di sản UNESCO, vui hết nấc luôn! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi thử bắt chước giơ hai tay múa Xòe theo @Vy với động tác hơi cứng ngắc đáng yêu rồi bật cười. | **@Joi**: Em múa thì mềm như lụa, còn anh múa nhìn giống đang tập thể dục buổi sáng quá! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười khanh khách nắm lấy tay @Joi hướng dẫn anh nhịp tay múa Xòe mềm mại hơn bên hiên nhà sàn Mường Lò. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) khi @Vy chỉnh tay múa Xòe cho @Joi trong tiếng cười rộn rã, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NGHỀ TRUYỀN THỐNG — CẬN TỪNG CHI TIẾT]
-- **Hạt Cốm Xanh Nếp Tan Tú Lệ:** hạt lúa nếp non vừa chín sữa sau khi rang chảo gang và giã trong cối gỗ thì dẹp mỏng, mềm dẻo, có màu xanh ngọc tự nhiên của diệp lục lúa non (không phẩm màu), tỏa hương thơm thanh khiết.
-- **Cách gói truyền thống (đệm 00:08.5–00:10.0):** đôi bàn tay người Thái xúc từng vốc cốm xanh mới giã đặt vào giữa tàu lá dong rừng tươi xanh mướt để giữ cho hạt cốm luôn mềm dẻo.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt vòng cung nhẹ theo nhịp múa kết hợp lia ngang (Smooth Dance-Rhythm Arc & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng thấy rõ ngôi nhà sàn người Thái, cánh đồng Mường Lò phía sau và @Vy đang cầm khăn Piêu.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt duyên dáng của @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt hài hước của @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) khi @Vy chỉnh tay múa Xòe cho @Joi trong tiếng cười rộn rã, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, giữ rõ kiến trúc nhà sàn người Thái và sắc màu khăn Piêu.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất mở khóa nhẹ vì nắng thung lũng ấm áp, khăn len thổ cẩm đỏ cam quấn gọn, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; không đội mũ; ánh mắt thích thú ngắm mẹt cốm xanh.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu mở khóa, cargo be cát, boots da sáp nâu sẫm, balo 50L đặt gọn cạnh cột gỗ; đứng sát bên @Vy, xòe lòng bàn tay đón vài hạt cốm xanh mới giã.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung bên nhà sàn người Thái tại cánh đồng Mường Lò (Nghĩa Lộ), @Vy cầm khăn Piêu múa Xòe bên @Joi.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi nắm tay tập múa Xòe cười tươi rói.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | TỪ CỐI GỖ GIÃ CỐM XANH LÊN HAI NGƯỜI**
-- **Máy:** từ cận cảnh chiếc chày gỗ giã nhẹ vào lòng cối gỗ đầy hạt cốm xanh ngọc và chiếc mẹt tre, nâng mượt lên trung cận @Vy và @Joi.
-- **Hành động:** đôi tay người phụ nữ Thái vừa sàng nhẹ mẹt cốm xanh; @Vy và @Joi cúi nhẹ hít hà hương lúa sữa mới rang thơm ngát.
-- **Âm thanh:** tiếng chày gỗ chạm cối gỗ nhịp nhàng cụp cụp, tiếng hạt cốm rào rào trên mẹt tre. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa chặt cận mặt @Vy, ánh nắng vàng hiên nhà sàn chiếu sáng gương mặt rạng rỡ.
-- **Hành động:** @Vy chỉ nhẹ xuống chiếc chảo gang và cối gỗ giã cốm bên dưới rồi ngước nhìn ống kính, mỉm cười chia sẻ.
-- **Thoại @Vy** *(00:01.2–00:04.5; giọng nữ trong trẻo, ngọt ngào, giọng miền Nam — 14 âm tiết / 3,3 giây):*
-  > *Cốm xanh Nếp Tan Tú Lệ rang chảo gang, giã cối gỗ thơm lừng!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang khóa chặt cận mặt @Joi; miệng anh hoàn toàn không nhai khi nói.
-- **Hành động:** @Joi nâng nhẹ một tấm lá dong xanh đựng nhúm cốm non trên lòng bàn tay, nhìn @Vy cười hào hứng và nói thử câu tiếng Thái Tây Bắc vừa học.
-- **Thoại @Joi** *(00:04.8–00:08.3; giọng nam trầm ấm, vui vẻ; hai chữ kin lăm là tiếng Thái nghĩa là ăn ngon lắm — 13 âm tiết / 3,5 giây):*
-  > *Gói trong lá dong dẻo ngọt vị lúa sữa, kin lăm lắm em!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA KHÔNG THOẠI — GÓI LÁ DONG XANH & HƠI CHÕ XÔI**
-- **Thoại:** không.
-- **Hành động:** đôi bàn tay người phụ nữ Thái (không lộ mặt) khéo léo gấp tàu lá dong xanh bọc lấy phần cốm non; @Vy và @Joi nhón vài hạt cốm xanh thưởng thức, gật gù thích thú.
-- **Máy:** hạ xuống cận cảnh gói cốm trên tàu lá dong xanh mướt, rồi lia nhẹ sang làn hơi ấm thơm lừng bốc lên từ chiếc chõ gỗ đồ xôi ngay cầu thang nhà sàn để nối sang bữa trưa ở Clip 4.
-- **Âm thanh:** tiếng đàn tính tẩu Thái vui tươi hòa cùng tiếng lá dong xào xạc nhẹ.
-
----
-
-### [ÂM THANH & NHẠC]
-Indie folk Tây Bắc mộc mạc với tiếng đàn tính tẩu Thái gảy nhịp nhàng theo tiếng chày giã cốm. Âm thanh môi trường: tiếng chày gỗ giã cốm, tiếng sàng mẹt tre, tiếng lá dong.
-
-### [KHUNG CUỐI → CLIP 4]
-Tàu lá dong rừng xanh mướt gói cốm non đặt cạnh làn hơi trắng thơm phức bốc lên từ chõ gỗ đồ xôi trên nhà sàn. Giữ cố định 0,5 giây. Clip 4 mở từ làn hơi thơm trên mẹt lá dong bày Xôi Ngũ Sắc Nếp Tan Tú Lệ và Cá Suối Nướng Pa Pỉnh Tộp.
-
-### [LOẠI TRỪ]
-Lộ mặt người phụ nữ Thái hoặc người lạ cận cảnh, người địa phương nói thoại, máy xay xát công nghiệp, cốm nhuộm màu xanh hóa học lòe loẹt, đội mũ bảo hiểm hay cầm mũ khi xem làm cốm, vừa nhai vừa nói, bảng giá hay bao bì có chữ, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10.0, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không làm biến dạng bàn tay khi múa; chuyển động tay phải chậm rãi, mềm mại và tự nhiên.

@@ -1,88 +1,74 @@
-# TẬP 6 — LÀO CAI · CLIP 9/9: HOÀNG HÔN VÀNG RỰC TRÊN ĐÈO Ô QUY HỒ — HẸN MAI QUA MÙ CANG CHẢI [KẾT TẬP 6]
-**MÃ:** LC-C09 · **GIỜ TRONG PHIM:** 17:00, chiều thứ Năm 29/10/2026 (20/9 âm lịch), giờ vàng hoàng hôn · **ĐỊA ĐIỂM:** bãi dừng ngắm cảnh rộng rãi gần đỉnh Đèo Ô Quy Hồ (QL4D), nhìn ra biển mây chiều và dãy Hoàng Liên Sơn, Lào Cai · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm golden-hour mountain pass finale
-
-> ⏰ **Vì sao đi giờ này:** Đỉnh Đèo Ô Quy Hồ trên QL4D cách trung tâm Sa Pa khoảng 15 km; cuối tháng 10 mặt trời lặn khoảng 17:26. Có mặt ở điểm dừng ngắm cảnh trên đèo từ 16:45 đến 17:10 là khung giờ vàng đẹp nhất khi mặt trời hạ thấp nhuộm biển mây thành màu vàng cam rực rỡ. Ngay sau khi ngắm hoàng hôn lúc 17:10, hai người đội mũ 3/4, cài quai, gạt kính xuống và rời đỉnh đèo trước khi trời tối để về nghỉ đêm ở thị trấn chân đèo (tuyệt đối không chạy đèo ban đêm), sáng thứ Sáu 30/10 theo QL32 đi Mù Cang Chải (Tập 7).
-> 📍 **Check-in & thông tin kiểm chứng:** **Đèo Ô Quy Hồ** nằm trên quốc lộ 4D cắt ngang dãy Hoàng Liên Sơn nối Lào Cai và Lai Châu, dài gần 50 km với đỉnh đèo (Cổng Trời) ở độ cao gần 2.000m, là một trong tứ đại đỉnh đèo nổi tiếng nhất vùng Tây Bắc (Cục Du lịch Quốc gia Việt Nam; Báo Lào Cai).
-> 🔗 **Nối cảnh:** vào từ sắc cam vàng (khung cuối Clip 8 là ánh hồng cam của bếp than hòa nắng chiều; Clip 9 mở bằng ánh hoàng hôn vàng cam rực rỡ trải dài trên biển mây và cung đường Đèo Ô Quy Hồ). Ngoài khung, giữa hai clip: rời quán cơm lam, đội mũ cài quai chạy 15 km lên đỉnh đèo, dừng xe ở bãi đất rộng và móc mũ lên ghi-đông khi đứng ngắm cảnh · kết bằng **hai người đội mũ 3/4, cài quai, gạt kính xuống, Scrambler bật đèn pha lăn bánh rời bãi dừng trong ráng chiều** → nối sang Tập 7 (Mù Cang Chải), mở vào sáng hôm sau (30/10) trên cung đường QL32.
+# LC-C09 — Tập 6: Lào Cai — Nóc Nhà Đông Dương | Clip 9: Cung Đường Đèo Rời Lào Cai — Thẳng Tiến Yên Bái Mùa Vàng
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết; nắng hoàng hôn chiếu xiên từ bên cạnh làm sáng rõ gương mặt và đôi môi hai người, không bị ngược sáng tối đen. Cấm voiceover; không có tiếng @Vy khi máy quay @Joi và ngược lại; không có thoại khi máy chỉ quay cảnh đèo.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Thoại chỉ nằm trong 00:03.0–00:07.5;** 00:07.5–00:10.0 hoàn toàn không thoại (clip chuyển địa điểm & kết tập).
-- **Mũ bảo hiểm (logic đạo cụ vật lý 100%):** lúc 00:00 hai mũ 3/4 đang móc trên ghi-đông chiếc Scrambler dựng ở bãi dừng ngắm cảnh; trong 00:00–00:03.0 hai người đứng cạnh xe nhấc mũ khỏi ghi-đông, đội lên đầu và bấm khóa cài quai kêu tách rõ ràng (kính chắn trong suốt đẩy cao khi nói thoại 00:03.0–00:07.5); trong 00:07.5–00:10.0 cả hai gạt kính chắn xuống, bước lên xe nổ máy lăn bánh.
-- **An toàn đường đèo:** chiếc Scrambler đỗ ở bãi đất phẳng rộng rãi bên trong lan can hộ lan, cách xa mép đường đèo QL4D; khi xuất phát thì bật đèn pha và xi-nhan nhập làn an toàn lúc đường vắng, rời đèo khi trời vẫn còn sáng ráng chiều (không chạy đèo trong đêm tối).
-- **Địa danh viết hoa:** Đèo Ô Quy Hồ, Ô Quy Hồ, Hoàng Liên Sơn, Mù Cang Chải, Sa Pa, Lào Cai.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa cột mốc km, biển báo giao thông hay bảng tên đèo có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Từ tỉnh Lào Cai di chuyển sang tỉnh Yên Bái theo trục Quốc lộ 70 hoặc Quốc lộ 279 nối sang Quốc lộ 32 (hướng đi Văn Chấn – Nghĩa Lộ – Mù Cang Chải), đi qua những cung đường đèo núi nối liền hai tỉnh trung tâm vùng Tây Bắc.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm chiều mát 16:00 khi rời địa phận Lào Cai hướng sang tỉnh Yên Bái.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Ánh nắng chiều vàng ấm trải dài trên cung đường đèo mở lối sang xứ sở ruộng bậc thang Yên Bái.
+- **Nguồn đối chiếu thực tế**: Bản đồ giao thông đường bộ vùng Tây Bắc (Lào Cai – Yên Bái).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Ánh nắng hoàng hôn vàng cam rực rỡ tràn qua biển mây bồng bềnh giữa các sườn núi của Đèo Ô Quy Hồ, khớp sắc cam ấm ở khung cuối Clip 8. Máy lia mượt từ biển mây vàng cam sang khoảng bãi đất rộng ven đèo nơi chiếc Scrambler xám xi măng đang dựng chân chống, hai mũ 3/4 móc trên ghi-đông, @Vy và @Joi đứng sát bên xe.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm dừng chân trên cung đường đèo thoáng rộng rời tỉnh Lào Cai: mặt đường nhựa uốn lượn bên sườn núi xanh thẫm, phía trước là thung lũng mở rộng tràn ngập ánh nắng chiều vàng ấm hướng về tỉnh Yên Bái.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng chiều 16:00 vàng óng chiếu xiên tạo viền sáng đẹp mắt trên chiếc xe Scrambler đen-xanh rêu và gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Gió chiều vùng cao thổi nhẹ làm cỏ ven đèo và khăn rằn của @Vy bay khẽ. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi ngồi sẵn trên chiếc xe máy Scrambler đang dừng nổ máy êm bên lề đường đèo Lào Cai (cả hai đội mũ bảo hiểm 3/4 cài quai gọn gàng, kính chắn gió lật lên cao để lộ rõ mặt).
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy ngồi sau yên xe, đặt tay lên vai @Joi, mắt sáng rực nhìn về con đường phía trước. @Vy nói trực tiếp: Lào Cai hùng vĩ quá chừng, giờ mình qua Yên Bái ngắm mùa vàng Mù Cang Chải nghen!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi ngoái nhẹ đầu nhìn @Vy, cười tươi vỗ nhẹ lên ghi-đông xe. @Joi đáp trực tiếp: Qua Yên Bái vừa ngắm ruộng bậc thang vừa ăn xôi nếp Tú Lệ là chuẩn bài luôn!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy cười tươi ôm eo @Joi, cả hai gạt nhẹ kính mũ bảo hiểm xuống và @Joi nhả côn cho chiếc Scrambler lăn bánh êm ái tiến về hướng Yên Bái. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng động cơ Scrambler trầm ấm chuyển sang tiếng tăng ga nhẹ khi xe lăn bánh, tiếng gió đèo.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền guitar acoustic du lịch sôi động, tràn đầy hứng khởi (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Đèo Ô Quy Hồ lúc hoàng hôn (17:00):** phía xa là những dãy núi trùng điệp của Hoàng Liên Sơn nhuộm ánh tím hồng và biển mây chiều rực sắc vàng cam dưới mặt trời đang hạ thấp; cung đường đèo nhựa phẳng uốn lượn mềm mại phía dưới có hàng hộ lan kiên cố.
-- **Bãi dừng ngắm cảnh:** khoảng đất phẳng rộng rãi, an toàn, tách biệt khỏi làn xe chạy.
-- **Scrambler 400cc:** xám xi măng nhám, yên da nâu chần quả trám, cờ đỏ sao vàng mini sau đuôi xe bay trong gió chiều, hai túi da nâu hai bên hông.
-- **Hai mũ 3/4 vintage:** @Vy màu kem be viền da nâu, @Joi màu xanh rêu nhám viền da nâu, kính chắn trong suốt; móc trên ghi-đông lúc 00:00, được nhấc lên đội và cài quai trong 00:00–00:03.0.
-- **Balo 50L** của @Joi đeo sẵn trên lưng; túi mây tròn của @Vy đeo chéo.
-- Không đưa vào khung: biển báo, cột mốc có chữ hay số, xe tải cận cảnh.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi ngồi sẵn trên chiếc xe máy Scrambler đang dừng nổ máy êm bên lề đường đèo Lào Cai (cả hai đội mũ bảo hiểm 3/4 cài quai gọn gàng, kính chắn gió lật lên cao để lộ rõ mặt). | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung 3/4 phía trước thấy rõ @Joi và @Vy ngồi trên xe Scrambler bên lề đường đèo Lào Cai. |
+| **00:01.5 – 00:04.5** | @Vy ngồi sau yên xe, đặt tay lên vai @Joi, mắt sáng rực nhìn về con đường phía trước. | **@Vy**: Lào Cai hùng vĩ quá chừng, giờ mình qua Yên Bái ngắm mùa vàng Mù Cang Chải nghen! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi ngoái nhẹ đầu nhìn @Vy, cười tươi vỗ nhẹ lên ghi-đông xe. | **@Joi**: Qua Yên Bái vừa ngắm ruộng bậc thang vừa ăn xôi nếp Tú Lệ là chuẩn bài luôn! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy cười tươi ôm eo @Joi, cả hai gạt nhẹ kính mũ bảo hiểm xuống và @Joi nhả côn cho chiếc Scrambler lăn bánh êm ái tiến về hướng Yên Bái. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ và lia theo chiếc Scrambler khi xe bắt đầu lăn bánh mượt mà về phía trước, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [GÓC CHECK-IN — BỐ CỤC KHUNG HÌNH]
-- **Tiền cảnh:** chiếc Scrambler 400cc cổ điển bên bãi dừng.
-- **Trung cảnh:** @Vy và @Joi trong ánh nắng hoàng hôn viền vàng ấm áp.
-- **Hậu cảnh:** biển mây vàng cam rực rỡ phủ thung lũng và cung đường Đèo Ô Quy Hồ uốn lượn giữa đại ngàn Tây Bắc.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục góc bên hông chuyển sang lia theo xe lăn bánh (Smooth Mountain Pass Side-Profile to Roll-Off Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung 3/4 phía trước thấy rõ @Joi và @Vy ngồi trên xe Scrambler bên lề đường đèo Lào Cai.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ và lia theo chiếc Scrambler khi xe bắt đầu lăn bánh mượt mà về phía trước, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, hậu cảnh núi đồi Tây Bắc mờ nhẹ tạo chiều sâu điện ảnh.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất kéo khóa lên ngực vì gió chiều trên đỉnh đèo mát lạnh, khăn len thổ cẩm đỏ cam quấn quanh cổ, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; đội mũ kem be cài quai từ 00:02.0, kính đẩy cao khi nói; gương mặt ửng nắng chiều ngọt ngào.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm, balo 50L sau lưng; đội mũ xanh rêu cài quai từ 00:02.0, kính đẩy cao khi nói.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung @Joi và @Vy ngồi sẵn trên xe Scrambler bên lề đường đèo Lào Cai, mũ bảo hiểm lật kính.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Chiếc Scrambler chở @Joi và @Vy lăn bánh êm ái trong nắng chiều, nối trực tiếp sang Tập 7 Yên Bái.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:03.0 | TỪ BIỂN MÂY HOÀNG HÔN SANG XE — NHẤC MŨ, ĐỘI VÀ CÀI QUAI**
-- **Máy:** từ biển mây vàng cam lia êm sang trung cảnh hai người đứng cạnh chiếc Scrambler ở bãi dừng.
-- **Hành động:** @Vy và @Joi cùng nhấc hai chiếc mũ 3/4 khỏi ghi-đông xe, đội lên đầu, bấm khóa cài quai dưới cằm có tiếng tách rõ ràng; kính chắn trong suốt đang đẩy cao; @Joi bước lên yên lái, @Vy ngồi lên yên sau.
-- **Âm thanh:** gió đèo thổi êm, tiếng tách của khóa quai mũ, tiếng sáo trúc ngân nhẹ. Không thoại.
-
-**00:03.0–00:05.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy dưới mũ kem be, kính đẩy cao; nắng hoàng hôn xiên vàng ấm trên gò má, phía sau là biển mây cam hồng trên Đèo Ô Quy Hồ.
-- **Hành động:** @Vy chỉ tay ra biển mây nhuộm nắng chiều phía xa rồi nhìn ống kính cười rạng rỡ.
-- **Thoại @Vy** *(giọng nữ trong trẻo, say mê, giọng miền Nam — 11 âm tiết / 2,5 giây):*
-  > *Hoàng hôn trên Đèo Ô Quy Hồ nhuộm vàng biển mây kìa!*
-
-**00:05.5–00:07.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi dưới mũ xanh rêu, kính đẩy cao, nắng chiều ấm trên gương mặt.
-- **Hành động:** @Joi ngoái nhẹ nhìn @Vy đầy cưng chiều, tay phải đặt trên tay ga, mỉm cười hẹn điểm đến tiếp theo.
-- **Thoại @Joi** *(giọng nam trầm ấm, ngọt ngào, hào hứng — 8 âm tiết / 2 giây):*
-  > *Mai mình qua Mù Cang Chải nha em!*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — GẠT KÍNH, BẬT ĐÈN PHA RỜI ĐÈO TRƯỚC KHI TỐI [KẾT TẬP 6]**
-- **Thoại:** không.
-- **Hành động:** cả hai gạt kính chắn trong suốt xuống có tiếng click khẽ; @Vy vòng tay ôm eo @Joi, tựa nhẹ má vào vai anh; @Joi bật đèn pha vàng ấm, đề nổ máy, nhìn gương rồi cho chiếc Scrambler lăn bánh êm ái rời bãi dừng nhập vào cung đường Đèo Ô Quy Hồ lúc ráng chiều vẫn còn sáng để về nghỉ đêm dưới chân đèo. Cờ đỏ sao vàng mini tung bay sau đuôi xe.
-- **Máy:** nâng nhẹ lên cao theo đuôi chiếc Scrambler đang lướt đi bên biển mây vàng cam và những dãy núi tím biếc của đại ngàn Tây Bắc.
-- **Âm thanh:** tiếng pô xe Scrambler 400cc trầm ấm hòa cùng tiếng sáo trúc và guitar acoustic ngân dài khép lại Tập 6.
-
----
-
-### [ÂM THANH & NHẠC]
-Cinematic acoustic folk lắng đọng và ngọt ngào, tiếng sáo trúc Tây Bắc ngân dài trên nền guitar ấm áp lúc hoàng hôn. Âm thanh môi trường: gió đèo, tiếng cài quai mũ, tiếng pô xe Scrambler trầm ấm.
-
-### [KHUNG CUỐI — THUMBNAIL KẾT TẬP 6]
-Chiếc Scrambler chở hai người đội mũ 3/4 (kính đã gạt xuống) bật đèn pha vàng ấm lăn bánh trên cung đường Đèo Ô Quy Hồ bên cạnh biển mây nhuộm cam hồng và dãy Hoàng Liên Sơn tím biếc lúc ráng chiều. Giữ cố định 0,5 giây. Ngoài khung: về nghỉ đêm ở thị trấn chân đèo trước khi trời tối; Tập 7 mở vào sáng thứ Sáu 30/10/2026 trên cung đường QL32 hướng đi Đèo Khau Phạ – Mù Cang Chải (Yên Bái).
-
-### [LOẠI TRỪ]
-Mũ tự xuất hiện trên đầu mà không có động tác nhấc từ ghi-đông, xe chạy mà không đội mũ hoặc không cài quai, xe lăn bánh khi kính còn đẩy cao, mũ fullface che miệng, trời đã tối đen (không chạy đèo ban đêm), mặt hai người bị ngược sáng tối đen, dừng xe giữa lòng đường đèo, biển báo hay cột mốc có chữ, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:03.0 hoặc trong 00:07.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhồi nhét cảnh tháo/đội mũ và leo lên xe trong 2 giây cuối.

@@ -1,86 +1,74 @@
-# KỊCH BẢN PHÂN CẢNH ĐẠO DIỄN — TẬP 2 / CLIP 5
-**DỰ ÁN:** SERIES TIKTOK 365 NGÀY VIỆT NAM  
-**PHÂN ĐOẠN:** TẬP 2 — CAO BẰNG: NON NƯỚC BIÊN CƯƠNG & PHỞ VỊT QUAY BẢY VỊ  
-**MÃ PHÂN CẢNH:** CB-C05 (BÁNH ÁP CHAO GIÒN RỤM — VEN ĐƯỜNG PÁC BÓ)  
-**THỜI LƯỢNG:** ĐÚNG 10 GIÂY (SINGLE CONTINUOUS SHOT)  
-**QUY CÁCH HÌNH ẢNH:** KHUNG HÌNH DỌC 9:16 | 24 FPS | CINEMATIC 35MM STREET FOOD VLOG  
+# CB-C05 — Tập 2: Cao Bằng — Xứ Sở Thần Tiên | Clip 5: Khu Di Tích Pác Bó — Suối Lê-nin & Núi Các-Mác
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [BỘ QUY TẮC ĐẠO DIỄN BẮT BUỘC — DIRECTORIAL LAWS]
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
 
-1. **BÁM SÁT TUYỆT ĐỐI GIỮA GIỌNG NÓI VÀ NHÂN VẬT (CHARACTER-VOICE LOCK & REAL-TIME LIP SYNC):**
-   - Camera bắt buộc khóa chặt cận cảnh gương mặt người đang nói. Khi @Joi nói → cam khóa mặt @Joi đang cắn bánh tấm tắc; khi @Vy nói → cam lia êm khóa mặt @Vy đang chấm mắm gật gù. Tuyệt đối KHÔNG để tiếng người này nhưng cam quay người khác hoặc quay chảo bánh.
-   - Khẩu hình khớp 100% từng âm tiết (real-time phoneme-to-viseme match).
-   - Âm sắc đồng bộ 100%: @Joi giọng nam trầm ấm hào sảng; @Vy giọng nữ trong trẻo ngọt ngào.
-   - Tuyệt đối cấm: voiceover, desync, mấp máy môi không tiếng, có tiếng mà miệng đứng yên.
-
-2. **VIẾT HOA CHUẨN XÁC TẤT CẢ ĐỊA DANH:** "Pác Bó", "Cao Bằng", "Đèo Mã Phục".
-
-3. **KHOẢNG ĐỆM KHÔNG THOẠI CUỐI CLIP (00:07.5–00:10):** Thoại dứt điểm ở giây `00:07.5`. 2.5 giây cuối tuyệt đối KHÔNG THOẠI, dành cho hành động lấy mũ từ ghi-đông, đội, cài quai, nổ máy.
-
-4. **LOGIC ĐẠO CỤ VẬT LÝ — KHÔNG TỰ BIẾN MẤT HAY XUẤT HIỆN:**
-   - Đầu clip (00:00): Nối từ Clip 4 — xe Scrambler đậu cạnh quầy bán hàng, 02 mũ bảo hiểm **đang móc sẵn trên ghi-đông**.
-   - Cuối clip (00:07.5–00:10): Nhấc mũ từ ghi-đông → nâng chụp lên đầu → cài chốt khóa quai (tiếng "tách") → nổ máy xe.
-
-5. **KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG THẺ TÊN NHÂN VẬT.**
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Khu di tích Quốc gia đặc biệt Pác Bó nằm tại bản Pác Bó, xã Trường Hà, huyện Hà Quảng, tỉnh Cao Bằng (cách TP. Cao Bằng khoảng 52 km về phía Bắc, sát biên giới Việt – Trung). Nơi đây có dòng Suối Lê-nin nước trong vắt màu xanh ngọc bích chảy dưới chân Núi Các-Mác (vách đá vôi phủ cây rừng và rêu xanh), nơi Chủ tịch Hồ Chí Minh từng làm việc năm 1941.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 16:15 chiều nắng nhẹ xuyên qua tán cây rừng Pác Bó xuống dòng suối xanh ngọc.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Nước Suối Lê-nin trong vắt thấy rõ từng viên sỏi trắng và đàn cá suối bơi lội nhẹ nhàng dưới ánh nắng chiều dịu mát.
+- **Nguồn đối chiếu thực tế**: Khu di tích Quốc gia đặc biệt Pác Bó (Cổng TTĐT tỉnh Cao Bằng).
 
 ---
 
-### [THIẾT LẬP BỐI CẢNH & ĐẠO CỤ — SCENE SETUP & PROPS CONTINUITY]
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
 
-- **ĐỊA ĐIỂM:** Quầy bán bánh áp chao ven đường gần khu di tích Pác Bó (tỉnh Cao Bằng). Gánh hàng rong treo biển gỗ mộc mạc dưới tán cây, chảo dầu sôi sùng sục chiên bánh vàng giòn thơm lừng, bên cạnh là bát nước mắm tỏi ớt chua ngọt.
-- **VỊ TRÍ XE & ĐẠO CỤ (00:00):**
-  - Scrambler 400cc dựng chân chống nghiêng sát lề đường ngay cạnh quầy bánh.
-  - **02 MŨ BẢO HIỂM 3/4 VINTAGE** đang **móc sẵn trên ghi-đông xe** (tiếp nối từ Clip 4): mũ kem be @Vy bên trái, mũ xanh rêu @Joi bên phải.
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
 
----
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
 
-### [KHÓA NHÂN VẬT — CHARACTER LOCK]
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Bờ đá cuội tự nhiên bên dòng Suối Lê-nin tại Khu di tích Pác Bó (xã Trường Hà, Hà Quảng): dòng suối rộng vừa phải với làn nước màu xanh ngọc bích (turquoise/jade) trong vắt thấy đáy sỏi, phía bên kia bờ suối là vách Núi Các-Mác đá vôi phủ rêu xanh và tán cây rừng cổ thụ.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng chiều 16:15 xuyên qua tán lá rừng tạo những đốm nắng lung linh (dappled sunlight) trên mặt nước xanh ngọc của Suối Lê-nin và hắt ánh sáng phản chiếu dịu mát lên gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Dòng nước Suối Lê-nin chảy hiền hòa gợn sóng nhẹ, đàn cá nhỏ bơi dưới làn nước trong vắt, lá cây rừng Pác Bó rung rinh trong gió chiều. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
 
-- **@Vy:** Đứng bên quầy bánh, áo len cổ lọ be ngà, áo khoác gió hồng đất, tay cầm chiếc bánh áp chao vàng giòn vừa chiên xong nóng hổi, nụ cười háo hức.
-- **@Joi:** Đứng sát cạnh @Vy, áo khoác canvas rêu, tay cầm chiếc bánh áp chao to cắn dở để lộ nhân thịt bên trong, ánh mắt sáng rực sảng khoái.
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng trên phiến đá phẳng ven bờ Suối Lê-nin dưới chân Núi Các-Mác; @Vy hơi cúi người nhìn xuống làn nước xanh ngọc bích trong vắt rồi đứng thẳng dậy mỉm cười.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, tay chỉ xuống mặt nước Suối Lê-nin xanh biếc, giọng miền Nam trầm trồ đầy cảm xúc. @Vy nói trực tiếp: Suối Lê-nin xanh ngọc trong vắt tới đáy luôn, đứng đây thấy bình yên lạ thường!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi mỉm cười ấm áp, ánh mắt trân trọng nhìn quanh khung cảnh Núi Các-Mác rồi quay sang nói với @Vy. @Joi đáp trực tiếp: Non xa xa, nước xa xa, cảnh Pác Bó ngoài đời còn đẹp hơn trong thơ nữa!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy mỉm cười gật đầu đồng tình, cả hai cùng đứng sát bên nhau ngắm nhìn dòng Suối Lê-nin xanh ngọc hiền hòa chảy dưới chân Núi Các-Mác. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
 
----
-
-### [KỊCH BẢN ĐẠO DIỄN HÀNH ĐỘNG TỪNG GIÂY — 10 GIÂY LIÊN TỤC]
-
-**00:00–00:03.0 | TIẾP NỐI HÀNH ĐỘNG MATCH-CUT TỪ CLIP 4 (EXT. QUẦY BÁNH ÁP CHAO — MEDIUM CLOSE-UP)**
-- **Máy quay:** Medium Close-up ngang tầm quầy bánh, lấy trọn @Vy và @Joi đứng sát nhau bên chảo dầu sôi, phía sau **thấy rõ Scrambler và 02 mũ bảo hiểm 3/4 móc trên ghi-đông**.
-- **Hành động:** @Vy hí hửng cầm chiếc bánh áp chao vừa chiên xong nóng hổi bốc khói, thổi phù phù; @Joi cắn một miếng to để lộ nhân thịt bên trong vàng ươm.
-- **Âm thanh (Foley):** Tiếng dầu sôi sùng sục chiên bánh, tiếng bánh giòn "rốp" khi cắn, tiếng thổi phù phù.
-
-**00:03.0–00:05.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @JOI (CLOSE-UP SPEAKER LOCK)**
-- **Máy quay:** Zoom nhẹ KHÓA CHẶT cận cảnh gương mặt sảng khoái @Joi.
-- **Hành động:** @Joi nhai miếng bánh giòn tan, gật đầu lia lịa, mắt sáng rực sung sướng. Khuôn miệng cử động khớp chính xác từng âm tiết trầm ấm hào sảng.
-- **Thoại @Joi** *(giọng nam trầm ấm, vừa nhai vừa xuýt xoa, khớp 100% khẩu hình):*
-  > *"Áp chao giòn tan thơm lừng, đã dã man em ơi!"*
-
-**00:05.5–00:07.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @VY (CLOSE-UP SPEAKER LOCK)**
-- **Máy quay:** Lia êm ái KHÓA CHẶT cận cảnh gương mặt @Vy.
-- **Hành động:** @Vy chấm bánh vào bát nước mắm tỏi ớt chua ngọt, cắn một miếng vừa nhai vừa gật gù tít mắt. Bờ môi cử động khớp 100% từng âm tiết.
-- **Thoại @Vy** *(giọng nữ trong trẻo, cười tít mắt, khớp 100% khẩu hình):*
-  > *"Chấm mắm tỏi ớt chua ngọt, ghiền luôn á!"*
-
-**00:07.5–00:10.0 | ĐỆM HÀNH ĐỘNG VẬT LÝ — ĐỘI MŨ, CÀI QUAI, NỔ MÁY (SILENT BUFFER & PROP BLOCKING)**
-- **Âm thanh lời thoại:** TUYỆT ĐỐI IM LẶNG — 100% KHÔNG CÓ THOẠI.
-- **Máy quay:** Lùi nhẹ bao quát hai nhân vật bước về phía Scrambler.
-- **Hành động vật lý logic:**
-  - `00:07.5`: Dứt tiếng nói, cả hai nở nụ cười mãn nguyện lau tay.
-  - @Vy bước nửa bước về phía xe, vươn tay **nhấc** mũ kem be từ ghi-đông bên trái; @Joi **nhấc** mũ xanh rêu từ bên phải.
-  - Cả hai nâng mũ chụp lên đầu, ngón tay luồn dưới cằm **cài chốt khóa quai** — tiếng "tách" đanh gọn. Kính chắn gió trong suốt gạt mở nhẹ.
-  - @Joi bước chân qua yên xe, ngồi vững gạt chân chống. @Vy bước lên gác chân yên sau ôm nhẹ eo @Joi. @Joi đạp cần nổ máy, Scrambler gầm giòn "pặp... pặp".
-- **Âm thanh (Foley):** Tiếng gỡ móc mũ, tiếng "tách" 2 chốt quai, tiếng gạt chân chống "keng", tiếng động cơ 400cc nổ giòn, giai điệu đàn Tính nhịp nhàng.
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng nước suối chảy róc rách êm dịu, tiếng chim rừng hót líu lo trong khu rừng Pác Bó tĩnh lặng.
+- **Nhạc nền (Subtle Background Score)**: Giai điệu đàn Tính và sáo trúc sâu lắng, trang trọng mà trữ tình (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [KHUNG HÌNH CUỐI & MATCH-CUT CHUYỂN TIẾP SANG CLIP 6]
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
 
-- **Khung hình cuối (00:09.5–00:10):** Scrambler chở @Vy và @Joi (cả hai đội mũ 3/4 cài quai, kính trong suốt) bắt đầu lăn bánh rời quầy bánh áp chao, hướng mũi xe về phía cung đèo. **Giữ cố định 0.5s cuối.**
-- **Nối cảnh Clip 6:** Tiếp nối Scrambler vừa dừng trên đỉnh Đèo Mã Phục ngắm hoàng hôn.
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng trên phiến đá phẳng ven bờ Suối Lê-nin dưới chân Núi Các-Mác; @Vy hơi cúi người nhìn xuống làn nước xanh ngọc bích trong vắt rồi đứng thẳng dậy mỉm cười. | *(Không thoại — âm thanh môi trường sống động)* | Camera bắt đầu ở góc thấp thấy rõ mặt nước xanh ngọc bích trong vắt của Suối Lê-nin, sau đó nâng mượt lên khung hình trung của @Vy và @Joi dưới chân Núi Các-Mác. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, tay chỉ xuống mặt nước Suối Lê-nin xanh biếc, giọng miền Nam trầm trồ đầy cảm xúc. | **@Vy**: Suối Lê-nin xanh ngọc trong vắt tới đáy luôn, đứng đây thấy bình yên lạ thường! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi mỉm cười ấm áp, ánh mắt trân trọng nhìn quanh khung cảnh Núi Các-Mác rồi quay sang nói với @Vy. | **@Joi**: Non xa xa, nước xa xa, cảnh Pác Bó ngoài đời còn đẹp hơn trong thơ nữa! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy mỉm cười gật đầu đồng tình, cả hai cùng đứng sát bên nhau ngắm nhìn dòng Suối Lê-nin xanh ngọc hiền hòa chảy dưới chân Núi Các-Mác. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) thanh bình bên bờ Suối Lê-nin và giảm tốc dừng tự nhiên (natural camera settle) ở 09.5s–10.0s. |
 
 ---
 
-### [LOẠI TRỪ — NEGATIVE PROMPT]
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-Mũ tự xuất hiện trên đầu không có hành động lấy từ ghi-đông, mũ che kín mặt (fullface), lái xe không đội mũ, tiếng nói không khớp khẩu hình, lệch hình và tiếng (voiceover/desync), tiếng @Joi nhưng cam quay @Vy, tiếng @Vy nhưng cam quay @Joi, camera quay chảo bánh khi có thoại, mấp máy môi không tiếng, có tiếng nhưng môi đứng yên, lời thoại ở 2.5 giây cuối (00:07.5–00:10), đọc sai địa danh, không viết hoa địa danh, thông tin nhân vật hiển thị, thẻ tên, profile card, phụ đề, chữ viết, watermark.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục nâng nhẹ từ mặt suối lên ngang tầm mắt kết hợp lia ngang (Smooth Pedestal-Up from Emerald Stream & Gentle Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera bắt đầu ở góc thấp thấy rõ mặt nước xanh ngọc bích trong vắt của Suối Lê-nin, sau đó nâng mượt lên khung hình trung của @Vy và @Joi dưới chân Núi Các-Mác.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s) với hậu cảnh dòng suối xanh ngọc.
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) thanh bình bên bờ Suối Lê-nin và giảm tốc dừng tự nhiên (natural camera settle) ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8 kèm kính lọc phân cực (CPL effect) giúp mặt nước Suối Lê-nin hiển thị rõ màu xanh ngọc trong suốt và không bị chói gắt.
+
+---
+
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
+
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung bên bờ Suối Lê-nin màu xanh ngọc bích trong vắt dưới chân Núi Các-Mác, @Vy và @Joi đứng trên phiến đá ven bờ.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi đứng bình yên bên dòng Suối Lê-nin xanh ngọc tại Pác Bó.
+
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ xe máy chạy vào sát bờ suối Lê-nin (khu vực di tích chỉ đi bộ); không nhồi nhét cảnh đội mũ bảo hiểm nổ máy xe ở đây.

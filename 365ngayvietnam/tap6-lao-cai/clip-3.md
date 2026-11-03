@@ -1,87 +1,74 @@
-# TẬP 6 — LÀO CAI · CLIP 3/9: DINH HOÀNG A TƯỞNG — KIẾN TRÚC Á ÂU TRĂM NĂM & TÊN GỐC PẠC KHA
-**MÃ:** LC-C03 · **GIỜ TRONG PHIM:** 13:15, chiều thứ Tư 28/10/2026, nắng vàng cao nguyên · **ĐỊA ĐIỂM:** sân trong và hành lang vòm tầng hai Dinh Hoàng A Tưởng, thị trấn Bắc Hà, Lào Cai · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm heritage architecture, warm golden plaster and arches
-
-> ⏰ **Vì sao đi giờ này:** Dinh Hoàng A Tưởng nằm ngay trung tâm thị trấn Bắc Hà, cách các quán phở chua vài trăm mét, mở cửa từ 08:00 đến 17:00 hằng ngày. Sau bữa trưa và nghỉ ngơi ngắn, ghé thăm dinh lúc 13:15 khi nắng đầu giờ chiều chiếu xiên làm nổi bật màu tường vàng rêu phong và các vòm cửa đối xứng; thăm xong rời Bắc Hà lúc 14:00 để kịp chạy khoảng 100 km lên Sa Pa trước khi mặt trời lặn (17:26).
-> 📍 **Check-in & thông tin kiểm chứng:** Dinh thự được khởi công năm 1914 và hoàn thành năm 1921 (kéo dài 7 năm), do các kiến trúc sư người Pháp và Trung Quốc thiết kế theo lối kiến trúc Á – Âu kết hợp: mái ngói âm dương phương Đông đi cùng hàng cột trụ, lan can và cửa vòm phong cách Pháp, bố cục khép kín 36 phòng (Báo Tin Tức TTXVN; Cổng du lịch Lào Cai). Tên gọi **Bắc Hà** bắt nguồn từ tiếng Tày **Pạc Kha**, nghĩa là "trăm bó gianh", đọc trại qua âm Pháp Pakha thành Bắc Hà (Báo Lào Cai). Vé người lớn 20.000 đ nhưng không đưa vào thoại.
-> 🔗 **Nối cảnh:** vào từ sắc vàng (khung cuối Clip 2 là hiên quán ngập nắng vàng; Clip 3 mở bằng mảng tường vôi vàng cổ kính và hàng cột vòm của Dinh Hoàng A Tưởng dưới nắng). Ngoài khung: xe và hai mũ bảo hiểm gửi ở bãi đỗ trước cổng dinh · ra bằng **máy hướng qua khung cửa vòm tầng hai nhìn ra bầu trời** → Clip 4 mở bằng vòm tháp chuông đá Gothic của Nhà Thờ Đá Sa Pa trong sương chiều.
+# LC-C03 — Tập 6: Lào Cai — Nóc Nhà Đông Dương | Clip 3: Bản Cát Cát & Thác Tiên Sa — Thung Lũng Người Mông
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover; không có tiếng @Vy khi máy quay @Joi và ngược lại; không có thoại khi máy chỉ quay kiến trúc.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (quy tắc 4 từ Tập 5):** 00:00–00:01.0 nối cảnh không thoại · 00:01.0–00:04.5 @Vy nói · 00:04.5–00:08.5 @Joi nói · 00:08.5–00:10.0 đệm minh họa không thoại: hai người nắm tay đi dọc hành lang vòm cổ kính.
-- **Mũ bảo hiểm:** KHÔNG đội hay cầm tay khi tham quan trong dinh; xe và hai mũ đã gửi ở bãi đỗ ngoài cổng (ngoài khung).
-- **Phép tắc di tích:** đi nhẹ, nói vừa đủ nghe, không trèo hay ngồi lên lan can cổ, không chạm vào các phù điêu đắp nổi.
-- **Địa danh viết hoa:** Dinh Hoàng A Tưởng, Bắc Hà, Pạc Kha, Lào Cai.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa biển thuyết minh, bảng nội quy, vé tham quan có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Bản Cát Cát nằm tại xã San Sả Hồ (nay thuộc phường Hoàng Liên), thị xã Sa Pa, cách trung tâm thị xã khoảng 2 km dưới chân dãy Hoàng Liên Sơn. Bản làng cổ của người Mông nằm bên dòng suối Mường Hoa và Thác Tiên Sa (Thác Cát Cát), nổi bật với những guồng nước bằng tre khổng lồ, cầu tre Si và những ngôi nhà gỗ Pơ-mu truyền thống.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 10:30 sáng bên dòng thác Tiên Sa và guồng nước tre tại Bản Cát Cát.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Guồng nước tre khổng lồ quay chậm rãi bên dòng thác Tiên Sa trắng xóa và những khóm hoa ven suối Mường Hoa.
+- **Nguồn đối chiếu thực tế**: Khu du lịch Bản Cát Cát (Cổng TTĐT thị xã Sa Pa, tỉnh Lào Cai).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Ánh nắng vàng rực chiếu lên bức tường vôi vàng rêu phong và dãy cửa vòm cong của Dinh Hoàng A Tưởng, khớp sắc vàng ở khung cuối Clip 2. Máy lia nhẹ dọc hàng cột vòm tầng hai tới chỗ @Vy và @Joi đang đứng bên lan can nhìn xuống sân trong.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Nhịp cầu gỗ/đá ven suối tại Bản Cát Cát (Sa Pa): phía sau là dòng Thác Tiên Sa đổ bọt trắng xóa, hai chiếc guồng nước bằng tre lớn đang quay đều và những mái nhà gỗ truyền thống của người Mông xếp tầng trên sườn đồi.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng sáng 10:30 rực rỡ chiếu xuống thung lũng Cát Cát, làm sáng bừng dòng thác trắng, màu vàng tự nhiên của guồng nước tre và gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Guồng nước bằng tre quay chậm đều theo sức nước suối chảy, dòng thác Tiên Sa tung bọt trắng xóa, vạt khăn rằn của @Vy đung đưa nhẹ. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng trên lối cầu gỗ ngắm cảnh trước Thác Tiên Sa và guồng nước tre lớn tại Bản Cát Cát; @Vy thích thú nhìn theo vòng quay đều đặn của chiếc cọn nước tre.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, tay chỉ vào chiếc guồng nước tre lớn bên dòng thác Tiên Sa. @Vy nói trực tiếp: Bản Cát Cát có thác Tiên Sa với cọn nước tre quay đều nhìn thơ mộng ghê!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi thở nhẹ một nhịp sau khi đi bộ dốc bản Cát Cát rồi cười hóm hỉnh với @Vy. @Joi đáp trực tiếp: Lúc đi xuống bản thì thơ mộng lắm, lát leo dốc ngược lên mới biết thế nào là lễ hội!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười lớn vỗ vai động viên @Joi, cả hai cùng đứng sát bên nhau ngắm dòng thác Tiên Sa và guồng nước tre giữa bản Cát Cát. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng nước thác chảy rào rạt kết hợp tiếng guồng tre kẽo kẹt nhẹ theo nhịp nước.
+- **Nhạc nền (Subtle Background Score)**: Tiếng sáo Mông và đàn môi vui tươi, rộn ràng sắc màu Tây Bắc (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Dinh Hoàng A Tưởng:** công trình kiến trúc cổ hai tầng màu vàng nghệ pha vết rêu thời gian; hành lang tầng hai rộng rãi với hàng cột trụ tròn, những khung cửa vòm cong kiểu Pháp đắp nổi hoa văn dây lá nho và nguyệt quế tinh xảo, phía trên là mái lợp ngói âm dương xám đen; nhìn xuống dưới là khoảng sân gạch vuông vức đối xứng.
-- **Ánh sáng:** nắng chiều vùng cao chiếu xiên qua các ô cửa vòm, tạo những vệt nắng và bóng đổ hình vòm đẹp mắt trên nền gạch hành lang.
-- **Đạo cụ:** @Vy đeo túi mây tròn; @Joi đeo balo 50L sau lưng; không ai cầm mũ bảo hiểm.
-- Không đưa vào khung: bảng thuyết minh có chữ, du khách khác cận mặt.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng trên lối cầu gỗ ngắm cảnh trước Thác Tiên Sa và guồng nước tre lớn tại Bản Cát Cát; @Vy thích thú nhìn theo vòng quay đều đặn của chiếc cọn nước tre. | *(Không thoại — âm thanh môi trường sống động)* | Camera trượt ngang thấy rõ guồng nước tre đang quay bên Thác Tiên Sa và hai nhân vật đứng trên cầu gỗ Bản Cát Cát. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, tay chỉ vào chiếc guồng nước tre lớn bên dòng thác Tiên Sa. | **@Vy**: Bản Cát Cát có thác Tiên Sa với cọn nước tre quay đều nhìn thơ mộng ghê! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi thở nhẹ một nhịp sau khi đi bộ dốc bản Cát Cát rồi cười hóm hỉnh với @Vy. | **@Joi**: Lúc đi xuống bản thì thơ mộng lắm, lát leo dốc ngược lên mới biết thế nào là lễ hội! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười lớn vỗ vai động viên @Joi, cả hai cùng đứng sát bên nhau ngắm dòng thác Tiên Sa và guồng nước tre giữa bản Cát Cát. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) trước guồng nước và Thác Tiên Sa, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [GÓC CHECK-IN — BỐ CỤC KHUNG HÌNH]
-- **Tiền cảnh:** một khung cửa vòm vàng có hoa văn đắp nổi tạo khung tự nhiên (framing).
-- **Trung cảnh:** @Vy và @Joi đứng cạnh hàng lan can con tiện màu vàng cổ kính.
-- **Hậu cảnh:** dãy hành lang vòm sâu hun hút và mái ngói âm dương dưới nền trời xanh vùng cao Bắc Hà.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt ngang dọc cầu gỗ kết hợp lia cận cảnh (Smooth Waterwheel Bridge Dolly & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera trượt ngang thấy rõ guồng nước tre đang quay bên Thác Tiên Sa và hai nhân vật đứng trên cầu gỗ Bản Cát Cát.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) trước guồng nước và Thác Tiên Sa, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/3.2, giữ chuyển động quay mượt mà của guồng nước tre ở hậu cảnh.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất mở khóa nhẹ, khăn len thổ cẩm đỏ cam quấn gọn, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; tóc uốn sóng buông mềm trên vai, ánh mắt trầm trồ ngắm kiến trúc cổ.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm, balo 50L đeo sau lưng; đứng cạnh @Vy, tay chỉ nhẹ lên vòm cửa cổ kính.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng tại Bản Cát Cát (Sa Pa), @Vy và @Joi đứng trước Thác Tiên Sa và guồng nước tre đang quay.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi cười rạng rỡ bên thác Tiên Sa và cọn nước Bản Cát Cát.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | TỪ MẢNG TƯỜNG VÀNG TỚI HÀNH LANG VÒM**
-- **Máy:** từ mảng tường vàng nắng chiếu, lia mượt qua khung cửa vòm tới trung cận @Vy và @Joi bên lan can tầng hai.
-- **Hành động:** @Vy khẽ đặt tay lên lan can ngắm nhìn khoảng sân đối xứng bên dưới rồi quay sang ống kính.
-- **Âm thanh:** tiếng bước chân êm trên sàn gạch cổ, tiếng gió nhẹ qua mái ngói âm dương. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, phía sau là dãy hành lang cửa vòm màu vàng nghệ ngập nắng chiều.
-- **Hành động:** @Vy hướng ánh mắt lên hoa văn vòm cửa kiểu Pháp rồi nhìn thẳng ống kính, mỉm cười chia sẻ.
-- **Thoại @Vy** *(giọng nữ trong trẻo, truyền cảm, giọng miền Nam — 14 âm tiết / 3,5 giây):*
-  > *Dinh Hoàng A Tưởng xây từ năm một chín mười bốn đó anh!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi bên khung cửa vòm.
-- **Hành động:** @Joi nhìn @Vy trìu mến rồi nhìn ống kính, bàn tay mở nhẹ như đang kể lại một tích xưa thú vị của vùng đất này.
-- **Thoại @Joi** *(giọng nam trầm ấm, hào hứng kể chuyện — 13 âm tiết / 4 giây):*
-  > *Bắc Hà xưa gọi là Pạc Kha, nghĩa là trăm bó gianh đó!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA — NẮM TAY DẠO HÀNH LANG, NGƯỚC LÊN VÒM CỬA**
-- **Thoại:** không.
-- **Hành động:** @Joi nắm tay @Vy, hai người thong thả bước dọc hành lang ngập nắng qua những bóng đổ hình vòm nối tiếp nhau.
-- **Máy:** theo bước hai người rồi nâng nhẹ hướng qua đỉnh khung cửa vòm cong nhìn ra khoảng trời chiều vùng cao.
-- **Âm thanh:** tiếng sáo trúc hòa cùng tiếng guitar acoustic trầm ấm, tiếng gió chiều.
-
----
-
-### [ÂM THANH & NHẠC]
-Cinematic folk pha guitar acoustic mộc mạc và tiếng sáo trúc ngân nhẹ mang âm hưởng hoài cổ. Âm thanh môi trường: tiếng bước chân nhẹ trên hành lang gạch, tiếng gió cao nguyên.
-
-### [KHUNG CUỐI → CLIP 4]
-Khung cửa vòm cong màu vàng cổ kính của Dinh Hoàng A Tưởng mở ra nền trời chiều. Giữ cố định 0,5 giây. Clip 4 mở bằng khung vòm đá Gothic của Nhà Thờ Đá Sa Pa ẩn hiện trong làn sương chiều.
-
-### [LOẠI TRỪ]
-Đội mũ bảo hiểm hoặc cầm mũ bảo hiểm trong dinh thự, xe máy chạy vào sân dinh, tường sơn màu trắng hay đỏ thay vì màu vàng cổ kính, ngồi hoặc trèo lên lan can, biển thuyết minh hay bảng chỉ dẫn có chữ, khách du lịch khác cận mặt, trời mưa, trời tối, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
-
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không làm biến dạng các nan tre của guồng nước; guồng nước phải quay tròn đều đặn theo một chiều vật lý.

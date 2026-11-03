@@ -1,87 +1,74 @@
-# TẬP 6 — LÀO CAI · CLIP 7/9: BẢN CÁT CÁT — ĐÔI TAY NGƯỜI MÔNG DÙNG BÚT ĐỒNG VẼ SÁP ONG TRÊN VẢI LANH
-**MÃ:** LC-C07 · **GIỜ TRONG PHIM:** 11:00, sáng muộn thứ Năm 29/10/2026, nắng ấm áp · **ĐỊA ĐIỂM:** hiên nhà gỗ truyền thống của một hộ làm nghề thổ cẩm ở Bản Cát Cát, Sa Pa, Lào Cai · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm artisan heritage craft, warm sunlight and beeswax texture
-
-> ⏰ **Vì sao đi giờ này:** Sau khi xuống cáp treo Fansipan lúc 10:15, hai người lấy xe ở bãi đỗ Ga Hoàng Liên, đội mũ cài quai chạy khoảng 2 km xuống Bản Cát Cát, gửi xe ở cổng bản rồi đi bộ vào bản lúc 11:00. Khoảng gần trưa nắng ấm giúp sáp ong giữ độ lỏng ổn định và ánh sáng tự nhiên ngoài hiên nhà gỗ rất rõ để quan sát từng nét vẽ thủ công.
-> 🧵 **Nghề truyền thống (nhịp mới giữa tập):** **nghệ thuật vẽ sáp ong trên vải lanh của người Mông** ở Lào Cai — Di sản văn hóa phi vật thể quốc gia (Báo Văn Hóa; TTXVN). Vải lanh tự dệt được cán phẳng mịn; sáp ong tự nhiên đun chảy trong bát đồng đặt trên bếp than nhỏ. Người phụ nữ Mông dùng **bút vẽ có ngòi bằng đồng hình tam giác gắn vào cán tre**, chấm sáp ong nóng rồi **vẽ tay trực tiếp các họa tiết xoắn ốc, hình học lên vải lanh mà hoàn toàn không dùng thước hay bút chì phác thảo trước**. Sau khi vẽ xong, vải được đem nhuộm chàm nhiều lần rồi nhúng vào nồi nước sôi để lớp sáp ong tan chảy, hiện ra những đường hoa văn trắng tinh xảo trên nền vải chàm xanh đen.
-> 🔗 **Nối cảnh:** vào từ đường xoắn ốc (khung cuối Clip 6 là dải mây trắng cuộn thành vòng xoắn ốc bên phiến đá; Clip 7 mở bằng cận cảnh đường hoa văn xoắn ốc bằng sáp ong vừa được ngòi bút đồng kéo mượt trên tấm vải lanh trắng) · ra bằng **máy đẩy nhẹ vào làn khói mỏng bốc lên từ bát sáp ong nóng trên bếp than nhỏ** → Clip 8 mở bằng làn khói thơm bốc lên từ hàng ống cơm lam tre trên bếp than hồng.
+# LC-C07 — Tập 6: Lào Cai — Nóc Nhà Đông Dương | Clip 7: Dinh Hoàng A Tưởng — Vua Mèo Vùng Cao Nguyên Trắng Bắc Hà
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover; không có tiếng @Vy khi máy quay @Joi và ngược lại. Chỉ quay cận đôi tay nghệ nhân và ngòi bút đồng trong khoảng không có thoại (00:00–00:01.0 và 00:08.5–00:10.0).
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (quy tắc 4 từ Tập 5):** 00:00–00:01.0 nối cảnh không thoại · 00:01.0–00:04.5 @Vy nói · 00:04.5–00:08.5 @Joi nói · 00:08.5–00:10.0 đệm minh họa không thoại: ngòi bút đồng chấm sáp ong nóng và kéo đường hoa văn xoắn ốc trên vải lanh.
-- **Người địa phương làm nghề:** TUYỆT ĐỐI chỉ thấy đôi bàn tay khéo léo, ống tay áo chàm thêu thổ cẩm và vạt váy lanh của người phụ nữ Mông; không quay thấy mặt người lạ, người địa phương không nói thoại.
-- **Mũ bảo hiểm:** KHÔNG đội hay cầm tay trong bản đi bộ; xe Scrambler và hai mũ đã gửi tại bãi đỗ đầu bản (ngoài khung).
-- **Địa danh viết hoa:** Bản Cát Cát, Cát Cát, Sa Pa, Lào Cai.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa biển hiệu cửa hàng lưu niệm hay bảng giá có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Dinh thự Hoàng A Tưởng (Dinh Vua Mèo Bắc Hà) nằm tại trung tâm thị trấn Bắc Hà, huyện Bắc Hà, tỉnh Lào Cai (cách TP. Lào Cai khoảng 65 km về phía Đông Bắc). Dinh thự được xây dựng từ năm 1914 đến 1921 bởi kiến trúc sư Pháp và Trung Quốc trên diện tích 4.000m², nổi bật với kiến trúc kết hợp Á – Âu đối xứng bề thế và màu sơn vàng kem ấm áp giữa 'Cao nguyên trắng' Bắc Hà.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 08:30 sáng ngày kế tiếp tại sân chính Dinh thự Hoàng A Tưởng (Bắc Hà).
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Nắng mai vùng cao nguyên Bắc Hà chiếu sáng mặt tiền màu vàng cổ kính cùng cầu thang vòm đôi đối xứng của Dinh Hoàng A Tưởng.
+- **Nguồn đối chiếu thực tế**: Di tích kiến trúc nghệ thuật cấp Quốc gia Dinh thự Hoàng A Tưởng (Cổng TTĐT huyện Bắc Hà, tỉnh Lào Cai).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Cận cảnh một đường hoa văn xoắn ốc tròn đều bằng sáp ong vàng nâu đang khô dần trên mặt tấm vải lanh trắng mộc, khớp hình dáng vòng mây xoắn ốc ở khung cuối Clip 6. Máy nâng mượt từ tấm vải lanh lên trung cận @Vy và @Joi đang ngồi trên ghế gỗ thấp bên cạnh chăm chú quan sát.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Khoảng sân lát gạch rộng lớn phía trước tòa nhà chính bên trong Dinh thự Hoàng A Tưởng (thị trấn Bắc Hà, Lào Cai): tòa dinh thự hai tầng sơn màu vàng kem cổ kính với hai cầu thang đá uốn cong đối xứng dẫn lên hành lang vòm kiểu Pháp kết hợp họa tiết phương Đông.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng sáng 08:30 trong trẻo làm bừng sáng sắc vàng đặc trưng của Dinh Hoàng A Tưởng và tạo ánh sáng phản chiếu ấm áp lên gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Lá cây cảnh cổ thụ trong sân dinh thự đung đưa nhẹ theo gió sớm cao nguyên Bắc Hà. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi bước chậm giữa sân gạch rộng phía trước cầu thang đôi đối xứng của Dinh thự Hoàng A Tưởng; cả hai dừng lại ngước nhìn kiến trúc Á – Âu độc đáo.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, tay chỉ về phía hai dãy cầu thang vòm màu vàng cổ kính phía sau. @Vy nói trực tiếp: Qua tới Bắc Hà thăm Dinh Hoàng A Tưởng, kiến trúc Á Âu màu vàng nổi bật ghê!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi nhìn chiếc áo khoác vàng mù tạt của @Vy rồi nhìn bức tường vàng của dinh thự, bật cười trêu cô. @Joi đáp trực tiếp: Em mặc áo khoác vàng vô đây là tiệp màu với dinh thự trăm tuổi luôn đó!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười xoay nhẹ một vòng khoe chiếc áo khoác vàng, @Joi giơ máy ảnh Fujifilm lên bấm máy chụp ngay khoảnh khắc tươi tắn của cô trước Dinh Hoàng A Tưởng. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng bước chân nhẹ trên sân gạch cổ, tiếng màn trập máy ảnh, tiếng chim hót buổi sáng.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền guitar cổ điển pha chút nhịp điệu du lịch tươi vui (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Hiên nhà gỗ truyền thống ở Bản Cát Cát:** hiên nhà gỗ pơ-mu mộc mạc ngập nắng trưa dịu; phía sau vách gỗ treo vài tấm vải thổ cẩm chàm xanh đen đã hoàn thiện với hoa văn xoắn ốc màu trắng sắc nét; xa xa ngoài hiên là bóng núi và tiếng suối Mường Hoa chảy róc rách.
-- **Bàn vẽ sáp ong:** một tấm phản gỗ phẳng trải tấm vải lanh trắng ngà dệt thủ công; bên cạnh là một bếp đất nhỏ giữ lửa than hồng êm, phía trên đặt chiếc bát đồng nhỏ đựng sáp ong vàng mật đang nóng chảy bốc làn khói mỏng thơm mùi sáp; cây **bút vẽ cán tre có ngòi bằng lá đồng hình tam giác**.
-- **Nghệ nhân người Mông:** chỉ xuất hiện trong khung hình phần đôi bàn tay rám nắng đeo vòng bạc đơn giản, ống tay áo chàm và vạt váy thổ cẩm; tuyệt đối không thấy mặt.
-- **Đạo cụ nhân vật:** @Vy đeo túi mây tròn chéo vai; @Joi đeo balo 50L hoặc đặt gọn cạnh chân ghế; không có mũ bảo hiểm.
-- Không đưa vào khung: bảng hiệu, nhãn mác hàng hóa có chữ, mặt người lạ.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi bước chậm giữa sân gạch rộng phía trước cầu thang đôi đối xứng của Dinh thự Hoàng A Tưởng; cả hai dừng lại ngước nhìn kiến trúc Á – Âu độc đáo. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng chính diện lấy trọn sự đối xứng của cầu thang đôi Dinh Hoàng A Tưởng và hai nhân vật giữa sân. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, tay chỉ về phía hai dãy cầu thang vòm màu vàng cổ kính phía sau. | **@Vy**: Qua tới Bắc Hà thăm Dinh Hoàng A Tưởng, kiến trúc Á Âu màu vàng nổi bật ghê! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi nhìn chiếc áo khoác vàng mù tạt của @Vy rồi nhìn bức tường vàng của dinh thự, bật cười trêu cô. | **@Joi**: Em mặc áo khoác vàng vô đây là tiệp màu với dinh thự trăm tuổi luôn đó! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười xoay nhẹ một vòng khoe chiếc áo khoác vàng, @Joi giơ máy ảnh Fujifilm lên bấm máy chụp ngay khoảnh khắc tươi tắn của cô trước Dinh Hoàng A Tưởng. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) khi @Joi chụp ảnh cho @Vy trước mặt tiền Dinh Hoàng A Tưởng, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NGHỀ TRUYỀN THỐNG — CẬN TỪNG CHI TIẾT]
-- **Bút vẽ sáp ong:** cán bằng trúc nhỏ vừa tay cầm, đầu gắn ngòi bằng hai lá đồng mỏng kẹp lại tạo khe giữ sáp nóng chảy.
-- **Kỹ thuật vẽ tay không phác thảo:** mặt vải lanh trắng hoàn toàn trơn, không hề có nét chì kẻ trước; khi ngòi đồng chạm vào vải và kéo đi, dòng sáp ong nóng chảy ra đều đặn, thấm vào sợi lanh tạo thành đường xoắn ốc và đường kỷ hà thẳng tắp, khi nguội chuyển màu nâu sẫm.
-- **Tấm vải thành phẩm treo phía sau:** nền chàm xanh đen thẫm, những chỗ từng phủ sáp ong sau khi luộc nước sôi đã bong hết sáp, để lộ hoa văn trắng ngà nổi bật.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục đẩy tiến đối xứng kết hợp lia ngang (Smooth Symmetrical Courtyard Dolly & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng chính diện lấy trọn sự đối xứng của cầu thang đôi Dinh Hoàng A Tưởng và hai nhân vật giữa sân.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) khi @Joi chụp ảnh cho @Vy trước mặt tiền Dinh Hoàng A Tưởng, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/3.2, giữ rõ kiến trúc vòm và cầu thang đôi đặc trưng của Dinh Hoàng A Tưởng ở hậu cảnh.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất mở khóa nhẹ vì nắng gần trưa đã ấm, khăn len thổ cẩm đỏ cam quấn hờ, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; ngồi ghế đẩu gỗ bên trái bàn vẽ, ánh mắt ngưỡng mộ.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu mở khóa, cargo be cát, boots da sáp nâu sẫm; ngồi cạnh @Vy bên phải, chăm chú nhìn từng đường bút đồng rồi nhìn tấm vải chàm phía sau.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng giữa sân Dinh thự Hoàng A Tưởng màu vàng cổ kính tại Bắc Hà, @Vy và @Joi đứng trước cầu thang đôi.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Joi chụp ảnh @Vy cười rạng rỡ trước Dinh Hoàng A Tưởng.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | TỪ ĐƯỜNG VẼ SÁP ONG XOẮN ỐC LÊN HAI NGƯỜI**
-- **Máy:** từ cận cảnh đường hoa văn xoắn ốc bằng sáp ong trên tấm vải lanh trắng, nâng mượt lên trung cận @Vy và @Joi bên hiên nhà gỗ.
-- **Hành động:** đôi tay người phụ nữ Mông vừa nhấc nhẹ đầu bút đồng lên; @Vy và @Joi nghiêng người ngắm nhìn đầy thích thú.
-- **Âm thanh:** tiếng suối chảy róc rách từ xa, tiếng than hồng nổ lách tách rất khẽ. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, hậu cảnh mờ là những tấm thổ cẩm chàm hoa văn trắng treo trên vách gỗ ngập nắng.
-- **Hành động:** @Vy chỉ nhẹ xuống cây bút đồng trên tấm vải lanh rồi ngước nhìn ống kính, mắt sáng hào hứng kể lại.
-- **Thoại @Vy** *(giọng nữ trong trẻo, truyền cảm, trân trọng nghề cổ, giọng miền Nam — 14 âm tiết / 3,5 giây):*
-  > *Ở Bản Cát Cát, người Mông dùng bút đồng vẽ sáp ong lên vải lanh!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi.
-- **Hành động:** @Joi chỉ nhẹ từ tấm vải lanh trắng đang vẽ sang tấm vải nhuộm chàm xanh đen đã hiện hoa văn trắng treo phía sau, gật đầu thán phục.
-- **Thoại @Joi** *(giọng nam trầm ấm, trầm trồ thán phục — 13 âm tiết / 4 giây):*
-  > *Vẽ tay không cần phác thảo, nhuộm chàm xong luộc sôi là hiện hoa!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA — CHẤM SÁP ONG NÓNG & KÉO NÉT XOẮN ỐC**
-- **Thoại:** không.
-- **Hành động:** đôi bàn tay người phụ nữ Mông (không thấy mặt) đưa ngòi bút đồng chấm vào bát sáp ong vàng óng đang nóng chảy trên bếp than nhỏ, rồi đặt lên mặt vải lanh trắng kéo một đường xoắn ốc liền mạch đều tăm tắp.
-- **Máy:** hạ xuống cận cảnh ngòi bút đồng kéo nét trên vải, rồi đẩy nhẹ vào làn khói mỏng bốc lên từ bát sáp ong trên bếp than hồng.
-- **Âm thanh:** tiếng sáo Mèo êm dịu kết hợp guitar acoustic mộc mạc, tiếng suối chảy xa.
-
----
-
-### [ÂM THANH & NHẠC]
-Indie folk mộc mạc với tiếng đàn môi và sáo trúc nhẹ nhàng, tôn vinh nhịp điệu thủ công tỉ mỉ. Âm thanh môi trường: suối chảy róc rách, tiếng than ấm.
-
-### [KHUNG CUỐI → CLIP 8]
-Làn khói mỏng bốc lên từ chiếc bát đồng đựng sáp ong đặt trên bếp than hồng đỏ ấm. Giữ cố định 0,5 giây. Clip 8 mở bằng làn khói thơm bốc lên từ hàng ống cơm lam tre xanh và xiên thịt nướng trên bếp than hồng.
-
-### [LOẠI TRỪ]
-Lộ mặt người phụ nữ Mông hoặc mặt người lạ, người địa phương nói thoại, dùng bút lông hay cọ sơn thay vì bút ngòi đồng, vải có kẻ chì sẵn, máy may công nghiệp, đội mũ bảo hiểm hay cầm mũ trong bản, biển hiệu hay bảng giá có chữ, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhầm với Dinh Vua Mèo Hà Giang bằng đá xám; Dinh Hoàng A Tưởng Bắc Hà có tường sơn vàng kem và cầu thang đôi vòm kiểu Pháp-Hoa.

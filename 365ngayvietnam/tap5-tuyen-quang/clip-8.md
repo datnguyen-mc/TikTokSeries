@@ -1,94 +1,74 @@
-# TẬP 5 — TUYÊN QUANG · CLIP 8/9: BỮA TRƯA NHÀ SÀN BẢN NÀ TÔNG — CÁ BỖNG SÔNG GÂM NƯỚNG CUỐN BÁNH ĐA
-**MÃ:** TQ-C08 · **GIỜ TRONG PHIM:** khoảng 12:30, thứ Ba 27/10/2026, nắng trưa · **ĐỊA ĐIỂM:** sàn gỗ một nhà sàn Tày ở Bản Nà Tông, xã Thượng Lâm, Tuyên Quang (trước thuộc huyện Lâm Bình), cách bến thủy Thượng Lâm khoảng 1,3 km theo tọa độ OpenStreetMap · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm stilt-house lunch, soft window light
-
-> ⏰ **Vì sao đi giờ này:** thuyền về bến thủy Thượng Lâm khoảng 12:05; chạy xe khoảng 1,3 km vào bản ăn trưa đúng giờ nắng gắt nhất (dự báo cao nhất 31,1 °C), nghỉ trưa trên nhà sàn, chiều mới ra lại hồ. Cổng thông tin điện tử Tuyên Quang có nêu một homestay ở Bản Nà Tông; trong phim không đưa tên hay biển hiệu.
-> 🍲 **Món:** theo Cổng thông tin điện tử tỉnh Tuyên Quang (Độc đáo ẩm thực vùng cao ở Lâm Bình, 13/02/2023): **cá bỗng Sông Gâm nướng**, cá sống tự nhiên trên Sông Gâm, thịt chắc và ngọt, chấm mắm ớt hoặc **cuốn bánh đa với rau sống**; rau rừng như **rau bò khai**, **trứng tráng rau hôi**; mâm cỗ Tày có **xôi ngũ sắc**. Thức ăn bày trên **lá chuối đặt trên mẹt tre**, chỉ món canh mới dùng bát. Cá bỗng là sản vật gắn với vùng hồ thủy điện Tuyên Quang, thịt rất chắc (Báo Lào Cai). Mâm cỗ Tày có rượu men lá nhưng hai người còn chạy xe nên chỉ uống trà.
-> 🔗 **Nối cảnh:** vào từ màu xanh (khung cuối Clip 7 là bóng cột đá trên mặt nước xanh; Clip 8 mở từ tấm lá chuối xanh trên mẹt). Ngoài khung, giữa hai clip: thuyền về bến, cởi áo phao trả người lái thuyền, nhấc mũ từ ghi-đông, đội, cài quai, chạy vào bản; dựng xe dưới gầm sàn, nhả quai, tháo mũ, móc trên ghi-đông; tháo boots để ở chân cầu thang · ra bằng **máy nâng từ mâm lên khung cửa sổ sáng nắng** → Clip 9 mở bằng nắng chiều vàng trên mặt hồ.
+# TQ-C08 — Tập 5: Tuyên Quang — Miền Đất Lịch Sử & Cổ Tích Na Hang | Clip 8: Đêm Hội Thành Tuyên — Lung Linh Đèn Trung Thu Khổng Lồ
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover; không có tiếng @Vy khi máy quay @Joi và ngược lại. Chỉ quay cận món ăn trong khoảng không có thoại; không vừa nhai vừa nói.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (quy tắc 4 từ Tập 5):** 00:00–00:01.0 nối cảnh không thoại · 00:01.0–00:04.5 @Vy nói · 00:04.5–00:08.5 @Joi nói · 00:08.5–00:10.0 đệm minh họa không thoại: cách cuốn cá với bánh đa, chấm mắm ớt.
-- **Ngồi kiểu nhà sàn:** hai người ngồi xếp bằng trên chiếu mây trải sàn gỗ, mẹt đặt giữa; đi tất, boots để ở chân cầu thang (ngoài khung).
-- **Mũ bảo hiểm:** KHÔNG có trên sàn nhà; hai mũ móc trên ghi-đông chiếc Scrambler dưới gầm sàn (ngoài khung).
-- **Không rượu:** chỉ có trà nóng; không có chai, can hay chén rượu trên mâm.
-- **Chủ nhà:** nếu có thì chỉ thấy đôi tay đặt thêm đĩa, không thấy mặt, không nói.
-- **Địa danh viết hoa:** Bản Nà Tông, Nà Tông, Thượng Lâm, Sông Gâm, Lâm Bình, Tuyên Quang. Từ tiếng Tày nà viết thường trong lời giải nghĩa.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa biển homestay, bảng giá, nhãn có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Lễ hội Thành Tuyên tại TP. Tuyên Quang là lễ hội văn hóa đặc sắc được sách Kỷ lục Guinness Việt Nam chứng nhận có nhiều mô hình đèn Trung thu độc đáo, lớn nhất Việt Nam. Các mô hình đèn lồng khổng lồ mô phỏng rồng phượng, cá chép hóa rồng, danh lam thắng cảnh lịch sử rực rỡ ánh sáng tại Quảng trường Nguyễn Tất Thành (TP. Tuyên Quang).
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 19:30 tối tại không gian trưng bày mô hình đèn lồng nghệ thuật TP. Tuyên Quang.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Những chiếc đèn lồng nghệ thuật hình cá chép và ngôi sao rực rỡ sắc màu vàng-đỏ-cam tỏa sáng lung linh trong đêm phố núi Tuyên Quang.
+- **Nguồn đối chiếu thực tế**: Lễ hội Thành Tuyên — Di sản văn hóa đặc sắc tỉnh Tuyên Quang (Cổng TTĐT tỉnh Tuyên Quang).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Cận một tấm lá chuối xanh tươi lót trên mẹt tre tròn, gân lá rõ, khớp màu xanh của mặt nước ở khung cuối Clip 7. Máy nâng dần lên khỏi mẹt, lộ ra cả mâm cơm và @Vy, @Joi ngồi xếp bằng hai bên trên sàn gỗ nhà sàn.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Không gian quảng trường văn hóa buổi tối tại TP. Tuyên Quang: phía sau @Vy và @Joi là những mô hình đèn lồng truyền thống cỡ lớn hình cá chép vượt vũ môn và đèn ông sao rực rỡ ánh sáng vàng-đỏ nghệ thuật.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng đêm rực rỡ thực tế (Festive Practical Night Lighting) từ các mô hình đèn lồng chiếu ánh sáng vàng ấm và cam hồng mềm mại lên gương mặt @Vy, @Joi, tạo hiệu ứng bokeh ánh sáng lung linh ở hậu cảnh. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Những tua rua đèn lồng đung đưa nhẹ trong gió đêm, ánh sáng đèn lồng phản chiếu lấp lánh trong mắt hai nhân vật. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đi bộ chậm rãi bên cạnh những mô hình đèn lồng rực rỡ của TP. Tuyên Quang vào buổi tối; @Vy dừng lại ngước nhìn chiếc đèn cá chép khổng lồ phát sáng lung linh.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, đôi mắt lấp lánh ánh đèn lồng, cười rạng rỡ như trẻ thơ. @Vy nói trực tiếp: Đèn lồng Thành Tuyên khổng lồ rực rỡ quá chừng, nhìn là thấy tuổi thơ ùa về!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi nhìn @Vy cười dịu dàng, giơ máy ảnh Fujifilm lên vừa chỉnh nét vừa trêu cô. @Joi đáp trực tiếp: Đèn Thành Tuyên sáng rực cả quảng trường, mà vẫn hổng sáng bằng nụ cười của em!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười tít mắt tạo dáng chữ V đáng yêu trước ống kính máy ảnh của @Joi giữa không gian đèn lồng lung linh của Tuyên Quang. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Không khí đêm phố núi vui tươi, tiếng bước chân êm trên quảng trường, tiếng màn trập máy ảnh.
+- **Nhạc nền (Subtle Background Score)**: Giai điệu acoustic ấm áp pha âm hưởng lễ hội truyền thống (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Nhà sàn Tày:** sàn gỗ bóng màu mật ong, vách gỗ, mái ngói; khung cửa sổ gỗ mở rộng, nắng trưa hắt vào thành vệt sáng trên sàn. Ngoài cửa sổ: ruộng bậc thấp đã gặt và đồi xanh của Bản Nà Tông, xa xa núi đá.
-- **Chiếu mây** trải giữa sàn, mẹt tre tròn đặt trên chiếu.
-- **Hai chén trà nóng** và ấm trà đặt cạnh mẹt.
-- **Ở góc sàn, nét mờ:** balo 50L của @Joi tựa vào vách; túi mây của @Vy đặt cạnh cô.
-- Không đưa vào khung: biển homestay, bảng giá, chai rượu, nhãn có chữ.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đi bộ chậm rãi bên cạnh những mô hình đèn lồng rực rỡ của TP. Tuyên Quang vào buổi tối; @Vy dừng lại ngước nhìn chiếc đèn cá chép khổng lồ phát sáng lung linh. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng thấy rõ mô hình đèn lồng cá chép nghệ thuật rực sáng phía sau @Vy và @Joi. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, đôi mắt lấp lánh ánh đèn lồng, cười rạng rỡ như trẻ thơ. | **@Vy**: Đèn lồng Thành Tuyên khổng lồ rực rỡ quá chừng, nhìn là thấy tuổi thơ ùa về! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi nhìn @Vy cười dịu dàng, giơ máy ảnh Fujifilm lên vừa chỉnh nét vừa trêu cô. | **@Joi**: Đèn Thành Tuyên sáng rực cả quảng trường, mà vẫn hổng sáng bằng nụ cười của em! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười tít mắt tạo dáng chữ V đáng yêu trước ống kính máy ảnh của @Joi giữa không gian đèn lồng lung linh của Tuyên Quang. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) ấm áp giữa đêm hội đèn lồng Tuyên Quang và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [MÓN ĐẶC SẢN — CẬN TỪNG CHI TIẾT]
-- **Mẹt tre lót lá chuối:** mọi món bày thẳng trên lá chuối xanh, không bát đĩa (trừ bát mắm ớt).
-- **Cá bỗng Sông Gâm nướng:** một con cá cỡ vừa nướng nguyên con trên than, thân khứa chéo, da vàng nâu, xém than vài chỗ, rắc lá chanh thái chỉ; thịt trắng, chắc, tách thành thớ khi gỡ; còn khói mỏng.
-- **Bánh đa và rau sống:** chồng bánh đa mỏng trắng tròn; rổ nhỏ rau sống xanh: rau thơm, xà lách, lá non.
-- **Bát mắm ớt:** mắm ớt đỏ tươi, lấm tấm hạt ớt.
-- **Rau bò khai:** một khoanh rau bò khai xào, ngọn non xanh đậm, bóng dầu, điểm tỏi phi vàng.
-- **Trứng tráng rau hôi:** một miếng trứng tráng vàng óng lấm tấm lá rau hôi xanh.
-- **Xôi ngũ sắc:** năm màu đỏ, vàng, tím, xanh, trắng, nén thành năm múi kề nhau trên lá chuối, hạt nếp bóng.
-- **Cách ăn (đệm 00:08.5–00:10):** trải một lá bánh đa, đặt rau sống, gỡ một miếng cá trắng đặt lên, cuộn chặt, chấm mắm ớt rồi ăn.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt vòng cung trong ánh đèn đêm kết hợp lia cận cảnh (Smooth Night Lantern Arc & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng thấy rõ mô hình đèn lồng cá chép nghệ thuật rực sáng phía sau @Vy và @Joi.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy lung linh dưới ánh đèn (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) ấm áp giữa đêm hội đèn lồng Tuyên Quang và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 50mm f/1.8 khẩu lớn, tạo những vòng tròn bokeh ánh sáng đèn lồng mềm mại tuyệt đẹp ở hậu cảnh.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất mở khóa, khăn len thổ cẩm đỏ cam quấn hờ, jeans xanh nhạt, đi tất, boots da lộn nâu cà phê để ở chân cầu thang; túi mây tròn đặt cạnh; ngồi xếp bằng bên trái mẹt, nắng cửa sổ hắt lên má.
-- **@Joi:** henley xám waffle xắn tay áo, áo khoác canvas xanh rêu mở khóa, cargo be cát, đi tất, boots da sáp nâu sẫm để ở chân cầu thang; ngồi xếp bằng bên phải mẹt; balo 50L tựa vách.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng buổi tối bên mô hình đèn lồng Thành Tuyên rực rỡ, @Vy và @Joi đứng ngắm đèn.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Joi chụp ảnh cho @Vy cười tươi dưới ánh đèn lồng Thành Tuyên.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | TỪ LÁ CHUỐI LÊN MÂM CƠM**
-- **Máy:** từ cận lá chuối xanh trên mẹt, nâng lên lướt qua con cá nướng, xôi ngũ sắc, bát mắm ớt, tới trung cận hai người.
-- **Hành động:** @Vy dùng đũa gỡ một miếng thịt cá trắng khỏi thân cá nướng; @Joi vừa ăn xong một miếng rau bò khai, đặt đũa xuống.
-- **Âm thanh:** gà trong bản, lá tre xào xạc ngoài cửa sổ, đũa chạm mẹt. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, khung cửa sổ sáng nắng mờ phía sau.
-- **Hành động:** @Vy nâng miếng cá trắng trên đũa lên trước ống kính, tay kia cầm một lá bánh đa.
-- **Thoại @Vy** *(giọng nữ ngọt ngào, hào hứng như mách cách ăn, giọng miền Nam — 13 âm tiết / 3,5 giây):*
-  > *Cá bỗng Sông Gâm nướng, cuốn bánh đa với rau sống nè anh!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi; anh đã nuốt xong, không còn nhai.
-- **Hành động:** @Joi hất đầu về phía khung cửa sổ, nơi có ruộng của bản, rồi gắp một gắp rau bò khai giơ lên, giơ ngón cái.
-- **Thoại @Joi** *(giọng nam trầm ấm, sung sướng; chữ nà và hai chữ cuối đây chin là tiếng Tày, phát âm hơi lơ lớ — 12 âm tiết / 4 giây):*
-  > *Nà là ruộng đó em, thêm rau bò khai nữa, đây chin!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA — CUỐN CÁ, CHẤM MẮM ỚT**
-- **Thoại:** không.
-- **Hành động:** đôi tay @Vy trải lá bánh đa, đặt rau sống, đặt miếng cá trắng lên, cuộn chặt, chấm ngập đầu cuốn vào bát mắm ớt đỏ, rồi đưa tới miệng @Joi; anh cắn một miếng, cười híp mắt.
-- **Máy:** cận đôi tay cuốn và chấm, theo cuốn cá lên tới @Joi, rồi nâng lên khung cửa sổ sáng nắng trưa.
-- **Âm thanh:** bánh đa sột soạt, lo-fi acoustic ấm với đàn Tính.
-
----
-
-### [ÂM THANH & NHẠC]
-Lo-fi acoustic ấm áp, đàn Tính điểm vài nốt vui. Âm thanh môi trường: gà trong bản, gió qua lá tre, đũa chạm mẹt, bánh đa sột soạt.
-
-### [KHUNG CUỐI → CLIP 9]
-Khung cửa sổ gỗ nhà sàn tràn nắng trưa, ngoài kia ruộng và đồi xanh của Bản Nà Tông mờ trong ánh sáng. Giữ cố định 0,5 giây. Clip 9 mở bằng nắng chiều vàng trên mặt hồ.
-
-### [LOẠI TRỪ]
-Bát đĩa sứ thay cho lá chuối, cá kẹp nẹp tre, cá rán, lẩu, rượu, chai, can hay chén rượu, đội mũ hay mang mũ lên sàn nhà, đi boots trên sàn nhà sàn, ngồi ghế bàn cao, mặt chủ nhà, chủ nhà nói, biển homestay, bảng giá, nhãn có chữ, vừa nhai vừa nói, trời mưa, trời tối, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không hiển thị chữ viết hay biểu ngữ sai chính tả trên đèn lồng; chỉ hiển thị họa tiết hoa văn truyền thống và ánh sáng nghệ thuật.

@@ -1,84 +1,74 @@
-# TẬP 8 — LAI CHÂU · CLIP 3/6: BỮA TRƯA NHÀ SÀN LAI CHÂU — LỢN CẮP NÁCH NƯỚNG MẮC KHÉN & XÔI TÍM NẾP NƯƠNG
-**MÃ:** LC-C03 · **GIỜ TRONG PHIM:** 12:00, trưa thứ Bảy 31/10/2026, nắng trưa vàng dịu · **ĐỊA ĐIỂM:** trên hiên nhà sàn gỗ thoáng mát ở Tam Đường, tỉnh Lai Châu · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm Northwest highland stilt-house lunch
-
-> ⏰ **Vì sao ăn giờ này:** Sau khi đổ đèo Ô Quy Hồ xuống thung lũng Tam Đường lúc gần trưa, hai người dừng nghỉ lúc 12:00 tại nhà sàn bản địa đúng lúc mẻ **Lợn Cắp Nách Nướng Mắc Khén** vừa lấy khỏi bếp than củi hồng và chõ **Xôi Tím Nếp Nương** vừa đồ chín tới.
-> 🍲 **Món đặc sản kiểm chứng:**
-> - **Lợn Cắp Nách Nướng Mắc Khén:** giống lợn nhỏ bản địa của đồng bào vùng cao Lai Châu nuôi thả tự nhiên, ăn rau rừng và ngô nên thớ thịt săn chắc, lớp mỡ mỏng trong và bì giòn rụm; thịt ướp hạt **mắc khén**, **hạt dổi**, sả và lá mắc mật nướng trên than hoa vàng óng, chấm muối **chẩm chéo** (Cổng thông tin điện tử tỉnh Lai Châu; Cục Du lịch Quốc gia Việt Nam).
-> - **Xôi Tím Nếp Nương Lai Châu:** nấu từ hạt nếp nương vùng cao tròn mẩy, ngâm trong nước lá **cây cẩm tím rừng** hoàn toàn tự nhiên rồi đồ chín bằng **chõ gỗ** cho hạt xôi bóng mượt, dẻo thơm và lên sắc tím óng ả.
-> 🔗 **Nối cảnh:** vào từ làn mây và nắng vàng cuối Clip 2 sang **làn hơi ấm thơm phức bốc lên từ mẹt lá chuối bày Lợn Cắp Nách Nướng Mắc Khén da vàng giòn rụm và nắm Xôi Tím Nếp Nương đồ chõ gỗ** · ra bằng **sắc tím óng ả của xôi và nhành hoa địa lan bên lan can hiên gỗ** → Clip 4 mở bằng những chậu hoa địa lan rực rỡ dọc lối đá sạch sẽ tại Bản Sin Suối Hồ.
+# LC8-C03 — Tập 8: Lai Châu — Đại Ngàn Kỳ Vĩ Nơi Biên Viễn | Clip 3: Bản Sin Suối Hồ — Bản Làng Hoa Địa Lan Trên Mây
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt theo thời gian thực. Cấm voiceover, cấm tiếng người này khi máy quay người kia hoặc chỉ quay món ăn; không vừa nhai vừa nói.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (Quy tắc 4):** `00:00–00:01.0` nối cảnh cận mẹt lợn cắp nách nướng và xôi tím (không thoại) · `00:01.0–00:04.5` khóa cận mặt @Vy nói · `00:04.5–00:08.5` lia êm khóa cận mặt @Joi nói · `00:08.5–00:10.0` đệm minh họa không thoại: gắp miếng thịt lợn cắp nách da giòn chấm chẩm chéo ăn kèm xôi tím dẻo thơm.
-- **Mũ bảo hiểm (Quy tắc 9):** đang ngồi ăn trên hiên nhà sàn nên hai người KHÔNG đội mũ bảo hiểm; hai chiếc mũ 3/4 vẫn móc gọn trên ghi-đông chiếc Scrambler đỗ ở sân dưới chân cầu thang (thấy mờ ở hậu cảnh).
-- **Không uống rượu bia:** trên mâm chỉ có ấm trà Shan Tuyết Tân Uyên và hai chén trà xanh trong vì buổi chiều còn lái xe lên Bản Sin Suối Hồ và Cao Nguyên Sìn Hồ.
-- **Địa danh viết hoa:** Lai Châu.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa thực đơn, bảng giá, nhãn chai lọ có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Bản Sin Suối Hồ nằm tại xã Sin Suối Hồ, huyện Phong Thổ, tỉnh Lai Châu (cách TP. Lai Châu khoảng 30 km, nằm ở độ cao gần 1.500m dưới chân đỉnh núi Bạch Mộc Lương Tử / Ky Quan San). Bản của đồng bào dân tộc Mông đã đạt Giải thưởng Du lịch Cộng đồng ASEAN (2023), nổi tiếng với những con đường bản sạch bóng không một cọng rác, cổng nhà làm bằng gỗ/đá sáng tạo và hàng vạn chậu hoa địa lan trồng dọc hai bên lối đi.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 11:00 trưa tại lối đi lát đá rợp bóng hoa địa lan và tường đá trong bản Sin Suối Hồ.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Những chậu hoa địa lan xanh mướt cùng những nhành hoa rừng khoe sắc dọc bờ rào đá trước ngôi nhà gỗ truyền thống của người Mông tại Sin Suối Hồ.
+- **Nguồn đối chiếu thực tế**: Bản du lịch cộng đồng ASEAN Sin Suối Hồ (Cổng TTĐT huyện Phong Thổ, tỉnh Lai Châu).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Làn hơi ấm thơm nức bốc lên từ chiếc mẹt tre lót lá chuối tươi đặt trên bàn gỗ thấp ngoài hiên nhà sàn: những miếng Thịt Lợn Cắp Nách Nướng Mắc Khén thái bản dày với lớp bì nổ vàng ruộm bóng bẩy xếp cạnh đơm Xôi Tím Nếp Nương Lai Châu tím óng ả trong giỏ tre và chén chẩm chéo giã ớt rừng. Máy nâng mượt từ mâm ăn lên trung cận @Vy và @Joi.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Con đường nhỏ lát đá sạch sẽ đi qua bản Sin Suối Hồ (huyện Phong Thổ, Lai Châu): hai bên đường là bờ rào đá xếp gọn gàng đặt hàng trăm chậu hoa địa lan xanh tốt, những ngôi nhà gỗ có biển gỗ khắc thủ công mộc mạc, phía xa là đỉnh núi cao mờ mây.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng vùng cao 11:00 trong trẻo mát mẻ ở độ cao 1.500m, làm nổi bật màu xanh mướt của lá địa lan và gương mặt tươi tắn của @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Lá địa lan dài mềm mại đung đưa nhẹ theo làn gió núi mát lành, mây mỏng trôi nhẹ trên đỉnh núi phía sau bản. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi thong thả đi bộ trên con đường lát đá sạch tinh tươm giữa hai hàng chậu địa lan tại bản Sin Suối Hồ; @Vy dừng lại cúi nhẹ ngắm một chậu địa lan bên cổng gỗ.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy đứng thẳng dậy quay sang @Joi, ánh mắt trầm trồ nhìn dọc con đường bản đầy hoa. @Vy nói trực tiếp: Bản Sin Suối Hồ sạch bóng mà nhà nào cũng trồng đầy địa lan, bình yên quá chừng!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi nhìn quanh những chậu địa lan xanh mướt rồi quay sang cười hóm hỉnh với @Vy. @Joi đáp trực tiếp: Bản đạt giải du lịch ASEAN luôn đó, ở đây hít thở thôi cũng thấy khỏe người!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy mỉm cười gật đầu tán đồng, cả hai cùng sánh bước thong thả thêm một nhịp giữa con đường hoa địa lan thanh bình của bản Sin Suối Hồ. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng bước chân êm trên đường đá, tiếng chim rừng hót trong trẻo, tiếng suối chảy róc rách gần bản.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo Mông và guitar acoustic mộc mạc, êm đềm (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Hiên nhà sàn gỗ ở Tam Đường (Lai Châu):** sàn gỗ thoáng đãng ngập nắng trưa vàng dịu, bên lan can gỗ có treo vài giò địa lan rừng xanh tươi; dưới sân thoáng thấy chiếc Scrambler xám xi măng với hai mũ 3/4 móc trên ghi-đông.
-- **Mâm ăn đặc sản Lai Châu trên bàn gỗ thấp:**
-  - **Thịt Lợn Cắp Nách Nướng Mắc Khén:** từng miếng thịt ba chỉ lợn bản săn chắc, lớp mỡ mỏng trong veo, lớp bì nướng than hoa vàng giòn rụm bám lấm tấm hạt mắc khén, hạt dổi và lá mắc mật thơm lừng.
-  - **Xôi Tím Nếp Nương Lai Châu:** hạt nếp nương tròn mẩy nhuộm màu lá cẩm tím rừng tự nhiên, đồ bằng chõ gỗ nên bóng mịn, dẻo quánh mà không dính tay.
-  - **Chén chẩm chéo**, đĩa rau rừng luộc và ấm trà Shan Tuyết Tân Uyên nóng (không có rượu bia).
-- Không đưa vào khung: bảng giá, thực đơn có chữ, mặt chủ quán hay người lạ.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi thong thả đi bộ trên con đường lát đá sạch tinh tươm giữa hai hàng chậu địa lan tại bản Sin Suối Hồ; @Vy dừng lại cúi nhẹ ngắm một chậu địa lan bên cổng gỗ. | *(Không thoại — âm thanh môi trường sống động)* | Camera lùi chậm phía trước @Vy và @Joi dọc theo con đường lát đá hai bên trồng địa lan của bản Sin Suối Hồ. |
+| **00:01.5 – 00:04.5** | @Vy đứng thẳng dậy quay sang @Joi, ánh mắt trầm trồ nhìn dọc con đường bản đầy hoa. | **@Vy**: Bản Sin Suối Hồ sạch bóng mà nhà nào cũng trồng đầy địa lan, bình yên quá chừng! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi nhìn quanh những chậu địa lan xanh mướt rồi quay sang cười hóm hỉnh với @Vy. | **@Joi**: Bản đạt giải du lịch ASEAN luôn đó, ở đây hít thở thôi cũng thấy khỏe người! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy mỉm cười gật đầu tán đồng, cả hai cùng sánh bước thong thả thêm một nhịp giữa con đường hoa địa lan thanh bình của bản Sin Suối Hồ. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera giữ khung hình đôi (Two-Shot) ấm áp giữa lối đi rợp bóng địa lan và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất mở khóa cổ thoải mái, khăn len thổ cẩm đỏ cam vắt nhẹ, jeans xanh nhạt, túi mây tròn đặt bên cạnh; không đội mũ, tóc nâu hạt dẻ uốn sóng buông mềm; nụ cười tươi tắn.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu mở khóa, cargo be cát; không đội mũ; ngồi cạnh @Vy bên mâm gỗ thấp, balo 50L đặt gọn sát vách gỗ.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:01.0 | CẬN MẸT LỢN CẮP NÁCH & XÔI TÍM — NÂNG LÊN HAI NGƯỜI**
-- **Máy:** từ cận cảnh mẹt Thịt Lợn Cắp Nách Nướng Mắc Khén vàng ruộm và Xôi Tím Nếp Nương bóng mượt, nâng mượt lên trung cận @Vy và @Joi bên hiên nhà sàn.
-- **Hành động:** @Vy dùng đũa tre nâng nhẹ một miếng xôi tím dẻo thơm; @Joi cầm đũa gắp miếng thịt lợn cắp nách nướng lớp bì giòn rụm.
-- **Âm thanh:** tiếng lớp bì nướng giòn chạm nhẹ đũa tre, nhạc acoustic ấm cúng. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa chặt cận mặt @Vy bên mâm ăn ngập nắng, thấy rõ đôi môi và giỏ xôi tím lá cẩm.
-- **Hành động:** @Vy chỉ nhẹ vào mẹt thịt nướng và đơm xôi tím rồi nhìn ống kính cười ngọt ngào lộ má lúm đồng tiền.
-- **Thoại @Vy** *(00:01.2–00:04.5; giọng nữ trong trẻo, hào hứng, giọng miền Nam — 16 âm tiết / 3,3 giây):*
-  > *Trưa Lai Châu ăn lợn cắp nách nướng mắc khén với xôi tím lá cẩm nè!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang phải, khóa chặt cận mặt @Joi; miệng anh không nhai khi nói.
-- **Hành động:** @Joi chỉ đũa vào lớp bì vàng giòn của miếng thịt lợn bản và nắm xôi tím dẻo quánh, quay sang @Vy gật gù khen ngợi.
-- **Thoại @Joi** *(00:04.8–00:08.3; giọng nam trầm ấm, thích thú — 16 âm tiết / 3,5 giây):*
-  > *Thịt lợn bản săn ngọt da giòn rụm, ăn kèm xôi nếp nương dẻo thơm!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA KHÔNG THOẠI — CHẤM CHẨM CHÉO & NỐI CẢNH ĐỊA LAN**
-- **Thoại:** không.
-- **Hành động:** @Joi chấm nhẹ miếng thịt lợn cắp nách nướng vào chén chẩm chéo rồi đặt vào bát cho @Vy; @Vy véo một miếng xôi tím lá cẩm dẻo mềm không dính tay.
-- **Máy:** hạ xuống cận cảnh miếng thịt nướng vàng ươm và xôi tím trên mẹt, rồi lướt nhẹ sang giò hoa địa lan xanh mướt bên lan can hiên gỗ để nối sang Bản Sin Suối Hồ ở Clip 4.
-- **Âm thanh:** tiếng đàn tính và guitar lo-fi ấm áp, tiếng gió trưa thung lũng.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục đi lùi chậm dẫn đường kết hợp lia cận cảnh (Smooth Village-Lane Backward Tracking & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera lùi chậm phía trước @Vy và @Joi dọc theo con đường lát đá hai bên trồng địa lan của bản Sin Suối Hồ.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera giữ khung hình đôi (Two-Shot) ấm áp giữa lối đi rợp bóng địa lan và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, tạo độ sâu trường ảnh tự nhiên dọc theo hàng chậu địa lan kéo dài về phía sau.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Lo-fi acoustic kết hợp nhạc cụ dân tộc Tây Bắc ấm cúng, vui tươi. Âm thanh môi trường: tiếng đũa tre chạm bát sứ, gió nhẹ ngoài hiên gỗ.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI → CLIP 4]
-Giò hoa địa lan xanh mướt bên lan can hiên gỗ ngập nắng chiều cạnh mẹt Xôi Tím Nếp Nương. Giữ cố định 0,5 giây. Clip 4 mở bằng hàng trăm chậu hoa địa lan dọc lối đá sạch sẽ dẫn ra Thác Trái Tim tại Bản Sin Suối Hồ.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung trên lối đá sạch đẹp hai bên trồng đầy địa lan tại bản Sin Suối Hồ (Lai Châu), @Vy và @Joi đang dạo bước.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi cười hiền hòa giữa bản làng trên mây Sin Suối Hồ.
 
-### [LOẠI TRỪ]
-Đội mũ bảo hiểm hay cầm mũ khi ngồi ăn trên nhà sàn, rượu bia trên bàn, vừa nhai vừa nói, bảng giá hay thực đơn có chữ, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10.0, cắt cảnh, phụ đề, chữ, watermark, thẻ tên. Always keep the entire 10-second shot as clean live-action scene footage; never flash or cut to an attached character reference, vehicle reference, or split-screen collage at the end of the clip.
+---
 
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ rác thải hay biển quảng cáo nhựa hiện đại; Sin Suối Hồ nổi tiếng với cảnh quan gỗ, đá và chậu địa lan tự nhiên.

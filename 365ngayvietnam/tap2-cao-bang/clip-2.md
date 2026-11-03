@@ -1,112 +1,74 @@
-# KỊCH BẢN PHÂN CẢNH ĐẠO DIỄN — TẬP 2 / CLIP 2
-**DỰ ÁN:** SERIES TIKTOK 365 NGÀY VIỆT NAM  
-**PHÂN ĐOẠN:** TẬP 2 — CAO BẰNG: NON NƯỚC BIÊN CƯƠNG & PHỞ VỊT QUAY BẢY VỊ  
-**MÃ PHÂN CẢNH:** CB-C02 (BÈ TRE SÔNG QUÂY SƠN — CHÂN THÁC BẢN GIỐC)  
-**THỜI LƯỢNG:** ĐÚNG 10 GIÂY (SINGLE CONTINUOUS SHOT)  
-**QUY CÁCH HÌNH ẢNH:** KHUNG HÌNH DỌC 9:16 | 24 FPS | CINEMATIC 35MM NATURE ADVENTURE VLOG  
+# CB-C02 — Tập 2: Cao Bằng — Xứ Sở Thần Tiên | Clip 2: Thác Bản Giốc — Tuyệt Tác Biên Cương
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [BỘ QUY TẮC ĐẠO DIỄN BẮT BUỘC — DIRECTORIAL LAWS]
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
 
-1. **BÁM SÁT TUYỆT ĐỐI GIỮA GIỌNG NÓI VÀ NHÂN VẬT (CHARACTER-VOICE LOCK & REAL-TIME LIP SYNC):**
-   - Camera bắt buộc khóa chặt cận cảnh gương mặt người đang nói. Khi @Vy nói → cam khóa mặt @Vy đang vẩy sương cười tươi; khi @Joi nói → cam lia êm khóa mặt @Joi đang chống sào bè tre. Tuyệt đối KHÔNG để tiếng người này nhưng cam quay người khác hoặc quay mặt nước.
-   - Khẩu hình khớp 100% từng âm tiết tiếng Việt (real-time phoneme-to-viseme match).
-   - Âm sắc đồng bộ 100%: @Vy giọng nữ trong trẻo sảng khoái; @Joi giọng nam trầm ấm hào sảng.
-   - Tuyệt đối cấm: voiceover, desync, mấp máy môi không tiếng, có tiếng mà miệng đứng yên.
-
-2. **VIẾT HOA CHUẨN XÁC TẤT CẢ ĐỊA DANH:** "Sông Quây Sơn", "Thác Bản Giốc", "Cao Bằng", "Trùng Khánh".
-
-3. **KHOẢNG ĐỆM KHÔNG THOẠI CUỐI CLIP (00:07.5–00:10):** Thoại dứt điểm ở giây `00:07.5`. Đúng 2.5 giây cuối tuyệt đối KHÔNG THOẠI, dành cho bè chạm bến đá, @Vy bấm mở khóa áo phao, @Joi đỡ tay chuẩn bị bước lên bến sông.
-
-4. **LOGIC VỊ TRÍ KHÔNG GIAN & ĐẠO CỤ VẬT LÝ (SPATIAL & PROP LOGIC — SUY LUẬN CHẶT CHẼ):**
-   - **VỊ TRÍ XE MÁY SCRAMBLER:** Xe và 02 mũ bảo hiểm 3/4 vintage **VẪN ĐANG NẰM AN TOÀN TRÊN BÃI ĐỖ XE TRÊN ĐỒI CAO** (đã móc khóa trên ghi-đông từ cuối Clip 1).
-   - **TUYỆT ĐỐI KHÔNG CÓ XE MÁY TRÊN BÈ TRE HOẶC DƯỚI BẾN SÔNG:** Chiếc bè tre truyền thống chỉ chở người, trôi giữa dòng Sông Quây Sơn. Xe máy không thể ở trên thuyền hay bè tre dưới bất kỳ hình thức nào.
-   - **TRANG BỊ TRÊN BÈ TRE:** Cả hai mặc **áo phao mỏng màu cam** cài khóa ngực an toàn. KHÔNG đội mũ bảo hiểm khi đi bè tre.
-   - **CUỐI CLIP (00:07.5–00:10):** Bè tre cập nhẹ vào bậc đá bến sông. @Vy mở khóa áo phao, @Joi đưa tay đỡ @Vy chuẩn bị bước lên bờ để đi ngược bậc thang đá về bãi đỗ xe trên cao.
-
-5. **KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG THẺ TÊN NHÂN VẬT.**
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Thác Bản Giốc nằm trên dòng sông Quây Sơn tại xã Đàm Thủy, huyện Trùng Khánh, tỉnh Cao Bằng (cách TP. Cao Bằng khoảng 89 km). Đây là thác nước tự nhiên lớn nhất Đông Nam Á và là thác nước nằm trên đường biên giới tự nhiên lớn thứ tư thế giới, gồm phần thác phụ cao bên trái và phần thác chính chia thành 3 tầng đá vôi chảy qua thảm cỏ xanh xuống mặt sông Quây Sơn màu ngọc bích.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 09:30 sáng nắng chiếu xiên vào màn sương bụi nước chân thác tạo cầu vồng tự nhiên.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Một dải cầu vồng mờ ảo hiện lên tự nhiên trong làn bụi nước trắng xóa dưới chân tầng thác chính Bản Giốc.
+- **Nguồn đối chiếu thực tế**: Cổng TTĐT tỉnh Cao Bằng, Khu du lịch Thác Bản Giốc, UNESCO Non nước Cao Bằng.
 
 ---
 
-### [THIẾT LẬP BỐI CẢNH & ĐẠO CỤ — SCENE SETUP & PROPS CONTINUITY]
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
 
-- **ĐỊA ĐIỂM:** Dòng Sông Quây Sơn xanh ngọc bích trước chân Thác Bản Giốc (huyện Trùng Khánh, tỉnh Cao Bằng). Mặt nước trong vắt lấp lánh bọt sương, phía sau là Thác Bản Giốc ba tầng đổ ầm ầm tung bọt trắng xóa, bao quanh bởi núi đá vôi và thảm thực vật xanh rì.
-- **BÈ TRE & TRANG BỊ AN TOÀN (00:00):**
-  - Chiếc bè tre truyền thống làm từ các thân tre già ghép phẳng, có cọc tre cắm làm tay vịn, đang lướt êm trên mặt nước.
-  - Cả @Vy và @Joi mặc **áo phao mỏng màu cam** cài khóa ngực bên ngoài trang phục thường ngày.
-  - @Joi cầm cây sào tre dài chống đáy sông đẩy bè.
-  - **TUYỆT ĐỐI KHÔNG CÓ:** Xe máy Scrambler, mũ bảo hiểm trên bè tre.
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
 
----
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
 
-### [KHÓA NHÂN VẬT — CHARACTER LOCK]
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Bờ cỏ xanh ven sông Quây Sơn đối diện trực tiếp với toàn cảnh Thác Bản Giốc (xã Đàm Thủy, Trùng Khánh): ba tầng thác nước trắng xóa đổ xuống qua các bậc đá vôi xanh rêu, mặt sông Quây Sơn phẳng lặng màu xanh ngọc bích, phía sau thác là dãy núi karst hình tháp đặc trưng.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng sáng 09:30 chiếu chếch 45 độ làm bừng sáng dòng thác trắng xóa và tạo hiệu ứng tán sắc cầu vồng nhẹ trong màn sương nước; ánh sáng tự nhiên phản chiếu từ mặt nước sông Quây Sơn làm sáng bừng gương mặt @Vy và @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Dòng nước Thác Bản Giốc đổ xuống cuồn cuộn liên tục theo trọng lực vật lý thực tế, màn sương bụi nước bay nhẹ trong không khí, mặt sông Quây Sơn gợn sóng lăn tăn và tóc hai nhân vật bay nhẹ theo gió thác. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
 
-- **@Vy:** Ngồi ở mũi bè tre, áo len be cổ lọ dưới áo phao mỏng cam, tóc đen sóng lơi ướt nhẹ lấm tấm giọt sương thác nước, một tay vịn cọc tre, một tay vẩy sương nước mát, nụ cười tươi rói phấn khích.
-- **@Joi:** Đứng phía sau bè, áo henley xám cuộn tay áo dưới áo phao cam, hai tay cầm cây sào tre dài chống đẩy bè tiến sát chân thác, bắp tay rắn rỏi gân guốc, mắt xanh lam sáng rực hào sảng.
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng trên thảm cỏ ven bờ sông Quây Sơn (không đội mũ bảo hiểm, đầu trần tóc bay tự nhiên), phía sau là toàn cảnh ba tầng Thác Bản Giốc trắng xóa; @Vy dang nhẹ hai tay đón làn hơi nước mát lạnh.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, mắt sáng lấp lánh, chỉ tay về phía dải cầu vồng nhỏ dưới chân thác. @Vy nói trực tiếp: Thác Bản Giốc ba tầng trắng xóa kìa anh, hơi nước mát lạnh thích mê luôn!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi dùng vạt áo khoác denim lau nhẹ ống kính máy ảnh Fujifilm rồi ngước lên cười hóm hỉnh với @Vy. @Joi đáp trực tiếp: Mát tới mức máy ảnh của anh cũng muốn tắm sương chung với em luôn nè!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười tươi rói, kéo nhẹ tay @Joi đứng sát vào nhau để @Joi giơ máy ảnh lên chụp góc selfie hai người cùng toàn cảnh Thác Bản Giốc hùng vĩ phía sau. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
 
----
-
-### [KỊCH BẢN ĐẠO DIỄN HÀNH ĐỘNG TỪNG GIÂY — 10 GIÂY LIÊN TỤC]
-
-**00:00–00:03.0 | TIẾP NỐI HÀNH ĐỘNG MATCH-CUT TỪ CLIP 1 (EXT. SÔNG QUÂY SƠN — MEDIUM SHOT TỪ MŨI BÈ)**
-- **Máy quay:** Medium Shot cố định trên mũi bè hướng về hai nhân vật, lấy trọn @Vy ngồi phía trước và @Joi đứng phía sau chống sào tre, hậu cảnh là Thác Bản Giốc ba tầng đổ ào ào bọt trắng xóa tung mù mịt phía xa.
-- **Hành động:** Bè tre lướt nhẹ nhàng xẻ mặt nước ngọc bích của Sông Quây Sơn, hơi sương mát lạnh phả ngập không gian. @Vy vươn tay hứng giọt sương đọng trên cọc tre, @Joi khua một nhịp sào tre đẩy bè lướt êm ái.
-- **Âm thanh (Foley):** Tiếng thác đổ ầm ầm vang vọng, tiếng sào tre chạm đáy sông "bộp", tiếng sóng nước vỗ róc rách vào mặt bè tre. Không thoại.
-
-**00:03.0–00:05.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @VY (CLOSE-UP SPEAKER LOCK)**
-- **Máy quay:** Zoom nhẹ KHÓA CHẶT cận cảnh gương mặt rạng rỡ của @Vy.
-- **Hành động:** @Vy vẩy nhẹ giọt sương trên tay, quay đầu nhìn thẳng ống kính cười tươi rói, má hồng ửng ướt sương thác. Bờ môi mở tròn cử động khớp 100% từng âm tiết tiếng Việt.
-- **Thoại @Vy** *(giọng nữ trong trẻo, reo phấn khích, khớp 100% khẩu hình — ~12 âm tiết / 2.5 giây):*
-  > *"Sóng bọt chân thác phả mát rượi luôn anh ơi!"*
-
-**00:05.5–00:07.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @JOI (CLOSE-UP SPEAKER LOCK)**
-- **Máy quay:** Lia êm ái khóa chặt gương mặt nam tính của @Joi đang chống sào bè.
-- **Hành động:** @Joi cắm sào một nhịp dứt khoát, quay nhìn @Vy cười hào sảng, mặt lấm tấm sương thác. Bờ môi cử động khớp chính xác từng âm tiết trầm ấm.
-- **Thoại @Joi** *(giọng nam trầm ấm, sảng khoái, khớp 100% khẩu hình — ~10 âm tiết / 2 giây):*
-  > *"Sảng khoái quá, đẹp mê hồn luôn em!"*
-
-**00:07.5–00:10.0 | ĐỆM HÀNH ĐỘNG VẬT LÝ — CẬP BẾN ĐÁ BỜ SÔNG (SILENT BUFFER & PROP BLOCKING)**
-- **Âm thanh lời thoại:** TUYỆT ĐỐI IM LẶNG — 100% KHÔNG CÓ THOẠI.
-- **Máy quay:** Lùi nhẹ mở rộng bao quát mũi bè tre tiếp cận bến đá rêu phong ven bờ Sông Quây Sơn.
-- **Hành động vật lý logic:**
-  - `00:07.5`: Dứt tiếng nói. @Joi dùng sào tre hãm đà, mũi bè tre chạm êm ái vào bậc đá bến neo ven bờ.
-  - `00:08.0–00:09.5`: @Vy đưa hai tay lên ngực bấm mở chốt khóa nhựa áo phao cam (tiếng "tách"), mỉm cười đứng dậy.
-  - `00:09.5–00:10.0`: @Joi cắm chắc cây sào tre neo bè, vươn một tay đỡ tay @Vy chuẩn bị bước lên bậc đá dẫn về lối thang bộ lên bãi xe trên cao.
-- **Âm thanh (Foley):** Tiếng bè tre chạm nhẹ bậc đá "cục", tiếng mở chốt khóa áo phao "tách", tiếng sào cắm bùn đáy sông, tiếng thác nước ầm ầm vang xa dần, tiếng suối reo trong trẻo.
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng nước Thác Bản Giốc đổ ầm ào hùng vĩ nhưng được cân bằng âm học để không lấn át giọng nói trực tiếp của nhân vật.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền đàn Tính và sáo trúc Cao Bằng tươi sáng, rộn ràng (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [PROMPT KỸ THUẬT AI VIDEO GENERATION (READY-TO-USE)]
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
 
-```text
-Cinematic 35mm vertical 9:16 travel vlog footage, 24fps. A traditional flat bamboo raft glides smoothly on the crystal-clear emerald-green waters of the Quây Sơn River in front of the colossal cascading tiers of Bản Giốc Waterfall in Cao Bằng, Vietnam. Dense tropical mist and spray rise in the background.
-
-Characters:
-- Vy (Vietnamese female, 23yo, knit beige turtleneck under an orange slim safety life vest, wavy black hair damp with waterfall mist) sits at the front of the raft smiling excitedly.
-- Joi (European male, 28yo, grey henley under an orange safety life vest, athletic build, short stubble) stands at the back maneuvering the raft with a long bamboo pole.
-
-Strict Camera & Audio Flow (Continuous 10s shot):
-- 00:00-00:03: Medium shot from the front of the bamboo raft showing both characters gliding on emerald water with Bản Giốc waterfall roaring behind.
-- 00:03-00:05.5: Smooth close-up locked on Vy's face as she shakes mist droplets from her hand, smiles at the camera, mouth moving in precise lip-sync speaking Vietnamese: "Sóng bọt chân thác phả mát rượi luôn anh ơi!"
-- 00:05.5-00:07.5: Smooth pan and close-up locked on Joi smiling warmly while poling the raft, mouth moving in precise lip-sync speaking Vietnamese: "Sảng khoái quá, đẹp mê hồn luôn em!"
-- 00:07.5-00:10.0: Strict silence, no dialogue. Camera pulls back slightly to show the bamboo raft gently docking against the mossy stone pier on the riverbank. Joi anchors the pole, Vy unclips the chest buckle of her orange life jacket, Joi extends his hand to help Vy step onto the stone riverbank pier.
-
-Absolute Continuity & Physics Rules:
-- NO MOTORCYCLES, NO VEHICLES ON THE RAFT OR WATER. The motorcycle is parked far away in the hilltop lot on land.
-- NO HELMETS ON THE RAFT. Both characters wear orange life vests over adventure attire.
-- Photorealistic natural lighting, cool misty morning atmosphere, realistic water physics, ultra-high fidelity facial details.
-```
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng trên thảm cỏ ven bờ sông Quây Sơn (không đội mũ bảo hiểm, đầu trần tóc bay tự nhiên), phía sau là toàn cảnh ba tầng Thác Bản Giốc trắng xóa; @Vy dang nhẹ hai tay đón làn hơi nước mát lạnh. | *(Không thoại — âm thanh môi trường sống động)* | Camera trượt ngang từ phải sang trái ở khung hình trung rộng (Medium-Wide) để lộ trọn vẹn ba tầng Thác Bản Giốc và dòng sông Quây Sơn phía sau @Vy, @Joi. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, mắt sáng lấp lánh, chỉ tay về phía dải cầu vồng nhỏ dưới chân thác. | **@Vy**: Thác Bản Giốc ba tầng trắng xóa kìa anh, hơi nước mát lạnh thích mê luôn! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi dùng vạt áo khoác denim lau nhẹ ống kính máy ảnh Fujifilm rồi ngước lên cười hóm hỉnh với @Vy. | **@Joi**: Mát tới mức máy ảnh của anh cũng muốn tắm sương chung với em luôn nè! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười tươi rói, kéo nhẹ tay @Joi đứng sát vào nhau để @Joi giơ máy ảnh lên chụp góc selfie hai người cùng toàn cảnh Thác Bản Giốc hùng vĩ phía sau. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Medium Two-Shot) thấy rõ hai nhân vật cùng toàn cảnh Thác Bản Giốc và cầu vồng nhẹ dưới chân thác, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [KHUNG HÌNH CUỐI & MATCH-CUT CHUYỂN TIẾP SANG CLIP 3]
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-- **Khung hình cuối (00:09.5–00:10):** Mũi bè tre chạm nhẹ bậc đá rêu phong bến Sông Quây Sơn, @Joi đỡ tay @Vy bước lên bờ để đi ngược bậc thang về bãi đỗ xe trên cao. **Giữ cố định 0.5s cuối.**
-- **Nối cảnh Clip 3 (Trùng Khánh):** Sau khi rời Thác Bản Giốc, hai người trở lại bãi xe lấy Scrambler, đội mũ bảo hiểm lái về thị trấn Trùng Khánh để ăn trưa. Khi bước vào quán phở vịt quay 7 vị ở Clip 3, cả hai vừa dựng xe trước quán, cầm 02 mũ bảo hiểm trên tay bước vào bàn gỗ.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt ngang mở cảnh kết hợp lia cận cảnh mượt mà (Smooth Lateral Reveal & Arc Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera trượt ngang từ phải sang trái ở khung hình trung rộng (Medium-Wide) để lộ trọn vẹn ba tầng Thác Bản Giốc và dòng sông Quây Sơn phía sau @Vy, @Joi.
+  2. `00:01.5 – 00:07.5`: Đẩy tiến êm vào cận cảnh trung (MCU) gương mặt @Vy với dòng thác trắng xóa ở hậu cảnh (01.5s–04.5s), rồi lia ngang mượt sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Medium Two-Shot) thấy rõ hai nhân vật cùng toàn cảnh Thác Bản Giốc và cầu vồng nhẹ dưới chân thác, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/4.0, đảm bảo cả gương mặt nhân vật và kết cấu dòng thác 3 tầng phía sau đều rõ ràng, sống động.
 
 ---
 
-### [LOẠI TRỪ — NEGATIVE PROMPT]
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-Xe máy trên bè tre, xe máy trên thuyền, xe máy dưới sông, xe cộ trên mặt nước (no motorcycle/vehicle on boat/raft/water), đội mũ bảo hiểm khi đi bè tre, mang mũ bảo hiểm trên bè tre, không mặc áo phao khi đi bè tre, tiếng nói không khớp khẩu hình, lệch hình và tiếng (voiceover/desync), tiếng @Vy nhưng cam quay @Joi, tiếng @Joi nhưng cam quay @Vy, camera quay thác nước khi có thoại mà không quay mặt người nói, mấp máy môi không tiếng, có tiếng nhưng môi đứng yên, lời thoại ở 2.5 giây cuối (00:07.5–00:10), đọc sai địa danh, không viết hoa địa danh, thông tin nhân vật hiển thị, thẻ tên, profile card, phụ đề, chữ viết, watermark.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng bên bờ sông Quây Sơn với toàn cảnh 3 tầng Thác Bản Giốc trắng xóa phía sau @Vy và @Joi.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi chụp ảnh kỷ niệm trước Thác Bản Giốc hùng vĩ, hơi nước bay mờ ảo tự nhiên.
+
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ thác nước một tầng thẳng đứng kiểu Niagara; phải đúng cấu trúc 3 tầng bậc thang đá vôi xanh rêu của Thác Bản Giốc.

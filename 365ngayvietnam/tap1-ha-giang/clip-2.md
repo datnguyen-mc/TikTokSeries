@@ -1,88 +1,74 @@
-# KỊCH BẢN PHÂN CẢNH ĐẠO DIỄN — TẬP 1 / CLIP 2
-**DỰ ÁN:** SERIES TIKTOK 365 NGÀY VIỆT NAM  
-**PHÂN ĐOẠN:** TẬP 1 — HÀ GIANG: CỰC BẮC HÙNG VĨ & HƯƠNG VỊ ĐÁ NỞ HOA  
-**MÃ PHÂN CẢNH:** HG-C02 (CUNG ĐÈO ĐÁ TAM GIÁC MẠCH — ĐỒNG VĂN)  
-**THỜI LƯỢNG:** ĐÚNG 10 GIÂY (SINGLE CONTINUOUS SHOT)  
-**QUY CÁCH HÌNH ẢNH:** KHUNG HÌNH DỌC 9:16 | 24 FPS | CINEMATIC 35MM TRAVEL ROADTRIP  
+# HG-C02 — Tập 1: Hà Giang — Đá Nở Hoa | Clip 2: Cổng Trời Quản Bạ & Núi Đôi Cô Tiên
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [BỘ QUY TẮC ĐẠO DIỄN BẮT BUỘC — DIRECTORIAL LAWS]
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
 
-1. **BÁM SÁT TUYỆT ĐỐI GIỮA GIỌNG NÓI VÀ NHÂN VẬT (CHARACTER-VOICE LOCK & REAL-TIME LIP SYNC):**
-   - Camera bắt buộc khóa chặt cận cảnh gương mặt người đang nói. Khi @Vy nói → cam khóa mặt @Vy lộ rõ sau kính chắn trong suốt mũ bảo hiểm; khi @Joi nói → cam lia êm khóa mặt @Joi. Tuyệt đối KHÔNG để tiếng người này nhưng cam quay người khác hoặc quay phong cảnh.
-   - Khẩu hình khớp 100% từng âm tiết tiếng Việt phát ra theo thời gian thực (real-time phoneme-to-viseme match).
-   - Âm sắc đồng bộ 100%: @Vy giọng nữ trong trẻo sảng khoái; @Joi giọng nam trầm ấm hào sảng nói tiếng Việt tự nhiên.
-   - Tuyệt đối cấm: voiceover, desync, mấp máy môi không tiếng, có tiếng mà miệng đứng yên.
-
-2. **VIẾT HOA CHUẨN XÁC TẤT CẢ ĐỊA DANH:** "Hà Giang", "Đồng Văn", "Phố Cổ Đồng Văn" — viết hoa chuẩn ngữ pháp tiếng Việt.
-
-3. **KHOẢNG ĐỆM KHÔNG THOẠI CUỐI CLIP (00:07.5–00:10):** Thoại dứt điểm ở giây `00:07.5`. Đúng 2.5 giây cuối tuyệt đối KHÔNG CÓ THOẠI, dành cho hành động dừng xe, tháo quai mũ, nhấc mũ cầm tay bước vào quán.
-
-4. **LOGIC ĐẠO CỤ VẬT LÝ — KHÔNG TỰ BIẾN MẤT HAY XUẤT HIỆN:**
-   - Đầu clip (00:00): Nối tiếp chính xác từ Clip 1 — cả hai **đang đội mũ bảo hiểm 3/4 vintage cài quai** trên xe đang chạy.
-   - Cuối clip (00:07.5–00:10): Dừng xe → bấm chốt nhả khóa quai (tiếng "tách") → nhấc mũ ra khỏi đầu → cầm quai mũ trên tay → bước vào quán.
-
-5. **KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG THẺ TÊN NHÂN VẬT.**
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Cổng Trời Quản Bạ nằm ở độ cao khoảng 1.500m so với mực nước biển trên Quốc lộ 4C (cách TP. Hà Giang ~46 km). Từ điểm dừng chân trên đèo nhìn xuống thung lũng thị trấn Tam Sơn thấy rõ Núi Đôi Quản Bạ (Núi Đôi Cô Tiên) — hai ngọn núi đá vôi hình chóp tròn đối xứng tự nhiên giữa cánh đồng lúa/hoa màu.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Nhiệt độ buổi sáng trên đỉnh đèo Quản Bạ khoảng 16–18°C, có mây mù mỏng trôi qua khe đèo.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Biển mây trắng bồng bềnh vừa đủ ôm quanh chân hai ngọn Núi Đôi dưới ánh nắng sáng trong trẻo lúc 08:30.
+- **Nguồn đối chiếu thực tế**: Cổng TTĐT huyện Quản Bạ, Hồ sơ di sản Công viên địa chất toàn cầu Cao nguyên đá Đồng Văn.
 
 ---
 
-### [THIẾT LẬP BỐI CẢNH & ĐẠO CỤ — SCENE SETUP & PROPS CONTINUITY]
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
 
-- **ĐỊA ĐIỂM:** Cung đèo đá uốn lượn nối từ Lũng Cú về thị trấn Đồng Văn (tỉnh Hà Giang). Mặt đường nhựa êm uốn men theo triền núi đá vôi xám bạc, hai bên bờ ta-luy là những thảm hoa tam giác mạch hồng tím bung nở rực rỡ dưới nắng ban mai. Phía xa cuối đường mở ra lối vào khu Phố Cổ Đồng Văn mái ngói âm dương rêu phong.
-- **TRẠNG THÁI XE & ĐẠO CỤ BAN ĐẦU (00:00):**
-  - Scrambler 400cc đang chạy tốc độ vừa phải (~35km/h), cờ Tổ quốc sau đuôi xe bay phấp phới.
-  - Cả hai nhân vật **ĐANG ĐỘI MŨ BẢO HIỂM 3/4 VINTAGE CÀI QUAI CHẮC CHẮN** (khớp match-cut từ cuối Clip 1):
-    - @Vy: Mũ 3/4 màu kem be viền da nâu, kính chắn trong suốt gạt mở nhẹ 1/3 đón gió mát, lộ rõ 100% khuôn mặt và nụ cười.
-    - @Joi: Mũ 3/4 màu xanh rêu nhám viền da nâu, kính chắn trong suốt gạt mở, lộ trọn vẹn gương mặt nam tính.
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
 
----
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
 
-### [KHÓA NHÂN VẬT — CHARACTER LOCK]
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm vọng cảnh Cổng Trời Quản Bạ có lan can đá và gỗ bảo vệ nằm trên sườn núi cao; phía dưới thung lũng Tam Sơn là cánh đồng chia ô bàn cờ xanh mướt và hai ngọn Núi Đôi Cô Tiên tròn trịa đối xứng đặc trưng của địa hình karst.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng ban mai vùng cao lúc 08:30 sáng trong trẻo, tia nắng xuyên qua lớp mây mỏng tạo hiệu ứng chiều sâu không khí (aerial perspective) rõ nét giữa tiền cảnh lan can đá và hậu cảnh thung lũng Tam Sơn. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Làn mây mỏng trôi chậm rãi từ trái sang phải dưới thung lũng, cỏ dại ven vách đá rung nhẹ, tóc mái của @Vy bay lất phất trong gió đèo. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
 
-- **@Vy:** Ngồi sau yên xe, áo khoác gió lửng hồng đất, khăn len thổ cẩm quàng cổ bay nhẹ, hai tay ôm nhẹ eo @Joi, cằm tựa nhẹ vào vai chàng, ánh mắt bừng sáng phấn khích.
-- **@Joi:** Ngồi trước cầm lái, áo dã ngoại canvas rêu quân đội, hai tay nắm chắc ghi-đông ôm cua điêu luyện, gương mặt tập trung vững chãi pha lẫn nụ cười hào sảng.
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng tựa bên lan can đá điểm vọng cảnh Cổng Trời Quản Bạ (mũ bảo hiểm đã treo gọn trên ghi-đông xe Scrambler đậu sát lề phải cách đó 2m); @Vy chống hai tay lên lan can, hít một hơi sâu đầy sảng khoái nhìn xuống thung lũng Tam Sơn.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay đầu sang @Joi, tay trái chỉ về phía hai ngọn Núi Đôi tròn trịa giữa thung lũng, mắt lấp lánh cười duyên. @Vy nói trực tiếp: Núi Đôi Cô Tiên tròn xoe kìa, nhìn giống hai cái bánh bao ghê!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi hạ chiếc máy ảnh Fujifilm đeo cổ xuống ngực, nhìn @Vy cười tủm tỉm đầy chiều chuộng. @Joi đáp trực tiếp: Đi ngắm kỳ quan địa chất mà tâm hồn em toàn nghĩ tới đồ ăn!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy giả vờ lườm yêu rồi huých nhẹ khuỷu tay vào hông @Joi, @Joi bật cười vòng tay qua vai @Vy, cả hai cùng hướng ánh mắt ngắm nhìn toàn cảnh thung lũng Quản Bạ ngập nắng. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
 
----
-
-### [KỊCH BẢN ĐẠO DIỄN HÀNH ĐỘNG TỪNG GIÂY — 10 GIÂY LIÊN TỤC]
-
-**00:00–00:03.0 | TIẾP NỐI HÀNH ĐỘNG MATCH-CUT TỪ CLIP 1 (EXT. ĐÈO ĐÁ ĐỒNG VĂN — TRACKING SHOT)**
-- **Máy quay:** Tracking Rig Shot gắn chếch phía trước ghi-đông, chuyển động lùi êm ái cùng tốc độ xe, bắt trọn nửa thân trên hai nhân vật đang đội mũ bảo hiểm 3/4 vi vu trên xe. Hậu cảnh là triền đèo đá và thảm hoa tam giác mạch hồng tím uốn lượn trôi lùi.
-- **Hành động:** Xe lướt êm ái qua khúc cua thoai thoải, gió núi thổi tà khăn thổ cẩm của @Vy bay bồng bềnh, @Vy áp sát người vào lưng @Joi tận hưởng khí trời mát lạnh.
-- **Âm thanh (Foley):** Tiếng động cơ 400cc gầm gừ trầm ấm, tiếng gió rít qua mũ bảo hiểm vù vù, tiếng lá cờ nhỏ phần phật sau xe.
-
-**00:03.0–00:05.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @VY (CLOSE-UP SPEAKER LOCK)**
-- **Máy quay:** Zoom nhẹ KHÓA CHẶT cận cảnh gương mặt tươi vui của @Vy lộ rõ sau mũ 3/4 kem be.
-- **Hành động:** @Vy rướn người nhổm lên, ghé sát tai @Joi rồi nhìn thẳng vào ống kính reo lên phấn khích. Cơ mặt rạng rỡ, hàm răng trắng và khuôn môi mở to cử động khớp 100% từng âm tiết tiếng Việt trong trẻo.
-- **Thoại @Vy** *(giọng nữ trong trẻo, reo vui sảng khoái, khớp 100% khẩu hình — ~12 âm tiết / 2.5 giây):*
-  > *"Đường đèo Đồng Văn mùa tam giác mạch đẹp mê hồn luôn anh ơi!"*
-
-**00:05.5–00:07.5 | CẬN CẢNH KHÓA CHẶT GƯƠNG MẶT @JOI (CLOSE-UP SPEAKER LOCK)**
-- **Máy quay:** Lia êm ái khóa chặt gương mặt @Joi dưới mũ 3/4 xanh rêu nhám.
-- **Hành động:** @Joi liếc nhìn @Vy qua gương chiếu hậu tròn vintage, bật cười hào sảng, miệng cử động khớp chính xác từng âm tiết tiếng Việt trầm ấm.
-- **Thoại @Joi** *(giọng nam trầm ấm, cười hào sảng, khớp 100% khẩu hình — ~11 âm tiết / 2 giây):*
-  > *"Cảnh sắc Hà Giang uốn lượn hùng vĩ thật sự em à!"*
-
-**00:07.5–00:10.0 | ĐỆM HÀNH ĐỘNG VẬT LÝ — DỪNG XE, THÁO MŨ & BƯỚC VÀO QUÁN (SILENT BUFFER & PROP BLOCKING)**
-- **Âm thanh lời thoại:** TUYỆT ĐỐI IM LẶNG — 100% KHÔNG CÓ THOẠI.
-- **Máy quay:** Giữ góc tracking mở rộng ngang tầm thân xe khi xe dừng trước cổng Phố Cổ Đồng Văn.
-- **Hành động vật lý logic:**
-  - `00:07.5`: Dứt tiếng nói, @Joi bóp nhẹ phanh, xe giảm tốc êm ái tấp sát hè đường lát đá trước cửa quán gỗ mộc mạc treo biển lồng đèn cổ. @Joi hạ chân chống nghiêng.
-  - Xe dừng hẳn: @Vy và @Joi đồng thời đưa hai tay lên dưới cằm, ngón tay **ấn vào lẫy khóa quai nón** phát ra tiếng nhả chốt "tách".
-  - Cả hai nâng mũ bảo hiểm nhấc ra khỏi đầu, để lộ mái tóc hơi rối nhẹ bay trong gió núi.
-  - @Vy luồn quai mũ kem vào cổ tay trái bước xuống xe; @Joi cầm quai mũ rêu tay phải, dắt tay @Vy cùng bước qua bậc cửa gỗ mộc mạc vào quán bánh cuốn.
-- **Âm thanh (Foley):** Tiếng rà phanh êm ái, tiếng "tách" đanh gọn 2 chốt quai mũ nhả khóa, tiếng đế boots bước xuống thềm đá, tiếng bước chân qua ngưỡng cửa gỗ "kẽo kẹt", tiếng động cơ lịm dần.
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió đèo thổi rì rào qua khe núi ở độ cao 1.500m, tiếng màn trập máy ảnh cơ tách nhẹ một tiếng lúc đầu cảnh.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo Mông hòa quyện guitar acoustic nhẹ nhàng, sâu lắng (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [KHUNG HÌNH CUỐI & MATCH-CUT CHUYỂN TIẾP SANG CLIP 3]
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
 
-- **Khung hình cuối (00:09.5–00:10):** @Vy và @Joi tay cầm mũ bảo hiểm 3/4 vintage, tay trong tay bước qua bậc cửa gỗ quán ăn Phố Cổ Đồng Văn, phía trong làn khói nghi ngút bốc lên từ nồi tráng bánh cuốn. **Giữ cố định 0.5s cuối.**
-- **Nối cảnh Clip 3:** Tiếp nối chính xác bước chân hai người bước vào bàn gỗ, đặt mũ bảo hiểm xuống bàn.
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng tựa bên lan can đá điểm vọng cảnh Cổng Trời Quản Bạ (mũ bảo hiểm đã treo gọn trên ghi-đông xe Scrambler đậu sát lề phải cách đó 2m); @Vy chống hai tay lên lan can, hít một hơi sâu đầy sảng khoái nhìn xuống thung lũng Tam Sơn. | *(Không thoại — âm thanh môi trường sống động)* | Camera bắt đầu từ góc nghiêng sau vai @Vy và @Joi (Over-the-shoulder Medium-Wide) lấy trọn Núi Đôi Quản Bạ dưới thung lũng, sau đó lướt vòng cung mượt mà ra phía trước mặt @Vy. |
+| **00:01.5 – 00:04.5** | @Vy quay đầu sang @Joi, tay trái chỉ về phía hai ngọn Núi Đôi tròn trịa giữa thung lũng, mắt lấp lánh cười duyên. | **@Vy**: Núi Đôi Cô Tiên tròn xoe kìa, nhìn giống hai cái bánh bao ghê! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi hạ chiếc máy ảnh Fujifilm đeo cổ xuống ngực, nhìn @Vy cười tủm tỉm đầy chiều chuộng. | **@Joi**: Đi ngắm kỳ quan địa chất mà tâm hồn em toàn nghĩ tới đồ ăn! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy giả vờ lườm yêu rồi huých nhẹ khuỷu tay vào hông @Joi, @Joi bật cười vòng tay qua vai @Vy, cả hai cùng hướng ánh mắt ngắm nhìn toàn cảnh thung lũng Quản Bạ ngập nắng. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Medium Two-Shot) thấy rõ cả hai người đứng bên lan can đá cùng toàn cảnh Núi Đôi phía sau, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [LOẠI TRỪ — NEGATIVE PROMPT]
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-Lái xe không đội mũ bảo hiểm, mũ bảo hiểm tự nhiên biến mất không có động tác tháo quai, mũ bảo hiểm che kín mặt (fullface), tiếng nói không khớp khẩu hình môi miệng, lệch hình và tiếng (voiceover/desync), tiếng @Vy nhưng cam quay @Joi, tiếng @Joi nhưng cam quay @Vy, camera quay cảnh vật khi có lời thoại, mấp máy môi không tiếng, có tiếng nhưng môi đứng yên, lời thoại ở 2.5 giây cuối (00:07.5–00:10), đọc sai địa danh, không viết hoa địa danh, thông tin nhân vật hiển thị, thẻ tên, profile card, người lạ lọt vào khung hình, phụ đề, chữ viết, watermark.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt vòng cung mượt mà (Smooth Orbital Arc & Controlled Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera bắt đầu từ góc nghiêng sau vai @Vy và @Joi (Over-the-shoulder Medium-Wide) lấy trọn Núi Đôi Quản Bạ dưới thung lũng, sau đó lướt vòng cung mượt mà ra phía trước mặt @Vy.
+  2. `00:01.5 – 00:07.5`: Giữ cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s) với hậu cảnh thung lũng Tam Sơn mờ nhẹ, rồi lia êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Medium Two-Shot) thấy rõ cả hai người đứng bên lan can đá cùng toàn cảnh Núi Đôi phía sau, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/4.0, độ sâu trường ảnh vừa phải giúp gương mặt sắc nét mà vẫn nhận diện rõ hình dáng hai ngọn Núi Đôi Cô Tiên ở hậu cảnh.
+
+---
+
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
+
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng thấy lưng và góc nghiêng của @Vy, @Joi đứng bên lan can đá Cổng Trời Quản Bạ, phía trước là thung lũng Tam Sơn và Núi Đôi Cô Tiên.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình trung hai người (Two-Shot) @Joi khoác vai @Vy bên lan can đá Quản Bạ, gió đèo thổi nhẹ tóc và khăn rằn, nối mượt về cảm xúc sang hành trình đi Phố Cáo ở Clip 3.
+
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ núi nhọn hoắt kiểu Alps châu Âu; Núi Đôi Quản Bạ phải là hai quả đồi đá vôi tròn trịa đối xứng giữa thung lũng bằng phẳng.

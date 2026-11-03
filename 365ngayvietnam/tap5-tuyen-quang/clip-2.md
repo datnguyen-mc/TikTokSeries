@@ -1,83 +1,74 @@
-# TẬP 5 — TUYÊN QUANG · CLIP 2/9: MƯA RÀO GIỮA ĐƯỜNG — TẤP VÀO HIÊN QUÁN, MẶC ÁO MƯA BỘ
-**MÃ:** TQ-C02 · **GIỜ TRONG PHIM:** khoảng 13:05, thứ Hai 26/10/2026, mưa rào vừa đổ · **ĐỊA ĐIỂM:** hiên mái tôn rộng của một quán tạp hóa ven QL37 phía Sơn Dương, Tuyên Quang (vị trí ước tính); xe đỗ trên nền xi măng trước quán, ra khỏi lòng đường · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm roadside rain shelter
-
-> ⏰ **Vì sao có cảnh này:** dự báo Open-Meteo (lấy ngày 26/10/2026) cho Tân Trào: mưa rào khả năng 61–72% từ 12:00, mưa nhẹ, tổng khoảng 2,6 mm. Mưa đổ khi còn khoảng nửa giờ đường tới Tân Trào (ước tính), nên tấp vào hiên quán ven đường mặc áo mưa rồi đi tiếp chứ không đợi tạnh. Không đứng tránh mưa dưới gầm cầu vì gây cản trở giao thông (CSGT TP.HCM, báo Pháp Luật TP.HCM).
-> 🧥 **Mẹo chạy mưa trong clip:** mặc áo mưa rời, còn gọi là áo mưa bộ (áo và quần riêng), giữ khoảng cách an toàn, phanh sớm hơn để tránh phanh gấp, trượt bánh (Tạp chí Công Thương, 02/08/2019). Áo mưa trong suốt để vẫn thấy trọn trang phục. Balo 50L của @Joi trùm tấm che mưa xanh rêu.
-> 🔗 **Nối cảnh:** vào từ màn mưa trắng xóa trên mặt đường (khung cuối Clip 1) · ra bằng **giọt mưa nhỏ từ mép mái tôn** ở tiền cảnh, đèn hậu đỏ nhòe trong mưa → Clip 3 mở từ giọt nước nhỏ từ lá đa sau cơn mưa.
+# TQ-C02 — Tập 5: Tuyên Quang — Miền Đất Lịch Sử & Cổ Tích Na Hang | Clip 2: Lán Nà Nưa & Đình Tân Trào — Giữa Rừng Xanh Việt Bắc
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover; không có tiếng @Vy khi máy quay @Joi và ngược lại.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Thoại chỉ nằm trong 00:03.0–00:07.5;** 00:07.5–00:10 hoàn toàn không thoại (clip chuyển địa điểm: lăn bánh đi tiếp trong mưa).
-- **Mũ bảo hiểm:** cả hai VẪN ĐỘI và CÀI QUAI suốt clip vì chỉ dừng vài phút để mặc áo mưa. Kính đẩy cao khi đứng dưới hiên và nói, gạt xuống trước khi lăn bánh. Mũ 3/4 lộ trọn gương mặt và môi.
-- **Áo mưa bộ trong suốt:** áo có mũ trùm và quần rời, nhựa trong như kính, mặc ra ngoài trang phục nên vẫn thấy rõ áo khoác hồng đất của @Vy và áo canvas xanh rêu của @Joi. Mũ trùm của áo mưa để buông sau gáy, không trùm lên mũ bảo hiểm. Không dùng áo mưa cánh dơi.
-- **An toàn:** xe đỗ trên nền xi măng trước quán, ra khỏi lòng đường; khi đi tiếp thì bật đèn, nhìn gương, nhập làn phải chậm rãi.
-- **Chủ quán và người qua đường:** nét mờ hoặc ngoài khung, không nói, không cận mặt.
-- **Địa danh viết hoa:** Tuyên Quang, Sơn Dương, Tân Trào.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa biển hiệu quán, bảng giá, nhãn hàng có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Lán Nà Nưa và Đình Tân Trào nằm trong quần thể Khu di tích Quốc gia đặc biệt Tân Trào (xã Tân Trào, huyện Sơn Dương). Lán Nà Nưa là căn lán nhỏ dựng bằng tre nứa theo kiểu nửa sàn nửa đất của người Tày dưới chân núi Nà Nưa (nơi Bác Hồ ở và làm việc mùa hè 1945); Đình Tân Trào là nơi họp Quốc dân Đại hội tháng 8/1945.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 08:30 sáng dưới tán rừng tre nứa xanh mát của dãy núi Nà Nưa.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Nắng sớm xuyên qua rừng vầu, rừng nứa xanh rì chiếu xuống lối bậc đá dẫn lên khu vực Lán Nà Nưa.
+- **Nguồn đối chiếu thực tế**: Khu di tích Quốc gia đặc biệt Tân Trào (Bộ VHTTDL, Cổng TTĐT tỉnh Tuyên Quang).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Màn mưa rào trắng xóa quất xiên trên mặt QL37, khớp khung cuối Clip 1. Máy lia theo chiếc Scrambler đèn pha vàng đang rẽ khỏi đường, tấp vào dưới hiên mái tôn rộng của một quán tạp hóa ven đường; nước mưa xối thành rèm từ mép mái.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Lối đi bậc đá sạch sẽ dưới tán rừng tre nứa và cây gỗ cổ thụ xanh mát dẫn lên Lán Nà Nưa (xã Tân Trào, Sơn Dương): phía sau ở khoảng cách tôn nghiêm là căn lán nhỏ bằng tre lợp lá cọ mộc mạc ẩn mình dưới chân núi rừng Việt Bắc.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng rừng ban mai 08:30 (Forest Dappled Light) lọc qua tán lá tre nứa xanh biếc tạo bầu không khí mát dịu, thanh khiết trên gương mặt @Vy và @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Thân tre nứa và lá rừng đung đưa nhẹ theo làn gió núi, những đốm nắng lấp lánh trên lối đi lát đá. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi bước chậm rãi trên lối đá dưới tán rừng Nà Nưa rồi dừng lại ở khoảng cách trang nghiêm nhìn về phía căn lán tre mộc mạc.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, giọng nói nhẹ nhàng trầm lắng giữa rừng xanh. @Vy nói trực tiếp: Căn lán Nà Nưa nhỏ nhắn bằng tre nứa vậy mà làm nên lịch sử lớn lao!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi gật đầu đồng cảm, nhìn quanh rừng tre xanh mát rồi mỉm cười hiền hòa với @Vy. @Joi đáp trực tiếp: Giữa rừng Việt Bắc yên bình thế này, lòng mình cũng thấy tĩnh lại hẳn luôn!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy mỉm cười ấm áp, cả hai cùng đứng lặng ngắm nhìn không gian rừng Nà Nưa xanh mát trước khi tiếp tục hành trình. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng lá tre xào xạc nhẹ trong gió, tiếng suối nhỏ chảy róc rách từ xa, tiếng chim rừng.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo trúc nhẹ nhàng, sâu lắng (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Hiên quán tạp hóa ven đường:** mái tôn rộng nhô ra trên nền xi măng, nước mưa chảy thành rèm từ mép mái; bên trong tối và mờ, vài kệ hàng nét mờ không thấy chữ, một chiếc ghế nhựa xanh dựng sát tường.
-- **Mặt đường QL37 phía sau:** ướt loáng, bắn bọt khi mưa quất; một xe máy khác chạy qua nét mờ, đèn bật.
-- **Scrambler 400cc:** đỗ dưới hiên, chân chống nghiêng, máy đã tắt; túi da bên phải mở nắp, hai bộ áo mưa trong suốt đang được kéo ra.
-- **Hai bộ áo mưa bộ trong suốt:** áo có mũ trùm và khóa kéo, quần ống rộng chun gấu, gấp gọn trong túi nilon trong.
-- **Tấm che mưa balo:** màu xanh rêu, viền chun.
-- **Hai mũ 3/4 vintage:** kem be của @Vy, xanh rêu của @Joi, kính trong suốt lấm tấm nước; đội và cài quai suốt clip.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi bước chậm rãi trên lối đá dưới tán rừng Nà Nưa rồi dừng lại ở khoảng cách trang nghiêm nhìn về phía căn lán tre mộc mạc. | *(Không thoại — âm thanh môi trường sống động)* | Camera trượt chậm ở khung hình trung rộng thấy rõ lối đá dưới tán rừng Nà Nưa và căn lán tre phía sau @Vy, @Joi. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, giọng nói nhẹ nhàng trầm lắng giữa rừng xanh. | **@Vy**: Căn lán Nà Nưa nhỏ nhắn bằng tre nứa vậy mà làm nên lịch sử lớn lao! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi gật đầu đồng cảm, nhìn quanh rừng tre xanh mát rồi mỉm cười hiền hòa với @Vy. | **@Joi**: Giữa rừng Việt Bắc yên bình thế này, lòng mình cũng thấy tĩnh lại hẳn luôn! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy mỉm cười ấm áp, cả hai cùng đứng lặng ngắm nhìn không gian rừng Nà Nưa xanh mát trước khi tiếp tục hành trình. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera giữ khung hình đôi (Two-Shot) thanh tịnh giữa rừng Nà Nưa và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất kéo khóa kín, khăn len thổ cẩm đỏ cam nhét gọn vào cổ áo, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo (sau khi mặc áo mưa thì túi nằm trong áo mưa); vài lọn tóc mai lấm tấm nước mưa; đội mũ kem be cài quai.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu kéo khóa kín, cargo be cát, boots da sáp nâu sẫm, balo 50L tạm đặt trên yên xe; đội mũ xanh rêu cài quai.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:03.0 | TỪ MÀN MƯA VÀO HIÊN QUÁN**
-- **Máy:** từ màn mưa trên mặt đường, lia theo xe vào dưới hiên rồi dừng ở trung cảnh hai người cạnh xe.
-- **Hành động:** @Joi tắt máy, chống chân; cả hai bước xuống, đẩy kính chắn lên cao. @Joi mở túi da hông xe, đưa cho @Vy một bộ áo mưa trong suốt. Cả hai xỏ chân vào quần mưa trùm ra ngoài boots, kéo chun lên eo.
-- **Âm thanh:** mưa rào rào trên mái tôn, nước xối từ mép mái, xe qua đường bắn nước. Không thoại.
-
-**00:03.0–00:05.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy dưới mũ kem be, kính đẩy cao; rèm nước mưa từ mép mái mờ phía sau.
-- **Hành động:** @Vy luồn tay vào áo mưa trong suốt, khoác qua vai, kéo khóa lên tới cổ, vừa làm vừa nói với @Joi, mắt cười.
-- **Thoại @Vy** *(giọng nữ trong trẻo, nhanh nhảu như mách mẹo, giọng miền Nam — 11 âm tiết / 2,5 giây):*
-  > *Mưa rồi, mặc áo mưa bộ cho dễ lái nha anh!*
-
-**00:05.5–00:07.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi dưới mũ xanh rêu, kính đẩy cao.
-- **Hành động:** @Joi đã mặc xong áo mưa, kéo khóa, gật đầu chắc chắn, đưa tay chỉnh lại mép mũ trùm áo mưa sau gáy @Vy cho khỏi bay.
-- **Thoại @Joi** *(giọng nam trầm ấm, điềm tĩnh, che chở — 8 âm tiết / 2 giây):*
-  > *Ừ, anh giữ khoảng cách, phanh sớm nha!*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — TRÙM BALO, BẬT ĐÈN, CHẠY VÀO MƯA**
-- **Thoại:** không.
-- **Hành động:** @Joi đeo balo 50L ra ngoài áo mưa, kéo tấm che mưa xanh rêu trùm kín balo. Cả hai ngồi lên xe, gạt kính chắn xuống, có tiếng click khẽ; @Joi nổ máy, đèn pha vàng bật sáng; nhìn gương rồi chạy chậm ra làn phải của QL37, lăn vào màn mưa.
-- **Máy:** đứng lại dưới hiên; giọt mưa nhỏ từ mép mái tôn ở tiền cảnh, đèn hậu đỏ của xe nhòe dần trong mưa.
-- **Âm thanh:** máy nổ, tiếng mưa đều, đàn Tính và guitar gảy chậm theo nhịp mưa.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt chậm dọc lối rừng kết hợp lia ngang (Slow Forest Path Dolly & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera trượt chậm ở khung hình trung rộng thấy rõ lối đá dưới tán rừng Nà Nưa và căn lán tre phía sau @Vy, @Joi.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera giữ khung hình đôi (Two-Shot) thanh tịnh giữa rừng Nà Nưa và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, giữ rõ kết cấu tre nứa tự nhiên và ánh sáng xanh dịu của rừng Việt Bắc.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Guitar acoustic gảy chậm, đàn Tính điểm vài nốt như giọt mưa; tông ấm, không buồn. Âm thanh môi trường: mưa trên mái tôn, nước xối, xe qua đường bắn nước.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI → CLIP 3]
-Tiền cảnh là một giọt mưa đọng ở mép mái tôn sắp rơi; hậu cảnh là đèn hậu đỏ của chiếc Scrambler nhòe trong màn mưa trên QL37. Giữ cố định 0,5 giây. Clip 3 mở từ giọt nước nhỏ xuống từ lá đa sau cơn mưa.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung dưới tán rừng xanh Nà Nưa (Tân Trào), @Vy và @Joi đứng trên lối đá gần căn lán tre.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi mỉm cười hiền hòa giữa rừng xanh Nà Nưa.
 
-### [LOẠI TRỪ]
-Tháo mũ bảo hiểm dưới hiên, mũ biến mất khỏi đầu, chạy xe khi kính còn đẩy cao, áo mưa cánh dơi, áo mưa màu đục che kín trang phục, mũ trùm áo mưa che mặt, đứng tránh mưa dưới gầm cầu, đỗ xe giữa lòng đường, chạy xe không bật đèn, sét đánh, bão, ngập nước, chủ quán nói hoặc cận mặt, biển hiệu quán, bảng giá, nhãn hàng có chữ, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:03.0 hoặc trong 00:07.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhồi nhét cảnh đội mũ bảo hiểm hay chạy xe máy trong khu rừng di tích đi bộ Lán Nà Nưa.

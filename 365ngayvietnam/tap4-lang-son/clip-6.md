@@ -1,84 +1,74 @@
-# TẬP 4 — XỨ LẠNG · CLIP 6/7: CHỢ ĐÊM KỲ LỪA DƯỚI TRĂNG — PHỞ CHUA & KHÂU NHỤC
-**MÃ:** LS-C06 · **GIỜ TRONG PHIM:** 19:15, tối Chủ nhật 25/10/2026 · **ĐỊA ĐIỂM:** một sạp ăn ở Chợ Đêm Kỳ Lừa, Phố Kỳ Lừa, phường Kỳ Lừa (trước là phường Hoàng Văn Thụ), Lạng Sơn · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm night market warm lamplight & moonlight
-
-> ⏰ **Vì sao đi giờ này:** Xuống Núi Phai Vệ trước 18:00, chạy vài cây số trong phố sang Phố Kỳ Lừa. Theo mia.vn (01/06/2026), các sạp chợ đêm vẫn bày từ chập tối vào các tối thường; chưa có giờ mở, đóng cửa chính thức. 25/10/2026 là Chủ nhật nên không có phố đi bộ Kỳ Lừa (chỉ mở tối thứ Sáu và thứ Bảy, 18:00–24:00), cũng không phải ngày chợ phiên (họp các ngày âm lịch có đuôi 2 và 7, còn 25/10 là 16/9 âm): cảnh chỉ có các sạp chợ đêm, không sân khấu, không biểu diễn. Trăng mười sáu đã lên cao ở phía đông, sáng khoảng 99%. Ăn tối 19:00–20:00, không rượu vì sáng mai còn chạy xe đi Ải Chi Lăng.
-> 🍲 **Món:** **phở chua**: phở khô trộn, xếp lớp bánh phở, khoai lang thái sợi chiên giòn, gan lợn, thịt gà xé, lạp sườn, lạc rang, hành phi, dưa chuột; rưới nước sốt vàng sánh rồi trộn đều; vị chua đến từ dấm chuối tây chín (VnExpress 11/12/2014; Znews 2011). **Khâu nhục**: ba chỉ rán da trước rồi hấp cách thủy nhiều giờ tới mềm rục, có tàu soi (cải mén muối) của người Tày, Nùng; món cỗ Tết, cỗ cưới, mừng nhà mới; ăn với xôi hoặc cơm. Cảnh nền: lợn quay mắc mật treo móc, da phồng rộp vàng nâu (món nổi bật của chợ đêm theo VnExpress 2015) và lạp xưởng Lạng Sơn nướng xèo trên than; cả hai chỉ làm nền để không lặp món lạp sườn gác bếp của Tập 3. Đồ uống: trà nóng, không rượu bia.
-> 🔗 **Nối cảnh:** vào từ vầng trăng mười sáu (khung cuối Clip 5), máy hạ từ trăng xuống mái bạt các sạp chợ đêm; ngoài khung, giữa hai clip, hai người xuống núi, đội mũ, cài quai, chạy trong phố tới chợ, dựng xe, tháo mũ mang theo vào sạp · ra bằng **máy ngửa lên vầng trăng** → Clip 7 mở bằng máy hạ từ bầu trời xanh sáng thứ Hai xuống thung lũng Chi Lăng; một đêm nghỉ trong phố được ngầm hiểu.
+# LS-C06 — Tập 4: Lạng Sơn — Đỉnh Cao Gió Ngàn | Clip 6: Đỉnh Mẫu Sơn — Chạm Tay Vào Biển Mây Đại Ngàn
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover; không có tiếng @Vy khi máy quay @Joi và ngược lại. Chỉ quay món ăn trong khoảng không có thoại; không vừa nhai vừa nói.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép:** chỉ nói thành tiếng, không hiện chữ trên hình.
-- **Ánh sáng:** đèn vàng của sạp chiếu ấm lên mặt hai người, đủ sáng để thấy rõ khẩu hình; ánh trăng bạc phía trên mái bạt.
-- **Thoại chỉ nằm trong 00:03.0–00:07.5;** 00:07.5–00:10 hoàn toàn không thoại.
-- **Tối Chủ nhật:** chỉ có các sạp chợ đêm. Không sân khấu phố đi bộ, không biểu diễn, không đám đông chặn đường.
-- **Không rượu bia:** chỉ uống trà nóng vì sáng mai còn chạy xe.
-- **Mũ bảo hiểm:** hai mũ 3/4 đặt ở đầu bàn gỗ, luôn thấy trong khung khi máy ở bàn ăn; không ai chạm vào mũ trong clip. Không đội mũ khi ngồi ăn.
-- **Người bán và khách xung quanh:** nét mờ, không nói, không cận mặt.
-- **Địa danh viết hoa:** Chợ Đêm Kỳ Lừa, Phố Kỳ Lừa, Lạng Sơn.
-- Một cú máy liền 10 giây, không cắt cảnh. Không phụ đề, không chữ, không watermark, không thẻ tên.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Khu du lịch Mẫu Sơn nằm tại xã Mẫu Sơn, huyện Lộc Bình (và một phần huyện Cao Lộc), tỉnh Lạng Sơn, cách TP. Lạng Sơn khoảng 30 km về phía Đông theo Quốc lộ 4B rẽ lên đường đèo Mẫu Sơn. Đỉnh Mẫu Sơn cao khoảng 1.541m so với mực nước biển, nổi tiếng với khí hậu ôn đới quanh năm có mây mù bao phủ, những ngôi biệt thự đá cổ kiểu Pháp rêu phong và thảo nguyên cỏ trên sống lưng núi.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 17:00 hoàng hôn trên đỉnh Mẫu Sơn, nhiệt độ khoảng 12–14°C với biển mây cuồn cuộn dưới chân núi.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Biển mây trắng bồng bềnh nhuộm ánh hoàng hôn vàng cam và hồng tím dưới chân đỉnh Mẫu Sơn lộng gió.
+- **Nguồn đối chiếu thực tế**: Khu du lịch Quốc gia Mẫu Sơn (Cổng TTĐT tỉnh Lạng Sơn).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Vầng trăng mười sáu tròn vàng nhạt, khớp khung cuối Clip 5, nay trên trời đêm đã xanh thẫm. Máy bắt đầu hạ xuống những mái bạt sáng đèn vàng của Chợ Đêm Kỳ Lừa.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm ngắm cảnh trên đỉnh núi Mẫu Sơn (huyện Lộc Bình, Lạng Sơn) ở độ cao 1.541m: tiền cảnh là thềm đá cổ rêu phong và lan can đá bên sườn núi cỏ xanh, phía dưới và trải dài ra tận chân trời là biển mây trắng xóa bồng bềnh ôm lấy các đỉnh núi nhỏ dưới ánh hoàng hôn.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng hoàng hôn vùng núi cao lúc 17:00 (Alpine Sunset Golden Hour) chiếu ngang trên mặt biển mây, tạo ánh sáng vàng cam ấm áp rực rỡ trên gương mặt @Vy, @Joi tương phản với sắc xanh tím của bóng mây phía dưới. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Biển mây dưới chân đỉnh Mẫu Sơn trôi bồng bềnh chậm rãi tự nhiên, gió đỉnh núi thổi làm tóc và khăn rằn của @Vy bay phần phật nhẹ. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng cạnh nhau trên thềm đá đỉnh Mẫu Sơn trước biển mây hoàng hôn; @Vy kéo nhẹ cổ áo khoác gió vàng mù tạt vì cái lạnh vùng cao rồi mỉm cười nhìn biển mây.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, hai má ửng hồng nhẹ trong gió lạnh Mẫu Sơn, mắt long lanh. @Vy nói trực tiếp: Đỉnh Mẫu Sơn cao hơn ngàn rưỡi mét, đứng đây chạm tay vô biển mây luôn nè!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi choàng cánh tay qua vai kéo @Vy lại gần cho ấm, mỉm cười dịu dàng mà dí dỏm. @Joi đáp trực tiếp: Gió Mẫu Sơn lạnh thiệt, may mà anh có cục sưởi ấm mang tên Vy kế bên!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười hạnh phúc tựa đầu vào vai @Joi, cả hai đứng sát bên nhau ngắm nhìn mặt trời hoàng hôn dần lặn xuống biển mây đỉnh Mẫu Sơn. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió đỉnh núi cao 1.500m thổi rì rào đặc trưng.
+- **Nhạc nền (Subtle Background Score)**: Giai điệu piano và đàn dây lãng mạn, sâu lắng dưới ánh hoàng hôn (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Dãy sạp chợ đêm dưới đèn vàng:** móc treo những tảng lợn quay mắc mật da phồng rộp vàng nâu; bếp than với vỉ lạp xưởng đỏ nâu đang xèo mỡ, khói thơm bốc lên.
-- **Xa hơn, nét mờ:** sạp thổ cẩm dệt tay, nón lá.
-- **Bàn gỗ thấp, ghế đẩu:** đĩa phở chua nhiều màu (sợi khoai lang cam giòn, lạc rang, lạp sườn đỏ, gan, gà xé, dưa chuột xanh, hành phi), bát nước sốt vàng sánh; bát khâu nhục úp với những miếng ba chỉ dày da nâu sẫm nhăn bóng, lớp tàu soi bên dưới; đĩa xôi trắng; hai chén trà nóng bốc khói.
-- **Hai mũ 3/4** (kem be, xanh rêu) đặt ở đầu bàn. Balo 50L của @Joi dưới chân bàn.
-- **Người bán và khách xung quanh:** nét mờ, không nói, không cận mặt.
-- Không có sân khấu, loa biểu diễn hay đám đông phố đi bộ. Không đưa vào khung biển hiệu, bảng giá hay nhãn có chữ.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng cạnh nhau trên thềm đá đỉnh Mẫu Sơn trước biển mây hoàng hôn; @Vy kéo nhẹ cổ áo khoác gió vàng mù tạt vì cái lạnh vùng cao rồi mỉm cười nhìn biển mây. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng thấy rõ @Vy, @Joi đứng trên đỉnh Mẫu Sơn với biển mây hoàng hôn mênh mông phía sau. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, hai má ửng hồng nhẹ trong gió lạnh Mẫu Sơn, mắt long lanh. | **@Vy**: Đỉnh Mẫu Sơn cao hơn ngàn rưỡi mét, đứng đây chạm tay vô biển mây luôn nè! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi choàng cánh tay qua vai kéo @Vy lại gần cho ấm, mỉm cười dịu dàng mà dí dỏm. | **@Joi**: Gió Mẫu Sơn lạnh thiệt, may mà anh có cục sưởi ấm mang tên Vy kế bên! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười hạnh phúc tựa đầu vào vai @Joi, cả hai đứng sát bên nhau ngắm nhìn mặt trời hoàng hôn dần lặn xuống biển mây đỉnh Mẫu Sơn. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi lãng mạn (Two-Shot) khi @Vy tựa vai @Joi trước biển mây Mẫu Sơn và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất, khăn len thổ cẩm đỏ cam quấn hờ, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; ngồi ghế đẩu, ánh đèn vàng ấm trên mặt.
-- **@Joi:** henley xám, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm; ngồi ghế đẩu đối diện góc bàn, balo 50L dưới chân bàn.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:03.0 | TỪ VẦNG TRĂNG XUỐNG SẠP CHỢ ĐÊM**
-- **Máy:** hạ từ vầng trăng qua mái bạt, lướt qua móc lợn quay da phồng vàng nâu và vỉ lạp xưởng xèo khói, rồi tới bàn gỗ.
-- **Hành động:** @Vy rưới nước sốt vàng sánh lên đĩa phở chua, dùng đũa trộn đều, sợi khoai cam giòn lật lên. @Joi đang nhai miếng khâu nhục, gật gù.
-- **Âm thanh:** lạp xưởng xèo trên than, dao chặt lợn quay giòn rụm, tiếng chợ rì rầm.
-
-**00:03.0–00:05.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, đèn vàng hắt ấm lên má, sạp lợn quay mờ phía sau.
-- **Hành động:** @Vy nhấc một đũa phở chua quyện sốt vàng lên trước ống kính.
-- **Thoại @Vy** *(giọng nữ ngọt ngào, giọng miền Nam, hào hứng như mách mẹo — 9 âm tiết / 2,5 giây):*
-  > *Phở chua trộn đều, chua từ dấm chuối nha!*
-
-**00:05.5–00:07.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi; anh đã nuốt xong, không còn nhai.
-- **Hành động:** @Joi gắp một miếng khâu nhục, lớp da nâu sẫm rung rinh, giơ ngón cái.
-- **Thoại @Joi** *(giọng nam trầm ấm, sung sướng; hai chữ cuối đây chin là tiếng Tày, phát âm hơi lơ lớ — 7 âm tiết / 2 giây):*
-  > *Khâu nhục mềm tan luôn, đây chin!*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — CỤNG TRÀ, MÁY NGỬA LÊN TRĂNG**
-- **Thoại:** không.
-- **Hành động:** @Vy gắp một miếng khâu nhục đặt vào bát @Joi. Hai người cụng nhẹ hai chén trà nóng, cười; hai mũ 3/4 vẫn nằm ở đầu bàn.
-- **Máy:** ngửa lên khỏi bàn, qua mái bạt và làn khói than, lên vầng trăng mười sáu trên trời đêm trong.
-- **Âm thanh:** tiếng chợ xa dần, lo-fi acoustic jazz ấm.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt ngang kết hợp xoay vòng cung lãng mạn (Smooth Cloud-Peak Lateral Arc & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng thấy rõ @Vy, @Joi đứng trên đỉnh Mẫu Sơn với biển mây hoàng hôn mênh mông phía sau.
+  2. `00:01.5 – 00:07.5`: Đẩy nhẹ vào cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi lãng mạn (Two-Shot) khi @Vy tựa vai @Joi trước biển mây Mẫu Sơn và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 50mm f/2.5, tạo chiều sâu điện ảnh ấm áp giữa hai nhân vật và biển mây hoàng hôn.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Lo-fi acoustic jazz ấm áp của phố đêm, điểm vài nốt đàn Tính. Tiếng xèo của than nướng, tiếng dao chặt lợn quay, tiếng chợ rì rầm.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI → CLIP 7]
-Vầng trăng mười sáu tròn trên trời đêm trong, mép dưới khung còn viền mái bạt sáng đèn vàng và một làn khói than lạp xưởng. Giữ cố định 0,5 giây. Clip 7 mở bằng máy hạ từ bầu trời xanh sáng hôm sau xuống thung lũng Chi Lăng.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng trên đỉnh Mẫu Sơn lúc hoàng hôn, biển mây vàng cam trải rộng phía sau @Vy và @Joi.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy tựa vai @Joi ngắm hoàng hôn trên biển mây đỉnh Mẫu Sơn.
 
-### [LOẠI TRỪ]
-Sân khấu phố đi bộ, biểu diễn văn nghệ, đường đóng hay đông nghịt; rượu bia; biển hiệu, bảng giá, nhãn có chữ; người bán nói hoặc cận mặt; vừa nhai vừa nói; đội mũ khi ngồi ăn; mũ biến mất khỏi bàn; khâu nhục với khoai môn; lạp xưởng làm món chính; trăng khuyết; trời có sao dày đặc; mặt người nói tối, không thấy khẩu hình; tiếng nói không khớp khẩu hình; voiceover; tiếng @Vy khi máy quay @Joi và ngược lại; thoại trước 00:03.0 hoặc trong 00:07.5–00:10; cắt cảnh; phụ đề, chữ, watermark, thẻ tên.
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ tuyết rơi dày kiểu Bắc Âu; Mẫu Sơn lúc hoàng hôn có biển mây bồng bềnh và cỏ núi rêu phong.

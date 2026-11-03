@@ -1,85 +1,74 @@
-# TẬP 7 — YÊN BÁI · CLIP 5/9: ĐỒI MÂM XÔI LA PÁN TẨN — TRÁI TIM DI SẢN RUỘNG BẬC THANG MÙ CANG CHẢI
-**MÃ:** YB-C05 · **GIỜ TRONG PHIM:** 14:00, đầu chiều thứ Sáu 30/10/2026, nắng chiều trong trẻo · **ĐỊA ĐIỂM:** đường dạo ngắm cảnh đối diện Đồi Mâm Xôi thuộc xã La Pán Tẩn, huyện Mù Cang Chải, tỉnh Yên Bái (Danh thắng Quốc gia đặc biệt Ruộng bậc thang Mù Cang Chải) · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm terraced-rice-field heritage vista
-
-> ⏰ **Vì sao đi giờ này:** Sau bữa trưa và nghỉ ngơi tại Tú Lệ, hai người đội mũ 3/4 vượt hết cung Đèo Khau Phạ sang xã La Pán Tẩn (khoảng 30 km) và có mặt tại Đồi Mâm Xôi lúc 14:00 chiều. Nắng đầu giờ chiều chiếu rõ từng vòng cung ruộng bậc thang tròn đồng tâm trên đỉnh đồi, đồng thời còn đủ thời gian để đi tiếp sang Rừng Trúc Mù Cang Chải (15:15) và đón hoàng hôn tại Đồi Móng Ngựa Sáng Nhù (16:45).
-> 📍 **Check-in & thông tin kiểm chứng:** **Đồi Mâm Xôi** ở xã **La Pán Tẩn** là biểu tượng nổi tiếng nhất của **Danh thắng Quốc gia đặc biệt Ruộng bậc thang Mù Cang Chải** (được Thủ tướng Chính phủ xếp hạng Di tích Quốc gia đặc biệt cuối năm 2019). Những thửa ruộng bậc thang uốn lượn tròn trịa từ chân lên đỉnh đồi là kiệt tác canh tác lúa nước trên sườn núi cao do đồng bào người Mông khai phá, đắp bờ giữ nước bằng đôi bàn tay qua nhiều thế hệ (Cục Di sản văn hóa; Cổng thông tin điện tử tỉnh Yên Bái). Phép tắc nơi đến: gửi xe ở bãi dưới chân đồi, đi bộ trên đường mòn đất dành cho du khách, tuyệt đối không dẫm làm sạt bờ ruộng đất của bà con.
-> 🔗 **Nối cảnh:** vào từ hình khối tròn của mẹt xôi ngũ sắc ngập nắng cuối Clip 4 sang **khối tròn đồng tâm khổng lồ của Đồi Mâm Xôi La Pán Tẩn dưới nắng chiều** (ngoài khung: chạy từ Tú Lệ lên La Pán Tẩn, gửi xe Scrambler ở bãi chân đồi, nhả quai tháo hai mũ 3/4 móc trên ghi-đông rồi đi bộ lên điểm ngắm) · ra bằng **máy nâng nhẹ từ Đồi Mâm Xôi qua hàng cây xanh rì rào trên sườn núi cao** → Clip 6 mở bằng những thân trúc xanh mướt thẳng tắp hơn 60 năm tuổi trong Rừng Trúc Mù Cang Chải ở Bản Nả Háng Tủa Chử.
+# YB-C05 — Tập 7: Yên Bái — Nấc Thang Lên Trời Mùa Vàng | Clip 5: Đèo Khau Phạ — Bay Trên Mùa Vàng Tứ Đại Đỉnh Đèo
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt theo thời gian thực. Cấm voiceover, cấm tiếng người này khi máy quay người kia hoặc chỉ quay ruộng bậc thang.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (Quy tắc 4 từ Tập 5):** `00:00–00:01.0` nối cảnh từ Đồi Mâm Xôi sang hai người (không thoại) · `00:01.0–00:04.5` khóa cận mặt @Vy nói · `00:04.5–00:08.5` lia êm khóa cận mặt @Joi nói · `00:08.5–00:10.0` đệm minh họa không thoại: hai người nắm tay trên lối mòn ngắm trọn Đồi Mâm Xôi và rặng núi xanh phía xa.
-- **Mũ bảo hiểm (Quy tắc 9):** đang đi bộ tham quan trên đồi nên hai người KHÔNG đội hay cầm mũ bảo hiểm; chiếc Scrambler và hai mũ 3/4 đã đỗ và móc gọn tại bãi giữ xe dưới chân đồi (ngoài khung).
-- **Địa danh viết hoa:** Đồi Mâm Xôi, La Pán Tẩn, Mù Cang Chải, Yên Bái.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa bảng thu vé, biển quảng cáo có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Đèo Khau Phạ nằm trên Quốc lộ 32 thuộc huyện Mù Cang Chải (giáp huyện Văn Chấn), tỉnh Yên Bái. Đèo dài trên 30 km ở độ cao từ 1.200m đến hơn 1.500m so với mực nước biển (tiếng Thái 'Khau Phạ' nghĩa là 'Sừng Trời'). Điểm nhảy dù lượn 'Bay trên mùa vàng' trên đỉnh đèo Khau Phạ nhìn thẳng xuống toàn cảnh thung lũng ruộng bậc thang Cao Phạ và Lìm Mông rực vàng mùa lúa chín.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 14:30 chiều nắng rực rỡ tại điểm ngắm cảnh và bãi cất cánh dù lượn trên đỉnh Đèo Khau Phạ.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Phía xa trên bầu trời xanh trong của thung lũng Cao Phạ – Lìm Mông có hai cánh dù lượn nhiều màu sắc đang bay lượn êm ả trên biển lúa vàng.
+- **Nguồn đối chiếu thực tế**: Cổng TTĐT huyện Mù Cang Chải, Lễ hội dù lượn 'Bay trên mùa vàng' Đèo Khau Phạ (tỉnh Yên Bái).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Dưới nắng chiều vàng trong lúc 14:00, toàn cảnh Đồi Mâm Xôi ở xã La Pán Tẩn hiện ra với những bậc ruộng tròn đồng tâm xếp tầng đều đặn như một mâm xôi khổng lồ giữa đại ngàn (khớp hình tròn của mẹt xôi ở khung cuối Clip 4). Máy lia mượt từ đỉnh Đồi Mâm Xôi sang trung cận @Vy và @Joi đang đứng trên lối mòn đất phẳng đối diện.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm dừng ngắm cảnh trên đỉnh Đèo Khau Phạ (Quốc lộ 32, Mù Cang Chải): phía dưới thung lũng sâu là toàn cảnh cánh đồng ruộng bậc thang bản Lìm Mông – Cao Phạ chín vàng rực rỡ và con đường đèo uốn lượn, trên bầu trời xa có cánh dù lượn đang chao nghiêng.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng chiều 14:30 vàng rực chiếu sáng toàn bộ thung lũng lúa chín dưới chân Đèo Khau Phạ và tạo độ tương phản sống động trên gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Gió đèo Khau Phạ thổi lồng lộng làm tóc và khăn rằn của @Vy bay mạnh tự nhiên, cánh dù lượn ở hậu cảnh xa trôi êm trong không trung. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng bên lan can điểm ngắm cảnh trên đỉnh Đèo Khau Phạ cạnh chiếc Scrambler; cả hai ngước nhìn cánh dù lượn trên bầu trời rồi nhìn xuống thung lũng lúa vàng Lìm Mông.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, tay chỉ về phía cánh dù lượn trên nền thung lũng vàng rực. @Vy nói trực tiếp: Đỉnh đèo Khau Phạ cao vút như sừng trời, nhìn dù lượn bay trên mùa vàng mê ghê!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi nhìn xuống độ cao choáng ngợp của đèo Khau Phạ rồi quay sang @Vy cười tỉnh queo. @Joi đáp trực tiếp: Ngắm từ đây thì mê thiệt, chứ kêu anh nhảy dù xuống chắc anh xin làm phó nháy thôi!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười lớn trêu sự thật thà của @Joi, cả hai cùng đứng sát bên nhau ngắm nhìn bức tranh mùa vàng hùng vĩ từ đỉnh Đèo Khau Phạ. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió đỉnh đèo Khau Phạ thổi lồng lộng, âm vang không gian núi rừng rộng lớn.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo Mông kết hợp nhịp trống du lịch hào hùng, bay bổng (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Đồi Mâm Xôi (xã La Pán Tẩn, Mù Cang Chải):** ngọn đồi ruộng bậc thang hình tròn đồng tâm nổi bật giữa thung lũng núi cao; các bậc ruộng uốn lượn sắc nét với màu vàng óng của mùa gặt và màu nâu trầm của bờ đất đắp thủ công, cạnh đó là chòi tre mộc mạc không có biển chữ.
-- **Đường dạo ngắm cảnh:** lối mòn đất nện cao ráo, sạch sẽ dành cho du khách đứng ngắm toàn cảnh mà không bước vào lòng ruộng.
-- **Đạo cụ nhân vật:** @Vy đeo túi mây tròn chéo vai; @Joi đeo balo 50L sau lưng; không ai cầm mũ bảo hiểm.
-- Không đưa vào khung: bảng hiệu, biển giá vé có chữ, người lạ cận mặt.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng bên lan can điểm ngắm cảnh trên đỉnh Đèo Khau Phạ cạnh chiếc Scrambler; cả hai ngước nhìn cánh dù lượn trên bầu trời rồi nhìn xuống thung lũng lúa vàng Lìm Mông. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng thấy rõ @Vy, @Joi trên đỉnh Đèo Khau Phạ với thung lũng lúa vàng Lìm Mông và cánh dù lượn phía xa. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, tay chỉ về phía cánh dù lượn trên nền thung lũng vàng rực. | **@Vy**: Đỉnh đèo Khau Phạ cao vút như sừng trời, nhìn dù lượn bay trên mùa vàng mê ghê! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi nhìn xuống độ cao choáng ngợp của đèo Khau Phạ rồi quay sang @Vy cười tỉnh queo. | **@Joi**: Ngắm từ đây thì mê thiệt, chứ kêu anh nhảy dù xuống chắc anh xin làm phó nháy thôi! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười lớn trêu sự thật thà của @Joi, cả hai cùng đứng sát bên nhau ngắm nhìn bức tranh mùa vàng hùng vĩ từ đỉnh Đèo Khau Phạ. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) khoáng đạt trên đỉnh Đèo Khau Phạ và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [GÓC CHECK-IN — BỐ CỤC KHUNG HÌNH]
-- **Tiền cảnh:** vài bông cỏ lau chiều đung đưa nhẹ trong nắng vàng.
-- **Trung cảnh:** @Vy và @Joi đứng sát bên nhau trên lối mòn đất phẳng, tóc và khăn len bay nhẹ trong gió núi.
-- **Hậu cảnh:** trọn vẹn khối tròn đồng tâm của Đồi Mâm Xôi La Pán Tẩn và những dãy núi xanh trùng điệp của Mù Cang Chải.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt vòng cung trên đỉnh đèo kết hợp lia cận cảnh (Smooth Mountain-Pass Panorama Arc & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng thấy rõ @Vy, @Joi trên đỉnh Đèo Khau Phạ với thung lũng lúa vàng Lìm Mông và cánh dù lượn phía xa.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) khoáng đạt trên đỉnh Đèo Khau Phạ và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/4.0, giữ rõ thảm ruộng bậc thang vàng óng dưới thung lũng và chiều sâu không khí của tứ đại đỉnh đèo.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất, khăn len thổ cẩm đỏ cam quấn gọn, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; không đội mũ; gương mặt ửng nắng rạng rỡ lộ má lúm đồng tiền.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm, balo 50L sau lưng; không đội mũ; đứng cạnh @Vy, ánh mắt trầm trồ khâm phục.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng trên đỉnh Đèo Khau Phạ, @Vy và @Joi đứng ngắm thung lũng lúa chín vàng và cánh dù lượn phía xa.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi cười rạng rỡ trên đỉnh Đèo Khau Phạ lộng gió.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | TỪ KHỐI TRÒN ĐỒI MÂM XÔI LIA SANG HAI NGƯỜI**
-- **Máy:** từ đường cong tròn đồng tâm của Đồi Mâm Xôi dưới nắng chiều, lia mượt sang trung cận @Vy và @Joi trên lối mòn ngắm cảnh.
-- **Hành động:** @Vy đưa tay chỉ về phía những bậc ruộng xếp tầng tròn trịa trước mắt rồi quay sang ống kính.
-- **Âm thanh:** gió núi thổi qua sườn đồi, tiếng sáo trúc Tây Bắc ngân vang. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa chặt cận mặt @Vy, hậu cảnh là các vòng tròn ruộng bậc thang Đồi Mâm Xôi ngập nắng vàng.
-- **Hành động:** @Vy mỉm cười ngọt ngào lộ má lúm đồng tiền, tự hào chia sẻ với khán giả.
-- **Thoại @Vy** *(00:01.2–00:04.5; giọng nữ trong trẻo, say mê, giọng miền Nam — 14 âm tiết / 3,3 giây):*
-  > *Đồi Mâm Xôi ở La Pán Tẩn tròn đều như bức tranh luôn anh!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang khóa chặt cận mặt @Joi, ánh nắng chiều viền ấm trên mái tóc nâu và gương mặt nam tính.
-- **Hành động:** @Joi nhìn những bậc ruộng kỳ vĩ với sự trân trọng rồi nhìn @Vy và ống kính chia sẻ.
-- **Thoại @Joi** *(00:04.8–00:08.3; giọng nam trầm ấm, khâm phục — 14 âm tiết / 3,5 giây):*
-  > *Danh thắng ruộng bậc thang người Mông đắp tay hàng trăm năm đó em!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA KHÔNG THOẠI — NẮM TAY NGẮM ĐỒI & RẶNG XANH ĐẠI NGÀN**
-- **Thoại:** không.
-- **Hành động:** @Joi nắm tay @Vy, hai người cùng nhìn ra toàn cảnh Đồi Mâm Xôi và những sườn núi phủ cây xanh mướt phía trên cao.
-- **Máy:** từ hai người nâng nhẹ qua Đồi Mâm Xôi hướng lên mảng rừng xanh thẫm rì rào trên triền núi cao để nối sang cảnh Rừng Trúc Mù Cang Chải ở Clip 6.
-- **Âm thanh:** tiếng sáo trúc hòa cùng guitar acoustic sâu lắng, tiếng gió chiều.
-
----
-
-### [ÂM THANH & NHẠC]
-Cinematic folk Tây Bắc hào hùng mà trữ tình với tiếng sáo trúc và khèn Mông ngân nhẹ phía xa trên nền guitar acoustic. Âm thanh môi trường: gió đồi lồng lộng.
-
-### [KHUNG CUỐI → CLIP 6]
-Đỉnh Đồi Mâm Xôi La Pán Tẩn nối liền với triền núi phủ rừng cây xanh mướt dưới ánh nắng chiều trong trẻo. Giữ cố định 0,5 giây. Clip 6 mở bằng những thân trúc xanh ngọc thẳng tắp vươn cao đón nắng trong Rừng Trúc Mù Cang Chải ở Bản Nả Háng Tủa Chử.
-
-### [LOẠI TRỪ]
-Đội mũ bảo hiểm hay cầm mũ khi đứng ngắm cảnh trên đồi, giẫm lên bờ ruộng hoặc cây lúa, chạy xe máy vào bờ ruộng hẹp, biển quảng cáo hay bảng thu vé có chữ, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10.0, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ dù lượn bay sát vào mặt nhân vật gây rối khung hình; cánh dù lượn chỉ điểm xuyết nhỏ ở hậu cảnh xa trên bầu trời thung lũng.

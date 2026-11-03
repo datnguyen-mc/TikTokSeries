@@ -1,87 +1,74 @@
-# TẬP 6 — LÀO CAI · CLIP 5/9: TỐI SE LẠNH Ở SA PA — LẨU CÁ TẦM MĂNG CHUA NHÚNG CẢI MÈO NGỌT LỊM
-**MÃ:** LC-C05 · **GIỜ TRONG PHIM:** 19:00, tối thứ Tư 28/10/2026, tiết trời se lạnh khoảng 15 °C · **ĐỊA ĐIỂM:** bàn gỗ bên khung cửa sổ một quán ăn gỗ ấm cúng ở trung tâm Sa Pa, Lào Cai · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm cozy mountain dinner, rising hotpot steam and warm wood tones
-
-> ⏰ **Vì sao đi giờ này:** Sau khi dạo quanh Nhà Thờ Đá Sa Pa lúc chập tối, nhiệt độ Sa Pa hạ xuống khoảng 14–16 °C. Đi bộ vào quán gỗ ngay gần quảng trường lúc 19:00 để thưởng thức nồi lẩu cá tầm nóng hổi rồi về nghỉ đêm sớm, lấy sức sáng hôm sau đi cáp treo Fansipan chuyến đầu lúc 08:00.
-> 🍲 **Món:** **lẩu cá tầm măng chua Sa Pa nhúng cải mèo và rau su su**. Nhờ nguồn nước suối tinh khiết lạnh dưới 20 °C chảy từ dãy Hoàng Liên Sơn, Sa Pa là vùng nuôi cá nước lạnh (cá tầm, cá hồi) nổi tiếng cả nước (Báo Lào Cai; Tuổi Trẻ). Cá tầm thuộc dòng cá sụn, thịt trắng vân vàng săn chắc, sụn giòn sần sật, không xương dăm; nấu cùng măng chua vùng cao tạo vị chua thanh dịu nhẹ, nhúng kèm rau cải mèo (hơi nhẫn đắng đầu lưỡi, hậu ngọt mát) và ngọn rau su su giòn ngọt. Hai người chỉ uống trà thảo mộc ấm, không uống trà ấm.
-> 🔗 **Nối cảnh:** vào từ ánh đèn vàng và làn hơi (khung cuối Clip 4 là quầng sáng đèn vàng giữa làn sương chiều; Clip 5 mở bằng ánh đèn vàng ấm trong quán hắt qua làn hơi nước trắng bốc lên nghi ngút từ nồi lẩu cá tầm) · ra bằng **làn hơi trắng dày bốc lên từ nồi lẩu phủ đầy khung hình** → Clip 6 mở bằng biển mây trắng xóa bồng bềnh dưới nắng sớm trên Đỉnh Fansipan 3.143m.
+# LC-C05 — Tập 6: Lào Cai — Nóc Nhà Đông Dương | Clip 5: Đỉnh Fansipan 3.143m — Chạm Tay Vào Nóc Nhà Đông Dương
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover; không có tiếng @Vy khi máy quay @Joi và ngược lại. Chỉ quay cận nồi lẩu và động tác nhúng cá tầm, cải mèo trong khoảng không có thoại; không vừa nhai vừa nói.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (quy tắc 4 từ Tập 5):** 00:00–00:01.0 nối cảnh không thoại · 00:01.0–00:04.5 @Vy nói · 00:04.5–00:08.5 @Joi nói · 00:08.5–00:10.0 đệm minh họa không thoại: gắp khoanh cá tầm và ngọn cải mèo nhúng vào nồi lẩu đang sôi.
-- **Mũ bảo hiểm:** KHÔNG có trong quán ăn; xe và hai mũ đã gửi tại bãi đỗ trung tâm từ chiều (ngoài khung).
-- **Không trà ấm bia:** trên bàn chỉ có ấm trà thảo mộc và hai chén trà ấm; tuyệt đối không có chai hay chén trà ấm.
-- **Địa danh viết hoa:** Sa Pa, Hoàng Liên Sơn, Lào Cai.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa thực đơn, bảng giá, nhãn chai có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Đỉnh Fansipan thuộc dãy núi Hoàng Liên Sơn (thị xã Sa Pa, tỉnh Lào Cai, giáp tỉnh Lai Châu) là đỉnh núi cao nhất Việt Nam và cả khu vực Đông Dương với độ cao truyền thống 3.143m (đo đạc mới 3.147,3m). Trên đỉnh núi đá granite có đặt chóp tháp inox hình kim tự tháp tam giác đánh dấu tọa độ đỉnh Fansipan và cột cờ Tổ quốc giữa biển mây Hoàng Liên Sơn.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 15:00 chiều trên sàn gỗ đỉnh Fansipan ngập tràn nắng vàng trên biển mây trắng.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Biển mây trắng xóa bồng bềnh dưới chân đỉnh Fansipan 3.143m, phía trên là bầu trời xanh thẫm trong vắt ở độ cao trên 3.000m.
+- **Nguồn đối chiếu thực tế**: Vườn Quốc gia Hoàng Liên, Khu du lịch Sun World Fansipan Legend (Cổng TTĐT tỉnh Lào Cai).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Ánh đèn vàng ấm áp hắt qua làn hơi nước trắng bốc lên nghi ngút từ nồi lẩu đang sôi trên bàn gỗ, khớp quầng sáng đèn vàng trong sương ở khung cuối Clip 4. Máy hạ nhẹ qua làn hơi, lộ ra bàn lẩu cá tầm hấp dẫn và @Vy, @Joi đang ngồi đối diện bên khung cửa sổ.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Sàn ngắm cảnh bằng gỗ và mỏm đá tự nhiên trên đỉnh cao nhất Fansipan (3.143m, dãy Hoàng Liên Sơn, Lào Cai): nổi bật với khối chóp kim tự tháp bằng kim loại sáng bóng đặt trên mỏm đá đỉnh núi, xung quanh bốn bề là biển mây trắng cuồn cuộn thấp hơn tầm mắt và các đỉnh núi Hoàng Liên Sơn nhô lên như ốc đảo.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng vùng núi cao trên 3.000m lúc 15:00 trong vắt, sắc nét, phản chiếu từ biển mây trắng bên dưới tạo ánh sáng bao phủ rực rỡ (High-Altitude Cloud Bounce Light) lên gương mặt @Vy và @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Gió trên đỉnh 3.143m thổi mạnh làm tóc của @Vy, @Joi và khăn rằn bay phần phật, biển mây phía dưới trôi bồng bềnh chậm rãi. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng cạnh khối chóp kim tự tháp inox trên đỉnh Fansipan 3.143m; cả hai cùng đặt một bàn tay chạm lên đỉnh chóp kim loại với vẻ mặt xúc động và tự hào.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, đôi mắt sáng rực tự hào giữa biển mây Hoàng Liên Sơn. @Vy nói trực tiếp: Chạm tay vô đỉnh Fansipan ba ngàn một trăm bốn mươi ba mét, nóc nhà Đông Dương đây rồi!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi nắm lấy bàn tay @Vy đang đặt trên chóp đỉnh, mỉm cười vừa tình cảm vừa hài hước. @Joi đáp trực tiếp: Fansipan là nóc nhà Đông Dương, còn em đứng đây chính thức là nóc nhà của anh!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười khoái chí trước câu công nhận 'nóc nhà' quá chuẩn của @Joi, cả hai cùng giơ cao tay ăn mừng giữa biển mây đỉnh Fansipan. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió đỉnh núi cao 3.143m thổi lồng lộng hùng tráng.
+- **Nhạc nền (Subtle Background Score)**: Nhạc giao hưởng dây kết hợp sáo Mông cao vút, hào hùng và xúc động (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Quán gỗ ấm cúng ở Sa Pa:** tường và bàn ghế bằng gỗ thông màu mật ong ấm áp, treo đèn lồng vải thổ cẩm ánh vàng dịu; ngoài khung cửa sổ kính mờ hơi nước là màn đêm sương lạnh của phố núi.
-- **Trên bàn gỗ:** nồi lẩu bằng đồng hoặc gốm đặt trên bếp nhỏ đang sôi lục bục, nước dùng màu vàng cam dịu có những lát măng chua trắng ngà, cà chua đỏ và hành lá; một đĩa sứ lớn xếp những khoanh **cá tầm tươi** cắt khúc dày lộ lớp da đen xám bóng, thịt trắng ngần điểm vân vàng và phần xương sụn trong suốt ở giữa; một rổ tre đầy ắp **rau cải mèo** lá xanh đậm xoăn nhẹ và ngọn **rau su su** xanh non; hai bát sứ, đũa tre, ấm trà thảo mộc và hai chén trà ấm.
-- **Balo 50L** của @Joi đặt gọn cạnh chân bàn; túi mây tròn của @Vy đặt trên ghế bên cạnh.
-- Không đưa vào khung: chai trà ấm, lon bia, thực đơn hay bảng hiệu có chữ.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng cạnh khối chóp kim tự tháp inox trên đỉnh Fansipan 3.143m; cả hai cùng đặt một bàn tay chạm lên đỉnh chóp kim loại với vẻ mặt xúc động và tự hào. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng hơi thấp thấy rõ chóp kim tự tháp đỉnh Fansipan, biển mây trắng xóa và hai nhân vật chạm tay vào chóp đỉnh. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, đôi mắt sáng rực tự hào giữa biển mây Hoàng Liên Sơn. | **@Vy**: Chạm tay vô đỉnh Fansipan ba ngàn một trăm bốn mươi ba mét, nóc nhà Đông Dương đây rồi! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi nắm lấy bàn tay @Vy đang đặt trên chóp đỉnh, mỉm cười vừa tình cảm vừa hài hước. | **@Joi**: Fansipan là nóc nhà Đông Dương, còn em đứng đây chính thức là nóc nhà của anh! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười khoái chí trước câu công nhận 'nóc nhà' quá chuẩn của @Joi, cả hai cùng giơ cao tay ăn mừng giữa biển mây đỉnh Fansipan. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Heroic Two-Shot) khi cả hai giơ tay ăn mừng trên đỉnh Fansipan giữa biển mây, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [MÓN ĐẶC SẢN — CẬN TỪNG CHI TIẾT]
-- **Cá tầm Sa Pa:** khúc cá cắt khoanh tròn dày, lớp da dẻo, thớ thịt trắng săn chắc xen vân vàng nhạt, chính giữa là lõi sụn trắng trong giòn sần sật, hoàn toàn không có xương dăm.
-- **Nước lẩu măng chua:** sôi nhẹ bốc hơi thơm nức mùi sả, măng chua vùng cao thái lát mỏng và thảo quả.
-- **Cải mèo & rau su su:** lá cải mèo xanh đậm dày giòn, ngọn su su non mướt đặc trưng vùng núi lạnh.
-- **Cách ăn (đệm 00:08.5–00:10):** dùng đũa gắp một khoanh cá tầm tươi và một nhánh cải mèo xanh nhúng ngập vào nồi nước lẩu măng chua đang sôi sùng sục, hơi nước trắng bốc lên thơm lừng.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục xoay vòng cung hào hùng quanh chóp đỉnh Fansipan (Heroic Summit Orbital Arc & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng hơi thấp thấy rõ chóp kim tự tháp đỉnh Fansipan, biển mây trắng xóa và hai nhân vật chạm tay vào chóp đỉnh.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy rạng rỡ (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Heroic Two-Shot) khi cả hai giơ tay ăn mừng trên đỉnh Fansipan giữa biển mây, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 28mm–35mm f/4.0, lấy trọn độ hùng vĩ của biển mây Hoàng Liên Sơn trải dài vô tận phía sau.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất mở khóa vì trong quán ấm, khăn len thổ cẩm đỏ cam vắt nhẹ trên vai, jeans xanh nhạt, boots da lộn nâu cà phê; ngồi bên trái bàn, má hồng hào ấm áp bên hơi nồi lẩu.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu mở khóa, cargo be cát, boots da sáp nâu sẫm; ngồi bên phải bàn cạnh @Vy, tay cầm đũa.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng trên đỉnh Fansipan, @Vy và @Joi đặt tay lên chóp kim tự tháp kim loại giữa biển mây.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi cười rạng rỡ ăn mừng trên đỉnh Nóc nhà Đông Dương.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | QUA LÀN HƠI NỒI LẨU TỚI BÀN ĂN**
-- **Máy:** hạ nhẹ qua làn hơi nước trắng ấm áp từ nồi lẩu đang sôi, lướt qua đĩa cá tầm cắt khoanh và rổ cải mèo xanh, dừng ở trung cận hai người.
-- **Hành động:** @Vy cầm đũa gắp một nhánh cải mèo xanh tươi giơ nhẹ lên; @Joi vừa đặt chén trà ấm xuống bàn.
-- **Âm thanh:** tiếng nước lẩu sôi lục bục, tiếng đũa tre chạm nhẹ, không gian quán ấm cúng. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, ánh đèn vàng ấm và làn hơi mỏng từ nồi lẩu làm gương mặt rạng rỡ.
-- **Hành động:** @Vy nâng nhánh cải mèo xanh bên cạnh nồi lẩu măng chua, cười ngọt ngào nhìn ống kính.
-- **Thoại @Vy** *(giọng nữ trong trẻo, hào hứng, ấm áp, giọng miền Nam — 14 âm tiết / 3,5 giây):*
-  > *Trời lạnh ăn lẩu cá tầm măng chua, nhúng cải mèo ngọt lịm nè!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi; miệng anh không nhai khi nói.
-- **Hành động:** @Joi dùng đũa nâng một khoanh cá tầm đã chín tới từ trong bát, chỉ vào phần lõi sụn trắng trong ở giữa khoanh cá, cười thích thú.
-- **Thoại @Joi** *(giọng nam trầm ấm, hào hứng chia sẻ — 14 âm tiết / 4 giây):*
-  > *Cá tầm nuôi nước lạnh Hoàng Liên Sơn, sụn giòn sần sật luôn em!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA — NHÚNG CÁ TẦM & CẢI MÈO, HƠI TRẮNG BỐC CAO**
-- **Thoại:** không.
-- **Hành động:** đôi đũa của @Vy và @Joi cùng gắp khoanh cá tầm tươi và ngọn cải mèo xanh nhúng vào nồi nước lẩu măng chua đang sôi; làn hơi nước trắng dày bốc lên nghi ngút.
-- **Máy:** cận cảnh khoanh cá tầm và rau nhúng vào nước lẩu sôi, rồi đẩy thẳng vào làn hơi nước trắng xóa bốc lên phủ kín khung hình để chuyển cảnh sang biển mây sáng hôm sau.
-- **Âm thanh:** tiếng nước lẩu sôi reo, nhạc lo-fi acoustic ấm áp chuyển dần sang tiếng sáo ngân cao.
-
----
-
-### [ÂM THANH & NHẠC]
-Lo-fi acoustic jazz ấm cúng bên bếp lẩu, tiếng guitar mộc dịu dàng; giây cuối tiếng sáo trúc vút nhẹ mở đường sang cảnh biển mây sáng hôm sau. Âm thanh môi trường: nước lẩu sôi lục bục, tiếng đũa chén khẽ chạm.
-
-### [KHUNG CUỐI → CLIP 6]
-Làn hơi nước trắng dày bốc lên từ nồi lẩu cá tầm phủ mờ trắng xóa toàn bộ khung hình. Giữ cố định 0,5 giây. Clip 6 mở từ màn mây trắng xóa tan dần lộ ra biển mây trên Đỉnh Fansipan 3.143m lúc nắng sớm.
-
-### [LOẠI TRỪ]
-Cá nguyên con có vảy thay vì cá tầm cắt khoanh có sụn, trà ấm bia trên bàn, đội mũ bảo hiểm hay cầm mũ trong quán, vừa nhai vừa nói, thực đơn hay bảng hiệu có chữ, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ chữ số sai lệch trên chóp inox (chỉ giữ bề mặt chóp kim tự tháp kim loại sáng bóng tinh tế, không render chữ bị méo).

@@ -1,91 +1,74 @@
-# TẬP 5 — TUYÊN QUANG · CLIP 9/9: HOÀNG HÔN TRÊN HỒ NA HANG — MAI ANH CHỞ NOỌNG ĐI TIẾP [KẾT TẬP 5]
-**MÃ:** TQ-C09 · **GIỜ TRONG PHIM:** khoảng 16:50, thứ Ba 27/10/2026, giờ vàng · **ĐỊA ĐIỂM:** trên thuyền giữa lòng hồ, gần bến thủy Thượng Lâm, Tuyên Quang · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm golden-hour lake finale
-
-> ⏰ **Vì sao đi giờ này:** mặt trời lặn lúc 17:24 (Open-Meteo, vùng hồ Na Hang, 27/10/2026); núi đá phía tây che nắng sớm hơn giờ lặn vài phút (ước tính), nên ra hồ từ 16:30 và ở giữa hồ khoảng 16:50–17:15 là lúc nắng vàng và mềm nhất. Thuyền thuê nguyên chiếc cả ngày (khoảng 1,5 triệu đồng theo Traveloka, khoảng 2023; giá không nói trong thoại) nên buổi sáng đi thác và cột đá, trưa về bản, chiều lại ra hồ; lịch trình tham khảo trên Traveloka cũng gợi ý đi thác rồi đón hoàng hôn trên hồ. Thuyền về bến trước 17:30, chạy khoảng 1,3 km về nhà sàn Bản Nà Tông trước khi trời tối; không chạy đường núi ban đêm.
-> 📍 **Check-in:** góc thuyền giữa hồ ngược nắng chiều: mặt hồ vàng óng, núi đá vôi thành những lớp bóng xanh tím chồng lên nhau, hai áo phao cam nổi giữa khung.
-> 🔗 **Nối cảnh:** vào từ ánh nắng (khung cuối Clip 8 là khung cửa sổ tràn nắng trưa; Clip 9 mở bằng nắng chiều vàng trên mặt hồ). Ngoài khung, giữa hai clip: nghỉ trưa trên nhà sàn; khoảng 16:20 đi lại boots, xuống gầm sàn nhấc mũ, đội, cài quai, chạy ra bến; nhả quai, tháo mũ, móc trên ghi-đông, mặc áo phao cam, lên thuyền · kết bằng **thuyền quay mũi về bến trong nắng vàng** → nối sang Tập 6, mở sáng 28/10 ở sân nhà sàn Bản Nà Tông.
+# TQ-C09 — Tập 5: Tuyên Quang — Miền Đất Lịch Sử & Cổ Tích Na Hang | Clip 9: Cầu Tình Húc & Bờ Sông Lô Bình Minh — Lên Đường Đi Lào Cai
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết; mặt hai người được nắng chiều chiếu xiên từ bên, đủ sáng để thấy rõ khẩu hình, không bị ngược sáng tối đen. Cấm voiceover; không có tiếng @Vy khi máy quay @Joi và ngược lại; không có thoại khi máy quay mặt hồ.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Thoại chỉ nằm trong 00:03.0–00:07.5;** 00:07.5–00:10 hoàn toàn không thoại (clip cuối tập).
-- **Áo phao:** cả hai mặc áo phao cam, cài hết khóa, suốt clip.
-- **Mũ bảo hiểm:** không có trên thuyền; hai mũ móc trên ghi-đông chiếc Scrambler ở bến thủy Thượng Lâm, thấy nhỏ xa ở cuối clip.
-- **An toàn:** ngồi trên băng ghế, không đứng, không nghiêng người ra ngoài mạn thuyền.
-- **Người lái thuyền:** bóng lưng ở đuôi thuyền, nét mờ, không thấy mặt, không nói.
-- **Địa danh viết hoa:** Hồ Na Hang, Na Hang, Thượng Lâm, Bản Nà Tông, Tuyên Quang. Từ tiếng Tày noọng viết thường.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Cầu Tình Húc bắc qua dòng sông Lô tại TP. Tuyên Quang là cây cầu dây văng hiện đại với hệ thống trụ tháp tạo hình kiến trúc biểu tượng của thành phố. Từ Tuyên Quang đi sang tỉnh Lào Cai di chuyển theo Quốc lộ 279 hoặc Quốc lộ 2 nối cao tốc/Quốc lộ 70 dọc theo thung lũng sông Chảy và sông Hồng lên cửa ngõ Tây Bắc.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 06:45 sáng sớm bên bờ sông Lô (TP. Tuyên Quang) trước khi khởi hành đi Lào Cai.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Nắng bình minh vàng cam phản chiếu trên mặt nước sông Lô hiền hòa và nhịp cầu phía xa.
+- **Nguồn đối chiếu thực tế**: Cổng TTĐT tỉnh Tuyên Quang, Bản đồ giao thông Quốc lộ 279 / Quốc lộ 70 (Tuyên Quang – Lào Cai).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Nắng chiều vàng lóa trên mặt hồ, khớp khung cửa sổ tràn nắng ở khung cuối Clip 8. Máy lia dọc mặt nước vàng óng tới chiếc thuyền gỗ đang chạy chậm; @Vy và @Joi mặc áo phao cam ngồi sát nhau ở băng ghế giữa.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Đường ven bờ sông Lô thoáng đãng tại TP. Tuyên Quang lúc bình minh: mặt nước sông Lô rộng phẳng lặng ánh lên sắc vàng sớm mai, phía xa là nhịp cầu bắc qua sông và những dãy núi xanh mở lối sang vùng Tây Bắc.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng bình minh 06:45 (Sunrise Golden Hour) chiếu xiên ấm áp trên mặt sông Lô, tạo viền sáng rực rỡ trên thân xe Scrambler và gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Mặt nước sông Lô gợn sóng nhẹ trong nắng sớm, gió ven sông thổi làm tóc và khăn rằn của @Vy bay khẽ. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi ngồi sẵn trên chiếc xe máy Scrambler đen-xanh rêu đang dừng nổ máy êm trên đường ven bờ sông Lô (cả hai đã đội mũ bảo hiểm 3/4 cài quai gọn gàng, kính chắn gió lật lên cao để lộ rõ mặt).
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy ngồi sau yên xe, vỗ nhẹ vào vai @Joi, ánh mắt tràn đầy háo hức nhìn về hướng Tây Bắc. @Vy nói trực tiếp: Tạm biệt dòng sông Lô Tuyên Quang, tụi mình thẳng tiến Lào Cai săn mây Fansipan!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi ngoái nhẹ đầu nhìn @Vy, cười tươi đầy khí thế. @Joi đáp trực tiếp: Tây Bắc vẫy gọi rồi, lên Sa Pa nhớ chuẩn bị tinh thần mặc ấm nghen em!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy cười tươi ôm eo @Joi, cả hai gạt nhẹ kính mũ bảo hiểm xuống và @Joi cho chiếc Scrambler lăn bánh êm ái dọc đường ven sông Lô hướng đi Lào Cai. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng động cơ Scrambler trầm ấm tăng ga nhẹ khi lăn bánh, tiếng nước sông Lô và gió sớm.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền guitar acoustic du lịch sôi động, mở ra hành trình Tây Bắc (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Lòng hồ lúc giờ vàng:** mặt nước phẳng, vàng óng phía tây, chuyển dần sang xanh lục ở phía bóng núi; những dãy núi đá vôi thành lớp bóng xanh tím chồng lên nhau; mặt trời thấp sát đỉnh núi phía tây, vài dải mây hồng cam.
-- **Thuyền:** thuyền máy gỗ dài, mái che bạt cuộn lên cho thoáng; máy chạy chậm.
-- **Áo phao:** hai áo phao cam, cài đủ khóa.
-- **Bến thủy Thượng Lâm (xa, cuối clip):** chiếc Scrambler nhỏ xíu trên bãi đất, hai mũ móc trên ghi-đông.
-- **Balo 50L** của @Joi đặt dưới chân băng ghế; túi mây của @Vy đeo chéo ngoài áo phao.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi ngồi sẵn trên chiếc xe máy Scrambler đen-xanh rêu đang dừng nổ máy êm trên đường ven bờ sông Lô (cả hai đã đội mũ bảo hiểm 3/4 cài quai gọn gàng, kính chắn gió lật lên cao để lộ rõ mặt). | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung 3/4 phía trước thấy rõ @Joi và @Vy ngồi trên xe Scrambler bên bờ sông Lô lúc bình minh. |
+| **00:01.5 – 00:04.5** | @Vy ngồi sau yên xe, vỗ nhẹ vào vai @Joi, ánh mắt tràn đầy háo hức nhìn về hướng Tây Bắc. | **@Vy**: Tạm biệt dòng sông Lô Tuyên Quang, tụi mình thẳng tiến Lào Cai săn mây Fansipan! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi ngoái nhẹ đầu nhìn @Vy, cười tươi đầy khí thế. | **@Joi**: Tây Bắc vẫy gọi rồi, lên Sa Pa nhớ chuẩn bị tinh thần mặc ấm nghen em! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy cười tươi ôm eo @Joi, cả hai gạt nhẹ kính mũ bảo hiểm xuống và @Joi cho chiếc Scrambler lăn bánh êm ái dọc đường ven sông Lô hướng đi Lào Cai. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ và lia theo chiếc Scrambler khi xe bắt đầu lăn bánh mượt mà về phía trước, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [GÓC CHECK-IN — BỐ CỤC KHUNG HÌNH]
-- **Tiền cảnh:** mũi thuyền gỗ và mặt nước vàng óng gợn sóng.
-- **Trung cảnh:** hai người ngồi sát nhau, áo phao cam, @Vy bên trái, @Joi bên phải.
-- **Hậu cảnh:** mặt trời thấp sát đỉnh núi đá phía tây, các lớp núi xanh tím, mây hồng cam.
-- **Ánh sáng:** nắng chiều chiếu xiên từ bên, viền vàng trên tóc và vai; mặt hai người vẫn sáng rõ.
-- **Khoảnh khắc ảnh check-in (00:07.5–00:10):** @Vy tựa đầu vào vai @Joi, anh choàng tay ôm cô; máy nâng lên đại cảnh, chiếc thuyền nhỏ giữa hồ vàng.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục góc bên hông chuyển sang lia theo xe lăn bánh (Smooth Riverside Side-Profile to Roll-Off Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung 3/4 phía trước thấy rõ @Joi và @Vy ngồi trên xe Scrambler bên bờ sông Lô lúc bình minh.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ và lia theo chiếc Scrambler khi xe bắt đầu lăn bánh mượt mà về phía trước, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, hậu cảnh mặt sông Lô lấp lánh nắng sớm mờ nhẹ tự nhiên.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất kéo khóa lên một nửa vì gió hồ chiều đã mát, khăn len thổ cẩm đỏ cam quấn quanh cổ, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; áo phao cam cài đủ khóa; tóc bay nhẹ, má ửng nắng.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm; áo phao cam cài đủ khóa; balo 50L dưới chân.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung @Joi và @Vy ngồi sẵn trên xe Scrambler bên bờ sông Lô (Tuyên Quang) lúc bình minh, mũ bảo hiểm lật kính.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Chiếc Scrambler chở @Joi và @Vy lăn bánh êm ái dưới nắng sớm, nối trực tiếp sang Tập 6 Lào Cai.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:03.0 | TỪ NẮNG VÀNG TRÊN MẶT HỒ TỚI CHIẾC THUYỀN**
-- **Máy:** từ nắng lóa trên mặt hồ, lia dọc mặt nước vàng óng tới thuyền, dừng ở trung cận hai người.
-- **Hành động:** thuyền chạy chậm; @Vy đưa tay khẽ chạm mặt nước rồi rụt lại, ngước nhìn mặt trời sát đỉnh núi; @Joi ngắm @Vy.
-- **Âm thanh:** máy thuyền chạy êm, nước rẽ, chim về tổ bên núi. Không thoại.
-
-**00:03.0–00:05.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, nắng xiên viền vàng mái tóc, mặt hồ vàng và núi tím mờ phía sau.
-- **Hành động:** @Vy quay sang ống kính, cười dịu, mắt nheo lại vì nắng chiều, tay khẽ vỗ lên mạn thuyền gỗ.
-- **Thoại @Vy** *(giọng nữ trong trẻo, nhẹ nhàng, mãn nguyện như mách mẹo, giọng miền Nam — 11 âm tiết / 2,5 giây):*
-  > *Thuê nguyên thuyền cả ngày, chiều ra hồ lại được nè!*
-
-**00:05.5–00:07.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi, nắng vàng trên râu và gò má.
-- **Hành động:** @Joi nhìn @Vy âu yếm, đưa tay vén lọn tóc mai bay trước mặt cô.
-- **Thoại @Joi** *(giọng nam trầm ấm, ngọt ngào; chữ noọng là tiếng Tày, phát âm hơi lơ lớ — 7 âm tiết / 2 giây):*
-  > *Mai anh chở noọng đi tiếp nha!*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — TỰA VAI, THUYỀN QUAY VỀ BẾN [KẾT TẬP 5]**
-- **Thoại:** không.
-- **Hành động:** @Vy tựa đầu vào vai @Joi, anh choàng tay ôm cô; người lái thuyền (bóng lưng) bẻ lái, thuyền quay mũi về phía bến thủy Thượng Lâm, nơi chiếc Scrambler nhỏ xíu đứng chờ trên bãi đất.
-- **Máy:** nâng lên đại cảnh từ trên cao: chiếc thuyền gỗ nhỏ kéo vệt sóng trên mặt hồ vàng óng giữa các lớp núi đá xanh tím, mặt trời chạm đỉnh núi.
-- **Âm thanh:** sáo trúc và đàn Tính ngân dài kết tập, nước rẽ xa dần.
-
----
-
-### [ÂM THANH & NHẠC]
-Indie acoustic lắng dịu, sáo trúc và đàn Tính ngân dài, guitar rải chậm; kết bằng một câu sáo trúc. Âm thanh môi trường: máy thuyền chạy êm, nước rẽ, chim về tổ.
-
-### [KHUNG CUỐI — THUMBNAIL KẾT TẬP 5]
-Từ trên cao: chiếc thuyền gỗ nhỏ giữa mặt hồ vàng óng, hai chấm áo phao cam, @Vy tựa vai @Joi; các lớp núi đá vôi xanh tím chồng lên nhau, mặt trời chạm đỉnh núi phía tây, mây hồng cam. Giữ cố định 0,5 giây. Tập 6 mở sáng 28/10 ở sân nhà sàn Bản Nà Tông: Scrambler dưới gầm sàn, hai mũ 3/4 móc trên ghi-đông.
-
-### [LOẠI TRỪ]
-Đứng lên trên thuyền, nghiêng người ra ngoài mạn thuyền, không mặc áo phao, áo phao không cài khóa, mũ bảo hiểm trên thuyền, xe máy trên thuyền, mặt người lái thuyền, người lái thuyền nói, mặt hai người tối đen vì ngược sáng, mặt trời đã lặn hẳn, trời tối, trăng trên trời, sao, trời mưa, sương mù dày, ca nô cao tốc, thuyền khác cận cảnh, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:03.0 hoặc trong 00:07.5–00:10, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhồi nhét cảnh đứng dưới đất mới đội mũ rồi leo lên xe trong 2 giây cuối.

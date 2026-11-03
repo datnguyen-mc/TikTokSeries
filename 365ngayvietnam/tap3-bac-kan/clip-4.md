@@ -1,83 +1,74 @@
-# TẬP 3 — HỒ BA BỂ · CLIP 4/7: ĐỘNG PUÔNG — SÔNG NĂNG CHUI QUA LÒNG NÚI
-**MÃ:** BK-C04 · **GIỜ TRONG PHIM:** 10:20 · **ĐỊA ĐIỂM:** Sông Năng, Động Puông trong núi đá vôi Lũng Nham · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm cave adventure
-
-> ⏰ **Vì sao đi giờ này:** Tour sáng tới động khoảng 09:45–11:00. Ánh trời lọt vào từ hai đầu động; dơi ngủ trên trần nên chỉ nghe tiếng kêu chí chí (chiều chạng vạng dơi mới bay ra, lúc ấy thuyền khách đã về). Xem động trước trưa cũng tránh được mưa rào buổi chiều. Từ Ao Tiên, thuyền qua "ngã ba sông hai màu nước" rồi ngược Sông Năng khoảng 5 km.
-> 🔗 **Nối cảnh:** vào từ mặt nước phẳng (khung cuối Clip 3) · ra bằng **lóa nắng trắng ở cửa động bên kia** → Clip 5 mở bằng nắng trưa lóa qua mái hiên nhà sàn.
+# BK-C04 — Tập 3: Bắc Kạn — Viên Ngọc Xanh Ba Bể | Clip 4: Động Puông — Tuyệt Tác Sông Năng Xuyên Núi
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover, cấm tiếng người này khi máy quay người kia hoặc quay vòm động.
-- **Ánh sáng:** ánh ngày lọt từ hai cửa động chiếu rõ mặt hai người; tuyệt đối không để gương mặt chìm trong bóng tối. Không dùng đèn flash.
-- **Thoại dứt trước 00:07.5;** 00:07.5–00:10 hoàn toàn không thoại.
-- **Áo phao cam:** mặc lại và cài khóa (lấy từ ghế thuyền, nơi đã để ở Clip 3). Thuyền giảm ga, trôi chậm khi có thoại.
-- **Không chạm vào thạch nhũ.**
-- **Địa danh viết hoa:** Động Puông, Sông Năng, Lũng Nham, Hồ Ba Bể.
-- Một cú máy liền 10 giây. Không phụ đề, không chữ, không watermark, không thẻ tên.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Động Puông nằm trên dòng sông Năng thuộc dãy núi đá vôi Lũng Nham (huyện Ba Bể, cách hồ Ba Bể khoảng 5 km). Đây là hang động xuyên thủy được tạo thành khi dòng sông Năng chảy đục thủng qua lòng núi đá vôi Lũng Nham: động dài khoảng 300m, vòm hang cao hơn 30m với vách đá dựng đứng và hàng vạn con dơi sinh sống trên trần hang.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 11:30 trưa khi ánh sáng mặt trời từ hai đầu cửa hang chiếu rọi vào dòng sông Năng chảy xuyên qua lòng động.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Luồng ánh sáng tự nhiên từ cửa hang khổng lồ cao 30m hắt xuống mặt nước sông Năng và các bậc đá vôi hùng vĩ bên bờ động.
+- **Nguồn đối chiếu thực tế**: Ban Quản lý Vườn Quốc gia Ba Bể, Cổng TTĐT tỉnh Bắc Kạn.
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Cận sát mặt nước xanh lục phẳng lặng của Sông Năng, cùng sắc độ và độ phẳng với mặt Ao Tiên ở khung cuối Clip 3. Máy bắt đầu ngẩng lên.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Bậc đá tự nhiên rộng lớn bên bờ sông Năng ngay phía trong cửa Động Puông: vòm cửa hang đá vôi cao vút 30m mở ra khoảng rừng xanh bên ngoài, dòng sông Năng chảy xuyên thẳng qua lòng núi đá vôi với những cột thạch nhũ lớn.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng ngược tự nhiên từ cửa hang khổng lồ (Natural Cave Rim & Fill Light) chiếu vào làm sáng rõ các vân đá vôi và tạo viền sáng điện ảnh tuyệt đẹp trên gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Dòng sông Năng chảy êm đềm qua lòng động tạo những gợn sóng phản chiếu ánh sáng lên vách đá, gió mát từ lòng sông thổi qua làm tóc nhân vật bay nhẹ. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng trên thềm đá an toàn bên bờ sông Năng phía trong cửa Động Puông; cả hai ngước nhìn vòm hang đá vôi cao vút hơn 30m nơi dòng sông chảy xuyên qua lòng núi.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, tay chỉ lên vòm đá cao vút của Động Puông với vẻ mặt choáng ngợp. @Vy nói trực tiếp: Nguyên dòng sông Năng chảy xuyên thủng qua lòng núi đá, Động Puông hùng vĩ thiệt!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi nhìn lên trần hang cao vút rồi quay sang @Vy cười hài hước. @Joi đáp trực tiếp: Trên trần hang có mấy vạn chú dơi đang ngủ trưa, em nói khẽ thôi nghen!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy vội đưa ngón trỏ lên môi ra hiệu 'suỵt' dễ thương rồi bật cười khúc khích, cả hai cùng ngắm nhìn luồng sáng rực rỡ nơi cửa Động Puông. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng nước sông Năng chảy vang nhẹ trong vòm hang đá cao, tiếng gió lùa qua cửa động.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền ambient kết hợp tiếng sáo trúc ngân vang trầm hùng (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Sông Năng** xanh lục chảy lững lờ giữa hai vách đá dựng đứng, rồi đột ngột chui vào một vòm hang khổng lồ trong núi đá vôi Lũng Nham.
-- **Trong Động Puông:** mát lạnh, vang tiếng nước; thạch nhũ treo lơ lửng nhiều hình thù, vách đá xám xếp lớp. Ánh trời lọt mờ ảo từ hai đầu động; đứng ở cửa này nhìn thấy cửa kia. Trên trần cao lấm tấm những chấm đen nhỏ là đàn dơi đang ngủ.
-- **Thuyền:** thuyền sắt dài như ở Clip 2; người lái ở đuôi, quay lưng, mờ nét, không nói.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng trên thềm đá an toàn bên bờ sông Năng phía trong cửa Động Puông; cả hai ngước nhìn vòm hang đá vôi cao vút hơn 30m nơi dòng sông chảy xuyên qua lòng núi. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng hơi thấp thấy rõ vòm cửa Động Puông cao vút và dòng sông Năng chảy bên cạnh @Vy, @Joi. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, tay chỉ lên vòm đá cao vút của Động Puông với vẻ mặt choáng ngợp. | **@Vy**: Nguyên dòng sông Năng chảy xuyên thủng qua lòng núi đá, Động Puông hùng vĩ thiệt! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi nhìn lên trần hang cao vút rồi quay sang @Vy cười hài hước. | **@Joi**: Trên trần hang có mấy vạn chú dơi đang ngủ trưa, em nói khẽ thôi nghen! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy vội đưa ngón trỏ lên môi ra hiệu 'suỵt' dễ thương rồi bật cười khúc khích, cả hai cùng ngắm nhìn luồng sáng rực rỡ nơi cửa Động Puông. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) với cử chỉ 'suỵt' đáng yêu của @Vy trước cửa Động Puông và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất, khăn len thổ cẩm đỏ cam, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn; **áo phao cam cài khóa ngực**.
-- **@Joi:** henley xám, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm; **áo phao cam cài khóa ngực**.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:01.5 | MẶT SÔNG → CỬA ĐỘNG**
-- **Máy:** từ mặt nước ngẩng lên, lộ vòm cửa Động Puông khổng lồ đang nuốt dòng sông; thuyền giảm ga trôi vào bóng mát.
-- **Hành động:** @Vy và @Joi ngồi ở mũi thuyền, áo phao cam, cùng ngửa cổ nhìn lên.
-- **Âm thanh:** máy thuyền nhỏ dần, tiếng nước vang vọng.
-
-**00:01.5–00:03.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy, ánh sáng từ cửa động hắt lên má.
-- **Hành động:** @Vy nhìn vòm đá rồi quay sang ống kính, mắt tròn xoe.
-- **Thoại @Vy** *(giọng nữ trong trẻo, kinh ngạc, có tiếng vọng nhẹ — 7 âm tiết / 2 giây):*
-  > *"Sông chui tọt vào lòng núi luôn!"*
-
-**00:03.5–00:05.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi.
-- **Hành động:** @Joi chỉ tay lên trần, rụt cổ cười, nói nhỏ như sợ đánh thức đàn dơi.
-- **Thoại @Joi** *(giọng nam trầm ấm, thì thầm — 7 âm tiết / 2 giây):*
-  > *"Dơi kêu chí chí trên trần kìa!"*
-
-**00:05.5–00:07.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** lia về khóa cận mặt @Vy, phía sau xa là cửa động bên kia sáng lóa.
-- **Hành động:** @Vy chỉ về cuối động.
-- **Thoại @Vy** *(giọng nữ trong trẻo, thích thú — 8 âm tiết / 2 giây):*
-  > *"Đứng cửa này thấy được cửa kia luôn!"*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — RA CỬA ĐỘNG BÊN KIA**
-- **Thoại:** không.
-- **Hành động:** thuyền trôi xuyên lòng động về phía cửa bên kia ngập nắng; hai người nheo mắt, @Vy đưa tay che mắt.
-- **Máy:** bám theo mũi thuyền; ánh nắng trắng vàng tràn kín khung khi thuyền ra khỏi động.
-- **Âm thanh:** tiếng dơi chí chí nhỏ dần, nước róc rách, chim rừng ùa vào khi ra ngoài nắng.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục góc thấp lia vòng cung lấy trọn vòm hang (Low-Angle Cave Portal Arc & MCU Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng hơi thấp thấy rõ vòm cửa Động Puông cao vút và dòng sông Năng chảy bên cạnh @Vy, @Joi.
+  2. `00:01.5 – 00:07.5`: Đẩy nhẹ vào cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s) dưới ánh sáng tự nhiên từ cửa động.
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) với cử chỉ 'suỵt' đáng yêu của @Vy trước cửa Động Puông và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 28mm–35mm f/2.8, dải tương phản động (dynamic range) rộng giữ rõ cả ánh sáng ngoài cửa hang và chi tiết gương mặt trong lòng động.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Tiếng vọng trong hang, nước nhỏ giọt từ thạch nhũ, dơi kêu chí chí. Nhạc lắng còn vài nốt đàn Tính, bừng lên khi ra khỏi động.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI → CLIP 5]
-Lóa nắng trắng vàng ở cửa động: khung gần như trắng, chỉ còn viền vòm đá tối ở hai bên. Giữ cố định 0,5 giây.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng bên trong cửa Động Puông, dòng sông Năng chảy xuyên lòng núi đá vôi, @Vy và @Joi đứng trên thềm đá.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy đặt ngón tay lên môi cười tinh nghịch cạnh @Joi trong không gian hùng vĩ của Động Puông.
 
-### [LOẠI TRỪ]
-Gương mặt tối không thấy khẩu hình, đèn flash, chạm tay vào thạch nhũ, đàn dơi bay ào ạt quanh người, thuyền khác chen vào khung, tắm hoặc bơi, không mặc áo phao, người lái thuyền nói, tiếng nói không khớp khẩu hình, voiceover, máy quay vòm động khi đang có thoại, thoại trong 00:07.5–00:10, phụ đề, chữ, watermark, thẻ tên.
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không vẽ hang khô nhỏ hẹp; Động Puông bắt buộc phải có dòng sông lớn chảy xuyên qua vòm hang đá cao rộng.

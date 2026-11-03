@@ -1,81 +1,74 @@
-# TẬP 4 — XỨ LẠNG · CLIP 7/7: SÁNG ẢI CHI LĂNG — LÊN ĐƯỜNG ĐI TUYÊN QUANG [KẾT TẬP 4]
-**MÃ:** LS-C07 · **GIỜ TRONG PHIM:** 08:20, sáng thứ Hai 26/10/2026 (17/9 âm lịch) · **ĐỊA ĐIỂM:** bãi đỗ xe ven thung lũng Ải Chi Lăng, cách xa mép QL1A; thôn Quán Thanh, xã Chi Lăng, Lạng Sơn · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm morning road-trip finale
-
-> ⏰ **Vì sao đi giờ này:** Ải Chi Lăng cách phố Lạng Sơn khoảng 40 km (mia.vn) đến 51 km (OSRM) về phía nam theo QL1A, không nằm trên đường từ Ba Bể tới; ghé hôm 25/10 sẽ thành khoảng 295 km, hoặc thêm 80–100 km đi về, và đều phải chạy sau hoàng hôn. Nhưng ải nằm đúng đường đi Tuyên Quang hôm sau: phố → Chi Lăng khoảng 51 km, Chi Lăng → Hữu Lũng → Thái Nguyên → QL37 → Tuyên Quang khoảng 175 km (số OSRM có đoạn khoảng 11 km cao tốc CT.01; đi xe máy theo QL1A có thể dài hơn đôi chút), tổng xấp xỉ tuyến thẳng 232 km. Rời phố 07:15, tới khoảng 08:20; mặt trời mọc 05:50, nên lúc này nắng sáng đã xiên qua thung lũng, sương mỏng còn vương chân núi. Dự báo Open-Meteo (lấy ngày 24/10/2026): 26/10 mưa rào khả năng 70–81% từ sau trưa, nên ghé sớm rồi đi tiếp. Xe máy không vào cao tốc CT.01, chỉ đi QL1A. Bãi đỗ nằm trước Nhà Trưng Bày Chiến Thắng Chi Lăng (thôn Quán Thanh, cạnh QL1A mới), nhưng trong khung không có nhà, cổng hay biển tên; giờ mở cửa Nhà Trưng Bày chưa có nguồn, nên chỉ ngắm thung lũng ngoài trời. Đã ăn sáng trong phố trước khi đi (ngoài khung).
-> 🔗 **Nối cảnh:** vào từ bầu trời (khung cuối Clip 6 là vầng trăng trên trời đêm; Clip 7 hạ từ bầu trời xanh sáng thứ Hai, một đêm nghỉ trong phố Lạng Sơn được ngầm hiểu; sáng nay hai người đã lấy mũ, đội, cài quai rồi chạy QL1A xuống Chi Lăng) · kết bằng **xe nhỏ dần trong thung lũng**: Scrambler chở hai người đội mũ, cài quai, kính đã gạt xuống, lăn bánh rời bãi đỗ ra con đường xuyên thung lũng; ngoài khung, xe theo QL1A về phía Hữu Lũng → nối sang Tập 5 Tuyên Quang, mở trên đường.
+# LS-C07 — Tập 4: Lạng Sơn — Đỉnh Cao Gió Ngàn | Clip 7: Cung Đường Đèo Xứ Lạng — Tạm Biệt Lạng Sơn Đi Tuyên Quang
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết. Cấm voiceover, cấm tiếng người này khi máy đang quay người kia hoặc quay thung lũng. Mũ 3/4 lộ trọn gương mặt và môi.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Thoại chỉ nằm trong 00:03.0–00:07.5;** 00:07.5–00:10 hoàn toàn không thoại.
-- **Mũ bảo hiểm:** cả hai ĐỘI và CÀI QUAI suốt clip vì đang trong chặng chạy xe; kính trong suốt đẩy cao khi dừng và nói, gạt xuống trước khi lăn bánh.
-- **An toàn QL1A:** xe dừng ở bãi đỗ, cách xa mép đường; khi ra QL1A (sau clip, ngoài khung) thì nhập dòng xe ở làn bên phải. Không quay phim khi đang chạy, không đi cao tốc.
-- **Không tái hiện trận đánh:** không lính, không vũ khí, không cờ trận; chỉ có thung lũng và con đường.
-- **Địa danh viết hoa:** Ải Chi Lăng, Chi Lăng, Quán Thanh, Hữu Lũng, Tuyên Quang, Lạng Sơn. Tên người viết hoa: Liễu Thăng.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa biển báo, cột km có chữ hay số vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Từ Lạng Sơn di chuyển sang tỉnh Tuyên Quang theo trục Quốc lộ 1B / Quốc lộ 279 nối qua Thái Nguyên sang Quốc lộ 37 / Quốc lộ 2 đến Tuyên Quang, đi qua những cung đường đồi núi trung du và miền núi Đông Bắc hùng vĩ.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm sáng sớm ngày kế tiếp khi rời địa phận Lạng Sơn hướng về miền đất lịch sử Tuyên Quang.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Nắng mai chiếu sáng cung đường nhựa uốn lượn qua những triền đồi xanh mướt vùng ranh giới xứ Lạng.
+- **Nguồn đối chiếu thực tế**: Bản đồ giao thông đường bộ khu vực Đông Bắc (Lạng Sơn – Tuyên Quang).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Bầu trời sáng xanh trong có vài cụm mây trắng, khớp bầu trời mà khung cuối Clip 6 để lại. Máy hạ dần xuống thung lũng hẹp Chi Lăng, một bên là vách núi đá vôi hiểm trở, một bên là dãy núi đất xanh trùng điệp, rồi tới chiếc Scrambler đang dừng ở bãi đỗ, máy còn nổ êm. @Joi ngồi lái, @Vy ngồi sau, cả hai đội mũ 3/4 cài quai, kính đẩy cao.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Điểm dừng chân rộng thoáng trên cung đường đèo rời xứ Lạng: mặt đường nhựa uốn lượn giữa những triền núi đá vôi xen đồi rừng xanh mát, bầu trời ban mai trong vắt.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng bình minh 07:00 vàng tươi chiếu xiên làm nổi bật chiếc xe Scrambler đen-xanh rêu và gương mặt rạng rỡ của @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Gió sớm thổi nhẹ làm lá cây ven đường và khăn rằn của @Vy đung đưa tự nhiên. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi ngồi sẵn trên yên chiếc xe máy Scrambler đang dừng nổ máy êm bên lề đường đèo xứ Lạng (cả hai đội mũ bảo hiểm 3/4 cài quai gọn gàng, kính chắn gió lật lên cao để lộ rõ mặt).
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy ngồi sau yên xe, đặt tay lên vai @Joi, mỉm cười hào hứng nhìn về phía trước. @Vy nói trực tiếp: Tạm biệt xứ Lạng gió ngàn, giờ mình qua Tuyên Quang thăm cây đa Tân Trào nghen!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi ngoái nhẹ đầu nhìn @Vy, cười tươi vỗ nhẹ lên tay lái. @Joi đáp trực tiếp: Đi Tuyên Quang vừa ôn lịch sử vừa đi thuyền hồ Na Hang là hết sảy luôn!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy cười tươi ôm eo @Joi, cả hai gạt nhẹ kính mũ bảo hiểm xuống và @Joi nhả côn cho chiếc Scrambler lăn bánh êm ái tiến về hướng Tuyên Quang. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng động cơ Scrambler trầm ấm chuyển sang tiếng rồ ga nhẹ nhàng khi lăn bánh, tiếng gió sớm.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền guitar acoustic du lịch trẻ trung, tràn đầy năng lượng (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Thung lũng Ải Chi Lăng:** thung lũng hẹp xanh mướt, một bên là vách núi đá vôi hiểm trở, một bên là dãy núi đất xanh trùng điệp; vườn na và bưởi xanh dưới chân núi; sương mỏng còn vương ở chân núi, nắng sáng xiên vàng.
-- **Xa xa:** dải QL1A uốn qua thung lũng, vài xe tải lớn chạy, nét mờ và nhỏ, không thấy chữ.
-- **Bãi đỗ:** bãi đỗ trống, nền đá, cách xa mép QL1A; không có nhà, cổng hay biển tên trong khung.
-- **Scrambler 400cc:** xám xi măng nhám, yên da nâu chần quả trám, cờ đỏ sao vàng mini sau đuôi xe phấp phới, hai túi da nâu hai bên hông.
-- **Hai mũ 3/4 vintage:** @Vy màu kem be viền da nâu, @Joi màu xanh rêu nhám viền da nâu, kính chắn trong suốt; đội và cài quai suốt clip.
-- Không đưa vào khung: bia, biển báo, cột km có chữ hay số.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi ngồi sẵn trên yên chiếc xe máy Scrambler đang dừng nổ máy êm bên lề đường đèo xứ Lạng (cả hai đội mũ bảo hiểm 3/4 cài quai gọn gàng, kính chắn gió lật lên cao để lộ rõ mặt). | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung 3/4 phía trước thấy rõ @Joi và @Vy ngồi trên xe Scrambler trên cung đường đèo xứ Lạng buổi sớm. |
+| **00:01.5 – 00:04.5** | @Vy ngồi sau yên xe, đặt tay lên vai @Joi, mỉm cười hào hứng nhìn về phía trước. | **@Vy**: Tạm biệt xứ Lạng gió ngàn, giờ mình qua Tuyên Quang thăm cây đa Tân Trào nghen! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi ngoái nhẹ đầu nhìn @Vy, cười tươi vỗ nhẹ lên tay lái. | **@Joi**: Đi Tuyên Quang vừa ôn lịch sử vừa đi thuyền hồ Na Hang là hết sảy luôn! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy cười tươi ôm eo @Joi, cả hai gạt nhẹ kính mũ bảo hiểm xuống và @Joi nhả côn cho chiếc Scrambler lăn bánh êm ái tiến về hướng Tuyên Quang. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ và lia theo chiếc Scrambler khi xe lăn bánh mượt mà về phía trước, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất kéo khóa lên một nửa vì sáng mát, khăn len thổ cẩm đỏ cam quấn quanh cổ, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; đội mũ kem be cài quai, kính đẩy cao; ngồi sau, tay vịn eo @Joi.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm, balo 50L sau lưng; đội mũ xanh rêu cài quai, kính đẩy cao; ngồi lái, hai tay trên ghi-đông.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
-
----
-
-### [10 GIÂY — TỪNG NHỊP]
-
-**00:00–00:03.0 | TỪ BẦU TRỜI SÁNG XUỐNG THUNG LŨNG CHI LĂNG**
-- **Máy:** hạ từ bầu trời xanh xuống vách đá vôi một bên thung lũng, lướt qua vườn na, bưởi xanh, rồi tới chiếc Scrambler ở bãi đỗ.
-- **Hành động:** @Joi nhả bớt ga, xe nổ êm; cả hai đã đẩy kính chắn lên cao. @Vy nghiêng người ra khỏi vai @Joi, ngắm thung lũng.
-- **Âm thanh:** gió thung lũng, chim sáng hót, tiếng xe tải trầm xa trên QL1A, máy xe nổ êm. Không thoại.
-
-**00:03.0–00:05.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa cận mặt @Vy dưới mũ kem be, kính đẩy cao; vách đá vôi nắng sáng phía sau.
-- **Hành động:** @Vy đưa tay chỉ về phía thung lũng hẹp, ánh mắt tự hào, nghiêm trang.
-- **Thoại @Vy** *(giọng nữ trong trẻo, trang trọng, tự hào, giọng miền Nam — 9 âm tiết / 2,5 giây):*
-  > *Ải Chi Lăng, nơi Liễu Thăng tử trận nè!*
-
-**00:05.5–00:07.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang, khóa cận mặt @Joi dưới mũ xanh rêu, kính đẩy cao.
-- **Hành động:** @Joi ngoái lại nhìn @Vy, cười, hất đầu về phía con đường phía trước.
-- **Thoại @Joi** *(giọng nam trầm ấm, hào sảng; Pây và noọng là tiếng Tày, phát âm hơi lơ lớ — 6 âm tiết / 2 giây):*
-  > *Pây Tuyên Quang thôi noọng ơi!*
-
-**00:07.5–00:10.0 | ĐỆM IM LẶNG — GẠT KÍNH, RỜI ẢI CHI LĂNG [KẾT TẬP 4]**
-- **Thoại:** không.
-- **Hành động:** cả hai gạt kính chắn trong suốt xuống, có tiếng click khẽ; @Vy ôm eo @Joi; @Joi vào số; Scrambler lăn bánh rời bãi đỗ, hướng ra con đường xuyên thung lũng. Cờ đỏ sao vàng mini phấp phới sau đuôi xe.
-- **Máy:** nâng lên đại cảnh; chiếc xe nhỏ dần trên con đường xuyên thung lũng, giữa vách đá vôi một bên và đồi núi đất bên kia.
-- **Âm thanh:** máy 400cc tăng ga, gió, đàn Tính và guitar ngân dài kết tập.
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục góc bên hông chuyển sang lia theo xe lăn bánh mượt mà (Smooth Side-Profile to Roll-Off Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung 3/4 phía trước thấy rõ @Joi và @Vy ngồi trên xe Scrambler trên cung đường đèo xứ Lạng buổi sớm.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ và lia theo chiếc Scrambler khi xe lăn bánh mượt mà về phía trước, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, hậu cảnh núi đồi xứ Lạng mờ nhẹ tạo chiều sâu điện ảnh.
 
 ---
 
-### [ÂM THANH & NHẠC]
-Cinematic folk hùng tráng mà ấm: đàn Tính, trống trầm nhẹ, guitar acoustic; mở dần khi máy hạ vào thung lũng, kết bằng một câu đàn Tính ngân dài. Gió thung lũng, chim sáng, tiếng xe tải xa trên QL1A.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-### [KHUNG CUỐI — THUMBNAIL KẾT TẬP 4]
-Chiếc Scrambler nhỏ dần trên con đường xuyên thung lũng Chi Lăng, giữa vách đá vôi một bên và đồi núi đất bên kia, nắng sáng xiên vàng, vườn na và bưởi xanh hai bên; cờ đỏ sao vàng mini sau đuôi xe. Hai người đội mũ 3/4, cài quai, kính đã gạt xuống. Giữ cố định 0,5 giây. Tập 5 Tuyên Quang mở tiếp trên đường.
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung @Joi và @Vy ngồi sẵn trên xe Scrambler bên lề đường đèo Lạng Sơn buổi sáng, mũ bảo hiểm lật kính.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Chiếc Scrambler chở @Joi và @Vy lăn bánh êm ái trên cung đường nắng sớm, nối trực tiếp sang Tập 5 Tuyên Quang.
 
-### [LOẠI TRỪ]
-Dừng xe sát mép QL1A hoặc đứng giữa đường, chạy trên cao tốc, ngồi trên xe chạy mà không đội mũ hoặc không cài quai, mũ biến mất khỏi đầu, xe lăn bánh khi kính còn đẩy cao, mũ fullface che mặt, tái hiện trận đánh, lính, vũ khí, cờ trận, bia, biển báo, cột km có chữ hay số, xe tải cận cảnh có chữ, trời mưa hoặc u ám (mưa chỉ dự báo sau trưa), trăng trên trời, trời tối, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:03.0 hoặc trong 00:07.5–00:10, phụ đề, chữ, watermark, thẻ tên.
+---
+
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhồi nhét cảnh tháo/đội mũ và leo lên xe trong 2 giây cuối; không hiển thị bất kỳ chữ hay phụ đề nào trên màn hình.

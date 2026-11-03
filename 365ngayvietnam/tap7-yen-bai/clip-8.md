@@ -1,91 +1,74 @@
-# TẬP 7 — YÊN BÁI · CLIP 8/9: BỮA TỐI ẤM CÚNG BÊN BẾP LỬA NHÀ SÀN MÙ CANG CHẢI — THỊT LỢN BẢN NƯỚNG MẮC KHÉN & MĂNG VẦU CUỘN THỊT
-**MÃ:** YB-C08 · **GIỜ TRONG PHIM:** 19:00, tối thứ Sáu 30/10/2026 (21/9 âm lịch), tiết trời đêm vùng cao se lạnh khoảng 15 °C · **ĐỊA ĐIỂM:** gian nhà sàn gỗ ấm cúng bên bếp lửa của người Thái tại thị trấn Mù Cang Chải, tỉnh Yên Bái · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm cozy highland stilt-house firelight dinner
-
-> ⏰ **Vì sao ăn giờ này:** Sau khi ngắm hoàng hôn ở Đồi Móng Ngựa Sáng Nhù (chỉ cách thị trấn Mù Cang Chải khoảng 2 km), hai người đội mũ chạy về nhà sàn nghỉ đêm trước 17:20 khi trời vẫn còn sáng rõ. Tối 19:00 ở Mù Cang Chải nhiệt độ vùng núi cao hạ xuống khoảng 14–16 °C, ngồi quây quần bên bếp lửa nhà sàn thưởng thức bữa tối nóng hổi là trải nghiệm ấm áp nhất để nạp năng lượng cho hành trình vượt đèo đi Lai Châu sáng hôm sau.
-> 🍲 **Món đặc sản kiểm chứng:**
-> - **Thịt Lợn Bản Nướng Mắc Khén:** thịt ba chỉ lợn đen bản địa nuôi thả tự nhiên, thớ thịt săn chắc, lớp bì giòn và mỡ thơm trong, ướp cùng **hạt mắc khén rừng** rang giã nhỏ, sả, tỏi rồi nướng trên than củi hồng rực, ăn chấm **chẩm chéo**.
-> - **Măng Vầu Cuộn Thịt & Xôi Nếp Nương:** măng vầu ngọt mềm đặc sản mùa thu vùng núi Yên Bái luộc sơ, cuộn nhân thịt băm trộn rau thơm đem hấp/om nóng hổi, ăn cùng xôi nếp nương dẻo thơm đựng trong ép khẩu (giỏ tre đan truyền thống của người Thái) (Cổng thông tin điện tử tỉnh Yên Bái; Báo Yên Bái).
-> - **Nguyên tắc an toàn:** hai người chỉ uống trà thảo mộc ấm, tuyệt đối không uống rượu ngô hay rượu táo mèo để giữ sức khỏe và an toàn giao thông cho sáng hôm sau.
-> 🔗 **Nối cảnh:** vào từ quầng sáng đỏ cam của hoàng hôn cuối Clip 7 sang **ánh lửa than hồng đỏ cam ấm áp và ánh đèn vàng bên mâm cơm tối trên nhà sàn gỗ Mù Cang Chải** (ngoài khung: xe Scrambler dựng dưới gầm sàn, hai mũ 3/4 đặt gọn trên kệ gỗ cạnh cửa ra vào) · ra bằng **ánh đèn vàng ấm và làn hơi trà ấm bên khung cửa sổ nhà sàn chuyển dần sang ánh bình minh trong trẻo** → Clip 9 mở lúc 07:30 sáng hôm sau tại sân nhà sàn Mù Cang Chải, hai người đội mũ lên đường đi Lai Châu.
+# YB-C08 — Tập 7: Yên Bái — Nấc Thang Lên Trời Mùa Vàng | Clip 8: Rừng Trúc Nả Háng Tủa Chư — Kiếm Hiệp Giữa Đại Ngàn Mù Cang Chải
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt theo thời gian thực; ánh đèn vàng ấm và ánh lửa hồng chiếu sáng rõ gương mặt hai người. Cấm voiceover, cấm tiếng người này khi máy quay người kia hoặc chỉ quay món ăn; không vừa nhai vừa nói.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (Quy tắc 4 từ Tập 5):** `00:00–00:01.0` nối cảnh từ ánh lửa than hồng sang mâm cơm tối (không thoại) · `00:01.0–00:04.5` khóa cận mặt @Vy nói · `00:04.5–00:08.5` lia êm khóa cận mặt @Joi nói · `00:08.5–00:10.0` đệm minh họa không thoại: gắp miếng thịt lợn bản nướng chấm chẩm chéo và nâng chén trà ấm bên nhau.
-- **Mũ bảo hiểm (Quy tắc 9 & Mục IV):** đang ngồi ăn tối trong nhà sàn nên hai người KHÔNG đội mũ bảo hiểm; hai chiếc mũ 3/4 đặt gọn gàng trên chiếc kệ gỗ cạnh cửa nhà sàn ở hậu cảnh xa.
-- **Không rượu bia:** chỉ có ấm trà thảo mộc vùng cao và hai chén sứ nhỏ; tuyệt đối không có chai rượu, nậm rượu hay lon bia.
-- **Địa danh viết hoa:** Mù Cang Chải, Yên Bái.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa thực đơn, bảng giá, nhãn chai lọ có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Rừng trúc Nả Háng Tủa Chư nằm tại bản Nả Háng Tủa Chư, xã Púng Luông, huyện Mù Cang Chải, tỉnh Yên Bái (có tuổi đời trên 60 năm, rộng hơn 1 ha trên sườn núi cao). Hàng ngàn thân trúc xanh thẳng tắp vươn cao vút đan tán lá vào nhau tạo nên khung cảnh thanh tịnh đẹp như phim cổ trang.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 08:00 sáng ngày kế tiếp khi những tia nắng sớm xuyên qua rừng trúc xanh Púng Luông.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Những luồng tia nắng ban mai chiếu xiên qua hàng ngàn thân trúc xanh biếc thẳng tắp trong làn sương mỏng.
+- **Nguồn đối chiếu thực tế**: Điểm du lịch sinh thái Rừng trúc xã Púng Luông (Cổng TTĐT huyện Mù Cang Chải, tỉnh Yên Bái).
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Ánh lửa than hồng đỏ cam ấm áp bập bùng bên cạnh mâm mây truyền thống đặt trên sàn gỗ nhà sàn người Thái ở Mù Cang Chải (khớp sắc đỏ cam ở khung cuối Clip 7): đĩa Thịt Lợn Bản Nướng Mắc Khén vàng ruộm xém cạnh và đĩa Măng Vầu Cuộn Thịt bốc hơi thơm phức. Máy nâng mượt từ mâm ăn lên trung cận @Vy và @Joi đang ngồi bên nhau dưới ánh đèn vàng dịu.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Lối mòn đất tự nhiên đi giữa Rừng trúc Púng Luông (Nả Háng Tủa Chư, Mù Cang Chải): bốn bề là hàng ngàn cây trúc thân thon thẳng tắp màu xanh ngọc bích cao vút đan vào nhau trên cao, nền đất phủ lá trúc khô vàng nhẹ.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng rừng trúc lúc 08:00 sáng (Emerald Bamboo Sunbeams): tia nắng sớm xuyên qua kẽ lá trúc tạo những vệt sáng xanh vàng huyền ảo trên gương mặt @Vy và @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Những thân trúc cao vút đung đưa rất nhẹ và lá trúc xào xạc trong gió sớm, vài chiếc lá trúc nhỏ rơi chậm trong không trung. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi bước chậm trên lối mòn giữa rừng trúc Púng Luông xanh mướt; @Vy dừng lại xoay nhẹ người ngước nhìn vòm trúc cao vút trên đầu.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, chắp hai ngón tay làm kiếm chỉ kiểu hiệp khách cổ trang tinh nghịch. @Vy nói trực tiếp: Rừng trúc Púng Luông xanh mướt thẳng tắp, đứng đây tưởng đang đóng phim kiếm hiệp luôn!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi chắp tay ôm quyền cúi nhẹ kiểu đại hiệp giang hồ đáp lễ @Vy với nụ cười hài hước. @Joi đáp trực tiếp: Tại hạ xin hộ tống nữ hiệp Vy đi ăn hết đặc sản Tây Bắc mới về!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: Cả hai cùng phá lên cười sảng khoái vì màn nhập vai kiếm hiệp giữa rừng trúc Mù Cang Chải rồi nắm tay nhau bước tiếp. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng thân trúc khẽ chạm nhau lách cách và tiếng lá trúc xào xạc trong gió núi.
+- **Nhạc nền (Subtle Background Score)**: Tiếng tiêu trúc ngân nga pha nhịp guitar acoustic dí dỏm, tươi vui (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Gian nhà sàn gỗ ở Mù Cang Chải buổi tối:** vách gỗ thông ấm cúng, treo vài tấm thổ cẩm Thái hoa văn quả trám, đèn lồng mây tỏa ánh vàng dịu; góc bếp củi nhỏ giữ lửa than hồng sưởi ấm không gian đêm vùng cao se lạnh.
-- **Trên mâm mây truyền thống:**
-  - **Thịt Lợn Bản Nướng Mắc Khén:** những miếng thịt ba chỉ lợn bản nướng vàng óng bày trên lá chuối tươi, lớp bì giòn rụm, rắc hạt mắc khén rừng thơm nồng.
-  - **Măng Vầu Cuộn Thịt:** những cuộn măng vầu non màu vàng ngà ôm gọn nhân thịt băm và hành lá xanh, bốc khói ấm nóng.
-  - **Giỏ tre đựng xôi nếp nương (ép khẩu)** mở nắp lộ hạt xôi trắng ngần dẻo thơm, chén muối **chẩm chéo** và ấm trà thảo mộc nóng cùng hai chén trà sứ.
-- **Hậu cảnh góc cửa:** kệ gỗ thấp đặt gọn hai chiếc mũ 3/4 kem be và xanh rêu cùng balo 50L.
-- Không đưa vào khung: rượu bia, bảng giá, thực đơn có chữ, mặt người lạ.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi bước chậm trên lối mòn giữa rừng trúc Púng Luông xanh mướt; @Vy dừng lại xoay nhẹ người ngước nhìn vòm trúc cao vút trên đầu. | *(Không thoại — âm thanh môi trường sống động)* | Camera lùi chậm ở góc trung rộng thấy rõ những hàng trúc thẳng tắp xanh biếc của Púng Luông và @Vy, @Joi bước trên lối mòn. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, chắp hai ngón tay làm kiếm chỉ kiểu hiệp khách cổ trang tinh nghịch. | **@Vy**: Rừng trúc Púng Luông xanh mướt thẳng tắp, đứng đây tưởng đang đóng phim kiếm hiệp luôn! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi chắp tay ôm quyền cúi nhẹ kiểu đại hiệp giang hồ đáp lễ @Vy với nụ cười hài hước. | **@Joi**: Tại hạ xin hộ tống nữ hiệp Vy đi ăn hết đặc sản Tây Bắc mới về! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | Cả hai cùng phá lên cười sảng khoái vì màn nhập vai kiếm hiệp giữa rừng trúc Mù Cang Chải rồi nắm tay nhau bước tiếp. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera giữ khung hình đôi (Two-Shot) vui nhộn giữa rừng trúc xanh và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [MÓN ĐẶC SẢN — CẬN TỪNG CHI TIẾT]
-- **Thịt Lợn Bản Nướng Mắc Khén:** miếng thịt thái dày vừa ăn, nướng than củi nên cạnh xém vàng, phần mỡ trong veo giòn sần sật không ngấy, bám đều hạt mắc khén rang thơm tê đầu lưỡi.
-- **Măng Vầu Cuộn Thịt:** lớp măng vầu rừng mỏng mềm mà giòn ngọt tự nhiên, cuộn chặt phần nhân thịt đậm đà, ấm nóng.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt lùi chậm dọc lối rừng trúc kết hợp lia cận cảnh (Smooth Bamboo-Grove Dolly & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera lùi chậm ở góc trung rộng thấy rõ những hàng trúc thẳng tắp xanh biếc của Púng Luông và @Vy, @Joi bước trên lối mòn.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt tinh nghịch của @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi đang ôm quyền (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera giữ khung hình đôi (Two-Shot) vui nhộn giữa rừng trúc xanh và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 50mm f/2.0, các thân trúc ở tiền cảnh và hậu cảnh tạo đường dẫn thị giác thẳng đứng đầy nghệ thuật.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất mở khóa vì bên bếp lửa ấm áp, khăn len thổ cẩm đỏ cam vắt hờ trên vai, jeans xanh nhạt; không đội mũ, mái tóc nâu hạt dẻ uốn sóng ánh lên sắc vàng ấm của đèn và lửa; nụ cười dịu dàng hạnh phúc.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu mở khóa cổ thoải mái, cargo be cát; không đội mũ; ngồi sát bên @Vy, ánh mắt ấm áp cưng chiều.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung giữa rừng trúc Púng Luông (Mù Cang Chải) xanh mướt có tia nắng xuyên qua, @Vy và @Joi đi bộ trên lối mòn.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi cười tươi sau màn tạo dáng hiệp khách giữa rừng trúc.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | TỪ ÁNH LỬA HỒNG & MÂM CƠM TỐI LÊN HAI NGƯỜI**
-- **Máy:** từ ánh than hồng ấm áp lướt qua đĩa thịt lợn bản nướng mắc khén và măng vầu cuộn thịt bốc khói, nâng mượt lên trung cận @Vy và @Joi bên mâm ăn.
-- **Hành động:** @Vy cầm đũa tre gắp một cuộn măng vầu cuộn thịt nóng hổi; @Joi vừa rót trà thảo mộc ấm ra chén.
-- **Âm thanh:** tiếng củi than nổ lách tách êm đềm, tiếng rót trà ấm. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa chặt cận mặt @Vy, ánh đèn vàng ấm làm đôi mắt và nụ cười má lúm đồng tiền lung linh.
-- **Hành động:** @Vy nâng nhẹ miếng măng vầu cuộn thịt và chỉ vào đĩa thịt nướng trên mâm, cười ngọt ngào nhìn ống kính.
-- **Thoại @Vy** *(00:01.2–00:04.5; giọng nữ trong trẻo, ấm áp, giọng miền Nam — 14 âm tiết / 3,3 giây):*
-  > *Tối Mù Cang Chải se lạnh, ăn thịt lợn bản nướng mắc khén nè!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang phải, khóa chặt cận mặt @Joi bên ánh đèn vàng; miệng anh không nhai khi nói.
-- **Hành động:** @Joi chỉ nhẹ vào đĩa măng vầu cuộn thịt và giỏ xôi nếp nương, quay sang @Vy cười trìu mến.
-- **Thoại @Joi** *(00:04.8–00:08.3; giọng nam trầm ấm, hài lòng — 14 âm tiết / 3,5 giây):*
-  > *Thêm măng vầu cuộn thịt với xôi nếp nương ấm bụng quá em ơi!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA KHÔNG THOẠI — CHẤM CHẨM CHÉO & CHÉN TRÀ ẤM**
-- **Thoại:** không.
-- **Hành động:** @Joi gắp một miếng thịt lợn bản nướng vàng ươm chấm nhẹ vào chén chẩm chéo rồi đặt vào bát cho @Vy; hai người nâng hai chén trà thảo mộc ấm chạm nhẹ vào nhau, mỉm cười tình tứ bên ánh đèn vàng nhà sàn.
-- **Máy:** lùi nhẹ lấy khung trung cận ấm cúng của hai người rồi hướng nhẹ về phía khung cửa sổ gỗ nơi ánh đèn vàng tỏa ra màn sương đêm để nối sang bình minh sáng hôm sau ở Clip 9.
-- **Âm thanh:** tiếng chén sứ chạm khẽ, tiếng đàn tính tẩu và guitar acoustic lo-fi dịu ngọt.
-
----
-
-### [ÂM THANH & NHẠC]
-Lo-fi acoustic folk ấm cúng và dịu dàng bên bếp lửa nhà sàn, tiếng đàn tính tẩu gảy nhẹ hòa cùng guitar mộc. Âm thanh môi trường: lửa củi lách tách nhẹ, tiếng chén trà chạm khẽ.
-
-### [KHUNG CUỐI → CLIP 9]
-Ánh đèn vàng ấm áp bên khung cửa gỗ nhà sàn Mù Cang Chải cùng làn hơi trà mỏng bay lên. Giữ cố định 0,5 giây. Clip 9 mở bằng tia nắng bình minh vàng ấm chiếu xuống sân nhà sàn Mù Cang Chải lúc 07:30 sáng hôm sau (31/10), nơi chiếc Scrambler đã dựng sẵn để lên đường đi Lai Châu.
-
-### [LOẠI TRỪ]
-Rượu bia trên mâm ăn, đội mũ bảo hiểm khi ngồi ăn trong nhà sàn, vừa nhai vừa nói, thực đơn hay bảng giá có chữ, mặt chủ nhà hay người lạ cận cảnh, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10.0, cắt cảnh, phụ đề, chữ, watermark, thẻ tên.
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không thay đổi trang phục hiện đại của @Vy và @Joi sang đồ cổ trang; họ vẫn mặc đúng áo khoác vàng mù tạt và áo denim chuẩn khóa nhận diện.

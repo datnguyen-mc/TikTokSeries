@@ -1,86 +1,74 @@
-# TẬP 8 — LAI CHÂU · CLIP 1/6: ĐỒI CHÈ TÂN UYÊN — BÚP CHÈ NON ĐẪM SƯƠNG SỚM VEN QUỐC LỘ 32
-**MÃ:** LC-C01 · **GIỜ TRONG PHIM:** 09:00, sáng thứ Bảy 31/10/2026 (22/9 âm lịch), nắng sớm trong trẻo chiếu lấp lánh trên những luống chè · **ĐỊA ĐIỂM:** lối đất ven Đồi Chè Tân Uyên (nằm dọc Quốc lộ 32, thị trấn Tân Uyên, huyện Tân Uyên, tỉnh Lai Châu) · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm highland tea hill morning arrival
-
-> ⏰ **Vì sao đi giờ này:** Xuất phát từ Mù Cang Chải lúc 07:30 sáng theo QL32 qua Than Uyên tới thị trấn Tân Uyên (Lai Châu) lúc 09:00 sáng. Đây là thời điểm nắng sớm vừa chiếu xiên qua làn sương mỏng, làm những giọt sương đọng trên búp chè Shan Tuyết và Kim Tuyên lấp lánh như ngọc.
-> 📍 **Check-in & thông tin kiểm chứng:** **Đồi Chè Tân Uyên** nằm ngay dọc Quốc lộ 32 thuộc huyện Tân Uyên, tỉnh Lai Châu, có quy mô hơn 2.000 ha với nhiều gốc chè cổ tuổi đời 40–50 năm (Cổng thông tin điện tử tỉnh Lai Châu; Cục Du lịch Quốc gia Việt Nam). Lưu ý: dừng xe gọn ở lối đất đầu đồi, đi đúng rãnh lối mòn, không bẻ búp hay giẫm lên luống chè.
-> 🔗 **Nối cảnh:** vào trực tiếp từ cuối [Tập 7 Clip 9](../tap7-yen-bai/clip-9.md) (Scrambler lăn bánh theo QL32 hướng sang Lai Châu; mở đầu Clip 1 chiếc xe vừa dừng hẳn bên lối đất cạnh Đồi Chè Tân Uyên, hai người bấm nhả quai, tháo mũ 3/4 móc gọn lên ghi-đông) · ra bằng **máy nâng từ những luống chè xanh mướt lên dải mây trắng vờn quanh dãy núi cao phía xa** → Clip 2 mở bằng biển mây trắng cuồn cuộn trên đỉnh Đèo Ô Quy Hồ phía Tam Đường – Lai Châu.
+# LC8-C01 — Tập 8: Lai Châu — Đại Ngàn Kỳ Vĩ Nơi Biên Viễn | Clip 1: Đồi Thông & Cánh Đồng Mường Than — Cửa Ngõ Lai Châu
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt theo thời gian thực. Cấm voiceover, cấm tiếng người này khi máy đang quay người kia hoặc chỉ quay đồi chè.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (Quy tắc 4):** `00:00–00:01.0` nối cảnh tháo mũ 3/4 móc lên ghi-đông (không thoại) · `00:01.0–00:04.5` khóa cận mặt @Vy nói · `00:04.5–00:08.5` lia êm khóa cận mặt @Joi nói · `00:08.5–00:10.0` đệm minh họa không thoại: hai người sánh bước bên luống chè xanh đẫm sương, máy nâng lên dải mây trắng trên đỉnh núi xa.
-- **Mũ bảo hiểm (logic đạo cụ vật lý 100%):** lúc 00:00 chiếc Scrambler vừa dừng ở lối đất ven đồi chè, trong `00:00–00:01.0` hai người vừa bấm nhả quai, tháo mũ 3/4 móc gọn lên ghi-đông xe rồi bước tới bên luống chè với mái tóc tự nhiên.
-- **Địa danh viết hoa:** Đồi Chè Tân Uyên, Tân Uyên, Lai Châu.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa biển báo, cột mốc km hay bảng chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Cánh đồng Mường Than thuộc huyện Than Uyên, tỉnh Lai Châu (nằm ngay trên trục Quốc lộ 32 khi vừa từ Mù Cang Chải, Yên Bái sang Lai Châu). Mường Than là cánh đồng lớn thứ ba vùng Tây Bắc ('Nhất Thanh, nhì Lò, tam Than, tứ Tấc'), bên cạnh là khu Đồi thông Than Uyên xanh mướt và lòng hồ thủy điện Bản Chát.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 07:30 sáng tại điểm dừng ngắm cảnh Đồi thông nhìn xuống cánh đồng Mường Than (Than Uyên, Lai Châu).
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Nắng sớm chiếu xuyên qua hàng thông xanh thẳng tắp trên đồi cao, phía dưới là cánh đồng Mường Than và làn sương mai mỏng.
+- **Nguồn đối chiếu thực tế**: Cổng TTĐT huyện Than Uyên, Cổng TTĐT tỉnh Lai Châu.
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Tại lối đất phẳng ven Đồi Chè Tân Uyên ngập nắng sớm, chiếc Scrambler xám xi măng vừa dừng hẳn; @Vy và @Joi vừa bấm nhả quai, tháo hai chiếc mũ 3/4 kem be và xanh rêu móc gọn lên ghi-đông xe, phía sau là những luống chè xanh mướt uốn lượn tầng tầng lớp lớp ôm trọn sườn đồi.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Đường ven Đồi thông Than Uyên nhìn xuống toàn cảnh cánh đồng Mường Than rộng lớn (huyện Than Uyên, Lai Châu): những rặng thông xanh thẳng tắp bên lề đường, phía dưới thung lũng là cánh đồng bằng phẳng trù phú được bao bọc bởi dãy núi Hoàng Liên Sơn và Pu Sam Cáp.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh sáng buổi sáng 07:30 vàng trong trẻo xuyên qua tán lá thông tạo những vệt nắng đẹp mắt trên thân xe Scrambler và gương mặt @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Lá thông kim rung rinh nhẹ trong gió sớm, làn sương mỏng trên cánh đồng Mường Than phía dưới tan chậm. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng cạnh chiếc xe máy Scrambler đen-xanh rêu bên rặng thông nhìn xuống cánh đồng Mường Than (cả hai đội sẵn mũ bảo hiểm 3/4 lật kính trong suốt lên cao); @Vy hít một hơi sâu tận hưởng hương nhựa thông buổi sớm.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy quay sang @Joi, tay chỉ xuống cánh đồng Mường Than rộng lớn dưới chân đồi thông. @Vy nói trực tiếp: Tập tám qua tới Lai Châu rồi, cánh đồng Mường Than rộng mênh mông giữa núi rừng luôn!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi mỉm cười nhìn quanh rặng thông xanh mát rồi quay sang nói với @Vy. @Joi đáp trực tiếp: Nhất Thanh nhì Lò tam Than tứ Tấc, nay mình đi đủ cả Mường Lò lẫn Mường Than!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy cười tươi vỗ tay tán thưởng kiến thức địa lý của @Joi, cả hai cùng gạt nhẹ kính chắn gió mũ bảo hiểm xuống sẵn sàng tiến sâu vào đất Lai Châu. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió thổi rì rào qua rừng thông, tiếng máy xe Scrambler nổ garanti trầm ấm.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo trúc Tây Bắc kết hợp guitar acoustic khoáng đạt (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Đồi Chè Tân Uyên (Lai Châu):** hàng trăm luống chè xanh thẫm được cắt tỉa tròn đều uốn lượn như sóng lượn trên sườn đồi thoai thoải; những búp chè non xanh mơn mởn còn đọng giọt sương sớm lấp lánh dưới nắng vàng. Phía xa là dãy núi Tây Bắc ẩn hiện trong mây trắng.
-- **Scrambler 400cc & hai mũ 3/4:** xe dựng chân chống vững chãi trên lối đất ven đồi, hai mũ 3/4 móc gọn trên ghi-đông từ 00:01.0.
-- **Đạo cụ nhân vật:** @Vy đeo túi mây tròn chéo vai; @Joi đeo balo 50L sau lưng.
-- Không đưa vào khung: bảng chữ, biển tên nông trường, người lạ cận mặt.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng cạnh chiếc xe máy Scrambler đen-xanh rêu bên rặng thông nhìn xuống cánh đồng Mường Than (cả hai đội sẵn mũ bảo hiểm 3/4 lật kính trong suốt lên cao); @Vy hít một hơi sâu tận hưởng hương nhựa thông buổi sớm. | *(Không thoại — âm thanh môi trường sống động)* | Camera ở góc trung rộng thấy rõ rặng thông Than Uyên, cánh đồng Mường Than phía dưới và hai nhân vật bên xe Scrambler, hạ mượt vào tầm mắt. |
+| **00:01.5 – 00:04.5** | @Vy quay sang @Joi, tay chỉ xuống cánh đồng Mường Than rộng lớn dưới chân đồi thông. | **@Vy**: Tập tám qua tới Lai Châu rồi, cánh đồng Mường Than rộng mênh mông giữa núi rừng luôn! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi mỉm cười nhìn quanh rặng thông xanh mát rồi quay sang nói với @Vy. | **@Joi**: Nhất Thanh nhì Lò tam Than tứ Tấc, nay mình đi đủ cả Mường Lò lẫn Mường Than! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy cười tươi vỗ tay tán thưởng kiến thức địa lý của @Joi, cả hai cùng gạt nhẹ kính chắn gió mũ bảo hiểm xuống sẵn sàng tiến sâu vào đất Lai Châu. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) bên xe Scrambler tại cửa ngõ Lai Châu và giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [GÓC CHECK-IN — BỐ CỤC KHUNG HÌNH]
-- **Tiền cảnh:** những búp chè non xanh mướt đọng sương và chiếc Scrambler với hai mũ 3/4 móc trên ghi-đông.
-- **Trung cảnh:** @Vy và @Joi đầu trần, gương mặt rạng rỡ dưới ánh nắng sớm trong lành.
-- **Hậu cảnh:** những vòng cung đồi chè Tân Uyên trải dài bất tận tới chân núi mây phủ.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục hạ thấp từ tán thông xuống cận cảnh nhân vật (Smooth Pine-Hill Crane-Down to MCU Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera ở góc trung rộng thấy rõ rặng thông Than Uyên, cánh đồng Mường Than phía dưới và hai nhân vật bên xe Scrambler, hạ mượt vào tầm mắt.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) bên xe Scrambler tại cửa ngõ Lai Châu và giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/2.8, hậu cảnh cánh đồng Mường Than và núi rừng Lai Châu mở rộng hùng vĩ.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất, khăn len thổ cẩm đỏ cam quấn cổ, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; vừa tháo mũ móc lên xe, mái tóc nâu hạt dẻ uốn sóng buông mềm mại; nụ cười má lúm tươi tắn.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm, balo 50L sau lưng; vừa móc mũ xanh rêu lên ghi-đông, đứng sát bên @Vy.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng bên Đồi thông nhìn xuống cánh đồng Mường Than (Than Uyên, Lai Châu), @Vy và @Joi đứng cạnh xe Scrambler.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Vy và @Joi bên xe Scrambler, sẵn sàng nối sang cảnh Thác Tác Tình ở Clip 2.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | MÓC MŨ LÊN GHI-ĐÔNG — BƯỚC TỚI LUỐNG CHÈ XANH**
-- **Máy:** từ hai chiếc mũ 3/4 vừa được tay @Vy và @Joi móc gọn lên ghi-đông chiếc Scrambler, nâng mượt lên trung cận hai người bên luống chè xanh mướt.
-- **Hành động:** hai người móc xong mũ lên ghi-đông, bước nhẹ tới sát luống chè xanh đẫm sương sớm.
-- **Âm thanh:** tiếng quai mũ chạm nhẹ ghi-đông, tiếng gió sớm thổi qua lá chè rì rào. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa chặt cận mặt @Vy, nắng sớm viền vàng trên mái tóc uốn sóng, phía sau là những luống chè Tân Uyên xanh ngát.
-- **Hành động:** @Vy nghiêng nhẹ người chỉ tay dọc theo những vòng cung chè xanh mướt trải dài rồi nhìn ống kính cười rạng rỡ.
-- **Thoại @Vy** *(00:01.2–00:04.5; giọng nữ trong trẻo, hào hứng, giọng miền Nam — 15 âm tiết / 3,3 giây):*
-  > *Đồi Chè Tân Uyên ở Lai Châu xanh mướt dọc quốc lộ ba hai nè!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang khóa chặt cận mặt @Joi, hậu cảnh là sườn đồi chè xanh nối liền với dãy núi cao mây phủ.
-- **Hành động:** @Joi cúi nhẹ nâng niu một búp chè non đọng giọt sương trên cành (không ngắt lá), hít nhẹ hương trà tươi rồi nhìn @Vy mỉm cười.
-- **Thoại @Joi** *(00:04.8–00:08.3; giọng nam trầm ấm, thích thú — 16 âm tiết / 3,5 giây):*
-  > *Búp chè non đẫm sương sớm thơm dịu, rộng hơn hai ngàn héc-ta đó em!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA KHÔNG THOẠI — ĐỒI CHÈ XANH & DẢI MÂY ĐỈNH NÚI**
-- **Thoại:** không.
-- **Hành động:** @Joi nắm tay @Vy cùng nhìn về phía dãy núi Hoàng Liên Sơn cao vút ẩn hiện trong biển mây trắng phía xa.
-- **Máy:** nâng mượt từ búp chè non xanh mướt qua vai hai người lên dải mây trắng vờn quanh đỉnh núi cao để nối sang Đèo Ô Quy Hồ ở Clip 2.
-- **Âm thanh:** tiếng sáo Mông và guitar acoustic tươi sáng hòa cùng tiếng gió đồi chè.
-
----
-
-### [ÂM THANH & NHẠC]
-Upbeat acoustic folk Tây Bắc trong trẻo với tiếng sáo trúc và guitar rải ngón. Âm thanh môi trường: gió sớm rì rào qua lá chè, tiếng chim hót buổi sáng.
-
-### [KHUNG CUỐI → CLIP 2]
-Dải mây trắng bồng bềnh vờn quanh đỉnh núi cao phía trên những luống chè xanh mướt dưới nắng sớm. Giữ cố định 0,5 giây. Clip 2 mở bằng toàn cảnh biển mây trắng cuồn cuộn trên đỉnh Đèo Ô Quy Hồ phía Tam Đường – Lai Châu.
-
-### [LOẠI TRỪ]
-Mũ bảo hiểm tự biến mất không thấy trên ghi-đông, ngắt bẻ búp chè hay giẫm lên luống chè, biển báo hay bảng tên có chữ, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10.0, cắt cảnh, phụ đề, chữ, watermark, thẻ tên. Always keep the entire 10-second shot as clean live-action scene footage; never flash or cut to an attached character reference, vehicle reference, or split-screen collage at the end of the clip.
-
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhảy góc đột ngột; giữ đúng một cú máy gimbal 3 trục liên tục.

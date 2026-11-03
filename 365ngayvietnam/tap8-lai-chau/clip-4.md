@@ -1,87 +1,74 @@
-# TẬP 8 — LAI CHÂU · CLIP 4/6: BẢN SIN SUỐI HỒ — BẢN NGƯỜI MÔNG NGẬP HOA ĐỊA LAN & THÁC TRÁI TIM
-**MÃ:** LC-C04 · **GIỜ TRONG PHIM:** 14:30, chiều thứ Bảy 31/10/2026, nắng chiều dịu xuyên qua tán rừng và làn hơi nước · **ĐỊA ĐIỂM:** lối đi lát đá rợp chậu hoa địa lan dẫn ra Thác Trái Tim tại Bản Sin Suối Hồ, xã Sin Suối Hồ, huyện Phong Thổ, tỉnh Lai Châu · **THỜI LƯỢNG:** đúng 10 giây, một cú máy liền · **KHUNG:** dọc 9:16 · 24fps · Cinematic 35mm Hmong orchid village & waterfall walk
-
-> ⏰ **Vì sao đi giờ này:** Bản Sin Suối Hồ cách trung tâm Lai Châu khoảng 30 km ở độ cao gần 1.500m. Khoảng 14:30 chiều là lúc nắng chiều dịu mát rọi qua những mái nhà trình tường gỗ pơ-mu, chiếu sáng hàng vạn chậu hoa địa lan dọc lối đá và tạo cầu vồng nhẹ dưới chân **Thác Trái Tim**.
-> 📍 **Check-in & thông tin kiểm chứng:** **Bản Sin Suối Hồ** (tiếng bản địa nghĩa là **"Suối có vàng"**) là bản du lịch cộng đồng của người Mông từng đạt **Giải thưởng Du lịch Cộng đồng ASEAN lần thứ 3**, nổi tiếng với ý thức giữ gìn môi trường xanh – sạch – đẹp không một cọng rác, hơn 30.000 chậu **hoa địa lan** và **Thác Trái Tim** (Cục Du lịch Quốc gia Việt Nam; Cổng thông tin điện tử tỉnh Lai Châu).
-> 🔗 **Nối cảnh:** vào từ giò hoa địa lan bên hiên gỗ cuối Clip 3 sang **hàng chậu hoa địa lan xanh mướt xếp dọc bức tường đá rêu phong dẫn ra Thác Trái Tim ở Bản Sin Suối Hồ** · ra bằng **làn sương nước mát lành từ Thác Trái Tim bay lên đón tia nắng chiều vàng ấm** → Clip 5 mở bằng biển mây chiều nhuộm rực ánh hoàng hôn vàng cam trên Cao Nguyên Sìn Hồ.
+# LC8-C04 — Tập 8: Lai Châu — Đại Ngàn Kỳ Vĩ Nơi Biên Viễn | Clip 4: Đồi Chè Tân Uyên — Biển Xanh Dưới Chân Hoàng Liên Sơn
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean)
 
 ---
 
-### [QUY TẮC KỸ THUẬT]
-- **Ai nói thì máy thấy rõ mặt người đó:** cận hoặc trung cận, thấy môi, khẩu hình khớp từng âm tiết tiếng Việt theo thời gian thực. Cấm voiceover, cấm tiếng người này khi máy đang quay người kia hoặc chỉ quay thác nước.
-- **Thoại viết sau dấu hai chấm, không đặt trong ngoặc kép: chỉ nói thành tiếng, không hiện chữ trên hình.**
-- **Clip ở yên một chỗ (Quy tắc 4):** `00:00–00:01.0` nối cảnh hàng chậu địa lan và Thác Trái Tim nâng lên hai người (không thoại) · `00:01.0–00:04.5` khóa cận mặt @Vy nói · `00:04.5–00:08.5` lia êm khóa cận mặt @Joi nói · `00:08.5–00:10.0` đệm minh họa không thoại: hai người đứng trên cầu tre ngắm dòng Thác Trái Tim tung bọt trắng xóa.
-- **Mũ bảo hiểm (Quy tắc 9):** xe Scrambler và hai chiếc mũ 3/4 đã gửi tại bãi đỗ cổng bản (ngoài khung); hai người đi bộ tham quan bản và thác nước nên hoàn toàn KHÔNG đội mũ, KHÔNG cầm mũ trên tay.
-- **Địa danh viết hoa:** Bản Sin Suối Hồ, Sin Suối Hồ, Thác Trái Tim, Phong Thổ, Lai Châu.
-- Một cú máy liền 10 giây, không cắt. Không phụ đề, không chữ, không watermark, không thẻ tên; không đưa bảng chỉ dẫn hay biển hiệu có chữ vào khung.
+### [1. THÔNG TIN ĐỊA ĐIỂM & NGUỒN KIỂM CHỨNG — REAL-WORLD LOCATION VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Đồi chè Tân Uyên nằm dọc Quốc lộ 32 thuộc thị trấn Tân Uyên, huyện Tân Uyên, tỉnh Lai Châu (cách TP. Lai Châu khoảng 50 km về phía Đông Nam). Với diện tích hơn 2.000 ha chè có tuổi đời từ 40–50 năm nằm ở độ cao 600–700m dưới chân dãy Hoàng Liên Sơn, những luống chè được cắt tỉa uốn lượn đều tăm tắp trải dài đến tận chân núi.
+- **Thông tin ước tính hợp lý `[ƯỚC TÍNH HỢP LÝ — ESTIMATED]`**: Thời điểm 14:00 chiều nắng vàng chiếu trên những luống chè xanh mướt tại Tân Uyên.
+- **Yếu tố dàn dựng điện ảnh `[DÀN DỰNG ĐIỆN ẢNH — STAGED CINEMATIC]`**: Những luống chè xanh biếc uốn lượn như sóng biển dưới nắng chiều, phía xa là sườn núi Hoàng Liên Sơn hùng vĩ.
+- **Nguồn đối chiếu thực tế**: Cổng TTĐT huyện Tân Uyên, Sở VHTTDL tỉnh Lai Châu.
 
 ---
 
-### [KHUNG ĐẦU 00:00]
-Từ những chậu hoa địa lan xanh mướt xếp ngay ngắn trên bờ tường đá cuội sạch bóng không một cọng rác trước nếp nhà trình tường người Mông, máy nâng mượt lên trung cận @Vy và @Joi đang đứng trên nhịp cầu tre nhỏ, phía sau là dòng **Thác Trái Tim** đổ xuống vách đá rừng xanh thẳm tung bọt trắng xóa.
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực giữa tiền cảnh, trung cảnh và hậu cảnh.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN — 100% CHARACTER & PROP LOCK]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái có chữ "VN" thêu nhỏ màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- **@Joi** (Nam chính — 27 tuổi, 1m75, 68kg, vai rộng săn chắc khỏe mạnh): Khuôn mặt góc cạnh nam tính, xương hàm rõ, mắt một mí lót sâu ánh nhìn ấm áp hay cười, lông mày rậm tự nhiên, mũi thẳng đầu mũi tròn nhẹ, môi vừa phải, râu hàm tỉa sát 1mm (stubble), da ngăm sáng rám nắng nhẹ với kết cấu da thật tự nhiên, vết sẹo nhỏ 1cm ở đuôi lông mày phải, tóc đen cắt ngắn hai bên (undercut nhẹ) phần đỉnh dài 6-7cm vuốt tự nhiên hơi rối vì gió, giọng miền Nam trầm ấm hài hước. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- **Phương tiện khóa đồng bộ (khi xuất hiện)**: Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa형 & Kiến trúc thực tế**: Lối đi nhỏ giữa Đồi chè Tân Uyên (huyện Tân Uyên, Lai Châu): xung quanh @Vy và @Joi là những luống chè xanh mướt được cắt tỉa tròn trịa uốn lượn nối tiếp nhau trải rộng mênh mông, phía xa hậu cảnh là dãy núi Hoàng Liên Sơn sừng sững.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng chiều 14:00 tươi sáng làm bừng lên sắc xanh ngọc lục bảo của những búp chè non, tương phản tuyệt đẹp với chiếc áo khoác vàng mù tạt của @Vy. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), vùng tối giữ nguyên chi tiết, chiều sâu không khí (atmospheric perspective) giảm độ tương phản tự nhiên theo khoảng cách địa lý.
+- **Chuyển động môi trường & Chi tiết vật lý (Environmental Motion & Detail)**: Những búp chè non trên đỉnh luống chè rung rinh nhẹ trong gió chiều, tóc và khăn rằn của @Vy bay khẽ. Mọi lá cây, ngọn cỏ, vạt áo và lọn tóc phản ứng không đồng bộ (asynchronous natural motion) theo cùng một hướng gió vật lý thực tế.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh & chuyển động vật lý mượt mà)**: @Vy và @Joi đứng trên lối đi giữa những luống chè xanh mướt của Đồi chè Tân Uyên; @Vy cúi nhẹ chạm đầu ngón tay vào một búp chè non một tôm hai lá xanh mơn mởn.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Cận cảnh trung @Vy)**: Camera lấy nét mượt mà vào gương mặt @Vy, thấy rõ 100% mắt, biểu cảm rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trong trẻo, nhịp thở tự nhiên, không đọc vội. @Vy ngước lên quay sang @Joi, nụ cười tươi tắn giữa biển chè xanh ngát. @Vy nói trực tiếp: Đồi chè Tân Uyên rộng hơn hai ngàn héc-ta, nhìn đâu cũng một màu xanh mát mắt!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Cận cảnh trung @Joi)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi, thấy rõ 100% khuôn mặt nam tính, ánh mắt biết cười và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm hài hước. @Joi giơ máy ảnh Fujifilm lên ngắm góc chụp @Vy giữa đồi chè rồi hạ máy cười trêu cô. @Joi đáp trực tiếp: Em mặc áo vàng đứng giữa đồi chè xanh là nổi bần bật nhất huyện Tân Uyên luôn!
+- **00:07.5 – 00:10.0 (Hành động kết cảnh thực tế & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy bật cười tạo dáng dang nhẹ tay giữa luống chè xanh, @Joi bấm máy ghi lại khoảnh khắc rạng rỡ dưới chân dãy Hoàng Liên Sơn. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở và độ vang âm học phù hợp không gian mở; tuyệt đối không dùng voiceover khi nhân vật đang nói trên hình, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng gió thổi rì rào qua đồi chè rộng lớn, tiếng màn trập máy ảnh tách nhẹ.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền acoustic tươi sáng, trẻ trung và tràn đầy sức sống (âm lượng nhỏ hơn thoại 12dB, không lấn át tiếng môi trường).
 
 ---
 
-### [BỐI CẢNH & ĐẠO CỤ]
-- **Bản Sin Suối Hồ & Thác Trái Tim (Phong Thổ, Lai Châu):**
-  - Tiền cảnh & lối đi: con đường lát đá cuội sạch tinh tươm, hai bên là tường đá xếp thủ công đặt hàng chục chậu **hoa địa lan** lá xanh mướt vươn cong mềm mại trước hiên nhà gỗ người Mông.
-  - Hậu cảnh: dòng **Thác Trái Tim** từ trên vách đá cao đổ xuống tạo thành hai nhánh nước chụm lại như hình trái tim giữa rừng cây nguyên sinh xanh ngắt, làn hơi nước mát lành tỏa nhẹ dưới nắng chiều.
-- **Đạo cụ nhân vật:** @Vy đeo túi mây tròn chéo vai; @Joi đeo balo 50L sau lưng; cả hai đầu trần (xe và mũ gửi ở bãi đỗ cổng bản).
-- Không đưa vào khung: bảng tên thác có chữ, rác thải, người lạ cận mặt.
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế (Real-time Physics) | Thoại tiếng Việt (Giọng miền Nam, ≤ 14 âm tiết/câu) | Góc máy & Tiêu cự (Continuous 3D Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng trên lối đi giữa những luống chè xanh mướt của Đồi chè Tân Uyên; @Vy cúi nhẹ chạm đầu ngón tay vào một búp chè non một tôm hai lá xanh mơn mởn. | *(Không thoại — âm thanh môi trường sống động)* | Camera trượt ngang từ góc thấp qua luống chè xanh ở tiền cảnh, nâng nhẹ lên khung hình trung của @Vy và @Joi giữa Đồi chè Tân Uyên. |
+| **00:01.5 – 00:04.5** | @Vy ngước lên quay sang @Joi, nụ cười tươi tắn giữa biển chè xanh ngát. | **@Vy**: Đồi chè Tân Uyên rộng hơn hai ngàn héc-ta, nhìn đâu cũng một màu xanh mát mắt! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy |
+| **00:04.5 – 00:07.5** | @Joi giơ máy ảnh Fujifilm lên ngắm góc chụp @Vy giữa đồi chè rồi hạ máy cười trêu cô. | **@Joi**: Em mặc áo vàng đứng giữa đồi chè xanh là nổi bần bật nhất huyện Tân Uyên luôn! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi |
+| **00:07.5 – 00:10.0** | @Vy bật cười tạo dáng dang nhẹ tay giữa luống chè xanh, @Joi bấm máy ghi lại khoảnh khắc rạng rỡ dưới chân dãy Hoàng Liên Sơn. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ về khung hình đôi (Two-Shot) khi @Joi chụp ảnh cho @Vy giữa biển chè xanh Tân Uyên, giảm tốc dừng tự nhiên ở 09.5s–10.0s. |
 
 ---
 
-### [GÓC CHECK-IN — BỐ CỤC KHUNG HÌNH]
-- **Tiền cảnh:** những chậu hoa địa lan trên tường đá cuội và lan can cầu tre.
-- **Trung cảnh:** @Vy và @Joi đầu trần, gương mặt rạng rỡ dưới ánh nắng chiều xuyên qua tán rừng.
-- **Hậu cảnh:** dòng Thác Trái Tim trắng xóa giữa rừng xanh Bản Sin Suối Hồ.
+### [4. ĐƯỜNG CHUYỂN ĐỘNG CAMERA — ULTRA-SMOOTH 3D CAMERA MOVEMENT PATH]
+
+- **Loại chuyển động chủ đạo**: Gimbal 3 trục trượt ngang qua luống chè kết hợp lia cận cảnh (Smooth Tea-Hill Lateral Track & Pan) (100% ONE CONTINUOUS SHOT trong 10.0 giây).
+- **Quỹ đạo 3D chi tiết**:
+  1. `00:00.0 – 00:01.5`: Camera trượt ngang từ góc thấp qua luống chè xanh ở tiền cảnh, nâng nhẹ lên khung hình trung của @Vy và @Joi giữa Đồi chè Tân Uyên.
+  2. `00:01.5 – 00:07.5`: Cận cảnh trung (MCU) gương mặt @Vy (01.5s–04.5s), rồi lia ngang êm sang gương mặt @Joi (04.5s–07.5s).
+  3. `00:07.5 – 00:10.0`: Camera lùi nhẹ về khung hình đôi (Two-Shot) khi @Joi chụp ảnh cho @Vy giữa biển chè xanh Tân Uyên, giảm tốc dừng tự nhiên ở 09.5s–10.0s.
+- **Ống kính & Độ sâu trường ảnh**: Ống kính 35mm f/3.2, tạo hiệu ứng thị sai (parallax) mượt mà giữa các luống chè tiền cảnh, nhân vật trung cảnh và dãy Hoàng Liên Sơn hậu cảnh.
 
 ---
 
-### [NHÂN VẬT]
-- **@Vy:** áo len cổ lọ be ngà, áo khoác gió lửng hồng đất, khăn len thổ cẩm đỏ cam quấn cổ, jeans xanh nhạt, boots da lộn nâu cà phê, túi mây tròn đeo chéo; không đội mũ, tóc nâu hạt dẻ uốn sóng buông mềm mại; nụ cười trong trẻo.
-- **@Joi:** henley xám waffle, áo khoác canvas xanh rêu, cargo be cát, boots da sáp nâu sẫm, balo 50L sau lưng; không đội mũ, đứng sát bên @Vy.
+### [5. KHUNG ĐẦU & KHUNG CUỐI PHỤC VỤ NỐI CẢNH — CLIP-TO-CLIP CONTINUITY FRAMES]
 
-```text
-@Vy = Vy: A gorgeous 24-year-old Vietnamese woman, 164cm tall, slim toned feminine build. Oval face, fair radiant natural skin, warm expressive dark almond eyes, sweet dimpled smile. Long wavy dark chocolate hair falling past shoulders with soft wispy face-framing strands. Dressed in ivory cream turtleneck sweater, dusty rose crop windbreaker jacket, burgundy-orange woven wool scarf, light-wash vintage straight jeans, brown suede hiking boots, round rattan crossbody bag. When riding motorcycle: wears ivory cream 3/4 vintage open-face helmet with brown leather trim and clear visor showing entire face and lips. Authentic, elegant, lively travel vlogger.
-@Joi = Joi: A handsome 26-year-old European man, 185cm tall, broad shoulders with athletic muscular build. Rugged jawline, neat 3mm stubble beard, warm steel-blue eyes, messy wavy dirty-blonde/light brown hair. Charcoal grey waffle long-sleeve henley shirt under an olive army-green heavy canvas field jacket with utility flap pockets, relaxed sand beige cargo pants, dark brown waxed leather heritage work boots, 50L dark olive expedition backpack. When riding motorcycle: wears matte olive green 3/4 vintage open-face helmet with brown leather trim and clear visor showing full face and lips. Rugged, protective, masculine, deeply affectionate.
-```
+- **Khung hình mở đầu (`00:00.0` — Start Frame Continuity)**: Khung hình trung rộng giữa Đồi chè Tân Uyên xanh mướt (Lai Châu), @Vy và @Joi đứng giữa các luống chè uốn lượn.
+- **Khung hình kết thúc (`00:10.0` — End Frame Continuity)**: Khung hình đôi @Joi chụp ảnh @Vy cười tươi giữa đồi chè Tân Uyên.
 
 ---
 
-### [10 GIÂY — TỪNG NHỊP]
+### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
-**00:00–00:01.0 | ĐỊA LAN BẢN SIN SUỐI HỒ — NÂNG LÊN HAI NGƯỜI BÊN THÁC TRÁI TIM**
-- **Máy:** từ những chậu hoa địa lan trên tường đá sạch bóng, nâng mượt lên trung cận @Vy và @Joi bên cầu tre trước Thác Trái Tim.
-- **Hành động:** hai người dừng bước bên lan can tre, ngắm nhìn những chậu địa lan và dòng thác trắng xóa phía sau.
-- **Âm thanh:** tiếng thác nước đổ rì rào mát lạnh, tiếng sáo Mông trong trẻo. Không thoại.
-
-**00:01.0–00:04.5 | @VY NÓI — CẬN MẶT**
-- **Máy:** khóa chặt cận mặt @Vy, ánh nắng chiều dịu chiếu qua tán lá lên mái tóc uốn sóng, hậu cảnh là hàng chậu địa lan và nếp nhà gỗ sạch sẽ.
-- **Hành động:** @Vy chỉ tay dọc theo lối đá xếp ngập chậu hoa địa lan rồi quay sang nhìn ống kính cười tươi.
-- **Thoại @Vy** *(00:01.2–00:04.5; giọng nữ trong trẻo, thích thú, giọng miền Nam — 16 âm tiết / 3,3 giây):*
-  > *Bản Sin Suối Hồ của người Mông sạch đẹp, nhà nào cũng trồng địa lan!*
-
-**00:04.5–00:08.5 | @JOI NÓI — CẬN MẶT**
-- **Máy:** lia êm sang khóa chặt cận mặt @Joi, hậu cảnh là dòng Thác Trái Tim tung bọt trắng xóa giữa vách đá rừng xanh.
-- **Hành động:** @Joi chỉ nhẹ về phía dòng thác hình trái tim phía sau rồi nhìn @Vy hào hứng giải nghĩa tên bản.
-- **Thoại @Joi** *(00:04.8–00:08.3; giọng nam trầm ấm, hào hứng — 16 âm tiết / 3,5 giây):*
-  > *Sin Suối Hồ nghĩa là suối có vàng, thêm Thác Trái Tim mát lành quá em!*
-
-**00:08.5–00:10.0 | ĐỆM MINH HỌA KHÔNG THOẠI — SƯƠNG NƯỚC THÁC TRÁI TIM & NẮNG CHIỀU**
-- **Thoại:** không.
-- **Hành động:** @Vy và @Joi cùng chụm bàn tay tạo hình trái tim nhỏ hướng về phía dòng Thác Trái Tim đang đổ xuống làn nước trong vắt.
-- **Máy:** nâng nhẹ từ hai người lên làn bụi nước mịn của Thác Trái Tim đang bắt lấy tia nắng chiều vàng cam để nối sang biển mây hoàng hôn Cao Nguyên Sìn Hồ ở Clip 5.
-- **Âm thanh:** tiếng sáo Mông ngân vang hòa cùng tiếng thác đổ và tiếng chim rừng.
-
----
-
-### [ÂM THANH & NHẠC]
-Cinematic folk người Mông kết hợp acoustic guitar nhẹ nhàng, trong trẻo. Âm thanh môi trường: tiếng nước Thác Trái Tim chảy rì rào, tiếng gió rừng.
-
-### [KHUNG CUỐI → CLIP 5]
-Làn sương nước mịn màng từ Thác Trái Tim bay lên bắt lấy tia nắng chiều vàng ấm giữa bầu trời vùng cao. Giữ cố định 0,5 giây. Clip 5 mở bằng biển mây chiều nhuộm rực sắc hoàng hôn vàng cam trên Cao Nguyên Sìn Hồ (cao 1.500m).
-
-### [LOẠI TRỪ]
-Đội mũ bảo hiểm hay cầm mũ khi đi bộ trong bản, chạy xe máy vào cầu tre thác nước, hái hoa địa lan, bảng chỉ dẫn có chữ, người lạ cận mặt, tiếng nói không khớp khẩu hình, voiceover, tiếng @Vy khi máy quay @Joi và ngược lại, thoại trước 00:01.0 hoặc trong 00:08.5–00:10.0, cắt cảnh, phụ đề, chữ, watermark, thẻ tên. Always keep the entire 10-second shot as clean live-action scene footage; never flash or cut to an attached character reference, vehicle reference, or split-screen collage at the end of the clip.
-
+- **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhầm với cây chè cổ thụ cao lớn ở Suối Giàng; Đồi chè Tân Uyên là những luống chè thấp cắt tỉa uốn lượn đều đặn.

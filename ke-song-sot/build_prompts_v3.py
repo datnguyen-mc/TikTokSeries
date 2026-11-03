@@ -248,7 +248,7 @@ def locked_voice_ids_summary(plan: dict, c: dict) -> str:
 
 
 def second_by_second_action_breakdown(plan: dict, c: dict) -> str:
-    """Break the 10-second shot into 5 explicit 2-second movement & hand/prop manipulation windows (0.0s–10.0s | Giây 1–10)."""
+    """Provide contiguous hand-prop manipulation, body continuity, and lip-sync chain aligned to the exact beat timestamps (0.0s -> t1s -> t2s -> 10.0s)."""
     act = c['action'].strip()
     m = re.match(
         r'^0\.0–(\d+(?:\.\d)?)s:\s*(.+?)\s*\1–(\d+(?:\.\d)?)s:\s*(.+?)\s*\3–10\.0s:\s*(.+)$',
@@ -256,16 +256,9 @@ def second_by_second_action_breakdown(plan: dict, c: dict) -> str:
         flags=re.S,
     )
     if m:
-        t1, b1, t2, b2, b3 = m.groups()
-        b1 = b1.strip().rstrip('.')
-        b2 = b2.strip().rstrip('.')
-        b3 = b3.strip().rstrip('.')
+        t1, _b1, t2, _b2, _b3 = m.groups()
     else:
-        sents = [s.strip().rstrip('.') for s in re.split(r'(?<=[.!?])\s+', act) if s.strip()]
-        t1, t2 = '3.0', '7.0'
-        b1 = sents[0] if sents else act.rstrip('.')
-        b2 = sents[1] if len(sents) > 1 else b1
-        b3 = ' '.join(sents[2:]) if len(sents) > 2 else b2
+        t1, t2 = '3.0', '6.5'
     spd = c.get('voice_speed', '1.05x')
     turns = c.get('dialogue', [])
     if len(turns) == 1:
@@ -294,12 +287,10 @@ def second_by_second_action_breakdown(plan: dict, c: dict) -> str:
             dlg_parts.append(f"{a:.1f}–{b:.1f}s: VOICE_LOCK_{d['speaker']} at {spd}")
     dlg_summary = '; '.join(dlg_parts) if dlg_parts else 'No spoken dialogue; mouths remain naturally closed'
     return (
-        f"\n[SECOND-BY-SECOND MOVEMENT & HAND-PROP MANIPULATION TIMELINE (0.0s → 10.0s | Giây 1 đến Giây 10)]:\n"
-        f"- 0.0s–2.0s (Giây 1–2 | Start-Frame Posture & Initial Action): Start immediately at 0.0s from START FRAME ({c['start_frame'].rstrip('.')}; zero portrait flash) and initiate opening movement: {b1}. Hands grip carried props with 5 natural fingers and real weight.\n"
-        f"- 2.0s–4.0s (Giây 3–4 | Hand/Body Transition & Speech Onset): Complete opening movement at {t1}s and transition smoothly into core physical action: {b2}. Active voice & mouth control: {dlg_summary}.\n"
-        f"- 4.0s–6.0s (Giây 5–6 | Core Physical & Prop Manipulation): Execute central hand/prop and body mechanics ({b2}) with realistic weight, inertia, and continuous torso/hand follow-through; never freeze physical motion to speak, and listeners keep mouths closed.\n"
-        f"- 6.0s–8.0s (Giây 7–8 | Secondary Action & Eyeline Transition): Transition at {t2}s into closing movement ({b3}) with organic breath control and accurate 180-degree eye tracking.\n"
-        f"- 8.0s–10.0s (Giây 9–10 | Final Manipulation Settle & 10.0s End-Frame Lock): Complete closing action ({b3}) and lock final posture, prop placement, and eyeline at 10.0s to match END FRAME ({c['end_frame'].rstrip('.')})."
+        f"\n[CONTIGUOUS SECOND-BY-SECOND CHOREOGRAPHY & MANIPULATION CHAIN (0.0s → {t1}s → {t2}s → 10.0s)]:\n"
+        f"- 0.0s–{t1}s (Phase 1 — Start-Frame Continuation & Opening Manipulation): Start immediately at 0.0s from START FRAME ({c['start_frame'].rstrip('.')}; zero portrait flash) and execute the 0.0–{t1}s movement with 5 natural fingers and realistic prop weight, ending at the exact transition posture at {t1}s.\n"
+        f"- {t1}s–{t2}s (Phase 2 — Contiguous Core Manipulation & Active Lip-Sync): Continue seamlessly at {t1}s from Phase 1 (zero pause, zero repeated gesture) to execute the {t1}–{t2}s physical manipulation; synchronize vocal delivery and mouth articulation ({dlg_summary}) while listeners keep mouths closed.\n"
+        f"- {t2}s–10.0s (Phase 3 — Contiguous Follow-Through & 10.0s End-Frame Lock): Continue seamlessly at {t2}s from Phase 2 to execute the {t2}–10.0s closing movement, locking final posture, prop placement, and 180-degree eyeline at 10.0s to match END FRAME ({c['end_frame'].rstrip('.')})."
     )
 
 

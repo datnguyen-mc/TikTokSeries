@@ -1,10 +1,10 @@
-# Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm — Phim Ngắn Tâm Lý Bí Ẩn 15 Phút (15 Cảnh × 6 Clips = 90 Clips)
+# Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm — Phim Ngắn Tâm Lý Bí Ẩn (15 Cảnh × 6 Clips × 8s = 90 Clips | Veo 3.1 Lite + Video Extend)
 
-Dự án phim ngắn 15 phút (**900 giây = 15 Cảnh × 6 Clips × 10 giây = 90 Prompts**, chuẩn khung hình điện ảnh **16:9 24fps**) được xây dựng từ việc phân tích chuyên sâu bộ phim ngắn triệu view **[Phim ngắn 613 | CFilm Shorts](https://www.youtube.com/watch?v=507rDK3xPcM)** (Đạo diễn Dinh Gốc, Biên kịch Nhật Khoa, DOP Sơn Thái Phạm — 14 phút 34 giây, ~1,78 triệu lượt xem), đồng thời **nâng cấp toàn diện kịch bản, giải quyết triệt để các điểm hạn chế được khán giả góp ý** và **chuẩn hóa 100% theo tiêu chuẩn an toàn & liên tục của Google Flow (Gemini Omni)**.
+Dự án phim ngắn (**15 Cảnh × 6 Clips × 8 giây = 90 Prompts = 720 giây**, chuẩn khung hình điện ảnh **16:9 24fps**, sử dụng model **`veo-lite` (`veo_3_1_i2v_lite`)** kết hợp **Extend Video / nối chuỗi khung hình cuối liền mạch từ Clip 1 đến Clip 6 mỗi cảnh**) được xây dựng từ việc phân tích chuyên sâu bộ phim ngắn triệu view **[Phim ngắn 613 | CFilm Shorts](https://www.youtube.com/watch?v=507rDK3xPcM)** (Đạo diễn Dinh Gốc, Biên kịch Nhật Khoa, DOP Sơn Thái Phạm — 14 phút 34 giây, ~1,78 triệu lượt xem), đồng thời **nâng cấp toàn diện kịch bản, giải quyết triệt để các điểm hạn chế được khán giả góp ý** và **chuẩn hóa 100% theo tiêu chuẩn an toàn & liên tục của Google Flow (`veo_3_1_i2v_lite` 8s)**.
 
-- [Kịch bản chi tiết 15 phút (90 Clips)](KICH_BAN_15_PHUT.md)
+- [Kịch bản chi tiết 15 Cảnh (90 Clips × 8s)](KICH_BAN_15_PHUT.md)
 - [Khóa Nhân vật, Bối cảnh & Đạo cụ trên Google Flow](FLOW_PROMPTS.md)
-- [Runner tự động hóa FlowKit](../flowkit/runners/bi_mat_phong_613.py)
+- [Runner tự động hóa FlowKit (`veo_3_1_i2v_lite` 8s + Video Extend)](../flowkit/runners/bi_mat_phong_613.py)
 
 ---
 
@@ -15,6 +15,7 @@ Dự án phim ngắn 15 phút (**900 giây = 15 Cảnh × 6 Clips × 10 giây = 
 - **Kênh phát hành:** CL Film (`@clfilm.celebgroup` — Celeb Network)
 - **Thời lượng gốc:** `874 giây` (**14 phút 34 giây**, bao gồm ~13 phút 55 giây nội dung chính + ~39 giây credit & hậu trường).
 - **Tỷ lệ khung hình:** `16:9` Widescreen (`1280×720` / `1920×1080`).
+- **Model & Cấu hình Render Phim Mới:** `veo_3_1_i2v_lite` (`model_family="veo"`, **8 giây/clip**), Clip 1 tạo Start Frame khóa nhân vật bằng `nano_banana_pro` + `veo_3_1_i2v_lite`, Clip 2–6 **Extend Video** liên hoàn từ frame cuối của clip trước.
 - **Tông màu chủ đạo (Color Palette):** Xanh ngọc / xanh rêu trầm của chung cư cũ (`Institutional Jade/Cyan Green`) đối lập với sắc cam/đỏ ấm của lửa vàng mã, nhang, ly nến đỏ và đèn thờ (`Warm Amber & Altar Crimson`).
 - **Dàn nhân vật tối giản (4 nhân vật):**
   1. **Phương** (Choco Trúc Phương): Cô bạn yếu bóng vía, tin tâm linh, nhạy cảm, hay cúng kiếng và cầu khấn.
@@ -54,26 +55,26 @@ Dự án phim ngắn 15 phút (**900 giây = 15 Cảnh × 6 Clips × 10 giây = 
 - **3 Điểm yếu lớn khán giả phàn nàn nhiều nhất (đã được khắc phục triệt để trong bản phim mới của chúng ta):**
   1. *Cốt truyện và cú twist cuối quá mơ hồ:* Rất nhiều khán giả bình luận *"Coi xong không hiểu rốt cuộc 2 con ma muốn gì, tại sao ông bảo vệ lại xúi đốt bùa"*. -> **Giải pháp của chúng ta:** Xây dựng đường dây điều tra rõ ràng qua **chiếc hộp sắt trong tủ gỗ** và **cuốn sổ nhật ký vụ cháy ngày 03/11/2016**, giúp người xem hiểu rõ 100% động cơ của Linh (bảo vệ bằng chứng và cứu hai cô gái) và Ông Bảy (muốn mượn tay hai cô đốt sạch bằng chứng tội lỗi năm xưa).
   2. *Lỗi rắc-co ánh sáng (Continuity error):* Khán giả chỉ ra *"Sạn ngay khúc Trinh đi phơi đồ trời tối, chuyển cảnh lên cầu thang lại là trời sáng"*. -> **Giải pháp của chúng ta:** Khóa chặt `FIXED SCENE SPATIAL & LIGHTING LOCK` xuyên suốt Cảnh 06–08 ở trạng thái đêm trăng rằm + cúp điện + ánh nến đỏ.
-  3. *Cảnh bóp cổ cuối phim vừa giả vừa dễ vi phạm chính sách AI:* -> **Giải pháp của chúng ta:** Thay thế hoàn toàn bạo lực vật lý bằng **kịch tính tâm lý điện ảnh** (Ông Bảy khóa trái cửa sắt từ bên ngoài định nhốt hai cô gái như năm 2016, và Linh xuất hiện ở đầu hành lang làm bung ổ khóa sắt giải cứu hai cô), vừa sâu sắc giàu cảm xúc vừa **100% vượt qua bộ lọc an toàn của Google Flow / Gemini Omni**.
+  3. *Cảnh bóp cổ cuối phim vừa giả vừa dễ vi phạm chính sách AI:* -> **Giải pháp của chúng ta:** Thay thế hoàn toàn bạo lực vật lý bằng **kịch tính tâm lý điện ảnh** (Ông Bảy khóa trái cửa sắt từ bên ngoài định nhốt hai cô gái như năm 2016, và Linh xuất hiện ở đầu hành lang làm bung ổ khóa sắt giải cứu hai cô), vừa sâu sắc giàu cảm xúc vừa **100% vượt qua bộ lọc an toàn của Google Flow / Veo 3.1 Lite**.
 
 ---
 
-## PHẦN 2: CẤU TRÚC PHIM 15 PHÚT "BÍ MẬT PHÒNG 613: LỜI CẢNH BÁO ĐÊM RẰM" (15 CẢNH × 6 CLIPS = 90 CLIPS)
+## PHẦN 2: CẤU TRÚC PHIM "BÍ MẬT PHÒNG 613: LỜI CẢNH BÁO ĐÊM RẰM" (15 CẢNH × 6 CLIPS × 8S = 90 CLIPS)
 
 | Hồi | Cảnh | Thời Lượng | Tựa Cảnh | Nội Dung Trọng Tâm |
 |---|---|---|---|---|
-| **HỒI I** | [Cảnh 01](canh-01/README.md) | `00:00–01:00` | Bảng Số 613 & Chậu Than Cúng Nhập Trạch | Phương cúng nhập trạch trước cửa phòng 613; Trinh xách xô nước làm tắt lửa cúng; nén nhang giữa tự tắt. |
-| **HỒI I** | [Cảnh 02](canh-02/README.md) | `01:00–02:00` | Chiếc Gương Tròn & Lá Giấy Niêm Phong Trên Tủ Gỗ | Phương nhặt được vòng chỉ đỏ gắn chuông bạc bên gương tròn; ngăn Trinh bóc lá giấy vàng niêm phong tủ gỗ. |
-| **HỒI I** | [Cảnh 03](canh-03/README.md) | `02:00–03:00` | Tiếng Gõ Trong Phòng Tắm & Bóng Người Qua Rèm Xanh | Trinh tắm dưới vòi sen nghe 3 tiếng gõ kính mờ; bước ra giật mình gặp Phương sau rèm xanh; phát hiện vệt nước dẫn vào tủ gỗ. |
-| **HỒI I** | [Cảnh 04](canh-04/README.md) | `03:00–04:00` | Phản Chiếu Chậm Một Giây Trong Gương Tròn Đêm Trăng | Phương chải tóc đêm rằm trước gương tròn; bóng trong gương quay chậm 1 nhịp và hiện hình Linh chỉ tay vào tủ gỗ; cửa tự mở hé. |
-| **HỒI I** | [Cảnh 05](canh-05/README.md) | `04:00–05:00` | Trinh Đốt Lá Giấy Niêm Phong & Đi Phơi Đồ Đêm Khuya | Trinh xé và đốt lá giấy vàng trên tủ để trấn an Phương, rồi bê rổ quần áo ra sân phơi giữa đêm rằm. |
-| **HỒI II** | [Cảnh 06](canh-06/README.md) | `05:00–06:00` | Bóng Áo Trắng Giữa Giàn Đồ Phơi Đêm | Ngoài sân phơi và cầu thang tối, Trinh thấy Linh ẩn hiện giữa những chiếc áo đen; cầu dao điện sập tắt phụt; Trinh thắp ly nến đỏ. |
-| **HỒI II** | [Cảnh 07](canh-07/README.md) | `06:00–07:00` | Ánh Nến Đỏ & Lời Thì Thầm Giữa Cầu Thang | Cầm ly nến đỏ đi giữa giàn đồ, Trinh đối mặt Linh và nghe lời cảnh báo *"Đừng nghe ông bảo vệ đốt chiếc hộp trong tủ"*; chạy xuống đụng Ông Bảy. |
-| **HỒI II** | [Cảnh 08](canh-08/README.md) | `07:00–08:00` | Cuộc Gặp Ông Bảy Bảo Vệ Ở Hành Lang Lô C | Ông Bảy Bảo Vệ biến sắc khi nghe nhắc tới chiếc hộp sắt trong tủ, dẫn Trinh về phòng 613 và liếc nhìn vết giấy niêm phong bị xé. |
-| **HỒI II** | [Cảnh 09](canh-09/README.md) | `08:00–09:00` | Căn Phòng 613 Rung Chuyển & Cuộc Gọi Từ Máy Nội Bộ | Điện thoại nội bộ đứt dây trên tường tự đổ chuông phát ra tiếng lửa cháy ngày `03-11-2016`; hai cánh tủ gỗ tự bung mở lộ ra chiếc hộp sắt. |
-| **HỒI II** | [Cảnh 10](canh-10/README.md) | `09:00–10:00` | Ông Bảy Trao Lá Bùa Lạ & Xúi Đốt Cuốn Sổ Trong Tủ | Ông Bảy vào phòng châm nhang, đưa lá bùa xám và ép hai cô gái phải đốt sạch mọi giấy tờ trong hộp sắt trước 3 giờ sáng mà không được đọc. |
-| **HỒI III** | [Cảnh 11](canh-11/README.md) | `10:00–11:00` | Chiếc Hộp Sắt Mở Ra & Cuốn Nhật Ký Của Linh | Gương tròn chiếu ánh trăng ngăn Phương đốt hộp; mở hộp phát hiện thẻ sinh viên của Linh, bài báo vụ cháy 2016 và nhật ký tố cáo Ông Bảy. |
-| **HỒI III** | [Cảnh 12](canh-12/README.md) | `11:00–12:00` | Cú Twist Thứ Nhất — Kẻ Muốn Khóa Trái Cửa Phòng 613 | Đúng 3 giờ sáng, Ông Bảy phát hiện hai cô đã đọc cuốn sổ liền bấm ổ khóa sắt khóa nhốt hai cô từ bên ngoài như năm 2016; Linh xuất hiện ở cuối hành lang. |
-| **HỒI III** | [Cảnh 13](canh-13/README.md) | `12:00–13:00` | Đêm Đối Đầu Ở Hành Lang 613 — Bóng Áo Trắng Mở Khóa | Linh tiến tới đối diện khiến Ông Bảy kinh hoàng đánh rơi chùm chìa khóa đồng rồi tan biến vào bóng tối cầu thang; Linh chạm tay mở bung ổ khóa cứu hai cô. |
-| **HỒI III** | [Cảnh 14](canh-14/README.md) | `13:00–14:00` | Lời Hứa Lúc Rạng Đông & Căn Phòng 613 Khép Lại | Phương và Trinh hứa đưa cuốn sổ ra ánh sáng; Linh mỉm cười tan vào nắng sớm; hai cô khóa cửa trả phòng 613 và kéo vali xuống sân. |
-| **HỒI III** | [Cảnh 15](canh-15/README.md) | `14:00–15:00` | Cú Twist Cuối Dưới Sân Chung Cư — Hai Khung Ảnh Thờ Đỏ | Nhìn qua gương cầu tròn trước bốt bảo vệ bỏ hoang, hai cô phát hiện bên trong ánh đèn đỏ là **hai khung ảnh thờ** của cả Linh lẫn Ông Bảy (đều mất ngày 03/11/2016). |
+| **HỒI I** | [Cảnh 01](canh-01/README.md) | `6 × 8s (48s)` | Bảng Số 613 & Chậu Than Cúng Nhập Trạch | Phương cúng nhập trạch trước cửa phòng 613; Trinh xách xô nước làm tắt lửa cúng; nén nhang giữa tự tắt. |
+| **HỒI I** | [Cảnh 02](canh-02/README.md) | `6 × 8s (48s)` | Chiếc Gương Tròn & Lá Giấy Niêm Phong Trên Tủ Gỗ | Phương nhặt được vòng chỉ đỏ gắn chuông bạc bên gương tròn; ngăn Trinh bóc lá giấy vàng niêm phong tủ gỗ. |
+| **HỒI I** | [Cảnh 03](canh-03/README.md) | `6 × 8s (48s)` | Tiếng Gõ Trong Phòng Tắm & Bóng Người Qua Rèm Xanh | Trinh tắm dưới vòi sen nghe 3 tiếng gõ kính mờ; bước ra giật mình gặp Phương sau rèm xanh; phát hiện vệt nước dẫn vào tủ gỗ. |
+| **HỒI I** | [Cảnh 04](canh-04/README.md) | `6 × 8s (48s)` | Phản Chiếu Chậm Một Giây Trong Gương Tròn Đêm Trăng | Phương chải tóc đêm rằm trước gương tròn; bóng trong gương quay chậm 1 nhịp và hiện hình Linh chỉ tay vào tủ gỗ; cửa tự mở hé. |
+| **HỒI I** | [Cảnh 05](canh-05/README.md) | `6 × 8s (48s)` | Trinh Đốt Lá Giấy Niêm Phong & Đi Phơi Đồ Đêm Khuya | Trinh xé và đốt lá giấy vàng trên tủ để trấn an Phương, rồi bê rổ quần áo ra sân phơi giữa đêm rằm. |
+| **HỒI II** | [Cảnh 06](canh-06/README.md) | `6 × 8s (48s)` | Bóng Áo Trắng Giữa Giàn Đồ Phơi Đêm | Ngoài sân phơi và cầu thang tối, Trinh thấy Linh ẩn hiện giữa những chiếc áo đen; cầu dao điện sập tắt phụt; Trinh thắp ly nến đỏ. |
+| **HỒI II** | [Cảnh 07](canh-07/README.md) | `6 × 8s (48s)` | Ánh Nến Đỏ & Lời Thì Thầm Giữa Cầu Thang | Cầm ly nến đỏ đi giữa giàn đồ, Trinh đối mặt Linh và nghe lời cảnh báo *"Đừng nghe ông bảo vệ đốt chiếc hộp trong tủ"*; chạy xuống đụng Ông Bảy. |
+| **HỒI II** | [Cảnh 08](canh-08/README.md) | `6 × 8s (48s)` | Cuộc Gặp Ông Bảy Bảo Vệ Ở Hành Lang Lô C | Ông Bảy Bảo Vệ biến sắc khi nghe nhắc tới chiếc hộp sắt trong tủ, dẫn Trinh về phòng 613 và liếc nhìn vết giấy niêm phong bị xé. |
+| **HỒI II** | [Cảnh 09](canh-09/README.md) | `6 × 8s (48s)` | Căn Phòng 613 Rung Chuyển & Cuộc Gọi Từ Máy Nội Bộ | Điện thoại nội bộ đứt dây trên tường tự đổ chuông phát ra tiếng lửa cháy ngày `03-11-2016`; hai cánh tủ gỗ tự bung mở lộ ra chiếc hộp sắt. |
+| **HỒI II** | [Cảnh 10](canh-10/README.md) | `6 × 8s (48s)` | Ông Bảy Trao Lá Bùa Lạ & Xúi Đốt Cuốn Sổ Trong Tủ | Ông Bảy vào phòng châm nhang, đưa lá bùa xám và ép hai cô gái phải đốt sạch mọi giấy tờ trong hộp sắt trước 3 giờ sáng mà không được đọc. |
+| **HỒI III** | [Cảnh 11](canh-11/README.md) | `6 × 8s (48s)` | Chiếc Hộp Sắt Mở Ra & Cuốn Nhật Ký Của Linh | Gương tròn chiếu ánh trăng ngăn Phương đốt hộp; mở hộp phát hiện thẻ sinh viên của Linh, bài báo vụ cháy 2016 và nhật ký tố cáo Ông Bảy. |
+| **HỒI III** | [Cảnh 12](canh-12/README.md) | `6 × 8s (48s)` | Cú Twist Thứ Nhất — Kẻ Muốn Khóa Trái Cửa Phòng 613 | Đúng 3 giờ sáng, Ông Bảy phát hiện hai cô đã đọc cuốn sổ liền bấm ổ khóa sắt khóa nhốt hai cô từ bên ngoài như năm 2016; Linh xuất hiện ở cuối hành lang. |
+| **HỒI III** | [Cảnh 13](canh-13/README.md) | `6 × 8s (48s)` | Đêm Đối Đầu Ở Hành Lang 613 — Bóng Áo Trắng Mở Khóa | Linh tiến tới đối diện khiến Ông Bảy kinh hoàng đánh rơi chùm chìa khóa đồng rồi tan biến vào bóng tối cầu thang; Linh chạm tay mở bung ổ khóa cứu hai cô. |
+| **HỒI III** | [Cảnh 14](canh-14/README.md) | `6 × 8s (48s)` | Lời Hứa Lúc Rạng Đông & Căn Phòng 613 Khép Lại | Phương và Trinh hứa đưa cuốn sổ ra ánh sáng; Linh mỉm cười tan vào nắng sớm; hai cô khóa cửa trả phòng 613 và kéo vali xuống sân. |
+| **HỒI III** | [Cảnh 15](canh-15/README.md) | `6 × 8s (48s)` | Cú Twist Cuối Dưới Sân Chung Cư — Hai Khung Ảnh Thờ Đỏ | Nhìn qua gương cầu tròn trước bốt bảo vệ bỏ hoang, hai cô phát hiện bên trong ánh đèn đỏ là **hai khung ảnh thờ** của cả Linh lẫn Ông Bảy (đều mất ngày 03/11/2016). |

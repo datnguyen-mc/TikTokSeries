@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """
-HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT NÂNG CAO CHO "BIỆT ĐỘI GARA":
-1. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK): Tự động lấy & khóa chính xác media_id của @Thang, @Lan, @Hai, @Khoi, @Minh từ Google Flow Project.
-2. Luôn truyền reference_media_ids (@Thang, @Lan, @Hai, @Khoi, @Minh) qua endpoint /api/flow/generate-video-omni (MZZa6b Ingredients R2V) cho Clip 1 và mọi clip mở cảnh mới ([FORMAT]).
-3. Tự động trích xuất khung hình cuối (last frame) làm khung hình đầu (start frame) của clip nối tiếp (Seamless Chaining).
-4. Tự động đặt tên clip trên Google Flow theo cảnh ([CẢNH XX - CLIP YY]) và tải ngay về máy khi hoàn thành.
-5. Tự động đồng bộ thời gian thực với Console Dashboard UI.
+HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT NÂNG CAO CHO "BÍ MẬT PHÒNG 613: LỜI CẢNH BÁO ĐÊM RẰM":
+1. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK): Tự động lấy & khóa chính xác media_id của @Phuong, @Trinh, @BacBaoVe, @BongAoTrang từ Google Flow Project.
+2. MỖI CLIP 8 GIÂY (8.0s) VỚI MODEL VEO-LITE (veo_3_1_i2v_lite, model_family="veo"):
+   - Clip 1 (Mở cảnh): Tạo Start Frame 16:9 khóa nhân vật (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang) rồi render 8s bằng model veo_3_1_i2v_lite.
+   - Clip 2..6 (EXTEND VIDEO 8s): Tự động trích xuất khung hình cuối (last frame 8.0s) của clip trước, upload làm Start Frame và render nối tiếp 8s bằng model veo_3_1_i2v_lite (Seamless Video Extend).
+3. Tự động đặt tên clip trên Google Flow theo cảnh ([CẢNH XX - CLIP YY]) và tải ngay về máy + đồng bộ Cloudflare R2 & D1 khi hoàn thành.
+4. Tự động đồng bộ thời gian thực với Console Dashboard UI.
 """
 
 import os
+import re
 import sys
 import time
 import json
@@ -29,17 +31,24 @@ from cms_integration import (
     force_rename_clip_on_flow,
     is_clip_completed_in_db,
     mark_clip_failed_in_db,
+    trim_studio_reference_frames,
+    probe_clip_streams,
 )
 
 FLOWKIT_API = "http://127.0.0.1:8200"
 CHANNEL_SLUG = "bi-mat-phong-613"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
-# 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "BIỆT ĐỘI GARA"
-PROJECT_ID = "61300000-f613-4613-a613-507rdk3xpcm0"
-DEFAULT_PROJECT_ID = "61300000-f613-4613-a613-507rdk3xpcm0"
+# 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "BÍ MẬT PHÒNG 613"
+PROJECT_ID = "daf9939b-35f2-4d6c-a299-8efcabc3fc9a"
+DEFAULT_PROJECT_ID = "daf9939b-35f2-4d6c-a299-8efcabc3fc9a"
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_LANDSCAPE"
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_LANDSCAPE"
+
+# 👉 CẤU HÌNH MODEL VEO-LITE 8 GIÂY + EXTEND VIDEO
+VIDEO_MODEL_FAMILY = "veo"
+VIDEO_MODEL_NAME = "veo_3_1_i2v_lite"
+CLIP_DURATION_S = 8
 
 WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SERIES_DIR = os.path.join(WORKSPACE_DIR, "bi-mat-phong-613")
@@ -53,7 +62,7 @@ os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
 os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
-# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA NHÂN VẬT CỐ ĐỊNH CỦA SERIES (BIỆT ĐỘI GARA)
+# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA NHÂN VẬT CỐ ĐỊNH CỦA SERIES (BÍ MẬT PHÒNG 613)
 # -------------------------------------------------------------
 CHARACTER_SPECS = [
     {
@@ -184,9 +193,9 @@ def check_connection():
 # 0. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK TỪ GOOGLE FLOW PROJECT)
 # -------------------------------------------------------------
 def load_and_lock_project_characters():
-    """Đảm bảo 100% sử dụng đúng nhân vật Biệt Đội Gara đã quy định trong Google Flow Project."""
+    """Đảm bảo 100% sử dụng đúng nhân vật Bí Mật Phòng 613 (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang)."""
     global LOCKED_CHARACTER_MEDIA_IDS
-    log("🔒 Đang kiểm tra và khóa bộ nhân vật cố định (@Thang, @Lan, @Hai, @Khoi, @Minh) trên Google Flow...")
+    log("🔒 Đang kiểm tra và khóa bộ nhân vật cố định (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang) trên Google Flow...")
 
     cached_by_project = {}
     if os.path.exists(CHAR_CACHE_FILE):
@@ -217,9 +226,6 @@ def load_and_lock_project_characters():
             if rc_name in aliases_lower and rc.get("media_id"):
                 matched_mid = rc["media_id"]
                 break
-
-        if not matched_mid and PROJECT_ID == DEFAULT_PROJECT_ID and spec.get("default_media_id"):
-            matched_mid = spec["default_media_id"]
 
         if not matched_mid and project_cache.get(tag):
             matched_mid = project_cache[tag]
@@ -271,13 +277,14 @@ def load_and_lock_project_characters():
         tag = spec["tag"]
         mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag, "Chưa có")
         box_items.append((f"Nhân Vật {tag}", f"media_id = {mid}"))
-    box_items.append(("Chế Độ Khóa", "Ingredients R2V (/api/flow/generate-video-omni) + Seamless I2V"))
-    print_box("🔒 ĐÃ KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK)", box_items)
+    box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Veo 3.1 Lite — {CLIP_DURATION_S}s/clip)"))
+    box_items.append(("Chế Độ Nối Cảnh", "Clip 1 Start-Frame Lock + Clip 2..6 Video Extend 8s"))
+    print_box("🔒 ĐÃ KHÓA NHÂN VẬT & CẤU HÌNH VEO-LITE 8S + EXTEND VIDEO", box_items)
 
 
 def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = None) -> bool:
-    """16:9 YouTube films cut continuously between camera angles; every clip uses Ingredients R2V / Text-to-Video without chaining the previous clip's last frame."""
-    return True
+    """Clip 1 mở cảnh mới; từ Clip 2 đến Clip 6 luôn Extend Video (nối tiếp từ frame cuối của clip trước)."""
+    return clip_num == 1 or not start_image_media_id
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
@@ -301,29 +308,109 @@ def get_clip_reference_media_ids(prompt: str) -> list:
     return selected[:7]
 
 
+def extract_start_frame_image_prompt(video_prompt: str, scene_num: int, clip_num: int) -> str:
+    """Trích xuất mô tả [START FRAME] và [TIMELINE AND LOCATION] để tạo ảnh Start Frame 16:9 cho Clip 1 bằng nano_banana_pro."""
+    start_desc = ""
+    loc_desc = ""
+    m_start = re.search(r"\[START FRAME[^\]]*\]\s*\n(.+?)(?:\n\n|\n\[|$)", video_prompt, flags=re.S)
+    if m_start:
+        start_desc = m_start.group(1).strip()
+    m_loc = re.search(r"\[TIMELINE AND LOCATION\]\s*\n([^\[]+)", video_prompt, flags=re.S)
+    if m_loc:
+        loc_lines = [ln.strip() for ln in m_loc.group(1).strip().splitlines() if ln.strip()]
+        loc_desc = " ".join(loc_lines[:2])
+    base = (
+        f"Photorealistic 16:9 widescreen 35mm cinema still frame for Scene {scene_num:02d} Clip {clip_num:02d} of "
+        f"'Bí Mật Phòng 613'. {start_desc} Environment: {loc_desc} "
+        "Atmospheric old-Saigon apartment jade-green walls, cyan-teal shadows, warm amber incense/altar highlights, "
+        "natural Vietnamese skin tones, 8K, no text, no subtitles, no split screen."
+    )
+    return base[:1500]
+
+
+def generate_scene_start_frame_for_veo(video_prompt: str, scene_num: int, clip_num: int, ref_media_ids: list) -> str:
+    """Tạo ảnh Start Frame 16:9 khóa nhân vật (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang) cho Clip mở đầu để nạp vào veo_3_1_i2v_lite (8s)."""
+    cached_start = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{clip_num:02d}_start_mid.txt")
+    if os.path.exists(cached_start) and os.environ.get("FLOWKIT_FORCE_RERENDER") != "1":
+        try:
+            with open(cached_start, "r", encoding="utf-8") as f:
+                mid = f.read().strip()
+            if mid and len(mid) >= 20:
+                return mid
+        except Exception:
+            pass
+
+    img_prompt = extract_start_frame_image_prompt(video_prompt, scene_num, clip_num)
+    log(f"🖼️ [VEO-LITE START FRAME] Đang tạo khung hình gốc 16:9 khóa nhân vật cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
+    try:
+        res = requests.post(
+            f"{FLOWKIT_API}/api/flow/generate-image",
+            json={
+                "prompt": img_prompt,
+                "project_id": PROJECT_ID,
+                "aspect_ratio": IMAGE_ASPECT_RATIO,
+                "image_model": "nano_banana_pro",
+                "character_media_ids": ref_media_ids or None,
+                "count": 1,
+            },
+            timeout=90,
+        )
+        if res.status_code == 200:
+            data = res.json()
+            inner = data.get("data") if isinstance(data.get("data"), dict) else data
+            mid = inner.get("media_id") or inner.get("_mediaId")
+            if not mid:
+                medias = inner.get("media") or []
+                if medias and isinstance(medias[0], dict):
+                    mid = medias[0].get("name") or medias[0].get("media_id")
+            if mid:
+                try:
+                    with open(cached_start, "w", encoding="utf-8") as f:
+                        f.write(mid)
+                except Exception:
+                    pass
+                print_box(
+                    "🖼️ ĐÃ TẠO KHUNG HÌNH BẮT ĐẦU (START FRAME) CHO VEO-LITE 8S",
+                    [
+                        ("Phân Cảnh", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
+                        ("Start Frame Media ID", mid),
+                        ("Khóa Nhân Vật", ", ".join(ref_media_ids) if ref_media_ids else "Bối cảnh gốc"),
+                        ("Model Kế Tiếp", f"{VIDEO_MODEL_NAME} ({CLIP_DURATION_S}s I2V)"),
+                    ],
+                )
+                return mid
+        else:
+            log(f"⚠️ Không tạo được ảnh Start Frame mới (HTTP {res.status_code}), dùng trực tiếp ảnh Reference nhân vật làm Start Frame cho Veo-Lite.")
+    except Exception as e:
+        log(f"⚠️ Ngoại lệ khi tạo ảnh Start Frame cho Veo-Lite: {e}")
+
+    return ref_media_ids[0] if ref_media_ids else None
+
+
 # -------------------------------------------------------------
 # 1. ĐỒNG BỘ DỰ ÁN VỚI DASHBOARD UI (DATABASE SYNC)
 # -------------------------------------------------------------
-def sync_dashboard_database(start_scene: int = 16, end_scene: int = 45):
-    """Tự động tạo hoặc kiểm tra Project, Characters, Video, Scenes trong FlowKit DB."""
+def sync_dashboard_database(start_scene: int = 1, end_scene: int = 15):
+    """Tự động tạo hoặc kiểm tra Project, Characters, Video, Scenes (8s, veo) trong FlowKit DB."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
-    log("🔄 Đang đồng bộ cơ sở dữ liệu với Dashboard UI...")
+    log("🔄 Đang đồng bộ cơ sở dữ liệu với Dashboard UI (Veo-Lite 8s + Video Extend)...")
 
     try:
         r = requests.get(f"{FLOWKIT_API}/api/projects", timeout=5)
         projects = r.json() if r.status_code == 200 else []
         proj_exists = any(p.get("id") == PROJECT_ID for p in projects)
         if not proj_exists:
-            log("   ...Đang đăng ký dự án 'Biệt Đội Gara' vào hệ thống...")
+            log("   ...Đang đăng ký dự án 'Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm' vào hệ thống...")
             p_payload = {
-                "name": "Biệt Đội Gara",
+                "name": "Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm",
                 "flow_project_id": PROJECT_ID,
                 "material": "realistic",
-                "story": "Biệt đội thợ máy Sài Gòn khám phá thiết bị công nghệ và bảo vệ bức thư quan trọng.",
+                "video_model_family": VIDEO_MODEL_FAMILY,
+                "story": "Phương và Trinh thuê căn phòng 613 giá rẻ tại chung cư cũ Sài Gòn và khám phá bí mật vụ hỏa hoạn đêm rằm năm 2016.",
                 "characters": [
                     {"name": spec["tag"].lstrip("@"), "description": spec["description"]}
                     for spec in CHARACTER_SPECS
-                ]
+                ],
             }
             requests.post(f"{FLOWKIT_API}/api/projects", json=p_payload, timeout=10)
 
@@ -354,9 +441,9 @@ def sync_dashboard_database(start_scene: int = 16, end_scene: int = 45):
         else:
             v_payload = {
                 "project_id": PROJECT_ID,
-                "title": "Biệt Đội Gara - Phần 1 (Cảnh 03 - 05)",
-                "description": "Truy tìm bức thư quan trọng và kích hoạt vòng tay công nghệ",
-                "orientation": "HORIZONTAL"
+                "title": "Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm (15 Cảnh × 6 Clips × 8s — Veo Lite)",
+                "description": "Phim ngắn tâm lý bí ẩn kịch tính 15 Cảnh × 6 Clips × 8s (Model veo_3_1_i2v_lite + Video Extend)",
+                "orientation": "HORIZONTAL",
             }
             res_v = requests.post(f"{FLOWKIT_API}/api/videos", json=v_payload, timeout=10)
             if res_v.status_code == 200:
@@ -383,16 +470,17 @@ def sync_dashboard_database(start_scene: int = 16, end_scene: int = 45):
                             "video_id": CURRENT_VIDEO_ID,
                             "display_order": order,
                             "chain_type": "ROOT" if c == 1 else "CONTINUATION",
+                            "duration": float(CLIP_DURATION_S),
                             "prompt": f"Cảnh {s:02d} - Clip {c}",
                             "video_prompt": prompt_preview,
-                            "character_names": ["Thắng", "Lan", "Hải", "Khôi"]
+                            "character_names": ["Phuong", "Trinh", "BacBaoVe", "BongAoTrang"],
                         }
                         r_new = requests.post(f"{FLOWKIT_API}/api/scenes", json=sc_payload, timeout=5)
                         if r_new.status_code == 200:
                             SCENE_DB_MAP[key] = r_new.json().get("id")
                     order += 1
 
-        log(f"✅ Đã đồng bộ Dashboard DB thành công! ({len(SCENE_DB_MAP)} scenes sẵn sàng)")
+        log(f"✅ Đã đồng bộ Dashboard DB thành công! ({len(SCENE_DB_MAP)} scenes × {CLIP_DURATION_S}s sẵn sàng)")
     except Exception as e:
         log(f"⚠️ Lỗi khi đồng bộ DB Dashboard: {e}")
 
@@ -406,7 +494,7 @@ def update_dashboard_scene_status(scene_num: int, clip_num: int, video_url: str)
     try:
         patch_payload = {
             "horizontal_video_url": video_url,
-            "horizontal_video_status": "COMPLETED"
+            "horizontal_video_status": "COMPLETED",
         }
         r = requests.patch(f"{FLOWKIT_API}/api/scenes/{sid}", json=patch_payload, timeout=5)
         if r.status_code == 200:
@@ -436,7 +524,7 @@ def update_clip_file(scene_num: int, clip_num: int, new_prompt: str):
 # 3. TỰ ĐỘNG TẢI VIDEO VỀ MÁY VÀ ĐỔI TÊN THEO CẢNH
 # -------------------------------------------------------------
 def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> str:
-    """Tải ngay lập tức video về máy và ghi đè (overwrite) đúng file clip chuẩn theo cảnh."""
+    """Tải ngay lập tức video 8s về máy và ghi đè (overwrite) đúng file clip chuẩn theo cảnh."""
     scene_folder = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{scene_num:02d}")
     os.makedirs(scene_folder, exist_ok=True)
 
@@ -445,7 +533,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
     is_overwrite = os.path.exists(target_path)
     tmp_path = f"{target_path}.tmp"
 
-    log("📥 Đang tải video từ Google Flow về máy...")
+    log("📥 Đang tải video 8s (Veo-Lite) từ Google Flow về máy...")
     try:
         r = requests.get(video_url, stream=True, timeout=120)
         if r.status_code == 200:
@@ -454,6 +542,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                     if chunk:
                         f.write(chunk)
             os.replace(tmp_path, target_path)
+            trim_studio_reference_frames(target_path, log_fn=log)
             size_mb = os.path.getsize(target_path) / (1024 * 1024)
             r2_sync = sync_clip_to_r2_and_d1(
                 channel_slug=CHANNEL_SLUG,
@@ -465,6 +554,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
             )
             box_rows = [
                 ("Tên File Clip", filename),
+                ("Model & Thời Lượng", f"{VIDEO_MODEL_NAME} ({CLIP_DURATION_S}s)"),
                 ("Chế Độ Lưu", "Ghi đè (Overwritten)" if is_overwrite else "Tạo mới"),
                 ("Đường Dẫn Lưu", target_path),
                 ("Dung Lượng", f"{size_mb:.2f} MB"),
@@ -473,7 +563,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
             if r2_sync.get("r2_url"):
                 box_rows.append(("Cloudflare R2 URL", r2_sync["r2_url"]))
             print_box(
-                "💾 CLIP HOÀN THÀNH & ĐÃ GHI ĐÈ VỀ MÁY" if is_overwrite else "💾 CLIP HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
+                "💾 CLIP 8S HOÀN THÀNH & ĐÃ GHI ĐÈ VỀ MÁY" if is_overwrite else "💾 CLIP 8S HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
                 box_rows,
             )
             return target_path
@@ -509,9 +599,9 @@ def fetch_media_video_url(media_id: str) -> str:
 
 
 def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
-    """Trích xuất khung hình cuối cùng của clip bằng ffmpeg làm start frame cho clip sau."""
+    """Trích xuất khung hình cuối cùng của clip 8s bằng ffmpeg làm Start Frame để Extend Video cho clip tiếp theo."""
     out_frame = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{clip_num:02d}_last.jpg")
-    log(f"🎬 Dùng ffmpeg cắt khung hình cuối (Last Frame) của Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
+    log(f"🎬 [EXTEND VIDEO] Dùng ffmpeg cắt khung hình cuối (Last Frame 8.0s) của Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
     try:
         cmd = [
             "ffmpeg", "-y",
@@ -519,34 +609,34 @@ def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
             "-i", video_source,
             "-frames:v", "1",
             "-q:v", "2",
-            out_frame
+            out_frame,
         ]
         result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
         if result.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
             size_kb = os.path.getsize(out_frame) / 1024
             print_box(
-                "🖼️ ĐÃ TRÍCH XUẤT KHUNG HÌNH CUỐI THÀNH CÔNG",
+                "🖼️ ĐÃ TRÍCH XUẤT KHUNG HÌNH CUỐI (EXTEND VIDEO 8S)",
                 [
-                    ("Clip Nguồn", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
+                    ("Clip Nguồn (8s)", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
                     ("File Ảnh Nối Cảnh", os.path.basename(out_frame)),
                     ("Đường Dẫn Lưu", out_frame),
                     ("Dung Lượng Ảnh", f"{size_kb:.1f} KB"),
-                    ("Mục Đích Sử Dụng", f"Nạp vào slot [Bắt đầu] cho Clip {clip_num + 1:02d} (Seamless Chaining)"),
-                ]
+                    ("Mục Đích Sử Dụng", f"Extend Video sang Clip {clip_num + 1:02d} bằng {VIDEO_MODEL_NAME} (8s)"),
+                ],
             )
             return out_frame
         else:
             cmd_fallback = [
                 "ffmpeg", "-y",
-                "-ss", "00:00:09.5",
+                "-ss", "00:00:07.5",
                 "-i", video_source,
                 "-frames:v", "1",
                 "-q:v", "2",
-                out_frame
+                out_frame,
             ]
             res_fb = subprocess.run(cmd_fallback, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
             if res_fb.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
-                log(f"✨ Trích xuất khung hình cuối thành công (fallback ss 9.5s): {os.path.basename(out_frame)}")
+                log(f"✨ Trích xuất khung hình cuối thành công (fallback ss 7.5s): {os.path.basename(out_frame)}")
                 return out_frame
             else:
                 log(f"⚠️ ffmpeg không trích xuất được frame: {result.stderr.decode('utf-8', errors='ignore')[:200]}")
@@ -557,7 +647,7 @@ def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
 
 
 def upload_start_frame(image_path: str) -> str:
-    """Nạp khung hình vừa cắt vào slot [Bắt đầu] trên Google Flow qua API."""
+    """Nạp khung hình cuối vừa cắt vào slot [Bắt đầu] trên Google Flow để Extend Video bằng veo_3_1_i2v_lite."""
     if not image_path or not os.path.exists(image_path):
         return None
     url = f"{FLOWKIT_API}/api/flow/upload-image"
@@ -569,7 +659,7 @@ def upload_start_frame(image_path: str) -> str:
             "image_base64": b64_str,
             "project_id": PROJECT_ID,
             "file_name": os.path.basename(image_path),
-            "mime_type": "image/jpeg"
+            "mime_type": "image/jpeg",
         }
         res = requests.post(url, json=payload, timeout=45)
         if res.status_code == 200:
@@ -581,13 +671,13 @@ def upload_start_frame(image_path: str) -> str:
                 or ((res_json.get("data") or {}).get("media") or {}).get("name")
             )
             print_box(
-                "📤 ĐÃ TẢI ẢNH LÊN GOOGLE FLOW [BẮT ĐẦU]",
+                "📤 ĐÃ TẢI ẢNH LÊN GOOGLE FLOW [EXTEND VIDEO START FRAME]",
                 [
                     ("Media ID", media_id),
                     ("File Ảnh Nối", os.path.basename(image_path)),
-                    ("Slot Kích Hoạt", "Khung hình [Bắt đầu] (Start Frame) cho Clip tiếp theo"),
-                    ("Trạng Thái", "Sẵn sàng Image-to-Video Omni Flash 10s ✅"),
-                ]
+                    ("Slot Kích Hoạt", "Khung hình [Bắt đầu] (Start Frame) để Extend Video"),
+                    ("Trạng Thái", f"Sẵn sàng Extend Video 8s với {VIDEO_MODEL_NAME} ✅"),
+                ],
             )
             return media_id
         else:
@@ -598,74 +688,114 @@ def upload_start_frame(image_path: str) -> str:
         return None
 
 
+def load_previous_last_frame(scene_num: int, prev_clip_num: int) -> str:
+    """Lấy frame cuối của clip trước đã có trên đĩa (khi chạy lẻ 1 clip hoặc resume) rồi upload làm Start Frame để Extend Video."""
+    frame_path = None
+    mp4_candidate = os.path.join(
+        OUTPUT_VIDEOS_DIR,
+        f"canh-{scene_num:02d}",
+        f"canh-{scene_num:02d}_clip-{prev_clip_num:02d}.mp4",
+    )
+    if os.path.exists(mp4_candidate) and os.path.getsize(mp4_candidate) > 50_000:
+        frame_path = extract_last_frame(mp4_candidate, scene_num, prev_clip_num)
+    if not frame_path:
+        for cn, mp4_path in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, scene_num, f"canh-{scene_num:02d}"):
+            if cn == prev_clip_num:
+                frame_path = extract_last_frame(mp4_path, scene_num, prev_clip_num)
+                break
+    if not frame_path:
+        cached = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{prev_clip_num:02d}_last.jpg")
+        if os.path.exists(cached):
+            frame_path = cached
+    if not frame_path:
+        log(
+            f"⚠️ Chưa có video/frame cuối của Cảnh {scene_num:02d} - Clip {prev_clip_num:02d} — "
+            f"Clip {prev_clip_num + 1:02d} sẽ tạo Start Frame khóa nhân vật mới cho {VIDEO_MODEL_NAME}."
+        )
+        return None
+    return upload_start_frame(frame_path)
+
+
 # -------------------------------------------------------------
-# 4. GỬI API REQUEST & LOG CHI TIẾT PARAMS (KHÓA NHÂN VẬT)
+# 4. GỬI API REQUEST VEO-LITE 8S + EXTEND VIDEO
 # -------------------------------------------------------------
 def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
-    """Gửi yêu cầu tạo video và luôn khóa đúng nhân vật Biệt Đội Gara."""
+    """Gửi yêu cầu tạo video 8s bằng model veo-lite (veo_3_1_i2v_lite) kèm Extend Video cho Clip 2..6."""
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
     flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
 
-    use_char_refs = is_new_scene_clip(prompt, clip_num, start_image_media_id)
     ref_media_ids = get_clip_reference_media_ids(prompt)
+    is_extend = (clip_num > 1) and bool(start_image_media_id)
 
-    if not use_char_refs and start_image_media_id:
+    # Nếu là Clip 1 (hoặc chưa có start_image_media_id từ clip trước), tạo Start Frame 16:9 khóa nhân vật cho Veo-Lite
+    effective_start_mid = start_image_media_id
+    if not effective_start_mid:
+        effective_start_mid = generate_scene_start_frame_for_veo(prompt, scene_num, clip_num, ref_media_ids)
+
+    if effective_start_mid:
         endpoint = "/api/flow/generate-video"
-        mode = "🔗 Image-to-Video (Nối tiếp khung hình cuối Clip trước)"
-        slot_desc = f"Start Frame = {start_image_media_id}"
+        if is_extend:
+            mode = f"🔗 EXTEND VIDEO 8s ({VIDEO_MODEL_NAME} nối tiếp từ Frame cuối Clip {clip_num - 1:02d})"
+            slot_desc = f"Extend Start Frame = {effective_start_mid}"
+        else:
+            mode = f"🎬 INITIAL VEO-LITE 8s ({VIDEO_MODEL_NAME} từ Start Frame khóa nhân vật)"
+            slot_desc = f"Scene Start Frame = {effective_start_mid} (Refs: {', '.join(ref_media_ids)})"
         payload = {
-            "start_image_media_id": start_image_media_id,
+            "start_image_media_id": effective_start_mid,
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
-            "duration_s": 10,
-            "model_family": "omni_flash",
+            "duration_s": CLIP_DURATION_S,
+            "model_family": VIDEO_MODEL_FAMILY,
             "resolution": "720p",
-            "aspect_ratio": ASPECT_RATIO
+            "aspect_ratio": ASPECT_RATIO,
+            "user_paygate_tier": "PAYGATE_TIER_TWO",
         }
     elif ref_media_ids:
-        endpoint = "/api/flow/generate-video-omni"
-        mode = f"🔒 Ingredients Reference-to-Video (Khóa {len(ref_media_ids)} nhân vật gốc Biệt Đội Gara)"
-        slot_desc = f"Ingredients Refs = {', '.join(ref_media_ids)}"
+        endpoint = "/api/flow/generate-video-refs"
+        mode = f"🔒 Reference-to-Video 8s ({VIDEO_MODEL_NAME} fallback với {len(ref_media_ids)} nhân vật)"
+        slot_desc = f"Refs = {', '.join(ref_media_ids)}"
         payload = {
             "reference_media_ids": ref_media_ids,
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
-            "duration_s": 10,
+            "duration_s": CLIP_DURATION_S,
+            "model_family": VIDEO_MODEL_FAMILY,
             "resolution": "720p",
-            "aspect_ratio": ASPECT_RATIO
+            "aspect_ratio": ASPECT_RATIO,
+            "user_paygate_tier": "PAYGATE_TIER_TWO",
         }
     else:
         endpoint = "/api/flow/generate-video-omni-text"
-        mode = "🎬 Text-to-Video (Khung hình gốc mở đầu cảnh)"
+        mode = "🎬 Text-to-Video 8s (Fallback)"
         slot_desc = "[Trống - Khởi tạo từ Text]"
         payload = {
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
-            "duration_s": 10,
+            "duration_s": CLIP_DURATION_S,
             "resolution": "720p",
-            "aspect_ratio": ASPECT_RATIO
+            "aspect_ratio": ASPECT_RATIO,
         }
 
     print_box(
-        "📡 FLOWKIT API REQUEST CALL (CHARACTER LOCKED)",
+        "📡 FLOWKIT API REQUEST CALL (VEO-LITE 8S + EXTEND VIDEO)",
         [
             ("Endpoint API", f"POST {endpoint}"),
             ("Tên Trên Google Flow", clip_tag),
             ("Phân Cảnh", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
             ("Chế Độ Tạo", mode),
             ("Khóa Hình Ảnh / Nhân Vật", slot_desc),
-            ("Thời Lượng", "10 giây (Omni Flash 10s)"),
+            ("Thời Lượng", f"{CLIP_DURATION_S} giây (Veo 3.1 Lite 8s)"),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", ASPECT_RATIO),
-            ("Model Family", "omni_flash"),
+            ("Model Family / Wire ID", f"{VIDEO_MODEL_FAMILY} ({VIDEO_MODEL_NAME})"),
             ("Độ Dài Prompt", f"{len(flow_prompt)} ký tự"),
             ("Prompt Preview", flow_prompt[:120].replace("\n", " ") + "..."),
-        ]
+        ],
     )
 
     url = f"{FLOWKIT_API}{endpoint}"
@@ -674,7 +804,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
 
 
 def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeout_s=360):
-    """Theo dõi tiến trình sinh video cho đến khi hoàn thành."""
+    """Theo dõi tiến trình sinh video 8s (Veo-Lite) cho đến khi hoàn thành."""
     url = f"{FLOWKIT_API}/api/flow/check-status"
     start_time = time.time()
 
@@ -688,8 +818,12 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
     if not primary_media_id and workflows:
         primary_media_id = workflows[0].get("primary_media_id")
 
-    poll_mode_desc = "workflows (Text-to-Video)" if workflows else ("operations (Ingredients R2V / Image-to-Video)" if operations else "direct media")
-    log(f"⏳ Đang theo dõi tiến trình tạo video [Cảnh {scene_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
+    poll_mode_desc = (
+        "workflows (Text-to-Video)"
+        if workflows
+        else ("operations (Veo 3.1 Lite 8s I2V / Video Extend)" if operations else "direct media")
+    )
+    log(f"⏳ Đang theo dõi tiến trình tạo video 8s [Cảnh {scene_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
 
     last_logged_time = 0
     while time.time() - start_time < timeout_s:
@@ -752,7 +886,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         return {"success": False, "error": "OPERATION_FAILED"}
 
                     if all_done and inner_ops:
-                        log(f"🎉 Google Flow render hoàn tất sau {elapsed}s!")
+                        log(f"🎉 Google Flow (Veo-Lite 8s) render hoàn tất sau {elapsed}s!")
                         target_mid = op_media_id or primary_media_id
                         if not video_url and target_mid:
                             video_url = fetch_media_video_url(target_mid)
@@ -777,7 +911,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 
             if elapsed - last_logged_time >= 12:
                 last_logged_time = elapsed
-                log(f"   ...Google Flow đang vẽ video đúng nhân vật ({elapsed}s trôi qua)...")
+                log(f"   ...Google Flow ({VIDEO_MODEL_NAME} 8s) đang vẽ video ({elapsed}s trôi qua)...")
 
         except Exception as e:
             log(f"   ...lỗi tạm thời khi poll ({e}), tiếp tục chờ...")
@@ -789,7 +923,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 
 
 # -------------------------------------------------------------
-# 5. CHU TRÌNH ĐIỀU PHỐI TỔNG THỂ
+# 5. CHU TRÌNH ĐIỀU PHỐI TỔNG THỂ (VEO-LITE 8S + EXTEND VIDEO)
 # -------------------------------------------------------------
 def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 2):
     current_prompt = initial_prompt
@@ -811,7 +945,7 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
             if res.status_code == 200:
                 data = res.json()
                 inner = data.get("data") if isinstance(data.get("data"), dict) else data
-                log("✅ Google Flow đã chấp nhận job tạo video.")
+                log(f"✅ Google Flow đã chấp nhận job tạo video 8s ({VIDEO_MODEL_NAME}).")
 
                 poll_res = poll_generation(inner, scene_num, clip_num)
                 if poll_res["success"] and poll_res.get("video_url"):
@@ -826,22 +960,25 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
         if attempt < max_retries:
             log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - LẦN THỬ {attempt + 1}/{max_retries}] Đang làm mềm prompt trên bộ nhớ cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
             current_prompt = sanitize_prompt(initial_prompt, attempt)
-            start_image_media_id = None
-            log("🔄 Khóa trực tiếp nhân vật gốc (Ingredients R2V) và chạy lại sau 5 giây...")
+            if start_image_media_id:
+                log(f"🔄 Giữ frame cuối của clip trước để Extend Video 8s ({VIDEO_MODEL_NAME}) và chạy lại sau 5 giây...")
+            else:
+                log(f"🔄 Khởi tạo lại Start Frame khóa nhân vật cho {VIDEO_MODEL_NAME} 8s và chạy lại sau 5 giây...")
             time.sleep(5)
 
     log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN LỖI] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã fail {max_retries} lần — tạm bỏ qua để kiểm tra và tạo lại sau!")
     return {"success": False, "video_url": None}
 
 
-def run_pipeline(start_scene=16, end_scene=45):
+def run_pipeline(start_scene=1, end_scene=15):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
-    print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT TỰ ĐỘNG THÔNG MINH — BIỆT ĐỘI GARA")
-    print(f"📁 Phạm vi: Cảnh {start_scene:02d} đến Cảnh {end_scene:02d} (6 clips/cảnh)")
+    print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT — BÍ MẬT PHÒNG 613 (VEO-LITE 8S + EXTEND VIDEO)")
+    print(f"📁 Phạm vi: Cảnh {start_scene:02d} đến Cảnh {end_scene:02d} (6 clips × {CLIP_DURATION_S}s = {6 * CLIP_DURATION_S}s/cảnh)")
+    print(f"🤖 Model Video: {VIDEO_MODEL_NAME} (model_family={VIDEO_MODEL_FAMILY}, {CLIP_DURATION_S}s/clip + Video Extend)")
     print(f"🔗 Google Flow Project: {PROJECT_ID}")
     print(f"💾 Tải video tự động về: {OUTPUT_VIDEOS_DIR}")
-    print(f"🖼️ Lưu khung hình nối cảnh tại: {FRAMES_DIR}")
+    print(f"🖼️ Lưu khung hình Extend Video tại: {FRAMES_DIR}")
     print("=" * 72 + "\n", flush=True)
 
     if not check_connection():
@@ -857,7 +994,7 @@ def run_pipeline(start_scene=16, end_scene=45):
     for s in range(start_scene, end_scene + 1):
         CURRENT_EP_NUM = s
         print("\n" + "#" * 72)
-        print(f"👉 BẮT ĐẦU CẢNH {s:02d}")
+        print(f"👉 BẮT ĐẦU CẢNH {s:02d} (6 Clips × {CLIP_DURATION_S}s — Veo-Lite + Video Extend)")
         print("#" * 72, flush=True)
 
         previous_clip_last_frame_media_id = None
@@ -875,21 +1012,34 @@ def run_pipeline(start_scene=16, end_scene=45):
                 if r2_done:
                     completed_clips += 1
                     progress_pct = (completed_clips / max(1, total_clips)) * 100
-                    log(f"☁️ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã có video ({r2_done}) — bỏ qua, chỉ retry clip FAILED.")
+                    log(
+                        f"☁️ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} "
+                        f"đã có video ({r2_done}) — nạp frame cuối làm mốc Extend Video cho clip kế tiếp."
+                    )
+                    previous_clip_last_frame_media_id = None
                     continue
 
             with open(fpath, "r", encoding="utf-8") as f:
                 prompt_content = f.read().strip()
 
+            # 🔗 EXTEND VIDEO: Từ Clip 2 trở đi luôn lấy frame cuối của Clip (c_idx - 1) làm Start Frame cho Veo-Lite 8s
+            if c_idx > 1 and not previous_clip_last_frame_media_id:
+                previous_clip_last_frame_media_id = load_previous_last_frame(s, c_idx - 1)
+
             completed_clips += 1
             progress_pct = (completed_clips / max(1, total_clips)) * 100
-            print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — CẢNH {s:02d} - CLIP {c_idx:02d}", flush=True)
+            mode_tag = "ROOT 8s" if c_idx == 1 else f"EXTEND 8s từ Clip {c_idx - 1:02d}"
+            print(
+                f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — "
+                f"CẢNH {s:02d} - CLIP {c_idx:02d} [{mode_tag} | {VIDEO_MODEL_NAME}]",
+                flush=True,
+            )
 
             res = run_clip_with_auto_retry(
                 scene_num=s,
                 clip_num=c_idx,
                 initial_prompt=prompt_content,
-                start_image_media_id=None
+                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None,
             )
 
             if res["success"] and res.get("video_url"):
@@ -898,6 +1048,13 @@ def run_pipeline(start_scene=16, end_scene=45):
                 if local_video:
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
+
+                # Trích xuất frame cuối của clip 8s vừa xong để Extend Video sang clip tiếp theo (c_idx + 1)
+                frame_path = extract_last_frame(local_video if local_video else video_url, s, c_idx)
+                has_next_clip = c_idx < 6
+                previous_clip_last_frame_media_id = (
+                    upload_start_frame(frame_path) if frame_path and has_next_clip else None
+                )
             else:
                 mark_clip_failed_in_db(CHANNEL_SLUG, s, c_idx)
                 log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Đã đánh dấu FAILED để retry sau.")
@@ -906,22 +1063,32 @@ def run_pipeline(start_scene=16, end_scene=45):
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
 
-        # ⏭️ Ghi nhận danh sách clip tạm bỏ qua sau 2 lần lỗi (không chạy lại & không ghi đè file .md gốc)
-        existing_nums = rendered_in_this_run if ONLY_CLIP > 0 else {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
-        missing_clips = [c_idx for c_idx in clip_indices if c_idx not in existing_nums and os.path.exists(os.path.join(scene_dir, f"clip-{c_idx}.md"))]
+        existing_nums = (
+            rendered_in_this_run
+            if ONLY_CLIP > 0
+            else {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
+        )
+        missing_clips = [
+            c_idx
+            for c_idx in clip_indices
+            if c_idx not in existing_nums and os.path.exists(os.path.join(scene_dir, f"clip-{c_idx}.md"))
+        ]
         if missing_clips:
-            log(f"⏭️ [DANH SÁCH CLIP TẠM BỎ QUA] Cảnh {s:02d} có {len(missing_clips)} clip chưa hoàn tất ({missing_clips}) sau 2 lần thử — giữ nguyên kịch bản gốc để kiểm tra và tạo lại sau.")
+            log(
+                f"⏭️ [DANH SÁCH CLIP TẠM BỎ QUA] Cảnh {s:02d} có {len(missing_clips)} clip chưa hoàn tất ({missing_clips}) "
+                "sau 2 lần thử — giữ nguyên kịch bản gốc để kiểm tra và tạo lại sau."
+            )
 
         CURRENT_CLIP_NUM = None
-        log(f"✅ Đã hoàn tất render các clip của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
+        log(f"✅ Đã hoàn tất render các clip 8s của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
 
     print("\n" + "=" * 72)
-    print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d}!")
+    print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d} (VEO-LITE 8S + EXTEND VIDEO)!")
     print(f"📁 Video hoàn chỉnh đã được lưu tại: {OUTPUT_VIDEOS_DIR}")
     print("=" * 72 + "\n", flush=True)
 
 
 if __name__ == "__main__":
-    start = int(sys.argv[1]) if len(sys.argv) > 1 else 16
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 45
+    start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 15
     run_pipeline(start, end)

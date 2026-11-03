@@ -1,4 +1,4 @@
-# Khóa Nhân Vật, Bối Cảnh & Đạo Cụ — Bí Mật Phòng 613 (Google Flow Omni 16:9)
+# Khóa Nhân Vật, Bối Cảnh & Đạo Cụ — Bí Mật Phòng 613 (Google Flow Veo 3.1 Lite 8s + Video Extend 16:9)
 
 ## 1. Khóa 4 Nhân Vật Chính (`CHARACTER_SPECS`)
 
@@ -82,22 +82,22 @@ Narrow 6th-floor open corridor outside Room 613 at 03:00 AM: deep cyan-green sha
 Ground-floor courtyard and rusted iron entrance gate of Block C apartment building in morning sunlight: a dusty abandoned security guard booth with louvered glass windows by the gate, a round convex traffic safety mirror mounted on a steel pole outside, and inside the dim guard booth two small framed memorial portraits side by side under a faint red electric altar bulb.
 ```
 
-## 3. Danh Mục 90 Clips (15 Cảnh × 6 Clips)
+## 3. Danh Mục 90 Clips (15 Cảnh × 6 Clips × 8s — Veo 3.1 Lite + Video Extend)
 
-| Cảnh | Thời Lượng | Clip 1 | Clip 2 | Clip 3 | Clip 4 | Clip 5 | Clip 6 |
+| Cảnh | Thời Lượng | Clip 1 (Root 8s) | Clip 2 (Extend 8s) | Clip 3 (Extend 8s) | Clip 4 (Extend 8s) | Clip 5 (Extend 8s) | Clip 6 (Extend 8s) |
 |---|---|---|---|---|---|---|---|
-| [Cảnh 01](canh-01/README.md) | `00:00–01:00` | [Clip 1](canh-01/clip-1.md) | [Clip 2](canh-01/clip-2.md) | [Clip 3](canh-01/clip-3.md) | [Clip 4](canh-01/clip-4.md) | [Clip 5](canh-01/clip-5.md) | [Clip 6](canh-01/clip-6.md) |
-| [Cảnh 02](canh-02/README.md) | `01:00–02:00` | [Clip 1](canh-02/clip-1.md) | [Clip 2](canh-02/clip-2.md) | [Clip 3](canh-02/clip-3.md) | [Clip 4](canh-02/clip-4.md) | [Clip 5](canh-02/clip-5.md) | [Clip 6](canh-02/clip-6.md) |
-| [Cảnh 03](canh-03/README.md) | `02:00–03:00` | [Clip 1](canh-03/clip-1.md) | [Clip 2](canh-03/clip-2.md) | [Clip 3](canh-03/clip-3.md) | [Clip 4](canh-03/clip-4.md) | [Clip 5](canh-03/clip-5.md) | [Clip 6](canh-03/clip-6.md) |
-| [Cảnh 04](canh-04/README.md) | `03:00–04:00` | [Clip 1](canh-04/clip-1.md) | [Clip 2](canh-04/clip-2.md) | [Clip 3](canh-04/clip-3.md) | [Clip 4](canh-04/clip-4.md) | [Clip 5](canh-04/clip-5.md) | [Clip 6](canh-04/clip-6.md) |
-| [Cảnh 05](canh-05/README.md) | `04:00–05:00` | [Clip 1](canh-05/clip-1.md) | [Clip 2](canh-05/clip-2.md) | [Clip 3](canh-05/clip-3.md) | [Clip 4](canh-05/clip-4.md) | [Clip 5](canh-05/clip-5.md) | [Clip 6](canh-05/clip-6.md) |
-| [Cảnh 06](canh-06/README.md) | `05:00–06:00` | [Clip 1](canh-06/clip-1.md) | [Clip 2](canh-06/clip-2.md) | [Clip 3](canh-06/clip-3.md) | [Clip 4](canh-06/clip-4.md) | [Clip 5](canh-06/clip-5.md) | [Clip 6](canh-06/clip-6.md) |
-| [Cảnh 07](canh-07/README.md) | `06:00–07:00` | [Clip 1](canh-07/clip-1.md) | [Clip 2](canh-07/clip-2.md) | [Clip 3](canh-07/clip-3.md) | [Clip 4](canh-07/clip-4.md) | [Clip 5](canh-07/clip-5.md) | [Clip 6](canh-07/clip-6.md) |
-| [Cảnh 08](canh-08/README.md) | `07:00–08:00` | [Clip 1](canh-08/clip-1.md) | [Clip 2](canh-08/clip-2.md) | [Clip 3](canh-08/clip-3.md) | [Clip 4](canh-08/clip-4.md) | [Clip 5](canh-08/clip-5.md) | [Clip 6](canh-08/clip-6.md) |
-| [Cảnh 09](canh-09/README.md) | `08:00–09:00` | [Clip 1](canh-09/clip-1.md) | [Clip 2](canh-09/clip-2.md) | [Clip 3](canh-09/clip-3.md) | [Clip 4](canh-09/clip-4.md) | [Clip 5](canh-09/clip-5.md) | [Clip 6](canh-09/clip-6.md) |
-| [Cảnh 10](canh-10/README.md) | `09:00–10:00` | [Clip 1](canh-10/clip-1.md) | [Clip 2](canh-10/clip-2.md) | [Clip 3](canh-10/clip-3.md) | [Clip 4](canh-10/clip-4.md) | [Clip 5](canh-10/clip-5.md) | [Clip 6](canh-10/clip-6.md) |
-| [Cảnh 11](canh-11/README.md) | `10:00–11:00` | [Clip 1](canh-11/clip-1.md) | [Clip 2](canh-11/clip-2.md) | [Clip 3](canh-11/clip-3.md) | [Clip 4](canh-11/clip-4.md) | [Clip 5](canh-11/clip-5.md) | [Clip 6](canh-11/clip-6.md) |
-| [Cảnh 12](canh-12/README.md) | `11:00–12:00` | [Clip 1](canh-12/clip-1.md) | [Clip 2](canh-12/clip-2.md) | [Clip 3](canh-12/clip-3.md) | [Clip 4](canh-12/clip-4.md) | [Clip 5](canh-12/clip-5.md) | [Clip 6](canh-12/clip-6.md) |
-| [Cảnh 13](canh-13/README.md) | `12:00–13:00` | [Clip 1](canh-13/clip-1.md) | [Clip 2](canh-13/clip-2.md) | [Clip 3](canh-13/clip-3.md) | [Clip 4](canh-13/clip-4.md) | [Clip 5](canh-13/clip-5.md) | [Clip 6](canh-13/clip-6.md) |
-| [Cảnh 14](canh-14/README.md) | `13:00–14:00` | [Clip 1](canh-14/clip-1.md) | [Clip 2](canh-14/clip-2.md) | [Clip 3](canh-14/clip-3.md) | [Clip 4](canh-14/clip-4.md) | [Clip 5](canh-14/clip-5.md) | [Clip 6](canh-14/clip-6.md) |
-| [Cảnh 15](canh-15/README.md) | `14:00–15:00` | [Clip 1](canh-15/clip-1.md) | [Clip 2](canh-15/clip-2.md) | [Clip 3](canh-15/clip-3.md) | [Clip 4](canh-15/clip-4.md) | [Clip 5](canh-15/clip-5.md) | [Clip 6](canh-15/clip-6.md) |
+| [Cảnh 01](canh-01/README.md) | `6 × 8s (48s)` | [Clip 1](canh-01/clip-1.md) | [Clip 2](canh-01/clip-2.md) | [Clip 3](canh-01/clip-3.md) | [Clip 4](canh-01/clip-4.md) | [Clip 5](canh-01/clip-5.md) | [Clip 6](canh-01/clip-6.md) |
+| [Cảnh 02](canh-02/README.md) | `6 × 8s (48s)` | [Clip 1](canh-02/clip-1.md) | [Clip 2](canh-02/clip-2.md) | [Clip 3](canh-02/clip-3.md) | [Clip 4](canh-02/clip-4.md) | [Clip 5](canh-02/clip-5.md) | [Clip 6](canh-02/clip-6.md) |
+| [Cảnh 03](canh-03/README.md) | `6 × 8s (48s)` | [Clip 1](canh-03/clip-1.md) | [Clip 2](canh-03/clip-2.md) | [Clip 3](canh-03/clip-3.md) | [Clip 4](canh-03/clip-4.md) | [Clip 5](canh-03/clip-5.md) | [Clip 6](canh-03/clip-6.md) |
+| [Cảnh 04](canh-04/README.md) | `6 × 8s (48s)` | [Clip 1](canh-04/clip-1.md) | [Clip 2](canh-04/clip-2.md) | [Clip 3](canh-04/clip-3.md) | [Clip 4](canh-04/clip-4.md) | [Clip 5](canh-04/clip-5.md) | [Clip 6](canh-04/clip-6.md) |
+| [Cảnh 05](canh-05/README.md) | `6 × 8s (48s)` | [Clip 1](canh-05/clip-1.md) | [Clip 2](canh-05/clip-2.md) | [Clip 3](canh-05/clip-3.md) | [Clip 4](canh-05/clip-4.md) | [Clip 5](canh-05/clip-5.md) | [Clip 6](canh-05/clip-6.md) |
+| [Cảnh 06](canh-06/README.md) | `6 × 8s (48s)` | [Clip 1](canh-06/clip-1.md) | [Clip 2](canh-06/clip-2.md) | [Clip 3](canh-06/clip-3.md) | [Clip 4](canh-06/clip-4.md) | [Clip 5](canh-06/clip-5.md) | [Clip 6](canh-06/clip-6.md) |
+| [Cảnh 07](canh-07/README.md) | `6 × 8s (48s)` | [Clip 1](canh-07/clip-1.md) | [Clip 2](canh-07/clip-2.md) | [Clip 3](canh-07/clip-3.md) | [Clip 4](canh-07/clip-4.md) | [Clip 5](canh-07/clip-5.md) | [Clip 6](canh-07/clip-6.md) |
+| [Cảnh 08](canh-08/README.md) | `6 × 8s (48s)` | [Clip 1](canh-08/clip-1.md) | [Clip 2](canh-08/clip-2.md) | [Clip 3](canh-08/clip-3.md) | [Clip 4](canh-08/clip-4.md) | [Clip 5](canh-08/clip-5.md) | [Clip 6](canh-08/clip-6.md) |
+| [Cảnh 09](canh-09/README.md) | `6 × 8s (48s)` | [Clip 1](canh-09/clip-1.md) | [Clip 2](canh-09/clip-2.md) | [Clip 3](canh-09/clip-3.md) | [Clip 4](canh-09/clip-4.md) | [Clip 5](canh-09/clip-5.md) | [Clip 6](canh-09/clip-6.md) |
+| [Cảnh 10](canh-10/README.md) | `6 × 8s (48s)` | [Clip 1](canh-10/clip-1.md) | [Clip 2](canh-10/clip-2.md) | [Clip 3](canh-10/clip-3.md) | [Clip 4](canh-10/clip-4.md) | [Clip 5](canh-10/clip-5.md) | [Clip 6](canh-10/clip-6.md) |
+| [Cảnh 11](canh-11/README.md) | `6 × 8s (48s)` | [Clip 1](canh-11/clip-1.md) | [Clip 2](canh-11/clip-2.md) | [Clip 3](canh-11/clip-3.md) | [Clip 4](canh-11/clip-4.md) | [Clip 5](canh-11/clip-5.md) | [Clip 6](canh-11/clip-6.md) |
+| [Cảnh 12](canh-12/README.md) | `6 × 8s (48s)` | [Clip 1](canh-12/clip-1.md) | [Clip 2](canh-12/clip-2.md) | [Clip 3](canh-12/clip-3.md) | [Clip 4](canh-12/clip-4.md) | [Clip 5](canh-12/clip-5.md) | [Clip 6](canh-12/clip-6.md) |
+| [Cảnh 13](canh-13/README.md) | `6 × 8s (48s)` | [Clip 1](canh-13/clip-1.md) | [Clip 2](canh-13/clip-2.md) | [Clip 3](canh-13/clip-3.md) | [Clip 4](canh-13/clip-4.md) | [Clip 5](canh-13/clip-5.md) | [Clip 6](canh-13/clip-6.md) |
+| [Cảnh 14](canh-14/README.md) | `6 × 8s (48s)` | [Clip 1](canh-14/clip-1.md) | [Clip 2](canh-14/clip-2.md) | [Clip 3](canh-14/clip-3.md) | [Clip 4](canh-14/clip-4.md) | [Clip 5](canh-14/clip-5.md) | [Clip 6](canh-14/clip-6.md) |
+| [Cảnh 15](canh-15/README.md) | `6 × 8s (48s)` | [Clip 1](canh-15/clip-1.md) | [Clip 2](canh-15/clip-2.md) | [Clip 3](canh-15/clip-3.md) | [Clip 4](canh-15/clip-4.md) | [Clip 5](canh-15/clip-5.md) | [Clip 6](canh-15/clip-6.md) |

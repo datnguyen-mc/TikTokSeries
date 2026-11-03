@@ -1,27 +1,33 @@
-Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same people, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. The babies never speak. Cut only where the shot list says. No subtitles, no captions, no on-screen text.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same people, same outfits, same location, same lighting and color grade. Flawless clip-to-clip continuity, no time skip, no jump cut at the start.
 
-[CHARACTERS — unchanged]
-@Ngoc = NGỌC: beautiful young Vietnamese woman, 27, big bright almond eyes, small beauty mark below her LEFT eye, silky black hair in a soft low bun with a brown tortoiseshell claw clip; pale sage-green flower-print cotton pajama set, thin silver bangle on her left wrist, barefoot; soft, warm, sweet Southern female voice.
-@Gao = GẠO: beautiful, adorable real newborn twin boy, plump cheeks, tuft of thick black hair sticking up like a little sprout, soft mint-green cotton with a tiny embroidered teddy bear; never speaks, only real newborn sounds.
-@Bong = BÔNG: beautiful, adorable real newborn twin girl, daintier than her brother, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; never speaks, only real newborn sounds.
+[FORMAT]
+Vertical 9:16, 10-second clip, 24fps, same photorealistic live-action 35mm Vietnamese family drama look with smooth, continuous camera movement and natural acceleration/deceleration. Spoken lines are written after a colon following the speaker and are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync when NGỌC's face is clearly visible, never shown as text. The babies never speak; they only make real infant sounds. Never flash or cut to a standalone reference portrait or studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
+
+[CHARACTERS — unchanged, strict identity lock]
+@Ngoc = NGỌC: real young Vietnamese single mother, 27, expressive almond eyes, small beauty mark just below her LEFT eye, black hair in a soft low bun with a brown tortoiseshell claw clip and a few loose strands; clean pale sage-green flower-print cotton pajama set, thin silver bangle on her left wrist, barefoot indoors; soft, warm, natural Southern Vietnamese female voice, subtle restrained emotion.
+@Gao = GẠO: real Vietnamese newborn twin boy (1–4 weeks old), plump cheeks, signature tuft of thick black hair sticking straight up like a little sprout, soft mint-green cotton with a tiny embroidered brown teddy bear; true newborn movements, head and neck always supported; never speaks, only real newborn sounds.
+@Bong = BÔNG: real Vietnamese newborn twin girl (1–4 weeks old), daintier than her brother, rosebud lips, long eyelashes, fine thin wisps of black hair, soft blush-pink cotton with tiny shoulder ruffles and an embroidered strawberry; true newborn movements, head and neck always supported; never speaks, only real newborn sounds.
+
+[PRODUCTS]
+Two light-wood bassinets and the bedside tray with newborn umbilical cut-out diapers (`SP_TA_SO_SINH`) in the background.
+
+[SETTING]
+THE RENTED ROOM: a small, lived-in ground-floor rented room of about twenty square meters in a narrow working-class Saigon alley, Vietnam, today. White-painted walls with faint age marks, a dark-green iron door to the alley, a window with a green-painted iron grille and a faded floral curtain, a slow white ceiling fan, a low single bed with a thin mattress and a light-blue floral sheet against one wall, a small wooden table by the window with a compact home sewing machine, stacks of unfinished pastel garments waiting to be hemmed, a small paper utility bill tucked neatly under a clip, a white plastic drawer cabinet, a small drying rack with freshly washed tiny baby clothes and cloth diapers hanging neatly by the sunny window, and a small shelf with a rice cooker, a kettle and folded white cloth towels. Beside the bed, two identical light-wood baby bassinets stand side by side, each with a firm flat mattress and a plain white fitted sheet and nothing else inside. Modest, economically tight, yet spotless, safe and warm.
+Time: 08:35 AM, immediately following Clip 3 inside the sunlit rented room.
 
 [CAMERA & LIGHT]
-Same soft morning light; 50mm and 85mm prime lenses; ends on a warm, emotionally powerful medium close-up of NGỌC kneeling tenderly between the two bassinets for the episode thumbnail. Both babies remain fully clothed and safely framed throughout.
+Single continuous 50mm cinema shot: follows NGỌC as she lays BÔNG safely on her back in the right bassinet and kneels between both bassinets, ending in a warm medium close-up with gentle humor.
 
 [SHOT LIST]
-00:00–00:02 | Medium shot, 35mm, continuing from the last frame — NGỌC gently lifts BÔNG in both arms with one hand supporting her head and neck, stepping over and laying her down softly on her back in her own wooden bassinet.
-00:02–00:04.5 | Medium close-up, 50mm — kneeling gracefully between the two bassinets, NGỌC looks down at her babies with maternal seriousness and warmth. NGỌC says (soft, warm voice, careful and serious): Rốn đỏ, sưng, chảy dịch hôi là đi khám liền.
-00:04.5–00:06.5 | Close-up, 85mm — she leans gently toward GẠO's bassinet, whispering with a playful, teasing smile to her baby boy. NGỌC says (soft, warm voice, playful whisper): Con trai ráng lên, đừng thua em gái nha.
-00:06.5–00:07.5 | Insert close-up, 85mm — inside his bassinet, GẠO gives a cute tiny sneeze and scrunches his nose as if cheekily answering his mother.
-00:07.5–00:10 | Medium close-up, 50mm (Thumbnail shot) — NGỌC lets out a soft laugh then a long, relieved breath, her eyes shimmering with proud, happy tears; with one hand resting lovingly on each bassinet rail, she gazes at her twins. NGỌC says (soft, warm voice, proud and teary-eyed): Mẹ làm được mà, đúng hông hai con?
+00:00–00:03.5 | Medium shot, 50mm, continuing smoothly — supporting BÔNG's head and neck carefully, NGỌC lays her gently on her back in the right light-wood bassinet beside GẠO's left bassinet, then kneels between the two bassinets.
+00:03.5–00:07.0 | Medium close-up, 50mm, gentle push-in — looking tenderly at GẠO, NGỌC reminders herself of the nurse's advice while teasing her son with a warm, playful smile. NGỌC says (soft, warm Southern Vietnamese voice, gentle and playful): Rốn hổng sưng đỏ, hổng chảy dịch là yên tâm… Anh hai Gạo ráng lên, đừng để thua em gái nghen!
+00:07.0–00:10.0 | Medium close-up, 50mm, natural settle — right on cue, GẠO scrunches his nose into his grumpy little old-man frown and lets out another tiny sneeze as if protesting; NGỌC bursts into a genuine, quiet laugh, resting one hand on each bassinet rail. NGỌC says (soft, warm voice, laughing fondly): Rồi rồi, mẹ biết anh hai cũng giỏi mà!
 
 [SOUND]
-Soft morning room ambience, quiet ceiling fan, baby GẠO's tiny sneeze, soft newborn breathing, and an emotional, uplifting acoustic guitar resolution.
+GẠO's comical tiny newborn sneeze right on cue, NGỌC's warm genuine laugh, quiet ceiling fan, uplifting acoustic guitar chord.
 
 [END FRAME]
-Medium close-up: NGỌC kneeling peacefully between the two wooden bassinets, eyes moist with tears of happiness and love, hands resting on the crib rails; GẠO asleep on his back in his mint-green bodysuit in the left bassinet, BÔNG asleep with a peaceful faint smile in her blush-pink bodysuit in the right bassinet. Hold still for the final 0.5 seconds.
+Warm medium close-up in morning sunlight: NGỌC kneeling between the two light-wood bassinets, smiling fondly with one hand on each rail as GẠO (mint-green, left) and BÔNG (blush-pink, right) rest safely on their backs on bare white sheets; natural settle in the final 0.5 seconds.
 
 [AVOID]
-dialogue spoken by anyone but NGỌC, time skip, cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted faces, extra or missing fingers or limbs, awake babies grinning at the camera, feeding bottles, pacifiers, formula tins, extra people in focus or speaking, subtitles.
-
+pillows or blankets in the bassinets, babies sitting up or talking, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, cartoon, CGI, 3D animation or glossy commercial look, plastic or airbrushed skin, melodramatic overacting or loud theatrical wailing, doll-like or plastic-looking babies, distorted baby faces, extra or missing fingers or toes, babies with older-infant faces or proportions, babies talking or acting like toddlers, babies sitting up, standing, crawling or holding up their own heads unsupported, an unsupported baby head or neck when lifted, a baby sleeping on its stomach or side, pillows, loose blankets, crib bumpers, stuffed toys or hats inside a bassinet, both babies sharing one bassinet, a baby left unattended on an adult bed or high surface, feeding bottles, pacifiers, formula tins or powdered milk, nudity, readable text, labels, logos, brand names, watermarks, extra people in focus or speaking, whip pans, snap zooms, camera teleportation, frozen static frames, subtitles.

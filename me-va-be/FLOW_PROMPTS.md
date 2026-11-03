@@ -141,9 +141,9 @@ SHORT LOCK
 
 Dán nguyên văn vào mục `[SETTING]`. Dòng `Time: ...` (giờ, ánh sáng, đạo cụ riêng của cảnh) viết sẵn ngay dưới trong từng prompt.
 
-**Phòng trọ** (Tập 1–5)
+**Phòng trọ** (Tập 1–6+)
 ```text
-THE RENTED ROOM: a small ground-floor rented room of about twenty square meters in a narrow Saigon alley, Vietnam, today. White-painted walls with faint water stains, a dark-green iron door to the alley, a window with a green-painted iron grille and a faded floral curtain, a slow white ceiling fan, a low single bed with a thin mattress and a light-blue floral sheet against one wall, a small wooden table by the window with a compact sewing machine and neatly folded pastel cotton fabric, a white plastic drawer cabinet, a small shelf with a rice cooker, a kettle and a stack of folded white cloth towels. Beside the bed, two identical light-wood baby bassinets stand side by side, each with a firm flat mattress and a plain white fitted sheet and nothing else inside. Modest but spotless, tidy and warm.
+THE RENTED ROOM: a small, lived-in ground-floor rented room of about twenty square meters in a narrow working-class Saigon alley, Vietnam, today. White-painted walls with faint age marks, a dark-green iron door to the alley, a window with a green-painted iron grille and a faded floral curtain, a slow white ceiling fan, a low single bed with a thin mattress and a light-blue floral sheet against one wall, a small wooden table by the window with a compact home sewing machine, stacks of unfinished pastel garments waiting to be hemmed, a small paper utility bill tucked neatly under a clip, a white plastic drawer cabinet, a small drying rack with freshly washed tiny baby clothes and cloth diapers hanging neatly by the sunny window, and a small shelf with a rice cooker, a kettle and folded white cloth towels. Beside the bed, two identical light-wood baby bassinets stand side by side, each with a firm flat mattress and a plain white fitted sheet and nothing else inside. Modest, economically tight, yet spotless, safe and warm.
 ```
 
 **Phòng hậu sản ở bệnh viện** (Tập 1)

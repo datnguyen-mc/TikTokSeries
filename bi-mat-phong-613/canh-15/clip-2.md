@@ -1,0 +1,56 @@
+[FORMAT]
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese psychological mystery-thriller short film. Shutter: 180-degree cinema shutter (24 fps) for natural motion cadence, grounded dramatic tension, realistic skin pores, and subtle film grain. Scene category: PSYCHOLOGICAL_SUSPENSE | Voice speed: 1.25x (125%). Color grade: Atmospheric old-Saigon apartment palette — pale jade-green walls, deep cyan-teal shadows, contrasted with warm amber-red incense, candle, and altar highlights, natural Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: CLOSE_UP): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no whip-pan, no teleportation, no gore, no blood, no graphic violence, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip.
+
+[CHARACTERS — approved identities, wardrobe, carried props and voice profiles]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters appear in frame.
+@Trinh = Trinh: same approved identity, age 22; Vietnamese female journalism student, 165 cm, lean athletic build, sharp confident cheekbones, observant dark eyes, long straight black hair parted cleanly in the middle. Wardrobe: oversized burnt-orange cotton T-shirt, dark charcoal-grey lounge trousers, dark indoor sandals. Voice profile: Crisp, decisive Southern Vietnamese female voice (~205 Hz), pragmatic and direct at 1.25x cadence, fiercely protective of Phương.
+@Phuong = Phương: same approved identity, age 22; Vietnamese female university design student, 160 cm, slender petite build, oval face, expressive large dark eyes, soft natural eyebrows,长 straight black hair worn down with a cream fabric headband. Wardrobe: soft cream knit cardigan over a plain white cotton T-shirt, light-blue wide-leg jeans, white canvas indoor slippers. Voice profile: Gentle, emotional Southern Vietnamese female voice (~225 Hz), natural 1.25x cadence, trembling softly when frightened, sincere and compassionate.
+
+[TIMELINE AND LOCATION]
+Scene 15/15, clip 2/6; shot 15.2. Story time: D2 morning (06:30) (14:00–15:00).
+Ground-floor courtyard and rusted iron entrance gate of Block C apartment building in morning sunlight: a dusty abandoned security guard booth with louvered glass windows by the gate, a round convex traffic safety mirror mounted on a steel pole outside, and inside the dim guard booth two small framed memorial portraits side by side under a faint red electric altar bulb.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 15 (Clip 1–6)]
+FIXED SCENE 15 SPACE (Sân cổng Chung cư Lô C, Gương cầu lồi & Bốt bảo vệ bỏ hoang): Tái hiện trọn vẹn chuỗi khung hình kết phim ở hàng 3-4 Sheet 6 của Phim ngắn 613 — hai cô gái ngoài sân sáng, chiếc gương cầu tròn bên cổng, và góc tường tối bên trong bốt trực có hai khung ảnh thờ dưới ánh đèn đỏ.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6) of Scene 15.
+
+[DRAMATIC INTENT — show through behaviour, never narrate this note]
+Tái hiện chính xác khung hình cận mặt bên chiếc gương cầu tròn (hàng 3 cột 2-3 Sheet 6 của Phim ngắn 613).
+
+[ACTION — 0–10s, one continuous evolving take]
+Beat 1 (0.0–3.3s): Cận cảnh một bên gương mặt Trinh ở tiền cảnh trái, trong khi ở hậu cảnh phải là chiếc gương cầu tròn phản chiếu gương mặt Phương và ô cửa sổ bốt trực phía sau.
+Beat 2 (3.3–7.2s): Trong lòng chiếc gương cầu tròn, thoáng hiện bóng Ông Bảy Bảo Vệ đứng lặng lẽ bên trong ô cửa sổ bốt trực tối rồi tan biến vào ánh đèn đỏ.
+Beat 3 (7.2–10.0s): Phương và Trinh cùng quay phắt đầu nhìn thẳng về phía ô cửa kính lá sách của căn bốt trực cũ.
+Single continuous motion rule: Play Beat 1 -> Beat 2 -> Beat 3 once in order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement while speaking, gestures never repeat, and all tension is purely psychological and atmospheric (100% safe, zero gore or physical harm).
+
+[CAMERA — Shot Size, Lens, Movement & Continuity]
+- Lens & Shot Type: 85mm, 24 fps, 180-degree shutter, CLOSE_UP.
+- Camera Movement Plan (0–10s): 85mm rack-focus composition giống hệt khung hình nghệ thuật ở hàng 3 cột 2-3 Sheet 6 của Phim ngắn 613. Smooth acceleration and deceleration, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
+
+[PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 15]
+FIXED SCENE 15 OBJECTS: (1) Chiếc gương cầu lồi gắn trên trụ cổng sắt chung cư; (2) Hai khung ảnh thờ gỗ đen treo cạnh nhau dưới ánh đèn đỏ bên trong bốt trực cũ (ảnh Linh và ảnh Ông Bảy Bảo Vệ); (3) Chiếc đèn pin sắt và chùm chìa khóa đồng rỉ sét phủ bụi trên bàn thờ.
+Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
+
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
+Mouth map: 2.5–7.8s: Phương (@Phuong) speaks on screen with accurate syllable-level Southern Vietnamese lip-sync; all other visible mouths remain closed and natural.
+
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at 1.25x normal conversational speaking speed (125%), maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive emotional intonation, and accurate syllable-level lip synchronization. Preserve each character's original voice identity and pitch without artificial time-stretching or clipping words.
+
+[DIALOGUE — Timed to Action (20 Vietnamese words)]
+Phương (@Phuong), thoại trên hình [2.5–7.8s | giọng miền Nam tự nhiên chuẩn 1.25x, khớp khẩu hình]: Trong gương mới thoáng bóng ông Bảy đứng trong cái bốt khóa kín kia... tụi mình lại coi thử coi!
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed notes. No on-screen captions or subtitles.
+
+[SOUND]
+Continuous ambience & Foreground diegetic SFX: Một tiếng chuông gió trầm ngân nhẹ, tiếng nhịp thở nghẹn lại của hai cô gái.
+Audio discipline: Clean forward Southern Vietnamese dialogue layered with realistic cause-driven room/corridor sound effects matching visible actions from 0.0s to 10.0s. No non-diegetic stock music stings.
+
+[EDIT IN — do not render the previous shot again]
+Direct seamless continuation from previous clip inside the locked scene space.
+
+[START FRAME — state only, not an action to repeat]
+Tiền cảnh là nửa gương mặt Trinh, hậu cảnh là chiếc gương cầu tròn phản chiếu Phương và bốt trực.
+
+[END FRAME — lock position, props, eyeline & movement axis]
+Cả hai cô gái quay người bước sát lại ô cửa sổ bốt trực bảo vệ.

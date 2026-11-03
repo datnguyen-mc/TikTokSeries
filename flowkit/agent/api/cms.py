@@ -426,11 +426,56 @@ DEFAULT_CHANNELS = [
             },
         ],
     },
+    {
+        "slug": "bi-mat-phong-613",
+        "name": "Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm",
+        "project_id": "61300000-f613-4613-a613-507rdk3xpcm0",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/bi_mat_phong_613.py",
+        "series_dir": "bi-mat-phong-613",
+        "ep_prefix": "canh",
+        "description": "Phim ngắn tâm lý bí ẩn 15 phút lấy cảm hứng từ Phim ngắn 613: hai nữ sinh Phương và Trinh dọn vào phòng 613 chung cư cũ, đối mặt cô gái áo trắng Linh và vạch trần bí mật đêm cháy 03/11/2016 của Ông Bảy Bảo Vệ (16:9, 15 cảnh × 6 clip = 90 clips).",
+        "characters": [
+            {
+                "tag": "@Phuong",
+                "name": "Phương (Sinh viên Thiết kế, 22 tuổi)",
+                "default_media_id": "613a0001-f101-4613-a613-000000000001",
+                "locked_media_id": "613a0001-f101-4613-a613-000000000001",
+                "description": "Nữ sinh viên 22 tuổi dịu dàng, nhạy cảm tâm linh; cao 160 cm, gương mặt trái xoan thanh tú, đôi mắt to biểu cảm, cài băng đô vải màu kem trên mái tóc đen dài xõa tự nhiên, mặc áo cardigan len mỏng màu kem khoác ngoài áo thun trắng và quần jean ống rộng xanh nhạt.",
+                "ref_prompt": "Full-body photorealistic character reference of @Phuong, a 22-year-old Vietnamese female university student, 160 cm, slender petite build, gentle oval face, large expressive dark eyes, long straight black hair worn down with a neat cream fabric headband, wearing a soft cream knit cardigan over a plain white cotton T-shirt, light-blue wide-leg jeans, and white canvas sneakers; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Trinh",
+                "name": "Trinh (Bạn cùng phòng, 22 tuổi)",
+                "default_media_id": "613a0002-f102-4613-a613-000000000002",
+                "locked_media_id": "613a0002-f102-4613-a613-000000000002",
+                "description": "Bạn thân cùng phòng của Phương, 22 tuổi, sinh viên Báo chí cá tính, thực tế; cao 165 cm, dáng thon khỏe, gương mặt sắc sảo, tóc đen dài thẳng rẽ ngôi giữa, mặc áo thun form rộng màu cam đất (burnt orange) và quần jogger xám đậm.",
+                "ref_prompt": "Full-body photorealistic character reference of @Trinh, a 22-year-old Vietnamese female student, 165 cm, lean athletic build, sharp confident facial features, attentive dark eyes, long straight black hair parted in the middle, wearing an oversized burnt-orange cotton T-shirt, dark charcoal-grey jogger trousers, and dark slides; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@BacBaoVe",
+                "name": "Ông Bảy Bảo Vệ (Bảo vệ trực đêm Lô C, 58 tuổi)",
+                "default_media_id": "613a0003-f103-4613-a613-000000000003",
+                "locked_media_id": "613a0003-f103-4613-a613-000000000003",
+                "description": "Bảo vệ trực đêm chung cư cũ Lô C, 58 tuổi; cao 168 cm, dáng hơi gù, tóc cắt ngắn điểm bạc, gương mặt gầy góc cạnh lạnh lùng, vết sẹo bỏng mờ bên cổ trái, mặc đồng phục bảo vệ xanh đen sẫm, cầm chùm chìa khóa đồng cũ và đèn pin vỏ sắt.",
+                "ref_prompt": "Full-body photorealistic character reference of @BacBaoVe, a 58-year-old Vietnamese night-shift security guard, 168 cm, thin slightly stooped build, short grey-streaked black hair, gaunt angular weathered face, cold watchful eyes, a faint old burn scar on the left side of his neck, wearing a dark navy-black short-sleeve security guard uniform shirt with shoulder epaulettes, dark trousers, worn black shoes, holding an old brass key ring in one hand and a heavy metal flashlight in the other; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@BongAoTrang",
+                "name": "Linh — Cô Gái Áo Trắng Phòng 613 (21 tuổi)",
+                "default_media_id": "613a0004-f104-4613-a613-000000000004",
+                "locked_media_id": "613a0004-f104-4613-a613-000000000004",
+                "description": "Nữ sinh viên nhạc viện từng thuê phòng 613 năm 2016; cao 162 cm, dáng mảnh mai, làn da trắng xanh tĩnh lặng, tóc đen dài xõa ngang lưng, mặc đầm vải voan trắng dài tay cổ vuông cổ điển, cổ tay phải đeo vòng chỉ đỏ gắn chuông bạc nhỏ, ánh mắt u buồn khẩn thiết.",
+                "ref_prompt": "Full-body photorealistic character reference of @BongAoTrang, a 21-year-old Vietnamese woman, 162 cm, slender delicate build, pale porcelain skin with natural realistic texture, sorrowful expressive dark eyes, long straight black hair resting over her shoulders, wearing a clean vintage ankle-length off-white long-sleeve square-neck cotton dress, barefoot, with a thin red thread bracelet and tiny silver bell on her right wrist; plain grey studio background, cool moonlight side light, 8K. Clean cinematic appearance, no gore, no blood. Not resembling any real actor.",
+            },
+        ],
+    },
 ]
 
 CHANNEL_MAX_EPISODES: dict[str, int] = {
     "duong-dua-sinh-tu": 40,
     "ke-song-sot": 60,
+    "bi-mat-phong-613": 15,
 }
 
 

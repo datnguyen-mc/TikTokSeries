@@ -519,6 +519,7 @@ async def ensure_cms_seeded():
     for ch_slug, max_ep in CHANNEL_MAX_EPISODES.items():
         await db.execute("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
         await db.execute("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
+        await db.execute("DELETE FROM cms_log WHERE channel_slug = ? AND episode > ?", (ch_slug, max_ep))
     await db.execute("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= 240")
 
     for ch in DEFAULT_CHANNELS:
@@ -2434,6 +2435,7 @@ async def _populate_all_channels_into_db(db) -> dict:
     for ch_slug, max_ep in CHANNEL_MAX_EPISODES.items():
         await raw_db.execute("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
         await raw_db.execute("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
+        await raw_db.execute("DELETE FROM cms_log WHERE channel_slug = ? AND episode > ?", (ch_slug, max_ep))
     await raw_db.execute("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= 240")
     cur = await raw_db.execute("SELECT * FROM cms_channel ORDER BY rowid ASC")
     channels = [dict(r) for r in await cur.fetchall()]
@@ -3045,6 +3047,8 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                     )
                     reconciled_clips_count += 1
             elif cat == "full_episodes":
+                if ch_slug == "duong-dua-sinh-tu" and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
+                    continue
                 m_ep = re.search(r"(?:tap|canh)[-_]?(\d+)_FULL\.mp4$", fname, re.IGNORECASE)
                 if m_ep:
                     ep_n = int(m_ep.group(1))

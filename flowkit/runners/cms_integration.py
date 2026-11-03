@@ -1151,41 +1151,13 @@ def merge_multi_scenes_to_episode(
             shutil.copy2(out_02d, full_d)
             dur = probe_video_duration(out_02d)
             sz = round(os.path.getsize(out_02d) / (1024 * 1024), 2)
-            r2_sync = sync_merged_episode_to_r2_and_d1(
-                channel_slug=channel_slug,
-                ep_num=100 + tap_num,
-                merged_video_path=out_02d,
-                ep_folder_name=f"tap-{tap_num:02d}-full",
-                project_id=project_id,
-                clip_count=len(scene_videos) * 6,
-                duration_s=dur,
-                size_mb=sz,
-                unit_label="Tập Full 10P",
-            )
             msg = f"🎉 Đã ghép Tập {tap_num:02d} FULL 10 phút (Cảnh {start_scene:02d} -> {end_scene:02d}, {dur:.1f}s, {sz:.2f} MB)"
             print(msg, flush=True)
-            push_cms_log(
-                channel_slug,
-                msg,
-                level="SUCCESS",
-                category="MERGE",
-                project_id=project_id,
-                episode=tap_num,
-                details={
-                    "output_path": out_02d,
-                    "duration_s": dur,
-                    "size_mb": sz,
-                    "r2_key": r2_sync.get("r2_key"),
-                    "r2_url": r2_sync.get("r2_url"),
-                },
-            )
             return {
                 "ok": True,
                 "output_path": out_02d,
                 "duration_s": dur,
                 "size_mb": sz,
-                "r2_key": r2_sync.get("r2_key"),
-                "r2_url": r2_sync.get("r2_url"),
             }
         return {"ok": False, "error": "CONCAT_FAILED"}
     finally:

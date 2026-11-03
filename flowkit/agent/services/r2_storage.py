@@ -613,3 +613,35 @@ def list_r2_bucket_objects(prefix: str = "", cfg: Optional[dict] = None) -> list
     return items
 
 
+def delete_r2_object(object_key: str, cfg: Optional[dict] = None) -> dict:
+    """Delete an object from the configured R2 bucket via S3 SigV4 DELETE."""
+    c = cfg or load_r2_config()
+    if not (c.get("r2_access_key_id") and c.get("r2_secret_access_key") and c.get("r2_endpoint_url")):
+        return {"ok": False, "error": "R2 S3 credentials not configured"}
+
+    bucket = c["r2_bucket_name"]
+    clean_key = object_key.lstrip("/")
+    empty_hash = hashlib.sha256(b"").hexdigest()
+    target_url, headers = _build_s3_sigv4_headers(
+        method="DELETE",
+        endpoint_url=c["r2_endpoint_url"],
+        bucket=bucket,
+        object_key=clean_key,
+        access_key=c["r2_access_key_id"],
+        secret_key=c["r2_secret_access_key"],
+        payload_hash=empty_hash,
+    )
+    try:
+        if requests is not None:
+            resp = requests.delete(target_url, headers=headers, timeout=20)
+            code = resp.status_code
+        else:
+            req = urllib.request.Request(target_url, headers=headers, method="DELETE")
+            with urllib.request.urlopen(req, timeout=20) as r:
+                code = r.status
+        return {"ok": code in (200, 204), "status_code": code, "r2_key": clean_key}
+    except Exception as e:
+        return {"ok": False, "error": str(e), "r2_key": clean_key}
+
+
+

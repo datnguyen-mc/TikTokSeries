@@ -2,8 +2,8 @@
 """
 HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT NÂNG CAO CHO "TÂY DU KÝ 2026" (KHUNG HÌNH DỌC 9:16):
 1. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK): Tự động lấy & khóa chính xác media_id của @Thay (@DuongTang), @DaiCa (@NgoKhong), @HeoLuoi (@BatGioi), @UtKho (@SaTang) từ Google Flow Project.
-2. Luôn truyền reference_media_ids qua endpoint /api/flow/generate-video-omni (MZZa6b Ingredients R2V) cho Clip 1 và mọi clip mở cảnh mới ([FORMAT]).
-3. Tự động trích xuất khung hình cuối (last frame) làm khung hình đầu (start frame) của clip nối tiếp (Seamless Chaining).
+2. Luôn truyền reference_media_ids qua endpoint /api/flow/generate-video-omni (MZZa6b Ingredients R2V) cho Clip 1 (hoặc khi thiếu frame cuối của clip trước).
+3. Tự động trích xuất khung hình cuối (last frame) làm khung hình đầu (start frame) cho mọi clip từ Clip 2 trở đi (Seamless Chaining).
 4. Tự động đặt tên clip trên Google Flow theo cảnh ([TẬP XX - CLIP YY]) và tải ngay về máy khi hoàn thành.
 5. Tự động đồng bộ thời gian thực với Console Dashboard UI (VERTICAL 9:16).
 """
@@ -299,14 +299,8 @@ def load_and_lock_project_characters():
 
 
 def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = None) -> bool:
-    if clip_num == 1 or not start_image_media_id:
-        return True
-    stripped = prompt.lstrip()
-    if stripped.startswith("Continue the scene seamlessly"):
-        return False
-    if stripped.startswith("[FORMAT]") or stripped.startswith("[ĐỊNH DẠNG]"):
-        return True
-    return False
+    # Phim ngắn 9:16 nối frame cuối từ Clip 2 trở đi, kể cả clip mở bằng [FORMAT]
+    return clip_num == 1 or not start_image_media_id
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
@@ -627,6 +621,23 @@ def upload_start_frame(image_path: str) -> str:
         return None
 
 
+def load_previous_last_frame(ep_num: int, clip_num: int, ep_folder_name: str) -> str:
+    """Lấy frame cuối của clip đã có trên đĩa (khi chạy lẻ 1 clip hoặc clip trước vừa lỗi) rồi nạp làm start frame."""
+    frame_path = None
+    for cn, mp4_path in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, ep_num, ep_folder_name):
+        if cn == clip_num:
+            frame_path = extract_last_frame(mp4_path, ep_num, clip_num)
+            break
+    if not frame_path:
+        cached = os.path.join(FRAMES_DIR, f"tap_{ep_num:02d}_clip_{clip_num:02d}_last.jpg")
+        if os.path.exists(cached):
+            frame_path = cached
+    if not frame_path:
+        log(f"⚠️ Chưa có video/frame cuối của Tập {ep_num:02d} - Clip {clip_num:02d} — Clip {clip_num + 1:02d} tạm dùng ảnh nhân vật gốc (Ingredients R2V).")
+        return None
+    return upload_start_frame(frame_path)
+
+
 # -------------------------------------------------------------
 # 4. GỬI API REQUEST & LOG CHI TIẾT PARAMS (9:16 PORTRAIT + KHÓA NHÂN VẬT)
 # -------------------------------------------------------------
@@ -855,8 +866,10 @@ def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_pro
         if attempt < max_retries:
             log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - LẦN THỬ {attempt + 1}/{max_retries}] Đang làm mềm prompt trên bộ nhớ cho Tập {ep_num:02d} - Clip {clip_num:02d}...")
             current_prompt = sanitize_prompt(initial_prompt, attempt)
-            start_image_media_id = None
-            log("🔄 Khóa trực tiếp nhân vật gốc (Ingredients R2V) và chạy lại sau 5 giây...")
+            if start_image_media_id:
+                log("🔄 Giữ frame cuối của clip trước làm start frame và chạy lại sau 5 giây...")
+            else:
+                log("🔄 Khóa trực tiếp nhân vật gốc (Ingredients R2V) và chạy lại sau 5 giây...")
             time.sleep(5)
 
     log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN LỖI] Tập {ep_num:02d} - Clip {clip_num:02d} đã fail {max_retries} lần — tạm bỏ qua để kiểm tra và tạo lại sau!")
@@ -916,12 +929,16 @@ def run_pipeline(start_ep=12, end_ep=12):
             progress_pct = (completed_clips / total_clips) * 100
             print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — TẬP {ep:02d} - CLIP {c_idx:02d}", flush=True)
 
+            # Phim ngắn 9:16: từ Clip 2 trở đi luôn mở từ frame cuối của clip trước
+            if c_idx > 1 and not previous_clip_last_frame_media_id:
+                previous_clip_last_frame_media_id = load_previous_last_frame(ep, c_idx - 1, ep_folder_name)
+
             res = run_clip_with_auto_retry(
                 ep_num=ep,
                 clip_num=c_idx,
                 fpath=fpath,
                 initial_prompt=prompt_content,
-                start_image_media_id=None
+                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None
             )
 
             if res["success"] and res.get("video_url"):
@@ -930,6 +947,9 @@ def run_pipeline(start_ep=12, end_ep=12):
                 if local_video:
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(ep, c_idx, local_video if local_video else video_url)
+                frame_path = extract_last_frame(local_video if local_video else video_url, ep, c_idx)
+                has_next_clip = c_idx != clips[-1][0]
+                previous_clip_last_frame_media_id = upload_start_frame(frame_path) if frame_path and has_next_clip else None
             else:
                 log(f"⚠️ [Tập {ep:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
                 previous_clip_last_frame_media_id = None

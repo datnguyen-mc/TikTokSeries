@@ -21,3 +21,4 @@ Lịch trình Điện Biên: Sông Đà Mường Lay 8:30 · Cánh đồng Mư�
 ## Trước khi đăng
 - **Tên gọi:** thoại và caption dùng tên địa danh chuẩn Mường Lay, Cầu Hang Tôm, Sông Đà, Cánh Đồng Mường Thanh, Sông Nậm Rốm, Bản Mển, Hồ Pá Khoang, Mường Phăng, Đèo Pha Đin, Điện Biên, Sơn La.
 - **Đúng 5 hashtag:** `#365ngayvietnam #DienBien #DeoPhaDin #VyvaJoi #xuyenviet`.
+

@@ -27,3 +27,4 @@
 - **Ẩm thực Thái Bản Mển (Clip 3):** Gà bản nướng mắc khén (*pỉng tẳng*), cá chép suối mổ lưng ướp mắc khén rau thơm gập đôi kẹp tre nướng than củi (*Pa Pỉnh Tộp*), ăn cùng xôi nếp nương Điện Biên đồ chõ gỗ đựng trong giỏ mây đan (*ép khẩu*) chấm *chẩm chéo*. Tuyệt đối không dùng rượu bia trên bàn ăn vì buổi chiều còn lái xe đi Hồ Pá Khoang và Đèo Pha Đin.
 - **Hồ Pá Khoang (Clip 4):** thuộc xã Pá Khoang, TP. Điện Biên Phủ, diện tích mặt nước khoảng 600 ha với hàng chục đảo nhỏ giữa quần thể rừng đặc dụng Mường Phăng.
 - **Đèo Pha Đin (Clip 5):** dài 32 km trên Quốc lộ 6 nối huyện Tuần Giáo (Điện Biên) và huyện Thuận Châu (Sơn La), đỉnh đèo cao 1.648m; tên gọi theo tiếng Thái *Phạ Đin* nghĩa là nơi tiếp giáp giữa trời và đất.
+

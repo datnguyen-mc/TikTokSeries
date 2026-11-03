@@ -55,7 +55,9 @@ Gemini Omni tạo **tối đa 10 giây mỗi lần** (Veo 3.1 chỉ được 8 g
 | Clip | Thời gian | Chế độ trong Flow (9:16 TikTok) | Chế độ trong Flow (16:9 YouTube: Kẻ Sống Sót, Đường Đua Sinh Tử, Biệt Đội Gara) |
 | ---- | --------- | ----------------- | ------------------------------------------------------------------------------- |
 | **Clip 1** | 00:00–00:10 | **Video → Gemini Omni → Ingredients** (Đính ảnh nhân vật và sản phẩm) | **Video → Gemini Omni → Ingredients** (hoặc Text-to-Video nếu cảnh không có nhân vật chính) |
-| **Clip 2 trở đi** | mỗi clip thêm 10 giây | **Video → Gemini Omni → Frames** (Start frame = khung cuối clip trước) hoặc **Ingredients** nếu cắt cảnh | **Video → Gemini Omni → Ingredients** (Luôn mở bằng `[FORMAT]`, đính kèm nhân vật có mặt, **tuyệt đối KHÔNG chèn frame cuối** của clip trước vì phim 16:9 YouTube chuyển góc máy liên tục) |
+| **Clip 2 trở đi** | mỗi clip thêm 10 giây | **Video → Gemini Omni → Frames**, **luôn** lấy khung cuối clip trước làm start frame, kể cả clip mở bằng `[FORMAT]` hoặc cắt cảnh | **Video → Gemini Omni → Ingredients** (Luôn mở bằng `[FORMAT]`, đính kèm nhân vật có mặt, **tuyệt đối KHÔNG chèn frame cuối** của clip trước vì phim 16:9 YouTube chuyển góc máy liên tục) |
+
+> **Quy tắc bắt buộc cho phim ngắn 9:16 TikTok (`mit-va-du-1970`, `pheo-va-no-meo`, `me-va-be`, `tay-du-ky-2026`, `365ngayvietnam`):** từ Clip 2 trở đi, clip nào cũng mở từ khung cuối của clip trước (`start_image_media_id` / Frames). Runner tự cắt khung cuối bằng ffmpeg, nạp vào slot [Bắt đầu] của clip kế tiếp và giữ khung đó cả khi chạy lại; chạy lẻ một clip thì runner lấy khung cuối từ video clip trước đã có trên máy. Chỉ khi clip trước chưa có video nào, clip đó mới tạm dùng Ingredients.
 
 > **Quy tắc bắt buộc cho Phim 16:9 YouTube (`ke-song-sot`, `duong-dua-sinh-tu`, `biet-doi-gara`):**
 > - Phim điện ảnh 16:9 trên YouTube chuyển cảnh và đổi góc máy liên tục giữa các cú máy (Wide, Medium, Close-up, Tracking, Insert/B-Roll). Vì vậy **tuyệt đối KHÔNG trích xuất và nạp frame cuối (`start_image_media_id` / Frames) vào clip kế tiếp**.
@@ -70,7 +72,7 @@ Nếu giao diện Flow đặt tên chế độ khác, chọn chế độ tạo v
 **Nhảy thời gian trong tập** (ướp, kho, chiều hôm đó, sáng hôm sau), chọn một trong ba cách:
 1. **Trong cùng clip:** tiếng hẹn giờ ting, mở nắp thấy món đã xong; dùng khi chỉ chờ tối đa khoảng 30 phút.
 2. **Đồ làm sẵn:** nhân vật lấy tô đã ướp sẵn trong tủ lạnh và nói ra, ví dụ: Tô này Phèo ướp từ sáng!
-3. **Cắt cảnh:** mở clip mới bằng **Ingredients** với [FORMAT] và FULL LOCK, không dùng câu Continue…; dòng đầu [SHOT LIST] ghi rõ, ví dụ `Hard cut: thirty minutes later, same kitchen, same outfits, same lighting.` README ghi rõ clip nào là cắt cảnh.
+3. **Cắt cảnh:** mở clip mới bằng [FORMAT] và FULL LOCK, không dùng câu Continue…, nhưng vẫn chạy **Frames** với khung cuối clip trước làm start frame; dòng đầu [SHOT LIST] ghi rõ, ví dụ `Hard cut: thirty minutes later, same kitchen, same outfits, same lighting.` README ghi rõ clip nào là cắt cảnh.
 
 **Chuẩn bị một lần cho mỗi series:**
 - Tạo nhân vật trên Flow từ ảnh tham chiếu và đặt **đúng tên** như bảng dưới. Dòng khai báo nhân vật trong prompt đã ghi sẵn dạng `@Pheo = PHÈO: …`: Flow gọi đúng nhân vật đã lưu, còn model hiểu PHÈO trong cả prompt chính là `@Pheo`.
@@ -123,8 +125,8 @@ Mit & Đú và Tèo & Sún dùng luôn tên Flow trong cả prompt. Phèo, Tây 
 - **Tỉ lệ:** 9:16 (dọc TikTok)
 - **Thời lượng:** 10s
 - **Model:** bấm tên model → **Video** → **Gemini Omni** (mặc định Flow để model ảnh Nano Banana Pro). Nếu tài khoản cho chọn độ phân giải, chạy thử ở mức thấp cho rẻ, chốt ở 720p trở lên.
-- **Chế độ:** Clip 1 dùng **Ingredients**; Clip 2 trở đi dùng **Frames** (hoặc Extend); clip đổi bối cảnh hoặc cắt cảnh dùng lại **Ingredients**.
-- **Neo lại nhân vật ở tập dài:** nếu Frames cho đính ảnh, đính lại ảnh tham chiếu ở mọi clip. Nếu không, cứ sau 3–4 clip mở một clip bằng **Ingredients** (cắt theo hành động, dán [FORMAT] và FULL LOCK) để nhân vật không lệch dần qua nhiều lần Save frame.
+- **Chế độ:** Clip 1 dùng **Ingredients**; Clip 2 trở đi luôn dùng **Frames** (hoặc Extend) với khung cuối clip trước, kể cả clip đổi bối cảnh hoặc cắt cảnh.
+- **Neo lại nhân vật ở tập dài:** nếu Frames cho đính ảnh, đính lại ảnh tham chiếu ở mọi clip. Nếu không, giữ FULL LOCK trong khối [CHARACTERS] của prompt để nhân vật không lệch dần qua nhiều lần Save frame; không bỏ khung cuối để mở lại bằng Ingredients.
 - **Đặt tên theo mẫu:** `MIT_T01_C1_v1` (series_tập_clip_phiên bản)
 
 ---

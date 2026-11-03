@@ -27,3 +27,4 @@ Khoảnh khắc cái mặt nghiêm nghị của anh Gạo bỗng giãn ra rồi 
 - **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
 - **Giỏ hàng:** gắn bộ thẻ kích thích thị giác đen-trắng-đỏ tương phản cao cho bé sơ sinh; video không nói tên hãng.
 - **An toàn trên hình:** chỉ cho bé nhìn thẻ tương phản khi bé thức tỉnh táo và có mẹ cầm ở khoảng cách 25 cm; trong hai nôi riêng hoàn toàn không để thẻ, dây treo, gối, chăn rời hay thú bông.
+

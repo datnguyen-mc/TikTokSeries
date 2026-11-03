@@ -27,3 +27,4 @@ Sáng sớm nghe tiếng anh Gạo "hắt xì" nhỏ xíu mà cưng xỉu! Chỗ
 - **Nhãn AI:** bật nhãn **Nội dung do AI tạo** (TikTok yêu cầu với video AI có người giống thật).
 - **Giỏ hàng:** gắn túi ngủ mặc cotton sát nách cho bé sơ sinh / nhũ nhi; video không nói tên hãng.
 - **An toàn trên hình:** túi ngủ sát nách vừa vặn cổ và nách, có miếng bọc khóa kéo ở cằm, không có mũ trùm đầu; trong hai nôi riêng hoàn toàn không có chăn rời, gối hay thú bông.
+

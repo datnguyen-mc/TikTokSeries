@@ -736,9 +736,13 @@ export default function ProjectsPage() {
                         {/* Tiến Độ Tập / Clips R2 */}
                         <td className="py-3.5 px-3.5">
                           <div className="flex flex-col gap-1 text-[11px]">
-                            <div className="flex items-center gap-2">
+                            <div className="flex items-center gap-2 flex-wrap">
                               <span className="font-semibold" style={{ color: 'var(--text)' }}>
                                 {p.merged_episodes}/{p.total_episodes} tập
+                              </span>
+                              <span style={{ color: 'var(--muted)' }}>·</span>
+                              <span className="text-cyan-400 font-semibold">
+                                {p.total_episodes > 0 ? Math.round(p.total_clips / p.total_episodes) : 0} cảnh/tập
                               </span>
                               <span style={{ color: 'var(--muted)' }}>·</span>
                               <span style={{ color: 'var(--muted)' }}>

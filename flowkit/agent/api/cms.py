@@ -1105,6 +1105,7 @@ async def list_cms_channels():
                 "stats": {
                     "total_episodes": total_eps,
                     "completed_episodes": merged_eps,
+                    "clips_per_episode": round(total_clips / total_eps) if total_eps > 0 else 0,
                     "total_clips": total_clips,
                     "rendered_clips": rendered_clips,
                     "r2_synced_clips": r2_clips,

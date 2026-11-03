@@ -1,13 +1,13 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: DIALOGUE | Adaptive voice speed: 1.5x (150%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Recent past, cropped greying hair, tailored matte-black suit, open-collar white shirt, black leather gloves, polished black shoes, concealed underarm leather holster. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.25x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn carries his single dark-olive canvas backpack over his left shoulder to pack the ledger, USB, receipt and sealed tin.
 
 
 [TIMELINE AND LOCATION]
-Scene 10/60, clip 5/6; shot 10.5. Story time: PAST one month earlier dawn.
+Scene 10/60, clip 5/6; shot 10.5. Story time: PAST one month earlier dawn. Scene classification: DIALOGUE.
 Rear stockroom of the silk shop, known shelf beside loading door, ledger and sealed tin stored together.
 Lighting & Color: Recent-past dawn after rain, pale shop window light, dim stockroom practical. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 10 (Clip 1–6)]
@@ -18,22 +18,8 @@ Strict spatial rule: Lock this exact spatial geometry, compass axis and architec
 Make taking evidence a conscious alternative to obeying Bà Hai's invitation, using a place Sơn knows.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 10.4, ending with Phone lowered, Sơn's bare right hand steady again.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
-
-[START FRAME — state only, not an action to repeat]
-Rear stockroom door of the silk shop closed before opening hours, the single dark-olive canvas backpack slung over Sơn's left shoulder.
-
-[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
-- Lens & Shot Type: Steadicam Lateral Tracking Shot (T) — 35mm prime lens, 24 fps (f/4.0), gliding smoothly at pedestrian eye level parallel to the subject along the established movement axis. No whip pan, drone lift or reverse-axis jump. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
-- Framing & Angle Composition: Track along the rear stockroom entry toward the familiar shelf, keeping the route in one direction.
-- Camera Movement Plan (0–10s): 0.0–3.0s: smooth Steadicam lateral glide matching the subject stride; 3.0–6.5s: maintain parallel pace and constant distance along the 180-degree line; 6.5–10.0s: decelerate smoothly into the stopping mark. No snap zoom, no heavy shake, no axis jump.
-- Optical Focus & Depth of Field: Keep Sơn and the target shelf readable as he enters, rather than cutting to an unexplained object location.
-- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
-
 [ACTION — 0–10s, one clear primary action in a continuous take]
-0.0–2.5s: From the starting position (Rear stockroom door of the silk shop closed before opening hours), initiate the movement cleanly without hesitation, the single dark-olive canvas backpack slung over Sơn's left shoulder. 2.5–6.5s: Sơn uses his old key and reaches the shelf he once guarded (performed once in real time without repeating the opening step). 6.5–10.0s: His manner is purposeful but not excited; familiarity should reduce searching, making the choice feel morally deliberate, settling into the end state (Sơn beside the stock shelf, black ledger and tin visible) as old latch wear and dust patterns indicate routine access, without adding a new hidden compartment or password cue.
+0.0–2.5s: His existing key opens the same rear access and remains with him as he reaches the shelf (the single dark-olive canvas backpack slung over Sơn's left shoulder). 2.5–6.5s: Sơn uses his old key and reaches the shelf he once guarded, timed naturally with the spoken delivery and active eyeline. 6.5–10.0s: Follow through with natural body weight and breathing (move directly to the known shelf; do not spend the full clip on a suspenseful unlock that solves no new problem), holding into sơn beside the stock shelf, black ledger and tin visible, the single dark-olive canvas backpack slung over Sơn's left shoulder through 10.0s without freezing.
 Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
 Action rhythm: Move directly to the known shelf; do not spend the full clip on a suspenseful unlock that solves no new problem.
 
@@ -42,11 +28,12 @@ Blocking: His existing key opens the same rear access and remains with him as he
 Performance: His manner is purposeful but not excited; familiarity should reduce searching, making the choice feel morally deliberate (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at a natural 1.0x cadence; all visible mouths remain completely closed at rest while physical action unfolds.
-Sơn, lời dẫn ngoài hình [0.3–7.4s | giọng độc thoại lạnh lùng, dứt khoát]: Biết Bà Hai nói dối để dụ mình vào tròng, tôi dùng chìa khóa cũ đột nhập thẳng vào kho sau tiệm lụa trước khi trời sáng.
-Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Steadicam Lateral Tracking Shot (T) — 35mm prime lens, 24 fps (f/4.0), gliding smoothly at pedestrian eye level parallel to the subject along the established movement axis. No whip pan, drone lift or reverse-axis jump. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Track along the rear stockroom entry toward the familiar shelf, keeping the route in one direction.
+- Camera Movement Plan (0–10s): 0.0–3.0s: smooth Steadicam lateral glide matching the subject stride; 3.0–6.5s: maintain parallel pace and constant distance along the 180-degree line; 6.5–10.0s: decelerate smoothly into the stopping mark. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep Sơn and the target shelf readable as he enters, rather than cutting to an unexplained object location.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
 [PROPS]
 [FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 10 (Clip 1–6)]
@@ -64,10 +51,50 @@ Reference only; enact only the current ACTION, not a future handover.
 Old latch wear and dust patterns indicate routine access, without adding a new hidden compartment or password cue.
 
 
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
+
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (DIALOGUE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.5x (150%) [fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
+Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at adaptive 1.5x (150%) speaking speed (baseline 1.25x conversational speaking speed / 125%); all visible mouths remain completely closed at rest while physical action unfolds.
+Sơn, lời dẫn ngoài hình [0.3–7.4s | giọng độc thoại lạnh lùng, dứt khoát]: Biết Bà Hai nói dối để dụ mình vào tròng, tôi dùng chìa khóa cũ đột nhập thẳng vào kho sau tiệm lụa trước khi trời sáng.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
+
 [SOUND]
 Continuous ambience bed: wooden latch and distant morning traffic.
 Foreground motivated sound: One restrained latch sound gives way to morning city noise outside and his quiet steps inside.
+Scene sound profile (DIALOGUE): Prioritize clean, forward-mixed Southern Vietnamese dialogue over a balanced, realistic coastal/interior ambience bed that never masks vocal clarity.
 Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 10.4, ending with Phone lowered, Sơn's bare right hand steady again.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Rear stockroom door of the silk shop closed before opening hours, the single dark-olive canvas backpack slung over Sơn's left shoulder.
 
 [END FRAME — lock position, props, eyeline & movement axis]
 Sơn beside the stock shelf, black ledger and tin visible, the single dark-olive canvas backpack slung over Sơn's left shoulder.
@@ -75,4 +102,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 10.6: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

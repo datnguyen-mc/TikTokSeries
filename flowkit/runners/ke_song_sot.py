@@ -1124,15 +1124,7 @@ def run_pipeline(start_scene=1, end_scene=60):
         CURRENT_CLIP_NUM = None
         if rendered_in_this_run:
             any_rendered_in_batch.add(s)
-        merged_scene_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s:02d}", f"{CHANNEL_SLUG}_canh-{s:02d}_FULL.mp4")
-        if rendered_in_this_run or not os.path.exists(merged_scene_mp4):
-            merge_episode_clips(SERIES_DIR, CHANNEL_SLUG, s, f"canh-{s:02d}", project_id=PROJECT_ID, unit_label="Cảnh")
-        if s % 10 == 0:
-            tap_num = s // 10
-            ep_full_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, "_FULL_EPISODES", f"{CHANNEL_SLUG}_tap-{tap_num:02d}_FULL.mp4")
-            batch_updated = any(sc in any_rendered_in_batch for sc in range(s - 9, s + 1))
-            if batch_updated or not os.path.exists(ep_full_mp4):
-                merge_multi_scenes_to_episode(SERIES_DIR, CHANNEL_SLUG, tap_num, s - 9, s, project_id=PROJECT_ID)
+        log(f"✅ Đã hoàn tất render các clip của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
 
     print("\n" + "=" * 72)
     print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d}!")

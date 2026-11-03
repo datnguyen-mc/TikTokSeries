@@ -1,13 +1,13 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: DIALOGUE | Adaptive voice speed: 1.25x (125%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.25x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn's single unzipped dark-olive canvas backpack sits at the edge of the wooden cabin table beside the evidence items.
 
 
 [TIMELINE AND LOCATION]
-Scene 05/60, clip 1/6; shot 05.1. Story time: D1 noon.
+Scene 05/60, clip 1/6; shot 05.1. Story time: D1 noon. Scene classification: DIALOGUE.
 Isolated one-room Vietnamese coastal wooden cabin on the casuarina dune: weathered timber plank walls, south porch facing the sea, wooden table below the east shuttered window, simple cot on the west wall, bare wooden entry doorframe.
 Lighting & Color: Present-day noon daylight through cabin gaps, cooler shadows, no fluorescent source. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 05 (Clip 1–6)]
@@ -21,22 +21,8 @@ Scene goal: Giới thiệu bằng chứng bị lấy và lịch giao hàng trong
 Replace the quiet romantic memory with objects that reveal why Sơn cannot simply rest.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 04.6, ending with Sơn staying in the doorway, Hạ smiling behind the counter.
-L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
-
-[START FRAME — state only, not an action to repeat]
-Single dark-olive canvas backpack open on the cabin table.
-
-[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
-- Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
-- Framing & Angle Composition: Use the medium frame to read the open bag and three separate items without a montage.
-- Camera Movement Plan (0–10s): 0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.
-- Optical Focus & Depth of Field: Keep the tabletop and his lowered face at practical depth so the inventory remains one action.
-- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
-
 [ACTION — 0–10s, one clear primary action in a continuous take]
-0.0–2.5s: From the starting position (Single dark-olive canvas backpack open on the cabin table), initiate the movement cleanly without hesitation. 2.5–6.5s: Sơn lays out the black ledger, a sealed tin and a concealed handgun case (performed once in real time without repeating the opening step). 6.5–10.0s: His orderly hands contrast with fatigue in his shoulders; the narration should sound factual, not boastful, settling into the end state (Three separate objects on the table, bag empty beside them) as canvas creases, black leather and dented tin each have a different surface response to daylight.
+0.0–2.5s: He lays out ledger, sealed tin and closed case in distinct spaces, never stacking their identities. 2.5–6.5s: Sơn lays out the black ledger, a sealed tin and a concealed handgun case, timed naturally with the spoken delivery and active eyeline. 6.5–10.0s: Follow through with natural body weight and breathing (do not give each item an artificial reveal pause; the meaningful pause comes after the bag empties), holding into three separate objects on the table, bag empty beside them, Sơn's dark-olive canvas backpack resting open beside him through 10.0s without freezing.
 Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
 Action rhythm: Do not give each item an artificial reveal pause; the meaningful pause comes after the bag empties.
 
@@ -45,11 +31,12 @@ Blocking: He lays out ledger, sealed tin and closed case in distinct spaces, nev
 Performance: His orderly hands contrast with fatigue in his shoulders; the narration should sound factual, not boastful (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.1s, one natural, well-articulated spoken line (26 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at a natural 1.0x cadence; all visible mouths remain completely closed at rest while physical action unfolds.
-Sơn, lời dẫn ngoài hình [0.3–7.1s | giọng độc thoại trầm nghị, tập trung phân tích chứng cứ]: Trưa ngày thứ nhất tại chòi gỗ, tôi mở ba lô bày cuốn sổ đen, chiếc USB và hộp thiếc mà Rắn Đen đang truy lùng.
-Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Use the medium frame to read the open bag and three separate items without a montage.
+- Camera Movement Plan (0–10s): 0.0–3.0s: subtle lateral re-balance as the interaction begins; 3.0–6.5s: steady eye-level hold on the shared conversational axis; 6.5–10.0s: gentle 5% dolly push-in on the emotional turn. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Keep the tabletop and his lowered face at practical depth so the inventory remains one action.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
 [PROPS]
 [FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 05 (Clip 1–6)]
@@ -68,10 +55,50 @@ Reference only; enact only the current ACTION, not a future handover.
 Canvas creases, black leather and dented tin each have a different surface response to daylight.
 
 
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
+
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (DIALOGUE): 1.25x (125%) — brisk natural conversational pacing (1.25x / 125%) — energetic, articulate Southern Vietnamese delivery.
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.1s, one natural, well-articulated spoken line (26 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.25x (125%) [brisk natural conversational pacing (1.25x / 125%) — energetic, articulate Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
+Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at adaptive 1.25x (125%) speaking speed (baseline 1.25x conversational speaking speed / 125%); all visible mouths remain completely closed at rest while physical action unfolds.
+Sơn, lời dẫn ngoài hình [0.3–7.1s | giọng độc thoại trầm nghị, tập trung phân tích chứng cứ]: Trưa ngày thứ nhất tại chòi gỗ, tôi mở ba lô bày cuốn sổ đen, chiếc USB và hộp thiếc mà Rắn Đen đang truy lùng.
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
+
 [SOUND]
 Continuous ambience bed: wind through wood joints and remote surf.
 Foreground motivated sound: Let three modest set-down sounds define the objects, with wind continuing through the cabin gaps.
+Scene sound profile (DIALOGUE): Prioritize clean, forward-mixed Southern Vietnamese dialogue over a balanced, realistic coastal/interior ambience bed that never masks vocal clarity.
 Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 04.6, ending with Sơn staying in the doorway, Hạ smiling behind the counter.
+L-cut in the edit: retain the preceding diegetic sound about 0.25s after the picture cut while the new shot action begins at 0.0s. This generated clip contains only the new shot.
+
+[START FRAME — state only, not an action to repeat]
+Single dark-olive canvas backpack open on the cabin table.
 
 [END FRAME — lock position, props, eyeline & movement axis]
 Three separate objects on the table, bag empty beside them, Sơn's dark-olive canvas backpack resting open beside him.
@@ -79,4 +106,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 05.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

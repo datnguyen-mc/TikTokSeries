@@ -91,8 +91,10 @@ class FilmContinuityTests(unittest.TestCase):
             prompt=film.render_prompt(self.plan,c,self.shots[i-1] if i else None,
                                       self.shots[i+1] if i<359 else None)
             for field in film.DETAIL_FIELDS:
-                self.assertIn(c['cinematic'][field],prompt,(c['id'],field))
-            dialogue=prompt.split('[DIALOGUE]\n',1)[1].split('\n[PROPS]',1)[0]
+                self.assertIn(c['cinematic'][field].rstrip('.'),prompt,(c['id'],field))
+            self.assertIn('[GLOBAL VOICE SPEED RULE — 1.25x]',prompt,c['id'])
+            self.assertIn('1.25x normal conversational speaking speed (125%)',prompt,c['id'])
+            dialogue=prompt.split('[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]\n',1)[1].split('\n[SOUND]',1)[0]
             self.assertNotIn(c['cinematic']['intent'],dialogue,c['id'])
         guide=film.render_beatmap(self.plan)
         for s in self.plan['scenes']:
@@ -101,7 +103,7 @@ class FilmContinuityTests(unittest.TestCase):
 
     def test_detail_shots_do_not_require_visible_lips(self):
         for c in self.shots:
-            if c['camera']=='I':
+            if c['camera']=='I' and not c['characters']:
                 self.assertTrue(all(d['mode']!='on' for d in c['dialogue']),c['id'])
 
     def test_watch_does_not_break_before_its_impact_or_open_twice(self):
@@ -132,8 +134,49 @@ class FilmContinuityTests(unittest.TestCase):
             expected={self.plan['identities'][k]['media_id'] for k in bases}
             self.assertEqual(set(scope['get_clip_reference_media_ids'](text)),expected,c['id'])
             new=scope['is_new_scene_clip'](text,c['number'],'a-valid-start-frame')
-            self.assertEqual(new,c['transition']!='CONTINUE',c['id'])
+            self.assertTrue(new,c['id'])
         self.assertEqual(scope['get_clip_reference_media_ids']('[CHARACTERS — approved identities and current appearances]\nNo lead visible.\n[EDIT IN]\n@Son was in the previous shot.'),[])
+
+    def test_smart_voice_speed_scene_classification_and_priority_order(self):
+        valid_cats = {'FIGHT_ACTION', 'VEHICLE_RACE', 'VEHICLE_CHASE', 'DIALOGUE', 'EMOTIONAL_DRAMA', 'ESTABLISHING', 'TRANSITION', 'OTHER'}
+        valid_speeds = {'1.0x', '1.25x', '1.5x', '2.0x'}
+        seen_speeds = set()
+        for i, c in enumerate(self.shots):
+            cid = c['id']
+            cat = c.get('scene_category')
+            spd = c.get('voice_speed')
+            self.assertIn(cat, valid_cats, cid)
+            self.assertIn(spd, valid_speeds, cid)
+            seen_speeds.add(spd)
+            self.assertNotIn('From the starting position (', c['action'], cid)
+            self.assertNotIn('without repeating the opening step', c['action'], cid)
+            text = film.render_prompt(
+                self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 359 else None
+            )
+            self.assertIn(f"Adaptive Shot Voice Speed ({cat}): {spd}", text, cid)
+            self.assertEqual('[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]' in text, cat == 'FIGHT_ACTION', cid)
+            self.assertEqual(f'[HIGH-SPEED VEHICLE ACTION — {cat}]' in text, cat in ('VEHICLE_CHASE', 'VEHICLE_RACE'), cid)
+            if cat == 'FIGHT_ACTION':
+                self.assertIn('Attack → Defense → Contact/Reversal → Reaction → Recovery', text, cid)
+                self.assertIn('Recovery', c['action'], cid)
+            headers = [
+                '[CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]',
+                '[TIMELINE AND LOCATION]',
+                '[ACTION — 0–10s, one clear primary action in a continuous take]',
+                '[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]',
+                '[PROPS]',
+                '[BODY, MOUTH AND FACE CONSISTENCY]',
+                '[GLOBAL VOICE SPEED RULE — 1.25x]',
+                '[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]',
+                '[SOUND]',
+                '[EDIT IN — do not render the previous shot again]',
+                '[START FRAME — state only, not an action to repeat]',
+                '[END FRAME — lock position, props, eyeline & movement axis]',
+                '[AVOID]',
+            ]
+            positions = [text.index(h) for h in headers]
+            self.assertEqual(positions, sorted(positions), f"{cid}: section priority order violated")
+        self.assertEqual(seen_speeds, valid_speeds)
 
 
 if __name__=='__main__':

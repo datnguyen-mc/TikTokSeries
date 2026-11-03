@@ -1,13 +1,13 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 150-degree action shutter (24 fps) for crisp, sharp kinetic motion edges during physical action. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 150-degree action shutter (24 fps) for crisp, sharp kinetic motion edges during physical action. Scene category: FIGHT_ACTION | Adaptive voice speed: 1.5x (150%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.25x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn wears his faded olive field jacket, grey shirt, dark trousers and worn boots, bare hands.
 
 
 [TIMELINE AND LOCATION]
-Scene 12/60, clip 3/6; shot 12.3. Story time: D3 morning.
+Scene 12/60, clip 3/6; shot 12.3. Story time: D3 morning. Scene classification: FIGHT_ACTION.
 Vietnamese coastal white-sand dune path under swaying casuarina pines (rặng phi lao): wind-rippled sand path climbing uphill to the wooden cabin, main path descending toward the fishing village roof line and sea.
 Lighting & Color: Present-day morning, raking daylight between pines, natural sandy reflections. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 12 (Clip 1–6)]
@@ -18,12 +18,18 @@ Strict spatial rule: Lock this exact spatial geometry, compass axis and architec
 Show Sơn choosing control over injury, while retaining the physical difficulty of stopping a pursuer.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 12.2, ending with Both intruders turning toward the rear door, cabin otherwise empty.
-Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s (Attack): An unnamed pursuer steps around the pine trunk from screen left, extending his right arm forward to seize Sơn inside the coastal pine grove. 2.5–6.5s (Defense -> Contact/Reversal): Sơn pivots outside the line of reach on his left foot, intercepts the pursuer's right wrist with his left hand, and uses his right forearm as a lever against the man's elbow to break his balance downward without striking his head. 6.5–10.0s (Reaction & Recovery): The off-balance pursuer slides down to sit against the pine trunk while Sơn maintains a controlled standing wrist pin, keeping the weapon hand pointed safely away from both faces.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Make contact and controlled descent one short struggle, then keep the restrained posture alive with visible effort.
 
-[START FRAME — state only, not an action to repeat]
-One pursuer stepping around a pine, Sơn behind the trunk.
+[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]
+Photorealistic live-action cinematic combat with professional stunt choreography. Fast, precise, powerful and physically believable movements with realistic body weight, balance, inertia and momentum. Strictly follow the 5-stage combat chain in ACTION: Attack → Defense → Contact/Reversal → Reaction → Recovery (maximum 2–3 core martial-arts exchanges in 10s, continuous choreography without frozen poses, realistic footwork, pivots, dodges, blocks and counterattacks, grounded cinematic camera movement with readable combat geography). No air-striking, no unmotivated falling, no wire-fu floating, and no repeated identical moves.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: He uses the trunk-side position to take balance and hold the reaching wrist away from both faces.
+Performance: His breath tightens with effort; the pursuer resists instead of instantly becoming a limp stunt prop (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
+
 
 [CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
 - Lens & Shot Type: Controlled Shoulder-Rig Handheld Action Shot (H) — 35mm prime lens, 24 fps, 150-degree crisp action shutter (f/4.0) with grounded, organic physical energy from one fixed side of the 180-degree axis. Keep defensive parries, posture shifts and spatial geometry clear without chaotic shake. Shutter: 150-degree action shutter (24 fps) for crisp, sharp kinetic motion edges during physical action.
@@ -31,22 +37,6 @@ One pursuer stepping around a pine, Sơn behind the trunk.
 - Camera Movement Plan (0–10s): 0.0–3.0s: grounded shoulder-rig follow as physical tension initiates; 3.0–6.5s: controlled lateral pivot keeping both figures and prop clear; 6.5–10.0s: steady breathing settle into the end posture. No snap zoom, no heavy shake, no axis jump.
 - Optical Focus & Depth of Field: Hold the full defensive relation from one side, with no close-up describing a damaging joint technique.
 - Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
-
-[ACTION — 0–10s, one clear primary action in a continuous take]
-0.0–2.5s: From the starting position (One pursuer stepping around a pine, Sơn behind the trunk), initiate the movement cleanly without hesitation. 2.5–6.5s: Sơn takes his balance and pins his weapon hand without striking his head (performed once in real time without repeating the opening step). 6.5–10.0s: His breath tightens with effort; the pursuer resists instead of instantly becoming a limp stunt prop, settling into the end state (Pursuer seated against the trunk, Sơn holding the wrist away) as sand shifts under their feet and rough bark catches clothing, grounding weight without graphic injury.
-Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
-Action rhythm: Make contact and controlled descent one short struggle, then keep the restrained posture alive with visible effort.
-
-[BLOCKING AND PERFORMANCE]
-Blocking: He uses the trunk-side position to take balance and hold the reaching wrist away from both faces.
-Performance: His breath tightens with effort; the pursuer resists instead of instantly becoming a limp stunt prop (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
-
-
-[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–6.1s, one natural, well-articulated spoken line (22 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
-Sơn (@Son), nói trong hình [0.3–6.1s | giọng nam trầm đanh thép khi khóa chặt cổ tay kẻ đột nhập]: Buông cái đồ trong tay xuống ngay nếu không muốn trật khớp cổ tay. Nói mau, Dũng đang giấu Hạ ở đâu?
-Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
 [FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 12 (Clip 1–6)]
@@ -60,10 +50,50 @@ Reference only; enact only the current ACTION, not a future handover.
 Sand shifts under their feet and rough bark catches clothing, grounding weight without graphic injury.
 
 
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
+
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (FIGHT_ACTION): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–6.1s, one natural, well-articulated spoken line (22 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.5x (150%) [fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at adaptive 1.5x (150%) speaking speed (baseline 1.25x conversational speaking speed / 125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Sơn (@Son), nói trong hình [0.3–6.1s | giọng nam trầm đanh thép khi khóa chặt cổ tay kẻ đột nhập]: Buông cái đồ trong tay xuống ngay nếu không muốn trật khớp cổ tay. Nói mau, Dũng đang giấu Hạ ở đâu?
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
+
 [SOUND]
 Continuous ambience bed: wind moving pine needles and distant surf.
 Foreground motivated sound: Short breaths, fabric tension and sand displacement replace exaggerated impact booms under his instruction.
+Scene sound profile (FIGHT_ACTION): Prioritize grounded footstep traction, rapid clothing movement, athletic breathing, simulated stunt contact acoustics and physical body-weight shifts alongside clear dialogue.
 Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 12.2, ending with Both intruders turning toward the rear door, cabin otherwise empty.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+One pursuer stepping around a pine, Sơn behind the trunk.
 
 [END FRAME — lock position, props, eyeline & movement axis]
 Pursuer seated against the trunk, Sơn holding the wrist away.
@@ -71,4 +101,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 12.4: Nối đúng frame, hành động tiếp diễn. Do not perform its action inside this clip.
 
 [AVOID]
-spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

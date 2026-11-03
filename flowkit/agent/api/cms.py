@@ -2112,7 +2112,7 @@ async def _stream_runner_process(
                 slug,
                 "SUCCESS",
                 "JOB",
-                f"🎉 Đã hoàn thành tiến trình tạo video & tự động ghép tập (Tập {start_ep:02d} -> {end_ep:02d})!",
+                f"🎉 Đã hoàn thành tiến trình tạo video các clip (Tập {start_ep:02d} -> {end_ep:02d})! Bấm nút 'Ghép Clip Nhỏ Thành Tập FULL' trên UI khi cần ghép tập.",
                 project_id=project_id,
                 episode=start_ep,
                 clip_num=only_clip,

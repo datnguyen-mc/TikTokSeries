@@ -136,6 +136,49 @@ def overwrite_existing_clip_files(
     return overwritten
 
 
+def _mirror_video_to_prompt_folder(local_video_path: str, ep_num: int, ep_folder_name: str = None) -> Optional[str]:
+    """Đồng bộ (hardlink/copy) file .mp4 từ output_videos/ vào trực tiếp thư mục prompt (canh-XX / tap-X)."""
+    if not local_video_path or not os.path.isfile(local_video_path):
+        return None
+    try:
+        workspace_dir = os.path.dirname(_FLOWKIT_DIR)
+        parts = os.path.relpath(os.path.abspath(local_video_path), workspace_dir).split(os.sep)
+        if len(parts) < 2 or parts[1] != "output_videos":
+            return None
+        series_dir = os.path.join(workspace_dir, parts[0])
+        if not os.path.isdir(series_dir):
+            return None
+        target_dir = None
+        if ep_folder_name:
+            cand = os.path.join(series_dir, ep_folder_name)
+            if os.path.isdir(cand):
+                target_dir = cand
+        if not target_dir and ep_num > 0 and ep_num < 100:
+            for entry in sorted(os.listdir(series_dir)):
+                full_p = os.path.join(series_dir, entry)
+                if not os.path.isdir(full_p) or entry == "output_videos":
+                    continue
+                m = re.match(rf"^(?:tap|canh)-?0*{ep_num}(?:-.*)?$", entry, re.IGNORECASE)
+                if m:
+                    target_dir = full_p
+                    break
+        if not target_dir:
+            return None
+        dst = os.path.join(target_dir, os.path.basename(local_video_path))
+        if os.path.isfile(dst):
+            if os.path.samefile(local_video_path, dst):
+                return dst
+            os.remove(dst)
+        try:
+            os.link(local_video_path, dst)
+        except Exception:
+            shutil.copy2(local_video_path, dst)
+        return dst
+    except Exception:
+        return None
+
+
+
 def _is_studio_portrait_frame_rgb(buf: bytes, w: int = 160, h: int = 90) -> bool:
     """Detect full-body character reference sheet on a plain grey studio backdrop."""
     sats, lumas, diffs = [], [], []
@@ -713,6 +756,38 @@ def merge_episode_clips(
     """
     output_videos_dir = os.path.join(series_dir, "output_videos")
     clips = find_episode_clip_mp4s(output_videos_dir, ep_num, ep_folder_name)
+
+    # Nếu các file .mp4 local đã được xóa nhưng đã lưu trên Cloudflare R2 (cms_clip.r2_url),
+    # tự động tải các clip từ R2 về khi người dùng bấm nút Ghép Tập trên UI
+    if not clips:
+        try:
+            db_path = os.path.join(_FLOWKIT_DIR, "flow_agent.db")
+            if os.path.isfile(db_path):
+                with sqlite3.connect(db_path) as conn:
+                    cur = conn.execute(
+                        """SELECT clip_num, r2_url, folder_name FROM cms_clip
+                           WHERE channel_slug = ? AND episode_num = ? AND r2_url IS NOT NULL AND r2_url != ''
+                           ORDER BY clip_num ASC""",
+                        (channel_slug, ep_num),
+                    )
+                    r2_rows = cur.fetchall()
+                if r2_rows:
+                    subf = ep_folder_name or r2_rows[0][2] or f"canh-{ep_num:02d}"
+                    dl_dir = os.path.join(output_videos_dir, subf)
+                    os.makedirs(dl_dir, exist_ok=True)
+                    for c_num, r2_url, _ in r2_rows:
+                        dst_mp4 = os.path.join(dl_dir, f"{subf}_clip-{c_num:02d}.mp4")
+                        if not os.path.isfile(dst_mp4) or os.path.getsize(dst_mp4) == 0:
+                            if requests is not None:
+                                r = requests.get(r2_url, timeout=120)
+                                if r.status_code == 200 and len(r.content) > 1000:
+                                    with open(dst_mp4, "wb") as vf:
+                                        vf.write(r.content)
+                            else:
+                                urllib.request.urlretrieve(r2_url, dst_mp4)
+                    clips = find_episode_clip_mp4s(output_videos_dir, ep_num, ep_folder_name)
+        except Exception as e:
+            print(f"⚠️ Lỗi tải clip từ R2 khi ghép tập: {e}", flush=True)
 
     if not clips:
         msg = f"⚠️ Không tìm thấy clip video .mp4 nào để ghép cho {unit_label} {ep_num:02d}."
@@ -1452,12 +1527,23 @@ def rewrite_prompt_on_failure(
             f"00:05–00:10 | Medium wide shot ({lens_variant}, smooth framing) — calm reaction and natural posture, holding still for the final 0.5 seconds.\n"
         )
 
+    voice_speed_block = (
+        "[GLOBAL VOICE SPEED RULE — 1.25x]\n"
+        "All spoken Vietnamese dialogue must be delivered at 1.25x normal conversational speaking speed (125%). "
+        "Maintain a natural Southern Vietnamese accent, clear articulation, expressive intonation, and accurate syllable-level lip synchronization. "
+        "Speech must sound naturally fast and energetic, not artificially time-stretched or pitch-shifted. "
+        "Preserve each character's original voice identity, pitch, emotional tone, and vocal personality. "
+        "Do not rush, swallow syllables, clip words, or introduce unnatural pauses. "
+        "Complete dialogue within its assigned time window. Continue natural breathing, facial expressions, and physical actions after the line finishes.\n"
+    )
+
     rebuilt = (
         f"{style_header}\n"
         f"{chars_block}\n"
         f"[SETTING]\n{setting_line}\n\n"
         f"{shots_block}\n"
-        "[SOUND]\nNatural room ambience, clear Vietnamese dialogue, gentle background instrumental score.\n\n"
+        f"{voice_speed_block}\n"
+        "[SOUND]\nNatural room ambience, clear Vietnamese dialogue at 1.25x speed, gentle background instrumental score.\n\n"
         f"{clean_avoid}\n"
     )
     return rebuilt

@@ -84,7 +84,7 @@ class FilmContinuityTests(unittest.TestCase):
             )
             for field in film.DETAIL_FIELDS:
                 self.assertIn(c['cinematic'][field], prompt, (c['id'], field))
-            dialogue = prompt.split('[DIALOGUE]\n', 1)[1].split('\n[PROPS]', 1)[0]
+            dialogue = prompt.split('[DIALOGUE]\n', 1)[1].split('\n[SOUND]', 1)[0]
             self.assertNotIn(c['cinematic']['intent'], dialogue, c['id'])
         guide = film.render_beatmap(self.plan)
         for s in self.plan['scenes']:
@@ -109,6 +109,8 @@ class FilmContinuityTests(unittest.TestCase):
             text = film.render_prompt(
                 self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
             )
+            self.assertIn('[GLOBAL VOICE SPEED RULE — 1.25x]', text, c['id'])
+            self.assertIn('1.25x normal conversational speaking speed (125%)', text, c['id'])
             self.assertIn('In a single continuous shot', text, c['id'])
             self.assertIn('never flash or cut to an attached character reference portrait', text, c['id'])
             self.assertIn('150-degree' if c['camera'] == 'H' else '180-degree', text, c['id'])
@@ -268,8 +270,8 @@ class FilmContinuityTests(unittest.TestCase):
             text = film.render_prompt(
                 self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
             )
-            self.assertIn('No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.', text, c['id'])
-            self.assertIn('fast defensive movements, precise dodges, controlled kicks', text.casefold(), c['id'])
+            self.assertIn('Clean athletic precision, all movements are simulated stunt choreography.', text, c['id'])
+            self.assertIn('fast defensive movements, precise dodges, controlled footwork', text.casefold(), c['id'])
             self.assertIn("outside the camera's view", text, c['id'])
             for field in ('start_frame', 'action', 'end_frame', 'lighting', 'wardrobe_note'):
                 self.assertIsNone(film.UNSAFE_VIOLENCE_OR_GORE_WORDS.search(c.get(field, '')), f"{c['id']} {field}")
@@ -277,7 +279,7 @@ class FilmContinuityTests(unittest.TestCase):
                 self.assertIsNone(film.UNSAFE_VIOLENCE_OR_GORE_WORDS.search(d['text']), f"{c['id']} dialogue")
         s08_1 = film.render_prompt(self.plan, self.index['08.1'], self.index['07.6'], self.index['08.2'])
         self.assertIn('Two professional stunt performers', s08_1)
-        self.assertIn("falls safely onto padded flooring outside the camera's view", s08_1)
+        self.assertIn("lands safely onto padded flooring outside the camera's view", s08_1)
 
         unsafe = copy.deepcopy(self.shots)
         unsafe[0]['action'] = unsafe[0]['action'].replace('Beat 1', 'Beat 1 (throw a punch with a bloody wound)')
@@ -400,6 +402,44 @@ class FilmContinuityTests(unittest.TestCase):
             self.assertIn(env['terrain_landmarks'], c['cinematic']['focus'], cid)
             if loc_id == 'TOTO_BACKYARD':
                 self.assertNotIn('WRENCH_KIT', c['props'], cid)
+
+    def test_smart_voice_speed_scene_classification_and_priority_order(self):
+        valid_cats = {'FIGHT_ACTION', 'VEHICLE_RACE', 'VEHICLE_CHASE', 'DIALOGUE', 'EMOTIONAL_DRAMA', 'ESTABLISHING', 'TRANSITION', 'OTHER'}
+        valid_speeds = {'1.0x', '1.25x', '1.5x', '2.0x'}
+        seen_speeds = set()
+        for i, c in enumerate(self.shots):
+            cid = c['id']
+            cat = c.get('scene_category')
+            spd = c.get('voice_speed')
+            self.assertIn(cat, valid_cats, cid)
+            self.assertIn(spd, valid_speeds, cid)
+            seen_speeds.add(spd)
+            text = film.render_prompt(
+                self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
+            )
+            self.assertIn(f"Adaptive Shot Voice Speed ({cat}): {spd}", text, cid)
+            self.assertEqual('[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]' in text, cat == 'FIGHT_ACTION', cid)
+            if cat == 'FIGHT_ACTION':
+                self.assertIn('Attack → Defense → Contact/Reversal → Reaction → Recovery', text, cid)
+            # Verify 8-stage Model Interpretation Priority ordering
+            headers = [
+                '[CHARACTERS — approved identities and current appearances]',
+                '[TIMELINE AND LOCATION]',
+                '[ACTION — 0–10s, one evolving take]',
+                '[CAMERA]',
+                '[PROPS]',
+                '[BODY, MOUTH AND FACE STANDARD]',
+                '[GLOBAL VOICE SPEED RULE — 1.25x]',
+                '[DIALOGUE]',
+                '[SOUND]',
+                '[CONTINUITY AT 0.0s — single uncut shot]',
+                '[OPENING COMPOSITION AT 0.0s — START_STATE]',
+                '[FINAL COMPOSITION AT 10.0s — END_STATE]',
+                '[AVOID]',
+            ]
+            positions = [text.index(h) for h in headers]
+            self.assertEqual(positions, sorted(positions), f"{cid}: section priority order violated")
+        self.assertEqual(seen_speeds, valid_speeds)
 
 
 if __name__ == '__main__':

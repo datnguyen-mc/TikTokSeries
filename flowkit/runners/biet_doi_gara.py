@@ -908,10 +908,7 @@ def run_pipeline(start_scene=16, end_scene=45):
             log(f"⏭️ [DANH SÁCH CLIP TẠM BỎ QUA] Cảnh {s:02d} có {len(missing_clips)} clip chưa hoàn tất ({missing_clips}) sau 2 lần thử — giữ nguyên kịch bản gốc để kiểm tra và tạo lại sau.")
 
         CURRENT_CLIP_NUM = None
-        merge_episode_clips(SERIES_DIR, CHANNEL_SLUG, s, f"canh-{s:02d}", project_id=PROJECT_ID, unit_label="Cảnh")
-        if s % 10 == 0:
-            tap_num = s // 10
-            merge_multi_scenes_to_episode(SERIES_DIR, CHANNEL_SLUG, tap_num, s - 9, s, project_id=PROJECT_ID)
+        log(f"✅ Đã hoàn tất render các clip của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
 
     print("\n" + "=" * 72)
     print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d}!")

@@ -1,15 +1,15 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: DIALOGUE | Adaptive voice speed: 1.5x (150%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. Wardrobe & gear: Plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice profile: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. Wardrobe & gear: Tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice profile: Smooth, calculated urban Southern Vietnamese male baritone, polished business cadence that tightens into cold menace under pressure.
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.25x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip still pinned at the back of her hair. Kiên wears his tailored white suit and polished shoes, luxury gold wristwatch glinting on his left wrist.
 
 
 [TIMELINE AND LOCATION]
-Scene 40/60, clip 6/6; shot 40.6. Story time: D7 sunset.
+Scene 40/60, clip 6/6; shot 40.6. Story time: D7 sunset. Scene classification: DIALOGUE.
 Hòn Sóng concrete harbour apron: sea south, market landward north, black car east, white car west, center painted seam, safe line landward. Lighthouse service stair rises west behind white car.
 Lighting & Color: Same sunset fading toward dusk, car positions and light direction unchanged. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 40 (Clip 1–6)]
@@ -20,22 +20,8 @@ Strict spatial rule: Lock this exact spatial geometry, compass axis and architec
 End on Hạ testing a possible escape rather than waiting for the men to settle ownership.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 40.5, ending with Sơn pointing to the safe line with empty left hand.
-Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
-
-[START FRAME — state only, not an action to repeat]
-Hạ looking from Sơn to the safe line, Kiên gripping her arm.
-
-[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
-- Lens & Shot Type: Intimate Portrait Close-Up (C) — 85mm prime lens, 24 fps, shallow depth of field (f/2.8) at eye level. Isolate facial micro-expressions, subtle breathing, natural eye movement and Vietnamese lip-sync with soft background separation; no camera orbit. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
-- Framing & Angle Composition: Keep a tight view of her face and left upper arm, Kiên's right-hand grip visible at the edge.
-- Camera Movement Plan (0–10s): 0.0–3.0s: locked portrait framing on eyes and breathing; 3.0–6.5s: imperceptible slow push-in during spoken delivery; 6.5–10.0s: rock-steady hold on the three-layer micro-expression settle. No snap zoom, no heavy shake, no axis jump.
-- Optical Focus & Depth of Field: Hold her eyes and the existing grip sufficiently readable, not a rack down to an unseen sandal.
-- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
-
 [ACTION — 0–10s, one clear primary action in a continuous take]
-0.0–2.5s: From the starting position (Hạ looking from Sơn to the safe line, Kiên gripping her arm), initiate the movement cleanly without hesitation. 2.5–6.5s: Hạ makes a small landward weight shift that turns her left shoulder, testing Kiên right-hand grip on her LEFT upper arm without a sudden pull (performed once in real time without repeating the opening step). 6.5–10.0s: Her eyes calculate, breath controlled; Kiên's pressure answers without a graphic squeeze or new threat, settling into the end state (Hạ eyes and left shoulder angled landward, Kiên RIGHT hand still controlling her LEFT upper arm at the frame edge) as grey sleeve and his white cuff mark whose hand holds whom, with wind moving the loose hair.
+0.0–2.5s: A small landward weight shift reaches her left shoulder, testing his hold without a second camera move. 2.5–6.5s: Hạ makes a small landward weight shift that turns her left shoulder, testing Kiên right-hand grip on her LEFT upper arm without a sudden pull, timed naturally with the spoken delivery and active eyeline. 6.5–10.0s: Follow through with natural body weight and breathing (let the shift be slight but unmistakable, ending with her landward intent still blocked), holding into hạ eyes and left shoulder angled landward, Kiên RIGHT hand still controlling her LEFT upper arm at the frame edge through 10.0s without freezing.
 Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
 Action rhythm: Let the shift be slight but unmistakable, ending with her landward intent still blocked.
 
@@ -44,11 +30,12 @@ Blocking: A small landward weight shift reaches her left shoulder, testing his h
 Performance: Her eyes calculate, breath controlled; Kiên's pressure answers without a graphic squeeze or new threat (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
-[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.1s, one natural, well-articulated spoken line (26 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
-Hạ (@Ha), nói trong hình [0.3–7.1s | giọng nữ kiên cường, ánh mắt khóa chặt về phía lối thoát]: Anh cứ giữ đúng khoảng cách đi anh Sơn! Chỉ cần hắn lỏng tay một nhịp là em tự chạy về phía hẻm chợ được ngay!
-Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
+[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
+- Lens & Shot Type: Intimate Portrait Close-Up (C) — 85mm prime lens, 24 fps, shallow depth of field (f/2.8) at eye level. Isolate facial micro-expressions, subtle breathing, natural eye movement and Vietnamese lip-sync with soft background separation; no camera orbit. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
+- Framing & Angle Composition: Keep a tight view of her face and left upper arm, Kiên's right-hand grip visible at the edge.
+- Camera Movement Plan (0–10s): 0.0–3.0s: locked portrait framing on eyes and breathing; 3.0–6.5s: imperceptible slow push-in during spoken delivery; 6.5–10.0s: rock-steady hold on the three-layer micro-expression settle. No snap zoom, no heavy shake, no axis jump.
+- Optical Focus & Depth of Field: Hold her eyes and the existing grip sufficiently readable, not a rack down to an unseen sandal.
+- Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
 [PROPS]
 [FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 40 (Clip 1–6)]
@@ -61,10 +48,50 @@ Reference only; enact only the current ACTION, not a future handover.
 Grey sleeve and his white cuff mark whose hand holds whom, with wind moving the loose hair.
 
 
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
+
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (DIALOGUE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–7.1s, one natural, well-articulated spoken line (26 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.5x (150%) [fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at adaptive 1.5x (150%) speaking speed (baseline 1.25x conversational speaking speed / 125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Hạ (@Ha), nói trong hình [0.3–7.1s | giọng nữ kiên cường, ánh mắt khóa chặt về phía lối thoát]: Anh cứ giữ đúng khoảng cách đi anh Sơn! Chỉ cần hắn lỏng tay một nhịp là em tự chạy về phía hẻm chợ được ngay!
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
+
 [SOUND]
 Continuous ambience bed: boat ropes, small waves and engines only when visible.
 Foreground motivated sound: Only cloth, breathing and established engines remain; do not add dialogue to explain the attempt.
+Scene sound profile (DIALOGUE): Prioritize clean, forward-mixed Southern Vietnamese dialogue over a balanced, realistic coastal/interior ambience bed that never masks vocal clarity.
 Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Keep both engines idling under the first new demand. Do not re-establish the same five positions again.
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 40.5, ending with Sơn pointing to the safe line with empty left hand.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Hạ looking from Sơn to the safe line, Kiên gripping her arm.
 
 [END FRAME — lock position, props, eyeline & movement axis]
 Hạ eyes and left shoulder angled landward, Kiên RIGHT hand still controlling her LEFT upper arm at the frame edge.
@@ -72,4 +99,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 41.1: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

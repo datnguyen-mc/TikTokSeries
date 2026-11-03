@@ -827,8 +827,8 @@ export default function ChannelsCMSPage() {
       setStatusBanner({
         type: 'info',
         text: onlyClip
-          ? `🚀 Đang tạo & ghi đè riêng Tập ${startEp} • Clip ${String(onlyClip).padStart(2, '0')} (Chỉ ghi đè đúng file clip-${onlyClip} & tự động cập nhật tập ghép khi đủ clip)...`
-          : `🚀 Đang chạy tự động Tập ${startEp}${endEp > startEp ? ` → Tập ${endEp}` : ''} — Tự động ghép các clip nhỏ thành 1 tập hoàn chỉnh ngay khi xong!`,
+          ? `🚀 Đang tạo & ghi đè riêng Tập ${startEp} • Clip ${String(onlyClip).padStart(2, '0')} (Chỉ ghi đè đúng file clip-${onlyClip})...`
+          : `🚀 Đang chạy tự động Tập ${startEp}${endEp > startEp ? ` → Tập ${endEp}` : ''} — Bấm nút 'Ghép Clip Nhỏ Thành Tập FULL' khi bạn cần ghép tập!`,
       })
       loadChannels()
       loadChannelDetail(routeSlug, selectedEpNum)
@@ -1019,7 +1019,7 @@ export default function ChannelsCMSPage() {
                 <span className="text-xs text-slate-400">tập đã ghép nối</span>
               </div>
               <span className="text-[11px] text-amber-300/80 font-medium">
-                Tự động ghép bằng FFmpeg khi xong tập
+                Bấm nút trên UI để ghép bằng FFmpeg khi cần
               </span>
             </div>
             <div className="w-11 h-11 rounded-2xl bg-amber-500/15 border border-amber-500/30 flex items-center justify-center text-amber-400">
@@ -2296,7 +2296,7 @@ export default function ChannelsCMSPage() {
                           )}
                         </div>
                         <p className="text-xs text-slate-400 mt-1">
-                          Khi các clip nhỏ hoàn tất, hệ thống tự động ghép nối bằng FFmpeg thành tập hoàn chỉnh:{' '}
+                          Khi cần nối các clip nhỏ thành tập hoàn chỉnh, bấm nút <strong className="text-amber-300">"Ghép Clip Nhỏ Thành Tập FULL"</strong> để xuất file:{' '}
                           <code className="text-amber-300 font-mono">
                             {routeSlug}_tap-{String(currentEpisode.episode_num).padStart(2, '0')}_FULL.mp4
                           </code>
@@ -2317,7 +2317,7 @@ export default function ChannelsCMSPage() {
                             onClick={() => handleRunJob(currentEpisode.episode_num, currentEpisode.episode_num)}
                             className="px-4 py-2 rounded-xl text-xs font-semibold studio-glow-btn flex items-center gap-1.5 cursor-pointer disabled:opacity-50"
                           >
-                            <Play size={13} /> Tạo Video Cả {currentEpisode.label} & Tự Ghép FULL
+                            <Play size={13} /> Tạo Video Cả {currentEpisode.label}
                           </button>
                         )}
 
@@ -2411,7 +2411,7 @@ export default function ChannelsCMSPage() {
                           <div className="text-[10px]">
                             {currentEpisode.merged_video_url
                               ? `${currentEpisode.merged_size_mb} MB (Sẵn sàng)`
-                              : 'Tự ghép khi xong'}
+                              : 'Bấm nút Ghép khi cần'}
                           </div>
                         </div>
                       </div>

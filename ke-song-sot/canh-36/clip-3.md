@@ -1,15 +1,15 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: VEHICLE_CHASE | Adaptive voice speed: 1.5x (150%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. Wardrobe & gear: Plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice profile: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. Wardrobe & gear: Tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice profile: Smooth, calculated urban Southern Vietnamese male baritone, polished business cadence that tightens into cold menace under pressure.
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.25x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip still pinned at the back of her hair. Kiên wears his tailored white suit and polished shoes, luxury gold wristwatch glinting on his left wrist.
 
 
 [TIMELINE AND LOCATION]
-Scene 36/60, clip 3/6; shot 36.3. Story time: D7 afternoon.
+Scene 36/60, clip 3/6; shot 36.3. Story time: D7 afternoon. Scene classification: VEHICLE_CHASE.
 Inside rear of Kiên white car, one rear door facing the public apron, grey seat and closed opposite door.
 Lighting & Color: Present-day afternoon sun outside, soft green-awning shade for faces. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 36 (Clip 1–6)]
@@ -20,12 +20,18 @@ Strict spatial rule: Lock this exact spatial geometry, compass axis and architec
 Give Hạ an act of self-definition the instant she becomes physically visible again.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 36.2, ending with Sơn listening without giving him the copy envelope.
-Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: She rests her hand on the inner handle, Kiên staying outside on her left with his right hand controlling the door area. 2.5–6.5s: Hạ meets Sơn's eyes and deliberately rests her hand on the inner door handle, timed naturally with the spoken delivery and active eyeline. 6.5–10.0s: Follow through with natural body weight and breathing (let recognition register before the hand touches the handle, then let the assertion remain unanswered), holding into hạ's fingers on the handle, Sơn seeing the gesture from outside through 10.0s without freezing.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Let recognition register before the hand touches the handle, then let the assertion remain unanswered.
 
-[START FRAME — state only, not an action to repeat]
-Rear car window lowered, Hạ visible inside with Kiên outside.
+[HIGH-SPEED VEHICLE ACTION — VEHICLE_CHASE]
+Preserve locked vehicle/vessel identity, paint finish, body silhouette, wheels/hull and driver/pilot position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the established axis. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: She rests her hand on the inner handle, Kiên staying outside on her left with his right hand controlling the door area.
+Performance: She meets Sơn directly, speaking as a capable person rather than asking to be carried away (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
+
 
 [CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
 - Lens & Shot Type: Over-The-Shoulder / Point-of-View Shot (O) — 50mm prime lens, 24 fps (f/3.5), framing the foreground observer shoulder/head anchor against the facing speaker. Maintain strict 180-degree eyeline match and depth separation. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
@@ -33,22 +39,6 @@ Rear car window lowered, Hạ visible inside with Kiên outside.
 - Camera Movement Plan (0–10s): 0.0–3.0s: anchor foreground shoulder silhouette and establish eyeline depth; 3.0–6.5s: subtle push past the shoulder anchor during the key exchange; 6.5–10.0s: hold locked over-the-shoulder tension. No snap zoom, no heavy shake, no axis jump.
 - Optical Focus & Depth of Field: Keep her eyes and handle hand within useful depth; the glass edge must not obscure the gesture.
 - Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
-
-[ACTION — 0–10s, one clear primary action in a continuous take]
-0.0–2.5s: From the starting position (Rear car window lowered, Hạ visible inside with Kiên outside), initiate the movement cleanly without hesitation. 2.5–6.5s: Hạ meets Sơn's eyes and deliberately rests her hand on the inner door handle (performed once in real time without repeating the opening step). 6.5–10.0s: She meets Sơn directly, speaking as a capable person rather than asking to be carried away, settling into the end state (Hạ's fingers on the handle, Sơn seeing the gesture from outside) as grey dress and plain car upholstery contrast with Kiên's white sleeve at the window edge.
-Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
-Action rhythm: Let recognition register before the hand touches the handle, then let the assertion remain unanswered.
-
-[BLOCKING AND PERFORMANCE]
-Blocking: She rests her hand on the inner handle, Kiên staying outside on her left with his right hand controlling the door area.
-Performance: She meets Sơn directly, speaking as a capable person rather than asking to be carried away (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
-
-
-[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–6.4s, one natural, well-articulated spoken line (23 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
-Hạ (@Ha), nói trong hình [0.3–6.4s | giọng nữ kiên cường vọng ra từ ghế sau chiếc xe hơi trắng]: Đừng nghe lời hắn uy hiếp anh Sơn! Em vẫn bình tĩnh lắm, anh đừng vì em mà bước vào bẫy của hắn!
-Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [PROPS]
 [FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 36 (Clip 1–6)]
@@ -61,10 +51,50 @@ Reference only; enact only the current ACTION, not a future handover.
 Grey dress and plain car upholstery contrast with Kiên's white sleeve at the window edge.
 
 
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
+
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (VEHICLE_CHASE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
+[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
+Delivery & Timing: 0.3–6.4s, one natural, well-articulated spoken line (23 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.5x (150%) [fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at adaptive 1.5x (150%) speaking speed (baseline 1.25x conversational speaking speed / 125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Hạ (@Ha), nói trong hình [0.3–6.4s | giọng nữ kiên cường vọng ra từ ghế sau chiếc xe hơi trắng]: Đừng nghe lời hắn uy hiếp anh Sơn! Em vẫn bình tĩnh lắm, anh đừng vì em mà bước vào bẫy của hắn!
+Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
+
 [SOUND]
 Continuous ambience bed: car engine idling and window motor.
 Foreground motivated sound: Her voice remains natural through the open window, with only the established engine beneath it.
+Scene sound profile (VEHICLE_CHASE): Prioritize engine RPM, gearshifts, tire friction on wet coastal asphalt or boat hull spray, suspension load and wind rush synchronized with vehicle speed.
 Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 36.2, ending with Sơn listening without giving him the copy envelope.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Rear car window lowered, Hạ visible inside with Kiên outside.
 
 [END FRAME — lock position, props, eyeline & movement axis]
 Hạ's fingers on the handle, Sơn seeing the gesture from outside.
@@ -72,4 +102,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 36.4: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

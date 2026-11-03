@@ -21,3 +21,5 @@ Khóa nhân vật, bối cảnh, phong cách, ảnh tham chiếu và danh sách 
 | 4 · 25 ngày tuổi | Lần tắm chậu đầu tiên | Chậu tắm sơ sinh có lưới đỡ | [tap-4](tap-4/README.md) |
 | 5 · 32 ngày tuổi | Đầy tháng của Gạo và Bông | Khăn sữa sợi tre / gạc cotton sơ sinh | [tap-5](tap-5/README.md) |
 | 6 · 39 ngày tuổi | Tập nằm sấp đầu đời của Gạo và Bông | Thảm nằm chơi sơ sinh phẳng êm | [tap-6](tap-6/README.md) |
+| 7 · 46 ngày tuổi | Mùa gió se lạnh & Túi ngủ mặc ấm cho Gạo và Bông | Túi ngủ mặc cotton sát nách cho bé (`wearable blanket`) | [tap-7](tap-7/README.md) |
+| 8 · 53 ngày tuổi | Đơn may cuối năm & Nụ cười đầu tiên dành cho mẹ | Bộ thẻ & vòng treo tương phản đen-trắng-đỏ | [tap-8](tap-8/README.md) |

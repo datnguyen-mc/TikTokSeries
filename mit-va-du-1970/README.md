@@ -53,3 +53,5 @@ Trở về căn nhà tre nghèo, Mit dần thay đổi, đi làm thuê, khuân s
 | [Tập 17](tap-17/README.md) | Con heo đất ống tre | 50s (5 clip) | Tập vở, hộp bút màu |
 | [Tập 18](tap-18/README.md) | Chèo xuồng bán dừa khô | 50s (5 clip) | Tập vở, bút |
 | [Tập 19](tap-19/README.md) | Chuối nếp nướng lá chuối & Bài toán chia phần của Nở | 50s (5 clip) | Tập vở, hộp bút màu |
+| [Tập 20](tap-20/README.md) | Cá lóc đồng nướng trui rơm & Nhẫn cỏ chỉ vàng của ba Mit | 50s (5 clip) | Tập vở, hộp bút màu |
+| [Tập 21](tap-21/README.md) | Bánh tằm khoai mì lăn dừa nạo & Chuyện giữ khư khư sổ biên nhận lúa | 50s (5 clip) | — |

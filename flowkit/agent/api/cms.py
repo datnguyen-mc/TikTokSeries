@@ -1024,16 +1024,24 @@ async def _load_channel_db_maps(db, slug: str) -> tuple[dict[int, dict], dict[tu
                 continue
             if cl_n is not None:
                 key = (int(ep_n), int(cl_n))
-                entry = clip_map.setdefault(key, {"episode_num": int(ep_n), "clip_num": int(cl_n), "status": "COMPLETED"})
-                entry["r2_url"] = r2_u
-                entry["r2_key"] = r2_k or entry.get("r2_key")
-                entry["size_mb"] = det.get("size_mb") or entry.get("size_mb")
-                entry["status"] = "COMPLETED"
+                if key not in clip_map:
+                    clip_map[key] = {
+                        "episode_num": int(ep_n),
+                        "clip_num": int(cl_n),
+                        "status": "COMPLETED",
+                        "r2_url": r2_u,
+                        "r2_key": r2_k,
+                        "size_mb": det.get("size_mb"),
+                    }
             else:
-                entry = ep_map.setdefault(int(ep_n), {"episode_num": int(ep_n), "is_complete": 1})
-                entry["merged_r2_url"] = r2_u
-                entry["merged_r2_key"] = r2_k or entry.get("merged_r2_key")
-                entry["merged_size_mb"] = det.get("size_mb") or entry.get("merged_size_mb")
+                if int(ep_n) not in ep_map:
+                    ep_map[int(ep_n)] = {
+                        "episode_num": int(ep_n),
+                        "is_complete": 1,
+                        "merged_r2_url": r2_u,
+                        "merged_r2_key": r2_k,
+                        "merged_size_mb": det.get("size_mb"),
+                    }
     except Exception:
         pass
     return ep_map, clip_map

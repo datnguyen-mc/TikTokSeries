@@ -1,330 +1,150 @@
-# Mit & Đú 1970 — Prompt Google Flow (Gemini Omni)
+# Mit & Đú 1970 — Prompt Google Flow (Gemini Omni) — HIGH-END CINEMATIC 3D ANIMATION
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video · **Bắt buộc Search Google** khi cần thiết để kiểm chứng nét văn hóa, món ăn, vật dụng, phương ngữ miền Tây thập niên 1970 hoặc trend liên quan.
+**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video · **Bắt buộc tuân thủ tiêu chuẩn HIGH-END CINEMATIC 3D ANIMATION**.
 
-**Thế giới:** Miền Tây (Bến Tre – Cái Mơn) năm 1970. Cả nhà Mit là **chó nhân hóa 3D**, đi hai chân, bàn tay 4 ngón, không có con người. Tông màu hoài cổ (vàng mật ong, xanh lúa, nâu đất), hạt film nhẹ, giọng miền Tây.
-
-**Độ dài và cấu trúc (30–60 giây = 3–6 clip × 10s, tối đa 60 giây):** tông vui vẻ, tình yêu, gia đình.
-
-| Số clip | Khi nào | Bố cục |
-| --- | --- | --- |
-| 3 (30s) | Một lát cắt gọn trong một bối cảnh | 1 Mở & chuyện nhỏ · 2 Thương nhau · 3 Kết vui |
-| 4 (40s, vừa một chuỗi Extend) | Một bối cảnh, một chuyện | 1 Mở · 2 Chuyện nhỏ · 3 Thương nhau · 4 Kết vui |
-| 5 (50s) | Hai bối cảnh hoặc có một bất ngờ | 1 Mở · 2–3 Chuyện nhỏ · 4 Thương nhau · 5 Kết vui |
-| 6 (60s — tối đa) | Hai bước bất ngờ, hoặc nhắc lại tập cũ | 1 Mở · 2–4 Chuyện nhỏ · 5 Thương nhau · 6 Kết vui |
-
-- **Mở:** lát cắt đời thường miền Tây 1970 có chi tiết thật (việc đồng áng, bữa cơm quê, chợ ghe, trường làng) và một câu thoại gây tò mò.
-- **Chuyện nhỏ:** hiểu lầm, bất ngờ, một việc cả nhà cùng làm; mỗi clip đi thêm một bước, có cử chỉ và đồ vật đời thật.
-- **Thương nhau:** lời nói giản dị, cái nắm tay, món quà nhỏ. **Kết vui:** tiếng cười hoặc cái ôm; khung thumbnail đứng yên 1 giây.
-- **Từ Tập 13 (mùa vui):** gia đình đã ổn sau chặng sửa đổi; mỗi tập là một niềm vui đời thường miền Tây 1970: tát mương bắt cá, đi chợ nổi, đổ bánh xèo, thả diều, đờn ca tài tử, giỗ ông bà, Tết. Không kết bằng nước mắt hai tập liền. Trang phục mặc định: Trang phục A của cả nhà, trừ khi kịch bản ghi khác.
-
-- **Như người thật kể chuyện nhà mình:** chi tiết đúng thời 1970 (đồ vật, món ăn, cách nói miền Tây), không dùng đồ hiện đại; mỗi clip 2–3 câu thoại, tối đa khoảng 31 âm tiết.
-- **Sản phẩm** (đồ trẻ em: cặp, sách vở, bút…) xuất hiện tự nhiên trong chuyện, tối đa khoảng 10% thời lượng, lên hình chủ yếu trong một clip.
-
-**Cách dán prompt:**
-- Mỗi khối `text` bên dưới là **một lần dán** vào Flow. Dán nguyên khối, không sửa chữ.
-- **FULL LOCK** dùng ở Clip 1, và cho nhân vật **xuất hiện lần đầu** ở bất kỳ clip nào từ Clip 2 trở đi (dòng `Entering in this segment:`).
-- **SHORT LOCK** dùng từ Clip 2 đến clip cuối cho nhân vật đã có mặt ở clip ngay trước.
-- Các khóa đã được chèn sẵn vào từng prompt, giống nhau từng chữ. Muốn đổi thiết kế nhân vật thì sửa ở mục 1, rồi dùng Find & Replace để sửa đồng loạt mọi chỗ.
-- Clip 2 trở đi làm bằng **Save frame → Frames** (start frame = khung cuối clip trước), hoặc bằng **Extend** nếu Flow đã có Extend cho Gemini Omni (xem FLOW_GUIDE mục 1). Nếu Flow cho đính thêm ảnh ở chế độ Frames, đính lại ảnh tham chiếu, kể cả ảnh của nhân vật mới vào ở clip đó.
+**Thế giới:** Miền Tây Nam Bộ (Bến Tre – Cái Mơn) năm 1970. Cả nhà Mit – Đú – Nở là **chó nhân hóa 3D đi đứng bằng hai chân (bipedal)**, **bàn tay dạng chân thú phủ lông với đúng 4 ngón (four-fingered furry paw-hands)**, **tai mềm và rủ xuống tự nhiên (soft floppy ears hanging down — tuyệt đối không chuyển thành tai nhọn dựng đứng)**, không có con người và không có chó bốn chân. Tông màu hoài cổ ấm áp (vàng mật ong, xanh lúa, nâu đất), ánh sáng toàn cục mềm (soft global illumination), vật liệu và lông thú có chiều sâu, hạt film 35mm nhẹ, giọng miền Tây tự nhiên.
 
 ---
 
-## 1. Khóa nhân vật (Character Bible)
+## Tiêu chuẩn bắt buộc (HIGH-END CINEMATIC 3D ANIMATION STANDARD)
 
-**Tên nhân vật trên Flow:** `@Mit` · `@Đú` · `@Nở`. Mỗi dòng khóa của nhân vật chính bắt đầu bằng `@Tên = …`, để Flow gọi đúng nhân vật đã lưu và model hiểu tên đó là nhân vật nào trong prompt.
+1. **CINEMATIC 3D ANIMATION QUALITY:**
+   - High-end stylized 3D animated feature film (Pixar/Disney-quality CGI), 24fps, vertical 9:16.
+   - Ánh sáng toàn cục mềm, vật liệu có chiều sâu, lông thú chi tiết và màu sắc ấm áp.
+   - Chuyển động nhân vật mượt, có trọng lượng (weight), quán tính (inertia) và nhịp diễn xuất tự nhiên; không giống hoạt hình game, robot hoặc nhựa; không lạm dụng bloom, lens flare hoặc rung camera.
+   - Mỗi clip 10 giây là **ONE CONTINUOUS SHOT** với đường máy mượt mà, không cắt cảnh giữa chừng, không whip pan hay snap zoom.
 
-### Mit — người chồng
+2. **CHARACTER CONSISTENCY — ABSOLUTE LOCK:**
+   - Giữ nguyên 100% thiết kế `@Mit`, `@Đú` và `@Nở` từ ảnh tham chiếu đã phê duyệt trên Google Flow Project (`234b0e61-f736-4e77-a1d9-527b2fadc582`).
+   - Không thay đổi giống chó, hình dạng mõm, tai mềm rủ xuống, mắt, màu lông, chiều cao tương đối, trang phục và phụ kiện.
+   - Tất cả nhân vật đứng và di chuyển bằng hai chân, có bàn tay dạng chân thú phủ lông với đúng bốn ngón.
+   - Biểu cảm thể hiện qua mắt, lông mày, mõm, tai cụp mềm và chuyển động cơ thể; không làm biến dạng cấu trúc khuôn mặt khi nói.
 
-Chó cỏ Việt Nam lông vàng rơm, mõm và ngực màu kem, dáng gầy rắn rỏi, cao nhất nhà. **Dấu hiệu nhận dạng:** chóp **tai TRÁI gập xuống**.
-Giọng miền Tây ấm, hơi khàn, lém lỉnh. Từng ham vui, sau biết sửa đổi.
+3. **ADVANCED CHARACTER ANIMATION & REALISTIC PROP INTERACTION:**
+   - Sử dụng chuyển động có anticipation, follow-through, secondary motion (tai cụp mềm, lông, quần áo), natural easing và believable weight transfer khi ngồi, đứng, cúi, quạt, chèo xuồng hoặc cầm đồ.
+   - Mọi đạo cụ giữ nguyên trạng thái, vị trí và số lượng từ đầu đến cuối clip; mô tả rõ tay nào (`left/right/both four-fingered furry paws`) cầm/đặt/gói/nướng/chuyển vật thể và đặt ở đâu.
+   - Các thao tác chế biến món ăn miền Tây 1970 (lá chuối mềm có nếp gấp tự nhiên, nếp dẻo, than củi hồng, nước cốt dừa thắng sánh, bánh xèo, cá lóc nướng trui) tuân thủ đúng thứ tự vật lý thực tế.
 
-**Trang phục A — nghèo / làm thuê** (Tập 1, 2, 5–15): áo bà ba nâu đất bạc màu, quần đen xắn gối, khăn rằn quấn cổ, chân đất, ra ngoài thì đội nón lá.
+---
 
-FULL LOCK
-```text
-@Mit = Mit (husband, about 35): anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. He is the tallest of the family. Outfit A: faded earth-brown áo bà ba shirt, black trousers rolled up to the knees, black-and-white checkered khăn rằn scarf knotted around the neck, barefoot, a conical nón lá hat when outdoors. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s, playful.
-```
-SHORT LOCK
-```text
-@Mit = Mit: golden-tan native dog, cream muzzle, LEFT ear tip folded; faded earth-brown áo bà ba, black trousers rolled to the knees, checkered khăn rằn at the neck, barefoot, nón lá when outdoors; warm, slightly raspy Southern male voice.
-```
+## 1. Khóa nhân vật tuyệt đối (Character Bible — Approved Reference Lock)
 
-**Trang phục B — phú hộ** (Tập 3, 4): sơ mi lụa trắng xắn tay, quần tây màu be, dép da, đồng hồ vàng, dây chuyền vàng to bản, tóc vuốt bóng, kính râm tròn gọng vàng.
+**Tên nhân vật trên Flow:** `@Mit` · `@Đú` · `@Nở`.
 
-FULL LOCK
-```text
-@Mit = Mit (husband, about 35): anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. He is the tallest of the family. Outfit B (rich period): white silk button-up shirt with sleeves rolled to the elbows, beige pleated trousers, brown leather sandals, gold wristwatch, thick gold chain necklace, head fur slicked back and glossy, round gold-rimmed sunglasses. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s, playful.
-```
-SHORT LOCK
-```text
-@Mit = Mit: golden-tan native dog, cream muzzle, LEFT ear tip folded, slicked glossy head fur; white silk shirt, beige trousers, gold watch, thick gold chain, round gold-rimmed sunglasses; warm, slightly raspy Southern male voice.
-```
-
-### Đú — người vợ
-
-Chó cỏ lông trắng kem, tai màu vàng nhạt cụp nhẹ về phía trước, mặt tròn hiền, mắt nâu hình hạnh nhân, tóc búi thấp cài **trâm gỗ**. Khi giàu cô vẫn giữ cây trâm gỗ, chi tiết cho thấy cô giản dị.
-Thấp hơn Mit một cái đầu. Giọng miền Tây nhỏ nhẹ, ấm áp. Chuyện hai người quen nhau (Tập 13): hồi con gái, Mit thả diều qua nhà cô, diều mắc ngọn dừa nhà cô, rồi "ổng ở luôn".
-
-**Trang phục A** (Tập 1, 2, 5–15): áo bà ba tím hoa cà bạc màu, quần lãnh đen, khăn rằn vắt vai, chân đất.
+### Mit — người chồng (`@Mit`, `media_id = 50cf224b-1304-4320-8896-4b4d599d2056`)
 
 FULL LOCK
 ```text
-@Đú = Đú (wife, early 30s): anthropomorphic Vietnamese native dog standing upright on two legs, slim gentle build, creamy-white fur, soft light-tan ears that fold forward, soft round face, gentle almond-shaped brown eyes, pink-brown nose, head fur gathered in a low bun held by a plain wooden hairpin, paw-hands with four fingers. She is about a head shorter than Mit. Outfit A: faded lavender áo bà ba shirt, black satin trousers, black-and-white checkered khăn rằn draped over one shoulder, barefoot. Voice: soft, warm Southern Vietnamese female voice, early 30s, gentle.
-```
-SHORT LOCK
-```text
-@Đú = Đú: creamy-white native dog, light-tan forward-folding ears, low bun with a wooden hairpin; faded lavender áo bà ba, black satin trousers, checkered khăn rằn over one shoulder, barefoot; soft, warm Southern female voice.
+@Mit = Mit (husband, about 35, 100% exact match to @Mit reference image): bipedal anthropomorphic golden-brown male Vietnamese dog (chó đực lông vàng nâu) standing and walking upright on two legs, stocky build with a slightly round belly, short detailed golden-brown fur, white-cream dog muzzle and white-cream chest fur, thick expressive dark eyebrows, soft floppy golden-brown dog ears hanging down naturally on both sides of his head (never pointed or upright), warm expressive dark-brown eyes, black dog nose, furry paw-hands with exactly four fingers. He is the tallest of the family. Outfit (locked to reference): faded grey sleeveless tank top (áo ba lỗ xám bạc màu), dark shorts, barefoot. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s, playful and affectionate.
 ```
 
-**Trang phục B — phú hộ** (Tập 3, 4): áo dài lụa màu ngà thêu sen hồng, quần lụa trắng, bông tai ngọc trai, vẫn cài trâm gỗ.
+SHORT LOCK
+```text
+@Mit = Mit (100% exact match to @Mit reference): bipedal golden-brown male dog standing upright on two legs, stocky build with slightly round belly, white-cream muzzle and chest, thick dark eyebrows, soft floppy golden-brown dog ears hanging down (never pointed or upright), four-fingered furry paw-hands; faded grey sleeveless tank top, dark shorts, barefoot; warm, slightly raspy Southern Vietnamese male voice.
+```
+
+### Đú — người vợ (`@Đú`, `media_id = 44114803-92e4-48fb-ac9b-377a6c7c1cd2`)
 
 FULL LOCK
 ```text
-@Đú = Đú (wife, early 30s): anthropomorphic Vietnamese native dog standing upright on two legs, slim gentle build, creamy-white fur, soft light-tan ears that fold forward, soft round face, gentle almond-shaped brown eyes, pink-brown nose, head fur gathered in a low bun held by a plain wooden hairpin, paw-hands with four fingers. She is about a head shorter than Mit. Outfit B (rich period): ivory silk áo dài embroidered with pink lotus flowers, white silk trousers, small pearl earrings, the same plain wooden hairpin in her bun. Voice: soft, warm Southern Vietnamese female voice, early 30s, gentle.
+@Đú = Đú (wife, early 30s, 100% exact match to @Đú reference image): gentle bipedal anthropomorphic cream-and-light-brown female Vietnamese dog (chó cái lông vàng kem) standing and walking upright on two legs, slim gentle build, soft cream-and-tan fur with a white dog muzzle and a white fur blaze running up between her eyes, long soft floppy light-brown dog ears hanging down naturally on both sides (never pointed or upright, no hair bun), gentle round dark-brown eyes, dark dog nose, furry paw-hands with exactly four fingers. She is slightly shorter than Mit. Outfit (locked to reference): faded dusty-pink short-sleeved floral blouse (áo bà ba hồng nhạt in hoa nhỏ), loose black trousers, simple brown slippers. Voice: soft, warm Southern Vietnamese female voice, early 30s, gentle and caring.
 ```
+
 SHORT LOCK
 ```text
-@Đú = Đú: creamy-white native dog, light-tan forward-folding ears, low bun with a wooden hairpin, pearl earrings; ivory silk áo dài with pink lotus embroidery, white silk trousers; soft, warm Southern female voice.
+@Đú = Đú (100% exact match to @Đú reference): bipedal cream-and-light-brown female dog standing upright on two legs, slim gentle build, white dog muzzle with white fur blaze between eyes, long soft floppy light-brown dog ears hanging down (never pointed or upright), four-fingered furry paw-hands; faded dusty-pink short-sleeved floral blouse, loose black trousers, simple brown slippers; soft, warm Southern Vietnamese female voice.
 ```
 
-### Nở — con gái 6 tuổi
-
-Cún con lông kem có mảng vàng rơm, **mảng vàng quanh mắt phải**, má phúng phính, mắt nâu tròn to, hai bím tóc ngắn buộc len đỏ. Cao ngang thắt lưng Mit.
-Giọng bé gái trong trẻo, lanh lảnh.
-
-**Trang phục A** (Tập 1, 2, 5, 6, 8–15): áo bà ba hồng phấn, quần đùi đen, chân đất.
+### Nở — con gái 6 tuổi (`@Nở`, `media_id = 43579677-48b3-4d74-88e9-61b88aa07dd3`)
 
 FULL LOCK
 ```text
-@Nở = Nở (their daughter, 6 years old): small anthropomorphic native-dog puppy standing upright on two legs, chubby round cheeks, cream fur with golden-tan patches including a tan patch around her right eye, big round shiny brown eyes, tiny black nose, two short head-fur pigtails tied with red yarn, paw-hands with four fingers. She is only waist-high to Mit. Outfit A: pale-pink áo bà ba shirt, black shorts, barefoot. Voice: high, bright, cheerful Southern Vietnamese little-girl voice, 6 years old.
+@Nở = Nở (their daughter, 6 years old, 100% exact match to @Nở reference image): adorable small bipedal anthropomorphic female puppy (chó con dễ thương) standing and walking upright on two legs, only waist-high to Mit; small chubby childlike puppy body, soft cream fur with warm light-brown patches on her head and soft floppy light-brown puppy ears hanging down naturally on both sides (never pointed or upright, no pigtails), cute small white puppy muzzle, chubby round furry cheeks, big round sparkling dark-brown puppy eyes, tiny black dog nose, furry paw-hands with exactly four fingers, sweet puppy smile. Outfit (locked to reference): faded light-yellow short-sleeved blouse with tiny floral patterns (áo vàng nhạt in hoa nhỏ), calf-length dark-brown skirt (váy nâu sẫm), small brown sandals. Voice: high, bright, cheerful Southern Vietnamese little-girl voice, 6 years old.
 ```
+
 SHORT LOCK
 ```text
-@Nở = Nở: small cream puppy with golden-tan patches, tan patch around her right eye, two short pigtails tied with red yarn; pale-pink áo bà ba, black shorts, barefoot; high, bright little-girl voice.
+@Nở = Nở (100% exact match to @Nở reference): adorable small bipedal cream-and-light-brown female puppy standing upright on two legs (waist-high to Mit), chubby puppy cheeks, white puppy muzzle, soft floppy light-brown puppy ears hanging down (never pointed or upright), big round sparkling dark-brown puppy eyes, four-fingered furry paw-hands; faded light-yellow short-sleeved floral blouse, calf-length dark-brown skirt, small brown sandals; high, bright Southern Vietnamese little-girl voice.
 ```
 
-**Trang phục B — phú hộ** (Tập 3, 4): đầm vàng xếp bèo tay phồng, vớ trắng, giày đỏ.
+### Nhân vật phụ (đồng bộ tai cụp mềm & bàn tay 4 ngón)
 
-FULL LOCK
 ```text
-@Nở = Nở (their daughter, 6 years old): small anthropomorphic native-dog puppy standing upright on two legs, chubby round cheeks, cream fur with golden-tan patches including a tan patch around her right eye, big round shiny brown eyes, tiny black nose, two short head-fur pigtails tied with red yarn, paw-hands with four fingers. She is only waist-high to Mit. Outfit B (rich period): yellow frilly dress with puffed sleeves, white socks, small red shoes. Voice: high, bright, cheerful Southern Vietnamese little-girl voice, 6 years old.
-```
-SHORT LOCK
-```text
-@Nở = Nở: small cream puppy with golden-tan patches, tan patch around her right eye, two short pigtails tied with red yarn; yellow frilly dress, white socks, small red shoes; high, bright little-girl voice.
-```
+THE WATER BUFFALO: a real, non-anthropomorphic dark-grey Vietnamese water buffalo standing on four legs with long backward-curving horns, mud-coated lower legs, and calm sleepy eyes; it is a farm animal that never stands upright and never speaks.
 
-**Trang phục C — đồng phục đi học** (Tập 7): áo sơ mi trắng tay ngắn, quần đùi xanh đen, chân đất.
+TƯ MẬP (Mit's drinking acquaintance): bipedal anthropomorphic dog standing upright on two legs, short and portly with a round belly, white fur with large black spots, soft droopy jowls and soft floppy spotted dog ears hanging down, wearing a vintage 1970 patterned short-sleeved shirt and dark trousers, furry paw-hands with exactly four fingers. Voice: loud, booming, flattering Southern Vietnamese male voice.
 
-FULL LOCK
-```text
-@Nở = Nở (their daughter, 6 years old): small anthropomorphic native-dog puppy standing upright on two legs, chubby round cheeks, cream fur with golden-tan patches including a tan patch around her right eye, big round shiny brown eyes, tiny black nose, two short head-fur pigtails tied with red yarn, paw-hands with four fingers. She is only waist-high to Mit. School outfit: white short-sleeve button-up school shirt, navy-blue shorts, barefoot. Voice: high, bright, cheerful Southern Vietnamese little-girl voice, 6 years old.
-```
-SHORT LOCK
-```text
-@Nở = Nở: small cream puppy with golden-tan patches, tan patch around her right eye, two short pigtails tied with red yarn; white short-sleeve school shirt, navy-blue shorts, barefoot; high, bright little-girl voice.
-```
+SÁU ỐM (Mit's drinking acquaintance): bipedal anthropomorphic dog standing upright on two legs, tall and lanky, grey fur, narrow muzzle, sly half-closed eyes, soft floppy grey dog ears hanging down, wearing a green collared shirt and brown trousers, furry paw-hands with exactly four fingers. Voice: nasal, sly, sweet-talking Southern Vietnamese male voice.
 
-### Nhân vật phụ
+CHỦ NỢ (the village creditor): bipedal anthropomorphic bulldog-type dog standing upright on two legs, stocky build, dark-brindle fur, heavy jowls, soft floppy brindle ears hanging down, wearing a dark-grey vintage suit and black fedora hat, holding a blank-covered ledger book under his left arm, furry paw-hands with exactly four fingers. Voice: deep, gruff Southern Vietnamese male voice.
 
-Mỗi nhân vật phụ chỉ có **một khóa**, dùng nguyên văn ở mọi clip.
+CHÚ NĂM (the durian wharf boss): bipedal anthropomorphic dog standing upright on two legs, burly build, chocolate-brown fur, grey-tipped muzzle, kind wrinkled eyes, soft floppy chocolate-brown ears hanging down under a frayed straw hat, wearing a sleeveless white undershirt and khaki shorts with a small cloth money pouch at his waist, furry paw-hands with exactly four fingers. Voice: booming, warm, kind Southern Vietnamese male voice.
 
-**Con trâu** (Tập 2): trâu thật, không nhân hóa, không đứng hai chân, không nói.
-```text
-THE WATER BUFFALO: a real, non-anthropomorphic dark-grey water buffalo on four legs, long backward-curving horns, mud-caked legs, calm sleepy eyes; it never stands upright and never talks.
-```
+CÔ GIÁO HAI (the village teacher): gentle older bipedal anthropomorphic dog standing upright on two legs, silver-white fur, soft floppy silver-white ears hanging down, round wire-rimmed glasses, wearing a traditional plain white áo dài over black trousers, furry paw-hands with exactly four fingers. Voice: calm, gentle Southern Vietnamese female voice.
 
-**Tư Mập** (Tập 4, 5): bạn nhậu thấp, bụng phệ, lông trắng đốm đen, áo đỏ in hoa vàng. Giọng ồm, hay nịnh.
-```text
-TƯ MẬP (Mit's drinking buddy): anthropomorphic dog standing upright on two legs, short and very fat with a round belly, white fur with large black spots, droopy jowls, flashy red shirt with a big yellow flower print unbuttoned at the top, black trousers, a cheap gold ring, paw-hands with four fingers. Voice: loud, booming, flattering male voice.
-```
-
-**Sáu Ốm** (Tập 4, 5): bạn nhậu cao gầy, lông xám, mắt lim dim gian xảo, áo xanh cổ nhọn, quần ống loe. Giọng mũi, ngọt xớt.
-```text
-SÁU ỐM (Mit's drinking buddy): anthropomorphic dog standing upright on two legs, very tall and skinny, grey fur, long narrow face, sly half-closed eyes, shiny green shirt with a wide pointed collar, brown flared trousers, paw-hands with four fingers. Voice: nasal, sly, sweet-talking male voice.
-```
-
-**Chủ nợ** (Tập 5): dáng bulldog, lông vằn nâu sẫm, vest xám chật, mũ phớt đen, kẹp sổ nợ, ngậm tăm. Giọng trầm, cộc lốc.
-```text
-CHỦ NỢ (the debt collector): anthropomorphic dog standing upright on two legs, stocky bulldog build, dark-brindle fur, heavy jowls, permanent frown, too-tight dark-grey Western suit, black fedora hat, a thick ledger book with a blank cover under one arm, a toothpick in his mouth, paw-hands with four fingers. Voice: deep, gruff male voice.
-```
-
-**Chú Năm — chủ vựa sầu riêng** (Tập 6): to con, lông nâu sô-cô-la, mõm điểm bạc, nón rơm rách vành, áo ba lỗ, quần kaki. Giọng to nhưng hiền.
-```text
-CHÚ NĂM (the durian wharf boss): anthropomorphic dog standing upright on two legs, big and burly, chocolate-brown fur, grey-tipped muzzle, kind wrinkled eyes, wide frayed straw hat, sleeveless white undershirt, khaki shorts, a small cloth money pouch on his belt, paw-hands with four fingers. Voice: booming but kind Southern Vietnamese male voice.
-```
-
-**Cô giáo Hai** (Tập 7): chó lớn tuổi hiền hậu, lông trắng bạc, kính gọng tròn, áo dài trắng, cầm phấn. Giọng chậm, dịu dàng.
-```text
-CÔ GIÁO HAI (the village teacher): gentle older anthropomorphic dog standing upright on two legs, silver-white fur, soft drooping ears, round wire-rimmed glasses, white áo dài, black trousers, a stick of white chalk in one paw, paw-hands with four fingers. Voice: calm, kind Southern Vietnamese female voice.
-```
-
-**Bà bán vé số** (Tập 10): bà cụ nhỏ người, lưng hơi còng, lông xám bạc, mắt hiền nhiều nếp nhăn, nón lá cũ, áo bà ba nâu sẫm vá khuỷu tay, túi vải đeo vai, tay cầm xấp vé số in mờ không đọc được. Giọng khàn, hiền từ.
-```text
-BÀ BÁN VÉ SỐ (the elderly lottery-ticket seller): gentle elderly anthropomorphic dog standing upright on two legs, small and slightly stooped, soft grey-white fur, droopy ears, kind wrinkled eyes and a warm smile, a worn conical nón lá, a faded dark-brown áo bà ba with a patched elbow, black trousers, a cloth bag slung over one shoulder, a small fan of pastel lottery tickets with blank, unreadable print in one paw, paw-hands with four fingers. Voice: kind, raspy elderly Southern Vietnamese female voice.
+BÀ BÁN VÉ SỐ (the elderly village vendor): gentle elderly bipedal anthropomorphic dog standing upright on two legs, small and slightly stooped, soft grey-white fur, soft floppy grey-white ears hanging down, kind wrinkled eyes, wearing a faded dark-brown áo bà ba with a patched elbow and black trousers, a cloth shoulder bag, furry paw-hands with exactly four fingers. Voice: kind, raspy elderly Southern Vietnamese female voice.
 ```
 
 ---
 
-## 2. Bối cảnh cố định
+## 2. Bối cảnh cố định (`[SETTING]`)
 
-Dán nguyên văn vào mục `[SETTING]`. Dòng `Time: ...` (giờ, ánh sáng, đạo cụ riêng của cảnh) đã được viết sẵn ngay dưới trong từng prompt.
-
-**Nhà tre — trong nhà** (Tập 1, 5, 7, 9, 10, 11, 14, 15)
+**Nhà tre — trong nhà**
 ```text
-INSIDE THE BAMBOO HUT: a small one-room hut in the 1970 Mekong Delta with woven bamboo walls whose thin gaps let in stripes of light, a nipa-palm thatch roof on bamboo rafters, a packed dirt floor, a low bamboo bed with a woven straw mat, a small low wooden table beside the bed, a kerosene lamp with a glass chimney, a large brown clay water jar by the door, a wood-fire clay stove of three clay stones with a blackened pot in the corner; poor but neat and tidy.
+INSIDE THE BAMBOO HUT: a small one-room rural hut in the 1970 Mekong Delta with woven bamboo walls whose thin gaps let in soft stripes of natural light, a nipa-palm thatch roof on bamboo rafters, a swept packed-dirt floor, a low bamboo bed (chõng tre) with a woven sedge mat, a small low wooden table beside the bed, a vintage glass-chimney kerosene lamp, a large brown glazed clay water jar (lu nước) by the door, and a three-stone wood-fire clay stove (ông táo đất nung) with a blackened pot in the corner; humble, rustic, and tidy.
 ```
 
-**Nhà tre — sân trước** (Tập 2, 6, 12, 13, 15)
+**Nhà tre — sân trước**
 ```text
-FRONT YARD OF THE BAMBOO HUT: a swept dirt yard in front of the small bamboo hut with its nipa-palm thatch roof and bamboo door, a large brown clay water jar beside the door, a narrow brown canal along the yard with a small wooden xuồng ba lá boat tied to a post, tall coconut palms and nipa palms leaning over the water.
+FRONT YARD OF THE BAMBOO HUT: a cleanly swept packed-dirt courtyard in front of the small woven-bamboo hut with its nipa-palm thatch roof and bamboo door, a large brown clay water jar beside the doorway, a narrow brown Mekong Delta canal along the edge of the yard with a small wooden three-plank boat (xuồng ba lá) tied to a bamboo post, and tall coconut palms and water-coconut palms (dừa nước) leaning over the calm water.
 ```
 
-**Ruộng lúa** (Tập 2)
+**Ruộng lúa**
 ```text
-THE RICE PADDY: a flooded rice paddy near the family's hut, shallow muddy water reflecting the sky, freshly plowed furrows, low earthen dikes, a distant line of coconut palms, thin mist over the water, a simple wooden plow with a curved handle hitched to the water buffalo.
+THE RICE PADDY: a shallow flooded rice field near the family's bamboo hut in the 1970 Mekong Delta, glossy brown mud and shallow water reflecting the morning sky, freshly plowed earthen furrows, low grassy dikes (bờ mẫu), a distant line of coconut palms in soft morning mist, and a traditional curved wooden plow hitched to the water buffalo.
 ```
 
-**Biệt thự phú hộ** (Tập 3, 4, 5)
+**Biệt thự phú hộ**
 ```text
-THE RICH VILLA: a two-story pale-yellow French-colonial villa with a red clay-tile roof, green wooden shutters and an arched veranda hung with red paper lanterns; a swept front yard with potted bonsai along the steps and a gleaming red Honda 67 motorbike; inside, dark carved wooden furniture inlaid with mother-of-pearl, a polished patterned tile floor, tall shuttered windows and a wind-up gramophone with a brass horn on a carved side table.
+THE RICH VILLA: a two-story pale-yellow 1970 Southern Vietnamese French-colonial country villa with a weathered red clay-tile roof, green wooden louver shutters, and a wide arched veranda hung with warm paper lanterns; a swept courtyard with potted bonsai trees along the steps and a vintage red 1970 Honda 67 motorbike; inside the open parlor, dark polished wood furniture with mother-of-pearl inlay, patterned cement floor tiles (gạch bông), and a brass-horn wind-up gramophone on a carved side table.
 ```
 
-**Bến ghe sầu riêng** (Tập 6)
+**Bến ghe sầu riêng**
 ```text
-THE DURIAN WHARF: a riverside wharf on a wide brown river with a weathered wooden plank dock, long wooden cargo boats piled high with spiky green durians, bamboo baskets and wooden shoulder poles, pyramids of durians stacked on the dock, an open tin-roof shed for shade and a lush durian orchard on the bank behind.
+THE DURIAN WHARF: a bustling 1970 Cái Mơn riverside wharf on a wide brown Mekong river with a weathered wooden plank dock, long wooden cargo sampans piled with spiky green durians, woven bamboo baskets and flexible bamboo carrying poles (đòn gánh tre), neat pyramids of durians stacked under a corrugated tin shade roof, and lush durian trees along the riverbank.
 ```
 
-**Trường làng** (Tập 7)
+**Trường làng**
 ```text
-THE VILLAGE SCHOOL: a small single-story schoolhouse with a red clay-tile roof, whitewashed walls and open wooden window shutters, a big shady tree in the dirt yard; inside, rows of simple wooden desks and benches, a blank black chalkboard with nothing written on it, sunlight slanting through the windows with floating dust motes.
+THE VILLAGE SCHOOL: a small single-story 1970 rural Vietnamese village schoolhouse with a red clay-tile roof, aged whitewashed brick walls, and open wooden window shutters looking onto a sunlit dirt courtyard shaded by an old tropical almond tree (cây bàng); inside the classroom, rows of simple weathered wooden desks and benches and a blank matte-black wooden chalkboard with no text or letters.
 ```
 
-**Bờ kênh hoa dại** (Tập 8, 10, 13)
+**Bờ kênh hoa dại**
 ```text
-THE WILDFLOWER CANAL BANK: a grassy canal bank near the family's bamboo hut, purple wild mua flowers (Melastoma) and small yellow wild daisies in tall grass, clusters of purple water hyacinth floating along the canal edge, coconut palms along the water, the small thatched bamboo hut visible farther down the bank.
+THE WILDFLOWER CANAL BANK: a sunlit grassy canal bank near the family's bamboo hut in the 1970 Mekong Delta, dotted with purple wild mua flowers (Melastoma) and tiny yellow wild daisies in soft green grass, clusters of floating water hyacinth (lục bình) along the calm brown water's edge, swaying coconut palms, and the family's thatched bamboo hut visible down the dirt footpath.
 ```
 
 ---
 
-## 3. Khóa phong cách
+## 3. Khóa phong cách & Chuyển động (`[FORMAT]` & Continuity Header)
 
-Khối `[FORMAT]`, đặt ở đầu mọi prompt Clip 1:
+Khối `[FORMAT]`, đặt ở đầu mọi prompt Clip 1 (và các clip cắt sang cảnh/thời gian mới mở bằng Ingredients R2V):
 ```text
 [FORMAT]
-Vertical 9:16, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, soft global illumination, shallow depth of field, 24fps, cinematic color grade. Era and place: rural Mekong Delta, southern Vietnam, 1970. Warm nostalgic palette of honey gold, rice-paddy green and earth brown, subtle 35mm film grain. Every person in this world is an anthropomorphic dog who walks upright on two legs and has paw-hands with four fingers; no humans exist. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, ONE CONTINUOUS SHOT (no cuts, no camera teleports, no whip pans, no snap zooms), high-end stylized 3D animated feature film (Pixar/Disney-quality CGI), 24fps, soft global illumination, deep physically based material shaders, detailed tactile fur, shallow depth of field, warm nostalgic color grade (honey gold, rice-paddy green, warm earth brown) with subtle 35mm film grain, no excessive bloom, no lens flare, no camera shake. Era and place: rural Mekong Delta (Cái Mơn – Bến Tre), southern Vietnam, 1970. Every character in this world is a bipedal anthropomorphic 3D dog standing and walking upright on two legs with furry paw-hands having exactly four fingers and soft floppy ears hanging down; no humans and no four-legged dogs exist. Character animation uses natural anticipation, follow-through, believable weight transfer, natural easing, and subtle secondary motion in the soft floppy ears, fur, and clothing—never stiff, robotic, game-engine-like, or plastic. Facial expressions are conveyed smoothly through eyes, eyebrows, muzzle, soft floppy ears, and body posture without deforming facial structure while speaking. Spoken dialogue in Vietnamese with a natural Southern Vietnamese (Mekong Delta) accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Never flash or cut to an attached character reference turnaround sheet or studio backdrop. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
-Câu mở đầu mọi prompt từ Clip 2 đến clip cuối (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend; clip mở bằng Ingredients thì dùng [FORMAT]):
+Khối mở đầu cho các clip nối tiếp liên tục (Seamless Frame Chaining):
 ```text
-Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, exact same outfits and accessories, same location, same props in their exact positions and counts, same warm lighting and color grade. Flawless physical continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, ONE CONTINUOUS SHOT (no mid-clip cuts, no camera teleports, no whip pans, no snap zooms), high-end stylized 3D animated feature film (Pixar/Disney-quality CGI), 24fps, soft global illumination, deep material shaders, detailed tactile fur. Every character stands and walks upright on two legs with four-fingered furry paw-hands and soft floppy ears hanging down, animated with natural anticipation, follow-through, secondary ear/fur/cloth motion, and believable weight transfer. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern Vietnamese accent and smooth, non-deforming lip-sync, never shown as text. Never flash or cut to a standalone character reference sheet. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
-> Câu mở đầu dùng được cho cả Save frame → Frames lẫn Extend: dán nguyên văn, không cần sửa (xem FLOW_GUIDE mục 1).
-
----
-
-## 4. Ảnh tham chiếu nhân vật
-
-Làm **một lần duy nhất trước khi dựng tập 1**, dùng cho cả series.
-
-1. Tạo ảnh bằng công cụ tạo ảnh trong Flow (Nano Banana / Imagen), tỉ lệ **16:9** cho bảng 4 góc nhìn.
-2. Mỗi prompt tạo vài ảnh, chọn ảnh đúng mô tả nhất. Soi kỹ **tai trái gập của Mit**, **mảng vàng quanh mắt phải của Nở** và **trâm gỗ của Đú**.
-3. Lưu theo tên trong bảng dưới. Đính kèm ở Clip 1 của mỗi tập.
-4. Nếu Flow đọc bảng 4 góc kém khi làm tham chiếu video, cắt riêng góc chính diện hoặc góc 3/4 để đính kèm.
-5. Nếu Flow giới hạn số ảnh đính kèm, ưu tiên nhân vật có mặt lâu nhất trong clip.
-
-| Tên ảnh | Nhân vật | Dùng ở tập |
-| ------- | -------- | ---------- |
-| `REF_MIT_A` | Mit — trang phục A | 1, 2, 5–15 |
-| `REF_MIT_B` | Mit — trang phục B | 3, 4, 10 (cảnh mơ, không bắt buộc) |
-| `REF_DU_A` | Đú — trang phục A | 1, 2, 5–15 |
-| `REF_DU_B` | Đú — trang phục B | 3, 4 |
-| `REF_NO_A` | Nở — trang phục A | 1, 2, 5, 6, 8–15 |
-| `REF_NO_B` | Nở — trang phục B | 3, 4 |
-| `REF_NO_C` | Nở — đồng phục | 7 |
-| `REF_LINEUP` | Cả nhà, để so tỉ lệ chiều cao | Dùng để kiểm tra, không bắt buộc đính kèm |
-| `REF_TU_MAP` | Tư Mập | 4, 5 |
-| `REF_SAU_OM` | Sáu Ốm | 4, 5 |
-| `REF_CHU_NO` | Chủ nợ | 5 |
-| `REF_CHU_NAM` | Chú Năm | 6 |
-| `REF_CO_GIAO` | Cô giáo Hai | 7 |
-| `REF_BA_VE_SO` | Bà bán vé số | 10 |
-
-**Ảnh sản phẩm** (Tập 7, 9–13, 15): chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm. Lưu thành `SP_CAP` (cặp), `SP_TAP` (tập vở), `SP_BUT` (bút), `SP_BUTMAU` (hộp bút màu), `SP_CAP_SACH` (cặp mới ở Tập 11), `SP_SACHTRUYEN` (sách truyện tranh) và đính kèm ở clip sản phẩm lên hình lần đầu (thường là Clip 1). Nếu clip đó làm bằng Frames mà Flow không cho đính ảnh, cho sản phẩm có sẵn trong khung cuối của clip trước đã đính ảnh, hoặc mở clip đó bằng Ingredients. Nên chọn mẫu màu trơn, ít họa tiết để hợp bối cảnh 1970. Với sách truyện, che hoặc xóa tựa và mọi chữ trên bìa trước khi tải ảnh lên, để bìa chỉ còn tranh.
-
-**REF_MIT_A**
+Khối `[AVOID]` chuẩn:
 ```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. Outfit A: faded earth-brown áo bà ba shirt, black trousers rolled up to the knees, black-and-white checkered khăn rằn scarf knotted around the neck, barefoot, a conical nón lá hat when outdoors. Shown without the hat so both ears, including the folded LEFT ear tip, are clearly visible. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_MIT_B**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. Outfit B (rich period): white silk button-up shirt with sleeves rolled to the elbows, beige pleated trousers, brown leather sandals, gold wristwatch, thick gold chain necklace, head fur slicked back and glossy, round gold-rimmed sunglasses. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_DU_A**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: anthropomorphic Vietnamese native dog standing upright on two legs, slim gentle build, creamy-white fur, soft light-tan ears that fold forward, soft round face, gentle almond-shaped brown eyes, pink-brown nose, head fur gathered in a low bun held by a plain wooden hairpin, paw-hands with four fingers. Outfit A: faded lavender áo bà ba shirt, black satin trousers, black-and-white checkered khăn rằn draped over one shoulder, barefoot. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_DU_B**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: anthropomorphic Vietnamese native dog standing upright on two legs, slim gentle build, creamy-white fur, soft light-tan ears that fold forward, soft round face, gentle almond-shaped brown eyes, pink-brown nose, head fur gathered in a low bun held by a plain wooden hairpin, paw-hands with four fingers. Outfit B (rich period): ivory silk áo dài embroidered with pink lotus flowers, white silk trousers, small pearl earrings, the same plain wooden hairpin in her bun. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_NO_A**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: small anthropomorphic native-dog puppy standing upright on two legs, chubby round cheeks, cream fur with golden-tan patches including a tan patch around her right eye, big round shiny brown eyes, tiny black nose, two short head-fur pigtails tied with red yarn, paw-hands with four fingers. Outfit A: pale-pink áo bà ba shirt, black shorts, barefoot. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_NO_B**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: small anthropomorphic native-dog puppy standing upright on two legs, chubby round cheeks, cream fur with golden-tan patches including a tan patch around her right eye, big round shiny brown eyes, tiny black nose, two short head-fur pigtails tied with red yarn, paw-hands with four fingers. Outfit B (rich period): yellow frilly dress with puffed sleeves, white socks, small red shoes. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_NO_C**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: small anthropomorphic native-dog puppy standing upright on two legs, chubby round cheeks, cream fur with golden-tan patches including a tan patch around her right eye, big round shiny brown eyes, tiny black nose, two short head-fur pigtails tied with red yarn, paw-hands with four fingers. School outfit: white short-sleeve button-up school shirt, navy-blue shorts, barefoot. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_LINEUP** (cả nhà đứng cạnh nhau)
-```text
-Height reference lineup for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. A family of three anthropomorphic dogs standing side by side on the same ground line, full body, front view, relaxed friendly expressions. Left, the father: anthropomorphic Vietnamese native dog (chó cỏ) standing upright on two legs, lean wiry build, short golden-tan fur, cream muzzle and cream chest, upright pointed ears with the LEFT ear tip folded down (signature detail), expressive dark-brown eyes, black nose, paw-hands with four fingers. Outfit A: faded earth-brown áo bà ba shirt, black trousers rolled up to the knees, black-and-white checkered khăn rằn scarf knotted around the neck, barefoot, a conical nón lá hat when outdoors. No hat. Middle, the 6-year-old daughter, only waist-high to her father: small anthropomorphic native-dog puppy standing upright on two legs, chubby round cheeks, cream fur with golden-tan patches including a tan patch around her right eye, big round shiny brown eyes, tiny black nose, two short head-fur pigtails tied with red yarn, paw-hands with four fingers. Outfit A: pale-pink áo bà ba shirt, black shorts, barefoot. Right, the mother, about a head shorter than the father: anthropomorphic Vietnamese native dog standing upright on two legs, slim gentle build, creamy-white fur, soft light-tan ears that fold forward, soft round face, gentle almond-shaped brown eyes, pink-brown nose, head fur gathered in a low bun held by a plain wooden hairpin, paw-hands with four fingers. Outfit A: faded lavender áo bà ba shirt, black satin trousers, black-and-white checkered khăn rằn draped over one shoulder, barefoot. Plain light-grey seamless background, soft even studio lighting, no text, no labels, no height chart, no numbers, no watermark.
-```
-
-**REF_TU_MAP**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: anthropomorphic dog standing upright on two legs, short and very fat with a round belly, white fur with large black spots, droopy jowls, flashy red shirt with a big yellow flower print unbuttoned at the top, black trousers, a cheap gold ring, paw-hands with four fingers. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_SAU_OM**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: anthropomorphic dog standing upright on two legs, very tall and skinny, grey fur, long narrow face, sly half-closed eyes, shiny green shirt with a wide pointed collar, brown flared trousers, paw-hands with four fingers. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_CHU_NO**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: anthropomorphic dog standing upright on two legs, stocky bulldog build, dark-brindle fur, heavy jowls, permanent frown, too-tight dark-grey Western suit, black fedora hat, a thick ledger book with a blank cover under one arm, a toothpick in his mouth, paw-hands with four fingers. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_CHU_NAM**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: anthropomorphic dog standing upright on two legs, big and burly, chocolate-brown fur, grey-tipped muzzle, kind wrinkled eyes, wide frayed straw hat, sleeveless white undershirt, khaki shorts, a small cloth money pouch on his belt, paw-hands with four fingers. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_CO_GIAO**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: gentle older anthropomorphic dog standing upright on two legs, silver-white fur, soft drooping ears, round wire-rimmed glasses, white áo dài, black trousers, a stick of white chalk in one paw, paw-hands with four fingers. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
-```
-
-**REF_BA_VE_SO**
-```text
-Character turnaround sheet for a 3D animated film, high-end Pixar/Disney-quality stylized CGI. The same single character shown four times side by side at the same scale: front view, three-quarter view, side profile and back view. Full body, neutral standing pose, arms relaxed at the sides, calm friendly expression. Character: gentle elderly anthropomorphic dog standing upright on two legs, small and slightly stooped, soft grey-white fur, droopy ears, kind wrinkled eyes and a warm smile, a worn conical nón lá, a faded dark-brown áo bà ba with a patched elbow, black trousers, a cloth bag slung over one shoulder, a small fan of pastel lottery tickets with blank, unreadable print in one paw, paw-hands with four fingers.. Plain light-grey seamless background, soft even studio lighting, no props, no text, no labels, no numbers, no watermark.
+humans, human faces, human children, human hands, four-legged non-anthropomorphic dogs, pointed upright ears, ear tips folded up, pigtails, hair buns, hairpins, game-engine stiffness, robotic movement, plastic skin or fur, excessive bloom, harsh lens flare, shaky camera, mid-clip hard cuts, whip pans, snap zooms, deformed muzzles, fused fingers, extra fingers (must be exactly four fingers per paw), props appearing or disappearing, hands clipping through objects, readable text, letters, numbers, logos, watermarks, subtitles, modern plastic or electric objects.
 ```
 
 ---

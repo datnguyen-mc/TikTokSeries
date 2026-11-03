@@ -1,9 +1,10 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: DIALOGUE | Adaptive voice speed: 1.5x (150%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: DIALOGUE | Single target voice speed: 1.15x (115%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.25x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile [VOICE_LOCK_SON — Fixed 45-year-old native Southern Vietnamese (Saigon) voice profile, strictly locked across all 360 clips]: Deep, composed 45-year-old Southern Vietnamese (Saigon) male baritone, grounded natural conversational cadence, quiet inner gravity, relaxed articulation, organic breath control and restrained emotional warmth without theatrical exaggeration.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward.
+Character reference images are for identity locking only — NEVER display, flash or insert the static character portrait card or studio backdrop at 0.0s; start directly in the live-action scene.
 
 
 [TIMELINE AND LOCATION]
@@ -20,6 +21,12 @@ Make incoming threat audible before the visible arena fills with the two sides.
 
 [ACTION — 0–10s, one clear primary action in a continuous take]
 0.0–2.5s: Headlights enter their respective roads toward the junction, neither vehicle parking yet. 2.5–6.5s: Black and white headlights appear from different landward roads, timed naturally with the spoken delivery and active eyeline. 6.5–10.0s: Follow through with natural body weight and breathing (let sound create expectation, headlights answer it, and parking remain entirely for the next scene), holding into both headlights approaching the junction, neither car stopped yet through 10.0s without freezing.
+[SECOND-BY-SECOND MOVEMENT & HAND-PROP MANIPULATION TIMELINE (0.0s → 10.0s | Giây 1 đến Giây 10)]:
+- 0.0s–2.0s (Giây 1–2 | Start-Frame Posture & Initial Action): Start immediately at 0.0s from START FRAME (Empty arrival roads beyond Sơn, two engines heard off screen; zero portrait flash) and initiate opening movement: Headlights enter their respective roads toward the junction, neither vehicle parking yet. Hands grip carried props with 5 natural fingers and real weight.
+- 2.0s–4.0s (Giây 3–4 | Hand/Body Transition & Speech Onset): Complete opening movement at 2.5s and transition smoothly into core physical action: Black and white headlights appear from different landward roads, timed naturally with the spoken delivery and active eyeline. Active voice & mouth control: 0.3–7.4s: Thành (@Phó Thành) via VOICE_LOCK_THANH at 1.15x (mouth closed (off-screen/VO/device)).
+- 4.0s–6.0s (Giây 5–6 | Core Physical & Prop Manipulation): Execute central hand/prop and body mechanics (Black and white headlights appear from different landward roads, timed naturally with the spoken delivery and active eyeline) with realistic weight, inertia, and continuous torso/hand follow-through; never freeze physical motion to speak, and listeners keep mouths closed.
+- 6.0s–8.0s (Giây 7–8 | Secondary Action & Eyeline Transition): Transition at 6.5s into closing movement (Follow through with natural body weight and breathing (let sound create expectation, headlights answer it, and parking remain entirely for the next scene), holding into both headlights approaching the junction, neither car stopped yet through 10.0s without freezing) with organic breath control and accurate 180-degree eye tracking.
+- 8.0s–10.0s (Giây 9–10 | Final Manipulation Settle & 10.0s End-Frame Lock): Complete closing action (Follow through with natural body weight and breathing (let sound create expectation, headlights answer it, and parking remain entirely for the next scene), holding into both headlights approaching the junction, neither car stopped yet through 10.0s without freezing) and lock final posture, prop placement, and eyeline at 10.0s to match END FRAME (Both headlights approaching the junction, neither car stopped yet).
 Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
 Action rhythm: Let sound create expectation, headlights answer it, and parking remain entirely for the next scene.
 
@@ -49,40 +56,25 @@ Last daylight still defines concrete edges while headlights gain contrast, not f
 [BODY, MOUTH AND FACE CONSISTENCY]
 Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
 
-[GLOBAL VOICE SPEED RULE — 1.25x]
-All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
-All spoken Vietnamese dialogue must be delivered at
-1.25x normal conversational speaking speed (125%).
-Adaptive Shot Voice Speed (DIALOGUE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
-
-Maintain a natural Southern Vietnamese accent,
-clear articulation, expressive intonation, and
-accurate syllable-level lip synchronization.
-
-Speech must sound naturally fast and energetic,
-not artificially time-stretched or pitch-shifted.
-
-Preserve each character's original voice identity,
-pitch, emotional tone, and vocal personality.
-
-Do not rush, swallow syllables, clip words,
-or introduce unnatural pauses.
-
-Complete dialogue within its assigned time window.
-Continue natural breathing, facial expressions,
-and physical actions after the line finishes.
+[VOICE ACTING & ADAPTIVE SPEECH DIRECTION]
+Locked Character Voice ID(s) for this shot: VOICE_LOCK_THANH (Thành @Phó Thành: Earnest, clear young Southern Vietnamese male tenor, attentive and respectful cadence, crisp operational diction — fixed native Saigon voice). Keep each character's pre-defined voice identity, pitch register, timbre and native Saigon accent 100% consistent across all 360 clips.
+Single Target Voice Speed (DIALOGUE): 1.15x (115%) — Argument / Urgency / Confrontation cadence (1.15x / 115%, range 1.10x–1.20x) — firm, pressured, emotionally urgent Southern Vietnamese delivery.
+Voice direction: "Natural native Southern Vietnamese conversational speech, authentic Saigon cadence, subtle human vocal imperfections, emotionally motivated phrasing, organic breath control, natural pitch variation, relaxed articulation and believable live-action film acting. Never sound like a narrator, text-to-speech engine, audiobook reader or commercial voice-over."
+Speech direction: "Dialogue should flow as spontaneous human speech, with natural breath groups, subtle hesitation only when emotionally justified, realistic sentence stress, varied intonation and a believable conversational rhythm. Never deliver dialogue as a perfectly uniform sequence of words."
+Emotional performance purpose: Căng thẳng / Tranh luận / Khẩn cấp (Argument / Urgency): firm grounded voice, deliberate word stress, slightly quicker anxious or confrontational rhythm without nonstop shouting. Line-specific vocal tone: giọng nam trẻ báo động khẩn trương qua bộ đàm. Physical acting link: Sơn stays where he chose to stand, attention dividing without frantic head movement.
+Cinematic lip-sync & breathing discipline: Complete dialogue within its assigned time window with organic breath control, natural jaw/lip/cheek articulation and realistic micro-expressions; continue natural breathing and physical action after the line finishes.
 
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.5x (150%) [fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
-Lip-Sync & Voice Control: Speech heard through the established communication device (qua thiết bị) at adaptive 1.5x (150%) speaking speed (baseline 1.25x conversational speaking speed / 125%); no caller body added to this shot.
-Thành, qua thiết bị [0.3–7.4s | giọng nam trẻ báo động khẩn trương qua bộ đàm]: Chú ý toàn đội! Đèn pha chiếc xe đen từ hướng đông và chiếc xe trắng từ hướng tây đang đồng loạt tiến vào bãi cảng cá!
+Delivery & Timing: 0.3–7.4s, one natural, emotionally grounded spoken line (27 Vietnamese words — calibrated for natural breathing, emotional phrasing and single target speed 1.15x (115%) [Argument / Urgency / Confrontation cadence (1.15x / 115%, range 1.10x–1.20x) — firm, pressured, emotionally urgent Southern Vietnamese delivery]).
+Lip-Sync & Voice Control: Speech heard through the established communication device (qua thiết bị) at single target speed 1.15x (115%); no caller body added to this shot.
+Thành, qua thiết bị [0.3–7.4s | VOICE_LOCK_THANH | giọng nam trẻ báo động khẩn trương qua bộ đàm]: Chú ý toàn đội! Đèn pha chiếc xe đen từ hướng đông và chiếc xe trắng từ hướng tây đang đồng loạt tiến vào bãi cảng cá!
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [SOUND]
 Continuous ambience bed: boat ropes, small waves and engines only when visible.
 Foreground motivated sound: Two distinct but ordinary engines rise from their actual directions, without racing or tire squeals.
 Scene sound profile (DIALOGUE): Prioritize clean, forward-mixed Southern Vietnamese dialogue over a balanced, realistic coastal/interior ambience bed that never masks vocal clarity.
-Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Keep the two approaching engines into the arrivals. The next shot shows parking, not a repeated approach from the road.
+Audio & Vocal Mix Discipline: Keep spoken Southern Vietnamese dialogue clear, close and naturally grounded in the real acoustic space; never let rain, wind, boat engines, vehicles or room ambience drown out the voice; no artificial reverb, no robotic radio/narrator tone, and no unrequested background music score. Edit bridge: Keep the two approaching engines into the arrivals. The next shot shows parking, not a repeated approach from the road.
 
 [EDIT IN — do not render the previous shot again]
 Previous editorial shot: 39.5, ending with Sơn's gaze back toward the road, both hands visible.
@@ -97,4 +89,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 40.1: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech, robotic TTS/narrator delivery or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops at 0.0s or anywhere in the clip; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

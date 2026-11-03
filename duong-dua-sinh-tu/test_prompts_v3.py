@@ -109,8 +109,9 @@ class FilmContinuityTests(unittest.TestCase):
             text = film.render_prompt(
                 self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
             )
-            self.assertIn('[GLOBAL VOICE SPEED RULE — 1.25x]', text, c['id'])
-            self.assertIn('1.25x normal conversational speaking speed (125%)', text, c['id'])
+            self.assertIn('[VOICE ACTING & ADAPTIVE SPEECH DIRECTION]', text, c['id'])
+            self.assertIn('Natural native Southern Vietnamese conversational speech, authentic Saigon cadence', text, c['id'])
+            self.assertIn('Dialogue should flow as spontaneous human speech, with natural breath groups', text, c['id'])
             self.assertIn('In a single continuous shot', text, c['id'])
             self.assertIn('never flash or cut to an attached character reference portrait', text, c['id'])
             self.assertIn('150-degree' if c['camera'] == 'H' else '180-degree', text, c['id'])
@@ -405,7 +406,7 @@ class FilmContinuityTests(unittest.TestCase):
 
     def test_smart_voice_speed_scene_classification_and_priority_order(self):
         valid_cats = {'FIGHT_ACTION', 'VEHICLE_RACE', 'VEHICLE_CHASE', 'DIALOGUE', 'EMOTIONAL_DRAMA', 'ESTABLISHING', 'TRANSITION', 'OTHER'}
-        valid_speeds = {'1.0x', '1.25x', '1.5x', '2.0x'}
+        valid_speeds = {'0.95x', '1.00x', '1.05x', '1.15x', '1.20x', '1.25x'}
         seen_speeds = set()
         for i, c in enumerate(self.shots):
             cid = c['id']
@@ -417,7 +418,7 @@ class FilmContinuityTests(unittest.TestCase):
             text = film.render_prompt(
                 self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
             )
-            self.assertIn(f"Adaptive Shot Voice Speed ({cat}): {spd}", text, cid)
+            self.assertIn(f"Single Target Voice Speed ({cat}): {spd}", text, cid)
             self.assertEqual('[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]' in text, cat == 'FIGHT_ACTION', cid)
             if cat == 'FIGHT_ACTION':
                 self.assertIn('Attack → Defense → Contact/Reversal → Reaction → Recovery', text, cid)
@@ -429,7 +430,7 @@ class FilmContinuityTests(unittest.TestCase):
                 '[CAMERA]',
                 '[PROPS]',
                 '[BODY, MOUTH AND FACE STANDARD]',
-                '[GLOBAL VOICE SPEED RULE — 1.25x]',
+                '[VOICE ACTING & ADAPTIVE SPEECH DIRECTION]',
                 '[DIALOGUE]',
                 '[SOUND]',
                 '[CONTINUITY AT 0.0s — single uncut shot]',

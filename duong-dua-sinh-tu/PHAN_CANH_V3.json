@@ -471,7 +471,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 2,
@@ -541,7 +541,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 3,
@@ -561,7 +561,7 @@
             {
               "speaker": "VERNI",
               "mode": "off",
-              "text": "Ánh đèn gầm xanh lá dưới mặt nhựa, đúng là tụi tay lái đường đêm rồi.",
+              "text": "Ánh đèn gầm xanh lá dưới mặt nhựa, đúng là đám tay lái đường đêm rồi.",
               "at": [
                 2.8,
                 7.1
@@ -607,7 +607,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -677,7 +677,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -699,7 +699,7 @@
             {
               "speaker": "VERNI",
               "mode": "on",
-              "text": "Khóa kín cả làn vượt lẫn làn trong, tụi nó tính vây chặt chuyến hàng này.",
+              "text": "Khóa kín cả làn vượt lẫn làn trong, bọn chúng định vây chặt chuyến hàng này.",
               "at": [
                 2.8,
                 7.1
@@ -747,7 +747,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 6,
@@ -817,7 +817,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         }
       ]
     },
@@ -917,7 +917,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -992,7 +992,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -1014,7 +1014,7 @@
             {
               "speaker": "VERNI",
               "mode": "on",
-              "text": "Gã táo bạo kia, buông cái khung cửa xe tao ra trước khi trượt ngã!",
+              "text": "Thằng liều mạng kia, buông cái khung cửa xe tao ra coi chừng trượt ngã!",
               "at": [
                 2.8,
                 6.9
@@ -1065,7 +1065,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -1138,7 +1138,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -1160,7 +1160,7 @@
             {
               "speaker": "VERNI",
               "mode": "on",
-              "text": "Tụi mày chặn lấy chuyến hàng tâm huyết của tao, luật pháp không dung thứ đâu!",
+              "text": "Các người dám chặn lấy nguyên chuyến hàng của tôi à, cảnh sát không tha đâu!",
               "at": [
                 2.8,
                 7.1
@@ -1211,7 +1211,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -1285,7 +1285,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -1383,7 +1383,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 2,
@@ -1456,7 +1456,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 3,
@@ -1523,7 +1523,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -1595,7 +1595,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -1667,7 +1667,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 6,
@@ -1689,7 +1689,7 @@
             {
               "speaker": "CEVIN_H",
               "mode": "on",
-              "text": "Tao ghìm cứng đầu kéo ở làn giữa rồi, áp sát vô lấy hàng lẹ đi!",
+              "text": "Tao ghìm cứng đầu kéo ở làn giữa rồi, áp sát vào lấy hàng nhanh lên!",
               "at": [
                 2.8,
                 7.1
@@ -1739,7 +1739,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         }
       ]
     },
@@ -1836,7 +1836,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 2,
@@ -1908,7 +1908,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 3,
@@ -1980,7 +1980,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -2049,7 +2049,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -2121,7 +2121,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 6,
@@ -2195,7 +2195,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         }
       ]
     },
@@ -2293,7 +2293,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -2365,7 +2365,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 3,
@@ -2433,7 +2433,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -2454,7 +2454,7 @@
             {
               "speaker": "TOM",
               "mode": "on",
-              "text": "Ông canh giùm tôi đường dẫn nhiên liệu, đêm nay con xe này gánh kèo lớn.",
+              "text": "Ông canh giúp tôi đường dẫn nhiên liệu, đêm nay con xe này gánh kèo lớn.",
               "at": [
                 2.8,
                 7.1
@@ -2504,7 +2504,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 5,
@@ -2575,7 +2575,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 6,
@@ -2646,7 +2646,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         }
       ]
     },
@@ -2693,7 +2693,7 @@
             {
               "speaker": "TOM",
               "mode": "on",
-              "text": "Cho anh phần bánh mì cá ngừ cắt vỏ với ly đá lạnh như cũ nghen.",
+              "text": "Cho anh phần bánh mì cá ngừ cắt vỏ với cốc đá lạnh như cũ nhé.",
               "at": [
                 4.0,
                 8.2
@@ -2743,7 +2743,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 2,
@@ -2765,7 +2765,7 @@
             {
               "speaker": "AMI",
               "mode": "on",
-              "text": "Nói thiệt nghen, cá ngừ quán này dở ẹc mà trưa nào anh cũng ráng nuốt được.",
+              "text": "Nói thật nhé, cá ngừ quán này dở tệ mà trưa nào anh cũng cố nuốt được.",
               "at": [
                 2.8,
                 7.4
@@ -2815,7 +2815,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 3,
@@ -2834,7 +2834,7 @@
             {
               "speaker": "AMI",
               "mode": "off",
-              "text": "Bánh mì cắt vỏ của anh đây, ăn đi rồi khai thiệt coi tính mưu đồ gì.",
+              "text": "Bánh mì cắt vỏ của anh đây, ăn đi rồi khai thật xem đang tính mưu đồ gì.",
               "at": [
                 2.8,
                 7.4
@@ -2881,7 +2881,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -2953,7 +2953,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 5,
@@ -2975,7 +2975,7 @@
             {
               "speaker": "TOM",
               "mode": "on",
-              "text": "Bánh mì dở thiệt, nhưng đó là cái cớ duy nhất để mỗi ngày anh được gặp em.",
+              "text": "Bánh mì dở thật, nhưng đó là cái cớ duy nhất để mỗi ngày anh được gặp em.",
               "at": [
                 2.8,
                 7.7
@@ -3025,7 +3025,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 6,
@@ -3048,7 +3048,7 @@
             {
               "speaker": "AMI",
               "mode": "on",
-              "text": "Tiếng pô xe ngoài hiên là đội của Cevin đó, anh ngồi yên đừng chấp họ nghen.",
+              "text": "Tiếng pô xe ngoài hiên là đội của Cevin đấy, anh ngồi yên đừng chấp họ nhé.",
               "at": [
                 2.8,
                 7.4
@@ -3098,7 +3098,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         }
       ]
     },
@@ -3195,7 +3195,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 2,
@@ -3267,7 +3267,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 3,
@@ -3339,7 +3339,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 4,
@@ -3409,7 +3409,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 5,
@@ -3479,7 +3479,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 6,
@@ -3551,7 +3551,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         }
       ]
     },
@@ -3637,7 +3637,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 2,
@@ -3707,7 +3707,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 3,
@@ -3779,7 +3779,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -3851,7 +3851,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -3923,7 +3923,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 6,
@@ -3995,7 +3995,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         }
       ]
     },
@@ -4093,7 +4093,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -4164,7 +4164,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 3,
@@ -4230,7 +4230,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -4303,7 +4303,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 5,
@@ -4374,7 +4374,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 6,
@@ -4448,7 +4448,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -4545,7 +4545,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -4617,7 +4617,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 3,
@@ -4681,7 +4681,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -4753,7 +4753,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 5,
@@ -4825,7 +4825,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 6,
@@ -4895,7 +4895,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         }
       ]
     },
@@ -4985,7 +4985,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -5058,7 +5058,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 3,
@@ -5124,7 +5124,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -5197,7 +5197,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 5,
@@ -5268,7 +5268,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 6,
@@ -5341,7 +5341,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         }
       ]
     },
@@ -5430,7 +5430,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -5503,7 +5503,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 3,
@@ -5572,7 +5572,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -5644,7 +5644,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 5,
@@ -5715,7 +5715,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 6,
@@ -5787,7 +5787,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         }
       ]
     },
@@ -5880,7 +5880,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -5954,7 +5954,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -6023,7 +6023,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -6099,7 +6099,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -6174,7 +6174,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -6250,7 +6250,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -6339,7 +6339,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -6413,7 +6413,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -6486,7 +6486,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -6562,7 +6562,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -6638,7 +6638,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -6711,7 +6711,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -6799,7 +6799,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -6873,7 +6873,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -6941,7 +6941,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -7016,7 +7016,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -7089,7 +7089,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -7165,7 +7165,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -7254,7 +7254,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -7325,7 +7325,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -7346,7 +7346,7 @@
             {
               "speaker": "MICDO",
               "mode": "on",
-              "text": "Băng qua dãy hẻm kho bãi phía sau này, đừng để ánh đèn pha của tụi nó bắt kịp.",
+              "text": "Băng qua dãy hẻm kho bãi phía sau này, đừng để ánh đèn pha của bọn chúng bắt kịp.",
               "at": [
                 2.8,
                 7.9
@@ -7394,7 +7394,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -7415,7 +7415,7 @@
             {
               "speaker": "MICDO",
               "mode": "on",
-              "text": "Hai xe tuần tra vừa khóa cứng đầu hẻm trước mặt, tụi nó tính trước đường rút rồi.",
+              "text": "Hai xe tuần tra vừa khóa cứng đầu hẻm trước mặt, bọn chúng tính trước đường rút rồi.",
               "at": [
                 2.8,
                 7.7
@@ -7463,7 +7463,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -7484,7 +7484,7 @@
             {
               "speaker": "MICDO",
               "mode": "on",
-              "text": "Lối sau lưng cũng bị đèn chớp bịt kín, đêm nay tụi nó quyết dồn mình vào góc hẹp.",
+              "text": "Lối sau lưng cũng bị đèn chớp bịt kín, đêm nay bọn chúng quyết dồn mình vào góc hẹp.",
               "at": [
                 2.8,
                 7.9
@@ -7532,7 +7532,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -7603,7 +7603,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -7689,7 +7689,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -7759,7 +7759,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -7829,7 +7829,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -7899,7 +7899,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -7969,7 +7969,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -8039,7 +8039,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -8138,7 +8138,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 2,
@@ -8210,7 +8210,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 3,
@@ -8282,7 +8282,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -8356,7 +8356,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -8429,7 +8429,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 6,
@@ -8452,7 +8452,7 @@
             {
               "speaker": "CELA",
               "mode": "on",
-              "text": "Nửa đêm kéo xe bốc khói chạy xuyên qua bãi kho tụi tao là coi thường ai hả?",
+              "text": "Nửa đêm kéo xe bốc khói chạy xuyên qua bãi kho của bọn tao là coi thường ai hả?",
               "at": [
                 2.8,
                 7.7
@@ -8502,7 +8502,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         }
       ]
     },
@@ -8591,7 +8591,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -8662,7 +8662,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 3,
@@ -8733,7 +8733,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -8807,7 +8807,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -8880,7 +8880,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -8951,7 +8951,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -9035,7 +9035,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 2,
@@ -9103,7 +9103,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 3,
@@ -9171,7 +9171,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 4,
@@ -9239,7 +9239,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 5,
@@ -9307,7 +9307,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 6,
@@ -9375,7 +9375,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         }
       ]
     },
@@ -9457,7 +9457,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 2,
@@ -9523,7 +9523,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 3,
@@ -9589,7 +9589,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 4,
@@ -9655,7 +9655,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 5,
@@ -9721,7 +9721,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 6,
@@ -9742,7 +9742,7 @@
             {
               "speaker": "MICDO",
               "mode": "on",
-              "text": "Là người một nhà rồi đó, nhưng cậu vẫn còn nợ tao một con xe mười giây nghen!",
+              "text": "Là người một nhà rồi đấy, nhưng cậu vẫn còn nợ tôi một con xe mười giây nhé!",
               "at": [
                 2.8,
                 7.7
@@ -9789,7 +9789,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         }
       ]
     },
@@ -9879,7 +9879,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -9953,7 +9953,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 3,
@@ -10019,7 +10019,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -10093,7 +10093,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 5,
@@ -10168,7 +10168,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         },
         {
           "number": 6,
@@ -10243,7 +10243,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.05x"
         }
       ]
     },
@@ -10335,7 +10335,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 2,
@@ -10410,7 +10410,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 3,
@@ -10479,7 +10479,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -10554,7 +10554,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 5,
@@ -10629,7 +10629,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 6,
@@ -10705,7 +10705,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         }
       ]
     },
@@ -10793,7 +10793,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 2,
@@ -10865,7 +10865,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 3,
@@ -10931,7 +10931,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.25x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -11003,7 +11003,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 5,
@@ -11075,7 +11075,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 6,
@@ -11147,7 +11147,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         }
       ]
     },
@@ -11237,7 +11237,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -11308,7 +11308,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 3,
@@ -11379,7 +11379,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -11450,7 +11450,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 5,
@@ -11521,7 +11521,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 6,
@@ -11592,7 +11592,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         }
       ]
     },
@@ -11680,7 +11680,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -11750,7 +11750,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 3,
@@ -11772,7 +11772,7 @@
             {
               "speaker": "NYTRAN",
               "mode": "on",
-              "text": "Thì ra là lính mới của Micdo, chính tụi mày đã dẫn cảnh sát tới làm rùm beng nhà tao!",
+              "text": "Thì ra là lính mới của Micdo, chính các người đã dẫn cảnh sát tới làm náo loạn nhà tao!",
               "at": [
                 2.8,
                 8.2
@@ -11820,7 +11820,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 4,
@@ -11892,7 +11892,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 5,
@@ -11964,7 +11964,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 6,
@@ -12036,7 +12036,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         }
       ]
     },
@@ -12123,7 +12123,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -12194,7 +12194,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 3,
@@ -12260,7 +12260,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "TRANSITION",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 4,
@@ -12333,7 +12333,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 5,
@@ -12406,7 +12406,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 6,
@@ -12479,7 +12479,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         }
       ]
     },
@@ -12569,7 +12569,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 2,
@@ -12642,7 +12642,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 3,
@@ -12715,7 +12715,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -12788,7 +12788,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -12859,7 +12859,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 6,
@@ -12932,7 +12932,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.20x"
         }
       ]
     },
@@ -13022,7 +13022,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -13093,7 +13093,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -13161,7 +13161,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -13236,7 +13236,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -13308,7 +13308,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -13379,7 +13379,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -13468,7 +13468,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -13541,7 +13541,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -13614,7 +13614,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -13687,7 +13687,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -13760,7 +13760,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -13832,7 +13832,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -13920,7 +13920,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 2,
@@ -13993,7 +13993,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 3,
@@ -14065,7 +14065,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 4,
@@ -14138,7 +14138,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 5,
@@ -14211,7 +14211,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 6,
@@ -14283,7 +14283,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -14374,7 +14374,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -14447,7 +14447,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -14469,7 +14469,7 @@
             {
               "speaker": "VERNI",
               "mode": "on",
-              "text": "Tao đã đợi tụi mày suốt cả tuần nay rồi, đừng hòng bước chân vào buồng lái tao!",
+              "text": "Tôi đã đợi các người suốt cả tuần nay rồi, đừng hòng bước chân vào buồng lái của tôi!",
               "at": [
                 2.8,
                 7.7
@@ -14520,7 +14520,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -14594,7 +14594,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -14670,7 +14670,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 6,
@@ -14744,7 +14744,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -14831,7 +14831,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -14902,7 +14902,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -14975,7 +14975,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -15046,7 +15046,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -15121,7 +15121,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -15196,7 +15196,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -15286,7 +15286,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -15360,7 +15360,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -15429,7 +15429,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 4,
@@ -15505,7 +15505,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 5,
@@ -15581,7 +15581,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -15656,7 +15656,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -15746,7 +15746,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -15820,7 +15820,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 3,
@@ -15894,7 +15894,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 4,
@@ -15969,7 +15969,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 5,
@@ -16044,7 +16044,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 6,
@@ -16118,7 +16118,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         }
       ]
     },
@@ -16207,7 +16207,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -16280,7 +16280,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 3,
@@ -16353,7 +16353,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -16427,7 +16427,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -16449,7 +16449,7 @@
             {
               "speaker": "MICDO",
               "mode": "on",
-              "text": "Tránh xa mép đường ngay Seja, hai chiếc mô tô của tụi nó đang ép sát vào chỗ em!",
+              "text": "Tránh xa mép đường ngay Seja, hai chiếc mô tô của bọn chúng đang ép sát vào chỗ em!",
               "at": [
                 2.8,
                 7.9
@@ -16498,7 +16498,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "FIGHT_ACTION",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.20x"
         },
         {
           "number": 6,
@@ -16571,7 +16571,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         }
       ]
     },
@@ -16658,7 +16658,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "ESTABLISHING",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.00x"
         },
         {
           "number": 2,
@@ -16731,7 +16731,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 3,
@@ -16802,7 +16802,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "DIALOGUE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.15x"
         },
         {
           "number": 4,
@@ -16871,7 +16871,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -16942,7 +16942,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -17014,7 +17014,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -17105,7 +17105,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -17179,7 +17179,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -17247,7 +17247,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -17320,7 +17320,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -17394,7 +17394,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -17467,7 +17467,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -17555,7 +17555,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 2,
@@ -17627,7 +17627,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 3,
@@ -17699,7 +17699,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 4,
@@ -17769,7 +17769,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 5,
@@ -17841,7 +17841,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_RACE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -17913,7 +17913,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         }
       ]
     },
@@ -18003,7 +18003,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 2,
@@ -18077,7 +18077,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.25x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 3,
@@ -18151,7 +18151,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 4,
@@ -18225,7 +18225,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "EMOTIONAL_DRAMA",
-          "voice_speed": "1.0x"
+          "voice_speed": "0.95x"
         },
         {
           "number": 5,
@@ -18299,7 +18299,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "2.0x"
+          "voice_speed": "1.25x"
         },
         {
           "number": 6,
@@ -18372,7 +18372,7 @@
           },
           "avoid": "changing vehicle color, wheel count or left-hand driver side, stationary or non-spinning wheels on moving vehicles, vehicles driving or facing in opposite directions during a race or pursuit, muted engine or tire sound effects, adding duplicate characters or broadcaster logos",
           "scene_category": "VEHICLE_CHASE",
-          "voice_speed": "1.5x"
+          "voice_speed": "1.25x"
         }
       ]
     }

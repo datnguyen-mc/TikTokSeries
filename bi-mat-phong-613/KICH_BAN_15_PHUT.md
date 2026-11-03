@@ -1,8 +1,8 @@
-# Kịch Bản Phân Cảnh Chi Tiết — Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm (Veo 3.1 Lite 8s + Video Extend)
+# Kịch Bản Phân Cảnh Chi Tiết — Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm (Google Flow Omni 10s (omni_flash))
 
-Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** | Model: **`veo_3_1_i2v_lite` (Veo 3.1 Lite 8s)** + **Seamless Video Extend**.
+Tổng số cảnh: **15 Cảnh × 6 Clips × 10 giây = 90 Clips (720 giây)** | Model: **`omni_flash` (Google Flow Omni 8s)** + **Seamless Video Extend**.
 
-## Cảnh 01: Bảng Số 613 & Chậu Than Cúng Nhập Trạch (`6 × 8s = 48s` | `D1 dusk (17:45)`)
+## Cảnh 01: Bảng Số 613 & Chậu Than Cúng Nhập Trạch (`6 × 10s = 60s` | `D1 dusk (17:45)`)
 - **Bối cảnh:** `CORRIDOR_613_DUSK`
 - **Tóm tắt:** Phương ngồi xổm trước cửa phòng 613 đốt giấy cúng nhập trạch và cắm 3 nén nhang cầu bình an khi mới dọn đến; Trinh xách xô nước lau nhà bước tới vô tình làm nước sánh vào chậu lửa tắt ngúm. Phương hốt hoảng chắp tay xin lỗi thần linh, còn Trinh cười gạt đi bảo thời đại 4.0 đừng mê tín. Khi hai cô kéo vali bước vào phòng, nén nhang ở giữa bất ngờ tắt lịm.
 
@@ -22,7 +22,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
   - *2.6–5.8s:* Nước từ xô sánh ra làm ngọn lửa nhỏ trong chậu nhôm tắt phụt, bốc lên làn khói trắng; Phương giật bắn mình đứng bật dậy nhìn chậu than.
   - *5.8–8.0s:* Trinh chống một tay lên hông thở phào lau mồ hôi trán, nhìn Phương đang hốt hoảng chỉ tay xuống chậu giấy ướt.
 - **Thoại (@Phuong | 2.4–6.8s):** *"Trời đất ơi Trinh! Tao đang đốt giấy xin phép nhập trạch mà mày xách nước làm tắt ngúm hết trơn vậy!"*
-- **Âm thanh:** Tiếng bước chân dép nhựa trên nền gạch, tiếng đặt xô nướcสาด nhẹ và tiếng xèo khi lửa tắt bốc khói.
+- **Âm thanh:** Tiếng bước chân dép nhựa trên nền gạch, tiếng đặt xô nước sánh nhẹ và tiếng xèo khi lửa tắt bốc khói.
 
 ### Shot 01.3 (`canh-01/clip-3.md`) — `OVER_SHOULDER` (50mm) | `EXTEND_VIDEO 8s (nối từ Clip 2)`
 - **Nhân vật:** @Trinh, @Phuong
@@ -60,7 +60,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Phuong | 2.6–6.4s):** *"Ủa... sao tự nhiên cây nhang ở giữa lại tắt ngúm một mình vậy nè..."*
 - **Âm thanh:** Tiếng tàn nhang rơi khẽ, tiếng gió lạnh rít qua khe cửa và tiếng chốt cửa gỗ đóng cạch.
 
-## Cảnh 02: Chiếc Gương Tròn & Lá Giấy Niêm Phong Trên Tủ Gỗ (`6 × 8s = 48s` | `D1 evening (19:00)`)
+## Cảnh 02: Chiếc Gương Tròn & Lá Giấy Niêm Phong Trên Tủ Gỗ (`6 × 10s = 60s` | `D1 evening (19:00)`)
 - **Bối cảnh:** `ROOM_613_INTERIOR`
 - **Tóm tắt:** Khi dọn dẹp bên trong phòng 613, Phương lau chiếc gương tròn bàn trang điểm và nhặt được chiếc vòng chỉ đỏ gắn chuông bạc. Trinh phát hiện lá giấy vàng dán niêm phong trên khe tủ gỗ góc phòng liền định giật bỏ, nhưng Phương lao tới giữ tay bạn lại. Hai người tranh cãi về chuyện kiêng kỵ trước khi Trinh bỏ vào phòng tắm.
 
@@ -118,7 +118,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Phuong | 2.8–6.4s):** *"Tiếng gì gõ trong cái tủ khóa kia vậy... hay là chuột chạy bên trong..."*
 - **Âm thanh:** Tiếng nước vòi sen chảy rào rào từ phòng tắm, xen lẫn một tiếng gõ gỗ 'cộc' trầm rõ từ trong tủ.
 
-## Cảnh 03: Tiếng Gõ Trong Phòng Tắm & Bóng Người Qua Rèm Xanh (`6 × 8s = 48s` | `D1 night (20:15)`)
+## Cảnh 03: Tiếng Gõ Trong Phòng Tắm & Bóng Người Qua Rèm Xanh (`6 × 10s = 60s` | `D1 night (20:15)`)
 - **Bối cảnh:** `BATHROOM_613`
 - **Tóm tắt:** Trong lúc Trinh đang gội đầu dưới vòi sen trong phòng tắm gạch xanh, đèn huỳnh quang chập chờn và có ba tiếng gõ lên tấm kính mờ dù Phương đang ngồi ở góc xa. Vòi sen tự tắt nước. Trinh khoác áo bước ra kéo tấm rèm xanh thì giật bắn mình trước một bóng tóc dài trong bóng tối — hóa ra là Phương đang dò sóng điện thoại, nhưng dưới sàn lại có dấu chân ướt dẫn tới tủ gỗ.
 
@@ -176,7 +176,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Trinh | 1.4–6.1s):** *"Chắc đường ống nước cũ dưới nền gạch bị rỉ thôi, chung cư mấy chục năm rồi mà, đi ngủ sớm mai tính."*
 - **Âm thanh:** Tiếng khăn vải chà trên nền gạch bông, tiếng gió đêm thổi qua khe cửa sổ lá sách.
 
-## Cảnh 04: Phản Chiếu Chậm Một Giây Trong Gương Tròn Đêm Trăng (`6 × 8s = 48s` | `D1 midnight (23:45)`)
+## Cảnh 04: Phản Chiếu Chậm Một Giây Trong Gương Tròn Đêm Trăng (`6 × 10s = 60s` | `D1 midnight (23:45)`)
 - **Bối cảnh:** `ROOM_613_INTERIOR`
 - **Tóm tắt:** Đêm rằm trăng tròn, Phương đeo băng đô kem ngồi chải tóc trước chiếc gương tròn (tái hiện phân cảnh biểu tượng của Phim ngắn 613). Khi Phương nghiêng đầu, bóng phản chiếu trong gương tròn chậm hơn một nhịp rồi hiện ra bóng Linh (@BongAoTrang) đứng sau tấm rèm xanh chỉ tay về phía chiếc tủ gỗ. Cửa phòng khẽ tự mở, Phương bước ra nhìn qua khe cửa thì chiếc vòng chỉ đỏ lăn chạm vào chân cô.
 
@@ -234,7 +234,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Phuong | 1.2–6.0s):** *"Trinh ơi dậy đi mày! Tao vừa mới thấy một cô gái mặc đầm trắng đứng ngay ngoài cửa phòng mình thiệt đó!"*
 - **Âm thanh:** Tiếng khoen rèm kim loại trượt xoẹt trên thanh treo, tiếng chăn nệm sột soạt.
 
-## Cảnh 05: Trinh Đốt Lá Giấy Niêm Phong & Đi Phơi Đồ Đêm Khuya (`6 × 8s = 48s` | `D1 late night (00:15)`)
+## Cảnh 05: Trinh Đốt Lá Giấy Niêm Phong & Đi Phơi Đồ Đêm Khuya (`6 × 10s = 60s` | `D1 late night (00:15)`)
 - **Bối cảnh:** `ROOM_613_INTERIOR`
 - **Tóm tắt:** Bị dựng dậy giữa đêm và thấy Phương cứ sợ hãi nhìn chiếc tủ gỗ, Trinh bực mình bước tới giật nửa lá giấy vàng trên tủ đem đốt trên đĩa sứ để chứng minh cho Phương thấy chẳng có ma quỷ nào cả (tái hiện cảnh đốt bùa trong Phim ngắn 613). Sau đó, bất chấp lời khuyên không được phơi đồ ban đêm, Trinh bê rổ quần áo ướt đi ra khu sân phơi cuối hành lang.
 
@@ -292,7 +292,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Phuong | 2.4–6.2s):** *"Trinh ơi... đi lẹ rồi về nghe mày, tao ở trong phòng một mình ớn lạnh quá..."*
 - **Âm thanh:** Tiếng chốt sắt trong tủ gỗ kêu 'tách' sắc lạnh, tiếng gió đêm rít dài ngoài hành lang.
 
-## Cảnh 06: Bóng Áo Trắng Giữa Giàn Đồ Phơi Đêm (`6 × 8s = 48s` | `D1 late night (00:30)`)
+## Cảnh 06: Bóng Áo Trắng Giữa Giàn Đồ Phơi Đêm (`6 × 10s = 60s` | `D1 late night (00:30)`)
 - **Bối cảnh:** `LAUNDRY_STAIRWELL_NIGHT`
 - **Tóm tắt:** Trinh một mình bước ra khu sân phơi thông tầng cạnh cầu thang tối để treo quần áo (tái hiện phân cảnh Sheet 3 của Phim ngắn 613). Giữa những dải quần áo đen đung đưa trong gió đêm, Trinh thoáng thấy bóng Linh (@BongAoTrang) đứng trên bậc cầu thang bê tông rồi ẩn hiện sau những chiếc áo đang phơi. Đột nhiên cầu dao điện cả khu vực sập tắt phụt.
 
@@ -350,7 +350,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Trinh | 2.0–6.3s):** *"May quá còn cái ly nến đỏ người ta để đầu cầu thang... phải cầm đỡ cái này đi về phòng sáu một ba thôi."*
 - **Âm thanh:** Tiếng bật lửa đánh đá ba lần mới cháy, tiếng tim nến bén lửa kêu lách tách.
 
-## Cảnh 07: Ánh Nến Đỏ & Lời Thì Thầm Giữa Cầu Thang (`6 × 8s = 48s` | `D1 late night (00:45)`)
+## Cảnh 07: Ánh Nến Đỏ & Lời Thì Thầm Giữa Cầu Thang (`6 × 10s = 60s` | `D1 late night (00:45)`)
 - **Bối cảnh:** `LAUNDRY_STAIRWELL_NIGHT`
 - **Tóm tắt:** Cầm chiếc ly nến đỏ đi xuyên qua những dải quần áo tối om (tái hiện trọn vẹn chuỗi hình ảnh ly nến đỏ trong Sheet 3 của Phim ngắn 613), Trinh đối mặt với Linh (@BongAoTrang). Thay vì tấn công, Linh chỉ tay về phía biên bản trực đêm kẹt sau hộp cứu hỏa và thì thầm cảnh báo đừng nghe lời ông bảo vệ, nhưng Trinh quá hoảng sợ nên vừa khóc vừa chạy tháo thân xuống cầu thang.
 
@@ -408,7 +408,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@BacBaoVe | 2.4–6.6s):** *"Đi đâu giữa đêm hôm khuya khoắt mà chạy bán sống bán chết vậy cô sinh viên phòng sáu một ba?"*
 - **Âm thanh:** Tiếng chùm chìa khóa đồng xóc 'lách cách' khô khốc, tiếng bước chân dừng gấp trên nền gạch.
 
-## Cảnh 08: Cuộc Gặp Ông Bảy Bảo Vệ Ở Hành Lang Lô C (`6 × 8s = 48s` | `D1 late night (01:00)`)
+## Cảnh 08: Cuộc Gặp Ông Bảy Bảo Vệ Ở Hành Lang Lô C (`6 × 10s = 60s` | `D1 late night (01:00)`)
 - **Bối cảnh:** `CORRIDOR_613_NIGHT`
 - **Tóm tắt:** Dưới ánh sáng xanh lạnh ở đầu cầu thang (tái hiện góc máy cận mặt Bác Bảo Vệ đầu Sheet 4 của Phim ngắn 613), Ông Bảy Bảo Vệ hỏi Trinh có phải vừa gặp cô gái mặc đầm trắng trên sân phơi không. Khi dẫn Trinh về tới cửa phòng 613 nơi Phương đang đứng đợi, ánh mắt Ông Bảy liếc sâu vào bên trong phòng nhìn chiếc tủ gỗ đã bị xé mất lá giấy vàng.
 
@@ -466,7 +466,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Phuong | 1.6–6.0s):** *"Vô ngồi xuống đây với tao Trinh ơi, rốt cuộc ngoài sân phơi mày đã thấy cái gì vậy?"*
 - **Âm thanh:** Tiếng cửa sắt kéo sập 'rầm', tiếng chốt cửa gỗ gài chặt.
 
-## Cảnh 09: Căn Phòng 613 Rung Chuyển & Cuộc Gọi Từ Máy Nội Bộ (`6 × 8s = 48s` | `D1 late night (01:20)`)
+## Cảnh 09: Căn Phòng 613 Rung Chuyển & Cuộc Gọi Từ Máy Nội Bộ (`6 × 10s = 60s` | `D1 late night (01:20)`)
 - **Bối cảnh:** `ROOM_613_INTERIOR`
 - **Tóm tắt:** Ngồi bệt trên sàn phòng 613 (tái hiện bố cục hai cô gái ôm nhau trên sàn ở Sheet 4 của Phim ngắn 613), Trinh run rẩy kể lại lời cô gái áo trắng dặn không được nghe lời ông bảo vệ. Đúng lúc đó, chiếc điện thoại nội bộ đã đứt dây trên tường bỗng đổ chuông reng vang, phát ra tiếng lửa cháy và ngày '03-11-2016', đồng thời hai cánh tủ gỗ tự bật tung khóa.
 
@@ -524,7 +524,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@BacBaoVe | 1.6–6.2s):** *"Cái tủ bật mở ra rồi hả... may mà tôi lên kịp, hai cô chưa mở cái hộp sắt trong đó ra coi phải không?"*
 - **Âm thanh:** Tiếng cửa sắt kéo mở, tiếng bước chân giày da nặng nề của Ông Bảy bước vào phòng.
 
-## Cảnh 10: Ông Bảy Trao Lá Bùa Lạ & Xúi Đốt Cuốn Sổ Trong Tủ (`6 × 8s = 48s` | `D1 late night (01:40)`)
+## Cảnh 10: Ông Bảy Trao Lá Bùa Lạ & Xúi Đốt Cuốn Sổ Trong Tủ (`6 × 10s = 60s` | `D1 late night (01:40)`)
 - **Bối cảnh:** `ROOM_613_INTERIOR`
 - **Tóm tắt:** Tái hiện trọn vẹn phân cảnh Sheet 5 của Phim ngắn 613: Ông Bảy Bảo Vệ châm một nén nhang trong phòng 613, chỉ tay về phía chiếc tủ gỗ và trao cho Phương một tờ giấy bùa lạ màu xám đen. Ông ta bịa chuyện rằng chiếc hộp sắt trong tủ là vật giữ oan hồn cô gái áo trắng, xúi hai cô gái không được mở hộp ra xem mà phải gói chung với tờ bùa rồi đốt sạch thành tro trước 3 giờ sáng.
 
@@ -582,7 +582,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Phuong | 1.6–6.2s):** *"Một bên cô gái áo trắng van xin đừng đốt, một bên bác bảo vệ bắt đốt sạch không được đọc... giờ tính sao đây Trinh?"*
 - **Âm thanh:** Tiếng đáy hộp sắt đặt xuống mặt bàn gỗ 'cộp' nặng nề.
 
-## Cảnh 11: Chiếc Hộp Sắt Mở Ra & Cuốn Nhật Ký Của Linh (`6 × 8s = 48s` | `D1 late night (02:15)`)
+## Cảnh 11: Chiếc Hộp Sắt Mở Ra & Cuốn Nhật Ký Của Linh (`6 × 10s = 60s` | `D1 late night (02:15)`)
 - **Bối cảnh:** `ROOM_613_INTERIOR`
 - **Tóm tắt:** Quá sợ hãi, ban đầu Phương định nghe lời Ông Bảy đem hộp sắt bỏ vào chậu nhôm đốt đi cho xong. Nhưng đúng lúc đó chiếc gương tròn trên bàn tự nghiêng mặt kính chiếu ánh trăng vào chiếc vòng chỉ đỏ và tiếng chuông bạc ngân vang. Trinh giữ tay Phương lại, quyết định bật chốt mở chiếc hộp sắt: bên trong là thẻ sinh viên của Linh (@BongAoTrang — Nguyễn Khánh Linh) cùng cuốn sổ nhật ký và bài báo vụ cháy phòng 613 ngày 03/11/2016.
 
@@ -640,7 +640,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Trinh | 1.2–6.4s):** *"Hóa ra chị Linh hiện lên là để ngăn tụi mình đừng đốt bằng chứng! Còn ông Bảy bảo vệ mới là kẻ muốn mượn tay tụi mình phi tang cuốn sổ!"*
 - **Âm thanh:** Tiếng chùm chìa khóa đồng lách cách và tiếng bước chân giày da vang lên ngoài hành lang.
 
-## Cảnh 12: Cú Twist Thứ Nhất — Kẻ Muốn Khóa Trái Cửa Phòng 613 (`6 × 8s = 48s` | `D1 late night (02:55)`)
+## Cảnh 12: Cú Twist Thứ Nhất — Kẻ Muốn Khóa Trái Cửa Phòng 613 (`6 × 10s = 60s` | `D1 late night (02:55)`)
 - **Bối cảnh:** `ROOM_613_INTERIOR`
 - **Tóm tắt:** Đúng 3 giờ kém 5 phút sáng, Ông Bảy Bảo Vệ quay lại đứng ngoài cửa sắt phòng 613. Nhìn thấy chiếc chậu nhôm trống trơn và cuốn sổ nhật ký đang nằm trên tay Phương, gương mặt Ông Bảy lập tức lộ rõ bản chất lạnh lùng. Ông ta rút chiếc ổ khóa đồng lớn móc vào khoen cửa sắt từ bên ngoài, định khóa nhốt Phương và Trinh trong phòng 613 giống hệt đêm ngày 03/11/2016!
 
@@ -698,7 +698,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Phuong | 1.8–6.2s):** *"Chị Linh! Chị Linh hiện ra ở đầu hành lang để cứu tụi mình kìa Trinh ơi!"*
 - **Âm thanh:** Tiếng gió lốc thổi dọc hành lang, tiếng chuông bạc ngân vang theo mỗi bước chân của Linh.
 
-## Cảnh 13: Đêm Đối Đầu Ở Hành Lang 613 — Bóng Áo Trắng Mở Khóa (`6 × 8s = 48s` | `D1 late night (03:00)`)
+## Cảnh 13: Đêm Đối Đầu Ở Hành Lang 613 — Bóng Áo Trắng Mở Khóa (`6 × 10s = 60s` | `D1 late night (03:00)`)
 - **Bối cảnh:** `CORRIDOR_613_NIGHT`
 - **Tóm tắt:** Giữa hành lang tầng 6 lúc 3 giờ sáng, Linh (@BongAoTrang) bước tới đối mặt trực diện với Ông Bảy Bảo Vệ. Không cần một cú chạm bạo lực nào, chỉ bằng ánh mắt đầy oai nghiêm và tiếng chuông bạc ngân vang, Linh khiến Ông Bảy kinh hoàng đánh rơi chùm chìa khóa đồng và lùi dần vào bóng tối cầu thang. Khi Linh đưa tay chạm nhẹ vào ổ khóa sắt trên cửa phòng 613, chiếc ổ khóa tự bung mở.
 
@@ -756,7 +756,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@BongAoTrang | 1.6–6.2s):** *"Suốt tám năm qua ai dọn tới cũng sợ hãi bỏ chạy... chỉ có hai em chịu mở chiếc hộp ra lắng nghe chị."*
 - **Âm thanh:** Tiếng gió sớm mai thổi nhẹ qua hành lang, tiếng chuông bạc ngân êm dịu.
 
-## Cảnh 14: Lời Hứa Lúc Rạng Đông & Căn Phòng 613 Khép Lại (`6 × 8s = 48s` | `D2 dawn (05:45)`)
+## Cảnh 14: Lời Hứa Lúc Rạng Đông & Căn Phòng 613 Khép Lại (`6 × 10s = 60s` | `D2 dawn (05:45)`)
 - **Bối cảnh:** `CORRIDOR_613_DUSK`
 - **Tóm tắt:** Dưới ánh rạng đông đầu tiên nơi hành lang tầng 6, Phương và Trinh cúi đầu hứa với Linh sẽ đem cuốn sổ nhật ký và biên bản năm 2016 nộp cho cơ quan chức năng và gia đình cô. Hình bóng Linh tan dần trong nắng sớm. Sáng hôm đó, căn phòng 613 với tấm rèm xanh đậm được khóa lại bình yên từ bên ngoài (tái hiện khung hình ổ khóa và rèm xanh ở Sheet 6 của Phim ngắn 613) khi hai cô gái kéo vali xuống sân chung cư.
 
@@ -814,7 +814,7 @@ Tổng số cảnh: **15 Cảnh × 6 Clips × 8 giây = 90 Clips (720 giây)** |
 - **Thoại (@Trinh | 1.4–6.2s):** *"Ủa lạ vậy Phương... cái bốt trực bảo vệ dưới cổng lô C này sao đóng bụi mạng nhện giống như bỏ hoang mấy năm rồi?!"*
 - **Âm thanh:** Tiếng bánh xe vali lăn trên sân xi măng, tiếng xe máy chạy ngoài đường phố buổi sáng.
 
-## Cảnh 15: Cú Twist Cuối Dưới Sân Chung Cư — Hai Khung Ảnh Thờ Đỏ (`6 × 8s = 48s` | `D2 morning (06:30)`)
+## Cảnh 15: Cú Twist Cuối Dưới Sân Chung Cư — Hai Khung Ảnh Thờ Đỏ (`6 × 10s = 60s` | `D2 morning (06:30)`)
 - **Bối cảnh:** `COURTYARD_GUARDHOUSE_DAWN`
 - **Tóm tắt:** Tái hiện và nâng tầm cái kết của Phim ngắn 613 (Sheet 6): Đứng trước cổng chung cư buổi sáng, Phương buộc lại tóc bên chiếc gương cầu lồi gắn ở trụ cổng và chết lặng khi nhìn thấy hình phản chiếu bên trong cửa sổ bốt trực. Khi hai cô gái ghé mắt nhìn vào góc tường tối nhuộm ánh đèn đỏ bên trong bốt trực bỏ hoang, trên tường treo HAI khung ảnh thờ cạnh nhau: một bên là Linh, và một bên chính là Ông Bảy Bảo Vệ — người cũng đã tử nạn ngay trong đêm cháy 03/11/2016 khi quay lại tìm cuốn sổ!
 

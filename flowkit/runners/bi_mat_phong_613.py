@@ -2,11 +2,11 @@
 """
 HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT NÂNG CAO CHO "BÍ MẬT PHÒNG 613: LỜI CẢNH BÁO ĐÊM RẰM":
 1. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK): Tự động lấy & khóa chính xác media_id của @Phuong, @Trinh, @BacBaoVe, @BongAoTrang từ Google Flow Project.
-2. MỖI CLIP 8 GIÂY (8.0s) VỚI MODEL VEO-LITE (veo_3_1_i2v_lite, model_family="veo"):
-   - Clip 1 (Mở cảnh): Tạo Start Frame 16:9 khóa nhân vật (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang) rồi render 8s bằng model veo_3_1_i2v_lite.
-   - Clip 2..6 (EXTEND VIDEO 8s): Tự động trích xuất khung hình cuối (last frame 8.0s) của clip trước, upload làm Start Frame và render nối tiếp 8s bằng model veo_3_1_i2v_lite (Seamless Video Extend).
+2. MỖI CLIP 10 GIÂY (10.0s) VỚI MODEL GOOGLE FLOW OMNI (omni_flash, 10s Ingredients Reference-to-Video):
+   - Khóa chặt danh tính nhân vật trực tiếp qua Ingredients R2V (/api/flow/generate-video-omni) với đúng các nhân vật xuất hiện trong khung hình ([CHARACTERS]).
+   - Không ép nối last-frame qua các cú cắt đổi cỡ cảnh/tiêu cự (24mm -> 35mm -> 50mm -> 85mm), đảm bảo khung hình 16:9 điện ảnh sắc nét, đúng góc máy và không bị biến dạng.
 3. Tự động đặt tên clip trên Google Flow theo cảnh ([CẢNH XX - CLIP YY]) và tải ngay về máy + đồng bộ Cloudflare R2 & D1 khi hoàn thành.
-4. Tự động đồng bộ thời gian thực với Console Dashboard UI.
+4. Tự động đồng bộ thời gian thực với Console Dashboard UI (SQLite flow_agent.db).
 """
 
 import os
@@ -15,6 +15,7 @@ import sys
 import time
 import json
 import base64
+import sqlite3
 import subprocess
 import requests
 from datetime import datetime
@@ -45,10 +46,10 @@ DEFAULT_PROJECT_ID = "daf9939b-35f2-4d6c-a299-8efcabc3fc9a"
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_LANDSCAPE"
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_LANDSCAPE"
 
-# 👉 CẤU HÌNH MODEL VEO-LITE 8 GIÂY + EXTEND VIDEO
-VIDEO_MODEL_FAMILY = "veo"
-VIDEO_MODEL_NAME = "veo_3_1_i2v_lite"
-CLIP_DURATION_S = 8
+# 👉 CẤU HÌNH MODEL GOOGLE FLOW OMNI 10 GIÂY (OMNI_FLASH 10S)
+VIDEO_MODEL_FAMILY = "omni_flash"
+VIDEO_MODEL_NAME = "omni_flash"
+CLIP_DURATION_S = 10
 
 WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SERIES_DIR = os.path.join(WORKSPACE_DIR, "bi-mat-phong-613")
@@ -69,7 +70,7 @@ CHARACTER_SPECS = [
         "key": "Phuong",
         "tag": "@Phuong",
         "aliases": ["@Phuong", "@Phương", "Phương", "Phuong"],
-        "default_media_id": "613a0001-f101-4613-a613-000000000001",
+        "default_media_id": "41e63b7c-cd0b-47c9-94f2-c4fb84931f67",
         "description": "Nữ sinh viên 22 tuổi dịu dàng, nhạy cảm tâm linh; cao 160 cm, gương mặt trái xoan thanh tú, đôi mắt to biểu cảm, cài băng đô vải màu kem trên mái tóc đen dài xõa tự nhiên, mặc áo cardigan len mỏng màu kem khoác ngoài áo thun trắng và quần jean ống rộng xanh nhạt.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Phuong, a 22-year-old Vietnamese female university student, 160 cm, "
@@ -82,7 +83,7 @@ CHARACTER_SPECS = [
         "key": "Trinh",
         "tag": "@Trinh",
         "aliases": ["@Trinh", "Trinh"],
-        "default_media_id": "613a0002-f102-4613-a613-000000000002",
+        "default_media_id": "db08140d-6d7f-4e21-958c-253afd08f81d",
         "description": "Bạn thân cùng phòng của Phương, 22 tuổi, sinh viên Báo chí cá tính, thực tế; cao 165 cm, dáng thon khỏe, gương mặt sắc sảo, tóc đen dài thẳng rẽ ngôi giữa, mặc áo thun form rộng màu cam đất (burnt orange) và quần jogger xám đậm.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Trinh, a 22-year-old Vietnamese female student, 165 cm, lean athletic build, "
@@ -95,21 +96,21 @@ CHARACTER_SPECS = [
         "key": "BacBaoVe",
         "tag": "@BacBaoVe",
         "aliases": ["@BacBaoVe", "Ông Bảy Bảo Vệ", "Ông Bảy", "BacBaoVe"],
-        "default_media_id": "613a0003-f103-4613-a613-000000000003",
-        "description": "Bảo vệ trực đêm chung cư cũ Lô C, 58 tuổi; cao 168 cm, dáng hơi gù, tóc cắt ngắn điểm bạc, gương mặt gầy góc cạnh lạnh lùng, vết sẹo bỏng mờ bên cổ trái, mặc đồng phục bảo vệ xanh đen sẫm, cầm chùm chìa khóa đồng cũ và đèn pin vỏ sắt.",
+        "default_media_id": "e31adf0c-91da-4077-b996-2089e52fcaf0",
+        "description": "Bảo vệ trực đêm chung cư cũ Lô C, 58 tuổi; cao 168 cm, dáng hơi gù, tóc cắt ngắn điểm bạc, gương mặt gầy góc cạnh lạnh lùng, mặc đồng phục bảo vệ xanh đen sẫm cài kín cổ, cầm chùm chìa khóa đồng cũ và đèn pin vỏ sắt.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @BacBaoVe, a 58-year-old Vietnamese night-shift security guard, 168 cm, "
-            "thin slightly stooped build, short grey-streaked black hair, gaunt angular weathered face, cold watchful eyes, a faint old burn "
-            "scar on the left side of his neck, wearing a dark navy-black short-sleeve security guard uniform shirt with shoulder epaulettes, "
+            "thin slightly stooped build, short grey-streaked black hair, gaunt angular weathered face, cold watchful eyes, "
+            "wearing a dark navy-black short-sleeve security guard uniform shirt with shoulder epaulettes, "
             "dark trousers, worn black shoes, holding an old brass key ring in one hand and a heavy metal flashlight in the other; plain grey "
-            "studio background, hard side light, 8K. Not resembling any real actor."
+            "studio background, soft side light, 8K. Not resembling any real actor."
         ),
     },
     {
         "key": "BongAoTrang",
         "tag": "@BongAoTrang",
         "aliases": ["@BongAoTrang", "Linh", "Cô Gái Áo Trắng", "BongAoTrang"],
-        "default_media_id": "613a0004-f104-4613-a613-000000000004",
+        "default_media_id": "435283fa-da21-430a-9649-0ecc8413c38b",
         "description": "Nữ sinh viên nhạc viện từng thuê phòng 613 năm 2016; cao 162 cm, dáng mảnh mai, làn da trắng xanh tĩnh lặng, tóc đen dài xõa ngang lưng, mặc đầm vải voan trắng dài tay cổ vuông cổ điển, cổ tay phải đeo vòng chỉ đỏ gắn chuông bạc nhỏ, ánh mắt u buồn khẩn thiết.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @BongAoTrang, a 21-year-old Vietnamese woman, 162 cm, slender delicate build, "
@@ -189,13 +190,21 @@ def check_connection():
         return False
 
 
+def _is_valid_media_id(mid: str) -> bool:
+    if not mid or not isinstance(mid, str) or len(mid) < 20:
+        return False
+    if mid.startswith("613a000") or mid.startswith("6130000"):
+        return False
+    return True
+
+
 # -------------------------------------------------------------
 # 0. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK TỪ GOOGLE FLOW PROJECT)
 # -------------------------------------------------------------
-def load_and_lock_project_characters():
-    """Đảm bảo 100% sử dụng đúng nhân vật Bí Mật Phòng 613 (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang)."""
+def load_and_lock_project_characters(force_remote: bool = False):
+    """Đảm bảo 100% sử dụng đúng 4 nhân vật Bí Mật Phòng 613 (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang) với media_id thực trên Google Flow."""
     global LOCKED_CHARACTER_MEDIA_IDS
-    log("🔒 Đang kiểm tra và khóa bộ nhân vật cố định (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang) trên Google Flow...")
+    log("🔒 Đang đồng bộ danh sách 4 Nhân vật cố định (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang) trên Google Flow Project...")
 
     cached_by_project = {}
     if os.path.exists(CHAR_CACHE_FILE):
@@ -207,13 +216,22 @@ def load_and_lock_project_characters():
 
     project_cache = cached_by_project.get(PROJECT_ID, {}) if isinstance(cached_by_project, dict) else {}
 
+    need_remote = force_remote or os.environ.get("FLOWKIT_REFRESH_CHARS") == "1"
+    if not need_remote:
+        for spec in CHARACTER_SPECS:
+            tag = spec["tag"]
+            if not (_is_valid_media_id(project_cache.get(tag)) or _is_valid_media_id(spec.get("default_media_id"))):
+                need_remote = True
+                break
+
     remote_chars = []
-    try:
-        r = requests.get(f"{FLOWKIT_API}/api/flow/project-characters", params={"project_id": PROJECT_ID}, timeout=30)
-        if r.status_code == 200:
-            remote_chars = r.json().get("characters") or []
-    except Exception as e:
-        log(f"⚠️ Không truy vấn được danh sách nhân vật từ Google Flow (sẽ dùng ID khóa sẵn): {e}")
+    if need_remote:
+        try:
+            r = requests.get(f"{FLOWKIT_API}/api/flow/project-characters", params={"project_id": PROJECT_ID}, timeout=30)
+            if r.status_code == 200:
+                remote_chars = r.json().get("characters") or []
+        except Exception as e:
+            log(f"⚠️ Không truy vấn được danh sách nhân vật từ Google Flow (sẽ dùng ID khóa sẵn): {e}")
 
     locked = {}
     for spec in CHARACTER_SPECS:
@@ -223,12 +241,15 @@ def load_and_lock_project_characters():
 
         for rc in remote_chars:
             rc_name = (rc.get("name") or "").strip().lower().lstrip("@")
-            if rc_name in aliases_lower and rc.get("media_id"):
+            if rc_name in aliases_lower and _is_valid_media_id(rc.get("media_id")):
                 matched_mid = rc["media_id"]
                 break
 
-        if not matched_mid and project_cache.get(tag):
+        if not matched_mid and _is_valid_media_id(project_cache.get(tag)):
             matched_mid = project_cache[tag]
+
+        if not matched_mid and _is_valid_media_id(spec.get("default_media_id")):
+            matched_mid = spec["default_media_id"]
 
         if not matched_mid and spec.get("ref_prompt"):
             log(f"🎨 Đang tạo mới Nhân Vật & ảnh mẫu cố định cho {tag} trên Project {PROJECT_ID}...")
@@ -255,11 +276,9 @@ def load_and_lock_project_characters():
             except Exception as e:
                 log(f"⚠️ Không tự tạo được ảnh mẫu cho {tag}: {e}")
 
-        if not matched_mid and spec.get("default_media_id"):
-            matched_mid = spec["default_media_id"]
-
-        if matched_mid:
+        if _is_valid_media_id(matched_mid):
             locked[tag] = matched_mid
+            spec["default_media_id"] = matched_mid
 
     LOCKED_CHARACTER_MEDIA_IDS = locked
 
@@ -277,210 +296,169 @@ def load_and_lock_project_characters():
         tag = spec["tag"]
         mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag, "Chưa có")
         box_items.append((f"Nhân Vật {tag}", f"media_id = {mid}"))
-    box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Veo 3.1 Lite — {CLIP_DURATION_S}s/clip)"))
-    box_items.append(("Chế Độ Nối Cảnh", "Clip 1 Start-Frame Lock + Clip 2..6 Video Extend 8s"))
-    print_box("🔒 ĐÃ KHÓA NHÂN VẬT & CẤU HÌNH VEO-LITE 8S + EXTEND VIDEO", box_items)
+    box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Google Flow Omni — {CLIP_DURATION_S}s/clip)"))
+    box_items.append(("Chế Độ Khóa", "Ingredients R2V (/api/flow/generate-video-omni 10s)"))
+    print_box("🔒 ĐÃ KHÓA 4 NHÂN VẬT & CẤU HÌNH GOOGLE FLOW OMNI 10S", box_items)
 
 
 def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = None) -> bool:
-    """Clip 1 mở cảnh mới; từ Clip 2 đến Clip 6 luôn Extend Video (nối tiếp từ frame cuối của clip trước)."""
-    return clip_num == 1 or not start_image_media_id
+    """16:9 YouTube films cut continuously between camera angles; every clip uses Omni 10s Ingredients R2V or Text-to-Video without injecting a start_image_media_id."""
+    return True
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
+    """Chỉ lấy đúng media_id của các nhân vật xuất hiện trong khối [CHARACTERS] của shot hiện tại."""
+    import re as _re
+    if "[CHARACTERS" in prompt:
+        reference_sections = _re.findall(
+            r"^\[(?:CHARACTERS[^\]]*|PICTURE-ONLY REFERENCES)\]\s*\n(.*?)(?=^\[|\Z)",
+            prompt,
+            flags=_re.MULTILINE | _re.DOTALL,
+        )
+        reference_text = "\n".join(reference_sections)
+        selected = []
+        for spec in CHARACTER_SPECS:
+            tag = spec["tag"]
+            mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag)
+            tag_pat = rf"(?<![a-zA-Z0-9_À-ỹ]){_re.escape(tag)}(?![a-zA-Z0-9_À-ỹ])"
+            if mid and _re.search(tag_pat, reference_text, flags=_re.IGNORECASE):
+                if mid not in selected:
+                    selected.append(mid)
+        return selected[:7]
+
     selected = []
-    prompt_lower = prompt.lower()
     for spec in CHARACTER_SPECS:
         tag = spec["tag"]
         mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag)
         if not mid:
             continue
-        for alias in spec["aliases"]:
-            if alias.lower() in prompt_lower:
-                if mid not in selected:
-                    selected.append(mid)
-                break
-    if not selected:
-        for spec in CHARACTER_SPECS[:4]:
-            mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"])
-            if mid and mid not in selected:
+        tag_pat = rf"(?<![a-zA-Z0-9_À-ỹ]){_re.escape(tag)}(?![a-zA-Z0-9_À-ỹ])"
+        if _re.search(tag_pat, prompt, flags=_re.IGNORECASE):
+            if mid not in selected:
                 selected.append(mid)
     return selected[:7]
-
-
-def extract_start_frame_image_prompt(video_prompt: str, scene_num: int, clip_num: int) -> str:
-    """Trích xuất mô tả [START FRAME] và [TIMELINE AND LOCATION] để tạo ảnh Start Frame 16:9 cho Clip 1 bằng nano_banana_pro."""
-    start_desc = ""
-    loc_desc = ""
-    m_start = re.search(r"\[START FRAME[^\]]*\]\s*\n(.+?)(?:\n\n|\n\[|$)", video_prompt, flags=re.S)
-    if m_start:
-        start_desc = m_start.group(1).strip()
-    m_loc = re.search(r"\[TIMELINE AND LOCATION\]\s*\n([^\[]+)", video_prompt, flags=re.S)
-    if m_loc:
-        loc_lines = [ln.strip() for ln in m_loc.group(1).strip().splitlines() if ln.strip()]
-        loc_desc = " ".join(loc_lines[:2])
-    base = (
-        f"Photorealistic 16:9 widescreen 35mm cinema still frame for Scene {scene_num:02d} Clip {clip_num:02d} of "
-        f"'Bí Mật Phòng 613'. {start_desc} Environment: {loc_desc} "
-        "Atmospheric old-Saigon apartment jade-green walls, cyan-teal shadows, warm amber incense/altar highlights, "
-        "natural Vietnamese skin tones, 8K, no text, no subtitles, no split screen."
-    )
-    return base[:1500]
-
-
-def generate_scene_start_frame_for_veo(video_prompt: str, scene_num: int, clip_num: int, ref_media_ids: list) -> str:
-    """Tạo ảnh Start Frame 16:9 khóa nhân vật (@Phuong, @Trinh, @BacBaoVe, @BongAoTrang) cho Clip mở đầu để nạp vào veo_3_1_i2v_lite (8s)."""
-    cached_start = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{clip_num:02d}_start_mid.txt")
-    if os.path.exists(cached_start) and os.environ.get("FLOWKIT_FORCE_RERENDER") != "1":
-        try:
-            with open(cached_start, "r", encoding="utf-8") as f:
-                mid = f.read().strip()
-            if mid and len(mid) >= 20:
-                return mid
-        except Exception:
-            pass
-
-    img_prompt = extract_start_frame_image_prompt(video_prompt, scene_num, clip_num)
-    log(f"🖼️ [VEO-LITE START FRAME] Đang tạo khung hình gốc 16:9 khóa nhân vật cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
-    try:
-        res = requests.post(
-            f"{FLOWKIT_API}/api/flow/generate-image",
-            json={
-                "prompt": img_prompt,
-                "project_id": PROJECT_ID,
-                "aspect_ratio": IMAGE_ASPECT_RATIO,
-                "image_model": "nano_banana_pro",
-                "character_media_ids": ref_media_ids or None,
-                "count": 1,
-            },
-            timeout=90,
-        )
-        if res.status_code == 200:
-            data = res.json()
-            inner = data.get("data") if isinstance(data.get("data"), dict) else data
-            mid = inner.get("media_id") or inner.get("_mediaId")
-            if not mid:
-                medias = inner.get("media") or []
-                if medias and isinstance(medias[0], dict):
-                    mid = medias[0].get("name") or medias[0].get("media_id")
-            if mid:
-                try:
-                    with open(cached_start, "w", encoding="utf-8") as f:
-                        f.write(mid)
-                except Exception:
-                    pass
-                print_box(
-                    "🖼️ ĐÃ TẠO KHUNG HÌNH BẮT ĐẦU (START FRAME) CHO VEO-LITE 8S",
-                    [
-                        ("Phân Cảnh", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
-                        ("Start Frame Media ID", mid),
-                        ("Khóa Nhân Vật", ", ".join(ref_media_ids) if ref_media_ids else "Bối cảnh gốc"),
-                        ("Model Kế Tiếp", f"{VIDEO_MODEL_NAME} ({CLIP_DURATION_S}s I2V)"),
-                    ],
-                )
-                return mid
-        else:
-            log(f"⚠️ Không tạo được ảnh Start Frame mới (HTTP {res.status_code}), dùng trực tiếp ảnh Reference nhân vật làm Start Frame cho Veo-Lite.")
-    except Exception as e:
-        log(f"⚠️ Ngoại lệ khi tạo ảnh Start Frame cho Veo-Lite: {e}")
-
-    return ref_media_ids[0] if ref_media_ids else None
 
 
 # -------------------------------------------------------------
 # 1. ĐỒNG BỘ DỰ ÁN VỚI DASHBOARD UI (DATABASE SYNC)
 # -------------------------------------------------------------
 def sync_dashboard_database(start_scene: int = 1, end_scene: int = 15):
-    """Tự động tạo hoặc kiểm tra Project, Characters, Video, Scenes (8s, veo) trong FlowKit DB."""
+    """Đồng bộ tức thì Project, 4 Characters, Video, 90 Scenes (10s, omni_flash) trực tiếp vào SQLite (flow_agent.db)."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
-    log("🔄 Đang đồng bộ cơ sở dữ liệu với Dashboard UI (Veo-Lite 8s + Video Extend)...")
+    log("🔄 Đang đồng bộ cơ sở dữ liệu với Dashboard UI (Google Flow Omni 10s)...")
 
+    db_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "flow_agent.db")
     try:
-        r = requests.get(f"{FLOWKIT_API}/api/projects", timeout=5)
-        projects = r.json() if r.status_code == 200 else []
-        proj_exists = any(p.get("id") == PROJECT_ID for p in projects)
-        if not proj_exists:
-            log("   ...Đang đăng ký dự án 'Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm' vào hệ thống...")
-            p_payload = {
-                "name": "Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm",
-                "flow_project_id": PROJECT_ID,
-                "material": "realistic",
-                "video_model_family": VIDEO_MODEL_FAMILY,
-                "story": "Phương và Trinh thuê căn phòng 613 giá rẻ tại chung cư cũ Sài Gòn và khám phá bí mật vụ hỏa hoạn đêm rằm năm 2016.",
-                "characters": [
-                    {"name": spec["tag"].lstrip("@"), "description": spec["description"]}
-                    for spec in CHARACTER_SPECS
-                ],
-            }
-            requests.post(f"{FLOWKIT_API}/api/projects", json=p_payload, timeout=10)
+        conn = sqlite3.connect(db_path, timeout=30)
+        conn.execute(
+            """INSERT INTO project (id, name, description, story, material, status, user_paygate_tier, video_model_family)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+               ON CONFLICT(id) DO UPDATE SET
+                 name=excluded.name,
+                 description=excluded.description,
+                 story=excluded.story,
+                 video_model_family=excluded.video_model_family""",
+            (
+                PROJECT_ID,
+                "Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm",
+                "Phim ngắn tâm lý bí ẩn 15 phút (16:9, 15 cảnh × 6 clips × 10s — Google Flow Omni).",
+                "Phương và Trinh thuê căn phòng 613 giá rẻ tại chung cư cũ Sài Gòn và khám phá bí mật vụ hỏa hoạn đêm rằm năm 2016.",
+                "realistic",
+                "ACTIVE",
+                "PAYGATE_TIER_TWO",
+                VIDEO_MODEL_FAMILY,
+            ),
+        )
+        chars_json = []
+        for idx, spec in enumerate(CHARACTER_SPECS, start=1):
+            mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"]) or spec.get("default_media_id") or ""
+            chars_json.append(
+                {
+                    "tag": spec["tag"],
+                    "name": spec["tag"].lstrip("@"),
+                    "default_media_id": mid,
+                    "locked_media_id": mid,
+                    "description": spec["description"],
+                    "ref_prompt": spec["ref_prompt"],
+                }
+            )
+            cid = f"char-613-{idx:02d}"
+            conn.execute(
+                """INSERT INTO character (id, name, description, image_prompt, entity_type, media_id)
+                   VALUES (?, ?, ?, ?, ?, ?)
+                   ON CONFLICT(id) DO UPDATE SET
+                     name=excluded.name,
+                     description=excluded.description,
+                     image_prompt=excluded.image_prompt,
+                     media_id=excluded.media_id""",
+                (cid, spec["tag"].lstrip("@"), spec["description"], spec["ref_prompt"], "character", mid or None),
+            )
+            conn.execute(
+                "INSERT OR IGNORE INTO project_character (project_id, character_id) VALUES (?, ?)",
+                (PROJECT_ID, cid),
+            )
 
-        r_chars = requests.get(f"{FLOWKIT_API}/api/characters", params={"project_id": PROJECT_ID}, timeout=5)
-        if r_chars.status_code == 200:
-            db_chars = r_chars.json() or []
-            for spec in CHARACTER_SPECS:
-                mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"])
-                if not mid:
-                    continue
-                aliases_lower = {a.lower().lstrip("@") for a in spec["aliases"]}
-                for dbc in db_chars:
-                    if (dbc.get("name") or "").strip().lower().lstrip("@") in aliases_lower:
-                        requests.put(
-                            f"{FLOWKIT_API}/api/characters/{dbc['id']}",
-                            json={
-                                "description": spec["description"],
-                                "media_id": mid,
-                                "status": "COMPLETED",
-                            },
-                            timeout=5,
-                        )
+        conn.execute(
+            "UPDATE cms_channel SET project_id = ?, characters_json = ? WHERE slug = ?",
+            (PROJECT_ID, json.dumps(chars_json, ensure_ascii=False), CHANNEL_SLUG),
+        )
 
-        r_v = requests.get(f"{FLOWKIT_API}/api/videos?project_id={PROJECT_ID}", timeout=5)
-        videos = r_v.json() if r_v.status_code == 200 else []
-        if videos:
-            CURRENT_VIDEO_ID = videos[0]["id"]
-        else:
-            v_payload = {
-                "project_id": PROJECT_ID,
-                "title": "Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm (15 Cảnh × 6 Clips × 8s — Veo Lite)",
-                "description": "Phim ngắn tâm lý bí ẩn kịch tính 15 Cảnh × 6 Clips × 8s (Model veo_3_1_i2v_lite + Video Extend)",
-                "orientation": "HORIZONTAL",
-            }
-            res_v = requests.post(f"{FLOWKIT_API}/api/videos", json=v_payload, timeout=10)
-            if res_v.status_code == 200:
-                CURRENT_VIDEO_ID = res_v.json().get("id")
+        CURRENT_VIDEO_ID = "video-613-01"
+        conn.execute(
+            """INSERT INTO video (id, project_id, title, description, orientation, status)
+               VALUES (?, ?, ?, ?, ?, ?)
+               ON CONFLICT(id) DO UPDATE SET
+                 project_id=excluded.project_id,
+                 title=excluded.title,
+                 description=excluded.description""",
+            (
+                CURRENT_VIDEO_ID,
+                PROJECT_ID,
+                "Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm (15 Phút — Cảnh 01 - 15 | Omni 10s)",
+                "Phim ngắn tâm lý bí ẩn kịch tính 15 Cảnh × 6 Clips × 10s (Google Flow Omni 10s Ingredients R2V)",
+                "HORIZONTAL",
+                "PROCESSING",
+            ),
+        )
 
-        if CURRENT_VIDEO_ID:
-            r_s = requests.get(f"{FLOWKIT_API}/api/scenes?video_id={CURRENT_VIDEO_ID}", timeout=5)
-            existing_scenes = r_s.json() if r_s.status_code == 200 else []
+        existing = {
+            row[1]: row[0]
+            for row in conn.execute("SELECT id, display_order FROM scene WHERE video_id = ?", (CURRENT_VIDEO_ID,)).fetchall()
+        }
+        order = 0
+        for s in range(1, 16):
+            for c in range(1, 7):
+                key = f"canh_{s:02d}_clip_{c:02d}"
+                fpath = os.path.join(SERIES_DIR, f"canh-{s:02d}", f"clip-{c}.md")
+                prompt_full = f"Cảnh {s:02d} - Clip {c}"
+                if os.path.exists(fpath):
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        prompt_full = f.read().strip()
+                sid = existing.get(order) or f"sc-613-{s:02d}-{c:02d}"
+                conn.execute(
+                    """INSERT INTO scene (id, video_id, display_order, chain_type, duration, prompt, video_prompt, character_names, horizontal_video_status)
+                       VALUES (?, ?, ?, ?, ?, ?, ?, ?, 'PENDING')
+                       ON CONFLICT(id) DO UPDATE SET
+                         duration=excluded.duration,
+                         prompt=excluded.prompt,
+                         video_prompt=excluded.video_prompt""",
+                    (
+                        sid,
+                        CURRENT_VIDEO_ID,
+                        order,
+                        "ROOT",
+                        float(CLIP_DURATION_S),
+                        f"Cảnh {s:02d} - Clip {c}",
+                        prompt_full,
+                        json.dumps(["Phuong", "Trinh", "BacBaoVe", "BongAoTrang"]),
+                    ),
+                )
+                SCENE_DB_MAP[key] = sid
+                order += 1
 
-            order = 0
-            for s in range(start_scene, end_scene + 1):
-                for c in range(1, 7):
-                    key = f"canh_{s:02d}_clip_{c:02d}"
-                    match = next((sc for sc in existing_scenes if sc.get("display_order") == order), None)
-                    if match:
-                        SCENE_DB_MAP[key] = match["id"]
-                    else:
-                        fpath = os.path.join(SERIES_DIR, f"canh-{s:02d}", f"clip-{c}.md")
-                        prompt_preview = f"Cảnh {s:02d} - Clip {c}"
-                        if os.path.exists(fpath):
-                            with open(fpath, "r", encoding="utf-8") as f:
-                                prompt_preview = f.read().strip()[:200]
-                        sc_payload = {
-                            "video_id": CURRENT_VIDEO_ID,
-                            "display_order": order,
-                            "chain_type": "ROOT" if c == 1 else "CONTINUATION",
-                            "duration": float(CLIP_DURATION_S),
-                            "prompt": f"Cảnh {s:02d} - Clip {c}",
-                            "video_prompt": prompt_preview,
-                            "character_names": ["Phuong", "Trinh", "BacBaoVe", "BongAoTrang"],
-                        }
-                        r_new = requests.post(f"{FLOWKIT_API}/api/scenes", json=sc_payload, timeout=5)
-                        if r_new.status_code == 200:
-                            SCENE_DB_MAP[key] = r_new.json().get("id")
-                    order += 1
-
-        log(f"✅ Đã đồng bộ Dashboard DB thành công! ({len(SCENE_DB_MAP)} scenes × {CLIP_DURATION_S}s sẵn sàng)")
+        conn.commit()
+        conn.close()
+        log(f"✅ Đã đồng bộ Dashboard DB thành công! ({len(CHARACTER_SPECS)} nhân vật & {len(SCENE_DB_MAP)} clips × {CLIP_DURATION_S}s Omni sẵn sàng)")
     except Exception as e:
         log(f"⚠️ Lỗi khi đồng bộ DB Dashboard: {e}")
 
@@ -489,16 +467,17 @@ def update_dashboard_scene_status(scene_num: int, clip_num: int, video_url: str)
     """Cập nhật trạng thái COMPLETED và link video lên Dashboard UI ngay lập tức."""
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key)
-    if not sid:
-        return
+    db_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "flow_agent.db")
     try:
-        patch_payload = {
-            "horizontal_video_url": video_url,
-            "horizontal_video_status": "COMPLETED",
-        }
-        r = requests.patch(f"{FLOWKIT_API}/api/scenes/{sid}", json=patch_payload, timeout=5)
-        if r.status_code == 200:
+        conn = sqlite3.connect(db_path, timeout=30)
+        if sid:
+            conn.execute(
+                "UPDATE scene SET horizontal_video_url = ?, horizontal_video_status = 'COMPLETED' WHERE id = ?",
+                (video_url, sid),
+            )
+            conn.commit()
             log(f"🖥️ [DASHBOARD UI] Đã cập nhật Scene '{key}' thành trạng thái COMPLETED ✅")
+        conn.close()
     except Exception as e:
         log(f"⚠️ Lỗi cập nhật Dashboard Scene: {e}")
 
@@ -524,7 +503,7 @@ def update_clip_file(scene_num: int, clip_num: int, new_prompt: str):
 # 3. TỰ ĐỘNG TẢI VIDEO VỀ MÁY VÀ ĐỔI TÊN THEO CẢNH
 # -------------------------------------------------------------
 def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> str:
-    """Tải ngay lập tức video 8s về máy và ghi đè (overwrite) đúng file clip chuẩn theo cảnh."""
+    """Tải ngay lập tức video 10s (Omni) về máy và đồng bộ lên Cloudflare R2 & D1."""
     scene_folder = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{scene_num:02d}")
     os.makedirs(scene_folder, exist_ok=True)
 
@@ -533,7 +512,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
     is_overwrite = os.path.exists(target_path)
     tmp_path = f"{target_path}.tmp"
 
-    log("📥 Đang tải video 8s (Veo-Lite) từ Google Flow về máy...")
+    log("📥 Đang tải video 10s (Google Flow Omni) từ Google Flow về máy...")
     try:
         r = requests.get(video_url, stream=True, timeout=120)
         if r.status_code == 200:
@@ -563,7 +542,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
             if r2_sync.get("r2_url"):
                 box_rows.append(("Cloudflare R2 URL", r2_sync["r2_url"]))
             print_box(
-                "💾 CLIP 8S HOÀN THÀNH & ĐÃ GHI ĐÈ VỀ MÁY" if is_overwrite else "💾 CLIP 8S HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
+                "💾 CLIP 10S HOÀN THÀNH & ĐÃ GHI ĐÈ VỀ MÁY" if is_overwrite else "💾 CLIP 10S HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
                 box_rows,
             )
             return target_path
@@ -598,180 +577,35 @@ def fetch_media_video_url(media_id: str) -> str:
     return None
 
 
-def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
-    """Trích xuất khung hình cuối cùng của clip 8s bằng ffmpeg làm Start Frame để Extend Video cho clip tiếp theo."""
-    out_frame = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{clip_num:02d}_last.jpg")
-    log(f"🎬 [EXTEND VIDEO] Dùng ffmpeg cắt khung hình cuối (Last Frame 8.0s) của Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
-    try:
-        cmd = [
-            "ffmpeg", "-y",
-            "-sseof", "-0.2",
-            "-i", video_source,
-            "-frames:v", "1",
-            "-q:v", "2",
-            out_frame,
-        ]
-        result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
-        if result.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
-            size_kb = os.path.getsize(out_frame) / 1024
-            print_box(
-                "🖼️ ĐÃ TRÍCH XUẤT KHUNG HÌNH CUỐI (EXTEND VIDEO 8S)",
-                [
-                    ("Clip Nguồn (8s)", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
-                    ("File Ảnh Nối Cảnh", os.path.basename(out_frame)),
-                    ("Đường Dẫn Lưu", out_frame),
-                    ("Dung Lượng Ảnh", f"{size_kb:.1f} KB"),
-                    ("Mục Đích Sử Dụng", f"Extend Video sang Clip {clip_num + 1:02d} bằng {VIDEO_MODEL_NAME} (8s)"),
-                ],
-            )
-            return out_frame
-        else:
-            cmd_fallback = [
-                "ffmpeg", "-y",
-                "-ss", "00:00:07.5",
-                "-i", video_source,
-                "-frames:v", "1",
-                "-q:v", "2",
-                out_frame,
-            ]
-            res_fb = subprocess.run(cmd_fallback, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
-            if res_fb.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
-                log(f"✨ Trích xuất khung hình cuối thành công (fallback ss 7.5s): {os.path.basename(out_frame)}")
-                return out_frame
-            else:
-                log(f"⚠️ ffmpeg không trích xuất được frame: {result.stderr.decode('utf-8', errors='ignore')[:200]}")
-                return None
-    except Exception as e:
-        log(f"⚠️ Lỗi khi trích xuất frame: {e}")
-        return None
-
-
-def upload_start_frame(image_path: str) -> str:
-    """Nạp khung hình cuối vừa cắt vào slot [Bắt đầu] trên Google Flow để Extend Video bằng veo_3_1_i2v_lite."""
-    if not image_path or not os.path.exists(image_path):
-        return None
-    url = f"{FLOWKIT_API}/api/flow/upload-image"
-    try:
-        with open(image_path, "rb") as f:
-            b64_str = base64.b64encode(f.read()).decode("utf-8")
-
-        payload = {
-            "image_base64": b64_str,
-            "project_id": PROJECT_ID,
-            "file_name": os.path.basename(image_path),
-            "mime_type": "image/jpeg",
-        }
-        res = requests.post(url, json=payload, timeout=45)
-        if res.status_code == 200:
-            res_json = res.json()
-            media_id = (
-                res_json.get("media_id")
-                or res_json.get("_mediaId")
-                or (res_json.get("data") or {}).get("media_id")
-                or ((res_json.get("data") or {}).get("media") or {}).get("name")
-            )
-            print_box(
-                "📤 ĐÃ TẢI ẢNH LÊN GOOGLE FLOW [EXTEND VIDEO START FRAME]",
-                [
-                    ("Media ID", media_id),
-                    ("File Ảnh Nối", os.path.basename(image_path)),
-                    ("Slot Kích Hoạt", "Khung hình [Bắt đầu] (Start Frame) để Extend Video"),
-                    ("Trạng Thái", f"Sẵn sàng Extend Video 8s với {VIDEO_MODEL_NAME} ✅"),
-                ],
-            )
-            return media_id
-        else:
-            log(f"⚠️ Không upload được frame: {res.text}")
-            return None
-    except Exception as e:
-        log(f"⚠️ Lỗi upload frame: {e}")
-        return None
-
-
-def load_previous_last_frame(scene_num: int, prev_clip_num: int) -> str:
-    """Lấy frame cuối của clip trước đã có trên đĩa (khi chạy lẻ 1 clip hoặc resume) rồi upload làm Start Frame để Extend Video."""
-    frame_path = None
-    mp4_candidate = os.path.join(
-        OUTPUT_VIDEOS_DIR,
-        f"canh-{scene_num:02d}",
-        f"canh-{scene_num:02d}_clip-{prev_clip_num:02d}.mp4",
-    )
-    if os.path.exists(mp4_candidate) and os.path.getsize(mp4_candidate) > 50_000:
-        frame_path = extract_last_frame(mp4_candidate, scene_num, prev_clip_num)
-    if not frame_path:
-        for cn, mp4_path in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, scene_num, f"canh-{scene_num:02d}"):
-            if cn == prev_clip_num:
-                frame_path = extract_last_frame(mp4_path, scene_num, prev_clip_num)
-                break
-    if not frame_path:
-        cached = os.path.join(FRAMES_DIR, f"scene_{scene_num:02d}_clip_{prev_clip_num:02d}_last.jpg")
-        if os.path.exists(cached):
-            frame_path = cached
-    if not frame_path:
-        log(
-            f"⚠️ Chưa có video/frame cuối của Cảnh {scene_num:02d} - Clip {prev_clip_num:02d} — "
-            f"Clip {prev_clip_num + 1:02d} sẽ tạo Start Frame khóa nhân vật mới cho {VIDEO_MODEL_NAME}."
-        )
-        return None
-    return upload_start_frame(frame_path)
-
-
 # -------------------------------------------------------------
-# 4. GỬI API REQUEST VEO-LITE 8S + EXTEND VIDEO
+# 4. GỬI API REQUEST GOOGLE FLOW OMNI 10S
 # -------------------------------------------------------------
 def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
-    """Gửi yêu cầu tạo video 8s bằng model veo-lite (veo_3_1_i2v_lite) kèm Extend Video cho Clip 2..6."""
+    """Gửi yêu cầu tạo video 10s bằng model Google Flow Omni (omni_flash) với Ingredients R2V (không bao giờ chèn ảnh start_image_media_id ở đầu video)."""
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
     flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
 
     ref_media_ids = get_clip_reference_media_ids(prompt)
-    is_extend = (clip_num > 1) and bool(start_image_media_id)
 
-    # Nếu là Clip 1 (hoặc chưa có start_image_media_id từ clip trước), tạo Start Frame 16:9 khóa nhân vật cho Veo-Lite
-    effective_start_mid = start_image_media_id
-    if not effective_start_mid:
-        effective_start_mid = generate_scene_start_frame_for_veo(prompt, scene_num, clip_num, ref_media_ids)
-
-    if effective_start_mid:
-        endpoint = "/api/flow/generate-video"
-        if is_extend:
-            mode = f"🔗 EXTEND VIDEO 8s ({VIDEO_MODEL_NAME} nối tiếp từ Frame cuối Clip {clip_num - 1:02d})"
-            slot_desc = f"Extend Start Frame = {effective_start_mid}"
-        else:
-            mode = f"🎬 INITIAL VEO-LITE 8s ({VIDEO_MODEL_NAME} từ Start Frame khóa nhân vật)"
-            slot_desc = f"Scene Start Frame = {effective_start_mid} (Refs: {', '.join(ref_media_ids)})"
-        payload = {
-            "start_image_media_id": effective_start_mid,
-            "prompt": flow_prompt,
-            "project_id": PROJECT_ID,
-            "scene_id": sid,
-            "duration_s": CLIP_DURATION_S,
-            "model_family": VIDEO_MODEL_FAMILY,
-            "resolution": "720p",
-            "aspect_ratio": ASPECT_RATIO,
-            "user_paygate_tier": "PAYGATE_TIER_TWO",
-        }
-    elif ref_media_ids:
-        endpoint = "/api/flow/generate-video-refs"
-        mode = f"🔒 Reference-to-Video 8s ({VIDEO_MODEL_NAME} fallback với {len(ref_media_ids)} nhân vật)"
-        slot_desc = f"Refs = {', '.join(ref_media_ids)}"
+    if ref_media_ids:
+        endpoint = "/api/flow/generate-video-omni"
+        mode = f"🔒 Ingredients Reference-to-Video (Khóa {len(ref_media_ids)} nhân vật gốc trên Google Flow)"
+        slot_desc = f"Ingredients Refs = {', '.join(ref_media_ids)}"
         payload = {
             "reference_media_ids": ref_media_ids,
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
             "duration_s": CLIP_DURATION_S,
-            "model_family": VIDEO_MODEL_FAMILY,
             "resolution": "720p",
             "aspect_ratio": ASPECT_RATIO,
-            "user_paygate_tier": "PAYGATE_TIER_TWO",
         }
     else:
         endpoint = "/api/flow/generate-video-omni-text"
-        mode = "🎬 Text-to-Video 8s (Fallback)"
-        slot_desc = "[Trống - Khởi tạo từ Text]"
+        mode = "🎬 Scene Opening (Text-to-Video Omni 10s)"
+        slot_desc = "[Trống - Khởi tạo cảnh gốc]"
         payload = {
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
@@ -782,17 +616,17 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
         }
 
     print_box(
-        "📡 FLOWKIT API REQUEST CALL (VEO-LITE 8S + EXTEND VIDEO)",
+        "📡 FLOWKIT API REQUEST CALL (GOOGLE FLOW OMNI 10S)",
         [
             ("Endpoint API", f"POST {endpoint}"),
             ("Tên Trên Google Flow", clip_tag),
             ("Phân Cảnh", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
             ("Chế Độ Tạo", mode),
             ("Khóa Hình Ảnh / Nhân Vật", slot_desc),
-            ("Thời Lượng", f"{CLIP_DURATION_S} giây (Veo 3.1 Lite 8s)"),
+            ("Thời Lượng", f"{CLIP_DURATION_S} giây (Omni Flash 10s)"),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", ASPECT_RATIO),
-            ("Model Family / Wire ID", f"{VIDEO_MODEL_FAMILY} ({VIDEO_MODEL_NAME})"),
+            ("Model Family", VIDEO_MODEL_FAMILY),
             ("Độ Dài Prompt", f"{len(flow_prompt)} ký tự"),
             ("Prompt Preview", flow_prompt[:120].replace("\n", " ") + "..."),
         ],
@@ -804,7 +638,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
 
 
 def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeout_s=360):
-    """Theo dõi tiến trình sinh video 8s (Veo-Lite) cho đến khi hoàn thành."""
+    """Theo dõi tiến trình sinh video 10s (Google Flow Omni) cho đến khi hoàn thành."""
     url = f"{FLOWKIT_API}/api/flow/check-status"
     start_time = time.time()
 
@@ -821,9 +655,9 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
     poll_mode_desc = (
         "workflows (Text-to-Video)"
         if workflows
-        else ("operations (Veo 3.1 Lite 8s I2V / Video Extend)" if operations else "direct media")
+        else ("operations (Omni 10s R2V/I2V)" if operations else "direct media")
     )
-    log(f"⏳ Đang theo dõi tiến trình tạo video 8s [Cảnh {scene_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
+    log(f"⏳ Đang theo dõi tiến trình tạo video 10s [Cảnh {scene_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
 
     last_logged_time = 0
     while time.time() - start_time < timeout_s:
@@ -886,7 +720,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         return {"success": False, "error": "OPERATION_FAILED"}
 
                     if all_done and inner_ops:
-                        log(f"🎉 Google Flow (Veo-Lite 8s) render hoàn tất sau {elapsed}s!")
+                        log(f"🎉 Google Flow (Omni 10s) render hoàn tất sau {elapsed}s!")
                         target_mid = op_media_id or primary_media_id
                         if not video_url and target_mid:
                             video_url = fetch_media_video_url(target_mid)
@@ -911,7 +745,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 
             if elapsed - last_logged_time >= 12:
                 last_logged_time = elapsed
-                log(f"   ...Google Flow ({VIDEO_MODEL_NAME} 8s) đang vẽ video ({elapsed}s trôi qua)...")
+                log(f"   ...Google Flow ({VIDEO_MODEL_NAME} 10s) đang vẽ video ({elapsed}s trôi qua)...")
 
         except Exception as e:
             log(f"   ...lỗi tạm thời khi poll ({e}), tiếp tục chờ...")
@@ -923,7 +757,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 
 
 # -------------------------------------------------------------
-# 5. CHU TRÌNH ĐIỀU PHỐI TỔNG THỂ (VEO-LITE 8S + EXTEND VIDEO)
+# 5. CHU TRÌNH ĐIỀU PHỐI TỔNG THỂ (GOOGLE FLOW OMNI 10S)
 # -------------------------------------------------------------
 def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 2):
     current_prompt = initial_prompt
@@ -945,7 +779,7 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
             if res.status_code == 200:
                 data = res.json()
                 inner = data.get("data") if isinstance(data.get("data"), dict) else data
-                log(f"✅ Google Flow đã chấp nhận job tạo video 8s ({VIDEO_MODEL_NAME}).")
+                log(f"✅ Google Flow đã chấp nhận job tạo video 10s ({VIDEO_MODEL_NAME}).")
 
                 poll_res = poll_generation(inner, scene_num, clip_num)
                 if poll_res["success"] and poll_res.get("video_url"):
@@ -960,10 +794,6 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
         if attempt < max_retries:
             log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - LẦN THỬ {attempt + 1}/{max_retries}] Đang làm mềm prompt trên bộ nhớ cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
             current_prompt = sanitize_prompt(initial_prompt, attempt)
-            if start_image_media_id:
-                log(f"🔄 Giữ frame cuối của clip trước để Extend Video 8s ({VIDEO_MODEL_NAME}) và chạy lại sau 5 giây...")
-            else:
-                log(f"🔄 Khởi tạo lại Start Frame khóa nhân vật cho {VIDEO_MODEL_NAME} 8s và chạy lại sau 5 giây...")
             time.sleep(5)
 
     log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN LỖI] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã fail {max_retries} lần — tạm bỏ qua để kiểm tra và tạo lại sau!")
@@ -973,12 +803,11 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
 def run_pipeline(start_scene=1, end_scene=15):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
-    print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT — BÍ MẬT PHÒNG 613 (VEO-LITE 8S + EXTEND VIDEO)")
+    print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT — BÍ MẬT PHÒNG 613 (GOOGLE FLOW OMNI 10S)")
     print(f"📁 Phạm vi: Cảnh {start_scene:02d} đến Cảnh {end_scene:02d} (6 clips × {CLIP_DURATION_S}s = {6 * CLIP_DURATION_S}s/cảnh)")
-    print(f"🤖 Model Video: {VIDEO_MODEL_NAME} (model_family={VIDEO_MODEL_FAMILY}, {CLIP_DURATION_S}s/clip + Video Extend)")
+    print(f"🤖 Model Video: {VIDEO_MODEL_NAME} (model_family={VIDEO_MODEL_FAMILY}, {CLIP_DURATION_S}s/clip Ingredients R2V)")
     print(f"🔗 Google Flow Project: {PROJECT_ID}")
     print(f"💾 Tải video tự động về: {OUTPUT_VIDEOS_DIR}")
-    print(f"🖼️ Lưu khung hình Extend Video tại: {FRAMES_DIR}")
     print("=" * 72 + "\n", flush=True)
 
     if not check_connection():
@@ -994,13 +823,12 @@ def run_pipeline(start_scene=1, end_scene=15):
     for s in range(start_scene, end_scene + 1):
         CURRENT_EP_NUM = s
         print("\n" + "#" * 72)
-        print(f"👉 BẮT ĐẦU CẢNH {s:02d} (6 Clips × {CLIP_DURATION_S}s — Veo-Lite + Video Extend)")
+        print(f"👉 BẮT ĐẦU CẢNH {s:02d} (6 Clips × {CLIP_DURATION_S}s — Google Flow Omni 10s)")
         print("#" * 72, flush=True)
 
-        previous_clip_last_frame_media_id = None
         rendered_in_this_run = set()
-
         scene_dir = os.path.join(SERIES_DIR, f"canh-{s:02d}")
+
         for c_idx in clip_indices:
             CURRENT_CLIP_NUM = c_idx
             fpath = os.path.join(scene_dir, f"clip-{c_idx}.md")
@@ -1014,24 +842,18 @@ def run_pipeline(start_scene=1, end_scene=15):
                     progress_pct = (completed_clips / max(1, total_clips)) * 100
                     log(
                         f"☁️ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} "
-                        f"đã có video ({r2_done}) — nạp frame cuối làm mốc Extend Video cho clip kế tiếp."
+                        f"đã có video trên R2/D1 ({r2_done}) — bỏ qua!"
                     )
-                    previous_clip_last_frame_media_id = None
                     continue
 
             with open(fpath, "r", encoding="utf-8") as f:
                 prompt_content = f.read().strip()
 
-            # 🔗 EXTEND VIDEO: Từ Clip 2 trở đi luôn lấy frame cuối của Clip (c_idx - 1) làm Start Frame cho Veo-Lite 8s
-            if c_idx > 1 and not previous_clip_last_frame_media_id:
-                previous_clip_last_frame_media_id = load_previous_last_frame(s, c_idx - 1)
-
             completed_clips += 1
             progress_pct = (completed_clips / max(1, total_clips)) * 100
-            mode_tag = "ROOT 8s" if c_idx == 1 else f"EXTEND 8s từ Clip {c_idx - 1:02d}"
             print(
                 f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — "
-                f"CẢNH {s:02d} - CLIP {c_idx:02d} [{mode_tag} | {VIDEO_MODEL_NAME}]",
+                f"CẢNH {s:02d} - CLIP {c_idx:02d} [OMNI 10S R2V | {VIDEO_MODEL_NAME}]",
                 flush=True,
             )
 
@@ -1039,7 +861,7 @@ def run_pipeline(start_scene=1, end_scene=15):
                 scene_num=s,
                 clip_num=c_idx,
                 initial_prompt=prompt_content,
-                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None,
+                start_image_media_id=None,
             )
 
             if res["success"] and res.get("video_url"):
@@ -1048,17 +870,9 @@ def run_pipeline(start_scene=1, end_scene=15):
                 if local_video:
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
-
-                # Trích xuất frame cuối của clip 8s vừa xong để Extend Video sang clip tiếp theo (c_idx + 1)
-                frame_path = extract_last_frame(local_video if local_video else video_url, s, c_idx)
-                has_next_clip = c_idx < 6
-                previous_clip_last_frame_media_id = (
-                    upload_start_frame(frame_path) if frame_path and has_next_clip else None
-                )
             else:
                 mark_clip_failed_in_db(CHANNEL_SLUG, s, c_idx)
                 log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Đã đánh dấu FAILED để retry sau.")
-                previous_clip_last_frame_media_id = None
 
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
@@ -1080,10 +894,10 @@ def run_pipeline(start_scene=1, end_scene=15):
             )
 
         CURRENT_CLIP_NUM = None
-        log(f"✅ Đã hoàn tất render các clip 8s của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
+        log(f"✅ Đã hoàn tất render các clip 10s của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
 
     print("\n" + "=" * 72)
-    print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d} (VEO-LITE 8S + EXTEND VIDEO)!")
+    print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d} (GOOGLE FLOW OMNI 10S)!")
     print(f"📁 Video hoàn chỉnh đã được lưu tại: {OUTPUT_VIDEOS_DIR}")
     print("=" * 72 + "\n", flush=True)
 

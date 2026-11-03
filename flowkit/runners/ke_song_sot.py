@@ -702,7 +702,7 @@ def upload_start_frame(image_path: str) -> str:
 # 4. GỬI API REQUEST & LOG CHI TIẾT PARAMS (KHÓA NHÂN VẬT)
 # -------------------------------------------------------------
 def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
-    """Gửi yêu cầu tạo video và luôn khóa đúng nhân vật Kẻ Sống Sót."""
+    """Gửi yêu cầu tạo video 10s bằng Google Flow Omni (Ingredients R2V / Text-to-Video, không bao giờ chèn start_image_media_id ở đầu video)."""
     if len(LOCKED_CHARACTER_MEDIA_IDS) < len(CHARACTER_SPECS):
         load_and_lock_project_characters()
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
@@ -710,24 +710,9 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
     flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
 
-    use_char_refs = is_new_scene_clip(prompt, clip_num, start_image_media_id)
     ref_media_ids = get_clip_reference_media_ids(prompt)
 
-    if not use_char_refs and start_image_media_id:
-        endpoint = "/api/flow/generate-video"
-        mode = "🔗 Image-to-Video (Nối tiếp khung hình cuối Clip trước)"
-        slot_desc = f"Start Frame = {start_image_media_id}"
-        payload = {
-            "start_image_media_id": start_image_media_id,
-            "prompt": flow_prompt,
-            "project_id": PROJECT_ID,
-            "scene_id": sid,
-            "duration_s": 10,
-            "model_family": "omni_flash",
-            "resolution": "720p",
-            "aspect_ratio": ASPECT_RATIO
-        }
-    elif ref_media_ids:
+    if ref_media_ids:
         endpoint = "/api/flow/generate-video-omni"
         mode = f"🔒 Ingredients Reference-to-Video (Khóa {len(ref_media_ids)} nhân vật gốc Kẻ Sống Sót)"
         slot_desc = f"Ingredients Refs = {', '.join(ref_media_ids)}"
@@ -1116,7 +1101,6 @@ def run_pipeline(start_scene=1, end_scene=60):
                 local_video = download_and_rename_video(video_url, s, c_idx)
                 if local_video:
                     rendered_in_this_run.add(c_idx)
-                    extract_last_frame(local_video, s, c_idx)
                 previous_clip_last_frame_media_id = None
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
             else:

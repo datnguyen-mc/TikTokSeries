@@ -92,8 +92,9 @@ class FilmContinuityTests(unittest.TestCase):
                                       self.shots[i+1] if i<359 else None)
             for field in film.DETAIL_FIELDS:
                 self.assertIn(c['cinematic'][field].rstrip('.'),prompt,(c['id'],field))
-            self.assertIn('[GLOBAL VOICE SPEED RULE — 1.25x]',prompt,c['id'])
-            self.assertIn('1.25x normal conversational speaking speed (125%)',prompt,c['id'])
+            self.assertIn('[VOICE ACTING & ADAPTIVE SPEECH DIRECTION]',prompt,c['id'])
+            self.assertIn(film.VOICE_DIRECTION,prompt,c['id'])
+            self.assertIn(film.SPEECH_DIRECTION,prompt,c['id'])
             dialogue=prompt.split('[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]\n',1)[1].split('\n[SOUND]',1)[0]
             self.assertNotIn(c['cinematic']['intent'],dialogue,c['id'])
         guide=film.render_beatmap(self.plan)
@@ -139,7 +140,7 @@ class FilmContinuityTests(unittest.TestCase):
 
     def test_smart_voice_speed_scene_classification_and_priority_order(self):
         valid_cats = {'FIGHT_ACTION', 'VEHICLE_RACE', 'VEHICLE_CHASE', 'DIALOGUE', 'EMOTIONAL_DRAMA', 'ESTABLISHING', 'TRANSITION', 'OTHER'}
-        valid_speeds = {'1.0x', '1.25x', '1.5x', '2.0x'}
+        valid_speeds = {'0.95x', '1.00x', '1.05x', '1.15x', '1.20x', '1.25x'}
         seen_speeds = set()
         for i, c in enumerate(self.shots):
             cid = c['id']
@@ -153,7 +154,8 @@ class FilmContinuityTests(unittest.TestCase):
             text = film.render_prompt(
                 self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 359 else None
             )
-            self.assertIn(f"Adaptive Shot Voice Speed ({cat}): {spd}", text, cid)
+            self.assertIn(f"Single Target Voice Speed ({cat}): {spd}", text, cid)
+            self.assertNotIn('Hz', text, cid)
             self.assertEqual('[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]' in text, cat == 'FIGHT_ACTION', cid)
             self.assertEqual(f'[HIGH-SPEED VEHICLE ACTION — {cat}]' in text, cat in ('VEHICLE_CHASE', 'VEHICLE_RACE'), cid)
             if cat == 'FIGHT_ACTION':
@@ -166,7 +168,7 @@ class FilmContinuityTests(unittest.TestCase):
                 '[CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]',
                 '[PROPS]',
                 '[BODY, MOUTH AND FACE CONSISTENCY]',
-                '[GLOBAL VOICE SPEED RULE — 1.25x]',
+                '[VOICE ACTING & ADAPTIVE SPEECH DIRECTION]',
                 '[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]',
                 '[SOUND]',
                 '[EDIT IN — do not render the previous shot again]',

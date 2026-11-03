@@ -210,32 +210,149 @@ def person_lock(plan: dict, key: str, c: dict) -> str:
         notes.append('one glasses arm bent, held by tape after rescue')
     extra = ' ' + '; '.join(notes) + '.' if notes else ''
     outfit_cap = outfit[:1].upper() + outfit[1:] if outfit else ''
-    return f"{identity['tag']} = {identity['name']}: same approved identity, age {age}; {face}. Wardrobe & gear: {outfit_cap}.{extra} Voice profile: {identity['voice']}."
+    return (
+        f"{identity['tag']} = {identity['name']}: same approved identity, age {age}; {face}. "
+        f"Wardrobe & gear: {outfit_cap}.{extra} "
+        f"Voice profile [VOICE_LOCK_{base} — Fixed {age}-year-old native Southern Vietnamese (Saigon) voice profile, strictly locked across all 360 clips]: {identity['voice']}."
+    )
 
 
 def dialogue_text(plan: dict, d: dict, t_window: str | None = None) -> str:
     if d['speaker'] in plan['looks']:
-        identity = plan['identities'][base_key(plan,d['speaker'])]
+        base = base_key(plan, d['speaker'])
+        identity = plan['identities'][base]
         speaker = f"{identity['name']} ({identity['tag']})" if d['mode']=='on' else identity['name']
+        vlock = f"VOICE_LOCK_{base}"
     else:
         speaker = {'BROKER':'Người gọi giấu tên','RADIO':'Bộ đàm','EXTRA':'Người trong cảnh','OFFICER':'Cán bộ hỗ trợ'}[d['speaker']]
+        vlock = f"VOICE_LOCK_{d['speaker']}"
     mode = {'on':'nói trong hình','off':'ngoài khung hình','vo':'lời dẫn ngoài hình','device':'qua thiết bị'}[d['mode']]
     tone = d.get('tone', '').strip()
-    meta_parts = [p for p in (t_window, tone) if p]
+    meta_parts = [p for p in (t_window, vlock if t_window else None, tone) if p]
     meta_str = f" [{' | '.join(meta_parts)}]" if meta_parts else ""
     return f"{speaker}, {mode}{meta_str}: {d['text']}"
 
 
+def locked_voice_ids_summary(plan: dict, c: dict) -> str:
+    """Summarize pre-defined VOICE_LOCK IDs for all characters speaking in this shot."""
+    items = []
+    for d in c.get('dialogue', []):
+        spk = d['speaker']
+        if spk in plan['looks']:
+            base = base_key(plan, spk)
+            ident = plan['identities'][base]
+            items.append(f"VOICE_LOCK_{base} ({ident['name']} {ident['tag']}: {ident['voice']} — fixed native Saigon voice)")
+        else:
+            items.append(f"VOICE_LOCK_{spk} ({GENERIC_VOICES.get(spk, spk)})")
+    return '; '.join(dict.fromkeys(items)) if items else 'No active speaker in this shot'
+
+
+def second_by_second_action_breakdown(plan: dict, c: dict) -> str:
+    """Break the 10-second shot into 5 explicit 2-second movement & hand/prop manipulation windows (0.0s–10.0s | Giây 1–10)."""
+    act = c['action'].strip()
+    m = re.match(
+        r'^0\.0–(\d+(?:\.\d)?)s:\s*(.+?)\s*\1–(\d+(?:\.\d)?)s:\s*(.+?)\s*\3–10\.0s:\s*(.+)$',
+        act,
+        flags=re.S,
+    )
+    if m:
+        t1, b1, t2, b2, b3 = m.groups()
+        b1 = b1.strip().rstrip('.')
+        b2 = b2.strip().rstrip('.')
+        b3 = b3.strip().rstrip('.')
+    else:
+        sents = [s.strip().rstrip('.') for s in re.split(r'(?<=[.!?])\s+', act) if s.strip()]
+        t1, t2 = '3.0', '7.0'
+        b1 = sents[0] if sents else act.rstrip('.')
+        b2 = sents[1] if len(sents) > 1 else b1
+        b3 = ' '.join(sents[2:]) if len(sents) > 2 else b2
+    spd = c.get('voice_speed', '1.05x')
+    turns = c.get('dialogue', [])
+    if len(turns) == 1:
+        w1 = len(turns[0]['text'].split())
+        d1 = min(8.2, max(3.5, round(w1 / 3.8, 1)))
+        t_windows = [(0.3, round(0.3 + d1, 1))]
+    elif len(turns) > 1:
+        w1 = len(turns[0]['text'].split())
+        w2 = len(turns[1]['text'].split())
+        d1 = min(4.3, max(2.5, round(w1 / 3.9, 1)))
+        d2 = min(4.3, max(2.5, round(w2 / 3.9, 1)))
+        t1_end = round(0.3 + d1, 1)
+        t2_start = round(t1_end + 0.3, 1)
+        t2_end = min(9.4, round(t2_start + d2, 1))
+        t_windows = [(0.3, t1_end), (t2_start, t2_end)]
+    else:
+        t_windows = []
+    dlg_parts = []
+    for d, (a, b) in zip(turns, t_windows):
+        if d['speaker'] in plan['looks']:
+            base = base_key(plan, d['speaker'])
+            ident = plan['identities'][base]
+            mode_note = 'on-screen lip-sync' if d['mode'] == 'on' else 'mouth closed (off-screen/VO/device)'
+            dlg_parts.append(f"{a:.1f}–{b:.1f}s: {ident['name']} ({ident['tag']}) via VOICE_LOCK_{base} at {spd} ({mode_note})")
+        else:
+            dlg_parts.append(f"{a:.1f}–{b:.1f}s: VOICE_LOCK_{d['speaker']} at {spd}")
+    dlg_summary = '; '.join(dlg_parts) if dlg_parts else 'No spoken dialogue; mouths remain naturally closed'
+    return (
+        f"\n[SECOND-BY-SECOND MOVEMENT & HAND-PROP MANIPULATION TIMELINE (0.0s → 10.0s | Giây 1 đến Giây 10)]:\n"
+        f"- 0.0s–2.0s (Giây 1–2 | Start-Frame Posture & Initial Action): Start immediately at 0.0s from START FRAME ({c['start_frame'].rstrip('.')}; zero portrait flash) and initiate opening movement: {b1}. Hands grip carried props with 5 natural fingers and real weight.\n"
+        f"- 2.0s–4.0s (Giây 3–4 | Hand/Body Transition & Speech Onset): Complete opening movement at {t1}s and transition smoothly into core physical action: {b2}. Active voice & mouth control: {dlg_summary}.\n"
+        f"- 4.0s–6.0s (Giây 5–6 | Core Physical & Prop Manipulation): Execute central hand/prop and body mechanics ({b2}) with realistic weight, inertia, and continuous torso/hand follow-through; never freeze physical motion to speak, and listeners keep mouths closed.\n"
+        f"- 6.0s–8.0s (Giây 7–8 | Secondary Action & Eyeline Transition): Transition at {t2}s into closing movement ({b3}) with organic breath control and accurate 180-degree eye tracking.\n"
+        f"- 8.0s–10.0s (Giây 9–10 | Final Manipulation Settle & 10.0s End-Frame Lock): Complete closing action ({b3}) and lock final posture, prop placement, and eyeline at 10.0s to match END FRAME ({c['end_frame'].rstrip('.')})."
+    )
+
+
+VOICE_DIRECTION = (
+    'Natural native Southern Vietnamese conversational speech, authentic Saigon cadence, '
+    'subtle human vocal imperfections, emotionally motivated phrasing, organic breath control, '
+    'natural pitch variation, relaxed articulation and believable live-action film acting. '
+    'Never sound like a narrator, text-to-speech engine, audiobook reader or commercial voice-over.'
+)
+
+SPEECH_DIRECTION = (
+    'Dialogue should flow as spontaneous human speech, with natural breath groups, '
+    'subtle hesitation only when emotionally justified, realistic sentence stress, '
+    'varied intonation and a believable conversational rhythm. '
+    'Never deliver dialogue as a perfectly uniform sequence of words.'
+)
+
+
 def voice_speed_profile(c: dict) -> tuple[str, str, str]:
-    """Return (speed_tag, pct_str, description) based on smart context-aware voice_speed."""
-    spd = c.get('voice_speed', '1.25x')
+    """Return (speed_tag, pct_str, description) based on realistic human acting range (0.95x–1.25x)."""
+    spd = c.get('voice_speed', '1.05x')
     profiles = {
-        '1.0x': ('1.0x', '100%', 'grounded emotional and reflective pacing (1.0x / 100%) — measured, intimate, emotionally weighted Southern Vietnamese delivery'),
-        '1.25x': ('1.25x', '125%', 'brisk natural conversational pacing (1.25x / 125%) — energetic, articulate Southern Vietnamese delivery'),
-        '1.5x': ('1.5x', '150%', 'fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery'),
-        '2.0x': ('2.0x', '200%', 'rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery'),
+        '0.95x': ('0.95x', '95%', 'Emotional / Grief / Intimate cadence (0.95x / 95%, range 0.90x–1.00x) — soft, breath-paced, emotionally weighted Southern Vietnamese delivery with natural pauses'),
+        '1.00x': ('1.00x', '100%', 'Mystery / Suspense / Investigatory cadence (1.00x / 100%, range 0.95x–1.05x) — hushed, guarded, watchful Southern Vietnamese delivery'),
+        '1.05x': ('1.05x', '105%', 'Normal Conversational cadence (1.05x / 105%, range 1.00x–1.10x) — natural everyday Saigon conversational flow with relaxed phrasing'),
+        '1.15x': ('1.15x', '115%', 'Argument / Urgency / Confrontation cadence (1.15x / 115%, range 1.10x–1.20x) — firm, pressured, emotionally urgent Southern Vietnamese delivery'),
+        '1.20x': ('1.20x', '120%', 'Action / Chase / Tactical cadence (1.20x / 120%, range 1.15x–1.25x) — decisive, breath-driven, high-stakes live-action Southern Vietnamese delivery'),
+        '1.25x': ('1.25x', '125%', 'Peak Action / Combat Crisis cadence (1.25x / 125%, range 1.15x–1.25x) — sharp, adrenaline-charged Southern Vietnamese tactical delivery'),
     }
-    return profiles.get(spd, profiles['1.25x'])
+    return profiles.get(spd, profiles['1.05x'])
+
+
+def emotional_performance_note(c: dict) -> str:
+    """Derive shot-specific human emotional vocal performance guidance."""
+    scene_cat = c.get('scene_category', 'DIALOGUE')
+    spd = c.get('voice_speed', '1.05x')
+    tones = [d.get('tone', '').strip() for d in c.get('dialogue', []) if d.get('tone')]
+    tone_str = '; '.join(dict.fromkeys(tones)) if tones else ''
+    perf = c.get('cinematic', {}).get('performance', '')
+    base_map = {
+        '0.95x': 'Buồn / Xúc động / Tâm sự (Emotional / Grief): slower tempo, lower intimate volume, genuine breath pauses and quiet emotional weight.',
+        '1.00x': 'Bí ẩn / Dè chừng (Mystery / Suspense): low guarded voice, cautious phrasing, watchful breathing, never theatrical.',
+        '1.05x': 'Đời thường / Đối thoại tự nhiên (Natural Saigon Conversation): relaxed everyday Southern cadence, natural word linking and genuine human warmth/tension.',
+        '1.15x': 'Căng thẳng / Tranh luận / Khẩn cấp (Argument / Urgency): firm grounded voice, deliberate word stress, slightly quicker anxious or confrontational rhythm without nonstop shouting.',
+        '1.20x': 'Hành động / Rượt đuổi (Action / Chase): quick, urgent, breath-connected phrases driven by physical movement and real exertion.',
+        '1.25x': 'Cao trào / Xung đột trực diện (Peak Action / Combat): short, decisive, adrenaline-charged calls anchored in real physical effort and rapid breathing.',
+    }
+    note = base_map.get(spd, base_map['1.05x'])
+    if tone_str:
+        note += f" Line-specific vocal tone: {tone_str}."
+    if perf:
+        note += f" Physical acting link: {perf.split(' (Acting discipline:')[0]}"
+    return note
 
 
 def voice_block(plan: dict, c: dict) -> str:
@@ -262,24 +379,24 @@ def voice_block(plan: dict, c: dict) -> str:
         end = t2_end
     modes = {d['mode'] for d in turns}
     if modes == {'on'} and wide_exterior_vehicle:
-        rendering = f'Speaker inside or aboard the moving vehicle (nói trong hình) delivers the line at adaptive {spd} ({pct}) speaking speed (baseline 1.25x conversational rule); from this wide exterior vehicle angle prioritize natural driver posture and head sync without forcing a close-up mouth zoom.'
+        rendering = f'Speaker inside or aboard the moving vehicle (nói trong hình) delivers the line at single target speed {spd} ({pct}); from this wide exterior vehicle angle prioritize natural driver posture and head sync without forcing a close-up mouth zoom.'
     elif modes == {'on'}:
-        rendering = f'Visible speaker (nói trong hình) delivers the line at adaptive {spd} ({pct}) speaking speed (baseline 1.25x conversational speaking speed / 125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.'
+        rendering = f'ONLY the active speaker (nói trong hình) moves their lips at single target speed {spd} ({pct}) with natural Southern Vietnamese jaw, lip and cheek movement (never over-open the mouth on every syllable; keep acting and moving naturally while speaking); all listeners keep their mouths naturally closed and react through eyes and posture.'
     elif modes == {'vo'}:
-        rendering = f'Voice-over narration only (lời dẫn ngoài hình) at adaptive {spd} ({pct}) speaking speed (baseline 1.25x conversational speaking speed / 125%); all visible mouths remain completely closed at rest while physical action unfolds.'
+        rendering = f'Internal character thought / voice-over only (lời dẫn ngoài hình) at single target speed {spd} ({pct}); all visible mouths remain completely closed at rest while physical action unfolds.'
     elif modes == {'off'}:
-        rendering = f'Off-screen speech (ngoài khung hình) at adaptive {spd} ({pct}) speaking speed (baseline 1.25x conversational speaking speed / 125%); do not add the speaker into frame or animate the visible listener speaking.'
+        rendering = f'Off-screen speech (ngoài khung hình) at single target speed {spd} ({pct}); do not add the speaker into frame or animate the visible listener speaking.'
     elif modes == {'device'}:
-        rendering = f'Speech heard through the established communication device (qua thiết bị) at adaptive {spd} ({pct}) speaking speed (baseline 1.25x conversational speaking speed / 125%); no caller body added to this shot.'
+        rendering = f'Speech heard through the established communication device (qua thiết bị) at single target speed {spd} ({pct}); no caller body added to this shot.'
     else:
-        rendering = f'Follow each turn mode strictly at adaptive {spd} ({pct}) speaking speed (nói trong hình = visible mouth lip-sync when face is in range; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = visible mouths closed at rest).'
+        rendering = f'Follow each turn mode strictly at single target speed {spd} ({pct}) (nói trong hình = only the active speaker moves their lips with natural Southern Vietnamese articulation when face is in range; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = visible mouths remain naturally closed).'
     prefixes = [GENERIC_VOICES[d['speaker']] for d in turns if d['speaker'] in GENERIC_VOICES]
     prefix_block = ('\n'.join(dict.fromkeys(prefixes)) + '\n') if prefixes else ''
     lines_block = '\n'.join(dialogue_text(plan, d, t_windows[i]) if isinstance(t_windows, list) else dialogue_text(plan, d, t_win) for i, (d, t_win) in enumerate(zip(turns, t_windows)))
-    turn_label = 'two natural back-and-forth conversational turns' if len(turns) > 1 else 'one natural, well-articulated spoken line'
+    turn_label = 'two natural back-and-forth conversational turns' if len(turns) > 1 else 'one natural, emotionally grounded spoken line'
     total_w = sum(len(d['text'].split()) for d in turns)
     return (
-        f"Delivery & Timing: 0.3–{end:.1f}s, {turn_label} ({total_w} Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive {spd} ({pct}) [{spd_desc}] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).\n"
+        f"Delivery & Timing: 0.3–{end:.1f}s, {turn_label} ({total_w} Vietnamese words — calibrated for natural breathing, emotional phrasing and single target speed {spd} ({pct}) [{spd_desc}]).\n"
         f"Lip-Sync & Voice Control: {rendering}\n"
         f"{prefix_block}{lines_block}\n"
         f"Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions."
@@ -450,11 +567,12 @@ def render_prompt(plan: dict, c: dict, previous: dict|None, following: dict|None
         f'Scene sound profile ({scene_cat}): Prioritize clean, forward-mixed Southern Vietnamese dialogue over a balanced, realistic coastal/interior ambience bed that never masks vocal clarity.',
     )
     return f"""{head}
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: {shutter_spec}. Scene category: {scene_cat} | Adaptive voice speed: {spd} ({pct}). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: {shutter_spec}. Scene category: {scene_cat} | Single target voice speed: {spd} ({pct}). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
 {locks}
 {note.strip()}
+Character reference images are for identity locking only — NEVER display, flash or insert the static character portrait card or studio backdrop at 0.0s; start directly in the live-action scene.
 {picture_refs}
 
 [TIMELINE AND LOCATION]
@@ -463,7 +581,7 @@ Scene {c['scene']:02d}/60, clip {c['number']}/6; shot {c['id']}. Story time: {c[
 Lighting & Color: {c['lighting']} Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.{spatial_block}{scene_intro}{intent}
 
 [ACTION — 0–10s, one clear primary action in a continuous take]
-{c['action']}
+{c['action']}{second_by_second_action_breakdown(plan, c)}
 Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.{rhythm}
 {fight_module}{vehicle_module}{staging}
 
@@ -478,28 +596,13 @@ Single primary action rule: Execute ONE clear primary physical action from start
 [BODY, MOUTH AND FACE CONSISTENCY]
 Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
 
-[GLOBAL VOICE SPEED RULE — 1.25x]
-All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
-All spoken Vietnamese dialogue must be delivered at
-1.25x normal conversational speaking speed (125%).
-Adaptive Shot Voice Speed ({scene_cat}): {spd} ({pct}) — {spd_desc}.
-
-Maintain a natural Southern Vietnamese accent,
-clear articulation, expressive intonation, and
-accurate syllable-level lip synchronization.
-
-Speech must sound naturally fast and energetic,
-not artificially time-stretched or pitch-shifted.
-
-Preserve each character's original voice identity,
-pitch, emotional tone, and vocal personality.
-
-Do not rush, swallow syllables, clip words,
-or introduce unnatural pauses.
-
-Complete dialogue within its assigned time window.
-Continue natural breathing, facial expressions,
-and physical actions after the line finishes.
+[VOICE ACTING & ADAPTIVE SPEECH DIRECTION]
+Locked Character Voice ID(s) for this shot: {locked_voice_ids_summary(plan, c)}. Keep each character's pre-defined voice identity, pitch register, timbre and native Saigon accent 100% consistent across all 360 clips.
+Single Target Voice Speed ({scene_cat}): {spd} ({pct}) — {spd_desc}.
+Voice direction: "{VOICE_DIRECTION}"
+Speech direction: "{SPEECH_DIRECTION}"
+Emotional performance purpose: {emotional_performance_note(c)}
+Cinematic lip-sync & breathing discipline: Complete dialogue within its assigned time window with organic breath control, natural jaw/lip/cheek articulation and realistic micro-expressions; continue natural breathing and physical action after the line finishes.
 
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
 {voice_block(plan,c)}
@@ -507,7 +610,7 @@ and physical actions after the line finishes.
 [SOUND]
 Continuous ambience bed: {sound}.{sound_specific}
 {scene_sound_profile}
-Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: {audio_bridge or 'Follow the stated incoming/outgoing edit without restarting the ambience.'}
+Audio & Vocal Mix Discipline: Keep spoken Southern Vietnamese dialogue clear, close and naturally grounded in the real acoustic space; never let rain, wind, boat engines, vehicles or room ambience drown out the voice; no artificial reverb, no robotic radio/narrator tone, and no unrequested background music score. Edit bridge: {audio_bridge or 'Follow the stated incoming/outgoing edit without restarting the ambience.'}
 
 [EDIT IN — do not render the previous shot again]
 {transition_text(c,previous)}
@@ -521,7 +624,7 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 {out}
 
 [AVOID]
-No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech, robotic TTS/narrator delivery or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops at 0.0s or anywhere in the clip; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
 """
 
 

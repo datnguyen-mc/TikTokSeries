@@ -1,9 +1,9 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Scene category: TRANSITION | Adaptive voice speed: 1.5x (150%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: insert, shot type: INSERT_DETAIL): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Scene category: TRANSITION | Target voice speed: 1.00x (100%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: insert, shot type: INSERT_DETAIL): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
-Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment (or preserve the start frame when continuing). Only the listed characters and the unnamed people written into this shot appear in frame.
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment — NEVER display, flash, cut from, or transition from the standalone reference portrait image or plain grey studio backdrop at 0.0s; Frame 1 (0.0s) must begin directly inside the live scene environment in motion. Only the listed characters and the unnamed people written into this shot appear in frame.
 No named lead visible. Mechanical/vehicle/environment insert shot — do not add any lead character body to the frame.
 Keep exact approved appearance for no visible cast (vehicle/object detail insert) with surrounding props (RX7, F150_TRUCK); never show a studio reference backdrop.
 
@@ -22,6 +22,12 @@ Chiếc Mazda RX-7 đỏ rực của Micdo Toto phanh cháy đường trước q
 
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Sunlight gleams across the sculpted metallic-crimson hood and silver twin-spoke wheel of Micdo's RX7 parked behind Tom's red F150_TRUCK. Beat 2 (2.8–7.7s): While Micdo's voice plays off screen, the cockpit A-pillar boost gauges glow faintly behind the tinted windshield glass as the rotary engine idles with a rhythmic cadence. Beat 3 (7.7–10.0s): Heat shimmer rises gently from the hood vent into the midday air through 10.0s.
+[SECOND-BY-SECOND MOVEMENT & HAND-PROP MANIPULATION TIMELINE (0.0s → 10.0s | Giây 1 đến Giây 10)]:
+- 0.0s–2.0s (Giây 1–2 | Start-State Posture & Initial Motion): Begin directly at 0.0s from OPENING COMPOSITION (zero reference card flash) and initiate Beat 1 movement (Sunlight gleams across the sculpted metallic-crimson hood and silver twin-spoke wheel of Micdo's RX7 parked behind Tom's red F150_TRUCK). Hands grip steering/props with 5 natural fingers and real weight.
+- 2.0s–4.0s (Giây 3–4 | Beat 1 -> Beat 2 Hand/Body Transition): Complete Beat 1 motion at 2.8s and transition smoothly without pause into Beat 2 manipulation (While Micdo's voice plays off screen, the cockpit A-pillar boost gauges glow faintly behind the tinted windshield glass as the rotary engine idles with a rhythmic cadence). Dialogue/mouth sync active per window (2.8–7.7s: Micdo (@Micdo) delivers dialogue using locked voice VOICE_LOCK_MICDO at 1.00x while continuing physical movement).
+- 4.0s–6.0s (Giây 5–6 | Core Physical & Prop Manipulation): Execute the central physical/vehicle/prop operation of Beat 2 (While Micdo's voice plays off screen, the cockpit A-pillar boost gauges glow faintly behind the tinted windshield glass as the rotary engine idles with a rhythmic cadence) with continuous torso, arm, and hand follow-through; never freeze the body to speak, and listeners keep mouths closed.
+- 6.0s–8.0s (Giây 7–8 | Beat 2 -> Beat 3 Transition & Reaction Follow-Through): Transition at 7.7s from Beat 2 into Beat 3 (Heat shimmer rises gently from the hood vent into the midday air through 10.0s) with natural breathing, accurate eye tracking along the 180-degree axis, and realistic inertia.
+- 8.0s–10.0s (Giây 9–10 | Final Manipulation Settle & 10.0s End-State Lock): Complete Beat 3 (Heat shimmer rises gently from the hood vent into the midday air through 10.0s) and lock final body posture, hand-prop placement, vehicle trajectory, and eyeline at 10.0s to match FINAL COMPOSITION.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
 Action rhythm: Immediate mechanical motion at 0.0s, progressive physical actuation through 2.8–7.7s under off-screen voice, and continuous dynamic follow-through to 10.0s.
 
@@ -52,31 +58,16 @@ Body mechanics: to pick something up from low down a person bends at the knees a
 Mouth map: 2.8–7.7s Micdo heard off screen: no visible mouth moves. Outside these windows every mouth in frame is closed or relaxed and listeners never mouth along.
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
-[GLOBAL VOICE SPEED RULE — 1.25x]
-All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
-All spoken Vietnamese dialogue must be delivered at
-1.25x normal conversational speaking speed (125%).
-Adaptive Shot Voice Speed (TRANSITION): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
-
-Maintain a natural Southern Vietnamese accent,
-clear articulation, expressive intonation, and
-accurate syllable-level lip synchronization.
-
-Speech must sound naturally fast and energetic,
-not artificially time-stretched or pitch-shifted.
-
-Preserve each character's original voice identity,
-pitch, emotional tone, and vocal personality.
-
-Do not rush, swallow syllables, clip words,
-or introduce unnatural pauses.
-
-Complete dialogue within its assigned time window.
-Continue natural breathing, facial expressions,
-and physical actions after the line finishes.
+[VOICE ACTING & ADAPTIVE SPEECH DIRECTION]
+Locked Character Voice ID(s) for this shot: VOICE_LOCK_MICDO (Micdo @Micdo: deep, resonant, authoritative Southern Vietnamese male voice — fixed native Saigon voice). Keep each character's pre-defined voice identity, pitch register, timbre and native Saigon accent 100% consistent across all 240 clips.
+Single Target Voice Speed (TRANSITION): 1.00x (100%) — Mystery / Suspense range (0.95x–1.05x) — quiet, guarded, observant Southern Vietnamese delivery with restrained tension. Use ONLY this single target speed for this shot; all conflicting speed instructions are removed.
+Voice direction: "Natural native Southern Vietnamese conversational speech, authentic Saigon cadence, subtle human vocal imperfections, emotionally motivated phrasing, organic breath control, natural pitch variation, relaxed articulation and believable live-action film acting. Never sound like a narrator, text-to-speech engine, audiobook reader or commercial voice-over."
+Speech direction: "Dialogue should flow as spontaneous human speech, with natural breath groups, subtle hesitation only when emotionally justified, realistic sentence stress, varied intonation and a believable conversational rhythm. Never deliver dialogue as a perfectly uniform sequence of words."
+Emotional performance purpose: Bí ẩn / Thăm dò & Cảnh giác (Mystery / Guarded Suspense): quiet, guarded delivery (1.00x), measured breathing, alert restraint without artificial spooky or narrator tone. Shot acting focus: Mechanical and physical detail moves with smooth, continuous follow-through from 0.0s to 10.0s while Micdo's voice plays cleanly off screen.
+Cinematic lip-sync & breathing discipline: Complete dialogue comfortably within its assigned time window with natural breathing room before and after speaking. Only the active speaker moves their lips; listeners keep mouths naturally closed and react through eyes and micro-expressions. Jaw, lips, and cheeks move organically without over-opening on every syllable, and characters never freeze physical movement just to speak.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 1.5x (150%) Southern Vietnamese speaking speed (fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech. Off-screen voices never add a face to the shot.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at the single target speed 1.00x (100%) (Mystery / Suspense range (0.95x–1.05x) — quiet, guarded, observant Southern Vietnamese delivery with restrained tension) with natural Saigon conversational cadence and organic breath groups while that beat's movement happens; lines never overlap and the picture never freezes or waits for speech. Off-screen voices never add a face to the shot.
 2.8–7.7s · Micdo (@Micdo) speaks off screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Ở cái đất này, gia đình là giới hạn cuối cùng mà không kẻ nào được bước qua.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
 
@@ -84,6 +75,7 @@ Only words after the final colon are spoken. Never read names, tags or direction
 Location bed: street breeze, shoes scuffling on concrete and idling engines.
 Foreground sound: PRIORITY DIEGETIC SFX: signature high-pitched twin-rotor rotary engine scream at 8,000 RPM, crisp sequential downshift exhaust pops, and wide performance tire traction on asphalt; throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
 Scene sound profile (TRANSITION): Prioritize clean, forward-mixed Southern Vietnamese dialogue over a balanced, realistic environmental ambience bed that never masks vocal clarity.
+Vocal mix discipline: Keep spoken Vietnamese voices clear, close, and naturally grounded in the real acoustic space of the scene; engine, wind, rain, or ambient sound must never drown out dialogue; no artificial reverb or unrequested background music score.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
 
 [CONTINUITY AT 0.0s — single uncut shot]

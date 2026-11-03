@@ -7,7 +7,7 @@ Tuổi hiện tại: Sơn 45, Mây 38, Hạ 32, Bà Hai 60. Quá khứ xa cách 
 Muốn đưa Hạ về, cần chịu trách nhiệm về việc mình đã làm. Từ nhìn đường để thoát sang lựa chọn ở lại khai. Không cứu người để được xóa tội. Bà Hai nhận anh khi 20 tuổi, cách hiện tại 25 năm.
 
 Nhận diện: Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose.
-Giọng xuyên phim: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.25x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+Giọng xuyên phim: Deep, composed 45-year-old Southern Vietnamese (Saigon) male baritone, grounded natural conversational cadence, quiet inner gravity, relaxed articulation, organic breath control and restrained emotional warmth without theatrical exaggeration.
 
 Biến thể và prompt ảnh tham chiếu:
 - **SON:** Photorealistic reference of the SAME approved Vietnamese identity, age 45, cropped hair greying at the temples, faded olive field jacket over grey henley shirt, dark cargo trousers, worn brown leather boots, bare hands, carrying his weathered dark-olive canvas backpack with thick shoulder straps when traveling. Plain grey studio background, full body and portrait, no text, no real actor likeness.
@@ -22,7 +22,7 @@ Biến thể và prompt ảnh tham chiếu:
 Muốn tìm bạn và giữ thị trấn. Kiểm chứng trước khi hợp tác, bố trí hỗ trợ trước khi đi; trực tiếp dẫn cứu con tin và giữ luật sau cứu người.
 
 Nhận diện: Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak.
-Giọng xuyên phim: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.25x conversational rhythm, crisp articulation and composed breath control.
+Giọng xuyên phim: Clear, steady 38-year-old Southern Vietnamese female alto, authoritative yet humane investigative tone, authentic Saigon conversational rhythm, relaxed articulation and composed breath control.
 
 Biến thể và prompt ảnh tham chiếu:
 - **MAY:** Photorealistic reference of the SAME approved Vietnamese identity, age 38, plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Plain grey studio background, full body and portrait, no text, no real actor likeness.

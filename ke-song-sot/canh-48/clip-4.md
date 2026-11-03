@@ -1,10 +1,11 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: DIALOGUE | Adaptive voice speed: 1.5x (150%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: DIALOGUE | Single target voice speed: 1.15x (115%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
-@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. Wardrobe & gear: Plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice profile: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience.
-@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. Wardrobe & gear: Tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice profile: Smooth, calculated urban Southern Vietnamese male baritone, polished business cadence that tightens into cold menace under pressure.
+@Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. Wardrobe & gear: Plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice profile [VOICE_LOCK_HA — Fixed 32-year-old native Southern Vietnamese (Saigon) voice profile, strictly locked across all 360 clips]: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience.
+@Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. Wardrobe & gear: Tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice profile [VOICE_LOCK_KIEN — Fixed 50-year-old native Southern Vietnamese (Saigon) voice profile, strictly locked across all 360 clips]: Smooth, calculated urban Southern Vietnamese male baritone, polished business cadence that tightens into cold menace under pressure.
 Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
+Character reference images are for identity locking only — NEVER display, flash or insert the static character portrait card or studio backdrop at 0.0s; start directly in the live-action scene.
 
 
 [TIMELINE AND LOCATION]
@@ -21,6 +22,12 @@ Reward Hạ's concealed action by making the failed closure visible to her and t
 
 [ACTION — 0–10s, one clear primary action in a continuous take]
 0.0–2.5s: Kiên tests the latch with RIGHT hand while keeping LEFT-hand gun low, then regrips Hạ LEFT upper arm before moving her upward. 2.5–6.5s: Kiên tests the latch with his RIGHT hand while keeping the handgun low in his LEFT. The existing hair clip prevents full closure. He gives up, regrips Hạ LEFT upper arm with his RIGHT hand and moves her upward, timed naturally with the spoken delivery and active eyeline. 6.5–10.0s: Follow through with natural body weight and breathing (let him try the closure only once, then force hạ onward, leaving the ajar state for the following discovery), holding into service hatch still ajar, Kiên LEFT-hand handgun low and RIGHT hand again holding Hạ LEFT upper arm; Hạ has seen the gap remain through 10.0s without freezing.
+[SECOND-BY-SECOND MOVEMENT & HAND-PROP MANIPULATION TIMELINE (0.0s → 10.0s | Giây 1 đến Giây 10)]:
+- 0.0s–2.0s (Giây 1–2 | Start-Frame Posture & Initial Action): Start immediately at 0.0s from START FRAME (Kiên testing the gallery hatch behind him, Hạ facing the sea wall; zero portrait flash) and initiate opening movement: Kiên tests the latch with RIGHT hand while keeping LEFT-hand gun low, then regrips Hạ LEFT upper arm before moving her upward. Hands grip carried props with 5 natural fingers and real weight.
+- 2.0s–4.0s (Giây 3–4 | Hand/Body Transition & Speech Onset): Complete opening movement at 2.5s and transition smoothly into core physical action: Kiên tests the latch with his RIGHT hand while keeping the handgun low in his LEFT. The existing hair clip prevents full closure. He gives up, regrips Hạ LEFT upper arm with his RIGHT hand and moves her upward, timed naturally with the spoken delivery and active eyeline. Active voice & mouth control: 0.3–4.1s: Kiên (@Vũ Kiên) via VOICE_LOCK_KIEN at 1.15x (on-screen lip-sync); 4.4–8.0s: Hạ (@Ha) via VOICE_LOCK_HA at 1.15x (on-screen lip-sync).
+- 4.0s–6.0s (Giây 5–6 | Core Physical & Prop Manipulation): Execute central hand/prop and body mechanics (Kiên tests the latch with his RIGHT hand while keeping the handgun low in his LEFT. The existing hair clip prevents full closure. He gives up, regrips Hạ LEFT upper arm with his RIGHT hand and moves her upward, timed naturally with the spoken delivery and active eyeline) with realistic weight, inertia, and continuous torso/hand follow-through; never freeze physical motion to speak, and listeners keep mouths closed.
+- 6.0s–8.0s (Giây 7–8 | Secondary Action & Eyeline Transition): Transition at 6.5s into closing movement (Follow through with natural body weight and breathing (let him try the closure only once, then force hạ onward, leaving the ajar state for the following discovery), holding into service hatch still ajar, Kiên LEFT-hand handgun low and RIGHT hand again holding Hạ LEFT upper arm; Hạ has seen the gap remain through 10.0s without freezing) with organic breath control and accurate 180-degree eye tracking.
+- 8.0s–10.0s (Giây 9–10 | Final Manipulation Settle & 10.0s End-Frame Lock): Complete closing action (Follow through with natural body weight and breathing (let him try the closure only once, then force hạ onward, leaving the ajar state for the following discovery), holding into service hatch still ajar, Kiên LEFT-hand handgun low and RIGHT hand again holding Hạ LEFT upper arm; Hạ has seen the gap remain through 10.0s without freezing) and lock final posture, prop placement, and eyeline at 10.0s to match END FRAME (Service hatch still ajar, Kiên LEFT-hand handgun low and RIGHT hand again holding Hạ LEFT upper arm; Hạ has seen the gap remain).
 Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
 Action rhythm: Let him try the closure only once, then force Hạ onward, leaving the ajar state for the following discovery.
 
@@ -50,41 +57,26 @@ The same clip prevents the same latch seating, paint and garment dust remain as 
 [BODY, MOUTH AND FACE CONSISTENCY]
 Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
 
-[GLOBAL VOICE SPEED RULE — 1.25x]
-All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
-All spoken Vietnamese dialogue must be delivered at
-1.25x normal conversational speaking speed (125%).
-Adaptive Shot Voice Speed (DIALOGUE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
-
-Maintain a natural Southern Vietnamese accent,
-clear articulation, expressive intonation, and
-accurate syllable-level lip synchronization.
-
-Speech must sound naturally fast and energetic,
-not artificially time-stretched or pitch-shifted.
-
-Preserve each character's original voice identity,
-pitch, emotional tone, and vocal personality.
-
-Do not rush, swallow syllables, clip words,
-or introduce unnatural pauses.
-
-Complete dialogue within its assigned time window.
-Continue natural breathing, facial expressions,
-and physical actions after the line finishes.
+[VOICE ACTING & ADAPTIVE SPEECH DIRECTION]
+Locked Character Voice ID(s) for this shot: VOICE_LOCK_KIEN (Kiên @Vũ Kiên: Smooth, calculated urban Southern Vietnamese male baritone, polished business cadence that tightens into cold menace under pressure — fixed native Saigon voice); VOICE_LOCK_HA (Hạ @Ha: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience — fixed native Saigon voice). Keep each character's pre-defined voice identity, pitch register, timbre and native Saigon accent 100% consistent across all 360 clips.
+Single Target Voice Speed (DIALOGUE): 1.15x (115%) — Argument / Urgency / Confrontation cadence (1.15x / 115%, range 1.10x–1.20x) — firm, pressured, emotionally urgent Southern Vietnamese delivery.
+Voice direction: "Natural native Southern Vietnamese conversational speech, authentic Saigon cadence, subtle human vocal imperfections, emotionally motivated phrasing, organic breath control, natural pitch variation, relaxed articulation and believable live-action film acting. Never sound like a narrator, text-to-speech engine, audiobook reader or commercial voice-over."
+Speech direction: "Dialogue should flow as spontaneous human speech, with natural breath groups, subtle hesitation only when emotionally justified, realistic sentence stress, varied intonation and a believable conversational rhythm. Never deliver dialogue as a perfectly uniform sequence of words."
+Emotional performance purpose: Căng thẳng / Tranh luận / Khẩn cấp (Argument / Urgency): firm grounded voice, deliberate word stress, slightly quicker anxious or confrontational rhythm without nonstop shouting. Line-specific vocal tone: giọng nam bực bội đá nhẹ nắp cửa sắt bị kẹt chốt; giọng nữ bình tĩnh đánh lạc hướng để giữ chiếc kẹp tóc. Physical acting link: Hạ watches without revealing satisfaction; Kiên interprets the resistance as old machinery, not a plotted trick.
+Cinematic lip-sync & breathing discipline: Complete dialogue within its assigned time window with organic breath control, natural jaw/lip/cheek articulation and realistic micro-expressions; continue natural breathing and physical action after the line finishes.
 
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–8.0s, two natural back-and-forth conversational turns (29 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.5x (150%) [fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at adaptive 1.5x (150%) speaking speed (baseline 1.25x conversational speaking speed / 125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
-Kiên (@Vũ Kiên), nói trong hình [0.3–4.1s | giọng nam bực bội đá nhẹ nắp cửa sắt bị kẹt chốt]: Chốt nắp sắt kẹt gì không khép được, thôi bước ra hành lang với tao!
-Hạ (@Ha), nói trong hình [4.4–8.0s | giọng nữ bình tĩnh đánh lạc hướng để giữ chiếc kẹp tóc]: Ổ khóa cũ lệch bản lề thôi, ngoài hành lang gió lớn cẩn thận.
+Delivery & Timing: 0.3–8.0s, two natural back-and-forth conversational turns (29 Vietnamese words — calibrated for natural breathing, emotional phrasing and single target speed 1.15x (115%) [Argument / Urgency / Confrontation cadence (1.15x / 115%, range 1.10x–1.20x) — firm, pressured, emotionally urgent Southern Vietnamese delivery]).
+Lip-Sync & Voice Control: ONLY the active speaker (nói trong hình) moves their lips at single target speed 1.15x (115%) with natural Southern Vietnamese jaw, lip and cheek movement (never over-open the mouth on every syllable; keep acting and moving naturally while speaking); all listeners keep their mouths naturally closed and react through eyes and posture.
+Kiên (@Vũ Kiên), nói trong hình [0.3–4.1s | VOICE_LOCK_KIEN | giọng nam bực bội đá nhẹ nắp cửa sắt bị kẹt chốt]: Chốt nắp sắt kẹt gì không khép được, thôi bước ra hành lang với tao!
+Hạ (@Ha), nói trong hình [4.4–8.0s | VOICE_LOCK_HA | giọng nữ bình tĩnh đánh lạc hướng để giữ chiếc kẹp tóc]: Ổ khóa cũ lệch bản lề thôi, ngoài hành lang gió lớn cẩn thận.
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
 [SOUND]
 Continuous ambience bed: metal latch, careful footsteps and distant sea wind.
 Foreground motivated sound: One incomplete metal click and Kiên's impatient breath explain the failure without a narrator.
 Scene sound profile (DIALOGUE): Prioritize clean, forward-mixed Southern Vietnamese dialogue over a balanced, realistic coastal/interior ambience bed that never masks vocal clarity.
-Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+Audio & Vocal Mix Discipline: Keep spoken Southern Vietnamese dialogue clear, close and naturally grounded in the real acoustic space; never let rain, wind, boat engines, vehicles or room ambience drown out the voice; no artificial reverb, no robotic radio/narrator tone, and no unrequested background music score. Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
 
 [EDIT IN — do not render the previous shot again]
 Previous editorial shot: 48.3, ending with Both below the final landing, no overtaking or running.
@@ -99,4 +91,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 48.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech, robotic TTS/narrator delivery or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops at 0.0s or anywhere in the clip; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

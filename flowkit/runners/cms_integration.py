@@ -195,24 +195,25 @@ def _is_studio_portrait_frame_rgb(buf: bytes, w: int = 160, h: int = 90) -> bool
     side_grad = sum(diffs) / len(diffs)
     c_grads = []
     for y in range(12, 82, 2):
-        for x in range(60, 100, 2):
+        for x in range(58, 102, 2):
             idx = (y * w + x) * 3
             idx_r = (y * w + (x + 2)) * 3
             c_grads.append(abs(int(buf[idx]) - int(buf[idx_r])) + abs(int(buf[idx + 1]) - int(buf[idx_r + 1])))
     center_grad = sum(c_grads) / len(c_grads)
     return (
-        mean_sat < 32.0
-        and 45.0 <= mean_luma <= 190.0
-        and side_grad < 7.0
-        and center_grad > 26.0
-        and center_grad > side_grad * 3.8
+        mean_sat < 35.0
+        and 40.0 <= mean_luma <= 198.0
+        and side_grad < 8.5
+        and center_grad > 24.0
+        and center_grad > side_grad * 3.5
     )
 
 
 def trim_studio_reference_frames(video_path: str, log_fn=None) -> bool:
     """
     Quét 24fps ở đầu và cuối clip để phát hiện và cắt bỏ ngay các frame ảnh thẻ nhân vật (nền xám studio)
-    do Gemini Omni R2V vô tình chèn vào đầu (0.0s) hoặc cuối (8.0–10.0s) video.
+    do Gemini Omni R2V vô tình chèn vào đầu (0.0s–2.0s) hoặc cuối (7.0s–10.0s) video,
+    kể cả khi có 1–3 frame mờ/đen ở đầu trước khi hiện ảnh thẻ.
     """
     if not video_path or not os.path.isfile(video_path):
         return False
@@ -229,23 +230,16 @@ def trim_studio_reference_frames(video_path: str, log_fn=None) -> bool:
         if n < 48:
             return False
         flags = [_is_studio_portrait_frame_rgb(raw[i * frame_bytes:(i + 1) * frame_bytes], w, h) for i in range(n)]
-        head_frames = 0
-        for f in flags[:48]:
-            if f:
-                head_frames += 1
-            else:
-                break
-        tail_frames = 0
-        for f in reversed(flags[-72:]):
-            if f:
-                tail_frames += 1
-            else:
-                break
+        head_indices = [i for i, f in enumerate(flags[:48]) if f]
+        head_frames = (max(head_indices) + 1) if (len(head_indices) >= 2 or (head_indices and head_indices[0] <= 2)) else 0
+        tail_window = flags[-72:]
+        tail_indices = [i for i, f in enumerate(tail_window) if f]
+        tail_frames = (len(tail_window) - min(tail_indices)) if (len(tail_indices) >= 2 or (tail_indices and tail_indices[-1] >= len(tail_window) - 3)) else 0
         if head_frames == 0 and tail_frames == 0:
             return False
 
-        # Thêm 2 frame đệm ở đầu và 5 frame đệm ở cuối để cắt sạch cả hiệu ứng mờ/chuyển cảnh vào ảnh thẻ
-        start_frame = min(head_frames + 2, n // 3) if head_frames > 0 else 0
+        # Thêm 3 frame đệm ở đầu và 5 frame đệm ở cuối để cắt sạch cả hiệu ứng mờ/chuyển cảnh vào ảnh thẻ
+        start_frame = min(head_frames + 3, n // 3) if head_frames > 0 else 0
         end_frame = max(n - tail_frames - 5, (n * 2) // 3) if tail_frames > 0 else n
         start_s = round(start_frame / 24.0, 3)
         end_s = round(end_frame / 24.0, 3)
@@ -946,6 +940,7 @@ def merge_episode_clips(
         )
 
         for idx, cp in enumerate(clip_paths):
+            trim_studio_reference_frames(cp)
             c_info = probe_clip_streams(cp)
             norm_p = os.path.join(tmpdir, f"norm_{idx:02d}.mp4")
 

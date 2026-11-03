@@ -53,7 +53,7 @@ interface CMSClipItem {
   file_name: string
   file_path: string
   prompt: string
-  status: 'COMPLETED' | 'PENDING'
+  status: 'COMPLETED' | 'FAILED' | 'PENDING'
   video_url: string | null
   r2_url?: string | null
   r2_key?: string | null
@@ -121,7 +121,7 @@ interface FlattenedPipelineClip {
   clip_num: number
   file_name: string
   prompt: string
-  status: 'COMPLETED' | 'PENDING'
+  status: 'COMPLETED' | 'FAILED' | 'PENDING'
   video_url: string | null
   r2_url: string | null
   video_size_mb: number | null

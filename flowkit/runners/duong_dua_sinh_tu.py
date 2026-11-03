@@ -32,6 +32,8 @@ from cms_integration import (
     force_rename_clip_on_flow,
     trim_studio_reference_frames,
     probe_clip_streams,
+    is_clip_completed_in_db,
+    mark_clip_failed_in_db,
 )
 
 FLOWKIT_API = "http://127.0.0.1:8200"
@@ -640,8 +642,14 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
                 chain_type = "ROOT" if is_new_scene_clip(prompt_txt, c_idx, "CHECK_CONTINUE") else "CONTINUATION"
                 existing_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s_idx:02d}", f"canh-{s_idx:02d}_clip-{c_idx:02d}.mp4")
                 has_mp4 = os.path.exists(existing_mp4) and os.path.getsize(existing_mp4) > 50_000
-                if has_mp4:
+                clip_id = f"{CHANNEL_SLUG}:ep:{s_idx}:clip:{c_idx}"
+                r2_row = conn.execute("SELECT r2_url FROM cms_clip WHERE id = ?", (clip_id,)).fetchone()
+                r2_url_existing = (r2_row[0] or "").strip() if r2_row else ""
+                has_clip = has_mp4 or bool(r2_url_existing)
+                if has_clip:
                     rendered_in_ep += 1
+                clip_status = "COMPLETED" if has_clip else "FAILED"
+                clip_video_url = existing_mp4 if has_mp4 else (r2_url_existing or None)
                 conn.execute(
                     """INSERT INTO scene (id, video_id, display_order, chain_type, prompt, video_prompt, horizontal_video_status, horizontal_video_url)
                        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
@@ -651,8 +659,8 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
                          chain_type=excluded.chain_type,
                          prompt=excluded.prompt,
                          video_prompt=excluded.video_prompt,
-                         horizontal_video_status=CASE WHEN excluded.horizontal_video_status='COMPLETED' THEN 'COMPLETED' ELSE scene.horizontal_video_status END,
-                         horizontal_video_url= COALESCE(excluded.horizontal_video_url, scene.horizontal_video_url)""",
+                         horizontal_video_status=excluded.horizontal_video_status,
+                         horizontal_video_url=COALESCE(excluded.horizontal_video_url, scene.horizontal_video_url)""",
                     (
                         sc_id,
                         CURRENT_VIDEO_ID,
@@ -660,11 +668,10 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
                         chain_type,
                         f"[CẢNH {s_idx:02d} - CLIP {c_idx:02d}]",
                         prompt_txt,
-                        "COMPLETED" if has_mp4 else "PENDING",
-                        existing_mp4 if has_mp4 else None,
+                        clip_status,
+                        clip_video_url,
                     ),
                 )
-                clip_id = f"{CHANNEL_SLUG}:ep:{s_idx}:clip:{c_idx}"
                 conn.execute(
                     """INSERT INTO cms_clip (id, channel_slug, project_id, episode_num, folder_name, clip_num, prompt, status, local_path)
                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
@@ -672,7 +679,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
                          project_id=excluded.project_id,
                          folder_name=excluded.folder_name,
                          prompt=excluded.prompt,
-                         status=CASE WHEN excluded.status='COMPLETED' THEN 'COMPLETED' ELSE cms_clip.status END,
+                         status=excluded.status,
                          local_path=COALESCE(excluded.local_path, cms_clip.local_path)""",
                     (
                         clip_id,
@@ -682,7 +689,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
                         f"canh-{s_idx:02d}",
                         c_idx,
                         prompt_txt,
-                        "COMPLETED" if has_mp4 else "PENDING",
+                        clip_status,
                         existing_mp4 if has_mp4 else None,
                     ),
                 )
@@ -695,8 +702,8 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = 40):
                      folder_name=excluded.folder_name,
                      label=excluded.label,
                      total_clips=6,
-                     rendered_clips=MAX(cms_episode.rendered_clips, excluded.rendered_clips),
-                     is_complete=MAX(cms_episode.is_complete, excluded.is_complete)""",
+                     rendered_clips=excluded.rendered_clips,
+                     is_complete=excluded.is_complete""",
                 (
                     ep_id,
                     CHANNEL_SLUG,
@@ -1304,13 +1311,21 @@ def run_pipeline(start_scene=1, end_scene=40):
                 continue
 
             existing_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s:02d}", f"canh-{s:02d}_clip-{c_idx:02d}.mp4")
-            if ONLY_CLIP == 0 and not force_rerender and os.path.exists(existing_mp4) and os.path.getsize(existing_mp4) > 50_000:
-                stream_info = probe_clip_streams(existing_mp4)
-                if stream_info.get("valid_video"):
+            if ONLY_CLIP == 0 and not force_rerender:
+                if os.path.exists(existing_mp4) and os.path.getsize(existing_mp4) > 50_000:
+                    stream_info = probe_clip_streams(existing_mp4)
+                    if stream_info.get("valid_video"):
+                        completed_clips += 1
+                        progress_pct = (completed_clips / max(1, total_clips)) * 100
+                        size_mb = os.path.getsize(existing_mp4) / (1024 * 1024)
+                        log(f"✅ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã tồn tại ({size_mb:.2f} MB) — bỏ qua.")
+                        previous_clip_last_frame_media_id = None
+                        continue
+                r2_done = is_clip_completed_in_db(CHANNEL_SLUG, s, c_idx)
+                if r2_done:
                     completed_clips += 1
                     progress_pct = (completed_clips / max(1, total_clips)) * 100
-                    size_mb = os.path.getsize(existing_mp4) / (1024 * 1024)
-                    log(f"✅ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã tồn tại ({size_mb:.2f} MB) — bỏ qua.")
+                    log(f"☁️ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã có trên R2 ({r2_done}) — bỏ qua, chỉ retry clip FAILED.")
                     previous_clip_last_frame_media_id = None
                     continue
 
@@ -1340,7 +1355,8 @@ def run_pipeline(start_scene=1, end_scene=40):
                 previous_clip_last_frame_media_id = None
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
             else:
-                log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
+                mark_clip_failed_in_db(CHANNEL_SLUG, s, c_idx, f"scene-ddst-{s:02d}-{c_idx:02d}")
+                log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Đã đánh dấu FAILED để retry sau.")
                 previous_clip_last_frame_media_id = None
 
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
@@ -1361,10 +1377,8 @@ def run_pipeline(start_scene=1, end_scene=40):
 
 
 PRIORITY_R2_MISSING_CLIPS = [
-    (9, 6), (13, 1), (13, 4), (14, 3), (17, 4), (28, 1), (30, 4),
-    (32, 4), (32, 6), (33, 3), (33, 4), (33, 5), (35, 1), (35, 3), (35, 5),
-    (36, 3), (37, 4), (37, 5), (38, 5), (39, 1), (39, 4), (39, 6),
-    (40, 1), (40, 2), (40, 3), (40, 4), (40, 5), (40, 6),
+    (13, 4), (28, 1), (32, 4), (33, 5), (35, 3),
+    (39, 1), (39, 4), (40, 2), (40, 3), (40, 6),
 ]
 
 

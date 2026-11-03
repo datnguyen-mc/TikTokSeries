@@ -129,7 +129,7 @@ interface CmsChannelSummary {
 interface EpisodeClipItem {
   clip_num: number
   file_name: string
-  status: 'COMPLETED' | 'PENDING'
+  status: 'COMPLETED' | 'FAILED' | 'PENDING'
   video_url: string | null
   r2_url?: string | null
   video_size_mb?: number | null

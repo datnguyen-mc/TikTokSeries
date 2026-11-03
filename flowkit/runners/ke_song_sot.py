@@ -32,6 +32,8 @@ from cms_integration import (
     force_rename_clip_on_flow,
     trim_studio_reference_frames,
     probe_clip_streams,
+    is_clip_completed_in_db,
+    mark_clip_failed_in_db,
 )
 
 FLOWKIT_API = "http://127.0.0.1:8200"
@@ -1074,13 +1076,21 @@ def run_pipeline(start_scene=1, end_scene=60):
                 continue
 
             existing_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s:02d}", f"canh-{s:02d}_clip-{c_idx:02d}.mp4")
-            if ONLY_CLIP == 0 and not force_rerender and os.path.exists(existing_mp4) and os.path.getsize(existing_mp4) > 50_000:
-                stream_info = probe_clip_streams(existing_mp4)
-                if stream_info.get("valid_video"):
+            if ONLY_CLIP == 0 and not force_rerender:
+                if os.path.exists(existing_mp4) and os.path.getsize(existing_mp4) > 50_000:
+                    stream_info = probe_clip_streams(existing_mp4)
+                    if stream_info.get("valid_video"):
+                        completed_clips += 1
+                        progress_pct = (completed_clips / max(1, total_clips)) * 100
+                        size_mb = os.path.getsize(existing_mp4) / (1024 * 1024)
+                        log(f"✅ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã tồn tại ({size_mb:.2f} MB) — bỏ qua.")
+                        previous_clip_last_frame_media_id = None
+                        continue
+                r2_done = is_clip_completed_in_db(CHANNEL_SLUG, s, c_idx)
+                if r2_done:
                     completed_clips += 1
                     progress_pct = (completed_clips / max(1, total_clips)) * 100
-                    size_mb = os.path.getsize(existing_mp4) / (1024 * 1024)
-                    log(f"✅ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã tồn tại ({size_mb:.2f} MB) — bỏ qua.")
+                    log(f"☁️ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã có trên R2 ({r2_done}) — bỏ qua, chỉ retry clip FAILED.")
                     previous_clip_last_frame_media_id = None
                     continue
 
@@ -1110,7 +1120,8 @@ def run_pipeline(start_scene=1, end_scene=60):
                 previous_clip_last_frame_media_id = None
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
             else:
-                log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
+                mark_clip_failed_in_db(CHANNEL_SLUG, s, c_idx, f"scene-kss-{s:02d}-{c_idx:02d}")
+                log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Đã đánh dấu FAILED để retry sau.")
                 previous_clip_last_frame_media_id = None
 
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")

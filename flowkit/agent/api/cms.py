@@ -875,7 +875,7 @@ def _scan_channel_episodes(
             if r2_url:
                 r2_synced_clips += 1
 
-            is_done = bool(v_file or r2_url or db_clip.get("status") == "COMPLETED" or db_ep.get("is_complete"))
+            is_done = bool(v_file or r2_url)
             if is_done:
                 rendered_count += 1
 
@@ -902,7 +902,7 @@ def _scan_channel_episodes(
                     "file_name": os.path.basename(c_path) if c_path else f"clip-{c_num}.md",
                     "file_path": c_path or "",
                     "prompt": prompt_text,
-                    "status": "COMPLETED" if is_done else "PENDING",
+                    "status": "COMPLETED" if is_done else "FAILED",
                     "video_url": eff_video_url,
                     "r2_url": r2_url,
                     "r2_key": r2_key,
@@ -926,16 +926,19 @@ def _scan_channel_episodes(
         )
         merged_size = round(os.path.getsize(merged_file) / (1024 * 1024), 2) if merged_file else db_ep.get("merged_size_mb")
         m_media_info = detect_media_info(merged_file or merged_r2_url or merged_r2_key or "full.mp4", default_category="full_episodes")
+        ep_total = len(clips_data) if len(clips_data) > 0 else int(db_ep.get("total_clips") or 0)
+        ep_rendered = rendered_count if len(clips_data) > 0 else int(db_ep.get("rendered_clips") or 0)
 
         episodes.append(
             {
                 "episode_num": ep_num,
                 "folder_name": ep_folder_name,
                 "label": db_ep.get("label") or f"{'Cảnh' if ep_prefix == 'canh' else 'Tập'} {ep_num:02d}",
-                "total_clips": len(clips_data) if len(clips_data) > 0 else int(db_ep.get("total_clips") or 0),
-                "rendered_clips": rendered_count if len(clips_data) > 0 else int(db_ep.get("rendered_clips") or 0),
+                "total_clips": ep_total,
+                "rendered_clips": ep_rendered,
+                "failed_clips": max(0, ep_total - ep_rendered),
                 "r2_synced_clips": r2_synced_clips,
-                "is_complete": bool(db_ep.get("is_complete")) or (len(clips_data) > 0 and rendered_count == len(clips_data)),
+                "is_complete": bool(ep_total > 0 and ep_rendered >= ep_total),
                 "merged_video_url": merged_local_url or merged_r2_url,
                 "merged_r2_url": merged_r2_url,
                 "merged_r2_key": merged_r2_key,
@@ -1081,7 +1084,8 @@ async def list_cms_channels():
         total_clips = sum(ep["total_clips"] for ep in episodes)
         rendered_clips = sum(ep["rendered_clips"] for ep in episodes)
         r2_clips = sum(ep.get("r2_synced_clips", 0) for ep in episodes)
-        merged_eps = sum(1 for ep in episodes if ep.get("merged_video_url") or ep.get("is_complete"))
+        completed_eps = sum(1 for ep in episodes if ep.get("is_complete"))
+        merged_eps = sum(1 for ep in episodes if ep.get("merged_video_url"))
         r2_merged_eps = sum(1 for ep in episodes if ep.get("merged_r2_url"))
         job = ACTIVE_JOBS.get(slug)
 
@@ -1104,10 +1108,11 @@ async def list_cms_channels():
                 "characters": _load_locked_character_ids(row),
                 "stats": {
                     "total_episodes": total_eps,
-                    "completed_episodes": merged_eps,
+                    "completed_episodes": completed_eps,
                     "clips_per_episode": round(total_clips / total_eps) if total_eps > 0 else 0,
                     "total_clips": total_clips,
                     "rendered_clips": rendered_clips,
+                    "failed_clips": max(0, total_clips - rendered_clips),
                     "r2_synced_clips": r2_clips,
                     "merged_episodes": merged_eps,
                     "r2_merged_episodes": r2_merged_eps,
@@ -2501,7 +2506,7 @@ async def _populate_all_channels_into_db(db) -> dict:
                         ep["folder_name"],
                         c_num,
                         cl.get("prompt") or old_cl.get("prompt") or "",
-                        cl.get("status") or "PENDING",
+                        cl.get("status") or "FAILED",
                         v_file,
                         cl.get("r2_key") or old_cl.get("r2_key"),
                         cl.get("r2_url") or old_cl.get("r2_url"),
@@ -3067,21 +3072,27 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                     reconciled_episodes_count += 1
 
         await db.execute(
+            """UPDATE cms_clip
+               SET status = CASE
+                   WHEN (r2_url IS NOT NULL AND r2_url != '') OR (local_path IS NOT NULL AND local_path != '') THEN 'COMPLETED'
+                   ELSE 'FAILED'
+               END"""
+        )
+
+        await db.execute(
             """UPDATE cms_episode
                SET rendered_clips = (
                    SELECT COUNT(*) FROM cms_clip c
                    WHERE c.channel_slug = cms_episode.channel_slug
                      AND c.episode_num = cms_episode.episode_num
-                     AND (c.status = 'COMPLETED' OR (c.r2_url IS NOT NULL AND c.r2_url != ''))
+                     AND ((c.r2_url IS NOT NULL AND c.r2_url != '') OR (c.local_path IS NOT NULL AND c.local_path != ''))
                ),
                is_complete = CASE
-                   WHEN merged_r2_url IS NOT NULL AND merged_r2_url != '' THEN 1
-                   WHEN is_complete = 1 THEN 1
                    WHEN total_clips > 0 AND (
                        SELECT COUNT(*) FROM cms_clip c
                        WHERE c.channel_slug = cms_episode.channel_slug
                          AND c.episode_num = cms_episode.episode_num
-                         AND (c.status = 'COMPLETED' OR (c.r2_url IS NOT NULL AND c.r2_url != ''))
+                         AND ((c.r2_url IS NOT NULL AND c.r2_url != '') OR (c.local_path IS NOT NULL AND c.local_path != ''))
                    ) >= total_clips THEN 1
                    ELSE 0
                END"""

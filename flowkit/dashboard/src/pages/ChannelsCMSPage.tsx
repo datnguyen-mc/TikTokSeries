@@ -7,7 +7,6 @@ import {
   Save,
   Plus,
   CheckCircle2,
-  Clock,
   Sparkles,
   ExternalLink,
   Layers,
@@ -68,6 +67,7 @@ interface ChannelSummary {
     clips_per_episode?: number
     total_clips: number
     rendered_clips: number
+    failed_clips?: number
     r2_synced_clips?: number
     merged_episodes: number
     r2_merged_episodes?: number
@@ -86,7 +86,7 @@ interface ClipItem {
   file_name: string
   file_path: string
   prompt: string
-  status: 'COMPLETED' | 'PENDING'
+  status: 'COMPLETED' | 'FAILED' | 'PENDING'
   video_url: string | null
   r2_url?: string | null
   r2_key?: string | null
@@ -104,6 +104,7 @@ interface EpisodeItem {
   label: string
   total_clips: number
   rendered_clips: number
+  failed_clips?: number
   r2_synced_clips?: number
   is_complete: boolean
   merged_video_url: string | null
@@ -1449,7 +1450,7 @@ export default function ChannelsCMSPage() {
 
                         {/* Col 5: Clips Render Progress */}
                         <td className="py-4 px-4">
-                          <div className="flex flex-col gap-1.5 w-40">
+                          <div className="flex flex-col gap-1.5 w-44">
                             <div className="flex items-center justify-between text-[11px]">
                               <span className="text-slate-300 font-semibold">
                                 {ch.stats.rendered_clips}/{ch.stats.total_clips}{' '}
@@ -1463,6 +1464,11 @@ export default function ChannelsCMSPage() {
                                 style={{ width: `${pct}%` }}
                               />
                             </div>
+                            {ch.stats.total_clips > ch.stats.rendered_clips && (
+                              <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-rose-500/15 border border-rose-500/35 text-[10px] font-bold text-rose-300 w-fit">
+                                ❌ {ch.stats.total_clips - ch.stats.rendered_clips} clip FAILED (cần retry)
+                              </span>
+                            )}
                           </div>
                         </td>
 
@@ -2218,6 +2224,11 @@ export default function ChannelsCMSPage() {
                           <span className="text-[10px] text-slate-300 font-mono font-semibold" title="Số cảnh đã render / Tổng số cảnh của tập">
                             {ep.rendered_clips}/{ep.total_clips} cảnh
                           </span>
+                          {ep.rendered_clips < ep.total_clips && (
+                            <span className="px-2 py-0.5 rounded-md text-[9px] font-bold bg-rose-500/20 text-rose-300 border border-rose-500/40">
+                              ❌ {ep.total_clips - ep.rendered_clips} FAILED
+                            </span>
+                          )}
                           {ep.merged_video_url ? (
                             <span className="px-2 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30">
                               🎞️ FULL MP4
@@ -2318,6 +2329,11 @@ export default function ChannelsCMSPage() {
                           >
                             {currentEpisode.rendered_clips}/{currentEpisode.total_clips} Cảnh (Clips) đã có MP4
                           </span>
+                          {currentEpisode.rendered_clips < currentEpisode.total_clips && (
+                            <span className="text-[11px] px-2.5 py-0.5 rounded-full font-bold bg-rose-500/20 text-rose-300 border border-rose-500/40">
+                              ❌ {currentEpisode.total_clips - currentEpisode.rendered_clips} Clip FAILED (Cần Retry)
+                            </span>
+                          )}
                           {(currentEpisode.r2_synced_clips ?? 0) > 0 && (
                             <span className="text-[11px] px-2.5 py-0.5 rounded-full font-semibold bg-cyan-500/15 text-cyan-300 border border-cyan-500/30 flex items-center gap-1">
                               <Cloud size={11} /> {currentEpisode.r2_synced_clips}/{currentEpisode.total_clips} Clips đã lưu R2
@@ -2346,7 +2362,15 @@ export default function ChannelsCMSPage() {
                             onClick={() => handleRunJob(currentEpisode.episode_num, currentEpisode.episode_num)}
                             className="px-4 py-2 rounded-xl text-xs font-semibold studio-glow-btn flex items-center gap-1.5 cursor-pointer disabled:opacity-50"
                           >
-                            <Play size={13} /> Tạo Video Cả {currentEpisode.label}
+                            {currentEpisode.rendered_clips < currentEpisode.total_clips ? (
+                              <>
+                                <RefreshCw size={13} /> Retry {currentEpisode.total_clips - currentEpisode.rendered_clips} Clip FAILED ({currentEpisode.label})
+                              </>
+                            ) : (
+                              <>
+                                <Play size={13} /> Tạo Video Cả {currentEpisode.label}
+                              </>
+                            )}
                           </button>
                         )}
 
@@ -2385,7 +2409,7 @@ export default function ChannelsCMSPage() {
                     <div className="p-3.5 rounded-2xl bg-slate-950/70 border border-slate-800/80 flex items-center gap-2 overflow-x-auto">
                       {currentEpisode.clips.map((clip, idx) => {
                         const isActive = clip.clip_num === selectedClipNum
-                        const isDone = clip.status === 'COMPLETED'
+                        const isDone = clip.status === 'COMPLETED' && Boolean(clip.video_url || clip.r2_url)
                         return (
                           <div key={clip.clip_num} className="flex items-center gap-2 shrink-0">
                             <button
@@ -2395,25 +2419,29 @@ export default function ChannelsCMSPage() {
                                   ? 'bg-indigo-600/25 border-indigo-500 text-white shadow-md'
                                   : isDone
                                     ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-200 hover:border-emerald-500/50'
-                                    : 'bg-slate-900/90 border-slate-800 text-slate-400 hover:text-slate-200'
+                                    : 'bg-rose-500/15 border-rose-500/45 text-rose-200 hover:border-rose-400'
                               }`}
                             >
                               {isDone ? (
                                 <CheckCircle2 size={15} className="text-emerald-400 shrink-0" />
                               ) : (
-                                <Clock size={15} className="text-slate-500 shrink-0" />
+                                <RefreshCw size={15} className="text-rose-400 shrink-0" />
                               )}
                               <div>
                                 <div className="text-xs font-bold flex items-center gap-1.5">
                                   <span>Clip {String(clip.clip_num).padStart(2, '0')}</span>
-                                  {clip.r2_url && (
+                                  {clip.r2_url ? (
                                     <span className="px-1.5 py-0.2 rounded text-[9px] font-bold bg-cyan-500/20 text-cyan-300 border border-cyan-500/40">
                                       ☁️ R2
                                     </span>
-                                  )}
+                                  ) : !isDone ? (
+                                    <span className="px-1.5 py-0.2 rounded text-[9px] font-bold bg-rose-500/25 text-rose-300 border border-rose-500/40">
+                                      FAILED
+                                    </span>
+                                  ) : null}
                                 </div>
-                                <div className="text-[10px] opacity-75">
-                                  {isDone ? (clip.video_size_mb ? `${clip.video_size_mb} MB` : 'Đã hoàn thành') : 'Chờ render'}
+                                <div className="text-[10px] opacity-85">
+                                  {isDone ? (clip.video_size_mb ? `${clip.video_size_mb} MB` : 'Đã hoàn thành') : 'Chưa có clip • Cần Retry'}
                                 </div>
                               </div>
                             </button>
@@ -2651,13 +2679,22 @@ export default function ChannelsCMSPage() {
                   {currentClip && (
                     <div className="studio-card rounded-3xl p-5 flex flex-col gap-4">
                       <div className="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-slate-800/80">
-                        <div className="flex items-center gap-2">
+                        <div className="flex items-center gap-2 flex-wrap">
                           <span className="px-2.5 py-1 rounded-lg bg-indigo-500/20 text-indigo-300 font-bold text-xs border border-indigo-500/30">
                             Clip {String(currentClip.clip_num).padStart(2, '0')}
                           </span>
                           <span className="text-sm font-bold text-white">
                             Kịch Bản Phân Cảnh ({currentClip.file_name})
                           </span>
+                          {!currentClip.video_url && !currentClip.r2_url ? (
+                            <span className="px-2.5 py-0.5 rounded-lg bg-rose-500/20 text-rose-300 border border-rose-500/40 text-[11px] font-bold">
+                              ❌ FAILED (Chưa có clip — Cần Retry)
+                            </span>
+                          ) : (
+                            <span className="px-2.5 py-0.5 rounded-lg bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 text-[11px] font-bold">
+                              ✓ COMPLETED
+                            </span>
+                          )}
                         </div>
 
                         <div className="flex items-center gap-1.5 flex-wrap">
@@ -2739,15 +2776,15 @@ export default function ChannelsCMSPage() {
                               className="px-4 py-2 rounded-xl text-xs font-semibold studio-glow-btn flex items-center gap-1.5 cursor-pointer disabled:opacity-50"
                               title="Chỉ tạo và ghi đè đúng duy nhất clip này, giữ nguyên các clip khác trong tập"
                             >
-                              {currentClip.video_url || currentClip.status === 'COMPLETED' ? (
+                              {currentClip.video_url || currentClip.r2_url ? (
                                 <>
                                   <RefreshCw size={13} /> Tạo Lại & Ghi Đè Clip{' '}
                                   {String(currentClip.clip_num).padStart(2, '0')} Này
                                 </>
                               ) : (
                                 <>
-                                  <Play size={13} /> Tạo Video Riêng Clip{' '}
-                                  {String(currentClip.clip_num).padStart(2, '0')} Này
+                                  <RefreshCw size={13} /> Retry Tạo Video Clip{' '}
+                                  {String(currentClip.clip_num).padStart(2, '0')} Này (FAILED)
                                 </>
                               )}
                             </button>
@@ -2933,17 +2970,29 @@ export default function ChannelsCMSPage() {
                               </div>
                             )
                           })() : (
-                            <div className="p-8 rounded-2xl bg-slate-950/60 border border-dashed border-slate-800 text-center flex flex-col items-center justify-center gap-2.5 h-56">
-                              <div className="w-10 h-10 rounded-2xl bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-500">
-                                <Video size={20} />
+                            <div className="p-8 rounded-2xl bg-rose-950/20 border border-dashed border-rose-500/40 text-center flex flex-col items-center justify-center gap-3 h-56">
+                              <div className="w-10 h-10 rounded-2xl bg-rose-500/15 border border-rose-500/40 flex items-center justify-center text-rose-400">
+                                <RefreshCw size={20} />
                               </div>
-                              <div className="text-xs font-semibold text-slate-300">
-                                Clip {String(currentClip.clip_num).padStart(2, '0')} chưa có video .mp4
+                              <div className="text-xs font-extrabold text-rose-300">
+                                ❌ Clip {String(currentClip.clip_num).padStart(2, '0')} — FAILED (Chưa có video .mp4)
                               </div>
-                              <p className="text-[11px] text-slate-500 max-w-xs">
-                                Nhấn <strong>"Tạo Video Riêng Clip Này"</strong> hoặc{' '}
-                                <strong>"Tạo Video Cả Tập"</strong> để bắt đầu kết xuất.
+                              <p className="text-[11px] text-slate-400 max-w-xs">
+                                Phân cảnh này chưa có video trên máy và trên R2. Nhấn nút bên dưới để retry tạo lại clip này ngay.
                               </p>
+                              <button
+                                disabled={startingJob || Boolean(activeChannelJob?.running)}
+                                onClick={() =>
+                                  handleRunJob(
+                                    currentEpisode.episode_num,
+                                    currentEpisode.episode_num,
+                                    currentClip.clip_num,
+                                  )
+                                }
+                                className="px-4 py-2 rounded-xl text-xs font-bold bg-rose-500 hover:bg-rose-600 text-white flex items-center gap-1.5 cursor-pointer disabled:opacity-50 shadow-lg"
+                              >
+                                <RefreshCw size={13} /> Retry Tạo Video Clip {String(currentClip.clip_num).padStart(2, '0')} Ngay
+                              </button>
                             </div>
                           )}
                         </div>

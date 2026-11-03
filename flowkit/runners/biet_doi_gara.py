@@ -27,6 +27,8 @@ from cms_integration import (
     rewrite_prompt_on_failure,
     find_episode_clip_mp4s,
     force_rename_clip_on_flow,
+    is_clip_completed_in_db,
+    mark_clip_failed_in_db,
 )
 
 FLOWKIT_API = "http://127.0.0.1:8200"
@@ -874,6 +876,14 @@ def run_pipeline(start_scene=16, end_scene=45):
             if not os.path.exists(fpath):
                 continue
 
+            if ONLY_CLIP == 0 and os.environ.get("FLOWKIT_FORCE_RERENDER") != "1":
+                r2_done = is_clip_completed_in_db(CHANNEL_SLUG, s, c_idx)
+                if r2_done:
+                    completed_clips += 1
+                    progress_pct = (completed_clips / max(1, total_clips)) * 100
+                    log(f"☁️ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} đã có video ({r2_done}) — bỏ qua, chỉ retry clip FAILED.")
+                    continue
+
             with open(fpath, "r", encoding="utf-8") as f:
                 prompt_content = f.read().strip()
 
@@ -895,7 +905,8 @@ def run_pipeline(start_scene=16, end_scene=45):
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
             else:
-                log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
+                mark_clip_failed_in_db(CHANNEL_SLUG, s, c_idx)
+                log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Đã đánh dấu FAILED để retry sau.")
                 previous_clip_last_frame_media_id = None
 
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")

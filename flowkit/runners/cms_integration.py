@@ -541,9 +541,15 @@ def _fallback_upsert_local_and_d1(payload: dict, skip_local: bool = False) -> No
         try:
             with sqlite3.connect(db_path) as conn:
                 conn.execute(sql, params)
-                if kind == "episode" and payload.get("is_complete") and (payload.get("rendered_clips") or 0) >= max(payload.get("total_clips") or 0, 1):
+                if kind == "episode":
                     conn.execute(
-                        "UPDATE cms_clip SET status = 'COMPLETED', updated_at = ? WHERE channel_slug = ? AND episode_num = ?",
+                        """UPDATE cms_clip
+                           SET status = CASE
+                               WHEN (r2_url IS NOT NULL AND r2_url != '') OR (local_path IS NOT NULL AND local_path != '') THEN 'COMPLETED'
+                               ELSE 'FAILED'
+                           END,
+                           updated_at = ?
+                           WHERE channel_slug = ? AND episode_num = ?""",
                         (now, slug, ep_num),
                     )
                 conn.commit()
@@ -554,11 +560,70 @@ def _fallback_upsert_local_and_d1(payload: dict, skip_local: bool = False) -> No
         from agent.db.d1_client import is_d1_configured, d1_query_sync
         if is_d1_configured():
             d1_query_sync(sql, params)
-            if kind == "episode" and payload.get("is_complete") and (payload.get("rendered_clips") or 0) >= max(payload.get("total_clips") or 0, 1):
+            if kind == "episode":
                 d1_query_sync(
-                    "UPDATE cms_clip SET status = 'COMPLETED', updated_at = ? WHERE channel_slug = ? AND episode_num = ?",
+                    """UPDATE cms_clip
+                       SET status = CASE
+                           WHEN (r2_url IS NOT NULL AND r2_url != '') OR (local_path IS NOT NULL AND local_path != '') THEN 'COMPLETED'
+                           ELSE 'FAILED'
+                       END,
+                       updated_at = ?
+                       WHERE channel_slug = ? AND episode_num = ?""",
                     [now, slug, ep_num],
                 )
+    except Exception:
+        pass
+
+
+def is_clip_completed_in_db(channel_slug: str, ep_num: int, clip_num: int) -> Optional[str]:
+    """Return R2 URL (or valid local_path) if clip already has a rendered video in cms_clip, else None."""
+    db_path = os.path.join(_FLOWKIT_DIR, "flow_agent.db")
+    if not os.path.isfile(db_path):
+        return None
+    try:
+        with sqlite3.connect(db_path) as conn:
+            row = conn.execute(
+                "SELECT r2_url, local_path FROM cms_clip WHERE id = ?",
+                (f"{channel_slug}:ep:{ep_num}:clip:{clip_num}",),
+            ).fetchone()
+            if row:
+                r2_url, local_path = row
+                if r2_url and str(r2_url).strip():
+                    return str(r2_url).strip()
+                if local_path and os.path.isfile(str(local_path)) and os.path.getsize(str(local_path)) > 50_000:
+                    return str(local_path)
+    except Exception:
+        pass
+    return None
+
+
+def mark_clip_failed_in_db(channel_slug: str, ep_num: int, clip_num: int, scene_id: str = None) -> None:
+    """Mark a clip without video as FAILED in local SQLite and Cloudflare D1 SQL so it can be retried."""
+    db_path = os.path.join(_FLOWKIT_DIR, "flow_agent.db")
+    clip_id = f"{channel_slug}:ep:{ep_num}:clip:{clip_num}"
+    now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    if os.path.isfile(db_path):
+        try:
+            with sqlite3.connect(db_path) as conn:
+                conn.execute(
+                    "UPDATE cms_clip SET status = 'FAILED', updated_at = ? WHERE id = ? AND (r2_url IS NULL OR r2_url = '')",
+                    (now, clip_id),
+                )
+                if scene_id:
+                    conn.execute(
+                        "UPDATE scene SET horizontal_video_status = 'FAILED' WHERE id = ? AND (horizontal_video_url IS NULL OR horizontal_video_url = '')",
+                        (scene_id,),
+                    )
+                conn.commit()
+        except Exception:
+            pass
+    try:
+        from agent.db.d1_client import is_d1_configured, d1_query_sync
+        if is_d1_configured():
+            d1_query_sync(
+                "UPDATE cms_clip SET status = 'FAILED', updated_at = ? WHERE id = ? AND (r2_url IS NULL OR r2_url = '')",
+                [now, clip_id],
+            )
     except Exception:
         pass
 

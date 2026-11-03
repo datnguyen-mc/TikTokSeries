@@ -46,7 +46,7 @@ async def main():
     try:
         cfg = get_cloud_config()
         if args.pull_d1:
-            print("⬇️  Đang kiểm tra kết nối & đồng bộ dữ liệu từ Cloudflare D1 SQL về Local SQLite...")
+            print("⬇️  [0/3] Đang kiểm tra kết nối & đồng bộ dữ liệu từ Cloudflare D1 SQL về Local SQLite...")
             d1_check = await test_d1_connection(cfg)
             if not d1_check.get("ok"):
                 print(f"   ❌ Kết nối D1 SQL thất bại: {d1_check.get('error')}")
@@ -59,10 +59,8 @@ async def main():
                 if pull_res.get("errors"):
                     for err in pull_res["errors"]:
                         print(f"      ⚠️ Lỗi: {err}")
-            print("═" * 74)
-            return
 
-        print("📂 [1/3] Đang quét & lập chỉ mục toàn bộ 6 kênh Series, Tập, Kịch bản Prompt & Video...")
+        print("📂 [1/3] Đang quét & lập chỉ mục toàn bộ kênh Series, Tập, Kịch bản Prompt & đối soát file local...")
         idx_res = await _populate_all_channels_into_db(db)
         print(
             f"   ✅ Đã lập chỉ mục: {idx_res['episodes_indexed']} Tập/Cảnh & "
@@ -71,9 +69,9 @@ async def main():
 
         cfg = get_cloud_config()
 
-        # 2. Upload videos to R2 if requested
+        # 2. Upload videos to R2 & reconcile R2 objects if requested
         if not args.d1_only:
-            print("\n🎬 [2/3] Kiểm tra kết nối & đồng bộ Video (.mp4) lên Cloudflare R2 Storage...")
+            print("\n🎬 [2/3] Kiểm tra kết nối & đồng bộ/đối soát Video (.mp4) từ Cloudflare R2 Storage...")
             if not is_r2_configured(cfg):
                 print("   ⚠️ Chưa cấu hình R2 trong flowkit/.env (R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY hoặc CF_API_TOKEN).")
             else:
@@ -86,8 +84,12 @@ async def main():
                         SyncR2BatchRequest(channel_slug=args.channel, force=args.force)
                     )
                     print(
-                        f"   🎉 Đã upload lên R2: {r2_res['uploaded_clips_count']} video clips & "
+                        f"   🎉 Đã upload mới lên R2: {r2_res['uploaded_clips_count']} video clips & "
                         f"{r2_res['uploaded_episodes_count']} tập FULL!"
+                    )
+                    print(
+                        f"   🔄 Đã đối soát & đồng bộ từ R2 Bucket: {r2_res.get('reconciled_clips_count', 0)} video clips & "
+                        f"{r2_res.get('reconciled_episodes_count', 0)} tập FULL!"
                     )
                     if r2_res.get("errors"):
                         for e in r2_res["errors"][:5]:

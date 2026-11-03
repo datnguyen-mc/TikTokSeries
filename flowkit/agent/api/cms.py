@@ -940,7 +940,12 @@ def _scan_channel_episodes(
                 "merged_r2_key": merged_r2_key,
                 "merged_media_kind": m_media_info["media_kind"],
                 "merged_media_type": m_media_info["mime_type"],
-                "merged_video_path": merged_file or db_ep.get("merged_local_path"),
+                "merged_video_path": merged_file
+                or (
+                    db_ep.get("merged_local_path")
+                    if db_ep.get("merged_local_path") and os.path.isfile(db_ep["merged_local_path"])
+                    else None
+                ),
                 "merged_size_mb": merged_size,
                 "clips": clips_data,
             }
@@ -2461,7 +2466,7 @@ async def _populate_all_channels_into_db(db) -> dict:
                     ep["total_clips"],
                     ep["rendered_clips"],
                     1 if ep["is_complete"] else 0,
-                    ep.get("merged_video_path") or old_ep.get("merged_local_path"),
+                    ep.get("merged_video_path"),
                     ep.get("merged_r2_key") or old_ep.get("merged_r2_key"),
                     ep.get("merged_r2_url") or old_ep.get("merged_r2_url"),
                     ep.get("merged_size_mb") or old_ep.get("merged_size_mb"),
@@ -2494,10 +2499,10 @@ async def _populate_all_channels_into_db(db) -> dict:
                         c_num,
                         cl.get("prompt") or old_cl.get("prompt") or "",
                         cl.get("status") or "PENDING",
-                        v_file or old_cl.get("local_path"),
+                        v_file,
                         cl.get("r2_key") or old_cl.get("r2_key"),
                         cl.get("r2_url") or old_cl.get("r2_url"),
-                        f_file or old_cl.get("frame_local_path"),
+                        f_file,
                         old_cl.get("frame_r2_key"),
                         cl.get("frame_r2_url") or old_cl.get("frame_r2_url"),
                         cl.get("video_size_mb") or old_cl.get("size_mb"),
@@ -2506,6 +2511,12 @@ async def _populate_all_channels_into_db(db) -> dict:
                         now,
                     ),
                 )
+                if slug == "duong-dua-sinh-tu" and cl.get("prompt"):
+                    scene_id = f"scene-ddst-{ep_num:02d}-{c_num:02d}"
+                    await raw_db.execute(
+                        "UPDATE scene SET prompt = ?, video_prompt = ?, updated_at = ? WHERE id = ?",
+                        (cl["prompt"], cl["prompt"], now, scene_id),
+                    )
                 clip_upserted += 1
 
     await raw_db.commit()
@@ -2996,6 +3007,8 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                     uploaded_episodes.append({"id": ep10_id, "r2_url": up_res["r2_url"], "size_mb": up_res["size_mb"]})
 
     # 4. Also reconcile any existing objects already in R2 bucket (e.g. when local .mp4 files were deleted)
+    reconciled_clips_count = 0
+    reconciled_episodes_count = 0
     try:
         r2_objs = await asyncio.to_thread(list_r2_bucket_objects, r2_cfg.get("r2_key_prefix", "series"), r2_cfg)
         for obj in r2_objs:
@@ -3009,6 +3022,7 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
             ch_slug = parts[1]
             if body.channel_slug and body.channel_slug != "ALL" and ch_slug != body.channel_slug:
                 continue
+            max_ep = CHANNEL_MAX_EPISODES.get(ch_slug)
             cat = parts[2]
             fname = parts[-1]
             if cat == "episodes" and len(parts) >= 5:
@@ -3018,43 +3032,78 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                 if m_ep and m_cl:
                     ep_n = int(m_ep.group(1))
                     cl_n = int(m_cl.group(1))
+                    if max_ep is not None and ep_n > max_ep:
+                        continue
                     if body.episode_num is not None and ep_n != body.episode_num:
                         continue
                     cid = f"{ch_slug}:ep:{ep_n}:clip:{cl_n}"
                     await db.execute(
                         """UPDATE cms_clip
-                           SET r2_key = ?, r2_url = ?, size_mb = COALESCE(size_mb, ?), status = 'COMPLETED', updated_at = ?
+                           SET r2_key = ?, r2_url = ?, size_mb = COALESCE(?, size_mb), status = 'COMPLETED', updated_at = ?
                            WHERE id = ?""",
                         (okey, ourl, osize, now, cid),
                     )
+                    reconciled_clips_count += 1
             elif cat == "full_episodes":
                 m_ep = re.search(r"(?:tap|canh)[-_]?(\d+)_FULL\.mp4$", fname, re.IGNORECASE)
                 if m_ep:
                     ep_n = int(m_ep.group(1))
+                    if max_ep is not None and ep_n > max_ep:
+                        continue
                     if body.episode_num is not None and ep_n != body.episode_num:
                         continue
                     eid = f"{ch_slug}:ep:{ep_n}"
                     await db.execute(
                         """UPDATE cms_episode
-                           SET merged_r2_key = ?, merged_r2_url = ?, merged_size_mb = COALESCE(merged_size_mb, ?), is_complete = 1, updated_at = ?
+                           SET merged_r2_key = ?, merged_r2_url = ?, merged_size_mb = COALESCE(?, merged_size_mb), is_complete = 1, updated_at = ?
                            WHERE id = ?""",
                         (okey, ourl, osize, now, eid),
                     )
-    except Exception:
-        pass
+                    reconciled_episodes_count += 1
+
+        await db.execute(
+            """UPDATE cms_episode
+               SET rendered_clips = (
+                   SELECT COUNT(*) FROM cms_clip c
+                   WHERE c.channel_slug = cms_episode.channel_slug
+                     AND c.episode_num = cms_episode.episode_num
+                     AND (c.status = 'COMPLETED' OR (c.r2_url IS NOT NULL AND c.r2_url != ''))
+               ),
+               is_complete = CASE
+                   WHEN merged_r2_url IS NOT NULL AND merged_r2_url != '' THEN 1
+                   WHEN is_complete = 1 THEN 1
+                   WHEN total_clips > 0 AND (
+                       SELECT COUNT(*) FROM cms_clip c
+                       WHERE c.channel_slug = cms_episode.channel_slug
+                         AND c.episode_num = cms_episode.episode_num
+                         AND (c.status = 'COMPLETED' OR (c.r2_url IS NOT NULL AND c.r2_url != ''))
+                   ) >= total_clips THEN 1
+                   ELSE 0
+               END"""
+        )
+    except Exception as e:
+        logger.warning("R2 reconciliation warning: %s", e)
 
     await db.commit()
     await record_cms_log(
         body.channel_slug or "system",
         "SUCCESS" if not errors else "WARN",
         "R2_SYNC",
-        f"☁️ Đã đồng bộ lên Cloudflare R2: {len(uploaded_clips)} video clips & {len(uploaded_episodes)} tập FULL!",
-        details={"uploaded_clips": len(uploaded_clips), "uploaded_episodes": len(uploaded_episodes), "errors": errors[:5]},
+        f"☁️ Đã đồng bộ Cloudflare R2: upload mới {len(uploaded_clips)} clips / {len(uploaded_episodes)} tập FULL; đối soát R2 {reconciled_clips_count} clips / {reconciled_episodes_count} tập FULL!",
+        details={
+            "uploaded_clips": len(uploaded_clips),
+            "uploaded_episodes": len(uploaded_episodes),
+            "reconciled_clips": reconciled_clips_count,
+            "reconciled_episodes": reconciled_episodes_count,
+            "errors": errors[:5],
+        },
     )
     return {
         "ok": True,
         "uploaded_clips_count": len(uploaded_clips),
         "uploaded_episodes_count": len(uploaded_episodes),
+        "reconciled_clips_count": reconciled_clips_count,
+        "reconciled_episodes_count": reconciled_episodes_count,
         "uploaded_clips": uploaded_clips,
         "uploaded_episodes": uploaded_episodes,
         "errors": errors[:10],

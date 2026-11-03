@@ -846,11 +846,11 @@ ENVIRONMENT_LOCK: dict[str, dict[str, Any]] = {
 
 ACTION_STUNT_CHOREOGRAPHY_RULE: str = (
     "Action & martial arts stunt choreography rule: Professional stunt performers execute a tightly choreographed "
-    "martial arts and action confrontation with unbroken kinematic flow from 0.0s to 10.0s. Fast defensive movements, "
-    "precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions blend "
-    "seamlessly across beats without mid-shot pauses. When a performer loses balance, they fall safely onto padded flooring "
+    "martial arts and action sequence with unbroken kinematic flow from 0.0s to 10.0s. Fast defensive movements, "
+    "precise dodges, controlled footwork, dramatic camera tracking, and realistic physical reactions blend "
+    "seamlessly across beats without mid-shot pauses. When a performer loses balance, they land safely onto padded flooring "
     "outside the camera's view. Intense action-film atmosphere, realistic lighting, fluid handheld or gimbal cinematography, "
-    "authentic Vietnamese action cinema. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography."
+    "authentic Vietnamese action cinema. Clean athletic precision, all movements are simulated stunt choreography."
 )
 
 PHYSICS_RULES: dict[str, str] = {
@@ -903,7 +903,7 @@ CINEMATIC_STYLE: dict[str, Any] = {
     "visual_style": (
         "Cinematic Vietnamese martial arts and street-racing action sequence, 10 seconds, photorealistic live-action, full-frame 16:9, 24fps, "
         "natural skin texture, subtle film grain, deep asphalt shadows, crisp neon and sodium highlights, authentic Vietnamese action cinema. "
-        "No blood, no graphic injuries, no gore. All movements are simulated stunt choreography."
+        "Clean athletic precision, all movements are simulated stunt choreography."
     ),
     "clean_frame": (
         "Clean cinematic frame, never TV footage: no TV channel or broadcaster logo, watermark, news ticker, lower-third, "

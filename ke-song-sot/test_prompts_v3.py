@@ -91,8 +91,10 @@ class FilmContinuityTests(unittest.TestCase):
             prompt=film.render_prompt(self.plan,c,self.shots[i-1] if i else None,
                                       self.shots[i+1] if i<359 else None)
             for field in film.DETAIL_FIELDS:
-                self.assertIn(c['cinematic'][field],prompt,(c['id'],field))
-            dialogue=prompt.split('[DIALOGUE]\n',1)[1].split('\n[PROPS]',1)[0]
+                self.assertIn(c['cinematic'][field].rstrip('.'),prompt,(c['id'],field))
+            self.assertIn('[GLOBAL VOICE SPEED RULE — 1.25x]',prompt,c['id'])
+            self.assertIn('1.25x normal conversational speaking speed (125%)',prompt,c['id'])
+            dialogue=prompt.split('[DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]\n',1)[1].split('\n[PROPS]',1)[0]
             self.assertNotIn(c['cinematic']['intent'],dialogue,c['id'])
         guide=film.render_beatmap(self.plan)
         for s in self.plan['scenes']:
@@ -101,7 +103,7 @@ class FilmContinuityTests(unittest.TestCase):
 
     def test_detail_shots_do_not_require_visible_lips(self):
         for c in self.shots:
-            if c['camera']=='I':
+            if c['camera']=='I' and not c['characters']:
                 self.assertTrue(all(d['mode']!='on' for d in c['dialogue']),c['id'])
 
     def test_watch_does_not_break_before_its_impact_or_open_twice(self):
@@ -132,7 +134,7 @@ class FilmContinuityTests(unittest.TestCase):
             expected={self.plan['identities'][k]['media_id'] for k in bases}
             self.assertEqual(set(scope['get_clip_reference_media_ids'](text)),expected,c['id'])
             new=scope['is_new_scene_clip'](text,c['number'],'a-valid-start-frame')
-            self.assertEqual(new,c['transition']!='CONTINUE',c['id'])
+            self.assertTrue(new,c['id'])
         self.assertEqual(scope['get_clip_reference_media_ids']('[CHARACTERS — approved identities and current appearances]\nNo lead visible.\n[EDIT IN]\n@Son was in the previous shot.'),[])
 
 

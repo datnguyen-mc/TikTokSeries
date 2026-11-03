@@ -46,9 +46,30 @@ Blocking: Mây checks the junction while Thành reaches his roof post, each foll
 Performance: Their work is focused rather than triumphant; no one gestures as if giving an audience tour (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–8.0s, two natural back-and-forth conversational turns (29 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Delivery & Timing: 0.3–8.0s, two natural back-and-forth conversational turns (29 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.25x conversational speaking speed (125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
 Mây (@May), nói trong hình [0.3–4.4s | giọng nữ chỉ huy dứt khoát vào giờ G tại bãi cảng]: Hoàng hôn ngày thứ bảy xuống cảng rồi, Thành lên ngay vị trí trên mái chợ!
 Thành (@Phó Thành), nói trong hình [4.7–8.0s | giọng nam trẻ đáp gọn, ôm bộ đàm chạy lên bậc thang]: Em lên mái chợ cá ngay đây chị Mây, bộ đàm thông suốt.
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.

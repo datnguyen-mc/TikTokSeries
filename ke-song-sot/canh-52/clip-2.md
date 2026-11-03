@@ -46,9 +46,30 @@ Blocking: He releases the lid once; the cracked glass and small photograph appea
 Performance: His hand hesitates briefly from emotional weight, not a tremor designed to delay an ordinary latch forever (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.7s, one natural, well-articulated spoken line (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Off-screen speech (ngoài khung hình) at a natural 1.0x cadence; do not add the speaker into frame or animate the visible listener speaking.
+Delivery & Timing: 0.3–7.7s, one natural, well-articulated spoken line (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
+Lip-Sync & Voice Control: Off-screen speech (ngoài khung hình) at a natural 1.25x conversational speaking speed (125%); do not add the speaker into frame or animate the visible listener speaking.
 Sơn, ngoài khung hình [0.3–7.7s | giọng nam trầm chân thành khi chiếc nắp bạc bật mở lộ tấm ảnh nhỏ]: Đúng như lời hứa chỉ mở nắp khi đã nói hết sự thật và đưa em về biển, giờ anh mở chiếc đồng hồ này trước mặt em.
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 

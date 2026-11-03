@@ -46,9 +46,30 @@ Blocking: Dũng steps out and knocks only the empty chair aside, his men staying
 Performance: He expects the place to yield before he speaks; Bảy remains in place without exaggerated fearless posturing (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.25x conversational speaking speed (125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
 Dũng (@Dũng), nói trong hình [0.3–7.4s | giọng nam gằn hung hăng, hất hàm hỏi dồn giữa quán nước]: Sáng ngày thứ tư tao đích thân xuống Hòn Sóng rồi đây ông già! Hai thằng đàn em tao gửi xuống hôm qua nằm đâu, nói mau!
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 

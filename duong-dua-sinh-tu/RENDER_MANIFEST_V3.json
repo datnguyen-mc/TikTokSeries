@@ -2,13 +2,13 @@
   "version": 3,
   "editorial_revision": "3.1",
   "source": "PHAN_CANH_V3.json",
-  "source_sha256": "db0726d1a2629f36f08aa065679dd0d5991b5554b9f33231c8c603235949bae0",
+  "source_sha256": "8fdaaef9f954e8de61eadd8b0c7ea492ce31d08fd985a74365ee977b463e758d",
   "note": "Expected prompt fingerprints for all 240 clips (40 scenes × 6 clips).",
   "clips": [
     {
       "id": "01.1",
       "prompt": "canh-01/clip-1.md",
-      "sha256": "441be016ff03b248523a29c874f699a355a747e29083ab787f6f492d748eab6c",
+      "sha256": "09b0f926b2cda35c0d66aa225962c0cf12c64dc37ec5b2b1c9e9d802c4d89a5c",
       "mode": "ingredients",
       "previous": null,
       "transition": "OPEN"
@@ -16,7 +16,7 @@
     {
       "id": "01.2",
       "prompt": "canh-01/clip-2.md",
-      "sha256": "26a4702ee11787119a1c03461593bc587e8b5398db5db71f8aae512d5f609240",
+      "sha256": "37583c77280aabf46067cb389ea390ec3d8acdfac432a5e4641563c52096141f",
       "mode": "ingredients",
       "previous": "01.1",
       "transition": "CUT"
@@ -24,7 +24,7 @@
     {
       "id": "01.3",
       "prompt": "canh-01/clip-3.md",
-      "sha256": "fc646c03486dfdb97e0cce658eb09332143f9efc7d9f66640fe855ccdf9fb64d",
+      "sha256": "c5a5ec1116bf68a932e1a66feaf80b6eddf194064cc104c98d2159cbc78d0f86",
       "mode": "text",
       "previous": "01.2",
       "transition": "CUT"
@@ -32,7 +32,7 @@
     {
       "id": "01.4",
       "prompt": "canh-01/clip-4.md",
-      "sha256": "87ca0009349aff9f558a37683703375118ee2fb6735ec7e87ab8892bbb278799",
+      "sha256": "395ce8be4f40abf3d24fd8bb6e1a05be20359426afc6ee1eebeafe38c3c75ce8",
       "mode": "ingredients",
       "previous": "01.3",
       "transition": "J"
@@ -40,7 +40,7 @@
     {
       "id": "01.5",
       "prompt": "canh-01/clip-5.md",
-      "sha256": "12fe756894e0bb23e7817620b561bea68f06ed507ccb92c8dc2aa7cff1be0577",
+      "sha256": "6ce2378886f4680d2292821fd1d8795eecaf273db096415cce4c9211eb7e9b83",
       "mode": "ingredients",
       "previous": "01.4",
       "transition": "CUT"
@@ -48,7 +48,7 @@
     {
       "id": "01.6",
       "prompt": "canh-01/clip-6.md",
-      "sha256": "8ca34cf566e351c9146eae50d17990aff60d9a5d95b60f4b7618fe35fc68f2f6",
+      "sha256": "782e17620782d711b8d3a44789f634a4db7333e6393322e3f51e48a07b94ab30",
       "mode": "ingredients",
       "previous": "01.5",
       "transition": "L"
@@ -56,7 +56,7 @@
     {
       "id": "02.1",
       "prompt": "canh-02/clip-1.md",
-      "sha256": "3109d109811ef135276090a3bf79a56e75024d039a58a17412ec71be4aaba5e0",
+      "sha256": "45bb3ffeb5a1179f60bc10c4bf591910ae254070eab3162abd3ffbf7df6befd0",
       "mode": "ingredients",
       "previous": "01.6",
       "transition": "OPEN"
@@ -64,7 +64,7 @@
     {
       "id": "02.2",
       "prompt": "canh-02/clip-2.md",
-      "sha256": "505a35840c66f95c20415d59d0c36257464b807ed2f11298cac23261c03d3c2b",
+      "sha256": "228846cdd85e19380cd2462a82495ef0878cb68bf824f903bb8b1a5822962648",
       "mode": "ingredients",
       "previous": "02.1",
       "transition": "CUT"
@@ -72,7 +72,7 @@
     {
       "id": "02.3",
       "prompt": "canh-02/clip-3.md",
-      "sha256": "fe1d4cf63867fb7fb2173ea25ea732930b8b51e23af30045bf6f3c5ab452f283",
+      "sha256": "47c294d66667410163d4d8bb3793d7c060e9dcc876209c5be686d8ae1179ac86",
       "mode": "ingredients",
       "previous": "02.2",
       "transition": "CUT"
@@ -80,7 +80,7 @@
     {
       "id": "02.4",
       "prompt": "canh-02/clip-4.md",
-      "sha256": "a7210b4ea86b766e012352a67be6e7aa7dca3e91794114bdd03fabaef73c3619",
+      "sha256": "f707800efbb279b6aa76ded081004061f1dfd22bb989586a960dfe0c957bfcb2",
       "mode": "ingredients",
       "previous": "02.3",
       "transition": "J"
@@ -88,7 +88,7 @@
     {
       "id": "02.5",
       "prompt": "canh-02/clip-5.md",
-      "sha256": "3fb186989da1635f8e6b52579590cfea4c294c0e02614643c05862703ab9e2e5",
+      "sha256": "41b2cb0ec72ee9fa37c99abb405bef4042048de6d3e41987a5ce3d4f9f3fc165",
       "mode": "ingredients",
       "previous": "02.4",
       "transition": "CUT"
@@ -96,7 +96,7 @@
     {
       "id": "02.6",
       "prompt": "canh-02/clip-6.md",
-      "sha256": "3272de6ddec309f84eeffd7a22b75c1c721f85c99e5836bf6f08991da98348d7",
+      "sha256": "a122d83a99018d766b7f2828aa076ad04c54b9f73317b916a4ce423625ba2ddb",
       "mode": "ingredients",
       "previous": "02.5",
       "transition": "L"
@@ -104,7 +104,7 @@
     {
       "id": "03.1",
       "prompt": "canh-03/clip-1.md",
-      "sha256": "59591522b49e693779e3adc2e61e603ccd89079b7eb20990fdebdbc7216bc313",
+      "sha256": "07533bcad1d32fbd0ba9656830d5a0094f1dde36e899cd43e4c81ef6181052cc",
       "mode": "ingredients",
       "previous": "02.6",
       "transition": "OPEN"
@@ -112,7 +112,7 @@
     {
       "id": "03.2",
       "prompt": "canh-03/clip-2.md",
-      "sha256": "9d95c5c2efd9d7ae01e833f96d85c2cd799f3b580b107ea7864c1b912c4e46ed",
+      "sha256": "82a686880184bb4f97db9a42bf6e1825ccdf43f7cc72f22e68027bf9fef76468",
       "mode": "ingredients",
       "previous": "03.1",
       "transition": "CUT"
@@ -120,7 +120,7 @@
     {
       "id": "03.3",
       "prompt": "canh-03/clip-3.md",
-      "sha256": "3a926c283889b9cbc74743b9bde464a8c309fd2b66beb9d97d32c4c55b828690",
+      "sha256": "e379bb7d7c7eafd46a2d82a14b4909e1589f3c62fadb4380a4d21f5933549827",
       "mode": "text",
       "previous": "03.2",
       "transition": "CUT"
@@ -128,7 +128,7 @@
     {
       "id": "03.4",
       "prompt": "canh-03/clip-4.md",
-      "sha256": "ba1210787c0afa545e0a5c75dd77f053640f9fcc98110196186f886fbdb65ebd",
+      "sha256": "ab0c6a2095e3084f741e9e3c3fb120d960d233b54559b8dcbb4beecb05e4e6d7",
       "mode": "ingredients",
       "previous": "03.3",
       "transition": "J"
@@ -136,7 +136,7 @@
     {
       "id": "03.5",
       "prompt": "canh-03/clip-5.md",
-      "sha256": "f22f15a0702e629ec687330fcdd5a00a3e3ef2107f4d42d9581b4f61b42b8b79",
+      "sha256": "64ab4120b2dcd72a895cca94419c19468e4784c87fbbb99dca90ffda2988d081",
       "mode": "ingredients",
       "previous": "03.4",
       "transition": "CUT"
@@ -144,7 +144,7 @@
     {
       "id": "03.6",
       "prompt": "canh-03/clip-6.md",
-      "sha256": "66b35155a04b56695c7feb79f0e27bbded4eb24e222d020dfef777c86fa341f7",
+      "sha256": "a8159bafb0e0b805f70ba8c32e97e7bc868ea801efec1e97067490831c814eb3",
       "mode": "ingredients",
       "previous": "03.5",
       "transition": "L"
@@ -152,7 +152,7 @@
     {
       "id": "04.1",
       "prompt": "canh-04/clip-1.md",
-      "sha256": "01c06042bf662462c55bee7c5ed8764e39f698434e66a2440b2bd8d147f0dffe",
+      "sha256": "112b3c09c178fdec26b18eb302ed54164bb6c59f3a022f14a3fc7135a3373f69",
       "mode": "ingredients",
       "previous": "03.6",
       "transition": "OPEN"
@@ -160,7 +160,7 @@
     {
       "id": "04.2",
       "prompt": "canh-04/clip-2.md",
-      "sha256": "dd1c8ee27967fcb23287cde04dd2ef36b57471fdd79b81058d399971ce815d5e",
+      "sha256": "ac3b2054efc34d0d4112107497456099dc16d2fc8e5154245f153de8a39a9d5a",
       "mode": "ingredients",
       "previous": "04.1",
       "transition": "CUT"
@@ -168,7 +168,7 @@
     {
       "id": "04.3",
       "prompt": "canh-04/clip-3.md",
-      "sha256": "e0c7f3d9dec19a435155cb3590ae8bae4159d74afaf438528e82132d302007b6",
+      "sha256": "d65a197fd0ceda5e477036410c5f79bcab9779c04e2d5d596c442ac4caf9d0bd",
       "mode": "ingredients",
       "previous": "04.2",
       "transition": "CUT"
@@ -176,7 +176,7 @@
     {
       "id": "04.4",
       "prompt": "canh-04/clip-4.md",
-      "sha256": "ca672a8bdb33f7615dfe5932a31398d5503cfd2dc6b5160a3745e49c1bb4301f",
+      "sha256": "f0ca2789dc0b48d908878c65e726df87e9cf7bb4b98803c2a5ba625b455c0b6f",
       "mode": "ingredients",
       "previous": "04.3",
       "transition": "J"
@@ -184,7 +184,7 @@
     {
       "id": "04.5",
       "prompt": "canh-04/clip-5.md",
-      "sha256": "ef8b8782592147c15881887f7ae2668d714e6bb342fbc7cbdc8abe37ea54aa24",
+      "sha256": "a364e8c4139a95064f7c759cb2822972af50b359f9f9a9829eb86713d2a1ff84",
       "mode": "ingredients",
       "previous": "04.4",
       "transition": "CUT"
@@ -192,7 +192,7 @@
     {
       "id": "04.6",
       "prompt": "canh-04/clip-6.md",
-      "sha256": "0dac52ae99683d7e40938957d6fbecb8276150a4a08ba43f87fc4c225a50f854",
+      "sha256": "c2475ee1681f14006cbfee5f371a513c9b26de62d0d8b7d4ac5f73ad425016fb",
       "mode": "ingredients",
       "previous": "04.5",
       "transition": "L"
@@ -200,7 +200,7 @@
     {
       "id": "05.1",
       "prompt": "canh-05/clip-1.md",
-      "sha256": "ac8a419f39465e9d3611a87a53b1954d2f2f8d6f00eeac22240b9648844d38f0",
+      "sha256": "7cac7d077b0581e6a4005735eab2e4f55ac073f950ac30f28aa0a3487e6716b7",
       "mode": "ingredients",
       "previous": "04.6",
       "transition": "OPEN"
@@ -208,7 +208,7 @@
     {
       "id": "05.2",
       "prompt": "canh-05/clip-2.md",
-      "sha256": "d28649eb912d43ed7c30f81d1886006f97b8a6620c014af89b188b0bcd03be56",
+      "sha256": "cebf4775af361c6420cdf0207364e34dc0f2e32dc612442d7e9384133eb286c1",
       "mode": "ingredients",
       "previous": "05.1",
       "transition": "CUT"
@@ -216,7 +216,7 @@
     {
       "id": "05.3",
       "prompt": "canh-05/clip-3.md",
-      "sha256": "89ea34224082da575f0770fb8e84c73c2cc411028488b5fb074818de57fc3074",
+      "sha256": "6295c7ffa323844610013655657592f76e3d3d4fcb095b495f58b665c434e746",
       "mode": "text",
       "previous": "05.2",
       "transition": "CUT"
@@ -224,7 +224,7 @@
     {
       "id": "05.4",
       "prompt": "canh-05/clip-4.md",
-      "sha256": "b2653fb4c49fb9a6c525f5a0b222e4f9b1024d22c06d5afd9bae3fd607bd802d",
+      "sha256": "87dbdb120aa95439b96296df107b67dcb6f99b7a651ce1817a3cd25cfd362880",
       "mode": "ingredients",
       "previous": "05.3",
       "transition": "J"
@@ -232,7 +232,7 @@
     {
       "id": "05.5",
       "prompt": "canh-05/clip-5.md",
-      "sha256": "60e869fc6461f710bf371eae04506affed116e3b5afe8ca859bb1cb08195d68f",
+      "sha256": "9ae157ec0f57627619d6abf18bc32a89ff8ad08bcda6419277b195f970163c79",
       "mode": "ingredients",
       "previous": "05.4",
       "transition": "CUT"
@@ -240,7 +240,7 @@
     {
       "id": "05.6",
       "prompt": "canh-05/clip-6.md",
-      "sha256": "e7fc9f7a4412d0e14789dae67f5752a4ded49a89c93bdf17e332e98a39cc5735",
+      "sha256": "31a906dd720cf4edf91f634ee0621a95cbb078eef983430886b71d5445273bdc",
       "mode": "ingredients",
       "previous": "05.5",
       "transition": "L"
@@ -248,7 +248,7 @@
     {
       "id": "06.1",
       "prompt": "canh-06/clip-1.md",
-      "sha256": "dac1168fd7df4b78cb01624088026d10d15388273b1fc6973ce264c51c0af3c2",
+      "sha256": "fd7936b17da716a931d1fed185780f369cd99db1b234aa08609dadc6855edfb1",
       "mode": "ingredients",
       "previous": "05.6",
       "transition": "OPEN"
@@ -256,7 +256,7 @@
     {
       "id": "06.2",
       "prompt": "canh-06/clip-2.md",
-      "sha256": "0808c287b82c504ed4b2dd96f037136a2cd9997fc539cbbb4dd108db505437ab",
+      "sha256": "1189182ffda6397d712234a6b2e60d20856f2dbf32cd55fdab4abf7af6310d45",
       "mode": "ingredients",
       "previous": "06.1",
       "transition": "CUT"
@@ -264,7 +264,7 @@
     {
       "id": "06.3",
       "prompt": "canh-06/clip-3.md",
-      "sha256": "117c6b25c5bd17b61553b319523b64a5f45659f7b0b87aa167dfca0e1d929574",
+      "sha256": "80d5aa2328f3eec4791330986dac14dcefbd9df3f90d42c42ac1976620d557ec",
       "mode": "text",
       "previous": "06.2",
       "transition": "CUT"
@@ -272,7 +272,7 @@
     {
       "id": "06.4",
       "prompt": "canh-06/clip-4.md",
-      "sha256": "634b8d51d35e2e879cc2e538acb83cc2b79ed840176c63992453d1b0e86f42a8",
+      "sha256": "796a1cc42db179af063de37a32386010688926a1231f29bcc161829fb2307fe1",
       "mode": "ingredients",
       "previous": "06.3",
       "transition": "J"
@@ -280,7 +280,7 @@
     {
       "id": "06.5",
       "prompt": "canh-06/clip-5.md",
-      "sha256": "10175a38f169dc4c2afbe52bee74c98ab949876201d96312beda95f788351152",
+      "sha256": "9553a6b580accaaafbc6624132689f59c16797370e36d85869166806952fbd94",
       "mode": "ingredients",
       "previous": "06.4",
       "transition": "CUT"
@@ -288,7 +288,7 @@
     {
       "id": "06.6",
       "prompt": "canh-06/clip-6.md",
-      "sha256": "b81433b0643ea29c6dc4152bd796db177b958e99b57f1a4f12009e1a82a7a14d",
+      "sha256": "5fc0ad90f0255baf9a20482166578dad271ccdebc70ace343819a5f7001b1763",
       "mode": "ingredients",
       "previous": "06.5",
       "transition": "L"
@@ -296,7 +296,7 @@
     {
       "id": "07.1",
       "prompt": "canh-07/clip-1.md",
-      "sha256": "b03d6f9d4c5e6e6886a0f07f45990031c9b666927b70fd8bd726b5d8674dedcd",
+      "sha256": "cb6220bff78c84ab3415685264f3d3ec82d01737dbc0e8cc407fe9e5ffb66f2f",
       "mode": "ingredients",
       "previous": "06.6",
       "transition": "OPEN"
@@ -304,7 +304,7 @@
     {
       "id": "07.2",
       "prompt": "canh-07/clip-2.md",
-      "sha256": "3674ec3920211d8b12e86f38a9eb337d875066bdaef23de924714767b157dc7c",
+      "sha256": "7654ea54f8db25dc1c9ba73b4682546d43c5e0ad186b2df7b95c954e0c6b66a0",
       "mode": "ingredients",
       "previous": "07.1",
       "transition": "CUT"
@@ -312,7 +312,7 @@
     {
       "id": "07.3",
       "prompt": "canh-07/clip-3.md",
-      "sha256": "e007f1ed24e8b6ca2fd7255536456103083a892b8c9f3c604c7d4cedf429010c",
+      "sha256": "66ed48b38e686971d8188bdf60c4db1f7f4b4165349eccdac635c30ba336332f",
       "mode": "ingredients",
       "previous": "07.2",
       "transition": "CUT"
@@ -320,7 +320,7 @@
     {
       "id": "07.4",
       "prompt": "canh-07/clip-4.md",
-      "sha256": "4659e067dce7d7a58910f364c445582f8c8749238cb11b9cc8a92ad47f6e6105",
+      "sha256": "8ba387185d7a65e7f4e96c903b14d93000f96cc90aa14e4d7a45a57678b3c2eb",
       "mode": "ingredients",
       "previous": "07.3",
       "transition": "J"
@@ -328,7 +328,7 @@
     {
       "id": "07.5",
       "prompt": "canh-07/clip-5.md",
-      "sha256": "5f7056c3f79e7621bb0afdf1e6514f0533744ba2d74bc0ebe130060a3468aa79",
+      "sha256": "202f98946775f09e8344073c71dda12d444fff5c8e621a434ea39c824e225fdd",
       "mode": "ingredients",
       "previous": "07.4",
       "transition": "CUT"
@@ -336,7 +336,7 @@
     {
       "id": "07.6",
       "prompt": "canh-07/clip-6.md",
-      "sha256": "88b251b35ae9ea7fd906639bb6fb61282d9fe0e56f41ea65994c83f6f0f51791",
+      "sha256": "6bb8a9cf17ee059e3b181ec51b7c692289f8e170116268a1e9e71645bf1c38a5",
       "mode": "ingredients",
       "previous": "07.5",
       "transition": "L"
@@ -344,7 +344,7 @@
     {
       "id": "08.1",
       "prompt": "canh-08/clip-1.md",
-      "sha256": "58224d9a53aa3e9b56561e3d4d7340f6d2d3a8fcf7def29a81feb400dd31c2d5",
+      "sha256": "bf5001189e464c52cd4fe534a37819ac879423ca761163c93562afa6d5e55fdb",
       "mode": "ingredients",
       "previous": "07.6",
       "transition": "OPEN"
@@ -352,7 +352,7 @@
     {
       "id": "08.2",
       "prompt": "canh-08/clip-2.md",
-      "sha256": "b09a22e3f37cbd7f3e5e42d7729dc63d5a96d75c0e44cbeed42bb4e732d335d3",
+      "sha256": "e89606945ced4784d20b790de9e82e796b0b09efa9f7d5a15c8ea5fabfce7b68",
       "mode": "ingredients",
       "previous": "08.1",
       "transition": "CUT"
@@ -360,7 +360,7 @@
     {
       "id": "08.3",
       "prompt": "canh-08/clip-3.md",
-      "sha256": "bc85587f2431b3de068005997378999fe190df1cc942c3650dd6b3247f3fbdf4",
+      "sha256": "9b326b3e8e5bc68d78b4cc72570fde3e3dfd1b83a37b5ea606983ebfb013f9ac",
       "mode": "ingredients",
       "previous": "08.2",
       "transition": "CUT"
@@ -368,7 +368,7 @@
     {
       "id": "08.4",
       "prompt": "canh-08/clip-4.md",
-      "sha256": "19e1c84595a68f39cb4b76d643a1b105898029a72f94a7bdba73c32484e62883",
+      "sha256": "d451ea5f5839c5f1e04eefa8495314bb85111e3202b6e4045343d73f93b5374f",
       "mode": "ingredients",
       "previous": "08.3",
       "transition": "J"
@@ -376,7 +376,7 @@
     {
       "id": "08.5",
       "prompt": "canh-08/clip-5.md",
-      "sha256": "28301600d1c7c87f2d2f7afb9a9b65bbea00c4133a1a161c20eaf5173529391f",
+      "sha256": "d1bbced2547e4eb85dff684b693f2d17e1f0cf53cccf8fb67bc4c3ed92d8779e",
       "mode": "ingredients",
       "previous": "08.4",
       "transition": "CUT"
@@ -384,7 +384,7 @@
     {
       "id": "08.6",
       "prompt": "canh-08/clip-6.md",
-      "sha256": "fe85d68f0ca57d08d9c1e1b5f8e15862bba4e994c0a4c017d9108aebc40f4754",
+      "sha256": "f1239b0c51e9fb19003bc14ba4ae9e5402b817b7c9bc8b97e6783c0a3b70de04",
       "mode": "ingredients",
       "previous": "08.5",
       "transition": "L"
@@ -392,7 +392,7 @@
     {
       "id": "09.1",
       "prompt": "canh-09/clip-1.md",
-      "sha256": "94ee0a32353a460039a8b4ea6273eebcf1cf5119f45db87344a976d417cb87d6",
+      "sha256": "5a42f5c5bf10af73772653350909b6468deda35ff4bac5791b5e6e4b1617fc00",
       "mode": "ingredients",
       "previous": "08.6",
       "transition": "OPEN"
@@ -400,7 +400,7 @@
     {
       "id": "09.2",
       "prompt": "canh-09/clip-2.md",
-      "sha256": "9f21cf5f872a857f667db2b966a7ca1dcedaf6c1695fad10577df889517e1bbc",
+      "sha256": "da180f46a4ac16d324e72310b3e07a5044d58000299fdd73a8c9cc7d58a390b2",
       "mode": "ingredients",
       "previous": "09.1",
       "transition": "CUT"
@@ -408,7 +408,7 @@
     {
       "id": "09.3",
       "prompt": "canh-09/clip-3.md",
-      "sha256": "d6bf33b3210b8d609ce117553eb0eabf3e394d7b426de309d3f7343a6a9ebb9d",
+      "sha256": "551e7a59bf97cfbd04395cc5220fa8f4f92d08d401a0d8b6213de0caace13272",
       "mode": "text",
       "previous": "09.2",
       "transition": "CUT"
@@ -416,7 +416,7 @@
     {
       "id": "09.4",
       "prompt": "canh-09/clip-4.md",
-      "sha256": "2bf3409bd0d91909fe20a99896fdbe03e25c6526f661e58591b35fef3c603027",
+      "sha256": "78ec2a979d462df2b382dae5b4d5e047f1ac5138d5e9b0a6da3d0839205770e7",
       "mode": "ingredients",
       "previous": "09.3",
       "transition": "J"
@@ -424,7 +424,7 @@
     {
       "id": "09.5",
       "prompt": "canh-09/clip-5.md",
-      "sha256": "2eb8713ff7875c0c80b945b89737c7ef0929568cb0b77845335b15605b9f8ccc",
+      "sha256": "1ba88f674695f971980f2b11349b77bc9f4acbe41d8080b7055f512e92820557",
       "mode": "ingredients",
       "previous": "09.4",
       "transition": "CUT"
@@ -432,7 +432,7 @@
     {
       "id": "09.6",
       "prompt": "canh-09/clip-6.md",
-      "sha256": "685a935249e14a06b5bcf626aca343c37b1e0e4e27bade4ca575b759d42c2033",
+      "sha256": "1905a2f97b70e2fd874974476e31eed74c4b3cd79166ec73dbb4a8a958c5241e",
       "mode": "ingredients",
       "previous": "09.5",
       "transition": "L"
@@ -440,7 +440,7 @@
     {
       "id": "10.1",
       "prompt": "canh-10/clip-1.md",
-      "sha256": "174f9e56142dd699ca5ef7891b647d2f1ec545258130f88fd62ef2ffaa1abd7d",
+      "sha256": "6ac39e46bd892f7c7cf2bc679d4311fa4d174b4bbc114aab9ca13dfb6f32deff",
       "mode": "ingredients",
       "previous": "09.6",
       "transition": "OPEN"
@@ -448,7 +448,7 @@
     {
       "id": "10.2",
       "prompt": "canh-10/clip-2.md",
-      "sha256": "0e43e7b839149d219c62789bcf09acfca8329eeb0114937a648ce05e2bfddb77",
+      "sha256": "d89ea61c4a8a1dee18aeb7a3532148281a1563594b9d80dc525020685afed3ef",
       "mode": "ingredients",
       "previous": "10.1",
       "transition": "CUT"
@@ -456,7 +456,7 @@
     {
       "id": "10.3",
       "prompt": "canh-10/clip-3.md",
-      "sha256": "6f35f06335d5ecb575c1c286cefbc3087802ea00b50b04502a9a358b8360d275",
+      "sha256": "b7d22dad021243cc7c258838244ad604dcae34e8224651cfe9ab073584a4b8da",
       "mode": "text",
       "previous": "10.2",
       "transition": "CUT"
@@ -464,7 +464,7 @@
     {
       "id": "10.4",
       "prompt": "canh-10/clip-4.md",
-      "sha256": "6b0f296560c5ad0e987fb6e9fa2ed6c04555117152bb04ba3e9bd1ae0080c905",
+      "sha256": "6a4b099f445a23f863f30ad54e61e7916f3289832302e7d1cefa408d849b1cd3",
       "mode": "ingredients",
       "previous": "10.3",
       "transition": "J"
@@ -472,7 +472,7 @@
     {
       "id": "10.5",
       "prompt": "canh-10/clip-5.md",
-      "sha256": "d3c842de7a2dc914fea149c541b23f15cc20db93f936b116d616b82268451313",
+      "sha256": "0119c47fd1e66973fe7e9fc53dc69d7ea24ef0e971a2da4eea8fcd240d64507b",
       "mode": "ingredients",
       "previous": "10.4",
       "transition": "CUT"
@@ -480,7 +480,7 @@
     {
       "id": "10.6",
       "prompt": "canh-10/clip-6.md",
-      "sha256": "38d24d08bb8af95e371214e3f7505b095bfc04364149e84e1ac19a0cfabecdc1",
+      "sha256": "ec5f98dbc646373e60c0d0e21a513fb3aab0ddfd7cdaabbb0422315bbf6d433e",
       "mode": "ingredients",
       "previous": "10.5",
       "transition": "L"
@@ -488,7 +488,7 @@
     {
       "id": "11.1",
       "prompt": "canh-11/clip-1.md",
-      "sha256": "42c8d5020c7c82cbd7a5daa7fb8cacbf4fb8e471ef152ebc8e3b537e9d443154",
+      "sha256": "b622dfe82665ee44ee504eab8910f0da2dda76748371cc39238c94082e58670c",
       "mode": "ingredients",
       "previous": "10.6",
       "transition": "OPEN"
@@ -496,7 +496,7 @@
     {
       "id": "11.2",
       "prompt": "canh-11/clip-2.md",
-      "sha256": "71a9e42f204824cf357da8dbfddf42d0172185596e9b41b5f3a0e30d805019be",
+      "sha256": "12d43fd73abdec947ba0ff12d11ea0328a0c57c5e6c3f0e35d86cbb6badeb7a2",
       "mode": "ingredients",
       "previous": "11.1",
       "transition": "CUT"
@@ -504,7 +504,7 @@
     {
       "id": "11.3",
       "prompt": "canh-11/clip-3.md",
-      "sha256": "8fdee58e336115455f6b66b05da2c35c05b654bf7ffe7a36584b97137c09d067",
+      "sha256": "cc0ae2906901ca0494a5da369acc5cb38886e9b17b4da721b1e49842c70968c9",
       "mode": "text",
       "previous": "11.2",
       "transition": "CUT"
@@ -512,7 +512,7 @@
     {
       "id": "11.4",
       "prompt": "canh-11/clip-4.md",
-      "sha256": "2e342646d929b5f7a6d9448ce936b692a92d0ca95a915cf83af809c0f1670304",
+      "sha256": "1bfa5435aec937f4effd91f77cb24f7809637f900e1d4c14828d64167467fedc",
       "mode": "ingredients",
       "previous": "11.3",
       "transition": "J"
@@ -520,7 +520,7 @@
     {
       "id": "11.5",
       "prompt": "canh-11/clip-5.md",
-      "sha256": "74c5df1ff3ab8a5027a53f42cda3e9ffc4c01a3664227a9623fc10360e618071",
+      "sha256": "9423d23d9abac5131571d845f637a3353090510987464c8854a673eee7f382db",
       "mode": "ingredients",
       "previous": "11.4",
       "transition": "CUT"
@@ -528,7 +528,7 @@
     {
       "id": "11.6",
       "prompt": "canh-11/clip-6.md",
-      "sha256": "20aaa6689dc6f5f938d083a060a1da0f508089bb2831aabd6030e4b532c7f227",
+      "sha256": "a90289a7e2ab93e63f9ede1a32853999c97253b4538232e9c8d60dcfc80f76eb",
       "mode": "ingredients",
       "previous": "11.5",
       "transition": "L"
@@ -536,7 +536,7 @@
     {
       "id": "12.1",
       "prompt": "canh-12/clip-1.md",
-      "sha256": "f9ba031d51793a136f65feeeed933c127b7c9a1b409d6ac01d58c210355f91d7",
+      "sha256": "f06ccbd0a9e82a3c92f0bac55bcd056f6055adb08bbca3cebaaf5832ed22464e",
       "mode": "ingredients",
       "previous": "11.6",
       "transition": "OPEN"
@@ -544,7 +544,7 @@
     {
       "id": "12.2",
       "prompt": "canh-12/clip-2.md",
-      "sha256": "87acc4b65fb263da144cc0426139de143700733ae766db28261bb45326b21ec6",
+      "sha256": "e099d1e20f145496c4765dab03fc8879ea6eb02e413bb658b8f15d11f04fe76b",
       "mode": "ingredients",
       "previous": "12.1",
       "transition": "CUT"
@@ -552,7 +552,7 @@
     {
       "id": "12.3",
       "prompt": "canh-12/clip-3.md",
-      "sha256": "1ffd533c155844dd77516643b64894b5b27cade798aa9537fff51b69f2e34722",
+      "sha256": "642e99ca5a87bfbdef71b6858f3b5bb25a83cbd70cdea9396a7f1d9473bc1992",
       "mode": "text",
       "previous": "12.2",
       "transition": "CUT"
@@ -560,7 +560,7 @@
     {
       "id": "12.4",
       "prompt": "canh-12/clip-4.md",
-      "sha256": "4b59f4792d3df26ff322bcce496f417b06d7302ae4688a0d524221cc414da1e9",
+      "sha256": "78505f5357d0c99b93c8b504a7a84925434372fd93314efce30028e25e03b478",
       "mode": "ingredients",
       "previous": "12.3",
       "transition": "J"
@@ -568,7 +568,7 @@
     {
       "id": "12.5",
       "prompt": "canh-12/clip-5.md",
-      "sha256": "5df684c8f11814096a2d66590d7447dd1e1badb65f27858844c428bbd6d889d9",
+      "sha256": "0e94359de46133a556263b683a27f729fd2017acdf58e997723ed50c03a8c847",
       "mode": "ingredients",
       "previous": "12.4",
       "transition": "CUT"
@@ -576,7 +576,7 @@
     {
       "id": "12.6",
       "prompt": "canh-12/clip-6.md",
-      "sha256": "41895f7385933eb6b01caea2c438012ac298462fc3ef94d1bf857301972c7902",
+      "sha256": "58743ec03c54f2d4a6eb42ba5b3adf6e1099c6ec3a6dbcd3171d2f7c426dc111",
       "mode": "ingredients",
       "previous": "12.5",
       "transition": "L"
@@ -584,7 +584,7 @@
     {
       "id": "13.1",
       "prompt": "canh-13/clip-1.md",
-      "sha256": "c1161b80ed27f902283ad92daef1936ff9cc2d4b11e476c9877fa3a61f538c37",
+      "sha256": "9d52ba053dbad31ebde0394ac26ff4761383e6720b98824e973f3778ef56940b",
       "mode": "ingredients",
       "previous": "12.6",
       "transition": "OPEN"
@@ -592,7 +592,7 @@
     {
       "id": "13.2",
       "prompt": "canh-13/clip-2.md",
-      "sha256": "9bb29e31d0edf3ea6fca640eb79ed30d257cd0591d670f3755864f4502201633",
+      "sha256": "4369e9e328cfe08aff8a0f8c42b7e31599bcb55b497be18fb0f82c90ab7bb186",
       "mode": "ingredients",
       "previous": "13.1",
       "transition": "CUT"
@@ -600,7 +600,7 @@
     {
       "id": "13.3",
       "prompt": "canh-13/clip-3.md",
-      "sha256": "1b6017624d081a0450339c413f3b9f55c82ef279e9a4095a995792f2241d2916",
+      "sha256": "94e0ba6ac6829928b5fd92f6aaa660bd436313ef5f31b8813fad8d05c507d142",
       "mode": "text",
       "previous": "13.2",
       "transition": "CUT"
@@ -608,7 +608,7 @@
     {
       "id": "13.4",
       "prompt": "canh-13/clip-4.md",
-      "sha256": "618f76c24e569a6f1a02802987f0ed35c3a6cfca656f8b990c481787f8656e9b",
+      "sha256": "eb8c47f6866f3d7f8c7a97fd23f7beb3853d63a3a47b8306a7b0c6f76b701307",
       "mode": "ingredients",
       "previous": "13.3",
       "transition": "J"
@@ -616,7 +616,7 @@
     {
       "id": "13.5",
       "prompt": "canh-13/clip-5.md",
-      "sha256": "04cb389a7c235b4012459089873758829339ed7d5fde80af1916ec9aa599aacc",
+      "sha256": "48c88911a340811e476347d576a181fccbe0abd3b9b616802a90d624a3c055a6",
       "mode": "ingredients",
       "previous": "13.4",
       "transition": "CUT"
@@ -624,7 +624,7 @@
     {
       "id": "13.6",
       "prompt": "canh-13/clip-6.md",
-      "sha256": "7d5746e49a278282600a3c6446a86ac33a39c3536c92a662d64838a692690316",
+      "sha256": "46b7c83e88d89dc783b430f5e4a3828046211cad8f413cc77913e8ef21e89c54",
       "mode": "ingredients",
       "previous": "13.5",
       "transition": "L"
@@ -632,7 +632,7 @@
     {
       "id": "14.1",
       "prompt": "canh-14/clip-1.md",
-      "sha256": "faab935d2c8a43b09277e3bf31601a30775db09a9f31ef68c8b01a7277ab7df7",
+      "sha256": "ff8768aa925990ef346a968420269279be038ef0537198d275d52eee55d58dbe",
       "mode": "ingredients",
       "previous": "13.6",
       "transition": "OPEN"
@@ -640,7 +640,7 @@
     {
       "id": "14.2",
       "prompt": "canh-14/clip-2.md",
-      "sha256": "bcc2f74c270c2b40dee2db319a368b7ad473340f2672ba3fa7d420ae5e4ed9f1",
+      "sha256": "a6be072b62e77fef715be8aab07a037156e2e1733ef9c7cd4341e3e8b776cc9c",
       "mode": "ingredients",
       "previous": "14.1",
       "transition": "CUT"
@@ -648,7 +648,7 @@
     {
       "id": "14.3",
       "prompt": "canh-14/clip-3.md",
-      "sha256": "ffc96fd7026cebaee2874db86480f49f4168e0effd6d6dec874cadbdf46c08a1",
+      "sha256": "56cc76adecb72a2a7c7c1507b97d0f7afbfaae3c02039d953cc8932fa01dd98e",
       "mode": "ingredients",
       "previous": "14.2",
       "transition": "CUT"
@@ -656,7 +656,7 @@
     {
       "id": "14.4",
       "prompt": "canh-14/clip-4.md",
-      "sha256": "45512b65895eced7f7398e84bcec6c61fb38edd1139022ccf0dce16bae070123",
+      "sha256": "74c46337d09ee7d6986d64446d2c5557ffedb9c6e7f63706154b2be0c476fad2",
       "mode": "ingredients",
       "previous": "14.3",
       "transition": "J"
@@ -664,7 +664,7 @@
     {
       "id": "14.5",
       "prompt": "canh-14/clip-5.md",
-      "sha256": "0cc789ff3b5e01a5dbe9d0a35080803d4a25cb9072da26b407a0205e3e97d6fc",
+      "sha256": "bdd71fb72475cc6d76fdfc2a9fca53bb00786de11cd330e572f727f1602a341b",
       "mode": "ingredients",
       "previous": "14.4",
       "transition": "CUT"
@@ -672,7 +672,7 @@
     {
       "id": "14.6",
       "prompt": "canh-14/clip-6.md",
-      "sha256": "3215096dbf9054b4039ae1a04b377e57778f6b05d25bc667b61dab721828b2ec",
+      "sha256": "af37a15b0de92eadfea900e6b64c153f7841be60ab7b69e8a44a38dc3b43073c",
       "mode": "ingredients",
       "previous": "14.5",
       "transition": "L"
@@ -680,7 +680,7 @@
     {
       "id": "15.1",
       "prompt": "canh-15/clip-1.md",
-      "sha256": "0bf4e283f63130f7a5f4bd745e357e95de3b6bf83f2c4ec78e7d7641ca2afedd",
+      "sha256": "611b83e5fd3f1ce5dfcd7b412e3dd54489c560b8c6a50d4ab33069aca9314400",
       "mode": "ingredients",
       "previous": "14.6",
       "transition": "OPEN"
@@ -688,7 +688,7 @@
     {
       "id": "15.2",
       "prompt": "canh-15/clip-2.md",
-      "sha256": "b764607ce88a865f144d676a0b64f76a2b20780cd1d3342afa051d9b9de610c0",
+      "sha256": "94356b726bfa65d0f098da949f12c5bceded812eb19faaa1166bf33a49dd586b",
       "mode": "ingredients",
       "previous": "15.1",
       "transition": "CUT"
@@ -696,7 +696,7 @@
     {
       "id": "15.3",
       "prompt": "canh-15/clip-3.md",
-      "sha256": "a7f93201d3f0c7c6d836406bfdb5cfc5e69424a3df947a9614641950122c629d",
+      "sha256": "13a7420bd19dc35796acaf2b58737012a00a9c368ac0eeeb7d97ec44e34f958f",
       "mode": "text",
       "previous": "15.2",
       "transition": "CUT"
@@ -704,7 +704,7 @@
     {
       "id": "15.4",
       "prompt": "canh-15/clip-4.md",
-      "sha256": "785d9761f0d291ce17e5ec9f9357f83d0a417c1af3822fed3a55add56646f0bf",
+      "sha256": "ba7b62b6e21a81541137be8814b1553bd113e4fdecf5b21d3bd9ae1aecc27254",
       "mode": "ingredients",
       "previous": "15.3",
       "transition": "J"
@@ -712,7 +712,7 @@
     {
       "id": "15.5",
       "prompt": "canh-15/clip-5.md",
-      "sha256": "d2b279044ed01f7dce8d8e2b27995b2b520ce39630d2a3e3b7a52bcfeebba242",
+      "sha256": "502e6167ed8345e1878f31ce919d734b26565f90fc3167df73434254ae7bc274",
       "mode": "ingredients",
       "previous": "15.4",
       "transition": "CUT"
@@ -720,7 +720,7 @@
     {
       "id": "15.6",
       "prompt": "canh-15/clip-6.md",
-      "sha256": "25ce11551fd23d382a1d173181382f7fb1c043685955075eb71493c65759a430",
+      "sha256": "9ec6f9308f47081291d53e20f84a7b400fab6b8f8a153cd2e0eeaafc4ab221c3",
       "mode": "ingredients",
       "previous": "15.5",
       "transition": "L"
@@ -728,7 +728,7 @@
     {
       "id": "16.1",
       "prompt": "canh-16/clip-1.md",
-      "sha256": "542dc5eeb601c7e56d5114de094275148b3ac0abf94bec942a3b6600b3f93f3c",
+      "sha256": "63b1780cccfbbf30240ff35c1fb80d2e8c287b385f0bbdda10b71b4033f8e6ae",
       "mode": "ingredients",
       "previous": "15.6",
       "transition": "OPEN"
@@ -736,7 +736,7 @@
     {
       "id": "16.2",
       "prompt": "canh-16/clip-2.md",
-      "sha256": "2a2cb2bbb5ce27e0774278f5c94560aef71fdae997bc75fb2e692a9219f268fa",
+      "sha256": "5ec23ecd1384ec5781ce1189e0fbfbfc9e2a824d06f2802cf92071be4eacad77",
       "mode": "ingredients",
       "previous": "16.1",
       "transition": "CUT"
@@ -744,7 +744,7 @@
     {
       "id": "16.3",
       "prompt": "canh-16/clip-3.md",
-      "sha256": "607473713d83baaf76b2c755cb3177e635359fa499c106729dbe8b576ce0f267",
+      "sha256": "d10bbaeb8b301df81c9ef89d402f1df355fe99ab645dbb4135592e22880eaf42",
       "mode": "ingredients",
       "previous": "16.2",
       "transition": "CUT"
@@ -752,7 +752,7 @@
     {
       "id": "16.4",
       "prompt": "canh-16/clip-4.md",
-      "sha256": "5b544c0e6e26c0ee1088e102a0c0c3b73e1c8608e2246dad81610234b7e5640e",
+      "sha256": "ebfd78b41cf90bd75f357e86167c8287c26fa71f9c8edbdcaf0fa4d83c3af7c3",
       "mode": "ingredients",
       "previous": "16.3",
       "transition": "J"
@@ -760,7 +760,7 @@
     {
       "id": "16.5",
       "prompt": "canh-16/clip-5.md",
-      "sha256": "b6c9a5ced95932414a58a6686ff45a00cee1cad41ca62f640927c9c9751eedb8",
+      "sha256": "bbcf7a543bb53d59939c3ea2587caf1e36e738e799f56066875bf150232cc79d",
       "mode": "ingredients",
       "previous": "16.4",
       "transition": "CUT"
@@ -768,7 +768,7 @@
     {
       "id": "16.6",
       "prompt": "canh-16/clip-6.md",
-      "sha256": "a0013212a8611f24ee8753f2b2e685fb574c5841fc2d8c126584d9973cf773b1",
+      "sha256": "b9f41081cf92546e784387e33b0901dd9abd1711f8e7627ef31432da0822af56",
       "mode": "ingredients",
       "previous": "16.5",
       "transition": "L"
@@ -776,7 +776,7 @@
     {
       "id": "17.1",
       "prompt": "canh-17/clip-1.md",
-      "sha256": "4d7e4ea6c4264bbe7a7e34f1fb7bde76ef3e052409147917fe8484ed6deb2b67",
+      "sha256": "ee2408a53cb83a9dd6e779b5f08f3ac54aaf144be10f0b625751ee2c34e592e1",
       "mode": "ingredients",
       "previous": "16.6",
       "transition": "OPEN"
@@ -784,7 +784,7 @@
     {
       "id": "17.2",
       "prompt": "canh-17/clip-2.md",
-      "sha256": "fa09ed9e81136e3582f8bf4120f3d0c585b8269f7a29790ee1aafdd3eea50d3f",
+      "sha256": "346b60d006b3b418805df4b18b4f04083e7246fe06523d2c72168f7d4ad6fd5f",
       "mode": "ingredients",
       "previous": "17.1",
       "transition": "CUT"
@@ -792,7 +792,7 @@
     {
       "id": "17.3",
       "prompt": "canh-17/clip-3.md",
-      "sha256": "f48281a2f93f8660b0f61111edf614bbf4f03ae3b84d71e3cacdc7cb96a644c5",
+      "sha256": "cc331869d50d018d1ea28ea91e4b9996c79439e7a773be6672d68a2c77affcab",
       "mode": "ingredients",
       "previous": "17.2",
       "transition": "CUT"
@@ -800,7 +800,7 @@
     {
       "id": "17.4",
       "prompt": "canh-17/clip-4.md",
-      "sha256": "d3cec3ca5b2498078e67f5671d980318590f9939bbe51c682449ed4fee71cb10",
+      "sha256": "0e600ae4b15c9cb8e5b3656aa7d278f18c79d5aa596899b1ae0e86e3402fb1d8",
       "mode": "ingredients",
       "previous": "17.3",
       "transition": "J"
@@ -808,7 +808,7 @@
     {
       "id": "17.5",
       "prompt": "canh-17/clip-5.md",
-      "sha256": "693d2fb0a6b305d4d774b41ff40a7b7330f173006dae54c527c4b57e71561c3e",
+      "sha256": "822703a66ffca99c90b6c4d15bfbef7905ff432508ca5dc1ab2af276aa772284",
       "mode": "ingredients",
       "previous": "17.4",
       "transition": "CUT"
@@ -816,7 +816,7 @@
     {
       "id": "17.6",
       "prompt": "canh-17/clip-6.md",
-      "sha256": "e62c67c03c3fed97fb0ea0168d18cb5d31982630aabb8c8f67d9721fa1ff63b7",
+      "sha256": "ba0a988d1fe0e7cac587a14c966562a5a22c5b076068e048955320c1454ff50e",
       "mode": "ingredients",
       "previous": "17.5",
       "transition": "L"
@@ -824,7 +824,7 @@
     {
       "id": "18.1",
       "prompt": "canh-18/clip-1.md",
-      "sha256": "745488d4c5c39acbb17c9a9e8d664838bff640132ab845dd2b42bc2041c6b8c8",
+      "sha256": "1215aeee8862175288db2006fbc2d8463c2f2633417c39fe8462a1de6d5408db",
       "mode": "ingredients",
       "previous": "17.6",
       "transition": "OPEN"
@@ -832,7 +832,7 @@
     {
       "id": "18.2",
       "prompt": "canh-18/clip-2.md",
-      "sha256": "8c2f00899bfbcac6e3187623a6bedc9c729d27459922254b446f420d4e433c38",
+      "sha256": "f05f0e16c1da4c98ae942fcca26f24e69c14fca55e51a99bdf4038ea173ff1a9",
       "mode": "ingredients",
       "previous": "18.1",
       "transition": "CUT"
@@ -840,7 +840,7 @@
     {
       "id": "18.3",
       "prompt": "canh-18/clip-3.md",
-      "sha256": "0dacc3c5f545eafc070adfa9ff4acf6b0cb4d727fbf53bfc4eb94bd804da5d0c",
+      "sha256": "cb7ab787f3e275e1968f705fc44ba7ba13d14ab836816cbcafd5ff7ecdebb0ab",
       "mode": "ingredients",
       "previous": "18.2",
       "transition": "CUT"
@@ -848,7 +848,7 @@
     {
       "id": "18.4",
       "prompt": "canh-18/clip-4.md",
-      "sha256": "d2fe8347778ef2aa10cb6562a1518462b036f0e5f5763013c998cb2c123f8b28",
+      "sha256": "42524d290dd998de05a7af2340a707e2a12a4cd5e3c331cca4ad99d3ff2c82ab",
       "mode": "ingredients",
       "previous": "18.3",
       "transition": "J"
@@ -856,7 +856,7 @@
     {
       "id": "18.5",
       "prompt": "canh-18/clip-5.md",
-      "sha256": "ee5406e89088ec1993554cd94d5bbdd597ef585a47bb14a2ecb4fe32bfa458a5",
+      "sha256": "ef9b08c77356c642da47ea734a5c9df677645876a1334c2a8bcd3d31a619f97c",
       "mode": "ingredients",
       "previous": "18.4",
       "transition": "CUT"
@@ -864,7 +864,7 @@
     {
       "id": "18.6",
       "prompt": "canh-18/clip-6.md",
-      "sha256": "2fdf67dd2af2d25ffd409ec7cd2cfae5c394cfdd4dee5cc2a2b5f418047f4fda",
+      "sha256": "fcb5b905f63e58e98ba9ea7055e8cdf0d5743e91036d46be6ca586b19cbfea90",
       "mode": "ingredients",
       "previous": "18.5",
       "transition": "L"
@@ -872,7 +872,7 @@
     {
       "id": "19.1",
       "prompt": "canh-19/clip-1.md",
-      "sha256": "6f5ca3271a3272a999afef55a74044be1f0d2067698604eb1cd5f2134066d957",
+      "sha256": "c03e0e83def6f71067090fb0c09015457bd2cc879f2aef8a38325e55ea70431e",
       "mode": "ingredients",
       "previous": "18.6",
       "transition": "OPEN"
@@ -880,7 +880,7 @@
     {
       "id": "19.2",
       "prompt": "canh-19/clip-2.md",
-      "sha256": "2bd09b3c062449dcd3c2c7de18a3840c2f4af4fc91db02f73aad5af14a7ebcb9",
+      "sha256": "3edec1896ce7ba76cff5377b2dd2e7b5a6f141cf0ad24175539e1ddb66a6cc2a",
       "mode": "ingredients",
       "previous": "19.1",
       "transition": "CUT"
@@ -888,7 +888,7 @@
     {
       "id": "19.3",
       "prompt": "canh-19/clip-3.md",
-      "sha256": "3c5365553fdcadc46521a9d09aac568c27185b6b5a6b97d2955d3a6d9023b4b6",
+      "sha256": "490c0143c425b2ab0cd5ec8e23f107ac918c1fa38ec06342e1406035d3805f5e",
       "mode": "ingredients",
       "previous": "19.2",
       "transition": "CUT"
@@ -896,7 +896,7 @@
     {
       "id": "19.4",
       "prompt": "canh-19/clip-4.md",
-      "sha256": "d51b28925c40b01a57094c09a185b86cb25169260ea8b4418df28bf2805feb98",
+      "sha256": "f4402e99759b7dcdc8d6ace7d7af07d9d0fe5222371c29f26830f5e5c645975f",
       "mode": "ingredients",
       "previous": "19.3",
       "transition": "J"
@@ -904,7 +904,7 @@
     {
       "id": "19.5",
       "prompt": "canh-19/clip-5.md",
-      "sha256": "40311176eca84e0f7d8321827b32a149d5c82ac10f78597f5d9b9f862c9905b3",
+      "sha256": "7a66e45202ef6f8f5cbbff64bf0011a4b3cf60af9de7230038d195b7bcfe523e",
       "mode": "ingredients",
       "previous": "19.4",
       "transition": "CUT"
@@ -912,7 +912,7 @@
     {
       "id": "19.6",
       "prompt": "canh-19/clip-6.md",
-      "sha256": "42aeab61797895132ae7091eeaeb49a5caded9ab293723f3a5673d22dc008cd2",
+      "sha256": "6fce589a6e66d0070af0e0353e185135302ee1873fe3eeed1f217c373c457c78",
       "mode": "ingredients",
       "previous": "19.5",
       "transition": "L"
@@ -920,7 +920,7 @@
     {
       "id": "20.1",
       "prompt": "canh-20/clip-1.md",
-      "sha256": "f418ccdfb3babc679d7f02160822dec68b46c32276a2c1711b522c8b465ef378",
+      "sha256": "5ed1e99551539657900ce378693a619b75d5b0593dcc041d55a0d5446c2ebc0b",
       "mode": "ingredients",
       "previous": "19.6",
       "transition": "OPEN"
@@ -928,7 +928,7 @@
     {
       "id": "20.2",
       "prompt": "canh-20/clip-2.md",
-      "sha256": "be2283ee365a8d3fb86decab7fddfd33d8cde470017cde97abc7839676b28814",
+      "sha256": "178c1fcf802a38f1a05b6ef88796661613f9c185a72d29c5b2fbb490ee91a26e",
       "mode": "ingredients",
       "previous": "20.1",
       "transition": "CUT"
@@ -936,7 +936,7 @@
     {
       "id": "20.3",
       "prompt": "canh-20/clip-3.md",
-      "sha256": "ba7290fe397eaa60d9d50f703da0d9db63dfff11399aa57f0788d35d9ac5d116",
+      "sha256": "7612a1324e8826e0281c2454651eb539375aa05f2d51edc6a70357d7359170a3",
       "mode": "ingredients",
       "previous": "20.2",
       "transition": "CUT"
@@ -944,7 +944,7 @@
     {
       "id": "20.4",
       "prompt": "canh-20/clip-4.md",
-      "sha256": "2769ba4bfb2bc71b4296feb2e8782acff92c4b0d222a1e2b5a578076bbb3da4a",
+      "sha256": "79a3ddc3ac391e9ba2ab95864444febbff8f5445527ad33d50d1b4e2a32dad9f",
       "mode": "ingredients",
       "previous": "20.3",
       "transition": "J"
@@ -952,7 +952,7 @@
     {
       "id": "20.5",
       "prompt": "canh-20/clip-5.md",
-      "sha256": "f0698a587a4a56ed9eb45c8df20d0970969b500c0344a20440f349dc0bcd870f",
+      "sha256": "e99e0d41f9661486d688ee3eee2a43ad6a4639fb037d22931e339f2e198d29ba",
       "mode": "ingredients",
       "previous": "20.4",
       "transition": "CUT"
@@ -960,7 +960,7 @@
     {
       "id": "20.6",
       "prompt": "canh-20/clip-6.md",
-      "sha256": "d3f6951a89be5de8dac7cd3a0de0f1765da8c17ca338719898403c3650b54f52",
+      "sha256": "8bff3ffabe029b18d2214797f1c1df60f72bc0dab011c3ffc8def131632734df",
       "mode": "ingredients",
       "previous": "20.5",
       "transition": "L"
@@ -968,7 +968,7 @@
     {
       "id": "21.1",
       "prompt": "canh-21/clip-1.md",
-      "sha256": "a954c6f923628b3cc5839b8e01d254329e7bc47f60fe5c9c26372e1e34d456a5",
+      "sha256": "9ca2e8cb1329c4cacab3dd3db73d4c5c1cc996bb7b026055ca2b6b415ce1786d",
       "mode": "ingredients",
       "previous": "20.6",
       "transition": "OPEN"
@@ -976,7 +976,7 @@
     {
       "id": "21.2",
       "prompt": "canh-21/clip-2.md",
-      "sha256": "6fe01a377f19c1e8d78545b438e6df59a2eb14adea29d5c29baeb5206374803d",
+      "sha256": "416512162e3a5e9e965b0f6775927fbfe484cf5656248b73c30e78e1d7bc20dc",
       "mode": "ingredients",
       "previous": "21.1",
       "transition": "CUT"
@@ -984,7 +984,7 @@
     {
       "id": "21.3",
       "prompt": "canh-21/clip-3.md",
-      "sha256": "a3779f66b47ea1ac76a982199719dd3c75ebf51fb7f9da870e1823960565c331",
+      "sha256": "d1592b264ca44cc44859a1cc8c035c77e6281dd0d6d679964ef2487892663cf8",
       "mode": "ingredients",
       "previous": "21.2",
       "transition": "CUT"
@@ -992,7 +992,7 @@
     {
       "id": "21.4",
       "prompt": "canh-21/clip-4.md",
-      "sha256": "39d134d0255a8e8c3c948508432a6ace6674adc50ddf223e50d2944a6ff4ab85",
+      "sha256": "a6bf9925dde333e92f5cc4aa8f563331d558fae68a2822a49dd17ed60c7a5a74",
       "mode": "ingredients",
       "previous": "21.3",
       "transition": "J"
@@ -1000,7 +1000,7 @@
     {
       "id": "21.5",
       "prompt": "canh-21/clip-5.md",
-      "sha256": "5054d633ee0d58194e549bfd7b97902e9b2a11181c3fa60ff934440adfc03896",
+      "sha256": "4b3a83f02e0115818764592572022484c524e7cfbf20cd335305c4f4ad00e639",
       "mode": "ingredients",
       "previous": "21.4",
       "transition": "CUT"
@@ -1008,7 +1008,7 @@
     {
       "id": "21.6",
       "prompt": "canh-21/clip-6.md",
-      "sha256": "e59039fe6e8bbc275cbdcab1e1e6c32e8a35141240f050fb050698335a0f2989",
+      "sha256": "26fd99817addddb1c2dd99f888f7c177cbcd6fbce96c95b8da6fb55e555b6e69",
       "mode": "ingredients",
       "previous": "21.5",
       "transition": "L"
@@ -1016,7 +1016,7 @@
     {
       "id": "22.1",
       "prompt": "canh-22/clip-1.md",
-      "sha256": "93da436438c0f5fc8960067c714a38fd12b20f05985a4cdcb55738ec469217bd",
+      "sha256": "012c6831db4eed9cb50f973e95cd23a0e107b21552a8300f5d68d1ea66c3b73f",
       "mode": "ingredients",
       "previous": "21.6",
       "transition": "OPEN"
@@ -1024,7 +1024,7 @@
     {
       "id": "22.2",
       "prompt": "canh-22/clip-2.md",
-      "sha256": "ee30d1caba55c0e945ddc11cc5650de8ab9ff220601ff2b3eb07d97402fc0d39",
+      "sha256": "98856879424a18f63194a3751840a6766d8bf51b20d2cbbce1d5a49b86d1f2b4",
       "mode": "ingredients",
       "previous": "22.1",
       "transition": "CUT"
@@ -1032,7 +1032,7 @@
     {
       "id": "22.3",
       "prompt": "canh-22/clip-3.md",
-      "sha256": "17e3f021d395912e6f3bf2038fe4a4185aa4951a608d5709c74ea85cd9823a59",
+      "sha256": "03f2d96222939ad623d885725d5d7461b636b7e977993981e18a0d50fe0d4eb6",
       "mode": "text",
       "previous": "22.2",
       "transition": "CUT"
@@ -1040,7 +1040,7 @@
     {
       "id": "22.4",
       "prompt": "canh-22/clip-4.md",
-      "sha256": "ef85a06f0c22f26d6cbb78296cb2e3901e3011ea02dd5d1a8b6bc23290dc7387",
+      "sha256": "a5076d5c883dd760ca923ca17ad515b4b255264eb225b93d455f77e9c330f6a3",
       "mode": "ingredients",
       "previous": "22.3",
       "transition": "J"
@@ -1048,7 +1048,7 @@
     {
       "id": "22.5",
       "prompt": "canh-22/clip-5.md",
-      "sha256": "e09c7e5a43e5374cfd28ea1db297741df1f6dd5dbd464acf18e44c8314ec66bd",
+      "sha256": "76ee77851c6b53af629c7d13e4fbe25161e38627d03f5649566bbe81ef353a03",
       "mode": "ingredients",
       "previous": "22.4",
       "transition": "CUT"
@@ -1056,7 +1056,7 @@
     {
       "id": "22.6",
       "prompt": "canh-22/clip-6.md",
-      "sha256": "0b2d5de24745b8ebf8ee826aa8d037e643c9dc6189ca3ef9d6027b5b2ec5fdc2",
+      "sha256": "0d660e11097cf7ff762d9bba97da39d66a218556b420d42ca9e22e1afa1220dc",
       "mode": "ingredients",
       "previous": "22.5",
       "transition": "L"
@@ -1064,7 +1064,7 @@
     {
       "id": "23.1",
       "prompt": "canh-23/clip-1.md",
-      "sha256": "668f2660a51254fb1de07e90c8b8fc7d86e66a3a48ef0a584c40bd439fe5f4fb",
+      "sha256": "1cc17d308fb2f18d4a5859b5e02d98aecfc08a961b80a0d398f5339e8dd2586e",
       "mode": "ingredients",
       "previous": "22.6",
       "transition": "OPEN"
@@ -1072,7 +1072,7 @@
     {
       "id": "23.2",
       "prompt": "canh-23/clip-2.md",
-      "sha256": "139e6b98f9d612628ed611cbd3b62948c3386303b8f94e21ce088ad183a6d131",
+      "sha256": "8fc8c8af31bae1a23bfef9c1e50c0dd421969919bb9d9b0092ace1fc66e03437",
       "mode": "ingredients",
       "previous": "23.1",
       "transition": "CUT"
@@ -1080,7 +1080,7 @@
     {
       "id": "23.3",
       "prompt": "canh-23/clip-3.md",
-      "sha256": "4b2283d55e4347e07d923af146b0a6ecca5021ece17264bfa0678c65ea8403f7",
+      "sha256": "e96579ae23cd1f333e9499fac474eff15307f78a11a3ecd6792b3008e740f275",
       "mode": "text",
       "previous": "23.2",
       "transition": "CUT"
@@ -1088,7 +1088,7 @@
     {
       "id": "23.4",
       "prompt": "canh-23/clip-4.md",
-      "sha256": "fa5676611c821d3b6a0759019d0eb636c27d9ca726c0134dffb2fcae4b567b0a",
+      "sha256": "f03556b15b538b8bc7680f30abb2c5e0d16a60a2000ed75d44c7ccac0b399efc",
       "mode": "ingredients",
       "previous": "23.3",
       "transition": "J"
@@ -1096,7 +1096,7 @@
     {
       "id": "23.5",
       "prompt": "canh-23/clip-5.md",
-      "sha256": "0f45bb951ea7129317ceef066a8f4f57ab097952a8ff4479996f95bd67b8aacd",
+      "sha256": "41090203f6f958fbd97f0c5759afafdbf068855390c23b29c30c88e2f89a7d09",
       "mode": "ingredients",
       "previous": "23.4",
       "transition": "CUT"
@@ -1104,7 +1104,7 @@
     {
       "id": "23.6",
       "prompt": "canh-23/clip-6.md",
-      "sha256": "2db268210c73703261c7f5e1640ff18e6da53ca024520c5b137d3c3533245873",
+      "sha256": "5e0f33608289df9d109c1e3a846b3036b1df542bb6cd3ca77f0f4e97bec2d5d5",
       "mode": "ingredients",
       "previous": "23.5",
       "transition": "L"
@@ -1112,7 +1112,7 @@
     {
       "id": "24.1",
       "prompt": "canh-24/clip-1.md",
-      "sha256": "1cf53084883a14e6350ffeedbdf520196e791cff1e93560b2bfbebbab0ebcf73",
+      "sha256": "2df8faa1d05049fbfedaa5a07276414c143060e23da22d5152cf5b531c780904",
       "mode": "ingredients",
       "previous": "23.6",
       "transition": "OPEN"
@@ -1120,7 +1120,7 @@
     {
       "id": "24.2",
       "prompt": "canh-24/clip-2.md",
-      "sha256": "33ef0b88fffbcb0ed4835eb1f7a1144b0566a18853f29be2087d7f70c8819652",
+      "sha256": "ddaf773f646c336da992d437c3af03a607727b563d2da9d253eeada2f1eec5fa",
       "mode": "ingredients",
       "previous": "24.1",
       "transition": "CUT"
@@ -1128,7 +1128,7 @@
     {
       "id": "24.3",
       "prompt": "canh-24/clip-3.md",
-      "sha256": "a42aca8e26501c0dbd6e38347fcf6d463154c513cc754b25049ebe8c4d413f30",
+      "sha256": "6c6feae20b9f8e5742018526e486ffc6d876d14f58c4857f9cc48e5ae7b8e17a",
       "mode": "text",
       "previous": "24.2",
       "transition": "CUT"
@@ -1136,7 +1136,7 @@
     {
       "id": "24.4",
       "prompt": "canh-24/clip-4.md",
-      "sha256": "3579065f7a20cda43b86a926dab0c9d998361af34598534bc0289ffae6525f90",
+      "sha256": "212f045235c10e648f932c8c8cb01a896ab097f97632f53dfc65849be8811816",
       "mode": "ingredients",
       "previous": "24.3",
       "transition": "J"
@@ -1144,7 +1144,7 @@
     {
       "id": "24.5",
       "prompt": "canh-24/clip-5.md",
-      "sha256": "44b2a7f47343cf417ce506a8dc2b3df90ddac9b68fcd4b2eecc85f60adc2e355",
+      "sha256": "02f2879363850600f5bfedb86b11893a779eb4065c0692c11bf013a3e48553a8",
       "mode": "ingredients",
       "previous": "24.4",
       "transition": "CUT"
@@ -1152,7 +1152,7 @@
     {
       "id": "24.6",
       "prompt": "canh-24/clip-6.md",
-      "sha256": "56538894eb98917386fb243d700eede77590a9d0d3e488705cb6ff93a497938d",
+      "sha256": "8ff732af21109b34d9ffe8638577e6c7287a8076d0fd8fe77e3a901b367d94bf",
       "mode": "ingredients",
       "previous": "24.5",
       "transition": "L"
@@ -1160,7 +1160,7 @@
     {
       "id": "25.1",
       "prompt": "canh-25/clip-1.md",
-      "sha256": "b7fbad90300a8919ba46abdb152323f01dfc37dd443c402d77c7f413e25e4fce",
+      "sha256": "7fcf2fb0f6469adfd767d33c62980d6eee2b326e0e72cf51fad432016af012b9",
       "mode": "ingredients",
       "previous": "24.6",
       "transition": "OPEN"
@@ -1168,7 +1168,7 @@
     {
       "id": "25.2",
       "prompt": "canh-25/clip-2.md",
-      "sha256": "4b9843541ee469b30032a91e55a40b4f1cc8f9ada5d73fe8ddbfcf9dd76f5686",
+      "sha256": "62830d233cde8b11e10e37bf44fcc52c80256ca09d51edee33161f6d09a10537",
       "mode": "ingredients",
       "previous": "25.1",
       "transition": "CUT"
@@ -1176,7 +1176,7 @@
     {
       "id": "25.3",
       "prompt": "canh-25/clip-3.md",
-      "sha256": "7cf514a66b29ea71b82b4020b3e4db1e454dc75d522173ea71178908417f4a4e",
+      "sha256": "960d1c37143308fa091686b11c35e7e26c24ce6fc0b54adc98fdb22605deeb79",
       "mode": "ingredients",
       "previous": "25.2",
       "transition": "CUT"
@@ -1184,7 +1184,7 @@
     {
       "id": "25.4",
       "prompt": "canh-25/clip-4.md",
-      "sha256": "4fcb36a439bf38d9f9efd7e6cc1ca56aca75dabee0f87c2ec1a3242acd164a3b",
+      "sha256": "612d1635e8368913480c798deb2a271f7c4f7146b7593f9cf9153b9ef80821a1",
       "mode": "ingredients",
       "previous": "25.3",
       "transition": "J"
@@ -1192,7 +1192,7 @@
     {
       "id": "25.5",
       "prompt": "canh-25/clip-5.md",
-      "sha256": "d8b2f9627605247b814c2107113f1d48a53fe7af573508956e7624f22b52f352",
+      "sha256": "332ca69b25fb0ff56de6dd3b75f3d689d64757af4e3d36e52a1a42867f18dd93",
       "mode": "ingredients",
       "previous": "25.4",
       "transition": "CUT"
@@ -1200,7 +1200,7 @@
     {
       "id": "25.6",
       "prompt": "canh-25/clip-6.md",
-      "sha256": "e1f6b81104b8df4e6683c3798a74253be140f92dfc33d86ebcaf197ed1261dce",
+      "sha256": "58f4884375a1044ce372f8ab595cf58d4cabe34109214b5d9686a2dba6e86c05",
       "mode": "ingredients",
       "previous": "25.5",
       "transition": "L"
@@ -1208,7 +1208,7 @@
     {
       "id": "26.1",
       "prompt": "canh-26/clip-1.md",
-      "sha256": "adf89be5589a1153bd6d61eb183c11e4722bfb0a632ca1ce56b0580298c621f4",
+      "sha256": "420b5be84c13b906ba2d9accbb0ccca97a8a4dac839e8c933fece6f46f496cff",
       "mode": "ingredients",
       "previous": "25.6",
       "transition": "OPEN"
@@ -1216,7 +1216,7 @@
     {
       "id": "26.2",
       "prompt": "canh-26/clip-2.md",
-      "sha256": "9d234b97578f8e4c775cc7361c4ddd337638e6ba493db3c3c56b7f51e24d3727",
+      "sha256": "7e6667d311c9abf2a711389b528c0ace01a914da43c34552eca2f3cf36b10f46",
       "mode": "ingredients",
       "previous": "26.1",
       "transition": "CUT"
@@ -1224,7 +1224,7 @@
     {
       "id": "26.3",
       "prompt": "canh-26/clip-3.md",
-      "sha256": "1c6592816e3517fa65f14aa77a3af378ea0abe56c3d796c7115b70b7ae044bdf",
+      "sha256": "a3290df932eba85582dec43c69ae193fc0ac85eca2d7f9548e0a7355e0579fe2",
       "mode": "ingredients",
       "previous": "26.2",
       "transition": "CUT"
@@ -1232,7 +1232,7 @@
     {
       "id": "26.4",
       "prompt": "canh-26/clip-4.md",
-      "sha256": "30b7e03c2f2f8e6e50e4bbf3fda39a53e207a80960911ed8c38f87047a197fd4",
+      "sha256": "16e862de4e2bc18ee2cae8df269c412f091bc61dcbef42dbcced89deb09c1a94",
       "mode": "ingredients",
       "previous": "26.3",
       "transition": "J"
@@ -1240,7 +1240,7 @@
     {
       "id": "26.5",
       "prompt": "canh-26/clip-5.md",
-      "sha256": "7f5329939132534f363bb03f1f5c2140e1a19e07291b7bdb8ce69daf81937183",
+      "sha256": "fa68bdf7aeced88b774dbada1382252a9d71e55d36fcd21e3283f9d296e251ea",
       "mode": "ingredients",
       "previous": "26.4",
       "transition": "CUT"
@@ -1248,7 +1248,7 @@
     {
       "id": "26.6",
       "prompt": "canh-26/clip-6.md",
-      "sha256": "c8b38dd7f83712758aa5cc9c9f32f1b627a13e8c8608ac53df34b5aa763927f5",
+      "sha256": "b333bbae7917ed97f224d057368d284c4344617dd5fb7beaa5ee8730f75557d9",
       "mode": "ingredients",
       "previous": "26.5",
       "transition": "L"
@@ -1256,7 +1256,7 @@
     {
       "id": "27.1",
       "prompt": "canh-27/clip-1.md",
-      "sha256": "f09036f749cc8c91c2cd2443643ede8eca3fe413eabc5825749727e280503752",
+      "sha256": "07aacf33b2e5479ebfad623e12d827055ea1645883902b1efeb604178c4d7a5f",
       "mode": "ingredients",
       "previous": "26.6",
       "transition": "OPEN"
@@ -1264,7 +1264,7 @@
     {
       "id": "27.2",
       "prompt": "canh-27/clip-2.md",
-      "sha256": "2de68c918ee40cace171ce99ec73a62bab03b9a9027b55898685c363403a3456",
+      "sha256": "20227ffcb41ead7efb5f4d50c2013ec19ca5b2628398043169641f675511be7c",
       "mode": "ingredients",
       "previous": "27.1",
       "transition": "CUT"
@@ -1272,7 +1272,7 @@
     {
       "id": "27.3",
       "prompt": "canh-27/clip-3.md",
-      "sha256": "7c936857014be05fb539dd3f88284a4dbb110272cae8b07ccb65175ebf529c48",
+      "sha256": "1bbe6c3024993dae10a9826e7a3d09ff87792de6d0f856c9353c3739d1931c1e",
       "mode": "text",
       "previous": "27.2",
       "transition": "CUT"
@@ -1280,7 +1280,7 @@
     {
       "id": "27.4",
       "prompt": "canh-27/clip-4.md",
-      "sha256": "8443eb7d01ddb3484cd87ffcc348b5a8f0370cfcf51a9cd8cae7cffcb2de4bcc",
+      "sha256": "680e68d19de4ed61ccbae68de286dabaa84d4491f53875f6474d7dcc49d30e08",
       "mode": "ingredients",
       "previous": "27.3",
       "transition": "J"
@@ -1288,7 +1288,7 @@
     {
       "id": "27.5",
       "prompt": "canh-27/clip-5.md",
-      "sha256": "6f5cb0ebbc5a3aae2425e0f7055e92d81a7e7f89d876e71e4210e9ee61fdd3a0",
+      "sha256": "0f9da68dbbd6dd45afb63cc42bd289951f9aa8104effdb0426fad2509a62bb97",
       "mode": "ingredients",
       "previous": "27.4",
       "transition": "CUT"
@@ -1296,7 +1296,7 @@
     {
       "id": "27.6",
       "prompt": "canh-27/clip-6.md",
-      "sha256": "30a31572cced1bfe3b3ebfb8a0942cfa57c2286b86d0de6c493d0f6f0e92b82f",
+      "sha256": "e1f22b65d8d20b55f5ac37d92fb9a794ae2b09f6fd5589540a275ec62c196355",
       "mode": "ingredients",
       "previous": "27.5",
       "transition": "L"
@@ -1304,7 +1304,7 @@
     {
       "id": "28.1",
       "prompt": "canh-28/clip-1.md",
-      "sha256": "637bef4cf06c890cc6bb79554f9711dec04c00a957c67895b16739b2cffaf471",
+      "sha256": "7043148bb046ace917b13557d6c46eaf4aa6c572d5cafc04875d3e84134b0db2",
       "mode": "ingredients",
       "previous": "27.6",
       "transition": "OPEN"
@@ -1312,7 +1312,7 @@
     {
       "id": "28.2",
       "prompt": "canh-28/clip-2.md",
-      "sha256": "1a2c5d1b9bfae3dd3ea8be24357ed5d16a398522f61da262d1a07706d4ae67e8",
+      "sha256": "e6a89d0a365d7bbefa7cc038d4db5b8b24ce81336c080390e5d371ee5cc8b07a",
       "mode": "ingredients",
       "previous": "28.1",
       "transition": "CUT"
@@ -1320,7 +1320,7 @@
     {
       "id": "28.3",
       "prompt": "canh-28/clip-3.md",
-      "sha256": "9c99926234694ad7c59dab91388127896822e4bc6681e4feeef1e7220bec9c42",
+      "sha256": "a50aa9a8f0620a2360c6e7555afad971273df7827a3a117161a8f04e38e48a21",
       "mode": "ingredients",
       "previous": "28.2",
       "transition": "CUT"
@@ -1328,7 +1328,7 @@
     {
       "id": "28.4",
       "prompt": "canh-28/clip-4.md",
-      "sha256": "38acbe9e638f892adf7556d664eab73e858742d90dd6b6c6a3eafe87003eef10",
+      "sha256": "54bc96dad397132083ee90310ccad287e6c7b428745d1431c7800e51ec944348",
       "mode": "ingredients",
       "previous": "28.3",
       "transition": "J"
@@ -1336,7 +1336,7 @@
     {
       "id": "28.5",
       "prompt": "canh-28/clip-5.md",
-      "sha256": "88fa001c8f5c8b331f3f1d10f92764b5466f52add97e46cbb19a1c0899306c00",
+      "sha256": "f4abfc9358c502c13b8e0ded76fd630e6c878371a5aa49a0604e499683569b9b",
       "mode": "ingredients",
       "previous": "28.4",
       "transition": "CUT"
@@ -1344,7 +1344,7 @@
     {
       "id": "28.6",
       "prompt": "canh-28/clip-6.md",
-      "sha256": "e27507e0070b10de753d48022397cce2f0bd41bd8df80919dac4385a18f7e23f",
+      "sha256": "74b320b3a66140f0d9a81ddf51843e546f55bc383d87a181d8fd37e16a2db60b",
       "mode": "ingredients",
       "previous": "28.5",
       "transition": "L"
@@ -1352,7 +1352,7 @@
     {
       "id": "29.1",
       "prompt": "canh-29/clip-1.md",
-      "sha256": "772c27a60bf3e0a350311875331be195c6fcb4847a4bd3f5cea12b78ba25a5ce",
+      "sha256": "721b792c3b388ad68bd13f81a4d002edbaef35d4f72c4bd804cf4062ce7cc70d",
       "mode": "ingredients",
       "previous": "28.6",
       "transition": "OPEN"
@@ -1360,7 +1360,7 @@
     {
       "id": "29.2",
       "prompt": "canh-29/clip-2.md",
-      "sha256": "ee8ab5cdaff227c9de82b62ae27f3bd5f33a90df822602e9e4dbc080a1925e48",
+      "sha256": "d45a0ea1cc285f2fd216f81f6f6976d78c8ea17cc1e72d87f7c897e5f31f3d71",
       "mode": "ingredients",
       "previous": "29.1",
       "transition": "CUT"
@@ -1368,7 +1368,7 @@
     {
       "id": "29.3",
       "prompt": "canh-29/clip-3.md",
-      "sha256": "826259c945ec5c44005912d3a9331eddc709226f51d3783eb1adc064cc21098e",
+      "sha256": "aec894dfee0fefdd59cf7228f925c60c8af0e9bb3f57e3449e70a4ebb9ae8212",
       "mode": "text",
       "previous": "29.2",
       "transition": "CUT"
@@ -1376,7 +1376,7 @@
     {
       "id": "29.4",
       "prompt": "canh-29/clip-4.md",
-      "sha256": "59c50ed7ee8219633bc34faf66c4381d41bb747de6c14802d26e13814494fafa",
+      "sha256": "836c47262d4b85966f997de2548486eb1d896a7cc2c9ce55d5eb9ead230fcdc7",
       "mode": "ingredients",
       "previous": "29.3",
       "transition": "J"
@@ -1384,7 +1384,7 @@
     {
       "id": "29.5",
       "prompt": "canh-29/clip-5.md",
-      "sha256": "e16ced5b6fa9ee88de64617ac6727655811d2a40078aec2a07be4f4c8e084ed1",
+      "sha256": "5f360ff8e9961795d9df9966246ebf7153d75ca98312af02d0dbd7712c8ace97",
       "mode": "ingredients",
       "previous": "29.4",
       "transition": "CUT"
@@ -1392,7 +1392,7 @@
     {
       "id": "29.6",
       "prompt": "canh-29/clip-6.md",
-      "sha256": "d782ab79b20b39f2bedfbbc1c4cd4766b33222e1edab2a0b27cd39d80d505328",
+      "sha256": "5e5cb1e1e6aa55a691eb10b850b74338d0db1d6dc65a4ee0354e07e37f38ccd2",
       "mode": "ingredients",
       "previous": "29.5",
       "transition": "L"
@@ -1400,7 +1400,7 @@
     {
       "id": "30.1",
       "prompt": "canh-30/clip-1.md",
-      "sha256": "ff4a8888bf885df7baefe50bcad2832ef3abb94b9beae03cf2a93b83037bb036",
+      "sha256": "d59007ad28244a278f7c9887ba61de21308cb07d4b2dbbcd551cea42cee55137",
       "mode": "ingredients",
       "previous": "29.6",
       "transition": "OPEN"
@@ -1408,7 +1408,7 @@
     {
       "id": "30.2",
       "prompt": "canh-30/clip-2.md",
-      "sha256": "43264bbe3818087b98d4a2cdf454a77eb47ae489bc96af0573b5d10403671f62",
+      "sha256": "b7473fcbe0fe3b4d2c9237ed4ad56cd1150d28c14886a7f3cc17f98ecf6e2f51",
       "mode": "ingredients",
       "previous": "30.1",
       "transition": "CUT"
@@ -1416,7 +1416,7 @@
     {
       "id": "30.3",
       "prompt": "canh-30/clip-3.md",
-      "sha256": "48c28268b303e884394d22e90f81e2ff3151e487f213c7a1329b373ef0c1f539",
+      "sha256": "6265b0787e33fd4a5a42e08aec780d3578641332d75b4365475eef7aa2945a92",
       "mode": "ingredients",
       "previous": "30.2",
       "transition": "CUT"
@@ -1424,7 +1424,7 @@
     {
       "id": "30.4",
       "prompt": "canh-30/clip-4.md",
-      "sha256": "4442fff033bd8fa068f14b0d68d97cb398120bd41cd83743691a3683f709fffb",
+      "sha256": "cfcbeb8de003ea045c2b5b2f14d17ee05bdb7a4f03ecebafeed297bcc4473fec",
       "mode": "ingredients",
       "previous": "30.3",
       "transition": "J"
@@ -1432,7 +1432,7 @@
     {
       "id": "30.5",
       "prompt": "canh-30/clip-5.md",
-      "sha256": "47341be143a0ca233d539346472ca4b7a8b6c21ff95420def46f5e1c607cdeff",
+      "sha256": "fb03371e65bb8f76dc754005b82cf522a23c01bda025720b004838e7f7a9e197",
       "mode": "ingredients",
       "previous": "30.4",
       "transition": "CUT"
@@ -1440,7 +1440,7 @@
     {
       "id": "30.6",
       "prompt": "canh-30/clip-6.md",
-      "sha256": "7da4f3b412b3c053425d6c575f6aab59df1b44058dac061a6f74e6b1f3615ac0",
+      "sha256": "ee90fbe7603ba015c334b612259f40a200b88e89e81a1c3b2fde2a648b0d0b9d",
       "mode": "ingredients",
       "previous": "30.5",
       "transition": "L"
@@ -1448,7 +1448,7 @@
     {
       "id": "31.1",
       "prompt": "canh-31/clip-1.md",
-      "sha256": "d773b1d2d29589d10dea8a6547fdbb07a6f1b72dae2ba92353050a8eed4fe3a7",
+      "sha256": "016a839341300fb9278c71b797cffffbb9c3f99a6591f2221400e7004d8e6d78",
       "mode": "ingredients",
       "previous": "30.6",
       "transition": "OPEN"
@@ -1456,7 +1456,7 @@
     {
       "id": "31.2",
       "prompt": "canh-31/clip-2.md",
-      "sha256": "b49e6c9e8aace91b4290ac2f736a6f05ff5191405795e637813229176e02a747",
+      "sha256": "6e4bae75867113479f44a45ac1cb3321e3d5ca48fc190c664300803773d5c73b",
       "mode": "ingredients",
       "previous": "31.1",
       "transition": "CUT"
@@ -1464,7 +1464,7 @@
     {
       "id": "31.3",
       "prompt": "canh-31/clip-3.md",
-      "sha256": "13cc6cbf7f507830f98ef9bcfeff8e09b448b680232d57bdd8fd72b17e398970",
+      "sha256": "9d455ed8061d63eddb1535feae93f82716ac2d6c95f8f03e54fb444457d72795",
       "mode": "ingredients",
       "previous": "31.2",
       "transition": "CUT"
@@ -1472,7 +1472,7 @@
     {
       "id": "31.4",
       "prompt": "canh-31/clip-4.md",
-      "sha256": "8b15390177dce1e49123943f3d9d2b00be69e278f586a5d5c4ac6f0fd2ef69f9",
+      "sha256": "18c2286c7ee2a0f30a422b30b8b6df3d9ab0aa77aad3d80927ab728434d55576",
       "mode": "ingredients",
       "previous": "31.3",
       "transition": "J"
@@ -1480,7 +1480,7 @@
     {
       "id": "31.5",
       "prompt": "canh-31/clip-5.md",
-      "sha256": "bca2a325ad965b2b83bf4e7965ae38157b26bfeb1ed91004f960387020087a8f",
+      "sha256": "cf5ec25f85735a436b60e7fc42f10c1393fba53cd6bb20dce6ffc99040b0ca3b",
       "mode": "ingredients",
       "previous": "31.4",
       "transition": "CUT"
@@ -1488,7 +1488,7 @@
     {
       "id": "31.6",
       "prompt": "canh-31/clip-6.md",
-      "sha256": "92ecbaf30f0f9517418612ab100e4cbb33fcc60901a3a5a9e5454ffe2f0555cc",
+      "sha256": "d6dd537dfe91dd3a56b4182c3f88d41bd963f46af4a35aeb75c7dbe4645ba5cc",
       "mode": "ingredients",
       "previous": "31.5",
       "transition": "L"
@@ -1496,7 +1496,7 @@
     {
       "id": "32.1",
       "prompt": "canh-32/clip-1.md",
-      "sha256": "efc2119ea098b94a6fac5723822bda97ef984eda4b3a702eaa5fec6b39b42caa",
+      "sha256": "a62d5e003a0c6485ddc07dd350b8bbf55a243f1e762052e7ef9817c50371f372",
       "mode": "ingredients",
       "previous": "31.6",
       "transition": "OPEN"
@@ -1504,7 +1504,7 @@
     {
       "id": "32.2",
       "prompt": "canh-32/clip-2.md",
-      "sha256": "91fed6f6848135ad69f89f8784abac6628d71aa8394a734382f17ce7ec1431cf",
+      "sha256": "d85d48c191e40ae245dc05740433018940a9557308cd3874284e74188d05def0",
       "mode": "ingredients",
       "previous": "32.1",
       "transition": "CUT"
@@ -1512,7 +1512,7 @@
     {
       "id": "32.3",
       "prompt": "canh-32/clip-3.md",
-      "sha256": "e8046378d154f6fc67db576786cbe3ebea7079e1b9f7655a018f122afeb78026",
+      "sha256": "400fef8998a5bc374acdcf5fba5f107179113ada59537cd81d68dbef11cd9c87",
       "mode": "ingredients",
       "previous": "32.2",
       "transition": "CUT"
@@ -1520,7 +1520,7 @@
     {
       "id": "32.4",
       "prompt": "canh-32/clip-4.md",
-      "sha256": "cfa0ff08d3e2029400524b8b88b64c3e3569acebc9f8de2dab00e3a3befe5a17",
+      "sha256": "f3115d18135e0113ca16861e866007fb91be5b26b8f635b908b14fd255247dc8",
       "mode": "ingredients",
       "previous": "32.3",
       "transition": "J"
@@ -1528,7 +1528,7 @@
     {
       "id": "32.5",
       "prompt": "canh-32/clip-5.md",
-      "sha256": "8adbff7911a67d4cac3623f97ca97470c11696fb39fed4037f31afbcd4f2ebf6",
+      "sha256": "68ad8167b4030f9aeca1a556c078ee6d058c80d446578a25b4bb3cfd2b4b6ff9",
       "mode": "ingredients",
       "previous": "32.4",
       "transition": "CUT"
@@ -1536,7 +1536,7 @@
     {
       "id": "32.6",
       "prompt": "canh-32/clip-6.md",
-      "sha256": "0abc9b3bfb41b037acc4c0b836209b380f74625b6c04ca4cf36bea2a9e147666",
+      "sha256": "ad07eeb60904b0df4695d5ccd4df67f330826f8c671ed69aa410b9d3d8727254",
       "mode": "ingredients",
       "previous": "32.5",
       "transition": "L"
@@ -1544,7 +1544,7 @@
     {
       "id": "33.1",
       "prompt": "canh-33/clip-1.md",
-      "sha256": "54c84acde18c79f7ba94a0d389ceb713bcb605fc5fa9043000623a38d81d1676",
+      "sha256": "459cbd182998767fc4064f6d1f25e1e9d8bf5b711cf5ab07ed55cacb984a1d8f",
       "mode": "ingredients",
       "previous": "32.6",
       "transition": "OPEN"
@@ -1552,7 +1552,7 @@
     {
       "id": "33.2",
       "prompt": "canh-33/clip-2.md",
-      "sha256": "39b325285b671ec3b584be000d0f417921429a5ee4e3abd96888b89cdd8e3615",
+      "sha256": "b1d2a1aac029f2ea3f617fccc38d433d3b1f402160e6405ad24590e133fe968e",
       "mode": "ingredients",
       "previous": "33.1",
       "transition": "CUT"
@@ -1560,7 +1560,7 @@
     {
       "id": "33.3",
       "prompt": "canh-33/clip-3.md",
-      "sha256": "3abb5a9cf487cb38bd9867ad6d1cae1422915b567e70cfdc5a08aa8ca2a8bcc4",
+      "sha256": "33cb03ea4472ab8f3b0d6fe0e9c7ddff3088619e19c2b224a7d6f8408e9ef6fe",
       "mode": "ingredients",
       "previous": "33.2",
       "transition": "CUT"
@@ -1568,7 +1568,7 @@
     {
       "id": "33.4",
       "prompt": "canh-33/clip-4.md",
-      "sha256": "ce6e99af051b274429dc6ac0f0ce9f2a3a4c0be7811176390d7886113ea4f543",
+      "sha256": "c9f81496c315a4c08f0c570188b50dff23edd49a8a2d461ddbaca07289fe9db2",
       "mode": "ingredients",
       "previous": "33.3",
       "transition": "J"
@@ -1576,7 +1576,7 @@
     {
       "id": "33.5",
       "prompt": "canh-33/clip-5.md",
-      "sha256": "5735e7264835e59750fe6f92573c2b97cd8b8669eaff4d95a0dfdc4b5463343c",
+      "sha256": "4bad7858678666f90afc6ef74cba20b6a1bf6d2e1a94c736324088f3244a9711",
       "mode": "ingredients",
       "previous": "33.4",
       "transition": "CUT"
@@ -1584,7 +1584,7 @@
     {
       "id": "33.6",
       "prompt": "canh-33/clip-6.md",
-      "sha256": "bc1dd9ea77363852854e93146e8635203a578b0c036d9e1674a052067d2ba969",
+      "sha256": "efd52327c195ca8f3c4f35e7c897f06f2173ac3d50e49542d3266add18af7f7c",
       "mode": "ingredients",
       "previous": "33.5",
       "transition": "L"
@@ -1592,7 +1592,7 @@
     {
       "id": "34.1",
       "prompt": "canh-34/clip-1.md",
-      "sha256": "617e1f4b8a46d40184f9b1958b76673984caeea0f6c180cfd0c1d1af553a1d63",
+      "sha256": "5ef0b4a2bf9fd3a3e7a2a6d795dda7247ca9cafe5172f7c8f5bc43753d6665b5",
       "mode": "ingredients",
       "previous": "33.6",
       "transition": "OPEN"
@@ -1600,7 +1600,7 @@
     {
       "id": "34.2",
       "prompt": "canh-34/clip-2.md",
-      "sha256": "86612cae4a064d676adab6b2604eb0afd06b460fcde36e2e855c9313d1e5b7f0",
+      "sha256": "50d4aec64c7142dda9c4c5b04449349e1abca2f356fbbe7f19b1ff1f3986989e",
       "mode": "ingredients",
       "previous": "34.1",
       "transition": "CUT"
@@ -1608,7 +1608,7 @@
     {
       "id": "34.3",
       "prompt": "canh-34/clip-3.md",
-      "sha256": "aadcefd3240a2d65f8b6ccc04254aebd92c9aabb172a2a2fb5cb6ca945a123f6",
+      "sha256": "66cc73cab3f33c77aa7e89373f008ebd446c7ac6f54225284f847e53b2d096b6",
       "mode": "text",
       "previous": "34.2",
       "transition": "CUT"
@@ -1616,7 +1616,7 @@
     {
       "id": "34.4",
       "prompt": "canh-34/clip-4.md",
-      "sha256": "f0c952328446561d0731f10ad37a266d721c90119dc7fe731f842ec40c599eee",
+      "sha256": "7139b49eb0c5b79cc318f5ea5ce495d68e9296568b09aaadb05eed54312b1064",
       "mode": "ingredients",
       "previous": "34.3",
       "transition": "J"
@@ -1624,7 +1624,7 @@
     {
       "id": "34.5",
       "prompt": "canh-34/clip-5.md",
-      "sha256": "f393e4ee600b3a13782e625e67a62cd6bbd7e1c388f5e94df069427f38ac5c0d",
+      "sha256": "a63a3978274e9e940bf356f02710418e83a9ee2879dadcfc387c4ec94abf1b75",
       "mode": "ingredients",
       "previous": "34.4",
       "transition": "CUT"
@@ -1632,7 +1632,7 @@
     {
       "id": "34.6",
       "prompt": "canh-34/clip-6.md",
-      "sha256": "1da257decec5d83da5619285e0e2e82d264234c8884b9c78a026ea43d41f9b9f",
+      "sha256": "2df0317cfdfc59a1146a0b010e5ca7304445e4eacc7eea8a453f630974967586",
       "mode": "ingredients",
       "previous": "34.5",
       "transition": "L"
@@ -1640,7 +1640,7 @@
     {
       "id": "35.1",
       "prompt": "canh-35/clip-1.md",
-      "sha256": "49827777f5546c1000cc4cd4860cbc0105a557cae34a8c2c012e52365472c626",
+      "sha256": "a087bc84fafbc1b40ea2b218903da127e283734711204e5e01dc6020badf24be",
       "mode": "ingredients",
       "previous": "34.6",
       "transition": "OPEN"
@@ -1648,7 +1648,7 @@
     {
       "id": "35.2",
       "prompt": "canh-35/clip-2.md",
-      "sha256": "fe76a94b679803821e9e87eb7219f55be4cc37beee380d111b9a6e209e582705",
+      "sha256": "161e9cd9bf3c93fbd6ee980adb55aca40a48eee76bb679ed920630f17e091217",
       "mode": "ingredients",
       "previous": "35.1",
       "transition": "CUT"
@@ -1656,7 +1656,7 @@
     {
       "id": "35.3",
       "prompt": "canh-35/clip-3.md",
-      "sha256": "b7267522abf6b484194cff8de1e11d29942d9932781303b87e2b05f6868e8e5e",
+      "sha256": "95aba64768bda652d3834a543665173e8d12f318554a9ef992e6a1387ffa2460",
       "mode": "ingredients",
       "previous": "35.2",
       "transition": "CUT"
@@ -1664,7 +1664,7 @@
     {
       "id": "35.4",
       "prompt": "canh-35/clip-4.md",
-      "sha256": "5bde81f4c9c11032ef01c82b76deeb2345a89196026c9f5bd4d73c25c3e698cf",
+      "sha256": "4bd0fc7c337be80a5128fa34d5ff1ea7fae046d699da9b5549f1732cfa08155d",
       "mode": "ingredients",
       "previous": "35.3",
       "transition": "J"
@@ -1672,7 +1672,7 @@
     {
       "id": "35.5",
       "prompt": "canh-35/clip-5.md",
-      "sha256": "cb96f09e410e17c9fc37e9b5f302b8dcc0e90285d3025a1267aa6f9771246e15",
+      "sha256": "bdf875a9a43d059370fd49a971b8edfbfa72a1900d38bcaab1363b185cb28b15",
       "mode": "ingredients",
       "previous": "35.4",
       "transition": "CUT"
@@ -1680,7 +1680,7 @@
     {
       "id": "35.6",
       "prompt": "canh-35/clip-6.md",
-      "sha256": "560293d7646fd3d81d87630ab4b69facc5251f97c089fd3165db0658395969b5",
+      "sha256": "372bc6c7bf3018611d0c1bcd933c6c299f5daeec9d80c69c4ac6f9e839db3ba7",
       "mode": "ingredients",
       "previous": "35.5",
       "transition": "L"
@@ -1688,7 +1688,7 @@
     {
       "id": "36.1",
       "prompt": "canh-36/clip-1.md",
-      "sha256": "7e2a7c495856c0e1257ac3dcdf0894211f041cd3c0ea2b2bec42ff5b553588ce",
+      "sha256": "cfb56e76d95a8dd5f343e14545d9e895b0fa9fa51f23ee5ebdc82e0284476fd7",
       "mode": "ingredients",
       "previous": "35.6",
       "transition": "OPEN"
@@ -1696,7 +1696,7 @@
     {
       "id": "36.2",
       "prompt": "canh-36/clip-2.md",
-      "sha256": "6a986e855306b99d19c7ffcf0f5d3e01ed0f7b780756d4e9c14a65bdcd56e83e",
+      "sha256": "fee7735b960b3fc147cdad98d7709fe45901ac84bb5e15db0248ed95134ac9e6",
       "mode": "ingredients",
       "previous": "36.1",
       "transition": "CUT"
@@ -1704,7 +1704,7 @@
     {
       "id": "36.3",
       "prompt": "canh-36/clip-3.md",
-      "sha256": "63a7e9a4a85c369fca1e6180f0d0067a121cc5e6726c2877140fe390a38db21b",
+      "sha256": "bb83aec0e4730d1cea1c4e92a1b16c0b7977ad12b17c62c05d3aff40945f99db",
       "mode": "ingredients",
       "previous": "36.2",
       "transition": "CUT"
@@ -1712,7 +1712,7 @@
     {
       "id": "36.4",
       "prompt": "canh-36/clip-4.md",
-      "sha256": "3c14ed0452194c1e03bc22f263daca67b5588a73c85c37148895c5f8bdb2648b",
+      "sha256": "745a00c4ff213f0757c758dec451a5b0b839416cf1a3e313d405a4f18d80b098",
       "mode": "ingredients",
       "previous": "36.3",
       "transition": "J"
@@ -1720,7 +1720,7 @@
     {
       "id": "36.5",
       "prompt": "canh-36/clip-5.md",
-      "sha256": "7e7a7043a67956ee3488ccd08c24427d57c00393ec6f4be320eb17fb0ae8313c",
+      "sha256": "d2104b305c4ab1d416b305388cc7efcd7b69999cc2064fa082caad8f36db4bd6",
       "mode": "ingredients",
       "previous": "36.4",
       "transition": "CUT"
@@ -1728,7 +1728,7 @@
     {
       "id": "36.6",
       "prompt": "canh-36/clip-6.md",
-      "sha256": "d10038123536fed435daf5e205cc8f0fa384d013665a7f5447919fbafe2b4f51",
+      "sha256": "c026c11d3d1790d016d19996ea6816b4e174ec3d6df2b017fb272c85abc3db0c",
       "mode": "ingredients",
       "previous": "36.5",
       "transition": "L"
@@ -1736,7 +1736,7 @@
     {
       "id": "37.1",
       "prompt": "canh-37/clip-1.md",
-      "sha256": "6c8987905c482a9a3101f185c54d5c9ccd2016944f7e1d6e1db6777dcb54bb1f",
+      "sha256": "0ae5506d4876b6ea43d0b0a3e5d378869a0740bdeccb8f0eaa802d8c5083ecfd",
       "mode": "ingredients",
       "previous": "36.6",
       "transition": "OPEN"
@@ -1744,7 +1744,7 @@
     {
       "id": "37.2",
       "prompt": "canh-37/clip-2.md",
-      "sha256": "a5e6f089ffa00d50ed1cdc3c3d61491fa830e3ecf6efabd12457e23f381ec9a7",
+      "sha256": "a2f2df06c733d5ce611deb40012b81289c5f0e1634069af032bec3751f81404b",
       "mode": "ingredients",
       "previous": "37.1",
       "transition": "CUT"
@@ -1752,7 +1752,7 @@
     {
       "id": "37.3",
       "prompt": "canh-37/clip-3.md",
-      "sha256": "9f6b49ea9aac45a52c4387eeb39e46b0da3d19f9fbff6ae22392da9b666c1fc5",
+      "sha256": "5e1765176f329e7ccf0e9a2a9d1d7af5ed3600b756e50636fe30f026c878a94d",
       "mode": "ingredients",
       "previous": "37.2",
       "transition": "CUT"
@@ -1760,7 +1760,7 @@
     {
       "id": "37.4",
       "prompt": "canh-37/clip-4.md",
-      "sha256": "2f09705197674359546605fea4606e10e45dd5f0c143e742e842bfd58121aa27",
+      "sha256": "3a3ad33fd8caa5db591d323e975fdf020ecf8489e083e0f824b6a7746125fd0f",
       "mode": "ingredients",
       "previous": "37.3",
       "transition": "J"
@@ -1768,7 +1768,7 @@
     {
       "id": "37.5",
       "prompt": "canh-37/clip-5.md",
-      "sha256": "e331aa6cfa10f22afa2ea24987e49eff083381ec1271bcc6858d4c4beb1b2f2e",
+      "sha256": "a6deca2589789c74098e2a60df0e8e77171683b8516f1c1472deeb467db3a096",
       "mode": "ingredients",
       "previous": "37.4",
       "transition": "CUT"
@@ -1776,7 +1776,7 @@
     {
       "id": "37.6",
       "prompt": "canh-37/clip-6.md",
-      "sha256": "d8068c7151fe812db91bf877b361d6a5302279fa1446e9c5bffa147e45cfa80a",
+      "sha256": "7be28fde1de83feed6dd8c1ec62dee45a4ce07d2e9c4f0c3ac7b50ae84a39884",
       "mode": "ingredients",
       "previous": "37.5",
       "transition": "L"
@@ -1784,7 +1784,7 @@
     {
       "id": "38.1",
       "prompt": "canh-38/clip-1.md",
-      "sha256": "223422874a7de1209925b411799fcb9239761de636486e370125a5daaede71d1",
+      "sha256": "14bb54a4db18bcdaf4002ea0c9c912bb6e34734b1fc1a358c01989c49d34edd9",
       "mode": "ingredients",
       "previous": "37.6",
       "transition": "OPEN"
@@ -1792,7 +1792,7 @@
     {
       "id": "38.2",
       "prompt": "canh-38/clip-2.md",
-      "sha256": "3eb41c65221f63a5662d4c42f927b9301bc50b438e6f53114bd70e65c14c5890",
+      "sha256": "97949ad7e5573fd68632ec1a12d18e06106b77796ca5259fa880485727f3f0d0",
       "mode": "ingredients",
       "previous": "38.1",
       "transition": "CUT"
@@ -1800,7 +1800,7 @@
     {
       "id": "38.3",
       "prompt": "canh-38/clip-3.md",
-      "sha256": "613f1127327b762db74c3876e0d3b107120b273e3dc269730850c9a36c7ad770",
+      "sha256": "77fc5393290e75a862f59028817223af09659f703c3c446a99f0ff8f061cf27e",
       "mode": "text",
       "previous": "38.2",
       "transition": "CUT"
@@ -1808,7 +1808,7 @@
     {
       "id": "38.4",
       "prompt": "canh-38/clip-4.md",
-      "sha256": "4b5d0d1c136a7bf67c5220740a09372570bbe4eaf997127972084c0bd0c53845",
+      "sha256": "020e50011c695b6babf33b61c5e0472c00dd8fdb2148493bbe9aa757ff77c5e1",
       "mode": "ingredients",
       "previous": "38.3",
       "transition": "J"
@@ -1816,7 +1816,7 @@
     {
       "id": "38.5",
       "prompt": "canh-38/clip-5.md",
-      "sha256": "dff9c2318132541f7d0a8334c3de9373a32a5ed1870d81b456754bb7192b62af",
+      "sha256": "a9f2590e6621467dd155e767c3e5367d4b9d052c53be3d849a446b778bb273f1",
       "mode": "ingredients",
       "previous": "38.4",
       "transition": "CUT"
@@ -1824,7 +1824,7 @@
     {
       "id": "38.6",
       "prompt": "canh-38/clip-6.md",
-      "sha256": "8b76d560011564873db27d0769fe7bf2252718f986869cb88d7ce3949644b8e2",
+      "sha256": "39b0efe908cbb254809eec5d8c753c1a2e50b743644e5063293199472a36020a",
       "mode": "ingredients",
       "previous": "38.5",
       "transition": "L"
@@ -1832,7 +1832,7 @@
     {
       "id": "39.1",
       "prompt": "canh-39/clip-1.md",
-      "sha256": "41ca1a1706d089b31f40fc0f29d30c6967bf08a8517a3024f9235c49a88deabc",
+      "sha256": "00f5a27610178d8e16993d95225aaae3ebf2e6b13373501fc03d6f330330536e",
       "mode": "ingredients",
       "previous": "38.6",
       "transition": "OPEN"
@@ -1840,7 +1840,7 @@
     {
       "id": "39.2",
       "prompt": "canh-39/clip-2.md",
-      "sha256": "777effe72adbca92981b34cd535e011683410a5b2d7c294478e82adb5363461d",
+      "sha256": "40beb9b1859c70ef099ed0e40e153d15ffea0efd8ee686a836164c65b371c03a",
       "mode": "ingredients",
       "previous": "39.1",
       "transition": "CUT"
@@ -1848,7 +1848,7 @@
     {
       "id": "39.3",
       "prompt": "canh-39/clip-3.md",
-      "sha256": "0a291fe52ef4b7d6b473208ccaebb4e3a00e58af0aa237d07b8cbb8fd824890a",
+      "sha256": "f8ada2eae1f409182fbb5fe66a78da05d9fa26accf5db4c021968d5020e003ba",
       "mode": "ingredients",
       "previous": "39.2",
       "transition": "CUT"
@@ -1856,7 +1856,7 @@
     {
       "id": "39.4",
       "prompt": "canh-39/clip-4.md",
-      "sha256": "589e8ba4ce91b045d2771041ad6c73a07f782b585ffcd07b4e8a2235a55c9748",
+      "sha256": "a6d2a267f9ed6592135c148f268688ec7410e09c57b12a397bd7bf417c8ab895",
       "mode": "ingredients",
       "previous": "39.3",
       "transition": "J"
@@ -1864,7 +1864,7 @@
     {
       "id": "39.5",
       "prompt": "canh-39/clip-5.md",
-      "sha256": "52d02facf55ffc7a31e434148c500e8866601774dd3041b41f1fe0de63399bc0",
+      "sha256": "b964b4f907654e02f7c340aed0c75edba06cf8c8d739c2ad9359ac21bea9eab3",
       "mode": "ingredients",
       "previous": "39.4",
       "transition": "CUT"
@@ -1872,7 +1872,7 @@
     {
       "id": "39.6",
       "prompt": "canh-39/clip-6.md",
-      "sha256": "b2bf8041127dc480c5d58c2d4e43e5eac2b728c55017f2d03fd6acd4e17e2df3",
+      "sha256": "b7a617347b63c97f7ca760666777e8da07a27c42d385c3ea28b274c6d5d1612f",
       "mode": "ingredients",
       "previous": "39.5",
       "transition": "L"
@@ -1880,7 +1880,7 @@
     {
       "id": "40.1",
       "prompt": "canh-40/clip-1.md",
-      "sha256": "1c44d9eabd6c2990e09e86fef876100e69e960e2336fce3adf2f75b00ab7d890",
+      "sha256": "7f8ffc115cb3ba0f33d1da0df7f3c2e174dd49fe33359f870380a9e0775f2a71",
       "mode": "ingredients",
       "previous": "39.6",
       "transition": "OPEN"
@@ -1888,7 +1888,7 @@
     {
       "id": "40.2",
       "prompt": "canh-40/clip-2.md",
-      "sha256": "22056139e417122c1ec8d830d266848697e43595e00d115f2753de622dcf43b4",
+      "sha256": "a4befbfe973f3e2af74b748daea770a854540974c77330e162ce5b87366b8caa",
       "mode": "ingredients",
       "previous": "40.1",
       "transition": "CUT"
@@ -1896,7 +1896,7 @@
     {
       "id": "40.3",
       "prompt": "canh-40/clip-3.md",
-      "sha256": "140a63b7b3ac9b57f3f0c230910b0660882c1d40a3fbc19d13bc05975e356612",
+      "sha256": "8b22c710369ef1214011cf40ecdecf6f43856dc77729a5bebdb5e1bc465e67b5",
       "mode": "ingredients",
       "previous": "40.2",
       "transition": "CUT"
@@ -1904,7 +1904,7 @@
     {
       "id": "40.4",
       "prompt": "canh-40/clip-4.md",
-      "sha256": "687ee2d296a64c6580e0e76992cc2cc6f650c1c2e0efdbba78e48d16a0213bd8",
+      "sha256": "43f3fdcc5c175e924d3281389b74e83227ac9399419abe447399abf42bc70d69",
       "mode": "ingredients",
       "previous": "40.3",
       "transition": "J"
@@ -1912,7 +1912,7 @@
     {
       "id": "40.5",
       "prompt": "canh-40/clip-5.md",
-      "sha256": "90ec77c283bdadf0bbb4a34b0c70459bea5ede22ef4cdc2360f5661fdfe2cbb0",
+      "sha256": "b21cc7c2f3e4cd0e3e8f78cc8a9fc610030671485661111b6eb05196160bf625",
       "mode": "ingredients",
       "previous": "40.4",
       "transition": "CUT"
@@ -1920,7 +1920,7 @@
     {
       "id": "40.6",
       "prompt": "canh-40/clip-6.md",
-      "sha256": "0575fec7b0a417742a33565d2d73c16d482cab1f9aa828ec50fb633394cf9f16",
+      "sha256": "bdf0b61c35a9750f9bbe240e973c0c6be876477718947e369928868ca99239f4",
       "mode": "ingredients",
       "previous": "40.5",
       "transition": "L"

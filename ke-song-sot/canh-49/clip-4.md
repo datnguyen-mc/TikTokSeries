@@ -42,9 +42,30 @@ Blocking: She offers bare wrists for the cuffs, then looks toward the lighthouse
 Performance: Her sentence sounds like a fact she wants to regain power, not an appeal the scene endorses (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–8.0s, two natural back-and-forth conversational turns (29 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Delivery & Timing: 0.3–8.0s, two natural back-and-forth conversational turns (29 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.25x conversational speaking speed (125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
 Unnamed assisting officer: composed Southern Vietnamese voice, no new named lead character.
 Bà Hai (@HaiNgoc), nói trong hình [0.3–4.1s | giọng bà trùm cố giữ vẻ kiêu hãnh cuối cùng khi đưa tay nhận còng]: Đưa còng đây tôi nhận, nhưng nhớ kỹ thằng Sơn là con tôi nuôi lớn.
 Cán bộ hỗ trợ, nói trong hình [4.4–8.0s | giọng cán bộ công an nghiêm nghị khóa còng]: Bà nuôi người hay giam cầm người thì tòa án sẽ phân xử rõ.

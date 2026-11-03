@@ -34,7 +34,7 @@ CAMERAS = {
     'C': '85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.',
     'I': '85mm mechanical/object detail insert shot. The featured vehicle mechanism or object moves with smooth physical continuity from 0.0s through 10.0s and stays spatially readable without forcing visible characters into frame.',
     'T': '35mm stabilized lateral tracking shot pacing the subject smoothly in the established left-to-right forward direction with rapidly spinning wheels showing realistic forward rotational motion blur, co-directional vehicle alignment, and progressive suspension kinematics. No whip pan, drone move or reverse-axis cut.',
-    'H': '35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled kicks, dynamic footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera\'s view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.',
+    'H': '35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera\'s view. Clean athletic precision, all movements are simulated stunt choreography.',
     'O': '50mm over-shoulder or point-of-view composition from the observer specified in the opening frame, maintaining smooth parallax and matched eyelines.',
     'P': '50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.',
     'E': '24mm wide-angle cinematic opening move: one smooth continuous low-angle lateral track pacing the moving vehicle along the established left-to-right road axis with rapidly spinning wheels, co-directional forward motion, and natural speed parallax. No drone, no whip pan, no cut.',
@@ -470,7 +470,7 @@ def voice_block(plan: dict, c: dict) -> str:
     prefix_block = ('\n'.join(dict.fromkeys(prefixes)) + '\n') if prefixes else ''
     lines_block = '\n'.join(spoken_line(plan, d) for d in c['dialogue'])
     timing = ('Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural '
-              'Southern Vietnamese pace with clear diction, while that beat\'s movement happens; lines never overlap '
+              '1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat\'s movement happens; lines never overlap '
               'and the picture never waits for speech.')
     return (
         f"{timing} {rendering}".rstrip() + "\n"
@@ -577,7 +577,7 @@ def render_prompt(plan: dict, c: dict, previous: dict | None, following: dict | 
     )
     clip_avoid = f"\nIn this shot also do not show or do: {c['avoid']}." if c.get('avoid') else ''
     return f"""{head}
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: {wf_mode}, shot type: {shot_type}): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. {shutter}. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: {wf_mode}, shot type: {shot_type}): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 {CLEAN_FRAME}
 
 [CHARACTERS — approved identities and current appearances]
@@ -607,7 +607,7 @@ Spatial geography & 180-degree axis: {env_axis}
 
 [ACTION — 0–10s, one evolving take]
 {c['action']}
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled kicks, dramatic camera tracking, dynamic footwork and realistic physical reactions; if a performer loses balance, they fall safely onto padded flooring outside the camera's view. No blood, no graphic injuries, no gore. All movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.{vehicle_motion_rule}{rhythm}
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.{vehicle_motion_rule}{rhythm}
 {staging}
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -615,6 +615,27 @@ Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physica
 {BODY_STANDARD}
 {mouth_map(plan, c)}
 {FACE_STANDARD}
+
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
 
 [DIALOGUE]
 {voice_block(plan, c)}
@@ -633,7 +654,7 @@ SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roarin
 {out}
 
 [AVOID]
-Do not show or do any of the following: blood, graphic injuries, gore, stationary or frozen wheels on moving vehicles, backward-spinning wheels, vehicles facing or driving in opposite directions during a pursuit or race, muted or missing engine/tire sound effects, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.{clip_avoid}
+Do not show or do any of the following: stationary or frozen wheels on moving vehicles, backward-spinning wheels, vehicles facing or driving in opposite directions during a pursuit or race, muted or missing engine/tire sound effects, cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, repeating any beat or line inside this clip or from adjacent clips, rushed, clipped or dragging speech, quiet pauses, exaggerated or theatrical acting, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, vehicle color/wheel/silhouette morphing, wrong prop owner, reversed movement axis, floating or sliding objects, objects passing through hands, extra or fused fingers, mouths moving outside their dialogue windows, lip-sync drift, facial morphing, drifting eyes, readable text, generated captions, logos, TV station or channel logos, broadcaster watermarks, news tickers, lower-thirds, LIVE/REC badges, timestamps, real actor likeness.{clip_avoid}
 """
 
 

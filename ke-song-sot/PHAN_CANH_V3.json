@@ -383,7 +383,7 @@
       "morning market opening and footsteps"
     ],
     "TRANSPORT": [
-      "Inside prisoner transport, mesh side window to right, Sơn seated facing front, Thành opposite with transfer folder.",
+      "Inside the coastal passenger van, screened side window to right, Sơn seated facing front, Thành opposite with document folder.",
       "vehicle engine and road tires under clear voices"
     ],
     "TRANSPORT_VIEW": [
@@ -17682,8 +17682,8 @@
           ],
           "camera": "M",
           "transition": "J",
-          "start_frame": "Inside the prisoner transport, Sơn in olive jacket after a documented clothing change.",
-          "action": "0.0–2.5s: From the starting position (Inside the prisoner transport, Sơn in olive jacket after a documented clothing change), initiate the movement cleanly without hesitation. 2.5–6.5s: Thành sits opposite with the transfer file, signals the public walkway ahead (performed once in real time without repeating the opening step). 6.5–10.0s: His courtesy is discreet, Sơn's anticipation held in a small turn rather than an impulsive lunge, settling into the end state (Sơn turning toward the side window, Thành giving him space) as olive jacket has returned only after the stated clothing change, LEFT bandage and closed watch remain consistent.",
+          "start_frame": "Inside the coastal passenger van, Sơn in olive jacket after a documented clothing change.",
+          "action": "0.0–2.5s: From the starting position (Inside the coastal passenger van, Sơn in olive jacket after a documented clothing change), initiate the movement cleanly without hesitation. 2.5–6.5s: Thành sits opposite with the transfer file, signals the public walkway ahead (performed once in real time without repeating the opening step). 6.5–10.0s: His courtesy is discreet, Sơn's anticipation held in a small turn rather than an impulsive lunge, settling into the end state (Sơn turning toward the side window, Thành giving him space) as olive jacket has returned only after the stated clothing change, LEFT bandage and closed watch remain consistent.",
           "end_frame": "Sơn turning toward the side window, Thành giving him space.",
           "dialogue": [
             {
@@ -17956,8 +17956,8 @@
         "payoff_or_setup_vi": "Đây là cuộc chia tay duy nhất, các cảnh sau không tổ chức thêm lượt tiễn.",
         "tension": 2
       },
-      "spatial_lock_en": "FIXED SCENE 58 SPACE (Prisoner Transport Van Interior/Mesh Window & Seafront Walkway/Crossroad): Locked late-morning departure axis: inside the prisoner transport van with mesh right-side window where Sơn sits cuffed opposite Thành (Clips 1, 3, 5) and the exterior sightline through the mesh to Hạ and Mây on the seafront walkway as the van turns inland at the crossroad (Clips 2, 4, 6).",
-      "fixed_objects_en": "FIXED SCENE 58 OBJECTS (Clip 1–6): (1) Prisoner transport van with wire-mesh right window and transfer file folder held by Thành (CLIPBOARD); (2) Steel handcuffs on Sơn's wrists kept low and the ticking closed silver pocket watch (WATCH) inside his jacket pocket; (3) Wrapped single white lily (LILY) lifted to chest height by Hạ on the shaded seafront walkway.",
+      "spatial_lock_en": "FIXED SCENE 58 SPACE (Coastal Passenger Van Interior/Screened Window & Seafront Walkway/Crossroad): Locked late-morning departure axis: inside the coastal passenger van with screened right-side window where Sơn sits calmly opposite Thành (Clips 1, 3, 5) and the exterior sightline through the window screen to Hạ and Mây on the seafront walkway as the van turns inland at the crossroad (Clips 2, 4, 6).",
+      "fixed_objects_en": "FIXED SCENE 58 OBJECTS (Clip 1–6): (1) Coastal passenger van with screened right window and transfer file folder held by Thành (CLIPBOARD); (2) Ticking closed silver pocket watch (WATCH) inside Sơn's jacket pocket; (3) Wrapped single white lily (LILY) lifted to chest height by Hạ on the shaded seafront walkway.",
       "spatial_lock_vi": "KHÓA KHÔNG GIAN CẢNH 58 (Khoang xe chuyển trại có ô cửa lưới & Lối đi bộ ven biển / Ngã ba Hòn Sóng): Cố định trục di chuyển chia tay cuối buổi sáng ngày thứ tám: bên trong khoang xe chuyển trại có ô cửa lưới bên phải nơi Sơn ngồi đối diện Thành (Clip 1, 3, 5) và điểm nhìn qua ô cửa lưới ra vỉa hè hàng cây nơi Hạ và Mây đứng tiễn trước khi xe rẽ vào đường đất liền ở ngã ba (Clip 2, 4, 6).",
       "fixed_objects_vi": "VẬT THỂ CỐ ĐỊNH XUYÊN SUỐT CẢNH 58 (Clip 1–6): (1) Khoang xe chuyển trại có ô cửa lưới sắt bên phải và bìa hồ sơ chuyển trại trên tay Thành (CLIPBOARD); (2) Đôi còng trên tay Sơn giữ thấp và chiếc đồng hồ bạc đang chạy (WATCH) trong túi áo; (3) Nhành hoa ly trắng gói giấy mộc (LILY) Hạ nâng ngang ngực trên lối đi bộ dưới hàng cây."
     },

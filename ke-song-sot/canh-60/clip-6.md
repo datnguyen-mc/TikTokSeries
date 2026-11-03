@@ -43,8 +43,29 @@ Blocking: The hand rests once on the counter, Hạ clears space beside the singl
 Performance: She speaks with mature ease carrying remembered feeling, the unseen man need not answer or reveal his face (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–8.3s, two natural back-and-forth conversational turns (30 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
+Delivery & Timing: 0.3–8.3s, two natural back-and-forth conversational turns (30 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
 Lip-Sync & Voice Control: Follow each turn mode strictly (nói trong hình = visible mouth lip-sync; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = visible mouths closed at rest).
 Hạ (@Ha), nói trong hình [0.3–3.9s | giọng nữ tuổi ngũ tuần dịu dàng, xúc động mỉm cười nhìn Sơn]: Anh giữ lời hẹn trở về rồi Sơn, qua chú Bảy ăn sáng nhé.
 Sơn, lời dẫn ngoài hình [4.2–8.3s | giọng nam trầm ấm áp, bình yên sau hành trình dài]: Hai mươi năm chờ đợi khép lại, buổi sáng bình yên của chúng tôi bắt đầu.

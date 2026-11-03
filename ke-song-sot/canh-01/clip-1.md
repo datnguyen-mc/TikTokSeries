@@ -44,9 +44,30 @@ Blocking: 0.0–2.5s: Sơn steps down from the coach completely once. 2.5–6.5s
 Performance: Sơn's expression is restrained and battle-worn. His jaw tightens almost imperceptibly as the coach departs. His eyes remain fixed on the disappearing vehicle, showing a brief trace of regret. He takes one controlled breath, then turns toward town with cold, determined eyes. No exaggerated sadness, no theatrical frown, no forced hero pose. Acting discipline: Micro-expression, subtle breathing, natural eye movement.
 
 
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–6.9s, one natural, well-articulated spoken line (25 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at a natural 1.0x cadence; all visible mouths remain completely closed at rest while physical action unfolds.
+Delivery & Timing: 0.3–6.9s, one natural, well-articulated spoken line (25 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
+Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at a natural 1.25x conversational speaking speed (125%); all visible mouths remain completely closed at rest while physical action unfolds.
 Sơn, lời dẫn ngoài hình [0.3–6.9s | giọng nam trầm miền Nam điềm tĩnh, từng trải, ngắt nhịp rõ từng câu ngắn chuẩn 1.0x]: Tôi là Sơn. Giang hồ gọi tôi là Bóng Ma. Rắn Đen bắt Hạ rồi. Tôi chỉ còn bảy ngày để đưa cô ấy về.
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 

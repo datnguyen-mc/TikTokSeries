@@ -44,9 +44,30 @@ Blocking: Sơn and Mây board once with their own bags while Thành stays outsid
 Performance: Their departures are purposeful rather than romantic; Thành watches as someone receiving responsibility, not waving at a holiday trip (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
 
 
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
+
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.7s, one natural, well-articulated spoken line (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).
-Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at a natural 1.0x cadence; all visible mouths remain completely closed at rest while physical action unfolds.
+Delivery & Timing: 0.3–7.7s, one natural, well-articulated spoken line (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
+Lip-Sync & Voice Control: Voice-over narration only (lời dẫn ngoài hình) at a natural 1.25x conversational speaking speed (125%); all visible mouths remain completely closed at rest while physical action unfolds.
 Thành, lời dẫn ngoài hình [0.3–7.7s | giọng nam trẻ thuyết minh mạch lạc khi tiễn hai người từ xa]: Chị Mây và ông Sơn tách làm hai lối lên chuyến xe đò chiều về thành phố, còn tôi ở lại giữ chặt đầu mối tại Hòn Sóng.
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 

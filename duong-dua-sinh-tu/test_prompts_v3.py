@@ -109,6 +109,8 @@ class FilmContinuityTests(unittest.TestCase):
             text = film.render_prompt(
                 self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
             )
+            self.assertIn('[GLOBAL VOICE SPEED RULE — 1.25x]', text, c['id'])
+            self.assertIn('1.25x normal conversational speaking speed (125%)', text, c['id'])
             self.assertIn('In a single continuous shot', text, c['id'])
             self.assertIn('never flash or cut to an attached character reference portrait', text, c['id'])
             self.assertIn('150-degree' if c['camera'] == 'H' else '180-degree', text, c['id'])
@@ -268,8 +270,8 @@ class FilmContinuityTests(unittest.TestCase):
             text = film.render_prompt(
                 self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
             )
-            self.assertIn('No blood, no graphic injuries, no gore. All movements are simulated stunt choreography.', text, c['id'])
-            self.assertIn('fast defensive movements, precise dodges, controlled kicks', text.casefold(), c['id'])
+            self.assertIn('Clean athletic precision, all movements are simulated stunt choreography.', text, c['id'])
+            self.assertIn('fast defensive movements, precise dodges, controlled footwork', text.casefold(), c['id'])
             self.assertIn("outside the camera's view", text, c['id'])
             for field in ('start_frame', 'action', 'end_frame', 'lighting', 'wardrobe_note'):
                 self.assertIsNone(film.UNSAFE_VIOLENCE_OR_GORE_WORDS.search(c.get(field, '')), f"{c['id']} {field}")
@@ -277,7 +279,7 @@ class FilmContinuityTests(unittest.TestCase):
                 self.assertIsNone(film.UNSAFE_VIOLENCE_OR_GORE_WORDS.search(d['text']), f"{c['id']} dialogue")
         s08_1 = film.render_prompt(self.plan, self.index['08.1'], self.index['07.6'], self.index['08.2'])
         self.assertIn('Two professional stunt performers', s08_1)
-        self.assertIn("falls safely onto padded flooring outside the camera's view", s08_1)
+        self.assertIn("lands safely onto padded flooring outside the camera's view", s08_1)
 
         unsafe = copy.deepcopy(self.shots)
         unsafe[0]['action'] = unsafe[0]['action'].replace('Beat 1', 'Beat 1 (throw a punch with a bloody wound)')

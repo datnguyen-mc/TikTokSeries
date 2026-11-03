@@ -63,7 +63,7 @@ CHARACTER_SPECS = [
         "key": "Tom",
         "tag": "@Tom",
         "aliases": ["@Tom", "TOM (27", "TOM in", "@Tom = Tom", "Tom"],
-        "default_media_id": "d83378af-6eec-499e-a17c-2a12e5764219",
+        "default_media_id": "53e825dd-52eb-41f9-bf6a-4fe562792c55",
         "description": "Tom (27 tuổi): sĩ quan cảnh sát chìm LAPD ẩn náu trong tiệm độ xe Ver's Geh; cao 183 cm, dáng thể thao săn chắc, tóc ngắn nâu sẫm cắt gọn, ánh mắt sắc bén, sẹo nhỏ mờ ở đuôi mày trái, mặc áo thun xám than bên trong sơ mi denim xanh đậm mở cúc, quần jean tối màu vương dầu máy.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Tom, a 27-year-old Vietnamese-American man, 183 cm, athletic lean build, short textured "
@@ -76,7 +76,7 @@ CHARACTER_SPECS = [
         "key": "Micdo",
         "tag": "@Micdo",
         "aliases": ["@Micdo", "MICDO (32", "MICDO in", "@Micdo = Micdo", "Micdo"],
-        "default_media_id": "317c339b-17ca-4564-934a-40987d1d50f0",
+        "default_media_id": "0044e498-ba46-4b33-b325-cb5a322cf73a",
         "description": "Micdo (32 tuổi): thủ lĩnh băng đua xe đường phố và đội xe đen; cao 185 cm, cơ bắp vạm vỡ, đầu cạo trọc, mặt vuông uy quyền, đeo dây chuyền bạc mặt chữ thập trên ngực, mặc áo ba lỗ trắng bên trong áo khoác da đen mở khóa.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Micdo, a 32-year-old man, 185 cm, muscular heavy-shouldered build, clean-shaven bald head, "
@@ -88,7 +88,7 @@ CHARACTER_SPECS = [
         "key": "Ami",
         "tag": "@Ami",
         "aliases": ["@Ami", "AMI (24", "AMI in", "@Ami = Ami", "Ami"],
-        "default_media_id": "38ee1e43-a8ce-40ac-aff7-3f0383ccc3e4",
+        "default_media_id": "7226ddde-c39f-4278-a8ed-ab6187fb7509",
         "description": "Ami (24 tuổi): em gái út của Micdo, người trông coi quán ăn gia đình Toto; cao 168 cm, làn da ngăm ấm, tóc nâu đen dài buộc nửa đầu, đeo bông tai bạc nhỏ, mặc áo cổ tròn màu đỏ rượu vang kết hợp tạp dề vải canvas ngang eo và quần jean sáng màu.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Ami, a 24-year-old woman, 168 cm, slim athletic build, warm olive skin, long dark-brown hair "
@@ -100,7 +100,7 @@ CHARACTER_SPECS = [
         "key": "Cevin",
         "tag": "@Cevin",
         "aliases": ["@Cevin", "CEVIN (29", "CEVIN in", "@Cevin = Cevin", "Cevin"],
-        "default_media_id": "ccca3339-8c3a-4dd6-affc-e5b1459643b3",
+        "default_media_id": "a0c490db-9269-4093-b7d6-54c7f854dca5",
         "description": "Cevin (29 tuổi): cánh tay phải nóng nảy của Micdo; cao 179 cm, cơ bắp gân guốc, tóc ngắn dựng nhuộm sáng phần ngọn, râu dê gọn, sẹo nhỏ ở khớp ngón tay phải, đeo lắc bạc cổ tay phải, mặc áo sơ mi thợ máy ngắn tay màu đỏ sẫm.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Cevin, a 29-year-old man, 179 cm, wiry muscular build, short spiky bleached-tip dark hair, "
@@ -112,7 +112,7 @@ CHARACTER_SPECS = [
         "key": "Cina",
         "tag": "@Cina",
         "aliases": ["@Cina", "CINA (28", "CINA in", "@Cina = Cina", "Cina"],
-        "default_media_id": "439d9f2b-627a-4565-96b8-9bbf40826086",
+        "default_media_id": "6ef4b4a9-e0a5-4b63-a245-a995f11bd7ea",
         "description": "Cina (28 tuổi): nữ quái tốc độ sát cánh cùng Micdo; cao 167 cm, dáng thon khỏe, tóc đen ngắn ngang cằm, ánh mắt sắc lạnh tự tin, khuyên tai vòng nhỏ bên tai trái, mặc áo ghi-lê da đen ngắn bên ngoài áo đỏ thẫm và quần da tối màu.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Cina, a 28-year-old woman, 167 cm, lean athletic build, sharp jawline, short tousled "
@@ -124,7 +124,7 @@ CHARACTER_SPECS = [
         "key": "Seja",
         "tag": "@Seja",
         "aliases": ["@Seja", "SEJA (22", "SEJA in", "@Seja = Seja", "Seja"],
-        "default_media_id": "3bb3de48-4dd3-4a90-a3ea-60be3063a7b1",
+        "default_media_id": "7dc7e4cc-d7ae-47e4-b3d3-cee720775859",
         "description": "Seja (22 tuổi): thiên tài toán học, máy tính và điện tử độ xe của nhóm; cao 175 cm, dáng gầy nhanh nhẹn, tóc đen xoăn rối, đeo kính gọng mảnh kỹ thuật, mặc áo sơ mi công nhân màu xanh ô liu khoác ngoài áo thun dài tay kẻ sọc, đeo dây túi laptop chéo ngực.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Seja, a 22-year-old man, 175 cm, wiry lanky build, messy curly dark hair, quick restless "
@@ -136,7 +136,7 @@ CHARACTER_SPECS = [
         "key": "Onle",
         "tag": "@Onle",
         "aliases": ["@Onle", "ONLE (30", "ONLE in", "@Onle = Onle", "Onle"],
-        "default_media_id": "5a83756f-9ebb-4e2d-8ed5-89c313dc6976",
+        "default_media_id": "58d0ebc5-cd00-4af2-9ea8-3b11f352556e",
         "description": "Onle (30 tuổi): thợ máy gầm bệ và tay lái bọc hậu điềm tĩnh của đội; cao 182 cm, vai rộng vạm vỡ, tóc đen cắt sát, râu dê gọn gàng, mặc bộ đồ liền thân thợ máy màu xanh rêu đậm buộc ngang hông bên ngoài áo thun đen.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Onle, a 30-year-old man, 182 cm, broad-shouldered mechanic build, closely cropped dark hair, "
@@ -148,7 +148,7 @@ CHARACTER_SPECS = [
         "key": "NyTran",
         "tag": "@NyTran",
         "aliases": ["@NyTran", "NY TRẦN", "NY TRAN", "@NyTran = Ny Tran", "Ny Trần", "Ny Tran", "NyTran"],
-        "default_media_id": "bdd1b074-3809-46ac-963d-7ffc1d800d7c",
+        "default_media_id": "3004cbee-ba9f-42d8-b11e-c55fec49e5ab",
         "description": "Ny Tran (30 tuổi): thủ lĩnh băng mô tô Light Saigon tại Little Saigon; cao 177 cm, gò má sắc, tóc đen undercut vuốt ngược bóng mượt, ánh mắt lạnh lùng, đeo dây chuyền vàng mảnh, mặc áo khoác da đen họa tiết da rắn bên ngoài sơ mi lụa đỏ sẫm mở cổ.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @NyTran, a 30-year-old Vietnamese man, 177 cm, lean sharp build, sharp cheekbones, sleek "
@@ -160,7 +160,7 @@ CHARACTER_SPECS = [
         "key": "Cela",
         "tag": "@Cela",
         "aliases": ["@Cela", "CELA (31", "@Cela = Cela", "Cela"],
-        "default_media_id": "d977c3f5-1225-4caa-8772-39b2588a71f3",
+        "default_media_id": "57d9ea23-b1c8-4f65-b65b-918d070bd76c",
         "description": "Cela (31 tuổi): anh họ và tay chân thân cận của Ny Tran; cao 174 cm, cơ bắp chắc nịch, tóc cạo hai bên buộc chỏm ngắn trên đỉnh, sẹo chéo bên má phải, hình xăm rồng kín cẳng tay phải, mặc áo ghi-lê da đen sát nách bên ngoài áo tối màu.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Cela, a 31-year-old Vietnamese man, 174 cm, compact muscular build, shaved sides with a "
@@ -172,7 +172,7 @@ CHARACTER_SPECS = [
         "key": "Nese",
         "tag": "@Nese",
         "aliases": ["@Nese", "TRUNG SĨ NESE", "NESE (46", "@Nese = Nese", "Trung sĩ Nese", "Nese"],
-        "default_media_id": "823abd75-2434-4f07-8812-70ed808cb67b",
+        "default_media_id": "27ede5a3-d368-4b6e-a8e0-b8b4d8574f03",
         "description": "Trung sĩ Nese (46 tuổi): chỉ huy trực tiếp của Tom trong LAPD; cao 180 cm, dáng vẻ dày dạn sương gió, tóc cắt ngắn điểm bạc, ria mép tỉa gọn, mặc sơ mi trắng xắn tay nới lỏng cà vạt tối màu, đeo bao huy hiệu ở thắt lưng.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Nese, a 46-year-old veteran police sergeant, 180 cm, solid build, greying crew-cut hair, "
@@ -184,7 +184,7 @@ CHARACTER_SPECS = [
         "key": "Kinan",
         "tag": "@Kinan",
         "aliases": ["@Kinan", "ĐẶC VỤ KINAN", "KINAN (44", "@Kinan = Kinan", "Đặc vụ Kinan", "Kinan"],
-        "default_media_id": "ea56efae-cf13-48ad-a069-dfa421e96a36",
+        "default_media_id": "c5238e27-22b2-44e2-84b7-a0b6296d649d",
         "description": "Đặc vụ liên bang Kinan (44 tuổi): chỉ huy lực lượng đặc nhiệm FBI phối hợp điều tra; cao 178 cm, dáng thẳng nghiêm nghị, tóc nâu sẫm rẽ ngôi gọn, đeo kính gọng kim loại mảnh, mặc bộ vest xám than tối màu bên ngoài sơ mi xanh thép không thắt cà vạt.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Kinan, a 44-year-old federal agent, 178 cm, trim upright build, neatly parted dark-brown "
@@ -196,7 +196,7 @@ CHARACTER_SPECS = [
         "key": "Verni",
         "tag": "@Verni",
         "aliases": ["@Verni", "VERNI (48", "@Verni = Verni", "Verni"],
-        "default_media_id": "79ff8afe-97f5-4165-a602-d42d1b1a8d70",
+        "default_media_id": "5e834823-4e0f-4c3c-a881-c645630a898a",
         "description": "Verni (48 tuổi): tài xế xe container 18 bánh đường dài trên xa lộ Interstate 10; cao 173 cm, lồng ngực vạm vỡ, râu quai nón dày điểm bạc, gương mặt rám nắng phong sương, đội mũ lưỡi trai tài xế, mặc áo sơ mi kẻ caro bên trong áo ghi-lê bảo hộ màu nâu.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Verni, a 48-year-old stocky long-haul truck driver, 173 cm, barrel-chested build, strong "
@@ -309,25 +309,26 @@ def load_and_lock_project_characters(force_remote: bool = False):
 
     project_cache = cached_by_project.get(PROJECT_ID, {}) if isinstance(cached_by_project, dict) else {}
 
+    need_remote = force_remote or os.environ.get("FLOWKIT_REFRESH_CHARS") == "1"
+    if not need_remote:
+        for spec in CHARACTER_SPECS:
+            tag = spec["tag"]
+            if not (project_cache.get(tag) or spec.get("default_media_id")):
+                need_remote = True
+                break
+
     remote_chars = []
     remote_images = []
-    remote_query_ok = False
-    try:
-        r = requests.get(f"{FLOWKIT_API}/api/flow/project-characters", params={"project_id": PROJECT_ID}, timeout=30)
-        if r.status_code == 200:
-            rdata = r.json()
-            remote_chars = rdata.get("characters") or []
-            remote_images = rdata.get("images") or []
-            remote_query_ok = True
-            log(f"✅ Project {PROJECT_ID} hiện có {len(remote_chars)} nhân vật & {len(remote_images)} ảnh mẫu trên Google Flow")
-    except Exception as e:
-        log(f"⚠️ Không truy vấn được danh sách nhân vật từ Google Flow (sẽ dùng ID khóa sẵn): {e}")
-
-    remote_valid_ids = {
-        rc.get("media_id") for rc in remote_chars if rc.get("media_id")
-    } | {
-        ri.get("media_id") for ri in remote_images if ri.get("media_id")
-    }
+    if need_remote:
+        try:
+            r = requests.get(f"{FLOWKIT_API}/api/flow/project-characters", params={"project_id": PROJECT_ID}, timeout=30)
+            if r.status_code == 200:
+                rdata = r.json()
+                remote_chars = rdata.get("characters") or []
+                remote_images = rdata.get("images") or []
+                log(f"✅ Project {PROJECT_ID} hiện có {len(remote_chars)} nhân vật & {len(remote_images)} ảnh mẫu trên Google Flow")
+        except Exception as e:
+            log(f"⚠️ Không truy vấn được danh sách nhân vật từ Google Flow (sẽ dùng ID khóa sẵn): {e}")
 
     locked = {}
     created_any = False
@@ -343,22 +344,11 @@ def load_and_lock_project_characters(force_remote: bool = False):
                 matched_mid = rc["media_id"]
                 break
 
-        if not matched_mid and not remote_query_ok:
-            for ri in remote_images:
-                ri_title = (ri.get("title") or "").strip().lower().lstrip("@")
-                if (ri_title == tag_clean or ri_title in aliases_lower) and ri.get("media_id"):
-                    matched_mid = ri["media_id"]
-                    break
+        if not matched_mid and project_cache.get(tag):
+            matched_mid = project_cache[tag]
 
-        if not matched_mid and not remote_query_ok and project_cache.get(tag):
-            cand = project_cache[tag]
-            if not remote_query_ok or cand in remote_valid_ids:
-                matched_mid = cand
-
-        if not matched_mid and not remote_query_ok and spec.get("default_media_id"):
-            cand = spec["default_media_id"]
-            if not remote_query_ok or cand in remote_valid_ids:
-                matched_mid = cand
+        if not matched_mid and spec.get("default_media_id"):
+            matched_mid = spec["default_media_id"]
 
         # Tự động tạo Nhân Vật (Character Entity + Ảnh mẫu Nano Banana Pro 16:9) nếu chưa có trong mục Characters trên Project
         if not matched_mid and spec.get("ref_prompt"):
@@ -422,13 +412,9 @@ def load_and_lock_project_characters(force_remote: bool = False):
                     matched_mid = ri["media_id"]
                     break
         if not matched_mid and project_cache.get(tag):
-            cand = project_cache[tag]
-            if not remote_query_ok or cand in remote_valid_ids:
-                matched_mid = cand
+            matched_mid = project_cache[tag]
         if not matched_mid and spec.get("default_media_id"):
-            cand = spec["default_media_id"]
-            if not remote_query_ok or cand in remote_valid_ids:
-                matched_mid = cand
+            matched_mid = spec["default_media_id"]
 
         if matched_mid:
             locked[tag] = matched_mid
@@ -1219,11 +1205,12 @@ def _is_transient_transport_error(err_text: str) -> bool:
         "bad gateway",
         "service unavailable",
         "gateway timeout",
+        "captcha_timeout",
     )
     return any(m in t for m in transient_markers)
 
 
-def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 2):
+def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 3):
     current_prompt = initial_prompt
     policy_attempt = 0
 
@@ -1319,7 +1306,7 @@ def run_pipeline(start_scene=1, end_scene=40):
             existing_mp4 = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{s:02d}", f"canh-{s:02d}_clip-{c_idx:02d}.mp4")
             if ONLY_CLIP == 0 and not force_rerender and os.path.exists(existing_mp4) and os.path.getsize(existing_mp4) > 50_000:
                 stream_info = probe_clip_streams(existing_mp4)
-                if stream_info.get("has_video"):
+                if stream_info.get("valid_video"):
                     completed_clips += 1
                     progress_pct = (completed_clips / max(1, total_clips)) * 100
                     size_mb = os.path.getsize(existing_mp4) / (1024 * 1024)
@@ -1380,13 +1367,70 @@ def run_pipeline(start_scene=1, end_scene=40):
     print("=" * 72 + "\n", flush=True)
 
 
+PRIORITY_R2_MISSING_CLIPS = [
+    (9, 6), (13, 1), (13, 4), (14, 3), (17, 4), (28, 1), (30, 4),
+    (32, 4), (32, 6), (33, 3), (33, 4), (33, 5), (35, 1), (35, 3), (35, 5),
+    (36, 3), (37, 4), (37, 5), (38, 5), (39, 1), (39, 4), (39, 6),
+    (40, 1), (40, 2), (40, 3), (40, 4), (40, 5), (40, 6),
+]
+
+
+def run_priority_clips(clip_pairs=None):
+    global CURRENT_EP_NUM, CURRENT_CLIP_NUM
+    pairs = clip_pairs or PRIORITY_R2_MISSING_CLIPS
+    print("\n" + "=" * 72)
+    print(f"🚀 PASS 1: ƯU TIÊN RENDER {len(pairs)} CLIP CÒN TRỐNG TRÊN R2 — ĐƯỜNG ĐUA SINH TỬ")
+    print("=" * 72 + "\n", flush=True)
+
+    if not check_connection():
+        sys.exit(1)
+
+    load_and_lock_project_characters()
+    sync_dashboard_database(1, 40)
+
+    total = len(pairs)
+    for idx, (s, c_idx) in enumerate(pairs, start=1):
+        CURRENT_EP_NUM = s
+        CURRENT_CLIP_NUM = c_idx
+        fpath = os.path.join(SERIES_DIR, f"canh-{s:02d}", f"clip-{c_idx}.md")
+        if not os.path.exists(fpath):
+            continue
+        with open(fpath, "r", encoding="utf-8") as f:
+            prompt_content = f.read().strip()
+
+        pct = (idx / max(1, total)) * 100
+        print(f"\n▶️ [PASS 1 ƯU TIÊN R2: {idx}/{total}] ({pct:.1f}%) — CẢNH {s:02d} - CLIP {c_idx:02d}", flush=True)
+        res = run_clip_with_auto_retry(
+            scene_num=s,
+            clip_num=c_idx,
+            initial_prompt=prompt_content,
+            start_image_media_id=None,
+        )
+        if res["success"] and res.get("video_url"):
+            video_url = res["video_url"]
+            local_video = download_and_rename_video(video_url, s, c_idx)
+            if local_video:
+                extract_last_frame(local_video, s, c_idx)
+            update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
+        else:
+            log(f"⚠️ [PASS 1: Cảnh {s:02d} - Clip {c_idx:02d}] Tạm bỏ qua, sẽ thử lại ở Pass 2.")
+        time.sleep(5)
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] in ("--init-chars", "init-chars", "0"):
         check_connection()
         load_and_lock_project_characters(force_remote=True)
         sync_dashboard_database(1, 40)
         sys.exit(0)
+    if len(sys.argv) > 1 and sys.argv[1] == "--priority-then-all":
+        run_priority_clips()
+        run_pipeline(1, 40)
+        kss_runner = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ke_song_sot.py")
+        subprocess.run([sys.executable, kss_runner, "1", "60"], check=False)
+        sys.exit(0)
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
     end = int(sys.argv[2]) if len(sys.argv) > 2 else 40
     run_pipeline(start, end)
+
 

@@ -247,22 +247,22 @@ def voice_block(plan: dict, c: dict) -> str:
         end = t2_end
     modes = {d['mode'] for d in turns}
     if modes == {'on'}:
-        rendering = 'Visible speaker (nói trong hình) delivers the line at a natural 1.0x conversational rhythm with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.'
+        rendering = 'Visible speaker (nói trong hình) delivers the line at a natural 1.25x conversational speaking speed (125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.'
     elif modes == {'vo'}:
-        rendering = 'Voice-over narration only (lời dẫn ngoài hình) at a natural 1.0x cadence; all visible mouths remain completely closed at rest while physical action unfolds.'
+        rendering = 'Voice-over narration only (lời dẫn ngoài hình) at a natural 1.25x conversational speaking speed (125%); all visible mouths remain completely closed at rest while physical action unfolds.'
     elif modes == {'off'}:
-        rendering = 'Off-screen speech (ngoài khung hình) at a natural 1.0x cadence; do not add the speaker into frame or animate the visible listener speaking.'
+        rendering = 'Off-screen speech (ngoài khung hình) at a natural 1.25x conversational speaking speed (125%); do not add the speaker into frame or animate the visible listener speaking.'
     elif modes == {'device'}:
-        rendering = 'Speech heard through the established communication device (qua thiết bị) at a natural 1.0x cadence; no caller body added to this shot.'
+        rendering = 'Speech heard through the established communication device (qua thiết bị) at a natural 1.25x conversational speaking speed (125%); no caller body added to this shot.'
     else:
         rendering = 'Follow each turn mode strictly (nói trong hình = visible mouth lip-sync; lời dẫn ngoài hình / ngoài khung hình / qua thiết bị = visible mouths closed at rest).'
     prefixes = [GENERIC_VOICES[d['speaker']] for d in turns if d['speaker'] in GENERIC_VOICES]
     prefix_block = ('\n'.join(dict.fromkeys(prefixes)) + '\n') if prefixes else ''
-    lines_block = '\n'.join(dialogue_text(plan, d, t_win) for d, t_win in zip(turns, t_windows))
+    lines_block = '\n'.join(dialogue_text(plan, d, t_windows[i]) if isinstance(t_windows, list) else dialogue_text(plan, d, t_win) for i, (d, t_win) in enumerate(zip(turns, t_windows)))
     turn_label = 'two natural back-and-forth conversational turns' if len(turns) > 1 else 'one natural, well-articulated spoken line'
     total_w = sum(len(d['text'].split()) for d in turns)
     return (
-        f"Delivery & Timing: 0.3–{end:.1f}s, {turn_label} ({total_w} Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, standard 1.0x Southern Vietnamese conversational pace).\n"
+        f"Delivery & Timing: 0.3–{end:.1f}s, {turn_label} ({total_w} Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).\n"
         f"Lip-Sync & Voice Control: {rendering}\n"
         f"{prefix_block}{lines_block}\n"
         f"Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions."
@@ -436,6 +436,27 @@ Lighting & Color: {c['lighting']} Motivated directional light source with natura
 {c['action']}
 Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.{rhythm}
 {staging}
+
+[GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue must be delivered at
+1.25x normal conversational speaking speed (125%).
+
+Maintain a natural Southern Vietnamese accent,
+clear articulation, expressive intonation, and
+accurate syllable-level lip synchronization.
+
+Speech must sound naturally fast and energetic,
+not artificially time-stretched or pitch-shifted.
+
+Preserve each character's original voice identity,
+pitch, emotional tone, and vocal personality.
+
+Do not rush, swallow syllables, clip words,
+or introduce unnatural pauses.
+
+Complete dialogue within its assigned time window.
+Continue natural breathing, facial expressions,
+and physical actions after the line finishes.
 
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
 {voice_block(plan,c)}

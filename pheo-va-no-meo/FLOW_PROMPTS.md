@@ -129,6 +129,7 @@ Background music: upbeat, playful acoustic guitar and light marimba kitchen tune
 **Câu mở đầu clip 2 trở đi** (làm bằng Frames với start frame = khung cuối clip trước, hoặc bằng Extend): hai dòng đầu tiên của mọi clip từ Clip 2 đến clip cuối, trừ clip mở bằng Ingredients.
 
 ```text
+[FORMAT]
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
 Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
@@ -140,7 +141,7 @@ Vertical 9:16, 10-second clip, same animation style. Spoken lines are written af
 `SIGNATURE FREEZE` dùng cho tập hài:
 
 ```text
-Phèo freezes completely mid-motion: eyes wide open as saucers with tiny pupils, whiskers stiff and straight, mouth slightly open, body perfectly still like a paused frame; only the tip of his notched LEFT ear twitches once. The camera snap-zooms into a medium close-up of his face and holds. The background music stops abruptly with a soft record-scratch, followed by silence and a single ticking clock.
+Phèo freezes completely mid-motion: eyes wide open as saucers with tiny pupils, whiskers stiff and straight, mouth slightly open, body perfectly still like a paused frame; only the tip of his notched LEFT ear twitches once. The camera performs a smooth, controlled slow push-in with natural easing into a medium close-up of his stunned face while subtle natural secondary motion continues in his breathing, quivering white whiskers, and twitching notched left ear (never a snap-zoom or lifeless statue freeze). The upbeat music pauses softly with a gentle comedic plucked bass note.
 ```
 
 `TOUCHING FREEZE` dùng cho tập cảm động:

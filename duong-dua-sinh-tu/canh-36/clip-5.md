@@ -1,5 +1,5 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: KINETIC_HANDHELD): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Scene category: FIGHT_ACTION | Adaptive voice speed: 2.0x (200%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: KINETIC_HANDHELD): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
@@ -10,7 +10,7 @@ Keep exact approved appearance for MICDO, SEJA_R with surrounding props (MOTO_PA
 
 
 [TIMELINE AND LOCATION]
-Scene 36/40, clip 5/6; shot 36.5. Story time: D7 sunset.
+Scene 36/40, clip 5/6; shot 36.5. Story time: D7 sunset. Scene classification: FIGHT_ACTION.
 Tree-lined residential street in front of the Toto family white clapboard house at golden-hour sunset: front lawn, concrete porch steps, driveway leading back to the garage.
 Architecture & road geometry: tree-lined residential street in front of the Toto family two-story white clapboard house at sunset; two-lane residential asphalt street along the front kerb and concrete driveway.
 Surrounding objects & landmarks: white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees; wooden front porch steps, green front lawn, palm trees catching golden-hour sun.
@@ -21,11 +21,22 @@ Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces
 Chiều tà trước nhà Toto, Seja mệt mỏi lái chiếc Jetta trắng trở về xin lỗi thì hai chiếc mô tô của Ny Tran và Cela Nguyen lao qua ép sát khiến Seja mất thăng bằng ngã xuống trên bãi cỏ. (Shot 36.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 
 
-[CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 36.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.8s): Attack Evasion — As the two matte-black motorcycles sweep close along the kerb, Seja pivots his hips left and executes a fast lateral sidestep dodge across the grass with fast defensive movements, precise dodges, dramatic camera tracking, dynamic footwork and realistic physical reactions. Beat 2 (2.8–7.9s): Micdo drops to one knee behind the porch step and extends his right arm downward (Defense & Protection) while shouting for everyone to stay low; Reaction — Seja loses balance on the turf slope and lands safely onto padded flooring outside the camera's view, all movements are clean athletic stunt choreography. Beat 3 (7.9–10.0s): Recovery — As the two motorcycles accelerate away down the street, Micdo pushes off his front boot and rushes across the lawn to help Seja sit up.
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
+Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.9s during speech, and balanced physical recovery through 10.0s.
 
-[OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_FRONT during D7 sunset (shot 36.5 opening): Two professional stunt performers executing a tightly choreographed martial arts and motorcycle evasion sequence on the front lawn of TOTO_FRONT as Ny Tran's matte-black motorcycles sweep past the kerb.
+[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]
+Photorealistic live-action cinematic combat with professional stunt choreography. Fast, precise, powerful and physically believable movements with realistic body weight, balance, inertia and momentum. Strictly follow the 5-stage combat chain in ACTION: Attack → Defense → Contact/Reversal → Reaction → Recovery (maximum 2–3 core martial-arts exchanges in 10s, continuous choreography without frozen poses, realistic footwork, pivots, dodges, blocks and counterattacks, grounded cinematic camera movement with readable combat geography). No air-striking, no unmotivated falling, no wire-fu floating, and no repeated identical moves.
+
+[HIGH-SPEED VEHICLE ACTION — FIGHT_ACTION]
+Preserve locked vehicle identity, paint finish, body silhouette, wheel rims and left-hand driver seat position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the road axis while allowing realistic relative speed differentials during overtaking, lane changes, braking or acceleration. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+
 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography.
@@ -33,15 +44,13 @@ One new coverage angle on the established side of the axis; positions, eyelines,
 Composition: Using a kinetic handheld 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Micdo and Seja with the Matte-Black Street Sport Motorcycles, surrounded by white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees.
 Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Matte-Black Street Sport Motorcycles, keeping wooden front porch steps, green front lawn, palm trees catching golden-hour sun readable in the background depth.
 
-[ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.8s): Fast defensive movements, precise dodges, dramatic camera tracking, dynamic footwork and realistic physical reactions unfold as Seja dodges the rushing motorcycles. Beat 2 (2.8–7.9s): Micdo drops to one knee behind the porch step while shouting for everyone to stay low as Seja loses balance and lands safely onto padded flooring outside the camera's view, all movements are clean athletic stunt choreography. Beat 3 (7.9–10.0s): the two matte-black motorcycles roar away down the hill as Micdo rushes across the lawn toward Seja.
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.9s during speech, and balanced physical recovery through 10.0s.
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=two matte-black sport motorcycles ridden in high-speed pursuit formation]
+- Surrounding environment objects in TOTO_FRONT: white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees (landmarks: wooden front porch steps, green front lawn, palm trees catching golden-hour sun).
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_FRONT; Micdo moves smoothly on the near side while Seja holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Seja maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+[VISIBLE TEXTURE]
+Painted white wooden clapboard siding, green front lawn grass, warm golden-hour street asphalt, gloss alpine-white sedan bodywork, and natural skin pores.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -51,8 +60,10 @@ Mouth map: 2.8–7.9s only Micdo's lips move, shaping each Vietnamese syllable i
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (FIGHT_ACTION): 2.0x (200%) — rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -72,23 +83,21 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural 1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 2.0x (200%) Southern Vietnamese speaking speed (rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 2.8–7.9s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Tránh xa mép đường ngay Seja, hai chiếc mô tô của tụi nó đang ép sát vào chỗ em!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
-
-[PROPS]
-Reference only; enact only the current ACTION, not a future handover.
-- Matte-black high-displacement street sport motorcycles with carbon-textured fairings. [VEHICLE_LOCK MOTO_PACK: matte-black carbon-textured fairings with dark smoked windscreens; 2 wheels on 2 axles per motorcycle, 17-inch black cast alloy wheels; CENTER RIDER ASTRIDE: clip-on handlebars with right-hand throttle grip and front brake lever; state=two matte-black sport motorcycles ridden in high-speed pursuit formation]
-- Surrounding environment objects in TOTO_FRONT: white wooden front porch railing and concrete steps, green front lawn, concrete walkway path, street kerb, tall California palm trees (landmarks: wooden front porch steps, green front lawn, palm trees catching golden-hour sun).
-
-[VISIBLE TEXTURE]
-Painted white wooden clapboard siding, green front lawn grass, warm golden-hour street asphalt, gloss alpine-white sedan bodywork, and natural skin pores.
-
 
 [SOUND]
 Location bed: evening breeze through palm fronds and approaching engines.
 Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: pack of ten high-revving 1000cc inline-four sportbike engines screaming in unison, quick-shifter exhaust pops, and high-speed motorcycle tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
+Scene sound profile (FIGHT_ACTION): Prioritize grounded footstep traction, rapid clothing movement, athletic breathing, simulated stunt-pad contact acoustics and physical body-weight shifts alongside clear dialogue.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
+
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 36.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
+
+[OPENING COMPOSITION AT 0.0s — START_STATE]
+In TOTO_FRONT during D7 sunset (shot 36.5 opening): Two professional stunt performers executing a tightly choreographed martial arts and motorcycle evasion sequence on the front lawn of TOTO_FRONT as Ny Tran's matte-black motorcycles sweep past the kerb.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In TOTO_FRONT at 10.0s of shot 36.5: Micdo hurrying across the front lawn of TOTO_FRONT toward Seja beside the kerb.

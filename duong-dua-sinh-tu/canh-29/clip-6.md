@@ -1,5 +1,5 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: DRAMATIC_PUSH_IN): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Scene category: VEHICLE_RACE | Adaptive voice speed: 1.5x (150%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: DRAMATIC_PUSH_IN): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
@@ -9,7 +9,7 @@ Keep exact approved appearance for SEJA_R with surrounding props (JETTA); never 
 
 
 [TIMELINE AND LOCATION]
-Scene 29/40, clip 6/6; shot 29.6. Story time: D5 midday.
+Scene 29/40, clip 6/6; shot 29.6. Story time: D5 midday. Scene classification: VEHICLE_RACE.
 Mojave Desert Race Wars airfield under blazing midday sun: vast heat-shimmering concrete runway, canopies and pit tents lined with tuned cars, desert mountains on the horizon, two-lane drag strip with starting lights.
 Architecture & road geometry: Mojave Desert airfield drag strip and paddock under midday sun; two-lane concrete runway drag strip with Christmas-tree starting lights, bordered by pit canopies.
 Surrounding objects & landmarks: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers; arid Mojave mountain range shimmering across the horizon.
@@ -20,11 +20,19 @@ Bright California daylight: clean directional sun with natural bounce off concre
 Còi xuất phát vang lên; chiếc Jetta của Seja dẫn trước nửa đường nhưng Ny Tran lạnh lùng bấm nút xả hệ thống NOS ẩn dưới ghế, vượt qua Seja ở những mét cuối cùng. (Shot 29.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 
 
-[CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 29.5. single-location take only, never show two locations or flash a reference card.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.8s): instead of turning back toward the paddock, Seja downshifts and presses his foot hard onto the accelerator pedal. Beat 2 (2.8–7.9s): Seja turns the steering wheel sharply left toward the open airfield exit gate and floors the throttle pedal while declaring he must get away right now. Beat 3 (7.9–10.0s): the alpine-white Jetta speeds straight through the open airfield exit gate onto the desert road, trailing a plume of sand.
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
+Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.9s as the line lands, and a living, breathing resolution through 10.0s.
 
-[OPENING COMPOSITION AT 0.0s — START_STATE]
-In RACE_WARS during D5 midday (shot 29.6 opening): Seja inside the alpine-white JETTA at the end of the RACE_WARS runway flooring the throttle toward the desert exit gate.
+[HIGH-SPEED VEHICLE ACTION — VEHICLE_RACE]
+Preserve locked vehicle identity, paint finish, body silhouette, wheel rims and left-hand driver seat position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the road axis while allowing realistic relative speed differentials during overtaking, lane changes, braking or acceleration. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence and organic micro-expressions.
+
 
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
@@ -32,15 +40,13 @@ One new coverage angle on the established side of the axis; positions, eyelines,
 Composition: Using a dramatic push-in 50mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Seja with the Alpine-White Tuned Sport Sedan inside RACE_WARS, surrounded by team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers.
 Focus: Keep tack-sharp focus on Seja's eyes, lip-sync articulation, and hand-and-body follow-through with the Alpine-White Tuned Sport Sedan, keeping arid Mojave mountain range shimmering across the horizon readable in the background depth.
 
-[ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.8s): instead of turning back toward the paddock, Seja downshifts and presses his foot hard onto the accelerator pedal. Beat 2 (2.8–7.9s): Seja turns the steering wheel sharply left toward the open airfield exit gate and floors the throttle pedal while declaring he must get away right now. Beat 3 (7.9–10.0s): the alpine-white Jetta speeds straight through the open airfield exit gate onto the desert road, trailing a plume of sand.
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.9s as the line lands, and a living, breathing resolution through 10.0s.
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Prized alpine-white tuned sport sedan with white alloy rims and custom dashboard telemetry display. [VEHICLE_LOCK JETTA: gloss alpine-white paint with clean monochrome bumpers; 4 wheels on 2 axles, 17-inch multi-spoke white powder-coated alloy wheels; LEFT-HAND DRIVE: white-trimmed sport seats, driver seat on the left, digital shift indicator; state=clean alpine-white finish, desert dust along lower tires after Mojave drag run]
+- Surrounding environment objects in RACE_WARS: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers (landmarks: arid Mojave mountain range shimmering across the horizon).
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_WARS; Seja holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Seja delivers the line with earnest youthful intensity, quick expressive hand movements, attentive posture behind thin-framed glasses, and eager vocal cadence and organic micro-expressions.
+[VISIBLE TEXTURE]
+Sun-baked Mojave concrete runway tarmac, shimmering desert heat haze, gloss alpine-white and mirror-black car paintwork, canvas pit canopies, and natural skin pores.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,8 +56,10 @@ Mouth map: 2.8–7.9s only Seja's lips move, shaping each Vietnamese syllable in
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (VEHICLE_RACE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -71,23 +79,21 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural 1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 1.5x (150%) Southern Vietnamese speaking speed (fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 2.8–7.9s · Seja (@Seja) says on screen, in the quick, earnest, energetic Southern Vietnamese male voice: Không thể giao chiếc xe này cho Ny Tran được, phải đạp ga chạy khỏi đường băng này thôi!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
-
-[PROPS]
-Reference only; enact only the current ACTION, not a future handover.
-- Prized alpine-white tuned sport sedan with white alloy rims and custom dashboard telemetry display. [VEHICLE_LOCK JETTA: gloss alpine-white paint with clean monochrome bumpers; 4 wheels on 2 axles, 17-inch multi-spoke white powder-coated alloy wheels; LEFT-HAND DRIVE: white-trimmed sport seats, driver seat on the left, digital shift indicator; state=clean alpine-white finish, desert dust along lower tires after Mojave drag run]
-- Surrounding environment objects in RACE_WARS: team shade canopies, folding tuning tables, vertical Christmas-tree starting light mast, concrete staging lane barriers (landmarks: arid Mojave mountain range shimmering across the horizon).
-
-[VISIBLE TEXTURE]
-Sun-baked Mojave concrete runway tarmac, shimmering desert heat haze, gloss alpine-white and mirror-black car paintwork, canvas pit canopies, and natural skin pores.
-
 
 [SOUND]
 Location bed: roaring engines, desert wind and crowd murmur across the tarmac.
 Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-RPM tuned 4-cylinder turbo induction whine, rapid gearshifts, and desert runway spinning tire traction, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Seja's Southern Vietnamese dialogue.
+Scene sound profile (VEHICLE_RACE): Prioritize roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, tire friction on asphalt and high-speed wind rush synchronized with vehicle speed.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
+
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 29.5. single-location take only, never show two locations or flash a reference card.
+
+[OPENING COMPOSITION AT 0.0s — START_STATE]
+In RACE_WARS during D5 midday (shot 29.6 opening): Seja inside the alpine-white JETTA at the end of the RACE_WARS runway flooring the throttle toward the desert exit gate.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In RACE_WARS at 10.0s of shot 29.6: the alpine-white JETTA speeding away from RACE_WARS into the open Mojave desert road.

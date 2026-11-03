@@ -1,5 +1,5 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: DRAMATIC_PUSH_IN): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Scene category: VEHICLE_CHASE | Adaptive voice speed: 1.5x (150%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: DRAMATIC_PUSH_IN): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
@@ -9,7 +9,7 @@ Keep exact approved appearance for TOM with surrounding props (F150_TRUCK); neve
 
 
 [TIMELINE AND LOCATION]
-Scene 05/40, clip 6/6; shot 05.6. Story time: D1 morning.
+Scene 05/40, clip 6/6; shot 05.6. Story time: D1 morning. Scene classification: VEHICLE_CHASE.
 The Ver's Geh auto parts and tuning shop in Los Angeles: high corrugated roof, hydraulic car lifts, tool chests, racks of chrome intakes and turbochargers, sunny roll-up bay door opening to the street, no readable brand logos.
 Architecture & road geometry: high-bay Los Angeles performance tuning shop with corrugated steel roof, two-post hydraulic car lifts, and wide roll-up street bay door; concrete shop floor leading out to sunlit urban kerb.
 Surrounding objects & landmarks: two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses; sunlit Los Angeles palm silhouettes visible outside the open bay door.
@@ -20,11 +20,19 @@ Golden California morning light: low warm sun casting long directional shadows a
 Tại tiệm phụ tùng Ver's Geh của Ryh, Tom hoàn thiện chiếc Eclipse xanh neon và nghe tin giới tài xế xôn xao về phi vụ đêm qua. (Shot 05.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 
 
-[CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 05.5. single-location take only, never show two locations or flash a reference card.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.8s): Tom turns the ignition key with his right hand, bringing the pickup engine to a smooth idle. Beat 2 (2.8–7.4s): Tom rests his left hand at the top of the steering wheel and adjusts the chrome side mirror with his right hand while speaking quietly with calm focus. Beat 3 (7.4–10.0s): Tom shifts the column lever into drive and eases the red pickup across the sunlit shop threshold.
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
+Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.4s as the line lands, and a living, breathing resolution through 10.0s.
 
-[OPENING COMPOSITION AT 0.0s — START_STATE]
-In VERS_GARAGE during D1 morning (shot 05.6 opening): Tom seated inside the cab of the red F150_TRUCK looking out through the open bay door of VERS_GARAGE toward the midday street.
+[HIGH-SPEED VEHICLE ACTION — VEHICLE_CHASE]
+Preserve locked vehicle identity, paint finish, body silhouette, wheel rims and left-hand driver seat position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the road axis while allowing realistic relative speed differentials during overtaking, lane changes, braking or acceleration. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
+
 
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
@@ -32,15 +40,13 @@ One new coverage angle on the established side of the axis; positions, eyelines,
 Composition: Using a dramatic push-in 50mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Tom with the Bright-Red Stepside Shop Pickup Truck inside VERS_GARAGE, surrounded by two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses.
 Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the Bright-Red Stepside Shop Pickup Truck, keeping sunlit Los Angeles palm silhouettes visible outside the open bay door readable in the background depth.
 
-[ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.8s): Tom turns the ignition key with his right hand, bringing the pickup engine to a smooth idle. Beat 2 (2.8–7.4s): Tom rests his left hand at the top of the steering wheel and adjusts the chrome side mirror with his right hand while speaking quietly with calm focus. Beat 3 (7.4–10.0s): Tom shifts the column lever into drive and eases the red pickup across the sunlit shop threshold.
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.4s as the line lands, and a living, breathing resolution through 10.0s.
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Bright-red shop pickup truck carrying wooden auto-parts crates in the rear bed. [VEHICLE_LOCK F150_TRUCK: bright shop-red paint with chrome front bumper; 4 wheels on 2 axles, 16-inch alloy wheels; LEFT-HAND DRIVE: bench seat with driver position on the left; state=clean shop-red pickup parked at Toto kerb or Ver's Geh bay]
+- Surrounding environment objects in VERS_GARAGE: two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses (landmarks: sunlit Los Angeles palm silhouettes visible outside the open bay door).
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside VERS_GARAGE; Tom holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking and organic micro-expressions.
+[VISIBLE TEXTURE]
+Oil-seasoned concrete shop floor, polished chrome wrenches, anodized aluminum turbo intake piping, woven carbon-fiber hood panels, and natural skin pores.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,8 +56,10 @@ Mouth map: 2.8–7.4s only Tom's lips move, shaping each Vietnamese syllable in 
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (VEHICLE_CHASE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -71,23 +79,21 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural 1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 1.5x (150%) Southern Vietnamese speaking speed (fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 2.8–7.4s · Tom (@Tom) says on screen, in the low, calm, clear Southern Vietnamese male voice: Muốn bước vào thế giới của Micdo thì phải bắt đầu từ nơi hắn trân trọng nhất.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
-
-[PROPS]
-Reference only; enact only the current ACTION, not a future handover.
-- Bright-red shop pickup truck carrying wooden auto-parts crates in the rear bed. [VEHICLE_LOCK F150_TRUCK: bright shop-red paint with chrome front bumper; 4 wheels on 2 axles, 16-inch alloy wheels; LEFT-HAND DRIVE: bench seat with driver position on the left; state=clean shop-red pickup parked at Toto kerb or Ver's Geh bay]
-- Surrounding environment objects in VERS_GARAGE: two-post hydraulic car lifts, red steel rolling tool chests, heavy workbenches, wall racks of polished aluminum intakes and turbochargers, coiled air hoses (landmarks: sunlit Los Angeles palm silhouettes visible outside the open bay door).
-
-[VISIBLE TEXTURE]
-Oil-seasoned concrete shop floor, polished chrome wrenches, anodized aluminum turbo intake piping, woven carbon-fiber hood panels, and natural skin pores.
-
 
 [SOUND]
 Location bed: air wrench whir, metal tools clinking and distant city traffic.
 Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: throaty V8 pickup engine rumble, clean manual gear engagement, and sturdy tire roll over concrete and asphalt, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
+Scene sound profile (VEHICLE_CHASE): Prioritize high-RPM engine load, turbo spool, transmission downshifts, tire scrub on asphalt, suspension compression and wind rush synchronized with pursuit speed.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
+
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 05.5. single-location take only, never show two locations or flash a reference card.
+
+[OPENING COMPOSITION AT 0.0s — START_STATE]
+In VERS_GARAGE during D1 morning (shot 05.6 opening): Tom seated inside the cab of the red F150_TRUCK looking out through the open bay door of VERS_GARAGE toward the midday street.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In VERS_GARAGE at 10.0s of shot 05.6: Tom at the wheel of the red F150_TRUCK rolling smoothly out the sunlit bay doorway of VERS_GARAGE.

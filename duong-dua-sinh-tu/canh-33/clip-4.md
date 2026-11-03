@@ -1,5 +1,5 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: REACTION_CLOSEUP): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Scene category: VEHICLE_CHASE | Adaptive voice speed: 1.5x (150%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: REACTION_CLOSEUP): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
@@ -9,7 +9,7 @@ Keep exact approved appearance for MICDO_H with surrounding props (CIVIC_TRIO, R
 
 
 [TIMELINE AND LOCATION]
-Scene 33/40, clip 4/6; shot 33.4. Story time: D6 late afternoon.
+Scene 33/40, clip 4/6; shot 33.4. Story time: D6 late afternoon. Scene classification: VEHICLE_CHASE.
 Two-lane desert highway cutting across arid scrubland under late-afternoon sun: long straight asphalt, sandy shoulders, heat haze rising in the distance, no readable highway signs.
 Architecture & road geometry: long straight two-lane asphalt highway cutting across open Mojave scrubland in late afternoon; two wide asphalt lanes with yellow center dashed line and wide compacted sand shoulders on both sides.
 Surrounding objects & landmarks: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub; dry desert brush, distant rocky buttes, telegraph poles rushing past.
@@ -20,11 +20,19 @@ Bright California daylight: clean directional sun with natural bounce off concre
 Chiếc coupe của Cina chủ động giảm tốc tấp gọn vào lề cát bên đường; đúng lúc Micdo gọi bộ đàm thì chiếc Toyota Supra cam của Tom và Ami kịp thời tiến lên hỗ trợ. (Shot 33.4 — REACTION_CLOSEUP via tight close-up 85mm lens).
 
 
-[CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in this single location and camera setup with the location sound and physical movement already active from the very first frame; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 33.3. single-location take only, never show two locations or flash a reference card.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.8s): Micdo downshifts and checks his mirrors as Verni's massive charcoal grille fills his rear window. Beat 2 (2.8–7.7s): Micdo taps the brake pedal lightly to test the gap ahead of the charging semi-truck while saying in urgency that his car alone cannot drop back in time. Beat 3 (7.7–10.0s): the twin-turbo roar of another high-powered sport coupe rises rapidly from behind the trailer.
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
+Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
+Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
 
-[OPENING COMPOSITION AT 0.0s — START_STATE]
-In DESERT_HIGHWAY during D6 late afternoon (shot 33.4 opening): Micdo inside the cockpit of the lead matte-black Civic coupe ahead of RIG_18 on DESERT_HIGHWAY.
+[HIGH-SPEED VEHICLE ACTION — VEHICLE_CHASE]
+Preserve locked vehicle identity, paint finish, body silhouette, wheel rims and left-hand driver seat position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the road axis while allowing realistic relative speed differentials during overtaking, lane changes, braking or acceleration. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
+
 
 [CAMERA]
 85mm close-up at eye level, natural shallow depth of field. Subtle head-and-shoulder motion, readable facial micro-expressions, natural eye tracking and accurate lip sync, no orbit.
@@ -32,15 +40,14 @@ One new coverage angle on the established side of the axis; positions, eyelines,
 Composition: Using a tight close-up 85mm interior cabin-mounted camera angle angled across the left-hand driver seat, frame Micdo with the Three Matte-Black Precision Coupes inside DESERT_HIGHWAY, surrounded by yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub.
 Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Three Matte-Black Precision Coupes, keeping dry desert brush, distant rocky buttes, telegraph poles rushing past readable in the background depth.
 
-[ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.8s): Micdo downshifts and checks his mirrors as Verni's massive charcoal grille fills his rear window. Beat 2 (2.8–7.7s): Micdo taps the brake pedal lightly to test the gap ahead of the charging semi-truck while saying in urgency that his car alone cannot drop back in time. Beat 3 (7.7–10.0s): the twin-turbo roar of another high-powered sport coupe rises rapidly from behind the trailer.
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Fluid micro-expression and head-and-shoulder movement from 0.0s, organic lip-sync and hand gesture integration across 2.8–7.7s, and natural breathing follow-through to 10.0s.
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=Cina's #2 matte-black coupe suffers a deflated front-left tire from trailer contact and slides onto the sandy shoulder]
+- Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=steel cable hooked to right cab side while swerving across desert highway lanes]
+- Surrounding environment objects in DESERT_HIGHWAY: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub (landmarks: dry desert brush, distant rocky buttes, telegraph poles rushing past).
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside DESERT_HIGHWAY; Micdo holds the primary plane with smooth natural body follow-through. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection and organic micro-expressions.
+[VISIBLE TEXTURE]
+Sun-heated desert asphalt, swirling golden sand and alkali dust on the shoulder, ribbed silver trailer aluminum, pearl metallic-orange paintwork, and natural skin pores.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,8 +57,10 @@ Mouth map: 2.8–7.7s only Micdo's lips move, shaping each Vietnamese syllable i
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (VEHICLE_CHASE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -71,24 +80,21 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural 1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 1.5x (150%) Southern Vietnamese speaking speed (fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 2.8–7.7s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Xe Cina trượt khỏi đội hình rồi, một mình tao ở đầu cáp không sao lùi lại kịp!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
-
-[PROPS]
-Reference only; enact only the current ACTION, not a future handover.
-- Three matte-black lowered sport coupes with glowing green LED underglow, sunroof hatch and reinforced front hood latches. [VEHICLE_LOCK CIVIC_TRIO: non-reflective matte-black paint with dark-tinted side glass; 4 wheels on 2 axles per coupe, 17-inch dark-titanium 6-spoke alloy rims with low-profile street tires; LEFT-HAND DRIVE: driver seat on the left, compact sport steering wheel, green dashboard illumination, sunroof opening above front cabin; state=Cina's #2 matte-black coupe suffers a deflated front-left tire from trailer contact and slides onto the sandy shoulder]
-- Massive 18-wheel charcoal highway semi-truck and sealed silver cargo trailer hauling high-value electronics crates. [VEHICLE_LOCK RIG_18: deep industrial charcoal cab with brushed chrome grille and bumper; ribbed matte-silver aluminum trailer with rear double doors; 18 wheels across 5 axles (2 front steering wheels, 8 dual drive wheels on tractor, 8 dual tandem wheels on trailer), heavy steel rims; LEFT-HAND DRIVE (US standard): high air-ride leather driver seat on the left, large 18-inch steering wheel, amber analog gauge cluster, manual gear lever at center, passenger door and window on the right; state=steel cable hooked to right cab side while swerving across desert highway lanes]
-- Surrounding environment objects in DESERT_HIGHWAY: yellow dashed center lane line, compacted sand and gravel highway shoulders, roadside mile markers, wooden telegraph poles, arid desert scrub (landmarks: dry desert brush, distant rocky buttes, telegraph poles rushing past).
-
-[VISIBLE TEXTURE]
-Sun-heated desert asphalt, swirling golden sand and alkali dust on the shoulder, ribbed silver trailer aluminum, pearl metallic-orange paintwork, and natural skin pores.
-
 
 [SOUND]
 Location bed: heavy diesel engine, high-speed wind and tires roaring on hot asphalt.
 Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: high-revving twin-cam 4-cylinder exhaust note, turbocharger spool and wastegate flutter, crisp gearshifts, and high-speed spinning tire-on-asphalt traction roar; deep turbo-diesel 18-wheeler engine roar, heavy 18-tire highway tread hum, transmission gear engagement, and pneumatic air-brake hiss, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
+Scene sound profile (VEHICLE_CHASE): Prioritize high-RPM engine load, turbo spool, transmission downshifts, tire scrub on asphalt, suspension compression and wind rush synchronized with pursuit speed.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
+
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in this single location and camera setup with the location sound and physical movement already active from the very first frame; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 33.3. single-location take only, never show two locations or flash a reference card.
+
+[OPENING COMPOSITION AT 0.0s — START_STATE]
+In DESERT_HIGHWAY during D6 late afternoon (shot 33.4 opening): Micdo inside the cockpit of the lead matte-black Civic coupe ahead of RIG_18 on DESERT_HIGHWAY.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In DESERT_HIGHWAY at 10.0s of shot 33.4: Micdo in the lead black coupe as a bright orange silhouette appears far behind RIG_18.

@@ -1,5 +1,5 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: KINETIC_HANDHELD): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Scene category: VEHICLE_CHASE | Adaptive voice speed: 2.0x (200%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: KINETIC_HANDHELD): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
@@ -10,7 +10,7 @@ Keep exact approved appearance for TOM_R, MICDO with surrounding props (CHARGER)
 
 
 [TIMELINE AND LOCATION]
-Scene 37/40, clip 5/6; shot 37.5. Story time: D7 sunset.
+Scene 37/40, clip 5/6; shot 37.5. Story time: D7 sunset. Scene classification: VEHICLE_CHASE.
 Detached two-bay garage behind the Toto house: warm overhead work lamps, engine hoist, workbenches stacked with wrenches and manifolds, concrete floor, rear corner holding the covered 1970 muscle car.
 Architecture & road geometry: detached two-bay timber-and-concrete home garage behind the Toto house; oil-darkened concrete floor opening onto the backyard driveway.
 Surrounding objects & landmarks: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover; rear alcove housing the covered 1970 matte-black Charger.
@@ -21,11 +21,19 @@ Warm amber sunset glow: low horizon sun raking across vehicle bodywork and faces
 Lo lắng cho sự an toàn của Seja, Micdo vào gara mở tấm bạt phủ chiếc Dodge Charger 1970 công suất 900 mã lực của cha mình và khởi động máy lên đường bất chấp lời khuyên của Tom. (Shot 37.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 
 
-[CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 37.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.8s): Tom places both hands on the window sill of the vibrating muscle car. Beat 2 (2.8–7.9s): Tom leans his upper body into the open driver window frame and grips Micdo's left shoulder while urging him not to let anger cloud his judgment. Beat 3 (7.9–10.0s): Micdo shifts the T-handle floor lever firmly into first gear without looking back.
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
+Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.9s during speech, and balanced physical recovery through 10.0s.
 
-[OPENING COMPOSITION AT 0.0s — START_STATE]
-In TOTO_GARAGE during D7 sunset (shot 37.5 opening): Tom stepping up to the open driver window of the roaring 1970 matte-black CHARGER in TOTO_GARAGE to speak to Micdo.
+[HIGH-SPEED VEHICLE ACTION — VEHICLE_CHASE]
+Preserve locked vehicle identity, paint finish, body silhouette, wheel rims and left-hand driver seat position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the road axis while allowing realistic relative speed differentials during overtaking, lane changes, braking or acceleration. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+
 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography.
@@ -33,15 +41,13 @@ One new coverage angle on the established side of the axis; positions, eyelines,
 Composition: Using a kinetic handheld 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Tom and Micdo with the 1970 Matte-Black Supercharged Muscle Car, surrounded by overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover.
 Focus: Keep tack-sharp focus on Tom's eyes, lip-sync articulation, and hand-and-body follow-through with the 1970 Matte-Black Supercharged Muscle Car, keeping rear alcove housing the covered 1970 matte-black Charger readable in the background depth.
 
-[ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.8s): Tom places both hands on the window sill of the vibrating muscle car. Beat 2 (2.8–7.9s): Tom leans his upper body into the open driver window frame and grips Micdo's left shoulder while urging him not to let anger cloud his judgment. Beat 3 (7.9–10.0s): Micdo shifts the T-handle floor lever firmly into first gear without looking back.
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.9s during speech, and balanced physical recovery through 10.0s.
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=roaring at full 900-hp supercharged output, front tires lifting under launch torque]
+- Surrounding environment objects in TOTO_GARAGE: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover (landmarks: rear alcove housing the covered 1970 matte-black Charger).
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside TOTO_GARAGE; Tom moves smoothly on the near side while Micdo holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Tom delivers the line with composed undercover intensity, steady eye contact, grounded chest breathing, and natural hand follow-through while speaking, while Micdo maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+[VISIBLE TEXTURE]
+Oil-darkened garage concrete, mirror-chromed supercharger and wrench steel, lustrous metallic-orange and satin-black bodywork, and natural skin pores under warm shop lamps.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -51,8 +57,10 @@ Mouth map: 2.8–7.9s only Tom's lips move, shaping each Vietnamese syllable in 
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (VEHICLE_CHASE): 2.0x (200%) — rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -72,23 +80,21 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural 1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 2.0x (200%) Southern Vietnamese speaking speed (rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 2.8–7.9s · Tom (@Tom) says on screen, in the low, calm, clear Southern Vietnamese male voice: Bình tĩnh lại đi Micdo, lái chiếc xe đó đi hơn thua là anh tự đóng sập đường về!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
-
-[PROPS]
-Reference only; enact only the current ACTION, not a future handover.
-- Classic 1970 matte-black muscle car with a towering chrome supercharger blower rising through the hood. [VEHICLE_LOCK CHARGER: deep satin-black bodywork with mirror-chromed supercharger housing, triple-butterfly intake scoop, and chrome bumpers; 4 wheels on 2 axles, 15-inch polished Cragar-style 5-spoke wheels with wide high-sidewall rear drag slicks; LEFT-HAND DRIVE: black vinyl high-back bucket seats, wood-rimmed 3-spoke steering wheel on the left, T-handle floor shifter, roll bar behind front seats; state=roaring at full 900-hp supercharged output, front tires lifting under launch torque]
-- Surrounding environment objects in TOTO_GARAGE: overhead steel chain engine hoist, red steel tool chests, workbenches stacked with manifolds and chrome torque wrenches, hanging tungsten shop lamps, grey canvas car cover (landmarks: rear alcove housing the covered 1970 matte-black Charger).
-
-[VISIBLE TEXTURE]
-Oil-darkened garage concrete, mirror-chromed supercharger and wrench steel, lustrous metallic-orange and satin-black bodywork, and natural skin pores under warm shop lamps.
-
 
 [SOUND]
 Location bed: ratchet wrenches turning, chain hoist clinking and fluorescent hum.
 Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: earth-shaking 900-horsepower supercharged V8 thunder, high-pitched belt-driven Roots supercharger whine, raw side-pipe exhaust roar, and heavy rear-tire torque grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Tom's Southern Vietnamese dialogue.
+Scene sound profile (VEHICLE_CHASE): Prioritize high-RPM engine load, turbo spool, transmission downshifts, tire scrub on asphalt, suspension compression and wind rush synchronized with pursuit speed.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
+
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 37.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
+
+[OPENING COMPOSITION AT 0.0s — START_STATE]
+In TOTO_GARAGE during D7 sunset (shot 37.5 opening): Tom stepping up to the open driver window of the roaring 1970 matte-black CHARGER in TOTO_GARAGE to speak to Micdo.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In TOTO_GARAGE at 10.0s of shot 37.5: Micdo shifting the 1970 CHARGER into gear as Tom steps clear in TOTO_GARAGE.

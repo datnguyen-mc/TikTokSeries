@@ -1,5 +1,5 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: KINETIC_HANDHELD): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Crisp 150-degree shutter for sharp action. Scene category: VEHICLE_RACE | Adaptive voice speed: 2.0x (200%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: KINETIC_HANDHELD): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
@@ -10,7 +10,7 @@ Keep exact approved appearance for MICDO, TOM_R with surrounding props (ECLIPSE)
 
 
 [TIMELINE AND LOCATION]
-Scene 15/40, clip 5/6; shot 15.5. Story time: N2 night.
+Scene 15/40, clip 5/6; shot 15.5. Story time: N2 night. Scene classification: VEHICLE_RACE.
 South Los Angeles industrial warehouse district at night: wide asphalt avenue between concrete warehouses, hundreds of colorful tuned street cars parked under sodium floodlights, tire smoke drifting, no readable banners.
 Architecture & road geometry: wide industrial avenue between tall concrete freight warehouses in South Los Angeles at night; straight four-lane industrial asphalt avenue converted into a 1/4-mile street drag strip with painted white starting line.
 Surrounding objects & landmarks: painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps; sodium streetlamps, rows of parked tuned coupes lining both kerbs.
@@ -21,11 +21,19 @@ Crisp nocturnal street lighting: sodium vapour and neon highlights cutting throu
 Tom bấm tiếp bình NOS thứ hai khiến tấm sàn phụ bung ra tóe tia lửa; Micdo bình thản sang số vượt qua vạch đích trước Tom một thân xe và đòi chìa khóa. (Shot 15.5 — KINETIC_HANDHELD via kinetic handheld 35mm lens).
 
 
-[CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 15.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.8s): Micdo gestures to the scorched intake manifold and tells Tom he fired the nitrous too early and fried the piston rings. Beat 2 (2.8–7.7s): Micdo extends his open right palm between them and beckons with his fingers while demanding the car keys as the winner of the quarter-mile wager. Beat 3 (7.7–10.0s): Tom reaches into his jacket pocket for the key ring as distant police sirens begin wailing across the district.
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
+Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
+Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.7s during speech, and balanced physical recovery through 10.0s.
 
-[OPENING COMPOSITION AT 0.0s — START_STATE]
-In RACE_MEET during N2 night (shot 15.5 opening): Micdo standing beside the open hood of the smoking neon-green ECLIPSE in RACE_MEET pointing at the overheated intake manifold before Tom.
+[HIGH-SPEED VEHICLE ACTION — VEHICLE_RACE]
+Preserve locked vehicle identity, paint finish, body silhouette, wheel rims and left-hand driver seat position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the road axis while allowing realistic relative speed differentials during overtaking, lane changes, braking or acceleration. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+
 
 [CAMERA]
 35mm controlled handheld medium-wide with smooth kinetic dampening, dramatic camera tracking, realistic lighting, and authentic Vietnamese action cinema atmosphere. Professional stunt performers execute tightly choreographed martial arts and defensive movements with precise dodges, controlled footwork, and realistic physical reactions; any loss of balance lands safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography.
@@ -33,15 +41,13 @@ One new coverage angle on the established side of the axis; positions, eyelines,
 Composition: Using a kinetic handheld 35mm low-angle exterior pursuit tracking camera rig at wheel-and-fender height, frame Micdo and Tom with the Neon-Green Turbo Sport Coupe, surrounded by painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps.
 Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping sodium streetlamps, rows of parked tuned coupes lining both kerbs readable in the background depth.
 
-[ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.8s): Micdo gestures to the scorched intake manifold and tells Tom he fired the nitrous too early and fried the piston rings. Beat 2 (2.8–7.7s): Micdo extends his open right palm between them and beckons with his fingers while demanding the car keys as the winner of the quarter-mile wager. Beat 3 (7.7–10.0s): Tom reaches into his jacket pocket for the key ring as distant police sirens begin wailing across the district.
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
-Action rhythm: Tightly choreographed kinetic momentum at 0.0s, seamless defensive footwork or steering follow-through across 2.8–7.7s during speech, and balanced physical recovery through 10.0s.
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=over-boosted intake manifold steaming lightly, passenger-side metal floor panel unlatched from high-speed friction sparks, minor front bumper rub mark]
+- Surrounding environment objects in RACE_MEET: painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps (landmarks: sodium streetlamps, rows of parked tuned coupes lining both kerbs).
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside RACE_MEET; Micdo moves smoothly on the near side while Tom holds the counter-angle. All moving vehicles travel in the exact same left-to-right forward direction along the road lane with rapidly spinning wheels and matched forward velocity; never face head-on or reverse axis.
-Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+[VISIBLE TEXTURE]
+Tire-scuffed industrial asphalt, glossy neon-green and metallic-crimson car bodywork, drifting white tire smoke under amber sodium floodlights, and natural skin pores.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -51,8 +57,10 @@ Mouth map: 2.8–7.7s only Micdo's lips move, shaping each Vietnamese syllable i
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (VEHICLE_RACE): 2.0x (200%) — rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -72,23 +80,21 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural 1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 2.0x (200%) Southern Vietnamese speaking speed (rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 2.8–7.7s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Nhưng nóng vội bấm khí sớm đã làm hỏng cổ góp của cậu, đưa chìa khóa xe đây.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
-
-[PROPS]
-Reference only; enact only the current ACTION, not a future handover.
-- Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=over-boosted intake manifold steaming lightly, passenger-side metal floor panel unlatched from high-speed friction sparks, minor front bumper rub mark]
-- Surrounding environment objects in RACE_MEET: painted white asphalt starting line, oil-drum lane barriers, rows of parked custom street cars with open hoods, overhead sodium-vapor streetlamps (landmarks: sodium streetlamps, rows of parked tuned coupes lining both kerbs).
-
-[VISIBLE TEXTURE]
-Tire-scuffed industrial asphalt, glossy neon-green and metallic-crimson car bodywork, drifting white tire smoke under amber sodium floodlights, and natural skin pores.
-
 
 [SOUND]
 Location bed: thumping bass, revving tuned engines and cheering street crowd.
 Foreground sound: HIGH-PRIORITY AUTOMOTIVE SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, high-speed spinning tire-on-asphalt traction, crisp gearshifts, and wind slipstream layered prominently with Micdo's Southern Vietnamese dialogue.
+Scene sound profile (VEHICLE_RACE): Prioritize roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, tire friction on asphalt and high-speed wind rush synchronized with vehicle speed.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
+
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in this single camera setup with smooth incoming momentum, preserving compatible screen direction and eyelines; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 15.4. no intro flash, no studio reference card, and no morph or duplicated gesture.
+
+[OPENING COMPOSITION AT 0.0s — START_STATE]
+In RACE_MEET during N2 night (shot 15.5 opening): Micdo standing beside the open hood of the smoking neon-green ECLIPSE in RACE_MEET pointing at the overheated intake manifold before Tom.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In RACE_MEET at 10.0s of shot 15.5: Micdo with his hand extended toward Tom beside the smoking ECLIPSE as distant sirens rise.

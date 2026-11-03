@@ -1,5 +1,5 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: DRAMATIC_PUSH_IN): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Scene category: VEHICLE_CHASE | Adaptive voice speed: 1.5x (150%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: DRAMATIC_PUSH_IN): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
@@ -10,7 +10,7 @@ Keep exact approved appearance for MICDO, TOM_R with surrounding props (ECLIPSE)
 
 
 [TIMELINE AND LOCATION]
-Scene 19/40, clip 6/6; shot 19.6. Story time: N2 night.
+Scene 19/40, clip 6/6; shot 19.6. Story time: N2 night. Scene classification: VEHICLE_CHASE.
 Desolate gravel lot at the edge of Little Saigon at night: rusted shipping containers, chain-link perimeter fence, neon shop glow far behind, circle of matte-black sport motorcycles surrounding the parked coupe.
 Architecture & road geometry: fenced gravel storage lot on the edge of Little Saigon at night bordered by stacked rusted shipping containers; compacted gravel yard with a single chain-link gate entrance.
 Surrounding objects & landmarks: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights; distant blurred neon shop glow beyond the perimeter fence.
@@ -21,11 +21,19 @@ Crisp nocturnal street lighting: sodium vapour and neon highlights cutting throu
 Ny Tran và đàn em xả van áp suất khiến chiếc Eclipse bốc khói mù mịt giữa tiếng hét bất lực của Tom, rồi cả bọn phóng mô tô bỏ đi. (Shot 19.6 — DRAMATIC_PUSH_IN via dramatic push-in 50mm lens).
 
 
-[CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 19.5. single-location take only, never show two locations or flash a reference card.
+[ACTION — 0–10s, one evolving take]
+Beat 1 (0.0–2.8s): Micdo claps his right hand firmly onto Tom's shoulder, turning him away from the disabled coupe. Beat 2 (2.8–7.9s): Micdo keeps his right hand on Tom's shoulder and guides him in a smooth quarter-turn toward the exit gate while telling him quietly to come on. Beat 3 (7.9–10.0s): Tom takes one last look at the smoking frame and walks alongside Micdo toward the road.
+Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
+Vehicle motion & wheel lock: Every moving vehicle in frame travels in the exact same co-directional forward direction (left-to-right along the road axis) with all wheels spinning rapidly forward with realistic rotational motion blur, active suspension compression, and rolling road-surface flow — never show stationary wheels or vehicles driving in opposite directions during a race, convoy, or pursuit.
+Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.9s as the line lands, and a living, breathing resolution through 10.0s.
 
-[OPENING COMPOSITION AT 0.0s — START_STATE]
-In SAIGON_LOT during N2 night (shot 19.6 opening): Micdo and Tom standing alone on the gravel of SAIGON_LOT beside the blackened, smoking frame of the ECLIPSE.
+[HIGH-SPEED VEHICLE ACTION — VEHICLE_CHASE]
+Preserve locked vehicle identity, paint finish, body silhouette, wheel rims and left-hand driver seat position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the road axis while allowing realistic relative speed differentials during overtaking, lane changes, braking or acceleration. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Tom holds the counter-angle.
+Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+
 
 [CAMERA]
 50mm steady, fluid dolly push-in, no lens change, no orbit. Continuous physical follow-through builds tension while the final expression stays readable through 10.0s.
@@ -33,14 +41,13 @@ One new coverage angle on the established side of the axis; positions, eyelines,
 Composition: Using a dramatic push-in 50mm eye-level cinematic camera setup, frame Micdo and Tom with the Neon-Green Turbo Sport Coupe, surrounded by stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights.
 Focus: Keep tack-sharp focus on Micdo's eyes, lip-sync articulation, and hand-and-body follow-through with the Neon-Green Turbo Sport Coupe, keeping distant blurred neon shop glow beyond the perimeter fence readable in the background depth.
 
-[ACTION — 0–10s, one evolving take]
-Beat 1 (0.0–2.8s): Micdo claps his right hand firmly onto Tom's shoulder, turning him away from the disabled coupe. Beat 2 (2.8–7.9s): Micdo keeps his right hand on Tom's shoulder and guides him in a smooth quarter-turn toward the exit gate while telling him quietly to come on. Beat 3 (7.9–10.0s): Tom takes one last look at the smoking frame and walks alongside Micdo toward the road.
-Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
-Action rhythm: Steady purposeful push-in from 0.0s, continuous posture and gesture evolution through 2.8–7.9s as the line lands, and a living, breathing resolution through 10.0s.
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=disabled in the Little Saigon gravel lot surrounded by dense theatrical orange smoke and a darkened scorched hood frame]
+- Surrounding environment objects in SAIGON_LOT: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights (landmarks: distant blurred neon shop glow beyond the perimeter fence).
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Preserve left-to-right 180-degree spatial continuity inside SAIGON_LOT; Micdo moves smoothly on the near side while Tom holds the counter-angle.
-Performance: Micdo delivers the line with gravelly authoritative stillness, deliberate weight shifts, unblinking eye contact, and deep resonant vocal projection, while Tom maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
+[VISIBLE TEXTURE]
+Compacted grey yard gravel, rusted corrugated shipping container steel, matte carbon-textured motorcycle fairings, drifting orange smoke, and natural skin pores.
 
 
 [BODY, MOUTH AND FACE STANDARD]
@@ -50,8 +57,10 @@ Mouth map: 2.8–7.9s only Micdo's lips move, shaping each Vietnamese syllable i
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (VEHICLE_CHASE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -71,23 +80,21 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural 1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 1.5x (150%) Southern Vietnamese speaking speed (fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 2.8–7.9s · Micdo (@Micdo) says on screen, in the deep, resonant, authoritative Southern Vietnamese male voice: Đi thôi nhóc, xe mất thì dựng lại sau, giữ được người bình an về nhà mới là chính.
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
-
-[PROPS]
-Reference only; enact only the current ACTION, not a future handover.
-- Neon-green tuned sport coupe with carbon hood, silver sport graphics, dual NOS bottles in the rear mount and telemetry laptop on the dash. [VEHICLE_LOCK ECLIPSE: glossy neon-lime green paint with matte weave carbon-fiber hood and subtle silver side streak graphics; 4 wheels on 2 axles, 18-inch polished 5-spoke alloy wheels with low-profile performance tires; LEFT-HAND DRIVE: Sparco-style bucket seat on the left, 3-spoke sport wheel with red right-thumb NOS button, passenger telemetry laptop mount on the right dash; state=disabled in the Little Saigon gravel lot surrounded by dense theatrical orange smoke and a darkened scorched hood frame]
-- Surrounding environment objects in SAIGON_LOT: stacked rusted corrugated steel shipping containers, chain-link perimeter fence and gate, ring of ten matte-black sport motorcycles with twin LED headlights (landmarks: distant blurred neon shop glow beyond the perimeter fence).
-
-[VISIBLE TEXTURE]
-Compacted grey yard gravel, rusted corrugated shipping container steel, matte carbon-textured motorcycle fairings, drifting orange smoke, and natural skin pores.
-
 
 [SOUND]
 Location bed: idling sport-bike engines, gravel crunching and night wind.
 Foreground sound: PRIORITY DIEGETIC SFX: powerful turbocharged engine spool whine, sharp blow-off valve flutter on shifts, pressurized nitrous solenoid crack, and high-RPM spinning tire grip, clean mechanical contact, and natural breathing layered clearly beneath Micdo's Southern Vietnamese dialogue.
+Scene sound profile (VEHICLE_CHASE): Prioritize high-RPM engine load, turbo spool, transmission downshifts, tire scrub on asphalt, suspension compression and wind rush synchronized with pursuit speed.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
+
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in this single location and camera setup while ambient sound and continuous body/vehicle motion flow naturally through the scene; Carry forward the unbroken spatial momentum, lighting, and left-to-right screen direction from shot 19.5. single-location take only, never show two locations or flash a reference card.
+
+[OPENING COMPOSITION AT 0.0s — START_STATE]
+In SAIGON_LOT during N2 night (shot 19.6 opening): Micdo and Tom standing alone on the gravel of SAIGON_LOT beside the blackened, smoking frame of the ECLIPSE.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In SAIGON_LOT at 10.0s of shot 19.6: Micdo and Tom walking side-by-side out of SAIGON_LOT away from the blackened frame of the ECLIPSE.

@@ -1,16 +1,16 @@
 Continue the scene seamlessly from the final frame of clip 3. Same composition at the seam, natural new action immediately after the seam.
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 150-degree action shutter (24 fps) for crisp, sharp kinetic motion edges during physical action. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 150-degree action shutter (24 fps) for crisp, sharp kinetic motion edges during physical action. Scene category: FIGHT_ACTION | Adaptive voice speed: 2.0x (200%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
-@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.0x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
+@Son = Sơn: same approved identity, age 45; Vietnamese man, lean build, quiet dark eyes, thin white scar across the bridge of the nose. Wardrobe & gear: Present timeline, matte-black suit, open-collar white shirt, BARE hands, no gloves, no flower in breast pocket. LEFT wrist bandage from 25.1 onward; right hand uninjured; unarmed: complete handgun case was surrendered at 28.4. Voice profile: Deep, composed Southern Vietnamese male baritone (~110 Hz), grounded natural 1.25x cadence, quiet inner gravity, crisp consonant diction, controlled breathing without theatrical exaggeration.
 @Vũ Kiên = Kiên: same approved identity, age 50; Vietnamese man, tall, slicked-back black hair, wide practiced smile. Wardrobe & gear: Tailored white suit, luxury gold wristwatch on left wrist, polished shoes, clothing becomes rumpled during flight to lighthouse. Voice profile: Smooth, calculated urban Southern Vietnamese male baritone, polished business cadence that tightens into cold menace under pressure.
-@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.0x conversational rhythm, crisp articulation and composed breath control.
+@May = Mây: same approved identity, age 38; Vietnamese woman, athletic build, sun-lined face, short black hair with a distinctive white front streak. Wardrobe & gear: Plain khaki shirt with rolled sleeves, dark trousers, no readable insignia, small black investigation notebook and pen, discreet dark-brown leather crossbody duty pouch, steel handcuffs at belt. Voice profile: Clear, steady Southern Vietnamese female alto, authoritative yet humane investigative tone, natural 1.25x conversational rhythm, crisp articulation and composed breath control.
 @Ha = Hạ: same approved identity, age 32; Vietnamese woman, slim build, gentle alert eyes, long black hair. Wardrobe & gear: Plain grey cotton dress, loose untidy hair with silver hair clip pinned at back until 45.4, thin sandals, scarf absent from neck, no visible injury. Voice profile: Warm, gentle Southern Vietnamese female lyric voice, soft coastal inflection, sincere emotional clarity, natural unhurried breathing and quiet resilience.
 Sơn wears his matte-black suit over open-collar white shirt, LEFT wrist wrapped in white medical bandage, right hand uninjured and bare; canvas backpack left behind in the cabin from Scene 35.4 onward. Mây wears her khaki field shirt with rolled sleeves, dark-brown leather crossbody duty pouch, small black notebook, radio handset and steel handcuffs at her belt. Hạ wears her plain grey cotton dress and thin sandals, scarf absent from neck, silver hair clip removed and wedged into the service hatch latch at 45.4. Kiên wears his white suit rumpled and damp with sea mist, luxury gold wristwatch glinting on his left wrist.
 
 
 [TIMELINE AND LOCATION]
-Scene 51/60, clip 4/6; shot 51.4. Story time: D7 night continuous.
+Scene 51/60, clip 4/6; shot 51.4. Story time: D7 night continuous. Scene classification: FIGHT_ACTION.
 Lighthouse gallery: main stair door east, service hatch north, inner masonry wall center, sea rail south, backup lamp aimed seaward.
 Lighting & Color: Same night gallery, backup lamp switches on at clip 1, aimed seaward, faces lit by safe spill. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 51 (Clip 1–6)]
@@ -21,12 +21,18 @@ Strict spatial rule: Lock this exact spatial geometry, compass axis and architec
 Make Sơn's moral choice visible without giving him implausible strength after Tê.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 51.3, ending with Kiên stumbling backward toward the rail, Sơn off balance beside him; handgun already on the INNER gallery floor, nobody holding it.
-Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Continue the physical action seamlessly from 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s (Crisis Momentum): Stumbling backward from the deflection, Kiên's heel catches the lower bar of the lighthouse railing and his upper torso pitches dangerously backward against the top rail while both feet remain on the inner gallery. 2.5–6.5s (Defense/Rescue -> Contact/Reversal): Rather than letting Kiên pitch over the rail, Sơn lunges forward one step, clamps his sound right hand onto Kiên's white jacket lapel, and pulls backward with his full body weight to haul Kiên inward onto the concrete gallery floor. 6.5–10.0s (Reaction & Recovery): Both men settle onto the inner gallery floor several feet clear of the railing edge, breathing hard, while the single handgun remains untouched on the inner concrete spot.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Let the choice be a fraction before the pull; settle both onto the inner floor once without repeating the rescue.
 
-[START FRAME — state only, not an action to repeat]
-Kiên stumbling backward toward the rail, Sơn off balance beside him; handgun already on the INNER gallery floor, nobody holding it.
+[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]
+Photorealistic live-action cinematic combat with professional stunt choreography. Fast, precise, powerful and physically believable movements with realistic body weight, balance, inertia and momentum. Strictly follow the 5-stage combat chain in ACTION: Attack → Defense → Contact/Reversal → Reaction → Recovery (maximum 2–3 core martial-arts exchanges in 10s, continuous choreography without frozen poses, realistic footwork, pivots, dodges, blocks and counterattacks, grounded cinematic camera movement with readable combat geography). No air-striking, no unmotivated falling, no wire-fu floating, and no repeated identical moves.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Kiên catches the lower rail while still inside, Sơn uses his sound RIGHT hand on the jacket to bring their weight inward.
+Performance: Sơn chooses to help before his expression relaxes; Kiên briefly needs the man he tried to own (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
+
 
 [CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
 - Lens & Shot Type: Controlled Shoulder-Rig Handheld Action Shot (H) — 35mm prime lens, 24 fps, 150-degree crisp action shutter (f/4.0) with grounded, organic physical energy from one fixed side of the 180-degree axis. Keep defensive parries, posture shifts and spatial geometry clear without chaotic shake. Shutter: 150-degree action shutter (24 fps) for crisp, sharp kinetic motion edges during physical action.
@@ -35,19 +41,26 @@ Kiên stumbling backward toward the rail, Sơn off balance beside him; handgun a
 - Optical Focus & Depth of Field: Keep both feet inside the gallery and bodies below the point of a full over-edge fall, no dangling one-arm hoist.
 - Camera Stability & Continuity Contract: Continuity lock (CONTINUE): Inherit the exact camera position, focal length, horizon line, prop placement, eyeline and 180-degree movement axis from the final frame of the preceding clip; zero framing reset.
 
-[ACTION — 0–10s, one clear primary action in a continuous take]
-0.0–2.5s: From the starting position (Kiên stumbling backward toward the rail, Sơn off balance beside him; handgun already on the INNER gallery floor, nobody holding it), initiate the movement cleanly without hesitation. 2.5–6.5s: Kiên heel catches the bottom bar of the existing railing and his shoulders pitch against the upper rail, both feet still on the inner gallery. Sơn catches the jacket with his sound RIGHT hand and brings their weight inward rather than letting Kiên pitch farther. Both settle onto the inner floor, the handgun stays where it fell, beyond their hands (performed once in real time without repeating the opening step). 6.5–10.0s: Sơn chooses to help before his expression relaxes; Kiên briefly needs the man he tried to own, settling into the end state (Both men on the INNER gallery floor, feet away from the edge; handgun still on the same inner concrete spot, no second release or weapon in either hand) as gun remains on the same inner concrete spot, bandage stays LEFT and the rail neither breaks nor invents new damage.
-Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
-Action rhythm: Let the choice be a fraction before the pull; settle both onto the inner floor once without repeating the rescue.
+[PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 51 (Clip 1–6)]
+FIXED SCENE 51 OBJECTS (Clip 1–6): (1) Lighthouse backup lamp switched ON aiming seaward; (2) Iron sea railing (south) and inner gallery concrete floor; (3) Kiên's handgun slipping from his loosened left grip onto the inner concrete floor in Clip 3 and secured by Mây in Clip 5; (4) Sơn's bandaged left wrist and uninjured right hand catching Kiên's white suit jacket in Clip 4; (5) Police handcuffs (CUFFS) and Mây's duty pouch (DUTY_POUCH).
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 51; never spawn, morph or introduce any unstated objects or background clutter.
+Reference only; enact only the current ACTION, not a future handover.
+- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
+- Standard steel police handcuffs carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Kiên catches the lower rail while still inside, Sơn uses his sound RIGHT hand on the jacket to bring their weight inward.
-Performance: Sơn chooses to help before his expression relaxes; Kiên briefly needs the man he tried to own (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
+[VISIBLE TEXTURE]
+Gun remains on the same inner concrete spot, bandage stays LEFT and the rail neither breaks nor invents new damage.
 
+
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (FIGHT_ACTION): 2.0x (200%) — rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -67,28 +80,24 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.8s, two natural back-and-forth conversational turns (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.25x conversational speaking speed (125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Delivery & Timing: 0.3–7.8s, two natural back-and-forth conversational turns (28 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 2.0x (200%) [rapid-fire climax crisis pacing (2.0x / 200%) — maximum-urgency, sharp, adrenaline-charged Southern Vietnamese command delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at adaptive 2.0x (200%) speaking speed (baseline 1.25x conversational speaking speed / 125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
 Sơn (@Son), nói trong hình [0.3–4.4s | giọng nam trầm gằn lực khi vươn tay phải nắm chặt cổ tay Kiên kéo vào]: Chân anh trượt khỏi gờ sắt rồi kìa Kiên, nắm chặt lấy tay phải của tôi!
 Kiên (@Vũ Kiên), nói trong hình [4.7–7.8s | giọng nam hoảng loạn bấu chặt lấy tay Sơn]: Kéo tôi vào trong sàn gạch đi Sơn, đừng buông tay ra!
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
 
-[PROPS]
-[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 51 (Clip 1–6)]
-FIXED SCENE 51 OBJECTS (Clip 1–6): (1) Lighthouse backup lamp switched ON aiming seaward; (2) Iron sea railing (south) and inner gallery concrete floor; (3) Kiên's handgun slipping from his loosened left grip onto the inner concrete floor in Clip 3 and secured by Mây in Clip 5; (4) Sơn's bandaged left wrist and uninjured right hand catching Kiên's white suit jacket in Clip 4; (5) Police handcuffs (CUFFS) and Mây's duty pouch (DUTY_POUCH).
-Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 51; never spawn, morph or introduce any unstated objects or background clutter.
-Reference only; enact only the current ACTION, not a future handover.
-- Mây's discreet dark-brown leather crossbody duty pouch, small black field notebook, pen and compact police radio.
-- Standard steel police handcuffs carried by Mây (two pairs used in the city at 23.5 and 24.5; two fresh pairs issued by Thành at 35.1 and used at 46.4 and 53.3).
-
-[VISIBLE TEXTURE]
-Gun remains on the same inner concrete spot, bandage stays LEFT and the rail neither breaks nor invents new damage.
-
-
 [SOUND]
 Continuous ambience bed: strong sea wind, fabric and restrained footsteps.
 Foreground motivated sound: A fabric strain, rail contact and shared exhale carry the move, with no loud heroic impact.
+Scene sound profile (FIGHT_ACTION): Prioritize grounded footstep traction, rapid clothing movement, athletic breathing, simulated stunt contact acoustics and physical body-weight shifts alongside clear dialogue.
 Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 51.3, ending with Kiên stumbling backward toward the rail, Sơn off balance beside him; handgun already on the INNER gallery floor, nobody holding it.
+Use that last frame as this start frame. Preserve lens, axis, positions, light and props. Continue the physical action seamlessly from 0.0s; do not replay the preceding gesture or words. No freeze at the seam.
+
+[START FRAME — state only, not an action to repeat]
+Kiên stumbling backward toward the rail, Sơn off balance beside him; handgun already on the INNER gallery floor, nobody holding it.
 
 [END FRAME — lock position, props, eyeline & movement axis]
 Both men on the INNER gallery floor, feet away from the edge; handgun still on the same inner concrete spot, no second release or weapon in either hand.
@@ -96,4 +105,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 51.5: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

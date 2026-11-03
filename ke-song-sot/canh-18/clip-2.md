@@ -1,5 +1,5 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: FIGHT_ACTION | Adaptive voice speed: 1.5x (150%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
 @Ông Bảy = Ông Bảy: same approved identity, age 70; Vietnamese man, stocky, white moustache, deeply tanned face. Wardrobe & gear: White cotton singlet, dark shorts, rubber sandals, conical hat outside, checkered cloth over shoulder for cleaning coffee glasses. Voice profile: Resonant, weathered, hospitable elderly Southern Vietnamese coastal male voice, warm gravelly timbre, relaxed natural everyday rhythm.
@@ -8,7 +8,7 @@ Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and hea
 
 
 [TIMELINE AND LOCATION]
-Scene 18/60, clip 2/6; shot 18.2. Story time: D4 morning.
+Scene 18/60, clip 2/6; shot 18.2. Story time: D4 morning. Scene classification: FIGHT_ACTION.
 Ông Bảy's traditional Vietnamese coastal sidewalk coffee stall (quán cà phê cóc ven biển): sun-faded green canvas awning in the sea wind, weathered wooden counter with metal phin filters, low plastic tables seaward beside the stone sea wall, salt-bleached village houses reflected in the counter mirror.
 Lighting & Color: Present-day morning coastal sun outside, awning shade at the counter. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 18 (Clip 1–6)]
@@ -19,12 +19,18 @@ Strict spatial rule: Lock this exact spatial geometry, compass axis and architec
 Give Bảy a boundary he can hold without turning an elderly civilian into an action hero.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 18.1, ending with Chair on its side, Bảy behind the counter.
-Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s (Attack): Dũng steps aggressively into the coffee stall shade from the street, reaching his right hand across the table edge to block Bảy's movement. 2.5–6.5s (Defense & Contact): Bảy shifts his weight back half a step behind the wooden counter, angles his forearm to keep the tray clear of Dũng's reach, and holds his ground between Dũng and the inner doorway. 6.5–10.0s (Reaction & Recovery): Dũng withdraws his hand slowly onto the table edge while Bảy keeps both hands steady on the counter surface in composed readiness.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: Let the boundary hold after the sentence; do not make Dũng test it with an extra shove or repeat the question.
 
-[START FRAME — state only, not an action to repeat]
-Bảy setting his glass down before answering.
+[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]
+Photorealistic live-action cinematic combat with professional stunt choreography. Fast, precise, powerful and physically believable movements with realistic body weight, balance, inertia and momentum. Strictly follow the 5-stage combat chain in ACTION: Attack → Defense → Contact/Reversal → Reaction → Recovery (maximum 2–3 core martial-arts exchanges in 10s, continuous choreography without frozen poses, realistic footwork, pivots, dodges, blocks and counterattacks, grounded cinematic camera movement with readable combat geography). No air-striking, no unmotivated falling, no wire-fu floating, and no repeated identical moves.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Bảy sets his existing glass down, points toward the clinic and stays across the staff entrance.
+Performance: He is wary but firm, refusing access by ordinary ownership of his space rather than a threatening gesture (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
+
 
 [CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
 - Lens & Shot Type: Medium Waist-Up Shot (M) — 50mm standard prime lens, 24 fps, natural human perspective (f/4.0), eye-level conversational lock. Keep upper bodies, hand-to-prop interactions and matched eyelines clearly readable in one stable frame. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
@@ -33,19 +39,27 @@ Bảy setting his glass down before answering.
 - Optical Focus & Depth of Field: Keep his face and the counter boundary in shared medium depth, leaving Dũng's size contextual rather than dominant.
 - Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one clear primary action in a continuous take]
-0.0–2.5s: From the starting position (Bảy setting his glass down before answering), initiate the movement cleanly without hesitation. 2.5–6.5s: He points toward the clinic, refusing to let Dũng pass behind his counter (performed once in real time without repeating the opening step). 6.5–10.0s: He is wary but firm, refusing access by ordinary ownership of his space rather than a threatening gesture, settling into the end state (Bảy blocking the counter entrance, Dũng in the public aisle) as the used counter edge and plain glass reinforce what Bảy is actually protecting, a working place.
-Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
-Action rhythm: Let the boundary hold after the sentence; do not make Dũng test it with an extra shove or repeat the question.
+[PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 18 (Clip 1–6)]
+FIXED SCENE 18 OBJECTS (Clip 1–6): (1) Plastic chair knocked aside and set upright at the stall edge; (2) Ông Bảy's wooden counter, coffee glasses, and wiping cloth (COFFEE_TRAY); (3) Long remaining section of Hạ's torn pale-blue silk scarf (SCARF_REMAINDER) laid on the counter; (4) Dũng's black canvas shoulder work bag (TOOL_BAG) and mobile phone; (5) Mây's duty pouch and Thành's clipboard.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 18; never spawn, morph or introduce any unstated objects or background clutter.
+Reference only; enact only the current ACTION, not a future handover.
+- Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
+- Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
+- Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Bảy sets his existing glass down, points toward the clinic and stays across the staff entrance.
-Performance: He is wary but firm, refusing access by ordinary ownership of his space rather than a threatening gesture (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
+[VISIBLE TEXTURE]
+The used counter edge and plain glass reinforce what Bảy is actually protecting, a working place.
 
+
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (FIGHT_ACTION): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -65,28 +79,23 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.1s, one natural, well-articulated spoken line (26 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.25x conversational speaking speed (125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Delivery & Timing: 0.3–7.1s, one natural, well-articulated spoken line (26 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.5x (150%) [fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
+Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at adaptive 1.5x (150%) speaking speed (baseline 1.25x conversational speaking speed / 125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
 Ông Bảy (@Ông Bảy), nói trong hình [0.3–7.1s | giọng ông lão miền biển cứng cỏi, không hề nao núng trước kẻ côn đồ]: Tụi nó nằm bên phòng khám có công an canh gác đàng hoàng đó. Chú muốn kiếm thì qua đồn mà hỏi, đừng quậy quán tui.
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
-
-[PROPS]
-[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 18 (Clip 1–6)]
-FIXED SCENE 18 OBJECTS (Clip 1–6): (1) Plastic chair knocked aside and set upright at the stall edge; (2) Ông Bảy's wooden counter, coffee glasses, and wiping cloth (COFFEE_TRAY); (3) Long remaining section of Hạ's torn pale-blue silk scarf (SCARF_REMAINDER) laid on the counter; (4) Dũng's black canvas shoulder work bag (TOOL_BAG) and mobile phone; (5) Mây's duty pouch and Thành's clipboard.
-Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 18; never spawn, morph or introduce any unstated objects or background clutter.
-Reference only; enact only the current ACTION, not a future handover.
-- Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
-- Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
-- Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
-
-[VISIBLE TEXTURE]
-The used counter edge and plain glass reinforce what Bảy is actually protecting, a working place.
-
 
 [SOUND]
 Continuous ambience bed: glasses touching and awning cloth in sea wind.
 Foreground motivated sound: The glass landing precedes the line, then a short ordinary room pause keeps the threat human rather than musical.
+Scene sound profile (FIGHT_ACTION): Prioritize grounded footstep traction, rapid clothing movement, athletic breathing, simulated stunt contact acoustics and physical body-weight shifts alongside clear dialogue.
 Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 18.1, ending with Chair on its side, Bảy behind the counter.
+Intentional editorial cut, not a continuous take. Start cleanly in the new composition; preserve compatible 180-degree screen direction and matched eyelines. No morph or duplicated gesture.
+
+[START FRAME — state only, not an action to repeat]
+Bảy setting his glass down before answering.
 
 [END FRAME — lock position, props, eyeline & movement axis]
 Bảy blocking the counter entrance, Dũng in the public aisle.
@@ -94,4 +103,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 18.3: J-cut: âm mới đến trước hình. Do not perform its action inside this clip.
 
 [AVOID]
-spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

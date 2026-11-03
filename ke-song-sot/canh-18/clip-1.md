@@ -1,5 +1,5 @@
 [FORMAT]
-10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
+10 seconds, full-frame 16:9, 24 fps, photorealistic live-action Vietnamese neo-noir thriller. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing. Scene category: VEHICLE_CHASE | Adaptive voice speed: 1.5x (150%). Color grade: Cool shadows, restrained warm highlights, natural skin tones. ONE camera setup and ONE location; no internal montage, recap or closing fade.
 
 [CHARACTERS — approved identities, wardrobe, carried gear and voice profiles]
 @Dũng = Dũng: same approved identity, age 35; Vietnamese man, heavy shoulders, buzz cut, nail-shaped silver earring in LEFT ear. Wardrobe & gear: Black sleeveless shirt, black jeans, heavy boots, nail-shaped silver earring in LEFT ear, heavy black canvas shoulder bag for work gear. Voice profile: Gritty, taut mid-low Southern Vietnamese male voice, clipped street-hardened phrasing, tense jaw resonance, sharp urgent delivery.
@@ -8,7 +8,7 @@ Dũng wears his black sleeveless shirt, silver nail earring in LEFT ear, and hea
 
 
 [TIMELINE AND LOCATION]
-Scene 18/60, clip 1/6; shot 18.1. Story time: D4 morning.
+Scene 18/60, clip 1/6; shot 18.1. Story time: D4 morning. Scene classification: VEHICLE_CHASE.
 Vietnamese coastal fishing town main road between the crossroad and fish market: weathered asphalt dusted with sea sand, low salt-bleached concrete houses with corrugated tin awnings and overhead utility wires, Ông Bảy's sidewalk coffee stall beside the stone sea wall with distant wooden fishing boats on the sea.
 Lighting & Color: Present-day morning coastal sun outside, awning shade at the counter. Motivated directional light source with natural falloff; cool shadows, restrained warm highlights, natural Vietnamese skin tones.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 18 (Clip 1–6)]
@@ -22,12 +22,18 @@ Scene goal: Dũng đe dọa bằng phần khăn còn lại, để lộ lệnh v�
 Let Dũng's entitlement disturb the town's ordinary order through one clearly visible trespass.
 
 
-[EDIT IN — do not render the previous shot again]
-Previous editorial shot: 17.6, ending with Protection roster on the desk, Thành acknowledging his post.
-Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes from 0.0s with purposeful action and natural dialogue at 0.3s.
+[ACTION — 0–10s, one clear primary action in a continuous take]
+0.0–2.5s: Dũng steps out and knocks only the empty chair aside, his men staying near their cars. 2.5–6.5s: Dũng steps out, knocks one empty chair aside, asks after his men, timed naturally with the spoken delivery and active eyeline. 6.5–10.0s: Follow through with natural body weight and breathing (the chair disturbance is quick and singular; let its awkward resting position persist as a problem someone must answer), holding into chair on its side, Bảy behind the counter through 10.0s without freezing.
+Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
+Action rhythm: The chair disturbance is quick and singular; let its awkward resting position persist as a problem someone must answer.
 
-[START FRAME — state only, not an action to repeat]
-Two black cars stopping outside the coffee stall.
+[HIGH-SPEED VEHICLE ACTION — VEHICLE_CHASE]
+Preserve locked vehicle/vessel identity, paint finish, body silhouette, wheels/hull and driver/pilot position. Wheels rotate in the exact forward direction matching travel velocity with realistic road parallax, suspension kinematics, tire friction, inertia, grip and steering angle. Co-directional vehicles keep consistent forward direction along the established axis. Never flip the 180-degree camera axis or slide sideways unmotivated.
+
+[BLOCKING AND PERFORMANCE]
+Blocking: Dũng steps out and knocks only the empty chair aside, his men staying near their cars.
+Performance: He expects the place to yield before he speaks; Bảy remains in place without exaggerated fearless posturing (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
+
 
 [CAMERA — Shot Size, Lens (24/35/50/85mm), Shutter, Movement & Continuity]
 - Lens & Shot Type: Wide Establishing / Master Shot (W) — 24mm/35mm prime lens (24mm for expansive coastal/harbour geography; 35mm for architectural wide masters), 24 fps, deep spatial field (f/5.6), eye-level horizontal axis. Anchor full-body blocking, architectural boundaries and 180-degree screen direction within the fixed scene space. Shutter: 180-degree default cinema shutter (24 fps) for natural motion cadence and grounded dramatic pacing.
@@ -36,19 +42,27 @@ Two black cars stopping outside the coffee stall.
 - Optical Focus & Depth of Field: Keep the chair's path and standing bodies readable, avoiding a low-angle glorification of his size.
 - Camera Stability & Continuity Contract: Continuity & Axis Lock: Lock character positions, props, eyelines and 180-degree movement axis across the single 10-second camera setup; never cut, whip-pan or reset framing inside the clip.
 
-[ACTION — 0–10s, one clear primary action in a continuous take]
-0.0–2.5s: From the starting position (Two black cars stopping outside the coffee stall), initiate the movement cleanly without hesitation. 2.5–6.5s: Dũng steps out, knocks one empty chair aside, asks after his men (performed once in real time without repeating the opening step). 6.5–10.0s: He expects the place to yield before he speaks; Bảy remains in place without exaggerated fearless posturing, settling into the end state (Chair on its side, Bảy behind the counter) as dusty tires, scuffed chair legs and ordinary seafront light preserve the modest scale of the intrusion.
-Single primary action rule: Execute ONE clear primary physical action from start state to end state with natural real-time weight, subtle breathing and zero repeated gestures.
-Action rhythm: The chair disturbance is quick and singular; let its awkward resting position persist as a problem someone must answer.
+[PROPS]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 18 (Clip 1–6)]
+FIXED SCENE 18 OBJECTS (Clip 1–6): (1) Plastic chair knocked aside and set upright at the stall edge; (2) Ông Bảy's wooden counter, coffee glasses, and wiping cloth (COFFEE_TRAY); (3) Long remaining section of Hạ's torn pale-blue silk scarf (SCARF_REMAINDER) laid on the counter; (4) Dũng's black canvas shoulder work bag (TOOL_BAG) and mobile phone; (5) Mây's duty pouch and Thành's clipboard.
+Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 18; never spawn, morph or introduce any unstated objects or background clutter.
+Reference only; enact only the current ACTION, not a future handover.
+- Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
+- Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
+- Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
 
-[BLOCKING AND PERFORMANCE]
-Blocking: Dũng steps out and knocks only the empty chair aside, his men staying near their cars.
-Performance: He expects the place to yield before he speaks; Bảy remains in place without exaggerated fearless posturing (Acting discipline: Micro-expression, subtle breathing, natural eye movement; three-layer progression from guarded reaction -> controlled breath -> settled resolve. No exaggerated sadness, no theatrical frown, no forced hero pose.)
+[VISIBLE TEXTURE]
+Dusty tires, scuffed chair legs and ordinary seafront light preserve the modest scale of the intrusion.
 
+
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial morphing during head turns or rapid movement. Eyes track the stated target with natural blinking. Every hand keeps five natural fingers and grips carried props with realistic weight, inertia and momentum; no teleportation, no sudden position resets, and no extra unscripted characters.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (VEHICLE_CHASE): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -68,28 +82,23 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE — Voice Profile, Timing (15–30 words/10s), Vocal Tone & Lip-Sync]
-Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, 1.25x normal Southern Vietnamese conversational speaking speed (125%)).
-Lip-Sync & Voice Control: Visible speaker (nói trong hình) delivers the line at a natural 1.25x conversational speaking speed (125%) with accurate Vietnamese lip-sync and subtle facial expression; listener keeps their mouth closed and reacts naturally.
+Delivery & Timing: 0.3–7.4s, one natural, well-articulated spoken line (27 Vietnamese words — calibrated within the 15–30 words / 10s natural pacing window, adaptive 1.5x (150%) [fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery] on top of the 1.25x normal Southern Vietnamese conversational speaking speed (125%) baseline).
+Lip-Sync & Voice Control: Speaker inside or aboard the moving vehicle (nói trong hình) delivers the line at adaptive 1.5x (150%) speaking speed (baseline 1.25x conversational rule); from this wide exterior vehicle angle prioritize natural driver posture and head sync without forcing a close-up mouth zoom.
 Dũng (@Dũng), nói trong hình [0.3–7.4s | giọng nam gằn hung hăng, hất hàm hỏi dồn giữa quán nước]: Sáng ngày thứ tư tao đích thân xuống Hòn Sóng rồi đây ông già! Hai thằng đàn em tao gửi xuống hôm qua nằm đâu, nói mau!
 Spoken Audio Rule: Only the Vietnamese words after the final colon (:) are spoken aloud. Never read names, @tags, timestamps or bracketed vocal notes. No captions.
-
-[PROPS]
-[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định từ đầu tới cuối Cảnh 18 (Clip 1–6)]
-FIXED SCENE 18 OBJECTS (Clip 1–6): (1) Plastic chair knocked aside and set upright at the stall edge; (2) Ông Bảy's wooden counter, coffee glasses, and wiping cloth (COFFEE_TRAY); (3) Long remaining section of Hạ's torn pale-blue silk scarf (SCARF_REMAINDER) laid on the counter; (4) Dũng's black canvas shoulder work bag (TOOL_BAG) and mobile phone; (5) Mây's duty pouch and Thành's clipboard.
-Strict object rule: Revolve camera framing and character actions strictly around these fixed objects present from Clip 1 to Clip 6 of Scene 18; never spawn, morph or introduce any unstated objects or background clutter.
-Reference only; enact only the current ACTION, not a future handover.
-- Long remaining section of the SAME scarf, matching torn edge; given by Dũng to Mây, returned to Hạ at 52.5.
-- Dũng's heavy black canvas shoulder work bag strapped across his torso, used to carry field restraint gear and the Tê applicator.
-- Ông Bảy's traditional Vietnamese iced-coffee glasses, metal phin filter, checkered wiping towel and plastic fish-market crate/tray.
-
-[VISIBLE TEXTURE]
-Dusty tires, scuffed chair legs and ordinary seafront light preserve the modest scale of the intrusion.
-
 
 [SOUND]
 Continuous ambience bed: distant motorcycles and muted market voices.
 Foreground motivated sound: A dry chair scrape briefly interrupts traffic and awning sounds, then his question takes the foreground.
+Scene sound profile (VEHICLE_CHASE): Prioritize engine RPM, gearshifts, tire friction on wet coastal asphalt or boat hull spray, suspension load and wind rush synchronized with vehicle speed.
 Audio discipline: Continuous ambience, clean forward Vietnamese dialogue, and strictly cause-driven diegetic sound effects (every effect has a visible physical source; no generated music score, stock sting or unmotivated effect). Edit bridge: Follow the stated incoming/outgoing edit without restarting the ambience.
+
+[EDIT IN — do not render the previous shot again]
+Previous editorial shot: 17.6, ending with Protection roster on the desk, Thành acknowledging his post.
+Scene-opening editorial cut to the explicitly stated new time/place. Establish the new composition and dramatic stakes from 0.0s with purposeful action and natural dialogue at 0.3s.
+
+[START FRAME — state only, not an action to repeat]
+Two black cars stopping outside the coffee stall.
 
 [END FRAME — lock position, props, eyeline & movement axis]
 Chair on its side, Bảy behind the counter.
@@ -97,4 +106,4 @@ Continuity lock: Hold final character position, prop placement, eyeline directio
 Next shot 18.2: Cắt dựng đúng vị trí/ánh nhìn. Do not perform its action inside this clip.
 
 [AVOID]
-spawning or morphing unstated objects outside the fixed scene inventory, shifting room/street geometry between clips of the same scene, repeated action or line from adjacent clips, rushed or unnatural speech speed, dead air pauses, frozen tail frames, premature scene change, arbitrary slow motion or speed ramps, identity/age/costume drift, extra watches or scarves, wrong prop owner, reversed movement axis, readable text, generated captions, logos, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.
+No identity drift, facial morphing or costume changes; no impossible body mechanics, floating objects or extra/fused fingers; no frozen movement, dead air pauses or repeated actions/lines from adjacent clips; no incorrect vehicle direction or wheel rotation; no camera-axis reversal, shifting room/street geometry or unintended cuts; no inaccurate lip-sync, rushed/clipped speech or extra dialogue; no subtitles, watermarks, logos or readable text overlays; no reference portrait flashes or studio backdrops; no unnecessary slow motion, speed ramps, extra watches/scarves, wrong prop owner, real actor likeness, graphic injury, blood, gunfire or instructional drug-use detail.

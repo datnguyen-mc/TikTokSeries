@@ -1,5 +1,5 @@
 [FORMAT]
-Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: ESTABLISHING_WIDE): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
+Cinematic Vietnamese martial arts and high-velocity street-racing action sequence, 10 seconds, full-frame 16:9, 24 fps, photorealistic live-action undercover mystery drama, restrained naturalistic acting with micro-expressions, subtle breathing and natural eye movement, natural skin texture, subtle film grain. Natural 180-degree shutter. Scene category: ESTABLISHING | Adaptive voice speed: 1.5x (150%). Grade: deep asphalt shadows, crisp neon and sodium street highlights, realistic lighting, natural skin tones, authentic Vietnamese action cinema; no artificial lens flare or beauty smoothing. Clean athletic precision, all movements are simulated stunt choreography. In a single continuous shot from 0.0s to 10.0s (Omni workflow: ingredients, shot type: ESTABLISHING_WIDE): ONE camera setup and ONE real story location throughout the entire clip. No scene cuts, no hard cuts, no montage, no recap, no closing fade, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. Spoken dialogue is Vietnamese with a natural Southern accent and accurate lip-sync; spoken lines follow a colon and are only spoken aloud, never shown as text.
 Clean cinematic frame, never TV footage: no TV channel or broadcaster logo in any corner, no watermark, news ticker, lower-third, LIVE/REC badge, timestamp or other on-screen graphics. Screens and phones in the story never show a TV channel, news programme or broadcaster branding; story emblems stay simple unreadable shapes; handwriting, printed pages, signatures and screens in the story stay unreadable at this distance.
 
 [CHARACTERS — approved identities and current appearances]
@@ -11,7 +11,7 @@ Keep exact approved appearance for NESE_T, NYTRAN, CELA with surrounding props (
 
 
 [TIMELINE AND LOCATION]
-Scene 26/40, clip 1/6; shot 26.1. Story time: D4 dawn.
+Scene 26/40, clip 1/6; shot 26.1. Story time: D4 dawn. Scene classification: ESTABLISHING.
 Courtyard and living hall of Ny Tran's gated Little Saigon residence at dawn: wrought-iron front gates, stone driveway, modern living room with leather sofas and silk wall panels.
 Architecture & road geometry: walled Little Saigon courtyard residence with wrought-iron front gates and stone driveway; wide cobbled circular driveway in front of the main veranda.
 Surrounding objects & landmarks: black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates; tall cypress hedges and modern concrete portico.
@@ -25,18 +25,6 @@ Scene goal: Bị khóa tay dẫn ra sân, Ny Tran bất ngờ nhìn xuyên qua c
 Bị khóa tay dẫn ra sân, Ny Tran bất ngờ nhìn xuyên qua cửa kính xe chỉ huy thấy mặt Tom đang đứng phía sau và gào lên thề sẽ đáp trả tới cùng. (Shot 26.1 — ESTABLISHING_WIDE via wide 35mm lens).
 
 
-[CONTINUITY AT 0.0s — single uncut shot]
-Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
-
-[OPENING COMPOSITION AT 0.0s — START_STATE]
-In NYTRAN_MANSION during D4 dawn (shot 26.1 opening): Sergeant Nese escorting Ny Tran and Cela down the veranda steps onto the stone driveway of NYTRAN_MANSION near the command SUV.
-
-[CAMERA]
-35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
-One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
-Composition: Using a wide 35mm eye-level cinematic camera setup, frame Nese and Ny Tran with Encrypted LAPD Tactical Radio Handset, surrounded by black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates.
-Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, keeping tall cypress hedges and modern concrete portico readable in the background depth.
-
 [ACTION — 0–10s, one evolving take]
 Beat 1 (0.0–2.8s): Nese guides Ny Tran and Cela toward the gravel holding area beside the black command SUV. Beat 2 (2.8–7.4s): Nese extends his left arm to halt the escort two meters from the SUV and gestures to the gravel holding spot while ordering the officers to hold both men there. Beat 3 (7.4–10.0s): Ny Tran and Cela stop two meters from the SUV's side doors.
 Play each beat once, in order, from 0.0s to 10.0s as one seamless, fluid physical motion curve where Beat 1 flows directly into Beat 2 while speaking and settles naturally through Beat 3; no gesture is repeated, movement never freezes to deliver dialogue, and there is no quiet pause. Any physical confrontation or stunt uses fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking and realistic physical reactions; if a performer loses balance, they land safely onto padded flooring outside the camera's view. Clean athletic precision, all movements are simulated stunt choreography. Breathing and existing environmental motion continue naturally through 10.0s.
@@ -47,6 +35,21 @@ Blocking: Preserve left-to-right 180-degree spatial continuity inside NYTRAN_MAN
 Performance: Nese delivers the line with seasoned command gravitas, weathered observant eyes, grounded stance, and measured Southern Vietnamese diction, while Ny Tran maintains active eyeline engagement, subtle listening posture, and natural closed-lip facial reaction.
 
 
+[CAMERA]
+35mm wide shot at human eye level on a fluid-damped head, subject already in smooth motion at 0.0s. Preserve readable geography, natural weight transfer, and left-to-right screen direction.
+One new coverage angle on the established side of the axis; positions, eyelines, prop hands and movement direction stay consistent with the story so far. Never cut internally.
+Composition: Using a wide 35mm eye-level cinematic camera setup, frame Nese and Ny Tran with Encrypted LAPD Tactical Radio Handset, surrounded by black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates.
+Focus: Keep tack-sharp focus on Nese's eyes, lip-sync articulation, and hand-and-body follow-through with Encrypted LAPD Tactical Radio Handset, keeping tall cypress hedges and modern concrete portico readable in the background depth.
+
+[PROPS]
+Reference only; enact only the current ACTION, not a future handover.
+- Tom's concealed LAPD encrypted tactical radio handset used for emergency medevac coordination. [OBJECT_LOCK POLICE_RADIO: matte-black heavy-duty encrypted tactical transceiver with stub antenna and coiled speaker mic; state=intact established state]
+- Surrounding environment objects in NYTRAN_MANSION: black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates (landmarks: tall cypress hedges and modern concrete portico).
+
+[VISIBLE TEXTURE]
+Dew-damp morning cobblestones, forged black wrought-iron gate bars, carved stone veranda columns, dark-tinted SUV window glass, tactical vest fabric, and natural skin pores.
+
+
 [BODY, MOUTH AND FACE STANDARD]
 Human physics, fluid body follow-through & face lock: continuous natural weight transfer across the feet and hips, uninterrupted upper-body and hand follow-through while speaking (never freeze physical movement to deliver dialogue), natural balance and breathing through 10.0s; every visible named face stays faithful to its approved reference throughout the shot (eye shape, nose bridge, jawline, hair, and facial features stable while turning); natural blinks and matched eyelines, no fixed stare. Hand & object mechanics: to pick up or handle an object a character reaches with a smooth arm arc, closes five natural fingers around its real weight, and carries its momentum cleanly in the established hand; objects never float, teleport, duplicate, or pass through hands; in a hand-over both hands stay visible until the receiver's fingers close; feet never slide on the ground. Action & martial arts stunt choreography rule: Professional stunt performers execute a tightly choreographed martial arts and action sequence with unbroken kinematic flow from 0.0s to 10.0s. Fast defensive movements, precise dodges, controlled footwork, dramatic camera tracking, and realistic physical reactions blend seamlessly across beats without mid-shot pauses. When a performer loses balance, they land safely onto padded flooring outside the camera's view. Intense action-film atmosphere, realistic lighting, fluid handheld or gimbal cinematography, authentic Vietnamese action cinema. Clean athletic precision, all movements are simulated stunt choreography. Environmental physics: shadows, reflections, wind slipstream, tire smoke, dust plumes, and heat shimmer respond smoothly and physically to vehicle speed and light direction through the final frame at 10.0s.
 Body mechanics: to pick something up from low down a person bends at the knees and hips with a visible reach, closes the stated hand fully around it and lifts its real weight; objects never float, slide into a hand by themselves or pass through fingers; when no hand is named the free hand acts and every carried prop stays in its established hand; in a hand-over both hands stay visible until the receiver's fingers close; feet never slide; every hand keeps five natural fingers.
@@ -54,8 +57,10 @@ Mouth map: 2.8–7.4s only Nese's lips move, shaping each Vietnamese syllable in
 Face and eyes: every visible named face stays faithful to its reference throughout the shot (eye shape and spacing, eyelids, nose bridge and tip, lips, jaw, ears) and stays stable while turning or moving; identity marks stay exactly in place; natural blinks every few seconds, both eyes together on the stated eyeline, no fixed gaze, no rolling or crossed eyes, tears only when written; natural skin pores and a subtle chest and nostril movement with each breath. Never flash or cut to the standalone studio reference portrait sheet.
 
 [GLOBAL VOICE SPEED RULE — 1.25x]
+All spoken Vietnamese dialogue and narration must be delivered at 1.25x normal conversational speed, maintaining natural Southern Vietnamese pronunciation, clear articulation, expressive intonation and accurate visible lip synchronization. Preserve the original character voice identity, pitch, emotion and personality. Do not artificially pitch-shift, swallow syllables or clip words.
 All spoken Vietnamese dialogue must be delivered at
 1.25x normal conversational speaking speed (125%).
+Adaptive Shot Voice Speed (ESTABLISHING): 1.5x (150%) — fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery.
 
 Maintain a natural Southern Vietnamese accent,
 clear articulation, expressive intonation, and
@@ -75,23 +80,21 @@ Continue natural breathing, facial expressions,
 and physical actions after the line finishes.
 
 [DIALOGUE]
-Each line is timed to its ACTION beat: speak it only inside its own seconds window, at a natural 1.25x Southern Vietnamese conversational speaking speed (125%) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
+Each line is timed to its ACTION beat: speak it only inside its own seconds window, at adaptive 1.5x (150%) Southern Vietnamese speaking speed (fast high-tension action pacing (1.5x / 150%) — urgent, decisive, high-stakes Southern Vietnamese delivery; baseline 1.25x conversational rule) with clear diction, while that beat's movement happens; lines never overlap and the picture never waits for speech.
 2.8–7.4s · Nese (@Nese) says on screen, in the measured, seasoned Southern Vietnamese male voice: Giữ hai người đứng cạnh xe chỉ huy, chờ kết quả đối chiếu hàng từ kho sau!
 Only words after the final colon are spoken. Never read names, tags or directions. No captions.
-
-[PROPS]
-Reference only; enact only the current ACTION, not a future handover.
-- Tom's concealed LAPD encrypted tactical radio handset used for emergency medevac coordination. [OBJECT_LOCK POLICE_RADIO: matte-black heavy-duty encrypted tactical transceiver with stub antenna and coiled speaker mic; state=intact established state]
-- Surrounding environment objects in NYTRAN_MANSION: black unmarked command SUV with dark-tinted glass parked near the gate, stone veranda steps and columns, tall wrought-iron entrance gates (landmarks: tall cypress hedges and modern concrete portico).
-
-[VISIBLE TEXTURE]
-Dew-damp morning cobblestones, forged black wrought-iron gate bars, carved stone veranda columns, dark-tinted SUV window glass, tactical vest fabric, and natural skin pores.
-
 
 [SOUND]
 Location bed: tactical boots on stone, helicopter blades high overhead and rustling papers.
 Foreground sound: PRIORITY DIEGETIC SFX: crisp tactical prop contact, footsteps, and authentic room acoustics, clean mechanical contact, and natural breathing layered clearly beneath Nese's Southern Vietnamese dialogue.
+Scene sound profile (ESTABLISHING): Prioritize clean, forward-mixed Southern Vietnamese dialogue over a balanced, realistic environmental ambience bed that never masks vocal clarity.
 SOUND EFFECTS PRIORITY: High-impact diegetic sound effects — especially roaring engine RPM, turbocharger/supercharger induction, mechanical gearshifts, exhaust resonance, and spinning tire-on-asphalt traction — are always prioritized with visceral cinematic clarity alongside clean, forward-mixed dialogue; every sound effect matches its visible on-screen source from 0.0s through 10.0s. No generated music score or non-diegetic stock sting.
+
+[CONTINUITY AT 0.0s — single uncut shot]
+Begin directly at 0.0s in the stated time and place with the composition, lighting and fluid physical movement already under way from the very first frame; no intro card, no reference portrait flash, and no transition effect.
+
+[OPENING COMPOSITION AT 0.0s — START_STATE]
+In NYTRAN_MANSION during D4 dawn (shot 26.1 opening): Sergeant Nese escorting Ny Tran and Cela down the veranda steps onto the stone driveway of NYTRAN_MANSION near the command SUV.
 
 [FINAL COMPOSITION AT 10.0s — END_STATE]
 In NYTRAN_MANSION at 10.0s of shot 26.1: Nese standing with Ny Tran and Cela beside the command SUV in the courtyard of NYTRAN_MANSION.

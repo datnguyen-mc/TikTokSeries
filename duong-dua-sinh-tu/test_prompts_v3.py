@@ -84,7 +84,7 @@ class FilmContinuityTests(unittest.TestCase):
             )
             for field in film.DETAIL_FIELDS:
                 self.assertIn(c['cinematic'][field], prompt, (c['id'], field))
-            dialogue = prompt.split('[DIALOGUE]\n', 1)[1].split('\n[PROPS]', 1)[0]
+            dialogue = prompt.split('[DIALOGUE]\n', 1)[1].split('\n[SOUND]', 1)[0]
             self.assertNotIn(c['cinematic']['intent'], dialogue, c['id'])
         guide = film.render_beatmap(self.plan)
         for s in self.plan['scenes']:
@@ -402,6 +402,44 @@ class FilmContinuityTests(unittest.TestCase):
             self.assertIn(env['terrain_landmarks'], c['cinematic']['focus'], cid)
             if loc_id == 'TOTO_BACKYARD':
                 self.assertNotIn('WRENCH_KIT', c['props'], cid)
+
+    def test_smart_voice_speed_scene_classification_and_priority_order(self):
+        valid_cats = {'FIGHT_ACTION', 'VEHICLE_RACE', 'VEHICLE_CHASE', 'DIALOGUE', 'EMOTIONAL_DRAMA', 'ESTABLISHING', 'TRANSITION', 'OTHER'}
+        valid_speeds = {'1.0x', '1.25x', '1.5x', '2.0x'}
+        seen_speeds = set()
+        for i, c in enumerate(self.shots):
+            cid = c['id']
+            cat = c.get('scene_category')
+            spd = c.get('voice_speed')
+            self.assertIn(cat, valid_cats, cid)
+            self.assertIn(spd, valid_speeds, cid)
+            seen_speeds.add(spd)
+            text = film.render_prompt(
+                self.plan, c, self.shots[i - 1] if i else None, self.shots[i + 1] if i < 239 else None
+            )
+            self.assertIn(f"Adaptive Shot Voice Speed ({cat}): {spd}", text, cid)
+            self.assertEqual('[CINEMATIC MARTIAL ARTS & FIGHT CHOREOGRAPHY — FIGHT_ACTION]' in text, cat == 'FIGHT_ACTION', cid)
+            if cat == 'FIGHT_ACTION':
+                self.assertIn('Attack → Defense → Contact/Reversal → Reaction → Recovery', text, cid)
+            # Verify 8-stage Model Interpretation Priority ordering
+            headers = [
+                '[CHARACTERS — approved identities and current appearances]',
+                '[TIMELINE AND LOCATION]',
+                '[ACTION — 0–10s, one evolving take]',
+                '[CAMERA]',
+                '[PROPS]',
+                '[BODY, MOUTH AND FACE STANDARD]',
+                '[GLOBAL VOICE SPEED RULE — 1.25x]',
+                '[DIALOGUE]',
+                '[SOUND]',
+                '[CONTINUITY AT 0.0s — single uncut shot]',
+                '[OPENING COMPOSITION AT 0.0s — START_STATE]',
+                '[FINAL COMPOSITION AT 10.0s — END_STATE]',
+                '[AVOID]',
+            ]
+            positions = [text.index(h) for h in headers]
+            self.assertEqual(positions, sorted(positions), f"{cid}: section priority order violated")
+        self.assertEqual(seen_speeds, valid_speeds)
 
 
 if __name__ == '__main__':

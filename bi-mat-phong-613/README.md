@@ -1,10 +1,10 @@
-# Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm — Phim Ngắn Tâm Lý Bí Ẩn (15 Cảnh × 6 Clips × 10s = 90 Clips | Google Flow Omni 10s (omni_flash))
+# Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm — Phim Ngắn Tâm Lý Bí Ẩn (15 Cảnh × 6 Clips × 8s = 90 Clips | Veo 3.1 Lite + Video Extend)
 
-Dự án phim ngắn (**15 Cảnh × 6 Clips × 10 giây = 90 Prompts = 900 giây (15 phút)**, chuẩn khung hình điện ảnh **16:9 24fps**, sử dụng model **`veo-lite` (`omni_flash`)** kết hợp **Extend Video / nối chuỗi khung hình cuối liền mạch từ Clip 1 đến Clip 6 mỗi cảnh**) được xây dựng từ việc phân tích chuyên sâu bộ phim ngắn triệu view **[Phim ngắn 613 | CFilm Shorts](https://www.youtube.com/watch?v=507rDK3xPcM)** (Đạo diễn Dinh Gốc, Biên kịch Nhật Khoa, DOP Sơn Thái Phạm — 14 phút 34 giây, ~1,78 triệu lượt xem), đồng thời **nâng cấp toàn diện kịch bản, giải quyết triệt để các điểm hạn chế được khán giả góp ý** và **chuẩn hóa 100% theo tiêu chuẩn an toàn & liên tục của Google Flow (`omni_flash` 8s)**.
+Dự án phim ngắn (**15 Cảnh × 6 Clips × 10 giây = 90 Prompts = 900 giây (15 phút)**, chuẩn khung hình điện ảnh **16:9 24fps**, sử dụng model **`omni_flash` (Google Flow Omni 10s Ingredients R2V)** kết hợp **Extend Video / nối chuỗi khung hình cuối liền mạch từ Clip 1 đến Clip 6 mỗi cảnh**) được xây dựng từ việc phân tích chuyên sâu bộ phim ngắn triệu view **[Phim ngắn 613 | CFilm Shorts](https://www.youtube.com/watch?v=507rDK3xPcM)** (Đạo diễn Dinh Gốc, Biên kịch Nhật Khoa, DOP Sơn Thái Phạm — 14 phút 34 giây, ~1,78 triệu lượt xem), đồng thời **nâng cấp toàn diện kịch bản, giải quyết triệt để các điểm hạn chế được khán giả góp ý** và **chuẩn hóa 100% theo tiêu chuẩn an toàn & liên tục của Google Flow (`omni_flash` 10s)**.
 
 - [Kịch bản chi tiết 15 Cảnh (90 Clips × 10s)](KICH_BAN_15_PHUT.md)
 - [Khóa Nhân vật, Bối cảnh & Đạo cụ trên Google Flow](FLOW_PROMPTS.md)
-- [Runner tự động hóa FlowKit (`omni_flash` 8s + Video Extend)](../flowkit/runners/bi_mat_phong_613.py)
+- [Runner tự động hóa FlowKit (`omni_flash` 10s + Video Extend)](../flowkit/runners/bi_mat_phong_613.py)
 
 ---
 
@@ -15,7 +15,7 @@ Dự án phim ngắn (**15 Cảnh × 6 Clips × 10 giây = 90 Prompts = 900 giâ
 - **Kênh phát hành:** CL Film (`@clfilm.celebgroup` — Celeb Network)
 - **Thời lượng gốc:** `874 giây` (**14 phút 34 giây**, bao gồm ~13 phút 55 giây nội dung chính + ~39 giây credit & hậu trường).
 - **Tỷ lệ khung hình:** `16:9` Widescreen (`1280×720` / `1920×1080`).
-- **Model & Cấu hình Render Phim Mới:** `omni_flash` (`model_family="veo"`, **10 giây/clip**), Clip 1 tạo Start Frame khóa nhân vật bằng `nano_banana_pro` + `omni_flash`, Clip 2–6 **Extend Video** liên hoàn từ frame cuối của clip trước.
+- **Model & Cấu hình Render Phim Mới:** `veo_3_1_i2v_lite` (`model_family="veo"`, **8 giây/clip**), Clip 1 tạo Start Frame khóa nhân vật bằng `nano_banana_pro` + `veo_3_1_i2v_lite`, Clip 2–6 **Extend Video** liên hoàn từ frame cuối của clip trước.
 - **Tông màu chủ đạo (Color Palette):** Xanh ngọc / xanh rêu trầm của chung cư cũ (`Institutional Jade/Cyan Green`) đối lập với sắc cam/đỏ ấm của lửa vàng mã, nhang, ly nến đỏ và đèn thờ (`Warm Amber & Altar Crimson`).
 - **Dàn nhân vật tối giản (4 nhân vật):**
   1. **Phương** (Choco Trúc Phương): Cô bạn yếu bóng vía, tin tâm linh, nhạy cảm, hay cúng kiếng và cầu khấn.
@@ -55,11 +55,11 @@ Dự án phim ngắn (**15 Cảnh × 6 Clips × 10 giây = 90 Prompts = 900 giâ
 - **3 Điểm yếu lớn khán giả phàn nàn nhiều nhất (đã được khắc phục triệt để trong bản phim mới của chúng ta):**
   1. *Cốt truyện và cú twist cuối quá mơ hồ:* Rất nhiều khán giả bình luận *"Coi xong không hiểu rốt cuộc 2 con ma muốn gì, tại sao ông bảo vệ lại xúi đốt bùa"*. -> **Giải pháp của chúng ta:** Xây dựng đường dây điều tra rõ ràng qua **chiếc hộp sắt trong tủ gỗ** và **cuốn sổ nhật ký vụ cháy ngày 03/11/2016**, giúp người xem hiểu rõ 100% động cơ của Linh (bảo vệ bằng chứng và cứu hai cô gái) và Ông Bảy (muốn mượn tay hai cô đốt sạch bằng chứng tội lỗi năm xưa).
   2. *Lỗi rắc-co ánh sáng (Continuity error):* Khán giả chỉ ra *"Sạn ngay khúc Trinh đi phơi đồ trời tối, chuyển cảnh lên cầu thang lại là trời sáng"*. -> **Giải pháp của chúng ta:** Khóa chặt `FIXED SCENE SPATIAL & LIGHTING LOCK` xuyên suốt Cảnh 06–08 ở trạng thái đêm trăng rằm + cúp điện + ánh nến đỏ.
-  3. *Cảnh bóp cổ cuối phim vừa giả vừa dễ vi phạm chính sách AI:* -> **Giải pháp của chúng ta:** Thay thế hoàn toàn bạo lực vật lý bằng **kịch tính tâm lý điện ảnh** (Ông Bảy khóa trái cửa sắt từ bên ngoài định nhốt hai cô gái như năm 2016, và Linh xuất hiện ở đầu hành lang làm bung ổ khóa sắt giải cứu hai cô), vừa sâu sắc giàu cảm xúc vừa **100% vượt qua bộ lọc an toàn của Google Flow / Google Flow Omni**.
+  3. *Cảnh bóp cổ cuối phim vừa giả vừa dễ vi phạm chính sách AI:* -> **Giải pháp của chúng ta:** Thay thế hoàn toàn bạo lực vật lý bằng **kịch tính tâm lý điện ảnh** (Ông Bảy khóa trái cửa sắt từ bên ngoài định nhốt hai cô gái như năm 2016, và Linh xuất hiện ở đầu hành lang làm bung ổ khóa sắt giải cứu hai cô), vừa sâu sắc giàu cảm xúc vừa **100% vượt qua bộ lọc an toàn của Google Flow / Veo 3.1 Lite**.
 
 ---
 
-## PHẦN 2: CẤU TRÚC PHIM "BÍ MẬT PHÒNG 613: LỜI CẢNH BÁO ĐÊM RẰM" (15 CẢNH × 6 CLIPS × 8S = 90 CLIPS)
+## PHẦN 2: CẤU TRÚC PHIM "BÍ MẬT PHÒNG 613: LỜI CẢNH BÁO ĐÊM RẰM" (15 CẢNH × 6 CLIPS × 10S = 90 CLIPS)
 
 | Hồi | Cảnh | Thời Lượng | Tựa Cảnh | Nội Dung Trọng Tâm |
 |---|---|---|---|---|

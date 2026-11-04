@@ -6,6 +6,17 @@
 
 **Thế giới:** Miền Tây Nam Bộ (Bến Tre – Cái Mơn) năm 1970. Cả nhà Mit – Đú – Nở là **chó nhân hóa 3D đi đứng bằng hai chân (bipedal)**, **bàn tay dạng chân thú phủ lông với đúng 4 ngón (four-fingered furry paw-hands)**, **tai mềm và rủ xuống tự nhiên (soft floppy ears hanging down — tuyệt đối không chuyển thành tai nhọn dựng đứng)**, không có con người và không có chó bốn chân. Tông màu hoài cổ ấm áp (vàng mật ong, xanh lúa, nâu đất), ánh sáng toàn cục mềm (soft global illumination), vật liệu và lông thú có chiều sâu, hạt film 35mm nhẹ, giọng miền Tây tự nhiên.
 
+
+> **Từ Tập 22: mỗi tập là một tập hài thời sự đặt ở năm 1970** (yêu cầu ngày 04/11/2026: lấy mốc những năm 70 nhưng chủ đề phải là chuyện đang hot hiện tại). Tập 1–21 giữ nguyên.
+> - **Chọn chuyện nóng:** trước khi viết, quét Google Trends VN (RSS) và RSS VnExpress, Dân trí, Tuổi Trẻ; chọn chuyện trong 48 giờ gần nhất mà người xem đang bàn tán (đời sống gia đình, giá cả, lương thưởng, thời tiết, mùa vụ, chuyện lạ có hậu). Ghi nguồn vào README và mục ngày đó trong [TRENDS.md](../TRENDS.md).
+> - **Dịch sang năm 1970:** tìm phiên bản Cái Mơn năm 1970 của chuyện đó (ngân hàng → sổ biên nhận lúa, giá vàng → nhẫn cỏ, chồng ở nhà nội trợ → ba Mit giữ nhà cho má đi bán). Nhân vật **không** nhắc năm 2026, không dùng từ hay đồ vật hiện đại (điện thoại, chuyển khoản, mạng, lương triệu đồng). README có bảng **Chuyện nóng hôm nay → chuyện nhà Mít năm 1970**.
+> - **Món ăn, sản vật đúng mùa thật:** ưu tiên món hoặc sản vật đang vào mùa ở miền Tây đúng thời điểm đăng (ví dụ đầu tháng 11 là mùa nước nổi: cá linh, bông điên điển), công thức có nguồn.
+> - **Hài tối thiểu mỗi tập:** (1) một câu cửa miệng lặp 2–3 lần rồi bị lật ở cuối (ví dụ ba Mit: "dễ ợt!"); (2) ít nhất một gag hình thể không thoại (lửa bùng dính lọ nghẹ, mặt nhăn, trượt bùn); (3) câu chốt hoặc twist của bé Nở. Tông vẫn ấm áp: cười với nhân vật, không chê bai ai, kết bằng tình thương gia đình.
+> - **Thoại:** câu ngắn khẩu ngữ miền Tây, mỗi clip tối đa khoảng 31 âm tiết, mỗi mốc giây một câu, không quá 4,5 âm tiết/giây (Tập 20–21 có câu hơn 40 âm tiết trong 4 giây, không lặp lại).
+> - **Cầu nối với hôm nay** chỉ nằm ở `caption.md`: mục **📌 Chuyện hôm nay** (tóm tắt tin, ghi tên báo và ngày, không nêu tên người thật) và bình luận ghim là câu hỏi cho người xem.
+> - **Không dùng:** tai nạn, án mạng, thiên tai có thiệt hại, chính trị, chiến tranh, người nổi tiếng hay người thật, thương hiệu, xổ số, cờ bạc.
+> - **Bối cảnh liền một mạch:** mọi clip nối frame cuối, nên tập đi bộ liền giữa sân trước và trong nhà tre (hoặc một bối cảnh), không cắt cứng sang nơi khác. Nhân vật mới bước vào clip thì dán FULL LOCK dưới nhãn `[CHARACTER ENTERING THIS SEGMENT]`.
+> - **Đăng trong 24–48 giờ** kể từ ngày tin ra.
 ---
 
 ## Tiêu chuẩn bắt buộc (HIGH-END CINEMATIC 3D ANIMATION STANDARD)
@@ -174,6 +185,7 @@ humans, human faces, human children, human hands, four-legged non-anthropomorphi
 | 19 | Chuối nếp nướng lá chuối & Bài toán chia phần của Nở | Chiều vàng má gói chuối xiêm bọc nếp dẻo trong lá chuối tươi; ba giành quạt mo cau nổ "tay nướng chuối số một Cái Mơn" làm tro bếp bay dính mũi như râu mèo; mở lá chuối có 1 trái hơi xém cạnh, ba vội nhận phần khét nhường 2 trái vàng ươm cho má và Nở; má chan nước cốt dừa đậu phộng đút miếng ngon nhất cho ba; Nở vẽ tranh cả nhà chia đều 3 trái chuối vàng ươm trong tập vở | **Tập vở, hộp bút màu** |
 | 20 | Cá lóc đồng nướng trui rơm & Nhẫn cỏ chỉ vàng của ba Mit | ⚡ Trend giá vàng tăng mạnh & "nắm giữ vàng" (03/11): ba Mit bắt được cá lóc đồng bự về nướng trui rơm; Nở hỏi chuyện ngoài chợ bàn giá vàng tăng, ba Mit bện hai chiếc nhẫn cỏ ống vàng óng đeo vào tay má Đú và bé Nở: "Kho vàng thứ nhứt là má Đú tảo tần, cục vàng thứ hai là Nở ngoan hiền"; cả nhà ăn cá lóc nướng trui rơm mỡ hành và Nở vẽ hai chiếc nhẫn cỏ vào tập | **Tập vở, hộp bút màu** |
 | 21 | Bánh tằm khoai mì lăn dừa nạo & Chuyện giữ khư khư sổ biên nhận lúa | ⚡ Cảm hứng từ vụ giao sổ tiết kiệm/điện thoại cho người khác thao tác giùm (03/11): má Đú se bánh tằm khoai mì 4 màu tự nhiên (lá dứa, nghệ, gấc, trắng) hấp xửng lăn dừa nạo chấm muối mè; ba Mit kể chuyện ông Tư xóm trên nhẹ dạ đưa sổ biên nhận lúa cho người ta giữ giùm bị gạch mất chục giạ lúa; ba cất kỹ sổ lúa vào trắp gỗ khóa chốt đồng, dạy Nở bài học tự tay giữ gìn công sức mồ hôi của gia đình | — |
+| 22 | Ba Mit giữ nhà · Canh chua cá linh bông điên điển & nồi cơm cháy | ⚡ Tập hài thời sự 1970 đầu tiên, từ chuyện ông bố bỏ việc ở nhà nội trợ cho vợ đi làm (Dân trí 04/11): mùa nước nổi, má Đú chèo xuồng đi bán bánh, ba Mit ở nhà; ba nổ "trả giá khéo" mà bị bán mắc gấp đôi, nổ "dễ ợt" ba lần mà cơm trào, canh chua lè, nồi cơm cháy đáy; Nở chỉ ba rút củi ghế cơm, đưa đường nước mắm cứu nồi canh; má về khen ngon, giao bếp luôn; ba thú nhận "việc nhà hổng có dễ ợt"; Nở: "Ba nấu đi, Nở thích cơm cháy!" (60s = 6 clip) | — |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -206,6 +218,7 @@ Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)
 | 19 | [tap-19/](tap-19/README.md) | Chuối nếp nướng lá chuối & Bài toán chia phần của Nở |
 | 20 | [tap-20/](tap-20/README.md) | Cá lóc đồng nướng trui rơm & Nhẫn cỏ chỉ vàng của ba Mit |
 | 21 | [tap-21/](tap-21/README.md) | Bánh tằm khoai mì lăn dừa nạo & Chuyện giữ khư khư sổ biên nhận lúa |
+| 22 | [tap-22/](tap-22/README.md) | Ba Mit giữ nhà · Canh chua cá linh bông điên điển & nồi cơm cháy |
 
 ## Tập 20 (`tap-20`)
 

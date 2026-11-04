@@ -2,25 +2,46 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video · **hình người thật kiểu điện ảnh** (giống 365 Ngày Việt Nam), không phải hoạt hình · **Bắt buộc Search Google** khi cần thiết để kiểm chứng các mốc phát triển của trẻ và mẹo chăm sóc an toàn (theo WHO, CDC, AAP, Bộ Y tế).
+**Định dạng:** **từ Tập 8, mỗi tập 30 giây = 3 clip × 10s** (Tập 1–7 giữ độ dài cũ 40–60s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **hình người thật kiểu điện ảnh** (giống 365 Ngày Việt Nam), không phải hoạt hình · **bắt buộc check hot** trước khi viết (mục Check hot bên dưới) và Search Google để kiểm chứng các mốc phát triển của trẻ và mẹo chăm sóc an toàn (theo WHO, CDC, AAP, Bộ Y tế).
 
 **Thế giới:** Sài Gòn hôm nay. **Ngọc**, cô gái Việt Nam xinh đẹp 27 tuổi, nhận may đồ tại nhà, một mình nuôi cặp song sinh một trai một gái vừa chào đời: **Gạo** (bé trai, ra đời trước, là anh) và **Bông** (bé gái, là em). Chồng Ngọc bỏ đi khi cô vừa sinh và không đoái hoài gì tới hai con; ngày ra viện, gọi hoài anh ta cũng không bắt máy, Ngọc một mình bế hai con về căn phòng trọ tầng trệt trong con hẻm nhỏ (Tập 1). Người chồng **không xuất hiện trên hình** (chỉ có cuộc gọi không ai bắt máy), không có tên; Ngọc buồn, khóc, nhưng không chửi bới, không nói xấu anh ta trước mặt con. Kênh kể chuyện tình mẹ và cách chăm con mỗi tuần. Tên hai bé do Ngọc đặt: Gạo là no đủ, Bông là đẹp xinh.
 
-**Độ dài và cấu trúc (30–60s, tối đa 60 giây):**
+**Độ dài và cấu trúc: 30 giây = 3 clip (từ Tập 8, người dùng yêu cầu 04/11/2026):**
 
-| Số clip | Khi nào | Bố cục |
+| Clip | Giây | Việc của clip |
 | --- | --- | --- |
-| 3 (30s) | Một khoảnh khắc ngắn, một mẹo nhanh trong phòng trọ | 1 Mở & mẹo · 2 Khoảnh khắc thương · 3 Kết ấm |
-| 4 (40s, vừa một chuỗi Extend) | Một bối cảnh, một việc chăm con | 1 Mở · 2 Đồ cho bé và mẹo · 3 Khoảnh khắc thương · 4 Kết ấm |
-| 5 (50s) | Có một khó khăn nhỏ hoặc một bất ngờ | 1 Mở · 2 Đồ cho bé và mẹo · 3 Khó khăn nhỏ · 4 Khoảnh khắc thương · 5 Kết ấm |
-| 6 (60s — tối đa) | Có nhảy thời gian (tối, sáng hôm sau) | 1 Mở · 2–3 Đồ cho bé và mẹo · 4 Khó khăn nhỏ · 5 Khoảnh khắc thương · 6 Kết ấm |
+| 1 | 0–10 | **Hook 0–2 giây** bằng một khoảnh khắc của bé, không thoại (mặt nghiêm như ông cụ non, ngáp thật to, hắt xì, ọ ẹ đòi mẹ); Ngọc vào khung với một câu tự nhiên gây tò mò; món đồ cho bé xuất hiện có lý do (để ở đâu, ai mang tới) |
+| 2 | 10–20 | Món đồ được dùng thật, mẹo thể hiện bằng hình (khoảng cách, tư thế, cất ra ngoài nôi); một chuyện nhỏ làm bật cười (bé kia ganh tị, món đồ "thất bại", bé phản ứng ngược) |
+| 3 | 20–30 | **Cao trào ngay 2–3 giây đầu clip** (nụ cười, bàn tay con nắm ngón tay mẹ, bé nín khóc), Ngọc phản ứng thật rồi mới nói; 2 giây cuối khép vòng: khung cuối lặp lại khung mở đầu của Clip 1, hoặc một ánh mắt, âm thanh mở sang tập sau |
 
-- **Mở (2 giây đầu):** cận bàn tay, bàn chân, cái ngáp của em bé, hoặc một tiếng khóc, cộng một câu thoại gây tò mò.
-- **Đồ cho bé và mẹo:** mỗi tập **một món đồ** dùng thật trong chuyện, kèm **một mẹo đã kiểm chứng** nói trong thoại (cách dùng đúng hoặc lưu ý an toàn) và ghi nguồn trong README. Sản phẩm lên hình chủ yếu trong một clip (khoảng 20% thời lượng). Tên hãng chỉ gắn giỏ hàng TikTok, không nói trong thoại; nhãn trên hình để trống.
+Không thêm clip thứ 4 trừ khi người dùng yêu cầu. Một tập 30 giây chỉ có một chuyện, một món đồ, một cao trào, một bối cảnh liền mạch, không nhảy thời gian. Clip 1 làm bằng Ingredients, Clip 2–3 nối khung cuối clip trước.
+
+**Check hot trước khi viết (bắt buộc từ Tập 8):**
+1. **Đồ hot:** xem bảng Mẹ & Bé của TikTok Shop Việt Nam xếp theo đơn 7 ngày ([FindNiche](https://findniche.com/tiktok/trending-baby-and-maternity-products-vn), dữ liệu cập nhật đầu tháng) và các trang khám phá TikTok, báo, hội nhóm mẹ bỉm (TikTok Creative Center cần đăng nhập, nên đây là nguồn thứ cấp và phải nói rõ như vậy).
+2. **Nội dung hot:** mốc phát triển "đắt" nhất của tuần tuổi (nụ cười đầu tiên, ê a nói chuyện với mẹ, lần đầu ngóc đầu, lật, mọc răng), mùa và dịp (trở lạnh, Tết, Trung thu, 1/6, đợt sale lớn), [Google Trends VN](https://trends.google.com/trending/rss?geo=VN&hl=vi), báo Việt trong 2–4 tuần gần nhất. Dạng video phản ứng của em bé với cha mẹ là dạng dễ lan nhất.
+3. **Lọc trước khi dùng:** chỉ lấy món hoặc chủ đề **đúng tuổi, an toàn theo AAP/CDC/WHO, không thuộc nhóm cấm quảng cáo** (sữa thay thế sữa mẹ, bình bú, núm vú). Món hot mà không an toàn (gối chống bẹp đầu, nôi rung để ngủ, đồ treo trên nôi lúc ngủ, quấn chũn khi bé đã tập lật) thì không quảng cáo; có thể làm tập "đồ hot nhưng mẹ đừng dùng như vầy". Không có món hot nào hợp thì giữ món đúng tuổi và để phần hot nằm ở nội dung.
+4. **Ghi lại:** README tập có dòng **⚡ Vì sao dễ viral** và **Kiểm tra đồ hot** (kết quả, nguồn, ngày kiểm); ghi một mục vào [TRENDS.md](../TRENDS.md).
+
+**Quy tắc viral (từ Tập 8):**
+- **2 giây đầu:** mở giữa khoảnh khắc, không chào, không "Tập X", không giới thiệu món đồ; hình mở đầu phải đủ hút kể cả khi người xem chưa bật tiếng.
+- **Một cao trào cảm xúc** ở khoảng giây 18–25 để người xem ở lại tới cuối; lúc cao trào xảy ra thì im thoại, để tiếng bé và nét mặt Ngọc nói thay.
+- **Vòng lặp:** khung cuối cùng cỡ cảnh, cùng góc với khung đầu (ví dụ Tập 8: mở bằng mặt nghiêm, kết bằng mặt cười) để video tự lặp và người xem xem lại.
+- **Kéo bình luận:** caption và bình luận ghim có một câu hỏi để các mẹ kể chuyện nhà mình ("bé nhà mình … lúc mấy tuần?").
+- **Caption:** dòng đầu là hook khoảng 80 ký tự, nhắc tới giây cao trào; mẹo đã kiểm chứng viết gọn trong caption kèm tên nguồn (không nhồi vào thoại); đúng 5 hashtag (2 rộng, 3 ngách); nhắc bật nhãn AI.
+
+**Thoại tự nhiên như người thật (từ Tập 8):**
+- Ngọc nói như một người mẹ trẻ Sài Gòn đang nói với con ở nhà: câu ngắn 3–8 âm tiết, khẩu ngữ miền Nam (ủa, nè, hông, nghen, ghê, kìa, hả, trời ơi, thôi), trêu con, hỏi con, tự nói với mình. Phản ứng trước, lời sau.
+- **Cấm trong thoại:** câu thuyết minh hay đọc mẹo (kiểu "gần hai tháng tuổi mắt con nhìn rõ hình tương phản cách hai ba chục phân"), số liệu và tên tổ chức (CDC, AAP, số cm, số phút để ở caption và README), tên đầy đủ của món đồ, câu kể khổ dài, câu khẩu hiệu (kiểu "bao nhiêu cực nhọc nhìn nụ cười của con là tan hết").
+- Mỗi clip 1–2 câu, khoảng 10–16 âm tiết (tối đa 20), không quá 4,5 âm tiết mỗi giây; cả tập khoảng 35–50 âm tiết. Thời gian còn lại là tiếng bé, tiếng thở, tiếng cười.
+- **Mẹo đi bằng hình:** Ngọc làm đúng (cầm đồ cách mắt bé 25 cm, cất đồ ra ngoài nôi, đỡ đầu cổ khi bế) chứ không giảng.
+- **Đọc to để thử:** nghe như đang nói với đứa con trước mặt thì giữ; nghe như đọc cho khán giả thì viết lại.
+- Prompt ghi thêm trong [FORMAT]: lời thoại nói như người mẹ thật nói với con ở nhà, không như người dẫn chuyện; [AVOID] có `a narrator voice or voiceover`.
+
+- **Đồ cho bé và mẹo:** mỗi tập **một món đồ** dùng thật trong chuyện, kèm **một mẹo đã kiểm chứng** thể hiện bằng hình và viết trong caption (cách dùng đúng hoặc lưu ý an toàn), có nguồn trong README. Sản phẩm lên hình chủ yếu trong một clip. Tên hãng chỉ gắn giỏ hàng TikTok, không nói trong thoại; nhãn trên hình để trống.
 - **Cảm động mà không bi lụy:** Ngọc buồn vì bị bỏ, mệt vì một mình nuôi hai con, nhưng vững vàng; nước mắt luôn kết bằng một điều ấm (bàn tay con nắm ngón tay mẹ, nụ cười của con). Không kết bằng nước mắt hai tập liền. Không kể khổ để xin thương.
 - **Cảnh nối nhau hợp lý, không nhảy cóc:** mỗi tập đi theo đúng trình tự thời gian và đường đi thật (ví dụ Tập 1: phòng bệnh → hành lang → taxi → hẻm → phòng trọ). Mỗi clip bắt đầu đúng chỗ clip trước dừng; chỉ cắt cảnh khi đổi phương tiện hoặc đổi địa điểm, và dòng đầu [SHOT LIST] nói rõ khoảng thời gian đã trôi qua. Đồ vật nào xuất hiện phải có lý do (ai mang tới, để ở đâu).
-- **Quay như phim điện ảnh:** mỗi prompt có khối `[CAMERA & LIGHT]` (ống kính 35/50/85mm, ánh sáng có nguồn thật như cửa sổ, đèn ngủ, đèn bệnh viện, máy di chuyển chậm, không rung) đặt trước `[SHOT LIST]`. `[SHOT LIST]` chia nhịp 1–2,5 giây, mỗi nhịp ghi cỡ cảnh, ống kính, chuyển động máy (đẩy chậm, chuyển nét, lùi theo), hành động và nét mặt (môi mím, mắt rưng, hàm siết). Cảm xúc đi bằng chi tiết nhỏ: ngón tay ngập ngừng, chiếc ghế thăm bệnh bỏ trống, điện thoại úp xuống sàn, bàn tay con nắm ngón tay mẹ. Thoại vẫn tối đa khoảng 31 âm tiết mỗi clip; prompt dài khoảng 7–8 nghìn ký tự, nếu Flow bỏ sót chi tiết thì thay FULL LOCK bằng SHORT LOCK.
-- **Thoại:** chỉ Ngọc nói (nói với con, ngôi thứ nhất, giọng miền Nam); hai bé chỉ ngáp, ọ ẹ, nấc, khóc. Mỗi clip tối đa khoảng 31 âm tiết, không quá 4,5 âm tiết mỗi giây. Khi Ngọc nói thì máy thấy rõ mặt Ngọc; cận tay hoặc cận sản phẩm đặt ở nhịp không thoại.
+- **Quay như phim điện ảnh:** mỗi prompt có khối `[CAMERA & LIGHT]` (ống kính 35/50/85mm, ánh sáng có nguồn thật như cửa sổ, đèn ngủ, đèn bệnh viện, máy di chuyển chậm, không rung) đặt trước `[SHOT LIST]`. `[SHOT LIST]` chia nhịp 1–2,5 giây, mỗi nhịp ghi cỡ cảnh, ống kính, chuyển động máy (đẩy chậm, chuyển nét, lùi theo), hành động và nét mặt (môi mím, mắt rưng, hàm siết). Cảm xúc đi bằng chi tiết nhỏ: ngón tay ngập ngừng, chiếc ghế thăm bệnh bỏ trống, điện thoại úp xuống sàn, bàn tay con nắm ngón tay mẹ. Prompt dài khoảng 7–9 nghìn ký tự, nếu Flow bỏ sót chi tiết thì thay FULL LOCK bằng SHORT LOCK.
+- **Thoại:** chỉ Ngọc nói (nói với con, ngôi thứ nhất, giọng miền Nam); hai bé chỉ ngáp, ọ ẹ, nấc, khóc, và từ khoảng 2 tháng thì ê a, cười với mẹ. Độ dài và cách nói theo mục **Thoại tự nhiên như người thật** ở trên (Tập 1–7 viết theo giới hạn cũ, tối đa khoảng 31 âm tiết mỗi clip). Khi Ngọc nói thì máy thấy rõ mặt Ngọc; cận tay hoặc cận sản phẩm đặt ở nhịp không thoại.
 
 **Em bé sơ sinh trên hình phải giống thật và thật đáng yêu:** bé vài ngày tuổi chưa ngóc đầu, chưa ngồi, chưa cầm nắm đồ vật, chưa cười đáp lại ai khi thức; mắt nhắm hoặc mở lơ mơ. Bé chỉ có những cử động thật, và đó chính là chỗ dễ thương: ngáp thật to, vươn vai giơ hai nắm tay, hắt xì, nấc cụt, chu môi, nhăn mặt "khó chịu", cười mỉm thoáng qua lúc ngủ (cười phản xạ), giật mình giơ hai tay, đạp chân, nắm chặt ngón tay mẹ, mặt "say sữa" sau cữ bú.
 - **Mỗi tập ít nhất hai khoảnh khắc đáng yêu của hai bé**, đặt ở nhịp không thoại (hook 2 giây đầu, đệm cuối clip, khung thumbnail).
@@ -60,7 +81,7 @@
 - **FULL LOCK** dùng ở Clip 1 và ở mọi clip mở lại bằng Ingredients (cắt cảnh, nhảy thời gian).
 - **SHORT LOCK** dùng ở clip làm bằng Frames hoặc Extend.
 - Các khóa đã chèn sẵn vào từng prompt, giống nhau từng chữ. Muốn đổi thiết kế nhân vật thì sửa ở mục 1, rồi dùng Find & Replace để sửa đồng loạt.
-- Người thật dễ lệch mặt qua nhiều lần Save frame hơn hoạt hình. Tập 4 clip nên làm một chuỗi **Extend** (Extend đọc lại cả đoạn trước nên giữ mặt tốt hơn); nếu làm bằng Frames thì đính lại ảnh tham chiếu khi Flow cho phép. Tập 5–6 clip có ít nhất một clip mở lại bằng Ingredients (thường là clip nhảy thời gian) để neo lại mặt Ngọc và hai bé.
+- Người thật dễ lệch mặt qua nhiều lần Save frame hơn hoạt hình. Tập 30 giây (từ Tập 8) chỉ có hai lần nối khung: Clip 1 Ingredients, Clip 2–3 Frames từ khung cuối clip trước (runner tự nối, xem FLOW_GUIDE); nếu Flow cho phép thì đính lại ảnh tham chiếu ở Clip 2–3. Tập 1–7 (4–6 clip) giữ cách dựng ghi trong README của từng tập.
 
 ---
 
@@ -182,6 +203,8 @@ Câu chặn đặt **cuối mọi khối [AVOID]**:
 cutting to or flashing a standalone character reference portrait or plain grey studio backdrop at the start or end of the clip, showing a character turnaround sheet or split-screen, cartoon, CGI or 3D animation look, doll-like or plastic-looking babies, distorted baby faces, extra or missing fingers or toes, babies with older-infant faces or proportions, awake babies grinning at the camera (only fleeting smiles in sleep), babies holding up their own heads, sitting up or grabbing objects, an unsupported baby head or neck, a baby sleeping on its stomach or side, pillows, loose blankets, bumpers, toys or hats inside a bassinet, both babies in one bassinet, a baby left alone on the adult bed, NGỌC looking haggard, unkempt or older than her late twenties, feeding bottles, pacifiers, formula tins or powdered milk, nudity, readable text, labels, logos or brand names, extra people in focus or speaking (anyone else stays soft-focus in the background and silent), a baby held in arms in a moving car, subtitles.
 ```
 
+Từ khoảng 2 tháng tuổi (Tập 8 trở đi) bé đã biết cười đáp lại mẹ, nên trong câu chặn thay `awake babies grinning at the camera (only fleeting smiles in sleep)` bằng `babies looking into or smiling at the camera (they smile only at their mother)`, và thêm `a narrator voice or voiceover` cho đúng quy tắc thoại tự nhiên.
+
 ---
 
 ## 4. Ảnh tham chiếu nhân vật
@@ -202,7 +225,7 @@ Làm **một lần duy nhất trước khi dựng Tập 1**, dùng cho cả seri
 | `REF_BONG_B` | Bông (1–2 tháng tuổi, 32–53 ngày tuổi) | 5–8 |
 | `REF_SONG_SINH` | Hai bé nằm ngửa trong hai nôi cạnh nhau, để so cỡ và màu đồ | Dùng để kiểm tra, không bắt buộc đính kèm |
 
-**Ảnh sản phẩm:** chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm; che hoặc xóa tên hãng và mọi chữ trên sản phẩm, bao bì trước khi tải lên. Lưu thành `SP_NOI` (nôi em bé, Tập 1), `SP_TA_SO_SINH` (tã dán sơ sinh có khoét rốn, Tập 2), `SP_GOI_BU_DOI` (gối cho bú đôi, Tập 3), `SP_CHAU_TAM` (chậu tắm sơ sinh có lưới đỡ, Tập 4), `SP_KHAN_SUA` (khăn sữa sợi tre / gạc cotton sơ sinh, Tập 5), `SP_THAM_CHOI` (thảm nằm chơi sơ sinh phẳng êm, Tập 6) và đính kèm ở clip sản phẩm lên hình lần đầu.
+**Ảnh sản phẩm:** chụp sản phẩm thật trên nền trơn, đủ sáng, mặt trước hướng vào máy, mỗi ảnh một sản phẩm; che hoặc xóa tên hãng và mọi chữ trên sản phẩm, bao bì trước khi tải lên. Lưu thành `SP_NOI` (nôi em bé, Tập 1), `SP_TA_SO_SINH` (tã dán sơ sinh có khoét rốn, Tập 2), `SP_GOI_BU_DOI` (gối cho bú đôi, Tập 3), `SP_CHAU_TAM` (chậu tắm sơ sinh có lưới đỡ, Tập 4), `SP_KHAN_SUA` (khăn sữa sợi tre / gạc cotton sơ sinh, Tập 5), `SP_THAM_CHOI` (thảm nằm chơi sơ sinh phẳng êm, Tập 6), `SP_TUI_NGU` (túi ngủ mặc cotton sát nách, Tập 7), `SP_THE_TUONG_PHAN` (bộ thẻ tương phản đen trắng, giấy dày bo góc, Tập 8) và đính kèm ở clip sản phẩm lên hình lần đầu.
 
 **REF_NGOC_A**
 ```text
@@ -247,7 +270,7 @@ Photorealistic reference photo for a live-action film, square format, seen from 
 | 5 | Đầy tháng của Gạo và Bông | Tuần 5, 32 ngày tuổi: đêm trước Ngọc khâu hai chiếc áo nhỏ từ tà áo dài cũ; sáng đầy tháng lau mặt và nếp gấp cổ bằng khăn sữa sợi tre, mặc áo mới; chạnh lòng ngày đầy tháng không có ba, hai con nhìn chăm chú mặt mẹ và ọ ẹ làm mẹ bật cười trong nước mắt | **Khăn sữa sợi tre / gạc cotton sơ sinh** | Khăn sữa và đồ mới giặt riêng bằng nước giặt dịu nhẹ, phơi nắng; lau mắt từ khóe trong ra ngoài; thấm khô nhẹ nếp gấp cổ, không chà xát |
 | 6 | Tập nằm sấp đầu đời của Gạo và Bông | Tuần 6, 39 ngày tuổi: buổi sáng khi hai bé thức tỉnh táo, Ngọc trải thảm phẳng êm, kê cuộn khăn sữa nhỏ dưới ngực cho Gạo và Bông tập nằm sấp 3 phút; Gạo rướn cổ nhìn mẹ, Bông chu môi làm nũng rồi ngóc đầu nhìn anh; mỏi cổ mẹ lật ngửa ngay và đưa về hai nôi riêng khi ngủ | **Thảm nằm chơi sơ sinh phẳng êm** | Tập nằm sấp 2–3 lần/ngày, mỗi lần 3–5 phút lúc bé thức tỉnh táo để khỏe cổ và ngừa bẹp đầu; luôn có người lớn canh sát bên; khi ngủ luôn phải nằm ngửa trong nôi riêng trống trơn |
 | 7 | Mùa gió se lạnh & Túi ngủ mặc ấm cho Gạo và Bông | Tuần 7, 46 ngày tuổi: sáng sớm tháng 11 trời trở gió se lạnh, Gạo hắt xì nhỏ xíu; Ngọc kiểm tra độ ấm sau gáy con, mặc túi ngủ cotton sát nách vừa vặn cho hai anh em để giữ ấm an toàn trong nôi mà không dùng chăn rời | **Túi ngủ mặc cotton sát nách cho bé (`SP_TUI_NGU`)** | Quy tắc mặc thêm 1 lớp mỏng hơn người lớn; kiểm tra ấm/nóng bằng cách sờ sau gáy hoặc ngực (không đo bằng tay chân vì tay chân trẻ nhỏ thường hơi mát); dùng túi ngủ mặc vừa vặn thay chăn mền rời trong nôi (AAP & NIH Safe to Sleep) |
-| 8 | Đơn may cuối năm & Nụ cười đầu tiên dành cho mẹ | Tuần 8, 53 ngày tuổi (gần 2 tháng): chiều muộn Ngọc buộc xong kiện hàng may gia công cuối năm để dành tiền Tết, vai mỏi nhừ; lại gần nôi cho con nhìn thẻ tương phản đen-trắng ở cự ly 25 cm và trò chuyện thì cả Gạo và Bông lần đầu nở nụ cười xã hội có chủ đích nhìn thẳng vào mắt mẹ và ê a đáp lời | **Bộ thẻ & vòng treo kích thích thị giác đen-trắng-đỏ (`SP_TREO_NOI`)** | Gần 2 tháng tuổi bé biết cười có chủ đích khi mẹ trò chuyện (`social smile`) và phát âm "a, ơ" (CDC); thị lực bé 1–2 tháng nhìn rõ nhất ở khoảng cách 20–30 cm với hình tương phản cao (AAP); cất thẻ và đồ chơi ra ngoài nôi khi ngủ |
+| 8 | Nụ cười đầu tiên dành cho mẹ | Tuần 8, 53 ngày tuổi, tập 30 giây đầu tiên: mở bằng mặt nghiêm như ông cụ non của Gạo; Ngọc vừa may xong hàng cuối năm, cho con coi thẻ đen trắng, Bông ọ ẹ ganh tị; Ngọc cất thẻ, cúi sát mặt con và Gạo cười với mẹ lần đầu, Bông cười theo; khung cuối lặp lại khung đầu | **Bộ thẻ tương phản đen trắng (`SP_THE_TUONG_PHAN`)** | Mẹo đi bằng hình, ghi trong caption: khoảng 2 tháng bé cười khi mẹ nói chuyện (CDC); bé nhìn rõ nhất ở 20–30 cm (AAP); thẻ chỉ cho coi lúc bé thức, coi xong cất ra ngoài nôi |
 
 > Tập dự kiến chỉ là dàn ý: mẹo và số liệu phải tra nguồn trước khi đưa vào thoại. Không làm tập về sữa công thức, bình bú, núm vú giả (Luật Quảng cáo 2012, Điều 7 khoản 4).
 
@@ -255,7 +278,7 @@ Photorealistic reference photo for a live-action film, square format, seen from 
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (40–60s = 4–6 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/`: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` là prompt của từng clip 10 giây, `caption.md` là caption dán TikTok. Tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (từ Tập 8: 30s = 3 clip × 10s; Tập 1–7: 40–60s = 4–6 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/`: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` là prompt của từng clip 10 giây, `caption.md` là caption dán TikTok. Tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |
@@ -266,4 +289,4 @@ Mỗi tập (40–60s = 4–6 clip × 10s) là một ngày đăng, nằm trong t
 | 5 | [tap-5/](tap-5/README.md) | Đầy tháng của Gạo và Bông |
 | 6 | [tap-6/](tap-6/README.md) | Tập nằm sấp đầu đời của Gạo và Bông |
 | 7 | [tap-7/](tap-7/README.md) | Mùa gió se lạnh & Túi ngủ mặc ấm cho Gạo và Bông |
-| 8 | [tap-8/](tap-8/README.md) | Đơn may cuối năm & Nụ cười đầu tiên dành cho mẹ |
+| 8 | [tap-8/](tap-8/README.md) | Nụ cười đầu tiên dành cho mẹ |

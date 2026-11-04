@@ -141,3 +141,26 @@ Ngày thứ tám của Vy và Joi ở Lai Châu! Rời Mù Cang Chải theo QL32
 #365ngayvietnam #LaiChau #SinSuoiHo #VyvaJoi #xuyenviet
 ```
 
+---
+
+## 📋 TẬP 10: SƠN LA — Tà Xùa Mùa Săn Mây: Bình Minh Trên Sống Lưng Khủng Long & Chén Chè Shan Tuyết (3 Clips · 30 giây)
+
+> Tập đầu tiên theo luật 30 giây (MASTER mục I-B). Caption đầy đủ, bình luận ghim: [tap10-son-la/caption.md](tap10-son-la/caption.md).
+
+### 🎵 Nhạc đề xuất:
+- **Lựa chọn 1 (Ưu tiên):** Sáo trúc và khèn Mông trên nền ambient mỏng trong 10 giây đầu (gió núi, sống núi giữa mây), nâng lên ấm áp đúng lúc mặt trời nhô khỏi biển mây ở Clip 2, rồi guitar acoustic vào nhịp khi Scrambler lăn bánh xuống núi ở Clip 3. Cắt nhạc sao cho nhịp cuối nối lại được nhịp đầu để video lặp vòng mượt.
+- **Lựa chọn 2:** Một đoạn nhạc trending nhẹ không lời (lo-fi acoustic) trong thư viện TikTok, để nhỏ hơn thoại.
+
+### 📝 Caption TikTok (Chuẩn 5 Hashtags):
+```text
+Đứng trên Sống Lưng Khủng Long mà mây tràn tới chân luôn 😳☁️
+
+Sáng nay tụi mình dậy từ lúc trời còn tối để săn mây ở Tà Xùa (Sơn La), uống chén chè Shan tuyết cô chủ homestay pha mà nhìn mặt trời lên giữa biển mây. Hèn chi Tà Xùa vừa được World Travel Awards trao giải Điểm đến du lịch mới nổi hàng đầu châu Á 2026 và đang tranh giải thế giới (công bố 12/12) 🏆
+
+📌 Cẩm nang nhanh: mùa săn mây khoảng tháng 11 tới tháng 3 · mây nhiều nhất lúc bình minh và hoàng hôn, nhiều hôm dày tới khoảng 10 giờ sáng · đường lên: QL6 → ngã ba Cò Nòi → QL37 → Bắc Yên → ĐT112 · đường hẹp dốc, đừng chạy lên xuống ban đêm · chè Shan tuyết cổ thụ ở bản Bẹ có cây 100–300 năm tuổi · sáng sớm lạnh, nhớ mang áo ấm.
+
+Cả nhà chọn đi săn mây Tà Xùa hay coi cải trắng Mộc Châu trước? Tập sau tụi mình xuống Mộc Châu nha 👇
+
+#365ngayvietnam #TaXua #sanmay #xuyenviet #dulichvietnam
+```
+

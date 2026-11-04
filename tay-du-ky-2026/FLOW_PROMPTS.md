@@ -2,7 +2,7 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt · không chữ trên video · **Bắt buộc Search Google** khi cần thiết để cập nhật đúng sự kiện, xu hướng (trend), giá cả và chi tiết đời sống Sài Gòn thực tế.
+**Định dạng:** **từ Tập 16, mỗi tập 30 giây = 3 clip × 10s, mỗi tập là một tin hot top trend trong 24–48 giờ** (Tập 8–15 giữ độ dài cũ 30–60s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **bắt buộc check tin hot** (mục Tin hot top trend bên dưới) và Search Google để cập nhật đúng sự kiện, giá cả và chi tiết đời sống Sài Gòn thực tế.
 
 **Đặt tên file:** video `TDK_T01_C1_v1` (tập 01, clip 1, phiên bản 1) · ảnh tham chiếu `TDK_REF_<TÊN>` (xem mục 4)
 
@@ -26,7 +26,32 @@ README của series mới chỉ có ý tưởng chung, nên tạo hình dưới 
 - **Màu phép thuật:** mọi hiệu ứng phép (gậy dài ra, mây bay, gió quạt) đều có ánh vàng, để thống nhất cả series.
 - **Tỉ lệ chiều cao:** Út Khờ cao nhất, rồi đến La Sát và Thầy (ngang nhau). Heo Lười thấp hơn Thầy một cái đầu nhưng ngang gấp đôi. Đại Ca thấp nhất, chỉ tới ngực Thầy.
 
-**Cấu trúc tập 30–60 giây (tối đa 60 giây = 3–6 clip × 10s):** kịch bản chi tiết như chuyện thật trong một căn nhà trọ Sài Gòn (tra cứu Google Search khi cần cập nhật trend/sự kiện thực tế). Tập 6 clip đi đủ sáu nhịp dưới đây; tập 5 clip gộp kế hoạch với phép thuật; tập 4 clip đi: hook và kế hoạch → phép thuật → lật kèo → chốt; tập 3 clip (30s) đi: hook & phép thuật → lật kèo → chốt.
+**Từ Tập 16: tập 30 giây = 3 clip, mỗi tập một tin hot top trend** (người dùng yêu cầu 04/11/2026: "làm tin hot thiệt hot top trend"):
+
+| Clip | Giây | Việc của clip |
+| --- | --- | --- |
+| 1 | 0–10 | **Hook 0–2 giây** bằng một cảnh lạ, không thoại (ngón tay sắp bấm, đồ vật bay, mặt ai đó đứng hình); rồi một nhân vật nhắc tin hot bằng một câu đời thường (cầm điện thoại, nghe hàng xóm kể), không đọc như bản tin |
+| 2 | 10–20 | Phép thuật ra tay theo đúng chi tiết của tin (Tập 16: tài xế Thâm Quyến phát loa → Đại Ca hóa loa vàng) và leo thang; La Sát hoặc một nhân vật khác xuất hiện |
+| 3 | 20–30 | Lật kèo trong 5 giây đầu clip, câu hiền của Thầy hoặc punchline; 2 giây cuối là khung thumbnail, nếu được thì lặp lại hình mở đầu (Tập 16: mở bằng ngón tay bấm còi, kết bằng cái bụng bấm còi) |
+
+Không thêm clip thứ 4 trừ khi người dùng yêu cầu. Clip 1 làm bằng Ingredients và đính ảnh của **mọi** nhân vật xuất hiện trong tập (kể cả người chỉ vào ở Clip 2–3); Clip 2–3 nối khung cuối clip trước, nhân vật mới vào khung thì dán FULL LOCK của người đó trong [CHARACTERS].
+
+**Tin hot top trend (bắt buộc từ Tập 16):**
+1. **Quét trong ngày viết:** [RSS Google Trends VN](https://trends.google.com/trending/rss?geo=VN&hl=vi), RSS VnExpress (tin nổi bật, thời sự, đời sống, giải trí), Dân trí, Tuổi Trẻ (nhịp sống trẻ), trang khám phá TikTok qua nguồn thứ cấp. Tin phải lên báo trong 24–48 giờ và còn trong khung đó lúc đăng.
+2. **Chọn tin hợp Tây Du Ký nhất,** không phải tin nhiều lượt tìm nhất: ưu tiên tin dân mạng đã tự nhắc tới Tây Du Ký (Tập 16: đường phố Thâm Quyến bị ví như Hoa Quả Sơn), tin đời sống Sài Gòn có thể làm thành drama nhà trọ, và tin có chi tiết cụ thể cho phép thuật bám vào.
+3. **Loại:** tai nạn, người chết, án hình sự nặng, chính trị, người thật có tên (nghệ sĩ, doanh nhân), thương hiệu; tin kênh khác trong ngày đã dùng (ví dụ Phèo) thì tránh trùng nếu còn tin khác.
+4. **Ghi lại:** README tập có dòng **⚡ Vì sao hot** (nguồn, giờ đăng, ngày kiểm) và **Đã quét và không chọn**; ghi một mục vào [TRENDS.md](../TRENDS.md). Tin cũ hơn 48 giờ mà tập chưa render thì thay bằng tin mới (Tập 16 cũ về vụ 31,7 tỷ đã thay như vậy).
+
+**Thoại tự nhiên như người thật (từ Tập 16):**
+- Câu ngắn 2–9 âm tiết, khẩu ngữ miền Nam (nè, nghen, hông, hả, ủa, trời ơi, xíu), nói với nhau chứ không nói với khán giả; giữ câu cửa miệng ("Khai mau!", "Oan!", "Đại Ca nói phải.", "A Di Đà Phật") nhưng không ép câu nào cũng có.
+- **Cấm:** đọc bản tin ("Chùa online sáu trăm ngàn người vô…", "vụ mất 31,7 tỷ…"), con số, điều luật, mức phạt trong thoại (để ở caption và README); câu dài hơn 10 âm tiết; giảng giải bài học.
+- Mỗi clip 2–3 câu, khoảng 13–20 âm tiết, không quá 4,5 âm tiết mỗi giây (Thầy nói chậm, giữ dưới 3,5 âm tiết mỗi giây). Không bắt buộc ai cũng có câu; 30 giây chỉ cần 3–4 nhân vật nói.
+- Gag hình và âm thanh (sóng âm, loa rú, cả hẻm bật đèn) làm phần lớn tiếng cười; im thoại trong lúc gag xảy ra.
+- [AVOID] có thêm `a narrator voice or voiceover`.
+
+**Quy tắc viral (từ Tập 16):** caption dòng đầu là hook khoảng 80 ký tự nhắc thẳng tin hot; một câu hỏi kéo bình luận gắn với tin ("nếu Việt Nam cấm còi 24/24 thì bạn hét hay xài loa?"); bài học đời thật viết gọn trong caption; đúng 5 hashtag (2 rộng, 3 ngách theo tin); bình luận ghim chỉ ra giây đáng xem lại.
+
+**Cấu trúc tập 30–60 giây cũ (Tập 8–15, tối đa 60 giây = 3–6 clip × 10s):** kịch bản chi tiết như chuyện thật trong một căn nhà trọ Sài Gòn (tra cứu Google Search khi cần cập nhật trend/sự kiện thực tế). Tập 6 clip đi đủ sáu nhịp dưới đây; tập 5 clip gộp kế hoạch với phép thuật; tập 4 clip đi: hook và kế hoạch → phép thuật → lật kèo → chốt; tập 3 clip (30s) đi: hook & phép thuật → lật kèo → chốt.
 
 | Clip | Vai trò | Gợi ý |
 | --- | --- | --- |
@@ -37,7 +62,7 @@ README của series mới chỉ có ý tưởng chung, nên tạo hình dưới 
 | 5 | Lật kèo | Một nhân vật bất ngờ đảo tình thế (Út Khờ, Heo Lười, La Sát); không lặp twist của các tập trước |
 | 6 | Chốt | Câu hiền của Thầy (không bao giờ bị chế giễu) hoặc punchline; khung thumbnail đứng yên 1 giây |
 
-- **Như người thật:** chi tiết đời sống Sài Gòn có thật (món ăn, giá cả, thói quen trong hẻm, tin trong ngày có nguồn); ai cũng có ít nhất một câu; mỗi clip 2–4 câu thoại, tối đa khoảng 31 âm tiết.
+- **Như người thật:** chi tiết đời sống Sài Gòn có thật (món ăn, giá cả, thói quen trong hẻm, tin trong ngày có nguồn). Tập 8–15: ai cũng có ít nhất một câu, mỗi clip 2–4 câu thoại, tối đa khoảng 31 âm tiết; từ Tập 16 theo mục Thoại tự nhiên ở trên.
 - **Một bài học nhỏ đời thật** (an toàn, tiết kiệm, chống lừa đảo…) nếu có thì nói bằng tình huống và câu đùa, không giảng giải.
 - **Không lặp:** không dùng cùng kiểu lật kèo trong 3 tập liên tiếp; viết xong tập nào thì ghi phép chính và kiểu lật kèo vào bảng mục 5.
 - **Neo nhân vật:** tập 5–6 clip mở lại một clip bằng Ingredients sau 3–4 clip (cắt theo hành động hoặc nhảy thời gian, dán [FORMAT] và FULL LOCK, không dán câu Continue…), như FLOW_GUIDE mục 1–2. Tập 4 clip có cảnh nhảy thời gian thì clip đó cũng mở bằng Ingredients.
@@ -371,13 +396,13 @@ Height comparison lineup of four original 2D cartoon characters standing side by
 | 13 | Cúp điện giữa trưa | Giữa trưa Sài Gòn máy lạnh tắt phụt; Đại Ca xoay gậy Như Ý làm quạt số 10 thổi Heo Lười phồng tròn như bóng bay; La Sát bước vô báo nguyên con hẻm điện sáng trưng, hóa ra chỉ mỗi phòng bị nhảy cầu dao vì Heo Lười cắm nồi lẩu, ấm siêu tốc và lò nướng chung một ổ cắm; Út Khờ rút bớt phích cắm rồi bật lại cầu dao. Thầy: "Một ổ cắm gánh ba nồi... điện cũng biết mệt." | — | gậy Như Ý (xoay làm quạt gió) | tưởng cả hẻm cúp điện, hóa ra nhảy cầu dao phòng vì Heo Lười cắm 3 nồi chung 1 ổ |
 | 14 | Karaoke kẹo kéo xóm trọ | Chiều cuối tuần Heo Lười ôm loa kéo gào nhạc thất tình làm chén trà rung bần bật, Bạch Mã lấy móng bịt tai; sợ La Sát qua mắng, Đại Ca rút lông thổi phép biến micro thành "Micro Tắt Tiếng" kêu vo ve như muỗi; ai dè La Sát bước vô xin hát ké bolero rồi giật luôn chiếc micro trúng phép, ngân vọng cổ mà loa kêu "í a lí nhí" như dế kêu; Út Khờ vặn loa về mức số 2 vừa đủ nghe. Thầy: "Hát vừa đủ nghe, hàng xóm mới thương." | — | rút lông biến micro thành "Micro Tắt Tiếng Định Hướng" | tưởng La Sát qua mắng, hóa ra qua xin hát ké rồi dính luôn phép tắt tiếng của Đại Ca |
 | 15 | Chùa online gõ mõ công đức & Bẫy cúng dường dỏm | ⚡ Trend chùa online 600.000 lượt vào (03/11): Heo Lười nằm phơi bụng bấm mõ điện tử rồi định chuyển 500k "gói đại công đức xóa nghiệp ăn vụng"; Đại Ca bật Hỏa Nhãn Kim Tinh soi ra bẫy giả mạo nhà chùa, hóa phép hai chiếc mõ gỗ có cánh vàng cản kịp lúc La Sát định chuyển 1 triệu cầu tài lộc; La Sát bắt Heo Lười đi quét sạch nguyên con hẻm để "tích công đức offline thật sự". | — | Hỏa Nhãn Kim Tinh, gậy Như Ý hóa mõ gỗ có cánh vàng | đòi tích công đức online trên mạng, kết cục phải đi quét rác nguyên con hẻm offline |
-| 16 | Nhờ bấm giùm điện thoại — Heo Lười suýt bay sạch sổ tiết kiệm | ⚡ Trend vụ lén thao tác trên điện thoại khách chiếm đoạt 31,7 tỷ sổ tiết kiệm (03/11): Heo Lười lười bấm máy định đưa luôn điện thoại mở sẵn app ngân hàng nhờ người lạ tất toán giùm; Đại Ca cảnh báo vụ mất 31,7 tỷ và hóa phép hai ổ khóa vàng có cánh khóa bảo vệ điện thoại, La Sát nhắc khung hình phạt 12–20 năm hoặc chung thân (Điều 174 BLHS); Heo Lười láu cá viện cớ "bảo mật không bấm chuyển tiền trọ" liền bị La Sát quạt xoay vòng vòng. | — | gậy Như Ý hóa ổ khóa vàng có cánh | lấy cớ bảo mật điện thoại để trốn tiền nhà, bị quạt Ba Tiêu thổi xoay như chong chóng |
+| 16 | Cấm bóp còi thì… hét | ⚡ Trend Thâm Quyến cấm bóp còi từ 01/11, dân mạng ví đường phố như Hoa Quả Sơn (VnExpress 03/11): 22:30 Bạch Mã ngủ chắn hẻm, Heo Lười bị cấm bóp còi nên hét, Đại Ca biến thành loa vàng mặt khỉ rú cả hẻm bật đèn, La Sát: "Tưởng Hoa Quả Sơn hả?"; Thầy vuốt cổ ngựa, ngựa lặng lẽ nhường đường; Heo Lười chồm tới, bụng đè nút còi, bị quạt thổi xoay vô nhà. Tập 30 giây đầu tiên | — | 72 phép biến hóa (Đại Ca hóa loa vàng) | người nói nhỏ nhất mở được đường; cái bụng bóp còi thay chủ |
 
 ---
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3. Thư mục Tập 1–7 đã gỡ khỏi repo ở commit `d536686` (26/10/2026); nội dung vẫn còn trong lịch sử git (commit `4d7f4a4`) và tóm tắt ở mục 5.
+Mỗi tập (từ Tập 16: 30s = 3 clip × 10s; Tập 8–15: 30–60s = 3–6 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/` cùng thư mục này: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` là prompt của từng clip 10 giây. Tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3. Thư mục Tập 1–7 đã gỡ khỏi repo ở commit `d536686` (26/10/2026); nội dung vẫn còn trong lịch sử git (commit `4d7f4a4`) và tóm tắt ở mục 5.
 
 | Ngày | File | Tên tập | Độ dài |
 | --- | --- | --- | --- |
@@ -389,4 +414,4 @@ Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)
 | 13 | [tap-13/](tap-13/README.md) | Cúp điện giữa trưa | 60s · 6 clip |
 | 14 | [tap-14/](tap-14/README.md) | Karaoke kẹo kéo xóm trọ | 50s · 5 clip |
 | 15 | [tap-15/](tap-15/README.md) | Chùa online gõ mõ công đức & Bẫy cúng dường dỏm | 50s · 5 clip |
-| 16 | [tap-16/](tap-16/README.md) | Nhờ bấm giùm điện thoại — Heo Lười suýt bay sạch sổ tiết kiệm | 50s · 5 clip |
+| 16 | [tap-16/](tap-16/README.md) | Cấm bóp còi thì… hét | 30s · 3 clip |

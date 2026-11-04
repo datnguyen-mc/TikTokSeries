@@ -1,23 +1,28 @@
-# Caption · Tây Du Ký 2026 · Tập 16: Nhờ bấm giùm điện thoại — Heo Lười suýt bay sạch sổ tiết kiệm
+# Caption · Tây Du Ký 2026 · Tập 16: Cấm bóp còi thì… hét
 
 > Dán khối **Caption** vào ô mô tả khi đăng TikTok. Tối đa 5 hashtag. Kịch bản tập: [README.md](README.md).
 
 ## Caption
 
 ```text
-Heo Lười lười bấm điện thoại định đưa luôn máy đang mở app ngân hàng nhờ người lạ thao tác tất toán sổ tiết kiệm giùm, nghe Đại Ca đọc tin nóng mất hơn 31 tỷ đồng mà dựng đứng hai tai heo luôn 🐷📱🔒
+Thâm Quyến cấm bóp còi, dân mạng nói đường phố thành Hoa Quả Sơn… Đại Ca nghe xong mừng quá 🐒📢
 
-⚠️ Lưu ý bảo mật tài khoản & sổ tiết kiệm online cho cả nhà (đặc biệt là ông bà, cha mẹ lớn tuổi):
-· Tuyệt đối KHÔNG giao điện thoại đang đăng nhập ứng dụng ngân hàng, không đọc mật khẩu hay mã OTP cho bất kỳ ai thao tác hộ (kể cả người quen hay nhân viên tại quầy)
-· Luôn tự tay cầm máy, đọc kỹ nội dung biến động và chỉ tự quét khuôn mặt sinh trắc học khi chính mình thực hiện giao dịch
-· Theo khoản 4 Điều 174 Bộ luật Hình sự, hành vi gian dối chiếm đoạt từ 500 triệu đồng trở lên bị phạt tù từ 12–20 năm hoặc tù chung thân
+10 rưỡi đêm, Bạch Mã ngủ chắn ngang hẻm, Heo Lười không được bóp còi nên… hét. Ai dè cái bụng nó bóp giùm 😭
 
-#tayduky2026 #canhgiacluadao #baomatnganhang #xuhuong #hoathinh2d
+📌 Ở Việt Nam: từ 22 giờ tới 5 giờ sáng không dùng còi trong khu đông dân cư và gần bệnh viện, trừ xe ưu tiên (Luật Trật tự, an toàn giao thông đường bộ 2024).
+
+Hẻm nhà bạn có ai bóp còi lúc nửa đêm hông? Nếu Việt Nam cấm còi 24/24 thì bạn sẽ… hét hay xài loa? 👇
+
+#tayduky2026 #cambopcoi #thamquyen #hoaquason #xuhuong
 ```
 
 ## Bình luận ghim
 
 ```text
-Tới khúc Heo Lười áp dụng "bảo mật điện thoại" để trốn luôn tiền nhà của chị La Sát là biết ngay cái kết xoay như chong chóng 🌪️😂 Nhớ dặn ông bà bố mẹ ở nhà đừng bao giờ đưa điện thoại mở sẵn app ngân hàng cho ai bấm giùm nghen cả nhà!
+Mở đầu ngón tay bấm còi, kết thúc cái bụng bấm còi 😂 Xem lại giây 25 coi mặt Heo Lười. Bạn chọn hét hay xài loa vàng như Đại Ca?
 ```
 
+## Trước khi đăng
+- **Đúng 5 hashtag** (2 rộng + 3 ngách): `#tayduky2026 #xuhuong` · `#cambopcoi #thamquyen #hoaquason`.
+- **Đăng sớm:** tin Thâm Quyến lên báo Việt chiều 03/11; đăng trong ngày 04–05/11 để còn trong khung 24–48 giờ.
+- **Tên riêng:** viết Thâm Quyến (không phải Thẩm Quyến), Hoa Quả Sơn.

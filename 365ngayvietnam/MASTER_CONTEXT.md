@@ -13,13 +13,20 @@
 BƯỚC 1: Crawl & đọc MASTER_CONTEXT.md (file này)
 BƯỚC 2: Đọc README.md của tập trước đó để nắm khung hình cuối & nối cảnh
 BƯỚC 3: Xác định tỉnh/thành tiếp theo theo BẢNG LỘ TRÌNH bên dưới và **Search Google** khi cần thiết để kiểm chứng giờ vàng, cung đường, giá vé, món ăn đặc sản và phong tục địa phương
-BƯỚC 4: Viết README.md của tập mới (thời lượng **30–60 giây = 3–6 clip × 10s, tối đa 60 giây**): lịch trình (giờ, địa điểm, vì sao đúng giờ)
-         · cẩm nang giờ vàng · nối cảnh · chuỗi đạo cụ · sợi chỉ xuyên tập (Joi học tiếng địa phương)
+BƯỚC 3B (từ Tập 10): ⚡ CHECK HOT — tra cái gì đang nóng NGAY LÚC NÀY ở tỉnh/cung đường đó (xem mục I-B):
+         Google Trends VN (RSS trends.google.com/trending/rss?geo=VN&hl=vi) · báo Việt Nam 2–4 tuần gần nhất
+         · mùa hoa, mùa lúa, mùa mây, lễ hội đang diễn ra · điểm check-in / món đang hot trên TikTok (qua bài tổng hợp,
+         báo, vì TikTok Creative Center cần đăng nhập). Chọn ĐÚNG MỘT điểm hot còn đúng ở thời điểm đăng và kiểm chứng được.
+         Ghi dòng ⚡ Vì sao hot (nguồn + ngày kiểm tra) vào README; ghi lần quét vào TRENDS.md ở thư mục gốc.
+         Không bao giờ dùng tin tai nạn, thiên tai có người chết, án mạng
+BƯỚC 4: Viết README.md của tập mới (thời lượng **từ Tập 10: 30 giây = 3 clip × 10s**): lịch trình (giờ, địa điểm, vì sao đúng giờ)
+         · ⚡ Vì sao hot · cẩm nang giờ vàng · nối cảnh · chuỗi đạo cụ · sợi chỉ xuyên tập (Joi học tiếng địa phương, nếu còn chỗ)
          · lưu ý thực tế (ghi tháng kiểm chứng) · nguồn từ Google Search. Mỗi thông tin thực tế nói trong thoại phải có
          dòng tương ứng trong lưu ý thực tế và nguồn. Caption viết riêng trong caption.md của tập
-         (cẩm nang rút gọn đặt ngay trong caption, đúng 5 hashtag, bình luận ghim khoảng 150 ký tự);
-         mục Caption của README chỉ để link tới caption.md
-BƯỚC 5: Viết từng clip-{số}.md (3–6 clip, tối đa 6 clip = 60s) theo đúng TEMPLATE PROMPT bên dưới
+         (dòng đầu là câu hook, một câu hỏi để khán giả bình luận, cẩm nang rút gọn và mọi con số đặt trong caption,
+         đúng 5 hashtag, bình luận ghim khoảng 150 ký tự); mục Caption của README chỉ để link tới caption.md
+BƯỚC 5: Viết clip-1.md, clip-2.md, clip-3.md (từ Tập 10 mặc định 3 clip = 30s; chỉ thêm clip 4 khi người dùng yêu cầu)
+         theo đúng TEMPLATE PROMPT bên dưới
 BƯỚC 6: Cross-check tất cả clip vừa viết với:
          ✅ 9 QUY TẮC ĐẠO DIỄN (mục II)
          ✅ KHÓA NHÂN VẬT (mục III) — copy nguyên văn, không sửa
@@ -28,6 +35,8 @@ BƯỚC 6: Cross-check tất cả clip vừa viết với:
          ✅ THOẠI & GIỌNG NÓI (mục VI) — đúng âm sắc, đúng số âm tiết
          ✅ ĐỊA DANH VIẾT HOA (mục VII)
          ✅ CHIA SẺ NHƯ NGƯỜI THẬT (mục VI, từ Tập 5) — mỗi clip có ít nhất một điều cụ thể đã kiểm chứng
+         ✅ THOẠI TỰ NHIÊN (mục VI, từ Tập 10) — đọc to lên nghe như nói với người bên cạnh, không như thuyết minh
+         ✅ QUY TẮC VIRAL (mục I-B, từ Tập 10) — hook 2 giây đầu, một ý chính, kết có câu nhử tập sau hoặc câu hỏi
 BƯỚC 7: Cập nhật BẢNG TRẠNG THÁI CÁC TẬP ĐÃ HOÀN THÀNH (mục IX)
 ```
 
@@ -38,20 +47,31 @@ BƯỚC 7: Cập nhật BẢNG TRẠNG THÁI CÁC TẬP ĐÃ HOÀN THÀNH (mục
 - **Tên series:** 365 Ngày Việt Nam — Vy & Joi (Chuyện Tình Xuyên Việt)
 - **Thể loại:** Authentic Experiential Travel Vlog, Phim ngắn du lịch điện ảnh
 - **Hành trình:** 365 ngày từ Cực Bắc (Hà Giang) đến Cực Nam (Cà Mau), xuyên suốt 63 tỉnh thành
-- **Thời lượng mỗi tập:** **dao động từ 30 đến 60 giây (3–6 clip × đúng 10 giây/clip; tối đa 60 giây = 6 clip)** — cô đọng những khoảnh khắc đắt giá nhất trên hành trình. (Các tập 1–7 đã viết trước đây giữ nguyên số clip cũ).
+- **Thời lượng mỗi tập:** **từ Tập 10: 30 giây = 3 clip × đúng 10 giây/clip** — chỉ giữ khoảnh khắc đắt giá nhất của chặng. Chỉ làm clip 4 khi người dùng yêu cầu. (Tập 1–9 đã viết giữ nguyên số clip cũ: Tập 1–4 dài 6–7 clip, Tập 5–7 dài 90 giây, Tập 8–9 dài 60 giây.)
 - **Bắt buộc Search Google khi cần thiết:** Trước khi viết tập mới, bắt buộc dùng Google Search để tra cứu thông tin thực tế về tỉnh/thành đó (cung đường, số km, giờ vàng săn mây/hoàng hôn, tên món đặc sản, cách ăn chuẩn địa phương, giá vé tham quan, phong tục/phép tắc nơi đến) và ghi nguồn kiểm chứng vào `README.md` của tập.
 - **Quy chuẩn mỗi clip:** Đúng 10 giây, khung hình dọc 9:16, 24fps, Single Continuous Shot
 - **Tông điệu:** Trẻ trung, tự do, phóng khoáng, ngọt ngào, đậm tình yêu đôi lứa, tự hào cảnh sắc Việt Nam
 - **Model AI:** Gemini Omni (Google Flow) — đúng 10 giây mỗi lần tạo, ghép scene (Veo 3.1 chỉ tạo tối đa 8 giây). Từ Tập 4, lời thoại trong file clip viết không ngoặc kép (xem mục VI)
 
-### Xương sống tập 30–60 giây (3–6 clip × 10s, tối đa 60s)
+### Xương sống tập 30 giây (từ Tập 10: 3 clip × 10s)
 
-| Số clip (Thời lượng) | Cấu trúc phân cảnh | Chia sẻ gì (đã kiểm chứng qua Google Search) |
+| Clip | Vai trò | Nội dung |
 |---|---|---|
-| **3 clip (30s)** | Clip 1: Flycam & điểm đến chính · Clip 2: Trải nghiệm / Ẩm thực · Clip 3: Chốt tình cảm & lên đường | Một điểm đến biểu tượng, một món đặc sản và một mẹo giờ vàng |
-| **4 clip (40s)** | Clip 1: Flycam & mồi · Clip 2: Cung đường / Điểm tham quan · Clip 3: Đặc sản địa phương · Clip 4: Hoàng hôn & lên đường | Cung đường, giờ đẹp, cách ăn đặc sản chuẩn vị, câu chốt ngọt ngào |
-| **5 clip (50s)** | Clip 1: Flycam & mồi · Clip 2: Trên đường · Clip 3: Ăn sáng / Chợ · Clip 4: Điểm tham quan & Joi nói tiếng địa phương · Clip 5: Chốt & lên đường | Thêm nhịp giao lưu văn hóa/ngôn ngữ bản địa |
-| **6 clip (60s — tối đa)** | Clip 1: Flycam & mồi · Clip 2: Cung đường · Clip 3: Ẩm thực sáng · Clip 4: Điểm tham quan 1 · Clip 5: Đặc sản / Điểm tham quan 2 · Clip 6: Chốt tình cảm & lên đường | Đầy đủ hành trình trong ngày tại tỉnh/thành mà vẫn gọn đúng 60 giây |
+| **Clip 1 (00:00–00:10)** | **Hook** | Flycam mở thẳng vào **điểm hot / cảnh đẹp nhất** của tập, nhân vật đang ở giữa hành động (đang đi, đang chạm, đang ngạc nhiên). Câu thoại đầu gây tò mò hoặc cảm xúc, không chào, không nói số tập |
+| **Clip 2 (00:10–00:20)** | **Trải nghiệm** | Một món đặc sản hoặc một việc chỉ làm được ở đây, cận chi tiết; một mẹo nói vu vơ hoặc cho thấy trên hình |
+| **Clip 3 (00:20–00:30)** | **Chốt & nhử** | Khoảnh khắc tình cảm của hai người, rồi nhử tỉnh/điểm tiếp theo (hoặc hỏi một câu khiến khán giả muốn bình luận); lên xe đi tiếp hoặc khung cuối lặp lại hình ảnh mở đầu để video xem vòng lại mượt |
+
+> Một tập chỉ một ý chính và **một** điểm hot. Không nhồi hai điểm đến cách xa nhau vào 30 giây: điểm thứ hai để làm câu nhử tập sau. Phần lịch trình đầy đủ, giờ, giá, số km đưa vào caption và README.
+
+**Tập 5–9 (đã làm, giữ nguyên):** 60–90 giây, 6–9 clip, xương sống Flycam & mồi → cung đường → ẩm thực → điểm tham quan → đặc sản → chốt & lên đường.
+
+### I-B. ⚡ QUY TẮC HOT & VIRAL (BẮT BUỘC TỪ TẬP 10)
+
+- **Check hot trước khi viết (BƯỚC 3B):** tìm cái đang nóng ở đúng tỉnh/cung đường trong 2–4 tuần gần nhất: giải thưởng, bảng xếp hạng, mùa hoa/lúa/mây, lễ hội, điểm check-in hoặc món đang lên TikTok. Nguồn: RSS Google Trends VN, báo Việt Nam, trang du lịch của tỉnh, bài tổng hợp xu hướng TikTok (ghi rõ là nguồn thứ cấp). Điểm hot phải còn đúng vào ngày đăng (ví dụ mùa hoa chưa tàn). README có dòng `⚡ Vì sao hot` ghi nguồn và ngày kiểm tra; TRENDS.md ở thư mục gốc ghi lần quét. Không dùng tin tai nạn, thiên tai có người chết, án mạng.
+- **Hook 0–2 giây:** khung hình đầu đã là cảnh đẹp nhất hoặc lạ nhất; câu thoại đầu là một phản ứng thật hoặc một câu hỏi (ví dụ kiểu *Ủa, mình đang đứng trên mây hả anh?*), không chào cả nhà, không nói Tập mấy, không đọc tên tỉnh như bản tin.
+- **Một ý chính mỗi tập:** khán giả xem xong nhớ được một cảnh, một món, một mẹo.
+- **Kết có lực kéo:** clip 3 kết bằng câu nhử chặng sau (đặt tò mò, không kể hết) hoặc một câu hỏi để khán giả trả lời trong bình luận; khung cuối có thể gợi lại hình ảnh mở đầu để video lặp vòng mượt.
+- **Caption:** dòng đầu là câu hook ngắn (khoảng 80 ký tự đổ lại, thấy được trước chữ *xem thêm*), có một câu hỏi mời bình luận, cẩm nang rút gọn và mọi con số đặt trong caption, đúng 5 hashtag (2 hashtag rộng + 3 hashtag ngách theo điểm đến), bình luận ghim khoảng 150 ký tự.
 
 ---
 
@@ -143,6 +163,18 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 
 ---
 
+### 🧥 Khóa Chặng Tây Bắc (Tập 6 trở đi — đúng như các clip đã render)
+
+> Từ Tập 6, các clip đã render dùng trang phục, xe và mũ dưới đây; ảnh tham chiếu `@Vy`, `@Joi` trên Flow cũng mặc như vậy. Từ Tập 10, copy nguyên văn khối này vào mục **[KHÓA NHẬN DIỆN NHÂN VẬT & PHƯƠNG TIỆN]** của mọi clip; khi đổi chặng hoặc đổi mùa thì viết khối trang phục mới ở đây. Gương mặt @Joi giữ đúng khóa ở trên (chàng trai châu Âu): khối chữ trong clip Tập 6–9 tả nhầm @Joi mắt một mí, da ngăm, nhưng video render vẫn theo ảnh tham chiếu châu Âu. Khối này thay màu xe ở mục Xe và màu mũ ở Quy tắc 9 cho chặng Tây Bắc. Không có dấu ngoặc kép trong khối (chữ VN trên áo @Vy là chữ thêu).
+
+```
+- @Vy (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, lông mày cong tự nhiên, mũi cao thanh nhẹ, môi đầy đặn hồng đào, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió chống nước màu vàng mù tạt (#E5A93B) có mũ trùm, khóa kéo đen, túi ngực trái thêu nhỏ hai chữ cái VN màu trắng; bên trong mặc áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9) ống suông túi hộp hai bên đùi; giày sneaker trắng đế dày bẩn nhẹ bụi đường; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; đồng hồ thể thao dây đen cổ tay trái; balo du lịch 30L màu xanh rêu (#4A5D3B) có dây đai ngực và miếng vá cờ Việt Nam nhỏ góc dưới phải.
+- @Joi (Nam chính — chàng trai châu Âu 26 tuổi, 1m85, vai rộng vạm vỡ săn chắc): Quai hàm góc cạnh sắc nét, râu quai nón tỉa ngắn 3mm, mắt xanh lam khói ấm áp hay cười, lông mày rậm, tóc nâu sáng xoăn gợn sóng hơi rối vì gió, da sáng rám nắng nhẹ với kết cấu da thật tự nhiên, giọng nam trầm ấm hài hước nói tiếng Việt giọng miền Nam tự nhiên. Trang phục: Áo khoác denim xanh đậm (#2C3E50) cổ bẻ có túi ngực đôi, xắn tay áo đến khuỷu; bên trong mặc áo thun xám than (#3D3D3D) cổ tròn; quần jean đen ôm vừa (#1C1C1C) hơi bạc ở đầu gối; giày boot da cổ thấp nâu đất (#6B4226) đế cao su chống trượt; vòng tay dây dù đen bện ở cổ tay phải; đồng hồ kim loại mặt tròn dây da nâu ở cổ tay trái; máy ảnh mirrorless đen (kiểu Fujifilm X-T5) đeo chéo vai bằng dây vải thổ cẩm Tây Bắc; balo trekking 40L màu xám đen (#2D2D2D).
+- Phương tiện khóa đồng bộ (khi xuất hiện): Xe máy côn tay cổ điển kiểu Scrambler màu đen mờ + bình xăng xanh rêu đậm, yên da nâu dài đủ 2 người, đèn pha tròn LED, gương chiếu hậu tròn, baga sau buộc túi chống nước màu vàng nhỏ; 02 mũ bảo hiểm 3/4 đầu có kính chắn gió trong suốt — mũ của @Vy màu trắng kem có sọc vàng, mũ của @Joi màu đen nhám.
+```
+
+---
+
 ## IV. 🎬 BẢNG TRẠNG THÁI ĐẠO CỤ MŨ BẢO HIỂM THEO BỐI CẢNH (HELMET STATE MATRIX)
 
 > Dùng bảng này để kiểm tra logic đạo cụ mũ bảo hiểm cho từng loại cảnh trong mỗi clip.
@@ -214,7 +246,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 {Liệt kê các lỗi cần tránh, cụ thể cho từng cảnh}
 ```
 
-### Template Clip 2 đến clip cuối (Clip 2–N, N = 3–6 tùy câu chuyện, tối đa 6 clip = 60 giây — Match-cut):
+### Template Clip 2 và Clip 3 (từ Tập 10 mỗi tập 3 clip = 30 giây; Tập 1–9 có tới Clip 6–9 — Match-cut):
 
 ```markdown
 # KỊCH BẢN PHÂN CẢNH ĐẠO DIỄN — TẬP {SỐ} / CLIP {SỐ CLIP}
@@ -259,6 +291,8 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 
 **Từ Tập 5, clip ở yên một chỗ:** `00:00–00:01.0` nối cảnh (không thoại) · `00:01.0–00:04.5` cận người nói 1 (tối đa khoảng 15 âm tiết) · `00:04.5–00:08.5` cận người nói 2 (tối đa khoảng 16 âm tiết) · `00:08.5–00:10.0` đệm minh họa không thoại. Clip chuyển địa điểm giữ khung trên, thoại dứt ở 00:07.5.
 
+**Bố cục file clip từ Tập 6 (bản đang render tốt):** các clip Tập 6–9 viết theo bố cục *GOOGLE FLOW CINEMATIC REALISM* sáu mục — [1. Thông tin địa điểm & nguồn kiểm chứng] · [2. Prompt video hoàn chỉnh: cấu hình quay, khóa nhân vật & phương tiện, bối cảnh & ánh sáng, diễn biến hành động & khẩu hình, âm thanh & thoại] · [3. Timeline 10 giây] · [4. Đường chuyển động camera] · [5. Khung đầu & khung cuối] · [6. Loại trừ]. Từ Tập 10 giữ bố cục này (mẫu: `tap10-son-la/clip-1.md`), dán khối Khóa Chặng Tây Bắc ở mục III vào phần khóa nhân vật, và vẫn theo đúng các mốc giờ thoại ở trên. Với 30 giây, thoại mỗi clip ngắn hơn (xem mục VI), phần thời gian dư dành cho cảnh đẹp và phản ứng không lời.
+
 ---
 
 ## VI. 🎙️ QUY TẮC THOẠI & GIỌNG NÓI (DIALOGUE & VOICE RULES)
@@ -268,12 +302,13 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 | **Ngôn ngữ thoại** | 100% tiếng Việt, giọng chuẩn miền Nam thân thiện |
 | **Giọng @Vy** | Nữ trong trẻo, ngọt ngào, háo hức, phát âm chuẩn thanh điệu tiếng Việt |
 | **Giọng @Joi** | Nam trầm ấm, hào sảng, nói tiếng Việt tự nhiên như người bản xứ |
-| **Tốc độ thoại** | Tối đa 4.5 âm tiết/giây. Một câu thoại ≤ 15 âm tiết |
-| **Thoại dứt điểm** | Tập 1–4 và clip chuyển địa điểm: luôn kết thúc ở giây `00:07.5`, không kéo vào vùng 00:07.5–00:10. Từ Tập 5, clip ở yên một chỗ: dứt ở `00:08.5`. Tối đa khoảng 31 âm tiết mỗi clip |
+| **Tốc độ thoại** | Tối đa 4.5 âm tiết/giây. Một câu thoại ≤ 15 âm tiết. **Từ Tập 10:** mỗi lượt nói 3–10 âm tiết, tối đa 2–3 lượt và khoảng 22–25 âm tiết mỗi clip, chừa chỗ cho tiếng cười, tiếng thở, khoảng lặng |
+| **Thoại dứt điểm** | Tập 1–4 và clip chuyển địa điểm: luôn kết thúc ở giây `00:07.5`, không kéo vào vùng 00:07.5–00:10. Từ Tập 5, clip ở yên một chỗ: dứt ở `00:08.5`. Tối đa khoảng 31 âm tiết mỗi clip (từ Tập 10: khoảng 22–25) |
+| **Thoại tự nhiên như người thật (từ Tập 10)** | Hai người nói **với nhau**, không nói với khán giả như MC. Câu ngắn, có từ đệm miền Nam: *nè, hông, á, đó, nha, ủa, trời ơi, thiệt, ghê, dữ vậy*. Có phản ứng thật: ngạc nhiên, trêu nhau, cười, hỏi lại, cắt lời nhẹ. **Cấm:** câu kiểu dẫn chương trình (*Tập chín đặt chân tới Điện Biên rồi*), kể liền nhiều địa danh hoặc nhiều món trong một câu, đọc số liệu (km, độ cao, diện tích, năm, giá: đưa vào caption và README), khẩu hiệu, câu sáo rỗng. Thử: đọc to lên, nghe như đang nói với người đứng cạnh thì đạt |
 | **Ai nói → Camera khóa ai** | @Vy nói → cam khóa cận mặt @Vy. @Joi nói → cam khóa cận mặt @Joi. TUYỆT ĐỐI |
 | **Xưng hô** | @Vy gọi @Joi: "anh ơi", "anh". @Joi gọi @Vy: "em à", "em". Gọi khán giả: "cả nhà", "mọi người", "tụi mình" |
 | **Cấm** | Cấm voiceover, cấm giới thiệu tên ("mình là Vy", "đây là Joi"), cấm nói lệch khẩu hình |
-| **Chia sẻ như người thật (từ Tập 5)** | Mỗi clip chia sẻ ít nhất một điều cụ thể đã kiểm chứng: giờ đẹp, cách đi, gọi món gì và ăn thế nào, mẹo, phép tắc nơi đến. Nói như người đang đi thật, kể ngôi thứ nhất, không đọc như thuyết minh; con số và giá chỉ nói khi có nguồn. Tập 90 giây có nhiều điểm dừng hơn: thêm quán ăn sáng, chợ, con đường đẹp, người địa phương làm nghề (không cận mặt người lạ) |
+| **Chia sẻ như người thật (từ Tập 5)** | Mỗi clip chia sẻ ít nhất một điều cụ thể đã kiểm chứng: giờ đẹp, cách đi, gọi món gì và ăn thế nào, mẹo, phép tắc nơi đến. Nói như người đang đi thật, kể ngôi thứ nhất, không đọc như thuyết minh; con số và giá chỉ nói khi có nguồn. Tập 90 giây có nhiều điểm dừng hơn: thêm quán ăn sáng, chợ, con đường đẹp, người địa phương làm nghề (không cận mặt người lạ). **Từ Tập 10:** mỗi clip một điều cụ thể, **nói vu vơ** trong lúc làm (ví dụ *bước chậm thôi em*) hoặc **cho thấy trên hình** (cách cầm, cách ăn); con số để trong caption |
 | **Không ngoặc kép (từ Tập 4)** | Trong file clip, lời thoại viết sau nhãn thoại, không đặt trong ngoặc kép và không để chữ nào trong dấu nháy: Gemini Omni hiểu chữ trong ngoặc kép là chữ cần hiện lên hình. README vẫn ghi thoại trong ngoặc kép cho người đọc |
 
 ---
@@ -290,6 +325,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 ### Chặng 2: Tây Bắc (Tập 6–10)
 - **Tập 6 (Lào Cai):** Bắc Hà, Pạc Kha, Dinh Hoàng A Tưởng, Sa Pa, Nhà Thờ Đá Sa Pa, Nhà Thờ Đá, Hoàng Liên Sơn, Ga Hoàng Liên, Ga Fansipan, Đỉnh Fansipan, Fansipan, Hủa Xi Pan, Bản Cát Cát, Cát Cát, Đèo Ô Quy Hồ, Ô Quy Hồ, Mù Cang Chải, Lào Cai
 - **Tập 7 (Yên Bái):** Đèo Khau Phạ, Khau Phạ, Thung Lũng Cao Phạ, Cao Phạ, Bản Lìm Mông, Tú Lệ, Nếp Tan Tú Lệ, Pa Pỉnh Tộp, Đồi Mâm Xôi, La Pán Tẩn, Rừng Trúc Mù Cang Chải, Bản Nả Háng Tủa Chử, Púng Luông, Đồi Móng Ngựa, Sáng Nhù, Mù Cang Chải, Yên Bái, Lai Châu
+- **Tập 10 (Sơn La):** Tà Xùa, Xã Tà Xùa, Sống Lưng Khủng Long, Bản Bẹ, Háng Đồng, Bắc Yên, Ngã Ba Cò Nòi, Thuận Châu, Đèo Pha Đin, Mộc Châu, Sơn La, Tây Bắc (từ 01/7/2025 không còn cấp huyện: viết *xã Tà Xùa, tỉnh Sơn La*, không viết *huyện Bắc Yên*)
 
 ---
 
@@ -319,6 +355,9 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 | **5** | Tuyên Quang | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Ba 27/10/2026 trên Hồ Na Hang: thuyền gỗ quay mũi về bến thủy Thượng Lâm lúc hoàng hôn (mặt trời lặn 17:24), hai người mặc áo phao cam; Scrambler đỗ ở bến, 2 mũ 3/4 móc trên ghi-đông. Ngoài khung: về bến trước 17:30, đội mũ, cài quai, chạy khoảng 1,3 km về nhà sàn Bản Nà Tông nghỉ đêm. Tập 6 mở sáng thứ Tư 28/10/2026 (19/9 âm lịch) ở sân nhà sàn Bản Nà Tông: Scrambler dưới gầm sàn, 2 mũ móc trên ghi-đông; không chạy đèo ban đêm |
 | **6** | Lào Cai | 9 | ✅ HOÀN THÀNH (90 giây) | Chiều thứ Năm 29/10/2026 (17:00) trên Đèo Ô Quy Hồ: hai người nhấc mũ 3/4 từ ghi-đông, đội, cài quai, gạt kính xuống; Scrambler bật đèn pha rời bãi dừng ngắm cảnh bên biển mây vàng cam lúc ráng chiều để về nghỉ đêm dưới chân đèo trước khi tối (không chạy đèo ban đêm). Tập 7 mở sáng thứ Sáu 30/10/2026 trên cung đường QL32 hướng đi Đèo Khau Phạ – Mù Cang Chải (Yên Bái) |
 | **7** | Yên Bái | 9 | ✅ HOÀN THÀNH (90 giây) | Sáng thứ Bảy 31/10/2026 (07:30) tại sân nhà sàn Mù Cang Chải: hai người nhấc mũ 3/4 từ ghi-đông, đội, cài quai, gạt kính xuống; Scrambler lăn bánh rời Mù Cang Chải theo QL32 ngập nắng sớm hướng sang Lai Châu. Tập 8 mở sáng thứ Bảy 31/10/2026 trên cung đường QL32 – Lai Châu |
+| **8** | Lai Châu | 6 | ✅ HOÀN THÀNH (60 giây, đã render) | Sáng Chủ Nhật 01/11/2026 (07:30) ở sân homestay Sìn Hồ: hai người nhấc mũ 3/4 từ ghi-đông, đội, cài quai, gạt kính xuống; Scrambler rời Lai Châu theo QL12 dọc sông Nậm Na hướng Điện Biên. Tập 9 mở 08:30 cùng ngày ở cửa ngõ Mường Lay |
+| **9** | Điện Biên | 6 | ✅ HOÀN THÀNH (60 giây, đã render) | Sáng thứ Hai 02/11/2026 (07:30) bên lề QL6 sườn Đèo Pha Đin: hai người ngồi trên Scrambler, đội mũ 3/4 cài quai, gạt kính xuống; xe lăn bánh theo QL6 vào đất Sơn La. Ngoài khung: QL6 qua Thuận Châu, Ngã Ba Cò Nòi, rẽ QL37 lên Bắc Yên rồi lên Tà Xùa trước khi tối (không chạy đường núi ban đêm), ngủ homestay |
+| **10** | Sơn La (Tà Xùa) | 3 | 📝 ĐÃ VIẾT (30 giây — tập đầu theo luật mới), chờ render | Sáng thứ Ba 03/11/2026 (khoảng 06:25) ở đầu đường mòn Sống Lưng Khủng Long, xã Tà Xùa: hai người đội mũ 3/4, cài quai, gạt kính xuống; Scrambler lăn bánh xuống dốc giữa biển mây buổi sớm, hướng Mộc Châu (khoảng 100 km). Tập 11 mở ở Mộc Châu, nhử sẵn: đồi hoa cải trắng như tuyết |
 
 ---
 
@@ -347,3 +386,7 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 - [ ] Không giới thiệu tên nhân vật ("mình là Vy"...), không thẻ tên, không profile card
 - [ ] Giọng @Vy = nữ trong trẻo ngọt ngào; Giọng @Joi = nam trầm ấm hào sảng
 - [ ] Single continuous shot — không cắt góc đột ngột trong 10 giây
+- [ ] (Từ Tập 10) Tập đúng 3 clip = 30 giây; README có dòng ⚡ Vì sao hot với nguồn và ngày kiểm tra; TRENDS.md đã ghi lần quét
+- [ ] (Từ Tập 10) Clip 1 có hook trong 2 giây đầu: cảnh đẹp nhất + câu phản ứng/câu hỏi, không chào, không nói số tập
+- [ ] (Từ Tập 10) Thoại mỗi clip khoảng 22–25 âm tiết, mỗi lượt 3–10 âm tiết; không đọc số liệu, không kể liền nhiều địa danh; đọc to lên nghe như hai người nói chuyện với nhau
+- [ ] (Từ Tập 10) Clip 3 kết bằng câu nhử chặng sau hoặc câu hỏi; caption có dòng hook, một câu hỏi, đúng 5 hashtag

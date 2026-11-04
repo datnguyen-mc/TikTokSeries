@@ -25,6 +25,15 @@
 > - Tập 1–7 (30s = 3 clip) và Tập 8 (40s = 4 clip) giữ nguyên độ dài cũ.
 > - Twist và cú "đứng hình" luôn nằm ở clip cuối cùng.
 
+> **Từ Tập 16: mỗi tập là một tập hài thời sự** (yêu cầu ngày 04/11/2026: pha cảnh hài hước và thông tin của ngày hiện tại vào câu chuyện). Tập 1–15 giữ nguyên.
+> - **Tin của ngày:** trước khi viết, quét Google Trends VN (RSS) và RSS VnExpress, Dân trí, Tuổi Trẻ; chọn 1–3 tin trong 48 giờ gần nhất, càng gần túi tiền và căn bếp càng tốt (giá xăng, điện, gas, chợ; lương, thưởng, ngày lễ; thời tiết; chính sách mới có hiệu lực; trào lưu mạng). Mỗi con số phải có ít nhất một nguồn báo, ghi vào bảng **Tin thời sự trong tập** của README và mục ngày đó trong [TRENDS.md](../TRENDS.md). Tin mới ở mức đề xuất thì nói rõ là đề xuất.
+> - **Tin là động cơ câu chuyện, không chỉ là câu nhắc:** kèo của Hường ở Clip 1 bắt nguồn từ tin; món ăn hoặc cách nấu được chọn vì tin (gas tăng → nấu bằng nồi cơm điện); twist ở clip cuối dùng lại đúng con số hoặc chữ khóa của tin. Hường luôn hiểu tin theo kiểu keo kiệt có lợi cho mình, Phèo dùng tin để lật kèo.
+> - **Hài tối thiểu mỗi tập:** (1) một miếng hài lặp lại 2–3 lần trong tập (ví dụ tai Phèo cụp mỗi lần nghe chữ "giảm"); (2) ít nhất một gag hình thể không thoại giữa tập, 2–3 giây (Hường dang tay chắn bếp như thủ môn, ngủ gục chờ nồi, Phèo nhìn thẳng ống kính mặt đơ); (3) twist đứng hình chơi chữ trên con số của tin. Hường giữ bàn tính gỗ hạt đỏ (không chữ số) làm đạo cụ "tính tiền".
+> - **Thoại:** mỗi clip vẫn tối đa khoảng 31 âm tiết và một con số chính; con số của tin nói bằng chữ và làm tròn cho dễ nghe (hai phần trăm). Con số chi tiết, mốc ngày, nguồn nằm ở mục **📌 Điểm tin** trong `caption.md`.
+> - **Không dùng:** tai nạn, án mạng, thiên tai có thiệt hại, chính trị trong và ngoài nước, người nổi tiếng hay người thật, thương hiệu, xổ số, cờ bạc; không chế giễu cơ quan nhà nước hay người gặp nạn.
+> - **Bối cảnh liền một mạch:** vì clip nào cũng nối frame cuối, tập nên diễn ra trọn trong bếp (hoặc đi bộ liền từ bếp qua cửa phải sang góc bàn ăn trong cùng một clip); không cắt cứng sang góc bàn ăn.
+> - **Đăng trong 24–48 giờ** kể từ ngày tin ra; README ghi hạn đăng và nhắc kiểm tra lại số liệu trước giờ đăng.
+
 ---
 
 ## 1. Khóa nhân vật (Character Bible)
@@ -215,6 +224,7 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 | 13 | Thịt ba chỉ quay giòn bì bằng chảo · Thưởng một chiếc xe | Hường đứng tựa khung cửa lắc chìa khóa ra kèo "Quay ba chỉ nổ bì bằng chảo, chị thưởng liền một chiếc xe!", Phèo tưởng xe máy/xe hơi mới; Phèo chia sẻ trọn bộ công thức sáu trăm gam thịt ba chỉ tươi vuông vắn luộc sơ mặt bì mười phút với gừng đập dập rồi thấm khô, xăm nĩa đều tay khắp mặt bì, ướp ngũ vị hương vào phần thịt nạc, quét hai muỗng giấm trắng phủ một muỗng muối hạt làm khô da rồi gạt bớt muối thừa, úp mặt bì vào chảo chống dính lửa vừa mười lăm phút cho nổ cốm vàng ruộm và lật chiên vàng các mặt thịt; cuối tập Hường giữ lời đặt lên bàn trao thưởng cho Phèo… một chiếc xe đồ chơi dây cót mini bằng nhựa màu đỏ chạy vòng vòng quanh đĩa thịt (tập 60s = 6 clip × 10s) | Chảo chống dính |
 | 14 | Cá lăng nấu măng chua · Thưởng Tết sớm dày cộp | ⚡ Trend săn cá lăng gần 20kg hồ Trị An & công bố thưởng Tết sớm (03/11): Hường cầm bao lì xì đỏ dày cộp hứa trao "thưởng Tết sớm dày cộp" nếu Phèo nấu cá lăng măng chua không tanh; Phèo chà cá lăng bằng muối hạt và chanh, luộc sơ măng chua 3 phút khử chua gắt, áp sơ cá với dầu điều nước mắm rồi nấu lửa vừa 12 phút; cuối tập Hường rút từ bao đỏ ra tặng Phèo nguyên… lốc lịch giấy dày cộp để bóc đếm ngày tới Tết (tập 50s = 5 clip × 10s) | Hạt nêm |
 | 15 | Vịt cỏ om sấu nước dừa · Chốt lịch nghỉ lễ 24/11 hưởng nguyên lương | ⚡ Trend lịch nghỉ lễ Ngày Văn hóa Việt Nam 24/11 hưởng nguyên lương (03/11): Hường khoe lịch nghỉ lễ cuối cùng trong năm 24/11, Phèo hỏi xoáy "nghỉ gộp 4 ngày hay mở bếp trả 300% lương theo luật lao động?"; Phèo áp chảo vịt cỏ ướp sả gừng trong nồi gang cho săn da vàng óng rồi om với nước dừa tươi, sấu xanh và khoai sọ 15 phút; mùi vịt om sấu thơm nức mũi làm Hường chốt cho Phèo nghỉ lễ hưởng nguyên lương (tập 50s = 5 clip × 10s) | Nồi gang / bếp |
+| 16 | Cơm gà nồi cơm điện · Gas tăng, điện giảm, thưởng hai phần trăm | ⚡ Tập hài thời sự đầu tiên (04/11): xăng giảm, điện giảm 2% từ 1/11, gas tháng 11 tăng, lương tối thiểu vùng 2027 tăng. Hường hí hửng "cái gì cũng giảm", Phèo sợ bị giảm lương; Hường dang tay chắn bếp vì gas tăng, Phèo nấu nguyên bữa bằng nồi cơm điện (phi tỏi gừng trong lòng nồi, xào hai chén gạo, bớt nước, ủ thêm mười phút); Hường ngủ gục chờ nồi nhảy nút; ăn xong Phèo xin tăng lương theo lương tối thiểu, Hường "thưởng hai phần trăm nồi cơm" đúng một muỗng rồi ôm nguyên nồi đi mất (tập 60s = 6 clip, trọn trong bếp) | Không |
 
 ---
 
@@ -239,6 +249,7 @@ Mỗi tập mới **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 
 | 13 | [tap-13/](tap-13/README.md) | Thịt ba chỉ quay giòn bì bằng chảo · Thưởng một chiếc xe |
 | 14 | [tap-14/](tap-14/README.md) | Cá lăng nấu măng chua · Thưởng Tết sớm dày cộp |
 | 15 | [tap-15/](tap-15/README.md) | Vịt cỏ om sấu nước dừa · Chốt lịch nghỉ lễ 24/11 hưởng nguyên lương |
+| 16 | [tap-16/](tap-16/README.md) | Cơm gà nồi cơm điện · Gas tăng, điện giảm, thưởng hai phần trăm |
 
 ## Tập 14 (`tap-14`)
 

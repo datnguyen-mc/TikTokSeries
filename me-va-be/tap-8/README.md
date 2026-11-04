@@ -1,8 +1,12 @@
-# Mẹ và Bé — Tập 8: Đơn may cuối năm & Nụ cười đầu tiên dành cho mẹ
+# Mẹ và Bé — Tập 8: Nụ cười đầu tiên dành cho mẹ
 
-**Ngày 8** · **Tuần 8: Gạo và Bông 53 ngày tuổi (gần 2 tháng tuổi)** · Tập 50s = 5 clip × 10s · 9:16 · thoại tiếng Việt · không chữ trên video · hình người thật do AI tạo
+**Ngày 8** · **Tuần 8: Gạo và Bông 53 ngày tuổi (gần 2 tháng)** · Tập 30s = 3 clip × 10s · 9:16 · thoại tiếng Việt · không chữ trên video · hình người thật do AI tạo
 
-> **Cách dựng:** Clip 1, Clip 4: **Video → Gemini Omni → Ingredients**, độ dài 10s, đính ảnh như bảng Các clip bên dưới, dán prompt. Clip 2, Clip 3, Clip 5: **Save frame** khung cuối clip trước → **Frames**, đặt làm **Start frame**, độ dài 10s, dán prompt; nếu Flow đã có **Extend** cho Omni thì bấm Extend trên clip trước rồi dán prompt clip sau. Clip 4 mở lại bằng Ingredients với bộ ảnh tham chiếu giai đoạn 1–2 tháng (`REF_NGOC_A`, `REF_GAO_B`, `REF_BONG_B`) để neo lại chuẩn gương mặt Ngọc và hai bé. Ghép 5 clip trong Scenebuilder. Chi tiết: FLOW_GUIDE mục 1.
+**⚡ Vì sao dễ viral:** dạng video "phản ứng của em bé với cha mẹ" lan rất mạnh trên TikTok Việt Nam: clip 7 giây một bé 21 tháng ở Hà Nội nói chữ "Nín" đạt hơn 18 triệu lượt xem ([VietNamNet, 03/11/2024](https://vietnamnet.vn/en/hanoi-toddler-s-one-word-video-charms-the-internet-with-18-million-views-2338194.html)). Tập này dồn cả 30 giây vào đúng một phản ứng: mặt nghiêm như ông cụ non (giây 0) → nụ cười đầu tiên với mẹ (giây 20). Khung cuối lặp lại khung đầu để người xem xem lại. Kiểm tra ngày 04/11/2026.
+
+**Kiểm tra đồ hot (04/11/2026):** top 10 Mẹ & Bé trên TikTok Shop Việt Nam theo đơn 7 ngày ([FindNiche, dữ liệu 01/11/2026](https://findniche.com/tiktok/trending-baby-and-maternity-products-vn)) gồm nước giặt đồ lót, đồ chơi nhà tắm vặn cót, áo phao trần bông, bỉm, khăn ướt, hộp trữ đồ ăn dặm. Không món nào hợp với bé 53 ngày tuổi trong phòng trọ Sài Gòn: đồ chơi vặn cót và hộp ăn dặm dành cho trẻ lớn hơn, áo phao dễ làm bé nóng, còn bỉm và khăn ướt kéo theo cảnh thay tã mà Flow đã từng chặn. Vì vậy tập này giữ **thẻ tương phản đen trắng**: rẻ, đúng tuổi, và CDC ghi rằng bé 2 tháng "nhìn một món đồ chơi trong vài giây". Phần hot của tập là nội dung, không phải món đồ.
+
+> **Cách dựng:** Clip 1: **Video → Gemini Omni → Ingredients**, 10s, đính `REF_NGOC_A`, `REF_GAO_B`, `REF_BONG_B`, `SP_THE_TUONG_PHAN`, dán prompt. Clip 2 và Clip 3: **Save frame** khung cuối clip trước → **Frames**, đặt làm **Start frame**, 10s, dán prompt (runner tự nối khung cuối). Ghép 3 clip trong Scenebuilder. Chi tiết: FLOW_GUIDE mục 1.
 > **Copy prompt:** mỗi file `clip-{số}.md` chỉ chứa đúng prompt: mở file, bấm Cmd+A rồi Cmd+C, dán thẳng vào ô prompt của Flow, không sửa gì.
 > **Khóa nhân vật, bối cảnh, ảnh tham chiếu:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Quy trình, xử lý lỗi:** [FLOW_GUIDE.md](../../FLOW_GUIDE.md)
 
@@ -10,26 +14,41 @@
 
 ---
 
-**Tóm tắt:** Chiều muộn 16:30, các xưởng may vào mùa cao điểm đơn hàng cuối năm; Ngọc vừa buộc xong kiện hàng gia công dày cộp để dành dụm khoản tiền Tết cho ba mẹ con, bả vai mỏi nhừ sau nhiều giờ ngồi máy may. Nghe tiếng hai con tròn 53 ngày tuổi (Tuần 8 — gần 2 tháng) ê a "a, ơ" thức dậy trong hai chiếc nôi gỗ, Ngọc lập tức tươi tỉnh, cầm **bộ thẻ và vòng treo kích thích thị giác đen-trắng-đỏ tương phản cao** (`SP_TREO_NOI`) bước lại bên con: "Mẹ ráng may xong lô hàng cuối năm kiếm tiền sắm Tết, nghe tiếng hai anh em kêu là hết mỏi liền." Ngọc cầm tấm thẻ hình học đen trắng ở khoảng cách 25 cm phía trên ngực Gạo rồi đưa chậm qua lại; đôi mắt đen sáng của Gạo tập trung nhìn theo rất mượt trước khi chuyển ánh nhìn thẳng lên gương mặt mẹ: "Gần hai tháng tuổi mắt con nhìn rõ hình tương phản cách hai ba chục phân, đưa mắt theo giỏi ghê chưa." Khi Ngọc đặt thẻ ra kệ ngoài và cúi xuống trò chuyện gần mặt con: "Anh hai Gạo nhìn mẹ chăm chú dữ vậy, nay nói chuyện với mẹ Ngọc hả con?", Gạo đang thức tỉnh táo bỗng giãn đôi mày nghiêm nghị, hai má phúng phính nâng lên và nở **nụ cười có chủ đích đầu tiên (`social smile`)** tươi rói nhìn thẳng vào mắt mẹ kèm tiếng "a, ơ" vui vẻ! Ngọc sững người xúc động, khóe mắt long lanh: "Trời ơi... Gạo cười với mẹ kìa! Lần đầu tiên con thức mà nhìn mẹ cười tươi vậy luôn!" Bên nôi phải, Bông cũng quơ đôi bàn tay nhỏ kêu "ơ, a" gọi mẹ; vừa thấy mẹ nghiêng sang trò chuyện, cô út liền cong đôi môi chúm chím cười tươi đáp lại mẹ: "Cô út Bông cũng ganh với anh hai, nhìn mặt mẹ cười toe đáp lại mẹ luôn kìa!" Đứng giữa hai nôi cho hai con nắm ngón tay và ê a trò chuyện, mọi mỏi mệt cuối năm của Ngọc tan biến: "Gần hai tháng biết nhìn mẹ cười, biết ê a trò chuyện rồi. Bao nhiêu cực nhọc cuối năm nhìn một nụ cười của hai con là tan hết."
+**Tóm tắt:** 16:30, Ngọc vừa may xong kiện hàng cuối năm, thước dây còn vắt trên cổ. Gạo nằm trong nôi, mặt nghiêm như ông cụ non nhìn chằm chằm lên mẹ. Ngọc bật cười, lấy tấm thẻ đen trắng trên tủ nhựa cạnh nôi cho con coi. Bông ở nôi bên cạnh ọ ẹ ganh tị, Ngọc đưa thẻ qua cho Bông coi một chút, rồi cất thẻ lên tủ và cúi sát mặt con. Gạo nhìn mẹ, cái mặt nghiêm giãn ra, và lần đầu tiên con thức mà cười với mẹ. Bông cũng cười theo. Ngọc vừa khóc vừa cười.
 
-**Nhân vật & ảnh cần đính kèm:** Clip 1: `REF_NGOC_A`, `REF_GAO_B`, `REF_BONG_B`, `SP_TREO_NOI`. Clip 4: `REF_NGOC_A`, `REF_GAO_B`, `REF_BONG_B`. Clip 2, Clip 3, Clip 5 làm bằng Frames hoặc Extend.
+**Nhân vật & ảnh cần đính kèm:** Clip 1: `REF_NGOC_A`, `REF_GAO_B`, `REF_BONG_B`, `SP_THE_TUONG_PHAN`. Clip 2, Clip 3 làm bằng Frames.
 
-**Trang phục:** Ngọc A (đồ bộ xanh lá xô thơm nhạt in hoa trắng) · Gạo đồ cotton xanh bạc hà thêu gấu nâu · Bông đồ cotton hồng phấn bèo vai thêu dâu.
+**Trang phục:** Ngọc A (đồ bộ xanh lá xô thơm nhạt in hoa trắng, thêm thước dây vàng vắt cổ) · Gạo đồ cotton xanh bạc hà thêu gấu nâu · Bông đồ cotton hồng phấn bèo vai thêu dâu.
 
-**Đạo cụ & Đồ cho bé lồng ghép:** **Bộ thẻ kích thích thị giác & khung treo đồ chơi vải tương phản đen-trắng-đỏ (`SP_TREO_NOI`)**: bề mặt mờ chống chói, hình khối đen-trắng rõ nét, không có dây dài lòng thòng hay chi tiết nhỏ rơi rời, luôn cất ra ngoài nôi khi bé ngủ.
+**Đồ cho bé:** **Bộ thẻ tương phản đen trắng cho bé sơ sinh (`SP_THE_TUONG_PHAN`)**: giấy dày, mặt mờ, bo góc, không dây, không chi tiết nhỏ. Thẻ để trên tủ nhựa cạnh nôi, mẹ cầm cho bé coi lúc thức, coi xong cất ra ngoài; trong nôi không có gì. Tập này bỏ khung treo nôi của bản cũ để không có đồ treo trên chỗ bé ngủ.
+
+## Kịch bản nhanh (30 giây)
+
+| Giây | Hình | Thoại |
+| --- | --- | --- |
+| 0–2 | **Hook:** cận Gạo, mặt nghiêm như ông cụ non, chỏm tóc dựng, kêu một tiếng "ơ" | — |
+| 2–8 | Ngọc ngồi mép giường cúi vô nôi, lấy thẻ đen trắng trên tủ | Ngọc: "Ủa, ai mà nhìn mẹ ghê vậy nè?" · "Nè, coi cái này nè con." |
+| 8–13 | Mắt Gạo dõi theo thẻ, Bông ọ ẹ ganh tị | — |
+| 13–15 | Ngọc quay qua Bông, đưa thẻ cho Bông coi | Ngọc: "Rồi rồi, Bông cũng đòi coi hả?" |
+| 15–18 | Cất thẻ lên tủ, cúi sát mặt Gạo khoảng 25 cm | Ngọc: "Thôi, coi mặt mẹ nè." |
+| 18–20 | Gạo chuyển mắt lên mặt mẹ, chân mày giãn dần | — |
+| 20–22,5 | **Cao trào:** Gạo cười móm toe toét lần đầu với mẹ, kêu "a… ơ" | — |
+| 22,5–25 | Ngọc lấy tay che miệng, mắt rưng rưng | Ngọc: "Trời ơi… Gạo cười với mẹ kìa!" |
+| 25–28 | Bông cũng cười; Ngọc vừa lau nước mắt vừa cười | Ngọc: "Hai đứa hùa nhau chọc mẹ khóc hả?" |
+| 28–30 | Về lại đúng khung mở đầu: cận Gạo, giờ đang cười (vòng lặp) | — |
+
+Thoại cả tập: 6 câu, 41 âm tiết, câu dài nhất 8 âm tiết; mỗi clip 12–15 âm tiết.
 
 ## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
 
 | Clip | Thời gian | Cách tạo | File prompt |
 | --- | --- | --- | --- |
-| 1 | 00:00–00:10 | Ingredients (16:30 chiều): đính `REF_NGOC_A`, `REF_GAO_B`, `REF_BONG_B`, `SP_TREO_NOI` | [clip-1.md](clip-1.md) |
-| 2 | 00:10–00:20 | Frames: start frame = khung cuối clip 1 (hoặc Extend) | [clip-2.md](clip-2.md) |
-| 3 | 00:20–00:30 | Frames: start frame = khung cuối clip 2 (hoặc Extend) | [clip-3.md](clip-3.md) |
-| 4 | 00:30–00:40 | Ingredients, neo lại mặt lúc 16:33 chiều: đính `REF_NGOC_A`, `REF_GAO_B`, `REF_BONG_B` | [clip-4.md](clip-4.md) |
-| 5 | 00:40–00:50 | Frames: start frame = khung cuối clip 4 (hoặc Extend) | [clip-5.md](clip-5.md) |
+| 1 | 00:00–00:10 | Ingredients (16:30): đính `REF_NGOC_A`, `REF_GAO_B`, `REF_BONG_B`, `SP_THE_TUONG_PHAN` | [clip-1.md](clip-1.md) |
+| 2 | 00:10–00:20 | Frames: start frame = khung cuối clip 1 | [clip-2.md](clip-2.md) |
+| 3 | 00:20–00:30 | Frames: start frame = khung cuối clip 2 | [clip-3.md](clip-3.md) |
 
-**Ghi chú Tập 8 (Nguồn kiểm chứng nhi khoa):**
-- **Cột mốc Nụ cười xã hội (`Social Smile`) & Phát âm thủ thỉ (`Cooing`) ở mốc gần 2 tháng tuổi:** Theo Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ ([CDC — Important Milestones: Your Baby By Two Months](https://www.cdc.gov/act-early/milestones/2-months.html)), ở mốc khoảng 2 tháng tuổi (7–8 tuần), trẻ bắt đầu **mỉm cười có chủ đích khi người lớn trò chuyện hoặc cười với trẻ** (*smiles when you talk to or smile at them* — khác với nụ cười phản xạ lúc ngủ ở giai đoạn sơ sinh), biết **nhìn chăm chú vào khuôn mặt** (*looks at your face*) và **phát ra các âm thanh thủ thỉ ngoài tiếng khóc như "a, ơ, gù"** (*makes sounds other than crying*).
-- **Kích thích thị giác ở khoảng cách 20–30 cm (8–12 inches):** Theo [AAP — Infant Vision Development](https://www.healthychildren.org/English/ages-stages/baby/Pages/Babys-Vision-Development.aspx), trẻ 1–2 tháng tuổi tập trung thị lực tốt nhất ở khoảng cách **20–30 cm (8–12 inches)** — đúng bằng khoảng cách từ gương mặt mẹ đến mắt bé khi trò chuyện hoặc khi đưa thẻ hình tương phản cao chậm qua lại trước mắt bé lúc thức.
+**Ghi chú Tập 8 (nguồn):**
+- **Nụ cười xã hội lúc khoảng 2 tháng:** CDC ghi các mốc 2 tháng: "Smiles when you talk to or smile at her", "Looks at your face", "Makes sounds other than crying", "Looks at a toy for several seconds" ([CDC — Milestones by 2 Months](https://www.cdc.gov/act-early/milestones/2-months.html), cập nhật 16/05/2026). Bé 53 ngày cười đáp lại mẹ là đúng tuổi; bé song sinh hoặc sinh non có thể cười muộn hơn, phim không nói bé nào "phải" cười lúc nào.
+- **Khoảng cách 20–30 cm:** "Your newborn can best see things that are about 8 to 12 inches (20 to 30 cm) away" ([AAP — HealthyChildren.org, cập nhật 05/11/2024](https://www.healthychildren.org/English/ages-stages/baby/Pages/Babys-Vision-Development.aspx)). Nên Ngọc cầm thẻ và cúi mặt ở khoảng 25 cm. Trang AAP này không nói gì về việc thẻ đen trắng giúp phát triển thị giác, nên caption cũng không nói vậy.
+- **An toàn:** thẻ chỉ dùng lúc bé thức và mẹ cầm; trong nôi không có thẻ, dây, đồ treo (xem phần An toàn trên hình ở đầu [FLOW_PROMPTS.md](../FLOW_PROMPTS.md)).
 - **Caption:** [caption.md](caption.md) (caption, hashtag, bình luận ghim).
-

@@ -211,9 +211,10 @@ def _is_studio_portrait_frame_rgb(buf: bytes, w: int = 160, h: int = 90) -> bool
 
 def trim_studio_reference_frames(video_path: str, log_fn=None) -> bool:
     """
-    Quét 24fps ở đầu và cuối clip để phát hiện và cắt bỏ ngay các frame ảnh thẻ nhân vật (nền xám studio)
-    do Gemini Omni R2V vô tình chèn vào đầu (0.0s–2.0s) hoặc cuối (7.0s–10.0s) video,
-    kể cả khi có 1–3 frame mờ/đen ở đầu trước khi hiện ảnh thẻ.
+    1. Luôn cắt bỏ 0.5s đầu tiên (12 frames @ 24fps) đối với mọi clip gốc ~10.0s (n >= 232 frames)
+       để loại bỏ hoàn toàn hiện tượng dính/biến hình từ ảnh tham chiếu nhân vật ở đầu clip.
+    2. Quét 24fps ở đầu và cuối clip để phát hiện và cắt bỏ thêm các frame ảnh thẻ nhân vật (nền xám studio)
+       do Gemini Omni R2V vô tình chèn vào đầu (0.0s–2.0s) hoặc cuối (7.0s–10.0s) video.
     """
     if not video_path or not os.path.isfile(video_path):
         return False
@@ -235,18 +236,24 @@ def trim_studio_reference_frames(video_path: str, log_fn=None) -> bool:
         tail_window = flags[-72:]
         tail_indices = [i for i, f in enumerate(tail_window) if f]
         tail_frames = (len(tail_window) - min(tail_indices)) if (len(tail_indices) >= 2 or (tail_indices and tail_indices[-1] >= len(tail_window) - 3)) else 0
-        if head_frames == 0 and tail_frames == 0:
+
+        # Luôn bỏ ít nhất 0.5s đầu tiên (12 frames @ 24fps) nếu clip còn nguyên ~10.0s (n >= 232 frames)
+        min_head_frames = 12 if n >= 232 else 0
+        if head_frames == 0 and tail_frames == 0 and min_head_frames == 0:
             return False
 
-        # Thêm 3 frame đệm ở đầu và 5 frame đệm ở cuối để cắt sạch cả hiệu ứng mờ/chuyển cảnh vào ảnh thẻ
-        start_frame = min(head_frames + 3, n // 3) if head_frames > 0 else 0
+        # Thêm 3 frame đệm ở đầu (nếu có studio card) hoặc tối thiểu 12 frame (0.5s), và 5 frame đệm ở cuối
+        start_frame = max(min_head_frames, min(head_frames + 3, n // 3) if head_frames > 0 else 0)
         end_frame = max(n - tail_frames - 5, (n * 2) // 3) if tail_frames > 0 else n
         start_s = round(start_frame / 24.0, 3)
         end_s = round(end_frame / 24.0, 3)
         if end_s - start_s < 4.0:
             return False
 
-        msg = f"✂️ [STUDIO-CARD GUARD] Phát hiện frame ảnh tham chiếu ở {os.path.basename(video_path)} (đầu={head_frames}f, cuối={tail_frames}f) -> Cắt giữ đoạn sạch {start_s:.2f}s–{end_s:.2f}s"
+        if head_frames > 0 or tail_frames > 0:
+            msg = f"✂️ [STUDIO-CARD + 0.5s GUARD] Phát hiện frame tham chiếu ở {os.path.basename(video_path)} (đầu={head_frames}f, cuối={tail_frames}f) -> Cắt giữ {start_s:.2f}s–{end_s:.2f}s"
+        else:
+            msg = f"✂️ [TRIM 0.5s ĐẦU] Đã cắt bỏ 0.50s đầu tiên của {os.path.basename(video_path)} -> Giữ đoạn sạch {start_s:.2f}s–{end_s:.2f}s"
         if log_fn:
             log_fn(msg)
         else:

@@ -936,7 +936,7 @@ def upload_start_frame(image_path: str) -> str:
 # -------------------------------------------------------------
 # 4. GỬI API REQUEST & LOG CHI TIẾT PARAMS (KHÓA NHÂN VẬT)
 # -------------------------------------------------------------
-def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
+def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None, force_text_mode: bool = False):
     """Gửi yêu cầu tạo video 10s bằng Google Flow Omni (Ingredients R2V / Text-to-Video, không bao giờ chèn start_image_media_id ở đầu video)."""
     if len(LOCKED_CHARACTER_MEDIA_IDS) < len(CHARACTER_SPECS):
         load_and_lock_project_characters()
@@ -945,7 +945,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
     flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
 
-    ref_media_ids = get_clip_reference_media_ids(prompt)
+    ref_media_ids = [] if force_text_mode else get_clip_reference_media_ids(prompt)
 
     if ref_media_ids:
         endpoint = "/api/flow/generate-video-omni"
@@ -1211,14 +1211,15 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
             log(f"🔄 Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries})...")
 
         transient_fail = False
+        use_text_mode = (policy_attempt >= 2)
         try:
-            res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+            res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id, force_text_mode=use_text_mode)
             cooldown_loops = 0
             while res.status_code != 200 and cooldown_loops < 5:
                 err_body = res.text or ""
                 if wait_if_cooldown_error(err_body, FLOWKIT_API, log):
                     cooldown_loops += 1
-                    res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+                    res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id, force_text_mode=use_text_mode)
                 else:
                     break
 
@@ -1362,7 +1363,7 @@ def run_pipeline(start_scene=1, end_scene=40):
 
 PRIORITY_R2_MISSING_CLIPS = [
     (13, 4), (28, 1), (32, 4), (33, 5), (35, 3),
-    (39, 1), (39, 4), (40, 2), (40, 3), (40, 6),
+    (40, 2), (40, 3), (40, 6), (24, 5),
 ]
 
 

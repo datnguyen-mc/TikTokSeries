@@ -5,7 +5,7 @@
 > **Cách dựng:** Clip 1 và Clip 4: **Video → Gemini Omni → Ingredients**, độ dài 10s, đính ảnh tham chiếu `@Pheo`, `@No`, dán prompt. Clip 2, 3, 5: **Save frame** khung cuối clip trước → **Frames**, đặt làm **Start frame**, độ dài 10s, dán prompt; hoặc dùng **Extend**. Ghép 5 clip trong Scenebuilder.
 > **Khóa nhân vật, bối cảnh, ảnh tham chiếu:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Quy trình, xử lý lỗi:** [FLOW_GUIDE.md](../../FLOW_GUIDE.md)
 
-← Hôm trước: [Tập 14 — Cá lăng nấu măng chua · Thưởng Tết sớm dày cộp](../tap-14/README.md)
+← Hôm trước: [Tập 14 — Cá lăng nấu măng chua · Thưởng Tết sớm dày cộp](../tap-14/README.md) · Hôm sau: [Tập 16 — Cơm gà nồi cơm điện · Gas tăng, điện giảm, thưởng hai phần trăm](../tap-16/README.md) →
 
 ---
 

@@ -1,0 +1,32 @@
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, exact same outfits and accessories, same location, same props in their exact positions and counts, same warm lighting and color grade. Flawless physical continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, ONE CONTINUOUS SHOT (no mid-clip cuts, no camera teleports, no whip pans, no snap zooms), high-end stylized 3D animated feature film (Pixar/Disney-quality CGI), 24fps, soft global illumination, deep material shaders, detailed tactile fur. Every character stands and walks upright on two legs with four-fingered furry paw-hands and soft floppy ears hanging down, animated with natural anticipation, follow-through, secondary ear/fur/cloth motion, and believable weight transfer. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern Vietnamese accent and smooth, non-deforming lip-sync, never shown as text. Never flash or cut to a standalone character reference sheet. No subtitles, no captions, no on-screen text, no logos, no watermark.
+
+[CHARACTERS — unchanged]
+@Mit = Mit (100% exact match to @Mit reference): bipedal golden-brown male dog standing upright on two legs, stocky build with slightly round belly, white-cream muzzle and chest, thick dark eyebrows, soft floppy golden-brown dog ears hanging down (never pointed or upright), four-fingered furry paw-hands; faded grey sleeveless tank top, dark shorts, barefoot; warm, slightly raspy Southern Vietnamese male voice.
+@Nở = Nở (100% exact match to @Nở reference): adorable small bipedal cream-and-light-brown female puppy standing upright on two legs (waist-high to Mit), chubby puppy cheeks, white puppy muzzle, soft floppy light-brown puppy ears hanging down (never pointed or upright), big round sparkling dark-brown puppy eyes, four-fingered furry paw-hands; faded light-yellow short-sleeved floral blouse, calf-length dark-brown skirt, small brown sandals; high, bright Southern Vietnamese little-girl voice.
+
+[CHARACTER ENTERING THIS SEGMENT]
+@Đú = Đú (wife, early 30s, 100% exact match to @Đú reference image): gentle bipedal anthropomorphic cream-and-light-brown female Vietnamese dog (chó cái lông vàng kem) standing and walking upright on two legs, slim gentle build, soft cream-and-tan fur with a white dog muzzle and a white fur blaze running up between her eyes, long soft floppy light-brown dog ears hanging down naturally on both sides (never pointed or upright, no hair bun), gentle round dark-brown eyes, dark dog nose, furry paw-hands with exactly four fingers. She is slightly shorter than Mit. Outfit (locked to reference): faded dusty-pink short-sleeved floral blouse (áo bà ba hồng nhạt in hoa nhỏ), loose black trousers, simple brown slippers. Voice: soft, warm Southern Vietnamese female voice, early 30s, gentle and caring.
+
+[SETTING]
+INSIDE THE BAMBOO HUT: a small one-room rural hut in the 1970 Mekong Delta with woven bamboo walls whose thin gaps let in soft stripes of natural light, a nipa-palm thatch roof on bamboo rafters, a swept packed-dirt floor, a low bamboo bed (chõng tre) with a woven sedge mat, a small low wooden table beside the bed, a vintage glass-chimney kerosene lamp, a large brown glazed clay water jar (lu nước) by the door, and a three-stone wood-fire clay stove (ông táo đất nung) with a blackened pot in the corner; humble, rustic, and tidy.
+Props: the clay pot of canh chua on the stove; the clay rice pot resting on embers at the stove edge; the folded cloth pot-holder; a small square of fresh banana leaf on the low wooden table. Đú enters carrying her two empty woven cake baskets. A small grey soot smudge sits on the tip of Mit's white-cream muzzle.
+
+[CAMERA & LIGHT]
+Single continuous 3D camera shot: close on the smoking rice pot, a smooth pan to Đú arriving in the sunlit doorway, then a three-shot.
+
+[SHOT LIST]
+00:00–00:03.5 | Medium shot, continuing smoothly — a thin wisp of grey smoke curls up from the clay rice pot on the embers; Mit sniffs, freezes, then lifts its lid with the cloth: the bottom layer of rice has turned into a golden-brown crust. Mit says (warm, slightly raspy Southern Vietnamese male voice, horrified whisper): Chết, quên nồi cơm!
+00:03.5–00:05.5 | Smooth pan to the doorway — Đú appears in the sunlit bamboo doorway carrying her two empty woven baskets, all her cakes sold, and looks around at the smoky hut and Mit's soot-smudged muzzle with wide, amused eyes. Đú says (soft, warm Southern Vietnamese female voice, amused): Mình nấu sao rồi?
+00:05.5–00:07.5 | Medium shot on Mit — he steps in front of the stove to block her view with a big forced grin, ears hanging stiffly. Mit says (warm, slightly raspy Southern Vietnamese male voice, sheepish bravado): Dễ... dễ ợt!
+00:07.5–00:10.0 | Medium three-shot — Nở pops out from behind Mit holding up a round piece of golden rice crust (cơm cháy) on the small square of banana leaf and takes a loud crunchy bite. Nở says (high, bright Southern Vietnamese little-girl voice, delighted): Cơm cháy giòn rụm, Nở khoái nhứt!
+
+[SOUND]
+Background music: warm, playful nostalgic acoustic guitar with light bamboo-flute accents, low volume under the dialogue.
+Foley: faint sizzle from the rice pot, a sniff, the lid lifting, soft footsteps at the doorway, empty baskets bumping, one very loud crispy crunch.
+
+[END FRAME]
+Medium three-shot inside the hut: Đú in the doorway with her empty baskets laughing softly, Mit in front of the stove with a soot-smudged muzzle and a sheepish grin, Nở holding up the golden cơm cháy; natural breathing in the final 0.5 seconds.
+
+[AVOID]
+humans, human faces, human children, human hands, four-legged non-anthropomorphic dogs, pointed upright ears, ear tips folded up, pigtails, hair buns, hairpins, game-engine stiffness, robotic movement, plastic skin or fur, excessive bloom, harsh lens flare, shaky camera, mid-clip hard cuts, whip pans, snap zooms, deformed muzzles, fused fingers, extra fingers (must be exactly four fingers per paw), props appearing or disappearing, hands clipping through objects, readable text, letters, numbers, logos, watermarks, subtitles, modern plastic or electric objects, child touching fire or hot pots, anyone leaning face-first over an open flame or boiling pot, tasting from the cooking ladle then stirring again, fish jumping out of the pot, black charred smoke filling the hut, modern cookware, paper money or coins with readable numbers.

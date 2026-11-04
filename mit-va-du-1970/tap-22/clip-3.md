@@ -1,0 +1,28 @@
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, exact same outfits and accessories, same location, same props in their exact positions and counts, same warm lighting and color grade. Flawless physical continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, ONE CONTINUOUS SHOT (no mid-clip cuts, no camera teleports, no whip pans, no snap zooms), high-end stylized 3D animated feature film (Pixar/Disney-quality CGI), 24fps, soft global illumination, deep material shaders, detailed tactile fur. Every character stands and walks upright on two legs with four-fingered furry paw-hands and soft floppy ears hanging down, animated with natural anticipation, follow-through, secondary ear/fur/cloth motion, and believable weight transfer. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern Vietnamese accent and smooth, non-deforming lip-sync, never shown as text. Never flash or cut to a standalone character reference sheet. No subtitles, no captions, no on-screen text, no logos, no watermark.
+
+[CHARACTERS — unchanged]
+@Mit = Mit (100% exact match to @Mit reference): bipedal golden-brown male dog standing upright on two legs, stocky build with slightly round belly, white-cream muzzle and chest, thick dark eyebrows, soft floppy golden-brown dog ears hanging down (never pointed or upright), four-fingered furry paw-hands; faded grey sleeveless tank top, dark shorts, barefoot; warm, slightly raspy Southern Vietnamese male voice.
+@Nở = Nở (100% exact match to @Nở reference): adorable small bipedal cream-and-light-brown female puppy standing upright on two legs (waist-high to Mit), chubby puppy cheeks, white puppy muzzle, soft floppy light-brown puppy ears hanging down (never pointed or upright), big round sparkling dark-brown puppy eyes, four-fingered furry paw-hands; faded light-yellow short-sleeved floral blouse, calf-length dark-brown skirt, small brown sandals; high, bright Southern Vietnamese little-girl voice.
+
+[SETTING]
+INSIDE THE BAMBOO HUT: a small one-room rural hut in the 1970 Mekong Delta with woven bamboo walls whose thin gaps let in soft stripes of natural light, a nipa-palm thatch roof on bamboo rafters, a swept packed-dirt floor, a low bamboo bed (chõng tre) with a woven sedge mat, a small low wooden table beside the bed, a vintage glass-chimney kerosene lamp, a large brown glazed clay water jar (lu nước) by the door, and a three-stone wood-fire clay stove (ông táo đất nung) with a blackened pot in the corner; humble, rustic, and tidy.
+Props: a low wood fire burns in the three-stone clay stove under a covered clay rice pot (nồi đất) holding rinsed rice and water; a stack of dry firewood sticks beside the stove, a folded cloth pot-holder and a pair of long wooden cooking chopsticks; Mit sets the basket of cá linh and bông điên điển on the low wooden table.
+
+[CAMERA & LIGHT]
+Single continuous 3D camera shot: medium shot following Mit to the clay stove, a smooth tilt to the boiling rice pot, then a two-shot as Nở takes charge.
+
+[SHOT LIST]
+00:00–00:03.5 | Medium shot, continuing smoothly — Mit sets the fish basket on the low wooden table, squats by the clay stove and confidently shoves a big armful of firewood sticks into it; the fire flares up with a soft whoosh and a puff of soot leaves a small grey smudge on the tip of his white-cream muzzle.
+00:03.5–00:06.5 | Close-up on the rice pot, smooth tilt — the clay rice pot boils over, starchy white foam bubbling out from under the wooden lid and hissing on the flames; Mit hops back a step, ears swinging. Mit says (warm, slightly raspy Southern Vietnamese male voice, startled comic panic): Trời đất, cơm nó trào!
+00:06.5–00:10.0 | Medium two-shot — standing a safe step away from the stove, Nở calmly points with one paw like a little teacher while Mit obeys: he pulls two burning sticks back out with the cloth pot-holder, lifts the lid with the cloth, stirs the rice with the long wooden chopsticks and closes the lid. Nở says (high, bright Southern Vietnamese little-girl voice, bossy little-teacher tone): Ba rút bớt củi, ghế cơm rồi đậy vung lại!
+
+[SOUND]
+Background music: warm, playful nostalgic acoustic guitar with light bamboo-flute accents, low volume under the dialogue.
+Foley: crackling wood fire, a soft whoosh as the flames flare, rice foam hissing on the fire, wooden lid rattling, chopsticks stirring rice.
+
+[END FRAME]
+Medium two-shot by the clay stove: the covered rice pot simmering calmly over a smaller fire, Mit holding the long chopsticks with a soot smudge on his muzzle and a sheepish grin, Nở beside him with her paws on her hips; natural breathing in the final 0.5 seconds.
+
+[AVOID]
+humans, human faces, human children, human hands, four-legged non-anthropomorphic dogs, pointed upright ears, ear tips folded up, pigtails, hair buns, hairpins, game-engine stiffness, robotic movement, plastic skin or fur, excessive bloom, harsh lens flare, shaky camera, mid-clip hard cuts, whip pans, snap zooms, deformed muzzles, fused fingers, extra fingers (must be exactly four fingers per paw), props appearing or disappearing, hands clipping through objects, readable text, letters, numbers, logos, watermarks, subtitles, modern plastic or electric objects, child touching fire or hot pots, anyone leaning face-first over an open flame or boiling pot, tasting from the cooking ladle then stirring again, fish jumping out of the pot, black charred smoke filling the hut, modern cookware, paper money or coins with readable numbers.

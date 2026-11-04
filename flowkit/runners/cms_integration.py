@@ -1351,7 +1351,8 @@ _EN_SAFE_REPLACEMENTS = [
     (r"\b(?:breastfeed|breastfeeding|nursing\s+pillow|nursing\s+cover|suckling)\b", "caring for the babies with a soft support cushion"),
     (r"\b(?:newborn\s+baby|newborn\s+babies|newborn)\b", "adorable young baby"),
     (r"\b(?:infant|infants)\b", "young child"),
-    (r"\b(?:skull|skulls|skeleton|skeletons|demon|demons|monster|monsters)\b", "traditional ornament"),
+    (r"\b(?:skull|skulls|skeleton|skeletons|demon|demons|monster|monsters|ghost|ghosts|corpse|corpses)\b", "traditional ornament"),
+    (r"\b(?:horror|terror|terrified|haunted|gore|blood|bloody|physical\s+violence|physical\s+harm)\b", "dramatic mystery"),
 ]
 
 _VI_SAFE_REPLACEMENTS = [

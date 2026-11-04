@@ -96,7 +96,7 @@ CHARACTER_SPECS = [
         "key": "BacBaoVe",
         "tag": "@BacBaoVe",
         "aliases": ["@BacBaoVe", "Ông Bảy Bảo Vệ", "Ông Bảy", "BacBaoVe"],
-        "default_media_id": "e31adf0c-91da-4077-b996-2089e52fcaf0",
+        "default_media_id": "28e38194-0b57-4a2e-a45e-fa723082d428",
         "description": "Bảo vệ trực đêm chung cư cũ Lô C, 58 tuổi; cao 168 cm, dáng hơi gù, tóc cắt ngắn điểm bạc, gương mặt gầy góc cạnh lạnh lùng, mặc đồng phục bảo vệ xanh đen sẫm cài kín cổ, cầm chùm chìa khóa đồng cũ và đèn pin vỏ sắt.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @BacBaoVe, a 58-year-old Vietnamese night-shift security guard, 168 cm, "
@@ -307,24 +307,18 @@ def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = No
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
-    """Chỉ lấy đúng media_id của các nhân vật xuất hiện trong khối [CHARACTERS] của shot hiện tại."""
+    """Chỉ lấy đúng media_id của các nhân vật được khai báo đầu dòng trong khối [CHARACTERS] của shot hiện tại."""
     import re as _re
     if "[CHARACTERS" in prompt:
-        reference_sections = _re.findall(
-            r"^\[(?:CHARACTERS[^\]]*|PICTURE-ONLY REFERENCES)\]\s*\n(.*?)(?=^\[|\Z)",
-            prompt,
-            flags=_re.MULTILINE | _re.DOTALL,
-        )
-        reference_text = "\n".join(reference_sections)
+        char_block = prompt.split("[CHARACTERS", 1)[1].split("[TIMELINE", 1)[0]
+        defined_tags = _re.findall(r"^(@[A-Za-z0-9_]+)\s*=", char_block, flags=_re.MULTILINE)
         selected = []
-        for spec in CHARACTER_SPECS:
-            tag = spec["tag"]
+        for tag in defined_tags:
             mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag)
-            tag_pat = rf"(?<![a-zA-Z0-9_À-ỹ]){_re.escape(tag)}(?![a-zA-Z0-9_À-ỹ])"
-            if mid and _re.search(tag_pat, reference_text, flags=_re.IGNORECASE):
-                if mid not in selected:
-                    selected.append(mid)
-        return selected[:7]
+            if mid and mid not in selected:
+                selected.append(mid)
+        if selected:
+            return selected[:7]
 
     selected = []
     for spec in CHARACTER_SPECS:
@@ -701,6 +695,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 
                     for op in inner_ops:
                         op_status = op.get("status", "")
+                        op_complaint = op.get("complaint") or ""
                         if op_status == "MEDIA_GENERATION_STATUS_SUCCESSFUL":
                             op_meta = op.get("operation", {}).get("metadata", {}).get("video", {})
                             if not op_meta:
@@ -710,6 +705,10 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                                 video_url = v_url
                             op_media_id = op_meta.get("mediaId")
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
+                            has_failed = True
+                            all_done = False
+                        elif elapsed >= 75 and "Media not found" in op_complaint:
+                            log(f"⚠️ Sau {elapsed}s job vẫn báo '{op_complaint}' — chuyển sang làm mềm prompt ngay!")
                             has_failed = True
                             all_done = False
                         else:

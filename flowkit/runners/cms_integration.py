@@ -237,8 +237,10 @@ def trim_studio_reference_frames(video_path: str, log_fn=None) -> bool:
         tail_indices = [i for i, f in enumerate(tail_window) if f]
         tail_frames = (len(tail_window) - min(tail_indices)) if (len(tail_indices) >= 2 or (tail_indices and tail_indices[-1] >= len(tail_window) - 3)) else 0
 
-        # Luôn bỏ ít nhất 0.5s đầu tiên (12 frames @ 24fps) nếu clip còn nguyên ~10.0s (n >= 232 frames)
-        min_head_frames = 12 if n >= 232 else 0
+        # Chỉ cắt 0.5s đầu tiên đối với 2 phim dài YouTube 16:9 (duong-dua-sinh-tu, ke-song-sot);
+        # các kênh TikTok 9:16 KHÔNG cắt 0.5s đầu tiên.
+        is_long_youtube_movie = any(s in video_path for s in ("duong-dua-sinh-tu", "ke-song-sot"))
+        min_head_frames = 12 if (is_long_youtube_movie and n >= 232) else 0
         if head_frames == 0 and tail_frames == 0 and min_head_frames == 0:
             return False
 

@@ -219,6 +219,7 @@ Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)
 | 20 | [tap-20/](tap-20/README.md) | Cá lóc đồng nướng trui rơm & Nhẫn cỏ chỉ vàng của ba Mit |
 | 21 | [tap-21/](tap-21/README.md) | Bánh tằm khoai mì lăn dừa nạo & Chuyện giữ khư khư sổ biên nhận lúa |
 | 22 | [tap-22/](tap-22/README.md) | Ba Mit giữ nhà · Canh chua cá linh bông điên điển & nồi cơm cháy |
+| 23 | [tap-23/](tap-23/README.md) | Cá rô đồng kho tộ tóp mỡ · Ba Mit tưởng rớt tiền công khuân sầu riêng, hóa ra giắt trên khăn rằn |
 
 ## Tập 20 (`tap-20`)
 

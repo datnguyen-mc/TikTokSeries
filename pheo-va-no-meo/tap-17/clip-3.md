@@ -1,0 +1,29 @@
+Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, exact same outfits and proportions, same kitchen/dining layout, same props and ingredient counts in their exact positions, same lighting and color grade. Flawless physical continuity, no time skip, no jump cut at the start.
+Vertical 9:16, 10-second clip, high-end cinematic 3D food animation, 24fps, soft global illumination, macro food realism with controlled highlights and shallow depth of field. Smooth character animation with anticipation, natural easing, follow-through, weight transfer, and subtle secondary motion in ears, whiskers, tail, fur, and clothing. Ultra-smooth camera movement (slow dolly, gentle push-in, controlled pan; no snap zooms, no whip pans, no camera teleports). Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text; non-speaking characters keep their mouths closed. Never flash or cut to a standalone character reference sheet. No subtitles, no captions, no on-screen text.
+
+[CHARACTERS — unchanged]
+@Pheo = PHÈO (exact match to @Pheo reference): chubby upright bipedal black cat, velvety jet-black fur, amber-yellow eyes, V-shaped notch on LEFT ear, long white whiskers, four-fingered black furry paw-hands, white chef's toque tilted right, white t-shirt, navy-blue apron, red neckerchief; deep, warm, witty Southern Vietnamese male chef voice.
+@No = BÀ CHỦ HƯỜNG (exact match to @No reference): chubby upright bipedal cream-orange Pomeranian dog, fluffy fur, long curled eyelashes, pink lipstick, four-fingered fluffy paw-hands, pink floral silk pajama set, pearl necklace, gold bracelets on both wrists, tortoiseshell sunglasses pushed up on top of her head, pink slippers; sweet, sassy Southern Vietnamese rich-auntie female voice.
+
+[SETTING]
+KITCHEN: same bright Saigon home kitchen with strict spatial continuity—matte light-grey stone island in the foreground with the round wooden cutting board in the center and the two-burner gas stove on the right, honey-colored wood cabinets and white-and-teal cement-tile backsplash behind, herb-pot window on the left, open doorway to the dining corner on the right, warm golden late-morning sunlight from the left.
+Props: The pork belly on the round wooden cutting board (used strictly for raw meat), the chef's cleaver, a clean white ceramic mixing bowl, a plain white porcelain dish of white sugar with a plain metal tablespoon, a dish of minced garlic and shallots, a pair of long wooden cooking chopsticks, and a small white plate for covering; the unlit terracotta clay pot on the right gas stove. BÀ CHỦ HƯỜNG holds her plain pink smartphone (back facing camera, no text).
+
+[CAMERA & LIGHT]
+Single continuous 3D camera shot: high-angle close-up on the cutting board and marinating bowl as PHÈO slices the pork belly and tosses it with sugar, panning smoothly to BÀ CHỦ HƯỜNG leaning in, and ending on PHÈO's deadpan look to camera.
+
+[SHOT LIST]
+00:00–00:05.0 | High-angle close-up tilting up to medium close-up on PHÈO, continuing smoothly — PHÈO slices the fresh pork belly with steady cleaver strokes into thick, even bite-sized blocks showing distinct skin, white fat, and rosy lean layers, transfers them into the white ceramic bowl, scoops one full tablespoon of white sugar over the meat, and tosses gently with long wooden chopsticks until the fat layers glisten. PHÈO says (deep, warm, witty Southern Vietnamese male chef voice, confident): Thịt ba rọi cắt dày, ướp một muỗng đường mười lăm phút cho mỡ trong.
+00:05.0–00:07.5 | Medium two-shot, smooth pan — BÀ CHỦ HƯỜNG leans over the island and points her plain pink smartphone toward the bowl of sugared pork belly as if asking an invisible robot assistant, tilting her fluffy head curiously while PHÈO keeps his mouth closed. BÀ CHỦ HƯỜNG says (sweet, sassy Southern Vietnamese rich-auntie female voice, curious): Máy đi chợ biết ướp đường hông ta?
+00:07.5–00:10.0 | Medium close-up on PHÈO, gentle settle — PHÈO slowly turns his head toward the camera lens with a deadpan half-lidded stare, white whiskers drooping flat and his notched left ear twitching once, then calmly places the small white ceramic plate over the bowl to let it marinate.
+
+[SOUND]
+Background music: upbeat, playful acoustic guitar and light marimba kitchen tune, low volume under the dialogue.
+Foley: firm rhythmic cleaver cuts on wood, soft crystalline sprinkle of sugar, wooden chopsticks tossing meat in ceramic bowl, a single dry comedic cricket chirp during Phèo's deadpan look, soft clink of the ceramic cover plate.
+
+[END FRAME]
+Medium two-shot at the grey stone island: the plate-covered white ceramic bowl resting beside the cutting board, PHÈO giving the camera a deadpan half-lidded look with his paws on the covered bowl, BÀ CHỦ HƯỜNG on the right squinting at her plain pink phone; natural breathing and ear movement in the final 0.5 seconds.
+
+[AVOID]
+humans, human faces, human hands, extra fingers or fewer than four fingers per paw, robotic or jittery animation, foot sliding, body or muzzle deformation, non-speaking character moving mouth, lit gas burner or smoke when stove is off, raw meat turning cooked without heat, raw meat touching herbs or cooked food, bare paws handling raw meat after slicing, tasting from the stirring chopsticks, plastic or toy-like glossy food, utensils or ingredients appearing/disappearing or clipping through paws, reversed kitchen layout, snap zooms, whip pans, camera teleports, frozen statue end frames, newspaper wrapping, printed bags, price tags, receipts, scale displays, measuring marks, labeled jars or bottles, readable text or icons on the smartphone, numbers on the abacus, subtitles, logos, watermarks.
+

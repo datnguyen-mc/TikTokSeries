@@ -322,10 +322,11 @@ Môtô Scrambler cổ điển 400cc màu xám xi măng nhám, yên da bò nâu b
 - **Tập 4 (Lạng Sơn):** Bản Pác Ngòi, Hồ Ba Bể, Chợ Rã, Na Rì, Cường Lợi, Thất Khê, Tràng Định, Na Sầm, Đồng Đăng, Động Tam Thanh, Chùa Tam Thanh, Núi Tam Thanh, Hồ Âm Ty, Núi Tô Thị, Nàng Tô Thị, Núi Phai Vệ, Cột Cờ Phai Vệ, Phố Kỳ Lừa, Chợ Đêm Kỳ Lừa, Ải Chi Lăng, Chi Lăng, Quán Thanh, Nhà Trưng Bày Chiến Thắng Chi Lăng, Hữu Lũng, Xứ Lạng, Lạng Sơn
 - **Tập 5 (Tuyên Quang):** Thái Nguyên, Sơn Dương, Tân Trào, Cây Đa Tân Trào, Đình Tân Trào, Chiêm Hóa, Vĩnh Lộc, Thượng Lâm, Hồ Na Hang, Na Hang, Sông Gâm, Thác Khuổi Nhi, Cọc Vài Phạ, Lâm Bình, Bản Nà Tông, Nà Tông, Tuyên Quang
 
-### Chặng 2: Tây Bắc (Tập 6–10)
+### Chặng 2: Tây Bắc (Tập 6–11+)
 - **Tập 6 (Lào Cai):** Bắc Hà, Pạc Kha, Dinh Hoàng A Tưởng, Sa Pa, Nhà Thờ Đá Sa Pa, Nhà Thờ Đá, Hoàng Liên Sơn, Ga Hoàng Liên, Ga Fansipan, Đỉnh Fansipan, Fansipan, Hủa Xi Pan, Bản Cát Cát, Cát Cát, Đèo Ô Quy Hồ, Ô Quy Hồ, Mù Cang Chải, Lào Cai
 - **Tập 7 (Yên Bái):** Đèo Khau Phạ, Khau Phạ, Thung Lũng Cao Phạ, Cao Phạ, Bản Lìm Mông, Tú Lệ, Nếp Tan Tú Lệ, Pa Pỉnh Tộp, Đồi Mâm Xôi, La Pán Tẩn, Rừng Trúc Mù Cang Chải, Bản Nả Háng Tủa Chử, Púng Luông, Đồi Móng Ngựa, Sáng Nhù, Mù Cang Chải, Yên Bái, Lai Châu
-- **Tập 10 (Sơn La):** Tà Xùa, Xã Tà Xùa, Sống Lưng Khủng Long, Bản Bẹ, Háng Đồng, Bắc Yên, Ngã Ba Cò Nòi, Thuận Châu, Đèo Pha Đin, Mộc Châu, Sơn La, Tây Bắc (từ 01/7/2025 không còn cấp huyện: viết *xã Tà Xùa, tỉnh Sơn La*, không viết *huyện Bắc Yên*)
+- **Tập 10 (Sơn La — Tà Xùa):** Tà Xùa, Xã Tà Xùa, Sống Lưng Khủng Long, Bản Bẹ, Háng Đồng, Bắc Yên, Ngã Ba Cò Nòi, Thuận Châu, Đèo Pha Đin, Mộc Châu, Sơn La, Tây Bắc (từ 01/7/2025 không còn cấp huyện: viết *xã Tà Xùa, tỉnh Sơn La*, không viết *huyện Bắc Yên*)
+- **Tập 11 (Sơn La — Mộc Châu):** Mộc Châu, Rừng Thông Bản Áng, Bản Áng, Bản Pa Phách, Thung Lũng Nà Ka, Mai Châu, Sơn La (viết *Mộc Châu, tỉnh Sơn La*, không viết *huyện Mộc Châu*)
 
 ---
 

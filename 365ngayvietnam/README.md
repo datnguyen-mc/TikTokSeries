@@ -53,6 +53,8 @@
 | **Tập 7** | **Yên Bái** | Cung Đèo QL32 → Săn Biển Mây Đỉnh Đèo Khau Phạ & Thung Lũng Cao Phạ → Giã Cốm Xanh Nếp Tan Tú Lệ Trong Cối Gỗ → Xôi Ngũ Sắc Nếp Tan Tú Lệ & Cá Suối Nướng Pa Pỉnh Tộp → Đồi Mâm Xôi La Pán Tẩn → Rừng Trúc Mù Cang Chải (Bản Nả Háng Tủa Chử) → Hoàng Hôn Đồi Móng Ngựa Sáng Nhù → Bữa Tối Thịt Lợn Bản Nướng Mắc Khén & Măng Vầu Cuộn Thịt → Sáng Sớm Rời Mù Cang Chải Đi Lai Châu | 9 clips (90s) | [tap7-yen-bai](tap7-yen-bai/README.md) |
 | **Tập 8** | **Lai Châu** | Đồi Chè Tân Uyên (QL32) → Đỉnh Đèo Ô Quy Hồ Phía Tam Đường (Hoàng Liên Sơn) → Lợn Cắp Nách Nướng Mắc Khén & Xôi Tím Nếp Nương Lai Châu → Bản Hoa Địa Lan Sin Suối Hồ & Thác Trái Tim → Hoàng Hôn Biển Mây Cao Nguyên Sìn Hồ (1.500m) → Sáng Sớm Theo QL12 Lên Đường Đi Điện Biên | 6 clips (60s) | [tap8-lai-chau](tap8-lai-chau/README.md) |
 | **Tập 9** | **Điện Biên** | Cầu Hang Tôm & Sông Đà Mường Lay (QL12) → Cánh Đồng Mường Thanh & Sông Nậm Rốm → Ẩm Thực Thái Bản Mển (Gà Nướng Mắc Khén, Cá Pa Pỉnh Tộp & Xôi Nếp Nương) → Hồ Pá Khoang (Mường Phăng) → Hoàng Hôn Đỉnh Đèo Pha Đin (1.648m — Tứ Đại Đỉnh Đèo) → Theo QL6 Đi Sơn La | 6 clips (60s) | [tap9-dien-bien](tap9-dien-bien/README.md) |
+| **Tập 10** | **Sơn La (Tà Xùa)** | Bình Minh Trên Sống Lưng Khủng Long Giữa Biển Mây → Thưởng Thức Chén Chè Shan Tuyết Cổ Thụ Lúc Mặt Trời Lên → Đội Mũ Xuống Núi Nhử "Đồi Tuyết" Mộc Châu | 3 clips (30s) | [tap10-son-la](tap10-son-la/README.md) |
+| **Tập 11** | **Sơn La (Mộc Châu)** | Thung Lũng Hoa Cải Trắng Bản Áng Như Tuyết Đầu Đông → Thưởng Thức Hồng Giòn Mộc Châu Chín Vàng Cam Ngay Tại Vườn → Đội Mũ Xuôi QL6 Về Thung Lũng Mai Châu | 3 clips (30s) | [tap11-moc-chau](tap11-moc-chau/README.md) |
 
 ---
 

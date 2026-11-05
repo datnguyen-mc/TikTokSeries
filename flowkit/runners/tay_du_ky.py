@@ -299,7 +299,9 @@ def load_and_lock_project_characters():
 
 
 def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = None) -> bool:
-    # Phim ngắn 9:16 nối frame cuối từ Clip 2 trở đi, kể cả clip mở bằng [FORMAT]
+    # Phim ngắn 9:16 nối frame cuối từ Clip 2 trở đi, trừ khi bật FLOWKIT_FORCE_INGREDIENTS=1 để neo lại nhân vật
+    if os.environ.get("FLOWKIT_FORCE_INGREDIENTS") == "1":
+        return True
     return clip_num == 1 or not start_image_media_id
 
 
@@ -929,8 +931,8 @@ def run_pipeline(start_ep=12, end_ep=12):
             progress_pct = (completed_clips / total_clips) * 100
             print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — TẬP {ep:02d} - CLIP {c_idx:02d}", flush=True)
 
-            # Phim ngắn 9:16: từ Clip 2 trở đi luôn mở từ frame cuối của clip trước
-            if c_idx > 1 and not previous_clip_last_frame_media_id:
+            # Phim ngắn 9:16: từ Clip 2 trở đi luôn mở từ frame cuối của clip trước (trừ khi bật FLOWKIT_FORCE_INGREDIENTS=1)
+            if c_idx > 1 and not previous_clip_last_frame_media_id and os.environ.get("FLOWKIT_FORCE_INGREDIENTS") != "1":
                 previous_clip_last_frame_media_id = load_previous_last_frame(ep, c_idx - 1, ep_folder_name)
 
             res = run_clip_with_auto_retry(

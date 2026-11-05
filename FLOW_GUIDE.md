@@ -8,12 +8,12 @@
 
 | Series | Khóa nhân vật & ảnh tham chiếu | Các tập (1 tập/ngày) |
 | ------ | ------------------------------ | --------------------- |
-| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-22](mit-va-du-1970/tap-22/README.md) (từ tập 22: hài thời sự đặt ở năm 1970) |
-| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-16](pheo-va-no-meo/tap-16/README.md) (từ tập 16: hài thời sự) |
+| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-23](mit-va-du-1970/tap-23/README.md) (từ tập 22: hài thời sự đặt ở năm 1970) |
+| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-17](pheo-va-no-meo/tap-17/README.md) (từ tập 16: hài thời sự) |
 | Nhà Tèo & Sún | [FLOW_PROMPTS.md](teo-va-sun-cho/FLOW_PROMPTS.md) | [tap-1](teo-va-sun-cho/tap-1/README.md) → [tap-6](teo-va-sun-cho/tap-6/README.md) |
-| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-16](tay-du-ky-2026/tap-16/README.md) (tập 1–7 đã gỡ khỏi repo) |
-| 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap10-son-la](365ngayvietnam/tap10-son-la/README.md) |
-| Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-8](me-va-be/tap-8/README.md) |
+| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-18](tay-du-ky-2026/tap-18/README.md) (tập 1–7 đã gỡ khỏi repo) |
+| 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap11-moc-chau](365ngayvietnam/tap11-moc-chau/README.md) |
+| Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-9](me-va-be/tap-9/README.md) |
 | Biệt Đội Gara | [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md) | Phim 15 phút: [canh-01](biet-doi-gara/canh-01/README.md) → [canh-15](biet-doi-gara/canh-15/README.md), kịch bản tổng [KICH_BAN_PHIM.md](biet-doi-gara/KICH_BAN_PHIM.md) |
 | Kẻ Sống Sót: Bóng Ma | [FLOW_PROMPTS.md](ke-song-sot/FLOW_PROMPTS.md) | Phim 60 phút: [canh-01](ke-song-sot/canh-01/README.md) → [canh-60](ke-song-sot/canh-60/README.md), kịch bản tổng [KICH_BAN_60_PHUT.md](ke-song-sot/KICH_BAN_60_PHUT.md), phân tích phim gốc trong [README.md](ke-song-sot/README.md), hồ sơ nhân vật [NHAN_VAT.md](ke-song-sot/NHAN_VAT.md) |
 | Đường Đua Sinh Tử: 10 Giây Tự Do | [FLOW_PROMPTS.md](duong-dua-sinh-tu/FLOW_PROMPTS.md) | Phim 40 phút (4 Tập × 10 phút): [canh-01](duong-dua-sinh-tu/canh-01/README.md) → [canh-40](duong-dua-sinh-tu/canh-40/README.md), kịch bản tổng [KICH_BAN_40_PHUT.md](duong-dua-sinh-tu/KICH_BAN_40_PHUT.md), tổng quan [README.md](duong-dua-sinh-tu/README.md), hồ sơ nhân vật [NHAN_VAT.md](duong-dua-sinh-tu/NHAN_VAT.md) |

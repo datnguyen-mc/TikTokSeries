@@ -250,6 +250,7 @@ Mỗi tập mới **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 
 | 14 | [tap-14/](tap-14/README.md) | Cá lăng nấu măng chua · Thưởng Tết sớm dày cộp |
 | 15 | [tap-15/](tap-15/README.md) | Vịt cỏ om sấu nước dừa · Chốt lịch nghỉ lễ 24/11 hưởng nguyên lương |
 | 16 | [tap-16/](tap-16/README.md) | Cơm gà nồi cơm điện · Gas tăng, điện giảm, thưởng hai phần trăm |
+| 17 | [tap-17/](tap-17/README.md) | Thịt ba rọi kho tiêu nước mắm kẹo · Bà chủ dọa dùng AI đi chợ hộ, Phèo đòi lãnh trợ cấp thất nghiệp |
 
 ## Tập 14 (`tap-14`)
 

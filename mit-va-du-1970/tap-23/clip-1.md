@@ -1,0 +1,29 @@
+[FORMAT]
+Vertical 9:16, 10-second clip, ONE CONTINUOUS SHOT (no cuts, no camera teleports, no whip pans, no snap zooms), high-end stylized 3D animated feature film (Pixar/Disney-quality CGI), 24fps, soft global illumination, physically based material shaders, detailed tactile fur, shallow depth of field, warm nostalgic color grade with subtle 35mm film grain. Era and place: rural Mekong Delta (Cái Mơn – Bến Tre), southern Vietnam, 1970. Every character is a bipedal anthropomorphic 3D dog standing upright on two legs with four-fingered furry paw-hands and soft floppy ears hanging down; no humans and no four-legged dogs exist. Smooth character animation with natural anticipation, believable weight transfer, and secondary motion in soft floppy ears, fur, and clothing. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Never flash or cut to an attached character reference sheet. No subtitles, no captions, no on-screen text, no logos, no watermark.
+
+[CHARACTERS — match the attached reference images @Mit @Đú @Nở 100% exactly]
+@Mit = Mit (husband, 35, 100% match to @Mit reference): bipedal anthropomorphic golden-brown male Vietnamese dog standing upright on two legs, stocky build, short golden-brown fur, white-cream muzzle and chest fur, thick dark eyebrows, soft floppy golden-brown dog ears hanging down naturally (never pointed), dark-brown eyes, four-fingered furry paw-hands. Outfit: faded grey sleeveless tank top, dark shorts, barefoot, plus a black-and-white checkered scarf (khăn rằn) tied around his forehead with a small tied brown cloth money pouch tucked visibly into the front fold right above his brow. Voice: warm, slightly raspy Southern Vietnamese male voice, mid-30s.
+@Đú = Đú (wife, early 30s, 100% match to @Đú reference): gentle bipedal anthropomorphic cream-and-light-brown female Vietnamese dog standing upright on two legs, soft cream-and-tan fur with white muzzle and white blaze between her eyes, long soft floppy light-brown dog ears hanging down naturally, four-fingered furry paw-hands. Outfit: faded dusty-pink short-sleeved floral blouse (áo bà ba hồng nhạt in hoa nhỏ), loose black trousers, brown slippers. Voice: soft, warm Southern Vietnamese female voice, early 30s.
+@Nở = Nở (daughter, 6 years old, 100% match to @Nở reference): small bipedal anthropomorphic female puppy standing upright on two legs, waist-high to Mit; soft cream fur with warm light-brown patches on her head and soft floppy light-brown puppy ears hanging down naturally, cute white muzzle, big sparkling dark-brown puppy eyes, four-fingered furry paw-hands. Outfit: faded light-yellow floral blouse, dark-brown skirt, small brown sandals. Voice: high, bright Southern Vietnamese little-girl voice, 6 years old.
+
+[SETTING]
+INSIDE THE BAMBOO HUT: small 1970 Mekong Delta rural hut with woven bamboo walls, nipa-palm thatch roof, swept packed-dirt floor, low bamboo bed (chõng tre), low wooden table beside the bed, kerosene lamp, clay water jar (lu nước), and wood-fire clay stove in the corner.
+Props: Golden late-afternoon sunlight streams through the open bamboo doorway; on the low wooden table sit a fresh green banana leaf, a small glazed clay jar of traditional fish sauce (khạp sành nước mắm nhĩ), a bowl of golden pork cracklings (tóp mỡ), green peppercorns, and @Nở's closed blank-covered notebook (`SP_TAP`) and colored pencil box (`SP_BUTMAU`, no text). @Mit steps in carrying a woven bamboo creel (giỏ tre) holding plump climbing perch fish (cá rô đồng).
+
+[CAMERA & LIGHT]
+Single continuous 3D camera shot: smooth dolly-in from the sunlit bamboo doorway to the low wooden table as @Mit shows off the basket of plump cá rô đồng while the small brown cloth pouch sits visibly tucked in the checkered headband on his forehead.
+
+[SHOT LIST — ONE CONTINUOUS SHOT]
+00:00–00:05.5 | Medium three-shot inside the sunlit bamboo hut, smooth slow dolly-in — @Mit steps cheerily through the bamboo doorway with his soft floppy golden-brown ears bouncing below the checkered headband (with the small tied brown cloth pouch tucked visibly in its front fold) and sets the woven bamboo creel onto the banana leaf on the low wooden table to show the plump climbing perch (cá rô đồng) to @Đú and @Nở. @Mit says (warm, slightly raspy Southern Vietnamese male voice, proud): Bến ghe trúng mùa sầu riêng, ba lãnh công rồi bắt mớ cá rô đồng nè!
+00:05.5–00:10.0 | Medium close-up around the low wooden table, gentle pan — @Đú leans in with a warm smile and touches the small clay jar of fish sauce with her right four-fingered furry paw while little puppy @Nở claps her paws happily beside her closed notebook (`SP_TAP`) and pencil box (`SP_BUTMAU`). @Đú says (soft, warm Southern Vietnamese female voice, delighted): Cá rô béo tròn hà, má kho tộ nước mắm nhĩ nghen!
+
+[SOUND]
+Background music: warm nostalgic acoustic guitar with light bamboo-flute and đàn tranh accents, low volume under dialogue.
+Foley: footsteps on packed earth, rustle of woven bamboo fish creel, gentle splash of fresh fish, Nở's happy puppy giggle.
+
+[END FRAME]
+Medium three-shot around the low wooden table in golden afternoon light: @Mit standing proudly with the small brown cloth pouch tucked visibly in the checkered headband on his forehead; @Đú smiling by the banana leaf and fish creel; @Nở beaming beside her closed notebook (`SP_TAP`) and pencil box (`SP_BUTMAU`); natural breathing in the final 0.5 seconds.
+
+[AVOID]
+humans, human hands, four-legged dogs, pointed upright ears, pigtails, hair buns, robotic movement, mid-clip hard cuts, whip pans, snap zooms, extra fingers, readable text, numbers, logos, watermarks, subtitles, modern plastic objects.
+

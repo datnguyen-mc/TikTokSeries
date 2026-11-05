@@ -894,7 +894,10 @@ async def get_project_characters(project_id: str):
 
 @router.get("/debug-project-media")
 @router.get("/project-assets")
-async def debug_project_media(project_id: str = "594758cc-11f5-4f92-8b3c-1213686591f4"):
+async def debug_project_media(
+    project_id: str = "594758cc-11f5-4f92-8b3c-1213686591f4",
+    match: str | None = None,
+):
     import json
     import pathlib
     import re
@@ -904,7 +907,7 @@ async def debug_project_media(project_id: str = "594758cc-11f5-4f92-8b3c-1213686
         raise HTTPException(503, "Extension not connected")
     result = await client.batch_rpc(
         fb.RPC_PROJECT_MEDIA, fb.project_media_request(project_id),
-        match=project_id, timeout=60,
+        match=match, timeout=90,
     )
     raw = result.get("data") or ""
     uuids = list(set(re.findall(r'[0-9a-fA-F-]{36}', raw)))
@@ -950,7 +953,7 @@ async def debug_project_media(project_id: str = "594758cc-11f5-4f92-8b3c-1213686
         "signed_images_count": len(signed_images),
         "images": images,
         "signed_images": signed_images[:50],
-        "assets": assets[:100],
+        "assets": assets,
         "uuids": uuids,
         "sample": raw[:2000]
     }

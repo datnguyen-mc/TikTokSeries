@@ -514,6 +514,58 @@ DEFAULT_CHANNELS = [
             },
         ],
     },
+    {
+        "slug": "can-nha-am-duong",
+        "name": "Căn Nhà Âm Dương",
+        "project_id": "",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/can_nha_am_duong.py",
+        "series_dir": "can-nha-am-duong",
+        "ep_prefix": "canh",
+        "description": "Phim ngắn kinh dị tâm linh 15 phút: Bình (21 tuổi) trốn nợ 400 triệu về căn nhà hoang của ông nội ở làng quê Bắc Bộ, nơi vong hồn vụ tai nạn 13 năm trước cư ngụ; ông nội hiện về đòi cháu gọi bố về chuộc lỗi (16:9, 15 cảnh × 6 clips × 10s = 90 clips — Google Flow Omni 10s, 80% Người dẫn chuyện VO + 20% Thoại nhân vật bất ngờ, Giọng Chuẩn Miền Bắc).",
+        "characters": [
+            {
+                "tag": "@Binh",
+                "name": "Bình (Sinh viên 21 tuổi)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Nam sinh viên năm cuối 21 tuổi; 172 cm, dáng gầy nhợt nhạt, tóc đen ngắn rối, quầng mắt thâm, mặc áo hoodie xám bạc bên ngoài áo thun trắng nhàu, quần jean tối, đeo ba lô đen.",
+                "ref_prompt": "Full-body photorealistic character reference of @Binh, a 21-year-old Vietnamese male university student, 172 cm, thin pale build, messy short black hair, tired dark eyes with visible dark circles underneath, wearing a faded grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack; anxious guilty expression; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@BaPhuong",
+                "name": "Bà Phượng (Mẹ Bình, giáo viên về hưu, 50 tuổi)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Nữ giáo viên về hưu 50 tuổi; 158 cm, tóc đen búi thấp lấm tấm bạc, gương mặt trái xoan nhân hậu nhưng phiền muộn, mặc áo sơ mi giản dị và quần tối.",
+                "ref_prompt": "Full-body photorealistic character reference of @BaPhuong, a 50-year-old Vietnamese female retired school teacher, 158 cm, neat black hair in a low bun with grey streaks, gentle worried oval face, wearing a simple pastel blouse and dark trousers, indoor slippers; plain grey studio background, soft side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@OngQuan",
+                "name": "Ông Quân (Bố Bình, nhân viên văn phòng, 55 tuổi)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Nam nhân viên văn phòng 55 tuổi; 170 cm, dáng chắc, tóc húi cua bạc, gương mặt đanh nghiêm khắc, mùi thuốc lá, mặc áo sơ mi cổ cồn và quần tối.",
+                "ref_prompt": "Full-body photorealistic character reference of @OngQuan, a 55-year-old Vietnamese male office worker, 170 cm, stocky build, crew-cut greying hair, stern weathered face with deep frown lines, wearing a collared dress shirt with sleeves rolled and dark trousers, leather belt; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@OngBay",
+                "name": "Ông Bảy (Nông dân hàng xóm, 60 tuổi)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Nam nông dân 60 tuổi; 168 cm, da ngăm đen, tóc bạc lấm tấm, gương mặt hiền hậu nhiều nếp nhăn, mặc áo sơ mi kẻ cũ và quần nâu, đi dép cao su.",
+                "ref_prompt": "Full-body photorealistic character reference of @OngBay, a 60-year-old Vietnamese male rice farmer, 168 cm, lean tanned dark-skinned build, silver-streaked hair, kind wrinkled face with warm eyes, wearing a faded plaid button-up shirt and brown work trousers, rubber sandals; plain grey studio background, warm side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@VongCuXa",
+                "name": "Vong Cụ Xá (Ông nội Bình, vong linh)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Vong hồn ông nội; gầy gò mờ ảo bán trong suốt, tóc trắng thưa, mắt tối buồn sâu hoắm, mặc áo bà ba nâu sồng truyền thống đã bạc, chân trần.",
+                "ref_prompt": "Full-body photorealistic character reference of @VongCuXa, a ghostly translucent elderly Vietnamese male apparition, gaunt frail frame, wispy white hair, sad hollow dark eyes, wearing a faded traditional brown cotton tunic (áo bà ba nâu sồng), barefoot; semi-transparent ethereal ghost appearance with faint moonlight glow; plain dark studio background, cold blue-white rim light, 8K. Not resembling any real actor.",
+            },
+        ],
+    },
 ]
 
 CHANNEL_MAX_EPISODES: dict[str, int] = {
@@ -521,6 +573,7 @@ CHANNEL_MAX_EPISODES: dict[str, int] = {
     "ke-song-sot": 60,
     "bi-mat-phong-613": 15,
     "oan-thai-doi-me": 14,
+    "can-nha-am-duong": 15,
 }
 
 

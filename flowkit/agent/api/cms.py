@@ -470,12 +470,57 @@ DEFAULT_CHANNELS = [
             },
         ],
     },
+    {
+        "slug": "oan-thai-doi-me",
+        "name": "Oán Thai Đòi Mẹ: Búp Bê Đất Nung",
+        "project_id": "dedf1a01-6d2f-420c-bff0-f486b3ea12cc",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/oan_thai_doi_me.py",
+        "series_dir": "oan-thai-doi-me",
+        "ep_prefix": "canh",
+        "description": "Phim ngắn kinh dị tâm linh cổ thuật 14 phút lấy cảm hứng từ Oán Thai Đòi Mẹ (Mudborn): Bách mang pho tượng đất nung không mắt từ lò bầu cổ bỏ hoang cuối bãi tha ma ven sông về nhà, người vợ mang thai Hà lỡ tay trám mất huyết ấn sau lưng tượng và điểm mắt lúc 2 giờ sáng (16:9, 14 cảnh × 6 clips × 10s = 84 clips — Google Flow Omni 10s, 80% Người dẫn chuyện VO + 20% Thoại nhân vật bất ngờ, Giọng Chuẩn Miền Bắc).",
+        "characters": [
+            {
+                "tag": "@Bach",
+                "name": "Bách (Kỹ sư quét 3D LiDAR, 30 tuổi)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Nam kỹ sư quét 3D không gian 30 tuổi; cao 175 cm, dáng gầy săn chắc, gương mặt góc cạnh lo âu, đeo kính gọng kim loại mảnh, tóc đen ngắn rẽ ngôi tự nhiên, mặc áo khoác gió màu xám than bên ngoài áo thun đen, cầm máy quét 3D LiDAR cầm tay.",
+                "ref_prompt": "Full-body photorealistic character reference of @Bach, a 30-year-old Vietnamese male 3D spatial scanning engineer, 175 cm, lean build, angular face with tired attentive dark eyes behind thin metal-frame glasses, short natural parted black hair, wearing a charcoal-grey windbreaker jacket over a plain black crew-neck T-shirt, dark cargo trousers, and dusty hiking boots, carrying a compact handheld 3D LiDAR scanner; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Ha",
+                "name": "Hà (Nghệ nhân phục chế gốm cổ, mang thai tháng thứ 7, 28 tuổi)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Nữ nghệ nhân phục chế gốm cổ 28 tuổi đang mang thai tháng thứ 7; cao 162 cm, gương mặt trái xoan dịu dàng nhưng xanh xao, tóc đen dài búi thấp cài trâm gỗ, mặc váy bầu vải đũi màu kem nhạt khoác tạp dề vải bố nâu lấm đất sét khô.",
+                "ref_prompt": "Full-body photorealistic character reference of @Ha, a 28-year-old pregnant Vietnamese female antique ceramic conservator (7 months pregnant), 162 cm, gentle oval face with pale complexion and expressive sorrowful dark eyes, long black hair pinned in a low bun with a wooden hairpin, wearing a loose cream-beige linen maternity dress with a brown canvas studio apron smudged with dried terracotta clay over her visible 7-month pregnant belly, flat indoor cloth slippers; plain grey studio background, soft side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@ThayPhong",
+                "name": "Thầy Phong (Nhà nghiên cứu cổ tự & Pháp sư trấn yểm, 36 tuổi)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Nhà nghiên cứu cổ tự và pháp sư trấn yểm 36 tuổi; cao 174 cm, dáng điềm tĩnh sắc lạnh, tóc đen cắt gọn, mặc áo sơ mi cổ tàu màu chàm tối, cổ tay trái đeo chuỗi hạt gỗ mun 108 hạt, cầm la bàn đồng phong thủy cổ.",
+                "ref_prompt": "Full-body photorealistic character reference of @ThayPhong, a 36-year-old Vietnamese folklore scholar and Taoist ritual master, 174 cm, composed athletic build, sharp cheekbones, calm piercing dark eyes, neat short black hair, wearing a dark indigo-black stand-collar linen shirt (áo sơ mi cổ tàu tối màu), dark trousers, a 108-bead black ebony prayer mala around his left wrist, holding an antique brass geomancy compass (la bàn đồng); plain grey studio background, soft side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@BaLua",
+                "name": "Bà Lụa (Oán Linh Người Thợ Gốm Năm 1996, 32 tuổi)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "description": "Vong hồn người thợ gốm truyền thống năm 1996, 32 tuổi; cao 158 cm, gương mặt gầy u buồn phủ tro bếp xám trắng, tóc đen dài xõa che nửa má, mặc áo cánh nâu sồng truyền thống và quần đen lấm đất sét khô, hai bàn tay nứt nẻ.",
+                "ref_prompt": "Full-body photorealistic character reference of @BaLua, a 32-year-old traditional Northern Vietnamese female potter from the 1990s, 158 cm, gaunt sorrowful face dusted with pale grey kiln ash, tearful dark eyes, long disheveled black hair partly covering one cheek, wearing a weathered dark-brown traditional Vietnamese cotton blouse (áo cánh nâu sồng) and black trousers stained with dried grey clay, calloused clay-crusted hands, barefoot; plain grey studio background, cool moonlit side light, 8K. Clean cinematic ghost appearance, no gore.",
+            },
+        ],
+    },
 ]
 
 CHANNEL_MAX_EPISODES: dict[str, int] = {
     "duong-dua-sinh-tu": 40,
     "ke-song-sot": 60,
     "bi-mat-phong-613": 15,
+    "oan-thai-doi-me": 14,
 }
 
 

@@ -1570,11 +1570,10 @@ def rewrite_prompt_on_failure(
         )
 
     voice_speed_block = (
-        "[GLOBAL VOICE SPEED RULE — 1.25x]\n"
-        "All spoken Vietnamese dialogue must be delivered at 1.25x normal conversational speaking speed (125%). "
-        "Maintain a natural Southern Vietnamese accent, clear articulation, expressive intonation, and accurate syllable-level lip synchronization. "
-        "Speech must sound naturally fast and energetic, not artificially time-stretched or pitch-shifted. "
-        "Preserve each character's original voice identity, pitch, emotional tone, and vocal personality. "
+        "[GLOBAL VOICE & ACCENT LOCK — STANDARD NORTHERN VIETNAMESE]\n"
+        "All spoken Vietnamese dialogue and off-screen narration must be delivered in a natural Standard Northern Vietnamese accent (giọng chuẩn miền Bắc) with clear articulation, expressive cinematic horror intonation, and accurate syllable-level synchronization. "
+        "Strictly forbid Southern Vietnamese (Saigon/Mekong Delta) accent. "
+        "Preserve each character's and the narrator's locked voice identity, pitch, emotional tone, and vocal personality. "
         "Do not rush, swallow syllables, clip words, or introduce unnatural pauses. "
         "Complete dialogue within its assigned time window. Continue natural breathing, facial expressions, and physical actions after the line finishes.\n"
     )

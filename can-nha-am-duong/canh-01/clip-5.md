@@ -1,24 +1,43 @@
-[FORMAT]
-10 seconds (0.0s–10.0s), Full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese atmospheric mystery drama film (`omni_flash` 10s). In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken Vietnamese audio with Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). No subtitles, no captions, no on-screen text, no logos.
+[1. FORMAT & MODEL]
+- Duration & Aspect Ratio: 10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, 180-degree cinema shutter.
+- Model & Aesthetics: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video), photorealistic live-action Vietnamese supernatural folk-horror cinema.
+- Visual Look & Grade: Authentic Northern Vietnamese architecture and rural atmosphere, natural skin textures and pores, damp mist, realistic shadows, flickering warm oil-lamp/tungsten amber contrasted against cold midnight cyan-blue darkness, subtle 35mm film grain. Single continuous 10-second camera shot (`Shot 01.5`, film timeline `00:40–00:50`).
 
-[CHARACTERS — approved identities and locked Standard Northern Vietnamese voice profiles]
-Use the attached reference images strictly for facial identity and wardrobe inside the live scene; never show their plain grey studio background or cut to a portrait card.
-@Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a): same approved identity, age 21; Northern Vietnamese male senior university student, 172 cm, slender build, neat short black hair, attentive dark eyes, wearing a charcoal-grey hoodie over a white T-shirt, dark jeans, sneakers, carrying a black backpack. Voice profile: [VOICE_LOCK_BINH_CNHADG — Cố định giọng Bình chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), expressive and earnest (giọng nam trẻ 21 tuổi chuẩn miền Bắc, trầm tư).
-Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male late-night drama storyteller (MC Đình Soạn — Kể Chuyện Đêm Khuya style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm resonant mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, kể chuyện đêm khuya chuẩn phong cách MC Đình Soạn, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
+[2. CHARACTER & VOICE LOCK]
+Use attached reference images (`media_id`) strictly to lock facial identity, age, hairstyle, and wardrobe inside the live scene. Only the listed characters appear in frame.
+- @Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a | age 21): Northern Vietnamese male senior university student, 172 cm, thin pale build, messy short black hair, tired dark eyes with visible dark circles. Wardrobe: faded charcoal-grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack. Character Voice Reference (VOICE_LOCK_BINH_CNHADG): 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).
+- Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller (VOICE_LOCK_NARRATOR_CNHADG): Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, intimate late-night Vietnamese ghost-story storytelling style. Target speaking speed: 125–145 Vietnamese words per minute (this clip: 132–138 Vietnamese words/minute with 0.35s tense atmospheric pauses at ellipses (…); emotional tone: increasingly tense, haunting, suspenseful supernatural storytelling delivery). Reuse the same TTS voice ID / acoustic voice reference (VOICE_LOCK_NARRATOR_CNHADG) across all 90 clips, relying on this full acoustic profile rather than a text label alone.
 
-[TIMELINE AND LOCATION]
-Passenger coach bus traveling along a quiet Northern Vietnamese rural road at night, and the softly lit window seat where @Binh sits quietly by the rain-streaked glass.
+[3. SCENE & SPATIAL LOCK]
+- Scene & Chronology: Scene 01/15 (Chuyến Xe Khách Đêm Khuya & Món Nợ Bốn Trăm Triệu), Clip 5/6 (Clip #05/90 | 00:40–00:50). Story Time: 23:30 Đêm khuya trên quốc lộ về quê nội (00:00–01:00).
+- Location & Architecture: Lone sleeper coach bus crawling along a misty Northern Vietnamese rural highway and the dimly lit window seat inside the bus cabin (plus brief phone cutaway to @BaPhuong's kitchen).
+- Spatial Geometry Lock: Inside the dimly lit sleeper bus cabin by the rain-streaked glass window where @Binh clutches his black backpack as amber highway lights sweep past.
+- Key Scene Props: Sleeper coach bus window streaked with rain, worn plush passenger seat, black backpack, glowing smartphone screen showing a liquidated trading account.
 
-[ACTION & SHOT LIST]
-00:00–00:03.0 | Medium shot, 35mm cinema lens, warm interior coach lighting — smooth incoming match-on-action as @Binh lowers his smartphone after the call and looks thoughtfully at the screen.
-00:03.0–00:07.0 | Medium close-up, 50mm cinema lens — @Binh rests his hand on his forehead in quiet reflection while the coach moves smoothly through the evening mist. [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Tất cả cũng chỉ bắt đầu từ chuyện hùn vốn làm ăn xa nhà chưa thuận lợi… Ban đầu thấy kiếm được vài đồng bạc lẻ, cậu cứ thế dồn hết tâm sức vào đó, để rồi khi công việc gặp biến cố… những khoản chi phí dồn lại đã vượt quá sức lo liệu của gia đình."
-00:07.0–00:10.0 | Medium shot, 35mm cinema lens, steady framing — @Binh turns his gaze toward the rain-streaked window, holding a clean 0.5s visual bridge at 10.0s into Shot 01.6.
+[4. DRAMATIC OBJECTIVE]
+Back in his dark sleeper bus seat, @Binh lowers the smartphone and stares at a screenshot of his liquidated online trading account glowing red, burying his face in his shaking hands.
 
-[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
-All spoken Vietnamese dialogue and off-screen narration must be delivered in a 100% Standard Northern Vietnamese accent (giọng chuẩn miền Bắc) with clear articulation, deep resonant late-night storytelling cadence (42-year-old Hanoi male narrator ~110 Hz mid-baritone at 0.95x speed when VO), and accurate synchronization. Strictly forbid Southern Vietnamese (Saigon/Mekong Delta) accent. When the off-screen narrator speaks, all on-screen characters keep their mouths naturally closed.
+[5. CAMERA & TIMED ACTION]
+- Single Coherent Camera Plan (0.0s–10.0s): 35mm stabilized over-the-shoulder tilt-down push-in. One physically plausible camera movement on a single consistent axis from 0.0s to 10.0s; zero contradictory camera rigs, zero sudden zooms, zero jump cuts.
+- 0.0s–2.5s (Intentional Scene/Location Transition): Clean cinematic transition into Lone sleeper coach bus crawling along a misty Northern Vietnamese rural highway and the di without forcing false physical continuity from the prior location/time. Back inside the dark bus cabin as @Binh lowers his glowing smartphone screen.
+- 2.5s–7.5s (Core Dramatic Progression): Back in his dark sleeper bus seat, @Binh lowers the smartphone and stares at a screenshot of his liquidated online trading account glowing red, burying his face in his shaking hands.
+- 7.5s–10.0s (Outgoing Continuity Settle): @Binh buries his forehead in both trembling hands beside the rain-streaked window. Hold a steady 0.5s visual and audio settle at 9.5s–10.0s to bridge cleanly into Clip 01.6.
 
-[SOUND]
-Natural evening coach bus ambience, gentle rain foley, clear Standard Northern Vietnamese voice at 0.95x storytelling speed with 0.15s audio continuity at 0.0s and 10.0s.
+[6. NARRATION / DIALOGUE]
+- Word Budget & Pacing Check: 18 Vietnamese words (~8.6s active speech window at 125–145 WPM), finishing naturally at 8.8s before the 10.0s clip ends without rushing or truncation.
+- Turn 1 [0.8s–8.8s | 18 Vietnamese words | 132–138 Vietnamese words/minute] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in a 42–48-year-old native Standard Northern Vietnamese deep warm low-baritone, slightly husky, intimate late-night ghost-story style; all on-screen characters keep their mouths naturally closed): "Tất cả bắt nguồn từ bẫy tiền ảo… chỉ sau một đêm mất trắng, nợ lãi chồng chất."
+- Lip-Sync & Mouth Lock: Off-screen narration ONLY. All on-screen characters (@Binh) keep their mouths naturally closed throughout 0.0s–10.0s, expressing emotion through eyes, breathing, and posture.
+- Spoken Audio Rule: Speak ONLY the Vietnamese words inside quotation marks ("..."). Never read prompt instructions, @tags, character IDs, timestamps, or stage directions aloud.
 
-[AVOID]
-subtitles, captions, on-screen text, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.
+[7. HORROR SOUND DESIGN]
+- Synchronized Scene Audio (0.0s–10.0s): Tiếng tút tắt cuộc gọi khô khốc và tiếng hơi thở hối hận nghẹn đắng của @Binh.
+- Mix & Silence Discipline: Keep spoken Standard Northern Vietnamese narration/dialogue clearly audible in the foreground above environmental foley. Use strategic quiet tension, avoid excessive music or generic jump-scare stingers, and maintain a smooth 0.15s ambient room-tone transition at 0.0s and 10.0s.
+
+[8. START FRAME & END FRAME]
+- START FRAME (0.0s): Back inside the dark bus cabin as @Binh lowers his glowing smartphone screen.
+- END FRAME (10.0s): @Binh buries his forehead in both trembling hands beside the rain-streaked window.
+
+[9. CONTINUITY & QUALITY RULES]
+- Preserve character facial identity, hair, body proportions, and costume across the entire 10-second shot; hands must have 5 natural fingers and grip props with realistic weight.
+- Never switch narrator gender, accent (must remain 100% Standard Northern Vietnamese / giọng chuẩn miền Bắc), or vocal age/timbre.
+- Full-bleed 16:9 image with no subtitles, no captions, no on-screen text, no watermarks, no black letterbox bars, and never flash or cut to a studio reference portrait backdrop.

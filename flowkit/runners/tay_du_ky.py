@@ -888,7 +888,7 @@ def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_pro
     return {"success": False, "video_url": None}
 
 
-def run_pipeline(start_ep=8, end_ep=19):
+def run_pipeline(start_ep=8, end_ep=20):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
     print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT TỰ ĐỘNG — TÂY DU KÝ 2026 (9:16)")
@@ -992,5 +992,5 @@ def run_pipeline(start_ep=8, end_ep=19):
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 8
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 19
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 20
     run_pipeline(start, end)

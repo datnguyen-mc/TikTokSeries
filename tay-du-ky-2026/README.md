@@ -20,3 +20,4 @@
 - [Tập 17 — Tổng kết hot & drama sống ảo: Trend 'mogging' đọ quai hàm, bóp mặt cong tường gạch & cái kết bật cam thường của La Sát](tap-17/README.md)
 - [Tập 18 — Tổng kết hot & drama tài chính: Mua sắm trả góp thành 'hộ nghèo kiểu mới', ảo tưởng trợ cấp thất nghiệp & hóa đơn nhà trọ](tap-18/README.md)
 - [Tập 19 — Tổng kết hot & drama trong ngày: Chia tay đòi sao kê từng ly trà sữa, cơn sốt xé túi mù & tờ giấy nợ tiền điện của La Sát](tap-19/README.md)
+- [Tập 20 — Tổng kết hot & drama trong ngày: Cơn sốt đăng ký 10 khóa học đêm vì sợ tụt hậu, phép phân thân học hộ & hóa đơn 'cơm bình dân trên trời'](tap-20/README.md)

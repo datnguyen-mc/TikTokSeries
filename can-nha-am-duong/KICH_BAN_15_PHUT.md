@@ -1,275 +1,476 @@
 # Căn Nhà Âm Dương: Oan Hồn Dưới Gốc Mít — Phim Ma Kể Chuyện Điện Ảnh (15 Cảnh × 6 Clips × 10s = 90 Clips / 15 Phút | Google Flow Omni 10s)
 
-![Poster Key Art — Căn Nhà Âm Dương](scene_refs/04_poster_key_art.jpg)
+![Poster Key Art — Căn Nhà Âm Dương: Oan Hồn Dưới Gốc Mít](scene_refs/04_poster_key_art.jpg)
 
-Dự án **Phim Ma Kể Chuyện Điện Ảnh 15 Phút** (**15 Cảnh × 6 Clips × 10 giây = 90 Clips = 900 giây / 15 phút**, tỉ lệ **16:9 Cinema 24fps**, model **`omni_flash` 10s**) lấy cảm hứng từ truyện ma **"Căn Nhà Âm Dương"** (Tác giả Thu Thảo — Kênh **HẺM Truyện Ma**, giọng kể **MC Đình Soạn**):
-- **Quy Định Giọng Người Dẫn Chuyện (`VOICE_LOCK_NARRATOR_CNHADG` — 80% thời lượng / 72 Clips):** Cố định 100% giọng Nam trung niên 42 tuổi chuẩn Hà Nội - miền Bắc (`~110 Hz` mid-baritone trầm ấm, thanh thoát, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách **MC Đình Soạn — HẺM Truyện Ma**, tốc độ `0.95x`, nhân vật trên màn hình khép miệng tự nhiên suốt đoạn VO).
-- **Khóa Danh Tính & Giọng Nói Từng Nhân Vật (`CHARACTER_LOCK` + `VOICE_LOCK` — 20% On-screen Lip-Sync / 18 Clips):** Kết nối cứng `media_id` trên Google Flow Project `3b955883-7851-42fe-a986-5ef82b4912e5` cùng hồ sơ âm sắc giọng Bắc riêng biệt cho cả 6 nhân vật (`@Binh`, `@BaPhuong`, `@OngQuan`, `@OngBay`, `@VongCuXa`, `@VongLa`).
-- **Thiết Kế Chuyển Cảnh Mượt (`3-Beat Match-On-Action Continuity`):** Mỗi clip 10s chia làm 3 nhịp liên hoàn (`Beat 1: 0.0–3.0s` khớp nối trực tiếp từ `END FRAME` của clip trước → `Beat 2: 3.0–7.0s` diễn biến chính → `Beat 3: 7.0–10.0s` tạo điểm neo dẫn mượt sang `START FRAME` của clip kế tiếp).
-- **Danh mục 90 files kịch bản chi tiết:** [`canh-01/clip-1.md`](canh-01/clip-1.md) → [`canh-15/clip-6.md`](canh-15/clip-6.md) và tổng hợp tại [`FLOW_PROMPTS.md`](FLOW_PROMPTS.md).
-
----
-
-## PHẦN 1: QUY ĐỊNH GIỌNG NGƯỜI DẪN CHUYỆN & KHÓA 6 NHÂN VẬT (`VOICE_LOCK` & `CHARACTER_SPECS`)
-
-### 1. Quy Định Cố Định Giọng Người Dẫn Chuyện (`VOICE_LOCK_NARRATOR_CNHADG`)
-- **Mã khóa giọng:** `VOICE_LOCK_NARRATOR_CNHADG`
-- **Hình mẫu & Phong cách:** **MC Đình Soạn — HẺM Truyện Ma** (Giọng nam 42 tuổi chuẩn Hà Nội - miền Bắc, âm vực trung trầm `~110 Hz`, thanh thoát, trầm ấm nhưng sắc lạnh ở những đoạn cao trào tâm linh).
-- **Tốc độ & Nhịp điệu:** `0.95x` (`~135 từ/phút`), ngắt nghỉ `0.4s` ở dấu ba chấm (`…`), tuyệt đối không dùng giọng miền Nam/miền Trung, không dùng giọng đọc máy công nghiệp.
-- **Quy tắc hình ảnh khi đọc VO:** Toàn bộ nhân vật trên hình giữ miệng khép tự nhiên (`mouths remain naturally closed 0.0–10.0s`), chỉ diễn xuất bằng ánh mắt, hơi thở và cử chỉ cơ thể.
-
-### 2. Bảng Khóa 6 Nhân Vật & Giọng Thoại Riêng (`CHARACTER_SPECS`)
-
-| Tag | Nhân Vật | Google Flow `media_id` | Mô Tả Tạo Hình Cố Định (16:9) | Hồ Sơ Giọng Thoại (`VOICE_LOCK`) |
-|---|---|---|---|---|
-| **`@Binh`** | **Nguyễn Hòa Bình** (21t) | `a1a78643-ce72-4217-86c7-b53b927e637a` | Nam sinh viên năm cuối, cao 1m72, gầy nhợt nhạt, mắt thâm quầng, mặc áo hoodie xám bạc ngoài áo thun trắng, đeo ba lô đen. | `VOICE_LOCK_BINH_CNHADG`: Nam trẻ 21t chuẩn Bắc (`~135 Hz`), run rẩy, nghẹn ngào. |
-| **`@BaPhuong`** | **Bà Phượng** (50t) | `a17f2e3b-8272-4cff-8de0-1c3ec43a11b1` | Mẹ Bình, giáo viên về hưu, tóc búi thấp điểm bạc, mặt trái xoan nhân hậu phiền muộn, mặc áo sơ mi xanh nhạt. | `VOICE_LOCK_PHUONG_CNHADG`: Nữ trung niên 50t chuẩn Bắc (`~205 Hz`), ấm áp, lo âu. |
-| **`@OngQuan`** | **Ông Quân** (55t) | `e845a88f-7cd2-4b8f-9fa3-e75e7e337674` | Bố Bình, nhân viên văn phòng, dáng chắc, tóc húi cua điểm bạc, mặt nghiêm nghị, áo sơ mi trắng xắn tay. | `VOICE_LOCK_QUAN_CNHADG`: Nam trung niên 55t chuẩn Bắc (`~105 Hz`), trầm đanh, uy nghiêm. |
-| **`@OngBay`** | **Ông Bảy** (60t) | `10e5cdcf-3dd1-4b41-b999-21922b65de89` | Nông dân hàng xóm tốt bụng, da ngăm phong sương, tóc bạc, áo sơ mi kẻ nâu cũ, đi dép cao su, dắt xe đạp cổ. | `VOICE_LOCK_BAY_CNHADG`: Nam cao niên 60t chuẩn Bắc (`~115 Hz`), mộc mạc, ấm áp. |
-| **`@VongCuXa`** | **Vong Cụ Xá** (80t) | `f8d1ff26-6134-4fa4-8c0f-13e8405e5f64` | Vong hồn ông nội Bình, gầy gò bán trong suốt dưới ánh trăng lạnh, râu tóc bạc trắng, mặc áo bà ba nâu sồng. | `VOICE_LOCK_CUXA_CNHADG`: Cụ già 80t chuẩn Bắc (`~98 Hz`), khàn đục, vọng âm. |
-| **`@VongLa`** | **Vong Gốc Mít** (28t) | `0c2ade1f-c1cd-4c93-98e2-697231a54887` | Vong hồn vụ tai nạn xe rước dâu, da xám ngoét, hốc mắt đen ngòm, năm ngón tay móng dài đen kịt. | `VOICE_LOCK_VONGLA_CNHADG`: Giọng ma vọng lạnh lẽo chuẩn Bắc từ bốn phía. |
+Dự án **Phim Ma Kể Chuyện Điện Ảnh 15 Phút** (**15 Cảnh × 6 Clips × 10 giây = 90 Clips = 900 giây / 15 phút**, tỉ lệ **16:9 Cinema 24fps**, model **`omni_flash` 10s**) đã được tối ưu hóa toàn diện theo **10 Tiêu Chuẩn Điện Ảnh Kinh Dị Dân Gian Bắc Bộ**:
+- **1. Nhất Quán Giọng Người Dẫn Chuyện (`VOICE_LOCK_NARRATOR_CNHADG` — Ưu Tiên Cao Nhất):** Duy nhất 1 giọng Nam trung niên 42–48 tuổi chuẩn miền Bắc (`~108–110 Hz` deep warm low-baritone, hơi khàn nhẹ tự nhiên, vang lồng ngực, phong cách kể chuyện ma đêm khuya, tốc độ chuẩn **`125–145 từ/phút`**), điều chỉnh cảm xúc theo mạch truyện (`CALM_MYSTERIOUS` → `RISING_DREAD` → `CONTROLLED_URGENCY`).
+- **2. Tối Ưu Độ Dài Thoại & Lời Dẫn (`12–18 từ tiếng Việt / clip 10s`):** 100% trong tổng số 90 clips có độ dài câu nói từ **16–18 từ tiếng Việt** (`~7.5s–8.5s` ở tốc độ 125–145 WPM), kết thúc tự nhiên trước giây `8.8s`, không bao giờ bị cắt chữ hay đọc vội.
+- **3. Cấu Trúc Prompt Chuẩn 9 Phần (`[1. FORMAT & MODEL]` → `[9. CONTINUITY & QUALITY RULES]`):** Loại bỏ hoàn toàn chỉ dẫn trùng lặp và xung đột góc máy (không trộn flycam với gimbal mặt đất), khóa chặt `media_id` nhân vật trên Google Flow Project `3b955883-7851-42fe-a986-5ef82b4912e5` và mô tả rõ `START FRAME` / `END FRAME`.
 
 ---
 
-## PHẦN 2: KỊCH BẢN CHI TIẾT 15 CẢNH — 15 PHÚT (90 CLIPS × 10 GIÂY)
+## PHẦN 1: BẢNG KHÓA NHÂN VẬT & GIỌNG ĐỌC (`CHARACTER & VOICE LOCK`)
 
-#### **Cảnh 01 (`00:00–01:00` | 6 Clips × 10s): Chuyến Xe Khách Đêm Khuya & Món Nợ Bốn Trăm Triệu**
-- **Clip 1 (`00:00–00:10` — VO | On-screen: `@Binh`):** Toàn cảnh flycam chậm lướt qua cánh đồng lúa Bắc Bộ tối mịt mù trong sương đêm, tiến sát vào ô cửa kính đọng mưa của chiếc xe khách giường nằm nơi `@Binh` đang ngồi co ro.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Người ta vẫn thường bảo… trần gian có những bước đường cùng mà con người ta thà đối mặt với ma quỷ, còn hơn phải nhìn mặt người sống. Và chỉ vì một khoản nợ hơn bốn trăm triệu đồng… Bình đã phải bỏ lại tất cả, trốn về căn nhà cũ bỏ hoang gần hai mươi năm của ông nội."
-- **Clip 2 (`00:10–00:20` — VO | On-screen: `@Binh`):** Nối tiếp từ khung cửa kính đọng nước mưa, máy quay lướt vào khoang ghế tối: `@Binh` ôm chặt chiếc ba lô đen trước ngực, ánh đèn đường vàng vọt quét qua gương mặt tái nhợt hốc hác.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Thế nhưng Bình đâu hề biết rằng… sau cái đêm tai nạn thảm khốc cướp đi sáu mạng người ngay trước cổng mười ba năm về trước, căn nhà hoang ấy đã trở thành chốn dung thân của những oan hồn không nơi nương tựa."
-- **Clip 3 (`00:20–00:30` — Lip-Sync `@Binh` | On-screen: `@Binh`):** Đang ôm ba lô nhìn ra cửa kính, chiếc điện thoại trong túi áo hoodie của `@Binh` rung bần bật. `@Binh` giật mình rút máy ra, lấy tay che miệng áp sát điện thoại vào tai thì thầm.
-  - *Thoại (@Binh):* "Con nghe đây mẹ ơi… Con đang trên xe khách về quê nội rồi, mẹ đừng gọi nhiều nhỡ người ta nghe thấy."
-- **Clip 4 (`00:30–00:40` — Lip-Sync `@BaPhuong` | On-screen: `@BaPhuong`):** Ở đầu dây bên kia cuộc gọi, `@BaPhuong` đứng dưới ánh đèn vàng yếu ớt nơi góc bếp, một tay áp chặt điện thoại vào tai, một tay bấu vào mép bàn gỗ, nước mắt lưng tròng.
-  - *Thoại (@BaPhuong):* "Bố mày chưa biết chuyện đâu… Nhưng đám chủ nợ đằng nào chả tìm tới nhà! Mày về dưới quê ông nội thì phải cẩn thận đấy con ơi!"
-- **Clip 5 (`00:40–00:50` — VO | On-screen: `@Binh`):** Trở lại ghế xe khách tối tăm, `@Binh` hạ điện thoại xuống nhìn màn hình sáng xanh hiện bức ảnh chụp tài khoản tiền ảo cháy đỏ rực, hai bàn tay cậu run rẩy ôm lấy đầu.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Tất cả cũng chỉ bắt đầu từ cái bẫy đầu tư tiền ảo trên mạng… Ban đầu thấy kiếm được vài đồng bạc lẻ, lòng tham cứ thế cuốn lấy tâm trí, để rồi khi sàn sập… số nợ lãi mẹ đẻ lãi con đã vọt lên hơn bốn trăm triệu đồng."
-- **Clip 6 (`00:50–01:00` — VO | On-screen: `@Binh`):** `@Binh` tắt màn hình điện thoại, tựa trán vào mặt kính xe khách lạnh buốt nhìn bóng phản chiếu tuyệt vọng của chính mình khi chiếc xe lao sâu vào màn sương trắng vùng quê.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Không còn mặt mũi nào nhìn bố, cũng chẳng còn chốn dung thân nơi phố thị… Bình đành đánh liều tìm về căn nhà cổ của ông nội, mà không ngờ mình đang tự bước chân vào cõi âm dương giao hòa."
+| Tag | Nhân Vật | Google Flow `media_id` | Độ Tuổi | Mã Khóa Giọng (`VOICE_LOCK`) | Hồ Sơ Giọng Chuẩn Miền Bắc |
+|---|---|---|---|---|---|
+| **`@Binh`** | **Nguyễn Hòa Bình** | `a1a78643-ce72-4217-86c7-b53b927e637a` | 21 | `VOICE_LOCK_BINH_CNHADG` | 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào). |
+| **`@BaPhuong`** | **Bà Phượng** | `a17f2e3b-8272-4cff-8de0-1c3ec43a11b1` | 50 | `VOICE_LOCK_PHUONG_CNHADG` | 50-year-old native Standard Northern Vietnamese maternal female voice (~205 Hz warm mezzo), tearful, choked with heartache and maternal worry (giọng nữ trung niên 50 tuổi chuẩn miền Bắc, ấm áp, lo âu). |
+| **`@OngQuan`** | **Ông Quân** | `e845a88f-7cd2-4b8f-9fa3-e75e7e337674` | 55 | `VOICE_LOCK_QUAN_CNHADG` | 55-year-old native Standard Northern Vietnamese male baritone voice (~105 Hz stern baritone), gravelly, authoritative, hot-tempered at first then deeply remorseful (giọng nam trung niên 55 tuổi chuẩn miền Bắc, trầm đanh, uy nghiêm). |
+| **`@OngBay`** | **Ông Bảy** | `10e5cdcf-3dd1-4b41-b999-21922b65de89` | 60 | `VOICE_LOCK_BAY_CNHADG` | 60-year-old native Standard Northern Vietnamese rural elderly male voice (~115 Hz rustic baritone), candid, grounded, hushed when warning of ghosts (giọng bác nông dân 60 tuổi chuẩn miền Bắc, mộc mạc, ấm áp). |
+| **`@VongCuXa`** | **Vong Cụ Xá** | `f8d1ff26-6134-4fa4-8c0f-13e8405e5f64` | 80 | `VOICE_LOCK_CUXA_CNHADG` | 80-year-old native Standard Northern Vietnamese spectral elderly male voice (~98 Hz aged resonant bass-baritone), hoarse, slow, echoing with ancestral sorrow (giọng cụ già 80 tuổi chuẩn miền Bắc, khàn đục, vọng âm). |
+| **`@VongLa`** | **Vong Gốc Mít** | `0c2ade1f-c1cd-4c93-98e2-697231a54887` | 28 | `VOICE_LOCK_VONGLA_CNHADG` | Chilling echoing Standard Northern Vietnamese spectral whisper reverberating from all directions in the dark (giọng ma vọng lạnh lẽo chuẩn miền Bắc từ bốn phía). |
+| **`Narrator`** | **Người Dẫn Chuyện** | *(Off-Screen VO)* | 42–48 | `VOICE_LOCK_NARRATOR_CNHADG` | Nam 42–48 tuổi chuẩn Bắc, deep warm low-baritone (~108–110 Hz), slightly husky, 125–145 WPM. |
 
 ---
 
-#### **Cảnh 02 (`01:00–02:00` | 6 Clips × 10s): Bến Xe Thị Xã, Quán Cơm Bụi & Cánh Cổng Sắt Dưới Gốc Mít Cổ Thụ**
-- **Clip 1 (`01:00–01:10` — VO | On-screen: `@Binh`):** Từ màn sương trên quốc lộ chuyển sang nắng quái chiều tà: chiếc xe khách vừa rời đi bên lề đường thị xã, `@Binh` khoác ba lô đen bước xuống giữa làn bụi mù, thở phào ngước nhìn quanh.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Kim đồng hồ chỉ hơn hai giờ chiều khi chiếc xe khách thả Bình xuống một bến xe thị xã nhỏ. Giữa nơi đất khách quê người không một ai quen biết, lần đầu tiên sau nhiều tuần lễ, cậu mới dám thở phào một hơi nhẹ nhõm."
-- **Clip 2 (`01:10–01:20` — VO | On-screen: `@Binh`):** `@Binh` bước vào ngồi một mình bên chiếc bàn nhựa thấp ở quán cơm bụi ngay đầu đường làng, mắt nhìn tin nhắn mẹ vừa chuyển năm trăm nghìn cuối cùng bên cạnh đĩa cơm nguội.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Ngồi bên quán cơm bụi ven đường, nghe tiếng mẹ nghẹn ngào dặn dò qua điện thoại rằng vừa gom góp chuyển nốt cho cậu năm trăm nghìn cuối cùng… sống mũi Bình cay xè, miếng cơm nghẹn đắng nơi cổ họng."
-- **Clip 3 (`01:20–01:30` — VO | On-screen: `@Binh`):** `@Binh` cất điện thoại vào túi áo hoodie, đôi mắt đỏ hoe nhìn xuống đôi bàn tay gầy guộc đang run lên, rồi lặng lẽ đứng dậy khoác ba lô bước dọc theo con đường bê tông về làng.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Cậu tự hứa với lòng mình sẽ ẩn náu ở quê nội một thời gian cho qua cơn sóng gió… nhưng khi hỏi thăm đường về nhà cụ Xá, sắc mặt người dân trong vùng bỗng nhiên biến đổi hẳn."
-- **Clip 4 (`01:30–01:40` — VO | On-screen: `@Binh`):** `@Binh` lầm lũi bước đi trên con đường bê tông hẹp giữa hai cánh đồng lúa chiều muộn, gió thổi hun hút làm những rặng tre già đầu làng nghiêng ngả phát ra tiếng kẽo kẹt.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Con đường dẫn vào thôn quê cứ hẹp dần giữa hai cánh đồng lúa chiều vắng lặng, rợp bóng tre già âm u và lạnh lẽo đến rợn người."
-- **Clip 5 (`01:40–01:50` — Lip-Sync `@OngBay` | On-screen: `@Binh, @OngBay`):** Bắt gặp `@OngBay` đang vác cuốc đứng bên lề đường đầu xóm, `@Binh` dừng lại hỏi thăm. `@OngBay` chỉ tay về phía ngọn cây mít cổ thụ cuối xóm, đôi mắt nheo lại nhìn `@Binh` đầy vẻ cảnh giác.
-  - *Thoại (@OngBay):* "Căn nhà cuối xóm có gốc mít cổ thụ ấy bỏ hoang gần hai mươi năm nay rồi cậu ơi… Mà tôi nói thật nhé, nhà ấy nặng âm khí, có ma đấy!"
-- **Clip 6 (`01:50–02:00` — VO | On-screen: `@Binh`):** Theo hướng tay chỉ, `@Binh` bước tới đứng sững trước cánh cổng sắt sơn đen đã bong tróc rỉ sét. Bên trong sân cỏ dại mọc lút đầu gối, gốc mít cổ thụ xù xì che rợp mái ngói ba gian u tối.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đứng trước cánh cổng sắt sơn đen bong tróc và gốc mít cổ thụ vặn vẹo như những cánh tay khô héo vươn lên trời chiều… một luồng khí lạnh từ trong ngôi nhà hoang phả thẳng vào mặt khiến Bình bất giác rùng mình."
+## PHẦN 2: KỊCH BẢN CHI TIẾT 15 CẢNH — 90 CLIPS × 10 GIÂY (ĐÃ TỐI ƯU 12–18 TỪ/CLIP)
+
+### Cảnh 01 (`00:00–01:00` | 6 Clips × 10s): Chuyến Xe Khách Đêm Khuya & Món Nợ Bốn Trăm Triệu
+- **Không gian & Đạo cụ:** Lone sleeper coach bus crawling along a misty Northern Vietnamese rural highway and the dimly lit window seat inside the bus cabin (plus brief phone cutaway to @BaPhuong's kitchen). | *Props:* Sleeper coach bus window streaked with rain, worn plush passenger seat, black backpack, glowing smartphone screen showing a liquidated trading account.
+
+- **Clip 1 ([`canh-01/clip-1.md`](canh-01/clip-1.md) | `00:00–00:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** Opening aerial shot gliding over dark, fog-shrouded Northern Vietnamese rice paddies at midnight and descending toward the rain-streaked window of a lone sleeper coach bus where @Binh sits huddled.
+  - *Camera Plan:* `24mm stabilized aerial drone slow descending push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Ôm món nợ bốn trăm triệu không lối thoát, Bình bỏ trốn về căn nhà hoang ông nội."
+  - *Sound Design:* Tiếng động cơ xe khách rầm rì trầm đục xuyên màn mưa đêm và tiếng gió rít ngoài cánh đồng.
+- **Clip 2 ([`canh-01/clip-2.md`](canh-01/clip-2.md) | `00:10–00:20` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** Inside the dimly lit sleeper bus cabin, @Binh clutches his black backpack tightly against his chest as passing amber highway streetlights sweep across his pale, hollow-eyed face.
+  - *Camera Plan:* `35mm stabilized gimbal slow creeping push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Nhưng Bình đâu biết sau vụ tai nạn sáu mạng người, căn nhà đã thành nơi ma trú."
+  - *Sound Design:* Tiếng gạt nước mưa đều đặn của xe khách và tiếng thở nặng nhọc đầy bất an của @Binh.
+- **Clip 3 ([`canh-01/clip-3.md`](canh-01/clip-3.md) | `00:20–00:30` | `LIPSYNC:@Binh` | `RISING_DREAD` | On-screen: `@Binh`):** The smartphone inside @Binh's grey hoodie pocket vibrates; @Binh flinches, pulls out the phone, cups his hand over his mouth, and whispers anxiously into the receiver.
+  - *Camera Plan:* `50mm stabilized medium close-up shot`
+  - *Lời dẫn / Thoại (18 từ):* "Con nghe đây mẹ ơi… Con đang trên xe về quê, mẹ đừng gọi nhiều người ta nghe."
+  - *Sound Design:* Tiếng chuông rung rè rè trên ghế nệm và giọng thì thầm sợ sệt của @Binh giữa khoang xe tối.
+- **Clip 4 ([`canh-01/clip-4.md`](canh-01/clip-4.md) | `00:30–00:40` | `LIPSYNC:@BaPhuong` | `RISING_DREAD` | On-screen: `@BaPhuong`):** On the other end of the call in a dim city kitchen, @BaPhuong grips the edge of a wooden table under a weak yellow bulb, tears brimming in her eyes as she warns her son.
+  - *Camera Plan:* `50mm stabilized medium close-up slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Bố mày chưa biết đâu… Nhưng chủ nợ sắp tới rồi, về quê phải cẩn thận con nhé!"
+  - *Sound Design:* Tiếng nấc nghẹn ngào của người mẹ qua điện thoại hòa tiếng quạt điện cũ quay lạch cạch.
+- **Clip 5 ([`canh-01/clip-5.md`](canh-01/clip-5.md) | `00:40–00:50` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** Back in his dark sleeper bus seat, @Binh lowers the smartphone and stares at a screenshot of his liquidated online trading account glowing red, burying his face in his shaking hands.
+  - *Camera Plan:* `35mm stabilized over-the-shoulder tilt-down push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Tất cả bắt nguồn từ bẫy tiền ảo… chỉ sau một đêm mất trắng, nợ lãi chồng chất."
+  - *Sound Design:* Tiếng tút tắt cuộc gọi khô khốc và tiếng hơi thở hối hận nghẹn đắng của @Binh.
+- **Clip 6 ([`canh-01/clip-6.md`](canh-01/clip-6.md) | `00:50–01:00` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** @Binh switches off his phone screen and leans his forehead against the freezing wet bus glass, watching his hollow reflection as the coach plunges deeper into rural night fog.
+  - *Camera Plan:* `35mm stabilized slow dolly pull-back`
+  - *Lời dẫn / Thoại (18 từ):* "Không dám nhìn mặt bố, Bình đánh liều về quê mà chẳng ngờ đang bước vào cõi âm."
+  - *Sound Design:* Tiếng bánh xe khách cán qua vũng nước mưa rào rạt và tiếng gió đêm hun hút.
 
 ---
 
-#### **Cảnh 03 (`02:00–03:00` | 6 Clips × 10s): Ông Bảy Hàng Xóm & Lời Kể Rợn Tóc Gáy Về Vụ Lật Xe Lúc Ba Giờ Sáng**
-- **Clip 1 (`02:00–02:10` — Lip-Sync `@OngBay` | On-screen: `@Binh, @OngBay`):** `@Binh` đang đứng tần ngần nắm chấn song cổng sắt rỉ sét thì `@OngBay` dắt chiếc xe đạp Phượng Hoàng cũ dừng kịt lại ngay phía sau, ánh mắt sắc lạnh nhìn dò xét.
-  - *Thoại (@OngBay):* "Này cậu thanh niên kia, đứng rình mò gì trước cổng nhà người ta thế hả? Làng này vừa bắt được mấy đứa trộm cắp đấy nhé!"
-- **Clip 2 (`02:10–02:20` — Lip-Sync `@Binh` | On-screen: `@Binh, @OngBay`):** `@Binh` buông tay khỏi cổng sắt, vội vàng quay lại cúi đầu lễ phép giải thích với `@OngBay`. Ông Bảy nghe xong liền giãn cơ mặt, bước tới vỗ ấm áp lên vai cậu.
-  - *Thoại (@Binh):* "Dạ cháu không phải kẻ gian đâu bác ơi… Cháu là Bình, cháu nội cụ Xá, con trai bố Quân trên thành phố về thăm nhà ạ!"
-- **Clip 3 (`02:20–02:30` — VO | On-screen: `@Binh, @OngBay`):** `@OngBay` niềm nở dắt xe đạp đi sóng đôi cùng `@Binh` rời khỏi cổng sắt rỉ sét, hướng về ngôi nhà ngói ba gian giản dị của ông ở ngay đầu ngõ khi bóng chiều sập tối.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Nhận ra đứa cháu nội của ông cụ hàng xóm quá cố, ông Bảy mừng rỡ dẫn Bình về nhà mình nghỉ tạm qua đêm, bởi ngôi nhà hoang bụi bặm kia đâu thể dọn dẹp xong trong một buổi chiều tà."
-- **Clip 4 (`02:30–02:40` — VO | On-screen: `@Binh, @OngBay`):** Bên hiên nhà ngói ấm ánh đèn vàng, trong khi `@Binh` ngồi uống chén nước chè xanh bốc khói, `@OngBay` đứng ở góc hiên lắng nghe vợ thì thầm với gương mặt trầm ngâm lo lắng.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Thế nhưng vừa nghe chồng bảo ngày mai sẽ cho thằng nhỏ dọn sang căn nhà hoang ấy ở… vợ ông Bảy đã tái mặt kéo chồng ra góc hiên, giọng thì thầm đầy kinh hãi."
-- **Clip 5 (`02:40–02:50` — VO | On-screen: `@OngBay`):** Từ hiên nhà, `@OngBay` trầm ngâm nhìn xuyên qua màn sương mù dày đặc hướng về khúc cua quốc lộ ngay trước cổng sắt và gốc mít nhà cụ Xá chìm trong bóng tối lạnh ngắt.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Bà nhắc lại rằng mười ba năm về trước, đúng vào khung giờ Dần ba giờ sáng… một chiếc xe mười sáu chỗ đi rước dâu qua khúc cua trước cổng nhà cụ Xá đã bất ngờ mất lái, lật nhào bốn năm vòng làm sáu mạng người chết thảm ngay tại chỗ."
-- **Clip 6 (`02:50–03:00` — VO | On-screen: `@VongLa`):** Máy quay đẩy chậm từ khúc cua sương mù tới dưới gốc mít cổ thụ trước cổng sắt: bóng `@VongLa` cao gầy ướt đẫm sương đêm đang đứng lờ mờ sau rặng cỏ dại nhìn chằm chằm vào căn nhà hoang.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Thầy cao tay trong vùng bảo những vong hồn chết bất đắc kỳ tử ấy không tìm được đường về, thấy ngôi nhà cụ Xá bỏ không bèn kéo cả vào trong đó trú ngụ… Từ đấy về sau, đêm nào người đi làm đồng về khuya cũng thấy bóng trắng lượn lờ dưới gốc mít."
+### Cảnh 02 (`01:00–02:00` | 6 Clips × 10s): Bến Xe Thị Xã, Quán Cơm Bụi & Cánh Cổng Sắt Dưới Gốc Mít Cổ Thụ
+- **Không gian & Đạo cụ:** Dusty provincial bus drop-off, roadside rice stall, narrow concrete village lane flanked by bamboo groves, and the rusted black iron gate under the ancient jackfruit tree. | *Props:* Black backpack, low plastic table and cold rice plate at the roadside stall, smartphone SMS, narrow concrete path between rice paddies, iron hoe, rusted black iron gate, gnarled ancient jackfruit tree.
+
+- **Clip 1 ([`canh-02/clip-1.md`](canh-02/clip-1.md) | `01:00–01:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** Under pale late-afternoon sun at a dusty provincial bus stop, the coach pulls away and @Binh steps onto the gravel shoulder with his black backpack, letting out a long, exhausted breath.
+  - *Camera Plan:* `28mm stabilized gimbal tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Hơn hai giờ chiều xe thả Bình xuống thị xã nhỏ, nơi đất khách cậu mới thở phào."
+  - *Sound Design:* Tiếng còi xe khách xa dần trên quốc lộ và tiếng gió chiều thổi bụi lạo xạo dưới chân.
+- **Clip 2 ([`canh-02/clip-2.md`](canh-02/clip-2.md) | `01:10–01:20` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** @Binh sits alone at a low plastic table in a roadside eatery, staring down at a text message showing his mother just transferred her last five hundred thousand dong beside a plate of cold rice.
+  - *Camera Plan:* `50mm stabilized medium close-up push-in`
+  - *Lời dẫn / Thoại (17 từ):* "Ngồi quán cơm bụi nhìn năm trăm nghìn cuối cùng mẹ chuyển, sống mũi Bình cay xè."
+  - *Sound Design:* Tiếng tin nhắn điện thoại báo 'ting' nhẹ nhàng và tiếng muỗng chạm đĩa sứ khô khốc.
+- **Clip 3 ([`canh-02/clip-3.md`](canh-02/clip-3.md) | `01:20–01:30` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** @Binh slips the phone into his hoodie pocket, stares briefly at his trembling thin hands, then rises with his backpack to walk down the narrow concrete road leading into his grandfather's village.
+  - *Camera Plan:* `35mm stabilized gimbal slow tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Cậu định ẩn náu ở quê ít ngày… nhưng khi hỏi nhà cụ Xá, ai cũng biến sắc."
+  - *Sound Design:* Tiếng ghế nhựa kéo nhẹ trên nền xi măng và tiếng bước chân đơn độc của @Binh.
+- **Clip 4 ([`canh-02/clip-4.md`](canh-02/clip-4.md) | `01:30–01:40` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** @Binh walks alone along the narrow concrete lane between two darkening afternoon rice paddies as cold wind bends the overarching old bamboo groves with a hollow, eerie creak.
+  - *Camera Plan:* `28mm stabilized gimbal following shot`
+  - *Lời dẫn / Thoại (18 từ):* "Con đường về thôn hẹp dần giữa đồng chiều vắng, rợp bóng tre già âm u lạnh lẽo."
+  - *Sound Design:* Tiếng thân tre già cọ vào nhau 'kẽo kẹt… kẽo kẹt' trong gió chiều lạnh buốt.
+- **Clip 5 ([`canh-02/clip-5.md`](canh-02/clip-5.md) | `01:40–01:50` | `LIPSYNC:@OngBay` | `RISING_DREAD` | On-screen: `@Binh, @OngBay`):** Meeting @OngBay carrying an iron hoe by the village path, @Binh stops to ask directions; @OngBay points toward the towering jackfruit tree at the end of the lane with a wary squint.
+  - *Camera Plan:* `35mm stabilized two-shot slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Nhà cuối xóm có gốc mít bỏ hoang hai mươi năm rồi… nhà nặng âm khí, có ma!"
+  - *Sound Design:* Tiếng gió thổi xào xạc qua đồng lúa và giọng cảnh báo trầm khàn của bác nông dân già.
+- **Clip 6 ([`canh-02/clip-6.md`](canh-02/clip-6.md) | `01:50–02:00` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** Following the pointed path, @Binh halts before a peeling, rusted black iron gate; inside the weed-choked yard, a gnarled ancient jackfruit tree looms over the dark three-bay tiled house.
+  - *Camera Plan:* `35mm stabilized gimbal slow creeping push-in`
+  - *Lời dẫn / Thoại (17 từ):* "Đứng trước cổng sắt rỉ và gốc mít cổ thụ, luồng khí lạnh làm Bình rùng mình."
+  - *Sound Design:* Tiếng lá mít khô xào xạc trong gió chiều tà và tiếng bản lề cổng sắt rỉ sét rên khẽ.
 
 ---
 
-#### **Cảnh 04 (`03:00–04:00` | 6 Clips × 10s): Phá Khóa Dọn Nhà Hoang & Cuộc Gọi Tuyệt Vọng Từ Mẹ**
-- **Clip 1 (`03:00–03:10` — VO | On-screen: `@Binh`):** Sương đêm dưới gốc mít tan dần dưới ánh nắng ban mai: `@Binh` vác chổi tre bước tới trước cánh cổng sắt rỉ sét của căn nhà hoang, lắng nghe tiếng gà gáy sáng vang vọng khắp xóm làng.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Tiếng gà gáy sáng vang lên đánh thức Bình sau một đêm ngủ say hiếm hoi. Giữa cái nắng sớm trong trẻo của vùng quê Bắc Bộ, những lời đồn thổi ma quỷ tối hôm qua dường như cũng tan biến theo làn sương sớm."
-- **Clip 2 (`03:10–03:20` — VO | On-screen: `@Binh, @OngBay`):** Ngay trước cổng sắt, `@OngBay` dùng cán cuốc chim luồn vào ổ khóa sắt rỉ sét bên cạnh `@Binh`, bẩy mạnh một cái làm ổ khóa gãy 'RẮC!' rơi xuống nền gạch rêu phong.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Sáng hôm ấy, bác Bảy vác cuốc sang phụ Bình mở cổng dọn nhà. Chỉ một cú bẩy mạnh bằng cán cuốc gỗ, chiếc ổ khóa sắt rỉ sét khóa chặt suốt gần hai mươi năm đã gãy tung, mở toang cánh cổng bước vào thế giới bụi mờ."
-- **Clip 3 (`03:20–03:30` — VO | On-screen: `@Binh`):** Cánh cổng sắt mở rộng, `@Binh` cầm chổi tre quét dọn lớp lá mít mục nát và cỏ dại um tùm ngoài sân gạch, từng đám bụi mù và mạng nhện chằng chịt được gỡ xuống khỏi hiên nhà ngói.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Suốt ba tiếng đồng hồ phát cỏ và quét mạng nhện, khoảng sân gạch rêu phong dưới gốc mít cổ thụ mới dần lộ ra ánh sáng. Nhưng khi bước chân vào bên trong gian nhà chính… một mùi ẩm mốc lạnh lẽo vẫn đặc quánh trong không khí."
-- **Clip 4 (`03:30–03:40` — VO | On-screen: `@Binh`):** Từ hiên nhà, `@Binh` bước qua ngưỡng cửa gỗ vào đứng một mình giữa gian phòng khách trống huơ trống hoắc, từng luồng nắng xiên chiếu qua khe ngói làm lộ rõ lớp bụi bay lơ lửng quanh tường vôi bong tróc.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Nhìn gian nhà trống huơ không một nén hương sưởi ấm, lòng Bình chợt chùng xuống… Nhưng cậu tự nhủ, thôi thì coi như đây là sự trừng phạt cho những sai lầm tuổi trẻ của mình."
-- **Clip 5 (`03:40–03:50` — Lip-Sync `@BaPhuong` | On-screen: `@BaPhuong`):** Điện thoại reo vang chói tai phá tan sự tĩnh lặng. Ở đầu dây bên kia, `@BaPhuong` đứng nép trong góc phòng tối trên thành phố, hai tay giữ chặt điện thoại khóc nức nở trong sự hoảng loạn tột độ.
-  - *Thoại (@BaPhuong):* "Bình ơi! Bố mày biết hết chuyện nợ nần rồi con ơi! Ông ấy đang điên tiết lùng sục khắp nơi tìm mày đấy, mày khóa máy ngay đi đừng về lúc này!"
-- **Clip 6 (`03:50–04:00` — VO | On-screen: `@Binh`):** Nghe tiếng mẹ tắt phụt, `@Binh` buông thõng bàn tay cầm điện thoại, trượt dài lưng theo bức tường vôi ẩm mốc của gian nhà hoang rồi ngồi bệt xuống nền gạch lạnh toát, hai tay ôm đầu tuyệt vọng.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Cuộc gọi tắt phụt như cắt đứt sợi dây cứu sinh cuối cùng… Bình ngồi gục xuống nền gạch lạnh ngắt, nhận ra từ giây phút này, cậu thực sự chỉ còn trơ trọi một mình trong căn nhà mà cả làng gọi là nhà ma."
+### Cảnh 03 (`02:00–03:00` | 6 Clips × 10s): Ông Bảy Hàng Xóm & Lời Kể Rợn Tóc Gáy Về Vụ Lật Xe Lúc Ba Giờ Sáng
+- **Không gian & Đạo cụ:** Rusted iron gate under the ancient jackfruit tree, the village lane, and @OngBay's warm-lit porch looking out toward the dark highway curve before Cụ Xá's gate. | *Props:* Vintage Phượng Hoàng bicycle, rusted iron gate bars, hot green tea cups on a wooden table, misty highway curve outside the gate, gnarled jackfruit tree roots.
+
+- **Clip 1 ([`canh-03/clip-1.md`](canh-03/clip-1.md) | `02:00–02:10` | `LIPSYNC:@OngBay` | `RISING_DREAD` | On-screen: `@Binh, @OngBay`):** As @Binh stands gripping the rusted iron gate bars, @OngBay rolls up right behind him pushing an old Phượng Hoàng bicycle, eyeing the young stranger with sharp suspicion.
+  - *Camera Plan:* `35mm stabilized medium tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Này cậu thanh niên lạ mặt kia, đứng rình mò gì trước cổng nhà người ta thế hả?!"
+  - *Sound Design:* Tiếng phanh xe đạp Phượng Hoàng kêu 'kít' trên đường bê tông và giọng hỏi dò xét của @OngBay.
+- **Clip 2 ([`canh-03/clip-2.md`](canh-03/clip-2.md) | `02:10–02:20` | `LIPSYNC:@Binh` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngBay`):** @Binh releases the iron gate and bows his head politely to explain who he is; hearing the name of his late neighbor's grandson, @OngBay's stern face softens and he pats @Binh's shoulder warmly.
+  - *Camera Plan:* `35mm stabilized two-shot`
+  - *Lời dẫn / Thoại (18 từ):* "Dạ cháu là Bình, cháu nội cụ Xá, con trai bố Quân trên phố về thăm nhà ạ!"
+  - *Sound Design:* Tiếng thở phào nhẹ nhõm và tiếng tay @OngBay vỗ bộp ấm áp lên vai áo @Binh.
+- **Clip 3 ([`canh-03/clip-3.md`](canh-03/clip-3.md) | `02:20–02:30` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngBay`):** @OngBay walks his bicycle side by side with @Binh away from the rusted iron gate toward his own modest three-bay tiled house at the head of the lane as dusk settles.
+  - *Camera Plan:* `28mm stabilized gimbal side-tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Nhận ra cháu nội cụ Xá, ông Bảy mừng rỡ dẫn Bình về nhà mình nghỉ qua đêm."
+  - *Sound Design:* Tiếng líp xe đạp kêu lạch cạch đều đặn và tiếng côn trùng chiều tối bắt đầu râm ran.
+- **Clip 4 ([`canh-03/clip-4.md`](canh-03/clip-4.md) | `02:30–02:40` | `VO` | `RISING_DREAD` | On-screen: `@Binh, @OngBay`):** On @OngBay's warm-lit porch, while @Binh sits sipping hot green tea at a wooden table, @OngBay stands near the corner pillar listening to his wife's hushed warning with a troubled frown.
+  - *Camera Plan:* `35mm stabilized medium push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Nghe chồng bảo mai cho Bình sang nhà hoang, vợ ông Bảy tái mặt kéo ra nhắc khẽ."
+  - *Sound Design:* Tiếng chén sứ đặt nhẹ lên khay gỗ và tiếng thì thầm lo âu từ góc hiên nhà.
+- **Clip 5 ([`canh-03/clip-5.md`](canh-03/clip-5.md) | `02:40–02:50` | `VO` | `RISING_DREAD` | On-screen: `@OngBay`):** From his porch, @OngBay stares out through the thickening night fog toward the sharp highway curve right in front of Cụ Xá's rusted gate and the looming black jackfruit tree.
+  - *Camera Plan:* `35mm stabilized over-the-shoulder push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Mười ba năm trước lúc ba giờ sáng, xe rước dâu lật trước cổng làm sáu người chết."
+  - *Sound Design:* Tiếng gió đêm rít lạnh qua rặng tre và tiếng vọng mơ hồ như tiếng phanh xe cháy đường.
+- **Clip 6 ([`canh-03/clip-6.md`](canh-03/clip-6.md) | `02:50–03:00` | `VO` | `RISING_DREAD` | On-screen: `@VongLa`):** The camera pushes slowly through the ground fog beneath the gnarled ancient jackfruit tree outside the rusted iron gate, where the tall, skeletal silhouette of @VongLa stands staring into the abandoned house.
+  - *Camera Plan:* `35mm stabilized slow creeping push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Những oan hồn không siêu thoát đã kéo vào căn nhà bỏ không ấy trú ngụ bao năm."
+  - *Sound Design:* Tiếng lá mít rụng xào xạc trên cỏ ướt và tiếng thở dài âm u vọng ra từ gốc cây cổ thụ.
 
 ---
 
-#### **Cảnh 05 (`04:00–05:00` | 6 Clips × 10s): Đêm Đầu Tiên Một Mình & Vết Bầm Năm Ngón Tay Lúc Rạng Sáng**
-- **Clip 1 (`04:00–04:10` — VO | On-screen: `@Binh`):** Từ nền gạch lạnh lẽo ban ngày chuyển sang màn đêm tĩnh mịch: dưới ánh đèn dây tóc 15W vàng vọt tù mù, `@Binh` nằm co ro trên chiếc giường xếp cũ cót két, bên ngoài giăng tấm màn tuyn trắng mỏng.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đêm đầu tiên ngủ lại một mình… ngoài sân chỉ có tiếng ếch nhái kêu râm ran và tiếng gió đêm lùa qua kẽ ngói. Dưới ánh đèn dây tóc vàng vọt như đom đóm, Bình kéo chăn ngang ngực, tự trấn an rằng đây là nhà của ông nội mình."
-- **Clip 2 (`04:10–04:20` — VO | On-screen: `@Binh, @VongLa`):** Góc máy từ trên trần nhà tối đen hạ thấp xuống chiếc màn trắng nơi `@Binh` đang thiu thiu ngủ: bóng tối bốn góc phòng đặc quánh lại, và bóng đen cao gầy của `@VongLa` bắt đầu lượn lờ ngay sát bên ngoài lớp màn.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Thế nhưng khi cơn mê man vừa kéo đến… giữa không gian tĩnh lặng như tờ, Bình bỗng cảm thấy không khí trong phòng đặc quánh lại. Ngay bên ngoài lớp màn mỏng… có một bóng người đang lặng lẽ đi vòng quanh giường cậu!"
-- **Clip 3 (`04:20–04:30` — Lip-Sync `@Binh` | On-screen: `@Binh, @VongLa`):** Từ sát mép màn tuyn, bàn tay lạnh buốt của `@VongLa` vươn ra bóp chặt lấy cổ tay trái của `@Binh`. `@Binh` trợn trừng mắt, gồng người vùng vẫy trên giường xếp nhưng toàn thân cứng đờ như đá.
-  - *Thoại (@Binh):* "Ai đó?! Bỏ tay tôi ra… Cứu tôi với, bỏ tôi ra!!"
-- **Clip 4 (`04:30–04:40` — VO | On-screen: `@Binh`):** Ánh nắng ban mai chiếu xiên qua song cửa sổ gỗ vào đúng chiếc giường xếp: `@Binh` giật mình ngồi bật dậy thở dốc, rồi chết lặng khi nhìn xuống cổ tay trái in hằn vết bầm tím sẫm hình năm ngón tay!
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Giật mình choàng tỉnh khi trời vừa hửng sáng, mồ hôi lạnh ướt đẫm lưng áo… Bình bàng hoàng nhìn xuống cổ tay mình. Trên làn da trắng nhợt, một vết bầm tím đen hình năm ngón tay dài ngoẵng đang hằn sâu như vừa bị ai bóp nát!"
-- **Clip 5 (`04:40–04:50` — Lip-Sync `@OngBay` | On-screen: `@Binh, @OngBay`):** Từ ngoài cổng sắt vang lên tiếng gọi ấm áp của `@OngBay`. `@Binh` vội vã vén màn bước ra hiên định giơ cổ tay lên cho `@OngBay` xem, nhưng dưới nắng sớm vết bầm đã biến mất sạch trơn.
-  - *Thoại (@OngBay):* "Bình ơi! Dậy chưa cháu? Rửa mặt mũi đi rồi sang nhà bác ăn bát cháo nóng cho ấm bụng nào!"
-- **Clip 6 (`04:50–05:00` — VO | On-screen: `@Binh, @VongLa`):** `@Binh` đứng trên hiên nhà ngơ ngác xoay cổ tay hoàn toàn lành lặn dưới nắng sớm, trong khi máy quay lùi chậm vào góc tối gian phòng sau lưng cậu nơi bóng đen `@VongLa` đứng nhìn chằm chằm rồi tan biến.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Lạ lùng thay… vừa bước chân ra tới ánh nắng ngoài hiên, vết bầm tím đen kia đã biến mất không còn một dấu vết. Bình cố tự nhủ rằng mình chỉ hoa mắt… mà không hề biết rằng trong góc tối sau lưng, có kẻ vẫn đang dõi theo từng nhịp thở của cậu."
+### Cảnh 04 (`03:00–04:00` | 6 Clips × 10s): Phá Khóa Dọn Nhà Hoang & Cuộc Gọi Tuyệt Vọng Từ Mẹ
+- **Không gian & Đạo cụ:** Overgrown brick courtyard under the jackfruit tree, rusted iron gate, and the dusty, empty three-bay tiled house interior without an ancestral altar. | *Props:* Bamboo broom, iron hoe breaking the rusted padlock, rotting jackfruit leaves and weeds in the courtyard, cobwebs, empty peeling-plaster main room, ringing smartphone.
+
+- **Clip 1 ([`canh-04/clip-1.md`](canh-04/clip-1.md) | `03:00–03:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** Morning sunlight burns away the night mist under the jackfruit tree as @Binh walks up to the rusted iron gate carrying a bamboo broom while roosters crow across the village.
+  - *Camera Plan:* `28mm stabilized gimbal tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Nắng sớm trong trẻo xua tan sương đêm, làm những lời đồn ma quỷ tối qua tạm lắng."
+  - *Sound Design:* Tiếng gà gáy sáng vang vọng khắp xóm làng và tiếng chim sẻ chuyền cành ríu rít.
+- **Clip 2 ([`canh-04/clip-2.md`](canh-04/clip-2.md) | `03:10–03:20` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngBay`):** At the iron gate, @OngBay wedges the wooden handle of his iron hoe into the rusted padlock beside @Binh and wrenches downward, snapping the 20-year-old lock open with a sharp metallic crack.
+  - *Camera Plan:* `35mm stabilized medium close-up shot`
+  - *Lời dẫn / Thoại (18 từ):* "Ông Bảy dùng cán cuốc bẩy gãy ổ khóa rỉ, mở toang cánh cổng khóa hai mươi năm."
+  - *Sound Design:* Tiếng ổ khóa sắt rỉ gãy 'RẮC!' đanh gọn và tiếng cổng sắt mở 'kẹt… ẹt' nặng nề.
+- **Clip 3 ([`canh-04/clip-3.md`](canh-04/clip-3.md) | `03:20–03:30` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** Inside the open gate, @Binh sweeps away thick layers of rotting brown jackfruit leaves, weeds, and cobwebs across the mossy brick courtyard beneath the sprawling tree canopy.
+  - *Camera Plan:* `28mm stabilized gimbal panning shot`
+  - *Lời dẫn / Thoại (18 từ):* "Suốt ba tiếng phát cỏ quét mạng nhện, sân gạch rêu phong dưới gốc mít mới lộ ra."
+  - *Sound Design:* Tiếng chổi tre quét lá khô 'sột soạt' đều đặn trên nền gạch Bát Tràng cổ.
+- **Clip 4 ([`canh-04/clip-4.md`](canh-04/clip-4.md) | `03:30–03:40` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** @Binh steps across the wooden threshold into the bare, peeling-plaster main room; slanted afternoon sunbeams cut through roof tile gaps illuminating thick dust motes where no ancestral altar stands.
+  - *Camera Plan:* `35mm stabilized gimbal slow push-in`
+  - *Lời dẫn / Thoại (17 từ):* "Bước vào gian nhà trống huơ không nén hương ấm, lòng Bình chợt chùng xuống lạnh lẽo."
+  - *Sound Design:* Tiếng bước chân vang vọng trong căn phòng trống rỗng và tiếng gió lùa qua khe ngói cũ.
+- **Clip 5 ([`canh-04/clip-5.md`](canh-04/clip-5.md) | `03:40–03:50` | `LIPSYNC:@BaPhuong` | `CONTROLLED_URGENCY` | On-screen: `@BaPhuong`):** A shrill ringtone shatters the silence; on the other end in the city, @BaPhuong cowers in a dark room corner clutching her phone with both hands, sobbing in sheer panic.
+  - *Camera Plan:* `50mm stabilized tight close-up push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Bình ơi! Bố mày biết hết chuyện nợ rồi! Ông ấy đang điên tiết tìm mày khắp nơi!"
+  - *Sound Design:* Tiếng khóc nức nở hoảng loạn của @BaPhuong qua điện thoại hòa tiếng đồ đạc đổ vỡ xa xa.
+- **Clip 6 ([`canh-04/clip-6.md`](canh-04/clip-6.md) | `03:50–04:00` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** Hearing the line go dead, @Binh lowers his phone with a lifeless arm, slides his back down the peeling damp lime wall onto the cold brick floor, and buries his head in his knees.
+  - *Camera Plan:* `35mm stabilized slow crane-down pull-back`
+  - *Lời dẫn / Thoại (18 từ):* "Cuộc gọi tắt phụt cắt đứt hy vọng cuối… Bình gục xuống giữa căn nhà ma lạnh ngắt."
+  - *Sound Design:* Tiếng điện thoại chạm nền gạch và tiếng thở dài tuyệt vọng giữa căn nhà hoang.
 
 ---
 
-#### **Cảnh 06 (`05:00–06:00` | 6 Clips × 10s): Chuyện Rượu Đêm Của Ông Tư — Bóng Ma Xin Thuốc Lá Dưới Gốc Mít**
-- **Clip 1 (`05:00–05:10` — VO | On-screen: `@Binh, @OngBay`):** Nối tiếp ánh nắng ngoài hiên, `@Binh` đi sóng đôi cùng `@OngBay` dọc theo bờ ruộng lúa xanh mướt dưới nắng chiều yên ả, gương mặt cậu giãn ra nhẹ nhõm giữa khung cảnh làng quê thanh bình.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Hai ngày tiếp theo trôi qua êm ả đến lạ thường. Ban ngày Bình theo ông Bảy ra thăm đồng, chiều về ăn cơm trò chuyện cùng gia đình ông, sự bình yên thôn dã khiến cậu vơi đi phần nào nỗi ám ảnh."
-- **Clip 2 (`05:10–05:20` — VO | On-screen: `@Binh, @OngBay`):** Từ đường đồng về tới hiên nhà ngói, `@Binh` ngồi bên bàn gỗ nâng chén nước chè xanh bốc khói cùng `@OngBay`, khẽ mỉm cười lắng nghe tiếng chim chiều ríu rít ngoài vườn.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Thậm chí có những khoảnh khắc ngồi uống chén chè xanh nơi hiên nhà hàng xóm, Bình đã thoáng nghĩ… hay là cứ ở lại mảnh đất quê nghèo này mãi mãi để trốn chạy cuộc đời."
-- **Clip 3 (`05:20–05:30` — VO | On-screen: `@Binh, @OngBay`):** Bóng chiều tắt dần thành đêm tối bên bàn rượu quê dưới ánh đèn vàng: `@OngBay` ngà ngà say bỗng hạ giọng ghé sát về phía `@Binh`, chỉ tay về hướng gốc mít cổ thụ đầu cổng với ánh mắt kinh hoàng.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Nhưng rồi vào cái đêm ngồi uống rượu cùng các bác hàng xóm… khi hơi men đã ngà ngà, người ta bỗng ghé sát tai Bình, giọng run rẩy kể lại cái đêm ông Tư chạm mặt thứ tà ma dưới gốc mít nhà cậu."
-- **Clip 4 (`05:30–05:40` — VO | On-screen: `@VongLa`):** Máy quay lướt theo hướng tay chỉ ra gốc mít cổ thụ ngập sương trắng lúc nửa đêm: bóng `@VongLa` ngồi thu lu giữa đám rễ mít, từ từ ngẩng khuôn mặt trắng bệch với hai hốc mắt đen ngòm sâu hoắm dưới ánh lửa bật lửa.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đêm ấy ông Tư đi uống rượu về khuya, thấy có bóng người ngồi co ro dưới gốc mít nhà cụ Xá bèn rút điếu thuốc mời… Nào ngờ khi ánh lửa bật lên, trước mặt ông là một khuôn mặt méo mó trắng bệch, hai hốc mắt đen ngòm không có con ngươi!"
-- **Clip 5 (`05:40–05:50` — VO | On-screen: `@VongLa`):** Bóng `@VongLa` nhoẻn miệng cười lạnh lẽo rồi lùi dần tan vào thân cây mít cổ thụ xù xì, để lại bao thuốc lá nằm trơ trọi trên đám rễ mít đẫm sương đêm và bùn lạnh.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Thứ đó nhoẻn cái miệng rộng ngoác cười khanh khách rồi tan biến vào thân cây mít… Để rồi sáng hôm sau khi dân làng chạy ra xem, bao thuốc lá của ông Tư vẫn còn nằm nguyên vẹn ngay trên rễ mít lạnh ngắt."
-- **Clip 6 (`05:50–06:00` — VO | On-screen: `@Binh`):** Ngay tại gốc mít cổ thụ ấy trong đêm khuya, `@Binh` một mình bước qua cánh cổng sắt trở về căn nhà hoang, ánh mắt bất an ngước nhìn tán mít đen đặc đang xào xạc giữa cơn gió lạnh.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Bước chân về lại căn nhà hoang khi đêm đã khuya khoắt, đi ngang qua gốc mít cổ thụ đen đặc… sống lưng Bình lạnh toát như có ai đang cầm cục nước đá chà dọc xương sống."
+### Cảnh 05 (`04:00–05:00` | 6 Clips × 10s): Đêm Đầu Tiên Một Mình & Vết Bầm Năm Ngón Tay Lúc Rạng Sáng
+- **Không gian & Đạo cụ:** Dimly lit main room of the abandoned house with a creaking folding cot inside a thin white mosquito net under a 15W yellow filament bulb, opening onto the sunlit morning porch. | *Props:* Creaking metal folding cot, thin white mosquito net (màn tuyn trắng), dim 15W yellow filament bulb, dark five-finger bruise on @Binh's left wrist.
+
+- **Clip 1 ([`canh-05/clip-1.md`](canh-05/clip-1.md) | `04:00–04:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** On his first night alone under the dim, sickly yellow glow of a 15W filament bulb, @Binh lies curled on a creaking folding cot inside a thin white mosquito net, pulling his blanket tight.
+  - *Camera Plan:* `35mm stabilized gimbal slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đêm đầu tiên ngủ một mình dưới ánh đèn vàng vọt, Bình kéo chăn cố tự trấn an."
+  - *Sound Design:* Tiếng ếch nhái kêu râm ran ngoài ruộng đêm và tiếng giường xếp kêu cót két khẽ.
+- **Clip 2 ([`canh-05/clip-2.md`](canh-05/clip-2.md) | `04:10–04:20` | `VO` | `RISING_DREAD` | On-screen: `@Binh, @VongLa`):** The camera lowers slowly from the dark ceiling beams toward the white mosquito net where @Binh dozes; the shadows thicken, and the tall gaunt figure of @VongLa circles silently right outside the net.
+  - *Camera Plan:* `35mm stabilized high-angle slow crane-down shot`
+  - *Lời dẫn / Thoại (17 từ):* "Khi cơn mê man vừa tới… ngay ngoài lớp màn mỏng có bóng người đi quanh giường!"
+  - *Sound Design:* Tiếng bước chân trần ướt lạnh lướt nhẹ trên nền gạch và tiếng vải màn khẽ rung.
+- **Clip 3 ([`canh-05/clip-3.md`](canh-05/clip-3.md) | `04:20–04:30` | `LIPSYNC:@Binh` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @VongLa`):** From the edge of the mosquito net, @VongLa's freezing bony hand clamps down onto @Binh's left wrist; @Binh's eyes fly wide open and he thrashes against sleep paralysis, crying out in terror.
+  - *Camera Plan:* `50mm stabilized close-up shot`
+  - *Lời dẫn / Thoại (17 từ):* "Ai đó?! Bỏ cái tay lạnh buốt ra ngay… Cứu tôi với, ai ngoài đó bỏ ra!!"
+  - *Sound Design:* Tiếng giường xếp rung bần bật và tiếng kêu cứu nghẹn đặc trong cổ họng của @Binh.
+- **Clip 4 ([`canh-05/clip-4.md`](canh-05/clip-4.md) | `04:30–04:40` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** Morning sunbeams slant through the wooden window bars across the folding cot; @Binh bolts upright drenched in cold sweat and freezes as he looks down at a dark purple five-finger bruise on his left wrist.
+  - *Camera Plan:* `35mm stabilized medium close-up push-in`
+  - *Lời dẫn / Thoại (17 từ):* "Choàng tỉnh khi trời sáng, Bình chết lặng nhìn vết bầm tím năm ngón trên cổ tay!"
+  - *Sound Design:* Tiếng thở dốc gấp gáp của @Binh lúc tỉnh giấc và tiếng chim buổi sớm ngoài hiên.
+- **Clip 5 ([`canh-05/clip-5.md`](canh-05/clip-5.md) | `04:40–04:50` | `LIPSYNC:@OngBay` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngBay`):** Hearing @OngBay's warm voice calling from the gate, @Binh pushes aside the net and hurries out onto the sunlit porch lifting his wrist to show him, only to find the skin completely unblemished.
+  - *Camera Plan:* `35mm stabilized tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Bình ơi! Dậy chưa cháu? Rửa mặt đi rồi sang nhà bác ăn bát cháo cho ấm bụng!"
+  - *Sound Design:* Tiếng gọi hồn hậu của @OngBay ngoài cổng sắt và tiếng cửa gỗ mở ra nắng sớm.
+- **Clip 6 ([`canh-05/clip-6.md`](canh-05/clip-6.md) | `04:50–05:00` | `VO` | `RISING_DREAD` | On-screen: `@Binh, @VongLa`):** @Binh stands on the bright porch rubbing his now-clean left wrist in confusion, while the camera pulls slowly backward into the dark room corner behind him where @VongLa watches before fading away.
+  - *Camera Plan:* `35mm stabilized slow dolly pull-back into interior`
+  - *Lời dẫn / Thoại (18 từ):* "Ra nắng sớm vết bầm biến mất… nhưng trong góc tối sau lưng, bóng ma vẫn dõi theo."
+  - *Sound Design:* Tiếng gió lạnh thoáng qua trong góc phòng tối tương phản với tiếng nắng sớm ngoài sân.
 
 ---
 
-#### **Cảnh 07 (`06:00–07:00` | 6 Clips × 10s): Đêm Thứ Ba — Chiếc Xoong Nhôm Rơi Chói Tai & Bóng Trắng Ngoài Cửa Sổ**
-- **Clip 1 (`06:00–06:10` — VO | On-screen: `@Binh`):** Đêm thứ ba trong căn nhà hoang: `@Binh` đang thiu thiu ngủ trên giường xếp trong bóng tối thì từ dưới gian bếp tiếp giáp vang lên tiếng 'CHOANG!!' chói tai của kim loại rơi xuống nền gạch.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đêm thứ ba… khi cả xóm làng đã chìm sâu vào giấc ngủ chết chóc và Bình vừa mới chợp mắt, thì từ dưới gian bếp tối om, một tiếng động chói tai bỗng nổ vang xé toạc màn đêm!"
-- **Clip 2 (`06:10–06:20` — Lip-Sync `@Binh` | On-screen: `@Binh`):** `@Binh` giật bắn mình vén màn bước xuống gian bếp, bật đèn pin điện thoại soi xuống nền gạch: chiếc xoong nhôm vốn treo trên đinh cao nay nằm lăn lóc giữa nhà. Tay `@Binh` run bần bật cúi xuống nhặt.
-  - *Thoại (@Binh):* "Chắc là chuột… chỉ là con chuột chạy làm rơi xoong thôi mà…"
-- **Clip 3 (`06:20–06:30` — VO | On-screen: `@Binh, @VongLa`):** Khi `@Binh` vừa đứng thẳng dậy định treo chiếc xoong nhôm lên đinh tường thì bóng đèn dây tóc trên trần kêu 'XẸT!' rồi tắt phụt. Trong bóng tối đen đặc, ngay sát sau gáy `@Binh` lù lù hiện ra bóng trắng `@VongLa`.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Nhưng ngay khoảnh khắc tay cậu vừa chạm vào chiếc đinh trên tường… bóng đèn vàng trên đầu bỗng nổ lách tách rồi tắt phụt! Bóng tối nuốt chửng lấy căn phòng, và hai bàn chân Bình như bị đóng đinh cứng ngắc xuống nền gạch."
-- **Clip 4 (`06:30–06:40` — VO | On-screen: `@Binh, @VongLa`):** Trong bóng tối mờ xanh lạnh lẽo, một luồng hơi thở trắng xóa lạnh như băng từ `@VongLa` phả thẳng vào sau gáy `@Binh` làm tóc gáy cậu dựng đứng, rồi bóng đèn dây tóc chợt nhấp nháy bật sáng trở lại.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Giữa bóng tối đen đặc như mực… Bình nghe rõ mồn một tiếng thở khàn đục của một kẻ nào đó đang đứng sát rạt ngay sau gáy mình, phả từng luồng hơi lạnh buốt như băng vào cổ… Một phút trôi qua dài như cả thế kỷ, trước khi ánh đèn chập chờn bật sáng trở lại."
-- **Clip 5 (`06:40–06:50` — VO | On-screen: `@Binh, @VongLa`):** Khi đèn vừa sáng lại, `@Binh` thở hồng hộc đặt vội chiếc xoong lên kệ gỗ, nhưng vừa liếc mắt qua khung cửa sổ gỗ bên cạnh, bóng trắng toát của `@VongLa` lướt vụt qua ngay ngoài chấn song!
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Tim đập thình thịch muốn nổ tung lồng ngực, cậu tự lừa dối mình rằng chỉ là điện chập… Nhưng vừa liếc mắt về phía khung cửa sổ gỗ, một cái bóng trắng toát không chân vừa lướt vụt qua ngay ngoài chấn song!"
-- **Clip 6 (`06:50–07:00` — VO | On-screen: `@Binh, @VongLa`):** `@Binh` lao vội về chiếc giường xếp trùm kín chăn qua đầu, trong khi máy quay lùi chậm về phía khung cửa sổ gỗ nơi năm ngón tay trắng nhợt móng đen dài của `@VongLa` đang bấu chặt lên bệ cửa.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Bình phóng lên giường trùm chăn kín mít từ đầu đến chân… mà không hề nhìn thấy ngoài song cửa sổ, một bàn tay trắng bệch với năm móng tay đen dài đang bấu chặt lấy mép gỗ, kèm theo tiếng cười khúc khích lạnh gáy vọng lại từ gốc mít."
+### Cảnh 06 (`05:00–06:00` | 6 Clips × 10s): Chuyện Rượu Đêm Của Ông Tư — Bóng Ma Xin Thuốc Lá Dưới Gốc Mít
+- **Không gian & Đạo cụ:** Green village rice paddies, @OngBay's porch table at night, and the fog-shrouded roots of the ancient jackfruit tree outside the rusted iron gate. | *Props:* Green tea cups and rice wine glasses on @OngBay's porch, flickering lighter flame, crumpled cigarette pack on mossy jackfruit roots, rusted iron gate at midnight.
+
+- **Clip 1 ([`canh-06/clip-1.md`](canh-06/clip-1.md) | `05:00–05:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngBay`):** Under peaceful late-afternoon sunshine, @Binh walks alongside @OngBay down a lush green rice paddy embankment, his pale face relaxing slightly in the quiet rural breeze.
+  - *Camera Plan:* `28mm stabilized gimbal side-tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Hai ngày tiếp theo trôi qua êm ả, Bình theo ông Bảy ra đồng vơi nỗi ám ảnh."
+  - *Sound Design:* Tiếng lúa xanh rì rào trong gió chiều và tiếng bước chân nhẹ nhàng trên bờ đê đất.
+- **Clip 2 ([`canh-06/clip-2.md`](canh-06/clip-2.md) | `05:10–05:20` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngBay`):** Back on @OngBay's tiled porch at dusk, @Binh sits at the wooden table lifting a steaming cup of green tea with @OngBay, a faint relieved smile touching his lips.
+  - *Camera Plan:* `35mm stabilized medium two-shot`
+  - *Lời dẫn / Thoại (17 từ):* "Ngồi uống chén chè xanh nơi hiên hàng xóm, Bình thoáng nghĩ hay cứ ở quê mãi."
+  - *Sound Design:* Tiếng rót nước chè nóng vào chén sứ và tiếng chim chiều bay về tổ ngoài vườn.
+- **Clip 3 ([`canh-06/clip-3.md`](canh-06/clip-3.md) | `05:20–05:30` | `VO` | `RISING_DREAD` | On-screen: `@Binh, @OngBay`):** As night falls over the porch wine table under a yellow bulb, @OngBay leans in close to @Binh and points with a trembling finger toward the dark jackfruit tree down the lane.
+  - *Camera Plan:* `35mm stabilized slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Nhưng tối ấy bên bàn rượu, ông Bảy ghé tai kể chuyện ông Tư gặp ma gốc mít."
+  - *Sound Design:* Tiếng chén rượu chạm bàn khẽ và giọng kể trầm thấp rợn tóc gáy giữa đêm quê.
+- **Clip 4 ([`canh-06/clip-4.md`](canh-06/clip-4.md) | `05:30–05:40` | `VO` | `RISING_DREAD` | On-screen: `@VongLa`):** In a chilling nighttime vision under the fog-drenched ancient jackfruit tree, @VongLa crouches among the gnarled roots and slowly lifts an ash-grey face with two pitch-black, eyeless sockets in a lighter's spark.
+  - *Camera Plan:* `50mm stabilized close-up slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đêm đó ông Tư bật lửa mời thuốc… trước mặt là khuôn mặt trắng bệch không con ngươi!"
+  - *Sound Design:* Tiếng bật lửa 'xoẹt' trong sương đêm và tiếng gió rít lạnh buốt qua tán mít cổ thụ.
+- **Clip 5 ([`canh-06/clip-5.md`](canh-06/clip-5.md) | `05:40–05:50` | `VO` | `RISING_DREAD` | On-screen: `@VongLa`):** @VongLa stretches a wide, silent grin and melts backward into the rough bark of the ancient jackfruit trunk, leaving a crumpled cigarette pack resting alone on the wet mossy roots.
+  - *Camera Plan:* `35mm stabilized slow dolly pull-back`
+  - *Lời dẫn / Thoại (17 từ):* "Thứ đó nhoẻn miệng cười rồi tan vào cây, để lại bao thuốc trên rễ mít lạnh."
+  - *Sound Design:* Tiếng cười khúc khích vọng âm lạnh gáy rồi tắt lịm trong tiếng lá mít rơi.
+- **Clip 6 ([`canh-06/clip-6.md`](canh-06/clip-6.md) | `05:50–06:00` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** Late that night, @Binh walks alone through the rusted iron gate right past that very jackfruit tree, his eyes darting anxiously up at the pitch-black canopy rustling overhead.
+  - *Camera Plan:* `35mm stabilized gimbal following shot`
+  - *Lời dẫn / Thoại (17 từ):* "Đêm khuya bước qua đúng gốc mít ấy về nhà, sống lưng Bình lạnh như chà đá."
+  - *Sound Design:* Tiếng bước chân @Binh vội vã qua cổng sắt và tiếng cành mít kẽo kẹt ngay trên đầu.
 
 ---
 
-#### **Cảnh 08 (`07:00–08:00` | 6 Clips × 10s): Đêm Thứ Tư Kinh Hoàng — Bàn Tay Xám Ngoét Thò Qua Lớp Màn**
-- **Clip 1 (`07:00–07:10` — VO | On-screen: `@Binh`):** Đêm thứ tư lúc 02:45 sáng: ánh trăng xanh lạnh ngoài tán mít cổ thụ hắt bóng cành cây kỳ dị qua khung cửa sổ gỗ vào chiếc giường xếp giăng màn trắng nơi `@Binh` đang nằm ngủ.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đêm thứ tư… cũng là cái đêm kinh hoàng nhất trong cuộc đời của Bình. Ánh trăng thượng tuần lạnh lẽo chiếu xuyên qua tán mít cổ thụ, hắt những mảng bóng đen kỳ dị như hình hài quỷ dữ lên vách nhà."
-- **Clip 2 (`07:10–07:20` — VO | On-screen: `@Binh`):** Máy quay đẩy chậm xuyên qua bóng tối tới sát tấm màn tuyn trắng dưới ánh đèn vàng tù mù: `@Binh` đang nằm ngủ bỗng mở choàng đôi mắt thâm quầng vì cảm giác lạnh buốt sống lưng.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đúng hai giờ bốn mươi lăm sáng… giữa lúc vạn vật chìm vào giờ âm thịnh nhất, Bình bỗng nhiên mở choàng mắt tỉnh giấc bởi cảm giác gai người… như thể đang có một đôi mắt vô hồn nhìn chằm chằm vào mặt cậu từ cự ly cực gần."
-- **Clip 3 (`07:20–07:30` — Lip-Sync `@Binh` | On-screen: `@Binh, @VongLa`):** Từ góc nhìn của `@Binh` nhìn xuyên qua lớp vải màn tuyn trắng mỏng tang: cái bóng đen cao gầy méo mó của `@VongLa` đang đứng sừng sững ngay sát mép giường xếp, cúi gằm mặt nhìn thẳng xuống cậu.
-  - *Thoại (@Binh):* "A… ai… Ai đang đứng ngoài màn đấy?!"
-- **Clip 4 (`07:30–07:40` — VO | On-screen: `@Binh, @VongLa`):** Bóng `@VongLa` đứng bất động ngoài màn không đáp lời; đột nhiên, bàn tay xám ngoét da nhăn nheo lạnh ngắt với năm móng tay dài đen kịt của `@VongLa` đâm xuyên thẳng qua lớp vải màn tuyn vươn về phía `@Binh`!
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đáp lại tiếng hỏi run rẩy của cậu chỉ là sự im lặng chết chóc… Và rồi, xuyên qua lớp vải màn mỏng tang, một bàn tay xám ngoét như tay xác chết với năm móng dài đen đặc từ từ thò thẳng vào bên trong màn!"
-- **Clip 5 (`07:40–07:50` — Lip-Sync `@VongLa` | On-screen: `@Binh, @VongLa`):** Bàn tay xác chết xám ngoét của `@VongLa` chụp xuống bóp chặt cứng lấy cổ tay trái của `@Binh`. `@Binh` trợn mắt ú ớ không thành tiếng khi gương mặt trắng bệch của `@VongLa` áp sát lớp màn thì thào.
-  - *Thoại (@VongLa):* "Đi đi… Cút khỏi căn nhà này ngay… Đây không phải chỗ của người sống chúng mày…"
-- **Clip 6 (`07:50–08:00` — VO | On-screen: `@Binh`):** Bàn tay xám ngoét từ từ rút khỏi lớp màn tan vào bóng tối; `@Binh` choàng tỉnh ngồi bật dậy đẫm mồ hôi lạnh, run rẩy giơ cổ tay trái lên — vết bầm tím đen năm ngón tay hằn sâu như máu tụ và không hề biến mất nữa!
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Bình ngất lịm đi trong nỗi kinh hoàng tột độ… Để rồi khi choàng tỉnh dậy, cậu run rẩy giơ cổ tay lên nhìn: vết bầm năm ngón tay nay đã chuyển sang màu tím đen như máu chết… và lần này, nó hằn sâu vào da thịt không hề biến mất nữa!"
+### Cảnh 07 (`06:00–07:00` | 6 Clips × 10s): Đêm Thứ Ba — Chiếc Xoong Nhôm Rơi Chói Tai & Bóng Trắng Ngoài Cửa Sổ
+- **Không gian & Đạo cụ:** Dark adjoining kitchen and the folding cot inside the abandoned three-bay house, bordered by a wooden barred window facing the jackfruit yard. | *Props:* Dented aluminum saucepan (xoong nhôm) fallen on the brick floor, smartphone flashlight, flickering 15W filament bulb, wooden window bars, five black-nailed fingers gripping the sill.
+
+- **Clip 1 ([`canh-07/clip-1.md`](canh-07/clip-1.md) | `06:00–06:10` | `VO` | `CONTROLLED_URGENCY` | On-screen: `@Binh`):** On the third night inside the dark house, @Binh is half-asleep on his folding cot when an ear-splitting metallic crash echoes from the adjoining kitchen, jolting him wide awake.
+  - *Camera Plan:* `35mm stabilized medium close-up push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đêm thứ ba khi Bình vừa chợp mắt, dưới bếp tối bỗng vang tiếng xoong rơi chói tai!"
+  - *Sound Design:* Tiếng xoong nhôm rơi 'CHOANG!!' vang dội trên nền gạch giữa đêm khuya tĩnh mịch.
+- **Clip 2 ([`canh-07/clip-2.md`](canh-07/clip-2.md) | `06:10–06:20` | `LIPSYNC:@Binh` | `RISING_DREAD` | On-screen: `@Binh`):** @Binh steps cautiously into the dark kitchen shining his smartphone flashlight onto the brick floor: an aluminum saucepan that hung on a high wall nail now lies spinning on the tiles as he crouches.
+  - *Camera Plan:* `35mm stabilized tracking tilt-down shot`
+  - *Lời dẫn / Thoại (17 từ):* "Chắc là chuột thôi… chỉ là con chuột chạy qua làm rơi cái xoong nhôm xuống đất."
+  - *Sound Design:* Tiếng xoong nhôm lăn vòng tròn trên gạch và giọng tự trấn an run rẩy của @Binh.
+- **Clip 3 ([`canh-07/clip-3.md`](canh-07/clip-3.md) | `06:20–06:30` | `VO` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @VongLa`):** As @Binh stands up to hang the aluminum saucepan back on the wall nail, the overhead filament bulb sparks and goes pitch black; right behind @Binh's neck looms the pale figure of @VongLa.
+  - *Camera Plan:* `35mm stabilized medium shot slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Tay cậu vừa chạm chiếc đinh trên tường, bóng đèn bỗng nổ lách tách rồi tắt tối đen!"
+  - *Sound Design:* Tiếng dây tóc bóng đèn nổ 'XẸT!' rồi chìm vào im lặng chết chóc.
+- **Clip 4 ([`canh-07/clip-4.md`](canh-07/clip-4.md) | `06:30–06:40` | `VO` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @VongLa`):** In the freezing blue-black darkness, a plume of icy white breath from @VongLa exhales directly against the back of @Binh's neck making his hair stand on end, before the overhead bulb flickers back on.
+  - *Camera Plan:* `50mm stabilized tight over-the-shoulder close-up`
+  - *Lời dẫn / Thoại (18 từ):* "Giữa bóng tối đặc quánh, hơi thở lạnh như băng phả thẳng vào gáy khiến Bình cứng đờ!"
+  - *Sound Design:* Tiếng thở khàn đục lạnh buốt phả sát gáy và tiếng bóng đèn nhấp nháy bật sáng lại.
+- **Clip 5 ([`canh-07/clip-5.md`](canh-07/clip-5.md) | `06:40–06:50` | `VO` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @VongLa`):** With the light back on, @Binh sets the pan hastily on the wooden shelf, but as he glances toward the barred wooden window beside him, @VongLa's legless white figure glides right past the bars.
+  - *Camera Plan:* `35mm stabilized quick panning push-in`
+  - *Lời dẫn / Thoại (17 từ):* "Đèn vừa sáng lại, Bình liếc qua cửa sổ thì thấy bóng trắng lướt qua chấn song!"
+  - *Sound Design:* Tiếng xoong đặt vội lên kệ gỗ và tiếng gió lạnh lướt 'vù' qua song cửa sổ.
+- **Clip 6 ([`canh-07/clip-6.md`](canh-07/clip-6.md) | `06:50–07:00` | `VO` | `RISING_DREAD` | On-screen: `@Binh, @VongLa`):** @Binh scrambles back onto his folding cot and pulls the blanket completely over his head, while the camera pulls back toward the barred wooden window where @VongLa's five black-nailed fingers grip the sill.
+  - *Camera Plan:* `35mm stabilized slow dolly pull-back toward window`
+  - *Lời dẫn / Thoại (17 từ):* "Bình phóng lên giường trùm chăn, không biết ngoài cửa năm móng tay đen đang bấu chặt!"
+  - *Sound Design:* Tiếng chăn trùm vội và tiếng móng tay cào khẽ lên bệ cửa sổ gỗ kèm tiếng cười khúc khích.
 
 ---
 
-#### **Cảnh 09 (`08:00–09:00` | 6 Clips × 10s): Vết Bầm Không Tan & Nỗi Tuyệt Vọng Không Chốn Dung Thân**
-- **Clip 1 (`08:00–08:10` — Lip-Sync `@Binh` | On-screen: `@Binh, @OngBay`):** Tờ mờ sáng hôm sau, `@Binh` hớt hải chạy ra sân gạch với gương mặt cắt không còn giọt máu, xắn tay áo hoodie giơ vết bầm tím đen năm ngón tay ra trước mặt `@OngBay`.
-  - *Thoại (@Binh):* "Bác Bảy ơi cứu cháu với! Đêm qua có bàn tay người chết thò qua màn bóp chặt tay cháu… Bác nhìn vết bầm năm ngón tay này đi!!"
-- **Clip 2 (`08:10–08:20` — Lip-Sync `@OngBay` | On-screen: `@Binh, @OngBay`):** `@OngBay` nhíu chặt hàng lông mày bạc, cầm lấy cổ tay `@Binh` săm soi vết bầm tím đen rõ mồn một dưới ánh sáng ban mai, giọng ông trầm hẳn xuống đầy nghiêm trọng.
-  - *Thoại (@OngBay):* "Lạy hồn… Vết bầm năm ngón tay rõ mồn một thế này thì không phải chuyện đùa rồi! Đi, để bác vào kiểm tra quanh nhà xem thế nào!"
-- **Clip 3 (`08:20–08:30` — VO | On-screen: `@Binh, @OngBay`):** `@OngBay` cầm gậy gỗ đi dọc hiên ngôi nhà ngói ba gian cùng `@Binh`, kiểm tra từng chấn song cửa sổ và chốt cửa gỗ bên trong — tất cả đều còn cài chặt và phủ nguyên lớp bụi dày.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Ông Bảy cẩn thận đi vòng quanh ngôi nhà hoang, kiểm tra từng khung cửa sổ đến cái chốt cổng sắt… Thế nhưng tuyệt nhiên không có lấy một vết cạy cửa hay dấu chân người lạ nào lọt vào từ đêm qua."
-- **Clip 4 (`08:30–08:40` — VO | On-screen: `@Binh, @OngBay`):** `@OngBay` dừng bước giữa sân gạch, ngước nhìn tán mít cổ thụ âm u rồi quay sang vỗ vai cố trấn an `@Binh` với ánh mắt đầy vẻ ái ngại và thương cảm.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Không muốn làm thằng nhỏ thêm hoảng loạn, ông Bảy đành gượng gạo bảo chắc cậu nằm mơ ngủ mê nên tự bấu vào tay mình… nhưng nhìn ánh mắt trốn tránh của ông, Bình hiểu bác hàng xóm biết rõ thứ gì đang ở trong nhà."
-- **Clip 5 (`08:40–08:50` — Lip-Sync `@Binh` | On-screen: `@Binh`):** Khi `@OngBay` đã về, `@Binh` ngồi một mình trên bậc thềm gạch rêu phong rút điện thoại áp vào tai gọi cho mẹ, giọng cậu lạc đi vì sợ hãi và bế tắc.
-  - *Thoại (@Binh):* "Mẹ ơi… Căn nhà của ông nội thật sự có cái gì đó đáng sợ lắm mẹ ạ… Nhưng giờ con biết đi đâu được nữa hả mẹ…"
-- **Clip 6 (`08:50–09:00` — VO | On-screen: `@Binh`):** `@Binh` hạ điện thoại xuống, ngồi bó gối trên bậc thềm đá lạnh lẽo quay đầu nhìn sâu vào khoảng tối u tịch bên trong gian nhà chính, đôi mắt vừa sợ hãi vừa lì lợm.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Tiến thoái lưỡng nan, quay về thành phố thì chủ nợ và cơn thịnh nộ của bố đang chờ, mà ở lại thì đêm đêm ma quỷ vây quanh… Giữa đường cùng tuyệt vọng, cái sợ trong lòng Bình bỗng biến thành một sự liều lĩnh lạ kỳ."
+### Cảnh 08 (`07:00–08:00` | 6 Clips × 10s): Đêm Thứ Tư Kinh Hoàng — Bàn Tay Xám Ngoét Thò Qua Lớp Màn
+- **Không gian & Đạo cụ:** Moonlit interior of the abandoned house where crooked jackfruit branch shadows fall across @Binh's folding cot and thin white mosquito net. | *Props:* Thin white mosquito net, folding cot, cold blue moonlight through wooden window bars, ash-grey corpse hand with five long black nails piercing the net, permanent dark bruise on @Binh's left wrist.
+
+- **Clip 1 ([`canh-08/clip-1.md`](canh-08/clip-1.md) | `07:00–07:10` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** Night Four at 02:45 AM: cold blue crescent moonlight pierces the ancient jackfruit tree outside, casting twisted claw-like branch shadows through the barred window onto @Binh's mosquito-netted cot.
+  - *Camera Plan:* `28mm stabilized gimbal slow creeping push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đêm thứ tư kinh hoàng… ánh trăng lạnh xuyên tán mít hắt bóng cành cây như quỷ dữ."
+  - *Sound Design:* Tiếng gió đêm rít qua tán mít cổ thụ và tiếng cành cây cọ vào mái ngói âm u.
+- **Clip 2 ([`canh-08/clip-2.md`](canh-08/clip-2.md) | `07:10–07:20` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** Pushing close to the thin white mosquito net in the dim light, @Binh suddenly snaps his dark-circled eyes open, paralyzed by the sensation of unseen eyes staring down at him from inches away.
+  - *Camera Plan:* `50mm stabilized close-up slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đúng hai giờ bốn lăm sáng, Bình mở choàng mắt vì cảm giác có kẻ nhìn sát mặt."
+  - *Sound Design:* Tiếng nhịp tim đập thình thịch dồn dập trong lồng ngực và tiếng hơi thở nghẹn lại.
+- **Clip 3 ([`canh-08/clip-3.md`](canh-08/clip-3.md) | `07:20–07:30` | `LIPSYNC:@Binh` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @VongLa`):** Seen from @Binh's low perspective through the translucent white mosquito net mesh, the tall, contorted dark silhouette of @VongLa looms right against the cot edge, bowing its head to stare at him.
+  - *Camera Plan:* `35mm stabilized low-angle POV shot through net`
+  - *Lời dẫn / Thoại (17 từ):* "A… ai… Ai đang đứng lù lù ngay bên ngoài tấm màn trắng của tôi thế kia?!"
+  - *Sound Design:* Giọng lắp bắp lạc đi vì khiếp đảm của @Binh giữa căn phòng lạnh ngắt.
+- **Clip 4 ([`canh-08/clip-4.md`](canh-08/clip-4.md) | `07:30–07:40` | `VO` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @VongLa`):** @VongLa stands silent outside the mesh; suddenly, a shriveled, ash-grey corpse hand with five long pitch-black fingernails pierces straight through the mosquito net fabric reaching toward @Binh.
+  - *Camera Plan:* `50mm stabilized macro close-up push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Không một tiếng đáp… bàn tay xác chết xám ngoét với năm móng đen thò xuyên qua màn!"
+  - *Sound Design:* Tiếng vải màn tuyn rách 'xoạt' rất khẽ khi bàn tay xương xẩu đâm xuyên vào trong.
+- **Clip 5 ([`canh-08/clip-5.md`](canh-08/clip-5.md) | `07:40–07:50` | `LIPSYNC:@VongLa` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @VongLa`):** @VongLa's freezing corpse hand slams down and vises around @Binh's left wrist; @Binh chokes silently with bulging eyes as @VongLa's hollow-eyed pale face presses against the net to whisper.
+  - *Camera Plan:* `50mm stabilized tight close-up shot`
+  - *Lời dẫn / Thoại (17 từ):* "Đi đi… Cút khỏi căn nhà này ngay… Đây không phải chỗ của người sống chúng mày!"
+  - *Sound Design:* Giọng ma vọng lạnh buốt từ bốn phía hòa tiếng khớp xương cổ tay @Binh bị bóp nghẹt.
+- **Clip 6 ([`canh-08/clip-6.md`](canh-08/clip-6.md) | `07:50–08:00` | `VO` | `CONTROLLED_URGENCY` | On-screen: `@Binh`):** The grey hand withdraws into the dark and @Binh jolts upright gasping for breath; lifting his trembling left arm, the dark purple five-finger bruise is now burned deep into his flesh and does not fade.
+  - *Camera Plan:* `35mm stabilized medium close-up push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Bình choàng tỉnh đẫm mồ hôi… vết bầm năm ngón tay nay tím đen, không tan biến nữa!"
+  - *Sound Design:* Tiếng thở hắt kinh hoàng của @Binh khi nhìn vết bầm tím đen hằn sâu trên cổ tay.
 
 ---
 
-#### **Cảnh 10 (`09:00–10:00` | 6 Clips × 10s): Đêm Thứ Năm — Vong Hồn Ông Nội Hiện Hình Trong Góc Phòng**
-- **Clip 1 (`09:00–09:10` — VO | On-screen: `@Binh`):** Đêm thứ năm buông xuống gian nhà chính: `@Binh` không giăng màn đi ngủ mà ngồi tựa lưng vào bức tường vôi lạnh toát, hai tay ôm gối, đôi mắt thâm quầng mở trừng trừng nhìn thẳng vào bóng tối.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đêm thứ năm… Bình quyết định không ngủ. Cậu ngồi tựa lưng vào bức tường vôi lạnh ngắt, mắt mở trừng trừng nhìn vào bóng tối, tự nhủ nếu thực sự có vong hồn nào trong ngôi nhà này, đêm nay cậu muốn nhìn thẳng vào mặt họ."
-- **Clip 2 (`09:10–09:20` — VO | On-screen: `@Binh, @VongCuXa`):** Đồng hồ điểm 1 giờ sáng: nhiệt độ trong phòng đột ngột tụt xuống lạnh cóng, hơi thở của `@Binh` phả ra thành từng làn khói trắng xóa khi từ góc tối gian thờ cũ, bóng mờ bán trong suốt của `@VongCuXa` từ từ hiện lên.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đúng một giờ sáng… nhiệt độ trong gian nhà bỗng tụt xuống lạnh buốt như hầm băng, từng nhịp thở của Bình phả ra thành khói trắng. Và rồi từ góc tối nơi xưa kia đặt bàn thờ… một bóng người già nua, mờ ảo từ từ hiện ra kèm tiếng ho khàn đục."
-- **Clip 3 (`09:20–09:30` — Lip-Sync `@VongCuXa` | On-screen: `@Binh, @VongCuXa`):** Bóng người già trong bộ áo bà ba nâu sồng bạc màu (`@VongCuXa`) chậm rãi quay mặt lại dưới ánh trăng lạnh chiếu qua cửa sổ. `@Binh` sững sờ nhận ra gương mặt hiền từ nhưng hốc hác của ông nội mình!
-  - *Thoại (@VongCuXa):* "Bình đấy ư… Cháu nội của ông… Lại đây với ông nào con…"
-- **Clip 4 (`09:30–09:40` — Lip-Sync `@VongCuXa` | On-screen: `@Binh, @VongCuXa`):** `@VongCuXa` ngước nhìn khoảng tường vôi trống trải lạnh lẽo bằng đôi mắt sâu hoắm đượm buồn, giọng ông khàn đục vang vọng giữa gian nhà trống.
-  - *Thoại (@VongCuXa):* "Ngày ông mất, bố mày làm đám tang xong liền rước bát hương lên thành phố… nhưng không làm lễ rước vong, hồn ông không qua được cổng thành Hoàng nên phải chịu cảnh lạnh lẽo bơ vơ ở đây suốt bao năm trời…"
-- **Clip 5 (`09:40–09:50` — Lip-Sync `@Binh` | On-screen: `@Binh, @VongCuXa`):** `@Binh` bò lết trên nền gạch tới quỳ sụp xuống trước bóng `@VongCuXa`, hai hàng nước mắt tuôn rơi nức nở trong niềm xót thương và hối hận.
-  - *Thoại (@Binh):* "Ông nội ơi… Cháu có lỗi với ông! Cháu và bố cháu ở trên thành phố thật sự không ai biết ông phải chịu cảnh lạnh lẽo không hương khói thế này ông ơi!"
-- **Clip 6 (`09:50–10:00` — VO | On-screen: `@Binh, @VongCuXa`):** `@VongCuXa` nhìn đứa cháu nội đang quỳ dưới nền gạch bằng ánh mắt thương xót rồi bóng hình ông nhạt dần vào làn sương đêm xanh lạnh, để lại `@Binh` quỳ lặng đi giữa gian nhà.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Vong hồn cụ Xá thở dài bảo rằng, chính ông đã sai vong hồn vụ tai nạn ngoài gốc mít vào hù dọa vì tưởng cháu về bán đất tổ tiên… Trước khi tan vào bóng tối, ông chỉ để lại một lời trăn trối: hãy gọi bố mày về đây chuộc lỗi với người âm!"
+### Cảnh 09 (`08:00–09:00` | 6 Clips × 10s): Vết Bầm Không Tan & Nỗi Tuyệt Vọng Không Chốn Dung Thân
+- **Không gian & Đạo cụ:** Mossy Bát Tràng brick courtyard and stone porch steps beneath the overcast canopy of the ancient jackfruit tree. | *Props:* Unfading dark purple five-finger bruise on @Binh's left wrist, wooden walking stick, bolted dusty window shutters, smartphone.
+
+- **Clip 1 ([`canh-09/clip-1.md`](canh-09/clip-1.md) | `08:00–08:10` | `LIPSYNC:@Binh` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @OngBay`):** At dawn the next morning, @Binh rushes out into the brick courtyard pale as a sheet, rolls up his grey hoodie sleeve, and thrusts the dark five-finger bruise right in front of @OngBay.
+  - *Camera Plan:* `35mm stabilized tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Bác Bảy ơi cứu cháu! Đêm qua có bàn tay người chết thò qua màn bóp tay cháu!"
+  - *Sound Design:* Tiếng bước chân chạy hớt hải trên sân gạch và giọng kêu cứu hoảng loạn của @Binh.
+- **Clip 2 ([`canh-09/clip-2.md`](canh-09/clip-2.md) | `08:10–08:20` | `LIPSYNC:@OngBay` | `RISING_DREAD` | On-screen: `@Binh, @OngBay`):** @OngBay knits his silver brows tightly, holding @Binh's forearm to inspect the unmistakable dark five-finger handprint under the morning light, his rustic voice dropping low and grave.
+  - *Camera Plan:* `50mm stabilized two-shot push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Lạy hồn… Vết bầm năm ngón rõ thế này không đùa được! Để bác vào kiểm tra xem!"
+  - *Sound Design:* Tiếng thở dài kinh ngạc của @OngBay và tiếng gió sớm xào xạc trên tán mít.
+- **Clip 3 ([`canh-09/clip-3.md`](canh-09/clip-3.md) | `08:20–08:30` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngBay`):** @OngBay walks along the veranda and interior of the three-bay house with @Binh, checking every wooden window bar and door bolt — all remain tightly latched and covered in undisturbed thick dust.
+  - *Camera Plan:* `28mm stabilized gimbal following shot`
+  - *Lời dẫn / Thoại (17 từ):* "Ông Bảy kiểm tra khắp chốt cửa và chấn song, tuyệt nhiên không có dấu cạy cửa."
+  - *Sound Design:* Tiếng gậy gỗ gõ nhẹ kiểm tra từng chấn song cửa sổ và chốt cửa gỗ lim.
+- **Clip 4 ([`canh-09/clip-4.md`](canh-09/clip-4.md) | `08:30–08:40` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngBay`):** @OngBay stops in the brick courtyard, glances warily up at the dark jackfruit tree canopy, then pats @Binh's shoulder with an evasive, sympathetic look to keep the boy from panicking further.
+  - *Camera Plan:* `35mm stabilized medium two-shot`
+  - *Lời dẫn / Thoại (17 từ):* "Sợ cậu hoảng loạn, ông Bảy gượng bảo do nằm mê… nhưng ánh mắt không giấu nổi."
+  - *Sound Design:* Tiếng lá mít rụng xuống sân gạch và tiếng thở dài ái ngại của người hàng xóm già.
+- **Clip 5 ([`canh-09/clip-5.md`](canh-09/clip-5.md) | `08:40–08:50` | `LIPSYNC:@Binh` | `RISING_DREAD` | On-screen: `@Binh`):** Once @OngBay leaves, @Binh sits alone on the mossy stone porch step pressing his phone to his ear to call his mother, his voice cracking with fear and utter helplessness.
+  - *Camera Plan:* `50mm stabilized medium close-up push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Mẹ ơi… Căn nhà ông nội thật sự đáng sợ lắm… nhưng giờ con biết đi đâu mẹ…"
+  - *Sound Design:* Giọng nghẹn ngào bất lực của @Binh trên bậc thềm đá vắng lặng.
+- **Clip 6 ([`canh-09/clip-6.md`](canh-09/clip-6.md) | `08:50–09:00` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** @Binh lowers his phone, hugs his knees on the cold stone step, and turns his head to stare deep into the shadowed interior of the main hall, his fear hardening into desperate resolve.
+  - *Camera Plan:* `35mm stabilized slow dolly push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Về phố thì chủ nợ chờ, ở lại thì ma vây… đường cùng biến sợ thành liều lĩnh."
+  - *Sound Design:* Tiếng gió lạnh từ trong gian nhà tối thổi ra hiên và ánh mắt kiên định dần của @Binh.
 
 ---
 
-#### **Cảnh 11 (`10:00–11:00` | 6 Clips × 10s): Cuộc Gọi Cho Bố & Cái Tát Nảy Lửa Giữa Sân Quê**
-- **Clip 1 (`10:00–10:10` — VO | On-screen: `@Binh`):** Rạng sáng hôm sau, `@Binh` bước từ gian thờ ra ngồi trên bậc thềm hiên nhà dưới ánh bình minh nhợt nhạt, đôi mắt sâu trũng nhưng đầy kiên định bấm gọi điện thoại cho bố.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Trắng đêm suy nghĩ sau cuộc gặp gỡ âm dương đẫm nước mắt với vong hồn ông nội… ngay khi trời vừa rạng sáng, Bình hít một hơi thật sâu, bấm gọi vào số điện thoại mà suốt mấy tuần qua cậu kinh sợ nhất: số của bố mình."
-- **Clip 2 (`10:10–10:20` — Lip-Sync `@OngQuan` | On-screen: `@OngQuan`):** Ở đầu dây bên kia, `@OngQuan` đứng bên cửa sổ ánh sáng gắt, gương mặt đỏ gay đanh thép gầm lên dữ dội vào chiếc điện thoại đang áp chặt bên tai.
-  - *Thoại (@OngQuan):* "Cái thằng nghịch tử kia! Mày phá gia chi tử nợ nần bốn trăm triệu rồi giờ còn dám lôi cả vong hồn ông nội đã khuất ra để lừa bố mày hả?!"
-- **Clip 3 (`10:20–10:30` — Lip-Sync `@Binh` | On-screen: `@Binh`):** Ngoài hiên nhà quê, `@Binh` nắm chặt điện thoại, nước mắt chảy dài trên gò má tái nhợt nhưng giọng nói đanh lại, quỳ thẳng trên thềm gạch không hề né tránh.
-  - *Thoại (@Binh):* "Bố ơi… Con gọi cuộc điện thoại này là con đã chấp nhận chịu đòn của bố rồi. Bố đánh gãy chân con cũng được, nhưng con van bố… hãy về quê xin lỗi ông nội đi bố ơi!"
-- **Clip 4 (`10:30–10:40` — VO | On-screen: `@Binh`):** Tiếng máy cúp cái rập từ đầu dây bên kia; `@Binh` từ từ hạ điện thoại xuống lòng bàn tay, lặng lẽ ngồi trên bậc thềm đá nhìn ra cánh cổng sắt dưới gốc mít chờ đợi.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Tiếng quát tháo giận dữ của ông Quân tắt phụt trong điện thoại. Bình ngồi bất động nơi hiên nhà rêu phong, lòng đã sẵn sàng hứng chịu trận lôi đình, miễn sao cha mình chịu đặt chân về lại mái nhà xưa."
-- **Clip 5 (`10:40–10:50` — VO | On-screen: `@Binh, @OngQuan, @BaPhuong`):** Nắng chiều nghiêng qua gốc mít cổ thụ: cánh cổng sắt mở toang, `@OngQuan` mặt đanh lại như thép nguội sải bước nhanh vào sân gạch nơi `@Binh` đang đứng chờ, theo sát phía sau là `@BaPhuong` hớt hải.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Quả nhiên ngay chiều hôm ấy, ông Quân cùng bà Phượng đã có mặt trước cổng ngôi nhà cổ. Gương mặt người cha đanh lại, đôi mắt long lên sòng sọc khi nhìn thấy đứa con trai độc nhất đang đứng chờ giữa sân."
-- **Clip 6 (`10:50–11:00` — Lip-Sync `@Binh` | On-screen: `@Binh, @OngQuan, @BaPhuong`):** `@OngQuan` vung tay tát mạnh làm `@Binh` ngã quỵ xuống sân gạch. `@BaPhuong` nhào tới ôm chặt lấy cánh tay chồng khóc nức nở, còn `@Binh` lập tức quỳ thẳng dậy cúi đầu sát đất.
-  - *Thoại (@Binh):* "Con xin lỗi bố mẹ… Chuyện nợ nần con xin chịu hết mọi hình phạt, nhưng tối nay bố hãy ngủ lại căn nhà này một đêm thôi bố ơi!"
+### Cảnh 10 (`09:00–10:00` | 6 Clips × 10s): Đêm Thứ Năm — Vong Hồn Ông Nội Hiện Hình Trong Góc Phòng
+- **Không gian & Đạo cụ:** Freezing moonlit main room of the ancestral house where the old family altar once stood against the bare peeling lime wall. | *Props:* Bare peeling lime wall where the altar used to be, visible white breath vapor in freezing air, cold moonlight beam through the window.
+
+- **Clip 1 ([`canh-10/clip-1.md`](canh-10/clip-1.md) | `09:00–09:10` | `VO` | `RISING_DREAD` | On-screen: `@Binh`):** As the fifth night falls over the main hall, @Binh leaves the mosquito net untied and sits with his back braced against the cold lime wall, hugging his knees and staring wide-eyed into the dark.
+  - *Camera Plan:* `35mm stabilized gimbal slow push-in`
+  - *Lời dẫn / Thoại (17 từ):* "Đêm thứ năm Bình quyết không ngủ, ngồi tựa tường nhìn bóng tối chờ gặp người âm."
+  - *Sound Design:* Tiếng đồng hồ tích tắc rất khẽ và tiếng gió đêm rít qua khe cửa gỗ.
+- **Clip 2 ([`canh-10/clip-2.md`](canh-10/clip-2.md) | `09:10–09:20` | `VO` | `RISING_DREAD` | On-screen: `@Binh, @VongCuXa`):** At 1:00 AM, the room temperature plunges below freezing; @Binh's breath plumes into white mist as from the dark corner where the ancestral altar once stood, the translucent figure of @VongCuXa materializes.
+  - *Camera Plan:* `35mm stabilized slow creeping push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đúng một giờ sáng, hơi thở Bình phả khói trắng… từ góc thờ cũ, bóng già hiện lên."
+  - *Sound Design:* Tiếng không khí đóng băng lạnh buốt và tiếng ho khàn đục của một cụ già vọng ra từ góc tối.
+- **Clip 3 ([`canh-10/clip-3.md`](canh-10/clip-3.md) | `09:20–09:30` | `LIPSYNC:@VongCuXa` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @VongCuXa`):** Dressed in a faded brown áo bà ba tunic, @VongCuXa turns slowly under the cold moonlight slanting through the window; @Binh gasps in shock as he recognizes the gentle, gaunt face of his late grandfather.
+  - *Camera Plan:* `50mm stabilized medium close-up push-in`
+  - *Lời dẫn / Thoại (16 từ):* "Bình đấy ư… Cháu nội của ông… Đừng sợ, lại đây ngồi với ông nào con…"
+  - *Sound Design:* Giọng cụ già 80 tuổi trầm khàn, ấm mà vọng âm xa xăm giữa gian nhà lạnh.
+- **Clip 4 ([`canh-10/clip-4.md`](canh-10/clip-4.md) | `09:30–09:40` | `LIPSYNC:@VongCuXa` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @VongCuXa`):** @VongCuXa gazes sadly at the bare, incense-less plaster wall with hollow eyes, his hoarse Northern voice echoing softly through the empty ancestral room.
+  - *Camera Plan:* `50mm stabilized close-up shot`
+  - *Lời dẫn / Thoại (18 từ):* "Ngày ông mất, bố mày rước bát hương đi nhưng quên rước vong… để hồn ông bơ vơ."
+  - *Sound Design:* Tiếng thở dài nặng nỗi tủi phận của vong hồn người ông giữa bốn bức tường trống trải.
+- **Clip 5 ([`canh-10/clip-5.md`](canh-10/clip-5.md) | `09:40–09:50` | `LIPSYNC:@Binh` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @VongCuXa`):** @Binh crawls across the cold brick tiles and falls to his knees before @VongCuXa's translucent form, tears streaming down his face in overwhelming grief and remorse.
+  - *Camera Plan:* `35mm stabilized medium shot slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Ông nội ơi… Cháu và bố trên phố thật sự không biết ông phải lạnh lẽo thế này!"
+  - *Sound Design:* Tiếng đầu gối @Binh chạm nền gạch và tiếng khóc nghẹn ngào hối lỗi của người cháu nội.
+- **Clip 6 ([`canh-10/clip-6.md`](canh-10/clip-6.md) | `09:50–10:00` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @VongCuXa`):** @VongCuXa explains he had sent the spirit under the jackfruit tree only because he feared @Binh came to sell the ancestral land, then fades into the blue moonlight leaving @Binh kneeling in vow.
+  - *Camera Plan:* `35mm stabilized slow dolly pull-back`
+  - *Lời dẫn / Thoại (18 từ):* "Cụ Xá bảo chính cụ sai vong gốc mít dọa, rồi dặn Bình gọi bố về chuộc lỗi."
+  - *Sound Design:* Tiếng gió đêm dịu lại và âm vang thanh nhẹ khi bóng ông nội tan dần vào ánh trăng.
 
 ---
 
-#### **Cảnh 12 (`11:00–12:00` | 6 Clips × 10s): Giấc Mơ Đẫm Nước Mắt Của Ông Quân & Nén Hương Tạ Tội Trước Mộ Cha**
-- **Clip 1 (`11:00–11:10` — VO | On-screen: `@OngQuan, @BaPhuong, @Binh`):** Đêm buông xuống ngôi nhà cổ: `@OngQuan` nằm trên chiếc giường gỗ đặt giữa gian phòng khách tối om với gương mặt còn hầm hầm giận dữ, trong khi `@BaPhuong` và `@Binh` ngồi thức trắng ở góc bàn bên cạnh.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đêm hôm ấy, ông Quân nhất quyết nằm ngay tại gian phòng khách cũ với lời tuyên bố đanh thép rằng sáng mai sẽ áp giải thằng con bất hiếu về thành phố… Thế nhưng, chính vào cái đêm định mệnh ấy…"
-- **Clip 2 (`11:10–11:20` — VO | On-screen: `@OngQuan, @VongCuXa`):** Máy quay đẩy chậm vào gương mặt đang ngủ của `@OngQuan` dưới ánh trăng lạnh: đôi lông mày ông nhíu chặt đau đớn, hai hàng nước mắt nóng hổi trào ra khỏi khóe mắt khi bóng mờ `@VongCuXa` đứng lặng lẽ bên đầu giường.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Giữa đêm khuya thanh vắng… không một ai biết ông Quân đã gặp hay mơ thấy điều gì trong gian nhà lạnh lẽo ấy. Người ta chỉ thấy trong bóng tối mờ sương, người đàn ông sắt đá suốt mấy chục năm chưa từng rơi lệ… bỗng khóc nấc lên từng hồi trong giấc ngủ."
-- **Clip 3 (`11:20–11:30` — VO | On-screen: `@OngQuan`):** Tờ mờ sáng trong màn sương trắng xóa ngoài nghĩa trang đồng làng, `@OngQuan` với đôi mắt đỏ hoe một mình quỳ sụp trước ngôi mộ đá rêu phong của cụ Xá, thành tâm cắm nén hương trầm nghi ngút khói.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Khi trời vừa tờ mờ sáng, chẳng còn thấy ông Quân quát tháo một lời nào nữa… Ông lặng lẽ mua hương hoa ra nghĩa trang đồng làng, một mình quỳ gục trước nấm mộ cỏ mọc xanh rì của cha suốt hàng giờ liền."
-- **Clip 4 (`11:30–11:40` — VO | On-screen: `@OngQuan, @Binh`):** Trở về gian phòng khách căn nhà cổ, `@OngQuan` xắn tay áo cùng `@Binh` cẩn thận khiêng một chiếc tủ thờ gỗ gụ chạm trổ trang nghiêm đặt vào đúng vị trí trung tâm gian giữa.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Trở về từ nghĩa trang, ông Quân lập tức thuê thợ mộc đóng một chiếc tủ thờ gỗ gụ mới tinh, tự tay kê vào đúng chính giữa gian nhà — nơi ngày xưa cụ Xá vẫn thường ngồi uống trà mỗi buổi sớm mai."
-- **Clip 5 (`11:40–11:50` — Lip-Sync `@OngQuan` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** `@OngQuan` hai tay nâng di ảnh cụ Xá và bát hương đồng vừa rước về đặt lên tủ thờ gỗ gụ mới, thắp ba nén nhang trầm rồi quỳ xuống trước mặt `@BaPhuong` và `@Binh`, nghẹn ngào khấn nguyện.
-  - *Thoại (@OngQuan):* "Bố ơi… Con bất hiếu quá, bao năm qua để hồn bố phải bơ vơ lạnh lẽo nơi quê nhà… Hôm nay con rước bố về lại gian thờ tổ, xin bố tha tội cho con!"
-- **Clip 6 (`11:50–12:00` — VO | On-screen: `@OngQuan, @Binh`):** Bước ra dưới gốc mít cổ thụ ngoài cổng, `@OngQuan` cùng `@Binh` dựng một ngôi miếu gạch nhỏ trang nghiêm, khói nhang trầm tỏa nghi ngút hòa giải âm khí dưới tán cây.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Chưa dừng lại ở đó, ngay dưới gốc mít cổ thụ trước cổng, ông Quân còn cho xây một ngôi miếu gạch nhỏ và mời thầy về lập đàn cầu siêu ròng rã suốt bốn mươi chín ngày đêm cho sáu vong hồn tử nạn năm xưa."
+### Cảnh 11 (`10:00–11:00` | 6 Clips × 10s): Cuộc Gọi Cho Bố & Cái Tát Nảy Lửa Giữa Sân Quê
+- **Không gian & Đạo cụ:** Mossy stone porch steps and brick courtyard of the ancestral rural house (with phone cutaway to @OngQuan in the city). | *Props:* Smartphone, rusted iron gate opening in afternoon sun, mossy brick courtyard tiles.
+
+- **Clip 1 ([`canh-11/clip-1.md`](canh-11/clip-1.md) | `10:00–10:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** At dawn after his tearful encounter with his grandfather's spirit, @Binh steps out onto the pale sunlit porch steps, takes a deep steadying breath, and dials his father's phone number.
+  - *Camera Plan:* `35mm stabilized gimbal push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Trắng đêm suy nghĩ sau khi gặp ông, vừa rạng sáng Bình đã lấy can đảm gọi bố."
+  - *Sound Design:* Tiếng chim sớm hót ngoài vườn và tiếng bấm số điện thoại dứt khoát của @Binh.
+- **Clip 2 ([`canh-11/clip-2.md`](canh-11/clip-2.md) | `10:10–10:20` | `LIPSYNC:@OngQuan` | `CONTROLLED_URGENCY` | On-screen: `@OngQuan`):** In a bright city room by a window, @OngQuan stands flushed with fury, clenching his fist as he roars into the smartphone pressed against his ear.
+  - *Camera Plan:* `50mm stabilized medium close-up shot`
+  - *Lời dẫn / Thoại (18 từ):* "Thằng nghịch tử! Mày nợ bốn trăm triệu rồi còn dám lôi vong ông nội ra lừa bố?!"
+  - *Sound Design:* Giọng quát đanh thép như sấm rền của người cha vang dội căn phòng.
+- **Clip 3 ([`canh-11/clip-3.md`](canh-11/clip-3.md) | `10:20–10:30` | `LIPSYNC:@Binh` | `CONTROLLED_URGENCY` | On-screen: `@Binh`):** Out on the rural porch steps, @Binh drops straight to his knees on the brick tiles with tears rolling down his cheeks, speaking into the phone with unwavering sincerity.
+  - *Camera Plan:* `50mm stabilized close-up push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Bố đánh gãy chân con cũng được… nhưng con van bố hãy về quê xin lỗi ông nội!"
+  - *Sound Design:* Tiếng đầu gối @Binh quỳ xuống thềm gạch và giọng van xin nghẹn đắng từ tận đáy lòng.
+- **Clip 4 ([`canh-11/clip-4.md`](canh-11/clip-4.md) | `10:30–10:40` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** The phone line disconnects abruptly; @Binh lowers the handset into his lap and remains seated quietly on the mossy stone porch steps, keeping his eyes fixed on the rusted iron gate under the jackfruit tree.
+  - *Camera Plan:* `35mm stabilized slow pull-back`
+  - *Lời dẫn / Thoại (18 từ):* "Tiếng máy cúp cái rập… Bình vẫn ngồi yên nơi hiên, sẵn sàng chịu đòn chờ cha về."
+  - *Sound Design:* Tiếng gió chiều thổi lá mít xào xạc qua khoảng sân gạch tĩnh lặng.
+- **Clip 5 ([`canh-11/clip-5.md`](canh-11/clip-5.md) | `10:40–10:50` | `VO` | `RISING_DREAD` | On-screen: `@Binh, @OngQuan, @BaPhuong`):** As late afternoon sun slants through the jackfruit tree, the iron gate swings wide open: @OngQuan strides furiously across the brick courtyard toward @Binh, followed closely by an anxious @BaPhuong.
+  - *Camera Plan:* `28mm stabilized gimbal tracking shot`
+  - *Lời dẫn / Thoại (17 từ):* "Chiều ấy ông Quân cùng bà Phượng về tới cổng, mắt người cha long lên nhìn con."
+  - *Sound Design:* Tiếng cổng sắt mở toang 'XOẢNG!' và tiếng giày bước dồn dập trên sân gạch.
+- **Clip 6 ([`canh-11/clip-6.md`](canh-11/clip-6.md) | `10:50–11:00` | `LIPSYNC:@Binh` | `CONTROLLED_URGENCY` | On-screen: `@Binh, @OngQuan, @BaPhuong`):** @OngQuan swings his hand and slaps @Binh hard across the face, knocking him to the courtyard bricks; as @BaPhuong rushes to hold her husband's arm weeping, @Binh kneels straight up and bows to the ground.
+  - *Camera Plan:* `35mm stabilized medium three-shot`
+  - *Lời dẫn / Thoại (18 từ):* "Con xin chịu hết mọi hình phạt… nhưng tối nay bố hãy ngủ lại nhà một đêm thôi!"
+  - *Sound Design:* Tiếng cái tát 'CHÁT!' nảy lửa giữa sân quê, tiếng khóc của mẹ và lời khẩn cầu của @Binh.
 
 ---
 
-#### **Cảnh 13 (`12:00–13:00` | 6 Clips × 10s): Bốn Mươi Chín Ngày Ăn Chay Cầu Siêu & Ngôi Miếu Nhỏ Dưới Gốc Mít**
-- **Clip 1 (`12:00–12:10` — VO | On-screen: `@OngQuan, @BaPhuong, @Binh`):** Sáng sớm thanh tịnh: `@OngQuan` mặc áo sơ mi trắng giản dị thành tâm thắp nhang trước bàn thờ gỗ gụ, trong khi ngoài hiên `@BaPhuong` và `@Binh` cần mẫn quét dọn lá mít dưới nắng sớm.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Suốt bốn mươi chín ngày ròng rã, ông Quân xin nghỉ phép ở hẳn lại quê nhà, ăn chay trường và tự tay hương khói sớm hôm. Ngôi nhà hoang lạnh lẽo suốt hai thập kỷ bỗng ấm dần lên bởi hơi người và mùi trầm hương thanh tịnh."
-- **Clip 2 (`12:10–12:20` — VO | On-screen: `@OngQuan`):** Từ hiên nhà bước ra gốc mít cổ thụ trong nắng chiều vàng dịu, `@OngQuan` thành kính đặt đĩa hoa quả tươi và thắp nhang tại ngôi miếu gạch nhỏ, làn khói bay thẳng lên tán lá xanh mát.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Ngôi miếu nhỏ dưới gốc mít trở thành nơi nương tựa ấm cúng có đèn nhang mỗi tối… để những vong hồn lỡ bước trên khúc cua năm nào không còn phải vất vưởng, lạnh lẽo tìm hơi người trong ngôi nhà hoang nữa."
-- **Clip 3 (`12:20–12:30` — VO | On-screen: `@OngQuan, @Binh`):** Đêm thứ 49 bên trong gian thờ chính: `@OngQuan` và `@Binh` ngồi tĩnh lặng chắp tay trước bàn thờ cụ Xá rực ánh đèn dầu vàng ấm, khói hương cuộn tròn bay lên tạo cảm giác bình an kỳ lạ.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đêm thứ bốn mươi chín… cả căn nhà ngói ba gian tỏa ra một luồng sinh khí ấm áp lạ thường. Không còn những cơn gió âm hàn thổi lùa qua khe cửa, cũng chẳng còn bóng đen nào lảng vảng quanh chiếc giường ngủ."
-- **Clip 4 (`12:30–12:40` — VO | On-screen: `@OngQuan, @Binh`):** Góc máy từ ngoài gốc mít nhìn xuyên qua sân gạch vào ngôi nhà trong đêm: ánh đèn vàng ấm áp tỏa ra từ các ô cửa sổ gỗ nơi `@OngQuan` và `@Binh` đang ngồi trò chuyện, tiếng chuông chùa ngân vang.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Nhìn từ ngoài cổng vào, lần đầu tiên sau gần hai mươi năm, người dân trong làng thấy căn nhà cụ Xá sáng bừng ánh đèn ấm áp… như thể mọi oán khí và nỗi cô quạnh của cõi âm đều đã được hóa giải trọn vẹn."
-- **Clip 5 (`12:40–12:50` — Lip-Sync `@OngQuan` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** Sáng hôm sau bên hiên nhà ngập nắng ấm, `@OngQuan` đặt tay lên vai `@Binh` và quay sang nhìn `@BaPhuong` với ánh mắt trầm tĩnh, bao dung hơn trước rất nhiều.
-  - *Thoại (@OngQuan):* "Bà đưa thằng Bình về thành phố trước đi, gom góp tiền bạc trả dần nợ nần cho người ta… Tôi ở lại lo nốt lễ tuần chung thất cho ông cụ rồi sẽ lên sau."
-- **Clip 6 (`12:50–13:00` — VO | On-screen: `@OngQuan`):** `@OngQuan` đứng chắp tay cúi đầu trang nghiêm trước ngôi mộ đá đã được tu sửa khang trang của cụ Xá giữa cánh đồng lúa xanh rì trong gió sớm.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Biến cố tưởng chừng đẩy cả gia đình xuống vực thẳm ấy… rốt cuộc lại là sợi dây vô hình kéo người cha lầm lỗi trở về với cội nguồn, để từ đó cứ mỗi dịp rằm mồng một, ngôi nhà quê lại đỏ lửa khói hương."
+### Cảnh 12 (`11:00–12:00` | 6 Clips × 10s): Giấc Mơ Đẫm Nước Mắt Của Ông Quân & Nén Hương Tạ Tội Trước Mộ Cha
+- **Không gian & Đạo cụ:** Main room wooden bed at night, misty village rice-field cemetery at dawn, newly installed mahogany altar in the main room, and brick shrine under the jackfruit tree. | *Props:* Wooden bed in main room, mossy stone grave in misty rice field, burning incense sticks, newly carved mahogany ancestral altar (tủ thờ gỗ gụ), bronze incense burner and portrait of Cụ Xá, small brick shrine under the jackfruit tree.
+
+- **Clip 1 ([`canh-12/clip-1.md`](canh-12/clip-1.md) | `11:00–11:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** Night falls over the ancestral house: @OngQuan lies stern-faced on a wooden bed placed in the center of the dark main room, while @BaPhuong and @Binh sit quietly awake at a side table.
+  - *Camera Plan:* `35mm stabilized gimbal slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đêm ấy ông Quân nằm ngay gian chính, tuyên bố sáng mai sẽ đưa con về thành phố."
+  - *Sound Design:* Tiếng côn trùng đêm kêu rả rích ngoài vườn và tiếng thở nặng nề trong gian nhà tối.
+- **Clip 2 ([`canh-12/clip-2.md`](canh-12/clip-2.md) | `11:10–11:20` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @VongCuXa`):** Under cold silver moonlight, the camera pushes close to @OngQuan's sleeping face: his brows knit in deep anguish and hot tears stream from his closed eyes as @VongCuXa stands silently beside the bed.
+  - *Camera Plan:* `50mm stabilized close-up slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Không ai biết ông Quân mơ thấy gì… chỉ thấy người cha sắt đá khóc nấc trong đêm."
+  - *Sound Design:* Tiếng nấc nghẹn trầm đục của người cha trong giấc ngủ hòa tiếng gió đêm dịu nhẹ.
+- **Clip 3 ([`canh-12/clip-3.md`](canh-12/clip-3.md) | `11:20–11:30` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan`):** At dawn in the white mist of the village rice-field cemetery, a red-eyed @OngQuan kneels alone in the wet grass before Cụ Xá's mossy stone grave, bowing deeply as he plants burning incense.
+  - *Camera Plan:* `35mm stabilized slow push-in in morning mist`
+  - *Lời dẫn / Thoại (18 từ):* "Tờ mờ sáng, ông Quân lặng lẽ ra nghĩa trang làng, quỳ gục hàng giờ trước mộ cha."
+  - *Sound Design:* Tiếng gió đồng sớm thổi qua làn khói hương trầm và tiếng nấc nghẹn hối hận của @OngQuan.
+- **Clip 4 ([`canh-12/clip-4.md`](canh-12/clip-4.md) | `11:30–11:40` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @Binh`):** Returning to the ancestral house, @OngQuan rolls up his shirt sleeves and works side by side with @Binh to carry a newly carved mahogany ancestral altar cabinet into the center of the main room.
+  - *Camera Plan:* `28mm stabilized gimbal tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Trở về nhà, ông Quân cùng Bình tự tay kê chiếc tủ thờ gỗ gụ vào gian giữa."
+  - *Sound Design:* Tiếng chân tủ gỗ gụ đặt vững chãi xuống nền gạch và tiếng hai bố con phối hợp nhịp nhàng.
+- **Clip 5 ([`canh-12/clip-5.md`](canh-12/clip-5.md) | `11:40–11:50` | `LIPSYNC:@OngQuan` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** @OngQuan reverently places Cụ Xá's portrait and bronze incense burner onto the new mahogany altar, lights three sticks of sandalwood incense, and kneels before @BaPhuong and @Binh in choked remorse.
+  - *Camera Plan:* `35mm stabilized medium slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Bố ơi… Con bất hiếu để hồn bố lạnh lẽo… nay con rước bố về lại gian thờ!"
+  - *Sound Design:* Tiếng diêm quẹt thắp hương và giọng khấn nghẹn ngào đẫm nước mắt của @OngQuan.
+- **Clip 6 ([`canh-12/clip-6.md`](canh-12/clip-6.md) | `11:50–12:00` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @Binh`):** Out beneath the ancient jackfruit tree by the front gate, @OngQuan and @Binh finish building a small, solemn brick shrine where fragrant incense smoke curls upward to soothe the wandering spirits.
+  - *Camera Plan:* `35mm stabilized gimbal slow pull-back`
+  - *Lời dẫn / Thoại (18 từ):* "Dưới gốc mít trước cổng, ông Quân còn dựng ngôi miếu nhỏ cầu siêu cho sáu vong hồn."
+  - *Sound Design:* Tiếng chuông tụng kinh cầu siêu ngân vang ấm áp hòa làn khói hương dưới tán mít.
 
 ---
 
-#### **Cảnh 14 (`13:00–14:00` | 6 Clips × 10s): Món Nợ Được Hoàn Trả & Mâm Cơm Đoàn Tụ Nơi Quê Nội**
-- **Clip 1 (`13:00–13:10` — VO | On-screen: `@Binh`):** Những ngày cuối năm ngập nắng ấm trên hiên ngôi nhà ngói ba gian ở quê nội: `@Binh` ngồi bên bàn gỗ mở laptop đọc thông báo của cơ quan công an về việc triệt phá đường dây lừa đảo và thu hồi tài sản.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Ở hiền thì gặp lành, lòng hiếu thảo và sự thành tâm chuộc lỗi dường như đã thấu tới trời xanh… Cuối năm ấy, công an triệt phá thành công đường dây lừa đảo tiền ảo và hoàn trả lại phần lớn số tiền mà Bình từng bị chiếm đoạt."
-- **Clip 2 (`13:10–13:20` — VO | On-screen: `@Binh`):** Ngay bên chiếc laptop trên bàn gỗ hiên nhà, `@Binh` nâng tờ giấy báo tiếp nhận quay lại học tập của trường đại học trên tay, nở nụ cười rạng rỡ và biết ơn sau chuỗi ngày tăm tối.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Trả dứt được món nợ đè nặng trên vai, Bình được nhà trường đồng ý cho quay trở lại giảng đường hoàn thành năm học cuối… Một cánh cửa cuộc đời mới lại mở ra sau những tháng ngày tưởng như đã mất tất cả."
-- **Clip 3 (`13:20–13:30` — VO | On-screen: `@OngQuan, @BaPhuong, @Binh`):** `@Binh` gấp laptop lại khi `@BaPhuong` bưng mâm cơm gỗ bốc khói nghi ngút ra hiên nhà: `@OngQuan`, `@BaPhuong` và `@Binh` quây quần ấm cúng bên nhau, phía xa là gốc mít xanh tốt.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Những ngày cuối năm se lạnh, cả gia đình lại cùng nhau quây quần nơi hiên nhà ngói ba gian quê nội. Bên mâm cơm đoàn viên bốc khói nghi ngút, không còn tiếng quát tháo giận dữ, chỉ còn sự bình yên sau giông bão."
-- **Clip 4 (`13:30–13:40` — Lip-Sync `@OngQuan` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** Bên mâm cơm gỗ đoàn viên, `@OngQuan` trầm ngâm rót chén rượu trắng đặt trước mặt con trai, ánh mắt nghiêm nghị nhưng ấm áp nhìn `@Binh` đang cúi đầu lắng nghe.
-  - *Thoại (@OngQuan):* "Đời người ai chẳng có lúc lầm đường lạc lối hả con… Quan trọng là biết quay đầu, biết sống có hiếu với tổ tiên ông bà thì trời đất mới dung thứ."
-- **Clip 5 (`13:40–13:50` — VO | On-screen: `@Binh`):** Sau bữa cơm chiều, `@Binh` bước qua sân gạch ra gốc mít cổ thụ trước cổng, thành kính thắp ba nén nhang thơm cắm vào bát hương của ngôi miếu gạch nhỏ.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Chiều muộn, Bình bước ra gốc mít cổ thụ, thành tâm thắp nén nhang thơm lên ngôi miếu nhỏ… Trong thâm tâm mình, cậu luôn thầm cảm ơn những đêm kinh hoàng ấy đã giúp gia đình cậu thức tỉnh và tìm lại được nhau."
-- **Clip 6 (`13:50–14:00` — VO | On-screen: `@Binh, @OngQuan, @BaPhuong`):** Từ ngôi miếu nhỏ dưới gốc mít, máy quay nâng dần lên cao nhìn xuống ngôi nhà ngói ba gian sạch sẽ, sân gạch phẳng phiu nơi `@Binh`, `@OngQuan` và `@BaPhuong` đứng bên hiên đèn vàng ấm áp.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Ngôi nhà từng bị cả làng gọi là nhà ma với bao nỗi khiếp đảm… giờ đây đã thực sự trở thành chốn dương thịnh âm an, nơi người sống tìm thấy bình yên và người khuất tìm được chốn đi về."
+### Cảnh 13 (`12:00–13:00` | 6 Clips × 10s): Bốn Mươi Chín Ngày Ăn Chay Cầu Siêu & Ngôi Miếu Nhỏ Dưới Gốc Mít
+- **Không gian & Đạo cụ:** Warm, incense-filled three-bay ancestral house, sunlit brick courtyard, small brick shrine beneath the jackfruit tree, and refurbished stone grave in the green rice field. | *Props:* Mahogany altar glowing with oil lamps and sandalwood incense, bamboo broom, fresh fruit offering plate and burning incense at the jackfruit brick shrine, refurbished stone grave.
+
+- **Clip 1 ([`canh-13/clip-1.md`](canh-13/clip-1.md) | `12:00–12:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** In the peaceful morning light, @OngQuan in a simple white shirt lights fresh incense at the mahogany altar inside, while out on the sunny porch @BaPhuong and @Binh sweep the clean courtyard.
+  - *Camera Plan:* `28mm stabilized gimbal panning shot`
+  - *Lời dẫn / Thoại (18 từ):* "Suốt bốn chín ngày, ông Quân ở quê ăn chay hương khói, sưởi ấm ngôi nhà lạnh lẽo."
+  - *Sound Design:* Tiếng chổi quét sân nhẹ nhàng dưới nắng sớm và mùi hương trầm thanh tịnh lan tỏa.
+- **Clip 2 ([`canh-13/clip-2.md`](canh-13/clip-2.md) | `12:10–12:20` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan`):** In the golden afternoon sunlight beneath the ancient jackfruit tree, @OngQuan reverently places a plate of fresh fruit and lights incense at the small brick shrine, the air now peaceful and warm.
+  - *Camera Plan:* `35mm stabilized slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Ngôi miếu nhỏ dưới gốc mít đỏ nhang mỗi tối, để những vong hồn lỡ bước có chốn."
+  - *Sound Design:* Tiếng lá mít xanh rì rào êm ả trong nắng chiều và tiếng khói hương bay nhẹ.
+- **Clip 3 ([`canh-13/clip-3.md`](canh-13/clip-3.md) | `12:20–12:30` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @Binh`):** On the forty-ninth night inside the main worship hall, @OngQuan and @Binh sit side by side with clasped hands before Cụ Xá's warm oil-lamp altar as fragrant incense smoke curls peacefully upward.
+  - *Camera Plan:* `35mm stabilized medium two-shot push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đêm thứ bốn chín, cả căn nhà tỏa sinh khí ấm áp, không còn bóng đen lạnh lẽo."
+  - *Sound Design:* Tiếng đèn dầu cháy êm dịu trên bàn thờ và nhịp thở bình an của hai cha con.
+- **Clip 4 ([`canh-13/clip-4.md`](canh-13/clip-4.md) | `12:30–12:40` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @Binh`):** Seen from outside the jackfruit tree looking across the brick courtyard at night, warm golden light glows through all the wooden windows of the three-bay house where @OngQuan and @Binh talk.
+  - *Camera Plan:* `28mm stabilized dolly slow pull-back through gate`
+  - *Lời dẫn / Thoại (18 từ):* "Nhìn từ ngoài cổng vào, lần đầu sau hai mươi năm, nhà cụ Xá sáng ánh đèn ấm."
+  - *Sound Design:* Tiếng chuông chùa làng ngân vang thanh tịnh từ phía xa trong đêm quê yên bình.
+- **Clip 5 ([`canh-13/clip-5.md`](canh-13/clip-5.md) | `12:40–12:50` | `LIPSYNC:@OngQuan` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** The next morning on the sunlit porch, @OngQuan rests a forgiving hand on @Binh's shoulder and turns to @BaPhuong with a calm, compassionate expression.
+  - *Camera Plan:* `35mm stabilized medium three-shot`
+  - *Lời dẫn / Thoại (18 từ):* "Bà đưa thằng Bình về phố trả nợ trước đi… Tôi ở lại lo trọn lễ cho cụ."
+  - *Sound Design:* Giọng nói trầm ấm, bao dung của người cha giữa hiên nhà ngập nắng ban mai.
+- **Clip 6 ([`canh-13/clip-6.md`](canh-13/clip-6.md) | `12:50–13:00` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan`):** @OngQuan stands with clasped hands bowing solemnly before Cụ Xá's newly refurbished stone grave surrounded by lush green rice paddies swaying in the morning breeze.
+  - *Camera Plan:* `35mm stabilized slow crane-up shot`
+  - *Lời dẫn / Thoại (18 từ):* "Biến cố tưởng chừng tuyệt vọng ấy lại kéo người cha lầm lỗi về giữ trọn đạo hiếu."
+  - *Sound Design:* Tiếng gió đồng thổi rì rào qua cánh đồng lúa xanh và tiếng chim hót thanh bình.
 
 ---
 
-#### **Cảnh 15 (`14:00–15:00` | 6 Clips × 10s): Đêm Trăng Thanh Tịnh — Dương Thịnh Âm An & Lời Nhắn Cõi Âm**
-- **Clip 1 (`14:00–14:10` — VO | On-screen: `@Binh`):** Màn đêm trăng rằm dịu vợi buông xuống ngôi nhà ngói ba gian: máy quay đẩy chậm vào gốc mít cổ thụ và ngôi miếu gạch nhỏ với ba nén nhang vừa được `@Binh` thắp đang cháy đỏ rực trong đêm.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Quý vị và các bạn thân mến… trên cõi đời này, có những thứ mắt thường chúng ta không thể nhìn thấy, và có những nỗi tủi phận của người đã khuất mà người sống vô tình lãng quên."
-- **Clip 2 (`14:10–14:20` — VO | On-screen: `@VongCuXa`):** Ánh trăng bạc xuyên qua kẽ lá mít in bóng xuống sân gạch sạch sẽ: bên hiên nhà, hình bóng mờ ảo của `@VongCuXa` khẽ mỉm cười thanh thản rồi tan thành những đốm sáng nhẹ bay lên trời đêm.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Đôi khi ranh giới giữa hai cõi âm dương mỏng manh hơn chúng ta tưởng rất nhiều… Và sợi dây duy nhất có thể hóa giải mọi oán hờn, sưởi ấm cả người sống lẫn người khuất, chính là chữ Hiếu và lòng thành kính từ tận đáy tâm can."
-- **Clip 3 (`14:20–14:30` — VO | On-screen: `@Binh, @OngQuan, @BaPhuong`):** Máy quay lướt từ hiên trăng vào bên trong gian thờ chính: `@Binh` cùng `@OngQuan` và `@BaPhuong` đứng chắp tay trang nghiêm trước tủ thờ gỗ gụ ấm khói trầm hương dưới ánh đèn vàng.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Câu chuyện về Căn Nhà Âm Dương khép lại như một lời nhắc nhở sâu sắc cho mỗi người con đất Việt: dù đi đâu về đâu, giàu sang hay cơ hàn, cũng xin đừng bao giờ để lạnh khói hương nơi bàn thờ tổ tiên."
-- **Clip 4 (`14:30–14:40` — VO | On-screen: `@OngBay`):** Ngoài cổng sắt mở rộng dưới ánh trăng, `@OngBay` đi bộ ngang qua đường làng, mỉm cười gật đầu nhìn vào ngôi nhà sáng đèn ấm áp rồi chậm rãi bước tiếp.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Bởi lẽ tổ tiên ông bà chẳng bao giờ đòi hỏi mâm cao cỗ đầy… thứ người đã khuất mong mỏi nhất chỉ là sự tưởng nhớ và tấm lòng hướng về cội nguồn của con cháu đời sau."
-- **Clip 5 (`14:40–14:50` — VO | On-screen: `@Binh, @OngQuan, @BaPhuong`):** Toàn cảnh flycam đêm trăng rằm nâng cao dần: ngôi nhà ngói ba gian nơi `@Binh`, `@OngQuan` và `@BaPhuong` sum vầy tỏa ánh sáng vàng ấm áp giữa cánh đồng lúa Bắc Bộ mênh mông.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Cảm ơn quý vị và các bạn đã lắng nghe trọn vẹn bộ phim truyện ma đêm khuya Căn Nhà Âm Dương. Nếu yêu thích những câu chuyện tâm linh nhân quả làng quê Bắc Bộ, hãy nhấn đăng ký kênh để đồng hành cùng chúng tôi trong những đêm tiếp theo."
-- **Clip 6 (`14:50–15:00` — VO | On-screen: `@Binh`):** Cận cảnh đốm lửa đỏ của ba nén nhang nơi ngôi miếu dưới gốc mít khẽ bùng sáng trong làn gió đêm, phía sau hiên nhà `@Binh` khép nhẹ cánh cửa gỗ dưới ánh trăng thanh tịnh.
-  - *Lời dẫn (Narrator - VOICE_LOCK_NARRATOR_CNHADG):* "Còn bây giờ… khi đồng hồ đã điểm sang canh ba, xin chúc quý vị có một giấc ngủ thật bình yên… và hãy nhớ lắng nghe xem, ngoài hiên nhà mình đêm nay… có tiếng gió nào đang thì thầm hay không."
+### Cảnh 14 (`13:00–14:00` | 6 Clips × 10s): Món Nợ Được Hoàn Trả & Mâm Cơm Đoàn Tụ Nơi Quê Nội
+- **Không gian & Đạo cụ:** Sunlit porch of the three-bay ancestral house and the peaceful brick shrine under the green jackfruit tree. | *Props:* Laptop and university readmission letter on the porch wooden table, steaming wooden tray of traditional Vietnamese family dishes, small white porcelain wine cup, burning incense at the jackfruit shrine.
+
+- **Clip 1 ([`canh-14/clip-1.md`](canh-14/clip-1.md) | `13:00–13:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** On a bright year-end morning on the ancestral porch, @Binh sits at the wooden table opening his laptop to read an official police notice announcing the bust of the crypto scam ring and recovery of funds.
+  - *Camera Plan:* `35mm stabilized medium push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Ở hiền gặp lành… cuối năm công an phá ổ lừa đảo, thu hồi tiền trả cho Bình."
+  - *Sound Design:* Tiếng gió cuối năm se lạnh ngoài hiên và tiếng thở phào hạnh phúc của @Binh.
+- **Clip 2 ([`canh-14/clip-2.md`](canh-14/clip-2.md) | `13:10–13:20` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** Beside the laptop on the porch table, @Binh lifts his official university readmission letter in both hands, smiling brightly with gratitude after months of darkness.
+  - *Camera Plan:* `50mm stabilized close-up push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Trả dứt được món nợ, Bình được trường nhận lại học năm cuối, mở ra cuộc đời mới."
+  - *Sound Design:* Tiếng giấy báo nhập học khẽ rung trong tay @Binh và tiếng nắng ấm ngoài sân.
+- **Clip 3 ([`canh-14/clip-3.md`](canh-14/clip-3.md) | `13:20–13:30` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** @Binh closes his laptop as @BaPhuong carries a steaming wooden tray of traditional dishes out onto the porch; @OngQuan, @BaPhuong, and @Binh gather warmly around the family meal.
+  - *Camera Plan:* `28mm stabilized gimbal tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Những ngày cuối năm se lạnh, cả nhà quây quần bên mâm cơm đoàn viên nơi quê nội."
+  - *Sound Design:* Tiếng bát đũa chạm nhau ấm cúng và tiếng cười nói hiền hòa của ba người trong gia đình.
+- **Clip 4 ([`canh-14/clip-4.md`](canh-14/clip-4.md) | `13:30–13:40` | `LIPSYNC:@OngQuan` | `CALM_MYSTERIOUS` | On-screen: `@OngQuan, @BaPhuong, @Binh`):** At the family meal table, @OngQuan pours a small cup of clear rice wine and sets it before @Binh, looking at his son with stern yet deeply loving eyes.
+  - *Camera Plan:* `50mm stabilized medium close-up shot`
+  - *Lời dẫn / Thoại (18 từ):* "Đời người ai chẳng có lúc lầm lỡ… quan trọng là biết quay đầu sống trọn chữ hiếu."
+  - *Sound Design:* Tiếng rót rượu vào chén sứ nhỏ và giọng dặn dò trầm ấm của @OngQuan.
+- **Clip 5 ([`canh-14/clip-5.md`](canh-14/clip-5.md) | `13:40–13:50` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** After the afternoon meal, @Binh walks across the clean brick courtyard to the ancient jackfruit tree by the gate and respectfully plants three fragrant burning incense sticks into the small brick shrine.
+  - *Camera Plan:* `35mm stabilized gimbal following shot`
+  - *Lời dẫn / Thoại (18 từ):* "Chiều muộn, Bình ra thắp hương miếu gốc mít, cảm ơn biến cố giúp gia đình tỉnh ngộ."
+  - *Sound Design:* Tiếng bước chân khoan thai trên sân gạch sạch sẽ và mùi hương trầm dịu ngọt.
+- **Clip 6 ([`canh-14/clip-6.md`](canh-14/clip-6.md) | `13:50–14:00` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngQuan, @BaPhuong`):** From the small shrine beneath the jackfruit tree, the camera cranes slowly upward revealing the clean three-bay tiled house and courtyard where @Binh joins @OngQuan and @BaPhuong on the warm-lit porch.
+  - *Camera Plan:* `24mm stabilized crane-up pull-back`
+  - *Lời dẫn / Thoại (18 từ):* "Ngôi nhà từng bị gọi là nhà ma… nay đã thực sự thành chốn dương thịnh âm an."
+  - *Sound Design:* Tiếng gió chiều êm ả qua tán mít xanh tốt và âm thanh ấm cúng nơi hiên nhà.
 
 ---
 
+### Cảnh 15 (`14:00–15:00` | 6 Clips × 10s): Đêm Trăng Thanh Tịnh — Dương Thịnh Âm An & Lời Nhắn Cõi Âm
+- **Không gian & Đạo cụ:** Tranquil full-moonlit courtyard, glowing brick shrine under the ancient jackfruit tree, and warm-lit ancestral worship hall nestled among Northern Vietnamese rice fields. | *Props:* Three glowing red incense sticks in the brick shrine under the jackfruit tree, warm yellow altar lamps inside the three-bay house, silver full moon over rice paddies.
+
+- **Clip 1 ([`canh-15/clip-1.md`](canh-15/clip-1.md) | `14:00–14:10` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** Under a tranquil full moon, the camera glides slowly toward the ancient jackfruit tree and the small brick shrine where three incense sticks just lit by @Binh glow bright red in the night.
+  - *Camera Plan:* `35mm stabilized gimbal slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Quý vị thân mến… có những nỗi tủi phận người khuất mà người sống vô tình lãng quên."
+  - *Sound Design:* Tiếng dế kêu đêm trăng thanh bình và tiếng gió nhẹ thổi hồng đốm hương nơi ngôi miếu.
+- **Clip 2 ([`canh-15/clip-2.md`](canh-15/clip-2.md) | `14:10–14:20` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@VongCuXa`):** Silver moonlight filters through the jackfruit leaves onto the clean brick courtyard; beside the porch pillar, the gentle translucent figure of @VongCuXa smiles at peace and dissolves into ascending light motes.
+  - *Camera Plan:* `35mm stabilized slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Sợi dây duy nhất hóa giải oán hờn hai cõi âm dương… chính là chữ Hiếu từ tâm."
+  - *Sound Design:* Tiếng chuông gió ngân thanh nhẹ khi bóng hình ông nội hóa thành đốm sáng bay lên trời đêm.
+- **Clip 3 ([`canh-15/clip-3.md`](canh-15/clip-3.md) | `14:20–14:30` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngQuan, @BaPhuong`):** The camera glides from the moonlit porch into the warm main worship hall where @Binh, @OngQuan, and @BaPhuong stand with clasped hands bowing reverently before the fragrant mahogany ancestral altar.
+  - *Camera Plan:* `35mm stabilized gimbal glide into hall`
+  - *Lời dẫn / Thoại (18 từ):* "Dù đi đâu về đâu, giàu sang hay nghèo khó… xin đừng để lạnh khói hương bàn thờ."
+  - *Sound Design:* Tiếng khói trầm hương quyện trong không gian ấm cúng dưới ánh đèn thờ vàng dịu.
+- **Clip 4 ([`canh-15/clip-4.md`](canh-15/clip-4.md) | `14:30–14:40` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@OngBay`):** Outside the open iron gate under the silver full moon, @OngBay walks leisurely along the village lane, smiling and nodding toward the warm-lit ancestral house before continuing on his way.
+  - *Camera Plan:* `35mm stabilized medium tracking shot`
+  - *Lời dẫn / Thoại (18 từ):* "Bởi thứ người đã khuất mong mỏi nhất… chỉ là tấm lòng nhớ cội nguồn của con cháu."
+  - *Sound Design:* Tiếng bước chân khoan thai trên đường làng đêm trăng và tiếng lá tre xào xạc hiền hòa.
+- **Clip 5 ([`canh-15/clip-5.md`](canh-15/clip-5.md) | `14:40–14:50` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh, @OngQuan, @BaPhuong`):** Wide aerial drone shot ascending slowly under the full moon: the three-bay tiled house where @Binh, @OngQuan, and @BaPhuong stand on the porch glows like a warm lantern amid vast Northern rice fields.
+  - *Camera Plan:* `24mm stabilized aerial drone slow ascending pull-back`
+  - *Lời dẫn / Thoại (18 từ):* "Khép lại chuyện Căn Nhà Âm Dương, mong mỗi mái nhà Việt giữ trọn hơi ấm nghĩa tình."
+  - *Sound Design:* Tiếng sáo trúc quê hương dịu vợi hòa tiếng gió đồng lúa mênh mông dưới ánh trăng rằm.
+- **Clip 6 ([`canh-15/clip-6.md`](canh-15/clip-6.md) | `14:50–15:00` | `VO` | `CALM_MYSTERIOUS` | On-screen: `@Binh`):** Close view of the three glowing red incense tips in the brick shrine beneath the jackfruit tree brightening gently in the night breeze as @Binh softly closes the wooden house doors in the background.
+  - *Camera Plan:* `50mm stabilized close-up slow push-in`
+  - *Lời dẫn / Thoại (18 từ):* "Đêm đã sang canh ba, chúc quý vị ngủ ngon… hãy lắng nghe tiếng gió ngoài hiên nhà."
+  - *Sound Design:* Tiếng cánh cửa gỗ khép nhẹ 'cạch' êm ái và tiếng gió đêm rì rào qua tán lá mít.
+
+---

@@ -1,65 +1,43 @@
-[FORMAT]
-10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering oil-lamp amber and aged ironwood browns contrasted with cold midnight rain cyan-blue, moss-green laterite stone, and corpse-pale moonlight shadows, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @BaCam), shot type: CLOSE_UP): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
+[1. FORMAT & MODEL]
+- Duration & Aspect Ratio: 10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, 180-degree cinema shutter.
+- Model & Aesthetics: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video), photorealistic live-action Vietnamese supernatural folk-horror cinema.
+- Visual Look & Grade: Authentic Northern Vietnamese architecture and rural atmosphere, natural skin textures and pores, damp mist, realistic shadows, flickering warm oil-lamp/tungsten amber contrasted against cold midnight cyan-blue darkness, subtle 35mm film grain. Single continuous 10-second camera shot (`Shot 10.3`, film timeline `09:20–09:30`).
 
-[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
-Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
-@BaCam = Bà Cầm (media_id: 71231f5c-64e2-4c4c-945e-059ee37903f7): same approved identity, age 68–78; stooped Northern Vietnamese female caretaker of the ancestral hall, 154 cm, deeply wrinkled weathered ash-pale face, silver hair pinned in a tight low bun with a hairpin, left eye cloudy milky-white blind and right eye sharp and unblinking. Wardrobe: dark earth-brown/black traditional Vietnamese tunic (áo bà ba tối màu) and black silk trousers, gnarled hands holding a flickering antique brass oil lamp and a ring of green-patina bronze keys. Voice profile: [VOICE_LOCK_BACAM_TIENGGO — Cố định giọng Bà Cầm chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 78-year-old native Standard Northern Vietnamese elderly female voice (~175 Hz raspy aged contralto), slow, hushed, chillingly calm and ominous (giọng bà lão 78 tuổi chuẩn miền Bắc, khàn đục, run rẩy, rờn rợn).
-Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_TIENGGO — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
+[2. CHARACTER & VOICE LOCK]
+Use attached reference images (`media_id`) strictly to lock facial identity, age, hairstyle, and wardrobe inside the live scene. Only the listed characters appear in frame.
+- @BaCam = Bà Cầm (media_id: 71231f5c-64e2-4c4c-945e-059ee37903f7 | age 78): Elderly Northern Vietnamese female caretaker of the ancestral house, stooped posture, deeply wrinkled ash-grey weathered face, silver hair pinned in a low bun with a black ebony hairpin, left eye cloudy milky-white blind and right eye sharp. Wardrobe: dark earth-brown traditional áo bà ba tunic and black silk trousers, holding a black oiled-paper umbrella, flickering brass oil lamp, and rusted bronze key ring. Character Voice Reference (VOICE_LOCK_BACAM_TIENGGO): 78-year-old native Standard Northern Vietnamese elderly female voice (~175 Hz raspy aged contralto), hushed, trembling, eerie and ominous (giọng bà lão 78 tuổi chuẩn miền Bắc, khàn đục, rờn rợn).
+- Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller (VOICE_LOCK_NARRATOR_TIENGGO): Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, intimate late-night Vietnamese ghost-story storytelling style. Target speaking speed: 125–145 Vietnamese words per minute (this clip: 138–145 Vietnamese words/minute with 0.30s controlled dramatic pauses at ellipses (…); emotional tone: controlled urgency, gripped with dread, sharp and visceral climax delivery). Reuse the same TTS voice ID / acoustic voice reference (VOICE_LOCK_NARRATOR_TIENGGO) across all 90 clips, relying on this full acoustic profile rather than a text label alone.
 
-[TIMELINE AND LOCATION]
-Scene 10/15, clip 3/6; shot 10.3 (10.0s | Model: `omni_flash` 10s). Story time: 02:55 Đêm thứ hai (09:00–10:00) (09:20–09:30).
-Rain-swept front porch and wooden lattice door of the ironwood ancestral house; the revenant @BaCam stands under a torn black oiled-paper umbrella dripping black well mud, scratching her bronze keys against the wooden bars until @CuTu repels her with a cinnabar talisman.
-[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 10 (Clip 1–6)]
-FIXED SCENE 10 SPACE (Ngưỡng cửa bức bàn gỗ lim ngăn cách giữa @Lam, @CuTu bên trong và ác linh @BaCam ngoài hiên mưa): Trục đối kháng trực diện qua chấn song cửa gỗ.
-Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 10.
+[3. SCENE & SPATIAL LOCK]
+- Scene & Chronology: Scene 10/15 (Ác Linh Bà Cầm Hiện Nguyên Hình Ngoài Hiên Nhà Cổ), Clip 3/6 (Clip #57/90 | 09:20–09:30). Story Time: 02:55 Rạng sáng Đêm thứ hai (09:00–10:00).
+- Location & Architecture: Threshold between the ancestral main hall and the rain-drenched front veranda through wooden lattice doors.
+- Spatial Geometry Lock: Direct sightline through the wooden lattice doors out to the porch steps where the crooked-necked revenant @BaCam stands under her black umbrella.
+- Key Scene Props: Wooden lattice doors, black oiled-paper umbrella dripping black mud, rusted bronze key ring scraping the wood bars, red cinnabar talisman (bùa Chu Sa) and bronze bell.
 
-[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
-`@BaCam` (Bà Cầm) giơ bàn tay khô quắt cầm chùm chìa khóa đồng cào mạnh lên chấn song cửa gỗ kêu *'ken két'*, giọng khàn rợn người.
+[4. DRAMATIC OBJECTIVE]
+@BaCam rakes her desiccated hand and bronze key ring violently down the wooden lattice bars, speaking in a raspy, graveside Northern voice that echoes through the hall.
 
-[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
-- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside ANCIENT_COURTYARD_WELL as @BaCam continues seamlessly from the previous beat. 3.0–7.0s: `@BaCam` (Bà Cầm) giơ bàn tay khô quắt cầm chùm chìa khóa đồng cào mạnh lên chấn song cửa gỗ kêu *'ken két'*, giọng khàn rợn người. 7.0–10.0s: The camera settles smoothly on @BaCam's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. From 2.0–8.5s, @BaCam speaks the Vietnamese line aloud on-screen with accurate lip-sync in a Standard Northern Vietnamese accent (VOICE_LOCK_BACAM_TIENGGO) while all other characters keep their mouths closed.
-- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 10.2 (Dưới ánh chớp lóe lên, `@BaCam` (bà Cầm) từ từ ngẩng mặt lên: cái cổ của bà ta vẹo hẳn sang một bên một góc kỳ dị như lúc ngã gãy cổ dưới giếng, đôi mắt trắng dã nhìn xuyên qua khe cửa vào `@Lam`!): máy quay giữ nguyên trục không gian ANCIENT_COURTYARD_WELL và ánh sáng đèn dầu/mưa đêm, dẫn nhịp chuyển động trực tiếp sang @BaCam.
-- Beat 2 (3.0–7.0s — Diễn biến & cao trào kinh dị / Core Dramatic Action): `@BaCam` (Bà Cầm) giơ bàn tay khô quắt cầm chùm chìa khóa đồng cào mạnh lên chấn song cửa gỗ kêu *'ken két'*, giọng khàn rợn người.
-- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @BaCam, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 10.4 (`@CuTu` (Cụ Từ Hạc) bước lên phía trước, vung chiếc chuông đồng và dán lá bùa Chu Sa lên chính giữa cánh cửa g...).
-Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
+[5. CAMERA & TIMED ACTION]
+- Single Coherent Camera Plan (0.0s–10.0s): 50mm stabilized tight close-up shot. One physically plausible camera movement on a single consistent axis from 0.0s to 10.0s; zero contradictory camera rigs, zero sudden zooms, zero jump cuts.
+- 0.0s–2.5s (Seamless Incoming Continuity): Preserve the exact ending state, lighting, and character axis from Clip 10.2. Tight close-up of @BaCam pressing her clawed hand and bronze keys against the wooden lattice.
+- 2.5s–7.5s (Core Dramatic Progression): @BaCam rakes her desiccated hand and bronze key ring violently down the wooden lattice bars, speaking in a raspy, graveside Northern voice that echoes through the hall.
+- 7.5s–10.0s (Outgoing Continuity Settle): @BaCam's twisted face snarls through the bars as her bronze keys scrape down the wood. Hold a steady 0.5s visual and audio settle at 9.5s–10.0s to bridge cleanly into Clip 10.4.
 
-[BLOCKING AND PERFORMANCE]
-- Spatial Blocking: Characters (@BaCam) maintain consistent screen positions and eyeline vectors within ANCIENT_COURTYARD_WELL matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
-- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron chains, wet laterite stone, and ancient ironwood props.
+[6. NARRATION / DIALOGUE]
+- Word Budget & Pacing Check: 18 Vietnamese words (~8.6s active speech window at 125–145 WPM), finishing naturally at 8.8s before the 10.0s clip ends without rushing or truncation.
+- Turn 1 [0.8s–8.8s | 18 Vietnamese words | On-Screen Lip-Sync] @BaCam (Bà Cầm — VOICE_LOCK_BACAM_TIENGGO | speaking on-screen in native Standard Northern Vietnamese accent, 78-year-old native Standard Northern Vietnamese elderly female voice (~175 Hz raspy aged contralto), hushed, trembling, eerie and ominous (giọng bà lão 78 tuổi chuẩn miền Bắc, khàn đục, rờn rợn).): "Mày đã điểm chỉ máu rồi con ạ… Đêm mai ba giờ, hồn mày phải thế chỗ tao!"
+- Lip-Sync & Mouth Lock: Apply accurate Vietnamese lip-sync ONLY to @BaCam during 0.8s–8.8s. Off-screen narrator remains silent in this clip.
+- Spoken Audio Rule: Speak ONLY the Vietnamese words inside quotation marks ("..."). Never read prompt instructions, @tags, character IDs, timestamps, or stage directions aloud.
 
-[CAMERA — Shot Size, Lens, Movement & Continuity]
-- Lens & Shot Type: 50mm, 24 fps, 180-degree shutter, CLOSE_UP.
-- Camera Movement Plan (0.0–10.0s): 50mm tight psychological close-up isolating micro-expressions, cold sweat, and trembling hands. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
+[7. HORROR SOUND DESIGN]
+- Synchronized Scene Audio (0.0s–10.0s): Tiếng móng tay khô quắt và chìa khóa đồng cào 'ken két' chói tai lên chấn song gỗ lim.
+- Mix & Silence Discipline: Keep spoken Standard Northern Vietnamese narration/dialogue clearly audible in the foreground above environmental foley. Use strategic quiet tension, avoid excessive music or generic jump-scare stingers, and maintain a smooth 0.15s ambient room-tone transition at 0.0s and 10.0s.
 
-[PROPS & VISIBLE TEXTURE]
-[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 10]
-FIXED SCENE 10 OBJECTS: (1) Chiếc ô giấy dầu đen rách nát và chùm chìa khóa đồng trên tay @BaCam; (2) Chấn song cửa gỗ lim bị cào xước; (3) Lá bùa Chu Sa đỏ thẫm và chuông đồng của @CuTu; (4) Bóng lưng còng của @BaCam lùi vào sương mù sân giếng.
-- Visible Material & Lighting Texture: Mossy porous laterite stone (đá ong rêu phong), rusted iron chains dripping black well water, glossy 150-year-old dark ironwood grain, flickering brass oil-lamp amber shadows against deep abyssal midnight darkness.
-Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
+[8. START FRAME & END FRAME]
+- START FRAME (0.0s): Tight close-up of @BaCam pressing her clawed hand and bronze keys against the wooden lattice.
+- END FRAME (10.0s): @BaCam's twisted face snarls through the bars as her bronze keys scrape down the wood.
 
-[BODY, MOUTH AND FACE CONSISTENCY]
-Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
-Mouth & Lip-Sync Map: 0.0–2.0s: All characters keep mouths closed in tense silence, continuing motion smoothly from the previous beat. 2.0–8.5s: @BaCam speaks on-screen with accurate Vietnamese lip-sync (VOICE_LOCK_BACAM_TIENGGO — giọng chuẩn miền Bắc) while all other on-screen characters keep their mouths closed. 8.5–10.0s: Mouths closed, holding the horror reaction into the outgoing cut.
-
-[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
-Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
-- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_TIENGGO`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
-- On-Screen Characters (`VOICE_LOCK_LAM_TIENGGO` ~130Hz 27yo male, `VOICE_LOCK_BACAM_TIENGGO` ~175Hz 78yo female, `VOICE_LOCK_CUTU_TIENGGO` ~95Hz 80yo elder male, `VOICE_LOCK_COUT_TIENGGO` ~235Hz 19yo spectral female): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
-Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
-
-[DIALOGUE — Timed to Action (1 turn(s), 28 Vietnamese words)]
-- Turn 1 [2.0–8.5s] On-Screen Character @BaCam (VOICE_LOCK_BACAM_TIENGGO | speaking on-screen with accurate lip-sync in a native Standard Northern Vietnamese accent — giọng chuẩn miền Bắc; non-speaking characters keep their mouths closed): "Mày đã điểm chỉ máu vào khế ước rồi con ạ… Đêm mai đúng ba giờ sáng… hồn mày phải xuống đáy giếng lạnh thế chỗ cho tao!"
-Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
-
-[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
-- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng tần số trầm (sub-bass drone) ù đặc làm nghẹt lồng ngực; tiếng gỗ lim 150 năm tuổi co giãn 'răng rắc' trong bóng tối lạnh ngắt.
-- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror sound effects (rattling rusted iron chains, deep hollow knocking from inside the stone well, creaking ironwood doors, dripping cold rain, and eerie silence) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
-
-[EDIT IN — Seamless Match-Cut & Temporal Continuity]
-Seamless match-on-action cut directly from Shot 10.2 into Shot 10.3 at 0.0s inside the locked Scene 10 environment (09:20–09:30), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
-
-[START FRAME — state only, matched to previous clip's outgoing state]
-Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @BaCam từ điểm kết của Clip 10.2 tại ANCIENT_COURTYARD_WELL (Dưới ánh chớp lóe lên, `@BaCam` (bà Cầm) từ từ ngẩng mặt lên: cái cổ của bà ta vẹo hẳn sang một bên một góc kỳ dị như lúc ngã gãy cổ dưới giếng, đôi mắt trắng dã nhìn xuyên qua khe cửa vào `@Lam`!).
-
-[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
-`@BaCam` (Bà Cầm) giơ bàn tay khô quắt cầm chùm chìa khóa đồng cào mạnh lên chấn song cửa gỗ kêu *'ken két'*, giọng khàn rợn người. — Khóa chặt tư thế, hướng nhìn của @BaCam và trục máy ở giây 10.0s để nối mượt sang Clip 10.4.
+[9. CONTINUITY & QUALITY RULES]
+- Preserve character facial identity, hair, body proportions, and costume across the entire 10-second shot; hands must have 5 natural fingers and grip props with realistic weight.
+- Never switch narrator gender, accent (must remain 100% Standard Northern Vietnamese / giọng chuẩn miền Bắc), or vocal age/timbre.
+- Full-bleed 16:9 image with no subtitles, no captions, no on-screen text, no watermarks, no black letterbox bars, and never flash or cut to a studio reference portrait backdrop.

@@ -1683,11 +1683,11 @@ def _extract_dialogue_lines(prompt: str) -> list[str]:
 
 
 def _extract_action_beats(prompt: str) -> list[str]:
-    """Trích xuất Beat 1 (0.0–3.0s), Beat 2 (3.0–7.0s), Beat 3 (7.0–10.0s) từ khối [ACTION] để giữ nguyên mạch chuyển cảnh mượt."""
+    """Trích xuất Beat 1 (0.0–3.0s / 0.0s–2.5s), Beat 2 (3.0–7.0s / 2.5s–7.5s), Beat 3 (7.0–10.0s / 7.5s–10.0s) từ khối [ACTION] hoặc [5. CAMERA & TIMED ACTION] để giữ nguyên mạch chuyển cảnh mượt."""
     beats = []
     for raw_line in prompt.splitlines():
         s = raw_line.strip()
-        if re.match(r"^-\s*Beat\s+[123]\b", s, flags=re.IGNORECASE):
+        if re.match(r"^-\s*(?:Beat\s+[123]\b|\d+\.\d+s[–\-]\d+\.\d+s\s*\()", s, flags=re.IGNORECASE):
             beats.append(s)
     return beats
 
@@ -1760,16 +1760,16 @@ def rewrite_prompt_on_failure(
     char_lines = []
     narrator_line = ""
     for line in p.splitlines():
-        s_line = line.strip()
+        s_line = line.strip().lstrip("-").strip()
         if s_line.startswith("@") and "=" in s_line:
-            clean_line = s_line
+            clean_line = "- " + s_line
             for pat, repl in _EN_SAFE_REPLACEMENTS:
                 clean_line = re.sub(pat, repl, clean_line, flags=re.IGNORECASE)
             for k, v in _VI_SAFE_REPLACEMENTS:
                 clean_line = clean_line.replace(k, v)
             char_lines.append(clean_line)
         elif s_line.startswith("Narrator") and "=" in s_line:
-            clean_narr = s_line
+            clean_narr = "- " + s_line
             for pat, repl in _EN_SAFE_REPLACEMENTS:
                 clean_narr = re.sub(pat, repl, clean_narr, flags=re.IGNORECASE)
             for k, v in _VI_SAFE_REPLACEMENTS:
@@ -1786,13 +1786,13 @@ def rewrite_prompt_on_failure(
                 desc = re.sub(pat, repl, desc, flags=re.IGNORECASE)
             for k, v in _VI_SAFE_REPLACEMENTS:
                 desc = desc.replace(k, v)
-            char_lines.append(f"{tag} = {desc}")
+            char_lines.append(f"- {tag} = {desc}")
 
     if narrator_line:
         char_lines.append(narrator_line)
 
-    setting_match = re.search(r"\[(?:SETTING|TIMELINE AND LOCATION)\]\s*\n(?:Scene[^\n]*\n)?([^\n]+)", p)
-    setting_line = setting_match.group(1).strip() if setting_match else "Traditional Northern Vietnamese courtyard and wooden house in atmospheric evening mist."
+    setting_match = re.search(r"(?:\[(?:SETTING|TIMELINE AND LOCATION)\]\s*\n(?:Scene[^\n]*\n)?([^\n]+)|-\s*Location & Architecture:\s*([^\n]+))", p)
+    setting_line = (setting_match.group(1) or setting_match.group(2) or "").strip() if setting_match else "Traditional Northern Vietnamese courtyard and wooden house in atmospheric evening mist."
     setting_line = setting_line[:280]
 
     style_header = (
@@ -1849,15 +1849,17 @@ def rewrite_prompt_on_failure(
             'Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud.\n'
         )
 
+    m_spd = re.search(r"\b(1\.\d{2}x)\b", prompt or "")
+    clip_spd = m_spd.group(1) if m_spd else "1.16x"
     voice_speed_block = (
-        "[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]\n"
-        "All spoken Vietnamese dialogue and off-screen narration must be delivered in a 100% Standard Northern Vietnamese accent (giọng chuẩn miền Bắc) with clear articulation, deep resonant late-night storytelling cadence (42-year-old Hanoi male narrator ~110 Hz mid-baritone at 0.95x speed when VO, or locked character voice when Lip-Sync), and accurate synchronization. "
-        "Strictly forbid Southern Vietnamese (Saigon/Mekong Delta) accent. "
+        "[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC — DUY NHẤT 1 GIỌNG SẮC LẠNH)]\n"
+        f"All spoken Vietnamese dialogue and off-screen narration must be delivered in a 100% Standard Northern Vietnamese accent (giọng chuẩn miền Bắc) with razor-sharp articulation, single locked 42-year-old Northern Vietnamese male narrator voice (VOICE_LOCK_NARRATOR_CNHADG, ~108 Hz dark raspy-edged mid-baritone, gritty vocal fry, zero warmth, dynamic fast pace at {clip_spd} speed when VO, or locked character voice when Lip-Sync), and accurate synchronization. "
+        "Strictly forbid Southern Vietnamese (Saigon/Mekong Delta) or Central accent, and never switch the narrator's vocal identity. "
         "When the off-screen narrator speaks, all on-screen characters keep their mouths naturally closed.\n"
     )
 
     sound_line = (
-        "[SOUND]\nNatural evening room ambience, rain and wind foley, clear Standard Northern Vietnamese voice at 0.95x storytelling speed with 0.15s audio continuity at 0.0s and 10.0s.\n\n"
+        f"[SOUND]\nAtmospheric night room ambience, rain and wind foley, razor-sharp close-mic Standard Northern Vietnamese voice (locked VOICE_LOCK_NARRATOR_CNHADG ~108 Hz at {clip_spd} fast pace) with 0.15s audio continuity at 0.0s and 10.0s.\n\n"
         if has_mc_dinh_soan
         else "[SOUND]\nNatural room ambience, clear Vietnamese dialogue, gentle background instrumental score.\n\n"
     )

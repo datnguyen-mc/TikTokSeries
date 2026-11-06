@@ -63,32 +63,30 @@ os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
 os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
-# 🎙️ QUY ĐỊNH & KHÓA CỐ ĐỊNH GIỌNG ĐỌC NGƯỜI DẪN CHUYỆN (NARRATOR VOICE LOCK — CHUẨN MIỀN BẮC)
+# 🎙️ QUY ĐỊNH & KHÓA CỐ ĐỊNH DUY NHẤT 1 GIỌNG ĐỌC NGƯỜI DẪN CHUYỆN (NARRATOR VOICE LOCK — CHUẨN MIỀN BẮC SẮC LẠNH)
 # -------------------------------------------------------------
 NARRATOR_VOICE_SPEC = {
     "voice_lock_id": "VOICE_LOCK_NARRATOR_CNHADG",
-    "role": "Người Dẫn Chuyện (Off-Screen Male Horror Narrator — 80% thời lượng / 72 Clips)",
-    "style_reference": "MC Đình Soạn — HẺM Truyện Ma (Giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya)",
-    "gender_age": "42-year-old native Hanoi Standard Northern Vietnamese male storyteller (Nam trung niên 42 tuổi chuẩn giọng Hà Nội - miền Bắc)",
+    "role": "Người Dẫn Chuyện (Off-Screen Male Horror Narrator — Single Consistent Voice Across All 90 Clips)",
+    "style_reference": "42–48-year-old native Standard Northern Vietnamese male storyteller, deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, intimate late-night ghost-story style, 125–145 WPM",
+    "gender_age": "42–48-year-old native Standard Northern Vietnamese male storyteller (Nam trung niên 42–48 tuổi chuẩn giọng miền Bắc)",
     "acoustic_profile": (
-        "Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, "
-        "clear and unhurried storytelling articulation (thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya), "
-        "measured 0.95x speaking rate (135 words/min) with haunting 0.4s pauses at ellipses (…), "
-        "crisp Northern Vietnamese consonant distinction (s/x, tr/ch, r/d/gi) and authentic 6-tone Hanoi cadence."
+        "Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, "
+        "intimate late-night Vietnamese ghost-story storytelling style, target speaking speed of 125–145 Vietnamese words per minute "
+        "with natural 0.30s–0.40s pauses at dramatic ellipses (…), crisp Northern Vietnamese phonology (s/x, tr/ch, r/d/gi) "
+        "and authentic 6-tone Northern cadence."
     ),
     "strict_rules": (
-        "1. Cố định 100% một giọng Nam Người Dẫn Chuyện chuẩn miền Bắc (VOICE_LOCK_NARRATOR_CNHADG) xuyên suốt toàn bộ 90 clips (Cảnh 01 -> Cảnh 15). "
-        "2. TUYỆT ĐỐI KHÔNG đổi sang giọng miền Nam (Sài Gòn/Miền Tây), giọng miền Trung, giọng nữ, giọng nam trẻ cao vút hoặc giọng đọc máy công nghiệp. "
-        "3. Trong tất cả các clip VO (Người dẫn chuyện đọc ngoài khung hình), toàn bộ nhân vật xuất hiện trên màn hình PHẢI KHÉP MIỆNG TỰ NHIÊN (mouths remain naturally closed 0.0–10.0s), chỉ diễn xuất bằng ánh mắt, hơi thở và hành động."
+        "1. Use one consistent native Standard Northern Vietnamese male narrator (VOICE_LOCK_NARRATOR_CNHADG, 42–48yo deep warm low-baritone) across all 90 clips. "
+        "2. Target 125–145 Vietnamese words per minute (12–18 words per 10s clip); never switch narrator gender, accent, or vocal identity. "
+        "3. During off-screen narration (VO), all on-screen characters keep their mouths naturally closed (0.0s–10.0s)."
     ),
     "prompt_directive": (
-        "Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller "
-        "(MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện "
-        "chuẩn miền Bắc xuyên suốt 90 clips]: Deep, resonant mid-baritone (~110 Hz), expressive, clear yet bone-chilling "
-        "42-year-old native Hanoi Standard Northern Vietnamese male storyteller voice (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, "
-        "nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x). Strictly lock this exact "
-        "vocal timbre, pitch, and pacing across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or "
-        "high-pitched voice, and never sound like a robotic TTS engine."
+        "Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller "
+        "(VOICE_LOCK_NARRATOR_CNHADG): Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, "
+        "intimate late-night Vietnamese ghost-story storytelling style, 125–145 Vietnamese words per minute. "
+        "Strictly maintain consistent accent, timbre, vocal identity, and perceived age across all 90 clips; "
+        "never switch gender or accent, and keep all on-screen mouths naturally closed during VO."
     ),
 }
 
@@ -370,10 +368,13 @@ def load_and_lock_project_characters(force_remote: bool = False):
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
-    """Chỉ lấy đúng media_id của các nhân vật được khai báo đầu dòng trong khối [CHARACTERS] của shot hiện tại."""
-    if "[CHARACTERS" in prompt:
-        char_block = prompt.split("[CHARACTERS", 1)[1].split("[TIMELINE", 1)[0]
-        defined_tags = re.findall(r"^(@[A-Za-z0-9_]+)\s*=", char_block, flags=re.MULTILINE)
+    """Chỉ lấy đúng media_id của các nhân vật được khai báo đầu dòng trong khối [2. CHARACTER & VOICE LOCK] hoặc [CHARACTERS] của shot hiện tại."""
+    if "[2. CHARACTER & VOICE LOCK]" in prompt or "[CHARACTERS" in prompt:
+        if "[2. CHARACTER & VOICE LOCK]" in prompt:
+            char_block = prompt.split("[2. CHARACTER & VOICE LOCK]", 1)[1].split("[3. SCENE & SPATIAL LOCK]", 1)[0]
+        else:
+            char_block = prompt.split("[CHARACTERS", 1)[1].split("[TIMELINE", 1)[0]
+        defined_tags = re.findall(r"^(?:-\s*)?(@[A-Za-z0-9_]+)\s*=", char_block, flags=re.MULTILINE)
         selected = []
         for tag in defined_tags:
             mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag)
@@ -787,14 +788,14 @@ def fetch_media_video_url(media_id: str) -> str:
 
 def enforce_narrator_and_voice_lock(prompt: str) -> str:
     """
-    Đảm bảo 100% mọi prompt gửi lên Google Flow đều có quy định khóa chặt Giọng Người Dẫn Chuyện
-    (VOICE_LOCK_NARRATOR_CNHADG — Nam 42 tuổi chuẩn miền Bắc, phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x)
+    Đảm bảo 100% mọi prompt gửi lên Google Flow đều có quy định khóa chặt DUY NHẤT 1 Giọng Người Dẫn Chuyện
+    (VOICE_LOCK_NARRATOR_CNHADG — Nam 42 tuổi chuẩn miền Bắc ~108 Hz khàn sắc lạnh, tốc độ nhanh biến thiên 1.10x–1.22x theo cảnh)
     và giọng thoại nhân vật chuẩn miền Bắc, ngay cả khi prompt được làm mềm (retry).
     """
     p = (prompt or "").strip()
     if NARRATOR_VOICE_SPEC["voice_lock_id"] not in p:
         narrator_block = (
-            "\n\n[MANDATORY NARRATOR & VOICE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]\n"
+            "\n\n[MANDATORY NARRATOR & VOICE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC — DUY NHẤT 1 GIỌNG SẮC LẠNH)]\n"
             f"{NARRATOR_VOICE_SPEC['prompt_directive']}\n"
             f"Strict Voice Rules: {NARRATOR_VOICE_SPEC['strict_rules']}\n"
         )
@@ -811,10 +812,12 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
 
     ref_media_ids = get_clip_reference_media_ids(enforced_prompt)
     is_vo_clip = "Off-Screen Male Narrator" in enforced_prompt or "VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen" in enforced_prompt
+    m_speed = re.search(r"\b(1\.\d{2}x)\b", enforced_prompt)
+    clip_speed = m_speed.group(1) if m_speed else "1.16x"
     voice_mode_desc = (
-        f"🎙️ VO Người Dẫn Chuyện ({NARRATOR_VOICE_SPEC['voice_lock_id']} — Nam 42t chuẩn Bắc MC Đình Soạn 0.95x, nhân vật khép miệng)"
+        f"🎙️ VO Người Dẫn Chuyện Duy Nhất ({NARRATOR_VOICE_SPEC['voice_lock_id']} — Nam 42t Bắc ~108Hz khàn sắc lạnh, tốc độ {clip_speed})"
         if is_vo_clip
-        else "🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync chuẩn miền Bắc, khớp khẩu hình)"
+        else f"🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync chuẩn miền Bắc sắc gọn {clip_speed}, khớp khẩu hình)"
     )
 
     if start_image_media_id:

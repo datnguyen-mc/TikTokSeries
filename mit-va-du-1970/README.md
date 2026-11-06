@@ -21,3 +21,4 @@
 - [Tập 22 — Ba Mit giữ nhà: Canh chua cá linh bông điên điển & Nồi cơm cháy đáy](tap-22/README.md)
 - [Tập 23 — Cá rô đồng kho tộ tóp mỡ: Ba Mit tưởng rớt tiền công khuân sầu riêng, hóa ra giắt trên khăn rằn](tap-23/README.md)
 - [Tập 24 — Chiếc áo bà ba vá vai ngày gió chướng & Nồi chè đậu trắng đặc quánh của ba Mit](tap-24/README.md)
+- [Tập 25 — Đôi dép đứt quai của Nở & Màn hất chảo đội nón bánh xèo củ hủ dừa của ba Mit](tap-25/README.md)

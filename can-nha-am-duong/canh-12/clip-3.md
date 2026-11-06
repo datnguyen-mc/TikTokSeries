@@ -1,65 +1,43 @@
-[FORMAT]
-10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering dim 15W filament amber and weathered rural brick browns contrasted with cold midnight indigo-blue shadows, mossy roof tiles, and corpse-pale moonlight mist, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @OngQuan), shot type: CLOSE_UP): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
+[1. FORMAT & MODEL]
+- Duration & Aspect Ratio: 10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, 180-degree cinema shutter.
+- Model & Aesthetics: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video), photorealistic live-action Vietnamese supernatural folk-horror cinema.
+- Visual Look & Grade: Authentic Northern Vietnamese architecture and rural atmosphere, natural skin textures and pores, damp mist, realistic shadows, flickering warm oil-lamp/tungsten amber contrasted against cold midnight cyan-blue darkness, subtle 35mm film grain. Single continuous 10-second camera shot (`Shot 12.3`, film timeline `11:20–11:30`).
 
-[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
-Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
-@OngQuan = Ông Quân — Bố Bình (media_id: e845a88f-7cd2-4b8f-9fa3-e75e7e337674): same approved identity, age 55; stern Northern Vietnamese male office worker, 170 cm, stocky build, short greying crew-cut hair, weathered face with deep frown lines, wearing a collared white dress shirt with rolled sleeves and dark trousers. Voice profile: [VOICE_LOCK_QUAN_CNHADG — Cố định giọng Ông Quân chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 55-year-old native Standard Northern Vietnamese male baritone voice (~105 Hz stern baritone), gravelly, authoritative, hot-tempered at first then deeply remorseful (giọng nam trung niên 55 tuổi chuẩn miền Bắc, trầm đanh, uy nghiêm).
-Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
+[2. CHARACTER & VOICE LOCK]
+Use attached reference images (`media_id`) strictly to lock facial identity, age, hairstyle, and wardrobe inside the live scene. Only the listed characters appear in frame.
+- @OngQuan = Ông Quân (media_id: e845a88f-7cd2-4b8f-9fa3-e75e7e337674 | age 55): Northern Vietnamese male office worker, @Binh's father, 170 cm, stocky build, crew-cut greying hair, stern weathered face with deep frown lines. Wardrobe: white collared dress shirt with rolled sleeves and dark trousers. Character Voice Reference (VOICE_LOCK_QUAN_CNHADG): 55-year-old native Standard Northern Vietnamese male baritone voice (~105 Hz stern baritone), gravelly, authoritative, hot-tempered at first then deeply remorseful (giọng nam trung niên 55 tuổi chuẩn miền Bắc, trầm đanh, uy nghiêm).
+- Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller (VOICE_LOCK_NARRATOR_CNHADG): Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, intimate late-night Vietnamese ghost-story storytelling style. Target speaking speed: 125–145 Vietnamese words per minute (this clip: 125–132 Vietnamese words/minute with 0.40s natural dramatic pauses at ellipses (…); emotional tone: calm, hushed, mysterious, intimate late-night ghost-story delivery). Reuse the same TTS voice ID / acoustic voice reference (VOICE_LOCK_NARRATOR_CNHADG) across all 90 clips, relying on this full acoustic profile rather than a text label alone.
 
-[TIMELINE AND LOCATION]
-Scene 12/15, clip 3/6; shot 12.3 (10.0s | Model: `omni_flash` 10s). Story time: 02:00 Đêm đến 09:00 Sáng (11:00–12:00) (11:20–11:30).
-Main room of the rural house at night where @OngQuan weeps in his sleep as @VongCuXa watches from the mist, transitioning to the misty village cemetery grave and the newly installed mahogany ancestral altar cabinet.
-[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 12 (Clip 1–6)]
-FIXED SCENE 12 SPACE (Từ gian chính đêm khuya ra ngôi mộ đá của cụ Xá và trở lại gian thờ tổ mới lập): Trục chuyển hóa tâm thức liền mạch của Ông Quân từ giấc mơ đêm sang lễ rước bát hương tạ tội.
-Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 12.
+[3. SCENE & SPATIAL LOCK]
+- Scene & Chronology: Scene 12/15 (Giấc Mơ Đẫm Nước Mắt Của Ông Quân & Nén Hương Tạ Tội Trước Mộ Cha), Clip 3/6 (Clip #69/90 | 11:20–11:30). Story Time: 23:00 Đêm thứ sáu đến Sáng hôm sau (11:00–12:00).
+- Location & Architecture: Main room wooden bed at night, misty village rice-field cemetery at dawn, newly installed mahogany altar in the main room, and brick shrine under the jackfruit tree.
+- Spatial Geometry Lock: Progression from the moonlit main hall bed to Cụ Xá's mossy stone grave in the field, then back to the central mahogany altar and gate jackfruit shrine.
+- Key Scene Props: Wooden bed in main room, mossy stone grave in misty rice field, burning incense sticks, newly carved mahogany ancestral altar (tủ thờ gỗ gụ), bronze incense burner and portrait of Cụ Xá, small brick shrine under the jackfruit tree.
 
-[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
-Tờ mờ sáng trong màn sương trắng xóa ngoài nghĩa trang đồng làng, `@OngQuan` với đôi mắt đỏ hoe một mình quỳ sụp trước ngôi mộ đá rêu phong của cụ Xá, thành tâm cắm nén hương trầm nghi ngút khói.
+[4. DRAMATIC OBJECTIVE]
+At dawn in the white mist of the village rice-field cemetery, a red-eyed @OngQuan kneels alone in the wet grass before Cụ Xá's mossy stone grave, bowing deeply as he plants burning incense.
 
-[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
-- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside ANCESTRAL_GRAVE_AND_ALTAR as @OngQuan continues seamlessly from the previous beat. 3.0–7.0s: Tờ mờ sáng trong màn sương trắng xóa ngoài nghĩa trang đồng làng, `@OngQuan` với đôi mắt đỏ hoe một mình quỳ sụp trước ngôi mộ đá rêu phong của cụ Xá, thành tâm cắm nén hương trầm nghi ngút khói. 7.0–10.0s: The camera settles smoothly on @OngQuan's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_CNHADG, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
-- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 12.2 (Máy quay đẩy chậm vào gương mặt đang ngủ của `@OngQuan` dưới ánh trăng lạnh: đôi lông mày ông nhíu chặt đau đớn, hai hàng nước mắt nóng hổi trào ra khỏi khóe mắt khi bóng mờ `@VongCuXa` đứng lặng lẽ bên đầu giường.): máy quay giữ nguyên trục không gian ANCESTRAL_GRAVE_AND_ALTAR và ánh sáng hiện trường, dẫn nhịp chuyển động trực tiếp sang @OngQuan.
-- Beat 2 (3.0–7.0s — Diễn biến & cao trào tâm lý / Core Dramatic Action): Tờ mờ sáng trong màn sương trắng xóa ngoài nghĩa trang đồng làng, `@OngQuan` với đôi mắt đỏ hoe một mình quỳ sụp trước ngôi mộ đá rêu phong của cụ Xá, thành tâm cắm nén hương trầm nghi ngút khói.
-- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @OngQuan, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 12.4 (Trở về gian phòng khách căn nhà cổ, `@OngQuan` xắn tay áo cùng `@Binh` cẩn thận khiêng một chiếc tủ thờ gỗ gụ...).
-Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
+[5. CAMERA & TIMED ACTION]
+- Single Coherent Camera Plan (0.0s–10.0s): 35mm stabilized slow push-in in morning mist. One physically plausible camera movement on a single consistent axis from 0.0s to 10.0s; zero contradictory camera rigs, zero sudden zooms, zero jump cuts.
+- 0.0s–2.5s (Intentional Scene/Location Transition): Clean cinematic transition into Main room wooden bed at night, misty village rice-field cemetery at dawn, newly installed  without forcing false physical continuity from the prior location/time. @OngQuan kneels alone in the misty field cemetery before his father's mossy stone grave.
+- 2.5s–7.5s (Core Dramatic Progression): At dawn in the white mist of the village rice-field cemetery, a red-eyed @OngQuan kneels alone in the wet grass before Cụ Xá's mossy stone grave, bowing deeply as he plants burning incense.
+- 7.5s–10.0s (Outgoing Continuity Settle): @OngQuan plants burning incense sticks into the censer and bows his forehead to the damp earth. Hold a steady 0.5s visual and audio settle at 9.5s–10.0s to bridge cleanly into Clip 12.4.
 
-[BLOCKING AND PERFORMANCE]
-- Spatial Blocking: Characters (@OngQuan) maintain consistent screen positions and eyeline vectors within ANCESTRAL_GRAVE_AND_ALTAR matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
-- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron gates, thin mosquito nets, and ancestral props.
+[6. NARRATION / DIALOGUE]
+- Word Budget & Pacing Check: 18 Vietnamese words (~8.6s active speech window at 125–145 WPM), finishing naturally at 8.8s before the 10.0s clip ends without rushing or truncation.
+- Turn 1 [0.8s–8.8s | 18 Vietnamese words | 125–132 Vietnamese words/minute] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in a 42–48-year-old native Standard Northern Vietnamese deep warm low-baritone, slightly husky, intimate late-night ghost-story style; all on-screen characters keep their mouths naturally closed): "Tờ mờ sáng, ông Quân lặng lẽ ra nghĩa trang làng, quỳ gục hàng giờ trước mộ cha."
+- Lip-Sync & Mouth Lock: Off-screen narration ONLY. All on-screen characters (@OngQuan) keep their mouths naturally closed throughout 0.0s–10.0s, expressing emotion through eyes, breathing, and posture.
+- Spoken Audio Rule: Speak ONLY the Vietnamese words inside quotation marks ("..."). Never read prompt instructions, @tags, character IDs, timestamps, or stage directions aloud.
 
-[CAMERA — Shot Size, Lens, Movement & Continuity]
-- Lens & Shot Type: 50mm, 24 fps, 180-degree shutter, CLOSE_UP.
-- Camera Movement Plan (0.0–10.0s): 50mm tight psychological close-up isolating micro-expressions, cold sweat, and trembling hands. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
+[7. HORROR SOUND DESIGN]
+- Synchronized Scene Audio (0.0s–10.0s): Tiếng gió đồng sớm thổi qua làn khói hương trầm và tiếng nấc nghẹn hối hận của @OngQuan.
+- Mix & Silence Discipline: Keep spoken Standard Northern Vietnamese narration/dialogue clearly audible in the foreground above environmental foley. Use strategic quiet tension, avoid excessive music or generic jump-scare stingers, and maintain a smooth 0.15s ambient room-tone transition at 0.0s and 10.0s.
 
-[PROPS & VISIBLE TEXTURE]
-[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 12]
-FIXED SCENE 12 OBJECTS: (1) Giọt nước mắt chảy dài trên gương mặt nghiêm nghị của Ông Quân trong đêm; (2) Ngôi mộ đá rêu phong của cụ Xá giữa sương sớm; (3) Tủ thờ gỗ gụ mới đặt trang trọng ở gian giữa; (4) Di ảnh cụ Xá, bát hương đồng và ngôi miếu gạch nhỏ dưới gốc mít.
-- Visible Material & Lighting Texture: Peeling lime-washed rural brick walls, mossy roof tiles, gnarled ancient jackfruit bark, sheer white mosquito net fabric under dim 15W amber light against deep midnight shadows.
-Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
+[8. START FRAME & END FRAME]
+- START FRAME (0.0s): @OngQuan kneels alone in the misty field cemetery before his father's mossy stone grave.
+- END FRAME (10.0s): @OngQuan plants burning incense sticks into the censer and bows his forehead to the damp earth.
 
-[BODY, MOUTH AND FACE CONSISTENCY]
-Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
-Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_CNHADG — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
-
-[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
-Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
-- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_CNHADG`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
-- On-Screen Characters (`VOICE_LOCK_BINH_CNHADG` ~135Hz 21yo male, `VOICE_LOCK_PHUONG_CNHADG` ~205Hz 50yo female, `VOICE_LOCK_QUAN_CNHADG` ~105Hz 55yo male, `VOICE_LOCK_BAY_CNHADG` ~115Hz 60yo male, `VOICE_LOCK_CUXA_CNHADG` ~98Hz 80yo spectral elder, `VOICE_LOCK_VONGLA_CNHADG` spectral whisper): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
-Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
-
-[DIALOGUE — Timed to Action (1 turn(s), 45 Vietnamese words)]
-- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Khi trời vừa tờ mờ sáng, chẳng còn thấy ông Quân quát tháo một lời nào nữa… Ông lặng lẽ mua hương hoa ra nghĩa trang đồng làng, một mình quỳ gục trước nấm mộ cỏ mọc xanh rì của cha suốt hàng giờ liền."
-Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
-
-[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
-- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng tần số trầm (sub-bass drone) ù đặc làm nghẹt lồng ngực; tiếng xà gỗ cũ kỹ co giãn 'răng rắc' trong bóng tối lạnh ngắt.
-- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror ambience (howling midnight wind through the jackfruit tree, frogs and crickets in the rice paddies, creaking folding cot, metallic pot crash, and eerie spectral whispers) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
-
-[EDIT IN — Seamless Match-Cut & Temporal Continuity]
-Seamless match-on-action cut directly from Shot 12.2 into Shot 12.3 at 0.0s inside the locked Scene 12 environment (11:20–11:30), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
-
-[START FRAME — state only, matched to previous clip's outgoing state]
-Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @OngQuan từ điểm kết của Clip 12.2 tại ANCESTRAL_GRAVE_AND_ALTAR (Máy quay đẩy chậm vào gương mặt đang ngủ của `@OngQuan` dưới ánh trăng lạnh: đôi lông mày ông nhíu chặt đau đớn, hai hàng nước mắt nóng hổi trào ra khỏi khóe mắt khi bóng mờ `@VongCuXa` đứng lặng lẽ bên đầu giường.).
-
-[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
-Tờ mờ sáng trong màn sương trắng xóa ngoài nghĩa trang đồng làng, `@OngQuan` với đôi mắt đỏ hoe một mình quỳ sụp trước ngôi mộ đá rêu phong của cụ Xá, thành tâm cắm nén hương trầm nghi ngút khói. — Khóa chặt tư thế, hướng nhìn của @OngQuan và trục máy ở giây 10.0s để nối mượt sang Clip 12.4.
+[9. CONTINUITY & QUALITY RULES]
+- Preserve character facial identity, hair, body proportions, and costume across the entire 10-second shot; hands must have 5 natural fingers and grip props with realistic weight.
+- Never switch narrator gender, accent (must remain 100% Standard Northern Vietnamese / giọng chuẩn miền Bắc), or vocal age/timbre.
+- Full-bleed 16:9 image with no subtitles, no captions, no on-screen text, no watermarks, no black letterbox bars, and never flash or cut to a studio reference portrait backdrop.

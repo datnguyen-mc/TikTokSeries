@@ -1,20 +1,15 @@
-# Cảnh 14: Giọt Nước Mắt Giải Oan & Lời Tạ Từ Bên Miệng Giếng (13:00–14:00)
+# Cảnh 14: Giọt Nước Mắt Giải Oan & Lời Tạ Từ Bên Miệng Giếng (6 Clips × 10s = 60s)
 
-- **Thời gian trong truyện:** `03:05 Đêm trăng sáng sau cơn bão (13:00–14:00)`
-- **Model & Chế độ Render:** `omni_flash` (Google Flow Omni — **10 giây/clip**, Ingredients Reference-to-Video, chuẩn **80% Người dẫn chuyện VO `VOICE_LOCK_NARRATOR_TIENGGO` + 20% Thoại nhân vật cao trào**, giọng chuẩn miền Bắc MC Đình Soạn style)
-- **Bối cảnh khóa cố định:** `ANCIENT_COURTYARD_WELL` — Moonlit ancestral courtyard after the storm clears; crystal-clear water fills the open laterite stone well as @CoUt appears in a pure white silk dress to receive her white jade hairpin from @Lam and @CuTu before dissolving into fireflies.
+- **Thời gian:** 03:05 Rạng sáng Đêm thứ ba sau cơn bão (13:00–14:00)
+- **Bối cảnh:** Moonlit Bát Tràng brick courtyard around the unsealed, crystal-clear laterite stone well under a clearing 7th-month full moon.
+- **Trục không gian cố định:** Serene moonlit courtyard axis around the open laterite well between @Lam, @CuTu, and the purified spirit of @CoUt.
+- **Đạo cụ chính:** Open laterite stone well filled with crystal-clear water reflecting the full moon, white jade hairpin placed on the mossy well rim, glowing fireflies ascending into the night sky.
 
-## Khóa Không Gian & Đạo Cụ
-- **Spatial Lock:** FIXED SCENE 14 SPACE (Bên thành giếng đá ong dưới ánh trăng rằm tháng Bảy trong trẻo): Trục lắng đọng cảm xúc giữa @Lam, @CuTu và bóng @CoUt thanh thản siêu thoát.
-- **Props Lock:** FIXED SCENE 14 OBJECTS: (1) Mạch nước giếng trong vắt nhìn thấu đáy đá ong; (2) Chiếc trâm cài tóc ngọc bội trắng @Lam đặt lên thành giếng; (3) Tà áo dài trắng tinh khôi của @CoUt; (4) Hàng ngàn đom đóm sáng bay lên bầu trời trăng.
-
-## Danh Sách 6 Clips (6 × 10s = 60s — Google Flow Omni 10s | Match-On-Action Continuity)
-
-| File | Cỡ Cảnh & Ống Kính | Chế Độ Omni (10s) | Nhân Vật Trên Hình | Hành Động & Chuyển Cảnh Mượt | Thoại Chuẩn Miền Bắc (`80% VO / 20% Lip-Sync`) | Thiết Kế Âm Thanh Gai Góc (`0.0–10.0s`) |
+| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
 |---|---|---|---|---|---|---|
-| `clip-1.md` | `ESTABLISHING_WIDE` (24mm) | Omni 10s R2V | @Lam | Mây đen tan dần trên bầu trời đêm, để lộ ánh trăng rằm tháng Bảy chiếu thẳng xuống mặt sân gạch cổ và miệng giếng đá ong. | **[VO]**: *"Mây đen trên đỉnh đồi dần tan, trả lại ánh trăng rằm tháng Bảy trong trẻo chiếu rọi xuống khoảng sân gạch cổ."* | Tiếng gió đêm rít lạnh buốt qua mái ngói âm dương nghe như tiếng người thở dài dưới đáy giếng; tiếng sương đêm nhỏ giọt 'tách... tách...' xuống nền gạch Bát Tràng rêu phong. |
-| `clip-2.md` | `MEDIUM_SHOT` (35mm) | Omni 10s R2V | @Lam, @CuTu | `@Lam` và `@CuTu` (Cụ Từ) cúi nhìn xuống miệng giếng: dòng nước đen ngòm hôi tanh đã biến mất, thay vào đó là làn nước giếng trong vắt nhìn thấu tận đáy đá ong. | **[VO]**: *"Khi Lâm và cụ Từ nhìn xuống lòng giếng… thứ nước đen ngòm tanh tưởi đã biến mất tự bao giờ, trả lại mạch nước ngầm trong vắt nhìn thấu tận đáy."* | Tiếng bước chân dẫm lên lá đa khô 'lạo xạo' giữa khoảng sân tĩnh mịch; tiếng xích sắt rỉ sét khẽ cọ vào thành đá ong kêu 'keng... kẹt...' khô khốc. |
-| `clip-3.md` | `CLOSE_UP` (50mm) | Omni 10s R2V | @CoUt | Bên cạnh miệng giếng dưới ánh trăng, bóng `@CoUt` hiện lên không còn vẻ đáng sợ ướt sũng bùn đen nữa, mà là một thiếu nữ hiền dịu trong tà áo dài trắng tinh khôi. | **[VO]**: *"Bên thành giếng đá ong dưới ánh trăng bạc, bóng cô Út hiện lên… không còn vẻ oán hận lạnh lẽo, mà trở lại dáng vẻ hiền dịu của người thiếu nữ năm xưa."* | Tiếng tần số trầm (sub-bass drone) ù đặc làm nghẹt lồng ngực; tiếng gỗ lim 150 năm tuổi co giãn 'răng rắc' trong bóng tối lạnh ngắt. |
-| `clip-4.md` | `OVER_SHOULDER` (50mm) | Omni 10s R2V | @Lam | `@Lam` hai tay nâng chiếc trâm cài tóc bằng ngọc bội trắng đặt nhẹ lên thành giếng trước mặt cô. | **[VO]**: *"Lâm thành kính đặt chiếc trâm ngọc trắng lên thành giếng, trả lại kỷ vật cuối cùng cho người con gái bạc mệnh."* | Tiếng ngọn đèn dầu đồng nổ 'bụp' nhỏ rồi chập chờn; tiếng hơi thở gấp gáp nén chặt trong cổ họng giữa không gian đặc quánh mùi hương trầm cũ. |
-| `clip-5.md` | `MEDIUM_CLOSEUP` (50mm) | Omni 10s R2V | @Lam, @CuTu, @CoUt | `@CoUt` khẽ cúi đầu chào `@Lam` và `@CuTu` (Cụ Từ) với nụ cười thanh thản, giọng nói trong trẻo vang nhẹ như gió thoảng. | **[Lip-Sync `@CoUt`]**: *"Đa tạ người đã mở giếng giải oan… Từ nay ngôi nhà này không còn ai phải khóc lúc ba giờ sáng nữa…"* | Tiếng âm thanh hiện trường dội lại lạnh lẽo từ vách gỗ lim và lòng giếng sâu; tiếng kim loại va chạm sắc lạnh làm dựng tóc gáy. |
-| `clip-6.md` | `INSERT_CLOSEUP` (85mm) | Omni 10s R2V | @CoUt | Bóng `@CoUt` hóa thành hàng ngàn đom đóm sáng dịu bay vút lên bầu trời đêm rồi tan vào ánh trăng. | **[VO]**: *"Dứt lời, bóng người thiếu nữ hóa thành muôn vàn đom đóm sáng dịu dàng, bay vút qua mái ngói âm dương rồi tan hẳn vào bầu trời đêm thanh tịnh."* | Tiếng gõ 'cộc... cộc... cộc...' trầm đục vọng lên từ đáy nước sâu thẳm kèm tiếng móng tay cào 'soạt... kết!' lên mặt đá ong ẩm ướt. |
+| [**Clip 1**](clip-1.md) | `@Lam` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Mây đen trên đồi dần tan, trả lại ánh trăng rằm tháng Bảy chiếu sáng sân gạch cổ." | 28mm stabilized gimbal slow tilt-down push-in |
+| [**Clip 2**](clip-2.md) | `@Lam, @CuTu` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Nhìn xuống lòng giếng, làn nước đen đã biến mất, chỉ còn mạch nước trong vắt ánh trăng." | 35mm stabilized over-the-shoulder tilt-down shot |
+| [**Clip 3**](clip-3.md) | `@CoUt` | `VO` | `CALM_MYSTERIOUS` | **17 từ** | "Bên thành giếng dưới trăng bạc, cô Út hiện lên trong tà áo dài trắng tinh khôi." | 50mm stabilized slow push-in |
+| [**Clip 4**](clip-4.md) | `@Lam` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Lâm thành kính đặt chiếc trâm ngọc trắng lên thành giếng, trả kỷ vật cho người thiếu nữ." | 50mm stabilized close-up push-in |
+| [**Clip 5**](clip-5.md) | `@Lam, @CuTu, @CoUt` | `LIPSYNC:@CoUt` | `CALM_MYSTERIOUS` | **18 từ** | "Đa tạ người đã mở giếng giải oan… Từ nay ngôi nhà không còn tiếng khóc đêm nữa." | 35mm stabilized medium shot slow push-in |
+| [**Clip 6**](clip-6.md) | `@CoUt` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Bóng người thiếu nữ hóa thành muôn vàn đom đóm sáng, bay qua mái ngói tan vào trăng." | 28mm stabilized crane-up tilt-up shot |

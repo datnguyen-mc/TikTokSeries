@@ -1,65 +1,43 @@
-[FORMAT]
-10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering oil-lamp amber and aged ironwood browns contrasted with cold midnight rain cyan-blue, moss-green laterite stone, and corpse-pale moonlight shadows, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @CoUt), shot type: CLOSE_UP): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
+[1. FORMAT & MODEL]
+- Duration & Aspect Ratio: 10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, 180-degree cinema shutter.
+- Model & Aesthetics: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video), photorealistic live-action Vietnamese supernatural folk-horror cinema.
+- Visual Look & Grade: Authentic Northern Vietnamese architecture and rural atmosphere, natural skin textures and pores, damp mist, realistic shadows, flickering warm oil-lamp/tungsten amber contrasted against cold midnight cyan-blue darkness, subtle 35mm film grain. Single continuous 10-second camera shot (`Shot 11.3`, film timeline `10:20–10:30`).
 
-[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
-Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
-@CoUt = Oan Hồn Cô Út Nhài (media_id: 9bdbd6ce-ef97-4c01-98e0-8b97370abd22): same approved identity, age 19–22; tragic Northern Vietnamese maiden drowned in the ancient laterite well 50 years ago, 160 cm, pale water-drenched porcelain complexion (clean atmospheric ghost appearance, no gore), long wet black hair clinging to her cheeks and partly veiling her left eye, sorrowful haunting dark eyes. Wardrobe: water-soaked mud-stained off-white traditional silk dress (áo lụa trắng ngả màu bùn nước), a rusted iron chain cuff with broken links on her wrist, barefoot. Voice profile: [VOICE_LOCK_COUT_TIENGGO — Cố định giọng Cô Út chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 19-year-old native Standard Northern Vietnamese spectral young female voice (~235 Hz ethereal soprano), echoing, fragile, wet and bone-chilling at 0.85x–0.90x speed (giọng thiếu nữ chuẩn miền Bắc, ai oán, thanh mảnh, vọng từ đáy giếng).
-Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_TIENGGO — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
+[2. CHARACTER & VOICE LOCK]
+Use attached reference images (`media_id`) strictly to lock facial identity, age, hairstyle, and wardrobe inside the live scene. Only the listed characters appear in frame.
+- @CoUt = Oan Hồn Cô Út Nhài (media_id: 9bdbd6ce-ef97-4c01-98e0-8b97370abd22 | age 19): Tragic Northern Vietnamese young maiden apparition sealed inside the laterite well 50 years ago, 160 cm, pale water-drenched porcelain skin, long wet black hair clinging to her cheeks, sorrowful dark eyes. Wardrobe: mud-stained off-white traditional Vietnamese silk áo dài dress, rusted iron chain cuff with broken links on her wrist, barefoot. Character Voice Reference (VOICE_LOCK_COUT_TIENGGO): 19-year-old native Standard Northern Vietnamese spectral young female voice (~235 Hz ethereal soprano), sorrowful, fragile, echoing from the deep well (giọng thiếu nữ 19 tuổi chuẩn miền Bắc, thanh mảnh, ai oán).
+- Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller (VOICE_LOCK_NARRATOR_TIENGGO): Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, intimate late-night Vietnamese ghost-story storytelling style. Target speaking speed: 125–145 Vietnamese words per minute (this clip: 138–145 Vietnamese words/minute with 0.30s controlled dramatic pauses at ellipses (…); emotional tone: controlled urgency, gripped with dread, sharp and visceral climax delivery). Reuse the same TTS voice ID / acoustic voice reference (VOICE_LOCK_NARRATOR_TIENGGO) across all 90 clips, relying on this full acoustic profile rather than a text label alone.
 
-[TIMELINE AND LOCATION]
-Scene 11/15, clip 3/6; shot 11.3 (10.0s | Model: `omni_flash` 10s). Story time: 02:45 Rạng sáng Đêm thứ ba (10:00–11:00) (10:20–10:30).
-Main ironwood ancestral hall at 02:45 AM during a violent storm; black well-water bubbles up through the floorboards ankle-deep as the black silk cover burns off the bronze mirror and @CoUt steps out before @Lam and @CuTu.
-[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 11 (Clip 1–6)]
-FIXED SCENE 11 SPACE (Gian thờ chính gỗ lim ngập nước giếng đen trước chiếc gương đồng cổ): Trục đối diện giữa @Lam cầm búa sắt cùng trâm ngọc trắng, @CuTu và @CoUt bước ra từ mặt gương.
-Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 11.
+[3. SCENE & SPATIAL LOCK]
+- Scene & Chronology: Scene 11/15 (Đêm Thứ Ba (02:45 Sáng) — Nước Giếng Đen Tràn Ngập & Bóng Ma Bước Ra Từ Gương), Clip 3/6 (Clip #63/90 | 10:20–10:30). Story Time: 02:45 Rạng sáng Đêm thứ ba (10:00–11:00).
+- Location & Architecture: Ancestral main hall flooding ankle-deep with black well water around the rippling antique bronze mirror.
+- Spatial Geometry Lock: Main hall axis from @Lam and @CuTu holding the iron sledgehammer toward the burning black veil and rippling bronze mirror.
+- Key Scene Props: Heavy iron sledgehammer, white jade hairpin, antique pendulum clock at 02:45, ankle-deep black well water seeping through floorboards, bronze mirror rippling like water.
 
-[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
-Tấm khăn lụa đen trên chiếc gương đồng tự bốc cháy thành tro xám. Mặt gương đồng gợn sóng như mặt nước giếng, và từ trong gương, bàn tay trắng bệch của `@CoUt` vươn thẳng ra ngoài đời thực!
+[4. DRAMATIC OBJECTIVE]
+The black silk veil on the antique bronze mirror bursts into eerie blue-green flames and turns to ash; the bronze mirror surface ripples like deep well water as @CoUt steps straight out into the room.
 
-[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
-- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside IRONWOOD_ANCESTRAL_HALL as @CoUt continues seamlessly from the previous beat. 3.0–7.0s: Tấm khăn lụa đen trên chiếc gương đồng tự bốc cháy thành tro xám. Mặt gương đồng gợn sóng như mặt nước giếng, và từ trong gương, bàn tay trắng bệch của `@CoUt` vươn thẳng ra ngoài đời thực! 7.0–10.0s: The camera settles smoothly on @CoUt's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_TIENGGO, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
-- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 11.2 (Từ dưới các khe ván sàn gỗ lim và từ chân chiếc gương đồng cổ, từng dòng nước giếng đen ngòm, lạnh buốt bắt đầu sủi bọt và tràn ngập khắp mặt sàn nhà!): máy quay giữ nguyên trục không gian IRONWOOD_ANCESTRAL_HALL và ánh sáng đèn dầu/mưa đêm, dẫn nhịp chuyển động trực tiếp sang @CoUt.
-- Beat 2 (3.0–7.0s — Diễn biến & cao trào kinh dị / Core Dramatic Action): Tấm khăn lụa đen trên chiếc gương đồng tự bốc cháy thành tro xám. Mặt gương đồng gợn sóng như mặt nước giếng, và từ trong gương, bàn tay trắng bệch của `@CoUt` vươn thẳng ra ngoài đời thực!
-- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @CoUt, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 11.4 (`@CoUt` đứng giữa gian phòng ngập nước, mái tóc đen dài ướt đẫm xõa xuống tận sàn, đôi mắt đẫm lệ nhìn chiếc b...).
-Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
+[5. CAMERA & TIMED ACTION]
+- Single Coherent Camera Plan (0.0s–10.0s): 35mm stabilized slow push-in on mirror. One physically plausible camera movement on a single consistent axis from 0.0s to 10.0s; zero contradictory camera rigs, zero sudden zooms, zero jump cuts.
+- 0.0s–2.5s (Seamless Incoming Continuity): Preserve the exact ending state, lighting, and character axis from Clip 11.2. The black silk cloth on the bronze mirror ignites in cold blue flame and falls away.
+- 2.5s–7.5s (Core Dramatic Progression): The black silk veil on the antique bronze mirror bursts into eerie blue-green flames and turns to ash; the bronze mirror surface ripples like deep well water as @CoUt steps straight out into the room.
+- 7.5s–10.0s (Outgoing Continuity Settle): @CoUt steps barefoot out of the rippling bronze mirror onto the flooded wooden floor. Hold a steady 0.5s visual and audio settle at 9.5s–10.0s to bridge cleanly into Clip 11.4.
 
-[BLOCKING AND PERFORMANCE]
-- Spatial Blocking: Characters (@CoUt) maintain consistent screen positions and eyeline vectors within IRONWOOD_ANCESTRAL_HALL matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
-- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron chains, wet laterite stone, and ancient ironwood props.
+[6. NARRATION / DIALOGUE]
+- Word Budget & Pacing Check: 18 Vietnamese words (~8.6s active speech window at 125–145 WPM), finishing naturally at 8.8s before the 10.0s clip ends without rushing or truncation.
+- Turn 1 [0.8s–8.8s | 18 Vietnamese words | 138–145 Vietnamese words/minute] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_TIENGGO | speaking off-screen in a 42–48-year-old native Standard Northern Vietnamese deep warm low-baritone, slightly husky, intimate late-night ghost-story style; all on-screen characters keep their mouths naturally closed): "Tấm khăn đen bốc lửa xanh cháy rụi… mặt gương gợn sóng rồi cô Út bước ra ngoài!"
+- Lip-Sync & Mouth Lock: Off-screen narration ONLY. All on-screen characters (@CoUt) keep their mouths naturally closed throughout 0.0s–10.0s, expressing emotion through eyes, breathing, and posture.
+- Spoken Audio Rule: Speak ONLY the Vietnamese words inside quotation marks ("..."). Never read prompt instructions, @tags, character IDs, timestamps, or stage directions aloud.
 
-[CAMERA — Shot Size, Lens, Movement & Continuity]
-- Lens & Shot Type: 50mm, 24 fps, 180-degree shutter, CLOSE_UP.
-- Camera Movement Plan (0.0–10.0s): 50mm tight psychological close-up isolating micro-expressions, cold sweat, and trembling hands. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
+[7. HORROR SOUND DESIGN]
+- Synchronized Scene Audio (0.0s–10.0s): Tiếng lửa ma trơi bùng cháy 'phựt' và tiếng nước rẽ sóng khi bóng ma bước ra khỏi mặt gương.
+- Mix & Silence Discipline: Keep spoken Standard Northern Vietnamese narration/dialogue clearly audible in the foreground above environmental foley. Use strategic quiet tension, avoid excessive music or generic jump-scare stingers, and maintain a smooth 0.15s ambient room-tone transition at 0.0s and 10.0s.
 
-[PROPS & VISIBLE TEXTURE]
-[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 11]
-FIXED SCENE 11 OBJECTS: (1) Cây búa sắt lớn và chiếc trâm ngọc bội trắng trên tay @Lam; (2) Nước giếng đen ngòm dâng ngập sàn gỗ lim; (3) Chiếc gương đồng cổ gợn sóng như mặt nước; (4) Giọt nước mắt trên gò má tái nhợt của @CoUt.
-- Visible Material & Lighting Texture: Mossy porous laterite stone (đá ong rêu phong), rusted iron chains dripping black well water, glossy 150-year-old dark ironwood grain, flickering brass oil-lamp amber shadows against deep abyssal midnight darkness.
-Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
+[8. START FRAME & END FRAME]
+- START FRAME (0.0s): The black silk cloth on the bronze mirror ignites in cold blue flame and falls away.
+- END FRAME (10.0s): @CoUt steps barefoot out of the rippling bronze mirror onto the flooded wooden floor.
 
-[BODY, MOUTH AND FACE CONSISTENCY]
-Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
-Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_TIENGGO — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
-
-[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
-Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
-- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_TIENGGO`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
-- On-Screen Characters (`VOICE_LOCK_LAM_TIENGGO` ~130Hz 27yo male, `VOICE_LOCK_BACAM_TIENGGO` ~175Hz 78yo female, `VOICE_LOCK_CUTU_TIENGGO` ~95Hz 80yo elder male, `VOICE_LOCK_COUT_TIENGGO` ~235Hz 19yo spectral female): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
-Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
-
-[DIALOGUE — Timed to Action (1 turn(s), 45 Vietnamese words)]
-- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_TIENGGO | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Tấm khăn lụa đen trên mặt gương tự bốc lửa xanh cháy rụi… Mặt gương đồng gợn sóng sùng sục như miệng giếng sâu, và từ trong bóng tối ấy, vong hồn cô Út ướt đẫm nước đen từ từ bước thẳng ra gian nhà!"
-Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
-
-[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
-- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng tần số trầm (sub-bass drone) ù đặc làm nghẹt lồng ngực; tiếng gỗ lim 150 năm tuổi co giãn 'răng rắc' trong bóng tối lạnh ngắt.
-- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror sound effects (rattling rusted iron chains, deep hollow knocking from inside the stone well, creaking ironwood doors, dripping cold rain, and eerie silence) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
-
-[EDIT IN — Seamless Match-Cut & Temporal Continuity]
-Seamless match-on-action cut directly from Shot 11.2 into Shot 11.3 at 0.0s inside the locked Scene 11 environment (10:20–10:30), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
-
-[START FRAME — state only, matched to previous clip's outgoing state]
-Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @CoUt từ điểm kết của Clip 11.2 tại IRONWOOD_ANCESTRAL_HALL (Từ dưới các khe ván sàn gỗ lim và từ chân chiếc gương đồng cổ, từng dòng nước giếng đen ngòm, lạnh buốt bắt đầu sủi bọt và tràn ngập khắp mặt sàn nhà!).
-
-[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
-Tấm khăn lụa đen trên chiếc gương đồng tự bốc cháy thành tro xám. Mặt gương đồng gợn sóng như mặt nước giếng, và từ trong gương, bàn tay trắng bệch của `@CoUt` vươn thẳng ra ngoài đời thực! — Khóa chặt tư thế, hướng nhìn của @CoUt và trục máy ở giây 10.0s để nối mượt sang Clip 11.4.
+[9. CONTINUITY & QUALITY RULES]
+- Preserve character facial identity, hair, body proportions, and costume across the entire 10-second shot; hands must have 5 natural fingers and grip props with realistic weight.
+- Never switch narrator gender, accent (must remain 100% Standard Northern Vietnamese / giọng chuẩn miền Bắc), or vocal age/timbre.
+- Full-bleed 16:9 image with no subtitles, no captions, no on-screen text, no watermarks, no black letterbox bars, and never flash or cut to a studio reference portrait backdrop.

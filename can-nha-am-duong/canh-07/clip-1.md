@@ -1,64 +1,65 @@
-# CLIP 1 — CẢNH 07: XOONG RƠI VÀ BÓNG TỐI
+[FORMAT]
+10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering dim 15W filament amber and weathered rural brick browns contrasted with cold midnight indigo-blue shadows, mossy roof tiles, and corpse-pale moonlight mist, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @Binh), shot type: ESTABLISHING_WIDE): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
 
-## [FORMAT]
-- **Engine:** omni_flash (Google Flow Omni 10s Ingredients Reference-to-Video)
-- **Duration:** 10.0s (0.0s–10.0s)
-- **Aspect Ratio:** 16:9 widescreen
-- **Frame Rate:** 24fps
-- **Style:** Photorealistic
-- **Genre:** SUPERNATURAL_FOLK_HORROR
-- **Color Grade:** Gritty Vietnamese folk-horror — near-total darkness, faint blue moonlight seeping through window slats, deep blacks, the barest suggestion of shapes. Claustrophobic, oppressive.
+[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
+@Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a): same approved identity, age 21; Northern Vietnamese male senior university student, 172 cm, thin pale build, messy short black hair, exhausted dark eyes with heavy dark circles underneath, wearing a faded charcoal-grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack. Voice profile: [VOICE_LOCK_BINH_CNHADG — Cố định giọng Bình chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
-## [CHARACTERS]
-- @Binh — Bình: 21-year-old Vietnamese male university student, 172cm, thin pale build, messy short black hair, tired dark eyes with dark circles, wearing a wrinkled white T-shirt and boxer shorts (sleeping clothes). Lying on a wooden bed frame with a thin mat, covered by a light blanket, inside a mosquito net. Eyes closed, body shifting restlessly.
+[TIMELINE AND LOCATION]
+Scene 07/15, clip 1/6; shot 07.1 (10.0s | Model: `omni_flash` 10s). Story time: 02:15 Rạng sáng (06:00–07:00) (06:00–06:10).
+Pitch-black kitchen and adjoining main room of the rural house at 2:15 AM; cracked cement floor, wooden window with iron bars looking out toward the jackfruit tree, lit by a flickering 15W bulb and smartphone flashlight.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 07 (Clip 1–6)]
+FIXED SCENE 07 SPACE (Từ chiếc giường xếp bước xuống gian bếp tối om và khung cửa sổ gỗ nhìn ra gốc mít lúc 02:15 sáng): Trục máy quay liền mạch theo bước chân Bình nhặt chiếc xoong nhôm đến chấn song cửa sổ.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 07.
 
-## [TIMELINE AND LOCATION]
-- **Time:** Night, approximately 1:30 AM — "Đêm thứ ba" (Third night)
-- **Location:** Interior of the haunted house — Bình's makeshift bedroom. Simple wooden bed frame with thin sleeping mat, white mosquito net draped around it. Bare brick walls with peeling whitewash. A single window with wooden shutters, moonlight leaking through slats. Old wooden shelf against the far wall holding kitchen items including aluminum pots (xoong nhôm). A phone and flashlight on the floor beside the bed.
+[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
+Đêm thứ ba trong căn nhà hoang: `@Binh` đang thiu thiu ngủ trên giường xếp trong bóng tối thì từ dưới gian bếp tiếp giáp vang lên tiếng 'CHOANG!!' chói tai của kim loại rơi xuống nền gạch.
 
-## [DRAMATIC INTENT]
-Build unbearable tension through silence and stillness before the shattering crash. The quiet breathing, the darkness, the restless sleep — all create a false lull that makes the pot crash maximally startling. The narrator's delivery should be whispered, intimate, as if telling the story right beside the audience's ear in the dark.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside DARK_RURAL_KITCHEN as @Binh continues seamlessly from the previous beat. 3.0–7.0s: Đêm thứ ba trong căn nhà hoang: `@Binh` đang thiu thiu ngủ trên giường xếp trong bóng tối thì từ dưới gian bếp tiếp giáp vang lên tiếng 'CHOANG!!' chói tai của kim loại rơi xuống nền gạch. 7.0–10.0s: The camera settles smoothly on @Binh's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_CNHADG, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Chuyển cảnh mượt mà từ cuối Cảnh 06 sang không gian DARK_RURAL_KITCHEN của Cảnh 07 (02:15 Rạng sáng (06:00–07:00)): máy quay mở trục ESTABLISHING_WIDE (24mm) thiết lập bầu không khí tâm linh với sự hiện diện của @Binh.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào tâm lý / Core Dramatic Action): Đêm thứ ba trong căn nhà hoang: `@Binh` đang thiu thiu ngủ trên giường xếp trong bóng tối thì từ dưới gian bếp tiếp giáp vang lên tiếng 'CHOANG!!' chói tai của kim loại rơi xuống nền gạch.
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @Binh, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 07.2 (`@Binh` giật bắn mình vén màn bước xuống gian bếp, bật đèn pin điện thoại soi xuống nền gạch: chiếc xoong nhôm...).
+Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
-## [ACTION]
-- 0.0s–4.0s: Dark screen fading in to reveal the bedroom interior. Near-total darkness — moonlight through shutters casts thin blue lines across the floor. Camera slowly drifts across the room toward the bed. @Binh's form under the mosquito net, breathing slowly — asleep but restless. A thin sheet rises and falls.
-- 4.0s–7.5s: Extreme close-up through the mosquito net mesh — @Binh's face, eyes closed. Sweat on his brow. His eyelids flutter. He shifts on the pillow. The camera holds. Silence except breathing. The narrator whispers.
-- 7.5s–9.0s: Static wide shot of the dark room. Beat of absolute silence.
-- 9.0s–10.0s: CRASH — RẦM! An aluminum pot falls from the shelf, hitting the floor with a violent metallic bang. The sound shatters the silence. @Binh's body under the net jerks violently upright.
+[BLOCKING AND PERFORMANCE]
+- Spatial Blocking: Characters (@Binh) maintain consistent screen positions and eyeline vectors within DARK_RURAL_KITCHEN matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
+- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron gates, thin mosquito nets, and ancestral props.
 
-## [PROPS]
-- Wooden bed frame with thin sleeping mat
-- White mosquito net (màn) draped over bed
-- Thin cotton sheet/blanket
-- Wooden shutters (cửa chớp) with moonlight leaking through
-- Old wooden shelf holding aluminum pots, bowls, kitchen items
-- Phone and flashlight on floor beside bed
-- Bare brick walls with peeling whitewash
+[CAMERA — Shot Size, Lens, Movement & Continuity]
+- Lens & Shot Type: 24mm, 24 fps, 180-degree shutter, ESTABLISHING_WIDE.
+- Camera Movement Plan (0.0–10.0s): 24mm stabilized gimbal slow creeping push-in establishing spatial geometry and atmospheric folk-horror dread. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
-## [BODY, MOUTH AND FACE CONSISTENCY]
-- @Binh: Lying on his side (0.0s–4.0s), body curled slightly, breathing rhythmically. Face visible through mosquito net mesh (4.0s–7.5s) — eyes closed, mouth slightly open, sweat beading on forehead and upper lip. At 9.0s: full-body jolt — torso snaps upright, arms fly out, mouth opens in a gasp. Head swivels toward the sound.
+[PROPS & VISIBLE TEXTURE]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 07]
+FIXED SCENE 07 OBJECTS: (1) Chiếc xoong nhôm cũ móp méo rơi giữa nền gạch; (2) Đèn pin điện thoại run rẩy của Bình; (3) Bóng đèn dây tóc chập điện tắt phụt rồi bật sáng; (4) Năm ngón tay trắng nhợt móng đen của @VongLa bấu lên bệ cửa sổ gỗ.
+- Visible Material & Lighting Texture: Peeling lime-washed rural brick walls, mossy roof tiles, gnarled ancient jackfruit bark, sheer white mosquito net fabric under dim 15W amber light against deep midnight shadows.
+Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
-## [VOICE & DIALOGUE LOCK]
-- **Narrator:** VOICE_LOCK_NARRATOR_CNHADG — Deep bone-chilling 40-year-old Standard Northern Vietnamese male horror storyteller. Whispered, intimate — as if speaking directly into the audience's ear in total darkness. Pace: very slow, with deliberate pauses.
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
+Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_CNHADG — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
 
-## [DIALOGUE]
-| Timestamp | Speaker | Type | Vietnamese Text |
-|-----------|---------|------|-----------------|
-| 1.0s–7.5s | Narrator | Voiceover (whisper) | "Đêm thứ ba. Bình vừa chợp mắt thì—" |
+[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
+Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_CNHADG`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_BINH_CNHADG` ~135Hz 21yo male, `VOICE_LOCK_PHUONG_CNHADG` ~205Hz 50yo female, `VOICE_LOCK_QUAN_CNHADG` ~105Hz 55yo male, `VOICE_LOCK_BAY_CNHADG` ~115Hz 60yo male, `VOICE_LOCK_CUXA_CNHADG` ~98Hz 80yo spectral elder, `VOICE_LOCK_VONGLA_CNHADG` spectral whisper): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
-*[Narrator cuts off abruptly at 7.5s. 1.5 seconds of dead silence. Then the crash at 9.0s.]*
+[DIALOGUE — Timed to Action (1 turn(s), 40 Vietnamese words)]
+- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Đêm thứ ba… khi cả xóm làng đã chìm sâu vào giấc ngủ chết chóc và Bình vừa mới chợp mắt, thì từ dưới gian bếp tối om, một tiếng động chói tai bỗng nổ vang xé toạc màn đêm!"
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
-## [SOUND]
-- **Ambience:** Near-silence — distant crickets muffled by walls, the faintest wind outside. Interior has a tomb-like quiet quality.
-- **Foley:** @Binh's slow breathing (through nose, slightly congested), fabric rustling as he shifts (5.0s), then — at 9.0s: LOUD aluminum pot hitting cement floor — metallic crash, ringing, rolling. @Binh's sharp gasp.
-- **Music:** None until 9.0s. Complete sonic emptiness. At 9.0s: a percussive stinger — single bass drum hit simultaneous with the crash, felt more than heard.
-- **Sound Design:** The crash at 9.0s should be mixed LOUD — a genuine jump-scare volume spike relative to the whispered scene. Reverb in the empty room.
-- **Mix:** Narrator (whisper) 50% | Ambience 15% | Crash SFX 100% (spike)
+[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
+- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng gió đêm rít lạnh buốt qua tán mít cổ thụ nghe như tiếng người thở dài; tiếng dế kêu và ếch nhái vọng lên từ cánh đồng lúa tối mịt.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror ambience (howling midnight wind through the jackfruit tree, frogs and crickets in the rice paddies, creaking folding cot, metallic pot crash, and eerie spectral whispers) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-## [EDIT IN]
-- Fade from black — slow, 1.5 seconds. Signals transition to a new night, a new chapter of horror.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Smooth atmospheric scene transition from Scene 06 into Scene 07 Shot 07.1 at 0.0s (06:00–06:10) via Google Flow Omni 10s (`omni_flash`), establishing DARK_RURAL_KITCHEN with consistent cinematic grading. Never flash or display any studio reference portrait or grey backdrop.
 
-## [START FRAME]
-Near-total darkness. Barely perceptible: thin blue moonlight lines from window shutters cutting across a bare floor. The ghostly white shape of a mosquito net over a bed. Oppressive, suffocating blackness. A room holding its breath.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình mở đầu Cảnh 07 tại DARK_RURAL_KITCHEN (02:15 Rạng sáng (06:00–07:00)) với @Binh trong bố cục ESTABLISHING_WIDE (24mm).
 
-## [END FRAME]
-Wide shot of the dark room — @Binh jerking upright in bed, mosquito net billowing. On the floor in the foreground: an aluminum pot on its side, still rocking, catching a sliver of moonlight. The crash still reverberating. Chaos breaking silence.
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+Đêm thứ ba trong căn nhà hoang: `@Binh` đang thiu thiu ngủ trên giường xếp trong bóng tối thì từ dưới gian bếp tiếp giáp vang lên tiếng 'CHOANG!!' chói tai của kim loại rơi xuống nền gạch. — Khóa chặt tư thế, hướng nhìn của @Binh và trục máy ở giây 10.0s để nối mượt sang Clip 07.2.

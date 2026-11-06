@@ -1,56 +1,29 @@
-# Tây Du Ký 2026 — Tập 16: Cấm bóp còi thì… hét
+# Tây Du Ký 2026 — Tập 16: Tổng kết hot & drama đêm khuya: Trend cấm bóp còi chuyển sang hét, hàng xóm karaoke tra tấn & cú quạt Ba Tiêu của La Sát
 
-**Ngày 16** · **⚡ Tập xu hướng ngày 04/11/2026** · Tập 30s = 3 clip × 10s · 9:16 · hoạt hình 2D · thoại tiếng Việt · không chữ trên video
+**Ngày 16** · **⚡ Tập Hài 60 Giây Tổng Kết Hot & Drama Của Ngày (`6 clips × 10s = 60s`)** · **9:16 Dọc** · **Hoạt hình 2D** · **Thoại tiếng Việt giọng miền Nam**
 
-**⚡ Vì sao hot:** từ 01/11/2026 thành phố Thâm Quyến (Trung Quốc) cấm ô tô bấm còi 24/24 trên mọi tuyến đường, phạt 300 NDT (khoảng 1 triệu đồng), dùng thiết bị dò âm thanh định vị xe bấm còi trong bán kính 80 m. Tài xế hạ kính hét to để xin đường, có người phát loa phóng thanh nhỏ qua cửa sổ, có người mang còi cổ vũ thể thao. VnExpress viết: "Trên mạng xã hội, nhiều người ví đường phố Thâm Quyến lúc này giống Hoa Quả Sơn" ([VnExpress, 03/11/2026 15:42](https://vnexpress.net/tai-xe-het-lon-de-xin-duong-vi-lenh-cam-bop-coi-5140225.html); [VOV](https://vov.vn/the-gioi/tham-quyen-trung-quoc-cam-o-to-bam-coi-toan-thanh-pho-2424-gio-post1341876.vov)). Dân mạng tự đem Hoa Quả Sơn, quê của Ngộ Không, ra so sánh, nên đây là tin hợp nhất với Tây Du Ký trong ngày. Kiểm tra lúc 04/11/2026.
-
-**Đã quét và không chọn (04/11):** RSS Google Trends VN (bầu cử giữa kỳ Mỹ, CKTG Liên Minh Huyền Thoại IG vs TES, nhà máy giày 1.600 công nhân giải thể, đường sắt cao tốc, Hoắc Kiến Hoa): chính trị, game, người thật, tin buồn. Collins chọn "mogging" làm từ của năm 2026 ([Tuổi Trẻ 04/11](https://tuoitre.vn/mogging-la-gi-ma-duoc-chon-lam-tu-cua-nam-100261103220821155.htm)): để dành, hợp cho một tập "Thầy đẹp trai nhất nhà". Xăng, điện, gas, lương tối thiểu: Phèo tập 16 đã dùng.
-
-> **Tập 16 cũ** (Nhờ bấm giùm điện thoại, 5 clip, tin ngày 02/11) chưa render clip nào và tin đã quá khung 24–48 giờ, nên được thay bằng tập này. Bản cũ còn trong git, commit `b144d4b`.
-
-> **Cách dựng:** Clip 1: **Video → Gemini Omni → Ingredients**, 10s, đính `TDK_REF_GROUP` (hoặc `TDK_REF_DAICA_A`, `TDK_REF_HEOLUOI`), `TDK_REF_BACHMA`, `TDK_REF_LASAT`, `TDK_REF_THAY`, dán prompt. Clip 2, Clip 3: **Save frame** khung cuối clip trước → **Frames**, đặt làm **Start frame**, 10s, dán prompt (runner tự nối khung cuối). Ghép 3 clip trong Scenebuilder. Chi tiết: FLOW_GUIDE mục 1.
-> **Copy prompt:** mỗi file `clip-{số}.md` chỉ chứa đúng prompt: mở file, bấm Cmd+A rồi Cmd+C, dán thẳng vào ô prompt của Flow, không sửa gì.
-> **Khóa nhân vật, bối cảnh, ảnh tham chiếu:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Quy trình, xử lý lỗi:** [FLOW_GUIDE.md](../../FLOW_GUIDE.md)
-
-← Hôm trước: [Tập 15 — Chùa online gõ mõ công đức & Bẫy cúng dường dỏm](../tap-15/README.md)
+> **Định dạng chuẩn 60s Tổng Kết Hot & Drama Trong Ngày:**
+> - **Clip 1 (00:00–00:10):** Mở màn bắt sóng ngay trend/drama số 1 đang gây bão mạng xã hội (`Ingredients`: `@Thay`, `@DaiCa`, `@HeoLuoi`, `@UtKho`)
+> - **Clip 2 (00:10–00:20):** Đại Ca & Heo Lười đu trend biến tướng lố bịch + phép thuật 72 phép biến hóa (`Frames` nối mượt từ Clip 1)
+> - **Clip 3 (00:20–00:30):** Bóc tiếp drama số 2 trong ngày với góc nhìn châm biếm sâu cay (`Frames` nối mượt từ Clip 2)
+> - **Clip 4 (00:30–00:40):** Đẩy cao trào liên hoàn các thói hư tật xấu/drama mạng xã hội (`Frames` nối mượt từ Clip 3)
+> - **Clip 5 (00:40–00:50):** Chị chủ La Sát xuất hiện bóc trần sự thật / phản ứng dây chuyền (`Frames` nối mượt từ Clip 4)
+> - **Clip 6 (00:50–01:00):** Cú lật kèo quạt Ba Tiêu / sao kê + câu đúc kết nhẹ nhàng sâu sắc của Thầy (`Frames` nối mượt từ Clip 5)
 
 ---
 
-**Tóm tắt:** 10 giờ rưỡi đêm, Heo Lười chạy xe về tới hẻm với bịch hủ tiếu thì Bạch Mã nằm ngủ chắn ngang cổng. Heo Lười định bóp còi, Đại Ca thò gậy gạt tay: mười giờ đêm rồi, cấm bóp còi. Heo Lười giơ điện thoại: bên Thâm Quyến cấm còi thì người ta hét. Heo Lười hét "Tránh đường!", ngựa vẫn ngáy. Đại Ca chê nhỏ, biến thành cái loa vàng mặt khỉ rú một tiếng, cả hẻm bật đèn, chó sủa, gà gáy. La Sát mở cửa: "Tưởng Hoa Quả Sơn hả?" Thầy bước ra, vuốt cổ Bạch Mã, ngựa đứng dậy nhường đường không một tiếng động. Heo Lười mừng quá chồm tới, cái bụng đè trúng nút còi. La Sát quạt một phát, Heo Lười xoay vòng vô nhà.
+## 1. Tóm tắt bản tin hài 60s tổng kết hot & drama trong ngày
+Clip hài 60 giây (6 clip × 10s) tổng kết liên hoàn các trend hot và drama gây bão mạng trong ngày: (1) Trend tài xế cấm bóp còi ban đêm chuyển sang hạ kính hét xin đường như Hoa Quả Sơn; (2) Đại Ca hóa phép biến thành loa phóng thanh vàng mặt khỉ đọ âm lượng; (3) Drama hàng xóm kéo loa kẹo kéo hát karaoke lệch tông tra tấn cả xóm lúc nửa đêm; (4) Drama đặt đồ ăn đêm ship tới cổng rồi tắt máy trốn nhận hàng; (5) Thầy dùng lời nói nhẹ nhàng mở đường êm ru nhưng cái bụng bự của Heo Lười lại vô tình đè trúng nút còi xe; (6) Chị chủ La Sát bung quạt Ba Tiêu thổi bay cả hội về phòng, chốt sổ bản tin drama đêm khuya!
 
-**Phép chính:** 72 phép biến hóa, Đại Ca hóa loa vàng mặt khỉ (lấy ý từ tin tài xế Thâm Quyến phát loa qua cửa sổ). **Kiểu lật kèo:** cả tập giành nhau xin đường bằng tiếng ồn, người nói nhỏ nhất lại mở được đường, và cái bụng của Heo Lười bóp còi thay chủ.
+## 2. Danh sách 6 Clip Prompt (Copy nguyên file dán vào Google Flow)
 
-**Bài học nhỏ đời thật:** Luật Trật tự, an toàn giao thông đường bộ 2024 quy định không sử dụng còi từ 22 giờ hôm trước đến 05 giờ hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên ([LSVN, 13/01/2025](https://lsvn.vn/quy-dinh-ve-su-dung-den-tin-hieu-coi-khi-tham-gia-giao-thong-a151640.html), bài dẫn Điều 21; [Báo Quốc tế](https://baoquocte.vn/khi-lai-xe-trong-khu-do-thi-va-dong-dan-cu-tru-cac-khu-vuc-co-bien-cam-su-dung-coi-nguoi-lai-xe-duoc-su-dung-coi-nhu-the-nao-292587.html) dẫn Điều 24; chưa mở được văn bản gốc để chốt số điều, nên caption chỉ ghi tên luật). Mức phạt xe máy theo Nghị định 168/2024 chưa kiểm được, nên không nói trong thoại hay caption.
+| Clip | Thời gian | Nội dung phân cảnh | File Prompt |
+| :---: | :---: | :--- | :---: |
+| **Clip 1** | `00:00–00:10` | Mở màn bắt trend & drama số 1 trong ngày | [clip-1.md](clip-1.md) |
+| **Clip 2** | `00:10–00:20` | Đại Ca & Heo Lười đu trend lố đà | [clip-2.md](clip-2.md) |
+| **Clip 3** | `00:20–00:30` | Tổng kết tiếp drama nóng số 2 trong ngày | [clip-3.md](clip-3.md) |
+| **Clip 4** | `00:30–00:40` | Cao trào phông bạt / khui sự thật dở khóc dở cười | [clip-4.md](clip-4.md) |
+| **Clip 5** | `00:40–00:50` | Chị chủ La Sát nhập cuộc xử đẹp | [clip-5.md](clip-5.md) |
+| **Clip 6** | `00:50–01:00` | Cái kết lật kèo & câu chốt tỉnh người của Thầy | [clip-6.md](clip-6.md) |
 
-## Kịch bản nhanh (30 giây)
-
-| Giây | Hình | Thoại |
-| --- | --- | --- |
-| 0–2 | **Hook:** cận ngón tay Heo Lười sắp bấm còi, đầu gậy vàng thò vô gạt ra | — |
-| 2–5 | Hẻm đêm, Bạch Mã ngủ chắn cổng, Đại Ca treo ngược trên ban công | Đại Ca: "Mười giờ đêm rồi, cấm bóp còi nghen!" |
-| 5–8 | Heo Lười giơ điện thoại | Heo Lười: "Bên Thâm Quyến cấm còi, người ta hét nè!" |
-| 8–10 | Heo Lười hít một hơi, bụng phồng như trái banh | — |
-| 10–11,5 | Hét, sóng âm hoạt hình chạy dọc hẻm | Heo Lười: "Tránh đường!" |
-| 11,5–14 | Ngựa vẫn ngáy; Đại Ca biến thành loa vàng mặt khỉ | Đại Ca: "Hét nhỏ xíu, coi Đại Ca nè!" |
-| 14–16 | Loa rú, cả hẻm bật đèn, chó sủa, gà gáy | — |
-| 16–18,5 | La Sát đập cửa bước ra | La Sát: "Mấy đứa! Tưởng Hoa Quả Sơn hả?" |
-| 18,5–20 | La Sát giơ quạt, Đại Ca và Heo Lười đứng hình | — |
-| 20–22,5 | Thầy vuốt cổ Bạch Mã, ngựa lặng lẽ đứng dậy nhường đường | — |
-| 22,5–25 | Thầy cười hiền | Thầy: "Nói nhỏ là có đường mà, đồ nhi." |
-| 25–26,5 | Heo Lười chồm tới, bụng đè nút còi: BÍÍP | — |
-| 26,5–28,5 | Quạt bung "phạch" | Heo Lười: "Oan! Cái bụng bấm mà!" |
-| 28,5–30 | Gió vàng thổi Heo Lười cùng chiếc xe xoay vòng vô nhà; khung thumbnail | — |
-
-Thoại cả tập: 7 câu, 46 âm tiết, câu dài nhất 9 âm tiết. Mở bằng ngón tay sắp bấm còi, kết bằng cái bụng bấm còi.
-
-## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
-
-| Clip | Thời gian | Cách tạo | File prompt |
-| --- | --- | --- | --- |
-| 1 | 00:00–00:10 | Ingredients (22:30): đính `TDK_REF_GROUP`, `TDK_REF_BACHMA`, `TDK_REF_LASAT`, `TDK_REF_THAY` | [clip-1.md](clip-1.md) |
-| 2 | 00:10–00:20 | Frames: start frame = khung cuối clip 1 (La Sát xuất hiện, khóa đầy đủ trong prompt) | [clip-2.md](clip-2.md) |
-| 3 | 00:20–00:30 | Frames: start frame = khung cuối clip 2 (Thầy xuất hiện, khóa đầy đủ trong prompt) | [clip-3.md](clip-3.md) |
-
-**Bối cảnh:** dùng HẺM TRƯỚC NHÀ (mục 2.2 của bible) nhưng đổi sang ban đêm 22:30: cửa sổ trên lầu tắt đèn lúc đầu, đèn dây và ánh trăng. Chiếc xe tay ga xanh nhạt của Heo Lười và bịch hủ tiếu là đạo cụ riêng của tập.
-
-- **Caption:** [caption.md](caption.md)
+- **Caption & Hashtag:** [caption.md](caption.md)

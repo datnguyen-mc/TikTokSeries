@@ -2,7 +2,7 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** **từ Tập 16, mỗi tập 30 giây = 3 clip × 10s, mỗi tập là một tin hot top trend trong 24–48 giờ** (Tập 8–15 giữ độ dài cũ 30–60s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **bắt buộc check tin hot** (mục Tin hot top trend bên dưới) và Search Google để cập nhật đúng sự kiện, giá cả và chi tiết đời sống Sài Gòn thực tế.
+**Định dạng chuẩn bắt buộc:** **Mỗi tập là CLIP HÀI 60 GIÂY (`6 clip × 10s = 60s`) TỔNG KẾT HOT TREND VÀ DRAMA CỦA NGÀY** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **bắt buộc tổng hợp các tin hot, xu hướng mạng xã hội và drama ồn ào nhất trong ngày** thành một câu chuyện hài hước liền mạch 60 giây tại nhà trọ hẻm Sài Gòn của 4 thầy trò Đường Tăng (`@Thay`, `@DaiCa`, `@HeoLuoi`, `@UtKho`) và chị chủ `La Sát`.
 
 **Đặt tên file:** video `TDK_T01_C1_v1` (tập 01, clip 1, phiên bản 1) · ảnh tham chiếu `TDK_REF_<TÊN>` (xem mục 4)
 
@@ -26,15 +26,19 @@ README của series mới chỉ có ý tưởng chung, nên tạo hình dưới 
 - **Màu phép thuật:** mọi hiệu ứng phép (gậy dài ra, mây bay, gió quạt) đều có ánh vàng, để thống nhất cả series.
 - **Tỉ lệ chiều cao:** Út Khờ cao nhất, rồi đến La Sát và Thầy (ngang nhau). Heo Lười thấp hơn Thầy một cái đầu nhưng ngang gấp đôi. Đại Ca thấp nhất, chỉ tới ngực Thầy.
 
-**Từ Tập 16: tập 30 giây = 3 clip, mỗi tập một tin hot top trend** (người dùng yêu cầu 04/11/2026: "làm tin hot thiệt hot top trend"):
+**Cấu trúc chuẩn bắt buộc (Clip Hài 60 Giây = 6 Clip × 10s — Tổng Kết Hot & Drama Của Ngày):**
+Mỗi tập là một **Bản Tin Hài Tổng Kết Hot Trend & Drama Mạng Xã Hội Trong Ngày (`60s = 6 clip × 10s`)** diễn ra tại căn nhà trọ hẻm Sài Gòn của 4 thầy trò Đường Tăng (`@Thay`, `@DaiCa`, `@HeoLuoi`, `@UtKho`) và chị chủ `La Sát`:
 
-| Clip | Giây | Việc của clip |
+| Clip | Giây | Việc của clip (Cấu trúc 60s Tổng Kết Hot & Drama Của Ngày) |
 | --- | --- | --- |
-| 1 | 0–10 | **Hook 0–2 giây** bằng một cảnh lạ, không thoại (ngón tay sắp bấm, đồ vật bay, mặt ai đó đứng hình); rồi một nhân vật nhắc tin hot bằng một câu đời thường (cầm điện thoại, nghe hàng xóm kể), không đọc như bản tin |
-| 2 | 10–20 | Phép thuật ra tay theo đúng chi tiết của tin (Tập 16: tài xế Thâm Quyến phát loa → Đại Ca hóa loa vàng) và leo thang; La Sát hoặc một nhân vật khác xuất hiện |
-| 3 | 20–30 | Lật kèo trong 5 giây đầu clip, câu hiền của Thầy hoặc punchline; 2 giây cuối là khung thumbnail, nếu được thì lặp lại hình mở đầu (Tập 16: mở bằng ngón tay bấm còi, kết bằng cái bụng bấm còi) |
+| 1 | 0–10 | **Hook 0–2 giây & Tin Hot / Drama #1 trong ngày:** Mở màn bằng một hành động bắt trend lố bịch của Heo Lười hoặc Đại Ca; khơi mào ngay vụ việc / trào lưu đang gây bão mạng xã hội trong ngày bằng câu thoại đời thường hài hước |
+| 2 | 10–20 | **Tin Hot / Drama #2 & Màn bóc phốt / bày mưu:** Đại Ca, Út Khờ và Thầy tung hứng thêm tin nóng thứ hai trong ngày; Đại Ca rút gậy Như Ý bày kế dùng phép thuật xử lý tình huống |
+| 3 | 20–30 | **Phép thuật 72 biến ra tay & Lỗi kỹ thuật dở khóc dở cười (Drama #3):** Đại Ca hoặc Heo Lười thi triển phép thuật bám sát chi tiết drama/trend trong ngày nhưng phép bị lỗi nửa mùa (ví dụ: hóa tôm hùm lòi đuôi mì gói, hóa cằm V-line méo tường, hóa loa phóng thanh nổ bình ắc quy) |
+| 4 | 30–40 | **Cao trào leo thang & Chị chủ La Sát xuất hiện (Drama #4):** Chị chủ `La Sát` cầm quạt Ba Tiêu bước vào đúng lúc phép thuật phản tác dụng, kéo theo drama tiền trọ / sao kê / kiểm tra phòng làm cả bọn nhốn nháo |
+| 5 | 40–50 | **Đổ thừa & Phát hiện bất ngờ:** Đại Ca và Heo Lười quýnh quáng đổ thừa nhau hoặc kêu `"Oan!"`, trước khi Út Khờ thật thà chỉ ra sự thật tréo ngoe ngay trước mắt |
+| 6 | 50–60 | **Lật kèo chốt sổ bằng quạt Ba Tiêu & Câu hiền của Thầy:** Cú quạt Ba Tiêu dẹp loạn hoặc câu đúc kết hiền hậu mà thấm thía của Thầy (`"A Di Đà Phật..."`); 1–2 giây cuối là khung hình Thumbnail 5 nhân vật |
 
-Không thêm clip thứ 4 trừ khi người dùng yêu cầu. Clip 1 làm bằng Ingredients và đính ảnh của **mọi** nhân vật xuất hiện trong tập (kể cả người chỉ vào ở Clip 2–3); Clip 2–3 nối khung cuối clip trước, nhân vật mới vào khung thì dán FULL LOCK của người đó trong [CHARACTERS].
+Luôn đảm bảo đủ **6 clip × 10s = 60 giây** cho mỗi tập tổng kết hot và drama của ngày. Clip 1 làm bằng Ingredients và đính ảnh của **mọi** nhân vật xuất hiện trong tập; Clip 2–6 nối khung cuối clip trước (`Seamless Frame Chaining`), nhân vật mới vào khung thì dán FULL LOCK của người đó trong `[CHARACTERS]`.
 
 **Tin hot top trend (bắt buộc từ Tập 16):**
 1. **Quét trong ngày viết:** [RSS Google Trends VN](https://trends.google.com/trending/rss?geo=VN&hl=vi), RSS VnExpress (tin nổi bật, thời sự, đời sống, giải trí), Dân trí, Tuổi Trẻ (nhịp sống trẻ), trang khám phá TikTok qua nguồn thứ cấp. Tin phải lên báo trong 24–48 giờ và còn trong khung đó lúc đăng.

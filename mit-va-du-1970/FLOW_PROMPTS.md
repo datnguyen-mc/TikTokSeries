@@ -2,21 +2,21 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)** tùy câu chuyện · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt · không chữ trên video · **Bắt buộc tuân thủ tiêu chuẩn HIGH-END CINEMATIC 3D ANIMATION**.
+**Định dạng chuẩn bắt buộc:** mỗi tập là **PHIM NGẮN TÌNH CẢM GIA ĐÌNH NHỮNG NĂM 1970 CẢM ĐỘNG & HÀI HƯỚC (`60 giây = 6 clip × 10s`)** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt giọng miền Tây tự nhiên · không chữ trên video · **Bắt buộc tuân thủ tiêu chuẩn HIGH-END CINEMATIC 3D ANIMATION**.
 
-**Thế giới:** Miền Tây Nam Bộ (Bến Tre – Cái Mơn) năm 1970. Cả nhà Mit – Đú – Nở là **chó nhân hóa 3D đi đứng bằng hai chân (bipedal)**, **bàn tay dạng chân thú phủ lông với đúng 4 ngón (four-fingered furry paw-hands)**, **tai mềm và rủ xuống tự nhiên (soft floppy ears hanging down — tuyệt đối không chuyển thành tai nhọn dựng đứng)**, không có con người và không có chó bốn chân. Tông màu hoài cổ ấm áp (vàng mật ong, xanh lúa, nâu đất), ánh sáng toàn cục mềm (soft global illumination), vật liệu và lông thú có chiều sâu, hạt film 35mm nhẹ, giọng miền Tây tự nhiên.
+**Thế giới:** Miền Tây Nam Bộ (Bến Tre – Cái Mơn) những năm 1970. Cả nhà `@Mit` – `@Đú` – `@Nở` là **chó nhân hóa 3D đi đứng bằng hai chân (bipedal)**, **bàn tay dạng chân thú phủ lông với đúng 4 ngón (four-fingered furry paw-hands)**, **tai mềm và rủ xuống tự nhiên (soft floppy ears hanging down — tuyệt đối không chuyển thành tai nhọn dựng đứng)**, không có con người và không có chó bốn chân. Tông màu hoài cổ ấm áp (vàng mật ong, xanh lúa, nâu đất), ánh sáng toàn cục mềm (soft global illumination), vật liệu và lông thú có chiều sâu, hạt film 35mm nhẹ, giọng miền Tây tự nhiên.
 
-
-> **Từ Tập 22: mỗi tập là một tập hài thời sự đặt ở năm 1970** (yêu cầu ngày 04/11/2026: lấy mốc những năm 70 nhưng chủ đề phải là chuyện đang hot hiện tại). Tập 1–21 giữ nguyên.
-> - **Chọn chuyện nóng:** trước khi viết, quét Google Trends VN (RSS) và RSS VnExpress, Dân trí, Tuổi Trẻ; chọn chuyện trong 48 giờ gần nhất mà người xem đang bàn tán (đời sống gia đình, giá cả, lương thưởng, thời tiết, mùa vụ, chuyện lạ có hậu). Ghi nguồn vào README và mục ngày đó trong [TRENDS.md](../TRENDS.md).
-> - **Dịch sang năm 1970:** tìm phiên bản Cái Mơn năm 1970 của chuyện đó (ngân hàng → sổ biên nhận lúa, giá vàng → nhẫn cỏ, chồng ở nhà nội trợ → ba Mit giữ nhà cho má đi bán). Nhân vật **không** nhắc năm 2026, không dùng từ hay đồ vật hiện đại (điện thoại, chuyển khoản, mạng, lương triệu đồng). README có bảng **Chuyện nóng hôm nay → chuyện nhà Mít năm 1970**.
-> - **Món ăn, sản vật đúng mùa thật:** ưu tiên món hoặc sản vật đang vào mùa ở miền Tây đúng thời điểm đăng (ví dụ đầu tháng 11 là mùa nước nổi: cá linh, bông điên điển), công thức có nguồn.
-> - **Hài tối thiểu mỗi tập:** (1) một câu cửa miệng lặp 2–3 lần rồi bị lật ở cuối (ví dụ ba Mit: "dễ ợt!"); (2) ít nhất một gag hình thể không thoại (lửa bùng dính lọ nghẹ, mặt nhăn, trượt bùn); (3) câu chốt hoặc twist của bé Nở. Tông vẫn ấm áp: cười với nhân vật, không chê bai ai, kết bằng tình thương gia đình.
-> - **Thoại:** câu ngắn khẩu ngữ miền Tây, mỗi clip tối đa khoảng 31 âm tiết, mỗi mốc giây một câu, không quá 4,5 âm tiết/giây (Tập 20–21 có câu hơn 40 âm tiết trong 4 giây, không lặp lại).
-> - **Cầu nối với hôm nay** chỉ nằm ở `caption.md`: mục **📌 Chuyện hôm nay** (tóm tắt tin, ghi tên báo và ngày, không nêu tên người thật) và bình luận ghim là câu hỏi cho người xem.
-> - **Không dùng:** tai nạn, án mạng, thiên tai có thiệt hại, chính trị, chiến tranh, người nổi tiếng hay người thật, thương hiệu, xổ số, cờ bạc.
-> - **Bối cảnh liền một mạch:** mọi clip nối frame cuối, nên tập đi bộ liền giữa sân trước và trong nhà tre (hoặc một bối cảnh), không cắt cứng sang nơi khác. Nhân vật mới bước vào clip thì dán FULL LOCK dưới nhãn `[CHARACTER ENTERING THIS SEGMENT]`.
-> - **Đăng trong 24–48 giờ** kể từ ngày tin ra.
+> **Cấu trúc chuẩn bắt buộc (Phim Tình Cảm Gia Đình Những Năm 1970 Cảm Động & Hài Hước — 60s = 6 Clip × 10s):**
+> - **Chủ đề cốt lõi:** Khắc họa chân thực, xúc động và duyên dáng đời sống gia đình miền Tây Nam Bộ thập niên 1970 — cái nghèo mộc mạc nơi mái nhà tranh vách tre, bếp củi, xuồng ba lá nhưng ngập tràn tiếng cười và sự hy sinh thầm lặng của người chồng (`@Mit`), người vợ tảo tần (`@Đú`) và cô con gái nhỏ hiếu thảo (`@Nở`). **Tuyệt đối không gượng ép tin tức hiện đại năm 2026 làm mất chất hoài cổ thập niên 1970.**
+> - **Nhịp 6 clip (60 giây) chuẩn điện ảnh cảm xúc:**
+>   1. **Clip 1 (00:00–00:10) — Mở màn mộc mạc & Hài hước đời thường:** Khung cảnh quê nhà năm 1970 ấm áp; ba `@Mit` hào hứng khoe chiến tích đi làm/bắt cá/nấu ăn với tính hay nổ đáng yêu.
+>   2. **Clip 2 (00:10–00:20) — Tình huống dở khóc dở cười (Physical Gag):** Ba `@Mit` hậu đậu làm lố (lửa bếp củi bùng dính lọ nghẹ, trượt bùn, nấu đặc quánh, hoặc giấu quà vụng về) cùng câu trêu ngây thơ của bé `@Nở`.
+>   3. **Clip 3 (00:20–00:30) — Nốt trầm thiếu thốn thập niên 1970:** Chi tiết đời thực chạm vào trái tim (chiếc áo bà ba sờn vai của má `@Đú`, đôi bàn tay phồng rộp vì khuân vác của ba `@Mit`, hay bữa cơm quê đạm bạc ngày mưa gió).
+>   4. **Clip 4 (00:30–00:40) — Sự hy sinh thầm lặng vì gia đình:** Ba `@Mit` và má `@Đú` âm thầm nhường nhịn nhau miếng ăn ngon nhất, dành dụm từng đồng bạc lẻ từ mồ hôi nước mắt để lo cho nhau và cho bé `@Nở`.
+>   5. **Clip 5 (00:40–00:50) — Cao trào cảm động rưng rưng nước mắt:** Khoảnh khắc má `@Đú` hoặc bé `@Nở` phát hiện ra sự hy sinh thầm lặng của người thân, ôm chầm lấy nhau dưới ánh đèn dầu hay hiên nhà tranh.
+>   6. **Clip 6 (00:50–01:00) — Cái kết ấm áp & Câu chốt hài hước trong nước mắt:** Cả nhà quây quần bên mâm cơm quê/nồi chè nóng, bé `@Nở` tung câu chốt hồn nhiên lém lỉnh làm cả nhà vừa lau nước mắt vừa bật cười hạnh phúc.
+> - **Thoại:** câu ngắn khẩu ngữ miền Tây thập niên 1970 (mình ơi, nghen, hà, thiệt tình, dễ ợt, bự chảng), mỗi clip tối đa khoảng 31 âm tiết, không quá 4,5 âm tiết/giây.
+> - **Bối cảnh liền một mạch:** mọi clip nối frame cuối (`Seamless Frame Chaining`) giữa sân trước và trong nhà tre. Nhân vật mới bước vào clip thì dán FULL LOCK dưới nhãn `[CHARACTER ENTERING THIS SEGMENT]`.
 ---
 
 ## Tiêu chuẩn bắt buộc (HIGH-END CINEMATIC 3D ANIMATION STANDARD)

@@ -1,58 +1,65 @@
-# CLIP 3 — CẢNH 11: GỌI CHO BỐ
+[FORMAT]
+10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering dim 15W filament amber and weathered rural brick browns contrasted with cold midnight indigo-blue shadows, mossy roof tiles, and corpse-pale moonlight mist, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @Binh), shot type: CLOSE_UP): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
 
-## [FORMAT]
-- Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video)
-- Duration: 10.0s (0.0s–10.0s)
-- Aspect Ratio: 16:9 widescreen
-- Frame Rate: 24fps
-- Style: Photorealistic
-- Genre: SUPERNATURAL_FOLK_HORROR
-- Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc)
-- Color Grade: Gritty Vietnamese folk-horror — cold blue-grey dawn on @Binh's side, emotional warmth breaking through as tears fall, soft golden edge-light suggesting vulnerability and sincerity
+[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
+@Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a): same approved identity, age 21; Northern Vietnamese male senior university student, 172 cm, thin pale build, messy short black hair, exhausted dark eyes with heavy dark circles underneath, wearing a faded charcoal-grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack. Voice profile: [VOICE_LOCK_BINH_CNHADG — Cố định giọng Bình chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
-## [CHARACTERS]
-- @Binh — Bình: 21-year-old Vietnamese male university student, 172cm, thin pale build, messy short black hair, tired dark eyes brimming with tears, wearing faded grey hoodie. Phone pressed to ear, voice cracking with desperate pleading.
-- @OngQuan — Ông Quân (voice only): 55-year-old Vietnamese male, heard through phone speaker — still angry but momentarily silenced by son's words.
+[TIMELINE AND LOCATION]
+Scene 11/15, clip 3/6; shot 11.3 (10.0s | Model: `omni_flash` 10s). Story time: 08:00 Sáng đến 15:00 Chiều (10:00–11:00) (10:20–10:30).
+Front porch and brick courtyard of the rural house under pale daylight as @Binh calls his father and @OngQuan and @BaPhuong arrive at the iron gate.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 11 (Clip 1–6)]
+FIXED SCENE 11 SPACE (Hiên nhà và khoảng sân gạch trước cổng sắt căn nhà cổ): Trục xung đột trực diện giữa Bình quỳ trên sân gạch, Ông Quân giận dữ và Bà Phượng khóc can ngăn.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 11.
 
-## [TIMELINE AND LOCATION]
-- Time: Early morning, continuous from Clip 2.
-- Location: Village veranda — same position. Dawn light slightly warmer now, mist thinning. @Binh hasn't moved from his seated position.
+[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
+Ngoài hiên nhà quê, `@Binh` nắm chặt điện thoại, nước mắt chảy dài trên gò má tái nhợt nhưng giọng nói đanh lại, quỳ thẳng trên thềm gạch không hề né tránh.
 
-## [DRAMATIC INTENT]
-Bình's desperate, vulnerable plea — the emotional core of Scene 11. Despite knowing his father will likely hit him, Bình begs Ông Quân to come home and apologize to the grandfather's spirit. This is courage born from supernatural terror — Bình has seen what unresolved guilt does to the dead. His tears and cracking voice must move the audience.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside ABANDONED_ANCESTRAL_COURTYARD as @Binh continues seamlessly from the previous beat. 3.0–7.0s: Ngoài hiên nhà quê, `@Binh` nắm chặt điện thoại, nước mắt chảy dài trên gò má tái nhợt nhưng giọng nói đanh lại, quỳ thẳng trên thềm gạch không hề né tránh. 7.0–10.0s: The camera settles smoothly on @Binh's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. From 2.0–8.5s, @Binh speaks the Vietnamese line aloud on-screen with accurate lip-sync in a Standard Northern Vietnamese accent (VOICE_LOCK_BINH_CNHADG) while all other characters keep their mouths closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 11.2 (Ở đầu dây bên kia, `@OngQuan` đứng bên cửa sổ ánh sáng gắt, gương mặt đỏ gay đanh thép gầm lên dữ dội vào chiếc điện thoại đang áp chặt bên tai.): máy quay giữ nguyên trục không gian ABANDONED_ANCESTRAL_COURTYARD và ánh sáng hiện trường, dẫn nhịp chuyển động trực tiếp sang @Binh.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào tâm lý / Core Dramatic Action): Ngoài hiên nhà quê, `@Binh` nắm chặt điện thoại, nước mắt chảy dài trên gò má tái nhợt nhưng giọng nói đanh lại, quỳ thẳng trên thềm gạch không hề né tránh.
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @Binh, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 11.4 (Tiếng máy cúp cái rập từ đầu dây bên kia; `@Binh` từ từ hạ điện thoại xuống lòng bàn tay, lặng lẽ ngồi trên bậ...).
+Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
-## [ACTION]
-0.0s–2.5s: Close-up on @Binh's face — tears welling in his eyes. He takes a shuddering breath, steeling himself to speak. His lips part, trembling.
-2.5s–6.0s: Medium close-up — @Binh speaks into the phone, voice breaking. One hand comes up to cover his eyes briefly (3.5s–4.5s), then drops as he forces himself to continue. Tears streak down his cheeks.
-6.0s–8.5s: @Binh's free hand grips the veranda post beside him, knuckles white. He leans forward slightly, head bowing as he makes his plea. Voice raw and desperate.
-8.5s–10.0s: @Binh pulls phone away slightly, presses it against his forehead, eyes closed. Waiting. A beat of terrible silence from the other end.
+[BLOCKING AND PERFORMANCE]
+- Spatial Blocking: Characters (@Binh) maintain consistent screen positions and eyeline vectors within ABANDONED_ANCESTRAL_COURTYARD matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
+- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron gates, thin mosquito nets, and ancestral props.
 
-## [PROPS]
-- Old smartphone pressed to @Binh's right ear
-- Weathered wooden veranda post (left side of frame)
-- Dawn mist in background, jackfruit tree silhouette
+[CAMERA — Shot Size, Lens, Movement & Continuity]
+- Lens & Shot Type: 50mm, 24 fps, 180-degree shutter, CLOSE_UP.
+- Camera Movement Plan (0.0–10.0s): 50mm tight psychological close-up isolating micro-expressions, cold sweat, and trembling hands. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
-## [BODY, MOUTH AND FACE CONSISTENCY]
-- @Binh: Tears begin at 1.0s — single tear left eye, then right. By 5.0s both cheeks streaked. Lip tremble constant from 0.0s. Brow furrowed upward in anguish (not anger). Hand covers eyes 3.5s–4.5s — wipes tears. Voice-synced lip movements 2.5s–8.5s, precise Vietnamese phonemes. Chin dimples with suppressed sobbing at 7.0s. Adam's apple bobs with hard swallow at 8.5s.
+[PROPS & VISIBLE TEXTURE]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 11]
+FIXED SCENE 11 OBJECTS: (1) Chiếc điện thoại trong tay Bình lúc gọi thẳng cho bố; (2) Cánh cổng sắt mở toang khi Ông Quân và Bà Phượng bước vào sân; (3) Dáng quỳ chịu tội của Bình trên sân gạch; (4) Ánh mắt vừa giận vừa xót của Bà Phượng.
+- Visible Material & Lighting Texture: Peeling lime-washed rural brick walls, mossy roof tiles, gnarled ancient jackfruit bark, sheer white mosquito net fabric under dim 15W amber light against deep midnight shadows.
+Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
-## [VOICE & DIALOGUE LOCK]
-- Bình: VOICE_LOCK_BINH_CNHADG — Young 21-year-old nervous Standard Northern Vietnamese male voice. Trembling, cracking, raw emotion. Not whining — genuine anguish and desperate courage. Voice breaks on "xin bố."
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
+Mouth & Lip-Sync Map: 0.0–2.0s: All characters keep mouths closed in tense silence, continuing motion smoothly from the previous beat. 2.0–8.5s: @Binh speaks on-screen with accurate Vietnamese lip-sync (VOICE_LOCK_BINH_CNHADG — giọng chuẩn miền Bắc) while all other on-screen characters keep their mouths closed. 8.5–10.0s: Mouths closed, holding the horror/emotional reaction into the outgoing cut.
 
-## [DIALOGUE]
-**[BÌNH — ON-SCREEN]** (2.5s–8.5s):
-"Bố... con biết con sai. Con gọi thế này... tức là con chuẩn bị tinh thần rồi. Bố muốn đánh con bao nhiêu cũng được. Nhưng xin bố... hãy về quê. Về xin lỗi ông nội. Xin bố..."
+[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
+Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_CNHADG`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_BINH_CNHADG` ~135Hz 21yo male, `VOICE_LOCK_PHUONG_CNHADG` ~205Hz 50yo female, `VOICE_LOCK_QUAN_CNHADG` ~105Hz 55yo male, `VOICE_LOCK_BAY_CNHADG` ~115Hz 60yo male, `VOICE_LOCK_CUXA_CNHADG` ~98Hz 80yo spectral elder, `VOICE_LOCK_VONGLA_CNHADG` spectral whisper): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
-## [SOUND]
-- Ambient: Muted village dawn — distant rooster, gentle breeze. Sounds feel distant, muffled, as if the world has narrowed to this phone call.
-- Foley: Shuddering breath (0.5s), phone creak against ear (shifting grip at 4.5s), fabric rustle (6.0s), knuckles tightening on wood (6.5s — faint creak)
-- Music: Single sustained violin note, pianissimo, tremolo. Achingly fragile. A second note enters at 6.0s forming a minor interval — unbearable sadness.
-- Phone: Faint silence/static from @OngQuan's end — he's listening despite his rage
+[DIALOGUE — Timed to Action (1 turn(s), 39 Vietnamese words)]
+- Turn 1 [2.0–8.5s] On-Screen Character @Binh (VOICE_LOCK_BINH_CNHADG | speaking on-screen with accurate lip-sync in a native Standard Northern Vietnamese accent — giọng chuẩn miền Bắc; non-speaking characters keep their mouths closed): "Bố ơi… Con gọi cuộc điện thoại này là con đã chấp nhận chịu đòn của bố rồi. Bố đánh gãy chân con cũng được, nhưng con van bố… hãy về quê xin lỗi ông nội đi bố ơi!"
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
-## [EDIT IN]
-Cut from @OngQuan's raging face to @Binh's tear-filled eyes — emotional whiplash.
+[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
+- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng tần số trầm (sub-bass drone) ù đặc làm nghẹt lồng ngực; tiếng xà gỗ cũ kỹ co giãn 'răng rắc' trong bóng tối lạnh ngắt.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror ambience (howling midnight wind through the jackfruit tree, frogs and crickets in the rice paddies, creaking folding cot, metallic pot crash, and eerie spectral whispers) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-## [START FRAME]
-Close-up on @Binh's face — eyes glistening with unshed tears, phone pressed to his right ear. Dawn light catches the moisture in his eyes. His lips are pressed together, gathering courage to speak. Behind him, the blurred village morning.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Seamless match-on-action cut directly from Shot 11.2 into Shot 11.3 at 0.0s inside the locked Scene 11 environment (10:20–10:30), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
 
-## [END FRAME]
-@Binh with phone pressed against his forehead, eyes squeezed shut. Tears on both cheeks catching the dawn light like silver tracks. His posture is simultaneously defeated and brave — a young man who has accepted whatever comes next. The veranda post beside him, weathered wood echoing his exhaustion.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @Binh từ điểm kết của Clip 11.2 tại ABANDONED_ANCESTRAL_COURTYARD (Ở đầu dây bên kia, `@OngQuan` đứng bên cửa sổ ánh sáng gắt, gương mặt đỏ gay đanh thép gầm lên dữ dội vào chiếc điện thoại đang áp chặt bên tai.).
+
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+Ngoài hiên nhà quê, `@Binh` nắm chặt điện thoại, nước mắt chảy dài trên gò má tái nhợt nhưng giọng nói đanh lại, quỳ thẳng trên thềm gạch không hề né tránh. — Khóa chặt tư thế, hướng nhìn của @Binh và trục máy ở giây 10.0s để nối mượt sang Clip 11.4.

@@ -1,25 +1,17 @@
-# Mẹ và Bé — Ngọc và cặp song sinh Gạo, Bông 👩‍🍼👶👶
+# Mẹ và Bé (`me-va-be`)
 
-> Kênh TikTok video AI hình người thật. **Ngọc**, cô gái Việt Nam xinh đẹp 27 tuổi, nhận may đồ tại nhà, một mình nuôi cặp song sinh một trai một gái vừa chào đời: **Gạo** (bé trai, anh, đồ xanh bạc hà thêu gấu, tóc dựng như mầm cây) và **Bông** (bé gái, em, đồ hồng phấn có bèo vai thêu dâu, mi dài, môi chúm chím) trong căn phòng trọ nhỏ ở một con hẻm Sài Gòn. Mỗi tập là một lát cắt cảm động trong những ngày đầu làm mẹ, kèm **một món đồ cho bé** và **một mẹo chăm con có nguồn**.
+**Định hướng Series:** Chuỗi phim ngắn người thật (Photorealistic Live-Action) **dài 60 giây/tập (`6 clips × 10s`)** khung hình dọc `9:16`, theo chân người mẹ đơn thân **Ngọc (`@Ngọc`)** và cặp song sinh một trai một gái **Gạo (`@Gạo`)** – **Bông (`@Bông`)** lớn lên từng tuần. Mỗi tập 60 giây kết hợp chặt chẽ 3 yếu tố:
+1. **Mẹo nuôi con khoa học chuẩn nhi khoa (AAP / CDC / WHO)** theo đúng tuần tuổi/tháng tuổi của bé.
+2. **Quay cận cảnh các hành động, biểu cảm và phản ứng siêu dễ thương của hai em bé** (vươn vai, ngóc đầu Tummy Time, cười móm, chu môi ê a giành mẹ, đạp chân xe đạp, mở bàn tay quơ chạm đồ chơi).
+3. **Giới thiệu tự nhiên các món đồ cho bé phù hợp chính xác với từng giai đoạn tuổi**, an toàn và thiết thực.
 
-* **Thời lượng mỗi tập:** 40–60 giây (4–6 clip × 10 giây), khung dọc 9:16, thoại tiếng Việt giọng miền Nam, không chữ trên video.
-* **Con lớn theo từng tập:** mỗi tập hai bé lớn thêm đúng 1 tuần (Tập n: 7n − 3 ngày tuổi). Tập 5 đầy tháng, Tập 9 khoảng 2 tháng (nụ cười đầu tiên dành cho mẹ), Tập 27 khoảng 6 tháng (ăn dặm), Tập 53 thôi nôi. Bé chỉ làm những gì đúng tuổi, theo mốc phát triển của CDC.
-* **Phong cách hình:** người thật kiểu điện ảnh (giống 365 Ngày Việt Nam), em bé sơ sinh đúng tỉ lệ và cử động thật.
-* **Câu chuyện:** chồng Ngọc bỏ đi khi cô vừa sinh, không đoái hoài tới hai con; ngày ra viện Ngọc một mình xách hai con về phòng trọ (Tập 1). Người chồng không xuất hiện trên hình, Ngọc không nói xấu anh ta.
-* **Tông:** cảm động mà không bi lụy; Ngọc buồn, mệt nhưng vững vàng, nước mắt luôn kết bằng một điều ấm từ hai con. Cảnh nối nhau đúng trình tự thời gian, không nhảy cóc.
-* **Đồ cho bé:** một món mỗi tập, dùng thật trong chuyện; tên hãng chỉ gắn giỏ hàng TikTok. Không làm nội dung về sữa công thức, bình bú, núm vú giả (Luật Quảng cáo 2012, Điều 7 khoản 4).
-* **An toàn:** bé ngủ nằm ngửa, mỗi bé một nôi, trong nôi chỉ có tấm ga; bế luôn đỡ đầu cổ. Mẹo chăm con nào cũng có nguồn trong README của tập.
-* **Khi đăng:** bật nhãn **Nội dung do AI tạo**; caption dán sẵn trong `caption.md` của từng tập.
+- **Google Flow Project ID:** `8df089b2-ac8f-4d21-9063-97d565697d04`
+- **Bible & Quy tắc 60s Mẹo Nuôi Con + Quay Em Bé Dễ Thương + Đồ Dùng Đúng Độ Tuổi:** [FLOW_PROMPTS.md](FLOW_PROMPTS.md)
 
-Khóa nhân vật, bối cảnh, phong cách, ảnh tham chiếu và danh sách tập: [FLOW_PROMPTS.md](FLOW_PROMPTS.md) · Quy trình chung: [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
+## Danh sách các tập mới nhất (Chuẩn 60s = 6 clips × 10s)
 
-| Tập | Tên | Đồ cho bé | Thư mục |
-|:---:|---|---|:---:|
-| 1 · 4 ngày tuổi | Nhà mình có ba người | Nôi em bé | [tap-1](tap-1/README.md) |
-| 2 · 11 ngày tuổi | Cái rốn nhỏ | Tã dán sơ sinh có khoét rốn | [tap-2](tap-2/README.md) |
-| 3 · 18 ngày tuổi | Ba giờ sáng | Gối cho bú đôi | [tap-3](tap-3/README.md) |
-| 4 · 25 ngày tuổi | Lần tắm chậu đầu tiên | Chậu tắm sơ sinh có lưới đỡ | [tap-4](tap-4/README.md) |
-| 5 · 32 ngày tuổi | Đầy tháng của Gạo và Bông | Khăn sữa sợi tre / gạc cotton sơ sinh | [tap-5](tap-5/README.md) |
-| 6 · 39 ngày tuổi | Tập nằm sấp đầu đời của Gạo và Bông | Thảm nằm chơi sơ sinh phẳng êm | [tap-6](tap-6/README.md) |
-| 7 · 46 ngày tuổi | Mùa gió se lạnh & Túi ngủ mặc ấm cho Gạo và Bông | Túi ngủ mặc cotton sát nách cho bé (`wearable blanket`) | [tap-7](tap-7/README.md) |
-| 8 · 53 ngày tuổi | Đơn may cuối năm & Nụ cười đầu tiên dành cho mẹ | Bộ thẻ & vòng treo tương phản đen-trắng-đỏ | [tap-8](tap-8/README.md) |
+- [Tập 6 (Tuần 6 — 39 ngày tuổi): Tập nằm sấp (Tummy Time) đầu đời & Thảm nằm chơi chần bông phẳng êm (`SP_THAM_CHOI`)](tap-6/README.md)
+- [Tập 7 (Tuần 7 — 46 ngày tuổi): Mẹo giữ ấm mùa gió lạnh chuẩn nhi khoa & Túi ngủ mặc cotton sát nách (`SP_TUI_NGU`)](tap-7/README.md)
+- [Tập 8 (Tuần 8 — 53 ngày tuổi): Mẹo kích thích thị giác ở khoảng cách 25cm, Nụ cười xã hội đầu tiên & Bộ thẻ tương phản đen trắng (`SP_THE_TUONG_PHAN`)](tap-8/README.md)
+- [Tập 9 (Tuần 9 — 60 ngày tuổi): Mẹo trò chuyện đáp lời 'Serve and Return', Hai anh em thi nhau ê a & Lục lạc thú bông vải hữu cơ (`SP_LUC_LAC_VAI`)](tap-9/README.md)
+- [Tập 10 (Tuần 10 — 67 ngày tuổi): Mẹo rèn phối hợp tay-mắt, Gạo và Bông mở bàn tay quơ chạm đồ chơi & Kệ chữ A gỗ tự nhiên (`SP_KE_CHU_A`)](tap-10/README.md)

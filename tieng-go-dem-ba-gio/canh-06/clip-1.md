@@ -3,63 +3,63 @@
 
 [CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
-@Lam = Vũ Đình Lâm: same approved identity, age 27; Vietnamese male antique architecture conservator, 174 cm, lean build, pale angular face with dark circles under attentive dark eyes behind thin metal-rimmed glasses, neat parted black hair damp from night mist. Wardrobe: dark olive-green field jacket over a charcoal-grey collared shirt, dark trousers, brown leather satchel strap across his chest, holding a vintage brass flashlight emitting a warm amber beam. Voice profile: [VOICE_LOCK_LAM_TIENGGO — Cố định giọng Lâm chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 27-year-old native Standard Northern Vietnamese male voice, warm mid-baritone register that trembles with breathless dread in climax moments.
-Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller. Voice profile: [VOICE_LOCK_NARRATOR_TIENGGO — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, bone-chilling 42-year-old native Standard Northern Vietnamese male baritone voice (giọng nam chuẩn miền Bắc trầm khàn, chậm rãi kể chuyện ma đêm khuya, classic Northern Vietnamese ghost-storyteller cadence with crisp consonant distinction and dark gravelly resonance). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent.
+@Lam = Hoàng Lâm / Vũ Đình Lâm (media_id: bf3d7dc9-c123-45eb-be8b-cd6196d35011): same approved identity, age 27–29; Vietnamese male antique architecture photographer & conservator, 174 cm, lean build, pale angular face with dark circles under attentive dark eyes behind thin metal-rimmed glasses, neat parted black hair damp from night mist. Wardrobe: dark olive-green field jacket over a charcoal-grey collared shirt, dark trousers, brown leather satchel/camera strap across his chest, holding a vintage brass flashlight or oil storm lantern emitting a warm amber beam. Voice profile: [VOICE_LOCK_LAM_TIENGGO — Cố định giọng Lâm chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 27-year-old native Standard Northern Vietnamese young male voice (~130 Hz clear baritone-tenor), urgent, tense, trembling with breathless dread in climax moments (giọng nam 27 tuổi chuẩn miền Bắc, căng thẳng, gấp gáp).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_TIENGGO — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
 [TIMELINE AND LOCATION]
-Scene 06/15, clip 1/6; shot 06.1 (10.0s | Model: `omni_flash` 10s). Story time: 03:00 Giờ Dần (05:00–06:00) (05:00–05:10).
-Rain-drenched courtyard and the chained laterite stone well at exactly 03:00 AM; pitch-black well shaft filled with still mirror-like black water at the bottom, surrounded by wet moss and seven vibrating rusted iron chains.
+Scene 06/15, clip 1/6; shot 06.1 (10.0s | Model: `omni_flash` 10s). Story time: 01:30 Đêm thứ hai (05:00–06:00) (05:00–05:10).
+Long narrow ironwood corridor in the West wing at night; past the three locked bedroom doors, a blood-red fourth wooden door sealed with a torn yellow paper talisman materializes on the dead-end wall.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 06 (Clip 1–6)]
-FIXED SCENE 06 SPACE (Miệng giếng đá ong ngoài sân mưa lúc 03:00 sáng): Trục thẳng đứng từ thành giếng đá ong quấn 7 sợi xích sắt nhìn sâu hút xuống mặt nước đen ngòm dưới đáy giếng.
+FIXED SCENE 06 SPACE (Hành lang gỗ lim hẹp dẫn qua 3 cánh cửa buồng tới Cánh Cửa Gỗ Thứ Tư ở cuối vách cụt): Trục hành lang một điểm tụ hút sâu vào ngưỡng cửa cấm kỵ.
 Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 06.
 
 [DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
-Đêm thứ hai. Lâm cầm đèn bão đi dọc hành lang gỗ lim hẹp để kiểm tra các chốt cửa. Tiếng ván sàn gỗ kêu *'cọt kẹt'* dưới từng bước chân.
+Đêm thứ hai. `@Lam` cầm đèn bão đi dọc hành lang gỗ lim hẹp để kiểm tra các chốt cửa. Tiếng ván sàn gỗ kêu *'cọt kẹt'* dưới từng bước chân.
 
-[ACTION — 0.0s–10.0s, one continuous evolving take]
-- Visual Choreography (0.0–10.0s): 0.0–3.0s: Camera establishes the eerie atmosphere of ANCIENT_COURTYARD_WELL as @Lam enters the beat. 3.0–7.0s: Đêm thứ hai. Lâm cầm đèn bão đi dọc hành lang gỗ lim hẹp để kiểm tra các chốt cửa. Tiếng ván sàn gỗ kêu *'cọt kẹt'* dưới từng bước chân. 7.0–10.0s: The camera holds on the chilling aftermath and micro-expressions of dread across @Lam. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_TIENGGO) speaks the Vietnamese voice-over in a deep, bone-chilling Standard Northern Vietnamese baritone accent while all on-screen characters keep their mouths closed.
-- Beat 1 (0.0–3.0s — Thiết lập không gian rùng rợn & khởi phát hành động): Không gian ANCIENT_COURTYARD_WELL chìm trong sương lạnh và bóng tối cổ xưa, mở đầu nhịp cảnh 06.1.
-- Beat 2 (3.0–7.0s — Cao trào kinh dị & tương tác gai góc): Đêm thứ hai. Lâm cầm đèn bão đi dọc hành lang gỗ lim hẹp để kiểm tra các chốt cửa. Tiếng ván sàn gỗ kêu *'cọt kẹt'* dưới từng bước chân.
-- Beat 3 (7.0–10.0s — Dư chấn tâm lý & điểm dừng rợn gáy): Máy quay giữ chặt biểu cảm rợn tóc gáy và ánh mắt thất thần của @Lam giữa không gian nhà từ đường gỗ lim tĩnh mịch.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside FORBIDDEN_FOURTH_CHAMBER as @Lam continues seamlessly from the previous beat. 3.0–7.0s: Đêm thứ hai. `@Lam` cầm đèn bão đi dọc hành lang gỗ lim hẹp để kiểm tra các chốt cửa. Tiếng ván sàn gỗ kêu *'cọt kẹt'* dưới từng bước chân. 7.0–10.0s: The camera settles smoothly on @Lam's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_TIENGGO, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Chuyển cảnh mượt mà từ cuối Cảnh 05 sang không gian FORBIDDEN_FOURTH_CHAMBER của Cảnh 06 (01:30 Đêm thứ hai (05:00–06:00)): máy quay mở trục ESTABLISHING_WIDE (24mm) thiết lập bầu không khí tâm linh với sự hiện diện của @Lam.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào kinh dị / Core Dramatic Action): Đêm thứ hai. `@Lam` cầm đèn bão đi dọc hành lang gỗ lim hẹp để kiểm tra các chốt cửa. Tiếng ván sàn gỗ kêu *'cọt kẹt'* dưới từng bước chân.
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @Lam, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 06.2 (`@Lam` chiếu đèn bão đếm từng cánh cửa gỗ dọc hành lang: cánh cửa thứ nhất… cánh cửa thứ hai… cánh cửa thứ ba...).
 Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
 [BLOCKING AND PERFORMANCE]
-- Spatial Blocking: Characters (@Lam) maintain consistent screen positions within ANCIENT_COURTYARD_WELL matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow.
+- Spatial Blocking: Characters (@Lam) maintain consistent screen positions and eyeline vectors within FORBIDDEN_FOURTH_CHAMBER matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
 - Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron chains, wet laterite stone, and ancient ironwood props.
 
 [CAMERA — Shot Size, Lens, Movement & Continuity]
 - Lens & Shot Type: 24mm, 24 fps, 180-degree shutter, ESTABLISHING_WIDE.
-- Camera Movement Plan (0.0–10.0s): 24mm stabilized gimbal slow creeping push-in establishing claustrophobic spatial geometry and suffocating folk-horror dread. Smooth acceleration and deceleration, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
+- Camera Movement Plan (0.0–10.0s): 24mm stabilized gimbal slow creeping push-in establishing spatial geometry and suffocating folk-horror dread. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
 [PROPS & VISIBLE TEXTURE]
 [FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 06]
-FIXED SCENE 06 OBJECTS: (1) Miệng giếng đá ong rêu phong và 7 sợi xích sắt căng cứng; (2) Đèn pin đồng và máy ghi âm cầm tay của Lâm; (3) Mặt nước giếng đen đặc phản chiếu khuôn mặt trắng bệch của @CoUt; (4) Bàn tay ướt sũng quấn xích sắt dưới nước.
+FIXED SCENE 06 OBJECTS: (1) Ngọn đèn bão trên tay @Lam soi dọc 3 cánh cửa gỗ đóng kín; (2) Cánh cửa gỗ thứ tư màu đỏ sẫm phai màu dán lá bùa vàng rách đôi; (3) Chốt sắt tự bật mở toang; (4) Máy ảnh đeo trước ngực @Lam.
 - Visible Material & Lighting Texture: Mossy porous laterite stone (đá ong rêu phong), rusted iron chains dripping black well water, glossy 150-year-old dark ironwood grain, flickering brass oil-lamp amber shadows against deep abyssal midnight darkness.
 Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
 [BODY, MOUTH AND FACE CONSISTENCY]
 Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
-Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_TIENGGO — giọng nam chuẩn miền Bắc trầm khàn kể chuyện ma đêm khuya); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
+Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_TIENGGO — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
 
 [VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
 Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
-- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_TIENGGO`): Deep, bone-chilling 42-year-old native Standard Northern Vietnamese male horror storyteller baritone voice (giọng nam chuẩn miền Bắc trầm khàn kể chuyện ma đêm khuya).
-- On-Screen Characters (`VOICE_LOCK_LAM_TIENGGO`, `VOICE_LOCK_BACAM_TIENGGO`, `VOICE_LOCK_COUT_TIENGGO`): Native Standard Northern Vietnamese voices matching each character's locked register.
-Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology and tonal cadence, deep resonant chest baritone for the off-screen male narrator, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_TIENGGO`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_LAM_TIENGGO` ~130Hz 27yo male, `VOICE_LOCK_BACAM_TIENGGO` ~175Hz 78yo female, `VOICE_LOCK_CUTU_TIENGGO` ~95Hz 80yo elder male, `VOICE_LOCK_COUT_TIENGGO` ~235Hz 19yo spectral female): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
 [DIALOGUE — Timed to Action (1 turn(s), 30 Vietnamese words)]
-- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_TIENGGO | speaking off-screen in a deep, bone-chilling 42-year-old Standard Northern Vietnamese male baritone accent — giọng nam chuẩn miền Bắc trầm khàn kể chuyện ma đêm khuya at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): Đêm thứ hai, nỗi sợ hãi khiến Lâm không dám chợp mắt. Anh cầm ngọn đèn dầu đi dọc hành lang gỗ lim để kiểm tra từng cánh cửa buồng.
-Spoken Audio Rule: Only the Vietnamese dialogue line after the colon is spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
+- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_TIENGGO | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Đêm thứ hai, nỗi sợ hãi khiến Lâm không dám chợp mắt. Anh cầm ngọn đèn dầu đi dọc hành lang gỗ lim để kiểm tra từng cánh cửa buồng."
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
 [SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
 - Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng gió đêm rít lạnh buốt qua mái ngói âm dương nghe như tiếng người thở dài dưới đáy giếng; tiếng sương đêm nhỏ giọt 'tách... tách...' xuống nền gạch Bát Tràng rêu phong.
-- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over raw, visceral, cause-driven diegetic horror sound effects (rattling rusted iron chains, deep hollow knocking from inside the stone well, creaking ironwood doors, dripping cold rain, and eerie silence) synchronized to visible actions from 0.0s to 10.0s. No cheerful or generic stock music.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror sound effects (rattling rusted iron chains, deep hollow knocking from inside the stone well, creaking ironwood doors, dripping cold rain, and eerie silence) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-[EDIT IN — do not render the previous shot again]
-Cut directly into Shot 06.1 at 0.0s inside the locked Scene 06 environment (05:00–05:10) via Google Flow Omni 10s (`omni_flash`). Never flash or display any studio reference portrait or grey backdrop.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Smooth atmospheric scene transition from Scene 05 into Scene 06 Shot 06.1 at 0.0s (05:00–05:10) via Google Flow Omni 10s (`omni_flash`), establishing FORBIDDEN_FOURTH_CHAMBER with consistent cinematic grading. Never flash or display any studio reference portrait or grey backdrop.
 
-[START FRAME — state only, not an action to repeat]
-Không gian ANCIENT_COURTYARD_WELL mở đầu nhịp cảnh 06.1 với @Lam trong bầu không khí tâm linh u tịch.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình mở đầu Cảnh 06 tại FORBIDDEN_FOURTH_CHAMBER (01:30 Đêm thứ hai (05:00–06:00)) với @Lam trong bố cục ESTABLISHING_WIDE (24mm).
 
-[END FRAME — lock position, props, eyeline & movement axis]
-Đêm thứ hai. Lâm cầm đèn bão đi dọc hành lang gỗ lim hẹp để kiểm tra các chốt cửa. Tiếng ván sàn gỗ kêu *'cọt kẹt'* dưới từng bước chân.
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+Đêm thứ hai. `@Lam` cầm đèn bão đi dọc hành lang gỗ lim hẹp để kiểm tra các chốt cửa. Tiếng ván sàn gỗ kêu *'cọt kẹt'* dưới từng bước chân. — Khóa chặt tư thế, hướng nhìn của @Lam và trục máy ở giây 10.0s để nối mượt sang Clip 06.2.

@@ -1,57 +1,23 @@
-# Mit và Đú 1970 — Gia đình Mit – Đú – Nở 🐶❤️
+# Mít và Đú 1970 (`mit-va-du-1970`)
 
-**Thể loại:** Hoạt hình 3D, hài hước, tình cảm gia đình, đời sống nông thôn Việt Nam những năm 1970.
+**Định hướng Series:** Chuỗi **phim ngắn tình cảm gia đình Việt Nam những năm 1970 cảm động, mộc mạc và hài hước** (`60 giây = 6 clips × 10s`, khung hình dọc `9:16`). Lấy bối cảnh vùng quê Cái Mơn – Bến Tre năm 1970 với gia đình ba nhân vật chó nhân hóa 3D đi hai chân: **ba Mit (`@Mit`)** chất phác hay nổ nhưng thương vợ thương con hết mực, **má Đú (`@Đú`)** tảo tần dịu hiền, và cô con gái 6 tuổi **bé Nở (`@Nở`)** lanh lợi đáng yêu. Mỗi tập là một câu chuyện đời thường vừa cười ra nước mắt với những pha vụng về của ba Mit, vừa lắng đọng tình nghĩa vợ chồng, cha con nghèo mà ấm áp.
 
-## Nhân vật chính
+- **Google Flow Project ID:** `234b0e61-f736-4e77-a1d9-527b2fadc582`
+- **Bible & Quy tắc Phim Tình Cảm Gia Đình 1970 Cảm Động Hài Hước:** [FLOW_PROMPTS.md](FLOW_PROMPTS.md)
 
-- **Mit:** Người chồng từng ham vui, tiêu xài phung phí, sau biết sửa đổi, chăm chỉ làm thuê để nuôi gia đình.
-- **Đú:** Người vợ hiền lành, chịu thương chịu khó, luôn yêu thương và động viên chồng.
-- **Nở:** Con gái 6 tuổi, ngây thơ, đáng yêu, là niềm vui và động lực của ba mẹ.
+## Cấu trúc 6 Clip × 10 giây (60s) mỗi tập
 
-## Nội dung xuyên suốt
+1. **Clip 1 (`00:00–00:10`):** Mở cảnh sinh hoạt quê Cái Mơn 1970 & khởi đầu tình huống gia đình.
+2. **Clip 2 (`00:10–00:20`):** Sự cố hài hước / nỗi lo toan vụng về mà chân thành của ba Mit.
+3. **Clip 3 (`00:20–00:30`):** Miếng hài hình thể duyên dáng giữa ba Mit và bé Nở bên gian bếp củi.
+4. **Clip 4 (`00:30–00:40`):** Món ăn dân dã miền Tây năm 1970 chín thơm lừng gắn kết cả nhà.
+5. **Clip 5 (`00:40–00:50`):** Khoảnh khắc lắng đọng, cảm động về sự hy sinh thầm lặng cho vợ con.
+6. **Clip 6 (`00:50–01:00`):** Nụ cười sum vầy bên mâm cơm quê & nét vẽ ngây thơ của bé Nở (`SP_TAP`, `SP_BUTMAU`).
 
-Gia đình Mit từng sống nghèo khó, trải qua nhiều sóng gió. Một ngày, Mit tìm được kho báu khi đi cày ruộng, cả nhà trở thành phú hộ giàu có. Nhưng vì ham vui và tiêu xài quá mức, Mit đánh mất toàn bộ tài sản.
+## Danh sách các tập mới nhất (Chuẩn 60s = 6 clips × 10s)
 
-Trở về căn nhà tre nghèo, Mit dần thay đổi, đi làm thuê, khuân sầu riêng kiếm tiền nuôi vợ con. Đú chăm lo bữa cơm gia đình, còn bé Nở bắt đầu đi học. Dù cuộc sống thiếu thốn, cả nhà vẫn luôn yêu thương nhau.
-
-Đến ngày 20/10, Mit và Nở chỉ có thể tặng Đú một bó hoa dại, nhưng món quà giản dị ấy khiến cô bật khóc vì hạnh phúc.
-
-## Thông điệp chính
-
-> "Giàu sang có thể mất đi, nhưng chỉ cần gia đình còn bên nhau, hạnh phúc vẫn luôn ở đó."
-
-## Định hướng series
-
-- Từ Tập 13, mỗi tập **40–60 giây** (4–6 clip × 10 giây, Gemini Omni) tùy câu chuyện, tông vui vẻ, tình yêu, gia đình; kể như người thật kể chuyện nhà mình, nhiều chi tiết đời sống miền Tây 1970. Tập 1–12 dài 30 giây (3 clip). Cấu trúc: [FLOW_PROMPTS.md](FLOW_PROMPTS.md).
-- Nhân vật, giọng nói, trang phục và bối cảnh được **duy trì nhất quán** xuyên suốt các tập.
-- Ý tưởng lấy từ chuyện hằng ngày.
-
-## Định hướng bán hàng
-
-- Đồ trẻ em: cặp, sách vở, bút...
-
-## Danh sách tập
-
-| Tập | Tên tập | Thời lượng | Sản phẩm |
-| --- | --- | --- | --- |
-| [Tập 1](tap-1/README.md) | Nhà tre nghèo | 30s (3 clip) | Gợi nhu cầu: Nở chưa có tập vở |
-| [Tập 2](tap-2/README.md) | Kho báu dưới ruộng | 30s (3 clip) | — |
-| [Tập 3](tap-3/README.md) | Phú hộ | 30s (3 clip) | — |
-| [Tập 4](tap-4/README.md) | Ham vui phung phí | 30s (3 clip) | — |
-| [Tập 5](tap-5/README.md) | Trắng tay | 30s (3 clip) | — |
-| [Tập 6](tap-6/README.md) | Khuân sầu riêng | 30s (3 clip) | — |
-| [Tập 7](tap-7/README.md) | Ngày đầu đi học của Nở | 30s (3 clip) | Cặp, tập vở, bút |
-| [Tập 8](tap-8/README.md) | Bó hoa dại 20/10 | 30s (3 clip) | — |
-| [Tập 9](tap-9/README.md) | Nở dạy ba học chữ | 30s (3 clip) | Tập vở, bút |
-| [Tập 10](tap-10/README.md) | Vé số độc đắc | 30s (3 clip) | Hộp bút màu |
-| [Tập 11](tap-11/README.md) | Chiếc cặp mới của Nở | 30s (3 clip) | Cặp sách |
-| [Tập 12](tap-12/README.md) | Chuyện cổ tích của ba | 30s (3 clip) | Sách truyện tranh |
-| [Tập 13](tap-13/README.md) | Con diều vẽ cả nhà | 50s (5 clip) | Hộp bút màu |
-| [Tập 14](tap-14/README.md) | Bánh xèo ba đổ | 40s (4 clip) | — |
-| [Tập 15](tap-15/README.md) | Cái răng đầu tiên | 40s (4 clip) | Tập vở, bút |
-| [Tập 16](tap-16/README.md) | Tát mương bắt cá | 50s (5 clip) | Tập vở, hộp bút màu |
-| [Tập 17](tap-17/README.md) | Con heo đất ống tre | 50s (5 clip) | Tập vở, hộp bút màu |
-| [Tập 18](tap-18/README.md) | Chèo xuồng bán dừa khô | 50s (5 clip) | Tập vở, bút |
-| [Tập 19](tap-19/README.md) | Chuối nếp nướng lá chuối & Bài toán chia phần của Nở | 50s (5 clip) | Tập vở, hộp bút màu |
-| [Tập 20](tap-20/README.md) | Cá lóc đồng nướng trui rơm & Nhẫn cỏ chỉ vàng của ba Mit | 50s (5 clip) | Tập vở, hộp bút màu |
-| [Tập 21](tap-21/README.md) | Bánh tằm khoai mì lăn dừa nạo & Chuyện giữ khư khư sổ biên nhận lúa | 50s (5 clip) | — |
+- [Tập 20 — Cá lóc đồng nướng trui rơm & Hai chiếc nhẫn cỏ chỉ vàng của ba Mit](tap-20/README.md)
+- [Tập 21 — Bánh tằm khoai mì lăn dừa nạo & Chuyện giữ gìn sổ lúa mồ hôi nước mắt](tap-21/README.md)
+- [Tập 22 — Ba Mit giữ nhà: Canh chua cá linh bông điên điển & Nồi cơm cháy đáy](tap-22/README.md)
+- [Tập 23 — Cá rô đồng kho tộ tóp mỡ: Ba Mit tưởng rớt tiền công khuân sầu riêng, hóa ra giắt trên khăn rằn](tap-23/README.md)
+- [Tập 24 — Chiếc áo bà ba vá vai ngày gió chướng & Nồi chè đậu trắng đặc quánh của ba Mit](tap-24/README.md)

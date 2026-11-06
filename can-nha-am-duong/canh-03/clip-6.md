@@ -1,63 +1,65 @@
-# CLIP 6 — CẢNH 03: GẶP ÔNG BẢY (Tối)
+[FORMAT]
+10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering dim 15W filament amber and weathered rural brick browns contrasted with cold midnight indigo-blue shadows, mossy roof tiles, and corpse-pale moonlight mist, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @VongLa), shot type: INSERT_CLOSEUP): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
 
-## [FORMAT]
-- **Model**: `omni_flash` — Google Flow Omni 10s Ingredients Reference-to-Video
-- **Duration**: 10.0s (0.0s–10.0s)
-- **Aspect Ratio**: 16:9 widescreen
-- **Frame Rate**: 24fps
-- **Render Style**: Photorealistic live-action cinematography
-- **Genre**: SUPERNATURAL_FOLK_HORROR
-- **Color Grade**: Gritty Vietnamese folk-horror — NIGHT EXTERIOR: cold moonlight blue-white, deep shadows, spectral atmosphere. Interior warm amber transitions to cold exterior as narrator describes the haunted house. The white figures ("bóng trắng") should be barely visible — cold desaturated forms against dark architecture.
-- **Dialect**: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc)
+[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
+@VongLa = Vong Tai Nạn Dưới Gốc Mít (media_id: 0c2ade1f-c1cd-4c93-98e2-697231a54887): same approved identity, age 28; terrifying shadowy pale apparition from the 3 AM wedding bus crash 13 years ago, tall skeletal silhouette, ash-grey damp skin, tangled wet black hair covering half the face, hollow pitch-black eyes, long bony fingers with dark nails, tattered damp clothes, clean atmospheric ghost appearance (no gore). Voice profile: [VOICE_LOCK_VONGLA_CNHADG — Cố định giọng Vong Lạ chuẩn miền Bắc xuyên suốt 90 clips]: Chilling echoing Standard Northern Vietnamese spectral whisper reverberating from all directions in the dark (giọng ma vọng lạnh lẽo chuẩn miền Bắc từ bốn phía).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
-## [CHARACTERS]
-- None directly on screen — this is narrator-driven atmospheric imagery
-- Implied: ghostly white figures (bóng trắng) — suggested, not fully shown
+[TIMELINE AND LOCATION]
+Scene 03/15, clip 6/6; shot 03.6 (10.0s | Model: `omni_flash` 10s). Story time: 17:30 Chạng vạng chiều tà (02:00–03:00) (02:50–03:00).
+Outside the rusted gate of the abandoned house and on the warm, simple 3-bay tiled porch of neighbor @OngBay nearby at dusk, looking back toward the foggy highway curve outside the ancient jackfruit tree.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 03 (Clip 1–6)]
+FIXED SCENE 03 SPACE (Từ trước cổng sắt căn nhà hoang sang hiên nhà ngói 3 gian của vợ chồng Ông Bảy nhìn ra khúc cua gốc mít): Trục đối thoại liên hoàn dưới ánh hoàng hôn tắt dần sang sương mù đêm.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 03.
 
-## [TIMELINE AND LOCATION]
-- **Time**: Night — this is an atmospheric/illustrative shot, not tied to specific scene time
-- **Location**: EXTERIOR of the haunted house at night (visualizing Bà Bảy's story) — cold moonlight on moss-covered walls, the jackfruit tree as a dark mass, the empty windows like hollow eyes. Shot from outside the gate, looking in.
-- **Weather**: Clear night, cold moonlight, still air, thin ground mist
+[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
+Máy quay đẩy chậm từ khúc cua sương mù tới dưới gốc mít cổ thụ trước cổng sắt: bóng `@VongLa` cao gầy ướt đẫm sương đêm đang đứng lờ mờ sau rặng cỏ dại nhìn chằm chằm vào căn nhà hoang.
 
-## [DRAMATIC INTENT]
-The scene closer — visual confirmation of the supernatural. After the factual horror of the accident, the narrator now bridges to folk-horror mythology: the thầy cúng, the trapped spirits, the bóng trắng. The audience sees the house at night for the first time (previously only in late afternoon). The suggested white shapes are enough to confirm this is a ghost story — not just a drama about debt. Scene 3 closes with the audience knowing exactly what Bình is walking into.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside ONGBAY_PORCH_AND_JACKFRUIT_GATE as @VongLa continues seamlessly from the previous beat. 3.0–7.0s: Máy quay đẩy chậm từ khúc cua sương mù tới dưới gốc mít cổ thụ trước cổng sắt: bóng `@VongLa` cao gầy ướt đẫm sương đêm đang đứng lờ mờ sau rặng cỏ dại nhìn chằm chằm vào căn nhà hoang. 7.0–10.0s: The camera settles smoothly on @VongLa's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_CNHADG, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 03.5 (Từ hiên nhà, `@OngBay` trầm ngâm nhìn xuyên qua màn sương mù dày đặc hướng về khúc cua quốc lộ ngay trước cổng sắt và gốc mít nhà cụ Xá chìm trong bóng tối lạnh ngắt.): máy quay giữ nguyên trục không gian ONGBAY_PORCH_AND_JACKFRUIT_GATE và ánh sáng hiện trường, dẫn nhịp chuyển động trực tiếp sang @VongLa.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào tâm lý / Core Dramatic Action): Máy quay đẩy chậm từ khúc cua sương mù tới dưới gốc mít cổ thụ trước cổng sắt: bóng `@VongLa` cao gầy ướt đẫm sương đêm đang đứng lờ mờ sau rặng cỏ dại nhìn chằm chằm vào căn nhà hoang.
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay giữ chặt biểu cảm dư chấn tâm lý của @VongLa và ngân nhẹ âm thanh môi trường 0.5s cuối, tạo nhịp cầu thị giác chuyển sang Cảnh 04 (Phá Khóa Dọn Nhà Hoang & Cuộc Gọi Tuyệt Vọng Từ Mẹ).
+Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
-## [ACTION]
-0.0s–3.5s: Wide exterior shot — the haunted house at night, seen from outside the rusted gate. Cold moonlight pours down, casting sharp shadows. The jackfruit tree is a massive dark silhouette against the moonlit sky, branches like reaching arms. Moss on the brick walls appears silvery-green in the moonlight. The empty windows are pure black rectangles. Mist hovers low in the overgrown courtyard.
-3.5s–7.0s: Slow push-in through the gate bars (echoing Scene 2 Clip 6's camera move, but now at night). The house facade in moonlight is transformed — cracks in the brick create face-like pareidolia patterns. A broken shutter creaks in a wind that seems to come from nowhere. The mist swirls slightly near the doorway — is something stirring it?
-7.0s–10.0s: Camera holds at medium-wide — and for 1.5 seconds (8.0s–9.5s), a pale white shape is visible in the left window. Not detailed — just a suggestion of a human form, pale and faintly luminous, standing motionless inside. Then it's gone — either it moved back or it was never there. Mist continues to drift. The house is utterly still again. Camera slowly fades to black.
+[BLOCKING AND PERFORMANCE]
+- Spatial Blocking: Characters (@VongLa) maintain consistent screen positions and eyeline vectors within ONGBAY_PORCH_AND_JACKFRUIT_GATE matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
+- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron gates, thin mosquito nets, and ancestral props.
 
-## [PROPS]
-- Haunted house at night: moonlit exterior, moss-covered walls, broken shutters
-- Jackfruit tree (massive dark silhouette)
-- Rusted iron gate
-- Ground mist in courtyard
-- Suggested white ghostly shape in window (bóng trắng — minimal, ambiguous)
+[CAMERA — Shot Size, Lens, Movement & Continuity]
+- Lens & Shot Type: 85mm, 24 fps, 180-degree shutter, INSERT_CLOSEUP.
+- Camera Movement Plan (0.0–10.0s): 85mm macro-style cinematic horror insert with smooth rack focus locking the cliffhanger detail. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
-## [BODY, MOUTH AND FACE CONSISTENCY]
-- No characters requiring consistency
-- Bóng trắng (if visible at all): A pale, slightly luminous, vaguely humanoid shape — no distinct features, no face detail, just an impression of a standing figure in white. Semi-transparent. Appears for only 1.5 seconds. Must be ambiguous — could be a curtain, could be moonlight, could be a ghost. The audience decides.
+[PROPS & VISIBLE TEXTURE]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 03]
+FIXED SCENE 03 OBJECTS: (1) Chiếc xe đạp Phượng Hoàng cũ kỹ của Ông Bảy; (2) Ấm nước chè xanh bốc khói trên bàn gỗ hiên nhà; (3) Khúc cua tử thần ngập sương mù ngay trước cổng sắt nhà cụ Xá; (4) Bóng trắng @VongLa lờ mờ dưới gốc mít cổ thụ.
+- Visible Material & Lighting Texture: Peeling lime-washed rural brick walls, mossy roof tiles, gnarled ancient jackfruit bark, sheer white mosquito net fabric under dim 15W amber light against deep midnight shadows.
+Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
-## [VOICE & DIALOGUE LOCK]
-- **Narrator**: VOICE_LOCK_NARRATOR_CNHADG — Deep bone-chilling 40-year-old Standard Northern Vietnamese male horror storyteller. Peak horror delivery — the whispered authority of someone describing what the village knows but doesn't speak of. "Bóng trắng lượn lờ bên trong" delivered with careful, measured dread. Each word spaced.
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
+Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_CNHADG — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
 
-## [DIALOGUE]
-| Timecode | Speaker | Type | Vietnamese Text |
-|----------|---------|------|----------------|
-| 0.5s–5.0s | Narrator | Voiceover | "Thầy cúng bảo vong hồn kéo vào căn nhà hoang cư ngụ." |
-| 5.5s–10.0s | Narrator | Voiceover (near-whisper) | "Từ đó... bóng trắng lượn lờ bên trong." |
+[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
+Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_CNHADG`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_BINH_CNHADG` ~135Hz 21yo male, `VOICE_LOCK_PHUONG_CNHADG` ~205Hz 50yo female, `VOICE_LOCK_QUAN_CNHADG` ~105Hz 55yo male, `VOICE_LOCK_BAY_CNHADG` ~115Hz 60yo male, `VOICE_LOCK_CUXA_CNHADG` ~98Hz 80yo spectral elder, `VOICE_LOCK_VONGLA_CNHADG` spectral whisper): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
-## [SOUND]
-- **Ambient Base**: Night exterior — distant frogs, wind through overgrown vegetation, the jackfruit tree groaning, isolation-level quiet. No village sounds — the house exists in its own pocket of silence.
-- **Foley**: Gate metal contracting (cooling metal tick), shutter creak at 5.0s (single, slow), mist movement sound (airy, barely there), something that might be a footstep inside the house at 8.5s (extremely faint, ambiguous)
-- **Score**: Deep reverberant sub-bass drone — continuous, building. High-frequency dissonant string harmonics (glass-like) entering at 3.5s. At 7.0s, a single đàn bầu note — distorted, reversed, ghostly — the instrument crying. At 8.0s when the shape appears: near-silence except the sub-bass. At 9.5s when it vanishes: sharp cut to absolute silence. Fade to black in pure quiet.
-- **Mix**: Narrator at -6dB; ambient at -16dB; score at -10dB (this is the horror climax of the scene — score is prominent); ghostly đàn bầu at -14dB
+[DIALOGUE — Timed to Action (1 turn(s), 56 Vietnamese words)]
+- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Thầy cao tay trong vùng bảo những vong hồn chết bất đắc kỳ tử ấy không tìm được đường về, thấy ngôi nhà cụ Xá bỏ không bèn kéo cả vào trong đó trú ngụ… Từ đấy về sau, đêm nào người đi làm đồng về khuya cũng thấy bóng trắng lượn lờ dưới gốc mít."
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
-## [EDIT IN]
-- Hard cut from interior @Binh close-up (Clip 5) to exterior night house shot — dramatic shift from warm lamp interior to cold moonlit exterior. The visual equivalent of a story jumping from the teller to the subject.
+[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
+- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng thở khàn đục chậm rãi ngay sát sau gáy kèm tiếng chuông chùa xa xăm ngân dài giữa đêm khuya thanh vắng.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror ambience (howling midnight wind through the jackfruit tree, frogs and crickets in the rice paddies, creaking folding cot, metallic pot crash, and eerie spectral whispers) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-## [START FRAME]
-Wide exterior shot — the haunted house at night from outside the rusted gate. Cold white moonlight. Jackfruit tree silhouetted against sky, branches reaching. Moss-covered brick walls silvery-green. Empty black window rectangles. Low mist in the overgrown courtyard. The house as a dark, watching entity.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Seamless match-on-action cut directly from Shot 03.5 into Shot 03.6 at 0.0s inside the locked Scene 03 environment (02:50–03:00), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
 
-## [END FRAME]
-Medium-wide shot of the house facade at night — fading to black. The window where the bóng trắng appeared is now empty, dark. Mist drifting. Absolute silence. The image dissolving into pure darkness. Scene 3 ends with the horror made real — or was it? Fade to black.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @VongLa từ điểm kết của Clip 03.5 tại ONGBAY_PORCH_AND_JACKFRUIT_GATE (Từ hiên nhà, `@OngBay` trầm ngâm nhìn xuyên qua màn sương mù dày đặc hướng về khúc cua quốc lộ ngay trước cổng sắt và gốc mít nhà cụ Xá chìm trong bóng tối lạnh ngắt.).
+
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+Máy quay đẩy chậm từ khúc cua sương mù tới dưới gốc mít cổ thụ trước cổng sắt: bóng `@VongLa` cao gầy ướt đẫm sương đêm đang đứng lờ mờ sau rặng cỏ dại nhìn chằm chằm vào căn nhà hoang. — Điểm dừng giàu sức nặng tâm lý ở giây 10.0s khép lại Cảnh 03 và mở hướng sang Cảnh 04.

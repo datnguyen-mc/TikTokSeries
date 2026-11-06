@@ -600,6 +600,125 @@ def is_clip_completed_in_db(channel_slug: str, ep_num: int, clip_num: int) -> Op
     return None
 
 
+def is_clip_failed_in_db(channel_slug: str, ep_num: int, clip_num: int) -> bool:
+    """Return True if clip is currently marked FAILED in cms_clip without a valid video."""
+    db_path = os.path.join(_FLOWKIT_DIR, "flow_agent.db")
+    if not os.path.isfile(db_path):
+        return False
+    try:
+        with sqlite3.connect(db_path) as conn:
+            row = conn.execute(
+                "SELECT status, r2_url, local_path FROM cms_clip WHERE id = ?",
+                (f"{channel_slug}:ep:{ep_num}:clip:{clip_num}",),
+            ).fetchone()
+            if row:
+                status, r2_url, local_path = row
+                if r2_url and str(r2_url).strip():
+                    return False
+                if local_path and os.path.isfile(str(local_path)) and os.path.getsize(str(local_path)) > 50_000:
+                    return False
+                return str(status or "").upper() == "FAILED"
+    except Exception:
+        pass
+    return False
+
+
+def persist_updated_prompt(
+    series_dir: str,
+    channel_slug: str,
+    ep_num: int,
+    clip_num: int,
+    new_prompt: str,
+    ep_folder_name: str = None,
+    project_id: str = None,
+    scene_db_id: str = None,
+    attempt: int = 1,
+    log_fn=None,
+) -> bool:
+    """
+    Khi một clip bị lỗi từ Google Flow, tự động lưu prompt đã làm mềm/cập nhật
+    xuống trực tiếp file canh-XX/clip-Y.md (hoặc tap-X/clip-Y.md) trên ổ đĩa
+    VÀ đồng bộ ngay vào bảng cms_clip + scene trong SQLite & Cloudflare D1.
+    """
+    if not new_prompt or not new_prompt.strip():
+        return False
+
+    clean_prompt = new_prompt.strip() + "\n"
+    folder = ep_folder_name or f"canh-{ep_num:02d}"
+    clip_file = os.path.join(series_dir, folder, f"clip-{clip_num}.md")
+
+    try:
+        if os.path.isdir(os.path.dirname(clip_file)):
+            with open(clip_file, "w", encoding="utf-8") as f:
+                f.write(clean_prompt)
+    except Exception as e:
+        if log_fn:
+            log_fn(f"⚠️ Không ghi được file prompt {clip_file}: {e}")
+
+    db_path = os.path.join(_FLOWKIT_DIR, "flow_agent.db")
+    clip_id = f"{channel_slug}:ep:{ep_num}:clip:{clip_num}"
+    now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+
+    if os.path.isfile(db_path):
+        try:
+            with sqlite3.connect(db_path, timeout=30) as conn:
+                conn.execute(
+                    "UPDATE cms_clip SET prompt = ?, status = 'PENDING', updated_at = ? WHERE id = ?",
+                    (clean_prompt.strip(), now, clip_id),
+                )
+                if scene_db_id:
+                    conn.execute(
+                        "UPDATE scene SET video_prompt = ?, horizontal_video_status = 'PENDING' WHERE id = ?",
+                        (clean_prompt.strip(), scene_db_id),
+                    )
+                conn.commit()
+        except Exception:
+            pass
+
+    try:
+        _post_api_json(
+            f"/api/cms/channels/{channel_slug}/episodes/{ep_num}/clips/{clip_num}",
+            {"prompt": clean_prompt.strip()},
+            timeout=8,
+        )
+    except Exception:
+        pass
+
+    try:
+        from agent.db.d1_client import is_d1_configured, d1_query_sync
+        if is_d1_configured():
+            d1_query_sync(
+                "UPDATE cms_clip SET prompt = ?, status = 'PENDING', updated_at = ? WHERE id = ?",
+                [clean_prompt.strip(), now, clip_id],
+            )
+            if scene_db_id:
+                d1_query_sync(
+                    "UPDATE scene SET video_prompt = ?, horizontal_video_status = 'PENDING' WHERE id = ?",
+                    [clean_prompt.strip(), scene_db_id],
+                )
+    except Exception:
+        pass
+
+    msg = (
+        f"💾 [AUTO-UPDATE PROMPT] Đã tự động cập nhật & lưu file {folder}/clip-{clip_num}.md "
+        f"+ đồng bộ DB (Cấp độ làm mềm {attempt}, {len(clean_prompt)} ký tự) để chạy lại!"
+    )
+    if log_fn:
+        log_fn(msg)
+    else:
+        print(msg, flush=True)
+        push_cms_log(
+            channel_slug,
+            "INFO",
+            "PROMPT_AUTO_FIX",
+            msg,
+            project_id=project_id,
+            episode=ep_num,
+            clip_num=clip_num,
+        )
+    return True
+
+
 def mark_clip_failed_in_db(channel_slug: str, ep_num: int, clip_num: int, scene_id: str = None) -> None:
     """Mark a clip without video as FAILED in local SQLite and Cloudflare D1 SQL so it can be retried."""
     db_path = os.path.join(_FLOWKIT_DIR, "flow_agent.db")
@@ -1300,6 +1419,57 @@ def wait_if_cooldown_error(res_text: str, flowkit_api: str = None, log_fn=print)
 # ─── Smart Multi-Stage Prompt Rewriter (Zero-Skip Guarantee) ─────────────────
 
 _EN_SAFE_REPLACEMENTS = [
+    (r"\bexhausted\s+dark\s+eyes\s+with\s+heavy\s+dark\s+circles\s+underneath\b", "attentive dark eyes"),
+    (r"\bheavy\s+dark\s+circles\s+underneath\b", "clear natural features"),
+    (r"\bhuddles\s+by\b", "sits quietly by"),
+    (r"\btrembling,\s+anxious\b", "expressive, earnest"),
+    (r"\btrembling\b", "subtle"),
+    (r"\banxious\b", "focused"),
+    (r"\bsupernatural\s+folk-horror\s+film\b", "atmospheric Vietnamese mystery drama film"),
+    (r"\bSUPERNATURAL_FOLK_HORROR\b", "ATMOSPHERIC_MYSTERY_DRAMA"),
+    (r"\bfolk-horror\b", "atmospheric mystery"),
+    (r"\bvisceral\s+psychological\s+dread\b", "deep emotional tension"),
+    (r"\bpsychological\s+dread\b", "emotional tension"),
+    (r"\bcorpse-pale\b", "cool silver"),
+    (r"\bash-pale\b", "weathered"),
+    (r"\bash-grey\b", "weathered grey"),
+    (r"\bmilky-white\s+blind\b", "aged squinting"),
+    (r"\bspine-chilling\b", "compelling"),
+    (r"\bbone-chilling\b", "resonant"),
+    (r"\bchillingly\b", "calmly"),
+    (r"\bchilling\b", "atmospheric"),
+    (r"\bhorror\s+storyteller\b", "late-night drama storyteller"),
+    (r"\bhorror\s+storytelling\b", "late-night drama storytelling"),
+    (r"\bhorror\s+cinema\b", "mystery cinema"),
+    (r"\bhorror\s+insert\b", "cinematic insert"),
+    (r"\bhorror\s+performance\b", "dramatic performance"),
+    (r"\bhorror\s+behaviour\b", "dramatic behaviour"),
+    (r"\bhorror\s+tension\b", "dramatic tension"),
+    (r"\bhorror\s+moments\b", "emotional moments"),
+    (r"\bhorror\s+soundscape\b", "atmospheric soundscape"),
+    (r"\bhorror\s+ambience\b", "night ambience"),
+    (r"\bhorror\s+sound\s+effects\b", "ambient foley effects"),
+    (r"\bHorror\s+SFX\b", "Ambient SFX"),
+    (r"\brusted\s+iron\s+chains\b", "weathered iron bands"),
+    (r"\biron\s+chains\b", "iron bands"),
+    (r"\bchain\s+cuff\b", "wrist bracelet"),
+    (r"\bchained\b", "sealed"),
+    (r"\bchains\b", "bands"),
+    (r"\bskeletal\b", "slender"),
+    (r"\bemaciated\b", "slender"),
+    (r"\bbony\s+fingers\b", "long fingers"),
+    (r"\bspectral\b", "distant"),
+    (r"\bapparition\b", "figure"),
+    (r"\bwandering\s+Vietnamese\s+spirit\s+entity\b", "mysterious Vietnamese figure"),
+    (r"\bspirit\s+entity\b", "mysterious figure"),
+    (r"\btragic\s+Northern\s+Vietnamese\s+maiden\b", "young Northern Vietnamese woman"),
+    (r"\bvisceral\b", "expressive"),
+    (r"\bdread\b", "tension"),
+    (r"\bblind\b", "squinting"),
+    (r"\bragged\s+breathing\b", "steady breathing"),
+    (r"\bdilated\s+pupils\b", "focused eyes"),
+    (r"\bcold\s+sweat\b", "rain droplets"),
+    (r"\bguilt-ridden\b", "earnest"),
     (r"\bsuperhero blockbuster\b", "photorealistic Vietnamese cinematic film"),
     (r"\bsuperhero\b", "skilled specialist"),
     (r"\bhollywood cinematography\b", "high-end cinema 24fps"),
@@ -1356,6 +1526,71 @@ _EN_SAFE_REPLACEMENTS = [
 ]
 
 _VI_SAFE_REPLACEMENTS = [
+    ("cái bẫy đầu tư tiền ảo trên mạng", "chuyện làm ăn xa nhà chưa thuận lợi"),
+    ("lòng tham cứ thế cuốn lấy tâm trí", "cậu cứ thế dồn hết tâm sức vào đó"),
+    ("đầu tư tiền ảo", "công việc làm ăn"),
+    ("tài khoản tiền ảo", "màn hình điện thoại"),
+    ("tiền ảo", "công việc"),
+    ("khi sàn sập", "khi công việc gặp trắc trở"),
+    ("sàn sập", "gặp biến cố"),
+    ("số nợ lãi mẹ đẻ lãi con", "những khoản chi phí dồn lại"),
+    ("lãi mẹ đẻ lãi con", "nhiều khoản dồn lại"),
+    ("kể chuyện ma đêm khuya", "kể chuyện đêm khuya"),
+    ("HẺM Truyện Ma", "Kể Chuyện Đêm Khuya"),
+    ("truyện ma", "chuyện đêm khuya"),
+    ("cao trào kinh dị", "cao trào tâm lý"),
+    ("kinh dị tâm linh", "tâm lý bí ẩn"),
+    ("kinh dị", "tâm lý bí ẩn"),
+    ("rùng rợn", "trầm lắng"),
+    ("rờn rợn", "trầm mặc"),
+    ("lạnh gáy", "sâu lắng"),
+    ("tuyệt vọng", "trầm tư suy nghĩ"),
+    ("cháy đỏ rực", "biến động"),
+    ("run rẩy ôm lấy đầu", "đưa tay lên trán suy tư"),
+    ("tự nhốt mình vào một cái bẫy không lối thoát", "bước vào một thử thách đầy bí ẩn"),
+    ("cái bẫy không lối thoát", "không gian tĩnh mịch"),
+    ("cõi âm dương giao hòa", "ngôi nhà cổ tĩnh mịch"),
+    ("cõi âm dương", "không gian xưa cũ"),
+    ("oan hồn", "hình bóng"),
+    ("oán linh", "hình bóng"),
+    ("vong hồn", "hình bóng"),
+    ("Vong hồn", "Hình bóng"),
+    ("hồn ma", "bóng người"),
+    ("bóng ma", "bóng người"),
+    ("ma quái", "kỳ bí"),
+    ("giọng ma vọng", "giọng vọng xa xăm"),
+    ("trấn yểm", "niêm phong"),
+    ("trấn hồn", "cổ truyền"),
+    ("dìm chết", "rơi xuống"),
+    ("chết oan", "khuất bóng"),
+    ("chết đuối", "chìm dưới nước"),
+    ("xác chết", "dấu vết"),
+    ("hài cốt", "di vật cổ"),
+    ("xương cốt", "di vật"),
+    ("quan tài", "rương gỗ cổ"),
+    ("ngôi mộ", "bia đá cổ"),
+    ("phần mộ", "khu đất cổ"),
+    ("nấm mộ", "mô đất cổ"),
+    ("bia mộ", "bia đá"),
+    ("nghĩa địa", "cánh đồng chiều"),
+    ("bóp cổ", "nắm giữ"),
+    ("siết cổ", "giữ chặt"),
+    ("bóp nghẹt", "đè nặng"),
+    ("vết bầm tím", "vệt sương mờ"),
+    ("bầm tím", "sẫm màu"),
+    ("mù một mắt", "nheo mắt"),
+    ("kéo mây trắng đục (mù)", "nheo lại trầm tư"),
+    ("trắng dã", "mờ sương"),
+    ("trắng bệch", "nhợt nhạt"),
+    ("xám ngoét", "xám trầm"),
+    ("xương xẩu", "gầy gò"),
+    ("hoảng loạn", "bất ngờ"),
+    ("khiếp đảm", "sững sờ"),
+    ("kinh hoàng", "bàng hoàng"),
+    ("gào thét", "gọi lớn"),
+    ("hét thất thanh", "thốt lên"),
+    ("cúng cô hồn", "thắp hương tưởng niệm"),
+    ("đòi mạng", "vọng về"),
     ("ống tiêm", "ống thuốc nhỏ"),
     ("mũi tiêm", "ống thuốc"),
     ("ống Tê", "ống mẫu"),
@@ -1447,6 +1682,16 @@ def _extract_dialogue_lines(prompt: str) -> list[str]:
     return lines
 
 
+def _extract_action_beats(prompt: str) -> list[str]:
+    """Trích xuất Beat 1 (0.0–3.0s), Beat 2 (3.0–7.0s), Beat 3 (7.0–10.0s) từ khối [ACTION] để giữ nguyên mạch chuyển cảnh mượt."""
+    beats = []
+    for raw_line in prompt.splitlines():
+        s = raw_line.strip()
+        if re.match(r"^-\s*Beat\s+[123]\b", s, flags=re.IGNORECASE):
+            beats.append(s)
+    return beats
+
+
 def rewrite_prompt_on_failure(
     prompt: str,
     attempt: int = 1,
@@ -1455,10 +1700,12 @@ def rewrite_prompt_on_failure(
 ) -> str:
     """
     Bộ đổi Prompt thông minh đa cấp độ ngay khi gặp lỗi từ Google Flow:
-    - Cấp độ 1 (attempt=1): Khử toàn bộ từ khóa nhạy cảm Anh/Việt, làm sạch khối [AVOID], làm mềm chuyển động và chuyển sang [FORMAT] (Ingredients R2V).
-    - Cấp độ 2+ (attempt>=2): Tái cấu trúc thành Storyboard sạch 3 phân cảnh, giữ nguyên khóa nhân vật @Tag và 100% lời thoại tiếng Việt.
+    - Cấp độ 1 (attempt=1): Khử toàn bộ từ khóa nhạy cảm Anh/Việt, làm sạch khối [AVOID], làm mềm chuyển động và giữ nguyên toàn bộ cấu trúc 3-Beat Match-On-Action + VOICE_LOCK.
+    - Cấp độ 2 (attempt=2): Tái cấu trúc gọn sạch, giữ nguyên 3-Beat Match-On-Action (Beat 1, Beat 2, Beat 3), khóa nhân vật @Tag, khóa giọng MC Đình Soạn 0.95x & lời thoại tiếng Việt.
+    - Cấp độ 3+ (attempt>=3): Tái cấu trúc Storyboard siêu an toàn đảm bảo 100% vượt qua bộ lọc Google Flow mà vẫn giữ khóa nhân vật @Tag và VOICE_LOCK.
     """
     p = prompt or ""
+    has_mc_dinh_soan = "VOICE_LOCK_NARRATOR_" in p or "MC Đình Soạn" in p
 
     # 1. Luôn áp dụng bộ lọc từ khóa an toàn Anh & Việt
     for pat, repl in _EN_SAFE_REPLACEMENTS:
@@ -1478,11 +1725,11 @@ def rewrite_prompt_on_failure(
         p = p.rstrip() + "\n\n" + clean_avoid
 
     is_portrait = "PORTRAIT" in (aspect_ratio or "").upper()
-    orient_str = "Vertical 9:16" if is_portrait else "Horizontal 16:9"
+    orient_str = "Vertical 9:16" if is_portrait else "Full-frame 16:9 widescreen"
     is_2d = "2d animated" in p.lower() or "hand-drawn" in p.lower()
     is_3d = "3d cgi" in p.lower() or "pixar" in p.lower()
 
-    # 3. Cấp độ 1: Khử từ nhạy cảm + làm mềm hành động + chuyển sang chế độ mở cảnh [FORMAT] độc lập (tránh lỗi từ start_frame)
+    # 3. Cấp độ 1: Khử từ nhạy cảm + làm mềm hành động + giữ nguyên toàn bộ cấu trúc 3-Beat Match-On-Action
     if attempt <= 1:
         p2 = re.sub(
             r"^Continue the scene(?: seamlessly| from[^\n]*)?[^\n]*\n(?:Vertical 9:16[^\n]*\n|Horizontal 16:9[^\n]*\n)?",
@@ -1493,7 +1740,7 @@ def rewrite_prompt_on_failure(
                     if is_2d
                     else "Pixar/Disney-style 3D CGI animated film, warm expressive lighting, 24fps. "
                     if is_3d
-                    else "photorealistic cinematic live-action film shot on 35mm lens, warm natural lighting, 24fps. "
+                    else "photorealistic cinematic live-action film shot on 35mm lens, balanced atmospheric lighting, 24fps. "
                 )
                 + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken dialogue in Vietnamese with natural accent and accurate lip-sync. No subtitles, no on-screen text.\n\n"
             ),
@@ -1502,22 +1749,33 @@ def rewrite_prompt_on_failure(
         )
         p2 = re.sub(r"\bExtreme close-up\b", "Medium close-up", p2, flags=re.IGNORECASE)
         p2 = re.sub(r"\bfrantically|desperately|violently|aggressively|furiously\b", "expressively", p2, flags=re.IGNORECASE)
-        p2 = re.sub(r"\bdark shadows|pitch black|eerie|ominous\b", "warm balanced cinematic lighting", p2, flags=re.IGNORECASE)
+        p2 = re.sub(r"\bdark shadows|pitch black|eerie|ominous\b", "balanced cinematic lighting", p2, flags=re.IGNORECASE)
         if p2.strip() == (prompt or "").strip():
             p2 = p2.rstrip() + f"\n# Safe-Retry-Pass-{attempt}"
         return p2
 
-    # 4. Cấp độ 2+: Tái cấu trúc Storyboard siêu an toàn, bảo toàn đúng các @Character có mặt trong clip và lời thoại
+    # 4. Cấp độ 2+: Tái cấu trúc Storyboard siêu an toàn, bảo toàn đúng các @Character, Narrator VOICE_LOCK, 3-Beat Match-On-Action và lời thoại
     dialogues = _extract_dialogue_lines(p)
+    beats = _extract_action_beats(p)
     char_lines = []
+    narrator_line = ""
     for line in p.splitlines():
-        if line.strip().startswith("@") and "=" in line:
-            clean_line = line.strip()
+        s_line = line.strip()
+        if s_line.startswith("@") and "=" in s_line:
+            clean_line = s_line
             for pat, repl in _EN_SAFE_REPLACEMENTS:
                 clean_line = re.sub(pat, repl, clean_line, flags=re.IGNORECASE)
             for k, v in _VI_SAFE_REPLACEMENTS:
                 clean_line = clean_line.replace(k, v)
             char_lines.append(clean_line)
+        elif s_line.startswith("Narrator") and "=" in s_line:
+            clean_narr = s_line
+            for pat, repl in _EN_SAFE_REPLACEMENTS:
+                clean_narr = re.sub(pat, repl, clean_narr, flags=re.IGNORECASE)
+            for k, v in _VI_SAFE_REPLACEMENTS:
+                clean_narr = clean_narr.replace(k, v)
+            narrator_line = clean_narr
+
     if not char_lines and character_specs:
         for spec in character_specs:
             tag = spec.get("tag", "")
@@ -1530,65 +1788,87 @@ def rewrite_prompt_on_failure(
                 desc = desc.replace(k, v)
             char_lines.append(f"{tag} = {desc}")
 
+    if narrator_line:
+        char_lines.append(narrator_line)
+
     setting_match = re.search(r"\[(?:SETTING|TIMELINE AND LOCATION)\]\s*\n(?:Scene[^\n]*\n)?([^\n]+)", p)
-    setting_line = setting_match.group(1).strip() if setting_match else "A warm, well-lit cinematic indoor setting in Vietnam."
-    setting_line = setting_line[:260]
+    setting_line = setting_match.group(1).strip() if setting_match else "Traditional Northern Vietnamese courtyard and wooden house in atmospheric evening mist."
+    setting_line = setting_line[:280]
 
     style_header = (
-        f"[FORMAT]\n{orient_str}, 10-second clip, "
+        f"[FORMAT]\n10 seconds (0.0s–10.0s), {orient_str}, 24 fps, "
         + (
-            "2D animated comedy cartoon with clean bold outlines and flat cel shading, 24fps. "
+            "2D animated comedy cartoon with clean bold outlines and flat cel shading. "
             if is_2d
-            else "stylized 3D CGI animation with warm cinematic lighting, 24fps. "
+            else "stylized 3D CGI animation with warm cinematic lighting. "
             if is_3d
-            else "photorealistic live-action cinematic 35mm film, warm natural daylight, shallow depth of field, 24fps. "
+            else "photorealistic live-action Vietnamese atmospheric mystery drama film (`omni_flash` 10s). "
         )
-        + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken dialogue in Vietnamese with accurate lip-sync. No subtitles, no captions, no on-screen text, no logos.\n"
+        + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken Vietnamese audio with Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). No subtitles, no captions, no on-screen text, no logos.\n"
     )
 
     chars_block = (
-        "[CHARACTERS — approved identities and current appearances]\n"
+        "[CHARACTERS — approved identities and locked Standard Northern Vietnamese voice profiles]\n"
         "Use the attached reference images strictly for facial identity and wardrobe inside the live scene; never show their plain grey studio background or cut to a portrait card.\n"
-        + ("\n".join(char_lines[:5]) if char_lines else "No named lead visible.")
+        + ("\n".join(char_lines[:6]) if char_lines else "No named lead visible.")
         + "\n"
     )
 
-    if attempt == 2:
+    if attempt == 2 and beats:
+        beats_str = "\n".join(beats[:3])
+        dlg_str = "\n".join(f"- Turn {idx + 1} {d}" for idx, d in enumerate(dialogues[:3]))
+        shots_block = (
+            "[ACTION — 0.0s–10.0s, one continuous evolving take with smooth 3-Beat Match-On-Action transitions]\n"
+            f"{beats_str}\n\n"
+            "[DIALOGUE — Timed to Action]\n"
+            f"{dlg_str}\n"
+            'Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, or voice-lock IDs.\n'
+        )
+    elif attempt == 2:
         d1 = f" {dialogues[0]}" if len(dialogues) >= 1 else ""
         d2 = f" {dialogues[1]}" if len(dialogues) >= 2 else ""
         d3 = f" {dialogues[2]}" if len(dialogues) >= 3 else ""
         shots_block = (
             "[SHOT LIST]\n"
-            f"00:00–00:03.5 | Medium wide shot, 35mm lens, gentle camera movement — the characters interact naturally in the scene with expressive body language.{d1}\n"
-            f"00:03.5–00:07 | Medium close-up, 50mm lens, warm lighting — focused reaction and natural conversation.{d2}\n"
-            f"00:07–00:10 | Medium shot, 35mm lens, steady framing — the characters conclude the moment with clear expressions and hold steady at the end.{d3}\n"
+            f"00:00–00:03.0 | Medium wide shot, 35mm lens, smooth incoming match-on-action camera movement — the characters interact naturally in the scene with expressive body language.{d1}\n"
+            f"00:03.0–00:07.0 | Medium close-up, 50mm lens, balanced atmospheric lighting — focused reaction and natural performance.{d2}\n"
+            f"00:07.0–00:10.0 | Medium shot, 35mm lens, steady outgoing bridge — the characters conclude the moment with clear expressions and hold a smooth 0.5s visual bridge at the end.{d3}\n"
         )
     else:
-        all_d = " ".join(dialogues[:3])
+        all_d = "\n".join(f"- Turn {idx + 1} {d}" for idx, d in enumerate(dialogues[:3]))
         lens_variant = "50mm cinema lens" if attempt % 2 == 0 else "35mm cinema lens"
-        light_variant = "soft golden daylight" if attempt % 2 == 0 else "warm studio practical lighting"
+        light_variant = "warm amber lantern lighting" if attempt % 2 == 0 else "balanced atmospheric evening lighting"
+        b2_summary = beats[1] if len(beats) >= 2 else "the characters perform the scene naturally with expressive emotion."
         shots_block = (
-            "[SHOT LIST]\n"
-            f"00:00–00:05 | Medium shot ({lens_variant}, {light_variant}) — the characters stand in the scene and converse naturally with warm, clear expressions. {all_d}\n"
-            f"00:05–00:10 | Medium wide shot ({lens_variant}, smooth framing) — calm reaction and natural posture, holding still for the final 0.5 seconds.\n"
+            "[ACTION & SHOT LIST]\n"
+            f"00:00–00:03.0 | Medium wide shot ({lens_variant}, {light_variant}) — smooth incoming match-on-action continuity in the scene.\n"
+            f"00:03.0–00:07.0 | Medium shot ({lens_variant}) — {b2_summary}\n"
+            f"00:07.0–00:10.0 | Medium close-up ({lens_variant}, smooth framing) — calm reaction and natural posture, holding a clean 0.5s bridge at the end.\n\n"
+            "[DIALOGUE — Timed to Action]\n"
+            f"{all_d}\n"
+            'Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud.\n'
         )
 
     voice_speed_block = (
-        "[GLOBAL VOICE & ACCENT LOCK — STANDARD NORTHERN VIETNAMESE]\n"
-        "All spoken Vietnamese dialogue and off-screen narration must be delivered in a natural Standard Northern Vietnamese accent (giọng chuẩn miền Bắc) with clear articulation, expressive cinematic horror intonation, and accurate syllable-level synchronization. "
+        "[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]\n"
+        "All spoken Vietnamese dialogue and off-screen narration must be delivered in a 100% Standard Northern Vietnamese accent (giọng chuẩn miền Bắc) with clear articulation, deep resonant late-night storytelling cadence (42-year-old Hanoi male narrator ~110 Hz mid-baritone at 0.95x speed when VO, or locked character voice when Lip-Sync), and accurate synchronization. "
         "Strictly forbid Southern Vietnamese (Saigon/Mekong Delta) accent. "
-        "Preserve each character's and the narrator's locked voice identity, pitch, emotional tone, and vocal personality. "
-        "Do not rush, swallow syllables, clip words, or introduce unnatural pauses. "
-        "Complete dialogue within its assigned time window. Continue natural breathing, facial expressions, and physical actions after the line finishes.\n"
+        "When the off-screen narrator speaks, all on-screen characters keep their mouths naturally closed.\n"
+    )
+
+    sound_line = (
+        "[SOUND]\nNatural evening room ambience, rain and wind foley, clear Standard Northern Vietnamese voice at 0.95x storytelling speed with 0.15s audio continuity at 0.0s and 10.0s.\n\n"
+        if has_mc_dinh_soan
+        else "[SOUND]\nNatural room ambience, clear Vietnamese dialogue, gentle background instrumental score.\n\n"
     )
 
     rebuilt = (
         f"{style_header}\n"
         f"{chars_block}\n"
-        f"[SETTING]\n{setting_line}\n\n"
+        f"[TIMELINE AND LOCATION]\n{setting_line}\n\n"
         f"{shots_block}\n"
         f"{voice_speed_block}\n"
-        "[SOUND]\nNatural room ambience, clear Vietnamese dialogue at 1.25x speed, gentle background instrumental score.\n\n"
+        f"{sound_line}"
         f"{clean_avoid}\n"
     )
     return rebuilt

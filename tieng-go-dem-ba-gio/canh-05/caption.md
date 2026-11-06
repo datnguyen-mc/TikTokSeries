@@ -1,5 +1,5 @@
-# Caption Cảnh 05 — Tiếng Gõ Đêm Ba Giờ: Đồng Hồ Dừng Ở 02:59 & Tiếng Xích Sắt Tự Rung Ngoài Sân Mưa
+# Caption Cảnh 05 — Tiếng Gõ Đêm Ba Giờ: Buổi Sáng Kỳ Lạ & Cánh Cổng Bị Khóa Trái Bằng Xích Đồng
 
-🕯️ Đúng 3 giờ sáng, nếu nghe 3 tiếng gõ từ đáy giếng đá ong bị xiềng 7 sợi xích sắt... tuyệt đối đừng nhìn xuống! (Phần 5/15)
+🕯️ Đúng 3 giờ sáng, nếu nghe 3 tiếng gõ từ đáy giếng đá ong bị xiềng xích sắt... tuyệt đối đừng nhìn xuống! (Phần 5/15)
 
-#TiengGoDemBaGio #TruyenMaKeChuyen #PhimMaVietNam #KinhDiDanGian #ChuyenMaDemKhuya #LoiNguyenGiengDaOng #FolkHorror
+#TiengGoDemBaGio #TruyenMaKeChuyen #MCDinhSoan #PhimMaVietNam #KinhDiDanGian #ChuyenMaDemKhuya #LoiNguyenGiengDaOng #FolkHorror

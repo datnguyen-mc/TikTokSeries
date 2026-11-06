@@ -1,60 +1,66 @@
-# CLIP 1 — CẢNH 06: NGÀY BÌNH YÊN Ở LÀNG
+[FORMAT]
+10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering dim 15W filament amber and weathered rural brick browns contrasted with cold midnight indigo-blue shadows, mossy roof tiles, and corpse-pale moonlight mist, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @Binh, @OngBay), shot type: ESTABLISHING_WIDE): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
 
-## [FORMAT]
-- **Engine:** omni_flash (Google Flow Omni 10s Ingredients Reference-to-Video)
-- **Duration:** 10.0s (0.0s–10.0s)
-- **Aspect Ratio:** 16:9 widescreen
-- **Frame Rate:** 24fps
-- **Style:** Photorealistic
-- **Genre:** SUPERNATURAL_FOLK_HORROR
-- **Color Grade:** Gritty Vietnamese folk-horror — warm golden sunlight filtered through haze, muted earth tones, sun-bleached greens, dusty amber atmosphere. A deceptive peacefulness.
+[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
+@Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a): same approved identity, age 21; Northern Vietnamese male senior university student, 172 cm, thin pale build, messy short black hair, exhausted dark eyes with heavy dark circles underneath, wearing a faded charcoal-grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack. Voice profile: [VOICE_LOCK_BINH_CNHADG — Cố định giọng Bình chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).
+@OngBay = Ông Bảy — Hàng xóm (media_id: 10e5cdcf-3dd1-4b41-b999-21922b65de89): same approved identity, age 60; kind Northern Vietnamese male rice farmer neighbor, 168 cm, lean tanned dark-skinned build, silver-streaked hair, warm wrinkled face, wearing a faded brown plaid button-up work shirt, brown trousers, and rubber sandals. Voice profile: [VOICE_LOCK_BAY_CNHADG — Cố định giọng Ông Bảy chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 60-year-old native Standard Northern Vietnamese rural elderly male voice (~115 Hz rustic baritone), warm, candid, grounded and hushed when warning of ghosts (giọng bác nông dân 60 tuổi chuẩn miền Bắc, mộc mạc, ấm áp).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
-## [CHARACTERS]
-- @Binh — Bình: 21-year-old Vietnamese male university student, 172cm, thin pale build, messy short black hair, tired dark eyes with dark circles, wearing a faded grey hoodie (sleeves rolled up) over wrinkled white T-shirt, dark jeans. For this clip: relaxed posture, face softened, almost peaceful. Walking beside Ông Bảy in the rice field.
-- @OngBay — Ông Bảy: 60-year-old Vietnamese male farmer, 168cm, lean tanned dark skin, silver-streaked hair, kind wrinkled face, wearing faded plaid shirt and brown work trousers, rubber sandals. Carrying a hoe over his shoulder, walking with ease.
+[TIMELINE AND LOCATION]
+Scene 06/15, clip 1/6; shot 06.1 (10.0s | Model: `omni_flash` 10s). Story time: 16:30 Chiều đến 22:30 Đêm (05:00–06:00) (05:00–05:10).
+Peaceful village lane by late afternoon transitioning to @OngBay's dim porch drinking table at night, and the towering ancient jackfruit tree outside @Binh's iron gate in midnight fog.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 06 (Clip 1–6)]
+FIXED SCENE 06 SPACE (Đường làng, hiên nhà uống rượu đêm và gốc mít cổ thụ trước cổng sắt nhà Bình): Trục chuyển mượt từ câu chuyện bên bàn rượu sang hiện trường gốc mít sương mù.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 06.
 
-## [TIMELINE AND LOCATION]
-- **Time:** Late morning, day (approximately 9-10 AM)
-- **Location:** Expansive green rice paddy field on the outskirts of the village. Flat terrain stretching to the horizon, young green rice shoots swaying gently. Dirt embankment path cutting through the paddies. Distant tree line of bamboo and eucalyptus. Hazy sky, soft diffused sunlight.
+[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
+Nối tiếp ánh nắng ngoài hiên, `@Binh` đi sóng đôi cùng `@OngBay` dọc theo bờ ruộng lúa xanh mướt dưới nắng chiều yên ả, gương mặt cậu giãn ra nhẹ nhõm giữa khung cảnh làng quê thanh bình.
 
-## [DRAMATIC INTENT]
-Establish a false sense of peace and normalcy. After the unsettling events of previous scenes, this scene opens with idyllic rural beauty — the audience should feel a brief respite, knowing it cannot last. The narrator's tone carries subtle irony: "bình yên đến lạ" (strangely peaceful) signals something is wrong beneath the surface.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside RURAL_LANE_AND_JACKFRUIT_GATE as @Binh, @OngBay continues seamlessly from the previous beat. 3.0–7.0s: Nối tiếp ánh nắng ngoài hiên, `@Binh` đi sóng đôi cùng `@OngBay` dọc theo bờ ruộng lúa xanh mướt dưới nắng chiều yên ả, gương mặt cậu giãn ra nhẹ nhõm giữa khung cảnh làng quê thanh bình. 7.0–10.0s: The camera settles smoothly on @Binh, @OngBay's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_CNHADG, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Chuyển cảnh mượt mà từ cuối Cảnh 05 sang không gian RURAL_LANE_AND_JACKFRUIT_GATE của Cảnh 06 (16:30 Chiều đến 22:30 Đêm (05:00–06:00)): máy quay mở trục ESTABLISHING_WIDE (24mm) thiết lập bầu không khí tâm linh với sự hiện diện của @Binh, @OngBay.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào tâm lý / Core Dramatic Action): Nối tiếp ánh nắng ngoài hiên, `@Binh` đi sóng đôi cùng `@OngBay` dọc theo bờ ruộng lúa xanh mướt dưới nắng chiều yên ả, gương mặt cậu giãn ra nhẹ nhõm giữa khung cảnh làng quê thanh bình.
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @Binh, @OngBay, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 06.2 (Từ đường đồng về tới hiên nhà ngói, `@Binh` ngồi bên bàn gỗ nâng chén nước chè xanh bốc khói cùng `@OngBay`, k...).
+Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
-## [ACTION]
-- 0.0s–3.0s: Wide establishing shot of the rice paddy field, sweeping slowly left-to-right. Morning sunlight catches the green rice shoots. Birds chirp. Two distant figures walk along the embankment path.
-- 3.0s–6.5s: Medium tracking shot from behind as @Binh and @OngBay walk side by side along the narrow dirt path between paddies. @OngBay points at something in the field. @Binh nods, looking around with a faint genuine smile — rare for him.
-- 6.5s–10.0s: Close-up on @Binh's face as he walks. Sunlight on his cheeks. His expression is relaxed, almost hopeful. A gentle breeze ruffles his hair. He takes a deep breath. The shot holds — a moment of fragile peace.
+[BLOCKING AND PERFORMANCE]
+- Spatial Blocking: Characters (@Binh, @OngBay) maintain consistent screen positions and eyeline vectors within RURAL_LANE_AND_JACKFRUIT_GATE matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
+- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron gates, thin mosquito nets, and ancestral props.
 
-## [PROPS]
-- Hoe (cuốc) resting on Ông Bảy's shoulder
-- Wide green rice paddy with young shoots
-- Dirt embankment path (bờ ruộng)
-- Distant bamboo/eucalyptus tree line
-- Conical straw hat (nón lá) hanging on Ông Bảy's back
+[CAMERA — Shot Size, Lens, Movement & Continuity]
+- Lens & Shot Type: 24mm, 24 fps, 180-degree shutter, ESTABLISHING_WIDE.
+- Camera Movement Plan (0.0–10.0s): 24mm stabilized gimbal slow creeping push-in establishing spatial geometry and atmospheric folk-horror dread. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
-## [BODY, MOUTH AND FACE CONSISTENCY]
-- @Binh: Posture upright and relaxed (contrast to his usual hunched anxious stance). Mouth neutral or slightly smiling. Eyes open and clear — dark circles still visible but face less tense. Walking with natural gait, arms swinging gently.
-- @OngBay: Walks with confident farmer's stride. Right hand holds hoe handle on shoulder. Left hand gestures toward field when pointing. Face weathered but kind, mouth moving briefly when pointing. Eyes squinting in sunlight.
+[PROPS & VISIBLE TEXTURE]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 06]
+FIXED SCENE 06 OBJECTS: (1) Chén rượu quê và ấm chè trên bàn gỗ; (2) Bao thuốc lá rơi trên đám rễ mít cổ thụ đẫm sương đêm; (3) Gương mặt trắng bệch hốc mắt đen ngòm của @VongLa dưới tán mít; (4) Cánh cổng sắt lạnh toát lúc nửa đêm.
+- Visible Material & Lighting Texture: Peeling lime-washed rural brick walls, mossy roof tiles, gnarled ancient jackfruit bark, sheer white mosquito net fabric under dim 15W amber light against deep midnight shadows.
+Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
-## [VOICE & DIALOGUE LOCK]
-- **Narrator:** VOICE_LOCK_NARRATOR_CNHADG — Deep bone-chilling 40-year-old Standard Northern Vietnamese male horror storyteller. In this clip, tone is deliberately calm, warm, nostalgic — but with an undercurrent of melancholy and irony. Pace: measured, unhurried.
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
+Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_CNHADG — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
 
-## [DIALOGUE]
-| Timestamp | Speaker | Type | Vietnamese Text |
-|-----------|---------|------|-----------------|
-| 1.5s–9.5s | Narrator | Voiceover | "Những ngày tiếp theo trôi qua bình yên đến lạ. Bình theo ông Bảy ra đồng, hít thở cái mùi bùn đất mà cả đời ở thành phố cậu chưa từng biết." |
+[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
+Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_CNHADG`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_BINH_CNHADG` ~135Hz 21yo male, `VOICE_LOCK_PHUONG_CNHADG` ~205Hz 50yo female, `VOICE_LOCK_QUAN_CNHADG` ~105Hz 55yo male, `VOICE_LOCK_BAY_CNHADG` ~115Hz 60yo male, `VOICE_LOCK_CUXA_CNHADG` ~98Hz 80yo spectral elder, `VOICE_LOCK_VONGLA_CNHADG` spectral whisper): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
-## [SOUND]
-- **Ambience:** Morning rice paddy soundscape — birdsong (chim sẻ, chim sáo), gentle breeze through rice shoots, distant water buffalo lowing, faint cicadas
-- **Foley:** Soft footsteps on packed dirt path, fabric rustling, hoe handle creaking on shoulder
-- **Music:** Sparse acoustic guitar — warm, pastoral, single notes plucked slowly. Hints of a Vietnamese minor key melody underneath.
-- **Mix:** Ambience 40% | Narrator 45% | Music 15%
+[DIALOGUE — Timed to Action (1 turn(s), 44 Vietnamese words)]
+- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Hai ngày tiếp theo trôi qua êm ả đến lạ thường. Ban ngày Bình theo ông Bảy ra thăm đồng, chiều về ăn cơm trò chuyện cùng gia đình ông, sự bình yên thôn dã khiến cậu vơi đi phần nào nỗi ám ảnh."
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
-## [EDIT IN]
-- Cut from previous scene's black/dark frame to the bright wide paddy shot — a deliberate visual contrast signaling a new chapter.
+[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
+- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng gió đêm rít lạnh buốt qua tán mít cổ thụ nghe như tiếng người thở dài; tiếng dế kêu và ếch nhái vọng lên từ cánh đồng lúa tối mịt.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror ambience (howling midnight wind through the jackfruit tree, frogs and crickets in the rice paddies, creaking folding cot, metallic pot crash, and eerie spectral whispers) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-## [START FRAME]
-Wide aerial-angle shot of an expansive green rice paddy field in morning haze. Two small figures walk along a dirt embankment in the middle distance. Soft golden sunlight. Peaceful, bucolic.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Smooth atmospheric scene transition from Scene 05 into Scene 06 Shot 06.1 at 0.0s (05:00–05:10) via Google Flow Omni 10s (`omni_flash`), establishing RURAL_LANE_AND_JACKFRUIT_GATE with consistent cinematic grading. Never flash or display any studio reference portrait or grey backdrop.
 
-## [END FRAME]
-Close-up of @Binh's face in profile, soft sunlight warming his skin. Eyes calm, mouth relaxed with a trace of a smile. Green rice field bokeh in background. A fragile moment of peace captured.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình mở đầu Cảnh 06 tại RURAL_LANE_AND_JACKFRUIT_GATE (16:30 Chiều đến 22:30 Đêm (05:00–06:00)) với @Binh, @OngBay trong bố cục ESTABLISHING_WIDE (24mm).
+
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+Nối tiếp ánh nắng ngoài hiên, `@Binh` đi sóng đôi cùng `@OngBay` dọc theo bờ ruộng lúa xanh mướt dưới nắng chiều yên ả, gương mặt cậu giãn ra nhẹ nhõm giữa khung cảnh làng quê thanh bình. — Khóa chặt tư thế, hướng nhìn của @Binh, @OngBay và trục máy ở giây 10.0s để nối mượt sang Clip 06.2.

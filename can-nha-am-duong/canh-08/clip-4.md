@@ -1,60 +1,66 @@
-# CLIP 4 — CẢNH 08: BÀN TAY QUA MÀN
+[FORMAT]
+10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering dim 15W filament amber and weathered rural brick browns contrasted with cold midnight indigo-blue shadows, mossy roof tiles, and corpse-pale moonlight mist, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @Binh, @VongLa), shot type: OVER_SHOULDER): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
 
-## [FORMAT]
-- **Engine:** omni_flash (Google Flow Omni 10s Ingredients Reference-to-Video)
-- **Duration:** 10.0s (0.0s–10.0s)
-- **Aspect Ratio:** 16:9 widescreen
-- **Frame Rate:** 24fps
-- **Style:** Photorealistic
-- **Genre:** SUPERNATURAL_FOLK_HORROR
-- **Color Grade:** Gritty Vietnamese folk-horror — cold desaturated tones. The ghost hand: sickly grey-green, the color of drowned flesh. Nails: black-brown, cracked. The mosquito net mesh lit from behind creates a gauzy white veil being penetrated. Deeply unsettling color separation between warm (Bình's skin) and cold (the ghost hand).
+[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
+@Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a): same approved identity, age 21; Northern Vietnamese male senior university student, 172 cm, thin pale build, messy short black hair, exhausted dark eyes with heavy dark circles underneath, wearing a faded charcoal-grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack. Voice profile: [VOICE_LOCK_BINH_CNHADG — Cố định giọng Bình chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).
+@VongLa = Vong Tai Nạn Dưới Gốc Mít (media_id: 0c2ade1f-c1cd-4c93-98e2-697231a54887): same approved identity, age 28; terrifying shadowy pale apparition from the 3 AM wedding bus crash 13 years ago, tall skeletal silhouette, ash-grey damp skin, tangled wet black hair covering half the face, hollow pitch-black eyes, long bony fingers with dark nails, tattered damp clothes, clean atmospheric ghost appearance (no gore). Voice profile: [VOICE_LOCK_VONGLA_CNHADG — Cố định giọng Vong Lạ chuẩn miền Bắc xuyên suốt 90 clips]: Chilling echoing Standard Northern Vietnamese spectral whisper reverberating from all directions in the dark (giọng ma vọng lạnh lẽo chuẩn miền Bắc từ bốn phía).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
-## [CHARACTERS]
-- @Binh — Bình: 21-year-old Vietnamese male university student, 172cm, thin pale build, messy short black hair, tired dark eyes with dark circles, wearing a wrinkled white T-shirt and boxer shorts. Lying rigid, unable to move or scream. Face contorted in silent terror.
-- @VongLa — Vong lạ (accident ghost): Only the ARM AND HAND visible — reaching through the mosquito net. Grey-green flesh, five fingers with long black cracked nails. The arm is too thin, bones visible under translucent skin. The hand moves with deliberate, slow purpose through the gauze.
+[TIMELINE AND LOCATION]
+Scene 08/15, clip 4/6; shot 08.4 (10.0s | Model: `omni_flash` 10s). Story time: 02:45 Rạng sáng (07:00–08:00) (07:30–07:40).
+Suffocatingly silent bedroom inside the abandoned rural house at 2:45 AM; moonlight outside the jackfruit tree and a dim amber bulb inside casting long shadows across the sheer white mosquito net over @Binh's folding cot.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 08 (Clip 1–6)]
+FIXED SCENE 08 SPACE (Từ bóng cây mít ngoài sân xuyên qua cửa sổ vào bên trong tấm màn tuyn trắng trên chiếc giường xếp lúc 02:45 sáng): Trục cận cảnh nghẹt thở giữ nguyên trong phòng ngủ xuyên suốt 6 clips.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 08.
 
-## [TIMELINE AND LOCATION]
-- **Time:** Night, approximately 2:02 AM
-- **Location:** Same bedroom. Tight framing on the bed — the mosquito net, @Binh's body, the hand penetrating the net. The world has shrunk to this bed, this net, this hand.
+[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
+Bóng `@VongLa` đứng bất động ngoài màn không đáp lời; đột nhiên, bàn tay xám ngoét da nhăn nheo lạnh ngắt với năm móng tay dài đen kịt của `@VongLa` đâm xuyên thẳng qua lớp vải màn tuyn vươn về phía `@Binh`!
 
-## [DRAMATIC INTENT]
-The mosquito net — childhood's gauze shield — is violated. The hand pushing through the mesh is a boundary violation that triggers primal revulsion. The slow, deliberate movement suggests intelligence and intention. The five grey fingers with black nails are rendered in visceral, stomach-churning detail. Bình's inability to scream (cổ họng bị siết chặt) adds helplessness to the terror — the classic nightmare state where your body betrays you.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside HAUNTED_BEDROOM_COT as @Binh, @VongLa continues seamlessly from the previous beat. 3.0–7.0s: Bóng `@VongLa` đứng bất động ngoài màn không đáp lời; đột nhiên, bàn tay xám ngoét da nhăn nheo lạnh ngắt với năm móng tay dài đen kịt của `@VongLa` đâm xuyên thẳng qua lớp vải màn tuyn vươn về phía `@Binh`! 7.0–10.0s: The camera settles smoothly on @Binh, @VongLa's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_CNHADG, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 08.3 (Từ góc nhìn của `@Binh` nhìn xuyên qua lớp vải màn tuyn trắng mỏng tang: cái bóng đen cao gầy méo mó của `@VongLa` đang đứng sừng sững ngay sát mép giường xếp, cúi gằm mặt nhìn thẳng xuống cậu.): máy quay giữ nguyên trục không gian HAUNTED_BEDROOM_COT và ánh sáng hiện trường, dẫn nhịp chuyển động trực tiếp sang @Binh, @VongLa.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào tâm lý / Core Dramatic Action): Bóng `@VongLa` đứng bất động ngoài màn không đáp lời; đột nhiên, bàn tay xám ngoét da nhăn nheo lạnh ngắt với năm móng tay dài đen kịt của `@VongLa` đâm xuyên thẳng qua lớp vải màn tuyn vươn về phía `@Binh`!
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @Binh, @VongLa, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 08.5 (Bàn tay xác chết xám ngoét của `@VongLa` chụp xuống bóp chặt cứng lấy cổ tay trái của `@Binh`. `@Binh` trợn mắ...).
+Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
-## [ACTION]
-- 0.0s–3.0s: Close-up on the mosquito net mesh. From the other side: the silhouette's arm begins to move. Slowly, a hand presses against the mesh from outside — the gauze deforming inward, stretching around the fingers. The five fingertips press through the weave, one by one.
-- 3.0s–6.0s: The hand pushes fully through the mosquito net — the mesh splits/stretches around the wrist. The arm extends inside the net. Five grey-green fingers spread wide, long black nails curving. The hand hovers above @Binh's blanket, descending slowly toward his body. Camera: close-up tracking the hand.
-- 6.0s–8.0s: Cut to @Binh's face — mouth wide open in a silent scream. Veins on his neck bulging — he's trying to scream but no sound comes out. His throat muscles spasm. His eyes are locked on the hand descending toward him. Tears stream down the sides of his face.
-- 8.0s–10.0s: The hand reaches @Binh. It hovers above his chest, then moves toward his face — almost a caress. @Binh's entire body trembles but does not move. The hand's shadow falls across his face. Hold.
+[BLOCKING AND PERFORMANCE]
+- Spatial Blocking: Characters (@Binh, @VongLa) maintain consistent screen positions and eyeline vectors within HAUNTED_BEDROOM_COT matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
+- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron gates, thin mosquito nets, and ancestral props.
 
-## [PROPS]
-- Mosquito net — being penetrated by the ghost hand, mesh stretching and deforming
-- The ghost hand/arm — grey-green skin, visible bones and veins, long black cracked nails
-- @Binh's sweat-soaked T-shirt and blanket
-- Bed frame
+[CAMERA — Shot Size, Lens, Movement & Continuity]
+- Lens & Shot Type: 50mm, 24 fps, 180-degree shutter, OVER_SHOULDER.
+- Camera Movement Plan (0.0–10.0s): 50mm over-the-shoulder framing connecting foreground subject with midground supernatural tension. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
-## [BODY, MOUTH AND FACE CONSISTENCY]
-- @Binh: Body absolutely rigid — cannot move. Only involuntary responses: tears streaming, veins on neck bulging, body micro-trembling, throat muscles spasming. Mouth wide open — a perfect O — no sound emerging. Eyes: pupils dilated, whites showing all around iris, locked on the hand. Face wet with tears and sweat. At 8.0s: the hand's shadow crosses his face — his eyes squeeze shut for a moment, then open again, unable to look away.
-- @VongLa (hand/arm only): Five fingers spread wide as they push through mesh (0.0s–3.0s). Skin: grey-green, translucent — blue-black veins visible beneath. Nails: long (1cm+), black-brown, cracked and rough. The joints are prominent — knobby, arthritic. Movement: unnaturally smooth and slow — no tremor, no hesitation. Inhuman precision. At 8.0s: fingers relax slightly, almost gently — a horrible parody of tenderness.
+[PROPS & VISIBLE TEXTURE]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 08]
+FIXED SCENE 08 OBJECTS: (1) Lớp màn tuyn trắng mỏng tang; (2) Bàn tay xám ngoét móng dài đen đặc của @VongLa xuyên thẳng qua màn; (3) Cổ tay trái của Bình bị bóp chặt cứng; (4) Vết bầm tím đen năm ngón tay hằn sâu không còn biến mất.
+- Visible Material & Lighting Texture: Peeling lime-washed rural brick walls, mossy roof tiles, gnarled ancient jackfruit bark, sheer white mosquito net fabric under dim 15W amber light against deep midnight shadows.
+Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
-## [VOICE & DIALOGUE LOCK]
-- **Narrator:** VOICE_LOCK_NARRATOR_CNHADG — Deep bone-chilling 40-year-old Standard Northern Vietnamese male horror storyteller. Voice barely above a breath. The narrator sounds as terrified as @Binh — as if even telling this part of the story requires courage.
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
+Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_CNHADG — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
 
-## [DIALOGUE]
-| Timestamp | Speaker | Type | Vietnamese Text |
-|-----------|---------|------|-----------------|
-| 2.0s–9.0s | Narrator | Voiceover (barely audible whisper) | "Bàn tay thò qua lớp màn. Năm ngón xám xịt, móng dài đen ngòm. Bình muốn hét — nhưng cổ họng bị siết chặt, không thốt nổi một lời." |
+[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
+Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_CNHADG`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_BINH_CNHADG` ~135Hz 21yo male, `VOICE_LOCK_PHUONG_CNHADG` ~205Hz 50yo female, `VOICE_LOCK_QUAN_CNHADG` ~105Hz 55yo male, `VOICE_LOCK_BAY_CNHADG` ~115Hz 60yo male, `VOICE_LOCK_CUXA_CNHADG` ~98Hz 80yo spectral elder, `VOICE_LOCK_VONGLA_CNHADG` spectral whisper): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
-## [SOUND]
-- **Ambience:** Dead silence — the house has become a vacuum.
-- **Foley:** Mosquito net mesh stretching (a faint tearing/creaking sound at 1.0s–3.0s), @Binh's choked attempt to scream (guttural, strangled, at 6.5s), tears hitting the pillow (inaudible but implied), @Binh's rapid heartbeat (louder now, erratic), the ghost hand: a faint dry whisper as it moves — like dead skin on fabric
-- **Music:** Dissonant string cluster — slow, sickening, building. Multiple overlapping notes creating a wall of sonic dread. Peaks at 8.0s when the hand reaches @Binh's face. Holds at peak through 10.0s — no resolution.
-- **Mix:** Narrator (whisper) 40% | Foley 30% | Music 25% | Ambience 5%
+[DIALOGUE — Timed to Action (1 turn(s), 47 Vietnamese words)]
+- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Đáp lại tiếng hỏi run rẩy của cậu chỉ là sự im lặng chết chóc… Và rồi, xuyên qua lớp vải màn mỏng tang, một bàn tay xám ngoét như tay xác chết với năm móng dài đen đặc từ từ thò thẳng vào bên trong màn!"
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
-## [EDIT IN]
-- Cut from the two-plane composition (clip 3) to the close-up on the net — the camera moves closer, the horror becomes inescapably intimate.
+[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
+- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng bóng đèn dây tóc chập chờn kêu 'xẹt' nhỏ; tiếng hơi thở gấp gáp nén chặt trong cổ họng giữa không gian đặc quánh mùi ẩm mốc.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror ambience (howling midnight wind through the jackfruit tree, frogs and crickets in the rice paddies, creaking folding cot, metallic pot crash, and eerie spectral whispers) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-## [START FRAME]
-Extreme close-up on the mosquito net mesh. From the far side: a grey-green hand pressing against the gauze, fingertips pushing through the weave. The mesh deforms around each finger. Faint cold light behind the hand. The gauze — childhood's paper shield — beginning to fail.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Seamless match-on-action cut directly from Shot 08.3 into Shot 08.4 at 0.0s inside the locked Scene 08 environment (07:30–07:40), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
 
-## [END FRAME]
-Split composition: bottom half — @Binh's face, eyes wide, mouth open in silent scream, tears streaming, veins on neck bulging. Top half — the ghost hand hovering above his face, five grey-green fingers spread, long black nails, casting shadow across his features. The hand almost touching. The most intimate and violating terror. Frozen at the threshold of contact.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @Binh, @VongLa từ điểm kết của Clip 08.3 tại HAUNTED_BEDROOM_COT (Từ góc nhìn của `@Binh` nhìn xuyên qua lớp vải màn tuyn trắng mỏng tang: cái bóng đen cao gầy méo mó của `@VongLa` đang đứng sừng sững ngay sát mép giường xếp, cúi gằm mặt nhìn thẳng xuống cậu.).
+
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+Bóng `@VongLa` đứng bất động ngoài màn không đáp lời; đột nhiên, bàn tay xám ngoét da nhăn nheo lạnh ngắt với năm móng tay dài đen kịt của `@VongLa` đâm xuyên thẳng qua lớp vải màn tuyn vươn về phía `@Binh`! — Khóa chặt tư thế, hướng nhìn của @Binh, @VongLa và trục máy ở giây 10.0s để nối mượt sang Clip 08.5.

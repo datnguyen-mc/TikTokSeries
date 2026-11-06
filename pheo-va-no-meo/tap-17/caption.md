@@ -1,47 +1,9 @@
-# Caption · 365 Ngày Phèo Làm Nội Trợ · Tập 17: Thịt ba rọi kho tiêu nước mắm kẹo · Bà chủ dọa dùng AI đi chợ hộ, Phèo đòi lãnh trợ cấp thất nghiệp
+# Caption TikTok / Reels / YouTube Shorts — Tập 17
 
-> Dán khối **Caption** vào ô mô tả khi đăng TikTok. Đúng 5 hashtag. Kịch bản và công thức chi tiết: [README.md](README.md). Đăng trước 07/11/2026.
+**Tiêu đề:** Thịt ba rọi kho tiêu xanh nước mắm kẹo trong veo — Mẹo ướp đường làm trong mỡ, thắng nước màu không đắng & rim nước dừa riu riu 🐱🍳
 
-## Caption
+**Caption:**
+Hướng dẫn chi tiết 6 bước (60 giây = 6 clip × 10s) nấu món Thịt ba rọi kho tiêu xanh nước mắm kẹo sánh, lớp mỡ trong veo giòn sật không ngấy: (Phần 1) Mẹo chọn 500g thịt ba rọi rút sườn (ba chỉ) có 3 tầng nạc-mỡ-da cân đối và 4 nhánh tiêu xanh tươi hạt căng mọng; (Phần 2) Bí quyết chần sơ ba rọi 2 phút với gừng đập dập rồi cắt quân cờ dày 2cm và ướp 1 muỗng canh đường cát 15 phút dưới nắng/nhiệt phòng để lớp mỡ trong veo; (Phần 3) Công thức ướp thịt tỷ lệ vàng: 3 muỗng canh nước mắm nhĩ (`SP_nuoc-mam`) + 1 muỗng hành tỏi băm + 1 muỗng tiêu xanh đập dập; (Phần 4) Kỹ thuật thắng nước màu cánh gián không bị đắng: đun 2 muỗng đường tới màu hổ phách thì tắt bếp ngay rồi mới châm 3 muỗng nước ấm và cho thịt vào đảo săn; (Phần 5) Bí quyết kho hai lửa với 250ml nước dừa tươi và tiêu xanh nguyên nhánh: sôi bùng hớt bọt rồi hạ lửa riu riu đúng 25 phút cho sốt kẹo sánh; (Phần 6) Mẹo thêm 1/2 muỗng mỡ heo/hành lá cuối cùng cho mặt thịt bóng mượt như gương & cú lật kèo 'trợ cấp 28 triệu' của Bà chủ Hường!
+Lưu ngay công thức tỷ lệ vàng của đầu bếp Phèo để nấu thử cho cả nhà ăn liền nghen! Coi tới giây 55 xem bà chủ Hường thưởng gì cho Phèo mà đứng hình luôn 😂👇
 
-```text
-Ngày 17 Phèo vô bếp: THỊT BA RỌI KHO TIÊU NƯỚC MẮM KẸO 🥩🍯 Bà chủ đọc báo thấy có AI đi chợ hộ liền dọa cho Phèo nghỉ việc… Ai dè Phèo nghe từ năm sau trợ cấp thất nghiệp tối đa tới 28,5 triệu/tháng là tháo tạp dề đòi nghỉ liền làm bà chủ quýnh quáng buộc lại cái rụp 😹 Cuối cùng sau nồi thịt kho tiêu thơm điếc mũi, Phèo được thưởng lớn: khỏi thất nghiệp, mai ôm giỏ đi chợ tiếp 🙀🧺
-
-🛒 Nguyên liệu (3–4 người):
-- 500 g thịt ba rọi heo (chọn miếng nạc mỡ kết dính, bì mỏng)
-- Ướp trong mỡ: 1 muỗng canh đường, ½ muỗng cà phê muối, 1 muỗng cà phê tiêu xay, hành tỏi băm
-- Kho kẹo: 1 muỗng canh đường (thắng nước màu), 1 muỗng canh dầu ăn, 3 muỗng canh nước mắm cá cơm truyền thống, 100 ml nước dừa tươi
-- Tiêu sọ đập dập (hoặc tiêu xanh), ớt hiểm đỏ, hành lá cắt khúc
-
-👨‍🍳 Cách làm chuẩn vị cơm nhà:
-1. Rửa thịt với nước muối loãng, thấm thật khô, cắt miếng dày 1,5–2 cm để kho không bị teo khô.
-2. Ướp thịt với 1 muỗng canh đường trước 15 phút (lâu hơn 30 phút thì để ngăn mát) giúp lớp mỡ ba rọi trong veo và giòn nhẹ.
-3. Bắc tộ đất lên bếp lửa vừa, thắng 1 muỗng canh đường với dầu ăn tới khi vừa ngả màu cánh gián thì cho hành tỏi và thịt vào đảo săn.
-4. Rưới 3 muỗng canh nước mắm cá cơm quanh thành tộ nóng cho dậy mùi thơm, chế xâm xấp nước dừa tươi.
-5. Hạ lửa riu riu kho 20 phút tới khi thịt chín mềm hoàn toàn, nước kho sánh kẹo bám bóng quanh miếng thịt thì rắc tiêu sọ đập dập, hành lá, ớt hiểm rồi tắt bếp.
-
-💡 Mẹo của Phèo: Ướp đường vào thịt ba rọi trước khi kho là bí quyết dân gian giúp phần mỡ heo trong veo, ăn béo giòn mà không ngấy!
-
-📌 Điểm tin ngày 05/11/2026:
-- Làn sóng trợ lý AI "đi chợ hộ" tự so giá và đặt thực phẩm đang lan nhanh trên thế giới (Dân trí 05/11).
-- Từ 01/01/2027, mức hưởng trợ cấp thất nghiệp tối đa tăng lên 28,5 triệu đồng/tháng (bằng 5 lần lương tối thiểu vùng I theo Luật Việc làm 2025 & Nghị định 399/2026, Tuổi Trẻ 05/11).
-- Nước mắm cá cơm truyền thống Việt Nam từ gánh chợ quê vươn vào top 17 loại nước mắm ngon nhất thế giới (VnExpress 05/11).
-- Giá heo hơi đầu tháng 11 nhích nhẹ 2.000–5.000 đồng/kg (miền Nam 48.000–52.000 đồng/kg) sau khi chạm đáy 6 năm (Tuổi Trẻ 05/11).
-
-⚠️ Phèo và bà chủ là nhân vật hoạt hình; chó mèo thật không ăn được hành, tỏi, tiêu, ớt và đồ kho mặn nha cả nhà.
-
-#pheovanomeo #thitkhotieu #nuocmamvietnam #monngonmoingay #hoathinh3d
-```
-
-## Bình luận ghim
-
-```text
-Mẹo kho ba rọi mỡ trong veo: ướp 1 muỗng đường 15 phút trước khi thắng màu! Theo cả nhà AI đi chợ hộ có thắng nổi nước mắm kẹo như Phèo hông? 😹🍯
-```
-
-## Kiểm tra trước khi đăng
-
-- Bật nhãn **Nội dung do AI tạo** trên TikTok.
-- Gắn giỏ hàng sản phẩm Nước mắm truyền thống (`SP_nuoc-mam`).
-- Kiểm tra video không có chữ, phụ đề hay số hiện trên điện thoại, bàn tính, chai nước mắm.
-
+#365NgayPheoLamNoiTro #PheoVaNo #MeoNauAn #CongThucNauAn #MeoNhaBep #MonNgonMoiNgay #AmThucVietNam

@@ -1,5 +1,5 @@
-# Caption Cảnh 08 — Tiếng Gõ Đêm Ba Giờ: Vi Phạm Luật Cấm Thứ Hai — Tấm Gương Đồng & Bàn Tay Lạnh Sau Gáy
+# Caption Cảnh 08 — Tiếng Gõ Đêm Ba Giờ: Cụ Từ Tiết Lộ Thảm Án 50 Năm Trước & Sự Thật Về Bà Cầm
 
-🕯️ Đúng 3 giờ sáng, nếu nghe 3 tiếng gõ từ đáy giếng đá ong bị xiềng 7 sợi xích sắt... tuyệt đối đừng nhìn xuống! (Phần 8/15)
+🕯️ Đúng 3 giờ sáng, nếu nghe 3 tiếng gõ từ đáy giếng đá ong bị xiềng xích sắt... tuyệt đối đừng nhìn xuống! (Phần 8/15)
 
-#TiengGoDemBaGio #TruyenMaKeChuyen #PhimMaVietNam #KinhDiDanGian #ChuyenMaDemKhuya #LoiNguyenGiengDaOng #FolkHorror
+#TiengGoDemBaGio #TruyenMaKeChuyen #MCDinhSoan #PhimMaVietNam #KinhDiDanGian #ChuyenMaDemKhuya #LoiNguyenGiengDaOng #FolkHorror

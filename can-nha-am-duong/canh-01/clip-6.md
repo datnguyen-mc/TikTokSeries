@@ -1,64 +1,65 @@
-# CLIP 6 — CẢNH 01: MỞ ĐẦU — TRÊN XE KHÁCH (Đêm) — FLASHBACK
+[FORMAT]
+10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering dim 15W filament amber and weathered rural brick browns contrasted with cold midnight indigo-blue shadows, mossy roof tiles, and corpse-pale moonlight mist, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @Binh), shot type: INSERT_CLOSEUP): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
 
-## [FORMAT]
-- **Model**: `omni_flash` — Google Flow Omni 10s Ingredients Reference-to-Video
-- **Duration**: 10.0s (0.0s–10.0s)
-- **Aspect Ratio**: 16:9 widescreen
-- **Frame Rate**: 24fps
-- **Render Style**: Photorealistic live-action cinematography
-- **Genre**: SUPERNATURAL_FOLK_HORROR
-- **Color Grade**: Gritty Vietnamese folk-horror — FLASHBACK GRADE: warm interior home lighting (modest Vietnamese household), desaturated, yellowed tones like a faded memory. Warm amber overhead bulb, cold window light from outside. Emotional warmth contrasting with the devastating content.
-- **Dialect**: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc)
+[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
+@Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a): same approved identity, age 21; Northern Vietnamese male senior university student, 172 cm, thin pale build, messy short black hair, exhausted dark eyes with heavy dark circles underneath, wearing a faded charcoal-grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack. Voice profile: [VOICE_LOCK_BINH_CNHADG — Cố định giọng Bình chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
-## [CHARACTERS]
-- **@Binh** — on screen, kneeling before his mother
-- **@BaPhuong** — on screen, standing/sitting, trembling with shock
+[TIMELINE AND LOCATION]
+Scene 01/15, clip 6/6; shot 01.6 (10.0s | Model: `omni_flash` 10s). Story time: 23:00 Đêm khuya (00:00–01:00) (00:50–01:00).
+Lone sleeper coach bus crawling along a dark misty Northern Vietnamese rural highway through endless moonlit rice paddies, and the cramped dimly lit cabin seat where @Binh huddles by the rain-streaked glass.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 01 (Clip 1–6)]
+FIXED SCENE 01 SPACE (Xe khách giường nằm chạy xuyên đêm Bắc Bộ): Trục không gian liên tục từ toàn cảnh quốc lộ sương mù áp sát vào khoang ghế cửa sổ của Bình và cuộc gọi khẩn từ mẹ.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 01.
 
-## [TIMELINE AND LOCATION]
-- **Time**: Flashback — approximately one week ago, daytime
-- **Location**: Modest Vietnamese family living room — tiled floor, simple wooden furniture, family photos on wall, small ancestral altar in corner, plastic-covered sofa, fluorescent ceiling light. A lower-middle-class Northern Vietnamese urban home.
-- **Weather**: Daylight through curtained windows, diffused
+[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
+`@Binh` tắt màn hình điện thoại, tựa trán vào mặt kính xe khách lạnh buốt nhìn bóng phản chiếu tuyệt vọng của chính mình khi chiếc xe lao sâu vào màn sương trắng vùng quê.
 
-## [DRAMATIC INTENT]
-The emotional crescendo of the backstory. Bình on his knees before his mother is the image of total shame and desperation — the prodigal son who has destroyed everything. Bà Phượng's trembling hands convey a mother's devastation. The narrator clinically states the damage (400 triệu) while the visuals tell the human cost. The mention of "căn nhà cũ" at the end connects back to the present, completing the flashback arc.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside NIGHT_HIGHWAY_COACH_BUS as @Binh continues seamlessly from the previous beat. 3.0–7.0s: `@Binh` tắt màn hình điện thoại, tựa trán vào mặt kính xe khách lạnh buốt nhìn bóng phản chiếu tuyệt vọng của chính mình khi chiếc xe lao sâu vào màn sương trắng vùng quê. 7.0–10.0s: The camera settles smoothly on @Binh's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_CNHADG, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 01.5 (Trở lại ghế xe khách tối tăm, `@Binh` hạ điện thoại xuống nhìn màn hình sáng xanh hiện bức ảnh chụp tài khoản tiền ảo cháy đỏ rực, hai bàn tay cậu run rẩy ôm lấy đầu.): máy quay giữ nguyên trục không gian NIGHT_HIGHWAY_COACH_BUS và ánh sáng hiện trường, dẫn nhịp chuyển động trực tiếp sang @Binh.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào tâm lý / Core Dramatic Action): `@Binh` tắt màn hình điện thoại, tựa trán vào mặt kính xe khách lạnh buốt nhìn bóng phản chiếu tuyệt vọng của chính mình khi chiếc xe lao sâu vào màn sương trắng vùng quê.
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay giữ chặt biểu cảm dư chấn tâm lý của @Binh và ngân nhẹ âm thanh môi trường 0.5s cuối, tạo nhịp cầu thị giác chuyển sang Cảnh 02 (Bến Xe Thị Xã, Quán Cơm Bụi & Cánh Cổng Sắt Dưới Gốc Mít Cổ Thụ).
+Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
-## [ACTION]
-0.0s–4.0s: Medium wide shot — @Binh on his knees on the tiled floor, head bowed, hands clasped together in a begging gesture (chắp tay). @BaPhuong stands two steps away, her hands shaking visibly at her sides. Her face is a mask of shock — mouth slightly open, eyes wide, brow trembling. She takes one unsteady step backward as if physically struck by the news. A simple wooden chair is between them.
-4.0s–7.0s: Two-shot — camera moves to profile angle. @BaPhuong slowly sinks into the chair, one hand gripping the chair back for support. Her other hand comes up to cover her mouth, pressing hard, suppressing a cry. @Binh remains kneeling, head dropping lower, his shoulders shaking with silent sobs. A family photo on the wall behind them shows happier times — younger Bình in a school uniform with both parents.
-7.0s–10.0s: Close-up on @BaPhuong's hand — trembling, she reaches out and places it on top of @Binh's bowed head. Not a gesture of forgiveness, but of broken maternal instinct. Camera slowly pulls back to medium shot as @Binh grabs her hand and presses it against his forehead. Then — match cut flash to present: bus window, darkness, journey into the unknown.
+[BLOCKING AND PERFORMANCE]
+- Spatial Blocking: Characters (@Binh) maintain consistent screen positions and eyeline vectors within NIGHT_HIGHWAY_COACH_BUS matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
+- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron gates, thin mosquito nets, and ancestral props.
 
-## [PROPS]
-- Tiled floor (white/beige tiles, typical Vietnamese household)
-- Simple wooden chair with fabric seat
-- Family photos on wall (younger Bình in school uniform with parents)
-- Small ancestral altar in corner (incense holder, small Buddha/ancestor photo)
-- Plastic-covered sofa, fluorescent ceiling light
-- Curtained windows with diffused daylight
+[CAMERA — Shot Size, Lens, Movement & Continuity]
+- Lens & Shot Type: 85mm, 24 fps, 180-degree shutter, INSERT_CLOSEUP.
+- Camera Movement Plan (0.0–10.0s): 85mm macro-style cinematic horror insert with smooth rack focus locking the cliffhanger detail. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
-## [BODY, MOUTH AND FACE CONSISTENCY]
-- @Binh: On his knees throughout. Mouth: pressed tightly shut during kneeling at 0.0s–4.0s, chin trembling. At 7.5s, mouth opens slightly as he gasps when grabbing mother's hand. Eyes: cast downward, not meeting mother's gaze, squeezed shut with shame. Tears on cheeks visible. Clean white T-shirt (same as Clip 5 flashback), no hoodie. Body wracked with suppressed sobs — shoulders shaking. Hands clasped at 0.0s–4.0s, then grabbing mother's hand at 8.0s.
-- @BaPhuong: Neat black hair in low bun with grey streaks. Mouth: open in shock at 0.0s–3.0s, then covered by own hand at 5.0s–7.0s, lips quivering behind her palm. Eyes: wide with disbelief, then filling with tears. Wearing a simple floral blouse and dark trousers. Body language: stiffens at the news, steps backward, then sinks into chair. Her reaching hand at 7.5s is trembling visibly — fingers spread, slightly curled.
+[PROPS & VISIBLE TEXTURE]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 01]
+FIXED SCENE 01 OBJECTS: (1) Xe khách giường nằm chạy xuyên sương mù đêm; (2) Chiếc ba lô đen ôm chặt trước ngực Bình; (3) Điện thoại thông minh màn hình nứt hiện cuộc gọi 'Mẹ' và ảnh chụp màn hình tài khoản tiền ảo cháy đỏ; (4) Ô cửa kính xe khách đọng nước mưa đêm.
+- Visible Material & Lighting Texture: Peeling lime-washed rural brick walls, mossy roof tiles, gnarled ancient jackfruit bark, sheer white mosquito net fabric under dim 15W amber light against deep midnight shadows.
+Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
-## [VOICE & DIALOGUE LOCK]
-- **Narrator**: VOICE_LOCK_NARRATOR_CNHADG — Deep bone-chilling 40-year-old Standard Northern Vietnamese male horror storyteller. Voice drops to near-whisper for "hơn bốn trăm triệu" — letting the number land with weight. Rises slightly with dark inevitability on the final line about the old house.
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
+Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_CNHADG — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
 
-## [DIALOGUE]
-| Timecode | Speaker | Type | Vietnamese Text |
-|----------|---------|------|----------------|
-| 0.5s–4.5s | Narrator | Voiceover | "Tổng nợ: hơn bốn trăm triệu. Không còn đường nào khác..." |
-| 5.0s–10.0s | Narrator | Voiceover | "...Bình nhớ ra quê nội còn có căn nhà cũ." |
+[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
+Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_CNHADG`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_BINH_CNHADG` ~135Hz 21yo male, `VOICE_LOCK_PHUONG_CNHADG` ~205Hz 50yo female, `VOICE_LOCK_QUAN_CNHADG` ~105Hz 55yo male, `VOICE_LOCK_BAY_CNHADG` ~115Hz 60yo male, `VOICE_LOCK_CUXA_CNHADG` ~98Hz 80yo spectral elder, `VOICE_LOCK_VONGLA_CNHADG` spectral whisper): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
-## [SOUND]
-- **Ambient Base**: Quiet household hum, distant street sounds muffled through windows, wall clock ticking
-- **Foley**: Soft thud of @Binh's knees on tile at 0.0s, chair creak as @BaPhuong sits at 5.0s, fabric rustle, a single choked sob sound from @Binh at 3.5s (barely audible under narrator), hand on head contact sound at 7.5s
-- **Score**: Solo đàn bầu melody — mournful, sparse, three notes descending (Vietnamese lament motif). Held string pad underneath, warm but sorrowful. At 9.0s, score cuts sharply as flash-cut to present occurs.
-- **Mix**: Narrator at -6dB; foley at -14dB; score at -16dB (delicate, supporting not overwhelming the emotional visuals)
+[DIALOGUE — Timed to Action (1 turn(s), 42 Vietnamese words)]
+- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Không còn mặt mũi nào nhìn bố, cũng chẳng còn chốn dung thân nơi phố thị… Bình đành đánh liều tìm về căn nhà cổ của ông nội, mà không ngờ mình đang tự bước chân vào cõi âm dương giao hòa."
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
-## [EDIT IN]
-- Direct continuation from Clip 5 flashback — soft dissolve from desk slump to kneeling position (time has passed within the flashback)
+[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
+- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng thở khàn đục chậm rãi ngay sát sau gáy kèm tiếng chuông chùa xa xăm ngân dài giữa đêm khuya thanh vắng.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror ambience (howling midnight wind through the jackfruit tree, frogs and crickets in the rice paddies, creaking folding cot, metallic pot crash, and eerie spectral whispers) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-## [START FRAME]
-Medium wide shot — @Binh kneeling on white tile floor, hands clasped before him in supplication. @BaPhuong standing two steps away, frozen in shock, hands at sides trembling. Simple Vietnamese living room: wooden furniture, family photos, ancestral altar corner. Warm amber overhead light. FLASHBACK COLOR GRADE — slightly desaturated, nostalgic warmth.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Seamless match-on-action cut directly from Shot 01.5 into Shot 01.6 at 0.0s inside the locked Scene 01 environment (00:50–01:00), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
 
-## [END FRAME]
-Medium shot holding for 0.5s on @Binh gripping @BaPhuong's hand against his forehead — then FLASH CUT (2-frame white flash) transitioning back to present timeline: dark bus window, Bình's face reflected in glass, night countryside rushing past. The flashback is over. The journey continues.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @Binh từ điểm kết của Clip 01.5 tại NIGHT_HIGHWAY_COACH_BUS (Trở lại ghế xe khách tối tăm, `@Binh` hạ điện thoại xuống nhìn màn hình sáng xanh hiện bức ảnh chụp tài khoản tiền ảo cháy đỏ rực, hai bàn tay cậu run rẩy ôm lấy đầu.).
+
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+`@Binh` tắt màn hình điện thoại, tựa trán vào mặt kính xe khách lạnh buốt nhìn bóng phản chiếu tuyệt vọng của chính mình khi chiếc xe lao sâu vào màn sương trắng vùng quê. — Điểm dừng giàu sức nặng tâm lý ở giây 10.0s khép lại Cảnh 01 và mở hướng sang Cảnh 02.

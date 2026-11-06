@@ -47,23 +47,25 @@ BƯỚC 7: Cập nhật BẢNG TRẠNG THÁI CÁC TẬP ĐÃ HOÀN THÀNH (mục
 - **Tên series:** 365 Ngày Việt Nam — Vy & Joi (Chuyện Tình Xuyên Việt)
 - **Thể loại:** Authentic Experiential Travel Vlog, Phim ngắn du lịch điện ảnh
 - **Hành trình:** 365 ngày từ Cực Bắc (Hà Giang) đến Cực Nam (Cà Mau), xuyên suốt 63 tỉnh thành
-- **Thời lượng mỗi tập:** **từ Tập 10: 30 giây = 3 clip × đúng 10 giây/clip** — chỉ giữ khoảnh khắc đắt giá nhất của chặng. Chỉ làm clip 4 khi người dùng yêu cầu. (Tập 1–9 đã viết giữ nguyên số clip cũ: Tập 1–4 dài 6–7 clip, Tập 5–7 dài 90 giây, Tập 8–9 dài 60 giây.)
-- **Bắt buộc Search Google khi cần thiết:** Trước khi viết tập mới, bắt buộc dùng Google Search để tra cứu thông tin thực tế về tỉnh/thành đó (cung đường, số km, giờ vàng săn mây/hoàng hôn, tên món đặc sản, cách ăn chuẩn địa phương, giá vé tham quan, phong tục/phép tắc nơi đến) và ghi nguồn kiểm chứng vào `README.md` của tập.
+- **Thời lượng mỗi tập:** **Chuẩn 60–90 giây = 6–9 clip × đúng 10 giây/clip** — mỗi tập là hành trình đi du lịch check-in danh thắng và thưởng thức các món ăn đặc sản nổi tiếng nhất của địa phương đó.
+- **NGUYÊN TẮC VÀNG VỀ BỐI CẢNH & XUẤT HIỆN (MULTI-SCENE LOCATION & FOOD CHECK-IN — ZERO MOTORBIKE/HELMET CLICHÉ):**
+  - **Mỗi cảnh (clip) phải xuất hiện ở một bối cảnh khác nhau tùy vào địa điểm check-in và món ăn đặc sản** (ví dụ: đứng giữa biển mây bình minh, dạo bước trên cánh đồng hoa, chèo thuyền trên hồ, hái trái cây tại vườn, ngồi bên bàn tre/nhà sàn thưởng thức lẩu/đồ nướng đặc sản nóng hổi, nhâm nhi trà nóng ngắm hoàng hôn).
+  - **TUYỆT ĐỐI KHÔNG lặp lại mô-típ xe máy xuất hiện rồi tháo/đội nón bảo hiểm (`không có chuyện lúc nào cũng xe máy xuất hiện rồi đội nón bảo hiểm`)!** Nhân vật `@Vy` và `@Joi` xuất hiện trực tiếp ngay tại không gian trải nghiệm hoặc bàn ăn đặc sản với mái tóc tự nhiên bồng bềnh (đầu trần, không mũ bảo hiểm, không dựng xe máy kè kè phía sau).
+- **Bắt buộc Search Google khi cần thiết:** Trước khi viết tập mới, bắt buộc dùng Google Search để tra cứu thông tin thực tế về tỉnh/thành đó (giờ vàng săn mây/hoàng hôn, tên món đặc sản, cách ăn chuẩn địa phương, giá vé tham quan, phong tục/phép tắc nơi đến) và ghi nguồn kiểm chứng vào `README.md` của tập.
 - **Quy chuẩn mỗi clip:** Đúng 10 giây, khung hình dọc 9:16, 24fps, Single Continuous Shot
-- **Tông điệu:** Trẻ trung, tự do, phóng khoáng, ngọt ngào, đậm tình yêu đôi lứa, tự hào cảnh sắc Việt Nam
-- **Model AI:** Gemini Omni (Google Flow) — đúng 10 giây mỗi lần tạo, ghép scene (Veo 3.1 chỉ tạo tối đa 8 giây). Từ Tập 4, lời thoại trong file clip viết không ngoặc kép (xem mục VI)
+- **Tông điệu:** Trẻ trung, tự do, phóng khoáng, ngọt ngào, đậm tình yêu đôi lứa, tự hào cảnh sắc & ẩm thực Việt Nam
+- **Model AI:** Gemini Omni (Google Flow) — đúng 10 giây mỗi lần tạo.
 
-### Xương sống tập 30 giây (từ Tập 10: 3 clip × 10s)
+### Xương sống tập 60 giây (6 clip × 10s — Du lịch Check-in Danh Thắng & Ẩm Thực Đặc Sản)
 
-| Clip | Vai trò | Nội dung |
+| Clip | Vai trò | Nội dung (Mỗi cảnh một bối cảnh & trải nghiệm khác nhau, KHÔNG xe máy / đội nón) |
 |---|---|---|
-| **Clip 1 (00:00–00:10)** | **Hook** | Flycam mở thẳng vào **điểm hot / cảnh đẹp nhất** của tập, nhân vật đang ở giữa hành động (đang đi, đang chạm, đang ngạc nhiên). Câu thoại đầu gây tò mò hoặc cảm xúc, không chào, không nói số tập |
-| **Clip 2 (00:10–00:20)** | **Trải nghiệm** | Một món đặc sản hoặc một việc chỉ làm được ở đây, cận chi tiết; một mẹo nói vu vơ hoặc cho thấy trên hình |
-| **Clip 3 (00:20–00:30)** | **Chốt & nhử** | Khoảnh khắc tình cảm của hai người, rồi nhử tỉnh/điểm tiếp theo (hoặc hỏi một câu khiến khán giả muốn bình luận); lên xe đi tiếp hoặc khung cuối lặp lại hình ảnh mở đầu để video xem vòng lại mượt |
-
-> Một tập chỉ một ý chính và **một** điểm hot. Không nhồi hai điểm đến cách xa nhau vào 30 giây: điểm thứ hai để làm câu nhử tập sau. Phần lịch trình đầy đủ, giờ, giá, số km đưa vào caption và README.
-
-**Tập 5–9 (đã làm, giữ nguyên):** 60–90 giây, 6–9 clip, xương sống Flycam & mồi → cung đường → ẩm thực → điểm tham quan → đặc sản → chốt & lên đường.
+| **Clip 1 (00:00–00:10)** | **Check-in Danh Thắng #1 (Hook Bình Minh / Biển Mây / Kỳ Quan)** | Mở thẳng vào đại cảnh đẹp choáng ngợp nhất của địa phương, `@Vy` và `@Joi` đang đi bộ / trải nghiệm trực tiếp giữa cảnh sắc thiên nhiên (mái tóc tự nhiên, không xe máy, không mũ bảo hiểm) |
+| **Clip 2 (00:10–00:20)** | **Check-in Danh Thắng #2 (Điểm Biểu Tượng / Thung Lũng Hoa / Đồi Chè)** | Xuất hiện tại điểm check-in nổi tiếng thứ hai của vùng với góc máy và hoạt động mới mẻ (chụp ảnh máy cơ, chạm vào búp chè/cánh hoa, đi trên cầu gỗ/thác nước) |
+| **Clip 3 (00:20–00:30)** | **Check-in Thức Uống / Quà Vặt Bản Địa & Trải Nghiệm Văn Hóa** | Ngồi dưới hiên gỗ / gốc cây cổ thụ / vườn cây ăn trái thưởng thức trà cổ thụ, cà phê hoặc trái cây chín tại vườn (cận cảnh thức quà và biểu cảm thưởng thức) |
+| **Clip 4 (00:30–00:40)** | **Check-in Danh Thắng #3 (Thảo Nguyên / Hồ Nước / Bản Làng Cổ)** | Dạo bước hoặc trải nghiệm văn hóa bản địa tại một không gian mở giàu sức sống |
+| **Clip 5 (00:40–00:50)** | **Check-in Đại Tiệc Ẩm Thực Đặc Sản Chính (Bữa Trưa / Chiều)** | Ngồi bên bàn tre / mẹt lá chuối / nồi lẩu nghi ngút khói tại quán bản địa, gắp và thưởng thức món ăn trứ danh nhất của tỉnh đó kèm mô tả hương vị chân thực |
+| **Clip 6 (00:50–01:00)** | **Check-in Món Nướng / Đặc Sản Hoàng Hôn & Chốt Tập Ngọt Ngào** | Giữa ráng chiều hoàng hôn tuyệt đẹp trên đỉnh đèo/bờ hồ/hiên nhà sàn, hai người cùng thưởng thức món quà chiều nóng hổi (bánh nướng than hồng, sữa nóng, thịt nướng...) và hẹn điểm đến tiếp theo |
 
 ### I-B. ⚡ QUY TẮC HOT & VIRAL (BẮT BUỘC TỪ TẬP 10)
 
@@ -105,15 +107,12 @@ Toàn bộ phân cảnh 10 giây được ghi hình trong một cú máy mượt
 ### QUY TẮC 8: KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK, KHÔNG NHÁY ẢNH THẺ THAM CHIẾU STUDIO
 Khung hình 9:16 dọc chuẩn điện ảnh 24fps sạch sẽ 100%. Chỉ dùng ảnh tham chiếu để khóa nhận diện khuôn mặt và trang phục bên trong bối cảnh thật; tuyệt đối cấm cắt sang hoặc nháy ảnh thẻ nhân vật nền xám studio ở đầu hoặc cuối clip (`never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip`).
 
-### QUY TẮC 9: ĐỘI MŨ BẢO HIỂM TUỲ CẢNH LINH HOẠT & NỐI CẢNH HỢP LÝ (CONTEXTUAL HELMET & SEAMLESS LOGIC)
-- **Không ép lúc nào cũng phải đội mũ bảo hiểm:** Tùy từng hoàn cảnh cụ thể mà xây dựng hình ảnh tự nhiên, chân thực và thoải mái:
-  - **Khi xe đang lăn bánh hoặc di chuyển trên đường:** Bắt buộc đội mũ bảo hiểm 3/4 vintage (kính chắn trong suốt).
-  - **Khi dừng chân ngắm cảnh, thưởng thức ẩm thực, đi thuyền, chèo Sup, ngắm hoàng hôn, dạo phố:** KHÔNG đội mũ bảo hiểm, để nhân vật tự do khoe trọn mái tóc, biểu cảm rạng rỡ và trang phục đẹp mắt. Mũ bảo hiểm được treo/móc gọn gàng trên ghi-đông xe Scrambler tại bãi đỗ. Tuyệt đối không bắt nhân vật kè kè cầm mũ vào bàn ăn hay đội mũ khi đứng chill ngắm cảnh.
-- **Nối cảnh giữa các clip liền mạch & hợp lý (Continuity Logic):**
-  - Khi clip trước kết thúc bằng cảnh xe lăn bánh lên đường (có đội mũ) → Clip sau khi đã đến điểm mới: xe đã dừng ở bãi đỗ, mũ đã treo trên ghi-đông xe, nhân vật bước vào trải nghiệm điểm đến một cách tự nhiên.
-  - Khi một phân cảnh kết thúc bằng việc lên xe đi tiếp chặng mới: Nhân vật mới có động tác nhấc mũ từ xe đội lên đầu, cài quai chốt "tách" rồi mới nổ máy lăn bánh.
-- **Quy chuẩn mũ bảo hiểm điện ảnh:** Mũ bảo hiểm 3/4 vintage cổ điển cao cấp, kính chắn gió trong suốt (clear visor) lộ 100% gương mặt và biểu cảm. Mũ @Vy màu be ngà viền da nâu; mũ @Joi màu xanh rêu nhám viền da nâu.
-- **Không có xe máy trên thuyền/bè:** Khi trải nghiệm đường thủy (thuyền, bè tre, ván sup), xe máy và mũ bảo hiểm luôn ở bãi đỗ trên bờ, nhân vật mặc áo phao mỏng màu cam an toàn.
+### QUY TẮC 9: MỖI CẢNH MỘT BỐI CẢNH ĐỊA ĐIỂM & MÓN ĂN KHÁC NHAU — TUYỆT ĐỐI KHÔNG LẶP LẠI XE MÁY & ĐỘI NÓN BẢO HIỂM (DYNAMIC LOCATION & FOOD CHECK-IN — NO MOTORBIKE/HELMET CLICHÉ)
+- **Không lặp lại cảnh xe máy xuất hiện hay đội nón bảo hiểm:**
+  - Mỗi clip trong tập phải mở ra một không gian danh thắng hoặc bàn ăn đặc sản hoàn toàn mới mẻ tùy theo địa phương (đứng trên đỉnh núi săn mây, đi giữa đồi hoa, ngồi thuyền trên hồ, hái trái cây trong vườn, ngồi bên bếp than hồng/mẹt tre thưởng thức đặc sản).
+  - Trong tất cả các cảnh check-in danh thắng và thưởng thức ẩm thực, `@Vy` và `@Joi` luôn để **mái tóc tự nhiên bồng bềnh trong gió, khoe trọn gương mặt và biểu cảm rạng rỡ**.
+  - **CẤM TUYỆT ĐỐI** mô-típ rập khuôn: đầu tập dừng xe tháo mũ bảo hiểm, trong tập lúc nào cũng dựng chiếc xe máy Scrambler móc 2 mũ bảo hiểm ở hậu cảnh, hay cuối tập nhấc mũ bảo hiểm đội lên đầu, cài quai, gạt kính rồi nổ máy chạy đi!
+  - Mọi cảnh kết tập phải là khoảnh khắc thưởng thức ẩm thực đặc sản hoặc ngắm hoàng hôn lãng mạn ngay tại điểm đến, không kết bằng cảnh đội mũ lên xe máy.
 
 ---
 

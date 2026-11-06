@@ -14,7 +14,9 @@ import re
 import sys
 import time
 import json
+import base64
 import sqlite3
+import subprocess
 import requests
 from datetime import datetime, timezone
 
@@ -27,6 +29,8 @@ from cms_integration import (
     find_episode_clip_mp4s,
     force_rename_clip_on_flow,
     is_clip_completed_in_db,
+    is_clip_failed_in_db,
+    persist_updated_prompt,
     mark_clip_failed_in_db,
     trim_studio_reference_frames,
 )
@@ -593,8 +597,120 @@ def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
     return rewrite_prompt_on_failure(prompt, attempt, CHARACTER_SPECS, ASPECT_RATIO)
 
 
+def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
+    """Trích xuất khung hình cuối cùng của clip bằng ffmpeg làm start frame [Bắt đầu] cho clip kế tiếp."""
+    if not video_source:
+        return None
+    out_frame = os.path.join(FRAMES_DIR, f"canh_{scene_num:02d}_clip_{clip_num:02d}_last.jpg")
+    log(f"🎬 Dùng ffmpeg cắt khung hình cuối (Last Frame) của Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
+    try:
+        cmd = [
+            "ffmpeg", "-y",
+            "-sseof", "-0.2",
+            "-i", video_source,
+            "-frames:v", "1",
+            "-q:v", "2",
+            out_frame,
+        ]
+        result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
+        if result.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
+            size_kb = os.path.getsize(out_frame) / 1024
+            print_box(
+                "🖼️ ĐÃ TRÍCH XUẤT KHUNG HÌNH CUỐI THÀNH CÔNG",
+                [
+                    ("Clip Nguồn", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
+                    ("File Ảnh Nối Cảnh", os.path.basename(out_frame)),
+                    ("Đường Dẫn Lưu", out_frame),
+                    ("Dung Lượng Ảnh", f"{size_kb:.1f} KB"),
+                    ("Mục Đích Sử Dụng", f"Chèn vào slot [Bắt đầu] cho Clip {clip_num + 1:02d} (Seamless Match-On-Action)"),
+                ],
+            )
+            return out_frame
+        else:
+            cmd_fallback = [
+                "ffmpeg", "-y",
+                "-ss", "00:00:09.5",
+                "-i", video_source,
+                "-frames:v", "1",
+                "-q:v", "2",
+                out_frame,
+            ]
+            res_fb = subprocess.run(cmd_fallback, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
+            if res_fb.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
+                log(f"✨ Trích xuất khung hình cuối thành công (fallback 9.5s): {os.path.basename(out_frame)}")
+                return out_frame
+            else:
+                log(f"⚠️ ffmpeg không trích xuất được frame: {result.stderr.decode('utf-8', errors='ignore')[:200]}")
+                return None
+    except Exception as e:
+        log(f"⚠️ Lỗi khi trích xuất frame cuối: {e}")
+        return None
+
+
+def upload_start_frame(image_path: str) -> str:
+    """Tải khung hình cuối vừa cắt lên Google Flow để chèn vào slot [Bắt đầu] (Start Frame) của clip kế tiếp."""
+    if not image_path or not os.path.exists(image_path):
+        return None
+    url = f"{FLOWKIT_API}/api/flow/upload-image"
+    try:
+        with open(image_path, "rb") as f:
+            b64_str = base64.b64encode(f.read()).decode("utf-8")
+
+        payload = {
+            "image_base64": b64_str,
+            "project_id": PROJECT_ID,
+            "file_name": os.path.basename(image_path),
+            "mime_type": "image/jpeg",
+        }
+        res = requests.post(url, json=payload, timeout=45)
+        if res.status_code == 200:
+            res_json = res.json()
+            media_id = (
+                res_json.get("media_id")
+                or res_json.get("_mediaId")
+                or (res_json.get("data") or {}).get("media_id")
+                or ((res_json.get("data") or {}).get("media") or {}).get("name")
+            )
+            print_box(
+                "📤 ĐÃ TẢI ẢNH CUỐI & CHÈN VÀO GOOGLE FLOW [BẮT ĐẦU]",
+                [
+                    ("Media ID", media_id),
+                    ("File Ảnh Nối", os.path.basename(image_path)),
+                    ("Slot Kích Hoạt", "Khung hình [Bắt đầu] (Start Frame) cho Clip tiếp theo"),
+                    ("Trạng Thái", "Sẵn sàng Image-to-Video Omni Flash 10s (16:9) ✅"),
+                ],
+            )
+            return media_id
+        else:
+            log(f"⚠️ Upload start frame thất bại (HTTP {res.status_code}): {res.text[:200]}")
+            return None
+    except Exception as e:
+        log(f"⚠️ Ngoại lệ khi upload start frame: {e}")
+        return None
+
+
+def load_previous_last_frame(scene_num: int, prev_clip_num: int) -> str:
+    """Lấy (hoặc trích xuất từ video đã có trên máy/R2) khung hình cuối của clip trước và upload lên Google Flow."""
+    cached_frame = os.path.join(FRAMES_DIR, f"canh_{scene_num:02d}_clip_{prev_clip_num:02d}_last.jpg")
+    if os.path.exists(cached_frame) and os.path.getsize(cached_frame) > 0:
+        log(f"🔗 Dùng lại frame cuối đã cắt của Cảnh {scene_num:02d} - Clip {prev_clip_num:02d}: {os.path.basename(cached_frame)}")
+        return upload_start_frame(cached_frame)
+
+    for cn, mp4_path in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, scene_num, f"canh-{scene_num:02d}"):
+        if cn == prev_clip_num and os.path.exists(mp4_path):
+            frame_path = extract_last_frame(mp4_path, scene_num, prev_clip_num)
+            return upload_start_frame(frame_path) if frame_path else None
+
+    r2_url = is_clip_completed_in_db(CHANNEL_SLUG, scene_num, prev_clip_num)
+    if r2_url and str(r2_url).startswith("http"):
+        frame_path = extract_last_frame(r2_url, scene_num, prev_clip_num)
+        return upload_start_frame(frame_path) if frame_path else None
+
+    return None
+
+
 def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> str:
-    """Tải ngay lập tức video 10s (Omni) về máy và đồng bộ lên Cloudflare R2 & D1."""
+    """Tải ngay lập tức video 10s (Omni) về máy, cắt ảnh cuối và đồng bộ lên Cloudflare R2 & D1."""
     scene_folder = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{scene_num:02d}")
     os.makedirs(scene_folder, exist_ok=True)
 
@@ -613,12 +729,14 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                         f.write(chunk)
             os.replace(tmp_path, target_path)
             trim_studio_reference_frames(target_path, log_fn=log)
+            frame_path = extract_last_frame(target_path, scene_num, clip_num)
             size_mb = os.path.getsize(target_path) / (1024 * 1024)
             r2_sync = sync_clip_to_r2_and_d1(
                 channel_slug=CHANNEL_SLUG,
                 ep_num=scene_num,
                 clip_num=clip_num,
                 local_video_path=target_path,
+                last_frame_path=frame_path,
                 ep_folder_name=f"canh-{scene_num:02d}",
                 project_id=PROJECT_ID,
             )
@@ -699,7 +817,21 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
         else "🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync chuẩn miền Bắc, khớp khẩu hình)"
     )
 
-    if ref_media_ids:
+    if start_image_media_id:
+        endpoint = "/api/flow/generate-video"
+        mode = "🔗 Image-to-Video (Nối tiếp khung hình cuối Clip trước vào slot [Bắt đầu])"
+        slot_desc = f"Start Frame [Bắt đầu] = {start_image_media_id}"
+        payload = {
+            "start_image_media_id": start_image_media_id,
+            "prompt": flow_prompt,
+            "project_id": PROJECT_ID,
+            "scene_id": sid,
+            "duration_s": CLIP_DURATION_S,
+            "model_family": VIDEO_MODEL_FAMILY,
+            "resolution": "720p",
+            "aspect_ratio": ASPECT_RATIO,
+        }
+    elif ref_media_ids:
         endpoint = "/api/flow/generate-video-omni"
         mode = f"🔒 Ingredients Reference-to-Video (Khóa {len(ref_media_ids)} nhân vật gốc trên Google Flow)"
         slot_desc = f"Ingredients Refs = {', '.join(ref_media_ids)}"
@@ -871,20 +1003,43 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
     return {"success": False, "error": "TIMEOUT"}
 
 
-def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 2):
+def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 4):
     current_prompt = initial_prompt
+    key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
+    sid = SCENE_DB_MAP.get(key)
+    ep_folder = f"canh-{scene_num:02d}"
+
+    # Nếu clip đã từng bị đánh dấu FAILED ở lần chạy trước, tự động làm mềm & cập nhật file prompt ngay từ đầu
+    sanitize_level = 0
+    if is_clip_failed_in_db(CHANNEL_SLUG, scene_num, clip_num):
+        sanitize_level = 1
+        log(f"🔧 [PHÁT HIỆN CLIP LỖI TRƯỚC ĐÓ] Tự động cập nhật & làm mềm prompt Cảnh {scene_num:02d} - Clip {clip_num:02d} trước khi chạy lại...")
+        current_prompt = sanitize_prompt(initial_prompt, sanitize_level)
+        persist_updated_prompt(
+            series_dir=SERIES_DIR,
+            channel_slug=CHANNEL_SLUG,
+            ep_num=scene_num,
+            clip_num=clip_num,
+            new_prompt=current_prompt,
+            ep_folder_name=ep_folder,
+            project_id=PROJECT_ID,
+            scene_db_id=sid,
+            attempt=sanitize_level,
+            log_fn=log,
+        )
 
     for attempt in range(1, max_retries + 1):
+        active_start_id = start_image_media_id if attempt <= 2 else None
         if attempt > 1:
-            log(f"🔄 Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries})...")
+            log(f"🔄 Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} với prompt đã cập nhật (Lần {attempt}/{max_retries})...")
 
         try:
-            res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+            res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, active_start_id)
             cooldown_loops = 0
             while res.status_code != 200 and cooldown_loops < 5:
                 if wait_if_cooldown_error(res.text, FLOWKIT_API, log):
                     cooldown_loops += 1
-                    res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+                    res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, active_start_id)
                 else:
                     break
 
@@ -904,11 +1059,27 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
             log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
 
         if attempt < max_retries:
-            log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - LẦN THỬ {attempt + 1}/{max_retries}] Đang làm mềm prompt trên bộ nhớ cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
-            current_prompt = sanitize_prompt(initial_prompt, attempt)
+            sanitize_level += 1
+            log(
+                f"🔧 [TỰ ĐỘNG CẬP NHẬT PROMPT & CHẠY LẠI - LẦN {attempt + 1}/{max_retries}] "
+                f"Đang làm mềm cấp độ {sanitize_level} & lưu lại file canh-{scene_num:02d}/clip-{clip_num}.md..."
+            )
+            current_prompt = sanitize_prompt(initial_prompt, sanitize_level)
+            persist_updated_prompt(
+                series_dir=SERIES_DIR,
+                channel_slug=CHANNEL_SLUG,
+                ep_num=scene_num,
+                clip_num=clip_num,
+                new_prompt=current_prompt,
+                ep_folder_name=ep_folder,
+                project_id=PROJECT_ID,
+                scene_db_id=sid,
+                attempt=sanitize_level,
+                log_fn=log,
+            )
             time.sleep(5)
 
-    log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN LỖI] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã fail {max_retries} lần — tạm bỏ qua để kiểm tra và tạo lại sau!")
+    log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN THỬ] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã thử {max_retries} cấp độ prompt — sẽ tự động chạy lại ở cuối cảnh!")
     return {"success": False, "video_url": None}
 
 
@@ -944,6 +1115,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
         print(f"👉 BẮT ĐẦU CẢNH {s:02d} (6 Clips × {CLIP_DURATION_S}s — Google Flow Omni 10s)")
         print("#" * 72, flush=True)
 
+        previous_clip_last_frame_media_id = None
         rendered_in_this_run = set()
         scene_dir = os.path.join(SERIES_DIR, f"canh-{s:02d}")
 
@@ -962,6 +1134,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                         f"☁️ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} "
                         f"đã có video trên R2/D1 ({r2_done}) — bỏ qua!"
                     )
+                    previous_clip_last_frame_media_id = None
                     continue
 
             with open(fpath, "r", encoding="utf-8") as f:
@@ -971,15 +1144,19 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
             progress_pct = (completed_clips / max(1, total_clips)) * 100
             print(
                 f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — "
-                f"CẢNH {s:02d} - CLIP {c_idx:02d} [OMNI 10S R2V | {VIDEO_MODEL_NAME}]",
+                f"CẢNH {s:02d} - CLIP {c_idx:02d} [OMNI 10S | {VIDEO_MODEL_NAME}]",
                 flush=True,
             )
+
+            # Từ Clip 2 trở đi: tự động lấy/cắt khung hình cuối của Clip trước và chèn vào slot [Bắt đầu]
+            if c_idx > 1 and not previous_clip_last_frame_media_id:
+                previous_clip_last_frame_media_id = load_previous_last_frame(s, c_idx - 1)
 
             res = run_clip_with_auto_retry(
                 scene_num=s,
                 clip_num=c_idx,
                 initial_prompt=prompt_content,
-                start_image_media_id=None,
+                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None,
             )
 
             if res["success"] and res.get("video_url"):
@@ -988,9 +1165,17 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                 if local_video:
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
+                frame_path = os.path.join(FRAMES_DIR, f"canh_{s:02d}_clip_{c_idx:02d}_last.jpg")
+                if not os.path.exists(frame_path) or os.path.getsize(frame_path) == 0:
+                    frame_path = extract_last_frame(local_video if local_video else video_url, s, c_idx)
+                has_next_clip = c_idx != clip_indices[-1]
+                previous_clip_last_frame_media_id = (
+                    upload_start_frame(frame_path) if frame_path and has_next_clip else None
+                )
             else:
                 mark_clip_failed_in_db(CHANNEL_SLUG, s, c_idx)
                 log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Đã đánh dấu FAILED để retry sau.")
+                previous_clip_last_frame_media_id = None
 
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
@@ -998,7 +1183,10 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
         existing_nums = (
             rendered_in_this_run
             if ONLY_CLIP > 0
-            else {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
+            else (
+                {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
+                | {c_idx for c_idx in clip_indices if is_clip_completed_in_db(CHANNEL_SLUG, s, c_idx)}
+            )
         )
         missing_clips = [
             c_idx
@@ -1007,9 +1195,41 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
         ]
         if missing_clips:
             log(
-                f"⏭️ [DANH SÁCH CLIP TẠM BỎ QUA] Cảnh {s:02d} có {len(missing_clips)} clip chưa hoàn tất ({missing_clips}) "
-                "sau 2 lần thử — giữ nguyên kịch bản gốc để kiểm tra và tạo lại sau."
+                f"🔄 [AUTO-UPDATE & RE-RUN CLIP LỖI] Cảnh {s:02d} còn {len(missing_clips)} clip chưa hoàn tất ({missing_clips}) "
+                "— tiến hành tự động cập nhật prompt & chạy lại ngay!"
             )
+            for m_idx in missing_clips:
+                CURRENT_CLIP_NUM = m_idx
+                m_fpath = os.path.join(scene_dir, f"clip-{m_idx}.md")
+                with open(m_fpath, "r", encoding="utf-8") as mf:
+                    m_prompt = mf.read().strip()
+                updated_m_prompt = sanitize_prompt(m_prompt, 2)
+                persist_updated_prompt(
+                    series_dir=SERIES_DIR,
+                    channel_slug=CHANNEL_SLUG,
+                    ep_num=s,
+                    clip_num=m_idx,
+                    new_prompt=updated_m_prompt,
+                    ep_folder_name=f"canh-{s:02d}",
+                    project_id=PROJECT_ID,
+                    scene_db_id=SCENE_DB_MAP.get(f"canh_{s:02d}_clip_{m_idx:02d}"),
+                    attempt=2,
+                    log_fn=log,
+                )
+                prev_start_id = load_previous_last_frame(s, m_idx - 1) if m_idx > 1 else None
+                m_res = run_clip_with_auto_retry(
+                    scene_num=s,
+                    clip_num=m_idx,
+                    initial_prompt=updated_m_prompt,
+                    start_image_media_id=prev_start_id,
+                    max_retries=3,
+                )
+                if m_res["success"] and m_res.get("video_url"):
+                    v_url = m_res["video_url"]
+                    loc_vid = download_and_rename_video(v_url, s, m_idx)
+                    if loc_vid:
+                        rendered_in_this_run.add(m_idx)
+                    update_dashboard_scene_status(s, m_idx, loc_vid if loc_vid else v_url)
 
         CURRENT_CLIP_NUM = None
         log(f"✅ Đã hoàn tất render các clip 10s của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")

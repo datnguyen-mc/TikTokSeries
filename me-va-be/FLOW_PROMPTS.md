@@ -2,19 +2,22 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng:** **từ Tập 8, mỗi tập 30 giây = 3 clip × 10s** (Tập 1–7 giữ độ dài cũ 40–60s) · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **hình người thật kiểu điện ảnh** (giống 365 Ngày Việt Nam), không phải hoạt hình · **bắt buộc check hot** trước khi viết (mục Check hot bên dưới) và Search Google để kiểm chứng các mốc phát triển của trẻ và mẹo chăm sóc an toàn (theo WHO, CDC, AAP, Bộ Y tế).
+**Định dạng chuẩn bắt buộc:** **Mỗi tập là CLIP DÀI 60 GIÂY (`6 clip × 10s = 60s`) KẾT HỢP MẸO NUÔI CON KHOA HỌC + QUAY CÁC EM BÉ (`@Gạo` & `@Bông`) HÀNH ĐỘNG DỄ THƯƠNG + QUẢNG CÁO TỰ NHIÊN CÁC ĐỒ CHO BÉ PHÙ HỢP Ở GIAI ĐOẠN TUỔI ĐÓ** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **hình người thật kiểu điện ảnh** (photorealistic live-action 35mm), không phải hoạt hình · tuân thủ các mốc phát triển của trẻ và mẹo chăm sóc an toàn (theo WHO, CDC, AAP, Bộ Y tế).
 
-**Thế giới:** Sài Gòn hôm nay. **Ngọc**, cô gái Việt Nam xinh đẹp 27 tuổi, nhận may đồ tại nhà, một mình nuôi cặp song sinh một trai một gái vừa chào đời: **Gạo** (bé trai, ra đời trước, là anh) và **Bông** (bé gái, là em). Chồng Ngọc bỏ đi khi cô vừa sinh và không đoái hoài gì tới hai con; ngày ra viện, gọi hoài anh ta cũng không bắt máy, Ngọc một mình bế hai con về căn phòng trọ tầng trệt trong con hẻm nhỏ (Tập 1). Người chồng **không xuất hiện trên hình** (chỉ có cuộc gọi không ai bắt máy), không có tên; Ngọc buồn, khóc, nhưng không chửi bới, không nói xấu anh ta trước mặt con. Kênh kể chuyện tình mẹ và cách chăm con mỗi tuần. Tên hai bé do Ngọc đặt: Gạo là no đủ, Bông là đẹp xinh.
+**Thế giới:** Sài Gòn hôm nay. **Ngọc** (`@Ngọc`), cô gái Việt Nam xinh đẹp 27 tuổi, nhận may đồ tại nhà, một mình nuôi cặp song sinh một trai một gái vừa chào đời: **Gạo** (`@Gạo`, bé trai, ra đời trước, là anh — luôn mặc đồ cotton xanh bạc hà thêu gấu nâu nhỏ, chỏm tóc đen dựng đứng như mầm cây) và **Bông** (`@Bông`, bé gái, là em — luôn mặc đồ cotton hồng phấn bèo vai thêu dâu nhỏ, hàng mi dài cong vút, môi chúm chím). Kênh kể chuyện tình mẹ ấm áp, chia sẻ **mẹo nuôi con theo từng tuần/tháng tuổi**, ghi lại **những hành động/biểu cảm siêu dễ thương của hai bé** và **giới thiệu các món đồ cho bé phù hợp đúng độ tuổi**.
 
-**Độ dài và cấu trúc: 30 giây = 3 clip (từ Tập 8, người dùng yêu cầu 04/11/2026):**
+**Độ dài và cấu trúc chuẩn bắt buộc: Clip dài 60 giây = 6 clip × 10s:**
 
-| Clip | Giây | Việc của clip |
+| Clip | Giây | Việc của clip (Chuẩn 60s = 6 Clip × 10s: Mẹo Nuôi Con + Hành Động Dễ Thương Của Bé + Quảng Cáo Đồ Cho Bé Đúng Độ Tuổi) |
 | --- | --- | --- |
-| 1 | 0–10 | **Hook 0–2 giây** bằng một khoảnh khắc của bé, không thoại (mặt nghiêm như ông cụ non, ngáp thật to, hắt xì, ọ ẹ đòi mẹ); Ngọc vào khung với một câu tự nhiên gây tò mò; món đồ cho bé xuất hiện có lý do (để ở đâu, ai mang tới) |
-| 2 | 10–20 | Món đồ được dùng thật, mẹo thể hiện bằng hình (khoảng cách, tư thế, cất ra ngoài nôi); một chuyện nhỏ làm bật cười (bé kia ganh tị, món đồ "thất bại", bé phản ứng ngược) |
-| 3 | 20–30 | **Cao trào ngay 2–3 giây đầu clip** (nụ cười, bàn tay con nắm ngón tay mẹ, bé nín khóc), Ngọc phản ứng thật rồi mới nói; 2 giây cuối khép vòng: khung cuối lặp lại khung mở đầu của Clip 1, hoặc một ánh mắt, âm thanh mở sang tập sau |
+| 1 | 0–10 | **Hook Cận Cảnh Em Bé Hành Động Dễ Thương (0–3s):** Mở màn bằng khoảnh khắc cận cảnh cực đáng yêu của `@Gạo` và `@Bông` đúng mốc tuần tuổi (nhăn mặt ông cụ non, ngáp thật to, vươn vai, hắt xì, chu môi, đạp chân, ê a gọi mẹ); mẹ `@Ngọc` dịu dàng bước vào khung hình với câu nói tự nhiên thương con |
+| 2 | 10–20 | **Tình Huống Chăm Con & Mẹo Nuôi Con Khoa Học (Phần 1):** `@Ngọc` nhận ra nhu cầu phát triển của hai bé ở giai đoạn tuổi hiện tại và thực hiện bước đầu của **mẹo nuôi con chuẩn y khoa (AAP/CDC/WHO)** bằng hình ảnh trực quan (kiểm tra gáy, đỡ đầu cổ, canh khoảng cách nhìn, chuẩn bị bề mặt phẳng êm) |
+| 3 | 20–30 | **Giới Thiệu & Sử Dụng Đồ Cho Bé Phù Hợp Đúng Giai Đoạn Tuổi (`Product Showcase`):** Món đồ cho bé thiết kế đúng độ tuổi lên hình rõ nét, tự nhiên (không chữ/logo); `@Ngọc` kiểm tra chất liệu an toàn và thao tác sử dụng trực tiếp cho `@Gạo` và `@Bông` |
+| 4 | 30–40 | **Quay Cận Cảnh Hai Bé Phản Ứng & Tương Tác Đáng Yêu:** Máy quay 85mm bắt trọn biểu cảm sống động của cặp song sinh khi trải nghiệm món đồ và mẹo của mẹ (`@Gạo` ngóc đầu tròn mắt nhìn, `@Bông` ọ ẹ đòi phần hoặc cười móm mém, hai tay quơ nhẹ, hai chân đạp nhịp nhàng) |
+| 5 | 40–50 | **Mẹo Nuôi Con An Toàn (Phần 2) & Tiện Ích Cho Mẹ Bỉm:** `@Ngọc` hoàn tất quy trình chăm sóc an toàn (ví dụ: tập nằm sấp đúng 3–5 phút rồi lật ngửa, giữ khoảng cách 25 cm, cất đồ chơi ra ngoài nôi khi bé ngủ) giúp mẹ bỉm dễ dàng áp dụng theo |
+| 6 | 50–60 | **Cao Trào Cảm Xúc & Khoảnh Khắc Đốn Tim Cuối Tập:** Nụ cười toe toét đầu đời, tiếng ê a ngọt ngào hoặc bàn tay nhỏ xíu của `@Gạo` và `@Bông` nắm lấy ngón tay mẹ `@Ngọc`; khép lại bằng khung hình ấm áp của ba mẹ con |
 
-Không thêm clip thứ 4 trừ khi người dùng yêu cầu. Một tập 30 giây chỉ có một chuyện, một món đồ, một cao trào, một bối cảnh liền mạch, không nhảy thời gian. Clip 1 làm bằng Ingredients, Clip 2–3 nối khung cuối clip trước.
+Luôn dựng đủ **6 clip × 10s = 60 giây** cho mỗi tập để thể hiện trọn vẹn cả 3 yếu tố: **Mẹo nuôi con chi tiết + Cận cảnh các em bé hành động dễ thương + Quảng cáo tự nhiên đồ cho bé phù hợp độ tuổi**. Clip 1 làm bằng Ingredients (`@Ngọc`, `@Gạo`, `@Bông` + ảnh sản phẩm), Clip 2–6 nối khung cuối clip trước (`Seamless Frame Chaining`).
 
 **Check hot trước khi viết (bắt buộc từ Tập 8):**
 1. **Đồ hot:** xem bảng Mẹ & Bé của TikTok Shop Việt Nam xếp theo đơn 7 ngày ([FindNiche](https://findniche.com/tiktok/trending-baby-and-maternity-products-vn), dữ liệu cập nhật đầu tháng) và các trang khám phá TikTok, báo, hội nhóm mẹ bỉm (TikTok Creative Center cần đăng nhập, nên đây là nguồn thứ cấp và phải nói rõ như vậy).

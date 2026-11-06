@@ -3,63 +3,63 @@
 
 [CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
 Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
-@Lam = Vũ Đình Lâm: same approved identity, age 27; Vietnamese male antique architecture conservator, 174 cm, lean build, pale angular face with dark circles under attentive dark eyes behind thin metal-rimmed glasses, neat parted black hair damp from night mist. Wardrobe: dark olive-green field jacket over a charcoal-grey collared shirt, dark trousers, brown leather satchel strap across his chest, holding a vintage brass flashlight emitting a warm amber beam. Voice profile: [VOICE_LOCK_LAM_TIENGGO — Cố định giọng Lâm chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 27-year-old native Standard Northern Vietnamese male voice, warm mid-baritone register that trembles with breathless dread in climax moments.
-Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller. Voice profile: [VOICE_LOCK_NARRATOR_TIENGGO — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, bone-chilling 42-year-old native Standard Northern Vietnamese male baritone voice (giọng nam chuẩn miền Bắc trầm khàn, chậm rãi kể chuyện ma đêm khuya, classic Northern Vietnamese ghost-storyteller cadence with crisp consonant distinction and dark gravelly resonance). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent.
+@Lam = Hoàng Lâm / Vũ Đình Lâm (media_id: bf3d7dc9-c123-45eb-be8b-cd6196d35011): same approved identity, age 27–29; Vietnamese male antique architecture photographer & conservator, 174 cm, lean build, pale angular face with dark circles under attentive dark eyes behind thin metal-rimmed glasses, neat parted black hair damp from night mist. Wardrobe: dark olive-green field jacket over a charcoal-grey collared shirt, dark trousers, brown leather satchel/camera strap across his chest, holding a vintage brass flashlight or oil storm lantern emitting a warm amber beam. Voice profile: [VOICE_LOCK_LAM_TIENGGO — Cố định giọng Lâm chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 27-year-old native Standard Northern Vietnamese young male voice (~130 Hz clear baritone-tenor), urgent, tense, trembling with breathless dread in climax moments (giọng nam 27 tuổi chuẩn miền Bắc, căng thẳng, gấp gáp).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_TIENGGO — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
 [TIMELINE AND LOCATION]
-Scene 15/15, clip 5/6; shot 15.5 (10.0s | Model: `omni_flash` 10s). Story time: 05:30 Bình minh sương trắng & 03:00 Đêm hôm sau (14:00–15:00) (14:40–14:50).
-Misty pale dawn in the ancestral courtyard: the laterite stone well is once again tightly sealed by seven iron chains and a bronze padlock; beside the well lies @Lam's cracked metal-frame glasses and brass flashlight.
+Scene 15/15, clip 5/6; shot 15.5 (10.0s | Model: `omni_flash` 10s). Story time: 06:00 Bình minh nắng ấm Ngày thứ tư (14:00–15:00) (14:40–14:50).
+Warm golden morning sunlight streaming through the ancient trees into the ironwood ancestral hall and courtyard well; a faint mist handprint waves farewell on the uncovered bronze mirror as @Lam bows goodbye and walks out the stone archway.
 [FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 15 (Clip 1–6)]
-FIXED SCENE 15 SPACE (Sân giếng đá ong lúc bình minh sương lạnh và đáy giếng sâu lúc 03:00 sáng hôm sau): Trục máy quay từ cận cảnh chiếc kính gọng mảnh bên thành giếng rút dần lên cao rồi chìm thẳng vào lòng giếng tối đen.
+FIXED SCENE 15 SPACE (Từ đồi nắng ấm trở vào chiếc gương đồng cổ trong gian chính rồi kéo xa qua sân giếng đá ong ra cổng làng): Trục kết phim ấm áp, dư âm linh thiêng.
 Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 15.
 
 [DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
-Lâm khựng lại ở bậc cửa gỗ, quay đầu nhìn chiếc gương đồng đang lấp lánh nắng sớm rồi khẽ cúi đầu chào lần cuối trước khi bước ra sân.
+`@Lam` khựng lại ở bậc cửa gỗ, quay đầu nhìn chiếc gương đồng đang lấp lánh nắng sớm rồi khẽ cúi đầu chào lần cuối trước khi bước ra sân.
 
-[ACTION — 0.0s–10.0s, one continuous evolving take]
-- Visual Choreography (0.0–10.0s): 0.0–3.0s: Camera establishes the eerie atmosphere of ANCIENT_COURTYARD_WELL as @Lam enters the beat. 3.0–7.0s: Lâm khựng lại ở bậc cửa gỗ, quay đầu nhìn chiếc gương đồng đang lấp lánh nắng sớm rồi khẽ cúi đầu chào lần cuối trước khi bước ra sân. 7.0–10.0s: The camera holds on the chilling aftermath and micro-expressions of dread across @Lam. From 2.0–8.5s, @Lam speaks the Vietnamese line aloud on-screen with accurate lip-sync in a Standard Northern Vietnamese accent (VOICE_LOCK_LAM_TIENGGO) while all other characters keep their mouths closed.
-- Beat 1 (0.0–3.0s — Thiết lập không gian rùng rợn & khởi phát hành động): Không gian ANCIENT_COURTYARD_WELL chìm trong sương lạnh và bóng tối cổ xưa, mở đầu nhịp cảnh 15.5.
-- Beat 2 (3.0–7.0s — Cao trào kinh dị & tương tác gai góc): Lâm khựng lại ở bậc cửa gỗ, quay đầu nhìn chiếc gương đồng đang lấp lánh nắng sớm rồi khẽ cúi đầu chào lần cuối trước khi bước ra sân.
-- Beat 3 (7.0–10.0s — Dư chấn tâm lý & điểm dừng rợn gáy): Máy quay giữ chặt biểu cảm rợn tóc gáy và ánh mắt thất thần của @Lam giữa không gian nhà từ đường gỗ lim tĩnh mịch.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside IRONWOOD_ANCESTRAL_HALL as @Lam continues seamlessly from the previous beat. 3.0–7.0s: `@Lam` khựng lại ở bậc cửa gỗ, quay đầu nhìn chiếc gương đồng đang lấp lánh nắng sớm rồi khẽ cúi đầu chào lần cuối trước khi bước ra sân. 7.0–10.0s: The camera settles smoothly on @Lam's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. From 2.0–8.5s, @Lam speaks the Vietnamese line aloud on-screen with accurate lip-sync in a Standard Northern Vietnamese accent (VOICE_LOCK_LAM_TIENGGO) while all other characters keep their mouths closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 15.4 (Nhưng đúng lúc `@Lam` quay lưng khoác túi máy ảnh bước ra cửa, trên mặt chiếc gương đồng phẳng lặng phía sau anh bỗng tự nhiên phủ một lớp hơi nước mờ, rồi hiện lên **vết một bàn tay nhỏ nhắn khẽ vẫy chào tạm biệt** trước khi tan biến!): máy quay giữ nguyên trục không gian IRONWOOD_ANCESTRAL_HALL và ánh sáng đèn dầu/mưa đêm, dẫn nhịp chuyển động trực tiếp sang @Lam.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào kinh dị / Core Dramatic Action): `@Lam` khựng lại ở bậc cửa gỗ, quay đầu nhìn chiếc gương đồng đang lấp lánh nắng sớm rồi khẽ cúi đầu chào lần cuối trước khi bước ra sân.
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @Lam, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 15.6 (Máy quay từ từ kéo xa (pull-back) qua chiếc giếng đá ong đã mở nắp dưới nắng sớm và cổng vòm rêu phong khi `@L...).
 Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
 [BLOCKING AND PERFORMANCE]
-- Spatial Blocking: Characters (@Lam) maintain consistent screen positions within ANCIENT_COURTYARD_WELL matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow.
+- Spatial Blocking: Characters (@Lam) maintain consistent screen positions and eyeline vectors within IRONWOOD_ANCESTRAL_HALL matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
 - Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron chains, wet laterite stone, and ancient ironwood props.
 
 [CAMERA — Shot Size, Lens, Movement & Continuity]
 - Lens & Shot Type: 50mm, 24 fps, 180-degree shutter, MEDIUM_CLOSEUP.
-- Camera Movement Plan (0.0–10.0s): 50mm intimate medium close-up capturing visceral reaction and eerie chiaroscuro lighting. Smooth acceleration and deceleration, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
+- Camera Movement Plan (0.0–10.0s): 50mm intimate medium close-up capturing visceral reaction and eerie chiaroscuro lighting. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
 [PROPS & VISIBLE TEXTURE]
 [FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 15]
-FIXED SCENE 15 OBJECTS: (1) Chiếc kính gọng kim loại mảnh vỡ một bên mắt của Lâm nằm sát thành giếng; (2) Bảy sợi xích sắt khóa chặt miệng giếng đá ong như chưa từng đứt; (3) Đèn dầu đồng trên tay @BaCam; (4) Bàn tay của @Lam gõ vào thành đá ong dưới đáy giếng.
+FIXED SCENE 15 OBJECTS: (1) Ngôi mộ nhỏ sạch sẽ của Cô Út trên đồi nắng; (2) Chiếc gương đồng cổ sáng bóng không còn khăn đen; (3) Vết bàn tay nhỏ nhắn bằng hơi sương trên mặt gương đồng; (4) Chiếc giếng đá ong mở nắp dưới nắng ban mai.
 - Visible Material & Lighting Texture: Mossy porous laterite stone (đá ong rêu phong), rusted iron chains dripping black well water, glossy 150-year-old dark ironwood grain, flickering brass oil-lamp amber shadows against deep abyssal midnight darkness.
 Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
 [BODY, MOUTH AND FACE CONSISTENCY]
 Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
-Mouth & Lip-Sync Map: 0.0–2.0s: All characters keep mouths closed in tense silence. 2.0–8.5s: @Lam speaks on-screen with accurate Vietnamese lip-sync (VOICE_LOCK_LAM_TIENGGO — giọng chuẩn miền Bắc) while all other characters keep their mouths closed. 8.5–10.0s: Mouths closed, holding the horror reaction.
+Mouth & Lip-Sync Map: 0.0–2.0s: All characters keep mouths closed in tense silence, continuing motion smoothly from the previous beat. 2.0–8.5s: @Lam speaks on-screen with accurate Vietnamese lip-sync (VOICE_LOCK_LAM_TIENGGO — giọng chuẩn miền Bắc) while all other on-screen characters keep their mouths closed. 8.5–10.0s: Mouths closed, holding the horror reaction into the outgoing cut.
 
 [VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
 Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
-- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_TIENGGO`): Deep, bone-chilling 42-year-old native Standard Northern Vietnamese male horror storyteller baritone voice (giọng nam chuẩn miền Bắc trầm khàn kể chuyện ma đêm khuya).
-- On-Screen Characters (`VOICE_LOCK_LAM_TIENGGO`, `VOICE_LOCK_BACAM_TIENGGO`, `VOICE_LOCK_COUT_TIENGGO`): Native Standard Northern Vietnamese voices matching each character's locked register.
-Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology and tonal cadence, deep resonant chest baritone for the off-screen male narrator, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_TIENGGO`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_LAM_TIENGGO` ~130Hz 27yo male, `VOICE_LOCK_BACAM_TIENGGO` ~175Hz 78yo female, `VOICE_LOCK_CUTU_TIENGGO` ~95Hz 80yo elder male, `VOICE_LOCK_COUT_TIENGGO` ~235Hz 19yo spectral female): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
 [DIALOGUE — Timed to Action (1 turn(s), 5 Vietnamese words)]
-- Turn 1 [2.0–8.5s] On-Screen Character @Lam (VOICE_LOCK_LAM_TIENGGO | speaking on-screen with accurate lip-sync in a native Standard Northern Vietnamese accent — giọng chuẩn miền Bắc; non-speaking characters keep their mouths closed): Yên nghỉ nhé… Cô Út.
-Spoken Audio Rule: Only the Vietnamese dialogue line after the colon is spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
+- Turn 1 [2.0–8.5s] On-Screen Character @Lam (VOICE_LOCK_LAM_TIENGGO | speaking on-screen with accurate lip-sync in a native Standard Northern Vietnamese accent — giọng chuẩn miền Bắc; non-speaking characters keep their mouths closed): "Yên nghỉ nhé… Cô Út."
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
 [SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
 - Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng âm thanh hiện trường dội lại lạnh lẽo từ vách gỗ lim và lòng giếng sâu; tiếng kim loại va chạm sắc lạnh làm dựng tóc gáy.
-- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over raw, visceral, cause-driven diegetic horror sound effects (rattling rusted iron chains, deep hollow knocking from inside the stone well, creaking ironwood doors, dripping cold rain, and eerie silence) synchronized to visible actions from 0.0s to 10.0s. No cheerful or generic stock music.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror sound effects (rattling rusted iron chains, deep hollow knocking from inside the stone well, creaking ironwood doors, dripping cold rain, and eerie silence) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-[EDIT IN — do not render the previous shot again]
-Cut directly into Shot 15.5 at 0.0s inside the locked Scene 15 environment (14:40–14:50) via Google Flow Omni 10s (`omni_flash`). Never flash or display any studio reference portrait or grey backdrop.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Seamless match-on-action cut directly from Shot 15.4 into Shot 15.5 at 0.0s inside the locked Scene 15 environment (14:40–14:50), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
 
-[START FRAME — state only, not an action to repeat]
-Không gian ANCIENT_COURTYARD_WELL mở đầu nhịp cảnh 15.5 với @Lam trong bầu không khí tâm linh u tịch.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @Lam từ điểm kết của Clip 15.4 tại IRONWOOD_ANCESTRAL_HALL (Nhưng đúng lúc `@Lam` quay lưng khoác túi máy ảnh bước ra cửa, trên mặt chiếc gương đồng phẳng lặng phía sau anh bỗng tự nhiên phủ một lớp hơi nước mờ, rồi hiện lên **vết một bàn tay nhỏ nhắn khẽ vẫy chào tạm biệt** trước khi tan biến!).
 
-[END FRAME — lock position, props, eyeline & movement axis]
-Lâm khựng lại ở bậc cửa gỗ, quay đầu nhìn chiếc gương đồng đang lấp lánh nắng sớm rồi khẽ cúi đầu chào lần cuối trước khi bước ra sân.
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+`@Lam` khựng lại ở bậc cửa gỗ, quay đầu nhìn chiếc gương đồng đang lấp lánh nắng sớm rồi khẽ cúi đầu chào lần cuối trước khi bước ra sân. — Khóa chặt tư thế, hướng nhìn của @Lam và trục máy ở giây 10.0s để nối mượt sang Clip 15.6.

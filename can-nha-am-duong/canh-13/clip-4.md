@@ -1,60 +1,66 @@
-# CLIP 4 — CẢNH 13: CHUỘC LỖI (49 ngày)
+[FORMAT]
+10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — flickering dim 15W filament amber and weathered rural brick browns contrasted with cold midnight indigo-blue shadows, mossy roof tiles, and corpse-pale moonlight mist, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @OngQuan, @Binh), shot type: OVER_SHOULDER): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO clock timestamps, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
 
-## [FORMAT]
-- Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video)
-- Duration: 10.0s (0.0s–10.0s)
-- Aspect Ratio: 16:9 widescreen
-- Frame Rate: 24fps
-- Style: Photorealistic
-- Genre: SUPERNATURAL_FOLK_HORROR
-- Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc)
-- Color Grade: Transitioning from folk-horror to folk-warmth — exterior night shot lit by warm lamp light spilling from the house windows and the miếu's incense glow. The jackfruit tree, previously sinister in blue-black moonlight, is now bathed in amber from below. A visual rebirth — same location, completely different emotional register.
+[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
+Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
+@OngQuan = Ông Quân — Bố Bình (media_id: e845a88f-7cd2-4b8f-9fa3-e75e7e337674): same approved identity, age 55; stern Northern Vietnamese male office worker, 170 cm, stocky build, short greying crew-cut hair, weathered face with deep frown lines, wearing a collared white dress shirt with rolled sleeves and dark trousers. Voice profile: [VOICE_LOCK_QUAN_CNHADG — Cố định giọng Ông Quân chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 55-year-old native Standard Northern Vietnamese male baritone voice (~105 Hz stern baritone), gravelly, authoritative, hot-tempered at first then deeply remorseful (giọng nam trung niên 55 tuổi chuẩn miền Bắc, trầm đanh, uy nghiêm).
+@Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a): same approved identity, age 21; Northern Vietnamese male senior university student, 172 cm, thin pale build, messy short black hair, exhausted dark eyes with heavy dark circles underneath, wearing a faded charcoal-grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack. Voice profile: [VOICE_LOCK_BINH_CNHADG — Cố định giọng Bình chuẩn miền Bắc xuyên suốt 90 clips]: Fixed 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).
+Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller (MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 90 clips]: Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, clear and unhurried storytelling articulation (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x / 135 từ/phút, ngắt nghỉ 0.4s ở dấu ba chấm). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or high-pitched voice, and keep all on-screen mouths naturally closed during VO.
 
-## [CHARACTERS]
-- No visible characters — this is a pure exterior establishing shot. The house itself is the character, transformed.
+[TIMELINE AND LOCATION]
+Scene 13/15, clip 4/6; shot 13.4 (10.0s | Model: `omni_flash` 10s). Story time: Chiều tà 49 ngày cầu siêu (12:00–13:00) (12:30–12:40).
+Newly built small brick spirit shrine beneath the ancient jackfruit tree with curling incense smoke, and the warm golden-lit ancestral worship room inside the house during 49 days of vegetarian prayers.
+[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 13 (Clip 1–6)]
+FIXED SCENE 13 SPACE (Gian thờ tổ ấm ánh đèn vàng bên trong nhà nối ra ngôi miếu gạch nhỏ dưới gốc mít cổ thụ và mộ cụ Xá): Trục hòa giải âm dương thanh tịnh, ấm áp.
+Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 13.
 
-## [TIMELINE AND LOCATION]
-- Time: Night — same final night as Clip 3, seen from outside.
-- Location: Exterior — camera positioned near the gốc mít (jackfruit tree base) looking toward the ancestral house. For the first time in the entire series, the house has warm light in every window. The miếu glows with incense. The courtyard is swept clean.
+[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
+Góc máy từ ngoài gốc mít nhìn xuyên qua sân gạch vào ngôi nhà trong đêm: ánh đèn vàng ấm áp tỏa ra từ các ô cửa sổ gỗ nơi `@OngQuan` và `@Binh` đang ngồi trò chuyện, tiếng chuông chùa ngân vang.
 
-## [DRAMATIC INTENT]
-The visual thesis of the series — the house transformed. Every previous exterior night shot showed the house as dark, cold, threatening. Now it glows with warm light, incense smoke rising from both the miếu and the house itself. The narrator's words about "siêu thoát" (liberation/transcendence) apply to both the spirits AND the family. The horror has ended not with a battle but with devotion.
+[ACTION — 0.0s–10.0s, one continuous evolving take with smooth match-on-action transitions]
+- Visual Choreography (0.0–10.0s): 0.0–3.0s: Smooth incoming match-on-action inside ANCESTRAL_GRAVE_AND_ALTAR as @OngQuan, @Binh continues seamlessly from the previous beat. 3.0–7.0s: Góc máy từ ngoài gốc mít nhìn xuyên qua sân gạch vào ngôi nhà trong đêm: ánh đèn vàng ấm áp tỏa ra từ các ô cửa sổ gỗ nơi `@OngQuan` và `@Binh` đang ngồi trò chuyện, tiếng chuông chùa ngân vang. 7.0–10.0s: The camera settles smoothly on @OngQuan, @Binh's visceral reaction and holds a clean 0.5s visual/audio bridge into the next shot. Throughout 0.8–9.2s, an off-screen 42-year-old Standard Northern Vietnamese male horror narrator (VOICE_LOCK_NARRATOR_CNHADG, ~110 Hz mid-baritone, MC Đình Soạn style, 0.95x speed) speaks the Vietnamese voice-over while all on-screen characters keep their mouths naturally closed.
+- Beat 1 (0.0–3.0s — Khớp nối chuyển động đầu cảnh / Incoming Match-On-Action): Nối tiếp mượt mà (Match-On-Action) ngay từ trạng thái kết của Clip 13.3 (Đêm thứ 49 bên trong gian thờ chính: `@OngQuan` và `@Binh` ngồi tĩnh lặng chắp tay trước bàn thờ cụ Xá rực ánh đèn dầu vàng ấm, khói hương cuộn tròn bay lên tạo cảm giác bình an kỳ lạ.): máy quay giữ nguyên trục không gian ANCESTRAL_GRAVE_AND_ALTAR và ánh sáng hiện trường, dẫn nhịp chuyển động trực tiếp sang @OngQuan, @Binh.
+- Beat 2 (3.0–7.0s — Diễn biến & cao trào tâm lý / Core Dramatic Action): Góc máy từ ngoài gốc mít nhìn xuyên qua sân gạch vào ngôi nhà trong đêm: ánh đèn vàng ấm áp tỏa ra từ các ô cửa sổ gỗ nơi `@OngQuan` và `@Binh` đang ngồi trò chuyện, tiếng chuông chùa ngân vang.
+- Beat 3 (7.0–10.0s — Điểm neo chuyển cảnh mượt sang clip kế tiếp / Outgoing Transition Bridge): Máy quay ghìm chậm nhịp thở và điểm nhìn của @OngQuan, @Binh, giữ ổn định bố cục và hướng ánh sáng 0.5s cuối để làm điểm tựa chuyển cảnh mượt (Match-Cut Bridge) sang Clip 13.5 (Sáng hôm sau bên hiên nhà ngập nắng ấm, `@OngQuan` đặt tay lên vai `@Binh` và quay sang nhìn `@BaPhuong` với á...).
+Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
 
-## [ACTION]
-0.0s–3.5s: Camera positioned low near the jackfruit tree roots — the miếu in the foreground, glowing softly with burning incense. Beyond it, the ancestral house. For the first time: warm amber light fills every window. Lamp light spills out through the front door, casting a golden rectangle on the swept courtyard. The house breathes warmth.
-3.5s–6.5s: Slow push-in toward the house — passing the miếu (incense smoke trailing across frame), through the clean courtyard. Details emerge: swept path, trimmed weeds, the rusted gate now stands open (welcoming, not abandoned). Warm light beckons from inside.
-6.5s–8.5s: Camera reaches the doorway — we glimpse the interior: the warm glow, the incense smoke, the altar. We don't enter — we're outside, at the threshold between the material and spiritual world.
-8.5s–10.0s: Camera tilts up — incense smoke from the house and the miếu converge overhead, rising together past the jackfruit canopy toward the night sky. Stars visible through gaps in leaves. The smoke dissolves into starlight. Peace.
+[BLOCKING AND PERFORMANCE]
+- Spatial Blocking: Characters (@OngQuan, @Binh) maintain consistent screen positions and eyeline vectors within ANCESTRAL_GRAVE_AND_ALTAR matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow for butter-smooth inter-clip editing.
+- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with rusted iron gates, thin mosquito nets, and ancestral props.
 
-## [PROPS]
-- Miếu nhỏ with incense burning (foreground)
-- Ancestral house — for the first time fully lit with warm lamp light in all windows
-- Swept courtyard — clean packed earth, no debris
-- Rusted gate standing open
-- Jackfruit tree canopy overhead
-- Stars visible in night sky through leaves
+[CAMERA — Shot Size, Lens, Movement & Continuity]
+- Lens & Shot Type: 50mm, 24 fps, 180-degree shutter, OVER_SHOULDER.
+- Camera Movement Plan (0.0–10.0s): 50mm over-the-shoulder framing connecting foreground subject with midground supernatural tension. Smooth ease-in at 0.0s and ease-out damping at 9.5–10.0s so adjacent clips concatenate without visual jarring, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
 
-## [BODY, MOUTH AND FACE CONSISTENCY]
-- No characters visible. @OngQuan may be a distant silhouette glimpsed through the doorway at 7.0s–8.0s, but not clearly identifiable — a warm shadow among warm light.
+[PROPS & VISIBLE TEXTURE]
+[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 13]
+FIXED SCENE 13 OBJECTS: (1) Ngôi miếu gạch nhỏ mới xây dưới gốc mít cổ thụ; (2) Khói nhang trầm quyện trong nắng chiều vàng ấm; (3) Áo sơ mi giản dị của Ông Quân suốt 49 ngày chay tịnh; (4) Ánh đèn vàng ấm áp tỏa ra từ cửa sổ căn nhà.
+- Visible Material & Lighting Texture: Peeling lime-washed rural brick walls, mossy roof tiles, gnarled ancient jackfruit bark, sheer white mosquito net fabric under dim 15W amber light against deep midnight shadows.
+Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
 
-## [VOICE & DIALOGUE LOCK]
-- Narrator: VOICE_LOCK_NARRATOR_CNHADG — Deep bone-chilling 40-year-old Standard Northern Vietnamese male horror storyteller. Reverent, uplifting — the voice that told of terrors now tells of transcendence. The same timbre, transformed by context.
+[BODY, MOUTH AND FACE CONSISTENCY]
+Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
+Mouth & Lip-Sync Map: 0.0–10.0s: Off-screen Standard Northern Vietnamese male horror narrator voice-over ONLY (VOICE_LOCK_NARRATOR_CNHADG — 42-year-old Hanoi Standard Northern Vietnamese male storyteller, ~110 Hz mid-baritone, giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed); all on-screen characters keep their mouths naturally closed throughout 0.0–10.0s and perform purely through unblinking eye tension, trembling breath, cold sweat, and visceral physical action.
 
-## [DIALOGUE]
-**[NARRATOR — VOICEOVER]** (0.5s–9.5s):
-"Nhìn từ gốc mít ra — lần đầu tiên trong bao nhiêu năm, căn nhà có ánh đèn ấm áp. Khói hương bay từ miếu, bay từ bàn thờ, hoà vào nhau trên bầu trời đêm. Như thể những vong hồn cuối cùng... cũng đã được siêu thoát."
+[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
+Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
+- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_CNHADG`): Fixed 42-year-old native Hanoi Standard Northern Vietnamese male horror storyteller voice (~110 Hz deep resonant mid-baritone, giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn — HẺM Truyện Ma, tốc độ 0.95x).
+- On-Screen Characters (`VOICE_LOCK_BINH_CNHADG` ~135Hz 21yo male, `VOICE_LOCK_PHUONG_CNHADG` ~205Hz 50yo female, `VOICE_LOCK_QUAN_CNHADG` ~105Hz 55yo male, `VOICE_LOCK_BAY_CNHADG` ~115Hz 60yo male, `VOICE_LOCK_CUXA_CNHADG` ~98Hz 80yo spectral elder, `VOICE_LOCK_VONGLA_CNHADG` spectral whisper): Native Standard Northern Vietnamese voices matching each character's locked acoustic register.
+Voice direction: Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology (s/x, tr/ch, r/d/gi) and 6-tone Hanoi cadence, open resonant storytelling presence, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone.
 
-## [SOUND]
-- Ambient: Night village — peaceful version. Crickets gentle, not oppressive. A distant frog. The faintest night breeze. Warm ambient sounds only — no horror cues whatsoever.
-- Foley: Incense crackling from miếu (close, foreground, 0.0s–3.0s), lamp flame hum from inside the house (3.5s–8.0s, growing as camera approaches), leaves rustling overhead (constant, gentle)
-- Music: Full ensemble — đàn bầu, đàn tranh, and sáo trúc (bamboo flute) together for the first time. The sáo trúc carries the melody — bright, ascending, like smoke rising. The arrangement is simple but complete — musical fullness matching the house's newfound wholeness. At 8.5s, the music opens up as camera tilts to sky — expanding, releasing, transcending.
-- Supernatural resolution: A very faint choral hum — could be wind, could be many voices sighing in relief — at 9.0s as smoke merges with starlight. Beautiful, not frightening.
+[DIALOGUE — Timed to Action (1 turn(s), 47 Vietnamese words)]
+- Turn 1 [0.8–9.2s] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen in an expressive, resonant ~110 Hz 42-year-old Standard Northern Vietnamese male storyteller accent — giọng nam chuẩn miền Bắc thanh thoát kể chuyện ma đêm khuya MC Đình Soạn style at 0.95x speed; strictly NO Southern/Saigon accent; all on-screen mouths remain closed): "Nhìn từ ngoài cổng vào, lần đầu tiên sau gần hai mươi năm, người dân trong làng thấy căn nhà cụ Xá sáng bừng ánh đèn ấm áp… như thể mọi oán khí và nỗi cô quạnh của cõi âm đều đã được hóa giải trọn vẹn."
+Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
 
-## [EDIT IN]
-Cut from interior close-up of @OngQuan's smile (Clip 3) to exterior wide shot — revealing the transformation from outside. The contrast is the revelation.
+[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
+- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng bóng đèn dây tóc chập chờn kêu 'xẹt' nhỏ; tiếng hơi thở gấp gáp nén chặt trong cổ họng giữa không gian đặc quánh mùi ẩm mốc.
+- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over continuous, cause-driven diegetic horror ambience (howling midnight wind through the jackfruit tree, frogs and crickets in the rice paddies, creaking folding cot, metallic pot crash, and eerie spectral whispers) with smooth 0.15s room-tone continuity at 0.0s and 10.0s so clips join seamlessly. No cheerful or generic stock music.
 
-## [START FRAME]
-Low angle from the jackfruit tree base — the miếu in the left foreground, incense sticks glowing orange, smoke rising. Beyond: the ancestral house, fully lit with warm amber lamp light spilling from windows and the open doorway. The courtyard between is swept clean, the golden light pooling on the ground. The jackfruit tree canopy arches overhead, leaves catching the warm light from below. Stars peek through the canopy. For the first time, the house looks like home.
+[EDIT IN — Seamless Match-Cut & Temporal Continuity]
+Seamless match-on-action cut directly from Shot 13.3 into Shot 13.4 at 0.0s inside the locked Scene 13 environment (12:30–12:40), preserving exact spatial axis, lighting temperature, and character posture. Never flash or display any studio reference portrait or grey backdrop.
 
-## [END FRAME]
-Camera tilted upward — twin columns of incense smoke (from miếu and house) converge and spiral together, rising through the dark jackfruit canopy toward the night sky. Stars are visible through gaps in the leaves. The smoke dissolves into the starlit darkness above — beautiful, ethereal, final. The spirits have gone home.
+[START FRAME — state only, matched to previous clip's outgoing state]
+Khung hình 0.0s nối khớp vị trí, ánh sáng và tư thế của @OngQuan, @Binh từ điểm kết của Clip 13.3 tại ANCESTRAL_GRAVE_AND_ALTAR (Đêm thứ 49 bên trong gian thờ chính: `@OngQuan` và `@Binh` ngồi tĩnh lặng chắp tay trước bàn thờ cụ Xá rực ánh đèn dầu vàng ấm, khói hương cuộn tròn bay lên tạo cảm giác bình an kỳ lạ.).
+
+[END FRAME — lock position, props, eyeline & movement axis to bridge into next clip]
+Góc máy từ ngoài gốc mít nhìn xuyên qua sân gạch vào ngôi nhà trong đêm: ánh đèn vàng ấm áp tỏa ra từ các ô cửa sổ gỗ nơi `@OngQuan` và `@Binh` đang ngồi trò chuyện, tiếng chuông chùa ngân vang. — Khóa chặt tư thế, hướng nhìn của @OngQuan, @Binh và trục máy ở giây 10.0s để nối mượt sang Clip 13.5.

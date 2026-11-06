@@ -1,29 +1,31 @@
-# Phèo & Bà Chủ Hường — Tập 15: Vịt cỏ om sấu nước dừa · Chốt lịch nghỉ lễ 24/11 hưởng nguyên lương
+# 365 Ngày Phèo Làm Nội Trợ — Tập 15: Vịt cỏ om sấu nước dừa khoai sọ mềm thơm — Mẹo chà gừng rượu khử hôi lông, ướp tỷ lệ vàng 3-2-1 & bí quyết dằm sấu sánh nước
 
-**Ngày 15** · **Tập xu hướng ngày 03/11/2026** · Tập 50s = 5 clip × 10s · 9:16 · hoạt hình 3D ẩm thực · thoại tiếng Việt · không chữ trên video
+**Ngày 15** · **Tập dài 60 giây = 6 clip × 10s** · **9:16 Dọc** · **Hoạt hình 3D Ẩm thực** · **Hướng dẫn chi tiết 6 bước nấu ngon, tỷ lệ gia vị & mẹo nhà bếp**
 
-> **Cách dựng:** Clip 1 và Clip 4: **Video → Gemini Omni → Ingredients**, độ dài 10s, đính ảnh tham chiếu `@Pheo`, `@No`, dán prompt. Clip 2, 3, 5: **Save frame** khung cuối clip trước → **Frames**, đặt làm **Start frame**, độ dài 10s, dán prompt; hoặc dùng **Extend**. Ghép 5 clip trong Scenebuilder.
-> **Khóa nhân vật, bối cảnh, ảnh tham chiếu:** [FLOW_PROMPTS.md](../FLOW_PROMPTS.md) · **Quy trình, xử lý lỗi:** [FLOW_GUIDE.md](../../FLOW_GUIDE.md)
-
-← Hôm trước: [Tập 14 — Cá lăng nấu măng chua · Thưởng Tết sớm dày cộp](../tap-14/README.md) · Hôm sau: [Tập 16 — Cơm gà nồi cơm điện · Gas tăng, điện giảm, thưởng hai phần trăm](../tap-16/README.md) →
+> **Cấu trúc 6 phần hướng dẫn chi tiết (60 giây = 6 clip × 10 giây):**
+> - **Clip 1 (00:00–00:10) — Phần 1: Cách chọn nguyên liệu tươi ngon & Định lượng chuẩn + Kèo thưởng của Bà chủ Hường** (`Ingredients`: `@Pheo`, `@No`)
+> - **Clip 2 (00:10–00:20) — Phần 2: Mẹo sơ chế & Khử mùi hôi/tanh tận gốc** (`Frames` nối mượt từ khung cuối Clip 1)
+> - **Clip 3 (00:20–00:30) — Phần 3: Công thức ướp gia vị tỷ lệ vàng & Thời gian thấm** (`Frames` nối mượt từ khung cuối Clip 2)
+> - **Clip 4 (00:30–00:40) — Phần 4: Kỹ thuật vào lửa đầu (Thắng nước màu / Áp chảo / Xào săn)** (`Frames` nối mượt từ khung cuối Clip 3)
+> - **Clip 5 (00:40–00:50) — Phần 5: Bí quyết canh lửa, lượng nước, thời gian nấu & Nêm gia vị dậy hương** (`Frames` nối mượt từ khung cuối Clip 4)
+> - **Clip 6 (00:50–01:00) — Phần 6: Hoàn thiện món ăn, thưởng thức tại bàn & Cú lật kèo thưởng hài hước (`SIGNATURE FREEZE`)** (`Frames` nối mượt từ khung cuối Clip 5)
 
 ---
 
-**Nguồn tin & Xu hướng thực tế (Đã kiểm chứng ngày 03/11/2026):**
-- **Lịch nghỉ lễ Ngày Văn hóa Việt Nam 24/11 (Kỳ nghỉ lễ cuối cùng trong năm 2026):** Báo [Lao Động (03/11/2026) — Lịch nghỉ lễ cuối cùng trong năm 2026](https://laodong.vn/thoi-su/lich-nghi-le-cuoi-cung-trong-nam-2026-1792356.ldo) và [VOH (03/11/2026) — Ngày Văn hóa Việt Nam 24/11: Có đơn vị cho công nhân nghỉ 4 ngày](https://voh.com.vn/thoi-su/ngay-van-hoa-viet-nam-24-11-co-don-vi-cho-cong-nhan-nghi-4-ngay-677151.html) thông tin về kỳ nghỉ lễ chính thức hưởng nguyên lương cuối cùng của năm 2026 vào thứ Ba ngày 24/11.
-- **Quy định tiền lương ngày nghỉ lễ:** Theo Điều 112 và Điều 98 Bộ luật Lao động 2019, người lao động được nghỉ làm việc, hưởng nguyên lương trong ngày lễ, Tết; nếu đi làm thêm vào ngày nghỉ lễ thì được trả ít nhất bằng **300%** tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc, chưa kể tiền lương ngày lễ đối với người lao động hưởng lương ngày.
+## 1. Tóm tắt nội dung & Bí quyết ẩm thực
+- **Món chính:** Vịt cỏ om sấu nước dừa tươi khoai sọ bùi béo
+- **Gia vị điểm nhấn:** Nước mắm cốt nhĩ truyền thống (`SP_nuoc-mam`)
+- **Tóm tắt 6 bước:** Hướng dẫn chi tiết 6 bước (60 giây = 6 clip × 10s) nấu món Vịt cỏ om sấu nước dừa khoai sọ mềm ngọt, thơm nức không còn mùi hôi lông: (Phần 1) Mẹo chọn 1kg vịt cỏ ức tròn da mỏng và 8 quả sấu xanh bánh tẻ kèm 300g khoai sọ; (Phần 2) Bí quyết cắt bỏ phao câu, chà xát muối hạt + gừng đập dập + rượu trắng 5 phút khử sạch 100% mùi hôi vịt; (Phần 3) Công thức ướp vịt 20 phút tỷ lệ vàng 3-2-1 (3 muỗng nước mắm cốt `SP_nuoc-mam`, 2 muỗng sả băm, 1 muỗng gừng tỏi băm); (Phần 4) Mẹo áp chảo thịt vịt trong nồi gang không cần dầu cho da vịt tự tươm mỡ vàng óng, săn chắc; (Phần 5) Bí quyết om với 600ml nước dừa tươi + sấu xanh khứa cạnh lửa liu riu 20 phút rồi mới cho khoai sọ nấu thêm 10 phút để khoai bùi không nát; (Phần 6) Mẹo dằm nhẹ 3 quả sấu tạo độ chua thanh sánh nhẹ, rắc ngò gai rau ngổ & cú lật kèo 'nghỉ lễ hưởng nguyên lương' của Bà chủ Hường!
 
-**Tóm tắt:** Trong căn bếp sáng nắng, Bà chủ Hường phấn khởi cầm cuốn lịch gỗ màu hồng khoe với Phèo sắp tới ngày 24/11 là lễ Văn hóa Việt Nam — kỳ nghỉ lễ cuối cùng trong năm được hưởng nguyên lương. Phèo đặt tay lên rổ sấu xanh cạnh con vịt cỏ tươi ngon, nhướng mày hỏi xoáy: *"Vậy lễ đó nhà mình nghỉ gộp bốn ngày hay mở bếp trả lương gấp ba trăm phần trăm hả bà chủ?"* làm bà chủ Hường giật mình. Phèo bật bếp ga xanh áp chảo từng miếng vịt cỏ ướp sả gừng trong nồi gang đen cho lớp da săn vàng tươm mỡ thơm lừng, rồi rót nước dừa tươi trong vắt, thả sấu xanh khứa cạnh và khoai sọ trắng vào om. Bà chủ Hường định trả giá "cho nghỉ nguyên ngày cộng thưởng nồi vịt om sấu coi như quà lễ", nhưng khi Phèo mở nắp nồi gang dằm nhẹ trái sấu chín mềm trong nước dùng vàng sánh điểm ngò gai, rau ngổ thơm nức mũi và nhắc chuẩn luật lao động, bà chủ Hường mê mẩn gật đầu cái rụp: chốt cho Phèo nghỉ lễ 24/11 hưởng nguyên lương, còn bây giờ hai chị em cùng đánh chén tô vịt cỏ om sấu khoai sọ ăn kèm bún tươi nóng hổi!
+## 2. Danh sách 6 Clip Prompt (Copy nguyên file dán vào Google Flow)
 
-## Các clip — mỗi file là nguyên một prompt, copy cả file dán vào Flow
+| Clip | Thời lượng | Phần hướng dẫn chi tiết | File Prompt |
+| :---: | :---: | :--- | :---: |
+| **Clip 1** | `00:00–00:10` | **Phần 1:** Chọn nguyên liệu chuẩn & định lượng + Bà chủ Hường ra kèo | [clip-1.md](clip-1.md) |
+| **Clip 2** | `00:10–00:20` | **Phần 2:** Mẹo sơ chế & khử mùi hôi/tanh tận gốc | [clip-2.md](clip-2.md) |
+| **Clip 3** | `00:20–00:30` | **Phần 3:** Công thức ướp gia vị tỷ lệ vàng & thời gian thấm | [clip-3.md](clip-3.md) |
+| **Clip 4** | `00:30–00:40` | **Phần 4:** Kỹ thuật vào lửa đầu (thắng màu / áp chảo / xào săn) | [clip-4.md](clip-4.md) |
+| **Clip 5** | `00:40–00:50` | **Phần 5:** Bí quyết canh lửa, lượng nước, thời gian nấu & dậy hương | [clip-5.md](clip-5.md) |
+| **Clip 6** | `00:50–01:00` | **Phần 6:** Thưởng thức thành phẩm & Cú lật kèo hài hước (`SIGNATURE FREEZE`) | [clip-6.md](clip-6.md) |
 
-| Clip | Thời gian | Cách tạo | File prompt |
-| --- | --- | --- | --- |
-| 1 | 00:00–00:10 | Ingredients: đính `@Pheo`, `@No` | [clip-1.md](clip-1.md) |
-| 2 | 00:10–00:20 | Frames: start frame = khung cuối clip 1 (hoặc Extend) | [clip-2.md](clip-2.md) |
-| 3 | 00:20–00:30 | Frames: start frame = khung cuối clip 2 (hoặc Extend) | [clip-3.md](clip-3.md) |
-| 4 | 00:30–00:40 | Ingredients (sau 15 phút om chín): đính `@Pheo`, `@No` | [clip-4.md](clip-4.md) |
-| 5 | 00:40–00:50 | Frames: start frame = khung cuối clip 4 (hoặc Extend) | [clip-5.md](clip-5.md) |
-
-- **Caption:** [caption.md](caption.md)
-
+- **Caption & Hashtag:** [caption.md](caption.md)

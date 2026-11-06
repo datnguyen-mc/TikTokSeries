@@ -980,7 +980,7 @@ def merge_episode_clips(
                     "-ac",
                     "2",
                     "-af",
-                    "aresample=async=1:first_pts=0",
+                    "aresample=async=1:first_pts=0,afade=t=in:st=0:d=0.12",
                     "-shortest",
                     "-movflags",
                     "+faststart",
@@ -1415,10 +1415,14 @@ _VI_SAFE_REPLACEMENTS = [
 
 
 def _extract_dialogue_lines(prompt: str) -> list[str]:
-    """Trích xuất các câu thoại tiếng Việt trong prompt để bảo toàn 100% nội dung kịch bản."""
+    """Trích xuất các câu thoại tiếng Việt trong prompt để bảo toàn 100% nội dung kịch bản và khóa giọng VOICE_LOCK."""
     lines = []
     for raw_line in prompt.splitlines():
         s = raw_line.strip()
+        m_turn = re.match(r"^-\s*Turn\s+\d+\s*(.+)$", s, flags=re.IGNORECASE)
+        if m_turn:
+            lines.append(m_turn.group(1).strip())
+            continue
         m_v3_timed = re.match(
             r"^\d+(?:\.\d+)?[–\-]\d+(?:\.\d+)?s\s*·\s*(.+:\s*\"[^\"]+\".*)$",
             s,

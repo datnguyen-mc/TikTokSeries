@@ -36,7 +36,7 @@ CHANNEL_SLUG = "tieng-go-dem-ba-gio"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
 # 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "TIẾNG GÕ ĐÊM BA GIỜ: LỜI NGUYỀN GIẾNG ĐÁ ONG"
-PROJECT_ID = "dedf1a01-6d2f-420c-bff0-f486b3ea12cc"
+PROJECT_ID = "8a346c86-311f-47ae-8ccb-2d716a58c945"
 DEFAULT_PROJECT_ID = PROJECT_ID
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_LANDSCAPE"
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_LANDSCAPE"
@@ -59,6 +59,36 @@ os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
 os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
+# 🎙️ QUY ĐỊNH & KHÓA CỐ ĐỊNH GIỌNG ĐỌC NGƯỜI DẪN CHUYỆN (NARRATOR VOICE LOCK — CHUẨN MIỀN BẮC)
+# -------------------------------------------------------------
+NARRATOR_VOICE_SPEC = {
+    "voice_lock_id": "VOICE_LOCK_NARRATOR_TIENGGO",
+    "role": "Người Dẫn Chuyện (Off-Screen Male Horror Narrator — 80% thời lượng / 72 Clips)",
+    "style_reference": "MC Đình Soạn — HẺM Truyện Ma (Giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya)",
+    "gender_age": "42-year-old native Hanoi Standard Northern Vietnamese male storyteller (Nam trung niên 42 tuổi chuẩn giọng Hà Nội - miền Bắc)",
+    "acoustic_profile": (
+        "Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, "
+        "clear and unhurried storytelling articulation (thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya), "
+        "measured 0.95x speaking rate (135 words/min) with haunting 0.4s pauses at ellipses (…), "
+        "crisp Northern Vietnamese consonant distinction (s/x, tr/ch, r/d/gi) and authentic 6-tone Hanoi cadence."
+    ),
+    "strict_rules": (
+        "1. Cố định 100% một giọng Nam Người Dẫn Chuyện chuẩn miền Bắc (VOICE_LOCK_NARRATOR_TIENGGO) xuyên suốt toàn bộ 90 clips (Cảnh 01 -> Cảnh 15). "
+        "2. TUYỆT ĐỐI KHÔNG đổi sang giọng miền Nam (Sài Gòn/Miền Tây), giọng miền Trung, giọng nữ, giọng nam trẻ cao vút hoặc giọng đọc máy công nghiệp. "
+        "3. Trong tất cả các clip VO (Người dẫn chuyện đọc ngoài khung hình), toàn bộ nhân vật xuất hiện trên màn hình PHẢI KHÉP MIỆNG TỰ NHIÊN (mouths remain naturally closed 0.0–10.0s), chỉ diễn xuất bằng ánh mắt, hơi thở và hành động."
+    ),
+    "prompt_directive": (
+        "Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller "
+        "(MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_TIENGGO — Cố định giọng Nam Người Dẫn Chuyện "
+        "chuẩn miền Bắc xuyên suốt 90 clips]: Deep, resonant mid-baritone (~110 Hz), expressive, clear yet bone-chilling "
+        "42-year-old native Hanoi Standard Northern Vietnamese male storyteller voice (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, "
+        "nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x). Strictly lock this exact "
+        "vocal timbre, pitch, and pacing across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or "
+        "high-pitched voice, and never sound like a robotic TTS engine."
+    ),
+}
+
+# -------------------------------------------------------------
 # 🔒 BẢNG ĐỊNH NGHĨA & KHÓA 4 NHÂN VẬT CỐ ĐỊNH CỦA SERIES (TIẾNG GÕ ĐÊM BA GIỜ)
 # -------------------------------------------------------------
 CHARACTER_SPECS = [
@@ -66,7 +96,9 @@ CHARACTER_SPECS = [
         "key": "Lam",
         "tag": "@Lam",
         "aliases": ["@Lam", "@Lâm", "Lâm", "Hoàng Lâm", "Vũ Đình Lâm", "Lam"],
-        "default_media_id": "",
+        "default_media_id": "bf3d7dc9-c123-45eb-be8b-cd6196d35011",
+        "voice_lock": "VOICE_LOCK_LAM_TIENGGO",
+        "voice_profile": "Fixed 27-year-old native Standard Northern Vietnamese young male voice (~130 Hz clear baritone-tenor), urgent, tense, breathless when confronting the haunted well (giọng nam 27 tuổi chuẩn miền Bắc, căng thẳng, gấp gáp).",
         "description": "Nam nhiếp ảnh gia / kỹ sư khảo sát kiến trúc cổ 27-29 tuổi; cao 174 cm, dáng gầy săn chắc, gương mặt góc cạnh tái nhợt đeo kính gọng mảnh, mặc áo khoác xanh rêu sẫm bên ngoài sơ mi xám, đeo túi da, cầm đèn pin đồng cổ.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Lam, a 27-year-old Vietnamese male antique architecture conservator, "
@@ -79,7 +111,9 @@ CHARACTER_SPECS = [
         "key": "BaCam",
         "tag": "@BaCam",
         "aliases": ["@BaCam", "Bà Cầm", "BaCam"],
-        "default_media_id": "",
+        "default_media_id": "71231f5c-64e2-4c4c-945e-059ee37903f7",
+        "voice_lock": "VOICE_LOCK_BACAM_TIENGGO",
+        "voice_profile": "Fixed 78-year-old native Standard Northern Vietnamese elderly female voice (~175 Hz raspy aged contralto), trembling, hushed, eerie and ominous (giọng bà lão 78 tuổi chuẩn miền Bắc, khàn đục, run rẩy, rờn rợn).",
         "description": "Bà quản gia già 68-78 tuổi giữ nhà từ đường; dáng lưng còng, tóc bạc búi trâm gỗ mun, mắt trái kéo mây trắng đục (mù), mặc áo bà ba nâu đen, tay cầm đèn dầu đồng leo lét.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @BaCam, a 78-year-old Northern Vietnamese female caretaker of an ancestral temple, "
@@ -92,7 +126,9 @@ CHARACTER_SPECS = [
         "key": "CuTu",
         "tag": "@CuTu",
         "aliases": ["@CuTu", "Cụ Từ", "Cụ Tổ", "Cụ Từ Hạc", "CuTu"],
-        "default_media_id": "",
+        "default_media_id": "17de0dcd-36c5-4c0c-8a9a-da1766a23268",
+        "voice_lock": "VOICE_LOCK_CUTU_TIENGGO",
+        "voice_profile": "Fixed 85-year-old native Standard Northern Vietnamese clan patriarch voice (~95 Hz deep gravelly bass-baritone), solemn, slow, echoing with ancient guilt (giọng cụ già 85 tuổi chuẩn miền Bắc, trầm khàn, uy nghiêm).",
         "description": "Cụ già giữ đền cổ / Cụ Tổ 72-85 tuổi; râu bạc dài trước ngực, gương mặt nghiêm nghị sắc lạnh, mặc áo gấm đen truyền thống đội khăn xếp đen.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @CuTu, an 85-year-old traditional Northern Vietnamese clan patriarch, "
@@ -104,7 +140,9 @@ CHARACTER_SPECS = [
         "key": "CoUt",
         "tag": "@CoUt",
         "aliases": ["@CoUt", "Cô Út", "Cô Út Nhài", "CoUt"],
-        "default_media_id": "",
+        "default_media_id": "9bdbd6ce-ef97-4c01-98e0-8b97370abd22",
+        "voice_lock": "VOICE_LOCK_COUT_TIENGGO",
+        "voice_profile": "Fixed 19-year-old native Standard Northern Vietnamese spectral young female voice (~235 Hz ethereal soprano), sorrowful, wet, echoing from the deep laterite well (giọng thiếu nữ 19 tuổi chuẩn miền Bắc, ai oán, thanh mảnh, vọng từ đáy giếng).",
         "description": "Oán linh cô gái trẻ 19-22 tuổi bị trấn yểm dưới giếng đá ong 50 năm trước; da trắng bệch ướt sũng nước mưa, tóc đen dài che nửa mặt, mặc áo lụa trắng ngả màu bùn nước, cổ tay mang vòng xích sắt rỉ.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @CoUt, a 19-year-old tragic Northern Vietnamese maiden apparition, "
@@ -283,13 +321,18 @@ def load_and_lock_project_characters(force_remote: bool = False):
         pass
 
     box_items = [("Project ID", PROJECT_ID)]
+    box_items.append((
+        "🎙️ Giọng Dẫn Chuyện (VO 80%)",
+        f"{NARRATOR_VOICE_SPEC['voice_lock_id']} — {NARRATOR_VOICE_SPEC['style_reference']}",
+    ))
     for spec in CHARACTER_SPECS:
         tag = spec["tag"]
         mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag, "Chưa có (sẽ tự tạo khi chạy)")
-        box_items.append((f"Nhân Vật {tag}", f"media_id = {mid}"))
+        vlock = spec.get("voice_lock", "")
+        box_items.append((f"Nhân Vật {tag}", f"media_id = {mid} | {vlock}"))
     box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Google Flow Omni — {CLIP_DURATION_S}s/clip)"))
     box_items.append(("Chế Độ Khóa", "Ingredients R2V (/api/flow/generate-video-omni 10s)"))
-    print_box("🔒 ĐÃ KHÓA 4 NHÂN VẬT & CẤU HÌNH GOOGLE FLOW OMNI 10S", box_items)
+    print_box("🔒 ĐÃ KHÓA 4 NHÂN VẬT, GIỌNG NGƯỜI DẪN CHUYỆN & CẤU HÌNH GOOGLE FLOW OMNI 10S", box_items)
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
@@ -322,9 +365,9 @@ def get_clip_reference_media_ids(prompt: str) -> list:
 # 1. ĐỒNG BỘ DỰ ÁN VỚI DASHBOARD UI & CMS TABLES (DATABASE SYNC)
 # -------------------------------------------------------------
 def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES):
-    """Đồng bộ tức thì cms_channel, cms_episode (14 cảnh), cms_clip (84 clips), project, character, video, scene vào SQLite (flow_agent.db)."""
+    """Đồng bộ tức thì cms_channel, cms_episode (15 cảnh), cms_clip (90 clips), project, character, video, scene vào SQLite (flow_agent.db)."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
-    log("🔄 Đang đồng bộ cơ sở dữ liệu 'Tiếng Gõ Đêm Ba Giờ' với Console Dashboard UI (Google Flow Omni 10s)...")
+    log("🔄 Đang đồng bộ cơ sở dữ liệu 'Tiếng Gõ Đêm Ba Giờ: Lời Nguyền Giếng Đá Ong' với Console Dashboard UI...")
 
     db_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "flow_agent.db")
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
@@ -334,12 +377,15 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             """INSERT INTO project (id, name, description, story, material, status, user_paygate_tier, video_model_family)
                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                ON CONFLICT(id) DO UPDATE SET
+                 name=excluded.name,
+                 description=excluded.description,
+                 story=excluded.story,
                  video_model_family=excluded.video_model_family""",
             (
                 PROJECT_ID,
-                "Tiếng Gõ Đêm Ba Giờ: Búp Bê Đất Nung",
-                "Phim ngắn kinh dị tâm linh 14 phút (16:9, 14 cảnh × 6 clips × 10s — Google Flow Omni, 80% VO + 20% Lip-Sync).",
-                "Bách mang pho tượng đất nung không mắt từ lò gốm cổ ven sông Hồng về nhà; người vợ mang thai Hà lỡ tay trám mất ấn chú sau lưng tượng và điểm mắt lúc 2 giờ sáng.",
+                "Tiếng Gõ Đêm Ba Giờ: Lời Nguyền Giếng Đá Ong (HẺM Truyện Ma — MC Đình Soạn)",
+                "Phim ngắn kinh dị tâm linh dân gian Bắc Bộ 15 phút (16:9, 15 cảnh × 6 clips × 10s = 90 clips — Google Flow Omni 10s, 80% VO MC Đình Soạn VOICE_LOCK_NARRATOR_TIENGGO + 20% Lip-Sync).",
+                "Vũ Đình Lâm (27 tuổi) về khảo sát ngôi nhà từ đường gỗ lim 150 năm tuổi của dòng họ Vũ, chạm mặt bà quản gia mù một mắt Bà Cầm và giải mã lời nguyền chiếc giếng đá ong bị xiềng xích sắt cùng tiếng gõ đòi mạng đúng 3 giờ sáng của oan hồn Cô Út Nhài.",
                 "realistic",
                 "ACTIVE",
                 "PAYGATE_TIER_TWO",
@@ -355,11 +401,13 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     "name": spec["tag"].lstrip("@"),
                     "default_media_id": mid,
                     "locked_media_id": mid,
-                    "description": spec["description"],
+                    "voice_lock": spec.get("voice_lock", ""),
+                    "voice_profile": spec.get("voice_profile", ""),
+                    "description": f"{spec['description']} | Giọng ({spec.get('voice_lock', '')}): {spec.get('voice_profile', '')}",
                     "ref_prompt": spec["ref_prompt"],
                 }
             )
-            cid = f"char-otdm-{idx:02d}"
+            cid = f"char-tgdbg-{idx:02d}"
             conn.execute(
                 """INSERT INTO character (id, name, description, image_prompt, entity_type, media_id)
                    VALUES (?, ?, ?, ?, ?, ?)
@@ -392,19 +440,19 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                  updated_at=excluded.updated_at""",
             (
                 CHANNEL_SLUG,
-                "Tiếng Gõ Đêm Ba Giờ: Búp Bê Đất Nung",
+                "Tiếng Gõ Đêm Ba Giờ: Lời Nguyền Giếng Đá Ong (HẺM Truyện Ma — MC Đình Soạn)",
                 PROJECT_ID,
                 ASPECT_RATIO,
-                "runners/oan_thai_doi_me.py",
+                "runners/tieng_go_dem_ba_gio.py",
                 "tieng-go-dem-ba-gio",
                 "canh",
-                "Phim ngắn kinh dị tâm linh 14 phút lấy cảm hứng từ Tiếng Gõ Đêm Ba Giờ (Mudborn): Bách mang pho tượng đất nung không mắt từ lò gốm cổ ven sông Hồng về nhà, người vợ mang thai Hà lỡ tay trám mất ấn chú sau lưng tượng và điểm mắt lúc 2 giờ sáng (16:9, 14 cảnh × 6 clips × 10s = 84 clips — Google Flow Omni 10s, 80% Người dẫn chuyện VO + 20% Thoại nhân vật bất ngờ, Giọng Chuẩn Bắc).",
+                "Phim ngắn kinh dị tâm linh dân gian Bắc Bộ 15 phút (Giọng kể chuyện ma MC Đình Soạn HẺM Truyện Ma VOICE_LOCK_NARRATOR_TIENGGO chuẩn miền Bắc): Vũ Đình Lâm trông coi nhà cổ gỗ lim ba gian trong 3 đêm mưa ngâu tháng Bảy và đối mặt lời nguyền chiếc giếng đá ong lúc 3 giờ sáng (16:9, 15 cảnh × 6 clips × 10s = 90 clips — Google Flow Omni 10s, 80% VO + 20% Lip-Sync).",
                 json.dumps(chars_json, ensure_ascii=False),
                 now_iso,
             ),
         )
 
-        CURRENT_VIDEO_ID = "video-otdm-01"
+        CURRENT_VIDEO_ID = "video-tgdbg-01"
         conn.execute(
             """INSERT INTO video (id, project_id, title, description, orientation, status)
                VALUES (?, ?, ?, ?, ?, ?)
@@ -415,8 +463,8 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             (
                 CURRENT_VIDEO_ID,
                 PROJECT_ID,
-                "Tiếng Gõ Đêm Ba Giờ: Búp Bê Đất Nung (14 Phút — Cảnh 01 - 14 | Omni 10s)",
-                "Phim ngắn kinh dị tâm linh 14 Cảnh × 6 Clips × 10s (Google Flow Omni 10s, 80% VO + 20% Lip-Sync)",
+                "Tiếng Gõ Đêm Ba Giờ: Lời Nguyền Giếng Đá Ong (15 Phút — Cảnh 01 - 15 | MC Đình Soạn HẺM Truyện Ma)",
+                "Phim ngắn kinh dị tâm linh 15 Cảnh × 6 Clips × 10s = 90 Clips (80% VO MC Đình Soạn + 20% Lip-Sync)",
                 "HORIZONTAL",
                 "PROCESSING",
             ),
@@ -429,7 +477,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
         order = 0
         for s in range(1, TOTAL_SCENES + 1):
             folder_name = f"canh-{s:02d}"
-            ep_id = f"{CHANNEL_SLUG}_ep_{s:03d}"
+            ep_id = f"{CHANNEL_SLUG}:ep:{s}"
             conn.execute(
                 """INSERT INTO cms_episode
                    (id, channel_slug, project_id, episode_num, folder_name, label, total_clips, rendered_clips, is_complete, updated_at)
@@ -450,7 +498,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     with open(fpath, "r", encoding="utf-8") as f:
                         prompt_full = f.read().strip()
 
-                clip_id = f"{CHANNEL_SLUG}_ep_{s:03d}_clip_{c:02d}"
+                clip_id = f"{CHANNEL_SLUG}:ep:{s}:clip:{c}"
                 conn.execute(
                     """INSERT INTO cms_clip
                        (id, channel_slug, project_id, episode_num, folder_name, clip_num, prompt, status, duration_s, updated_at)
@@ -463,7 +511,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     (clip_id, CHANNEL_SLUG, PROJECT_ID, s, folder_name, c, prompt_full, float(CLIP_DURATION_S), now_iso),
                 )
 
-                sid = existing.get(order) or f"sc-otdm-{s:02d}-{c:02d}"
+                sid = existing.get(order) or f"scene-tgdbg-{s:02d}-{c:02d}"
                 conn.execute(
                     """INSERT INTO scene (id, video_id, display_order, chain_type, duration, prompt, video_prompt, character_names, horizontal_video_status)
                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, 'PENDING')
@@ -479,7 +527,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                         float(CLIP_DURATION_S),
                         f"Cảnh {s:02d} - Clip {c}",
                         prompt_full,
-                        json.dumps(["Bach", "Ha", "ThayPhong", "BaLua"]),
+                        json.dumps(["Lam", "BaCam", "CuTu", "CoUt"]),
                     ),
                 )
                 SCENE_DB_MAP[key] = sid
@@ -487,7 +535,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
 
         conn.commit()
         conn.close()
-        log(f"✅ Đã đồng bộ Console DB thành công! ({len(CHARACTER_SPECS)} nhân vật, {TOTAL_SCENES} cảnh & {len(SCENE_DB_MAP)} clips × {CLIP_DURATION_S}s Omni sẵn sàng)")
+        log(f"✅ Đã đồng bộ Console DB thành công! ({len(CHARACTER_SPECS)} nhân vật, {TOTAL_SCENES} cảnh & {len(SCENE_DB_MAP)} clips sẵn sàng)")
     except Exception as e:
         log(f"⚠️ Lỗi khi đồng bộ DB Dashboard: {e}")
 
@@ -589,13 +637,37 @@ def fetch_media_video_url(media_id: str) -> str:
     return None
 
 
+def enforce_narrator_and_voice_lock(prompt: str) -> str:
+    """
+    Đảm bảo 100% mọi prompt gửi lên Google Flow đều có quy định khóa chặt Giọng Người Dẫn Chuyện
+    (VOICE_LOCK_NARRATOR_TIENGGO — Nam 42 tuổi chuẩn miền Bắc, phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x)
+    và giọng thoại nhân vật chuẩn miền Bắc, ngay cả khi prompt được làm mềm (retry).
+    """
+    p = (prompt or "").strip()
+    if NARRATOR_VOICE_SPEC["voice_lock_id"] not in p:
+        narrator_block = (
+            "\n\n[MANDATORY NARRATOR & VOICE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]\n"
+            f"{NARRATOR_VOICE_SPEC['prompt_directive']}\n"
+            f"Strict Voice Rules: {NARRATOR_VOICE_SPEC['strict_rules']}\n"
+        )
+        p = p + narrator_block
+    return p
+
+
 def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
-    flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
+    enforced_prompt = enforce_narrator_and_voice_lock(prompt)
+    flow_prompt = enforced_prompt if enforced_prompt.startswith(clip_tag) else f"{clip_tag}\n{enforced_prompt}"
 
-    ref_media_ids = get_clip_reference_media_ids(prompt)
+    ref_media_ids = get_clip_reference_media_ids(enforced_prompt)
+    is_vo_clip = "Off-Screen Male Narrator" in enforced_prompt or "VOICE_LOCK_NARRATOR_TIENGGO | speaking off-screen" in enforced_prompt
+    voice_mode_desc = (
+        f"🎙️ VO Người Dẫn Chuyện ({NARRATOR_VOICE_SPEC['voice_lock_id']} — Nam 42t chuẩn Bắc MC Đình Soạn 0.95x, nhân vật khép miệng)"
+        if is_vo_clip
+        else "🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync chuẩn miền Bắc, khớp khẩu hình)"
+    )
 
     if ref_media_ids:
         endpoint = "/api/flow/generate-video-omni"
@@ -631,6 +703,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             ("Phân Cảnh", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
             ("Chế Độ Tạo", mode),
             ("Khóa Hình Ảnh / Nhân Vật", slot_desc),
+            ("Quy Định Giọng Đọc", voice_mode_desc),
             ("Thời Lượng", f"{CLIP_DURATION_S} giây (Omni Flash 10s)"),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", ASPECT_RATIO),

@@ -411,19 +411,29 @@ def sync_dashboard_database(start_ep: int, end_ep: int):
                 clips = get_episode_clips(ep_dir)
                 for c_num, fpath in clips:
                     key = f"tap_{ep:02d}_clip_{c_num:02d}"
-                    match = next((sc for sc in existing_scenes if sc.get("display_order") == order), None)
+                    target_title = f"Tập {ep:02d} - Clip {c_num}"
+                    prompt_preview = target_title
+                    if os.path.exists(fpath):
+                        with open(fpath, "r", encoding="utf-8") as f:
+                            prompt_preview = f.read().strip()[:200]
+                    match = next((sc for sc in existing_scenes if sc.get("prompt") == target_title), None) or next((sc for sc in existing_scenes if sc.get("display_order") == order), None)
                     if match:
                         SCENE_DB_MAP[key] = match["id"]
+                        requests.patch(
+                            f"{FLOWKIT_API}/api/scenes/{match['id']}",
+                            json={
+                                "prompt": target_title,
+                                "video_prompt": prompt_preview,
+                                "display_order": order,
+                            },
+                            timeout=5,
+                        )
                     else:
-                        prompt_preview = f"Tập {ep:02d} - Clip {c_num}"
-                        if os.path.exists(fpath):
-                            with open(fpath, "r", encoding="utf-8") as f:
-                                prompt_preview = f.read().strip()[:200]
                         sc_payload = {
                             "video_id": CURRENT_VIDEO_ID,
                             "display_order": order,
                             "chain_type": "ROOT" if c_num == 1 else "CONTINUATION",
-                            "prompt": f"Tập {ep:02d} - Clip {c_num}",
+                            "prompt": target_title,
                             "video_prompt": prompt_preview,
                             "character_names": ["Mit", "Đú", "Nở"]
                         }
@@ -896,7 +906,7 @@ def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_pro
     return {"success": False, "video_url": None}
 
 
-def run_pipeline(start_ep=17, end_ep=17):
+def run_pipeline(start_ep=1, end_ep=24):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
     print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT TỰ ĐỘNG — MÍT VÀ ĐÚ 1970 (9:16)")
@@ -906,6 +916,11 @@ def run_pipeline(start_ep=17, end_ep=17):
     print(f"💾 Tải video tự động về: {OUTPUT_VIDEOS_DIR}")
     print(f"🖼️ Lưu khung hình nối cảnh tại: {FRAMES_DIR}")
     print("=" * 72 + "\n", flush=True)
+
+    if os.environ.get("FLOWKIT_SYNC_DB_ONLY") == "1":
+        load_and_lock_project_characters()
+        sync_dashboard_database(start_ep, end_ep)
+        return
 
     if not check_connection():
         sys.exit(1)
@@ -994,6 +1009,6 @@ def run_pipeline(start_ep=17, end_ep=17):
 
 
 if __name__ == "__main__":
-    start = int(sys.argv[1]) if len(sys.argv) > 1 else 17
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 17
+    start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 24
     run_pipeline(start, end)

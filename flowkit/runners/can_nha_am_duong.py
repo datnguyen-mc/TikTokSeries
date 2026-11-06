@@ -36,7 +36,7 @@ CHANNEL_SLUG = "can-nha-am-duong"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
 # 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "CĂN NHÀ ÂM DƯƠNG"
-PROJECT_ID = ""
+PROJECT_ID = "3b955883-7851-42fe-a986-5ef82b4912e5"
 DEFAULT_PROJECT_ID = PROJECT_ID
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_LANDSCAPE"
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_LANDSCAPE"
@@ -45,7 +45,7 @@ IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_LANDSCAPE"
 VIDEO_MODEL_FAMILY = "omni_flash"
 VIDEO_MODEL_NAME = "omni_flash"
 CLIP_DURATION_S = 10
-TOTAL_SCENES = 14
+TOTAL_SCENES = 15
 
 WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SERIES_DIR = os.path.join(WORKSPACE_DIR, "can-nha-am-duong")
@@ -59,14 +59,46 @@ os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
 os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
-# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA 4 NHÂN VẬT CỐ ĐỊNH CỦA SERIES (CĂN NHÀ ÂM DƯƠNG)
+# 🎙️ QUY ĐỊNH & KHÓA CỐ ĐỊNH GIỌNG ĐỌC NGƯỜI DẪN CHUYỆN (NARRATOR VOICE LOCK — CHUẨN MIỀN BẮC)
+# -------------------------------------------------------------
+NARRATOR_VOICE_SPEC = {
+    "voice_lock_id": "VOICE_LOCK_NARRATOR_CNHADG",
+    "role": "Người Dẫn Chuyện (Off-Screen Male Horror Narrator — 80% thời lượng / 72 Clips)",
+    "style_reference": "MC Đình Soạn — HẺM Truyện Ma (Giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya)",
+    "gender_age": "42-year-old native Hanoi Standard Northern Vietnamese male storyteller (Nam trung niên 42 tuổi chuẩn giọng Hà Nội - miền Bắc)",
+    "acoustic_profile": (
+        "Deep, warm yet bone-chilling mid-baritone (~110 Hz fundamental pitch), open chest resonance, "
+        "clear and unhurried storytelling articulation (thanh thoát, trầm ấm, nhấn nhá rùng rợn lúc đêm khuya), "
+        "measured 0.95x speaking rate (135 words/min) with haunting 0.4s pauses at ellipses (…), "
+        "crisp Northern Vietnamese consonant distinction (s/x, tr/ch, r/d/gi) and authentic 6-tone Hanoi cadence."
+    ),
+    "strict_rules": (
+        "1. Cố định 100% một giọng Nam Người Dẫn Chuyện chuẩn miền Bắc (VOICE_LOCK_NARRATOR_CNHADG) xuyên suốt toàn bộ 90 clips (Cảnh 01 -> Cảnh 15). "
+        "2. TUYỆT ĐỐI KHÔNG đổi sang giọng miền Nam (Sài Gòn/Miền Tây), giọng miền Trung, giọng nữ, giọng nam trẻ cao vút hoặc giọng đọc máy công nghiệp. "
+        "3. Trong tất cả các clip VO (Người dẫn chuyện đọc ngoài khung hình), toàn bộ nhân vật xuất hiện trên màn hình PHẢI KHÉP MIỆNG TỰ NHIÊN (mouths remain naturally closed 0.0–10.0s), chỉ diễn xuất bằng ánh mắt, hơi thở và hành động."
+    ),
+    "prompt_directive": (
+        "Narrator (Người Dẫn Chuyện) = Off-screen 42-year-old native Standard Northern Vietnamese male horror storyteller "
+        "(MC Đình Soạn — HẺM Truyện Ma style). Voice profile: [VOICE_LOCK_NARRATOR_CNHADG — Cố định giọng Nam Người Dẫn Chuyện "
+        "chuẩn miền Bắc xuyên suốt 90 clips]: Deep, resonant mid-baritone (~110 Hz), expressive, clear yet bone-chilling "
+        "42-year-old native Hanoi Standard Northern Vietnamese male storyteller voice (giọng nam chuẩn miền Bắc thanh thoát, trầm ấm, "
+        "nhấn nhá rùng rợn lúc đêm khuya chuẩn phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x). Strictly lock this exact "
+        "vocal timbre, pitch, and pacing across all 90 clips; NEVER use a Southern or Central accent, never switch to a female or "
+        "high-pitched voice, and never sound like a robotic TTS engine."
+    ),
+}
+
+# -------------------------------------------------------------
+# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA 6 NHÂN VẬT CỐ ĐỊNH CỦA SERIES (CĂN NHÀ ÂM DƯƠNG)
 # -------------------------------------------------------------
 CHARACTER_SPECS = [
     {
         "key": "Binh",
         "tag": "@Binh",
         "aliases": ["@Binh", "@Bình", "Bình", "Binh"],
-        "default_media_id": "",
+        "default_media_id": "a1a78643-ce72-4217-86c7-b53b927e637a",
+        "voice_lock": "VOICE_LOCK_BINH_CNHADG",
+        "voice_profile": "Fixed 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).",
         "description": "Nam sinh viên năm cuối 21 tuổi; 172 cm, dáng gầy nhợt nhạt, tóc đen ngắn rối, quầng mắt thâm, mặc áo hoodie xám bạc bên ngoài áo thun trắng nhàu, quần jean tối, đeo ba lô đen.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Binh, a 21-year-old Vietnamese male university student, "
@@ -79,7 +111,9 @@ CHARACTER_SPECS = [
         "key": "BaPhuong",
         "tag": "@BaPhuong",
         "aliases": ["@BaPhuong", "Bà Phượng", "BaPhuong", "Phượng"],
-        "default_media_id": "",
+        "default_media_id": "a17f2e3b-8272-4cff-8de0-1c3ec43a11b1",
+        "voice_lock": "VOICE_LOCK_PHUONG_CNHADG",
+        "voice_profile": "Fixed 50-year-old native Standard Northern Vietnamese maternal female voice (~205 Hz warm mezzo), tearful, choked with heartache and maternal worry (giọng nữ trung niên 50 tuổi chuẩn miền Bắc, ấm áp, lo âu).",
         "description": "Nữ giáo viên về hưu 50 tuổi; 158 cm, tóc đen búi thấp lấm tấm bạc, gương mặt trái xoan nhân hậu nhưng phiền muộn, mặc áo sơ mi giản dị và quần tối.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @BaPhuong, a 50-year-old Vietnamese female retired school teacher, "
@@ -91,7 +125,9 @@ CHARACTER_SPECS = [
         "key": "OngQuan",
         "tag": "@OngQuan",
         "aliases": ["@OngQuan", "Ông Quân", "OngQuan", "Quân"],
-        "default_media_id": "",
+        "default_media_id": "e845a88f-7cd2-4b8f-9fa3-e75e7e337674",
+        "voice_lock": "VOICE_LOCK_QUAN_CNHADG",
+        "voice_profile": "Fixed 55-year-old native Standard Northern Vietnamese male baritone voice (~105 Hz stern baritone), gravelly, authoritative, hot-tempered at first then deeply remorseful (giọng nam trung niên 55 tuổi chuẩn miền Bắc, trầm đanh, uy nghiêm).",
         "description": "Nam nhân viên văn phòng 55 tuổi; 170 cm, dáng chắc, tóc húi cua bạc, gương mặt đanh nghiêm khắc, mùi thuốc lá, mặc áo sơ mi cổ cồn và quần tối.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @OngQuan, a 55-year-old Vietnamese male office worker, "
@@ -104,7 +140,9 @@ CHARACTER_SPECS = [
         "key": "OngBay",
         "tag": "@OngBay",
         "aliases": ["@OngBay", "Ông Bảy", "OngBay", "Bảy"],
-        "default_media_id": "",
+        "default_media_id": "10e5cdcf-3dd1-4b41-b999-21922b65de89",
+        "voice_lock": "VOICE_LOCK_BAY_CNHADG",
+        "voice_profile": "Fixed 60-year-old native Standard Northern Vietnamese rural elderly male voice (~115 Hz rustic baritone), warm, candid, grounded and hushed when warning of ghosts (giọng bác nông dân 60 tuổi chuẩn miền Bắc, mộc mạc, ấm áp).",
         "description": "Nam nông dân 60 tuổi; 168 cm, da ngăm đen, tóc bạc lấm tấm, gương mặt hiền hậu nhiều nếp nhăn, mặc áo sơ mi kẻ cũ và quần nâu, đi dép cao su.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @OngBay, a 60-year-old Vietnamese male rice farmer, "
@@ -117,13 +155,30 @@ CHARACTER_SPECS = [
         "key": "VongCuXa",
         "tag": "@VongCuXa",
         "aliases": ["@VongCuXa", "Cụ Xá", "Ông nội", "VongCuXa"],
-        "default_media_id": "",
+        "default_media_id": "f8d1ff26-6134-4fa4-8c0f-13e8405e5f64",
+        "voice_lock": "VOICE_LOCK_CUXA_CNHADG",
+        "voice_profile": "Fixed 80-year-old native Standard Northern Vietnamese spectral elderly male voice (~98 Hz aged resonant bass-baritone), hoarse, slow, echoing with ancestral sorrow (giọng cụ già 80 tuổi chuẩn miền Bắc, khàn đục, vọng âm).",
         "description": "Vong hồn ông nội; gầy gò mờ ảo bán trong suốt, tóc trắng thưa, mắt tối buồn sâu hoắm, mặc áo bà ba nâu sồng truyền thống đã bạc, chân trần.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @VongCuXa, a ghostly translucent elderly Vietnamese male apparition, "
             "gaunt frail frame, wispy white hair, sad hollow dark eyes, wearing a faded traditional brown cotton tunic "
             "(áo bà ba nâu sồng), barefoot; semi-transparent ethereal ghost appearance with faint moonlight glow; "
             "plain dark studio background, cold blue-white rim light, 8K. Not resembling any real actor."
+        ),
+    },
+    {
+        "key": "VongLa",
+        "tag": "@VongLa",
+        "aliases": ["@VongLa", "Vong lạ", "VongLa", "Vong gốc mít"],
+        "default_media_id": "0c2ade1f-c1cd-4c93-98e2-697231a54887",
+        "voice_lock": "VOICE_LOCK_VONGLA_CNHADG",
+        "voice_profile": "Chilling echoing Standard Northern Vietnamese spectral whisper reverberating from all directions in the dark (giọng ma vọng lạnh lẽo chuẩn miền Bắc từ bốn phía).",
+        "description": "Vong hồn vất vưởng dưới gốc mít cổ thụ đầu cổng; bóng người cao gầy như que củi, da xám ngoét ướt đẫm sương đêm, tóc rối bết che nửa mặt, bàn tay xương xẩu có những ngón tay dài ngoằng lạnh buốt.",
+        "ref_prompt": (
+            "Full-body photorealistic character reference of @VongLa, a terrifying wandering Vietnamese spirit entity, "
+            "tall skeletal emaciated silhouette, ash-grey damp skin, tangled wet black hair covering half the face, "
+            "glowing pale eyes in shadow, tattered dark wet clothes, long bony fingers; "
+            "plain dark studio background, eerie cyan-green rim light, 8K. Not resembling any real actor."
         ),
     },
 ]
@@ -296,13 +351,18 @@ def load_and_lock_project_characters(force_remote: bool = False):
         pass
 
     box_items = [("Project ID", PROJECT_ID)]
+    box_items.append((
+        "🎙️ Giọng Dẫn Chuyện (VO 80%)",
+        f"{NARRATOR_VOICE_SPEC['voice_lock_id']} — {NARRATOR_VOICE_SPEC['style_reference']}",
+    ))
     for spec in CHARACTER_SPECS:
         tag = spec["tag"]
         mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag, "Chưa có (sẽ tự tạo khi chạy)")
-        box_items.append((f"Nhân Vật {tag}", f"media_id = {mid}"))
+        vlock = spec.get("voice_lock", "")
+        box_items.append((f"Nhân Vật {tag}", f"media_id = {mid} | {vlock}"))
     box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Google Flow Omni — {CLIP_DURATION_S}s/clip)"))
     box_items.append(("Chế Độ Khóa", "Ingredients R2V (/api/flow/generate-video-omni 10s)"))
-    print_box("🔒 ĐÃ KHÓA 4 NHÂN VẬT & CẤU HÌNH GOOGLE FLOW OMNI 10S", box_items)
+    print_box("🔒 ĐÃ KHÓA 6 NHÂN VẬT, GIỌNG NGƯỜI DẪN CHUYỆN & CẤU HÌNH GOOGLE FLOW OMNI 10S", box_items)
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
@@ -335,7 +395,7 @@ def get_clip_reference_media_ids(prompt: str) -> list:
 # 1. ĐỒNG BỘ DỰ ÁN VỚI DASHBOARD UI & CMS TABLES (DATABASE SYNC)
 # -------------------------------------------------------------
 def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES):
-    """Đồng bộ tức thì cms_channel, cms_episode (14 cảnh), cms_clip (90 clips), project, character, video, scene vào SQLite (flow_agent.db)."""
+    """Đồng bộ tức thì cms_channel, cms_episode (15 cảnh), cms_clip (90 clips), project, character, video, scene vào SQLite (flow_agent.db)."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
     log("🔄 Đang đồng bộ cơ sở dữ liệu 'Căn Nhà Âm Dương' với Console Dashboard UI (Google Flow Omni 10s)...")
 
@@ -347,12 +407,15 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             """INSERT INTO project (id, name, description, story, material, status, user_paygate_tier, video_model_family)
                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                ON CONFLICT(id) DO UPDATE SET
+                 name=excluded.name,
+                 description=excluded.description,
+                 story=excluded.story,
                  video_model_family=excluded.video_model_family""",
             (
                 PROJECT_ID,
-                "Căn Nhà Âm Dương: Búp Bê Đất Nung",
-                "Phim ngắn kinh dị tâm linh 14 phút (16:9, 14 cảnh × 6 clips × 10s — Google Flow Omni, 80% VO + 20% Lip-Sync).",
-                "Bách mang pho tượng đất nung không mắt từ lò gốm cổ ven sông Hồng về nhà; người vợ mang thai Hà lỡ tay trám mất ấn chú sau lưng tượng và điểm mắt lúc 2 giờ sáng.",
+                "Căn Nhà Âm Dương (HẺM Truyện Ma — MC Đình Soạn)",
+                "Phim ngắn kinh dị tâm linh dân gian Việt Nam 15 phút (16:9, 15 cảnh × 6 clips × 10s = 90 clips — Google Flow Omni, 80% VO MC Đình Soạn + 20% Lip-Sync).",
+                "Bình — sinh viên năm cuối thua lỗ tiền ảo 70 triệu — cùng bố mẹ phải bán nhà phố về quê nội ở nhờ căn nhà ngói ba gian bỏ hoang 10 năm có cây mít cổ thụ đầu cổng. Những bàn tay lạnh buốt lúc nửa đêm dẫn đến bí mật phần mộ ông nội Cụ Xá bị bỏ quên suốt một thập kỷ.",
                 "realistic",
                 "ACTIVE",
                 "PAYGATE_TIER_TWO",
@@ -368,11 +431,13 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     "name": spec["tag"].lstrip("@"),
                     "default_media_id": mid,
                     "locked_media_id": mid,
-                    "description": spec["description"],
+                    "voice_lock": spec.get("voice_lock", ""),
+                    "voice_profile": spec.get("voice_profile", ""),
+                    "description": f"{spec['description']} | Giọng ({spec.get('voice_lock', '')}): {spec.get('voice_profile', '')}",
                     "ref_prompt": spec["ref_prompt"],
                 }
             )
-            cid = f"char-otdm-{idx:02d}"
+            cid = f"char-cnhadg-{idx:02d}"
             conn.execute(
                 """INSERT INTO character (id, name, description, image_prompt, entity_type, media_id)
                    VALUES (?, ?, ?, ?, ?, ?)
@@ -405,19 +470,19 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                  updated_at=excluded.updated_at""",
             (
                 CHANNEL_SLUG,
-                "Căn Nhà Âm Dương: Búp Bê Đất Nung",
+                "Căn Nhà Âm Dương (15 Phút — 15 Cảnh × 6 Clips | HẺM Truyện Ma — MC Đình Soạn)",
                 PROJECT_ID,
                 ASPECT_RATIO,
                 "runners/can_nha_am_duong.py",
                 "can-nha-am-duong",
                 "canh",
-                "Phim ngắn kinh dị tâm linh 14 phút lấy cảm hứng từ Căn Nhà Âm Dương (Mudborn): Bách mang pho tượng đất nung không mắt từ lò gốm cổ ven sông Hồng về nhà, người vợ mang thai Hà lỡ tay trám mất ấn chú sau lưng tượng và điểm mắt lúc 2 giờ sáng (16:9, 14 cảnh × 6 clips × 10s = 90 clips — Google Flow Omni 10s, 80% Người dẫn chuyện VO + 20% Thoại nhân vật bất ngờ, Giọng Chuẩn Bắc).",
+                "Phim ngắn kinh dị tâm linh dân gian Việt Nam 15 phút (Tác giả: Thu Thảo — Giọng kể chuẩn MC Đình Soạn HẺM Truyện Ma): Bình thua lỗ tiền ảo khiến bố mẹ bán nhà phố về quê nội ở nhờ căn nhà ngói ba gian bỏ hoang 10 năm dưới tán mít cổ thụ âm u (16:9, 15 cảnh × 6 clips × 10s = 90 clips — 80% VO + 20% Lip-Sync).",
                 json.dumps(chars_json, ensure_ascii=False),
                 now_iso,
             ),
         )
 
-        CURRENT_VIDEO_ID = "video-otdm-01"
+        CURRENT_VIDEO_ID = "video-cnhadg-01"
         conn.execute(
             """INSERT INTO video (id, project_id, title, description, orientation, status)
                VALUES (?, ?, ?, ?, ?, ?)
@@ -428,8 +493,8 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             (
                 CURRENT_VIDEO_ID,
                 PROJECT_ID,
-                "Căn Nhà Âm Dương: Búp Bê Đất Nung (14 Phút — Cảnh 01 - 14 | Omni 10s)",
-                "Phim ngắn kinh dị tâm linh 14 Cảnh × 6 Clips × 10s (Google Flow Omni 10s, 80% VO + 20% Lip-Sync)",
+                "Căn Nhà Âm Dương (15 Phút — Cảnh 01 - 15 | MC Đình Soạn HẺM Truyện Ma)",
+                "Phim ngắn kinh dị tâm linh 15 Cảnh × 6 Clips × 10s = 90 Clips (80% VO MC Đình Soạn + 20% Lip-Sync)",
                 "HORIZONTAL",
                 "PROCESSING",
             ),
@@ -442,7 +507,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
         order = 0
         for s in range(1, TOTAL_SCENES + 1):
             folder_name = f"canh-{s:02d}"
-            ep_id = f"{CHANNEL_SLUG}_ep_{s:03d}"
+            ep_id = f"{CHANNEL_SLUG}:ep:{s}"
             conn.execute(
                 """INSERT INTO cms_episode
                    (id, channel_slug, project_id, episode_num, folder_name, label, total_clips, rendered_clips, is_complete, updated_at)
@@ -463,7 +528,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     with open(fpath, "r", encoding="utf-8") as f:
                         prompt_full = f.read().strip()
 
-                clip_id = f"{CHANNEL_SLUG}_ep_{s:03d}_clip_{c:02d}"
+                clip_id = f"{CHANNEL_SLUG}:ep:{s}:clip:{c}"
                 conn.execute(
                     """INSERT INTO cms_clip
                        (id, channel_slug, project_id, episode_num, folder_name, clip_num, prompt, status, duration_s, updated_at)
@@ -476,7 +541,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     (clip_id, CHANNEL_SLUG, PROJECT_ID, s, folder_name, c, prompt_full, float(CLIP_DURATION_S), now_iso),
                 )
 
-                sid = existing.get(order) or f"sc-otdm-{s:02d}-{c:02d}"
+                sid = existing.get(order) or f"sc-cnhadg-{s:02d}-{c:02d}"
                 conn.execute(
                     """INSERT INTO scene (id, video_id, display_order, chain_type, duration, prompt, video_prompt, character_names, horizontal_video_status)
                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, 'PENDING')
@@ -492,7 +557,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                         float(CLIP_DURATION_S),
                         f"Cảnh {s:02d} - Clip {c}",
                         prompt_full,
-                        json.dumps(["Bach", "Ha", "ThayPhong", "BaLua"]),
+                        json.dumps(["Binh", "BaPhuong", "OngQuan", "OngBay", "VongCuXa", "VongLa"]),
                     ),
                 )
                 SCENE_DB_MAP[key] = sid
@@ -602,13 +667,37 @@ def fetch_media_video_url(media_id: str) -> str:
     return None
 
 
+def enforce_narrator_and_voice_lock(prompt: str) -> str:
+    """
+    Đảm bảo 100% mọi prompt gửi lên Google Flow đều có quy định khóa chặt Giọng Người Dẫn Chuyện
+    (VOICE_LOCK_NARRATOR_CNHADG — Nam 42 tuổi chuẩn miền Bắc, phong cách MC Đình Soạn HẺM Truyện Ma, tốc độ 0.95x)
+    và giọng thoại nhân vật chuẩn miền Bắc, ngay cả khi prompt được làm mềm (retry).
+    """
+    p = (prompt or "").strip()
+    if NARRATOR_VOICE_SPEC["voice_lock_id"] not in p:
+        narrator_block = (
+            "\n\n[MANDATORY NARRATOR & VOICE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]\n"
+            f"{NARRATOR_VOICE_SPEC['prompt_directive']}\n"
+            f"Strict Voice Rules: {NARRATOR_VOICE_SPEC['strict_rules']}\n"
+        )
+        p = p + narrator_block
+    return p
+
+
 def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
-    flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
+    enforced_prompt = enforce_narrator_and_voice_lock(prompt)
+    flow_prompt = enforced_prompt if enforced_prompt.startswith(clip_tag) else f"{clip_tag}\n{enforced_prompt}"
 
-    ref_media_ids = get_clip_reference_media_ids(prompt)
+    ref_media_ids = get_clip_reference_media_ids(enforced_prompt)
+    is_vo_clip = "Off-Screen Male Narrator" in enforced_prompt or "VOICE_LOCK_NARRATOR_CNHADG | speaking off-screen" in enforced_prompt
+    voice_mode_desc = (
+        f"🎙️ VO Người Dẫn Chuyện ({NARRATOR_VOICE_SPEC['voice_lock_id']} — Nam 42t chuẩn Bắc MC Đình Soạn 0.95x, nhân vật khép miệng)"
+        if is_vo_clip
+        else "🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync chuẩn miền Bắc, khớp khẩu hình)"
+    )
 
     if ref_media_ids:
         endpoint = "/api/flow/generate-video-omni"
@@ -644,6 +733,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             ("Phân Cảnh", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
             ("Chế Độ Tạo", mode),
             ("Khóa Hình Ảnh / Nhân Vật", slot_desc),
+            ("Quy Định Giọng Đọc", voice_mode_desc),
             ("Thời Lượng", f"{CLIP_DURATION_S} giây (Omni Flash 10s)"),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", ASPECT_RATIO),

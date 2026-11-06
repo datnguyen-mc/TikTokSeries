@@ -44,7 +44,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/mit_va_du.py",
         "series_dir": "mit-va-du-1970",
         "ep_prefix": "tap",
-        "description": "Gia đình chó nhân hóa Mít, Đú và bé Nở tại miền Tây Việt Nam năm 1970 (3D Pixar 9:16).",
+        "description": "Phim tình cảm gia đình miền Tây những năm 1970 cảm động & hài hước dài 60s (6 clips × 10s) về gia đình chó nhân hóa Mít, Đú và bé Nở (3D Pixar 9:16).",
         "characters": [
             {
                 "tag": "@Mit",
@@ -74,7 +74,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/365ngayvietnam.py",
         "series_dir": "365ngayvietnam",
         "ep_prefix": "tap",
-        "description": "Hành trình du lịch trải nghiệm xuyên Việt 365 ngày từ Cực Bắc đến Cực Nam của cặp đôi Vy và Joi (9:16).",
+        "description": "Clip dài 60s (6 clips × 10s) du lịch check-in danh thắng & thưởng thức món ăn đặc sản của Vy và Joi — mỗi cảnh xuất hiện ở một địa điểm/bàn ăn khác nhau, không lặp cảnh xe máy đội nón (9:16).",
         "characters": [
             {
                 "tag": "@Vy",
@@ -98,7 +98,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/me_va_be.py",
         "series_dir": "me-va-be",
         "ep_prefix": "tap",
-        "description": "Mẹ trẻ Ngọc 27 tuổi chăm sóc cặp song sinh Gạo và Bông trong căn phòng trọ ấm áp ở Sài Gòn (9:16).",
+        "description": "Clip dài 60s (6 clips × 10s) chia sẻ mẹo nuôi con khoa học, quay cận các hành động dễ thương của hai bé song sinh Gạo – Bông và giới thiệu đồ cho bé phù hợp từng giai đoạn tuổi (9:16).",
         "characters": [
             {
                 "tag": "@Ngọc",
@@ -128,7 +128,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/pheo_va_no_meo.py",
         "series_dir": "pheo-va-no-meo",
         "ep_prefix": "tap",
-        "description": "Chú mèo đen mập Phèo trổ tài nấu ăn mỗi ngày cho bà chủ Hường đanh đá (3D Pixar 9:16).",
+        "description": "Clip dài 60s (6 clips × 10s) hướng dẫn chi tiết từng phần cách nấu món ngon, công thức gia vị tỷ lệ vàng và mẹo nhà bếp của đầu bếp mèo Phèo & bà chủ Hường (3D Pixar 9:16).",
         "characters": [
             {
                 "tag": "@Pheo",
@@ -164,7 +164,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/tay_du_ky.py",
         "series_dir": "tay-du-ky-2026",
         "ep_prefix": "tap",
-        "description": "Drama đời thường hài hước của 4 thầy trò Đường Tăng thuê nhà trọ hẻm Sài Gòn 2026 (9:16).",
+        "description": "Clip hài 60s (6 clips × 10s) tổng kết xu hướng hot và drama trong ngày của 4 thầy trò Đường Tăng tại nhà trọ Sài Gòn 2026 (2D 9:16).",
         "characters": [
             {
                 "tag": "@Thay",
@@ -516,53 +516,115 @@ DEFAULT_CHANNELS = [
     },
     {
         "slug": "can-nha-am-duong",
-        "name": "Căn Nhà Âm Dương",
-        "project_id": "",
+        "name": "Căn Nhà Âm Dương (HẺM Truyện Ma — MC Đình Soạn)",
+        "project_id": "3b955883-7851-42fe-a986-5ef82b4912e5",
         "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
         "runner_script": "runners/can_nha_am_duong.py",
         "series_dir": "can-nha-am-duong",
         "ep_prefix": "canh",
-        "description": "Phim ngắn kinh dị tâm linh 15 phút: Bình (21 tuổi) trốn nợ 400 triệu về căn nhà hoang của ông nội ở làng quê Bắc Bộ, nơi vong hồn vụ tai nạn 13 năm trước cư ngụ; ông nội hiện về đòi cháu gọi bố về chuộc lỗi (16:9, 15 cảnh × 6 clips × 10s = 90 clips — Google Flow Omni 10s, 80% Người dẫn chuyện VO + 20% Thoại nhân vật bất ngờ, Giọng Chuẩn Miền Bắc).",
+        "description": "Phim ngắn kinh dị tâm linh dân gian Việt Nam 15 phút (Tác giả: Thu Thảo — Giọng kể chuyện ma MC Đình Soạn HẺM Truyện Ma VOICE_LOCK_NARRATOR_CNHADG chuẩn miền Bắc): Bình thua lỗ tiền ảo hơn 400 triệu trốn về căn nhà ngói ba gian bỏ hoang gần 20 năm của ông nội dưới gốc mít cổ thụ âm u (16:9, 15 cảnh × 6 clips × 10s = 90 clips — Google Flow Omni 10s, 80% VO + 20% Lip-Sync).",
         "characters": [
             {
                 "tag": "@Binh",
-                "name": "Bình (Sinh viên 21 tuổi)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Nam sinh viên năm cuối 21 tuổi; 172 cm, dáng gầy nhợt nhạt, tóc đen ngắn rối, quầng mắt thâm, mặc áo hoodie xám bạc bên ngoài áo thun trắng nhàu, quần jean tối, đeo ba lô đen.",
+                "name": "Bình (Sinh viên 21 tuổi — VOICE_LOCK_BINH_CNHADG)",
+                "default_media_id": "a1a78643-ce72-4217-86c7-b53b927e637a",
+                "locked_media_id": "a1a78643-ce72-4217-86c7-b53b927e637a",
+                "voice_lock": "VOICE_LOCK_BINH_CNHADG",
+                "description": "Nam sinh viên năm cuối 21 tuổi; 172 cm, dáng gầy nhợt nhạt, tóc đen ngắn rối, quầng mắt thâm, mặc áo hoodie xám bạc bên ngoài áo thun trắng nhàu, quần jean tối, đeo ba lô đen. Giọng thoại: VOICE_LOCK_BINH_CNHADG (Nam trẻ 21t chuẩn miền Bắc ~135Hz, run rẩy, nghẹn ngào).",
                 "ref_prompt": "Full-body photorealistic character reference of @Binh, a 21-year-old Vietnamese male university student, 172 cm, thin pale build, messy short black hair, tired dark eyes with visible dark circles underneath, wearing a faded grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack; anxious guilty expression; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@BaPhuong",
-                "name": "Bà Phượng (Mẹ Bình, giáo viên về hưu, 50 tuổi)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Nữ giáo viên về hưu 50 tuổi; 158 cm, tóc đen búi thấp lấm tấm bạc, gương mặt trái xoan nhân hậu nhưng phiền muộn, mặc áo sơ mi giản dị và quần tối.",
+                "name": "Bà Phượng (Mẹ Bình, giáo viên về hưu, 50 tuổi — VOICE_LOCK_PHUONG_CNHADG)",
+                "default_media_id": "a17f2e3b-8272-4cff-8de0-1c3ec43a11b1",
+                "locked_media_id": "a17f2e3b-8272-4cff-8de0-1c3ec43a11b1",
+                "voice_lock": "VOICE_LOCK_PHUONG_CNHADG",
+                "description": "Nữ giáo viên về hưu 50 tuổi; 158 cm, tóc đen búi thấp lấm tấm bạc, gương mặt trái xoan nhân hậu nhưng phiền muộn, mặc áo sơ mi giản dị và quần tối. Giọng thoại: VOICE_LOCK_PHUONG_CNHADG (Nữ trung niên 50t chuẩn miền Bắc ~205Hz, ấm áp, nghẹn ngào).",
                 "ref_prompt": "Full-body photorealistic character reference of @BaPhuong, a 50-year-old Vietnamese female retired school teacher, 158 cm, neat black hair in a low bun with grey streaks, gentle worried oval face, wearing a simple pastel blouse and dark trousers, indoor slippers; plain grey studio background, soft side light, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@OngQuan",
-                "name": "Ông Quân (Bố Bình, nhân viên văn phòng, 55 tuổi)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Nam nhân viên văn phòng 55 tuổi; 170 cm, dáng chắc, tóc húi cua bạc, gương mặt đanh nghiêm khắc, mùi thuốc lá, mặc áo sơ mi cổ cồn và quần tối.",
+                "name": "Ông Quân (Bố Bình, 55 tuổi — VOICE_LOCK_QUAN_CNHADG)",
+                "default_media_id": "e845a88f-7cd2-4b8f-9fa3-e75e7e337674",
+                "locked_media_id": "e845a88f-7cd2-4b8f-9fa3-e75e7e337674",
+                "voice_lock": "VOICE_LOCK_QUAN_CNHADG",
+                "description": "Nam nhân viên văn phòng 55 tuổi; 170 cm, dáng chắc, tóc húi cua bạc, gương mặt đanh nghiêm khắc, mặc áo sơ mi cổ cồn và quần tối. Giọng thoại: VOICE_LOCK_QUAN_CNHADG (Nam trung niên 55t chuẩn miền Bắc ~105Hz, trầm đanh, uy nghiêm).",
                 "ref_prompt": "Full-body photorealistic character reference of @OngQuan, a 55-year-old Vietnamese male office worker, 170 cm, stocky build, crew-cut greying hair, stern weathered face with deep frown lines, wearing a collared dress shirt with sleeves rolled and dark trousers, leather belt; plain grey studio background, hard side light, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@OngBay",
-                "name": "Ông Bảy (Nông dân hàng xóm, 60 tuổi)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Nam nông dân 60 tuổi; 168 cm, da ngăm đen, tóc bạc lấm tấm, gương mặt hiền hậu nhiều nếp nhăn, mặc áo sơ mi kẻ cũ và quần nâu, đi dép cao su.",
+                "name": "Ông Bảy (Nông dân hàng xóm, 60 tuổi — VOICE_LOCK_BAY_CNHADG)",
+                "default_media_id": "10e5cdcf-3dd1-4b41-b999-21922b65de89",
+                "locked_media_id": "10e5cdcf-3dd1-4b41-b999-21922b65de89",
+                "voice_lock": "VOICE_LOCK_BAY_CNHADG",
+                "description": "Nam nông dân 60 tuổi; 168 cm, da ngăm đen, tóc bạc lấm tấm, gương mặt hiền hậu nhiều nếp nhăn, mặc áo sơ mi kẻ cũ và quần nâu, đi dép cao su. Giọng thoại: VOICE_LOCK_BAY_CNHADG (Bác nông dân 60t chuẩn miền Bắc ~115Hz, mộc mạc, ấm áp).",
                 "ref_prompt": "Full-body photorealistic character reference of @OngBay, a 60-year-old Vietnamese male rice farmer, 168 cm, lean tanned dark-skinned build, silver-streaked hair, kind wrinkled face with warm eyes, wearing a faded plaid button-up shirt and brown work trousers, rubber sandals; plain grey studio background, warm side light, 8K. Not resembling any real actor.",
             },
             {
                 "tag": "@VongCuXa",
-                "name": "Vong Cụ Xá (Ông nội Bình, vong linh)",
-                "default_media_id": "",
-                "locked_media_id": "",
-                "description": "Vong hồn ông nội; gầy gò mờ ảo bán trong suốt, tóc trắng thưa, mắt tối buồn sâu hoắm, mặc áo bà ba nâu sồng truyền thống đã bạc, chân trần.",
+                "name": "Vong Cụ Xá (Ông nội Bình, 80 tuổi — VOICE_LOCK_CUXA_CNHADG)",
+                "default_media_id": "f8d1ff26-6134-4fa4-8c0f-13e8405e5f64",
+                "locked_media_id": "f8d1ff26-6134-4fa4-8c0f-13e8405e5f64",
+                "voice_lock": "VOICE_LOCK_CUXA_CNHADG",
+                "description": "Vong hồn ông nội; gầy gò mờ ảo bán trong suốt, tóc trắng thưa, mắt tối buồn sâu hoắm, mặc áo bà ba nâu sồng truyền thống đã bạc, chân trần. Giọng thoại: VOICE_LOCK_CUXA_CNHADG (Cụ già 80t chuẩn miền Bắc ~98Hz, khàn đục, vọng âm).",
                 "ref_prompt": "Full-body photorealistic character reference of @VongCuXa, a ghostly translucent elderly Vietnamese male apparition, gaunt frail frame, wispy white hair, sad hollow dark eyes, wearing a faded traditional brown cotton tunic (áo bà ba nâu sồng), barefoot; semi-transparent ethereal ghost appearance with faint moonlight glow; plain dark studio background, cold blue-white rim light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@VongLa",
+                "name": "Vong Lạ Dưới Gốc Mít (Oán linh 28 tuổi — VOICE_LOCK_VONGLA_CNHADG)",
+                "default_media_id": "0c2ade1f-c1cd-4c93-98e2-697231a54887",
+                "locked_media_id": "0c2ade1f-c1cd-4c93-98e2-697231a54887",
+                "voice_lock": "VOICE_LOCK_VONGLA_CNHADG",
+                "description": "Vong hồn vất vưởng dưới gốc mít cổ thụ đầu cổng; bóng người cao gầy như que củi, da xám ngoét ướt đẫm sương đêm, tóc rối bết che nửa mặt, bàn tay xương xẩu có những ngón tay dài ngoằng lạnh buốt. Giọng thoại: VOICE_LOCK_VONGLA_CNHADG (Giọng ma vọng lạnh lẽo chuẩn miền Bắc).",
+                "ref_prompt": "Full-body photorealistic character reference of @VongLa, a terrifying wandering Vietnamese spirit entity, tall skeletal emaciated silhouette, ash-grey damp skin, tangled wet black hair covering half the face, glowing pale eyes in shadow, tattered dark wet clothes, long bony fingers; plain dark studio background, eerie cyan-green rim light, 8K. Not resembling any real actor.",
+            },
+        ],
+    },
+    {
+        "slug": "tieng-go-dem-ba-gio",
+        "name": "Tiếng Gõ Đêm Ba Giờ: Lời Nguyền Giếng Đá Ong (HẺM Truyện Ma — MC Đình Soạn)",
+        "project_id": "8a346c86-311f-47ae-8ccb-2d716a58c945",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/tieng_go_dem_ba_gio.py",
+        "series_dir": "tieng-go-dem-ba-gio",
+        "ep_prefix": "canh",
+        "description": "Phim ngắn kinh dị tâm linh dân gian Bắc Bộ 15 phút (Giọng kể chuyện ma MC Đình Soạn HẺM Truyện Ma VOICE_LOCK_NARRATOR_TIENGGO chuẩn miền Bắc): Vũ Đình Lâm trông coi nhà cổ gỗ lim ba gian trong 3 đêm mưa ngâu tháng Bảy và đối mặt lời nguyền chiếc giếng đá ong lúc 3 giờ sáng (16:9, 15 cảnh × 6 clips × 10s = 90 clips — Google Flow Omni 10s, 80% VO + 20% Lip-Sync).",
+        "characters": [
+            {
+                "tag": "@Lam",
+                "name": "Vũ Đình Lâm (Nhiếp ảnh gia kiến trúc cổ, 27 tuổi — VOICE_LOCK_LAM_TIENGGO)",
+                "default_media_id": "bf3d7dc9-c123-45eb-be8b-cd6196d35011",
+                "locked_media_id": "bf3d7dc9-c123-45eb-be8b-cd6196d35011",
+                "voice_lock": "VOICE_LOCK_LAM_TIENGGO",
+                "description": "Nam nhiếp ảnh gia khảo sát kiến trúc cổ 27 tuổi; cao 174 cm, dáng gầy săn chắc, gương mặt góc cạnh tái nhợt đeo kính gọng mảnh, mặc áo khoác xanh rêu sẫm bên ngoài sơ mi xám, đeo túi da, cầm đèn pin đồng cổ. Giọng thoại: VOICE_LOCK_LAM_TIENGGO (Nam 27t chuẩn miền Bắc ~125Hz, trầm ấm, gấp gáp khi kinh hoàng).",
+                "ref_prompt": "Full-body photorealistic character reference of @Lam, a 27-year-old Vietnamese male antique architecture conservator, 174 cm, lean build, pale angular face with attentive dark eyes behind thin metal-frame glasses, neat parted black hair, wearing a dark olive-green field jacket over a charcoal-grey collared shirt, dark trousers, leather satchel strap across his chest, holding a vintage brass flashlight emitting a warm amber beam; plain grey studio background, soft side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@BaCam",
+                "name": "Bà Cầm (Bà quản gia giữ nhà từ đường, 78 tuổi — VOICE_LOCK_BACAM_TIENGGO)",
+                "default_media_id": "71231f5c-64e2-4c4c-945e-059ee37903f7",
+                "locked_media_id": "71231f5c-64e2-4c4c-945e-059ee37903f7",
+                "voice_lock": "VOICE_LOCK_BACAM_TIENGGO",
+                "description": "Bà quản gia già 78 tuổi giữ nhà từ đường; dáng lưng còng, tóc bạc búi trâm gỗ mun, mắt trái kéo mây trắng đục (mù), mặc áo bà ba nâu đen, tay cầm đèn dầu đồng leo lét. Giọng thoại: VOICE_LOCK_BACAM_TIENGGO (Bà lão 78t chuẩn miền Bắc ~175Hz, khàn đặc, chậm rãi, lạnh gáy).",
+                "ref_prompt": "Full-body photorealistic character reference of @BaCam, a 78-year-old Northern Vietnamese female caretaker of an ancestral temple, stooped posture, deeply wrinkled weathered face, silver hair pinned in a tight low bun with a black ebony hairpin, left eye cloudy milky-white blind and right eye sharp, wearing a dark earth-brown traditional Vietnamese tunic (áo bà ba nâu sẫm) and black silk trousers, holding a flickering antique brass oil lamp; plain grey studio background, soft side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@CuTu",
+                "name": "Cụ Từ Hạc (Cụ già giữ đền cổ, 85 tuổi — VOICE_LOCK_CUTU_TIENGGO)",
+                "default_media_id": "17de0dcd-36c5-4c0c-8a9a-da1766a23268",
+                "locked_media_id": "17de0dcd-36c5-4c0c-8a9a-da1766a23268",
+                "voice_lock": "VOICE_LOCK_CUTU_TIENGGO",
+                "description": "Cụ già giữ đền cổ 85 tuổi; râu bạc dài trước ngực, gương mặt nghiêm nghị sắc lạnh, mặc áo gấm đen truyền thống đội khăn xếp đen, cầm chuông đồng trấn hồn. Giọng thoại: VOICE_LOCK_CUTU_TIENGGO (Cụ già 85t chuẩn miền Bắc ~100Hz, trầm hùng, đanh thép, uy nghiêm).",
+                "ref_prompt": "Full-body photorealistic character reference of @CuTu, an 85-year-old traditional Northern Vietnamese clan patriarch, gaunt stern face with high cheekbones, long silver beard reaching his chest, calm piercing dark eyes, wearing a traditional black silk brocade robe (áo gấm đen truyền thống) and black folded turban headdress (khăn xếp đen); plain grey studio background, soft side light, 8K.",
+            },
+            {
+                "tag": "@CoUt",
+                "name": "Oan Hồn Cô Út Nhài (Thiếu nữ dưới đáy giếng đá ong, 19 tuổi — VOICE_LOCK_COUT_TIENGGO)",
+                "default_media_id": "9bdbd6ce-ef97-4c01-98e0-8b97370abd22",
+                "locked_media_id": "9bdbd6ce-ef97-4c01-98e0-8b97370abd22",
+                "voice_lock": "VOICE_LOCK_COUT_TIENGGO",
+                "description": "Oán linh cô gái trẻ 19 tuổi bị trấn yểm dưới giếng đá ong 50 năm trước; da trắng bệch ướt sũng nước mưa, tóc đen dài che nửa mặt, mặc áo lụa trắng ngả màu bùn nước, cổ tay mang vòng xích sắt rỉ. Giọng thoại: VOICE_LOCK_COUT_TIENGGO (Thiếu nữ 19t chuẩn miền Bắc ~230Hz, trong trẻo pha tiếng vọng đáy giếng ai oán).",
+                "ref_prompt": "Full-body photorealistic character reference of @CoUt, a 19-year-old tragic Northern Vietnamese maiden apparition, 160 cm, pale water-drenched porcelain skin, long wet black hair clinging to her cheeks, sorrowful dark eyes, wearing a water-soaked mud-stained off-white traditional Vietnamese silk dress, a rusted iron chain cuff with broken links on her wrist, barefoot; plain grey studio background, cool moonlit side light, 8K. Clean cinematic ghost appearance, no gore.",
             },
         ],
     },
@@ -574,6 +636,7 @@ CHANNEL_MAX_EPISODES: dict[str, int] = {
     "bi-mat-phong-613": 15,
     "oan-thai-doi-me": 14,
     "can-nha-am-duong": 15,
+    "tieng-go-dem-ba-gio": 15,
 }
 
 
@@ -904,6 +967,7 @@ def _find_clip_video_file(series_abs_dir: str, ep_num: int, ep_folder_name: str,
         f"tap-{ep_num:02d}_clip-{clip_num:02d}.mp4",
         f"tap-{ep_num}_clip-{clip_num}.mp4",
         f"canh-{ep_num:02d}_clip-{clip_num:02d}.mp4",
+        f"TGDBG_C{ep_num:02d}_CLIP{clip_num:02d}.mp4",
         f"TDK_T{ep_num:02d}_C{clip_num:02d}.mp4",
     ]
     for d in alt_dirs:
@@ -916,7 +980,7 @@ def _find_clip_video_file(series_abs_dir: str, ep_num: int, ep_folder_name: str,
         for fname in os.listdir(d):
             if not fname.endswith(".mp4") or "FULL" in fname:
                 continue
-            m = re.search(r"(?:clip-|_C)(\d+)\.mp4$", fname, re.IGNORECASE)
+            m = re.search(r"(?:clip[-_]?|_C)(\d+)\.mp4$", fname, re.IGNORECASE)
             if m and int(m.group(1)) == clip_num:
                 cand = os.path.join(d, fname)
                 if os.path.getsize(cand) > 0:
@@ -3204,7 +3268,7 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                     )
                     reconciled_clips_count += 1
             elif cat == "full_episodes":
-                if ch_slug == "duong-dua-sinh-tu" and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
+                if ch_slug in ("duong-dua-sinh-tu", "tieng-go-dem-ba-gio", "can-nha-am-duong") and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
                     continue
                 m_ep = re.search(r"(?:tap|canh)[-_]?(\d+)_FULL\.mp4$", fname, re.IGNORECASE)
                 if m_ep:

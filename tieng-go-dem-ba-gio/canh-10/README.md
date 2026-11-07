@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Direct sightline through the wooden lattice doors out to the porch steps where the crooked-necked revenant @BaCam stands under her black umbrella.
 - **Đạo cụ chính:** Wooden lattice doors, black oiled-paper umbrella dripping black mud, rusted bronze key ring scraping the wood bars, red cinnabar talisman (bùa Chu Sa) and bronze bell.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@BaCam` | `VO` | `RISING_DREAD` | **18 từ** | "Ngoài hiên mưa gió, bóng bà Cầm đứng dưới chiếc ô rách, nước bùn đen chảy tràn thềm." | 35mm stabilized slow push-in through lattice door |
-| [**Clip 2**](clip-2.md) | `@Lam, @BaCam` | `VO` | `CONTROLLED_URGENCY` | **18 từ** | "Dưới ánh chớp xanh lè, bà lão ngẩng lên… cái cổ gãy vẹo sang vai, mắt trắng dã!" | 50mm stabilized close-up slow push-in |
-| [**Clip 3**](clip-3.md) | `@BaCam` | `LIPSYNC:@BaCam` | `CONTROLLED_URGENCY` | **18 từ** | "Mày đã điểm chỉ máu rồi con ạ… Đêm mai ba giờ, hồn mày phải thế chỗ tao!" | 50mm stabilized tight close-up shot |
-| [**Clip 4**](clip-4.md) | `@BaCam, @CuTu` | `VO` | `CONTROLLED_URGENCY` | **18 từ** | "Cụ Từ Hạc lao lên dán bùa Chu Sa vào cửa, đánh bật luồng âm khí ra sân." | 35mm stabilized dynamic tracking shot |
-| [**Clip 5**](clip-5.md) | `@BaCam` | `VO` | `RISING_DREAD` | **18 từ** | "Bóng đen lưng còng lùi vào màn sương đặc quánh, để lại tiếng cười khàn hẹn đêm cuối." | 35mm stabilized slow push-in into courtyard mist |
-| [**Clip 6**](clip-6.md) | `@Lam, @CuTu` | `VO` | `CONTROLLED_URGENCY` | **18 từ** | "Cụ Từ nắm vai Lâm: muốn sống, trước ba giờ sáng phải đập bia đá cứu cô Út!" | 35mm stabilized two-shot push-in |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@BaCam` | `VO` | **23** | `0.4–6.2s` | "Ngoài hiên nhà mưa gió, bóng bà Cầm đứng lù lù dưới chiếc ô rách, nước bùn đen kịt chảy tràn bậc thềm." | 35mm stabilized slow push-in through lattice door | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Lam`, `@BaCam` | `VO` | **24** | `0.4–6.4s` | "Dưới ánh chớp xanh lè, bà lão từ từ ngẩng lên với cái cổ gãy vẹo hẳn sang vai và đôi mắt trắng dã!" | 50mm stabilized close-up slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@BaCam` | `LIPSYNC:@BaCam` | **23** | `0.4–6.8s` | "Mày đã điểm chỉ máu vào khế ước rồi con ạ, đêm mai đúng ba giờ sáng hồn mày phải thế chỗ tao!" | 50mm stabilized tight close-up shot | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@BaCam`, `@CuTu` | `VO` | **24** | `0.4–6.4s` | "Cụ Từ Hạc lập tức lao lên dán lá bùa Chu Sa vào cửa gỗ, đánh bật luồng âm khí đen kịt ra sân." | 35mm stabilized dynamic tracking shot | Ingredients: ảnh nhân vật |
+| [**Clip 5**](clip-5.md) | `@BaCam` | `VO` | **24** | `0.4–6.4s` | "Cái bóng đen lưng còng lùi dần vào màn sương đặc quánh, để lại tiếng cười khàn đục hẹn giờ đòi mạng đêm cuối." | 35mm stabilized slow push-in into courtyard mist | Frames: nối khung cuối clip trước |
+| [**Clip 6**](clip-6.md) | `@Lam`, `@CuTu` | `VO` | **23** | `0.4–6.2s` | "Cụ Từ nắm chặt vai Lâm dặn muốn sống thì trước ba giờ sáng mai phải đập vỡ bia đá cứu cô Út!" | 35mm stabilized two-shot push-in | Ingredients: ảnh nhân vật |

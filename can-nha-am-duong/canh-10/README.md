@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Direct sightline across the cold brick floor from @Binh sitting against the wall to the bare altar corner where @VongCuXa manifests.
 - **Đạo cụ chính:** Bare peeling lime wall where the altar used to be, visible white breath vapor in freezing air, cold moonlight beam through the window.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Binh` | `VO` | `RISING_DREAD` | **17 từ** | "Đêm thứ năm Bình quyết không ngủ, ngồi tựa tường nhìn bóng tối chờ gặp người âm." | 35mm stabilized gimbal slow push-in |
-| [**Clip 2**](clip-2.md) | `@Binh, @VongCuXa` | `VO` | `RISING_DREAD` | **18 từ** | "Đúng một giờ sáng, hơi thở Bình phả khói trắng… từ góc thờ cũ, bóng già hiện lên." | 35mm stabilized slow creeping push-in |
-| [**Clip 3**](clip-3.md) | `@Binh, @VongCuXa` | `LIPSYNC:@VongCuXa` | `CALM_MYSTERIOUS` | **16 từ** | "Bình đấy ư… Cháu nội của ông… Đừng sợ, lại đây ngồi với ông nào con…" | 50mm stabilized medium close-up push-in |
-| [**Clip 4**](clip-4.md) | `@Binh, @VongCuXa` | `LIPSYNC:@VongCuXa` | `CALM_MYSTERIOUS` | **18 từ** | "Ngày ông mất, bố mày rước bát hương đi nhưng quên rước vong… để hồn ông bơ vơ." | 50mm stabilized close-up shot |
-| [**Clip 5**](clip-5.md) | `@Binh, @VongCuXa` | `LIPSYNC:@Binh` | `CALM_MYSTERIOUS` | **18 từ** | "Ông nội ơi… Cháu và bố trên phố thật sự không biết ông phải lạnh lẽo thế này!" | 35mm stabilized medium shot slow push-in |
-| [**Clip 6**](clip-6.md) | `@Binh, @VongCuXa` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Cụ Xá bảo chính cụ sai vong gốc mít dọa, rồi dặn Bình gọi bố về chuộc lỗi." | 35mm stabilized slow dolly pull-back |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@Binh` | `VO` | **25** | `0.4–6.7s` | "Đêm thứ năm Bình quyết định không ngủ, cậu ngồi tựa lưng vào bức tường vôi lạnh nhìn thẳng bóng tối chờ gặp người âm." | 35mm stabilized gimbal slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Binh`, `@VongCuXa` | `VO` | **27** | `0.4–7.2s` | "Đúng một giờ sáng nhiệt độ tụt xuống lạnh cóng, hơi thở Bình phả ra khói trắng khi từ góc gian thờ cũ bóng già hiện lên." | 35mm stabilized slow creeping push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@Binh`, `@VongCuXa` | `LIPSYNC:@VongCuXa` | **25** | `0.4–7.4s` | "Bình đấy ư, đứa cháu nội đích tôn của ông đấy ư, con đừng sợ ông, hãy lại đây ngồi gần với ông nào con." | 50mm stabilized medium close-up push-in | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@Binh`, `@VongCuXa` | `LIPSYNC:@VongCuXa` | **27** | `0.4–7.9s` | "Ngày ông mất đi, bố mày làm đám xong liền rước bát hương lên phố nhưng quên lễ rước vong, để hồn ông bơ vơ lạnh lẽo." | 50mm stabilized close-up shot | Frames: nối khung cuối clip trước |
+| [**Clip 5**](clip-5.md) | `@Binh`, `@VongCuXa` | `LIPSYNC:@Binh` | **27** | `0.4–7.2s` | "Ông nội ơi cháu có lỗi với ông nhiều lắm, cháu và bố ở trên thành phố thật sự không biết ông phải lạnh lẽo thế này!" | 35mm stabilized medium shot slow push-in | Frames: nối khung cuối clip trước |
+| [**Clip 6**](clip-6.md) | `@Binh`, `@VongCuXa` | `VO` | **27** | `0.4–7.2s` | "Vong hồn cụ Xá bảo chính cụ đã sai vong gốc mít vào dọa cháu, rồi dặn Bình phải gọi bố về quê chuộc lỗi tổ tiên." | 35mm stabilized slow dolly pull-back | Frames: nối khung cuối clip trước |

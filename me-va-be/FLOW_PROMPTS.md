@@ -275,6 +275,8 @@ Photorealistic reference photo for a live-action film, square format, seen from 
 | 7 | Mùa gió se lạnh & Túi ngủ mặc ấm cho Gạo và Bông | Tuần 7, 46 ngày tuổi: sáng sớm tháng 11 trời trở gió se lạnh, Gạo hắt xì nhỏ xíu; Ngọc kiểm tra độ ấm sau gáy con, mặc túi ngủ cotton sát nách vừa vặn cho hai anh em để giữ ấm an toàn trong nôi mà không dùng chăn rời | **Túi ngủ mặc cotton sát nách cho bé (`SP_TUI_NGU`)** | Quy tắc mặc thêm 1 lớp mỏng hơn người lớn; kiểm tra ấm/nóng bằng cách sờ sau gáy hoặc ngực (không đo bằng tay chân vì tay chân trẻ nhỏ thường hơi mát); dùng túi ngủ mặc vừa vặn thay chăn mền rời trong nôi (AAP & NIH Safe to Sleep) |
 | 8 | Nụ cười đầu tiên dành cho mẹ | Tuần 8, 53 ngày tuổi, tập 30 giây đầu tiên: mở bằng mặt nghiêm như ông cụ non của Gạo; Ngọc vừa may xong hàng cuối năm, cho con coi thẻ đen trắng, Bông ọ ẹ ganh tị; Ngọc cất thẻ, cúi sát mặt con và Gạo cười với mẹ lần đầu, Bông cười theo; khung cuối lặp lại khung đầu | **Bộ thẻ tương phản đen trắng (`SP_THE_TUONG_PHAN`)** | Mẹo đi bằng hình, ghi trong caption: khoảng 2 tháng bé cười khi mẹ nói chuyện (CDC); bé nhìn rõ nhất ở 20–30 cm (AAP); thẻ chỉ cho coi lúc bé thức, coi xong cất ra ngoài nôi |
 | 9 | Cuộc trò chuyện ê a đầu đời của hai anh em | Tuần 9, 60 ngày tuổi (tròn 2 tháng): Gạo tròn mắt chu môi phát tiếng *"ơ… gù…"* đầu tiên; Ngọc lắc nhẹ lục lạc thú bông vải mềm cách mắt hai bé 25 cm cho con quay đầu theo tiếng chuông rồi cất ra ngoài nôi; Bông *"u… ơ…"* to hơn giành mẹ, rồi hai anh em quay sang tự ê a đáp lời nhau trước khi cùng nhìn mẹ cười | **Lục lạc thú bông vải mềm hữu cơ (`SP_LUC_LAC_VAI`)** | Mốc 2 tháng bé phát ra âm thanh ngoài tiếng khóc ("oooo, aahh") và quay đầu theo tiếng động (CDC); trò chuyện qua lại "Serve and Return" (ĐH Harvard & UNICEF); lục lạc chỉ dùng lúc thức, cất ngoài nôi |
+| 10 | Bàn tay nhỏ mở ra & Chiếc kệ chữ A đầu đời | Tuần 10, 67 ngày tuổi: bàn tay nắm chặt của Gạo và Bông bắt đầu mở ra, quơ chạm vòng gỗ và thú bông trên kệ chữ A gỗ tự nhiên | **Kệ chữ A treo đồ chơi gỗ tự nhiên (`SP_KE_CHU_A`)** | Khoảng hơn 2 tháng bé mở bàn tay và quơ tay về phía đồ vật treo lơ lửng (CDC / AAP); treo cách ngực 25–30 cm lúc bé thức, cất gọn trước khi ngủ |
+| 11 | Chồng cũ đội mưa quay về mượn tiền bỉm sữa & Vòng tay mẹ bình yên | Tuần 11, 74 ngày tuổi: chiều mưa Sài Gòn, chồng cũ Hùng bất ngờ gõ cửa phòng trọ quỳ sụp khóc xin tha thứ rồi trơ trẽn hỏi mượn phong bì tiền công may đồ – tiền bỉm sữa của hai con để trả nợ; Ngọc rơi nước mắt đanh thép đóng sập cửa sắt, khóa chốt, rồi địu Gạo trước ngực bằng địu vải cotton tư thế chữ M (`SP_DIU_VAI`) vỗ về hai con nín khóc | **Địu vải cotton mềm trợ lực tư thế chữ M (`SP_DIU_VAI`)** | Quy tắc địu bé an toàn T.I.C.K.S & IHDI: mặt bé luôn lộ rõ (không bị vải che mũi miệng), cằm cách ngực tối thiểu 1–2 ngón tay, cao sát ngực dễ hôn trán ("close enough to kiss"), hai đùi nâng đỡ tạo tư thế chữ M chuẩn khớp háng |
 
 > Tập dự kiến chỉ là dàn ý: mẹo và số liệu phải tra nguồn trước khi đưa vào thoại. Không làm tập về sữa công thức, bình bú, núm vú giả (Luật Quảng cáo 2012, Điều 7 khoản 4).
 
@@ -282,7 +284,7 @@ Photorealistic reference photo for a live-action film, square format, seen from 
 
 ## 6. Các tập — mỗi ngày 1 tập
 
-Mỗi tập (từ Tập 8: 30s = 3 clip × 10s; Tập 1–7: 40–60s = 4–6 clip) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/`: `README.md` là tổng quan tập, `clip-1.md` … `clip-N.md` là prompt của từng clip 10 giây, `caption.md` là caption dán TikTok. Tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3.
+Mỗi tập (60s = 6 clip × 10s) là một ngày đăng, nằm trong thư mục riêng `tap-{số}/`: `README.md` là tổng quan tập, `clip-1.md` … `clip-6.md` là prompt của từng clip 10 giây, `caption.md` là caption dán TikTok. Tập mới đánh số tiếp và dùng nguyên các khóa ở mục 1–3.
 
 | Ngày | File | Tên tập |
 | --- | --- | --- |
@@ -295,3 +297,5 @@ Mỗi tập (từ Tập 8: 30s = 3 clip × 10s; Tập 1–7: 40–60s = 4–6 cl
 | 7 | [tap-7/](tap-7/README.md) | Mùa gió se lạnh & Túi ngủ mặc ấm cho Gạo và Bông |
 | 8 | [tap-8/](tap-8/README.md) | Nụ cười đầu tiên dành cho mẹ |
 | 9 | [tap-9/](tap-9/README.md) | Cuộc trò chuyện ê a đầu đời của hai anh em |
+| 10 | [tap-10/](tap-10/README.md) | Bàn tay nhỏ mở ra & Chiếc kệ chữ A đầu đời |
+| 11 | [tap-11/](tap-11/README.md) | Chồng cũ đội mưa quay về mượn tiền bỉm sữa & Vòng tay mẹ bình yên |

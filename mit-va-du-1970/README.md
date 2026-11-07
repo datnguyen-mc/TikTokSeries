@@ -22,3 +22,4 @@
 - [Tập 23 — Cá rô đồng kho tộ tóp mỡ: Ba Mit tưởng rớt tiền công khuân sầu riêng, hóa ra giắt trên khăn rằn](tap-23/README.md)
 - [Tập 24 — Chiếc áo bà ba vá vai ngày gió chướng & Nồi chè đậu trắng đặc quánh của ba Mit](tap-24/README.md)
 - [Tập 25 — Đôi dép đứt quai của Nở & Màn hất chảo đội nón bánh xèo củ hủ dừa của ba Mit](tap-25/README.md)
+- [Tập 26 — Ốc bươu đồng hấp sả chấm mắm gừng & Chiếc đèn dầu hột vịt ba Mit thức khuya đan cặp giỏ lát cho Nở](tap-26/README.md)

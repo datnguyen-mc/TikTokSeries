@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Courtyard and porch axis between @Binh showing his bruised wrist to @OngBay and inspecting the bolted wooden windows.
 - **Đạo cụ chính:** Unfading dark purple five-finger bruise on @Binh's left wrist, wooden walking stick, bolted dusty window shutters, smartphone.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Binh, @OngBay` | `LIPSYNC:@Binh` | `CONTROLLED_URGENCY` | **18 từ** | "Bác Bảy ơi cứu cháu! Đêm qua có bàn tay người chết thò qua màn bóp tay cháu!" | 35mm stabilized tracking shot |
-| [**Clip 2**](clip-2.md) | `@Binh, @OngBay` | `LIPSYNC:@OngBay` | `RISING_DREAD` | **18 từ** | "Lạy hồn… Vết bầm năm ngón rõ thế này không đùa được! Để bác vào kiểm tra xem!" | 50mm stabilized two-shot push-in |
-| [**Clip 3**](clip-3.md) | `@Binh, @OngBay` | `VO` | `CALM_MYSTERIOUS` | **17 từ** | "Ông Bảy kiểm tra khắp chốt cửa và chấn song, tuyệt nhiên không có dấu cạy cửa." | 28mm stabilized gimbal following shot |
-| [**Clip 4**](clip-4.md) | `@Binh, @OngBay` | `VO` | `CALM_MYSTERIOUS` | **17 từ** | "Sợ cậu hoảng loạn, ông Bảy gượng bảo do nằm mê… nhưng ánh mắt không giấu nổi." | 35mm stabilized medium two-shot |
-| [**Clip 5**](clip-5.md) | `@Binh` | `LIPSYNC:@Binh` | `RISING_DREAD` | **18 từ** | "Mẹ ơi… Căn nhà ông nội thật sự đáng sợ lắm… nhưng giờ con biết đi đâu mẹ…" | 50mm stabilized medium close-up push-in |
-| [**Clip 6**](clip-6.md) | `@Binh` | `VO` | `RISING_DREAD` | **18 từ** | "Về phố thì chủ nợ chờ, ở lại thì ma vây… đường cùng biến sợ thành liều lĩnh." | 35mm stabilized slow dolly push-in |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@Binh`, `@OngBay` | `LIPSYNC:@Binh` | **26** | `0.4–6.9s` | "Bác Bảy ơi cứu cháu với! Đêm hôm qua có bàn tay người chết thò xuyên qua màn bóp chặt lấy cổ tay cháu đây này!" | 35mm stabilized tracking shot | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Binh`, `@OngBay` | `LIPSYNC:@OngBay` | **26** | `0.4–6.9s` | "Lạy hồn, vết bầm năm ngón tay rõ mồn một thế này thì không phải chuyện đùa rồi, để bác vào kiểm tra quanh nhà xem!" | 50mm stabilized two-shot push-in | Frames: nối khung cuối clip trước |
+| [**Clip 3**](clip-3.md) | `@Binh`, `@OngBay` | `VO` | **27** | `0.4–7.2s` | "Ông Bảy cầm gậy đi kiểm tra khắp các chốt cửa gỗ và chấn song cửa sổ, tuyệt nhiên không có dấu vết người lạ cạy cửa." | 28mm stabilized gimbal following shot | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@Binh`, `@OngBay` | `VO` | **25** | `0.4–6.7s` | "Sợ thằng nhỏ thêm hoảng loạn, ông Bảy đành gượng bảo do cậu nằm mê nhưng ánh mắt trốn tránh của ông không giấu nổi." | 35mm stabilized medium two-shot | Frames: nối khung cuối clip trước |
+| [**Clip 5**](clip-5.md) | `@Binh` | `LIPSYNC:@Binh` | **27** | `0.4–7.2s` | "Mẹ ơi căn nhà của ông nội ở dưới quê thật sự có thứ gì đáng sợ lắm, nhưng giờ con biết trốn đi đâu hả mẹ!" | 50mm stabilized medium close-up push-in | Frames: nối khung cuối clip trước |
+| [**Clip 6**](clip-6.md) | `@Binh` | `VO` | **26** | `0.4–6.9s` | "Quay về phố thì chủ nợ chờ sẵn mà ở lại thì ma quỷ vây quanh, bước đường cùng biến nỗi sợ thành sự liều lĩnh." | 35mm stabilized slow dolly push-in | Frames: nối khung cuối clip trước |

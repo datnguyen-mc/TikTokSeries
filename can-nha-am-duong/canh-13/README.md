@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Axis connecting the warm glowing mahogany altar inside the main hall across the swept courtyard to the peaceful shrine beneath the jackfruit tree.
 - **Đạo cụ chính:** Mahogany altar glowing with oil lamps and sandalwood incense, bamboo broom, fresh fruit offering plate and burning incense at the jackfruit brick shrine, refurbished stone grave.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@OngQuan, @BaPhuong, @Binh` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Suốt bốn chín ngày, ông Quân ở quê ăn chay hương khói, sưởi ấm ngôi nhà lạnh lẽo." | 28mm stabilized gimbal panning shot |
-| [**Clip 2**](clip-2.md) | `@OngQuan` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Ngôi miếu nhỏ dưới gốc mít đỏ nhang mỗi tối, để những vong hồn lỡ bước có chốn." | 35mm stabilized slow push-in |
-| [**Clip 3**](clip-3.md) | `@OngQuan, @Binh` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Đêm thứ bốn chín, cả căn nhà tỏa sinh khí ấm áp, không còn bóng đen lạnh lẽo." | 35mm stabilized medium two-shot push-in |
-| [**Clip 4**](clip-4.md) | `@OngQuan, @Binh` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Nhìn từ ngoài cổng vào, lần đầu sau hai mươi năm, nhà cụ Xá sáng ánh đèn ấm." | 28mm stabilized dolly slow pull-back through gate |
-| [**Clip 5**](clip-5.md) | `@OngQuan, @BaPhuong, @Binh` | `LIPSYNC:@OngQuan` | `CALM_MYSTERIOUS` | **18 từ** | "Bà đưa thằng Bình về phố trả nợ trước đi… Tôi ở lại lo trọn lễ cho cụ." | 35mm stabilized medium three-shot |
-| [**Clip 6**](clip-6.md) | `@OngQuan` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Biến cố tưởng chừng tuyệt vọng ấy lại kéo người cha lầm lỗi về giữ trọn đạo hiếu." | 35mm stabilized slow crane-up shot |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@OngQuan`, `@BaPhuong`, `@Binh` | `VO` | **27** | `0.4–7.2s` | "Suốt bốn mươi chín ngày ròng rã, ông Quân xin nghỉ ở lại quê ăn chay hương khói, sưởi ấm ngôi nhà lạnh lẽo hai thập kỷ." | 28mm stabilized gimbal panning shot | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@OngQuan` | `VO` | **27** | `0.4–7.2s` | "Ngôi miếu nhỏ dưới gốc mít luôn đỏ đèn nhang mỗi tối, để những vong hồn lỡ bước trên khúc cua năm nào có chốn nương tựa." | 35mm stabilized slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@OngQuan`, `@Binh` | `VO` | **27** | `0.4–7.2s` | "Đêm thứ bốn mươi chín, cả căn nhà ngói ba gian tỏa ra luồng sinh khí ấm áp lạ thường, không còn bóng đen lạnh lẽo nữa." | 35mm stabilized medium two-shot push-in | Ingredients: ảnh nhân vật |
+| [**Clip 4**](clip-4.md) | `@OngQuan`, `@Binh` | `VO` | **27** | `0.4–7.2s` | "Nhìn từ ngoài cổng vào trong đêm, lần đầu tiên sau hai mươi năm dân làng thấy căn nhà cụ Xá sáng bừng ánh đèn ấm áp." | 28mm stabilized dolly slow pull-back through gate | Ingredients: ảnh nhân vật |
+| [**Clip 5**](clip-5.md) | `@OngQuan`, `@BaPhuong`, `@Binh` | `LIPSYNC:@OngQuan` | **24** | `0.4–6.4s` | "Bà đưa thằng Bình về phố lo trả dần nợ nần trước đi, tôi ở lại sửa sang lại mộ phần cho ông cụ." | 35mm stabilized medium three-shot | Ingredients: ảnh nhân vật |
+| [**Clip 6**](clip-6.md) | `@OngQuan` | `VO` | **27** | `0.4–7.2s` | "Biến cố tưởng chừng đẩy gia đình xuống vực thẳm ấy lại kéo người cha lầm lỗi trở về cội nguồn, giữ trọn đạo hiếu làm con." | 35mm stabilized slow crane-up shot | Ingredients: ảnh nhân vật |

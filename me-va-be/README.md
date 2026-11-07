@@ -15,3 +15,4 @@
 - [Tập 8 (Tuần 8 — 53 ngày tuổi): Mẹo kích thích thị giác ở khoảng cách 25cm, Nụ cười xã hội đầu tiên & Bộ thẻ tương phản đen trắng (`SP_THE_TUONG_PHAN`)](tap-8/README.md)
 - [Tập 9 (Tuần 9 — 60 ngày tuổi): Mẹo trò chuyện đáp lời 'Serve and Return', Hai anh em thi nhau ê a & Lục lạc thú bông vải hữu cơ (`SP_LUC_LAC_VAI`)](tap-9/README.md)
 - [Tập 10 (Tuần 10 — 67 ngày tuổi): Mẹo rèn phối hợp tay-mắt, Gạo và Bông mở bàn tay quơ chạm đồ chơi & Kệ chữ A gỗ tự nhiên (`SP_KE_CHU_A`)](tap-10/README.md)
+- [Tập 11 (Tuần 11 — 74 ngày tuổi): Chồng cũ đội mưa quay về quỳ khóc xin tha thứ rồi lộ mặt mượn tiền bỉm sữa, Ngọc khóc nghẹn đóng sập cửa & Địu vải trợ lực tư thế chữ M (`SP_DIU_VAI`)](tap-11/README.md)

@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Main hall axis from @Lam and @CuTu holding the iron sledgehammer toward the burning black veil and rippling bronze mirror.
 - **Đạo cụ chính:** Heavy iron sledgehammer, white jade hairpin, antique pendulum clock at 02:45, ankle-deep black well water seeping through floorboards, bronze mirror rippling like water.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Lam, @CuTu` | `VO` | `RISING_DREAD` | **18 từ** | "Đêm thứ ba lúc hai giờ bốn lăm, mưa bão gào thét làm rung chuyển ngôi nhà cổ." | 35mm stabilized gimbal slow push-in |
-| [**Clip 2**](clip-2.md) | `@Lam` | `VO` | `RISING_DREAD` | **18 từ** | "Từ dưới khe sàn gỗ lim, nước giếng đen tanh nồng bắt đầu sủi bọt ngập mắt cá." | 35mm stabilized high-angle tilt-down shot |
-| [**Clip 3**](clip-3.md) | `@CoUt` | `VO` | `CONTROLLED_URGENCY` | **18 từ** | "Tấm khăn đen bốc lửa xanh cháy rụi… mặt gương gợn sóng rồi cô Út bước ra ngoài!" | 35mm stabilized slow push-in on mirror |
-| [**Clip 4**](clip-4.md) | `@Lam, @CoUt` | `VO` | `RISING_DREAD` | **18 từ** | "Cô gái áo trắng đứng giữa sàn ngập nước, đôi mắt đẫm lệ nhìn trâm ngọc tay Lâm." | 35mm stabilized medium two-shot slow push-in |
-| [**Clip 5**](clip-5.md) | `@Lam, @CoUt` | `LIPSYNC:@Lam` | `CONTROLLED_URGENCY` | **18 từ** | "Cô Út! Tôi thấu nỗi oan của cô rồi… đêm nay tôi sẽ đập bia đá cứu cô!" | 50mm stabilized over-the-shoulder push-in |
-| [**Clip 6**](clip-6.md) | `@Lam, @CoUt` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Luồng oán khí dịu xuống… cô gái rơi giọt lệ trong vắt rồi chỉ ra giếng ngoài sân." | 50mm stabilized close-up slow push-in |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@Lam`, `@CuTu` | `VO` | **24** | `0.4–6.4s` | "Đêm thứ ba lúc hai giờ bốn mươi lăm phút sáng, mưa bão gào thét dữ dội làm rung chuyển cả ngôi nhà cổ." | 35mm stabilized gimbal slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Lam` | `VO` | **24** | `0.4–6.4s` | "Từ dưới các khe ván sàn gỗ lim, nước giếng đen ngòm tanh nồng mùi bùn bắt đầu sủi bọt dâng ngập mắt cá." | 35mm stabilized high-angle tilt-down shot | Frames: nối khung cuối clip trước |
+| [**Clip 3**](clip-3.md) | `@CoUt` | `VO` | **23** | `0.4–6.2s` | "Tấm khăn đen tự bốc lửa xanh cháy rụi, mặt gương đồng gợn sóng rồi bóng cô Út bước thẳng ra gian nhà!" | 35mm stabilized slow push-in on mirror | Ingredients: ảnh nhân vật |
+| [**Clip 4**](clip-4.md) | `@Lam`, `@CoUt` | `VO` | **22** | `0.4–5.9s` | "Cô gái áo trắng đứng lặng giữa sàn nhà ngập nước, đôi mắt đẫm lệ nhìn chiếc trâm ngọc trên tay Lâm." | 35mm stabilized medium two-shot slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 5**](clip-5.md) | `@Lam`, `@CoUt` | `LIPSYNC:@Lam` | **24** | `0.4–6.4s` | "Cô Út ơi! Tôi đã thấu rõ nỗi oan của cô rồi, đêm nay tôi quyết đập nát bia đá giải thoát cho cô!" | 50mm stabilized over-the-shoulder push-in | Frames: nối khung cuối clip trước |
+| [**Clip 6**](clip-6.md) | `@Lam`, `@CoUt` | `VO` | **24** | `0.4–6.4s` | "Nghe lời ấy luồng oán khí dịu xuống, cô gái rơi một giọt lệ trong vắt rồi chỉ tay ra chiếc giếng ngoài sân." | 50mm stabilized close-up slow push-in | Frames: nối khung cuối clip trước |

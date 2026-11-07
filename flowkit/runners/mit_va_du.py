@@ -306,12 +306,13 @@ def load_and_lock_project_characters():
 
 def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = None) -> bool:
     """
-    Xác định clip có cần truyền trực tiếp ảnh tham chiếu nhân vật (@Character Ingredients) hay không:
-    - Clip 1 mở đầu tập.
-    - Hoặc không có start_image_media_id (frame cuối) từ clip trước.
+    LUÔN trả về True để 100% tất cả các clip (Clip 1 -> Clip 6) đều sử dụng
+    endpoint /api/flow/generate-video-omni (Ingredients Reference-to-Video — MZZa6b)
+    với bộ 3 reference_media_ids gốc (@Mit, @Đú, @Nở).
+    Điều này ngăn chặn triệt để lỗi biến dạng nhân vật (chó 4 chân / chó tả thực / mất quần áo)
+    khi nối frame Image-to-Video qua các góc máy cận hoặc khi nhân vật khuất khỏi khung hình cuối.
     """
-    # Phim ngắn 9:16 nối frame cuối từ Clip 2 trở đi, kể cả clip mở bằng [FORMAT]
-    return clip_num == 1 or not start_image_media_id
+    return True
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
@@ -319,6 +320,20 @@ def get_clip_reference_media_ids(prompt: str) -> list:
     Trích xuất danh sách media_id nhân vật cố định xuất hiện trong prompt của clip.
     Nếu không tìm thấy tên cụ thể, trả về toàn bộ nhân vật chính đã khóa của series.
     """
+    # Ưu tiên đúng các nhân vật khai báo "@Tag = …" trong khối [CHARACTERS …] của clip. Dò alias trên cả prompt
+    # gắn nhầm ảnh nhân vật vắng mặt ("no" trong "no subtitles", "du" trong "dusty", "vy" trong "navy"…).
+    m_block = re.search(r"^\[CHARACTERS[^\]]*\]\n(.*?)(?=^\[|\Z)", prompt or "", flags=re.MULTILINE | re.DOTALL)
+    if m_block:
+        declared = {t.lower() for t in re.findall(r"^-?\s*(@[^\s=]+)\s*=", m_block.group(1), flags=re.MULTILINE)}
+        picked = []
+        for spec in CHARACTER_SPECS:
+            mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"])
+            names = {a.lower() for a in spec["aliases"] if a.startswith("@")} | {spec["tag"].lower()}
+            if mid and names & declared and mid not in picked:
+                picked.append(mid)
+        if picked:
+            return picked[:7]
+
     selected = []
     prompt_lower = prompt.lower()
     for spec in CHARACTER_SPECS:
@@ -469,6 +484,22 @@ def update_dashboard_scene_status(ep_num: int, clip_num: int, video_url: str):
 # 2. BỘ TỰ ĐỘNG SỬA PROMPT KHI THẤT BẠI (PROMPT SANITIZER & RETRY)
 # -------------------------------------------------------------
 def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
+    # Prompt có cấu trúc [FORMAT] … [AVOID] (cuối): mọi lần retry chỉ làm mềm từ ngữ ở cấp 1, giữ nguyên
+    # SET LOCK / nhân vật / lời thoại. Cấp 2+ của rewrite_prompt_on_failure dựng lại prompt chung chung.
+    # Các dòng có lời thoại ("… says (…): …") được khóa nguyên văn để bộ thay từ không đổi chữ trong câu nói.
+    p = prompt or ""
+    if p.lstrip().startswith("[FORMAT]") and "[AVOID]" in p:
+        kept = []
+
+        def _hold(m):
+            kept.append(m.group(0))
+            return f"⟦KEEP{len(kept) - 1}⟧"
+
+        held = re.sub(r"^.* says \(.*$", _hold, p, flags=re.MULTILINE)
+        out = rewrite_prompt_on_failure(held, 1, CHARACTER_SPECS, ASPECT_RATIO)
+        for i, line in enumerate(kept):
+            out = out.replace(f"⟦KEEP{i}⟧", line)
+        return out
     return rewrite_prompt_on_failure(prompt, attempt, CHARACTER_SPECS, ASPECT_RATIO)
 
 
@@ -676,7 +707,9 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
     key = f"tap_{ep_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"tap_{ep_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[TẬP {ep_num:02d} - CLIP {clip_num:02d}]"
-    flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
+    # Không chèn nhãn "[TẬP xx - CLIP yy]" vào đầu prompt (chữ dòng đầu dễ thành title card / chữ trên hình);
+    # tên clip trên Flow vẫn được đặt lại sau khi render bằng force_rename_clip_on_flow().
+    flow_prompt = prompt
 
     use_char_refs = is_new_scene_clip(prompt, clip_num, start_image_media_id)
     ref_media_ids = get_clip_reference_media_ids(prompt)
@@ -906,7 +939,7 @@ def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_pro
     return {"success": False, "video_url": None}
 
 
-def run_pipeline(start_ep=1, end_ep=25):
+def run_pipeline(start_ep=1, end_ep=26):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
     print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT TỰ ĐỘNG — MÍT VÀ ĐÚ 1970 (9:16)")
@@ -964,16 +997,13 @@ def run_pipeline(start_ep=1, end_ep=25):
             progress_pct = (completed_clips / total_clips) * 100
             print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — TẬP {ep:02d} - CLIP {c_idx:02d}", flush=True)
 
-            # Phim ngắn 9:16: từ Clip 2 trở đi luôn mở từ frame cuối của clip trước
-            if c_idx > 1 and not previous_clip_last_frame_media_id:
-                previous_clip_last_frame_media_id = load_previous_last_frame(ep, c_idx - 1, ep_folder_name)
-
+            # Luôn khóa trực tiếp 3 nhân vật gốc (@Mit, @Đú, @Nở) qua Ingredients R2V cho mọi clip (giống Tập 19)
             res = run_clip_with_auto_retry(
                 ep_num=ep,
                 clip_num=c_idx,
                 fpath=fpath,
                 initial_prompt=prompt_content,
-                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None
+                start_image_media_id=None
             )
 
             if res["success"] and res.get("video_url"):
@@ -982,9 +1012,8 @@ def run_pipeline(start_ep=1, end_ep=25):
                 if local_video:
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(ep, c_idx, local_video if local_video else video_url)
-                frame_path = extract_last_frame(local_video if local_video else video_url, ep, c_idx)
-                has_next_clip = c_idx != clips[-1][0]
-                previous_clip_last_frame_media_id = upload_start_frame(frame_path) if frame_path and has_next_clip else None
+                extract_last_frame(local_video if local_video else video_url, ep, c_idx)
+                previous_clip_last_frame_media_id = None
             else:
                 log(f"⚠️ [Tập {ep:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
                 previous_clip_last_frame_media_id = None
@@ -1010,5 +1039,5 @@ def run_pipeline(start_ep=1, end_ep=25):
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 25
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 26
     run_pipeline(start, end)

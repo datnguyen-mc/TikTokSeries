@@ -279,13 +279,25 @@ def load_and_lock_project_characters():
 
 
 def is_new_scene_clip(prompt: str, clip_num: int, start_image_media_id: str = None) -> bool:
-    # 365 Ngày Việt Nam: mỗi cảnh là một địa điểm check-in / bàn ẩm thực khác nhau (Ingredients R2V khóa @Vy, @Joi)
-    if "Check-in Địa Điểm & Ẩm Thực Độc Lập" in prompt or "Quy tắc bối cảnh check-in độc lập" in prompt:
-        return True
-    return clip_num == 1 or not start_image_media_id
+    # 365 Ngày Việt Nam: mỗi cảnh là một địa điểm check-in / bàn ẩm thực khác nhau (luôn dùng Ingredients R2V khóa @Vy, @Joi)
+    return True
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
+    # Ưu tiên đúng các nhân vật khai báo "@Tag = …" trong khối [CHARACTERS …] của clip. Dò alias trên cả prompt
+    # gắn nhầm ảnh nhân vật vắng mặt ("no" trong "no subtitles", "du" trong "dusty", "vy" trong "navy"…).
+    m_block = re.search(r"^\[CHARACTERS[^\]]*\]\n(.*?)(?=^\[|\Z)", prompt or "", flags=re.MULTILINE | re.DOTALL)
+    if m_block:
+        declared = {t.lower() for t in re.findall(r"^-?\s*(@[^\s=]+)\s*=", m_block.group(1), flags=re.MULTILINE)}
+        picked = []
+        for spec in CHARACTER_SPECS:
+            mid = LOCKED_CHARACTER_MEDIA_IDS.get(spec["tag"])
+            names = {a.lower() for a in spec["aliases"] if a.startswith("@")} | {spec["tag"].lower()}
+            if mid and names & declared and mid not in picked:
+                picked.append(mid)
+        if picked:
+            return picked[:7]
+
     selected = []
     prompt_lower = prompt.lower()
     for spec in CHARACTER_SPECS:
@@ -435,6 +447,22 @@ def update_dashboard_scene_status(ep_num: int, clip_num: int, video_url: str):
 # 2. BỘ TỰ ĐỘNG SỬA PROMPT KHI THẤT BẠI (PROMPT SANITIZER & RETRY)
 # -------------------------------------------------------------
 def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
+    # Prompt có cấu trúc [FORMAT] … [AVOID] (cuối): mọi lần retry chỉ làm mềm từ ngữ ở cấp 1, giữ nguyên
+    # SET LOCK / nhân vật / lời thoại. Cấp 2+ của rewrite_prompt_on_failure dựng lại prompt chung chung.
+    # Các dòng có lời thoại ("… says (…): …") được khóa nguyên văn để bộ thay từ không đổi chữ trong câu nói.
+    p = prompt or ""
+    if p.lstrip().startswith("[FORMAT]") and "[AVOID]" in p:
+        kept = []
+
+        def _hold(m):
+            kept.append(m.group(0))
+            return f"⟦KEEP{len(kept) - 1}⟧"
+
+        held = re.sub(r"^.* says \(.*$", _hold, p, flags=re.MULTILINE)
+        out = rewrite_prompt_on_failure(held, 1, CHARACTER_SPECS, ASPECT_RATIO)
+        for i, line in enumerate(kept):
+            out = out.replace(f"⟦KEEP{i}⟧", line)
+        return out
     return rewrite_prompt_on_failure(prompt, attempt, CHARACTER_SPECS, ASPECT_RATIO)
 
 
@@ -638,7 +666,9 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
     key = f"tap_{ep_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"tap_{ep_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[TẬP {ep_num:02d} - CLIP {clip_num:02d}]"
-    flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
+    # Không chèn nhãn "[TẬP xx - CLIP yy]" vào đầu prompt (chữ dòng đầu dễ thành title card / chữ trên hình);
+    # tên clip trên Flow vẫn được đặt lại sau khi render bằng force_rename_clip_on_flow().
+    flow_prompt = prompt
 
     use_char_refs = is_new_scene_clip(prompt, clip_num, start_image_media_id)
     ref_media_ids = get_clip_reference_media_ids(prompt)
@@ -868,7 +898,7 @@ def run_clip_with_auto_retry(ep_num: int, clip_num: int, fpath: str, initial_pro
     return {"success": False, "video_url": None}
 
 
-def run_pipeline(start_ep=1, end_ep=11):
+def run_pipeline(start_ep=1, end_ep=12):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
     print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT TỰ ĐỘNG — 365 NGÀY VIỆT NAM (9:16)")
@@ -926,16 +956,13 @@ def run_pipeline(start_ep=1, end_ep=11):
             progress_pct = (completed_clips / total_clips) * 100
             print(f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — TẬP {ep:02d} - CLIP {c_idx:02d}", flush=True)
 
-            # Phim ngắn 9:16: từ Clip 2 trở đi luôn mở từ frame cuối của clip trước
-            if c_idx > 1 and not previous_clip_last_frame_media_id:
-                previous_clip_last_frame_media_id = load_previous_last_frame(ep, c_idx - 1, ep_folder_name)
-
+            # 365 Ngày Việt Nam: mỗi clip là một điểm check-in / bàn ẩm thực độc lập, luôn khóa @Vy & @Joi qua Ingredients R2V
             res = run_clip_with_auto_retry(
                 ep_num=ep,
                 clip_num=c_idx,
                 fpath=fpath,
                 initial_prompt=prompt_content,
-                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None
+                start_image_media_id=None
             )
 
             if res["success"] and res.get("video_url"):
@@ -944,9 +971,8 @@ def run_pipeline(start_ep=1, end_ep=11):
                 if local_video:
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(ep, c_idx, local_video if local_video else video_url)
-                frame_path = extract_last_frame(local_video if local_video else video_url, ep, c_idx)
-                has_next_clip = c_idx != clips[-1][0]
-                previous_clip_last_frame_media_id = upload_start_frame(frame_path) if frame_path and has_next_clip else None
+                extract_last_frame(local_video if local_video else video_url, ep, c_idx)
+                previous_clip_last_frame_media_id = None
             else:
                 log(f"⚠️ [Tập {ep:02d} - Clip {c_idx:02d}] Bị bỏ qua do không hoàn tất render.")
                 previous_clip_last_frame_media_id = None
@@ -972,5 +998,5 @@ def run_pipeline(start_ep=1, end_ep=11):
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 11
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 12
     run_pipeline(start, end)

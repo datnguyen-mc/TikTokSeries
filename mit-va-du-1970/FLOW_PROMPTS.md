@@ -186,6 +186,10 @@ humans, human faces, human children, human hands, four-legged non-anthropomorphi
 | 20 | Cá lóc đồng nướng trui rơm & Nhẫn cỏ chỉ vàng của ba Mit | ⚡ Trend giá vàng tăng mạnh & "nắm giữ vàng" (03/11): ba Mit bắt được cá lóc đồng bự về nướng trui rơm; Nở hỏi chuyện ngoài chợ bàn giá vàng tăng, ba Mit bện hai chiếc nhẫn cỏ ống vàng óng đeo vào tay má Đú và bé Nở: "Kho vàng thứ nhứt là má Đú tảo tần, cục vàng thứ hai là Nở ngoan hiền"; cả nhà ăn cá lóc nướng trui rơm mỡ hành và Nở vẽ hai chiếc nhẫn cỏ vào tập | **Tập vở, hộp bút màu** |
 | 21 | Bánh tằm khoai mì lăn dừa nạo & Chuyện giữ khư khư sổ biên nhận lúa | ⚡ Cảm hứng từ vụ giao sổ tiết kiệm/điện thoại cho người khác thao tác giùm (03/11): má Đú se bánh tằm khoai mì 4 màu tự nhiên (lá dứa, nghệ, gấc, trắng) hấp xửng lăn dừa nạo chấm muối mè; ba Mit kể chuyện ông Tư xóm trên nhẹ dạ đưa sổ biên nhận lúa cho người ta giữ giùm bị gạch mất chục giạ lúa; ba cất kỹ sổ lúa vào trắp gỗ khóa chốt đồng, dạy Nở bài học tự tay giữ gìn công sức mồ hôi của gia đình | — |
 | 22 | Ba Mit giữ nhà · Canh chua cá linh bông điên điển & nồi cơm cháy | ⚡ Tập hài thời sự 1970 đầu tiên, từ chuyện ông bố bỏ việc ở nhà nội trợ cho vợ đi làm (Dân trí 04/11): mùa nước nổi, má Đú chèo xuồng đi bán bánh, ba Mit ở nhà; ba nổ "trả giá khéo" mà bị bán mắc gấp đôi, nổ "dễ ợt" ba lần mà cơm trào, canh chua lè, nồi cơm cháy đáy; Nở chỉ ba rút củi ghế cơm, đưa đường nước mắm cứu nồi canh; má về khen ngon, giao bếp luôn; ba thú nhận "việc nhà hổng có dễ ợt"; Nở: "Ba nấu đi, Nở thích cơm cháy!" (60s = 6 clip) | — |
+| 23 | Cá rô đồng kho tộ tóp mỡ · Ba Mit tưởng rớt tiền công khuân sầu riêng | Chiều mưa Cái Mơn 1970, ba Mit đi khuân sầu riêng về mang theo rổ cá rô đồng, hốt hoảng tưởng đánh rơi đồng bạc tiền công định mua kẹo mạch nha cho Nở; hóa ra đồng bạc giắt ngay trên khăn rằn; cả nhà quây quần bên tộ cá rô kho tóp mỡ tiêu xanh và Nở vẽ tranh vào tập | **Tập vở, hộp bút màu** |
+| 24 | Chiếc áo bà ba vá vai ngày gió chướng & Nồi chè đậu trắng đặc quánh của ba Mit | Gió chướng đầu mùa se lạnh, ba Mit giành nấu chè đậu trắng nếp nước cốt dừa cho vợ con mà quên canh lửa làm chè đặc quánh dính muôi; sau bữa chè, ba tặng má Đú tấm vải bông mới may áo bà ba còn hai mẹ con khoác chiếc khăn rằn ấm cho ba | **Tập vở, hộp bút màu** |
+| 25 | Đôi dép đứt quai của Nở & Bánh xèo củ hủ dừa của ba Mit | Bé Nở đứt quai dép mủ cũ; ba Mit đi đốn dừa mướn mang về khúc củ hủ dừa trắng nõn đổ bánh xèo giòn rụm bị bắn chấm bột nghệ lên mũi; ba tặng Nở đôi dép mới tinh, lộ cổ chân trần quấn vải trắng vì trèo đốn dừa | **Tập vở, hộp bút màu** |
+| 26 | Ốc bươu đồng hấp sả chấm mắm gừng & Chiếc đèn dầu hột vịt ba Mit thức khuya đan cặp giỏ lát cho Nở | Giỏ lát đi học của Nở bị sút góc đáy; ba Mit bắt ốc bươu đồng về hấp sả lá chanh chấm mắm gừng, thổi ốc nóng làm miếng gừng dính chóp mũi; ba tặng Nở chiếc giỏ lát mới tinh hai lớp đáy, lộ ngón tay cái quấn vải vì thức khuya bên đèn dầu hột vịt đan giỏ cho con | **Tập vở, hộp bút màu** |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -220,6 +224,9 @@ Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)
 | 21 | [tap-21/](tap-21/README.md) | Bánh tằm khoai mì lăn dừa nạo & Chuyện giữ khư khư sổ biên nhận lúa |
 | 22 | [tap-22/](tap-22/README.md) | Ba Mit giữ nhà · Canh chua cá linh bông điên điển & nồi cơm cháy |
 | 23 | [tap-23/](tap-23/README.md) | Cá rô đồng kho tộ tóp mỡ · Ba Mit tưởng rớt tiền công khuân sầu riêng, hóa ra giắt trên khăn rằn |
+| 24 | [tap-24/](tap-24/README.md) | Chiếc áo bà ba vá vai ngày gió chướng & Nồi chè đậu trắng đặc quánh của ba Mit |
+| 25 | [tap-25/](tap-25/README.md) | Đôi dép đứt quai của Nở & Bánh xèo củ hủ dừa của ba Mit |
+| 26 | [tap-26/](tap-26/README.md) | Ốc bươu đồng hấp sả chấm mắm gừng & Chiếc đèn dầu hột vịt ba Mit thức khuya đan cặp giỏ lát cho Nở |
 
 ## Tập 20 (`tap-20`)
 

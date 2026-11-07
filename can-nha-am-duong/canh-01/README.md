@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Inside the dimly lit sleeper bus cabin by the rain-streaked glass window where @Binh clutches his black backpack as amber highway lights sweep past.
 - **Đạo cụ chính:** Sleeper coach bus window streaked with rain, worn plush passenger seat, black backpack, glowing smartphone screen showing a liquidated trading account.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Binh` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Ôm món nợ bốn trăm triệu không lối thoát, Bình bỏ trốn về căn nhà hoang ông nội." | 24mm stabilized aerial drone slow descending push-in |
-| [**Clip 2**](clip-2.md) | `@Binh` | `VO` | `RISING_DREAD` | **18 từ** | "Nhưng Bình đâu biết sau vụ tai nạn sáu mạng người, căn nhà đã thành nơi ma trú." | 35mm stabilized gimbal slow creeping push-in |
-| [**Clip 3**](clip-3.md) | `@Binh` | `LIPSYNC:@Binh` | `RISING_DREAD` | **18 từ** | "Con nghe đây mẹ ơi… Con đang trên xe về quê, mẹ đừng gọi nhiều người ta nghe." | 50mm stabilized medium close-up shot |
-| [**Clip 4**](clip-4.md) | `@BaPhuong` | `LIPSYNC:@BaPhuong` | `RISING_DREAD` | **18 từ** | "Bố mày chưa biết đâu… Nhưng chủ nợ sắp tới rồi, về quê phải cẩn thận con nhé!" | 50mm stabilized medium close-up slow push-in |
-| [**Clip 5**](clip-5.md) | `@Binh` | `VO` | `RISING_DREAD` | **18 từ** | "Tất cả bắt nguồn từ bẫy tiền ảo… chỉ sau một đêm mất trắng, nợ lãi chồng chất." | 35mm stabilized over-the-shoulder tilt-down push-in |
-| [**Clip 6**](clip-6.md) | `@Binh` | `VO` | `RISING_DREAD` | **18 từ** | "Không dám nhìn mặt bố, Bình đánh liều về quê mà chẳng ngờ đang bước vào cõi âm." | 35mm stabilized slow dolly pull-back |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@Binh` | `VO` | **24** | `0.4–6.4s` | "Ôm món nợ hơn bốn trăm triệu đồng không lối thoát, Bình đành bỏ trốn trong đêm về căn nhà hoang của ông nội." | 24mm stabilized aerial drone slow descending push-in | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Binh` | `VO` | **25** | `0.4–6.7s` | "Nhưng Bình đâu hề biết sau vụ tai nạn cướp đi sáu mạng người, căn nhà ấy đã thành nơi trú ngụ của ma quỷ." | 35mm stabilized gimbal slow creeping push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@Binh` | `LIPSYNC:@Binh` | **24** | `0.4–6.4s` | "Con nghe đây mẹ ơi, con đang ngồi trên xe khách về quê nội rồi, mẹ đừng gọi nhiều nhỡ người ta nghe thấy." | 50mm stabilized medium close-up shot | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@BaPhuong` | `LIPSYNC:@BaPhuong` | **25** | `0.4–6.7s` | "Bố mày vẫn chưa biết chuyện đâu, nhưng đám chủ nợ sắp tìm tới nhà rồi, mày về quê nội phải thật cẩn thận nhé!" | 50mm stabilized medium close-up slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 5**](clip-5.md) | `@Binh` | `VO` | **24** | `0.4–6.4s` | "Tất cả bi kịch bắt nguồn từ cái bẫy tiền ảo trên mạng, chỉ sau một đêm mất trắng mà nợ lãi chồng chất." | 35mm stabilized over-the-shoulder tilt-down push-in | Ingredients: ảnh nhân vật |
+| [**Clip 6**](clip-6.md) | `@Binh` | `VO` | **24** | `0.4–6.4s` | "Không còn mặt mũi nào nhìn bố, Bình đánh liều trốn về quê mà chẳng ngờ mình đang tự bước chân vào cõi âm." | 35mm stabilized slow dolly pull-back | Frames: nối khung cuối clip trước |

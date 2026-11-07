@@ -3,8 +3,8 @@
 HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT NÂNG CAO CHO "OÁN THAI ĐÒI MẸ: BÚP BÊ ĐẤT NUNG":
 1. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK): Tự động tạo/lấy & khóa chính xác media_id của @Bach, @Ha, @ThayPhong, @BaLua từ Google Flow Project.
 2. MỖI CLIP 10 GIÂY (10.0s) VỚI MODEL GOOGLE FLOW OMNI (omni_flash, 10s Ingredients Reference-to-Video):
-   - Chuẩn 80% Người dẫn chuyện VO (VOICE_LOCK_NARRATOR_OANTHAI, nhân vật trên hình khép miệng) + 20% Thoại nhân vật bất ngờ (Lip-Sync).
-   - Khóa chặt danh tính nhân vật trực tiếp qua Ingredients R2V (/api/flow/generate-video-omni) với đúng các nhân vật xuất hiện trong khung hình ([CHARACTERS]).
+   - Chuẩn 80% Người dẫn chuyện VO (VOICE_LOCK_NARRATOR_OANTHAI, đọc nhanh liên thanh 1.35x–1.45x / 220–255 âm tiết/phút + boost_clip_voice_speed 1.18x, nhân vật trên hình khép miệng) + 20% Thoại nhân vật bất ngờ (Lip-Sync).
+   - Khóa chặt danh tính nhân vật trực tiếp qua Ingredients R2V (/api/flow/generate-video-omni) với đúng các nhân vật xuất hiện trong khung hình ([2. CHARACTER & VOICE LOCK]).
 3. Tự động đặt tên clip trên Google Flow theo cảnh ([CẢNH XX - CLIP YY]) và tải ngay về máy + đồng bộ Cloudflare R2 & D1 khi hoàn thành.
 4. Tự động đồng bộ thời gian thực với Console Dashboard UI (SQLite flow_agent.db).
 """
@@ -14,7 +14,9 @@ import re
 import sys
 import time
 import json
+import base64
 import sqlite3
+import subprocess
 import requests
 from datetime import datetime, timezone
 
@@ -27,6 +29,8 @@ from cms_integration import (
     find_episode_clip_mp4s,
     force_rename_clip_on_flow,
     is_clip_completed_in_db,
+    is_clip_failed_in_db,
+    persist_updated_prompt,
     mark_clip_failed_in_db,
     trim_studio_reference_frames,
 )
@@ -59,6 +63,34 @@ os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
 os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
+# 🎙️ QUY ĐỊNH & KHÓA CỐ ĐỊNH GIỌNG ĐỌC NGƯỜI DẪN CHUYỆN (NARRATOR VOICE LOCK — CHUẨN MIỀN BẮC)
+# -------------------------------------------------------------
+NARRATOR_VOICE_SPEC = {
+    "voice_lock_id": "VOICE_LOCK_NARRATOR_OANTHAI",
+    "role": "Người Dẫn Chuyện (Off-Screen Male Horror Narrator — Single Consistent Fast Voice Across All 84 Clips)",
+    "style_reference": "42–48-year-old native Standard Northern Vietnamese male storyteller, sharp energetic mid-baritone (~120 Hz), RAPID-FIRE continuous ghost-story pace (1.35x–1.45x / 220–255 syllables/min, zero pauses)",
+    "gender_age": "42–48-year-old native Standard Northern Vietnamese male storyteller (Nam trung niên 42–48 tuổi chuẩn giọng miền Bắc — đọc nhanh liên thanh sắc bén)",
+    "acoustic_profile": (
+        "Sharp, energetic, resonant mid-baritone (~120 Hz) with crisp Northern consonant attack, "
+        "RAPID-FIRE, CONTINUOUS late-night Vietnamese ghost-story delivery, target speaking speed of 220–255 Vietnamese syllables per minute (1.35x–1.45x rapid continuous tempo) "
+        "with zero mid-sentence pauses, zero slow drawl or dragged-out vowels, crisp Northern Vietnamese phonology (s/x, tr/ch, r/d/gi) "
+        "and authentic 6-tone Northern cadence."
+    ),
+    "strict_rules": (
+        "1. Use one consistent native Standard Northern Vietnamese male narrator (VOICE_LOCK_NARRATOR_OANTHAI, 42–48yo sharp resonant mid-baritone ~120 Hz) across all 84 clips. "
+        "2. Speak at a VERY FAST, RAPID-FIRE continuous pace of 220–255 Vietnamese syllables per minute (1.35x–1.45x speed, finishing inside 0.2s–5.8s with zero mid-sentence pauses); never speak slowly or drag out words, and never switch narrator gender, accent, or vocal identity. "
+        "3. During off-screen narration (VO), all on-screen characters keep their mouths naturally closed (0.0s–10.0s)."
+    ),
+    "prompt_directive": (
+        "Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller "
+        "(VOICE_LOCK_NARRATOR_OANTHAI): Sharp, energetic mid-baritone (~120 Hz), crisp consonant attack, "
+        "RAPID-FIRE, CONTINUOUS late-night Vietnamese ghost-story delivery at 220–255 Vietnamese syllables per minute (1.35x–1.45x speed, zero mid-sentence pauses). "
+        "Strictly maintain consistent accent, timbre, vocal identity, and rapid-fire tempo across all 84 clips; "
+        "never slow down, never switch gender or accent, and keep all on-screen mouths naturally closed during VO."
+    ),
+}
+
+# -------------------------------------------------------------
 # 🔒 BẢNG ĐỊNH NGHĨA & KHÓA 4 NHÂN VẬT CỐ ĐỊNH CỦA SERIES (OÁN THAI ĐÒI MẸ)
 # -------------------------------------------------------------
 CHARACTER_SPECS = [
@@ -66,7 +98,9 @@ CHARACTER_SPECS = [
         "key": "Bach",
         "tag": "@Bach",
         "aliases": ["@Bach", "@Bách", "Bách", "Trần Nguyên Bách", "Bach"],
-        "default_media_id": "",
+        "default_media_id": "13fef96f-3dc8-4e4b-8960-17d39f1949e2",
+        "voice_lock": "VOICE_LOCK_BACH_OANTHAI",
+        "voice_profile": "Fixed 30-year-old native Standard Northern Vietnamese male voice (~128 Hz warm mid-baritone), breathless, urgent, and fiercely protective in horror moments (giọng nam 30 tuổi chuẩn miền Bắc, gấp gáp, quyết liệt).",
         "description": "Nam kỹ sư quét 3D không gian 30 tuổi; cao 175 cm, dáng gầy săn chắc, gương mặt góc cạnh lo âu, đeo kính gọng kim loại mảnh, tóc đen ngắn rẽ ngôi tự nhiên, mặc áo khoác gió màu xám than bên ngoài áo thun đen, cầm máy quét 3D LiDAR cầm tay.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Bach, a 30-year-old Vietnamese male 3D spatial scanning engineer, "
@@ -80,6 +114,8 @@ CHARACTER_SPECS = [
         "tag": "@Ha",
         "aliases": ["@Ha", "@Hà", "Hà", "Lê Thanh Hà", "Ha"],
         "default_media_id": "",
+        "voice_lock": "VOICE_LOCK_HA_OANTHAI",
+        "voice_profile": "Fixed 28-year-old native Standard Northern Vietnamese female voice (~215 Hz lyrical mezzo-soprano), shifting from gentle maternal warmth to an eerie trance whisper or raw terror (giọng nữ 28 tuổi chuẩn miền Bắc, ma mị hoặc hoảng loạn).",
         "description": "Nữ nghệ nhân phục chế gốm cổ 28 tuổi đang mang thai tháng thứ 7; cao 162 cm, gương mặt trái xoan dịu dàng nhưng xanh xao, tóc đen dài búi thấp cài trâm gỗ, mặc váy bầu vải đũi màu kem nhạt khoác tạp dề vải bố nâu lấm đất sét khô.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Ha, a 28-year-old pregnant Vietnamese female antique ceramic conservator "
@@ -92,7 +128,9 @@ CHARACTER_SPECS = [
         "key": "ThayPhong",
         "tag": "@ThayPhong",
         "aliases": ["@ThayPhong", "Thầy Phong", "ThayPhong"],
-        "default_media_id": "",
+        "default_media_id": "74af64e4-a09f-4432-8707-fcd08ad77209",
+        "voice_lock": "VOICE_LOCK_THAYPHONG_OANTHAI",
+        "voice_profile": "Fixed 36-year-old native Standard Northern Vietnamese male voice (~105 Hz resonant authoritative low-baritone), commanding, sharp, spiritual gravitas (giọng pháp sư 36 tuổi chuẩn miền Bắc, đanh thép, uy nghiêm).",
         "description": "Nhà nghiên cứu cổ tự và pháp sư trấn yểm 36 tuổi; cao 174 cm, dáng điềm tĩnh sắc lạnh, tóc đen cắt gọn, mặc áo sơ mi cổ tàu màu chàm tối, cổ tay trái đeo chuỗi hạt gỗ mun 108 hạt, cầm la bàn đồng phong thủy cổ.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @ThayPhong, a 36-year-old Vietnamese folklore scholar and Taoist ritual master, "
@@ -106,6 +144,8 @@ CHARACTER_SPECS = [
         "tag": "@BaLua",
         "aliases": ["@BaLua", "Bà Lụa", "BaLua"],
         "default_media_id": "",
+        "voice_lock": "VOICE_LOCK_BALUA_OANTHAI",
+        "voice_profile": "Silent apparition on screen (mouth remains naturally closed, communicating purely through tragic maternal gestures).",
         "description": "Vong hồn người thợ gốm truyền thống năm 1996, 32 tuổi; cao 158 cm, gương mặt gầy u buồn phủ tro bếp xám trắng, tóc đen dài xõa che nửa má, mặc áo cánh nâu sồng truyền thống và quần đen lấm đất sét khô, hai bàn tay nứt nẻ.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @BaLua, a 32-year-old traditional Northern Vietnamese female potter from the 1990s, "
@@ -284,20 +324,28 @@ def load_and_lock_project_characters(force_remote: bool = False):
         pass
 
     box_items = [("Project ID", PROJECT_ID)]
+    box_items.append((
+        "🎙️ Giọng Dẫn Chuyện (VO 80%)",
+        f"{NARRATOR_VOICE_SPEC['voice_lock_id']} — {NARRATOR_VOICE_SPEC['style_reference']}",
+    ))
     for spec in CHARACTER_SPECS:
         tag = spec["tag"]
         mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag, "Chưa có (sẽ tự tạo khi chạy)")
-        box_items.append((f"Nhân Vật {tag}", f"media_id = {mid}"))
+        vlock = spec.get("voice_lock", "")
+        box_items.append((f"Nhân Vật {tag}", f"media_id = {mid} | {vlock}"))
     box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Google Flow Omni — {CLIP_DURATION_S}s/clip)"))
     box_items.append(("Chế Độ Khóa", "Ingredients R2V (/api/flow/generate-video-omni 10s)"))
-    print_box("🔒 ĐÃ KHÓA 4 NHÂN VẬT & CẤU HÌNH GOOGLE FLOW OMNI 10S", box_items)
+    print_box("🔒 ĐÃ KHÓA 4 NHÂN VẬT, GIỌNG NGƯỜI DẪN CHUYỆN & CẤU HÌNH GOOGLE FLOW OMNI 10S", box_items)
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
-    """Chỉ lấy đúng media_id của các nhân vật được khai báo đầu dòng trong khối [CHARACTERS] của shot hiện tại."""
-    if "[CHARACTERS" in prompt:
-        char_block = prompt.split("[CHARACTERS", 1)[1].split("[TIMELINE", 1)[0]
-        defined_tags = re.findall(r"^(@[A-Za-z0-9_]+)\s*=", char_block, flags=re.MULTILINE)
+    """Chỉ lấy đúng media_id của các nhân vật được khai báo đầu dòng trong khối [2. CHARACTER & VOICE LOCK] hoặc [CHARACTERS] của shot hiện tại."""
+    if "[2. CHARACTER & VOICE LOCK]" in prompt or "[CHARACTERS" in prompt:
+        if "[2. CHARACTER & VOICE LOCK]" in prompt:
+            char_block = prompt.split("[2. CHARACTER & VOICE LOCK]", 1)[1].split("[3. SCENE & SPATIAL LOCK]", 1)[0]
+        else:
+            char_block = prompt.split("[CHARACTERS", 1)[1].split("[TIMELINE", 1)[0]
+        defined_tags = re.findall(r"^(?:-\s*)?(@[A-Za-z0-9_]+)\s*=", char_block, flags=re.MULTILINE)
         selected = []
         for tag in defined_tags:
             mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag)
@@ -325,22 +373,29 @@ def get_clip_reference_media_ids(prompt: str) -> list:
 def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES):
     """Đồng bộ tức thì cms_channel, cms_episode (14 cảnh), cms_clip (84 clips), project, character, video, scene vào SQLite (flow_agent.db)."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
-    log("🔄 Đang đồng bộ cơ sở dữ liệu 'Oán Thai Đòi Mẹ' với Console Dashboard UI (Google Flow Omni 10s)...")
+    log("🔄 Đang đồng bộ cơ sở dữ liệu 'Oán Thai Đòi Mẹ: Búp Bê Đất Nung' với Console Dashboard UI...")
 
     db_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "flow_agent.db")
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
     try:
         conn = sqlite3.connect(db_path, timeout=30)
+        # Dọn các dòng ID cũ bị sai chuẩn (oan-thai-doi-me_ep_XXX) nếu có
+        conn.execute("DELETE FROM cms_clip WHERE channel_slug = ? AND id LIKE ?", (CHANNEL_SLUG, f"{CHANNEL_SLUG}_ep_%"))
+        conn.execute("DELETE FROM cms_episode WHERE channel_slug = ? AND id LIKE ?", (CHANNEL_SLUG, f"{CHANNEL_SLUG}_ep_%"))
+
         conn.execute(
             """INSERT INTO project (id, name, description, story, material, status, user_paygate_tier, video_model_family)
                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                ON CONFLICT(id) DO UPDATE SET
+                 name=excluded.name,
+                 description=excluded.description,
+                 story=excluded.story,
                  video_model_family=excluded.video_model_family""",
             (
                 PROJECT_ID,
-                "Oán Thai Đòi Mẹ: Búp Bê Đất Nung",
-                "Phim ngắn kinh dị tâm linh 14 phút (16:9, 14 cảnh × 6 clips × 10s — Google Flow Omni, 80% VO + 20% Lip-Sync).",
-                "Bách mang pho tượng đất nung không mắt từ lò gốm cổ ven sông Hồng về nhà; người vợ mang thai Hà lỡ tay trám mất ấn chú sau lưng tượng và điểm mắt lúc 2 giờ sáng.",
+                "Oán Thai Đòi Mẹ: Búp Bê Đất Nung (HẺM Truyện Ma — MC Đình Soạn)",
+                "Phim ngắn kinh dị tâm linh dân gian Bắc Bộ 14 phút (16:9, 14 cảnh × 6 clips × 10s = 84 clips — Google Flow Omni 10s, 80% VO MC Đình Soạn VOICE_LOCK_NARRATOR_OANTHAI + 20% Lip-Sync).",
+                "Bách mang pho tượng đất nung không mắt từ lò gốm cổ cuối bãi tha ma ven sông về nhà; người vợ mang thai Hà lỡ tay trám mất ấn chú sau lưng tượng và điểm mắt lúc 2 giờ sáng.",
                 "realistic",
                 "ACTIVE",
                 "PAYGATE_TIER_TWO",
@@ -356,7 +411,9 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     "name": spec["tag"].lstrip("@"),
                     "default_media_id": mid,
                     "locked_media_id": mid,
-                    "description": spec["description"],
+                    "voice_lock": spec.get("voice_lock", ""),
+                    "voice_profile": spec.get("voice_profile", ""),
+                    "description": f"{spec['description']} | Giọng ({spec.get('voice_lock', '')}): {spec.get('voice_profile', '')}",
                     "ref_prompt": spec["ref_prompt"],
                 }
             )
@@ -393,13 +450,13 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                  updated_at=excluded.updated_at""",
             (
                 CHANNEL_SLUG,
-                "Oán Thai Đòi Mẹ: Búp Bê Đất Nung",
+                "Oán Thai Đòi Mẹ: Búp Bê Đất Nung (HẺM Truyện Ma — MC Đình Soạn)",
                 PROJECT_ID,
                 ASPECT_RATIO,
                 "runners/oan_thai_doi_me.py",
                 "oan-thai-doi-me",
                 "canh",
-                "Phim ngắn kinh dị tâm linh 14 phút lấy cảm hứng từ Oán Thai Đòi Mẹ (Mudborn): Bách mang pho tượng đất nung không mắt từ lò gốm cổ ven sông Hồng về nhà, người vợ mang thai Hà lỡ tay trám mất ấn chú sau lưng tượng và điểm mắt lúc 2 giờ sáng (16:9, 14 cảnh × 6 clips × 10s = 84 clips — Google Flow Omni 10s, 80% Người dẫn chuyện VO + 20% Thoại nhân vật bất ngờ, Giọng Chuẩn Bắc).",
+                "Phim ngắn kinh dị tâm linh dân gian Bắc Bộ 14 phút lấy cảm hứng từ Oán Thai Đòi Mẹ (Mudborn): Bách mang pho tượng đất nung không mắt từ lò gốm cổ ven sông về nhà, người vợ mang thai Hà lỡ tay trám mất ấn chú sau lưng tượng và điểm mắt lúc 2 giờ sáng (16:9, 14 cảnh × 6 clips × 10s = 84 clips — Google Flow Omni 10s, 80% VO VOICE_LOCK_NARRATOR_OANTHAI đọc nhanh liên thanh 1.35x–1.45x + 20% Lip-Sync).",
                 json.dumps(chars_json, ensure_ascii=False),
                 now_iso,
             ),
@@ -416,8 +473,8 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             (
                 CURRENT_VIDEO_ID,
                 PROJECT_ID,
-                "Oán Thai Đòi Mẹ: Búp Bê Đất Nung (14 Phút — Cảnh 01 - 14 | Omni 10s)",
-                "Phim ngắn kinh dị tâm linh 14 Cảnh × 6 Clips × 10s (Google Flow Omni 10s, 80% VO + 20% Lip-Sync)",
+                "Oán Thai Đòi Mẹ: Búp Bê Đất Nung (14 Phút — Cảnh 01 - 14 | MC Đình Soạn HẺM Truyện Ma)",
+                "Phim ngắn kinh dị tâm linh 14 Cảnh × 6 Clips × 10s = 84 Clips (80% VO MC Đình Soạn + 20% Lip-Sync)",
                 "HORIZONTAL",
                 "PROCESSING",
             ),
@@ -430,7 +487,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
         order = 0
         for s in range(1, TOTAL_SCENES + 1):
             folder_name = f"canh-{s:02d}"
-            ep_id = f"{CHANNEL_SLUG}_ep_{s:03d}"
+            ep_id = f"{CHANNEL_SLUG}:ep:{s}"
             conn.execute(
                 """INSERT INTO cms_episode
                    (id, channel_slug, project_id, episode_num, folder_name, label, total_clips, rendered_clips, is_complete, updated_at)
@@ -451,7 +508,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     with open(fpath, "r", encoding="utf-8") as f:
                         prompt_full = f.read().strip()
 
-                clip_id = f"{CHANNEL_SLUG}_ep_{s:03d}_clip_{c:02d}"
+                clip_id = f"{CHANNEL_SLUG}:ep:{s}:clip:{c}"
                 conn.execute(
                     """INSERT INTO cms_clip
                        (id, channel_slug, project_id, episode_num, folder_name, clip_num, prompt, status, duration_s, updated_at)
@@ -464,7 +521,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                     (clip_id, CHANNEL_SLUG, PROJECT_ID, s, folder_name, c, prompt_full, float(CLIP_DURATION_S), now_iso),
                 )
 
-                sid = existing.get(order) or f"sc-otdm-{s:02d}-{c:02d}"
+                sid = existing.get(order) or f"scene-otdm-{s:02d}-{c:02d}"
                 conn.execute(
                     """INSERT INTO scene (id, video_id, display_order, chain_type, duration, prompt, video_prompt, character_names, horizontal_video_status)
                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, 'PENDING')
@@ -488,7 +545,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
 
         conn.commit()
         conn.close()
-        log(f"✅ Đã đồng bộ Console DB thành công! ({len(CHARACTER_SPECS)} nhân vật, {TOTAL_SCENES} cảnh & {len(SCENE_DB_MAP)} clips × {CLIP_DURATION_S}s Omni sẵn sàng)")
+        log(f"✅ Đã đồng bộ Console DB thành công! ({len(CHARACTER_SPECS)} nhân vật, {TOTAL_SCENES} cảnh & {len(SCENE_DB_MAP)} clips sẵn sàng)")
     except Exception as e:
         log(f"⚠️ Lỗi khi đồng bộ DB Dashboard: {e}")
 
@@ -516,8 +573,163 @@ def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
     return rewrite_prompt_on_failure(prompt, attempt, CHARACTER_SPECS, ASPECT_RATIO)
 
 
+def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
+    """Trích xuất khung hình cuối cùng của clip bằng ffmpeg làm start frame [Bắt đầu] cho clip kế tiếp."""
+    if not video_source:
+        return None
+    out_frame = os.path.join(FRAMES_DIR, f"canh_{scene_num:02d}_clip_{clip_num:02d}_last.jpg")
+    log(f"🎬 Dùng ffmpeg cắt khung hình cuối (Last Frame) của Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
+    try:
+        cmd = [
+            "ffmpeg", "-y",
+            "-sseof", "-0.2",
+            "-i", video_source,
+            "-frames:v", "1",
+            "-q:v", "2",
+            out_frame,
+        ]
+        result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
+        if result.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
+            size_kb = os.path.getsize(out_frame) / 1024
+            print_box(
+                "🖼️ ĐÃ TRÍCH XUẤT KHUNG HÌNH CUỐI THÀNH CÔNG",
+                [
+                    ("Clip Nguồn", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
+                    ("File Ảnh Nối Cảnh", os.path.basename(out_frame)),
+                    ("Đường Dẫn Lưu", out_frame),
+                    ("Dung Lượng Ảnh", f"{size_kb:.1f} KB"),
+                    ("Mục Đích Sử Dụng", f"Chèn vào slot [Bắt đầu] cho Clip {clip_num + 1:02d} (Seamless Match-On-Action)"),
+                ],
+            )
+            return out_frame
+        else:
+            cmd_fallback = [
+                "ffmpeg", "-y",
+                "-ss", "00:00:09.5",
+                "-i", video_source,
+                "-frames:v", "1",
+                "-q:v", "2",
+                out_frame,
+            ]
+            res_fb = subprocess.run(cmd_fallback, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
+            if res_fb.returncode == 0 and os.path.exists(out_frame) and os.path.getsize(out_frame) > 0:
+                log(f"✨ Trích xuất khung hình cuối thành công (fallback 9.5s): {os.path.basename(out_frame)}")
+                return out_frame
+            else:
+                log(f"⚠️ ffmpeg không trích xuất được frame: {result.stderr.decode('utf-8', errors='ignore')[:200]}")
+                return None
+    except Exception as e:
+        log(f"⚠️ Lỗi khi trích xuất frame cuối: {e}")
+        return None
+
+
+def upload_start_frame(image_path: str) -> str:
+    """Tải khung hình cuối vừa cắt lên Google Flow để chèn vào slot [Bắt đầu] (Start Frame) của clip kế tiếp."""
+    if not image_path or not os.path.exists(image_path):
+        return None
+    url = f"{FLOWKIT_API}/api/flow/upload-image"
+    try:
+        with open(image_path, "rb") as f:
+            b64_str = base64.b64encode(f.read()).decode("utf-8")
+
+        payload = {
+            "image_base64": b64_str,
+            "project_id": PROJECT_ID,
+            "file_name": os.path.basename(image_path),
+            "mime_type": "image/jpeg",
+        }
+        res = requests.post(url, json=payload, timeout=45)
+        if res.status_code == 200:
+            res_json = res.json()
+            media_id = (
+                res_json.get("media_id")
+                or res_json.get("_mediaId")
+                or (res_json.get("data") or {}).get("media_id")
+                or ((res_json.get("data") or {}).get("media") or {}).get("name")
+            )
+            print_box(
+                "📤 ĐÃ TẢI ẢNH CUỐI & CHÈN VÀO GOOGLE FLOW [BẮT ĐẦU]",
+                [
+                    ("Media ID", media_id),
+                    ("File Ảnh Nối", os.path.basename(image_path)),
+                    ("Slot Kích Hoạt", "Khung hình [Bắt đầu] (Start Frame) cho Clip tiếp theo"),
+                    ("Trạng Thái", "Sẵn sàng Image-to-Video Omni Flash 10s (16:9) ✅"),
+                ],
+            )
+            return media_id
+        else:
+            log(f"⚠️ Upload start frame thất bại (HTTP {res.status_code}): {res.text[:200]}")
+            return None
+    except Exception as e:
+        log(f"⚠️ Ngoại lệ khi upload start frame: {e}")
+        return None
+
+
+def load_previous_last_frame(scene_num: int, prev_clip_num: int) -> str:
+    """Lấy (hoặc trích xuất từ video đã có trên máy/R2) khung hình cuối của clip trước và upload lên Google Flow."""
+    cached_frame = os.path.join(FRAMES_DIR, f"canh_{scene_num:02d}_clip_{prev_clip_num:02d}_last.jpg")
+    if os.path.exists(cached_frame) and os.path.getsize(cached_frame) > 0:
+        log(f"🔗 Dùng lại frame cuối đã cắt của Cảnh {scene_num:02d} - Clip {prev_clip_num:02d}: {os.path.basename(cached_frame)}")
+        return upload_start_frame(cached_frame)
+
+    for cn, mp4_path in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, scene_num, f"canh-{scene_num:02d}"):
+        if cn == prev_clip_num and os.path.exists(mp4_path):
+            frame_path = extract_last_frame(mp4_path, scene_num, prev_clip_num)
+            return upload_start_frame(frame_path) if frame_path else None
+
+    r2_url = is_clip_completed_in_db(CHANNEL_SLUG, scene_num, prev_clip_num)
+    if r2_url and str(r2_url).startswith("http"):
+        frame_path = extract_last_frame(r2_url, scene_num, prev_clip_num)
+        return upload_start_frame(frame_path) if frame_path else None
+
+    return None
+
+
+def boost_clip_voice_speed(video_path: str, tempo: float = 1.18) -> bool:
+    """
+    Tăng tốc độ giọng đọc dẫn truyện / thoại trong clip thêm +18% (atempo=1.18, giữ nguyên cao độ giọng Nam miền Bắc)
+    mà vẫn giữ nguyên 100% khung hình video 10.0s (-c:v copy) bằng cách nối mượt phần đuôi âm thanh môi trường.
+    """
+    if not video_path or not os.path.exists(video_path) or tempo <= 1.01:
+        return False
+    out_tmp = f"{video_path}.fast.mp4"
+    try:
+        probe = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", video_path],
+            capture_output=True, text=True, timeout=15,
+        )
+        dur = float((probe.stdout or "10.0").strip() or "10.0")
+        tail_start = max(0.0, dur - 2.4)
+        af_complex = (
+            f"[0:a]atempo={tempo:.2f}[afast];"
+            f"[0:a]atrim=start={tail_start:.2f}:end={dur:.2f},asetpts=PTS-STARTPTS,volume=0.85[atail];"
+            f"[afast][atail]acrossfade=d=0.35:c1=tri:c2=tri,atrim=0:{dur:.3f},asetpts=PTS-STARTPTS[aout]"
+        )
+        cmd = [
+            "ffmpeg", "-y", "-i", video_path,
+            "-filter_complex", af_complex,
+            "-map", "0:v:0", "-map", "[aout]",
+            "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
+            "-movflags", "+faststart", out_tmp,
+        ]
+        res = subprocess.run(cmd, capture_output=True, text=True, timeout=45)
+        if res.returncode == 0 and os.path.exists(out_tmp) and os.path.getsize(out_tmp) > 10000:
+            os.replace(out_tmp, video_path)
+            log(f"⚡ Đã tăng tốc độ giọng đọc thêm {tempo:.2f}x (atempo={tempo:.2f}, giữ nguyên cao độ & khung hình {dur:.1f}s).")
+            return True
+    except Exception as e:
+        log(f"⚠️ Không thể tăng tốc audio sau tải ({e}), giữ nguyên audio gốc.")
+    finally:
+        if os.path.exists(out_tmp):
+            try:
+                os.remove(out_tmp)
+            except Exception:
+                pass
+    return False
+
+
 def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> str:
-    """Tải ngay lập tức video 10s (Omni) về máy và đồng bộ lên Cloudflare R2 & D1."""
+    """Tải ngay lập tức video 10s (Omni) về máy, tăng tốc nhịp đọc 1.18x, cắt ảnh cuối và đồng bộ lên Cloudflare R2 & D1."""
     scene_folder = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{scene_num:02d}")
     os.makedirs(scene_folder, exist_ok=True)
 
@@ -536,12 +748,16 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                         f.write(chunk)
             os.replace(tmp_path, target_path)
             trim_studio_reference_frames(target_path, log_fn=log)
+            voice_tempo = float(os.environ.get("FLOWKIT_VOICE_TEMPO", "1.18") or "1.18")
+            boost_clip_voice_speed(target_path, tempo=voice_tempo)
+            frame_path = extract_last_frame(target_path, scene_num, clip_num)
             size_mb = os.path.getsize(target_path) / (1024 * 1024)
             r2_sync = sync_clip_to_r2_and_d1(
                 channel_slug=CHANNEL_SLUG,
                 ep_num=scene_num,
                 clip_num=clip_num,
                 local_video_path=target_path,
+                frame_path=frame_path,
                 ep_folder_name=f"canh-{scene_num:02d}",
                 project_id=PROJECT_ID,
             )
@@ -590,15 +806,53 @@ def fetch_media_video_url(media_id: str) -> str:
     return None
 
 
+def enforce_narrator_and_voice_lock(prompt: str) -> str:
+    """
+    Đảm bảo 100% mọi prompt gửi lên Google Flow đều có quy định khóa chặt Giọng Người Dẫn Chuyện
+    (VOICE_LOCK_NARRATOR_OANTHAI — Nam 42–48 tuổi chuẩn miền Bắc, đọc nhanh liên thanh 1.35x–1.45x / 220–255 âm tiết/phút)
+    và giọng thoại nhân vật chuẩn miền Bắc, ngay cả khi prompt được làm mềm (retry).
+    """
+    p = (prompt or "").strip()
+    if NARRATOR_VOICE_SPEC["voice_lock_id"] not in p:
+        narrator_block = (
+            "\n\n[MANDATORY NARRATOR & VOICE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]\n"
+            f"{NARRATOR_VOICE_SPEC['prompt_directive']}\n"
+            f"Strict Voice Rules: {NARRATOR_VOICE_SPEC['strict_rules']}\n"
+        )
+        p = p + narrator_block
+    return p
+
+
 def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
-    flow_prompt = prompt if prompt.startswith(clip_tag) else f"{clip_tag}\n{prompt}"
+    enforced_prompt = enforce_narrator_and_voice_lock(prompt)
+    flow_prompt = enforced_prompt if enforced_prompt.startswith(clip_tag) else f"{clip_tag}\n{enforced_prompt}"
 
-    ref_media_ids = get_clip_reference_media_ids(prompt)
+    ref_media_ids = get_clip_reference_media_ids(enforced_prompt)
+    is_vo_clip = "Off-Screen Male Narrator" in enforced_prompt or "VOICE_LOCK_NARRATOR_OANTHAI | speaking off-screen" in enforced_prompt
+    voice_mode_desc = (
+        f"🎙️ VO Người Dẫn Chuyện ({NARRATOR_VOICE_SPEC['voice_lock_id']} — Nam 42–48t chuẩn Bắc 1.35x–1.45x, nhân vật khép miệng)"
+        if is_vo_clip
+        else "🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync chuẩn miền Bắc, khớp khẩu hình)"
+    )
 
-    if ref_media_ids:
+    if start_image_media_id:
+        endpoint = "/api/flow/generate-video"
+        mode = "🔗 Image-to-Video (Nối tiếp khung hình cuối Clip trước vào slot [Bắt đầu])"
+        slot_desc = f"Start Frame [Bắt đầu] = {start_image_media_id}"
+        payload = {
+            "start_image_media_id": start_image_media_id,
+            "prompt": flow_prompt,
+            "project_id": PROJECT_ID,
+            "scene_id": sid,
+            "duration_s": CLIP_DURATION_S,
+            "model_family": VIDEO_MODEL_FAMILY,
+            "resolution": "720p",
+            "aspect_ratio": ASPECT_RATIO,
+        }
+    elif ref_media_ids:
         endpoint = "/api/flow/generate-video-omni"
         mode = f"🔒 Ingredients Reference-to-Video (Khóa {len(ref_media_ids)} nhân vật gốc trên Google Flow)"
         slot_desc = f"Ingredients Refs = {', '.join(ref_media_ids)}"
@@ -632,6 +886,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             ("Phân Cảnh", f"Cảnh {scene_num:02d} - Clip {clip_num:02d}"),
             ("Chế Độ Tạo", mode),
             ("Khóa Hình Ảnh / Nhân Vật", slot_desc),
+            ("Quy Định Giọng Đọc", voice_mode_desc),
             ("Thời Lượng", f"{CLIP_DURATION_S} giây (Omni Flash 10s)"),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", ASPECT_RATIO),
@@ -709,7 +964,6 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 
                     for op in inner_ops:
                         op_status = op.get("status", "")
-                        op_complaint = op.get("complaint") or ""
                         if op_status == "MEDIA_GENERATION_STATUS_SUCCESSFUL":
                             op_meta = op.get("operation", {}).get("metadata", {}).get("video", {})
                             if not op_meta:
@@ -719,10 +973,6 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                                 video_url = v_url
                             op_media_id = op_meta.get("mediaId")
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
-                            has_failed = True
-                            all_done = False
-                        elif elapsed >= 75 and "Media not found" in op_complaint:
-                            log(f"⚠️ Sau {elapsed}s job vẫn báo '{op_complaint}' — chuyển sang làm mềm prompt ngay!")
                             has_failed = True
                             all_done = False
                         else:
@@ -769,20 +1019,42 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
     return {"success": False, "error": "TIMEOUT"}
 
 
-def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 2):
+def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 4):
     current_prompt = initial_prompt
+    key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
+    sid = SCENE_DB_MAP.get(key)
+    ep_folder = f"canh-{scene_num:02d}"
+
+    sanitize_level = 0
+    if is_clip_failed_in_db(CHANNEL_SLUG, scene_num, clip_num):
+        sanitize_level = 1
+        log(f"🔧 [PHÁT HIỆN CLIP LỖI TRƯỚC ĐÓ] Tự động cập nhật & làm mềm prompt Cảnh {scene_num:02d} - Clip {clip_num:02d} trước khi chạy lại...")
+        current_prompt = sanitize_prompt(initial_prompt, sanitize_level)
+        persist_updated_prompt(
+            series_dir=SERIES_DIR,
+            channel_slug=CHANNEL_SLUG,
+            ep_num=scene_num,
+            clip_num=clip_num,
+            new_prompt=current_prompt,
+            ep_folder_name=ep_folder,
+            project_id=PROJECT_ID,
+            scene_db_id=sid,
+            attempt=sanitize_level,
+            log_fn=log,
+        )
 
     for attempt in range(1, max_retries + 1):
+        active_start_id = start_image_media_id if attempt <= 2 else None
         if attempt > 1:
-            log(f"🔄 Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} (Lần {attempt}/{max_retries})...")
+            log(f"🔄 Đang chạy lại Cảnh {scene_num:02d} - Clip {clip_num:02d} với prompt đã cập nhật (Lần {attempt}/{max_retries})...")
 
         try:
-            res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+            res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, active_start_id)
             cooldown_loops = 0
             while res.status_code != 200 and cooldown_loops < 5:
                 if wait_if_cooldown_error(res.text, FLOWKIT_API, log):
                     cooldown_loops += 1
-                    res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, start_image_media_id)
+                    res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, active_start_id)
                 else:
                     break
 
@@ -802,11 +1074,27 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
             log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
 
         if attempt < max_retries:
-            log(f"🔧 [ĐỔI PROMPT TỰ ĐỘNG - LẦN THỬ {attempt + 1}/{max_retries}] Đang làm mềm prompt trên bộ nhớ cho Cảnh {scene_num:02d} - Clip {clip_num:02d}...")
-            current_prompt = sanitize_prompt(initial_prompt, attempt)
+            sanitize_level += 1
+            log(
+                f"🔧 [TỰ ĐỘNG CẬP NHẬT PROMPT & CHẠY LẠI - LẦN {attempt + 1}/{max_retries}] "
+                f"Đang làm mềm cấp độ {sanitize_level} & lưu lại file canh-{scene_num:02d}/clip-{clip_num}.md..."
+            )
+            current_prompt = sanitize_prompt(initial_prompt, sanitize_level)
+            persist_updated_prompt(
+                series_dir=SERIES_DIR,
+                channel_slug=CHANNEL_SLUG,
+                ep_num=scene_num,
+                clip_num=clip_num,
+                new_prompt=current_prompt,
+                ep_folder_name=ep_folder,
+                project_id=PROJECT_ID,
+                scene_db_id=sid,
+                attempt=sanitize_level,
+                log_fn=log,
+            )
             time.sleep(5)
 
-    log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN LỖI] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã fail {max_retries} lần — tạm bỏ qua để kiểm tra và tạo lại sau!")
+    log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN THỬ] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã thử {max_retries} cấp độ prompt — sẽ tự động chạy lại ở cuối cảnh!")
     return {"success": False, "video_url": None}
 
 
@@ -842,6 +1130,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
         print(f"👉 BẮT ĐẦU CẢNH {s:02d} (6 Clips × {CLIP_DURATION_S}s — Google Flow Omni 10s)")
         print("#" * 72, flush=True)
 
+        previous_clip_last_frame_media_id = None
         rendered_in_this_run = set()
         scene_dir = os.path.join(SERIES_DIR, f"canh-{s:02d}")
 
@@ -860,6 +1149,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                         f"☁️ [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) Cảnh {s:02d} - Clip {c_idx:02d} "
                         f"đã có video trên R2/D1 ({r2_done}) — bỏ qua!"
                     )
+                    previous_clip_last_frame_media_id = None
                     continue
 
             with open(fpath, "r", encoding="utf-8") as f:
@@ -869,15 +1159,19 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
             progress_pct = (completed_clips / max(1, total_clips)) * 100
             print(
                 f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — "
-                f"CẢNH {s:02d} - CLIP {c_idx:02d} [OMNI 10S R2V | {VIDEO_MODEL_NAME}]",
+                f"CẢNH {s:02d} - CLIP {c_idx:02d} [OMNI 10S | {VIDEO_MODEL_NAME}]",
                 flush=True,
             )
+
+            # Từ Clip 2 trở đi: tự động lấy/cắt khung hình cuối của Clip trước và chèn vào slot [Bắt đầu]
+            if c_idx > 1 and not previous_clip_last_frame_media_id:
+                previous_clip_last_frame_media_id = load_previous_last_frame(s, c_idx - 1)
 
             res = run_clip_with_auto_retry(
                 scene_num=s,
                 clip_num=c_idx,
                 initial_prompt=prompt_content,
-                start_image_media_id=None,
+                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None,
             )
 
             if res["success"] and res.get("video_url"):
@@ -886,9 +1180,17 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                 if local_video:
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
+                frame_path = os.path.join(FRAMES_DIR, f"canh_{s:02d}_clip_{c_idx:02d}_last.jpg")
+                if not os.path.exists(frame_path) or os.path.getsize(frame_path) == 0:
+                    frame_path = extract_last_frame(local_video if local_video else video_url, s, c_idx)
+                has_next_clip = c_idx != clip_indices[-1]
+                previous_clip_last_frame_media_id = (
+                    upload_start_frame(frame_path) if frame_path and has_next_clip else None
+                )
             else:
                 mark_clip_failed_in_db(CHANNEL_SLUG, s, c_idx)
                 log(f"⚠️ [Cảnh {s:02d} - Clip {c_idx:02d}] Đã đánh dấu FAILED để retry sau.")
+                previous_clip_last_frame_media_id = None
 
             log("⏳ Nghỉ 5 giây trước khi tiếp tục clip kế tiếp...")
             time.sleep(5)
@@ -896,7 +1198,10 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
         existing_nums = (
             rendered_in_this_run
             if ONLY_CLIP > 0
-            else {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
+            else (
+                {cn for cn, _ in find_episode_clip_mp4s(OUTPUT_VIDEOS_DIR, s, f"canh-{s:02d}")}
+                | {c_idx for c_idx in clip_indices if is_clip_completed_in_db(CHANNEL_SLUG, s, c_idx)}
+            )
         )
         missing_clips = [
             c_idx
@@ -905,9 +1210,41 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
         ]
         if missing_clips:
             log(
-                f"⏭️ [DANH SÁCH CLIP TẠM BỎ QUA] Cảnh {s:02d} có {len(missing_clips)} clip chưa hoàn tất ({missing_clips}) "
-                "sau 2 lần thử — giữ nguyên kịch bản gốc để kiểm tra và tạo lại sau."
+                f"🔄 [AUTO-UPDATE & RE-RUN CLIP LỖI] Cảnh {s:02d} còn {len(missing_clips)} clip chưa hoàn tất ({missing_clips}) "
+                "— tiến hành tự động cập nhật prompt & chạy lại ngay!"
             )
+            for m_idx in missing_clips:
+                CURRENT_CLIP_NUM = m_idx
+                m_fpath = os.path.join(scene_dir, f"clip-{m_idx}.md")
+                with open(m_fpath, "r", encoding="utf-8") as mf:
+                    m_prompt = mf.read().strip()
+                updated_m_prompt = sanitize_prompt(m_prompt, 2)
+                persist_updated_prompt(
+                    series_dir=SERIES_DIR,
+                    channel_slug=CHANNEL_SLUG,
+                    ep_num=s,
+                    clip_num=m_idx,
+                    new_prompt=updated_m_prompt,
+                    ep_folder_name=f"canh-{s:02d}",
+                    project_id=PROJECT_ID,
+                    scene_db_id=SCENE_DB_MAP.get(f"canh_{s:02d}_clip_{m_idx:02d}"),
+                    attempt=2,
+                    log_fn=log,
+                )
+                prev_start_id = load_previous_last_frame(s, m_idx - 1) if m_idx > 1 else None
+                m_res = run_clip_with_auto_retry(
+                    scene_num=s,
+                    clip_num=m_idx,
+                    initial_prompt=updated_m_prompt,
+                    start_image_media_id=prev_start_id,
+                    max_retries=3,
+                )
+                if m_res["success"] and m_res.get("video_url"):
+                    v_url = m_res["video_url"]
+                    loc_vid = download_and_rename_video(v_url, s, m_idx)
+                    if loc_vid:
+                        rendered_in_this_run.add(m_idx)
+                    update_dashboard_scene_status(s, m_idx, loc_vid if loc_vid else v_url)
 
         CURRENT_CLIP_NUM = None
         log(f"✅ Đã hoàn tất render các clip 10s của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
@@ -922,4 +1259,3 @@ if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
     end = int(sys.argv[2]) if len(sys.argv) > 2 else TOTAL_SCENES
     run_pipeline(start, end)
-

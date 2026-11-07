@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Axis from the rusted iron gate of the abandoned house to @OngBay's neighbor porch overlooking the misty highway curve and jackfruit tree.
 - **Đạo cụ chính:** Vintage Phượng Hoàng bicycle, rusted iron gate bars, hot green tea cups on a wooden table, misty highway curve outside the gate, gnarled jackfruit tree roots.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Binh, @OngBay` | `LIPSYNC:@OngBay` | `RISING_DREAD` | **18 từ** | "Này cậu thanh niên lạ mặt kia, đứng rình mò gì trước cổng nhà người ta thế hả?!" | 35mm stabilized medium tracking shot |
-| [**Clip 2**](clip-2.md) | `@Binh, @OngBay` | `LIPSYNC:@Binh` | `CALM_MYSTERIOUS` | **18 từ** | "Dạ cháu là Bình, cháu nội cụ Xá, con trai bố Quân trên phố về thăm nhà ạ!" | 35mm stabilized two-shot |
-| [**Clip 3**](clip-3.md) | `@Binh, @OngBay` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Nhận ra cháu nội cụ Xá, ông Bảy mừng rỡ dẫn Bình về nhà mình nghỉ qua đêm." | 28mm stabilized gimbal side-tracking shot |
-| [**Clip 4**](clip-4.md) | `@Binh, @OngBay` | `VO` | `RISING_DREAD` | **18 từ** | "Nghe chồng bảo mai cho Bình sang nhà hoang, vợ ông Bảy tái mặt kéo ra nhắc khẽ." | 35mm stabilized medium push-in |
-| [**Clip 5**](clip-5.md) | `@OngBay` | `VO` | `RISING_DREAD` | **18 từ** | "Mười ba năm trước lúc ba giờ sáng, xe rước dâu lật trước cổng làm sáu người chết." | 35mm stabilized over-the-shoulder push-in |
-| [**Clip 6**](clip-6.md) | `@VongLa` | `VO` | `RISING_DREAD` | **18 từ** | "Những oan hồn không siêu thoát đã kéo vào căn nhà bỏ không ấy trú ngụ bao năm." | 35mm stabilized slow creeping push-in |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@Binh`, `@OngBay` | `LIPSYNC:@OngBay` | **22** | `0.4–5.9s` | "Ơ cậu hỏi đường lúc chiều đây mà, trời tối rồi sao còn đứng lấp ló trước cổng nhà ấy thế hả?!" | 35mm stabilized medium tracking shot | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Binh`, `@OngBay` | `LIPSYNC:@Binh` | **26** | `0.4–6.9s` | "Dạ cháu không phải kẻ gian đâu bác ơi, cháu là Bình cháu nội cụ Xá, con trai bố Quân trên phố về thăm nhà ạ!" | 35mm stabilized two-shot | Frames: nối khung cuối clip trước |
+| [**Clip 3**](clip-3.md) | `@Binh`, `@OngBay` | `VO` | **25** | `0.4–6.7s` | "Nhận ra đứa cháu nội của ông cụ hàng xóm quá cố, ông Bảy mừng rỡ dẫn Bình về nhà mình nghỉ tạm qua đêm." | 28mm stabilized gimbal side-tracking shot | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@Binh`, `@OngBay` | `VO` | **25** | `0.4–6.7s` | "Thế nhưng vừa nghe chồng bảo ngày mai cho Bình sang nhà hoang ở, vợ ông Bảy đã tái mặt kéo chồng ra góc hiên." | 35mm stabilized medium push-in | Ingredients: ảnh nhân vật |
+| [**Clip 5**](clip-5.md) | `@OngBay` | `VO` | **24** | `0.4–6.4s` | "Bà nhắc rằng mười ba năm trước đúng ba giờ sáng, chiếc xe rước dâu lật nhào trước cổng làm sáu người chết thảm." | 35mm stabilized over-the-shoulder push-in | Frames: nối khung cuối clip trước |
+| [**Clip 6**](clip-6.md) | `@VongLa` | `VO` | **25** | `0.4–6.7s` | "Những oan hồn chết oan khuất không tìm được đường về đã kéo cả vào căn nhà bỏ không ấy trú ngụ suốt bao năm." | 35mm stabilized slow creeping push-in | Ingredients: ảnh nhân vật |

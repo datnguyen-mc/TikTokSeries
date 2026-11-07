@@ -67,26 +67,26 @@ os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 # -------------------------------------------------------------
 NARRATOR_VOICE_SPEC = {
     "voice_lock_id": "VOICE_LOCK_NARRATOR_TIENGGO",
-    "role": "Người Dẫn Chuyện (Off-Screen Male Horror Narrator — Single Consistent Voice Across All 90 Clips)",
-    "style_reference": "42–48-year-old native Standard Northern Vietnamese male storyteller, deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, intimate late-night ghost-story style, 125–145 WPM",
-    "gender_age": "42–48-year-old native Standard Northern Vietnamese male storyteller (Nam trung niên 42–48 tuổi chuẩn giọng miền Bắc)",
+    "role": "Người Dẫn Chuyện (Off-Screen Male Horror Narrator — Single Consistent Fast Voice Across All 90 Clips)",
+    "style_reference": "42–48-year-old native Standard Northern Vietnamese male storyteller, sharp energetic mid-baritone (~120 Hz), RAPID-FIRE continuous ghost-story pace (1.35x–1.45x / 220–255 syllables/min, zero pauses)",
+    "gender_age": "42–48-year-old native Standard Northern Vietnamese male storyteller (Nam trung niên 42–48 tuổi chuẩn giọng miền Bắc — đọc nhanh liên thanh sắc bén)",
     "acoustic_profile": (
-        "Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, "
-        "intimate late-night Vietnamese ghost-story storytelling style, target speaking speed of 125–145 Vietnamese words per minute "
-        "with natural 0.30s–0.40s pauses at dramatic ellipses (…), crisp Northern Vietnamese phonology (s/x, tr/ch, r/d/gi) "
+        "Sharp, energetic, resonant mid-baritone (~120 Hz) with crisp Northern consonant attack, "
+        "RAPID-FIRE, CONTINUOUS late-night Vietnamese ghost-story delivery, target speaking speed of 220–255 Vietnamese syllables per minute (1.35x–1.45x rapid continuous tempo) "
+        "with zero mid-sentence pauses, zero slow drawl or dragged-out vowels, crisp Northern Vietnamese phonology (s/x, tr/ch, r/d/gi) "
         "and authentic 6-tone Northern cadence."
     ),
     "strict_rules": (
-        "1. Use one consistent native Standard Northern Vietnamese male narrator (VOICE_LOCK_NARRATOR_TIENGGO, 42–48yo deep warm low-baritone) across all 90 clips. "
-        "2. Target 125–145 Vietnamese words per minute (12–18 words per 10s clip); never switch narrator gender, accent, or vocal identity. "
+        "1. Use one consistent native Standard Northern Vietnamese male narrator (VOICE_LOCK_NARRATOR_TIENGGO, 42–48yo sharp resonant mid-baritone ~120 Hz) across all 90 clips. "
+        "2. Speak at a VERY FAST, RAPID-FIRE continuous pace of 220–255 Vietnamese syllables per minute (1.35x–1.45x speed, finishing inside 0.2s–5.8s with zero mid-sentence pauses); never speak slowly or drag out words, and never switch narrator gender, accent, or vocal identity. "
         "3. During off-screen narration (VO), all on-screen characters keep their mouths naturally closed (0.0s–10.0s)."
     ),
     "prompt_directive": (
         "Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller "
-        "(VOICE_LOCK_NARRATOR_TIENGGO): Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, "
-        "intimate late-night Vietnamese ghost-story storytelling style, 125–145 Vietnamese words per minute. "
-        "Strictly maintain consistent accent, timbre, vocal identity, and perceived age across all 90 clips; "
-        "never switch gender or accent, and keep all on-screen mouths naturally closed during VO."
+        "(VOICE_LOCK_NARRATOR_TIENGGO): Sharp, energetic mid-baritone (~120 Hz), crisp consonant attack, "
+        "RAPID-FIRE, CONTINUOUS late-night Vietnamese ghost-story delivery at 220–255 Vietnamese syllables per minute (1.35x–1.45x speed, zero mid-sentence pauses). "
+        "Strictly maintain consistent accent, timbre, vocal identity, and rapid-fire tempo across all 90 clips; "
+        "never slow down, never switch gender or accent, and keep all on-screen mouths naturally closed during VO."
     ),
 }
 
@@ -343,7 +343,7 @@ def get_clip_reference_media_ids(prompt: str) -> list:
         if "[2. CHARACTER & VOICE LOCK]" in prompt:
             char_block = prompt.split("[2. CHARACTER & VOICE LOCK]", 1)[1].split("[3. SCENE & SPATIAL LOCK]", 1)[0]
         else:
-            char_block = prompt.split("[CHARACTERS", 1)[1].split("[TIMELINE", 1)[0]
+            char_block = re.split(r"\n\[[A-Z]", prompt.split("[CHARACTERS", 1)[1], maxsplit=1)[0]
         defined_tags = re.findall(r"^(?:-\s*)?(@[A-Za-z0-9_]+)\s*=", char_block, flags=re.MULTILINE)
         selected = []
         for tag in defined_tags:
@@ -565,7 +565,39 @@ def update_dashboard_scene_status(scene_num: int, clip_num: int, video_url: str)
 
 
 def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
+    # Prompt sinh từ PHAN_CANH_OMNI.json (có [AUDIO], [AVOID] nằm cuối): mọi lần retry chỉ làm mềm từ ngữ,
+    # giữ nguyên cấu trúc, lời thoại và giọng. Cấp 2+ của rewrite_prompt_on_failure dựng lại prompt
+    # chung chung (mất hành động, mất giọng) rồi ghi đè file clip — không dùng cho định dạng mới.
+    # Dòng lời dẫn/thoại (câu tiếng Việt + mô tả giọng) được khóa nguyên văn: bộ thay từ dùng chung
+    # đổi cả chữ trong lời thoại (vd "tiền ảo" → "công việc") nếu để nó chạm vào.
+    p = prompt or ""
+    if "[AUDIO]" in p and "[AVOID]" in p:
+        kept = []
+
+        def _hold(m):
+            kept.append(m.group(0))
+            return f"⟦KEEP{len(kept) - 1}⟧"
+
+        held = re.sub(r"^- (?:Narration|Dialogue) .*$", _hold, p, flags=re.MULTILINE)
+        out = rewrite_prompt_on_failure(held, 1, CHARACTER_SPECS, ASPECT_RATIO)
+        for i, line in enumerate(kept):
+            out = out.replace(f"⟦KEEP{i}⟧", line)
+        return out
     return rewrite_prompt_on_failure(prompt, attempt, CHARACTER_SPECS, ASPECT_RATIO)
+
+
+def clip_uses_start_frame(prompt: str) -> bool:
+    """Prompt sinh từ PHAN_CANH_OMNI.json ghi rõ clip nào nối tiếp khung cuối clip trước (Frames)
+    và clip nào là cảnh mới / có nhân vật mới (Ingredients — cần ảnh tham chiếu để giữ đúng mặt)."""
+    p = prompt or ""
+    if "[SHOT]" in p:
+        return "Continuity: continues the same moment" in p
+    return True  # prompt định dạng cũ: giữ hành vi nối khung cũ
+
+
+def clip_is_lipsync(prompt: str) -> bool:
+    p = prompt or ""
+    return "spoken on camera by" in p or "On-Screen Lip-Sync" in p
 
 
 def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
@@ -680,8 +712,51 @@ def load_previous_last_frame(scene_num: int, prev_clip_num: int) -> str:
     return None
 
 
-def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> str:
-    """Tải ngay lập tức video 10s (Omni) về máy, cắt ảnh cuối và đồng bộ lên Cloudflare R2 & D1."""
+def boost_clip_voice_speed(video_path: str, tempo: float = 1.18) -> bool:
+    """
+    Tăng tốc độ giọng đọc dẫn truyện / thoại trong clip thêm +18% (atempo=1.18, giữ nguyên cao độ giọng Nam miền Bắc)
+    mà vẫn giữ nguyên 100% khung hình video 10.0s (-c:v copy) bằng cách nối mượt phần đuôi âm thanh môi trường.
+    """
+    if not video_path or not os.path.exists(video_path) or tempo <= 1.01:
+        return False
+    out_tmp = f"{video_path}.fast.mp4"
+    try:
+        probe = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", video_path],
+            capture_output=True, text=True, timeout=15,
+        )
+        dur = float((probe.stdout or "10.0").strip() or "10.0")
+        tail_start = max(0.0, dur - 2.4)
+        af_complex = (
+            f"[0:a]atempo={tempo:.2f}[afast];"
+            f"[0:a]atrim=start={tail_start:.2f}:end={dur:.2f},asetpts=PTS-STARTPTS,volume=0.85[atail];"
+            f"[afast][atail]acrossfade=d=0.35:c1=tri:c2=tri,atrim=0:{dur:.3f},asetpts=PTS-STARTPTS[aout]"
+        )
+        cmd = [
+            "ffmpeg", "-y", "-i", video_path,
+            "-filter_complex", af_complex,
+            "-map", "0:v:0", "-map", "[aout]",
+            "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
+            "-movflags", "+faststart", out_tmp,
+        ]
+        res = subprocess.run(cmd, capture_output=True, text=True, timeout=45)
+        if res.returncode == 0 and os.path.exists(out_tmp) and os.path.getsize(out_tmp) > 10000:
+            os.replace(out_tmp, video_path)
+            log(f"⚡ Đã tăng tốc độ giọng đọc thêm {tempo:.2f}x (atempo={tempo:.2f}, giữ nguyên cao độ & khung hình {dur:.1f}s).")
+            return True
+    except Exception as e:
+        log(f"⚠️ Không thể tăng tốc audio sau tải ({e}), giữ nguyên audio gốc.")
+    finally:
+        if os.path.exists(out_tmp):
+            try:
+                os.remove(out_tmp)
+            except Exception:
+                pass
+    return False
+
+
+def download_and_rename_video(video_url: str, scene_num: int, clip_num: int, boost_voice: bool = True) -> str:
+    """Tải ngay lập tức video 10s (Omni) về máy, tăng tốc nhịp đọc 1.18x, cắt ảnh cuối và đồng bộ lên Cloudflare R2 & D1."""
     scene_folder = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{scene_num:02d}")
     os.makedirs(scene_folder, exist_ok=True)
 
@@ -700,6 +775,11 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                         f.write(chunk)
             os.replace(tmp_path, target_path)
             trim_studio_reference_frames(target_path, log_fn=log)
+            voice_tempo = float(os.environ.get("FLOWKIT_VOICE_TEMPO", "1.18") or "1.18")
+            if boost_voice:
+                boost_clip_voice_speed(target_path, tempo=voice_tempo)
+            else:
+                log("🗣️ Clip lip-sync: giữ nguyên tốc độ giọng để khớp khẩu hình (bỏ qua atempo).")
             frame_path = extract_last_frame(target_path, scene_num, clip_num)
             size_mb = os.path.getsize(target_path) / (1024 * 1024)
             r2_sync = sync_clip_to_r2_and_d1(
@@ -707,7 +787,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> 
                 ep_num=scene_num,
                 clip_num=clip_num,
                 local_video_path=target_path,
-                last_frame_path=frame_path,
+                frame_path=frame_path,
                 ep_folder_name=f"canh-{scene_num:02d}",
                 project_id=PROJECT_ID,
             )
@@ -763,7 +843,7 @@ def enforce_narrator_and_voice_lock(prompt: str) -> str:
     và giọng thoại nhân vật chuẩn miền Bắc, ngay cả khi prompt được làm mềm (retry).
     """
     p = (prompt or "").strip()
-    if NARRATOR_VOICE_SPEC["voice_lock_id"] not in p:
+    if "[AUDIO]" not in p and NARRATOR_VOICE_SPEC["voice_lock_id"] not in p:
         narrator_block = (
             "\n\n[MANDATORY NARRATOR & VOICE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]\n"
             f"{NARRATOR_VOICE_SPEC['prompt_directive']}\n"
@@ -778,10 +858,12 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
     enforced_prompt = enforce_narrator_and_voice_lock(prompt)
-    flow_prompt = enforced_prompt if enforced_prompt.startswith(clip_tag) else f"{clip_tag}\n{enforced_prompt}"
+    # Không chèn nhãn "[CẢNH xx - CLIP yy]" vào đầu prompt: chữ ở dòng đầu dễ bị Omni vẽ thành title card.
+    # Tên clip trên Flow vẫn được đặt lại sau khi render xong bằng force_rename_clip_on_flow().
+    flow_prompt = enforced_prompt
 
     ref_media_ids = get_clip_reference_media_ids(enforced_prompt)
-    is_vo_clip = "Off-Screen Male Narrator" in enforced_prompt or "VOICE_LOCK_NARRATOR_TIENGGO | speaking off-screen" in enforced_prompt
+    is_vo_clip = "off-screen male narrator" in enforced_prompt.lower()
     voice_mode_desc = (
         f"🎙️ VO Người Dẫn Chuyện ({NARRATOR_VOICE_SPEC['voice_lock_id']} — Nam 42t chuẩn Bắc MC Đình Soạn 0.95x, nhân vật khép miệng)"
         if is_vo_clip
@@ -924,10 +1006,6 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                                 video_url = v_url
                             op_media_id = op_meta.get("mediaId")
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
-                            has_failed = True
-                            all_done = False
-                        elif elapsed >= 75 and "Media not found" in op_complaint:
-                            log(f"⚠️ Sau {elapsed}s job vẫn báo '{op_complaint}' — chuyển sang làm mềm prompt ngay!")
                             has_failed = True
                             all_done = False
                         else:
@@ -1120,19 +1198,22 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
             )
 
             # Từ Clip 2 trở đi: tự động lấy/cắt khung hình cuối của Clip trước và chèn vào slot [Bắt đầu]
-            if c_idx > 1 and not previous_clip_last_frame_media_id:
+            use_start_frame = c_idx > 1 and clip_uses_start_frame(prompt_content)
+            if use_start_frame and not previous_clip_last_frame_media_id:
                 previous_clip_last_frame_media_id = load_previous_last_frame(s, c_idx - 1)
+            if c_idx > 1 and not use_start_frame:
+                log("🎬 Cảnh mới / nhân vật mới → dùng ảnh nhân vật (Ingredients), không nối khung cuối clip trước.")
 
             res = run_clip_with_auto_retry(
                 scene_num=s,
                 clip_num=c_idx,
                 initial_prompt=prompt_content,
-                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None,
+                start_image_media_id=previous_clip_last_frame_media_id if use_start_frame else None,
             )
 
             if res["success"] and res.get("video_url"):
                 video_url = res["video_url"]
-                local_video = download_and_rename_video(video_url, s, c_idx)
+                local_video = download_and_rename_video(video_url, s, c_idx, boost_voice=not clip_is_lipsync(prompt_content))
                 if local_video:
                     rendered_in_this_run.add(c_idx)
                 update_dashboard_scene_status(s, c_idx, local_video if local_video else video_url)
@@ -1187,7 +1268,11 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                     attempt=2,
                     log_fn=log,
                 )
-                prev_start_id = load_previous_last_frame(s, m_idx - 1) if m_idx > 1 else None
+                prev_start_id = (
+                    load_previous_last_frame(s, m_idx - 1)
+                    if (m_idx > 1 and clip_uses_start_frame(updated_m_prompt))
+                    else None
+                )
                 m_res = run_clip_with_auto_retry(
                     scene_num=s,
                     clip_num=m_idx,
@@ -1197,7 +1282,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                 )
                 if m_res["success"] and m_res.get("video_url"):
                     v_url = m_res["video_url"]
-                    loc_vid = download_and_rename_video(v_url, s, m_idx)
+                    loc_vid = download_and_rename_video(v_url, s, m_idx, boost_voice=not clip_is_lipsync(updated_m_prompt))
                     if loc_vid:
                         rendered_in_this_run.add(m_idx)
                     update_dashboard_scene_status(s, m_idx, loc_vid if loc_vid else v_url)

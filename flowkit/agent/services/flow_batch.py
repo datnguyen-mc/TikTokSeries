@@ -440,12 +440,32 @@ def image_upscale_request(media_id: str, resolution: str = "2K") -> str:
     return build_envelope(RPC_UPSCALE_IMAGE, [media_id, code, _context(None)])
 
 
+def _strip_clip_header_for_model(prompt: str) -> str:
+    """Strip UI-only clip header tags (e.g. ``[CẢNH 01 - CLIP 01]`` or ``[TẬP 01 - CLIP 01]``)
+    from the top of the prompt before sending to Google Flow's AI video generator so the model
+    never renders them as on-screen title cards or text overlays.
+    """
+    if not prompt or not isinstance(prompt, str):
+        return prompt or ""
+    lines = prompt.strip().splitlines()
+    while lines:
+        first = lines[0].strip()
+        if first.startswith("[") and first.endswith("]"):
+            upper_tag = first.upper()
+            if any(k in upper_tag for k in ("CẢNH", "CANH", "TẬP", "TAP", "CLIP")) and not upper_tag.startswith("[1."):
+                lines.pop(0)
+                continue
+        break
+    return "\n".join(lines).strip()
+
+
 def video_request(prompt: str, project_id: str, source_media_id: str,
                   crop: Optional[list] = None,
                   aspect: Any = VIDEO_ASPECT_LANDSCAPE,
                   model: str = VIDEO_MODEL) -> str:
+    clean_prompt = _strip_clip_header_for_model(prompt)
     inner = [
-        [[[None, None, [[[prompt]]]], model, resolve_video_aspect(aspect), None,
+        [[[None, None, [[[clean_prompt]]]], model, resolve_video_aspect(aspect), None,
           [None, source_media_id, None, None, None,
            FULL_FRAME_CROP if crop is None else crop],
           [None, None, None, None, _client_uuid(), _client_uuid()]]],
@@ -470,8 +490,9 @@ def omni_first_frame_request(prompt: str, project_id: str, source_media_id: str,
     if res not in {"360p", "720p"}:
         raise ValueError("Omni resolution must be 360p or 720p")
     model = f"abra_i2v_{duration_s}s" + ("_360p" if res == "360p" else "")
+    clean_prompt = _strip_clip_header_for_model(prompt)
     request = [
-        [None, None, [[[prompt]]]],
+        [None, None, [[[clean_prompt]]]],
         model,
         resolve_video_aspect(aspect),
         None,
@@ -501,8 +522,9 @@ def omni_first_last_request(prompt: str, project_id: str,
     if res not in {"360p", "720p"}:
         raise ValueError("Omni resolution must be 360p or 720p")
     model = f"omni_flash_i2v_{duration_s}s_first_last" + ("_360p" if res == "360p" else "")
+    clean_prompt = _strip_clip_header_for_model(prompt)
     request = [
-        [None, None, [[[prompt]]]],
+        [None, None, [[[clean_prompt]]]],
         model,
         resolve_video_aspect(aspect),
         None,
@@ -533,8 +555,9 @@ def omni_reference_video_request(prompt: str, project_id: str,
     if res not in {"360p", "720p"}:
         raise ValueError("Omni resolution must be 360p or 720p")
     model = f"abra_r2v_{duration_s}s" + ("_360p" if res == "360p" else "")
+    clean_prompt = _strip_clip_header_for_model(prompt)
     request = [
-        [None, None, [[[prompt]]]],
+        [None, None, [[[clean_prompt]]]],
         [[None, mid] for mid in refs],
         model,
         resolve_video_aspect(aspect),
@@ -571,8 +594,9 @@ def text_video_request(prompt: str, project_id: str,
         resolved_model += "_360p"
     if res == "720p" and resolved_model.endswith("_360p"):
         resolved_model = resolved_model.removesuffix("_360p")
+    clean_prompt = _strip_clip_header_for_model(prompt)
     request = [
-        [None, None, [[[prompt]]]],
+        [None, None, [[[clean_prompt]]]],
         resolved_model,
         resolve_video_aspect(aspect),
         None,

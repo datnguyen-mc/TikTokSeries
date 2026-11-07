@@ -1,0 +1,36 @@
+[FORMAT]
+Vertical 9:16, 10-second clip, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no speech bubbles, no dialogue bubbles, no comic balloons, no title cards, no logos, no watermark. Clean frame: no channel or station logo, no corner bug, no lower-third, no timestamp, no REC or LIVE badge, no news ticker.
+
+[CHARACTERS — match the attached reference images @DaiCa @HeoLuoi 100% exactly]
+@DaiCa = ĐẠI CA: small wiry anthropomorphic monkey, the shortest of the group, golden-brown fur, heart-shaped pinkish-red face, bright amber eyes, thin golden circlet headband; fully dressed in a red bomber jacket over a plain yellow t-shirt and orange-and-black tiger-stripe cargo shorts, barefoot; a pen-sized red-and-gold staff tucked behind his right ear. Voice: fast, sharp, quick-witted, hot-tempered young male voice.
+@HeoLuoi = HEO LƯỜI: chubby round anthropomorphic pink pig, large floppy ears, small squinting eyes, wide pink snout; fully dressed in an oversized plain black t-shirt under an open navy-blue robe and dark shorts (wearing his black t-shirt and navy robe at all times) and black rubber flip-flops. Voice: chubby, lazy, whiny, comically nasal male voice.
+
+[SET LOCK — Tập 21 living room, identical in every clip at this location]
+Location: the ground-floor living room of the narrow rented tube house in a Saigon alley, 2026. Time of day: bright midday. Strong white sunlight pours in through the open front entrance behind the camera and lights the room from the front, short soft shadows falling toward the back wall; the ceiling lamp is off and the ceiling fan turns slowly. The camera always stands just inside the open front entrance at eye level, facing the back wall; the green folding metal gate to the alley is behind the camera; never a reverse angle, never outside the house. Fixed layout as seen by the camera: LEFT WALL — a worn mustard-yellow fabric sofa with mismatched cushions and a short fabric skirt hanging to the floor, a white wall-mounted air conditioner above it. LEFT MIDGROUND — the low rectangular wooden coffee table in front of the sofa. LEFT BACK CORNER — a round saffron meditation cushion on a woven mat, beyond the end of the sofa. BACK WALL CENTER — a tiny kitchen corner with a two-burner gas stove, hanging pots and a dish rack; high on the back wall above it, a simple wooden altar shelf holding a small serene seated Buddha statue and a small vase of flowers, always neat and never touched; nobody goes near it. RIGHT BACK CORNER — a small white mini-fridge. RIGHT MIDGROUND AND FOREGROUND — open floor of patterned cement tiles; anyone arriving from the alley walks in past the camera from the right foreground edge. Pastel-green walls with slightly peeling paint. Seats: the sofa and the meditation cushion. Every object keeps its position, count, size, shape and color from the first frame to the last; nothing is added, removed, duplicated or moved unless the shot list says so. Only the props listed in this prompt exist. All objects have blank or unreadable labels.
+
+[CHARACTER STATE IN THIS CLIP]
+@DaiCa: exactly his reference outfit (red bomber jacket over the plain yellow t-shirt, tiger-stripe cargo shorts, barefoot), thin golden circlet on his head, the pen-sized red-and-gold staff tucked behind his right ear unless the shot list says he holds it.
+@HeoLuoi: exactly his reference outfit (oversized plain black t-shirt under the open navy-blue robe, dark shorts, black rubber flip-flops), plus small round black sunglasses on his snout, the same sunglasses in every clip of this episode; nothing on his head.
+
+[PROPS IN THIS CLIP — exact list, nothing else]
+- The mini-fridge door is closed.
+- On the open tiles in the middle of the room: one low red plastic stool; it snaps into two pieces in the shot list.
+- The coffee table top is bare.
+
+[BLOCKING]
+@HeoLuoi stands on the red plastic stool in the middle of the open tiles, right of the coffee table. @DaiCa crouches on the right edge of the coffee table, facing him. Nobody else is in the room.
+
+[SHOT LIST — cut only where a segment says Cut to]
+Camera: static 2D eye-level framing; one cut, only where a segment says Cut to; nothing else.
+00:00–00:03.5 | Medium shot: @HeoLuoi stands on one foot on top of the low red plastic stool, arms spread wide, eyes shut behind his sunglasses, wobbling; the stool's thin legs bow and creak under his weight. @HeoLuoi says (chubby, lazy, whiny, comically nasal male voice; straining, proud): Coi tui thiền bay lơ lửng như trên mạng nè!
+00:03.5–00:06.5 | Same shot, no cut: the stool snaps into two pieces with a loud plastic crack; as @HeoLuoi drops, @DaiCa pulls the tiny staff from behind his ear and sweeps it through the air in a golden arc; a small fluffy golden cloud puffs up just above the tiles and catches @HeoLuoi's round belly with a soft bouncy boing. Nobody touches anybody. No dialogue.
+00:06.5–00:10.0 | Cut to a medium two-shot: @HeoLuoi lies belly-down on the fading golden cloud, arms and legs dangling, sunglasses crooked, pouting; @DaiCa twirls the tiny staff and smirks. @DaiCa says (fast, sharp, quick-witted, hot-tempered young male voice; mocking): Thiền bay đâu hông thấy, chỉ thấy sập ghế!
+
+[SOUND]
+Creaking plastic, a sharp plastic snap, a golden magic swoosh, a comic boing. Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-block percussion over a light modern hip-hop beat.
+
+[END FRAME]
+Medium two-shot: @HeoLuoi lying belly-down on the last wisps of the golden cloud just above the tiles, the two broken pieces of the red stool beside him, sunglasses crooked; @DaiCa on the coffee table edge twirling his tiny staff with a smirk. Hold still for the final 0.5 seconds.
+
+[AVOID]
+shirtless characters, bare chest, bare torso, floating character names or labels above heads, character name tags, speech bubbles, dialogue bubbles, comic balloons, title cards, any characters other than those listed, any readable text, letters, numbers, brand names or logos anywhere, subtitles, a narrator voice or voiceover, distorted hands or paws, magic in any color other than gold, anyone touching or disturbing the Buddha altar shelf on the back wall, skull ornaments, resemblance to any real actor or real person, physical contact between characters, objects thrown at anyone, night, dusk, sunset light, lamp-lit darkness, anyone falling onto the floor face-first, the staff pointed at anyone, cutting to or flashing a standalone character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip, 3D or CGI look, photorealistic rendering.

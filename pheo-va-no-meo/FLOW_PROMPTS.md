@@ -208,6 +208,10 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 | 14 | Cá lăng nấu măng chua · Thưởng Tết sớm dày cộp | ⚡ Trend săn cá lăng gần 20kg hồ Trị An & công bố thưởng Tết sớm (03/11): Hường cầm bao lì xì đỏ dày cộp hứa trao "thưởng Tết sớm dày cộp" nếu Phèo nấu cá lăng măng chua không tanh; Phèo chà cá lăng bằng muối hạt và chanh, luộc sơ măng chua 3 phút khử chua gắt, áp sơ cá với dầu điều nước mắm rồi nấu lửa vừa 12 phút; cuối tập Hường rút từ bao đỏ ra tặng Phèo nguyên… lốc lịch giấy dày cộp để bóc đếm ngày tới Tết (tập 50s = 5 clip × 10s) | Hạt nêm |
 | 15 | Vịt cỏ om sấu nước dừa · Chốt lịch nghỉ lễ 24/11 hưởng nguyên lương | ⚡ Trend lịch nghỉ lễ Ngày Văn hóa Việt Nam 24/11 hưởng nguyên lương (03/11): Hường khoe lịch nghỉ lễ cuối cùng trong năm 24/11, Phèo hỏi xoáy "nghỉ gộp 4 ngày hay mở bếp trả 300% lương theo luật lao động?"; Phèo áp chảo vịt cỏ ướp sả gừng trong nồi gang cho săn da vàng óng rồi om với nước dừa tươi, sấu xanh và khoai sọ 15 phút; mùi vịt om sấu thơm nức mũi làm Hường chốt cho Phèo nghỉ lễ hưởng nguyên lương (tập 50s = 5 clip × 10s) | Nồi gang / bếp |
 | 16 | Cơm gà nồi cơm điện · Gas tăng, điện giảm, thưởng hai phần trăm | ⚡ Tập hài thời sự đầu tiên (04/11): xăng giảm, điện giảm 2% từ 1/11, gas tháng 11 tăng, lương tối thiểu vùng 2027 tăng. Hường hí hửng "cái gì cũng giảm", Phèo sợ bị giảm lương; Hường dang tay chắn bếp vì gas tăng, Phèo nấu nguyên bữa bằng nồi cơm điện (phi tỏi gừng trong lòng nồi, xào hai chén gạo, bớt nước, ủ thêm mười phút); Hường ngủ gục chờ nồi nhảy nút; ăn xong Phèo xin tăng lương theo lương tối thiểu, Hường "thưởng hai phần trăm nồi cơm" đúng một muỗng rồi ôm nguyên nồi đi mất (tập 60s = 6 clip, trọn trong bếp) | Không |
+| 17 | Thịt ba rọi kho tiêu xanh nước mắm kẹo | Hường hứa thưởng máy massage đấm lưng, cuối tập thưởng cây đập lưng bằng tre | Nước mắm |
+| 18 | Cá lóc đồng kho tộ miền Tây | Hường hứa thưởng chuyến du lịch miền Tây sông nước, cuối tập thưởng bức tranh lịch miền Tây | Nước mắm |
+| 19 | Sườn non rim mặn ngọt mềm rục tróc xương | Hường hứa thưởng chuyến nghỉ dưỡng nghe sóng biển rì rào, cuối tập cho ngâm chân nước muối áp vỏ ốc vô tai | Dầu hào |
+| 20 | Gà ta kho gừng sả ớt thấm đẫm mặn ngọt | Hường hứa thưởng chuyến du lịch suối nước nóng tắm khoáng thư giãn; Phèo chọn 800g gà ta da vàng săn chắc, chà muối hạt + gừng đập dập 2 phút rửa trong thau khử mùi lông, ướp tỷ lệ vàng 3-2-1 trong 20 phút, xào săn lửa đầu với gừng sả rồi châm 150ml nước dừa tươi rim lửa nhỏ 15 phút sánh kẹo và dậy hương gừng tươi 30 giây cuối; cuối tập Hường bê ra thau nhựa nước gừng muối ấm cho Phèo ngâm chân "suối nước nóng khoáng gừng tại bếp" (tập 60s = 6 clip × 10s) | Nước mắm |
 
 ---
 
@@ -234,6 +238,9 @@ Mỗi tập mới **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 
 | 15 | [tap-15/](tap-15/README.md) | Vịt cỏ om sấu nước dừa · Chốt lịch nghỉ lễ 24/11 hưởng nguyên lương |
 | 16 | [tap-16/](tap-16/README.md) | Cơm gà nồi cơm điện · Gas tăng, điện giảm, thưởng hai phần trăm |
 | 17 | [tap-17/](tap-17/README.md) | Thịt ba rọi kho tiêu nước mắm kẹo · Bà chủ dọa dùng AI đi chợ hộ, Phèo đòi lãnh trợ cấp thất nghiệp |
+| 18 | [tap-18/](tap-18/README.md) | Cá lóc đồng kho tộ miền Tây thịt săn chắc không tanh · Thưởng chuyến du lịch miền Tây trên lịch |
+| 19 | [tap-19/](tap-19/README.md) | Sườn non rim mặn ngọt mềm rục tróc xương · Thưởng chuyến đi biển ngâm chân nước muối áp vỏ ốc |
+| 20 | [tap-20/](tap-20/README.md) | Gà ta kho gừng sả ớt thấm đẫm mặn ngọt · Thưởng chuyến suối nước nóng khoáng gừng ngâm chân tại bếp |
 
 ## Tập 14 (`tap-14`)
 

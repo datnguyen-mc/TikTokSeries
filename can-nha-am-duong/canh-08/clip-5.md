@@ -1,44 +1,28 @@
-[1. FORMAT & MODEL]
-- Duration & Aspect Ratio: 10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, 180-degree cinema shutter.
-- Model & Aesthetics: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video), photorealistic live-action Vietnamese supernatural folk-horror cinema.
-- Visual Look & Grade: Authentic Northern Vietnamese architecture and rural atmosphere, natural skin textures and pores, damp mist, realistic shadows, flickering warm oil-lamp/tungsten amber contrasted against cold midnight cyan-blue darkness, subtle 35mm film grain. Single continuous 10-second camera shot (`Shot 08.5`, film timeline `07:40–07:50`).
+Photorealistic live-action Vietnamese folk-horror drama set in the Northern Vietnamese countryside; natural skin texture, damp air, realistic practical light (tungsten, oil lamps, moonlight), subtle 35mm film grain. One continuous 10-second shot, 16:9 widescreen, 24 fps.
 
-[2. CHARACTER & VOICE LOCK]
-Use attached reference images (`media_id`) strictly to lock facial identity, age, hairstyle, and wardrobe inside the live scene. Only the listed characters appear in frame.
-- @Binh = Nguyễn Hòa Bình (media_id: a1a78643-ce72-4217-86c7-b53b927e637a | age 21): Northern Vietnamese male senior university student, 172 cm, thin pale build, messy short black hair, tired dark eyes with visible dark circles. Wardrobe: faded charcoal-grey hoodie over a wrinkled white T-shirt, dark slim jeans, worn sneakers, carrying a black backpack. Character Voice Reference (VOICE_LOCK_BINH_CNHADG): 21-year-old native Standard Northern Vietnamese young male voice (~135 Hz tenor-baritone), trembling, anxious, guilt-ridden and breathless in horror moments (giọng nam trẻ 21 tuổi chuẩn miền Bắc, run rẩy, nghẹn ngào).
-- @VongLa = Vong Gốc Mít (media_id: 0c2ade1f-c1cd-4c93-98e2-697231a54887 | age 28): Wandering spirit from the fatal wedding-bus crash beneath the ancient jackfruit tree outside the gate, tall skeletal silhouette, ash-grey damp skin, tangled wet black hair, dark hollow eye sockets, five long black-nailed bony fingers. Character Voice Reference (VOICE_LOCK_VONGLA_CNHADG): Chilling echoing Standard Northern Vietnamese spectral whisper reverberating from all directions in the dark (giọng ma vọng lạnh lẽo chuẩn miền Bắc từ bốn phía).
-- Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller (VOICE_LOCK_NARRATOR_CNHADG): Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, intimate late-night Vietnamese ghost-story storytelling style. Target speaking speed: 125–145 Vietnamese words per minute (this clip: 138–145 Vietnamese words/minute with 0.30s controlled dramatic pauses at ellipses (…); emotional tone: controlled urgency, gripped with dread, sharp and visceral climax delivery). Reuse the same TTS voice ID / acoustic voice reference (VOICE_LOCK_NARRATOR_CNHADG) across all 90 clips, relying on this full acoustic profile rather than a text label alone.
+[CHARACTERS]
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards.
+- @Binh = Bình, 21, thin pale Vietnamese university student; messy short black hair, dark circles under tired eyes; dark charcoal-grey hoodie over a white T-shirt, dark jeans, worn sneakers, black backpack.
+- @VongLa = the wandering ghost of the jackfruit tree: tall gaunt figure, ash-grey damp skin, tangled wet black hair over half the face, long thin fingers, tattered dark wet clothes.
+Nobody else appears in the shot.
 
-[3. SCENE & SPATIAL LOCK]
-- Scene & Chronology: Scene 08/15 (Đêm Thứ Tư Kinh Hoàng — Bàn Tay Xám Ngoét Thò Qua Lớp Màn), Clip 5/6 (Clip #47/90 | 07:40–07:50). Story Time: 02:45 Rạng sáng Đêm thứ tư (07:00–08:00).
-- Location & Architecture: Moonlit interior of the abandoned house where crooked jackfruit branch shadows fall across @Binh's folding cot and thin white mosquito net.
-- Spatial Geometry Lock: Tight claustrophobic axis inside and immediately outside the thin white mosquito net on the folding cot at 02:45 AM.
-- Key Scene Props: Thin white mosquito net, folding cot, cold blue moonlight through wooden window bars, ash-grey corpse hand with five long black nails piercing the net, permanent dark bruise on @Binh's left wrist.
+[SETTING]
+Fourth night, deep night: the moonlit main room, twisted jackfruit-branch shadows on the walls, folding cot with a thin white mosquito net.
 
-[4. DRAMATIC OBJECTIVE]
-@VongLa's freezing corpse hand slams down and vises around @Binh's left wrist; @Binh chokes silently with bulging eyes as @VongLa's hollow-eyed pale face presses against the net to whisper.
+[SHOT]
+- Camera: 50mm stabilized tight close-up shot; one smooth camera move from start to end, no cuts.
+- Continuity: continues the same moment, place and lighting as the previous shot; same framing axis, no jump.
 
-[5. CAMERA & TIMED ACTION]
-- Single Coherent Camera Plan (0.0s–10.0s): 50mm stabilized tight close-up shot. One physically plausible camera movement on a single consistent axis from 0.0s to 10.0s; zero contradictory camera rigs, zero sudden zooms, zero jump cuts.
-- 0.0s–2.5s (Seamless Incoming Continuity): Preserve the exact ending state, lighting, and character axis from Clip 08.4. @VongLa's grey clawed hand clamps tightly onto @Binh's left wrist on the mattress.
-- 2.5s–7.5s (Core Dramatic Progression): @VongLa's freezing corpse hand slams down and vises around @Binh's left wrist; @Binh chokes silently with bulging eyes as @VongLa's hollow-eyed pale face presses against the net to whisper.
-- 7.5s–10.0s (Outgoing Continuity Settle): @VongLa's pale hollow-eyed face presses against the net mesh inches from @Binh's terrified eyes. Hold a steady 0.5s visual and audio settle at 9.5s–10.0s to bridge cleanly into Clip 08.6.
+[TIMELINE]
+- 0.0–3.0s: @VongLa's grey hand hovers just above @Binh's left wrist on the mattress.
+- 3.0–7.0s: @VongLa's hollow-eyed pale face presses close to the outside of the net, lips visible through the mesh, and speaks in a cold whisper while @Binh lies frozen with wide eyes.
+- 7.0–10.0s: @VongLa's pale hollow-eyed face stays pressed against the net, inches from @Binh's terrified eyes. The shot settles on this as its final frame.
 
-[6. NARRATION / DIALOGUE]
-- Word Budget & Pacing Check: 17 Vietnamese words (~8.2s active speech window at 125–145 WPM), finishing naturally at 8.8s before the 10.0s clip ends without rushing or truncation.
-- Turn 1 [0.8s–8.8s | 17 Vietnamese words | On-Screen Lip-Sync] @VongLa (Vong Gốc Mít — VOICE_LOCK_VONGLA_CNHADG | speaking on-screen in native Standard Northern Vietnamese accent, Chilling echoing Standard Northern Vietnamese spectral whisper reverberating from all directions in the dark (giọng ma vọng lạnh lẽo chuẩn miền Bắc từ bốn phía).): "Đi đi… Cút khỏi căn nhà này ngay… Đây không phải chỗ của người sống chúng mày!"
-- Lip-Sync & Mouth Lock: Apply accurate Vietnamese lip-sync ONLY to @VongLa during 0.8s–8.8s; non-speaking characters (@Binh) keep their mouths closed. Off-screen narrator remains silent in this clip.
-- Spoken Audio Rule: Speak ONLY the Vietnamese words inside quotation marks ("..."). Never read prompt instructions, @tags, character IDs, timestamps, or stage directions aloud.
+[AUDIO]
+- Dialogue 0.4–6.8s, spoken on camera by @VongLa (cold breathy whisper, Northern accent, echoing as if from every direction), in Vietnamese with exact lip-sync: "Đi đi, mày hãy cút khỏi căn nhà này ngay lập tức, nơi đây không phải chỗ cho người sống chúng mày ở đâu!"
+- @VongLa's face and lips stay clearly visible while speaking. No narrator and no other voices.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- Sound effects: the net fabric shivering, a cold draft. Ambience continues to 10.0s. No music.
 
-[7. HORROR SOUND DESIGN]
-- Synchronized Scene Audio (0.0s–10.0s): Giọng ma vọng lạnh buốt từ bốn phía hòa tiếng khớp xương cổ tay @Binh bị bóp nghẹt.
-- Mix & Silence Discipline: Keep spoken Standard Northern Vietnamese narration/dialogue clearly audible in the foreground above environmental foley. Use strategic quiet tension, avoid excessive music or generic jump-scare stingers, and maintain a smooth 0.15s ambient room-tone transition at 0.0s and 10.0s.
-
-[8. START FRAME & END FRAME]
-- START FRAME (0.0s): @VongLa's grey clawed hand clamps tightly onto @Binh's left wrist on the mattress.
-- END FRAME (10.0s): @VongLa's pale hollow-eyed face presses against the net mesh inches from @Binh's terrified eyes.
-
-[9. CONTINUITY & QUALITY RULES]
-- Preserve character facial identity, hair, body proportions, and costume across the entire 10-second shot; hands must have 5 natural fingers and grip props with realistic weight.
-- Never switch narrator gender, accent (must remain 100% Standard Northern Vietnamese / giọng chuẩn miền Bắc), or vocal age/timbre.
-- Full-bleed 16:9 image with no subtitles, no captions, no on-screen text, no watermarks, no black letterbox bars, and never flash or cut to a studio reference portrait backdrop.
+[AVOID]
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred or sped-up speech, Southern or Central Vietnamese accents.

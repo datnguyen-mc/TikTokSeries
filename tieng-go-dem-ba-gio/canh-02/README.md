@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Sightline from the dark ironwood worship hall through the narrow wooden door crack directly toward the chained laterite well in the rain.
 - **Đạo cụ chính:** Antique wooden pendulum clock stopped at 02:59, DSLR camera, brass storm lantern, three iron chains vibrating on the laterite well, shifted stone slab, pale mud-stained fingers gripping the well rim.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Lam` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Đêm đầu tiên mưa ngâu rả rích, ngôi nhà cổ nồng nặc mùi gỗ mục và bùn lạnh." | 28mm stabilized gimbal slow creeping push-in |
-| [**Clip 2**](clip-2.md) | `@Lam` | `VO` | `RISING_DREAD` | **18 từ** | "Đúng hai giờ năm chín phút, đồng hồ bỗng đứng khựng… hai ngọn nến bàn thờ phụt tắt." | 50mm stabilized gimbal slow push-in |
-| [**Clip 3**](clip-3.md) | `@Lam` | `VO` | `CONTROLLED_URGENCY` | **18 từ** | "Từ dưới đáy giếng đá ong sâu thẳm, ba tiếng gõ trầm đục dội ngược lên nắp đá!" | 35mm stabilized medium shot slow push-in |
-| [**Clip 4**](clip-4.md) | `@Lam` | `VO` | `RISING_DREAD` | **18 từ** | "Qua khe cửa hẹp, Lâm chết lặng thấy ba vòng xích sắt trên miệng giếng tự giật căng." | 35mm stabilized over-the-shoulder push-in |
-| [**Clip 5**](clip-5.md) | `@Lam` | `VO` | `CONTROLLED_URGENCY` | **18 từ** | "Tấm bia đá nặng nhích dần… năm ngón tay trắng bệch rớm máu thò lên bấu thành giếng!" | 50mm stabilized telephoto close-up slow push-in |
-| [**Clip 6**](clip-6.md) | `@Lam, @CoUt` | `LIPSYNC:@CoUt` | `CONTROLLED_URGENCY` | **17 từ** | "Lâm ơi… cứu em ra khỏi đáy giếng với… dưới này tối và lạnh lắm Lâm ơi!" | 35mm stabilized slow dolly pull-back |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@Lam` | `VO` | **22** | `0.4–5.9s` | "Đêm đầu tiên mưa ngâu rả rích, cả ngôi nhà gỗ lim rộng lớn nồng nặc mùi gỗ mục và bùn lạnh." | 28mm stabilized gimbal slow creeping push-in | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Lam` | `VO` | **22** | `0.4–5.9s` | "Đúng hai giờ năm mươi chín phút đêm, đồng hồ quả lắc bỗng đứng khựng, hai ngọn nến bàn thờ phụt tắt." | 50mm stabilized gimbal slow push-in | Frames: nối khung cuối clip trước |
+| [**Clip 3**](clip-3.md) | `@Lam` | `VO` | **23** | `0.4–6.2s` | "Ngay lập tức từ dưới đáy giếng đá ong sâu thẳm, ba tiếng gõ trầm đục dội ngược lên nắp đá trấn yểm!" | 35mm stabilized medium shot slow push-in | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@Lam` | `VO` | **23** | `0.4–6.2s` | "Qua khe cửa gỗ hẹp, Lâm chết lặng khi thấy ba vòng xích sắt trên miệng giếng tự động giật căng từng hồi." | 35mm stabilized over-the-shoulder push-in | Frames: nối khung cuối clip trước |
+| [**Clip 5**](clip-5.md) | `@Lam` | `VO` | **23** | `0.4–6.2s` | "Tấm bia đá nặng hàng tạ nhích dần sang bên, năm ngón tay trắng bệch rớm máu thò lên bấu chặt thành giếng!" | 50mm stabilized telephoto close-up slow push-in | Frames: nối khung cuối clip trước |
+| [**Clip 6**](clip-6.md) | `@Lam`, `@CoUt` | `LIPSYNC:@CoUt` | **23** | `0.4–6.5s` | "Lâm ơi cứu em ra khỏi đáy giếng lạnh lẽo này với, ở dưới này tối tăm và ngột ngạt lắm Lâm ơi!" | 35mm stabilized slow dolly pull-back | Ingredients: ảnh nhân vật |

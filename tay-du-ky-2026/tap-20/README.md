@@ -3,12 +3,12 @@
 **Ngày 20** · **⚡ Tập Hài 60 Giây Tổng Kết Hot & Drama Của Ngày (`6 clips × 10s = 60s`)** · **9:16 Dọc** · **Hoạt hình 2D** · **Thoại tiếng Việt giọng miền Nam**
 
 > **Định dạng chuẩn 60s Tổng Kết Hot & Drama Trong Ngày:**
-> - **Clip 1 (00:00–00:10):** Mở màn bắt sóng ngay trend/drama số 1 đang gây bão mạng xã hội (`Ingredients`: `@Thay`, `@DaiCa`, `@HeoLuoi`, `@UtKho`)
-> - **Clip 2 (00:10–00:20):** Đại Ca & Heo Lười đu trend biến tướng lố bịch + phép thuật 72 phép biến hóa (`Frames` nối mượt từ Clip 1)
-> - **Clip 3 (00:20–00:30):** Bóc tiếp drama số 2 trong ngày với góc nhìn châm biếm sâu cay (`Frames` nối mượt từ Clip 2)
-> - **Clip 4 (00:30–00:40):** Đẩy cao trào liên hoàn các thói hư tật xấu/drama mạng xã hội (`Frames` nối mượt từ Clip 3)
-> - **Clip 5 (00:40–00:50):** Chị chủ La Sát xuất hiện bóc trần sự thật / phản ứng dây chuyền (`Frames` nối mượt từ Clip 4)
-> - **Clip 6 (00:50–01:00):** Cú lật kèo quạt Ba Tiêu / sao kê + câu đúc kết nhẹ nhàng sâu sắc của Thầy (`Frames` nối mượt từ Clip 5)
+> - **Clip 1 (00:00–00:10):** Mở màn bắt sóng ngay trend/drama số 1 đang gây bão mạng xã hội (`Ingredients`: chỉ gắn ảnh nhân vật có mặt trong clip)
+> - **Clip 2 (00:10–00:20):** Đại Ca & Heo Lười đu trend biến tướng lố bịch + phép thuật 72 phép biến hóa (`Ingredients`: chỉ gắn ảnh nhân vật có mặt trong clip)
+> - **Clip 3 (00:20–00:30):** Bóc tiếp drama số 2 trong ngày với góc nhìn châm biếm sâu cay (`Ingredients`: chỉ gắn ảnh nhân vật có mặt trong clip)
+> - **Clip 4 (00:30–00:40):** Đẩy cao trào liên hoàn các thói hư tật xấu/drama mạng xã hội (`Ingredients`: chỉ gắn ảnh nhân vật có mặt trong clip)
+> - **Clip 5 (00:40–00:50):** Chị chủ La Sát xuất hiện bóc trần sự thật / phản ứng dây chuyền (`Ingredients`: chỉ gắn ảnh nhân vật có mặt trong clip)
+> - **Clip 6 (00:50–01:00):** Cú lật kèo quạt Ba Tiêu / sao kê + câu đúc kết nhẹ nhàng sâu sắc của Thầy (`Ingredients`: chỉ gắn ảnh nhân vật có mặt trong clip)
 
 ---
 

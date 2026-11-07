@@ -1716,7 +1716,8 @@ def rewrite_prompt_on_failure(
     # 2. Thay thế phần [AVOID] (vốn thường chứa các từ nhạy cảm như nudity, blood, weapon làm kích hoạt nhầm bộ lọc)
     clean_avoid = (
         "[AVOID]\n"
-        "subtitles, captions, on-screen text, readable letters or numbers, watermarks, logos, "
+        "title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, "
+        "subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, "
         "visual glitches, distorted hands, extra fingers, abrupt jump cuts."
     )
     if "[AVOID]" in p:
@@ -1742,7 +1743,7 @@ def rewrite_prompt_on_failure(
                     if is_3d
                     else "photorealistic cinematic live-action film shot on 35mm lens, balanced atmospheric lighting, 24fps. "
                 )
-                + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken dialogue in Vietnamese with natural accent and accurate lip-sync. No subtitles, no on-screen text.\n\n"
+                + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken dialogue in Vietnamese with natural accent and accurate lip-sync. Pure clean camera footage ONLY — strictly no title cards, no movie/episode/scene titles, no subtitles, no on-screen text.\n\n"
             ),
             p.lstrip(),
             flags=re.IGNORECASE,
@@ -1804,7 +1805,7 @@ def rewrite_prompt_on_failure(
             if is_3d
             else "photorealistic live-action Vietnamese atmospheric mystery drama film (`omni_flash` 10s). "
         )
-        + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken Vietnamese audio with Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). No subtitles, no captions, no on-screen text, no logos.\n"
+        + "In a single continuous shot from 0.0s to 10.0s: ONE camera setup and ONE location, never flash or cut to a studio reference portrait at the start or end. Spoken Vietnamese audio with Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Pure clean camera footage ONLY — strictly no title cards, no movie/episode/scene titles, no subtitles, no captions, no on-screen text, no logos.\n"
     )
 
     chars_block = (
@@ -1850,16 +1851,23 @@ def rewrite_prompt_on_failure(
         )
 
     m_spd = re.search(r"\b(1\.\d{2}x)\b", prompt or "")
-    clip_spd = m_spd.group(1) if m_spd else "1.16x"
+    clip_spd = m_spd.group(1) if m_spd else "1.38x"
+    narr_id = (
+        "VOICE_LOCK_NARRATOR_TIENGGO"
+        if "VOICE_LOCK_NARRATOR_TIENGGO" in (prompt or "")
+        else "VOICE_LOCK_NARRATOR_OANTHAI"
+        if "VOICE_LOCK_NARRATOR_OANTHAI" in (prompt or "")
+        else "VOICE_LOCK_NARRATOR_CNHADG"
+    )
     voice_speed_block = (
-        "[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC — DUY NHẤT 1 GIỌNG SẮC LẠNH)]\n"
-        f"All spoken Vietnamese dialogue and off-screen narration must be delivered in a 100% Standard Northern Vietnamese accent (giọng chuẩn miền Bắc) with razor-sharp articulation, single locked 42-year-old Northern Vietnamese male narrator voice (VOICE_LOCK_NARRATOR_CNHADG, ~108 Hz dark raspy-edged mid-baritone, gritty vocal fry, zero warmth, dynamic fast pace at {clip_spd} speed when VO, or locked character voice when Lip-Sync), and accurate synchronization. "
-        "Strictly forbid Southern Vietnamese (Saigon/Mekong Delta) or Central accent, and never switch the narrator's vocal identity. "
+        "[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC — ĐỌC NHANH LIÊN THANH 1.35x–1.45x)]\n"
+        f"All spoken Vietnamese dialogue and off-screen narration must be delivered in a 100% Standard Northern Vietnamese accent (giọng chuẩn miền Bắc) with rapid-fire continuous articulation, single locked 42–48-year-old Northern Vietnamese male narrator voice ({narr_id}, ~120 Hz sharp energetic mid-baritone, 220–255 syllables/min, zero mid-sentence pauses, dynamic fast pace at {clip_spd} speed when VO, or locked character voice when Lip-Sync), and accurate synchronization. "
+        "Strictly forbid Southern Vietnamese (Saigon/Mekong Delta) or Central accent, never slow down or drag out words, and never switch the narrator's vocal identity. "
         "When the off-screen narrator speaks, all on-screen characters keep their mouths naturally closed.\n"
     )
 
     sound_line = (
-        f"[SOUND]\nAtmospheric night room ambience, rain and wind foley, razor-sharp close-mic Standard Northern Vietnamese voice (locked VOICE_LOCK_NARRATOR_CNHADG ~108 Hz at {clip_spd} fast pace) with 0.15s audio continuity at 0.0s and 10.0s.\n\n"
+        f"[SOUND]\nAtmospheric night room ambience, rain and wind foley, rapid-fire close-mic Standard Northern Vietnamese voice (locked {narr_id} ~120 Hz at {clip_spd} fast continuous pace, 220–255 syllables/min) with 0.15s audio continuity at 0.0s and 10.0s.\n\n"
         if has_mc_dinh_soan
         else "[SOUND]\nNatural room ambience, clear Vietnamese dialogue, gentle background instrumental score.\n\n"
     )

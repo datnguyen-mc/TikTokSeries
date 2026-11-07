@@ -1,43 +1,25 @@
-[1. FORMAT & MODEL]
-- Duration & Aspect Ratio: 10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, 180-degree cinema shutter.
-- Model & Aesthetics: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video), photorealistic live-action Vietnamese supernatural folk-horror cinema.
-- Visual Look & Grade: Authentic Northern Vietnamese architecture and rural atmosphere, natural skin textures and pores, damp mist, realistic shadows, flickering warm oil-lamp/tungsten amber contrasted against cold midnight cyan-blue darkness, subtle 35mm film grain. Single continuous 10-second camera shot (`Shot 08.3`, film timeline `07:20–07:30`).
+Photorealistic live-action Vietnamese folk-horror drama in a 150-year-old Northern Vietnamese ironwood ancestral house on a misty hillside; natural skin texture, monsoon damp, realistic practical light (oil lanterns, candles, lightning, moonlight), subtle 35mm film grain. One continuous 10-second shot, 16:9 widescreen, 24 fps.
 
-[2. CHARACTER & VOICE LOCK]
-Use attached reference images (`media_id`) strictly to lock facial identity, age, hairstyle, and wardrobe inside the live scene. Only the listed characters appear in frame.
-- @CoUt = Oan Hồn Cô Út Nhài (media_id: 9bdbd6ce-ef97-4c01-98e0-8b97370abd22 | age 19): Tragic Northern Vietnamese young maiden apparition sealed inside the laterite well 50 years ago, 160 cm, pale water-drenched porcelain skin, long wet black hair clinging to her cheeks, sorrowful dark eyes. Wardrobe: mud-stained off-white traditional Vietnamese silk áo dài dress, rusted iron chain cuff with broken links on her wrist, barefoot. Character Voice Reference (VOICE_LOCK_COUT_TIENGGO): 19-year-old native Standard Northern Vietnamese spectral young female voice (~235 Hz ethereal soprano), sorrowful, fragile, echoing from the deep well (giọng thiếu nữ 19 tuổi chuẩn miền Bắc, thanh mảnh, ai oán).
-- Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male storyteller (VOICE_LOCK_NARRATOR_TIENGGO): Deep warm low-baritone (~108–110 Hz), slightly husky, natural chest resonance, intimate late-night Vietnamese ghost-story storytelling style. Target speaking speed: 125–145 Vietnamese words per minute (this clip: 132–138 Vietnamese words/minute with 0.35s tense atmospheric pauses at ellipses (…); emotional tone: increasingly tense, haunting, suspenseful supernatural storytelling delivery). Reuse the same TTS voice ID / acoustic voice reference (VOICE_LOCK_NARRATOR_TIENGGO) across all 90 clips, relying on this full acoustic profile rather than a text label alone.
+[CHARACTERS]
+No named characters and no other people appear in this shot.
 
-[3. SCENE & SPATIAL LOCK]
-- Scene & Chronology: Scene 08/15 (Cụ Từ Tiết Lộ Thảm Án 50 Năm Trước & Sự Thật Về Bà Cầm), Clip 3/6 (Clip #45/90 | 07:20–07:30). Story Time: 02:30 Rạng sáng Đêm thứ hai (07:00–08:00).
-- Location & Architecture: Main ancestral ironwood hall lit by a flickering oil lamp and external lightning flashes, with the old Vũ clan family portrait hanging on the timber wall.
-- Spatial Geometry Lock: Main hall table and portrait wall axis where @CuTu and @Lam confront the 50-year-old crime, intercut with a spectral vision of the courtyard well.
-- Key Scene Props: Bronze exorcism bell and bamboo staff on the wooden table, faded Vũ clan portrait on the wall, brass storm lantern, rain-lashed window shutters illuminated by lightning.
+[SETTING]
+Flashback, a rainy night fifty years ago: the courtyard well, dim and desaturated.
 
-[4. DRAMATIC OBJECTIVE]
-In a haunting visual memory by the rainy courtyard well, bound 19-year-old @CoUt is forced down the dark laterite shaft while the heavy red-inscribed stone slab and three iron chains seal the top.
+[SHOT]
+- Camera: 35mm stabilized slow push-in toward the well; one smooth camera move from start to end, no cuts.
+- Continuity: new camera setup; establish the place and light cleanly from the first frame.
 
-[5. CAMERA & TIMED ACTION]
-- Single Coherent Camera Plan (0.0s–10.0s): 35mm stabilized atmospheric slow push-in. One physically plausible camera movement on a single consistent axis from 0.0s to 10.0s; zero contradictory camera rigs, zero sudden zooms, zero jump cuts.
-- 0.0s–2.5s (Intentional Scene/Location Transition): Clean cinematic transition into Main ancestral ironwood hall lit by a flickering oil lamp and external lightning flashes,  without forcing false physical continuity from the prior location/time. Dimly lit flashback vision at the rain-swept laterite well as @CoUt is forced into the dark shaft.
-- 2.5s–7.5s (Core Dramatic Progression): In a haunting visual memory by the rainy courtyard well, bound 19-year-old @CoUt is forced down the dark laterite shaft while the heavy red-inscribed stone slab and three iron chains seal the top.
-- 7.5s–10.0s (Outgoing Continuity Settle): The heavy stone slab and three iron chains lock shut over the well mouth in the rain. Hold a steady 0.5s visual and audio settle at 9.5s–10.0s to bridge cleanly into Clip 08.4.
+[TIMELINE]
+- 0.0–3.0s: Dim, desaturated flashback: rain pours over the courtyard well; a white jade hairpin lies on the wet rim.
+- 3.0–7.0s: The heavy red-inscribed stone slab slides shut over the dark well mouth and three iron chains drop across it, locked with a bronze padlock; a torn strip of white silk is caught under the slab.
+- 7.0–10.0s: The sealed, chained well sits alone in the pouring rain. The shot settles on this as its final frame.
 
-[6. NARRATION / DIALOGUE]
-- Word Budget & Pacing Check: 18 Vietnamese words (~8.6s active speech window at 125–145 WPM), finishing naturally at 8.8s before the 10.0s clip ends without rushing or truncation.
-- Turn 1 [0.8s–8.8s | 18 Vietnamese words | 132–138 Vietnamese words/minute] Off-Screen Male Narrator (Người Dẫn Chuyện — VOICE_LOCK_NARRATOR_TIENGGO | speaking off-screen in a 42–48-year-old native Standard Northern Vietnamese deep warm low-baritone, slightly husky, intimate late-night ghost-story style; all on-screen characters keep their mouths naturally closed): "Đêm mưa tháng Bảy ấy, mụ trói cô thả xuống giếng rồi dùng bia đá xích sắt khóa."
-- Lip-Sync & Mouth Lock: Off-screen narration ONLY. All on-screen characters (@CoUt) keep their mouths naturally closed throughout 0.0s–10.0s, expressing emotion through eyes, breathing, and posture.
-- Spoken Audio Rule: Speak ONLY the Vietnamese words inside quotation marks ("..."). Never read prompt instructions, @tags, character IDs, timestamps, or stage directions aloud.
+[AUDIO]
+- Narration 0.4–6.2s by an off-screen male narrator (Vietnamese man about 45, standard Hà Nội accent with clear six tones, firm resonant baritone with a slight rasp, crisp consonants, tense late-night ghost-story delivery at a brisk, steady pace, only tiny breaths at commas, no dragged vowels), in Vietnamese: "Trong đêm mưa tháng Bảy ấy, mụ trói cô thả xuống giếng rồi dùng bia đá Chu Sa và xích sắt khóa chặt."
+- Nobody on screen speaks; every mouth on screen stays closed.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- Sound effects: rain on the courtyard, iron chains clanking shut on stone, then deep silence. Ambience continues to 10.0s. No music.
 
-[7. HORROR SOUND DESIGN]
-- Synchronized Scene Audio (0.0s–10.0s): Tiếng xích sắt quấn chặt mặt đá và tiếng kêu cứu nghẹn tắt dưới đáy nước sâu.
-- Mix & Silence Discipline: Keep spoken Standard Northern Vietnamese narration/dialogue clearly audible in the foreground above environmental foley. Use strategic quiet tension, avoid excessive music or generic jump-scare stingers, and maintain a smooth 0.15s ambient room-tone transition at 0.0s and 10.0s.
-
-[8. START FRAME & END FRAME]
-- START FRAME (0.0s): Dimly lit flashback vision at the rain-swept laterite well as @CoUt is forced into the dark shaft.
-- END FRAME (10.0s): The heavy stone slab and three iron chains lock shut over the well mouth in the rain.
-
-[9. CONTINUITY & QUALITY RULES]
-- Preserve character facial identity, hair, body proportions, and costume across the entire 10-second shot; hands must have 5 natural fingers and grip props with realistic weight.
-- Never switch narrator gender, accent (must remain 100% Standard Northern Vietnamese / giọng chuẩn miền Bắc), or vocal age/timbre.
-- Full-bleed 16:9 image with no subtitles, no captions, no on-screen text, no watermarks, no black letterbox bars, and never flash or cut to a studio reference portrait backdrop.
+[AVOID]
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred or sped-up speech, Southern or Central Vietnamese accents.

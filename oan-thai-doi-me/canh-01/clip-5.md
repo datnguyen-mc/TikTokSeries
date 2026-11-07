@@ -1,66 +1,44 @@
-[FORMAT]
-10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, photorealistic live-action Vietnamese supernatural folk-horror film. Model: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video). Shutter: 180-degree cinema shutter (24 fps) for gritty motion cadence, visceral psychological dread, realistic skin pores, cold sweat texture, and raw cinema sensor grain. Scene category: SUPERNATURAL_FOLK_HORROR | Dialect: Standard Northern Vietnamese accent (giọng chuẩn miền Bắc). Color grade: Gritty Vietnamese folk-horror palette — dried blood-terracotta reds, deep kiln-ash charcoal blacks, flickering candle/nightlight crimson contrasted with cold cyan-green LiDAR and corpse-pale moonlight shadows, realistic Vietnamese skin tones. In a single continuous shot from 0.0s to 10.0s (Google Flow Omni 10s (`omni_flash`, 10.0s Ingredients Reference-to-Video locking @Bach, @Ha), shot type: MEDIUM_CLOSEUP): ONE camera setup and ONE real story location throughout the entire 10-second clip. Full-bleed 16:9 widescreen image filling 100% of the canvas edge-to-edge: strictly NO black letterbox bars at top or bottom, NO camera viewfinder/HUD metadata overlays, NO burned-in titles/captions/subtitles, NO film-strip borders, and NO split-screen panels. No scene cuts, no hard cuts, no whip-pan, no teleportation, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at any point in the clip.
+[1. FORMAT & MODEL]
+- Duration & Aspect Ratio: 10 seconds (0.0s–10.0s), full-frame 16:9 widescreen, 24 fps, 180-degree cinema shutter.
+- Model & Aesthetics: `omni_flash` (Google Flow Omni 10s Ingredients Reference-to-Video), photorealistic live-action Vietnamese supernatural folk-horror cinema.
+- Visual Look & Grade: Gritty Vietnamese folk-horror palette — dried blood-terracotta reds, deep kiln-ash charcoal blacks, flickering crimson/amber candle light contrasted against cold cyan-green LiDAR and midnight blue shadows, natural skin textures, subtle 35mm film grain. Single continuous 10-second camera shot.
+- Zero Title & Text Overlay Lock: Pure clean camera footage ONLY from 0.0s to 10.0s — strictly NO title cards, NO movie/episode/scene titles, NO chapter headers, NO subtitles, NO captions, NO timecodes, NO watermarks, and NO on-screen text or typography overlays of any kind.
 
-[CHARACTERS — approved identities, wardrobe, carried props and locked Standard Northern Vietnamese voice profiles]
-Use the attached reference images strictly for facial identity, hair, and wardrobe design inside the live story environment. Only the listed characters appear in frame.
-@Bach = Trần Nguyên Bách: same approved identity, age 30; Vietnamese male 3D LiDAR spatial engineer, 175 cm, lean build, angular face with expressive dark eyes behind thin metal-rimmed glasses, short natural black hair. Wardrobe: charcoal-grey windbreaker jacket over a black cotton T-shirt, dark slate trousers. Voice profile: [VOICE_LOCK_BACH_OANTHAI — Cố định giọng Bách chuẩn miền Bắc xuyên suốt 84 clips]: Fixed 30-year-old native Standard Northern Vietnamese male voice, warm mid-baritone register, natural Standard Northern Vietnamese cadence that tightens with breathless urgency, raw terror, and paternal anguish in horror climax moments. Strictly lock this exact Standard Northern Vietnamese vocal identity across every clip; never use Southern or Mekong Delta accent/slang.
-@Ha = Lê Thanh Hà: same approved identity, age 28; Vietnamese female antique ceramic conservator, 7 months pregnant, 162 cm, delicate oval face, pale skin, expressive dark eyes, long black hair fastened in a low bun with a carved wooden hairpin. Wardrobe: soft cream-beige linen maternity dress with a visible 7-month pregnant belly and a brown canvas potter apron lightly dusted with terracotta clay. Voice profile: [VOICE_LOCK_HA_OANTHAI — Cố định giọng Hà chuẩn miền Bắc xuyên suốt 84 clips]: Fixed 28-year-old native Standard Northern Vietnamese female voice, soft lyrical mezzo-soprano register, gentle maternal warmth that shifts to a bone-chilling trance-like Northern whisper when singing the clay-doll nursery rhyme or pleading in raw terror. Strictly lock this exact Standard Northern Vietnamese vocal identity across every clip; never use Southern or Mekong Delta accent/slang.
-Narrator (Người Dẫn Chuyện) = Off-screen 40-year-old native Standard Northern Vietnamese male horror storyteller. Voice profile: [VOICE_LOCK_NARRATOR_OANTHAI — Cố định giọng Nam Người Dẫn Chuyện chuẩn miền Bắc xuyên suốt 84 clips]: Deep, bone-chilling 40-year-old native Standard Northern Vietnamese male baritone voice (giọng nam chuẩn miền Bắc trầm lạnh, gai góc kể chuyện ma đêm khuya, classic Northern Vietnamese ghost-storyteller cadence with crisp consonant distinction, dark gravelly resonance, and authentic Northern tones). Strictly lock this exact Standard Northern Vietnamese male narrator voice across all 84 clips; NEVER use a Southern Vietnamese (Saigon/Mekong Delta) or Central accent, and never sound like a cheerful announcer or robotic TTS engine.
+[2. CHARACTER & VOICE LOCK]
+Use attached reference images (`media_id`) strictly to lock facial identity, age, hairstyle, and wardrobe inside the live scene. Only the listed characters appear in frame.
+- @Bach = Trần Nguyên Bách (media_id: 13fef96f-3dc8-4e4b-8960-17d39f1949e2 | age 30): Vietnamese male 3D LiDAR spatial engineer, 175 cm, lean build, angular face with tired attentive dark eyes behind thin metal-rimmed glasses, short natural parted black hair. Wardrobe: charcoal-grey windbreaker jacket over a plain black crew-neck T-shirt, dark slate cargo trousers, carrying a compact handheld 3D LiDAR scanner. Character Voice Reference (VOICE_LOCK_BACH_OANTHAI): 30-year-old native Standard Northern Vietnamese male voice (~128 Hz warm mid-baritone), breathless, urgent, and fiercely protective in horror moments (giọng nam 30 tuổi chuẩn miền Bắc, gấp gáp, quyết liệt). Deliver lines at a brisk, urgent, fast-clipped real-life pace (1.35x FAST PACE).
+- Narrator (Người Dẫn Chuyện) = Off-screen 42–48-year-old native Standard Northern Vietnamese male horror storyteller (VOICE_LOCK_NARRATOR_OANTHAI): Sharp, energetic, resonant mid-baritone (~120 Hz) with crisp Northern consonant attack and RAPID-FIRE, CONTINUOUS late-night Vietnamese ghost-story delivery. Mandatory Fast Speaking Speed: 220–230 Vietnamese syllables/minute (1.35x rapid continuous tempo) (1.35x FAST PACE) with zero mid-sentence pauses — continuous rapid-fire flow from first word to last word; delivery style: rapid-fire, sharp, energetic late-night ghost-story delivery — đọc nhanh liên thanh liền một mạch, nối chữ dồn nhịp, sắc gọn, tuyệt đối không ngắt nghỉ giữa câu hay kéo dài âm cuối. Speak in one continuous brisk breath without mid-sentence pauses, never drag out vowels, never speak slowly or sleepily. Reuse the same TTS voice ID / acoustic voice reference (VOICE_LOCK_NARRATOR_OANTHAI) across all 84 clips, relying on this full acoustic profile rather than a text label alone.
 
-[TIMELINE AND LOCATION]
-Scene 01/14, clip 5/6; shot 01.5 (10.0s | Model: `omni_flash` 10s). Story time: 17:45 Chiều tà âm u (00:40–00:50).
-Abandoned ancient brick pottery kiln house at the edge of a desolate riverbank graveyard (xưởng lò bầu gốm cổ bỏ hoang cuối bãi tha ma ven sông vắng): towering moss-covered dome of soot-blackened wood-fired red-grey bricks, kiln mouth bricked shut and crisscrossed with rotting blood-red threads, jagged terracotta shards and cold grey bone-ash covering the damp earthen floor, cobwebbed wooden roof beams, eerie blood-red twilight or stormy midnight rain.
-[FIXED SCENE SPATIAL LOCK — Cố định không gian xuyên suốt Cảnh 01 (Clip 1–6)]
-FIXED SCENE 01 SPACE (Xưởng lò bầu gốm cổ bỏ hoang cuối bãi tha ma ven sông lúc chiều tà): Trục không gian từ sân gạch mục phủ lá khô dẫn thẳng vào vòm lò bầu gạch nung đen kịt bị xây bít cửa ở trung tâm, ánh hoàng hôn đỏ quạch như máu đọng xuyên qua mái ngói vỡ.
-Strict spatial rule: Lock this exact spatial geometry, compass axis and architectural boundary across all 6 clips (Clip 1–6, 6 × 10s = 60s) of Scene 01.
+[3. SCENE & SPATIAL LOCK]
+- Scene & Chronology: Scene 01/14, Clip 5/6 (internal sequence order only — never display any title card, scene header, or text on screen). Story Time: 17:45 Chiều tà âm u.
+- Location & Architecture: Abandoned ancient brick pottery kiln house at the edge of a desolate riverbank graveyard (xưởng lò bầu gốm cổ bỏ hoang cuối bãi tha ma ven sông vắng), soot-blackened brick dome sealed with red threads.
+- Spatial Geometry Lock: Axis from the leaf-strewn rotting brick courtyard straight into the soot-blackened brick kiln dome whose arched mouth is bricked shut and crisscrossed with rotting blood-red threads under blood-red twilight.
+- Key Scene Props: Bricked-up ancient pottery kiln dome with rotting red threads, handheld 3D LiDAR scanner emitting a green laser grid, faceless unglazed terracotta clay infant effigy with deep cinnabar spine slashes, coarse brown cloth.
 
-[DRAMATIC INTENT — show through visceral horror behaviour, never narrate this note]
-Nhìn bọc vải trên tay, `@Bach` cất tiếng nói một mình giữa gian lò lạnh lẽo bằng giọng chuẩn miền Bắc.
+[4. DRAMATIC OBJECTIVE]
+@Bach wraps the faceless clay infant in a coarse brown linen cloth, speaks aloud to himself in the gloomy kiln house, then places the bundle into his leather satchel.
 
-[ACTION — 0.0s–10.0s, one continuous evolving take]
-- English Visual Choreography (0.0–10.0s): 0.0–3.0s: @Bach wraps the faceless clay infant in a coarse brown linen cloth, trying to shake off the creeping dread in the dark kiln. 3.0–7.0s: Looking down at the wrapped clay bundle in his hands, @Bach speaks aloud in Standard Northern Vietnamese with accurate lip-sync about bringing this strange antique statue home for @Ha to restore. 7.0–10.0s: @Bach closes his mouth, shoves the wrapped doll into his leather satchel, and hurries toward the exit.
-- Beat 1 (0.0–3.0s — Thiết lập không gian rùng rợn & khởi phát hành động): `@Bach` lấy tấm khăn vải thô màu nâu quấn kín pho tượng đất không mắt, cố trấn an sự bất an trong lòng.
-- Beat 2 (3.0–7.0s — Cao trào kinh dị & tương tác gai góc): Nhìn bọc vải trên tay, `@Bach` cất tiếng nói một mình giữa gian lò lạnh lẽo bằng giọng chuẩn miền Bắc.
-- Beat 3 (7.0–10.0s — Dư chấn tâm lý & điểm dừng rợn gáy): `@Bach` khép miệng, nhét bọc tượng vào túi da rồi vội vã quay lưng bước nhanh ra khỏi lò.
-Single continuous motion rule: Play Beat 1 (0.0–3.0s) -> Beat 2 (3.0–7.0s) -> Beat 3 (7.0–10.0s) once in contiguous order from 0.0s to 10.0s as one seamless, fluid physical motion curve; characters never freeze physical movement, gestures never repeat, and all horror tension is raw, grounded, and visceral.
+[5. CAMERA & TIMED ACTION]
+- Single Coherent Camera Plan (0.0s–10.0s): 50mm stabilized medium close-up shot. One physically plausible camera movement on a single consistent axis from 0.0s to 10.0s; zero contradictory camera rigs, zero sudden zooms, zero jump cuts.
+- 0.0s–2.5s (Seamless Incoming Continuity): Preserve the exact ending state, lighting, and character axis from Clip 01.4. @Bach wraps the faceless clay infant in a coarse brown linen cloth beside the opened kiln niche.
+- 2.5s–7.5s (Core Dramatic Progression): @Bach wraps the faceless clay infant in a coarse brown linen cloth, speaks aloud to himself in the gloomy kiln house, then places the bundle into his leather satchel.
+- 7.5s–10.0s (Outgoing Continuity Settle): @Bach closes his mouth, slips the wrapped doll into his satchel, and turns toward the kiln exit. Hold a steady 0.5s visual and audio settle at 9.5s–10.0s to bridge cleanly into Clip 01.6.
 
-[BLOCKING AND PERFORMANCE]
-- Spatial Blocking: Characters (@Bach, @Ha) maintain consistent screen positions within ABANDONED_KILN_HOUSE matching the continuous 0.0s -> 3.0s -> 7.0s -> 10.0s action flow.
-- Acting & Micro-Expressions: Gritty, spine-chilling Vietnamese live-action horror performance; trembling fingers, cold sweat, dilated pupils, heavy ragged breathing, visceral physical interaction with unglazed terracotta clay and ritual props.
+[6. NARRATION / DIALOGUE]
+- Fast Pacing & Word Budget Check: 25 Vietnamese syllables delivered at high velocity inside a tight 6.2s speaking window (0.2s–6.4s at 220–230 Vietnamese syllables/minute (1.35x rapid continuous tempo)), speaking continuously in one rapid breath without mid-sentence pauses and finishing crisply at 6.4s while leaving 3.6s of atmospheric horror sound design before 10.0s. Never speak slowly or drag out words.
+- Turn 1 [0.2s–6.4s | 25 Vietnamese syllables | On-Screen Lip-Sync | 1.35x FAST PACE (220–230 Vietnamese syllables/minute (1.35x rapid continuous tempo)) | ZERO PAUSES] @Bach (Trần Nguyên Bách — VOICE_LOCK_BACH_OANTHAI | speaking on-screen in native Standard Northern Vietnamese accent at a VERY FAST, URGENT continuous pace 1.35x FAST PACE, đọc nhanh liền mạch không ngắt nghỉ, 30-year-old native Standard Northern Vietnamese male voice (~128 Hz warm mid-baritone), breathless, urgent, and fiercely protective in horror moments (giọng nam 30 tuổi chuẩn miền Bắc, gấp gáp, quyết liệt).): "Món gốm cổ kỳ dị thế này đem về cho Hà phục chế thì kiểu gì cô ấy cũng mê mẩn suốt đêm cho xem."
+- Lip-Sync & Mouth Lock: Apply accurate fast-paced Vietnamese lip-sync ONLY to @Bach during 0.2s–6.4s. Off-screen narrator remains silent in this clip.
+- Spoken Audio Rule: Speak ONLY the Vietnamese words inside quotation marks ("...") at a rapid-fire continuous tempo (1.35x FAST PACE). Never read prompt instructions, @tags, character IDs, timestamps, or stage directions aloud.
 
-[CAMERA — Shot Size, Lens, Movement & Continuity]
-- Lens & Shot Type: 50mm, 24 fps, 180-degree shutter, MEDIUM_CLOSEUP.
-- Camera Movement Plan (0.0–10.0s): 50mm slow creeping push-in on character face and upper torso during peak horror revelation. Smooth acceleration and deceleration, level horizon, natural 3D parallax between foreground, midground and background. Never cut or jump axis inside the 10-second shot.
+[7. HORROR SOUND DESIGN]
+- Synchronized Scene Audio (0.0s–10.0s): Tiếng vải thô quấn sột soạt quanh khối đất cứng, giọng nói của @Bach dội vang trong vòm lò và tiếng khóa túi da đóng cạch.
+- Mix & Silence Discipline: Keep the fast-paced Standard Northern Vietnamese narration/dialogue (0.2s–6.4s) crisp and forward above environmental foley, letting the eerie folk-horror soundscape swell in the 6.4s–10.0s tail. Maintain a smooth 0.15s ambient room-tone transition at 0.0s and 10.0s.
 
-[PROPS & VISIBLE TEXTURE]
-[FIXED SCENE OBJECT INVENTORY — Chỉ xoay quanh các vật thể cố định của Cảnh 01]
-FIXED SCENE 01 OBJECTS: (1) Vòm lò nung gạch cổ bị xây bít kín và sợi chỉ đỏ mục nát thấm chu sa đen; (2) Máy quét 3D LiDAR cầm tay phát tia laser xanh lục lạnh lẽo của Bách; (3) Pho tượng búp bê đất nung không lông mày, không mắt, không miệng có vết rạch bùa sâu hoắm dọc sống lưng; (4) Tấm khăn vải thô màu nâu bọc tượng.
-- Visible Material & Lighting Texture: Raw porous unglazed terracotta clay grain, dried blood-crimson cinnabar paste, soot-blackened kiln ash, damp rotting wood, flickering red/amber shadows against deep abyssal darkness.
-Strict prop rule: Hands grip props with realistic weight and 5 natural fingers; objects never float, morph or vanish.
+[8. START FRAME & END FRAME]
+- START FRAME (0.0s): @Bach wraps the faceless clay infant in a coarse brown linen cloth beside the opened kiln niche.
+- END FRAME (10.0s): @Bach closes his mouth, slips the wrapped doll into his satchel, and turns toward the kiln exit.
 
-[BODY, MOUTH AND FACE CONSISTENCY]
-Lock character facial identity, hair, age, body proportions and wardrobe strictly to the approved references throughout the 10-second shot. No facial distortion or morphing during head turns. Natural blinks, matched eyelines, subtle breathing and micro-expressions.
-Mouth & Lip-Sync Map: 0.0–3.0s: mouth closed during tense setup beat; 3.0–7.0s: ONLY Bách (Trần Nguyên Bách) (@Bach) moves their lips on screen with accurate syllable-level Standard Northern Vietnamese lip-sync (VOICE_LOCK_BACH_OANTHAI); 7.0–10.0s: mouth closed during horror reaction beat, reacting through eyes and heavy breathing; every other character in frame keeps their mouth naturally closed throughout 0.0–10.0s.
-
-[VOICE & DIALOGUE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC)]
-Mandatory Dialect & Voice Lock: 100% Standard Northern Vietnamese accent (Giọng chuẩn miền Bắc).
-- Off-Screen Narrator (`VOICE_LOCK_NARRATOR_OANTHAI`): Deep, bone-chilling 40-year-old native Standard Northern Vietnamese male horror storyteller baritone voice (giọng nam chuẩn miền Bắc trầm lạnh, gai góc kể chuyện ma đêm khuya).
-- On-Screen Characters (`VOICE_LOCK_BACH_OANTHAI`, `VOICE_LOCK_HA_OANTHAI`, `VOICE_LOCK_THAYPHONG_OANTHAI`): Native Standard Northern Vietnamese voices matching each character's locked register.
-Voice direction: "Authentic native Standard Northern Vietnamese speech and late-night horror storytelling, crisp Northern phonology and tonal cadence, deep resonant chest baritone for the off-screen male narrator, organic breath control, and raw live-action Vietnamese horror cinema delivery. Strictly forbid Southern Vietnamese (Saigon) or Mekong Delta accent, and never use a robotic TTS monotone."
-
-[DIALOGUE — Timed to Action (1 turn(s), 25 Vietnamese words)]
-- Turn 1 [3.0–7.0s] Bách (Trần Nguyên Bách) (@Bach) [thoại trực tiếp trên hình | VOICE_LOCK_BACH_OANTHAI | giọng chuẩn miền Bắc 1.05x, cảm xúc kinh dị gai góc chân thực, khớp khẩu hình]: "Món gốm dị thế này mà đem về nhà cho Hà phục chế, kiểu gì cô ấy cũng mê mẩn suốt đêm cho mà xem."
-Spoken Audio Rule: Only the Vietnamese words inside the quotation marks ("...") are spoken aloud. Never read speaker names, @tags, timestamps, voice-lock IDs, or bracketed stage notes. No on-screen captions, subtitles, or watermarks.
-
-[SOUND — Bespoke Gritty Horror Soundscape (0.0s–10.0s)]
-- Foreground & Ambience Horror SFX (0.0–10.0s): Tiếng vải thô quấn sột soạt quanh khối đất cứng; tiếng giọng nói của Bách dội lại âm vang lạnh lẽo từ vòm gạch kín; tiếng khóa túi da đóng 'cạch' và tiếng bước chân vội vã dẫm lên mảnh sành vỡ 'răng rắc'.
-- Audio Discipline: Clean forward Standard Northern Vietnamese voice layered over raw, visceral, cause-driven diegetic horror sound effects (scraping unglazed clay, cracking joints/wood, sub-bass kiln resonance, ragged breathing, wet mud squelches, and eerie silence) synchronized to visible actions from 0.0s to 10.0s. No cheerful or generic stock music.
-
-[EDIT IN — do not render the previous shot again]
-Cut directly into Shot 01.5 at 0.0s inside the locked Scene 01 environment (00:40–00:50) via Google Flow Omni 10s (`omni_flash`). Never flash or display any studio reference portrait or grey backdrop.
-
-[START FRAME — state only, not an action to repeat]
-`@Bach` lấy tấm khăn vải thô màu nâu quấn kín pho tượng đất không mắt, cố trấn an sự bất an trong lòng.
-
-[END FRAME — lock position, props, eyeline & movement axis]
-`@Bach` khép miệng, nhét bọc tượng vào túi da rồi vội vã quay lưng bước nhanh ra khỏi lò.
+[9. CONTINUITY & QUALITY RULES]
+- Preserve character facial identity, hair, body proportions, and costume across the entire 10-second shot; hands must have 5 natural fingers and grip props with realistic weight.
+- Maintain ONE consistent 42–48yo Standard Northern Vietnamese male narrator voice (VOICE_LOCK_NARRATOR_OANTHAI) speaking at a VERY FAST, SHARP, CONTINUOUS pace (1.35x FAST PACE / 220–255 syllables/min, zero mid-sentence pauses); never slow down, never switch gender or accent.
+- Full-bleed 16:9 clean camera image with ZERO title cards, ZERO movie/episode/scene titles, ZERO chapter headers, ZERO subtitles, ZERO captions, ZERO on-screen text or typography overlays, ZERO watermarks, ZERO black letterbox bars, and never flash or cut to a studio reference portrait backdrop.

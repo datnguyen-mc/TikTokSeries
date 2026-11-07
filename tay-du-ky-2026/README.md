@@ -21,3 +21,4 @@
 - [Tập 18 — Tổng kết hot & drama tài chính: Mua sắm trả góp thành 'hộ nghèo kiểu mới', ảo tưởng trợ cấp thất nghiệp & hóa đơn nhà trọ](tap-18/README.md)
 - [Tập 19 — Tổng kết hot & drama trong ngày: Chia tay đòi sao kê từng ly trà sữa, cơn sốt xé túi mù & tờ giấy nợ tiền điện của La Sát](tap-19/README.md)
 - [Tập 20 — Tổng kết hot & drama trong ngày: Cơn sốt đăng ký 10 khóa học đêm vì sợ tụt hậu, phép phân thân học hộ & hóa đơn 'cơm bình dân trên trời'](tap-20/README.md)
+- [Tập 21 — Tổng kết hot & drama trong ngày: Trend 'chữa lành giữa trưa nắng', phông bạt check-in cà phê 5 sao bằng ly tái chế & cú quạt Ba Tiêu đòi tiền rác của La Sát](tap-21/README.md)

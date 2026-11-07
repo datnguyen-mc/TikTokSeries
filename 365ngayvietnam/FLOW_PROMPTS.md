@@ -5101,3 +5101,348 @@ Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ M
 ### [6. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
 
 - **Tuyệt đối tránh (Strict Negatives)**: Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom, không dịch chuyển camera tức thời từ flycam trên cao xuống cận cảnh mặt trong 0.1 giây (no impossible drone-to-closeup teleportation). Không nhồi nhét chuỗi hành động tháo/đội mũ bảo hiểm + cài quai + leo lên xe + nổ máy trong 2.5 giây. Không đóng băng khung hình cuối (no frozen static frame). Không hiển thị phụ đề, chữ viết, biển báo sai chính tả, logo, watermark hay khung chia đôi màn hình / bảng tham chiếu nhân vật (no text, no subtitles, no reference sheet collage, no split-screen). Không làm da mịn như nhựa (no plastic skin), không biến dạng bàn tay/ngón tay, không làm méo bánh xe hoặc biến mất phụ kiện (@Vy luôn có khăn rằn + balo xanh rêu, @Joi luôn có máy ảnh đeo chéo + vòng tay dây dù). Không nhồi nhét cảnh đội mũ bảo hiểm + cài quai + leo lên xe trong 2 giây cuối.
+
+
+---
+
+## Tập 12: Hòa Bình — Đèo Đá Trắng Thung Khe, Bản Lác Mai Châu & Vịnh Hạ Long Trên Núi Lòng Hồ Sông Đà (`tap12-hoa-binh` — 6 Clips)
+
+# HB12-C01 — Tập 12: Hòa Bình — Đèo Đá Trắng Thung Khe, Bản Lác Mai Châu & Vịnh Hạ Long Trên Núi Lòng Hồ Sông Đà | Clip 1: Đèo Đá Trắng Thung Khe Như Tuyết Bắc Âu & Ngô Nướng Cơm Lam Nóng Hổi
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean | Check-in Địa Điểm & Ẩm Thực Độc Lập — Không Xe Máy, Không Mũ Bảo Hiểm)
+
+---
+
+### [1. THÔNG TIN ĐỊA ĐIỂM & MÓN ĂN KIỂM CHỨNG — REAL-WORLD VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Đèo Đá Trắng (Đèo Thung Khe, nằm trên Quốc lộ 6 nối huyện Tân Lạc và huyện Mai Châu, tỉnh Hòa Bình ở độ cao khoảng 1.000m) nổi tiếng với những vách núi đá vôi trắng xóa như phủ tuyết Bắc Âu quanh năm ẩn hiện trong sương mù, cùng dãy lán tre trên đỉnh đèo bán ngô nếp nướng, trứng gà nướng và cơm lam ống nứa nóng hổi.
+- **Thời điểm trải nghiệm**: 08:00 sáng trong làn sương sớm mỏng tại đỉnh Đèo Đá Trắng (Thung Khe, Hòa Bình).
+- **Quy tắc bối cảnh độc lập**: Mở cảnh trực tiếp tại địa điểm check-in / bàn ẩm thực đặc sản (Đèo Đá Trắng Thung Khe Như Tuyết Bắc Âu & Ngô Nướng Cơm Lam Nóng Hổi); @Vy và @Joi để tóc tự nhiên 100%, không xuất hiện xe máy, không đội hay tháo mũ bảo hiểm.
+
+---
+
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT — 100% CHARACTER LOCK (KHÔNG MŨ BẢO HIỂM, KHÔNG XE MÁY)]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, má lúm đồng tiền bên phải khi cười, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, **tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay để xõa tự nhiên (tuyệt đối không đội mũ bảo hiểm)**, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió màu vàng mù tạt (#E5A93B) khoác ngoài áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9); giày sneaker trắng; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; balo du lịch nhỏ màu xanh rêu (#4A5D3B).
+- **@Joi** (Nam chính — chàng trai châu Âu 27 tuổi, 1m83, vai rộng vạm vỡ săn chắc): Khuôn mặt góc cạnh nam tính, râu quai nón tỉa gọn 2mm, mắt xanh xám ấm áp hay cười, mũi cao, **tóc nâu hạt dẻ gợn sóng bồng bềnh tự nhiên trong gió (tuyệt đối không đội mũ bảo hiểm)**, giọng nam trầm ấm hài hước nói tiếng Việt giọng miền Nam tự nhiên. Trang phục: Áo khoác denim xanh đậm (#2C3E50) xắn tay áo đến khuỷu bên ngoài áo thun xám than; quần jean đen; giày boot da cổ thấp nâu đất; vòng tay dây dù đen ở cổ tay phải; máy ảnh mirrorless đen đeo chéo vai bằng dây vải thổ cẩm Tây Bắc.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa hình, kiến trúc & ẩm thực thực tế**: Đỉnh Đèo Đá Trắng (Thung Khe, Hòa Bình) với vách núi đá vôi trắng muốt sừng sững như ngọn đồi phủ tuyết trắng xóa trong làn sương sớm; bên cạnh là lán tre mộc mạc có bếp than hồng nướng ngô nếp tím trắng, trứng gà nướng và những ống cơm lam tre vừa tách vỏ thơm lừng, hoàn toàn không có xe máy.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng sớm 08:00 dịu trong xuyên qua màn sương mỏng trên đỉnh Đèo Đá Trắng, hòa quyện với ánh lửa than hồng ấm áp hắt lên gương mặt rạng rỡ của @Vy và @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), độ sâu trường ảnh tách bạch chủ thể với khung cảnh hùng vĩ.
+- **Chuyển động môi trường & Chi tiết vật lý**: Khói trắng thơm phức bốc lên từ bắp ngô nếp nướng và ống cơm lam nóng hổi, sương núi trôi nhẹ qua vách đá vôi trắng xóa phía sau, mái tóc tự nhiên của @Vy và @Joi khẽ bay.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh check-in độc lập)**: @Vy và @Joi đứng bên lán tre ngay dưới chân vách núi đá vôi trắng xóa của Đèo Đá Trắng Thung Khe (cả hai để đầu trần tóc tự nhiên, không mũ bảo hiểm); @Vy cầm bắp ngô nếp nướng nóng hổi còn @Joi cầm ống cơm lam vừa bóc vỏ tre.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Khớp khẩu hình 100%)**: Camera lấy nét mượt mà vào gương mặt @Vy (tóc đen dài xoăn sóng nhẹ bay tự nhiên, không đội mũ), thấy rõ 100% ánh mắt rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam. @Vy xuýt xoa thổi nhẹ bắp ngô nếp nướng bốc khói, chỉ tay về phía vách núi đá trắng muốt phía sau rồi cười tươi với @Joi. @Vy nói trực tiếp: Đèo Đá Trắng Thung Khe ở Hòa Bình trắng xóa như tuyết Bắc Âu, ăn bắp nướng nóng hổi đã ghê!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Khớp khẩu hình 100%)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi (tóc nâu gợn sóng tự nhiên, không đội mũ), thấy rõ 100% biểu cảm hào hứng và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm. @Joi bẻ một khúc cơm lam ống nứa dẻo thơm chấm muối vừng đưa cho @Vy, cười ấm áp. @Joi đáp trực tiếp: Sương sớm lành lạnh mà có thêm cơm lam với trứng nướng trên đỉnh đèo là ấm lòng hết sẩy luôn em!
+- **00:07.5 – 00:10.0 (Tương tác trải nghiệm & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy và @Joi cụng nhẹ bắp ngô nướng với ống cơm lam rồi cùng thưởng thức ngon lành trước vách núi Đèo Đá Trắng hùng vĩ. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió/khói tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở thật; không dùng voiceover, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng than hồng nổ lách tách bên lán tre, tiếng gió sương sớm thổi nhẹ qua đỉnh Đèo Đá Trắng.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo trúc Tây Bắc kết hợp guitar acoustic du lịch trong trẻo, tươi sáng (nhỏ hơn thoại 12dB).
+
+---
+
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế | Thoại tiếng Việt (Giọng miền Nam) | Góc máy & Tiêu cự (Continuous Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng bên lán tre ngay dưới chân vách núi đá vôi trắng xóa của Đèo Đá Trắng Thung Khe (cả hai để đầu trần tóc tự nhiên, không mũ bảo hiểm); @Vy cầm bắp ngô nếp nướng nóng hổi còn @Joi cầm ống cơm lam vừa bóc vỏ tre. | *(Không thoại — âm thanh môi trường sống động)* | Mở cảnh trung rộng tại điểm check-in, đẩy mượt vào nhân vật. |
+| **00:01.5 – 00:04.5** | @Vy xuýt xoa thổi nhẹ bắp ngô nếp nướng bốc khói, chỉ tay về phía vách núi đá trắng muốt phía sau rồi cười tươi với @Joi. | **@Vy**: Đèo Đá Trắng Thung Khe ở Hòa Bình trắng xóa như tuyết Bắc Âu, ăn bắp nướng nóng hổi đã ghê! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy. |
+| **00:04.5 – 00:07.5** | @Joi bẻ một khúc cơm lam ống nứa dẻo thơm chấm muối vừng đưa cho @Vy, cười ấm áp. | **@Joi**: Sương sớm lành lạnh mà có thêm cơm lam với trứng nướng trên đỉnh đèo là ấm lòng hết sẩy luôn em! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi. |
+| **00:07.5 – 00:10.0** | @Vy và @Joi cụng nhẹ bắp ngô nướng với ống cơm lam rồi cùng thưởng thức ngon lành trước vách núi Đèo Đá Trắng hùng vĩ. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ mở rộng vách đá vôi trắng xóa Đèo Đá Trắng phía sau hai nhân vật, dừng êm ở 09.5s–10.0s. |
+
+---
+
+### [4. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: **TUYỆT ĐỐI KHÔNG CÓ XE MÁY, KHÔNG ĐỘI MŨ BẢO HIỂM, KHÔNG CẦM MŨ BẢO HIỂM, KHÔNG GẠT KÍNH MŨ BẢO HIỂM, KHÔNG LEO LÊN XE NỔ MÁY.** Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom. Không đóng băng khung hình cuối. Không hiển thị phụ đề, chữ viết, bong bóng thoại (no speech bubbles), thẻ tiêu đề (no title cards), biển báo, logo, watermark hay bảng tham chiếu nhân vật. Không làm da mịn như nhựa, không biến dạng bàn tay/ngón tay.
+
+---
+
+# HB12-C02 — Tập 12: Hòa Bình — Đèo Đá Trắng Thung Khe, Bản Lác Mai Châu & Vịnh Hạ Long Trên Núi Lòng Hồ Sông Đà | Clip 2: Dạo Bước Bản Lác Mai Châu & Trải Nghiệm Khung Cửi Dệt Thổ Cẩm Thái Trắng
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean | Check-in Địa Điểm & Ẩm Thực Độc Lập — Không Xe Máy, Không Mũ Bảo Hiểm)
+
+---
+
+### [1. THÔNG TIN ĐỊA ĐIỂM & MÓN ĂN KIỂM CHỨNG — REAL-WORLD VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Bản Lác (xã Chiềng Châu, huyện Mai Châu, tỉnh Hòa Bình) có tuổi đời hơn 700 năm của đồng bào dân tộc Thái trắng, nằm giữa thung lũng Mai Châu bằng phẳng với những ngôi nhà sàn gỗ mái lá cọ cao ráo và nghề dệt thổ cẩm truyền thống bằng khung cửi gỗ ngay dưới gầm và hiên nhà sàn.
+- **Thời điểm trải nghiệm**: 09:45 sáng tại đường làng và hiên dệt thổ cẩm nhà sàn Bản Lác, Mai Châu, Hòa Bình.
+- **Quy tắc bối cảnh độc lập**: Mở cảnh trực tiếp tại địa điểm check-in / bàn ẩm thực đặc sản (Dạo Bước Bản Lác Mai Châu & Trải Nghiệm Khung Cửi Dệt Thổ Cẩm Thái Trắng); @Vy và @Joi để tóc tự nhiên 100%, không xuất hiện xe máy, không đội hay tháo mũ bảo hiểm.
+
+---
+
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT — 100% CHARACTER LOCK (KHÔNG MŨ BẢO HIỂM, KHÔNG XE MÁY)]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, má lúm đồng tiền bên phải khi cười, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, **tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay để xõa tự nhiên (tuyệt đối không đội mũ bảo hiểm)**, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió màu vàng mù tạt (#E5A93B) khoác ngoài áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9); giày sneaker trắng; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; balo du lịch nhỏ màu xanh rêu (#4A5D3B).
+- **@Joi** (Nam chính — chàng trai châu Âu 27 tuổi, 1m83, vai rộng vạm vỡ săn chắc): Khuôn mặt góc cạnh nam tính, râu quai nón tỉa gọn 2mm, mắt xanh xám ấm áp hay cười, mũi cao, **tóc nâu hạt dẻ gợn sóng bồng bềnh tự nhiên trong gió (tuyệt đối không đội mũ bảo hiểm)**, giọng nam trầm ấm hài hước nói tiếng Việt giọng miền Nam tự nhiên. Trang phục: Áo khoác denim xanh đậm (#2C3E50) xắn tay áo đến khuỷu bên ngoài áo thun xám than; quần jean đen; giày boot da cổ thấp nâu đất; vòng tay dây dù đen ở cổ tay phải; máy ảnh mirrorless đen đeo chéo vai bằng dây vải thổ cẩm Tây Bắc.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa hình, kiến trúc & ẩm thực thực tế**: Con đường nhỏ sạch sẽ chạy giữa những nếp nhà sàn gỗ cổ lợp mái lá cọ của người Thái trắng tại Bản Lác (Mai Châu, Hòa Bình), phía sau là cánh đồng thung lũng Mai Châu và dãy núi đá vôi xanh thẫm; ngay hiên nhà sàn đặt chiếc khung cửi gỗ truyền thống với những dải vải thổ cẩm dệt tay hoa văn rực rỡ sắc đỏ, chàm, vàng.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Nắng mai 09:45 vàng ấm chiếu qua mái hiên nhà sàn làm nổi bật từng sợi chỉ thổ cẩm rực rỡ và gương mặt tươi tắn của @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), độ sâu trường ảnh tách bạch chủ thể với khung cảnh hùng vĩ.
+- **Chuyển động môi trường & Chi tiết vật lý**: Những tấm khăn thổ cẩm treo bên hiên nhà sàn khẽ đung đưa trong làn gió thung lũng Mai Châu, mái tóc tự nhiên của @Vy và @Joi lay nhẹ.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh check-in độc lập)**: @Vy và @Joi dừng chân bên chiếc khung cửi gỗ truyền thống dưới hiên nhà sàn cổ ở Bản Lác Mai Châu (đầu trần tóc tự nhiên, không mũ bảo hiểm); @Vy nhẹ nhàng chạm tay vào con thoi gỗ và tấm vải thổ cẩm đang dệt dở.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Khớp khẩu hình 100%)**: Camera lấy nét mượt mà vào gương mặt @Vy (tóc đen dài xoăn sóng nhẹ bay tự nhiên, không đội mũ), thấy rõ 100% ánh mắt rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam. @Vy nâng nhẹ dải khăn thổ cẩm dệt tay rực rỡ sắc màu lên khoe với @Joi, má lúm đồng tiền duyên dáng. @Vy nói trực tiếp: Bản Lác Mai Châu bình yên giữa thung lũng, từng đường thổ cẩm người Thái trắng dệt tay tinh xảo quá anh!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Khớp khẩu hình 100%)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi (tóc nâu gợn sóng tự nhiên, không đội mũ), thấy rõ 100% biểu cảm hào hứng và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm. @Joi mỉm cười ngắm nhìn những nếp nhà sàn gỗ nối tiếp nhau rồi nghiêng đầu khen @Vy. @Joi đáp trực tiếp: Hơn bảy trăm năm giữ nghề dệt bên nếp nhà sàn gỗ, nhìn em cầm tấm thổ cẩm xinh như gái bản luôn!
+- **00:07.5 – 00:10.0 (Tương tác trải nghiệm & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Joi quàng nhẹ chiếc khăn thổ cẩm rực rỡ lên vai @Vy, cả hai cùng cười tươi sánh bước bên dãy nhà sàn Bản Lác yên bình. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió/khói tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở thật; không dùng voiceover, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng thoi gỗ khung cửi lách cách nhịp nhàng, tiếng chim sẻ ríu rít trên mái nhà sàn, tiếng gió thung lũng êm đềm.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo trúc Tây Bắc kết hợp guitar acoustic du lịch trong trẻo, tươi sáng (nhỏ hơn thoại 12dB).
+
+---
+
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế | Thoại tiếng Việt (Giọng miền Nam) | Góc máy & Tiêu cự (Continuous Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi dừng chân bên chiếc khung cửi gỗ truyền thống dưới hiên nhà sàn cổ ở Bản Lác Mai Châu (đầu trần tóc tự nhiên, không mũ bảo hiểm); @Vy nhẹ nhàng chạm tay vào con thoi gỗ và tấm vải thổ cẩm đang dệt dở. | *(Không thoại — âm thanh môi trường sống động)* | Mở cảnh trung rộng tại điểm check-in, đẩy mượt vào nhân vật. |
+| **00:01.5 – 00:04.5** | @Vy nâng nhẹ dải khăn thổ cẩm dệt tay rực rỡ sắc màu lên khoe với @Joi, má lúm đồng tiền duyên dáng. | **@Vy**: Bản Lác Mai Châu bình yên giữa thung lũng, từng đường thổ cẩm người Thái trắng dệt tay tinh xảo quá anh! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy. |
+| **00:04.5 – 00:07.5** | @Joi mỉm cười ngắm nhìn những nếp nhà sàn gỗ nối tiếp nhau rồi nghiêng đầu khen @Vy. | **@Joi**: Hơn bảy trăm năm giữ nghề dệt bên nếp nhà sàn gỗ, nhìn em cầm tấm thổ cẩm xinh như gái bản luôn! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi. |
+| **00:07.5 – 00:10.0** | @Joi quàng nhẹ chiếc khăn thổ cẩm rực rỡ lên vai @Vy, cả hai cùng cười tươi sánh bước bên dãy nhà sàn Bản Lác yên bình. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ giữ trọn khung hình đôi bên khung cửi thổ cẩm và những nếp nhà sàn Bản Lác, dừng êm ở 09.5s–10.0s. |
+
+---
+
+### [4. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: **TUYỆT ĐỐI KHÔNG CÓ XE MÁY, KHÔNG ĐỘI MŨ BẢO HIỂM, KHÔNG CẦM MŨ BẢO HIỂM, KHÔNG GẠT KÍNH MŨ BẢO HIỂM, KHÔNG LEO LÊN XE NỔ MÁY.** Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom. Không đóng băng khung hình cuối. Không hiển thị phụ đề, chữ viết, bong bóng thoại (no speech bubbles), thẻ tiêu đề (no title cards), biển báo, logo, watermark hay bảng tham chiếu nhân vật. Không làm da mịn như nhựa, không biến dạng bàn tay/ngón tay.
+
+---
+
+# HB12-C03 — Tập 12: Hòa Bình — Đèo Đá Trắng Thung Khe, Bản Lác Mai Châu & Vịnh Hạ Long Trên Núi Lòng Hồ Sông Đà | Clip 3: Thác Gò Lào Ba Khan — Dải Lụa Trắng Xóa Giữa Rừng Trúc Mát Lành
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean | Check-in Địa Điểm & Ẩm Thực Độc Lập — Không Xe Máy, Không Mũ Bảo Hiểm)
+
+---
+
+### [1. THÔNG TIN ĐỊA ĐIỂM & MÓN ĂN KIỂM CHỨNG — REAL-WORLD VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Thác Gò Lào (Thác Gò Mu, thuộc xã Sơn Thủy / khu vực Ba Khan, huyện Mai Châu, tỉnh Hòa Bình) cao khoảng 20m, nơi dòng thác trắng xóa đổ xuống qua những vách đá phủ rêu xanh và rừng trúc xanh mát bên sườn núi hướng ra thung lũng Ba Khan – lòng hồ Sông Đà.
+- **Thời điểm trải nghiệm**: 11:15 trưa tại phiến đá phẳng bên chân Thác Gò Lào (Ba Khan, Mai Châu, Hòa Bình).
+- **Quy tắc bối cảnh độc lập**: Mở cảnh trực tiếp tại địa điểm check-in / bàn ẩm thực đặc sản (Thác Gò Lào Ba Khan — Dải Lụa Trắng Xóa Giữa Rừng Trúc Mát Lành); @Vy và @Joi để tóc tự nhiên 100%, không xuất hiện xe máy, không đội hay tháo mũ bảo hiểm.
+
+---
+
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT — 100% CHARACTER LOCK (KHÔNG MŨ BẢO HIỂM, KHÔNG XE MÁY)]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, má lúm đồng tiền bên phải khi cười, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, **tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay để xõa tự nhiên (tuyệt đối không đội mũ bảo hiểm)**, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió màu vàng mù tạt (#E5A93B) khoác ngoài áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9); giày sneaker trắng; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; balo du lịch nhỏ màu xanh rêu (#4A5D3B).
+- **@Joi** (Nam chính — chàng trai châu Âu 27 tuổi, 1m83, vai rộng vạm vỡ săn chắc): Khuôn mặt góc cạnh nam tính, râu quai nón tỉa gọn 2mm, mắt xanh xám ấm áp hay cười, mũi cao, **tóc nâu hạt dẻ gợn sóng bồng bềnh tự nhiên trong gió (tuyệt đối không đội mũ bảo hiểm)**, giọng nam trầm ấm hài hước nói tiếng Việt giọng miền Nam tự nhiên. Trang phục: Áo khoác denim xanh đậm (#2C3E50) xắn tay áo đến khuỷu bên ngoài áo thun xám than; quần jean đen; giày boot da cổ thấp nâu đất; vòng tay dây dù đen ở cổ tay phải; máy ảnh mirrorless đen đeo chéo vai bằng dây vải thổ cẩm Tây Bắc.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa hình, kiến trúc & ẩm thực thực tế**: Khu vực chân Thác Gò Lào (Ba Khan, Mai Châu, Hòa Bình) với dòng nước trắng xóa chia thành nhiều dải lụa đổ xuống vách đá xếp tầng phủ rêu xanh và hồ nước suối trong vắt, bao quanh là rừng trúc xanh rì rào mát rượi, hoàn toàn không có xe máy.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng trưa 11:15 xuyên qua tán rừng trúc xanh mướt chiếu lấp lánh lên màn bọt nước trắng xóa của Thác Gò Lào và gương mặt rạng rỡ của @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), độ sâu trường ảnh tách bạch chủ thể với khung cảnh hùng vĩ.
+- **Chuyển động môi trường & Chi tiết vật lý**: Dòng Thác Gò Lào đổ xuống tung bụi nước mát lạnh trong nắng, lá trúc xanh đung đưa nhịp nhàng, mái tóc tự nhiên của @Vy và @Joi lay nhẹ theo làn gió suối.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh check-in độc lập)**: @Vy và @Joi đứng trên phiến đá phẳng khô ráo ven hồ nước trong vắt dưới chân Thác Gò Lào giữa rừng trúc xanh mát (đầu trần tóc tự nhiên, không mũ bảo hiểm).
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Khớp khẩu hình 100%)**: Camera lấy nét mượt mà vào gương mặt @Vy (tóc đen dài xoăn sóng nhẹ bay tự nhiên, không đội mũ), thấy rõ 100% ánh mắt rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam. @Vy dang nhẹ bàn tay đón làn hơi nước mát lành từ dòng Thác Gò Lào trắng xóa phía sau rồi quay sang cười tươi với @Joi. @Vy nói trực tiếp: Băng qua rừng trúc Ba Khan là gặp ngay Thác Gò Lào đổ trắng xóa, mát rượi cả người luôn anh!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Khớp khẩu hình 100%)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi (tóc nâu gợn sóng tự nhiên, không đội mũ), thấy rõ 100% biểu cảm hào hứng và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm. @Joi mỉm cười sảng khoái, chỉ tay lên dòng thác phân tầng giữa vách đá rêu xanh rồi nhìn @Vy. @Joi đáp trực tiếp: Tiếng thác đổ giữa rừng trúc nghe êm tai thiệt, đúng là viên ngọc ẩn mình của Mai Châu Hòa Bình!
+- **00:07.5 – 00:10.0 (Tương tác trải nghiệm & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy và @Joi đứng sát bên nhau ngắm nhìn dòng Thác Gò Lào tung bọt trắng xóa giữa rừng trúc xanh biếc. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió/khói tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở thật; không dùng voiceover, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng thác nước Gò Lào đổ rào rào xuống hồ đá, tiếng lá trúc xào xạc trong gió, tiếng chim rừng hót trong trẻo.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo trúc Tây Bắc kết hợp guitar acoustic du lịch trong trẻo, tươi sáng (nhỏ hơn thoại 12dB).
+
+---
+
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế | Thoại tiếng Việt (Giọng miền Nam) | Góc máy & Tiêu cự (Continuous Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng trên phiến đá phẳng khô ráo ven hồ nước trong vắt dưới chân Thác Gò Lào giữa rừng trúc xanh mát (đầu trần tóc tự nhiên, không mũ bảo hiểm). | *(Không thoại — âm thanh môi trường sống động)* | Mở cảnh trung rộng tại điểm check-in, đẩy mượt vào nhân vật. |
+| **00:01.5 – 00:04.5** | @Vy dang nhẹ bàn tay đón làn hơi nước mát lành từ dòng Thác Gò Lào trắng xóa phía sau rồi quay sang cười tươi với @Joi. | **@Vy**: Băng qua rừng trúc Ba Khan là gặp ngay Thác Gò Lào đổ trắng xóa, mát rượi cả người luôn anh! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy. |
+| **00:04.5 – 00:07.5** | @Joi mỉm cười sảng khoái, chỉ tay lên dòng thác phân tầng giữa vách đá rêu xanh rồi nhìn @Vy. | **@Joi**: Tiếng thác đổ giữa rừng trúc nghe êm tai thiệt, đúng là viên ngọc ẩn mình của Mai Châu Hòa Bình! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi. |
+| **00:07.5 – 00:10.0** | @Vy và @Joi đứng sát bên nhau ngắm nhìn dòng Thác Gò Lào tung bọt trắng xóa giữa rừng trúc xanh biếc. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ mở rộng toàn cảnh Thác Gò Lào và rừng trúc Ba Khan phía sau hai nhân vật, dừng êm ở 09.5s–10.0s. |
+
+---
+
+### [4. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: **TUYỆT ĐỐI KHÔNG CÓ XE MÁY, KHÔNG ĐỘI MŨ BẢO HIỂM, KHÔNG CẦM MŨ BẢO HIỂM, KHÔNG GẠT KÍNH MŨ BẢO HIỂM, KHÔNG LEO LÊN XE NỔ MÁY.** Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom. Không đóng băng khung hình cuối. Không hiển thị phụ đề, chữ viết, bong bóng thoại (no speech bubbles), thẻ tiêu đề (no title cards), biển báo, logo, watermark hay bảng tham chiếu nhân vật. Không làm da mịn như nhựa, không biến dạng bàn tay/ngón tay.
+
+---
+
+# HB12-C04 — Tập 12: Hòa Bình — Đèo Đá Trắng Thung Khe, Bản Lác Mai Châu & Vịnh Hạ Long Trên Núi Lòng Hồ Sông Đà | Clip 4: Lòng Hồ Hòa Bình Ba Khan — Ngắm Vịnh Hạ Long Trên Núi Giữa Sông Đà Xanh Ngọc Bích
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean | Check-in Địa Điểm & Ẩm Thực Độc Lập — Không Xe Máy, Không Mũ Bảo Hiểm)
+
+---
+
+### [1. THÔNG TIN ĐỊA ĐIỂM & MÓN ĂN KIỂM CHỨNG — REAL-WORLD VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Lòng hồ Hòa Bình tại khu vực Ba Khan (xã Sơn Thủy, huyện Mai Châu, tỉnh Hòa Bình) được mệnh danh là "Vịnh Hạ Long trên núi" của Tây Bắc, nơi mặt nước Sông Đà xanh ngọc bích phẳng lặng ôm lấy hàng trăm hòn đảo đá vôi xanh thẫm nhấp nhô trùng điệp.
+- **Thời điểm trải nghiệm**: 14:30 chiều tại mỏm đá và bến thuyền gỗ vọng cảnh Ba Khan nhìn ra Lòng Hồ Hòa Bình – Sông Đà.
+- **Quy tắc bối cảnh độc lập**: Mở cảnh trực tiếp tại địa điểm check-in / bàn ẩm thực đặc sản (Lòng Hồ Hòa Bình Ba Khan — Ngắm Vịnh Hạ Long Trên Núi Giữa Sông Đà Xanh Ngọc Bích); @Vy và @Joi để tóc tự nhiên 100%, không xuất hiện xe máy, không đội hay tháo mũ bảo hiểm.
+
+---
+
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT — 100% CHARACTER LOCK (KHÔNG MŨ BẢO HIỂM, KHÔNG XE MÁY)]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, má lúm đồng tiền bên phải khi cười, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, **tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay để xõa tự nhiên (tuyệt đối không đội mũ bảo hiểm)**, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió màu vàng mù tạt (#E5A93B) khoác ngoài áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9); giày sneaker trắng; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; balo du lịch nhỏ màu xanh rêu (#4A5D3B).
+- **@Joi** (Nam chính — chàng trai châu Âu 27 tuổi, 1m83, vai rộng vạm vỡ săn chắc): Khuôn mặt góc cạnh nam tính, râu quai nón tỉa gọn 2mm, mắt xanh xám ấm áp hay cười, mũi cao, **tóc nâu hạt dẻ gợn sóng bồng bềnh tự nhiên trong gió (tuyệt đối không đội mũ bảo hiểm)**, giọng nam trầm ấm hài hước nói tiếng Việt giọng miền Nam tự nhiên. Trang phục: Áo khoác denim xanh đậm (#2C3E50) xắn tay áo đến khuỷu bên ngoài áo thun xám than; quần jean đen; giày boot da cổ thấp nâu đất; vòng tay dây dù đen ở cổ tay phải; máy ảnh mirrorless đen đeo chéo vai bằng dây vải thổ cẩm Tây Bắc.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa hình, kiến trúc & ẩm thực thực tế**: Mỏm đá tự nhiên nối với bến thuyền gỗ mộc mạc tại Ba Khan (Mai Châu, Hòa Bình) nhìn thẳng ra Lòng Hồ Hòa Bình mênh mông: mặt nước Sông Đà xanh ngọc bích trong vắt với hàng trăm đảo đá vôi phủ rừng xanh thẫm nhấp nhô như Vịnh Hạ Long trên núi, phía dưới có chiếc thuyền gỗ truyền thống neo nhẹ, hoàn toàn không có xe máy.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng chiều 14:30 vàng trong chiếu lấp lánh trên mặt nước xanh ngọc bích của Lòng Hồ Hòa Bình và làm bừng sáng gương mặt của @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), độ sâu trường ảnh tách bạch chủ thể với khung cảnh hùng vĩ.
+- **Chuyển động môi trường & Chi tiết vật lý**: Mặt nước Sông Đà gợn sóng lăn tăn phản chiếu nắng chiều, chiếc thuyền gỗ khẽ đung đưa bên bến, làn gió lòng hồ thổi bay nhẹ mái tóc tự nhiên và khăn rằn của hai nhân vật.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh check-in độc lập)**: @Vy và @Joi đứng bên mỏm đá và lan can gỗ điểm vọng cảnh Ba Khan nhìn ra Lòng Hồ Hòa Bình xanh ngọc bích (đầu trần tóc tự nhiên, không mũ bảo hiểm).
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Khớp khẩu hình 100%)**: Camera lấy nét mượt mà vào gương mặt @Vy (tóc đen dài xoăn sóng nhẹ bay tự nhiên, không đội mũ), thấy rõ 100% ánh mắt rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam. @Vy chỉ tay ra hàng trăm hòn đảo đá vôi nhấp nhô giữa mặt hồ Sông Đà xanh biếc rồi quay sang @Joi trầm trồ. @Vy nói trực tiếp: Nhìn Lòng Hồ Hòa Bình từ Ba Khan kìa anh, hàng trăm đảo đá giữa Sông Đà y hệt Vịnh Hạ Long trên núi!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Khớp khẩu hình 100%)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi (tóc nâu gợn sóng tự nhiên, không đội mũ), thấy rõ 100% biểu cảm hào hứng và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm. @Joi giơ máy ảnh lên chụp nhanh bức tranh sơn thủy hữu tình rồi quay sang cười ấm áp với @Vy. @Joi đáp trực tiếp: Nước Sông Đà xanh ngọc bích ôm lấy núi đá trùng điệp, cảnh sắc Hòa Bình hùng vĩ làm mê mẩn luôn!
+- **00:07.5 – 00:10.0 (Tương tác trải nghiệm & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy và @Joi khoác vai nhau bên bến gỗ ngắm nhìn toàn cảnh Vịnh Hạ Long trên núi của Lòng Hồ Hòa Bình. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió/khói tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở thật; không dùng voiceover, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng sóng nước Sông Đà vỗ êm vào mạn thuyền gỗ, tiếng gió lòng hồ thổi mát rượi, tiếng chim rừng ngân vang.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo trúc Tây Bắc kết hợp guitar acoustic du lịch trong trẻo, tươi sáng (nhỏ hơn thoại 12dB).
+
+---
+
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế | Thoại tiếng Việt (Giọng miền Nam) | Góc máy & Tiêu cự (Continuous Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi đứng bên mỏm đá và lan can gỗ điểm vọng cảnh Ba Khan nhìn ra Lòng Hồ Hòa Bình xanh ngọc bích (đầu trần tóc tự nhiên, không mũ bảo hiểm). | *(Không thoại — âm thanh môi trường sống động)* | Mở cảnh trung rộng tại điểm check-in, đẩy mượt vào nhân vật. |
+| **00:01.5 – 00:04.5** | @Vy chỉ tay ra hàng trăm hòn đảo đá vôi nhấp nhô giữa mặt hồ Sông Đà xanh biếc rồi quay sang @Joi trầm trồ. | **@Vy**: Nhìn Lòng Hồ Hòa Bình từ Ba Khan kìa anh, hàng trăm đảo đá giữa Sông Đà y hệt Vịnh Hạ Long trên núi! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy. |
+| **00:04.5 – 00:07.5** | @Joi giơ máy ảnh lên chụp nhanh bức tranh sơn thủy hữu tình rồi quay sang cười ấm áp với @Vy. | **@Joi**: Nước Sông Đà xanh ngọc bích ôm lấy núi đá trùng điệp, cảnh sắc Hòa Bình hùng vĩ làm mê mẩn luôn! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi. |
+| **00:07.5 – 00:10.0** | @Vy và @Joi khoác vai nhau bên bến gỗ ngắm nhìn toàn cảnh Vịnh Hạ Long trên núi của Lòng Hồ Hòa Bình. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera nâng nhẹ mở rộng toàn cảnh hàng trăm đảo đá trên Lòng Hồ Hòa Bình phía sau hai nhân vật, dừng êm ở 09.5s–10.0s. |
+
+---
+
+### [4. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: **TUYỆT ĐỐI KHÔNG CÓ XE MÁY, KHÔNG ĐỘI MŨ BẢO HIỂM, KHÔNG CẦM MŨ BẢO HIỂM, KHÔNG GẠT KÍNH MŨ BẢO HIỂM, KHÔNG LEO LÊN XE NỔ MÁY.** Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom. Không đóng băng khung hình cuối. Không hiển thị phụ đề, chữ viết, bong bóng thoại (no speech bubbles), thẻ tiêu đề (no title cards), biển báo, logo, watermark hay bảng tham chiếu nhân vật. Không làm da mịn như nhựa, không biến dạng bàn tay/ngón tay.
+
+---
+
+# HB12-C05 — Tập 12: Hòa Bình — Đèo Đá Trắng Thung Khe, Bản Lác Mai Châu & Vịnh Hạ Long Trên Núi Lòng Hồ Sông Đà | Clip 5: Mẹt Cỗ Lá Hòa Bình — Cá Sông Đà Nướng Kẹp Tre, Lợn Bản Nướng Lá Bưởi & Xôi Nếp Nương
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean | Check-in Địa Điểm & Ẩm Thực Độc Lập — Không Xe Máy, Không Mũ Bảo Hiểm)
+
+---
+
+### [1. THÔNG TIN ĐỊA ĐIỂM & MÓN ĂN KIỂM CHỨNG — REAL-WORLD VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Ẩm thực truyền thống Hòa Bình (cỗ lá người Mường và người Thái Mai Châu) nổi tiếng với mẹt tre lót lá chuối rừng bày Cá Sông Đà nướng kẹp tre vàng ươm thơm mùi mắc khén, Thịt lợn bản nướng lá bưởi dậy hương tinh dầu, Xôi nếp nương Mai Châu đồ chõ gỗ dẻo thơm và Măng đắng rừng chấm chẩm chéo.
+- **Thời điểm trải nghiệm**: 16:30 chiều trên hiên nhà sàn gỗ ấm cúng tại Hòa Bình.
+- **Quy tắc bối cảnh độc lập**: Mở cảnh trực tiếp tại địa điểm check-in / bàn ẩm thực đặc sản (Mẹt Cỗ Lá Hòa Bình — Cá Sông Đà Nướng Kẹp Tre, Lợn Bản Nướng Lá Bưởi & Xôi Nếp Nương); @Vy và @Joi để tóc tự nhiên 100%, không xuất hiện xe máy, không đội hay tháo mũ bảo hiểm.
+
+---
+
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT — 100% CHARACTER LOCK (KHÔNG MŨ BẢO HIỂM, KHÔNG XE MÁY)]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, má lúm đồng tiền bên phải khi cười, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, **tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay để xõa tự nhiên (tuyệt đối không đội mũ bảo hiểm)**, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió màu vàng mù tạt (#E5A93B) khoác ngoài áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9); giày sneaker trắng; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; balo du lịch nhỏ màu xanh rêu (#4A5D3B).
+- **@Joi** (Nam chính — chàng trai châu Âu 27 tuổi, 1m83, vai rộng vạm vỡ săn chắc): Khuôn mặt góc cạnh nam tính, râu quai nón tỉa gọn 2mm, mắt xanh xám ấm áp hay cười, mũi cao, **tóc nâu hạt dẻ gợn sóng bồng bềnh tự nhiên trong gió (tuyệt đối không đội mũ bảo hiểm)**, giọng nam trầm ấm hài hước nói tiếng Việt giọng miền Nam tự nhiên. Trang phục: Áo khoác denim xanh đậm (#2C3E50) xắn tay áo đến khuỷu bên ngoài áo thun xám than; quần jean đen; giày boot da cổ thấp nâu đất; vòng tay dây dù đen ở cổ tay phải; máy ảnh mirrorless đen đeo chéo vai bằng dây vải thổ cẩm Tây Bắc.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa hình, kiến trúc & ẩm thực thực tế**: Bàn gỗ trên hiên nhà sàn Hòa Bình bày mẹt cỗ lá chuối xanh mướt thịnh soạn: chính giữa là Cá Sông Đà nướng kẹp tre vàng ươm bốc khói, bên cạnh là những xiên Thịt lợn bản nướng lá bưởi cháy cạnh thơm lừng, chõ gỗ đựng Xôi nếp nương nhiều màu dẻo bóng, đĩa Măng đắng luộc và bát Chẩm chéo giã tay, hoàn toàn không có rượu bia và không có xe máy.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh nắng chiều 16:30 vàng ấm chiếu qua hiên nhà sàn gỗ làm lớp da cá Sông Đà nướng và thịt nướng lá bưởi ánh lên sắc vàng nâu hấp dẫn. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), độ sâu trường ảnh tách bạch chủ thể với khung cảnh hùng vĩ.
+- **Chuyển động môi trường & Chi tiết vật lý**: Làn khói thơm bốc lên từ cá Sông Đà nướng kẹp tre và chõ xôi nếp nương nóng hổi, lá chuối xanh bóng dưới nắng chiều.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh check-in độc lập)**: @Vy và @Joi ngồi bên bàn ăn mẹt cỗ lá chuối trên hiên nhà sàn gỗ (đầu trần tóc tự nhiên, không mũ bảo hiểm); @Vy dùng đũa tre gỡ một miếng thịt cá Sông Đà nướng kẹp tre trắng ngần thơm phức.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Khớp khẩu hình 100%)**: Camera lấy nét mượt mà vào gương mặt @Vy (tóc đen dài xoăn sóng nhẹ bay tự nhiên, không đội mũ), thấy rõ 100% ánh mắt rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam. @Vy chấm miếng cá Sông Đà nướng vào bát chẩm chéo rồi thưởng thức, mắt sáng rực khen ngợi. @Vy nói trực tiếp: Cá Sông Đà nướng kẹp tre lớp da giòn thơm, thịt bên trong chắc ngọt chấm chẩm chéo ngon xuất sắc luôn!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Khớp khẩu hình 100%)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi (tóc nâu gợn sóng tự nhiên, không đội mũ), thấy rõ 100% biểu cảm hào hứng và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm. @Joi gắp một miếng thịt lợn bản nướng lá bưởi ăn kèm xôi nếp nương đồ chõ gỗ và măng đắng rồi gật gù tâm đắc. @Joi đáp trực tiếp: Thịt lợn bản nướng lá bưởi dậy mùi thơm lừng, ăn kèm xôi nếp nương với măng đắng chuẩn vị cỗ lá Hòa Bình!
+- **00:07.5 – 00:10.0 (Tương tác trải nghiệm & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy và @Joi vui vẻ gắp thức ăn cho nhau bên mẹt cỗ lá đặc sản Hòa Bình đầy đặn trên hiên nhà sàn. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió/khói tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở thật; không dùng voiceover, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng đũa tre gắp thức ăn, tiếng nhai giòn thơm của cá nướng và thịt nướng lá bưởi, âm thanh bản làng yên ả.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo trúc Tây Bắc kết hợp guitar acoustic du lịch trong trẻo, tươi sáng (nhỏ hơn thoại 12dB).
+
+---
+
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế | Thoại tiếng Việt (Giọng miền Nam) | Góc máy & Tiêu cự (Continuous Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi ngồi bên bàn ăn mẹt cỗ lá chuối trên hiên nhà sàn gỗ (đầu trần tóc tự nhiên, không mũ bảo hiểm); @Vy dùng đũa tre gỡ một miếng thịt cá Sông Đà nướng kẹp tre trắng ngần thơm phức. | *(Không thoại — âm thanh môi trường sống động)* | Mở cảnh trung rộng tại điểm check-in, đẩy mượt vào nhân vật. |
+| **00:01.5 – 00:04.5** | @Vy chấm miếng cá Sông Đà nướng vào bát chẩm chéo rồi thưởng thức, mắt sáng rực khen ngợi. | **@Vy**: Cá Sông Đà nướng kẹp tre lớp da giòn thơm, thịt bên trong chắc ngọt chấm chẩm chéo ngon xuất sắc luôn! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy. |
+| **00:04.5 – 00:07.5** | @Joi gắp một miếng thịt lợn bản nướng lá bưởi ăn kèm xôi nếp nương đồ chõ gỗ và măng đắng rồi gật gù tâm đắc. | **@Joi**: Thịt lợn bản nướng lá bưởi dậy mùi thơm lừng, ăn kèm xôi nếp nương với măng đắng chuẩn vị cỗ lá Hòa Bình! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi. |
+| **00:07.5 – 00:10.0** | @Vy và @Joi vui vẻ gắp thức ăn cho nhau bên mẹt cỗ lá đặc sản Hòa Bình đầy đặn trên hiên nhà sàn. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lấy cận mẹt cá Sông Đà nướng và thịt nướng lá bưởi rồi nâng lên khung hình đôi rạng rỡ, dừng êm ở 09.5s–10.0s. |
+
+---
+
+### [4. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: **TUYỆT ĐỐI KHÔNG CÓ XE MÁY, KHÔNG ĐỘI MŨ BẢO HIỂM, KHÔNG CẦM MŨ BẢO HIỂM, KHÔNG GẠT KÍNH MŨ BẢO HIỂM, KHÔNG LEO LÊN XE NỔ MÁY.** Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom. Không đóng băng khung hình cuối. Không hiển thị phụ đề, chữ viết, bong bóng thoại (no speech bubbles), thẻ tiêu đề (no title cards), biển báo, logo, watermark hay bảng tham chiếu nhân vật. Không làm da mịn như nhựa, không biến dạng bàn tay/ngón tay.
+
+---
+
+# HB12-C06 — Tập 12: Hòa Bình — Đèo Đá Trắng Thung Khe, Bản Lác Mai Châu & Vịnh Hạ Long Trên Núi Lòng Hồ Sông Đà | Clip 6: Chả Cuốn Lá Bưởi Nướng Than Hồng & Trà Thảo Mộc Ngắm Hoàng Hôn Bản Lác Mai Châu
+**Tiêu chuẩn**: GOOGLE FLOW CINEMATIC REALISM (9:16 Vertical | 10.0s Continuous Shot | 24fps | 4K Ultra-Clean | Check-in Địa Điểm & Ẩm Thực Độc Lập — Không Xe Máy, Không Mũ Bảo Hiểm)
+
+---
+
+### [1. THÔNG TIN ĐỊA ĐIỂM & MÓN ĂN KIỂM CHỨNG — REAL-WORLD VERIFICATION]
+
+- **Thông tin đã xác minh `[ĐÃ XÁC MINH — VERIFIED]`**: Chả cuốn lá bưởi Hòa Bình (thịt ba chỉ ướp hành rừng, nước mắm, mắc khén cuốn trong lá bưởi bánh tẻ rồi kẹp tre nướng trên than hồng cho lá bưởi xém giòn dậy mùi tinh dầu thơm ngát) thưởng thức cùng trà thảo mộc nóng trên hiên nhà sàn Bản Lác khi hoàng hôn buông xuống thung lũng Mai Châu là trải nghiệm ẩm thực chiều tối đặc trưng nhất của Hòa Bình.
+- **Thời điểm trải nghiệm**: 17:40 hoàng hôn trên hiên nhà sàn gỗ nhìn ra thung lũng Bản Lác Mai Châu, Hòa Bình.
+- **Quy tắc bối cảnh độc lập**: Mở cảnh trực tiếp tại địa điểm check-in / bàn ẩm thực đặc sản (Chả Cuốn Lá Bưởi Nướng Than Hồng & Trà Thảo Mộc Ngắm Hoàng Hôn Bản Lác Mai Châu); @Vy và @Joi để tóc tự nhiên 100%, không xuất hiện xe máy, không đội hay tháo mũ bảo hiểm.
+
+---
+
+### [2. PROMPT VIDEO HOÀN CHỈNH ĐÃ TỐI ƯU — GOOGLE FLOW CINEMATIC REALISM]
+
+**[CẤU HÌNH QUAY & THÔNG SỐ KỸ THUẬT]**
+Khung hình dọc 9:16, 4K Ultra-HD, 24fps, 10.0 giây, **DUY NHẤT MỘT CÚ MÁY LIÊN TỤC (ONE SINGLE CONTINUOUS SHOT)** bằng hệ thống gimbal 3 trục cân bằng điện tử siêu mượt (3-axis stabilized gimbal). Hoàn toàn không cắt cảnh (no cuts), không nhảy góc (no jump cuts), không whip-pan, không snap-zoom. Chuyển động camera có gia tốc và giảm tốc vật lý tự nhiên (smooth ease-in / ease-out), giữ đường chân trời ổn định tuyệt đối và duy trì hiệu ứng thị sai (parallax) chân thực.
+
+**[KHÓA NHẬN DIỆN NHÂN VẬT — 100% CHARACTER LOCK (KHÔNG MŨ BẢO HIỂM, KHÔNG XE MÁY)]**
+- **@Vy** (Nữ chính — 25 tuổi, 1m62, 48kg, dáng mảnh mai săn chắc): Khuôn mặt trái xoan, cằm thon, má bầu nhẹ, mắt to hai mí nâu đen ấm áp, má lúm đồng tiền bên phải khi cười, da trắng hồng khỏe khoắn với lỗ chân lông tự nhiên (không mịn giả như nhựa), nốt ruồi nhỏ dưới mắt trái, **tóc đen dài ngang lưng xoăn sóng nhẹ có mái bay để xõa tự nhiên (tuyệt đối không đội mũ bảo hiểm)**, giọng miền Nam trong trẻo hào hứng. Trang phục: Áo khoác gió màu vàng mù tạt (#E5A93B) khoác ngoài áo thun trắng cổ tròn; quần cargo dài màu be/kem (#D4C5A9); giày sneaker trắng; khăn rằn Nam Bộ sọc đen-trắng quấn cổ; balo du lịch nhỏ màu xanh rêu (#4A5D3B).
+- **@Joi** (Nam chính — chàng trai châu Âu 27 tuổi, 1m83, vai rộng vạm vỡ săn chắc): Khuôn mặt góc cạnh nam tính, râu quai nón tỉa gọn 2mm, mắt xanh xám ấm áp hay cười, mũi cao, **tóc nâu hạt dẻ gợn sóng bồng bềnh tự nhiên trong gió (tuyệt đối không đội mũ bảo hiểm)**, giọng nam trầm ấm hài hước nói tiếng Việt giọng miền Nam tự nhiên. Trang phục: Áo khoác denim xanh đậm (#2C3E50) xắn tay áo đến khuỷu bên ngoài áo thun xám than; quần jean đen; giày boot da cổ thấp nâu đất; vòng tay dây dù đen ở cổ tay phải; máy ảnh mirrorless đen đeo chéo vai bằng dây vải thổ cẩm Tây Bắc.
+
+**[BỐI CẢNH ĐỊA LÝ THỰC TẾ & ÁNH SÁNG ĐIỆN ẢNH]**
+- **Địa hình, kiến trúc & ẩm thực thực tế**: Bàn gỗ trên hiên nhà sàn cao thoáng nhìn ra toàn cảnh thung lũng Bản Lác Mai Châu lúc hoàng hôn: trên bàn đặt đĩa gốm bày những viên Chả cuốn lá bưởi vừa nướng than hồng xém cạnh bốc khói thơm ngát, ấm trà thảo mộc gốm mộc và hai tách trà nóng; phía xa là những mái nhà sàn và cánh đồng Mai Châu nhuốm ráng chiều tím hồng, hoàn toàn không có xe máy.
+- **Ánh sáng điện ảnh (Realistic Cinematic Lighting)**: Ánh hoàng hôn 17:40 tím hồng và vàng cam dịu ngọt chiếu ngang qua hiên nhà sàn gỗ, hòa cùng ánh đèn lồng mây ấm áp làm nổi bật làn khói trà nóng và gương mặt thư thái của @Vy, @Joi. Kết cấu da của @Vy và @Joi hiển thị lỗ chân lông tự nhiên, vùng sáng chuyển mềm mại (soft highlight roll-off), độ sâu trường ảnh tách bạch chủ thể với khung cảnh hùng vĩ.
+- **Chuyển động môi trường & Chi tiết vật lý**: Làn khói mỏng thơm mùi tinh dầu lá bưởi nướng và khói trà thảo mộc bay lên chậm rãi trong gió chiều Mai Châu, ráng chiều tím hồng chuyển sắc mềm mại trên dãy núi phía xa.
+
+**[DIỄN BIẾN HÀNH ĐỘNG VẬT LÝ & ĐỒNG BỘ KHẨU HÌNH (CLOSE-UP SPEAKER LOCK)]**
+- **00:00.0 – 00:01.5 (Thiết lập bối cảnh check-in độc lập)**: @Vy và @Joi ngồi bên bàn gỗ trên hiên nhà sàn ngắm hoàng hôn Bản Lác Mai Châu (tóc để tự nhiên, không mũ bảo hiểm); @Vy gắp một miếng chả cuốn lá bưởi nướng nóng hổi còn @Joi nâng tách trà thảo mộc ấm.
+- **00:01.5 – 00:04.5 (Cận cảnh trung @Vy nói — Khớp khẩu hình 100%)**: Camera lấy nét mượt mà vào gương mặt @Vy (tóc đen dài xoăn sóng nhẹ bay tự nhiên, không đội mũ), thấy rõ 100% ánh mắt rạng rỡ và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam. @Vy thưởng thức miếng chả cuốn lá bưởi nướng than hồng, mỉm cười mãn nguyện vì vị thịt béo mềm quyện hương lá bưởi thơm giòn. @Vy nói trực tiếp: Chả cuốn lá bưởi Hòa Bình nướng than hồng thơm lừng, cắn vô giòn lá bên ngoài mà ngọt mềm bên trong!
+- **00:04.5 – 00:07.5 (Cận cảnh trung @Joi đáp — Khớp khẩu hình 100%)**: Camera lia ngang êm ái (gentle lateral pan & smooth focus shift) sang gương mặt @Joi (tóc nâu gợn sóng tự nhiên, không đội mũ), thấy rõ 100% biểu cảm hào hứng và khẩu hình miệng khớp chính xác từng âm tiết tiếng Việt giọng miền Nam trầm ấm. @Joi nâng tách trà thảo mộc nóng cụng nhẹ với tách trà của @Vy, ánh mắt ấm áp nhìn ra hoàng hôn thung lũng Mai Châu. @Joi đáp trực tiếp: Khép lại chặng Tây Bắc ở Bản Lác Mai Châu trọn vẹn quá, ngày mai tụi mình về Thủ đô Hà Nội nha em!
+- **00:07.5 – 00:10.0 (Tương tác trải nghiệm & giảm tốc camera tự nhiên — Natural Camera Settle)**: @Vy và @Joi cùng nhấp ngụm trà thảo mộc ấm áp, tựa vai nhau trên hiên nhà sàn ngắm ánh hoàng hôn tím hồng buông xuống thung lũng Bản Lác Mai Châu. Trong 0.5 giây cuối (`09.5s–10.0s`), camera giảm tốc dần rồi dừng êm ái (natural camera settle), trong khi @Vy, @Joi và cảnh vật xung quanh vẫn duy trì nhịp thở, ánh mắt và chuyển động gió/khói tự nhiên (tuyệt đối không đóng băng hình ảnh).
+
+**[ÂM THANH & THOẠI THỰC TẾ — AUDIO & DIALOGUE REALISM]**
+- **Thoại trực tiếp (On-screen Lip-Sync Dialogue)**: Giọng miền Nam tự nhiên 100%, rõ chữ, có nhịp thở thật; không dùng voiceover, không chồng thoại.
+- **Âm thanh môi trường (Diegetic Ambience & Foley)**: Tiếng tách trà gốm chạm nhẹ ấm áp, tiếng côn trùng chiều và gió thung lũng Mai Châu thanh bình.
+- **Nhạc nền (Subtle Background Score)**: Nhạc nền sáo trúc Tây Bắc kết hợp guitar acoustic du lịch trong trẻo, tươi sáng (nhỏ hơn thoại 12dB).
+
+---
+
+### [3. TIMELINE 10 GIÂY KHẢ THI VẬT LÝ — 10-SECOND ACTION & DIALOGUE TIMELINE]
+
+| Mốc thời gian | Chủ thể & Hành động vật lý thực tế | Thoại tiếng Việt (Giọng miền Nam) | Góc máy & Tiêu cự (Continuous Gimbal) |
+| :--- | :--- | :--- | :--- |
+| **00:00.0 – 00:01.5** | @Vy và @Joi ngồi bên bàn gỗ trên hiên nhà sàn ngắm hoàng hôn Bản Lác Mai Châu (tóc để tự nhiên, không mũ bảo hiểm); @Vy gắp một miếng chả cuốn lá bưởi nướng nóng hổi còn @Joi nâng tách trà thảo mộc ấm. | *(Không thoại — âm thanh môi trường sống động)* | Mở cảnh trung rộng tại điểm check-in, đẩy mượt vào nhân vật. |
+| **00:01.5 – 00:04.5** | @Vy thưởng thức miếng chả cuốn lá bưởi nướng than hồng, mỉm cười mãn nguyện vì vị thịt béo mềm quyện hương lá bưởi thơm giòn. | **@Vy**: Chả cuốn lá bưởi Hòa Bình nướng than hồng thơm lừng, cắn vô giòn lá bên ngoài mà ngọt mềm bên trong! | Cận cảnh trung (MCU) rõ mặt & khẩu hình @Vy. |
+| **00:04.5 – 00:07.5** | @Joi nâng tách trà thảo mộc nóng cụng nhẹ với tách trà của @Vy, ánh mắt ấm áp nhìn ra hoàng hôn thung lũng Mai Châu. | **@Joi**: Khép lại chặng Tây Bắc ở Bản Lác Mai Châu trọn vẹn quá, ngày mai tụi mình về Thủ đô Hà Nội nha em! | Lia ngang mượt sang MCU rõ mặt & khẩu hình @Joi. |
+| **00:07.5 – 00:10.0** | @Vy và @Joi cùng nhấp ngụm trà thảo mộc ấm áp, tựa vai nhau trên hiên nhà sàn ngắm ánh hoàng hôn tím hồng buông xuống thung lũng Bản Lác Mai Châu. | *(Cười tương tác tự nhiên, nhịp thở thật)* | Camera lùi nhẹ từ bàn chả cuốn lá bưởi và trà nóng ra toàn cảnh hoàng hôn thung lũng Mai Châu, dừng êm ở 09.5s–10.0s. |
+
+---
+
+### [4. NEGATIVE CONSTRAINTS — LOẠI TRỪ LỖI NGUY CƠ CAO]
+
+- **Tuyệt đối tránh (Strict Negatives)**: **TUYỆT ĐỐI KHÔNG CÓ XE MÁY, KHÔNG ĐỘI MŨ BẢO HIỂM, KHÔNG CẦM MŨ BẢO HIỂM, KHÔNG GẠT KÍNH MŨ BẢO HIỂM, KHÔNG LEO LÊN XE NỔ MÁY.** Không cắt cảnh (no cuts/jump cuts), không whip-pan, không snap-zoom. Không đóng băng khung hình cuối. Không hiển thị phụ đề, chữ viết, bong bóng thoại (no speech bubbles), thẻ tiêu đề (no title cards), biển báo, logo, watermark hay bảng tham chiếu nhân vật. Không làm da mịn như nhựa, không biến dạng bàn tay/ngón tay.

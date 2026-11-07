@@ -5,11 +5,11 @@
 - **Trục không gian cố định:** Progression from the town roadside and bamboo-lined concrete village path straight to the rusted iron gate and gnarled ancient jackfruit tree of Cụ Xá's abandoned house.
 - **Đạo cụ chính:** Black backpack, low plastic table and cold rice plate at the roadside stall, smartphone SMS, narrow concrete path between rice paddies, iron hoe, rusted black iron gate, gnarled ancient jackfruit tree.
 
-| Clip | Nhân Vật | Chế Độ Giọng | Tốc Độ / Cảm Xúc | Số Từ | Nội Dung Lời Dẫn / Thoại (12–18 từ) | Camera Plan |
-|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Binh` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Hơn hai giờ chiều xe thả Bình xuống thị xã nhỏ, nơi đất khách cậu mới thở phào." | 28mm stabilized gimbal tracking shot |
-| [**Clip 2**](clip-2.md) | `@Binh` | `VO` | `CALM_MYSTERIOUS` | **17 từ** | "Ngồi quán cơm bụi nhìn năm trăm nghìn cuối cùng mẹ chuyển, sống mũi Bình cay xè." | 50mm stabilized medium close-up push-in |
-| [**Clip 3**](clip-3.md) | `@Binh` | `VO` | `CALM_MYSTERIOUS` | **18 từ** | "Cậu định ẩn náu ở quê ít ngày… nhưng khi hỏi nhà cụ Xá, ai cũng biến sắc." | 35mm stabilized gimbal slow tracking shot |
-| [**Clip 4**](clip-4.md) | `@Binh` | `VO` | `RISING_DREAD` | **18 từ** | "Con đường về thôn hẹp dần giữa đồng chiều vắng, rợp bóng tre già âm u lạnh lẽo." | 28mm stabilized gimbal following shot |
-| [**Clip 5**](clip-5.md) | `@Binh, @OngBay` | `LIPSYNC:@OngBay` | `RISING_DREAD` | **18 từ** | "Nhà cuối xóm có gốc mít bỏ hoang hai mươi năm rồi… nhà nặng âm khí, có ma!" | 35mm stabilized two-shot slow push-in |
-| [**Clip 6**](clip-6.md) | `@Binh` | `VO` | `RISING_DREAD` | **17 từ** | "Đứng trước cổng sắt rỉ và gốc mít cổ thụ, luồng khí lạnh làm Bình rùng mình." | 35mm stabilized gimbal slow creeping push-in |
+| Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
+|---|---|---|---|---|---|---|---|
+| [**Clip 1**](clip-1.md) | `@Binh` | `VO` | **23** | `0.4–6.2s` | "Hơn hai giờ chiều chiếc xe khách thả Bình xuống bến thị xã nhỏ, giữa nơi đất khách cậu mới dám thở phào." | 28mm stabilized gimbal tracking shot | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Binh` | `VO` | **22** | `0.4–5.9s` | "Ngồi bên quán cơm bụi nhìn tin nhắn mẹ chuyển năm trăm nghìn cuối cùng, sống mũi Bình bỗng nhiên cay xè." | 50mm stabilized medium close-up push-in | Frames: nối khung cuối clip trước |
+| [**Clip 3**](clip-3.md) | `@Binh` | `VO` | **25** | `0.4–6.7s` | "Cậu tự nhủ sẽ ẩn náu ở quê nội ít ngày, nhưng khi hỏi thăm đường về nhà cụ Xá thì ai cũng biến sắc." | 35mm stabilized gimbal slow tracking shot | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@Binh` | `VO` | **24** | `0.4–6.4s` | "Con đường bê tông dẫn về thôn cứ hẹp dần giữa cánh đồng chiều vắng lặng, rợp bóng tre già âm u lạnh lẽo." | 28mm stabilized gimbal following shot | Frames: nối khung cuối clip trước |
+| [**Clip 5**](clip-5.md) | `@Binh`, `@OngBay` | `LIPSYNC:@OngBay` | **27** | `0.4–7.2s` | "Căn nhà cuối xóm có gốc mít cổ thụ ấy bỏ hoang hai mươi năm nay rồi cậu ơi, nhà ấy nặng âm khí có ma đấy!" | 35mm stabilized two-shot slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 6**](clip-6.md) | `@Binh` | `VO` | **24** | `0.4–6.4s` | "Đứng trước cánh cổng sắt rỉ sét và gốc mít cổ thụ vặn vẹo, một luồng khí lạnh thổi ra làm Bình rùng mình." | 35mm stabilized gimbal slow creeping push-in | Ingredients: ảnh nhân vật |

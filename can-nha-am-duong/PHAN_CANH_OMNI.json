@@ -1,0 +1,1741 @@
+{
+ "series": "can-nha-am-duong",
+ "title": "Căn Nhà Âm Dương: Oan Hồn Dưới Gốc Mít",
+ "style": "Photorealistic live-action Vietnamese folk-horror drama set in the Northern Vietnamese countryside; natural skin texture, damp air, realistic practical light (tungsten, oil lamps, moonlight), subtle 35mm film grain.",
+ "narrator": {
+  "voice": "Vietnamese man about 45, standard Hà Nội accent with clear six tones, firm resonant baritone with a slight rasp, crisp consonants, tense late-night ghost-story delivery at a brisk, steady pace, only tiny breaths at commas, no dragged vowels",
+  "rate": 4.0
+ },
+ "characters": {
+  "@Binh": {
+   "name": "Bình",
+   "anchor": "Bình, 21, thin pale Vietnamese university student; messy short black hair, dark circles under tired eyes; dark charcoal-grey hoodie over a white T-shirt, dark jeans, worn sneakers, black backpack.",
+   "voice": "young man of 21, standard Hà Nội accent, light tenor, shaky and breathless with fear",
+   "rate": 4.0
+  },
+  "@BaPhuong": {
+   "name": "Bà Phượng",
+   "anchor": "Bà Phượng, Bình's mother, 50; gentle worried oval face, black hair with grey streaks in a low bun; plain blue blouse, dark trousers.",
+   "voice": "woman of 50, standard Hà Nội accent, warm mezzo voice, tearful and worried",
+   "rate": 4.0
+  },
+  "@OngQuan": {
+   "name": "Ông Quân",
+   "anchor": "Ông Quân, Bình's father, 55; stocky, crew-cut greying hair, stern face with deep frown lines; white collared shirt with rolled sleeves, dark trousers.",
+   "voice": "man of 55, standard Hà Nội accent, deep stern gravelly baritone",
+   "rate": 4.0
+  },
+  "@OngBay": {
+   "name": "Ông Bảy",
+   "anchor": "Ông Bảy, 60, the neighbouring village farmer; lean and sun-tanned, silver-streaked hair, kind wrinkled face; faded plaid shirt, brown work trousers, rubber sandals; often with his old black bicycle.",
+   "voice": "village man of 60, Northern accent, warm rustic baritone",
+   "rate": 4.0
+  },
+  "@VongCuXa": {
+   "name": "vong hồn cụ Xá",
+   "anchor": "the ghost of Cụ Xá, Bình's late grandfather, about 80; gaunt, wispy white hair and beard, sad hollow eyes; faded brown traditional áo bà ba, barefoot; semi-transparent with a faint cold glow.",
+   "voice": "very old man, Northern accent, soft hoarse voice with a faint echo, gentle and unhurried",
+   "rate": 3.6
+  },
+  "@VongLa": {
+   "name": "vong lạ dưới gốc mít",
+   "anchor": "the wandering ghost of the jackfruit tree: tall gaunt figure, ash-grey damp skin, tangled wet black hair over half the face, long thin fingers, tattered dark wet clothes.",
+   "voice": "cold breathy whisper, Northern accent, echoing as if from every direction",
+   "rate": 3.8
+  }
+ },
+ "scenes": [
+  {
+   "num": 1,
+   "title": "Chuyến Xe Khách Đêm Khuya & Món Nợ Bốn Trăm Triệu",
+   "time_label": "23:30 Đêm khuya trên quốc lộ về quê nội (00:00–01:00)",
+   "location": "Lone sleeper coach bus crawling along a misty Northern Vietnamese rural highway and the dimly lit window seat inside the bus cabin (plus brief phone cutaway to @BaPhuong's kitchen).",
+   "axis": "Inside the dimly lit sleeper bus cabin by the rain-streaked glass window where @Binh clutches his black backpack as amber highway lights sweep past.",
+   "props": "Sleeper coach bus window streaked with rain, worn plush passenger seat, black backpack, glowing smartphone screen showing a liquidated trading account.",
+   "setting": "Night, heavy rain. Inside a dim sleeper coach crawling along a misty Northern Vietnamese rural highway; amber highway lights sweep across the rain-streaked window seat.",
+   "clips": [
+    {
+     "id": "01.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ôm món nợ hơn bốn trăm triệu đồng không lối thoát, Bình đành bỏ trốn trong đêm về căn nhà hoang của ông nội.",
+     "camera": "24mm stabilized aerial drone slow descending push-in",
+     "continuity": "cut",
+     "beats": [
+      "Wide aerial view above dark misty Northern Vietnamese rice fields as a lone coach bus rolls along the highway.",
+      "High-angle aerial camera gliding over dark, fog-shrouded Northern Vietnamese rice paddies at midnight and descending toward the rain-streaked window of a lone sleeper coach bus where @Binh sits huddled.",
+      "Camera pushes in close to the rain-streaked sleeper bus window revealing @Binh huddled inside."
+     ],
+     "sfx": "coach engine droning low through the night rain, wind whistling across the open fields",
+     "setting": "Night, heavy rain: dark fog-shrouded rice paddies and a lonely rural highway; a sleeper coach crawls along it, its rain-streaked windows dimly lit."
+    },
+    {
+     "id": "01.2",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Nhưng Bình đâu hề biết sau vụ tai nạn cướp đi sáu mạng người, căn nhà ấy đã thành nơi trú ngụ của ma quỷ.",
+     "camera": "35mm stabilized gimbal slow creeping push-in",
+     "continuity": "continuous",
+     "beats": [
+      "Interior view by the rain-streaked bus window where @Binh hugs his black backpack.",
+      "Inside the dimly lit sleeper bus cabin, @Binh clutches his black backpack tightly against his chest as passing amber highway streetlights sweep across his pale, hollow-eyed face.",
+      "@Binh stares blankly at his pale reflection in the wet glass as his jacket pocket begins to vibrate."
+     ],
+     "sfx": "steady swish of the coach's wipers, heavy uneasy breathing"
+    },
+    {
+     "id": "01.3",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "@Binh",
+     "line": "Con nghe đây mẹ ơi, con đang ngồi trên xe khách về quê nội rồi, mẹ đừng gọi nhiều nhỡ người ta nghe thấy.",
+     "camera": "50mm stabilized medium close-up shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh pulls his buzzing smartphone from his hoodie pocket by the dark bus window.",
+      "@Binh flinches, answers the call and speaks in a low, frightened voice, the phone at his ear and his face turned toward the camera so his lips stay clearly visible.",
+      "@Binh keeps the phone pressed to his ear, eyes darting nervously toward the dark aisle."
+     ],
+     "sfx": "phone buzzing against the seat cushion, low rumble of the coach in the dark cabin"
+    },
+    {
+     "id": "01.4",
+     "chars": [
+      "@BaPhuong"
+     ],
+     "speaker": "@BaPhuong",
+     "line": "Bố mày vẫn chưa biết chuyện đâu, nhưng đám chủ nợ sắp tìm tới nhà rồi, mày về quê nội phải thật cẩn thận nhé!",
+     "camera": "50mm stabilized medium close-up slow push-in",
+     "continuity": "cut",
+     "beats": [
+      "Medium close-up of @BaPhuong standing at a worn wooden kitchen table under a weak yellow bulb, phone pressed to her ear.",
+      "@BaPhuong grips the edge of the table, tears brimming, and warns her son in an urgent voice, her face toward the camera.",
+      "Tears roll down @BaPhuong's cheeks as she clutches the table edge, the phone still at her ear."
+     ],
+     "sfx": "an old electric fan rattling as it turns, the mother's choked breathing",
+     "setting": "Night. A small, dim city apartment kitchen: worn wooden table, weak yellow bulb, old electric fan."
+    },
+    {
+     "id": "01.5",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Tất cả bi kịch bắt nguồn từ cái bẫy tiền ảo trên mạng, chỉ sau một đêm mất trắng mà nợ lãi chồng chất.",
+     "camera": "35mm stabilized over-the-shoulder tilt-down push-in",
+     "continuity": "cut",
+     "beats": [
+      "Back inside the dark bus cabin as @Binh lowers his glowing smartphone screen.",
+      "Back in his dark sleeper bus seat, @Binh lowers the smartphone and stares at a screenshot of his liquidated online trading account glowing red, burying his face in his shaking hands.",
+      "@Binh buries his forehead in both trembling hands beside the rain-streaked window."
+     ],
+     "sfx": "flat beep of the call ending, bitter remorseful breathing"
+    },
+    {
+     "id": "01.6",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Không còn mặt mũi nào nhìn bố, Bình đánh liều trốn về quê mà chẳng ngờ mình đang tự bước chân vào cõi âm.",
+     "camera": "35mm stabilized slow dolly pull-back",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh locks his phone screen and rests his forehead against the cold bus window.",
+      "@Binh switches off his phone screen and leans his forehead against the freezing wet bus glass, watching his hollow reflection as the coach plunges deeper into rural night fog.",
+      "The sleeper coach bus disappears into dense white rural highway fog in the night."
+     ],
+     "sfx": "coach tyres hissing through rain puddles, hollow night wind"
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "title": "Bến Xe Thị Xã, Quán Cơm Bụi & Cánh Cổng Sắt Dưới Gốc Mít Cổ Thụ",
+   "time_label": "14:30–17:45 Chiều tà nơi thị xã và đường về xóm nhỏ (01:00–02:00)",
+   "location": "Dusty provincial bus drop-off, roadside rice stall, narrow concrete village lane flanked by bamboo groves, and the rusted black iron gate under the ancient jackfruit tree.",
+   "axis": "Progression from the town roadside and bamboo-lined concrete village path straight to the rusted iron gate and gnarled ancient jackfruit tree of Cụ Xá's abandoned house.",
+   "props": "Black backpack, low plastic table and cold rice plate at the roadside stall, smartphone SMS, narrow concrete path between rice paddies, iron hoe, rusted black iron gate, gnarled ancient jackfruit tree.",
+   "setting": "Afternoon in a small Northern Vietnamese provincial town and its village: a dusty bus stop, a roadside rice stall, a narrow concrete lane between rice paddies and old bamboo groves.",
+   "clips": [
+    {
+     "id": "02.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Hơn hai giờ chiều chiếc xe khách thả Bình xuống bến thị xã nhỏ, giữa nơi đất khách cậu mới dám thở phào.",
+     "camera": "28mm stabilized gimbal tracking shot",
+     "continuity": "cut",
+     "beats": [
+      "@Binh steps off the coach bus onto the dusty provincial roadside wearing his black backpack.",
+      "Under pale late-afternoon sun at a dusty provincial bus stop, the coach pulls away and @Binh steps onto the gravel shoulder with his black backpack, letting out a long, exhausted breath.",
+      "@Binh adjusts his backpack straps and looks toward a humble roadside rice stall."
+     ],
+     "sfx": "coach horn fading away down the highway, afternoon wind blowing grit underfoot"
+    },
+    {
+     "id": "02.2",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ngồi bên quán cơm bụi nhìn tin nhắn mẹ chuyển năm trăm nghìn cuối cùng, sống mũi Bình bỗng nhiên cay xè.",
+     "camera": "50mm stabilized medium close-up push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh sits hunched at a low plastic table looking down at his smartphone beside a rice plate.",
+      "@Binh sits alone at a low plastic table in a roadside eatery, staring down at a text message showing his mother just transferred her last five hundred thousand dong beside a plate of cold rice.",
+      "@Binh swallows hard with reddened eyes, unable to touch the cold rice before him."
+     ],
+     "sfx": "a soft message chime on the phone, a spoon clinking on a china plate"
+    },
+    {
+     "id": "02.3",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Cậu tự nhủ sẽ ẩn náu ở quê nội ít ngày, nhưng khi hỏi thăm đường về nhà cụ Xá thì ai cũng biến sắc.",
+     "camera": "35mm stabilized gimbal slow tracking shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh puts his phone away and stands up from the roadside plastic table.",
+      "@Binh slips the phone into his hoodie pocket, stares briefly at his trembling thin hands, then rises with his backpack to walk down the narrow concrete road leading into his grandfather's village.",
+      "@Binh walks onto the narrow concrete village road bordered by quiet fields."
+     ],
+     "sfx": "a plastic stool scraping on concrete, lone footsteps"
+    },
+    {
+     "id": "02.4",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Con đường bê tông dẫn về thôn cứ hẹp dần giữa cánh đồng chiều vắng lặng, rợp bóng tre già âm u lạnh lẽo.",
+     "camera": "28mm stabilized gimbal following shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh walks down the narrow concrete path beneath overhanging dark bamboo stalks.",
+      "@Binh walks alone along the narrow concrete lane between two darkening afternoon rice paddies as cold wind bends the overarching old bamboo groves with a hollow, eerie creak.",
+      "@Binh slows his pace as he spots an elderly farmer ahead near the village entrance."
+     ],
+     "sfx": "old bamboo stalks creaking against each other in the cold evening wind"
+    },
+    {
+     "id": "02.5",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "@OngBay",
+     "line": "Căn nhà cuối xóm có gốc mít cổ thụ ấy bỏ hoang hai mươi năm nay rồi cậu ơi, nhà ấy nặng âm khí có ma đấy!",
+     "camera": "35mm stabilized two-shot slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh stops on the concrete lane as @OngBay walks toward him, pushing an old black bicycle.",
+      "@OngBay stops beside @Binh, looks him over warily, then speaks and points down the lane toward a towering jackfruit tree at the far edge of the village, his face toward the camera.",
+      "@OngBay points his calloused hand down the lane toward the dark canopy at the village edge."
+     ],
+     "sfx": "wind rustling the rice paddies, a bicycle chain ticking"
+    },
+    {
+     "id": "02.6",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đứng trước cánh cổng sắt rỉ sét và gốc mít cổ thụ vặn vẹo, một luồng khí lạnh thổi ra làm Bình rùng mình.",
+     "camera": "35mm stabilized gimbal slow creeping push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh approaches the rusted black iron gate beneath the massive ancient jackfruit tree.",
+      "Following the pointed path, @Binh halts before a peeling, rusted black iron gate; inside the weed-choked yard, a gnarled ancient jackfruit tree looms over the dark three-bay tiled house.",
+      "@Binh grips the cold rusted iron bars looking into the overgrown, shadowed courtyard."
+     ],
+     "sfx": "dry jackfruit leaves rustling at dusk, rusted gate hinges groaning softly",
+     "setting": "Dusk: the rusted black iron gate under an ancient twisted jackfruit tree at the end of the village lane; an overgrown yard and a dark three-bay tiled house behind it."
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "title": "Ông Bảy Hàng Xóm & Lời Kể Rợn Tóc Gáy Về Vụ Lật Xe Lúc Ba Giờ Sáng",
+   "time_label": "18:00–21:00 Chập tối tại cổng nhà hoang và hiên nhà Ông Bảy (02:00–03:00)",
+   "location": "Rusted iron gate under the ancient jackfruit tree, the village lane, and @OngBay's warm-lit porch looking out toward the dark highway curve before Cụ Xá's gate.",
+   "axis": "Axis from the rusted iron gate of the abandoned house to @OngBay's neighbor porch overlooking the misty highway curve and jackfruit tree.",
+   "props": "Vintage Phượng Hoàng bicycle, rusted iron gate bars, hot green tea cups on a wooden table, misty highway curve outside the gate, gnarled jackfruit tree roots.",
+   "setting": "Dusk: the rusted iron gate under the ancient jackfruit tree and the quiet village lane.",
+   "clips": [
+    {
+     "id": "03.1",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "@OngBay",
+     "line": "Ơ cậu hỏi đường lúc chiều đây mà, trời tối rồi sao còn đứng lấp ló trước cổng nhà ấy thế hả?!",
+     "camera": "35mm stabilized medium tracking shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh holds the rusted iron gate bars as @OngBay brakes his old black bicycle right behind him.",
+      "@OngBay recognizes the young man from the afternoon and calls out to him with suspicion from his bicycle, his face toward the camera, while @Binh still grips the gate bars.",
+      "@Binh turns around, startled, to face @OngBay's stern gaze."
+     ],
+     "sfx": "bicycle brakes squealing on concrete, crickets starting up"
+    },
+    {
+     "id": "03.2",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "@Binh",
+     "line": "Dạ cháu không phải kẻ gian đâu bác ơi, cháu là Bình cháu nội cụ Xá, con trai bố Quân trên phố về thăm nhà ạ!",
+     "camera": "35mm stabilized two-shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh steps back from the gate and bows his head respectfully toward @OngBay.",
+      "@Binh explains who he is, his face toward the camera; hearing the name of his late neighbour's grandson, @OngBay's stern face softens.",
+      "@OngBay smiles warmly and pats @Binh's shoulder."
+     ],
+     "sfx": "a relieved exhale, a warm pat on the hoodie shoulder"
+    },
+    {
+     "id": "03.3",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Nhận ra đứa cháu nội của ông cụ hàng xóm quá cố, ông Bảy mừng rỡ dẫn Bình về nhà mình nghỉ tạm qua đêm.",
+     "camera": "28mm stabilized gimbal side-tracking shot",
+     "continuity": "continuous",
+     "beats": [
+      "@OngBay wheels his bicycle alongside @Binh away from the dark jackfruit gate.",
+      "@OngBay walks his bicycle side by side with @Binh away from the rusted iron gate toward his own modest three-bay tiled house at the head of the lane as dusk settles.",
+      "Both walk toward the warm yellow porch light of @OngBay's house down the lane."
+     ],
+     "sfx": "bicycle freewheel ticking steadily, evening insects chirring"
+    },
+    {
+     "id": "03.4",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Thế nhưng vừa nghe chồng bảo ngày mai cho Bình sang nhà hoang ở, vợ ông Bảy đã tái mặt kéo chồng ra góc hiên.",
+     "camera": "35mm stabilized medium push-in",
+     "continuity": "cut",
+     "beats": [
+      "@Binh sits drinking hot tea at a wooden table on @OngBay's warm-lit porch.",
+      "While @Binh sips his tea, @OngBay's wife beckons her husband to the corner pillar and whispers urgently; @OngBay listens with a troubled frown.",
+      "@OngBay's expression darkens with worry as he glances out toward the dark village road."
+     ],
+     "sfx": "a china cup set down on a wooden tray, an anxious wordless whisper from the porch corner",
+     "extras": "@OngBay's wife: a thin village woman about 58 in a faded floral blouse, hair in a bun (unnamed, no reference image).",
+     "setting": "Night: Ông Bảy's warm-lit tiled porch with a wooden tea table, looking out through fog toward the dark road bend and the black jackfruit tree by Cụ Xá's gate."
+    },
+    {
+     "id": "03.5",
+     "chars": [
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Bà nhắc rằng mười ba năm trước đúng ba giờ sáng, chiếc xe rước dâu lật nhào trước cổng làm sáu người chết thảm.",
+     "camera": "35mm stabilized over-the-shoulder push-in",
+     "continuity": "continuous",
+     "beats": [
+      "Over @OngBay's shoulder looking out from the porch into the fog-shrouded highway curve.",
+      "From his porch, @OngBay stares out through the thickening night fog toward the sharp highway curve right in front of Cụ Xá's rusted gate and the looming black jackfruit tree.",
+      "In the distance, the dark silhouette of the ancient jackfruit tree looms over the empty curve."
+     ],
+     "sfx": "cold night wind hissing through bamboo, a faint distant echo like tyres screeching",
+     "setting": "Night: Ông Bảy's warm-lit tiled porch with a wooden tea table, looking out through fog toward the dark road bend and the black jackfruit tree by Cụ Xá's gate."
+    },
+    {
+     "id": "03.6",
+     "chars": [
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Những oan hồn chết oan khuất không tìm được đường về đã kéo cả vào căn nhà bỏ không ấy trú ngụ suốt bao năm.",
+     "camera": "35mm stabilized slow creeping push-in",
+     "continuity": "continuous",
+     "beats": [
+      "Creeping view through white night mist toward the gnarled roots of the ancient jackfruit tree.",
+      "The camera pushes slowly through the ground fog beneath the gnarled ancient jackfruit tree outside the rusted iron gate, where the tall, skeletal silhouette of @VongLa stands staring into the abandoned house.",
+      "@VongLa's tall, ash-grey figure stands half-hidden behind the weeds staring through the iron gate."
+     ],
+     "sfx": "jackfruit leaves falling on wet grass, a deep hollow sigh from the old tree",
+     "setting": "Night, ground fog: the gnarled roots of the ancient jackfruit tree outside Cụ Xá's rusted gate."
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "title": "Phá Khóa Dọn Nhà Hoang & Cuộc Gọi Tuyệt Vọng Từ Mẹ",
+   "time_label": "07:00–11:30 Sáng hôm sau tại căn nhà hoang của Cụ Xá (03:00–04:00)",
+   "location": "Overgrown brick courtyard under the jackfruit tree, rusted iron gate, and the dusty, empty three-bay tiled house interior without an ancestral altar.",
+   "axis": "Axis from the broken padlock at the iron gate across the leaf-strewn brick courtyard into the bare, peeling-plaster main room.",
+   "props": "Bamboo broom, iron hoe breaking the rusted padlock, rotting jackfruit leaves and weeds in the courtyard, cobwebs, empty peeling-plaster main room, ringing smartphone.",
+   "setting": "Bright morning: the overgrown mossy brick courtyard under the ancient jackfruit tree and the rusted iron gate.",
+   "clips": [
+    {
+     "id": "04.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ánh nắng ban mai trong trẻo xua tan màn sương đêm, làm những lời đồn thổi ma quỷ tối hôm qua tạm thời lắng xuống.",
+     "camera": "28mm stabilized gimbal tracking shot",
+     "continuity": "cut",
+     "beats": [
+      "@Binh walks along the sunlit morning lane carrying a bamboo broom toward the iron gate.",
+      "Morning sunlight burns away the night mist under the jackfruit tree as @Binh walks up to the rusted iron gate carrying a bamboo broom while roosters crow across the village.",
+      "@Binh stops before the rusted padlock on the black iron gate under the jackfruit tree."
+     ],
+     "sfx": "roosters crowing across the village, sparrows chirping"
+    },
+    {
+     "id": "04.2",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Sáng hôm ấy ông Bảy dùng cán cuốc bẩy gãy tung chiếc ổ khóa sắt rỉ, mở toang cánh cổng khóa suốt hai mươi năm.",
+     "camera": "35mm stabilized medium close-up shot",
+     "continuity": "continuous",
+     "beats": [
+      "@OngBay inserts his hoe handle into the rusted padlock while @Binh holds the gate bar.",
+      "At the iron gate, @OngBay wedges the wooden handle of his iron hoe into the rusted padlock beside @Binh and wrenches downward, snapping the 20-year-old lock open with a sharp metallic crack.",
+      "The broken padlock drops onto the mossy bricks and the iron gate swings open."
+     ],
+     "sfx": "the rusted padlock snapping with a sharp crack, the heavy iron gate creaking open"
+    },
+    {
+     "id": "04.3",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Suốt ba tiếng đồng hồ phát cỏ dại và quét mạng nhện, khoảng sân gạch rêu phong dưới gốc mít cổ thụ mới lộ ra.",
+     "camera": "28mm stabilized gimbal panning shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh sweeps piles of dry jackfruit leaves across the mossy brick courtyard.",
+      "Inside the open gate, @Binh sweeps away thick layers of rotting brown jackfruit leaves, weeds, and cobwebs across the mossy brick courtyard beneath the sprawling tree canopy.",
+      "@Binh wipes sweat from his forehead and looks toward the dark open doorway of the main house."
+     ],
+     "sfx": "a bamboo broom sweeping dry leaves across old bricks"
+    },
+    {
+     "id": "04.4",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Bước qua ngưỡng cửa vào gian nhà chính trống huơ không một nén hương sưởi ấm, lòng Bình chợt chùng xuống lạnh lẽo.",
+     "camera": "35mm stabilized gimbal slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh steps over the wooden threshold into the dusty, empty three-bay main room.",
+      "@Binh steps across the wooden threshold into the bare, peeling-plaster main room; slanted afternoon sunbeams cut through roof tile gaps illuminating thick dust motes where no ancestral altar stands.",
+      "@Binh stands alone in the center of the bare room looking at the empty altar wall."
+     ],
+     "sfx": "footsteps echoing in the empty room, wind through gaps in the old roof tiles",
+     "setting": "Late morning: the dusty, empty three-bay main room with peeling plaster and no ancestral altar; sunbeams through gaps in the roof tiles."
+    },
+    {
+     "id": "04.5",
+     "chars": [
+      "@BaPhuong"
+     ],
+     "speaker": "@BaPhuong",
+     "line": "Bình ơi! Bố mày đã biết hết chuyện nợ nần rồi con ơi, ông ấy đang điên tiết lùng tìm mày khắp nơi đấy!",
+     "camera": "50mm stabilized tight close-up push-in",
+     "continuity": "cut",
+     "beats": [
+      "Tight close-up of @BaPhuong in a dim city room pressing her phone to her tear-stained cheek.",
+      "A shrill ringtone shatters the silence; on the other end in the city, @BaPhuong cowers in a dark room corner clutching her phone with both hands, sobbing in sheer panic.",
+      "@BaPhuong's voice cuts off abruptly as she lowers the phone in terror."
+     ],
+     "sfx": "panicked breathing, a faint crash of things breaking in another room"
+    },
+    {
+     "id": "04.6",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Cuộc gọi tắt phụt cắt đứt tia hy vọng cuối cùng, Bình ngồi gục xuống nền gạch lạnh ngắt giữa căn nhà ma.",
+     "camera": "35mm stabilized slow crane-down pull-back",
+     "continuity": "cut",
+     "beats": [
+      "@Binh stands frozen in the bare main room as the phone call disconnects.",
+      "Hearing the line go dead, @Binh lowers his phone with a lifeless arm, slides his back down the peeling damp lime wall onto the cold brick floor, and buries his head in his knees.",
+      "@Binh slumps onto the cold brick floor against the peeling wall holding his head."
+     ],
+     "sfx": "a phone knocking on the brick floor, a despairing sigh in the empty house",
+     "setting": "Late morning: the dusty, empty three-bay main room with peeling plaster and no ancestral altar; sunbeams through gaps in the roof tiles."
+    }
+   ]
+  },
+  {
+   "num": 5,
+   "title": "Đêm Đầu Tiên Một Mình & Vết Bầm Năm Ngón Tay Lúc Rạng Sáng",
+   "time_label": "23:45 Đêm đầu tiên đến 06:00 Sáng hôm sau (04:00–05:00)",
+   "location": "Dimly lit main room of the abandoned house with a creaking folding cot inside a thin white mosquito net under a 15W yellow filament bulb, opening onto the sunlit morning porch.",
+   "axis": "Interior bedroom axis centered on the folding cot and thin white mosquito net against the peeling lime wall, aligned with the wooden door out to the sunny porch.",
+   "props": "Creaking metal folding cot, thin white mosquito net (màn tuyn trắng), dim 15W yellow filament bulb, dark five-finger bruise on @Binh's left wrist.",
+   "setting": "First night: the dim main room of the abandoned house, a creaking folding cot inside a thin white mosquito net under a weak yellow filament bulb.",
+   "clips": [
+    {
+     "id": "05.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đêm đầu tiên ngủ lại một mình dưới ánh đèn dây tóc vàng vọt, Bình kéo chăn ngang ngực cố tự trấn an mình.",
+     "camera": "35mm stabilized gimbal slow push-in",
+     "continuity": "cut",
+     "beats": [
+      "@Binh lies curled on the folding cot inside the thin white mosquito net under dim yellow light.",
+      "On his first night alone under the dim, sickly yellow glow of a 15W filament bulb, @Binh lies curled on a creaking folding cot inside a thin white mosquito net, pulling his blanket tight.",
+      "@Binh closes his tired eyes beneath the mosquito net as the room shadows deepen."
+     ],
+     "sfx": "frogs croaking in the night paddies, the folding cot creaking softly"
+    },
+    {
+     "id": "05.2",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Khi cơn mê man vừa kéo đến, ngay sát bên ngoài lớp màn mỏng bỗng có bóng người cao gầy lặng lẽ đi quanh giường!",
+     "camera": "35mm stabilized high-angle slow crane-down shot",
+     "continuity": "continuous",
+     "beats": [
+      "High angle descending toward the white mosquito net in the dimly lit room.",
+      "The camera lowers slowly from the dark ceiling beams toward the white mosquito net where @Binh dozes; the shadows thicken, and the tall gaunt figure of @VongLa circles silently right outside the net.",
+      "@VongLa's tall dark silhouette pauses right beside the thin mosquito net above @Binh."
+     ],
+     "sfx": "wet bare footsteps gliding on the brick floor, the mosquito net trembling"
+    },
+    {
+     "id": "05.3",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "@Binh",
+     "line": "Ai đó?! Bỏ ngay cái bàn tay lạnh buốt ấy ra khỏi người tôi, cứu tôi với, có ai ngoài đó bỏ tôi ra!!",
+     "camera": "50mm stabilized close-up shot",
+     "continuity": "continuous",
+     "beats": [
+      "Close framing inside the mosquito net: @Binh lies rigid as a long ash-grey hand hovers just above his left wrist.",
+      "Frost creeps across @Binh's skin under @VongLa's hovering grey hand; his eyes fly open, his body frozen in sleep paralysis, and he cries out in terror, his face toward the camera.",
+      "@Binh strains his neck, gasping, unable to move, as the grey hand slowly withdraws into the dark."
+     ],
+     "sfx": "the folding cot rattling, an icy hiss of frost, faint ghostly breathing"
+    },
+    {
+     "id": "05.4",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Giật mình choàng tỉnh khi trời vừa hửng sáng, Bình chết lặng nhìn vết bầm tím đen năm ngón tay hằn sâu trên cổ tay!",
+     "camera": "35mm stabilized medium close-up push-in",
+     "continuity": "cut",
+     "beats": [
+      "Morning sunlight hits the mosquito net as @Binh bolts upright on the folding cot.",
+      "Morning sunbeams slant through the wooden window bars across the folding cot; @Binh bolts upright drenched in cold sweat and freezes as he looks down at a dark purple five-finger bruise on his left wrist.",
+      "@Binh stares in horror at the dark five-finger bruise encircling his pale left wrist."
+     ],
+     "sfx": "ragged waking gasps, early-morning birds outside",
+     "setting": "Early morning: the same main room, sunbeams slanting through the wooden window bars onto the folding cot."
+    },
+    {
+     "id": "05.5",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "@OngBay",
+     "line": "Bình ơi dậy chưa cháu? Mau ra rửa mặt mũi đi rồi sang bên nhà bác ăn bát cháo nóng cho ấm bụng nào!",
+     "camera": "35mm stabilized tracking shot",
+     "continuity": "continuous",
+     "beats": [
+      "@OngBay stands at the open iron gate in the morning sun and calls toward the house.",
+      "@OngBay calls out warmly, his face toward the camera, as @Binh hurries out of the wooden doorway onto the sunlit porch, lifting his left wrist to look at it.",
+      "@Binh stops on the porch steps staring at his now-unmarked wrist while @OngBay waves from the gate."
+     ],
+     "sfx": "the wooden door opening onto the morning sun, birdsong",
+     "setting": "Early morning: the main room doorway and the sunlit front porch, the iron gate under the jackfruit tree beyond."
+    },
+    {
+     "id": "05.6",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Bước ra nắng sớm vết bầm bỗng biến mất sạch trơn, nhưng trong góc tối sau lưng cậu cái bóng đen vẫn lặng lẽ dõi theo.",
+     "camera": "35mm stabilized slow dolly pull-back into interior",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh stands on the sunlit porch turning his clean left wrist over in disbelief.",
+      "@Binh stands on the bright porch rubbing his now-clean left wrist in confusion, while the camera pulls slowly backward into the dark room corner behind him where @VongLa watches before fading away.",
+      "Inside the shadowed doorway behind @Binh, @VongLa's dark silhouette lingers then dissolves."
+     ],
+     "sfx": "a cold draft in the dark corner against bright morning birdsong outside",
+     "setting": "Early morning: the main room doorway and the sunlit front porch, the iron gate under the jackfruit tree beyond."
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "title": "Chuyện Rượu Đêm Của Ông Tư — Bóng Ma Xin Thuốc Lá Dưới Gốc Mít",
+   "time_label": "16:30 Chiều đến 22:30 Đêm khuya Ngày thứ hai (05:00–06:00)",
+   "location": "Green village rice paddies, @OngBay's porch table at night, and the fog-shrouded roots of the ancient jackfruit tree outside the rusted iron gate.",
+   "axis": "From @OngBay's evening porch table pointing straight out to the gnarled roots of the ancient jackfruit tree at the gate.",
+   "props": "Green tea cups and rice wine glasses on @OngBay's porch, flickering lighter flame, crumpled cigarette pack on mossy jackfruit roots, rusted iron gate at midnight.",
+   "setting": "Days later in the village: green rice paddies in the late afternoon, Ông Bảy's porch table at dusk and at night, and the foggy roots of the ancient jackfruit tree outside the rusted gate.",
+   "clips": [
+    {
+     "id": "06.1",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Hai ngày tiếp theo trôi qua êm ả, ban ngày Bình đi theo ông Bảy ra thăm đồng cho vơi bớt nỗi ám ảnh.",
+     "camera": "28mm stabilized gimbal side-tracking shot",
+     "continuity": "cut",
+     "beats": [
+      "@Binh and @OngBay walk side by side along a sunlit green rice field embankment.",
+      "Under peaceful late-afternoon sunshine, @Binh walks alongside @OngBay down a lush green rice paddy embankment, his pale face relaxing slightly in the quiet rural breeze.",
+      "Both pause to look across the peaceful golden-green rice paddies toward the village."
+     ],
+     "sfx": "green rice rustling in the afternoon breeze, soft footsteps on the earthen dyke",
+     "setting": "Late afternoon: a lush green rice-paddy embankment in the village."
+    },
+    {
+     "id": "06.2",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ngồi uống chén nước chè xanh nóng hổi nơi hiên nhà hàng xóm, Bình thoáng nghĩ hay là cứ ở lại quê nghèo mãi mãi.",
+     "camera": "35mm stabilized medium two-shot",
+     "continuity": "cut",
+     "beats": [
+      "@Binh and @OngBay sit at the wooden porch table sharing steaming cups of green tea.",
+      "Back on @OngBay's tiled porch at dusk, @Binh sits at the wooden table lifting a steaming cup of green tea with @OngBay, a faint relieved smile touching his lips.",
+      "@Binh takes a quiet sip of tea as evening twilight begins to settle over the yard."
+     ],
+     "sfx": "hot tea poured into china cups, birds returning to roost",
+     "setting": "Dusk: Ông Bảy's tiled porch with a wooden table and tea cups."
+    },
+    {
+     "id": "06.3",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Nhưng rồi tối hôm ấy bên bàn rượu quê, ông Bảy hạ giọng ghé sát tai kể chuyện ông Tư gặp ma dưới gốc mít.",
+     "camera": "35mm stabilized slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "Under the yellow porch light at night, @OngBay leans across the table toward @Binh.",
+      "Over small cups of rice wine, @OngBay leans in close to @Binh and points with a trembling finger toward the dark jackfruit tree down the lane.",
+      "@OngBay points out into the dark lane toward the ancient jackfruit tree silhouette."
+     ],
+     "sfx": "small wine cups set on the table, crickets in the village night",
+     "setting": "Night: Ông Bảy's porch table under a yellow bulb, looking down the dark lane toward the jackfruit tree."
+    },
+    {
+     "id": "06.4",
+     "chars": [
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đêm đó ông Tư đi về khuya bật lửa mời thuốc, hiện ra trước mặt ông là khuôn mặt trắng bệch không có con ngươi!",
+     "camera": "50mm stabilized close-up slow push-in",
+     "continuity": "cut",
+     "beats": [
+      "Foggy night at the gnarled base of the ancient jackfruit tree; an old man's hand flicks a lighter in the foreground.",
+      "In the small orange flame, @VongLa, crouched among the roots, slowly lifts an ash-grey face with two pitch-black, eyeless sockets.",
+      "@VongLa's ash-grey face with hollow black eye sockets hangs in the flickering lighter glow."
+     ],
+     "sfx": "a lighter flicking in the night fog, icy wind through the jackfruit canopy",
+     "setting": "Flashback, foggy night: the gnarled roots of the ancient jackfruit tree outside the rusted gate.",
+     "extras": "Ông Tư: an old villager seen only as a hand holding a lit lighter in the foreground (unnamed, face never shown)."
+    },
+    {
+     "id": "06.5",
+     "chars": [
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Thứ tà ma đó nhoẻn miệng cười lạnh lẽo rồi tan biến vào thân cây, để lại bao thuốc lá trên đám rễ mít lạnh.",
+     "camera": "35mm stabilized slow dolly pull-back",
+     "continuity": "continuous",
+     "beats": [
+      "@VongLa crouches against the gnarled jackfruit trunk grinning in the cold mist.",
+      "@VongLa stretches a wide, silent grin and melts backward into the rough bark of the ancient jackfruit trunk, leaving a crumpled cigarette pack resting alone on the wet mossy roots.",
+      "@VongLa dissolves into the dark tree bark, leaving only the cigarette pack on the wet roots."
+     ],
+     "sfx": "a cold echoing giggle that dies away, jackfruit leaves falling",
+     "setting": "Flashback, foggy night: the gnarled roots of the ancient jackfruit tree outside the rusted gate."
+    },
+    {
+     "id": "06.6",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đêm khuya một mình bước qua đúng gốc mít cổ thụ ấy để về nhà, sống lưng Bình lạnh toát như ai chà nước đá.",
+     "camera": "35mm stabilized gimbal following shot",
+     "continuity": "cut",
+     "beats": [
+      "@Binh walks alone down the dark lane and steps through the rusted iron gate.",
+      "Late that night, @Binh walks alone through the rusted iron gate right past that very jackfruit tree, his eyes darting anxiously up at the pitch-black canopy rustling overhead.",
+      "@Binh hurries across the dark courtyard glancing fearfully back at the looming jackfruit tree."
+     ],
+     "sfx": "hurried footsteps through the iron gate, jackfruit branches creaking overhead",
+     "setting": "Late night: the dark village lane, the rusted iron gate and the ancient jackfruit tree."
+    }
+   ]
+  },
+  {
+   "num": 7,
+   "title": "Đêm Thứ Ba — Chiếc Xoong Nhôm Rơi Chói Tai & Bóng Trắng Ngoài Cửa Sổ",
+   "time_label": "01:30 Rạng sáng Đêm thứ ba (06:00–07:00)",
+   "location": "Dark adjoining kitchen and the folding cot inside the abandoned three-bay house, bordered by a wooden barred window facing the jackfruit yard.",
+   "axis": "Axis from the folding cot into the cramped adjoining kitchen with the wall nail, overhead filament bulb, and wooden barred window.",
+   "props": "Dented aluminum saucepan (xoong nhôm) fallen on the brick floor, smartphone flashlight, flickering 15W filament bulb, wooden window bars, five black-nailed fingers gripping the sill.",
+   "setting": "Third night, deep night: the dark kitchen and main room of the abandoned house, folding cot with mosquito net, a barred wooden window facing the jackfruit yard, a single filament bulb.",
+   "clips": [
+    {
+     "id": "07.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đêm thứ ba khi Bình vừa mới chợp mắt trên giường xếp, từ dưới gian bếp tối bỗng vang lên tiếng xoong rơi chói tai!",
+     "camera": "35mm stabilized medium close-up push-in",
+     "continuity": "cut",
+     "beats": [
+      "@Binh lies asleep under the mosquito net in the dark room.",
+      "On the third night inside the dark house, @Binh is half-asleep on his folding cot when an ear-splitting metallic crash echoes from the adjoining kitchen, jolting him wide awake.",
+      "@Binh jerks upright on the cot staring toward the pitch-black kitchen doorway."
+     ],
+     "sfx": "an aluminium pot crashing on the brick floor and echoing through the dead-quiet night"
+    },
+    {
+     "id": "07.2",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "@Binh",
+     "line": "Chắc chỉ là con chuột thôi mà, chỉ là con chuột chạy qua làm rơi cái xoong nhôm từ trên đinh xuống đất thôi.",
+     "camera": "35mm stabilized tracking tilt-down shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh enters the dark kitchen aiming his smartphone flashlight beam at the floor.",
+      "@Binh steps cautiously into the dark kitchen shining his smartphone flashlight onto the brick floor: an aluminum saucepan that hung on a high wall nail now lies spinning on the tiles as he crouches.",
+      "@Binh crouches with trembling fingers to pick up the fallen aluminum saucepan."
+     ],
+     "sfx": "the aluminium pot spinning on the bricks before it settles"
+    },
+    {
+     "id": "07.3",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Nhưng ngay khi tay cậu vừa chạm vào chiếc đinh trên tường, bóng đèn dây tóc bỗng nổ lách tách rồi tắt phụt tối đen!",
+     "camera": "35mm stabilized medium shot slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh reaches up to hang the aluminium pot back on the kitchen wall nail.",
+      "As @Binh hangs the pot, the overhead filament bulb sparks and goes pitch black; in the cold blue darkness the pale figure of @VongLa stands right behind him.",
+      "In the cold blue darkness @VongLa stands inches behind @Binh's back."
+     ],
+     "sfx": "the filament bulb popping with a sharp crackle, then dead silence"
+    },
+    {
+     "id": "07.4",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Giữa bóng tối đặc quánh như mực, một luồng hơi thở lạnh buốt như băng phả thẳng vào sau gáy khiến Bình cứng đờ!",
+     "camera": "50mm stabilized tight over-the-shoulder close-up",
+     "continuity": "continuous",
+     "beats": [
+      "Tight close-up on the back of @Binh's neck as icy white breath mist touches his skin.",
+      "In the freezing blue-black darkness, a plume of icy white breath from @VongLa drifts against the back of @Binh's neck and his hair stands on end, then the bulb flickers back on.",
+      "The yellow bulb flickers on and @Binh gasps, alone again in the kitchen."
+     ],
+     "sfx": "a raspy icy breath right at the neck, the bulb buzzing back on"
+    },
+    {
+     "id": "07.5",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ánh đèn vừa nhấp nháy sáng lại, Bình liếc nhanh qua khung cửa sổ gỗ thì thấy một bóng trắng lướt vụt qua chấn song!",
+     "camera": "35mm stabilized quick panning push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh slams the saucepan onto the wooden shelf and glances toward the barred window.",
+      "With the light back on, @Binh sets the pan hastily on the wooden shelf, but as he glances toward the barred wooden window beside him, @VongLa's legless white figure glides right past the bars.",
+      "Outside the wooden window bars, @VongLa's pale white silhouette glides past into the dark."
+     ],
+     "sfx": "a pot set hastily on a wooden shelf, a cold whoosh past the window bars"
+    },
+    {
+     "id": "07.6",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Bình phóng vội lên giường trùm kín chăn, không hề biết ngoài cửa sổ năm móng tay đen dài đang bấu chặt mép gỗ!",
+     "camera": "35mm stabilized slow dolly pull-back toward window",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh dives onto the folding cot pulling the blanket over his head.",
+      "@Binh scrambles back onto his folding cot and pulls the blanket completely over his head, while the camera pulls back toward the barred wooden window where @VongLa's five black-nailed fingers grip the sill.",
+      "At the wooden window sill in the foreground, five ash-grey black-nailed fingers grip the wood."
+     ],
+     "sfx": "a blanket thrown over, fingernails scraping softly on the wooden sill, a faint giggle"
+    }
+   ]
+  },
+  {
+   "num": 8,
+   "title": "Đêm Thứ Tư Kinh Hoàng — Bàn Tay Xám Ngoét Thò Qua Lớp Màn",
+   "time_label": "02:45 Rạng sáng Đêm thứ tư (07:00–08:00)",
+   "location": "Moonlit interior of the abandoned house where crooked jackfruit branch shadows fall across @Binh's folding cot and thin white mosquito net.",
+   "axis": "Tight claustrophobic axis inside and immediately outside the thin white mosquito net on the folding cot at 02:45 AM.",
+   "props": "Thin white mosquito net, folding cot, cold blue moonlight through wooden window bars, ash-grey corpse hand with five long black nails piercing the net, permanent dark bruise on @Binh's left wrist.",
+   "setting": "Fourth night, deep night: the moonlit main room, twisted jackfruit-branch shadows on the walls, folding cot with a thin white mosquito net.",
+   "clips": [
+    {
+     "id": "08.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đêm thứ tư kinh hoàng nhất đã tới, ánh trăng lạnh xuyên qua tán mít hắt bóng cành cây vặn vẹo như quỷ dữ lên vách.",
+     "camera": "28mm stabilized gimbal slow creeping push-in",
+     "continuity": "cut",
+     "beats": [
+      "Wide view of the moonlit room: twisted jackfruit-branch shadows crawl across the walls.",
+      "Deep in the fourth night, cold blue moonlight pierces the ancient jackfruit tree outside and casts claw-like branch shadows through the barred window onto @Binh's mosquito-netted cot.",
+      "The camera creeps closer to the thin white mosquito net where @Binh sleeps."
+     ],
+     "sfx": "night wind hissing through the jackfruit canopy, branches scraping the roof tiles"
+    },
+    {
+     "id": "08.2",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đúng hai giờ bốn mươi lăm phút sáng, Bình bỗng mở choàng mắt tỉnh giấc vì cảm giác có kẻ đang nhìn sát mặt mình.",
+     "camera": "50mm stabilized close-up slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "Close view through the white mosquito net onto @Binh's sleeping face.",
+      "Pushing close to the thin white mosquito net in the dim light, @Binh suddenly snaps his dark-circled eyes open, paralyzed by the sensation of unseen eyes staring down at him from inches away.",
+      "@Binh's eyes snap wide open staring straight up through the top of the net."
+     ],
+     "sfx": "a pounding heartbeat, a breath caught in the throat"
+    },
+    {
+     "id": "08.3",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "@Binh",
+     "line": "Ai đó?! Kẻ nào đang đứng lù lù ngay sát bên ngoài tấm màn tuyn trắng của tôi lúc nửa đêm thế kia?!",
+     "camera": "35mm stabilized low-angle shot from beside @Binh's pillow, looking up through the net",
+     "continuity": "continuous",
+     "beats": [
+      "Low angle from beside @Binh's face on the pillow, looking up through the white net mesh at a tall dark figure beside the cot.",
+      "@Binh, lying on his back with his face in the foreground toward the camera, stammers in terror, while beyond the translucent net the tall contorted silhouette of @VongLa looms at the cot edge, bowing its head to stare at him.",
+      "@VongLa leans its shadowed head closer against the outside of the thin white net above @Binh."
+     ],
+     "sfx": "dead-still cold room tone, a faint creak of the cot"
+    },
+    {
+     "id": "08.4",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đáp lại cậu chỉ là sự im lặng chết chóc, rồi một bàn tay xác chết xám ngoét với năm móng đen thò xuyên qua màn!",
+     "camera": "50mm stabilized macro close-up push-in",
+     "continuity": "continuous",
+     "beats": [
+      "Close framing on the taut white mosquito net beside @Binh's chest.",
+      "@VongLa stands silent outside the net; slowly, a shrivelled ash-grey hand with five long black fingernails slides through a gap in the mesh toward @Binh.",
+      "@VongLa's ash-grey hand with long black nails hovers inside the net just above @Binh."
+     ],
+     "sfx": "a very soft rustle of the mosquito net as the hand slides through"
+    },
+    {
+     "id": "08.5",
+     "chars": [
+      "@Binh",
+      "@VongLa"
+     ],
+     "speaker": "@VongLa",
+     "line": "Đi đi, mày hãy cút khỏi căn nhà này ngay lập tức, nơi đây không phải chỗ cho người sống chúng mày ở đâu!",
+     "camera": "50mm stabilized tight close-up shot",
+     "continuity": "continuous",
+     "beats": [
+      "@VongLa's grey hand hovers just above @Binh's left wrist on the mattress.",
+      "@VongLa's hollow-eyed pale face presses close to the outside of the net, lips visible through the mesh, and speaks in a cold whisper while @Binh lies frozen with wide eyes.",
+      "@VongLa's pale hollow-eyed face stays pressed against the net, inches from @Binh's terrified eyes."
+     ],
+     "sfx": "the net fabric shivering, a cold draft"
+    },
+    {
+     "id": "08.6",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Bình choàng tỉnh dậy đẫm mồ hôi lạnh, vết bầm năm ngón tay trên cổ tay nay đã tím đen như máu tụ không tan nữa!",
+     "camera": "35mm stabilized medium close-up push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh bolts upright inside the mosquito net, gasping and clutching his left arm.",
+      "The grey hand is gone; @Binh lifts his trembling left arm and sees the dark purple five-finger bruise now deep in his skin, not fading.",
+      "Close view of @Binh's left wrist marked with a deep black-purple five-finger bruise."
+     ],
+     "sfx": "a horrified gasp, the cot creaking"
+    }
+   ]
+  },
+  {
+   "num": 9,
+   "title": "Vết Bầm Không Tan & Nỗi Tuyệt Vọng Không Chốn Dung Thân",
+   "time_label": "06:30 Sáng hôm sau tại sân gạch nhà hoang (08:00–09:00)",
+   "location": "Mossy Bát Tràng brick courtyard and stone porch steps beneath the overcast canopy of the ancient jackfruit tree.",
+   "axis": "Courtyard and porch axis between @Binh showing his bruised wrist to @OngBay and inspecting the bolted wooden windows.",
+   "props": "Unfading dark purple five-finger bruise on @Binh's left wrist, wooden walking stick, bolted dusty window shutters, smartphone.",
+   "setting": "Grey early morning: the mossy brick courtyard, stone porch steps and the old house under the overcast jackfruit canopy.",
+   "clips": [
+    {
+     "id": "09.1",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "@Binh",
+     "line": "Bác Bảy ơi cứu cháu với! Đêm hôm qua có bàn tay người chết thò xuyên qua màn bóp chặt lấy cổ tay cháu đây này!",
+     "camera": "35mm stabilized tracking shot",
+     "continuity": "cut",
+     "beats": [
+      "@Binh runs out of the house into the morning courtyard toward @OngBay.",
+      "At dawn the next morning, @Binh rushes out into the brick courtyard pale as a sheet, rolls up his grey hoodie sleeve, and thrusts the dark five-finger bruise right in front of @OngBay.",
+      "@Binh holds out his bruised left wrist with trembling hands before @OngBay's face."
+     ],
+     "sfx": "panicked running footsteps on the brick courtyard"
+    },
+    {
+     "id": "09.2",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "@OngBay",
+     "line": "Lạy hồn, vết bầm năm ngón tay rõ mồn một thế này thì không phải chuyện đùa rồi, để bác vào kiểm tra quanh nhà xem!",
+     "camera": "50mm stabilized two-shot push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@OngBay holds @Binh's forearm gently, examining the dark purple finger marks.",
+      "@OngBay knits his silver brows and inspects the unmistakable five-finger bruise in the morning light, then speaks low and grave, his face toward the camera.",
+      "@OngBay picks up his wooden stick and turns gravely toward the house porch."
+     ],
+     "sfx": "a startled sigh, morning wind rustling the jackfruit canopy"
+    },
+    {
+     "id": "09.3",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ông Bảy cầm gậy đi kiểm tra khắp các chốt cửa gỗ và chấn song cửa sổ, tuyệt nhiên không có dấu vết người lạ cạy cửa.",
+     "camera": "28mm stabilized gimbal following shot",
+     "continuity": "continuous",
+     "beats": [
+      "@OngBay walks along the house windows with @Binh, testing the wooden bars with his stick.",
+      "@OngBay walks along the veranda and interior of the three-bay house with @Binh, checking every wooden window bar and door bolt — all remain tightly latched and covered in undisturbed thick dust.",
+      "Inside, the wooden window bolts remain locked tight beneath undisturbed grey dust."
+     ],
+     "sfx": "a wooden stick tapping window bars and ironwood door bolts"
+    },
+    {
+     "id": "09.4",
+     "chars": [
+      "@Binh",
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Sợ thằng nhỏ thêm hoảng loạn, ông Bảy đành gượng bảo do cậu nằm mê nhưng ánh mắt trốn tránh của ông không giấu nổi.",
+     "camera": "35mm stabilized medium two-shot",
+     "continuity": "continuous",
+     "beats": [
+      "@OngBay steps back into the courtyard with @Binh and glances up at the jackfruit canopy.",
+      "@OngBay stops in the brick courtyard, glances warily up at the dark jackfruit tree canopy, then pats @Binh's shoulder with an evasive, sympathetic look to keep the boy from panicking further.",
+      "@OngBay pats @Binh's shoulder with a troubled, pitying gaze before turning toward the gate."
+     ],
+     "sfx": "jackfruit leaves dropping on the bricks, an old neighbour's uneasy sigh"
+    },
+    {
+     "id": "09.5",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "@Binh",
+     "line": "Mẹ ơi căn nhà của ông nội ở dưới quê thật sự có thứ gì đáng sợ lắm, nhưng giờ con biết trốn đi đâu hả mẹ!",
+     "camera": "50mm stabilized medium close-up push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh sits hunched on the mossy porch steps holding his smartphone to his ear.",
+      "Once the old neighbour has gone, @Binh sits alone on the mossy stone porch step pressing his phone to his ear to call his mother, his voice cracking with fear and utter helplessness.",
+      "A tear slips down @Binh's pale cheek as he listens to the quiet phone line."
+     ],
+     "sfx": "a quiet empty porch, a distant rooster"
+    },
+    {
+     "id": "09.6",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Quay về phố thì chủ nợ chờ sẵn mà ở lại thì ma quỷ vây quanh, bước đường cùng biến nỗi sợ thành sự liều lĩnh.",
+     "camera": "35mm stabilized slow dolly push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh lowers the smartphone onto his lap on the mossy stone porch step.",
+      "@Binh lowers his phone, hugs his knees on the cold stone step, and turns his head to stare deep into the shadowed interior of the main hall, his fear hardening into desperate resolve.",
+      "@Binh turns his head to stare straight into the dark open doorway of the main room."
+     ],
+     "sfx": "cold wind breathing out of the dark house onto the porch"
+    }
+   ]
+  },
+  {
+   "num": 10,
+   "title": "Đêm Thứ Năm — Vong Hồn Ông Nội Hiện Hình Trong Góc Phòng",
+   "time_label": "01:00 Rạng sáng Đêm thứ năm (09:00–10:00)",
+   "location": "Freezing moonlit main room of the ancestral house where the old family altar once stood against the bare peeling lime wall.",
+   "axis": "Direct sightline across the cold brick floor from @Binh sitting against the wall to the bare altar corner where @VongCuXa manifests.",
+   "props": "Bare peeling lime wall where the altar used to be, visible white breath vapor in freezing air, cold moonlight beam through the window.",
+   "setting": "Fifth night, deep night: the freezing moonlit main room where the old family altar once stood; bare lime-plaster walls.",
+   "clips": [
+    {
+     "id": "10.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đêm thứ năm Bình quyết định không ngủ, cậu ngồi tựa lưng vào bức tường vôi lạnh nhìn thẳng bóng tối chờ gặp người âm.",
+     "camera": "35mm stabilized gimbal slow push-in",
+     "continuity": "cut",
+     "beats": [
+      "@Binh sits awake on the floor against the peeling lime wall hugging his knees in the dark.",
+      "As the fifth night falls over the main hall, @Binh leaves the mosquito net untied and sits with his back braced against the cold lime wall, hugging his knees and staring wide-eyed into the dark.",
+      "@Binh's dark-circled eyes remain fixed unblinkingly on the empty shadowed altar corner."
+     ],
+     "sfx": "a clock ticking very softly, night wind whistling through the door gaps"
+    },
+    {
+     "id": "10.2",
+     "chars": [
+      "@Binh",
+      "@VongCuXa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đúng một giờ sáng nhiệt độ tụt xuống lạnh cóng, hơi thở Bình phả ra khói trắng khi từ góc gian thờ cũ bóng già hiện lên.",
+     "camera": "35mm stabilized slow creeping push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh shivers against the wall as his breath turns into visible white vapour.",
+      "The room turns freezing; @Binh's breath plumes white as, in the dark corner where the ancestral altar once stood, the translucent figure of @VongCuXa slowly takes form.",
+      "In the dark corner opposite him, the semi-transparent figure of @VongCuXa stands fully formed."
+     ],
+     "sfx": "air freezing with a faint crackle, a hoarse old man's cough from the dark corner"
+    },
+    {
+     "id": "10.3",
+     "chars": [
+      "@Binh",
+      "@VongCuXa"
+     ],
+     "speaker": "@VongCuXa",
+     "line": "Bình đấy ư, đứa cháu nội đích tôn của ông đấy ư, con đừng sợ ông, hãy lại đây ngồi gần với ông nào con.",
+     "camera": "50mm stabilized medium close-up push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@VongCuXa turns his translucent, white-bearded face into the slant of silver moonlight.",
+      "Dressed in a faded brown áo bà ba tunic, @VongCuXa turns slowly under the cold moonlight slanting through the window; @Binh gasps in shock as he recognizes the gentle, gaunt face of his late grandfather.",
+      "@Binh's eyes widen with emotion as @VongCuXa extends a frail, glowing hand toward him."
+     ],
+     "sfx": "deep cold room tone with a faint echo"
+    },
+    {
+     "id": "10.4",
+     "chars": [
+      "@Binh",
+      "@VongCuXa"
+     ],
+     "speaker": "@VongCuXa",
+     "line": "Ngày ông mất đi, bố mày làm đám xong liền rước bát hương lên phố nhưng quên lễ rước vong, để hồn ông bơ vơ lạnh lẽo.",
+     "camera": "50mm stabilized close-up shot",
+     "continuity": "continuous",
+     "beats": [
+      "Close framing on @VongCuXa looking at the bare wall where his altar once stood.",
+      "@VongCuXa gazes sadly at the bare, incense-less plaster wall with hollow eyes, his hoarse Northern voice echoing softly through the empty ancestral room.",
+      "@VongCuXa looks back down at @Binh with sorrowful, loving eyes."
+     ],
+     "sfx": "bare-room hush, faint wind under the door"
+    },
+    {
+     "id": "10.5",
+     "chars": [
+      "@Binh",
+      "@VongCuXa"
+     ],
+     "speaker": "@Binh",
+     "line": "Ông nội ơi cháu có lỗi với ông nhiều lắm, cháu và bố ở trên thành phố thật sự không biết ông phải lạnh lẽo thế này!",
+     "camera": "35mm stabilized medium shot slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh crawls forward on the brick floor and kneels at @VongCuXa's feet.",
+      "@Binh crawls across the cold brick tiles and falls to his knees before @VongCuXa's translucent form, tears streaming down his face in overwhelming grief and remorse.",
+      "@Binh bows his head weeping as @VongCuXa gazes down at him with gentle compassion."
+     ],
+     "sfx": "knees knocking on the brick floor, cold room tone"
+    },
+    {
+     "id": "10.6",
+     "chars": [
+      "@Binh",
+      "@VongCuXa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Vong hồn cụ Xá bảo chính cụ đã sai vong gốc mít vào dọa cháu, rồi dặn Bình phải gọi bố về quê chuộc lỗi tổ tiên.",
+     "camera": "35mm stabilized slow dolly pull-back",
+     "continuity": "continuous",
+     "beats": [
+      "@VongCuXa rests a translucent hand above @Binh's bowed head in the moonlit room.",
+      "@VongCuXa explains he had sent the spirit under the jackfruit tree only because he feared @Binh came to sell the ancestral land, then fades into the blue moonlight leaving @Binh kneeling in vow.",
+      "@VongCuXa dissolves into soft silver moonlight, leaving @Binh kneeling resolutely on the floor."
+     ],
+     "sfx": "night wind calming, a soft shimmering tone as the grandfather fades into moonlight"
+    }
+   ]
+  },
+  {
+   "num": 11,
+   "title": "Cuộc Gọi Cho Bố & Bàn Tay Giận Dữ Khựng Lại Giữa Sân Quê",
+   "time_label": "06:00 Rạng sáng đến 16:30 Chiều Ngày thứ sáu (10:00–11:00)",
+   "location": "Mossy stone porch steps and brick courtyard of the ancestral rural house (with phone cutaway to @OngQuan in the city).",
+   "axis": "Axis from the stone porch steps across the brick courtyard to the rusted iron gate under the jackfruit tree where @OngQuan and @BaPhuong arrive.",
+   "props": "Smartphone, rusted iron gate opening in afternoon sun, mossy brick courtyard tiles.",
+   "setting": "Morning: the mossy stone porch steps and brick courtyard of the ancestral house.",
+   "clips": [
+    {
+     "id": "11.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Trắng đêm suy nghĩ sau cuộc gặp gỡ đẫm nước mắt với ông nội, vừa rạng sáng Bình đã lấy hết can đảm bấm gọi cho bố.",
+     "camera": "35mm stabilized gimbal push-in",
+     "continuity": "cut",
+     "beats": [
+      "@Binh sits on the stone porch steps at dawn holding his smartphone.",
+      "At dawn after his tearful encounter with his grandfather's spirit, @Binh steps out onto the pale sunlit porch steps, takes a deep steadying breath, and dials his father's phone number.",
+      "@Binh raises the phone to his ear with a calm, determined expression."
+     ],
+     "sfx": "early birds singing in the garden, phone keypad taps",
+     "setting": "Dawn, pale early light: the mossy stone porch steps of the ancestral house."
+    },
+    {
+     "id": "11.2",
+     "chars": [
+      "@OngQuan"
+     ],
+     "speaker": "@OngQuan",
+     "line": "Thằng nghịch tử kia! Mày phá gia chi tử nợ bốn trăm triệu rồi còn dám lôi vong hồn ông nội ra lừa bố hả?!",
+     "camera": "50mm stabilized medium close-up shot",
+     "continuity": "cut",
+     "beats": [
+      "Medium close-up of @OngQuan by a city window gripping his phone in blazing anger.",
+      "In a bright city room by a window, @OngQuan stands flushed with fury, clenching his fist as he roars into the smartphone pressed against his ear.",
+      "@OngQuan glares out the window breathing heavily as he listens to his son's reply."
+     ],
+     "sfx": "city apartment room tone, distant traffic",
+     "setting": "Early morning. A bright city apartment room by a window."
+    },
+    {
+     "id": "11.3",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "@Binh",
+     "line": "Bố về đánh gãy chân con cũng được, nhưng con van xin bố hãy về quê thắp hương xin lỗi ông nội một lần đi bố ơi!",
+     "camera": "50mm stabilized close-up push-in",
+     "continuity": "cut",
+     "beats": [
+      "@Binh kneels upright on the stone porch steps clutching the phone to his ear.",
+      "Out on the rural porch steps, @Binh drops straight to his knees on the brick tiles with tears rolling down his cheeks, speaking into the phone with unwavering sincerity.",
+      "Tears stream down @Binh's face as the phone line clicks dead."
+     ],
+     "sfx": "knees on the porch bricks, morning birds"
+    },
+    {
+     "id": "11.4",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Tiếng điện thoại cúp máy cái rập, Bình vẫn ngồi bất động nơi bậc thềm hiên nhà, sẵn sàng chịu đòn chờ người cha trở về.",
+     "camera": "35mm stabilized slow pull-back",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh lowers the disconnected smartphone into his lap on the porch steps.",
+      "The phone line disconnects abruptly; @Binh lowers the handset into his lap and remains seated quietly on the mossy stone porch steps, keeping his eyes fixed on the rusted iron gate under the jackfruit tree.",
+      "@Binh sits motionless on the porch looking straight out toward the rusted iron gate."
+     ],
+     "sfx": "afternoon wind rustling jackfruit leaves across the quiet courtyard"
+    },
+    {
+     "id": "11.5",
+     "chars": [
+      "@Binh",
+      "@OngQuan",
+      "@BaPhuong"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Quả nhiên ngay chiều hôm ấy ông Quân cùng bà Phượng đã về tới cổng, đôi mắt người cha long lên giận dữ khi thấy con trai.",
+     "camera": "28mm stabilized gimbal tracking shot",
+     "continuity": "cut",
+     "beats": [
+      "@OngQuan pushes open the rusted iron gate and strides into the courtyard with @BaPhuong behind him.",
+      "As late afternoon sun slants through the jackfruit tree, the iron gate swings wide open: @OngQuan strides furiously across the brick courtyard toward @Binh, followed closely by an anxious @BaPhuong.",
+      "@OngQuan marches straight up to @Binh standing before the porch steps."
+     ],
+     "sfx": "the iron gate thrown open with a clang, hurried footsteps on the bricks",
+     "setting": "Late afternoon, low golden sun: the brick courtyard, the porch steps and the rusted iron gate under the jackfruit tree."
+    },
+    {
+     "id": "11.6",
+     "chars": [
+      "@Binh",
+      "@OngQuan",
+      "@BaPhuong"
+     ],
+     "speaker": "@Binh",
+     "line": "Con xin chịu hết mọi hình phạt của bố mẹ, nhưng con cầu xin bố tối nay hãy ngủ lại căn nhà này một đêm thôi!",
+     "camera": "35mm stabilized medium three-shot",
+     "continuity": "continuous",
+     "beats": [
+      "@OngQuan stands over @Binh in the courtyard with his right hand raised high in fury as @BaPhuong rushes in.",
+      "@OngQuan's raised hand trembles in the air and stops; @BaPhuong steps between father and son, weeping; @Binh kneels on the bricks and pleads up at his father, his face toward the camera.",
+      "@Binh bows his forehead to the bricks before @OngQuan, who slowly lowers his hand, jaw clenched."
+     ],
+     "sfx": "the father's heavy furious breathing, the mother's sobs, wind in the jackfruit leaves",
+     "setting": "Late afternoon, low golden sun: the brick courtyard, the porch steps and the rusted iron gate under the jackfruit tree."
+    }
+   ]
+  },
+  {
+   "num": 12,
+   "title": "Giấc Mơ Đẫm Nước Mắt Của Ông Quân & Nén Hương Tạ Tội Trước Mộ Cha",
+   "time_label": "23:00 Đêm thứ sáu đến Sáng hôm sau (11:00–12:00)",
+   "location": "Main room wooden bed at night, misty village rice-field cemetery at dawn, newly installed mahogany altar in the main room, and brick shrine under the jackfruit tree.",
+   "axis": "Progression from the moonlit main hall bed to Cụ Xá's mossy stone grave in the field, then back to the central mahogany altar and gate jackfruit shrine.",
+   "props": "Wooden bed in main room, mossy stone grave in misty rice field, burning incense sticks, newly carved mahogany ancestral altar (tủ thờ gỗ gụ), bronze incense burner and portrait of Cụ Xá, small brick shrine under the jackfruit tree.",
+   "setting": "Night: the dark main room of the ancestral house with a wooden bed in the centre and a small side table; moonlight through wooden shutters.",
+   "clips": [
+    {
+     "id": "12.1",
+     "chars": [
+      "@OngQuan",
+      "@BaPhuong",
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đêm hôm ấy ông Quân nhất quyết nằm ngay tại gian phòng khách cũ, tuyên bố đanh thép sáng mai sẽ áp giải con về phố.",
+     "camera": "35mm stabilized gimbal slow push-in",
+     "continuity": "cut",
+     "beats": [
+      "@OngQuan lies on the wooden bed in the dim main room while @BaPhuong and @Binh sit nearby.",
+      "Night falls over the ancestral house: @OngQuan lies stern-faced on a wooden bed placed in the center of the dark main room, while @BaPhuong and @Binh sit quietly awake at a side table.",
+      "@OngQuan closes his stern eyes as cold moonlight filters through the wooden shutters."
+     ],
+     "sfx": "night insects in the garden, heavy breathing in the dark house"
+    },
+    {
+     "id": "12.2",
+     "chars": [
+      "@OngQuan",
+      "@VongCuXa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Giữa đêm khuya không ai biết ông Quân mơ thấy điều gì, chỉ thấy người đàn ông sắt đá ấy bật khóc trong giấc ngủ.",
+     "camera": "50mm stabilized close-up slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "Close framing on @OngQuan's sleeping face as @VongCuXa's translucent form stands by the headboard.",
+      "Under cold silver moonlight, the camera pushes close to @OngQuan's sleeping face: his brows knit in deep anguish and hot tears stream from his closed eyes as @VongCuXa stands silently beside the bed.",
+      "Tears roll down @OngQuan's weathered cheeks in the moonlight as @VongCuXa gazes down at him."
+     ],
+     "sfx": "the father's muffled sobs in his sleep, soft night wind"
+    },
+    {
+     "id": "12.3",
+     "chars": [
+      "@OngQuan"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Khi trời vừa tờ mờ sáng, ông Quân lặng lẽ mua hương hoa ra nghĩa trang đồng làng, một mình quỳ gục hàng giờ trước mộ cha.",
+     "camera": "35mm stabilized slow push-in in morning mist",
+     "continuity": "cut",
+     "beats": [
+      "@OngQuan kneels alone in the misty field cemetery before his father's mossy stone grave.",
+      "At dawn in the white mist of the village rice-field cemetery, a red-eyed @OngQuan kneels alone in the wet grass before Cụ Xá's mossy stone grave, bowing deeply as he plants burning incense.",
+      "@OngQuan plants burning incense sticks into the censer and bows his forehead to the damp earth."
+     ],
+     "sfx": "dawn wind over the fields carrying incense smoke, remorseful sobs",
+     "setting": "Dawn: white mist over a village rice-field cemetery; Cụ Xá's mossy stone grave in the wet grass."
+    },
+    {
+     "id": "12.4",
+     "chars": [
+      "@OngQuan",
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Trở về từ nghĩa trang, ông Quân lập tức cùng Bình tự tay khiêng chiếc tủ thờ gỗ gụ mới tinh đặt vào chính giữa gian nhà.",
+     "camera": "28mm stabilized gimbal tracking shot",
+     "continuity": "cut",
+     "beats": [
+      "@OngQuan and @Binh carry a carved mahogany altar cabinet through the doorway into the main hall.",
+      "Returning to the ancestral house, @OngQuan rolls up his shirt sleeves and works side by side with @Binh to carry a newly carved mahogany ancestral altar cabinet into the center of the main room.",
+      "Father and son set the mahogany altar cabinet squarely against the central wall."
+     ],
+     "sfx": "mahogany cabinet legs set down firmly on the brick floor",
+     "setting": "Daytime: the main room of the ancestral house as a new carved mahogany altar cabinet is carried in."
+    },
+    {
+     "id": "12.5",
+     "chars": [
+      "@OngQuan",
+      "@BaPhuong",
+      "@Binh"
+     ],
+     "speaker": "@OngQuan",
+     "line": "Bố ơi con bất hiếu quá, bao năm để hồn bố lạnh lẽo nơi quê nhà, hôm nay con xin rước bố về gian thờ tổ!",
+     "camera": "35mm stabilized medium slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@OngQuan places the bronze incense burner on the mahogany altar and lights three incense sticks.",
+      "@OngQuan sets Cụ Xá's portrait on the new altar and kneels before it, @BaPhuong and @Binh kneeling behind him; he turns his tear-streaked face slightly toward the camera as he prays aloud.",
+      "@OngQuan kneels with clasped hands before the glowing altar, @BaPhuong and @Binh behind him."
+     ],
+     "sfx": "a match striking, incense catching",
+     "setting": "Daytime: the main room with the new mahogany altar, Cụ Xá's framed portrait, a bronze incense burner and sandalwood incense."
+    },
+    {
+     "id": "12.6",
+     "chars": [
+      "@OngQuan",
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ngay dưới gốc mít cổ thụ trước cổng, ông Quân còn cho dựng một ngôi miếu gạch nhỏ và lập đàn cầu siêu cho sáu vong hồn.",
+     "camera": "35mm stabilized gimbal slow pull-back",
+     "continuity": "cut",
+     "beats": [
+      "@OngQuan and @Binh stand before the newly built brick shrine beneath the ancient jackfruit tree.",
+      "Out beneath the ancient jackfruit tree by the front gate, @OngQuan and @Binh finish building a small, solemn brick shrine where fragrant incense smoke curls upward to soothe the wandering spirits.",
+      "Fragrant incense smoke rises from the small brick shrine up into the green jackfruit leaves."
+     ],
+     "sfx": "a temple bell ringing warmly, incense smoke drifting under the jackfruit tree",
+     "setting": "Daytime: under the ancient jackfruit tree by the front gate, a small newly built brick shrine."
+    }
+   ]
+  },
+  {
+   "num": 13,
+   "title": "Bốn Mươi Chín Ngày Ăn Chay Cầu Siêu & Ngôi Miếu Nhỏ Dưới Gốc Mít",
+   "time_label": "Suốt 49 ngày hương khói tại quê nội (12:00–13:00)",
+   "location": "Warm, incense-filled three-bay ancestral house, sunlit brick courtyard, small brick shrine beneath the jackfruit tree, and refurbished stone grave in the green rice field.",
+   "axis": "Axis connecting the warm glowing mahogany altar inside the main hall across the swept courtyard to the peaceful shrine beneath the jackfruit tree.",
+   "props": "Mahogany altar glowing with oil lamps and sandalwood incense, bamboo broom, fresh fruit offering plate and burning incense at the jackfruit brick shrine, refurbished stone grave.",
+   "setting": "During the forty-nine days of mourning: the warm, incense-filled main hall with the new mahogany altar and the sunlit brick courtyard.",
+   "clips": [
+    {
+     "id": "13.1",
+     "chars": [
+      "@OngQuan",
+      "@BaPhuong",
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Suốt bốn mươi chín ngày ròng rã, ông Quân xin nghỉ ở lại quê ăn chay hương khói, sưởi ấm ngôi nhà lạnh lẽo hai thập kỷ.",
+     "camera": "28mm stabilized gimbal panning shot",
+     "continuity": "cut",
+     "beats": [
+      "@OngQuan bows with glowing incense at the mahogany altar while sunlight fills the open doorway.",
+      "In the peaceful morning light, @OngQuan in a simple white shirt lights fresh incense at the mahogany altar inside, while out on the sunny porch @BaPhuong and @Binh sweep the clean courtyard.",
+      "Camera pans toward the sunny courtyard where @BaPhuong and @Binh sweep fallen leaves together."
+     ],
+     "sfx": "a broom sweeping softly in the morning sun"
+    },
+    {
+     "id": "13.2",
+     "chars": [
+      "@OngQuan"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ngôi miếu nhỏ dưới gốc mít luôn đỏ đèn nhang mỗi tối, để những vong hồn lỡ bước trên khúc cua năm nào có chốn nương tựa.",
+     "camera": "35mm stabilized slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@OngQuan walks out to the small brick shrine beneath the sunlit jackfruit tree with fresh fruit.",
+      "In the golden afternoon sunlight beneath the ancient jackfruit tree, @OngQuan reverently places a plate of fresh fruit and lights incense at the small brick shrine, the air now peaceful and warm.",
+      "@OngQuan clasps his hands respectfully as three incense sticks glow warmly in the shrine."
+     ],
+     "sfx": "green jackfruit leaves rustling in the afternoon sun",
+     "setting": "Golden afternoon: the small brick shrine under the ancient jackfruit tree by the gate."
+    },
+    {
+     "id": "13.3",
+     "chars": [
+      "@OngQuan",
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đêm thứ bốn mươi chín, cả căn nhà ngói ba gian tỏa ra luồng sinh khí ấm áp lạ thường, không còn bóng đen lạnh lẽo nữa.",
+     "camera": "35mm stabilized medium two-shot push-in",
+     "continuity": "cut",
+     "beats": [
+      "@OngQuan and @Binh kneel side by side on a woven mat before the warm-lit mahogany altar.",
+      "On the forty-ninth night inside the main worship hall, @OngQuan and @Binh sit side by side with clasped hands before Cụ Xá's warm oil-lamp altar as fragrant incense smoke curls peacefully upward.",
+      "Warm amber lantern light bathes their calm faces as incense smoke rises toward the rafters."
+     ],
+     "sfx": "the oil lamp burning softly on the altar, calm breathing",
+     "setting": "The forty-ninth night: the main worship hall glowing with warm oil-lamp light before the mahogany altar."
+    },
+    {
+     "id": "13.4",
+     "chars": [
+      "@OngQuan",
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Nhìn từ ngoài cổng vào trong đêm, lần đầu tiên sau hai mươi năm dân làng thấy căn nhà cụ Xá sáng bừng ánh đèn ấm áp.",
+     "camera": "28mm stabilized dolly slow pull-back through gate",
+     "continuity": "continuous",
+     "beats": [
+      "View from the courtyard looking into the warm golden-lit doorway where @OngQuan and @Binh sit.",
+      "Seen from outside the jackfruit tree looking across the brick courtyard at night, warm golden light glows through all the wooden windows of the three-bay house where @OngQuan and @Binh talk.",
+      "Camera pulls back past the jackfruit shrine, framing the glowing three-bay house in the night."
+     ],
+     "sfx": "a village temple bell ringing far away in the peaceful night",
+     "setting": "Night: the view from the jackfruit tree across the brick courtyard to the glowing three-bay house."
+    },
+    {
+     "id": "13.5",
+     "chars": [
+      "@OngQuan",
+      "@BaPhuong",
+      "@Binh"
+     ],
+     "speaker": "@OngQuan",
+     "line": "Bà đưa thằng Bình về phố lo trả dần nợ nần trước đi, tôi ở lại sửa sang lại mộ phần cho ông cụ.",
+     "camera": "35mm stabilized medium three-shot",
+     "continuity": "cut",
+     "beats": [
+      "On the sunlit wooden porch, @OngQuan places a steady hand on @Binh's shoulder beside @BaPhuong.",
+      "The next morning on the sunlit porch, @OngQuan rests a forgiving hand on @Binh's shoulder and turns to @BaPhuong with a calm, compassionate expression.",
+      "@Binh and @BaPhuong nod gratefully as @OngQuan looks warmly at his son."
+     ],
+     "sfx": "morning birdsong on the sunlit porch",
+     "setting": "The next morning: the sunlit wooden porch of the ancestral house."
+    },
+    {
+     "id": "13.6",
+     "chars": [
+      "@OngQuan"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Biến cố tưởng chừng đẩy gia đình xuống vực thẳm ấy lại kéo người cha lầm lỗi trở về cội nguồn, giữ trọn đạo hiếu làm con.",
+     "camera": "35mm stabilized slow crane-up shot",
+     "continuity": "cut",
+     "beats": [
+      "@OngQuan stands with clasped hands before his father's clean stone grave in the green field.",
+      "@OngQuan stands with clasped hands bowing solemnly before Cụ Xá's newly refurbished stone grave surrounded by lush green rice paddies swaying in the morning breeze.",
+      "Camera cranes gently upward over the sunlit rice paddies surrounding the peaceful grave."
+     ],
+     "sfx": "wind through green rice fields, peaceful birdsong",
+     "setting": "Morning: Cụ Xá's newly restored stone grave among green rice paddies."
+    }
+   ]
+  },
+  {
+   "num": 14,
+   "title": "Món Nợ Được Hoàn Trả & Mâm Cơm Đoàn Tụ Nơi Quê Nội",
+   "time_label": "Những ngày cuối năm ấm áp tại quê nội (13:00–14:00)",
+   "location": "Sunlit porch of the three-bay ancestral house and the peaceful brick shrine under the green jackfruit tree.",
+   "axis": "Warm family gathering on the sunlit wooden porch overlooking the clean brick courtyard and the ancient jackfruit tree at the gate.",
+   "props": "Laptop and university readmission letter on the porch wooden table, steaming wooden tray of traditional Vietnamese family dishes, small white porcelain wine cup, burning incense at the jackfruit shrine.",
+   "setting": "Late in the year, cool bright days: the sunlit porch with a wooden table, the clean brick courtyard and the small brick shrine under the jackfruit tree.",
+   "clips": [
+    {
+     "id": "14.1",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ở hiền gặp lành, cuối năm ấy công an triệt phá thành công ổ lừa đảo trên mạng và thu hồi phần lớn tiền cho Bình.",
+     "camera": "35mm stabilized medium push-in",
+     "continuity": "cut",
+     "beats": [
+      "@Binh sits at the wooden porch table with an open laptop.",
+      "On a bright year-end morning, @Binh reads an official notice on his laptop (screen text not readable) that the online scam ring has been caught and his money recovered.",
+      "@Binh's eyes light up with relief as he looks up from the laptop."
+     ],
+     "sfx": "cool year-end wind on the porch, a relieved exhale"
+    },
+    {
+     "id": "14.2",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Trả dứt được món nợ đè nặng trên vai, Bình được nhà trường nhận quay lại học năm cuối, mở ra cánh cửa cuộc đời mới.",
+     "camera": "50mm stabilized close-up push-in",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh picks up a stamped university readmission letter beside his laptop.",
+      "@Binh lifts the letter in both hands (text not readable), smiling brightly with gratitude after months of darkness.",
+      "@Binh holds the letter close with a grateful, radiant smile."
+     ],
+     "sfx": "paper rustling in his hands, warm sunny courtyard ambience"
+    },
+    {
+     "id": "14.3",
+     "chars": [
+      "@OngQuan",
+      "@BaPhuong",
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Những ngày cuối năm tiết trời se lạnh, cả gia đình lại quây quần ấm cúng bên mâm cơm đoàn viên nơi hiên nhà ngói quê nội.",
+     "camera": "28mm stabilized gimbal tracking shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh closes his laptop as @BaPhuong brings a steaming wooden meal tray to the porch table.",
+      "@Binh closes his laptop as @BaPhuong carries a steaming wooden tray of traditional dishes out onto the porch; @OngQuan, @BaPhuong, and @Binh gather warmly around the family meal.",
+      "@OngQuan, @BaPhuong, and @Binh sit together around the steaming family meal."
+     ],
+     "sfx": "bowls and chopsticks clinking, warm wordless family murmurs"
+    },
+    {
+     "id": "14.4",
+     "chars": [
+      "@OngQuan",
+      "@BaPhuong",
+      "@Binh"
+     ],
+     "speaker": "@OngQuan",
+     "line": "Đời người ai chẳng có lúc lầm đường lạc lối hả con, quan trọng nhất là biết quay đầu và sống trọn chữ hiếu với tổ tiên.",
+     "camera": "50mm stabilized medium close-up shot",
+     "continuity": "continuous",
+     "beats": [
+      "@OngQuan pours a small porcelain cup of rice wine at the porch table opposite @Binh.",
+      "At the family meal table, @OngQuan pours a small cup of clear rice wine and sets it before @Binh, looking at his son with stern yet deeply loving eyes.",
+      "@Binh bows his head respectfully receiving his father's words while @BaPhuong smiles warmly."
+     ],
+     "sfx": "rice wine poured into a small china cup"
+    },
+    {
+     "id": "14.5",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Buổi chiều muộn, Bình bước ra thắp ba nén nhang thơm nơi miếu gốc mít, thầm cảm ơn biến cố đã giúp gia đình mình tỉnh ngộ.",
+     "camera": "35mm stabilized gimbal following shot",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh walks across the swept brick courtyard toward the ancient jackfruit tree at the gate.",
+      "After the afternoon meal, @Binh walks across the clean brick courtyard to the ancient jackfruit tree by the gate and respectfully plants three fragrant burning incense sticks into the small brick shrine.",
+      "@Binh bows with clasped hands before the small brick shrine as three incense sticks glow."
+     ],
+     "sfx": "unhurried footsteps on swept bricks, incense crackling softly"
+    },
+    {
+     "id": "14.6",
+     "chars": [
+      "@Binh",
+      "@OngQuan",
+      "@BaPhuong"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Ngôi nhà từng bị cả làng gọi là nhà ma đầy khiếp đảm, nay đã thực sự trở thành chốn dương thịnh âm an bình yên.",
+     "camera": "24mm stabilized crane-up pull-back",
+     "continuity": "continuous",
+     "beats": [
+      "@Binh turns from the jackfruit shrine and walks back across the courtyard toward the porch.",
+      "From the small shrine beneath the jackfruit tree, the camera cranes slowly upward revealing the clean three-bay tiled house and courtyard where @Binh joins @OngQuan and @BaPhuong on the warm-lit porch.",
+      "High crane view of @Binh joining @OngQuan and @BaPhuong on the glowing porch under twilight."
+     ],
+     "sfx": "calm evening wind through the green jackfruit tree, warm porch ambience",
+     "setting": "Twilight at year's end: the clean brick courtyard, the small shrine under the jackfruit tree and the warm-lit porch."
+    }
+   ]
+  },
+  {
+   "num": 15,
+   "title": "Đêm Trăng Thanh Tịnh — Dương Thịnh Âm An & Lời Nhắn Cõi Âm",
+   "time_label": "22:00 Đêm trăng rằm thanh tịnh nơi quê nội (14:00–15:00)",
+   "location": "Tranquil full-moonlit courtyard, glowing brick shrine under the ancient jackfruit tree, and warm-lit ancestral worship hall nestled among Northern Vietnamese rice fields.",
+   "axis": "Serene moonlit progression from the glowing incense at the jackfruit shrine across the peaceful courtyard into the warm ancestral altar hall and up to the moonlit sky.",
+   "props": "Three glowing red incense sticks in the brick shrine under the jackfruit tree, warm yellow altar lamps inside the three-bay house, silver full moon over rice paddies.",
+   "setting": "Full-moon night, calm and peaceful: the moonlit courtyard, the glowing brick shrine under the ancient jackfruit tree and the warm-lit ancestral hall.",
+   "clips": [
+    {
+     "id": "15.1",
+     "chars": [],
+     "speaker": "NARRATOR",
+     "line": "Quý vị thân mến, trên đời này có những nỗi tủi phận của người đã khuất mà đôi khi người đang sống vô tình lãng quên mất.",
+     "camera": "35mm stabilized gimbal slow push-in",
+     "continuity": "cut",
+     "beats": [
+      "Moonlit view of the ancient jackfruit tree and the small brick shrine by the gate.",
+      "Under a tranquil full moon, the camera glides slowly toward the shrine where three freshly lit incense sticks glow bright red in the night.",
+      "Close view of the three glowing red incense tips curling white smoke into the moonlight."
+     ],
+     "sfx": "crickets on a moonlit night, a soft breeze over the glowing incense"
+    },
+    {
+     "id": "15.2",
+     "chars": [
+      "@VongCuXa"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Sợi dây duy nhất có thể hóa giải mọi oán hờn giữa hai cõi âm dương, chính là chữ Hiếu và lòng thành kính từ tâm can.",
+     "camera": "35mm stabilized slow push-in",
+     "continuity": "continuous",
+     "beats": [
+      "In the moonlit courtyard beside the porch, @VongCuXa's serene translucent figure stands watching.",
+      "Silver moonlight filters through the jackfruit leaves onto the clean brick courtyard; beside the porch pillar, the gentle translucent figure of @VongCuXa smiles at peace and dissolves into ascending light motes.",
+      "@VongCuXa smiles peacefully and dissolves into soft silver light motes rising into the night."
+     ],
+     "sfx": "wind chimes chiming softly as the grandfather turns into rising specks of light"
+    },
+    {
+     "id": "15.3",
+     "chars": [
+      "@Binh",
+      "@OngQuan",
+      "@BaPhuong"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Dù đi đâu về đâu, giàu sang hay nghèo khó, mỗi người con đất Việt xin đừng bao giờ để lạnh khói hương nơi bàn thờ tổ.",
+     "camera": "35mm stabilized gimbal glide into hall",
+     "continuity": "continuous",
+     "beats": [
+      "Camera glides through the open wooden doorway into the warm-lit ancestral main hall.",
+      "The camera glides from the moonlit porch into the warm main worship hall where @Binh, @OngQuan, and @BaPhuong stand with clasped hands bowing reverently before the fragrant mahogany ancestral altar.",
+      "@OngQuan, @BaPhuong, and @Binh bow together before the glowing mahogany altar."
+     ],
+     "sfx": "soft hush of the warm altar room, faint incense crackle"
+    },
+    {
+     "id": "15.4",
+     "chars": [
+      "@OngBay"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Bởi thứ mà ông bà tổ tiên đã khuất mong mỏi nhất, chỉ là tấm lòng tưởng nhớ hướng về cội nguồn của con cháu.",
+     "camera": "35mm stabilized medium tracking shot",
+     "continuity": "cut",
+     "beats": [
+      "@OngBay walks along the moonlit village lane past the open iron gate under the jackfruit tree.",
+      "Outside the open iron gate under the silver full moon, @OngBay walks leisurely along the village lane, smiling and nodding toward the warm-lit ancestral house before continuing on his way.",
+      "@OngBay smiles warmly looking into the bright courtyard, then walks on down the quiet lane."
+     ],
+     "sfx": "unhurried footsteps on the moonlit village lane, bamboo leaves rustling"
+    },
+    {
+     "id": "15.5",
+     "chars": [
+      "@Binh",
+      "@OngQuan",
+      "@BaPhuong"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Khép lại câu chuyện Căn Nhà Âm Dương đêm nay, cầu mong mỗi mái nhà Việt Nam luôn giữ trọn được hơi ấm nghĩa tình muôn đời.",
+     "camera": "24mm stabilized aerial drone slow ascending pull-back",
+     "continuity": "continuous",
+     "beats": [
+      "Wide view of the glowing three-bay ancestral house and courtyard under the full moon.",
+      "Wide aerial drone shot ascending slowly under the full moon: the three-bay tiled house where @Binh, @OngQuan, and @BaPhuong stand on the porch glows like a warm lantern amid vast Northern rice fields.",
+      "High aerial pull-back revealing the warm-lit house nestled peacefully among moonlit rice paddies."
+     ],
+     "sfx": "a gentle bamboo-flute melody blending with wind over the moonlit rice fields"
+    },
+    {
+     "id": "15.6",
+     "chars": [
+      "@Binh"
+     ],
+     "speaker": "NARRATOR",
+     "line": "Đồng hồ đã điểm sang canh ba, chúc quý vị ngủ ngon và hãy thử lắng nghe tiếng gió đêm đang thì thầm ngoài hiên nhà mình.",
+     "camera": "50mm stabilized close-up slow push-in",
+     "continuity": "cut",
+     "beats": [
+      "Close framing on the three glowing red incense tips in the brick shrine under the jackfruit tree.",
+      "The incense tips brighten gently in the night breeze while, in the soft-focus background, @Binh quietly closes the wooden doors of the house.",
+      "The red incense tips glow softly in the moonlight as the wooden door clicks shut."
+     ],
+     "sfx": "a wooden door closing softly with a click, night wind through the jackfruit leaves"
+    }
+   ]
+  }
+ ]
+}

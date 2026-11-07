@@ -1,5 +1,8 @@
 # Mẹ và Bé — Prompt Google Flow (Gemini Omni)
 
+> **🗣️ QUY TẮC GIỌNG (từ 07/11/2026 — ưu tiên cao nhất, thay mọi chỗ ghi "giọng miền Nam" bên dưới):** toàn bộ thoại dùng **giọng Bắc thanh thoát** — giọng Hà Nội chuẩn, nhẹ, rõ, tinh tế. Trong prompt: câu FORMAT ghi "a soft, clear, elegant standard Northern Vietnamese (Hà Nội) accent"; mỗi `Voice:` kết thúc bằng "elegant standard Hà Nội Northern Vietnamese accent"; AVOID có "Southern or Central Vietnamese accents". Từ ngữ cũng theo miền Bắc: này/đây, nhé, không, vào, thật, quá/thế, thìa, bát, cốc, lợn, đắt, quả, hoa, nhặt, rơi, xem, gọi (không dùng nè, nghen, hông, vô, thiệt, ghê, muỗng, chén, ly, heo, mắc, trái, lượm, rớt, coi, kêu). Chuẩn viết clip: `flowkit/docs/TIKTOK_PROMPT_SPEC.md`, kiểm tra bằng `python3 flowkit/scripts/check_tiktok_episode.py <thư mục tập>`.
+
+
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
 **Định dạng chuẩn bắt buộc:** **Mỗi tập là CLIP DÀI 60 GIÂY (`6 clip × 10s = 60s`) KẾT HỢP MẸO NUÔI CON KHOA HỌC + QUAY CÁC EM BÉ (`@Gạo` & `@Bông`) HÀNH ĐỘNG DỄ THƯƠNG + QUẢNG CÁO TỰ NHIÊN CÁC ĐỒ CHO BÉ PHÙ HỢP Ở GIAI ĐOẠN TUỔI ĐÓ** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **hình người thật kiểu điện ảnh** (photorealistic live-action 35mm), không phải hoạt hình · tuân thủ các mốc phát triển của trẻ và mẹo chăm sóc an toàn (theo WHO, CDC, AAP, Bộ Y tế).
@@ -33,7 +36,7 @@ Luôn dựng đủ **6 clip × 10s = 60 giây** cho mỗi tập để thể hi�
 - **Caption:** dòng đầu là hook khoảng 80 ký tự, nhắc tới giây cao trào; mẹo đã kiểm chứng viết gọn trong caption kèm tên nguồn (không nhồi vào thoại); đúng 5 hashtag (2 rộng, 3 ngách); nhắc bật nhãn AI.
 
 **Thoại tự nhiên như người thật (từ Tập 8):**
-- Ngọc nói như một người mẹ trẻ Sài Gòn đang nói với con ở nhà: câu ngắn 3–8 âm tiết, khẩu ngữ miền Nam (ủa, nè, hông, nghen, ghê, kìa, hả, trời ơi, thôi), trêu con, hỏi con, tự nói với mình. Phản ứng trước, lời sau.
+- Ngọc nói như một người mẹ trẻ đang nói với con ở nhà, giọng Bắc thanh thoát: câu ngắn 3–8 âm tiết, khẩu ngữ miền Bắc (ơ, này, đây, nhé, quá, kìa, à, trời ơi, thôi), trêu con, hỏi con, tự nói với mình. Phản ứng trước, lời sau.
 - **Cấm trong thoại:** câu thuyết minh hay đọc mẹo (kiểu "gần hai tháng tuổi mắt con nhìn rõ hình tương phản cách hai ba chục phân"), số liệu và tên tổ chức (CDC, AAP, số cm, số phút để ở caption và README), tên đầy đủ của món đồ, câu kể khổ dài, câu khẩu hiệu (kiểu "bao nhiêu cực nhọc nhìn nụ cười của con là tan hết").
 - Mỗi clip 1–2 câu, khoảng 10–16 âm tiết (tối đa 20), không quá 4,5 âm tiết mỗi giây; cả tập khoảng 35–50 âm tiết. Thời gian còn lại là tiếng bé, tiếng thở, tiếng cười.
 - **Mẹo đi bằng hình:** Ngọc làm đúng (cầm đồ cách mắt bé 25 cm, cất đồ ra ngoài nôi, đỡ đầu cổ khi bế) chứ không giảng.
@@ -44,7 +47,7 @@ Luôn dựng đủ **6 clip × 10s = 60 giây** cho mỗi tập để thể hi�
 - **Cảm động mà không bi lụy:** Ngọc buồn vì bị bỏ, mệt vì một mình nuôi hai con, nhưng vững vàng; nước mắt luôn kết bằng một điều ấm (bàn tay con nắm ngón tay mẹ, nụ cười của con). Không kết bằng nước mắt hai tập liền. Không kể khổ để xin thương.
 - **Cảnh nối nhau hợp lý, không nhảy cóc:** mỗi tập đi theo đúng trình tự thời gian và đường đi thật (ví dụ Tập 1: phòng bệnh → hành lang → taxi → hẻm → phòng trọ). Mỗi clip bắt đầu đúng chỗ clip trước dừng; chỉ cắt cảnh khi đổi phương tiện hoặc đổi địa điểm, và dòng đầu [SHOT LIST] nói rõ khoảng thời gian đã trôi qua. Đồ vật nào xuất hiện phải có lý do (ai mang tới, để ở đâu).
 - **Quay như phim điện ảnh:** mỗi prompt có khối `[CAMERA & LIGHT]` (ống kính 35/50/85mm, ánh sáng có nguồn thật như cửa sổ, đèn ngủ, đèn bệnh viện, máy di chuyển chậm, không rung) đặt trước `[SHOT LIST]`. `[SHOT LIST]` chia nhịp 1–2,5 giây, mỗi nhịp ghi cỡ cảnh, ống kính, chuyển động máy (đẩy chậm, chuyển nét, lùi theo), hành động và nét mặt (môi mím, mắt rưng, hàm siết). Cảm xúc đi bằng chi tiết nhỏ: ngón tay ngập ngừng, chiếc ghế thăm bệnh bỏ trống, điện thoại úp xuống sàn, bàn tay con nắm ngón tay mẹ. Prompt dài khoảng 7–9 nghìn ký tự, nếu Flow bỏ sót chi tiết thì thay FULL LOCK bằng SHORT LOCK.
-- **Thoại:** chỉ Ngọc nói (nói với con, ngôi thứ nhất, giọng miền Nam); hai bé chỉ ngáp, ọ ẹ, nấc, khóc, và từ khoảng 2 tháng thì ê a, cười với mẹ. Độ dài và cách nói theo mục **Thoại tự nhiên như người thật** ở trên (Tập 1–7 viết theo giới hạn cũ, tối đa khoảng 31 âm tiết mỗi clip). Khi Ngọc nói thì máy thấy rõ mặt Ngọc; cận tay hoặc cận sản phẩm đặt ở nhịp không thoại.
+- **Thoại:** chỉ Ngọc nói (nói với con, ngôi thứ nhất, giọng Bắc thanh thoát); hai bé chỉ ngáp, ọ ẹ, nấc, khóc, và từ khoảng 2 tháng thì ê a, cười với mẹ. Độ dài và cách nói theo mục **Thoại tự nhiên như người thật** ở trên (Tập 1–7 viết theo giới hạn cũ, tối đa khoảng 31 âm tiết mỗi clip). Khi Ngọc nói thì máy thấy rõ mặt Ngọc; cận tay hoặc cận sản phẩm đặt ở nhịp không thoại.
 
 **Em bé sơ sinh trên hình phải giống thật và thật đáng yêu:** bé vài ngày tuổi chưa ngóc đầu, chưa ngồi, chưa cầm nắm đồ vật, chưa cười đáp lại ai khi thức; mắt nhắm hoặc mở lơ mơ. Bé chỉ có những cử động thật, và đó chính là chỗ dễ thương: ngáp thật to, vươn vai giơ hai nắm tay, hắt xì, nấc cụt, chu môi, nhăn mặt "khó chịu", cười mỉm thoáng qua lúc ngủ (cười phản xạ), giật mình giơ hai tay, đạp chân, nắm chặt ngón tay mẹ, mặt "say sữa" sau cữ bú.
 - **Mỗi tập ít nhất hai khoảnh khắc đáng yêu của hai bé**, đặt ở nhịp không thoại (hook 2 giây đầu, đệm cuối clip, khung thumbnail).
@@ -94,17 +97,17 @@ Luôn dựng đủ **6 clip × 10s = 60 giây** cho mỗi tập để thể hi�
 
 ### Ngọc — người mẹ
 
-Cô gái Việt Nam xinh đẹp, 27 tuổi, cao khoảng 1m62, dáng mảnh mai, duyên dáng. Mặt trái xoan thanh tú, da trắng sáng tự nhiên, mắt to sáng hình hạnh nhân, mi dài, lông mày cong nhẹ, môi hồng, nụ cười hiền ngọt; trang điểm nhẹ tự nhiên. **Dấu hiệu nhận dạng:** nốt ruồi duyên ngay dưới **mắt TRÁI**. Tóc đen dài suôn mượt vấn búi thấp bằng kẹp càng cua màu đồi mồi, vài sợi xõa ôm mặt. Giọng miền Nam nhỏ nhẹ, ấm, ngọt. Thức đêm vì con thì mệt, nhưng trên hình Ngọc vẫn luôn xinh và gọn gàng.
+Cô gái Việt Nam xinh đẹp, 27 tuổi, cao khoảng 1m62, dáng mảnh mai, duyên dáng. Mặt trái xoan thanh tú, da trắng sáng tự nhiên, mắt to sáng hình hạnh nhân, mi dài, lông mày cong nhẹ, môi hồng, nụ cười hiền ngọt; trang điểm nhẹ tự nhiên. **Dấu hiệu nhận dạng:** nốt ruồi duyên ngay dưới **mắt TRÁI**. Tóc đen dài suôn mượt vấn búi thấp bằng kẹp càng cua màu đồi mồi, vài sợi xõa ôm mặt. Giọng Bắc thanh thoát nhỏ nhẹ, ấm, ngọt. Thức đêm vì con thì mệt, nhưng trên hình Ngọc vẫn luôn xinh và gọn gàng.
 
 **Trang phục A — ở nhà** (Tập 1–5): bộ đồ bộ cotton tay ngắn màu xanh lá xô thơm nhạt in hoa trắng nhỏ, vòng bạc trơn mảnh ở cổ tay trái, đi chân trần trong nhà.
 
 FULL LOCK
 ```text
-@Ngoc = NGỌC (the mother, 27): a real young Vietnamese woman, beautiful and graceful, about 162 cm tall, slim. Delicate oval face, fair luminous natural skin, big bright dark-brown almond eyes with long lashes, softly arched brows, a small dark beauty mark just below her LEFT eye (signature detail), full rosy lips and a sweet gentle smile, light natural makeup. Long silky straight black hair in a soft low bun held by a brown tortoiseshell claw clip, a few loose strands framing her face. Outfit A (at home): a soft pale sage-green short-sleeve cotton pajama set with a tiny white flower print, a thin plain silver bangle on her left wrist, barefoot indoors. Voice: soft, warm, sweet Southern Vietnamese female voice, late 20s, gentle.
+@Ngoc = NGỌC (the mother, 27): a real young Vietnamese woman, beautiful and graceful, about 162 cm tall, slim. Delicate oval face, fair luminous natural skin, big bright dark-brown almond eyes with long lashes, softly arched brows, a small dark beauty mark just below her LEFT eye (signature detail), full rosy lips and a sweet gentle smile, light natural makeup. Long silky straight black hair in a soft low bun held by a brown tortoiseshell claw clip, a few loose strands framing her face. Outfit A (at home): a soft pale sage-green short-sleeve cotton pajama set with a tiny white flower print, a thin plain silver bangle on her left wrist, barefoot indoors. Voice: soft, warm, sweet elegant Hà Nội Northern Vietnamese female voice, late 20s, gentle.
 ```
 SHORT LOCK
 ```text
-@Ngoc = NGỌC: beautiful young Vietnamese woman, 27, big bright almond eyes, small beauty mark below her LEFT eye, silky black hair in a soft low bun with a brown tortoiseshell claw clip; pale sage-green flower-print cotton pajama set, thin silver bangle on her left wrist, barefoot; soft, warm, sweet Southern female voice.
+@Ngoc = NGỌC: beautiful young Vietnamese woman, 27, big bright almond eyes, small beauty mark below her LEFT eye, silky black hair in a soft low bun with a brown tortoiseshell claw clip; pale sage-green flower-print cotton pajama set, thin silver bangle on her left wrist, barefoot; soft, warm, sweet elegant Hà Nội Northern female voice.
 ```
 
 ### Gạo — bé trai song sinh (anh)
@@ -192,13 +195,13 @@ THE ALLEY: a narrow Saigon alley about two meters wide between old two- and thre
 Khối `[FORMAT]`, đặt ở đầu prompt Clip 1 và mọi clip mở lại bằng Ingredients:
 ```text
 [FORMAT]
-Vertical 9:16, 10-second clip, photorealistic live-action cinematic look, as if shot on a 35mm cinema camera: real people with natural skin texture, real newborn babies with true newborn proportions and movements, soft natural window light or warm practical lamps, shallow depth of field, 24fps, gentle warm color grade. Present-day Saigon, Vietnam. No cartoon, no CGI, no 3D animation look. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. The babies never speak; they only make real newborn sounds. Cut only where the shot list says, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, photorealistic live-action cinematic look, as if shot on a 35mm cinema camera: real people with natural skin texture, real newborn babies with true newborn proportions and movements, soft natural window light or warm practical lamps, shallow depth of field, 24fps, gentle warm color grade. Present-day Saigon, Vietnam. No cartoon, no CGI, no 3D animation look. Spoken dialogue in Vietnamese with a soft, clear, elegant standard Northern Vietnamese (Hà Nội) accent and accurate lip-sync. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. The babies never speak; they only make real newborn sounds. Cut only where the shot list says, and never flash or cut to an attached character reference portrait or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 Câu mở đầu mọi prompt làm bằng Frames (start frame = khung cuối clip trước) hoặc Extend:
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same people, same outfits, same location, same lighting and color grade. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. The babies never speak. Cut only where the shot list says, and never flash or cut to a standalone reference portrait at the start or end of the clip. No subtitles, no captions, no on-screen text.
+Vertical 9:16, 10-second clip, same photorealistic live-action look. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a soft, clear, elegant Northern (Hà Nội) accent and accurate lip-sync, never shown as text. The babies never speak. Cut only where the shot list says, and never flash or cut to a standalone reference portrait at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
 
 Câu chặn đặt **cuối mọi khối [AVOID]**:

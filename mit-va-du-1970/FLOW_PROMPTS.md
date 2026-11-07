@@ -8,13 +8,14 @@
 
 > **Cấu trúc chuẩn bắt buộc (Phim Tình Cảm Gia Đình Những Năm 1970 Cảm Động & Hài Hước — 60s = 6 Clip × 10s):**
 > - **Chủ đề cốt lõi:** Khắc họa chân thực, xúc động và duyên dáng đời sống gia đình miền Tây Nam Bộ thập niên 1970 — cái nghèo mộc mạc nơi mái nhà tranh vách tre, bếp củi, xuồng ba lá nhưng ngập tràn tiếng cười và sự hy sinh thầm lặng của người chồng (`@Mit`), người vợ tảo tần (`@Đú`) và cô con gái nhỏ hiếu thảo (`@Nở`). **Tuyệt đối không gượng ép tin tức hiện đại năm 2026 làm mất chất hoài cổ thập niên 1970.**
+> - **Chủ đề mỗi ngày (07/11/2026 — ưu tiên cao nhất):** mỗi tập là **một câu chuyện thôn quê** (đường đi học, bờ mương, ruộng lúa, bến xuồng, chợ ghe, lễ Tết, mùa nước nổi, làm đồ chơi, giúp hàng xóm…). Không phải tập nào cũng nấu ăn: món ăn chỉ là chi tiết phụ, không quá 1 trong 3 tập liên tiếp lấy món ăn làm trục chuyện. Series này giữ giọng miền Tây (không áp dụng quy tắc giọng Bắc của các series TikTok khác).
 > - **Nhịp 6 clip (60 giây) chuẩn điện ảnh cảm xúc:**
->   1. **Clip 1 (00:00–00:10) — Mở màn mộc mạc & Hài hước đời thường:** Khung cảnh quê nhà năm 1970 ấm áp; ba `@Mit` hào hứng khoe chiến tích đi làm/bắt cá/nấu ăn với tính hay nổ đáng yêu.
+>   1. **Clip 1 (00:00–00:10) — Mở màn mộc mạc & Hài hước đời thường:** Khung cảnh quê nhà năm 1970 ấm áp; ba `@Mit` hào hứng khoe chiến tích đi làm/bắt cá/làm đồ chơi cho con với tính hay nổ đáng yêu.
 >   2. **Clip 2 (00:10–00:20) — Tình huống dở khóc dở cười (Physical Gag):** Ba `@Mit` hậu đậu làm lố (lửa bếp củi bùng dính lọ nghẹ, trượt bùn, nấu đặc quánh, hoặc giấu quà vụng về) cùng câu trêu ngây thơ của bé `@Nở`.
 >   3. **Clip 3 (00:20–00:30) — Nốt trầm thiếu thốn thập niên 1970:** Chi tiết đời thực chạm vào trái tim (chiếc áo bà ba sờn vai của má `@Đú`, đôi bàn tay phồng rộp vì khuân vác của ba `@Mit`, hay bữa cơm quê đạm bạc ngày mưa gió).
 >   4. **Clip 4 (00:30–00:40) — Sự hy sinh thầm lặng vì gia đình:** Ba `@Mit` và má `@Đú` âm thầm nhường nhịn nhau miếng ăn ngon nhất, dành dụm từng đồng bạc lẻ từ mồ hôi nước mắt để lo cho nhau và cho bé `@Nở`.
 >   5. **Clip 5 (00:40–00:50) — Cao trào cảm động rưng rưng nước mắt:** Khoảnh khắc má `@Đú` hoặc bé `@Nở` phát hiện ra sự hy sinh thầm lặng của người thân, ôm chầm lấy nhau dưới ánh đèn dầu hay hiên nhà tranh.
->   6. **Clip 6 (00:50–01:00) — Cái kết ấm áp & Câu chốt hài hước trong nước mắt:** Cả nhà quây quần bên mâm cơm quê/nồi chè nóng, bé `@Nở` tung câu chốt hồn nhiên lém lỉnh làm cả nhà vừa lau nước mắt vừa bật cười hạnh phúc.
+>   6. **Clip 6 (00:50–01:00) — Cái kết ấm áp & Câu chốt hài hước trong nước mắt:** Cả nhà quây quần ở hiên nhà, bến xuồng hay bờ ruộng, bé `@Nở` tung câu chốt hồn nhiên lém lỉnh làm cả nhà vừa lau nước mắt vừa bật cười hạnh phúc.
 > - **Thoại:** câu ngắn khẩu ngữ miền Tây thập niên 1970 (mình ơi, nghen, hà, thiệt tình, dễ ợt, bự chảng), mỗi clip tối đa khoảng 31 âm tiết, không quá 4,5 âm tiết/giây.
 > - **Bối cảnh liền một mạch:** mọi clip nối frame cuối (`Seamless Frame Chaining`) giữa sân trước và trong nhà tre. Nhân vật mới bước vào clip thì dán FULL LOCK dưới nhãn `[CHARACTER ENTERING THIS SEGMENT]`.
 ---

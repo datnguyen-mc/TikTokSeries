@@ -9,6 +9,7 @@ VI = re.compile(r"[àáạảãâầấậẩẫăằắặẳẵèéẹẻẽê
 SEG = re.compile(r"^\s*(\d{2}):(\d{2}(?:\.\d+)?)\s*[–-]\s*(\d{2}):(\d{2}(?:\.\d+)?)\s*\|(.*)$")
 SAY = re.compile(r"(@?[\wÀ-ỹ][\wÀ-ỹ ]{0,30}?) says \((.*?)\):\s*(.+?)$")
 CLOCK = re.compile(r"\b\d{1,2}[:h]\d{2}\s?(AM|PM|am|pm|sáng|chiều|tối)\b|\b\d{1,2}\s?(AM|PM)\b|Time:\s*\d|\b(?!9:16\b|16:9\b)\d{1,2}:\d{2}\b(?![–-]\d)")
+SOUTH = re.compile(r"(?<![\wÀ-ỹ])(nè|nghen|hông|thiệt|muỗng|dữ vậy|mắc|lượm|rớt|tụi|tui|vầy|ghê|hen|nha)(?![\wÀ-ỹ])", re.I)
 SAY_HEAD = re.compile(r"(@?[\wÀ-ỹ][\wÀ-ỹ ]{0,30}?) says \((.*?)\):\s*")
 TAG = re.compile(r"@[A-Za-zÀ-ỹĐđ][\wÀ-ỹĐđ]*")
 
@@ -118,6 +119,10 @@ def main(d):
                 errs.append(f"segment {a:.1f}–{b:.1f}s: {n} syllables = {rate:.1f}/s (max 4.2, hard limit 4.4)")
             elif rate > 4.2:
                 warns.append(f"segment {a:.1f}–{b:.1f}s: {rate:.1f} syllables/s (target ≤ 4.2)")
+        if "Northern Vietnamese" in t.split("[CHARACTERS", 1)[0]:
+            south = [w for ln in lines_seen for w in SOUTH.findall(ln)]
+            if south:
+                errs.append(f"Southern words in a Northern-accent series: {sorted(set(south))}")
         if turns > 3 or (turns == 3 and total > 24):
             errs.append(f"{turns} speaking turns ({total} syllables)")
         if total > 36:

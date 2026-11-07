@@ -1,5 +1,8 @@
 # Tây Du Ký 2026 — Prompt Google Flow (Gemini Omni)
 
+> **🗣️ QUY TẮC GIỌNG (từ 07/11/2026 — ưu tiên cao nhất, thay mọi chỗ ghi "giọng miền Nam" bên dưới):** toàn bộ thoại dùng **giọng Bắc thanh thoát** — giọng Hà Nội chuẩn, nhẹ, rõ, tinh tế. Trong prompt: câu FORMAT ghi "a soft, clear, elegant standard Northern Vietnamese (Hà Nội) accent"; mỗi `Voice:` kết thúc bằng "elegant standard Hà Nội Northern Vietnamese accent"; AVOID có "Southern or Central Vietnamese accents". Từ ngữ cũng theo miền Bắc: này/đây, nhé, không, vào, thật, quá/thế, thìa, bát, cốc, lợn, đắt, quả, hoa, nhặt, rơi, xem, gọi (không dùng nè, nghen, hông, vô, thiệt, ghê, muỗng, chén, ly, heo, mắc, trái, lượm, rớt, coi, kêu). Chuẩn viết clip: `flowkit/docs/TIKTOK_PROMPT_SPEC.md`, kiểm tra bằng `python3 flowkit/scripts/check_tiktok_episode.py <thư mục tập>`.
+
+
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
 **Định dạng chuẩn bắt buộc:** **Mỗi tập là CLIP HÀI 60 GIÂY (`6 clip × 10s = 60s`) TỔNG KẾT HOT TREND VÀ DRAMA CỦA NGÀY** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **bắt buộc tổng hợp các tin hot, xu hướng mạng xã hội và drama ồn ào nhất trong ngày** thành một câu chuyện hài hước liền mạch 60 giây tại nhà trọ hẻm Sài Gòn của 4 thầy trò Đường Tăng (`@Thay`, `@DaiCa`, `@HeoLuoi`, `@UtKho`) và chị chủ `La Sát`.
@@ -21,7 +24,7 @@ README của series mới chỉ có ý tưởng chung, nên tạo hình dưới 
   - **Út Khờ:** da xanh xám, râu đỏ, chuỗi hạt gỗ, tạp dề làm việc nhà. Bỏ chuỗi đầu lâu cho hợp TikTok.
   - **Thầy:** áo cà sa cam nghệ, điện thoại giắt trong tay áo.
 - **Tôn trọng Phật giáo:** Thầy hiền, hơi ngây thơ, ăn chay và không bao giờ bị chế giễu; tiếng cười đến từ tình huống. Kệ thờ Phật trong nhà luôn ngay ngắn, không ai chạm vào, gió bão cũng không làm xê dịch (đã ghi sẵn trong [AVOID]).
-- **Giọng:** cả nhà sống ở Sài Gòn nên nói giọng miền Nam, đồng bộ với các series khác của kênh.
+- **Giọng:** từ 07/11/2026 cả nhà nói giọng Bắc thanh thoát (giọng Hà Nội chuẩn), đồng bộ với các series TikTok khác của kênh (trừ Mít & Đú).
 - **Nhạc nền:** đàn tranh, cồng, phách trên nền beat hip-hop nhẹ, chất cổ trang gặp hiện đại.
 - **Màu phép thuật:** mọi hiệu ứng phép (gậy dài ra, mây bay, gió quạt) đều có ánh vàng, để thống nhất cả series.
 - **Tỉ lệ chiều cao:** Út Khờ cao nhất, rồi đến La Sát và Thầy (ngang nhau). Heo Lười thấp hơn Thầy một cái đầu nhưng ngang gấp đôi. Đại Ca thấp nhất, chỉ tới ngực Thầy.
@@ -47,7 +50,7 @@ Luôn đảm bảo đủ **6 clip × 10s = 60 giây** cho mỗi tập tổng k�
 4. **Ghi lại:** README tập có dòng **⚡ Vì sao hot** (nguồn, giờ đăng, ngày kiểm) và **Đã quét và không chọn**; ghi một mục vào [TRENDS.md](../TRENDS.md). Tin cũ hơn 48 giờ mà tập chưa render thì thay bằng tin mới (Tập 16 cũ về vụ 31,7 tỷ đã thay như vậy).
 
 **Thoại tự nhiên như người thật (từ Tập 16):**
-- Câu ngắn 2–9 âm tiết, khẩu ngữ miền Nam (nè, nghen, hông, hả, ủa, trời ơi, xíu), nói với nhau chứ không nói với khán giả; giữ câu cửa miệng ("Khai mau!", "Oan!", "Đại Ca nói phải.", "A Di Đà Phật") nhưng không ép câu nào cũng có.
+- Câu ngắn 2–9 âm tiết, khẩu ngữ miền Bắc (này, nhé, không, à, ơ, trời ơi, tí), nói với nhau chứ không nói với khán giả; giữ câu cửa miệng ("Khai mau!", "Oan!", "Đại Ca nói phải.", "A Di Đà Phật") nhưng không ép câu nào cũng có.
 - **Cấm:** đọc bản tin ("Chùa online sáu trăm ngàn người vô…", "vụ mất 31,7 tỷ…"), con số, điều luật, mức phạt trong thoại (để ở caption và README); câu dài hơn 10 âm tiết; giảng giải bài học.
 - Mỗi clip 2–3 câu, khoảng 13–20 âm tiết, không quá 4,5 âm tiết mỗi giây (Thầy nói chậm, giữ dưới 3,5 âm tiết mỗi giây). Không bắt buộc ai cũng có câu; 30 giây chỉ cần 3–4 nhân vật nói.
 - Gag hình và âm thanh (sóng âm, loa rú, cả hẻm bật đèn) làm phần lớn tiếng cười; im thoại trong lúc gag xảy ra.
@@ -299,7 +302,7 @@ Ground-floor living room of a narrow, cozy rented tube house in a Saigon alley, 
 
 ```text
 [FORMAT]
-Vertical 9:16, 10-second clip, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a natural Southern Vietnamese accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 10-second clip, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a soft, clear, elegant standard Northern Vietnamese (Hà Nội) accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 **Nhạc nền**: câu cố định, luôn có trong [SOUND]
@@ -312,7 +315,7 @@ Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-b
 
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade, same 2D hand-drawn cartoon style with clean bold outlines and flat cel-shaded colors. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a natural Southern accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
+Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a soft, clear, elegant Northern (Hà Nội) accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
 
 **Câu chặn 3D & thẻ tham chiếu**: luôn là mục cuối của [AVOID] ở mọi clip

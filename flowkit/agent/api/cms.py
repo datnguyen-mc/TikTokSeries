@@ -1986,8 +1986,14 @@ def _build_structured_episode_prompts(
         world_format = (
             f"{ar_text}, 10-second clip, high-end 3D animated film, Pixar/DreamWorks-quality stylized CGI, "
             "soft global illumination, shallow depth of field, 24fps, cinematic color grade. "
-            "Spoken dialogue in Vietnamese with natural expressive voice acting and accurate lip-sync. "
-            "No subtitles, no captions, no on-screen text, no logos, no watermark."
+            + (
+                # TikTok series except Mít & Đú speak "giọng Bắc thanh thoát" (user rule, 07/11/2026)
+                "Spoken dialogue in Vietnamese with a soft, clear, elegant standard Northern Vietnamese (Hà Nội) accent "
+                "and accurate lip-sync. "
+                if slug in ("pheo-va-no-meo", "me-va-be", "tay-du-ky-2026", "365ngayvietnam")
+                else "Spoken dialogue in Vietnamese with natural expressive voice acting and accurate lip-sync. "
+            )
+            + "No subtitles, no captions, no on-screen text, no logos, no watermark."
         )
         default_setting = f"Bối cảnh đặc trưng của series {row_dict['name']}, ánh sáng điện ảnh ấm áp, chi tiết sống động."
         avoid_line = "subtitles, captions, watermark, readable text, extra limbs, outfit changes, sudden jump cuts."

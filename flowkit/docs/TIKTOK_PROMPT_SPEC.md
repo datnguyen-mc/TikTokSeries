@@ -42,8 +42,13 @@ continuity between clips. Do not change that.
      (series convention: spoken only, never shown as text);
    - syllables of the turn ÷ segment duration ≤ 4.2 (hard limit 4.4); total spoken syllables per clip ≤ 36;
    - the speaker's face is visible while speaking; everyone else keeps their mouth closed;
-   - lines must stay natural Southern Vietnamese (Mekong/Saigon) for these series, correct grammar and meaning,
-     same story beat — shorten, do not change the plot. Babies (Mẹ & Bé) never speak words.
+   - accent (user rule 07/11/2026): Mít & Đú keeps natural Southern Mekong speech; Phèo, Mẹ & Bé, Tây Du Ký and
+     365 Ngày speak "giọng Bắc thanh thoát" — FORMAT says "a soft, clear, elegant standard Northern Vietnamese
+     (Hà Nội) accent", every Voice string ends with "elegant standard Hà Nội Northern Vietnamese accent", AVOID lists
+     "Southern or Central Vietnamese accents", and the wording is Northern (này/đây, nhé, không, vào, thật, quá/thế,
+     thìa, bát, cốc, lợn, đắt — never nè, nghen, hông, vô, thiệt, ghê, muỗng, chén, ly, heo, mắc);
+   - correct grammar and meaning, same story beat — shorten, do not change the plot. Babies (Mẹ & Bé) never speak words.
+   - Mít & Đú: each episode is one countryside story; food is at most a side detail, not every episode a recipe.
    - Fewer actions per clip: what is shown must physically fit its segment.
 6. No clock digits or "AM/PM", no hex colour codes, no markdown (`#`, `**`, tables), no research/verification
    notes, no product prices; each dialogue line appears exactly once in the prompt. Product codes the series uses in

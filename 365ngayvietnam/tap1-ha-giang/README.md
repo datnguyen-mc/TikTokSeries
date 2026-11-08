@@ -1,57 +1,44 @@
-# Tập 1: Hà Giang — Cực Bắc Hùng Vĩ & Hương Vị Đá Nở Hoa
+# Tập 1: Hà Giang — Ngày Đầu Tiên Ở Địa Đầu: Km 0, Dinh Vua Mèo, Cột Cờ Lũng Cú, Bánh Cuốn Trứng Đồng Văn & Mã Pí Lèng (70 Giây = 7 Clips × 10s)
 
-> **Thời lượng tổng:** 7 clips × 10 giây = 70 giây  
-> **Nhân vật:** @Vy (Nữ du khách Việt Nam) & @Joi (Nam du khách Châu Âu)  
-> **Phương tiện:** Xe mô tô Scrambler 400cc cổ điển, màu xám xi măng, yên da bò nâu  
-> **Lộ trình liền mạch:** Cột Cờ Lũng Cú → Cung Đèo Đá Tam Giác Mạch → Phố Cổ Đồng Văn (Bánh Cuốn Trứng) → Đỉnh Đèo Mã Pí Lèng → Hẻm Tu Sản & Sông Nho Quế → Làng Pả Vi Mèo Vạc (Thịt Trâu Bếp Lửa & Thắng Cố) → Hoàng Hôn Mèo Vạc (Hẹn Cao Bằng)  
-> **Phong cách:** Travel Vlog điện ảnh chân thực, thẩm mỹ 35mm ấm áp  
-> **Master context:** [MASTER_CONTEXT.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/MASTER_CONTEXT.md) — BẮT BUỘC đọc trước khi sửa/viết thêm
+> **Thời lượng:** `70 giây = 7 clip × 10 giây`, mỗi clip một cú máy liền, dọc 9:16.
+> **Mạch tập (viết lại ngày 07/11/2026):** mượn mạch của một vlog xuyên Việt có thật: mở bằng câu sứ mệnh, đi qua các cột mốc có thật theo đúng thứ tự địa lý, có một chút vất vả thật, một bữa ăn địa phương, một cao trào cảm xúc dưới lá cờ, rồi kết bằng hoàng hôn và lời hẹn chặng sau. Tập không dùng tên, câu thoại, hình ảnh hay xe của người làm vlog đó. Người dẫn là `@Vy` và `@Joi`.
+> **Quy tắc giữ nguyên:** không có xe máy, không có mũ bảo hiểm trong khung hình (MASTER_CONTEXT, quy tắc 9), tập kết bằng hoàng hôn chứ không bằng cảnh lên xe. Giọng Bắc thanh thoát (Hà Nội). Thoại dứt ở `00:07.5`, 2,5 giây cuối không có thoại (quy tắc Tập 1–4). Trang phục theo ảnh tham chiếu `@Vy`/`@Joi` trên Flow (giống Tập 12), không dùng khối trang phục Đông Bắc cũ.
+> **Prompt:** `clip-1.md … clip-7.md` là prompt tiếng Anh theo thứ tự [FORMAT] → [AVOID] (mẫu: `tap12-hoa-binh`). Mỗi câu thoại tiếng Việt chỉ xuất hiện một lần trong prompt. Bản cũ (prompt tiếng Việt, có xe Scrambler và mũ bảo hiểm) đã sao lưu ngoài repo trước khi viết lại.
 
----
+## Lịch trình 7 điểm (70 giây)
 
-## 🛡️ 9 QUY TẮC ĐẠO DIỄN BẮT BUỘC (Tóm tắt — Chi tiết xem MASTER_CONTEXT.md)
+| Clip | Thời gian | Địa điểm & khoảnh khắc | Thoại (giọng Bắc) | File |
+| :---: | :---: | :--- | :--- | :---: |
+| **1** | `00:00–00:10` | **Cột mốc Km 0, trung tâm Hà Giang**, sáng sớm, sương trên núi đá. Flycam 1,5 giây rồi sà xuống hai người. Câu sứ mệnh mở tập. | @Vy: "Ba trăm sáu lăm ngày, bắt đầu từ hôm nay!" (10 âm tiết) · @Joi: "Từ địa đầu Hà Giang, đến tận Mũi Cà Mau!" (10) | [clip-1.md](clip-1.md) |
+| **2** | `00:10–00:20` | **Dinh Vua Mèo (dinh thự họ Vương), thung lũng Sà Phìn**, cuối buổi sáng. Sân lát đá, nhà gỗ hai tầng, ngói âm dương, tiếng khèn Mông vọng từ ngoài vào. | @Vy: "Dinh Vua Mèo đây rồi, toàn đá xanh với ngói âm dương!" (12) · @Joi: "Nghe kìa em, tiếng khèn Mông vọng vào tận đây." (10) | [clip-2.md](clip-2.md) |
+| **3** | `00:20–00:30` | **Bậc đá lên Núi Rồng**, đầu giờ chiều, gió mạnh. Vy thở dốc, Joi chìa tay kéo lên. Dưới chân là ruộng bậc thang và núi đá. | @Vy: "Leo mỏi chân quá, còn mấy bậc nữa hả anh?" (10) · @Joi: "Nắm tay anh này, sắp lên đến Cột Cờ rồi!" (10) | [clip-3.md](clip-3.md) |
+| **4** | `00:30–00:40` | **Đỉnh Núi Rồng, Cột Cờ Lũng Cú**, giữa chiều. Lá cờ đỏ sao vàng bay phần phật trên vùng biên. Đây là cao trào cảm xúc của tập. | @Vy: "Đứng dưới lá cờ này, em nổi hết cả da gà!" (11) · @Joi: "Lũng Cú đây rồi em, anh cũng thấy tự hào." (10) | [clip-4.md](clip-4.md) |
+| **5** | `00:40–00:50` | **Bánh cuốn trứng ở Phố Cổ Đồng Văn**, chiều muộn, trong một ngôi nhà cổ tường trình, nồi hấp bốc khói, bát nước dùng xương nóng. | @Vy: "Bánh cuốn trứng chấm nước dùng nóng, ngon quá anh!" (10) · @Joi: "Trời lạnh thế này, ăn vào là ấm cả người." (10) | [clip-5.md](clip-5.md) |
+| **6** | `00:50–01:00` | **Điểm ngắm trên Đèo Mã Pí Lèng**, nắng vàng cuối chiều, nhìn xuống Hẻm Tu Sản và Sông Nho Quế xanh ngọc. Một lời tri ân lặng lẽ những người mở Con Đường Hạnh Phúc. | @Vy: "Sông Nho Quế xanh như ngọc, đẹp quá anh ơi!" (10) · @Joi: "Con Đường Hạnh Phúc đấy em, ngày xưa đục đá bằng tay." (12) | [clip-6.md](clip-6.md) |
+| **7** | `01:00–01:10` | **Hoàng hôn trên một sống núi phía trên Mã Pí Lèng, hướng Mèo Vạc.** Hai người ngồi trên tảng đá, nhìn lại ngày đầu tiên và nhử chặng sau là Cao Bằng. | @Vy: "Ngày đầu tiên đã đẹp thế này rồi, anh nhỉ?" (10) · @Joi: "Mai mình sang Cao Bằng, nghe bảo có thác to lắm." (11) | [clip-7.md](clip-7.md) |
 
-1. **CHARACTER-VOICE LOCK & LIP SYNC:** Cam khóa chặt mặt người nói, khẩu hình 100% khớp âm tiết.
-2. **VIẾT HOA ĐỊA DANH:** Tất cả địa danh viết hoa chuẩn ngữ pháp tiếng Việt.
-3. **FLYCAM MỞ MÀN (Clip 1):** Flycam 1.5s → zoom vào nhân vật khi có thoại.
-4. **SILENT BUFFER (00:07.5–00:10):** 2.5 giây cuối tuyệt đối không thoại.
-5. **MATCH-CUT ĐỊA LÝ:** End frame Clip N = Start Clip N+1, logic địa lý thực tế.
-6. **SINGLE CONTINUOUS SHOT:** Một cú máy mượt mà 10 giây, không cắt góc.
-7. **AUTHENTIC VLOGGING — NO BIO:** Không giới thiệu tên, không thẻ tên, không profile card.
-8. **KHÔNG PHỤ ĐỀ, KHÔNG CHỮ, KHÔNG WATERMARK.**
-9. **MANDATORY HELMET & PROP BLOCKING:** Mũ bảo hiểm phải có nguồn gốc vật lý, hành động lấy/đội/tháo rõ ràng.
+- **Nhịp thoại:** mỗi clip có 2 lượt nói, tổng 20–22 âm tiết. Vy nói ở `00:00–00:04.0` (clip 1: sau 1,5 giây flycam, từ `00:01.5` đến `00:04.5`), Joi nói ở `00:04.0–00:07.5` (clip 1: `00:04.5–00:07.5`), tốc độ 2,5–3,4 âm tiết/giây. Từ `00:07.5` đến `00:10` không có thoại.
+- **Nối cảnh:** clip 1 kết bằng cảnh hai người nắm tay bước về phía núi. Clip 2 kết bằng cảnh đi vào cửa dinh, clip 3 bằng cảnh tiếp tục leo, clip 4 bằng cảnh ngước nhìn lá cờ, clip 5 bằng cảnh gắp bánh cho nhau, clip 6 bằng cảnh tựa vai nhìn hẻm vực, và clip 7 kết ở hoàng hôn.
+- **Caption:** [caption.md](caption.md)
 
----
+## Thông tin đã kiểm chứng (không đưa vào prompt)
 
-## 📋 Danh Sách Phân Cảnh (7 Clips — Logic Đạo Cụ Mũ Bảo Hiểm Liên Tục)
+> Prompt chỉ dùng những điều có ở đây. Thoại không đọc số liệu: các con số nằm trong caption. Thời điểm trong ngày ghi bằng chữ trong prompt, không ghi số giờ.
 
-| Clip | Tên Phân Cảnh | Trạng Thái Mũ Bảo Hiểm & Hành Động Chuyển Tiếp | File |
-|:---:|---|---|:---:|
-| **1** | **Mở Màn Cực Bắc Lũng Cú** | MŨ MÓC TRÊN GHI-ĐÔNG → Lấy mũ, đội, cài quai, nổ máy xe | [clip-1.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap1-ha-giang/clip-1.md) |
-| **2** | **Cung Đèo Đá & Tam Giác Mạch** | ĐANG ĐỘI MŨ trên xe → Dừng xe, nhả quai, tháo mũ cầm tay, bước vào quán | [clip-2.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap1-ha-giang/clip-2.md) |
-| **3** | **Review Bánh Cuốn Trứng** | MŨ ĐẶT TRÊN BÀN GỖ → Nhấc mũ đưa cho nhau, dắt tay ra xe lên đèo | [clip-3.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap1-ha-giang/clip-3.md) |
-| **4** | **Chinh Phục Đèo Mã Pí Lèng** | ĐANG ĐỘI MŨ (kính đẩy cao) → Nhả quai, tháo mũ, móc vào ghi-đông xe, xuống bến thuyền | [clip-4.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap1-ha-giang/clip-4.md) |
-| **5** | **Thuyền Hẻm Tu Sản — Sông Nho Quế** | MŨ MÓC TRÊN XE Ở BẾN (mặc áo phao cam) → Thuyền cập bến, bước lên nhà sàn | [clip-5.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap1-ha-giang/clip-5.md) |
-| **6** | **Review Trâu Gác Bếp & Thắng Cố** | MŨ TRÊN GIÁ GỖ CẠNH CỬA → Nhấc mũ từ giá, đưa cho nhau, ra hiên đón hoàng hôn | [clip-6.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap1-ha-giang/clip-6.md) |
-| **7** | **Hoàng Hôn & Hẹn Cao Bằng** | MŨ MÓC TRÊN GHI-ĐÔNG → Lấy mũ, đội, cài quai, nổ máy lăn bánh hẹn Cao Bằng | [clip-7.md](file:///Users/iseul-a/Documents/METACREW/TikTokSeries/365ngayvietnam/tap1-ha-giang/clip-7.md) |
+- **Hành chính:** từ 01/7/2025 Hà Giang thuộc tỉnh Tuyên Quang mới và không còn cấp huyện. Thoại và prompt chỉ nói "Hà Giang" như một địa danh, không nói tỉnh hay huyện.
+- **Clip 1, cột mốc Km 0:** nằm ở trung tâm Hà Giang, đối diện Quảng trường 26/3, gần sông Lô. Đây là điểm đầu Quốc lộ 2 và điểm xuất phát của Con Đường Hạnh Phúc (QL4C) lên cao nguyên đá. Ở đây có hai cột: cột chỉ dẫn giao thông (năm 2023 được nhổ lên sửa rồi cắm lại) và một cột lớn hơn trong công viên. Prompt tả cột mốc quốc lộ truyền thống sơn trắng, đầu đỏ, chữ mờ không đọc được, và viết "zero-kilometre" thay cho "Km 0" để Omni không vẽ chữ số lên hình.
+- **Clip 2, Dinh Vua Mèo (dinh thự họ Vương):** nằm ở thung lũng Sà Phìn, gần Đồng Văn. Dinh khởi công năm 1898, xong năm 1907, có 64 phòng chia thành tiền dinh, trung dinh và hậu dinh. Kiến trúc kết hợp lối Mông, Pháp và Trung Hoa, do thợ Vân Nam cùng đồng bào Mông xây. Vật liệu là đá xanh và ngói âm dương, quanh dinh có hàng sa mộc cổ thụ. **Chưa chắc:** các nguồn ghi loại gỗ khác nhau (VnExpress ghi gỗ thông và pơ mu, nguồn khác ghi sa mộc). Vì vậy thoại chỉ nói "đá xanh với ngói âm dương", còn prompt tả "gỗ sẫm màu lâu năm". Tiếng khèn chỉ là âm thanh vọng từ ngoài vào, không ai thổi khèn trong khung hình; tập không khẳng định dinh có biểu diễn khèn thường xuyên.
+- **Clip 3, bậc đá lên Núi Rồng:** số bậc mỗi nguồn ghi một khác (286, khoảng 389…), nên thoại không nói số. Tháng 10–11 là mùa hoa tam giác mạch trên cao nguyên đá, nên nền có vài vạt hoa hồng nhỏ.
+- **Clip 4, Cột Cờ Lũng Cú:** thân cột hình bát giác, chân cột có phù điêu và hoa văn trống đồng Đông Sơn. Lá cờ rộng 54 m², tượng trưng cho 54 dân tộc. Gió trên đỉnh mạnh nên đồn biên phòng luôn có sẵn cờ dự phòng và thay cờ định kỳ. Cột cờ đầu tiên, dựng năm 1978, là một cây sa mộc cao 12 m. Prompt đặt hai người trên sân đỉnh núi cạnh chân cột, không đặt trên đài quan sát vì chưa kiểm chứng được chi tiết của đài. Cột cờ không phải điểm cực Bắc tuyệt đối (điểm đó ở khúc Sông Nho Quế, cách đó vài km), nên thoại nói "Lũng Cú đây rồi" chứ không nói "điểm cực Bắc".
+- **Clip 5, bánh cuốn trứng Đồng Văn:** người ta đập trứng lên lớp bánh đang hấp rồi gấp lại. Bánh ăn với bát nước dùng xương nóng thay cho nước mắm pha; nguồn ghi xương lợn, có nơi ghi xương gà. **Lưu ý thực tế:** ở Đồng Văn, bánh cuốn chủ yếu bán buổi sáng. Tập đặt bữa này vào chiều muộn để giữ đúng thứ tự địa lý (Lũng Cú → Đồng Văn → Mã Pí Lèng); nếu đi thật thì nên ăn sáng.
+- **Clip 6, Mã Pí Lèng:** đèo nằm trên QL4C giữa Đồng Văn và Mèo Vạc. Từ đèo nhìn xuống thấy Hẻm Tu Sản và Sông Nho Quế xanh ngọc. Vách hẻm cao khoảng 700–800 m, nhưng con số này không đưa vào thoại. Con Đường Hạnh Phúc được xây từ năm 1959 đến 1965, chủ yếu do thanh niên xung phong thuộc 16 dân tộc làm, cùng dân công địa phương. Đoạn Mã Pí Lèng khó nhất: người làm đường đu dây trên vách và đục đá bằng tay trong khoảng 11 tháng. Có 14 người hy sinh; số người tham gia mỗi nguồn ghi một khác. Tập không dùng cụm "hẻm vực sâu nhất Đông Nam Á" vì còn tranh cãi. Mỏm đá nổi tiếng ở Tu Sản từng bị bê tông hóa (Tuổi Trẻ đưa tin), nên prompt chỉ tả một bức tường đá thấp ở điểm ngắm.
+- **Clip 7, hoàng hôn:** cảnh quay trên một sống núi phía trên đèo, hướng về Mèo Vạc; dã quỳ nở vào tháng 10–11. Tập kết ở hoàng hôn và không có cảnh lên xe. Chặng sau là Cao Bằng (Tập 2).
+- **Nhịp thời gian:** đi thật từ Km 0 lên Đồng Văn (khoảng 150 km đường đèo), Lũng Cú và Mã Pí Lèng thường mất hai ngày. Tập dồn tất cả vào "ngày đầu tiên" của hành trình 365 ngày.
 
----
+## Nguồn (tra ngày 07/11/2026)
 
-## 🔒 Khóa Trang Phục Tập 1 (Chặng Đông Bắc Bộ — Tập 1–5)
-
-- **@Vy:** Áo len cổ lọ be ngà + áo khoác gió lửng hồng đất pastel + khăn len thổ cẩm quả trám đỏ cam + quần jeans xanh nhạt + boots da lộn nâu cà phê + túi mây tròn. Mũ bảo hiểm: 3/4 vintage kem be viền da nâu.
-- **@Joi:** Áo henley xám lông chuột + áo khoác canvas rêu quân đội 4 túi + quần cargo kaki be cát + boots da sáp nâu sẫm + balo phượt 50L. Mũ bảo hiểm: 3/4 vintage xanh rêu nhám viền da nâu.
-- **Xe Scrambler:** Xám xi măng, yên da nâu bò, cờ đỏ sao vàng mini sau đuôi xe.
-
----
-
-## 🎵 Nhạc Nền Đề Xuất
-
-- **Phong cách:** Sáo Mèo + Acoustic Guitar + Huýt sáo trẻ trung rộn rã phóng khoáng.
-- **Mood:** Tự do trên mây trời Tây Bắc → Ấm cúng bên bếp lửa → Lãng mạn lắng đọng hoàng hôn.
-
----
-
-## 📱 Caption Đăng TikTok
-
-Caption, hashtag và bình luận ghim: xem [caption.md](caption.md).
+- Cột mốc Km 0: https://mia.vn/cam-nang-du-lich/gioi-tre-do-xo-check-in-chay-may-tai-cot-moc-km-so-0-ha-giang-3407 · https://news.laodong.vn/xa-hoi/chuyen-it-biet-ve-cot-moc-km0-noi-tieng-o-ha-giang-1480424.ldo · https://tuoitre.vn/cot-moc-km0-tai-ha-giang-duoc-cam-lai-sau-3-ngay-sua-chua-20230601110711653.htm
+- Dinh thự họ Vương: https://vnexpress.net/dinh-thu-vua-meo-o-ha-giang-2862186.html · https://mia.vn/cam-nang-du-lich/diem-qua-mot-vai-kinh-nghiem-kham-pha-dinh-thu-ho-vuong-o-ha-giang-3752 · https://baovanhoa.vn/du-lich/ben-trong-dinh-thu-tram-nam-tuoi-cua-vua-meo-o-cao-nguyen-da-tuyen-quang-251788.html
+- Cột Cờ Lũng Cú: https://vnexpress.net/dau-xuan-chinh-phuc-cot-co-lung-cu-2950486.html · https://mia.vn/cam-nang-du-lich/cot-co-lung-cu-dau-an-thieng-thieng-noi-dia-dau-to-quoc-3458
+- Bánh cuốn Đồng Văn: https://thuonghieucongluan.com.vn/banh-cuon-dong-van-huong-vi-am-nong-giua-cao-nguyen-da-a335178.html · https://mia.vn/cam-nang-du-lich/banh-cuon-pho-co-dong-van-mon-ngon-4-mua-den-ha-giang-deu-phai-thu-3465
+- Con Đường Hạnh Phúc & Mã Pí Lèng: https://www.vietnamplus.vn/con-duong-hanh-phuc-niem-tu-hao-cua-nhan-dan-cac-dan-toc-ha-giang-post596054.vnp · https://nhandan.vn/ocop/tac-vao-da-con-duong-hanh-phuc-post879786.html · https://baovanhoa.vn/van-hoa/bieu-tuong-tuoi-tre-tren-cao-nguyen-da-thanh-diem-du-lich-251917.html · https://tuoitre.vn/lai-betong-hoa-them-mot-danh-than-602555.htm

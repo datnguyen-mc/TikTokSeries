@@ -1,4 +1,13 @@
-Photorealistic live-action Vietnamese folk-horror drama set in the Northern Vietnamese countryside; natural skin texture, damp air, realistic practical light (tungsten, oil lamps, moonlight), subtle 35mm film grain. One continuous 10-second shot, 16:9 widescreen, 24 fps.
+One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+
+[STYLE]
+Photorealistic live-action Vietnamese folk-horror film set in the Northern Vietnamese countryside; gritty grade with deep charcoal-black shadows, damp moss greens and dark rust-terracotta tones, natural skin texture, subtle 35mm film grain.
+
+[LIGHTING]
+Low-key horror lighting: flickering amber oil-lamp and incense light against cold cyan-green moonlight and midnight-blue shade; daylight stays muted and desaturated.
+
+[LOCATION]
+Fifth night, deep night: the freezing moonlit main room where the old family altar once stood; bare lime-plaster walls.
 
 [CHARACTERS]
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards.
@@ -6,23 +15,22 @@ Keep every face, hairstyle and outfit exactly consistent. Attached reference ima
 - @VongCuXa = the ghost of Cụ Xá, Bình's late grandfather, about 80; gaunt, wispy white hair and beard, sad hollow eyes; faded brown traditional áo bà ba, barefoot; semi-transparent with a faint cold glow.
 Nobody else appears in the shot.
 
-[SETTING]
-Fifth night, deep night: the freezing moonlit main room where the old family altar once stood; bare lime-plaster walls.
-
 [SHOT]
-- Camera: 35mm stabilized medium shot slow push-in; one smooth camera move from start to end, no cuts.
+- Framing & motion: 35mm stabilized medium shot slow push-in; one smooth camera move from start to end, no cuts.
 - Continuity: continues the same moment, place and lighting as the previous shot; same framing axis, no jump.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the frame.
 
 [TIMELINE]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; clothing stays fully worn from the first frame.
 - 0.0–3.0s: @Binh crawls forward on the brick floor and kneels at @VongCuXa's feet.
 - 3.0–7.0s: @Binh crawls across the cold brick tiles and falls to his knees before @VongCuXa's translucent form, tears streaming down his face in overwhelming grief and remorse.
 - 7.0–10.0s: @Binh bows his head weeping as @VongCuXa gazes down at him with gentle compassion. The shot settles on this as its final frame.
 
 [AUDIO]
-- Dialogue 0.4–7.2s, spoken on camera by @Binh (young man of 21, standard Hà Nội accent, light tenor, shaky and breathless with fear), in Vietnamese with exact lip-sync: "Ông nội ơi cháu có lỗi với ông nhiều lắm, cháu và bố ở trên thành phố thật sự không biết ông phải lạnh lẽo thế này!"
-- @Binh's face and lips stay clearly visible while speaking. No narrator and no other voices.
+- Dialogue 0.4–7.2s, spoken on camera by @Binh (young man of 21, standard Hà Nội accent, light tenor, shaky and breathless with fear, speaking at a brisk, urgent, fast-clipped pace), in Vietnamese with exact lip-sync, said exactly once: "Ông nội ơi cháu có lỗi với ông nhiều lắm, cháu và bố ở trên thành phố thật sự không biết ông phải lạnh lẽo thế này!" (no subtitles)
+- @Binh's face and lips stay clearly visible while speaking; after the last word @Binh closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- Sound effects: knees knocking on the brick floor, cold room tone. Ambience continues to 10.0s. No music.
+- SFX: knees knocking on the brick floor, cold room tone. Ambience continues to 10.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred or sped-up speech, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

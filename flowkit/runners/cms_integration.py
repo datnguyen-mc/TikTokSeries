@@ -180,41 +180,45 @@ def _mirror_video_to_prompt_folder(local_video_path: str, ep_num: int, ep_folder
 
 
 def _is_studio_portrait_frame_rgb(buf: bytes, w: int = 160, h: int = 90) -> bool:
-    """Detect full-body character reference sheet on a plain grey studio backdrop."""
-    sats, lumas, diffs = [], [], []
-    for y in range(8, 78, 2):
-        for x in list(range(5, 42, 2)) + list(range(118, 155, 2)):
-            idx = (y * w + x) * 3
-            r, g, b = buf[idx], buf[idx + 1], buf[idx + 2]
-            sats.append(max(r, g, b) - min(r, g, b))
-            lumas.append((r + g + b) // 3)
-            idx_r = (y * w + (x + 2)) * 3
-            diffs.append(abs(int(buf[idx]) - int(buf[idx_r])) + abs(int(buf[idx + 1]) - int(buf[idx_r + 1])))
-    mean_sat = sum(sats) / len(sats)
-    mean_luma = sum(lumas) / len(lumas)
-    side_grad = sum(diffs) / len(diffs)
-    c_grads = []
-    for y in range(12, 82, 2):
-        for x in range(58, 102, 2):
-            idx = (y * w + x) * 3
-            idx_r = (y * w + (x + 2)) * 3
-            c_grads.append(abs(int(buf[idx]) - int(buf[idx_r])) + abs(int(buf[idx + 1]) - int(buf[idx_r + 1])))
-    center_grad = sum(c_grads) / len(c_grads)
-    return (
-        mean_sat < 35.0
-        and 40.0 <= mean_luma <= 198.0
-        and side_grad < 8.5
-        and center_grad > 24.0
-        and center_grad > side_grad * 3.5
-    )
+    """Detect full-body character reference sheet on a plain grey/charcoal studio backdrop (character in Center, Left, or Right)."""
+    zones = []
+    for xr in (range(5, 52, 2), range(56, 104, 2), range(108, 155, 2)):
+        sats, lumas, diffs = [], [], []
+        for y in range(8, 78, 2):
+            for x in xr:
+                idx = (y * w + x) * 3
+                r, g, b = buf[idx], buf[idx + 1], buf[idx + 2]
+                sats.append(max(r, g, b) - min(r, g, b))
+                lumas.append((r + g + b) // 3)
+                idx_r = (y * w + (x + 2)) * 3
+                diffs.append(abs(int(buf[idx]) - int(buf[idx_r])) + abs(int(buf[idx + 1]) - int(buf[idx_r + 1])))
+        zones.append((
+            sum(sats) / len(sats),
+            sum(lumas) / len(lumas),
+            sum(diffs) / len(diffs),
+        ))
+    # Check if any 1 zone has the character (high gradient) while the other 2 zones are flat studio backdrop
+    for p_idx in (1, 0, 2):
+        bg_indices = [i for i in (0, 1, 2) if i != p_idx]
+        bg_sat = sum(zones[i][0] for i in bg_indices) / 2.0
+        bg_luma = sum(zones[i][1] for i in bg_indices) / 2.0
+        bg_grad = sum(zones[i][2] for i in bg_indices) / 2.0
+        person_grad = zones[p_idx][2]
+        if (
+            bg_sat < 22.0
+            and 85.0 <= bg_luma <= 205.0
+            and bg_grad < 4.5
+            and person_grad > 24.0
+            and person_grad > bg_grad * 5.0
+        ):
+            return True
+    return False
 
 
 def trim_studio_reference_frames(video_path: str, log_fn=None) -> bool:
     """
-    1. Luôn cắt bỏ 0.5s đầu tiên (12 frames @ 24fps) đối với mọi clip gốc ~10.0s (n >= 232 frames)
-       để loại bỏ hoàn toàn hiện tượng dính/biến hình từ ảnh tham chiếu nhân vật ở đầu clip.
-    2. Quét 24fps ở đầu và cuối clip để phát hiện và cắt bỏ thêm các frame ảnh thẻ nhân vật (nền xám studio)
-       do Gemini Omni R2V vô tình chèn vào đầu (0.0s–2.0s) hoặc cuối (7.0s–10.0s) video.
+    Quét 24fps ở đầu và cuối clip để phát hiện và cắt bỏ các frame ảnh thẻ nhân vật (nền xám studio)
+    trên luồng hình ảnh (giữ nguyên 100% luồng âm thanh 10s để không bao giờ bị cụt lời thoại).
     """
     if not video_path or not os.path.isfile(video_path):
         return False
@@ -231,44 +235,53 @@ def trim_studio_reference_frames(video_path: str, log_fn=None) -> bool:
         if n < 48:
             return False
         flags = [_is_studio_portrait_frame_rgb(raw[i * frame_bytes:(i + 1) * frame_bytes], w, h) for i in range(n)]
-        head_indices = [i for i, f in enumerate(flags[:48]) if f]
-        head_frames = (max(head_indices) + 1) if (len(head_indices) >= 2 or (head_indices and head_indices[0] <= 2)) else 0
-        tail_window = flags[-72:]
-        tail_indices = [i for i, f in enumerate(tail_window) if f]
-        tail_frames = (len(tail_window) - min(tail_indices)) if (len(tail_indices) >= 2 or (tail_indices and tail_indices[-1] >= len(tail_window) - 3)) else 0
+        # Chỉ tính là studio card ở đầu nếu bắt đầu ngay từ frame 0 hoặc 1
+        head_frames = 0
+        if flags[0] or flags[1]:
+            for i in range(min(48, n)):
+                if flags[i]:
+                    head_frames = i + 1
+                elif i > head_frames + 2:
+                    break
+        tail_frames = 0
+        if flags[-1] or flags[-2]:
+            for i in range(1, min(48, n) + 1):
+                if flags[-i]:
+                    tail_frames = i
+                elif i > tail_frames + 2:
+                    break
 
-        # Chỉ cắt 0.5s đầu tiên đối với 2 phim dài YouTube 16:9 (duong-dua-sinh-tu, ke-song-sot);
-        # các kênh TikTok 9:16 KHÔNG cắt 0.5s đầu tiên.
         is_long_youtube_movie = any(s in video_path for s in ("duong-dua-sinh-tu", "ke-song-sot"))
         min_head_frames = 12 if (is_long_youtube_movie and n >= 232) else 0
         if head_frames == 0 and tail_frames == 0 and min_head_frames == 0:
             return False
 
-        # Thêm 3 frame đệm ở đầu (nếu có studio card) hoặc tối thiểu 12 frame (0.5s), và 5 frame đệm ở cuối
-        start_frame = max(min_head_frames, min(head_frames + 3, n // 3) if head_frames > 0 else 0)
-        end_frame = max(n - tail_frames - 5, (n * 2) // 3) if tail_frames > 0 else n
+        start_frame = max(min_head_frames, min(head_frames + 2, n // 4) if head_frames > 0 else 0)
+        end_frame = max(n - tail_frames - 2, (n * 3) // 4) if tail_frames > 0 else n
         start_s = round(start_frame / 24.0, 3)
         end_s = round(end_frame / 24.0, 3)
-        if end_s - start_s < 4.0:
+        total_dur = round(n / 24.0, 3)
+        if end_s - start_s < 5.0:
             return False
 
         if head_frames > 0 or tail_frames > 0:
-            msg = f"✂️ [STUDIO-CARD + 0.5s GUARD] Phát hiện frame tham chiếu ở {os.path.basename(video_path)} (đầu={head_frames}f, cuối={tail_frames}f) -> Cắt giữ {start_s:.2f}s–{end_s:.2f}s"
+            msg = f"✂️ [STUDIO-CARD VIDEO-ONLY GUARD] Phát hiện frame tham chiếu ở {os.path.basename(video_path)} (đầu={head_frames}f, cuối={tail_frames}f) -> Cắt hình {start_s:.2f}s–{end_s:.2f}s & giữ nguyên 100% âm thanh"
         else:
-            msg = f"✂️ [TRIM 0.5s ĐẦU] Đã cắt bỏ 0.50s đầu tiên của {os.path.basename(video_path)} -> Giữ đoạn sạch {start_s:.2f}s–{end_s:.2f}s"
+            msg = f"✂️ [TRIM 0.5s ĐẦU] Đã cắt bỏ 0.50s hình đầu tiên của {os.path.basename(video_path)} -> Giữ đoạn sạch {start_s:.2f}s–{end_s:.2f}s"
         if log_fn:
             log_fn(msg)
         else:
             print(msg, flush=True)
 
+        stretch = round(total_dur / max(1.0, end_s - start_s), 5)
         tmp_trim = f"{video_path}.trim.mp4"
         trim_cmd = [
             "ffmpeg", "-y",
-            "-ss", f"{start_s:.3f}",
-            "-to", f"{end_s:.3f}",
             "-i", video_path,
+            "-filter_complex", f"[0:v]trim=start={start_s:.3f}:end={end_s:.3f},setpts={stretch:.5f}*(PTS-STARTPTS)[v]",
+            "-map", "[v]", "-map", "0:a",
             "-c:v", "libx264", "-preset", "fast", "-crf", "18",
-            "-c:a", "aac", "-b:a", "192k",
+            "-c:a", "copy", "-shortest",
             "-movflags", "+faststart",
             tmp_trim,
         ]
@@ -1419,6 +1432,8 @@ def wait_if_cooldown_error(res_text: str, flowkit_api: str = None, log_fn=print)
 # ─── Smart Multi-Stage Prompt Rewriter (Zero-Skip Guarantee) ─────────────────
 
 _EN_SAFE_REPLACEMENTS = [
+    (r"\bdyke\b", "embankment"),
+    (r"\bprimary-school\b", "literature"),
     (r"\bexhausted\s+dark\s+eyes\s+with\s+heavy\s+dark\s+circles\s+underneath\b", "attentive dark eyes"),
     (r"\bheavy\s+dark\s+circles\s+underneath\b", "clear natural features"),
     (r"\bhuddles\s+by\b", "sits quietly by"),
@@ -1940,3 +1955,100 @@ def force_rename_clip_on_flow(
     return False
 
 
+
+
+# ─────────────────────────────────────────────────────────────
+# Tăng tốc giọng đọc an toàn (08/11/2026)
+# Bản cũ nối 2.4s CUỐI CỦA AUDIO GỐC vào sau phần đã tăng tốc → mấy chữ cuối của người dẫn
+# bị đọc lại lần hai (đo được 15/29 clip VO). Bản này lấp phần thiếu bằng tiếng nền (room tone)
+# lấy từ đoạn yên tĩnh nhất của chính clip, phát xuôi/ngược xen kẽ để không có tiếng click.
+# ─────────────────────────────────────────────────────────────
+def _audio_rms_profile(video_path: str, sr: int = 8000):
+    import array
+    raw = subprocess.run(
+        ["ffmpeg", "-v", "error", "-i", video_path, "-vn", "-ac", "1", "-ar", str(sr), "-f", "s16le", "-"],
+        capture_output=True, timeout=60,
+    ).stdout
+    a = array.array("h")
+    a.frombytes(raw[: len(raw) // 2 * 2])
+    pref = [0]
+    for v in a:
+        pref.append(pref[-1] + v * v)
+    return pref, len(a)
+
+
+def find_room_tone_window(video_path: str, start_s: float, end_s: float, win_s: float = 0.4) -> Optional[float]:
+    """Trả về mốc bắt đầu (giây) của cửa sổ win_s có đỉnh năng lượng con (50ms) thấp nhất trong [start_s, end_s)."""
+    sr = 8000
+    try:
+        pref, n = _audio_rms_profile(video_path, sr)
+    except Exception:
+        return None
+    w = int(win_s * sr)
+    hop = int(0.05 * sr)
+    s0, s1 = int(start_s * sr), min(n, int(end_s * sr)) - w
+    best = None
+    for s in range(max(0, s0), max(0, s1) + 1, hop):
+        max_sub = max(pref[k + hop] - pref[k] for k in range(s, s + w, hop))
+        tot = pref[s + w] - pref[s]
+        # Ưu tiên vùng nửa cuối clip (sau khi lời thoại đã dứt) để không dính âm đầu câu ở 0.3s-0.5s
+        tail_bonus = 0.85 if (s / sr) >= 6.0 else 1.0
+        score = (max_sub * tail_bonus, tot)
+        if best is None or score < best[0]:
+            best = (score, s)
+    return None if best is None else best[1] / sr
+
+
+def _room_tone_chain(label_in: str, ws: float, win_s: float, need_s: float, tag: str) -> tuple[str, str]:
+    """Filter tạo đoạn tiếng nền dài need_s từ cửa sổ [ws, ws+win_s] (xuôi/ngược xen kẽ, không click)."""
+    import math
+    k = max(2, math.ceil(need_s / win_s) + 1)
+    parts = [f"{label_in}asplit={k}" + "".join(f"[{tag}s{i}]" for i in range(k)) + ";"]
+    for i in range(k):
+        rev = ",areverse" if i % 2 else ""
+        parts.append(f"[{tag}s{i}]atrim=start={ws:.3f}:end={ws + win_s:.3f},asetpts=PTS-STARTPTS{rev}[{tag}p{i}];")
+    parts.append("".join(f"[{tag}p{i}]" for i in range(k)) + f"concat=n={k}:v=0:a=1,atrim=0:{need_s:.3f}[{tag}];")
+    return "".join(parts), f"[{tag}]"
+
+
+def boost_voice_tempo_safe(video_path: str, tempo: float = 1.18, log_fn=None) -> bool:
+    """Tăng tốc toàn bộ audio clip theo tempo (giữ cao độ), giữ nguyên hình 100% (-c:v copy);
+    phần thời lượng còn thiếu ở cuối được lấp bằng tiếng nền của chính clip — KHÔNG phát lại lời nói."""
+    _log = log_fn or (lambda m: print(m, flush=True))
+    if not video_path or not os.path.exists(video_path) or tempo <= 1.01:
+        return False
+    out_tmp = f"{video_path}.fast.mp4"
+    try:
+        dur = probe_video_duration(video_path) or 10.0
+        fast_len = dur / tempo
+        xf = 0.2
+        need = dur - fast_len + xf + 0.05
+        win = 0.4
+        ws = find_room_tone_window(video_path, 0.05, dur - 0.05, win)
+        if ws is None:
+            af = f"[0:a]atempo={tempo:.3f},apad,atrim=0:{dur:.3f},asetpts=PTS-STARTPTS[aout]"
+        else:
+            tone_f, tone_l = _room_tone_chain("[a1]", ws, win, need, "tone")
+            af = (
+                "[0:a]asplit=2[a0][a1];"
+                f"[a0]atempo={tempo:.3f}[fast];"
+                + tone_f
+                + f"[fast]{tone_l}acrossfade=d={xf:.2f}:c1=tri:c2=tri,atrim=0:{dur:.3f},asetpts=PTS-STARTPTS[aout]"
+            )
+        cmd = ["ffmpeg", "-y", "-i", video_path, "-filter_complex", af, "-map", "0:v:0", "-map", "[aout]",
+               "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", out_tmp]
+        res = subprocess.run(cmd, capture_output=True, text=True, timeout=90)
+        if res.returncode == 0 and os.path.exists(out_tmp) and os.path.getsize(out_tmp) > 10000:
+            os.replace(out_tmp, video_path)
+            _log(f"⚡ Đã tăng tốc giọng đọc {tempo:.2f}x, lấp {dur - fast_len:.2f}s cuối bằng tiếng nền (không lặp lời).")
+            return True
+        _log(f"⚠️ Tăng tốc giọng thất bại, giữ audio gốc: {res.stderr[-300:]}")
+    except Exception as e:
+        _log(f"⚠️ Không thể tăng tốc audio ({e}), giữ nguyên audio gốc.")
+    finally:
+        if os.path.exists(out_tmp):
+            try:
+                os.remove(out_tmp)
+            except Exception:
+                pass
+    return False

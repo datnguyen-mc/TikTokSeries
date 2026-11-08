@@ -191,6 +191,7 @@ humans, human faces, human children, human hands, four-legged non-anthropomorphi
 | 24 | Chiếc áo bà ba vá vai ngày gió chướng & Nồi chè đậu trắng đặc quánh của ba Mit | Gió chướng đầu mùa se lạnh, ba Mit giành nấu chè đậu trắng nếp nước cốt dừa cho vợ con mà quên canh lửa làm chè đặc quánh dính muôi; sau bữa chè, ba tặng má Đú tấm vải bông mới may áo bà ba còn hai mẹ con khoác chiếc khăn rằn ấm cho ba | **Tập vở, hộp bút màu** |
 | 25 | Đôi dép đứt quai của Nở & Bánh xèo củ hủ dừa của ba Mit | Bé Nở đứt quai dép mủ cũ; ba Mit đi đốn dừa mướn mang về khúc củ hủ dừa trắng nõn đổ bánh xèo giòn rụm bị bắn chấm bột nghệ lên mũi; ba tặng Nở đôi dép mới tinh, lộ cổ chân trần quấn vải trắng vì trèo đốn dừa | **Tập vở, hộp bút màu** |
 | 26 | Ốc bươu đồng hấp sả chấm mắm gừng & Chiếc đèn dầu hột vịt ba Mit thức khuya đan cặp giỏ lát cho Nở | Giỏ lát đi học của Nở bị sút góc đáy; ba Mit bắt ốc bươu đồng về hấp sả lá chanh chấm mắm gừng, thổi ốc nóng làm miếng gừng dính chóp mũi; ba tặng Nở chiếc giỏ lát mới tinh hai lớp đáy, lộ ngón tay cái quấn vải vì thức khuya bên đèn dầu hột vịt đan giỏ cho con | **Tập vở, hộp bút màu** |
+| 27 | Con bù nhìn rơm giống ba & Bầy chim sẻ phá ruộng lúa chín | Cuối mùa lúa chín, bầy chim sẻ phá ruộng nhà bên bờ kênh, ba Mit vẫy tay đuổi mà chim bay một vòng rồi đáp lại; ba buộc khung tre, má Đú góp áo cũ, Nở nhồi rơm làm con bù nhìn đội nón lá bụng tròn giống ba y chang; chim vẫn đậu trên tay bù nhìn, ba vỗ cánh đuổi thành "con bù nhìn thiệt"; chiều tà má mang ly nước ra đồng, ba nói mùa lúa này là tiền học cả năm của Nở; Nở vẽ tranh "con bù nhìn với ba" vào tập (tập thôn quê, không nấu ăn) | **Tập vở, hộp bút màu** |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -228,6 +229,7 @@ Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)
 | 24 | [tap-24/](tap-24/README.md) | Chiếc áo bà ba vá vai ngày gió chướng & Nồi chè đậu trắng đặc quánh của ba Mit |
 | 25 | [tap-25/](tap-25/README.md) | Đôi dép đứt quai của Nở & Bánh xèo củ hủ dừa của ba Mit |
 | 26 | [tap-26/](tap-26/README.md) | Ốc bươu đồng hấp sả chấm mắm gừng & Chiếc đèn dầu hột vịt ba Mit thức khuya đan cặp giỏ lát cho Nở |
+| 27 | [tap-27/](tap-27/README.md) | Con bù nhìn rơm giống ba & Bầy chim sẻ phá ruộng lúa chín |
 
 ## Tập 20 (`tap-20`)
 

@@ -628,6 +628,204 @@ DEFAULT_CHANNELS = [
             },
         ],
     },
+    {
+        "slug": "ma-da-dam-sen",
+        "name": "Ma Da Đầm Sen: Lời Nguyền Tháng Bảy (HẺM Truyện Ma — MC Đình Soạn)",
+        "project_id": "de6d15c5-b94e-4b5d-b854-649c6ba8d02d",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/ma_da_dam_sen.py",
+        "series_dir": "ma-da-dam-sen",
+        "ep_prefix": "canh",
+        "description": "Phim ngắn kinh dị tâm linh dân gian Bắc Bộ 15 phút (kịch bản gốc; giọng kể chuẩn MC Đình Soạn HẺM Truyện Ma VOICE_LOCK_NARRATOR_MADA): ma da đầm sen đòi người thế mạng mỗi tháng bảy, và cái chết oan của cô gái mồ côi Thắm ba mươi năm trước (16:9, 15 cảnh × 6 clips × 10s = 90 clips — 77% VO + 23% Lip-Sync).",
+        "characters": [
+            {
+                "tag": "@Ngan",
+                "name": "Ngân (Cô giáo trẻ, 26 tuổi — VOICE_LOCK_NGAN_MADA)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_NGAN_MADA",
+                "description": "Cô giáo tiểu học 26 tuổi từ thành phố về quê; dáng mảnh, tóc đen thẳng buộc thấp, ánh mắt điềm tĩnh cương quyết; áo blouse cộc tay màu kem, quần nâu sẫm, dép quai hậu, túi vải đeo vai. Giọng thoại: VOICE_LOCK_NGAN_MADA.",
+                "ref_prompt": "Full-body photorealistic character reference of @Ngan, a 26-year-old Vietnamese female primary-school teacher, 160 cm, slim build, straight black hair tied low at the neck, calm determined dark eyes, natural oval face, wearing a cream short-sleeve blouse, dark-brown trousers, flat sandals and a small cloth shoulder bag; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Khoi",
+                "name": "Khôi (Em trai Ngân, 19 tuổi — VOICE_LOCK_KHOI_MADA)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_KHOI_MADA",
+                "description": "Em trai Ngân, sinh viên 19 tuổi về quê nghỉ hè; cao gầy, tóc đen ngắn rối, mặt xanh xao mệt mỏi; áo phông xanh than bạc màu, quần đùi xám, dép tổ ong trắng. Giọng thoại: VOICE_LOCK_KHOI_MADA.",
+                "ref_prompt": "Full-body photorealistic character reference of @Khoi, a 19-year-old Vietnamese male university student, 174 cm, lanky build, short tousled black hair, pale tired face with dark circles, wearing a faded navy T-shirt, grey shorts and white plastic honeycomb sandals; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@BaHanh",
+                "name": "Bà Hạnh (Bà nội, 74 tuổi — VOICE_LOCK_HANH_MADA)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_HANH_MADA",
+                "description": "Bà nội của Ngân và Khôi, 74 tuổi; nhỏ người, lưng còng, tóc bạc búi thấp dưới khăn nhung đen, gương mặt hiền nhiều nếp nhăn; áo cánh nâu, quần đen, tràng hạt gỗ ở cổ tay. Giọng thoại: VOICE_LOCK_HANH_MADA.",
+                "ref_prompt": "Full-body photorealistic character reference of @BaHanh, a 74-year-old Vietnamese grandmother, 148 cm, small and slightly stooped, silver hair in a low bun under a black velvet headband, deep-lined gentle face, wearing a brown traditional áo cánh blouse and black trousers, wooden prayer beads on her wrist, barefoot in wooden clogs; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@OngLy",
+                "name": "Ông Lý (Cựu trưởng thôn, 72 tuổi — VOICE_LOCK_LY_MADA)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_LY_MADA",
+                "description": "Cựu trưởng thôn 72 tuổi; cao gầy, tóc bạc chải ngược, mắt hẹp sắc lạnh; áo khoác cổ bẻ màu xanh rêu bạc màu ngoài áo may ô trắng, quần sẫm, chống gậy gỗ chạm. Giọng thoại: VOICE_LOCK_LY_MADA.",
+                "ref_prompt": "Full-body photorealistic character reference of @OngLy, a 72-year-old Vietnamese former village chief, 176 cm, tall and gaunt, slicked-back grey hair, hard narrow eyes, deep frown lines, wearing a faded olive-green collared jacket over a white undershirt, dark trousers, holding a carved wooden walking cane; plain grey studio background, hard side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@CoTham",
+                "name": "Vong Thắm (Cô gái chết đuối oan dưới đầm sen — VOICE_LOCK_THAM_MADA)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_THAM_MADA",
+                "description": "Vong hồn Thắm, cô gái mồ côi chết đuối oan ở đầm sen ba mươi năm trước; da trắng bệch ướt sũng, tóc đen dài ướt quấn cuống sen, mắt buồn thăm thẳm; áo bà ba trắng ướt sũng, quần đen, chân trần. Giọng thoại: VOICE_LOCK_THAM_MADA.",
+                "ref_prompt": "Full-body photorealistic character reference of @CoTham, the ghost of a young Vietnamese woman about 19 who drowned in a lotus pond long ago, 158 cm, slender, deathly pale wet skin, long soaked black hair tangled with thin lotus stems, dark sorrowful eyes, wearing a soaked white áo bà ba and black trousers, barefoot, water dripping; plain dark studio background, cold cyan-green rim light, 8K. Clean cinematic ghost appearance, no gore. Not resembling any real actor."
+            },
+            {
+                "tag": "@ThamXua",
+                "name": "Thắm thuở sinh thời (19 tuổi, hồi tưởng — VOICE_LOCK_THAMXUA_MADA)",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_THAMXUA_MADA",
+                "description": "Thắm lúc còn sống ba mươi năm trước: cô gái mồ côi 19 tuổi quét dọn đình làng; dáng mảnh, tóc đen dài tết một bím, mắt sợ hãi; áo bà ba trắng giản dị, quần đen, chân trần. Giọng thoại: VOICE_LOCK_THAMXUA_MADA.",
+                "ref_prompt": "Full-body photorealistic character reference of @ThamXua, a slim 19-year-old Vietnamese orphan village girl from the 1990s, 158 cm, long black hair in a single braid, frightened dark eyes, natural healthy skin, wearing a plain white áo bà ba and black trousers, barefoot; plain grey studio background, soft warm side light, 8K. Not resembling any real actor."
+            }
+        ]
+    },
+    {
+        "slug": "gang-to-tai-xuat",
+        "name": "Găng Tơ Tái Xuất (Phim Hành Động Hài 27 Phút)",
+        "project_id": "684cb92f-8e9b-41cc-b5b7-9eefa19ce36f",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/gang_to_tai_xuat.py",
+        "series_dir": "gang-to-tai-xuat",
+        "ep_prefix": "canh",
+        "description": "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (VOICE_LOCK_NARRATOR_GANG): ông xe ôm phố cổ hóa ra là Lâm Rồng, tái xuất cùng Hoa Hổ và Khoa Báo lừa ngược ông chủ app vay tiền Phú Quý đang siết nợ cháu gái (16:9, 27 cảnh × 6 clips × 10s = 162 clips).",
+        "characters": [
+            {
+                "tag": "@Lam",
+                "name": "Ông Lâm (Lâm Rồng) — VOICE_LOCK_LAM_GANG",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_LAM_GANG",
+                "description": "Ông Lâm 'Lâm Rồng', 63 tuổi, ông xe ôm hiền lành ở cổng Ô Quan Chưởng, ba mươi năm trước là huyền thoại giang hồ phố cổ; nhỏ người, rắn rỏi, tóc bạc cắt cua, lông mày rậm bạc, mắt trái hơi mờ đục; áo gió kéo khóa xám bạc màu ngoài áo ba lỗ trắng, quần kaki rộng, dép nhựa, mũ cối xanh cũ, hình xăm rồng xanh sẫm trên cẳng tay phải. Giọng thoại: VOICE_LOCK_LAM_GANG.",
+                "ref_prompt": "Full-body photorealistic character reference of @Lam, a 63-year-old Vietnamese man, humble motorbike-taxi driver, 163 cm, wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles, wearing a faded grey zip-up windbreaker with the right sleeve pushed up to show a dark-green dragon tattoo on his forearm, a white tank top underneath, loose khaki trousers, plastic sandals, holding a battered green pith helmet; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Mai",
+                "name": "Mai — VOICE_LOCK_MAI_GANG",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_MAI_GANG",
+                "description": "Mai, 20 tuổi, cháu gái ông Lâm, sinh viên công nghệ thông tin, mắc nợ app vay tiền vì muốn lo tiền mổ mắt cho ông; nhỏ nhắn, tóc bob đen mái thẳng, kính gọng đen tròn; hoodie tím lavender rộng, quần jean đen, giày thể thao trắng đế dày, ba lô đen nhỏ. Giọng thoại: VOICE_LOCK_MAI_GANG.",
+                "ref_prompt": "Full-body photorealistic character reference of @Mai, a 20-year-old Vietnamese female IT student, 155 cm, petite, short black bob with straight bangs, round black-framed glasses, quick bright eyes, wearing an oversized lavender hoodie, black jeans, chunky white sneakers and a small black backpack; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@BaHoa",
+                "name": "Bà Hoa (Hoa Hổ) — VOICE_LOCK_BAHOA_GANG",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_BAHOA_GANG",
+                "description": "Bà Hoa 'Hoa Hổ', 61 tuổi, bộ não của băng ba mươi năm trước, nay là chủ quán bún chả đông nhất phố; đẫy đà, tóc xoăn ngắn nhuộm đỏ mận, mắt sắc, son đỏ, khuyên tai vàng tròn; áo lụa hoa tím, quần ống rộng đen, vòng vàng bản to, dép quai hậu thấp. Giọng thoại: VOICE_LOCK_BAHOA_GANG.",
+                "ref_prompt": "Full-body photorealistic character reference of @BaHoa, a 61-year-old Vietnamese woman, bún chả shop owner, 155 cm, plump, short curly permed hair dyed burgundy, sharp bright eyes, red lipstick, gold hoop earrings, wearing a purple floral silk blouse, black wide trousers, a chunky gold bangle and low heeled sandals; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Khoa",
+                "name": "Ông Khoa (Khoa Báo) — VOICE_LOCK_KHOA_GANG",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_KHOA_GANG",
+                "description": "Ông Khoa 'Khoa Báo', 60 tuổi, phù thủy mở khóa của băng năm xưa, nay sửa đài và điện thoại dưới gầm cầu thang; gầy cao lêu nghêu, hói đỉnh, tóc bạc phía sau buộc túm nhỏ, kính lúp dày đẩy lên trán; gile nâu nhiều túi ngoài sơ mi kẻ ô xanh, quần xám, giày vải. Giọng thoại: VOICE_LOCK_KHOA_GANG.",
+                "ref_prompt": "Full-body photorealistic character reference of @Khoa, a 60-year-old Vietnamese man, radio and phone repairman, 172 cm, thin and lanky, bald crown with long grey hair at the back tied in a small ponytail, thick magnifier glasses pushed up on his forehead, wearing a brown multi-pocket vest over a blue checkered shirt, grey trousers and canvas shoes; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Hung",
+                "name": "Hưng Phú Quý — VOICE_LOCK_HUNG_GANG",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_HUNG_GANG",
+                "description": "Hưng 'Phú Quý', 31 tuổi, ông chủ ứng dụng vay tiền và mê livestream khoe khoang; cao gầy, tóc undercut nhuộm vàng tro, kính gọng vàng tròn, nụ cười vênh váo; áo bomber satin đen rộng ngoài áo phông trắng, quần jean đen rách, giày cổ cao trắng, nhiều nhẫn bạc, điện thoại gắn gimbal. Giọng thoại: VOICE_LOCK_HUNG_GANG.",
+                "ref_prompt": "Full-body photorealistic character reference of @Hung, a 31-year-old Vietnamese man, flashy loan app boss and livestreamer, 178 cm, tall and slim, dyed ash-blond undercut, round gold-rimmed glasses, cocky grin, wearing an oversized black satin bomber jacket over a plain white T-shirt, ripped black jeans, white high-top sneakers and several silver rings, holding a phone on a small selfie gimbal; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Beo",
+                "name": "Béo Đầu Sấm — VOICE_LOCK_BEO_GANG",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_BEO_GANG",
+                "description": "Béo 'Đầu Sấm', 28 tuổi, đầu sỏ đòi nợ thuê của Phú Quý; to béo, đầu cạo trọc có hình tia sét cạo một bên, mắt híp, răng cửa bọc vàng; áo ba lỗ đen, quần soóc rằn ri, dép tông, dây chuyền vàng giả. Giọng thoại: VOICE_LOCK_BEO_GANG.",
+                "ref_prompt": "Full-body photorealistic character reference of @Beo, a 28-year-old Vietnamese man, heavyset debt collector, 175 cm, big round build, shaved head with a lightning-bolt pattern shaved on one side, small eyes, a gold front tooth, wearing a black tank top, camouflage shorts, flip-flops and a cheap fake-gold chain; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            }
+        ]
+    },
+    {
+        "slug": "vo-tao-khang",
+        "name": "Vợ Tào Khang (Phim Tình Cảm 25 Phút)",
+        "project_id": "",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/vo_tao_khang.py",
+        "series_dir": "vo-tao-khang",
+        "ep_prefix": "canh",
+        "description": "Phim tình cảm gia đình Việt Nam 25 phút, kịch bản gốc (VOICE_LOCK_NARRATOR_VTK — giọng kể nữ): người vợ tào khang bán xôi bị chồng giám đốc bỏ theo cô thư ký 'bé ba'; Thu làm lại từ đầu, bé ba và đồng phạm bị vạch trần (16:9, 25 cảnh × 6 clips × 10s = 150 clips).",
+        "characters": [
+            {
+                "tag": "@Thu",
+                "name": "Thu — VOICE_LOCK_THU_VTK",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_THU_VTK",
+                "description": "Thu, 34 tuổi, người vợ tào khang bán xôi từ tờ mờ sáng, mười hai năm làm dâu; dáng mảnh, da hơi rám nắng, tóc đen dài búi thấp lỏng, ánh mắt hiền mệt mỏi, không trang điểm, bàn tay chai sạn; áo cotton xanh nhạt bạc màu xắn tay, quần nâu sẫm, tạp dề vải xanh rêu, dép nhựa. Giọng thoại: VOICE_LOCK_THU_VTK.",
+                "ref_prompt": "Full-body photorealistic character reference of @Thu, a 34-year-old Vietnamese woman who sells sticky rice at dawn, 158 cm, slim, lightly sun-tanned skin, long black hair in a low loose bun, gentle tired dark eyes, no makeup, work-roughened hands, wearing a faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, a dark-green cloth apron and plastic sandals; plain grey studio background, soft warm side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Tung",
+                "name": "Tùng — VOICE_LOCK_TUNG_VTK",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_TUNG_VTK",
+                "description": "Tùng, 37 tuổi, chồng Thu, giám đốc công ty xây dựng mới phất; cao, hơi đẫy đà, tóc đen vuốt keo gọn, mặt nhẵn, mắt mí nặng tự tin; vest xám than may đo, sơ mi trắng hở cổ, đồng hồ vàng, giày da đen bóng. Giọng thoại: VOICE_LOCK_TUNG_VTK.",
+                "ref_prompt": "Full-body photorealistic character reference of @Tung, a 37-year-old Vietnamese man, newly rich construction company director, 176 cm, tall and slightly heavy, neatly gelled black hair, clean-shaven, heavy-lidded confident eyes, wearing a tailored charcoal-grey suit, a white shirt open at the collar, a gold wristwatch and polished black shoes; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Vy",
+                "name": "Vy (Bé Ba) — VOICE_LOCK_VY_VTK",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_VY_VTK",
+                "description": "Vy, 24 tuổi, cô thư ký mới xinh đẹp — 'bé ba' xúi Tùng bỏ vợ; mảnh mai nổi bật, tóc dài nâu sẫm uốn sóng bóng mượt, mắt sắc kẻ eyeliner, son đỏ; váy midi đỏ thẫm sát nách ôm dáng, dây chuyền vàng mảnh, giày cao gót màu be, túi xách trắng nhỏ không logo. Giọng thoại: VOICE_LOCK_VY_VTK.",
+                "ref_prompt": "Full-body photorealistic character reference of @Vy, a 24-year-old Vietnamese woman, glamorous office secretary, 165 cm, slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick, wearing a fitted crimson sleeveless midi dress, a thin gold necklace, beige high heels and a small white handbag with no logo; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@BaNhan",
+                "name": "Bà Nhàn — VOICE_LOCK_BANHAN_VTK",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_BANHAN_VTK",
+                "description": "Bà Nhàn, 70 tuổi, mẹ Tùng, sống cùng con dâu Thu và đứng về phía con dâu; nhỏ gầy, tóc bạc búi thấp gọn, gương mặt hiền nhiều nếp nhăn; áo len cardigan nâu ngoài áo cánh xám, quần đen, dép vải, gậy tre chạm. Giọng thoại: VOICE_LOCK_BANHAN_VTK.",
+                "ref_prompt": "Full-body photorealistic character reference of @BaNhan, a 70-year-old Vietnamese grandmother, 148 cm, small and thin, white hair in a neat low bun, kind deeply wrinkled face, wearing a brown knitted cardigan over a grey blouse, black trousers and cloth slippers, holding a carved bamboo walking stick; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Na",
+                "name": "Bé Na — VOICE_LOCK_NA_VTK",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_NA_VTK",
+                "description": "Bé Na, 9 tuổi, con gái Thu và Tùng; nhỏ nhắn, mặt tròn, mắt sáng, tóc đen buộc hai bím ngắn dây chun đỏ; áo sơ mi trắng cộc tay đồng phục, váy xếp ly xanh than, khăn quàng đỏ, giày vải trắng. Giọng thoại: VOICE_LOCK_NA_VTK.",
+                "ref_prompt": "Full-body photorealistic character reference of @Na, a 9-year-old Vietnamese schoolgirl, 130 cm, small with a round face and bright dark eyes, black hair in two short pigtails with red hair ties, wearing a white short-sleeve school shirt, a navy pleated skirt, a red scarf knotted at the neck and white canvas shoes; plain grey studio background, soft warm side light, 8K. Not resembling any real person."
+            },
+            {
+                "tag": "@Khai",
+                "name": "Khải — VOICE_LOCK_KHAI_VTK",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_KHAI_VTK",
+                "description": "Khải, 30 tuổi, người tình bí mật và đồng phạm của Vy; gầy, tóc undercut đen vuốt, ria mép mỏng, nụ cười nửa miệng ranh mãnh; sơ mi đen slim-fit xắn tay, quần kaki be, giày thể thao trắng, lắc tay bạc. Giọng thoại: VOICE_LOCK_KHAI_VTK.",
+                "ref_prompt": "Full-body photorealistic character reference of @Khai, a 30-year-old Vietnamese man, smooth con artist, 172 cm, lean, styled black undercut hair, thin moustache, sly half-smile, wearing a black slim-fit shirt with rolled sleeves, beige chinos, white sneakers and a silver chain bracelet; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            }
+        ]
+    },
 ]
 
 CHANNEL_MAX_EPISODES: dict[str, int] = {
@@ -637,6 +835,9 @@ CHANNEL_MAX_EPISODES: dict[str, int] = {
     "oan-thai-doi-me": 14,
     "can-nha-am-duong": 15,
     "tieng-go-dem-ba-gio": 15,
+    "ma-da-dam-sen": 15,
+    "gang-to-tai-xuat": 27,
+    "vo-tao-khang": 25,
 }
 
 
@@ -3274,7 +3475,7 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                     )
                     reconciled_clips_count += 1
             elif cat == "full_episodes":
-                if ch_slug in ("duong-dua-sinh-tu", "tieng-go-dem-ba-gio", "can-nha-am-duong") and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
+                if ch_slug in ("duong-dua-sinh-tu", "tieng-go-dem-ba-gio", "can-nha-am-duong", "ma-da-dam-sen", "gang-to-tai-xuat", "vo-tao-khang") and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
                     continue
                 m_ep = re.search(r"(?:tap|canh)[-_]?(\d+)_FULL\.mp4$", fname, re.IGNORECASE)
                 if m_ep:

@@ -43,6 +43,11 @@ ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 PROJECT_ID = "dedf1a01-6d2f-420c-bff0-f486b3ea12cc"
 DEFAULT_PROJECT_ID = PROJECT_ID
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_LANDSCAPE"
+
+# Nối khung cuối clip trước vào slot [Bắt đầu] (yêu cầu 08/11/2026): chỉ khi clip cùng bối cảnh và không có
+# nhân vật mới; clip đổi bối cảnh / có nhân vật mới dùng ảnh nhân vật (Ingredients) để giữ đúng mặt.
+# Tắt hẳn nối khung: FLOWKIT_CHAIN_LAST_FRAME=0
+CHAIN_LAST_FRAME = os.environ.get("FLOWKIT_CHAIN_LAST_FRAME", "1") == "1"
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_LANDSCAPE"
 
 # 👉 CẤU HÌNH MODEL GOOGLE FLOW OMNI 10 GIÂY (OMNI_FLASH 10S)
@@ -625,6 +630,8 @@ def extract_last_frame(video_source: str, scene_num: int, clip_num: int) -> str:
 
 def upload_start_frame(image_path: str) -> str:
     """Tải khung hình cuối vừa cắt lên Google Flow để chèn vào slot [Bắt đầu] (Start Frame) của clip kế tiếp."""
+    if not CHAIN_LAST_FRAME:
+        return None
     if not image_path or not os.path.exists(image_path):
         return None
     url = f"{FLOWKIT_API}/api/flow/upload-image"
@@ -665,8 +672,34 @@ def upload_start_frame(image_path: str) -> str:
         return None
 
 
+def clip_can_chain(scene_num: int, clip_num: int) -> bool:
+    """Chỉ nối khung cuối clip trước khi clip này cùng bối cảnh và không có nhân vật mới so với clip trước.
+    Flow nhận khung đầu HOẶC ảnh nhân vật (không nhận cả hai), nên nhân vật mới phải đi đường Ingredients để giữ đúng mặt."""
+    if not CHAIN_LAST_FRAME or clip_num <= 1:
+        return False
+
+    def _info(n: int):
+        p = os.path.join(SERIES_DIR, f"canh-{scene_num:02d}", f"clip-{n}.md")
+        try:
+            with open(p, "r", encoding="utf-8") as fh:
+                t = fh.read()
+        except OSError:
+            return None
+        blk = t.split("[2. CHARACTER & VOICE LOCK]", 1)[-1].split("[3. SCENE & SPATIAL LOCK]", 1)[0]
+        chars = set(re.findall(r"^-\s*(@[A-Za-z0-9_]+)\s*=", blk, flags=re.MULTILINE))
+        m = re.search(r"^- Location & Architecture: (.*)$", t, flags=re.MULTILINE)
+        return chars, (m.group(1).strip() if m else "")
+
+    cur, prev = _info(clip_num), _info(clip_num - 1)
+    if not cur or not prev:
+        return False
+    return bool(cur[0]) and bool(prev[0]) and cur[0] <= prev[0] and cur[1] == prev[1]
+
+
 def load_previous_last_frame(scene_num: int, prev_clip_num: int) -> str:
     """Lấy (hoặc trích xuất từ video đã có trên máy/R2) khung hình cuối của clip trước và upload lên Google Flow."""
+    if not CHAIN_LAST_FRAME:
+        return None
     cached_frame = os.path.join(FRAMES_DIR, f"canh_{scene_num:02d}_clip_{prev_clip_num:02d}_last.jpg")
     if os.path.exists(cached_frame) and os.path.getsize(cached_frame) > 0:
         log(f"🔗 Dùng lại frame cuối đã cắt của Cảnh {scene_num:02d} - Clip {prev_clip_num:02d}: {os.path.basename(cached_frame)}")
@@ -686,46 +719,10 @@ def load_previous_last_frame(scene_num: int, prev_clip_num: int) -> str:
 
 
 def boost_clip_voice_speed(video_path: str, tempo: float = 1.18) -> bool:
-    """
-    Tăng tốc độ giọng đọc dẫn truyện / thoại trong clip thêm +18% (atempo=1.18, giữ nguyên cao độ giọng Nam miền Bắc)
-    mà vẫn giữ nguyên 100% khung hình video 10.0s (-c:v copy) bằng cách nối mượt phần đuôi âm thanh môi trường.
-    """
-    if not video_path or not os.path.exists(video_path) or tempo <= 1.01:
-        return False
-    out_tmp = f"{video_path}.fast.mp4"
-    try:
-        probe = subprocess.run(
-            ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", video_path],
-            capture_output=True, text=True, timeout=15,
-        )
-        dur = float((probe.stdout or "10.0").strip() or "10.0")
-        tail_start = max(0.0, dur - 2.4)
-        af_complex = (
-            f"[0:a]atempo={tempo:.2f}[afast];"
-            f"[0:a]atrim=start={tail_start:.2f}:end={dur:.2f},asetpts=PTS-STARTPTS,volume=0.85[atail];"
-            f"[afast][atail]acrossfade=d=0.35:c1=tri:c2=tri,atrim=0:{dur:.3f},asetpts=PTS-STARTPTS[aout]"
-        )
-        cmd = [
-            "ffmpeg", "-y", "-i", video_path,
-            "-filter_complex", af_complex,
-            "-map", "0:v:0", "-map", "[aout]",
-            "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
-            "-movflags", "+faststart", out_tmp,
-        ]
-        res = subprocess.run(cmd, capture_output=True, text=True, timeout=45)
-        if res.returncode == 0 and os.path.exists(out_tmp) and os.path.getsize(out_tmp) > 10000:
-            os.replace(out_tmp, video_path)
-            log(f"⚡ Đã tăng tốc độ giọng đọc thêm {tempo:.2f}x (atempo={tempo:.2f}, giữ nguyên cao độ & khung hình {dur:.1f}s).")
-            return True
-    except Exception as e:
-        log(f"⚠️ Không thể tăng tốc audio sau tải ({e}), giữ nguyên audio gốc.")
-    finally:
-        if os.path.exists(out_tmp):
-            try:
-                os.remove(out_tmp)
-            except Exception:
-                pass
-    return False
+    """Tăng tốc giọng đọc (giữ cao độ & 10.0s hình). Bản cũ nối lại đuôi audio gốc nên mấy chữ cuối bị
+    đọc lặp (08/11/2026); nay dùng cms_integration.boost_voice_tempo_safe: lấp phần cuối bằng tiếng nền."""
+    from cms_integration import boost_voice_tempo_safe
+    return boost_voice_tempo_safe(video_path, tempo=tempo, log_fn=log)
 
 
 def download_and_rename_video(video_url: str, scene_num: int, clip_num: int) -> str:
@@ -824,6 +821,8 @@ def enforce_narrator_and_voice_lock(prompt: str) -> str:
 
 
 def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, start_image_media_id: str = None):
+    if not CHAIN_LAST_FRAME:
+        start_image_media_id = None
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
@@ -1163,15 +1162,18 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                 flush=True,
             )
 
-            # Từ Clip 2 trở đi: tự động lấy/cắt khung hình cuối của Clip trước và chèn vào slot [Bắt đầu]
-            if c_idx > 1 and not previous_clip_last_frame_media_id:
+            # Từ Clip 2 trở đi: nối khung cuối Clip trước vào slot [Bắt đầu] khi cùng bối cảnh & không có nhân vật mới
+            use_start_frame = clip_can_chain(s, c_idx)
+            if use_start_frame and not previous_clip_last_frame_media_id:
                 previous_clip_last_frame_media_id = load_previous_last_frame(s, c_idx - 1)
+            if c_idx > 1 and not use_start_frame:
+                log("🎬 Nhân vật mới / bối cảnh mới → dùng ảnh nhân vật (Ingredients), không nối khung cuối clip trước.")
 
             res = run_clip_with_auto_retry(
                 scene_num=s,
                 clip_num=c_idx,
                 initial_prompt=prompt_content,
-                start_image_media_id=previous_clip_last_frame_media_id if c_idx > 1 else None,
+                start_image_media_id=previous_clip_last_frame_media_id if use_start_frame else None,
             )
 
             if res["success"] and res.get("video_url"):
@@ -1185,7 +1187,9 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                     frame_path = extract_last_frame(local_video if local_video else video_url, s, c_idx)
                 has_next_clip = c_idx != clip_indices[-1]
                 previous_clip_last_frame_media_id = (
-                    upload_start_frame(frame_path) if frame_path and has_next_clip else None
+                    upload_start_frame(frame_path)
+                    if frame_path and has_next_clip and clip_can_chain(s, c_idx + 1)
+                    else None
                 )
             else:
                 mark_clip_failed_in_db(CHANNEL_SLUG, s, c_idx)
@@ -1231,7 +1235,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                     attempt=2,
                     log_fn=log,
                 )
-                prev_start_id = load_previous_last_frame(s, m_idx - 1) if m_idx > 1 else None
+                prev_start_id = load_previous_last_frame(s, m_idx - 1) if clip_can_chain(s, m_idx) else None
                 m_res = run_clip_with_auto_retry(
                     scene_num=s,
                     clip_num=m_idx,

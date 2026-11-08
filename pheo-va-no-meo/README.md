@@ -25,3 +25,4 @@
 - [Tập 18 — Cá lóc đồng kho tộ miền Tây thịt săn chắc không tanh: Mẹo cạo nhớt bằng chanh & nước vo gạo, công thức ướp 3-1,5-1 & lót mỡ heo đáy tộ](tap-18/README.md)
 - [Tập 19 — Sườn non rim mặn ngọt mềm rục tróc xương: Mẹo chần sườn từ nước lạnh, công thức sốt tỷ lệ vàng 3-2-1-1 & bí quyết rim hai lửa bóng mượt](tap-19/README.md)
 - [Tập 20 — Gà ta kho gừng sả ớt thấm đẫm mặn ngọt: Mẹo chà muối gừng khử mùi lông, ướp tỷ lệ vàng 3-2-1 & bí quyết xào săn hai lửa không bị bở](tap-20/README.md)
+- [Tập 21 — Thịt nạc rim nước dừa ngon như xá xíu: Mẹo chọn nạc vai có vân mỡ, ướp 7 gia vị đong bằng thìa ăn cơm & bí quyết áp chảo rồi rim liu riu 45 phút sốt sánh bóng](tap-21/README.md)

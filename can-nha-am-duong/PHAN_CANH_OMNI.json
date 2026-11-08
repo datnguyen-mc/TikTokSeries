@@ -1,46 +1,47 @@
 {
  "series": "can-nha-am-duong",
  "title": "Căn Nhà Âm Dương: Oan Hồn Dưới Gốc Mít",
- "style": "Photorealistic live-action Vietnamese folk-horror drama set in the Northern Vietnamese countryside; natural skin texture, damp air, realistic practical light (tungsten, oil lamps, moonlight), subtle 35mm film grain.",
+ "style": "Photorealistic live-action Vietnamese folk-horror film set in the Northern Vietnamese countryside; gritty grade with deep charcoal-black shadows, damp moss greens and dark rust-terracotta tones, natural skin texture, subtle 35mm film grain.",
+ "lighting": "Low-key horror lighting: flickering amber oil-lamp and incense light against cold cyan-green moonlight and midnight-blue shade; daylight stays muted and desaturated.",
  "narrator": {
-  "voice": "Vietnamese man about 45, standard Hà Nội accent with clear six tones, firm resonant baritone with a slight rasp, crisp consonants, tense late-night ghost-story delivery at a brisk, steady pace, only tiny breaths at commas, no dragged vowels",
+  "voice": "Vietnamese man about 45, standard Hà Nội Northern accent with clear six tones, sharp resonant mid-baritone with crisp consonants, fast and fluent late-night ghost-story delivery in one continuous breath, every word spoken once and clearly, no stutter, no pauses mid-sentence, never slow or sleepy",
   "rate": 4.0
  },
  "characters": {
   "@Binh": {
    "name": "Bình",
    "anchor": "Bình, 21, thin pale Vietnamese university student; messy short black hair, dark circles under tired eyes; dark charcoal-grey hoodie over a white T-shirt, dark jeans, worn sneakers, black backpack.",
-   "voice": "young man of 21, standard Hà Nội accent, light tenor, shaky and breathless with fear",
+   "voice": "young man of 21, standard Hà Nội accent, light tenor, shaky and breathless with fear, speaking at a brisk, urgent, fast-clipped pace",
    "rate": 4.0
   },
   "@BaPhuong": {
    "name": "Bà Phượng",
    "anchor": "Bà Phượng, Bình's mother, 50; gentle worried oval face, black hair with grey streaks in a low bun; plain blue blouse, dark trousers.",
-   "voice": "woman of 50, standard Hà Nội accent, warm mezzo voice, tearful and worried",
+   "voice": "woman of 50, standard Hà Nội accent, warm mezzo voice, tearful and worried, speaking at a brisk, urgent, fast-clipped pace",
    "rate": 4.0
   },
   "@OngQuan": {
    "name": "Ông Quân",
    "anchor": "Ông Quân, Bình's father, 55; stocky, crew-cut greying hair, stern face with deep frown lines; white collared shirt with rolled sleeves, dark trousers.",
-   "voice": "man of 55, standard Hà Nội accent, deep stern gravelly baritone",
+   "voice": "man of 55, standard Hà Nội accent, deep stern gravelly baritone, speaking at a brisk, urgent, fast-clipped pace",
    "rate": 4.0
   },
   "@OngBay": {
    "name": "Ông Bảy",
-   "anchor": "Ông Bảy, 60, the neighbouring village farmer; lean and sun-tanned, silver-streaked hair, kind wrinkled face; faded plaid shirt, brown work trousers, rubber sandals; often with his old black bicycle.",
-   "voice": "village man of 60, Northern accent, warm rustic baritone",
+   "anchor": "Ông Bảy, 60, the neighbouring village farmer; lean and sun-tanned, silver-streaked hair, kind wrinkled face; faded plaid shirt with a plain pocket (no name tag, badge, label or embroidery), brown work trousers, rubber sandals; often with his old black bicycle.",
+   "voice": "village man of 60, Northern accent, warm rustic baritone, speaking at a brisk, urgent, fast-clipped pace",
    "rate": 4.0
   },
   "@VongCuXa": {
    "name": "vong hồn cụ Xá",
    "anchor": "the ghost of Cụ Xá, Bình's late grandfather, about 80; gaunt, wispy white hair and beard, sad hollow eyes; faded brown traditional áo bà ba, barefoot; semi-transparent with a faint cold glow.",
-   "voice": "very old man, Northern accent, soft hoarse voice with a faint echo, gentle and unhurried",
-   "rate": 3.6
+   "voice": "very old man, Northern accent, soft hoarse voice with a faint echo, low and steady, without long pauses",
+   "rate": 3.8
   },
   "@VongLa": {
    "name": "vong lạ dưới gốc mít",
    "anchor": "the wandering ghost of the jackfruit tree: tall gaunt figure, ash-grey damp skin, tangled wet black hair over half the face, long thin fingers, tattered dark wet clothes.",
-   "voice": "cold breathy whisper, Northern accent, echoing as if from every direction",
+   "voice": "cold breathy whisper, Northern accent, echoing as if from every direction, speaking at a brisk, urgent, fast-clipped pace",
    "rate": 3.8
   }
  },
@@ -98,7 +99,7 @@
      "continuity": "continuous",
      "beats": [
       "@Binh pulls his buzzing smartphone from his hoodie pocket by the dark bus window.",
-      "@Binh flinches, answers the call and speaks in a low, frightened voice, the phone at his ear and his face turned toward the camera so his lips stay clearly visible.",
+      "@Binh flinches, answers the call and speaks in a low, shaking voice, his breath shallow, the phone at his ear and his face turned toward the camera so his lips stay clearly visible.",
       "@Binh keeps the phone pressed to his ear, eyes darting nervously toward the dark aisle."
      ],
      "sfx": "phone buzzing against the seat cushion, low rumble of the coach in the dark cabin"
@@ -285,7 +286,7 @@
      "beats": [
       "@Binh holds the rusted iron gate bars as @OngBay brakes his old black bicycle right behind him.",
       "@OngBay recognizes the young man from the afternoon and calls out to him with suspicion from his bicycle, his face toward the camera, while @Binh still grips the gate bars.",
-      "@Binh turns around, startled, to face @OngBay's stern gaze."
+      "@Binh spins around, breath catching and shoulders jerking up, to face @OngBay's stern gaze."
      ],
      "sfx": "bicycle brakes squealing on concrete, crickets starting up"
     },
@@ -626,7 +627,7 @@
       "Under peaceful late-afternoon sunshine, @Binh walks alongside @OngBay down a lush green rice paddy embankment, his pale face relaxing slightly in the quiet rural breeze.",
       "Both pause to look across the peaceful golden-green rice paddies toward the village."
      ],
-     "sfx": "green rice rustling in the afternoon breeze, soft footsteps on the earthen dyke",
+     "sfx": "green rice rustling in the afternoon breeze, soft footsteps on the earthen path",
      "setting": "Late afternoon: a lush green rice-paddy embankment in the village."
     },
     {
@@ -918,7 +919,7 @@
      "beats": [
       "@VongLa's grey hand hovers just above @Binh's left wrist on the mattress.",
       "@VongLa's hollow-eyed pale face presses close to the outside of the net, lips visible through the mesh, and speaks in a cold whisper while @Binh lies frozen with wide eyes.",
-      "@VongLa's pale hollow-eyed face stays pressed against the net, inches from @Binh's terrified eyes."
+      "@VongLa's pale hollow-eyed face stays pressed against the net, inches from @Binh's wide, unblinking eyes."
      ],
      "sfx": "the net fabric shivering, a cold draft"
     },
@@ -1251,7 +1252,7 @@
      "continuity": "cut",
      "beats": [
       "@OngQuan pushes open the rusted iron gate and strides into the courtyard with @BaPhuong behind him.",
-      "As late afternoon sun slants through the jackfruit tree, the iron gate swings wide open: @OngQuan strides furiously across the brick courtyard toward @Binh, followed closely by an anxious @BaPhuong.",
+      "As late afternoon sun slants through the jackfruit tree, the iron gate swings wide open: @OngQuan strides furiously across the brick courtyard toward @Binh, followed closely by @BaPhuong, hands clasped tight at her chest.",
       "@OngQuan marches straight up to @Binh standing before the porch steps."
      ],
      "sfx": "the iron gate thrown open with a clang, hurried footsteps on the bricks",

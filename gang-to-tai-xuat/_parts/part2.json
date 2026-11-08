@@ -1,0 +1,874 @@
+[
+  {
+    "num": 10,
+    "title": "Bà Trùm Kim Cương",
+    "time_label": "09:30 Sáng (09:00–10:00)",
+    "location": "Bậc thềm đá trước sảnh cẩm thạch của tòa nhà kính sang trọng giữa Hà Nội; clip cuối trong chiếc xe tải trắng đỗ bên kia đường.",
+    "axis": "Xe sang đỗ sát bậc thềm, đầu xe quay sang trái khung hình; bà Hoa bên trái, ông Lâm bên phải; cửa xoay và hai bảo vệ ở hậu cảnh. Trong xe tải: Mai bên trái, ông Khoa bên phải, hai laptop trước mặt.",
+    "props": "Xe sang màu đen không logo, mũ tài xế màu đen của ông Lâm (thay mũ cối), kính đen to và mũ rộng vành đen của bà Hoa, trâm cài hoa vàng giấu camera tí hon, hai laptop sáng trong xe tải.",
+    "setting": "Morning outside the marble lobby of a gleaming Hà Nội glass tower: a revolving door, potted palms, polished stone steps reflecting the light.",
+    "clips": [
+      {
+        "id": "10.1",
+        "chars": [],
+        "speaker": "NARRATOR",
+        "line": "Sáng thứ Hai, một chiếc xe sang màu đen đỗ xịch trước tòa nhà kính, cả dãy bảo vệ vội vàng đứng thẳng.",
+        "camera": "24mm wide low-angle shot, slow crane-down from the tower facade to the steps",
+        "continuity": "cut",
+        "extras": "two security guards in grey uniforms standing straight by the door",
+        "beats": [
+          "The gleaming glass tower rises into a crisp blue morning sky, sunlight flashing across its mirrored windows high above the marble lobby and the revolving door.",
+          "A black luxury sedan with no badge glides up and stops at the foot of the polished stone steps, its mirror-black paint reflecting the potted palms.",
+          "At the top of the steps the two security guards in grey uniforms snap upright beside the revolving door, chins raised, hands flat at their sides, eyes fixed on the car."
+        ],
+        "sfx": "a smooth engine purring to a stop, tires whispering on stone, a revolving door turning softly, distant city traffic"
+      },
+      {
+        "id": "10.2",
+        "chars": ["@Lam"],
+        "speaker": "NARRATOR",
+        "line": "Người cầm lái là ông Lâm, mũ cối được thay bằng mũ tài xế, bước xuống mở cửa xe rất đúng điệu.",
+        "camera": "35mm medium shot, slow dolly-in toward the driver's door",
+        "continuity": "cut",
+        "beats": [
+          "The driver's side of the black luxury sedan with no badge gleams beside the polished stone steps, morning sun sliding across its dark windows and chrome handle.",
+          "The driver's door swings open and @Lam steps out wearing a crisp black chauffeur cap instead of his usual helmet, smoothing his grey windbreaker with one hand.",
+          "@Lam marches around the gleaming hood with stiff formal steps and opens the rear door with a deep, precise bow, his lips pressed into a straight line."
+        ],
+        "sfx": "a car door clicking open, crisp footsteps on stone, a soft breeze through the potted palms"
+      },
+      {
+        "id": "10.3",
+        "chars": ["@BaHoa"],
+        "speaker": "NARRATOR",
+        "line": "Bà Hoa bước ra, kính đen, mũ rộng vành, trâm vàng trước ngực, sang trọng như một bà trùm bất động sản thật.",
+        "camera": "50mm low-angle close-up at the rear door, slow tilt-up",
+        "continuity": "cut",
+        "beats": [
+          "The open rear door of the black luxury sedan with no badge frames a slice of cream leather seat, sunlight glinting on the polished stone step below.",
+          "@BaHoa steps out and rises tall in big black sunglasses and a wide-brimmed black hat, a large gold flower brooch with a tiny hidden camera shining on her chest.",
+          "@BaHoa lifts her chin, slowly lowers her sunglasses with one finger and gazes up at the tower, red lips closed in a regal half smile."
+        ],
+        "sfx": "heeled sandals tapping on stone, a gold bangle clinking, a car door thudding shut"
+      },
+      {
+        "id": "10.4",
+        "chars": ["@BaHoa", "@Lam"],
+        "speaker": "@BaHoa",
+        "line": "Lái xe đâu, đỗ cho cẩn thận, xước một vết sơn là trừ một năm lương đấy nhé!",
+        "camera": "40mm medium two-shot, slow lateral track along the steps",
+        "continuity": "cut",
+        "beats": [
+          "The polished stone steps and potted palms before the revolving door shine in the morning sun, the black luxury sedan with no badge waiting at the curb.",
+          "@BaHoa, in big black sunglasses and a wide-brimmed black hat, turns to @Lam and wags one finger at the car, speaking in a brassy commanding voice.",
+          "@BaHoa closes her red lips and sweeps away toward the lobby, while @Lam, in his black chauffeur cap, bows low with both hands at his sides."
+        ],
+        "sfx": "a gold bangle clinking, a soft breeze in the palms, a distant car horn, the revolving door turning"
+      },
+      {
+        "id": "10.5",
+        "chars": ["@Lam"],
+        "speaker": "NARRATOR",
+        "line": "Ông Lâm cúi đầu dạ vâng, khóe miệng giấu một nụ cười, bà Hoa diễn còn hay hơn ba mươi năm trước.",
+        "camera": "85mm close-up, slow push-in on his face",
+        "continuity": "cut",
+        "beats": [
+          "Close on the gleaming black hood of the luxury sedan with no badge, the revolving door and potted palms reflected and swaying across the polished paint.",
+          "@Lam, in his black chauffeur cap, bows his head politely beside the open car door, eyes lowered humbly to the polished stone steps.",
+          "One corner of @Lam's mouth curls into a tiny hidden smile with lips closed, his narrow eyes glinting under the cap's brim as he glances sideways toward the lobby."
+        ],
+        "sfx": "fading heel taps, the revolving door swishing, a sparrow chirping in the palms"
+      },
+      {
+        "id": "10.6",
+        "chars": ["@Mai", "@Khoa"],
+        "speaker": "NARRATOR",
+        "line": "Trong chiếc xe tải trắng bên kia đường, Mai và ông Khoa dán mắt vào hai chiếc máy tính đang sáng đèn.",
+        "camera": "28mm wide interior shot, slow dolly-in between the two seats",
+        "continuity": "cut",
+        "setting": "Inside a parked white van turned into a surveillance post by day: two laptops glowing, tangled cables, a thermos, tinted windows facing a busy street.",
+        "beats": [
+          "Two laptops glow on a fold-down shelf inside the parked white van, tangled cables and a thermos beside them, the busy street blurred beyond the tinted windows.",
+          "@Mai and @Khoa lean in shoulder to shoulder toward the glowing screens, her round glasses reflecting soft light, his magnifier glasses lowered over his eyes.",
+          "@Khoa raises a slow thumbs-up without looking away while @Mai nods quickly, both with lips pressed together and eyes locked on the glowing screens."
+        ],
+        "sfx": "laptop fans humming, muffled street traffic, a faint crackle in a headset"
+      }
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Hưng Cắn Câu",
+    "time_label": "10:00 Sáng (10:00–11:00)",
+    "location": "Phòng sếp vách kính của công ty Phú Quý trên tầng cao tòa nhà kính, nhìn ra phòng gọi điện đòi nợ.",
+    "axis": "Bà Hoa ngồi sofa da trắng bên trái khung hình, Hưng bên phải cạnh vòng đèn livestream; ngoài vách kính phía sau là các dãy bàn gọi điện.",
+    "props": "Điện thoại gắn gimbal của Hưng, sofa da trắng, khay trà với hai cốc thủy tinh, trâm cài hoa vàng giấu camera, mũ rộng vành và kính đen của bà Hoa.",
+    "setting": "The flashy call-center office of a loan app company high in a Hà Nội glass tower by day: rows of desks with young callers in headsets at glowing monitors, purple and gold neon accent lights without letters, a glass-walled boss room with a white leather sofa and a ring light.",
+    "clips": [
+      {
+        "id": "11.1",
+        "chars": ["@Hung"],
+        "speaker": "NARRATOR",
+        "line": "Nghe có bà trùm mang mười tỷ đến, Hưng tắt livestream, chỉnh lại cổ áo, ra tận cửa đón.",
+        "camera": "35mm medium shot, slow tracking alongside him",
+        "continuity": "cut",
+        "beats": [
+          "Inside the glass-walled boss room, a ring light glows beside a white leather sofa while purple and gold neon accent lights shimmer across the glass.",
+          "@Hung lowers a phone on a small selfie gimbal, taps it to end his livestream and tugs the collar of his black satin bomber jacket straight.",
+          "@Hung checks his ash-blond undercut in the dark glass, flashes a cocky closed-lip grin and strides briskly toward the glass door."
+        ],
+        "sfx": "a soft chime as the livestream ends, phones ringing across the call center, quick sneaker steps"
+      },
+      {
+        "id": "11.2",
+        "chars": ["@BaHoa", "@Hung"],
+        "speaker": "@BaHoa",
+        "line": "Tôi có mười tỷ để không trong ngân hàng, nghe nói cậu làm tiền đẻ ra tiền nhanh lắm.",
+        "camera": "50mm over-the-shoulder shot past @Hung onto her, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "The white leather sofa in the glass-walled boss room sits empty under the glowing ring light, a tea tray with two glasses on the low table.",
+          "@BaHoa sits on the white sofa in her wide-brimmed black hat and big sunglasses and speaks to @Hung with a lazy wave of her hand, a large gold flower brooch with a tiny hidden camera on her chest.",
+          "@BaHoa closes her red lips and leans back, while @Hung, standing opposite, rubs his silver-ringed fingers together with a hungry grin."
+        ],
+        "sfx": "the soft creak of leather, distant phones ringing, a glass clinking on the tray"
+      },
+      {
+        "id": "11.3",
+        "chars": ["@Hung", "@BaHoa"],
+        "speaker": "@Hung",
+        "line": "Bà gửi tôi mười tỷ, ba tháng sau tôi trả bà hai mươi, sinh viên bây giờ dễ vay lắm bà ạ.",
+        "camera": "35mm medium two-shot, slow arc around the sofa",
+        "continuity": "continuous",
+        "beats": [
+          "@Hung perches on the arm of a chair facing @BaHoa and starts speaking eagerly, spreading his hands wide as his silver rings flash under the ring light.",
+          "@Hung keeps talking fast and leans forward, holding up ten fingers and then sweeping them upward, his round gold-rimmed glasses catching the neon.",
+          "@Hung finishes and closes his mouth into a smug grin, while @BaHoa tilts her hat brim and studies him through her dark sunglasses."
+        ],
+        "sfx": "leather creaking, an air conditioner humming, muffled ringing phones"
+      },
+      {
+        "id": "11.4",
+        "chars": ["@BaHoa", "@Hung"],
+        "speaker": "@BaHoa",
+        "line": "Dễ vay thì cũng phải trả chứ, nhỡ chúng nó không trả thì cậu làm thế nào?",
+        "camera": "85mm close-up on her, slow push-in",
+        "continuity": "continuous",
+        "beats": [
+          "@BaHoa lowers her sunglasses an inch and speaks to @Hung in a teasing brassy voice, one eyebrow arched high above the dark lenses.",
+          "@BaHoa keeps speaking while tapping her chunky gold bangle on the sofa arm, the large gold flower brooch with a tiny hidden camera glinting on her chest.",
+          "@BaHoa closes her red lips and waits with her head tilted, as @Hung's shoulder at the edge of the frame leans in toward her."
+        ],
+        "sfx": "a gold bangle tapping on leather, the ring light humming, distant keyboards clicking"
+      },
+      {
+        "id": "11.5",
+        "chars": ["@Hung", "@BaHoa"],
+        "speaker": "@Hung",
+        "line": "Không trả thì tôi gửi ảnh cho cả họ hàng nó, xấu hổ quá thì kiểu gì nó cũng phải trả.",
+        "camera": "35mm medium shot on him, slow dolly-in",
+        "continuity": "continuous",
+        "beats": [
+          "@Hung speaks to @BaHoa with a careless shrug, lifting a phone on a small selfie gimbal and waggling it in the air beside his face.",
+          "@Hung keeps speaking smugly, tapping the phone's blank glowing screen with a ringed finger as if sending photos, his cocky grin widening.",
+          "@Hung closes his mouth and leans back in his chair with arms folded, while @BaHoa nods slowly across from him, lips closed."
+        ],
+        "sfx": "a phone buzzing, leather creaking, a soft electronic hum"
+      },
+      {
+        "id": "11.6",
+        "chars": ["@BaHoa"],
+        "speaker": "NARRATOR",
+        "line": "Bà Hoa gật gù, ngón tay khẽ vuốt chiếc trâm vàng, từng lời của Hưng đang chạy thẳng về máy của Mai.",
+        "camera": "100mm close-up, slow push-in to the brooch",
+        "continuity": "cut",
+        "beats": [
+          "Neon light ripples across the glass wall of the boss room, the glowing ring light and the white leather sofa softly out of focus.",
+          "@BaHoa nods slowly in her wide-brimmed black hat, her fingertips stroking the large gold flower brooch with a tiny hidden camera on her chest.",
+          "The camera settles on the gold brooch as a tiny lens at its center glints, @BaHoa's red lips closed in a satisfied curve just above it."
+        ],
+        "sfx": "a faint electronic click, the soft ring light hum, muffled chatter of the call center"
+      }
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Khoa Báo Vào Phòng Máy",
+    "time_label": "10:20 Sáng (11:00–12:00)",
+    "location": "Hành lang công ty và phòng máy chủ lạnh ngắt trong tòa nhà kính; hai clip cuối trong chiếc xe tải trắng bên kia đường.",
+    "axis": "Hành lang: ông Khoa đi từ phải sang trái khung hình. Phòng máy: cửa kính có khóa số bên trái, dãy giá máy chủ bên phải. Xe tải: Mai ngồi trước hai laptop, cửa kính màu phía sau lưng.",
+    "props": "Mũ thợ màu xanh và hộp đồ nghề của ông Khoa, kẹp tóc bẻ cong, ổ cứng nhỏ màu đen, tai nghe có micro của Mai, hai laptop sáng.",
+    "setting": "A cold server room in the glass tower: tall black server racks with blinking blue lights, cable trays, a humming air conditioner, a glass door with a keypad lock.",
+    "clips": [
+      {
+        "id": "12.1",
+        "chars": ["@Khoa"],
+        "speaker": "NARRATOR",
+        "line": "Cùng lúc ấy, ông Khoa trong bộ đồ thợ sửa điều hòa lững thững đi dọc hành lang, chẳng ai buồn để ý.",
+        "camera": "24mm wide shot, slow side-tracking along the hallway",
+        "continuity": "cut",
+        "setting": "A bright corporate hallway in the glass tower with grey carpet and frosted glass walls.",
+        "beats": [
+          "A long bright corporate hallway with grey carpet and frosted glass walls stretches away, ceiling lights glowing and a potted plant standing by a corner.",
+          "@Khoa ambles into view wearing a blue technician cap over his grey ponytail and carrying a toolbox, his brown multi-pocket vest bristling with little tools.",
+          "@Khoa strolls on with a loose, bored gait, lips pressed together, swinging the toolbox like any ordinary repairman on his daily rounds."
+        ],
+        "sfx": "soft footsteps on carpet, the hum of ceiling lights, a distant elevator chime"
+      },
+      {
+        "id": "12.2",
+        "chars": ["@Khoa"],
+        "speaker": "NARRATOR",
+        "line": "Ổ khóa điện tử của phòng máy chủ, ông chỉ cần ba giây và một chiếc kẹp tóc bẻ cong là xong.",
+        "camera": "50mm close-up on the keypad, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "A glass door with a keypad lock of blank buttons glows with a small red light, tall black server racks blinking blue behind the glass.",
+          "@Khoa kneels by the keypad lock, slides a bent hairpin into a tiny slot beneath it and twists it gently with his long thin fingers.",
+          "The small red light flips to green with a click, and @Khoa raises his eyebrows with lips pressed together as the glass door eases open."
+        ],
+        "sfx": "a faint metallic scratch, a crisp electronic beep, the hiss of a door seal releasing"
+      },
+      {
+        "id": "12.3",
+        "chars": ["@Khoa"],
+        "speaker": "@Khoa",
+        "line": "Ba mươi năm rồi mà tay vẫn chưa run, cái khóa này còn dễ hơn két sắt ngày xưa.",
+        "camera": "35mm medium shot, slow dolly-in following him inside",
+        "continuity": "continuous",
+        "beats": [
+          "@Khoa steps into the cold server room, holds the bent hairpin up to the blue light and mutters to himself with a dry little smirk.",
+          "@Khoa keeps muttering as he wiggles his steady fingers in the air, then tucks the hairpin into a vest pocket.",
+          "@Khoa closes his mouth, pats the vest pocket twice and turns toward the tall black server racks with blinking blue lights."
+        ],
+        "sfx": "the loud hum of the air conditioner, cooling fans whirring, a soft door click behind"
+      },
+      {
+        "id": "12.4",
+        "chars": ["@Khoa"],
+        "speaker": "NARRATOR",
+        "line": "Ông cắm một chiếc ổ cứng nhỏ màu đen vào giá máy, toàn bộ dữ liệu đòi nợ bắt đầu chảy về.",
+        "camera": "85mm close-up on his hands, slow tilt-up to his face",
+        "continuity": "continuous",
+        "beats": [
+          "@Khoa crouches before a server rack and lowers his magnifier glasses over his eyes, the blinking blue lights reflecting in the thick lenses.",
+          "@Khoa's long fingers slide a small black hard drive into a port on the rack, and a row of tiny blue lights starts blinking faster.",
+          "@Khoa sits back on his heels with lips pressed together, watching the lights race across the drive as the data streams in."
+        ],
+        "sfx": "a soft plastic click, cooling fans rising in pitch, rapid electronic chirps"
+      },
+      {
+        "id": "12.5",
+        "chars": ["@Mai"],
+        "speaker": "@Mai",
+        "line": "Ông Khoa ơi, dữ liệu về đủ rồi, cả danh sách mấy nghìn sinh viên bị nó siết nợ!",
+        "camera": "40mm medium shot, slow push-in across the laptops",
+        "continuity": "cut",
+        "setting": "Inside a parked white van turned into a surveillance post by day: two laptops glowing, tangled cables, a thermos, tinted windows facing a busy street.",
+        "beats": [
+          "Two laptops glow brightly inside the parked white van, tangled cables and a thermos on the narrow shelf, the tinted windows dimming the busy street.",
+          "@Mai leans toward the glowing laptops with a small headset microphone at her cheek and speaks quickly, eyes wide behind her round black-framed glasses.",
+          "@Mai finishes, closes her mouth and presses both hands flat on the shelf, staring at the screens as their glow flickers faster."
+        ],
+        "sfx": "laptop fans whirring, rapid keyboard taps, muffled street traffic"
+      },
+      {
+        "id": "12.6",
+        "chars": ["@Mai"],
+        "speaker": "NARRATOR",
+        "line": "Mai nắm chặt tay, mắt rưng rưng, lần đầu tiên sau ba tháng, cô thấy mình không còn đơn độc.",
+        "camera": "85mm close-up, slow push-in on her face",
+        "continuity": "continuous",
+        "setting": "Inside a parked white van turned into a surveillance post by day: two laptops glowing, tangled cables, a thermos, tinted windows facing a busy street.",
+        "beats": [
+          "@Mai sits back from the glowing laptops and squeezes her hands together tightly in her lap, her lips pressed shut.",
+          "@Mai's eyes glisten behind her round glasses and she blinks hard as one tear slides down her cheek in the soft laptop glow.",
+          "@Mai lets out a long slow breath, and a small closed-lip smile lifts her face as she straightens up in her lavender hoodie."
+        ],
+        "sfx": "a quiet exhale, laptop fans humming, a faint distant motorbike horn"
+      }
+    ]
+  },
+  {
+    "num": 13,
+    "title": "Cú Lật Mặt",
+    "time_label": "10:40 Sáng (12:00–13:00)",
+    "location": "Hầm gửi xe dưới tòa nhà kính, rồi phòng sếp và phòng gọi điện của công ty Phú Quý.",
+    "axis": "Hầm xe: cột bê tông bên trái, xe sang đỗ phía xa bên phải. Phòng sếp: Béo bên trái khung hình, Hưng bên phải cạnh bàn kính; cửa sổ kính nhìn xuống phố ở hậu cảnh.",
+    "props": "Xe sang màu đen không logo, điện thoại gắn gimbal, tập hợp đồng chỉ có dòng chữ mờ không đọc được, bút máy, chiếc xe tải trắng nhỏ xíu dưới phố.",
+    "setting": "The flashy call-center office of a loan app company high in a Hà Nội glass tower by day: rows of desks with young callers in headsets at glowing monitors, purple and gold neon accent lights without letters, a glass-walled boss room with a white leather sofa and a ring light.",
+    "clips": [
+      {
+        "id": "13.1",
+        "chars": ["@Beo"],
+        "speaker": "NARRATOR",
+        "line": "Nhưng dưới hầm xe, Béo vô tình thấy gã tài xế già xắn tay áo, để lộ hình con rồng xanh sẫm.",
+        "camera": "35mm medium shot, slow push-in toward the pillar",
+        "continuity": "cut",
+        "setting": "A dim underground car park with concrete pillars and fluorescent strip lights, a black luxury sedan with no badge parked.",
+        "beats": [
+          "Fluorescent strip lights flicker over rows of concrete pillars in the dim underground car park, the black luxury sedan with no badge parked in a far bay.",
+          "@Beo peeks out from behind a thick concrete pillar, the lightning-bolt pattern on his shaved head catching the light as his small eyes squint toward the sedan.",
+          "@Beo's small eyes go wide and his jaw tightens with lips pressed shut, then he slips back behind the pillar and slowly pulls out his phone."
+        ],
+        "sfx": "fluorescent lights buzzing, a distant car door closing, echoing water drips"
+      },
+      {
+        "id": "13.2",
+        "chars": ["@Beo", "@Hung"],
+        "speaker": "@Beo",
+        "line": "Đại ca, lão tài xế kia có hình xăm con rồng, thằng em thấy quen quen lắm.",
+        "camera": "50mm over-the-shoulder shot past @Hung onto @Beo, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "The glass-walled boss room glows with purple and gold neon, the ring light and white leather sofa standing before rows of glowing desks beyond the glass.",
+          "@Beo leans in toward @Hung and speaks in a rough low voice, tapping his own thick right forearm with two fingers.",
+          "@Beo closes his mouth and raises his eyebrows, while @Hung slowly lowers a phone on a small selfie gimbal and turns his head."
+        ],
+        "sfx": "the ring light humming, a muffled phone ringing, a chair creaking"
+      },
+      {
+        "id": "13.3",
+        "chars": ["@Hung", "@Beo"],
+        "speaker": "@Hung",
+        "line": "Lâm Rồng à? Bố tao kể về lão suốt, hóa ra giờ đi lái xe thuê cho một bà già.",
+        "camera": "85mm close-up on @Hung, slow push-in",
+        "continuity": "continuous",
+        "beats": [
+          "@Hung turns to @Beo and speaks with a short mocking laugh in his voice, one eyebrow arched above his round gold-rimmed glasses.",
+          "@Hung keeps talking, flicking a ringed hand dismissively toward the call center beyond the glass, his cocky grin spreading wide under the neon.",
+          "@Hung stops and closes his mouth, his eyes narrowing behind the glasses as he taps the gimbal handle slowly against his palm."
+        ],
+        "sfx": "a short mocking laugh, the hum of the air conditioner, distant ringing phones"
+      },
+      {
+        "id": "13.4",
+        "chars": ["@Hung"],
+        "speaker": "NARRATOR",
+        "line": "Hưng không nổi giận, hắn mỉm cười, quyết định chơi lại bộ ba già bằng chính luật chơi của họ.",
+        "camera": "28mm wide shot through the glass wall, slow dolly-in",
+        "continuity": "cut",
+        "beats": [
+          "Rows of glowing desks stretch across the call center beyond the glass wall of the boss room, purple and gold neon reflecting on the empty white leather sofa.",
+          "@Hung stands alone at his glass desk, opens a glossy folder of papers with faint unreadable lines and runs a ringed finger slowly down the page.",
+          "@Hung looks up with a slow closed-lip smile, snaps the folder shut and sets a fountain pen neatly on top of it like a winning chess move."
+        ],
+        "sfx": "paper rustling, a folder snapping shut, the soft hum of neon"
+      },
+      {
+        "id": "13.5",
+        "chars": ["@Hung"],
+        "speaker": "@Hung",
+        "line": "Cứ để bà ta ký hợp đồng đầu tư, rồi tao báo công an bắt cả lũ về tội lừa đảo.",
+        "camera": "50mm medium shot, slow arc around the desk",
+        "continuity": "continuous",
+        "beats": [
+          "@Hung taps the closed folder and speaks over his shoulder in a slick low voice, eyes glinting behind his round gold-rimmed glasses.",
+          "@Hung keeps speaking as he picks up the fountain pen and mimes signing with a flourish in the air, his silver rings flashing.",
+          "@Hung closes his mouth into a smug grin and drops the pen back onto the folder with a light click."
+        ],
+        "sfx": "a pen clicking on the folder, the ring light humming, faint ringing phones"
+      },
+      {
+        "id": "13.6",
+        "chars": ["@Beo"],
+        "speaker": "NARRATOR",
+        "line": "Béo gật đầu, lẳng lặng dẫn ba đàn em đi về phía chiếc xe tải trắng bên kia đường.",
+        "camera": "24mm wide shot, slow tracking behind him",
+        "continuity": "cut",
+        "extras": "three debt collectors in black following him",
+        "beats": [
+          "Sunlight pours through the tall windows of the call center high in the glass tower, the busy street far below dotted with tiny traffic and a small white van.",
+          "@Beo stands at the window looking down at the tiny white van across the street, nods once with lips pressed together and rolls his thick shoulders.",
+          "@Beo turns and walks off between the rows of glowing desks as three debt collectors in black fall into step behind him, quiet and purposeful."
+        ],
+        "sfx": "heavy flip-flop steps, a glass door swinging, ringing phones fading"
+      }
+    ]
+  },
+  {
+    "num": 14,
+    "title": "Rượt Đuổi Giữa Phố",
+    "time_label": "11:00 Trưa (13:00–14:00)",
+    "location": "Con phố cổ đông đúc gần đường tàu, chiếc xe tải trắng đỗ sát lề; clip đầu trong lòng xe tải.",
+    "axis": "Xe tải trắng đỗ sát lề bên phải khung hình, dòng xe máy chảy từ trái sang phải; xe ông Lâm lao từ trái vào, Mai ngồi sau; bốn xe đòi nợ bám theo từ phía sau.",
+    "props": "Ổ cứng nhỏ màu đen, chiếc xe máy cũ màu kem đèn tròn mạ crôm, mũ cối xanh sờn, bốn xe máy đen của bọn đòi nợ.",
+    "setting": "Noon on a busy old-quarter street near the railway: honking motorbikes, street vendors, shop awnings, a white van parked at the curb.",
+    "clips": [
+      {
+        "id": "14.1",
+        "chars": ["@Mai", "@Beo"],
+        "speaker": "NARRATOR",
+        "line": "Mai vừa rút ổ cứng khỏi máy tính thì cửa xe tải trượt mở, Béo đã đứng chắn ngay bên ngoài.",
+        "camera": "28mm wide interior shot, slow dolly-in toward the side door",
+        "continuity": "cut",
+        "setting": "Inside a parked white van turned into a surveillance post by day: two laptops glowing, tangled cables, a thermos, tinted windows facing a busy street.",
+        "beats": [
+          "Two laptops glow inside the parked white van, a small black hard drive plugged into one by a short cable, tangled cables and a thermos on the shelf.",
+          "@Mai unplugs the small black hard drive and hugs it to her chest as the side door of the van slides open, flooding the van with noon light.",
+          "@Beo stands blocking the open doorway with his arms folded across his big chest, his lips pressed into a smug line, the sunny street bright behind him."
+        ],
+        "sfx": "a cable clicking free, the van door sliding open with a rattle, street horns pouring in"
+      },
+      {
+        "id": "14.2",
+        "chars": ["@Mai"],
+        "speaker": "NARRATOR",
+        "line": "Cô ôm chặt ổ cứng, chui ra cửa bên kia, chạy thục mạng giữa dòng xe máy đông nghịt.",
+        "camera": "35mm medium shot, fast handheld tracking alongside her",
+        "continuity": "cut",
+        "beats": [
+          "Honking motorbikes stream along the sunny old-quarter street past shop awnings and street vendors' carts, the white van parked at the curb with its far-side door shut.",
+          "The far-side door of the van slides open and @Mai slips out, clutching a small black hard drive against her lavender hoodie, her backpack bouncing.",
+          "@Mai runs at full speed along the crowded pavement under the shop awnings, ducking past a parked fruit cart while the river of motorbikes flows on the road beside her."
+        ],
+        "sfx": "quick sneaker footsteps, a chorus of honking horns, a vendor's bell ringing"
+      },
+      {
+        "id": "14.3",
+        "chars": ["@Lam"],
+        "speaker": "NARRATOR",
+        "line": "Một tiếng còi quen thuộc vang lên, ông Lâm phóng chiếc xe máy cũ tới, phanh xịch ngay trước mặt cháu.",
+        "camera": "24mm wide low-angle shot, slow push-in as the bike arrives",
+        "continuity": "cut",
+        "beats": [
+          "The busy noon street fills the frame from a low angle, motorbikes streaming under shop awnings and tangled wires as a familiar horn beeps somewhere in the traffic.",
+          "@Lam rides the old cream-colored step-through motorbike with a round chrome headlamp, weaving smoothly between the motorbikes in his battered green pith helmet.",
+          "@Lam glides out of the traffic and brakes to a neat stop at the curb facing the camera, one sandal on the ground, lips closed in a calm half smile."
+        ],
+        "sfx": "a cheerful little horn beeping twice, a puttering old engine, brakes squeaking softly"
+      },
+      {
+        "id": "14.4",
+        "chars": ["@Lam", "@Mai"],
+        "speaker": "@Lam",
+        "line": "Lên xe ôm chặt vào, Mai, hôm nay ông cho con biết thế nào là chạy xe phố cổ!",
+        "camera": "50mm medium two-shot, slow pull-back from the headlamp",
+        "continuity": "cut",
+        "beats": [
+          "Close on the round chrome headlamp of the old cream-colored step-through motorbike idling at the curb, honking traffic blurring past behind it.",
+          "As the camera eases back, @Lam sits astride the seat and turns his head to @Mai climbing on behind him, speaking firmly with a sly glint in his eye.",
+          "@Lam closes his mouth and twists the throttle as @Mai wraps both arms around his waist, the small black hard drive tucked safely between them."
+        ],
+        "sfx": "a puttering engine revving, traffic horns, a street vendor calling in the distance"
+      },
+      {
+        "id": "14.5",
+        "chars": [],
+        "speaker": "NARRATOR",
+        "line": "Bốn chiếc xe máy đen lập tức bám đuổi, rú ga len lỏi giữa những con phố chật như ruột gà.",
+        "camera": "20mm aerial drone shot, slow forward glide above the narrow streets",
+        "continuity": "cut",
+        "extras": "four debt collectors on black motorbikes weaving through traffic in pursuit",
+        "beats": [
+          "From above, the narrow old-quarter streets twist like a maze between tiled roofs, tangled wires and shop awnings, dense rivers of motorbikes glittering under the noon sun.",
+          "Four debt collectors on black motorbikes weave through the traffic in a tight line, revving as they slip between slower motorbikes and street carts.",
+          "The four black motorbikes lean into a sharp turn one after another and vanish into an even narrower street hung with laundry."
+        ],
+        "sfx": "engines revving and whining, a chorus of horns, echoes bouncing between the houses"
+      },
+      {
+        "id": "14.6",
+        "chars": ["@Lam", "@Mai"],
+        "speaker": "NARRATOR",
+        "line": "Ông Lâm ngoặt vào phố đường tàu, đúng lúc tiếng còi tàu hỏa rền vang từ phía xa.",
+        "camera": "35mm medium tracking shot, slow pan following the turn",
+        "continuity": "cut",
+        "beats": [
+          "A street corner opens onto a narrow lane where railway tracks run between old tube houses, laundry swaying and café stools lined against the walls.",
+          "@Lam leans the old cream-colored step-through motorbike with a round chrome headlamp into a smooth sharp turn onto the rail-side lane, @Mai hugging his waist behind him.",
+          "@Mai glances back over her shoulder with her lips pressed tight as a long train horn echoes from far away down the empty tracks."
+        ],
+        "sfx": "a distant train horn wailing, the bike engine puttering, a crossing bell ringing far away"
+      }
+    ]
+  },
+  {
+    "num": 15,
+    "title": "Chuyến Tàu Cắt Ngang",
+    "time_label": "11:05 Trưa (14:00–15:00)",
+    "location": "Phố đường tàu Hà Nội giữa trưa và con ngõ nhỏ quanh co bên kia đường ray.",
+    "axis": "Đường ray chạy theo chiều sâu khung hình, tàu đến từ phía xa; xe ông Lâm băng qua từ trái sang phải khi tàu còn rất xa, bọn đòi nợ dừng lại ở phía trái; đoàn tàu chạy qua giữa hai bên. Trong ngõ: ông Lâm bên trái, Mai ngồi sau bên phải.",
+    "props": "Chiếc xe máy cũ màu kem đèn tròn mạ crôm, mũ cối xanh sờn, ổ cứng nhỏ màu đen, ghế nhựa thấp và cốc cà phê của các quán, đoàn tàu xanh trắng.",
+    "setting": "Hà Nội's narrow train street at noon: railway tracks running between rows of old tube houses, tiny cafés with low stools pulled back from the rails, laundry and potted plants along the walls.",
+    "clips": [
+      {
+        "id": "15.1",
+        "chars": [],
+        "speaker": "NARRATOR",
+        "line": "Trên phố đường tàu, các quán cà phê vội vàng kéo ghế vào, đoàn tàu đang từ xa lao tới.",
+        "camera": "24mm wide low-angle shot along the rails, slow dolly-back",
+        "continuity": "cut",
+        "beats": [
+          "Low between the shining rails, the narrow train street stretches away under the noon sun, laundry fluttering and potted plants lining the old tube-house walls.",
+          "Tiny café tables and low plastic stools sit pulled back tight against the walls, coffee cups trembling on the tabletops as the rails begin to hum.",
+          "Far in the distance at the end of the street, a single train headlamp glows small and bright, still very far away."
+        ],
+        "sfx": "rails humming and ticking, coffee cups rattling on saucers, a long distant train horn"
+      },
+      {
+        "id": "15.2",
+        "chars": ["@Lam", "@Mai"],
+        "speaker": "NARRATOR",
+        "line": "Chiếc xe máy cũ băng qua đường ray trong gang tấc, rồi mất hút vào một con ngõ bên kia.",
+        "camera": "50mm medium side shot, slow pan following the bike",
+        "continuity": "cut",
+        "beats": [
+          "The empty rails cut across the frame between café stools and potted plants, and far down the track a tiny train headlamp glows in the distance.",
+          "@Lam rides the old cream-colored step-through motorbike with a round chrome headlamp briskly across the rails with @Mai holding on behind him, the train still far away.",
+          "The bike rolls over the far rail and disappears into a narrow alley on the other side, @Lam's battered green pith helmet bobbing out of sight."
+        ],
+        "sfx": "tires thumping over steel rails, the bike engine buzzing, a distant train horn"
+      },
+      {
+        "id": "15.3",
+        "chars": [],
+        "speaker": "NARRATOR",
+        "line": "Đoàn tàu ầm ầm chạy qua, bốn chiếc xe đuổi theo đành phanh gấp, kẹt cứng ở bên này đường ray.",
+        "camera": "28mm wide shot from the café side, slow lateral drift",
+        "continuity": "cut",
+        "extras": "four debt collectors on motorbikes stopped behind the passing train",
+        "beats": [
+          "A long blue and white train rumbles through the narrow street, its carriages filling the frame and the laundry on the walls fluttering in its wind.",
+          "Through the gaps between the passing carriages, four debt collectors on motorbikes wait stopped well back from the rails beside the café stools, engines idling.",
+          "The last carriage rolls away and the far side of the tracks stands empty, while the four debt collectors sit frozen on their motorbikes staring across with mouths shut."
+        ],
+        "sfx": "a train rumbling and clattering past, its horn blaring, idling engines sputtering"
+      },
+      {
+        "id": "15.4",
+        "chars": ["@Mai", "@Lam"],
+        "speaker": "@Mai",
+        "line": "Ông ơi, ông lái xe còn ghê hơn cả trong phim hành động, cháu suýt rơi cả tim!",
+        "camera": "40mm medium two-shot, slow push-in",
+        "continuity": "cut",
+        "setting": "A narrow winding old-quarter alley maze at noon, laundry overhead, tiny doorways, potted plants.",
+        "beats": [
+          "A narrow winding alley in the old quarter glows in noon light, laundry hanging overhead between tiny doorways and potted plants along the walls.",
+          "@Lam rolls the old cream-colored step-through motorbike with a round chrome headlamp to a stop, and @Mai on the back seat speaks breathlessly, one hand pressed to her chest.",
+          "@Mai closes her mouth, puffs out a breath through her nose and straightens her round glasses, still clutching the small black hard drive in her other hand."
+        ],
+        "sfx": "the engine ticking down, a distant train fading away, a caged bird chirping"
+      },
+      {
+        "id": "15.5",
+        "chars": ["@Lam", "@Mai"],
+        "speaker": "@Lam",
+        "line": "Ba mươi năm trước cả phố này đuổi ông còn không kịp, mấy thằng nhóc ấy ăn thua gì.",
+        "camera": "85mm close-up on @Lam, slow push-in",
+        "continuity": "continuous",
+        "setting": "A narrow winding old-quarter alley maze at noon, laundry overhead, tiny doorways, potted plants.",
+        "beats": [
+          "@Lam turns his head toward @Mai and speaks with a dry chuckle in his voice, tapping the brim of his battered green pith helmet with one finger.",
+          "@Lam keeps speaking calmly, flicking his hand back toward the railway as if brushing away dust, his thick grey eyebrows lifting.",
+          "@Lam closes his mouth into a crooked closed-lip grin while @Mai, behind his shoulder, shakes her head with a wide closed-lip smile."
+        ],
+        "sfx": "the idling engine, laundry flapping softly, a neighbor's radio murmuring far away"
+      },
+      {
+        "id": "15.6",
+        "chars": ["@Lam"],
+        "speaker": "NARRATOR",
+        "line": "Ông Lâm bật cười, nhưng ông không biết, trong lúc mình chạy, Hưng đã ra tay ở một nơi khác.",
+        "camera": "28mm wide shot, slow crane-up above the alley",
+        "continuity": "cut",
+        "setting": "A narrow winding old-quarter alley maze at noon, laundry overhead, tiny doorways, potted plants.",
+        "beats": [
+          "The winding old-quarter alley lies quiet in the noon sun, laundry stirring overhead and a cat dozing on a doorstep among potted plants.",
+          "@Lam leans back on the seat of the old cream-colored step-through motorbike with a round chrome headlamp and laughs silently, shoulders shaking, lips closed.",
+          "The camera rises above tangled wires and tiled roofs as @Lam grows small below, and a gleaming glass tower appears far off on the sunny skyline."
+        ],
+        "sfx": "pigeons fluttering off a roof, wind chimes tinkling, distant traffic"
+      }
+    ]
+  },
+  {
+    "num": 16,
+    "title": "Hổ Bị Mời Về Đồn",
+    "time_label": "14:00 Chiều (15:00–16:00)",
+    "location": "Quán bún chả của bà Hoa vắng khách sau giờ trưa; sạp sửa đài của ông Khoa; nhà ông Lâm.",
+    "axis": "Quán: bếp than bên trái khung hình, bàn inox bên phải, lối ra phố ở hậu cảnh. Sạp: kệ đài bên trái, bàn làm việc bên phải. Nhà: bàn gỗ bên trái, cửa cuốn mở ra phố bên phải.",
+    "props": "Tập đơn chỉ có dòng chữ mờ không đọc được, tạp dề đỏ, mũ rộng vành đen, bếp than và xiên chả, sạp sửa đài bị lục tung, chiếc đài gỗ Liên Xô cũ, điện thoại sáng liên tục, vệt sơn đỏ trên cửa cuốn.",
+    "setting": "Bà Hoa's bustling bún chả shop on an old-quarter street by day: charcoal grills smoking on the pavement, low plastic stools, steel tables, baskets of fresh herbs, warm sunlight through the smoke.",
+    "clips": [
+      {
+        "id": "16.1",
+        "chars": [],
+        "speaker": "NARRATOR",
+        "line": "Chiều hôm ấy, hai cán bộ công an bước vào quán bún chả, trên tay là đơn tố cáo lừa đảo của Hưng.",
+        "camera": "35mm wide shot, slow dolly-back through the smoke",
+        "continuity": "cut",
+        "extras": "two police officers in green uniforms walking calmly into the shop",
+        "beats": [
+          "Charcoal grills smoke on the pavement in front of the bún chả shop, low plastic stools and steel tables empty after lunch, baskets of fresh herbs glowing in warm sunlight.",
+          "Two police officers in green uniforms walk calmly into the shop through the drifting smoke, one holding a slim folder of papers with faint unreadable lines.",
+          "The two officers stop politely beside a steel table and wait with relaxed shoulders, looking toward the grills as smoke curls lazily in the sunlight."
+        ],
+        "sfx": "charcoal crackling, pork sizzling, calm footsteps, a distant street vendor calling"
+      },
+      {
+        "id": "16.2",
+        "chars": ["@BaHoa"],
+        "speaker": "NARRATOR",
+        "line": "Bà Hoa không chạy, cũng không cãi, bà thong thả tháo tạp dề, đội mũ rộng vành rồi đi theo họ.",
+        "camera": "50mm medium shot, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "A charcoal grill glows beside a steel table lined with skewers of pork, and a wide-brimmed black hat hangs on a hook on the wall above.",
+          "@BaHoa unties her red apron with unhurried calm, folds it neatly and lays it on the steel table beside a basket of fresh herbs.",
+          "@BaHoa lifts the wide-brimmed black hat from its hook, settles it on her burgundy curls and glances toward the doorway with closed red lips and a cool half smile."
+        ],
+        "sfx": "charcoal popping, fat sizzling, fabric rustling, a gold bangle clinking"
+      },
+      {
+        "id": "16.3",
+        "chars": ["@BaHoa"],
+        "speaker": "@BaHoa",
+        "line": "Các chú cứ từ từ, để tôi tắt bếp than đã, kẻo cháy hết mẻ chả của khách.",
+        "camera": "85mm close-up, slow pan with her to the grill",
+        "continuity": "continuous",
+        "beats": [
+          "@BaHoa raises one palm toward the doorway off-frame and speaks in a breezy brassy voice, unhurried, as if chatting with regular customers.",
+          "@BaHoa keeps speaking as she turns to the grill, slides its little vent shut and moves the last skewers of pork onto a plate.",
+          "@BaHoa closes her mouth, dusts off her hands, straightens her hat and strolls out toward the street on her own, chin held high."
+        ],
+        "sfx": "a metal vent scraping shut, coals hissing, sandals tapping on the pavement"
+      },
+      {
+        "id": "16.4",
+        "chars": ["@Khoa"],
+        "speaker": "NARRATOR",
+        "line": "Cùng lúc ấy, sạp sửa đài của ông Khoa bị lục tung, chiếc ổ cứng đen trên bàn đã biến mất.",
+        "camera": "28mm wide shot, slow dolly-in under the staircase",
+        "continuity": "cut",
+        "setting": "A tiny electronics repair stall tucked under a staircase in an old-quarter alley: shelves of old radios and phones, tangled wires, a soldering iron, a magnifier lamp, a single bare bulb.",
+        "beats": [
+          "The tiny repair stall under the staircase lies ransacked, drawers hanging open, old radios knocked askew, and a clean dust-free rectangle on the workbench where something used to sit.",
+          "@Khoa steps in under the bare bulb and stops short, his magnifier glasses on his forehead, staring at the empty rectangle on the workbench.",
+          "@Khoa's eyes flick for a split second to an old wooden Soviet-era radio still untouched on the top shelf, and his lips press into a thin line."
+        ],
+        "sfx": "a bare bulb buzzing, a loose wire ticking against a shelf, distant alley chatter"
+      },
+      {
+        "id": "16.5",
+        "chars": ["@Mai"],
+        "speaker": "NARRATOR",
+        "line": "Còn điện thoại của Mai sáng liên tục, bọn chúng đã gửi ảnh cô cho cả lớp, kèm hai chữ con nợ.",
+        "camera": "50mm close-up, slow push-in",
+        "continuity": "cut",
+        "setting": "Morning inside Lâm's narrow old-quarter tube house: a ground-floor room with the rolling steel shutter raised, a worn wooden table, a small family altar, sunlight from the street.",
+        "beats": [
+          "A phone lies face-up on the worn wooden table, its blank screen lighting up again and again as it buzzes in a slow circle across the wood.",
+          "@Mai picks up the buzzing phone, its blank glowing screen lighting her face, and her thumb freezes above it as it keeps vibrating in her hand.",
+          "@Mai lowers the phone slowly, her round glasses reflecting its endless flashing glow, her lips pressed tight and her chin trembling."
+        ],
+        "sfx": "a phone vibrating nonstop against wood, notification pings stacking up, street noise outside"
+      },
+      {
+        "id": "16.6",
+        "chars": ["@Mai"],
+        "speaker": "NARRATOR",
+        "line": "Mai ngồi sụp xuống bậc cửa còn vệt sơn đỏ, ôm mặt khóc không thành tiếng.",
+        "camera": "35mm wide shot, slow crane-down to the doorstep",
+        "continuity": "continuous",
+        "setting": "Morning inside Lâm's narrow old-quarter tube house: a ground-floor room with the rolling steel shutter raised, a worn wooden table, a small family altar, sunlight from the street.",
+        "beats": [
+          "@Mai walks to the open doorway, where faded red paint still stains the edge of the raised steel shutter and the front step.",
+          "@Mai sinks down onto the paint-stained doorstep, sets the phone face-down beside her and covers her face with both hands.",
+          "@Mai's shoulders shake without a sound as warm street sunlight falls across her lavender hoodie and the stained shutter edge above her."
+        ],
+        "sfx": "muffled motorbikes passing, a soft shaky breath, the phone buzzing faintly on the step"
+      }
+    ]
+  },
+  {
+    "num": 17,
+    "title": "Đêm Trên Sân Thượng",
+    "time_label": "22:00 Đêm (16:00–17:00)",
+    "location": "Sân thượng một ngôi nhà ống trong phố cổ, nhìn ra biển mái ngói và mặt hồ xa.",
+    "axis": "Hai ông cháu ngồi trên hai ghế nhựa thấp quay ra phố: ông Lâm bên trái khung hình, Mai bên phải; bể nước inox và chậu cây phía sau.",
+    "props": "Hai ghế nhựa thấp, bể nước inox, chậu cây, mũ cối xanh sờn đặt trên đầu gối ông Lâm, điện thoại của Mai chỉ phát sáng.",
+    "setting": "A tube-house rooftop in the old quarter at night: potted plants, a steel water tank, a sea of tiled roofs and warm city lights, a lake glowing in the distance.",
+    "clips": [
+      {
+        "id": "17.1",
+        "chars": ["@Lam", "@Mai"],
+        "speaker": "NARRATOR",
+        "line": "Đêm ấy, hai ông cháu ngồi trên sân thượng, nhìn xuống phố cổ lấp lánh mà chẳng ai nói câu nào.",
+        "camera": "24mm wide shot from behind, slow crane-up",
+        "continuity": "cut",
+        "beats": [
+          "A tube-house rooftop glows under warm city lights at night, potted plants and a steel water tank beside two low plastic stools, the lake shimmering far away.",
+          "@Lam and @Mai sit side by side on the low stools facing the glittering old quarter, his battered green pith helmet resting on his knee, her hands tucked into her hoodie sleeves.",
+          "Neither of them moves, both with lips closed, as the camera rises over the sea of tiled roofs toward the distant lake glowing in the dark."
+        ],
+        "sfx": "a soft night breeze, distant motorbike horns, a dog barking far off, wind chimes"
+      },
+      {
+        "id": "17.2",
+        "chars": ["@Mai", "@Lam"],
+        "speaker": "@Mai",
+        "line": "Tại cháu mà bà Hoa bị bắt, ông ơi, hay mình trả tiền cho nó rồi thôi đi ông.",
+        "camera": "50mm medium two-shot, slow arc to their faces",
+        "continuity": "continuous",
+        "beats": [
+          "@Mai turns toward @Lam and speaks in a small cracked voice, her round glasses reflecting the city lights, her fingers twisting her hoodie sleeves.",
+          "@Mai keeps speaking and leans her shoulder against @Lam's arm, her eyes glistening as she looks up at him.",
+          "@Mai falls silent and closes her mouth, lowering her head, while @Lam looks out at the city with his jaw set."
+        ],
+        "sfx": "the night breeze, faint traffic below, a distant boat horn on the lake"
+      },
+      {
+        "id": "17.3",
+        "chars": ["@Lam", "@Mai"],
+        "speaker": "@Lam",
+        "line": "Ông trả nó một đồng, thì ngày mai nó lại gài thêm trăm đứa khác khổ như con.",
+        "camera": "85mm close-up on @Lam, slow push-in",
+        "continuity": "continuous",
+        "beats": [
+          "@Lam shakes his head gently and speaks in a calm husky voice, his cloudy left eye catching the warm city lights.",
+          "@Lam keeps speaking as he rests a warm hand on @Mai's head, his thick grey eyebrows drawn low and steady.",
+          "@Lam closes his mouth and keeps his hand on her head, gazing out over the glittering rooftops with a firm, quiet jaw."
+        ],
+        "sfx": "a soft breeze rustling potted leaves, a distant traffic hum, crickets"
+      },
+      {
+        "id": "17.4",
+        "chars": ["@Mai", "@Lam"],
+        "speaker": "@Mai",
+        "line": "Hưng livestream mỗi tối, có hai triệu người xem, nó thích khoe khoang hơn cả thích tiền.",
+        "camera": "50mm medium shot, slow dolly-in on @Mai",
+        "continuity": "continuous",
+        "beats": [
+          "@Mai lifts her phone, its screen glowing blank, and speaks quickly with a sniff, tapping its edge with one finger.",
+          "@Mai keeps speaking and holds the phone up high in a showy livestreamer pose, rolling her eyes with a wry twist of her lips.",
+          "@Mai stops and closes her mouth, lowering the phone, while @Lam turns his head sharply toward her with his eyebrows rising."
+        ],
+        "sfx": "a phone buzzing faintly, the night breeze, distant horns"
+      },
+      {
+        "id": "17.5",
+        "chars": ["@Lam"],
+        "speaker": "NARRATOR",
+        "line": "Ông Lâm khựng lại, rồi bật cười, đôi mắt mờ đục của ông bỗng sáng lên như ba mươi năm trước.",
+        "camera": "85mm close-up, slow push-in to his eyes",
+        "continuity": "cut",
+        "beats": [
+          "The steel water tank and potted plants on the rooftop glint under warm city light, the glowing lake shimmering beyond the sea of tiled roofs.",
+          "@Lam freezes on his stool, then his shoulders begin to shake with a silent closed-mouth laugh, his thick grey eyebrows lifting.",
+          "@Lam's narrow eyes, even the cloudy left one, light up with a sharp sparkle reflecting the city lights as a sly grin spreads with lips closed."
+        ],
+        "sfx": "a soft breathy laugh through the nose, wind chimes tinkling, distant traffic"
+      },
+      {
+        "id": "17.6",
+        "chars": ["@Lam", "@Mai"],
+        "speaker": "@Lam",
+        "line": "Thế thì mình để chính cái miệng nó tự khai, trước mặt hai triệu người, con ạ.",
+        "camera": "35mm medium two-shot, slow lateral track",
+        "continuity": "cut",
+        "beats": [
+          "The sea of tiled roofs glitters with warm city lights under the night sky, the lake glowing in the distance beyond the potted plants.",
+          "@Lam turns to @Mai with a sly glint and speaks low and steady, tapping his own lips with one finger and then pointing out at the city.",
+          "@Lam closes his mouth and nods once, while @Mai straightens her round glasses and breaks into a slow closed-lip grin."
+        ],
+        "sfx": "the night breeze, a far-off train horn, wind chimes tinkling"
+      }
+    ]
+  },
+  {
+    "num": 18,
+    "title": "Ổ Cứng Cải Lương",
+    "time_label": "09:00 Sáng (17:00–18:00)",
+    "location": "Trước cổng đồn công an phường trên con phố rợp bóng cây.",
+    "axis": "Cổng sắt và tường vàng bên trái khung hình, gốc cây và xe máy ông Lâm bên phải; bà Hoa và ông Khoa đứng bên trái, ông Lâm bên phải.",
+    "props": "Chiếc xe máy cũ màu kem đèn tròn mạ crôm, mũ cối xanh sờn, chiếc đài gỗ Liên Xô cũ kẹp dưới nách ông Khoa, mũ rộng vành đen, quạt nan.",
+    "setting": "Morning at the front gate of a ward police station on a leafy street: mustard-yellow walls, an open iron gate, a tall tree, parked motorbikes.",
+    "clips": [
+      {
+        "id": "18.1",
+        "chars": ["@BaHoa"],
+        "speaker": "NARRATOR",
+        "line": "Sáng hôm sau, cánh cổng đồn công an phường mở ra, bà Hoa bước ra, son môi vẫn đỏ chót.",
+        "camera": "28mm wide shot, slow dolly-back from the gate",
+        "continuity": "cut",
+        "beats": [
+          "Morning sunlight filters through a tall tree onto the mustard-yellow walls of the ward police station, the iron gate standing open and motorbikes parked along the curb.",
+          "@BaHoa strolls out through the open gate in her wide-brimmed black hat and purple floral blouse, her red lipstick bright and perfect.",
+          "@BaHoa stops on the pavement, stretches her arms lazily toward the sky and fans her face with one hand, lips closed in a pleased smile."
+        ],
+        "sfx": "birds chirping in the tree, an iron gate creaking, morning street traffic"
+      },
+      {
+        "id": "18.2",
+        "chars": ["@BaHoa", "@Lam"],
+        "speaker": "@BaHoa",
+        "line": "Tôi chỉ nói chuyện đầu tư, có cầm của ai đồng nào đâu mà giữ được tôi hả ông!",
+        "camera": "50mm medium two-shot, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "The old cream-colored step-through motorbike with a round chrome headlamp stands parked under the tall tree outside the mustard-yellow police station wall.",
+          "@BaHoa walks up to @Lam waiting beside the motorbike and speaks with a brassy laugh in her voice, flicking her fingers open to show empty palms.",
+          "@BaHoa closes her red lips with a proud sniff, while @Lam, in his battered green pith helmet, shakes his head with a quiet closed-lip chuckle."
+        ],
+        "sfx": "birds chirping, leaves rustling, a passing motorbike"
+      },
+      {
+        "id": "18.3",
+        "chars": ["@Khoa", "@Lam"],
+        "speaker": "@Khoa",
+        "line": "Cái ổ cứng thằng Béo lấy chỉ là ổ giả, trong đó toàn băng cải lương của tôi thôi.",
+        "camera": "85mm over-the-shoulder shot past @Lam onto @Khoa, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "Parked motorbikes line the leafy street beside the open iron gate, sunlight dappling the mustard-yellow wall through the leaves of the tall tree.",
+          "@Khoa, with an old wooden Soviet-era radio tucked under one arm, leans toward @Lam and speaks in a dry deadpan voice, wagging one finger.",
+          "@Khoa closes his mouth and adjusts the magnifier glasses on his forehead, while @Lam stares at him with his thick grey eyebrows raised."
+        ],
+        "sfx": "tree leaves rustling, a distant scooter horn, sparrows chirping"
+      },
+      {
+        "id": "18.4",
+        "chars": ["@Lam", "@Khoa"],
+        "speaker": "@Lam",
+        "line": "Thế ổ thật ông giấu ở đâu? Đừng bảo là ông lại nhét vào cái đài Liên Xô nhé.",
+        "camera": "50mm medium two-shot, slow arc around them",
+        "continuity": "continuous",
+        "beats": [
+          "@Lam squints at @Khoa and speaks with a dry, suspicious smile, tilting his head toward the wooden radio under @Khoa's arm.",
+          "@Lam keeps speaking, pointing one finger at the old wooden Soviet-era radio and narrowing his calm eyes under the battered green pith helmet.",
+          "@Lam closes his mouth and folds his arms, waiting, as @Khoa hugs the radio a little tighter against his ribs."
+        ],
+        "sfx": "leaves rustling, birds chirping, a motorbike puttering past"
+      },
+      {
+        "id": "18.5",
+        "chars": ["@Khoa", "@Lam"],
+        "speaker": "NARRATOR",
+        "line": "Ông Khoa nháy mắt, vỗ vỗ chiếc đài gỗ cũ kẹp dưới nách, bên trong là toàn bộ bằng chứng thật.",
+        "camera": "85mm close-up, slow tilt-down from his face to the radio",
+        "continuity": "continuous",
+        "beats": [
+          "@Khoa gives @Lam a slow exaggerated wink, lips pressed shut, the morning sun gleaming on his bald crown.",
+          "@Khoa pats the old wooden Soviet-era radio under his arm twice with his long fingers, its woven speaker cloth and worn knobs catching the light.",
+          "@Lam's thick eyebrows rise slowly into a closed-lip grin, as @Khoa taps the side of his nose with one finger."
+        ],
+        "sfx": "two hollow knocks on wood, sparrows chirping, a soft breeze"
+      },
+      {
+        "id": "18.6",
+        "chars": ["@BaHoa"],
+        "speaker": "NARRATOR",
+        "line": "Bà Hoa nheo mắt cười, lần này, đến lượt Hưng bị bộ ba già dắt mũi.",
+        "camera": "50mm medium shot, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "The tall tree sways over the open iron gate of the police station, sunlight sparkling through its leaves onto the mustard-yellow wall.",
+          "@BaHoa narrows her sharp eyes under her wide-brimmed black hat and curls her red lips into a sly closed smile, gold hoop earrings swinging.",
+          "@BaHoa flicks open a woven bamboo hand fan with a snap and fans herself slowly, eyes glinting toward the city like a tiger eyeing its next meal."
+        ],
+        "sfx": "a fan snapping open, birds chirping, rustling leaves, distant traffic"
+      }
+    ]
+  }
+]

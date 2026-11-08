@@ -44,7 +44,7 @@
 
 | Tập | Tỉnh / Thành Phố | Chủ Đề & Danh Thắng Trọng Điểm | Thời Lượng | Thư Mục Chi Tiết |
 |:---:|---|---|:---:|:---:|
-| **Tập 1** | **Hà Giang** | Cột Cờ Lũng Cú → Đèo Tam Giác Mạch → Phố Cổ Đồng Văn (Bánh Cuốn Trứng) → Đèo Mã Pí Lèng → Hẻm Tu Sản & Sông Nho Quế → Làng Pả Vi (Trâu Gác Bếp & Thắng Cố) → Hoàng Hôn Mèo Vạc | 7 clips (70s) | [tap1-ha-giang](tap1-ha-giang/README.md) |
+| **Tập 1** | **Hà Giang** | Bình Minh Cột Mốc Km 0 Hà Giang → Dinh Vua Mèo Sà Phìn & Tiếng Khèn Mông → Leo Bậc Đá Núi Rồng → Lá Cờ Trên Đỉnh Cột Cờ Lũng Cú → Bánh Cuốn Trứng Phố Cổ Đồng Văn → Mã Pí Lèng Nhìn Xuống Sông Nho Quế & Hẻm Tu Sản (Con Đường Hạnh Phúc) → Hoàng Hôn Trên Đèo, Hẹn Cao Bằng | 7 clips (70s) | [tap1-ha-giang](tap1-ha-giang/README.md) |
 | **Tập 2** | **Cao Bằng** | Thác Bản Giốc & Sông Quây Sơn → Bè Tre Chân Thác → Phở Vịt Quay 7 Vị Trùng Khánh → Suối Lê Nin & Pác Bó → Bánh Áp Chao Giòn Rụm → Hoàng Hôn Đèo Mã Phục | 6 clips (60s) | [tap2-cao-bang](tap2-cao-bang/README.md) |
 | **Tập 3** | **Bắc Kạn** | Biển Mây Đỉnh Đồn Đèn (05:55) → Thuyền Qua Đảo Bà Góa (08:35) → Ao Tiên & Cá Kẹp Nẹp Tre (09:30) → Động Puông, Sông Năng (10:20) → Tôm Chua Ăn Kèm Ba Chỉ Trên Hiên Nhà Sàn (12:30) → Hoàng Hôn Giữa Hồ Quanh Đảo An Mạ (16:50) → Đêm Rằm Bên Bếp Lửa: Bánh Pẻng Phạ & Đàn Tính (19:30) | 7 clips (70s) | [tap3-bac-kan](tap3-bac-kan/README.md) |
 | **Tập 4** | **Lạng Sơn** | Rời Bản Pác Ngòi Trong Sương (07:30) → Vịt Quay Mắc Mật Thất Khê (12:20) → Động Tam Thanh (15:30) → Nàng Tô Thị (16:10) → Hoàng Hôn & Trăng Mười Sáu Trên Cột Cờ Phai Vệ (17:15) → Phở Chua & Khâu Nhục Chợ Đêm Kỳ Lừa (19:15) → Sáng Ải Chi Lăng, Lên Đường Tuyên Quang (08:20 hôm sau) | 7 clips (70s) | [tap4-lang-son](tap4-lang-son/README.md) |

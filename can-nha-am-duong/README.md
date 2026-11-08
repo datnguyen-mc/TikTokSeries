@@ -1,10 +1,11 @@
 # Căn Nhà Âm Dương: Oan Hồn Dưới Gốc Mít (15 Cảnh × 6 Clips × 10s = 15 Phút)
 
-- **Giọng Người Dẫn Chuyện (cố định cả 90 clip):** Vietnamese man about 45, standard Hà Nội accent with clear six tones, firm resonant baritone with a slight rasp, crisp consonants, tense late-night ghost-story delivery at a brisk, steady pace, only tiny breaths at commas, no dragged vowels. Mỗi clip VO dùng **nguyên văn cùng một câu mô tả giọng** để Omni giữ một giọng duy nhất; nhịp ~4 âm tiết/giây.
+- **Giọng Người Dẫn Chuyện (cố định cả 90 clip):** Vietnamese man about 45, standard Hà Nội Northern accent with clear six tones, sharp resonant mid-baritone with crisp consonants, fast and fluent late-night ghost-story delivery in one continuous breath, every word spoken once and clearly, no stutter, no pauses mid-sentence, never slow or sleepy. Mỗi clip VO dùng **nguyên văn cùng một câu mô tả giọng** để Omni giữ một giọng duy nhất; đọc nhanh liên thanh như oan-thai-doi-me, ~4.0 âm tiết/giây, liền một hơi, không ngắt giữa câu.
 - **Thoại nhân vật (Lip-Sync):** clip thoại chỉ mô tả giọng của người nói, không có người dẫn chuyện; mặt và môi người nói luôn thấy rõ.
 - **Mật độ:** 90 clips × 10s — 67 clip VO + 23 clip thoại; lời nói nằm trong khung riêng bắt đầu từ 0.4s (xem cột *Khung thoại*).
-- **Cách tạo trên Flow (runner tự chọn):** 33 clip nối khung cuối (Frames), 56 clip ảnh nhân vật (Ingredients), 1 clip chỉ text.
-- **Hậu kỳ runner:** `atempo` tăng tốc giọng chỉ áp dụng cho clip VO; clip lip-sync giữ nguyên tốc độ để khớp khẩu hình.
+- **Cách tạo trên Flow (runner tự chọn):** 33 clip nối khung cuối (Frames — cùng bối cảnh, không có nhân vật mới), 56 clip ảnh nhân vật (Ingredients), 1 clip chỉ text. Tắt nối khung: `FLOWKIT_CHAIN_LAST_FRAME=0`.
+- **Hậu kỳ runner:** clip VO được tăng tốc giọng thêm 1.18x khi tải về (`FLOWKIT_VOICE_TEMPO` mặc định 1.18, đặt 1.0 để tắt), giữ nguyên khung hình 10s; clip lip-sync không bao giờ bị tăng tốc để khớp khẩu hình.
+- **Màu phim & ánh sáng:** Low-key horror lighting: flickering amber oil-lamp and incense light against cold cyan-green moonlight and midnight-blue shade; daylight stays muted and desaturated.
 - **Nguồn dữ liệu:** `PHAN_CANH_OMNI.json` → `python3 flowkit/scripts/build_omni_horror_prompts.py can-nha-am-duong` sinh lại toàn bộ clip, README, kịch bản.
 
 ## Danh Sách 15 Cảnh (90 Clips × 10s)

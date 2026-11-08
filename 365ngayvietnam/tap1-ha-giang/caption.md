@@ -1,17 +1,28 @@
-# Caption · 365 Ngày Việt Nam · Tập 1: Hà Giang — Cực Bắc Hùng Vĩ & Hương Vị Đá Nở Hoa
+# Caption · 365 Ngày Việt Nam · Tập 1: Hà Giang — Ngày Đầu Tiên Ở Địa Đầu
 
 > Dán khối **Caption** vào ô mô tả khi đăng TikTok. Tối đa 5 hashtag: từ giữa năm 2025 TikTok báo lỗi khi thêm hashtag thứ sáu. Kịch bản tập: [README.md](README.md).
 
 ## Caption
 
 ```text
-Ngày đầu tiên trong hành trình 365 Ngày Việt Nam của Vy và Joi tại mảnh đất Cực Bắc Hà Giang! Cùng tụi mình nếm trọn vị bánh cuốn trứng lòng đào béo ngậy và đắm chìm trong vẻ đẹp ngoạn mục của Đèo Mã Pí Lèng nha cả nhà ơi! Ngày mai hẹn gặp lại ở Thác Bản Giốc - Cao Bằng nhé! 🇻🇳🏍️✨
+Ngày 1/365: từ Km 0 Hà Giang, hành trình xuyên Việt bắt đầu! 🇻🇳
 
-#365ngayvietnam #HaGiang #MaPiLeng #VyvaJoi #xuyenviet
+Vy và Joi đi trọn một ngày ở địa đầu: Dinh Vua Mèo giữa thung lũng Sà Phìn, leo bậc đá Núi Rồng lên Cột Cờ Lũng Cú, ăn bánh cuốn trứng ở Phố Cổ Đồng Văn, rồi đứng trên Mã Pí Lèng nhìn Sông Nho Quế xanh ngọc dưới Hẻm Tu Sản.
+
+📌 Lá cờ trên Cột Cờ Lũng Cú rộng 54 m², tượng trưng cho 54 dân tộc anh em.
+📌 Cao nguyên đá Đồng Văn là Công viên địa chất toàn cầu UNESCO.
+📌 Con Đường Hạnh Phúc qua Mã Pí Lèng do thanh niên xung phong và đồng bào địa phương mở từ năm 1959 đến 1965, nhiều đoạn đục đá bằng tay.
+📌 Bánh cuốn trứng Đồng Văn chấm bát nước dùng xương nóng, ngon nhất vào buổi sáng.
+📌 Leo Lũng Cú nhớ đi chậm và mang áo gió, trên đỉnh gió rất mạnh.
+
+Nếu đi xuyên Việt, bạn sẽ bắt đầu từ Cực Bắc hay từ Mũi Cà Mau? 👇
+Chặng sau: Cao Bằng, nghe bảo có một thác nước rất to 😉
+
+#365ngayvietnam #xuyenviet #HaGiang #LungCu #MaPiLeng
 ```
 
 ## Bình luận ghim
 
 ```text
-Lịch trình: Cột Cờ Lũng Cú · đèo tam giác mạch · bánh cuốn trứng Đồng Văn · Mã Pí Lèng · thuyền Nho Quế · trâu gác bếp, thắng cố · hoàng hôn Mèo Vạc
+Lộ trình ngày 1: Km 0 Hà Giang · Dinh Vua Mèo · bậc đá Núi Rồng · Cột Cờ Lũng Cú · bánh cuốn trứng Đồng Văn · Mã Pí Lèng & Sông Nho Quế · hoàng hôn trên đèo
 ```

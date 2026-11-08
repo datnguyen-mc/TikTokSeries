@@ -1,0 +1,1691 @@
+{
+  "series": "ma-da-dam-sen",
+  "title": "Ma Da Đầm Sen: Lời Nguyền Tháng Bảy",
+  "style": "Photorealistic live-action Vietnamese atmospheric mystery drama film set in a Northern Vietnamese lotus-pond village in the seventh lunar month; gritty grade with deep charcoal-black shadows, murky jade-green water, wet earth browns and pale lotus pinks, natural skin texture, subtle 35mm film grain.",
+  "lighting": "Low-key cinematic mystery lighting: flickering amber oil-lamp, candle and incense light against cold cyan-green moonlight on black water and midnight-blue shade; daylight stays muted, hazy and desaturated.",
+  "narrator": {
+    "voice": "Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, sharp resonant mid-baritone with crisp consonants, fluent late-night ghost-story delivery in one continuous breath, every word spoken once and clearly, no stutter, no repeated words",
+    "rate": 4.0
+  },
+  "characters": {
+    "@Ngan": {
+      "name": "Ngân",
+      "anchor": "Ngân, 26, young literature teacher from the city; slim, straight black hair tied low at the neck, calm determined eyes; cream short-sleeve blouse, dark-brown trousers, flat sandals, small cloth shoulder bag.",
+      "voice": "woman of 26, strictly standard Hà Nội strictly standard Hà Nội Northern accent (never Southern accent) (never Southern accent), clear warm mezzo, steady but breathless with fear, speaking at a brisk, urgent, fast-clipped pace, every word spoken once clearly without stutter",
+      "rate": 4.0
+    },
+    "@Khoi": {
+      "name": "Khôi",
+      "anchor": "Khôi, 19, Ngân's younger brother, university student home for summer; lanky, short tousled black hair, pale tired face; faded navy T-shirt, grey shorts, white plastic honeycomb sandals.",
+      "voice": "young man of 19, strictly standard Hà Nội strictly standard Hà Nội Northern accent (never Southern accent) (never Southern accent), light tenor, shaky and breathless, speaking at a brisk, urgent, fast-clipped pace, every word spoken once clearly without stutter",
+      "rate": 4.0
+    },
+    "@BaHanh": {
+      "name": "Bà Hạnh",
+      "anchor": "Bà Hạnh, 74, their grandmother; small and stooped, silver hair in a low bun under a black velvet headband, deep-lined gentle face; brown Northern village blouse, black trousers, wooden prayer beads on her wrist.",
+      "voice": "old woman of 74, strictly standard Hà Nội Northern accent (never Southern accent), soft raspy voice trembling with worry, speaking at a brisk, urgent pace, every word spoken once clearly without stutter",
+      "rate": 3.8
+    },
+    "@OngLy": {
+      "name": "Ông Lý",
+      "anchor": "Ông Lý, 72, the former village chief; tall and gaunt, slicked-back grey hair, hard narrow eyes; faded olive-green collared jacket over a white undershirt, dark trousers, carved wooden walking cane.",
+      "voice": "man of 72, strictly standard Hà Nội Northern accent (never Southern accent), deep stern gravelly baritone, speaking at a brisk, clipped pace, every word spoken once clearly without stutter",
+      "rate": 3.8
+    },
+    "@CoTham": {
+      "name": "Thắm (vong)",
+      "anchor": "the mysterious young woman of the lotus pond from thirty years ago: pale wet skin, long soaked black hair with lotus stems, dark sorrowful eyes; soaked plain white Northern village blouse and black trousers, barefoot.",
+      "voice": "young woman's cold breathy whisper, strictly standard Hà Nội Northern accent (never Southern accent), faint watery echo, speaking at a brisk pace, every word spoken once clearly without stutter",
+      "rate": 3.8
+    },
+    "@ThamXua": {
+      "name": "Thắm (thuở sinh thời)",
+      "anchor": "Thắm when alive, a slim 19-year-old orphan village girl; long black hair in a single braid, frightened dark eyes; plain plain white Northern village blouse and black trousers, barefoot.",
+      "voice": "young woman of 19, strictly standard Hà Nội Northern accent (never Southern accent), clear trembling voice, pleading, speaking at a brisk, urgent pace, every word spoken once clearly without stutter",
+      "rate": 4.0
+    }
+  },
+  "scenes": [
+    {
+      "num": 1,
+      "title": "Đầm Sen Đầu Làng & Bóng Áo Trắng Lúc Chạng Vạng",
+      "time_label": "18:00 Chạng vạng đầu tháng bảy âm lịch (00:00–01:00)",
+      "location": "Con đê đất nhỏ chạy dọc đầm sen mênh mông đầu làng Hạ Liên lúc chạng vạng.",
+      "axis": "Axis along the earthen embankment path with the vast lotus pond on screen-left and the village gate ahead.",
+      "props": "Wheeled suitcase, cloth shoulder bag, lotus leaves and pink lotus flowers, wet bare footprints on the dry path.",
+      "setting": "Dusk in the seventh lunar month: a narrow earthen embankment path along a vast lotus pond at the edge of a Northern Vietnamese village, tall lotus leaves, a bamboo hedge and tiled roofs in the distance.",
+      "clips": [
+        {
+          "id": "01.1",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Làng Hạ Liên có đầm sen đẹp nhất vùng, nhưng cứ vào tháng bảy âm lịch, đầm lại đòi đúng một mạng người.",
+          "camera": "24mm aerial drone slow descending glide",
+          "continuity": "cut",
+          "beats": [
+            "High aerial view of a vast lotus pond at dusk, thousands of round lotus leaves rippling in a cold wind beside a small village of tiled roofs.",
+            "The drone glides low over the dark water between pink lotus flowers as the last orange light fades and mist rises from the surface.",
+            "The camera settles above a narrow earthen embankment path that runs along the pond toward the village gate."
+          ],
+          "sfx": "wind sweeping across lotus leaves, frogs croaking, a distant temple bell"
+        },
+        {
+          "id": "01.2",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân, cô giáo trẻ dạy ở thành phố, bỏ dở kỳ nghỉ hè để về quê vì bà nội gọi điện, giọng run như sắp khóc.",
+          "camera": "35mm stabilized gimbal side-tracking shot",
+          "continuity": "cut",
+          "beats": [
+            "Side-tracking view along the narrow earthen embankment path beside the vast lotus pond at dusk, tall lotus leaves swaying in the fading light with no person in the opening frames.",
+            "@Ngan enters the frame walking briskly along the embankment path pulling a small wheeled suitcase, glancing at the dark water as her free hand tightens on her cloth shoulder bag.",
+            "@Ngan slows her steps as a cold gust bends the tall lotus leaves toward the path."
+          ],
+          "sfx": "suitcase wheels rattling on dry earth, wind through lotus leaves"
+        },
+        {
+          "id": "01.3",
+          "chars": [
+            "@CoTham"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Giữa đầm sen mịt mù sương, có một cô gái áo trắng đứng ngập nước đến ngang hông, im lìm nhìn về phía cô.",
+          "camera": "85mm telephoto locked-off shot over the shoulder",
+          "continuity": "cut",
+          "beats": [
+            "Wide view across the misty lotus pond at dusk, dense green lotus leaves swaying over dark water.",
+            "Far out in the middle of the lotus pond, @CoTham stands waist-deep in the dark water among tall lotus stems, her long wet black hair hanging over her face.",
+            "@CoTham stands motionless in the misty water far from the bank, facing toward the shore."
+          ],
+          "sfx": "a low wind, water lapping, the croaking of frogs suddenly stopping"
+        },
+        {
+          "id": "01.4",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "@Ngan",
+          "line": "Này em ơi, trời tối rồi, sao còn đứng giữa đầm thế kia? Lên bờ đi, nguy hiểm lắm!",
+          "camera": "50mm medium close-up slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "The narrow dirt embankment road beside the misty lotus pond at dusk, lotus leaves rustling in the breeze.",
+            "@Ngan stands on the dirt embankment beside her suitcase, cupping one hand to her mouth and calling out toward the middle of the pond.",
+            "@Ngan lowers her hand and peers anxiously across the darkening water."
+          ],
+          "sfx": "wind over the water, frogs silent, a faint ripple"
+        },
+        {
+          "id": "01.5",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Chớp mắt một cái, bóng trắng biến mất, chỉ còn những vòng nước loang dần và một bông sen đang khép cánh lại.",
+          "camera": "50mm slow rack focus from the face to the pond",
+          "continuity": "continuous",
+          "beats": [
+            "@Ngan stares out at the pond, her eyes widening.",
+            "The focus shifts past her shoulder to the empty spot among the lotus leaves where slow rings of ripples spread across the black water.",
+            "A single pink lotus flower slowly folds its petals closed as the ripples fade."
+          ],
+          "sfx": "faint water dripping, a soft hollow plop, then silence"
+        },
+        {
+          "id": "01.6",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Và khi cô quay lại, trên con đường đất khô ráo phía trước, một hàng dấu chân trần ướt sũng đang dẫn thẳng về làng.",
+          "camera": "28mm low-angle tracking shot along the path",
+          "continuity": "continuous",
+          "beats": [
+            "@Ngan turns back toward the embankment path ahead.",
+            "Low on the dry earthen path, a trail of wet bare footprints glistens in the dusk, leading away from the pond toward the village.",
+            "@Ngan grips her suitcase handle, staring down at the dark wet prints as the camera holds low on the path."
+          ],
+          "sfx": "a cold wind, water dripping from lotus leaves, quick shallow breathing"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Bữa Cơm Tối & Lời Dặn Của Bà Hạnh",
+      "time_label": "19:30 Tối tại nhà bà Hạnh (01:00–02:00)",
+      "location": "Căn nhà ngói ba gian của bà Hạnh, cửa mở nhìn ra sân gạch và đầm sen tối om.",
+      "axis": "Axis from the ancestral altar through the open wooden doors to the brick yard and the black pond beyond.",
+      "props": "Oil lamp, ancestral altar with incense, low wooden dining tray on a bamboo mat, rice bowls, prayer beads.",
+      "setting": "Evening: inside Bà Hạnh's old three-room tiled house — a low wooden dining tray on a bamboo mat, an ancestral altar with incense and an oil lamp, wooden doors open to a brick yard and the black lotus pond beyond.",
+      "clips": [
+        {
+          "id": "02.1",
+          "chars": [
+            "@BaHanh",
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Bà Hạnh ngoài bảy mươi, sống với đứa cháu trai út, và từ đầu tháng bảy, đêm nào bà cũng thắp hương ra phía đầm.",
+          "camera": "35mm medium two-shot slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Slow push-in toward the open wooden doorway of the old three-room tiled house at evening, warm amber oil-lamp light glowing against the dark brick yard.",
+            "In the dim doorway, @BaHanh holds a small oil lamp as @Ngan steps inside with her suitcase; @BaHanh takes @Ngan's hand and glances past her toward the dark pond.",
+            "@BaHanh turns to the ancestral altar, lifting three lit incense sticks toward the open door."
+          ],
+          "sfx": "crickets, the crackle of the oil lamp wick, a dog barking far away"
+        },
+        {
+          "id": "02.2",
+          "chars": [
+            "@BaHanh",
+            "@Ngan"
+          ],
+          "speaker": "@BaHanh",
+          "line": "Con về là bà mừng rồi. Nhớ lời bà, tháng bảy này tối đến tuyệt đối không được bén mảng ra gần đầm sen.",
+          "camera": "50mm over-the-shoulder shot",
+          "continuity": "continuous",
+          "beats": [
+            "Over @Ngan's shoulder, @BaHanh speaks close to her granddaughter, the oil lamp lighting her deep-lined face.",
+            "@BaHanh squeezes @Ngan's wrist, her eyes darting toward the open door.",
+            "@BaHanh falls silent, her mouth closing, prayer beads still in her fingers."
+          ],
+          "sfx": "incense crackling, crickets, wind moving the wooden door"
+        },
+        {
+          "id": "02.3",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Khôi, cậu em mười chín tuổi, cười xòa bảo bà lẩm cẩm, nhưng cả tuần nay đêm nào cậu cũng mơ thấy mình đang chìm.",
+          "camera": "35mm wide static shot of the dining mat",
+          "continuity": "cut",
+          "beats": [
+            "Wide static view of the woven bamboo mat and low wooden dining tray with steaming bowls under warm oil-lamp light inside the quiet old house.",
+            "The camera frames @Khoi sitting cross-legged at the low dining tray, grinning toward his sister off-frame as he scoops rice into his bowl with a slight tremor in his hand.",
+            "@Khoi's smile fades as he sets the chopsticks down and rubs the dark shadows under his eyes."
+          ],
+          "sfx": "chopsticks tapping bowls, crickets outside, a soft laugh"
+        },
+        {
+          "id": "02.4",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "@Khoi",
+          "line": "Chị đừng tin bà, chuyện ma da bắt người chỉ là chuyện người lớn dọa trẻ con cho khỏi đi tắm đầm thôi.",
+          "camera": "50mm medium close-up, static",
+          "continuity": "continuous",
+          "beats": [
+            "Medium close-up of @Khoi talking with a lopsided grin, chopsticks in hand.",
+            "@Khoi shrugs, still talking, though his eyes flick toward the dark doorway behind his sister.",
+            "@Khoi looks down at his bowl, his grin gone."
+          ],
+          "sfx": "crickets, a moth tapping against the oil lamp"
+        },
+        {
+          "id": "02.5",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân để ý thấy cổ chân Khôi có một vệt bầm tím, hằn rõ như vết ngón tay ai đó vừa nắm chặt.",
+          "camera": "100mm macro insert shot, slow tilt",
+          "continuity": "continuous",
+          "beats": [
+            "Extreme close-up of @Khoi's bare ankle resting on the bamboo mat in the lamplight.",
+            "The camera slowly tilts along the ankle, revealing a dark purple bruise shaped like five long fingers wrapped around the skin.",
+            "A single drop of water falls from the ankle onto the mat."
+          ],
+          "sfx": "a slow drip, crickets, a sudden hush"
+        },
+        {
+          "id": "02.6",
+          "chars": [
+            "@BaHanh"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Bà Hạnh nhìn vết bầm, mặt cắt không còn giọt máu, rồi lặng lẽ châm thêm ba nén hương hướng ra phía đầm sen.",
+          "camera": "35mm slow pull-back from the altar to the open door",
+          "continuity": "cut",
+          "beats": [
+            "Slow pull-back from the ancestral altar where incense smoke curls upward in the warm oil-lamp glow toward the open wooden doorway.",
+            "@BaHanh steps up to the altar with prayer beads in her fingers, lights three incense sticks with trembling hands and turns toward the open doorway.",
+            "The camera settles framing @BaHanh in the doorway as incense smoke drifts out toward the dark pond."
+          ],
+          "sfx": "incense crackle, wind, a distant splash from the pond"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Tiếng Gọi Tên Lúc Nửa Đêm",
+      "time_label": "00:30 Nửa đêm đầu tiên (02:00–03:00)",
+      "location": "Buồng sau có màn tuyn, sân gạch dưới trăng và mép đầm sen.",
+      "axis": "Axis from the barred bedroom window across the moonlit yard to the edge of the black pond.",
+      "props": "Mosquito-net bed, barred wooden window, moonlit brick yard, lotus leaves at the water's edge, floating black hair.",
+      "setting": "Deep night: a back bedroom with a mosquito-net bed and a barred wooden window facing the lotus pond, a single blue shaft of moonlight.",
+      "clips": [
+        {
+          "id": "03.1",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Nửa đêm, Khôi choàng tỉnh vì nghe ngoài đầm có giọng con gái gọi tên mình, ngọt ngào và ướt át như vừa ngoi lên.",
+          "camera": "35mm static medium shot through the mosquito net",
+          "continuity": "cut",
+          "beats": [
+            "Static medium view of the dark back bedroom at night, a single shaft of cold blue moonlight falling through the barred wooden window onto the white mosquito net.",
+            "Through the white mosquito net, @Khoi lies on the bed; his eyes open suddenly and he lifts his head toward the barred window, listening.",
+            "@Khoi sits up slowly inside the mosquito net, his face turned toward the moonlit window."
+          ],
+          "sfx": "a faint distant girl's voice humming over water, crickets, the creak of the bed"
+        },
+        {
+          "id": "03.2",
+          "chars": [
+            "@CoTham"
+          ],
+          "speaker": "@CoTham",
+          "line": "Khôi ơi, dưới đầm mát lắm, xuống đây với em đi. Em đợi anh lâu lắm rồi, lạnh lắm Khôi ơi.",
+          "camera": "85mm telephoto locked-off shot across the pond",
+          "continuity": "cut",
+          "beats": [
+            "Telephoto view across the misty lotus pond under cold moonlight, silver ripples moving gently between dark lotus leaves with no person in the opening frames.",
+            "Among the tall lotus stems, @CoTham appears waist-deep in the water, lifting her pale face toward the house and whispering softly.",
+            "@CoTham extends one pale hand palm-up toward the shore as mist drifts past."
+          ],
+          "sfx": "water dripping, a breathy echoing whisper, frogs falling silent",
+          "setting": "Deep night: the black lotus pond under cold moonlight, mist drifting between the leaves."
+        },
+        {
+          "id": "03.3",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Như bị ai giật dây, Khôi bước ra sân, chân trần lạnh ngắt, mắt mở trừng trừng mà không hề chớp lấy một lần.",
+          "camera": "28mm handheld follow shot from behind",
+          "continuity": "cut",
+          "beats": [
+            "Handheld view of the moonlit brick yard outside the open wooden doorway of the old house, mist curling up from the lotus pond at the edge of the yard.",
+            "@Khoi steps barefoot out of the dark doorway into the moonlit brick yard, walking with slow stiff steps straight toward the pond.",
+            "@Khoi reaches the wet grass at the water's edge under the cold moonlight."
+          ],
+          "sfx": "bare feet on cold bricks, crickets, the whisper of lotus leaves",
+          "setting": "Deep night: the moonlit brick yard of the old house leading down to the edge of the black lotus pond, mist on the water."
+        },
+        {
+          "id": "03.4",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân tỉnh giấc vì tiếng cửa kẽo kẹt, cô lao ra kịp lúc nước đầm đã ngập đến đầu gối em trai mình.",
+          "camera": "24mm wide shot from the water looking back at the shore",
+          "continuity": "cut",
+          "beats": [
+            "Wide view from the misty lotus pond looking back toward the moonlit grassy bank and brick yard, round lotus leaves swaying on the dark water.",
+            "@Khoi stands knee-deep among the lotus leaves as @Ngan runs barefoot down the moonlit bank and splashes into the shallows behind him.",
+            "@Ngan wraps both arms around @Khoi's shoulders from behind, holding him steady in the shallow water."
+          ],
+          "sfx": "splashing water, rapid breathing, frogs croaking",
+          "setting": "Deep night: the moonlit brick yard of the old house leading down to the edge of the black lotus pond, mist on the water."
+        },
+        {
+          "id": "03.5",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "@Ngan",
+          "line": "Khôi! Tỉnh lại đi em! Em đang làm cái gì thế này? Nhìn chị đây này, Khôi!",
+          "camera": "50mm handheld medium two-shot",
+          "continuity": "continuous",
+          "beats": [
+            "Knee-deep in the water, @Ngan turns @Khoi around by the shoulders and shouts into his blank face.",
+            "@Ngan shakes @Khoi gently, her wet hair stuck to her cheeks.",
+            "@Khoi blinks once, slowly, his eyes coming back into focus."
+          ],
+          "sfx": "water sloshing, frogs, a cold wind",
+          "setting": "Deep night: the moonlit brick yard of the old house leading down to the edge of the black lotus pond, mist on the water."
+        },
+        {
+          "id": "03.6",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Khôi chẳng nhớ gì cả, nhưng Ngân thì nhìn rõ, ngay chỗ em vừa đứng, mặt nước nổi lên một nắm tóc dài đen nhánh.",
+          "camera": "35mm slow tilt down from the siblings to the water",
+          "continuity": "continuous",
+          "beats": [
+            "@Ngan guides @Khoi back onto the grassy bank, both of them soaked and shivering in the moonlight.",
+            "The camera tilts down to the dark water where they stood; long dark lotus stems and a strand of black hair drift across the ripples.",
+            "The ripples slowly settle across the dark surface of the pond."
+          ],
+          "sfx": "dripping water, chattering teeth, a low hollow gurgle",
+          "setting": "Deep night: the moonlit brick yard of the old house leading down to the edge of the black lotus pond, mist on the water."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Dấu Chân Ướt & Lá Sen Trên Gối",
+      "time_label": "06:00 Sáng sớm hôm sau (03:00–04:00)",
+      "location": "Buồng sau và sân gạch nhà bà Hạnh trong sương sớm, đầm sen mờ phía xa.",
+      "axis": "Axis from the yard door along the brick floor to the mosquito-net bed.",
+      "props": "Wet small footprints, wet lotus leaf on a pillow, strands of long black hair, stone water jar, coconut-husk brush.",
+      "setting": "Grey early morning: the old house's back bedroom with a mosquito-net bed, its door open to the brick yard, mist lying on the lotus pond beyond.",
+      "clips": [
+        {
+          "id": "04.1",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Sáng hôm sau, từ mép đầm vào tận giường Khôi là một hàng dấu chân trần còn ướt, nhỏ nhắn như chân con gái.",
+          "camera": "24mm low-angle slow dolly along the floor",
+          "continuity": "cut",
+          "beats": [
+            "Low-angle dolly shot along the red-brick floor of the old house in grey early morning light, following a line of wet bare footprints leading in from the open yard door.",
+            "The camera follows the footprints across the bedroom floor as @Ngan walks beside them, looking down closely.",
+            "The footprints end beside the mosquito-net bed; @Ngan stops there and looks at the pillow."
+          ],
+          "sfx": "a rooster crowing far off, dripping water, soft footsteps"
+        },
+        {
+          "id": "04.2",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Trên gối của Khôi là một chiếc lá sen còn đẫm nước, cuống lá quấn mấy sợi tóc dài không phải của ai trong nhà.",
+          "camera": "85mm close-up insert, slow push-in",
+          "continuity": "continuous",
+          "beats": [
+            "@Ngan lifts the edge of the mosquito net.",
+            "On the pillow lies a large wet lotus leaf, its stem wound with several strands of long black hair, water soaking into the cotton.",
+            "@Ngan's fingers hover above the leaf, trembling, without touching it."
+          ],
+          "sfx": "water seeping, a distant rooster, a held breath"
+        },
+        {
+          "id": "04.3",
+          "chars": [
+            "@BaHanh",
+            "@Ngan"
+          ],
+          "speaker": "@BaHanh",
+          "line": "Nó chọn thằng Khôi rồi con ạ. Ba mươi năm nay, tháng bảy nào nó cũng về đòi đúng một người.",
+          "camera": "50mm medium two-shot, static",
+          "continuity": "cut",
+          "beats": [
+            "Static view of the mosquito-net bed in grey morning light, a fresh wet green lotus leaf resting on the pillow beside the open window.",
+            "The camera frames @BaHanh standing beside @Ngan at the bed; @BaHanh looks at the lotus leaf and speaks to @Ngan in a hushed, trembling whisper.",
+            "@BaHanh sits slowly on the edge of the bed, her hands clasped together."
+          ],
+          "sfx": "a soft sob, morning birds, dripping water"
+        },
+        {
+          "id": "04.4",
+          "chars": [
+            "@BaHanh",
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Bà kể, người bị đầm bắt đi năm nào cũng là con cháu mấy nhà sống quanh bờ, và luôn đúng vào đêm rằm.",
+          "camera": "35mm slow arc around the two women",
+          "continuity": "continuous",
+          "beats": [
+            "@Ngan sits beside @BaHanh on the bed edge, holding her grandmother's hands.",
+            "@BaHanh points a shaking finger toward the window and the misty pond beyond.",
+            "@Ngan turns her head to the window, jaw tightening."
+          ],
+          "sfx": "morning birds, wind on the window shutter"
+        },
+        {
+          "id": "04.5",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Khôi ngồi bên chum nước kỳ cọ cổ chân đến rát đỏ, nhưng vết hằn đen sẫm ấy cứ loang dần như mực.",
+          "camera": "50mm medium shot, static",
+          "continuity": "cut",
+          "beats": [
+            "Medium view of an old stone water jar and wooden dipper in the misty brick yard, grey morning mist drifting over the lotus pond beyond the gate.",
+            "@Khoi squats beside the stone water jar, scrubbing his ankle with a coconut-husk brush as water splashes onto the wet bricks.",
+            "@Khoi pauses, looking down at the dark mark on his ankle, breathing fast."
+          ],
+          "sfx": "water splashing, a brush scraping skin, roosters",
+          "setting": "Grey morning: a stone water jar in the brick yard of the old house, mist lying on the lotus pond beyond the gate."
+        },
+        {
+          "id": "04.6",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "@Khoi",
+          "line": "Không phải mơ đâu chị ạ. Đêm qua em thấy rõ cô ấy nắm chân em, tay lạnh như đá.",
+          "camera": "85mm close-up slow push-in",
+          "continuity": "continuous",
+          "beats": [
+            "Close-up of @Khoi looking up from the water jar, water dripping from his hair.",
+            "@Khoi speaks in a low shaking voice, eyes red-rimmed.",
+            "@Khoi swallows hard and looks toward the misty pond."
+          ],
+          "sfx": "dripping water, a far-off cow bell",
+          "setting": "Grey morning: a stone water jar in the brick yard of the old house, mist lying on the lotus pond beyond the gate."
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Ông Lý & Chuyện Ma Da Bắt Thế Mạng",
+      "time_label": "09:00 Sáng tại nhà ông Lý và đình làng (04:00–05:00)",
+      "location": "Hiên nhà gạch cổ của ông Lý, sân đá, rặng tre, đầm sen phía sau; hậu cung đình làng.",
+      "axis": "Axis from the stone courtyard up the porch steps to Ông Lý's carved chair, the pond behind the bamboo hedge.",
+      "props": "Carved wooden chair, porcelain tea set, walking cane, forgotten incense bowl covered in cobwebs.",
+      "setting": "Morning: the front porch of Ông Lý's large old brick house with a tiled roof, potted bonsai and a stone courtyard, the lotus pond visible behind a bamboo hedge.",
+      "clips": [
+        {
+          "id": "05.1",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ông Lý từng làm trưởng thôn hơn hai mươi năm, là người duy nhất trong làng chưa từng có con cháu bị đầm bắt.",
+          "camera": "35mm low-angle static shot",
+          "continuity": "cut",
+          "beats": [
+            "Low-angle view of the front porch of an old brick house with potted bonsai, a carved wooden table and steaming porcelain teapot in muted morning light.",
+            "The camera frames @OngLy sitting upright on a carved wooden chair on the porch, setting down his teacup and looking toward the pond with narrow eyes.",
+            "@OngLy turns his head toward the courtyard gate as footsteps approach."
+          ],
+          "sfx": "birdsong, the clink of a tea cup, a broom sweeping somewhere"
+        },
+        {
+          "id": "05.2",
+          "chars": [
+            "@Ngan",
+            "@OngLy"
+          ],
+          "speaker": "@OngLy",
+          "line": "Ma da thì phải tìm người thế mạng mới được đầu thai. Cô cứ làm mâm cúng, giữ thằng bé trong nhà là xong.",
+          "camera": "50mm over-the-shoulder shot",
+          "continuity": "cut",
+          "beats": [
+            "View across the carved wooden tea table on the porch where steam rises from a small porcelain teapot, the bamboo hedge and lotus pond visible in the background.",
+            "Over @Ngan's shoulder, @OngLy speaks from his chair with a dismissive wave of his hand and pours tea without looking up.",
+            "@OngLy's fingers tighten around the porcelain teacup on the table."
+          ],
+          "sfx": "tea pouring, birds, wind in bamboo"
+        },
+        {
+          "id": "05.3",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân hỏi người chết đuối đầu tiên là ai, tay ông Lý khựng lại, nước trà sóng sánh tràn ra mặt bàn gỗ.",
+          "camera": "100mm macro insert on the tea table",
+          "continuity": "cut",
+          "beats": [
+            "Close view of a weathered wooden table on the porch in grey daylight, a ceramic teapot resting on the wood.",
+            "@OngLy's wrinkled hand sets a small porcelain teacup down hard on the table, amber tea sloshing over the rim.",
+            "@OngLy's fingers grip the teacup tightly as the spilled tea spreads across the dark wood."
+          ],
+          "sfx": "a sharp clink, tea dripping, a crow cawing"
+        },
+        {
+          "id": "05.4",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "@OngLy",
+          "line": "Chuyện từ đời nào rồi! Cô về nghỉ đi, đừng hỏi han chuyện cũ nữa!",
+          "camera": "85mm close-up, static",
+          "continuity": "continuous",
+          "beats": [
+            "Close-up of @OngLy rising from his chair, face rigid, eyes avoiding the camera.",
+            "@OngLy speaks sharply, his jaw working, a vein standing out at his temple.",
+            "@OngLy turns away toward his front door, leaning on his cane."
+          ],
+          "sfx": "the chair scraping, wind in bamboo, a door creaking"
+        },
+        {
+          "id": "05.5",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Trên đường về, Ngân đi qua đình làng, thấy sau hậu cung có một bát hương nhỏ không tên, bị bỏ mặc phủ đầy mạng nhện.",
+          "camera": "28mm slow push-in through the temple gate",
+          "continuity": "cut",
+          "beats": [
+            "Slow push-in through the mossy stone gate of the old village communal temple in late morning light, red wooden pillars and quiet courtyard ahead.",
+            "@Ngan walks through the temple courtyard into the dusty back shrine room, stopping before a small forgotten incense bowl covered in cobwebs on a low shelf.",
+            "@Ngan reaches out and gently brushes the cobwebs from the incense bowl."
+          ],
+          "sfx": "temple wind chimes, pigeons cooing, dust settling",
+          "setting": "Late morning: the old village communal temple with red pillars and a tiled roof, its quiet back shrine room full of dust and cobwebs."
+        },
+        {
+          "id": "05.6",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Cụ thủ từ bảo, đó là bát hương của con bé Thắm mồ côi, người ba mươi năm trước bị cả làng gọi là kẻ trộm.",
+          "camera": "50mm medium close-up, slow rack focus",
+          "continuity": "continuous",
+          "beats": [
+            "@Ngan kneels before the cleaned incense bowl and lights a single incense stick.",
+            "Focus shifts from @Ngan's face to the thin smoke, which bends sideways and drifts toward the open temple door as if pulled by a draft.",
+            "@Ngan turns to follow the smoke with her eyes, toward the distant pond."
+          ],
+          "sfx": "incense hiss, wind chimes, a sudden cold gust",
+          "setting": "Late morning: the old village communal temple with red pillars and a tiled roof, its quiet back shrine room full of dust and cobwebs."
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Mâm Cúng Bên Bờ Đầm & Những Ngọn Nến Tắt",
+      "time_label": "21:00 Tối (05:00–06:00)",
+      "location": "Bờ cỏ của đầm sen về đêm, mâm cúng trên chiếu cói với vòng nến trắng.",
+      "axis": "Axis from the offering tray on the bank straight out across the black water.",
+      "props": "Offering tray with rice and boiled chicken, ring of white candles, white paper clothes, incense, flashlight.",
+      "setting": "Night: the grassy bank of the lotus pond, a low offering tray on a straw mat with rice, boiled chicken, white paper clothes and a ring of white candles, black water beyond.",
+      "clips": [
+        {
+          "id": "06.1",
+          "chars": [
+            "@BaHanh"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Tối đó, bà Hạnh bày mâm cúng ngay bờ đầm, có cả bộ quần áo giấy trắng, khấn xin cho cháu mình được tha.",
+          "camera": "24mm wide static shot from the water",
+          "continuity": "cut",
+          "beats": [
+            "Wide view across the dark water toward the grassy bank at night, where a low offering tray with rice and a circle of lit white candles glows on a straw mat.",
+            "On the bank behind the ring of candles, @BaHanh kneels on the straw mat and bows three times with joined palms and lit incense sticks.",
+            "@BaHanh places a folded set of white paper clothes beside the water's edge."
+          ],
+          "sfx": "candle flames fluttering, crickets, frogs, a soft murmured prayer"
+        },
+        {
+          "id": "06.2",
+          "chars": [
+            "@BaHanh",
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân đứng sau lưng bà, tay cầm chiếc đèn pin, và cô đếm được mười hai ngọn nến đang cháy đều trong gió lặng.",
+          "camera": "35mm medium shot, slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Slow push-in on the ring of lit white candles and incense sticks burning on the straw mat at the edge of the dark lotus pond at night.",
+            "The camera tilts up to frame @BaHanh kneeling in prayer with @Ngan standing behind her holding a flashlight, watching the candle flames.",
+            "@Ngan lifts her gaze from the candles toward the dark lotus pond."
+          ],
+          "sfx": "dead calm, a single cricket, candle wicks sizzling"
+        },
+        {
+          "id": "06.3",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Rồi từng ngọn nến tắt phụt, lần lượt từ phía gần nước nhất, như có ai đang bước từ dưới đầm lên bờ.",
+          "camera": "50mm low-angle close tracking shot along the candle ring",
+          "continuity": "cut",
+          "beats": [
+            "Close on the ring of white candles on the dark grass, all burning steadily.",
+            "One by one, starting from the flame nearest the water, the candles snuff out with thin trails of smoke, the darkness moving up the bank.",
+            "Only the last candle beside the paper clothes still burns, its flame bending toward the pond."
+          ],
+          "sfx": "soft puffs of extinguished flames, water lapping, a wet footstep on grass"
+        },
+        {
+          "id": "06.4",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "@Ngan",
+          "line": "Bà ơi, đứng dậy đi bà! Có cái gì đang đi lên từ dưới nước kìa, mình vào nhà ngay đi bà!",
+          "camera": "50mm handheld medium close-up",
+          "continuity": "cut",
+          "beats": [
+            "Handheld view of a bright flashlight beam sweeping across the dark lotus leaves and rippling water at the edge of the pond at night.",
+            "The camera frames @Ngan on the bank swinging the flashlight beam toward the water and calling out urgently as she steps back.",
+            "@Ngan stops still, holding the flashlight beam steady on the water's edge."
+          ],
+          "sfx": "rapid breathing, wet slapping steps on the grass, wind rising"
+        },
+        {
+          "id": "06.5",
+          "chars": [
+            "@CoTham"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Trong quầng đèn pin, bộ quần áo giấy trắng đã ướt sũng, đang từ từ đứng thẳng lên như có ai vừa mặc vào.",
+          "camera": "35mm static wide shot in the flashlight beam",
+          "continuity": "cut",
+          "beats": [
+            "Static wide view of the grassy water's edge in a flashlight beam at night, where soaked white paper clothes lie on the wet grass beside dark lotus leaves.",
+            "The white paper clothes stir in the cold wind at the bank as the faint pale figure of @CoTham appears standing quietly at the water's edge.",
+            "@CoTham stands motionless in the flickering flashlight beam beside the dark lotus leaves."
+          ],
+          "sfx": "wet paper rustling, water dripping, a long breathy sigh"
+        },
+        {
+          "id": "06.6",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Cùng lúc ấy, trong nhà, Khôi đang ngủ say bỗng cười khúc khích, tiếng cười trong trẻo của một cô gái lạ.",
+          "camera": "85mm close-up through the mosquito net, slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Inside the dark bedroom at night, cold cyan moonlight filtering through the wooden window bars onto the white mosquito net.",
+            "The camera pushes in slowly on @Khoi lying flat on his pillow fast asleep, his eyes tightly shut and his face pale.",
+            "@Khoi remains motionless with his eyes closed in sleep while the corner of his closed mouth forms a faint, eerie smile."
+          ],
+          "sfx": "a girl's clear echoing giggle, crickets stopping abruptly",
+          "setting": "Deep night: a back bedroom with a mosquito-net bed and a barred wooden window facing the lotus pond, a single blue shaft of moonlight."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Khôi Mất Tích Giữa Trưa",
+      "time_label": "12:00 Trưa hôm sau (06:00–07:00)",
+      "location": "Đầm sen dưới nắng trưa trắng, đê đất, những chiếc thuyền thúng.",
+      "axis": "Axis from the house gate down the embankment path out across the lotus pond.",
+      "props": "White plastic sandals, bamboo basket boats, long bamboo poles, black lotus roots, silver lotus-bud hairpin.",
+      "setting": "Hot hazy noon: the lotus pond under a white sky, a narrow embankment path, small round bamboo basket boats among the leaves.",
+      "clips": [
+        {
+          "id": "07.1",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Trưa hôm sau, Ngân chỉ chợp mắt có nửa tiếng, tỉnh dậy đã không thấy Khôi đâu, đôi dép tổ ong nằm chỏng chơ ngoài cổng.",
+          "camera": "28mm wide static shot at the gate",
+          "continuity": "cut",
+          "beats": [
+            "Wide static view of the open wooden gate leading from the brick yard onto the earthen embankment path beside the sunlit lotus pond at hazy noon.",
+            "@Ngan hurries out through the gate into the noon glare and stops short beside a pair of white plastic sandals lying on the embankment path.",
+            "@Ngan looks up from the sandals toward the wide green lotus pond."
+          ],
+          "sfx": "cicadas buzzing, hot wind, footsteps stopping",
+          "setting": "Hot hazy noon: the gate of Bà Hạnh's house opening onto the embankment path beside the lotus pond."
+        },
+        {
+          "id": "07.2",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "@Ngan",
+          "line": "Khôi ơi! Khôi! Em ở đâu thì trả lời chị một tiếng đi, chị xin em đấy Khôi ơi!",
+          "camera": "50mm handheld medium shot tracking along the embankment",
+          "continuity": "cut",
+          "beats": [
+            "Handheld tracking view along the narrow earthen embankment path beside the vast lotus pond at hazy noon, round bamboo basket boats floating in the distance.",
+            "@Ngan runs along the embankment path cupping her hands around her mouth and calling out across the pond.",
+            "@Ngan pauses on the path, breathing hard as she scans the dense lotus leaves."
+          ],
+          "sfx": "cicadas, an echoing voice over the water, ducks taking off"
+        },
+        {
+          "id": "07.3",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Cả xóm đổ ra, đàn ông chèo thuyền thúng, dùng sào tre khua khắp mặt đầm, nhưng chỉ vớt lên toàn rễ sen đen kịt.",
+          "camera": "24mm high-angle crane shot over the pond",
+          "continuity": "cut",
+          "beats": [
+            "High above the lotus pond, several round bamboo basket boats spread out across the water.",
+            "Village men in conical hats push long bamboo poles down through the lotus leaves, stirring up dark mud.",
+            "A pole lifts out of the water dripping with a tangle of black lotus roots."
+          ],
+          "sfx": "poles splashing, men calling to each other, cicadas",
+          "extras": "a few village men in conical hats paddling round bamboo basket boats, faces shaded, seen from above (unnamed)"
+        },
+        {
+          "id": "07.4",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân lội ra tận chỗ nước ngang ngực thì thấy giữa đám lá sen có một chiếc thuyền thúng cũ trôi lững lờ, không người chèo.",
+          "camera": "35mm water-level tracking shot",
+          "continuity": "cut",
+          "beats": [
+            "Water-level tracking view moving through dense green lotus leaves and tall stems on the pond under a hazy white noon sky.",
+            "@Ngan wades chest-deep through the lotus leaves, pushing the stems aside with both arms as an old bamboo basket boat drifts ahead.",
+            "@Ngan reaches out and grips the woven rim of the bamboo basket boat."
+          ],
+          "sfx": "water sloshing, lotus leaves rustling, distant shouting"
+        },
+        {
+          "id": "07.5",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Khôi nằm co quắp trong lòng thuyền, môi tím ngắt, người lạnh toát, tay nắm chặt một chiếc trâm bạc cũ.",
+          "camera": "50mm top-down overhead shot into the boat",
+          "continuity": "cut",
+          "beats": [
+            "Overhead view looking down at the round woven rim of a bamboo basket boat floating among green lotus leaves on the pond at noon.",
+            "Inside the boat, @Khoi lies curled on his side; @Ngan leans over the rim and touches @Khoi's cheek as he takes a steady breath.",
+            "The camera frames @Khoi's hand holding an old tarnished silver lotus-bud hairpin."
+          ],
+          "sfx": "water lapping the boat, a weak gasp, cicadas"
+        },
+        {
+          "id": "07.6",
+          "chars": [
+            "@BaHanh"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Bà Hạnh nhận ra ngay chiếc trâm bạc ấy, kỷ vật của Thắm, cô gái mồ côi khuất bóng nơi đầm sen năm xưa.",
+          "camera": "100mm macro insert, then rack focus",
+          "continuity": "cut",
+          "beats": [
+            "Macro close-up of a tarnished silver hairpin shaped like a lotus bud resting on a folded white cloth on a wooden table in soft afternoon light.",
+            "Focus racks up from the table to reveal @BaHanh leaning over the cloth, her eyes wide and one hand pressed to her chest.",
+            "@BaHanh lowers her gaze over the silver hairpin, tears glistening on her lined cheeks."
+          ],
+          "sfx": "a heavy silence, wind on the door, a soft sob",
+          "setting": "Late afternoon: inside the old house by the ancestral altar, soft grey light through the wooden doors."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Chuyện Năm Xưa Bà Hạnh Giấu Kín",
+      "time_label": "20:00 Đêm mưa (07:00–08:00)",
+      "location": "Gian thờ nhà bà Hạnh dưới ánh đèn dầu, mưa đổ ngoài sân.",
+      "axis": "Axis from the wooden chest under the altar toward the open door and the rain.",
+      "props": "Wooden chest, faded black-and-white photograph, oil lamp, prayer beads, wet cloth.",
+      "setting": "Night: inside the old house by the ancestral altar, an oil lamp on a low table, rain pouring outside the open door.",
+      "clips": [
+        {
+          "id": "08.1",
+          "chars": [
+            "@BaHanh",
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Đêm đó, bà Hạnh mở rương gỗ dưới bàn thờ, lấy ra tấm ảnh cũ chụp ông nội Ngân cùng mấy người trong làng.",
+          "camera": "35mm medium two-shot, slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Slow push-in on an old dark wooden chest beneath the ancestral altar inside the house at night, warm oil-lamp light flickering as rain falls outside.",
+            "@BaHanh kneels before the wooden chest with @Ngan beside her, lifts the lid and takes out a faded black-and-white photograph into the lamplight.",
+            "@BaHanh hands the old photograph to @Ngan in silence."
+          ],
+          "sfx": "rain on the tiles, the chest lid creaking, the lamp wick sputtering"
+        },
+        {
+          "id": "08.2",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Trong ảnh, ông Lý thời trẻ đứng giữa, tay cầm chùm chìa khóa hòm công đức của đình, ánh mắt sắc lạnh y như bây giờ.",
+          "camera": "100mm macro insert on the photograph",
+          "continuity": "continuous",
+          "beats": [
+            "Close on the old black-and-white photograph in @Ngan's hands: a row of village men standing in front of a temple gate.",
+            "The camera slowly pushes in on the man in the center, younger but with the same hard narrow eyes, holding a ring of large keys.",
+            "@Ngan's thumb rests beside the man's face, trembling."
+          ],
+          "sfx": "rain on the roof, the lamp wick hissing"
+        },
+        {
+          "id": "08.3",
+          "chars": [
+            "@BaHanh",
+            "@Ngan"
+          ],
+          "speaker": "@BaHanh",
+          "line": "Năm ấy hòm công đức mất sạch, ông Lý bảo chính mắt ông thấy con Thắm lẻn vào đình lúc nửa đêm.",
+          "camera": "50mm over-the-shoulder shot",
+          "continuity": "cut",
+          "beats": [
+            "View of the flickering amber oil-lamp flame on the low wooden table inside the house at night, heavy rain pouring past the open doorway.",
+            "The camera frames @BaHanh across the table over @Ngan's shoulder as @BaHanh speaks softly, holding her wooden prayer beads.",
+            "@BaHanh lowers her eyes toward the table in the warm lamplight."
+          ],
+          "sfx": "rain growing heavier, thunder far away"
+        },
+        {
+          "id": "08.4",
+          "chars": [
+            "@BaHanh"
+          ],
+          "speaker": "@BaHanh",
+          "line": "Cả làng đuổi theo nó ra tận bờ đầm. Ông nhà bà cũng cầm đuốc đứng đó, nhìn nó khuất dưới đầm mà không ai giúp.",
+          "camera": "85mm close-up, static",
+          "continuity": "continuous",
+          "beats": [
+            "Close-up of @BaHanh, tears glistening on her lined face in the warm lamplight.",
+            "@BaHanh speaks in a hushed, emotional voice, her chin trembling.",
+            "@BaHanh presses both hands to her face, her shoulders trembling."
+          ],
+          "sfx": "heavy rain, a roll of thunder, a sob"
+        },
+        {
+          "id": "08.5",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân chợt hiểu, những người bị đầm bắt suốt ba mươi năm qua đều là con cháu của những kẻ đứng trên bờ đêm ấy.",
+          "camera": "35mm slow pull-back toward the open door",
+          "continuity": "cut",
+          "beats": [
+            "Slow pull-back from the low wooden table and flickering oil lamp toward the open doorway where night rain falls into the dark brick yard.",
+            "@Ngan sits quietly at the table holding the faded photograph in her lap, then turns her head toward the rain-swept doorway.",
+            "The camera pulls back through the doorway, framing @Ngan inside the lamplit room with the dark pond beyond."
+          ],
+          "sfx": "rain, thunder, a distant splash"
+        },
+        {
+          "id": "08.6",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Còn Khôi, nằm sốt mê man trong buồng, cứ thì thào bằng giọng con gái rằng em không hề lấy trộm thứ gì.",
+          "camera": "85mm close-up through the mosquito net, static",
+          "continuity": "cut",
+          "beats": [
+            "Static view of the rain-streaked barred wooden window and white mosquito net in the dim bedroom at night, lit by a low oil lamp.",
+            "Through the mosquito net, @Khoi rests on the bed with a damp cloth on his forehead, turning his head restlessly on the pillow.",
+            "Drops of water glisten along the edge of the wooden bedframe in the dim lamplight."
+          ],
+          "sfx": "rain on the window, dripping water, a faint girl's whisper",
+          "setting": "Night: the back bedroom, mosquito-net bed, rain streaming down the barred window, a dim oil lamp."
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "Đêm Mưa Ba Mươi Năm Trước",
+      "time_label": "Hồi tưởng — đêm mưa tháng bảy ba mươi năm trước (08:00–09:00)",
+      "location": "Đầm sen và bờ đê lầy lội trong mưa lớn, chỉ có ánh đuốc (hồi tưởng, màu bạc).",
+      "axis": "Axis along the muddy embankment toward the edge of the pond, torches behind.",
+      "props": "Flaming torches, muddy embankment, black water, lotus leaves, burned-out torch stubs.",
+      "setting": "Flashback, thirty years earlier, a stormy night in the seventh lunar month: the same lotus pond and muddy embankment in heavy rain, lit only by flaming torches; desaturated and grainy.",
+      "clips": [
+        {
+          "id": "09.1",
+          "chars": [
+            "@ThamXua"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ba mươi năm trước, cũng một đêm mưa tháng bảy, Thắm chạy trối chết dọc bờ đầm, phía sau là cả một rừng đuốc.",
+          "camera": "28mm handheld tracking shot alongside",
+          "continuity": "cut",
+          "beats": [
+            "Handheld tracking view along a rain-swept muddy embankment beside the lotus pond on a stormy night, distant orange torchlight reflecting on wet mud.",
+            "@ThamXua runs barefoot through the rain along the muddy embankment, her braided hair swinging as she glances back toward the distant torches.",
+            "@ThamXua steadies herself on the wet bank beside the dark lotus leaves, breathing fast."
+          ],
+          "sfx": "pouring rain, thunder, distant angry shouting, splashing footsteps",
+          "extras": "a crowd of village men holding flaming torches far behind her, blurred silhouettes in the rain (unnamed)"
+        },
+        {
+          "id": "09.2",
+          "chars": [
+            "@ThamXua"
+          ],
+          "speaker": "@ThamXua",
+          "line": "Cháu không lấy! Cháu thề có trời đất, cháu không hề động vào hòm công đức của đình!",
+          "camera": "50mm medium close-up lit by off-frame torchlight",
+          "continuity": "cut",
+          "beats": [
+            "Rain-swept muddy embankment beside the lotus pond at night, orange torchlight reflecting on wet mud and lotus leaves.",
+            "@ThamXua kneels on the wet mud in the pouring rain, her hands clasped in front of her chest as she pleads.",
+            "@ThamXua looks up through the rain with tears mixing with rainwater on her pale face."
+          ],
+          "sfx": "rain, thunder, crackling torches, angry murmuring"
+        },
+        {
+          "id": "09.3",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Không ai tin cô. Người ta dồn cô ra sát mép nước, và người hô to nhất chính là ông Lý thời trẻ.",
+          "camera": "35mm low-angle shot through the rain",
+          "continuity": "cut",
+          "beats": [
+            "Low angle through the rain: a wall of flaming torches held by blurred villagers on the muddy bank.",
+            "At the front, a gaunt man in an olive-green jacket thrusts his torch toward the pond, his face hard in the firelight.",
+            "The torchlight flickers across the black pond surface ahead of the crowd."
+          ],
+          "sfx": "pouring rain, crackling torches, a harsh distant shout, thunder",
+          "extras": "the younger Ông Lý, about 42, gaunt with hard narrow eyes, in an olive-green jacket, at the front of a crowd of blurred torch-bearing villagers (no reference image)"
+        },
+        {
+          "id": "09.4",
+          "chars": [
+            "@ThamXua"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Thắm lùi thêm một bước trên bờ đất ướt, tà áo trắng khuất dần sau những tàu lá sen đen sẫm trong màn mưa.",
+          "camera": "35mm static wide shot from the water",
+          "continuity": "cut",
+          "beats": [
+            "Wide view from the rain-swept lotus pond looking toward the muddy bank at night, orange torchlight flickering across the wet grass.",
+            "A single solitary figure, @ThamXua alone on the muddy bank, steps backward in the rain as tall lotus stems and mist surround her.",
+            "Raindrops and spreading ripples rock the dark lotus leaves across the water."
+          ],
+          "sfx": "pouring rain, wind rustling lotus leaves, distant voices falling silent"
+        },
+        {
+          "id": "09.5",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Cô vùng vẫy, một bàn tay nhô lên khỏi mặt nước như cầu cứu, nhưng hàng chục ngọn đuốc trên bờ không ai nhúc nhích.",
+          "camera": "50mm water-level static shot",
+          "continuity": "cut",
+          "beats": [
+            "Water-level view in the falling rain as dark lotus leaves and a pale lotus bud rock on the ripples of the pond.",
+            "Beyond the swaying lotus stems, warm orange torchlight reflects across the wet muddy bank in the rain.",
+            "Concentric ripples slowly widen across the dark water surface under the rain."
+          ],
+          "sfx": "rain on the water, a muffled gasp, then only rain",
+          "extras": "blurred torch-bearing villagers standing still on the bank, out of focus (unnamed)"
+        },
+        {
+          "id": "09.6",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Sáng hôm sau, không thấy hòm tiền, cũng chẳng thấy bóng Thắm đâu, cả làng bảo nhau rằng đầm sen đã giữ người ở lại.",
+          "camera": "24mm slow aerial pull-back",
+          "continuity": "cut",
+          "beats": [
+            "Grey dawn over the still lotus pond after the storm, mist drifting on the water.",
+            "On the muddy bank, burned-out torch stubs lie smoking among footprints.",
+            "The camera rises slowly, the pond silent and empty under the grey sky."
+          ],
+          "sfx": "dripping leaves, a lone crow, wind",
+          "setting": "Flashback dawn after the storm: the still lotus pond under a grey sky, mist on the water, torch stubs smoking in the mud; desaturated and grainy."
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Đêm Rằm Tháng Bảy — Đầm Sen Gọi Khôi",
+      "time_label": "23:30 Đêm rằm tháng bảy (09:00–10:00)",
+      "location": "Buồng sau dưới ánh trăng rằm, sân gạch, bờ đầm và đáy đầm sen.",
+      "axis": "Axis from the moonlit bedroom out through the yard into the pond and down to its muddy bed.",
+      "props": "Silver lotus-bud hairpin, full moon, lotus roots, old brass betel box engraved with a crane.",
+      "setting": "Night of the seventh-month full moon: the lotus pond under a huge pale moon, mist on the water, Bà Hạnh's yard and gate at the edge.",
+      "clips": [
+        {
+          "id": "10.1",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Đêm rằm tháng bảy, trăng tròn vằng vặc, Khôi bỗng hết sốt, ngồi dậy chải đầu bằng chiếc trâm bạc như một cô gái.",
+          "camera": "50mm medium shot, slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Inside the moonlit bedroom at night, a white mosquito net hanging over the wooden bed beside the barred window.",
+            "@Khoi sits upright on the edge of the wooden bed in a trance, holding a small antique silver hairpin in his hand and slowly combing his hair.",
+            "@Khoi stares blankly toward the moonlit window with the silver hairpin in his hand."
+          ],
+          "sfx": "crickets stopping, a slow scrape of metal through hair, distant water",
+          "setting": "Night of the full moon: the back bedroom, moonlight pouring through the barred window onto the mosquito-net bed."
+        },
+        {
+          "id": "10.2",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "@Khoi",
+          "line": "Chị ơi, cô ấy bảo đêm nay là đêm cuối cùng rồi. Em phải xuống trả lại cho cô ấy.",
+          "camera": "85mm over-the-shoulder shot",
+          "continuity": "cut",
+          "beats": [
+            "View from the bedroom doorway looking toward the barred window and moonlit bed, silver moonlight reflecting on the brick floor.",
+            "Over @Ngan's shoulder in the doorway, @Khoi looks up from the moonlit bed with the silver hairpin in his hand and speaks in a calm, distant voice.",
+            "@Khoi rises slowly from the edge of the bed in the moonlight."
+          ],
+          "sfx": "crickets, wind, a faint watery hum",
+          "setting": "Night of the full moon: the back bedroom, moonlight pouring through the barred window onto the mosquito-net bed."
+        },
+        {
+          "id": "10.3",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Khôi đi thẳng ra đầm, Ngân giữ thế nào cũng không lại, người cậu nặng trịch và lạnh như một khúc gỗ ngâm nước.",
+          "camera": "24mm wide tracking shot from the side",
+          "continuity": "cut",
+          "beats": [
+            "Wide side-tracking view across the moonlit brick yard leading down to the misty bank of the lotus pond under a full moon.",
+            "@Khoi walks steadily across the moonlit yard toward the pond while @Ngan holds onto his arm with both hands, trying to pull him back.",
+            "@Khoi steps into the shallow water at the bank as @Ngan stops at the edge."
+          ],
+          "sfx": "heels scraping grass, splashing, crickets, wind",
+          "setting": "Night of the full moon: the moonlit brick yard and the bank of the lotus pond, mist on the water."
+        },
+        {
+          "id": "10.4",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Không kịp nghĩ ngợi, Ngân hít một hơi thật sâu rồi lội xuống làn nước đêm, nơi em trai cô vừa khuất bóng.",
+          "camera": "35mm static medium shot at the water's edge",
+          "continuity": "continuous",
+          "beats": [
+            "@Ngan stands at the edge of the pond staring at the spreading rings on the moonlit water.",
+            "@Ngan takes a deep breath and wades forward into the deep water among the lotus leaves.",
+            "Moonlit ripples rock the lotus leaves across the surface of the pond."
+          ],
+          "sfx": "a deep inhale, a splash, then muffled silence",
+          "setting": "Night of the full moon: the moonlit brick yard and the bank of the lotus pond, mist on the water."
+        },
+        {
+          "id": "10.5",
+          "chars": [
+            "@CoTham"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Dưới đáy đầm, giữa rừng rễ sen chằng chịt, Thắm đứng đó, tóc xõa bồng bềnh, lặng lẽ chỉ tay xuống lớp bùn.",
+          "camera": "35mm underwater slow drift shot",
+          "continuity": "cut",
+          "beats": [
+            "Slow underwater drift through murky green-black water at the bottom of the lotus pond, pale moonlight filtering between tall lotus stems and roots.",
+            "Among the tangled lotus roots underwater, @CoTham stands quietly in the dark water, her long black hair floating around her pale face.",
+            "@CoTham slowly extends one arm and points downward toward the soft mud at the bottom of the pond."
+          ],
+          "sfx": "muffled underwater rumble, bubbles, a low distant hum",
+          "setting": "Underwater at the bottom of the lotus pond: murky green-black water, a forest of lotus stems and roots, shafts of moonlight from above, drifting silt."
+        },
+        {
+          "id": "10.6",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân thọc tay xuống bùn, chạm phải một chiếc hộp kim loại lạnh ngắt, quấn chặt trong rễ sen và những sợi tóc dài.",
+          "camera": "50mm underwater close-up",
+          "continuity": "cut",
+          "beats": [
+            "Soft dark mud and tangled lotus roots at the bottom of the pond underwater, drifting silt in the pale moonlight.",
+            "@Ngan pulls out an old brass box wrapped in lotus roots and long black hair, a crane engraved on its tarnished lid.",
+            "@Ngan clutches the box to her chest and swims upward hard toward the moonlight."
+          ],
+          "sfx": "muffled underwater sounds, a metallic scrape, bubbles rushing",
+          "setting": "Underwater at the bottom of the lotus pond: murky green-black water, a forest of lotus stems and roots, shafts of moonlight from above, drifting silt."
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Chiếc Hộp Trầu Đồng Khắc Hình Hạc",
+      "time_label": "00:30 Đêm rằm đến rạng sáng (10:00–11:00)",
+      "location": "Bờ đầm lầy lội dưới trăng, rồi sân nhà ông Lý lúc rạng sáng.",
+      "axis": "Axis from the muddy bank of the pond to Ông Lý's porch steps at dawn.",
+      "props": "Old brass betel box engraved with a crane, old silver coins in rotted red cloth, silver lotus-bud hairpin, walking cane.",
+      "setting": "Night of the full moon: the muddy bank of the lotus pond, moonlight and mist.",
+      "clips": [
+        {
+          "id": "11.1",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân ngoi lên, thấy Khôi đã nằm sẵn trên bờ, ho sặc sụa nhưng còn sống, như có ai vừa đặt cậu lên đó.",
+          "camera": "28mm wide static shot from the water",
+          "continuity": "cut",
+          "beats": [
+            "Wide view from the moonlit lotus pond looking toward the muddy grass bank at night, silver ripples spreading across the water.",
+            "@Ngan surfaces from the water holding a tarnished brass box to her chest while @Khoi rests safely on the muddy bank, breathing steadily.",
+            "@Ngan wades ashore and kneels beside @Khoi on the bank, resting one hand on his shoulder."
+          ],
+          "sfx": "gasping, coughing, water dripping, frogs"
+        },
+        {
+          "id": "11.2",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Bên trong hộp trầu là những đồng bạc trắng của đình làng, và nắp hộp khắc hình con hạc, vật gia truyền nhà ông Lý.",
+          "camera": "100mm macro insert, slow tilt",
+          "continuity": "continuous",
+          "beats": [
+            "Close on @Ngan's muddy hands prying open the tarnished brass box on the wet grass.",
+            "Inside, old silver coins glint in the moonlight, packed in faded old red cloth.",
+            "The camera tilts to the lid, where an engraved crane catches the moonlight."
+          ],
+          "sfx": "a rusty hinge creak, coins clinking, frogs"
+        },
+        {
+          "id": "11.3",
+          "chars": [
+            "@Ngan",
+            "@OngLy"
+          ],
+          "speaker": "@Ngan",
+          "line": "Ông nhìn kỹ đi! Hộp trầu nhà ông, tiền công đức của đình, nằm dưới đáy đầm ba mươi năm nay đấy!",
+          "camera": "35mm medium two-shot, static",
+          "continuity": "cut",
+          "beats": [
+            "Static medium view of the stone courtyard and front porch of the old brick house at grey dawn, morning mist drifting over the bamboo hedge.",
+            "In the courtyard, @Ngan holds the tarnished brass box out toward @OngLy on his porch and speaks firmly.",
+            "@OngLy looks down at the brass box, his face pale and rigid."
+          ],
+          "sfx": "roosters, wind in bamboo, dripping water",
+          "setting": "Grey dawn: the stone courtyard and front porch of Ông Lý's old brick house, mist from the pond drifting over the bamboo hedge."
+        },
+        {
+          "id": "11.4",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "@OngLy",
+          "line": "Láo toét! Hộp trầu thì nhà nào chẳng có. Cô dám vu cho tôi thì cả làng này sẽ không tha cho cô đâu!",
+          "camera": "85mm close-up, slow push-in",
+          "continuity": "continuous",
+          "beats": [
+            "Close-up of @OngLy shouting, his narrow eyes blazing.",
+            "@OngLy jabs his cane toward the courtyard gate, his hand shaking.",
+            "@OngLy's gaze drops to the brass box and he swallows hard."
+          ],
+          "sfx": "roosters, wind, the cane tapping stone",
+          "setting": "Grey dawn: the stone courtyard and front porch of Ông Lý's old brick house, mist from the pond drifting over the bamboo hedge."
+        },
+        {
+          "id": "11.5",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân không cãi. Cô chỉ đặt chiếc trâm bạc của Thắm lên bậc thềm nhà ông, rồi lặng lẽ bỏ về.",
+          "camera": "50mm low-angle shot on the porch steps",
+          "continuity": "cut",
+          "beats": [
+            "Low-angle view of the weathered stone steps of the front porch at grey dawn, damp mist clinging to the stones.",
+            "@Ngan steps up, kneels by the stone porch steps and places the tarnished silver lotus hairpin on the top step before rising and turning away.",
+            "The camera holds low on the silver hairpin resting on the stone step."
+          ],
+          "sfx": "footsteps on stone, roosters, a cold breeze",
+          "setting": "Grey dawn: the stone courtyard and front porch of Ông Lý's old brick house, mist from the pond drifting over the bamboo hedge."
+        },
+        {
+          "id": "11.6",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ông Lý đứng nhìn chiếc trâm rất lâu. Ba mươi năm rồi, lần đầu tiên ông thấy bàn tay mình run lên không dừng được.",
+          "camera": "85mm close-up on the hands",
+          "continuity": "cut",
+          "beats": [
+            "Close view of the tarnished silver lotus hairpin resting on the stone porch step in the cold grey dawn light.",
+            "The camera tilts up to @OngLy standing on the porch looking down at the hairpin, his weathered hands trembling on the head of his walking cane.",
+            "@OngLy closes his eyes, his jaw tight."
+          ],
+          "sfx": "wind in bamboo, a distant temple bell, ragged breathing",
+          "setting": "Grey dawn: the stone courtyard and front porch of Ông Lý's old brick house, mist from the pond drifting over the bamboo hedge."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Đêm Ông Lý Bị Gọi Tên",
+      "time_label": "01:00 Đêm hôm sau (11:00–12:00)",
+      "location": "Buồng ngủ tối của ông Lý với giường gỗ chạm, cửa sổ nhìn ra đầm.",
+      "axis": "Axis from the window facing the pond across the brick floor to the foot of the carved bed.",
+      "props": "Carved wooden bed, oil lamp, wet footprints on the brick floor, walking cane.",
+      "setting": "Night: Ông Lý's dark bedroom with a heavy carved wooden bed, a tall cabinet and a window facing the lotus pond, a single oil lamp turned low.",
+      "clips": [
+        {
+          "id": "12.1",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Đêm ấy, ông Lý nghe ngoài đầm có tiếng con gái gọi đúng tên cúng cơm của ông, cái tên chẳng ai còn nhớ.",
+          "camera": "35mm static medium shot",
+          "continuity": "cut",
+          "beats": [
+            "Static medium view of a dark bedroom at night with a carved wooden bed, a tall wooden cabinet and a dim oil lamp flickering near the window.",
+            "On the carved wooden bed, @OngLy lies awake; his eyes turn toward the window and he props himself up on one elbow, listening.",
+            "@OngLy sits up on the edge of the bed, looking toward the moonlit window."
+          ],
+          "sfx": "a faint girl's voice calling from far over water, crickets, the bed creaking"
+        },
+        {
+          "id": "12.2",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Từ cửa sổ vào tận đầu giường, những vệt nước loang dần trên nền gạch, kéo theo mùi bùn tanh lạnh của đáy đầm.",
+          "camera": "24mm low-angle dolly along the floor",
+          "continuity": "cut",
+          "beats": [
+            "Rain-streaked wooden window and dark brick floor of the old bedroom at night, a thin trail of water glistening on the tiles.",
+            "@OngLy sits on the edge of his wooden bed in the dim oil-lamp light, looking down in shock at the wet trail on the floor.",
+            "@OngLy grips his wooden cane with trembling hands as the oil lamp flickers."
+          ],
+          "sfx": "slow wet footsteps, dripping water, the lamp flame sputtering"
+        },
+        {
+          "id": "12.3",
+          "chars": [
+            "@OngLy",
+            "@CoTham"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ông Lý ngẩng đầu lên, thấy Thắm đang đứng lặng ngay cuối giường, đôi mắt buồn rượi nhìn ông không lời oán trách.",
+          "camera": "50mm over-the-shoulder shot",
+          "continuity": "cut",
+          "beats": [
+            "View across the dark bedroom floor where wet footprints glisten in the dim oil-lamp light near the foot of the carved wooden bed.",
+            "The camera tilts up over @OngLy's shoulder to reveal @CoTham standing quietly at the foot of the bed, looking at him with calm, sorrowful eyes.",
+            "@OngLy leans back against the wooden headboard, gripping the blanket."
+          ],
+          "sfx": "steady dripping, the lamp hissing, ragged breathing"
+        },
+        {
+          "id": "12.4",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "@OngLy",
+          "line": "Là tao lấy, Thắm ạ! Tao sợ quá nên mới đổ tội cho mày. Tao xin mày, tha cho tao!",
+          "camera": "85mm close-up with a slight Dutch angle, static",
+          "continuity": "continuous",
+          "beats": [
+            "Close-up of @OngLy pressed against the headboard, his face wet with tears and sweat.",
+            "@OngLy pleads with his palms pressed together, his voice breaking.",
+            "@OngLy bows his head down onto his joined hands, sobbing."
+          ],
+          "sfx": "sobbing, dripping water, wind rattling the shutters"
+        },
+        {
+          "id": "12.5",
+          "chars": [
+            "@CoTham"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Thắm không nói gì. Cô chỉ quay đi, để lại trên nền gạch một vũng nước nhỏ, phản chiếu ánh đèn dầu leo lét.",
+          "camera": "35mm static wide shot",
+          "continuity": "cut",
+          "beats": [
+            "Wide static view of the moonlit wooden window and dim oil lamp inside the quiet bedroom at night.",
+            "@CoTham turns from the bed and walks slowly toward the moonlit window, her figure fading softly into the shadow beside the frame.",
+            "A small puddle of water on the brick floor reflects the flickering oil-lamp flame."
+          ],
+          "sfx": "soft wet footsteps fading, the lamp hissing, crickets returning"
+        },
+        {
+          "id": "12.6",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Gà gáy canh tư, ông Lý vẫn ngồi đó, lần đầu tiên sau ba mươi năm, ông quyết định sẽ nói ra sự thật.",
+          "camera": "50mm medium shot, slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Slow push-in on the bedroom window as cold blue pre-dawn light fills the room and the oil lamp on the table stands unlit.",
+            "On the edge of the carved bed, @OngLy sits hunched in the blue dawn light, then straightens his back and wipes his face with both hands.",
+            "@OngLy takes hold of his wooden walking cane and stands up."
+          ],
+          "sfx": "a rooster crowing, a cold wind, the cane tapping the floor",
+          "setting": "Pre-dawn: Ông Lý's bedroom in cold blue light through the window, the oil lamp burned out."
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Lời Thú Tội Trước Sân Đình",
+      "time_label": "08:00 Sáng hôm sau tại đình làng (12:00–13:00)",
+      "location": "Sân đình làng lát đá với cột đỏ, dân làng tụ tập phía sau.",
+      "axis": "Axis from the temple drum across the stone courtyard to the small incense bowl on a table.",
+      "props": "Temple drum, small incense bowl, stone courtyard, prayer beads, carved name tablet.",
+      "setting": "Morning: the stone courtyard of the old village temple with red pillars and a tiled roof, villagers gathered as blurred figures in the background, soft grey sky.",
+      "clips": [
+        {
+          "id": "13.1",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Sáng hôm ấy, ông Lý gõ trống đình, gọi cả làng ra sân, đứng trước bát hương không tên của Thắm mà quỳ xuống.",
+          "camera": "28mm wide static shot of the temple courtyard",
+          "continuity": "cut",
+          "beats": [
+            "Wide static view of the stone courtyard of the old village temple in soft morning mist, red wooden pillars and a large wooden drum on a stand.",
+            "@OngLy steps up to the wooden temple drum and beats it with a padded stick as blurred villagers gather in the courtyard, then walks to the small incense bowl.",
+            "@OngLy kneels slowly on the stone courtyard before the small incense bowl."
+          ],
+          "sfx": "deep drum beats echoing, murmuring villagers, birds",
+          "extras": "villagers gathering in the background, blurred and out of focus (unnamed)"
+        },
+        {
+          "id": "13.2",
+          "chars": [
+            "@OngLy"
+          ],
+          "speaker": "@OngLy",
+          "line": "Ba mươi năm trước, chính tôi lấy tiền công đức rồi đổ tội cho con Thắm. Nó chịu oan khuất vì tôi.",
+          "camera": "85mm close-up, static",
+          "continuity": "continuous",
+          "beats": [
+            "Close-up of @OngLy kneeling, his face grey and wet, looking up toward the off-frame crowd.",
+            "@OngLy speaks loudly and clearly, his voice shaking but steady.",
+            "@OngLy lowers his forehead to the stone courtyard."
+          ],
+          "sfx": "a stunned hush, wind chimes, a single gasp"
+        },
+        {
+          "id": "13.3",
+          "chars": [
+            "@BaHanh"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Bà Hạnh bật khóc. Chồng bà và bao người khác đã chọn im lặng đêm ấy, để rồi con cháu phải trả giá.",
+          "camera": "50mm medium shot, slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Slow push-in across the misty stone courtyard of the village temple where incense smoke rises before the red wooden pillars.",
+            "Among the blurred villagers, @BaHanh presses both hands to her mouth, then kneels down on the stone courtyard with tears on her cheeks.",
+            "@BaHanh bows her head toward the incense bowl, wooden prayer beads in her joined hands."
+          ],
+          "sfx": "sobbing, murmuring, wind chimes",
+          "extras": "villagers in the background, blurred and out of focus (unnamed)"
+        },
+        {
+          "id": "13.4",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân siết chặt tay em trai. Vết hằn lạnh buốt nơi cổ chân Khôi, từ sáng hôm ấy, đã nhạt dần như chưa từng có.",
+          "camera": "28mm wide two-shot, slow tilt down",
+          "continuity": "cut",
+          "beats": [
+            "Stone courtyard of the village communal temple in soft morning light, red wooden pillars and warm incense smoke in the background.",
+            "@Ngan and @Khoi stand side by side in the courtyard in full view from head to toe, @Ngan holding @Khoi's hand as he looks down at his clean, healed ankle.",
+            "@Ngan and @Khoi look at each other in quiet relief as morning sunlight warms the courtyard."
+          ],
+          "sfx": "wind chimes, a soft exhale, distant birds"
+        },
+        {
+          "id": "13.5",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "@Khoi",
+          "line": "Chị ơi, em không còn nghe thấy tiếng cô ấy gọi nữa. Lần đầu tiên sau mấy tuần, em thấy ấm người.",
+          "camera": "50mm over-the-shoulder shot",
+          "continuity": "continuous",
+          "beats": [
+            "Over @Ngan's shoulder, @Khoi turns to her and speaks quietly, a tired smile on his face.",
+            "@Khoi's eyes glisten as he talks, color returning to his cheeks.",
+            "@Ngan pulls @Khoi into a brief hug."
+          ],
+          "sfx": "wind chimes, birds, soft murmurs of the crowd"
+        },
+        {
+          "id": "13.6",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Ngay tối hôm ấy, cả làng lập đàn cầu siêu cho Thắm, và bát hương không tên cuối cùng đã có chủ.",
+          "camera": "100mm macro insert, slow push-in on the incense bowl",
+          "continuity": "cut",
+          "beats": [
+            "Close on the small incense bowl, now cleaned, sitting on new red cloth beside fresh pink lotus flowers.",
+            "Three new incense sticks burn straight upward, their smoke rising in still air.",
+            "A carved wooden name tablet stands behind the bowl, seen from the side so no writing is visible."
+          ],
+          "sfx": "incense crackling, distant chanting, wind chimes",
+          "setting": "Late afternoon: the temple's back shrine room, the small incense bowl now cleaned, red cloth beneath it and fresh lotus flowers beside it."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Lễ Cầu Siêu & Đèn Hoa Đăng Trên Mặt Đầm",
+      "time_label": "20:00 Tối cầu siêu (13:00–14:00)",
+      "location": "Bờ đầm sen về đêm với hàng trăm đèn hoa đăng trôi trên mặt nước, ban thờ nhỏ bên bờ.",
+      "axis": "Axis from the small altar on the bank out across the lantern-covered water.",
+      "props": "Paper lotus lanterns, small altar with incense, silver lotus-bud hairpin, walking cane.",
+      "setting": "Night: the bank of the lotus pond lit by hundreds of small paper lotus lanterns floating on the black water, a simple altar with incense on the bank, villagers as distant blurred silhouettes.",
+      "clips": [
+        {
+          "id": "14.1",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Đêm ấy, hàng trăm ngọn đèn hoa đăng được thả xuống đầm sen, ánh lửa nhỏ lấp lánh trải dài như một dải ngân hà.",
+          "camera": "24mm aerial slow descending glide",
+          "continuity": "cut",
+          "beats": [
+            "Aerial view of the black lotus pond at night, hundreds of small glowing paper lotus lanterns drifting across the water.",
+            "The drone glides low over the lanterns, their warm light flickering between the dark lotus leaves.",
+            "The camera settles over the bank where tiny silhouettes kneel before a small altar."
+          ],
+          "sfx": "soft chanting, water lapping, a gentle wind",
+          "extras": "villagers on the bank as tiny distant silhouettes (unnamed)"
+        },
+        {
+          "id": "14.2",
+          "chars": [
+            "@BaHanh",
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Bà Hạnh run run thả chiếc đèn cuối cùng, trên đó bà tự tay đặt chiếc trâm bạc, trả lại cho người con gái năm xưa.",
+          "camera": "50mm medium two-shot at water level",
+          "continuity": "cut",
+          "beats": [
+            "Water-level view of glowing paper lotus lanterns floating on the dark pond at night beside the grassy bank.",
+            "At the water's edge, @BaHanh kneels with @Ngan beside her, placing the silver hairpin inside a paper lotus lantern and setting it gently on the water.",
+            "The glowing lantern drifts out across the pond as @Ngan puts a comforting arm around @BaHanh's shoulders."
+          ],
+          "sfx": "water lapping, soft chanting, a gentle breeze"
+        },
+        {
+          "id": "14.3",
+          "chars": [
+            "@ThamXua"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Giữa đầm, Thắm hiện lên lần cuối, không còn ướt sũng, áo trắng khô ráo, mái tóc tết gọn gàng như ngày còn sống.",
+          "camera": "85mm telephoto slow push-in across the lanterns",
+          "continuity": "cut",
+          "beats": [
+            "Telephoto slow push-in across dozens of warm glowing paper lotus lanterns drifting on the calm black water of the pond at night.",
+            "Between the floating lanterns across the water, @ThamXua appears standing dry and calm in clean white clothes, her hair neatly braided, looking toward the bank.",
+            "@ThamXua lowers her head in a slow, peaceful bow under the warm lantern light."
+          ],
+          "sfx": "soft chanting, water lapping, a faint wind chime"
+        },
+        {
+          "id": "14.4",
+          "chars": [
+            "@Khoi"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Khôi đứng trên bờ, chắp tay vái theo. Cậu biết, chiếc đèn có trâm bạc kia vừa dừng lại ngay trước mặt cô gái.",
+          "camera": "35mm medium shot, static",
+          "continuity": "cut",
+          "beats": [
+            "Static medium view of the grassy pond bank at night, warm golden light from floating paper lanterns reflecting on the water.",
+            "On the bank, @Khoi steps forward with joined palms and bows three times toward the lantern-lit pond.",
+            "@Khoi lifts his head, his eyes shining in the warm lantern light as he watches the water."
+          ],
+          "sfx": "chanting, lapping water, crickets"
+        },
+        {
+          "id": "14.5",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Bóng cô gái mờ dần rồi tan vào ánh đèn, và lần đầu tiên sau ba mươi năm, cả đầm sen nở bung giữa đêm trăng.",
+          "camera": "50mm slow pull-back over the water",
+          "continuity": "cut",
+          "beats": [
+            "Close on a cluster of closed lotus buds among the floating lanterns.",
+            "One after another, the lotus buds slowly open into full pink blooms in the lantern light.",
+            "The camera pulls back to reveal the whole pond blooming under the moon."
+          ],
+          "sfx": "a soft rustle of opening petals, distant chanting, wind"
+        },
+        {
+          "id": "14.6",
+          "chars": [
+            "@Ngan",
+            "@OngLy"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ông Lý đứng tách khỏi đám đông, xin được dựng một tấm bia đá nhỏ bên bờ đầm, để làng đời đời nhớ cái tên Thắm.",
+          "camera": "35mm medium two-shot, static",
+          "continuity": "cut",
+          "beats": [
+            "Medium view of the quiet pond bank at night where hundreds of paper lanterns glow across the dark water in the background.",
+            "@OngLy stands near the edge of the bank leaning on his cane as @Ngan walks up beside him; @OngLy lifts his head and gives her a slow nod.",
+            "@Ngan nods once in return, and both look out across the drifting lanterns."
+          ],
+          "sfx": "chanting, water lapping, crickets"
+        }
+      ]
+    },
+    {
+      "num": 15,
+      "title": "Mùa Sen Năm Sau & Bóng Người Thứ Hai",
+      "time_label": "Một năm sau — sáng đến đêm (14:00–15:00)",
+      "location": "Đầm sen nở rộ một năm sau, tấm bia đá nhỏ bên bờ, bến xe đầu làng.",
+      "axis": "Axis from the small stone stele on the bank across the blooming pond to its far shadowed corner.",
+      "props": "Small stone stele seen from behind, incense, broom, suitcase, bus stop.",
+      "setting": "Bright misty morning a year later: the lotus pond in full bloom, a small new stone stele with incense on the bank, the village road beyond.",
+      "clips": [
+        {
+          "id": "15.1",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Một năm sau, đầm sen làng Hạ Liên nở rộ chưa từng thấy, và tháng bảy năm ấy không còn ai bị gọi tên nữa.",
+          "camera": "24mm aerial slow forward glide",
+          "continuity": "cut",
+          "beats": [
+            "Aerial view of the vast lotus pond in full pink bloom under a soft morning mist.",
+            "The drone glides forward over the flowers toward a small new stone stele on the bank, incense smoke rising.",
+            "The camera settles on the stele, seen from behind so no writing is visible, fresh lotus flowers at its base."
+          ],
+          "sfx": "morning birds, gentle wind over lotus leaves, a distant temple bell"
+        },
+        {
+          "id": "15.2",
+          "chars": [
+            "@Ngan",
+            "@BaHanh"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Ngân về thăm bà, mang theo bó hương thắp cho Thắm. Bà Hạnh giờ đã khỏe, sáng nào cũng ra bờ đầm quét lá.",
+          "camera": "35mm side-tracking shot",
+          "continuity": "cut",
+          "beats": [
+            "Morning mist drifting over the blooming pink lotus pond beside a small stone memorial stele on the grassy bank.",
+            "Only two people, @Ngan and her grandmother @BaHanh, stand side by side before the stone stele as @Ngan places glowing incense sticks in the censer.",
+            "@BaHanh and @Ngan bow their heads quietly together beside the sunny lotus pond."
+          ],
+          "sfx": "birds, a broom sweeping, gentle wind"
+        },
+        {
+          "id": "15.3",
+          "chars": [
+            "@Ngan",
+            "@Khoi"
+          ],
+          "speaker": "@Khoi",
+          "line": "Chị thấy không, năm nay ai cũng bảo đầm sen đẹp nhất từ trước tới giờ. Chắc cô ấy vui lắm.",
+          "camera": "50mm medium two-shot",
+          "continuity": "cut",
+          "beats": [
+            "Medium view of the sunlit embankment path and blooming pink lotus flowers swaying in the morning breeze.",
+            "@Khoi walks up the embankment to @Ngan looking healthy and bright, gesturing happily toward the blooming lotus pond.",
+            "@Ngan smiles warmly and ruffles @Khoi's hair."
+          ],
+          "sfx": "birds, light laughter, wind in lotus leaves"
+        },
+        {
+          "id": "15.4",
+          "chars": [
+            "@Ngan"
+          ],
+          "speaker": "NARRATOR",
+          "line": "Chiều hôm ấy, Ngân ra bến xe về thành phố. Ngoảnh lại lần cuối, cô thấy mặt đầm sen yên ả, phẳng lặng như gương.",
+          "camera": "28mm wide shot, slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Wide slow push-in on a quiet rural roadside bus stop at the edge of the village in golden late-afternoon sunlight, the blooming lotus pond glowing behind it.",
+            "@Ngan steps up to the bus stop with her small wheeled suitcase and turns to look back over her shoulder at the peaceful pond.",
+            "@Ngan smiles faintly and turns forward toward the road."
+          ],
+          "sfx": "a distant bus engine approaching, cicadas, wind",
+          "setting": "Late afternoon: a roadside bus stop at the edge of the village, the lotus pond glowing gold behind it."
+        },
+        {
+          "id": "15.5",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Nhưng nếu nhìn lâu hơn chút nữa, Ngân sẽ thấy ở góc đầm xa nhất, một bóng người khác đang đứng ngập trong nước.",
+          "camera": "85mm telephoto slow push-in",
+          "continuity": "cut",
+          "beats": [
+            "Telephoto view across the darkening pond toward its far corner under overhanging bamboo.",
+            "The camera slowly pushes in: a dark figure stands waist-deep among the leaves, motionless, face hidden in shadow.",
+            "The figure slowly turns its head toward the village."
+          ],
+          "sfx": "wind dying, frogs stopping abruptly, a low hum",
+          "setting": "Dusk: the far corner of the lotus pond, deep shadow under overhanging bamboo, mist on the water.",
+          "extras": "a distant dark figure standing waist-deep in the pond, face hidden in shadow (unnamed, no reference image)"
+        },
+        {
+          "id": "15.6",
+          "chars": [],
+          "speaker": "NARRATOR",
+          "line": "Bởi năm ấy, bên bờ đầm, đâu chỉ có một nỗi oan khuất chưa lời giải. Và đầm sen làng Hạ Liên vẫn còn đang đợi.",
+          "camera": "24mm slow aerial pull-back into darkness",
+          "continuity": "cut",
+          "beats": [
+            "High above the lotus pond at night, mist drifting over the dark leaves.",
+            "The camera slowly pulls back and rises as the moon disappears behind clouds.",
+            "Far below, a single ring of ripples spreads across the black water in the center of the pond."
+          ],
+          "sfx": "a deep low drone, wind, a single distant splash",
+          "setting": "Night: the whole lotus pond from high above under a hazy moon, mist rising."
+        }
+      ]
+    }
+  ]
+}

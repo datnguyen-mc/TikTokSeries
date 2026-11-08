@@ -1,0 +1,50 @@
+{
+  "series": "gang-to-tai-xuat",
+  "title": "Găng Tơ Tái Xuất",
+  "style": "Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.",
+  "lighting": "Bright natural lighting: warm golden morning and sunset light over the old quarter, crisp midday daylight, colorful neon signs without readable letters and warm shop lamps at night; shadows stay soft, never gloomy.",
+  "narrator": {
+    "gender": "male",
+    "voice": "Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words",
+    "rate": 4.0
+  },
+  "characters": {
+    "@Lam": {
+      "name": "Ông Lâm (Lâm Rồng)",
+      "anchor": "Ông Lâm, 63, humble motorbike-taxi driver who was once the old quarter's legendary gang boss; wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles; faded grey zip-up windbreaker over a white tank top, loose khaki trousers, plastic sandals, a battered green pith helmet, a dark-green dragon tattoo on his right forearm usually hidden by his sleeve.",
+      "voice": "man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter",
+      "rate": 3.9
+    },
+    "@Mai": {
+      "name": "Mai",
+      "anchor": "Mai, 20, Lâm's granddaughter, an IT student; petite, short black bob with straight bangs, round black-framed glasses, quick bright eyes; oversized lavender hoodie, black jeans, chunky white sneakers, small black backpack.",
+      "voice": "young woman of 20, strictly standard Hà Nội Northern accent (never Southern accent), clear lively soprano, quick and earnest, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter",
+      "rate": 4.0
+    },
+    "@BaHoa": {
+      "name": "Bà Hoa (Hoa Hổ)",
+      "anchor": "Bà Hoa, 61, the old gang's sharp-tongued brains, now owner of a bún chả shop; plump, short curly permed hair dyed burgundy, sharp bright eyes, red lipstick, gold hoop earrings; purple floral silk blouse, black wide trousers, chunky gold bangle, low heeled sandals.",
+      "voice": "woman of 61, strictly standard Hà Nội Northern accent (never Southern accent), bold brassy alto, quick-witted and teasing, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter",
+      "rate": 4.0
+    },
+    "@Khoa": {
+      "name": "Ông Khoa (Khoa Báo)",
+      "anchor": "Ông Khoa, 60, the old gang's lock and gadget wizard, now repairs radios and phones; thin and lanky, bald crown with long grey hair at the back tied in a small ponytail, thick magnifier glasses pushed up on his forehead; brown multi-pocket vest over a blue checkered shirt, grey trousers, canvas shoes.",
+      "voice": "man of 60, strictly standard Hà Nội Northern accent (never Southern accent), nasal wry tenor, deadpan and fussy, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter",
+      "rate": 4.0
+    },
+    "@Hung": {
+      "name": "Hưng Phú Quý",
+      "anchor": "Hưng, 31, flashy boss of a loan app company and a show-off livestreamer; tall and slim, dyed ash-blond undercut, round gold-rimmed glasses, cocky grin; oversized black satin bomber jacket over a plain white T-shirt, ripped black jeans, white high-top sneakers, several silver rings, a phone on a small selfie gimbal.",
+      "voice": "man of 31, strictly standard Hà Nội Northern accent (never Southern accent), loud slick tenor of a livestream salesman, smug and mocking, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter",
+      "rate": 4.0
+    },
+    "@Beo": {
+      "name": "Béo Đầu Sấm",
+      "anchor": "Béo, 28, Hưng's heavyset debt-collector leader; big round build, shaved head with a lightning-bolt pattern shaved on one side, small eyes, gold front tooth; black tank top, camouflage shorts, flip-flops, a cheap fake-gold chain.",
+      "voice": "man of 28, strictly standard Hà Nội Northern accent (never Southern accent), rough loud bass, blustering, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter",
+      "rate": 4.0
+    }
+  },
+  "scenes": []
+}

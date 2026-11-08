@@ -1,6 +1,6 @@
 # KỊCH BẢN CHI TIẾT 15 PHÚT: CĂN NHÀ ÂM DƯƠNG: OAN HỒN DƯỚI GỐC MÍT
 
-- **Giọng Người Dẫn Chuyện (cố định cả 90 clip):** Vietnamese man about 45, standard Hà Nội accent with clear six tones, firm resonant baritone with a slight rasp, crisp consonants, tense late-night ghost-story delivery at a brisk, steady pace, only tiny breaths at commas, no dragged vowels. Mỗi clip VO dùng **nguyên văn cùng một câu mô tả giọng** để Omni giữ một giọng duy nhất; nhịp ~4 âm tiết/giây.
+- **Giọng Người Dẫn Chuyện (cố định cả 90 clip):** Vietnamese man about 45, standard Hà Nội Northern accent with clear six tones, sharp resonant mid-baritone with crisp consonants, fast and fluent late-night ghost-story delivery in one continuous breath, every word spoken once and clearly, no stutter, no pauses mid-sentence, never slow or sleepy. Mỗi clip VO dùng **nguyên văn cùng một câu mô tả giọng** để Omni giữ một giọng duy nhất; đọc nhanh liên thanh như oan-thai-doi-me, ~4.0 âm tiết/giây, liền một hơi, không ngắt giữa câu.
 
 ## Cảnh 01: Chuyến Xe Khách Đêm Khuya & Món Nợ Bốn Trăm Triệu (23:30 Đêm khuya trên quốc lộ về quê nội (00:00–01:00))
 - **Bối cảnh:** Lone sleeper coach bus crawling along a misty Northern Vietnamese rural highway and the dimly lit window seat inside the bus cabin (plus brief phone cutaway to @BaPhuong's kitchen).

@@ -35,8 +35,8 @@ CHANNEL_SLUG = "pheo-va-no-meo"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
 # 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "365 NGÀY PHÈO LÀM NỘI TRỢ" (Tỉ lệ: 9:16 PORTRAIT)
-PROJECT_ID = "f6b818b2-a277-4ce4-865c-5c01df274074"
-DEFAULT_PROJECT_ID = "f6b818b2-a277-4ce4-865c-5c01df274074"
+PROJECT_ID = "d98ffa3b-7797-47c5-87be-55bb0e2a73f8"
+DEFAULT_PROJECT_ID = "d98ffa3b-7797-47c5-87be-55bb0e2a73f8"
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_PORTRAIT"  # 9:16 Khung hình dọc TikTok
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_PORTRAIT"
 
@@ -59,7 +59,7 @@ CHARACTER_SPECS = [
         "key": "Pheo",
         "tag": "@Pheo",
         "aliases": ["@Pheo", "@Phèo", "Pheo", "Phèo"],
-        "default_media_id": "9571d87d-b884-4709-802f-5c112e782bd7",
+        "default_media_id": "ed473cc1-f931-45ec-92a2-89119cb89076",
         "description": "Phèo: chú mèo đen mập tròn nhân hóa đi hai chân, lông đen mượt như nhung với mảng lông trắng nhỏ trước ngực, mắt vàng hổ phách to tròn, tai trái có vết khuyết chữ V nhỏ, đội mũ đầu bếp trắng nghiêng nhẹ sang phải, mặc áo thun trắng ngắn tay, tạp dề bếp xanh navy dài tới gối và khăn quàng cổ nhỏ màu đỏ.",
         "ref_prompt": (
             "Full-body character reference sheet of @Pheo, an anthropomorphic chubby adult male black cat standing upright on two legs; "
@@ -74,7 +74,7 @@ CHARACTER_SPECS = [
         "key": "No",
         "tag": "@No",
         "aliases": ["@No", "@Nở", "Bà chủ Hường", "Hường", "Nở"],
-        "default_media_id": "facc995c-1705-4e7b-abae-90d794eb9aaf",
+        "default_media_id": "8a1b632c-a961-4a87-b512-0724e965b5c3",
         "description": "Nở / Bà chủ Hường: cô chó Pomeranian lông xù màu kem cam nhân hóa đi hai chân, đôi tai nhọn vểnh, mặc đồ bộ lụa hồng cánh sen in hoa trang nhã, đeo chuỗi vòng cổ ngọc trai trắng, vòng tay vàng bản to ở cả hai cổ tay, kính râm đồi mồi cài trên đỉnh đầu và đi dép bông hồng trong nhà.",
         "ref_prompt": (
             "Full-body character reference sheet of @No (Bà chủ Hường), an anthropomorphic chubby adult female Pomeranian dog standing upright "
@@ -217,17 +217,18 @@ def load_and_lock_project_characters():
         aliases_lower = {a.lower().lstrip("@") for a in spec["aliases"]}
         matched_mid = None
 
-        for rc in remote_chars:
-            rc_name = (rc.get("name") or "").strip().lower().lstrip("@")
-            if rc_name in aliases_lower and rc.get("media_id"):
-                matched_mid = rc["media_id"]
-                break
+        if not matched_mid and project_cache.get(tag):
+            matched_mid = project_cache[tag]
 
         if not matched_mid and PROJECT_ID == DEFAULT_PROJECT_ID and spec.get("default_media_id"):
             matched_mid = spec["default_media_id"]
 
-        if not matched_mid and project_cache.get(tag):
-            matched_mid = project_cache[tag]
+        if not matched_mid:
+            for rc in remote_chars:
+                rc_name = (rc.get("name") or "").strip().lower().lstrip("@")
+                if rc_name in aliases_lower and rc.get("media_id"):
+                    matched_mid = rc["media_id"]
+                    break
 
         if not matched_mid:
             for ext in ("jpg", "jpeg", "png"):

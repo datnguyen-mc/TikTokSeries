@@ -35,8 +35,8 @@ CHANNEL_SLUG = "mit-va-du-1970"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
 # 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "MÍT VÀ ĐÚ 1970" (Tỉ lệ: 9:16 PORTRAIT)
-PROJECT_ID = "b3df1136-7a63-4958-80de-4d56f845f740"
-DEFAULT_PROJECT_ID = "b3df1136-7a63-4958-80de-4d56f845f740"
+PROJECT_ID = "234b0e61-f736-4e77-a1d9-527b2fadc582"
+DEFAULT_PROJECT_ID = "234b0e61-f736-4e77-a1d9-527b2fadc582"
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_PORTRAIT"  # 9:16 Khung hình dọc TikTok
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_PORTRAIT"
 
@@ -59,7 +59,7 @@ CHARACTER_SPECS = [
         "key": "Mit",
         "tag": "@Mit",
         "aliases": ["@Mit", "@Mít", "Mit", "Mít"],
-        "default_media_id": "64f764da-2094-4c1c-8d6f-1c61670e1224",
+        "default_media_id": "27613158-7873-4f43-acc8-be0785085843",
         "description": "Mit (chồng, ~35 tuổi): chó đực lông vàng nâu nhân hóa đi hai chân, mõm và ngực trắng kem, lông mày đậm biểu cảm, hai tai cụp mềm, dáng chắc khỏe bụng hơi tròn, mặc áo ba lỗ xám bạc màu và quần đùi tối màu.",
         "ref_prompt": (
             "Full-body character reference sheet of @Mit, a 35-year-old anthropomorphic golden-brown Vietnamese dog "
@@ -73,7 +73,7 @@ CHARACTER_SPECS = [
         "key": "Du",
         "tag": "@Đú",
         "aliases": ["@Đú", "@Du", "Đú", "Du"],
-        "default_media_id": "2ceca240-8f07-405f-9c1a-298856e0b508",
+        "default_media_id": "0f6a1316-e7cf-4722-9930-3a58e3513445",
         "description": "Đú (vợ, ~30 tuổi): chó cái lông vàng kem nhân hóa đi hai chân, mõm trắng có vệt lông trắng dọc sống mũi lên trán, hai tai dài cụp mềm màu nâu nhạt, mặc áo bà ba hồng nhạt in hoa nhỏ, quần đen, dép nâu.",
         "ref_prompt": (
             "Full-body character reference sheet of @Đú, an early-30s gentle anthropomorphic cream-and-light-brown female Vietnamese dog "
@@ -86,7 +86,7 @@ CHARACTER_SPECS = [
         "key": "No",
         "tag": "@Nở",
         "aliases": ["@Nở", "@No", "Nở", "No"],
-        "default_media_id": "50061769-c160-41ce-b8ec-b62a90e1eb3c",
+        "default_media_id": "d0535a47-2f3b-4173-8e35-8f7663673eaf",
         "description": "Nở (con gái 6 tuổi): chó con dễ thương nhân hóa đi hai chân, cao ngang bụng Mít, lông kem mềm có mảng nâu nhạt trên đầu và hai tai cụp mềm, mõm trắng nhỏ, mắt tròn đen láy, mặc áo vàng nhạt in hoa nhỏ, chân váy nâu sẫm, dép sandal nhỏ.",
         "ref_prompt": (
             "Full-body character reference sheet of @Nở, an adorable 6-year-old small anthropomorphic female puppy (chó con dễ thương) "
@@ -235,20 +235,20 @@ def load_and_lock_project_characters():
         aliases_lower = {a.lower().lstrip("@") for a in spec["aliases"]}
         matched_mid = None
 
-        # Ưu tiên 1: Tìm trong danh sách @Character lưu trực tiếp trên Google Flow Project
-        for rc in remote_chars:
-            rc_name = (rc.get("name") or "").strip().lower().lstrip("@")
-            if rc_name in aliases_lower and rc.get("media_id"):
-                matched_mid = rc["media_id"]
-                break
+        # Ưu tiên 1: Lấy từ cache local của PROJECT_ID hiện tại hoặc default_media_id đã xác thực
+        if not matched_mid and project_cache.get(tag):
+            matched_mid = project_cache[tag]
 
-        # Ưu tiên 2: Nếu đang ở đúng DEFAULT_PROJECT_ID, dùng default_media_id gốc đã xác thực
         if not matched_mid and PROJECT_ID == DEFAULT_PROJECT_ID and spec.get("default_media_id"):
             matched_mid = spec["default_media_id"]
 
-        # Ưu tiên 3: Lấy từ cache local của PROJECT_ID hiện tại
-        if not matched_mid and project_cache.get(tag):
-            matched_mid = project_cache[tag]
+        # Ưu tiên 2: Tìm trong danh sách @Character lưu trực tiếp trên Google Flow Project
+        if not matched_mid:
+            for rc in remote_chars:
+                rc_name = (rc.get("name") or "").strip().lower().lstrip("@")
+                if rc_name in aliases_lower and rc.get("media_id"):
+                    matched_mid = rc["media_id"]
+                    break
 
         if not matched_mid:
             for ext in ("jpg", "jpeg", "png"):

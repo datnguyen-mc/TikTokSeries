@@ -12,7 +12,7 @@ Location: the ground-floor living room of the narrow rented tube house in a Saig
 [CHARACTER STATE IN THIS CLIP]
 @DaiCa: exactly his reference outfit (red bomber jacket over the plain yellow t-shirt, tiger-stripe cargo shorts, barefoot), thin golden circlet on his head, the pen-sized red-and-gold staff tucked behind his right ear unless the shot list says he holds it.
 @HeoLuoi: exactly his reference outfit (oversized plain black t-shirt under the open navy-blue robe, dark shorts, black rubber flip-flops), plus one small folded white face towel on his head (lying across his forehead while he lies down), the same towel in every clip of this episode. From the moment the magic cloud starts to drizzle, his head, the towel, his floppy ears and his shoulders get wet and drip.
-@UtKho: exactly his reference outfit (earth-brown robe, olive-green kitchen apron, large dark-wood prayer-bead necklace), nothing on his head.
+@UtKho: fully clothed in his long-sleeved earth-brown robe and olive-green kitchen apron tied over his chest with his large dark-wood prayer-bead necklace (never shirtless, torso completely covered at all times), nothing on his head.
 
 [PROPS IN THIS CLIP — exact list, nothing else]
 - In @DaiCa's right paw: the pen-sized red-and-gold staff, which grows to the length of his arm when the shot list says.

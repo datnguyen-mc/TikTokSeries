@@ -35,8 +35,8 @@ CHANNEL_SLUG = "mit-va-du-1970"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
 # 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "MÍT VÀ ĐÚ 1970" (Tỉ lệ: 9:16 PORTRAIT)
-PROJECT_ID = "234b0e61-f736-4e77-a1d9-527b2fadc582"
-DEFAULT_PROJECT_ID = "234b0e61-f736-4e77-a1d9-527b2fadc582"
+PROJECT_ID = "b3df1136-7a63-4958-80de-4d56f845f740"
+DEFAULT_PROJECT_ID = "b3df1136-7a63-4958-80de-4d56f845f740"
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_PORTRAIT"  # 9:16 Khung hình dọc TikTok
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_PORTRAIT"
 
@@ -59,7 +59,7 @@ CHARACTER_SPECS = [
         "key": "Mit",
         "tag": "@Mit",
         "aliases": ["@Mit", "@Mít", "Mit", "Mít"],
-        "default_media_id": "50cf224b-1304-4320-8896-4b4d599d2056",
+        "default_media_id": "",
         "description": "Mit (chồng, ~35 tuổi): chó đực lông vàng nâu nhân hóa đi hai chân, mõm và ngực trắng kem, lông mày đậm biểu cảm, hai tai cụp mềm, dáng chắc khỏe bụng hơi tròn, mặc áo ba lỗ xám bạc màu và quần đùi tối màu.",
         "ref_prompt": (
             "Full-body character reference sheet of @Mit, a 35-year-old anthropomorphic golden-brown Vietnamese dog "
@@ -73,7 +73,7 @@ CHARACTER_SPECS = [
         "key": "Du",
         "tag": "@Đú",
         "aliases": ["@Đú", "@Du", "Đú", "Du"],
-        "default_media_id": "44114803-92e4-48fb-ac9b-377a6c7c1cd2",
+        "default_media_id": "",
         "description": "Đú (vợ, ~30 tuổi): chó cái lông vàng kem nhân hóa đi hai chân, mõm trắng có vệt lông trắng dọc sống mũi lên trán, hai tai dài cụp mềm màu nâu nhạt, mặc áo bà ba hồng nhạt in hoa nhỏ, quần đen, dép nâu.",
         "ref_prompt": (
             "Full-body character reference sheet of @Đú, an early-30s gentle anthropomorphic cream-and-light-brown female Vietnamese dog "
@@ -86,7 +86,7 @@ CHARACTER_SPECS = [
         "key": "No",
         "tag": "@Nở",
         "aliases": ["@Nở", "@No", "Nở", "No"],
-        "default_media_id": "43579677-48b3-4d74-88e9-61b88aa07dd3",
+        "default_media_id": "",
         "description": "Nở (con gái 6 tuổi): chó con dễ thương nhân hóa đi hai chân, cao ngang bụng Mít, lông kem mềm có mảng nâu nhạt trên đầu và hai tai cụp mềm, mõm trắng nhỏ, mắt tròn đen láy, mặc áo vàng nhạt in hoa nhỏ, chân váy nâu sẫm, dép sandal nhỏ.",
         "ref_prompt": (
             "Full-body character reference sheet of @Nở, an adorable 6-year-old small anthropomorphic female puppy (chó con dễ thương) "
@@ -847,6 +847,10 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
                             has_failed = True
                             all_done = False
+                        elif elapsed >= 75 and "Media not found" in (op.get("complaint") or ""):
+                            log(f"⚠️ Google Flow báo 'Media not found' sau {elapsed}s — dừng poll sớm để thử lại.")
+                            has_failed = True
+                            all_done = False
                         else:
                             all_done = False
 
@@ -1039,5 +1043,5 @@ def run_pipeline(start_ep=1, end_ep=27):
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 27
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 28
     run_pipeline(start, end)

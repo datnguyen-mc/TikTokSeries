@@ -35,8 +35,8 @@ CHANNEL_SLUG = "tay-du-ky-2026"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
 # 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "TÂY DU KÝ 2026" (Tỉ lệ: 9:16 PORTRAIT)
-PROJECT_ID = "5a1c26fe-7edc-42e3-b927-09e16e8f481d"
-DEFAULT_PROJECT_ID = "5a1c26fe-7edc-42e3-b927-09e16e8f481d"
+PROJECT_ID = "722fdb70-57f3-40a3-9f93-dcc383a79d4b"
+DEFAULT_PROJECT_ID = "722fdb70-57f3-40a3-9f93-dcc383a79d4b"
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_PORTRAIT"  # 9:16 Khung hình dọc TikTok
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_PORTRAIT"
 
@@ -52,55 +52,59 @@ os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
 os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
-# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA NHÂN VẬT CỐ ĐỊNH CỦA SERIES (TÂY DU KÝ 2026)
+# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA NHÂN VẬT CỐ ĐỊNH CỦA SERIES (TÂY DU KÝ 2026 — 2D HOẠT HÌNH)
 # -------------------------------------------------------------
 CHARACTER_SPECS = [
     {
         "key": "Thay",
         "tag": "@Thay",
         "aliases": ["@Thay", "@DuongTang", "DuongTang", "Đường Tăng", "Thầy"],
-        "default_media_id": "ad0c12d2-83a3-46df-a61c-c97f150c1fd1",
-        "description": "Thầy / Đường Tăng: nhà sư trẻ tuấn tú hiền lành, đầu cạo trọc, mặc áo cà sa cam nghệ và áo lót trắng ngà, đeo chuỗi hạt gỗ 108 hạt.",
+        "default_media_id": "",
+        "description": "Thầy / Đường Tăng: nhà sư trẻ đầu cạo trọc, mặt tròn hiền hậu má hồng nhẹ, mặc áo cà sa cam nghệ khoác y đỏ sẫm bên vai trái và đeo chuỗi hạt gỗ nâu quanh cổ.",
         "ref_prompt": (
-            "Full-body 3D stylized character reference sheet of @Thay (DuongTang), a handsome gentle young monk in his late 20s, "
-            "clean-shaven head, serene warm eyes, wearing a saffron-orange monk robe draped over a cream inner shirt and wooden prayer beads. "
-            "High-end stylized 3D CGI animation, vertical 9:16."
+            "Full-body 2D hand-drawn cel-animated cartoon character reference of @Thay, a young shaved-head human Buddhist monk in his late twenties, "
+            "soft round face with gentle rosy cheeks, calm kind eyes and serene smile; fully dressed in a loose saffron-orange monk's robe with a deep-red "
+            "kasaya sash draped over the left shoulder and brown wooden prayer beads around his neck. Clean bold outlines, flat colors with simple cel shading, "
+            "vibrant 2D comedy cartoon style, plain light neutral background, vertical 9:16."
         ),
     },
     {
         "key": "DaiCa",
         "tag": "@DaiCa",
         "aliases": ["@DaiCa", "@NgoKhong", "NgoKhong", "Ngộ Không", "Đại Ca"],
-        "default_media_id": "34619eb9-7c90-4337-87c0-8375e53f4e3d",
-        "description": "Đại Ca / Ngộ Không: chàng khỉ nhân hóa lanh lẹ, lông vàng nâu, đeo vòng kim cô vàng trên trán, mặc áo khoác bomber đỏ, quần jogger đen.",
+        "default_media_id": "",
+        "description": "Đại Ca / Ngộ Không: khỉ nhân hóa nhỏ con lanh lẹ, lông vàng nâu, mặt hình trái tim hồng đỏ, mắt hổ phách sáng, đeo vòng kim cô vàng mảnh, mặc áo bomber đỏ ngoài áo thun vàng trơn và quần short túi hộp họa tiết da hổ cam đen, chân trần, gậy Như Ý nhỏ bằng cây bút cài sau tai phải.",
         "ref_prompt": (
-            "Full-body 3D stylized character reference sheet of @DaiCa (NgoKhong), an agile anthropomorphic golden-furred monkey king "
-            "standing upright on two legs, wearing a golden headband circlet (vòng kim cô), a modern red streetwear bomber jacket over a yellow tee, "
-            "and black cargo joggers. High-end stylized 3D CGI animation, vertical 9:16."
+            "Full-body 2D hand-drawn cel-animated cartoon character reference of @DaiCa, a small wiry anthropomorphic monkey standing upright on two legs, "
+            "golden-brown fur, heart-shaped pinkish-red face, bright amber eyes, thin golden circlet headband; fully dressed in a red bomber jacket over a "
+            "plain yellow t-shirt and orange-and-black tiger-stripe cargo shorts, barefoot; a pen-sized red-and-gold staff tucked behind his right ear. "
+            "Clean bold outlines, flat colors with simple cel shading, vibrant 2D comedy cartoon style, plain light neutral background, vertical 9:16."
         ),
     },
     {
         "key": "HeoLuoi",
         "tag": "@HeoLuoi",
         "aliases": ["@HeoLuoi", "@BatGioi", "BatGioi", "Bát Giới", "Heo Lười"],
-        "default_media_id": "e556190e-4c69-464c-b081-cd1b87a39135",
-        "description": "Heo Lười / Bát Giới: chàng heo nhân hóa mập tròn vui tính, mũi heo hồng, tai to, mặc áo thun đen hở bụng tròn và áo sơ mi khoác ngoài xanh navy.",
+        "default_media_id": "",
+        "description": "Heo Lười / Bát Giới: heo hồng nhân hóa mập tròn, tai to cụp mềm, mắt nhỏ híp, mũi heo hồng rộng, mặc áo thun đen rộng bên trong áo choàng xanh navy mở vạt và quần đùi tối màu, đi dép tông cao su đen.",
         "ref_prompt": (
-            "Full-body 3D stylized character reference sheet of @HeoLuoi (BatGioi), a chubby cheerful anthropomorphic pig standing upright, "
-            "pink pig snout and big floppy ears, round belly, wearing an open navy-blue Hawaiian shirt over a black t-shirt and shorts. "
-            "High-end stylized 3D CGI animation, vertical 9:16."
+            "Full-body 2D hand-drawn cel-animated cartoon character reference of @HeoLuoi, a chubby round anthropomorphic pink pig standing upright on two legs, "
+            "large floppy ears, small squinting eyes, wide pink snout; fully dressed in an oversized plain black t-shirt under an open navy-blue robe and "
+            "dark shorts, and black rubber flip-flops. Clean bold outlines, flat colors with simple cel shading, vibrant 2D comedy cartoon style, "
+            "plain light neutral background, vertical 9:16."
         ),
     },
     {
         "key": "UtKho",
         "tag": "@UtKho",
         "aliases": ["@UtKho", "@SaTang", "SaTang", "Sa Tăng", "Út Khờ"],
-        "default_media_id": "34b98c88-ca70-463a-bd23-128c4d405b38",
-        "description": "Út Khờ / Sa Tăng: chàng trai to lớn thật thà, râu quai nón dày, đeo chuỗi hạt to quanh cổ, mặc tạp dề xanh rêu.",
+        "default_media_id": "",
+        "description": "Út Khờ / Sa Tăng: người khổng lồ hiền lành cao to nhất nhóm, da xanh xám, đầu trọc, râu quai nón ngắn gọn màu đỏ gạch, mặc áo dài tay màu nâu đất, đeo tạp dề bếp xanh rêu trước ngực và vòng hạt gỗ lớn màu nâu sẫm quanh cổ.",
         "ref_prompt": (
-            "Full-body 3D stylized character reference sheet of @UtKho (SaTang), a tall muscular honest-looking man with a thick beard "
-            "and topknot hair, wearing large wooden beads around his neck and an olive-green apron over work clothes. "
-            "High-end stylized 3D CGI animation, vertical 9:16."
+            "Full-body 2D hand-drawn cel-animated cartoon character reference of @UtKho, a very tall gentle giant standing upright, blue-grey skin, "
+            "bald head, short neat rust-red beard; fully dressed in a long-sleeved earth-brown robe with an olive-green kitchen apron tied over his chest "
+            "and a necklace of large dark-wood prayer beads. Clean bold outlines, flat colors with simple cel shading, vibrant 2D comedy cartoon style, "
+            "plain light neutral background, vertical 9:16."
         ),
     },
 ]
@@ -826,6 +830,10 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
                             has_failed = True
                             all_done = False
+                        elif elapsed >= 75 and "Media not found" in (op.get("complaint") or ""):
+                            log(f"⚠️ Google Flow báo 'Media not found' sau {elapsed}s — dừng poll sớm để thử lại.")
+                            has_failed = True
+                            all_done = False
                         else:
                             all_done = False
 
@@ -1018,5 +1026,5 @@ def run_pipeline(start_ep=8, end_ep=21):
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 8
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 21
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 22
     run_pipeline(start, end)

@@ -35,8 +35,8 @@ CHANNEL_SLUG = "pheo-va-no-meo"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
 # 👉 PROJECT_ID GOOGLE FLOW CỦA SERIES "365 NGÀY PHÈO LÀM NỘI TRỢ" (Tỉ lệ: 9:16 PORTRAIT)
-PROJECT_ID = "d98ffa3b-7797-47c5-87be-55bb0e2a73f8"
-DEFAULT_PROJECT_ID = "d98ffa3b-7797-47c5-87be-55bb0e2a73f8"
+PROJECT_ID = "f6b818b2-a277-4ce4-865c-5c01df274074"
+DEFAULT_PROJECT_ID = "f6b818b2-a277-4ce4-865c-5c01df274074"
 ASPECT_RATIO = "VIDEO_ASPECT_RATIO_PORTRAIT"  # 9:16 Khung hình dọc TikTok
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_PORTRAIT"
 
@@ -59,48 +59,30 @@ CHARACTER_SPECS = [
         "key": "Pheo",
         "tag": "@Pheo",
         "aliases": ["@Pheo", "@Phèo", "Pheo", "Phèo"],
-        "default_media_id": "af7d8804-5203-4364-b47e-cd30f20bf0fe",
-        "description": "Phèo: chú mèo đen mập tròn nhân hóa đi hai chân, lông đen mượt như nhung với mảng lông trắng nhỏ trước ngực, mắt vàng hổ phách to tròn, tai trái có vết khuyết chữ V nhỏ, đội mũ đầu bếp trắng và đeo tạp dề xanh navy.",
+        "default_media_id": "",
+        "description": "Phèo: chú mèo đen mập tròn nhân hóa đi hai chân, lông đen mượt như nhung với mảng lông trắng nhỏ trước ngực, mắt vàng hổ phách to tròn, tai trái có vết khuyết chữ V nhỏ, đội mũ đầu bếp trắng nghiêng nhẹ sang phải, mặc áo thun trắng ngắn tay, tạp dề bếp xanh navy dài tới gối và khăn quàng cổ nhỏ màu đỏ.",
         "ref_prompt": (
-            "Full-body character reference sheet of @Pheo, a chubby anthropomorphic jet-black domestic cat standing upright on two legs, "
-            "velvety black fur with a small white chest locket patch, big round amber-gold eyes, pink nose, LEFT ear tip has a tiny V-notch, "
-            "wearing a crisp white chef toque hat and a dark-navy kitchen apron over his chubby cat belly, barefoot with pink paw pads. "
-            "Pixar/Disney-quality stylized 3D CGI, vertical 9:16."
+            "Full-body character reference sheet of @Pheo, an anthropomorphic chubby adult male black cat standing upright on two legs; "
+            "detailed velvety jet-black short fur with a small white chest locket patch, big round belly, round cheeks, big expressive amber-yellow eyes, "
+            "small pink nose, long white whiskers, a distinct V-shaped notch on the tip of his LEFT ear, thick black tail, four-fingered black furry paw-hands "
+            "with soft paw pads, barefoot; wearing a tall white chef's toque tilted slightly to the right, crisp white short-sleeve crew-neck t-shirt, "
+            "navy-blue knee-length kitchen apron with one front pocket, and a small red neckerchief tied neatly at the throat. "
+            "Pixar/Disney-quality stylized 3D CGI, plain light neutral studio background, vertical 9:16."
         ),
     },
     {
         "key": "No",
         "tag": "@No",
         "aliases": ["@No", "@Nở", "Bà chủ Hường", "Hường", "Nở"],
-        "default_media_id": "b25ca9d3-5643-4eac-badc-7fef900ca3c6",
-        "description": "Nở / Bà chủ Hường: cô chó Pomeranian lông xù màu kem cam nhân hóa đi hai chân, đôi tai nhọn vểnh, mặc đồ bộ lụa hồng cánh sen in hoa mẫu đơn, đeo chuỗi vòng cổ ngọc trai và lắc vàng.",
+        "default_media_id": "",
+        "description": "Nở / Bà chủ Hường: cô chó Pomeranian lông xù màu kem cam nhân hóa đi hai chân, đôi tai nhọn vểnh, mặc đồ bộ lụa hồng cánh sen in hoa trang nhã, đeo chuỗi vòng cổ ngọc trai trắng, vòng tay vàng bản to ở cả hai cổ tay, kính râm đồi mồi cài trên đỉnh đầu và đi dép bông hồng trong nhà.",
         "ref_prompt": (
-            "Full-body character reference sheet of @No (Bà chủ Hường), an anthropomorphic fluffy cream-and-orange Pomeranian dog standing upright "
-            "on two legs, plump pampered build, big expressive dark eyes with long lashes, wearing a glossy lotus-pink silk pajama set "
-            "(đồ bộ lụa hồng cánh sen) with peony prints, a white pearl necklace, gold bangles, and fluffy pink indoor slippers. "
-            "Pixar/Disney-quality stylized 3D CGI, vertical 9:16."
-        ),
-    },
-    {
-        "key": "My",
-        "tag": "@My",
-        "aliases": ["@My", "@Mỹ"],
-        "default_media_id": "cd039e3c-4d00-44ba-8a2f-c8240ff45f52",
-        "description": "Mỹ: cô mèo trắng sang chảnh nhân hóa đi hai chân, mắt xanh ngọc, mặc váy thời trang.",
-        "ref_prompt": (
-            "Full-body character reference sheet of @My, a glamorous anthropomorphic snow-white Persian cat standing upright on two legs, "
-            "sapphire-blue eyes, wearing a chic pastel dress. Pixar/Disney-quality stylized 3D CGI, vertical 9:16."
-        ),
-    },
-    {
-        "key": "MeoTre",
-        "tag": "@MèoTrẻ",
-        "aliases": ["@MèoTrẻ", "@MeoTre"],
-        "default_media_id": "9bd95545-60c2-4920-b327-55b36338014b",
-        "description": "Mèo Trẻ: chú mèo con năng động nhân hóa đi hai chân.",
-        "ref_prompt": (
-            "Full-body character reference sheet of @MèoTrẻ, a cute young anthropomorphic tabby kitten standing upright on two legs. "
-            "Pixar/Disney-quality stylized 3D CGI, vertical 9:16."
+            "Full-body character reference sheet of @No (Bà chủ Hường), an anthropomorphic chubby adult female Pomeranian dog standing upright "
+            "on two legs; very fluffy cream-orange fur with a lighter cream chest ruff, round pampered face, small black button nose, big glossy dark-brown eyes "
+            "with long curled eyelashes, pink lipstick, small upright fluffy Pomeranian ears, curled fluffy tail, four-fingered fluffy cream-orange paw-hands "
+            "with soft pink paw pads; wearing a glossy lotus-pink silk Vietnamese pajama set (đồ bộ lụa hồng) with a delicate floral print, short-sleeve "
+            "button-up top and loose long trousers, a single-strand white pearl necklace, chunky gold bracelets on both wrists, oversized tortoiseshell "
+            "sunglasses pushed up on top of her head, and pink indoor slippers. Pixar/Disney-quality stylized 3D CGI, plain light neutral studio background, vertical 9:16."
         ),
     },
 ]
@@ -826,6 +808,10 @@ def poll_generation(submit_res_data: dict, ep_num: int, clip_num: int, timeout_s
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
                             has_failed = True
                             all_done = False
+                        elif elapsed >= 75 and "Media not found" in (op.get("complaint") or ""):
+                            log(f"⚠️ Google Flow báo 'Media not found' sau {elapsed}s — dừng poll sớm để thử lại.")
+                            has_failed = True
+                            all_done = False
                         else:
                             all_done = False
 
@@ -1018,5 +1004,5 @@ def run_pipeline(start_ep=1, end_ep=20):
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 20
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 22
     run_pipeline(start, end)

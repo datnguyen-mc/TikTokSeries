@@ -4,6 +4,23 @@ Mỗi lần làm tập xu hướng, thêm một mục ngày mới lên đầu fi
 
 ---
 
+## 09/11/2026
+
+Quét sáng 09/11/2026 (giờ Việt Nam) cho **Tây Du Ký 2026 tap-22** (tập 60 giây tổng kết hot & drama của ngày): RSS Google Trends VN, RSS VnExpress (tin nổi bật, mới nhất, thời sự, đời sống, giải trí, kinh doanh), RSS Dân trí (trang chủ, đời sống, xã hội, kinh doanh), RSS Tuổi Trẻ (tin mới, nhịp sống trẻ), đối chiếu Google News. Phèo tap-22 (tập dạy nấu ăn 60 giây) và Mít & Đú tap-28 (chuyện thôn quê 1970) viết cùng ngày theo luật mới của hai bible, không lấy tin.
+
+| Chủ đề / Từ khóa | Nguồn kiểm chứng | Dùng cho |
+| ---------------- | ---------------- | -------- |
+| **Clip "văn mẫu xin nghỉ làm"**: "Alo sếp nghe rõ không?", sốt cao, mắt mờ, nhức đầu, buồn nôn, nhà mưa lớn, không ai trông, xe hư, chốt "Bây giờ chắc em ở nhà luôn"; bình luận "Sóng kém, sếp nghe không rõ" | [Tuổi Trẻ 09/11 09:00](https://tuoitre.vn/alo-sep-nghe-ro-khong-em-nhuc-dau-troi-mua-lon-lai-xe-dang-hu-100261106141026253.htm) | **[Tây Du Ký tap-22](tay-du-ky-2026/tap-22/README.md)** *(Văn mẫu xin nghỉ gặp mùa cưới)*: Heo Lười gọi chị chủ "Em sốt, nhức đầu, trời mưa to…" giữa trưa nắng |
+| **Tranh cãi mừng cưới 500.000 đồng**: status "khách ăn xong về, có biết chủ nhà bù lỗ bao nhiêu không?"; người đòi phong bì nhỉnh hơn vì vật giá, người bảo 500.000 đồng là được, ở quê 300.000 đồng; kết: tùy tâm, tùy quan hệ | [Tuổi Trẻ 08/11 08:40](https://tuoitre.vn/di-dam-cuoi-500-ngan-khach-an-xong-ve-co-biet-chu-nha-bu-lo-bao-nhieu-khong-10026110322130185.htm); chủ đề có trên nhiều trang 06–08/11 (Google News) | **Tây Du Ký tap-22**: "Mừng ít bị chê, mừng nhiều thì đói!"; Út Khờ đọc thiệp: không nhận phong bì |
+| **Học sinh lớp 2 đổi chỗ ngồi "như lập trình"** chưa đầy một phút, hai hiệu lệnh "bước sang bên phải một bước", "xoay người, bước sang bàn sau một bàn" | [Dân trí 09/11 09:00](https://dantri.com.vn/giao-duc/hoc-sinh-lop-2-doi-cho-ngoi-nhu-lap-trinh-nguoi-xem-tram-tro-20261108220458952.htm) | **Tây Du Ký tap-22**: Đại Ca hô "Đổi chỗ như lập trình! Bước sang phải!", mây mưa vẫn bám đầu Heo Lười |
+| "giảm thuế" (Google Trends VN 500+): hộ kinh doanh, doanh nghiệp doanh thu không quá 10 tỉ đồng được giảm 30% thuế thu nhập năm 2026–2027 | [Thanh Niên 09/11 06:00](https://thanhnien.vn/hang-trieu-doanh-nghiep-ho-kinh-doanh-duoc-giam-thue-185261108213408475.htm) | Lưu dự phòng: tập La Sát (hộ kinh doanh nhà trọ) và tiền trọ; chính sách nặng số liệu nên chưa dùng |
+| Vé máy bay Tết tăng giá (TP.HCM ra Bắc 3–4 triệu đồng/chiều) · Xe ôm liên tỉnh "cứu" khách say ôtô | [Tuổi Trẻ 09/11 09:40](https://tuoitre.vn/ve-may-bay-tet-tang-gia-them-hang-trieu-ghe-van-kho-tim-ve-re-100261109084921581.htm), [VnExpress 09/11 06:29](https://vnexpress.net/dich-vu-xe-om-lien-tinh-cuu-khach-say-oto-5142023.html) | Lưu dự phòng cho tập Cân Đẩu Vân "về quê ăn Tết"; bỏ tên hãng bay và tên tài xế thật |
+| "Người thấp lùn có thể ít mắc bệnh hơn người cao" · robot hình người dẫn bản tin | [VnExpress 09/11 07:00](https://vnexpress.net/nguoi-thap-lun-co-the-it-mac-benh-hon-nguoi-cao-lon-5141663.html), VnExpress 08/11 | **Không dùng:** thông tin sức khỏe dễ hiểu sai (chỉ là liên hệ thống kê); robot xa đời sống nhà trọ |
+| Hoa hậu Việt Nam 2026, concert BigBang hủy, CEO Nvidia, Faker và CKTG, NSND, giá vàng, giá USD | RSS VnExpress, Tuổi Trẻ, Google Trends VN 08–09/11 | **Không dùng:** người thật, thương hiệu, số liệu tài chính (vàng đã dùng ở Tập 18) |
+| Mưa lớn miền Trung, Hà Nội mưa rét ùn tắc, TP.HCM báo động triều cường, cháy quán karaoke Đồng Nai, xe điện tông container, phiên tòa Mr Pips và Shark Bình, bầu cử Mỹ, Iran, "bị chồng tát vì tiền mừng cưới" | RSS VnExpress, Dân trí, Tuổi Trẻ 07–09/11 | **Không dùng:** thiên tai, tai nạn, án hình sự, chính trị, bạo lực gia đình |
+
+---
+
 ## 05/11/2026
 
 Quét sáng 05/11/2026 (giờ Việt Nam) từ RSS Google Trends Việt Nam (`trends.google.com/trending/rss?geo=VN`), RSS VnExpress (Tin nổi bật, Thời sự, Kinh doanh, Đời sống, Du lịch), Dân trí (Đời sống, Kinh doanh), Tuổi Trẻ (Thời sự, Nhịp sống trẻ) và đối chiếu bằng Google Search cho cả **5 kênh TikTok 9:16** (**Phèo tap-17**, **Mít & Đú tap-23**, **Mẹ và Bé tap-9**, **365 Ngày Việt Nam tap11-moc-chau**, **Tây Du Ký 2026 tap-17**).

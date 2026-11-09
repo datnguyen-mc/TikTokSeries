@@ -97,7 +97,11 @@ CHÚ NĂM (the durian wharf boss): bipedal anthropomorphic dog standing upright 
 CÔ GIÁO HAI (the village teacher): gentle older bipedal anthropomorphic dog standing upright on two legs, silver-white fur, soft floppy silver-white ears hanging down, round wire-rimmed glasses, wearing a traditional plain white áo dài over black trousers, furry paw-hands with exactly four fingers. Voice: calm, gentle Southern Vietnamese female voice.
 
 BÀ BÁN VÉ SỐ (the elderly village vendor): gentle elderly bipedal anthropomorphic dog standing upright on two legs, small and slightly stooped, soft grey-white fur, soft floppy grey-white ears hanging down, kind wrinkled eyes, wearing a faded dark-brown áo bà ba with a patched elbow and black trousers, a cloth shoulder bag, furry paw-hands with exactly four fingers. Voice: kind, raspy elderly Southern Vietnamese female voice.
+
+BÀ BẢY (the elderly neighbour who lives alone next door): gentle elderly bipedal anthropomorphic dog standing upright on two legs, small and slightly stooped, soft grey-white fur, soft floppy grey-white ears hanging down, kind wrinkled eyes, wearing a faded dark-brown áo bà ba with a patched elbow and black trousers, barefoot, no shoulder bag, furry paw-hands with exactly four fingers. Voice: kind, raspy elderly Southern Vietnamese female voice.
 ```
+
+> Bà Bảy (từ Tập 28) chính là bà bán vé số ở Tập 10, nhà sát vách nhà Mit, sống một mình; khi bà ở nhà, prompt dùng dòng `BÀ BẢY` (bỏ túi vải đeo vai).
 
 ---
 
@@ -192,6 +196,7 @@ humans, human faces, human children, human hands, four-legged non-anthropomorphi
 | 25 | Đôi dép đứt quai của Nở & Bánh xèo củ hủ dừa của ba Mit | Bé Nở đứt quai dép mủ cũ; ba Mit đi đốn dừa mướn mang về khúc củ hủ dừa trắng nõn đổ bánh xèo giòn rụm bị bắn chấm bột nghệ lên mũi; ba tặng Nở đôi dép mới tinh, lộ cổ chân trần quấn vải trắng vì trèo đốn dừa | **Tập vở, hộp bút màu** |
 | 26 | Ốc bươu đồng hấp sả chấm mắm gừng & Chiếc đèn dầu hột vịt ba Mit thức khuya đan cặp giỏ lát cho Nở | Giỏ lát đi học của Nở bị sút góc đáy; ba Mit bắt ốc bươu đồng về hấp sả lá chanh chấm mắm gừng, thổi ốc nóng làm miếng gừng dính chóp mũi; ba tặng Nở chiếc giỏ lát mới tinh hai lớp đáy, lộ ngón tay cái quấn vải vì thức khuya bên đèn dầu hột vịt đan giỏ cho con | **Tập vở, hộp bút màu** |
 | 27 | Con bù nhìn rơm giống ba & Bầy chim sẻ phá ruộng lúa chín | Cuối mùa lúa chín, bầy chim sẻ phá ruộng nhà bên bờ kênh, ba Mit vẫy tay đuổi mà chim bay một vòng rồi đáp lại; ba buộc khung tre, má Đú góp áo cũ, Nở nhồi rơm làm con bù nhìn đội nón lá bụng tròn giống ba y chang; chim vẫn đậu trên tay bù nhìn, ba vỗ cánh đuổi thành "con bù nhìn thiệt"; chiều tà má mang ly nước ra đồng, ba nói mùa lúa này là tiền học cả năm của Nở; Nở vẽ tranh "con bù nhìn với ba" vào tập (tập thôn quê, không nấu ăn) | **Tập vở, hộp bút màu** |
+| 28 | Mưa bóng mây ngày phơi lúa & Tấm đệm che lúa nhà bà Bảy | Hôm sau ngày gặt, nhà Mit phơi một đệm lúa ngoài sân; ba nổ "ba coi trời trúng boong" thì mưa bóng mây rắc xuống liền, đậy đệm thì tạnh, giở ra thì mưa, Nở cười "Ông trời giỡn với ba kìa!", giọt mưa rớt trúng chóp mũi ba; má nói đệm lúa này là gạo ăn tới Tết, ba nhìn qua hàng rào thấy bà Bảy (bà bán vé số Tập 10, sát vách) cào lúa một mình; mưa thiệt kéo tới, ba ôm tấm đệm che duy nhất của nhà qua trùm lúa cho bà, để lúa nhà mình ướt sũng; má thấy tấm đệm nhà mình bên kia rào, hổng la một tiếng, lấy khăn rằn lau đầu ba: "Lúa ướt thì phơi lại, mình làm vậy là phải"; Nở ôm cổ ba; cầu vồng hiện trên kênh, Nở vẽ tặng ba, chốt: "Thì giờ ổng xin lỗi ba nè!" (tập thôn quê, không nấu ăn) | **Tập vở, hộp bút màu** |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -230,6 +235,7 @@ Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)
 | 25 | [tap-25/](tap-25/README.md) | Đôi dép đứt quai của Nở & Bánh xèo củ hủ dừa của ba Mit |
 | 26 | [tap-26/](tap-26/README.md) | Ốc bươu đồng hấp sả chấm mắm gừng & Chiếc đèn dầu hột vịt ba Mit thức khuya đan cặp giỏ lát cho Nở |
 | 27 | [tap-27/](tap-27/README.md) | Con bù nhìn rơm giống ba & Bầy chim sẻ phá ruộng lúa chín |
+| 28 | [tap-28/](tap-28/README.md) | Mưa bóng mây ngày phơi lúa & Tấm đệm che lúa nhà bà Bảy |
 
 ## Tập 20 (`tap-20`)
 

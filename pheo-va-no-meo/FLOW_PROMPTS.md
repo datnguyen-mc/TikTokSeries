@@ -216,6 +216,7 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 | 19 | Sườn non rim mặn ngọt mềm rục tróc xương | Hường hứa thưởng chuyến nghỉ dưỡng nghe sóng biển rì rào, cuối tập cho ngâm chân nước muối áp vỏ ốc vô tai | Dầu hào |
 | 20 | Gà ta kho gừng sả ớt thấm đẫm mặn ngọt | Hường hứa thưởng chuyến du lịch suối nước nóng tắm khoáng thư giãn; Phèo chọn 800g gà ta da vàng săn chắc, chà muối hạt + gừng đập dập 2 phút rửa trong thau khử mùi lông, ướp tỷ lệ vàng 3-2-1 trong 20 phút, xào săn lửa đầu với gừng sả rồi châm 150ml nước dừa tươi rim lửa nhỏ 15 phút sánh kẹo và dậy hương gừng tươi 30 giây cuối; cuối tập Hường bê ra thau nhựa nước gừng muối ấm cho Phèo ngâm chân "suối nước nóng khoáng gừng tại bếp" (tập 60s = 6 clip × 10s) | Nước mắm |
 | 21 | Thịt nạc rim nước dừa ngon như xá xíu | Hường hứa thưởng "một tháng lương" nếu thịt nạc rim không khô; Phèo chọn 750g nạc vai thái miếng dày rửa trong chậu để ráo, băm tỏi + hành khô, ướp 2 thìa nước mắm, 1 thìa xì dầu, 1 thìa tương ớt, 1 thìa đường, ½ thìa hạt nêm, ½ thìa tiêu, 2 thìa dầu ít nhất 30 phút, áp chảo mỗi mặt 1 phút, rim 330ml nước dừa lửa liu riu 45 phút (10 phút lật một lần) rồi rim lửa to đến khi sốt sánh bóng tách dầu; cuối tập Hường bưng ra năm thanh "lương khô" buộc nơ — "một tháng lương… khô" (tập 60s = 6 clip × 10s, giọng Bắc thanh thoát) | Nước mắm |
+| 22 | Đậu phụ nhồi thịt sốt cà chua · Thưởng "đi quẩy" | Hường hứa "không vỡ miếng nào thì tối nay chị cho em đi quẩy"; Phèo trộn 150 g thịt vai xay với mộc nhĩ, nấm hương, hành khô, hành lá, nêm 1 thìa cà phê nước mắm, ½ muối, ½ hạt nêm, ½ tiêu; chọn đậu trắng ngà, 5 bìa cắt đôi, khoét giữa chừa đáy 1 cm, nhồi vừa đầy miết nhẹ; dầu nóng lửa vừa, úp mặt thịt xuống trước, vàng chắc mới lật; phi hành khô, 4 quả cà chua bóc vỏ băm nhỏ, 2 thìa cà phê nước mắm, ½ muối, thả đậu vào sốt, om nhỏ lửa 10 phút, rắc hành; giữa tập Hường nhắc "vỡ một miếng là mất quẩy"; cuối tập Hường giữ lời giơ bó năm chiếc quẩy rán buộc nơ đỏ: "em tha hồ quẩy", Phèo đứng hình "đi quẩy thành ăn quẩy" (tập 60s = 6 clip × 10s, giọng Bắc thanh thoát; công thức theo VnExpress) | Nước mắm |
 
 ---
 
@@ -246,6 +247,7 @@ Mỗi tập mới **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 
 | 19 | [tap-19/](tap-19/README.md) | Sườn non rim mặn ngọt mềm rục tróc xương · Thưởng chuyến đi biển ngâm chân nước muối áp vỏ ốc |
 | 20 | [tap-20/](tap-20/README.md) | Gà ta kho gừng sả ớt thấm đẫm mặn ngọt · Thưởng chuyến suối nước nóng khoáng gừng ngâm chân tại bếp |
 | 21 | [tap-21/](tap-21/README.md) | Thịt nạc rim nước dừa ngon như xá xíu · Thưởng "một tháng lương… khô" |
+| 22 | [tap-22/](tap-22/README.md) | Đậu phụ nhồi thịt sốt cà chua · Thưởng "đi quẩy"… một bó quẩy |
 
 ## Tập 14 (`tap-14`)
 

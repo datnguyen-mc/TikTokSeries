@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -12,24 +12,25 @@ Dawn in Hà Nội's old quarter: an ancient brick city gate with a tiled roof, n
 [CHARACTERS]
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
 - @Lam = Ông Lâm, 63, humble motorbike-taxi driver who was once the old quarter's legendary gang boss; wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles; faded grey zip-up windbreaker over a white tank top, loose khaki trousers, plastic sandals, a battered green pith helmet, a dark-green dragon tattoo on his right forearm usually hidden by his sleeve.
+- Extra: a tiny old lady with a conical hat and a shopping basket
 Nobody else appears in the shot.
 
 [SHOT]
-- Framing & motion: 35mm medium shot with a slow dolly-in under the gate arch; one smooth camera move from start to end, no cuts.
+- Framing & motion: 50mm close-up from the front of the motorbike with a slow arc; one smooth camera move from start to end, no cuts.
 - Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
 
 [TIMELINE]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: Under the arch of the ancient brick city gate in pink-gold dawn light, the old cream-colored step-through motorbike with a round chrome headlamp stands parked on the worn stones, its chrome glinting.
-- 3.0–7.0s: @Lam walks into frame from screen-left, pulls a soft rag from his windbreaker pocket and wipes the cracked vinyl seat with slow, careful strokes, his mouth closed in a calm half-smile.
-- 7.0–10.0s: @Lam lifts a battered green pith helmet from the handlebar and settles it on his grey crew cut, then gives the seat a final fond pat as the sunrise warms his face. The shot settles on this as its final frame.
+- 0.0–3.0s: Close on the old cream-colored step-through motorbike with a round chrome headlamp parked by the brick city gate, dawn light glinting on the chrome and a woven shopping basket resting on the worn stones.
+- 3.0–7.0s: @Lam, astride the motorbike, turns over his shoulder and speaks warmly to a tiny old lady in a conical hat, patting the back seat as she climbs on by herself.
+- 7.0–11.0s: The old lady holds out a few folded banknotes, and @Lam keeps talking with a gentle wave of his hand, refusing them until she tucks the money back into her basket.
+- 11.0–15.0s: @Lam finishes, closes his mouth into a crinkle-eyed grin and faces forward, while the old lady settles the basket on her lap and nods with her lips pressed in a shy smile. The shot settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–7.2s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Ở cổng Ô Quan Chưởng có ông Lâm xe ôm, sáu mươi ba tuổi, hiền như đất, chở cụ già đi chợ chẳng bao giờ lấy tiền." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue 3.0–11.5s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter), in Vietnamese with exact lip-sync, said exactly once: "Cụ cứ ngồi vững vào, ôm cái giỏ cho chắc, tiền nong gì cụ ơi, cháu chở cụ như chở mẹ cháu thôi, cụ cất tiền đi mà mua mớ rau, con cá." (no subtitles)
+- From 3.0s onward, @Lam's face and lips stay clearly visible while speaking; after the last word @Lam closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: a cloth squeaking on vinyl, morning birds chirping, motorbikes puttering past the gate, a vendor's bamboo shoulder pole creaking. Ambience continues to 10.0s. No music.
+- SFX: the motorbike engine idling, a basket handle creaking, sparrows chirping, distant horns echoing off the gate. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

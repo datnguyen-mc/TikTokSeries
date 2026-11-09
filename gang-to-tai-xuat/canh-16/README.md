@@ -1,4 +1,4 @@
-# Cảnh 16: Hổ Bị Mời Về Đồn (6 Clips × 10s = 60s)
+# Cảnh 16: Hổ Bị Mời Về Đồn (4 Clips × 15s = 60s)
 
 - **Thời gian:** 14:00 Chiều (15:00–16:00)
 - **Bối cảnh:** Quán bún chả của bà Hoa vắng khách sau giờ trưa; sạp sửa đài của ông Khoa; nhà ông Lâm.
@@ -7,9 +7,7 @@
 
 | Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
 |---|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | — | `VO` | **23** | `0.4–6.2s` | "Chiều hôm ấy, hai cán bộ công an bước vào quán bún chả, trên tay là đơn tố cáo lừa đảo của Hưng." | 35mm wide shot, slow dolly-back through the smoke | Text-to-video |
-| [**Clip 2**](clip-2.md) | `@BaHoa` | `VO` | **21** | `0.4–5.7s` | "Bà Hoa không chạy, cũng không cãi, bà thong thả tháo tạp dề, đội mũ rộng vành rồi đi theo họ." | 50mm medium shot, slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 3**](clip-3.md) | `@BaHoa` | `LIPSYNC:@BaHoa` | **18** | `0.4–4.9s` | "Các chú cứ từ từ, để tôi tắt bếp than đã, kẻo cháy hết mẻ chả của khách." | 85mm close-up, slow pan with her to the grill | Frames: nối khung cuối clip trước |
-| [**Clip 4**](clip-4.md) | `@Khoa` | `VO` | **21** | `0.4–5.7s` | "Cùng lúc ấy, sạp sửa đài của ông Khoa bị lục tung, chiếc ổ cứng đen trên bàn đã biến mất." | 28mm wide shot, slow dolly-in under the staircase | Ingredients: ảnh nhân vật |
-| [**Clip 5**](clip-5.md) | `@Mai` | `VO` | **22** | `0.4–5.9s` | "Còn điện thoại của Mai sáng liên tục, bọn chúng đã gửi ảnh cô cho cả lớp, kèm hai chữ con nợ." | 50mm close-up, slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 6**](clip-6.md) | `@Mai` | `VO` | **16** | `0.4–4.4s` | "Mai ngồi sụp xuống bậc cửa còn vệt sơn đỏ, ôm mặt khóc không thành tiếng." | 35mm wide shot, slow crane-down to the doorstep | Frames: nối khung cuối clip trước |
+| [**Clip 1**](clip-1.md) | `@BaHoa` | `VO` | **45** | `0.4–11.7s` | "Chiều hôm ấy, hai cán bộ công an bước vào quán bún chả, trên tay là lá đơn tố cáo lừa đảo của Hưng, bà Hoa không chạy, cũng chẳng cãi nửa lời, chỉ thong thả tháo chiếc tạp dề đỏ, gấp lại gọn gàng." | 35mm wide shot, slow dolly-back through the smoke | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@BaHoa` | `LIPSYNC:@BaHoa` | **38** | `3.0–12.5s` | "Các chú cứ từ từ, để tôi tắt bếp than đã, kẻo cháy hết mẻ chả của khách, rồi tôi đội cái mũ vào, tôi tự đi với các chú cho đàng hoàng, có gì đâu mà vội." | 85mm close-up, slow pan with her to the grill | Frames: nối khung cuối clip trước |
+| [**Clip 3**](clip-3.md) | `@Khoa` | `VO` | **46** | `0.4–11.9s` | "Cũng chiều hôm ấy, sạp sửa đài của ông Khoa bị ai đó lục tung, chiếc ổ cứng đen trên bàn đã không cánh mà bay, ông Khoa đứng lặng hồi lâu, chẳng nói chẳng rằng, chỉ khẽ đưa mắt liếc lên chiếc kệ trên cao." | 28mm wide shot, slow dolly-in under the staircase | Ingredients: ảnh nhân vật |
+| [**Clip 4**](clip-4.md) | `@Mai` | `VO` | **45** | `0.4–11.7s` | "Còn ở nhà, điện thoại của Mai cứ sáng lên liên tục, bọn chúng đã gửi ảnh cô cho cả lớp kèm hai chữ con nợ, Mai ngồi sụp xuống bậc cửa vẫn còn vệt sơn đỏ hôm nào, ôm mặt khóc không thành tiếng." | 50mm medium shot, slow crane-down to the doorstep | Ingredients: ảnh nhân vật |

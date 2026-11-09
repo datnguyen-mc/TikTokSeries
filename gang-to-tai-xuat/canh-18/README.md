@@ -1,4 +1,4 @@
-# Cảnh 18: Ổ Cứng Cải Lương (6 Clips × 10s = 60s)
+# Cảnh 18: Ổ Cứng Cải Lương (4 Clips × 15s = 60s)
 
 - **Thời gian:** 09:00 Sáng (17:00–18:00)
 - **Bối cảnh:** Trước cổng đồn công an phường trên con phố rợp bóng cây.
@@ -7,9 +7,7 @@
 
 | Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
 |---|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@BaHoa` | `VO` | **20** | `0.4–5.4s` | "Sáng hôm sau, cánh cổng đồn công an phường mở ra, bà Hoa bước ra, son môi vẫn đỏ chót." | 28mm wide shot, slow dolly-back from the gate | Ingredients: ảnh nhân vật |
-| [**Clip 2**](clip-2.md) | `@BaHoa`, `@Lam` | `LIPSYNC:@BaHoa` | **19** | `3.0–7.8s` | "Tôi chỉ nói chuyện đầu tư, có cầm của ai đồng nào đâu mà giữ được tôi hả ông!" | 50mm medium two-shot, slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 3**](clip-3.md) | `@Khoa`, `@Lam` | `LIPSYNC:@Khoa` | **19** | `3.0–7.8s` | "Cái ổ cứng thằng Béo lấy chỉ là ổ giả, trong đó toàn băng cải lương của tôi thôi." | 85mm over-the-shoulder shot past @Lam onto @Khoa, slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 4**](clip-4.md) | `@Lam`, `@Khoa` | `LIPSYNC:@Lam` | **19** | `0.4–5.3s` | "Thế ổ thật ông giấu ở đâu? Đừng bảo là ông lại nhét vào cái đài Liên Xô nhé." | 50mm medium two-shot, slow arc around them | Frames: nối khung cuối clip trước |
-| [**Clip 5**](clip-5.md) | `@Khoa`, `@Lam` | `VO` | **21** | `0.4–5.7s` | "Ông Khoa nháy mắt, vỗ vỗ chiếc đài gỗ cũ kẹp dưới nách, bên trong là toàn bộ bằng chứng thật." | 85mm close-up, slow tilt-down from his face to the radio | Frames: nối khung cuối clip trước |
-| [**Clip 6**](clip-6.md) | `@BaHoa` | `VO` | **16** | `0.4–4.4s` | "Bà Hoa nheo mắt cười, lần này, đến lượt Hưng bị bộ ba già dắt mũi." | 50mm medium shot, slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 1**](clip-1.md) | `@BaHoa` | `VO` | **45** | `0.4–11.7s` | "Sáng hôm sau, cánh cổng đồn công an phường mở ra, bà Hoa thong thả bước ra, son môi vẫn đỏ chót, tóc vẫn bồng bềnh, như vừa đi nghỉ mát ở biển về, chứ chẳng phải vừa ngồi trong đồn suốt cả một đêm." | 28mm wide shot, slow dolly-back from the gate | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@BaHoa`, `@Lam` | `LIPSYNC:@BaHoa+@Lam` | **34** | `3.0–12.2s` | "@BaHoa: Tôi chỉ nói chuyện đầu tư, có cầm của ai đồng nào đâu mà giữ được tôi hả ông! / @Lam: Ba mươi năm rồi mà cái miệng bà vẫn sắc hơn cả luật sư đấy." | 50mm medium two-shot, slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@Khoa`, `@Lam` | `LIPSYNC:@Khoa+@Lam` | **38** | `3.0–13.2s` | "@Khoa: Cái ổ cứng thằng Béo lấy chỉ là ổ giả, trong đó toàn băng cải lương của tôi thôi. / @Lam: Thế ổ thật ông giấu ở đâu? Đừng bảo là ông lại nhét vào cái đài Liên Xô nhé." | 35mm wide two-shot beside the parked motorbikes, slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 4**](clip-4.md) | `@Khoa`, `@BaHoa` | `VO` | **45** | `0.4–11.7s` | "Ông Khoa nháy mắt một cái, vỗ nhẹ chiếc đài gỗ cũ kẹp dưới nách, bên trong là toàn bộ bằng chứng thật, bà Hoa nheo mắt cười, lần này, đến lượt thằng Hưng bị bộ ba già dắt mũi mà không hề hay biết." | 50mm close-up two-shot, slow lateral drift from his face to hers | Ingredients: ảnh nhân vật |

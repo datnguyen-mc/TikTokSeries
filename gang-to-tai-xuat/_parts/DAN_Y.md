@@ -1,4 +1,4 @@
-> Ghi chú 08/11/2026: nguồn chính thức là `../PHAN_CANH_OMNI.json` (đã thêm `speech_start` cho clip thoại nối liền; Vợ Tào Khang đã chuyển 100% sang thoại nhân vật nên lời ở đây là bản nháp cũ).
+> Ghi chú 08/11/2026: nguồn chính thức là `../PHAN_CANH_OMNI.json` (đã thêm `speech_start` cho clip thoại nối liền; Cái Kết Cho Tiểu Tam đã chuyển 100% sang thoại nhân vật nên lời ở đây là bản nháp cũ).
 
 # Găng Tơ Tái Xuất — BẢN 2 (viết lại hoàn toàn) — dàn ý clip
 

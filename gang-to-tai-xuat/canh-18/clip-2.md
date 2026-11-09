@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -22,15 +22,18 @@ Nobody else appears in the shot.
 
 [TIMELINE]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: The old cream-colored step-through motorbike with a round chrome headlamp stands parked under the tall tree outside the mustard-yellow police station wall.
-- 3.0–7.0s: @BaHoa walks up to @Lam waiting beside the motorbike and speaks with a brassy laugh in her voice, flicking her fingers open to show empty palms.
-- 7.0–10.0s: @BaHoa closes her red lips with a proud sniff, while @Lam, in his battered green pith helmet, shakes his head with a quiet closed-lip chuckle. The shot settles on this as its final frame.
+- 0.0–3.0s: The old cream-colored step-through motorbike with a round chrome headlamp stands parked under the tall tree outside the mustard-yellow police station wall, leaves dappling its seat.
+- 3.0–7.0s: @BaHoa walks up to @Lam waiting beside the motorbike and speaks with a brassy laugh in her voice, flicking her fingers open to show empty palms, while he listens with lips closed.
+- 7.0–11.0s: @BaHoa closes her red lips with a crisp sniff, and @Lam, in his battered green pith helmet, shakes his head and answers with a dry husky chuckle.
+- 11.0–15.0s: @Lam finishes and closes his mouth into a quiet closed-lip grin, while @BaHoa pats her permed curls and lifts her chin even higher. The shot settles on this as its final frame.
 
 [AUDIO]
-- Dialogue 3.0–7.8s, spoken on camera by @BaHoa (woman of 61, strictly standard Hà Nội Northern accent (never Southern accent), bold brassy alto, quick-witted and teasing, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter), in Vietnamese with exact lip-sync, said exactly once: "Tôi chỉ nói chuyện đầu tư, có cầm của ai đồng nào đâu mà giữ được tôi hả ông!" (no subtitles)
-- From 3.0s onward, @BaHoa's face and lips stay clearly visible while speaking; after the last word @BaHoa closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 3.0–7.8s, spoken on camera by @BaHoa (woman of 61, strictly standard Hà Nội Northern accent (never Southern accent), bold brassy alto, quick-witted and teasing, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter): "Tôi chỉ nói chuyện đầu tư, có cầm của ai đồng nào đâu mà giữ được tôi hả ông!"
+- Turn 2, 8.3–12.2s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter): "Ba mươi năm rồi mà cái miệng bà vẫn sắc hơn cả luật sư đấy."
+- Both keep their mouths closed until 3.0s; then each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: birds chirping, leaves rustling, a passing motorbike. Ambience continues to 10.0s. No music.
+- SFX: birds chirping, leaves rustling, a passing motorbike. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -22,15 +22,16 @@ Nobody else appears in the shot.
 [TIMELINE]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
 - 0.0–3.0s: Two laptops glow inside the parked white van, a small black hard drive plugged into one by a short cable, tangled cables and a thermos on the shelf.
-- 3.0–7.0s: @Mai unplugs the small black hard drive and hugs it to her chest as the side door of the van slides open, flooding the van with noon light.
-- 7.0–10.0s: @Beo stands blocking the open doorway with his arms folded across his big chest, his lips pressed into a smug line, the sunny street bright behind him. The shot settles on this as its final frame.
+- 3.0–7.0s: @Mai unplugs the small black hard drive and hugs it to her chest as the side door of the van slides open, flooding the cabin with noon light.
+- 7.0–11.0s: @Beo stands blocking the open doorway with his arms folded across his big chest, lips pressed into a flat line, the sunny street bright behind him.
+- 11.0–15.0s: @Mai slides open the far-side door behind her and slips out into the daylight in one quick move, leaving @Beo staring at the empty seat with lips shut. The shot settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–5.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Mai vừa rút ổ cứng khỏi máy tính thì cửa xe tải trượt mở, Béo đã đứng chắn ngay bên ngoài." (no subtitles)
+- Narration 0.4–11.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Mai vừa rút ổ cứng khỏi máy tính thì cửa xe tải trượt mở, Béo đã khoanh tay đứng chắn ngay bên ngoài từ lúc nào, nhưng cô gái nhỏ nhanh tay ôm chặt ổ cứng, lặng lẽ lách ra bằng cánh cửa bên kia." (no subtitles)
 - After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
 - Nobody on screen speaks; every mouth on screen stays closed.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: a cable clicking free, the van door sliding open with a rattle, street horns pouring in. Ambience continues to 10.0s. No music.
+- SFX: a cable clicking free, the van door sliding open with a rattle, street horns pouring in, a second door rolling open. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

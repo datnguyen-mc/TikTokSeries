@@ -1423,9 +1423,14 @@ def wait_if_cooldown_error(res_text: str, flowkit_api: str = None, log_fn=print)
             last_report = waited
             log_fn(f"   ...vẫn đang trong thời gian khóa của Google Flow (còn ~{int(remaining)}s)...")
 
+    try:
+        requests.post(f"{api_base}/api/ext/reload-flow-tab", timeout=10)
+        time.sleep(6.0)
+    except Exception:
+        pass
     jitter_s = random.uniform(3.0, 15.0)
     time.sleep(jitter_s)
-    log_fn(f"✅ [COOLDOWN] Đã hết thời gian khóa (chờ {int(waited + jitter_s)}s). Tiếp tục gửi lại clip!")
+    log_fn(f"✅ [COOLDOWN] Đã hết thời gian khóa & làm mới phiên tab (chờ {int(waited + jitter_s)}s). Tiếp tục gửi lại clip!")
     return True
 
 

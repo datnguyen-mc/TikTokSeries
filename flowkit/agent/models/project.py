@@ -4,7 +4,7 @@ from agent.models.enums import ProjectStatus, PaygateTier, EntityType
 
 # Which Flow video family the worker uses for this project's scenes.
 # veo        -> Veo 3.1 i2v (1080p). r2v / first+last are unported on batch.
-# omni_flash -> Omni Flash (720p, 4/6/8/10s); all frame/ref modes are ported.
+# omni_flash -> Omni Flash (720p; 1.1: 4/6/8/10s, 1.2: 3–15s); all frame/ref modes are ported.
 VideoModelFamily = Literal["veo", "omni_flash"]
 
 

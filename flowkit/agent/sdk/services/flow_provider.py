@@ -18,6 +18,7 @@ import aiohttp
 from agent import config
 from agent.config import VIDEO_POLL_INTERVAL, VIDEO_POLL_TIMEOUT
 from agent.db import crud
+from agent.services import flow_batch as fb
 from agent.services.omni_flash import (
     OMNI_FLASH_VALID_DURATIONS,
     generate_omni_flash_first_frame_video,
@@ -25,19 +26,21 @@ from agent.services.omni_flash import (
 )
 
 
-def _omni_duration(requested) -> int:
-    """Round a requested clip length up to the next Omni Flash step (4/6/8/10s).
+def _omni_duration(requested, model_version=None) -> int:
+    """Round a requested clip length up to the next step the active Omni
+    version accepts (1.1: 4/6/8/10s, 1.2: every second from 3 to 15s).
 
     Rounding *down* would clip narration; anything past the max is capped.
     None/0 falls back to OMNI_FLASH_DURATION_S.
     """
+    steps = fb.omni_valid_durations(model_version) or OMNI_FLASH_VALID_DURATIONS
     if not requested:
-        return int(config.OMNI_FLASH_DURATION_S)
+        requested = config.OMNI_FLASH_DURATION_S
     want = float(requested)
-    for step in OMNI_FLASH_VALID_DURATIONS:
+    for step in steps:
         if step >= want - 1e-6:
             return step
-    return OMNI_FLASH_VALID_DURATIONS[-1]
+    return steps[-1]
 from agent.sdk.services.provider_base import (
     KIND_EDIT_IMAGE,
     KIND_IMAGE,
@@ -424,10 +427,11 @@ class FlowProvider(MediaProvider):
                 prompt=job.prompt,
                 project_id=ex.get("project_id", "0"),
                 scene_id=ex.get("scene_id", ""),
-                duration_s=_omni_duration(ex.get("duration_s")),
+                duration_s=_omni_duration(ex.get("duration_s"), ex.get("model_version")),
                 resolution=ex.get("resolution") or config.OMNI_FLASH_RESOLUTION,
                 aspect_ratio=ex.get("aspect", "VIDEO_ASPECT_RATIO_PORTRAIT"),
                 user_paygate_tier=ex.get("tier", "PAYGATE_TIER_TWO"),
+                model_version=ex.get("model_version"),
             )
             end_id = ex.get("end_media_id")
             if end_id:

@@ -1,14 +1,14 @@
-# Găng Tơ Tái Xuất (27 Cảnh × 6 Clips × 10s = 27 Phút)
+# Găng Tơ Tái Xuất (27 Cảnh × 4 Clips × 15s = 27 Phút)
 
-- **Giọng Người Dẫn Chuyện (cố định cả 162 clip):** Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words. Mỗi clip VO dùng **nguyên văn cùng một câu mô tả giọng** để Omni giữ một giọng duy nhất; đọc nhanh liên thanh như oan-thai-doi-me, ~4.0 âm tiết/giây, liền một hơi, không ngắt giữa câu.
+- **Giọng Người Dẫn Chuyện (cố định cả 108 clip):** Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words. Mỗi clip VO dùng **nguyên văn cùng một câu mô tả giọng** để Omni giữ một giọng duy nhất; đọc nhanh liên thanh như oan-thai-doi-me, ~4.0 âm tiết/giây, liền một hơi, không ngắt giữa câu.
 - **Thoại nhân vật (Lip-Sync):** clip thoại chỉ mô tả giọng của người nói, không có người dẫn chuyện; mặt và môi người nói luôn thấy rõ.
-- **Mật độ:** 162 clips × 10s — 102 clip VO + 60 clip thoại; lời nói nằm trong khung riêng bắt đầu từ 0.4s (xem cột *Khung thoại*).
-- **Cách tạo trên Flow (runner tự chọn):** 45 clip nối khung cuối (Frames — cùng bối cảnh, không có nhân vật mới), 96 clip ảnh nhân vật (Ingredients), 21 clip chỉ text. Tắt nối khung: `FLOWKIT_CHAIN_LAST_FRAME=0`.
-- **Hậu kỳ runner:** clip VO được tăng tốc giọng thêm 1.18x khi tải về (`FLOWKIT_VOICE_TEMPO` mặc định 1.18, đặt 1.0 để tắt), giữ nguyên khung hình 10s; clip lip-sync không bao giờ bị tăng tốc để khớp khẩu hình.
+- **Mật độ:** 108 clips × 15s — 67 clip VO + 41 clip thoại (27 clip có hai lượt thoại); lời nói nằm trong khung riêng bắt đầu từ 0.4s (xem cột *Khung thoại*).
+- **Cách tạo trên Flow (runner tự chọn):** 19 clip nối khung cuối (Frames — cùng bối cảnh, không có nhân vật mới), 79 clip ảnh nhân vật (Ingredients), 10 clip chỉ text. Tắt nối khung: `FLOWKIT_CHAIN_LAST_FRAME=0`.
+- **Hậu kỳ runner:** clip VO được tăng tốc giọng thêm 1.18x khi tải về (`FLOWKIT_VOICE_TEMPO` mặc định 1.18, đặt 1.0 để tắt), giữ nguyên khung hình 15s; clip lip-sync không bao giờ bị tăng tốc để khớp khẩu hình.
 - **Màu phim & ánh sáng:** Bright natural lighting: warm golden morning and sunset light over the old quarter, crisp midday daylight, colorful neon signs without readable letters and warm shop lamps at night; shadows stay soft, never gloomy.
 - **Nguồn dữ liệu:** `PHAN_CANH_OMNI.json` → `python3 flowkit/scripts/build_omni_horror_prompts.py gang-to-tai-xuat` sinh lại toàn bộ clip, README, kịch bản.
 
-## Danh Sách 27 Cảnh (162 Clips × 10s)
+## Danh Sách 27 Cảnh (108 Clips × 15s)
 
 | Cảnh | Tiêu Đề | Thời Gian | Đường Dẫn |
 |---|---|---|---|

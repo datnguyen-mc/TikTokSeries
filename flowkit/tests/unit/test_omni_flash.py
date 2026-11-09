@@ -23,6 +23,13 @@ from agent.services.omni_flash import (
 )
 
 
+@pytest.fixture(autouse=True)
+def _pin_omni_1_1(monkeypatch):
+    """These tests lock the Omni 1.1 wire captured on 2026-09-14. models.json now
+    defaults to Omni 1.2; its keys are covered in test_omni_flash_v12.py."""
+    monkeypatch.setenv("OMNI_FLASH_MODEL_VERSION", "1.1")
+
+
 @pytest.mark.parametrize(
     ("duration", "expected"),
     [

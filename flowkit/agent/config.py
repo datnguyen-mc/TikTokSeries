@@ -114,7 +114,9 @@ VIDEO_POLL_INTERVAL = int(os.environ.get("VIDEO_POLL_INTERVAL", "10"))  # pollin
 MAX_RETRIES = int(os.environ.get("MAX_RETRIES", "2"))
 VIDEO_POLL_TIMEOUT = int(os.environ.get("VIDEO_POLL_TIMEOUT", "420"))
 # Omni Flash defaults used by the worker when a project's video_model_family
-# is "omni_flash". Duration must be 4/6/8/10; resolution 360p or 720p.
+# is "omni_flash". Durations depend on the model version (models.json →
+# omni_model_versions; env OMNI_FLASH_MODEL_VERSION): 1.1 takes 4/6/8/10s,
+# 1.2 (Nov 2026) takes 3–15s. Resolution 360p or 720p.
 OMNI_FLASH_DURATION_S = int(os.environ.get("OMNI_FLASH_DURATION_S", "8"))
 OMNI_FLASH_RESOLUTION = os.environ.get("OMNI_FLASH_RESOLUTION", "720p")
 # Flow provider pacing. Every generate mints a reCAPTCHA inside the Flow tab;

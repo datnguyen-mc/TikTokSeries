@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -22,15 +22,18 @@ Nobody else appears in the shot.
 
 [TIMELINE]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: The glass-walled boss room at night, the ring light glowing over a wide glass desk with a steaming teacup beside a chrome chair, the call-center floor beyond bathed in magenta and gold neon, no person in frame.
-- 3.0–7.0s: @Lam sits calmly in the chrome chair on screen-left, pith helmet on his knee, and asks in a husky steady voice, face and lips clearly visible, while @Hung on screen-right films him with the gimbal.
-- 7.0–10.0s: @Lam closes his mouth and tilts his head patiently, while @Hung lowers the gimbal an inch and lets out a closed-mouth scoff. The shot settles on this as its final frame.
+- 0.0–3.0s: The glass-walled boss room at night, the ring light glowing over a wide glass desk with a steaming teacup beside an empty chrome chair, magenta neon beyond the glass, no person in frame.
+- 3.0–7.0s: @Lam sits calmly in the chrome chair on screen-left, pith helmet on his knee, and asks in a husky steady voice, face and lips clearly visible, while @Hung films him with closed lips.
+- 7.0–11.0s: @Lam closes his mouth and tilts his head patiently, as @Hung on screen-right leans into the gimbal lens and answers loudly and smugly, face and lips clearly visible in the ring light.
+- 11.0–15.0s: @Hung wags three ringed fingers in the air as he finishes, then closes his mouth in a cocky grin, gold-rimmed glasses flashing, while @Lam sits motionless with his hands on his knees. The shot settles on this as its final frame.
 
 [AUDIO]
-- Dialogue 3.0–7.7s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter), in Vietnamese with exact lip-sync, said exactly once: "Cháu tôi vay năm triệu, ba tháng thành trăm rưỡi, cậu tính lãi bao nhiêu một ngày thế?" (no subtitles)
-- From 3.0s onward, @Lam's face and lips stay clearly visible while speaking; after the last word @Lam closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 3.0–7.7s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter): "Cháu tôi vay năm triệu, ba tháng thành trăm rưỡi, cậu tính lãi bao nhiêu một ngày thế?"
+- Turn 2, 8.2–13.5s, spoken on camera by @Hung (man of 31, strictly standard Hà Nội Northern accent (never Southern accent), loud slick tenor of a livestream salesman, smug and mocking, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter): "Ba phần trăm một ngày, không trả thì tôi gửi ảnh cho cả họ hàng nó, luật nào cấm được tôi?"
+- Both keep their mouths closed until 3.0s; then each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: ring light hum, distant keyboard clicks, a faint notification chime. Ambience continues to 10.0s. No music.
+- SFX: ring light hum, distant keyboard clicks, notification chimes multiplying, a leather chair creaking. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

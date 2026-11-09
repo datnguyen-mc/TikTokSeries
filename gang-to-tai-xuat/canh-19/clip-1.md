@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -12,24 +12,26 @@ Night in the loan app call center high in the glass tower: rows of desks with gl
 [CHARACTERS]
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
 - @Hung = Hưng, 31, flashy boss of a loan app company and a show-off livestreamer; tall and slim, dyed ash-blond undercut, round gold-rimmed glasses, cocky grin; oversized black satin bomber jacket over a plain white T-shirt, ripped black jeans, white high-top sneakers, several silver rings, a phone on a small selfie gimbal.
+- @Lam = Ông Lâm, 63, humble motorbike-taxi driver who was once the old quarter's legendary gang boss; wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles; faded grey zip-up windbreaker over a white tank top, loose khaki trousers, plastic sandals, a battered green pith helmet, a dark-green dragon tattoo on his right forearm usually hidden by his sleeve.
 Nobody else appears in the shot.
 
 [SHOT]
-- Framing & motion: 35mm medium shot slow dolly-in; one smooth camera move from start to end, no cuts.
+- Framing & motion: 28mm deep-focus wide shot slow dolly-in; one smooth camera move from start to end, no cuts.
 - Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
 
 [TIMELINE]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: The glass-walled boss room at night, a white leather sofa and a dark ring light on its stand, the magenta and gold neon of the call-center floor glowing beyond the glass, no person in frame.
-- 3.0–7.0s: @Hung strides in and clicks on the ring light, which blooms into a bright white circle, then lifts a phone on a small selfie gimbal to arm's length, lips pressed into a cocky closed-mouth grin.
-- 7.0–10.0s: @Hung smooths his ash-blond undercut in the blank glowing phone screen, straightens his gold-rimmed glasses and poses chin-up, the white ring reflected in both lenses. The shot settles on this as its final frame.
+- 0.0–3.0s: The glass-walled boss room at night, a dark ring light beside a white leather sofa, and beyond the glass a long aisle of glowing monitors ending at closed steel elevator doors, no person in frame.
+- 3.0–7.0s: @Hung strides in on screen-right, clicks the ring light into a bright white circle and lifts a phone on a small selfie gimbal to arm's length, lips pressed into a cocky closed-mouth grin.
+- 7.0–11.0s: Deep in the background beyond the glass, the elevator doors slide open and @Lam steps out alone on screen-left, battered green pith helmet on, both hands empty at his sides, lips closed.
+- 11.0–15.0s: @Lam walks slowly up the aisle toward the boss room between the glowing monitors, while @Hung in the foreground freezes mid-pose and glances back over his shoulder with his mouth shut. The shot settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–5.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Tám giờ tối, như thường lệ, Hưng bật đèn livestream, hai triệu người đang chờ ông chủ Phú Quý lên sóng." (no subtitles)
+- Narration 0.4–11.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Tám giờ tối, như thường lệ, Hưng bật đèn livestream, hai triệu người đang chờ ông chủ Phú Quý lên sóng khoe tiền, thì đúng lúc ấy cửa thang máy mở, ông Lâm chậm rãi bước ra, mũ cối trên đầu, một mình, tay không." (no subtitles)
 - After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
 - Nobody on screen speaks; every mouth on screen stays closed.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: ring light switch clicking on, soft electronic hum, office air conditioning, a few faint notification chimes. Ambience continues to 10.0s. No music.
+- SFX: ring light switch clicking on, soft electronic hum, a few notification chimes, a distant elevator chime, sandals scuffing on carpet. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

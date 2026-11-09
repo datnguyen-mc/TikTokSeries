@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -11,26 +11,29 @@ A bright, clean eye-hospital room in the morning: a white bed, a big window full
 
 [CHARACTERS]
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
-- @Mai = Mai, 20, Lâm's granddaughter, an IT student; petite, short black bob with straight bangs, round black-framed glasses, quick bright eyes; oversized lavender hoodie, black jeans, chunky white sneakers, small black backpack.
 - @Lam = Ông Lâm, 63, humble motorbike-taxi driver who was once the old quarter's legendary gang boss; wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles; faded grey zip-up windbreaker over a white tank top, loose khaki trousers, plastic sandals, a battered green pith helmet, a dark-green dragon tattoo on his right forearm usually hidden by his sleeve.
+- @Mai = Mai, 20, Lâm's granddaughter, an IT student; petite, short black bob with straight bangs, round black-framed glasses, quick bright eyes; oversized lavender hoodie, black jeans, chunky white sneakers, small black backpack.
 Nobody else appears in the shot.
 
 [SHOT]
-- Framing & motion: 50mm over-the-shoulder shot slow rack focus; one smooth camera move from start to end, no cuts.
+- Framing & motion: 50mm medium two-shot slow arc; one smooth camera move from start to end, no cuts.
 - Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the frame.
 
 [TIMELINE]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: The bedside of the bright eye-hospital room, sunlight streaming through the big window behind a vase of daisies, everything softly out of focus, no person in frame.
-- 3.0–7.0s: Over @Lam's shoulder, a blurry figure beside the bed slowly sharpens into @Mai, standing in her lavender hoodie with her hands clasped at her chest.
-- 7.0–10.0s: @Mai's eyes are red-rimmed and glistening behind her round glasses as she smiles with closed lips, sunlight haloing her black bob. The shot settles on this as its final frame.
+- 0.0–3.0s: The bedside of the bright eye-hospital room, sunlight streaming through the big window behind a vase of daisies on the small bedside table, no person in frame.
+- 3.0–7.0s: @Lam sits up in the white bed on screen-right and looks at @Mai with clear bright eyes, speaking softly in his husky voice, face and lips clearly visible, while @Mai listens with closed lips.
+- 7.0–11.0s: @Lam closes his mouth with a teasing smile, as @Mai on screen-left, red-rimmed eyes glistening behind her round glasses, answers through her tears, face and lips clearly visible.
+- 11.0–15.0s: @Mai finishes, closes her mouth and wipes her eyes under her glasses with a silent laugh, while @Lam watches her with a warm closed-mouth smile in the sunlight. The shot settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–4.9s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Người đầu tiên ông nhìn thấy rõ là Mai, đứng bên giường, mắt đỏ hoe mà vẫn cười." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 3.0–7.9s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter): "Cháu ông xinh thế này mà mấy năm nay ông chỉ nhìn thấy lờ mờ, phí quá con ạ."
+- Turn 2, 8.4–12.9s, spoken on camera by @Mai (young woman of 20, strictly standard Hà Nội Northern accent (never Southern accent), clear lively soprano, quick and earnest, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter): "Thế thì ông ngắm cháu cả đời đi, từ nay cháu không để ông phải lo nữa đâu."
+- Both keep their mouths closed until 3.0s; then each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: birdsong, a soft sniffle, a faint hospital hum, a curtain swaying. Ambience continues to 10.0s. No music.
+- SFX: birdsong, a soft sniffle, a curtain swaying in the breeze, distant street horns. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -16,21 +16,24 @@ Keep every face, hairstyle and outfit exactly consistent. Attached reference ima
 Nobody else appears in the shot.
 
 [SHOT]
-- Framing & motion: 85mm close-up with a slow push-in on Lâm's face; one smooth camera move from start to end, no cuts.
+- Framing & motion: 40mm medium profile two-shot with a slow arc around them; one smooth camera move from start to end, no cuts.
 - Continuity: continues the same moment, place and lighting as the previous shot; same framing axis, no jump.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the frame.
 
 [TIMELINE]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; clothing stays fully worn from the first frame.
-- 0.0–3.0s: @Lam sits frozen at the table with the towel still in his hand, his mouth closed as he stares across at @Mai.
-- 3.0–7.0s: @Lam slowly lifts his free hand and touches the corner of his cloudy left eye with his fingertips, his lips quivering but pressed shut.
-- 7.0–10.0s: @Lam lowers his hand and looks at @Mai with wet shining eyes, while she stands soft in the background with her lips pressed together, hugging her own elbows. The shot settles on this as its final frame.
+- 0.0–3.0s: @Lam sets the towel down and rises from the table, stepping close to @Mai at the foot of the staircase, both of them silent with their mouths closed in the warm lamplight.
+- 3.0–7.0s: @Lam speaks to her softly in a low warm voice, his weathered face fully visible and his narrow eyes glistening, while @Mai listens with her lips pressed together.
+- 7.0–11.0s: @Lam finishes and closes his mouth, and @Mai shakes her head and answers fast through her tears, holding up her phone with its blank glowing screen.
+- 11.0–15.0s: @Mai finishes and closes her mouth, her chin quivering, as @Lam gently takes the phone from her and lays it face-down on the wooden table, his palm flat on top of it. The shot settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–5.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Ông Lâm lặng người, hóa ra đứa cháu gái gánh khoản nợ ấy chỉ vì con mắt mờ đục của ông." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 3.0–8.2s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter): "Mắt ông mù cũng được con ạ, chứ để con khổ thế này thì ông còn sống làm gì nữa."
+- Turn 2, 8.7–14.2s, spoken on camera by @Mai (young woman of 20, strictly standard Hà Nội Northern accent (never Southern accent), clear lively soprano, quick and earnest, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter): "Mình trả không nổi đâu ông ơi, lãi mỗi ngày một tăng, bọn nó còn dọa gửi ảnh cháu cho cả lớp."
+- Both keep their mouths closed until 3.0s; then each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: a soft sniff, the ticking of a wall clock, incense crackling on the altar. Ambience continues to 10.0s. No music.
+- SFX: a muffled sob, the lamp humming, a floorboard creaking, a phone buzzing once against wood. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

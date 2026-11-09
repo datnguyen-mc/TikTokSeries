@@ -25,10 +25,12 @@ the traps behind each of the comments below.
 from __future__ import annotations
 
 import json
+import os
 import random
 import re
 import uuid
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Any, Optional
 
 BATCH_PATH = "/_/AiSandboxAngularFrontend/data/batchexecute"
@@ -212,6 +214,67 @@ class MediaUrls:
 
 
 # ── model / aspect resolvers ─────────────────────────────────────────────────
+
+# Omni Flash model versions (agent/models.json → omni_model_versions).
+# 1.1 = abra_* keys, 4/6/8/10s. 1.2 (Nov 2026) = macaron_cookie_* keys, 3–15s.
+_MODELS_PATH = Path(__file__).resolve().parent.parent / "models.json"
+_OMNI_FALLBACK_VERSIONS = {
+    "default": "1.1",
+    "1.1": {
+        "durations": [4, 6, 8, 10],
+        "text_to_video": "abra_t2v_{d}s",
+        "frame_to_video": "abra_i2v_{d}s",
+        "start_end_frame_to_video": "omni_flash_i2v_{d}s_first_last",
+        "reference_to_video": "abra_r2v_{d}s",
+    },
+}
+
+
+def omni_model_versions() -> dict:
+    """The version table, re-read on every call so a models.json edit needs no restart."""
+    try:
+        with open(_MODELS_PATH, encoding="utf-8") as f:
+            table = json.load(f).get("omni_model_versions")
+    except (OSError, ValueError):
+        table = None
+    return table or _OMNI_FALLBACK_VERSIONS
+
+
+def omni_model_version(version: Optional[str] = None) -> str:
+    """Explicit argument > env OMNI_FLASH_MODEL_VERSION > models.json default."""
+    table = omni_model_versions()
+    chosen = str(version or os.environ.get("OMNI_FLASH_MODEL_VERSION") or table.get("default") or "1.1").strip()
+    if chosen not in table or chosen.startswith("_") or chosen == "default":
+        known = sorted(k for k in table if k[:1].isdigit())
+        raise ValueError(f"Unknown Omni model version {chosen!r}; choose one of {known}")
+    return chosen
+
+
+def omni_valid_durations(version: Optional[str] = None) -> tuple[int, ...]:
+    return tuple(int(d) for d in omni_model_versions()[omni_model_version(version)]["durations"])
+
+
+def check_omni_duration(duration_s: int, version: Optional[str] = None) -> None:
+    allowed = omni_valid_durations(version)
+    if duration_s not in allowed:
+        v = omni_model_version(version)
+        raise ValueError(
+            f"Omni {v} duration {duration_s}s is unsupported; choose one of {list(allowed)}"
+        )
+
+
+def omni_model_key(mode: str, duration_s: int, resolution: str = "720p",
+                   version: Optional[str] = None) -> str:
+    """Wire model key for an Omni ``mode`` (text_to_video / frame_to_video /
+    start_end_frame_to_video / reference_to_video), duration and resolution."""
+    check_omni_duration(duration_s, version)
+    entry = omni_model_versions()[omni_model_version(version)]
+    template = entry.get(mode)
+    if not template:
+        raise ValueError(f"No Omni model key configured for mode {mode!r}")
+    key = template.format(d=int(duration_s))
+    return key + ("_360p" if str(resolution).strip().lower() == "360p" else "")
+
 
 def resolve_image_model(key: Optional[str]) -> str:
     """Nickname or wire id in, wire id out.
@@ -478,18 +541,18 @@ def video_request(prompt: str, project_id: str, source_media_id: str,
 def omni_first_frame_request(prompt: str, project_id: str, source_media_id: str,
                              *, duration_s: int = 8, resolution: str = "720p",
                              aspect: Any = VIDEO_ASPECT_LANDSCAPE,
-                             crop: Optional[list] = None) -> str:
+                             crop: Optional[list] = None,
+                             model_version: Optional[str] = None) -> str:
     """Build current Omni first-frame I2V (RPC ``eb1hJf``).
 
-    Live-captured from Flow on 2026-09-14. 720p uses ``abra_i2v_<N>s``;
-    360p appends ``_360p`` and carries the UI's low-resolution option slot.
+    Live-captured from Flow on 2026-09-14. 720p uses ``abra_i2v_<N>s`` on
+    Omni 1.1 (``omni_model_key`` picks the version's key); 360p appends
+    ``_360p`` and carries the UI's low-resolution option slot.
     """
-    if duration_s not in (4, 6, 8, 10):
-        raise ValueError("Omni duration must be 4, 6, 8 or 10 seconds")
     res = str(resolution).strip().lower()
     if res not in {"360p", "720p"}:
         raise ValueError("Omni resolution must be 360p or 720p")
-    model = f"abra_i2v_{duration_s}s" + ("_360p" if res == "360p" else "")
+    model = omni_model_key("frame_to_video", duration_s, res, model_version)
     clean_prompt = _strip_clip_header_for_model(prompt)
     request = [
         [None, None, [[[clean_prompt]]]],
@@ -514,14 +577,13 @@ def omni_first_last_request(prompt: str, project_id: str,
                             *, duration_s: int = 8, resolution: str = "720p",
                             aspect: Any = VIDEO_ASPECT_LANDSCAPE,
                             start_crop: Optional[list] = None,
-                            end_crop: Optional[list] = None) -> str:
+                            end_crop: Optional[list] = None,
+                            model_version: Optional[str] = None) -> str:
     """Build Omni First+Last frames submit (RPC ``nprQif``)."""
-    if duration_s not in (4, 6, 8, 10):
-        raise ValueError("Omni duration must be 4, 6, 8 or 10 seconds")
     res = str(resolution).strip().lower()
     if res not in {"360p", "720p"}:
         raise ValueError("Omni resolution must be 360p or 720p")
-    model = f"omni_flash_i2v_{duration_s}s_first_last" + ("_360p" if res == "360p" else "")
+    model = omni_model_key("start_end_frame_to_video", duration_s, res, model_version)
     clean_prompt = _strip_clip_header_for_model(prompt)
     request = [
         [None, None, [[[clean_prompt]]]],
@@ -544,17 +606,16 @@ def omni_first_last_request(prompt: str, project_id: str,
 def omni_reference_video_request(prompt: str, project_id: str,
                                  reference_media_ids: list[str],
                                  *, duration_s: int = 8, resolution: str = "720p",
-                                 aspect: Any = VIDEO_ASPECT_LANDSCAPE) -> str:
+                                 aspect: Any = VIDEO_ASPECT_LANDSCAPE,
+                                 model_version: Optional[str] = None) -> str:
     """Build Omni Ingredients/reference-to-video submit (RPC ``MZZa6b``)."""
     refs = [str(mid) for mid in reference_media_ids if str(mid)]
     if not refs:
         raise ValueError("Omni reference-to-video requires at least one reference image")
-    if duration_s not in (4, 6, 8, 10):
-        raise ValueError("Omni duration must be 4, 6, 8 or 10 seconds")
     res = str(resolution).strip().lower()
     if res not in {"360p", "720p"}:
         raise ValueError("Omni resolution must be 360p or 720p")
-    model = f"abra_r2v_{duration_s}s" + ("_360p" if res == "360p" else "")
+    model = omni_model_key("reference_to_video", duration_s, res, model_version)
     clean_prompt = _strip_clip_header_for_model(prompt)
     request = [
         [None, None, [[[clean_prompt]]]],

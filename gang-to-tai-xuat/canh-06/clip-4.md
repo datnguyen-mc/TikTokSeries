@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -10,25 +10,27 @@ Bright natural lighting: warm golden morning and sunset light over the old quart
 Night inside Lâm's narrow old-quarter tube house: a ground-floor room behind a rolling steel shutter, a worn wooden table, a small family altar with incense, a single bed at the back, a steep staircase, one warm lamp.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards.
 - @Lam = Ông Lâm, 63, humble motorbike-taxi driver who was once the old quarter's legendary gang boss; wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles; faded grey zip-up windbreaker over a white tank top, loose khaki trousers, plastic sandals, a battered green pith helmet, a dark-green dragon tattoo on his right forearm usually hidden by his sleeve.
 Nobody else appears in the shot.
 
 [SHOT]
-- Framing & motion: 50mm medium shot with a slow push-in; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+- Framing & motion: 85mm close-up with a slow push-in; one smooth camera move from start to end, no cuts.
+- Continuity: continues the same moment, place and lighting as the previous shot; same framing axis, no jump.
 
 [TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: A small shelf by the staircase holds an old cream-colored landline phone with a coiled cord, lit by the warm lamp beside the family altar and its glowing incense.
-- 3.0–7.0s: @Lam lifts the receiver to his ear with his tattooed forearm bared and speaks into it in a low, steady voice, his face clearly visible in the lamplight.
-- 7.0–10.0s: @Lam finishes, closes his mouth and listens, the corner of his lips twitching upward as he holds the receiver against his ear. The shot settles on this as its final frame.
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; clothing stays fully worn from the first frame.
+- 0.0–3.0s: @Lam holds the receiver to his ear with his mouth closed as a faint raspy chuckle crackles from it, the corners of his narrow eyes crinkling.
+- 3.0–7.0s: @Lam sets the receiver back on its cradle with a soft click and lets his hand rest on it for a moment, his tattooed forearm glowing in the warm lamplight.
+- 7.0–11.0s: @Lam picks up a battered green pith helmet from the table and settles it firmly on his grey crew cut, tilting the brim down over his eyes with two fingers.
+- 11.0–15.0s: @Lam raises his eyes from under the brim and slowly breaks into a sly closed-mouth smile, one thick grey eyebrow lifting, the lamplight glinting in his narrow eyes. The shot settles on this as its final frame.
 
 [AUDIO]
-- Dialogue 3.0–7.7s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter), in Vietnamese with exact lip-sync, said exactly once: "Hoa đấy à? Lâm đây, mai gọi cả Khoa đến quán bà, Rồng cần Hổ với Báo rồi." (no subtitles)
-- From 3.0s onward, @Lam's face and lips stay clearly visible while speaking; after the last word @Lam closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Narration 0.4–11.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Đầu dây bên kia vang lên một tiếng cười khàn khàn, như thể người ấy đã chờ cuộc gọi này suốt ba mươi năm, ông Lâm đội lại mũ cối, và lần đầu tiên sau ngần ấy năm, ông mỉm cười kiểu của Lâm Rồng." (no subtitles)
+- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
+- Nobody on screen speaks; every mouth on screen stays closed.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: the click of an old receiver lifting, a rotary dial whirring back, a faint line crackle. Ambience continues to 10.0s. No music.
+- SFX: a raspy woman's low chuckle crackling faintly from the receiver, a receiver clicking onto its cradle, a deep low boom, the lamp humming warmly. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

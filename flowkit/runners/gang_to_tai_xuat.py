@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT CHO PHIM "GĂNG TƠ TÁI XUẤT" — BẢN 2 (hành động hài phố cổ Hà Nội, 27 CẢNH × 6 CLIPS × 10S = 27 PHÚT):
+HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT CHO PHIM "GĂNG TƠ TÁI XUẤT" — BẢN 2 (hành động hài phố cổ Hà Nội, 27 CẢNH × 4 CLIPS × 15S = 27 PHÚT):
 1. KHÓA NHÂN VẬT CỐ ĐỊNH: tự tạo/lấy & khóa media_id của @Lam, @Mai, @BaHoa, @Khoa, @Hung, @Beo trên Google Flow Project.
-2. MỖI CLIP 10 GIÂY VỚI GOOGLE FLOW OMNI (omni_flash): clip VO (người dẫn chuyện nam, nhân vật khép miệng) + clip thoại Lip-Sync;
+2. MỖI CLIP 15 GIÂY VỚI GOOGLE FLOW OMNI 1.2 FLASH (omni_flash, model_version 1.2): clip VO (người dẫn chuyện nam, nhân vật khép miệng) + clip thoại Lip-Sync;
    prompt sinh từ gang-to-tai-xuat/PHAN_CANH_OMNI.json bằng flowkit/scripts/build_omni_horror_prompts.py.
 3. Nối khung cuối clip trước chỉ khi cùng bối cảnh và không có nhân vật mới (FLOWKIT_CHAIN_LAST_FRAME=0 để tắt).
 4. Tải video về máy, đồng bộ Cloudflare R2 & D1 và Console Dashboard UI (SQLite flow_agent.db).
@@ -52,10 +52,14 @@ ASPECT_RATIO = "VIDEO_ASPECT_RATIO_LANDSCAPE"
 CHAIN_LAST_FRAME = os.environ.get("FLOWKIT_CHAIN_LAST_FRAME", "1") == "1"
 IMAGE_ASPECT_RATIO = "IMAGE_ASPECT_RATIO_LANDSCAPE"
 
-# 👉 CẤU HÌNH MODEL GOOGLE FLOW OMNI 10 GIÂY (OMNI_FLASH 10S)
+# 👉 CẤU HÌNH MODEL GOOGLE FLOW OMNI 1.2 FLASH 15 GIÂY
+# 09/11/2026: Omni 1.2 Flash ra mắt (clip 3–15s) → mỗi cảnh 4 clip × 15s = 60s, phim giữ nguyên thời lượng.
+# Omni 1.1 (abra_*) chỉ có 4/6/8/10s nên runner này luôn gửi model_version "1.2".
 VIDEO_MODEL_FAMILY = "omni_flash"
-VIDEO_MODEL_NAME = "omni_flash"
-CLIP_DURATION_S = 10
+VIDEO_MODEL_NAME = "omni_flash_1.2"
+OMNI_MODEL_VERSION = "1.2"
+CLIP_DURATION_S = 15
+CLIPS_PER_SCENE = 4
 TOTAL_SCENES = 27
 
 WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -74,12 +78,12 @@ os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 # -------------------------------------------------------------
 NARRATOR_VOICE_SPEC = {
     "voice_lock_id": "VOICE_LOCK_NARRATOR_GANG",
-    "role": "Người Dẫn Chuyện (off-screen male narrator — one consistent playful voice across all 162 clips)",
+    "role": "Người Dẫn Chuyện (off-screen male narrator — one consistent playful voice across all 108 clips)",
     "style_reference": "Vietnamese man about 45, standard Hà Nội Northern accent, warm punchy baritone with a playful knowing edge, fast witty caper-film pace (~4.0 syllables/s + atempo 1.18 after download)",
     "gender_age": "Nam khoảng 45 tuổi, giọng Hà Nội chuẩn, ấm, chắc, hóm hỉnh, kể nhanh duyên dáng",
     "acoustic_profile": "Warm punchy baritone, crisp Northern consonants, fast witty delivery: each sentence in one continuous breath, no pauses mid-sentence, never dragging vowels.",
     "strict_rules": (
-        "1. One consistent standard Hà Nội Northern male narrator (VOICE_LOCK_NARRATOR_GANG) across all 162 clips. "
+        "1. One consistent standard Hà Nội Northern male narrator (VOICE_LOCK_NARRATOR_GANG) across all 108 clips. "
         "2. Fast witty pace (about 4 syllables per second, one continuous breath, no mid-sentence pauses); never slow or sleepy. "
         "3. During off-screen narration (VO), all on-screen characters keep their mouths closed."
     ),
@@ -98,7 +102,7 @@ CHARACTER_SPECS = [
         "key": "Lam",
         "tag": "@Lam",
         "aliases": ["@Lam", "Lâm", "Ông Lâm", "Lâm Rồng"],
-        "default_media_id": "6558bd0b-c22f-49fc-809e-140a9d65da68",
+        "default_media_id": "07af69cb-9869-4965-b6cf-c8c9c975f7aa",
         "voice_lock": "VOICE_LOCK_LAM_GANG",
         "voice_profile": "Fixed 63-year-old native Standard Northern Vietnamese male voice (~105 Hz calm husky low voice), dry humor (giọng ông 63 tuổi chuẩn Hà Nội, trầm khàn, điềm tĩnh, hóm).",
         "description": "Ông Lâm 'Lâm Rồng', 63 tuổi, ông xe ôm hiền lành ở cổng Ô Quan Chưởng, ba mươi năm trước là huyền thoại giang hồ phố cổ; nhỏ người, rắn rỏi, tóc bạc cắt cua, lông mày rậm bạc, mắt trái hơi mờ đục; áo gió kéo khóa xám bạc màu ngoài áo ba lỗ trắng, quần kaki rộng, dép nhựa, mũ cối xanh cũ, hình xăm rồng xanh sẫm trên cẳng tay phải.",
@@ -110,7 +114,7 @@ CHARACTER_SPECS = [
         "key": "Mai",
         "tag": "@Mai",
         "aliases": ["@Mai", "Mai", "Bé Mai"],
-        "default_media_id": "cce24d37-ef7b-4396-8d1b-45be59f55ca1",
+        "default_media_id": "77d55a1f-b8ee-4e66-b606-bcb19f22f542",
         "voice_lock": "VOICE_LOCK_MAI_GANG",
         "voice_profile": "Fixed 20-year-old native Standard Northern Vietnamese young female voice (~240 Hz clear lively soprano), quick and earnest (giọng nữ 20 tuổi chuẩn Hà Nội, trong, nhanh nhảu).",
         "description": "Mai, 20 tuổi, cháu gái ông Lâm, sinh viên công nghệ thông tin, mắc nợ app vay tiền vì muốn lo tiền mổ mắt cho ông; nhỏ nhắn, tóc bob đen mái thẳng, kính gọng đen tròn; hoodie tím lavender rộng, quần jean đen, giày thể thao trắng đế dày, ba lô đen nhỏ.",
@@ -122,7 +126,7 @@ CHARACTER_SPECS = [
         "key": "BaHoa",
         "tag": "@BaHoa",
         "aliases": ["@BaHoa", "Bà Hoa", "Hoa Hổ", "BaHoa"],
-        "default_media_id": "a9f26126-a292-493e-b61c-9f517cc183f2",
+        "default_media_id": "a310c641-d8a8-4d31-bccf-21c381b504f8",
         "voice_lock": "VOICE_LOCK_BAHOA_GANG",
         "voice_profile": "Fixed 61-year-old native Northern Vietnamese female voice (~200 Hz bold brassy alto), quick-witted and teasing (giọng bà 61 tuổi chuẩn Hà Nội, sang sảng, đanh đá, hài hước).",
         "description": "Bà Hoa 'Hoa Hổ', 61 tuổi, bộ não của băng ba mươi năm trước, nay là chủ quán bún chả đông nhất phố; đẫy đà, tóc xoăn ngắn nhuộm đỏ mận, mắt sắc, son đỏ, khuyên tai vàng tròn; áo lụa hoa tím, quần ống rộng đen, vòng vàng bản to, dép quai hậu thấp.",
@@ -134,7 +138,7 @@ CHARACTER_SPECS = [
         "key": "Khoa",
         "tag": "@Khoa",
         "aliases": ["@Khoa", "Ông Khoa", "Khoa Báo", "Khoa"],
-        "default_media_id": "623f418f-5502-42d8-9e7c-5d58551ecaaf",
+        "default_media_id": "5d8b0ff3-1866-468c-a45f-98fba4674168",
         "voice_lock": "VOICE_LOCK_KHOA_GANG",
         "voice_profile": "Fixed 60-year-old native Standard Northern Vietnamese male voice (~130 Hz nasal wry tenor), deadpan and fussy (giọng ông 60 tuổi chuẩn Hà Nội, giọng mũi, tỉnh bơ).",
         "description": "Ông Khoa 'Khoa Báo', 60 tuổi, phù thủy mở khóa của băng năm xưa, nay sửa đài và điện thoại dưới gầm cầu thang; gầy cao lêu nghêu, hói đỉnh, tóc bạc phía sau buộc túm nhỏ, kính lúp dày đẩy lên trán; gile nâu nhiều túi ngoài sơ mi kẻ ô xanh, quần xám, giày vải.",
@@ -146,7 +150,7 @@ CHARACTER_SPECS = [
         "key": "Hung",
         "tag": "@Hung",
         "aliases": ["@Hung", "Hưng", "Hưng Phú Quý"],
-        "default_media_id": "58a78cb6-6f92-40cb-adf7-d2772cb9bd72",
+        "default_media_id": "36377daf-7efc-4c8a-bfda-7a5e1f8f2d57",
         "voice_lock": "VOICE_LOCK_HUNG_GANG",
         "voice_profile": "Fixed 31-year-old native Standard Northern Vietnamese male voice (~125 Hz loud slick tenor), smug livestream salesman (giọng nam 31 tuổi chuẩn Hà Nội, to, trơn tru, kiêu ngạo).",
         "description": "Hưng 'Phú Quý', 31 tuổi, ông chủ ứng dụng vay tiền và mê livestream khoe khoang; cao gầy, tóc undercut nhuộm vàng tro, kính gọng vàng tròn, nụ cười vênh váo; áo bomber satin đen rộng ngoài áo phông trắng, quần jean đen rách, giày cổ cao trắng, nhiều nhẫn bạc, điện thoại gắn gimbal.",
@@ -158,7 +162,7 @@ CHARACTER_SPECS = [
         "key": "Beo",
         "tag": "@Beo",
         "aliases": ["@Beo", "Béo", "Béo Đầu Sấm"],
-        "default_media_id": "bf59a6b4-0eb4-49d3-8812-e9f3081b8330",
+        "default_media_id": "957f67e8-6414-4457-bb0d-f3a266eeb772",
         "voice_lock": "VOICE_LOCK_BEO_GANG",
         "voice_profile": "Fixed 28-year-old native Standard Northern Vietnamese male voice (~95 Hz rough loud bass), blustering (giọng nam 28 tuổi chuẩn Hà Nội, ồm, to, hống hách).",
         "description": "Béo 'Đầu Sấm', 28 tuổi, đầu sỏ đòi nợ thuê của Phú Quý; to béo, đầu cạo trọc có hình tia sét cạo một bên, mắt híp, răng cửa bọc vàng; áo ba lỗ đen, quần soóc rằn ri, dép tông, dây chuyền vàng giả.",
@@ -364,8 +368,8 @@ def load_and_lock_project_characters(force_remote: bool = False):
         vlock = spec.get("voice_lock", "")
         box_items.append((f"Nhân Vật {tag}", f"media_id = {mid} | {vlock}"))
     box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Google Flow Omni — {CLIP_DURATION_S}s/clip)"))
-    box_items.append(("Chế Độ Khóa", "Ingredients R2V (/api/flow/generate-video-omni 10s)"))
-    print_box("🔒 ĐÃ KHÓA 6 NHÂN VẬT, GIỌNG NGƯỜI DẪN CHUYỆN & CẤU HÌNH GOOGLE FLOW OMNI 10S", box_items)
+    box_items.append(("Chế Độ Khóa", f"Ingredients R2V (/api/flow/generate-video-omni {CLIP_DURATION_S}s, Omni {OMNI_MODEL_VERSION})"))
+    print_box("🔒 ĐÃ KHÓA 6 NHÂN VẬT, GIỌNG NGƯỜI DẪN CHUYỆN & CẤU HÌNH GOOGLE FLOW OMNI 1.2 15S", box_items)
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
@@ -405,9 +409,9 @@ def get_clip_reference_media_ids(prompt: str) -> list:
 # 1. ĐỒNG BỘ DỰ ÁN VỚI DASHBOARD UI & CMS TABLES (DATABASE SYNC)
 # -------------------------------------------------------------
 def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES):
-    """Đồng bộ tức thì cms_channel, cms_episode (27 cảnh), cms_clip (162 clips), project, character, video, scene vào SQLite (flow_agent.db)."""
+    """Đồng bộ tức thì cms_channel, cms_episode (27 cảnh), cms_clip (108 clips), project, character, video, scene vào SQLite (flow_agent.db)."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
-    log("🔄 Đang đồng bộ cơ sở dữ liệu 'Găng Tơ Tái Xuất' với Console Dashboard UI (Google Flow Omni 10s)...")
+    log("🔄 Đang đồng bộ cơ sở dữ liệu 'Găng Tơ Tái Xuất' với Console Dashboard UI (Google Flow Omni 1.2 15s)...")
 
     db_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "flow_agent.db")
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
@@ -424,7 +428,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             (
                 PROJECT_ID,
                 "Găng Tơ Tái Xuất (Phim Hành Động Hài 27 Phút)",
-                "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (16:9, 27 cảnh × 6 clips × 10s = 162 clips — Google Flow Omni, VO người dẫn chuyện + Lip-Sync).",
+                "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2, VO người dẫn chuyện + Lip-Sync).",
                 "Ông Lâm — ông xe ôm hiền lành ở cổng Ô Quan Chưởng — thật ra là Lâm Rồng, huyền thoại phố cổ Hà Nội ba mươi năm trước. Khi cháu gái Mai bị app vay tiền Phú Quý của Hưng siết nợ vì lo tiền mổ mắt cho ông, Lâm Rồng tái xuất cùng Hoa Hổ (bà chủ quán bún chả) và Khoa Báo (thợ sửa đài): một phi vụ lừa ngược kẻ lừa đảo, rượt đuổi qua phố đường tàu, và buổi livestream khiến Hưng tự khai trước năm triệu người xem.",
                 "realistic",
                 "ACTIVE",
@@ -480,13 +484,13 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                  updated_at=excluded.updated_at""",
             (
                 CHANNEL_SLUG,
-                "Găng Tơ Tái Xuất (Phim Hành Động Hài 27 Phút — 27 Cảnh × 6 Clips)",
+                "Găng Tơ Tái Xuất (Phim Hành Động Hài 27 Phút — 27 Cảnh × 4 Clips × 15s)",
                 PROJECT_ID,
                 ASPECT_RATIO,
                 "runners/gang_to_tai_xuat.py",
                 "gang-to-tai-xuat",
                 "canh",
-                "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (16:9, 27 cảnh × 6 clips × 10s = 162 clips — Google Flow Omni, VO người dẫn chuyện + Lip-Sync).",
+                "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2, VO người dẫn chuyện + Lip-Sync).",
                 json.dumps(chars_json, ensure_ascii=False),
                 now_iso,
             ),
@@ -504,7 +508,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                 CURRENT_VIDEO_ID,
                 PROJECT_ID,
                 "Găng Tơ Tái Xuất (27 Phút — Cảnh 01 - 27)",
-                "Phim hành động 27 Cảnh × 6 Clips × 10s = 162 Clips (VO người dẫn chuyện + Lip-Sync)",
+                "Phim hành động 27 Cảnh × 4 Clips × 15s = 108 Clips (VO người dẫn chuyện + Lip-Sync)",
                 "HORIZONTAL",
                 "PROCESSING",
             ),
@@ -521,16 +525,16 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             conn.execute(
                 """INSERT INTO cms_episode
                    (id, channel_slug, project_id, episode_num, folder_name, label, total_clips, rendered_clips, is_complete, updated_at)
-                   VALUES (?, ?, ?, ?, ?, ?, 6, 0, 0, ?)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, 0, 0, ?)
                    ON CONFLICT(id) DO UPDATE SET
                      project_id=excluded.project_id,
                      folder_name=excluded.folder_name,
                      label=excluded.label,
-                     total_clips=6,
+                     total_clips=excluded.total_clips,
                      updated_at=excluded.updated_at""",
-                (ep_id, CHANNEL_SLUG, PROJECT_ID, s, folder_name, f"Cảnh {s:02d}", now_iso),
+                (ep_id, CHANNEL_SLUG, PROJECT_ID, s, folder_name, f"Cảnh {s:02d}", CLIPS_PER_SCENE, now_iso),
             )
-            for c in range(1, 7):
+            for c in range(1, CLIPS_PER_SCENE + 1):
                 key = f"canh_{s:02d}_clip_{c:02d}"
                 fpath = os.path.join(SERIES_DIR, folder_name, f"clip-{c}.md")
                 prompt_full = f"Cảnh {s:02d} - Clip {c}"
@@ -624,7 +628,7 @@ def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
             kept.append(line)
             return f"⟦KEEP{len(kept) - 1}⟧"
 
-        held = re.sub(r"^- (?:Narration|Dialogue) .*$", _hold, p, flags=re.MULTILINE)
+        held = re.sub(r"^- (?:Narration|Dialogue|Turn \d+,) .*$", _hold, p, flags=re.MULTILINE)
         held = re.sub(r"burying his face in his (?:shaking|subtle) hands", "resting his forehead thoughtfully on his hand", held, flags=re.IGNORECASE)
         held = re.sub(r"buries his forehead in both (?:shaking|subtle) hands", "rests his forehead in his hands", held, flags=re.IGNORECASE)
         out = rewrite_prompt_on_failure(held, 1, CHARACTER_SPECS, ASPECT_RATIO)
@@ -636,7 +640,10 @@ def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
                 "0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.\n"
                 "- 0.0–3.0s: Wide atmospheric camera movement establishing the Hà Nội old-quarter setting and lighting with no person in the opening frames.\n"
                 f"- 3.0–7.0s: Smooth camera push-in revealing {lead} in the scene with subtle natural movement and an earnest expression.\n"
-                f"- 7.0–10.0s: {lead} holds a calm, composed gaze as the camera settles cleanly on the final frame.\n\n"
+                + (f"- 7.0–11.0s: {lead} breathes steadily and turns slightly toward the soft light, hands relaxed.\n"
+                   f"- 11.0–15.0s: {lead} holds a calm, composed gaze as the camera settles cleanly on the final frame.\n\n"
+                   if CLIP_DURATION_S == 15 else
+                   f"- 7.0–10.0s: {lead} holds a calm, composed gaze as the camera settles cleanly on the final frame.\n\n")
             )
             out = re.sub(r"\[TIMELINE\][\s\S]*?(?=\[AUDIO\])", safe_timeline, out)
         for i, line in enumerate(kept):
@@ -753,7 +760,7 @@ def upload_start_frame(image_path: str) -> str:
                     ("Media ID", media_id),
                     ("File Ảnh Nối", os.path.basename(image_path)),
                     ("Slot Kích Hoạt", "Khung hình [Bắt đầu] (Start Frame) cho Clip tiếp theo"),
-                    ("Trạng Thái", "Sẵn sàng Image-to-Video Omni Flash 10s (16:9) ✅"),
+                    ("Trạng Thái", f"Sẵn sàng Image-to-Video Omni {OMNI_MODEL_VERSION} Flash {CLIP_DURATION_S}s (16:9) ✅"),
                 ],
             )
             return media_id
@@ -788,14 +795,14 @@ def load_previous_last_frame(scene_num: int, prev_clip_num: int) -> str:
 
 
 def boost_clip_voice_speed(video_path: str, tempo: float = 1.18) -> bool:
-    """Tăng tốc giọng đọc (giữ cao độ & 10.0s hình). Bản cũ nối lại đuôi audio gốc nên mấy chữ cuối bị
+    """Tăng tốc giọng đọc (giữ cao độ & độ dài hình). Bản cũ nối lại đuôi audio gốc nên mấy chữ cuối bị
     đọc lặp (08/11/2026); nay dùng cms_integration.boost_voice_tempo_safe: lấp phần cuối bằng tiếng nền."""
     from cms_integration import boost_voice_tempo_safe
     return boost_voice_tempo_safe(video_path, tempo=tempo, log_fn=log)
 
 
 def download_and_rename_video(video_url: str, scene_num: int, clip_num: int, boost_voice: bool = True) -> str:
-    """Tải ngay lập tức video 10s (Omni) về máy, tăng tốc nhịp đọc 1.18x, cắt ảnh cuối và đồng bộ lên Cloudflare R2 & D1."""
+    """Tải ngay lập tức video 15s (Omni 1.2) về máy, tăng tốc nhịp đọc 1.18x, cắt ảnh cuối và đồng bộ lên Cloudflare R2 & D1."""
     scene_folder = os.path.join(OUTPUT_VIDEOS_DIR, f"canh-{scene_num:02d}")
     os.makedirs(scene_folder, exist_ok=True)
 
@@ -804,7 +811,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int, boo
     is_overwrite = os.path.exists(target_path)
     tmp_path = f"{target_path}.tmp"
 
-    log("📥 Đang tải video 10s (Google Flow Omni) từ Google Flow về máy...")
+    log("📥 Đang tải video 15s (Google Flow Omni 1.2) từ Google Flow về máy...")
     try:
         r = requests.get(video_url, stream=True, timeout=120)
         if r.status_code == 200:
@@ -842,7 +849,7 @@ def download_and_rename_video(video_url: str, scene_num: int, clip_num: int, boo
             if r2_sync.get("r2_url"):
                 box_rows.append(("Cloudflare R2 URL", r2_sync["r2_url"]))
             print_box(
-                "💾 CLIP 10S HOÀN THÀNH & ĐÃ GHI ĐÈ VỀ MÁY" if is_overwrite else "💾 CLIP 10S HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
+                "💾 CLIP 15S HOÀN THÀNH & ĐÃ GHI ĐÈ VỀ MÁY" if is_overwrite else "💾 CLIP 15S HOÀN THÀNH & ĐÃ TẢI VỀ MÁY",
                 box_rows,
             )
             return target_path
@@ -957,6 +964,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             "project_id": PROJECT_ID,
             "scene_id": sid,
             "duration_s": CLIP_DURATION_S,
+            "model_version": OMNI_MODEL_VERSION,
             "model_family": VIDEO_MODEL_FAMILY,
             "resolution": "720p",
             "aspect_ratio": ASPECT_RATIO,
@@ -971,24 +979,26 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             "project_id": PROJECT_ID,
             "scene_id": sid,
             "duration_s": CLIP_DURATION_S,
+            "model_version": OMNI_MODEL_VERSION,
             "resolution": "720p",
             "aspect_ratio": ASPECT_RATIO,
         }
     else:
         endpoint = "/api/flow/generate-video-omni-text"
-        mode = "🎬 Scene Opening (Text-to-Video Omni 10s)"
+        mode = f"🎬 Scene Opening (Text-to-Video Omni {OMNI_MODEL_VERSION} {CLIP_DURATION_S}s)"
         slot_desc = "[Trống - Khởi tạo cảnh gốc]"
         payload = {
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
             "duration_s": CLIP_DURATION_S,
+            "model_version": OMNI_MODEL_VERSION,
             "resolution": "720p",
             "aspect_ratio": ASPECT_RATIO,
         }
 
     print_box(
-        "📡 FLOWKIT API REQUEST CALL (GOOGLE FLOW OMNI 10S)",
+        "📡 FLOWKIT API REQUEST CALL (GOOGLE FLOW OMNI 1.2 15S)",
         [
             ("Endpoint API", f"POST {endpoint}"),
             ("Tên Trên Google Flow", clip_tag),
@@ -996,7 +1006,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
             ("Chế Độ Tạo", mode),
             ("Khóa Hình Ảnh / Nhân Vật", slot_desc),
             ("Quy Định Giọng Đọc", voice_mode_desc),
-            ("Thời Lượng", f"{CLIP_DURATION_S} giây (Omni Flash 10s)"),
+            ("Thời Lượng", f"{CLIP_DURATION_S} giây (Omni {OMNI_MODEL_VERSION} Flash)"),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", ASPECT_RATIO),
             ("Model Family", VIDEO_MODEL_FAMILY),
@@ -1011,7 +1021,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     return res
 
 
-def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeout_s=150):
+def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeout_s=15 * CLIP_DURATION_S):
     url = f"{FLOWKIT_API}/api/flow/check-status"
     start_time = time.time()
 
@@ -1028,9 +1038,9 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
     poll_mode_desc = (
         "workflows (Text-to-Video)"
         if workflows
-        else ("operations (Omni 10s R2V/I2V)" if operations else "direct media")
+        else (f"operations (Omni {OMNI_MODEL_VERSION} {CLIP_DURATION_S}s R2V/I2V)" if operations else "direct media")
     )
-    log(f"⏳ Đang theo dõi tiến trình tạo video 10s [Cảnh {scene_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
+    log(f"⏳ Đang theo dõi tiến trình tạo video {CLIP_DURATION_S}s [Cảnh {scene_num:02d} - Clip {clip_num:02d}] (Chế độ: {poll_mode_desc})...")
 
     last_logged_time = 0
     while time.time() - start_time < timeout_s:
@@ -1098,7 +1108,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         return {"success": False, "error": "OPERATION_FAILED"}
 
                     if all_done and inner_ops:
-                        log(f"🎉 Google Flow (Omni 10s) render hoàn tất sau {elapsed}s!")
+                        log(f"🎉 Google Flow (Omni {OMNI_MODEL_VERSION} {CLIP_DURATION_S}s) render hoàn tất sau {elapsed}s!")
                         target_mid = op_media_id or primary_media_id
                         if not video_url and target_mid:
                             video_url = fetch_media_video_url(target_mid)
@@ -1123,7 +1133,7 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 
             if elapsed - last_logged_time >= 12:
                 last_logged_time = elapsed
-                log(f"   ...Google Flow ({VIDEO_MODEL_NAME} 10s) đang vẽ video ({elapsed}s trôi qua)...")
+                log(f"   ...Google Flow ({VIDEO_MODEL_NAME} {CLIP_DURATION_S}s) đang vẽ video ({elapsed}s trôi qua)...")
 
         except Exception as e:
             log(f"   ...lỗi tạm thời khi poll ({e}), tiếp tục chờ...")
@@ -1177,7 +1187,7 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
             if res.status_code == 200:
                 data = res.json()
                 inner = data.get("data") if isinstance(data.get("data"), dict) else data
-                log(f"✅ Google Flow đã chấp nhận job tạo video 10s ({VIDEO_MODEL_NAME}).")
+                log(f"✅ Google Flow đã chấp nhận job tạo video {CLIP_DURATION_S}s ({VIDEO_MODEL_NAME}).")
 
                 poll_res = poll_generation(inner, scene_num, clip_num)
                 if poll_res["success"] and poll_res.get("video_url"):
@@ -1220,8 +1230,8 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
 def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
-    print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT — GĂNG TƠ TÁI XUẤT (OMNI 10S)")
-    print(f"📁 Phạm vi: Cảnh {start_scene:02d} đến Cảnh {end_scene:02d} (6 clips × {CLIP_DURATION_S}s = {6 * CLIP_DURATION_S}s/cảnh)")
+    print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT — GĂNG TƠ TÁI XUẤT (OMNI 1.2 15S)")
+    print(f"📁 Phạm vi: Cảnh {start_scene:02d} đến Cảnh {end_scene:02d} ({CLIPS_PER_SCENE} clips × {CLIP_DURATION_S}s = {CLIPS_PER_SCENE * CLIP_DURATION_S}s/cảnh)")
     print(f"🤖 Model Video: {VIDEO_MODEL_NAME} (model_family={VIDEO_MODEL_FAMILY}, {CLIP_DURATION_S}s/clip Ingredients R2V)")
     print(f"🔗 Google Flow Project: {PROJECT_ID}")
     print(f"💾 Tải video tự động về: {OUTPUT_VIDEOS_DIR}")
@@ -1239,14 +1249,14 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
     load_and_lock_project_characters()
     sync_dashboard_database(start_scene, end_scene)
 
-    clip_indices = [ONLY_CLIP] if ONLY_CLIP > 0 else list(range(1, 7))
+    clip_indices = [ONLY_CLIP] if ONLY_CLIP > 0 else list(range(1, CLIPS_PER_SCENE + 1))
     total_clips = (end_scene - start_scene + 1) * len(clip_indices)
     completed_clips = 0
 
     for s in range(start_scene, end_scene + 1):
         CURRENT_EP_NUM = s
         print("\n" + "#" * 72)
-        print(f"👉 BẮT ĐẦU CẢNH {s:02d} (6 Clips × {CLIP_DURATION_S}s — Google Flow Omni 10s)")
+        print(f"👉 BẮT ĐẦU CẢNH {s:02d} ({CLIPS_PER_SCENE} Clips × {CLIP_DURATION_S}s — Google Flow Omni {OMNI_MODEL_VERSION})")
         print("#" * 72, flush=True)
 
         previous_clip_last_frame_media_id = None
@@ -1278,7 +1288,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
             progress_pct = (completed_clips / max(1, total_clips)) * 100
             print(
                 f"\n▶️ TIẾN ĐỘ TỔNG: [{completed_clips}/{total_clips}] ({progress_pct:.1f}%) — "
-                f"CẢNH {s:02d} - CLIP {c_idx:02d} [OMNI 10S | {VIDEO_MODEL_NAME}]",
+                f"CẢNH {s:02d} - CLIP {c_idx:02d} [OMNI {CLIP_DURATION_S}S | {VIDEO_MODEL_NAME}]",
                 flush=True,
             )
 
@@ -1378,7 +1388,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
                     update_dashboard_scene_status(s, m_idx, loc_vid if loc_vid else v_url)
 
         CURRENT_CLIP_NUM = None
-        log(f"✅ Đã hoàn tất render các clip 10s của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
+        log(f"✅ Đã hoàn tất render các clip {CLIP_DURATION_S}s của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
 
     # 🔄 VÒNG QUÉT TỔNG KIỂM TRA & TỰ ĐỘNG CHẠY LẠI MỌI CLIP LỖI / THIẾU TRÊN TOÀN BỘ CÁC CẢNH (AUTO-HEAL SWEEP)
     for sweep_round in range(1, 3):
@@ -1438,7 +1448,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
             time.sleep(5)
 
     print("\n" + "=" * 72)
-    print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d} (GOOGLE FLOW OMNI 10S)!")
+    print(f"🎉 HOÀN THÀNH TOÀN BỘ CHU TRÌNH TỪ CẢNH {start_scene:02d} ĐẾN CẢNH {end_scene:02d} (GOOGLE FLOW OMNI 1.2 15S)!")
     print(f"📁 Video hoàn chỉnh đã được lưu tại: {OUTPUT_VIDEOS_DIR}")
     print("=" * 72 + "\n", flush=True)
 

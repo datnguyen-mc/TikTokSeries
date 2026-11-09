@@ -1,4 +1,4 @@
-# Cảnh 26: Đôi Mắt Sáng Lại (6 Clips × 10s = 60s)
+# Cảnh 26: Đôi Mắt Sáng Lại (4 Clips × 15s = 60s)
 
 - **Thời gian:** Một tuần sau (25:00–26:00)
 - **Bối cảnh:** Phòng bệnh viện mắt sáng sủa buổi sáng, cửa phòng nhìn ra hành lang trắng.
@@ -7,9 +7,7 @@
 
 | Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
 |---|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | — | `VO` | **24** | `0.4–6.4s` | "Một tuần sau, tiền mổ mắt cho ông Lâm do cả phố cổ góp lại, mỗi người một ít, bà Hoa góp nhiều nhất." | 35mm wide shot slow dolly-in | Text-to-video |
-| [**Clip 2**](clip-2.md) | `@Lam` | `VO` | **21** | `0.4–5.7s` | "Cô y tá từ từ tháo băng, ông Lâm chớp mắt mấy lần, ánh nắng sớm tràn vào căn phòng trắng." | 85mm close-up slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 3**](clip-3.md) | `@Mai`, `@Lam` | `VO` | **18** | `0.4–4.9s` | "Người đầu tiên ông nhìn thấy rõ là Mai, đứng bên giường, mắt đỏ hoe mà vẫn cười." | 50mm over-the-shoulder shot slow rack focus | Ingredients: ảnh nhân vật |
-| [**Clip 4**](clip-4.md) | `@Lam`, `@Mai` | `LIPSYNC:@Lam` | **19** | `0.4–5.3s` | "Cháu ông xinh thế này mà mấy năm nay ông chỉ nhìn thấy lờ mờ, phí quá con ạ." | 35mm medium two-shot slow arc | Frames: nối khung cuối clip trước |
-| [**Clip 5**](clip-5.md) | `@BaHoa`, `@Khoa` | `LIPSYNC:@BaHoa` | **19** | `3.0–7.8s` | "Mắt sáng rồi thì nhớ trả tôi tiền bún chả ba mươi năm nay ông ăn chịu đấy nhé!" | 28mm wide shot slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 6**](clip-6.md) | `@Khoa`, `@BaHoa` | `LIPSYNC:@Khoa` | **18** | `0.4–4.9s` | "Bà ấy nói đùa đấy, thực ra bà ấy khóc cả đêm qua vì lo cho ông đấy." | 85mm close-up slow push-in | Frames: nối khung cuối clip trước |
+| [**Clip 1**](clip-1.md) | — | `VO` | **47** | `0.4–12.2s` | "Một tuần sau, tiền mổ mắt cho ông Lâm do cả phố cổ góp lại, người một ít, bác xích lô góp mấy buổi chạy xe, bà bán xôi góp cả tháng lãi, còn bà Hoa góp nhiều nhất, nhưng cấm ai được kể cho ông nghe." | 35mm wide shot slow dolly-in | Text-to-video |
+| [**Clip 2**](clip-2.md) | `@Lam` | `VO` | **46** | `0.4–11.9s` | "Cô y tá từ từ tháo băng, ông Lâm chớp mắt mấy lần trong ánh nắng sớm, mọi thứ mờ mờ rồi rõ dần, lần đầu sau bao nhiêu năm, ông nhìn rõ từng chiếc lá ngoài cửa sổ, và cả người đang đứng bên giường." | 85mm close-up slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@Lam`, `@Mai` | `LIPSYNC:@Lam+@Mai` | **37** | `3.0–12.9s` | "@Lam: Cháu ông xinh thế này mà mấy năm nay ông chỉ nhìn thấy lờ mờ, phí quá con ạ. / @Mai: Thế thì ông ngắm cháu cả đời đi, từ nay cháu không để ông phải lo nữa đâu." | 50mm medium two-shot slow arc | Ingredients: ảnh nhân vật |
+| [**Clip 4**](clip-4.md) | `@BaHoa`, `@Khoa` | `LIPSYNC:@BaHoa+@Khoa` | **37** | `3.0–12.8s` | "@BaHoa: Mắt sáng rồi thì nhớ trả tôi tiền bún chả ba mươi năm nay ông ăn chịu đấy nhé! / @Khoa: Bà ấy nói đùa đấy, thực ra bà ấy khóc cả đêm qua vì lo cho ông đấy." | 28mm wide shot slow push-in | Ingredients: ảnh nhân vật |

@@ -42,6 +42,25 @@ The migrated wires were re-captured from the live Flow UI on 2026-09-14. Live AP
 
 Polling differs only for text-to-video: text-to-video returns `flowkitPolling.mode=batch_media` and uses `/api/flow/check-omni-status`; all image/reference-conditioned modes return `flowkitPolling.mode=batch_operation` and use `/api/flow/check-status` with their `operations` array.
 
+## Omni 1.2 Flash (November 2026)
+
+Google released Omni 1.2 Flash on 2026-11-05. It renders 3–15 second clips (one-second steps), and Flow now selects it by default. FlowKit keeps both versions in `agent/models.json` → `omni_model_versions`:
+
+| Version | Durations | Wire keys | Status |
+|---|---|---|---|
+| `1.1` | 4, 6, 8, 10 | `abra_t2v/i2v/r2v_<N>s`, `omni_flash_i2v_<N>s_first_last` | live-verified 2026-09-14 |
+| `1.2` (default) | 3–15 | `macaron_cookie_t2v/i2v/r2v_<N>s`, `macaron_cookie_i2v_<N>s_first_last` | `t2v` seen in a UI capture on 2026-11-08; Frames and Ingredients keys follow the same naming but are **unverified** |
+
+How the version is picked: the request field `model_version` ("1.1" / "1.2"), else env `OMNI_FLASH_MODEL_VERSION`, else the table's `default`. `OMNI_FLASH_MODEL_VERSION=1.1` is an instant rollback for 4–10s work.
+
+Safety net: when Flow rejects an unverified 1.2 key at submit time and the duration also exists on 1.1, FlowKit retries once on 1.1, adds `model_fallback` to the response, and logs a warning. It then skips 1.2 for that mode until the server restarts. A 15s request has no 1.1 equivalent, so its error is returned as is. Set `OMNI_FLASH_NO_FALLBACK=1` to turn this off.
+
+To verify the unverified keys:
+1. Keep the netlog recorder from `docs/CAPTURE.md` loaded.
+2. In the Flow UI, run one 15s Frames generation and one 15s Ingredients generation with Omni 1.2 Flash selected.
+3. Read the `videoModelKey` / model slot from `scratch/captured_netlog.jsonl`.
+4. Fix `omni_model_versions["1.2"]` if needed and add the mode to `verified`.
+
 ## End-to-end integration flow
 
 1. Check `/health` and `/api/flow/status`.

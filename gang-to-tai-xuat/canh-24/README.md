@@ -1,4 +1,4 @@
-# Cảnh 24: Trên Cây Cầu Sắt (6 Clips × 10s = 60s)
+# Cảnh 24: Trên Cây Cầu Sắt (4 Clips × 15s = 60s)
 
 - **Thời gian:** 21:00 Đêm (23:00–24:00)
 - **Bối cảnh:** Giữa cây cầu sắt trăm tuổi bắc qua sông rộng về đêm, trên làn xe máy hẹp cạnh đường ray.
@@ -7,9 +7,7 @@
 
 | Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
 |---|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Hung` | `VO` | **20** | `0.4–5.4s` | "Hưng chạy đến giữa cầu thì khựng lại, phía bên kia, đèn xe công an đã chắn kín lối xuống." | 35mm medium tracking shot | Ingredients: ảnh nhân vật |
-| [**Clip 2**](clip-2.md) | `@Lam` | `VO` | **20** | `0.4–5.4s` | "Phía sau, tiếng xe máy cũ chậm rãi dừng lại, ông Lâm dựng xe, tháo mũ cối cầm trên tay." | 24mm low-angle wide shot slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 3**](clip-3.md) | `@Hung`, `@Lam` | `LIPSYNC:@Hung` | **19** | `3.0–7.8s` | "Ông là cái thá gì mà dám chơi tôi? Ông chỉ là một lão già chạy xe ôm thôi!" | 50mm over-the-shoulder shot slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 4**](clip-4.md) | `@Lam`, `@Hung` | `VO` | **21** | `0.4–5.7s` | "Ông Lâm không trả lời, ông chậm rãi xắn tay áo, con rồng xanh sẫm hiện ra dưới ánh đèn cầu." | 85mm low-angle close-up slow tilt-down | Frames: nối khung cuối clip trước |
-| [**Clip 5**](clip-5.md) | `@Lam`, `@Hung` | `LIPSYNC:@Lam` | **19** | `0.4–5.3s` | "Bố cậu chưa kể hết à? Ba mươi năm trước, phố cổ này là của Rồng, giờ vẫn thế." | 35mm medium two-shot slow arc | Frames: nối khung cuối clip trước |
-| [**Clip 6**](clip-6.md) | `@Hung` | `VO` | **21** | `0.4–5.7s` | "Hưng lùi lại, chiếc điện thoại tuột khỏi tay rơi xuống dòng sông, nhưng năm triệu người đã kịp thấy hết." | 24mm wide shot slow crane-down | Ingredients: ảnh nhân vật |
+| [**Clip 1**](clip-1.md) | `@Hung` | `VO` | **44** | `0.4–11.4s` | "Cây cầu sắt trăm tuổi, nơi ba mươi năm trước Lâm Rồng từng làm mưa làm gió, đêm nay lại chứng kiến một cuộc rượt đuổi, Hưng chạy đến giữa cầu thì khựng lại, phía bên kia đèn công an đã chắn kín lối." | 24mm high wide shot slow crane-down | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Hung`, `@Lam` | `LIPSYNC:@Hung` | **35** | `3.0–11.8s` | "Ông nghĩ ông là cái thá gì mà dám chơi tôi? Bố tôi bảo ông từng là Lâm Rồng gì đấy, nhưng giờ ông chỉ là một lão già chạy xe ôm hết thời thôi!" | 35mm medium two-shot slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@Lam`, `@Hung` | `LIPSYNC:@Lam` | **33** | `3.0–11.5s` | "Bố cậu chưa kể hết à? Ba mươi năm trước, phố cổ này là của Rồng, giờ vẫn thế, mà Rồng thì chưa bao giờ phải động đến một ngón tay, cậu ạ." | 85mm low-angle close-up slow tilt-up | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@Hung` | `VO` | **46** | `0.4–11.9s` | "Hưng lùi lại đến sát lan can, chiếc điện thoại tuột khỏi tay rơi tõm xuống dòng sông, nhưng muộn rồi, năm triệu người xem đã kịp thấy hết, nghe hết, và cả đế chế Phú Quý cũng chìm nghỉm theo nó trong làn nước đen." | 24mm wide shot slow crane-down | Frames: nối khung cuối clip trước |

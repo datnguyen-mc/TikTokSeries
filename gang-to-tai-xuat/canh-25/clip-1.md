@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -23,14 +23,15 @@ Nobody else appears in the shot.
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
 - 0.0–3.0s: The middle span of the old steel truss bridge at night, blue and red lights washing softly over the rusty iron lattice and the empty motorbike lane, no person in frame.
 - 3.0–7.0s: @Hung stands alone by the railing on screen-right as two police officers in green uniforms walk up calmly from screen-left and stop a few steps away, hands relaxed at their sides.
-- 7.0–10.0s: @Hung slowly raises both his own hands to shoulder height, ringed fingers spread, face drained pale and lips pressed shut, while the officers wait without moving. The shot settles on this as its final frame.
+- 7.0–11.0s: @Hung slowly raises both his own hands and offers them out in front of him, ringed fingers trembling, face drained pale and lips pressed shut, while the officers wait without moving.
+- 11.0–15.0s: @Hung lowers his head, ash-blond hair falling over his gold-rimmed glasses, a small figure under the bridge lamp as the blue and red light keeps washing over him. The shot settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–6.2s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Hai cán bộ công an bước tới, Hưng tự giơ hai tay lên, gương mặt kiêu ngạo giờ trắng bệch như tờ giấy." (no subtitles)
+- Narration 0.4–11.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Trên cầu, hai cán bộ công an thong thả bước tới, Hưng tự giơ hai tay ra trước mặt, gương mặt kiêu ngạo của ông chủ Phú Quý giờ trắng bệch như tờ giấy, chẳng còn nụ cười nào để livestream cho ai xem nữa." (no subtitles)
 - After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
 - Nobody on screen speaks; every mouth on screen stays closed.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: calm footsteps on iron plates, a police radio crackling softly, wind through the girders, the river below. Ambience continues to 10.0s. No music.
+- SFX: calm footsteps on iron plates, a police radio crackling softly, wind through the girders, the river below. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

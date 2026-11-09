@@ -1,0 +1,809 @@
+[
+  {
+    "num": 1,
+    "title": "Người Đàn Bà Thức Dậy Trước Mặt Trời",
+    "time_label": "04:00 Rạng sáng, phố cổ Hà Nội (00:00–01:00)",
+    "location": "Mái ngói phố cổ Hà Nội lúc rạng sáng (clip 1), rồi gian bếp tầng trệt căn nhà ống ba tầng trong một ngõ nhỏ.",
+    "axis": "Máy quay đặt phía bàn ăn nhìn vào bếp: nồi đồ xôi bên trái, cầu thang dốc bên phải, kệ có camera nhỏ trên cao phía sau.",
+    "props": "Nồi đồ xôi nhôm lớn, lá chuối, bát xôi, bàn thờ nhỏ với ba nén hương, gậy tre của bà Nhàn, chiếc camera nhỏ màu trắng trên kệ bếp.",
+    "setting": "Inside a narrow three-storey tube house in a Hà Nội old alley: a ground-floor kitchen with a gas stove and a big aluminum sticky-rice steamer, a wooden dining table with low stools, a steep tiled staircase, a small family altar shelf, a small white home camera on a high kitchen shelf.",
+    "clips": [
+      {
+        "id": "01.1",
+        "chars": [
+          "@BaNhan"
+        ],
+        "speaker": "@BaNhan",
+        "line": "Mới bốn giờ sáng, cả phố còn ngủ say, con dâu tôi đã lục đục dưới bếp đồ xôi rồi, cái lưng già này đau quá, chẳng tài nào ngủ được nữa.",
+        "camera": "24mm aerial descending glide from the rooftops down to an upper-floor window",
+        "continuity": "cut",
+        "beats": [
+          "High aerial view over the dark tiled roofs of the old quarter before dawn, thin mist drifting between the rooftops and yellow streetlamps glowing in the narrow alleys below.",
+          "The camera glides down past tangled overhead wires to a small upper-floor window of a narrow tube house, where @BaNhan swings open the wooden shutters and begins murmuring to herself in the lamplight.",
+          "@BaNhan keeps murmuring with her wrinkled face clear in the window light, one hand pressed to her lower back as she leans on the sill and gazes down into the alley.",
+          "@BaNhan closes her mouth and looks down at the warm light and soft steam spilling from the kitchen window below, the mist glowing gold around the old tiled roofs."
+        ],
+        "sfx": "a distant rooster, a cold breeze, wooden shutters creaking, a soft hiss of steam below",
+        "setting": "Pre-dawn aerial over the tiled roofs of Hà Nội's old quarter: mist, yellow streetlamps, a few lit kitchen windows."
+      },
+      {
+        "id": "01.2",
+        "chars": [
+          "@Thu"
+        ],
+        "speaker": "@Thu",
+        "line": "Con lạy tổ tiên, mười hai năm làm dâu, hồi anh ấy trắng tay cả nhà sống nhờ mấy gói xôi này, giờ con chỉ xin chồng con làm ăn suôn sẻ, cả nhà bình an.",
+        "camera": "35mm medium shot, slow lateral dolly from the altar shelf to the dining table",
+        "continuity": "cut",
+        "beats": [
+          "The dim kitchen before dawn, a big aluminum sticky-rice steamer rattling on the gas stove beside a small family altar shelf glowing with a tiny red lamp.",
+          "@Thu steps in front of the altar shelf in her green apron, raises three lit incense sticks to her forehead and begins whispering a prayer, her lips moving softly in the red glow.",
+          "@Thu keeps praying in a low whisper as she plants the incense sticks in the small bowl on the shelf, her work-roughened hands pressed together in front of her chest.",
+          "@Thu finishes the prayer, closes her mouth and turns to the wooden table, folding warm sticky rice into a green banana-leaf parcel beside a growing row of identical parcels."
+        ],
+        "sfx": "steam hissing, the steamer lid rattling, the gas flame purring, banana leaves rustling"
+      },
+      {
+        "id": "01.3",
+        "chars": [
+          "@BaNhan",
+          "@Thu"
+        ],
+        "turns": [
+          {
+            "speaker": "@BaNhan",
+            "line": "Thu ơi, con nghỉ tay ăn miếng xôi đi đã, con gánh cả cái nhà này mười hai năm rồi đấy."
+          },
+          {
+            "speaker": "@Thu",
+            "line": "Mẹ đau lưng thì xuống làm gì, mẹ cứ lên ngủ thêm đi, con quen tay rồi."
+          }
+        ],
+        "camera": "35mm wide shot from the dining table toward the stove and the staircase, slow dolly-in",
+        "continuity": "cut",
+        "beats": [
+          "The steep tiled staircase beside the warm kitchen, a faint glow from the steamer climbing the steps, a plate of banana-leaf parcels and two low stools on the wooden table.",
+          "@BaNhan comes slowly down the stairs leaning on her bamboo walking stick and speaks to @Thu at the stove, while @Thu turns around with her mouth closed, listening.",
+          "@BaNhan finishes her words and lowers herself onto a stool by the table, and @Thu answers her gently with a thin smile, her eyelids heavy, while @BaNhan listens with her mouth closed.",
+          "@Thu says her last words and closes her mouth, setting a small bowl of warm sticky rice in front of @BaNhan, who rests both hands on top of her bamboo stick."
+        ],
+        "sfx": "slow footsteps on tiles, the tap of a bamboo stick, steam hissing, a stool creaking"
+      },
+      {
+        "id": "01.4",
+        "chars": [
+          "@BaNhan",
+          "@Thu"
+        ],
+        "turns": [
+          {
+            "speaker": "@BaNhan",
+            "line": "Tối qua thằng Tùng lại về muộn hả con? Dạo này nó lạ lắm, mẹ thấy không yên."
+          },
+          {
+            "speaker": "@Thu",
+            "line": "Anh ấy dạo này nhiều việc lắm mẹ ạ, mẹ cứ yên tâm, con lo được hết."
+          }
+        ],
+        "camera": "50mm over-the-shoulder shot across the table from behind the old woman, slow push-in",
+        "continuity": "continuous",
+        "speech_start": 3.0,
+        "beats": [
+          "@BaNhan sits at the wooden table holding the small bowl of sticky rice in both hands and lifts her eyes to @Thu's face, both of them silent in the drifting steam.",
+          "@BaNhan speaks to @Thu in a low voice with her wrinkled brow creased, while @Thu stands beside the table and listens with her mouth closed.",
+          "@Thu answers @BaNhan with a thin strained smile, her eyes sliding away toward the dark staircase, while @BaNhan listens with her lips pressed together.",
+          "@Thu finishes, closes her mouth and turns back to the stove to lift the steamer lid, a thick cloud of steam rolling up around her tight shoulders under the faded blue blouse."
+        ],
+        "sfx": "steam hissing, chopsticks against a bowl, a distant moped"
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Đôi Bông Tai Đã Bán",
+    "time_label": "05:30 Sáng, gánh xôi góc phố (01:00–02:00)",
+    "location": "Gánh xôi nhỏ của Thu dưới chiếc ô bạc màu ở một góc vỉa hè phố cổ lúc hửng sáng; clip 3 ở bếp nhà Thu (bà Nhàn nói với camera).",
+    "axis": "Máy quay trên vỉa hè nhìn vào gánh xôi: nồi xôi bên trái Thu, lòng đường và xe máy phía sau bên phải.",
+    "props": "Thúng tre, nồi xôi bốc khói, lá chuối, ghế nhựa thấp, hộp bông tai nhung đỏ rỗng, điện thoại cũ của Thu, chiếc camera nhỏ màu trắng trên kệ bếp.",
+    "setting": "Dawn on a Hà Nội old-quarter pavement corner: a small sticky-rice stall with a bamboo basket, a steaming pot and banana leaves under a big faded umbrella, low plastic stools, mopeds passing, blue-grey dawn light and yellow streetlamps.",
+    "clips": [
+      {
+        "id": "02.1",
+        "chars": [
+          "@Thu"
+        ],
+        "speaker": "@Thu",
+        "line": "Cô ơi, sương lạnh thế này, cô ngồi xuống làm gói xôi nóng đã, sáng nào cháu cũng phần cô một gói, cô quét cả dãy phố từ lúc trời tối, vất vả lắm.",
+        "camera": "24mm wide establishing shot, slow lateral track along the pavement",
+        "continuity": "cut",
+        "beats": [
+          "A quiet old-quarter street corner at dawn, yellow streetlamps still glowing and mist over the pavement, a small sticky-rice stall steaming under a big faded umbrella.",
+          "@Thu lifts the lid of the steaming pot as an elderly woman street sweeper in an orange vest pauses by the stall with her bamboo broom, and @Thu starts calling to her warmly.",
+          "@Thu keeps talking with a bright smile as she wraps a warm banana-leaf parcel and pats a low plastic stool for the sweeper to sit on.",
+          "@Thu closes her mouth and holds out the warm parcel across the basket, and the sweeper leans her broom on the umbrella pole and takes it with both hands."
+        ],
+        "sfx": "a moped passing, steam hissing, a bamboo broom sweeping the pavement",
+        "extras": "an elderly woman street sweeper in an orange vest with a bamboo broom"
+      },
+      {
+        "id": "02.2",
+        "chars": [
+          "@BaNhan"
+        ],
+        "speaker": "@BaNhan",
+        "line": "Thu ơi, thằng Tùng nó làm giám đốc rồi, con còn ra gánh xôi làm gì cho khổ thân hả con? Sương lạnh thế này, thôi về nhà mà nghỉ đi con.",
+        "camera": "35mm medium shot, slow push-in toward the high kitchen shelf",
+        "continuity": "cut",
+        "beats": [
+          "Early morning light in the narrow kitchen, the small white home camera on the high kitchen shelf blinking its tiny light above the empty dining table and a covered plate of banana-leaf parcels.",
+          "@BaNhan shuffles into the kitchen on her bamboo walking stick, looks up at the small white home camera on the high kitchen shelf and starts speaking up to it with a fond crinkled smile.",
+          "@BaNhan keeps speaking up toward the little camera, shaking her head slowly and tapping the tip of her bamboo stick on the tiles.",
+          "@BaNhan closes her mouth and gives the camera a small wave, then lowers herself onto a stool beside the covered plate of parcels."
+        ],
+        "sfx": "a bamboo stick tapping on tiles, a stool creaking, a rooster outside",
+        "setting": "Inside a narrow three-storey tube house in a Hà Nội old alley: a ground-floor kitchen with a gas stove and a big aluminum sticky-rice steamer, a wooden dining table with low stools, a steep tiled staircase, a small family altar shelf, a small white home camera on a high kitchen shelf."
+      },
+      {
+        "id": "02.3",
+        "chars": [
+          "@Thu"
+        ],
+        "speaker": "@Thu",
+        "line": "Mẹ ơi, mười hai năm trước con bán cả đôi bông tai cưới, của hồi môn duy nhất, cho anh ấy làm vốn, giờ anh ấy giàu thì giàu, con vẫn phải giữ cái nghề, lỡ mai kia lại trắng tay.",
+        "camera": "85mm close-up, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "The edge of the stall's low plastic stool with an old cracked smartphone lying face-up beside the bamboo basket, its screen glowing blank in the grey dawn light.",
+          "@Thu sits on the low stool, picks up the old phone, smiles softly at its glowing blank screen and starts speaking into it, holding it close to her mouth.",
+          "@Thu keeps speaking as she draws a small empty red velvet earring box from her apron pocket and opens it with her thumb, gazing at the bare velvet.",
+          "@Thu says her last words and closes her mouth, her thumb resting on the empty velvet slot, her eyes glistening as steam drifts past the umbrella."
+        ],
+        "sfx": "steam hissing, the soft click of a box lid, a distant moped, soft dawn birdsong"
+      },
+      {
+        "id": "02.4",
+        "chars": [
+          "@Thu"
+        ],
+        "speaker": "@Thu",
+        "line": "Xôi xéo hành phi nóng đây chị ơi, em gói thêm cho chị ít ruốc nhé. Chồng em làm ở tòa nhà kính đằng kia đấy, ngày xưa hai vợ chồng chỉ dám đứng dưới đường mà nhìn.",
+        "camera": "35mm over-the-shoulder shot from behind the customer, slow crane up above the umbrella",
+        "continuity": "cut",
+        "beats": [
+          "The steaming pot under the faded umbrella, banana-leaf parcels lined up in the bamboo basket, a moped parked at the curb in the brightening dawn.",
+          "@Thu stands behind the pot facing a woman customer in a pink raincoat, tucks an extra spoonful of pork floss into a warm banana-leaf parcel and speaks to her with a bright smile.",
+          "@Thu hands the parcel across the basket and keeps speaking with a small smile and her chin lifting, nodding toward the distant skyline as the camera begins to rise above the umbrella.",
+          "The camera rises above the faded umbrella to reveal glass towers on the far skyline catching the sunrise, while @Thu finishes speaking and stands silent beside the tiny steaming stall below."
+        ],
+        "sfx": "steam hissing, rustling banana leaves, mopeds passing, morning street noise rising",
+        "extras": "a woman customer in a pink raincoat"
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Ông Giám Đốc Mới Phất",
+    "time_label": "07:30 Sáng, nhà Thu (02:00–03:00)",
+    "location": "Gian bếp kiêm phòng ăn tầng trệt căn nhà ống của Thu, buổi sáng.",
+    "axis": "Cửa ra ngõ bên phải màn hình, cầu thang và gương treo bên trái, bàn ăn ở giữa.",
+    "props": "Gương treo cạnh cầu thang, chiếc trống con màu đỏ của Na, bát xôi hành phi, cặp tài liệu da và điện thoại của Tùng.",
+    "setting": "Inside a narrow three-storey tube house in a Hà Nội old alley: a ground-floor kitchen with a gas stove and a big aluminum sticky-rice steamer, a wooden dining table with low stools, a steep tiled staircase, a small family altar shelf, a small white home camera on a high kitchen shelf.",
+    "clips": [
+      {
+        "id": "03.1",
+        "chars": [
+          "@Tung"
+        ],
+        "speaker": "@Tung",
+        "line": "Cậu đánh xe ra đầu ngõ đón tôi, lau cho bóng vào, hôm nay tôi ký hợp đồng lớn đấy, nghe chưa, chậm một phút là tôi cho cậu nghỉ việc ngay lập tức.",
+        "camera": "50mm medium shot, slow push-in toward the mirror",
+        "continuity": "cut",
+        "beats": [
+          "Morning light through the open front door of the narrow house, a small mirror hanging beside the steep tiled staircase, a leather briefcase resting on a stool.",
+          "@Tung steps in front of the mirror in his charcoal-grey suit with a sleek phone pressed to his ear, smoothing his gelled hair as he speaks into it in a clipped bossy tone.",
+          "@Tung keeps talking into the phone while he fastens the gold watch on his wrist, studying his reflection with his chin raised.",
+          "@Tung closes his mouth, lowers the phone and straightens his open white collar in the mirror, a thin smirk on his clean-shaven face."
+        ],
+        "sfx": "a moped outside, the click of a watch clasp, morning birds"
+      },
+      {
+        "id": "03.2",
+        "chars": [
+          "@Na",
+          "@Tung"
+        ],
+        "turns": [
+          {
+            "speaker": "@Na",
+            "line": "Bố ơi, chiều nay bố đến xem con đánh trống nhé, năm nào cũng chỉ có mẹ với bà thôi."
+          },
+          {
+            "speaker": "@Tung",
+            "line": "Bố bận họp cả ngày, con bảo mẹ đi xem cho, bố còn phải kiếm tiền nuôi cả nhà."
+          }
+        ],
+        "camera": "40mm over-the-shoulder shot from behind the girl at child height, slow dolly-in",
+        "continuity": "cut",
+        "beats": [
+          "The foot of the steep staircase seen from child height, a small red toy drum with two wooden sticks resting on the bottom step in the morning light.",
+          "@Na hurries down the last steps in her school uniform and red scarf, scoops up the little red drum and speaks up eagerly at @Tung, who stands by the mirror with his mouth closed.",
+          "After @Na's last word, @Tung gives the top of her head one quick distracted pat and answers her while checking his gold watch, as @Na listens with her mouth closed.",
+          "@Tung finishes speaking and turns toward the door with his briefcase, while @Na lowers the little red drum slowly to her side, her lower lip tucked in."
+        ],
+        "sfx": "light footsteps on tiles, a soft drum tap, a briefcase clasp clicking, a moped outside"
+      },
+      {
+        "id": "03.3",
+        "chars": [
+          "@Thu",
+          "@Tung"
+        ],
+        "turns": [
+          {
+            "speaker": "@Thu",
+            "line": "Anh ăn bát xôi rồi hẵng đi, em đồ từ sáng sớm, vẫn còn nóng nguyên đây này."
+          },
+          {
+            "speaker": "@Tung",
+            "line": "Thôi, xôi với chả xôi, ngày nào cũng xôi, anh ra ngoài ăn cho sạch sẽ."
+          }
+        ],
+        "camera": "35mm wide two-shot from the kitchen, slow lateral dolly",
+        "continuity": "cut",
+        "beats": [
+          "The kitchen near the open front door, a bowl of steaming sticky rice with fried shallots resting on the wooden dining table in a patch of morning sun.",
+          "@Thu comes from the stove carrying the bowl of steaming sticky rice in both hands and speaks to @Tung as he reaches the doorway, while he listens with his mouth closed.",
+          "@Tung glances at the bowl with a curl of his lip and answers @Thu curtly over his shoulder, already half-turned toward the bright alley, while she listens.",
+          "@Tung finishes, closes his mouth and walks out into the alley without looking back, leaving @Thu alone in the doorway holding the steaming bowl in both hands."
+        ],
+        "sfx": "steam hissing, a moped idling outside, footsteps leaving, a car door shutting outside"
+      },
+      {
+        "id": "03.4",
+        "chars": [
+          "@Thu",
+          "@Na"
+        ],
+        "turns": [
+          {
+            "speaker": "@Na",
+            "line": "Mẹ ơi, bố lại không đi xem con diễn ạ?"
+          },
+          {
+            "speaker": "@Thu",
+            "line": "Na ngoan, bố bận thì còn mẹ với bà, chiều nay mẹ dọn hàng sớm, mẹ ngồi hàng đầu xem con đánh trống nhé."
+          }
+        ],
+        "camera": "50mm medium two-shot in the doorway, slow pull-back",
+        "continuity": "cut",
+        "beats": [
+          "The open front door of the narrow house and the empty bright alley outside, a thin trail of steam curling from a bowl of sticky rice left on the wooden table.",
+          "@Na walks up beside @Thu at the doorway hugging the little red drum and asks her softly, looking out at the empty alley, while @Thu listens with her mouth closed.",
+          "@Thu crouches down to @Na's height, smooths her red scarf and answers her gently with a warm steady smile, while @Na listens with her eyes on her mother.",
+          "@Thu finishes and closes her mouth, and @Na nods and gives the little red drum one soft tap, the two of them framed together in the bright doorway."
+        ],
+        "sfx": "morning birds, a moped passing in the alley, a soft drum tap"
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Cô Thư Ký Váy Đỏ",
+    "time_label": "08:30 Sáng, văn phòng giám đốc (03:00–04:00)",
+    "location": "Phòng giám đốc tường kính trên tầng cao một tòa tháp giữa Hà Nội.",
+    "axis": "Bàn làm việc trắng ở giữa, cửa kính nhìn ra thành phố phía sau; cửa ra vào bên trái màn hình.",
+    "props": "Bàn trắng, khung ảnh gia đình Thu – Tùng – Na, hộp cơm sơn mài đen bóng, mô hình tòa nhà, túi giấy mua mang về.",
+    "setting": "A modern glass-walled director's office high in a Hà Nội tower: a large white desk with a family photo frame, a black leather chair, an architectural model of a residential tower, the city skyline beyond the windows.",
+    "clips": [
+      {
+        "id": "04.1",
+        "chars": [
+          "@Vy"
+        ],
+        "speaker": "@Vy",
+        "line": "Tầng hai mươi, nhìn ra cả thành phố Hà Nội. Cả căn phòng này, cái ghế da này, lẫn ông chủ ngồi trên nó, sớm muộn gì rồi cũng sẽ là của mình thôi.",
+        "camera": "24mm wide shot, slow dolly through the glass office",
+        "continuity": "cut",
+        "beats": [
+          "A bright glass-walled office high above the city, the large white desk gleaming in cold morning light with the skyline stretching beyond the windows.",
+          "@Vy walks in through the glass door in her crimson dress and beige high heels, mists a little perfume into the air by the desk and begins murmuring to herself with a slow smile.",
+          "@Vy keeps murmuring as she runs one fingertip along the back of the black leather chair, her winged eyes sweeping across the skyline.",
+          "@Vy closes her red lips and sets a glossy black lacquered lunch box on the white desk beside a framed family photo of Thu, Tùng and Na, her reflection faint in the glass."
+        ],
+        "sfx": "high heels clicking on a polished floor, a soft perfume spritz, air conditioning hum"
+      },
+      {
+        "id": "04.2",
+        "chars": [
+          "@Tung",
+          "@Vy"
+        ],
+        "turns": [
+          {
+            "speaker": "@Tung",
+            "line": "Vy à, em về làm thư ký mới ba tháng mà phòng anh lúc nào cũng thơm mùi nước hoa của em."
+          },
+          {
+            "speaker": "@Vy",
+            "line": "Anh Tùng ơi, em tự tay nấu cơm trưa cho anh đấy, dạo này anh gầy đi nhiều quá."
+          }
+        ],
+        "camera": "50mm medium two-shot, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "The white desk with a glossy black lacquered lunch box resting beside a framed family photo of Thu, Tùng and Na, the city skyline blurred in the windows behind.",
+          "@Tung strolls in through the glass door with his briefcase, breathes in the air with a slow grin and speaks to @Vy standing by the desk, while she listens with her mouth closed.",
+          "@Tung finishes and sinks into the black leather chair, and @Vy slides the lunch box across the white desk toward him and answers in a sweet soft voice while he listens.",
+          "@Vy finishes speaking and closes her red lips, leaning one hand on the edge of the desk with a honeyed smile while @Tung looks up at her."
+        ],
+        "sfx": "a glass door sighing shut, footsteps on a polished floor, a lunch box sliding on the desk"
+      },
+      {
+        "id": "04.3",
+        "chars": [
+          "@Tung",
+          "@Vy"
+        ],
+        "turns": [
+          {
+            "speaker": "@Tung",
+            "line": "Lâu lắm rồi mới có người lo cho anh một bữa trưa tử tế thế này đấy em ạ."
+          },
+          {
+            "speaker": "@Vy",
+            "line": "Anh cứ ăn hết đi, từ giờ ngày nào em cũng tự tay nấu cho anh."
+          }
+        ],
+        "camera": "85mm close-up, slow rack focus between them",
+        "continuity": "continuous",
+        "speech_start": 3.0,
+        "beats": [
+          "@Tung lifts the lid of the glossy black lacquered lunch box and looks at the neat rows of food inside, while @Vy watches him with her mouth closed.",
+          "@Tung speaks to @Vy with a slow grin, leaning back in the black leather chair, while @Vy listens with a modest closed-mouth smile.",
+          "@Vy answers @Tung sweetly, lowering her eyes and trailing her fingers along the edge of the white desk, while @Tung listens.",
+          "@Vy finishes and closes her mouth, and @Tung picks up the chopsticks and takes a first bite, nodding to her, the city skyline glittering behind them."
+        ],
+        "sfx": "a lid lifting, chair leather creaking, faint traffic below"
+      },
+      {
+        "id": "04.4",
+        "chars": [
+          "@Vy"
+        ],
+        "speaker": "@Vy",
+        "line": "Cơm nhà hàng dưới phố đấy, đàn ông cứ nghe hai chữ tự tay là mềm lòng. Nhà ba người đẹp quá nhỉ, tiếc là tấm ảnh này sắp phải thay người đứng cạnh anh rồi.",
+        "camera": "35mm medium shot, slow lateral dolly from the glass wall to the desk corner",
+        "continuity": "cut",
+        "beats": [
+          "A slim waste bin beside the glass wall of the empty office, cold city light falling across the polished floor and the white desk.",
+          "@Vy walks to the glass wall, drops a crumpled plain paper takeaway bag into the waste bin and murmurs under her breath with a mocking little smile, glancing back toward the door.",
+          "@Vy strolls to the corner of the white desk, tilts her head toward a framed family photo of Thu, Tùng and Na and keeps whispering to it in a sugary voice.",
+          "@Vy says her last words, closes her mouth and slowly lays the frame face down on the desk with one manicured finger, her smile reflected cold in the glossy white surface."
+        ],
+        "sfx": "paper crumpling, high heels on the floor, a soft tap of a frame on the desk, air conditioning hum"
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Người Tình Bí Mật",
+    "time_label": "12:00 Trưa, quán cà phê kín đáo (04:00–05:00)",
+    "location": "Một quán cà phê sang trọng, kín đáo, cách tòa nhà văn phòng ba con phố.",
+    "axis": "Bàn trong góc khuất bên phải màn hình sau chậu cau cảnh, cửa sổ cao nhìn ra phố cây xanh bên trái.",
+    "props": "Ghế bành nhung, đèn đồng, bàn đá cẩm thạch, hai tách cà phê, kính râm và điện thoại của Vy, điện thoại và vòng tay bạc của Khải.",
+    "setting": "An upscale café at noon: velvet armchairs, brass lamps, marble tables, tall windows facing a leafy street.",
+    "clips": [
+      {
+        "id": "05.1",
+        "chars": [
+          "@Vy"
+        ],
+        "speaker": "@Vy",
+        "line": "Anh Khải ơi, em ra rồi đây, em bảo lão là em đi gặp khách hàng. Anh ngồi chỗ nào đấy, quán gì mà kín như bưng, em chẳng thấy anh đâu cả.",
+        "camera": "24mm wide establishing shot, slow pan across the room",
+        "continuity": "cut",
+        "beats": [
+          "A hushed upscale café at noon, sunlight filtering through tall windows onto velvet armchairs and marble tables under warm brass lamps.",
+          "@Vy slips in through the café door in her crimson dress and dark sunglasses, a phone pressed to her ear, and speaks into it in a low honeyed voice while glancing around.",
+          "@Vy keeps talking into the phone as she walks slowly between the marble tables, lowering her sunglasses to peer past the velvet armchairs.",
+          "@Vy closes her mouth and keeps the phone to her ear, listening, her eyes settling on a secluded corner half-hidden behind a tall potted palm."
+        ],
+        "sfx": "soft clinking of cups, a café door chime, muted street sounds"
+      },
+      {
+        "id": "05.2",
+        "chars": [
+          "@Khai",
+          "@Vy"
+        ],
+        "turns": [
+          {
+            "speaker": "@Khai",
+            "line": "Ngồi đi em, góc này sau chậu cau, chẳng ai nhìn thấy đâu. Thế nào, lão giám đốc cắn câu chưa?"
+          },
+          {
+            "speaker": "@Vy",
+            "line": "Nửa năm thôi anh, em sẽ khiến lão bỏ vợ, sang tên hết nhà cửa cho em."
+          }
+        ],
+        "camera": "35mm over-the-shoulder two-shot, gentle dolly",
+        "continuity": "cut",
+        "beats": [
+          "The secluded corner table behind a tall potted palm, two coffee cups steaming on the marble and two velvet armchairs angled toward each other under a brass lamp.",
+          "@Vy sinks into the empty armchair slipping off her sunglasses as @Khai, lounging in his black slim-fit shirt, speaks to her in a lazy low voice with a sly half-smile.",
+          "@Khai finishes his question, and @Vy stirs her coffee slowly and answers him in a cool clipped voice, the sweetness gone from her face, while he listens with his mouth closed.",
+          "@Vy finishes speaking and sets the spoon on the saucer with a precise click, while @Khai taps one finger on the marble with a sly grin, his silver chain bracelet catching the lamplight."
+        ],
+        "sfx": "cups clinking, a low café murmur, a spoon circling porcelain"
+      },
+      {
+        "id": "05.3",
+        "chars": [
+          "@Khai",
+          "@Vy"
+        ],
+        "turns": [
+          {
+            "speaker": "@Khai",
+            "line": "Hợp đồng lớn sắp ký rồi đấy. Đừng để lão biết có anh, đàn ông ngu đến mấy cũng có lúc tỉnh ra."
+          },
+          {
+            "speaker": "@Vy",
+            "line": "Anh yên tâm, lão mê em như điếu đổ rồi."
+          }
+        ],
+        "camera": "85mm close-up, slow push-in",
+        "continuity": "continuous",
+        "speech_start": 3.0,
+        "beats": [
+          "@Khai rests his elbows on the marble table and lowers his head toward @Vy, his half-smile fading, both of them silent in the warm lamplight.",
+          "@Khai speaks quietly to @Vy, glancing once toward the tall windows and the leafy street outside, while @Vy listens with her red lips closed.",
+          "@Khai finishes, and @Vy answers him with a slow curl of her red lips, her winged eyes cold above the rim of her coffee cup, while he listens with his mouth closed.",
+          "@Vy closes her mouth and sips her coffee, while @Khai sits back in the velvet armchair and studies her with narrowed eyes."
+        ],
+        "sfx": "a low café murmur, a car passing outside"
+      },
+      {
+        "id": "05.4",
+        "chars": [
+          "@Vy",
+          "@Khai"
+        ],
+        "turns": [
+          {
+            "speaker": "@Vy",
+            "line": "Đến lúc lão tỉnh ra thì nhà cửa, công ty đã sang tên em hết, lão chỉ còn hai bàn tay trắng."
+          },
+          {
+            "speaker": "@Khai",
+            "line": "Thế thì anh nâng ly trước, chúc mừng bà chủ tương lai."
+          }
+        ],
+        "camera": "50mm medium two-shot, slow lateral dolly",
+        "continuity": "continuous",
+        "speech_start": 3.0,
+        "beats": [
+          "@Vy sets her coffee cup down on the marble table and leans forward toward @Khai, her red nails tapping the rim, both of them silent.",
+          "@Vy speaks to @Khai in a low cold voice, her winged eyes narrowing above a thin smile, while @Khai listens with his mouth closed.",
+          "@Vy finishes, and @Khai lifts his coffee cup toward her in a small toast and answers with a lazy grin, while @Vy listens with her red lips pressed together.",
+          "@Khai closes his mouth, and the two of them clink their coffee cups softly over the marble table, the brass lamp glowing between their faces."
+        ],
+        "sfx": "porcelain cups clinking, a low café murmur"
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Sợi Tóc Trên Áo Chồng",
+    "time_label": "23:30 Đêm, nhà Thu (05:00–06:00)",
+    "location": "Gian bếp tầng trệt căn nhà ống lúc gần nửa đêm, chỉ một bóng đèn vàng và bếp than.",
+    "axis": "Bàn ăn và ghế ở giữa, cầu thang dốc bên phải màn hình, bếp than bên trái.",
+    "props": "Áo sơ mi trắng của Tùng có vệt son đỏ và sợi tóc nâu xoăn, cà vạt lụa, đôi giày đen, bếp than.",
+    "setting": "Night inside a narrow three-storey tube house in a Hà Nội old alley: a dim ground-floor kitchen lit by one warm bulb and a charcoal stove, a wooden dining table, a steep tiled staircase, a small white home camera with a tiny green light on a high kitchen shelf.",
+    "clips": [
+      {
+        "id": "06.1",
+        "chars": [
+          "@BaNhan",
+          "@Thu"
+        ],
+        "turns": [
+          {
+            "speaker": "@BaNhan",
+            "line": "Thằng Tùng lại gần nửa đêm mới về, mùi rượu lẫn mùi nước hoa lạ nồng nặc cả nhà."
+          },
+          {
+            "speaker": "@Thu",
+            "line": "Mẹ cứ đi ngủ đi, áo anh ấy để con giặt, đêm nào con chẳng giặt hả mẹ."
+          }
+        ],
+        "camera": "35mm wide shot, slow dolly-in across the kitchen",
+        "continuity": "cut",
+        "beats": [
+          "The dim kitchen at night lit by one warm bulb, the charcoal stove glowing low, a white dress shirt and a loosened silk tie draped over a dining chair, black shoes askew beneath it.",
+          "@BaNhan stands beside the chair leaning on her bamboo walking stick, sniffs the air and speaks with her wrinkled face tight, as @Thu comes down the last stairs, listening with her mouth closed.",
+          "@Thu picks up the white shirt from the chair and answers @BaNhan gently, folding it over her arm, while @BaNhan listens and shakes her head slowly.",
+          "@Thu finishes speaking and closes her mouth, lifting the shirt collar toward the bulb as her brows draw together, while @BaNhan's hand tightens on her bamboo stick."
+        ],
+        "sfx": "the charcoal stove crackling softly, soft footsteps on the stairs, fabric rustling, a dog barking far away"
+      },
+      {
+        "id": "06.2",
+        "chars": [
+          "@Thu",
+          "@BaNhan"
+        ],
+        "turns": [
+          {
+            "speaker": "@Thu",
+            "line": "Mẹ ơi, son đỏ trên cổ áo, còn sợi tóc xoăn màu nâu này, đâu phải tóc của con."
+          },
+          {
+            "speaker": "@BaNhan",
+            "line": "Cái thằng mất nết, vợ thức khuya dậy sớm nuôi cả nhà mà nó nỡ lòng nào."
+          }
+        ],
+        "camera": "85mm close-up on her face above the collar, slow rack focus",
+        "continuity": "continuous",
+        "speech_start": 3.0,
+        "beats": [
+          "@Thu turns the white collar toward the bulb beside her face, revealing a smudge of bright red lipstick on the fabric, while @BaNhan leans in to look, both of them silent.",
+          "@Thu speaks to @BaNhan in a trembling whisper as she lifts a single long wavy brown hair from the shoulder of the shirt and holds it up in the warm light, while @BaNhan listens.",
+          "@BaNhan answers @Thu in a low shaking voice, her eyes fixed on the brown hair, while @Thu listens with her mouth closed and her eyes wide and wet.",
+          "@BaNhan finishes, closes her mouth and grips her bamboo stick with both hands, while @Thu lowers the shirt slowly against her chest, staring at the dark staircase."
+        ],
+        "sfx": "a sharp intake of breath, the stove crackling, a heavy silence"
+      },
+      {
+        "id": "06.3",
+        "chars": [
+          "@Thu",
+          "@Tung"
+        ],
+        "turns": [
+          {
+            "speaker": "@Thu",
+            "line": "Anh Tùng, vệt son trên áo anh là của ai? Anh nói thật với em đi."
+          },
+          {
+            "speaker": "@Tung",
+            "line": "Tiếp khách thì dính son là chuyện thường, cô đừng nghĩ linh tinh rồi làm ầm lên."
+          }
+        ],
+        "camera": "35mm wide two-shot from the kitchen doorway, slow dolly",
+        "continuity": "cut",
+        "beats": [
+          "The foot of the steep staircase in the dim warm light, the wooden dining table between the stairs and the glowing charcoal stove, the kitchen empty and still.",
+          "@Tung appears on the lower stairs loosening his collar, and @Thu holds up the white shirt toward him from across the table and speaks in a trembling but steady voice, while he listens.",
+          "@Tung rolls his eyes, steps down onto the tiled floor and answers @Thu flatly without looking at the shirt, his eyelids heavy with drink, while she listens with her mouth closed.",
+          "@Tung closes his mouth, turns his back and climbs the stairs again with one hand on the rail, leaving @Thu below with the shirt still raised in her pale-knuckled hands."
+        ],
+        "sfx": "the stove crackling, a creaking stair, heavy footsteps on the stairs"
+      },
+      {
+        "id": "06.4",
+        "chars": [
+          "@Thu"
+        ],
+        "speaker": "@Thu",
+        "line": "Bao nhiêu năm vợ chồng, đến một câu nói thật anh ấy cũng chẳng còn cho mình nữa rồi. Cô gái tóc xoăn ấy là ai, hai người qua lại với nhau từ bao giờ?",
+        "camera": "35mm medium shot from the kitchen, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "The bottom of the steep tiled staircase in the dim kitchen, the bulb's warm light fading and the charcoal stove reduced to faint embers.",
+          "@Thu sits down on the lowest stair with the white shirt clutched in both hands in her lap and begins whispering to herself, her lips trembling, her back against the wall.",
+          "@Thu keeps whispering with her eyes fixed on the red smudge on the collar, a single tear sliding down her cheek in the faint ember light.",
+          "@Thu closes her mouth and sits motionless on the step as pale blue dawn light slowly creeps under the front door, the shirt still crushed in her hands."
+        ],
+        "sfx": "embers ticking, a distant rooster at dawn, silence"
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Chuyến Công Tác Đà Nẵng",
+    "time_label": "Chiều tà, khu nghỉ dưỡng biển (06:00–07:00)",
+    "location": "Hồ bơi vô cực của một khu nghỉ dưỡng sang trọng ven biển lúc hoàng hôn; clip 5–6 ở bếp nhà Thu ban đêm.",
+    "axis": "Hai ghế dài trắng bên mép hồ bơi, biển phía sau bên trái màn hình; ở nhà Thu, bàn ăn ở giữa, ghế trống của Tùng bên phải.",
+    "props": "Ghế dài trắng, hai ly nước cam, điện thoại của Tùng, chiếc bánh sinh nhật nhỏ có một ngọn nến, ghế trống của Tùng.",
+    "setting": "Sunset at a luxury seaside resort: an infinity pool terrace with white loungers, palm trees, the sea glowing orange.",
+    "clips": [
+      {
+        "id": "07.1",
+        "chars": [
+          "@Tung"
+        ],
+        "speaker": "@Tung",
+        "line": "Thu à, anh còn kẹt công tác ở Đà Nẵng ba ngày, sinh nhật em anh không về kịp đâu, em với con cứ ăn trước đi, đừng ngồi chờ cơm anh nữa nhé.",
+        "camera": "24mm aerial slow descending orbit down to the pool terrace",
+        "continuity": "cut",
+        "beats": [
+          "High aerial view of a luxury seaside resort at sunset, palm trees swaying above a long curve of golden beach and a calm orange sea.",
+          "The camera sweeps down to the infinity pool terrace, where @Tung, his suit jacket off, stands by a white lounger with a phone at his ear and speaks into it in a flat dutiful voice.",
+          "@Tung keeps talking into the phone while gazing out at the glowing sea, rolling his eyes and checking the gold watch on his wrist.",
+          "@Tung closes his mouth, lowers the phone and tosses it onto the lounger with a smirk, the pool's edge blending into the shining sea behind him."
+        ],
+        "sfx": "gentle waves, palm fronds rustling, distant seabirds"
+      },
+      {
+        "id": "07.2",
+        "chars": [
+          "@Vy",
+          "@Tung"
+        ],
+        "turns": [
+          {
+            "speaker": "@Vy",
+            "line": "Công tác gì mà chỉ có hai đứa mình, bên bể bơi nhìn ra biển thế này hả anh?"
+          },
+          {
+            "speaker": "@Tung",
+            "line": "Công tác riêng của giám đốc với thư ký, em không thích à?"
+          }
+        ],
+        "camera": "50mm medium two-shot, slow lateral dolly along the pool",
+        "continuity": "cut",
+        "beats": [
+          "Two white loungers at the edge of the infinity pool, a small table between them holding two glasses of orange juice, the sea glowing orange beyond.",
+          "@Vy in her crimson dress sits on one lounger and hands @Tung a glass of orange juice as he settles beside her, and she teases him in a sweet mocking voice while he listens.",
+          "@Tung answers @Vy with a lazy grin, raising his glass toward her, while @Vy listens with a closed-mouth smile.",
+          "@Tung closes his mouth and @Vy clinks her glass against his, the two of them sitting close and gazing out at the orange sea."
+        ],
+        "sfx": "gentle waves, glasses clinking, a soft breeze"
+      },
+      {
+        "id": "07.3",
+        "chars": [
+          "@Vy",
+          "@Tung"
+        ],
+        "turns": [
+          {
+            "speaker": "@Vy",
+            "line": "Ở bên anh em mới biết thế nào là được yêu, vợ anh có biết chiều anh thế này không?"
+          },
+          {
+            "speaker": "@Tung",
+            "line": "Cô ấy chỉ biết xôi với chợ thôi em ạ, sống với cô ấy anh thấy mình già đi mười tuổi."
+          }
+        ],
+        "camera": "85mm close-up, slow push-in",
+        "continuity": "continuous",
+        "speech_start": 3.0,
+        "beats": [
+          "@Vy turns toward @Tung on the lounger, resting her chin on her hand, the sunset gilding her wavy hair, both of them silent.",
+          "@Vy speaks to @Tung in a sweet coaxing voice, her winged eyes half-lowered, while @Tung listens with his mouth closed.",
+          "@Tung sets his glass down on the small table and answers @Vy with a dismissive shrug, his eyes on the darkening sea, while she listens.",
+          "@Tung finishes and closes his mouth, and @Vy rests her head lightly on his shoulder as the last sunlight fades behind them."
+        ],
+        "sfx": "waves lapping, a soft breeze through the palms"
+      },
+      {
+        "id": "07.4",
+        "chars": [
+          "@Thu",
+          "@Na"
+        ],
+        "turns": [
+          {
+            "speaker": "@Thu",
+            "line": "Bố bận công tác rồi, sinh nhật mẹ con ước giúp mẹ một điều đi, rồi mình thổi nến."
+          },
+          {
+            "speaker": "@Na",
+            "line": "Mẹ ơi, con ước bố về ăn cơm với mẹ con mình, như hồi nhà mình còn nghèo ấy."
+          }
+        ],
+        "camera": "40mm over-the-shoulder shot across the birthday cake, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "The wooden dining table in the dim kitchen at night, a small round birthday cake with a single unlit candle, three bowls and one empty chair.",
+          "@Na carefully lights the single candle with a match while @Thu, across the cake, speaks to her softly with a thin brave smile, both faces lit by the tiny flame as @Na listens.",
+          "@Na clasps her small hands together in front of the candle and answers @Thu softly, her face glowing in the candlelight, while @Thu listens with her mouth closed.",
+          "@Na finishes and closes her mouth, and @Thu presses her lips together and strokes @Na's hair, her eyes glistening as both glance at the empty chair across the table."
+        ],
+        "sfx": "a match flaring, a faint candle hiss, soft rain on the roof",
+        "setting": "Night inside a narrow three-storey tube house in a Hà Nội old alley: a dim ground-floor kitchen lit by one warm bulb and a charcoal stove, a wooden dining table, a steep tiled staircase, a small white home camera with a tiny green light on a high kitchen shelf."
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Bức Ảnh Lúc Nửa Đêm",
+    "time_label": "Đêm, nhà Thu (07:00–08:00)",
+    "location": "Gian bếp tầng trệt căn nhà ống lúc nửa đêm; clip cuối ở chiếu nghỉ cầu thang.",
+    "axis": "Bàn ăn ở giữa, bếp bên trái, cầu thang bên phải màn hình dẫn lên chiếu nghỉ.",
+    "props": "Điện thoại của Tùng (màn hình chỉ phát sáng, không chữ), chìa khóa xe, bàn ăn gỗ, gậy tre của bà Nhàn.",
+    "setting": "Night inside a narrow three-storey tube house in a Hà Nội old alley: a dim ground-floor kitchen lit by one warm bulb and a charcoal stove, a wooden dining table, a steep tiled staircase, a small white home camera with a tiny green light on a high kitchen shelf.",
+    "clips": [
+      {
+        "id": "08.1",
+        "chars": [
+          "@Thu"
+        ],
+        "speaker": "@Thu",
+        "line": "Anh Tuấn kế toán à? Nửa đêm rồi, kế toán gì mà gọi giờ này? Trời ơi, cô gái váy đỏ này đang tựa vào vai chồng mình, anh Tuấn kế toán là thế này đây à?",
+        "camera": "50mm medium shot, slow push-in on the table",
+        "continuity": "cut",
+        "beats": [
+          "The dining table in the dim kitchen, a sleek black smartphone lying face-up beside a car key, its screen lighting up with a blank white glow as it buzzes on the wood.",
+          "@Thu steps over from the stove, looks down at the buzzing phone and murmurs to herself with her brows knitting, then picks it up as its blank glow lights her face from below.",
+          "@Thu keeps whispering in a broken voice as she stares into the cold glowing screen, her pupils trembling and the phone shaking slightly in her hand.",
+          "@Thu says her last words, closes her mouth and slowly presses her free hand over it, a single tear sliding down her cheek in the cold white light."
+        ],
+        "sfx": "a phone buzzing on wood, a dripping tap, a heavy silence"
+      },
+      {
+        "id": "08.2",
+        "chars": [
+          "@Tung",
+          "@Thu"
+        ],
+        "turns": [
+          {
+            "speaker": "@Tung",
+            "line": "Cô lục điện thoại của tôi à? Cô còn biết tôn trọng chồng mình không hả?"
+          },
+          {
+            "speaker": "@Thu",
+            "line": "Mười hai năm em bán cả bông tai cưới cho anh làm ăn, anh trả em thế này sao?"
+          }
+        ],
+        "camera": "35mm wide two-shot from the stove, slow dolly",
+        "continuity": "cut",
+        "beats": [
+          "The steep staircase and the dining table in the dim kitchen, a phone's cold glow the brightest light in the room, the charcoal stove ticking low.",
+          "@Tung strides down the last stairs and stops on the far side of the table from @Thu, pointing at the phone in her hand as he speaks sharply, while she listens with her mouth closed.",
+          "@Thu sets the glowing phone face-down on the table between them and answers @Tung with her chin lifted and her voice cracking, while he listens with his jaw set.",
+          "@Thu finishes and closes her mouth, keeping her wet eyes locked on @Tung and her fingers gripping the edge of the table, the wooden table still between them."
+        ],
+        "sfx": "heavy footsteps on tiles, a phone set down on wood, the tap dripping"
+      },
+      {
+        "id": "08.3",
+        "chars": [
+          "@Tung",
+          "@Thu"
+        ],
+        "turns": [
+          {
+            "speaker": "@Tung",
+            "line": "Chuyện cũ rồi, đừng lôi ra kể công mãi, tôi chán cái nhà này lắm rồi, cô hiểu chưa?"
+          },
+          {
+            "speaker": "@Thu",
+            "line": "Anh chán cái nhà này, hay chán người vợ đã cùng anh đi qua những ngày trắng tay?"
+          }
+        ],
+        "camera": "50mm over-the-shoulder shot, slow dolly",
+        "continuity": "continuous",
+        "speech_start": 3.0,
+        "beats": [
+          "@Tung picks his phone up off the table and slips it into his trouser pocket without looking at @Thu, both of them silent under the swaying bulb.",
+          "@Tung speaks coldly to @Thu with a flick of his hand toward the room around them, his mouth twisted, while @Thu listens with her lips pressed together.",
+          "@Thu answers @Tung quietly with her voice breaking and tears standing in her eyes, while @Tung listens with his jaw set and his eyes turned away.",
+          "@Thu finishes and closes her mouth, and @Tung turns away without a word and climbs the stairs two at a time, leaving @Thu alone at the table under the swaying bulb."
+        ],
+        "sfx": "footsteps on the stairs, a door shutting hard upstairs, the tap dripping"
+      },
+      {
+        "id": "08.4",
+        "chars": [
+          "@BaNhan"
+        ],
+        "speaker": "@BaNhan",
+        "line": "Tôi nghe hết rồi, thằng con tôi dứt ruột đẻ ra mà nỡ nói với vợ nó những lời như thế, ông trời ơi, tôi biết ăn nói sao với con Thu đây.",
+        "camera": "50mm medium low-angle shot up the stairwell, slow push-in",
+        "continuity": "cut",
+        "beats": [
+          "A dim tiled stair landing in darkness, a faint warm glow rising from the kitchen below and a closed door above.",
+          "@BaNhan stands pressed against the wall of the landing in her brown cardigan, both hands clenched on her bamboo walking stick, and begins whispering to herself with trembling lips.",
+          "@BaNhan keeps whispering as she turns her wrinkled face toward the closed door above, her thin shoulders shaking in the dark.",
+          "@BaNhan closes her mouth, lowers her head and shuts her eyes, as the faint light from below flickers across her wrinkled face."
+        ],
+        "sfx": "a door closing upstairs, the faint drip of a tap below, silence",
+        "setting": "Night on the dim tiled stair landing of the tube house, a faint light from the kitchen below."
+      }
+    ]
+  }
+]

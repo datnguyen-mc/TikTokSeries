@@ -70,6 +70,8 @@ class GenerateVideoRequest(BaseModel):
     model_family: Literal["veo", "omni_flash"] = "veo"
     duration_s: int = 8
     resolution: Literal["360p", "720p"] = "720p"
+    # Omni only: "1.1" (abra_*, 4/6/8/10s) or "1.2" (3–15s). None → env OMNI_FLASH_MODEL_VERSION → models.json default.
+    model_version: Optional[str] = None
 
 
 class GenerateVideoRefsRequest(BaseModel):
@@ -84,6 +86,8 @@ class GenerateVideoRefsRequest(BaseModel):
     model_family: Literal["veo", "omni_flash"] = "veo"
     duration_s: int = 8
     resolution: Literal["360p", "720p"] = "720p"
+    # Omni only: "1.1" (abra_*, 4/6/8/10s) or "1.2" (3–15s). None → env OMNI_FLASH_MODEL_VERSION → models.json default.
+    model_version: Optional[str] = None
 
 
 class GenerateOmniFlashVideoRequest(BaseModel):
@@ -95,6 +99,8 @@ class GenerateOmniFlashVideoRequest(BaseModel):
     resolution: Literal["360p", "720p"] = "720p"
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT"
     user_paygate_tier: str = "PAYGATE_TIER_ONE"
+    # Omni only: "1.1" (abra_*, 4/6/8/10s) or "1.2" (3–15s). None → env OMNI_FLASH_MODEL_VERSION → models.json default.
+    model_version: Optional[str] = None
 
 
 class GenerateOmniFlashTextVideoRequest(BaseModel):
@@ -105,6 +111,8 @@ class GenerateOmniFlashTextVideoRequest(BaseModel):
     resolution: Literal["360p", "720p"] = "720p"
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT"
     user_paygate_tier: str = "PAYGATE_TIER_ONE"
+    # Omni only: "1.1" (abra_*, 4/6/8/10s) or "1.2" (3–15s). None → env OMNI_FLASH_MODEL_VERSION → models.json default.
+    model_version: Optional[str] = None
 
 
 class UpscaleVideoRequest(BaseModel):
@@ -323,7 +331,7 @@ async def generate_video(body: GenerateVideoRequest):
     """Submit frame-conditioned video generation using Veo or Omni Flash.
 
     Existing callers default to Veo. For Omni set ``model_family=omni_flash``
-    and ``duration_s`` to 4/6/8/10. With only ``start_image_media_id`` the
+    and ``duration_s`` to 4/6/8/10 (Omni 1.1) or 3–15 (Omni 1.2). With only ``start_image_media_id`` the
     request uses Omni First frame. When ``end_image_media_id`` is also present,
     it uses Omni First+Last frames.
 
@@ -346,6 +354,7 @@ async def generate_video(body: GenerateVideoRequest):
                 resolution=body.resolution,
                 aspect_ratio=body.aspect_ratio,
                 user_paygate_tier=body.user_paygate_tier,
+                model_version=body.model_version,
             )
             if body.end_image_media_id:
                 result = await generate_omni_flash_first_last_video(
@@ -358,7 +367,7 @@ async def generate_video(body: GenerateVideoRequest):
             raise HTTPException(400, str(exc)) from exc
     else:
         payload = body.model_dump(
-            exclude={"model_family", "duration_s", "resolution"}, exclude_none=True
+            exclude={"model_family", "duration_s", "resolution", "model_version"}, exclude_none=True
         )
         payload["project_id"] = project_id
         result = await client.generate_video(**payload)
@@ -373,7 +382,8 @@ async def generate_video_refs(body: GenerateVideoRefsRequest):
     """Submit reference-to-video generation using Veo or Gemini Omni Flash.
 
     Existing requests default to ``model_family=veo``. Set
-    ``model_family=omni_flash`` and ``duration_s`` to 4/6/8/10 to use Omni.
+    ``model_family=omni_flash`` and ``duration_s`` to 4/6/8/10 (Omni 1.1) or
+    3–15 (Omni 1.2) to use Omni.
     Migrated Omni Ingredients/R2V returns ``flowkitPolling.mode=batch_operation``;
     poll its operations through ``/check-status``.
     """
@@ -393,11 +403,12 @@ async def generate_video_refs(body: GenerateVideoRefsRequest):
                 resolution=body.resolution,
                 aspect_ratio=body.aspect_ratio,
                 user_paygate_tier=body.user_paygate_tier,
+                model_version=body.model_version,
             )
         except ValueError as exc:
             raise HTTPException(400, str(exc)) from exc
     else:
-        payload = body.model_dump(exclude={"model_family", "duration_s", "resolution"})
+        payload = body.model_dump(exclude={"model_family", "duration_s", "resolution", "model_version"})
         payload["project_id"] = project_id
         result = await client.generate_video_from_references(**payload)
 
@@ -408,9 +419,10 @@ async def generate_video_refs(body: GenerateVideoRefsRequest):
 
 @router.post("/generate-video-omni-text")
 async def generate_video_omni_text(body: GenerateOmniFlashTextVideoRequest):
-    """Submit Omni 1.1 Flash text-to-video on flow.google.com.
+    """Submit Omni Flash text-to-video on flow.google.com.
 
-    Durations 4/6/8/10 seconds map to Flow's ``abra_t2v_<N>s`` models.
+    Omni 1.1: 4/6/8/10s → ``abra_t2v_<N>s``. Omni 1.2: 3–15s →
+    ``macaron_cookie_t2v_<N>s`` (see ``omni_model_versions`` in models.json).
     """
     client = get_flow_client()
     if not client.connected:

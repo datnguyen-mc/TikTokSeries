@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -22,14 +22,15 @@ Nobody else appears in the shot.
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
 - 0.0–3.0s: In the empty night alley, a battered green pith helmet lies upside down in a puddle under the yellow streetlamp, red paint still dripping from the steel shutter behind it.
 - 3.0–7.0s: @Lam crouches down slowly in his grey windbreaker, lifts the helmet out of the puddle with both hands and lets the muddy water pour from it, his mouth closed.
-- 7.0–10.0s: @Lam wipes the helmet slowly with his sleeve, round and round, his eyes lowered and his lips pressed together as the camera rises to his quiet face. The shot settles on this as its final frame.
+- 7.0–11.0s: @Lam wipes the helmet slowly with his sleeve, round and round, his eyes lowered and his lips pressed together as the camera rises to his quiet weathered face.
+- 11.0–15.0s: @Lam holds the helmet against his chest and lifts his gaze to the red-streaked shutter, the yellow lamplight glinting in his cloudy left eye, his mouth firmly closed. The shot settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–4.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Ông Lâm nhặt chiếc mũ cối dưới vũng nước, lau thật chậm, không nói một lời nào." (no subtitles)
+- Narration 0.4–11.9s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Bọn chúng đi rồi, ông Lâm mới chậm rãi cúi xuống nhặt chiếc mũ cối dưới vũng nước, lau thật chậm, hết vòng này đến vòng khác, không nói lấy một lời nào, chỉ có đôi mắt cứ nhìn mãi vào cánh cửa cuốn nhuộm đỏ." (no subtitles)
 - After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
 - Nobody on screen speaks; every mouth on screen stays closed.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: water trickling from the helmet, a slow drip of paint, crickets, distant motorbikes fading. Ambience continues to 10.0s. No music.
+- SFX: water trickling from the helmet, a slow drip of paint, crickets, distant motorbikes fading. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

@@ -690,7 +690,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/gang_to_tai_xuat.py",
         "series_dir": "gang-to-tai-xuat",
         "ep_prefix": "canh",
-        "description": "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (VOICE_LOCK_NARRATOR_GANG): ông xe ôm phố cổ hóa ra là Lâm Rồng, tái xuất cùng Hoa Hổ và Khoa Báo lừa ngược ông chủ app vay tiền Phú Quý đang siết nợ cháu gái (16:9, 27 cảnh × 6 clips × 10s = 162 clips).",
+        "description": "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (VOICE_LOCK_NARRATOR_GANG): ông xe ôm phố cổ hóa ra là Lâm Rồng, tái xuất cùng Hoa Hổ và Khoa Báo lừa ngược ông chủ app vay tiền Phú Quý đang siết nợ cháu gái (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2).",
         "characters": [
             {
                 "tag": "@Lam",
@@ -749,14 +749,14 @@ DEFAULT_CHANNELS = [
         ]
     },
     {
-        "slug": "vo-tao-khang",
-        "name": "Vợ Tào Khang (Phim Tình Cảm 25 Phút)",
+        "slug": "cai-ket-cho-tieu-tam",
+        "name": "Cái Kết Cho Tiểu Tam (Phim Tình Cảm 25 Phút)",
         "project_id": "",
         "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
-        "runner_script": "runners/vo_tao_khang.py",
-        "series_dir": "vo-tao-khang",
+        "runner_script": "runners/cai_ket_cho_tieu_tam.py",
+        "series_dir": "cai-ket-cho-tieu-tam",
         "ep_prefix": "canh",
-        "description": "Phim tình cảm gia đình Việt Nam 25 phút, kịch bản gốc (VOICE_LOCK_NARRATOR_VTK — giọng kể nữ): người vợ tào khang bán xôi bị chồng giám đốc bỏ theo cô thư ký 'bé ba'; Thu làm lại từ đầu, bé ba và đồng phạm bị vạch trần (16:9, 25 cảnh × 6 clips × 10s = 150 clips).",
+        "description": "Phim tình cảm gia đình Việt Nam 25 phút, kịch bản gốc (100% thoại nhân vật, không người dẫn chuyện): người vợ tào khang bán xôi bị chồng giám đốc bỏ theo cô thư ký 'bé ba'; Thu làm lại từ đầu, bé ba và đồng phạm bị vạch trần (16:9, 25 cảnh × 4 clips × 15s = 100 clips — Google Flow Omni 1.2).",
         "characters": [
             {
                 "tag": "@Thu",
@@ -825,7 +825,7 @@ CHANNEL_MAX_EPISODES: dict[str, int] = {
     "tieng-go-dem-ba-gio": 15,
     "ma-da-dam-sen": 15,
     "gang-to-tai-xuat": 27,
-    "vo-tao-khang": 25,
+    "cai-ket-cho-tieu-tam": 25,
 }
 
 
@@ -3463,7 +3463,7 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                     )
                     reconciled_clips_count += 1
             elif cat == "full_episodes":
-                if ch_slug in ("duong-dua-sinh-tu", "tieng-go-dem-ba-gio", "can-nha-am-duong", "ma-da-dam-sen", "gang-to-tai-xuat", "vo-tao-khang") and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
+                if ch_slug in ("duong-dua-sinh-tu", "tieng-go-dem-ba-gio", "can-nha-am-duong", "ma-da-dam-sen", "gang-to-tai-xuat", "cai-ket-cho-tieu-tam") and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
                     continue
                 m_ep = re.search(r"(?:tap|canh)[-_]?(\d+)_FULL\.mp4$", fname, re.IGNORECASE)
                 if m_ep:

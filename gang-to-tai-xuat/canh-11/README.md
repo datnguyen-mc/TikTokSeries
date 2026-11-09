@@ -1,4 +1,4 @@
-# Cảnh 11: Hưng Cắn Câu (6 Clips × 10s = 60s)
+# Cảnh 11: Hưng Cắn Câu (4 Clips × 15s = 60s)
 
 - **Thời gian:** 10:00 Sáng (10:00–11:00)
 - **Bối cảnh:** Phòng sếp vách kính của công ty Phú Quý trên tầng cao tòa nhà kính, nhìn ra phòng gọi điện đòi nợ.
@@ -7,9 +7,7 @@
 
 | Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
 |---|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Hung` | `VO` | **19** | `0.4–5.2s` | "Nghe có bà trùm mang mười tỷ đến, Hưng tắt livestream, chỉnh lại cổ áo, ra tận cửa đón." | 35mm medium shot, slow tracking alongside him | Ingredients: ảnh nhân vật |
-| [**Clip 2**](clip-2.md) | `@BaHoa`, `@Hung` | `LIPSYNC:@BaHoa` | **19** | `3.0–7.8s` | "Tôi có mười tỷ để không trong ngân hàng, nghe nói cậu làm tiền đẻ ra tiền nhanh lắm." | 50mm over-the-shoulder shot past @Hung onto her, slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 3**](clip-3.md) | `@Hung`, `@BaHoa` | `LIPSYNC:@Hung` | **22** | `0.4–5.9s` | "Bà gửi tôi mười tỷ, ba tháng sau tôi trả bà hai mươi, sinh viên bây giờ dễ vay lắm bà ạ." | 35mm medium two-shot, slow arc around the sofa | Frames: nối khung cuối clip trước |
-| [**Clip 4**](clip-4.md) | `@BaHoa`, `@Hung` | `LIPSYNC:@BaHoa` | **17** | `0.4–4.7s` | "Dễ vay thì cũng phải trả chứ, nhỡ chúng nó không trả thì cậu làm thế nào?" | 85mm close-up on her, slow push-in | Frames: nối khung cuối clip trước |
-| [**Clip 5**](clip-5.md) | `@Hung`, `@BaHoa` | `LIPSYNC:@Hung` | **21** | `0.4–5.7s` | "Không trả thì tôi gửi ảnh cho cả họ hàng nó, xấu hổ quá thì kiểu gì nó cũng phải trả." | 35mm medium shot on him, slow dolly-in | Frames: nối khung cuối clip trước |
-| [**Clip 6**](clip-6.md) | `@BaHoa` | `VO` | **22** | `0.4–5.9s` | "Bà Hoa gật gù, ngón tay khẽ vuốt chiếc trâm vàng, từng lời của Hưng đang chạy thẳng về máy của Mai." | 100mm close-up, slow push-in to the brooch | Ingredients: ảnh nhân vật |
+| [**Clip 1**](clip-1.md) | `@Hung` | `VO` | **46** | `0.4–11.9s` | "Nghe tin có một bà trùm mang mười tỷ đến xin đầu tư, Hưng tắt ngay livestream, chỉnh lại cổ áo, soi lại mái tóc vàng hoe trong vách kính, rồi tươi cười chạy ra tận cửa đón, chẳng khác gì đón thần tài vào nhà." | 35mm medium shot, slow tracking alongside him | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@BaHoa`, `@Hung` | `LIPSYNC:@BaHoa+@Hung` | **38** | `3.0–13.0s` | "@BaHoa: Tôi có mười tỷ để không, nghe nói cậu làm tiền đẻ ra tiền nhanh lắm. / @Hung: Bà gửi tôi mười tỷ, ba tháng sau tôi trả bà hai mươi, sinh viên bây giờ dễ vay lắm bà ạ." | 28mm wide two-shot across the low tea table, slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@BaHoa`, `@Hung` | `LIPSYNC:@BaHoa+@Hung` | **38** | `3.0–13.1s` | "@BaHoa: Dễ vay thì cũng phải trả chứ, nhỡ chúng nó không trả thì cậu làm thế nào? / @Hung: Không trả thì tôi gửi ảnh cho cả họ hàng nó, xấu hổ quá thì kiểu gì nó cũng phải trả." | 50mm medium two-shot, slow arc around the sofa | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@BaHoa` | `VO` | **45** | `0.4–11.7s` | "Sau cặp kính đen, bà Hoa gật gù như người đã hiểu ra, ngón tay khẽ vuốt chiếc trâm vàng trước ngực, mà Hưng đâu có biết, từng lời khoe khoang của hắn đang chạy thẳng về máy tính của Mai ở bên kia đường." | 100mm close-up, slow push-in to the brooch | Ingredients: ảnh nhân vật |

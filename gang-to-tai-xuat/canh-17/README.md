@@ -1,4 +1,4 @@
-# Cảnh 17: Đêm Trên Sân Thượng (6 Clips × 10s = 60s)
+# Cảnh 17: Đêm Trên Sân Thượng (4 Clips × 15s = 60s)
 
 - **Thời gian:** 22:00 Đêm (16:00–17:00)
 - **Bối cảnh:** Sân thượng một ngôi nhà ống trong phố cổ, nhìn ra biển mái ngói và mặt hồ xa.
@@ -7,9 +7,7 @@
 
 | Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
 |---|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Lam`, `@Mai` | `VO` | **21** | `0.4–5.7s` | "Đêm ấy, hai ông cháu ngồi trên sân thượng, nhìn xuống phố cổ lấp lánh mà chẳng ai nói câu nào." | 24mm wide shot from behind, slow crane-up | Ingredients: ảnh nhân vật |
-| [**Clip 2**](clip-2.md) | `@Mai`, `@Lam` | `LIPSYNC:@Mai` | **19** | `0.4–5.2s` | "Tại cháu mà bà Hoa bị bắt, ông ơi, hay mình trả tiền cho nó rồi thôi đi ông." | 50mm medium two-shot, slow arc to their faces | Frames: nối khung cuối clip trước |
-| [**Clip 3**](clip-3.md) | `@Lam`, `@Mai` | `LIPSYNC:@Lam` | **18** | `0.4–5.1s` | "Ông trả nó một đồng, thì ngày mai nó lại gài thêm trăm đứa khác khổ như con." | 85mm close-up on @Lam, slow push-in | Frames: nối khung cuối clip trước |
-| [**Clip 4**](clip-4.md) | `@Mai`, `@Lam` | `LIPSYNC:@Mai` | **17** | `0.4–4.7s` | "Hưng livestream mỗi tối, có hai triệu người xem, nó thích khoe khoang hơn cả thích tiền." | 50mm medium shot, slow dolly-in on @Mai | Frames: nối khung cuối clip trước |
-| [**Clip 5**](clip-5.md) | `@Lam` | `VO` | **21** | `0.4–5.7s` | "Ông Lâm khựng lại, rồi bật cười, đôi mắt mờ đục của ông bỗng sáng lên như ba mươi năm trước." | 85mm close-up, slow push-in to his eyes | Ingredients: ảnh nhân vật |
-| [**Clip 6**](clip-6.md) | `@Lam`, `@Mai` | `LIPSYNC:@Lam` | **17** | `3.0–7.4s` | "Thế thì mình để chính cái miệng nó tự khai, trước mặt hai triệu người, con ạ." | 35mm medium two-shot, slow lateral track | Ingredients: ảnh nhân vật |
+| [**Clip 1**](clip-1.md) | `@Lam`, `@Mai` | `VO` | **46** | `0.4–11.9s` | "Đêm ấy, hai ông cháu ngồi lặng trên sân thượng, nhìn xuống phố cổ lấp lánh ánh đèn mà chẳng ai nói với ai câu nào, chỉ có tiếng gió đêm lành lạnh và tiếng còi xe vọng lên từ những con phố xa phía dưới." | 24mm wide shot from behind, slow crane-up | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Mai`, `@Lam` | `LIPSYNC:@Mai+@Lam` | **41** | `3.0–14.0s` | "@Mai: Tại cháu mà bà Hoa bị bắt, ông ơi, hay mình trả tiền cho nó rồi thôi đi ông. / @Lam: Không được con ạ, ông trả nó một đồng, thì ngày mai nó lại gài thêm trăm đứa khác khổ như con." | 50mm medium two-shot, slow arc to their faces | Frames: nối khung cuối clip trước |
+| [**Clip 3**](clip-3.md) | `@Mai`, `@Lam` | `LIPSYNC:@Mai+@Lam` | **36** | `3.0–12.7s` | "@Mai: Ông ơi, Hưng livestream mỗi tối, có hai triệu người xem, nó thích khoe khoang hơn cả thích tiền. / @Lam: Thế thì mình để chính cái miệng nó tự khai, trước mặt hai triệu người, con ạ." | 50mm close-up two-shot of both faces in profile, slow push-in | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@Lam` | `VO` | **46** | `0.4–11.9s` | "Nói xong câu ấy, ông Lâm bật cười khẽ, đôi mắt mờ đục của ông bỗng sáng rực lên như ba mươi năm trước, và Mai hiểu rằng, con rồng già của phố cổ vừa nghĩ ra nước cờ cuối cùng để lật ngược ván bài." | 85mm close-up, slow push-in to an extreme close-up of his eyes | Ingredients: ảnh nhân vật |

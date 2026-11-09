@@ -76,12 +76,21 @@ async def patch_models(body: dict):
     for section in (
         "video_models",
         "omni_flash_models",
+        "omni_model_versions",
         "image_models",
         "upscale_models",
     ):
         if section not in body:
             continue
-        if section in ("upscale_models", "image_models"):
+        if section == "omni_model_versions":
+            # {"default": "1.2", "1.2": {"reference_to_video": "...", "verified": [...]}}
+            target = current.setdefault(section, {})
+            for key, value in body[section].items():
+                if isinstance(value, dict):
+                    target.setdefault(key, {}).update(value)
+                else:
+                    target[key] = value
+        elif section in ("upscale_models", "image_models"):
             # Flat dict — direct merge.
             current.setdefault(section, {}).update(body[section])
         elif section == "omni_flash_models":

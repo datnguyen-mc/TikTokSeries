@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -7,30 +7,30 @@ Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old q
 Bright natural lighting: warm golden morning and sunset light over the old quarter, crisp midday daylight, colorful neon signs without readable letters and warm shop lamps at night; shadows stay soft, never gloomy.
 
 [LOCATION]
-Night in the loan app call center high in the glass tower: rows of desks with glowing monitors, magenta and gold neon accent lights without letters, city lights beyond the windows, a ring light glowing in the glass-walled boss room.
+Inside a parked white van turned into a surveillance post at night: two laptops glowing, tangled cables, a thermos, tinted windows with neon reflections.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards.
-- @Lam = Ông Lâm, 63, humble motorbike-taxi driver who was once the old quarter's legendary gang boss; wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles; faded grey zip-up windbreaker over a white tank top, loose khaki trousers, plastic sandals, a battered green pith helmet, a dark-green dragon tattoo on his right forearm usually hidden by his sleeve.
-- @Hung = Hưng, 31, flashy boss of a loan app company and a show-off livestreamer; tall and slim, dyed ash-blond undercut, round gold-rimmed glasses, cocky grin; oversized black satin bomber jacket over a plain white T-shirt, ripped black jeans, white high-top sneakers, several silver rings, a phone on a small selfie gimbal.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
+- @Mai = Mai, 20, Lâm's granddaughter, an IT student; petite, short black bob with straight bangs, round black-framed glasses, quick bright eyes; oversized lavender hoodie, black jeans, chunky white sneakers, small black backpack.
 Nobody else appears in the shot.
 
 [SHOT]
-- Framing & motion: 35mm over-the-shoulder shot slow arc; one smooth camera move from start to end, no cuts.
-- Continuity: continues the same moment, place and lighting as the previous shot; same framing axis, no jump.
-- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the frame.
+- Framing & motion: 50mm extreme close-up slow pull-back; one smooth camera move from start to end, no cuts.
+- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
 
 [TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; clothing stays fully worn from the first frame.
-- 0.0–3.0s: Over @Hung's shoulder, @Lam sits in the chrome chair and speaks calmly up at him, face and lips clearly visible, one weathered hand gesturing gently toward the glowing gimbal phone.
-- 3.0–7.0s: @Lam finishes with a slow nod and closes his mouth, his calm narrow eyes holding @Hung's gaze.
-- 7.0–10.0s: @Hung freezes with the gimbal half-raised and his grin slipping, while @Lam leans back and folds his arms with a closed-mouth smile. The shot settles on this as its final frame.
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
+- 0.0–3.0s: Extreme close-up of a laptop keyboard inside the parked white van at night, the blank screen's glow pulsing over the keys beside tangled cables and a thermos, no person in frame.
+- 3.0–7.0s: @Mai's finger presses the enter key firmly and the blank screen glow flares brighter, flooding her round glasses as the camera pulls back to her face.
+- 7.0–11.0s: The two blank laptop screens beside her pulse in alternating bands of white and red light across @Mai's face, her lips pressed into a tight line.
+- 11.0–15.0s: @Mai leans back in her seat with a small closed-mouth smile, the laptop light flickering over her lavender hoodie and neon sliding across the tinted window behind her. The shot settles on this as its final frame.
 
 [AUDIO]
-- Dialogue 0.4–4.8s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter), in Vietnamese with exact lip-sync, said exactly once: "Cậu nói to lên một chút nữa, để hai triệu người đang xem cùng nghe cho rõ." (no subtitles)
-- @Lam's face and lips stay clearly visible while speaking; after the last word @Lam closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Narration 0.4–11.9s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Đúng lúc ấy, trong xe tải, Mai bấm nút, buổi livestream của Hưng lập tức bị chia đôi, một nửa là gương mặt hắn đang vênh váo khoe lãi, nửa kia là danh sách mấy nghìn nạn nhân thật lấy thẳng từ máy chủ Phú Quý." (no subtitles)
+- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
+- Nobody on screen speaks; every mouth on screen stays closed.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: ring light hum, a sudden flood of notification chimes, the distant drone of the city. Ambience continues to 10.0s. No music.
+- SFX: a single decisive key click, a rising electronic chime, rapid soft beeps, muffled street traffic. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

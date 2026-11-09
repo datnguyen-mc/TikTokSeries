@@ -30,9 +30,11 @@ def main() -> int:
     header["scenes"] = scenes
     errors, warns = B.validate(header)
     chars = header["characters"]
+    D = B.clip_seconds(header)
+    want = {10: 6, 15: 4}[D]  # 60s per scene: 6 × 10s (Omni 1.1) or 4 × 15s (Omni 1.2, 09/11/2026)
     for sc in scenes:
-        if len(sc["clips"]) != 6:
-            errors.append(f"scene {sc['num']}: needs 6 clips")
+        if len(sc["clips"]) != want:
+            errors.append(f"scene {sc['num']}: needs {want} clips")
         for k in ("num", "title", "time_label", "location", "axis", "props", "setting", "clips"):
             if k not in sc:
                 errors.append(f"scene {sc.get('num')}: missing {k}")
@@ -48,10 +50,10 @@ def main() -> int:
             cont = B.effective_continuity(sc["clips"], i, sc["setting"])
             if c.get("continuity") == "continuous" and cont != "continuous":
                 warns.append(f"{cid}: marked continuous but compiles as cut (newcomer / setting change)")
-            if c["speaker"] != "NARRATOR" and cont == "cut":
-                a, b = B.speech_window(c["line"], chars[c["speaker"]]["rate"], start=3.0, max_end=99)
-                if b > 9.2:
-                    errors.append(f"{cid}: lip-sync on a cut clip ends at {b:.1f}s (>9.2s) — shorten to ≤22 syllables")
+            if not B.is_vo(c) and cont == "cut":
+                b = B.speech_plan(header, c, cont, D, clamp=False)[-1][3]
+                if b > D - 0.8:
+                    errors.append(f"{cid}: lip-sync on a cut clip ends at {b:.1f}s (>{D - 0.8:.1f}s) — shorten the line(s)")
     for w in warns:
         print("WARN ", w)
     for e in errors:

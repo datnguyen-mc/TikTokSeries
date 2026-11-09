@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -22,14 +22,15 @@ Nobody else appears in the shot.
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
 - 0.0–3.0s: The dim back of the tube house at night under one warm lamp, the single bed against the wall and a gap of deep dusty shadow beneath it.
 - 3.0–7.0s: @Lam kneels on the tiled floor beside the bed, reaches deep underneath it and slides out a rusty round biscuit tin furred with dust, his mouth closed.
-- 7.0–10.0s: @Lam wipes the dust off the lid with his palm in a soft grey cloud and rests the tin on his knees, his weathered thumbs on its rusty rim. The shot settles on this as its final frame.
+- 7.0–11.0s: @Lam wipes the dust off the lid in a soft grey cloud and pries it open with his thumbs, revealing a nest of yellowed papers covered in faint unreadable lines.
+- 11.0–15.0s: @Lam lifts out a faded photo of three young friends from the nineties, their faces tiny, and holds it in the lamplight, his thumb gently stroking its worn edge, his lips pressed together. The shot settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–6.4s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Đêm ấy, ông Lâm lôi ra từ gầm giường một chiếc hộp bánh quy bằng sắt đã rỉ sét, ba mươi năm không mở." (no subtitles)
+- Narration 0.4–11.9s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Đêm ấy, ông Lâm lặng lẽ lôi ra từ gầm giường một chiếc hộp bánh quy bằng sắt rỉ sét, đã ba mươi năm không mở, bên trong là tấm ảnh cũ, ba người bạn trẻ khoác vai nhau giữa phố cổ những năm chín mươi." (no subtitles)
 - After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
 - Nobody on screen speaks; every mouth on screen stays closed.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: metal scraping across tiles, a soft puff of dust, the old bed frame creaking. Ambience continues to 10.0s. No music.
+- SFX: metal scraping across tiles, a soft puff of dust, a rusty lid squeaking open, old paper rustling. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

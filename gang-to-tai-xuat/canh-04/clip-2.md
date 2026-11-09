@@ -1,4 +1,4 @@
-One continuous 10-second live-action shot, 16:9 widescreen, 24 fps.
+One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -16,21 +16,22 @@ Keep every face, hairstyle and outfit exactly consistent. Attached reference ima
 Nobody else appears in the shot.
 
 [SHOT]
-- Framing & motion: 35mm medium two-shot with a slow push-in; one smooth camera move from start to end, no cuts.
+- Framing & motion: 35mm wide two-shot with a slow push-in; one smooth camera move from start to end, no cuts.
 - Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
 - Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the frame.
 
 [TIMELINE]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: Inside the tube house at night, the worn wooden table glows under one warm lamp, a damp battered green pith helmet resting on it beside a folded towel.
-- 3.0–7.0s: @Mai stands at the foot of the staircase on screen-right facing @Lam at the table on screen-left, her eyes brimming, and speaks to him quickly in a trembling rush.
-- 7.0–10.0s: @Mai finishes, closes her mouth and twists the hem of her lavender hoodie in both hands, while @Lam slowly lowers the towel and stares at her. The shot settles on this as its final frame.
+- 0.0–3.0s: Inside the tube house at night, the worn wooden table glows under one warm lamp, a battered green pith helmet resting damp on it beside a folded towel.
+- 3.0–7.0s: @Mai stands at the foot of the staircase on screen-right facing @Lam at the table on screen-left, her eyes brimming, and speaks to him in a trembling rush while he listens, mouth closed.
+- 7.0–11.0s: @Mai keeps speaking with her face clearly visible, twisting the hem of her lavender hoodie in both hands, as @Lam slowly lowers the towel and stares at her.
+- 11.0–15.0s: @Mai finishes and closes her mouth, while @Lam lifts his fingertips to the corner of his cloudy left eye, his lips quivering but pressed shut. The shot settles on this as its final frame.
 
 [AUDIO]
-- Dialogue 3.0–8.5s, spoken on camera by @Mai (young woman of 20, strictly standard Hà Nội Northern accent (never Southern accent), clear lively soprano, quick and earnest, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter), in Vietnamese with exact lip-sync, said exactly once: "Ông ơi, cháu xin lỗi, cháu vay tiền là để ông đi mổ mắt, bác sĩ bảo để lâu ông sẽ mù." (no subtitles)
+- Dialogue 3.0–11.8s, spoken on camera by @Mai (young woman of 20, strictly standard Hà Nội Northern accent (never Southern accent), clear lively soprano, quick and earnest, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter), in Vietnamese with exact lip-sync, said exactly once: "Ông ơi, cháu xin lỗi ông, cháu vay tiền là để ông đi mổ mắt, bác sĩ bảo mắt ông để lâu nữa là mù hẳn, cháu sợ ông lo nên không dám nói ạ." (no subtitles)
 - From 3.0s onward, @Mai's face and lips stay clearly visible while speaking; after the last word @Mai closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: a shaky breath, the lamp buzzing softly, water dripping from the helmet onto the table. Ambience continues to 10.0s. No music.
+- SFX: a shaky breath, the lamp buzzing softly, water dripping from the helmet onto the table. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.

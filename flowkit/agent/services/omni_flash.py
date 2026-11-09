@@ -1,11 +1,16 @@
 """Gemini Omni Flash video generation through the Google Flow bridge.
 
-Migrated ``flow.google.com`` batch surfaces live-verified on 2026-09-14:
+Migrated ``flow.google.com`` batch surfaces live-verified on 2026-09-14
+(Omni 1.1 Flash wire keys shown; Omni 1.2 Flash swaps in ``macaron_cookie_*``
+keys and 3–15s durations — see ``omni_model_versions`` in agent/models.json):
 
 * text -> video: ``YhhmEf`` + ``abra_t2v_<duration>s`` (workflow/media polling)
 * first frame -> video: ``eb1hJf`` + ``abra_i2v_<duration>s``
 * first + last frame -> video: ``nprQif`` + ``omni_flash_i2v_<duration>s_first_last``
 * Ingredients/references -> video: ``MZZa6b`` + ``abra_r2v_<duration>s``
+
+The version comes from the request's ``model_version``, else env
+``OMNI_FLASH_MODEL_VERSION``, else models.json's ``default``.
 
 Reference-conditioned modes return normal batch operation receipts and use the
 same operation/media poller as migrated Veo.
@@ -21,14 +26,75 @@ from __future__ import annotations
 
 import asyncio
 import json
+import logging
+import os
 from pathlib import Path
 
 from agent.services import flow_batch as fb
 from agent.services.flow_client import get_flow_client
 
+logger = logging.getLogger(__name__)
+
+# ── Omni 1.2 safety net (09/11/2026) ─────────────────────────────────────────
+# Only the 1.2 text-to-video key has been seen in a live capture. If Flow rejects
+# an unverified 1.2 key at submit time, retry once on the captured 1.1 wire when
+# the duration exists there (4/6/8/10s), and remember the rejection for the rest
+# of the process so later clips go straight to 1.1. 15s clips have no 1.1
+# fallback, so their error is returned as is. OMNI_FLASH_NO_FALLBACK=1 disables it.
+_REJECTED_KEYS: set[tuple[str, str]] = set()  # (version, mode)
+# Errors that say nothing about the model key: never answer them with a resubmit.
+_UNRELATED_ERRORS = (
+    "captcha", "unusual_activity", "no_at_token", "no_flow_project", "not connected",
+    "timeout", "timed out", "unsafe", "quota", "credit", "rate limit", "resource_exhausted",
+    "unauthenticated", "permission",
+)
+
+
+def _fallback_version(mode: str, duration_s: int, version: str) -> str | None:
+    if os.environ.get("OMNI_FLASH_NO_FALLBACK") == "1" or version == "1.1":
+        return None
+    entry = fb.omni_model_versions().get(version, {})
+    if mode in entry.get("verified", []):
+        return None
+    if duration_s not in fb.omni_valid_durations("1.1"):
+        return None
+    return "1.1"
+
+
+async def _submit_with_fallback(mode: str, duration_s: int, model_version: str | None, once) -> dict:
+    """Run ``once(version)``; on a submit error with an unverified key, retry on 1.1."""
+    version = fb.omni_model_version(model_version)
+    fallback = _fallback_version(mode, duration_s, version)
+    if fallback and (version, mode) in _REJECTED_KEYS:
+        version = fallback
+    result = await once(version)
+    if result.get("status") != 502 or not fallback or version == fallback:
+        return result
+    err = str(result.get("error", ""))
+    if any(marker in err.lower() for marker in _UNRELATED_ERRORS):
+        return result
+    rejected_key = fb.omni_model_key(mode, duration_s, version=version)
+    logger.warning(
+        "Omni %s key %s was rejected (%s); retrying once on Omni %s. "
+        "Capture one Frames + Ingredients generation in the Flow UI to fix models.json (docs/CAPTURE.md).",
+        version, rejected_key, err[:200], fallback,
+    )
+    _REJECTED_KEYS.add((version, mode))
+    retry = await once(fallback)
+    if retry.get("status") == 200 and isinstance(retry.get("data"), dict):
+        retry["data"]["model_fallback"] = {"from": rejected_key, "to_version": fallback, "error": err[:300]}
+    return retry
+
 _MODELS_FILE = Path(__file__).parent.parent / "models.json"
 
-OMNI_FLASH_VALID_DURATIONS = (4, 6, 8, 10)
+def _all_durations() -> tuple[int, ...]:
+    table = fb.omni_model_versions()
+    found = {int(d) for k, v in table.items() if k[:1].isdigit() for d in v.get("durations", [])}
+    return tuple(sorted(found)) or (4, 6, 8, 10)
+
+
+# Every duration any configured version accepts (1.1: 4/6/8/10, 1.2: 3–15).
+OMNI_FLASH_VALID_DURATIONS = _all_durations()
 OMNI_FLASH_VALID_ASPECTS = {
     "VIDEO_ASPECT_RATIO_PORTRAIT",
     "VIDEO_ASPECT_RATIO_LANDSCAPE",
@@ -38,11 +104,12 @@ OMNI_FLASH_MAX_REFERENCE_IMAGES = 7
 OMNI_FLASH_CREDIT_COST = {4: 15, 6: 20, 8: 25, 10: 30}
 
 
-def _validate_duration(duration_s: int) -> None:
-    if duration_s not in OMNI_FLASH_VALID_DURATIONS:
+def _validate_duration(duration_s: int, model_version: str | None = None) -> None:
+    allowed = fb.omni_valid_durations(model_version)
+    if duration_s not in allowed:
         raise ValueError(
             f"Omni Flash duration {duration_s}s is unsupported; "
-            f"choose one of {list(OMNI_FLASH_VALID_DURATIONS)}"
+            f"choose one of {list(allowed)}"
         )
 
 
@@ -105,8 +172,9 @@ def _validate_reference_inputs(
     reference_media_ids: list[str],
     duration_s: int,
     aspect_ratio: str,
+    model_version: str | None = None,
 ) -> list[str]:
-    _validate_duration(duration_s)
+    _validate_duration(duration_s, model_version)
     _validate_aspect(aspect_ratio)
 
     refs = [mid for mid in (reference_media_ids or []) if isinstance(mid, str) and mid]
@@ -124,8 +192,9 @@ def _validate_frame_inputs(
     end_image_media_id: str | None,
     duration_s: int,
     aspect_ratio: str,
+    model_version: str | None = None,
 ) -> None:
-    _validate_duration(duration_s)
+    _validate_duration(duration_s, model_version)
     _validate_aspect(aspect_ratio)
     if not isinstance(start_image_media_id, str) or not start_image_media_id:
         raise ValueError("Omni Flash first-frame generation requires start_image_media_id")
@@ -170,7 +239,7 @@ def extract_omni_workflows(result: dict) -> list[dict]:
     return normalized
 
 
-async def generate_omni_flash_text_video(
+async def _text_video_once(
     prompt: str,
     project_id: str,
     scene_id: str = "",
@@ -179,15 +248,16 @@ async def generate_omni_flash_text_video(
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT",
     user_paygate_tier: str = "PAYGATE_TIER_ONE",
     seed: int | None = None,
+    model_version: str | None = None,
 ) -> dict:
-    """Submit Omni 1.1 Flash text-to-video on the migrated Flow batch API."""
-    _validate_duration(duration_s)
+    """One text-to-video submit on a fixed Omni version."""
+    _validate_duration(duration_s, model_version)
     resolution = _validate_resolution(resolution)
     _validate_aspect(aspect_ratio)
     client = get_flow_client()
     try:
         pid = client._batch_project_id(project_id)
-        model_key = f"abra_t2v_{duration_s}s" + ("_360p" if resolution == "360p" else "")
+        model_key = fb.omni_model_key("text_to_video", duration_s, resolution, model_version)
         freq = fb.text_video_request(
             prompt,
             pid,
@@ -225,7 +295,7 @@ async def generate_omni_flash_text_video(
     }
 
 
-async def _submit_omni_frame_video(
+async def _frame_video_once(
     *,
     start_image_media_id: str,
     end_image_media_id: str | None,
@@ -237,6 +307,7 @@ async def _submit_omni_frame_video(
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT",
     user_paygate_tier: str = "PAYGATE_TIER_ONE",
     seed: int | None = None,
+    model_version: str | None = None,
 ) -> dict:
     """Submit Omni first-frame or First+Last generation.
 
@@ -244,7 +315,7 @@ async def _submit_omni_frame_video(
     first-frame uses ``eb1hJf``; First+Last uses ``nprQif``. Both return normal
     batch operations and are polled through ``/api/flow/check-status``.
     """
-    _validate_frame_inputs(start_image_media_id, end_image_media_id, duration_s, aspect_ratio)
+    _validate_frame_inputs(start_image_media_id, end_image_media_id, duration_s, aspect_ratio, model_version)
     resolution = _validate_resolution(resolution)
     mode = "start_end_frame_to_video" if end_image_media_id is not None else "frame_to_video"
     client = get_flow_client()
@@ -254,19 +325,18 @@ async def _submit_omni_frame_video(
         if end_image_media_id is None:
             freq = fb.omni_first_frame_request(
                 prompt, pid, start_image_media_id, duration_s=duration_s,
-                resolution=resolution, aspect=aspect_ratio,
+                resolution=resolution, aspect=aspect_ratio, model_version=model_version,
             )
             rpcid = fb.RPC_GEN_VIDEO
-            batch_model = f"abra_i2v_{duration_s}s" + ("_360p" if resolution == "360p" else "")
+            batch_model = fb.omni_model_key("frame_to_video", duration_s, resolution, model_version)
         else:
             freq = fb.omni_first_last_request(
                 prompt, pid, start_image_media_id, end_image_media_id,
                 duration_s=duration_s, resolution=resolution, aspect=aspect_ratio,
+                model_version=model_version,
             )
             rpcid = fb.RPC_GEN_VIDEO_FIRST_LAST
-            batch_model = f"omni_flash_i2v_{duration_s}s_first_last" + (
-                "_360p" if resolution == "360p" else ""
-            )
+            batch_model = fb.omni_model_key("start_end_frame_to_video", duration_s, resolution, model_version)
         payload = await client._batch_payload(
             rpcid, freq, fb.CAPTCHA_VIDEO, timeout=120,
         )
@@ -286,6 +356,7 @@ async def generate_omni_flash_first_frame_video(
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT",
     user_paygate_tier: str = "PAYGATE_TIER_ONE",
     seed: int | None = None,
+    model_version: str | None = None,
 ) -> dict:
     """Submit Omni Flash First frame -> video."""
     return await _submit_omni_frame_video(
@@ -299,6 +370,7 @@ async def generate_omni_flash_first_frame_video(
         aspect_ratio=aspect_ratio,
         user_paygate_tier=user_paygate_tier,
         seed=seed,
+        model_version=model_version,
     )
 
 
@@ -313,6 +385,7 @@ async def generate_omni_flash_first_last_video(
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT",
     user_paygate_tier: str = "PAYGATE_TIER_ONE",
     seed: int | None = None,
+    model_version: str | None = None,
 ) -> dict:
     """Submit Omni Flash First + Last frame -> video."""
     return await _submit_omni_frame_video(
@@ -326,10 +399,11 @@ async def generate_omni_flash_first_last_video(
         aspect_ratio=aspect_ratio,
         user_paygate_tier=user_paygate_tier,
         seed=seed,
+        model_version=model_version,
     )
 
 
-async def generate_omni_flash_video(
+async def _reference_video_once(
     reference_media_ids: list[str],
     prompt: str,
     project_id: str,
@@ -339,13 +413,14 @@ async def generate_omni_flash_video(
     aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT",
     user_paygate_tier: str = "PAYGATE_TIER_ONE",
     seed: int | None = None,
+    model_version: str | None = None,
 ) -> dict:
-    """Submit Omni Flash Ingredients/reference-to-video generation.
+    """One Ingredients/reference-to-video submit on a fixed Omni version.
 
     The migrated UI uses RPC ``MZZa6b`` with ``abra_r2v_<duration>s`` (720p)
     or ``abra_r2v_<duration>s_360p``. Batch jobs use normal operation polling.
     """
-    refs = _validate_reference_inputs(reference_media_ids, duration_s, aspect_ratio)
+    refs = _validate_reference_inputs(reference_media_ids, duration_s, aspect_ratio, model_version)
     resolution = _validate_resolution(resolution)
     client = get_flow_client()
 
@@ -353,7 +428,7 @@ async def generate_omni_flash_video(
         pid = client._batch_project_id(project_id)
         freq = fb.omni_reference_video_request(
             prompt, pid, refs, duration_s=duration_s,
-            resolution=resolution, aspect=aspect_ratio,
+            resolution=resolution, aspect=aspect_ratio, model_version=model_version,
         )
         payload = await client._batch_payload(
             fb.RPC_GEN_VIDEO_REFERENCES, freq, fb.CAPTCHA_VIDEO, timeout=120,
@@ -362,7 +437,7 @@ async def generate_omni_flash_video(
         client._remember_operation(operation.operation_id, pid, prompt=prompt)
     except Exception as exc:
         return {"status": 502, "error": f"{type(exc).__name__}: {exc}"}
-    batch_model = f"abra_r2v_{duration_s}s" + ("_360p" if resolution == "360p" else "")
+    batch_model = fb.omni_model_key("reference_to_video", duration_s, resolution, model_version)
     return _batch_operation_result(operation, pid, batch_model, duration_s, resolution)
 
 async def _check_omni_batch_media(
@@ -449,3 +524,84 @@ async def check_omni_flash_status(
 ) -> dict:
     """Perform one non-blocking poll pass for Omni workflow-backed jobs."""
     return await _check_omni_batch_media(workflows, include_encoded_video, project_id)
+
+
+async def generate_omni_flash_text_video(
+    prompt: str,
+    project_id: str,
+    scene_id: str = "",
+    duration_s: int = 8,
+    resolution: str = "720p",
+    aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT",
+    user_paygate_tier: str = "PAYGATE_TIER_ONE",
+    seed: int | None = None,
+    model_version: str | None = None,
+) -> dict:
+    """Submit Omni Flash text-to-video on the migrated Flow batch API."""
+    _validate_duration(duration_s, model_version)
+    return await _submit_with_fallback(
+        "text_to_video", duration_s, model_version,
+        lambda v: _text_video_once(
+            prompt=prompt, project_id=project_id, scene_id=scene_id, duration_s=duration_s,
+            resolution=resolution, aspect_ratio=aspect_ratio,
+            user_paygate_tier=user_paygate_tier, seed=seed, model_version=v,
+        ),
+    )
+
+
+async def _submit_omni_frame_video(
+    *,
+    start_image_media_id: str,
+    end_image_media_id: str | None,
+    prompt: str,
+    project_id: str,
+    scene_id: str = "",
+    duration_s: int = 8,
+    resolution: str = "720p",
+    aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT",
+    user_paygate_tier: str = "PAYGATE_TIER_ONE",
+    seed: int | None = None,
+    model_version: str | None = None,
+) -> dict:
+    """Submit Omni first-frame or First+Last generation (with the 1.2 safety net)."""
+    _validate_frame_inputs(start_image_media_id, end_image_media_id, duration_s, aspect_ratio, model_version)
+    mode = "start_end_frame_to_video" if end_image_media_id is not None else "frame_to_video"
+    return await _submit_with_fallback(
+        mode, duration_s, model_version,
+        lambda v: _frame_video_once(
+            start_image_media_id=start_image_media_id, end_image_media_id=end_image_media_id,
+            prompt=prompt, project_id=project_id, scene_id=scene_id, duration_s=duration_s,
+            resolution=resolution, aspect_ratio=aspect_ratio,
+            user_paygate_tier=user_paygate_tier, seed=seed, model_version=v,
+        ),
+    )
+
+
+async def generate_omni_flash_video(
+    reference_media_ids: list[str],
+    prompt: str,
+    project_id: str,
+    scene_id: str = "",
+    duration_s: int = 8,
+    resolution: str = "720p",
+    aspect_ratio: str = "VIDEO_ASPECT_RATIO_PORTRAIT",
+    user_paygate_tier: str = "PAYGATE_TIER_ONE",
+    seed: int | None = None,
+    model_version: str | None = None,
+) -> dict:
+    """Submit Omni Flash Ingredients/reference-to-video generation.
+
+    The migrated UI uses RPC ``MZZa6b`` with ``abra_r2v_<duration>s`` (Omni 1.1)
+    or ``macaron_cookie_r2v_<duration>s`` (Omni 1.2); 360p appends ``_360p``.
+    Batch jobs use normal operation polling.
+    """
+    _validate_reference_inputs(reference_media_ids, duration_s, aspect_ratio, model_version)
+    return await _submit_with_fallback(
+        "reference_to_video", duration_s, model_version,
+        lambda v: _reference_video_once(
+            reference_media_ids=reference_media_ids, prompt=prompt, project_id=project_id,
+            scene_id=scene_id, duration_s=duration_s, resolution=resolution,
+            aspect_ratio=aspect_ratio, user_paygate_tier=user_paygate_tier, seed=seed,
+            model_version=v,
+        ),
+    )

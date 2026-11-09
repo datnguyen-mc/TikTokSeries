@@ -1,4 +1,4 @@
-# Cảnh 08: Khoa Báo Sửa Đài (6 Clips × 10s = 60s)
+# Cảnh 08: Khoa Báo Sửa Đài (4 Clips × 15s = 60s)
 
 - **Thời gian:** 14:00 Chiều (07:00–08:00)
 - **Bối cảnh:** Sạp sửa đài, sửa điện thoại tí hon dưới gầm cầu thang trong một con ngõ phố cổ.
@@ -7,9 +7,7 @@
 
 | Clip | Nhân Vật | Giọng | Âm tiết | Khung thoại | Lời Dẫn / Thoại | Camera | Cách tạo trên Flow |
 |---|---|---|---|---|---|---|---|
-| [**Clip 1**](clip-1.md) | `@Khoa` | `VO` | **23** | `0.4–6.2s` | "Người thứ ba là Khoa, sáu mươi tuổi, sửa đài sửa điện thoại dưới gầm cầu thang, giang hồ gọi là Khoa Báo." | 28mm wide shot with a slow dolly-in under the staircase | Ingredients: ảnh nhân vật |
-| [**Clip 2**](clip-2.md) | `@Khoa` | `VO` | **23** | `0.4–6.2s` | "Ngày xưa, chưa có cái két sắt nào ở phố cổ giữ được bí mật quá năm phút trước đôi tay của ông." | 100mm extreme close-up on his hands with a slow push-in | Frames: nối khung cuối clip trước |
-| [**Clip 3**](clip-3.md) | `@Khoa`, `@Lam` | `LIPSYNC:@Khoa` | **19** | `3.0–7.8s` | "Rồng với Hổ cùng tìm đến tận gầm cầu thang này, chắc phố cổ sắp có chuyện lớn rồi." | 35mm medium two-shot with a slow push-in | Ingredients: ảnh nhân vật |
-| [**Clip 4**](clip-4.md) | `@Lam`, `@Khoa` | `LIPSYNC:@Lam` | **20** | `0.4–5.6s` | "Có một cái két sắt làm bằng điện thoại cần mở, tay ông Khoa bây giờ còn mở được không?" | 85mm close-up on Lâm with a slow push-in | Frames: nối khung cuối clip trước |
-| [**Clip 5**](clip-5.md) | `@Khoa`, `@Lam` | `LIPSYNC:@Khoa` | **19** | `0.4–5.2s` | "Két nào tôi cũng mở được hết, trừ mỗi cái két trái tim của bà Hoa là chịu thôi." | 40mm over-the-shoulder shot past Lâm onto Khoa with a slow push-in | Frames: nối khung cuối clip trước |
-| [**Clip 6**](clip-6.md) | `@Khoa` | `VO` | **25** | `0.4–6.7s` | "Ông Khoa kéo cặp kính lúp xuống mắt, và lần đầu sau ba mươi năm, đôi bàn tay ấy lại run lên vì háo hức." | 50mm medium shot with a slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 1**](clip-1.md) | `@Khoa` | `VO` | **45** | `0.4–11.7s` | "Người thứ ba là Khoa, sáu mươi tuổi, sửa đài sửa điện thoại dưới gầm cầu thang, giang hồ gọi là Khoa Báo, ngày xưa chưa có cái két sắt nào ở phố cổ giữ được bí mật quá năm phút trước đôi tay ông." | 28mm wide shot with a slow dolly-in to his hands | Ingredients: ảnh nhân vật |
+| [**Clip 2**](clip-2.md) | `@Khoa`, `@Lam` | `LIPSYNC:@Khoa+@Lam` | **41** | `3.0–14.0s` | "@Khoa: Hổ vừa gọi, giờ Rồng lại tìm đến tận gầm cầu thang này, chắc phố cổ sắp có chuyện lớn rồi. / @Lam: Có một cái két sắt làm bằng điện thoại cần mở, tay ông Khoa bây giờ còn mở được không?" | 35mm medium two-shot with a slow push-in | Ingredients: ảnh nhân vật |
+| [**Clip 3**](clip-3.md) | `@Khoa`, `@Lam` | `LIPSYNC:@Khoa+@Lam` | **40** | `3.0–13.7s` | "@Khoa: Két nào tôi cũng mở được hết, trừ mỗi cái két trái tim của bà Hoa là chịu thôi. / @Lam: Cái két ấy thì cả phố cổ chịu, ông cứ lo mở cái két của bọn cho vay kia trước đã." | 85mm close-up favoring Khoa with a slow arc to Lâm | Frames: nối khung cuối clip trước |
+| [**Clip 4**](clip-4.md) | `@Khoa` | `VO` | **50** | `0.4–12.9s` | "Ông Khoa kéo cặp kính lúp dày cộp xuống mắt, xếp từng chiếc tua vít tí hon thẳng hàng trên bàn, và lần đầu sau ba mươi năm, đôi bàn tay từng mở mọi két sắt phố cổ ấy lại run lên, không phải vì già, mà vì háo hức." | 50mm medium shot with a slow push-in | Ingredients: ảnh nhân vật |

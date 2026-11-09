@@ -49,6 +49,54 @@
       "10": "abra_r2v_10s"
     }
   },
+  "omni_model_versions": {
+    "_comment": "Omni Flash wire keys per model version; {d} = seconds. 'default' is used unless the request passes model_version or env OMNI_FLASH_MODEL_VERSION is set (1.1 = instant rollback). 1.2 text_to_video was seen in a live Flow UI capture (scratch/captured_netlog.jsonl, 2026-11-08); the other 1.2 keys follow the same naming and still need one UI capture of Frames + Ingredients to confirm (docs/CAPTURE.md).",
+    "default": "1.2",
+    "1.1": {
+      "label": "Omni 1.1 Flash",
+      "durations": [
+        4,
+        6,
+        8,
+        10
+      ],
+      "text_to_video": "abra_t2v_{d}s",
+      "frame_to_video": "abra_i2v_{d}s",
+      "start_end_frame_to_video": "omni_flash_i2v_{d}s_first_last",
+      "reference_to_video": "abra_r2v_{d}s",
+      "verified": [
+        "text_to_video",
+        "frame_to_video",
+        "start_end_frame_to_video",
+        "reference_to_video"
+      ]
+    },
+    "1.2": {
+      "label": "Omni 1.2 Flash",
+      "durations": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "text_to_video": "macaron_cookie_t2v_{d}s",
+      "frame_to_video": "macaron_cookie_i2v_{d}s",
+      "start_end_frame_to_video": "macaron_cookie_i2v_{d}s_first_last",
+      "reference_to_video": "macaron_cookie_r2v_{d}s",
+      "verified": [
+        "text_to_video"
+      ]
+    }
+  },
   "upscale_models": {
     "VIDEO_RESOLUTION_4K": "veo_3_1_upsampler_4k",
     "VIDEO_RESOLUTION_1080P": "veo_3_1_upsampler_1080p"

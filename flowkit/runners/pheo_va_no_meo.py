@@ -59,7 +59,7 @@ CHARACTER_SPECS = [
         "key": "Pheo",
         "tag": "@Pheo",
         "aliases": ["@Pheo", "@Phèo", "Pheo", "Phèo"],
-        "default_media_id": "",
+        "default_media_id": "9571d87d-b884-4709-802f-5c112e782bd7",
         "description": "Phèo: chú mèo đen mập tròn nhân hóa đi hai chân, lông đen mượt như nhung với mảng lông trắng nhỏ trước ngực, mắt vàng hổ phách to tròn, tai trái có vết khuyết chữ V nhỏ, đội mũ đầu bếp trắng nghiêng nhẹ sang phải, mặc áo thun trắng ngắn tay, tạp dề bếp xanh navy dài tới gối và khăn quàng cổ nhỏ màu đỏ.",
         "ref_prompt": (
             "Full-body character reference sheet of @Pheo, an anthropomorphic chubby adult male black cat standing upright on two legs; "
@@ -74,7 +74,7 @@ CHARACTER_SPECS = [
         "key": "No",
         "tag": "@No",
         "aliases": ["@No", "@Nở", "Bà chủ Hường", "Hường", "Nở"],
-        "default_media_id": "",
+        "default_media_id": "facc995c-1705-4e7b-abae-90d794eb9aaf",
         "description": "Nở / Bà chủ Hường: cô chó Pomeranian lông xù màu kem cam nhân hóa đi hai chân, đôi tai nhọn vểnh, mặc đồ bộ lụa hồng cánh sen in hoa trang nhã, đeo chuỗi vòng cổ ngọc trai trắng, vòng tay vàng bản to ở cả hai cổ tay, kính râm đồi mồi cài trên đỉnh đầu và đi dép bông hồng trong nhà.",
         "ref_prompt": (
             "Full-body character reference sheet of @No (Bà chủ Hường), an anthropomorphic chubby adult female Pomeranian dog standing upright "
@@ -228,6 +228,33 @@ def load_and_lock_project_characters():
 
         if not matched_mid and project_cache.get(tag):
             matched_mid = project_cache[tag]
+
+        if not matched_mid:
+            for ext in ("jpg", "jpeg", "png"):
+                cand_img = os.path.join(CHAR_REFS_DIR, f"{spec['key']}.{ext}")
+                if os.path.isfile(cand_img) and os.path.getsize(cand_img) > 0:
+                    log(f"📤 Đang upload ảnh nhân vật có sẵn ({os.path.basename(cand_img)}) cho {tag} lên Project {PROJECT_ID}...")
+                    try:
+                        with open(cand_img, "rb") as img_f:
+                            b64_img = base64.b64encode(img_f.read()).decode("utf-8")
+                        up_res = requests.post(
+                            f"{FLOWKIT_API}/api/flow/upload-image",
+                            json={
+                                "image_base64": b64_img,
+                                "project_id": PROJECT_ID,
+                                "file_name": f"{spec['key']}.{ext}",
+                                "mime_type": "image/png" if ext == "png" else "image/jpeg",
+                            },
+                            timeout=60,
+                        )
+                        if up_res.status_code == 200:
+                            udata = up_res.json()
+                            matched_mid = udata.get("media_id") or udata.get("_mediaId")
+                            if matched_mid:
+                                log(f"✅ Đã upload & khóa ảnh nhân vật {tag} -> media_id = {matched_mid}")
+                                break
+                    except Exception as e:
+                        log(f"⚠️ Lỗi khi upload ảnh nhân vật {tag}: {e}")
 
         if not matched_mid and spec.get("ref_prompt"):
             log(f"🎨 Đang tạo mới Nhân Vật & ảnh mẫu cố định cho {tag} trên Project {PROJECT_ID}...")

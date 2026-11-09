@@ -59,7 +59,7 @@ CHARACTER_SPECS = [
         "key": "Mit",
         "tag": "@Mit",
         "aliases": ["@Mit", "@Mít", "Mit", "Mít"],
-        "default_media_id": "",
+        "default_media_id": "64f764da-2094-4c1c-8d6f-1c61670e1224",
         "description": "Mit (chồng, ~35 tuổi): chó đực lông vàng nâu nhân hóa đi hai chân, mõm và ngực trắng kem, lông mày đậm biểu cảm, hai tai cụp mềm, dáng chắc khỏe bụng hơi tròn, mặc áo ba lỗ xám bạc màu và quần đùi tối màu.",
         "ref_prompt": (
             "Full-body character reference sheet of @Mit, a 35-year-old anthropomorphic golden-brown Vietnamese dog "
@@ -73,7 +73,7 @@ CHARACTER_SPECS = [
         "key": "Du",
         "tag": "@Đú",
         "aliases": ["@Đú", "@Du", "Đú", "Du"],
-        "default_media_id": "",
+        "default_media_id": "2ceca240-8f07-405f-9c1a-298856e0b508",
         "description": "Đú (vợ, ~30 tuổi): chó cái lông vàng kem nhân hóa đi hai chân, mõm trắng có vệt lông trắng dọc sống mũi lên trán, hai tai dài cụp mềm màu nâu nhạt, mặc áo bà ba hồng nhạt in hoa nhỏ, quần đen, dép nâu.",
         "ref_prompt": (
             "Full-body character reference sheet of @Đú, an early-30s gentle anthropomorphic cream-and-light-brown female Vietnamese dog "
@@ -86,7 +86,7 @@ CHARACTER_SPECS = [
         "key": "No",
         "tag": "@Nở",
         "aliases": ["@Nở", "@No", "Nở", "No"],
-        "default_media_id": "",
+        "default_media_id": "50061769-c160-41ce-b8ec-b62a90e1eb3c",
         "description": "Nở (con gái 6 tuổi): chó con dễ thương nhân hóa đi hai chân, cao ngang bụng Mít, lông kem mềm có mảng nâu nhạt trên đầu và hai tai cụp mềm, mõm trắng nhỏ, mắt tròn đen láy, mặc áo vàng nhạt in hoa nhỏ, chân váy nâu sẫm, dép sandal nhỏ.",
         "ref_prompt": (
             "Full-body character reference sheet of @Nở, an adorable 6-year-old small anthropomorphic female puppy (chó con dễ thương) "
@@ -249,6 +249,33 @@ def load_and_lock_project_characters():
         # Ưu tiên 3: Lấy từ cache local của PROJECT_ID hiện tại
         if not matched_mid and project_cache.get(tag):
             matched_mid = project_cache[tag]
+
+        if not matched_mid:
+            for ext in ("jpg", "jpeg", "png"):
+                cand_img = os.path.join(CHAR_REFS_DIR, f"{spec['key']}.{ext}")
+                if os.path.isfile(cand_img) and os.path.getsize(cand_img) > 0:
+                    log(f"📤 Đang upload ảnh nhân vật có sẵn ({os.path.basename(cand_img)}) cho {tag} lên Project {PROJECT_ID}...")
+                    try:
+                        with open(cand_img, "rb") as img_f:
+                            b64_img = base64.b64encode(img_f.read()).decode("utf-8")
+                        up_res = requests.post(
+                            f"{FLOWKIT_API}/api/flow/upload-image",
+                            json={
+                                "image_base64": b64_img,
+                                "project_id": PROJECT_ID,
+                                "file_name": f"{spec['key']}.{ext}",
+                                "mime_type": "image/png" if ext == "png" else "image/jpeg",
+                            },
+                            timeout=60,
+                        )
+                        if up_res.status_code == 200:
+                            udata = up_res.json()
+                            matched_mid = udata.get("media_id") or udata.get("_mediaId")
+                            if matched_mid:
+                                log(f"✅ Đã upload & khóa ảnh nhân vật {tag} -> media_id = {matched_mid}")
+                                break
+                    except Exception as e:
+                        log(f"⚠️ Lỗi khi upload ảnh nhân vật {tag}: {e}")
 
         # Ưu tiên 4: Nếu người dùng đổi sang PROJECT_ID mới tinh chưa có nhân vật, tự tạo ảnh tham chiếu chuẩn
         if not matched_mid and spec.get("ref_prompt"):

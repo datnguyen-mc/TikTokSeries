@@ -263,6 +263,7 @@ class FlowClient:
         was_active = self._generation_unusual_until > time.monotonic()
         self._generation_unusual_until = 0.0
         self._generation_hold_reason = None
+        self._generation_unusual_strikes = 0
         try:
             FLOW_GENERATION_HOLD_PATH.unlink(missing_ok=True)
         except OSError as exc:

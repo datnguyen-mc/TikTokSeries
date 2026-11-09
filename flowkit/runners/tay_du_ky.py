@@ -59,7 +59,7 @@ CHARACTER_SPECS = [
         "key": "Thay",
         "tag": "@Thay",
         "aliases": ["@Thay", "@DuongTang", "DuongTang", "Đường Tăng", "Thầy"],
-        "default_media_id": "",
+        "default_media_id": "4173b41b-e12b-43b6-a507-a4dad7717792",
         "description": "Thầy / Đường Tăng: nhà sư trẻ đầu cạo trọc, mặt tròn hiền hậu má hồng nhẹ, mặc áo cà sa cam nghệ khoác y đỏ sẫm bên vai trái và đeo chuỗi hạt gỗ nâu quanh cổ.",
         "ref_prompt": (
             "Full-body 2D hand-drawn cel-animated cartoon character reference of @Thay, a young shaved-head human Buddhist monk in his late twenties, "
@@ -72,7 +72,7 @@ CHARACTER_SPECS = [
         "key": "DaiCa",
         "tag": "@DaiCa",
         "aliases": ["@DaiCa", "@NgoKhong", "NgoKhong", "Ngộ Không", "Đại Ca"],
-        "default_media_id": "",
+        "default_media_id": "d6ff29a5-4714-4b7a-9291-d99881e52b15",
         "description": "Đại Ca / Ngộ Không: khỉ nhân hóa nhỏ con lanh lẹ, lông vàng nâu, mặt hình trái tim hồng đỏ, mắt hổ phách sáng, đeo vòng kim cô vàng mảnh, mặc áo bomber đỏ ngoài áo thun vàng trơn và quần short túi hộp họa tiết da hổ cam đen, chân trần, gậy Như Ý nhỏ bằng cây bút cài sau tai phải.",
         "ref_prompt": (
             "Full-body 2D hand-drawn cel-animated cartoon character reference of @DaiCa, a small wiry anthropomorphic monkey standing upright on two legs, "
@@ -85,7 +85,7 @@ CHARACTER_SPECS = [
         "key": "HeoLuoi",
         "tag": "@HeoLuoi",
         "aliases": ["@HeoLuoi", "@BatGioi", "BatGioi", "Bát Giới", "Heo Lười"],
-        "default_media_id": "",
+        "default_media_id": "1d21240d-a575-4fc2-9a05-3b9353165976",
         "description": "Heo Lười / Bát Giới: heo hồng nhân hóa mập tròn, tai to cụp mềm, mắt nhỏ híp, mũi heo hồng rộng, mặc áo thun đen rộng bên trong áo choàng xanh navy mở vạt và quần đùi tối màu, đi dép tông cao su đen.",
         "ref_prompt": (
             "Full-body 2D hand-drawn cel-animated cartoon character reference of @HeoLuoi, a chubby round anthropomorphic pink pig standing upright on two legs, "
@@ -98,7 +98,7 @@ CHARACTER_SPECS = [
         "key": "UtKho",
         "tag": "@UtKho",
         "aliases": ["@UtKho", "@SaTang", "SaTang", "Sa Tăng", "Út Khờ"],
-        "default_media_id": "",
+        "default_media_id": "b5aa34b0-ea0b-4610-9373-2421c4f39c86",
         "description": "Út Khờ / Sa Tăng: người khổng lồ hiền lành cao to nhất nhóm, da xanh xám, đầu trọc, râu quai nón ngắn gọn màu đỏ gạch, mặc áo dài tay màu nâu đất, đeo tạp dề bếp xanh rêu trước ngực và vòng hạt gỗ lớn màu nâu sẫm quanh cổ.",
         "ref_prompt": (
             "Full-body 2D hand-drawn cel-animated cartoon character reference of @UtKho, a very tall gentle giant standing upright, blue-grey skin, "
@@ -250,6 +250,33 @@ def load_and_lock_project_characters():
 
         if not matched_mid and project_cache.get(tag):
             matched_mid = project_cache[tag]
+
+        if not matched_mid:
+            for ext in ("jpg", "jpeg", "png"):
+                cand_img = os.path.join(CHAR_REFS_DIR, f"{spec['key']}.{ext}")
+                if os.path.isfile(cand_img) and os.path.getsize(cand_img) > 0:
+                    log(f"📤 Đang upload ảnh nhân vật có sẵn ({os.path.basename(cand_img)}) cho {tag} lên Project {PROJECT_ID}...")
+                    try:
+                        with open(cand_img, "rb") as img_f:
+                            b64_img = base64.b64encode(img_f.read()).decode("utf-8")
+                        up_res = requests.post(
+                            f"{FLOWKIT_API}/api/flow/upload-image",
+                            json={
+                                "image_base64": b64_img,
+                                "project_id": PROJECT_ID,
+                                "file_name": f"{spec['key']}.{ext}",
+                                "mime_type": "image/png" if ext == "png" else "image/jpeg",
+                            },
+                            timeout=60,
+                        )
+                        if up_res.status_code == 200:
+                            udata = up_res.json()
+                            matched_mid = udata.get("media_id") or udata.get("_mediaId")
+                            if matched_mid:
+                                log(f"✅ Đã upload & khóa ảnh nhân vật {tag} -> media_id = {matched_mid}")
+                                break
+                    except Exception as e:
+                        log(f"⚠️ Lỗi khi upload ảnh nhân vật {tag}: {e}")
 
         if not matched_mid and spec.get("ref_prompt"):
             log(f"🎨 Đang tạo mới Nhân Vật & ảnh mẫu cố định cho {tag} trên Project {PROJECT_ID}...")

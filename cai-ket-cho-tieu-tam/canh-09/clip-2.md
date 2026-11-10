@@ -1,39 +1,57 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 3 shots, 16:9 widescreen, 24 fps, with hard cuts only at 5s, 10s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
-Photorealistic live-action Vietnamese family melodrama film set in Hà Nội today; warm natural grade with soft golden kitchen light, muted old-quarter ochres, cool blue-grey dawn and rain, glossy cold tones for the wealthy world, natural skin texture, subtle 35mm film grain, shallow depth of field.
+Photorealistic live-action Vietnamese family drama with a sharp comic bite, set in Hà Nội today; warm natural grade with jewel-toned silks glowing in a tailor shop, muted old-quarter ochres, glossy cold tones for the wealthy world, golden banquet light, natural skin texture, subtle 35mm film grain, shallow depth of field.
 
 [LIGHTING]
-Naturalistic soft lighting: warm tungsten and charcoal-stove glow at home, cool grey-blue dawn light with yellow streetlamps on the old-quarter pavement, crisp cold daylight in the glass office and luxury apartment, wet neon reflections on rainy nights.
+Naturalistic soft lighting: warm window light and a desk lamp over the sewing machine in the tailor shop, warm tungsten at home, cool blue-white glass light in the luxury apartment and the office, golden chandelier light at the banquet hall, soft green-gold daylight in the countryside.
 
 [LOCATION]
-Dawn on a Hà Nội old-quarter pavement corner: a small sticky-rice stall with a bamboo basket, a steaming pot and banana leaves under a big faded umbrella, low plastic stools, mopeds passing, blue-grey dawn light and yellow streetlamps.
+A quiet village house in the Red River Delta in the afternoon: a yellow-walled single-storey house with a tiled roof, a brick-paved front yard with areca palms and a water jar, an open front room with a wooden altar and framed photos on the wall, soft green-gold light.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
-- @Thu = Thu, 34, hardworking wife who sells sticky rice at dawn; slim, lightly sun-tanned, long black hair in a low loose bun, gentle tired eyes, no makeup, work-roughened hands; faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, dark-green cloth apron, plastic sandals.
-- @Vy = Vy, 24, Tùng's glamorous new secretary; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
+- @BaNhan = Bà Nhàn, 70, Tùng's sharp-witted mother who lives with Thu; small and thin, white hair in a neat low bun, kind deeply wrinkled face; brown knitted cardigan over a grey blouse, black trousers, cloth slippers, carved bamboo walking stick.
+- @Thu = Thu, 34, calm and quietly brilliant wife who runs a small áo dài tailor shop in the old quarter; slim, lightly sun-tanned, long black hair in a low loose bun, gentle watchful dark eyes, no makeup, work-roughened hands; faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, dark-green cloth apron, a yellow tailor's measuring tape around her neck, plastic sandals.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 50mm medium two-shot in profile across the stall, slow push-in; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
-- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the frame.
+[SHOT LIST — 3 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–5s: 35mm medium two-shot from the side wall, the two women in profile gazing up at the framed wedding photo on the wall at frame left, locked off.
+- Shot 2, 5–10s: 85mm close-up of the wife looking up at the photo, locked off.
+- Shot 3, 10–15s: 40mm medium two-shot of the two women beside the altar, slow lateral slide.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the cuts.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: Banana leaves and a round bamboo tray of steaming sticky rice on the stall table under the big faded umbrella, wisps of steam drifting through the blue dawn light.
-- 3.0–7.0s: @Vy walks up to the stall in her crimson dress and dark sunglasses and speaks sweetly across the steam with a tilted head, while @Thu keeps folding a banana-leaf parcel with her mouth closed.
-- 7.0–11.0s: @Vy finishes and closes her red lips, and @Thu slowly looks up from the parcel, lets her eyes travel over the crimson dress and the wavy hair, and answers calmly with a faint dry half-smile.
-- 11.0–15.0s: @Thu finishes speaking and closes her mouth, going back to tying the parcel, while @Vy's sweet smile stays frozen in place and her sunglasses slide halfway down her nose. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @BaNhan stands beside @Thu beneath a large framed wedding photo on the yellow wall above a wooden altar, squints up at the bride and is already speaking, pointing her bamboo stick at the frame, while @Thu looks up with her mouth closed.
+- 1–2s (Shot 1): In the frame a bride with long wavy dark-brown hair and winged eyeliner in a white gown smiles beside a lean groom with a styled black undercut and a thin moustache, while @BaNhan keeps talking, leaning closer on her stick.
+- 2–3s (Shot 1): @BaNhan keeps talking, screwing up her eyes at the bride's wavy hair as incense smoke drifts across the glass.
+- 3–4s (Shot 1): @BaNhan keeps going, turning her head toward @Thu, eyebrows knitted.
+- 4–5s (Shot 1): @BaNhan finishes her question, closes her mouth and waits.
+- 5–6s (CUT to Shot 2): @Thu, eyes still on the photo, answers slowly and quietly.
+- 6–7s (Shot 2): @Thu keeps speaking low and steady, lifting her chin toward the groom in the frame.
+- 7–8s (Shot 2): @Thu keeps talking, her gaze fixed on the thin moustache in the photo.
+- 8–9s (Shot 2): @Thu keeps going slowly, her face perfectly calm.
+- 9–10s (Shot 2): @Thu keeps speaking, finishing in the same low voice.
+- 10–11s (CUT to Shot 3): @Thu closes her mouth as @BaNhan peers up at the groom's thin moustache, her jaw drops, and she blurts out a fast reply.
+- 11–12s (Shot 3): @BaNhan keeps talking fast, jabbing her stick toward the groom, while @Thu stands beside her with her mouth closed.
+- 12–13s (Shot 3): @BaNhan keeps going, flapping a hand at the photo, her eyebrows flying up.
+- 13–14s (Shot 3): @BaNhan finishes and closes her mouth, turning to stare at @Thu.
+- 14–15s (Shot 3): @Thu keeps her eyes on the wedding photo, lips pressed together, while @BaNhan waits beside her with her eyebrows high, both silent. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 3.0–8.0s, spoken on camera by @Vy (young woman of 24, strictly standard Hà Nội Northern accent (never Southern accent), sweet honeyed soprano that turns cold and sharp, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter): "Chị ơi, cho em một gói xôi xéo, nghe nói ngày xưa anh Tùng mê xôi của chị lắm cơ."
-- Turn 2, 8.5–12.5s, spoken on camera by @Thu (woman of 34, strictly standard Hà Nội Northern accent (never Southern accent), soft warm mezzo, gentle but firm, speaking at a brisk, fluent pace, every word spoken once clearly without stutter): "Váy đỏ, tóc xoăn, giọng ngọt như rót mật. Cô là kế toán Tuấn đấy à?"
-- Both keep their mouths closed until 3.0s; then each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.9s, spoken on camera by @BaNhan (old woman of 70, thin raspy voice with a slight tremble and dry wit, drawn-out old Hà Nội vowels, speaking at a natural, even conversational pace, squinting, puzzled): "Cô dâu trông quen quen. Phải con bé váy đỏ lau nhà cho mẹ hôm nọ không?"
+- Turn 2, 5.4–9.6s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking slowly and softly, unhurried, with a short natural pause between phrases, low and steady): "Vâng, đúng nó đấy mẹ. Còn chú rể đứng bên cạnh, mẹ nhìn kỹ xem."
+- Turn 3, 10.1–13.4s, spoken on camera by @BaNhan (old woman of 70, thin raspy voice with a slight tremble and dry wit, drawn-out old Hà Nội vowels, speaking quickly in short lively phrases, every word still clear, stunned, then outraged): "Ối giời, cậu luật sư cầm cặp ngược! Hai đứa nó cưới nhau rồi à?"
+- Pacing: @BaNhan speaks at an even everyday pace, then @Thu answers slowly and calmly, then @BaNhan answers quickly; the change of speed is clearly audible.
+- Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 13.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: steam hissing from the pot, high heels stopping on wet pavement, a moped passing, banana leaves rustling. Ambience continues to 15.0s. No music.
+- SFX: a slow wooden clock ticking, incense crackling softly, a rooster far off, a sharp intake of breath. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

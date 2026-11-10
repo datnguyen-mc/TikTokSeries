@@ -1,4 +1,4 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 8s, 12s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -10,28 +10,44 @@ Bright natural lighting: warm golden morning and sunset light over the old quart
 Bà Hoa's bustling bún chả shop on an old-quarter street by day: charcoal grills smoking on the pavement, low plastic stools, steel tables, baskets of fresh herbs, warm sunlight through the smoke.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @BaHoa = Bà Hoa, 61, the old gang's sharp-tongued brains, now owner of a bún chả shop; plump, short curly permed hair dyed burgundy, sharp bright eyes, red lipstick, gold hoop earrings; purple floral silk blouse, black wide trousers, chunky gold bangle, low heeled sandals.
 - Extra: a long line of customers waiting on the pavement
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 24mm wide shot with a slow crane-up through the smoke; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 35mm medium shot of the shop owner at the grills, the queue soft behind her, slow crane-up.
+- Shot 2, 4–8s: 85mm close-up of her face in the smoke, locked off.
+- Shot 3, 8–12s: 50mm medium shot of the shop owner pointing her fan at a steel table, locked off.
+- Shot 4, 12–15s: 85mm close-up of the shop owner's face turning to the lens, locked off.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: Rows of grilled pork patties sizzle and spit over glowing charcoal on the pavement, thick white smoke billowing up through warm sunlight beside baskets of fresh herbs.
-- 3.0–7.0s: The camera rises through the smoke over low plastic stools and steel tables, revealing a long line of customers waiting along the pavement to the end of the street, mouths closed.
-- 7.0–11.0s: @BaHoa steps up to the grills in her purple floral silk blouse and fans the glowing charcoal briskly with a woven bamboo fan, orange sparks dancing up through the smoke.
-- 11.0–15.0s: @BaHoa glances at the camera through the smoke, her red lips closed in a knowing curve, and gives a slow sly wink as her gold hoop earrings swing. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): Thick smoke billows from charcoal grills on a sunny old-quarter pavement as @BaHoa, in her purple floral silk blouse, fans the coals briskly with a woven bamboo fan and is already shouting orders in a loud sing-song to a long line of customers.
+- 1–2s (Shot 1): @BaHoa keeps calling out fast in a sing-song voice, flipping a pork patty with long chopsticks.
+- 2–3s (Shot 1): @BaHoa points the bamboo fan toward a far table and shouts on.
+- 3–4s (Shot 1): @BaHoa points the bamboo fan down the line of customers and keeps calling.
+- 4–5s (CUT to Shot 2): @BaHoa's red lips rattle off the orders fast as orange sparks dance up through the smoke.
+- 5–6s (Shot 2): @BaHoa narrows her eyes at the queue and keeps scolding in sing-song.
+- 6–7s (Shot 2): @BaHoa wags the fan at someone in the queue, still calling, eyebrows raised.
+- 7–8s (Shot 2): @BaHoa jerks her chin to one side and keeps calling, gold hoop earrings swinging.
+- 8–9s (CUT to Shot 3): @BaHoa points the fan at a steel table and keeps shouting, her gold bangle jangling.
+- 9–10s (Shot 3): @BaHoa waves the fan over the sizzling patties and keeps calling.
+- 10–11s (Shot 3): @BaHoa sniffs the smoke with relish and calls out the last words.
+- 11–12s (Shot 3): @BaHoa finishes and closes her red lips in a knowing curve.
+- 12–13s (CUT to Shot 4): @BaHoa fans the charcoal twice more, mouth closed.
+- 13–14s (Shot 4): @BaHoa glances toward the camera and gives a slow sly wink.
+- 14–15s (Shot 4): @BaHoa's gold hoop earrings swing as she turns back to the grill, lips closed in a smirk. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–11.9s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Trưa hôm sau, quán bún chả đông nhất phố Hàng Mành khói bay mù mịt, khách xếp hàng dài tận đầu ngõ, bà chủ là Hoa, sáu mươi mốt tuổi, ba mươi năm trước là bộ não của cả băng, giang hồ gọi là Hoa Hổ." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue 0.4–11.3s, spoken on camera by @BaHoa (woman of 61, loud brassy alto with a teasing rasp and a sing-song market-seller cadence, speaking quickly in short lively phrases, every word still clear, brassy, bossy market sing-song), in Vietnamese with exact lip-sync, said exactly once: "Bàn ba hai suất, thêm đĩa nem, hai cốc trà đá! Bàn năm tính tiền! Ai đến sau thì xếp hàng cho tử tế, chen ngang là bà cho ăn bún không đấy nhé! Cái cậu áo xanh kia, đứng gọn vào cho người ta đi! Chả vừa ra lò, thơm chưa!" (no subtitles)
+- @BaHoa starts talking within the first second; whenever @BaHoa speaks, the face and lips are clearly visible in that shot; after the last word @BaHoa closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 11.3s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: pork sizzling over charcoal, a bamboo fan whooshing in quick strokes, chopsticks clinking on bowls, gold bangles jangling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

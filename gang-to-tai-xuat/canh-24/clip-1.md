@@ -1,4 +1,4 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 3s, 7s, 12s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -10,27 +10,43 @@ Bright natural lighting: warm golden morning and sunset light over the old quart
 Night on a century-old steel truss railway bridge over a wide dark river: rusty iron lattice beams lit by sparse lamps, a narrow motorbike lane beside the tracks, city lights on the far bank.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @Hung = Hưng, 31, flashy boss of a loan app company and a show-off livestreamer; tall and slim, dyed ash-blond undercut, round gold-rimmed glasses, cocky grin; oversized black satin bomber jacket over a plain white T-shirt, ripped black jeans, white high-top sneakers, several silver rings, a phone on a small selfie gimbal.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 24mm high wide shot slow crane-down; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–3s: 35mm medium tracking shot of the livestreamer running along the motorbike lane.
+- Shot 2, 3–7s: 85mm close-up of the livestreamer, handheld.
+- Shot 3, 7–12s: 50mm medium shot of the livestreamer turning between the iron beams, locked off.
+- Shot 4, 12–15s: 24mm high wide shot of the lone figure on the vast bridge, slow crane-up.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: A century-old steel truss railway bridge spanning a wide dark river at night, its rusty iron lattice lit by sparse lamps and city lights shimmering on the far bank, no person in frame.
-- 3.0–7.0s: The camera glides down along the bridge's long iron spine toward the narrow motorbike lane beside the tracks, lamplight pooling on the rails as river mist drifts through the beams.
-- 7.0–11.0s: @Hung runs into frame along the motorbike lane, panting, phone clutched to his chest, then skids to a halt in the middle of the span.
-- 11.0–15.0s: @Hung stares ahead with his mouth clamped shut as blue and red lights flash far away at the end of the bridge, sealing the way down, no figures visible there. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Hung runs along the narrow motorbike lane of the century-old steel bridge, panting, his phone with a glowing blank screen held up to his mouth, and is already shouting fast into it.
+- 1–2s (Shot 1): @Hung keeps shouting into the phone as he runs, satin bomber jacket flapping.
+- 2–3s (Shot 1): @Hung jabs the screen with his thumb and keeps talking, panting hard.
+- 3–4s (CUT to Shot 2): @Hung slows down mid-span in close-up, still talking frantically into the phone.
+- 4–5s (Shot 2): @Hung keeps shouting, shaking the phone as if it were broken.
+- 5–6s (Shot 2): @Hung skids to a halt and keeps talking, staring ahead as blue and red lights flash far away at the end of the bridge, no figures visible there.
+- 6–7s (Shot 2): @Hung's eyes widen behind his gold-rimmed glasses as he goes on, voice cracking.
+- 7–8s (CUT to Shot 3): @Hung glances back over his shoulder, still talking fast.
+- 8–9s (Shot 3): @Hung keeps talking in a ragged voice, looking from one end of the bridge to the other.
+- 9–10s (Shot 3): @Hung turns in a half circle between the iron beams, still talking.
+- 10–11s (Shot 3): @Hung asks his last frantic question into the phone, voice breaking.
+- 11–12s (Shot 3): @Hung finishes, closes his mouth and lowers the phone, chest heaving.
+- 12–13s (CUT to Shot 4): @Hung stands alone in the middle of the vast lamp-lit bridge, the river glittering far below.
+- 13–14s (Shot 4): Blue and red lights flash at the far end of the bridge, no figures visible there.
+- 14–15s (Shot 4): @Hung spins around toward the way he came, mouth closed, the wind tugging at his ash-blond hair. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–11.4s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Cây cầu sắt trăm tuổi, nơi ba mươi năm trước Lâm Rồng từng làm mưa làm gió, đêm nay lại chứng kiến một cuộc rượt đuổi, Hưng chạy đến giữa cầu thì khựng lại, phía bên kia đèn công an đã chắn kín lối." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue 0.4–11.5s, spoken on camera by @Hung (man of 31, loud slick nasal tenor of a livestream salesman, smug and showy, speaking quickly in short lively phrases, every word still clear, panting and frantic), in Vietnamese with exact lip-sync, said exactly once: "Béo! Nghe máy đi chứ! Gọi hết bọn nó ra cầu đón tao, ngay bây giờ! Mày trốn đâu rồi? Lại tắt máy à? Chết, phía trước đèn xanh đỏ chặn kín cả lối rồi. Sau lưng thì lão ấy đang tới gần. Giờ tao chạy đường nào đây, trời ơi là trời?" (no subtitles)
+- @Hung starts talking within the first second; whenever @Hung speaks, the face and lips are clearly visible in that shot; after the last word @Hung closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 11.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: wind whistling through iron girders, the river lapping far below, sneakers pounding on iron plates, a distant police siren whooping softly. Ambience continues to 15.0s. No music.
+- SFX: wind whistling through iron girders, the river lapping far below, sneakers pounding on iron plates, a phone ringing out unanswered, a distant police siren whooping softly. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

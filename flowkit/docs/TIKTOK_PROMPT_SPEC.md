@@ -64,6 +64,13 @@ continuity between clips. Do not change that.
 10. If you change dialogue, update the same lines wherever the episode README.md/caption.md quote them, so docs and
     prompts agree. Do not touch other episodes, runners, the database, git, or files outside your episode folder(s).
 
+## Natural speech (user, 10/11/2026: "còn nhiều tình tiết với giọng bị lặp lại… mọi thứ phải tự nhiên hơn")
+- Each clip moves the story on; never restate what the previous clip already said, and cap any content phrase at two uses per episode (a running gag word may appear once more as the punchline).
+- People do not say their own name ("Ngày nào cũng Heo Lười giữ lửa" → "Ngày nào cũng em giữ lửa"); a series catchphrase that uses a nickname ("Để Đại Ca!") at most once per episode.
+- Speak like people, not like a recipe card: Phèo says one or two quantities per turn in a casual sentence ("Một thìa dầu hào, chút đường, ướp mười lăm phút là thấm"); the full list stays in the README and caption. Never chop one turn into a string of bare fragments.
+- Vary the emotion/speed slot: the same character never gets the same tag ("steady medium pace") in two clips in a row; fast for gags and panic, slow for the warm or sad beat.
+- 10-second clips: keep 18–34 syllables. Renders on 10/11 showed lines spoken exactly once at this density, while 15-second film clips with only about 30 syllables made Omni repeat the line to fill the time.
+
 ## Self-check (run before you finish)
 `python3 flowkit/scripts/check_tiktok_episode.py <episode dir>`
 It must print OK for all 6 clips (no ERROR lines). Then reread each clip once as the model would: one coherent

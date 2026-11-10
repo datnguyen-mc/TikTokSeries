@@ -1,65 +1,65 @@
-# 🎬 YOUTUBE CAPTION & METADATA — "CÁI KẾT CHO TIỂU TAM" (FULL 25 CẢNH)
+# 🎬 YOUTUBE CAPTION & METADATA — "CHÍNH THẤT CAO TAY, TIỂU TAM TRẮNG TAY" (FULL 25 CẢNH)
 
-*Tên cũ: "Vợ Tào Khang" (đổi ngày 09/11/2026).*
+*Tên cũ: "Cái Kết Cho Tiểu Tam" (bản 2, thay ngày 10/11/2026) và "Vợ Tào Khang" (bản 1).*
 
 ## 1. TIÊU ĐỀ YOUTUBE ĐỀ XUẤT (CHỌN 1 TRONG 3)
 
-1. **CÁI KẾT CHO TIỂU TAM (Full) | Chồng Giám Đốc Bỏ Vợ Bán Xôi Theo Thư Ký Váy Đỏ — Quả Báo Đến Quá Nhanh | Phim Tình Cảm Gia Đình**
-2. **Cái Kết Cho Tiểu Tam — Dàn Cảnh Ngã Cầu Thang Vu Oan Vợ Cả, Chiếc Camera Bếp Vạch Trần Tất Cả | Phim Ngắn Việt Nam**
-3. **[PHIM TÌNH CẢM] Cái Kết Cho Tiểu Tam | Vợ Bán Bông Tai Cưới Cho Chồng Làm Ăn, Ngày Giàu Chồng Bỏ Theo Bồ Trẻ**
+1. **CHÍNH THẤT CAO TAY, TIỂU TAM TRẮNG TAY (Full) | Tiểu Tam Đến Tận Tiệm Vợ Cả Đặt May Áo Cưới Và Cái Kết | Phim Gia Đình Việt Nam**
+2. **Tiểu Tam Đặt May Áo Cưới Ở Tiệm Của Chính Thất — Ngày Ăn Hỏi Nhận Quà Cưới Là Tấm Ảnh Cưới Lần Trước | Chính Thất Cao Tay**
+3. **[PHIM GIA ĐÌNH] Chính Thất Cao Tay, Tiểu Tam Trắng Tay | Chồng Hứa Tặng Bồ Căn Nhà… Đứng Tên Vợ**
 
 ---
 
 ## 2. MÔ TẢ VIDEO YOUTUBE (COPY & PASTE)
 
 ```text
-💔 CÁI KẾT CHO TIỂU TAM (Full 25 Phút) — Phim Tình Cảm Gia Đình Việt Nam
-🎙️ 100% lời thoại nhân vật, giọng Hà Nội
-🍚 Dành tặng những người vợ thức dậy trước mặt trời để lo cho cả gia đình...
+🧵 CHÍNH THẤT CAO TAY, TIỂU TAM TRẮNG TAY (Full 25 Phút) — Phim Gia Đình Việt Nam
+🎙️ 100% lời thoại nhân vật, giọng Hà Nội — người nói to là người đang thua
+👗 Một chiếc áo dài cưới đỏ, một cái thước dây vàng, và một người vợ không bao giờ to tiếng...
 
 📖 TÓM TẮT:
-Mười hai năm trước, Thu bán đôi bông tai cưới để chồng có vốn làm ăn.
-Mười hai năm sau, chồng cô là giám đốc, còn cô vẫn đồ xôi từ bốn giờ sáng.
-Rồi cô thư ký váy đỏ xuất hiện — xinh đẹp, ngọt ngào, và độc ác.
-Que thử thai hai vạch, cú ngã trên cầu thang, tờ đơn ly hôn trên bàn ăn...
-Thu ra đi tay trắng, chỉ mang theo con gái và người mẹ chồng đã chọn đứng về phía con dâu.
-Nhưng trong căn bếp năm nào, có một chiếc camera nhỏ vẫn lặng lẽ ghi lại tất cả.
-Và tiểu tam sẽ nhận một cái kết không ai ngờ...
+Một buổi chiều, cô thư ký váy đỏ bước vào tiệm may áo dài trên phố lụa,
+đặt lên bàn một phong bì dày: "Em muốn may áo cưới. Chú rể là chồng của chị."
+Người chủ tiệm chỉ rút thước dây: "Giận thì tốn vải lắm em ạ."
+Mỗi buổi thử áo là một ván cờ. Tiểu tam khoe kế hoạch, chính thất lặng lẽ đo từng số đo.
+Một vết hằn nhẫn trên ngón tay, một ông "anh họ luật sư" cầm cặp ngược,
+một tấm ảnh cưới treo trên bàn thờ ở quê, và căn nhà người chồng hứa tặng bồ... đứng tên ai?
+Ngày ăn hỏi, chính thất đến trong tạp dề, mang theo áo cưới và một món quà cưới không ai ngờ.
 
 ⏱️ MỤC LỤC:
-00:00 Người đàn bà thức dậy trước mặt trời
-01:00 Đôi bông tai đã bán
-02:00 Ông giám đốc mới phất
-03:00 Cô thư ký váy đỏ
-04:00 Người tình bí mật
-05:00 Sợi tóc trên áo chồng
-06:00 Chuyến công tác Đà Nẵng
-07:00 Bức ảnh lúc nửa đêm
-08:00 Tiểu tam ghé gánh xôi
-09:00 Mâm cơm đòi ly hôn
-10:00 Nước mắt bên bếp than
-11:00 Hai vạch hồng
-12:00 Cú ngã trên cầu thang
-13:00 Mẹ chồng chọn con dâu
-14:00 Căn phòng trọ mười mét vuông
-15:00 Chữ ký định mệnh
-16:00 Quán xôi của Thu
-17:00 Công ty rỗng ruột
-18:00 Sau lớp kính quán cà phê
-19:00 Căn nhà bị niêm phong
-20:00 Chuyến bay không cất cánh
-21:00 Gói xôi lúc bình minh
-22:00 Mẹ vẫn là mẹ
-23:00 Buổi diễn văn nghệ
-24:00 Vợ tào khang — cái kết cho tiểu tam
+00:00 Khách lạ đặt áo cưới
+01:00 Bữa cơm có mùi nước hoa
+02:00 Chiếc hộp sơn mài của mẹ chồng
+03:00 Vợ chồng nhà lừa
+04:00 Buổi thử áo đầu tiên
+05:00 Tờ giấy ký không đọc
+06:00 Anh họ luật sư
+07:00 Cô dâu về ra mắt
+08:00 Về quê cô dâu
+09:00 Bé Na theo bố
+10:00 Bể bơi trên tầng thượng
+11:00 Năm tỷ sính lễ
+12:00 Chính thất đồng ý ly hôn
+13:00 Buổi thử áo cuối cùng
+14:00 Đêm trước đám hỏi
+15:00 Đám hỏi bắt đầu
+16:00 Món quà cưới
+17:00 Sổ đỏ đứng tên ai
+18:00 Lối thoát hiểm
+19:00 Cây tùng đổ
+20:00 Ghế chủ tịch
+21:00 Phòng thăm gặp
+22:00 Viên gạch đầu tiên
+23:00 Áo dài mừng thọ
+24:00 Đo lòng người
 
 ⚠️ Phim hư cấu, kịch bản gốc. Mọi nhân vật và tình tiết đều do tác giả sáng tác; mọi sự trùng hợp là ngẫu nhiên.
 
-#caiketchotieutam #tieutam #phimtinhcam #phimgiadinh #ngoaitinh #beba #chongphanboi #quabao #phimngan #phimvietnam
+#chinhthatcaotay #tieutam #caiketchotieutam #phimgiadinh #ngoaitinh #mechongnangdau #aodai #phimngan #phimvietnam
 ```
 
 ---
 
 ## 3. TAGS
 
-cái kết cho tiểu tam, tiểu tam, tiểu tam giật chồng, bé ba, người thứ ba, ngoại tình, chồng bỏ vợ, chồng phản bội, vợ cả, quả báo, mẹ chồng nàng dâu, phim tình cảm, phim gia đình, phim ngắn việt nam, drama gia đình, bán xôi, phim tình cảm gia đình việt nam
+chính thất cao tay, tiểu tam trắng tay, cái kết cho tiểu tam, tiểu tam, chính thất, vợ cả, tiểu tam đặt áo cưới, tiệm may áo dài, áo dài cưới, ngoại tình, chồng phản bội, mẹ chồng nàng dâu, lừa đảo đại gia, sổ đỏ đứng tên vợ, phim gia đình, phim hài gia đình, phim ngắn việt nam, drama gia đình

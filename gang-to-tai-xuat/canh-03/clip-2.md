@@ -1,4 +1,4 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 8s, 12s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -10,27 +10,43 @@ Bright natural lighting: warm golden morning and sunset light over the old quart
 Night in a narrow old-quarter alley outside Lâm's tube house: a rolling steel shutter, wet pavement with puddles, a single yellow streetlamp, potted plants, tangled wires overhead.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @Beo = Béo, 28, Hưng's heavyset debt-collector leader; big round build, shaved head with a lightning-bolt pattern shaved on one side, small eyes, gold front tooth; black tank top, camouflage shorts, flip-flops, a cheap fake-gold chain.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 50mm medium low-angle shot with a smooth lateral dolly toward the shutter; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 35mm medium low-angle shot of the bald man with the bucket, smooth lateral dolly.
+- Shot 2, 4–8s: 85mm close-up of the bald man bellowing up at the windows, locked off.
+- Shot 3, 8–12s: 50mm medium shot of the bald man walking toward the shutter, slow arc.
+- Shot 4, 12–15s: 28mm wide shot of the closed rolling steel shutter with the bald man in the foreground, locked off.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: A parked black motorbike ticks under the yellow streetlamp beside a puddle, a dented bucket of red paint hanging from its handlebar as exhaust haze drifts through the light.
-- 3.0–7.0s: @Beo strides into the lamplight in flip-flops, his fake-gold chain swaying over his black tank top, and unhooks the paint bucket from the handlebar with one thick hand, mouth closed in a smirk.
-- 7.0–11.0s: @Beo plants his flip-flops a few steps back from the closed rolling steel shutter and heaves the bucket forward, a glossy arc of bright red paint sailing through the lamplight onto the empty steel.
-- 11.0–15.0s: Red paint streams down the shutter in thick glossy rivulets onto the doorstep as @Beo steps back admiring his work, the empty bucket dangling from one hand, his lips shut in a smug grin. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Beo strides into the lamplight in flip-flops, unhooks a dented bucket of red paint from a parked black motorbike's handlebar and is already shouting up at the dark windows of the alley.
+- 1–2s (Shot 1): @Beo keeps bellowing, his fake-gold chain swaying over his black tank top as he turns in a circle.
+- 2–3s (Shot 1): @Beo waves his free arm at the shuttered windows above, shouting on with a gold-toothed grin.
+- 3–4s (Shot 1): @Beo jabs a finger at his own grinning face as he keeps shouting.
+- 4–5s (CUT to Shot 2): @Beo leers up at a window and keeps mocking loudly, his gold front tooth glinting.
+- 5–6s (Shot 2): @Beo spreads his arms wide and keeps shouting, the heavy bucket swinging.
+- 6–7s (Shot 2): @Beo asks a mocking question up at the windows, cupping a hand to his ear.
+- 7–8s (Shot 2): @Beo wipes his nose with the back of his hand and shouts on, eyes gleaming.
+- 8–9s (CUT to Shot 3): @Beo walks toward the closed rolling steel shutter, still shouting.
+- 9–10s (Shot 3): @Beo plants his flip-flops a few steps back from the shutter and keeps bellowing.
+- 10–11s (Shot 3): @Beo raises his eyebrows comically and shouts the last mocking words.
+- 11–12s (Shot 3): @Beo finishes, closes his mouth and lifts the bucket with both hands.
+- 12–13s (CUT to Shot 4): @Beo heaves the bucket forward and a glossy arc of bright red paint splashes across the empty steel shutter.
+- 13–14s (Shot 4): Red paint streams down the steel and pools on the doorstep.
+- 14–15s (Shot 4): @Beo steps back to admire it, swinging the empty bucket, mouth closed in a smug grin. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–12.4s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Cầm đầu là Béo Đầu Sấm, đòi nợ thuê cho công ty Phú Quý, khét tiếng khắp các trường đại học Hà Nội, hắn xách xô sơn xuống xe, chẳng nói chẳng rằng, hắt thẳng lên cánh cửa cuốn, sơn đỏ chảy loang lổ xuống tận bậc thềm." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue 0.4–11.3s, spoken on camera by @Beo (man of 28, booming rough bass, blustering and a little hoarse from shouting, speaking quickly in short lively phrases, every word still clear, boastful mocking bellow), in Vietnamese with exact lip-sync, said exactly once: "Kính thưa bà con cô bác, mở cửa sổ ra mà xem! Sinh viên trường nào ở Hà Nội cũng biết mặt anh. Vay thì vui, đến lúc trả thì trốn à? Trốn được mấy hôm hả em? Không sao, bọn anh sơn lại cửa cho, miễn phí nhé, khỏi cảm ơn!" (no subtitles)
+- @Beo starts talking within the first second; whenever @Beo speaks, the face and lips are clearly visible in that shot; after the last word @Beo closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 11.3s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: a side stand clanking down, a metal bucket handle squeaking, a heavy wet splash of paint across corrugated steel, paint dripping and trickling. Ambience continues to 15.0s. No music.
+- SFX: a metal bucket handle squeaking, a heavy wet splash of paint across corrugated steel, paint dripping and trickling, a dog barking two houses away. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

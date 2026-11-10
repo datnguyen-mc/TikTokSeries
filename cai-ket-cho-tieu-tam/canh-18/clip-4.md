@@ -1,35 +1,59 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 5s, 9s, 13s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
-Photorealistic live-action Vietnamese family melodrama film set in Hà Nội today; warm natural grade with soft golden kitchen light, muted old-quarter ochres, cool blue-grey dawn and rain, glossy cold tones for the wealthy world, natural skin texture, subtle 35mm film grain, shallow depth of field.
+Photorealistic live-action Vietnamese family drama with a sharp comic bite, set in Hà Nội today; warm natural grade with jewel-toned silks glowing in a tailor shop, muted old-quarter ochres, glossy cold tones for the wealthy world, golden banquet light, natural skin texture, subtle 35mm film grain, shallow depth of field.
 
 [LIGHTING]
-Naturalistic soft lighting: warm tungsten and charcoal-stove glow at home, cool grey-blue dawn light with yellow streetlamps on the old-quarter pavement, crisp cold daylight in the glass office and luxury apartment, wet neon reflections on rainy nights.
+Naturalistic soft lighting: warm window light and a desk lamp over the sewing machine in the tailor shop, warm tungsten at home, cool blue-white glass light in the luxury apartment and the office, golden chandelier light at the banquet hall, soft green-gold daylight in the countryside.
 
 [LOCATION]
-Dusk on a busy Hà Nội street, rush-hour mopeds, neon shop lights flickering on.
+A lavish hotel banquet hall set for an engagement ceremony in the evening: round tables with white cloths and red roses, a low stage with a flower arch and a gold heart backdrop with no letters, trays of betrothal gifts covered in red cloth, crystal chandeliers, warm golden light.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
-- @Tung = Tùng, 37, Thu's husband, newly rich construction company director; tall, slightly heavy, neatly gelled black hair, clean-shaven, heavy-lidded confident eyes; tailored charcoal-grey suit, white shirt open at the collar, gold wristwatch, polished black shoes.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
+- @Khai = Khải, 30, Vy's secret husband who poses as her lawyer cousin; lean, styled black undercut hair, thin moustache, sly half-smile; black slim-fit shirt with rolled sleeves, beige chinos, white sneakers, silver chain bracelet.
+- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; a red silk wedding áo dài embroidered with a gold phoenix, a matching red khăn vấn headband, a thin gold necklace, beige high heels.
+- Wardrobe: in this shot @Vy wears the outfit written above, not the outfit in the reference image; face and hair stay identical.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 50mm medium tracking shot along the pavement; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–5s: 50mm medium shot of the man in black slipping behind the flower arch, handheld.
+- Shot 2, 5–9s: 85mm close-up of the bride in the shadows, golden light flickering on her face.
+- Shot 3, 9–13s: 40mm medium two-shot of the couple edging along the back of the backdrop, slow lateral track.
+- Shot 4, 13–15s: 28mm wide shot of the dark wings behind the stage as the couple reaches the side door, locked off.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the cuts.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: A busy Hà Nội street at dusk, rush-hour mopeds streaming past far beyond a row of parked bikes, neon shop lights with no letters flickering on above the empty pavement.
-- 3.0–7.0s: @Tung walks slowly into frame along the pavement in his charcoal-grey suit, his collar askew, muttering to himself with his face and lips clearly visible.
-- 7.0–11.0s: @Tung keeps speaking as he stops at a dark shop window, squares his shoulders and straightens his collar in his own reflection, lifting his chin.
-- 11.0–15.0s: @Tung finishes speaking and closes his mouth with a firm little nod, turning into a narrow side alley as thunder rumbles and the first fat raindrops darken his shoulders. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Khai slips behind the flower arch with the black leather document folder under his arm, glances back and is already speaking fast in a low hiss.
+- 1–2s (Shot 1): @Khai keeps hissing urgently, tapping the folder with two fingers.
+- 2–3s (Shot 1): @Khai keeps talking quickly over his shoulder, eyes darting to the gaps in the roses.
+- 3–4s (Shot 1): @Khai goes on in a rapid whisper, golden light from the hall flickering through the roses onto his face.
+- 4–5s (Shot 1): @Khai finishes and closes his mouth, beckoning someone in after him.
+- 5–6s (CUT to Shot 2): @Vy hurries in, gathers the long front flap of her red wedding áo dài in one hand and answers in a breathless whisper.
+- 6–7s (Shot 2): @Vy keeps whispering fast, pointing toward a dark side door beyond the coils of cable.
+- 7–8s (Shot 2): @Vy keeps whispering, her eyes on the glowing gaps in the arch, her red khăn vấn headband askew.
+- 8–9s (Shot 2): @Vy finishes and closes her mouth, catching her breath.
+- 9–10s (CUT to Shot 3): @Khai nods and replies low and quick, already moving along the back of the backdrop.
+- 10–11s (Shot 3): @Khai keeps speaking low and decisive, while @Vy follows close behind with her mouth closed.
+- 11–12s (Shot 3): @Khai keeps talking under his breath, the folder pressed to his chest.
+- 12–13s (Shot 3): @Khai finishes and closes his mouth, one hand reaching for the handle of the dark side door.
+- 13–14s (CUT to Shot 4): Both stand silent at the side door, golden light flickering over their faces as the murmur of the hall swells behind the backdrop.
+- 14–15s (Shot 4): @Khai eases the side door open onto darkness, and @Vy follows him through in tiny steps, both silent. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue 3.0–12.3s, spoken on camera by @Tung (man of 37, strictly standard Hà Nội Northern accent (never Southern accent), deep confident baritone, impatient and cold, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter), in Vietnamese with exact lip-sync, said exactly once: "Mất công ty, mất tiền, mất cả Vy. Không sao, giám đốc thì phải bản lĩnh. Thôi về nhà ngủ một giấc, ít ra mình vẫn còn căn nhà trong ngõ cũ. Nhà thì ai lấy được." (no subtitles)
-- From 3.0s onward, @Tung's face and lips stay clearly visible while speaking; after the last word @Tung closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking quickly in short lively phrases, every word still clear, hushed and urgent): "Tiền vẫn nằm yên trong tài khoản. Đi ngay, kẻo bà vợ cả lại lôi thêm cái gì ra nữa!"
+- Turn 2, 5.1–8.7s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking quickly in short lively phrases, every word still clear, breathless whisper): "Lối thoát hiểm sau bếp, anh đi trước đi. Xe em đỗ sẵn ở cửa sau rồi."
+- Turn 3, 9.2–13.0s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking at a natural, even conversational pace, low and decisive, already moving): "Hai vé bay sáng ngày kia trong túi em, đổi ngay sang chuyến đêm nay."
+- Pacing: @Khai speaks quickly, then @Vy answers quickly, then @Khai answers at an even everyday pace; the change of speed is clearly audible.
+- Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 13.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: rush-hour traffic roaring in the distance, horns, a buzzing neon tube, thunder rumbling, the first drops of rain. Ambience continues to 15.0s. No music.
+- SFX: the muffled murmur of the banquet hall beyond the backdrop, rustling silk, quick hushed footsteps on wooden boards, a cable rattling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

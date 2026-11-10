@@ -1,4 +1,4 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 6s, 10s, 13s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -15,25 +15,43 @@ Keep every face, hairstyle and outfit exactly consistent. Attached reference ima
 - @Lam = Ông Lâm, 63, humble motorbike-taxi driver who was once the old quarter's legendary gang boss; wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles; faded grey zip-up windbreaker over a white tank top, loose khaki trousers, plastic sandals, a battered green pith helmet, a dark-green dragon tattoo on his right forearm usually hidden by his sleeve.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 50mm close-up two-shot of both faces in profile, slow push-in; one smooth camera move from start to end, no cuts.
-- Continuity: continues the same moment, place and lighting as the previous shot; same framing axis, no jump.
-- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the frame.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–6s: 40mm medium two-shot of both on their stools, holding the previous framing.
+- Shot 2, 6–10s: 50mm over-the-shoulder shot from behind the girl onto the old man.
+- Shot 3, 10–13s: 50mm close-up two-shot of both faces in profile, slow push-in.
+- Shot 4, 13–15s: 35mm wide shot of both on their stools facing the city, slow pull-back.
+- Continuity: continues the same moment, place and lighting as the previous shot; Shot 1 keeps the previous framing axis, no jump.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the cuts.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; clothing stays fully worn from the first frame.
-- 0.0–3.0s: @Mai lifts her phone, its screen glowing blank, sniffs once and taps its edge with one finger, lips closed, as @Lam's hand slides back to his knee.
-- 3.0–7.0s: @Mai speaks quickly to @Lam with a wry twist of her lips, holding the phone up high in a showy livestreamer pose, while he listens with lips closed.
-- 7.0–11.0s: @Mai lowers the phone and closes her mouth, and @Lam freezes, his thick grey eyebrows rising, then turns to her and speaks low and steady with a sly glint.
-- 11.0–15.0s: @Lam taps his own lips with one finger and points out at the city as he finishes, then closes his mouth, while @Mai breaks into a slow closed-lip grin. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Mai lifts her phone, its screen glowing blank, sits up straight and is already speaking fast to @Lam with a wry twist of her lips.
+- 1–2s (Shot 1): @Mai keeps talking quickly, holding the phone up high in a showy livestreamer pose.
+- 2–3s (Shot 1): @Mai keeps speaking, sweeping her free hand wide like a huge crowd.
+- 3–4s (Shot 1): @Mai keeps talking, flashing an imaginary watch on her wrist with a mocking pout.
+- 4–5s (Shot 1): @Mai keeps talking, tapping the phone with a knowing smirk.
+- 5–6s (Shot 1): @Mai lowers the phone as she finishes and closes her mouth.
+- 6–7s (CUT to Shot 2): @Lam's thick grey eyebrows rise as he turns to her and starts answering slowly, low and steady.
+- 7–8s (Shot 2): @Lam keeps speaking slowly with a sly glint, while @Mai listens, mouth closed.
+- 8–9s (Shot 2): @Lam keeps talking and taps his own lips with one finger.
+- 9–10s (Shot 2): @Lam keeps speaking low, a slow smile creasing his face.
+- 10–11s (CUT to Shot 3): @Lam keeps talking steadily and points out at the city lights.
+- 11–12s (Shot 3): @Lam keeps speaking, nodding toward the distant glass towers.
+- 12–13s (Shot 3): @Lam finishes and closes his mouth, while @Mai breaks into a slow closed-lip grin.
+- 13–14s (CUT to Shot 4): @Mai and @Lam look out at the glittering city side by side, mouths closed.
+- 14–15s (Shot 4): The two small figures sit still on their stools above the sea of tiled roofs, the lake glowing far off. The sequence settles on this as its final frame.
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 3.0–7.8s, spoken on camera by @Mai (young woman of 20, strictly standard Hà Nội Northern accent (never Southern accent), clear lively soprano, quick and earnest, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter): "Ông ơi, Hưng livestream mỗi tối, có hai triệu người xem, nó thích khoe khoang hơn cả thích tiền."
-- Turn 2, 8.3–12.7s, spoken on camera by @Lam (man of 63, strictly standard Hà Nội Northern accent (never Southern accent), calm husky low voice with dry humor, speaking at a brisk, steady pace, every word spoken once clearly without stutter): "Thế thì mình để chính cái miệng nó tự khai, trước mặt hai triệu người, con ạ."
-- Both keep their mouths closed until 3.0s; then each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
+- Turn 1, 0.4–5.9s, spoken on camera by @Mai (young woman of 20, bright clear high voice, quick and earnest, a little breathless when worried, speaking quickly in short lively phrases, every word still clear, wry, quickening with an idea): "Khoan, ông ơi. Tối nào Hưng cũng lên sóng, người xem đông như hội, khoe xe, khoe đồng hồ. Nó thích khoe còn hơn thích tiền."
+- Turn 2, 6.4–13.0s, spoken on camera by @Lam (man of 63, low husky voice with a slow dry drawl, slightly gravelly, calm even when angry, speaking slowly and softly, unhurried, with a short natural pause between phrases, low and steady, an idea dawning): "Thích khoe à? Thế thì mình để chính cái miệng nó tự khai, ngay trên sóng của nó, trước mặt cả triệu người."
+- Pacing: @Mai speaks quickly, then @Lam answers slowly and calmly; the change of speed is clearly audible.
+- Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 13.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: a phone buzzing faintly, the night breeze, wind chimes tinkling, distant horns. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

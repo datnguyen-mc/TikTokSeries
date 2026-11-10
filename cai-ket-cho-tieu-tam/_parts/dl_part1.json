@@ -1,0 +1,2169 @@
+[
+ {
+  "num": 1,
+  "title": "Khách Lạ Đặt Áo Cưới",
+  "time_label": "Chiều, tiệm may áo dài phố Hàng Gai (00:00–01:00)",
+  "location": "Tiệm may áo dài nhỏ của Thu trên phố Hàng Gai, phố cổ Hà Nội, buổi chiều.",
+  "axis": "Máy quay đặt cạnh kệ lụa nhìn ra cửa kính: bàn cắt ở giữa, máy may bên trái, gương thử đứng bên phải, cửa kính có chuông đồng ở xa nhất.",
+  "props": "Thước dây vàng trên cổ Thu, cây lụa đỏ, phong bì đỏ dày, chuông đồng trên cửa, máy may cũ màu đen, phấn may.",
+  "setting": "Thu's narrow áo dài tailor shop on an old-quarter silk street by day: bolts of jewel-toned silk stacked on wooden shelves to the ceiling, two headless dress forms in half-finished áo dài, an old black sewing machine on a worn wooden table, a tall standing fitting mirror, a long cutting table with tailor's chalk and paper patterns, a small brass bell above the glass door, soft daylight from the street.",
+  "clips": [
+   {
+    "id": "01.1",
+    "chars": [
+     "@Thu",
+     "@BaNhan"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Thu này, chồng con dạo này đi họp về toàn thơm nước hoa đàn bà đấy nhé.",
+      "pace": "normal",
+      "tone": "dry, half to herself"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Đàn ông có tiền thì mũi đàn bà phải thính hơn, mẹ ạ. Mẹ lo gì.",
+      "pace": "slow",
+      "tone": "calm, eyes on the needle"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Thính thôi chưa đủ đâu, con phải tinh nữa cơ. Mẹ nói thế thôi đấy.",
+      "pace": "fast",
+      "tone": "a dry chuckle"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "the rhythmic clatter of an old treadle sewing machine, rustling silk, motorbikes passing on the street outside, a soft snip of thread",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "50mm medium shot of the old woman at the cutting table, gentle push-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the tailor bent over the sewing machine, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "35mm medium two-shot across the shop, slow drift"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the shop toward the inner staircase, locked off"
+     }
+    ],
+    "steps": [
+     "@BaNhan stands at the cutting table folding a length of pale silk and is already speaking, dry and half to herself, without looking up.",
+     "@BaNhan keeps talking as she smooths the fold flat with her thin old hands.",
+     "@BaNhan raises one eyebrow toward the sewing machine as she goes on.",
+     "@BaNhan finishes the sentence and lays the folded silk on the pile.",
+     "@BaNhan closes her mouth and waits, holding her bamboo stick.",
+     "@Thu sits at the sewing machine guiding red silk under the needle and starts answering slowly in a low calm voice, eyes on the needle.",
+     "@Thu keeps speaking evenly, a faint smile at the corner of her mouth.",
+     "@Thu rocks the treadle once as she adds a short last remark.",
+     "@Thu finishes, closes her mouth and keeps sewing.",
+     "The needle stops; @Thu breathes out softly, mouth closed.",
+     "@BaNhan wags one finger toward @Thu and fires back a quick dry remark with a chuckle.",
+     "@BaNhan keeps talking briskly, eyes twinkling, while @Thu looks up at her, mouth closed.",
+     "@BaNhan finishes her last words and closes her mouth.",
+     "@BaNhan shuffles toward the narrow inner staircase with her carved bamboo stick, mouth closed.",
+     "@Thu snips the red thread with small shears and smooths the silk, alone at the machine, thoughtful and silent."
+    ]
+   },
+   {
+    "id": "01.2",
+    "chars": [
+     "@Vy",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Vy",
+      "line": "Chị là chủ tiệm ạ? Em cần may một bộ áo dài cưới, thật đẹp vào, tiền không thành vấn đề.",
+      "pace": "normal",
+      "tone": "sweet and a little haughty"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Em ngồi đi. Cưới ngày nào để chị xếp lịch?",
+      "pace": "normal",
+      "tone": "polite and even"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Tháng sau ạ. Chị đo kỹ cho em nhé, em kén lắm, khó chiều lắm.",
+      "pace": "normal",
+      "tone": "coy, enjoying a private joke"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a brass door bell jingling, street traffic swelling then muffled as the door closes, high heels clicking on tiles, a stool scraping",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium tracking shot following the customer in from the glass door"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the customer by the silk shelves, slow push-in"
+     },
+     {
+      "until": 9,
+      "camera": "50mm over-the-shoulder shot from behind the customer onto the tailor"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot at the cutting table, slow push-in"
+     }
+    ],
+    "steps": [
+     "The brass bell jingles as @Vy steps in through the glass door and is already speaking, sweet and a little haughty, looking around.",
+     "@Vy keeps talking as she walks along the bolts of jewel-toned silk, heels clicking on the tiles.",
+     "@Vy runs one hand along a bolt of red silk as she goes on.",
+     "@Vy stops at the cutting table, finishing her request with a bright smile.",
+     "@Vy closes her mouth and tilts her head, waiting.",
+     "@Thu rises from the sewing machine, watching her, mouth closed.",
+     "@Thu sets down her chalk and answers politely and evenly.",
+     "@Thu pulls out a wooden stool beside the cutting table as she finishes.",
+     "@Thu closes her mouth and gestures to the stool.",
+     "@Vy sits down and starts to reply with a small private smile, as if enjoying a joke.",
+     "@Vy keeps talking while she crosses her legs.",
+     "@Vy sets her small white handbag on the cutting table, still talking.",
+     "@Vy finishes and closes her mouth, looking @Thu up and down.",
+     "@Thu picks up a pencil and an order pad, mouth closed.",
+     "@Thu holds the pencil over the pad, waiting, while @Vy smiles without a word."
+    ]
+   },
+   {
+    "id": "01.3",
+    "chars": [
+     "@Vy",
+     "@Thu"
+    ],
+    "continuity": "continuous",
+    "sfx": "paper sliding across wood, the street muffled behind glass, a clock ticking on the shelf, one slow breath",
+    "turns": [
+     {
+      "speaker": "@Vy",
+      "line": "Chú rể là anh Tùng, giám đốc công ty xây dựng. Chồng của chị đấy, chắc chị biết.",
+      "pace": "slow",
+      "tone": "savoring every word, sweetly cruel"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Thế à. Em muốn cổ cao hay cổ thuyền? Lụa tơ tằm hay gấm?",
+      "pace": "slow",
+      "tone": "very quiet, perfectly level"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Chị có nghe rõ em vừa nói gì không đấy? Hay chị điếc thật?",
+      "pace": "fast",
+      "tone": "thrown off, needled"
+     }
+    ],
+    "shots": [
+     {
+      "until": 5,
+      "camera": "40mm medium two-shot at the cutting table, holding the previous framing"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the tailor, very slow push-in"
+     },
+     {
+      "until": 13,
+      "camera": "50mm over-the-shoulder shot from behind the tailor onto the customer"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot across the cutting table, locked off"
+     }
+    ],
+    "steps": [
+     "@Vy slides a thick red envelope across the cutting table with two fingers and is already speaking slowly and sweetly.",
+     "@Vy keeps speaking, savoring each word, red lips curling, while @Thu's pencil stops on the pad.",
+     "@Vy leans a little closer as she goes on.",
+     "@Vy lands the last words with a satisfied smile.",
+     "@Vy closes her mouth and waits for the reaction, while @Thu stays perfectly still.",
+     "@Thu lifts her eyes to @Vy and answers in a very quiet, level voice.",
+     "@Thu keeps speaking calmly and taps the pencil on the pad as if taking an ordinary order.",
+     "@Thu asks her last question without any change in her face.",
+     "@Thu closes her mouth and holds @Vy's gaze.",
+     "@Thu waits, breathing slowly, mouth closed.",
+     "@Vy blinks, her smile frozen, then snaps a quick question.",
+     "@Vy keeps talking fast, leaning in over the table.",
+     "@Vy finishes and closes her mouth, staring.",
+     "@Thu writes calmly on the order pad without looking up, mouth closed.",
+     "@Vy's fingers tighten on her handbag strap while @Thu reaches for the yellow measuring tape around her neck, both silent."
+    ]
+   },
+   {
+    "id": "01.4",
+    "chars": [
+     "@Thu",
+     "@Vy"
+    ],
+    "turns": [
+     {
+      "speaker": "@Thu",
+      "line": "Rõ cả rồi. Giận thì tốn vải lắm em ạ. Đứng thẳng lên, chị đo cho chuẩn.",
+      "pace": "slow",
+      "tone": "cool and unhurried"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Chị bình tĩnh thế, làm em thấy sờ sợ đấy. Chị định làm gì em?",
+      "pace": "fast",
+      "tone": "forcing a laugh, rattled"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Vai ba sáu, eo năm tám. Em gầy hơn chị nghĩ. Đứng yên nào.",
+      "pace": "slow",
+      "tone": "matter-of-fact, reading the tape"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "a stool scraping on tiles, the soft zip of a measuring tape unrolling, silk rustling, the street faint behind the glass",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "35mm medium two-shot across the cutting table, holding the previous framing"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of the customer, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "50mm medium shot beside the tall fitting mirror, slow arc"
+     },
+     {
+      "until": 15,
+      "camera": "28mm wide shot of the fitting corner with both women reflected in the mirror"
+     }
+    ],
+    "steps": [
+     "@Thu stands, unwinds the yellow tailor's measuring tape from her neck and is already speaking slowly and evenly.",
+     "@Thu keeps speaking calmly and points toward the low fitting stand by the mirror.",
+     "@Thu goes on, unhurried, the tape hanging from her fingers.",
+     "@Thu finishes the sentence, while @Vy rises from the stool, mouth closed.",
+     "@Vy steps onto the low fitting stand, mouth closed, as the yellow tape unrolls in @Thu's hand.",
+     "@Vy blurts a quick reply with a forced laugh, swallowing hard.",
+     "@Vy keeps talking fast, eyes darting to the tape.",
+     "@Vy finishes her question and closes her mouth.",
+     "@Vy glances down at the yellow tape, mouth closed.",
+     "@Thu holds the yellow measuring tape across the back of @Vy's shoulders and starts reading the numbers aloud in a flat calm voice.",
+     "@Thu keeps talking as she slides the tape down around @Vy's waist.",
+     "@Thu adds a short last word and closes her mouth.",
+     "@Thu lets the tape fall loose and jots on the order pad, mouth closed.",
+     "@Vy looks at her own reflection in the tall mirror, her smile slipping, mouth closed.",
+     "Both women stand silent in the mirror, the tailor calm, the customer stiff."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 2,
+  "title": "Bữa Cơm Có Mùi Nước Hoa",
+  "time_label": "Tối, nhà Thu (01:00–02:00)",
+  "location": "Gian ăn cơm tầng trệt trong căn nhà ống ba tầng của gia đình Thu, trong một ngõ phố cổ Hà Nội, buổi tối cùng ngày.",
+  "axis": "Máy quay đặt phía bàn thờ nhìn ra cửa: bàn ăn tròn ở giữa, gian bếp nhỏ phía sau bàn, cầu thang lát gạch dốc bên phải.",
+  "props": "Mâm cơm tối với bát đũa và nồi canh nóng, bài kiểm tra điểm mười của Na (không chữ đọc được), điện thoại của Tùng (màn hình chỉ phát sáng), bình nước và cốc thuỷ tinh, cà vạt nới lỏng của Tùng.",
+  "setting": "Evening inside the family's narrow three-storey tube house in an old-quarter alley: a ground-floor dining area with a round wooden table set with rice bowls and dishes, low wooden stools, a small kitchen with a gas stove behind, a steep tiled staircase, a family altar shelf with incense, warm tungsten light.",
+  "clips": [
+   {
+    "id": "02.1",
+    "chars": [
+     "@Na",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Na",
+      "line": "Mẹ ơi, tối nay bố có về ăn cơm không ạ? Con được điểm mười môn toán đấy!",
+      "pace": "fast",
+      "tone": "bouncing with excitement"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Thật à? Giỏi thế. Mẹ nấu toàn món bố thích, có cả canh cua, kiểu gì bố cũng về.",
+      "pace": "normal",
+      "tone": "warm, a touch too bright"
+     },
+     {
+      "speaker": "@Na",
+      "line": "Thế con bày thêm bát cho bố nhé, để bố ngồi cạnh con, nghe con kể chuyện!",
+      "pace": "fast",
+      "tone": "eager, already planning"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a pot lid rattling, chopsticks clinking on china bowls, soup bubbling, a moped passing in the alley outside",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "35mm medium two-shot from the altar side across the round dining table, slow dolly-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the mother ladling soup at the table, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "50mm medium shot of the girl laying an extra place, slow pan"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the girl turning toward the alley door, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Na stands by the round dining table holding up a school test paper with no readable writing and is already speaking fast, bouncing on her toes, while @Thu comes out of the small kitchen with a steaming pot of soup, mouth closed.",
+     "@Na keeps talking excitedly, waving the paper toward her mother, her pigtails bouncing.",
+     "@Na keeps speaking fast and hugs the test paper to her chest with a wide grin.",
+     "@Na keeps talking, eyes shining, as @Thu sets the pot down in the middle of the table.",
+     "@Na finishes and closes her mouth, and @Thu picks up the ladle and starts answering warmly, a touch too brightly.",
+     "@Thu keeps speaking as she ladles soup into a bowl, steam rising past her face.",
+     "@Thu keeps talking with a smile a little too wide.",
+     "@Thu keeps speaking evenly, setting the bowl at her daughter's place.",
+     "@Thu keeps talking, her eyes flicking once toward the door to the alley.",
+     "@Thu finishes, closes her mouth and rests the ladle back in the pot.",
+     "@Na picks up an extra bowl and a pair of chopsticks and chirps a quick eager reply, while @Thu listens with her mouth closed.",
+     "@Na keeps talking fast as she lays the bowl and chopsticks at the empty place beside her own stool.",
+     "@Na keeps speaking eagerly, patting the empty stool beside her.",
+     "@Na finishes her last words and closes her mouth, turning toward the door to the alley.",
+     "@Na watches the door to the alley with bright, waiting eyes, mouth closed."
+    ]
+   },
+   {
+    "id": "02.2",
+    "chars": [
+     "@Tung",
+     "@Na"
+    ],
+    "turns": [
+     {
+      "speaker": "@Na",
+      "line": "Bố ơi, xem bài con này! Cô giáo khen con trước cả lớp, các bạn còn vỗ tay nữa cơ!",
+      "pace": "fast",
+      "tone": "proud, waving the paper"
+     },
+     {
+      "speaker": "@Tung",
+      "line": "Ừ, con gái bố giỏi lắm. Bố ăn với khách rồi, hai mẹ con cứ ăn trước đi, bố lên tắm cái đã.",
+      "pace": "fast",
+      "tone": "distracted, eyes on the phone"
+     },
+     {
+      "speaker": "@Na",
+      "line": "Nhưng bố còn chưa nhìn con lấy một cái mà...",
+      "pace": "slow",
+      "tone": "small voice, smile fading"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a motorbike engine cutting off in the alley, a door creaking, a phone buzzing, heavy footsteps on tiled stairs",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "50mm medium two-shot at the alley doorway as the girl runs to her father, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the father's face lit by his phone, slow pan as he moves"
+     },
+     {
+      "until": 13,
+      "camera": "40mm over-the-shoulder shot from behind the father on the staircase down onto the girl"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the girl at the foot of the stairs, locked off"
+     }
+    ],
+    "steps": [
+     "@Tung steps in from the dark alley loosening his tie, eyes on a phone with a glowing blank screen, as @Na hurries into his path holding up her test paper and is already speaking fast.",
+     "@Na keeps talking fast and beaming, the test paper with no readable writing held high in both hands, while @Tung keeps his mouth closed.",
+     "@Na bounces on her toes and keeps speaking proudly, eyes shining.",
+     "@Na keeps talking and claps the paper between her palms to show the class applauding.",
+     "@Na finishes her last words and closes her mouth, holding the paper up toward @Tung's face, while his eyes stay on the glowing phone.",
+     "@Tung answers fast without lifting his eyes from the glowing blank screen, his thumb scrolling.",
+     "@Tung keeps talking flatly, the blue-white glow on his face.",
+     "@Tung waves the phone vaguely toward the dining table and keeps speaking, still not looking down.",
+     "@Tung keeps talking as he steps around @Na toward the staircase.",
+     "@Tung keeps speaking over his shoulder, one foot on the bottom stair.",
+     "@Tung finishes, closes his mouth and starts up the steep tiled stairs, while @Na turns after him and speaks slowly in a small voice.",
+     "@Na keeps speaking softly, the test paper still lifted toward his back, her smile fading.",
+     "@Na keeps talking in a small voice, her arm sinking.",
+     "@Na finishes, closes her mouth and lowers the test paper to her side.",
+     "@Na's eyes drop to the floor, her lips pressed together, as footsteps fade up the stairs."
+    ]
+   },
+   {
+    "id": "02.3",
+    "chars": [
+     "@Thu",
+     "@Tung"
+    ],
+    "turns": [
+     {
+      "speaker": "@Thu",
+      "line": "Chiều nay có cô khách xinh lắm đến đặt may đồ cưới. Chú rể làm giám đốc xây dựng, tên Tùng.",
+      "pace": "normal",
+      "tone": "light, almost offhand"
+     },
+     {
+      "speaker": "@Tung",
+      "line": "Thì sao? Cả Hà Nội thiếu gì người trùng tên, kể làm gì!",
+      "pace": "fast",
+      "tone": "spluttering, defensive"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Ừ, thiếu gì. Em kể cho vui thôi, em có bảo là anh đâu.",
+      "pace": "slow",
+      "tone": "mild, eyes fixed on him"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "water pouring into a glass, a sudden splutter and cough, chopsticks set down on a bowl, an old fridge humming",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "40mm medium two-shot across the round table, slow push-in"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the wife over her rice bowl, locked off"
+     },
+     {
+      "until": 9,
+      "camera": "50mm medium shot of the husband at the table, slight handheld sway"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind the husband onto the wife, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Thu, seated at the round dinner table, lifts her eyes from her rice bowl and is already speaking lightly, while @Tung, his tie hanging loose, drops onto the stool across from her and pours a glass of water.",
+     "@Thu keeps talking in an offhand voice, picking up a piece of braised fish with her chopsticks, while @Tung raises the glass to his mouth.",
+     "@Thu keeps speaking casually as @Tung gulps the water.",
+     "@Thu keeps talking evenly, her eyes resting on his face.",
+     "@Thu keeps speaking lightly, laying the piece of fish in her bowl.",
+     "@Thu says the last word gently, lays her chopsticks down and closes her mouth.",
+     "@Tung splutters into the glass, water dribbling down his chin, and answers fast between coughs.",
+     "@Tung keeps talking loudly, patting his own chest with his palm.",
+     "@Tung keeps speaking fast, his eyes darting away, then closes his mouth.",
+     "@Thu answers slowly and mildly, her eyes fixed on him, while @Tung wipes his chin with the back of his hand.",
+     "@Thu keeps speaking softly, with a faint shrug of her shoulders.",
+     "@Thu keeps talking in a mild voice, picking up her chopsticks again.",
+     "@Thu keeps speaking calmly, her eyes never leaving him.",
+     "@Thu finishes and closes her mouth.",
+     "@Thu watches him without blinking, mouth closed, while @Tung's shoulders stiffen in the foreground."
+    ]
+   },
+   {
+    "id": "02.4",
+    "chars": [
+     "@Thu",
+     "@Tung"
+    ],
+    "turns": [
+     {
+      "speaker": "@Thu",
+      "line": "Lạ một cái, cổ áo anh cũng thơm đúng mùi nước hoa của cô dâu ấy.",
+      "pace": "slow",
+      "tone": "cold, quiet and precise"
+     },
+     {
+      "speaker": "@Tung",
+      "line": "Cô đừng tưởng tượng linh tinh! Tôi tiếp khách cả ngày, ai chả xịt nước hoa! Cô theo dõi tôi à?",
+      "pace": "fast",
+      "tone": "loud and cornered"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Mũi em tự biết. Anh tắm đi, giặt cả áo, kẻo con ngửi thấy.",
+      "pace": "slow",
+      "tone": "flat, almost kindly"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "a stool scraping across tiles, heavy footsteps stomping up the stairs, chopsticks clicking softly, a moped passing in the alley",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "50mm over-the-shoulder shot from behind the husband onto the wife, holding the previous framing"
+     },
+     {
+      "until": 8,
+      "camera": "35mm medium shot of the husband rising from the stool, slow tilt up"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the husband's flushed face, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium shot of the wife at the table with the staircase behind her, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Thu is already speaking slowly and coldly, her eyes resting on the collar of @Tung's white shirt, while @Tung listens with his mouth closed, the glass frozen halfway to the table.",
+     "@Thu keeps speaking in a low, precise voice, her chopsticks laid neatly beside her bowl.",
+     "@Thu tilts her head slightly toward his collar and keeps talking, her face perfectly still.",
+     "@Thu keeps talking quietly, her eyes never leaving him, while @Tung's knuckles whiten on the glass.",
+     "@Thu finishes in the same even voice and closes her mouth.",
+     "@Tung springs up from the stool, the stool scraping back, and answers fast and loud.",
+     "@Tung keeps shouting, flinging one hand up in the air.",
+     "@Tung points toward the door to the alley and keeps talking loudly, his chest heaving.",
+     "@Tung keeps speaking loudly, red in the face, a vein standing out at his temple.",
+     "@Tung jabs a finger toward her as he snaps his last question, then closes his mouth.",
+     "@Thu, without looking up, answers slowly and flatly as she picks up her chopsticks.",
+     "@Thu keeps speaking evenly, eyes on her bowl, while @Tung stands frozen beside the stool in the soft background.",
+     "@Thu keeps talking in a flat, almost kind voice, lifting a piece of braised fish with her chopsticks.",
+     "@Thu keeps speaking softly and lays the piece of fish into the small child's bowl beside her.",
+     "@Thu finishes her last words and closes her mouth, while @Tung stomps up the steep tiled staircase in the background, tugging at his shirt collar."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 3,
+  "title": "Chiếc Hộp Sơn Mài Của Mẹ Chồng",
+  "time_label": "Đêm, phòng bà Nhàn (02:00–03:00)",
+  "location": "Phòng ngủ nhỏ của bà Nhàn trên gác căn nhà ống, đêm cùng ngày, chỉ có ánh đèn ngủ vàng.",
+  "axis": "Máy quay đặt cạnh cửa sổ nhìn vào giường: bà Nhàn ngồi mép giường bên trái, Thu ngồi ghế gỗ thấp bên phải, bàn đầu giường có đèn ngủ ở giữa hai người.",
+  "props": "Hộp gỗ sơn mài đỏ khảm vàng, sổ đỏ màu hồng đỏ (không chữ đọc được), tờ giấy gấp cũ ngả vàng, đèn ngủ, ghế gỗ thấp, gậy tre của bà Nhàn.",
+  "setting": "Bà Nhàn's small upstairs bedroom at night: a carved wooden bed with the mosquito net looped up, an old wooden wardrobe with a mirror, a side table with a warm bedside lamp, a window onto dark tiled roofs.",
+  "clips": [
+   {
+    "id": "03.1",
+    "chars": [
+     "@BaNhan",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Ngồi đây mẹ bảo. Tuần trước mẹ thấy con bé váy đỏ ấy khoác tay thằng Tùng ở hiệu vàng.",
+      "pace": "normal",
+      "tone": "hushed and conspiratorial"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Mẹ biết từ hôm ấy mà bây giờ mới nói với con ạ?",
+      "pace": "normal",
+      "tone": "hurt, voice catching"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Nói sớm thì con có tin mẹ không? Hay lại nghĩ mẹ chồng đặt điều?",
+      "pace": "normal",
+      "tone": "dry, a little sad"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a soft night breeze at the window, a clock ticking on the wardrobe, a distant motorbike, the creak of an old wooden bed",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the old woman on the edge of the bed, slow push-in"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the old woman leaning into the lamplight, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind the old woman onto the daughter-in-law, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot across the bedside lamp, slow push-in"
+     }
+    ],
+    "steps": [
+     "@BaNhan sits on the edge of the carved bed beside the warm bedside lamp, pats the low wooden chair next to her and is already speaking in a hushed voice, as @Thu slips into the room, mouth closed.",
+     "@Thu sits down on the low chair, mouth closed, while @BaNhan keeps talking low and conspiratorially.",
+     "@BaNhan glances at the door and keeps speaking, one hand cupped beside her mouth.",
+     "@BaNhan leans toward the lamp and keeps whispering, her wrinkled face half lit.",
+     "@BaNhan keeps talking low, her eyebrows rising meaningfully.",
+     "@BaNhan whispers the last words with a small knowing nod and closes her mouth.",
+     "@Thu lifts her eyes and answers, her voice catching.",
+     "@Thu keeps speaking, her fingers knotting in her dark-green apron.",
+     "@Thu keeps talking, hurt, her eyes glistening.",
+     "@Thu finishes the question and closes her mouth, waiting.",
+     "@BaNhan looks away at the dark window and answers in a dry, low voice.",
+     "@BaNhan keeps speaking quietly, her thin hands folded on her knees, while @Thu listens with her mouth closed.",
+     "@BaNhan keeps talking, turning back to @Thu with a rueful lift of her brows.",
+     "@BaNhan finishes with a dry little shrug and closes her mouth.",
+     "@BaNhan reaches for the red-lacquered box on the side table, while @Thu lowers her head, both silent."
+    ]
+   },
+   {
+    "id": "03.2",
+    "chars": [
+     "@BaNhan",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Mười hai năm trước, con bán đất bố con để lại cho nó làm vốn.",
+      "pace": "slow",
+      "tone": "low and grave"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Hồi ấy con chỉ mong anh ấy làm ăn được, đỡ khổ.",
+      "pace": "slow",
+      "tone": "soft, remembering"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Mẹ thì lo. Nên mẹ bắt nó cho con đứng tên nhà này, sáu mươi phần trăm công ty.",
+      "pace": "normal",
+      "tone": "brisk, matter-of-fact"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "the soft click of a lacquer lid, old paper rustling, the clock ticking, a night breeze at the window",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "40mm medium two-shot across the bedside lamp, holding the previous framing"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of the daughter-in-law, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "50mm over-the-shoulder shot from behind the daughter-in-law onto the old woman and the open box, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot over the bedside lamp, slow push-in toward the papers"
+     }
+    ],
+    "steps": [
+     "@BaNhan lifts a red-lacquered wooden box with gold inlay from the side table onto her lap and is already speaking slowly and gravely, while @Thu watches with her mouth closed.",
+     "@BaNhan keeps speaking, both hands resting on the box.",
+     "@BaNhan keeps talking in a low voice, her thumbs on the gold inlay of the lid.",
+     "@BaNhan keeps speaking, her eyes on @Thu, the lamplight deep in her wrinkles.",
+     "@BaNhan finishes and closes her mouth, resting both hands flat on the box.",
+     "@Thu answers softly, her eyes on the lacquer lid.",
+     "@Thu keeps speaking quietly, her gaze drifting far away.",
+     "@Thu keeps talking in a soft, remembering voice.",
+     "@Thu finishes and closes her mouth, swallowing.",
+     "@BaNhan opens the lacquer lid and starts speaking briskly.",
+     "@BaNhan keeps talking as she takes out a pink-red land title booklet with no readable writing.",
+     "@BaNhan keeps speaking matter-of-factly, lifting out an old yellowed folded paper as well.",
+     "@BaNhan keeps speaking briskly and holds the booklet and the folded paper out toward @Thu.",
+     "@BaNhan keeps talking, the papers held steady in the lamplight, while @Thu stares at them with her mouth closed.",
+     "@BaNhan finishes and closes her mouth as @Thu takes the booklet and the folded paper in both hands."
+    ]
+   },
+   {
+    "id": "03.3",
+    "chars": [
+     "@BaNhan",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Thu",
+      "line": "Con cứ tưởng mẹ quên chuyện này lâu rồi, mẹ chưa nhắc lần nào.",
+      "pace": "slow",
+      "tone": "half in wonder"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Mẹ già chứ chưa lẫn. Con trai mẹ yếu chỗ nào, mẹ biết, nên phải giữ cho con một đường lui.",
+      "pace": "normal",
+      "tone": "dry, a twinkle of mischief"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Mong là không bao giờ phải dùng đến nó, mẹ ạ.",
+      "pace": "slow",
+      "tone": "heavy, close to tears"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "the clock ticking, the lamp buzzing faintly, a shaky breath, a dog barking far off in the alley",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "40mm medium two-shot over the bedside lamp, holding the previous framing"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of the old woman tapping her temple, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "35mm wide shot of the small bedroom with both women by the lamp, slow push-in"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the daughter-in-law over the booklet, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot across the lamp and the lacquer box, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Thu holds the pink-red land title booklet with no readable writing in both hands and is already speaking slowly, half in wonder, while @BaNhan watches with her mouth closed.",
+     "@Thu keeps speaking softly, her fingers trembling slightly on the cover.",
+     "@Thu keeps talking, turning the booklet over in her hands.",
+     "@Thu keeps speaking, lifting her eyes to @BaNhan.",
+     "@Thu finishes and closes her mouth, and @BaNhan taps her own temple with one finger and starts speaking dryly, a glint in her eyes.",
+     "@BaNhan keeps talking, the corner of her mouth twitching with mischief.",
+     "@BaNhan raises one bony finger and keeps speaking, her eyebrows lifting.",
+     "@BaNhan keeps speaking, lower now, leaning toward @Thu across the lamp.",
+     "@BaNhan keeps talking firmly, while @Thu listens with her mouth closed.",
+     "@BaNhan nods at the booklet in @Thu's hands as she keeps speaking.",
+     "@BaNhan finishes and closes her mouth, her eyes steady, and @Thu lowers her eyes to the booklet and answers slowly.",
+     "@Thu keeps speaking, her voice heavy, her eyes glistening in the lamplight.",
+     "@Thu keeps speaking softly, her thumb stroking the cover of the booklet.",
+     "@Thu finishes and closes her mouth, swallowing hard.",
+     "@BaNhan lays her wrinkled hand flat on the lacquer box lid between them, while @Thu breathes out slowly, both silent."
+    ]
+   },
+   {
+    "id": "03.4",
+    "chars": [
+     "@BaNhan",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Không dùng thì cất. Đừng để con hồ ly nào cướp phần của cái Na.",
+      "pace": "slow",
+      "tone": "firm and unwavering"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Vâng, con cất. Nhưng mẹ cứ để con may xong cái áo cưới cho cô ấy đã.",
+      "pace": "slow",
+      "tone": "quiet, resolve hardening"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Con may cho nó thật à? Mẹ hiểu rồi, con cao tay thật đấy.",
+      "pace": "normal",
+      "tone": "startled, then catching on"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "the soft click of a lacquer lid closing, the clock ticking, wind stirring the curtain, a distant temple bell",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "40mm medium two-shot across the lamp and the lacquer box, holding the previous framing"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of the daughter-in-law straightening her back, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of the daughter-in-law laying the papers back into the box, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the old woman, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium two-shot from beside the window, slow pull-back from the two women"
+     }
+    ],
+    "steps": [
+     "@BaNhan points a bony finger at the lacquer box and is already speaking slowly and firmly, while @Thu listens with her mouth closed, the booklet resting on her knees.",
+     "@BaNhan keeps speaking, tapping the lid once with her fingertip.",
+     "@BaNhan keeps talking, her gaze hard and steady on @Thu.",
+     "@BaNhan keeps speaking firmly, her chin lifted.",
+     "@BaNhan finishes and closes her mouth, waiting.",
+     "@Thu slowly straightens her back and answers quietly.",
+     "@Thu keeps speaking, her jaw setting as the words come.",
+     "@Thu keeps talking in a level voice, her eyes steady and dry.",
+     "@Thu keeps speaking as she lays the booklet and the folded paper back into the red-lacquered box, while @BaNhan listens with her mouth closed.",
+     "@Thu keeps talking calmly, smoothing the folded paper flat inside the box.",
+     "@Thu finishes and closes her mouth, and @BaNhan blinks, her eyebrows lifting, and asks a quick question.",
+     "@BaNhan keeps talking, leaning closer to the lamp, her eyes narrowing.",
+     "@BaNhan keeps speaking as a slow smile of understanding spreads across her face.",
+     "@BaNhan keeps talking with a little approving nod, while @Thu shuts the lacquer lid with a soft click, mouth closed.",
+     "@BaNhan finishes and closes her mouth, a small satisfied smile on her lips, while @Thu sits with her jaw set, silent."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 4,
+  "title": "Vợ Chồng Nhà Lừa",
+  "time_label": "Đêm, căn hộ cao cấp của Vy (03:00–04:00)",
+  "location": "Căn hộ cao cấp của Vy trên tầng cao nhìn xuống Hà Nội, ban đêm.",
+  "axis": "Máy quay đặt sau sofa nhìn ra vách kính: đảo bếp đá cẩm thạch bên trái, sofa da trắng ở giữa, đèn thành phố phía sau.",
+  "props": "Nhẫn cưới vàng trơn trong hộp nhung và chiếc nhẫn đôi trên tay Khải, cặp tài liệu da đen, chai sâm panh trong xô đá, hai cốc sâm panh chân cao, giày cao gót màu be của Vy.",
+  "setting": "A glossy luxury apartment high above Hà Nội at night: floor-to-ceiling windows full of city lights, a white leather sofa, a marble kitchen island with a bottle of champagne and two glasses, cold blue-white light.",
+  "clips": [
+   {
+    "id": "04.1",
+    "chars": [
+     "@Vy",
+     "@Khai"
+    ],
+    "turns": [
+     {
+      "speaker": "@Vy",
+      "line": "Anh ơi, em đến tận tiệm vợ lão đặt may áo dài cưới. Mặt bà ấy cứ đơ ra như tượng!",
+      "pace": "fast",
+      "tone": "gleeful and boastful"
+     },
+     {
+      "speaker": "@Khai",
+      "line": "Không khóc, không làm ầm à? Đàn bà im thế mới đáng ngại đấy.",
+      "pace": "normal",
+      "tone": "lazy, a flicker of unease"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Ngại gì! Bà ấy còn hỏi em thích cổ cao hay cổ thuyền, lụa hay gấm, buồn cười chưa!",
+      "pace": "fast",
+      "tone": "giggling, mocking"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "high heels clattering onto marble, a champagne cork popping, bubbles fizzing into glass, the faint hum of city traffic far below",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "35mm medium shot of the young woman sweeping in and dropping onto the white sofa, slow pan"
+     },
+     {
+      "until": 9,
+      "camera": "50mm over-the-shoulder shot from behind the young woman onto the man at the marble island"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the young woman laughing on the sofa, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot as the man carries two glasses to the sofa, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Vy sweeps into the glossy apartment, stepping out of her beige high heels, and is already speaking fast, laughing.",
+     "@Vy drops onto the white leather sofa and keeps talking gleefully, tucking her bare feet up.",
+     "@Vy keeps boasting fast, tipping her head back with laughter.",
+     "@Vy keeps talking, pulling a stiff statue face to mimic the wife.",
+     "@Vy finishes her last words and closes her mouth with a snort of laughter.",
+     "@Khai, at the marble kitchen island peeling the foil from a champagne bottle, asks a lazy question with one eyebrow raised.",
+     "@Khai keeps talking in a slow drawl, twisting the wire off the cork.",
+     "@Khai pops the cork and keeps speaking, champagne foaming over his fingers, his eyes narrowing.",
+     "@Khai finishes and closes his mouth, pouring two glasses.",
+     "@Vy waves the warning away and answers fast with a giggle.",
+     "@Vy keeps talking, mimicking a prim little voice and rolling her eyes.",
+     "@Vy keeps speaking fast, flicking her hand in the air.",
+     "@Vy keeps laughing as she talks, wiggling her bare toes on the sofa.",
+     "@Vy finishes and closes her mouth with a smirk, while @Khai carries two glasses of champagne over to the sofa, mouth closed.",
+     "@Vy stretches out on the sofa with a satisfied smirk while @Khai stops beside her, both silent."
+    ]
+   },
+   {
+    "id": "04.2",
+    "chars": [
+     "@Khai",
+     "@Vy"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khai",
+      "line": "Đeo vào đi em. Về nhà rồi, còn đóng vai cô thư ký ngây thơ làm gì nữa.",
+      "pace": "normal",
+      "tone": "sly and possessive"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Ba năm rồi, lão nào em diễn anh cũng ghen. Chồng gì mà trẻ con thế không biết.",
+      "pace": "normal",
+      "tone": "teasing and playful"
+     },
+     {
+      "speaker": "@Khai",
+      "line": "Ghen thì mới giữ được vợ chứ. Lão kia có biết giữ đâu.",
+      "pace": "normal",
+      "tone": "smug, mock-wounded"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "a velvet box clicking open, ice settling in the bucket, a tiny metallic click of two rings, the city hum far below",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "40mm medium two-shot as the man carries two glasses to the sofa, holding the previous framing"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of the young woman sliding a ring onto her finger, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind the man onto the young woman, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the man's smug face, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium two-shot low across the sofa, slow push-in toward their hands"
+     }
+    ],
+    "steps": [
+     "@Khai sits on the arm of the white sofa, hands @Vy a glass of champagne and is already speaking with a sly smile, taking a small dark velvet box from his pocket.",
+     "@Khai keeps talking softly as he opens the velvet box to show a plain gold wedding ring.",
+     "@Khai keeps speaking, an identical gold band glinting on his own ring finger.",
+     "@Khai keeps talking, tilting the open box toward @Vy, his eyes fixed on her.",
+     "@Khai finishes and closes his mouth, holding out the open box.",
+     "@Vy slides the ring onto her own ring finger and answers him teasingly.",
+     "@Vy keeps talking, turning the ring in the light and rolling her eyes.",
+     "@Vy keeps speaking playfully, wagging her ringed finger at him.",
+     "@Vy keeps talking with a mock sigh, while @Khai listens with his mouth closed.",
+     "@Vy finishes and closes her mouth with a pout.",
+     "@Khai answers with a smug little shrug.",
+     "@Khai keeps speaking, mock-wounded, one hand pressed to his own chest.",
+     "@Khai keeps talking with a sly sneer, nodding toward the city lights.",
+     "@Khai finishes and closes his mouth as @Vy taps her ring against his matching ring with a tiny click.",
+     "@Vy and @Khai smirk at the two identical gold bands side by side, mouths closed."
+    ]
+   },
+   {
+    "id": "04.3",
+    "chars": [
+     "@Khai",
+     "@Vy"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khai",
+      "line": "Lão Tùng là con cá thứ ba. Trước đám hỏi, phải bắt lão nộp đủ năm tỷ với căn nhà ba tầng.",
+      "pace": "normal",
+      "tone": "cool and businesslike"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Cầm tiền với sổ đỏ là bay, như hai lần trước. Lão chẳng kịp hiểu mình bị lừa thế nào!",
+      "pace": "fast",
+      "tone": "giddy, eyes shining"
+     },
+     {
+      "speaker": "@Khai",
+      "line": "Nhớ đấy, tiền phải vào trước, giấy tờ tính sau.",
+      "pace": "normal",
+      "tone": "dry, a quiet warning"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "a leather folder flipping open, paper sliding on marble, a glass set down on stone, the low hum of a fridge",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium two-shot low across the sofa, holding the previous framing"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the man at the marble kitchen island, slow lateral track"
+     },
+     {
+      "until": 11,
+      "camera": "50mm medium shot of the young woman leaning on the marble, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the man across the island, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm wide shot across the marble island toward the city windows, slow drift"
+     }
+    ],
+    "steps": [
+     "@Khai rises from the arm of the sofa and is already speaking in a cool businesslike voice, while @Vy watches with her mouth closed.",
+     "@Khai keeps talking as he walks to the marble kitchen island, @Vy following with her champagne glass.",
+     "@Khai keeps speaking evenly and sets his glass down on the marble.",
+     "@Khai flips open a black leather document folder and keeps talking, cool and flat.",
+     "@Khai keeps speaking, laying sheets of paper with no readable writing on the marble.",
+     "@Khai finishes and closes his mouth, squaring the papers on the marble.",
+     "@Vy leans her elbows on the marble and answers fast and giddy, her eyes shining.",
+     "@Vy keeps talking excitedly, fluttering her fingers like a bird flying off.",
+     "@Vy keeps speaking fast, waving her champagne glass.",
+     "@Vy keeps talking with a wicked giggle, tapping the papers.",
+     "@Vy finishes, closes her mouth and drains her glass in one go.",
+     "@Khai taps one sheet with a fingertip, the gold band glinting on his hand, and adds a dry warning in a low voice.",
+     "@Khai keeps speaking quietly, holding @Vy's gaze, one eyebrow raised.",
+     "@Khai finishes and closes his mouth, then shuts the black leather folder with a soft snap.",
+     "@Khai refills two glasses from the champagne bottle while @Vy rolls her eyes with a grin, both silent."
+    ]
+   },
+   {
+    "id": "04.4",
+    "chars": [
+     "@Vy",
+     "@Khai"
+    ],
+    "turns": [
+     {
+      "speaker": "@Vy",
+      "line": "Từ mai, em sẽ làm cô dâu ngoan nhất cái Hà Nội này, nói câu nào ngọt câu ấy.",
+      "pace": "slow",
+      "tone": "purring, sweet as honey"
+     },
+     {
+      "speaker": "@Khai",
+      "line": "Còn anh thành anh họ của em. Trước mặt lão, cấm gọi chồng ơi đấy nhé.",
+      "pace": "normal",
+      "tone": "smirking, mock-solemn"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Dạ vâng, em nhớ rồi ạ, thưa anh họ luật sư đáng kính!",
+      "pace": "fast",
+      "tone": "playful, a mock salute"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "the crystal ring of two glasses clinking, champagne fizzing, a faint wind against the high windows, the city hum below",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm wide shot across the marble island toward the city windows, holding the previous framing"
+     },
+     {
+      "until": 6,
+      "camera": "50mm medium shot of the young woman against the city lights, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the man by the window, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "50mm over-the-shoulder shot from behind the man onto the young woman"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot in front of the floor-to-ceiling windows, slow pull-back revealing the glittering city"
+     }
+    ],
+    "steps": [
+     "@Vy walks toward the floor-to-ceiling windows with a fresh glass of champagne and is already speaking slowly in a purring voice, like an innocent bride, while @Khai follows with his mouth closed.",
+     "@Vy keeps speaking sweetly as she stops before the glass, the glittering city spread out below.",
+     "@Vy turns to face @Khai against the city lights and keeps talking, a hand laid demurely over her heart.",
+     "@Vy keeps speaking, lowering her eyes in mock modesty.",
+     "@Vy keeps talking in a honeyed voice, batting her lashes.",
+     "@Vy finishes with a sugary smile and closes her mouth.",
+     "@Khai straightens an invisible tie and answers with a smirk.",
+     "@Khai keeps talking, putting on a solemn lawyer's face.",
+     "@Khai raises one warning finger and keeps speaking, mock-stern.",
+     "@Khai keeps speaking, his lips twitching as he holds back a laugh, while @Vy listens with her mouth closed.",
+     "@Khai finishes and closes his mouth, eyebrows raised, and @Vy gives a mock salute and chirps a quick reply.",
+     "@Vy keeps talking playfully, her hand still at her brow.",
+     "@Vy keeps speaking with an exaggerated little bow of her head.",
+     "@Vy finishes and closes her mouth with a wink.",
+     "@Vy and @Khai clink their champagne glasses in front of the glittering window, the two gold wedding rings flashing on their hands, mouths closed."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 5,
+  "title": "Buổi Thử Áo Đầu Tiên",
+  "time_label": "Vài ngày sau, tiệm may (04:00–05:00)",
+  "location": "Tiệm may áo dài của Thu trên phố Hàng Gai, ban ngày, vài ngày sau buổi đặt may.",
+  "axis": "Máy quay đặt sau gương thử đứng nhìn vào tiệm: bục thử thấp ngay trước gương, bàn cắt dài phía sau, cửa kính có chuông đồng ở xa nhất, cầu thang nhỏ trong tiệm bên trái.",
+  "props": "Thước dây vàng, lụa đỏ ghim tạm trên vai Vy, gối cắm kim ghim, phiếu đặt may viết tay (không chữ đọc được), bục thử gỗ thấp, gậy tre của bà Nhàn.",
+  "setting": "Thu's narrow áo dài tailor shop on an old-quarter silk street by day: bolts of jewel-toned silk stacked on wooden shelves to the ceiling, two headless dress forms in half-finished áo dài, an old black sewing machine on a worn wooden table, a tall standing fitting mirror, a long cutting table with tailor's chalk and paper patterns, a small brass bell above the glass door, soft daylight from the street.",
+  "clips": [
+   {
+    "id": "05.1",
+    "chars": [
+     "@Vy",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Vy",
+      "line": "Anh Tùng hứa sang tên cái nhà ba tầng cho em làm sính lễ. Chắc chị biết nhà nào.",
+      "pace": "normal",
+      "tone": "smug, savoring every word"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Nhà ấy à? Đẹp lắm. Cái Na sinh ra ở đấy, chập chững tập đi ở đấy.",
+      "pace": "slow",
+      "tone": "mild, almost pleasant"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Thế thì chị dọn dần đi là vừa. Em không thích đồ cũ đâu.",
+      "pace": "fast",
+      "tone": "needling, sing-song"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "silk rustling, the tiny click of pins, motorbikes passing outside, a wall clock ticking",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "85mm close-up of the customer on the fitting stand, slow push-in"
+     },
+     {
+      "until": 5,
+      "camera": "35mm wide shot of the shop from behind the tall fitting mirror, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "85mm close-up of the tailor fastening the silk, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "50mm over-the-shoulder shot from behind the tailor onto the customer"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot at the fitting stand, slow arc"
+     }
+    ],
+    "steps": [
+     "@Vy stands on the low fitting stand in her crimson dress, red silk draped over one shoulder, and is already speaking with a smug smile, chin lifted toward the mirror.",
+     "@Vy keeps talking, savoring every word, while @Thu fastens the red silk at her shoulder with dressmaker's pins, mouth closed.",
+     "@Vy keeps speaking, flicking her eyes sideways at @Thu with a little smile.",
+     "@Vy keeps talking sweetly, smoothing the silk over her hip.",
+     "@Vy keeps speaking with a little lift of her chin.",
+     "@Vy finishes and closes her mouth, and @Thu slides one more pin into the silk and answers slowly without looking up.",
+     "@Thu keeps speaking mildly, almost pleasantly, her fingers smoothing the fold.",
+     "@Thu keeps talking softly, her eyes softening for a moment.",
+     "@Thu keeps speaking, a faint far-off smile at the corner of her mouth.",
+     "@Thu keeps talking quietly, folding the hem of the silk.",
+     "@Thu finishes and closes her mouth, smoothing the silk flat.",
+     "@Vy tosses back a quick needling reply in a sing-song voice.",
+     "@Vy keeps talking fast, wrinkling her nose at the old shop around her.",
+     "@Vy finishes and closes her mouth, her smile sharp.",
+     "@Thu picks another pin from the pincushion in silence while @Vy's smug smile stiffens, both mouths closed."
+    ]
+   },
+   {
+    "id": "05.2",
+    "chars": [
+     "@Thu",
+     "@Vy"
+    ],
+    "turns": [
+     {
+      "speaker": "@Thu",
+      "line": "Ngón áp út em có vết hằn. Nhẫn của ai mà đeo lâu thế hả em?",
+      "pace": "slow",
+      "tone": "quiet, sharp as a needle"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Nhẫn em đeo chơi thôi mà! Chị đo áo hay đo tay người ta đấy? Sao chị lắm chuyện thế!",
+      "pace": "fast",
+      "tone": "flustered, covering with a laugh"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Đo cả chứ em. Tay áo phải vừa tay người, lệch một phân là lộ ngay.",
+      "pace": "normal",
+      "tone": "dry, unbothered"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "the soft slither of a measuring tape, silk rustling sharply, a brittle laugh cut short, the street faint behind the glass",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "40mm medium two-shot at the fitting stand, holding the previous framing"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of the tailor looking up from the customer's hand, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of the customer on the fitting stand, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "50mm over-the-shoulder shot from behind the customer onto the tailor, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot beside the fitting mirror, slow arc"
+     }
+    ],
+    "steps": [
+     "@Thu takes @Vy's hand to measure the sleeve and is already speaking slowly and quietly, wrapping the yellow measuring tape around @Vy's wrist.",
+     "@Thu keeps speaking as she slides the tape down toward @Vy's fingers.",
+     "@Thu keeps talking softly, the tape stopping on a thin pale band of skin at the base of @Vy's ring finger.",
+     "@Thu looks up from the pale ring mark and keeps asking, every word soft and sharp as a needle, her eyes steady on @Vy's face.",
+     "@Thu finishes asking and closes her mouth, waiting.",
+     "@Vy pulls her hand back, hides it behind her back and answers fast with a brittle laugh.",
+     "@Vy keeps talking quickly, her cheeks flushing pink.",
+     "@Vy keeps speaking fast, rolling her eyes to cover herself.",
+     "@Vy keeps talking, tossing her hair with a forced laugh.",
+     "@Vy finishes and closes her mouth, her hand still hidden behind her back.",
+     "@Thu answers in a dry, unbothered voice, rolling the yellow measuring tape around two fingers.",
+     "@Thu keeps speaking evenly, nodding toward @Vy's hidden hand.",
+     "@Thu keeps talking calmly, the rolled tape resting in her palm.",
+     "@Thu keeps speaking, her eyes never leaving @Vy.",
+     "@Thu finishes and closes her mouth, while @Vy shifts her weight on the fitting stand, mouth closed."
+    ]
+   },
+   {
+    "id": "05.3",
+    "chars": [
+     "@Vy",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Vy",
+      "line": "Chị cứ may cho đẹp vào, em trả gấp đôi. Coi như em đền chị một ông chồng, chị lời quá còn gì.",
+      "pace": "normal",
+      "tone": "mocking and overly sweet"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Tiền em cứ giữ lấy. Chị may áo hai mươi năm rồi em ạ. Nhìn dáng là biết số đo, nhìn mắt là biết lòng người.",
+      "pace": "slow",
+      "tone": "calm, every word weighed"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "the soft whir of a measuring tape winding up, silk rustling, the ticking wall clock, a moped horn far down the street",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "40mm medium two-shot beside the fitting mirror, holding the previous framing"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the customer's over-sweet smile, locked off"
+     },
+     {
+      "until": 9,
+      "camera": "50mm over-the-shoulder shot from behind the customer onto the tailor, slow push-in"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the tailor's face, very slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "35mm wide shot of the fitting corner with both women and the tall mirror, locked off"
+     }
+    ],
+    "steps": [
+     "@Vy recovers her smile, tosses her hair and is already speaking in a mocking sing-song, while @Thu winds up the yellow measuring tape with her mouth closed.",
+     "@Vy keeps talking sweetly, waving a hand at the red silk on her shoulder.",
+     "@Vy leans toward @Thu and keeps speaking, all honey.",
+     "@Vy keeps speaking with an over-sweet smile, her eyebrows arched.",
+     "@Vy keeps talking, rubbing her thumb and fingers together as if counting money.",
+     "@Vy keeps speaking with a little laugh at her own joke.",
+     "@Vy finishes and closes her mouth, pleased with herself, and @Thu tucks the wound tape into her palm and starts answering slowly and calmly.",
+     "@Thu keeps speaking in an even voice, the rolled tape resting in her palm.",
+     "@Thu keeps speaking, unhurried, her gaze traveling once from @Vy's shoulders to her waist as if measuring.",
+     "@Thu lifts her eyes to look straight into @Vy's eyes and keeps speaking slowly.",
+     "@Thu keeps talking, every word weighed, her face perfectly still.",
+     "@Thu keeps speaking quietly, without blinking.",
+     "@Thu keeps talking in a low, level voice, still holding the look.",
+     "@Thu says her last words and closes her mouth, while the smile drains from @Vy's face.",
+     "@Vy blinks first and turns away toward the tall mirror, fussing with the red silk, while @Thu calmly picks up the pincushion, both silent."
+    ]
+   },
+   {
+    "id": "05.4",
+    "chars": [
+     "@BaNhan",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Mẹ đứng ngay trên cầu thang nghe hết rồi. Con bé ấy có chồng, mẹ cá cả cái gậy này.",
+      "pace": "normal",
+      "tone": "low, gleeful and conspiratorial"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Con cũng ngờ thế. Phiếu đặt may nó ghi quê Nam Định. Con định về tận nơi.",
+      "pace": "normal",
+      "tone": "thoughtful and matter-of-fact"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Về tận nơi à? Cho mẹ đi với, ở nhà mãi mốc cả người!",
+      "pace": "fast",
+      "tone": "perking up, eager"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "the brass bell still tinkling faintly, a bamboo stick tapping on wooden stairs, paper rustling, street noise outside",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the narrow inner staircase, slow tilt down"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the old woman at the foot of the stairs, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm over-the-shoulder shot from behind the old woman onto the tailor at the cutting table"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the old woman perking up, slow push-in"
+     }
+    ],
+    "steps": [
+     "@BaNhan comes down the last steps of the narrow inner staircase with her bamboo walking stick and is already speaking low and gleeful.",
+     "@BaNhan keeps talking as she reaches the bottom step, eyes twinkling.",
+     "@BaNhan keeps speaking and points the stick toward the glass door, while @Thu at the cutting table looks up with her mouth closed.",
+     "@BaNhan keeps speaking in a conspiratorial voice, the stick still aimed at the door.",
+     "@BaNhan keeps talking, patting the carved bamboo stick with a sly grin.",
+     "@BaNhan finishes, closes her mouth and taps the stick on the floor.",
+     "@Thu picks up a handwritten order slip with no readable writing from the cutting table and answers in an even voice.",
+     "@Thu keeps speaking thoughtfully, turning the slip toward the light.",
+     "@Thu keeps talking matter-of-factly and holds the order slip up between two fingers.",
+     "@Thu keeps speaking, her eyes narrowing on the slip.",
+     "@Thu finishes and closes her mouth, folding the slip into her apron pocket.",
+     "@BaNhan perks up and answers quickly with a sly grin.",
+     "@BaNhan keeps talking fast, bobbing on her stick.",
+     "@BaNhan keeps speaking eagerly, already turning toward the glass door.",
+     "@BaNhan finishes and closes her mouth, bobbing her head eagerly toward the door, grinning."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 6,
+  "title": "Tờ Giấy Ký Không Đọc",
+  "time_label": "Tối, nhà Thu (05:00–06:00)",
+  "location": "Gian ăn cơm tầng trệt trong căn nhà ống của gia đình Thu, buổi tối, sau bữa cơm.",
+  "axis": "Như cảnh 02: máy quay đặt phía bàn thờ nhìn ra cửa, bàn ăn tròn ở giữa, gian bếp nhỏ phía sau bàn, cầu thang lát gạch dốc bên phải.",
+  "props": "Giỏ hoa quả bọc giấy bóng kính, xấp giấy tờ (không chữ đọc được), bút ký, ấm trà và hai chén trà trên bàn ăn.",
+  "setting": "Evening inside the family's narrow three-storey tube house in an old-quarter alley: a ground-floor dining area with a round wooden table set with rice bowls and dishes, low wooden stools, a small kitchen with a gas stove behind, a steep tiled staircase, a family altar shelf with incense, warm tungsten light.",
+  "clips": [
+   {
+    "id": "06.1",
+    "chars": [
+     "@Tung",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Tung",
+      "line": "Mình ơi, ký giúp anh mấy tờ vay ngân hàng nhé, công trình mới đang cần vốn gấp lắm.",
+      "pace": "normal",
+      "tone": "sugary, a little too sweet"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Anh cứ để đấy. Giấy tờ thì em phải đọc đã, ký rồi khó rút lại.",
+      "pace": "slow",
+      "tone": "unhurried and polite"
+     },
+     {
+      "speaker": "@Tung",
+      "line": "Anh mua cả giỏ hoa quả cho mình đây này, toàn hàng nhập đấy!",
+      "pace": "fast",
+      "tone": "overeager, nudging the basket"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "cellophane crinkling, paper sliding across wood, a pen rolling, fingers drumming on a table",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "28mm wide shot from the altar side over the round dining table, slow dolly-in"
+     },
+     {
+      "until": 5,
+      "camera": "50mm medium shot of the husband at the table with a fruit basket, slow pan"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the wife reading the papers, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind the wife onto the husband, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Tung comes in carrying a big cellophane-wrapped fruit basket and is already speaking sweetly with an eager smile, while @Thu sits at the cleared dining table with her mouth closed.",
+     "@Tung sets the basket on the table and keeps talking, too sweet.",
+     "@Tung keeps speaking as he slides a thick stack of papers with no readable writing and a pen across to @Thu.",
+     "@Tung keeps talking, tapping the pen on the stack.",
+     "@Tung keeps speaking with a pleading tilt of his head.",
+     "@Tung finishes his request and closes his mouth, and @Thu draws the stack toward herself without touching the pen and answers slowly.",
+     "@Thu keeps speaking politely, unhurried, her eyes on the first page.",
+     "@Thu keeps speaking evenly, turning the first page with one finger.",
+     "@Thu keeps talking, reading line by line.",
+     "@Thu keeps speaking softly without looking up.",
+     "@Thu finishes and closes her mouth, still reading, and @Tung nudges the fruit basket toward her and adds a quick eager remark.",
+     "@Tung keeps talking fast, his smile fixed, patting the cellophane.",
+     "@Tung keeps speaking eagerly, leaning over the table.",
+     "@Tung finishes and closes his mouth, his fingers drumming on the tabletop.",
+     "@Tung watches her with a fixed smile, mouth closed, while @Thu turns another page in silence."
+    ]
+   },
+   {
+    "id": "06.2",
+    "chars": [
+     "@Tung",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Tung",
+      "line": "Đọc làm gì cho mất thời gian! Toàn chữ chuyên môn thôi, em cứ ký vào chỗ đánh dấu là xong!",
+      "pace": "fast",
+      "tone": "impatient, talking over her"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Em đọc rồi. Sao trang đầu lại là hợp đồng tặng cho nhà đất hả anh?",
+      "pace": "slow",
+      "tone": "level and piercing"
+     },
+     {
+      "speaker": "@Tung",
+      "line": "Thủ tục nó bắt thế! Đàn bà biết gì mà hỏi! Ký nhanh lên!",
+      "pace": "fast",
+      "tone": "caught out, blustering"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "pages turning, a pen clicking, the clock ticking loud in the silence, a moped passing in the alley",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "50mm over-the-shoulder shot from behind the wife onto the husband, holding the previous framing"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of the wife lifting her eyes from the page, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "40mm medium two-shot across the table, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the husband, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot across the table, slow push-in toward the pen between them"
+     }
+    ],
+    "steps": [
+     "@Tung leans over the table and is already speaking fast and impatiently, poking the pen at a corner of the page.",
+     "@Tung keeps talking over her, tapping the pen on the stack, while @Thu turns the pages slowly with her mouth closed.",
+     "@Tung keeps speaking fast, flapping his free hand at the papers.",
+     "@Tung keeps talking, jabbing the pen at the place to sign.",
+     "@Tung finishes, closes his mouth and holds out the pen.",
+     "@Thu stops on one page, lifts her eyes to his face and starts asking slowly.",
+     "@Thu keeps asking in a level voice, her eyes never leaving him.",
+     "@Thu keeps speaking quietly, each word placed with care.",
+     "@Thu keeps talking, one finger laid on the page with no readable writing.",
+     "@Thu finishes the question and closes her mouth, while @Tung's jaw tightens.",
+     "@Tung snaps back fast, waving the pen.",
+     "@Tung keeps talking loudly, his face reddening.",
+     "@Tung keeps shouting, flicking the stack of papers with the back of his hand.",
+     "@Tung finishes and closes his mouth, breathing hard, a bead of sweat sliding from his temple.",
+     "@Thu holds his gaze in silence while the pen hangs in the air between them, both mouths closed."
+    ]
+   },
+   {
+    "id": "06.3",
+    "chars": [
+     "@Tung",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Tung",
+      "line": "Đã thế thì nói thẳng! Tôi muốn ly hôn. Nhà này, công ty này, một tay tôi gây dựng!",
+      "pace": "fast",
+      "tone": "loud, red-faced, cornered"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Ly hôn thì được. Nhưng ký gì, ký lúc nào, ở đâu, trước mặt ai, là em chọn.",
+      "pace": "slow",
+      "tone": "cold and perfectly calm"
+     },
+     {
+      "speaker": "@Tung",
+      "line": "Cô lấy gì mà chọn? Cô chỉ biết cầm kim với thước dây thôi!",
+      "pace": "fast",
+      "tone": "sneering, contemptuous"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "a palm thudding on wood, teacups rattling, heavy footsteps stomping up tiled stairs, then the clock ticking in the silence",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "40mm medium two-shot across the table, holding the previous framing"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of the wife laying the pen down, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind the husband onto the wife, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the husband sneering, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium shot past the wife at the table as the husband turns toward the staircase, locked off"
+     }
+    ],
+    "steps": [
+     "@Tung rises from his stool and is already speaking fast and loud, his face flushed.",
+     "@Tung keeps shouting, sweeping one arm around at the house, while @Thu sits perfectly still with her mouth closed.",
+     "@Tung keeps talking loudly, jabbing a thumb at his own chest.",
+     "@Tung keeps shouting, leaning both palms on the tabletop and rattling the teacups.",
+     "@Tung finishes and closes his mouth, and @Thu lays the pen down on the papers and starts answering slowly and coldly.",
+     "@Thu keeps speaking calmly, folding her hands on the stack of papers.",
+     "@Thu keeps talking in a cold, even voice, her eyes level on @Tung.",
+     "@Thu keeps speaking slowly, lifting one finger as she makes each point, while @Tung listens with his mouth closed.",
+     "@Thu keeps talking, perfectly calm, while @Tung's breathing grows heavy.",
+     "@Thu finishes and closes her mouth, holding his gaze.",
+     "@Tung sneers and snaps back fast from across the table.",
+     "@Tung keeps talking with his lip curling, miming a needle and thread with his fingers.",
+     "@Tung keeps speaking fast, miming a tape measure stretched between his hands.",
+     "@Tung finishes and closes his mouth, his nostrils flaring.",
+     "@Tung turns on his heel toward the steep tiled staircase while @Thu squares the stack of papers with both hands in silence."
+    ]
+   },
+   {
+    "id": "06.4",
+    "chars": [
+     "@Na",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Na",
+      "line": "Mẹ ơi, bố sắp sang ở với cô váy đỏ à? Cô ấy bảo con gọi là mẹ hai, con không muốn gọi đâu.",
+      "pace": "normal",
+      "tone": "hushed, trying not to cry"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Không muốn thì con không phải gọi. Con chỉ có một mẹ thôi, nhớ chưa con? Còn mẹ hai thì để mẹ tính.",
+      "pace": "slow",
+      "tone": "steady and tender"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a television murmuring faintly upstairs, the clock ticking, a soft sniffle, a moped fading away in the alley",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the girl on a middle step of the staircase, locked off"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of the girl hugging her knees, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm over-the-shoulder shot from behind the girl onto the mother sitting beside her"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up two-shot of mother and daughter on the step, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Na sits hunched on a middle step of the dim staircase hugging her knees and is already speaking in a small hushed voice, while @Thu comes to the foot of the stairs, mouth closed.",
+     "@Na keeps whispering, glancing up toward the dark upper floor.",
+     "@Na keeps speaking softly, her chin trembling.",
+     "@Na keeps talking in a hushed voice, blinking hard.",
+     "@Na keeps speaking, squeezing her knees tighter.",
+     "@Na keeps whispering, a tear welling in one eye.",
+     "@Na finishes and rests her chin on her knees, mouth closed, as @Thu climbs the steps toward her.",
+     "@Thu sits down on the step beside her and starts answering slowly and steadily.",
+     "@Thu keeps speaking gently, her eyes on her daughter's face.",
+     "@Thu keeps talking tenderly, shaking her head once.",
+     "@Thu keeps speaking slowly as she tucks a loose pigtail behind @Na's ear.",
+     "@Thu keeps talking softly, lifting @Na's chin with one finger.",
+     "@Thu keeps speaking in a steady low voice, her gaze lifting up the dark staircase.",
+     "@Thu finishes and closes her mouth, her jaw quietly set.",
+     "@Na leans her head against her mother's arm, and both look up the dark staircase in silence."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 7,
+  "title": "Anh Họ Luật Sư",
+  "time_label": "Sáng hôm sau, nhà Thu (06:00–07:00)",
+  "location": "Phòng khách tầng trệt căn nhà ống của gia đình Thu, buổi sáng hôm sau, nắng chiếu qua cửa gỗ xếp.",
+  "axis": "Máy quay đặt cạnh bàn thờ nhìn ra cửa gỗ xếp: bộ bàn ghế gỗ chạm ở giữa, cầu thang lát gạch dốc bên phải, ngõ nắng sáng ngoài cửa.",
+  "props": "Cặp tài liệu da đen (Khải cầm ngược), xấp đơn thuận tình ly hôn (không chữ đọc được), ấm trà đất và chén trà, nhẫn cưới vàng trơn trên tay Khải, túi xách vải và dép nhựa của Thu, gậy tre của bà Nhàn.",
+  "setting": "Daytime inside the family's narrow tube house in an old-quarter alley: a ground-floor living room with a carved wooden sofa set and a low tea table, a steep tiled staircase, a family altar shelf with incense, a potted orchid, sunlight through the open folding wooden door.",
+  "clips": [
+   {
+    "id": "07.1",
+    "chars": [
+     "@Khai",
+     "@BaNhan"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khai",
+      "line": "Cháu chào bà ạ. Cháu là luật sư, thay mặt anh Tùng đến làm việc với chị Thu.",
+      "pace": "normal",
+      "tone": "smooth and oily"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Luật sư cơ à? Thế cậu cầm cái cặp ngược thế kia là theo luật nào?",
+      "pace": "normal",
+      "tone": "dry and unimpressed"
+     },
+     {
+      "speaker": "@Khai",
+      "line": "Dạ, tại cháu vội quá ạ! Sáng nay tắc đường, cháu cuống hết cả lên.",
+      "pace": "fast",
+      "tone": "flustered, flipping the folder"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a moped buzzing past in the alley, a small teacup clinking on a tray, paper rustling, a rooster crowing somewhere",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the visitor in the open doorway, slow push-in"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of the visitor's smooth smile, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of the old woman on the carved sofa with her teacup, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the visitor looking down at his folder, locked off"
+     }
+    ],
+    "steps": [
+     "@Khai steps in through the open folding wooden door with a little bow and is already speaking politely in a smooth, oily voice, a black leather document folder tucked under his arm upside down.",
+     "@Khai keeps talking smoothly, a corner of paper with no readable writing slipping out of the bottom edge of the folder.",
+     "@Khai keeps speaking, his smile widening.",
+     "@Khai keeps talking, smoothing his styled hair with one hand.",
+     "@Khai finishes with another little bow and closes his mouth.",
+     "@BaNhan, seated on the carved sofa with a teacup, nods her chin toward the folder and asks dryly.",
+     "@BaNhan keeps talking, one eyebrow raised, looking him up and down.",
+     "@BaNhan keeps speaking dryly, tapping the teacup with one fingernail.",
+     "@BaNhan keeps talking, unimpressed, peering at the upside-down folder.",
+     "@BaNhan finishes and closes her mouth, waiting, while @Khai listens with his mouth closed.",
+     "@Khai glances down, sees the folder upside down, hurriedly flips it the right way up and blurts a quick apology.",
+     "@Khai keeps talking fast in a flustered rush, his ears reddening.",
+     "@Khai keeps speaking, a plain gold wedding ring glinting on his finger as he hugs the folder.",
+     "@Khai finishes and closes his mouth, forcing a stiff smile.",
+     "@Khai shifts his weight from foot to foot, the folder clutched to his chest, mouth closed."
+    ]
+   },
+   {
+    "id": "07.2",
+    "chars": [
+     "@Khai",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khai",
+      "line": "Chị ký thuận tình, nhận một trăm triệu, để lại nhà với công ty. Ra toà là chị mất quyền nuôi con đấy.",
+      "pace": "fast",
+      "tone": "pushy, rattling off terms"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Một trăm triệu à? Còn rẻ hơn tiền vải cái áo cưới chị đang may đấy.",
+      "pace": "slow",
+      "tone": "dry, eyes on the teapot"
+     },
+     {
+      "speaker": "@Khai",
+      "line": "Vải gì cơ? Áo cưới của ai? Em không hiểu chị nói gì.",
+      "pace": "fast",
+      "tone": "thrown, a nervous laugh"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "paper fanning across wood, tea pouring into a small cup, a cup set down on a wooden tray, the alley noise outside",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the visitor sitting forward on the carved sofa, slow push-in"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of the visitor, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind the visitor onto the wife, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot across the low tea table, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khai sits forward on the carved sofa, fans sheets of paper with no readable writing across the low tea table and is already speaking fast and pushy, while @Thu sits opposite with her mouth closed.",
+     "@Khai keeps talking, tapping each page with a fingertip, the gold wedding ring flashing on his hand.",
+     "@Khai keeps talking fast, ticking off points on his fingers.",
+     "@Khai leans in and keeps speaking quickly, his eyes hard behind the smile.",
+     "@Khai keeps talking, wagging a pen toward @Thu.",
+     "@Khai finishes with a slick little nod and closes his mouth, and @Thu lifts the clay teapot and answers slowly and dryly, without glancing at the papers.",
+     "@Thu keeps speaking as she pours tea slowly into a small cup.",
+     "@Thu keeps talking in a dry voice, her eyes on the teapot.",
+     "@Thu keeps speaking evenly, setting the teapot down.",
+     "@Thu keeps talking, sliding the cup across to @Khai with both hands.",
+     "@Thu finishes and closes her mouth, and @Khai blinks and answers fast with a thin little laugh.",
+     "@Khai keeps talking quickly, glancing from the cup to her face.",
+     "@Khai keeps speaking, his pushy smile faltering.",
+     "@Khai finishes and closes his mouth, frowning in confusion.",
+     "@Thu sits back with her own cup, mouth closed, watching him over the rim."
+    ]
+   },
+   {
+    "id": "07.3",
+    "chars": [
+     "@Thu",
+     "@Khai"
+    ],
+    "turns": [
+     {
+      "speaker": "@Thu",
+      "line": "Cậu về bảo anh ấy tự đến mà nói, đừng thuê người cầm cặp ngược.",
+      "pace": "slow",
+      "tone": "quiet, cutting and unhurried"
+     },
+     {
+      "speaker": "@Khai",
+      "line": "Chị cứ đợi đấy! Rồi chị sẽ phải ân hận, đến lúc ấy đừng trách em không nói trước!",
+      "pace": "fast",
+      "tone": "blustering, wagging a finger"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Cặp lại ngược rồi kìa cậu. Đi cẩn thận, kẻo rơi hết giấy.",
+      "pace": "slow",
+      "tone": "mild, not looking up"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "paper sliding across wood, a sofa creaking, quick footsteps on tiles, the folding door rattling, the alley noise swelling",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "40mm medium two-shot across the low tea table, holding the previous framing"
+     },
+     {
+      "until": 9,
+      "camera": "50mm over-the-shoulder shot from behind the wife onto the visitor as he stands, slow tilt up"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of the wife with her teacup, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium shot of the wife at the tea table with the open folding door behind her, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Thu slides the papers back across the tea table toward @Khai with two fingers and is already speaking slowly and quietly.",
+     "@Thu keeps speaking, her eyes dropping pointedly to the black leather folder on the sofa, while @Khai listens with his mouth closed.",
+     "@Thu keeps talking in a cutting, unhurried voice, her face calm.",
+     "@Thu keeps speaking softly as @Khai's ears redden.",
+     "@Thu finishes, closes her mouth and sips her tea.",
+     "@Khai springs up, scoops up the papers and the folder and answers fast, wagging a finger in the air.",
+     "@Khai keeps talking loudly, the finger still wagging.",
+     "@Khai keeps speaking fast and blustering, the folder clutched under his arm upside down again.",
+     "@Khai keeps talking as he backs toward the open folding door.",
+     "@Khai finishes and closes his mouth, and @Thu, without looking up, starts speaking slowly and mildly.",
+     "@Thu keeps speaking calmly, turning her teacup a quarter turn on the table.",
+     "@Thu keeps talking mildly, the faintest smile at the corner of her mouth.",
+     "@Thu keeps speaking as @Khai stops in the open doorway behind her.",
+     "@Thu finishes and closes her mouth, setting her cup down, while @Khai glances at the upside-down folder and flips it over.",
+     "@Khai hurries out into the sunny alley with reddening ears, mouth closed, while @Thu stays seated in silence."
+    ]
+   },
+   {
+    "id": "07.4",
+    "chars": [
+     "@BaNhan",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Con có để ý không? Cái nhẫn cậu luật sư đeo ấy, vàng trơn, giống hệt vết hằn trên tay con bé kia.",
+      "pace": "normal",
+      "tone": "sly, eyes twinkling"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Con thấy ngay từ lúc cậu ta gõ tay lên giấy tờ rồi. Nhẫn cưới thì bao giờ cũng phải có hai người đeo.",
+      "pace": "slow",
+      "tone": "calm, a faint knowing smile"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "the alley's morning bustle, a street vendor calling in the distance, sandals scuffing on the threshold, a bamboo stick tapping",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the old woman just inside the open door, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of the old woman's sly face, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm over-the-shoulder shot from behind the old woman onto the daughter-in-law"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot of both women at the open door, slow push-in"
+     }
+    ],
+    "steps": [
+     "@BaNhan stands just inside the open folding door leaning on her bamboo walking stick, turns toward the room and is already speaking slyly.",
+     "@BaNhan keeps talking, glancing back out at the sunny alley.",
+     "@BaNhan keeps speaking, while @Thu comes down the last steps of the staircase with a cloth handbag, her mouth closed.",
+     "@BaNhan wiggles her own ring finger and keeps speaking, eyes twinkling.",
+     "@BaNhan keeps talking low, tapping her ring finger with her thumb.",
+     "@BaNhan keeps speaking, one eyebrow cocked.",
+     "@BaNhan finishes and closes her mouth, waiting.",
+     "@Thu steps into her plastic sandals and answers slowly, a faint knowing smile on her lips.",
+     "@Thu keeps speaking calmly, looking out at the alley.",
+     "@Thu keeps talking in an even voice, settling the cloth handbag on her shoulder.",
+     "@Thu keeps speaking, lifting two fingers side by side.",
+     "@Thu keeps talking softly, while @BaNhan listens with her mouth closed.",
+     "@Thu keeps speaking, her eyes steady on the alley.",
+     "@Thu finishes and closes her mouth with a steady look out at the alley.",
+     "@BaNhan's wrinkled face breaks into a knowing grin beside her, both silent."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 8,
+  "title": "Cô Dâu Về Ra Mắt",
+  "time_label": "Chiều chủ nhật, nhà Thu (07:00–08:00)",
+  "location": "Phòng khách tầng trệt căn nhà ống của gia đình Thu, chiều chủ nhật khi Thu đang ở tiệm; clip 4 là gian ăn cơm buổi tối khi Thu về.",
+  "axis": "Như cảnh 07: máy quay đặt cạnh bàn thờ nhìn ra cửa gỗ xếp, bộ bàn ghế gỗ chạm ở giữa, cầu thang bên phải; clip 4 như cảnh 02: bàn ăn tròn ở giữa, cầu thang bên phải.",
+  "props": "Hộp quà sang trọng thắt nơ, cây lau nhà sợi, xô nước nhựa, tủ gỗ thấp dưới bàn thờ, cuốn sổ tay nhỏ của bà Nhàn (không chữ đọc được), gậy tre, ấm trà.",
+  "setting": "Daytime inside the family's narrow tube house in an old-quarter alley: a ground-floor living room with a carved wooden sofa set and a low tea table, a steep tiled staircase, a family altar shelf with incense, a potted orchid, sunlight through the open folding wooden door.",
+  "clips": [
+   {
+    "id": "08.1",
+    "chars": [
+     "@Tung",
+     "@BaNhan"
+    ],
+    "turns": [
+     {
+      "speaker": "@Tung",
+      "line": "Mẹ, đây là Vy, sắp làm con dâu mẹ. Mẹ chúc phúc cho chúng con đi, cô ấy có quà biếu mẹ.",
+      "pace": "fast",
+      "tone": "jittery and overeager"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Con dâu mẹ đang ở tiệm may cơ mà. Cô này là giúp việc mới à? Trông cũng sáng sủa đấy.",
+      "pace": "slow",
+      "tone": "vague and wandering, feigning confusion"
+     },
+     {
+      "speaker": "@Tung",
+      "line": "Mẹ! Cô ấy nghe thấy đấy!",
+      "pace": "fast",
+      "tone": "mortified, hissing"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a gift box set down on wood, a bamboo stick tapping on tiles, the alley's Sunday chatter, a caged bird chirping next door",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the son hurrying in through the open folding door, slow pan"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of the son's overeager grin, locked off"
+     },
+     {
+      "until": 9,
+      "camera": "40mm medium two-shot of mother and son at the carved sofa, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of the old woman on the carved sofa, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium shot of the son, locked off"
+     }
+    ],
+    "steps": [
+     "@Tung hurries in through the open folding door, sets a large glossy gift box with a satin bow on the low tea table and is already speaking fast with an overeager grin.",
+     "@Tung keeps talking quickly, waving toward the open door.",
+     "@Tung keeps speaking, beaming at his mother on the carved sofa.",
+     "@Tung keeps talking fast, patting the glossy gift box.",
+     "@Tung finishes, rubbing his palms together hopefully, and closes his mouth.",
+     "@BaNhan squints past him toward the door and answers in a vague, wandering voice, while @Tung listens with his mouth closed.",
+     "@BaNhan keeps answering slowly, tilting her head as if confused.",
+     "@BaNhan keeps speaking, peering harder toward the doorway.",
+     "@BaNhan keeps talking vaguely, while @Tung's grin freezes.",
+     "@BaNhan keeps speaking slowly, blinking innocently at the doorway.",
+     "@BaNhan keeps talking, nodding as if approving a new maid.",
+     "@BaNhan finishes and closes her mouth, her face blank and innocent.",
+     "@Tung rubs the back of his neck and hisses a quick protest.",
+     "@Tung finishes hissing through his teeth and closes his mouth.",
+     "@Tung casts a pleading glance toward the open door, mouth closed."
+    ]
+   },
+   {
+    "id": "08.2",
+    "chars": [
+     "@BaNhan",
+     "@Vy"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Vào đây cháu. Cầm lấy cái này, nhà này ngày nào cũng phải lau ba lần đấy, sáng, trưa, tối.",
+      "pace": "normal",
+      "tone": "deadpan and dead serious"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Bà ơi, cháu là người yêu anh Tùng, sắp về làm dâu nhà mình ạ! Cháu không phải người làm đâu!",
+      "pace": "fast",
+      "tone": "forced sweetness, voice too high"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Ừ, thế thì càng phải lau, cho quen tay đi.",
+      "pace": "slow",
+      "tone": "unblinking, bone-dry"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "water sloshing in a bucket, high heels clicking on tiles, a tinkling forced laugh, the alley's Sunday chatter",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the old woman at the foot of the staircase in three-quarter profile, slow push-in"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the old woman's deadpan face, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm over-the-shoulder shot from behind the old woman onto the young woman at the door"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot from inside the room by the folding door, slow push-in"
+     }
+    ],
+    "steps": [
+     "@BaNhan hobbles to a plastic bucket at the foot of the staircase, lifts the string mop out of it and is already speaking deadpan.",
+     "@BaNhan holds the mop out toward the doorway and keeps talking as @Vy steps in through the folding door with a sweet smile, mouth closed.",
+     "@BaNhan keeps speaking, her face perfectly blank, the mop dripping onto the tiles.",
+     "@BaNhan keeps talking, counting off on her thin fingers.",
+     "@BaNhan keeps speaking dead seriously, the mop still held out.",
+     "@BaNhan finishes with one firm nod and closes her mouth.",
+     "@Vy, in her crimson dress and beige high heels, gives a tinkling little laugh and answers fast and sugary.",
+     "@Vy keeps talking sweetly, a hand pressed to her chest, her voice pitched too high.",
+     "@Vy keeps speaking with a fixed smile, glancing at the dripping mop.",
+     "@Vy keeps talking fast, shaking her head at the mop.",
+     "@Vy finishes and closes her mouth, her smile stretched wide.",
+     "@BaNhan answers in a bone-dry voice without a flicker, the mop still held out.",
+     "@BaNhan keeps speaking slowly, unblinking, while @Vy listens with her mouth closed.",
+     "@BaNhan keeps talking as @Vy's smile cracks and she takes the mop handle between two fingers.",
+     "@BaNhan finishes and closes her mouth, while @Vy holds the mop at arm's length."
+    ]
+   },
+   {
+    "id": "08.3",
+    "chars": [
+     "@Vy",
+     "@BaNhan"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Gầm tủ nữa cháu. Con dâu cả nhà này lau bao năm nay, chưa kêu một câu nào.",
+      "pace": "slow",
+      "tone": "lordly, savoring it"
+     },
+     {
+      "speaker": "@Vy",
+      "line": "Bà già lẩm cẩm. Đợi sang tên xong, tôi tống bà vào viện dưỡng lão cho rảnh nợ.",
+      "pace": "fast",
+      "tone": "sour, muttering under her breath"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Cháu nói gì đấy? Bà nghễnh ngãng, nói to lên cho bà nghe với.",
+      "pace": "normal",
+      "tone": "loud, innocently deaf"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "a wet mop swishing across tiles, water dripping into a bucket, high heels wobbling on the floor, a teacup clinking, the clock ticking",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "40mm medium two-shot from inside the room by the folding door, holding the previous framing"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the old woman on the carved sofa with her teacup, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of the young woman mopping by the altar cabinet, low angle, slow lateral track"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the old woman cupping her ear, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot across the living room, the carved sofa and the bucket in frame, locked off"
+     }
+    ],
+    "steps": [
+     "@BaNhan settles back on the carved sofa and is already speaking slowly, pointing her bamboo stick at the gap under the low wooden cabinet beneath the altar shelf, while @Vy mops the tiles, mouth closed.",
+     "@BaNhan keeps speaking in a lordly voice, while @Vy mops in her crimson dress and beige high heels, her mouth closed.",
+     "@BaNhan picks up her teacup and keeps talking, savoring every word.",
+     "@BaNhan keeps speaking slowly, the teacup held under her chin.",
+     "@BaNhan keeps talking, blowing gently on her tea.",
+     "@BaNhan finishes, closes her mouth and lets her eyes droop shut as if dozing.",
+     "@Vy bends low to reach the mop under the cabinet, wobbling on her high heels, and mutters fast under her breath, her face turned to the camera.",
+     "@Vy keeps muttering sourly, her lip curling.",
+     "@Vy keeps whispering through clenched teeth, poking the mop under the cabinet.",
+     "@Vy finishes muttering, closes her mouth and wrings the mop out into the bucket with a hard twist.",
+     "@BaNhan opens one eye and asks loudly and innocently, cupping a hand to her ear.",
+     "@BaNhan keeps talking loudly, leaning toward @Vy.",
+     "@BaNhan keeps speaking, tapping her own ear with one finger.",
+     "@BaNhan keeps talking, eyebrows raised in innocence, while @Vy freezes over the bucket with a stiff fake smile.",
+     "@BaNhan finishes, closes her mouth and quietly slips a tiny notebook with no readable writing out of her cardigan pocket."
+    ]
+   },
+   {
+    "id": "08.4",
+    "chars": [
+     "@BaNhan",
+     "@Thu"
+    ],
+    "turns": [
+     {
+      "speaker": "@BaNhan",
+      "line": "Con giúp việc mới hôm nay hứa tống mẹ ra khỏi nhà đấy. Mẹ chép vào sổ cả rồi, từng chữ một.",
+      "pace": "normal",
+      "tone": "sly, enjoying every word"
+     },
+     {
+      "speaker": "@Thu",
+      "line": "Mẹ giả lẫn khéo thế, con suýt tin mẹ lẫn thật. Mẹ đóng phim được đấy.",
+      "pace": "normal",
+      "tone": "a soft half smile in the voice"
+     },
+     {
+      "speaker": "@BaNhan",
+      "line": "Con lạ gì mẹ nữa, già thì phải diễn cho ra già chứ!",
+      "pace": "fast",
+      "tone": "chuckling, pleased with herself"
+     }
+    ],
+    "continuity": "cut",
+    "setting": "Evening inside the family's narrow three-storey tube house in an old-quarter alley: a ground-floor dining area with a round wooden table set with rice bowls and dishes, low wooden stools, a small kitchen with a gas stove behind, a steep tiled staircase, a family altar shelf with incense, warm tungsten light.",
+    "sfx": "a tiny notebook's pages flicking, a soft breath of laughter, rice scooped into a bowl, the clock ticking",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm medium shot of the old woman at the round table holding up a tiny notebook, slow push-in"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of the old woman's sly grin, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm over-the-shoulder shot from behind the old woman onto the daughter-in-law, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot across the round table, slow push-in"
+     }
+    ],
+    "steps": [
+     "@BaNhan sits at the round dining table, holds up a tiny worn notebook with no readable writing and is already speaking with a sly grin, while @Thu comes in with her cloth handbag still on her shoulder, mouth closed.",
+     "@BaNhan keeps talking, tapping the notebook cover, as @Thu sits down opposite her.",
+     "@BaNhan keeps speaking, savoring every word, her eyebrows dancing.",
+     "@BaNhan flips the little notebook open toward @Thu, its pages showing no readable writing, and keeps speaking.",
+     "@BaNhan keeps talking, running a bony finger down the page.",
+     "@BaNhan keeps speaking with a satisfied little sniff.",
+     "@BaNhan finishes and closes her mouth, grinning, and @Thu's lips twitch as she answers with a half smile.",
+     "@Thu keeps speaking softly, shaking her head in mock wonder.",
+     "@Thu keeps talking, setting her cloth handbag down on a stool.",
+     "@Thu keeps speaking, a soft laugh in her voice.",
+     "@Thu finishes and closes her mouth, smiling.",
+     "@BaNhan chuckles and answers with a quick reply, while @Thu's shoulders shake with a silent laugh, mouth closed.",
+     "@BaNhan keeps talking through a chuckle, tucking the notebook back into her cardigan pocket.",
+     "@BaNhan keeps speaking, wagging a finger, pleased with herself.",
+     "@BaNhan finishes, closes her mouth and gives @Thu a slow wink while @Thu smiles."
+    ]
+   }
+  ]
+ }
+]

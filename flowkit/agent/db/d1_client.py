@@ -425,12 +425,19 @@ async def sync_sqlite_to_d1(sqlite_conn: Any, schema_sql: str) -> dict[str, Any]
     table_stats: dict[str, int] = {}
     errors: list[str] = []
 
+    prune_statements = (
+        ("DELETE FROM cms_channel WHERE slug IN (?, ?)", ["mai-hoa-thung", "vo-tao-khang"]),
+        ("DELETE FROM cms_episode WHERE channel_slug IN (?, ?)", ["mai-hoa-thung", "vo-tao-khang"]),
+        ("DELETE FROM cms_clip WHERE channel_slug IN (?, ?)", ["mai-hoa-thung", "vo-tao-khang"]),
+        ("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
+        ("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
+        ("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= ?", [240]),
+        ("DELETE FROM cms_episode WHERE id NOT LIKE '%:ep:%'", []),
+        ("DELETE FROM cms_clip WHERE id NOT LIKE '%:ep:%'", []),
+    )
+
     async with httpx.AsyncClient(timeout=60.0) as client:
-        for prune_sql, prune_params in (
-            ("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
-            ("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
-            ("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= ?", [240]),
-        ):
+        for prune_sql, prune_params in prune_statements:
             await raw_sqlite.execute(prune_sql, prune_params)
             await d1_query_async(prune_sql, prune_params, cfg=cfg, client=client)
         await raw_sqlite.commit()
@@ -481,7 +488,7 @@ async def sync_sqlite_to_d1(sqlite_conn: Any, schema_sql: str) -> dict[str, Any]
 
 
 async def sync_d1_to_sqlite(sqlite_conn: Any, schema_sql: str) -> dict[str, Any]:
-    """Pull all rows from Cloudflare D1 SQL into the local SQLite database."""
+    """Pull all rows from Cloudflare D1 SQL into the local SQLite database without losing local R2/COMPLETED data."""
     cfg = get_cloud_config()
     if not is_d1_configured(cfg):
         return {
@@ -504,6 +511,14 @@ async def sync_d1_to_sqlite(sqlite_conn: Any, schema_sql: str) -> dict[str, Any]
                     table_stats[table] = 0
                     continue
 
+                local_by_id: dict[Any, dict] = {}
+                if table in ("cms_episode", "cms_clip"):
+                    l_cur = await raw_sqlite.execute(f"SELECT * FROM {table}")
+                    for lr in await l_cur.fetchall():
+                        ld = dict(lr)
+                        if ld.get("id") is not None:
+                            local_by_id[ld["id"]] = ld
+
                 cols = list(rows[0].keys())
                 col_list_str = ", ".join(cols)
                 placeholders = ", ".join("?" for _ in cols)
@@ -511,7 +526,23 @@ async def sync_d1_to_sqlite(sqlite_conn: Any, schema_sql: str) -> dict[str, Any]
 
                 pulled = 0
                 for row in rows:
-                    vals = [row.get(c) for c in cols]
+                    merged_row = dict(row)
+                    existing = local_by_id.get(merged_row.get("id"))
+                    if existing:
+                        for k, l_val in existing.items():
+                            r_val = merged_row.get(k)
+                            if (r_val is None or r_val == "") and (l_val is not None and l_val != ""):
+                                merged_row[k] = l_val
+                        if table == "cms_clip" and existing.get("status") == "COMPLETED":
+                            merged_row["status"] = "COMPLETED"
+                        if table == "cms_episode":
+                            merged_row["rendered_clips"] = max(
+                                int(merged_row.get("rendered_clips") or 0),
+                                int(existing.get("rendered_clips") or 0),
+                            )
+                            if existing.get("is_complete"):
+                                merged_row["is_complete"] = 1
+                    vals = [merged_row.get(c) for c in cols]
                     await raw_sqlite.execute(insert_sql, _normalize_params(vals))
                     pulled += 1
                 await raw_sqlite.commit()
@@ -520,6 +551,9 @@ async def sync_d1_to_sqlite(sqlite_conn: Any, schema_sql: str) -> dict[str, Any]
                 errors.append(f"{table}: {e}")
 
         for prune_sql, prune_params in (
+            ("DELETE FROM cms_channel WHERE slug IN (?, ?)", ["mai-hoa-thung", "vo-tao-khang"]),
+            ("DELETE FROM cms_episode WHERE channel_slug IN (?, ?)", ["mai-hoa-thung", "vo-tao-khang"]),
+            ("DELETE FROM cms_clip WHERE channel_slug IN (?, ?)", ["mai-hoa-thung", "vo-tao-khang"]),
             ("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
             ("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", ["duong-dua-sinh-tu", 40]),
             ("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= ?", [240]),

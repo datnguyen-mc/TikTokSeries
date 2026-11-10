@@ -8,10 +8,10 @@
 
 | Series | Khóa nhân vật & ảnh tham chiếu | Các tập (1 tập/ngày) |
 | ------ | ------------------------------ | --------------------- |
-| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-28](mit-va-du-1970/tap-28/README.md) (từ 07/11/2026: mỗi tập một chuyện thôn quê 1970, 60 giây, không gượng ép tin 2026) |
-| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-22](pheo-va-no-meo/tap-22/README.md) (từ 06/11/2026: 60 giây dạy nấu 6 phần + kèo thưởng chơi chữ; giọng Bắc từ 07/11) |
+| Mit & Đú 1970 | [FLOW_PROMPTS.md](mit-va-du-1970/FLOW_PROMPTS.md) | [tap-1](mit-va-du-1970/tap-1/README.md) → [tap-29](mit-va-du-1970/tap-29/README.md) (từ 07/11/2026: mỗi tập một chuyện thôn quê 1970, 60 giây, không gượng ép tin 2026) |
+| 365 Ngày Phèo Làm Nội Trợ | [FLOW_PROMPTS.md](pheo-va-no-meo/FLOW_PROMPTS.md) | [tap-1](pheo-va-no-meo/tap-1/README.md) → [tap-23](pheo-va-no-meo/tap-23/README.md) (từ 06/11/2026: 60 giây dạy nấu 6 phần + kèo thưởng chơi chữ; giọng Bắc từ 07/11) |
 | Nhà Tèo & Sún | [FLOW_PROMPTS.md](teo-va-sun-cho/FLOW_PROMPTS.md) | [tap-1](teo-va-sun-cho/tap-1/README.md) → [tap-6](teo-va-sun-cho/tap-6/README.md) |
-| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-22](tay-du-ky-2026/tap-22/README.md) (tập 1–7 đã gỡ khỏi repo; từ 07/11/2026: 60 giây tổng kết hot & drama trong ngày, giọng Bắc) |
+| Tây Du Ký 2026 | [FLOW_PROMPTS.md](tay-du-ky-2026/FLOW_PROMPTS.md) | [tap-8](tay-du-ky-2026/tap-8/README.md) → [tap-23](tay-du-ky-2026/tap-23/README.md) (tập 1–7 đã gỡ khỏi repo; từ 07/11/2026: 60 giây tổng kết hot & drama trong ngày, giọng Bắc) |
 | 365 Ngày Việt Nam | [FLOW_PROMPTS.md](365ngayvietnam/FLOW_PROMPTS.md) | [tap1-ha-giang](365ngayvietnam/tap1-ha-giang/README.md) → [tap11-moc-chau](365ngayvietnam/tap11-moc-chau/README.md) |
 | Mẹ và Bé | [FLOW_PROMPTS.md](me-va-be/FLOW_PROMPTS.md) | [tap-1](me-va-be/tap-1/README.md) → [tap-9](me-va-be/tap-9/README.md) |
 | Biệt Đội Gara | [FLOW_PROMPTS.md](biet-doi-gara/FLOW_PROMPTS.md) | Phim 15 phút: [canh-01](biet-doi-gara/canh-01/README.md) → [canh-15](biet-doi-gara/canh-15/README.md), kịch bản tổng [KICH_BAN_PHIM.md](biet-doi-gara/KICH_BAN_PHIM.md) |

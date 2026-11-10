@@ -1,4 +1,4 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 8s, 12s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -10,27 +10,43 @@ Bright natural lighting: warm golden morning and sunset light over the old quart
 A tiny electronics repair stall tucked under a staircase in an old-quarter alley: shelves of old radios and phones, tangled wires, a soldering iron, a magnifier lamp, a single bare bulb.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @Khoa = Ông Khoa, 60, the old gang's lock and gadget wizard, now repairs radios and phones; thin and lanky, bald crown with long grey hair at the back tied in a small ponytail, thick magnifier glasses pushed up on his forehead; brown multi-pocket vest over a blue checkered shirt, grey trousers, canvas shoes.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 50mm medium shot with a slow push-in; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 50mm medium shot of the repairman leaning over the bench, locked off.
+- Shot 2, 4–8s: 85mm close-up of his huge magnified eyes and face behind the thick lenses, locked off.
+- Shot 3, 8–12s: 50mm medium shot of the repairman lining up his tools, locked off.
+- Shot 4, 12–15s: 85mm close-up of his quivering hands raised over the tools, his grinning face behind them, locked off.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: The cluttered workbench under the magnifier lamp, a row of tiny screwdrivers and picks laid out beside a locked phone with a dark blank screen under a single bare bulb.
-- 3.0–7.0s: @Khoa leans in and pulls his thick magnifier glasses down from his forehead onto his eyes, which swell huge and bright behind the lenses, his mouth closed.
-- 7.0–11.0s: @Khoa lines up the tiny screwdrivers one by one in a perfectly straight row with his long bony fingers, nudging the last one neatly into place.
-- 11.0–15.0s: @Khoa lifts his hands over the tools and they quiver with eager little twitches as he wiggles his fingers like a boy, grinning with closed lips behind the huge lenses. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Khoa pulls his thick magnifier glasses down from his forehead onto his eyes, stares at his own trembling hands over the workbench and is already speaking to them in a dry nasal voice.
+- 1–2s (Shot 1): @Khoa holds up his trembling hands and keeps talking to them, frowning.
+- 2–3s (Shot 1): @Khoa shakes his hands out and goes on deadpan.
+- 3–4s (Shot 1): @Khoa keeps talking as his eyes swell huge and bright behind the thick lenses.
+- 4–5s (CUT to Shot 2): @Khoa waves at an old radio on the shelf with disdain as he keeps talking.
+- 5–6s (Shot 2): @Khoa peers at his fingers through the huge lenses and keeps talking, barely hiding a grin.
+- 6–7s (Shot 2): @Khoa blinks his magnified eyes and goes on in a fussy murmur.
+- 7–8s (Shot 2): @Khoa's lips twitch with glee as he keeps talking.
+- 8–9s (CUT to Shot 3): @Khoa takes a slow deep breath through his nose, still murmuring to himself.
+- 9–10s (Shot 3): @Khoa breathes out slowly, his shoulders dropping, as he keeps talking.
+- 10–11s (Shot 3): @Khoa lines up the tiny screwdrivers one by one in a straight row as he says the last words.
+- 11–12s (Shot 3): @Khoa nudges the last screwdriver into line and closes his mouth.
+- 12–13s (CUT to Shot 4): @Khoa lifts his hands over the tools and wiggles his fingers like an eager boy, mouth closed.
+- 13–14s (Shot 4): @Khoa's fingers quiver with little twitches above the row of tools.
+- 14–15s (Shot 4): @Khoa grins with closed lips behind the huge lenses, his hands hovering over the tools. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–12.9s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Ông Khoa kéo cặp kính lúp dày cộp xuống mắt, xếp từng chiếc tua vít tí hon thẳng hàng trên bàn, và lần đầu sau ba mươi năm, đôi bàn tay từng mở mọi két sắt phố cổ ấy lại run lên, không phải vì già, mà vì háo hức." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue 0.4–11.9s, spoken on camera by @Khoa (man of 60, thin nasal tenor, flat deadpan delivery, fussy precise consonants, speaking at a natural, even conversational pace, deadpan, barely hiding glee), in Vietnamese with exact lip-sync, said exactly once: "Ô hay, run à? Không phải tại già đâu nhé. Mười năm nay chỉ toàn thay pin với hàn dây loa, giờ mới có một vụ ra hồn. Sướng quá nên run thôi. Nào, hít một hơi sâu, thở ra. Từ từ nào, từng cái một." (no subtitles)
+- @Khoa starts talking within the first second; whenever @Khoa speaks, the face and lips are clearly visible in that shot; after the last word @Khoa closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 11.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: glasses clicking into place, tiny tools rattling on the bench, an old radio crackling, a deep low boom. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, rushed delivery, slow drawn-out delivery or long pauses inside a sentence, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

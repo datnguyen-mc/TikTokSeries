@@ -1,49 +1,45 @@
 {
   "series": "cai-ket-cho-tieu-tam",
-  "title": "Cái Kết Cho Tiểu Tam",
+  "title": "Chính Thất Cao Tay, Tiểu Tam Trắng Tay",
   "clip_seconds": 15,
-  "style": "Photorealistic live-action Vietnamese family melodrama film set in Hà Nội today; warm natural grade with soft golden kitchen light, muted old-quarter ochres, cool blue-grey dawn and rain, glossy cold tones for the wealthy world, natural skin texture, subtle 35mm film grain, shallow depth of field.",
-  "lighting": "Naturalistic soft lighting: warm tungsten and charcoal-stove glow at home, cool grey-blue dawn light with yellow streetlamps on the old-quarter pavement, crisp cold daylight in the glass office and luxury apartment, wet neon reflections on rainy nights.",
-  "narrator": {
-    "gender": "female",
-    "voice": "Vietnamese woman about 50, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm low alto with a slight husk, fast fluent heartfelt family-drama storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words",
-    "rate": 4.0
-  },
+  "style": "Photorealistic live-action Vietnamese family drama with a sharp comic bite, set in Hà Nội today; warm natural grade with jewel-toned silks glowing in a tailor shop, muted old-quarter ochres, glossy cold tones for the wealthy world, golden banquet light, natural skin texture, subtle 35mm film grain, shallow depth of field.",
+  "lighting": "Naturalistic soft lighting: warm window light and a desk lamp over the sewing machine in the tailor shop, warm tungsten at home, cool blue-white glass light in the luxury apartment and the office, golden chandelier light at the banquet hall, soft green-gold daylight in the countryside.",
+  "voice_common": "every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.",
   "characters": {
     "@Thu": {
       "name": "Thu",
-      "anchor": "Thu, 34, hardworking wife who sells sticky rice at dawn; slim, lightly sun-tanned, long black hair in a low loose bun, gentle tired eyes, no makeup, work-roughened hands; faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, dark-green cloth apron, plastic sandals.",
-      "voice": "woman of 34, strictly standard Hà Nội Northern accent (never Southern accent), soft warm mezzo, gentle but firm, speaking at a brisk, fluent pace, every word spoken once clearly without stutter",
+      "anchor": "Thu, 34, calm and quietly brilliant wife who runs a small áo dài tailor shop in the old quarter; slim, lightly sun-tanned, long black hair in a low loose bun, gentle watchful dark eyes, no makeup, work-roughened hands; faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, dark-green cloth apron, a yellow tailor's measuring tape around her neck, plastic sandals.",
+      "voice": "woman of 34, soft low mezzo, warm and very steady, never raises her voice",
       "rate": 4.0
     },
     "@Tung": {
       "name": "Tùng",
       "anchor": "Tùng, 37, Thu's husband, newly rich construction company director; tall, slightly heavy, neatly gelled black hair, clean-shaven, heavy-lidded confident eyes; tailored charcoal-grey suit, white shirt open at the collar, gold wristwatch, polished black shoes.",
-      "voice": "man of 37, strictly standard Hà Nội Northern accent (never Southern accent), deep confident baritone, impatient and cold, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter",
+      "voice": "man of 37, deep heavy baritone, clipped and self-important",
       "rate": 4.0
     },
     "@Vy": {
       "name": "Vy",
-      "anchor": "Vy, 24, Tùng's glamorous new secretary; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.",
-      "voice": "young woman of 24, strictly standard Hà Nội Northern accent (never Southern accent), sweet honeyed soprano that turns cold and sharp, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter",
+      "anchor": "Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.",
+      "voice": "young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp",
       "rate": 4.0
     },
     "@BaNhan": {
       "name": "Bà Nhàn",
-      "anchor": "Bà Nhàn, 70, Tùng's mother who lives with Thu; small and thin, white hair in a neat low bun, kind deeply wrinkled face; brown knitted cardigan over a grey blouse, black trousers, cloth slippers, carved bamboo walking stick.",
-      "voice": "old woman of 70, strictly standard Hà Nội Northern accent (never Southern accent), frail raspy voice, trembling but firm, speaking at a brisk pace, every word spoken once clearly without stutter",
+      "anchor": "Bà Nhàn, 70, Tùng's sharp-witted mother who lives with Thu; small and thin, white hair in a neat low bun, kind deeply wrinkled face; brown knitted cardigan over a grey blouse, black trousers, cloth slippers, carved bamboo walking stick.",
+      "voice": "old woman of 70, thin raspy voice with a slight tremble and dry wit, drawn-out old Hà Nội vowels",
       "rate": 3.8
     },
     "@Na": {
       "name": "Na",
       "anchor": "Na, 9, Thu and Tùng's daughter; small, round face, bright dark eyes, black hair in two short pigtails with red hair ties; white short-sleeve school shirt, navy pleated skirt, red scarf knotted at the neck, white canvas shoes.",
-      "voice": "girl of 9, strictly standard Hà Nội Northern accent (never Southern accent), high clear child's voice, earnest, speaking at a brisk pace, every word spoken once clearly without stutter",
+      "voice": "girl of 9, high clear child's voice, bright and earnest",
       "rate": 3.8
     },
     "@Khai": {
       "name": "Khải",
-      "anchor": "Khải, 30, Vy's secret lover and partner in her scheme; lean, styled black undercut hair, thin moustache, sly half-smile; black slim-fit shirt with rolled sleeves, beige chinos, white sneakers, silver chain bracelet.",
-      "voice": "man of 30, strictly standard Hà Nội Northern accent (never Southern accent), smooth lazy tenor, sly and mocking, speaking at a brisk, fast-clipped pace, every word spoken once clearly without stutter",
+      "anchor": "Khải, 30, Vy's secret husband who poses as her lawyer cousin; lean, styled black undercut hair, thin moustache, sly half-smile; black slim-fit shirt with rolled sleeves, beige chinos, white sneakers, silver chain bracelet.",
+      "voice": "man of 30, smooth lazy tenor, slightly nasal, sly and drawling",
       "rate": 4.0
     }
   },

@@ -2,7 +2,7 @@
 """
 HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT CHO PHIM "GĂNG TƠ TÁI XUẤT" — BẢN 2 (hành động hài phố cổ Hà Nội, 27 CẢNH × 4 CLIPS × 15S = 27 PHÚT):
 1. KHÓA NHÂN VẬT CỐ ĐỊNH: tự tạo/lấy & khóa media_id của @Lam, @Mai, @BaHoa, @Khoa, @Hung, @Beo trên Google Flow Project.
-2. MỖI CLIP 15 GIÂY VỚI GOOGLE FLOW OMNI 1.2 FLASH (omni_flash, model_version 1.2): clip VO (người dẫn chuyện nam, nhân vật khép miệng) + clip thoại Lip-Sync;
+2. MỖI CLIP 15 GIÂY VỚI GOOGLE FLOW OMNI 1.2 FLASH (omni_flash, model_version 1.2): 100% clip thoại Lip-Sync do nhân vật nói trên hình (bỏ người dẫn chuyện — yêu cầu 10/11/2026), nhịp giọng nhanh/vừa/chậm theo cảnh;
    prompt sinh từ gang-to-tai-xuat/PHAN_CANH_OMNI.json bằng flowkit/scripts/build_omni_horror_prompts.py.
 3. Nối khung cuối clip trước chỉ khi cùng bối cảnh và không có nhân vật mới (FLOWKIT_CHAIN_LAST_FRAME=0 để tắt).
 4. Tải video về máy, đồng bộ Cloudflare R2 & D1 và Console Dashboard UI (SQLite flow_agent.db).
@@ -74,23 +74,16 @@ os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
 os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
-# 🎙️ QUY ĐỊNH & KHÓA CỐ ĐỊNH DUY NHẤT 1 GIỌNG ĐỌC NGƯỜI DẪN CHUYỆN (NARRATOR VOICE LOCK — CHUẨN MIỀN BẮC SẮC LẠNH)
+# 🎙️ PHIM 100% THOẠI NHÂN VẬT — KHÔNG CÓ NGƯỜI DẪN CHUYỆN (yêu cầu 10/11/2026)
+# Nhịp giọng nhanh / vừa / chậm theo từng lượt thoại nằm sẵn trong prompt ("pace" trong PHAN_CANH_OMNI.json).
 # -------------------------------------------------------------
-NARRATOR_VOICE_SPEC = {
-    "voice_lock_id": "VOICE_LOCK_NARRATOR_GANG",
-    "role": "Người Dẫn Chuyện (off-screen male narrator — one consistent playful voice across all 108 clips)",
-    "style_reference": "Vietnamese man about 45, standard Hà Nội Northern accent, warm punchy baritone with a playful knowing edge, fast witty caper-film pace (~4.0 syllables/s + atempo 1.18 after download)",
-    "gender_age": "Nam khoảng 45 tuổi, giọng Hà Nội chuẩn, ấm, chắc, hóm hỉnh, kể nhanh duyên dáng",
-    "acoustic_profile": "Warm punchy baritone, crisp Northern consonants, fast witty delivery: each sentence in one continuous breath, no pauses mid-sentence, never dragging vowels.",
-    "strict_rules": (
-        "1. One consistent standard Hà Nội Northern male narrator (VOICE_LOCK_NARRATOR_GANG) across all 108 clips. "
-        "2. Fast witty pace (about 4 syllables per second, one continuous breath, no mid-sentence pauses); never slow or sleepy. "
-        "3. During off-screen narration (VO), all on-screen characters keep their mouths closed."
-    ),
+DIALOGUE_VOICE_SPEC = {
+    "voice_lock_id": "VOICE_LOCK_DIALOGUE_ONLY_GANG",
+    "style_reference": "Không người dẫn chuyện: cả 108 clip chỉ có giọng nhân vật trên hình, giọng Hà Nội; nhịp nhanh / vừa / chậm theo cảnh",
     "prompt_directive": (
-        "Narrator (Người Dẫn Chuyện) = off-screen Vietnamese man about 45, standard Hà Nội Northern accent, warm punchy baritone with a playful knowing edge, "
-        "fast witty caper-film storytelling in one continuous breath with no mid-sentence pauses; "
-        "never slow or sleepy; keep all on-screen mouths closed during narration."
+        "No narrator and no voice-over: every spoken line comes from the on-screen character with exact lip-sync, "
+        "in a standard Hà Nội Northern Vietnamese accent; each character keeps one consistent voice, and the speaking speed "
+        "follows the scene: fast in arguments, panic and chases, slow and soft in emotional moments."
     ),
 }
 
@@ -358,10 +351,7 @@ def load_and_lock_project_characters(force_remote: bool = False):
         pass
 
     box_items = [("Project ID", PROJECT_ID)]
-    box_items.append((
-        "🎙️ Giọng Dẫn Chuyện (VO)",
-        f"{NARRATOR_VOICE_SPEC['voice_lock_id']} — {NARRATOR_VOICE_SPEC['style_reference']}",
-    ))
+    box_items.append(("🎙️ Lời Thoại", f"{DIALOGUE_VOICE_SPEC['voice_lock_id']} — {DIALOGUE_VOICE_SPEC['style_reference']}"))
     for spec in CHARACTER_SPECS:
         tag = spec["tag"]
         mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag, "Chưa có (sẽ tự tạo khi chạy)")
@@ -369,7 +359,7 @@ def load_and_lock_project_characters(force_remote: bool = False):
         box_items.append((f"Nhân Vật {tag}", f"media_id = {mid} | {vlock}"))
     box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Google Flow Omni — {CLIP_DURATION_S}s/clip)"))
     box_items.append(("Chế Độ Khóa", f"Ingredients R2V (/api/flow/generate-video-omni {CLIP_DURATION_S}s, Omni {OMNI_MODEL_VERSION})"))
-    print_box("🔒 ĐÃ KHÓA 6 NHÂN VẬT, GIỌNG NGƯỜI DẪN CHUYỆN & CẤU HÌNH GOOGLE FLOW OMNI 1.2 15S", box_items)
+    print_box("🔒 ĐÃ KHÓA 6 NHÂN VẬT, GIỌNG THOẠI & CẤU HÌNH GOOGLE FLOW OMNI 1.2 15S", box_items)
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
@@ -428,7 +418,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             (
                 PROJECT_ID,
                 "Găng Tơ Tái Xuất (Phim Hành Động Hài 27 Phút)",
-                "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2, VO người dẫn chuyện + Lip-Sync).",
+                "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2, 100% thoại nhân vật Lip-Sync, nhịp giọng theo cảnh).",
                 "Ông Lâm — ông xe ôm hiền lành ở cổng Ô Quan Chưởng — thật ra là Lâm Rồng, huyền thoại phố cổ Hà Nội ba mươi năm trước. Khi cháu gái Mai bị app vay tiền Phú Quý của Hưng siết nợ vì lo tiền mổ mắt cho ông, Lâm Rồng tái xuất cùng Hoa Hổ (bà chủ quán bún chả) và Khoa Báo (thợ sửa đài): một phi vụ lừa ngược kẻ lừa đảo, rượt đuổi qua phố đường tàu, và buổi livestream khiến Hưng tự khai trước năm triệu người xem.",
                 "realistic",
                 "ACTIVE",
@@ -490,7 +480,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                 "runners/gang_to_tai_xuat.py",
                 "gang-to-tai-xuat",
                 "canh",
-                "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2, VO người dẫn chuyện + Lip-Sync).",
+                "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2, 100% thoại nhân vật Lip-Sync, nhịp giọng theo cảnh).",
                 json.dumps(chars_json, ensure_ascii=False),
                 now_iso,
             ),
@@ -508,7 +498,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                 CURRENT_VIDEO_ID,
                 PROJECT_ID,
                 "Găng Tơ Tái Xuất (27 Phút — Cảnh 01 - 27)",
-                "Phim hành động 27 Cảnh × 4 Clips × 15s = 108 Clips (VO người dẫn chuyện + Lip-Sync)",
+                "Phim hành động 27 Cảnh × 4 Clips × 15s = 108 Clips (100% thoại nhân vật Lip-Sync, nhịp giọng theo cảnh)",
                 "HORIZONTAL",
                 "PROCESSING",
             ),
@@ -883,20 +873,12 @@ def fetch_media_video_url(media_id: str) -> str:
     return None
 
 
-def enforce_narrator_and_voice_lock(prompt: str) -> str:
-    """
-    Đảm bảo 100% mọi prompt gửi lên Google Flow đều có quy định khóa chặt DUY NHẤT 1 Giọng Người Dẫn Chuyện
-    (VOICE_LOCK_NARRATOR_GANG — Nam ~45 tuổi chuẩn Hà Nội, ấm, hóm hỉnh, kể nhanh)
-    và giọng thoại nhân vật chuẩn miền Bắc, ngay cả khi prompt được làm mềm (retry).
-    """
+def enforce_dialogue_voice_lock(prompt: str) -> str:
+    """Prompt sinh từ PHAN_CANH_OMNI.json luôn có [AUDIO]; nếu bản làm mềm (retry) lỡ mất khối đó thì chỉ chèn lại
+    luật thoại nhân vật — phim này không có người dẫn chuyện."""
     p = (prompt or "").strip()
-    if "[AUDIO]" not in p and NARRATOR_VOICE_SPEC["voice_lock_id"] not in p:
-        narrator_block = (
-            "\n\n[MANDATORY NARRATOR & VOICE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC — DUY NHẤT 1 GIỌNG SẮC LẠNH)]\n"
-            f"{NARRATOR_VOICE_SPEC['prompt_directive']}\n"
-            f"Strict Voice Rules: {NARRATOR_VOICE_SPEC['strict_rules']}\n"
-        )
-        p = p + narrator_block
+    if "[AUDIO]" not in p and DIALOGUE_VOICE_SPEC["voice_lock_id"] not in p:
+        p += f"\n\n[VOICE LOCK — DIALOGUE ONLY ({DIALOGUE_VOICE_SPEC['voice_lock_id']})]\n{DIALOGUE_VOICE_SPEC['prompt_directive']}\n"
     return p
 
 
@@ -937,7 +919,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
-    enforced_prompt = enforce_narrator_and_voice_lock(prompt)
+    enforced_prompt = enforce_dialogue_voice_lock(prompt)
     if not start_image_media_id:
         enforced_prompt = ensure_no_char_in_opening_beat(enforced_prompt)
     # Không chèn nhãn "[CẢNH xx - CLIP yy]" vào đầu prompt: chữ ở dòng đầu dễ bị Omni vẽ thành title card.
@@ -945,14 +927,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     flow_prompt = enforced_prompt
 
     ref_media_ids = get_clip_reference_media_ids(enforced_prompt)
-    is_vo_clip = "off-screen male narrator" in enforced_prompt.lower()
-    m_speed = re.search(r"\b(1\.\d{2}x)\b", enforced_prompt)
-    clip_speed = m_speed.group(1) if m_speed else "~4 âm tiết/giây"
-    voice_mode_desc = (
-        f"🎙️ VO Người Dẫn Chuyện Duy Nhất ({NARRATOR_VOICE_SPEC['voice_lock_id']} — Nam 42t Bắc ~108Hz khàn sắc lạnh, tốc độ {clip_speed})"
-        if is_vo_clip
-        else f"🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync chuẩn miền Bắc sắc gọn {clip_speed}, khớp khẩu hình)"
-    )
+    voice_mode_desc = "🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync giọng Hà Nội, nhịp nhanh/vừa/chậm theo cảnh, không người dẫn chuyện)"
 
     if start_image_media_id:
         endpoint = "/api/flow/generate-video"
@@ -1096,7 +1071,9 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
                             has_failed = True
                             all_done = False
-                        elif op_complaint and elapsed >= 65 and not (op.get("operation", {}).get("metadata", {}).get("video", {}).get("mediaId")):
+                        elif op_complaint and "media not found" not in op_complaint.lower() and elapsed >= 65 and not (op.get("operation", {}).get("metadata", {}).get("video", {}).get("mediaId")):
+                            # "Media not found." is reported while a 15s Omni render is still running (and by finished jobs too,
+                            # see flowkit/CLAUDE.md); aborting at 65s threw away clips that needed ~90s (10/11/2026).
                             log(f"⚠️ Google Flow từ chối/báo lỗi sau {elapsed}s ({op_complaint}) — kết thúc poll sớm để làm mềm prompt & chạy lại!")
                             has_failed = True
                             all_done = False
@@ -1194,6 +1171,13 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                     return poll_res
                 else:
                     log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt}/{max_retries} ({poll_res.get('error')}).")
+                    if poll_res.get("error") == "TIMEOUT" and attempt < max_retries:
+                        # 10/11/2026: Flow nhận job rồi không tạo gì (giới hạn lượt theo giờ) — không phải lỗi nội dung,
+                        # nên giữ nguyên prompt, chờ dần 3 → 15 phút rồi gửi lại thay vì làm mềm prompt và gửi dồn.
+                        wait_s = min(900, 180 * attempt)
+                        log(f"⏸️ Flow không trả video (có thể đang giới hạn lượt) — chờ {wait_s // 60} phút rồi gửi lại nguyên prompt.")
+                        time.sleep(wait_s)
+                        continue
             else:
                 log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {res.text}")
                 if "CAPTCHA_FAILED" in (res.text or ""):

@@ -49,19 +49,22 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Mit",
                 "name": "Mít (Chồng ~35 tuổi)",
-                "default_media_id": "50cf224b-1304-4320-8896-4b4d599d2056",
+                "default_media_id": "27613158-7873-4f43-acc8-be0785085843",
+                "locked_media_id": "27613158-7873-4f43-acc8-be0785085843",
                 "description": "Chó đực lông vàng nâu nhân hóa đi hai chân, mõm và ngực trắng kem, mặc áo ba lỗ xám bạc màu và quần đùi tối màu.",
             },
             {
                 "tag": "@Đú",
                 "name": "Đú (Vợ ~30 tuổi)",
-                "default_media_id": "44114803-92e4-48fb-ac9b-377a6c7c1cd2",
+                "default_media_id": "0f6a1316-e7cf-4722-9930-3a58e3513445",
+                "locked_media_id": "0f6a1316-e7cf-4722-9930-3a58e3513445",
                 "description": "Chó cái lông vàng kem nhân hóa đi hai chân, mõm trắng có vệt lông trắng dọc sống mũi, mặc áo bà ba hồng nhạt in hoa nhỏ.",
             },
             {
                 "tag": "@Nở",
                 "name": "Nở (Chó con 6 tuổi)",
-                "default_media_id": "43579677-48b3-4d74-88e9-61b88aa07dd3",
+                "default_media_id": "d0535a47-2f3b-4173-8e35-8f7663673eaf",
+                "locked_media_id": "d0535a47-2f3b-4173-8e35-8f7663673eaf",
                 "description": "Chó con dễ thương nhân hóa đi hai chân, cao ngang bụng Mít, lông kem mềm có mảng nâu nhạt trên tai cụp, mặc áo vàng nhạt in hoa nhỏ và chân váy nâu.",
             },
         ],
@@ -133,13 +136,15 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Pheo",
                 "name": "Mèo Phèo (Đầu bếp)",
-                "default_media_id": "af7d8804-5203-4364-b47e-cd30f20bf0fe",
+                "default_media_id": "ed473cc1-f931-45ec-92a2-89119cb89076",
+                "locked_media_id": "ed473cc1-f931-45ec-92a2-89119cb89076",
                 "description": "Mèo đen mập tròn nhân hóa đi hai chân, ngực có mảng lông trắng nhỏ, tai trái khuyết chữ V, đội mũ đầu bếp và tạp dề xanh navy.",
             },
             {
                 "tag": "@No",
                 "name": "Bà Chủ Hường / Nở",
-                "default_media_id": "b25ca9d3-5643-4eac-badc-7fef900ca3c6",
+                "default_media_id": "8a1b632c-a961-4a87-b512-0724e965b5c3",
+                "locked_media_id": "8a1b632c-a961-4a87-b512-0724e965b5c3",
                 "description": "Cô chó Pomeranian lông xù màu kem cam nhân hóa, mặc đồ bộ lụa hồng cánh sen, đeo vòng ngọc trai.",
             },
         ],
@@ -157,25 +162,29 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Thay",
                 "name": "Thầy (Đường Tăng)",
-                "default_media_id": "ad0c12d2-83a3-46df-a61c-c97f150c1fd1",
+                "default_media_id": "6264f460-c89e-4c21-ad12-3c863a8217da",
+                "locked_media_id": "6264f460-c89e-4c21-ad12-3c863a8217da",
                 "description": "Nhà sư trẻ tuấn tú hiền lành, mặc áo cà sa cam nghệ và đeo chuỗi hạt gỗ.",
             },
             {
                 "tag": "@DaiCa",
                 "name": "Đại Ca (Ngộ Không)",
-                "default_media_id": "34619eb9-7c90-4337-87c0-8375e53f4e3d",
+                "default_media_id": "513a5d32-d53b-4c0a-90da-ae4bffe948b8",
+                "locked_media_id": "513a5d32-d53b-4c0a-90da-ae4bffe948b8",
                 "description": "Chàng khỉ nhân hóa lanh lẹ, đeo vòng kim cô vàng, mặc áo bomber đỏ và quần jogger đen.",
             },
             {
                 "tag": "@HeoLuoi",
                 "name": "Heo Lười (Bát Giới)",
-                "default_media_id": "e556190e-4c69-464c-b081-cd1b87a39135",
+                "default_media_id": "c3701733-5f3a-4ca6-84dc-60ff28868ec1",
+                "locked_media_id": "c3701733-5f3a-4ca6-84dc-60ff28868ec1",
                 "description": "Chàng heo nhân hóa mập tròn vui tính, mặc áo sơ mi khoác ngoài xanh navy.",
             },
             {
                 "tag": "@UtKho",
                 "name": "Út Khờ (Sa Tăng)",
-                "default_media_id": "34b98c88-ca70-463a-bd23-128c4d405b38",
+                "default_media_id": "3c49b152-f272-4718-9858-bb2dca2ce88a",
+                "locked_media_id": "3c49b152-f272-4718-9858-bb2dca2ce88a",
                 "description": "Chàng trai to lớn thật thà, râu quai nón dày, đeo chuỗi hạt to và mặc tạp dề xanh rêu.",
             },
         ],
@@ -629,8 +638,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Ngan",
                 "name": "Ngân (Cô giáo trẻ, 26 tuổi — VOICE_LOCK_NGAN_MADA)",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "25a39418-a4c6-4522-ab1a-14a441c02ec7",
+                "locked_media_id": "25a39418-a4c6-4522-ab1a-14a441c02ec7",
                 "voice_lock": "VOICE_LOCK_NGAN_MADA",
                 "description": "Cô giáo tiểu học 26 tuổi từ thành phố về quê; dáng mảnh, tóc đen thẳng buộc thấp, ánh mắt điềm tĩnh cương quyết; áo blouse cộc tay màu kem, quần nâu sẫm, dép quai hậu, túi vải đeo vai. Giọng thoại: VOICE_LOCK_NGAN_MADA.",
                 "ref_prompt": "Full-body photorealistic character reference of @Ngan, a 26-year-old Vietnamese female primary-school teacher, 160 cm, slim build, straight black hair tied low at the neck, calm determined dark eyes, natural oval face, wearing a cream short-sleeve blouse, dark-brown trousers, flat sandals and a small cloth shoulder bag; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
@@ -638,8 +647,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Khoi",
                 "name": "Khôi (Em trai Ngân, 19 tuổi — VOICE_LOCK_KHOI_MADA)",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "ebf480b6-29bd-45e5-a459-1c7658d56bb2",
+                "locked_media_id": "ebf480b6-29bd-45e5-a459-1c7658d56bb2",
                 "voice_lock": "VOICE_LOCK_KHOI_MADA",
                 "description": "Em trai Ngân, sinh viên 19 tuổi về quê nghỉ hè; cao gầy, tóc đen ngắn rối, mặt xanh xao mệt mỏi; áo phông xanh than bạc màu, quần đùi xám, dép tổ ong trắng. Giọng thoại: VOICE_LOCK_KHOI_MADA.",
                 "ref_prompt": "Full-body photorealistic character reference of @Khoi, a 19-year-old Vietnamese male university student, 174 cm, lanky build, short tousled black hair, pale tired face with dark circles, wearing a faded navy T-shirt, grey shorts and white plastic honeycomb sandals; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
@@ -647,8 +656,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@BaHanh",
                 "name": "Bà Hạnh (Bà nội, 74 tuổi — VOICE_LOCK_HANH_MADA)",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "f096bc66-c159-4435-8a28-58a2f27663cc",
+                "locked_media_id": "f096bc66-c159-4435-8a28-58a2f27663cc",
                 "voice_lock": "VOICE_LOCK_HANH_MADA",
                 "description": "Bà nội của Ngân và Khôi, 74 tuổi; nhỏ người, lưng còng, tóc bạc búi thấp dưới khăn nhung đen, gương mặt hiền nhiều nếp nhăn; áo cánh nâu, quần đen, tràng hạt gỗ ở cổ tay. Giọng thoại: VOICE_LOCK_HANH_MADA.",
                 "ref_prompt": "Full-body photorealistic character reference of @BaHanh, a 74-year-old Vietnamese grandmother, 148 cm, small and slightly stooped, silver hair in a low bun under a black velvet headband, deep-lined gentle face, wearing a brown traditional áo cánh blouse and black trousers, wooden prayer beads on her wrist, barefoot in wooden clogs; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
@@ -656,8 +665,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@OngLy",
                 "name": "Ông Lý (Cựu trưởng thôn, 72 tuổi — VOICE_LOCK_LY_MADA)",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "dde3cdc7-d3ad-4f81-b5de-30ec960275b0",
+                "locked_media_id": "dde3cdc7-d3ad-4f81-b5de-30ec960275b0",
                 "voice_lock": "VOICE_LOCK_LY_MADA",
                 "description": "Cựu trưởng thôn 72 tuổi; cao gầy, tóc bạc chải ngược, mắt hẹp sắc lạnh; áo khoác cổ bẻ màu xanh rêu bạc màu ngoài áo may ô trắng, quần sẫm, chống gậy gỗ chạm. Giọng thoại: VOICE_LOCK_LY_MADA.",
                 "ref_prompt": "Full-body photorealistic character reference of @OngLy, a 72-year-old Vietnamese former village chief, 176 cm, tall and gaunt, slicked-back grey hair, hard narrow eyes, deep frown lines, wearing a faded olive-green collared jacket over a white undershirt, dark trousers, holding a carved wooden walking cane; plain grey studio background, hard side light, 8K. Not resembling any real actor."
@@ -665,8 +674,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@CoTham",
                 "name": "Vong Thắm (Cô gái chết đuối oan dưới đầm sen — VOICE_LOCK_THAM_MADA)",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "58f52ee3-e16b-4024-9740-c2173e4284f0",
+                "locked_media_id": "58f52ee3-e16b-4024-9740-c2173e4284f0",
                 "voice_lock": "VOICE_LOCK_THAM_MADA",
                 "description": "Vong hồn Thắm, cô gái mồ côi chết đuối oan ở đầm sen ba mươi năm trước; da trắng bệch ướt sũng, tóc đen dài ướt quấn cuống sen, mắt buồn thăm thẳm; áo bà ba trắng ướt sũng, quần đen, chân trần. Giọng thoại: VOICE_LOCK_THAM_MADA.",
                 "ref_prompt": "Full-body photorealistic character reference of @CoTham, the ghost of a young Vietnamese woman about 19 who drowned in a lotus pond long ago, 158 cm, slender, deathly pale wet skin, long soaked black hair tangled with thin lotus stems, dark sorrowful eyes, wearing a soaked white áo bà ba and black trousers, barefoot, water dripping; plain dark studio background, cold cyan-green rim light, 8K. Clean cinematic ghost appearance, no gore. Not resembling any real actor."
@@ -674,8 +683,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@ThamXua",
                 "name": "Thắm thuở sinh thời (19 tuổi, hồi tưởng — VOICE_LOCK_THAMXUA_MADA)",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "c7a6d2c5-d9e3-45c0-96e6-9ba8783b3008",
+                "locked_media_id": "c7a6d2c5-d9e3-45c0-96e6-9ba8783b3008",
                 "voice_lock": "VOICE_LOCK_THAMXUA_MADA",
                 "description": "Thắm lúc còn sống ba mươi năm trước: cô gái mồ côi 19 tuổi quét dọn đình làng; dáng mảnh, tóc đen dài tết một bím, mắt sợ hãi; áo bà ba trắng giản dị, quần đen, chân trần. Giọng thoại: VOICE_LOCK_THAMXUA_MADA.",
                 "ref_prompt": "Full-body photorealistic character reference of @ThamXua, a slim 19-year-old Vietnamese orphan village girl from the 1990s, 158 cm, long black hair in a single braid, frightened dark eyes, natural healthy skin, wearing a plain white áo bà ba and black trousers, barefoot; plain grey studio background, soft warm side light, 8K. Not resembling any real actor."
@@ -690,13 +699,13 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/gang_to_tai_xuat.py",
         "series_dir": "gang-to-tai-xuat",
         "ep_prefix": "canh",
-        "description": "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2 (VOICE_LOCK_NARRATOR_GANG): ông xe ôm phố cổ hóa ra là Lâm Rồng, tái xuất cùng Hoa Hổ và Khoa Báo lừa ngược ông chủ app vay tiền Phú Quý đang siết nợ cháu gái (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2).",
+        "description": "Phim hành động hài Việt Nam 27 phút, kịch bản gốc bản 2, 100% thoại nhân vật (không người dẫn chuyện, nhịp giọng theo cảnh — 10/11/2026): ông xe ôm phố cổ hóa ra là Lâm Rồng, tái xuất cùng Hoa Hổ và Khoa Báo lừa ngược ông chủ app vay tiền Phú Quý đang siết nợ cháu gái (16:9, 27 cảnh × 4 clips × 15s = 108 clips — Google Flow Omni 1.2).",
         "characters": [
             {
                 "tag": "@Lam",
                 "name": "Ông Lâm (Lâm Rồng) — VOICE_LOCK_LAM_GANG",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "07af69cb-9869-4965-b6cf-c8c9c975f7aa",
+                "locked_media_id": "07af69cb-9869-4965-b6cf-c8c9c975f7aa",
                 "voice_lock": "VOICE_LOCK_LAM_GANG",
                 "description": "Ông Lâm 'Lâm Rồng', 63 tuổi, ông xe ôm hiền lành ở cổng Ô Quan Chưởng, ba mươi năm trước là huyền thoại giang hồ phố cổ; nhỏ người, rắn rỏi, tóc bạc cắt cua, lông mày rậm bạc, mắt trái hơi mờ đục; áo gió kéo khóa xám bạc màu ngoài áo ba lỗ trắng, quần kaki rộng, dép nhựa, mũ cối xanh cũ, hình xăm rồng xanh sẫm trên cẳng tay phải. Giọng thoại: VOICE_LOCK_LAM_GANG.",
                 "ref_prompt": "Full-body photorealistic character reference of @Lam, a 63-year-old Vietnamese man, humble motorbike-taxi driver, 163 cm, wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles, wearing a faded grey zip-up windbreaker with the right sleeve pushed up to show a dark-green dragon tattoo on his forearm, a white tank top underneath, loose khaki trousers, plastic sandals, holding a battered green pith helmet; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
@@ -704,8 +713,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Mai",
                 "name": "Mai — VOICE_LOCK_MAI_GANG",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "77d55a1f-b8ee-4e66-b606-bcb19f22f542",
+                "locked_media_id": "77d55a1f-b8ee-4e66-b606-bcb19f22f542",
                 "voice_lock": "VOICE_LOCK_MAI_GANG",
                 "description": "Mai, 20 tuổi, cháu gái ông Lâm, sinh viên công nghệ thông tin, mắc nợ app vay tiền vì muốn lo tiền mổ mắt cho ông; nhỏ nhắn, tóc bob đen mái thẳng, kính gọng đen tròn; hoodie tím lavender rộng, quần jean đen, giày thể thao trắng đế dày, ba lô đen nhỏ. Giọng thoại: VOICE_LOCK_MAI_GANG.",
                 "ref_prompt": "Full-body photorealistic character reference of @Mai, a 20-year-old Vietnamese female IT student, 155 cm, petite, short black bob with straight bangs, round black-framed glasses, quick bright eyes, wearing an oversized lavender hoodie, black jeans, chunky white sneakers and a small black backpack; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
@@ -713,8 +722,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@BaHoa",
                 "name": "Bà Hoa (Hoa Hổ) — VOICE_LOCK_BAHOA_GANG",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "a310c641-d8a8-4d31-bccf-21c381b504f8",
+                "locked_media_id": "a310c641-d8a8-4d31-bccf-21c381b504f8",
                 "voice_lock": "VOICE_LOCK_BAHOA_GANG",
                 "description": "Bà Hoa 'Hoa Hổ', 61 tuổi, bộ não của băng ba mươi năm trước, nay là chủ quán bún chả đông nhất phố; đẫy đà, tóc xoăn ngắn nhuộm đỏ mận, mắt sắc, son đỏ, khuyên tai vàng tròn; áo lụa hoa tím, quần ống rộng đen, vòng vàng bản to, dép quai hậu thấp. Giọng thoại: VOICE_LOCK_BAHOA_GANG.",
                 "ref_prompt": "Full-body photorealistic character reference of @BaHoa, a 61-year-old Vietnamese woman, bún chả shop owner, 155 cm, plump, short curly permed hair dyed burgundy, sharp bright eyes, red lipstick, gold hoop earrings, wearing a purple floral silk blouse, black wide trousers, a chunky gold bangle and low heeled sandals; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
@@ -722,8 +731,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Khoa",
                 "name": "Ông Khoa (Khoa Báo) — VOICE_LOCK_KHOA_GANG",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "5d8b0ff3-1866-468c-a45f-98fba4674168",
+                "locked_media_id": "5d8b0ff3-1866-468c-a45f-98fba4674168",
                 "voice_lock": "VOICE_LOCK_KHOA_GANG",
                 "description": "Ông Khoa 'Khoa Báo', 60 tuổi, phù thủy mở khóa của băng năm xưa, nay sửa đài và điện thoại dưới gầm cầu thang; gầy cao lêu nghêu, hói đỉnh, tóc bạc phía sau buộc túm nhỏ, kính lúp dày đẩy lên trán; gile nâu nhiều túi ngoài sơ mi kẻ ô xanh, quần xám, giày vải. Giọng thoại: VOICE_LOCK_KHOA_GANG.",
                 "ref_prompt": "Full-body photorealistic character reference of @Khoa, a 60-year-old Vietnamese man, radio and phone repairman, 172 cm, thin and lanky, bald crown with long grey hair at the back tied in a small ponytail, thick magnifier glasses pushed up on his forehead, wearing a brown multi-pocket vest over a blue checkered shirt, grey trousers and canvas shoes; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
@@ -731,8 +740,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Hung",
                 "name": "Hưng Phú Quý — VOICE_LOCK_HUNG_GANG",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "36377daf-7efc-4c8a-bfda-7a5e1f8f2d57",
+                "locked_media_id": "36377daf-7efc-4c8a-bfda-7a5e1f8f2d57",
                 "voice_lock": "VOICE_LOCK_HUNG_GANG",
                 "description": "Hưng 'Phú Quý', 31 tuổi, ông chủ ứng dụng vay tiền và mê livestream khoe khoang; cao gầy, tóc undercut nhuộm vàng tro, kính gọng vàng tròn, nụ cười vênh váo; áo bomber satin đen rộng ngoài áo phông trắng, quần jean đen rách, giày cổ cao trắng, nhiều nhẫn bạc, điện thoại gắn gimbal. Giọng thoại: VOICE_LOCK_HUNG_GANG.",
                 "ref_prompt": "Full-body photorealistic character reference of @Hung, a 31-year-old Vietnamese man, flashy loan app boss and livestreamer, 178 cm, tall and slim, dyed ash-blond undercut, round gold-rimmed glasses, cocky grin, wearing an oversized black satin bomber jacket over a plain white T-shirt, ripped black jeans, white high-top sneakers and several silver rings, holding a phone on a small selfie gimbal; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
@@ -740,8 +749,8 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Beo",
                 "name": "Béo Đầu Sấm — VOICE_LOCK_BEO_GANG",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "957f67e8-6414-4457-bb0d-f3a266eeb772",
+                "locked_media_id": "957f67e8-6414-4457-bb0d-f3a266eeb772",
                 "voice_lock": "VOICE_LOCK_BEO_GANG",
                 "description": "Béo 'Đầu Sấm', 28 tuổi, đầu sỏ đòi nợ thuê của Phú Quý; to béo, đầu cạo trọc có hình tia sét cạo một bên, mắt híp, răng cửa bọc vàng; áo ba lỗ đen, quần soóc rằn ri, dép tông, dây chuyền vàng giả. Giọng thoại: VOICE_LOCK_BEO_GANG.",
                 "ref_prompt": "Full-body photorealistic character reference of @Beo, a 28-year-old Vietnamese man, heavyset debt collector, 175 cm, big round build, shaved head with a lightning-bolt pattern shaved on one side, small eyes, a gold front tooth, wearing a black tank top, camouflage shorts, flip-flops and a cheap fake-gold chain; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
@@ -750,28 +759,28 @@ DEFAULT_CHANNELS = [
     },
     {
         "slug": "cai-ket-cho-tieu-tam",
-        "name": "Cái Kết Cho Tiểu Tam (Phim Tình Cảm 25 Phút)",
-        "project_id": "",
+        "name": "Chính Thất Cao Tay, Tiểu Tam Trắng Tay (Phim Gia Đình 25 Phút)",
+        "project_id": "e5783dc5-1a5e-4608-8fe9-e55f5f6de0bb",
         "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
         "runner_script": "runners/cai_ket_cho_tieu_tam.py",
         "series_dir": "cai-ket-cho-tieu-tam",
         "ep_prefix": "canh",
-        "description": "Phim tình cảm gia đình Việt Nam 25 phút, kịch bản gốc (100% thoại nhân vật, không người dẫn chuyện): người vợ tào khang bán xôi bị chồng giám đốc bỏ theo cô thư ký 'bé ba'; Thu làm lại từ đầu, bé ba và đồng phạm bị vạch trần (16:9, 25 cảnh × 4 clips × 15s = 100 clips — Google Flow Omni 1.2).",
+        "description": "Phim gia đình có miếng hài Việt Nam 25 phút, kịch bản gốc bản 3 (100% thoại nhân vật, không người dẫn chuyện, nhịp giọng theo cảnh): tiểu tam đến tận tiệm may áo dài của chính thất đặt may áo cưới; Thu bình thản nhận may, lật mặt cặp vợ chồng lừa đảo ngay tại đám hỏi và lật luôn sổ đỏ đứng tên mình (16:9, 25 cảnh × 4 clips × 15s = 100 clips — Google Flow Omni 1.2).",
         "characters": [
             {
                 "tag": "@Thu",
                 "name": "Thu — VOICE_LOCK_THU_VTK",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "5885e053-aa4f-47fe-87e9-4b8c8ff322e4",
+                "locked_media_id": "5885e053-aa4f-47fe-87e9-4b8c8ff322e4",
                 "voice_lock": "VOICE_LOCK_THU_VTK",
-                "description": "Thu, 34 tuổi, người vợ tào khang bán xôi từ tờ mờ sáng, mười hai năm làm dâu; dáng mảnh, da hơi rám nắng, tóc đen dài búi thấp lỏng, ánh mắt hiền mệt mỏi, không trang điểm, bàn tay chai sạn; áo cotton xanh nhạt bạc màu xắn tay, quần nâu sẫm, tạp dề vải xanh rêu, dép nhựa. Giọng thoại: VOICE_LOCK_THU_VTK.",
+                "description": "Thu, 34 tuổi, chính thất điềm tĩnh và cao tay, chủ tiệm may áo dài nhỏ ở phố cổ, mười hai năm làm dâu; dáng mảnh, da hơi rám nắng, tóc đen dài búi thấp lỏng, ánh mắt hiền mà tinh, không trang điểm, bàn tay chai sạn; áo cotton xanh nhạt bạc màu xắn tay, quần nâu sẫm, tạp dề vải xanh rêu, thước dây vàng trên cổ, dép nhựa. Giọng thoại: VOICE_LOCK_THU_VTK.",
                 "ref_prompt": "Full-body photorealistic character reference of @Thu, a 34-year-old Vietnamese woman who sells sticky rice at dawn, 158 cm, slim, lightly sun-tanned skin, long black hair in a low loose bun, gentle tired dark eyes, no makeup, work-roughened hands, wearing a faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, a dark-green cloth apron and plastic sandals; plain grey studio background, soft warm side light, 8K. Not resembling any real actor."
             },
             {
                 "tag": "@Tung",
                 "name": "Tùng — VOICE_LOCK_TUNG_VTK",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "ffdaa99e-ad17-4113-bf9a-c82edee09ee2",
+                "locked_media_id": "ffdaa99e-ad17-4113-bf9a-c82edee09ee2",
                 "voice_lock": "VOICE_LOCK_TUNG_VTK",
                 "description": "Tùng, 37 tuổi, chồng Thu, giám đốc công ty xây dựng mới phất; cao, hơi đẫy đà, tóc đen vuốt keo gọn, mặt nhẵn, mắt mí nặng tự tin; vest xám than may đo, sơ mi trắng hở cổ, đồng hồ vàng, giày da đen bóng. Giọng thoại: VOICE_LOCK_TUNG_VTK.",
                 "ref_prompt": "Full-body photorealistic character reference of @Tung, a 37-year-old Vietnamese man, newly rich construction company director, 176 cm, tall and slightly heavy, neatly gelled black hair, clean-shaven, heavy-lidded confident eyes, wearing a tailored charcoal-grey suit, a white shirt open at the collar, a gold wristwatch and polished black shoes; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
@@ -779,26 +788,26 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Vy",
                 "name": "Vy (Bé Ba) — VOICE_LOCK_VY_VTK",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "640166a9-1269-41d5-b33e-baa5fd7d3eff",
+                "locked_media_id": "640166a9-1269-41d5-b33e-baa5fd7d3eff",
                 "voice_lock": "VOICE_LOCK_VY_VTK",
-                "description": "Vy, 24 tuổi, cô thư ký mới xinh đẹp — 'bé ba' xúi Tùng bỏ vợ; mảnh mai nổi bật, tóc dài nâu sẫm uốn sóng bóng mượt, mắt sắc kẻ eyeliner, son đỏ; váy midi đỏ thẫm sát nách ôm dáng, dây chuyền vàng mảnh, giày cao gót màu be, túi xách trắng nhỏ không logo. Giọng thoại: VOICE_LOCK_VY_VTK.",
+                "description": "Vy, 24 tuổi, cô thư ký xinh đẹp của Tùng — tiểu tam, thật ra là kẻ lừa đảo chuyên gài bẫy đại gia; mảnh mai nổi bật, tóc dài nâu sẫm uốn sóng bóng mượt, mắt sắc kẻ eyeliner, son đỏ; váy midi đỏ thẫm sát nách ôm dáng, dây chuyền vàng mảnh, giày cao gót màu be, túi xách trắng nhỏ không logo. Giọng thoại: VOICE_LOCK_VY_VTK.",
                 "ref_prompt": "Full-body photorealistic character reference of @Vy, a 24-year-old Vietnamese woman, glamorous office secretary, 165 cm, slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick, wearing a fitted crimson sleeveless midi dress, a thin gold necklace, beige high heels and a small white handbag with no logo; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
             },
             {
                 "tag": "@BaNhan",
                 "name": "Bà Nhàn — VOICE_LOCK_BANHAN_VTK",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "be8ae10b-09a0-41f6-bff5-9cf021617e84",
+                "locked_media_id": "be8ae10b-09a0-41f6-bff5-9cf021617e84",
                 "voice_lock": "VOICE_LOCK_BANHAN_VTK",
-                "description": "Bà Nhàn, 70 tuổi, mẹ Tùng, sống cùng con dâu Thu và đứng về phía con dâu; nhỏ gầy, tóc bạc búi thấp gọn, gương mặt hiền nhiều nếp nhăn; áo len cardigan nâu ngoài áo cánh xám, quần đen, dép vải, gậy tre chạm. Giọng thoại: VOICE_LOCK_BANHAN_VTK.",
+                "description": "Bà Nhàn, 70 tuổi, mẹ Tùng, sống cùng con dâu Thu, khô và hóm, giả lẫn để đứng về phía con dâu; nhỏ gầy, tóc bạc búi thấp gọn, gương mặt hiền nhiều nếp nhăn; áo len cardigan nâu ngoài áo cánh xám, quần đen, dép vải, gậy tre chạm. Giọng thoại: VOICE_LOCK_BANHAN_VTK.",
                 "ref_prompt": "Full-body photorealistic character reference of @BaNhan, a 70-year-old Vietnamese grandmother, 148 cm, small and thin, white hair in a neat low bun, kind deeply wrinkled face, wearing a brown knitted cardigan over a grey blouse, black trousers and cloth slippers, holding a carved bamboo walking stick; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
             },
             {
                 "tag": "@Na",
                 "name": "Bé Na — VOICE_LOCK_NA_VTK",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "ccc8c935-3187-4b7b-975a-9733195854cf",
+                "locked_media_id": "ccc8c935-3187-4b7b-975a-9733195854cf",
                 "voice_lock": "VOICE_LOCK_NA_VTK",
                 "description": "Bé Na, 9 tuổi, con gái Thu và Tùng; nhỏ nhắn, mặt tròn, mắt sáng, tóc đen buộc hai bím ngắn dây chun đỏ; áo sơ mi trắng cộc tay đồng phục, váy xếp ly xanh than, khăn quàng đỏ, giày vải trắng. Giọng thoại: VOICE_LOCK_NA_VTK.",
                 "ref_prompt": "Full-body photorealistic character reference of @Na, a 9-year-old Vietnamese schoolgirl, 130 cm, small with a round face and bright dark eyes, black hair in two short pigtails with red hair ties, wearing a white short-sleeve school shirt, a navy pleated skirt, a red scarf knotted at the neck and white canvas shoes; plain grey studio background, soft warm side light, 8K. Not resembling any real person."
@@ -806,10 +815,10 @@ DEFAULT_CHANNELS = [
             {
                 "tag": "@Khai",
                 "name": "Khải — VOICE_LOCK_KHAI_VTK",
-                "default_media_id": "",
-                "locked_media_id": "",
+                "default_media_id": "68c8c0e0-1e95-46db-b6e6-8b6e94df5b99",
+                "locked_media_id": "68c8c0e0-1e95-46db-b6e6-8b6e94df5b99",
                 "voice_lock": "VOICE_LOCK_KHAI_VTK",
-                "description": "Khải, 30 tuổi, người tình bí mật và đồng phạm của Vy; gầy, tóc undercut đen vuốt, ria mép mỏng, nụ cười nửa miệng ranh mãnh; sơ mi đen slim-fit xắn tay, quần kaki be, giày thể thao trắng, lắc tay bạc. Giọng thoại: VOICE_LOCK_KHAI_VTK.",
+                "description": "Khải, 30 tuổi, chồng bí mật của Vy, đóng vai 'anh họ luật sư'; gầy, tóc undercut đen vuốt, ria mép mỏng, nụ cười nửa miệng ranh mãnh; sơ mi đen slim-fit xắn tay, quần kaki be, giày thể thao trắng, lắc tay bạc. Giọng thoại: VOICE_LOCK_KHAI_VTK.",
                 "ref_prompt": "Full-body photorealistic character reference of @Khai, a 30-year-old Vietnamese man, smooth con artist, 172 cm, lean, styled black undercut hair, thin moustache, sly half-smile, wearing a black slim-fit shirt with rolled sleeves, beige chinos, white sneakers and a silver chain bracelet; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
             }
         ]
@@ -908,9 +917,10 @@ async def ensure_cms_seeded():
         )
 
     # 2. Seed channels & remove deprecated channels / stale episode rows
-    await db.execute("DELETE FROM cms_channel WHERE slug = ?", ("mai-hoa-thung",))
-    await db.execute("DELETE FROM cms_episode WHERE channel_slug = ?", ("mai-hoa-thung",))
-    await db.execute("DELETE FROM cms_clip WHERE channel_slug = ?", ("mai-hoa-thung",))
+    for dep_slug in ("mai-hoa-thung", "vo-tao-khang"):
+        await db.execute("DELETE FROM cms_channel WHERE slug = ?", (dep_slug,))
+        await db.execute("DELETE FROM cms_episode WHERE channel_slug = ?", (dep_slug,))
+        await db.execute("DELETE FROM cms_clip WHERE channel_slug = ?", (dep_slug,))
     for ch_slug, max_ep in CHANNEL_MAX_EPISODES.items():
         await db.execute("DELETE FROM cms_episode WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
         await db.execute("DELETE FROM cms_clip WHERE channel_slug = ? AND episode_num > ?", (ch_slug, max_ep))
@@ -918,6 +928,16 @@ async def ensure_cms_seeded():
     await db.execute("DELETE FROM scene WHERE id LIKE 'scene-ddst-%' AND display_order >= 240")
 
     for ch in DEFAULT_CHANNELS:
+        runner_pid = ch["project_id"]
+        runner_abs = os.path.join(FLOWKIT_DIR, ch["runner_script"])
+        if os.path.isfile(runner_abs):
+            try:
+                with open(runner_abs, "r", encoding="utf-8") as rf:
+                    m_pid = re.search(r'^PROJECT_ID\s*=\s*"([^"]+)"', rf.read(), flags=re.MULTILINE)
+                    if m_pid and m_pid.group(1).strip():
+                        runner_pid = m_pid.group(1).strip()
+            except Exception:
+                pass
         cur = await db.execute("SELECT slug, project_id, characters_json FROM cms_channel WHERE slug = ?", (ch["slug"],))
         existing_row = await cur.fetchone()
         if not existing_row:
@@ -928,7 +948,7 @@ async def ensure_cms_seeded():
                 (
                     ch["slug"],
                     ch["name"],
-                    ch["project_id"],
+                    runner_pid,
                     ch["aspect_ratio"],
                     ch["runner_script"],
                     ch["series_dir"],
@@ -940,22 +960,41 @@ async def ensure_cms_seeded():
             )
         else:
             ex = dict(existing_row)
-            # Auto-sync project_id from runner script or DEFAULT_CHANNELS if empty in DB
-            runner_pid = ch["project_id"]
-            runner_abs = os.path.join(FLOWKIT_DIR, ch["runner_script"])
-            if os.path.isfile(runner_abs):
-                try:
-                    with open(runner_abs, "r", encoding="utf-8") as rf:
-                        m_pid = re.search(r'^PROJECT_ID\s*=\s*"([^"]+)"', rf.read(), flags=re.MULTILINE)
-                        if m_pid and m_pid.group(1).strip():
-                            runner_pid = m_pid.group(1).strip()
-                except Exception:
-                    pass
-            if runner_pid and not (ex.get("project_id") or "").strip():
-                await db.execute(
-                    "UPDATE cms_channel SET project_id = ?, characters_json = ?, updated_at = ? WHERE slug = ?",
-                    (runner_pid, json.dumps(ch["characters"], ensure_ascii=False), now, ch["slug"]),
-                )
+            eff_pid = runner_pid or (ex.get("project_id") or "").strip()
+            existing_chars_by_tag: dict[str, dict] = {}
+            try:
+                for ec in json.loads(ex.get("characters_json") or "[]"):
+                    if isinstance(ec, dict) and ec.get("tag"):
+                        existing_chars_by_tag[ec["tag"]] = ec
+            except Exception:
+                pass
+            merged_chars = []
+            for dc in ch["characters"]:
+                mc = dict(dc)
+                ec = existing_chars_by_tag.get(dc.get("tag", "")) or {}
+                if not (mc.get("default_media_id") or "").strip() and (ec.get("default_media_id") or "").strip():
+                    mc["default_media_id"] = ec["default_media_id"]
+                if not (mc.get("locked_media_id") or "").strip() and (ec.get("locked_media_id") or "").strip():
+                    mc["locked_media_id"] = ec["locked_media_id"]
+                merged_chars.append(mc)
+            await db.execute(
+                """UPDATE cms_channel
+                   SET name = ?, project_id = ?, aspect_ratio = ?, runner_script = ?,
+                       series_dir = ?, ep_prefix = ?, description = ?, characters_json = ?, updated_at = ?
+                   WHERE slug = ?""",
+                (
+                    ch["name"],
+                    eff_pid,
+                    ch["aspect_ratio"],
+                    ch["runner_script"],
+                    ch["series_dir"],
+                    ch["ep_prefix"],
+                    ch["description"],
+                    json.dumps(merged_chars, ensure_ascii=False),
+                    now,
+                    ch["slug"],
+                ),
+            )
     await db.commit()
     _CMS_SEEDED = True
 
@@ -2937,6 +2976,8 @@ async def _populate_all_channels_into_db(db) -> dict:
                     )
                 clip_upserted += 1
 
+    await raw_db.execute("DELETE FROM cms_episode WHERE id NOT LIKE '%:ep:%'")
+    await raw_db.execute("DELETE FROM cms_clip WHERE id NOT LIKE '%:ep:%'")
     await raw_db.commit()
     return {"episodes_indexed": ep_upserted, "clips_indexed": clip_upserted}
 
@@ -3485,7 +3526,7 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
             """UPDATE cms_clip
                SET status = CASE
                    WHEN (r2_url IS NOT NULL AND r2_url != '') OR (local_path IS NOT NULL AND local_path != '') THEN 'COMPLETED'
-                   ELSE 'FAILED'
+                   ELSE CASE WHEN status = 'FAILED' THEN 'FAILED' ELSE 'PENDING' END
                END"""
         )
 

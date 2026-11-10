@@ -12,7 +12,7 @@
 
 ```text
 🐉 GĂNG TƠ TÁI XUẤT (Full 27 Phút) — Phim Hành Động Hài Phố Cổ Hà Nội
-🎙️ Giọng kể chuẩn Hà Nội, hóm hỉnh, dồn dập
+🎙️ 100% lời thoại nhân vật, giọng Hà Nội — nhanh khi rượt đuổi, chậm khi ông Lâm ra uy
 🛵 Xe ôm, bún chả, phố đường tàu và một con rồng đã ngủ yên suốt ba mươi năm...
 
 📖 TÓM TẮT:
@@ -62,4 +62,4 @@ và một buổi livestream mà ông chủ app sẽ nhớ suốt đời.
 
 ## 3. TAGS
 
-găng tơ tái xuất, phim hành động hài, phim hài việt nam, phố cổ hà nội, xe ôm, lâm rồng, app vay tiền, tín dụng đen, lừa đảo online, phố đường tàu, bún chả, phim ngắn việt nam, giọng kể miền bắc, giang hồ về hưu
+găng tơ tái xuất, phim hành động hài, phim hài việt nam, phố cổ hà nội, xe ôm, lâm rồng, app vay tiền, tín dụng đen, lừa đảo online, phố đường tàu, bún chả, phim ngắn việt nam, giọng hà nội, giang hồ về hưu

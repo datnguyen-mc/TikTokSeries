@@ -1,4 +1,4 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 8s, 12s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -10,27 +10,44 @@ Bright natural lighting: warm golden morning and sunset light over the old quart
 Morning at the front gate of a ward police station on a leafy street: mustard-yellow walls, an open iron gate, a tall tree, parked motorbikes.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
-- @BaHoa = Bà Hoa, 61, the old gang's sharp-tongued brains, now owner of a bún chả shop; plump, short curly permed hair dyed burgundy, sharp bright eyes, red lipstick, gold hoop earrings; purple floral silk blouse, black wide trousers, chunky gold bangle, low heeled sandals.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
+- @BaHoa = Bà Hoa, 61, the old gang's sharp-tongued brains, now owner of a bún chả shop; plump, short curly permed hair dyed burgundy, sharp bright eyes, red lipstick, gold hoop earrings; a wide-brimmed black hat, purple floral silk blouse, black wide trousers, chunky gold bangle, low heeled sandals.
+- Wardrobe: in this shot @BaHoa wears the outfit written above, not the outfit in the reference image; face and hair stay identical.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 28mm wide shot, slow dolly-back from the gate; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 35mm medium shot, slow dolly-back ahead of her from the open iron gate.
+- Shot 2, 4–8s: 85mm close-up of her face under the hat brim, locked off.
+- Shot 3, 8–12s: 50mm medium shot from the side of the pavement, slow arc.
+- Shot 4, 12–15s: 85mm close-up of her face tilted up to the sun, locked off.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: Morning sunlight filters through a tall tree onto the mustard-yellow walls of the ward police station, the iron gate standing open and motorbikes parked along the curb.
-- 3.0–7.0s: @BaHoa strolls out through the open gate in her wide-brimmed black hat and purple floral blouse, her red lipstick bright and perfect.
-- 7.0–11.0s: @BaHoa stops on the pavement, stretches both arms lazily toward the sky and rolls her shoulders, gold hoop earrings swinging, lips closed.
-- 11.0–15.0s: @BaHoa fans her face with one hand and tilts her chin up to the morning sun, lips closed in a broad smile, as if just back from a seaside holiday. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @BaHoa strolls out through the open iron gate of the ward police station in her wide-brimmed black hat, waves back toward the gate and is already speaking in a breezy brassy voice.
+- 1–2s (Shot 1): @BaHoa keeps talking cheekily, her red lipstick bright and perfect.
+- 2–3s (Shot 1): @BaHoa presses one palm to her chest in a little bow of thanks as she goes on.
+- 3–4s (Shot 1): @BaHoa keeps speaking and stretches both arms lazily toward the sky.
+- 4–5s (CUT to Shot 2): @BaHoa keeps talking, rolling her shoulders loosely.
+- 5–6s (Shot 2): @BaHoa keeps speaking and pats her own cheek with a satisfied smile.
+- 6–7s (Shot 2): @BaHoa wags a finger in the air as she goes on, eyes twinkling.
+- 7–8s (Shot 2): @BaHoa keeps talking, cupping one hand by her mouth like a customer calling for more.
+- 8–9s (CUT to Shot 3): @BaHoa keeps talking as she fans her face with one hand, gold hoop earrings swinging.
+- 9–10s (Shot 3): @BaHoa keeps speaking with a theatrical roll of her eyes.
+- 10–11s (Shot 3): @BaHoa keeps talking, framing her eyes with her fingers like sunglasses.
+- 11–12s (Shot 3): @BaHoa pats both cheeks proudly as she finishes, then closes her mouth.
+- 12–13s (CUT to Shot 4): @BaHoa tilts her chin up to the morning sun with a broad closed-lip smile.
+- 13–14s (Shot 4): @BaHoa closes her eyes in the warm light, mouth closed, as if just back from a seaside holiday.
+- 14–15s (Shot 4): Leaves drift down past @BaHoa's hat brim as she breathes in the morning air, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–11.7s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Sáng hôm sau, cánh cổng đồn công an phường mở ra, bà Hoa thong thả bước ra, son môi vẫn đỏ chót, tóc vẫn bồng bềnh, như vừa đi nghỉ mát ở biển về, chứ chẳng phải vừa ngồi trong đồn suốt cả một đêm." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue 0.4–11.9s, spoken on camera by @BaHoa (woman of 61, loud brassy alto with a teasing rasp and a sing-song market-seller cadence, speaking at a natural, even conversational pace, cheeky, pleased with herself), in Vietnamese with exact lip-sync, said exactly once: "Chào các chú, tôi về nhé, cảm ơn trà đá! Ôi dào, ngủ một đêm ở phường mà còn ngon hơn ở nhà. Chẳng đứa nào réo thêm suất bún chả, cứ như vừa đi nghỉ mát ở Sầm Sơn về ấy, da dẻ hồng hào." (no subtitles)
+- @BaHoa starts talking within the first second; whenever @BaHoa speaks, the face and lips are clearly visible in that shot; after the last word @BaHoa closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 11.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: birds chirping in the tree, an iron gate creaking, morning street traffic. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, rushed delivery, slow drawn-out delivery or long pauses inside a sentence, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

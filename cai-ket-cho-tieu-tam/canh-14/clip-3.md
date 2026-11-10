@@ -1,39 +1,58 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 7s, 12s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
-Photorealistic live-action Vietnamese family melodrama film set in Hà Nội today; warm natural grade with soft golden kitchen light, muted old-quarter ochres, cool blue-grey dawn and rain, glossy cold tones for the wealthy world, natural skin texture, subtle 35mm film grain, shallow depth of field.
+Photorealistic live-action Vietnamese family drama with a sharp comic bite, set in Hà Nội today; warm natural grade with jewel-toned silks glowing in a tailor shop, muted old-quarter ochres, glossy cold tones for the wealthy world, golden banquet light, natural skin texture, subtle 35mm film grain, shallow depth of field.
 
 [LIGHTING]
-Naturalistic soft lighting: warm tungsten and charcoal-stove glow at home, cool grey-blue dawn light with yellow streetlamps on the old-quarter pavement, crisp cold daylight in the glass office and luxury apartment, wet neon reflections on rainy nights.
+Naturalistic soft lighting: warm window light and a desk lamp over the sewing machine in the tailor shop, warm tungsten at home, cool blue-white glass light in the luxury apartment and the office, golden chandelier light at the banquet hall, soft green-gold daylight in the countryside.
 
 [LOCATION]
-Inside a narrow three-storey tube house in a Hà Nội old alley: a ground-floor kitchen with a gas stove and a big aluminum sticky-rice steamer, a wooden dining table with low stools, a steep tiled staircase, a small family altar shelf, a small white home camera on a high kitchen shelf.
+Thu's narrow áo dài tailor shop on an old-quarter silk street by day: bolts of jewel-toned silk stacked on wooden shelves to the ceiling, two headless dress forms in half-finished áo dài, an old black sewing machine on a worn wooden table, a tall standing fitting mirror, a long cutting table with tailor's chalk and paper patterns, a small brass bell above the glass door, soft daylight from the street.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
-- @Na = Na, 9, Thu and Tùng's daughter; small, round face, bright dark eyes, black hair in two short pigtails with red hair ties; white short-sleeve school shirt, navy pleated skirt, red scarf knotted at the neck, white canvas shoes.
-- @BaNhan = Bà Nhàn, 70, Tùng's mother who lives with Thu; small and thin, white hair in a neat low bun, kind deeply wrinkled face; brown knitted cardigan over a grey blouse, black trousers, cloth slippers, carved bamboo walking stick.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards.
+- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; a red silk wedding áo dài embroidered with a gold phoenix, a thin gold necklace, beige high heels.
+- @Thu = Thu, 34, calm and quietly brilliant wife who runs a small áo dài tailor shop in the old quarter; slim, lightly sun-tanned, long black hair in a low loose bun, gentle watchful dark eyes, no makeup, work-roughened hands; faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, dark-green cloth apron, a yellow tailor's measuring tape around her neck, plastic sandals.
+- Wardrobe: in this shot @Vy wears the outfit written above, not the outfit in the reference image; face and hair stay identical.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 35mm medium shot toward the front door, slow pan from the stairs to the doorway; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
-- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the frame.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 50mm medium two-shot from the side of the fitting stand, holding the previous framing.
+- Shot 2, 4–7s: 85mm close-up of the bride glaring into the mirror, locked off.
+- Shot 3, 7–12s: 50mm over-the-shoulder shot from behind the bride down onto the kneeling tailor.
+- Shot 4, 12–15s: 40mm medium two-shot in the fitting corner, slow pull-back.
+- Continuity: continues the same moment, place and lighting as the previous shot; Shot 1 keeps the previous framing axis, no jump.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the cuts.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: The front doorway of the tube house in morning light, two packed cloth bags and a rolled straw mat waiting on the threshold beside the steep tiled staircase.
-- 3.0–7.0s: @Na stands by the packed bags in her school clothes and looks up at @BaNhan coming down the last stairs with an old rattan basket on her arm, asking her, lips clearly visible.
-- 7.0–11.0s: @Na finishes and closes her mouth, and @BaNhan stops on the bottom step, leans on her bamboo walking stick and answers in a dry deadpan, her wrinkled face and lips clearly visible.
-- 11.0–15.0s: @BaNhan finishes speaking and closes her mouth, hooks the rattan basket higher on her arm and takes @Na's small hand, the two of them marching toward the bright alley with their chins raised. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Vy leans in, points a red-nailed finger at @Thu's reflection in the tall mirror and is already speaking fast and low through her teeth, while @Thu kneels at the hem with a pincushion, mouth closed.
+- 1–2s (Shot 1): @Vy keeps talking fast, her fingernail tapping the mirror glass, never touching @Thu.
+- 2–3s (Shot 1): @Vy keeps going, her nostrils flared.
+- 3–4s (Shot 1): @Vy keeps speaking spitefully, her winged eyes narrowed at the mirror.
+- 4–5s (CUT to Shot 2): @Vy keeps talking, her voice rising, her chin jutting.
+- 5–6s (Shot 2): @Vy keeps going, sweeping one hand at the silk shelves around the shop.
+- 6–7s (Shot 2): @Vy keeps speaking through her teeth to the last word, glaring.
+- 7–8s (CUT to Shot 3): @Vy closes her mouth; @Thu, still unpinning the hem with steady hands, begins to answer slowly and softly.
+- 8–9s (Shot 3): @Thu keeps speaking softly, dropping a pin into the pincushion.
+- 9–10s (Shot 3): @Thu keeps talking, lifting her eyes to the bride.
+- 10–11s (Shot 3): @Thu keeps going, drops the last pin into the pincushion and slowly rises to her feet.
+- 11–12s (Shot 3): @Thu keeps speaking, now standing an arm's length from @Vy, never touching her.
+- 12–13s (CUT to Shot 4): @Thu keeps talking, folding her hands on her apron.
+- 13–14s (Shot 4): @Thu finishes and closes her mouth, holding @Vy's gaze.
+- 14–15s (Shot 4): @Vy's pointing hand slowly lowers, her jaw tight, while @Thu turns calmly toward the cutting table beside the mirror, where a long flat red garment box waits, both silent. The sequence settles on this as its final frame.
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 3.0–7.3s, spoken on camera by @Na (girl of 9, strictly standard Hà Nội Northern accent (never Southern accent), high clear child's voice, earnest, speaking at a brisk pace, every word spoken once clearly without stutter): "Bà ơi, bà xách làn đi đâu thế ạ? Sáng nay bà đi chợ sớm à?"
-- Turn 2, 7.8–13.1s, spoken on camera by @BaNhan (old woman of 70, strictly standard Hà Nội Northern accent (never Southern accent), frail raspy voice, trembling but firm, speaking at a brisk pace, every word spoken once clearly without stutter): "Chợ gì. Bà đi theo mẹ cháu chứ đi đâu. Ở lại đây làm mẹ chồng kế toán Tuấn à?"
-- Both keep their mouths closed until 3.0s; then each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
+- Turn 1, 0.4–7.1s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking quickly in short lively phrases, every word still clear, hissing and spiteful): "Chị đừng có giở trò với em. Ngày vui của em mà có chuyện gì, em cho chị trắng tay ra đường, đến cái tiệm may cỏn con này cũng không còn!"
+- Turn 2, 7.6–13.5s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking slowly and softly, unhurried, with a short natural pause between phrases, soft and unshakable): "Trắng tay thì chị quen rồi em ạ, ngày xưa chị cũng thế. Chị chỉ lo cho người chưa quen thôi."
+- Pacing: @Vy speaks quickly, then @Thu answers slowly and calmly; the change of speed is clearly audible.
+- Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 13.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: slow footsteps on the stairs, a walking stick tapping on tiles, the alley waking up. Ambience continues to 15.0s. No music.
+- SFX: a fingernail tapping on glass, pins clicking into a tin, silk rustling, the street muffled behind the glass door. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

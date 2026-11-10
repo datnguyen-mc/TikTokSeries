@@ -1,4 +1,4 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 8s, 12s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -10,27 +10,43 @@ Bright natural lighting: warm golden morning and sunset light over the old quart
 The flashy call-center office of a loan app company high in a Hà Nội glass tower by day: rows of desks with young callers in headsets at glowing monitors, purple and gold neon accent lights without letters, a glass-walled boss room with a white leather sofa and a ring light.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @Hung = Hưng, 31, flashy boss of a loan app company and a show-off livestreamer; tall and slim, dyed ash-blond undercut, round gold-rimmed glasses, cocky grin; oversized black satin bomber jacket over a plain white T-shirt, ripped black jeans, white high-top sneakers, several silver rings, a phone on a small selfie gimbal.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 35mm medium shot, slow tracking alongside him; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 35mm medium tracking shot alongside the livestreamer in the glass-walled boss room, the ring light behind him.
+- Shot 2, 4–8s: 50mm close-up of his face lit by the phone, locked off.
+- Shot 3, 8–12s: 40mm medium shot from the dark glass wall facing him, gentle push-in.
+- Shot 4, 12–15s: 24mm wide shot from the call-center floor toward the glass door.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: Inside the glass-walled boss room, a ring light glows beside a white leather sofa while purple and gold neon accent lights shimmer across the glass walls.
-- 3.0–7.0s: @Hung lowers a phone on a small selfie gimbal, taps it to end his livestream and tugs the collar of his black satin bomber jacket straight.
-- 7.0–11.0s: @Hung checks his ash-blond undercut in the dark glass, smooths one side with his silver-ringed fingers and flashes himself a cocky closed-lip grin.
-- 11.0–15.0s: @Hung strides briskly out through the glass door with both arms spread wide in welcome, his closed-lip grin stretching from ear to ear. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Hung holds a phone on a small selfie gimbal at arm's length in the glass-walled boss room, its blank screen glowing, and is already talking fast into it with a cocky grin.
+- 1–2s (Shot 1): @Hung keeps talking as he walks past the ring light, tugging the collar of his black satin bomber jacket straight.
+- 2–3s (Shot 1): @Hung winks at the phone and gives the gimbal a quick little wave while he talks.
+- 3–4s (Shot 1): @Hung keeps talking fast, spreading one hand wide like a grand announcement.
+- 4–5s (CUT to Shot 2): @Hung leans close to the lens, eyebrows dancing, and keeps talking fast.
+- 5–6s (Shot 2): @Hung rubs his silver-ringed thumb and fingers together as he goes on, grinning.
+- 6–7s (Shot 2): @Hung keeps speaking and flashes both hands open twice at the lens.
+- 7–8s (Shot 2): @Hung keeps speaking and mimes knocking on a door with two knuckles.
+- 8–9s (CUT to Shot 3): @Hung keeps talking as he checks his ash-blond undercut in the dark glass.
+- 9–10s (Shot 3): @Hung smooths one side of his undercut with his silver-ringed fingers while he talks.
+- 10–11s (Shot 3): @Hung makes a heart shape with his fingers at the phone as he keeps talking.
+- 11–12s (Shot 3): @Hung finishes with a wink, closes his mouth and taps the glowing phone to end the stream.
+- 12–13s (CUT to Shot 4): @Hung strides out through the glass door with both arms spread wide in welcome, mouth closed.
+- 13–14s (Shot 4): @Hung crosses the call-center floor between the rows of glowing desks, a closed-lip grin stretching ear to ear.
+- 14–15s (Shot 4): @Hung stops by the entrance and straightens his bomber jacket, mouth closed, ready to greet his guest. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–11.9s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Nghe tin có một bà trùm mang mười tỷ đến xin đầu tư, Hưng tắt ngay livestream, chỉnh lại cổ áo, soi lại mái tóc vàng hoe trong vách kính, rồi tươi cười chạy ra tận cửa đón, chẳng khác gì đón thần tài vào nhà." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue 0.4–11.5s, spoken on camera by @Hung (man of 31, loud slick nasal tenor of a livestream salesman, smug and showy, speaking quickly in short lively phrases, every word still clear, slick, giddy showman), in Vietnamese with exact lip-sync, said exactly once: "Cả nhà ơi, anh tắt sóng mười phút nhé! Có một bà trùm bất động sản đang lên tận đây xin rót vốn cho anh, nghe đâu mấy chục tỷ. Thần tài gõ cửa thì phải chạy ra đón chứ, đúng không nào. Thả tim đi các em, lát nữa anh kể hết!" (no subtitles)
+- @Hung starts talking within the first second; whenever @Hung speaks, the face and lips are clearly visible in that shot; after the last word @Hung closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 11.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: a soft chime as the livestream ends, phones ringing across the call center, quick sneaker steps, a glass door swinging. Ambience continues to 15.0s. No music.
+- SFX: phones ringing across the call center, a soft chime as the livestream ends, quick sneaker steps, a glass door swinging. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

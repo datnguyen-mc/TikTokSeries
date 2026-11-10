@@ -1,239 +1,260 @@
-> Ghi chú 09/11/2026: phim đổi tên thành "Cái Kết Cho Tiểu Tam" và chuyển sang 4 clip × 15s mỗi cảnh (Omni 1.2); dàn ý dưới đây là bản 6 × 10s cũ.
-> Ghi chú 08/11/2026: nguồn chính thức là `../PHAN_CANH_OMNI.json` (đã thêm `speech_start` cho clip thoại nối liền; phim đã chuyển 100% sang thoại nhân vật nên lời ở đây là bản nháp cũ).
+# Chính Thất Cao Tay, Tiểu Tam Trắng Tay — dàn ý clip (bản 3, 10/11/2026)
 
-# Cái Kết Cho Tiểu Tam (tên cũ: Vợ Tào Khang) — dàn ý clip (nguồn cho người viết JSON)
+> Thay hoàn toàn bản 2 "Cái Kết Cho Tiểu Tam" (gánh xôi, que thử thai giả, cú ngã cầu thang, camera bếp, rút ruột công ty, bắt ở sân bay). Bản cũ lưu ở `../revisions/PHAN_CANH_OMNI_15s_v2_cai_ket_cho_tieu_tam_20261110.json`. Thư mục vẫn là `cai-ket-cho-tieu-tam` để runner, CMS và project Flow không phải đổi.
 
-25 cảnh × 6 clip × 10s = 25 phút. Hà Nội hôm nay. Mỗi clip: `[chars] | speaker | lời nháp | hình ảnh`.
-`cont` = nối tiếp liền mạch (chỉ hợp lệ khi chars ⊆ chars clip trước, không rỗng, cùng setting). Còn lại là `cut`.
-Người dẫn chuyện là NỮ (~50 tuổi, giọng Hà Nội) — compiler tự ghi giọng, chỉ cần speaker = "NARRATOR".
+25 cảnh × 4 clip × 15 giây = 25 phút, 16:9, Hà Nội hôm nay. 100% lời thoại do nhân vật nói trên hình, không người dẫn chuyện. Mỗi lượt thoại có `pace` (fast / normal / slow).
 
-## Quy tắc riêng của phim này
-- Ngoại tình thể hiện kín đáo: tựa đầu vào vai, nắm tay, cụng ly, ánh mắt. KHÔNG hôn, không giường, không cởi đồ, không gợi dục.
-- "Đánh ghen" chỉ bằng lời và ánh mắt: không tát, không giật tóc, không hất nước, không xô đẩy, không ai chạm vào ai khi cãi nhau.
-- Màn "cú ngã" (C13): Vy TỰ ngồi thụp xuống bậc cầu thang dưới cùng, ôm bụng — không ai đứng gần cô.
-- Bắt giữ (C21): công an đi tới bình thản, Khải tự chìa cổ tay. Không còng giằng co.
-- Giấy tờ, màn hình điện thoại, que thử thai, giấy niêm phong: không chữ đọc được (màn hình chỉ phát sáng, giấy chỉ có dòng mực mờ; que thử thai chỉ có hai vạch hồng).
+**Logline:** Cô thư ký Vy đến tận tiệm may áo dài của chính thất Thu để đặt may áo cưới — cưới chính chồng Thu. Thu bình thản cầm thước dây đo. Mỗi buổi thử áo là một ván cờ: Vy khoe kế hoạch, Thu lặng lẽ "đo" từng số đo của kẻ thứ ba. Ngày ăn hỏi, Thu mang áo cưới tới tận tay cô dâu, kèm một món quà cưới khiến cả hội trường chết lặng.
 
-## Bối cảnh khoá — dùng NGUYÊN VĂN khi cảnh ghi tên bối cảnh
-- HOME = "Inside a narrow three-storey tube house in a Hà Nội old alley: a ground-floor kitchen with a gas stove and a big aluminum sticky-rice steamer, a wooden dining table with low stools, a steep tiled staircase, a small family altar shelf, a small white home camera on a high kitchen shelf."
-- HOME_NIGHT = "Night inside a narrow three-storey tube house in a Hà Nội old alley: a dim ground-floor kitchen lit by one warm bulb and a charcoal stove, a wooden dining table, a steep tiled staircase, a small white home camera with a tiny green light on a high kitchen shelf."
-- STALL = "Dawn on a Hà Nội old-quarter pavement corner: a small sticky-rice stall with a bamboo basket, a steaming pot and banana leaves under a big faded umbrella, low plastic stools, mopeds passing, blue-grey dawn light and yellow streetlamps."
-- OFFICE = "A modern glass-walled director's office high in a Hà Nội tower: a large white desk with a family photo frame, a black leather chair, an architectural model of a residential tower, the city skyline beyond the windows."
-- CAFE = "An upscale café at night: velvet armchairs, brass lamps, marble tables, rain-streaked floor-to-ceiling windows facing the street."
-- APARTMENT = "A luxury high-rise apartment in the morning: a white marble kitchen island, a pale sofa, floor-to-ceiling windows over the city, glossy cold light."
-- ROOM = "A tiny rented room in a crowded Hà Nội boarding alley at night: a single wooden bed, a folding table, a small barred window, a hot plate, an aluminum basin catching drips from the leaking ceiling, a bare yellow bulb."
-- SHOP = "Before dawn at Thu's small sticky-rice shop on a Hà Nội old-quarter street: a worn wooden counter, rows of banana-leaf parcels, big steaming pots, warm yellow light spilling onto the pavement."
+## Vì sao khác và cuốn hơn bản 2
+- **Mồi câu ngay phút đầu:** tiểu tam đặt may áo cưới ở tiệm của vợ cả. Khán giả biết trước Thu là ai, Vy thì tưởng mình đang thắng.
+- **Chính thất không khóc lóc:** Thu thắng mọi lần đối đầu bằng một câu nói chậm và lạnh; người nói nhanh, nói to luôn là kẻ đang thua.
+- **Hai lớp lật:** (1) Vy và "anh họ luật sư" Khải thật ra là vợ chồng, chuyên lừa đại gia, Tùng là con mồi thứ ba; (2) căn nhà và sáu mươi phần trăm công ty đứng tên Thu từ mười hai năm trước, vì vốn đầu tiên là mảnh đất bố Thu để lại.
+- **Mẹ chồng là đồng minh hài hước:** bà Nhàn giả lẫn, coi Vy là "cô giúp việc mới", bắt lau nhà bằng váy đỏ, nghe hết câu Vy lỡ miệng.
+- **Hình ảnh mới:** tiệm may lụa phố Hàng Gai, thước dây vàng, chiếc áo dài cưới đỏ thêu phượng vàng, làng quê Nam Định, tiệc ăn hỏi khách sạn, hành lang thoát hiểm, phòng họp cổ đông, công trường.
 
-## Đạo cụ khoá (nguyên văn)
-- EARRING_BOX = "a small empty red velvet earring box"
-- PHOTO = "a framed family photo of Thu, Tùng and Na"
-- LUNCHBOX = "a glossy black lacquered lunch box"
-- TEST = "a plastic pregnancy test stick showing two faint pink lines"
-- CAMERA = "the small white home camera on the high kitchen shelf"
-- CAR = "a black luxury sedan with no badge"
+## Quy tắc riêng
+- Ngoại tình thể hiện kín đáo: khoác tay, cụng ly, tựa vai. Không hôn, không cảnh giường.
+- Đối đầu chỉ bằng lời và ánh mắt, không ai chạm vào ai. Công an chỉ là ánh đèn xanh đỏ ngoài cửa kính, người bị bắt tự giơ tay.
+- Không chữ trên hình: giấy tờ, sổ đỏ, vé máy bay, màn hình điện thoại không có chữ đọc được; ảnh cưới là ảnh không chữ.
+- Tối đa 2 nhân vật có tag trong khung (quần chúng không gắn tag chỉ ở xa, mờ).
+- Nhân vật không tự xưng tên; người khác gọi tên để khán giả biết ai là ai.
+- Giọng Hà Nội, từ Bắc: không dùng nè, nghen, hông, thiệt, tui, tụi, muỗng, heo, lượm, rớt, ổng.
+- Mỗi clip kết bằng một câu chốt, một cú lật hoặc một câu treo.
 
-## HỒI 1 — CƠM NHÀ (Cảnh 01–08)
+## Nhịp giọng (pace)
+- **fast:** cãi vã, hoảng hốt, khoe khoang, bày mưu hớn hở, trẻ con háo hức, rượt đuổi, cuống cuồng chối.
+- **normal:** trò chuyện hằng ngày, kể chuyện, bàn kế hoạch.
+- **slow:** câu chốt điềm tĩnh của Thu, lời gan ruột của bà Nhàn, thú nhận, hối hận, khoảnh khắc mẹ con.
+- Thu gần như luôn **slow** hoặc **normal**: cô không bao giờ to tiếng. Vy, Tùng, Khải nói **fast** khi bị dồn. Đặt hai nhịp tương phản trong cùng clip (Tùng fast → Thu slow) là chủ ý của phim.
+- `tone` (tuỳ chọn, tiếng Anh, ≤ 8 từ) tả sắc thái: "cold and mocking", "close to tears", "hushed whisper", "dry deadpan".
 
-### C01 — Người Đàn Bà Thức Dậy Trước Mặt Trời | "04:00 Rạng sáng, phố cổ Hà Nội (00:00–01:00)" | setting HOME
-1. [] setting riêng "Pre-dawn aerial over the tiled roofs of Hà Nội's old quarter: mist, yellow streetlamps, a few lit kitchen windows." | NAR | Hà Nội lúc bốn giờ sáng, khi cả thành phố còn ngủ say, có những người đàn bà đã phải thức dậy rồi. | aerial mở đầu hoành tráng, máy bay hạ dần về một ô cửa bếp sáng đèn.
-2. [@Thu] | NAR | Thu, ba mươi tư tuổi, mười hai năm làm dâu, sáng nào cũng đồ xôi từ lúc trời còn tối đen như mực. | nồi xôi bốc khói; Thu mở vung, hơi nước trùm mặt.
-3. [@Thu] cont | NAR | Đôi bàn tay chai sạn ấy đã nuôi cả nhà qua những năm tháng chồng cô còn trắng tay. | cận tay Thu nắm xôi gói lá chuối.
-4. [@BaNhan] cut | NAR | Bà Nhàn, mẹ chồng cô, bảy mươi tuổi, đau lưng không ngủ được, vẫn chống gậy lần xuống bếp phụ con dâu. | bà xuống từng bậc cầu thang.
-5. [@BaNhan,@Thu] cut | @BaNhan | Thu ơi, con nghỉ tay ăn miếng xôi đi đã, tối qua thằng Tùng lại về muộn hả con? |
-6. [@Thu,@BaNhan] cont | @Thu | Anh ấy dạo này nhiều việc lắm mẹ ạ, mẹ cứ lên ngủ thêm đi, con lo được hết. | Thu cười gượng, đỡ bát xôi cho mẹ.
+## Bối cảnh khoá — dán NGUYÊN VĂN vào `setting`
+- SHOP_DAY = "Thu's narrow áo dài tailor shop on an old-quarter silk street by day: bolts of jewel-toned silk stacked on wooden shelves to the ceiling, two headless dress forms in half-finished áo dài, an old black sewing machine on a worn wooden table, a tall standing fitting mirror, a long cutting table with tailor's chalk and paper patterns, a small brass bell above the glass door, soft daylight from the street."
+- SHOP_NIGHT = "Night in Thu's narrow áo dài tailor shop: the steel shutter half down, a single warm desk lamp over the old black sewing machine, bolts of silk fading into shadow on the shelves, two headless dress forms, a long cutting table with paper patterns."
+- HOUSE_EVENING = "Evening inside the family's narrow three-storey tube house in an old-quarter alley: a ground-floor dining area with a round wooden table set with rice bowls and dishes, low wooden stools, a small kitchen with a gas stove behind, a steep tiled staircase, a family altar shelf with incense, warm tungsten light."
+- HOUSE_DAY = "Daytime inside the family's narrow tube house in an old-quarter alley: a ground-floor living room with a carved wooden sofa set and a low tea table, a steep tiled staircase, a family altar shelf with incense, a potted orchid, sunlight through the open folding wooden door."
+- BA_NHAN_ROOM = "Bà Nhàn's small upstairs bedroom at night: a carved wooden bed with the mosquito net looped up, an old wooden wardrobe with a mirror, a side table with a warm bedside lamp, a window onto dark tiled roofs."
+- APT_NIGHT = "A glossy luxury apartment high above Hà Nội at night: floor-to-ceiling windows full of city lights, a white leather sofa, a marble kitchen island with a bottle of champagne and two glasses, cold blue-white light."
+- APT_DAY = "A glossy luxury apartment high above Hà Nội by day: floor-to-ceiling windows over the city with a rooftop pool glinting below, a white leather sofa, a marble kitchen island, cold bright daylight."
+- OFFICE = "Tùng's glass-walled director's office high in a Hà Nội tower by day: a big dark wood desk, white architectural models of towers under glass, a black leather chair, crisp cold daylight over the city."
+- VILLAGE = "A quiet village house in the Red River Delta in the afternoon: a yellow-walled single-storey house with a tiled roof, a brick-paved front yard with areca palms and a water jar, an open front room with a wooden altar and framed photos on the wall, soft green-gold light."
+- VILLAGE_LANE = "A narrow brick lane through a Red River Delta village at sunset: bamboo hedges, a pond with ducks, rice fields glowing gold beyond the low houses."
+- LAKE_CAFE = "A quiet rooftop café overlooking Hoàn Kiếm Lake in late afternoon: small wooden tables, rattan chairs, potted bougainvillea, the lake and its old trees glowing in golden light below."
+- BANQUET = "A lavish hotel banquet hall set for an engagement ceremony in the evening: round tables with white cloths and red roses, a low stage with a flower arch and a gold heart backdrop with no letters, trays of betrothal gifts covered in red cloth, crystal chandeliers, warm golden light."
+- CORRIDOR = "A narrow hotel service corridor behind the banquet hall at night: bare concrete walls, stacked banquet chairs and linen carts, humming fluorescent light, a frosted glass exit door at the far end pulsing with blue and red light from outside."
+- VISIT_ROOM = "A plain visiting room at a police station by day: pale green walls, a long wooden table with two plastic chairs facing each other, a barred window with soft daylight, a slow ceiling fan."
+- BOARDROOM = "A construction company boardroom high in a Hà Nội tower by day: a long glossy table lined with black leather chairs, white architectural models along the wall, floor-to-ceiling windows over the city, crisp daylight."
+- SITE = "A busy construction site on the edge of Hà Nội at sunrise: rising concrete pillars, steel scaffolding, a tall yellow tower crane, stacks of red bricks and cement bags, golden dust in the air."
 
-### C02 — Đôi Bông Tai Đã Bán | "05:30 Sáng, gánh xôi góc phố (01:00–02:00)" | setting STALL
-1. [] | NAR | Trời vừa hửng, gánh xôi của Thu đã bày ra góc phố quen, khói bốc nghi ngút trong làn sương lạnh. |
-2. [@Thu] cut | NAR | Mười hai năm trước, cô bán đôi bông tai cưới, món hồi môn duy nhất, để chồng có vốn làm ăn. | Thu lấy EARRING_BOX từ túi tạp dề, mở ra, bên trong trống.
-3. [@Thu] cont | NAR | Giờ chồng cô đã là giám đốc, nhưng cô vẫn giữ gánh xôi, vì sợ một ngày nào đó cả nhà lại trắng tay. |
-4. [@Thu] cut + extras "a woman customer in a pink raincoat" | @Thu | Xôi xéo hành phi nóng đây, chị ăn thử đi, em gói thêm cho chị ít ruốc nhé! |
-5. [@Thu] cut | NAR | Cô lắp chiếc camera nhỏ trong bếp để vừa bán hàng vừa trông mẹ chồng, đâu ngờ sau này nó cứu cả đời cô. | Thu liếc màn hình điện thoại cũ phát sáng (không chữ), mỉm cười.
-6. [@Thu] cont | NAR | Cô đâu biết rằng cùng lúc ấy, ở một tòa nhà kính giữa thành phố, chồng cô đang mỉm cười với người khác. |
+## Đạo cụ khoá — dán NGUYÊN VĂN
+- TAPE = "a yellow tailor's measuring tape"
+- WEDDING_AODAI = "a red silk wedding áo dài embroidered with a gold phoenix"
+- LACQUER_BOX = "a red-lacquered wooden box with gold inlay"
+- LAND_BOOK = "a pink-red land title booklet with no readable writing"
+- ENVELOPE = "a thick red envelope"
+- RING = "a plain gold wedding ring"
+- FOLDER = "a black leather document folder"
+- WEDDING_PHOTO = "a large framed wedding photo of a young couple: a bride with long wavy dark-brown hair and winged eyeliner in a white gown beside a lean groom with a styled black undercut and a thin moustache"
+- GIFT_BOX = "a large red gift box with a gold ribbon bow"
+- TABLET = "a pink tablet with a glowing blank screen"
+- HARD_HAT = "a yellow hard hat"
+- LUNCHBOX = "a stainless steel tiffin lunch box"
 
-### C03 — Ông Giám Đốc Mới Phất | "07:30 Sáng, nhà Thu (02:00–03:00)" | setting HOME
-1. [@Tung] | NAR | Tùng, chồng cô, ba mươi bảy tuổi, giám đốc công ty xây dựng mới phất, giờ chỉ quen vest đắt tiền và xe sang. | Tùng thắt lại cổ tay áo, soi gương cạnh cầu thang.
-2. [@Na] cut | NAR | Bé Na, con gái họ, chín tuổi, ôm chiếc trống con đứng chờ bố từ sáng, chiều nay con có buổi diễn ở trường. |
-3. [@Na,@Tung] cut | @Na | Bố ơi, chiều nay bố đến xem con đánh trống nhé, cô giáo bảo ai cũng có bố mẹ đến. |
-4. [@Tung,@Na] cont | @Tung | Bố bận họp cả ngày, con bảo mẹ đi xem cho, bố còn phải kiếm tiền nuôi cả nhà. | Tùng xoa đầu qua loa, nhìn đồng hồ.
-5. [@Thu,@Tung] cut | @Thu | Anh ăn bát xôi rồi hẵng đi, em đồ từ sáng sớm, vẫn còn nóng nguyên đây này. | Thu chìa bát xôi.
-6. [@Tung,@Thu] cont | @Tung | Thôi, xôi với chả xôi, ngày nào cũng xôi, anh ra ngoài ăn cho sạch sẽ. | Tùng đi thẳng ra cửa, Thu đứng ôm bát.
+## Trang phục đổi theo clip (`wardrobe`)
+- Vy ở đám hỏi (16–19) và phòng thăm gặp (22): `"@Vy": "a red silk wedding áo dài embroidered with a gold phoenix, a matching red khăn vấn headband, a thin gold necklace, beige high heels"` (22: áo nhàu, không khăn vấn, son phai).
+- Tùng ở công trường (23): `"@Tung": "a yellow hard hat, a sweat-darkened white shirt with the sleeves rolled up, dusty dark work trousers, black rubber boots"`.
+- Bà Nhàn mừng thọ (24): `"@BaNhan": "a new plum-purple silk áo dài with tiny gold embroidered flowers, cloth slippers, carved bamboo walking stick"`.
+- Thu một năm sau (25): `"@Thu": "an elegant ivory silk áo dài of her own design, a yellow tailor's measuring tape around her neck, low beige sandals"`.
 
-### C04 — Cô Thư Ký Váy Đỏ | "08:30 Sáng, văn phòng giám đốc (03:00–04:00)" | setting OFFICE
-1. [] | NAR | Ở tầng hai mươi của tòa nhà kính, căn phòng giám đốc lúc nào cũng thơm mùi nước hoa đắt tiền. |
-2. [@Vy] cut | NAR | Vy, cô thư ký mới hai mươi bốn tuổi, xinh đẹp, ngọt ngào, và biết rất rõ mình muốn gì ở người đàn ông này. | Vy bước vào, gót giày gõ sàn, chỉnh tóc.
-3. [@Vy,@Tung] cut | @Vy | Anh Tùng ơi, em tự tay nấu cơm trưa cho anh đấy, dạo này anh gầy đi nhiều quá. | đặt LUNCHBOX lên bàn.
-4. [@Tung,@Vy] cont | @Tung | Lâu lắm rồi mới có người lo cho anh một bữa trưa tử tế thế này đấy em ạ. |
-5. [@Vy] cut | NAR | Hộp cơm ấy mua ở nhà hàng dưới phố, nhưng Vy biết, đàn ông chỉ cần nghe hai chữ tự tay. |
-6. [@Vy] cont | NAR | Cô nghiêng đầu cười, liếc qua tấm ảnh gia đình trên bàn, rồi lặng lẽ úp nó xuống mặt bàn. | Vy úp PHOTO xuống.
+## Gài – trả
+| Gài | Trả |
+|---|---|
+| Bà Nhàn: con trai đi họp về thơm nước hoa đàn bà (01.1) | 02.4 Thu nói về mùi nước hoa |
+| Vết hằn nhẫn trên ngón áp út của Vy (05.2) | 07.4 nhẫn trên tay Khải; 09.2 ảnh cưới |
+| Phiếu đặt may ghi quê Vy ở Nam Định (05.4) | 09 Thu và bà Nhàn về quê; 14.2 Thu nhắc "nhà nào cũng treo ảnh cưới" |
+| Khải cầm cặp tài liệu ngược (07.1) | 07.3 "không cần thuê người cầm cặp ngược"; 09.2 bà Nhàn: "cậu luật sư cầm cặp ngược" |
+| "Nhìn dáng là biết số đo, nhìn mắt là biết lòng người" (05.3) | 13.4 "số đo của anh"; 25.4 câu kết |
+| Hộp sơn mài của bà Nhàn (03.2) | 18.2 sổ đỏ đứng tên Thu |
+| Vy: "em cho chị trắng tay ra đường" (14.3) | 14.4 "chỉ sợ người chưa quen"; 19.4 Vy trắng tay |
+| Áo dài may khít, "mặc vào phải đứng thật thẳng" (10.4) | 19.1 Vy không chạy nổi trong áo cưới |
+| Hai vé bay sáng ngày kia (15.3) | 18.4 định chuồn; 19.2 đèn xanh đỏ ở cửa sau |
+| Na: "cô ấy bảo con gọi là mẹ hai" (06.4) | 25.3 "tiểu tam là gì?" — "là người đặt may áo cưới nhầm tiệm" |
+| Tên Tùng = cây tùng cứng cỏi (20.2) | 23.4 bà Nhàn: "giờ mới giống cây tùng" |
+| "Bố mẹ cô dâu" ngồi bàn đầu (16.1, quần chúng) | 17.4 diễn viên thuê một triệu một buổi |
 
-### C05 — Người Tình Bí Mật | "12:00 Trưa, quán cà phê kín đáo (04:00–05:00)" | setting CAFE (đổi "at night" thành ban trưa: "An upscale café at noon: velvet armchairs, brass lamps, marble tables, tall windows facing a leafy street.")
-1. [] | NAR | Giờ nghỉ trưa, Vy không ăn cơm với giám đốc, cô lén đến một quán cà phê kín đáo cách đó ba con phố. |
-2. [@Khai] cut | NAR | Ở góc khuất, Khải đang đợi, người tình thật sự của Vy, kẻ đứng sau mọi nước cờ của cô. |
-3. [@Vy,@Khai] cut | @Khai | Thế nào em, lão giám đốc cắn câu chưa? Hợp đồng lớn sắp ký rồi đấy. |
-4. [@Vy,@Khai] cont | @Vy | Nửa năm thôi anh, em sẽ khiến lão bỏ vợ, sang tên hết nhà cửa cho em. |
-5. [@Khai,@Vy] cont | @Khai | Đừng để lão biết có anh, đàn ông ngu đến mấy cũng có lúc tỉnh ra đấy em. |
-6. [@Vy] cut | NAR | Vy khuấy ly cà phê, mỉm cười, cô đã tính kỹ từng bước để bước chân vào căn nhà của người khác. |
+## Cấu trúc clip
+Ký hiệu: `[nhân vật] cut|cont · SETTING` rồi từng lượt `@Ai (pace): lời nháp` · hình chính · câu chốt. `cont` chỉ hợp lệ khi nhân vật ⊆ clip trước, cùng setting; clip `cut` thì beat 1 (0–3 s) chỉ có bối cảnh, nhân vật vào từ 3 s. Lời nháp là gợi ý — được sửa cho tự nhiên và vừa khung thoại, nhưng giữ ý, giữ câu chốt.
 
-### C06 — Sợi Tóc Trên Áo Chồng | "23:30 Đêm, nhà Thu (05:00–06:00)" | setting HOME_NIGHT
-1. [] | NAR | Đêm ấy, Tùng lại về lúc gần nửa đêm, mùi rượu lẫn mùi nước hoa lạ phảng phất khắp căn nhà nhỏ. | áo sơ mi vắt trên ghế, cà vạt.
-2. [@Thu] cut | NAR | Thu lặng lẽ nhặt chiếc áo sơ mi chồng vứt trên ghế, định mang đi giặt như mọi đêm. |
-3. [@Thu] cont | NAR | Trên cổ áo trắng là một vệt son đỏ, và vắt ngang vai áo là một sợi tóc dài uốn xoăn màu nâu. | cận cổ áo.
-4. [@Thu,@Tung] cut | @Thu | Anh Tùng, vệt son trên áo anh là của ai? Anh nói thật với em đi. |
-5. [@Tung,@Thu] cont | @Tung | Tiếp khách thì dính son là chuyện thường, cô đừng nghĩ linh tinh rồi làm ầm lên. |
-6. [@Thu] cut | NAR | Tùng quay lưng đi ngủ, còn Thu ngồi bên bậc cầu thang đến sáng, tay vẫn nắm chặt chiếc áo. |
+---
 
-### C07 — Chuyến Công Tác Đà Nẵng | "Chiều tà, khu nghỉ dưỡng biển (06:00–07:00)" | setting "Sunset at a luxury seaside resort: an infinity pool terrace with white loungers, palm trees, the sea glowing orange."
-1. [] | NAR | Tùng bảo vợ phải đi công tác Đà Nẵng ba ngày, đúng vào dịp sinh nhật lần thứ ba mươi lăm của cô. | aerial resort.
-2. [@Tung,@Vy] cut | NAR | Nhưng chuyến công tác ấy chỉ có hai người, bên bể bơi khu nghỉ dưỡng nhìn ra biển. | ngồi ghế dài, cụng ly nước cam (kín đáo).
-3. [@Vy,@Tung] cont | @Vy | Anh ơi, ở bên anh em mới biết thế nào là được yêu, vợ anh có biết chiều anh thế này không? |
-4. [@Tung,@Vy] cont | @Tung | Cô ấy chỉ biết xôi với chợ thôi em ạ, sống với cô ấy anh thấy mình già đi mười tuổi. |
-5. [@Thu,@Na] cut setting HOME_NIGHT | NAR | Ở nhà, Thu và bé Na thắp nến trên chiếc bánh nhỏ, chiếc ghế của Tùng vẫn để trống suốt bữa. |
-6. [@Na,@Thu] cont | @Na | Mẹ ơi, con ước bố về ăn cơm với mẹ con mình, như hồi nhà mình còn nghèo ấy. |
+## HỒI 1 — ĐƠN HÀNG ÁO CƯỚI (Cảnh 01–08)
 
-### C08 — Bức Ảnh Lúc Nửa Đêm | "Đêm, nhà Thu (07:00–08:00)" | setting HOME_NIGHT
-1. [@Thu] | NAR | Đêm Tùng về, điện thoại anh rung trên bàn, màn hình sáng lên một cái tên được lưu là anh Tuấn kế toán. | màn hình phát sáng không chữ.
-2. [@Thu] cont | NAR | Thu mở ra, và cả thế giới của cô sụp đổ, đó là ảnh một cô gái váy đỏ đang tựa vào vai chồng cô. | ánh màn hình hắt lên mặt, Thu che miệng.
-3. [@Tung,@Thu] cut | @Tung | Cô lục điện thoại của tôi à? Cô còn biết tôn trọng chồng mình không hả? |
-4. [@Thu,@Tung] cont | @Thu | Mười hai năm em bán cả bông tai cưới cho anh làm ăn, anh trả em thế này sao? |
-5. [@Tung,@Thu] cont | @Tung | Chuyện cũ rồi, đừng lôi ra kể công mãi, tôi chán cái nhà này lắm rồi. |
-6. [@BaNhan] cut setting riêng "Night on the dim tiled stair landing of the tube house, a faint light from the kitchen below." | NAR | Trên chiếu nghỉ cầu thang, bà Nhàn đứng lặng trong bóng tối, nghe hết từng lời đứa con trai mình nói. |
+### C01 — Khách Lạ Đặt Áo Cưới | "Chiều, tiệm may áo dài phố Hàng Gai (00:00–01:00)" | SHOP_DAY
+Trục: máy quay đặt cạnh kệ lụa nhìn ra cửa kính: bàn cắt ở giữa, máy may bên trái, gương thử bên phải. Đạo cụ: TAPE, lụa đỏ, ENVELOPE, chuông đồng trên cửa.
+- 01.1 `[Thu, BaNhan] cut` · @BaNhan (normal, dry): Con trai tôi dạo này đi họp toàn về lúc nửa đêm, áo thì thơm nức nước hoa đàn bà. / @Thu (slow): Mẹ ơi, đàn ông có tiền thì mũi đàn bà cũng phải thính hơn thôi mẹ ạ. · Bà Nhàn gấp lụa, Thu đạp máy may; Thu nói xong mỉm cười không ngẩng lên.
+- 01.2 `[Vy, Thu] cut` · Bà Nhàn đã lên gác. Chuông cửa leng keng, Vy váy đỏ bước vào, ngắm kệ lụa. @Vy (normal, sweet): Chị là chủ tiệm ạ? Em muốn may một bộ áo dài cưới, đẹp nhất phố này. / @Thu (normal): Em ngồi đi. Cưới vào bao giờ? · Thu đặt kéo xuống, kéo ghế mời.
+- 01.3 `[Vy, Thu] cont` · @Vy (slow, savoring): Tháng sau ạ. Chú rể là giám đốc Tùng, chồng chị đấy. Em muốn chính tay chị may. · Vy đặt phong bì đỏ dày lên bàn cắt; tay Thu dừng trên mặt lụa. Câu treo.
+- 01.4 `[Thu, Vy] cont` · @Thu (slow, calm): Em đứng thẳng lên. Áo cưới phải đo cho chuẩn, may xấu thì tội cô dâu. / @Vy (fast, thrown off): Chị... chị không giận à? · Thu rút thước dây trên cổ, bình thản đo vai Vy; Vy lúng túng. Chốt: Thu thắng ván đầu bằng sự bình thản.
 
-## HỒI 2 — BÉ BA (Cảnh 09–17)
+### C02 — Bữa Cơm Có Mùi Nước Hoa | "Tối, nhà Thu (01:00–02:00)" | HOUSE_EVENING
+Trục: máy đặt phía bàn thờ nhìn ra cửa: bàn ăn tròn giữa, bếp phía sau, cầu thang bên phải. Đạo cụ: mâm cơm, bát đũa, bài kiểm tra điểm mười (không chữ), điện thoại của Tùng.
+- 02.1 `[Na, Thu] cut` · @Na (fast, excited): Mẹ ơi, hôm nay bố có về ăn cơm không? Con được điểm mười, con muốn khoe bố! / @Thu (normal): Có chứ, mẹ nấu toàn món bố thích đây này. · Na xếp bát, giơ tờ giấy kiểm tra; Thu bưng nồi canh.
+- 02.2 `[Tung, Na] cut` · Tùng vào, tháo cà vạt, mắt dán điện thoại. @Na (fast): Bố ơi, con được điểm mười này! / @Tung (fast, dismissive): Ừ, giỏi. Bố ăn ở ngoài rồi, bố lên tắm đây. · Na cụp mắt, hạ tờ giấy xuống.
+- 02.3 `[Thu, Tung] cut` · @Thu (slow): Hôm nay tiệm có cô khách đặt may áo cưới. Cô ấy bảo chú rể là giám đốc công ty xây dựng, tên Tùng. / @Tung (fast, choking): Hà Nội thiếu gì người tên Tùng! · Tùng đang uống nước thì sặc.
+- 02.4 `[Thu, Tung] cont` · @Thu (slow, cold): Ừ, thiếu gì. Nhưng người tên Tùng dùng chung nước hoa với con gái hai mươi tuổi thì chắc chỉ có một. / @Tung (fast): Cô đừng có tưởng tượng linh tinh! · Tùng đứng bật dậy, quay lên cầu thang; Thu gắp thức ăn cho Na như không có gì.
 
-### C09 — Bé Ba Ghé Gánh Xôi | "06:00 Sáng, góc phố (08:00–09:00)" | setting STALL
-1. [@Vy] | NAR | Sáng hôm ấy, một chiếc xe sang dừng ngay trước gánh xôi, cô gái váy đỏ bước xuống, kính đen che nửa mặt. | CAR dừng; Vy bước xuống, đeo kính râm.
-2. [@Thu] cut | NAR | Thu nhận ra ngay chiếc váy đỏ trong tấm ảnh đêm qua, đôi tay đang gói xôi của cô khựng lại. |
-3. [@Vy,@Thu] cut | @Vy | Chị cho em một gói xôi xéo, nghe nói ngày xưa anh Tùng mê xôi của chị lắm. |
-4. [@Thu,@Vy] cont | @Thu | Ngày xưa hay bây giờ, anh ấy vẫn là chồng tôi, cô muốn ăn xôi thì cứ ngồi xuống. |
-5. [@Vy,@Thu] cont | @Vy | Chị giữ được bếp, nhưng giữ không nổi chồng đâu chị ạ, nhìn đôi tay chị kìa. | Vy tháo kính, liếc tay Thu.
-6. [@Thu] cut | NAR | Vy đặt tờ tiền lên mẹt xôi rồi bỏ đi, còn Thu nhìn đôi bàn tay chai sạn của mình rất lâu. |
+### C03 — Chiếc Hộp Sơn Mài Của Mẹ Chồng | "Đêm, phòng bà Nhàn (02:00–03:00)" | BA_NHAN_ROOM
+Trục: máy đặt cạnh cửa sổ nhìn vào giường: bà Nhàn ngồi mép giường bên trái, Thu ngồi ghế bên phải, bàn có đèn ở giữa. Đạo cụ: LACQUER_BOX, LAND_BOOK, tờ giấy gấp cũ.
+- 03.1 `[BaNhan, Thu] cut` · @BaNhan (normal, hushed): Ngồi đây mẹ bảo. Con bé váy đỏ ấy, tuần trước mẹ thấy nó khoác tay thằng Tùng ở hiệu vàng. / @Thu (slow, hurt): Mẹ biết rồi, sao mẹ không nói với con? · Bà Nhàn vỗ mép giường gọi Thu ngồi.
+- 03.2 `[BaNhan, Thu] cont` · @BaNhan (slow): Mười hai năm trước con bán mảnh đất bố con để lại cho nó làm vốn. Mẹ bắt nó cho con đứng tên căn nhà này, với sáu mươi phần trăm công ty. / @Thu (slow): Con tưởng mẹ quên chuyện ấy lâu rồi. · Bà mở hộp sơn mài, lấy ra sổ đỏ.
+- 03.3 `[BaNhan, Thu] cont` · @BaNhan (normal, dry): Mẹ già chứ mẹ chưa lẫn. Con trai mẹ yếu chỗ nào, mẹ biết, nên mẹ giữ cho con một đường lui. / @Thu (slow): Con không muốn phải dùng đến cái này đâu mẹ. · Thu cầm sổ đỏ, tay hơi run.
+- 03.4 `[BaNhan, Thu] cont` · @BaNhan (slow, firm): Không dùng thì cất. Nhưng đừng để con hồ ly nào cướp mất của mẹ con cái Na. / @Thu (slow, resolved): Vâng. Mẹ cứ để con may xong cái áo cưới đã. · Thu đóng nắp hộp, ánh mắt cứng lại. Câu treo: kế hoạch bắt đầu.
 
-### C10 — Mâm Cơm Đòi Ly Hôn | "19:00 Tối, nhà Thu (09:00–10:00)" | setting HOME_NIGHT (đổi thành buổi tối có mâm cơm: giữ nguyên chuỗi HOME_NIGHT)
-1. [] | NAR | Tối hôm đó, Thu nấu một mâm cơm đủ món Tùng thích, như cố níu chút hơi ấm cuối cùng của gia đình. | mâm cơm trên bàn gỗ.
-2. [@Tung,@Thu] cut | @Tung | Mình ly hôn đi, tôi không chịu nổi cái mùi bếp núc với gánh xôi của cô nữa. |
-3. [@Thu,@Tung] cont | @Thu | Anh nói lại xem, anh định bỏ mẹ con em vì một đứa con gái kém anh mười mấy tuổi à? |
-4. [@BaNhan] cut | NAR | Bà Nhàn chống gậy đứng bật dậy, đôi tay già run lên, đôi đũa trên tay rơi xuống mâm cơm. |
-5. [@BaNhan,@Tung] cut | @BaNhan | Tùng, mày quên ai bán bông tai cho mày làm ăn rồi à? Mày còn là người không? |
-6. [@Tung,@BaNhan] cont | @Tung | Mẹ đừng bênh cô ấy nữa, con có quyền sống cho mình, con quyết rồi. |
+### C04 — Vợ Chồng Nhà Lừa | "Đêm, căn hộ cao cấp của Vy (03:00–04:00)" | APT_NIGHT
+Trục: máy đặt sau sofa nhìn ra cửa kính: đảo bếp đá bên trái, sofa trắng giữa, thành phố phía sau. Đạo cụ: RING (cất trong hộp nhung), FOLDER, sâm panh.
+- 04.1 `[Vy, Khai] cut` · @Vy (fast, gleeful): Anh biết không, em đến tận tiệm vợ lão Tùng đặt áo cưới, mặt bà ấy đơ ra như tượng! / @Khai (normal, lazy): Em chơi lớn thế, lỡ bà ấy làm ầm lên thì sao? · Vy đá giày cao gót, ngã xuống sofa cười; Khải rót sâm panh.
+- 04.2 `[Khai, Vy] cont` · @Khai (normal, sly): Đeo nhẫn cưới của anh vào đi, ở nhà mình rồi còn diễn làm gì. / @Vy (normal, teasing): Ba năm rồi mà lão nào em diễn anh cũng ghen. · Khải mở hộp nhung lấy nhẫn vàng trơn đeo cho Vy — lộ ra hai người là vợ chồng. Cú lật cho khán giả.
+- 04.3 `[Khai, Vy] cont` · @Khai (normal): Lão Tùng là con cá thứ ba. Trước đám hỏi, bắt lão chuyển năm tỷ sính lễ với sang tên căn nhà phố cổ. / @Vy (fast): Xong là mình bay, như hai lần trước. · Khải mở cặp tài liệu đen trên đảo bếp.
+- 04.4 `[Vy, Khai] cont` · @Vy (slow, purring): Em sẽ làm cô dâu ngoan nhất Hà Nội. / @Khai (normal, smirking): Còn anh làm anh họ luật sư. Nhớ gọi anh là anh họ đấy. · Hai người cụng ly trước cửa kính đầy đèn.
 
-### C11 — Nước Mắt Bên Bếp Than | "Nửa đêm, bếp nhà Thu (10:00–11:00)" | setting HOME_NIGHT
-1. [@Thu] | NAR | Nửa đêm, Thu ngồi một mình bên bếp than, nồi xôi sáng mai vẫn phải đồ, nước mắt rơi cả vào chậu gạo. |
-2. [@Thu] cont | NAR | Cô không dám khóc thành tiếng, sợ mẹ chồng thức giấc, sợ con gái nhìn thấy mẹ yếu đuối. |
-3. [@Na,@Thu] cut | NAR | Bé Na lặng lẽ xuống bếp từ lúc nào, đôi tay nhỏ xíu vòng qua ôm lấy lưng mẹ. |
-4. [@Na,@Thu] cont | @Na | Mẹ đừng khóc nữa, bố không cần mẹ thì con với bà cần mẹ, mẹ nhé. |
-5. [@Thu,@Na] cont | @Thu | Ừ, mẹ không khóc nữa, mẹ còn có con, có bà, mẹ phải sống cho đàng hoàng. |
-6. [] cut | NAR | Ngọn lửa bếp than bùng lên trong đêm, như lời hứa của một người đàn bà sẽ không bao giờ gục ngã. | cận than hồng bùng sáng.
+### C05 — Buổi Thử Áo Đầu Tiên | "Vài ngày sau, tiệm may (04:00–05:00)" | SHOP_DAY
+Trục: máy đặt sau gương thử nhìn vào tiệm: bục thử trước gương, bàn cắt phía sau, cửa kính xa nhất. Đạo cụ: lụa đỏ ghim tạm, TAPE, kim ghim, phiếu đặt may viết tay (không chữ đọc được).
+- 05.1 `[Vy, Thu] cut` · @Vy (slow, smug): Anh Tùng hứa sang tên căn nhà ba tầng làm sính lễ, chắc chị biết căn nào rồi. / @Thu (slow): Căn ấy à? Đẹp lắm, chị ở đấy mười hai năm rồi. · Vy đứng trên bục, Thu ghim lụa đỏ lên vai Vy.
+- 05.2 `[Thu, Vy] cont` · @Thu (slow, sharp): Ngón áp út của em có vết hằn nhẫn. Nhẫn của ai mà đeo lâu thế? / @Vy (fast, flustered): Nhẫn... nhẫn đeo chơi thôi! Chị đo áo hay đo tay người ta đấy? · Thu đo cổ tay Vy, dừng ở vết hằn trắng; Vy giật tay giấu ra sau. Gài manh mối.
+- 05.3 `[Vy, Thu] cont` · @Vy (normal, mocking): Chị cứ may cho đẹp vào, em trả gấp đôi, coi như em đền chị một ông chồng. / @Thu (slow): Chị may áo hai mươi năm rồi. Nhìn dáng là biết số đo, nhìn mắt là biết lòng người. · Thu cuộn thước dây, nhìn thẳng mắt Vy; Vy quay đi trước.
+- 05.4 `[BaNhan, Thu] cut` · Vy đã đi. @BaNhan (normal, conspiratorial): Con bé ấy có chồng rồi, mẹ cá với con cái gậy này. / @Thu (normal): Con cũng nghĩ thế. Phiếu đặt may nó ghi quê ở Nam Định đấy mẹ. · Bà Nhàn từ cầu thang trong tiệm bước xuống; Thu giơ phiếu đặt may. Câu treo: về quê.
 
-### C12 — Hai Vạch Hồng | "Sáng, căn hộ cao cấp (11:00–12:00)" | setting APARTMENT
-1. [] | NAR | Căn hộ cao cấp Tùng thuê cho Vy nhìn ra cả thành phố, tiền thuê mỗi tháng bằng một năm Thu bán xôi. |
-2. [@Vy] cut | NAR | Sáng ấy, Vy cầm que thử thai đã chuẩn bị sẵn, hai vạch hồng được cô mua lại từ một người quen. | Vy cầm TEST.
-3. [@Vy,@Tung] cut | @Vy | Anh ơi, mình có con rồi, bác sĩ bảo nhiều khả năng là con trai đấy anh. | chìa TEST.
-4. [@Tung,@Vy] cont | @Tung | Con trai thật à em? Anh sẽ lo cho mẹ con em đầy đủ, anh hứa với em. |
-5. [@Vy,@Tung] cont | @Vy | Nhưng con em không thể là con ngoài giá thú, anh phải ly hôn ngay, sang tên căn nhà cho con. |
-6. [@Vy] cut | NAR | Tùng gật đầu không chút do dự, còn Vy quay mặt đi, khóe môi cong lên một nụ cười lạnh. |
+### C06 — Tờ Giấy Ký Không Đọc | "Tối, nhà Thu (05:00–06:00)" | HOUSE_EVENING
+Trục như C02. Đạo cụ: giỏ hoa quả, xấp giấy tờ, bút ký.
+- 06.1 `[Tung, Thu] cut` · @Tung (normal, too sweet): Em ký giúp anh mấy tờ vay vốn ngân hàng, công trình mới đang cần gấp. / @Thu (slow): Anh cứ để đấy, em đọc đã. · Tùng đặt giỏ hoa quả, đẩy xấp giấy và bút sang.
+- 06.2 `[Tung, Thu] cont` · @Tung (fast, impatient): Đọc làm gì, toàn chữ chuyên môn, em ký vào chỗ đánh dấu là được! / @Thu (slow): Giấy vay vốn mà sao trang đầu lại là hợp đồng tặng cho nhà đất hả anh? · Thu lật trang, ngẩng lên nhìn thẳng. Cú bắt bài.
+- 06.3 `[Tung, Thu] cont` · @Tung (fast, angry): Đã thế thì nói thẳng! Tôi muốn ly hôn. Nhà này, công ty này là do tôi làm ra! / @Thu (slow, cold): Ly hôn thì được. Nhưng ký gì, ký lúc nào, là em chọn. · Tùng đập tay xuống bàn (không chạm ai), Thu đặt bút xuống.
+- 06.4 `[Na, Thu] cut` · Tùng đã lên gác. @Na (slow, small voice): Mẹ ơi, có phải bố sắp sang ở với cô váy đỏ không? Cô ấy bảo con gọi cô là mẹ hai. / @Thu (slow, steady): Con chỉ có một mẹ thôi. Còn mẹ hai thì để mẹ tính. · Na ngồi bậc cầu thang ôm gối; Thu ngồi xuống cạnh con. Câu treo.
 
-### C13 — Cú Ngã Trên Cầu Thang | "Chiều, nhà Thu (12:00–13:00)" | setting HOME
-1. [@Vy] | NAR | Chiều hôm sau, Vy tự tìm đến nhà Thu, tay xách giỏ trái cây, nói là đến chào chị cả. |
-2. [@Thu,@Vy] cut | @Vy | Em đến xem nhà một chút, sắp tới em với con trai anh Tùng sẽ về đây ở. |
-3. [@Thu,@Vy] cont | @Thu | Đây là nhà của mẹ con tôi, mời cô về cho, tôi không muốn nói chuyện với cô. | Thu chỉ tay ra cửa, đứng cách xa Vy.
-4. [@Vy] cut | NAR | Nghe tiếng xe Tùng đỗ ngoài ngõ, Vy bỗng ôm bụng, tự ngồi thụp xuống chân cầu thang, kêu lên thất thanh. | không ai ở gần cô.
-5. [@Tung,@Thu] cut | @Tung | Cô làm cái gì cô ấy thế hả? Cô ấy đang mang thai con của tôi đấy! | Tùng chỉ tay vào Thu, quát.
-6. [@Thu] cut | NAR | Thu đứng chết lặng, không ai tin cô, chỉ có chiếc camera nhỏ trên kệ bếp vẫn lặng lẽ nhấp nháy đèn xanh. | cận CAMERA đèn xanh.
+### C07 — Anh Họ Luật Sư | "Sáng hôm sau, nhà Thu (06:00–07:00)" | HOUSE_DAY
+Trục: máy đặt cạnh bàn thờ nhìn ra cửa gấp: bộ bàn ghế gỗ giữa, cầu thang bên phải. Đạo cụ: FOLDER (cầm ngược), xấp đơn thuận tình ly hôn, ấm trà.
+- 07.1 `[Khai, BaNhan] cut` · @Khai (normal, smooth): Chào bà, cháu là luật sư, thay mặt anh Tùng đến làm việc với chị Thu ạ. / @BaNhan (normal, dry): Luật sư à? Thế cậu cầm cái cặp ngược thế kia là luật gì? · Khải đứng ở cửa, cặp tài liệu cầm ngược; vội xoay lại. Hài.
+- 07.2 `[Khai, Thu] cut` · @Khai (fast, pushy): Chị ký thuận tình, nhận một trăm triệu, nhường nhà và công ty cho anh Tùng. Ra toà thì chị mất cả quyền nuôi con đấy. / @Thu (slow): Một trăm triệu. Còn rẻ hơn tiền vải áo cưới. · Khải trải giấy lên bàn trà; Thu rót trà, không nhìn giấy.
+- 07.3 `[Thu, Khai] cont` · @Thu (slow): Cậu về bảo anh Tùng: chuyện vợ chồng thì tự đến mà nói, không cần thuê người cầm cặp ngược. / @Khai (fast, flustered): Chị... chị đừng hối hận! · Thu đẩy xấp giấy trả lại; Khải gom giấy, ra cửa.
+- 07.4 `[BaNhan, Thu] cut` · @BaNhan (normal, sly): Cái nhẫn trên tay thằng luật sư, con có thấy giống vết nhẫn trên tay con bé kia không? / @Thu (slow): Con thấy rồi mẹ. Nhẫn cưới thì bao giờ cũng có hai người đeo. · Bà Nhàn nhìn theo ra cửa; Thu xỏ dép, cầm túi. Câu treo.
 
-### C14 — Mẹ Chồng Chọn Con Dâu | "Sáng, nhà Thu (13:00–14:00)" | setting HOME
-1. [] | NAR | Một tuần sau, tờ đơn ly hôn nằm trên chiếc bàn ăn, nơi mười hai năm nay Thu dọn biết bao mâm cơm. | giấy tờ (không chữ đọc được), bút.
-2. [@Thu] cut | NAR | Thu ký tên, không khóc, không van xin, cô chỉ xin được nuôi bé Na, ngoài ra không lấy gì cả. |
-3. [@Tung,@Thu] cut | @Tung | Căn nhà này tôi xây, cô dọn đi trong tuần này, đừng để Vy phải nhìn thấy cô. |
-4. [@BaNhan] cut | NAR | Bà Nhàn lặng lẽ xách chiếc làn mây cũ, khoác áo, đứng cạnh con dâu và cháu gái ở bậc cửa. |
-5. [@BaNhan,@Tung] cut | @BaNhan | Mẹ đi theo con dâu, con trai tôi chết từ hôm nó bỏ vợ bỏ con rồi. |
-6. [@Tung] cut | NAR | Tùng đứng giữa căn nhà rộng, lần đầu thấy nó trống trải đến thế, nhưng anh vẫn không nói một lời giữ lại. |
+### C08 — Cô Dâu Về Ra Mắt | "Chiều chủ nhật, nhà Thu (07:00–08:00)" | HOUSE_DAY
+Thu đang ở tiệm. Trục như C07. Đạo cụ: hộp quà sang trọng, cây lau nhà, xô nước, sổ tay nhỏ của bà Nhàn.
+- 08.1 `[Tung, BaNhan] cut` · @Tung (fast, nervous): Mẹ, đây là Vy, sắp làm con dâu mẹ. Mẹ chúc phúc cho chúng con đi. / @BaNhan (slow, playing senile): Con dâu mẹ đang ở tiệm may cơ mà. Cô này là cô giúp việc mới hả con? · Tùng đặt hộp quà lên bàn; bà Nhàn nheo mắt nhìn ra phía cửa (Vy ngoài khung).
+- 08.2 `[BaNhan, Vy] cut` · @BaNhan (normal, deadpan): Giúp việc mới thì lau nhà đi cháu, nhà này ngày lau ba lần. / @Vy (fast, forced sweetness): Bà ơi, cháu là Vy, người yêu anh Tùng ạ! · Bà Nhàn chìa cây lau nhà; Vy cười gượng, nhận lấy.
+- 08.3 `[Vy, BaNhan] cont` · @BaNhan (slow, deadpan): Lau cả gầm tủ nữa cháu. Cô con dâu nhà này lau mười hai năm chưa kêu một câu. / @Vy (fast, muttering): Bà già lẩm cẩm, đợi sang tên xong rồi biết tay. · Vy váy đỏ, giày cao gót, lau nhà nghiến răng; lẩm bẩm tưởng bà không nghe.
+- 08.4 `[BaNhan, Thu] cut` · HOUSE_EVENING (tối, Thu đi làm về). @BaNhan (normal, sly): Nó bảo đợi sang tên xong thì biết tay. Mẹ ghi vào sổ cả rồi, không sót chữ nào. / @Thu (slow, half smile): Mẹ giả lẫn khéo thế, con suýt tin mẹ lẫn thật. · Bà Nhàn giơ cuốn sổ tay nhỏ (không chữ đọc được); Thu bật cười khẽ. Hết hồi 1.
 
-### C15 — Căn Phòng Trọ Mười Mét Vuông | "Tối, xóm trọ (14:00–15:00)" | setting ROOM
-1. [] | NAR | Ba bà cháu dọn về căn phòng trọ mười mét vuông, mưa dột tong tỏng xuống chiếc chậu nhôm giữa nhà. |
-2. [@Thu] cut | NAR | Thu lau nhà, kê giường, xếp nồi xôi vào góc, như thể chỉ là chuyển nhà chứ không phải mất cả một đời. |
-3. [@BaNhan,@Thu] cut | @BaNhan | Con ạ, mẹ còn ít vàng dành dụm, con cầm lấy mà mở một quán xôi cho tử tế. | bà đưa gói khăn tay nhỏ.
-4. [@Thu,@BaNhan] cont | @Thu | Mẹ giữ lấy mà dưỡng già, con còn đôi bàn tay, con sẽ làm lại từ đầu mẹ ạ. | Thu gập tay bà lại.
-5. [@Na] cut | NAR | Bé Na ngồi học bài dưới bóng đèn vàng, cạnh đó là bức tranh con vẽ ba người phụ nữ nắm tay nhau. | tranh sáp màu, không chữ.
-6. [@Thu] cut | NAR | Đêm ấy, lần đầu tiên sau nhiều năm, Thu ngủ một giấc thật sâu, không phải thức chờ ai về nữa. |
+## HỒI 2 — VÁN CỜ CỦA CHÍNH THẤT (Cảnh 09–17)
 
-### C16 — Chữ Ký Định Mệnh | "Sáng, nhà cũ & văn phòng (15:00–16:00)" | setting OFFICE
-1. [@Vy] setting HOME | NAR | Thu vừa dọn đi, Vy đã dọn vào, dỡ bỏ gian bếp đồ xôi của Thu, thay bằng quầy rượu và rèm nhung đỏ. |
-2. [@Vy,@Tung] cut | @Vy | Anh ký vào đây cho em, giấy ủy quyền thôi mà, để em lo hết giấy tờ cho con. |
-3. [@Tung,@Vy] cont | @Tung | Em lo thì anh yên tâm, anh ký luôn, mấy cái giấy tờ này anh chả buồn đọc. |
-4. [@Vy] cut | NAR | Chỉ một chữ ký, Tùng đã trao cho Vy quyền định đoạt cả công ty lẫn căn nhà anh vừa đuổi vợ ra khỏi. |
-5. [@Khai] cut setting riêng "Inside a black luxury sedan with no badge parked in a dim underground car park, the elevator doors glowing in the distance." | NAR | Dưới hầm xe, Khải ngồi chờ trong chiếc xe đen, ngón tay gõ nhịp lên vô lăng, mắt dán vào cửa thang máy. |
-6. [@Vy,@Khai] cut (cùng setting xe) | @Khai | Xong rồi chứ em? Ba tháng nữa mình rút hết tiền, bay ra nước ngoài sống như vua. |
+### C09 — Về Quê Cô Dâu | "Chiều, một làng quê Nam Định (08:00–09:00)" | VILLAGE (09.4 VILLAGE_LANE)
+Trục: máy đặt giữa sân gạch nhìn vào gian thờ. Đạo cụ: giỏ quà, WEDDING_PHOTO treo tường, điện thoại của Thu.
+- 09.1 `[Thu, BaNhan] cut` · @Thu (normal): Địa chỉ trên phiếu may là nhà này đây mẹ ạ. / @BaNhan (normal, grumpy-funny): Ngồi xe ba tiếng, lưng mẹ gãy làm đôi rồi, phải có cái gì đáng xem đấy nhé. · Hai người đứng ở cổng gạch, Thu xách giỏ quà.
+- 09.2 `[BaNhan, Thu] cut` · Trong gian thờ, trên tường là ảnh cưới lớn. @BaNhan (slow, stunned): Cô dâu này chẳng phải con bé váy đỏ à? Chú rể là cậu luật sư cầm cặp ngược! / @Thu (slow): Họ cưới nhau từ ba năm trước rồi mẹ ạ. · Hai người ngẩng nhìn ảnh cưới. Cú lật.
+- 09.3 `[Thu, BaNhan] cont` · @BaNhan (normal): Chụp lại đi con, mang về cho thằng Tùng nó sáng mắt ra. / @Thu (slow, thoughtful): Chưa đâu mẹ. Bây giờ anh ấy đang mù, đưa ảnh nào anh ấy cũng bảo là ảnh ghép. · Thu giơ điện thoại chụp ảnh cưới (màn hình chỉ phát sáng).
+- 09.4 `[BaNhan, Thu] cut` · VILLAGE_LANE, hoàng hôn. @BaNhan (normal): Bà hàng xóm bảo năm nào con bé ấy cũng về khoe lấy được một ông đại gia. Thế con định đợi đến bao giờ? / @Thu (slow, cold): Đến ngày anh ấy đứng trước hai họ, tự tay trao sính lễ cho vợ người ta. · Hai người đi chậm trên đường gạch giữa đồng lúa. Câu treo.
 
-### C17 — Quán Xôi Của Thu | "05:30 Sáng, sáu tháng sau (16:00–17:00)" | setting SHOP
-1. [] | NAR | Sáu tháng sau, ở một góc phố cổ, quán xôi nhỏ của Thu đã mở cửa từ khi trời còn tối. |
-2. [@Thu] cut | NAR | Không cửa hàng sang, không biển hiệu đẹp, chỉ có nồi xôi dẻo thơm và nụ cười hiền như ngày nào. |
-3. [] + extras "a long queue of office workers and students waiting under the streetlamps" | NAR | Người ta xếp hàng dài từ đầu phố, có người đi xe cả tiếng đồng hồ chỉ để mua một gói xôi. |
-4. [@BaNhan,@Na] cut | NAR | Bà Nhàn ngồi gói lá chuối, bé Na buộc lạt, ba bà cháu cười nói rộn ràng như chưa từng mất gì. |
-5. [@Thu] cut + extras "a few customers holding banana-leaf parcels" | @Thu | Xôi hôm nay hết sớm rồi, mai cả nhà quay lại, em để phần trước cho nhé! |
-6. [@Thu] cont | NAR | Người đàn bà từng bị chê tay chân thô ráp, giờ chính đôi bàn tay ấy đang nuôi sống cả gia đình. |
+### C10 — Bé Na Theo Bố | "Cuối tuần, trước tiệm may rồi đêm trong tiệm (09:00–10:00)" | SHOP_DAY (10.3–10.4 SHOP_NIGHT)
+- 10.1 `[Vy, Na] cut` · Vỉa hè trước tiệm (setting riêng: "The pavement outside Thu's áo dài tailor shop on an old-quarter silk street by day: a glass shop door, potted plants, parked motorbikes, a black luxury sedan with no badge at the curb."). @Vy (normal, honeyed): Cô tặng Na máy tính bảng màu hồng này. Cuối tuần sang nhà bố chơi, có bể bơi trên tầng thượng nhé. / @Na (fast, excited): Thật ạ? Cô cho con bơi cả ngày luôn ạ? · Vy ngồi xổm đưa hộp quà; Na ôm hộp.
+- 10.2 `[Na, Thu] cut` · Trong tiệm. @Na (fast): Mẹ ơi, cho con sang nhà bố cuối tuần nhé, nhà bố có bể bơi! / @Thu (slow, swallowing pain): Ừ, con đi đi. Nhớ mang áo khoác, trên cao gió lạnh lắm con ạ. · Thu xếp áo khoác vào ba lô cho Na, cười mà mắt đỏ.
+- 10.3 `[Thu, BaNhan] cut` · SHOP_NIGHT, Thu một mình đạp máy may chiếc áo cưới đỏ. @BaNhan (normal): Con để cái Na đi với con hồ ly ấy thật à? / @Thu (slow, close to tears): Con không giữ con bằng cách cấm nó mẹ ạ. Trẻ con phải tự nhìn thấy người lớn thật thế nào. · WEDDING_AODAI đang thành hình trên ma-nơ-canh.
+- 10.4 `[BaNhan, Thu] cont` · @BaNhan (normal, gruff-tender): Khóc thì khóc đi, nhưng đừng để nước mắt rơi vào áo cưới của nó, phí. / @Thu (slow, tiny laugh): Mẹ yên tâm. Áo này con may khít lắm, ai mặc vào cũng phải đứng thật thẳng trước hai họ. · Một giọt nước mắt rơi trên lụa đỏ; Thu lau đi, bật cười. Gài: áo khít.
 
-## HỒI 3 — QUẢ BÁO (Cảnh 18–25)
+### C11 — Bể Bơi Trên Tầng Thượng | "Thứ bảy, căn hộ của Vy (10:00–11:00)" | APT_DAY (11.4 SHOP_NIGHT)
+- 11.1 `[Na, Vy] cut` · @Na (normal, earnest): Cô ơi, con vẽ cả nhà mình đây này: bố, mẹ, bà nội với con. / @Vy (fast, cold): Vẽ thì vẽ ra giấy, đừng có bôi bút lên ghế da của cô! · Na giơ bức vẽ bút sáp; Vy giật mình nhìn vệt bút trên sofa trắng.
+- 11.2 `[Vy, Na] cont` · @Vy (fast, irritated, on the phone): Con bé lì lắm anh ạ, xong đám hỏi là gửi nó về với bà mẹ bán áo, nhìn mặt nó em ngứa mắt. / @Na (slow, hushed): Cô không thích con. Con muốn về với mẹ. · Vy quay lưng nói điện thoại ở cửa kính; Na ngồi sofa nghe hết, môi run.
+- 11.3 `[Tung, Na] cut` · Chiều, Tùng về. @Na (slow, close to tears): Bố ơi, con muốn về nhà mẹ. Cô Vy bảo nhìn mặt con cô ngứa mắt. / @Tung (normal, tired): Con nghe nhầm rồi, cô Vy thương con lắm. · Tùng cúi xuống; Na đứng ôm ba lô. Tùng vẫn mù.
+- 11.4 `[Na, Thu] cut` · SHOP_NIGHT, Na chạy vào tiệm. @Na (slow, crying): Mẹ ơi, nhà bố có bể bơi nhưng không có mẹ. Máy tính bảng con trả cô ấy rồi. / @Thu (slow): Con gái mẹ lớn thật rồi. · Thu ngồi xuống ngang tầm con, dang tay; Na lao vào lòng mẹ. Khoảnh khắc mẹ con.
 
-### C18 — Công Ty Rỗng Ruột | "Sáng, văn phòng giám đốc (17:00–18:00)" | setting OFFICE
-1. [] | NAR | Cùng lúc ấy, công ty của Tùng bắt đầu lung lay, những hợp đồng lớn lần lượt bị hủy không rõ lý do. |
-2. [@Tung] cut + extras "a middle-aged accountant in a grey cardigan holding a folder" | NAR | Kế toán trưởng run run đặt tập hồ sơ lên bàn, tài khoản công ty chỉ còn vài trăm nghìn đồng. |
-3. [@Tung] cont (cùng extras) | @Tung | Tiền đâu hết rồi? Ai rút hết tiền của công ty tôi? Gọi Vy lên đây ngay! |
-4. [@Tung] cut | NAR | Mọi lệnh chuyển tiền đều có chữ ký ủy quyền, chữ ký của chính người đàn bà anh tin nhất. | giấy tờ chỉ là dòng mực mờ.
-5. [@Tung] cont | NAR | Anh gọi cho Vy, mười cuộc, hai mươi cuộc, đầu dây bên kia chỉ còn tiếng thuê bao lạnh lùng. |
-6. [@Tung] cut setting riêng "Dusk on a busy Hà Nội street, rush-hour mopeds, neon shop lights flickering on." | NAR | Tùng đi ra phố như người mất hồn, chiếc vest đắt tiền nhàu nhĩ, cà vạt lệch sang một bên. |
+### C12 — Năm Tỷ Sính Lễ | "Thứ hai, văn phòng giám đốc (11:00–12:00)" | OFFICE (12.4 setting thang máy)
+- 12.1 `[Vy, Tung] cut` · @Vy (normal, sweet): Anh ơi, bố mẹ em ở quê khó tính lắm, sính lễ phải năm tỷ với sổ đỏ căn nhà thì mới gả. / @Tung (normal, hesitant): Năm tỷ thì anh xoay được, còn sổ đỏ thì phải đợi cô Thu ký đã. · Vy ngồi mép bàn, chống tay lên mặt gỗ, nghiêng đầu nũng nịu; Tùng ngả trên ghế da.
+- 12.2 `[Khai, Tung] cut` · @Khai (fast, slick): Anh cứ chuyển trước vào tài khoản văn phòng luật của em, đám hỏi xong em làm thủ tục sang tên một thể. / @Tung (normal): Được, cậu là anh họ của Vy thì tôi tin. · Khải đặt cặp tài liệu (cầm đúng chiều) lên bàn. Trớ trêu.
+- 12.3 `[Tung, Vy] cut` · @Tung (normal, proud): Anh chuyển rồi đấy. Từ giờ em là bà giám đốc. / @Vy (slow, purring aside): Cảm ơn ông xã. Em làm vợ anh đúng một ngày thôi. · Tùng bấm máy tính bảng (màn hình chỉ phát sáng) rồi quay đi nghe điện thoại; Vy nói câu sau khi Tùng quay lưng.
+- 12.4 `[Vy, Khai] cut` · Setting: "Inside a mirrored glass elevator in a Hà Nội office tower by day: brushed steel walls, soft white light, the city skyline sliding past behind the glass." @Khai (fast, low): Tiền vào tài khoản rồi. Đám hỏi xong là mình bay chuyến sớm nhất. / @Vy (normal, cocky): Đặt hạng thương gia nhé. Làm vợ ba ông rồi, em phải được ngồi ghế tử tế. · Hai người nhìn nhau trong gương thang máy.
 
-### C19 — Sau Lớp Kính Quán Cà Phê | "Tối mưa (18:00–19:00)" | setting "Rainy night on the pavement outside an upscale café, warm light glowing through tall rain-streaked windows."
-1. [] | NAR | Tối hôm ấy, đi ngang quán cà phê quen của Vy, Tùng khựng lại trước lớp kính sáng đèn. |
-2. [@Vy,@Khai] cut setting CAFE | NAR | Bên trong, Vy đang tựa đầu vào vai một gã đàn ông khác, hai người cụng ly, cười rất tươi. |
-3. [@Tung] cut | NAR | Tùng đứng chết trân dưới mưa, nhìn bàn tay gã kia vuốt lên chiếc bụng phẳng lì của Vy. | Tùng nhìn qua kính.
-4. [@Tung,@Vy] cut setting CAFE | @Tung | Vy, gã này là ai? Còn đứa con của anh, em giải thích cho anh nghe đi! |
-5. [@Vy,@Tung] cont | @Vy | Con nào hả anh? Que thử thai em mua mười nghìn ngoài hiệu thuốc đấy, anh ngây thơ thật. |
-6. [@Vy,@Tung] cont | @Vy | Anh tưởng em yêu cái bụng phệ của anh à? Em yêu tiền của anh thôi, giờ tiền hết rồi. | Vy đứng dậy, khoác túi, bỏ đi.
+### C13 — Chính Thất Đồng Ý Ly Hôn | "Chiều, quán cà phê nhìn ra hồ Gươm (12:00–13:00)" | LAKE_CAFE
+Trục: máy đặt sau lan can nhìn vào bàn: Thu ngồi bên trái, Tùng bên phải, hồ phía sau. Đạo cụ: hai tách trà, xấp đơn ly hôn.
+- 13.1 `[Thu, Tung] cut` · @Thu (slow): Em đồng ý ly hôn. Em ký hết, không tranh gì với anh. / @Tung (fast, smug): Thật à? Cô biết điều thế từ bao giờ? · Tùng ngả người, cười đắc thắng.
+- 13.2 `[Thu, Tung] cont` · @Thu (slow): Có một điều kiện. Em sẽ ký ngay tại đám hỏi của anh, trước mặt hai họ, và em mang áo cưới đến tận tay cô dâu. / @Tung (normal, laughing): Cô muốn tự làm nhục mình thì tuỳ cô.
+- 13.3 `[Tung, Thu] cont` · @Tung (fast, demanding): Nhưng nhớ đấy, căn nhà phải sang tên cho tôi, tôi hứa làm sính lễ rồi. / @Thu (slow, faint smile): Anh yên tâm, căn nhà sẽ về đúng tay người chủ của nó. · Câu hai nghĩa.
+- 13.4 `[Thu, Tung] cont` · @Tung (normal, arrogant): Mười hai năm, cuối cùng cô cũng làm được một việc tôi hài lòng. / @Thu (slow): Mười hai năm, cuối cùng em cũng đo được số đo của anh. · Tùng đứng dậy bỏ đi; Thu nhấp trà nhìn hồ.
 
-### C20 — Căn Nhà Bị Niêm Phong | "Đêm mưa, trước cổng nhà cũ (19:00–20:00)" | setting "Rainy night in a narrow Hà Nội alley outside a closed steel gate of a tube house, a paper seal stuck across the gate, a single streetlamp."
-1. [] | NAR | Đêm đó Tùng về đến nhà, cánh cổng đã dán giấy niêm phong, căn nhà bị Vy đem thế chấp ngân hàng từ lâu. | giấy niêm phong không chữ đọc được.
-2. [@Tung] cut | NAR | Anh ngồi sụp xuống bậc cửa dưới mưa, chiếc vest ướt sũng, điện thoại không còn ai để gọi. |
-3. [@Tung] cont | NAR | Anh mở ứng dụng camera bếp mà Thu cài cho anh từ ngày xưa, những đoạn ghi hình cũ vẫn còn lưu lại. |
-4. [@Tung] cut | NAR | Đoạn video buổi chiều hôm ấy hiện ra, Vy tự ngồi xuống cầu thang, tự ôm bụng, tự kêu la. | cận mặt Tùng, ánh màn hình hắt lên (không thấy màn hình).
-5. [@Tung] cont | NAR | Thu chưa từng chạm vào cô ta, vậy mà anh đã quát vào mặt người vợ mười hai năm, chẳng một lời xin lỗi. |
-6. [@Tung] cut | NAR | Rạng sáng, Tùng lau nước mắt, đứng dậy đi thẳng đến đồn công an, việc tử tế đầu tiên anh làm sau một năm trời. |
+### C14 — Buổi Thử Áo Cuối Cùng | "Ba ngày trước đám hỏi, tiệm may (13:00–14:00)" | SHOP_DAY
+Đạo cụ: WEDDING_AODAI hoàn chỉnh, GIFT_BOX đỏ, hộp đựng áo.
+- 14.1 `[Vy, Thu] cut` · wardrobe @Vy ở cả 14.1–14.4: `"a red silk wedding áo dài embroidered with a gold phoenix, a thin gold necklace, beige high heels"` (đang thử, chưa có khăn vấn). @Vy (slow, admiring herself): Đẹp thật. Chị may áo cưới cho người cướp chồng mình mà khéo thế này à? / @Thu (slow): Làm nghề thì phải làm cho tử tế. Áo đẹp hay không là ở người mặc có xứng không thôi.
+- 14.2 `[Thu, Vy] cont` · @Thu (normal, casual): Quê em ở Nam Định nhỉ? Chị vừa về đấy, làng em đẹp lắm, nhà nào cũng treo ảnh cưới to thật to. / @Vy (fast, sharp): Chị về quê em làm gì? · Vy quay phắt lại khỏi gương.
+- 14.3 `[Vy, Thu] cont` · @Thu (slow, innocent): Đi giao hàng thôi mà, chị may cho cả làng. / @Vy (fast, threatening): Chị đừng có giở trò. Đám hỏi mà có chuyện gì, em cho chị trắng tay ra đường! · Vy chỉ tay vào gương (không chạm người), Thu vẫn gỡ ghim.
+- 14.4 `[Thu, Vy] cont` · @Thu (slow): Trắng tay thì chị quen rồi em ạ. Chị chỉ lo cho người chưa quen thôi. · Thu đặt chiếc khăn vấn đỏ vào hộp quà đỏ, buộc nơ vàng (áo sẽ giao tận tay hôm ăn hỏi); Vy khựng lại trước gương. Câu treo.
 
-### C21 — Chuyến Bay Không Cất Cánh | "Sáng, sảnh sân bay (20:00–21:00)" | setting "A bright modern airport departure hall: polished stone floor, check-in counters, tall glass walls, travelers with suitcases in the distance."
-1. [] | NAR | Sáng hôm sau ở sân bay, Vy và Khải kéo vali, chuẩn bị bay ra nước ngoài với toàn bộ số tiền chiếm đoạt. |
-2. [@Vy,@Khai] cut | NAR | Hai kẻ lừa đảo nắm tay nhau thật chặt, đeo kính đen, ung dung đi về phía quầy làm thủ tục. |
-3. [@Khai,@Vy] cont | @Khai | Qua được cửa này là mình giàu cả đời em ạ, lão Tùng giờ chắc đang ngồi khóc ở đâu đó. |
-4. [@Vy] cut + extras "two police officers in dark-green uniforms walking calmly toward her" | NAR | Nhưng trước quầy làm thủ tục, hai cán bộ công an đã đứng chờ sẵn, trên tay là lệnh bắt khẩn cấp. |
-5. [@Vy] cont (cùng extras) | @Vy | Các anh nhầm người rồi, tôi là vợ giám đốc, các anh có biết tôi là ai không? | Vy lùi một bước, tay siết quai túi.
-6. [@Khai] cut + extras "a police officer standing calmly beside him" | NAR | Khải buông vali, tự chìa hai cổ tay ra, tấm vé máy bay hạng thương gia rơi xuống sàn đá lạnh. |
+### C15 — Đêm Trước Đám Hỏi | "Đêm trước đám hỏi (14:00–15:00)" | SHOP_NIGHT (15.3 APT_NIGHT, 15.4 HOUSE_EVENING)
+- 15.1 `[Thu] cut` · @Thu (normal, steady, one-sided phone call): Vâng, em gửi anh ảnh cưới với địa chỉ quê của họ rồi. Tối mai họ nhận tiền lần thứ ba, ở tiệc ăn hỏi trong khách sạn. · Thu gọi điện cho công an bên cạnh máy may; chỉ nghe tiếng Thu.
+- 15.2 `[Na, Thu] cut` · @Na (slow): Mẹ ơi, mai mẹ đi đám hỏi của bố thật à? Mẹ có buồn không? / @Thu (slow, warm): Mẹ không đi ăn hỏi. Mẹ đi giao áo, giao xong là về với con. · Na mặc đồng phục, dụi mắt ở chân cầu thang trong tiệm.
+- 15.3 `[Tung, Vy] cut` · APT_NIGHT. @Tung (normal, puzzled): Sao trong túi em lại có hai vé bay sáng ngày kia? / @Vy (fast, sweet): Vé đi trăng mật của mình chứ còn gì! Anh lại đa nghi rồi. · Tùng cầm hai thẻ lên máy bay (không chữ); Vy giật lại cười. Gài vé.
+- 15.4 `[BaNhan, Tung] cut` · HOUSE_EVENING. @Tung (fast, annoyed): Mai mẹ có đến không? Mẹ lúc nào cũng bênh cái Thu! / @BaNhan (slow, heavy): Mẹ sẽ đến. Mẹ đến xem con trai mẹ tự tay đào hố chôn mình. · Bà Nhàn ngồi bên bàn thờ, không quay lại.
 
-### C22 — Gói Xôi Lúc Bình Minh | "05:30 Sáng, quán xôi (21:00–22:00)" | setting SHOP
-1. [] | NAR | Một tuần sau, trời còn chưa sáng, có một người đàn ông gầy rộc đứng lặng rất lâu ở cuối hàng mua xôi. |
-2. [@Thu,@Tung] cut | NAR | Thu ngẩng lên nhận ra Tùng, chiếc sơ mi nhàu cũ, đôi mắt trũng sâu của một người đã mất tất cả. |
-3. [@Tung,@Thu] cont | @Tung | Thu ơi, anh sai rồi, anh mù quáng, em cho anh về với mẹ con em được không? |
-4. [@Thu,@Tung] cont | @Thu | Gói xôi này em mời anh, còn cơm nhà, chính anh đã tự tay bỏ đi rồi. | Thu đặt gói xôi lá chuối vào tay anh.
-5. [@Tung] cut | NAR | Tùng quỳ xuống bên vỉa hè, hai tay ôm gói xôi nóng, nước mắt rơi lã chã trên lớp lá chuối. |
-6. [@Thu] cut | NAR | Thu quay vào bếp không ngoái lại, không phải vì hết thương, mà vì cô đã học được cách thương chính mình. |
+### C16 — Đám Hỏi Bắt Đầu | "Tối, sảnh tiệc khách sạn (15:00–16:00)" | BANQUET
+Trục: máy đặt giữa lối đi nhìn lên sân khấu: cổng hoa ở giữa, bàn tròn hai bên, cửa lớn sau lưng máy. wardrobe @Vy cả cảnh.
+- 16.1 `[Tung, Vy] cut` · extras: khách mời và "bố mẹ cô dâu" mờ xa ở bàn đầu. @Tung (fast, proud): Cảm ơn hai họ đã đến chung vui, hôm nay tôi trao sính lễ cho cô dâu! / @Vy (slow, sweet): Em cảm ơn anh. Em sẽ làm vợ anh trọn đời. · Hai người đứng dưới cổng hoa.
+- 16.2 `[Khai, Tung] cut` · @Khai (normal, slick): Anh Tùng, giấy sang tên căn nhà đây, chỉ còn thiếu chữ ký của chị Thu. / @Tung (fast): Cô ấy sắp đến rồi, đã hứa ký trước hai họ. · Khải đưa cặp tài liệu; Tùng liếc ra cửa.
+- 16.3 `[Thu, Vy] cut` · Thu đi vào lối giữa, tạp dề, thước dây trên cổ, ôm GIFT_BOX. @Vy (normal, mocking): Chị đến thật à? Đeo cả tạp dề đi ăn hỏi, đúng là bà thợ may. / @Thu (slow): Chị đến giao hàng mà em. Áo cưới chị giao rồi, giờ chị giao nốt quà cưới.
+- 16.4 `[Thu, Tung] cut` · @Tung (fast, impatient): Ký đi rồi về, đừng làm mất thời gian của hai họ. / @Thu (slow): Anh vội gì. Ký trước hai họ thì hai họ phải được xem cho rõ đã. · Thu đặt hộp quà lên bàn cạnh khay sính lễ.
 
-### C23 — Mẹ Vẫn Là Mẹ | "Tối, gác nhỏ trên quán xôi (22:00–23:00)" | setting "Evening in a small cozy room above the sticky-rice shop: a low wooden bed, a family altar with incense, a window over the old-quarter street, a warm lamp."
-1. [@Tung] cut setting riêng "Evening on a narrow wooden staircase leading up to a closed door above the sticky-rice shop, warm light under the door." | NAR | Tối ấy, Tùng tìm đến chỗ ở mới của mẹ, đứng ngoài cửa rất lâu mà không dám gõ. |
-2. [@BaNhan,@Tung] cut | @BaNhan | Mày đến đây làm gì? Mẹ già rồi, không còn gì cho mày lấy nữa đâu con. |
-3. [@Tung,@BaNhan] cont | @Tung | Mẹ ơi, con không lấy gì nữa, con chỉ xin mẹ cho con được làm người tử tế lại. |
-4. [@BaNhan,@Tung] cont | @BaNhan | Tử tế thì phải làm cả đời, mai con ra quán rửa bát, làm thuê cho con Thu đi. |
-5. [@Tung] cut | NAR | Tùng cúi đầu thật thấp, lần đầu tiên sau nhiều năm, anh nghe lời mẹ mà không cãi một câu. |
-6. [@BaNhan] cut | NAR | Bà Nhàn khép cửa, lén lau giọt nước mắt, dù sao nó vẫn là đứa con bà mang nặng đẻ đau. |
+### C17 — Món Quà Cưới | "Tối, sảnh tiệc khách sạn (16:00–17:00)" | BANQUET
+- 17.1 `[Thu, Vy] cut` · @Thu (slow, clear): Quà cưới chị tặng em: ảnh cưới lần trước của em, chị xin từ bàn thờ nhà em ở Nam Định. / @Vy (fast, panicking): Ảnh ghép! Chị ghép ảnh để bôi nhọ em! · Thu mở hộp, nâng WEDDING_PHOTO lên.
+- 17.2 `[Tung, Khai] cut` · @Tung (slow, stunned): Chú rể trong ảnh... là cậu? Anh họ của Vy? / @Khai (fast, stammering): Anh nghe em giải thích, ảnh ấy chụp đóng phim thôi mà! · Tùng nhìn từ ảnh sang Khải; Khải lùi một bước.
+- 17.3 `[BaNhan, Tung] cut` · @BaNhan (normal, sharp): Đóng phim gì mà treo trên bàn thờ nhà cô dâu ba năm nay? Cả làng người ta biết chúng nó là vợ chồng! / @Tung (slow, ashen): Mẹ... mẹ biết từ bao giờ? · Bà Nhàn chống gậy đứng dậy ở bàn đầu.
+- 17.4 `[Thu, Tung] cut` · @Thu (slow): Còn bố mẹ cô dâu ngồi bàn đầu là diễn viên thuê một triệu một buổi. Anh mời nhầm hai họ rồi. / @Tung (fast, desperate): Năm tỷ... tôi chuyển năm tỷ cho chúng nó rồi! · Hết hồi 2.
 
-### C24 — Buổi Diễn Văn Nghệ | "Chiều, hội trường trường tiểu học (23:00–24:00)" | setting "Afternoon in a primary school hall: a small stage with paper flower decorations and colorful bunting, rows of plastic chairs filled with parents."
-1. [] | NAR | Cuối năm học, hội trường trường tiểu học chật kín phụ huynh, cờ hoa rực rỡ khắp sân khấu nhỏ. |
-2. [@Na] cut | NAR | Bé Na đánh trống đi đầu đội văn nghệ, mắt không ngừng nhìn xuống hàng ghế phụ huynh tìm kiếm. |
-3. [@Thu,@Tung] cut | NAR | Ở hàng ghế cuối, Tùng ngồi cạnh Thu, lần đầu tiên sau chín năm anh đến xem con biểu diễn. |
-4. [@Na,@Tung] cut setting riêng "Backstage corner of the school hall after the show, paper decorations, soft afternoon light." | @Na | Bố đến thật rồi! Bố ơi, lần sau bố đến sớm hơn để ngồi hàng đầu nhé. |
-5. [@Tung,@Na] cont | @Tung | Bố hứa, từ nay buổi diễn nào của con, bố cũng đến sớm nhất, ngồi hàng đầu tiên. | Tùng quỳ xuống ngang tầm con.
-6. [@Thu] cut (setting backstage) | NAR | Thu đứng nhìn hai bố con, cô không tha thứ để quay lại, nhưng cô tha thứ để con mình có bố. |
+## HỒI 3 — TRẮNG TAY (Cảnh 18–25)
 
-### C25 — Vợ Tào Khang | "06:00 Sáng, một năm sau (24:00–25:00)" | setting SHOP (sáng sớm, nắng vàng đầu tiên)
-1. [] | NAR | Một năm sau, quán xôi nhỏ đã thành ba cửa hàng, nhưng sáng nào bà chủ vẫn tự tay đồ mẻ xôi đầu tiên. |
-2. [@Thu] cut | NAR | Thu đứng bên nồi xôi nghi ngút khói, đôi bàn tay vẫn chai sạn, nhưng ánh mắt đã sáng như năm mười tám tuổi. |
-3. [@Tung] cut | NAR | Ở góc quán, Tùng lặng lẽ rửa bát, làm thuê cho chính người vợ cũ, mỗi ngày trả một chút nợ ân tình. |
-4. [@Thu,@Na] cut | @Na | Mẹ ơi, sau này lớn lên con muốn giỏi giang như mẹ, không cần dựa vào ai cả. |
-5. [@Thu,@Na] cont | @Thu | Con cứ sống tử tế, chăm chỉ, ai bỏ con mà đi thì người thiệt là họ, không phải con. |
-6. [] cut setting riêng "Sunrise aerial over the tiled roofs of Hà Nội's old quarter, golden light, steam rising from a small shop on a corner street." | NAR | Đàn ông có thể đi tìm hương lạ, nhưng người vợ tào khang, cả đời chỉ có một mà thôi. | shot cuối hoành tráng.
+### C18 — Sổ Đỏ Đứng Tên Ai | "Tối, sảnh tiệc khách sạn (17:00–18:00)" | BANQUET (18.4 góc sân khấu)
+- 18.1 `[Vy, Thu] cut` · @Vy (fast, venomous): Thì sao? Anh Tùng vẫn phải ly hôn chị, căn nhà vẫn là sính lễ của em! / @Thu (slow): Căn nhà ấy đứng tên chị từ mười hai năm trước. Anh Tùng hứa tặng em thứ không phải của anh ấy. · Thu đặt LAND_BOOK lên bàn.
+- 18.2 `[Tung, BaNhan] cut` · @Tung (fast, disbelief): Không thể nào! Nhà ấy tôi xây, công ty ấy tôi gây dựng! / @BaNhan (slow, stern): Bằng tiền mảnh đất bố cái Thu để lại. Mẹ bắt con ký cho vợ đứng tên, con quên chứ mẹ chưa quên.
+- 18.3 `[Thu, Tung] cut` · @Thu (slow): Em ký đây. Ly hôn thì em đồng ý. Nhà là của em, sáu mươi phần trăm công ty cũng là của em. / @Tung (slow, collapsing): Thu... anh xin em. · Thu ký đơn; Tùng ngồi phịch xuống ghế.
+- 18.4 `[Khai, Vy] cut` · Góc sân khấu sau cổng hoa. @Khai (fast, hushed): Tiền vẫn trong tài khoản, mình chuồn ngay bây giờ! / @Vy (fast, hushed): Đi lối sau, đừng để ai thấy! · Hai người lẻn ra sau phông nền.
+
+### C19 — Lối Thoát Hiểm | "Tối, hành lang sau sảnh tiệc (18:00–19:00)" | CORRIDOR
+- 19.1 `[Vy, Khai] cut` · @Vy (fast, panting): Áo chật quá, em không bước nhanh được! / @Khai (fast, exasperated): Áo vợ thằng Tùng may mà em cũng mặc! · Vy bước từng bước nhỏ trong tà áo khít, Khải sốt ruột phía trước. Trả gài 10.4.
+- 19.2 `[Khai, Vy] cont` · @Khai (slow, defeated): Đèn xanh đỏ ngoài cửa sau... công an chờ sẵn rồi. / @Vy (slow, shaky): Bà thợ may ấy đo cả đường chạy của mình. · Hai người dừng trước cửa kính mờ nhấp nháy xanh đỏ.
+- 19.3 `[Thu, Vy] cut` · Thu bước tới từ đầu hành lang, giữ khoảng cách. @Vy (fast, crying-angry): Chị cố tình may chật để em không chạy được! / @Thu (slow): Áo dài thì phải khít em ạ. Mặc áo dài là để đi từng bước cho đàng hoàng, không phải để chạy.
+- 19.4 `[Vy, Khai] cut` · Hai người từ từ giơ tay trước cánh cửa đang mở, ánh xanh đỏ hắt vào. @Khai (normal, bitter): Lừa ba ông đại gia không sao, lại thua một bà thợ may. / @Vy (slow, broken): Tại em đặt áo cưới nhầm tiệm. · Câu chốt của phim.
+
+### C20 — Cây Tùng Đổ | "Khuya, sảnh tiệc vắng (19:00–20:00)" | BANQUET (đèn đã tắt bớt, cánh hoa rơi đầy sàn)
+- 20.1 `[Tung] cut` · @Tung (slow, hollow, one-sided phone call): Vâng... tài khoản đã bị phong toả, tiền trả về công ty. Vâng, cảm ơn anh. · Tùng một mình giữa ghế ngổn ngang, cánh hoa hồng rơi.
+- 20.2 `[BaNhan, Tung] cut` · @BaNhan (slow): Mẹ đặt tên con là Tùng, mong con cứng như cây tùng. Ai ngờ gió qua một cái váy đỏ là con đổ. / @Tung (slow, tears): Mẹ ơi, con sai rồi.
+- 20.3 `[BaNhan, Tung] cont` · @BaNhan (slow): Sai thì sửa. Nhưng sửa thế nào thì không phải con chọn nữa đâu. / @Tung (slow, lost): Con biết làm gì bây giờ hả mẹ?
+- 20.4 `[BaNhan, Tung] cont` · @BaNhan (normal, wry): Mai ra tiệm may mà xin lỗi vợ con. Nó có tha hay không, mẹ không dám hứa. / @Tung (slow): Vâng. · Bà Nhàn chống gậy đứng lên, để Tùng ngồi lại.
+
+### C21 — Ghế Chủ Tịch | "Một tuần sau, phòng họp cổ đông (20:00–21:00)" | BOARDROOM
+- 21.1 `[Thu, Tung] cut` · Thu (tạp dề, thước dây) ngồi ghế đầu bàn họp dài. @Tung (slow, humble): Em là cổ đông lớn nhất, em quyết đi, anh nghe hết. / @Thu (normal, businesslike): Công ty cần một giám đốc biết đọc giấy trước khi ký. Anh chưa làm được.
+- 21.2 `[Thu, Tung] cont` · @Thu (slow, firm): Từ mai anh xuống công trường làm đội trưởng. Xây lại từ viên gạch đầu tiên. / @Tung (fast, shocked): Đội trưởng? Anh làm giám đốc mười năm rồi đấy!
+- 21.3 `[Thu, Tung] cont` · @Thu (slow): Mười năm làm giám đốc mà không giữ nổi một cái nhà. Xuống đấy mà học cách xây cho chắc. / @Tung (slow, accepting): Được. Anh làm lại từ đầu.
+- 21.4 `[Tung, Thu] cont` · @Tung (slow, pleading): Còn chúng mình... anh còn cơ hội nào không em? / @Thu (slow): Áo rách thì vá được anh ạ. Lòng người rách rồi, vá khéo mấy cũng còn vết khâu. · Thu đứng dậy, cầm thước dây. Cao trào cảm xúc.
+
+### C22 — Phòng Thăm Gặp | "Vài ngày sau, phòng thăm gặp (21:00–22:00)" | VISIT_ROOM
+wardrobe @Vy: áo cưới đỏ đã nhàu, không khăn vấn, son phai.
+- 22.1 `[Vy, Thu] cut` · @Vy (normal, bitter): Chị đến xem em thảm hại thế nào à? / @Thu (slow): Chị đến hỏi em một câu thôi. Ba người đàn ông ấy, em có thương ai thật lòng không?
+- 22.2 `[Vy, Thu] cont` · @Vy (slow, close to tears): Em chỉ thương tiền. Từ bé em đã nghèo đến sợ rồi chị ạ. / @Thu (slow): Nghèo thì chị hiểu. Nhưng nghèo không phải cái cớ để đi cướp chồng người ta.
+- 22.3 `[Thu, Vy] cont` · @Thu (slow, kind): Mãn hạn rồi, nếu muốn học một cái nghề tử tế, em cứ đến tiệm may của chị. / @Vy (fast, sobbing): Sao chị lại tốt với em như thế?
+- 22.4 `[Thu, Vy] cont` · @Thu (slow): Chị không tốt với em đâu. Chị chỉ không muốn thêm người vợ nào phải ngồi may áo cưới cho chồng mình nữa. · Thu đứng dậy; Vy cúi đầu. Câu chốt nhân văn.
+
+### C23 — Viên Gạch Đầu Tiên | "Một tháng sau, công trường lúc bình minh (22:00–23:00)" | SITE
+wardrobe @Tung: mũ bảo hộ vàng, áo sơ mi trắng ướt mồ hôi xắn tay, quần lao động, ủng.
+- 23.1 `[Tung] cut` · @Tung (normal, wry, to himself): Mười năm ký hợp đồng xây nhà, giờ mới biết một viên gạch nặng thế nào. · Tùng bê gạch, lau mồ hôi.
+- 23.2 `[Na, Tung] cut` · @Na (fast, cheerful): Bố ơi, mẹ gửi cơm cho bố, có cả trứng rán bố thích! / @Tung (slow, moved): Mẹ con... vẫn nhớ bố thích trứng rán à? · Na chạy tới đưa cặp lồng inox.
+- 23.3 `[Na, Tung] cont` · @Na (normal): Mẹ bảo bố làm đội trưởng giỏi thì chủ nhật được đến xem con múa. / @Tung (slow, tears): Bố sẽ đến. Lần này bố đến sớm nhất.
+- 23.4 `[BaNhan, Tung] cut` · Na đã chạy đi. @BaNhan (normal, teasing): Mặt đen nhẻm, tay chai sạn, giờ trông con mới giống cây tùng. / @Tung (normal, laughing): Mẹ khen con hay mẹ chê con đấy?
+
+### C24 — Áo Dài Mừng Thọ | "Mấy tháng sau, tối sinh nhật bà Nhàn (23:00–24:00)" | HOUSE_EVENING (bàn tiệc sinh nhật, bánh kem, đào, cúc vàng, đèn dây)
+- 24.1 `[BaNhan, Thu] cut` · wardrobe @BaNhan: áo dài lụa tím mận thêu hoa vàng. @BaNhan (fast, delighted): Bảy mươi mốt tuổi mới được con dâu may cho cái áo dài, mẹ phải đi lấy chồng lại thôi! / @Thu (normal, laughing): Mẹ mặc đẹp thế này, cả phố lại đồn mẹ trẻ ra chục tuổi.
+- 24.2 `[Na, Thu] cut` · @Na (fast): Mẹ ơi, con mời bố đến thổi nến với bà, mẹ đừng giận nhé! / @Thu (slow): Mẹ không giận. Hôm nay là ngày của bà, ai thương bà thì cứ đến.
+- 24.3 `[Tung, BaNhan] cut` · Tùng (vest, đen sạm) ôm hộp bánh ở cửa. @Tung (slow, shy): Con chúc mẹ sống lâu, con mua bánh bằng tiền lương đội trưởng đấy mẹ. / @BaNhan (normal, teasing): Tiền mồ hôi nên bánh ngọt hơn hẳn mọi năm. · wardrobe @BaNhan.
+- 24.4 `[Thu, Tung] cut` · @Tung (slow): Cảm ơn em đã cho anh về ăn bữa cơm này. / @Thu (slow): Anh về vì mẹ với con. Còn bữa cơm này, em nấu cho người nhà. · Ranh giới rõ, không hàn gắn vợ chồng.
+
+### C25 — Đo Lòng Người | "Một năm sau, tiệm may hai tầng lúc bình minh (24:00–25:00)" | Setting riêng: "One year later at dawn, Thu's áo dài tailor shop now spread over two floors on the old-quarter silk street: new wooden shelves of jewel-toned silk, three sewing machines, dress forms in finished áo dài by the window, a wide fitting mirror, a small brass bell above the glass door, warm morning light."
+wardrobe @Thu: áo dài lụa ngà tự thiết kế, thước dây vàng trên cổ.
+- 25.1 `[Thu, BaNhan] cut` · @BaNhan (normal, proud): Một năm mà tiệm đã thành hai tầng, khách đặt áo xếp lịch đến tận Tết. / @Thu (slow): Nhờ mẹ giữ cho con cái đường lui, con mới dám bước tiếp mẹ ạ.
+- 25.2 `[BaNhan, Thu] cont` · @BaNhan (normal, newspaper in hand, no readable text): Báo đăng hai đứa lừa đảo ấy lĩnh án rồi. Đấy, cái kết cho tiểu tam. / @Thu (slow): Mẹ đọc khẽ thôi, cái Na nghe thấy lại hỏi.
+- 25.3 `[Na, Thu] cut` · @Na (normal, curious): Mẹ ơi, tiểu tam là gì ạ? Có phải là mẹ hai không? / @Thu (slow, smiling): Tiểu tam là người đi đặt may áo cưới nhầm tiệm, con ạ. · Trả gài 06.4.
+- 25.4 `[Thu, Na] cont` · @Na (fast): Thế mẹ có đo được lòng người không? / @Thu (slow): Đo được. Người thật lòng thì số đo không bao giờ thay đổi. · Thu quàng thước dây lên cổ Na; hai mẹ con nhìn ra phố. Kết.

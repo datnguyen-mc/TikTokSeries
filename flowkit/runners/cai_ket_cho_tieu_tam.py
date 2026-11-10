@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT CHO PHIM TÌNH CẢM GIA ĐÌNH "CÁI KẾT CHO TIỂU TAM" (25 CẢNH × 4 CLIPS × 15S = 25 PHÚT):
+HỆ THỐNG TỰ ĐỘNG HÓA FLOWKIT CHO PHIM GIA ĐÌNH "CHÍNH THẤT CAO TAY, TIỂU TAM TRẮNG TAY" (thư mục cai-ket-cho-tieu-tam, 25 CẢNH × 4 CLIPS × 15S = 25 PHÚT):
 1. KHÓA NHÂN VẬT CỐ ĐỊNH: tự tạo/lấy & khóa media_id của @Thu, @Tung, @Vy, @BaNhan, @Na, @Khai trên Google Flow Project.
-2. MỖI CLIP 15 GIÂY VỚI GOOGLE FLOW OMNI 1.2 FLASH (omni_flash, model_version 1.2): 100% clip thoại Lip-Sync do nhân vật nói trên hình (không người dẫn chuyện — yêu cầu 08/11/2026);
+2. MỖI CLIP 15 GIÂY VỚI GOOGLE FLOW OMNI 1.2 FLASH (omni_flash, model_version 1.2): 100% clip thoại Lip-Sync do nhân vật nói trên hình (không người dẫn chuyện — yêu cầu 08/11/2026), nhịp giọng nhanh/vừa/chậm theo cảnh (10/11/2026);
    prompt sinh từ cai-ket-cho-tieu-tam/PHAN_CANH_OMNI.json bằng flowkit/scripts/build_omni_horror_prompts.py.
 3. Nối khung cuối clip trước chỉ khi cùng bối cảnh và không có nhân vật mới (FLOWKIT_CHAIN_LAST_FRAME=0 để tắt).
 4. Tải video về máy, đồng bộ Cloudflare R2 & D1 và Console Dashboard UI (SQLite flow_agent.db).
@@ -38,7 +38,7 @@ FLOWKIT_API = "http://127.0.0.1:8200"
 CHANNEL_SLUG = "cai-ket-cho-tieu-tam"
 ONLY_CLIP = int(os.environ.get("FLOWKIT_ONLY_CLIP", "0") or "0")
 
-# 👉 PROJECT_ID GOOGLE FLOW CỦA PHIM "CÁI KẾT CHO TIỂU TAM"
+# 👉 PROJECT_ID GOOGLE FLOW CỦA PHIM "CHÍNH THẤT CAO TAY, TIỂU TAM TRẮNG TAY" (tên cũ: Cái Kết Cho Tiểu Tam)
 # Flow Kit không tự tạo project được nữa: tạo 1 project mới trên https://flow.google.com rồi điền UUID vào đây
 # (hoặc chạy với biến môi trường VTK_FLOW_PROJECT_ID=<uuid>).
 PROJECT_ID = "e5783dc5-1a5e-4608-8fe9-e55f5f6de0bb"
@@ -73,28 +73,21 @@ os.makedirs(OUTPUT_VIDEOS_DIR, exist_ok=True)
 os.makedirs(CHAR_REFS_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
-# 🎙️ QUY ĐỊNH & KHÓA CỐ ĐỊNH DUY NHẤT 1 GIỌNG ĐỌC NGƯỜI DẪN CHUYỆN (NARRATOR VOICE LOCK — CHUẨN MIỀN BẮC SẮC LẠNH)
+# 🎙️ PHIM 100% THOẠI NHÂN VẬT — KHÔNG CÓ NGƯỜI DẪN CHUYỆN (yêu cầu 10/11/2026)
+# Nhịp giọng nhanh / vừa / chậm theo từng lượt thoại nằm sẵn trong prompt ("pace" trong PHAN_CANH_OMNI.json).
 # -------------------------------------------------------------
-NARRATOR_VOICE_SPEC = {
-    "voice_lock_id": "VOICE_LOCK_NARRATOR_VTK",
-    "role": "Người Dẫn Chuyện (off-screen FEMALE narrator — one consistent warm voice across all 100 clips)",
-    "style_reference": "Vietnamese woman about 50, standard Hà Nội Northern accent, warm low alto with a slight husk, fast fluent heartfelt family-drama pace (~4.0 syllables/s + atempo 1.18 after download)",
-    "gender_age": "Nữ khoảng 50 tuổi, giọng Hà Nội chuẩn, ấm, trầm, hơi khàn, kể nhanh mà truyền cảm",
-    "acoustic_profile": "Warm low alto with a slight husk, crisp Northern consonants, fast fluent heartfelt delivery: each sentence in one continuous breath, no pauses mid-sentence, never dragging vowels.",
-    "strict_rules": (
-        "1. One consistent standard Hà Nội Northern female narrator (VOICE_LOCK_NARRATOR_VTK) across all 100 clips. "
-        "2. Fast fluent pace (about 4 syllables per second, one continuous breath, no mid-sentence pauses); never slow or sleepy. "
-        "3. During off-screen narration (VO), all on-screen characters keep their mouths closed."
-    ),
+DIALOGUE_VOICE_SPEC = {
+    "voice_lock_id": "VOICE_LOCK_DIALOGUE_ONLY_VTK",
+    "style_reference": "Không người dẫn chuyện: cả 100 clip chỉ có giọng nhân vật trên hình, giọng Hà Nội; nhịp nhanh / vừa / chậm theo cảnh",
     "prompt_directive": (
-        "Narrator (Người Dẫn Chuyện) = off-screen Vietnamese woman about 50, standard Hà Nội Northern accent, warm low alto with a slight husk, "
-        "fast fluent heartfelt family-drama storytelling in one continuous breath with no mid-sentence pauses; "
-        "never slow or sleepy; keep all on-screen mouths closed during narration."
+        "No narrator and no voice-over: every spoken line comes from the on-screen character with exact lip-sync, "
+        "in a standard Hà Nội Northern Vietnamese accent; each character keeps one consistent voice, and the speaking speed "
+        "follows the scene: fast in arguments, panic and chases, slow and soft in emotional moments."
     ),
 }
 
 # -------------------------------------------------------------
-# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA 6 NHÂN VẬT CỐ ĐỊNH CỦA PHIM (CÁI KẾT CHO TIỂU TAM)
+# 🔒 BẢNG ĐỊNH NGHĨA & KHÓA 6 NHÂN VẬT CỐ ĐỊNH CỦA PHIM (CHÍNH THẤT CAO TAY, TIỂU TAM TRẮNG TAY)
 # -------------------------------------------------------------
 CHARACTER_SPECS = [
     {
@@ -104,7 +97,7 @@ CHARACTER_SPECS = [
         "default_media_id": "5885e053-aa4f-47fe-87e9-4b8c8ff322e4",
         "voice_lock": "VOICE_LOCK_THU_VTK",
         "voice_profile": "Fixed 34-year-old native Standard Northern Vietnamese female voice (~210 Hz soft warm mezzo), gentle but firm (giọng nữ 34 tuổi chuẩn Hà Nội, ấm, nhẹ nhàng mà cứng cỏi).",
-        "description": "Thu, 34 tuổi, người vợ tào khang bán xôi từ tờ mờ sáng, mười hai năm làm dâu; dáng mảnh, da hơi rám nắng, tóc đen dài búi thấp lỏng, ánh mắt hiền mệt mỏi, không trang điểm, bàn tay chai sạn; áo cotton xanh nhạt bạc màu xắn tay, quần nâu sẫm, tạp dề vải xanh rêu, dép nhựa.",
+        "description": "Thu, 34 tuổi, chính thất điềm tĩnh và cao tay, chủ tiệm may áo dài nhỏ ở phố cổ, mười hai năm làm dâu; dáng mảnh, da hơi rám nắng, tóc đen dài búi thấp lỏng, ánh mắt hiền mà tinh, không trang điểm, bàn tay chai sạn; áo cotton xanh nhạt bạc màu xắn tay, quần nâu sẫm, tạp dề vải xanh rêu, thước dây vàng trên cổ, dép nhựa.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Thu, a 34-year-old Vietnamese woman who sells sticky rice at dawn, 158 cm, slim, lightly sun-tanned skin, long black hair in a low loose bun, gentle tired dark eyes, no makeup, work-roughened hands, wearing a faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, a dark-green cloth apron and plastic sandals; plain grey studio background, soft warm side light, 8K. Not resembling any real actor."
         ),
@@ -128,7 +121,7 @@ CHARACTER_SPECS = [
         "default_media_id": "640166a9-1269-41d5-b33e-baa5fd7d3eff",
         "voice_lock": "VOICE_LOCK_VY_VTK",
         "voice_profile": "Fixed 24-year-old native Standard Northern Vietnamese young female voice (~250 Hz sweet honeyed soprano), turning cold and sharp (giọng nữ 24 tuổi chuẩn Hà Nội, ngọt ngào rồi lạnh sắc).",
-        "description": "Vy, 24 tuổi, cô thư ký mới xinh đẹp — 'bé ba' xúi Tùng bỏ vợ; mảnh mai nổi bật, tóc dài nâu sẫm uốn sóng bóng mượt, mắt sắc kẻ eyeliner, son đỏ; váy midi đỏ thẫm sát nách ôm dáng, dây chuyền vàng mảnh, giày cao gót màu be, túi xách trắng nhỏ không logo.",
+        "description": "Vy, 24 tuổi, cô thư ký xinh đẹp của Tùng — tiểu tam, thật ra là kẻ lừa đảo chuyên gài bẫy đại gia; mảnh mai nổi bật, tóc dài nâu sẫm uốn sóng bóng mượt, mắt sắc kẻ eyeliner, son đỏ; váy midi đỏ thẫm sát nách ôm dáng, dây chuyền vàng mảnh, giày cao gót màu be, túi xách trắng nhỏ không logo.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Vy, a 24-year-old Vietnamese woman, glamorous office secretary, 165 cm, slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick, wearing a fitted crimson sleeveless midi dress, a thin gold necklace, beige high heels and a small white handbag with no logo; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
         ),
@@ -140,7 +133,7 @@ CHARACTER_SPECS = [
         "default_media_id": "be8ae10b-09a0-41f6-bff5-9cf021617e84",
         "voice_lock": "VOICE_LOCK_BANHAN_VTK",
         "voice_profile": "Fixed 70-year-old native Northern Vietnamese female voice (~190 Hz frail raspy), trembling but firm (giọng bà 70 tuổi miền Bắc, khàn, run nhưng đanh).",
-        "description": "Bà Nhàn, 70 tuổi, mẹ Tùng, sống cùng con dâu Thu và đứng về phía con dâu; nhỏ gầy, tóc bạc búi thấp gọn, gương mặt hiền nhiều nếp nhăn; áo len cardigan nâu ngoài áo cánh xám, quần đen, dép vải, gậy tre chạm.",
+        "description": "Bà Nhàn, 70 tuổi, mẹ Tùng, sống cùng con dâu Thu, khô và hóm, giả lẫn để đứng về phía con dâu; nhỏ gầy, tóc bạc búi thấp gọn, gương mặt hiền nhiều nếp nhăn; áo len cardigan nâu ngoài áo cánh xám, quần đen, dép vải, gậy tre chạm.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @BaNhan, a 70-year-old Vietnamese grandmother, 148 cm, small and thin, white hair in a neat low bun, kind deeply wrinkled face, wearing a brown knitted cardigan over a grey blouse, black trousers and cloth slippers, holding a carved bamboo walking stick; plain grey studio background, warm soft side light, 8K. Not resembling any real actor."
         ),
@@ -164,7 +157,7 @@ CHARACTER_SPECS = [
         "default_media_id": "68c8c0e0-1e95-46db-b6e6-8b6e94df5b99",
         "voice_lock": "VOICE_LOCK_KHAI_VTK",
         "voice_profile": "Fixed 30-year-old native Standard Northern Vietnamese male voice (~130 Hz smooth lazy tenor), sly and mocking (giọng nam 30 tuổi chuẩn Hà Nội, mượt, lười nhác, ranh mãnh).",
-        "description": "Khải, 30 tuổi, người tình bí mật và đồng phạm của Vy; gầy, tóc undercut đen vuốt, ria mép mỏng, nụ cười nửa miệng ranh mãnh; sơ mi đen slim-fit xắn tay, quần kaki be, giày thể thao trắng, lắc tay bạc.",
+        "description": "Khải, 30 tuổi, chồng bí mật của Vy, đóng vai 'anh họ luật sư'; gầy, tóc undercut đen vuốt, ria mép mỏng, nụ cười nửa miệng ranh mãnh; sơ mi đen slim-fit xắn tay, quần kaki be, giày thể thao trắng, lắc tay bạc.",
         "ref_prompt": (
             "Full-body photorealistic character reference of @Khai, a 30-year-old Vietnamese man, smooth con artist, 172 cm, lean, styled black undercut hair, thin moustache, sly half-smile, wearing a black slim-fit shirt with rolled sleeves, beige chinos, white sneakers and a silver chain bracelet; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
         ),
@@ -249,7 +242,7 @@ def _is_valid_media_id(mid: str) -> bool:
 # 0. KHÓA NHÂN VẬT CỐ ĐỊNH (CHARACTER LOCK TỪ GOOGLE FLOW PROJECT)
 # -------------------------------------------------------------
 def load_and_lock_project_characters(force_remote: bool = False):
-    """Đảm bảo 100% sử dụng đúng 6 nhân vật Cái Kết Cho Tiểu Tam (@Thu, @Tung, @Vy, @BaNhan, @Na, @Khai) với media_id thực trên Google Flow."""
+    """Đảm bảo 100% sử dụng đúng 6 nhân vật Chính Thất Cao Tay, Tiểu Tam Trắng Tay (@Thu, @Tung, @Vy, @BaNhan, @Na, @Khai) với media_id thực trên Google Flow."""
     global LOCKED_CHARACTER_MEDIA_IDS
     log("🔒 Đang đồng bộ danh sách 6 Nhân vật cố định (@Thu, @Tung, @Vy, @BaNhan, @Na, @Khai) trên Google Flow Project...")
 
@@ -357,10 +350,7 @@ def load_and_lock_project_characters(force_remote: bool = False):
         pass
 
     box_items = [("Project ID", PROJECT_ID)]
-    box_items.append((
-        "🎙️ Giọng Dẫn Chuyện (VO)",
-        f"{NARRATOR_VOICE_SPEC['voice_lock_id']} — {NARRATOR_VOICE_SPEC['style_reference']}",
-    ))
+    box_items.append(("🎙️ Lời Thoại", f"{DIALOGUE_VOICE_SPEC['voice_lock_id']} — {DIALOGUE_VOICE_SPEC['style_reference']}"))
     for spec in CHARACTER_SPECS:
         tag = spec["tag"]
         mid = LOCKED_CHARACTER_MEDIA_IDS.get(tag, "Chưa có (sẽ tự tạo khi chạy)")
@@ -368,7 +358,7 @@ def load_and_lock_project_characters(force_remote: bool = False):
         box_items.append((f"Nhân Vật {tag}", f"media_id = {mid} | {vlock}"))
     box_items.append(("Model Video", f"{VIDEO_MODEL_NAME} (Google Flow Omni — {CLIP_DURATION_S}s/clip)"))
     box_items.append(("Chế Độ Khóa", f"Ingredients R2V (/api/flow/generate-video-omni {CLIP_DURATION_S}s, Omni {OMNI_MODEL_VERSION})"))
-    print_box("🔒 ĐÃ KHÓA 6 NHÂN VẬT, GIỌNG NGƯỜI DẪN CHUYỆN & CẤU HÌNH GOOGLE FLOW OMNI 1.2 15S", box_items)
+    print_box("🔒 ĐÃ KHÓA 6 NHÂN VẬT, GIỌNG THOẠI & CẤU HÌNH GOOGLE FLOW OMNI 1.2 15S", box_items)
 
 
 def get_clip_reference_media_ids(prompt: str) -> list:
@@ -410,7 +400,7 @@ def get_clip_reference_media_ids(prompt: str) -> list:
 def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES):
     """Đồng bộ tức thì cms_channel, cms_episode (25 cảnh), cms_clip (100 clips), project, character, video, scene vào SQLite (flow_agent.db)."""
     global CURRENT_VIDEO_ID, SCENE_DB_MAP
-    log("🔄 Đang đồng bộ cơ sở dữ liệu 'Cái Kết Cho Tiểu Tam' với Console Dashboard UI (Google Flow Omni 1.2 15s)...")
+    log("🔄 Đang đồng bộ cơ sở dữ liệu 'Chính Thất Cao Tay, Tiểu Tam Trắng Tay' với Console Dashboard UI (Google Flow Omni 1.2 15s)...")
 
     db_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "flow_agent.db")
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
@@ -426,9 +416,9 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                  video_model_family=excluded.video_model_family""",
             (
                 PROJECT_ID,
-                "Cái Kết Cho Tiểu Tam (Phim Tình Cảm 25 Phút)",
-                "Phim tình cảm gia đình Việt Nam 25 phút, kịch bản gốc (16:9, 25 cảnh × 4 clips × 15s = 100 clips — Google Flow Omni 1.2, 100% thoại nhân vật Lip-Sync).",
-                "Thu — người vợ tào khang bán xôi từ tờ mờ sáng, từng bán đôi bông tai cưới cho chồng làm vốn — bị chồng là giám đốc Tùng bỏ rơi khi cô thư ký xinh đẹp Vy ('bé ba') xúi anh ly hôn, dựng màn có thai và cú ngã trên cầu thang để đổ tội cho Thu. Mẹ chồng chọn đi theo con dâu. Thu làm lại từ gánh xôi thành quán xôi đông khách, còn Vy cùng người tình Khải rút sạch tiền công ty Tùng; camera bếp năm nào vạch trần sự thật, hai kẻ lừa đảo bị bắt ở sân bay, Tùng trắng tay quay về xin làm người tử tế.",
+                "Chính Thất Cao Tay, Tiểu Tam Trắng Tay (Phim Gia Đình 25 Phút)",
+                "Phim gia đình có miếng hài Việt Nam 25 phút, kịch bản gốc bản 3 (16:9, 25 cảnh × 4 clips × 15s = 100 clips — Google Flow Omni 1.2, 100% thoại nhân vật Lip-Sync, nhịp giọng theo cảnh).",
+                "Cô thư ký Vy đến tận tiệm may áo dài của chính thất Thu để đặt may áo cưới — cưới chính chồng Thu là giám đốc Tùng. Thu bình thản nhận may; mẹ chồng Nhàn giả lẫn đứng về phía con dâu. Thu về quê Vy, phát hiện Vy và 'anh họ luật sư' Khải là vợ chồng chuyên lừa đại gia. Ngày ăn hỏi, Thu mang áo cưới tới kèm món quà cưới là tấm ảnh cưới cũ của Vy và Khải, rồi lật luôn sổ đỏ: căn nhà và sáu mươi phần trăm công ty đứng tên Thu từ mười hai năm trước. Vy và Khải tự giơ tay trước công an, năm tỷ sính lễ bị phong toả, Tùng xuống công trường làm lại từ viên gạch đầu tiên.",
                 "realistic",
                 "ACTIVE",
                 "PAYGATE_TIER_TWO",
@@ -483,13 +473,13 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
                  updated_at=excluded.updated_at""",
             (
                 CHANNEL_SLUG,
-                "Cái Kết Cho Tiểu Tam (Phim Tình Cảm 25 Phút — 25 Cảnh × 4 Clips × 15s)",
+                "Chính Thất Cao Tay, Tiểu Tam Trắng Tay (Phim Gia Đình 25 Phút — 25 Cảnh × 4 Clips × 15s)",
                 PROJECT_ID,
                 ASPECT_RATIO,
                 "runners/cai_ket_cho_tieu_tam.py",
                 "cai-ket-cho-tieu-tam",
                 "canh",
-                "Phim tình cảm gia đình Việt Nam 25 phút, kịch bản gốc (16:9, 25 cảnh × 4 clips × 15s = 100 clips — Google Flow Omni 1.2, 100% thoại nhân vật Lip-Sync).",
+                "Phim gia đình có miếng hài Việt Nam 25 phút, kịch bản gốc bản 3 (16:9, 25 cảnh × 4 clips × 15s = 100 clips — Google Flow Omni 1.2, 100% thoại nhân vật Lip-Sync, nhịp giọng theo cảnh).",
                 json.dumps(chars_json, ensure_ascii=False),
                 now_iso,
             ),
@@ -506,7 +496,7 @@ def sync_dashboard_database(start_scene: int = 1, end_scene: int = TOTAL_SCENES)
             (
                 CURRENT_VIDEO_ID,
                 PROJECT_ID,
-                "Cái Kết Cho Tiểu Tam (25 Phút — Cảnh 01 - 25)",
+                "Chính Thất Cao Tay, Tiểu Tam Trắng Tay (25 Phút — Cảnh 01 - 25)",
                 "Phim tình cảm 25 Cảnh × 4 Clips × 15s = 100 Clips (100% thoại nhân vật Lip-Sync)",
                 "HORIZONTAL",
                 "PROCESSING",
@@ -882,20 +872,12 @@ def fetch_media_video_url(media_id: str) -> str:
     return None
 
 
-def enforce_narrator_and_voice_lock(prompt: str) -> str:
-    """
-    Đảm bảo 100% mọi prompt gửi lên Google Flow đều có quy định khóa chặt DUY NHẤT 1 Giọng Người Dẫn Chuyện
-    (VOICE_LOCK_NARRATOR_VTK — Nữ ~50 tuổi chuẩn Hà Nội, ấm, trầm, kể nhanh truyền cảm)
-    và giọng thoại nhân vật chuẩn miền Bắc, ngay cả khi prompt được làm mềm (retry).
-    """
+def enforce_dialogue_voice_lock(prompt: str) -> str:
+    """Prompt sinh từ PHAN_CANH_OMNI.json luôn có [AUDIO]; nếu bản làm mềm (retry) lỡ mất khối đó thì chỉ chèn lại
+    luật thoại nhân vật — phim này không có người dẫn chuyện."""
     p = (prompt or "").strip()
-    if "[AUDIO]" not in p and NARRATOR_VOICE_SPEC["voice_lock_id"] not in p:
-        narrator_block = (
-            "\n\n[MANDATORY NARRATOR & VOICE LOCK — STANDARD NORTHERN VIETNAMESE (GIỌNG CHUẨN MIỀN BẮC — DUY NHẤT 1 GIỌNG SẮC LẠNH)]\n"
-            f"{NARRATOR_VOICE_SPEC['prompt_directive']}\n"
-            f"Strict Voice Rules: {NARRATOR_VOICE_SPEC['strict_rules']}\n"
-        )
-        p = p + narrator_block
+    if "[AUDIO]" not in p and DIALOGUE_VOICE_SPEC["voice_lock_id"] not in p:
+        p += f"\n\n[VOICE LOCK — DIALOGUE ONLY ({DIALOGUE_VOICE_SPEC['voice_lock_id']})]\n{DIALOGUE_VOICE_SPEC['prompt_directive']}\n"
     return p
 
 
@@ -936,7 +918,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key) or f"scene_{scene_num:02d}_clip_{clip_num:02d}"
     clip_tag = f"[CẢNH {scene_num:02d} - CLIP {clip_num:02d}]"
-    enforced_prompt = enforce_narrator_and_voice_lock(prompt)
+    enforced_prompt = enforce_dialogue_voice_lock(prompt)
     if not start_image_media_id:
         enforced_prompt = ensure_no_char_in_opening_beat(enforced_prompt)
     # Không chèn nhãn "[CẢNH xx - CLIP yy]" vào đầu prompt: chữ ở dòng đầu dễ bị Omni vẽ thành title card.
@@ -944,14 +926,7 @@ def submit_clip_with_detailed_log(prompt: str, scene_num: int, clip_num: int, st
     flow_prompt = enforced_prompt
 
     ref_media_ids = get_clip_reference_media_ids(enforced_prompt)
-    is_vo_clip = "off-screen male narrator" in enforced_prompt.lower()
-    m_speed = re.search(r"\b(1\.\d{2}x)\b", enforced_prompt)
-    clip_speed = m_speed.group(1) if m_speed else "~4 âm tiết/giây"
-    voice_mode_desc = (
-        f"🎙️ VO Người Dẫn Chuyện Duy Nhất ({NARRATOR_VOICE_SPEC['voice_lock_id']} — Nam 42t Bắc ~108Hz khàn sắc lạnh, tốc độ {clip_speed})"
-        if is_vo_clip
-        else f"🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync chuẩn miền Bắc sắc gọn {clip_speed}, khớp khẩu hình)"
-    )
+    voice_mode_desc = "🗣️ Nhân Vật Thoại Trực Tiếp (Lip-Sync giọng Hà Nội, nhịp nhanh/vừa/chậm theo cảnh, không người dẫn chuyện)"
 
     if start_image_media_id:
         endpoint = "/api/flow/generate-video"
@@ -1095,7 +1070,9 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
                             has_failed = True
                             all_done = False
-                        elif op_complaint and elapsed >= 65 and not (op.get("operation", {}).get("metadata", {}).get("video", {}).get("mediaId")):
+                        elif op_complaint and "media not found" not in op_complaint.lower() and elapsed >= 65 and not (op.get("operation", {}).get("metadata", {}).get("video", {}).get("mediaId")):
+                            # "Media not found." is reported while a 15s Omni render is still running (and by finished jobs too,
+                            # see flowkit/CLAUDE.md); aborting at 65s threw away clips that needed ~90s (10/11/2026).
                             log(f"⚠️ Google Flow từ chối/báo lỗi sau {elapsed}s ({op_complaint}) — kết thúc poll sớm để làm mềm prompt & chạy lại!")
                             has_failed = True
                             all_done = False
@@ -1193,6 +1170,13 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                     return poll_res
                 else:
                     log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt}/{max_retries} ({poll_res.get('error')}).")
+                    if poll_res.get("error") == "TIMEOUT" and attempt < max_retries:
+                        # 10/11/2026: Flow nhận job rồi không tạo gì (giới hạn lượt theo giờ) — không phải lỗi nội dung,
+                        # nên giữ nguyên prompt, chờ dần 3 → 15 phút rồi gửi lại thay vì làm mềm prompt và gửi dồn.
+                        wait_s = min(900, 180 * attempt)
+                        log(f"⏸️ Flow không trả video (có thể đang giới hạn lượt) — chờ {wait_s // 60} phút rồi gửi lại nguyên prompt.")
+                        time.sleep(wait_s)
+                        continue
             else:
                 log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {res.text}")
                 if "CAPTCHA_FAILED" in (res.text or ""):
@@ -1229,7 +1213,7 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
 def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
     global CURRENT_EP_NUM, CURRENT_CLIP_NUM
     print("\n" + "=" * 72)
-    print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT — CÁI KẾT CHO TIỂU TAM (OMNI 1.2 15S)")
+    print("🎬 KHỞI ĐỘNG HỆ THỐNG FLOWKIT — CHÍNH THẤT CAO TAY, TIỂU TAM TRẮNG TAY (OMNI 1.2 15S)")
     print(f"📁 Phạm vi: Cảnh {start_scene:02d} đến Cảnh {end_scene:02d} ({CLIPS_PER_SCENE} clips × {CLIP_DURATION_S}s = {CLIPS_PER_SCENE * CLIP_DURATION_S}s/cảnh)")
     print(f"🤖 Model Video: {VIDEO_MODEL_NAME} (model_family={VIDEO_MODEL_FAMILY}, {CLIP_DURATION_S}s/clip Ingredients R2V)")
     print(f"🔗 Google Flow Project: {PROJECT_ID}")
@@ -1454,7 +1438,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
 
 if __name__ == "__main__":
     if not _is_valid_media_id(PROJECT_ID):
-        print("❌ Chưa có PROJECT_ID cho Cái Kết Cho Tiểu Tam. Tạo 1 project mới trên https://flow.google.com, rồi chạy:\n"
+        print("❌ Chưa có PROJECT_ID cho Chính Thất Cao Tay, Tiểu Tam Trắng Tay. Tạo 1 project mới trên https://flow.google.com, rồi chạy:\n"
               "   VTK_FLOW_PROJECT_ID=<uuid-project> python flowkit/runners/cai_ket_cho_tieu_tam.py 1 25\n"
               "(hoặc điền UUID vào PROJECT_ID trong flowkit/runners/cai_ket_cho_tieu_tam.py)", flush=True)
         sys.exit(2)

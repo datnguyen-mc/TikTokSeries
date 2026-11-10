@@ -1,4 +1,4 @@
-One continuous 15-second live-action shot, 16:9 widescreen, 24 fps.
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 8s, 13s; one place and one moment, sound and action continuous across the cuts.
 
 [STYLE]
 Photorealistic live-action Vietnamese caper comedy film set in Hà Nội's old quarter today; vibrant warm grade with saturated golden yellows, jade greens and magenta neon at night, crisp bright daylight, natural skin texture, subtle 35mm film grain, energetic handheld feel.
@@ -10,27 +10,43 @@ Bright natural lighting: warm golden morning and sunset light over the old quart
 Night in a narrow old-quarter alley outside Lâm's tube house: a rolling steel shutter, wet pavement with puddles, a single yellow streetlamp, potted plants, tangled wires overhead.
 
 [CHARACTERS]
-Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card in the opening frames; 0.0–3.0s establishes the empty environment first and characters appear only from 3.0s onward.
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @Lam = Ông Lâm, 63, humble motorbike-taxi driver who was once the old quarter's legendary gang boss; wiry and small, short grey crew cut, thick grey eyebrows, calm narrow eyes with a slightly cloudy left eye, deep sun wrinkles; faded grey zip-up windbreaker over a white tank top, loose khaki trousers, plastic sandals, a battered green pith helmet, a dark-green dragon tattoo on his right forearm usually hidden by his sleeve.
 Nobody else appears in the shot.
 
-[SHOT]
-- Framing & motion: 50mm close-up with a slow tilt up from the puddle; one smooth camera move from start to end, no cuts.
-- Continuity: new camera setup; 0.0–3.0s establishes the empty location and light with no person in frame, then reveals the character naturally from 3.0s.
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 50mm medium shot of the old man crouching over the puddle, slow tilt up.
+- Shot 2, 4–8s: 85mm close-up of his weathered face above the helmet, locked off.
+- Shot 3, 8–13s: 50mm medium low-angle shot of the old man standing with the helmet, locked off.
+- Shot 4, 13–15s: 100mm extreme close-up of his cloudy left eye catching the lamplight, locked off.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 
-[TIMELINE]
-Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one main action per beat; 0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.
-- 0.0–3.0s: In the empty night alley, a battered green pith helmet lies upside down in a puddle under the yellow streetlamp, red paint still dripping from the steel shutter behind it.
-- 3.0–7.0s: @Lam crouches down slowly in his grey windbreaker, lifts the helmet out of the puddle with both hands and lets the muddy water pour from it, his mouth closed.
-- 7.0–11.0s: @Lam wipes the helmet slowly with his sleeve, round and round, his eyes lowered and his lips pressed together as the camera rises to his quiet weathered face.
-- 11.0–15.0s: @Lam holds the helmet against his chest and lifts his gaze to the red-streaked shutter, the yellow lamplight glinting in his cloudy left eye, his mouth firmly closed. The shot settles on this as its final frame.
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Lam crouches slowly over the puddle under the yellow streetlamp in his grey windbreaker, lifts the battered green pith helmet out of the water with both hands and is already speaking to it under his breath.
+- 1–2s (Shot 1): @Lam tips the helmet and lets the muddy water pour out of it, still murmuring.
+- 2–3s (Shot 1): @Lam peers inside at the soaked lining and keeps talking softly, shaking his head.
+- 3–4s (Shot 1): @Lam shakes the last drops off the brim as he goes on.
+- 4–5s (CUT to Shot 2): @Lam wipes the helmet with his sleeve, round and round, speaking to it in a hushed voice.
+- 5–6s (Shot 2): @Lam's lips move tenderly as he rubs a smear of mud from the brim.
+- 6–7s (Shot 2): @Lam keeps talking softly to the helmet, turning it in his hands.
+- 7–8s (Shot 2): @Lam taps the worn crown with one finger as he goes on.
+- 8–9s (CUT to Shot 3): @Lam rises to his feet, still talking to the helmet.
+- 9–10s (Shot 3): @Lam keeps wiping the brim with the hem of his windbreaker, murmuring.
+- 10–11s (Shot 3): @Lam's voice drops lower as he keeps talking, a cold edge in his narrow eyes.
+- 11–12s (Shot 3): @Lam says the last words, holding the helmet against his chest.
+- 12–13s (Shot 3): @Lam finishes and closes his mouth, red paint dripping from the shutter behind him.
+- 13–14s (CUT to Shot 4): @Lam's cloudy left eye catches the yellow lamplight as he lifts his gaze to the red-streaked shutter.
+- 14–15s (Shot 4): @Lam's eye narrows slowly and stays fixed on the shutter, unblinking. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Narration 0.4–11.9s by an off-screen male narrator (Vietnamese man about 45, strictly standard Hà Nội Northern accent (giọng chuẩn Hà Nội Bắc Bộ, never Southern accent) with clear six tones, warm punchy baritone with a playful knowing edge, fast witty caper-film storytelling in one continuous breath, every word spoken once and clearly, no stutter, no repeated words), in Vietnamese, said exactly once: "Bọn chúng đi rồi, ông Lâm mới chậm rãi cúi xuống nhặt chiếc mũ cối dưới vũng nước, lau thật chậm, hết vòng này đến vòng khác, không nói lấy một lời nào, chỉ có đôi mắt cứ nhìn mãi vào cánh cửa cuốn nhuộm đỏ." (no subtitles)
-- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.
-- Nobody on screen speaks; every mouth on screen stays closed.
+- Dialogue 0.4–12.2s, spoken on camera by @Lam (man of 63, low husky voice with a slow dry drawl, slightly gravelly, calm even when angry, speaking at a natural, even conversational pace, hushed, tender, with a cold edge), in Vietnamese with exact lip-sync, said exactly once: "Ướt sũng cả rồi. Bùn ngấm vào tận cái lót mũ đây này. Mày theo ông bao nhiêu năm, nắng cũng đội, mưa cũng đội, chưa đứa nào dám thả mày xuống nước thế này. Lau khô đã nào. Rồi ông tính sau với chúng nó." (no subtitles)
+- @Lam starts talking within the first second; whenever @Lam speaks, the face and lips are clearly visible in that shot; after the last word @Lam closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 12.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: water trickling from the helmet, a slow drip of paint, crickets, distant motorbikes fading. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, jump cuts or scene changes, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow drawn-out narration or long pauses inside a sentence, Southern or Central Vietnamese accents.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, rushed delivery, slow drawn-out delivery or long pauses inside a sentence, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

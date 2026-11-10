@@ -1,6 +1,6 @@
 # Găng Tơ Tái Xuất (bản 2) — Cốt Truyện, Nhân Vật & Phim Tham Khảo
 
-**Thể loại:** hành động hài kiểu "phi vụ lừa ngược", có tình ông cháu; kịch bản gốc · **Thời lượng:** 27 phút (27 cảnh × 6 clip × 10 giây = 162 clip) · **Khung hình:** 16:9 · **Bối cảnh:** phố cổ Hà Nội hôm nay · **Giọng kể:** nam ~45 tuổi, giọng Hà Nội, ấm và hóm hỉnh
+**Thể loại:** hành động hài kiểu "phi vụ lừa ngược", có tình ông cháu; kịch bản gốc · **Thời lượng:** 27 phút (27 cảnh × 4 clip × 15 giây = 108 clip, Google Flow Omni 1.2 Flash) · **Khung hình:** 16:9 · **Bối cảnh:** phố cổ Hà Nội hôm nay · **Lời thoại:** 100% do nhân vật nói trên hình, không người dẫn chuyện; giọng nhanh chậm theo cảnh (yêu cầu 10/11/2026)
 
 > Bản 1 (cảng Vạn Hải, Phong Sói, sổ đen) bị thay hoàn toàn vì quá giống *Kẻ Sống Sót*: nhân vật chính 45 tuổi có sẹo, sổ đen, phản diện vest trắng, trao đổi ở cảng, con tin, neo-noir mưa đêm. Bản cũ được lưu ở `revisions/`.
 
@@ -52,4 +52,8 @@
 - Nguồn duy nhất là `PHAN_CANH_OMNI.json` (dàn ý ở `_parts/DAN_Y.md`). Sau khi sửa, chạy `python3 flowkit/scripts/build_omni_horror_prompts.py gang-to-tai-xuat`, rồi đồng bộ DB.
 - Không đánh nhau, không ai chạm vào ai. Công an đi tới bình thản, người bị bắt tự giơ tay.
 - Không chữ trên hình (màn hình chỉ phát sáng, neon không chữ), tối đa 2 người trong khung. Cảnh đông người dùng diễn viên quần chúng không gắn tag.
+- Không có người dẫn chuyện (10/11/2026): mọi clip là thoại nhép môi của nhân vật trên hình — nói với nhau, nói điện thoại, nói qua tai nghe trong xe tải, livestream, hoặc lẩm bẩm với đồ vật (ông Lâm nói với chiếc xe, với hình xăm rồng). Nhân vật không tự xưng tên; người khác gọi tên để khán giả biết ai là ai. `_parts/check_part.py` báo lỗi nếu còn clip dẫn chuyện. Bản còn người dẫn chuyện lưu ở `revisions/PHAN_CANH_OMNI_15s_narrator_20261110.json`.
+- Giọng nhanh chậm theo cảnh (10/11/2026): mỗi lượt thoại có `pace` — `fast` (rượt đuổi, khoe khoang, hoảng hốt, đanh đá), `normal` (trò chuyện, bàn kế hoạch), `slow` (ông Lâm ra uy, ông cháu, bệnh viện mắt) — và `tone` tả sắc thái. Giọng gốc của nhân vật (tuổi, chất giọng, giọng Hà Nội) không có tốc độ, giữ nguyên văn ở mọi clip; câu chậm có khung thoại dài hơn nên phải ngắn hơn. Kiểm khung thoại: `python3 gang-to-tai-xuat/_parts/check_part.py <file phần> --plan`.
+- Clip 15 giây nhiều cảnh quay (10/11/2026, user: "các cảnh phải nhiều hơn, quy định các step từ 1 tới 15 giây rõ ràng"): mỗi clip có `shots` (3–5 cảnh quay, cắt đúng giây tròn, mỗi cảnh ≥ 2 giây, hai cảnh liền nhau khác cỡ) và `steps` (đúng 15 câu, mỗi giây một hành động). Người đang nói luôn có mặt trong cảnh quay; cảnh phản ứng chỉ đặt vào giây im lặng. Clip cắt: giây 0–3 chỉ có bối cảnh. Clip nối khung: cảnh 1 giữ khung cuối clip trước.
+- Lời thoại đủ dày (10/11/2026, đo bằng Whisper trên bản render): mỗi clip 15 giây 36–48 âm tiết, tối đa 3 lượt luân phiên; thiếu lời thì Omni nói lặp câu cho kín clip. Mỗi clip đưa câu chuyện đi tiếp, không nhắc lại ý clip trước, không ai tự gọi tên mình.
 - Nhạc nền không đưa vào prompt; thêm nhạc hài hoặc hành động khi dựng hậu kỳ.

@@ -4,6 +4,26 @@ Mỗi lần làm tập xu hướng, thêm một mục ngày mới lên đầu fi
 
 ---
 
+## 10/11/2026
+
+Quét sáng 10/11/2026 (giờ Việt Nam, 09:29–09:50) cho **Tây Du Ký 2026 tap-23** (tập 60 giây tổng kết hot & drama của ngày): RSS Google Trends VN, RSS VnExpress (tin nổi bật, mới nhất, thời sự, đời sống, giải trí, số hóa), RSS Dân trí (trang chủ, đời sống, xã hội, giải trí), RSS Tuổi Trẻ (tin mới, nhịp sống trẻ, giải trí), RSS Thanh Niên (giới trẻ, đời sống), đối chiếu Google News. Hạn đăng tap-23: trước 13:06 ngày 11/11/2026 (tin cũ nhất là tin pickleball của Thanh Niên).
+
+| Chủ đề / Từ khóa | Nguồn kiểm chứng | Dùng cho |
+| ---------------- | ---------------- | -------- |
+| **Bạn bè giận nhau vì một lần đứt chuỗi TikTok**: giữ biểu tượng ngọn lửa bằng cách gửi video qua lại mỗi ngày; gần hết ngày chưa ai gửi thì bị nhắc tên trong nhóm chat; đôi bạn thân giận nhau cả tuần vì mất chuỗi 300 ngày, ai cũng trách người kia; kết: bạn bè quan trọng hơn số chuỗi | [Tuổi Trẻ 09/11 18:00](https://tuoitre.vn/ban-be-gian-nhau-chi-vi-mot-lan-dut-chuoi-tiktok-co-dang-khong-100261109091918901.htm) | **[Tây Du Ký tap-23](tay-du-ky-2026/tap-23/README.md)** *(Đứt chuỗi ba trăm ngày lúc nửa đêm)*: gần nửa đêm Heo Lười và Đại Ca ngồi sát nhau mà cãi xem đến lượt ai gửi; lửa chuỗi ba trăm ngày tắt |
+| **Chi tiền triệu thuê người "gánh" pickleball để được lên bục nhận giải** (2–7 triệu đồng một giải, có khi cao hơn tiền thưởng; người đánh thuê đổi tên mỗi giải) | [Thanh Niên 09/11 13:06](https://thanhnien.vn/chi-tien-trieu-thue-nguoi-ganh-thi-dau-pickleball-de-duoc-len-buc-nhan-giai-185261109091120679.htm) | **Tây Du Ký tap-23**: cả hai lén thuê Út Khờ "gánh chuỗi", trả công bằng quả chuối và cái bánh bao |
+| **"Đi làm phải biết 'ghê gớm' mới không bị cướp công, chịu thiệt?"**: người làm âm thầm không được ghi nhận, đồng nghiệp tranh công trong cuộc họp | [Tuổi Trẻ 10/11 08:03](https://tuoitre.vn/di-lam-phai-biet-ghe-gom-moi-khong-bi-cuop-cong-chiu-thiet-100261010123656787.htm) | **Tây Du Ký tap-23**: hai đứa tranh công giữ lửa; công thật là của Út Khờ, chuỗi của Út Khờ với La Sát vẫn cháy |
+| TP.HCM nóng 34 độ, giới trẻ đi cà phê nướng marshmallow "đón đông" · Hà Nội rét đậm nhất từ đầu mùa | [Thanh Niên 09/11 15:16](https://thanhnien.vn/tphcm-nong-34-do-gioi-tre-van-ru-nhau-di-ca-phe-nuong-marshmallow-don-dong-18526110914190759.htm), [Dân trí 10/11 09:00](https://dantri.com.vn/dt360/nguoi-ha-noi-quang-khan-chum-kin-mit-trong-dot-ret-dam-nhat-tu-dau-mua-20261110085623547.htm) | Lưu dự phòng: tập Tây Du Ký "đón đông giữa Hỏa Diệm Sơn" (quạt Ba Tiêu) nếu đợt lạnh còn kéo dài; bỏ tên quán, tránh cảnh lửa thật trong nhà |
+| Cậu bé 6 tuổi luyện tiếng Anh với khách Tây ở hồ Gươm · ứng dụng hẹn hò Trung Quốc hứa hoàn tiền nếu không cưới được · "Luffy hóa khỉ" | VnExpress 10/11 07:00, Tuổi Trẻ 09/11 21:11, Tuổi Trẻ 10/11 07:58 | **Không dùng:** trẻ em có tên thật, thương hiệu và người sáng lập có tên, thương hiệu truyện tranh |
+| Đấu giá đất trả gần 1,5 tỉ đồng/m² vì tưởng giá cả lô | Tuổi Trẻ 10/11 09:07 | **Không dùng:** chính quyền, công an đang làm việc; tiền đặt cọc của người thật |
+| "Đãi cỗ cưới 7,5 triệu, khách mừng 500.000 đồng" · thiệp mời tiệc sửa nhà, con đậu đại học tới tấp | VnExpress 10/11 05:52, Tuổi Trẻ 09/11 13:00 | **Không dùng:** trùng chủ đề mừng cưới của Tây Du Ký tap-22 |
+| "giá xăng dầu hôm nay" (Google Trends VN 5000+), "ngôn ngữ anh" (200+, chuẩn đầu ra C1), tín dụng, bảo hiểm xã hội, cầu vượt · chi phí "nuôi" ôtô ở đô thị | Google Trends VN RSS 10/11, VnExpress 10/11 06:00 | **Không dùng:** số liệu, chính sách |
+| Tin dự phòng 09/11: xe ôm liên tỉnh "cứu" khách say ôtô, vé máy bay Tết tăng giá, "giảm thuế" | TRENDS.md 09/11 | Còn trong 48 giờ đến sáng 11/11 nhưng không hợp chuyện tap-23; giữ dự phòng |
+| CEO Nvidia, Trường Giang, Hoa hậu Việt Nam 2026, concert BigBang hoàn tiền vé, Kane, Messi, Russell Brand | RSS VnExpress, Dân trí, Tuổi Trẻ 09–10/11 | **Không dùng:** người thật, thương hiệu |
+| Mưa lũ miền Trung, giông lốc Đồng Tháp, triều cường TP.HCM vượt báo động 3, cháy nhà 4 tầng ở TP.HCM, án hình sự, Iran, bầu cử Mỹ, Nga – Ukraine, đề xuất nghỉ lễ 27/7 | RSS VnExpress, Dân trí, Tuổi Trẻ 09–10/11 | **Không dùng:** thiên tai, tai nạn, án hình sự, chính trị, ngày tưởng niệm |
+
+---
+
 ## 09/11/2026
 
 Quét sáng 09/11/2026 (giờ Việt Nam) cho **Tây Du Ký 2026 tap-22** (tập 60 giây tổng kết hot & drama của ngày): RSS Google Trends VN, RSS VnExpress (tin nổi bật, mới nhất, thời sự, đời sống, giải trí, kinh doanh), RSS Dân trí (trang chủ, đời sống, xã hội, kinh doanh), RSS Tuổi Trẻ (tin mới, nhịp sống trẻ), đối chiếu Google News. Phèo tap-22 (tập dạy nấu ăn 60 giây) và Mít & Đú tap-28 (chuyện thôn quê 1970) viết cùng ngày theo luật mới của hai bible, không lấy tin.

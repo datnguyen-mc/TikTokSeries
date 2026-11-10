@@ -32,7 +32,7 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 4–5s (Shot 1): @BaNhan finishes and closes her mouth, waiting at the foot of the stairs.
 - 5–6s (CUT to Shot 2): @Thu stops the treadle under the single warm desk lamp and answers without turning round, her eyes glistening.
 - 6–7s (Shot 2): @Thu keeps speaking steadily, the red silk motionless under her hands.
-- 7–8s (Shot 2): @Thu keeps talking, her lips trembling once before she steadies them.
+- 7–8s (Shot 2): @Thu keeps talking, her lips subtle once before she steadies them.
 - 8–9s (Shot 2): @Thu keeps going quietly, smoothing the red silk with both palms.
 - 9–10s (Shot 2): @Thu keeps speaking, finishing in a near whisper.
 - 10–11s (CUT to Shot 3): @Thu closes her mouth; @BaNhan lowers herself onto a stool beside her, peers at her face and adds a dry remark.
@@ -53,4 +53,4 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - SFX: the slow clatter of the treadle sewing machine, the desk lamp humming, a motorbike passing beyond the half-closed shutter, slippers on wooden stairs. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, rushed delivery, slow drawn-out delivery or long pauses inside a sentence, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.
+title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.

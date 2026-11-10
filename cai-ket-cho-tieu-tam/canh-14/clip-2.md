@@ -12,7 +12,7 @@ Thu's narrow áo dài tailor shop on an old-quarter silk street by day: bolts of
 [CHARACTERS]
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards.
 - @Thu = Thu, 34, calm and quietly brilliant wife who runs a small áo dài tailor shop in the old quarter; slim, lightly sun-tanned, long black hair in a low loose bun, gentle watchful dark eyes, no makeup, work-roughened hands; faded light-blue cotton blouse with rolled sleeves, dark-brown trousers, dark-green cloth apron, a yellow tailor's measuring tape around her neck, plastic sandals.
-- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; a red silk wedding áo dài embroidered with a gold phoenix, a thin gold necklace, beige high heels.
+- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and gesture toward, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; a red silk wedding áo dài embroidered with a gold phoenix, a thin gold necklace, beige high heels.
 - Wardrobe: in this shot @Vy wears the outfit written above, not the outfit in the reference image; face and hair stay identical.
 Nobody else appears in the shot.
 
@@ -55,4 +55,4 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - SFX: pins clicking into a tin, silk rustling, a wall clock ticking, a sharp swish of silk. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.
+title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.

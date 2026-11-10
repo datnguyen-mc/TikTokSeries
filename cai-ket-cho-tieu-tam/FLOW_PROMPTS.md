@@ -963,7 +963,7 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 7–8s (Shot 3): @Vy keeps talking excitedly, fluttering her fingers like a bird flying off.
 - 8–9s (Shot 3): @Vy keeps speaking fast, waving her champagne glass.
 - 9–10s (Shot 3): @Vy keeps talking with a wicked giggle, tapping the papers.
-- 10–11s (Shot 3): @Vy finishes, closes her mouth and drains her glass in one go.
+- 10–11s (Shot 3): @Vy finishes, closes her mouth and takes a slow sip from her glass.
 - 11–12s (CUT to Shot 4): @Khai taps one sheet with a fingertip, the gold band glinting on his hand, and adds a dry warning in a low voice.
 - 12–13s (Shot 4): @Khai keeps speaking quietly, holding @Vy's gaze, one eyebrow raised.
 - 13–14s (CUT to Shot 5): @Khai finishes and closes his mouth, then shuts the black leather folder with a soft snap.
@@ -971,8 +971,8 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.9s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking at a natural, even conversational pace, cool and businesslike): "Lão Tùng là con cá thứ ba. Trước đám hỏi, phải bắt lão nộp đủ năm tỷ với căn nhà ba tầng."
-- Turn 2, 6.4–10.6s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking quickly in short lively phrases, every word still clear, giddy, eyes shining): "Cầm tiền với sổ đỏ là bay, như hai lần trước. Lão chẳng kịp hiểu mình bị lừa thế nào!"
+- Turn 1, 0.4–5.9s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking at a natural, even conversational pace, cool and businesslike): "Lão Tùng là mối thứ ba. Trước đám hỏi, lão phải lo cho đủ năm tỷ với cả căn nhà ba tầng."
+- Turn 2, 6.4–10.6s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking quickly in short lively phrases, every word still clear, giddy, eyes shining): "Có tiền với sổ đỏ là mình đi luôn, như hai lần trước. Lão chẳng kịp hiểu chuyện gì đâu!"
 - Turn 3, 11.1–13.6s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking at a natural, even conversational pace, dry, a quiet warning): "Nhớ đấy, tiền phải vào trước, giấy tờ tính sau."
 - Pacing: @Khai speaks at an even everyday pace, then @Vy answers quickly, then @Khai answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.

@@ -56,4 +56,4 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - SFX: pages turning, a pen clicking, the clock ticking loud in the silence, a moped passing in the alley. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.
+title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.

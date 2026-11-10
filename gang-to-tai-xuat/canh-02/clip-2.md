@@ -18,7 +18,7 @@ Nobody else appears in the shot.
 - Shot 1, 0–4s: 50mm medium shot of the granddaughter at the table, the dark bed soft behind her, holding the previous framing.
 - Shot 2, 4–8s: 85mm close-up of her face in the blue and amber light, very slow push-in.
 - Shot 3, 8–12s: 40mm medium shot from the side of the table, slow arc.
-- Shot 4, 12–15s: 100mm extreme close-up of her eyes above her cupped hands, locked off.
+- Shot 4, 12–15s: 100mm Medium close-up of her eyes above her cupped hands, locked off.
 - Continuity: continues the same moment, place and lighting as the previous shot; Shot 1 keeps the previous framing axis, no jump.
 - Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 
@@ -49,4 +49,4 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - SFX: the muffled buzz of a face-down phone, a wall clock ticking, incense crackling softly on the altar, a slow shaky exhale. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, rushed delivery, slow drawn-out delivery or long pauses inside a sentence, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.
+title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.

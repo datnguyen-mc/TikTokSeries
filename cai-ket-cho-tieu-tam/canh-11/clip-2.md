@@ -11,7 +11,7 @@ A glossy luxury apartment high above Hà Nội by day: floor-to-ceiling windows 
 
 [CHARACTERS]
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards.
-- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.
+- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and gesture toward, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.
 - @Na = Na, 9, Thu and Tùng's daughter; small, round face, bright dark eyes, black hair in two short pigtails with red hair ties; white short-sleeve school shirt, navy pleated skirt, red scarf knotted at the neck, white canvas shoes.
 Nobody else appears in the shot.
 
@@ -31,7 +31,7 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 3–4s (Shot 1): @Vy keeps speaking low and fast, wrinkling her nose, as she walks toward the floor-to-ceiling window.
 - 4–5s (Shot 1): @Vy keeps talking, her free hand on her hip, her voice flat and cold.
 - 5–6s (Shot 1): @Vy finishes and closes her mouth, listening to the phone, her back to the room.
-- 6–7s (CUT to Shot 2): On the white sofa @Na, who has heard every word, begins to whisper slowly to herself, her lips trembling.
+- 6–7s (CUT to Shot 2): On the white sofa @Na, who has heard every word, begins to whisper slowly to herself, her lips subtle.
 - 7–8s (Shot 2): @Na keeps whispering, the crayon drawing crumpling in her small hands.
 - 8–9s (Shot 2): @Na keeps whispering, her chin wobbling, her eyes on the floor.
 - 9–10s (Shot 2): @Na whispers the last words and closes her mouth, a tear sliding down her round cheek.
@@ -54,4 +54,4 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - SFX: a phone buzzing, the hum of air conditioning, long fingernails tapping on glass, paper crinkling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.
+title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.

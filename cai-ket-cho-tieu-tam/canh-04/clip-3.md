@@ -35,8 +35,8 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 5–6s (Shot 2): @Khai finishes and closes his mouth, squaring the papers on the marble.
 - 6–7s (CUT to Shot 3): @Vy leans her elbows on the marble and answers fast and giddy, her eyes shining.
 - 7–8s (Shot 3): @Vy keeps talking excitedly, fluttering her fingers like a bird flying off.
-- 8–9s (Shot 3): @Vy keeps speaking fast, waving her champagne glass.
-- 9–10s (Shot 3): @Vy keeps talking with a wicked giggle, tapping the papers.
+- 8–9s (Shot 3): @Vy keeps speaking fast, swirling her champagne glass.
+- 9–10s (Shot 3): @Vy keeps talking with a sly giggle, tapping the papers.
 - 10–11s (Shot 3): @Vy finishes, closes her mouth and takes a slow sip from her glass.
 - 11–12s (CUT to Shot 4): @Khai taps one sheet with a fingertip, the gold band glinting on his hand, and adds a dry warning in a low voice.
 - 12–13s (Shot 4): @Khai keeps speaking quietly, holding @Vy's gaze, one eyebrow raised.
@@ -45,13 +45,13 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.9s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking at a natural, even conversational pace, cool and businesslike): "Lão Tùng là mối thứ ba. Trước đám hỏi, lão phải lo cho đủ năm tỷ với cả căn nhà ba tầng."
-- Turn 2, 6.4–10.6s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking quickly in short lively phrases, every word still clear, giddy, eyes shining): "Có tiền với sổ đỏ là mình đi luôn, như hai lần trước. Lão chẳng kịp hiểu chuyện gì đâu!"
-- Turn 3, 11.1–13.6s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking at a natural, even conversational pace, dry, a quiet warning): "Nhớ đấy, tiền phải vào trước, giấy tờ tính sau."
+- Turn 1, 0.4–5.7s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking at a natural, even conversational pace, cool and businesslike): "Ông Tùng mê em lắm rồi. Trước đám hỏi, ông ấy phải lo xong sính lễ với căn nhà ba tầng."
+- Turn 2, 6.2–10.2s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking quickly in short lively phrases, every word still clear, giddy, eyes shining): "Xong đám hỏi là mình đi xa luôn, như hai lần trước. Ông ấy chẳng kịp hiểu gì đâu!"
+- Turn 3, 10.7–13.5s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking at a natural, even conversational pace, dry, a quiet warning): "Nhớ đấy, sính lễ phải xong trước, giấy tờ tính sau."
 - Pacing: @Khai speaks at an even everyday pace, then @Vy answers quickly, then @Khai answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
-- All speech is over by 13.6s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
+- All speech is over by 13.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: a leather folder flipping open, paper sliding on marble, a glass set down on stone, the low hum of a fridge. Ambience continues to 15.0s. No music.
 

@@ -958,19 +958,19 @@
     "turns": [
      {
       "speaker": "@Khai",
-      "line": "Lão Tùng là mối thứ ba. Trước đám hỏi, lão phải lo cho đủ năm tỷ với cả căn nhà ba tầng.",
+      "line": "Ông Tùng mê em lắm rồi. Trước đám hỏi, ông ấy phải lo xong sính lễ với căn nhà ba tầng.",
       "pace": "normal",
       "tone": "cool and businesslike"
      },
      {
       "speaker": "@Vy",
-      "line": "Có tiền với sổ đỏ là mình đi luôn, như hai lần trước. Lão chẳng kịp hiểu chuyện gì đâu!",
+      "line": "Xong đám hỏi là mình đi xa luôn, như hai lần trước. Ông ấy chẳng kịp hiểu gì đâu!",
       "pace": "fast",
       "tone": "giddy, eyes shining"
      },
      {
       "speaker": "@Khai",
-      "line": "Nhớ đấy, tiền phải vào trước, giấy tờ tính sau.",
+      "line": "Nhớ đấy, sính lễ phải xong trước, giấy tờ tính sau.",
       "pace": "normal",
       "tone": "dry, a quiet warning"
      }
@@ -1008,8 +1008,8 @@
      "@Khai finishes and closes his mouth, squaring the papers on the marble.",
      "@Vy leans her elbows on the marble and answers fast and giddy, her eyes shining.",
      "@Vy keeps talking excitedly, fluttering her fingers like a bird flying off.",
-     "@Vy keeps speaking fast, waving her champagne glass.",
-     "@Vy keeps talking with a wicked giggle, tapping the papers.",
+     "@Vy keeps speaking fast, swirling her champagne glass.",
+     "@Vy keeps talking with a sly giggle, tapping the papers.",
      "@Vy finishes, closes her mouth and takes a slow sip from her glass.",
      "@Khai taps one sheet with a fingertip, the gold band glinting on his hand, and adds a dry warning in a low voice.",
      "@Khai keeps speaking quietly, holding @Vy's gaze, one eyebrow raised.",
@@ -1378,7 +1378,7 @@
     "turns": [
      {
       "speaker": "@Tung",
-      "line": "Mình ơi, ký giúp anh mấy tờ vay ngân hàng nhé, công trình mới đang cần vốn gấp lắm.",
+      "line": "Mình ơi, ký giúp anh mấy tờ hồ sơ vay nhé, công trình mới đang cần vốn gấp lắm.",
       "pace": "normal",
       "tone": "sugary, a little too sweet"
      },
@@ -1416,7 +1416,7 @@
      }
     ],
     "steps": [
-     "@Tung comes in carrying a big cellophane-wrapped fruit basket and is already speaking sweetly with an eager smile, while @Thu sits at the cleared dining table with her mouth closed.",
+     "@Tung stands at the table holding a big cellophane-wrapped fruit basket and is already speaking sweetly with an eager smile, while @Thu sits at the cleared dining table with her mouth closed.",
      "@Tung sets the basket on the table and keeps talking, too sweet.",
      "@Tung keeps speaking as he slides a thick stack of papers with no readable writing and a pen across to @Thu.",
      "@Tung keeps talking, tapping the pen on the stack.",
@@ -1442,7 +1442,7 @@
     "turns": [
      {
       "speaker": "@Tung",
-      "line": "Đọc làm gì cho mất thời gian! Toàn chữ chuyên môn thôi, em cứ ký vào chỗ đánh dấu là xong!",
+      "line": "Đọc làm gì cho mất thời gian! Toàn chữ chuyên môn thôi, em cứ ký vào đây là xong!",
       "pace": "fast",
       "tone": "impatient, talking over her"
      },
@@ -1454,7 +1454,7 @@
      },
      {
       "speaker": "@Tung",
-      "line": "Thủ tục nó bắt thế! Đàn bà biết gì mà hỏi! Ký nhanh lên!",
+      "line": "Thủ tục nó bắt thế! Em hỏi lắm thế làm gì! Ký nhanh lên!",
       "pace": "fast",
       "tone": "caught out, blustering"
      }
@@ -1487,17 +1487,17 @@
      "@Tung leans over the table and is already speaking fast and impatiently, poking the pen at a corner of the page.",
      "@Tung keeps talking over her, tapping the pen on the stack, while @Thu turns the pages slowly with her mouth closed.",
      "@Tung keeps speaking fast, flapping his free hand at the papers.",
-     "@Tung keeps talking, jabbing the pen at the place to sign.",
+     "@Tung keeps talking, pointing the pen at the place to sign.",
      "@Tung finishes, closes his mouth and holds out the pen.",
      "@Thu stops on one page, lifts her eyes to his face and starts asking slowly.",
      "@Thu keeps asking in a level voice, her eyes never leaving him.",
      "@Thu keeps speaking quietly, each word placed with care.",
      "@Thu keeps talking, one finger laid on the page with no readable writing.",
      "@Thu finishes the question and closes her mouth, while @Tung's jaw tightens.",
-     "@Tung snaps back fast, waving the pen.",
-     "@Tung keeps talking loudly, his face reddening.",
-     "@Tung keeps shouting, flicking the stack of papers with the back of his hand.",
-     "@Tung finishes and closes his mouth, breathing hard, a bead of sweat sliding from his temple.",
+     "@Tung answers back fast, waving the pen.",
+     "@Tung keeps talking fast, his face reddening.",
+     "@Tung keeps talking, tapping the stack of papers impatiently.",
+     "@Tung finishes and closes his mouth, a bead of sweat on his temple.",
      "@Thu holds his gaze in silence while the pen hangs in the air between them, both mouths closed."
     ]
    },

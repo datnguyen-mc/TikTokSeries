@@ -607,15 +607,15 @@
     "turns": [
      {
       "speaker": "@Vy",
-      "line": "Con bé lì lắm anh ạ. Xong vụ này là em tống nó về với bà mẹ bán áo. Nhìn mặt nó em ngứa mắt.",
+      "line": "Con bé bướng lắm anh ạ. Xong việc này là em cho nó về với mẹ nó. Em chẳng muốn trông nó nữa.",
       "pace": "fast",
       "tone": "irritated and low, on the phone"
      },
      {
       "speaker": "@Na",
-      "line": "Cô ấy ghét con thật rồi. Con chỉ muốn ở với mẹ thôi.",
+      "line": "Cô ấy không thích con rồi. Con chỉ muốn về với mẹ thôi.",
       "pace": "slow",
-      "tone": "hushed, lips trembling"
+      "tone": "hushed and wistful"
      },
      {
       "speaker": "@Vy",
@@ -642,15 +642,15 @@
     ],
     "steps": [
      "A phone with a glowing blank screen at her ear, @Vy straightens up from the sofa and is already speaking fast and low into it with an irritated roll of her eyes, while @Na kneels by the sofa with her drawing, mouth closed.",
-     "@Vy keeps talking, turning her back on the sofa, her lip curling.",
+     "@Vy keeps talking, turning her back on the sofa, her lips pressed thin.",
      "@Vy keeps going, flicking a glance back over her shoulder toward @Na.",
-     "@Vy keeps speaking low and fast, wrinkling her nose, as she walks toward the floor-to-ceiling window.",
+     "@Vy keeps speaking low and fast, rolling her eyes, as she walks toward the floor-to-ceiling window.",
      "@Vy keeps talking, her free hand on her hip, her voice flat and cold.",
      "@Vy finishes and closes her mouth, listening to the phone, her back to the room.",
-     "On the white sofa @Na, who has heard every word, begins to whisper slowly to herself, her lips trembling.",
-     "@Na keeps whispering, the crayon drawing crumpling in her small hands.",
-     "@Na keeps whispering, her chin wobbling, her eyes on the floor.",
-     "@Na whispers the last words and closes her mouth, a tear sliding down her round cheek.",
+     "On the white sofa @Na, who has heard every word, begins to whisper slowly to herself, her eyes lowered.",
+     "@Na keeps whispering, holding her crayon drawing close.",
+     "@Na keeps whispering, her eyes on the drawing.",
+     "@Na whispers the last words and closes her mouth, looking quietly toward the door.",
      "@Vy at the window glances toward the front door and speaks quickly into the phone again, suddenly brisk.",
      "@Vy keeps talking fast, tapping her long red nails on the window glass.",
      "@Vy keeps going, a sly smile at the city below.",
@@ -821,7 +821,7 @@
     "shots": [
      {
       "until": 6,
-      "camera": "50mm medium shot of the young woman perched on the edge of the dark wood desk, slow push-in"
+      "camera": "50mm medium shot of the young woman standing beside the dark wood desk, slow push-in"
      },
      {
       "until": 11,
@@ -833,12 +833,12 @@
      }
     ],
     "steps": [
-     "In the glass-walled director's office, @Vy perches on the edge of the dark wood desk, palms flat on the wood, tilts her head with a little pout and is already speaking sweetly, while @Tung leans back in the black leather chair with his mouth closed.",
+     "In the glass-walled director's office, @Vy stands beside the dark wood desk, one hand resting on the wood, tilts her head with a little pout and is already speaking sweetly, while @Tung leans back in the black leather chair with his mouth closed.",
      "@Vy keeps talking in a wheedling voice, twirling a strand of wavy hair.",
      "@Vy keeps going, glancing at the white tower models under glass.",
      "@Vy keeps speaking, holding up one hand with all her fingers spread.",
-     "@Vy keeps talking, leaning toward him across the desk, her lashes fluttering.",
-     "@Vy finishes and closes her mouth, lowering her lashes.",
+     "@Vy keeps talking, smiling sweetly at him across the desk.",
+     "@Vy finishes and closes her mouth, folding her hands.",
      "@Tung rubs his jaw and answers hesitantly, his eyes sliding toward the window.",
      "@Tung keeps talking, tapping his gold wristwatch with one finger.",
      "@Tung keeps speaking, shifting in the leather chair.",
@@ -847,7 +847,7 @@
      "@Tung closes his mouth; @Vy's sweet smile stiffens and she answers quickly with a pout, tapping the desk with one fingernail.",
      "@Vy keeps talking fast, pouting, her fingernail still tapping the wood.",
      "@Vy finishes and closes her mouth, while @Tung nods quickly, mouth closed.",
-     "@Vy slides off the desk with a small smug smile, while @Tung reaches for his phone on the desk, both silent."
+     "@Vy steps back from the desk with a small smug smile, while @Tung reaches for his phone on the desk, both silent."
     ]
    },
    {
@@ -859,13 +859,13 @@
     "turns": [
      {
       "speaker": "@Khai",
-      "line": "Anh cứ chuyển trước vào tài khoản văn phòng luật của em. Ăn hỏi xong em lo sang tên một thể.",
+      "line": "Anh cứ gửi trước qua văn phòng luật của em. Ăn hỏi xong em lo giấy tờ nhà một thể.",
       "pace": "fast",
       "tone": "slick and smooth"
      },
      {
       "speaker": "@Tung",
-      "line": "Được. Cậu là anh họ của Vy thì tôi tin. Chiều nay tôi bảo kế toán chuyển.",
+      "line": "Được. Cậu là anh họ của Vy thì tôi tin. Chiều nay tôi bảo kế toán lo.",
       "pace": "normal",
       "tone": "trusting, nodding along"
      },
@@ -923,13 +923,13 @@
     "turns": [
      {
       "speaker": "@Vy",
-      "line": "Chuyển chưa anh? Bố mẹ ở quê gọi em suốt từ sáng đến giờ.",
+      "line": "Xong chưa anh? Bố mẹ ở quê gọi em suốt từ sáng đến giờ.",
       "pace": "normal",
       "tone": "eager and sugary"
      },
      {
       "speaker": "@Tung",
-      "line": "Chuyển đủ rồi, không thiếu một xu. Từ giờ em là bà giám đốc, thích gì cứ bảo anh.",
+      "line": "Xong hết rồi, không thiếu thứ gì. Từ giờ em là bà giám đốc, thích gì cứ bảo anh.",
       "pace": "normal",
       "tone": "proud and expansive"
      },
@@ -1578,7 +1578,7 @@
     "turns": [
      {
       "speaker": "@Thu",
-      "line": "Vâng, ảnh cưới với địa chỉ quê họ em gửi anh rồi. Họ lừa thế này là lần thứ ba rồi anh ạ, lần nào cũng một bài. Tối mai, ở sảnh tiệc khách sạn. Vâng, em sẽ giữ chân họ đến khi các anh tới. Em không run đâu, anh cứ tin em.",
+      "line": "Vâng, ảnh cưới với địa chỉ quê họ em gửi anh rồi. Đây là lần thứ ba họ làm thế, lần nào cũng một bài. Tối mai, ở sảnh tiệc khách sạn. Vâng, em sẽ giữ họ ở lại đến khi các anh tới. Anh cứ yên tâm.",
       "pace": "normal",
       "tone": "steady and low, on the phone"
      }
@@ -1607,10 +1607,10 @@
      "Night in the tailor shop under a single warm desk lamp: @Thu sits at the old black sewing machine with a phone with a glowing blank screen at her ear and is already speaking in a low, steady voice.",
      "@Thu keeps talking evenly, glancing at the half-lowered steel shutter.",
      "@Thu keeps speaking, her free hand running along the yellow measuring tape around her neck.",
-     "@Thu keeps talking quietly, her eyes on the finished red silk wedding áo dài embroidered with a gold phoenix on a headless dress form across the room.",
+     "@Thu keeps talking quietly, her eyes on the finished red silk wedding áo dài embroidered with a gold phoenix on a dress form across the room.",
      "@Thu keeps going, nodding slowly as she listens and answers.",
-     "@Thu keeps speaking low, her jaw firm, the lamplight on her cheek.",
-     "@Thu keeps talking, lowering her voice further, her eyes narrowing in thought.",
+     "@Thu keeps speaking low, her expression calm, the lamplight on her cheek.",
+     "@Thu keeps talking, her eyes thoughtful.",
      "@Thu keeps speaking steadily, tapping two fingers on the sewing table.",
      "@Thu keeps talking, turning on the stool toward the dress form.",
      "@Thu keeps speaking, her eyes on the gold phoenix, the phone pressed to her ear.",

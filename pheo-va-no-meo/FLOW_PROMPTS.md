@@ -5,8 +5,21 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
-**Định dạng chuẩn bắt buộc:** mỗi tập là **CLIP DÀI HƯỚNG DẪN CHI TIẾT TỪNG PHẦN CÁCH NẤU NGON, TỶ LỆ GIA VỊ VÀ MẸO ĐẦU BẾP (`60 giây = 6 clip × 10s`, hoặc 60–100s = 6–10 clip × 10s)** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt giọng Bắc thanh thoát (Hà Nội chuẩn) · không chữ trên video · **Bắt buộc hướng dẫn chi tiết từng bước: cách chọn nguyên liệu, mẹo sơ chế khử mùi, công thức pha sốt / ướp gia vị tỷ lệ vàng, mẹo canh lửa và bí quyết hoàn thiện món ăn kèm cú lật kèo hài hước với Bà chủ Hường (`@No`)**.
+**Định dạng chuẩn bắt buộc (từ 11/11/2026, Tập 24 trở đi):** mỗi tập là **"CÓ BIẾN!" — PHÈO & BÀ CHỦ HƯỜNG BÀN DRAMA CỦA NGÀY THEO CÁCH HÀI HƯỚC, MỖI CLIP MỘT TIN MỚI Ở MỘT LĨNH VỰC KHÁC NHAU (`60 giây = 6 clip × 10s`)** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · thoại tiếng Việt giọng Bắc thanh thoát (Hà Nội chuẩn) · không chữ trên video. Mẫu: [tap-24/](tap-24/README.md). Các tập 1–23 giữ nguyên file cũ (tập 17–23 theo định dạng dạy nấu ăn bên dưới).
 
+> **Cấu trúc bắt buộc "Có biến!" (60 giây = 6 clip × 10s):**
+> - **Lấy tin:** quét tin của 24 giờ gần nhất, tối đa 48 giờ trước giờ đăng (RSS Google Trends VN, VnExpress, Dân trí, Tuổi Trẻ, Thanh Niên), mở bài gốc kiểm chứng rồi ghi log vào `TRENDS.md`. Mỗi clip một tin thuộc **một lĩnh vực khác nhau**: mua sắm, tài chính – giá cả, công nghệ – mạng xã hội, thể thao, giáo dục – việc làm, đời sống – thời tiết, cảnh giác lừa đảo, giải trí… Không hai clip cùng lĩnh vực.
+>   1. **Clip 1 — Hook + tin nóng nhất:** giây 0–2 Hường mở bằng câu cửa miệng **"Em ơi, có biến!"** (đúng một lần mỗi tập), rồi nói tin; Phèo bình một câu chốt.
+>   2. **Clip 2–5 — Mỗi clip một tin:** người đưa tin nói một câu đời thường (không đọc tiêu đề báo), người kia chốt một câu hài. Sợi chỉ xuyên tập: **Phèo lái tin nào cũng về chuyện lương thưởng của mình, Hường né bằng một câu keo kiệt hoặc giả điếc.** Mỗi tin có **một đạo cụ hoặc cử chỉ** để người xem hiểu bằng hình (vòng vàng, cờ cổ vũ, điện thoại selfie…).
+>   3. **Clip 6 — Lật kèo:** tin cuối gắn với chính ngày hôm đó (ngày lễ, sự kiện); Hường tặng Phèo một món quà hiểu theo nghĩa đen (Tập 24: Lễ độc thân → một chiếc đũa lẻ) → `SIGNATURE FREEZE` ở 1,5–2 giây cuối.
+> - **Bối cảnh cố định:** góc bàn ăn cạnh bếp, buổi sáng muộn, ánh nắng qua rèm trắng bên trái; bàn tròn gỗ tối khăn ren trắng, ấm trà sứ trắng, hai chén trà, đĩa hạt hướng dương. **Hường ngồi ghế bành chạm gỗ đệm hồng bên trái, Phèo ngồi ghế nhựa đỏ thấp bên phải** (miếng hài hình ảnh cố định); không ai đứng dậy, không nấu nướng. Khối `[FORMAT]`, `[CHARACTERS …]`, `[CHARACTER STATE …]` và `[SET LOCK …]` chép nguyên văn từ `tap-24/clip-1.md` (chỉ đổi số tập).
+> - **Điện thoại** của Hường luôn quay màn hình về phía Hường hoặc úp xuống bàn; không TV, không báo giấy, không màn hình có chữ.
+> - **Lọc tin:** không thiên tai, tai nạn, án hình sự, điều tra, chính trị, chiến tranh, tôn giáo, bệnh tật của người thật, trẻ em thật, xổ số – cờ bạc; **không nêu tên người thật, tên sàn, tên hãng, thương hiệu** (nói "mạng xã hội", "sàn nào cũng sale"). Tin lừa đảo chỉ dùng khi câu chốt là lời nhắc cảnh giác. Số liệu đúng bài báo, đọc tròn bằng chữ.
+> - **Thoại:** tối đa 2 lượt mỗi clip, 18–34 âm tiết, ≤ 4,2 âm tiết/giây; phản ứng trước rồi mới nói; không tự gọi tên mình; không lặp một cụm nội dung quá hai lần trong tập; nhịp cảm xúc của cùng một nhân vật không trùng ở hai clip liền nhau. Tin bám giờ (ví dụ "tối nay tuyển đá") chỉ dùng khi chắc chắn đăng kịp, nếu không thì viết cho không lệ thuộc giờ.
+> - **README tập:** bảng sáu tin (lĩnh vực, tin, nguồn có link và giờ đăng, miếng hài), danh sách tin đã quét nhưng không dùng kèm lý do, hạn đăng (48 giờ tính từ tin cũ nhất), bảng lời thoại, ghi chú đạo cụ. `caption.md`: câu hỏi kéo bình luận, đúng 5 hashtag, không gắn giỏ hàng.
+
+> **Định dạng cũ — Tập 17–23, không dùng cho tập mới:**
+>
 > **Cấu trúc chuẩn bắt buộc cho Series Phèo (Clip Dài 60s = 6 Clip × 10s — Hướng Dẫn Chi Tiết Từng Phần Cách Nấu Ngon, Gia Vị & Mẹo):**
 > - **Mỗi tập chuẩn 60 giây (`6 clip × 10s`)** chia thành **6 phần hướng dẫn nấu ăn chuyên sâu, rõ ràng từng bước** để người xem nhìn và nghe là nấu theo thành công ngay:
 >   1. **Clip 1 (00:00–00:10) — Phần 1: Cách chọn nguyên liệu tươi ngon & Giao kèo vào bếp:** Mở màn bằng nguyên liệu chính trên đảo bếp; `@Pheo` chỉ rõ **mẹo chọn nguyên liệu tươi ngon ngoài chợ** (cách nhìn màu thịt/cá, độ đàn hồi, lớp mỡ/da) kèm định lượng chuẩn xác; Bà chủ Hường (`@No`) bước vào giao đề bài / thử thách nấu ăn.
@@ -129,7 +142,7 @@ Continue the scene seamlessly from the final frame of the previous clip, which i
 Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a soft, clear, elegant Northern (Hà Nội) accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
 
-**Câu cửa miệng**: mọi tập mở bằng *"Ngày [số tập], Phèo vô bếp!"* (tập 6 là "Ngày sáu, Phèo vô bếp!", cứ thế đếm tới 365).
+**Câu cửa miệng**: từ Tập 24 mọi tập mở bằng Hường nói *"Em ơi, có biến!"* trong 2 giây đầu. Các tập cũ mở bằng *"Ngày [số tập], Phèo vô bếp!"*.
 
 **Cú "đứng hình" (chữ ký của series)**: 2 giây cuối của mọi tập.
 
@@ -218,6 +231,7 @@ Close-up portrait for a 3D animated series. BÀ CHỦ HƯỜNG: an anthropomorph
 | 21 | Thịt nạc rim nước dừa ngon như xá xíu | Hường hứa thưởng "một tháng lương" nếu thịt nạc rim không khô; Phèo chọn 750g nạc vai thái miếng dày rửa trong chậu để ráo, băm tỏi + hành khô, ướp 2 thìa nước mắm, 1 thìa xì dầu, 1 thìa tương ớt, 1 thìa đường, ½ thìa hạt nêm, ½ thìa tiêu, 2 thìa dầu ít nhất 30 phút, áp chảo mỗi mặt 1 phút, rim 330ml nước dừa lửa liu riu 45 phút (10 phút lật một lần) rồi rim lửa to đến khi sốt sánh bóng tách dầu; cuối tập Hường bưng ra năm thanh "lương khô" buộc nơ — "một tháng lương… khô" (tập 60s = 6 clip × 10s, giọng Bắc thanh thoát) | Nước mắm |
 | 22 | Đậu phụ nhồi thịt sốt cà chua · Thưởng "đi quẩy" | Hường hứa "không vỡ miếng nào thì tối nay chị cho em đi quẩy"; Phèo trộn 150 g thịt vai xay với mộc nhĩ, nấm hương, hành khô, hành lá, nêm 1 thìa cà phê nước mắm, ½ muối, ½ hạt nêm, ½ tiêu; chọn đậu trắng ngà, 5 bìa cắt đôi, khoét giữa chừa đáy 1 cm, nhồi vừa đầy miết nhẹ; dầu nóng lửa vừa, úp mặt thịt xuống trước, vàng chắc mới lật; phi hành khô, 4 quả cà chua bóc vỏ băm nhỏ, 2 thìa cà phê nước mắm, ½ muối, thả đậu vào sốt, om nhỏ lửa 10 phút, rắc hành; giữa tập Hường nhắc "vỡ một miếng là mất quẩy"; cuối tập Hường giữ lời giơ bó năm chiếc quẩy rán buộc nơ đỏ: "em tha hồ quẩy", Phèo đứng hình "đi quẩy thành ăn quẩy" (tập 60s = 6 clip × 10s, giọng Bắc thanh thoát; công thức theo VnExpress) | Nước mắm |
 | 23 | Bò xào súp lơ xanh · Thưởng "áo phao" | Hường xoa tay than rét, hứa "bò mà mềm thì chị sắm cho em cái áo phao"; Phèo chọn 400 g thăn bò đỏ tươi, thái mỏng ngang thớ, ướp 1 thìa canh dầu hào, 1 thìa cà phê đường, 1 hạt nêm, ½ tiêu, nửa phần tỏi băm 15 phút; súp lơ bông xanh đậm nụ khít ngâm nước muối loãng 10 phút, chần 30 giây, thả nước đá; chảo thật nóng lửa to 1 thìa canh dầu, đảo bò 1 phút vừa săn thì tắt bếp trút ra; thêm 1 thìa canh dầu phi tỏi còn lại, xào súp lơ với 1 thìa cà phê đường, 1 hạt nêm, chút nước, lửa to 2 phút; trút bò đảo nhanh, tắt bếp, rắc tiêu; giữa tập Hường nhắc "bò mà dai là mất áo phao"; cuối tập Hường giữ lời giơ chiếc áo phao cứu sinh màu cam: "Áo phao đây, em mặc cho ấm nhé!", Phèo đứng hình "áo phao đi bơi à?!" (tập 60s = 6 clip × 10s, giọng Bắc thanh thoát; công thức theo Điện máy Xanh, mẹo chần và xào theo VnExpress) | Dầu hào |
+| 24 | Có biến ngày 11/11 · Quà Lễ độc thân "một chiếc đũa" | ⚡ Tập đầu của format "Có biến!" (bàn drama của ngày, 11/11/2026): Hường hớn hở sale ngày đôi, Phèo "Lễ độc thân mà chị sắm như sắm đồ cưới"; vàng thế giới tụt mạnh, Hường ôm vòng vàng, Phèo "lương em đứng im cả năm"; mạng xã hội dùng AI đoán tuổi, Hường khai mười tám, Phèo dọa bị giới hạn giờ lướt; U23 Việt Nam thắng U23 Thái Lan ba không, Hường "nấu xong sớm thì cho xem ké"; vụ "mua hàng không đồng" rồi "luật sư mạng", Hường lén giấu điện thoại; cuối tập Hường tặng quà Lễ độc thân: một chiếc đũa lẻ, Phèo đứng hình "Đũa cũng độc thân à?!" (tập 60s = 6 clip × 10s, giọng Bắc thanh thoát, góc bàn ăn) | Không |
 
 ---
 
@@ -250,6 +264,7 @@ Mỗi tập mới **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 
 | 21 | [tap-21/](tap-21/README.md) | Thịt nạc rim nước dừa ngon như xá xíu · Thưởng "một tháng lương… khô" |
 | 22 | [tap-22/](tap-22/README.md) | Đậu phụ nhồi thịt sốt cà chua · Thưởng "đi quẩy"… một bó quẩy |
 | 23 | [tap-23/](tap-23/README.md) | Bò xào súp lơ xanh · Thưởng "áo phao"… áo phao cứu sinh |
+| 24 | [tap-24/](tap-24/README.md) | Có biến ngày 11/11 · Quà Lễ độc thân "một chiếc đũa" |
 
 ## Tập 14 (`tap-14`)
 

@@ -27,10 +27,10 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 0–1s (Shot 1): Night in the tailor shop under a single warm desk lamp: @Thu sits at the old black sewing machine with a phone with a glowing blank screen at her ear and is already speaking in a low, steady voice.
 - 1–2s (Shot 1): @Thu keeps talking evenly, glancing at the half-lowered steel shutter.
 - 2–3s (Shot 1): @Thu keeps speaking, her free hand running along the yellow measuring tape around her neck.
-- 3–4s (Shot 1): @Thu keeps talking quietly, her eyes on the finished red silk wedding áo dài embroidered with a gold phoenix on a headless dress form across the room.
+- 3–4s (Shot 1): @Thu keeps talking quietly, her eyes on the finished red silk wedding áo dài embroidered with a gold phoenix on a dress form across the room.
 - 4–5s (CUT to Shot 2): @Thu keeps going, nodding slowly as she listens and answers.
-- 5–6s (Shot 2): @Thu keeps speaking low, her jaw firm, the lamplight on her cheek.
-- 6–7s (Shot 2): @Thu keeps talking, lowering her voice further, her eyes narrowing in thought.
+- 5–6s (Shot 2): @Thu keeps speaking low, her expression calm, the lamplight on her cheek.
+- 6–7s (Shot 2): @Thu keeps talking, her eyes thoughtful.
 - 7–8s (Shot 2): @Thu keeps speaking steadily, tapping two fingers on the sewing table.
 - 8–9s (CUT to Shot 3): @Thu keeps talking, turning on the stool toward the dress form.
 - 9–10s (Shot 3): @Thu keeps speaking, her eyes on the gold phoenix, the phone pressed to her ear.
@@ -41,10 +41,10 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Thu lifts her eyes toward the red wedding áo dài just beyond the frame, a steady gaze, silent. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue 0.4–13.9s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking at a natural, even conversational pace, steady and low, on the phone), in Vietnamese with exact lip-sync, said exactly once: "Vâng, ảnh cưới với địa chỉ quê họ em gửi anh rồi. Họ lừa thế này là lần thứ ba rồi anh ạ, lần nào cũng một bài. Tối mai, ở sảnh tiệc khách sạn. Vâng, em sẽ giữ chân họ đến khi các anh tới. Em không run đâu, anh cứ tin em." (no subtitles)
+- Dialogue 0.4–12.4s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking at a natural, even conversational pace, steady and low, on the phone), in Vietnamese with exact lip-sync, said exactly once: "Vâng, ảnh cưới với địa chỉ quê họ em gửi anh rồi. Đây là lần thứ ba họ làm thế, lần nào cũng một bài. Tối mai, ở sảnh tiệc khách sạn. Vâng, em sẽ giữ họ ở lại đến khi các anh tới. Anh cứ yên tâm." (no subtitles)
 - @Thu starts talking within the first second; whenever @Thu speaks, the face and lips are clearly visible in that shot; after the last word @Thu closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
 - Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
-- All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
+- All speech is over by 12.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: the desk lamp humming, a soft click as the call ends, the steel shutter creaking in the night breeze, a motorbike passing far off. Ambience continues to 15.0s. No music.
 

@@ -957,37 +957,38 @@ def merge_episode_clips(
     output_videos_dir = os.path.join(series_dir, "output_videos")
     clips = find_episode_clip_mp4s(output_videos_dir, ep_num, ep_folder_name)
 
-    # Nếu các file .mp4 local đã được xóa nhưng đã lưu trên Cloudflare R2 (cms_clip.r2_url),
-    # tự động tải các clip từ R2 về khi người dùng bấm nút Ghép Tập trên UI
-    if not clips:
-        try:
-            db_path = os.path.join(_FLOWKIT_DIR, "flow_agent.db")
-            if os.path.isfile(db_path):
-                with sqlite3.connect(db_path) as conn:
-                    cur = conn.execute(
-                        """SELECT clip_num, r2_url, folder_name FROM cms_clip
-                           WHERE channel_slug = ? AND episode_num = ? AND r2_url IS NOT NULL AND r2_url != ''
-                           ORDER BY clip_num ASC""",
-                        (channel_slug, ep_num),
-                    )
-                    r2_rows = cur.fetchall()
-                if r2_rows:
-                    subf = ep_folder_name or r2_rows[0][2] or f"canh-{ep_num:02d}"
-                    dl_dir = os.path.join(output_videos_dir, subf)
-                    os.makedirs(dl_dir, exist_ok=True)
-                    for c_num, r2_url, _ in r2_rows:
-                        dst_mp4 = os.path.join(dl_dir, f"{subf}_clip-{c_num:02d}.mp4")
-                        if not os.path.isfile(dst_mp4) or os.path.getsize(dst_mp4) == 0:
-                            if requests is not None:
-                                r = requests.get(r2_url, timeout=120)
-                                if r.status_code == 200 and len(r.content) > 1000:
-                                    with open(dst_mp4, "wb") as vf:
-                                        vf.write(r.content)
-                            else:
-                                urllib.request.urlretrieve(r2_url, dst_mp4)
-                    clips = find_episode_clip_mp4s(output_videos_dir, ep_num, ep_folder_name)
-        except Exception as e:
-            print(f"⚠️ Lỗi tải clip từ R2 khi ghép tập: {e}", flush=True)
+    # Nếu có bất kỳ file .mp4 local nào của tập chưa có trên ổ cứng nhưng đã lưu trên Cloudflare R2 (cms_clip.r2_url),
+    # tự động tải bù các clip đó từ R2 về để luôn ghép đủ 100% số clip của tập/cảnh
+    try:
+        existing_nums = {n for n, _ in clips}
+        db_path = os.path.join(_FLOWKIT_DIR, "flow_agent.db")
+        if os.path.isfile(db_path):
+            with sqlite3.connect(db_path) as conn:
+                cur = conn.execute(
+                    """SELECT clip_num, r2_url, folder_name FROM cms_clip
+                       WHERE channel_slug = ? AND episode_num = ? AND r2_url IS NOT NULL AND r2_url != ''
+                       ORDER BY clip_num ASC""",
+                    (channel_slug, ep_num),
+                )
+                r2_rows = cur.fetchall()
+            missing_r2 = [(c_num, r2_url, fname) for c_num, r2_url, fname in r2_rows if c_num not in existing_nums]
+            if missing_r2:
+                subf = ep_folder_name or missing_r2[0][2] or f"canh-{ep_num:02d}"
+                dl_dir = os.path.join(output_videos_dir, subf)
+                os.makedirs(dl_dir, exist_ok=True)
+                for c_num, r2_url, _ in missing_r2:
+                    dst_mp4 = os.path.join(dl_dir, f"{subf}_clip-{c_num:02d}.mp4")
+                    if not os.path.isfile(dst_mp4) or os.path.getsize(dst_mp4) == 0:
+                        if requests is not None:
+                            r = requests.get(r2_url, timeout=120)
+                            if r.status_code == 200 and len(r.content) > 1000:
+                                with open(dst_mp4, "wb") as vf:
+                                    vf.write(r.content)
+                        else:
+                            urllib.request.urlretrieve(r2_url, dst_mp4)
+                clips = find_episode_clip_mp4s(output_videos_dir, ep_num, ep_folder_name)
+    except Exception as e:
+        print(f"⚠️ Lỗi tải clip từ R2 khi ghép tập: {e}", flush=True)
 
     if not clips:
         msg = f"⚠️ Không tìm thấy clip video .mp4 nào để ghép cho {unit_label} {ep_num:02d}."
@@ -1425,7 +1426,7 @@ def wait_if_cooldown_error(res_text: str, flowkit_api: str = None, log_fn=print)
 
     try:
         requests.post(f"{api_base}/api/ext/reload-flow-tab", timeout=10)
-        time.sleep(6.0)
+        time.sleep(14.0)
     except Exception:
         pass
     jitter_s = random.uniform(3.0, 15.0)
@@ -1529,8 +1530,31 @@ _EN_SAFE_REPLACEMENTS = [
     (r"\b(?:explod(?:e|es|ed|ing)|explosion|explosions|bomb|bombs|blast|blasts)\b", "bright light pulse"),
     (r"\bgunshot(?:s)?\b", "loud impact"),
     (r"\bshoot(?:s|ing)?\s+(?:at|him|her|them)\b", "confront"),
+    (r"\bslender\s+and\s+gesture\s+toward\b", "slender and glamorous"),
+    (r"\btwo\s+headless\s+dress\s+forms\b", "two wooden tailor mannequins"),
+    (r"\bheadless\s+dress\s+forms?\b", "wooden tailor mannequins"),
+    (r"\bheadless\b", "wooden"),
+    (r"\bwho\s+is\s+secretly\s+a\s+con\s+artist\b", "with a calculating double agenda"),
+    (r"\bsecretly\s+a\s+con\s+artist\b", "ambitious and calculating"),
+    (r"\bsmooth\s+con\s+artist\b", "smooth-talking schemer"),
+    (r"\bcon\s+artist(?:s)?\b", "schemer"),
+    (r"\bwho\s+poses\s+as\s+her\s+lawyer\s+cousin\b", "acting as her legal advisor"),
+    (r"\bdebt[- ]collector\s+leader\b", "flashy rival crew leader"),
+    (r"\bdebt[- ]collector(?:s)?\b", "flashy rival crew"),
+    (r"\bloan[- ]shark(?:s)?\b", "flashy lending boss"),
+    (r"\blegendary\s+gang\s+boss\b", "respected neighborhood legend"),
+    (r"\bgang\s+boss\b", "neighborhood elder"),
+    (r"\bold\s+gang's\b", "old crew's"),
+    (r"\bcaper\s+comedy\b", "witty neighborhood comedy"),
+    (r"\bward\s+police\s+station\b", "ward administrative office"),
+    (r"\bpolice\s+station\b", "municipal office"),
+    (r"\bbarred\s+window\b", "high louvered window"),
+    (r"\bred[- ]streaked\s+rolling\s+shutter\b", "streaked rolling steel shutter"),
+    (r"\bred\s+paint\b", "bright poster dye"),
+    (r"\bdripping\s+paint\b", "splashed poster dye"),
+    (r"\bchampagne\b", "sparkling golden cider"),
     (r"\b(?:fight|fights|fighting|combat|battle|battles|brawl)\b", "intense confrontation"),
-    (r"\b(?:punch|punches|punching|kick|kicks|kicking|slap|slaps|slapping|strike|strikes|striking)\b", "gesture toward"),
+    (r"\b(?:punch|punches|punching|kick|kicks|kicking|slap|slaps|slapping|strike\s+at|strikes\s+at)\b", "gesture toward"),
     (r"\b(?:chok(?:e|es|ing)|strangl(?:e|es|ing))\b", "hold back"),
     (r"\b(?:kill|kills|killed|killing|dead|death|die|dies|died|corpse|corpses|murder|suicide|torture)\b", "stop"),
     (r"\b(?:attack|attacks|attacked|attacking|assault)\b", "approach"),

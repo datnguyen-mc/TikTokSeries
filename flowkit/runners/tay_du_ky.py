@@ -1054,5 +1054,5 @@ def run_pipeline(start_ep=8, end_ep=21):
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 8
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 23
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 24
     run_pipeline(start, end)

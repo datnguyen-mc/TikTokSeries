@@ -131,7 +131,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/pheo_va_no_meo.py",
         "series_dir": "pheo-va-no-meo",
         "ep_prefix": "tap",
-        "description": "Clip dài 60s (6 clips × 10s) hướng dẫn chi tiết từng phần cách nấu món ngon, công thức gia vị tỷ lệ vàng và mẹo nhà bếp của đầu bếp mèo Phèo & bà chủ Hường (3D Pixar 9:16).",
+        "description": "Clip 60s (6 clips × 10s): mèo Phèo & bà chủ Hường bàn drama mỗi ngày theo cách hài hước, mỗi clip một tin mới ở một lĩnh vực khác nhau (3D Pixar 9:16).",
         "characters": [
             {
                 "tag": "@Pheo",

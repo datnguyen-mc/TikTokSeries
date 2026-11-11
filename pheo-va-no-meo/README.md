@@ -1,11 +1,19 @@
 # 365 Ngày Phèo Làm Nội Trợ (`pheo-va-no-meo`)
 
-**Định hướng Series:** Chuỗi phim hoạt hình 3D ẩm thực dài **60 giây/tập (`6 clips × 10s`)** khung hình dọc `9:16`. Đầu bếp mèo đen **Phèo (`@Pheo`)** hướng dẫn **chi tiết từng phần từ A–Z cách nấu món ngon chuẩn vị, công thức gia vị tỷ lệ vàng và các mẹo nhà bếp thực chiến** (cách chọn thịt cá tươi, mẹo khử mùi tanh/hôi, tỷ lệ muỗng canh/muỗng cà phê, kỹ thuật thắng nước màu, canh lửa và thời gian chính xác), kết hợp màn ra kèo và lật kèo thưởng bá đạo của **Bà chủ Hường (`@No`)**.
+**Định hướng Series (từ Tập 24, 11/11/2026):** Chuỗi phim hoạt hình 3D hài dài **60 giây/tập (`6 clips × 10s`)** khung hình dọc `9:16`. Mỗi ngày, đầu bếp mèo đen **Phèo (`@Pheo`)** và **Bà chủ Hường (`@No`)** ngồi bàn trà **bàn drama của ngày theo cách hài hước**, mỗi clip một tin mới ở một lĩnh vực khác nhau (mua sắm, tài chính, công nghệ, thể thao, đời sống, cảnh giác lừa đảo…). Hường mở tập bằng "Em ơi, có biến!", Phèo lái tin nào cũng về chuyện lương, cuối tập Hường lật kèo bằng một món quà hiểu theo nghĩa đen.
 
 - **Google Flow Project ID:** `d98ffa3b-7797-47c5-87be-55bb0e2a73f8`
-- **Bible & Quy tắc 6 phần nấu ăn chi tiết:** [FLOW_PROMPTS.md](FLOW_PROMPTS.md)
+- **Bible & quy tắc format "Có biến!":** [FLOW_PROMPTS.md](FLOW_PROMPTS.md) · tập mẫu: [tap-24/](tap-24/README.md)
 
-## Cấu trúc bắt buộc 6 Clip × 10 giây (60s) mỗi tập
+## Cấu trúc "Có biến!" 6 Clip × 10 giây (60s) mỗi tập, từ Tập 24
+
+| Clip | Thời gian | Nội dung |
+| :---: | :---: | :--- |
+| **Clip 1** | `00:00–00:10` | **Hook "Em ơi, có biến!" + tin nóng nhất của ngày** |
+| **Clip 2–5** | `00:10–00:50` | **Mỗi clip một tin ở một lĩnh vực khác nhau:** một câu đưa tin đời thường + một câu chốt hài; Phèo đòi lương, Hường né |
+| **Clip 6** | `00:50–01:00` | **Tin gắn với chính ngày hôm đó + quà lật kèo nghĩa đen (`SIGNATURE FREEZE`)** |
+
+## Cấu trúc cũ 6 Clip × 10 giây (60s), Tập 17–23 (dạy nấu ăn)
 
 | Clip | Thời gian | Nội dung hướng dẫn chi tiết từng phần |
 | :---: | :---: | :--- |
@@ -26,3 +34,6 @@
 - [Tập 19 — Sườn non rim mặn ngọt mềm rục tróc xương: Mẹo chần sườn từ nước lạnh, công thức sốt tỷ lệ vàng 3-2-1-1 & bí quyết rim hai lửa bóng mượt](tap-19/README.md)
 - [Tập 20 — Gà ta kho gừng sả ớt thấm đẫm mặn ngọt: Mẹo chà muối gừng khử mùi lông, ướp tỷ lệ vàng 3-2-1 & bí quyết xào săn hai lửa không bị bở](tap-20/README.md)
 - [Tập 21 — Thịt nạc rim nước dừa ngon như xá xíu: Mẹo chọn nạc vai có vân mỡ, ướp 7 gia vị đong bằng thìa ăn cơm & bí quyết áp chảo rồi rim liu riu 45 phút sốt sánh bóng](tap-21/README.md)
+- [Tập 22 — Đậu phụ nhồi thịt sốt cà chua · Thưởng "đi quẩy"](tap-22/README.md)
+- [Tập 23 — Bò xào súp lơ xanh · Thưởng "áo phao"](tap-23/README.md)
+- [Tập 24 — "Có biến!" ngày 11/11: sale ngày đôi, vàng tụt, AI đoán tuổi, U23 thắng Thái Lan, lừa "hàng không đồng" & quà Lễ độc thân "một chiếc đũa"](tap-24/README.md) *(tập đầu format bàn drama)*

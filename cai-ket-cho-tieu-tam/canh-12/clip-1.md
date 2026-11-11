@@ -11,12 +11,12 @@ Tùng's glass-walled director's office high in a Hà Nội tower by day: a big d
 
 [CHARACTERS]
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
-- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and gesture toward, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.
+- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.
 - @Tung = Tùng, 37, Thu's husband, newly rich construction company director; tall, slightly heavy, neatly gelled black hair, clean-shaven, heavy-lidded confident eyes; tailored charcoal-grey suit, white shirt open at the collar, gold wristwatch, polished black shoes.
 Nobody else appears in the shot.
 
 [SHOT LIST — 3 shots, hard cuts only at the marked seconds]
-- Shot 1, 0–6s: 50mm medium shot of the young woman perched on the edge of the dark wood desk, slow push-in.
+- Shot 1, 0–6s: 50mm medium shot of the young woman standing beside the dark wood desk, slow push-in.
 - Shot 2, 6–11s: 85mm close-up of the man in the black leather chair, locked off.
 - Shot 3, 11–15s: 40mm medium two-shot across the dark wood desk, slow drift.
 - Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
@@ -25,12 +25,12 @@ Nobody else appears in the shot.
 
 [TIMELINE — second by second]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
-- 0–1s (Shot 1): In the glass-walled director's office, @Vy perches on the edge of the dark wood desk, palms flat on the wood, tilts her head with a little pout and is already speaking sweetly, while @Tung leans back in the black leather chair with his mouth closed.
+- 0–1s (Shot 1): In the glass-walled director's office, @Vy stands beside the dark wood desk, one hand resting on the wood, tilts her head with a little pout and is already speaking sweetly, while @Tung leans back in the black leather chair with his mouth closed.
 - 1–2s (Shot 1): @Vy keeps talking in a wheedling voice, twirling a strand of wavy hair.
 - 2–3s (Shot 1): @Vy keeps going, glancing at the white tower models under glass.
 - 3–4s (Shot 1): @Vy keeps speaking, holding up one hand with all her fingers spread.
-- 4–5s (Shot 1): @Vy keeps talking, leaning toward him across the desk, her lashes fluttering.
-- 5–6s (Shot 1): @Vy finishes and closes her mouth, lowering her lashes.
+- 4–5s (Shot 1): @Vy keeps talking, smiling sweetly at him across the desk.
+- 5–6s (Shot 1): @Vy finishes and closes her mouth, folding her hands.
 - 6–7s (CUT to Shot 2): @Tung rubs his jaw and answers hesitantly, his eyes sliding toward the window.
 - 7–8s (Shot 2): @Tung keeps talking, tapping his gold wristwatch with one finger.
 - 8–9s (Shot 2): @Tung keeps speaking, shifting in the leather chair.
@@ -39,7 +39,7 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 11–12s (CUT to Shot 3): @Tung closes his mouth; @Vy's sweet smile stiffens and she answers quickly with a pout, tapping the desk with one fingernail.
 - 12–13s (Shot 3): @Vy keeps talking fast, pouting, her fingernail still tapping the wood.
 - 13–14s (Shot 3): @Vy finishes and closes her mouth, while @Tung nods quickly, mouth closed.
-- 14–15s (Shot 3): @Vy slides off the desk with a small smug smile, while @Tung reaches for his phone on the desk, both silent. The sequence settles on this as its final frame.
+- 14–15s (Shot 3): @Vy steps back from the desk with a small smug smile, while @Tung reaches for his phone on the desk, both silent. The sequence settles on this as its final frame.
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
@@ -54,4 +54,4 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - SFX: the hush of air conditioning, a leather chair creaking, distant city traffic far below, a pen clicking. Ambience continues to 15.0s. No music.
 
 [AVOID]
-title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

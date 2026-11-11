@@ -44,15 +44,15 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.8s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking quickly in short lively phrases, every word still clear, slick and smooth): "Anh cứ chuyển trước vào tài khoản văn phòng luật của em. Ăn hỏi xong em lo sang tên một thể."
-- Turn 2, 5.3–9.6s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, trusting, nodding along): "Được. Cậu là anh họ của Vy thì tôi tin. Chiều nay tôi bảo kế toán chuyển."
-- Turn 3, 10.1–13.3s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking quickly in short lively phrases, every word still clear, generous, faintly mocking): "Người nhà cả mà anh. Phí luật sư em miễn hết, coi như quà cưới."
+- Turn 1, 0.4–4.6s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking quickly in short lively phrases, every word still clear, slick and smooth): "Anh cứ gửi trước qua văn phòng luật của em. Ăn hỏi xong em lo giấy tờ nhà một thể."
+- Turn 2, 5.1–9.4s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, trusting, nodding along): "Được. Cậu là anh họ của Vy thì tôi tin. Chiều nay tôi bảo kế toán lo."
+- Turn 3, 9.9–13.1s, spoken on camera by @Khai (man of 30, smooth lazy tenor, slightly nasal, sly and drawling, speaking quickly in short lively phrases, every word still clear, generous, faintly mocking): "Người nhà cả mà anh. Phí luật sư em miễn hết, coi như quà cưới."
 - Pacing: @Khai speaks quickly, then @Tung answers at an even everyday pace, then @Khai answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
-- All speech is over by 13.3s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
+- All speech is over by 13.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: a leather folder sliding on wood, the hush of air conditioning, a chair creaking, a fingertip tapping leather. Ambience continues to 15.0s. No music.
 
 [AVOID]
-title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

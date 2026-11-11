@@ -12,7 +12,7 @@ Tùng's glass-walled director's office high in a Hà Nội tower by day: a big d
 [CHARACTERS]
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @Tung = Tùng, 37, Thu's husband, newly rich construction company director; tall, slightly heavy, neatly gelled black hair, clean-shaven, heavy-lidded confident eyes; tailored charcoal-grey suit, white shirt open at the collar, gold wristwatch, polished black shoes.
-- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and gesture toward, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.
+- @Vy = Vy, 24, Tùng's glamorous young secretary who is secretly a con artist; slender and striking, long glossy wavy dark-brown hair, sharp feline eyes with winged eyeliner, red lipstick; fitted crimson sleeveless midi dress, thin gold necklace, beige high heels, small white handbag with no logo.
 Nobody else appears in the shot.
 
 [SHOT LIST — 4 shots, hard cuts only at the marked seconds]
@@ -44,8 +44,8 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.9s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking at a natural, even conversational pace, eager and sugary): "Chuyển chưa anh? Bố mẹ ở quê gọi em suốt từ sáng đến giờ."
-- Turn 2, 4.4–9.2s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, proud and expansive): "Chuyển đủ rồi, không thiếu một xu. Từ giờ em là bà giám đốc, thích gì cứ bảo anh."
+- Turn 1, 0.4–3.9s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking at a natural, even conversational pace, eager and sugary): "Xong chưa anh? Bố mẹ ở quê gọi em suốt từ sáng đến giờ."
+- Turn 2, 4.4–9.2s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, proud and expansive): "Xong hết rồi, không thiếu thứ gì. Từ giờ em là bà giám đốc, thích gì cứ bảo anh."
 - Turn 3, 9.7–13.5s, spoken on camera by @Vy (young woman of 24, high honeyed soprano with a coy lilt that can snap cold and sharp, speaking at a natural, even conversational pace, purring, then icy): "Cảm ơn ông xã. Anh yên tâm, em làm vợ anh, đúng một ngày thôi."
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
@@ -54,4 +54,4 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - SFX: a soft tablet chime, a phone buzzing, the hush of air conditioning, heels shifting on a polished floor. Ambience continues to 15.0s. No music.
 
 [AVOID]
-title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, rushed delivery, slow drawn-out delivery or long pauses inside a sentence, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

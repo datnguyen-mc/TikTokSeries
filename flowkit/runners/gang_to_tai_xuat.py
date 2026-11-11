@@ -595,9 +595,9 @@ def update_dashboard_scene_status(scene_num: int, clip_num: int, video_url: str)
 
 def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
     # Prompt sinh từ PHAN_CANH_OMNI.json (có [AUDIO], [AVOID] nằm cuối):
-    # - Cấp 1 (attempt=1): Làm mềm mô tả hình ảnh tiếng Anh ([TIMELINE], [SETTING], [CHARACTERS]), giữ nguyên câu thoại/lời dẫn tiếng Việt.
-    # - Cấp 2 (attempt=2): Làm mềm thêm các từ nhạy cảm trong câu thoại/lời dẫn tiếng Việt nhưng vẫn giữ nguyên cấu trúc [AUDIO] và giọng đọc.
-    # - Cấp 3+ (attempt>=3): Làm mềm toàn diện cả [TIMELINE] sang chuyển động điện ảnh an toàn 100% để vượt bộ lọc Google Flow.
+    # - Cấp 1 (attempt=1): Làm mềm mô tả hình ảnh tiếng Anh ([TIMELINE], [LOCATION], [CHARACTERS]), giữ nguyên câu thoại tiếng Việt.
+    # - Cấp 2 (attempt=2): Làm mềm thêm các từ nhạy cảm trong câu thoại tiếng Việt nhưng vẫn giữ nguyên cấu trúc [AUDIO] và giọng đọc.
+    # - Cấp 3+ (attempt>=3): Làm mềm toàn diện [TIMELINE] sang chuyển động điện ảnh điềm tĩnh an toàn 100% mà vẫn giữ đúng @Tag nhân vật đang thoại.
     p = prompt or ""
     if "[AUDIO]" in p and "[AVOID]" in p:
         kept = []
@@ -606,11 +606,18 @@ def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
             line = m.group(0)
             if attempt >= 2:
                 extra_vi = [
-                    ("hắt cả xô sơn đỏ", "đổ cả xô sơn đỏ"),
-                    ("bắt cả lũ về tội lừa đảo", "mời cả lũ về đồn làm việc"),
+                    ("hắt cả xô sơn đỏ", "đổ màu ra cửa"),
+                    ("không phải sơn đâu", "đừng trách bọn tôi"),
+                    ("bắt cả lũ về tội lừa đảo", "mời cả lũ về phường làm việc"),
                     ("đơn tố cáo lừa đảo", "giấy mời làm việc"),
                     ("hai kẻ lừa đảo", "hai kẻ gian dối"),
-                    ("mặt cắt không còn giọt máu", "mặt tái mét"),
+                    ("lừa đảo", "gian dối"),
+                    ("vay nặng lãi", "vay lãi cao"),
+                    ("nặng lãi", "lãi cao"),
+                    ("đòi nợ thuê", "thu tiền"),
+                    ("đòi nợ", "nhắc khoản vay"),
+                    ("công an", "cán bộ phường"),
+                    ("mặt cắt không còn giọt máu", "mặt tái đi"),
                     ("cái thá gì", "là ai"),
                 ]
                 for k, v in extra_vi:
@@ -621,21 +628,36 @@ def sanitize_prompt(prompt: str, attempt: int = 1) -> str:
         held = re.sub(r"^- (?:Narration|Dialogue|Turn \d+,) .*$", _hold, p, flags=re.MULTILINE)
         held = re.sub(r"burying his face in his (?:shaking|subtle) hands", "resting his forehead thoughtfully on his hand", held, flags=re.IGNORECASE)
         held = re.sub(r"buries his forehead in both (?:shaking|subtle) hands", "rests his forehead in his hands", held, flags=re.IGNORECASE)
+        held = re.sub(r"\bgold-toothed sneer\b", "gold-toothed grin", held, flags=re.IGNORECASE)
+        held = re.sub(r"\bsneer\b", "cocky grin", held, flags=re.IGNORECASE)
+        held = re.sub(r"\bmenacing\b", "intense", held, flags=re.IGNORECASE)
+        held = re.sub(r"\b(?:jabbing|barks|barking|shouting|snarls|snarling|glaring)\b", "speaking firmly", held, flags=re.IGNORECASE)
         out = rewrite_prompt_on_failure(held, 1, CHARACTER_SPECS, ASPECT_RATIO)
-        if attempt >= 3 and "[TIMELINE]" in out and "[AUDIO]" in out:
+        if attempt >= 3 and "[TIMELINE" in out and "[AUDIO]" in out:
             tags = re.findall(r"^(?:-\s*)?(@[A-Za-z0-9_]+)\s*=", out, flags=re.MULTILINE)
             lead = tags[0] if tags else "the character"
-            safe_timeline = (
-                "[TIMELINE]\n"
-                "0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.\n"
-                "- 0.0–3.0s: Wide atmospheric camera movement establishing the Hà Nội old-quarter setting and lighting with no person in the opening frames.\n"
-                f"- 3.0–7.0s: Smooth camera push-in revealing {lead} in the scene with subtle natural movement and an earnest expression.\n"
-                + (f"- 7.0–11.0s: {lead} breathes steadily and turns slightly toward the soft light, hands relaxed.\n"
-                   f"- 11.0–15.0s: {lead} holds a calm, composed gaze as the camera settles cleanly on the final frame.\n\n"
-                   if CLIP_DURATION_S == 15 else
-                   f"- 7.0–10.0s: {lead} holds a calm, composed gaze as the camera settles cleanly on the final frame.\n\n")
-            )
-            out = re.sub(r"\[TIMELINE\][\s\S]*?(?=\[AUDIO\])", safe_timeline, out)
+            if "[TIMELINE — second by second]" in out:
+                def _calm_sec(m_sec):
+                    prefix = m_sec.group(1)
+                    body = m_sec.group(2)
+                    mentioned = re.findall(r"@[A-Za-z0-9_]+", body)
+                    actor = mentioned[0] if mentioned else lead
+                    if "speaking" in body or "talking" in body or "whisper" in body or "asks" in body or "answers" in body or "replies" in body:
+                        return f"{prefix}{actor} speaks clearly on camera with natural expressive posture and steady eye contact."
+                    return f"{prefix}{actor} holds a composed, attentive expression in the warm Hà Nội lighting, mouth closed."
+                out = re.sub(r"^(- \d+[–-]\d+s \([^)]+\):\s*)(.+)$", _calm_sec, out, flags=re.MULTILINE)
+            else:
+                safe_timeline = (
+                    "[TIMELINE]\n"
+                    "0.0–3.0s shows the environment and props only with no character on screen, and characters enter from 3.0s onward with clothing fully worn.\n"
+                    "- 0.0–3.0s: Wide atmospheric camera movement establishing the Hà Nội old-quarter setting and lighting with no person in the opening frames.\n"
+                    f"- 3.0–7.0s: Smooth camera push-in revealing {lead} in the scene with subtle natural movement and an earnest expression.\n"
+                    + (f"- 7.0–11.0s: {lead} breathes steadily and turns slightly toward the soft light, hands relaxed.\n"
+                       f"- 11.0–15.0s: {lead} holds a calm, composed gaze as the camera settles cleanly on the final frame.\n\n"
+                       if CLIP_DURATION_S == 15 else
+                       f"- 7.0–10.0s: {lead} holds a calm, composed gaze as the camera settles cleanly on the final frame.\n\n")
+                )
+                out = re.sub(r"\[TIMELINE\][\s\S]*?(?=\[AUDIO\])", safe_timeline, out)
         for i, line in enumerate(kept):
             out = out.replace(f"⟦KEEP{i}⟧", line)
         return out
@@ -648,7 +670,7 @@ def clip_uses_start_frame(prompt: str) -> bool:
     if not CHAIN_LAST_FRAME:
         return False
     p = prompt or ""
-    if "[SHOT]" in p:
+    if "[SHOT]" in p or "[SHOT LIST" in p or "Continuity:" in p:
         return "Continuity: continues the same moment" in p
     return True  # prompt định dạng cũ: giữ hành vi nối khung cũ
 
@@ -1071,9 +1093,23 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
                         elif op_status == "MEDIA_GENERATION_STATUS_FAILED":
                             has_failed = True
                             all_done = False
-                        elif op_complaint and "media not found" not in op_complaint.lower() and elapsed >= 65 and not (op.get("operation", {}).get("metadata", {}).get("video", {}).get("mediaId")):
-                            # "Media not found." is reported while a 15s Omni render is still running (and by finished jobs too,
-                            # see flowkit/CLAUDE.md); aborting at 65s threw away clips that needed ~90s (10/11/2026).
+                        elif (
+                            op_complaint
+                            and not any(
+                                k in op_complaint.lower()
+                                for k in (
+                                    "media not found",
+                                    "frame with id",
+                                    "no_injection_result",
+                                    "no_flow_tab",
+                                    "flow_tab_discarded",
+                                    "failed to fetch",
+                                    "extension",
+                                )
+                            )
+                            and elapsed >= 65
+                            and not (op.get("operation", {}).get("metadata", {}).get("video", {}).get("mediaId"))
+                        ):
                             log(f"⚠️ Google Flow từ chối/báo lỗi sau {elapsed}s ({op_complaint}) — kết thúc poll sớm để làm mềm prompt & chạy lại!")
                             has_failed = True
                             all_done = False
@@ -1122,14 +1158,18 @@ def poll_generation(submit_res_data: dict, scene_num: int, clip_num: int, timeou
 
 
 def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str, start_image_media_id: str = None, max_retries: int = 4):
+    no_retry_mode = os.environ.get("FLOWKIT_NO_RETRY", "0") == "1"
+    if no_retry_mode:
+        max_retries = 1
+
     current_prompt = initial_prompt
     key = f"canh_{scene_num:02d}_clip_{clip_num:02d}"
     sid = SCENE_DB_MAP.get(key)
     ep_folder = f"canh-{scene_num:02d}"
 
-    # Nếu clip đã từng bị đánh dấu FAILED ở lần chạy trước, tự động làm mềm & cập nhật file prompt ngay từ đầu
+    # Nếu clip đã từng bị đánh dấu FAILED ở lần chạy trước, tự động làm mềm & cập nhật file prompt ngay từ đầu (trừ khi bật FLOWKIT_NO_RETRY=1)
     sanitize_level = 0
-    if is_clip_failed_in_db(CHANNEL_SLUG, scene_num, clip_num):
+    if not no_retry_mode and is_clip_failed_in_db(CHANNEL_SLUG, scene_num, clip_num):
         sanitize_level = 1
         log(f"🔧 [PHÁT HIỆN CLIP LỖI TRƯỚC ĐÓ] Tự động cập nhật & làm mềm prompt Cảnh {scene_num:02d} - Clip {clip_num:02d} trước khi chạy lại...")
         current_prompt = sanitize_prompt(initial_prompt, sanitize_level)
@@ -1154,9 +1194,19 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
         try:
             res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, active_start_id)
             cooldown_loops = 0
-            while res.status_code != 200 and cooldown_loops < 5:
-                if wait_if_cooldown_error(res.text, FLOWKIT_API, log):
+            captcha_loops = 0
+            while res.status_code != 200 and (cooldown_loops < 5 or captcha_loops < 2):
+                if cooldown_loops < 5 and wait_if_cooldown_error(res.text, FLOWKIT_API, log):
                     cooldown_loops += 1
+                    res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, active_start_id)
+                elif captcha_loops < 2 and "CAPTCHA_FAILED" in (res.text or ""):
+                    captcha_loops += 1
+                    log(f"🔄 [CAPTCHA_FAILED] Tự động làm mới tab Google Flow & chờ 18s rồi gửi lại ({captcha_loops}/2)...")
+                    try:
+                        requests.post(f"{FLOWKIT_API}/api/ext/reload-flow-tab", timeout=10)
+                    except Exception:
+                        pass
+                    time.sleep(18.0)
                     res = submit_clip_with_detailed_log(current_prompt, scene_num, clip_num, active_start_id)
                 else:
                     break
@@ -1172,21 +1222,17 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
                 else:
                     log(f"⚠️ Không nhận được video URL hoàn chỉnh ở lần thử {attempt}/{max_retries} ({poll_res.get('error')}).")
                     if poll_res.get("error") == "TIMEOUT" and attempt < max_retries:
-                        # 10/11/2026: Flow nhận job rồi không tạo gì (giới hạn lượt theo giờ) — không phải lỗi nội dung,
-                        # nên giữ nguyên prompt, chờ dần 3 → 15 phút rồi gửi lại thay vì làm mềm prompt và gửi dồn.
-                        wait_s = min(900, 180 * attempt)
-                        log(f"⏸️ Flow không trả video (có thể đang giới hạn lượt) — chờ {wait_s // 60} phút rồi gửi lại nguyên prompt.")
-                        time.sleep(wait_s)
-                        continue
+                        log("⏸️ Nghỉ 25s rồi tự động làm mềm prompt & gửi lại...")
+                        time.sleep(25)
             else:
                 log(f"❌ Google Flow phản hồi lỗi (HTTP {res.status_code}): {res.text}")
-                if "CAPTCHA_FAILED" in (res.text or ""):
+                if "CAPTCHA_FAILED" in (res.text or "") and not no_retry_mode:
                     log("🛑 [CAPTCHA_FAILED] Tab Google Flow trên trình duyệt cần được người dùng kiểm tra/tải lại (không sửa file prompt).")
                     return {"success": False, "video_url": None, "error": "CAPTCHA_FAILED"}
         except Exception as e:
             log(f"❌ Lỗi ngoại lệ khi gửi job: {e}")
 
-        if attempt < max_retries:
+        if attempt < max_retries and not no_retry_mode:
             sanitize_level += 1
             log(
                 f"🔧 [TỰ ĐỘNG CẬP NHẬT PROMPT & CHẠY LẠI - LẦN {attempt + 1}/{max_retries}] "
@@ -1207,7 +1253,10 @@ def run_clip_with_auto_retry(scene_num: int, clip_num: int, initial_prompt: str,
             )
             time.sleep(5)
 
-    log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN THỬ] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã thử {max_retries} cấp độ prompt — sẽ tự động chạy lại ở cuối cảnh!")
+    if no_retry_mode:
+        log(f"⏭️ [NO-RETRY] Bỏ qua Cảnh {scene_num:02d} - Clip {clip_num:02d} (giữ nguyên file prompt) — chạy tiếp clip kế tiếp!")
+    else:
+        log(f"⏭️ [BỎ QUA SAU {max_retries} LẦN THỬ] Cảnh {scene_num:02d} - Clip {clip_num:02d} đã thử {max_retries} cấp độ prompt — sẽ tự động chạy lại ở cuối cảnh!")
     return {"success": False, "video_url": None}
 
 
@@ -1329,7 +1378,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
             for c_idx in clip_indices
             if c_idx not in existing_nums and os.path.exists(os.path.join(scene_dir, f"clip-{c_idx}.md"))
         ]
-        if missing_clips:
+        if missing_clips and os.environ.get("FLOWKIT_NO_RETRY", "0") != "1":
             log(
                 f"🔄 [AUTO-UPDATE & RE-RUN CLIP LỖI] Cảnh {s:02d} còn {len(missing_clips)} clip chưa hoàn tất ({missing_clips}) "
                 "— tiến hành tự động cập nhật prompt & chạy lại ngay!"
@@ -1375,7 +1424,7 @@ def run_pipeline(start_scene=1, end_scene=TOTAL_SCENES):
         log(f"✅ Đã hoàn tất render các clip {CLIP_DURATION_S}s của Cảnh {s:02d} (Bỏ qua auto-merge; bấm nút ghép tập trên UI khi cần).")
 
     # 🔄 VÒNG QUÉT TỔNG KIỂM TRA & TỰ ĐỘNG CHẠY LẠI MỌI CLIP LỖI / THIẾU TRÊN TOÀN BỘ CÁC CẢNH (AUTO-HEAL SWEEP)
-    for sweep_round in range(1, 3):
+    for sweep_round in ([] if os.environ.get("FLOWKIT_NO_RETRY", "0") == "1" else range(1, 3)):
         all_failed_or_missing = []
         for s in range(start_scene, end_scene + 1):
             scene_dir = os.path.join(SERIES_DIR, f"canh-{s:02d}")

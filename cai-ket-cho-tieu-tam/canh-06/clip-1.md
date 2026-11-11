@@ -26,7 +26,7 @@ Nobody else appears in the shot.
 
 [TIMELINE — second by second]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
-- 0–1s (Shot 1): @Tung comes in carrying a big cellophane-wrapped fruit basket and is already speaking sweetly with an eager smile, while @Thu sits at the cleared dining table with her mouth closed.
+- 0–1s (Shot 1): @Tung stands at the table holding a big cellophane-wrapped fruit basket and is already speaking sweetly with an eager smile, while @Thu sits at the cleared dining table with her mouth closed.
 - 1–2s (Shot 1): @Tung sets the basket on the table and keeps talking, too sweet.
 - 2–3s (Shot 1): @Tung keeps speaking as he slides a thick stack of papers with no readable writing and a pen across to @Thu.
 - 3–4s (CUT to Shot 2): @Tung keeps talking, tapping the pen on the stack.
@@ -44,7 +44,7 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.2s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, sugary, a little too sweet): "Mình ơi, ký giúp anh mấy tờ vay ngân hàng nhé, công trình mới đang cần vốn gấp lắm."
+- Turn 1, 0.4–5.2s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, sugary, a little too sweet): "Mình ơi, ký giúp anh mấy tờ hồ sơ vay nhé, công trình mới đang cần vốn gấp lắm."
 - Turn 2, 5.7–10.2s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking slowly and softly, unhurried, with a short natural pause between phrases, unhurried and polite): "Anh cứ để đấy. Giấy tờ thì em phải đọc đã, ký rồi khó rút lại."
 - Turn 3, 10.7–13.7s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking quickly in short lively phrases, every word still clear, overeager, nudging the basket): "Anh mua cả giỏ hoa quả cho mình đây này, toàn hàng nhập đấy!"
 - Pacing: @Tung speaks at an even everyday pace, then @Thu answers slowly and calmly, then @Tung answers quickly; the change of speed is clearly audible.
@@ -55,4 +55,4 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - SFX: cellophane crinkling, paper sliding across wood, a pen rolling, fingers drumming on a table. Ambience continues to 15.0s. No music.
 
 [AVOID]
-title cards, movie titles, episode titles, scene headers, chapter titles, lower-thirds, timecodes, subtitles, captions, on-screen text, typography overlays, readable letters or numbers, watermarks, logos, visual glitches, distorted hands, extra fingers, abrupt jump cuts.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

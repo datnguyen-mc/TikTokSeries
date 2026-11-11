@@ -366,7 +366,7 @@ def sync_dashboard_database(start_ep: int, end_ep: int):
                 "name": "365 Ngày Phèo Làm Nội Trợ",
                 "flow_project_id": PROJECT_ID,
                 "material": "3d_pixar",
-                "story": "Chú mèo đen mập Phèo trổ tài nấu ăn mỗi ngày cho bà chủ Hường đanh đá và những màn thưởng lật kèo hài hước.",
+                "story": "Mỗi ngày chú mèo đen Phèo và bà chủ Hường ngồi bàn trà bàn drama của ngày theo cách hài hước, mỗi clip một tin mới ở một lĩnh vực khác nhau, cuối tập Hường lật kèo.",
                 "characters": [
                     {"name": spec["tag"].lstrip("@"), "description": spec["description"]}
                     for spec in CHARACTER_SPECS
@@ -402,7 +402,7 @@ def sync_dashboard_database(start_ep: int, end_ep: int):
             v_payload = {
                 "project_id": PROJECT_ID,
                 "title": f"365 Ngày Phèo Làm Nội Trợ (Tập {start_ep:02d} - {end_ep:02d})",
-                "description": "Phèo vào bếp nấu món ngon mỗi ngày cho bà chủ Hường (Khung hình dọc 9:16)",
+                "description": "Phèo & bà chủ Hường bàn drama mỗi ngày theo cách hài hước (Khung hình dọc 9:16)",
                 "orientation": "VERTICAL"
             }
             res_v = requests.post(f"{FLOWKIT_API}/api/videos", json=v_payload, timeout=10)
@@ -1032,5 +1032,5 @@ def run_pipeline(start_ep=1, end_ep=20):
 
 if __name__ == "__main__":
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 1
-    end = int(sys.argv[2]) if len(sys.argv) > 2 else 23
+    end = int(sys.argv[2]) if len(sys.argv) > 2 else 24
     run_pipeline(start, end)

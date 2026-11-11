@@ -20,40 +20,40 @@ Nobody else appears in the shot.
 - Shot 2, 5–8s: 85mm close-up of the wife lifting her eyes from the page, slow push-in.
 - Shot 3, 8–10s: 40mm medium two-shot across the table, locked off.
 - Shot 4, 10–13s: 85mm close-up of the husband, locked off.
-- Shot 5, 13–15s: 40mm medium two-shot across the table, slow push-in toward the pen between them.
+- Shot 5, 13–15s: 40mm medium two-shot across the table, slow push-in toward the papers between them.
 - Continuity: continues the same moment, place and lighting as the previous shot; Shot 1 keeps the previous framing axis, no jump.
 - Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
 - Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the cuts.
 
 [TIMELINE — second by second]
 Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
-- 0–1s (Shot 1): @Tung leans over the table and is already speaking fast and impatiently, poking the pen at a corner of the page.
-- 1–2s (Shot 1): @Tung keeps talking over her, tapping the pen on the stack, while @Thu turns the pages slowly with her mouth closed.
-- 2–3s (Shot 1): @Tung keeps speaking fast, flapping his free hand at the papers.
-- 3–4s (Shot 1): @Tung keeps talking, pointing the pen at the place to sign.
-- 4–5s (Shot 1): @Tung finishes, closes his mouth and holds out the pen.
+- 0–1s (Shot 1): @Tung sits down across the table with a fixed smile and is already speaking sweetly, lifting the teapot.
+- 1–2s (Shot 1): @Tung keeps talking, pouring tea into her cup, while @Thu turns the pages slowly with her mouth closed.
+- 2–3s (Shot 1): @Tung keeps speaking, sliding the cup toward her.
+- 3–4s (Shot 1): @Tung keeps talking, his fingers drumming lightly on the table.
+- 4–5s (Shot 1): @Tung finishes, closes his mouth and sips his own tea.
 - 5–6s (CUT to Shot 2): @Thu stops on one page, lifts her eyes to his face and starts asking slowly.
 - 6–7s (Shot 2): @Thu keeps asking in a level voice, her eyes never leaving him.
 - 7–8s (Shot 2): @Thu keeps speaking quietly, each word placed with care.
 - 8–9s (CUT to Shot 3): @Thu keeps talking, one finger laid on the page with no readable writing.
 - 9–10s (Shot 3): @Thu finishes the question and closes her mouth, while @Tung's jaw tightens.
-- 10–11s (CUT to Shot 4): @Tung answers back fast, waving the pen.
+- 10–11s (CUT to Shot 4): @Tung sets his cup down too hard and answers fast, flustered.
 - 11–12s (Shot 4): @Tung keeps talking fast, his face reddening.
-- 12–13s (Shot 4): @Tung keeps talking, tapping the stack of papers impatiently.
+- 12–13s (Shot 4): @Tung keeps talking, waving one hand as if it is nothing.
 - 13–14s (CUT to Shot 5): @Tung finishes and closes his mouth, a bead of sweat on his temple.
-- 14–15s (Shot 5): @Thu holds his gaze in silence while the pen hangs in the air between them, both mouths closed. The sequence settles on this as its final frame.
+- 14–15s (Shot 5): @Thu holds his gaze in silence while the papers lie on the table between them, both mouths closed. The sequence settles on this as its final frame.
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.4s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking quickly in short lively phrases, every word still clear, impatient, talking over her): "Đọc làm gì cho mất thời gian! Toàn chữ chuyên môn thôi, em cứ ký vào đây là xong!"
-- Turn 2, 4.9–9.4s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking slowly and softly, unhurried, with a short natural pause between phrases, level and piercing): "Em đọc rồi. Sao trang đầu lại là hợp đồng tặng cho nhà đất hả anh?"
-- Turn 3, 9.9–12.9s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking quickly in short lively phrases, every word still clear, caught out, blustering): "Thủ tục nó bắt thế! Em hỏi lắm thế làm gì! Ký nhanh lên!"
-- Pacing: @Tung speaks quickly, then @Thu answers slowly and calmly, then @Tung answers quickly; the change of speed is clearly audible.
+- Turn 1, 0.4–4.7s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, sugary, hovering): "Mình cứ đọc từ từ thôi, anh ngồi đây pha thêm ấm trà mới cho mình nhé."
+- Turn 2, 5.2–10.0s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking slowly and softly, unhurried, with a short natural pause between phrases, level and piercing): "Em đọc rồi. Giấy công trình gì mà trang đầu lại ghi tên người khác hả anh?"
+- Turn 3, 10.5–13.7s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking quickly in short lively phrases, every word still clear, caught out, flustered): "Chắc bên công ty in nhầm thôi mình ạ! Để mai anh hỏi lại cho."
+- Pacing: @Tung speaks at an even everyday pace, then @Thu answers slowly and calmly, then @Tung answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
-- All speech is over by 12.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
+- All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
-- SFX: pages turning, a pen clicking, the clock ticking loud in the silence, a moped passing in the alley. Ambience continues to 15.0s. No music.
+- SFX: pages turning, tea pouring into a cup, the clock ticking loud in the silence, a moped passing in the alley. Ambience continues to 15.0s. No music.
 
 [AVOID]
 On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

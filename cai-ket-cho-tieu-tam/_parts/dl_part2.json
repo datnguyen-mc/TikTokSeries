@@ -799,19 +799,19 @@
     "turns": [
      {
       "speaker": "@Vy",
-      "line": "Anh ơi, bố mẹ em ở quê khó tính lắm. Ngoài căn nhà, phải thêm năm tỷ sính lễ thì mới gả.",
+      "line": "Anh ơi, bố mẹ em ở quê khó tính lắm. Sính lễ phải thật to, có cả căn nhà thì mới gả.",
       "pace": "normal",
       "tone": "sweet and wheedling"
      },
      {
       "speaker": "@Tung",
-      "line": "Năm tỷ thì anh xoay được. Còn căn nhà phải đợi bà ấy ký đã, em cứ từ từ.",
+      "line": "Sính lễ thì anh lo được. Còn nhà thì phải đợi bà ấy đồng ý, em cứ từ từ.",
       "pace": "normal",
       "tone": "hesitant"
      },
      {
       "speaker": "@Vy",
-      "line": "Từ từ đến bao giờ? Thế anh giục nhanh lên.",
+      "line": "Từ từ đến bao giờ? Em sốt ruột lắm rồi đấy.",
       "pace": "fast",
       "tone": "pouting"
      }
@@ -1578,7 +1578,7 @@
     "turns": [
      {
       "speaker": "@Thu",
-      "line": "Vâng, ảnh cưới với địa chỉ quê họ em gửi anh rồi. Đây là lần thứ ba họ làm thế, lần nào cũng một bài. Tối mai, ở sảnh tiệc khách sạn. Vâng, em sẽ giữ họ ở lại đến khi các anh tới. Anh cứ yên tâm.",
+      "line": "Vâng, ảnh cưới của họ em gửi anh đủ rồi. Đây là lần thứ ba họ làm thế, lần nào cũng một bài. Tối mai, ở sảnh tiệc khách sạn. Vâng, em sẽ ở đó từ sớm, chờ các anh tới. Anh cứ yên tâm, em lo được.",
       "pace": "normal",
       "tone": "steady and low, on the phone"
      }

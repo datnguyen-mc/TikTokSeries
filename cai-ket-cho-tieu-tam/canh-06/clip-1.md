@@ -44,13 +44,13 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 
 [AUDIO]
 - Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.2s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, sugary, a little too sweet): "Mình ơi, ký giúp anh mấy tờ hồ sơ vay nhé, công trình mới đang cần vốn gấp lắm."
-- Turn 2, 5.7–10.2s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking slowly and softly, unhurried, with a short natural pause between phrases, unhurried and polite): "Anh cứ để đấy. Giấy tờ thì em phải đọc đã, ký rồi khó rút lại."
-- Turn 3, 10.7–13.7s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking quickly in short lively phrases, every word still clear, overeager, nudging the basket): "Anh mua cả giỏ hoa quả cho mình đây này, toàn hàng nhập đấy!"
+- Turn 1, 0.4–4.7s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking at a natural, even conversational pace, sugary, a little too sweet): "Mình ơi, anh có mấy tờ giấy tờ công trình, mình xem rồi ký giúp anh nhé."
+- Turn 2, 5.2–9.7s, spoken on camera by @Thu (woman of 34, soft low mezzo, warm and very steady, never raises her voice, speaking slowly and softly, unhurried, with a short natural pause between phrases, unhurried and polite): "Anh cứ để đấy. Giấy tờ thì em phải đọc đã, ký rồi khó rút lại."
+- Turn 3, 10.2–13.2s, spoken on camera by @Tung (man of 37, deep heavy baritone, clipped and self-important, speaking quickly in short lively phrases, every word still clear, overeager, nudging the basket): "Anh mua cả giỏ hoa quả cho mình đây này, toàn hàng nhập đấy!"
 - Pacing: @Tung speaks at an even everyday pace, then @Thu answers slowly and calmly, then @Tung answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
 - Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
-- All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
+- All speech is over by 13.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
 - Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
 - SFX: cellophane crinkling, paper sliding across wood, a pen rolling, fingers drumming on a table. Ambience continues to 15.0s. No music.
 

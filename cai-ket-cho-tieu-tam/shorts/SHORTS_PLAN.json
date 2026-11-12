@@ -1,0 +1,315 @@
+{
+ "series": "cai-ket-cho-tieu-tam",
+ "film_title": "Chính Thất Cao Tay, Tiểu Tam Trắng Tay",
+ "tag": "CHÍNH THẤT CAO TAY",
+ "style": {"tag_bg": "#C8102E", "accent": "#FFD43B"},
+ "speaker_colors": {"@Thu": "#FFE066"},
+ "fixes": {
+  "17.2": {"delogo": [1078, 44, 152, 70]},
+  "02.4": {"crop": [1152, 648, 64, 36]}
+ },
+ "subtitle_replace": {"\\bVi\\b": "Vy"},
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 25 phút có trên kênh YouTube, tìm “Chính Thất Cao Tay”",
+ "final_cta": "🎬 Hết phim! Xem lại trọn bộ 25 phút trên kênh YouTube.",
+ "final_badge": "HẾT PHIM",
+ "final_end_text": "Xem trọn bộ [25 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": ["#chinhthatcaotay", "#tieutam", "#phimngan", "#phimgiadinh"],
+  "youtube": ["#chinhthatcaotay", "#tieutam", "#phimngan"],
+  "facebook": ["#ChinhThatCaoTay", "#TieuTam", "#PhimNgan", "#PhimGiaDinh"]
+ },
+ "schedule": {"start": "2026-11-13", "per_day": 2, "times": ["12:00", "20:00"]},
+ "readme_intro": [
+  "# Chính Thất Cao Tay — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Phim 25 phút được cắt thành **25 phần dọc 9:16**, mỗi phần là một mạch truyện trọn vẹn (mở bằng câu thoại gây tò mò, kết bằng câu chốt) dài 30–60 giây, đăng nối tiếp như một series.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn đỏ “CHÍNH THẤT CAO TAY • PHẦN N” và câu hook ở trên khung phim; phụ đề khớp tiếng ở dưới khung phim (lời chị Thu màu vàng, người khác màu trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper), chính tả sửa theo kịch bản. Câu Omni nói khác kịch bản thì phụ đề theo tiếng thật.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm).",
+  "- **Thư mục mỗi phần** (`phan-XX-.../`): video `.mp4`, ảnh bìa `cover.jpg`, phụ đề rời `phu-de.srt` (tải lên YouTube/Facebook làm CC nếu muốn), và `caption.md` có sẵn caption TikTok, tiêu đề + mô tả YouTube, caption Facebook để copy.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam            # tất cả",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam --only 17  # một phần",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam --captions # chỉ caption + README",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Chính Thất Cao Tay”. Chọn ảnh bìa bằng khung hình có hook (giây đầu) hoặc tải `cover.jpg`. Ghim 3 phần ⭐ đầu tiên lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả trong `caption.md`; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về phim full.",
+  "- **Facebook Reels:** dán caption, bật “Tạo phụ đề tự động” tắt đi (phụ đề đã in sẵn trên video).",
+  "- Mỗi ngày 2 phần (12:00 và 20:00), 3 nền tảng cùng giờ. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Đã xử lý trong bản short",
+  "",
+  "- **Logo VTV** Omni tự vẽ ở góc phải clip 17.2 → xoá bằng delogo (phần 17). Logo này **vẫn còn trong bản FULL YouTube** (khoảng 16:15–16:30).",
+  "- **Khung máy quay giả** (chữ “24 fps”, “HÀ NỘI” ở viền) trong clip 02.4 → phóng nhẹ để cắt viền (phần 2). Bản FULL vẫn còn.",
+  "- **Nói lặp:** 11.3 lặp nguyên câu “Bố cũng chẳng chịu nghe con nói” → cắt ở 10,05 s; 17.2 chen câu “cũng là đạo cụ à?” trước lượt → bỏ đoạn 8,5–10,13 s.",
+  "- **Clip 09.1 hỏng tiếng:** Omni nói ra chuỗi vô nghĩa (“May là một của trong trăm năm môi nghiên…”), không dùng trong short. Bản FULL vẫn chứa clip này ở khoảng 08:00–08:15, nên render lại."
+ ],
+ "shorts": [
+  {
+   "n": 1, "slug": "tieu-tam-dat-ao-cuoi", "top": true,
+   "title": "Tiểu tam đến tận tiệm vợ cả đặt may áo cưới",
+   "hook": "Tiểu tam đến tận tiệm vợ cả\nđặt may [ÁO CƯỚI]",
+   "segments": [{"clip": "01.2"}, {"clip": "01.3"}, {"clip": "01.4"}],
+   "caption": "Cô thư ký váy đỏ đến tận tiệm may của vợ cả: “Em cần may áo dài cưới. Chú rể là anh Tùng, chồng của chị đấy.” Chính thất không khóc, không làm ầm, chỉ rút thước dây ra đo… “Giận thì tốn vải lắm em ạ.”",
+   "question": "Là bạn, bạn nhận may hay đuổi thẳng?",
+   "yt_title": "Tiểu tam đến tận tiệm vợ cả đặt may áo cưới, chú rể là chồng chị | Chính Thất Cao Tay P1",
+   "tags": ["#aodai", "#ngoaitinh"]
+  },
+  {
+   "n": 2, "slug": "co-ao-thom-nuoc-hoa",
+   "title": "Cổ áo chồng thơm đúng mùi nước hoa cô dâu",
+   "hook": "Cổ áo chồng thơm đúng mùi\nnước hoa của [CÔ DÂU] ấy",
+   "segments": [{"clip": "02.2"}, {"clip": "02.3"}, {"clip": "02.4"}],
+   "caption": "Con gái được điểm mười chờ bố về ăn cơm, bố chẳng buồn nhìn lấy một cái. Vợ chỉ kể chuyện “cô khách đặt áo cưới, chú rể tên Tùng”… rồi hỏi khẽ về mùi nước hoa trên cổ áo chồng.",
+   "question": "Câu nào của chị Thu thấm nhất?",
+   "yt_title": "Vợ kể chuyện khách đặt áo cưới, chồng giật mình: cổ áo thơm mùi nước hoa | Chính Thất Cao Tay P2",
+   "tags": ["#chongngoaitinh", "#giadinh"]
+  },
+  {
+   "n": 3, "slug": "me-chong-giu-bi-mat",
+   "title": "Mẹ chồng giữ cho con dâu một đường lui",
+   "hook": "Mẹ chồng đứng về phía con dâu,\ngiữ [BÍ MẬT 12 NĂM]",
+   "segments": [{"clip": "03.1"}, {"clip": "03.2"}, {"clip": "03.3"}, {"clip": "03.4"}],
+   "caption": "Mẹ chồng thấy con trai khoác tay cô váy đỏ ở hiệu vàng. Bà không trách con dâu, bà mở lại chuyện 12 năm trước: tiền vốn là đất bố Thu để lại, và căn nhà này… đứng tên ai.",
+   "question": "Mẹ chồng thế này ai muốn xin một bà không?",
+   "yt_title": "Mẹ chồng giữ bí mật 12 năm để bảo vệ con dâu | Chính Thất Cao Tay P3",
+   "tags": ["#mechongnangdau", "#mechong"]
+  },
+  {
+   "n": 4, "slug": "vo-chong-nha-lua", "top": true,
+   "title": "Cô thư ký ngây thơ hoá ra đã có chồng",
+   "hook": "Cô thư ký ngây thơ về nhà…\nhoá ra [ĐÃ CÓ CHỒNG]",
+   "segments": [{"clip": "04.1"}, {"clip": "04.2"}, {"clip": "04.3"}, {"clip": "04.4"}],
+   "caption": "Ra ngoài là cô thư ký ngây thơ, về nhà đeo nhẫn cưới vào, gọi “anh họ luật sư” là… chồng. Ông giám đốc chỉ là “vai thứ ba” của cô ấy.",
+   "question": "Giờ thì ai mới là người bị lừa?",
+   "yt_title": "Cô thư ký ngây thơ về nhà, gọi anh họ luật sư là CHỒNG | Chính Thất Cao Tay P4",
+   "tags": ["#luadao", "#plottwist"]
+  },
+  {
+   "n": 5, "slug": "vet-han-nhan-cuoi",
+   "title": "Chính thất phát hiện vết hằn nhẫn trên tay tiểu tam",
+   "hook": "Đo áo cho tiểu tam, phát hiện\n[VẾT HẰN NHẪN CƯỚI]",
+   "segments": [{"clip": "05.1"}, {"clip": "05.2"}, {"clip": "05.3"}, {"clip": "05.4"}],
+   "caption": "Tiểu tam khoe được hứa tặng căn nhà ba tầng, nơi con gái chính thất sinh ra. Chị Thu không cãi, chỉ đo tay… và thấy vết hằn nhẫn trên ngón áp út. “Nhìn dáng là biết số đo, nhìn mắt là biết lòng người.”",
+   "question": "Bạn có tinh mắt như chị Thu không?",
+   "yt_title": "Chính thất đo áo cho tiểu tam, phát hiện vết hằn nhẫn cưới | Chính Thất Cao Tay P5",
+   "tags": ["#aodai", "#chinhthat"]
+  },
+  {
+   "n": 6, "slug": "to-giay-ky-khong-doc",
+   "title": "Chồng nhờ vợ ký giấy, vợ đọc trang đầu",
+   "hook": "Chồng mua quà nhờ vợ ký giấy,\nvợ [ĐỌC TRANG ĐẦU]…",
+   "segments": [{"clip": "06.1"}, {"clip": "06.2"}, {"clip": "06.3"}, {"clip": "06.4"}],
+   "caption": "Chồng mua cả giỏ hoa quả nhập, pha ấm trà mới, nhờ vợ ký mấy tờ “giấy công trình”. Vợ đọc trang đầu, thấy tên người khác. Chồng lật bài: ly hôn. Chị Thu chỉ đáp: “Ký gì, ký lúc nào, ở đâu, trước mặt ai, là em chọn.”",
+   "question": "Chị Thu định chọn ký ở đâu nhỉ?",
+   "yt_title": "Chồng nhờ vợ ký giấy, vợ đọc trang đầu thì chồng lật bài ly hôn | Chính Thất Cao Tay P6",
+   "tags": ["#lyhon", "#chongngoaitinh"]
+  },
+  {
+   "n": 7, "slug": "luat-su-cam-cap-nguoc",
+   "title": "Luật sư cầm cặp ngược",
+   "hook": "Luật sư gì mà\n[CẦM CẶP NGƯỢC] thế kia?",
+   "segments": [{"clip": "07.1"}, {"clip": "07.2"}, {"clip": "07.3"}, {"clip": "07.4"}],
+   "caption": "“Anh họ luật sư” đến ép chính thất ký ly hôn, nhận 100 triệu. Mẹ chồng chỉ hỏi: “Cậu cầm cái cặp ngược thế kia là theo luật nào?” 😂 Nhưng chị Thu còn để ý một thứ khác: chiếc nhẫn trên tay cậu ta.",
+   "question": "Ai để ý cái nhẫn từ đầu giống chị Thu?",
+   "yt_title": "Luật sư gì mà cầm cặp ngược? Mẹ chồng hỏi 1 câu là lộ | Chính Thất Cao Tay P7",
+   "tags": ["#hai", "#mechong"]
+  },
+  {
+   "n": 8, "slug": "me-chong-bat-tieu-tam-lau-nha", "top": true,
+   "title": "Tiểu tam về ra mắt, mẹ chồng bắt lau nhà",
+   "hook": "Tiểu tam về ra mắt,\nmẹ chồng bắt [LAU NHÀ]",
+   "segments": [{"clip": "08.1"}, {"clip": "08.2"}, {"clip": "08.3"}, {"clip": "08.4"}],
+   "caption": "Con trai dẫn bồ về ra mắt. Mẹ chồng 70 tuổi “lẫn” luôn: tưởng là giúp việc mới, đưa cây lau nhà, bắt lau cả gầm tủ. Tiểu tam lỡ miệng chửi bà… và bà chép vào sổ từng chữ một.",
+   "question": "Bà nội này diễn có xứng giải Oscar không? 😂",
+   "yt_title": "Tiểu tam về ra mắt, mẹ chồng giả lẫn bắt lau nhà | Chính Thất Cao Tay P8",
+   "tags": ["#mechongnangdau", "#hai"]
+  },
+  {
+   "n": 9, "slug": "ve-que-tieu-tam",
+   "title": "Về quê tiểu tam, thấy ảnh cưới trên bàn thờ",
+   "hook": "Về quê tiểu tam, thấy\n[ẢNH CƯỚI] trên bàn thờ",
+   "segments": [{"clip": "09.2"}, {"clip": "09.3"}, {"clip": "09.4"}],
+   "caption": "Về tận quê cô dâu ở Nam Định. Trên tường gian thờ là ảnh cưới của cô ta, và chú rể… là “anh họ luật sư” cầm cặp ngược. Cưới nhau ba năm rồi, cả xóm đều biết.",
+   "question": "Sao chị Thu chưa mang ảnh về cho chồng xem ngay?",
+   "yt_title": "Về quê tiểu tam, thấy ảnh cưới trên bàn thờ: chú rể là ai? | Chính Thất Cao Tay P9",
+   "tags": ["#namdinh", "#plottwist"]
+  },
+  {
+   "n": 10, "slug": "be-na-theo-bo",
+   "title": "Tiểu tam mua chuộc con gái chính thất",
+   "hook": "Tiểu tam mua chuộc con gái\nbằng [MÁY TÍNH BẢNG]",
+   "segments": [{"clip": "10.1"}, {"clip": "10.2"}, {"clip": "10.3"}, {"clip": "10.4"}],
+   "caption": "Tiểu tam tặng con gái chính thất máy tính bảng, rủ sang nhà bố bơi trên tầng thượng. Mẹ không cấm, còn gấp sẵn áo khoác cho con… nhưng mắt đỏ hoe. “Lụa đỏ nhiều bụi lắm mẹ ạ.”",
+   "question": "Bạn có dám để con đi như chị Thu không?",
+   "yt_title": "Tiểu tam mua chuộc con gái chính thất, mẹ vẫn cho đi | Chính Thất Cao Tay P10",
+   "tags": ["#lamme", "#giadinh"]
+  },
+  {
+   "n": 11, "slug": "nha-bo-khong-co-me",
+   "title": "Nhà bố có bể bơi nhưng không có mẹ",
+   "hook": "Nhà bố có bể bơi…\nnhưng [KHÔNG CÓ MẸ]",
+   "segments": [{"clip": "11.1"}, {"clip": "11.2"}, {"clip": "11.3", "to": 10.05}, {"clip": "11.4"}],
+   "caption": "Bé Na vẽ tặng cô bức tranh cả nhà, bị mắng vì làm bẩn ghế da. Rồi bé nghe được cuộc gọi của cô… Bố không tin. Bé tự tìm đường về: “Mẹ ơi, nhà bố có bể bơi nhưng không có mẹ.”",
+   "question": "Câu nói của bé Na làm bạn nghĩ đến ai?",
+   "yt_title": "“Nhà bố có bể bơi nhưng không có mẹ”: con gái tự bỏ về | Chính Thất Cao Tay P11",
+   "tags": ["#xucdong", "#lamme"]
+  },
+  {
+   "n": 12, "slug": "nam-ty-sinh-le",
+   "title": "Chuyển 5 tỷ sính lễ, cô dâu hứa làm vợ đúng 1 ngày",
+   "hook": "Chuyển [5 TỶ] sính lễ, cô dâu\nhứa làm vợ đúng 1 ngày",
+   "segments": [{"clip": "12.1"}, {"clip": "12.2"}, {"clip": "12.3"}, {"clip": "12.4"}],
+   "caption": "Bố mẹ ở quê “khó tính”, sính lễ phải thật to. Ông giám đốc chuyển 5 tỷ qua “văn phòng luật của anh họ”. Cô dâu ngọt ngào: “Anh yên tâm, em làm vợ anh… đúng một ngày thôi.”",
+   "question": "Bạn nghe ra ẩn ý trong câu cuối chưa?",
+   "yt_title": "Chuyển 5 tỷ sính lễ, cô dâu hứa làm vợ đúng 1 ngày | Chính Thất Cao Tay P12",
+   "tags": ["#luadao", "#sinhle"]
+  },
+  {
+   "n": 13, "slug": "chinh-that-dong-y-ly-hon", "top": true,
+   "title": "Vợ đồng ý ly hôn với một điều kiện",
+   "hook": "Vợ đồng ý ly hôn, điều kiện:\nký [Ở ĐÁM HỎI] của chồng",
+   "segments": [{"clip": "13.1"}, {"clip": "13.2"}, {"clip": "13.3"}, {"clip": "13.4"}],
+   "caption": "Vợ đồng ý ly hôn, không tranh gì. Điều kiện duy nhất: ký ngay tại đám hỏi của chồng, trước mặt hai họ. “Ra toà thì ít người xem quá.” Và câu chốt: “Đến hôm nay em mới đo được đúng số đo của anh.”",
+   "question": "Câu nào của chị Thu đỉnh nhất?",
+   "yt_title": "Vợ đồng ý ly hôn với 1 điều kiện: ký ở đám hỏi của chồng | Chính Thất Cao Tay P13",
+   "tags": ["#lyhon", "#chinhthat"]
+  },
+  {
+   "n": 14, "slug": "buoi-thu-ao-cuoi-cung",
+   "title": "Tiểu tam doạ cho chính thất trắng tay",
+   "hook": "Tiểu tam doạ cho chính thất\n[TRẮNG TAY] ra đường",
+   "segments": [{"clip": "14.1"}, {"clip": "14.2"}, {"clip": "14.3"}, {"clip": "14.4"}],
+   "caption": "Áo cưới đẹp đến mức tiểu tam phải hỏi: “Chị may cho người cướp chồng mình mà khéo thế à?” Rồi doạ cho chị trắng tay ra đường. “Trắng tay thì chị quen rồi em ạ… Chị chỉ lo cho người chưa quen thôi.”",
+   "question": "Ai mới là người sắp trắng tay?",
+   "yt_title": "Tiểu tam doạ cho chính thất trắng tay, nhận lại 1 câu lạnh gáy | Chính Thất Cao Tay P14",
+   "tags": ["#aodaicuoi", "#chinhthat"]
+  },
+  {
+   "n": 15, "slug": "dem-truoc-dam-hoi",
+   "title": "Đêm trước đám hỏi",
+   "hook": "Mẹ đến đám hỏi để xem con trai\n[TỰ ĐÀO HỐ] chôn mình",
+   "segments": [{"clip": "15.2"}, {"clip": "15.3"}, {"clip": "15.4"}],
+   "caption": "Đêm trước đám hỏi: con gái hỏi mẹ có buồn không, chú rể thấy hai vé bay trong túi cô dâu, còn mẹ chồng nói thẳng: “Mẹ đến để xem con trai mẹ tự tay đào hố chôn mình.”",
+   "question": "Hai vé bay ấy là đi đâu?",
+   "yt_title": "Mẹ đến đám hỏi để xem con trai tự đào hố chôn mình | Chính Thất Cao Tay P15",
+   "tags": ["#mechong", "#damhoi"]
+  },
+  {
+   "n": 16, "slug": "vo-ca-den-dam-hoi",
+   "title": "Vợ cả đeo tạp dề đến đám hỏi của chồng",
+   "hook": "Vợ cả đeo tạp dề\nđến [ĐÁM HỎI] của chồng",
+   "segments": [{"clip": "16.2"}, {"clip": "16.3"}, {"clip": "16.4"}],
+   "caption": "Đám hỏi linh đình, giấy sang tên nhà chỉ còn thiếu chữ ký của vợ cả. Chị Thu đến thật: đeo tạp dề, mang áo cưới và một món quà cưới “chuẩn bị lâu lắm”.",
+   "question": "Đoán xem món quà là gì?",
+   "yt_title": "Vợ cả đeo tạp dề đến đám hỏi của chồng, mang theo một món quà | Chính Thất Cao Tay P16",
+   "tags": ["#damhoi", "#chinhthat"]
+  },
+  {
+   "n": 17, "slug": "mon-qua-cuoi", "top": true,
+   "title": "Quà cưới: ảnh cưới lần trước của tiểu tam",
+   "hook": "Quà cưới vợ cả tặng tiểu tam:\n[ẢNH CƯỚI LẦN TRƯỚC]",
+   "segments": [{"clip": "17.1"}, {"clip": "17.2", "to": 8.5}, {"clip": "17.2", "from": 10.13},
+                {"clip": "17.3"}, {"clip": "17.4"}],
+   "caption": "Quà cưới vợ cả tặng tiểu tam: ảnh cưới lần trước của cô ta, xin từ bàn thờ nhà cô dâu ở Nam Định. Chú rể trong ảnh… là anh họ luật sư. Còn ông bà ngồi bàn đầu? Diễn viên thuê, một triệu một buổi.",
+   "question": "Khoảnh khắc nào hả hê nhất?",
+   "yt_title": "Quà cưới vợ cả tặng tiểu tam: ảnh cưới lần trước của cô ta | Chính Thất Cao Tay P17",
+   "tags": ["#hahe", "#plottwist"]
+  },
+  {
+   "n": 18, "slug": "so-do-dung-ten-ai", "top": true,
+   "title": "Chồng hứa tặng bồ căn nhà đứng tên vợ",
+   "hook": "Chồng hứa tặng bồ căn nhà…\nsổ đỏ [ĐỨNG TÊN VỢ]",
+   "segments": [{"clip": "18.1"}, {"clip": "18.2"}, {"clip": "18.3"}],
+   "caption": "Tiểu tam vẫn đòi căn nhà làm sính lễ. Chính thất rút sổ đỏ: đứng tên chị từ 12 năm trước. Nhà và 60% cổ phần là của vợ. Chồng van xin… “Anh còn nợ con một bữa cơm, con bé vẫn để phần bát cho bố.”",
+   "question": "Chồng thế này có đáng được tha không?",
+   "yt_title": "Chồng hứa tặng bồ căn nhà, sổ đỏ lại đứng tên vợ | Chính Thất Cao Tay P18",
+   "tags": ["#sodo", "#hahe"]
+  },
+  {
+   "n": 19, "slug": "loi-thoat-hiem",
+   "title": "Tiểu tam bỏ trốn nhưng áo cưới may quá khít",
+   "hook": "Tiểu tam bỏ trốn, nhưng\náo cưới [MAY QUÁ KHÍT]",
+   "segments": [{"clip": "19.1"}, {"clip": "19.2"}, {"clip": "19.3"}, {"clip": "19.4"}],
+   "caption": "Cặp vợ chồng lừa đảo ôm tiền chạy cửa sau. Nhưng áo cưới may khít quá, tiểu tam chỉ nhích được từng bước, và bà thợ may đã đo sẵn cả đường chạy. “Tại em đặt áo cưới nhầm tiệm.”",
+   "question": "Chi tiết áo may khít, có ai đoán ra từ đầu không?",
+   "yt_title": "Tiểu tam bỏ trốn khỏi đám hỏi nhưng áo cưới may quá khít | Chính Thất Cao Tay P19",
+   "tags": ["#hai", "#luadao"]
+  },
+  {
+   "n": 20, "slug": "cay-tung-do",
+   "title": "Mất trắng sau đám hỏi, mẹ nói một câu",
+   "hook": "Mất trắng sau đám hỏi,\nmẹ nói 1 câu [THẤM TẬN XƯƠNG]",
+   "segments": [{"clip": "20.1"}, {"clip": "20.2"}, {"clip": "20.3"}, {"clip": "20.4"}],
+   "caption": "Năm tỷ bị phong toả, trả về công ty… của vợ. Ngồi một mình giữa sảnh tiệc vắng, anh nghe mẹ nói: “Một tà váy đỏ lướt qua là cây tùng nhà mẹ đổ rạp.”",
+   "question": "Lời mẹ dặn cuối cùng có làm bạn nhớ ai không?",
+   "yt_title": "Mất trắng sau đám hỏi, mẹ nói 1 câu khiến con trai lặng người | Chính Thất Cao Tay P20",
+   "tags": ["#loime", "#baihoc"]
+  },
+  {
+   "n": 21, "slug": "tu-giam-doc-xuong-be-gach", "top": true,
+   "title": "Vợ thành chủ tịch, chồng xuống công trường",
+   "hook": "Từ giám đốc\nxuống công trường [BÊ GẠCH]",
+   "segments": [{"clip": "21.1"}, {"clip": "21.2"}, {"clip": "21.3"}, {"clip": "21.4"}],
+   "caption": "Họp cổ đông, vợ là cổ đông lớn nhất. Quyết định: chồng xuống công trường làm đội trưởng, sáu giờ sáng có mặt, ăn lương công nhật. Anh hỏi còn cơ hội nào không… “Lòng người rách rồi, vá khéo mấy cũng còn vết khâu.”",
+   "question": "Bạn có cho anh ấy thêm cơ hội không?",
+   "yt_title": "Vợ thành chủ tịch, chồng từ giám đốc xuống công trường bê gạch | Chính Thất Cao Tay P21",
+   "tags": ["#baihoc", "#chinhthat"]
+  },
+  {
+   "n": 22, "slug": "phong-tham-gap", "top": true,
+   "title": "Chính thất vào trại thăm tiểu tam",
+   "hook": "Chính thất vào trại thăm\ntiểu tam, hỏi [ĐÚNG 1 CÂU]",
+   "segments": [{"clip": "22.1"}, {"clip": "22.2"}, {"clip": "22.3"}, {"clip": "22.4"}],
+   "caption": "Chính thất vào trại thăm tiểu tam, chỉ để hỏi một câu. Rồi chị mở cho cô ta một con đường. “Chị không muốn thêm người vợ nào phải ngồi may áo cưới cho chồng mình nữa.”",
+   "question": "Bạn có làm được như chị Thu không?",
+   "yt_title": "Chính thất vào trại thăm tiểu tam, hỏi đúng 1 câu | Chính Thất Cao Tay P22",
+   "tags": ["#baihoc", "#nhanvan"]
+  },
+  {
+   "n": 23, "slug": "bo-be-gach-con-mang-com",
+   "title": "Cựu giám đốc bê gạch, con gái mang cơm",
+   "hook": "Cựu giám đốc bê [400 VIÊN GẠCH]\nmột ngày",
+   "segments": [{"clip": "23.1"}, {"clip": "23.2"}, {"clip": "23.3"}, {"clip": "23.4"}],
+   "caption": "Ngày trước ký một chữ là xong cả toà nhà, giờ một ngày bê 400 viên gạch. Con gái mang cơm mẹ gửi, có cả trứng rán bố thích. Lần này bố hứa sẽ ngồi hàng ghế đầu xem con múa.",
+   "question": "Ai cũng xứng đáng có cơ hội làm lại, đúng không?",
+   "yt_title": "Cựu giám đốc đi bê gạch, con gái mang cơm mẹ gửi | Chính Thất Cao Tay P23",
+   "tags": ["#chacon", "#xucdong"]
+  },
+  {
+   "n": 24, "slug": "ao-dai-mung-tho",
+   "title": "Bà nội 71 tuổi đòi đi bước nữa",
+   "hook": "Bà nội 71 tuổi mặc áo dài mới,\nđòi [ĐI BƯỚC NỮA]",
+   "segments": [{"clip": "24.1"}, {"clip": "24.2"}, {"clip": "24.3"}, {"clip": "24.4"}],
+   "caption": "Bà nội 71 tuổi mặc áo dài con dâu may, tuyên bố muốn “đi bước nữa” 😂 Còn vị khách đứng mãi ngoài cửa là ai? “Tiền mồ hôi nên bánh ngọt hơn hẳn mọi năm đấy.”",
+   "question": "Bà nội này có đáng yêu không cả nhà?",
+   "yt_title": "Bà nội 71 tuổi đòi đi bước nữa, khách đến muộn là ai? | Chính Thất Cao Tay P24",
+   "tags": ["#banoi", "#giadinh"]
+  },
+  {
+   "n": 25, "slug": "tieu-tam-la-gi-ha-me", "top": true,
+   "title": "Tiểu tam là gì hả mẹ?",
+   "hook": "Con gái hỏi:\n[TIỂU TAM] là gì hả mẹ?",
+   "segments": [{"clip": "25.2"}, {"clip": "25.3"}, {"clip": "25.4"}],
+   "caption": "Con gái hỏi: “Tiểu tam là gì hả mẹ?” Mẹ đáp: “Là người đi đặt may áo cưới nhầm tiệm, con ạ.” Kết phim: đo được vai, đo được eo… còn lòng người thì sao?",
+   "question": "Câu kết này mấy điểm?",
+   "yt_title": "“Tiểu tam là gì hả mẹ?” Câu trả lời của chính thất | Chính Thất Cao Tay (Tập cuối)",
+   "tags": ["#ketphim", "#chinhthat"]
+  }
+ ]
+}

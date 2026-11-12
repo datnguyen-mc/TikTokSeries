@@ -2,7 +2,7 @@
 """Compile a series' PHAN_CANH_OMNI.json (N scenes × 6 clips × 10s) into Google Flow Omni prompts.
 
 Used by can-nha-am-duong, tieng-go-dem-ba-gio, ma-da-dam-sen (15 scenes), gang-to-tai-xuat (27 scenes × 4 × 15s)
-and cai-ket-cho-tieu-tam (25 scenes × 4 × 15s).
+cai-ket-cho-tieu-tam (25 scenes × 4 × 15s) and bay-ngay-sinh-ton (24 scenes × 4 × 15s, English).
 
     python3 flowkit/scripts/build_omni_horror_prompts.py can-nha-am-duong          # validate + write
     python3 flowkit/scripts/build_omni_horror_prompts.py tieng-go-dem-ba-gio --check # validate only
@@ -26,6 +26,14 @@ Optional per-series / per-clip fields (10/11/2026):
   the pace phrase follows the character's fixed voice and sets the syllable rate,
   so the speech window grows for slow lines; once one turn has a pace, all must;
 - "wardrobe": {"@Tag": "outfit"} replaces the outfit part of that anchor for one clip.
+
+Optional "language" (12/11/2026, user: phim nhắm khán giả toàn cầu, thoại tiếng Anh, YouTube lo phụ đề):
+"vi" (default) or "en". With "en" the prompts ask for English dialogue, word counts replace syllable
+counts, and each character's "rate" is in words per second (about 2.8 until measured with Whisper).
+- One speaker may hold several turns in a row when the pace changes (a monologue that starts in a
+  whisper and speeds up); the prompt then asks for one speaker in parts with a breath between them.
+- "intercut": true on a multi-shot clip that cuts between two places or two times (named per shot);
+  the prompt then drops "one place and one moment" and lets each shot keep its own light.
 """
 import json
 import os
@@ -59,7 +67,8 @@ def shot_scale(camera: str) -> str:
 
 
 def syllables(text: str) -> int:
-    return len([w for w in re.split(r"\s+", re.sub(r"[^\wÀ-ỹ\s]", " ", text)) if w])
+    """Vietnamese syllables, or English words (an apostrophe keeps "don't" as one word)."""
+    return len([w for w in re.split(r"\s+", re.sub(r"[^\w'À-ỹ\s]", " ", text)) if w.strip("'")])
 
 
 def speech_window(line: str, rate: float, start: float = SPEECH_START, max_end: float = 8.6) -> tuple[float, float]:
@@ -84,6 +93,19 @@ PACES = {
     "slow": (0.9, "chậm", "speaking slowly and softly, unhurried, with a short natural pause between phrases", "slowly and calmly"),
 }
 MIN_SYLLABLES_15S = 46  # dialogue-only 15s clips: Omni talks from 0s at ~3.5–4.5 syll/s; fewer words leave dead air it fills by repeating a line
+# Per-language wording and word budgets. "en" budgets are provisional (bay-ngay-thoi-do-da, 12/11/2026): ~2.8 words/s.
+LANGS = {
+    "vi": {"name": "Vietnamese", "unit": "âm tiết", "min_15s": MIN_SYLLABLES_15S, "single_15s": (36, 56),
+           "speak": "Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.",
+           "accent_avoid": "Southern or Central Vietnamese accents", "voice_note": "tuổi, chất giọng, giọng Hà Nội"},
+    "en": {"name": "English", "unit": "từ", "min_15s": 32, "single_15s": (25, 38),
+           "speak": "Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.",
+           "accent_avoid": "garbled or invented words, words in any language other than English", "voice_note": "tuổi, chất giọng"},
+}
+
+
+def lang(data: dict) -> dict:
+    return LANGS[data.get("language", "vi")]
 SPEECH_AVOID = {  # chỉ cấm kiểu đọc ngược với nhịp của clip
     "fast": "slow or drawn-out delivery, mumbled or swallowed words",
     "normal": "rushed delivery, slow drawn-out delivery or long pauses inside a sentence",
@@ -256,7 +278,10 @@ def render_prompt(data: dict, scene: dict, c: dict, cont: str) -> str:
     spans = shot_spans(c) if c.get("steps") else []
     if spans:
         cuts = ", ".join(f"{a}s" for a, _, _ in spans[1:])
-        lines = [f"A {D}-second live-action film sequence of {len(spans)} shots, 16:9 widescreen, 24 fps, with hard cuts only at {cuts}; one place and one moment, sound and action continuous across the cuts.", ""]
+        if c.get("intercut"):
+            lines = [f"A {D}-second live-action film sequence of {len(spans)} shots, 16:9 widescreen, 24 fps, with hard cuts only at {cuts}; it intercuts the two places or times named in the shot list, each shot keeping its own place and light, with sound continuous across the cuts.", ""]
+        else:
+            lines = [f"A {D}-second live-action film sequence of {len(spans)} shots, 16:9 widescreen, 24 fps, with hard cuts only at {cuts}; one place and one moment, sound and action continuous across the cuts.", ""]
     else:
         lines = [f"One continuous {D}-second live-action shot, 16:9 widescreen, 24 fps.", ""]
     lines += ["[STYLE]", data["style"], ""]
@@ -306,8 +331,11 @@ def render_prompt(data: dict, scene: dict, c: dict, cont: str) -> str:
             lines.append(f"- Continuity: new camera setup; Shot 1 opens on the empty location and light with no person in frame, and characters appear only from 3s.")
         else:
             lines.append("- Continuity: new camera setup; Shot 1 establishes the place and light cleanly from the first frame.")
-        lines.append("- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.")
-        if len(c["chars"]) >= 2:
+        if c.get("intercut"):
+            lines.append("- Each shot keeps the lighting of its own place and time; faces, wardrobe and props stay consistent; whoever is speaking has the face clearly on screen in that shot.")
+        else:
+            lines.append("- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.")
+        if len(c["chars"]) >= 2 and not c.get("intercut"):  # intercut characters are in different places or times
             lines.append("- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the cuts.")
         lines.append("")
         rule = "Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn."
@@ -355,7 +383,7 @@ def render_audio(data: dict, c: dict, cont: str, D: int, lines: list[str]) -> st
     if is_vo(c):
         a, b = speech_window(c["line"], data["narrator"]["rate"], max_end=soft_end(D))
         gender = data["narrator"].get("gender", "male")  # cai-ket-cho-tieu-tam có khối giọng kể nữ (không dùng)
-        lines.append(f"- Narration {a:.1f}–{b:.1f}s by an off-screen {gender} narrator ({data['narrator']['voice']}), in Vietnamese, said exactly once: \"{c['line']}\" (no subtitles)")
+        lines.append(f"- Narration {a:.1f}–{b:.1f}s by an off-screen {gender} narrator ({data['narrator']['voice']}), in {lang(data)['name']}, said exactly once: \"{c['line']}\" (no subtitles)")
         lines.append("- After the last word the narrator stays silent until the end of the shot: no repeated words, no echo, no second reading of the line.")
         lines.append("- Nobody on screen speaks; every mouth on screen stays closed.")
     elif len(turns(c)) >= 2:
@@ -364,35 +392,47 @@ def render_audio(data: dict, c: dict, cont: str, D: int, lines: list[str]) -> st
         plan = speech_plan(data, c, cont, D)
         ts = turns(c)
         count = {2: "two", 3: "three"}[len(ts)]
-        lines.append(f"- Dialogue in Vietnamese with exact lip-sync, {count} spoken turns in this order, each said exactly once (no subtitles):")
-        for k, ((sp, ln, a, b), t) in enumerate(zip(plan, ts), 1):
-            lines.append(f"- Turn {k}, {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({turn_voice(data, t)}): \"{ln}\"")
+        solo = len({t["speaker"] for t in ts}) == 1  # one speaker in parts: a monologue whose pace changes
+        if solo:
+            sp = ts[0]["speaker"]
+            lines.append(f"- Dialogue in {lang(data)['name']} with exact lip-sync, spoken on camera by {sp} alone in {count} parts in this order with a short breath between them, each said exactly once (no subtitles):")
+            for k, ((_, ln, a, b), t) in enumerate(zip(plan, ts), 1):
+                lines.append(f"- Part {k}, {a:.1f}–{b:.1f}s ({turn_voice(data, t)}): \"{ln}\"")
+        else:
+            lines.append(f"- Dialogue in {lang(data)['name']} with exact lip-sync, {count} spoken turns in this order, each said exactly once (no subtitles):")
+            for k, ((sp, ln, a, b), t) in enumerate(zip(plan, ts), 1):
+                lines.append(f"- Turn {k}, {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({turn_voice(data, t)}): \"{ln}\"")
         if all(t.get("pace") for t in ts) and len({t["pace"] for t in ts}) > 1:
-            steps = [f"{plan[0][0]} speaks {PACES[ts[0]['pace']][3]}"] + [f"{plan[k][0]} answers {PACES[ts[k]['pace']][3]}" for k in range(1, len(ts))]
+            verb = lambda k: "continues" if plan[k][0] == plan[k - 1][0] else "answers"
+            steps = [f"{plan[0][0]} speaks {PACES[ts[0]['pace']][3]}"] + [f"{plan[k][0]} {verb(k)} {PACES[ts[k]['pace']][3]}" for k in range(1, len(ts))]
             lines.append(f"- Pacing: {', then '.join(steps)}; the change of speed is clearly audible.")
         first = plan[0][2]
-        opening = f"Both keep their mouths closed until {first:.1f}s; then" if first > SPEECH_START else "Throughout,"
-        lines.append(f"- {opening} each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.")
+        if solo:
+            opening = f"{sp} keeps the mouth closed until {first:.1f}s; then" if first > SPEECH_START else "Throughout,"
+            lines.append(f"- {opening} {sp}'s face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word {sp} closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.")
+        else:
+            opening = f"Both keep their mouths closed until {first:.1f}s; then" if first > SPEECH_START else "Throughout,"
+            lines.append(f"- {opening} each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.")
     else:
         t = turns(c)[0]
         sp, line, rate, voice = t["speaker"], t["line"], turn_rate(data, t), turn_voice(data, t)
         if talks_from_start(c):  # multi-shot dialogue clip: the speaker is on screen and talking from the first second
             a, b = speech_window(line, rate, max_end=hard_end(D))
-            lines.append(f"- Dialogue {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({voice}), in Vietnamese with exact lip-sync, said exactly once: \"{line}\" (no subtitles)")
+            lines.append(f"- Dialogue {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({voice}), in {lang(data)['name']} with exact lip-sync, said exactly once: \"{line}\" (no subtitles)")
             lines.append(f"- {sp} starts talking within the first second; whenever {sp} speaks, the face and lips are clearly visible in that shot; after the last word {sp} closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.")
         elif cont == "continuous" and not c.get("speech_start"):
             a, b = speech_window(line, rate, max_end=soft_end(D))
-            lines.append(f"- Dialogue {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({voice}), in Vietnamese with exact lip-sync, said exactly once: \"{line}\" (no subtitles)")
+            lines.append(f"- Dialogue {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({voice}), in {lang(data)['name']} with exact lip-sync, said exactly once: \"{line}\" (no subtitles)")
             lines.append(f"- {sp}'s face and lips stay clearly visible while speaking; after the last word {sp} closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.")
         elif cont == "continuous":
             # speech_start (08/11/2026): beats cho nhân vật mở miệng từ beat 2 → lời thoại cũng bắt đầu đúng lúc đó, khẩu hình không trễ tiếng.
             st = float(c["speech_start"])
             a, b = speech_window(line, rate, start=st, max_end=hard_end(D))
-            lines.append(f"- Dialogue {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({voice}), in Vietnamese with exact lip-sync, said exactly once: \"{line}\" (no subtitles)")
+            lines.append(f"- Dialogue {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({voice}), in {lang(data)['name']} with exact lip-sync, said exactly once: \"{line}\" (no subtitles)")
             lines.append(f"- {sp} keeps the mouth closed until {a:.1f}s, then the face and lips stay clearly visible while speaking; after the last word {sp} closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.")
         else:
             a, b = speech_window(line, rate, start=3.0, max_end=hard_end(D))
-            lines.append(f"- Dialogue {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({voice}), in Vietnamese with exact lip-sync, said exactly once: \"{line}\" (no subtitles)")
+            lines.append(f"- Dialogue {a:.1f}–{b:.1f}s, spoken on camera by {sp} ({voice}), in {lang(data)['name']} with exact lip-sync, said exactly once: \"{line}\" (no subtitles)")
             lines.append(f"- From 3.0s onward, {sp}'s face and lips stay clearly visible while speaking; after the last word {sp} closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.")
     if not is_vo(c) and "narrator" not in data:
         # Bản render 10/11/2026: clip còn trống vài giây thì Omni nói lại nguyên câu cho kín clip.
@@ -400,14 +440,17 @@ def render_audio(data: dict, c: dict, cont: str, D: int, lines: list[str]) -> st
         if data.get("voice_common"):
             lines.append(f"- Voices: {data['voice_common']}")
         lines.append(f"- All speech is over by {end:.1f}s. From then until {D:.1f}s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.")
-    lines.append("- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.")
+    lines.append("- " + lang(data)["speak"])
     music = any(k in c["sfx"] for k in ("melody", "flute", "music"))
     lines.append(f"- SFX: {c['sfx']}. Ambience continues to {D:.1f}s." + ("" if music else " No music."))
     lines.append("")
 
-    cut_avoid = "cuts at any moment other than the planned shot changes, jump cuts, a change of location" if c.get("steps") else "jump cuts or scene changes"
+    if c.get("intercut"):
+        cut_avoid = "cuts at any moment other than the planned shot changes, jump cuts"
+    else:
+        cut_avoid = "cuts at any moment other than the planned shot changes, jump cuts, a change of location" if c.get("steps") else "jump cuts or scene changes"
     lines.append("[AVOID]")
-    lines.append("On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, " + ("" if music else "background music, ") + f"letterbox bars, {cut_avoid}, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, {speech_avoid(data, c)}, Southern or Central Vietnamese accents.")
+    lines.append("On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, " + ("" if music else "background music, ") + f"letterbox bars, {cut_avoid}, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, {speech_avoid(data, c)}, {lang(data)['accent_avoid']}.")
     return "\n".join(lines) + "\n"
 
 
@@ -425,8 +468,9 @@ def validate_turns(data: dict, sc: dict, i: int, cont: str, D: int, errors: list
     speakers = [t["speaker"] for t in ts]
     if "NARRATOR" in speakers and len(ts) > 1:
         errors.append(f"{cid}: the narrator never shares a clip with a character turn")
-    if any(a == b for a, b in zip(speakers, speakers[1:])):
-        errors.append(f"{cid}: two turns in a row by the same speaker — merge them into one line")
+    for a, b in zip(ts, ts[1:]):
+        if a["speaker"] == b["speaker"] and a.get("pace") == b.get("pace"):
+            errors.append(f"{cid}: two turns in a row by the same speaker at the same pace — merge them into one line")
     for t in ts:
         if t["speaker"] != "NARRATOR" and t["speaker"] not in c["chars"]:
             errors.append(f"{cid}: speaker {t['speaker']} not on screen")
@@ -438,7 +482,8 @@ def validate_turns(data: dict, sc: dict, i: int, cont: str, D: int, errors: list
             warns.append(f"{cid}: {n} syllables (15s VO: 28–52)")
     elif len(ts) == 1:
         m = PACES[ts[0]["pace"]][0] if ts[0].get("pace") in PACES else 1.0  # slow lines need fewer words
-        lo, hi = (round(22 * m), round(46 * m)) if "narrator" in data else (round(36 * m), round(56 * m))  # dialogue-only: speech from 0.4s
+        single = lang(data)["single_15s"]
+        lo, hi = (round(22 * m), round(46 * m)) if "narrator" in data else (round(single[0] * m), round(single[1] * m))  # dialogue-only: speech from 0.4s
         if not lo <= n <= hi:
             warns.append(f"{cid}: {n} syllables (15s single turn{' ' + ts[0]['pace'] if ts[0].get('pace') else ''}: {lo}–{hi})")
     else:
@@ -452,9 +497,9 @@ def validate_turns(data: dict, sc: dict, i: int, cont: str, D: int, errors: list
     limit = hard_end(D) if late else soft_end(D)
     if plan[-1][3] > limit:
         errors.append(f"{cid}: speech ends at {plan[-1][3]:.1f}s, past {limit:.1f}s — shorten the line(s)")
-    elif "narrator" not in data and n < MIN_SYLLABLES_15S:
+    elif "narrator" not in data and n < lang(data)["min_15s"]:
         # 10/11/2026 renders: Omni speaks ~3.7–4 syllables/s whatever the pace, and fills a half-empty clip by repeating a line
-        warns.append(f"{cid}: only {n} syllables in a {D}s clip — Omni finishes early and repeats lines; write at least {MIN_SYLLABLES_15S} (add a reply or a third turn)")
+        warns.append(f"{cid}: only {n} {lang(data)['unit']} in a {D}s clip — Omni finishes early and repeats lines; write at least {lang(data)['min_15s']} (add a reply or a third turn)")
     elif plan[-1][3] < D - 4.0:
         warns.append(f"{cid}: speech ends at {plan[-1][3]:.1f}s — over 4s of silence at the end of a {D}s clip; lengthen the line(s) or add a second turn")
 
@@ -612,7 +657,7 @@ def camera_cell(c: dict) -> str:
 def scene_table(data: dict, sc: dict, conts: list[str]) -> list[str]:
     paced = has_paces(data)
     said = "Lời Dẫn / Thoại" if "narrator" in data else "Lời Thoại"
-    rows = [f"| Clip | Nhân Vật | Giọng |{' Nhịp |' if paced else ''} Âm tiết | Khung thoại | {said} | Camera | Cách tạo trên Flow |",
+    rows = [f"| Clip | Nhân Vật | Giọng |{' Nhịp |' if paced else ''} {lang(data)['unit'].capitalize()} | Khung thoại | {said} | Camera | Cách tạo trên Flow |",
             "|---|---|---|" + ("---|" if paced else "") + "---|---|---|---|---|"]
     D = clip_seconds(data)
     for c, cont in zip(sc["clips"], conts):
@@ -674,7 +719,7 @@ def main() -> int:
     if narrated:
         voice_head = [f"- **Giọng Người Dẫn Chuyện (cố định cả {total} clip):** {data['narrator']['voice']}. Mỗi clip VO dùng **nguyên văn cùng một câu mô tả giọng** để Omni giữ một giọng duy nhất; đọc nhanh liên thanh như oan-thai-doi-me, ~{data['narrator']['rate']:.1f} âm tiết/giây, liền một hơi, không ngắt giữa câu."]
     else:
-        voice_head = [f"- **Không có người dẫn chuyện:** 100% lời thoại do nhân vật nói trên hình — cả {total} clip là thoại khớp khẩu hình. Giọng gốc của mỗi nhân vật (tuổi, chất giọng, giọng Hà Nội) giữ nguyên văn ở mọi clip để Omni không đổi người nói."]
+        voice_head = [f"- **Không có người dẫn chuyện:** 100% lời thoại do nhân vật nói trên hình — cả {total} clip là thoại khớp khẩu hình. Giọng gốc của mỗi nhân vật ({lang(data)['voice_note']}) giữ nguyên văn ở mọi clip để Omni không đổi người nói."]
     if has_paces(data):
         cnt = {k: 0 for k in PACES}
         for sc in data["scenes"]:
@@ -726,7 +771,7 @@ def main() -> int:
             n = int(c["id"].split(".")[1])
             n_syl = sum(syllables(t["line"]) for t in turns(c))
             pace = f" | `nhịp {pace_label(c)}`" if pace_label(c) else ""
-            kb.append(f"- **[Clip {c['id']}](canh-{sc['num']:02d}/clip-{n}.md)** (`{mode_label(c)}` | `{n_syl} âm tiết`{pace}): \"{line_text(c)}\"")
+            kb.append(f"- **[Clip {c['id']}](canh-{sc['num']:02d}/clip-{n}.md)** (`{mode_label(c)}` | `{n_syl} {lang(data)['unit']}`{pace}): \"{line_text(c)}\"")
         kb.append("")
     with open(os.path.join(sdir, f"KICH_BAN_{minutes}_PHUT.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(kb))

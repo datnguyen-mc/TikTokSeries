@@ -1,0 +1,938 @@
+{
+ "series": "ke-song-sot",
+ "film_title": "Kẻ Sống Sót: Bóng Ma",
+ "tag": "KẺ SỐNG SÓT: BÓNG MA",
+ "style": {
+  "tag_bg": "#0D47A1",
+  "accent": "#FFC300"
+ },
+ "speaker_colors": {},
+ "match_script": false,
+ "fixes": {
+  "02.3": {
+   "delogo": [
+    1166,
+    24,
+    104,
+    48
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bMay\\b": "Mây",
+  "\\b[Hh]òn[g]? [Ss]óng\\b": "Hòn Sóng",
+  "\\b[Bb]à [Hh]ai\\b": "Bà Hai",
+  "\\b[Bb]óng [Mm]a\\b": "Bóng Ma",
+  "\\b[Rr]ắn [Đđ]en\\b": "Rắn Đen",
+  "\\bGiang Hồ\\b": "giang hồ",
+  "\\b([Gg]iấu|[Cc]hở|[Mm]uốn|[Cc]ứu|[Tt]hấy|[Đđ]ưa|[Gg]iữ|[Bb]uông) hạ\\b": "\\1 Hạ",
+  "\\b[Nn]gắm tê\\b": "Ngấm Tê",
+  "\\bÔng T\\b": "Ống Tê",
+  "\\b([Oo])ng tê\\b": "\\1ng Tê",
+  "\\bống tê\\b": "ống Tê",
+  "\\b(giạch|dạch)\\b": "vạch",
+  "\\bdở dọng\\b": "giở giọng",
+  "\\bcô bán qua\\b": "cô bán hoa",
+  "\\bChìu khóa\\b": "Chịu khóa",
+  "\\blành lặng\\b": "lành lặn",
+  "\\bthân tính\\b": "thân tín",
+  "\\btròi\\b": "chòi",
+  "\\bVẽ con\\b": "Vé con",
+  "\\bquịch nợ\\b": "quỵt nợ",
+  "\\bbật đen\\b": "bật đèn",
+  "\\bTiến bước chân\\b": "Tiếng bước chân",
+  "\\bChị ở đây chú\\b": "Chìa ở đây chú",
+  "\\bKẹo nó khai\\b": "Kẻo nó khai",
+  "\\bDường còn ấm\\b": "Giường còn ấm",
+  "\\bdấu dày\\b": "dấu giày",
+  "\\bđi dòng\\b": "đi vòng",
+  "\\bhướng tay\\b": "hướng tây",
+  "\\bCái dòng đó\\b": "Cái vòng đó",
+  "\\bchuồng\\b": "chuồn",
+  "\\btan vật\\b": "tang vật",
+  "\\bchú Ngan\\b": "chú nghen",
+  "\\bchiếc cúi\\b": "chiếc cuối"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 60 phút có trên kênh YouTube, tìm “Kẻ Sống Sót: Bóng Ma”",
+ "final_cta": "🎬 Hết phim! Xem trọn bộ 60 phút trên kênh YouTube.",
+ "final_badge": "HẾT PHIM",
+ "final_end_text": "Xem trọn bộ [60 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#kesongsot",
+   "#bongma",
+   "#phimhanhdong",
+   "#phimngan"
+  ],
+  "youtube": [
+   "#kesongsot",
+   "#bongma",
+   "#phimhanhdong"
+  ],
+  "facebook": [
+   "#KeSongSot",
+   "#BongMa",
+   "#PhimHanhDong",
+   "#PhimNgan"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-13",
+  "per_day": 2,
+  "times": [
+   "09:00",
+   "17:00"
+  ]
+ },
+ "readme_intro": [
+  "# Kẻ Sống Sót: Bóng Ma — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Phim 60 phút được cắt thành các phần dọc 9:16, mỗi phần gần như trọn một cảnh (~1 phút): mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt, đăng nối tiếp như một series.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn xanh “KẺ SỐNG SÓT: BÓNG MA • PHẦN N” và câu hook ở trên khung phim; phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper). Bản render dùng thoại khác kịch bản V3 nên không so kịch bản; tên riêng và chữ Whisper nghe nhầm sửa bằng `subtitle_replace`.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS.",
+  "- **Nguồn clip:** 360 clip tải từ R2 về `output_videos/` (bản render 03–04/11, kịch bản V3).",
+  "- **Thư mục mỗi phần** (`phan-XX-.../`): video `.mp4`, ảnh bìa `cover.jpg`, phụ đề rời `phu-de.srt`, và `caption.md` có sẵn caption TikTok, tiêu đề + mô tả YouTube, caption Facebook để copy.",
+  "",
+  "Dựng lại:",
+  "",
+  "```bash",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py ke-song-sot            # tất cả",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py ke-song-sot --only 3   # một phần",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py ke-song-sot --captions # chỉ caption + README",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Kẻ Sống Sót: Bóng Ma”. Ghim phần 1 và 2 phần ⭐ hành động lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả trong `caption.md`; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions`.",
+  "- **Facebook Reels:** dán caption; tắt phụ đề tự động vì phụ đề đã in sẵn.",
+  "- Mỗi ngày 2 phần lúc 09:00 và 17:00, xen kẽ với Chính Thất Cao Tay (12:00 và 20:00). Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Đã xử lý trong bản short",
+  "",
+  "- **Video lấy từ R2:** 360 clip tải về `output_videos/` từ Cloudflare R2 (thư mục trên máy trước đó trống). Bản render này làm từ một phiên bản thoại cũ hơn kịch bản V3 hiện tại, nên caption và phụ đề bám theo tiếng thật trong clip.",
+  "- **Whisper ảo giác:** 28 clip có nhạc/tiếng động khiến Whisper bịa câu “Hãy subscribe cho kênh…”; đã nghe lại bằng faster-whisper large-v3 có lọc VAD.",
+  "- **Thoại lạc đề:** Omni tự nói câu chung chung không thuộc phim ở 14.1, 38.1, 41.5, 43.3, 43.5, 49.2, 49.4, 51.5, 53.3 (vd “Chúng ta cần kiểm tra lại toàn bộ tàu cá…”). Short bỏ các clip này; **bản FULL vẫn chứa chúng**, nên render lại trước khi đăng phim dài.",
+  "- **Nói lặp:** 04.6, 41.6, 52.1 cắt bỏ lần nói lặp; 20.6 bỏ.",
+  "- Tên riêng Whisper nghe sai (May → Mây, hòng sóng → Hòn Sóng, ngắm tê → Ngấm Tê…) sửa bằng `subtitle_replace` trong plan."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "bay-ngay-de-cuu-ha",
+   "top": true,
+   "title": "Bóng Ma chỉ còn 7 ngày để cứu người yêu",
+   "hook": "Bóng Ma chỉ còn [7 NGÀY]\nđể cứu người yêu",
+   "segments": [
+    {
+     "clip": "01.1",
+     "from": 4.9
+    },
+    {
+     "clip": "01.2"
+    },
+    {
+     "clip": "01.3"
+    },
+    {
+     "clip": "01.4"
+    },
+    {
+     "clip": "01.5"
+    },
+    {
+     "clip": "01.6"
+    }
+   ],
+   "caption": "“Sơn, 45 tuổi, giang hồ gọi là Bóng Ma.” Anh xuống thị trấn biển Hòn Sóng, thuê căn chòi trên đồi dương nhìn xuống cảng, mỗi sáng khắc một vạch lên khung cửa. Hết vạch thứ bảy, tàu đêm sẽ chở Hạ đi.",
+   "question": "Bạn nghĩ 7 ngày có đủ để cứu một người không?",
+   "yt_title": "Giang hồ gọi anh là Bóng Ma, anh chỉ còn 7 ngày để cứu người yêu | Kẻ Sống Sót P1",
+   "tags": [
+    "#giangho",
+    "#phimvietnam"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "hop-dong-cuoi",
+   "title": "Sát thủ xin giải nghệ, bà trùm giao việc cuối",
+   "hook": "Sát thủ xin [GIẢI NGHỆ],\nbà trùm giao việc cuối",
+   "segments": [
+    {
+     "clip": "02.1"
+    },
+    {
+     "clip": "02.2"
+    },
+    {
+     "clip": "02.3"
+    },
+    {
+     "clip": "02.4"
+    },
+    {
+     "clip": "02.5"
+    },
+    {
+     "clip": "02.6"
+    }
+   ],
+   "caption": "Nửa đêm, Sơn đến xin bà trùm Rắn Đen cho nghỉ. Bà Hai giao việc cuối: lấy cuốn sổ gốc của Vũ Kiên. “25 năm má nuôi con, con đi ai giữ nhà cho má?” Còn Dũng gằn giọng: “Má chừa ghế cho mày hoài, còn tao bao năm nay vẫn đứng canh cửa.”",
+   "question": "Hợp đồng cuối thường là cái bẫy, đúng không?",
+   "yt_title": "Sát thủ xin giải nghệ, bà trùm giao hợp đồng cuối cùng | Kẻ Sống Sót P2",
+   "tags": [
+    "#battrum",
+    "#giangho"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "ba-lan-ghe-tiem-hoa",
+   "title": "Sát thủ ghé tiệm hoa ba lần chỉ vì một tiếng cười",
+   "hook": "Sát thủ ghé tiệm hoa [BA LẦN]\nchỉ vì một tiếng cười",
+   "segments": [
+    {
+     "clip": "04.1"
+    },
+    {
+     "clip": "04.2"
+    },
+    {
+     "clip": "04.3"
+    },
+    {
+     "clip": "04.4"
+    },
+    {
+     "clip": "04.5"
+    },
+    {
+     "clip": "04.6",
+     "from": 3.95
+    }
+   ],
+   "caption": "“Khách vô tiệm hoa mà hổng nhìn hoa, anh mua tặng ai?” — “Cho một người chưa từng biết nhận hoa.” Lần thứ hai vẫn hoa ly trắng. Lần thứ ba anh sửa cái xô mà quên lấy tiền thối. Cả đời sống trong bóng tối, chiều đó anh đứng lại vì một tiếng cười.",
+   "question": "Ai từng thích một người chỉ vì mấy việc nhỏ như vậy?",
+   "yt_title": "Sát thủ ghé tiệm hoa ba lần, chỉ vì một tiếng cười | Kẻ Sống Sót P3",
+   "tags": [
+    "#tinhyeu",
+    "#langman"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "chiec-dong-ho-qua-quyt",
+   "title": "Chiếc đồng hồ quả quýt và lời hẹn về biển",
+   "hook": "Cô gái bán hoa trao\n[CHIẾC ĐỒNG HỒ] làm lời hẹn",
+   "segments": [
+    {
+     "clip": "06.1"
+    },
+    {
+     "clip": "06.2"
+    },
+    {
+     "clip": "06.3"
+    },
+    {
+     "clip": "06.4"
+    },
+    {
+     "clip": "06.5"
+    },
+    {
+     "clip": "06.6"
+    }
+   ],
+   "caption": "Đêm mưa, Hạ thấy thứ giấu dưới áo anh. “Em không sợ quá khứ của anh. Em chỉ không sống nổi với lời nói dối.” Sơn nói thật: anh làm việc bẩn cho Bà Hai. Cô trao chiếc đồng hồ, kỷ vật của ba: “Xong việc cũ, anh mở nó ra, rồi theo em về Hòn Sóng.”",
+   "question": "Nếu là Hạ, bạn có ở lại không?",
+   "yt_title": "Cô gái bán hoa trao chiếc đồng hồ của ba làm lời hẹn | Kẻ Sống Sót P4",
+   "tags": [
+    "#tinhyeu",
+    "#loihua"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "dem-bi-gai",
+   "top": true,
+   "title": "Hợp đồng cuối là cái bẫy",
+   "hook": "Hợp đồng cuối là [CÁI BẪY]\ncủa chính người anh em",
+   "segments": [
+    {
+     "clip": "08.1"
+    },
+    {
+     "clip": "08.2"
+    },
+    {
+     "clip": "08.3"
+    },
+    {
+     "clip": "08.4"
+    },
+    {
+     "clip": "08.5"
+    },
+    {
+     "clip": "08.6"
+    }
+   ],
+   "caption": "Đêm hợp đồng cuối dưới hầm xe, Dũng ném phong bì: “Nhặt lên mà coi phần thưởng giải nghệ của mày.” Ảnh giả, con dấu của Kiên, tất cả dựng sẵn để gài anh. Anh thoát được, nhưng nghe một tiếng cạch khô trên nền xi măng: đồng hồ của Hạ.",
+   "question": "Điều thứ hai anh “chưa dám nghĩ tới” là gì?",
+   "yt_title": "Hợp đồng cuối là cái bẫy của chính người anh em | Kẻ Sống Sót P5",
+   "tags": [
+    "#phanboi",
+    "#giangho"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "rung-duong",
+   "top": true,
+   "title": "Bóng Ma tay không hạ hai kẻ đánh úp",
+   "hook": "Hai kẻ đánh úp trong rừng,\nBóng Ma [TAY KHÔNG] xử gọn",
+   "segments": [
+    {
+     "clip": "12.1"
+    },
+    {
+     "clip": "12.2"
+    },
+    {
+     "clip": "12.3"
+    },
+    {
+     "clip": "12.4"
+    },
+    {
+     "clip": "12.5"
+    },
+    {
+     "clip": "12.6"
+    }
+   ],
+   "caption": "“Ngày thứ ba. Lần này, hai kẻ lạ lên đồi không gõ cửa.” Chúng mang ống thuốc Tê để bắt sống anh. Bóng Ma đón lõng trong rừng dương, hạ gọn cả hai, rồi gọi công an mang bác sĩ tới cứu chính kẻ vừa dính thuốc của hắn.",
+   "question": "Đánh xong còn gọi bác sĩ cứu đối thủ, anh này là người thế nào?",
+   "yt_title": "Hai kẻ đánh úp trong rừng dương, Bóng Ma tay không xử gọn | Kẻ Sống Sót P6",
+   "tags": [
+    "#hanhdong",
+    "#dovo"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "co-gai-trong-anh",
+   "title": "Cô gái trong ảnh là bạn thân của nữ công an",
+   "hook": "Cô gái anh ta tìm là\n[BẠN THÂN] của nữ công an",
+   "segments": [
+    {
+     "clip": "14.2"
+    },
+    {
+     "clip": "14.3"
+    },
+    {
+     "clip": "14.4"
+    },
+    {
+     "clip": "14.5"
+    },
+    {
+     "clip": "14.6"
+    }
+   ],
+   "caption": "Bóng Ma đặt lên bàn cuốn sổ đen và ổ dữ liệu gốc: “Tôi sẽ khai, chịu khóa. Nhưng trước chuyến tàu đêm ngày 7, phải cứu một người.” Mây hỏi người đó là ai. Câu trả lời khiến nữ công an sững lại: Hạ, con bác gác hải đăng, bạn hồi nhỏ của cô.",
+   "question": "Giờ thì Mây đứng về phía ai?",
+   "yt_title": "Cô gái sát thủ tìm hóa ra là bạn thân của nữ công an | Kẻ Sống Sót P7",
+   "tags": [
+    "#plottwist",
+    "#congan"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "dung-toi-bien",
+   "title": "Đàn em bà trùm xuống quậy thị trấn",
+   "hook": "Đàn em bà trùm xuống quậy,\ngặp ngay [NỮ TRƯỞNG ĐỒN]",
+   "segments": [
+    {
+     "clip": "18.1",
+     "from": 5.4
+    },
+    {
+     "clip": "18.2"
+    },
+    {
+     "clip": "18.3"
+    },
+    {
+     "clip": "18.4"
+    },
+    {
+     "clip": "18.5"
+    },
+    {
+     "clip": "18.6"
+    }
+   ],
+   "caption": "Dũng xuống Hòn Sóng quậy quán ông Bảy: “Hai thằng em tao gửi xuống hôm qua đâu rồi ông già?” Mây ra mặt: “Dựng ghế lại anh Dũng, muốn hỏi ai thì theo luật.” Trước khi đi, hắn để lại một vật cho Bóng Ma: “Nhìn vết rách, nó biết khăn của ai.”",
+   "question": "Nửa chiếc khăn ấy nói lên điều gì?",
+   "yt_title": "Đàn em bà trùm xuống quậy thị trấn, gặp ngay nữ trưởng đồn | Kẻ Sống Sót P8",
+   "tags": [
+    "#giangho",
+    "#congan"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "cuoc-goi-giau-mat",
+   "title": "Cuộc gọi giấu mặt: cô ấy còn sống",
+   "hook": "Cuộc gọi giấu mặt:\n[CÔ ẤY CÒN SỐNG]",
+   "segments": [
+    {
+     "clip": "20.1"
+    },
+    {
+     "clip": "20.2"
+    },
+    {
+     "clip": "20.3"
+    },
+    {
+     "clip": "20.4"
+    },
+    {
+     "clip": "20.5"
+    }
+   ],
+   "caption": "Số máy lạ gọi tới: “Hạ vẫn cài kẹp tóc bạc sau gáy. Cô ấy đang chờ anh.” Điều kiện: đêm nay lấy sổ đỏ trong két Bà Hai. Mây nghe ra ngay đây là người của Kiên, mượn tay Sơn để hai phe cắn nhau. Sơn chỉ đáp: “Chưa thấy cô ấy còn sống, tôi không bàn việc gì.”",
+   "question": "Bạn có tin kẻ giấu mặt này không?",
+   "yt_title": "Cuộc gọi giấu mặt: cô ấy còn sống, điều kiện là đột nhập két bà trùm | Kẻ Sống Sót P9",
+   "tags": [
+    "#hoihop",
+    "#trinhtham"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "ba-trum-thu-nhan",
+   "top": true,
+   "title": "Bà trùm thú nhận bán cô gái trước mặt công an",
+   "hook": "Bà trùm thú nhận [BÁN] cô gái\nngay trước mặt công an",
+   "segments": [
+    {
+     "clip": "22.4"
+    },
+    {
+     "clip": "22.5"
+    },
+    {
+     "clip": "22.6"
+    },
+    {
+     "clip": "23.2"
+    },
+    {
+     "clip": "23.3"
+    },
+    {
+     "clip": "23.4"
+    }
+   ],
+   "caption": "Bà Hai ngồi chờ sẵn trong bóng tối: “Má biết con sẽ về bằng chìa cũ.” Sơn hỏi thẳng Hạ bị nhốt ở đâu. Bà trùm thản nhiên: “Má giao nó cho Kiên, đổi lại tuyến tàu. Giờ nó ra sao, má không biết.” Bà không biết Mây đã ghi âm hết.",
+   "question": "Bà trùm này còn đường lui không?",
+   "yt_title": "Bà trùm thú nhận bán cô gái ngay trước mặt nữ công an | Kẻ Sống Sót P10",
+   "tags": [
+    "#battrum",
+    "#hahe"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "bai-xe-chiec-cong-thu-hai",
+   "title": "Nữ công an còng gã giang hồ giữa hầm xe",
+   "hook": "Nữ công an [CÒNG] gã giang hồ\nngay giữa hầm xe",
+   "segments": [
+    {
+     "clip": "24.1"
+    },
+    {
+     "clip": "24.2"
+    },
+    {
+     "clip": "24.3"
+    },
+    {
+     "clip": "24.4"
+    },
+    {
+     "clip": "24.5"
+    },
+    {
+     "clip": "24.6"
+    }
+   ],
+   "caption": "Ôm sổ đỏ chạy qua hầm xe, Dũng chặn đầu: “Bỏ găng rồi mày yếu đi nhiều đó Sơn.” Hắn không ngờ Mây đã vòng ra sau lưng, chiếc còng thứ hai khóa chặt tay hắn.",
+   "question": "Cặp đôi Sơn – Mây phối hợp mấy điểm?",
+   "yt_title": "Nữ công an còng gã giang hồ ngay giữa hầm xe | Kẻ Sống Sót P11",
+   "tags": [
+    "#hanhdong",
+    "#congan"
+   ]
+  },
+  {
+   "n": 12,
+   "slug": "ha-trong-khung-hinh",
+   "title": "Video con tin: cô gái gửi mật mã qua kẹp tóc",
+   "hook": "Video con tin: cô gái gửi\n[MẬT MÃ] qua chiếc kẹp tóc",
+   "segments": [
+    {
+     "clip": "27.1"
+    },
+    {
+     "clip": "27.2"
+    },
+    {
+     "clip": "27.3"
+    },
+    {
+     "clip": "27.4"
+    },
+    {
+     "clip": "27.5"
+    },
+    {
+     "clip": "27.6"
+    }
+   ],
+   "caption": "Kẻ giấu mặt gửi video: “Sơn, em còn sống, em không sao hết. Anh đừng làm liều theo ý họ nghe anh.” Mây tua lại: Hạ cố ý xoay kẹp tóc về phía quạt, chỉ ô cửa phía sau. Ngoài ô cửa là biểu tượng phà. Cô đang ở rất gần Hòn Sóng.",
+   "question": "Bạn có để ý chi tiết kẹp tóc không?",
+   "yt_title": "Video con tin: cô gái gửi mật mã qua chiếc kẹp tóc | Kẻ Sống Sót P12",
+   "tags": [
+    "#trinhtham",
+    "#plottwist"
+   ]
+  },
+  {
+   "n": 13,
+   "slug": "dem-cuoi-o-tiem-hoa",
+   "title": "Đêm cuối trước khi cô ấy bị bắt đi",
+   "hook": "Đêm cuối trước khi\ncô ấy [BỊ BẮT ĐI]",
+   "segments": [
+    {
+     "clip": "33.1"
+    },
+    {
+     "clip": "33.2"
+    },
+    {
+     "clip": "33.3"
+    },
+    {
+     "clip": "33.4"
+    },
+    {
+     "clip": "33.5"
+    },
+    {
+     "clip": "33.6"
+    }
+   ],
+   "caption": "Đêm cuối ở tiệm hoa: “Mai anh còn quay lại đây không?” Anh không hứa được, vì không muốn nói dối cô nữa. Cô chỉ xin: “Sáng mai anh về, mình ngồi ăn sáng như người ta. Vậy thôi.” Đó là lần cuối anh thấy Hạ còn bình yên.",
+   "question": "Câu nào của Hạ làm bạn nhói lòng nhất?",
+   "yt_title": "Đêm cuối ở tiệm hoa trước khi cô ấy bị bắt đi | Kẻ Sống Sót P13",
+   "tags": [
+    "#tinhyeu",
+    "#buon"
+   ]
+  },
+  {
+   "n": 14,
+   "slug": "khach-hang-ao-trang",
+   "title": "Trùm thật lộ mặt, ép Bóng Ma ký nhận tội",
+   "hook": "Trùm thật lộ mặt, ép Bóng Ma\n[KÝ NHẬN TỘI] thay",
+   "segments": [
+    {
+     "clip": "36.1"
+    },
+    {
+     "clip": "36.2"
+    },
+    {
+     "clip": "36.3"
+    },
+    {
+     "clip": "36.4"
+    },
+    {
+     "clip": "36.5"
+    },
+    {
+     "clip": "36.6"
+    }
+   ],
+   "caption": "Vũ Kiên, kẻ muốn nuốt đường hàng của Bà Hai, cuối cùng cũng lộ mặt: “Tháng trước tôi gài để anh im luôn. Anh thoát được. Giữ Hạ là cách rẻ nhất kéo anh về.” Rồi hắn thêm một điều kiện: ký nhận cả đường dây là của Sơn và Bà Hai.",
+   "question": "Sơn có nên ký để đổi lấy Hạ không?",
+   "yt_title": "Trùm thật lộ mặt, ép Bóng Ma ký nhận tội thay | Kẻ Sống Sót P14",
+   "tags": [
+    "#phandien",
+    "#giangho"
+   ]
+  },
+  {
+   "n": 15,
+   "slug": "doi-gang-den-dau-tien",
+   "title": "25 năm trước, bà trùm trao đôi găng đen",
+   "hook": "25 năm trước, bà trùm trao\ncậu bé [ĐÔI GĂNG ĐEN]",
+   "segments": [
+    {
+     "clip": "38.2"
+    },
+    {
+     "clip": "38.3"
+    },
+    {
+     "clip": "38.4"
+    },
+    {
+     "clip": "38.5"
+    },
+    {
+     "clip": "38.6"
+    }
+   ],
+   "caption": "25 năm trước, bà chủ tiệm lụa cho cậu trai trú mưa một chén cơm: “Thành phố này, ngoài cô ra, đâu ai cho không ai cái gì.” Rồi bà trao đôi găng mới: “Từ đêm nay con giữ cửa sau.” Đôi găng đầu tiên biến ơn một chén cơm thành một đời giữ cửa cho người khác.",
+   "question": "Ơn nghĩa hay xiềng xích, bạn nghĩ sao?",
+   "yt_title": "25 năm trước, bà trùm trao cậu bé đôi găng đen | Kẻ Sống Sót P15",
+   "tags": [
+    "#quakhu",
+    "#battrum"
+   ]
+  },
+  {
+   "n": 16,
+   "slug": "cuoc-trao-doi-doi-luat",
+   "title": "Cuộc trao đổi con tin bị đổi luật",
+   "hook": "Giữa cuộc trao đổi con tin,\nhắn [ĐỔI LUẬT]",
+   "segments": [
+    {
+     "clip": "41.1"
+    },
+    {
+     "clip": "41.2"
+    },
+    {
+     "clip": "41.3"
+    },
+    {
+     "clip": "41.4"
+    },
+    {
+     "clip": "41.6",
+     "to": 6.9
+    }
+   ],
+   "caption": "Giữa bãi cảng, Kiên đổi luật: ký tờ nhận tội trước rồi mới buông người. Hạ hét lên: “Đừng ký nhận tội thay hắn, anh Sơn! Em không đổi tự do bằng lời khai giả.” Sơn đặt bản sao xuống: “Tôi không ký. Tôi ở lại. Để cô ấy đi.”",
+   "question": "Nếu là Sơn, bạn làm gì lúc này?",
+   "yt_title": "Giữa cuộc trao đổi con tin, trùm buôn người bất ngờ đổi luật | Kẻ Sống Sót P16",
+   "tags": [
+    "#caotrao",
+    "#hanhdong"
+   ]
+  },
+  {
+   "n": 17,
+   "slug": "bong-ma-nga-xuong",
+   "top": true,
+   "title": "Bóng Ma trúng thuốc Tê giữa bãi cảng",
+   "hook": "Bóng Ma trúng [THUỐC TÊ]\ngiữa bãi cảng",
+   "segments": [
+    {
+     "clip": "42.1"
+    },
+    {
+     "clip": "42.2"
+    },
+    {
+     "clip": "42.3"
+    },
+    {
+     "clip": "42.4"
+    },
+    {
+     "clip": "42.5"
+    },
+    {
+     "clip": "42.6"
+    }
+   ],
+   "caption": "Dũng lao tới, ống Tê cắm vào cổ Sơn. Bóng Ma ngã xuống. Bà Hai quát: “Má chỉ bảo giữ người thôi!” Dũng ghì anh: “Ngấm Tê rồi, Bóng Ma. Ngồi yên, mày phải còn nguyên cho má.” Còn Kiên chỉ đòi: “Giao cả người lẫn phong bì đây.”",
+   "question": "Ai sẽ cứu Hạ bây giờ?",
+   "yt_title": "Bóng Ma trúng thuốc Tê, ngã xuống giữa bãi cảng | Kẻ Sống Sót P17",
+   "tags": [
+    "#caotrao",
+    "#hanhdong"
+   ]
+  },
+  {
+   "n": 18,
+   "slug": "khong-ai-la-mon-hang",
+   "title": "Bà trùm giành lại con nuôi, bị kẻ thù vạch mặt",
+   "hook": "Bà trùm giành lại con nuôi,\nbị kẻ thù [VẠCH MẶT]",
+   "segments": [
+    {
+     "clip": "43.1"
+    },
+    {
+     "clip": "43.2"
+    },
+    {
+     "clip": "43.4"
+    },
+    {
+     "clip": "43.6"
+    }
+   ],
+   "caption": "Bà Hai đứng chắn trước Sơn: “Con tao, tao sai một lần rồi, không giao cho mày nữa.” Kiên cười khẩy: “Bà bán đứt cả hai đứa cho tôi rồi, giờ giở giọng làm mẹ sao?” Giữa lúc hỗn loạn, hắn lôi Hạ lên cầu thang hải đăng.",
+   "question": "Bà Hai thương Sơn thật hay chỉ coi anh là món hàng?",
+   "yt_title": "Bà trùm giành lại con nuôi, bị trùm buôn người vạch mặt | Kẻ Sống Sót P18",
+   "tags": [
+    "#battrum",
+    "#congan"
+   ]
+  },
+  {
+   "n": 19,
+   "slug": "chiec-vong-ngoc",
+   "title": "Bà trùm Rắn Đen tự tay tháo vòng ngọc",
+   "hook": "Bà trùm Rắn Đen tự tay\n[THÁO VÒNG NGỌC] chịu trói",
+   "segments": [
+    {
+     "clip": "49.1"
+    },
+    {
+     "clip": "49.3"
+    },
+    {
+     "clip": "49.5"
+    },
+    {
+     "clip": "49.6"
+    }
+   ],
+   "caption": "“Thôi, hết người để sai rồi.” Bà trùm Rắn Đen không chống cự: “Đừng ai đụng vào. Để tôi tự tháo.” Chiếc vòng ngọc đeo suốt mấy chục năm được đặt xuống. “Cái vòng đó cứ thu đi. Tôi hết cần nó rồi.”",
+   "question": "Cái kết này có xứng đáng với bà trùm không?",
+   "yt_title": "Bà trùm Rắn Đen tự tay tháo vòng ngọc chịu trói | Kẻ Sống Sót P19",
+   "tags": [
+    "#battrum",
+    "#hahe"
+   ]
+  },
+  {
+   "n": 20,
+   "slug": "dinh-hai-dang",
+   "title": "Đỉnh hải đăng: kẻ bắt cóc khống chế con tin",
+   "hook": "Đỉnh hải đăng: kẻ bắt cóc\n[KHỐNG CHẾ] con tin",
+   "segments": [
+    {
+     "clip": "50.1"
+    },
+    {
+     "clip": "50.2"
+    },
+    {
+     "clip": "50.3"
+    },
+    {
+     "clip": "50.4"
+    },
+    {
+     "clip": "50.5"
+    },
+    {
+     "clip": "50.6"
+    }
+   ],
+   "caption": "Trên đỉnh hải đăng, Kiên ghì Hạ sát lan can: “Một chiếc xe dưới đường ven biển, rút hết chốt chặn, không ai theo.” Mây tay không bước lên đàm phán. Dưới sàn kỹ thuật, Thành đã đặt tay lên cần gạt đèn dự phòng, chờ lệnh.",
+   "question": "Đoán xem Hạ định làm gì?",
+   "yt_title": "Đỉnh hải đăng: kẻ bắt cóc khống chế con tin sát vách đá | Kẻ Sống Sót P20",
+   "tags": [
+    "#caotrao",
+    "#hoihop"
+   ]
+  },
+  {
+   "n": 21,
+   "slug": "cuu-ca-ke-thu",
+   "top": true,
+   "title": "Bóng Ma cứu cả kẻ thù trên đỉnh hải đăng",
+   "hook": "Bóng Ma [CỨU CẢ KẺ THÙ]\ntrên đỉnh hải đăng",
+   "segments": [
+    {
+     "clip": "51.1"
+    },
+    {
+     "clip": "51.2"
+    },
+    {
+     "clip": "51.3"
+    },
+    {
+     "clip": "51.4"
+    },
+    {
+     "clip": "51.6"
+    }
+   ],
+   "caption": "“Thành, bật đèn!” Đèn dự phòng chói lòa, Mây kéo Hạ ra sau lưng. Kiên trượt khỏi gờ sắt, và Sơn, kẻ bị hắn săn suốt bảy ngày, nắm chặt tay hắn kéo lại: “Tôi giữ anh rồi.”",
+   "question": "Là bạn, bạn có kéo hắn lên không?",
+   "yt_title": "Bóng Ma cứu cả kẻ thù trên đỉnh hải đăng | Kẻ Sống Sót P21",
+   "tags": [
+    "#caotrao",
+    "#nhanvan"
+   ]
+  },
+  {
+   "n": 22,
+   "slug": "lan-dau-mo-dong-ho",
+   "top": true,
+   "title": "Lần đầu mở nắp chiếc đồng hồ",
+   "hook": "Giữ lời hứa suốt 7 ngày:\n[MỞ NẮP] chiếc đồng hồ",
+   "segments": [
+    {
+     "clip": "52.1",
+     "to": 6.9
+    },
+    {
+     "clip": "52.2"
+    },
+    {
+     "clip": "52.3"
+    },
+    {
+     "clip": "52.4"
+    },
+    {
+     "clip": "52.5"
+    },
+    {
+     "clip": "52.6"
+    }
+   ],
+   "caption": "“Đồng hồ của ba em. Nó dừng từ đêm anh chạy khỏi em.” Anh từng hứa chỉ mở nắp khi xong hết việc cũ. “Hết việc rồi, giờ anh mở.” Hạ đỡ lấy: “Để em giữ. Nó vẫn còn sửa được.”",
+   "question": "Khoảnh khắc này có làm bạn rưng rưng không?",
+   "yt_title": "Giữ lời hứa suốt 7 ngày, anh mở nắp chiếc đồng hồ trước mặt cô | Kẻ Sống Sót P22",
+   "tags": [
+    "#tinhyeu",
+    "#xucdong"
+   ]
+  },
+  {
+   "n": 23,
+   "slug": "nguoi-khong-chay-nua",
+   "top": true,
+   "title": "Cứu được người yêu, Bóng Ma tự nhận còng",
+   "hook": "Cứu được người yêu,\nBóng Ma [TỰ NHẬN CÒNG]",
+   "segments": [
+    {
+     "clip": "53.1"
+    },
+    {
+     "clip": "53.2"
+    },
+    {
+     "clip": "53.4"
+    },
+    {
+     "clip": "53.5"
+    },
+    {
+     "clip": "53.6"
+    }
+   ],
+   "caption": "Cứu được Hạ, Sơn quay sang Mây: “Tôi đi với cô về đồn.” Đúng hẹn bảy ngày, anh không chạy nữa. “Chịu khóa tay, khai hết. Anh tự chọn chứ Sơn?” Hạ cất chiếc đồng hồ vào túi áo anh, rồi nhờ Mây để đèn hải đăng của ba sáng tới khi mọi người về.",
+   "question": "Bạn có tôn trọng lựa chọn của Sơn không?",
+   "yt_title": "Cứu được người yêu, Bóng Ma tự đưa tay nhận còng | Kẻ Sống Sót P23",
+   "tags": [
+    "#xucdong",
+    "#lamlai"
+   ]
+  },
+  {
+   "n": 24,
+   "slug": "qua-o-cua-xe",
+   "title": "Chia tay qua ô cửa xe chuyển trại",
+   "hook": "Chia tay qua [Ô CỬA XE]\nchuyển trại",
+   "segments": [
+    {
+     "clip": "58.1"
+    },
+    {
+     "clip": "58.2"
+    },
+    {
+     "clip": "58.3"
+    },
+    {
+     "clip": "58.4"
+    },
+    {
+     "clip": "58.5"
+    },
+    {
+     "clip": "58.6"
+    }
+   ],
+   "caption": "Xe chuyển trại chạy qua con đường biển cuối thị trấn. Bên lề, Hạ và Mây đứng chờ. “Lời hẹn ở Hòn Sóng vẫn còn nguyên, anh.” — “Thấy em bình yên, vậy là đủ rồi.” Lần đầu tiên anh rời khỏi một nơi bằng chính tên thật của mình.",
+   "question": "Bạn có tin cô ấy sẽ đợi không?",
+   "yt_title": "Chia tay qua ô cửa xe chuyển trại, cô ấy hứa chờ anh về | Kẻ Sống Sót P24",
+   "tags": [
+    "#tinhyeu",
+    "#buon"
+   ]
+  },
+  {
+   "n": 25,
+   "slug": "hai-muoi-nam-sau",
+   "title": "20 năm sau, người ấy đã về",
+   "hook": "20 năm sau,\n[NGƯỜI ẤY ĐÃ VỀ]",
+   "segments": [
+    {
+     "clip": "60.1"
+    },
+    {
+     "clip": "60.2"
+    },
+    {
+     "clip": "60.3"
+    },
+    {
+     "clip": "60.4"
+    },
+    {
+     "clip": "60.5"
+    },
+    {
+     "clip": "60.6"
+    }
+   ],
+   "caption": "Hai mươi năm sau, sạp hoa của Hạ mở mỗi sáng ở cổng chợ cá. Chuyến xe đò sớm dừng ở ngã ba, một người tóc đã bạc bước xuống. “Tiếng bước chân này, sao mà quen quá?” — “Anh giữ lời hẹn rồi. Qua chỗ chú Bảy ngồi nhìn biển với em nha.”",
+   "question": "Cái kết này mấy điểm?",
+   "yt_title": "20 năm sau, người ấy đã về | Kẻ Sống Sót: Bóng Ma (Tập cuối)",
+   "tags": [
+    "#ketphim",
+    "#tinhyeu"
+   ]
+  }
+ ]
+}

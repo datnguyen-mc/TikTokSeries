@@ -1,0 +1,919 @@
+[
+ {
+  "num": 19,
+  "title": "Day Seven: The First Hand (Ngày 7: Bàn tay đầu tiên)",
+  "time_label": "Bình minh (18:00–19:00)",
+  "clips": [
+   {
+    "id": "19.1",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Seventh sun. You lived, and you saved the cave.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Not alone. Stream fed me, Roar held the rope, Snail kept the fire.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Then you are of the cave. We never walk alone.",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Cả hang (quần chúng) đứng trên mỏm đá nhìn xuống thung lũng tan hoang. Grandma Moon quay lại nhìn Khang, nắng sớm trên mặt bà.",
+    "chars": [
+     "@Moon",
+     "@Khang"
+    ],
+    "setting": "Clear golden dawn after the flood, seen from a ledge-cave high on the limestone cliff: the valley below covered in mud and fallen trees, the stream back in its bed, mist rising off the jungle.",
+    "_setting_key": "DAWN_AFTER_FLOOD",
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera"
+    },
+    "_plan": [
+     "@Moon 0.4–4.2s",
+     "@Khang 4.7–9.4s",
+     "@Moon 9.9–13.7s"
+    ]
+   },
+   {
+    "id": "19.2",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "From today, whoever saves the cave leaves a hand on the wall.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Red earth and water, blown through a reed. Fire first?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Yes. His hand is biggest. Put it in the middle.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Trong hang dưới, Grandma Moon nghiền đất son đỏ trên phiến đá, trộn nước. Stream cầm một ống sậy rỗng, nhìn lên vách trơn.",
+    "chars": [
+     "@Moon",
+     "@Stream"
+    ],
+    "_plan": [
+     "@Moon 0.4–4.9s",
+     "@Stream 5.4–9.0s",
+     "@Moon 9.5–13.7s"
+    ]
+   },
+   {
+    "id": "19.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "The big hand in the middle... it's mine. Always was.",
+      "pace": "slow",
+      "_tone_vi": "thì thầm"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "What's wrong, Fire? No rain will ever wash it away.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No. Ten thousand years from now, some idiot will fit his hand in it.",
+      "pace": "normal",
+      "_tone_vi": "cười trong nước mắt"
+     }
+    ],
+    "_hinh": "Khang áp bàn tay lên giữa vách; Stream ngậm màu, thổi qua ống sậy quanh bàn tay. Khang rút tay ra: một bàn tay đỏ tươi in âm bản, đúng vị trí, đúng hình bàn tay to giữa vách ở cảnh 3. Khang sững người.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.4s",
+     "@Stream 4.9–8.5s",
+     "@Khang 9.0–14.0s"
+    ]
+   },
+   {
+    "id": "19.4",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "My hand next to yours. So everyone knows they went together.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Stream... if I have to leave, will you be angry?",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "A stream goes far but marks the stone. If you go, your hand stays.",
+      "pace": "normal",
+      "_tone_vi": "không nhìn anh"
+     }
+    ],
+    "_hinh": "Stream áp bàn tay mình ngay sát bàn tay đỏ của Khang; Grandma Moon (cảnh quay riêng) thổi son quanh. Hai bàn tay đỏ nằm cạnh nhau. Khang nhìn Stream, Stream nhìn vách.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera"
+    },
+    "_plan": [
+     "@Stream 0.4–4.4s",
+     "@Khang 4.9–8.9s",
+     "@Stream 9.4–14.4s"
+    ]
+   }
+  ],
+  "location": "Bình minh trong vắt sau lũ: thung lũng ngập bùn, cây đổ ngổn ngang. Hang dưới đã rút nước, vách đá ướt và vẫn trơn. Một phiến đá dùng để nghiền đất son đỏ.",
+  "setting": "The lower Stone Age cave the morning after the flood: wet mud on the floor, the elephant-shaped stalactite, the bare damp rock wall in soft daylight, a flat grinding stone with red-ochre powder and a hollow reed tube.",
+  "_setting_key": "CAVE_PAST_AFTER"
+ },
+ {
+  "num": 20,
+  "title": "Snail's Seeing Stone (Hòn đá có mắt của Snail)",
+  "time_label": "Trưa đến chiều ngày 7 (19:00–20:00)",
+  "clips": [
+   {
+    "id": "20.1",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Hello everyone! Fire, fish, boiled water! I can survive anywhere!",
+      "pace": "fast",
+      "_tone_vi": "phấn khích"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Who taught you that? That line was a lie for three years.",
+      "pace": "normal",
+      "_tone_vi": "cười"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "You say it to your stone every morning! Now I have one!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Snail giơ một phiến đá dẹt có lỗ thủng ngang mặt như cầm camera, nói vào nó như Khang vẫn làm; lũ trẻ (quần chúng) xúm quanh. Khang ngồi trên tảng đá bật cười.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera"
+    },
+    "_plan": [
+     "@Snail 0.4–3.4s",
+     "@Khang 3.9–8.2s",
+     "@Snail 8.7–12.3s"
+    ]
+   },
+   {
+    "id": "20.2",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Eyes closed, you only hit sky. Eyes open, see the target, let go.",
+      "pace": "normal",
+      "_tone_vi": "cười"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "You learned traps in one morning. I still can't hit anything!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Your hands make fire and traps. Leave the spear to me, brother.",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Roar ngồi (chân còn nẹp) đan một cái lờ đẹp hơn cái của Khang, mấy cậu trai ngồi học. Khang tập phóng giáo vào một bó cỏ, trượt xa. Roar cười, lần đầu tiên.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera",
+     "@Roar": "a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, barefoot"
+    },
+    "_plan": [
+     "@Roar 0.4–5.3s",
+     "@Khang 5.8–9.1s",
+     "@Roar 9.6–14.1s"
+    ]
+   },
+   {
+    "id": "20.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "What's this? Why's he wearing a box on his chest?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Snail",
+      "line": "It's you and your seeing stone. The water took it. I drew it so it's not sad.",
+      "pace": "normal",
+      "_tone_vi": "chăm chú"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "It's beautiful. Best picture I've ever had.",
+      "pace": "slow",
+      "_tone_vi": "xúc động"
+     }
+    ],
+    "_hinh": "Trong hang dưới, Snail cầm cục than vẽ lên vách cạnh hai bàn tay đỏ: một người que, trên ngực có hình vuông với những tia sáng toả ra. Khang ngồi xuống cạnh cậu bé.",
+    "chars": [
+     "@Khang",
+     "@Snail"
+    ],
+    "setting": "The lower Stone Age cave on the seventh day: the elephant-shaped stalactite and, on the rock wall, two fresh red-ochre hand stencils side by side, a big hand and a slightly smaller hand, with bare rock around them; a hearth fire burning.",
+    "_setting_key": "CAVE_PAST_HANDS",
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Snail 4.5–10.6s",
+     "@Khang 11.1–13.9s"
+    ]
+   },
+   {
+    "id": "20.4",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Thunder again. Like the night you came.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "You feel it too? Since noon, the wall has been getting warmer.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Thunder brought you. Thunder will call you home. The cave remembers its own.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Chiều, sấm rền xa, mây đen kéo về đầu núi. Grandma Moon đứng cạnh Khang ở cửa hang. Khang chạm lên vách rồi rụt tay lại, nhìn lòng bàn tay.",
+    "chars": [
+     "@Moon",
+     "@Khang"
+    ],
+    "setting": "Late afternoon at the mouth of the Stone Age clan cave: black storm clouds rolling over the karst peaks, distant thunder, wind in the jungle, warm firelight behind, and on the inner wall two red-ochre hand stencils.",
+    "_setting_key": "CAVE_MOUTH_STORM_COMING",
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera"
+    },
+    "_plan": [
+     "@Moon 0.4–3.3s",
+     "@Khang 3.8–8.1s",
+     "@Moon 8.6–14.0s"
+    ]
+   }
+  ],
+  "location": "Bãi suối sau lũ đã trong lại, nắng trưa; trong hang dưới, vách có hai bàn tay đỏ; chiều xuống, mây giông kéo về đầu núi.",
+  "setting": "The jungle stream in the Stone Age at midday after the flood: the water clear again, a gravel bar with drying driftwood, a bundle of grass set up as a target, children of the clan playing on the stones.",
+  "_setting_key": "STREAM_AFTER"
+ },
+ {
+  "num": 21,
+  "title": "Storm on the Seventh Evening (Giông chiều thứ bảy)",
+  "time_label": "Tối ngày 7 (20:00–21:00)",
+  "clips": [
+   {
+    "id": "21.1",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Are you really leaving, Fire? Here there's fire, fish, me. Not enough?",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "More than enough. More than anywhere I've lived. But my mom is waiting, and my friend is searching.",
+      "pace": "normal",
+      "_tone_vi": "quay lại"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Then you must go.",
+      "pace": "normal",
+      "_tone_vi": "nghẹn"
+     }
+    ],
+    "_hinh": "Khang đứng trước vách, Stream đứng sau lưng anh, tay nắm chặt dây đeo giỏ mây. Chớp loé, mặt hai người trắng bệch rồi tối lại.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.2s",
+     "@Khang 5.7–12.2s",
+     "@Stream 12.7–14.2s"
+    ]
+   },
+   {
+    "id": "21.2",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Bend down. Where you live, there are no stream snails. Remember us with this.",
+      "pace": "normal",
+      "_tone_vi": "nghẹn"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Snail... Stream. Stream snails. You're giving me both of you?",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Yes. Take both of us, so you never get lost again.",
+      "pace": "normal",
+      "_tone_vi": "cười trong nước mắt"
+     }
+    ],
+    "_hinh": "Stream tháo chuỗi vỏ ốc suối trên cổ mình, kiễng chân đeo vào cổ Khang. Khang cầm một vỏ ốc lên nhìn, rồi nhìn cô, hiểu ra.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.4s",
+     "@Khang 5.9–9.9s",
+     "@Stream 10.4–14.4s"
+    ]
+   },
+   {
+    "id": "21.3",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Don't go, Fire! Take me with you! I'll bring my seeing stone!",
+      "pace": "fast",
+      "_tone_vi": "khóc"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Stay and teach them: boiling water, fish traps, bamboo fire. Nobody does it better than you.",
+      "pace": "normal",
+      "_tone_vi": "quỳ xuống"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Then say hello everyone for me, okay?",
+      "pace": "slow",
+      "_tone_vi": "mếu"
+     }
+    ],
+    "_hinh": "Snail chạy tới ôm chặt chân Khang, tay vẫn cầm hòn đá dẹt. Khang quỳ xuống ngang tầm cậu bé. (Roar ở cửa hang chống gậy giơ tay chào, cảnh quay riêng.)",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Snail 0.4–4.0s",
+     "@Khang 4.5–10.3s",
+     "@Snail 10.8–13.6s"
+    ]
+   },
+   {
+    "id": "21.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "My hand still fits. Stream, take care of Snail, and the cave.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Go, Fire-Maker! The cave will remember you until the stones wear away!",
+      "pace": "fast",
+      "_tone_vi": "gào trong sấm"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "I'll remember you too. Even ten thousand years apart.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang đặt tay vào đúng bàn tay đỏ của mình trên vách. Đá rung, ánh sáng trắng rỉ qua kẽ ngón tay. Stream lùi lại, gào trong tiếng sấm. Giây cuối: tia chớp trắng nuốt cả khung hình.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera, a necklace of small stream-snail shells",
+     "@Stream": "a knee-length tunic of beaten tan bark cloth with a soft deer-hide wrap covering both shoulders, no necklace, a woven rattan basket on her back, barefoot"
+    },
+    "_plan": [
+     "@Khang 0.4–5.2s",
+     "@Stream 5.7–9.6s",
+     "@Khang 10.1–13.7s"
+    ]
+   }
+  ],
+  "location": "Hang Bàn Tay trong giông: chớp hắt trắng lên vách có hai bàn tay đỏ và hình vẽ than; bếp lửa giữa hang chập chờn; cả hang (quần chúng) đứng lùi lại.",
+  "setting": "A storm at night inside the lower Stone Age cave: white lightning flashing through the wide mouth onto the rock wall with two red-ochre hand stencils side by side and a small charcoal stick figure, the elephant-shaped stalactite, a flickering hearth fire, the clan standing back in the shadows.",
+  "_setting_key": "CAVE_PAST_STORM"
+ },
+ {
+  "num": 22,
+  "title": "Return (Trở về)",
+  "time_label": "Sáng sớm, hang Bàn Tay ngày nay (21:00–22:00)",
+  "clips": [
+   {
+    "id": "22.1",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Khang! He's here! Call the rescue team! Are you alive?",
+      "pace": "fast",
+      "_tone_vi": "vỡ oà"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Bin... it's really you. What day is it?",
+      "pace": "slow",
+      "_tone_vi": "mơ màng"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "You've been missing seven days! The whole country searched! The rangers flipped this forest upside down!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang nằm dưới chân vách, râu quai nón, áo rách, cổ đeo chuỗi vỏ ốc, tay còn vết phồng. Bin và hai nhân viên kiểm lâm (quần chúng) soi đèn pin chạy tới; Bin quỳ sụp xuống.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "torn mud-stained olive-green tactical shirt, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Bin 0.4–3.4s",
+     "@Khang 3.9–7.1s",
+     "@Bin 7.6–12.4s"
+    ]
+   },
+   {
+    "id": "22.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Seven days... it was seven days there too. Seven suns.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Bin",
+      "line": "What are you saying? Where's this necklace from? Where's the camera? What did you film?",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "The camera's gone. Seven days, and not one second of footage.",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang ngồi dậy, sờ chuỗi vỏ ốc trên cổ, nhìn quanh hang. Bin đỡ vai anh, nhìn chuỗi vỏ ốc rồi nhìn đai camera trống trên ngực anh.",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "wardrobe": {
+     "@Khang": "torn mud-stained olive-green tactical shirt, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Khang 0.4–4.4s",
+     "@Bin 4.9–9.4s",
+     "@Khang 9.9–13.9s"
+    ]
+   },
+   {
+    "id": "22.3",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Seven days, the whole country watching, and you come back empty-handed? Subscribers are exploding!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Not empty-handed. These hands can make fire now.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Forget it. You're back, that's enough. I thought I'd lost you.",
+      "pace": "slow",
+      "_tone_vi": "nghẹn"
+     }
+    ],
+    "_hinh": "Bin đứng bật dậy ôm đầu, đi một vòng. Khang giơ hai bàn tay chai sạn lên nhìn. Bin dừng lại, nghẹn, ngồi xuống cạnh anh.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "torn mud-stained olive-green tactical shirt, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Bin 0.4–4.9s",
+     "@Khang 5.4–8.7s",
+     "@Bin 9.2–13.6s"
+    ]
+   },
+   {
+    "id": "22.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Bin, do you believe someone once spent their whole life by this wall?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Cave people lived in caves, sure. Did the lightning fry your brain?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Maybe. But for the first time, my head feels clear.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang đứng dậy, bước tới vách. Bàn tay đỏ to ở giữa đã mờ, sát bên là một bàn tay nhỏ hơn. Anh đưa tay lại gần nhưng không chạm. Bin rọi đèn theo.",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "wardrobe": {
+     "@Khang": "torn mud-stained olive-green tactical shirt, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Khang 0.4–5.1s",
+     "@Bin 5.6–9.9s",
+     "@Khang 10.4–14.4s"
+    ]
+   }
+  ],
+  "location": "Hang Bàn Tay hôm nay sau đêm giông: cùng nhũ đá hình con voi, vách có hàng trăm bàn tay đỏ đã mờ và hình vẽ than nhạt; dây chăng của đội cứu hộ, đèn pin, bộ đàm.",
+  "setting": "Early morning inside the same large limestone cave today after the storm: the elephant-shaped stalactite, the wall of hundreds of faded red-ochre hand stencils with one bigger hand in the middle and a slightly smaller hand right beside it, rescue ropes on the floor, flashlight beams in the dusty air.",
+  "_setting_key": "CAVE_TODAY_MORNING"
+ },
+ {
+  "num": 23,
+  "title": "The Video With No Acting (Video không diễn)",
+  "time_label": "Một tuần sau, hiên nhà nghỉ (22:00–23:00)",
+  "clips": [
+   {
+    "id": "23.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Today, no old opening line. I can survive anywhere: I lied about that for three years.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Bin",
+      "line": "You sure? Say that, and the last sponsors walk.",
+      "pace": "normal",
+      "_tone_vi": "khẽ"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Sure. Let them. Faking it makes you starve.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang ngồi trên bậc hiên nhìn thẳng ống kính. Bin ngồi sau chân máy, nghiêng người ra hỏi nhỏ.",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "wardrobe": {
+     "@Khang": "plain grey cotton T-shirt, khaki cargo trousers, brown hiking boots, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Khang 0.4–6.2s",
+     "@Bin 6.7–10.0s",
+     "@Khang 10.5–13.7s"
+    ]
+   },
+   {
+    "id": "23.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Most of my old videos were staged. You trusted me, and I'm sorry.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Here's what's real, learned with blistered hands: boil your water, green bamboo can boil it, bamboo can make fire, three whistle blasts means help.",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang cầm lên lần lượt: một ống tre tươi, một thanh tre khía rãnh, cái còi. Bàn tay anh còn sẹo phồng.",
+    "chars": [
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "plain grey cotton T-shirt, khaki cargo trousers, brown hiking boots, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Khang 0.4–5.1s",
+     "@Khang 5.6–12.8s"
+    ]
+   },
+   {
+    "id": "23.3",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Khang, three hours, five million views! Nobody's hating on you. People are actually thanking you!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Huh. So people watch the truth too.",
+      "pace": "normal",
+      "_tone_vi": "không ngẩng lên"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "And half the comments ask where you bought that shell necklace.",
+      "pace": "normal",
+      "_tone_vi": "tò mò"
+     }
+    ],
+    "_hinh": "Ba tiếng sau, Bin chạy ra hiên giơ điện thoại (màn hình chỉ phát sáng), mắt mở to. Khang đang ngồi đan một cái lờ nhỏ bằng nan tre.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "plain grey cotton T-shirt, khaki cargo trousers, brown hiking boots, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Bin 0.4–4.9s",
+     "@Khang 5.4–7.9s",
+     "@Bin 8.4–12.4s"
+    ]
+   },
+   {
+    "id": "23.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "You can't buy it. Someone put it on me, somewhere very far away.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Who? Seven days in the jungle and you got a girlfriend? Tell me!",
+      "pace": "fast",
+      "_tone_vi": "tò mò"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "You won't believe me. Take me to the cave tomorrow.",
+      "pace": "normal",
+      "_tone_vi": "mỉm cười"
+     }
+    ],
+    "_hinh": "Khang dừng tay, cầm chuỗi vỏ ốc lên nhìn. Xa xa, dãy núi đá vôi trong nắng chiều. Bin ngồi phịch xuống cạnh anh, hóng chuyện.",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "wardrobe": {
+     "@Khang": "plain grey cotton T-shirt, khaki cargo trousers, brown hiking boots, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Khang 0.4–5.6s",
+     "@Bin 6.1–10.0s",
+     "@Khang 10.5–14.1s"
+    ]
+   }
+  ],
+  "location": "Hiên nhà sàn gỗ của nhà nghỉ ven rừng, chiều; Khang đã cạo râu, cổ đeo chuỗi vỏ ốc; trước mặt chỉ có điện thoại của Bin trên chân máy, không đèn, không đạo cụ.",
+  "setting": "The wooden porch of a stilt-house guesthouse at the forest edge today in late afternoon: worn plank steps, potted plants, a smartphone on a small tripod, limestone peaks glowing in the distance.",
+  "_setting_key": "PORCH_TODAY"
+ },
+ {
+  "num": 24,
+  "title": "Fire-Maker (Người làm ra lửa)",
+  "time_label": "Sáng, hang Bàn Tay ngày nay và hơn một vạn năm trước (23:00–24:00)",
+  "clips": [
+   {
+    "id": "24.1",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Look! By the big hand: a stick man with a box on his chest. Like your camera!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "A little boy drew it. So the seeing stone wouldn't be sad.",
+      "pace": "slow",
+      "_tone_vi": "mỉm cười"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Archaeologists say it's over ten thousand years old!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Bin soi đèn pin lên vách: cạnh bàn tay đỏ to là hình vẽ than mờ, một người que có hình vuông trên ngực toả tia sáng. Bin quay sang Khang, há miệng. Khang mỉm cười.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "plain grey cotton T-shirt, khaki cargo trousers, brown hiking boots, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Bin 0.4–5.5s",
+     "@Khang 6.0–10.8s",
+     "@Bin 11.3–13.7s"
+    ]
+   },
+   {
+    "id": "24.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "And this smaller hand, right beside it. That's a girl named Stream.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Bin",
+      "line": "You're acting again, right? Good script, but I'm not buying it.",
+      "pace": "normal",
+      "_tone_vi": "nheo mắt"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "You don't have to. No filming, no posting. Remembering is enough.",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang chạm nhẹ đầu ngón tay vào bàn tay nhỏ sát cạnh bàn tay to. Bin nhìn anh, rồi nhìn vách, nheo mắt.",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "wardrobe": {
+     "@Khang": "plain grey cotton T-shirt, khaki cargo trousers, brown hiking boots, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Khang 0.4–5.2s",
+     "@Bin 5.7–9.7s",
+     "@Khang 10.2–14.2s"
+    ]
+   },
+   {
+    "id": "24.3",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Whoa! Thunder! Take your hand off! Last time you touched that, you vanished for seven days!",
+      "pace": "fast",
+      "_tone_vi": "hoảng"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Scared I'll vanish? Over there, they have fire now. They don't need me.",
+      "pace": "normal",
+      "_tone_vi": "cười"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Over where? Explain that to me right now!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang đặt bàn tay vào bàn tay đỏ to: vừa khít. Ngoài cửa hang sấm rền xa. Bin giật bắn, lao tới kéo cánh tay Khang ra. Khang cười phá lên.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "plain grey cotton T-shirt, khaki cargo trousers, brown hiking boots, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Bin 0.4–5.2s",
+     "@Khang 5.7–10.4s",
+     "@Bin 10.9–13.3s"
+    ]
+   },
+   {
+    "id": "24.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "I can't survive anywhere. I survived because someone shared their snails with me, and someone held my rope.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Hello everyone! Today I teach the cave bamboo fire, like Fire taught me! I can survive anywhere!",
+      "pace": "fast",
+      "_tone_vi": "rạng rỡ"
+     }
+    ],
+    "_hinh": "Cắt song song. Hôm nay: Khang đứng ở cửa hang ngập nắng, nói vào điện thoại Bin đang quay, tay chạm chuỗi vỏ ốc. Hơn một vạn năm trước: Snail đứng bên bếp lửa, giơ hòn đá dẹt có lỗ, trước mặt là cả hang ngồi xem, phía sau là ống tre và thanh tre cưa lửa. Hình cuối: hai bàn tay đỏ tươi trên vách, rồi chuyển sang chính hai bàn tay ấy đã mờ ở hiện tại.",
+    "chars": [
+     "@Khang",
+     "@Snail"
+    ],
+    "setting": "The same limestone cave mouth with the elephant-shaped stalactite in two times: today in bright morning sun with the wall of faded red hand stencils, and more than ten thousand years ago at night, lit by a hearth fire with the clan sitting around it and two fresh red hand stencils on the wall.",
+    "_setting_key": "CAVE_TWO_ERAS",
+    "intercut": true,
+    "wardrobe": {
+     "@Khang": "plain grey cotton T-shirt, khaki cargo trousers, brown hiking boots, a necklace of small stream-snail shells"
+    },
+    "_plan": [
+     "@Khang 0.4–7.6s",
+     "@Snail 8.1–13.2s"
+    ]
+   }
+  ],
+  "location": "Hang Bàn Tay hôm nay, nắng sớm rọi xiên vào cửa hang. Clip cuối cắt song song với cùng hang ấy hơn một vạn năm trước, bên bếp lửa.",
+  "setting": "Morning inside the same large limestone cave today: sunlight slanting through the wide arched mouth onto the elephant-shaped stalactite and the wall of hundreds of faded red-ochre hand stencils, the bigger hand in the middle with a smaller hand beside it and a faint charcoal stick figure wearing a square box on its chest.",
+  "_setting_key": "CAVE_TODAY_DAY"
+ }
+]

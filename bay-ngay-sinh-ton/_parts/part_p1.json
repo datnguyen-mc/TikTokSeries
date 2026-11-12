@@ -1,0 +1,1714 @@
+[
+ {
+  "num": 1,
+  "title": "Five-Star Survival (Sinh tồn năm sao)",
+  "time_label": "Chiều, rừng Cúc Phương ngày nay (00:00–01:00)",
+  "location": "Rừng nguyên sinh Cúc Phương hôm nay: cây chò cổ thụ, rễ bạnh vè, dây leo, nắng chiều xiên qua tán lá. Cách máy quay hai chục mét là con đường nhựa cho xe điện chở khách du lịch.",
+  "axis": "Máy quay đứng phía trong rừng nhìn ra con đường nhựa: gốc chò cổ thụ rễ bạnh vè ở giữa khung, Khang quỳ bên trái gốc cây, Bin cầm gimbal đứng bên phải, con đường nhựa thấp thoáng qua kẽ lá ở xa sau lưng Khang.",
+  "props": "Gimbal cầm tay và mũ tai bèo của Bin, con sâu béo và túi kẹo dẻo rỗng, que gỗ xoay lửa và đống bùi nhùi, bật lửa của Bin, điện thoại màn hình chỉ phát sáng, camera đeo ngực của Khang, ba lô cam, xe điện chở khách trên đường nhựa.",
+  "setting": "Cúc Phương primeval forest in northern Vietnam today, late afternoon: giant old trees with huge buttress roots, thick lianas, ferns and mossy limestone boulders, green-gold sunlight slanting through the canopy, a narrow paved visitor road glimpsed through the leaves.",
+  "_setting_key": "FOREST_TODAY",
+  "clips": [
+   {
+    "id": "01.1",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Day three. No food, no clean water. I have no choice, I have to eat this worm to survive!",
+      "pace": "fast",
+      "tone": "theatrical suffering, hamming it up for the lens"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Cut! Khang, we're out of gummy worms. That one's real.",
+      "pace": "normal",
+      "tone": "flat and deadpan, utterly unbothered"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Real? Forget it. Fire scene first.",
+      "pace": "fast",
+      "tone": "grossed out, tossing the worm away"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "insects buzzing and birdsong in the canopy, distant gibbon calls, dry leaves crunching under knees, the crinkle of an empty plastic candy bag, the soft whir of a gimbal motor",
+    "shots": [
+     {
+      "until": 6,
+      "camera": "35mm medium shot of the YouTuber kneeling at the giant buttress root with a fat worm held up to his chest camera, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the cameraman lowering his gimbal, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "40mm medium two-shot of both men at the buttress root, slight handheld drift"
+     },
+     {
+      "until": 15,
+      "camera": "100mm extreme close-up of the worm on a broad fern leaf, locked off"
+     }
+    ],
+    "steps": [
+     "@Khang kneels at the giant buttress root, pinches a fat wriggling worm between two fingers and is already speaking to his chest camera in a pained, theatrical voice.",
+     "@Khang keeps talking fast, scrunching his face in mock agony as he lifts the worm toward the little lens.",
+     "@Khang presses his free hand to his stomach and sways, still talking, eyes squeezed half shut.",
+     "@Khang tilts his head back and dangles the worm above his face while he keeps speaking.",
+     "@Khang raises the worm higher, voice trembling for effect, as the speech reaches its big finish.",
+     "@Khang finishes the line, closes his mouth and freezes with the worm just above his lips in a heroic pose.",
+     "@Bin lowers the gimbal from his eye and starts speaking in a flat, unbothered voice, his face completely deadpan.",
+     "@Bin keeps talking as he holds up an empty, crumpled bag of gummy candy and shakes it once.",
+     "@Bin points one finger at the wriggling worm while he goes on, eyebrows never moving.",
+     "@Bin finishes the sentence and closes his mouth, staring over the top of his round glasses.",
+     "@Khang stares at the worm wriggling between his fingers and starts speaking fast, eyes wide, nose wrinkled.",
+     "@Khang tosses the worm away over his shoulder, still talking quickly and wiping his fingers on his cargo trousers.",
+     "@Khang finishes, closes his mouth and scrambles to his feet, waving @Bin toward a pile of dry sticks.",
+     "In extreme close-up the fat worm lands on a broad fern leaf and wriggles calmly in the green-gold light.",
+     "The worm inches along the fern leaf while two pairs of shoes walk away across the leaf litter in soft focus behind it."
+    ],
+    "_hinh": "Khang quỳ bên gốc chò, mặt nhăn khổ sở, nói vào camera đeo ngực, hai ngón tay kẹp một con sâu béo đang ngọ nguậy. Bin cầm gimbal, hạ máy, chìa ra một túi kẹo dẻo rỗng.",
+    "_plan": [
+     "@Khang 0.4–6.1s",
+     "@Bin 6.6–10.2s",
+     "@Khang 10.7–12.5s"
+    ]
+   },
+   {
+    "id": "01.2",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Friction, friction, patience makes fire! There's smoke! I can survive anywhere!",
+      "pace": "fast",
+      "tone": "showman bravado, playing to the lens"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "That's my lighter. Three years, I've lit every fire for you. You've never made one yourself.",
+      "pace": "normal",
+      "tone": "bored and flat, stating the obvious"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Keep your voice down! The mic picks up everything.",
+      "pace": "fast",
+      "tone": "a sharp hissed whisper, scolding"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a wooden drill whirring against a board, the click and hiss of a pocket lighter, crackling tinder catching, birdsong and insects in the canopy, leaves rustling",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "24mm wide shot of the YouTuber spinning a wooden drill over a pile of tinder while the cameraman crouches hidden behind the buttress root at frame right, locked off"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of the cameraman stepping out from behind the root with a lighter, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind the YouTuber onto the cameraman, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot of the YouTuber hissing at the cameraman beside the smoking tinder, handheld"
+     }
+    ],
+    "steps": [
+     "@Khang kneels over a pile of dry tinder, spinning a wooden drill between his palms like a kung fu star, and is already speaking loudly to his chest camera.",
+     "Behind the buttress root @Bin, crouched out of the YouTuber's view, reaches round and touches a small lighter flame to the tinder while @Khang keeps talking.",
+     "A curl of white smoke rises from the tinder; @Khang keeps spinning and talking faster, eyes wide in staged amazement.",
+     "@Khang springs to his feet with both fists raised high, finishes his triumphant line and closes his mouth in a frozen victory pose.",
+     "@Bin steps out from behind the root holding up the lighter and starts speaking in a bored, flat voice.",
+     "@Bin keeps talking as he flicks the lighter once, a small steady flame standing up in front of his round glasses.",
+     "@Bin lets the flame go out and goes on in the same flat tone, tilting his head toward the smoking pile.",
+     "@Bin keeps speaking, holding up three fingers of his free hand, face expressionless.",
+     "@Bin lowers the hand and keeps talking, eyes fixed on @Khang over the rims of his glasses.",
+     "@Bin finishes the last words with a tiny shrug and closes his mouth.",
+     "@Khang darts to @Bin's side, cups one hand over the little camera on his own chest and starts whispering sharply.",
+     "@Khang keeps whispering fast through his teeth, eyes darting left and right, hand pressed over the lens.",
+     "@Khang jabs a finger toward the small microphone on his harness, still whispering urgently into @Bin's face.",
+     "@Khang finishes, closes his mouth and glares at @Bin, nostrils flaring, while @Bin blinks back, mouth closed.",
+     "Beside them the tinder keeps smoking on the forest floor as @Bin slips the lighter into his yellow windbreaker pocket, both mouths closed."
+    ],
+    "_hinh": "Khang chụm củi, xoay que gỗ như diễn viên võ thuật. Ngoài khung hình, Bin nấp sau gốc cây bật bật lửa châm vào bùi nhùi rồi đẩy vào. Khói bốc lên, Khang giơ tay chiến thắng.",
+    "_plan": [
+     "@Khang 0.4–3.7s",
+     "@Bin 4.2–10.0s",
+     "@Khang 10.5–13.2s"
+    ]
+   },
+   {
+    "id": "01.3",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Khang, the tourist shuttle drove behind you. Third time. They waved.",
+      "pace": "normal",
+      "tone": "flat and matter-of-fact"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "So cut it! Make it look like deep jungle. Add monkey howls, add some fog.",
+      "pace": "fast",
+      "tone": "flustered, waving it away"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Sure. So, tonight at the guesthouse, goat hotpot or hill chicken?",
+      "pace": "slow",
+      "tone": "dry, with a thin teasing smile"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "the soft electric whine and rolling tires of a passing open shuttle on asphalt, birdsong and cicadas, leaves rustling, boots shuffling on dry leaves",
+    "extras": "a few cheerful tourists in sun hats riding a white open-sided electric shuttle along the paved road, small and far behind the leaves in soft focus, waving",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "40mm medium two-shot of both men by the buttress root with the gap in the leaves and the paved road behind the YouTuber, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "24mm wide shot of the YouTuber spreading his arms across the gap in the leaves as the shuttle rolls past behind him, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the cameraman behind his gimbal, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Bin, gimbal in one hand, is already speaking in a flat voice and lifts his other hand to point past @Khang's shoulder.",
+     "@Bin keeps talking evenly while, through the leaves behind @Khang, a white open-sided electric shuttle glides along the paved road.",
+     "The tourists on the shuttle wave cheerfully toward the men as @Bin goes on, his pointing finger never moving.",
+     "@Bin finishes, closes his mouth and lowers his hand, while @Khang's eyes go wide.",
+     "@Khang glances back at the road, whips round to face the gimbal again and starts speaking fast, flapping one hand.",
+     "@Khang steps sideways into the gap in the leaves and spreads both arms wide to hide the shuttle, still talking quickly.",
+     "@Khang keeps talking, bobbing left and right to keep his body between the gimbal and the rolling shuttle.",
+     "@Khang waggles his fingers in the air like drifting fog while he keeps speaking.",
+     "@Khang flaps both hands up toward the canopy, still talking, eyebrows raised high.",
+     "@Khang finishes, closes his mouth and stays frozen with his arms spread across the gap, panting.",
+     "@Bin regards him over the gimbal and answers slowly with a thin, dry smile.",
+     "@Bin keeps talking slowly, tilting his head, the brim of his bucket hat shading his round glasses.",
+     "@Bin lets a small pause hang, then goes on in the same lazy, teasing voice.",
+     "@Bin keeps speaking slowly, lifting the gimbal back up toward his eye.",
+     "@Bin finishes, closes his mouth and waits behind the gimbal with the same thin smile."
+    ],
+    "_hinh": "Sau lưng Khang, qua kẽ lá, một chiếc xe điện chở khách chạy ngang trên đường nhựa, du khách vẫy tay. Bin chỉ tay; Khang quay lại, vội lấy thân che ống kính.",
+    "_plan": [
+     "@Bin 0.4–4.4s",
+     "@Khang 4.9–9.4s",
+     "@Bin 9.9–14.3s"
+    ]
+   },
+   {
+    "id": "01.4",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "This comment: five-star survival, sleeps in a guesthouse, eats goat hotpot. Ten thousand likes.",
+      "pace": "fast",
+      "tone": "reading aloud fast, deadpan"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Keyboard warriors. One night out here and they'd cry for mommy.",
+      "pace": "normal",
+      "tone": "smug and dismissive"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Have you ever spent one real night in the jungle?",
+      "pace": "slow",
+      "tone": "quiet and pointed, no smile"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "cicadas and birdsong in the late afternoon canopy, a thumb tapping a phone screen, leaves shifting underfoot, a soft breeze in the ferns",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "85mm close-up of the cameraman reading from his glowing phone, locked off"
+     },
+     {
+      "until": 8,
+      "camera": "50mm medium shot of the YouTuber glancing at the phone and folding his arms, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the YouTuber rolling his eyes, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind the YouTuber onto the cameraman, locked off"
+     }
+    ],
+    "steps": [
+     "@Bin swipes his phone with a thumb, its screen only a soft glow, and is already speaking fast as if reading aloud.",
+     "@Bin keeps reading quickly, eyes flicking across the glowing screen, completely deadpan.",
+     "@Bin turns the glowing phone toward @Khang without looking up, still talking.",
+     "@Bin keeps talking briskly, tapping the glowing screen with one finger, the gimbal hanging from his other hand.",
+     "@Bin finishes the last words, closes his mouth and holds the phone out at arm's length.",
+     "@Khang glances at the glowing screen for a single second, curls his lip and starts speaking in a lazy, scornful voice.",
+     "@Khang folds his arms across his chest harness, still talking, chin lifted.",
+     "@Khang tilts his head back as he keeps speaking, a lopsided smirk on his face.",
+     "@Khang rolls his eyes up toward the canopy and goes on, giving a little dismissive snort.",
+     "@Khang finishes, closes his mouth and keeps his arms folded over the chest harness, smirking.",
+     "@Bin slowly lowers the phone and answers slowly, looking straight at @Khang.",
+     "@Bin keeps speaking quietly and evenly, his eyes steady behind the round glasses.",
+     "@Bin keeps talking slowly, not blinking behind his round glasses, letting each word land.",
+     "@Bin finishes the question, closes his mouth and waits in silence, the phone hanging at his side.",
+     "In the foreground @Khang's folded arms slowly loosen and his head tilts, the smirk gone, mouth closed."
+    ],
+    "_hinh": "Bin chìa điện thoại, màn hình chỉ phát sáng. Khang liếc qua, nhếch mép, khoanh tay. Bin nhìn thẳng vào anh.",
+    "_plan": [
+     "@Bin 0.4–4.9s",
+     "@Khang 5.4–9.4s",
+     "@Bin 9.9–13.9s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 2,
+  "title": "Busted (Bị bóc phốt)",
+  "time_label": "Tối, nhà nghỉ ven rừng (01:00–02:00)",
+  "location": "Phòng nhà sàn gỗ của một nhà nghỉ ven rừng, tối: đèn vàng, nồi lẩu dê sôi trên bếp ga mini, ngoài cửa sổ chớp loé không tiếng trên dãy núi đá vôi.",
+  "axis": "Máy quay đặt ở góc trong phòng nhìn ra cửa sổ: bàn gỗ thấp với nồi lẩu ở giữa, Khang ngồi bên trái bàn, Bin ngồi bên phải, cửa sổ có chớp loé ở xa phía sau, cửa ra hiên nhà sàn ở mép phải khung hình.",
+  "props": "Nồi lẩu dê sôi trên bếp ga mini, đũa gỗ và bát, điện thoại của Bin màn hình chỉ phát sáng, dao đa năng màu đỏ đeo thắt lưng Khang, đai camera đeo ngực, ba lô cam, đèn vàng.",
+  "setting": "Night inside a wooden stilt-house guesthouse room at the edge of the forest: warm yellow lamp light, woven bamboo walls, a low wooden table with a small hotpot bubbling on a portable gas stove, a window where silent lightning flickers over dark limestone peaks.",
+  "_setting_key": "GUESTHOUSE_NIGHT",
+  "clips": [
+   {
+    "id": "02.1",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Khang, someone filmed you ordering pizza delivery into the jungle. Two million views already!",
+      "pace": "fast",
+      "tone": "fast and gleeful, rubbing it in"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Who filmed it? That night it was just you, me, and the delivery guy!",
+      "pace": "fast",
+      "tone": "hoarse and sputtering, outraged"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "The delivery guy is subscribed to your channel.",
+      "pace": "slow",
+      "tone": "slow, dry, deadpan"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "hotpot broth bubbling on a portable gas stove, the low hiss of the burner, chopsticks clattering on wood, rain pattering on the roof, distant rolling thunder",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "35mm medium two-shot across the low table with the hotpot steaming between them, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the YouTuber sputtering over the hotpot, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind the YouTuber onto the cameraman, locked off"
+     }
+    ],
+    "steps": [
+     "@Bin leans across the low table and is already speaking fast, pushing his glowing phone right up to @Khang's face.",
+     "@Khang freezes with his chopsticks halfway to his mouth, a strip of goat meat dangling, while @Bin keeps talking.",
+     "@Bin keeps talking quickly, waggling the glowing phone a hand's width from @Khang's nose.",
+     "@Bin taps the glowing screen twice, eyebrows high, still speaking with a gleeful grin.",
+     "@Bin finishes and closes his mouth as @Khang sputters and coughs on the hot broth, eyes watering.",
+     "@Khang drops his chopsticks on the table with a clatter and starts speaking fast in a hoarse voice.",
+     "@Khang keeps talking hoarsely, thumping his own chest with the flat of his hand, eyes streaming.",
+     "@Khang points across the table, then at himself, still talking fast, cheeks flushed from the broth.",
+     "@Khang counts on three fingers as he keeps talking, leaning forward over the steaming pot.",
+     "@Khang finishes, closes his mouth and stares, breathing hard through his nose.",
+     "@Bin sets the glowing phone face down on the table and answers slowly, totally deadpan.",
+     "@Bin keeps speaking slowly, picking up his own chopsticks and lifting a piece of meat from the pot.",
+     "@Bin finishes the sentence with a tiny shrug, closes his mouth and starts to chew.",
+     "@Khang slumps back against the woven bamboo wall and stares at the ceiling, mouth closed, while @Bin chews calmly.",
+     "Silent lightning flickers in the window behind them as the hotpot keeps bubbling, both men silent, mouths closed."
+    ],
+    "_hinh": "Khang đang gắp lẩu, Bin dí điện thoại sát mặt anh. Khang sặc, buông đũa.",
+    "_plan": [
+     "@Bin 0.4–4.6s",
+     "@Khang 5.1–9.3s",
+     "@Bin 9.8–13.0s"
+    ]
+   },
+   {
+    "id": "02.2",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "The multitool brand just texted. They're canceling the sponsorship and want the deposit back.",
+      "pace": "normal",
+      "tone": "reading bad news, slowly deflating"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Canceling? Three years I've promoted their multitools! They cut anything!",
+      "pace": "fast",
+      "tone": "outraged, voice cracking"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "You only cut sandwiches and shoelaces. Three million subscribers know it now.",
+      "pace": "slow",
+      "tone": "slow, pitiless and deadpan"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "a phone buzzing on a wooden table, hotpot bubbling, a floor cushion scraping as someone stands, rain on the roof, distant thunder",
+    "shots": [
+     {
+      "until": 6,
+      "camera": "50mm over-the-shoulder shot from behind the YouTuber onto the cameraman reading his buzzing phone, slow push-in"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of the YouTuber shooting up to his feet with his multitool, handheld tilt up"
+     },
+     {
+      "until": 15,
+      "camera": "40mm medium two-shot across the low table, the YouTuber standing and the cameraman seated, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Bin's phone buzzes on the table; he picks it up, its screen only a soft glow, and is already speaking in an even voice as he reads.",
+     "@Bin keeps talking, eyes moving across the glowing screen, his face sagging little by little.",
+     "@Bin pushes his round glasses up his nose with one finger, still reading aloud evenly.",
+     "@Bin keeps speaking, lips pressed thin between phrases, his shoulders dropping inside the yellow windbreaker.",
+     "@Bin lowers the phone and looks up over his glasses, finishing the last words.",
+     "@Bin closes his mouth and sets the glowing phone down beside the hotpot.",
+     "@Khang shoots up to his feet, knocking the table edge with his knee, and starts speaking fast, voice cracking.",
+     "@Khang pulls the red folding multitool from his belt pouch and holds it up beside his face, still talking fast.",
+     "@Khang finishes, closes his mouth and shakes the multitool in the air, chest heaving.",
+     "@Bin looks up at him from his floor cushion and answers slowly, without a trace of a smile.",
+     "@Bin keeps speaking slowly, miming a tiny sawing motion with two fingers as if cutting a sandwich.",
+     "@Bin goes on in the same flat voice, picking up the glowing phone again.",
+     "@Bin keeps talking slowly, turning the glowing phone toward @Khang like evidence.",
+     "@Bin keeps speaking slowly, a hint of pity in his raised eyebrows above the round glasses.",
+     "@Bin finishes, closes his mouth and sets the phone down, while @Khang's hand with the multitool slowly sinks."
+    ],
+    "_hinh": "Điện thoại Bin rung; Bin đọc, mặt xụ xuống. Khang đứng bật dậy, chỉ vào con dao đa năng đeo ở thắt lưng.",
+    "_plan": [
+     "@Bin 0.4–5.4s",
+     "@Khang 5.9–8.9s",
+     "@Bin 9.4–14.2s"
+    ]
+   },
+   {
+    "id": "02.3",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Fine. Tonight I sleep alone in the Cave of Hands. Real footage. No cuts.",
+      "pace": "fast",
+      "tone": "decisive, chin up"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "There's a storm coming! The cave is closed! You'd risk your life for views?",
+      "pace": "fast",
+      "tone": "alarmed, pleading fast"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Wait at the ranger station. Six a.m.",
+      "pace": "normal",
+      "tone": "calm and final"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "rain drumming on the roof, thunder rolling over the mountains, the click of a plastic buckle, nylon straps tightening, a wooden floor creaking under quick steps",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "40mm medium two-shot of the YouTuber buckling on his chest harness by the table as lightning flickers in the window, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "24mm wide shot of the cameraman spreading his arms across the doorway, handheld"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of the YouTuber's steady face, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm over-the-shoulder shot from behind the YouTuber onto the cameraman in the doorway, locked off"
+     }
+    ],
+    "steps": [
+     "@Khang looks at the silent lightning flickering in the window and is already speaking, fast and determined, jaw set.",
+     "@Khang picks the black chest harness up from the table and lifts it over his head, still talking.",
+     "@Khang settles the small camera at the center of his chest, still speaking quickly.",
+     "@Khang snaps the harness buckle shut with a loud click, eyes fixed ahead as he talks.",
+     "@Khang tugs the strap tight, finishes his words and closes his mouth.",
+     "@Bin darts to the doorway, plants himself in it with both arms spread across the frame and starts speaking fast.",
+     "@Bin keeps talking urgently, nodding out toward the flickering storm without leaving the doorway.",
+     "@Bin shakes his head hard, glasses slipping, still talking fast with his arms spread.",
+     "@Bin keeps speaking, voice rising, bucket hat askew, palms flat on both sides of the door frame.",
+     "@Bin finishes the question and closes his mouth, still blocking the doorway, breathing hard.",
+     "@Khang looks at him calmly and answers at an even pace, eyes steady.",
+     "@Khang keeps speaking evenly, tapping the camera on his chest once with two fingers.",
+     "@Khang finishes, closes his mouth and gives a single firm nod, lightning glinting on the little camera lens.",
+     "Over @Khang's shoulder @Bin stays in the doorway, slowly lowering his arms, mouth closed.",
+     "@Khang steps toward the door as white lightning flickers across the window, both men silent, mouths closed."
+    ],
+    "_hinh": "Khang nhìn chớp ngoài cửa sổ, đeo đai camera lên ngực, siết khoá. Bin chặn trước cửa, tay dang ra.",
+    "_plan": [
+     "@Khang 0.4–4.6s",
+     "@Bin 5.1–9.3s",
+     "@Khang 9.8–12.7s"
+    ]
+   },
+   {
+    "id": "02.4",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Villagers say a god once stepped out of the lightning, taught the cave people fire, then left with the thunder.",
+      "pace": "normal",
+      "tone": "low and spooky, telling a ghost story"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Nice. Tonight I'll be that god.",
+      "pace": "normal",
+      "tone": "amused, a cocky grin"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "A god who needs me to light his fires?",
+      "pace": "fast",
+      "tone": "calling after him, teasing"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "heavy rain on the roof, the hiss of the gas stove, wooden floorboards creaking under boots, wind gusting through the open door, a loud crack of thunder with the lightning flash",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm over-the-shoulder shot from behind the YouTuber onto the cameraman in the doorway, his face lit from below, locked off"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of the cameraman's face lit from below by his glowing phone, slow push-in"
+     },
+     {
+      "until": 11,
+      "camera": "50mm medium shot of the YouTuber shouldering the orange backpack with a grin, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot from the dark veranda back toward the lit doorway, locked off"
+     }
+    ],
+    "steps": [
+     "@Bin holds his glowing phone under his chin so the light hits his face from below and is already speaking in a low, spooky voice.",
+     "@Bin keeps talking slowly and mysteriously, widening his eyes behind the round glasses.",
+     "@Bin raises his free hand and wiggles his fingers like falling rain as he goes on.",
+     "@Bin leans closer, still speaking in a hushed storyteller's voice, the light trembling on his face.",
+     "@Bin keeps telling the tale, eyes darting toward the window and back.",
+     "@Bin spreads his hand slowly in the air as if a flash of lightning were opening, still speaking low.",
+     "@Bin keeps talking, his eyebrows climbing as the tale reaches its end.",
+     "@Bin finishes the legend, lowers the phone and closes his mouth, watching @Khang.",
+     "@Khang swings the bright orange backpack onto one shoulder, grins and answers at an easy pace.",
+     "@Khang keeps talking with a showman's wink, tapping the camera on his chest with a thumb.",
+     "@Khang finishes, closes his mouth and steps past @Bin through the doorway, still grinning.",
+     "@Khang strides out onto the dark wooden veranda toward the camera as @Bin, in the lit doorway behind him, starts calling after him fast.",
+     "@Bin keeps talking quickly from the doorway, one hand raised, leaning out into the rain.",
+     "@Bin finishes and closes his mouth as a white flash of lightning lights the veranda and the peaks beyond.",
+     "In the white flash @Khang, backpack on, raises one hand over his shoulder without turning round, both mouths closed."
+    ],
+    "_hinh": "Bin hạ giọng như kể chuyện ma, ánh đèn vàng hắt từ dưới lên mặt. Khang cười, khoác ba lô cam lên vai, bước ra hiên nhà sàn đúng lúc chớp loé.",
+    "_plan": [
+     "@Bin 0.4–7.6s",
+     "@Khang 8.1–10.3s",
+     "@Bin 10.8–13.5s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 3,
+  "title": "The Cave of Hands (Đêm giông trong hang Bàn Tay)",
+  "time_label": "23:00 (02:00–03:00)",
+  "location": "Hang đá vôi xuyên núi trong rừng Cúc Phương ngày nay: cửa hang rộng, một nhũ đá to hình con voi, nền đất khô, vách đá phủ hàng trăm dấu bàn tay đỏ son đã mờ. Ngoài cửa hang mưa như trút, chớp trắng loá.",
+  "axis": "Máy quay đứng sâu trong lòng hang nhìn ra cửa hang: cửa hang mưa trắng xoá ở xa, nhũ đá hình con voi treo bên trái, vách đá phủ bàn tay đỏ ở bên phải, Khang ngồi giữa nền đất; riêng 03.4 máy quay đứng trên bãi cát nhìn dọc dòng suối, vách đá vôi bên trái, suối chảy bên phải.",
+  "props": "Đèn pin đội đầu, camera hành trình cầm tay và đai đeo ngực, ba lô cam, vách đá với hàng trăm bàn tay đỏ son và bàn tay to nhất ở giữa; ở 03.4 là bãi cát ướt, đá cuội, ba lô cam nằm cạnh Khang và đèn đỏ của camera.",
+  "setting": "Night inside a large limestone cave today during a raging storm: a wide arched mouth, a huge stalactite shaped like an elephant, a dry earthen floor, a rock wall covered with hundreds of faded red-ochre hand stencils with one bigger hand in the middle and a slightly smaller hand beside it, sheets of rain and white lightning beyond the entrance, light only from a headlamp.",
+  "_setting_key": "CAVE_TODAY_STORM",
+  "clips": [
+   {
+    "id": "03.1",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Eleven p.m., in the Cave of Hands. Nobody with me. Nobody lighting my fires. That rain is real.",
+      "pace": "normal",
+      "tone": "hushed whisper, half thrilled"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "So if you think I fake it, watch closely. This time it's one hundred percent real.",
+      "pace": "fast",
+      "tone": "intense, eyes locked on the lens"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "heavy rain roaring at the cave mouth, water dripping from the stalactite, wind moaning through the cave, a deep roll of thunder after a lightning flash",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "24mm wide shot from deep inside the cave toward the rain-filled mouth, the YouTuber sitting cross-legged in the headlamp's pool of light, locked off"
+     },
+     {
+      "until": 8,
+      "camera": "50mm medium shot of the YouTuber holding the small camera out toward his face, slow push-in"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of his headlamp-lit face staring into the little lens, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm over-the-shoulder shot from behind the YouTuber toward the rain-filled cave mouth, locked off"
+     }
+    ],
+    "steps": [
+     "@Khang sits cross-legged on the dry earthen floor, a headlamp on his forehead, holding the small camera out at arm's length, and is already whispering to it.",
+     "@Khang keeps whispering, turning his head slowly so the headlamp beam slides across the elephant-shaped stalactite above.",
+     "Behind him a sheet of rain pours across the cave mouth as @Khang keeps talking in a hushed voice.",
+     "@Khang swings the camera briefly toward the rain at the entrance, still whispering, then brings it back to his face.",
+     "@Khang leans in toward the little lens and keeps speaking softly, eyes glinting in the headlamp light.",
+     "@Khang shakes his head slowly as he goes on, a drop of rainwater running down his temple.",
+     "@Khang jerks a thumb back toward the pouring rain as he finishes the sentence.",
+     "@Khang closes his mouth for a breath, then stares straight into the little lens and starts speaking again, faster.",
+     "@Khang keeps talking fast and intense, pointing a finger at the lens, jaw tight.",
+     "@Khang narrows his eyes and leans closer, still talking quickly to the camera.",
+     "@Khang taps his own chest twice as he keeps speaking, the headlamp beam bobbing.",
+     "@Khang holds the stare through the last words, nostrils flaring, rain roaring at the mouth behind him.",
+     "@Khang finishes, closes his mouth and holds the camera steady, breathing hard through his nose.",
+     "Over his shoulder a white flash of lightning fills the cave mouth and lights the wall of red hands for an instant, his mouth closed.",
+     "Thunder rolls; @Khang turns his head toward the wall of faded red hands, the headlamp beam swinging onto them, mouth closed."
+    ],
+    "_hinh": "Khang ngồi xếp bằng giữa hang, đèn pin đội đầu, cầm camera quay vào mặt mình. Sau lưng anh cửa hang trắng xoá mưa.",
+    "_plan": [
+     "@Khang 0.4–7.2s",
+     "@Khang 7.7–12.5s"
+    ]
+   },
+   {
+    "id": "03.2",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Here they are. Hundreds of ancient handprints, red ochre.",
+      "pace": "slow",
+      "tone": "hushed and awed"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Locals say the biggest one is the fire god's hand. Let's see how big a god is.",
+      "pace": "normal",
+      "tone": "playful, hamming it up for viewers"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Oh... perfect fit. The god's hand is my size?",
+      "pace": "fast",
+      "tone": "amazed, breaking into a laugh"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "rain roaring outside the cave mouth, steady dripping water, boots scuffing on dry earth, a palm patting cool rock, distant thunder",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of the YouTuber walking along the rock wall as his headlamp beam sweeps the faded red hands, slow pan"
+     },
+     {
+      "until": 8,
+      "camera": "24mm wide shot of the hand-stencilled wall with the bigger red hand in the middle and the YouTuber in profile before it, slow push-in"
+     },
+     {
+      "until": 11,
+      "camera": "85mm close-up of the YouTuber's face in profile as he raises his hand toward the wall, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium shot in profile of the YouTuber with his palm flat inside the big red hand, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang walks slowly along the rock wall, the headlamp beam sliding over rows of faded red handprints, and is already speaking softly in awe.",
+     "@Khang keeps talking slowly, hovering his fingertips just off the faded red stencils.",
+     "The headlamp beam drifts across hundreds of small red hands as @Khang goes on in a low, reverent voice.",
+     "@Khang finishes, closes his mouth and stops, the beam settling on one red hand much bigger than all the rest.",
+     "@Khang steps back to take in the whole wall and starts speaking again at an easy pace, half grinning to his chest camera.",
+     "@Khang keeps talking, nodding up at the big red hand in the middle of the wall.",
+     "@Khang wipes his right palm on his trousers as he goes on, playing it up for the viewers.",
+     "@Khang keeps speaking, spreading his fingers wide and wiggling them toward the camera on his chest.",
+     "@Khang raises his open hand toward the big red stencil, still talking with a showman's smirk.",
+     "@Khang keeps talking as his palm moves closer to the rock, the headlamp lighting his fingers.",
+     "@Khang finishes the sentence and closes his mouth, holding his breath, palm a finger's width from the wall.",
+     "@Khang presses his palm flat into the big red hand, every finger matching the outline exactly, and starts speaking fast, eyes widening.",
+     "@Khang keeps talking quickly, glancing from his hand to the chest camera and back, a laugh rising in his voice.",
+     "@Khang finishes with a short delighted laugh and closes his mouth, hand still flat on the stencil.",
+     "@Khang stays with his palm pressed to the wall, grinning in disbelief, mouth closed, as lightning flickers faintly behind him."
+    ],
+    "_hinh": "Đèn pin quét lên vách: hàng trăm bàn tay đỏ mờ, giữa vách là một bàn tay to hơn hẳn. Khang đặt bàn tay mình vào đúng hình bàn tay ấy, thấy vừa khít, bật cười.",
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Khang 4.5–10.6s",
+     "@Khang 11.1–13.8s"
+    ]
+   },
+   {
+    "id": "03.3",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Hear that? Lightning, right above us! The cave is shaking! My hand's stuck! I can't pull it off! The rock's getting hot like coal!",
+      "pace": "fast",
+      "tone": "panicked, shouting over thunder, breathless"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Bin, if you ever see this... don't cut anything.",
+      "pace": "slow",
+      "tone": "quiet and sincere, to the lens"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "a deafening thunderclap right overhead, rock rumbling and grinding, grit pattering on the floor, a rising electric hum and crackle from the wall, a final sharp crack of thunder with the white flash",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium shot in profile of the YouTuber with his palm on the stencil as dust rains from the ceiling, handheld shake"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of the YouTuber's straining face, handheld"
+     },
+     {
+      "until": 13,
+      "camera": "35mm medium shot of the YouTuber turning his face to his chest camera, his hand glowing on the wall, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "100mm extreme close-up of his hand on the red stencil with white light pouring between the fingers, locked off"
+     }
+    ],
+    "steps": [
+     "A deep boom of thunder shakes the cave; @Khang, palm still on the wall, is already shouting fast, eyes darting up to the ceiling.",
+     "Dust and grit trickle down from the elephant-shaped stalactite as @Khang keeps shouting, ducking his head.",
+     "@Khang keeps talking fast, the headlamp beam jerking across the trembling rock as he looks around.",
+     "@Khang finishes, closes his mouth and tries to pull his hand off the wall, but it does not move.",
+     "@Khang tugs his arm back hard and starts shouting fast again, his palm stuck flat on the big red hand.",
+     "@Khang braces his other hand and one boot against the wall and pulls, still talking fast through clenched teeth.",
+     "A thin white glow seeps out between his fingers as @Khang keeps shouting, sweat shining on his forehead.",
+     "@Khang winces at the heat rising from the rock, breath hissing, and finishes the sentence.",
+     "@Khang closes his mouth, stops pulling, turns his face down to the camera on his chest and begins speaking slowly, voice low.",
+     "@Khang keeps speaking slowly to the little lens, his face lit white from the glowing wall.",
+     "@Khang swallows and goes on softly, eyes shining, the white light growing brighter around him.",
+     "@Khang keeps talking softly to the lens, a small crooked smile on his lips.",
+     "@Khang finishes, closes his mouth and looks back at his glowing hand.",
+     "Blinding white light pours out between his fingers on the red hand stencil as the rock trembles.",
+     "A white flash of lightning swallows the whole frame until everything is pure white."
+    ],
+    "_hinh": "Sấm nổ ngay trên đỉnh núi, cả hang rung, bụi đá rơi lả tả. Khang giật tay nhưng bàn tay dính chặt vào vách; ánh sáng trắng rỉ ra quanh kẽ ngón tay. Giây cuối: tia chớp trắng nuốt cả khung hình.",
+    "_plan": [
+     "@Khang 0.4–3.4s",
+     "@Khang 3.9–8.1s",
+     "@Khang 8.6–12.2s"
+    ]
+   },
+   {
+    "id": "03.4",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Ow... my head. Is it morning? Why am I lying by a stream?",
+      "pace": "slow",
+      "tone": "groggy and confused, wincing"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Bin! You there? Don't hide and film me!",
+      "pace": "normal",
+      "tone": "calling out loudly, half laughing"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Camera's still recording. Okay, everyone, I got hit by lightning and I'm still alive!",
+      "pace": "fast",
+      "tone": "shaky laugh, forcing his showman voice"
+     }
+    ],
+    "setting": "Misty dawn on a sandy bank of a clear jungle stream at the foot of a towering limestone cliff, more than ten thousand years ago: untouched giant trees, reeds, smooth river stones, birdsong, no roads, no buildings, no people.",
+    "_setting_key": "STREAM_DAWN_PAST",
+    "continuity": "cut",
+    "sfx": "a clear stream gurgling over smooth stones, dawn birdsong and insects, wet sand crunching, distant gibbon calls echoing off the cliff",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm close-up of the YouTuber's face resting on the wet sand as his eyes open, locked off"
+     },
+     {
+      "until": 7,
+      "camera": "24mm wide shot of the misty stream bank at the foot of the towering limestone cliff, the YouTuber sitting up beside his orange backpack, slow pull-back"
+     },
+     {
+      "until": 10,
+      "camera": "35mm medium shot of the YouTuber on his knees calling toward the reeds, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the YouTuber looking down at his chest camera with its tiny red light, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang lies on his side on the wet sand, cheek in the grit, eyes fluttering open, and is already speaking slowly in a groggy voice.",
+     "@Khang keeps talking slowly, pressing one hand to his forehead and squinting into the pale mist.",
+     "@Khang pushes himself up on one elbow, still speaking slowly, sand stuck to his cheek.",
+     "@Khang blinks at the clear stream sliding past his boots as he keeps talking, voice thick and dazed.",
+     "@Khang sits up beside his bright orange backpack beneath the towering limestone cliff and keeps speaking, looking around.",
+     "@Khang finishes the question, closes his mouth and turns his head slowly from the stream to the giant trees.",
+     "@Khang gets up onto his knees, raises one hand to the side of his face and calls out loudly toward the reeds.",
+     "@Khang keeps shouting into the mist, turning left and right, eyes narrowed.",
+     "@Khang finishes calling, closes his mouth and listens; only birdsong answers from the giant trees.",
+     "@Khang looks down at the small camera on his chest, sees its tiny red light still glowing, and starts talking fast with a shaky laugh.",
+     "@Khang lifts the camera on its harness toward his face and keeps talking quickly, grinning with a trembling jaw.",
+     "@Khang pats his own chest and arms as if checking he is in one piece, still talking fast.",
+     "@Khang keeps talking, raising one fist in a shaky victory pump, breath unsteady.",
+     "@Khang finishes with a breathless laugh and closes his mouth, still holding the camera close.",
+     "@Khang's grin fades as he looks past the lens at the misty untouched valley, mouth closed, chest rising and falling."
+    ],
+    "_hinh": "Sáng sớm, sương mù. Khang nằm sấp trên bãi cát bờ suối ở chân một vách đá vôi, ba lô cam bên cạnh. Anh ngồi dậy, ôm đầu, nhìn quanh, kiểm tra camera vẫn sáng đèn đỏ.",
+    "_plan": [
+     "@Khang 0.4–5.6s",
+     "@Khang 6.1–9.0s",
+     "@Khang 9.5–13.7s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 4,
+  "title": "No Roads (Rừng không có đường)",
+  "time_label": "Sáng ngày 1, hơn một vạn năm trước (03:00–04:00)",
+  "location": "Cùng thung lũng đá vôi ấy nhưng không có đường nhựa, không có nhà, không có rác: cây cổ thụ khổng lồ, sương sớm, suối trong vắt, bờ cát in dấu chân thú lớn.",
+  "axis": "Máy quay đứng trên bờ cát phía gần, nhìn ngang qua suối: Khang ở bờ gần bên trái khung, dòng suối chảy ngang giữa khung, bụi lau và bờ bên kia ở xa phía phải, núi đá vôi trong sương ở đường chân trời; con tê giác luôn ở bờ bên kia.",
+  "props": "Điện thoại của Khang màn hình chỉ phát sáng, camera đeo ngực, ba lô cam, dấu chân ba ngón to bằng cái mâm trên cát, tảng đá phủ rêu để nấp, bụi lau, con tê giác một sừng.",
+  "setting": "A pristine limestone valley in the Stone Age by morning: a clear stream winding between reed beds, giant primeval trees, sandy banks printed with large three-toed animal tracks, mist lifting off karst peaks, no roads, no buildings, no trash.",
+  "_setting_key": "VALLEY_PAST",
+  "clips": [
+   {
+    "id": "04.1",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "No signal. Not one bar. Where's the road? Where's the guesthouse? It was right here yesterday.",
+      "pace": "normal",
+      "tone": "puzzled, losing patience"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Okay, I get it. Bin set up a prank. Nice props, man, the trees are as big as houses! Come out!",
+      "pace": "fast",
+      "tone": "forced laugh, calling to a hidden friend"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a clear stream rippling over stones, wild birdsong and insects, boots crunching on sand, leaves rustling, a distant gibbon call",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium tracking shot of the YouTuber walking along the stream holding his phone up high, handheld follow"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of the YouTuber frowning at his glowing phone, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "24mm wide shot of the giant primeval trees with the YouTuber turning a full circle among them, slow pan"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium shot of the YouTuber with a stiff grin facing the silent forest, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang walks along the sandy bank holding his phone high above his head, its screen only a soft glow, and is already speaking in a puzzled voice.",
+     "@Khang keeps talking, waving the glowing phone left and right in search of a signal.",
+     "@Khang climbs onto a smooth river stone and stretches the phone higher, still speaking.",
+     "@Khang lowers the glowing phone, frowns at it and keeps talking, glancing up and down the empty bank.",
+     "@Khang stares at the glowing screen, jaw tight, as he goes on at an even pace.",
+     "@Khang points toward the far bend of the stream where a road should be, finishing his words.",
+     "@Khang closes his mouth, slips the phone into a pocket and takes a long breath.",
+     "@Khang forces a big grin, starts talking fast and turns in a slow circle so his chest camera sweeps the giant trees.",
+     "@Khang keeps talking quickly, laughing too loudly, pointing up at a trunk as wide as a house.",
+     "@Khang knocks on the enormous trunk with his knuckles, still talking fast, eyebrows raised.",
+     "@Khang spreads his arms toward the forest and keeps talking, his voice getting louder.",
+     "@Khang raises one hand beside his face and keeps calling out quickly toward the trees.",
+     "@Khang finishes calling out and closes his mouth, the grin stiff on his face.",
+     "@Khang waits, eyes flicking across the silent trees, mouth closed, breathing fast.",
+     "Mist drifts between the giant trunks and nobody steps out; @Khang's forced grin slowly drains away, mouth closed."
+    ],
+    "_hinh": "Khang đi dọc suối, giơ điện thoại lên cao tìm sóng, rồi xoay camera một vòng quanh khu rừng lạ.",
+    "_plan": [
+     "@Khang 0.4–6.2s",
+     "@Khang 6.7–13.0s"
+    ]
+   },
+   {
+    "id": "04.2",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "This footprint... it's as big as a dinner tray. Three round toes. That's something heavy.",
+      "pace": "slow",
+      "tone": "slow and wary, studying the track"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Nothing in Cuc Phuong is this big anymore. And gaur have split hooves.",
+      "pace": "normal",
+      "tone": "thinking aloud, uneasy"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Shh! Wait... what's behind those bushes?",
+      "pace": "fast",
+      "tone": "an urgent whisper"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "reeds rustling heavily with no wind, a clear stream trickling, birds suddenly falling silent, sand crunching under a boot, a heavy animal breathing somewhere behind the reeds",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of the YouTuber squatting beside a huge three-toed footprint pressed deep in the sand, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of the YouTuber's face as he studies the print, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "24mm wide shot of the YouTuber standing with one boot inside the giant print, the reed beds behind him, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the YouTuber whipping round toward the swaying reeds, handheld"
+     }
+    ],
+    "steps": [
+     "@Khang squats beside a huge round three-toed footprint pressed deep into the sand and is already speaking slowly, eyes fixed on it.",
+     "@Khang keeps talking slowly, tracing the rim of the print with one finger.",
+     "@Khang spreads both hands over the print to measure it, still speaking softly.",
+     "@Khang touches each of the three round toe marks in turn as he goes on.",
+     "@Khang looks up from the print and keeps speaking quietly, his brow furrowed.",
+     "@Khang swallows and keeps talking, glancing along the line of prints leading toward the reeds.",
+     "@Khang finishes, closes his mouth and stands up slowly, brushing sand from his knees.",
+     "@Khang sets his boot inside the print, which swallows it with room to spare, and starts speaking again at an even pace.",
+     "@Khang keeps talking, looking down at his boot dwarfed by the print, shaking his head.",
+     "@Khang lifts one hand and holds two fingers apart like a split hoof as he goes on.",
+     "@Khang keeps speaking, then lowers the hand slowly, his face going still.",
+     "@Khang finishes and closes his mouth as the tall reeds behind him sway and rustle.",
+     "@Khang whips round toward the swaying reeds, lifts one finger in the air and whispers fast, eyes wide.",
+     "@Khang keeps whispering, sinking into a low crouch and staring at the reeds as he finishes the question.",
+     "@Khang freezes in the low crouch, mouth closed, as the tall reeds keep swaying."
+    ],
+    "_hinh": "Khang ngồi xổm cạnh một dấu chân ba ngón tròn to bằng cái mâm, lún sâu trong cát; anh đặt bàn chân mình vào cho thấy độ to. Bụi lau phía sau lay động.",
+    "_plan": [
+     "@Khang 0.4–6.4s",
+     "@Khang 6.9–11.6s",
+     "@Khang 12.1–13.9s"
+    ]
+   },
+   {
+    "id": "04.3",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Everyone... a rhino. A real rhino, thirty meters from me.",
+      "pace": "slow",
+      "tone": "barely breathing, in awe"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Rhinos went extinct in Vietnam in two thousand eleven! Bin can't rent one of these!",
+      "pace": "fast",
+      "tone": "rushed whisper, disbelieving"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "It's looking at me... stay down, stay down.",
+      "pace": "slow",
+      "tone": "holding his breath, a thin whisper"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "a large animal slurping and snorting at the water's edge, water dripping, reeds rustling, the stream flowing, birdsong gone quiet",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm over-the-shoulder shot from behind the YouTuber lying behind a mossy boulder, his face in profile at frame left, through the parted reeds onto a huge rhino drinking on the far bank, slow push-in"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of the YouTuber's face pressed low beside the boulder, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium shot past the boulder with the YouTuber's face in profile in the foreground and the rhino across the stream in the background, locked off"
+     }
+    ],
+    "steps": [
+     "@Khang lies flat on his belly behind a mossy boulder, parting the reeds with two fingers, and is already whispering slowly to his chest camera.",
+     "Across the stream a huge grey rhino with one thick horn stands in the shallows drinking, while @Khang keeps whispering.",
+     "@Khang keeps whispering slowly, eyes huge, not blinking as he watches the rhino's folded skin shift.",
+     "@Khang keeps whispering, inching higher behind the boulder for a better look.",
+     "@Khang finishes, closes his mouth for a breath, then starts whispering again, faster and urgent.",
+     "@Khang keeps whispering fast, shaking his head in disbelief, sweat beading on his upper lip.",
+     "@Khang keeps whispering quickly, pointing one finger back over the boulder toward the far bank.",
+     "@Khang keeps whispering, a wild disbelieving grin twitching at the corners of his mouth.",
+     "@Khang presses his palm flat to the boulder and keeps whispering fast.",
+     "@Khang finishes, closes his mouth, and across the stream the rhino lifts its dripping head from the water.",
+     "The rhino turns its great head toward the boulder; @Khang ducks lower and starts whispering slowly, barely breathing.",
+     "@Khang keeps whispering slowly, pressing himself flat into the moss, eyes locked on the rhino.",
+     "@Khang breathes the last words and closes his mouth, holding his breath.",
+     "Behind @Khang, across the stream, the rhino holds its stare, water dripping from its horn, ears flicking; @Khang does not move, mouth closed.",
+     "The rhino snorts softly and swings its heavy head away from the reeds while @Khang lets out a slow silent breath, mouth closed."
+    ],
+    "_hinh": "Qua bụi lau, một con tê giác khổng lồ đang uống nước bên kia suối. Khang nằm rạp sau tảng đá, thì thầm vào camera. Con tê giác ngẩng lên, quay đầu về phía anh.",
+    "_plan": [
+     "@Khang 0.4–4.4s",
+     "@Khang 4.9–9.4s",
+     "@Khang 9.9–13.1s"
+    ]
+   },
+   {
+    "id": "04.4",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "No roads. No trash. Not one motorbike engine.",
+      "pace": "slow",
+      "tone": "quiet and slow, in awe"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Either I'm dreaming, or the lightning sent me back to a time before people built roads.",
+      "pace": "normal",
+      "tone": "thinking aloud, a dawning realisation"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Alright. Real survival. No Bin. No guesthouse. No cuts.",
+      "pace": "fast",
+      "tone": "a deep breath, rallying himself"
+     }
+    ],
+    "continuity": "continuous",
+    "sfx": "heavy footfalls thudding away into the forest, branches swishing as something large passes, the stream flowing, wind in the reeds, birdsong slowly returning",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium shot past the boulder of the YouTuber rising to his knees as the rhino plods away into the forest across the stream, locked off"
+     },
+     {
+      "until": 8,
+      "camera": "24mm wide shot from the side of the YouTuber standing on the boulder in profile against the misty valley and karst peaks, slow pull-back"
+     },
+     {
+      "until": 11,
+      "camera": "35mm medium shot of the YouTuber on the boulder turning from the valley, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the YouTuber holding his small camera toward his face, locked off"
+     }
+    ],
+    "steps": [
+     "Across the stream the rhino turns and plods toward the trees while @Khang, rising to his knees behind the boulder, is already speaking slowly and quietly.",
+     "@Khang keeps talking slowly, watching the rhino's grey rump vanish between the giant trunks.",
+     "@Khang climbs up onto the top of the mossy boulder, still speaking softly, eyes on the forest edge.",
+     "@Khang finishes, closes his mouth and straightens up on top of the boulder, the orange backpack on his shoulders.",
+     "@Khang stands on the boulder against the misty valley and starts speaking again at an even pace, turning his head slowly across the view.",
+     "@Khang keeps talking as mist lifts off the karst peaks and the stream winds through untouched reed beds below.",
+     "@Khang shakes his head slowly as he goes on, one hand raised to shade his eyes.",
+     "@Khang keeps speaking, pointing up at the clear sky where the lightning came from.",
+     "@Khang lowers his hand and keeps talking, his voice dropping, jaw working.",
+     "@Khang finishes the thought, closes his mouth and lets out a long breath.",
+     "@Khang draws a deep breath, lifts the small camera on its harness toward his face and starts speaking fast into it.",
+     "@Khang holds the little lens close and keeps talking fast, nodding to himself.",
+     "@Khang finishes with a firm set of the jaw and closes his mouth.",
+     "@Khang stares into the little lens for a long moment, breathing deeply, mouth closed.",
+     "@Khang lowers the camera, turns to face the empty valley and squares his shoulders, mouth closed, the orange backpack on his back."
+    ],
+    "_hinh": "Con tê giác thong thả đi vào rừng. Khang đứng dậy trên tảng đá, nhìn toàn cảnh thung lũng không một dấu vết con người, rồi quay camera về mặt mình.",
+    "_plan": [
+     "@Khang 0.4–3.6s",
+     "@Khang 4.1–9.9s",
+     "@Khang 10.4–13.1s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 5,
+  "title": "Day One: Water and Fire (Ngày 1: Nước và lửa)",
+  "time_label": "Trưa (04:00–05:00)",
+  "location": "Rừng già ven suối buổi trưa: dây leo to bằng cổ tay, bụi tre, chuối rừng, đá phủ rêu, nắng loang trên lá.",
+  "axis": "Máy quay đứng trên thảm lá dưới tán rừng, quay lưng về phía suối: bụi tre bên trái, gốc cây cổ thụ với dây leo to bằng cổ tay bên phải, Khang ở giữa khung, nắng loang rọi từ phía trên bên phải.",
+  "props": "Tàu lá chuối bày đồ (dao đa năng màu đỏ, còi trên dây, tấm chăn bạc gấp, gói mì tôm vàng không chữ, tấm sạc pin mặt trời, bật lửa ướt), đoạn dây leo nhỏ nước, que khoan lửa và miếng gỗ khô, ba lô cam, camera đeo ngực.",
+  "setting": "Dense primeval jungle beside a stream at midday in the Stone Age: lianas as thick as a wrist hanging from giant trees, clumps of bamboo, wild banana plants, mossy rocks, dappled sunlight on a carpet of leaves.",
+  "_setting_key": "JUNGLE_PAST",
+  "clips": [
+   {
+    "id": "05.1",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Inventory: one multitool, one whistle, one silver emergency blanket, one pack of instant noodles, and a solar charger.",
+      "pace": "normal",
+      "tone": "brisk show-and-tell for the viewers"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Rule of three: three minutes without air, three days without water, three weeks without food. First, water.",
+      "pace": "fast",
+      "tone": "counting it off fast, teacher mode"
+     }
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "continuity": "cut",
+    "sfx": "insects buzzing, birdsong in the canopy, a crinkling foil noodle packet, a soft clink of metal tools on a leaf, the stream babbling nearby",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of the YouTuber kneeling over a broad banana leaf laid with his gear, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of the YouTuber holding the folded silver blanket beside his face, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm medium shot of the YouTuber sitting back on his heels counting on his fingers, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the YouTuber rising from his gear under the giant trees and hanging lianas, slow pan"
+     }
+    ],
+    "steps": [
+     "@Khang kneels over a broad banana leaf laid with his gear and is already speaking at an even pace, pointing at a red folding multitool.",
+     "@Khang keeps talking, tapping a small silver whistle on a cord, then a tightly folded silver blanket.",
+     "@Khang picks up a shiny gold packet of instant noodles and shakes it so it crinkles, still speaking.",
+     "@Khang sets the packet down and keeps talking, touching a small folding solar charger panel and a pocket lighter.",
+     "@Khang lifts the folded silver blanket beside his face and keeps speaking to his chest camera, eyebrows raised.",
+     "@Khang tilts the folded blanket so it flashes in the dappled sun, still talking evenly.",
+     "@Khang finishes, closes his mouth and lays the blanket back on the leaf.",
+     "@Khang sits back on his heels, holds up three fingers and starts talking fast.",
+     "@Khang keeps talking quickly, pinching his nose for a moment with his other hand.",
+     "@Khang keeps counting on his three fingers, tapping each one as he talks fast.",
+     "@Khang keeps talking, patting his stomach and then shaking three fingers at the lens.",
+     "@Khang stands up and points past the bamboo toward the hanging lianas, still talking fast.",
+     "@Khang finishes, closes his mouth and brushes the dirt from his hands.",
+     "@Khang tucks the gear into his trouser pockets and harness pouches, mouth closed.",
+     "@Khang strides toward a thick liana hanging from a giant tree, mouth closed, dappled sunlight sliding over his shoulders."
+    ],
+    "_hinh": "Khang bày đồ lên một tàu lá chuối: dao đa năng, còi, tấm chăn bạc gấp, gói mì tôm, tấm sạc pin mặt trời, bật lửa. Anh chỉ từng món cho camera.",
+    "_plan": [
+     "@Khang 0.4–6.9s",
+     "@Khang 7.4–12.5s"
+    ]
+   },
+   {
+    "id": "05.2",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Never drink unboiled stream water out here. But this vine holds clean water.",
+      "pace": "normal",
+      "tone": "confident survival-expert lecture"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Cut the top first, then the bottom. There! It's dripping!",
+      "pace": "fast",
+      "tone": "excited, hurrying"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Sweet. I read this in my script... I mean, a book.",
+      "pace": "slow",
+      "tone": "smug, then a sheepish slip"
+     }
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "continuity": "cut",
+    "sfx": "a small saw rasping through fibrous vine, the vine creaking, clear water dripping onto leaves, birdsong and insects, the stream nearby",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of the YouTuber beside a thick liana hanging from a giant tree, multitool in hand, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "24mm low-angle wide shot of the YouTuber reaching up to cut the liana high above his head, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the YouTuber's face beneath the cut end of the liana as clear water drips, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium shot of the YouTuber sipping from his palm and turning to his chest camera, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang stands beside a liana as thick as a wrist hanging from a giant tree and is already speaking evenly, patting the vine with his free hand.",
+     "@Khang keeps talking, wagging a finger back toward the stream behind him.",
+     "@Khang unfolds the small saw of his red multitool, still speaking at an even pace.",
+     "@Khang keeps talking as he wraps his hand around the liana and looks up along it.",
+     "@Khang reaches high above his head and starts sawing the liana there, finishing his sentence.",
+     "@Khang saws through the top of the liana, then starts talking fast again, eyes bright.",
+     "@Khang crouches and saws through the liana low near the ground, still talking quickly.",
+     "@Khang lifts the cut length of vine, tilting the lower end down, and keeps talking fast.",
+     "Clear water begins to drip from the cut end; @Khang points at it, finishes and closes his mouth, holding his cupped palm under the drops.",
+     "@Khang sips the water from his palm and starts speaking slowly, licking his lips with satisfaction.",
+     "@Khang keeps talking slowly, letting more drops fall into his palm, eyes half closed in pleasure.",
+     "@Khang keeps speaking, then catches himself, eyes darting sideways in the middle of a word.",
+     "@Khang keeps talking slowly, correcting himself with a sheepish wave of the hand.",
+     "@Khang finishes, closes his mouth and gives his chest camera a tight, innocent smile.",
+     "@Khang raises the dripping vine like a trophy toward the lens, mouth closed, drops sparkling in the dappled sun."
+    ],
+    "_hinh": "Khang chặt một đoạn dây leo to bằng dao đa năng: nhát trên trước, nhát dưới sau. Nước trong nhỏ giọt từ đầu dây; anh ngửa cổ hứng vào miệng.",
+    "_plan": [
+     "@Khang 0.4–5.1s",
+     "@Khang 5.6–8.6s",
+     "@Khang 9.1–13.5s"
+    ]
+   },
+   {
+    "id": "05.3",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Now fire. Lighter... it won't light. Soaked from last night? Come on!",
+      "pace": "fast",
+      "tone": "frustrated, flicking a dead lighter"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No problem. Old-school method: the hand drill. Spin fast, friction makes heat, heat makes fire.",
+      "pace": "normal",
+      "tone": "recovering, a confident teacher voice"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Watch closely, everyone, smoke is coming any second!",
+      "pace": "fast",
+      "tone": "breathless, forcing the hype"
+     }
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "continuity": "cut",
+    "sfx": "the scrape and click of a wet lighter wheel, a wooden drill squeaking and whirring in a notch, heavy breathing, insects buzzing, birdsong",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm close-up of the YouTuber flicking a wet lighter that only sparks, locked off"
+     },
+     {
+      "until": 7,
+      "camera": "35mm medium shot of the YouTuber tossing the lighter into the orange backpack and kneeling over a dry board, handheld"
+     },
+     {
+      "until": 11,
+      "camera": "24mm wide shot of the YouTuber kneeling in a shaft of sunlight spinning a wooden drill between his palms, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of his sweating face as he spins harder, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang kneels on the leaf carpet flicking a pocket lighter that only spits sparks and is already talking fast, frowning at it.",
+     "@Khang shakes the lighter hard and keeps talking, the wheel scraping with no flame.",
+     "@Khang blows on the lighter, flicks again, sparks only, and keeps talking in a rising voice.",
+     "@Khang finishes with an exasperated groan and closes his mouth, glaring at the lighter.",
+     "@Khang tosses the lighter into the open orange backpack and starts speaking again at an even pace, putting on a confident smile.",
+     "@Khang sets a flat dry board on the ground and presses one boot on it, still talking.",
+     "@Khang holds up a straight wooden drill stick to his chest camera like a magician, still speaking.",
+     "@Khang sets the stick in a notch on the board and begins spinning it between his flat palms, talking as he works.",
+     "@Khang keeps spinning faster, hands sliding down the stick, still explaining evenly.",
+     "@Khang keeps talking through quick breaths, sweat starting to bead on his forehead.",
+     "@Khang finishes the explanation, closes his mouth and spins harder, jaw clenched.",
+     "@Khang glances up at his chest camera and starts talking fast, still spinning the stick.",
+     "@Khang keeps talking quickly, a drop of sweat falling off his nose onto the board.",
+     "@Khang finishes, closes his mouth and grits his teeth, palms whirling the stick.",
+     "No smoke rises from the notch; @Khang keeps spinning, breathing hard through his nose, mouth closed."
+    ],
+    "_hinh": "Khang bật bật lửa: chỉ tóe tia, không cháy. Anh lắc, thổi, bật lại. Rồi anh vứt nó vào ba lô, xoay que gỗ trên một miếng gỗ khô, mồ hôi nhỏ giọt.",
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Khang 4.5–10.3s",
+     "@Khang 10.8–13.2s"
+    ]
+   },
+   {
+    "id": "05.4",
+    "chars": [
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Two hours. Blisters everywhere. Not one wisp of smoke.",
+      "pace": "slow",
+      "tone": "drained and hoarse"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Okay, confession. Three years running a survival channel, and I have never made a fire myself. Nobody will ever see this. So why not be honest.",
+      "pace": "normal",
+      "tone": "quiet honesty, no performance, then a small rueful smile"
+     }
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "continuity": "cut",
+    "sfx": "insects droning in the afternoon heat, dry leaves rustling under a body, distant birdsong, a slow tired breath",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium overhead shot of the YouTuber lying on his back on the leaves holding the small camera above his face, locked off"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of the YouTuber's face looking up into the little lens, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "24mm wide shot of the YouTuber lying on the leaf carpet beside the board and drill under the giant trees, slow rise"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of his face with a tired crooked smile, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang lies on his back on the leaf carpet holding the small camera above his face and is already speaking slowly, voice hoarse with exhaustion.",
+     "@Khang turns one hand toward the lens to show a palm covered in swollen red blisters, still talking slowly.",
+     "@Khang tilts the camera toward the board beside him, where the drill tip is only blackened and no smoke rises, and keeps speaking.",
+     "@Khang finishes, closes his mouth and lets his arm drop onto the leaves with a long exhale.",
+     "@Khang stares up at the canopy for a breath, then looks into the lens and starts speaking at an even pace, quieter.",
+     "@Khang keeps talking, his showman smile gone, eyes steady on the lens.",
+     "@Khang swallows and keeps speaking, the dappled light trembling across his sweaty face.",
+     "@Khang keeps talking, shaking his head slowly against the dry leaves under him.",
+     "@Khang keeps speaking evenly, flexing his red blistered fingers in the air above his chest.",
+     "@Khang keeps talking as he lifts the camera a little higher, eyes wet and shining in the sunlight.",
+     "@Khang finishes, closes his mouth for a moment, then starts speaking again with a small tired smile.",
+     "@Khang keeps talking evenly, letting out a soft breath of a laugh.",
+     "@Khang keeps speaking, rubbing his thumb over a blister, eyes on the lens.",
+     "@Khang keeps talking quietly, the crooked smile settling into something calmer and softer.",
+     "@Khang finishes, closes his mouth and lets the camera rest on his chest, staring up at the canopy."
+    ],
+    "_hinh": "Hai tiếng sau: lòng bàn tay Khang phồng rộp đỏ, que gỗ chỉ đen đầu, không có khói. Anh nằm ngửa trên lá, giơ camera lên trên mặt.",
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Khang 4.5–10.3s",
+     "@Khang 10.8–14.4s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 6,
+  "title": "The Boy on the Rock (Cậu bé trên tảng đá)",
+  "time_label": "Chiều ngày 1 (05:00–06:00)",
+  "location": "Khúc suối rộng có một tảng đá lớn giữa dòng; bờ bên kia là bìa rừng rậm; nắng chiều chói trên mặt nước.",
+  "axis": "Máy quay đặt ở hạ lưu nhìn ngược dòng: bờ gần có bụi lau và Khang ở bên trái khung, tảng đá đỉnh phẳng giữa dòng ở giữa, bờ bên kia với bìa rừng và con hổ ở bên phải; Khang luôn nhìn sang phải, con hổ không bao giờ xuống nước.",
+  "props": "Tấm chăn bạc giữ nhiệt, cái còi trên dây ở đai ngực, camera đeo ngực, tảng đá đỉnh phẳng giữa suối, vỏ ốc suối Snail giơ lên, chuỗi vỏ ốc trên cổ Stream, giáo tre mũi đá Stream cầm ngang thân rồi dựng đứng, giỏ mây sau lưng Stream.",
+  "setting": "A wide jungle stream in the Stone Age in afternoon light: a big flat-topped boulder in the middle of the current, thick reeds on the near bank, a dense forest edge about twenty meters away on the far bank, sun glare on the water.",
+  "_setting_key": "STREAM_ROCK_PAST",
+  "clips": [
+   {
+    "id": "06.1",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Help! Help! The tiger's been waiting for me since the sun was high!",
+      "pace": "fast",
+      "tone": "high-pitched panic, shouting"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Stay up there! Don't jump in the water! I'm thinking, don't be scared!",
+      "pace": "fast",
+      "tone": "breathless, shouting, thinking fast"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Stranger! It's looking at you now! It's going to cross!",
+      "pace": "fast",
+      "tone": "a shrill warning, pointing"
+     }
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "continuity": "cut",
+    "sfx": "rushing stream water, a low rumbling growl from the far bank, reeds thrashing as someone pushes through, quick panting breaths, cicadas",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium shot of the boy crouched on top of the flat boulder in the middle of the stream, shouting toward the near bank, handheld"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of the YouTuber pushing out of the reeds on the near bank, panting, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "24mm wide shot down the stream with the boy on the boulder in the middle and the tiger pacing under the trees on the far bank, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "135mm close-up of the tiger standing at the water's edge on the far bank, locked off"
+     }
+    ],
+    "steps": [
+     "@Snail crouches on top of the flat boulder in the middle of the stream, clutching the rock with both hands, and is already shouting fast toward the near bank.",
+     "@Snail keeps shouting, waving one small arm, his big eyes darting toward the far bank.",
+     "@Snail points a shaking finger across the water as he keeps shouting, the tuft of hair on his head bobbing.",
+     "@Snail keeps shouting the last words, hugging his knees in his small bark-cloth tunic, breathing in quick gasps.",
+     "@Khang pushes out through the tall reeds onto the near bank, chest heaving, and starts shouting fast toward the boulder.",
+     "@Khang keeps shouting, both palms raised toward the boy as if to hold him in place.",
+     "@Khang keeps talking fast, glancing across the stream toward the far bank, sweat on his face.",
+     "@Khang taps his own temple with two fingers, still talking quickly, eyes flicking around for an idea.",
+     "@Khang finishes, closes his mouth and swallows hard, staring across the water at the far bank.",
+     "@Snail on the boulder points across the stream and starts shouting fast again, while on the far bank a striped tiger paces under the trees.",
+     "@Snail keeps shouting, voice cracking, as the tiger stops pacing on the far bank and turns its head toward the near bank.",
+     "@Snail keeps shouting quickly, scrambling to the highest point of the boulder, as the tiger takes one slow step toward the edge of its own bank.",
+     "@Snail finishes and closes his mouth, frozen with his knees pulled up and both hands flat on the rock.",
+     "On the far bank the tiger stands at the edge of the water, head low, amber eyes fixed across the stream, tail swaying.",
+     "The tiger lowers its nose toward the water on its own side of the stream and stays there, ears forward, never stepping in."
+    ],
+    "_hinh": "Snail co ro trên đỉnh tảng đá giữa suối, hét về phía bờ. Bờ bên kia, xa chừng hai chục mét, một con hổ đi đi lại lại dưới bóng cây. Khang lao ra từ bụi lau.",
+    "_plan": [
+     "@Snail 0.4–4.3s",
+     "@Khang 4.8–8.7s",
+     "@Snail 9.2–12.2s"
+    ]
+   },
+   {
+    "id": "06.2",
+    "chars": [
+     "@Khang",
+     "@Snail"
+    ],
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Hey! Go away! Look at this! Shiny, huh? Big, huh? I'm bigger than you! Look big, make noise, never turn your back and run!",
+      "pace": "fast",
+      "tone": "yelling and making himself big, then panting"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "The silver skin shines like the sun! The tiger's backing off!",
+      "pace": "fast",
+      "tone": "squealing with wonder"
+     }
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "continuity": "cut",
+    "sfx": "a foil blanket crackling and snapping in the wind, the rushing stream, a low growl fading into the forest, a sharp whistle blowing in short bursts, a boy's delighted gasp",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of the YouTuber at the edge of the reeds shaking open a crackling silver blanket, handheld"
+     },
+     {
+      "until": 8,
+      "camera": "24mm wide shot down the stream with the YouTuber on the near bank holding the blazing silver blanket high, the boy on the boulder in the middle and the tiger on the far bank, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of the boy on the boulder lit by the flashing silver light, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind the YouTuber past the raised blanket toward the far bank, locked off"
+     }
+    ],
+    "steps": [
+     "@Khang pulls the folded silver blanket from his cargo pocket, shakes it open with a loud crackle and is already shouting fast across the stream.",
+     "@Khang hoists the silver blanket high over his head with both arms so it catches the sun and flares, still shouting.",
+     "@Khang waves the blazing silver sheet from side to side, shouting fast toward the far bank, eyes wide.",
+     "@Khang rises on his toes and spreads the blanket wider above him, still shouting, cords standing out in his neck.",
+     "@Khang finishes the shout and closes his mouth for a breath, the silver sheet flashing sunlight across the water.",
+     "@Khang starts shouting again fast, holding his ground on the near bank, never turning his back to the far bank.",
+     "Light from the blanket dances over the far bank as @Khang keeps shouting, and the tiger there stops and squints.",
+     "@Khang keeps shouting, stamping one boot at the edge of his own bank, then finishes and closes his mouth as the tiger takes a step back.",
+     "@Snail on the boulder stares at the flashing silver light, eyes huge, and starts crying out fast with delight.",
+     "@Snail keeps shouting excitedly, pointing at the far bank with one small hand.",
+     "@Snail bounces on his knees on the boulder, still shouting, a huge grin on his round face.",
+     "@Snail finishes, closes his mouth and claps both hands to his chest, beaming.",
+     "@Khang raises the whistle on its cord to his lips and blows sharp bursts, the blanket still held high.",
+     "Across the stream the tiger flattens its ears, turns away and slinks back between the trees of the far bank.",
+     "The tiger's striped tail vanishes into the forest; @Khang lowers the whistle and the blanket, chest heaving, mouth closed."
+    ],
+    "_hinh": "Khang giật tấm chăn bạc giũ tung ra, giơ cao hứng nắng loé thẳng sang bờ bên kia, thổi còi liên hồi, hét to. Con hổ khựng lại, lùi, quay đầu vào rừng. Snail trên tảng đá há hốc.",
+    "_plan": [
+     "@Khang 0.4–4.6s",
+     "@Khang 5.1–8.1s",
+     "@Snail 8.6–11.9s"
+    ]
+   },
+   {
+    "id": "06.3",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Silver skin! Shinier than water! Even the tiger's scared! Let me touch!",
+      "pace": "normal",
+      "tone": "delighted and awed"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "It's not skin, it's a blanket. Twelve bucks online. Where do you live?",
+      "pace": "normal",
+      "tone": "tired, amused, matter-of-fact"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "My name is like this! I live in the cave up there!",
+      "pace": "fast",
+      "tone": "proud and bouncy, showing his shell"
+     }
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "continuity": "cut",
+    "sfx": "water sloshing around wading legs, a foil blanket crinkling, the stream rushing over the boulder, bare feet landing on wet sand, birds calling at the forest edge",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "35mm medium two-shot of the YouTuber wading knee-deep toward the near bank with the boy riding on his back, handheld follow"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of the YouTuber's face with the boy's hand reaching past his cheek to the silver blanket, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "24mm wide shot of the two of them on the sandy near bank as the boy hops down, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the boy holding up a small stream-snail shell beside his grin, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang wades knee-deep through the stream toward the near bank with @Snail riding on his back, and @Snail is already talking excitedly, patting the silver blanket over @Khang's shoulders.",
+     "@Snail keeps talking, rubbing a corner of the crinkling silver blanket between his fingers, eyes round.",
+     "@Snail holds the shiny corner up to the sun and keeps talking, the light flashing on his face.",
+     "@Snail leans over @Khang's shoulder to peer at his own reflection in the blanket, still talking.",
+     "@Snail finishes, closes his mouth and presses his cheek to the shiny blanket, grinning.",
+     "@Khang, still wading, glances back over his shoulder and starts answering evenly, a tired smile on his face.",
+     "@Khang keeps talking at an easy pace, gently tugging the blanket edge out of the small fingers.",
+     "@Khang keeps speaking, raising his eyebrows with a wry little shrug under the boy's weight.",
+     "@Khang steps up onto the sand and keeps talking, looking up at the boy on his back.",
+     "@Khang finishes the question, closes his mouth and crouches so @Snail can slide down.",
+     "@Snail hops down onto the sand and starts talking fast, fingering the string of shells on his wrist.",
+     "@Snail keeps talking fast, holding up a small spiral stream-snail shell right in front of @Khang's nose.",
+     "@Snail keeps talking quickly, tapping the shell and then his own chest, beaming.",
+     "@Snail points up toward the limestone cliff beyond the trees with the shell, still talking fast.",
+     "@Snail finishes, closes his mouth and grins up at @Khang with the shell held high."
+    ],
+    "_hinh": "Khang lội ra, cõng Snail vào bờ. Snail sờ tấm chăn bạc sột soạt, mắt tròn xoe, rồi giơ lên một vỏ ốc suối.",
+    "_plan": [
+     "@Snail 0.4–4.7s",
+     "@Khang 5.2–9.9s",
+     "@Snail 10.4–14.0s"
+    ]
+   },
+   {
+    "id": "06.4",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Don't move! Away from my brother! Why is your skin green?",
+      "pace": "fast",
+      "tone": "fierce and guarded, demanding"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Easy! I just saved him from a tiger! It's a shirt, not skin!",
+      "pace": "fast",
+      "tone": "hands up, placating, talking fast"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "What is shirt? Come. Grandmother decides if you're man or ghost.",
+      "pace": "normal",
+      "tone": "wary and curious, laying down terms"
+     }
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "continuity": "cut",
+    "sfx": "reeds rustling and parting, the stream rushing over the boulder, bare feet on wet sand, snail shells clicking on a necklace, birds calling at the forest edge",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium shot of the girl stepping out of the reeds with a bamboo spear held level across her body, handheld"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of the YouTuber raising both hands, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "35mm over-the-shoulder shot from behind the YouTuber onto the girl, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the two on the sandy bank with the stream and the boulder behind them, locked off"
+     }
+    ],
+    "steps": [
+     "@Stream steps fast out of the tall reeds, a long bamboo spear with a chipped stone head held level across her body in both hands, and is already speaking sharply.",
+     "@Stream plants her bare feet on the sand, still speaking fast, the stream-snail necklace swinging on her chest.",
+     "@Stream keeps talking, eyes narrowing as they run down @Khang's olive-green shirt, the spear still held crosswise.",
+     "@Stream finishes the question, closes her mouth and holds her ground, jaw tight.",
+     "@Khang shoots both hands up, palms open, and starts talking fast, eyes flicking to the spear.",
+     "@Khang keeps talking quickly, jerking his head back toward the boulder in the stream.",
+     "@Khang keeps talking, pinching the front of his olive-green shirt between finger and thumb to show it.",
+     "@Khang finishes, closes his mouth and holds his hands high, breathing hard, a shaky half smile on his face.",
+     "@Stream tilts her head at the strange word, then starts speaking evenly, her eyes still wary.",
+     "@Stream keeps talking, lowering the spear a little but keeping it across her body.",
+     "@Stream jerks her chin toward the limestone cliff upstream as she keeps speaking.",
+     "@Stream keeps speaking evenly, studying @Khang's face as if deciding something, her grip easing on the spear.",
+     "@Stream finishes, closes her mouth and steps aside to let him pass, the spear now upright in one hand.",
+     "@Khang lowers his hands slowly and walks ahead of her along the sand, mouth closed, glancing back at the spear.",
+     "@Stream follows two paces behind with the spear held upright, mouth closed, the snail-shell necklace clicking against her chest."
+    ],
+    "_hinh": "Stream lao ra từ bụi lau, giáo tre mũi đá chĩa vào ngực Khang, chuỗi vỏ ốc trên cổ đung đưa. Khang giơ hai tay. (Snail nấp sau lưng Stream, chỉ thấy trong cảnh quay riêng.)",
+    "_plan": [
+     "@Stream 0.4–3.7s",
+     "@Khang 4.2–8.1s",
+     "@Stream 8.6–12.6s"
+    ]
+   }
+  ]
+ }
+]

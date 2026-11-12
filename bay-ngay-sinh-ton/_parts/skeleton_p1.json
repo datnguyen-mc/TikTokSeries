@@ -1,0 +1,826 @@
+[
+ {
+  "num": 1,
+  "title": "Five-Star Survival (Sinh tồn năm sao)",
+  "time_label": "Chiều, rừng Cúc Phương ngày nay (00:00–01:00)",
+  "clips": [
+   {
+    "id": "01.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Day three. No food, no clean water. I have no choice, I have to eat this worm to survive!",
+      "pace": "fast",
+      "_tone_vi": "diễn sâu"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Cut! Khang, we're out of gummy worms. That one's real.",
+      "pace": "normal",
+      "_tone_vi": "thản nhiên"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Real? Forget it. Fire scene first.",
+      "pace": "fast",
+      "_tone_vi": "ném con sâu"
+     }
+    ],
+    "_hinh": "Khang quỳ bên gốc chò, mặt nhăn khổ sở, nói vào camera đeo ngực, hai ngón tay kẹp một con sâu béo đang ngọ nguậy. Bin cầm gimbal, hạ máy, chìa ra một túi kẹo dẻo rỗng.",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "_plan": [
+     "@Khang 0.4–6.1s",
+     "@Bin 6.6–10.2s",
+     "@Khang 10.7–12.5s"
+    ]
+   },
+   {
+    "id": "01.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Friction, friction, patience makes fire! There's smoke! I can survive anywhere!",
+      "pace": "fast",
+      "_tone_vi": "diễn"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "That's my lighter. Three years, I've lit every fire for you. You've never made one yourself.",
+      "pace": "normal",
+      "_tone_vi": "chán"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Keep your voice down! The mic picks up everything.",
+      "pace": "fast",
+      "_tone_vi": "thì thào gắt"
+     }
+    ],
+    "_hinh": "Khang chụm củi, xoay que gỗ như diễn viên võ thuật. Ngoài khung hình, Bin nấp sau gốc cây bật bật lửa châm vào bùi nhùi rồi đẩy vào. Khói bốc lên, Khang giơ tay chiến thắng.",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "_plan": [
+     "@Khang 0.4–3.7s",
+     "@Bin 4.2–10.0s",
+     "@Khang 10.5–13.2s"
+    ]
+   },
+   {
+    "id": "01.3",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Khang, the tourist shuttle drove behind you. Third time. They waved.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "So cut it! Make it look like deep jungle. Add monkey howls, add some fog.",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Sure. So, tonight at the guesthouse, goat hotpot or hill chicken?",
+      "pace": "slow",
+      "_tone_vi": "cười nhạt"
+     }
+    ],
+    "_hinh": "Sau lưng Khang, qua kẽ lá, một chiếc xe điện chở khách chạy ngang trên đường nhựa, du khách vẫy tay. Bin chỉ tay; Khang quay lại, vội lấy thân che ống kính.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "_plan": [
+     "@Bin 0.4–4.4s",
+     "@Khang 4.9–9.4s",
+     "@Bin 9.9–14.3s"
+    ]
+   },
+   {
+    "id": "01.4",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "This comment: five-star survival, sleeps in a guesthouse, eats goat hotpot. Ten thousand likes.",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Keyboard warriors. One night out here and they'd cry for mommy.",
+      "pace": "normal",
+      "_tone_vi": "khinh khỉnh"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "Have you ever spent one real night in the jungle?",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Bin chìa điện thoại, màn hình chỉ phát sáng. Khang liếc qua, nhếch mép, khoanh tay. Bin nhìn thẳng vào anh.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "_plan": [
+     "@Bin 0.4–4.9s",
+     "@Khang 5.4–9.4s",
+     "@Bin 9.9–13.9s"
+    ]
+   }
+  ],
+  "location": "Rừng nguyên sinh Cúc Phương hôm nay: cây chò cổ thụ, rễ bạnh vè, dây leo, nắng chiều xiên qua tán lá. Cách máy quay hai chục mét là con đường nhựa cho xe điện chở khách du lịch.",
+  "setting": "Cúc Phương primeval forest in northern Vietnam today, late afternoon: giant old trees with huge buttress roots, thick lianas, ferns and mossy limestone boulders, green-gold sunlight slanting through the canopy, a narrow paved visitor road glimpsed through the leaves.",
+  "_setting_key": "FOREST_TODAY"
+ },
+ {
+  "num": 2,
+  "title": "Busted (Bị bóc phốt)",
+  "time_label": "Tối, nhà nghỉ ven rừng (01:00–02:00)",
+  "clips": [
+   {
+    "id": "02.1",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Khang, someone filmed you ordering pizza delivery into the jungle. Two million views already!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Who filmed it? That night it was just you, me, and the delivery guy!",
+      "pace": "fast",
+      "_tone_vi": "sặc"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "The delivery guy is subscribed to your channel.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang đang gắp lẩu, Bin dí điện thoại sát mặt anh. Khang sặc, buông đũa.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "_plan": [
+     "@Bin 0.4–4.6s",
+     "@Khang 5.1–9.3s",
+     "@Bin 9.8–13.0s"
+    ]
+   },
+   {
+    "id": "02.2",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "The multitool brand just texted. They're canceling the sponsorship and want the deposit back.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Canceling? Three years I've promoted their multitools! They cut anything!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Bin",
+      "line": "You only cut sandwiches and shoelaces. Three million subscribers know it now.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Điện thoại Bin rung; Bin đọc, mặt xụ xuống. Khang đứng bật dậy, chỉ vào con dao đa năng đeo ở thắt lưng.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "_plan": [
+     "@Bin 0.4–5.4s",
+     "@Khang 5.9–8.9s",
+     "@Bin 9.4–14.2s"
+    ]
+   },
+   {
+    "id": "02.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Fine. Tonight I sleep alone in the Cave of Hands. Real footage. No cuts.",
+      "pace": "fast",
+      "_tone_vi": "quyết"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "There's a storm coming! The cave is closed! You'd risk your life for views?",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Wait at the ranger station. Six a.m.",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang nhìn chớp ngoài cửa sổ, đeo đai camera lên ngực, siết khoá. Bin chặn trước cửa, tay dang ra.",
+    "chars": [
+     "@Khang",
+     "@Bin"
+    ],
+    "_plan": [
+     "@Khang 0.4–4.6s",
+     "@Bin 5.1–9.3s",
+     "@Khang 9.8–12.7s"
+    ]
+   },
+   {
+    "id": "02.4",
+    "turns": [
+     {
+      "speaker": "@Bin",
+      "line": "Villagers say a god once stepped out of the lightning, taught the cave people fire, then left with the thunder.",
+      "pace": "normal",
+      "_tone_vi": "bí ẩn"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Nice. Tonight I'll be that god.",
+      "pace": "normal",
+      "_tone_vi": "cười"
+     },
+     {
+      "speaker": "@Bin",
+      "line": "A god who needs me to light his fires?",
+      "pace": "fast",
+      "_tone_vi": "gọi với theo"
+     }
+    ],
+    "_hinh": "Bin hạ giọng như kể chuyện ma, ánh đèn vàng hắt từ dưới lên mặt. Khang cười, khoác ba lô cam lên vai, bước ra hiên nhà sàn đúng lúc chớp loé.",
+    "chars": [
+     "@Bin",
+     "@Khang"
+    ],
+    "_plan": [
+     "@Bin 0.4–7.6s",
+     "@Khang 8.1–10.3s",
+     "@Bin 10.8–13.5s"
+    ]
+   }
+  ],
+  "location": "Phòng nhà sàn gỗ của một nhà nghỉ ven rừng, tối: đèn vàng, nồi lẩu dê sôi trên bếp ga mini, ngoài cửa sổ chớp loé không tiếng trên dãy núi đá vôi.",
+  "setting": "Night inside a wooden stilt-house guesthouse room at the edge of the forest: warm yellow lamp light, woven bamboo walls, a low wooden table with a small hotpot bubbling on a portable gas stove, a window where silent lightning flickers over dark limestone peaks.",
+  "_setting_key": "GUESTHOUSE_NIGHT"
+ },
+ {
+  "num": 3,
+  "title": "The Cave of Hands (Đêm giông trong hang Bàn Tay)",
+  "time_label": "23:00 (02:00–03:00)",
+  "clips": [
+   {
+    "id": "03.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Eleven p.m., in the Cave of Hands. Nobody with me. Nobody lighting my fires. That rain is real.",
+      "pace": "normal",
+      "_tone_vi": "thì thầm"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "So if you think I fake it, watch closely. This time it's one hundred percent real.",
+      "pace": "fast",
+      "_tone_vi": "nhìn thẳng ống kính"
+     }
+    ],
+    "_hinh": "Khang ngồi xếp bằng giữa hang, đèn pin đội đầu, cầm camera quay vào mặt mình. Sau lưng anh cửa hang trắng xoá mưa.",
+    "chars": [
+     "@Khang"
+    ],
+    "_plan": [
+     "@Khang 0.4–7.2s",
+     "@Khang 7.7–12.5s"
+    ]
+   },
+   {
+    "id": "03.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Here they are. Hundreds of ancient handprints, red ochre.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Locals say the biggest one is the fire god's hand. Let's see how big a god is.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Oh... perfect fit. The god's hand is my size?",
+      "pace": "fast",
+      "_tone_vi": "ngạc nhiên"
+     }
+    ],
+    "_hinh": "Đèn pin quét lên vách: hàng trăm bàn tay đỏ mờ, giữa vách là một bàn tay to hơn hẳn. Khang đặt bàn tay mình vào đúng hình bàn tay ấy, thấy vừa khít, bật cười.",
+    "chars": [
+     "@Khang"
+    ],
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Khang 4.5–10.6s",
+     "@Khang 11.1–13.8s"
+    ]
+   },
+   {
+    "id": "03.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Hear that? Lightning, right above us! The cave is shaking! My hand's stuck! I can't pull it off! The rock's getting hot like coal!",
+      "pace": "fast",
+      "_tone_vi": "hoảng"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Bin, if you ever see this... don't cut anything.",
+      "pace": "slow",
+      "_tone_vi": "nhìn vào camera"
+     }
+    ],
+    "_hinh": "Sấm nổ ngay trên đỉnh núi, cả hang rung, bụi đá rơi lả tả. Khang giật tay nhưng bàn tay dính chặt vào vách; ánh sáng trắng rỉ ra quanh kẽ ngón tay. Giây cuối: tia chớp trắng nuốt cả khung hình.",
+    "chars": [
+     "@Khang"
+    ],
+    "_plan": [
+     "@Khang 0.4–7.6s",
+     "@Khang 8.1–11.7s"
+    ]
+   },
+   {
+    "id": "03.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Ow... my head. Is it morning? Why am I lying by a stream?",
+      "pace": "slow",
+      "_tone_vi": "choáng"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Bin! You there? Don't hide and film me!",
+      "pace": "normal",
+      "_tone_vi": "gọi to"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Camera's still recording. Okay, everyone, I got hit by lightning and I'm still alive!",
+      "pace": "fast",
+      "_tone_vi": "cười run"
+     }
+    ],
+    "_hinh": "Sáng sớm, sương mù. Khang nằm sấp trên bãi cát bờ suối ở chân một vách đá vôi, ba lô cam bên cạnh. Anh ngồi dậy, ôm đầu, nhìn quanh, kiểm tra camera vẫn sáng đèn đỏ.",
+    "chars": [
+     "@Khang"
+    ],
+    "setting": "Misty dawn on a sandy bank of a clear jungle stream at the foot of a towering limestone cliff, more than ten thousand years ago: untouched giant trees, reeds, smooth river stones, birdsong, no roads, no buildings, no people.",
+    "_setting_key": "STREAM_DAWN_PAST",
+    "_plan": [
+     "@Khang 0.4–5.6s",
+     "@Khang 6.1–9.0s",
+     "@Khang 9.5–13.7s"
+    ]
+   }
+  ],
+  "location": "Hang đá vôi xuyên núi trong rừng Cúc Phương ngày nay: cửa hang rộng, một nhũ đá to hình con voi, nền đất khô, vách đá phủ hàng trăm dấu bàn tay đỏ son đã mờ. Ngoài cửa hang mưa như trút, chớp trắng loá.",
+  "setting": "Night inside a large limestone cave today during a raging storm: a wide arched mouth, a huge stalactite shaped like an elephant, a dry earthen floor, a rock wall covered with hundreds of faded red-ochre hand stencils with one bigger hand in the middle and a slightly smaller hand beside it, sheets of rain and white lightning beyond the entrance, light only from a headlamp.",
+  "_setting_key": "CAVE_TODAY_STORM"
+ },
+ {
+  "num": 4,
+  "title": "No Roads (Rừng không có đường)",
+  "time_label": "Sáng ngày 1, hơn một vạn năm trước (03:00–04:00)",
+  "clips": [
+   {
+    "id": "04.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "No signal. Not one bar. Where's the road? Where's the guesthouse? It was right here yesterday.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Okay, I get it. Bin set up a prank. Nice props, man, the trees are as big as houses! Come out!",
+      "pace": "fast",
+      "_tone_vi": "cười gượng"
+     }
+    ],
+    "_hinh": "Khang đi dọc suối, giơ điện thoại lên cao tìm sóng, rồi xoay camera một vòng quanh khu rừng lạ.",
+    "chars": [
+     "@Khang"
+    ],
+    "_plan": [
+     "@Khang 0.4–6.2s",
+     "@Khang 6.7–13.0s"
+    ]
+   },
+   {
+    "id": "04.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "This footprint... it's as big as a dinner tray. Three round toes. That's something heavy.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Nothing in Cuc Phuong is this big anymore. And gaur have split hooves.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Shh! Wait... what's behind those bushes?",
+      "pace": "fast",
+      "_tone_vi": "thì thào"
+     }
+    ],
+    "_hinh": "Khang ngồi xổm cạnh một dấu chân ba ngón tròn to bằng cái mâm, lún sâu trong cát; anh đặt bàn chân mình vào cho thấy độ to. Bụi lau phía sau lay động.",
+    "chars": [
+     "@Khang"
+    ],
+    "_plan": [
+     "@Khang 0.4–6.4s",
+     "@Khang 6.9–11.6s",
+     "@Khang 12.1–13.9s"
+    ]
+   },
+   {
+    "id": "04.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Everyone... a rhino. A real rhino, thirty meters from me.",
+      "pace": "slow",
+      "_tone_vi": "thì thầm"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Rhinos went extinct in Vietnam in two thousand eleven! Bin can't rent one of these!",
+      "pace": "fast",
+      "_tone_vi": "thì thầm"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "It's looking at me... stay down, stay down.",
+      "pace": "slow",
+      "_tone_vi": "nín thở"
+     }
+    ],
+    "_hinh": "Qua bụi lau, một con tê giác khổng lồ đang uống nước bên kia suối. Khang nằm rạp sau tảng đá, thì thầm vào camera. Con tê giác ngẩng lên, quay đầu về phía anh.",
+    "chars": [
+     "@Khang"
+    ],
+    "_plan": [
+     "@Khang 0.4–4.4s",
+     "@Khang 4.9–9.4s",
+     "@Khang 9.9–13.1s"
+    ]
+   },
+   {
+    "id": "04.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "No roads. No trash. Not one motorbike engine.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Either I'm dreaming, or the lightning sent me back to a time before people built roads.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Alright. Real survival. No Bin. No guesthouse. No cuts.",
+      "pace": "fast",
+      "_tone_vi": "hít sâu"
+     }
+    ],
+    "_hinh": "Con tê giác thong thả đi vào rừng. Khang đứng dậy trên tảng đá, nhìn toàn cảnh thung lũng không một dấu vết con người, rồi quay camera về mặt mình.",
+    "chars": [
+     "@Khang"
+    ],
+    "_plan": [
+     "@Khang 0.4–3.6s",
+     "@Khang 4.1–9.9s",
+     "@Khang 10.4–13.1s"
+    ]
+   }
+  ],
+  "location": "Cùng thung lũng đá vôi ấy nhưng không có đường nhựa, không có nhà, không có rác: cây cổ thụ khổng lồ, sương sớm, suối trong vắt, bờ cát in dấu chân thú lớn.",
+  "setting": "A pristine limestone valley in the Stone Age by morning: a clear stream winding between reed beds, giant primeval trees, sandy banks printed with large three-toed animal tracks, mist lifting off karst peaks, no roads, no buildings, no trash.",
+  "_setting_key": "VALLEY_PAST"
+ },
+ {
+  "num": 5,
+  "title": "Day One: Water and Fire (Ngày 1: Nước và lửa)",
+  "time_label": "Trưa (04:00–05:00)",
+  "clips": [
+   {
+    "id": "05.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Inventory: one multitool, one whistle, one silver emergency blanket, one pack of instant noodles, and a solar charger.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Rule of three: three minutes without air, three days without water, three weeks without food. First, water.",
+      "pace": "fast",
+      "_tone_vi": "đếm ngón tay"
+     }
+    ],
+    "_hinh": "Khang bày đồ lên một tàu lá chuối: dao đa năng, còi, tấm chăn bạc gấp, gói mì tôm, tấm sạc pin mặt trời, bật lửa. Anh chỉ từng món cho camera.",
+    "chars": [
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–6.9s",
+     "@Khang 7.4–12.5s"
+    ]
+   },
+   {
+    "id": "05.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Never drink unboiled stream water out here. But this vine holds clean water.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Cut the top first, then the bottom. There! It's dripping!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Sweet. I read this in my script... I mean, a book.",
+      "pace": "slow",
+      "_tone_vi": "khoái chí"
+     }
+    ],
+    "_hinh": "Khang chặt một đoạn dây leo to bằng dao đa năng: nhát trên trước, nhát dưới sau. Nước trong nhỏ giọt từ đầu dây; anh ngửa cổ hứng vào miệng.",
+    "chars": [
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–5.1s",
+     "@Khang 5.6–8.6s",
+     "@Khang 9.1–13.5s"
+    ]
+   },
+   {
+    "id": "05.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Now fire. Lighter... it won't light. Soaked from last night? Come on!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No problem. Old-school method: the hand drill. Spin fast, friction makes heat, heat makes fire.",
+      "pace": "normal",
+      "_tone_vi": "tự tin"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Watch closely, everyone, smoke is coming any second!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang bật bật lửa: chỉ tóe tia, không cháy. Anh lắc, thổi, bật lại. Rồi anh vứt nó vào ba lô, xoay que gỗ trên một miếng gỗ khô, mồ hôi nhỏ giọt.",
+    "chars": [
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Khang 4.5–10.3s",
+     "@Khang 10.8–13.2s"
+    ]
+   },
+   {
+    "id": "05.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Two hours. Blisters everywhere. Not one wisp of smoke.",
+      "pace": "slow",
+      "_tone_vi": "kiệt sức"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Okay, confession. Three years running a survival channel, and I have never made a fire myself. Nobody will ever see this. So why not be honest.",
+      "pace": "normal",
+      "_tone_vi": "cười buồn"
+     }
+    ],
+    "_hinh": "Hai tiếng sau: lòng bàn tay Khang phồng rộp đỏ, que gỗ chỉ đen đầu, không có khói. Anh nằm ngửa trên lá, giơ camera lên trên mặt.",
+    "chars": [
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Khang 4.5–13.8s"
+    ]
+   }
+  ],
+  "location": "Rừng già ven suối buổi trưa: dây leo to bằng cổ tay, bụi tre, chuối rừng, đá phủ rêu, nắng loang trên lá.",
+  "setting": "Dense primeval jungle beside a stream at midday in the Stone Age: lianas as thick as a wrist hanging from giant trees, clumps of bamboo, wild banana plants, mossy rocks, dappled sunlight on a carpet of leaves.",
+  "_setting_key": "JUNGLE_PAST"
+ },
+ {
+  "num": 6,
+  "title": "The Boy on the Rock (Cậu bé trên tảng đá)",
+  "time_label": "Chiều ngày 1 (05:00–06:00)",
+  "clips": [
+   {
+    "id": "06.1",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Help! Help! The tiger's been waiting for me since the sun was high!",
+      "pace": "fast",
+      "_tone_vi": "hoảng"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Stay up there! Don't jump in the water! I'm thinking, don't be scared!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Stranger! It's looking at you now! It's going to cross!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Snail co ro trên đỉnh tảng đá giữa suối, hét về phía bờ. Bờ bên kia, xa chừng hai chục mét, một con hổ đi đi lại lại dưới bóng cây. Khang lao ra từ bụi lau.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Snail 0.4–4.3s",
+     "@Khang 4.8–8.7s",
+     "@Snail 9.2–12.2s"
+    ]
+   },
+   {
+    "id": "06.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Hey! Go away! Look at this! Shiny, huh? Big, huh? I'm bigger than you! Look big, make noise, never turn your back and run!",
+      "pace": "fast",
+      "_tone_vi": "hét, rồi thở gấp"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "The silver skin shines like the sun! The tiger's backing off!",
+      "pace": "fast",
+      "_tone_vi": "reo lên"
+     }
+    ],
+    "_hinh": "Khang giật tấm chăn bạc giũ tung ra, giơ cao hứng nắng loé thẳng sang bờ bên kia, thổi còi liên hồi, hét to. Con hổ khựng lại, lùi, quay đầu vào rừng. Snail trên tảng đá há hốc.",
+    "chars": [
+     "@Khang",
+     "@Snail"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–7.6s",
+     "@Snail 8.1–11.4s"
+    ]
+   },
+   {
+    "id": "06.3",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Silver skin! Shinier than water! Even the tiger's scared! Let me touch!",
+      "pace": "normal",
+      "_tone_vi": "thích thú"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "It's not skin, it's a blanket. Twelve bucks online. Where do you live?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Snail",
+      "line": "My name is like this! I live in the cave up there!",
+      "pace": "fast",
+      "_tone_vi": "giơ vỏ ốc"
+     }
+    ],
+    "_hinh": "Khang lội ra, cõng Snail vào bờ. Snail sờ tấm chăn bạc sột soạt, mắt tròn xoe, rồi giơ lên một vỏ ốc suối.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Snail 0.4–4.7s",
+     "@Khang 5.2–9.9s",
+     "@Snail 10.4–14.0s"
+    ]
+   },
+   {
+    "id": "06.4",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Don't move! Away from my brother! Why is your skin green?",
+      "pace": "fast",
+      "_tone_vi": "gằn"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Easy! I just saved him from a tiger! It's a shirt, not skin!",
+      "pace": "fast",
+      "_tone_vi": "giơ tay"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "What is shirt? Come. Grandmother decides if you're man or ghost.",
+      "pace": "normal",
+      "_tone_vi": "nghi ngờ"
+     }
+    ],
+    "_hinh": "Stream lao ra từ bụi lau, giáo tre mũi đá chĩa vào ngực Khang, chuỗi vỏ ốc trên cổ đung đưa. Khang giơ hai tay. (Snail nấp sau lưng Stream, chỉ thấy trong cảnh quay riêng.)",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–3.7s",
+     "@Khang 4.2–8.1s",
+     "@Stream 8.6–12.6s"
+    ]
+   }
+  ],
+  "location": "Khúc suối rộng có một tảng đá lớn giữa dòng; bờ bên kia là bìa rừng rậm; nắng chiều chói trên mặt nước.",
+  "setting": "A wide jungle stream in the Stone Age in afternoon light: a big flat-topped boulder in the middle of the current, thick reeds on the near bank, a dense forest edge about twenty meters away on the far bank, sun glare on the water.",
+  "_setting_key": "STREAM_ROCK_PAST"
+ }
+]

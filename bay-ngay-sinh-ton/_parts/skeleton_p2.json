@@ -1,0 +1,930 @@
+[
+ {
+  "num": 7,
+  "title": "The Cave With No Hands (Hang chưa có bàn tay)",
+  "time_label": "Hoàng hôn ngày 1 (06:00–07:00)",
+  "clips": [
+   {
+    "id": "07.1",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Stream! Why bring a stranger here? He smells strange. The tiger will follow!",
+      "pace": "fast",
+      "_tone_vi": "gắt"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "The tiger already came. He chased it off and saved Snail. Where were you, Roar?",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Hunting, to feed the cave. What did he bring?",
+      "pace": "normal",
+      "_tone_vi": "lạnh"
+     }
+    ],
+    "_hinh": "Roar chặn ở cửa hang, giáo trong tay, ngực ưỡn. Stream bước lên đứng chắn trước Khang (Khang ở hậu cảnh, mờ).",
+    "chars": [
+     "@Roar",
+     "@Stream"
+    ],
+    "_plan": [
+     "@Roar 0.4–4.5s",
+     "@Stream 5.0–9.5s",
+     "@Roar 10.0–13.4s"
+    ]
+   },
+   {
+    "id": "07.2",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Stranger. This cave does not feed strange mouths.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Grandma, I don't need food. Just a safe place to sleep. I'll feed myself!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Feed yourself? Good. Seven suns, by your own hands. Live, and you stay.",
+      "pace": "slow",
+      "_tone_vi": "giơ bảy ngón tay"
+     }
+    ],
+    "_hinh": "Grandma Moon ngồi bên bếp lửa, hai tay ôm ống tre giữ lửa, nhìn Khang từ đầu đến chân. Khang quỳ xuống trước bà, ba lô cam vẫn trên vai.",
+    "chars": [
+     "@Moon",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Moon 0.4–3.7s",
+     "@Khang 4.2–8.4s",
+     "@Moon 8.9–14.3s"
+    ]
+   },
+   {
+    "id": "07.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Wait... that elephant stalactite. This entrance. It's the Cave of Hands.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Hands? The wall has only stone and smoke. You talk strange words.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No hands yet. That means... I got here before the handprints.",
+      "pace": "normal",
+      "_tone_vi": "thì thầm"
+     }
+    ],
+    "_hinh": "Khang đứng sững nhìn nhũ đá hình con voi, rồi bước tới vách, áp tay lên mặt đá trơn trống trơn. Stream đi theo, khó hiểu.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.8s",
+     "@Stream 5.3–9.6s",
+     "@Khang 10.1–14.1s"
+    ]
+   },
+   {
+    "id": "07.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Everyone... I think this is the Stone Age. Over ten thousand years ago. Grandma gave me seven days. Seven-day survival. Like my video titles.",
+      "pace": "normal",
+      "_tone_vi": "thì thầm"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Only now, if I fail, nobody can cut it out.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Đêm, Khang ngồi ở góc hang xa bếp lửa, quay camera vào mặt mình, đèn đỏ của camera là đốm sáng nhỏ trong bóng tối. Sau lưng, bóng người hang ngủ quanh lửa.",
+    "chars": [
+     "@Khang"
+    ],
+    "setting": "Night inside the large Stone Age clan cave: the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire glowing red, sleeping beds of dry leaves, hides on poles, deep shadows beyond the firelight.",
+    "_setting_key": "CAVE_PAST_NIGHT",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–9.4s",
+     "@Khang 9.9–13.9s"
+    ]
+   }
+  ],
+  "location": "Chính hang Bàn Tay hơn một vạn năm trước: cùng cửa hang rộng và nhũ đá hình con voi, nhưng vách đá trơn, chưa có dấu tay nào. Bếp lửa giữa hang, da thú phơi, giỏ mây đựng ốc, mười mấy người tiền sử mặc áo vỏ cây và da thú kín vai đến gối.",
+  "setting": "A large limestone cave more than ten thousand years ago at dusk, home of a small Stone Age clan: a wide arched mouth, a huge stalactite shaped like an elephant, bare rock walls with no handprints or drawings, a hearth fire in the middle, hides drying on poles, rattan baskets of snails, sleeping beds of dry leaves, a stream running below the entrance.",
+  "_setting_key": "CAVE_PAST_DUSK"
+ },
+ {
+  "num": 8,
+  "title": "Day Two: Food That Doesn't Run (Ngày 2: Đồ ăn không biết chạy)",
+  "time_label": "Sáng, khe suối đá (07:00–08:00)",
+  "clips": [
+   {
+    "id": "08.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Day two. Starving. Fish, hold still... Ah! Slipped again! That's ten in a row!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "You chased fish all morning. The fish are not tired. You are.",
+      "pace": "normal",
+      "_tone_vi": "cười"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Then you catch one! Stop laughing, I'm about to faint.",
+      "pace": "normal",
+      "_tone_vi": "ngồi phịch xuống nước"
+     }
+    ],
+    "_hinh": "Khang chồm xuống vồ cá bằng tay, trượt chân ngã ướt sũng. Stream ngồi trên tảng đá bờ suối, chống cằm nhìn, bật cười.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.6s",
+     "@Stream 5.1–9.4s",
+     "@Khang 9.9–13.5s"
+    ]
+   },
+   {
+    "id": "08.2",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "No chasing. Lift the stones, find snails. Snails don't run. Good for you.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Food that doesn't run! Exactly what I need! Stream, you're an angel!",
+      "pace": "fast",
+      "_tone_vi": "mừng rỡ"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "What is angel? Roast snails first. Raw ones hurt your belly.",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Stream lật một hòn đá dưới nước: bám đầy ốc suối. Cô nhặt bỏ vào giỏ mây, đặt một nắm vào tay Khang.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.1s",
+     "@Khang 5.6–9.2s",
+     "@Stream 9.7–13.7s"
+    ]
+   },
+   {
+    "id": "08.3",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "A gold leaf that sings! What's inside? Show me, Silver Skin!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Instant noodles, Snail. My last pack. Try a bite. Chew slowly.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Dry worms! Dry worms taste so good! Everybody! The stranger has dry worms!",
+      "pace": "fast",
+      "_tone_vi": "la lên"
+     }
+    ],
+    "_hinh": "Bên bếp lửa trong hang, Khang xé gói mì tôm, tiếng sột soạt làm lũ trẻ (quần chúng) xúm lại. Anh bẻ một miếng mì khô đưa Snail; Snail nhai rôm rốp, mắt sáng rỡ.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "setting": "Daytime inside the large Stone Age clan cave: soft daylight from the wide arched mouth, the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire in the middle, rattan baskets of snails, sleeping beds of dry leaves.",
+    "_setting_key": "CAVE_PAST_DAY",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Snail 0.4–3.7s",
+     "@Khang 4.2–8.2s",
+     "@Snail 8.7–12.6s"
+    ]
+   },
+   {
+    "id": "08.4",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Hungry, and still you feed the children.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "One pack, Grandma. Eat alone, you're full once. Share it, the whole cave smiles.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "One who shares is no ghost. Tonight, sleep near the fire.",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang chia vụn mì cho từng đứa trẻ, rồi chìa gói gia vị cho Grandma Moon ngửi. Bà nhíu mày, nhìn anh rất lâu, rồi gật đầu.",
+    "chars": [
+     "@Moon",
+     "@Khang"
+    ],
+    "setting": "Daytime inside the large Stone Age clan cave: soft daylight from the wide arched mouth, the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire in the middle, rattan baskets of snails, sleeping beds of dry leaves.",
+    "_setting_key": "CAVE_PAST_DAY",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Moon 0.4–3.3s",
+     "@Khang 3.8–8.8s",
+     "@Moon 9.3–13.4s"
+    ]
+   }
+  ],
+  "location": "Khe suối nông, đá cuội tròn, nước trong đến mắt cá chân; sau đó là bếp lửa trong hang buổi trưa.",
+  "setting": "A shallow rocky stretch of the jungle stream in the Stone Age, morning: round pebbles, clear ankle-deep water, flat stones covered with small dark snails, a big boulder on the bank, sunlight sparkling.",
+  "_setting_key": "SHALLOWS_PAST"
+ },
+ {
+  "num": 9,
+  "title": "Day Three: The Fire Dies (Ngày 3: Lửa chết)",
+  "time_label": "Đêm mưa đến rạng sáng (08:00–09:00)",
+  "clips": [
+   {
+    "id": "09.1",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "I fell asleep! Rain blew in, the fire's dead! The tube is cold, Grandma!",
+      "pace": "fast",
+      "_tone_vi": "khóc"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Our fire-maker left us last season. We keep fire. We cannot make it.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Snail",
+      "line": "If the tiger comes tonight, what then?",
+      "pace": "normal",
+      "_tone_vi": "nức nở"
+     }
+    ],
+    "_hinh": "Snail ôm ống tre giữ lửa đã nguội, mặt mếu, nước mắt ròng ròng. Grandma Moon quỳ bên đống tro ướt, đưa tay hơ: lạnh ngắt. Trẻ con co ro sau lưng.",
+    "chars": [
+     "@Snail",
+     "@Moon"
+    ],
+    "wardrobe": {
+     "@Moon": "a long dark hide cloak over a knee-length bark-cloth tunic, empty-handed with no bamboo tube, barefoot"
+    },
+    "_plan": [
+     "@Snail 0.4–4.6s",
+     "@Moon 5.1–10.9s",
+     "@Snail 11.4–13.9s"
+    ]
+   },
+   {
+    "id": "09.2",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Since he came: a tiger, rain, and now the fire's dead! He's bad luck!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Rain isn't my fault! Give me till sunrise. I'll make fire!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Two days spinning sticks, and not even smoke.",
+      "pace": "normal",
+      "_tone_vi": "khinh bỉ"
+     }
+    ],
+    "_hinh": "Roar đứng bật dậy, chỉ thẳng giáo vào Khang; người trong hang (quần chúng) lùi lại. Khang đứng dậy đối mặt.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Roar 0.4–4.8s",
+     "@Khang 5.3–8.6s",
+     "@Roar 9.1–12.1s"
+    ]
+   },
+   {
+    "id": "09.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "I once filmed an old Muong man making fire by sawing bamboo. I thought he was faking.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Bamboo burns. It doesn't make fire.",
+      "pace": "normal",
+      "_tone_vi": "nghi"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Hold tight! Saw fast, and the bamboo dust heats into an ember!",
+      "pace": "fast",
+      "_tone_vi": "cưa mạnh"
+     }
+    ],
+    "_hinh": "Dưới mái đá khô, Khang chẻ đôi một ống tre khô, khía một rãnh ngang, nhét bùi nhùi xơ dừa rừng. Stream giữ chặt ống tre; Khang cầm một thanh tre cưa qua cưa lại thật nhanh.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "setting": "Blue pre-dawn light in a dry corner of the Stone Age clan cave under a low rock overhang: a flat stone work area, split dry bamboo, a pile of fluffy tinder, the cold wet hearth visible behind, rain easing outside the mouth.",
+    "_setting_key": "CAVE_PAST_PREDAWN",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–6.5s",
+     "@Stream 7.0–9.2s",
+     "@Khang 9.7–13.3s"
+    ]
+   },
+   {
+    "id": "09.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Smoke! There's an ember! Into the tinder, blow gently, gently... It's burning!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Thunder brought us a fire-maker. Your name is Fire-Maker.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Twenty-nine years old, and this is my first fire ever.",
+      "pace": "slow",
+      "_tone_vi": "rưng rưng"
+     }
+    ],
+    "_hinh": "Khói mỏng bốc lên; một đốm than đỏ trong bột tre. Khang gói vào bùi nhùi, thổi nhẹ: lửa bùng. Cả hang (quần chúng) reo lên. Grandma Moon bước tới, ánh lửa trên mặt bà.",
+    "chars": [
+     "@Khang",
+     "@Moon"
+    ],
+    "setting": "Blue pre-dawn light in a dry corner of the Stone Age clan cave under a low rock overhang: a flat stone work area, split dry bamboo, a pile of fluffy tinder, the cold wet hearth visible behind, rain easing outside the mouth.",
+    "_setting_key": "CAVE_PAST_PREDAWN",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Moon 4.5–9.1s",
+     "@Khang 9.6–14.0s"
+    ]
+   }
+  ],
+  "location": "Hang đêm mưa, gió hắt nước vào cửa hang; bếp lửa chỉ còn tro ướt bốc khói. Rạng sáng: một mái đá khô ở góc hang.",
+  "setting": "A rainy night inside the large Stone Age clan cave: wind blows rain in through the wide arched mouth, the hearth is only wet grey ash with a thin thread of smoke, the elephant-shaped stalactite, bare rock walls, people huddled on beds of dry leaves.",
+  "_setting_key": "CAVE_PAST_RAIN_NIGHT"
+ },
+ {
+  "num": 10,
+  "title": "Day Four: Boiling Water in Bamboo (Ngày 4: Nước sôi trong ống tre)",
+  "time_label": "Trưa đến đêm (09:00–10:00)",
+  "clips": [
+   {
+    "id": "10.1",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Snail drank from the mud pool. Now his belly hurts and he's burning.",
+      "pace": "fast",
+      "_tone_vi": "lo"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Still water has tiny bugs, too small to see. They bite you from inside.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Bugs we can't see? How do we catch them?",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Snail nằm co trên ổ lá, ôm bụng, trán lấm tấm mồ hôi. Stream lau mặt em bằng lá ướt, quay sang Khang.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–4.3s",
+     "@Khang 4.8–9.8s",
+     "@Stream 10.3–13.0s"
+    ]
+   },
+   {
+    "id": "10.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "We boil them. From now on, the whole cave drinks boiled water.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Water kills fire. Fire eats bamboo. Put it in fire, you get ashes.",
+      "pace": "normal",
+      "_tone_vi": "hoài nghi"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Green bamboo burns slow. The water boils before the bamboo catches. Watch.",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang chặt một ống tre tươi xanh, đổ nước suối vào, dựng nghiêng sát bếp lửa. Stream khoanh tay, nhíu mày.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.7s",
+     "@Stream 5.2–9.9s",
+     "@Khang 10.4–14.0s"
+    ]
+   },
+   {
+    "id": "10.3",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "The water bubbles like a fish breathing! The bamboo is still green! Fire, is this magic?",
+      "pace": "fast",
+      "_tone_vi": "kinh ngạc"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No magic. Let it cool, then give Snail small sips.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "I'll remember. Green bamboo, stream water, big fire, bubbles, then drink.",
+      "pace": "normal",
+      "_tone_vi": "đếm trên ngón tay"
+     }
+    ],
+    "_hinh": "Nước trong ống tre sủi bọt, hơi bốc lên; vỏ tre chỉ hơi sém. Stream cúi sát nhìn, giật mình vì hơi nóng. Khang rót nước ra một ống tre ngắn để nguội.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.2s",
+     "@Khang 5.7–9.3s",
+     "@Stream 9.8–13.8s"
+    ]
+   },
+   {
+    "id": "10.4",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Fire... my belly stopped biting. Hot water beats mud water.",
+      "pace": "slow",
+      "_tone_vi": "yếu"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Better than dry worms? Sleep now. Tomorrow I'll teach you to boil water.",
+      "pace": "normal",
+      "_tone_vi": "dịu dàng"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Dry worms are better. But with you here, I'm not scared.",
+      "pace": "normal",
+      "_tone_vi": "lim dim"
+     }
+    ],
+    "_hinh": "Đêm, Snail tỉnh dậy, nhấp từng ngụm nước ấm từ ống tre, cười yếu ớt. Khang ngồi canh bên cạnh, tựa lưng vào vách.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "setting": "Night inside the large Stone Age clan cave: the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire glowing red, sleeping beds of dry leaves, hides on poles, deep shadows beyond the firelight.",
+    "_setting_key": "CAVE_PAST_NIGHT",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Snail 0.4–4.4s",
+     "@Khang 4.9–9.6s",
+     "@Snail 10.1–14.1s"
+    ]
+   }
+  ],
+  "location": "Góc ngủ trong hang lót lá khô; bếp lửa giữa hang; đêm chỉ còn ánh than.",
+  "setting": "Daytime inside the large Stone Age clan cave: soft daylight from the wide arched mouth, the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire in the middle, rattan baskets of snails, sleeping beds of dry leaves.",
+  "_setting_key": "CAVE_PAST_DAY"
+ },
+ {
+  "num": 11,
+  "title": "Day Five: Spear vs. Fish Trap (Ngày 5: Cái giáo và cái lờ)",
+  "time_label": "Sáng đến trưa, bãi suối (10:00–11:00)",
+  "clips": [
+   {
+    "id": "11.1",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Fire-Maker! Fire is not food. At high sun, whoever brings more food, the cave listens to.",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "A contest? Fine. You hunt, I fish. And the loser?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "The loser takes his silver skin and leaves this cave.",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Trước cả hang (quần chúng), Roar cắm phập cây giáo xuống đất ngay trước mũi chân Khang. Khang nhìn cây giáo, rồi nhìn Roar, gật đầu.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Roar 0.4–5.7s",
+     "@Khang 6.2–9.8s",
+     "@Roar 10.3–13.4s"
+    ]
+   },
+   {
+    "id": "11.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "It's a fish trap. Easy to swim in, impossible to find the way out.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Like you. You wandered into our cave and can't find home.",
+      "pace": "normal",
+      "_tone_vi": "mỉm cười"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Yeah... like me. I don't even know where home is.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang và Stream ngồi bên suối đan nan tre thành cái lờ hình phễu; Khang luồn tay vào miệng lờ để minh hoạ. Stream mỉm cười nhìn anh, không nhìn cái lờ.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "setting": "A slow deep pool of the jungle stream in the Stone Age under bright sun: a bank of flat rocks, clumps of bamboo, split bamboo strips and a half-woven funnel-shaped fish trap lying on the stones.",
+    "_setting_key": "STREAM_POOL_PAST",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–5.4s",
+     "@Stream 5.9–9.9s",
+     "@Khang 10.4–14.4s"
+    ]
+   },
+   {
+    "id": "11.3",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "High sun. You left at dawn, Roar. Why are your hands empty?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "The boar was huge! My spear hit stone and broke. Not my fault!",
+      "pace": "fast",
+      "_tone_vi": "cáu"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "No one blames you. Some hunts feed us, some don't.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Giữa trưa, Roar về tay không, mũi giáo đá gãy, đầu gối lấm bùn. Cả hang im lặng. Grandma Moon đứng dậy đón.",
+    "chars": [
+     "@Moon",
+     "@Roar"
+    ],
+    "setting": "High noon at the mouth of the Stone Age clan cave: hard overhead sunlight, short shadows, the clan gathered on the earthen terrace, the elephant-shaped stalactite above.",
+    "_setting_key": "CAVE_MOUTH_NOON",
+    "_plan": [
+     "@Moon 0.4–4.9s",
+     "@Roar 5.4–9.5s",
+     "@Moon 10.0–14.2s"
+    ]
+   },
+   {
+    "id": "11.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Roar, these fish feed the whole cave. One trap works all season.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "You won. Don't talk like you care about me.",
+      "pace": "fast",
+      "_tone_vi": "gằn"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "I don't want to beat you. I just want no child going hungry tonight.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang và Stream nhấc cái lờ lên khỏi nước: đầy cá quẫy lấp lánh. Lũ trẻ reo hò. Roar đứng nhìn, quai hàm bạnh ra, quay mặt đi.",
+    "chars": [
+     "@Khang",
+     "@Roar"
+    ],
+    "setting": "A slow deep pool of the jungle stream in the Stone Age under bright sun: a bank of flat rocks, clumps of bamboo, split bamboo strips and a half-woven funnel-shaped fish trap lying on the stones.",
+    "_setting_key": "STREAM_POOL_PAST",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.7s",
+     "@Roar 5.2–8.0s",
+     "@Khang 8.5–14.1s"
+    ]
+   }
+  ],
+  "location": "Cửa hang buổi sáng; bãi suối có khúc nước sâu chảy chậm, bụi tre ven bờ; giữa trưa nắng đứng bóng.",
+  "setting": "Morning at the wide arched mouth of the Stone Age clan cave: the elephant-shaped stalactite above, a flat earthen terrace where the clan gathers, the jungle and the stream below, soft sunlight.",
+  "_setting_key": "CAVE_MOUTH_MORNING"
+ },
+ {
+  "num": 12,
+  "title": "Night Five: The Seeing Stone (Đêm 5: Hòn đá có mắt)",
+  "time_label": "Đêm, bên bếp lửa (11:00–12:00)",
+  "clips": [
+   {
+    "id": "12.1",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Tiny people live in the seeing stone! A thousand fires, bright like stars!",
+      "pace": "fast",
+      "_tone_vi": "há hốc"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "That's my home. Bright all night. Hot water comes from the walls. Nobody keeps fire.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Then why did you leave home and come here?",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang lật màn hình nhỏ của camera cho Snail xem: ánh sáng xanh trắng nhấp nháy hắt lên mặt cậu bé (màn hình chỉ phát sáng, không chữ). Biểu tượng pin đỏ chớp chớp.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Snail 0.4–4.3s",
+     "@Khang 4.8–10.2s",
+     "@Snail 10.7–13.4s"
+    ]
+   },
+   {
+    "id": "12.2",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Your home has so many fires. Why weren't you happy there?",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Back there, I told survival stories to millions of people. All fake.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "What is fake? Like Snail playing tiger to scare the little ones?",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Snail ngủ gục vào lòng Stream. Stream và Khang ngồi hai bên lửa, ánh lửa nhảy trên mặt hai người.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–4.8s",
+     "@Khang 5.3–9.6s",
+     "@Stream 10.1–14.4s"
+    ]
+   },
+   {
+    "id": "12.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Exactly. Someone else made my fires. The fish came from a market. I just acted hungry.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Here, whoever fakes it really starves. These days, are you faking?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No. For the first time, I'm not.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang nhìn vào lửa, giọng nhỏ dần, xoay xoay chiếc bật lửa hỏng trong tay rồi ném vào bếp. Stream nhìn anh, không cười.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–6.2s",
+     "@Stream 6.7–10.7s",
+     "@Khang 11.2–14.0s"
+    ]
+   },
+   {
+    "id": "12.4",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Real people get blisters, scraped feet, empty bellies. You are a real person now.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "The seeing stone is going to sleep. Battery's almost gone. Not much more filming.",
+      "pace": "normal",
+      "_tone_vi": "ngượng"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Let it sleep. Talk to me instead.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Stream cầm bàn tay phồng rộp của Khang lật ngửa lên xem. Camera trên ngực anh kêu \"tít\" một tiếng, đèn đỏ tắt. Anh tháo camera đặt sang một bên.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.4s",
+     "@Khang 5.9–10.9s",
+     "@Stream 11.4–14.2s"
+    ]
+   }
+  ],
+  "location": "Đêm trong hang, bếp lửa đỏ rực, cá nướng xiên que, người hang (quần chúng) ngủ quanh lửa.",
+  "setting": "Night inside the large Stone Age clan cave: the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire glowing red, sleeping beds of dry leaves, hides on poles, deep shadows beyond the firelight.",
+  "_setting_key": "CAVE_PAST_NIGHT"
+ }
+]

@@ -1,0 +1,937 @@
+[
+ {
+  "num": 13,
+  "title": "Day Six: Roar Doesn't Return (Ngày 6: Roar không về)",
+  "time_label": "Sáng sớm, cửa hang và rừng già (12:00–13:00)",
+  "clips": [
+   {
+    "id": "13.1",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Grandmother, Roar's bed is cold. He left before moonset.",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "He went after the rhino, alone. Losing to the stranger burned him inside.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "A rhino can crush a man. He can't do this alone!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Stream chạy ra cửa hang nơi Grandma Moon đứng nhìn rừng sương. Ổ lá của Roar trống, cây giáo mới không còn.",
+    "chars": [
+     "@Stream",
+     "@Moon"
+    ],
+    "_plan": [
+     "@Stream 0.4–3.1s",
+     "@Moon 3.6–9.0s",
+     "@Stream 9.5–12.8s"
+    ]
+   },
+   {
+    "id": "13.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Grandma, let me find him. I have a whistle. Stream knows tracks.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Roar wants you gone. Why look for him?",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Hating me doesn't make him less one of us. Our people come home.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang đã thắt dây giày, đeo ba lô cam, dao đa năng và còi lủng lẳng trước ngực. Grandma Moon nhìn anh dò xét.",
+    "chars": [
+     "@Khang",
+     "@Moon"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.7s",
+     "@Moon 5.2–8.5s",
+     "@Khang 9.0–14.2s"
+    ]
+   },
+   {
+    "id": "13.3",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Roar's footprints follow the rhino tracks. Here, broken twigs, leaves turned over. Not long ago.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "A whistle carries farther than shouting. Three blasts means help. If he hears it, he'll shout back.",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Shh... listen. Down there.",
+      "pace": "slow",
+      "_tone_vi": "thì thầm"
+     }
+    ],
+    "_hinh": "Trong rừng già, Stream cúi xem dấu chân, nhặt một cành gãy, lật một chiếc lá. Khang thổi còi ba tiếng, lắng nghe. Stream giơ tay ra hiệu im lặng.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "setting": "Deep primeval jungle in the Stone Age in the morning: damp earth with fresh footprints, broken twigs, leaves turned pale side up, giant trunks and hanging lianas, shafts of light through the canopy.",
+    "_setting_key": "JUNGLE_DEEP",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.8s",
+     "@Khang 6.3–11.4s",
+     "@Stream 11.9–13.5s"
+    ]
+   },
+   {
+    "id": "13.4",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Go away! I don't need pity! I can climb out myself!",
+      "pace": "fast",
+      "_tone_vi": "gào lên"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "With your ankle that swollen? How? Sit still. Don't try to stand.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "I've been here since night. The tiger walked the edge twice.",
+      "pace": "slow",
+      "_tone_vi": "nhỏ dần"
+     }
+    ],
+    "_hinh": "Từ mép hố sụt nhìn xuống: Roar ngồi tựa vách đá dưới đáy, cổ chân trái sưng tím, giáo nằm bên cạnh. Khang quỳ ở mép hố nhìn xuống.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "setting": "A limestone sinkhole in the primeval jungle at midday: a pit about four meters deep with steep mossy rock walls, ferns and reeds hanging over the rim, a big tree right at the edge, a shaft of sunlight reaching the soft earthen bottom.",
+    "_setting_key": "SINKHOLE",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Roar 0.4–3.8s",
+     "@Khang 4.3–8.6s",
+     "@Roar 9.1–13.7s"
+    ]
+   }
+  ],
+  "location": "Sương sớm trùm cửa hang; rừng già sau đó, đất ẩm in dấu chân, cành gãy, dây leo chằng chịt; cuối cảnh là mép một hố sụt đá vôi sâu chừng bốn mét, cỏ lau rủ xuống.",
+  "setting": "Early misty morning at the mouth of the Stone Age clan cave: thick white mist over the jungle below, cool grey-blue light, an empty bed of dry leaves just inside the entrance.",
+  "_setting_key": "CAVE_MOUTH_MIST"
+ },
+ {
+  "num": 14,
+  "title": "The Sinkhole (Hố sụt)",
+  "time_label": "Trưa ngày 6 (13:00–14:00)",
+  "clips": [
+   {
+    "id": "14.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "One vine snaps. Braid three together and it'll hold a buffalo. Pull it tight for me!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Where did you learn this? We braid baskets, never rope this thick.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "The internet. I mean... a place very far away.",
+      "pace": "normal",
+      "_tone_vi": "lúng túng"
+     }
+    ],
+    "_hinh": "Khang và Stream giật những sợi dây leo dài từ thân cây. Khang bện ba sợi thành một sợi to, Stream giữ đầu kia kéo căng.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–5.2s",
+     "@Stream 5.7–10.0s",
+     "@Khang 10.5–13.8s"
+    ]
+   },
+   {
+    "id": "14.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Not broken, just twisted. I'll splint it. If it hurts, scream. No shame in that.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Hunters don't scream! A hunter screams, the animals run! Argh!",
+      "pace": "fast",
+      "_tone_vi": "nghiến răng"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "There are no animals down here. Just you and me.",
+      "pace": "normal",
+      "_tone_vi": "nhếch mép"
+     }
+    ],
+    "_hinh": "Khang tụt dây xuống đáy hố, quỳ bên Roar, kẹp cổ chân anh giữa hai thanh gỗ rồi quấn chặt bằng chiếc khăn rằn đỏ. Roar nghiến răng, gân cổ nổi lên.",
+    "chars": [
+     "@Khang",
+     "@Roar"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Khang 0.4–5.8s",
+     "@Roar 6.3–9.4s",
+     "@Khang 9.9–13.5s"
+    ]
+   },
+   {
+    "id": "14.3",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Why save me? I wanted you out of our cave.",
+      "pace": "slow",
+      "_tone_vi": "quay mặt đi"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Where I'm from, the village helps whoever falls. Kick me out once you're up.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Strange knot. Tight, but it doesn't squeeze. Who taught you?",
+      "pace": "normal",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang luồn dây qua ngực Roar, thắt một nút ghế. Roar quay mặt đi, rồi cúi nhìn nút dây, sờ thử.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana",
+     "@Roar": "a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, barefoot"
+    },
+    "_plan": [
+     "@Roar 0.4–4.6s",
+     "@Khang 5.1–10.1s",
+     "@Roar 10.6–14.4s"
+    ]
+   },
+   {
+    "id": "14.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Pull! One, two, three! Around the tree, so he can't fall!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "I'm up. From today, you are my brother. Whoever wants you gone, goes through me.",
+      "pace": "slow",
+      "_tone_vi": "thở dốc"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Then, Roar, stop calling me stranger, okay?",
+      "pace": "normal",
+      "_tone_vi": "cười"
+     }
+    ],
+    "_hinh": "Trên mép hố, Khang đã trèo lên, cùng Stream (cảnh quay riêng) kéo dây vòng qua gốc cây. Roar được kéo lên mép cỏ, nằm ngửa thở dốc, giơ tay nắm lấy tay Khang.",
+    "chars": [
+     "@Khang",
+     "@Roar"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana",
+     "@Roar": "a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, barefoot"
+    },
+    "_plan": [
+     "@Khang 0.4–3.7s",
+     "@Roar 4.2–10.4s",
+     "@Khang 10.9–13.4s"
+    ]
+   }
+  ],
+  "location": "Hố sụt đá vôi giữa rừng, ánh nắng rọi xiên xuống đáy; một gốc cây to ở mép hố.",
+  "setting": "A limestone sinkhole in the primeval jungle at midday: a pit about four meters deep with steep mossy rock walls, ferns and reeds hanging over the rim, a big tree right at the edge, a shaft of sunlight reaching the soft earthen bottom.",
+  "_setting_key": "SINKHOLE"
+ },
+ {
+  "num": 15,
+  "title": "Muddy Water (Nước đục)",
+  "time_label": "Chiều ngày 6, bờ suối trên đường về (14:00–15:00)",
+  "clips": [
+   {
+    "id": "15.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Wait. This morning the stream was clear. Why is it brown now?",
+      "pace": "normal",
+      "_tone_vi": "bất an"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Rain upstream makes the water brown. Every season. Nothing to fear.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "It's sunny here. But look at those branches racing. The water's rising fast!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang dìu Roar chống gậy đi dọc suối thì khựng lại, nhìn mặt nước: đục như nước cháo, một cành cây lớn lao vụt qua.",
+    "chars": [
+     "@Khang",
+     "@Roar"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana",
+     "@Roar": "a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, barefoot"
+    },
+    "_plan": [
+     "@Khang 0.4–4.7s",
+     "@Roar 5.2–9.3s",
+     "@Khang 9.8–13.7s"
+    ]
+   },
+   {
+    "id": "15.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Look, black clouds all over the headwaters. Tonight all that water comes here.",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Our cave sits by the stream. Can water reach our beds?",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Flash floods don't creep. It hits all at once and takes everything!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang leo lên một tảng đá cao, chỉ về phía đầu nguồn: mây đen trùm kín. Stream leo theo, nhìn theo tay anh, mặt tái đi.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Khang 0.4–4.3s",
+     "@Stream 4.8–8.8s",
+     "@Khang 9.3–12.9s"
+    ]
+   },
+   {
+    "id": "15.3",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "When I was small, water once filled the lower cave. Some elders didn't make it.",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Then we can't wait! Is there higher ground?",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "The upper cave, in the cliff. Stream, take Fire the short way!",
+      "pace": "fast",
+      "_tone_vi": "chỉ lên vách núi"
+     }
+    ],
+    "_hinh": "Roar chống gậy nhìn mây đen, mắt tối lại như nhớ chuyện cũ. Khang quay phắt sang anh.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana",
+     "@Roar": "a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, barefoot"
+    },
+    "_plan": [
+     "@Roar 0.4–6.6s",
+     "@Khang 7.1–9.5s",
+     "@Roar 10.0–13.8s"
+    ]
+   },
+   {
+    "id": "15.4",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "This way! Through the reeds, across the rocks, then the cave! Stay close!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "What if Grandma doesn't believe me? Back home, even the truth gets ignored.",
+      "pace": "fast",
+      "_tone_vi": "thở dốc"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Here is different. I believe you. Grandmother listens to me.",
+      "pace": "normal",
+      "_tone_vi": "không ngoái lại"
+     }
+    ],
+    "_hinh": "Stream dẫn Khang chạy băng qua bãi lau, nhảy qua khe đá, lá quất vào mặt. Khang thở dốc chạy theo sau.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Stream 0.4–4.3s",
+     "@Khang 4.8–8.7s",
+     "@Stream 9.2–12.8s"
+    ]
+   }
+  ],
+  "location": "Bờ suối chiều; nước đột ngột đục ngầu, cành lá trôi nhanh; xa xa trên đầu nguồn, mây đen đặc như mực trùm đỉnh núi, chớp loé không tiếng, trong khi trên đầu vẫn nắng.",
+  "setting": "A jungle stream bank in the Stone Age in late afternoon: the water suddenly brown and fast, branches and leaves racing past, reed beds and big rocks along the bank, the sun still bright overhead while black clouds cover the distant headwater peaks.",
+  "_setting_key": "STREAM_FLOOD_SIGNS"
+ },
+ {
+  "num": 16,
+  "title": "Nobody Believes (Không ai tin)",
+  "time_label": "Chiều muộn ngày 6, hang dưới (15:00–16:00)",
+  "clips": [
+   {
+    "id": "16.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Grandma, we must move to the upper cave now! A flood is coming tonight!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "The sky is clear. It is not the water season. Why frighten the cave?",
+      "pace": "slow",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Khang",
+      "line": "The stream's brown and rising! I saw it myself!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang và Stream lao vào hang, thở hồng hộc. Mọi người (quần chúng) ngừng ăn. Grandma Moon vẫn ngồi, chỉ ngẩng lên.",
+    "chars": [
+     "@Khang",
+     "@Moon"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Khang 0.4–4.6s",
+     "@Moon 5.1–10.9s",
+     "@Khang 11.4–14.1s"
+    ]
+   },
+   {
+    "id": "16.2",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Climbing to the upper cave at night, children and elders fall.",
+      "pace": "normal",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Grandmother, Fire has never been wrong. Fire, boiled water, the fish trap!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "If he's wrong, the cave climbs in the dark for a stranger.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Người trong hang xì xào, mấy bà mẹ ôm con chặt hơn. Stream bước lên đứng ngang hàng với Khang (Khang ở hậu cảnh, mờ).",
+    "chars": [
+     "@Moon",
+     "@Stream"
+    ],
+    "_plan": [
+     "@Moon 0.4–4.5s",
+     "@Stream 5.0–8.6s",
+     "@Moon 9.1–14.1s"
+    ]
+   },
+   {
+    "id": "16.3",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "He is no stranger. He saved me from the pit, with the tiger circling. I trust him.",
+      "pace": "slow",
+      "_tone_vi": "dõng dạc"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Roar? You hated him most.",
+      "pace": "normal",
+      "_tone_vi": "sững sờ"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Hate was yesterday. Muddy water is tonight. Grandmother, take the cave up!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Roar khập khiễng bước vào cửa hang, chống gậy, cổ chân nẹp gỗ quấn khăn rằn đỏ. Cả hang im bặt. Roar dừng trước Grandma Moon.",
+    "chars": [
+     "@Roar",
+     "@Moon"
+    ],
+    "wardrobe": {
+     "@Roar": "a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, barefoot"
+    },
+    "_plan": [
+     "@Roar 0.4–7.4s",
+     "@Moon 7.9–9.8s",
+     "@Roar 10.3–14.1s"
+    ]
+   },
+   {
+    "id": "16.4",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Everyone! Children first. Snail, carry the fire tube. Don't let it die.",
+      "pace": "normal",
+      "_tone_vi": "dứt khoát"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Tie each child to an adult! Stream and I go last!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Fire-Maker. If no water comes, you leave at sunrise.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Grandma Moon đứng dậy, trao ống tre giữ lửa vào tay Snail (cảnh quay riêng). Khang buộc dây leo nối từng đứa trẻ vào người lớn. Grandma Moon quay lại nhìn Khang.",
+    "chars": [
+     "@Moon",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Moon 0.4–4.9s",
+     "@Khang 5.4–8.7s",
+     "@Moon 9.2–13.4s"
+    ]
+   }
+  ],
+  "location": "Hang dưới chiều muộn: cả hang đang nướng cá từ cái lờ, trẻ con chơi đùa, ánh nắng vàng hắt vào cửa hang, tiếng suối dưới chân hang đã to hơn.",
+  "setting": "Late afternoon inside the large Stone Age clan cave: golden light through the wide arched mouth, the elephant-shaped stalactite, bare rock walls, the clan grilling fish over the hearth, the stream below the entrance now loud and brown.",
+  "_setting_key": "CAVE_PAST_LATE"
+ },
+ {
+  "num": 17,
+  "title": "Flood Night (Lũ đêm)",
+  "time_label": "Đêm ngày 6 (16:00–17:00)",
+  "clips": [
+   {
+    "id": "17.1",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Grandmother, one is missing! Where's Snail? Has anyone seen Snail?",
+      "pace": "fast",
+      "_tone_vi": "hoảng"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "The fire tube is gone too. He put it down to climb.",
+      "pace": "fast",
+      "_tone_vi": "run"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "He went back down for the fire. Since the night it died, he blames himself.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Trên hang trên, Stream đi dọc hàng người, chạm vai từng đứa trẻ, đếm, mặt cắt không còn giọt máu. Grandma Moon nhìn chỗ đặt ống lửa: trống.",
+    "chars": [
+     "@Stream",
+     "@Moon"
+    ],
+    "wardrobe": {
+     "@Moon": "a long dark hide cloak over a knee-length bark-cloth tunic, empty-handed with no bamboo tube, barefoot"
+    },
+    "_plan": [
+     "@Stream 0.4–3.4s",
+     "@Moon 3.9–7.7s",
+     "@Stream 8.2–14.2s"
+    ]
+   },
+   {
+    "id": "17.2",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Found it! Still glowing! Little fire, this time I won't let you die!",
+      "pace": "fast",
+      "_tone_vi": "hổn hển"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Snail! Stay there, hold the stone pillar! I'm coming down! When I whistle, shout back!",
+      "pace": "fast",
+      "_tone_vi": "gào"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Fire! The water's up to my legs! I'm here!",
+      "pace": "fast",
+      "_tone_vi": "khóc"
+     }
+    ],
+    "_hinh": "Cắt song song. Hang dưới: nước ngập đến đùi người lớn; Snail bám một cột đá, ôm chặt ống tre, than đỏ hắt lên mặt. Vách núi: Khang quấn dây leo quanh người, đèn đội đầu loé trong mưa, tụt xuống.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "setting": "Night in the flooding lower Stone Age cave and the cliff face above it: brown water pouring in through the wide mouth and rising around stone pillars, the elephant-shaped stalactite, rain lashing the cliff where a vine rope hangs down from torchlight high above.",
+    "_setting_key": "LOWER_CAVE_FLOOD",
+    "intercut": true,
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Snail 0.4–4.3s",
+     "@Khang 4.8–9.3s",
+     "@Snail 9.8–12.5s"
+    ]
+   },
+   {
+    "id": "17.3",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "The rope only reaches the big rock! Past that, I can't hold you!",
+      "pace": "fast",
+      "_tone_vi": "gào"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Enough! Hold tight, back against the rock. Don't stand on that ankle!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Fire! Bring the boy back. And bring yourself back too!",
+      "pace": "normal",
+      "_tone_vi": "gầm lên"
+     }
+    ],
+    "_hinh": "Trên mép hang trên, Roar ngồi tựa lưng vào đá, chân nẹp duỗi thẳng, quấn dây quanh lưng để giữ. Dưới vách, Khang treo trên dây, ngước lên gào.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana",
+     "@Roar": "a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, barefoot"
+    },
+    "_plan": [
+     "@Roar 0.4–4.5s",
+     "@Khang 5.0–8.6s",
+     "@Roar 9.1–12.9s"
+    ]
+   },
+   {
+    "id": "17.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Snail! Your hand! Arms around my neck, don't let go!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Snail",
+      "line": "The fire tube! I'm not letting go! Grandmother said don't let it die!",
+      "pace": "fast",
+      "_tone_vi": "khóc"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Fine, keep it! Onto that rock, quick, here comes the water!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang lội vào cửa hang dưới, ánh đèn đầu tìm thấy Snail. Anh bế cậu bé lên vai; Snail vẫn ôm ống lửa. Hai người trèo lên tảng đá lớn ở chân vách đúng lúc một con sóng bùn tràn qua cửa hang bên dưới.",
+    "chars": [
+     "@Khang",
+     "@Snail"
+    ],
+    "setting": "Night in the flooding lower Stone Age cave and the cliff face above it: brown water pouring in through the wide mouth and rising around stone pillars, the elephant-shaped stalactite, rain lashing the cliff where a vine rope hangs down from torchlight high above.",
+    "_setting_key": "LOWER_CAVE_FLOOD",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Khang 0.4–3.4s",
+     "@Snail 3.9–7.8s",
+     "@Khang 8.3–11.6s"
+    ]
+   }
+  ],
+  "location": "Đêm mưa. Hang trên là một mái đá hẹp giữa vách núi, đuốc lập loè, cả hang chen chúc. Dưới chân vách, nước bùn gầm lên tràn bãi suối. Hang dưới tối om, nước đã vào đến lòng hang.",
+  "setting": "Night during a flash flood in the Stone Age: a narrow ledge-cave high on a limestone cliff lit by flickering torches, heavy rain, and far below a roaring brown flood surging over the stream banks toward the mouth of the lower cave.",
+  "_setting_key": "CLIFF_NIGHT_FLOOD"
+ },
+ {
+  "num": 18,
+  "title": "Three Million and One Boy (Ba triệu người và một thằng nhóc)",
+  "time_label": "Đêm lũ (17:00–18:00)",
+  "clips": [
+   {
+    "id": "18.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Everyone! Down here! Two of us, both alive!",
+      "pace": "fast",
+      "_tone_vi": "gào lên vách"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Fire... the water's higher. Will the rock get swept away?",
+      "pace": "slow",
+      "_tone_vi": "run"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "This rock is huge, the water can't move it. See the torches? Stream's throwing a rope.",
+      "pace": "normal",
+      "_tone_vi": "dỗ dành"
+     }
+    ],
+    "_hinh": "Khang ôm Snail trên đỉnh tảng đá, thổi còi ba tiếng, rồi rọi đèn đầu lên vách nơi những ngọn đuốc lập loè. Snail run rẩy, ống lửa ôm trước ngực.",
+    "chars": [
+     "@Khang",
+     "@Snail"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Khang 0.4–2.8s",
+     "@Snail 3.3–7.3s",
+     "@Khang 7.8–13.6s"
+    ]
+   },
+   {
+    "id": "18.2",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Fire! The rope has a stone! Hands up and catch!",
+      "pace": "fast",
+      "_tone_vi": "gào"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Got it! Tying Snail first. Bowline, it won't slip, don't worry!",
+      "pace": "fast",
+      "_tone_vi": ""
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Snail, hug the fire tube! The whole cave is pulling! One, two, pull!",
+      "pace": "fast",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Trên mép vách, Stream buộc một hòn đá vào đầu dây, quăng xuống; lần thứ hai Khang bắt được. Anh buộc Snail bằng nút ghế. Cả hang (quần chúng) kéo, Snail được kéo dần lên vách, vẫn ôm ống lửa.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Stream 0.4–3.4s",
+     "@Khang 3.9–7.2s",
+     "@Stream 7.7–11.6s"
+    ]
+   },
+   {
+    "id": "18.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "The strap snapped! No... all seven days are in there!",
+      "pace": "fast",
+      "_tone_vi": "hoảng"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Fire! Let the seeing stone go! Hold the rope with both hands!",
+      "pace": "fast",
+      "_tone_vi": "gào từ trên"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Go, then. Three million viewers aren't worth one boy holding a fire tube.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Dây được thả xuống lần nữa. Khang với lấy dây thì khoá đai camera trên ngực bung ra; camera trượt khỏi người. Một tay anh vồ theo, tay kia bám dây. Anh dừng lại, buông camera, nắm dây bằng cả hai tay. Camera, đèn đỏ còn nhấp nháy, trôi vào màn mưa.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana"
+    },
+    "_plan": [
+     "@Khang 0.4–3.4s",
+     "@Stream 3.9–7.5s",
+     "@Khang 8.0–13.2s"
+    ]
+   },
+   {
+    "id": "18.4",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "The water came. The lower cave is flooded.",
+      "pace": "normal",
+      "_tone_vi": "sững sờ"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Is everyone here, Grandma? Did Snail keep the fire?",
+      "pace": "normal",
+      "_tone_vi": "thở dốc"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "All here. The fire lives, the people live. You gave your stone for our fire.",
+      "pace": "slow",
+      "_tone_vi": ""
+     }
+    ],
+    "_hinh": "Khang được kéo lên mép hang trên, nằm vật ra, ướt sũng. Snail (cảnh quay riêng) mở nắp ống tre: than vẫn đỏ, cả hang thở phào. Grandma Moon quỳ xuống bên Khang.",
+    "chars": [
+     "@Moon",
+     "@Khang"
+    ],
+    "setting": "Night during a flash flood in the Stone Age: a narrow ledge-cave high on a limestone cliff lit by flickering torches, heavy rain, and far below a roaring brown flood surging over the stream banks toward the mouth of the lower cave.",
+    "_setting_key": "CLIFF_NIGHT_FLOOD",
+    "wardrobe": {
+     "@Khang": "dirty torn olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, an empty black chest harness with no camera",
+     "@Moon": "a long dark hide cloak over a knee-length bark-cloth tunic, empty-handed with no bamboo tube, barefoot"
+    },
+    "_plan": [
+     "@Moon 0.4–3.4s",
+     "@Khang 3.9–7.2s",
+     "@Moon 7.7–13.9s"
+    ]
+   }
+  ],
+  "location": "Đỉnh tảng đá lớn ở chân vách, nước bùn cuồn cuộn quanh, mưa quất; phía trên, mép hang trên với đuốc và bóng người.",
+  "setting": "Night at the foot of the limestone cliff during the flood: the flat top of a huge boulder just above churning brown water, rain lashing, torchlight from a ledge-cave high above, a vine rope hanging down the wet rock face.",
+  "_setting_key": "ROCK_IN_FLOOD"
+ }
+]

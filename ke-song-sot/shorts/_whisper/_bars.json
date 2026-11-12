@@ -1,0 +1,572 @@
+{
+ "canh-01_clip-01": {
+  "mtime": 1794465244.2963126,
+  "crop": null
+ },
+ "canh-01_clip-02": {
+  "mtime": 1794465241.949123,
+  "crop": null
+ },
+ "canh-01_clip-03": {
+  "mtime": 1794465242.8287377,
+  "crop": null
+ },
+ "canh-01_clip-04": {
+  "mtime": 1794465245.095975,
+  "crop": null
+ },
+ "canh-01_clip-05": {
+  "mtime": 1794465243.2317188,
+  "crop": null
+ },
+ "canh-01_clip-06": {
+  "mtime": 1794465241.2878458,
+  "crop": null
+ },
+ "canh-02_clip-01": {
+  "mtime": 1794465243.8609836,
+  "crop": null
+ },
+ "canh-02_clip-02": {
+  "mtime": 1794465242.7318425,
+  "crop": null
+ },
+ "canh-02_clip-03": {
+  "mtime": 1794465243.138584,
+  "crop": null
+ },
+ "canh-02_clip-04": {
+  "mtime": 1794465243.359274,
+  "crop": null
+ },
+ "canh-02_clip-05": {
+  "mtime": 1794465243.986591,
+  "crop": null
+ },
+ "canh-02_clip-06": {
+  "mtime": 1794465245.2451298,
+  "crop": null
+ },
+ "canh-04_clip-01": {
+  "mtime": 1794465246.5699801,
+  "crop": null
+ },
+ "canh-04_clip-02": {
+  "mtime": 1794465247.1452556,
+  "crop": null
+ },
+ "canh-04_clip-03": {
+  "mtime": 1794465247.0328274,
+  "crop": null
+ },
+ "canh-04_clip-04": {
+  "mtime": 1794465250.4398632,
+  "crop": null
+ },
+ "canh-04_clip-05": {
+  "mtime": 1794465249.4120173,
+  "crop": null
+ },
+ "canh-04_clip-06": {
+  "mtime": 1794465247.8782065,
+  "crop": null
+ },
+ "canh-06_clip-01": {
+  "mtime": 1794465252.2678277,
+  "crop": null
+ },
+ "canh-06_clip-02": {
+  "mtime": 1794465250.3843987,
+  "crop": null
+ },
+ "canh-06_clip-03": {
+  "mtime": 1794465250.1041346,
+  "crop": null
+ },
+ "canh-06_clip-04": {
+  "mtime": 1794465251.019843,
+  "crop": null
+ },
+ "canh-06_clip-05": {
+  "mtime": 1794465250.9008064,
+  "crop": null
+ },
+ "canh-06_clip-06": {
+  "mtime": 1794465251.9415054,
+  "crop": null
+ },
+ "canh-08_clip-01": {
+  "mtime": 1794465253.5844092,
+  "crop": null
+ },
+ "canh-08_clip-02": {
+  "mtime": 1794465253.898568,
+  "crop": null
+ },
+ "canh-08_clip-03": {
+  "mtime": 1794465253.84086,
+  "crop": null
+ },
+ "canh-08_clip-04": {
+  "mtime": 1794465254.2734945,
+  "crop": null
+ },
+ "canh-08_clip-05": {
+  "mtime": 1794465254.8129752,
+  "crop": null
+ },
+ "canh-08_clip-06": {
+  "mtime": 1794465255.5614665,
+  "crop": null
+ },
+ "canh-12_clip-01": {
+  "mtime": 1794465261.0734653,
+  "crop": null
+ },
+ "canh-12_clip-02": {
+  "mtime": 1794465261.27007,
+  "crop": null
+ },
+ "canh-12_clip-03": {
+  "mtime": 1794465261.5185564,
+  "crop": null
+ },
+ "canh-12_clip-04": {
+  "mtime": 1794465261.4175959,
+  "crop": null
+ },
+ "canh-12_clip-05": {
+  "mtime": 1794465262.609892,
+  "crop": null
+ },
+ "canh-12_clip-06": {
+  "mtime": 1794465263.9509556,
+  "crop": null
+ },
+ "canh-14_clip-02": {
+  "mtime": 1794465265.9383528,
+  "crop": null
+ },
+ "canh-14_clip-03": {
+  "mtime": 1794465266.0499806,
+  "crop": null
+ },
+ "canh-14_clip-04": {
+  "mtime": 1794465266.4362345,
+  "crop": [
+   1280,
+   666,
+   0,
+   28
+  ]
+ },
+ "canh-14_clip-05": {
+  "mtime": 1794465267.4279046,
+  "crop": null
+ },
+ "canh-14_clip-06": {
+  "mtime": 1794465267.07676,
+  "crop": null
+ },
+ "canh-18_clip-01": {
+  "mtime": 1794465273.2267387,
+  "crop": null
+ },
+ "canh-18_clip-02": {
+  "mtime": 1794465272.7788146,
+  "crop": null
+ },
+ "canh-18_clip-03": {
+  "mtime": 1794465273.923641,
+  "crop": null
+ },
+ "canh-18_clip-04": {
+  "mtime": 1794465275.1866755,
+  "crop": null
+ },
+ "canh-18_clip-05": {
+  "mtime": 1794465273.735971,
+  "crop": null
+ },
+ "canh-18_clip-06": {
+  "mtime": 1794465273.877855,
+  "crop": null
+ },
+ "canh-20_clip-01": {
+  "mtime": 1794465276.5767517,
+  "crop": null
+ },
+ "canh-20_clip-02": {
+  "mtime": 1794465276.5273209,
+  "crop": null
+ },
+ "canh-20_clip-03": {
+  "mtime": 1794465278.2277017,
+  "crop": null
+ },
+ "canh-20_clip-04": {
+  "mtime": 1794465279.389081,
+  "crop": null
+ },
+ "canh-20_clip-05": {
+  "mtime": 1794465276.900131,
+  "crop": null
+ },
+ "canh-22_clip-04": {
+  "mtime": 1794465281.4049006,
+  "crop": null
+ },
+ "canh-22_clip-05": {
+  "mtime": 1794465281.4292154,
+  "crop": null
+ },
+ "canh-22_clip-06": {
+  "mtime": 1794465280.6286752,
+  "crop": null
+ },
+ "canh-23_clip-02": {
+  "mtime": 1794465281.1583033,
+  "crop": null
+ },
+ "canh-23_clip-03": {
+  "mtime": 1794465281.4516811,
+  "crop": null
+ },
+ "canh-23_clip-04": {
+  "mtime": 1794465281.6868298,
+  "crop": null
+ },
+ "canh-24_clip-01": {
+  "mtime": 1794465283.9081964,
+  "crop": null
+ },
+ "canh-24_clip-02": {
+  "mtime": 1794465284.4919975,
+  "crop": null
+ },
+ "canh-24_clip-03": {
+  "mtime": 1794465284.2176232,
+  "crop": null
+ },
+ "canh-24_clip-04": {
+  "mtime": 1794465283.7903647,
+  "crop": null
+ },
+ "canh-24_clip-05": {
+  "mtime": 1794465285.468308,
+  "crop": null
+ },
+ "canh-24_clip-06": {
+  "mtime": 1794465284.3408113,
+  "crop": null
+ },
+ "canh-27_clip-01": {
+  "mtime": 1794465289.1982214,
+  "crop": null
+ },
+ "canh-27_clip-02": {
+  "mtime": 1794465291.7229278,
+  "crop": null
+ },
+ "canh-27_clip-03": {
+  "mtime": 1794465291.7183025,
+  "crop": null
+ },
+ "canh-27_clip-04": {
+  "mtime": 1794465289.9489813,
+  "crop": null
+ },
+ "canh-27_clip-05": {
+  "mtime": 1794465290.6136358,
+  "crop": null
+ },
+ "canh-27_clip-06": {
+  "mtime": 1794465291.1852899,
+  "crop": null
+ },
+ "canh-33_clip-01": {
+  "mtime": 1794465301.5384653,
+  "crop": null
+ },
+ "canh-33_clip-02": {
+  "mtime": 1794465300.8397732,
+  "crop": null
+ },
+ "canh-33_clip-03": {
+  "mtime": 1794465301.350651,
+  "crop": null
+ },
+ "canh-33_clip-04": {
+  "mtime": 1794465301.8475814,
+  "crop": null
+ },
+ "canh-33_clip-05": {
+  "mtime": 1794465302.0815942,
+  "crop": null
+ },
+ "canh-33_clip-06": {
+  "mtime": 1794465303.9675806,
+  "crop": null
+ },
+ "canh-36_clip-01": {
+  "mtime": 1794465305.7715847,
+  "crop": null
+ },
+ "canh-36_clip-02": {
+  "mtime": 1794465307.6137958,
+  "crop": null
+ },
+ "canh-36_clip-03": {
+  "mtime": 1794465308.5144045,
+  "crop": null
+ },
+ "canh-36_clip-04": {
+  "mtime": 1794465306.650342,
+  "crop": null
+ },
+ "canh-36_clip-05": {
+  "mtime": 1794465306.492098,
+  "crop": null
+ },
+ "canh-36_clip-06": {
+  "mtime": 1794465307.685179,
+  "crop": null
+ },
+ "canh-38_clip-02": {
+  "mtime": 1794465309.3059428,
+  "crop": null
+ },
+ "canh-38_clip-03": {
+  "mtime": 1794465309.431819,
+  "crop": null
+ },
+ "canh-38_clip-04": {
+  "mtime": 1794465310.427414,
+  "crop": null
+ },
+ "canh-38_clip-05": {
+  "mtime": 1794465310.36509,
+  "crop": null
+ },
+ "canh-38_clip-06": {
+  "mtime": 1794465310.104945,
+  "crop": null
+ },
+ "canh-41_clip-01": {
+  "mtime": 1794465314.319008,
+  "crop": null
+ },
+ "canh-41_clip-02": {
+  "mtime": 1794465313.6919544,
+  "crop": null
+ },
+ "canh-41_clip-03": {
+  "mtime": 1794465313.8404984,
+  "crop": null
+ },
+ "canh-41_clip-04": {
+  "mtime": 1794465314.1502936,
+  "crop": null
+ },
+ "canh-41_clip-06": {
+  "mtime": 1794465315.348881,
+  "crop": null
+ },
+ "canh-42_clip-01": {
+  "mtime": 1794465314.9769945,
+  "crop": null
+ },
+ "canh-42_clip-02": {
+  "mtime": 1794465316.7193549,
+  "crop": null
+ },
+ "canh-42_clip-03": {
+  "mtime": 1794465315.9035878,
+  "crop": null
+ },
+ "canh-42_clip-04": {
+  "mtime": 1794465315.9054067,
+  "crop": null
+ },
+ "canh-42_clip-05": {
+  "mtime": 1794465316.2596354,
+  "crop": null
+ },
+ "canh-42_clip-06": {
+  "mtime": 1794465316.233418,
+  "crop": null
+ },
+ "canh-43_clip-01": {
+  "mtime": 1794465317.3021688,
+  "crop": null
+ },
+ "canh-43_clip-02": {
+  "mtime": 1794465317.1711392,
+  "crop": null
+ },
+ "canh-43_clip-04": {
+  "mtime": 1794465321.039405,
+  "crop": null
+ },
+ "canh-43_clip-06": {
+  "mtime": 1794465318.0027463,
+  "crop": null
+ },
+ "canh-49_clip-01": {
+  "mtime": 1794465328.4207618,
+  "crop": null
+ },
+ "canh-49_clip-03": {
+  "mtime": 1794465329.1247668,
+  "crop": null
+ },
+ "canh-49_clip-05": {
+  "mtime": 1794465329.5742545,
+  "crop": [
+   1280,
+   676,
+   0,
+   44
+  ]
+ },
+ "canh-49_clip-06": {
+  "mtime": 1794465329.871583,
+  "crop": null
+ },
+ "canh-50_clip-01": {
+  "mtime": 1794465330.230282,
+  "crop": null
+ },
+ "canh-50_clip-02": {
+  "mtime": 1794465330.3396497,
+  "crop": null
+ },
+ "canh-50_clip-03": {
+  "mtime": 1794465331.38056,
+  "crop": null
+ },
+ "canh-50_clip-04": {
+  "mtime": 1794465330.9580705,
+  "crop": null
+ },
+ "canh-50_clip-05": {
+  "mtime": 1794465330.8107479,
+  "crop": null
+ },
+ "canh-50_clip-06": {
+  "mtime": 1794465331.3127584,
+  "crop": null
+ },
+ "canh-51_clip-01": {
+  "mtime": 1794465332.1963017,
+  "crop": null
+ },
+ "canh-51_clip-02": {
+  "mtime": 1794465332.4726624,
+  "crop": null
+ },
+ "canh-51_clip-03": {
+  "mtime": 1794465333.295481,
+  "crop": null
+ },
+ "canh-51_clip-04": {
+  "mtime": 1794465335.0531976,
+  "crop": null
+ },
+ "canh-51_clip-06": {
+  "mtime": 1794465332.7683554,
+  "crop": null
+ },
+ "canh-52_clip-01": {
+  "mtime": 1794465335.7987628,
+  "crop": null
+ },
+ "canh-52_clip-02": {
+  "mtime": 1794465334.7497299,
+  "crop": null
+ },
+ "canh-52_clip-03": {
+  "mtime": 1794465334.370331,
+  "crop": null
+ },
+ "canh-52_clip-04": {
+  "mtime": 1794465335.235559,
+  "crop": null
+ },
+ "canh-52_clip-05": {
+  "mtime": 1794465335.3931007,
+  "crop": null
+ },
+ "canh-52_clip-06": {
+  "mtime": 1794465335.5372236,
+  "crop": null
+ },
+ "canh-53_clip-01": {
+  "mtime": 1794465336.1066675,
+  "crop": null
+ },
+ "canh-53_clip-02": {
+  "mtime": 1794465335.763949,
+  "crop": null
+ },
+ "canh-53_clip-04": {
+  "mtime": 1794465336.6346087,
+  "crop": null
+ },
+ "canh-53_clip-05": {
+  "mtime": 1794465338.5082693,
+  "crop": null
+ },
+ "canh-53_clip-06": {
+  "mtime": 1794465339.6605103,
+  "crop": null
+ },
+ "canh-58_clip-01": {
+  "mtime": 1794465344.9064903,
+  "crop": null
+ },
+ "canh-58_clip-02": {
+  "mtime": 1794465345.90788,
+  "crop": null
+ },
+ "canh-58_clip-03": {
+  "mtime": 1794465345.3313599,
+  "crop": null
+ },
+ "canh-58_clip-04": {
+  "mtime": 1794465346.3140604,
+  "crop": null
+ },
+ "canh-58_clip-05": {
+  "mtime": 1794465346.824918,
+  "crop": null
+ },
+ "canh-58_clip-06": {
+  "mtime": 1794465347.2876532,
+  "crop": null
+ },
+ "canh-60_clip-01": {
+  "mtime": 1794465348.6283956,
+  "crop": null
+ },
+ "canh-60_clip-02": {
+  "mtime": 1794465348.9672623,
+  "crop": null
+ },
+ "canh-60_clip-03": {
+  "mtime": 1794465349.5421302,
+  "crop": null
+ },
+ "canh-60_clip-04": {
+  "mtime": 1794465349.460204,
+  "crop": null
+ },
+ "canh-60_clip-05": {
+  "mtime": 1794465349.4918854,
+  "crop": null
+ },
+ "canh-60_clip-06": {
+  "mtime": 1794465349.9082456,
+  "crop": null
+ }
+}

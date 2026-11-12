@@ -6,16 +6,16 @@ Cắt các đoạn nổi bật của một phim 16:9 (canh-XX/clip-YY) thành vi
 nền mờ từ chính cảnh phim, khung phim 16:9 ở giữa, câu hook ở trên, phụ đề tiếng Việt
 khớp tiếng nói (Whisper) bên dưới khung phim, chừa vùng giao diện của TikTok/Reels.
 
-Nguồn: <series>/shorts/SHORTS_PLAN.json (danh sách short, clip, hook, caption 3 nền tảng).
-Kết quả: <series>/shorts/phan-XX-<slug>/ gồm <slug>.mp4, cover.jpg, phu-de.srt, caption.md
-và <series>/shorts/README.md (bảng kế hoạch + lịch đăng).
+Nguồn: <series>/shorts/SHORTS_PLAN.json (khoảng 10 đoạn nổi bật nhất: clip, hook, caption 3 nền tảng).
+Kết quả nằm phẳng trong <series>/shorts/: NN-<slug>.mp4 cho từng phần và README.md (lịch đăng
++ caption TikTok / YouTube / Facebook của mọi phần).
 
 Usage:
     python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam                # transcribe + render tất cả
-    python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam --only 1 5 17  # chỉ vài phần
+    python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam --only 1 5 7   # chỉ vài phần
     python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam --transcribe   # chỉ chạy Whisper (cache)
     python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam --check        # báo clip nói lặp / thiếu file
-    python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam --captions     # chỉ ghi caption.md + README
+    python flowkit/scripts/make_shorts.py cai-ket-cho-tieu-tam --captions     # chỉ ghi README
 
 Cần: ffmpeg, Pillow, và một Python có mlx_whisper (WHISPER_PYTHON; mặc định venv của VoiceStudio).
 """
@@ -117,6 +117,16 @@ def bare(token):
     return "".join(c for c in t if not unicodedata.combining(c))
 
 
+def phon(token):
+    """bare() with the initials a Hà Nội voice merges (tr/ch, r/d/gi, s/x): Whisper spells what it
+    hears, so 'chấn yểm' must still match the script's 'trấn yểm'."""
+    b = bare(token)
+    for spelt, heard in (("tr", "ch"), ("gi", "d"), ("r", "d"), ("s", "x")):
+        if b.startswith(spelt):
+            return heard + b[len(spelt):]
+    return b
+
+
 class Film:
     def __init__(self, series):
         self.series = series
@@ -210,14 +220,14 @@ def aligned_words(film, cid, use_script=True):
                or (heard[:1].isupper() and not prev.endswith(",")))
         return (tok[:1].upper() if cap else tok[:1].lower()) + tok[1:]
 
-    sm = difflib.SequenceMatcher(None, [bare(w["w"]) for w in words],
-                                 [bare(t) for t, _ in script], autojunk=False)
+    sm = difflib.SequenceMatcher(None, [phon(w["w"]) for w in words],
+                                 [phon(t) for t, _ in script], autojunk=False)
     out = []
     for op, i1, i2, j1, j2 in sm.get_opcodes():
         if op == "equal":
             for k in range(i2 - i1):
                 w = words[i1 + k]
-                out.append(dict(w, w=spelled(j1 + k, w["w"]), spk=script[j1 + k][1]))
+                out.append(dict(w, w=spelled(j1 + k, w["w"]), spk=script[j1 + k][1], matched=True))
         elif op == "replace" and _close(words[i1:i2], script[j1:j2]):
             # Misheard words ("thức dây", "L58"): show the script's words over the same time span.
             s, e = words[i1]["s"], words[i2 - 1]["e"]
@@ -225,7 +235,7 @@ def aligned_words(film, cid, use_script=True):
             for k in range(j2 - j1):
                 heard = words[i1]["w"] if k == 0 else ""
                 out.append({"w": spelled(j1 + k, heard), "s": s + k * step, "e": s + (k + 1) * step,
-                            "spk": script[j1 + k][1]})
+                            "spk": script[j1 + k][1], "matched": True})
         else:
             out.extend(words[i1:i2])   # said but not in the script (or dropped script words: skip)
     words = out
@@ -241,14 +251,28 @@ def aligned_words(film, cid, use_script=True):
 
 
 def _close(heard, script):
-    said = " ".join(bare(w["w"]) for w in heard)
-    if re.search(r"\d", said):
+    if re.search(r"\d", " ".join(w["w"] for w in heard)):
         return True
-    return difflib.SequenceMatcher(None, said, " ".join(bare(t) for t, _ in script)).ratio() >= 0.6
+    said = " ".join(phon(w["w"]) for w in heard)
+    if len(heard) == len(script) and all(
+            difflib.SequenceMatcher(None, phon(w["w"]), phon(t)).ratio() >= 0.5
+            for w, (t, _) in zip(heard, script)):
+        return True   # word-for-word near misses: "Úc" for "Út"
+    return difflib.SequenceMatcher(None, said, " ".join(phon(t) for t, _ in script)).ratio() >= 0.6
 
 
 def _text(ws):
     return " ".join(w["w"] for w in ws)
+
+
+# Words that come before a name, so a capital after them is not a new sentence ("họ Vũ", "cụ Từ").
+NAME_PREFIX = {"ho", "cu", "ba", "ong", "co", "chu", "anh", "chi", "em", "ten", "mu", "lao", "thang",
+               "con", "cau", "nha", "pho", "lang", "song", "nui", "thon", "xom", "duong", "tinh"}
+
+
+CLAUSE_START = {"mang", "dang", "da", "se", "roi", "den", "va", "nhung", "ma", "thi", "de", "vi", "nen",
+                "khi", "trong", "tren", "duoi", "voi", "cho", "bi", "duoc", "lai", "con", "cung", "chi",
+                "nhu", "tu", "toi", "ra", "vao", "len", "xuong", "hay", "hoac", "neu", "dung", "tung"}
 
 
 def _split(ws, max_chars):
@@ -257,14 +281,20 @@ def _split(ws, max_chars):
     if len(_text(ws)) <= max_chars or len(ws) < 2:
         return [ws]
     natural = [i for i in range(1, len(ws))
-               if re.search(r"[.?!…,;:]$", ws[i - 1]["w"]) or ws[i]["w"][:1].isupper()]
-    fits = [i for i in natural if max(len(_text(ws[:i])), len(_text(ws[i:]))) <= max_chars]
-    candidates = fits or range(1, len(ws))
+               if re.search(r"[.?!…,;:]$", ws[i - 1]["w"])
+               or (ws[i]["w"][:1].isupper() and bare(ws[i - 1]["w"]) not in NAME_PREFIX)]
+    # A natural break may run a few characters over; a mid-phrase break ("nhà | cổ") reads worse.
+    fits = [i for i in natural if max(len(_text(ws[:i])), len(_text(ws[i:]))) <= max_chars + 6]
+    # Else break at punctuation anyway and split the long side again; with no punctuation at all,
+    # break before a word that opens a clause ("…họ Vũ | mang lời nguyền…").
+    roomy = [i for i in natural if min(len(_text(ws[:i])), len(_text(ws[i:]))) >= 12]
+    clause = [i for i in range(2, len(ws) - 1) if bare(ws[i]["w"]) in CLAUSE_START]
+    candidates = fits or roomy or clause or range(1, len(ws))
     i = min(candidates, key=lambda k: abs(len(_text(ws[:k])) - len(_text(ws[k:]))))
     return _split(ws[:i], max_chars) + _split(ws[i:], max_chars)
 
 
-def build_cues(words, max_chars=56):
+def build_cues(words, max_chars=58):
     # Phrases end at a speaker change, a pause, or a full stop (unless the sentence is a 1–2 word reply).
     phrases, cur = [], []
     for w in words:
@@ -275,16 +305,43 @@ def build_cues(words, max_chars=56):
         cur.append(w)
     if cur:
         phrases.append(cur)
-    cues = [{"s": p[0]["s"], "e": p[-1]["e"], "spk": p[0].get("spk"), "text": _text(p)}
+    cues = [{"s": p[0]["s"], "e": p[-1]["e"], "spk": p[0].get("spk"), "text": re.sub(r"!{2,}", "!", _text(p))}
             for phrase in phrases for p in _split(phrase, max_chars)]
     for k, c in enumerate(cues):
-        if k == 0 or not cues[k - 1]["text"].endswith(","):
+        prev = cues[k - 1] if k else None
+        if not prev or re.search(r"[.?!…]$", prev["text"]) or prev["spk"] != c["spk"]:
             c["text"] = c["text"][:1].upper() + c["text"][1:]
     for a, b in zip(cues, cues[1:]):
         a["e"] = min(max(a["e"] + 0.3, a["s"] + 0.8), b["s"])
     if cues:
         cues[-1]["e"] += 0.3
     return cues
+
+
+def drop_stutters(words):
+    """Show a phrase Omni stammered twice in a row ("cánh cửa cánh cửa thứ ba") once in the subtitle.
+    Single repeated words stay: Vietnamese doubles words on purpose (xa xa, từ từ)."""
+    out = []
+    for w in words:
+        out.append(w)
+        for n in range(6, 1, -1):
+            if len(out) >= 2 * n and [phon(x["w"]) for x in out[-n:]] == [phon(x["w"]) for x in out[-2 * n:-n]]:
+                for a, b in zip(out[-2 * n:-n], out[-n:]):
+                    if b.get("matched") and not a.get("matched"):   # keep the script-spelled copy's words
+                        a["w"], a["spk"], a["matched"] = b["w"], b["spk"], True
+                del out[-n:]
+                break
+    return out
+
+
+def tail_echo(words):
+    """Index where the clip's last words start repeating the words just before them
+    ("…dâng ngập mắt cá. Dâng ngập mắt cá."), else None. Omni pads 10 s clips this way."""
+    keys = [phon(w["w"]) for w in words]
+    for k in range(min(10, len(keys) // 2), 0, -1):
+        if keys[-k:] == keys[-2 * k:-k]:
+            return len(keys) - k
+    return None
 
 
 def find_repeats(film, cid, n=4):
@@ -298,11 +355,6 @@ def find_repeats(film, cid, n=4):
             hits.append((words[seen[gram]]["s"], words[i]["s"], gram))
         seen.setdefault(gram, i)
     return hits
-
-
-def fmt_srt(t):
-    ms = int(round(t * 1000))
-    return f"{ms // 3600000:02d}:{ms // 60000 % 60:02d}:{ms // 1000 % 60:02d},{ms % 1000:03d}"
 
 
 # ---------------------------------------------------------------- Graphics (Pillow)
@@ -396,8 +448,10 @@ def render_top(path, tag, hook, style, badge=None):
         region, size = 395, 62
     while True:
         fnt = font("Roboto-Black.ttf", size)
-        lines = [l for part in hook.split("\n") for l in wrap(part, fnt, 980)]
-        if len(lines) <= 3 or size <= 56:
+        parts = [wrap(part, fnt, 980) for part in hook.split("\n")]
+        lines = [l for part in parts for l in part]
+        # Each written line should stay one line; an orphan word ("giọng") reads as a mistake.
+        if all(len(part) == 1 for part in parts) or size <= 52:
             break
         size -= 4
     # Keep a [highlight] that wrapped onto the next line highlighted there too.
@@ -465,8 +519,9 @@ def video_filter(film, cid, fixes, bars_cache):
     fix = fixes.get(cid, {})
     parts = []
     if "delogo" in fix:
-        x, y, w, h = fix["delogo"]
-        parts.append(f"delogo=x={x}:y={y}:w={w}:h={h}")
+        boxes = fix["delogo"] if isinstance(fix["delogo"][0], list) else [fix["delogo"]]
+        for x, y, w, h in boxes:   # one box per painted logo / clock / caption
+            parts.append(f"delogo=x={x}:y={y}:w={w}:h={h}")
     crop = fix.get("crop") or detect_bars(film, cid, bars_cache)
     if crop:
         parts.append("crop={}:{}:{}:{}".format(*crop))
@@ -488,15 +543,19 @@ def plan_segments(film, short):
             end = seg["to"]
         else:
             tail = 1.8 if i == len(short["segments"]) - 1 else 1.0
-            end = min(dur, words[-1]["e"] + tail) if words else dur
+            echo = tail_echo(words) if "from" not in seg else None
+            if echo:   # stop before the padded repeat, keep a breath of the shot
+                end = min(words[echo - 1]["e"] + tail, words[echo]["s"] - 0.05)
+            else:
+                end = min(dur, words[-1]["e"] + tail) if words else dur
         segs.append({"clip": cid, "from": start, "to": end})
     return segs
 
 
-def render_short(film, plan, short, out_dir, bars_cache):
+def render_short(film, plan, short, bars_cache):
     style = plan["style"]
     n = short["n"]
-    tmp = out_dir / "_tmp"
+    tmp = film.shorts_dir / f"_tmp_{n:02d}"
     tmp.mkdir(parents=True, exist_ok=True)
     segs = plan_segments(film, short)
 
@@ -504,8 +563,8 @@ def render_short(film, plan, short, out_dir, bars_cache):
     cues, t0 = [], 0.0
     colours = {k: hex_rgb(v) for k, v in plan.get("speaker_colors", {}).items()}
     for seg in segs:
-        words = [w for w in aligned_words(film, seg["clip"], plan.get("match_script", True))
-                 if seg["from"] - 0.05 <= (w["s"] + w["e"]) / 2 <= seg["to"]]
+        words = drop_stutters([w for w in aligned_words(film, seg["clip"], plan.get("match_script", True))
+                               if seg["from"] - 0.05 <= (w["s"] + w["e"]) / 2 <= seg["to"]])
         for c in build_cues(words):
             c["s"] = max(c["s"] - seg["from"], 0) + t0
             c["e"] = min(c["e"] - seg["from"], seg["to"] - seg["from"]) + t0
@@ -558,20 +617,11 @@ def render_short(film, plan, short, out_dir, bars_cache):
     fc.append(f"[{last}]null[vout]")
     fc.append("[ma]loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[aout]")
 
-    mp4 = out_dir / f"{out_dir.name}.mp4"
     cmd += ["-filter_complex", ";".join(fc), "-map", "[vout]", "-map", "[aout]",
             "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-profile:v", "high",
-            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(mp4)]
+            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart",
+            str(video_path(film, short))]
     subprocess.run(cmd, check=True)
-
-    # Cover: one frame of the finished short (hook already on it).
-    cover_t = short.get("cover_at", 1.0)
-    subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", f"{cover_t:.2f}",
-                    "-i", str(mp4), "-frames:v", "1", "-q:v", "3", str(out_dir / "cover.jpg")], check=True)
-
-    srt = "\n".join(f"{k + 1}\n{fmt_srt(c['s'])} --> {fmt_srt(c['e'])}\n{c['text']}\n"
-                    for k, c in enumerate(cues))
-    (out_dir / "phu-de.srt").write_text(srt)
     for p in tmp.iterdir():
         p.unlink()
     tmp.rmdir()
@@ -583,8 +633,22 @@ def render_short(film, plan, short, out_dir, bars_cache):
 WEEKDAYS = ["Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ Nhật"]
 
 
-def part_dir(film, short):
-    return film.shorts_dir / f"phan-{short['n']:02d}-{short['slug']}"
+def video_path(film, short):
+    return film.shorts_dir / f"{short['n']:02d}-{short['slug']}.mp4"
+
+
+def clean_stale(film, plan, manifest):
+    """Drop outputs the plan no longer produces: the old one-folder-per-part layout
+    (phan-XX-<slug>/ with mp4, cover, srt, caption) and NN-<slug>.mp4 of removed parts."""
+    import shutil
+    keep = {video_path(film, s).name for s in plan["shorts"]}
+    for p in film.shorts_dir.iterdir():
+        if p.is_dir() and re.match(r"phan-\d\d-", p.name):
+            shutil.rmtree(p)
+        elif p.suffix == ".mp4" and re.match(r"\d\d-", p.name) and p.name not in keep:
+            p.unlink()
+    for key in [k for k in manifest if int(k) not in {s["n"] for s in plan["shorts"]}]:
+        del manifest[key]
 
 
 def slot(plan, n):
@@ -602,6 +666,9 @@ def caption_texts(plan, short):
     next_line = (f"👉 Xem tiếp Phần {n + 1}: {nxt['title']}" if nxt else plan["final_cta"])
     tags = {p: " ".join(plan["hashtags"][p] + (short.get("tags", []) if p != "youtube" else []))
             for p in ("tiktok", "youtube", "facebook")}
+    if len(tags["tiktok"].split()) > 5:
+        # TikTok has refused a sixth hashtag since mid-2025.
+        raise SystemExit(f"Phần {n}: caption TikTok có {len(tags['tiktok'].split())} hashtag, tối đa 5")
     tiktok_next = f"👉 Phần {n + 1} ở trang cá nhân, Follow để xem tiếp!" if nxt else plan["final_cta"]
     tiktok = f"{short['caption']}\n{short['question']}\n\n{tiktok_next}\n{tags['tiktok']}"
     youtube = f"{short['caption']}\n\n{full}\n{next_line}\n\n#Shorts {tags['youtube']}"
@@ -610,33 +677,32 @@ def caption_texts(plan, short):
 
 
 def write_captions(film, plan, manifest):
+    """One README.md beside the videos: schedule table, notes, then every part's captions."""
     total = len(plan["shorts"])
-    rows = []
+    rows, blocks = [], []
     for short in plan["shorts"]:
         n = short["n"]
         info = manifest.get(str(n), {})
         dur = f"{info['duration']:.0f}s" if info else "chưa render"
         clips = ", ".join(dict.fromkeys(seg["clip"] for seg in short["segments"]))
-        d = part_dir(film, short)
-        d.mkdir(parents=True, exist_ok=True)
-        tiktok, youtube, facebook = caption_texts(plan, short)
-        (d / "caption.md").write_text(
-            f"# Phần {n}/{total} — {short['title']}\n\n"
-            f"- **Video:** `{d.name}.mp4` ({dur}) · bìa `cover.jpg` · phụ đề rời `phu-de.srt`\n"
-            f"- **Cảnh trong phim:** {clips}\n"
-            f"- **Lịch đăng:** {slot(plan, n)} (cả 3 nền tảng)\n\n"
-            f"## TikTok\n\n```text\n{tiktok}\n```\n\n"
-            f"## YouTube Shorts\n\n**Tiêu đề** ({len(short['yt_title'])}/100 ký tự):\n\n"
-            f"```text\n{short['yt_title']}\n```\n\n**Mô tả:**\n\n```text\n{youtube}\n```\n\n"
-            f"## Facebook Reels\n\n```text\n{facebook}\n```\n")
+        video = video_path(film, short).name
         star = "⭐" if short.get("top") else ""
-        rows.append(f"| {n} | [{short['title']}]({d.name}/caption.md) | {clips} | {dur} | {slot(plan, n)} | {star} |")
+        rows.append(f"| {n} | [`{video}`]({video}) | {short['title']} | {clips} | {dur} | {slot(plan, n)} | {star} |")
+        tiktok, youtube, facebook = caption_texts(plan, short)
+        blocks.append(
+            f"### Phần {n}/{total} — {short['title']}\n\n"
+            f"`{video}` · {dur} · cảnh {clips} · đăng {slot(plan, n)}\n\n"
+            f"**TikTok**\n\n```text\n{tiktok}\n```\n\n"
+            f"**YouTube Shorts — tiêu đề** ({len(short['yt_title'])}/100 ký tự)\n\n"
+            f"```text\n{short['yt_title']}\n```\n\n**YouTube Shorts — mô tả**\n\n```text\n{youtube}\n```\n\n"
+            f"**Facebook Reels**\n\n```text\n{facebook}\n```\n")
 
     lines = lambda key: "\n".join(plan[key]) if isinstance(plan[key], list) else plan[key]
     readme = lines("readme_intro").rstrip() + "\n\n" + \
         "## Lịch đăng & danh sách phần\n\n" + \
-        "| Phần | Nội dung (mở caption) | Cảnh | Thời lượng | Đăng lúc | Ưu tiên |\n" + \
-        "|---|---|---|---|---|---|\n" + "\n".join(rows) + "\n\n" + lines("readme_notes").rstrip() + "\n"
+        "| Phần | Video | Nội dung | Cảnh | Thời lượng | Đăng lúc | Ưu tiên |\n" + \
+        "|---|---|---|---|---|---|---|\n" + "\n".join(rows) + "\n\n" + \
+        lines("readme_notes").rstrip() + "\n\n## Caption từng phần (copy dán)\n\n" + "\n".join(blocks)
     (film.shorts_dir / "README.md").write_text(readme)
 
 
@@ -648,7 +714,7 @@ def main():
     ap.add_argument("--only", nargs="*", type=int, help="chỉ render các phần này (số n trong plan)")
     ap.add_argument("--transcribe", action="store_true", help="chỉ chạy Whisper cho mọi clip đã render")
     ap.add_argument("--check", action="store_true", help="báo clip thiếu file / nói lặp câu")
-    ap.add_argument("--captions", action="store_true", help="chỉ ghi caption.md + README, không render")
+    ap.add_argument("--captions", action="store_true", help="chỉ ghi README (lịch + caption), không render")
     ap.add_argument("--force-whisper", action="store_true")
     args = ap.parse_args()
 
@@ -679,10 +745,13 @@ def main():
                 print(f"  [BỎ QUA] Phần {short['n']}: chưa có clip {', '.join(missing)}")
                 continue
             print(f"  [SHORT] Phần {short['n']}: {short['title']}")
-            manifest[str(short["n"])] = render_short(film, plan, short, part_dir(film, short), bars)
+            manifest[str(short["n"])] = render_short(film, plan, short, bars)
             print(f"          → {manifest[str(short['n'])]['duration']}s")
             bars_path.write_text(json.dumps(bars, indent=1))
             manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=1))
+    if not args.only:
+        clean_stale(film, plan, manifest)
+        manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=1))
     write_captions(film, plan, manifest)
     print(f"  [XONG] {film.shorts_dir / 'README.md'}")
 
